@@ -152,5 +152,27 @@
         "date": "2017-02-22"
       }
     ]
+  },
+  {
+    "rss": "http://www.ruanyifeng.com/blog/atom.xml",
+    "title": "阮一峰的网络日志",
+    "link": "http://www.ruanyifeng.com/blog/",
+    "items": [
+      {
+        "title": "每周分享第 23 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html",
+        "date": "2018-09-21"
+      },
+      {
+        "title": "命令行通配符教程",
+        "link": "http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html",
+        "date": "2018-09-20"
+      },
+      {
+        "title": "Vim 配置入门",
+        "link": "http://www.ruanyifeng.com/blog/2018/09/vimrc.html",
+        "date": "2018-09-16"
+      }
+    ]
   }
 ]
