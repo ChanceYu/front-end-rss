@@ -5,10 +5,11 @@
 - [想做大牛的蜗牛](#想做大牛的蜗牛)
     
 
-    <details open>
-    <summary id="张鑫旭-鑫空间-鑫生活">
-    张鑫旭-鑫空间-鑫生活
-    </summary>
+<details open>
+<summary id="张鑫旭-鑫空间-鑫生活">
+  张鑫旭-鑫空间-鑫生活
+</summary>
+
 - [2018-09-21-直接剪切板粘贴上传图片的前端JS实现](https://www.zhangxinxu.com/wordpress/2018/09/ajax-upload-image-from-clipboard/)
 - [2018-09-09-利用剪切板JS API优化输入框的粘贴体验](https://www.zhangxinxu.com/wordpress/2018/09/js-clipboard-api-paste-input/)
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
@@ -19,17 +20,16 @@
 - [2018-08-04-原来浏览器原生支持JS Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/)
 - [2018-08-02-万岁，浏览器原生支持ES6 export和import模块啦！](https://www.zhangxinxu.com/wordpress/2018/08/browser-native-es6-export-import-module/)
 - [2018-07-26-隐私相关-了解HTML5 Do Not Track API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
-
     
-    
-    </details>
+</details>
 
     
 
-    <details open>
-    <summary id="想做大牛的蜗牛">
-    想做大牛的蜗牛
-    </summary>
+<details open>
+<summary id="想做大牛的蜗牛">
+  想做大牛的蜗牛
+</summary>
+
 - [2017-11-20-[原]webpack中webpack.config.js、package.json](https://blog.csdn.net/xiaowoniuqiren/article/details/78580921)
 - [2017-11-18-[转]html-webpack-plugin详解](https://blog.csdn.net/xiaowoniuqiren/article/details/78568739)
 - [2017-11-13-[转]mac下安装nvm以及node、webpack](https://blog.csdn.net/xiaowoniuqiren/article/details/78516967)
@@ -49,6 +49,4 @@
 - [2017-02-22-[转]ES6学习－1 （let）](https://blog.csdn.net/xiaowoniuqiren/article/details/56494517)
 - [2017-02-22-[原]第一篇博客](https://blog.csdn.net/xiaowoniuqiren/article/details/56485630)
 
-    
-    
-    </details>
+</details>
