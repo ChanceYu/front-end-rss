@@ -1172,5 +1172,62 @@
         "date": "2018-07-19"
       }
     ]
+  },
+  {
+    "rss": "http://www.w3cplus.com/rss.xml",
+    "title": "w3cplus",
+    "link": "https://www.w3cplus.com",
+    "items": [
+      {
+        "title": "Vue组件通讯",
+        "link": "https://www.w3cplus.com/vue/component-communication.html",
+        "date": "2018-09-09"
+      },
+      {
+        "title": "Vue中的状态管理",
+        "link": "https://www.w3cplus.com/vue/managing-state-in-vue-js.html",
+        "date": "2018-09-05"
+      },
+      {
+        "title": "探索Web上图片使用方式",
+        "link": "https://www.w3cplus.com/css/how-to-use-web-image.html",
+        "date": "2018-09-02"
+      },
+      {
+        "title": "使用Intersection Observer API构建无限滚动组件",
+        "link": "https://www.w3cplus.com/vue/build-an-infinite-scroll-component-using-intersection-observer-api.html",
+        "date": "2018-08-26"
+      },
+      {
+        "title": "Vue中的异步组件",
+        "link": "https://www.w3cplus.com/vue/async-vuejs-components.html",
+        "date": "2018-08-26"
+      },
+      {
+        "title": " 重用Vue组件中的逻辑",
+        "link": "https://www.w3cplus.com/vue/reusing-logic-in-vue-components.html",
+        "date": "2018-08-24"
+      },
+      {
+        "title": "三角函数在前端动画中的应用",
+        "link": "https://www.w3cplus.com/javascript/trigonometry-you-must-know.html",
+        "date": "2018-08-23"
+      },
+      {
+        "title": "如何构建一个简单的摄像头组件",
+        "link": "https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html",
+        "date": "2018-08-23"
+      },
+      {
+        "title": "CSS混合模式高级应用",
+        "link": "https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html",
+        "date": "2018-08-22"
+      },
+      {
+        "title": "DOM系列：DOM事件的传播",
+        "link": "https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html",
+        "date": "2018-08-21"
+      }
+    ]
   }
 ]
