@@ -1,7 +1,11 @@
 [
+  "http://taobaofed.org/atom.xml",
+  "http://www.aliued.cn/feed",
+  "http://fex.baidu.com/feed.xml",
   "https://www.zhangxinxu.com/wordpress/feed/",
-  "https://blog.csdn.net/xiaowoniuqiren/rss/list",
   "http://www.ruanyifeng.com/blog/atom.xml",
   "http://www.yyyweb.com/feed",
-  "http://www.aliued.cn/feed"
+  "https://75team.com/rss.html",
+  "https://aotu.io/atom.xml",
+  "http://jdc.jd.com/feed"
 ]
