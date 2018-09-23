@@ -164,63 +164,6 @@
     ]
   },
   {
-    "rss": "http://fex.baidu.com/feed.xml",
-    "title": "百度 FEX 团队",
-    "link": "http://fex.baidu.com",
-    "items": [
-      {
-        "title": "FEX 技术周刊 - 2018/09/17",
-        "link": "http://fex.baidu.com/blog/2018/09/fex-weekly-17//",
-        "date": "2018-09-17"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/09/10",
-        "link": "http://fex.baidu.com/blog/2018/09/fex-weekly-10//",
-        "date": "2018-09-10"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/09/03",
-        "link": "http://fex.baidu.com/blog/2018/09/fex-weekly-03//",
-        "date": "2018-09-03"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/08/27",
-        "link": "http://fex.baidu.com/blog/2018/08/fex-weekly-27//",
-        "date": "2018-08-27"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/08/13",
-        "link": "http://fex.baidu.com/blog/2018/08/fex-weekly-13//",
-        "date": "2018-08-13"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/08/06",
-        "link": "http://fex.baidu.com/blog/2018/08/fex-weekly-06//",
-        "date": "2018-08-06"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/07/23",
-        "link": "http://fex.baidu.com/blog/2018/07/fex-weekly-23//",
-        "date": "2018-07-23"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/07/16",
-        "link": "http://fex.baidu.com/blog/2018/07/fex-weekly-16//",
-        "date": "2018-07-16"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/07/09",
-        "link": "http://fex.baidu.com/blog/2018/07/fex-weekly-09//",
-        "date": "2018-07-09"
-      },
-      {
-        "title": "FEX 技术周刊 - 2018/07/02",
-        "link": "http://fex.baidu.com/blog/2018/07/fex-weekly-02//",
-        "date": "2018-07-02"
-      }
-    ]
-  },
-  {
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
