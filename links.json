@@ -300,6 +300,120 @@
     ]
   },
   {
+    "rss": "http://jdc.jd.com/feed",
+    "title": "JDC | 京东设计中心",
+    "link": "https://jdc.jd.com",
+    "items": [
+      {
+        "title": "不依赖wifi热点的移动web真机测试解决方案Carefree",
+        "link": "https://jdc.jd.com/archives/212702",
+        "date": "2018-09-13"
+      },
+      {
+        "title": "小程序实战总结",
+        "link": "https://jdc.jd.com/archives/212697",
+        "date": "2018-09-07"
+      },
+      {
+        "title": "【译】关于GraphQL，你需要知道这些",
+        "link": "https://jdc.jd.com/archives/212690",
+        "date": "2018-08-31"
+      },
+      {
+        "title": "【译】React 优化：虚拟 DOM 详解",
+        "link": "https://jdc.jd.com/archives/212685",
+        "date": "2018-08-31"
+      },
+      {
+        "title": "Hello PWA",
+        "link": "https://jdc.jd.com/archives/212666",
+        "date": "2018-08-17"
+      },
+      {
+        "title": "Webpack打包实用优化方案",
+        "link": "https://jdc.jd.com/archives/212653",
+        "date": "2018-08-10"
+      },
+      {
+        "title": "【译】使用 Flutter 实现跨平台移动端开发",
+        "link": "https://jdc.jd.com/archives/212644",
+        "date": "2018-08-10"
+      },
+      {
+        "title": "【译】使用React和HTML5表单验证API处理表单元素",
+        "link": "https://jdc.jd.com/archives/212629",
+        "date": "2018-07-26"
+      },
+      {
+        "title": "再谈Vue组件库开发",
+        "link": "https://jdc.jd.com/archives/212600",
+        "date": "2018-07-24"
+      },
+      {
+        "title": "WebGL入门与进阶3",
+        "link": "https://jdc.jd.com/archives/212370",
+        "date": "2018-07-19"
+      }
+    ]
+  },
+  {
+    "rss": "http://www.w3cplus.com/rss.xml",
+    "title": "w3cplus",
+    "link": "https://www.w3cplus.com",
+    "items": [
+      {
+        "title": "Vue组件通讯",
+        "link": "https://www.w3cplus.com/vue/component-communication.html",
+        "date": "2018-09-09"
+      },
+      {
+        "title": "Vue中的状态管理",
+        "link": "https://www.w3cplus.com/vue/managing-state-in-vue-js.html",
+        "date": "2018-09-05"
+      },
+      {
+        "title": "探索Web上图片使用方式",
+        "link": "https://www.w3cplus.com/css/how-to-use-web-image.html",
+        "date": "2018-09-02"
+      },
+      {
+        "title": "使用Intersection Observer API构建无限滚动组件",
+        "link": "https://www.w3cplus.com/vue/build-an-infinite-scroll-component-using-intersection-observer-api.html",
+        "date": "2018-08-26"
+      },
+      {
+        "title": "Vue中的异步组件",
+        "link": "https://www.w3cplus.com/vue/async-vuejs-components.html",
+        "date": "2018-08-26"
+      },
+      {
+        "title": " 重用Vue组件中的逻辑",
+        "link": "https://www.w3cplus.com/vue/reusing-logic-in-vue-components.html",
+        "date": "2018-08-24"
+      },
+      {
+        "title": "三角函数在前端动画中的应用",
+        "link": "https://www.w3cplus.com/javascript/trigonometry-you-must-know.html",
+        "date": "2018-08-23"
+      },
+      {
+        "title": "如何构建一个简单的摄像头组件",
+        "link": "https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html",
+        "date": "2018-08-23"
+      },
+      {
+        "title": "CSS混合模式高级应用",
+        "link": "https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html",
+        "date": "2018-08-22"
+      },
+      {
+        "title": "DOM系列：DOM事件的传播",
+        "link": "https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html",
+        "date": "2018-08-21"
+      }
+    ]
+  },
+  {
     "rss": "https://aotu.io/atom.xml",
     "title": "Aotu.io",
     "link": "/atom.xml",
@@ -1113,120 +1227,6 @@
         "title": "凹凸实验室博客V1.0.0发布",
         "link": "https://aotu.io/notes/2015/10/08/aotu-blog-v1/",
         "date": "2015-10-08"
-      }
-    ]
-  },
-  {
-    "rss": "http://jdc.jd.com/feed",
-    "title": "JDC | 京东设计中心",
-    "link": "https://jdc.jd.com",
-    "items": [
-      {
-        "title": "不依赖wifi热点的移动web真机测试解决方案Carefree",
-        "link": "https://jdc.jd.com/archives/212702",
-        "date": "2018-09-13"
-      },
-      {
-        "title": "小程序实战总结",
-        "link": "https://jdc.jd.com/archives/212697",
-        "date": "2018-09-07"
-      },
-      {
-        "title": "【译】关于GraphQL，你需要知道这些",
-        "link": "https://jdc.jd.com/archives/212690",
-        "date": "2018-08-31"
-      },
-      {
-        "title": "【译】React 优化：虚拟 DOM 详解",
-        "link": "https://jdc.jd.com/archives/212685",
-        "date": "2018-08-31"
-      },
-      {
-        "title": "Hello PWA",
-        "link": "https://jdc.jd.com/archives/212666",
-        "date": "2018-08-17"
-      },
-      {
-        "title": "Webpack打包实用优化方案",
-        "link": "https://jdc.jd.com/archives/212653",
-        "date": "2018-08-10"
-      },
-      {
-        "title": "【译】使用 Flutter 实现跨平台移动端开发",
-        "link": "https://jdc.jd.com/archives/212644",
-        "date": "2018-08-10"
-      },
-      {
-        "title": "【译】使用React和HTML5表单验证API处理表单元素",
-        "link": "https://jdc.jd.com/archives/212629",
-        "date": "2018-07-26"
-      },
-      {
-        "title": "再谈Vue组件库开发",
-        "link": "https://jdc.jd.com/archives/212600",
-        "date": "2018-07-24"
-      },
-      {
-        "title": "WebGL入门与进阶3",
-        "link": "https://jdc.jd.com/archives/212370",
-        "date": "2018-07-19"
-      }
-    ]
-  },
-  {
-    "rss": "http://www.w3cplus.com/rss.xml",
-    "title": "w3cplus",
-    "link": "https://www.w3cplus.com",
-    "items": [
-      {
-        "title": "Vue组件通讯",
-        "link": "https://www.w3cplus.com/vue/component-communication.html",
-        "date": "2018-09-09"
-      },
-      {
-        "title": "Vue中的状态管理",
-        "link": "https://www.w3cplus.com/vue/managing-state-in-vue-js.html",
-        "date": "2018-09-05"
-      },
-      {
-        "title": "探索Web上图片使用方式",
-        "link": "https://www.w3cplus.com/css/how-to-use-web-image.html",
-        "date": "2018-09-02"
-      },
-      {
-        "title": "使用Intersection Observer API构建无限滚动组件",
-        "link": "https://www.w3cplus.com/vue/build-an-infinite-scroll-component-using-intersection-observer-api.html",
-        "date": "2018-08-26"
-      },
-      {
-        "title": "Vue中的异步组件",
-        "link": "https://www.w3cplus.com/vue/async-vuejs-components.html",
-        "date": "2018-08-26"
-      },
-      {
-        "title": " 重用Vue组件中的逻辑",
-        "link": "https://www.w3cplus.com/vue/reusing-logic-in-vue-components.html",
-        "date": "2018-08-24"
-      },
-      {
-        "title": "三角函数在前端动画中的应用",
-        "link": "https://www.w3cplus.com/javascript/trigonometry-you-must-know.html",
-        "date": "2018-08-23"
-      },
-      {
-        "title": "如何构建一个简单的摄像头组件",
-        "link": "https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html",
-        "date": "2018-08-23"
-      },
-      {
-        "title": "CSS混合模式高级应用",
-        "link": "https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html",
-        "date": "2018-08-22"
-      },
-      {
-        "title": "DOM系列：DOM事件的传播",
-        "link": "https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html",
-        "date": "2018-08-21"
       }
     ]
   }
