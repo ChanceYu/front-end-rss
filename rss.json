@@ -1,10 +1,10 @@
 [
   "http://taobaofed.org/atom.xml",
-  "http://www.aliued.cn/feed",
   "https://www.zhangxinxu.com/wordpress/feed/",
   "http://www.ruanyifeng.com/blog/atom.xml",
   "http://www.yyyweb.com/feed",
   "http://jdc.jd.com/feed",
   "http://www.w3cplus.com/rss.xml",
-  "https://aotu.io/atom.xml"
+  "https://aotu.io/atom.xml",
+  "https://weekly.75team.com/rss.php"
 ]
