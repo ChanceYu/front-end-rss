@@ -340,6 +340,11 @@
     "link": "http://www.yyyweb.com",
     "items": [
       {
+        "title": "基于 BFF 隔离的前后端分离演进",
+        "link": "http://www.yyyweb.com/5125.html",
+        "date": "2018-09-26"
+      },
+      {
         "title": "H5唤起APP完整指南（附开源NPM库）",
         "link": "http://www.yyyweb.com/5149.html",
         "date": "2018-09-19"
