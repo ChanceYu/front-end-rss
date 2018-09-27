@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="rss.gif" /><h1>RSS Grabbing</h1></div>
+<div align="center"><img width="100" src="assets/rss.gif" /><h1>RSS Grabbing</h1></div>
 
 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
