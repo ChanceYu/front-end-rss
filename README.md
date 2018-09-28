@@ -2,15 +2,15 @@
 
 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-09-28 00:00:32，:rocket: 更新条数: +1
+:alarm_clock: 更新时间: 2018-09-28 10:00:24，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ### 文章来源
-- [前端早读课](#前端早读课)
+- [前端早读课](#前端早读课) ![](assets/dot.png)
 - [前端大全](#前端大全)
-- [前端之巅](#前端之巅) ![](assets/dot.png)
+- [前端之巅](#前端之巅)
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
-- [阮一峰的网络日志](#阮一峰的网络日志)
+- [阮一峰的网络日志](#阮一峰的网络日志) ![](assets/dot.png)
 - [前端里](#前端里)
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)
 - [w3cplus](#w3cplus)
@@ -22,6 +22,8 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端早读课
 </summary>
 
+- [2018-09-28-【第1406期】携程国际BU酒店团队的大前端之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=1&sn=b1558a815b3c15bb3943d78447c73e55#wechat_redirect) ![](assets/new.png)
+- [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) ![](assets/new.png)
 - [2018-09-27-【招聘】天猫 IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect)
 - [2018-09-27-【第1405期】浏览器的 Event Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect)
 - [2018-09-26-【第1404期】使用小程序做交互的技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=1&sn=02db5707026cf2f87df780017b8d2643#wechat_redirect)
@@ -76,7 +78,7 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端之巅
 </summary>
 
-- [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect) ![](assets/new.png)
+- [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect)
 - [2018-09-26-Nuxt 2.0正式发布：支持 Webpack 4、ES module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect)
 - [2018-09-25-百度智能小程序月活破亿，今日正式开放申请](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489568&idx=1&sn=ce77b64d7cc6ed0b057c78d7cf55755f#wechat_redirect)
 - [2018-09-23-Electron 3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect)
@@ -146,6 +148,7 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   阮一峰的网络日志
 </summary>
 
+- [2018-09-28-每周分享第 24 期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) ![](assets/new.png)
 - [2018-09-21-每周分享第 23 期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
 - [2018-09-16-Vim 配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html)
