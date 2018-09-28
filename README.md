@@ -2,12 +2,12 @@
 
 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-09-28 22:00:17，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-09-29 06:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ### 文章来源
-- [前端早读课](#前端早读课)
-- [前端大全](#前端大全) ![](assets/dot.png)
-- [前端之巅](#前端之巅) ![](assets/dot.png)
+- [前端早读课](#前端早读课) ![](assets/dot.png)
+- [前端大全](#前端大全)
+- [前端之巅](#前端之巅)
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
 - [阮一峰的网络日志](#阮一峰的网络日志)
@@ -22,6 +22,8 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端早读课
 </summary>
 
+- [2018-09-29-【招聘】LGD俱乐部&VPGAME 招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=2&sn=bc056c3f857334cb38964589c17ed19e#wechat_redirect) ![](assets/new.png)
+- [2018-09-29-【第1407期】盘点 React 16.0 ~ 16.5 主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) ![](assets/new.png)
 - [2018-09-28-【第1406期】携程国际BU酒店团队的大前端之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=1&sn=b1558a815b3c15bb3943d78447c73e55#wechat_redirect)
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect)
 - [2018-09-27-【招聘】天猫 IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect)
@@ -50,8 +52,8 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端大全
 </summary>
 
-- [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) ![](assets/new.png)
-- [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect) ![](assets/new.png)
+- [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect)
+- [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect)
 - [2018-09-27-webpack 启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
 - [2018-09-27-Node 错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect)
 - [2018-09-27-面向对象：希望能遇到可以相伴一生的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=2&sn=a465cd6943faf81c1d57211dc0411890#wechat_redirect)
@@ -80,7 +82,7 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端之巅
 </summary>
 
-- [2018-09-28-十年前端老兵：学习DApp开发，投身下一个浪潮](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489597&idx=1&sn=35dd1520749ae33031f37679c90f81d7#wechat_redirect) ![](assets/new.png)
+- [2018-09-28-十年前端老兵：学习DApp开发，投身下一个浪潮](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489597&idx=1&sn=35dd1520749ae33031f37679c90f81d7#wechat_redirect)
 - [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect)
 - [2018-09-26-Nuxt 2.0正式发布：支持 Webpack 4、ES module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect)
 - [2018-09-25-百度智能小程序月活破亿，今日正式开放申请](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489568&idx=1&sn=ce77b64d7cc6ed0b057c78d7cf55755f#wechat_redirect)
