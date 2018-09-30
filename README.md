@@ -2,12 +2,12 @@
 
 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-09-30 10:00:10，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-09-30 18:00:10，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ### 文章来源
-- [前端早读课](#前端早读课) ![](assets/dot.png)
-- [前端大全](#前端大全)
-- [前端之巅](#前端之巅)
+- [前端早读课](#前端早读课)
+- [前端大全](#前端大全) ![](assets/dot.png)
+- [前端之巅](#前端之巅) ![](assets/dot.png)
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
 - [阮一峰的网络日志](#阮一峰的网络日志)
@@ -22,7 +22,7 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端早读课
 </summary>
 
-- [2018-09-30-【第1408期】浅谈 Vue 中 computed 实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) ![](assets/new.png)
+- [2018-09-30-【第1408期】浅谈 Vue 中 computed 实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect)
 - [2018-09-29-【招聘】LGD俱乐部&VPGAME 招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=2&sn=bc056c3f857334cb38964589c17ed19e#wechat_redirect)
 - [2018-09-29-【第1407期】盘点 React 16.0 ~ 16.5 主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect)
 - [2018-09-28-【第1406期】携程国际BU酒店团队的大前端之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=1&sn=b1558a815b3c15bb3943d78447c73e55#wechat_redirect)
@@ -53,6 +53,7 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端大全
 </summary>
 
+- [2018-09-30-深入 Vue 生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) ![](assets/new.png)
 - [2018-09-29-深入理解 ES Modules (手绘示例)](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [2018-09-29-面向对象：既然我找不到你，就只有站在高处等你来找我了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=2&sn=b01c1d01f610245aba3ec4d87aa157c1#wechat_redirect)
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect)
@@ -85,6 +86,7 @@ RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接�
   前端之巅
 </summary>
 
+- [2018-09-30-Next.js 7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) ![](assets/new.png)
 - [2018-09-29-CodeSandbox推出容器，进化为WebIDE](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489605&idx=1&sn=0fbcda4d51b69339b8416e5758e883a2#wechat_redirect)
 - [2018-09-28-十年前端老兵：学习DApp开发，投身下一个浪潮](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489597&idx=1&sn=35dd1520749ae33031f37679c90f81d7#wechat_redirect)
 - [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect)

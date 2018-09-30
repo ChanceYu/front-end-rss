@@ -117,6 +117,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "深入 Vue 生命周期",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect",
+        "date": "2018-09-30"
+      },
+      {
         "title": "深入理解 ES Modules (手绘示例)",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect",
         "date": "2018-09-29"
@@ -233,6 +238,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "Next.js 7.0正式发布：重新编译速度提高42％，支持WebAssembly",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect",
+        "date": "2018-09-30"
+      },
       {
         "title": "CodeSandbox推出容器，进化为WebIDE",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489605&idx=1&sn=0fbcda4d51b69339b8416e5758e883a2#wechat_redirect",
