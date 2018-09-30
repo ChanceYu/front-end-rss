@@ -418,6 +418,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "拖拽献祭中的黑山羊-DataTransfer对象",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/",
+        "date": "2018-09-30"
+      },
+      {
         "title": "直接剪切板粘贴上传图片的前端JS实现",
         "link": "https://www.zhangxinxu.com/wordpress/2018/09/ajax-upload-image-from-clipboard/",
         "date": "2018-09-21"
@@ -625,6 +630,11 @@
     "title": "w3cplus",
     "link": "https://www.w3cplus.com",
     "items": [
+      {
+        "title": "Vue 2.0学习笔记：事件总线（EventBus）",
+        "link": "https://www.w3cplus.com/vue/event-bus.html",
+        "date": "2018-09-30"
+      },
       {
         "title": "Vue组件通讯",
         "link": "https://www.w3cplus.com/vue/component-communication.html",
