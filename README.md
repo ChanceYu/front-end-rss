@@ -2,18 +2,18 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-01 06:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-02 06:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ### 文章来源
 - [前端早读课](#前端早读课)
-- [前端大全](#前端大全)
+- [前端大全](#前端大全) ![](assets/dot.png)
 - [前端之巅](#前端之巅)
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活) ![](assets/dot.png)
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
 - [阮一峰的网络日志](#阮一峰的网络日志)
 - [前端里](#前端里)
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)
-- [w3cplus](#w3cplus) ![](assets/dot.png)
+- [w3cplus](#w3cplus)
 - [Aotu.io](#Aotu.io)
     
 
@@ -53,6 +53,7 @@
   前端大全
 </summary>
 
+- [2018-10-01-不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect) ![](assets/new.png)
 - [2018-09-30-深入 Vue 生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [2018-09-29-深入理解 ES Modules (手绘示例)](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [2018-09-29-面向对象：既然我找不到你，就只有站在高处等你来找我了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=2&sn=b01c1d01f610245aba3ec4d87aa157c1#wechat_redirect)
@@ -139,7 +140,7 @@
   张鑫旭-鑫空间-鑫生活
 </summary>
 
-- [2018-09-30-拖拽献祭中的黑山羊-DataTransfer对象](https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/) ![](assets/new.png)
+- [2018-09-30-拖拽献祭中的黑山羊-DataTransfer对象](https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/)
 - [2018-09-21-直接剪切板粘贴上传图片的前端JS实现](https://www.zhangxinxu.com/wordpress/2018/09/ajax-upload-image-from-clipboard/)
 - [2018-09-09-利用剪切板JS API优化输入框的粘贴体验](https://www.zhangxinxu.com/wordpress/2018/09/js-clipboard-api-paste-input/)
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
@@ -216,7 +217,7 @@
   w3cplus
 </summary>
 
-- [2018-09-30-Vue 2.0学习笔记：事件总线（EventBus）](https://www.w3cplus.com/vue/event-bus.html) ![](assets/new.png)
+- [2018-09-30-Vue 2.0学习笔记：事件总线（EventBus）](https://www.w3cplus.com/vue/event-bus.html)
 - [2018-09-09-Vue组件通讯](https://www.w3cplus.com/vue/component-communication.html)
 - [2018-09-05-Vue中的状态管理](https://www.w3cplus.com/vue/managing-state-in-vue-js.html)
 - [2018-09-02-探索Web上图片使用方式](https://www.w3cplus.com/css/how-to-use-web-image.html)
