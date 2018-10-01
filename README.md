@@ -1,6 +1,6 @@
-<div align="center"><img width="100" src="assets/rss.gif" /><h1>RSS Grabbing</h1></div>
+<div align="center"><img width="100" src="assets/rss.gif" /><h1>Front-End RSS</h1></div>
 
-RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
+前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
 :alarm_clock: 更新时间: 2018-10-01 06:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
