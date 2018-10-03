@@ -433,6 +433,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "搞懂SVG/Canvas中nonzero和evenodd填充规则",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/",
+        "date": "2018-10-03"
+      },
+      {
         "title": "拖拽献祭中的黑山羊-DataTransfer对象",
         "link": "https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/",
         "date": "2018-09-30"
@@ -494,6 +499,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "RESTful API 最佳实践",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html",
+        "date": "2018-10-03"
+      },
       {
         "title": "每周分享第 24 期",
         "link": "http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html",
