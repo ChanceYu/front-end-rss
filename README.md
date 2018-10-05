@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-05 18:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-06 06:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ### 文章来源
 - [前端早读课](#前端早读课)
 - [前端大全](#前端大全)
-- [前端之巅](#前端之巅)
+- [前端之巅](#前端之巅) ![](assets/dot.png)
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
-- [阮一峰的网络日志](#阮一峰的网络日志) ![](assets/dot.png)
+- [阮一峰的网络日志](#阮一峰的网络日志)
 - [前端里](#前端里)
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)
 - [w3cplus](#w3cplus)
@@ -90,6 +90,7 @@
   前端之巅
 </summary>
 
+- [2018-10-05-Create React App 2.0正式版发布，不再支持 Node 6](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489634&idx=1&sn=602dfc889a099a22d01f02b5b7c6c2dc#wechat_redirect) ![](assets/new.png)
 - [2018-10-02-重磅！尤雨溪发布Vue 3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
 - [2018-09-30-Next.js 7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect)
 - [2018-09-29-CodeSandbox推出容器，进化为WebIDE](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489605&idx=1&sn=0fbcda4d51b69339b8416e5758e883a2#wechat_redirect)
@@ -166,7 +167,7 @@
   阮一峰的网络日志
 </summary>
 
-- [2018-10-05-每周分享第 25 期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html) ![](assets/new.png)
+- [2018-10-05-每周分享第 25 期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)
 - [2018-10-03-RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 - [2018-09-28-每周分享第 24 期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [2018-09-21-每周分享第 23 期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
