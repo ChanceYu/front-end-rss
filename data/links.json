@@ -510,6 +510,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 25 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html",
+        "date": "2018-10-05"
+      },
+      {
         "title": "RESTful API 最佳实践",
         "link": "http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html",
         "date": "2018-10-03"
