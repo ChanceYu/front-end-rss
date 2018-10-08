@@ -5,6 +5,16 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1410期】尤雨溪：Vue 3.0 计划",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect",
+        "date": "2018-10-09"
+      },
+      {
+        "title": "【活动】2018第七届iWeb峰会城市巡回——厦门站",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=2&sn=c27a2ca3090891f3992688e82d5e6982#wechat_redirect",
+        "date": "2018-10-09"
+      },
+      {
         "title": "【第1409期】 React之深入理解 Props 和 State",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect",
         "date": "2018-10-08"
@@ -121,6 +131,21 @@
     "title": "前端大全",
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
+      {
+        "title": "CSS 中重要的层叠概念",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555040&idx=1&sn=473958218693ef67d7a786664981ddad#wechat_redirect",
+        "date": "2018-10-08"
+      },
+      {
+        "title": "面向对象：愿无岁月可回首，且以深情共白头",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555040&idx=2&sn=691882df2c87f0d2dbd0e17d43752498#wechat_redirect",
+        "date": "2018-10-08"
+      },
+      {
+        "title": "茴字的四种写法——浅谈移动前端适配",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555040&idx=3&sn=69fa7155ab729b715e6e4c4fec50ad37#wechat_redirect",
+        "date": "2018-10-08"
+      },
       {
         "title": "尤雨溪公布 Vue 3.0 开发路线：将从头开始重写 3.0",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555034&idx=1&sn=cd9bb738828314dd393467c27d39835d#wechat_redirect",
@@ -268,6 +293,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "正则表达式真的很6，可惜你不会写",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489641&idx=1&sn=5fd41822e46dc471ec551b7901e8f2e7#wechat_redirect",
+        "date": "2018-10-08"
+      },
       {
         "title": "为什么说ReasonReact是编写React的最佳方式？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489636&idx=1&sn=123449a34024394bed64202b33c96094#wechat_redirect",
@@ -695,6 +725,11 @@
     "title": "w3cplus",
     "link": "https://www.w3cplus.com",
     "items": [
+      {
+        "title": "Vue中的作用域CSS和CSS模块的差异",
+        "link": "https://www.w3cplus.com/vue/scoped-styles-vs-css-modules.html",
+        "date": "2018-10-08"
+      },
       {
         "title": "Vue 2.0学习笔记：事件总线（EventBus）",
         "link": "https://www.w3cplus.com/vue/event-bus.html",
