@@ -132,6 +132,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Promise 异步流程控制",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=2&sn=050cbd4c633151bc046da8dd8f80a5bc#wechat_redirect",
+        "date": "2018-10-09"
+      },
+      {
+        "title": "健壮高效的小程序登录方案",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect",
+        "date": "2018-10-09"
+      },
+      {
         "title": "CSS 中重要的层叠概念",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555040&idx=1&sn=473958218693ef67d7a786664981ddad#wechat_redirect",
         "date": "2018-10-08"
