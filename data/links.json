@@ -137,6 +137,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "面向对象：坚持最好的我，遇见你",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555059&idx=2&sn=ebebf02a38e93ceeb7bccbc3ec57404c#wechat_redirect",
+        "date": "2018-10-10"
+      },
+      {
+        "title": "妙用 scale 与 transfrom-origin，精准控制动画方向",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555059&idx=3&sn=d0f37500b6a203dc6351e68c4df46b36#wechat_redirect",
+        "date": "2018-10-10"
+      },
+      {
+        "title": "Vue SSR不可不知的问题",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555059&idx=1&sn=ab0d7b126401561b268afa2dc6653c4d#wechat_redirect",
+        "date": "2018-10-10"
+      },
+      {
         "title": "Promise 异步流程控制",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=2&sn=050cbd4c633151bc046da8dd8f80a5bc#wechat_redirect",
         "date": "2018-10-09"
@@ -308,6 +323,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "这三个新特性可能改变JavaScript未来",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489645&idx=1&sn=11872a598c8d44be59d97fc8c6d73c25#wechat_redirect",
+        "date": "2018-10-10"
+      },
       {
         "title": "正则表达式真的很6，可惜你不会写",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489641&idx=1&sn=5fd41822e46dc471ec551b7901e8f2e7#wechat_redirect",
@@ -579,6 +599,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "Git 原理入门",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/git-internals.html",
+        "date": "2018-10-10"
+      },
       {
         "title": "每周分享第 25 期",
         "link": "http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html",
