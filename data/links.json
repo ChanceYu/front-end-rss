@@ -543,6 +543,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS :visited伪类选择器隐秘往事回忆录",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/",
+        "date": "2018-10-12"
+      },
+      {
         "title": "搞懂SVG/Canvas中nonzero和evenodd填充规则",
         "link": "https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/",
         "date": "2018-10-03"
