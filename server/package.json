@@ -1,0 +1,28 @@
+{
+  "name": "front-end-rss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "later": "^1.2.0",
+    "moment": "^2.22.2",
+    "rss-parser": "^3.4.3",
+    "simple-git": "^1.102.0",
+    "underscore": "^1.9.1"
+  },
+  "description": "front-end-rss",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ChanceYu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ChanceYu/front-end-rss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChanceYu/front-end-rss/issues"
+  },
+  "homepage": "https://github.com/ChanceYu/front-end-rss#readme"
+}
