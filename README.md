@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-12 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-12 18:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 - [前端早读课](#前端早读课)
 - [前端大全](#前端大全)
 - [前端之巅](#前端之巅)
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活) ![](assets/dot.png)
-- [阮一峰的网络日志](#阮一峰的网络日志)
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)
+- [阮一峰的网络日志](#阮一峰的网络日志) ![](assets/dot.png)
 - [前端里](#前端里)
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)
 - [w3cplus](#w3cplus)
@@ -167,7 +167,7 @@
   张鑫旭-鑫空间-鑫生活
 </summary>
 
-- [2018-10-12-CSS :visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/) ![](assets/new.png)
+- [2018-10-12-CSS :visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/)
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
 - [2018-09-30-拖拽献祭中的黑山羊-DataTransfer对象](https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/)
 - [2018-09-21-直接剪切板粘贴上传图片的前端JS实现](https://www.zhangxinxu.com/wordpress/2018/09/ajax-upload-image-from-clipboard/)
@@ -190,6 +190,7 @@
   阮一峰的网络日志
 </summary>
 
+- [2018-10-12-每周分享第 26 期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html) ![](assets/new.png)
 - [2018-10-10-Git 原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)
 - [2018-10-05-每周分享第 25 期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)
 - [2018-10-03-RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)

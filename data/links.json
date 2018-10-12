@@ -615,6 +615,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 26 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html",
+        "date": "2018-10-12"
+      },
+      {
         "title": "Git 原理入门",
         "link": "http://www.ruanyifeng.com/blog/2018/10/git-internals.html",
         "date": "2018-10-10"
