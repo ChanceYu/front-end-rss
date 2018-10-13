@@ -152,6 +152,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "面向对象：既然你找不到我，我就在最显眼的地方等着你来找",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=2&sn=53ca39254112e7f8d9def1c0391e39ec#wechat_redirect",
+        "date": "2018-10-13"
+      },
+      {
+        "title": "从 1 到完美，用 node 写一个命令行工具",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect",
+        "date": "2018-10-13"
+      },
+      {
+        "title": "当初要是看了这篇，React高阶组件早会了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect",
+        "date": "2018-10-13"
+      },
+      {
         "title": "Vue 项目数据动态过滤实践",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555073&idx=2&sn=ac1ff93de6b048c18fe06674f733fa70#wechat_redirect",
         "date": "2018-10-13"
@@ -348,6 +363,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "每个前端开发者都要了解的发布和订阅模式",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489668&idx=1&sn=ff67920cb3de90b66f490564cec2f6c6#wechat_redirect",
+        "date": "2018-10-13"
+      },
       {
         "title": "2018年，最常见的26个JavaScript面试题和答案",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489661&idx=1&sn=6eb5c1b4fe8b853996a051ae47fe23a8#wechat_redirect",
