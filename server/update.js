@@ -42,7 +42,7 @@ function handlerUpdate(){
 function handlerCommit(){
   Git(RESP_PATH)
      .add('./*')
-     .commit('更新来源: ' + newData.titles.join('、'))
+     .commit('更新: ' + newData.titles.join('、'))
      .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
 }
 
@@ -146,7 +146,7 @@ function handlerFeed(){
         });
 
         feed.title = formatTitle(feed.title, /^https:\/\/rsshub\.app/.test(rss))
-        
+
         if(items.length){
           newData.titles.push(feed.title)
         }
