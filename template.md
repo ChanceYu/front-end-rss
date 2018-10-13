@@ -1,12 +1,9 @@
 <div align="center">
   <img width="100" src="assets/rss.gif" />
   <h1>Front-End RSS</h1>
-  <h6>聪明在于学习，天才在于积累。所谓天才，实际上是依靠学习。—— 华罗庚</h6>
 </div>
 
-前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字分类，[查看文章分类](./TAGS.md)。
-
-自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
+前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字分类，[查看文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](assets/dot.png) 表示有更新
 
