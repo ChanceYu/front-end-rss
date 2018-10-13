@@ -6,7 +6,7 @@
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](assets/dot.png) 表示有更新
 
-[查看文章分类](.TAGS.md)
+[查看文章分类](./TAGS.md)
 
 ## 文章来源
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
