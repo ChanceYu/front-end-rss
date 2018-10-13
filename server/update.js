@@ -221,7 +221,6 @@ function handlerTags(){
 
   content = compiled({
     currentDate: getNowDate(),
-    newData,
     tags
   });
 
