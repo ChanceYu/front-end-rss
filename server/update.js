@@ -20,6 +20,7 @@ let linksJson = []
 // 本次更新的 rss 和链接数据
 let newData = {
   length: 0,
+  titles: [],
   rss: {},
   links: {}
 }
@@ -41,7 +42,7 @@ function handlerUpdate(){
 function handlerCommit(){
   Git(RESP_PATH)
      .add('./*')
-     .commit('updated: ' + getNowDate())
+     .commit('更新来源: ' + newData.titles.join('、'))
      .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
 }
 
@@ -61,6 +62,7 @@ function handlerFeed(){
 
   newData = {
     length: 0,
+    titles: [],
     rss: {},
     links: {}
   }
@@ -135,6 +137,9 @@ function handlerFeed(){
           }
         });
 
+        if(items.length){
+          newData.titles.push(formatTitle(feed.title))
+        }
         newData.length += items.length
 
         jsonItem.rss = rss
