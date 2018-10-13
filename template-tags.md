@@ -1,5 +1,6 @@
 > 提示：只是根据标题文案简单匹配类别
 
+[查看文章来源](.README.md)
 
 ## 文章分类
 <% _.each(obj.tags, function(e){ %>
