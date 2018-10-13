@@ -1,14 +1,14 @@
 [
   {
     "tag": "React",
-    "keywords": "react"
+    "keywords": "react|rax"
   },
   {
     "tag": "Vue",
     "keywords": "vue"
   },
   {
-    "tag": "Webpack等打包相关",
+    "tag": "Webpack、npm等相关",
     "keywords": "webpack|npm|gulp|grunt"
   },
   {
@@ -21,15 +21,19 @@
   },
   {
     "tag": "CSS",
-    "keywords": "css|transform"
+    "keywords": "css|scale"
   },
   {
-    "tag": "Git|SVN",
+    "tag": "Canvas、SVG等相关",
+    "keywords": "canvas|svg|webgl|web3d|webvr"
+  },
+  {
+    "tag": "Git、SVN",
     "keywords": "git|svn"
   },
   {
     "tag": "游戏开发",
-    "keywords": "游戏开发"
+    "keywords": "游戏开发|threejs|createjs"
   },
   {
     "tag": "招聘面试",
