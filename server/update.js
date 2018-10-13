@@ -28,7 +28,7 @@ let newData = {
  * 更新 git 仓库
  */
 function handlerUpdate(){
-  console.log(moment().format('YYYY-MM-DD HH:mm:ss') + ' - 开始更新抓取');
+  console.log(getNowDate() + ' - 开始更新抓取');
 
   Git(RESP_PATH)
      .pull()
@@ -41,7 +41,7 @@ function handlerUpdate(){
 function handlerCommit(){
   Git(RESP_PATH)
      .add('./*')
-     .commit('updated: ' + moment().format('YYYY-MM-DD HH:mm:ss'))
+     .commit('updated: ' + getNowDate())
      .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
 }
 
@@ -97,7 +97,7 @@ function handlerFeed(){
         let items = []
         
         if(!feed){
-          console.log(moment().format('YYYY-MM-DD HH:mm:ss') + ' - 失败 RSS: ' + rss);
+          console.log(getNowDate() + ' - 失败 RSS: ' + rss);
           feed = {};
           feed.title = jsonItem.title
           feed.link = jsonItem.link
@@ -162,7 +162,7 @@ function handlerFeed(){
       fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
       handlerREADME()
     }else{
-      console.log(moment().format('YYYY-MM-DD HH:mm:ss') + ' - 无需更新');
+      console.log(getNowDate() + ' - 无需更新');
     }
   })
 }
@@ -173,8 +173,10 @@ function handlerFeed(){
 function handlerREADME(){
   let content = fs.readFileSync(TEMPLATE_PATH);
 
-  content = _.template(content.toString())({
-    currentDate: moment().format('YYYY-MM-DD HH:mm:ss'),
+  let compiled = _.template(content.toString());
+
+  content = compiled({
+    currentDate: getNowDate(),
     linksJson,
     newData,
     formatTitle,
@@ -182,9 +184,16 @@ function handlerREADME(){
 
   fs.writeFileSync(README_PATH, content, 'utf-8');
 
-  console.log(moment().format('YYYY-MM-DD HH:mm:ss') + ' - 完成抓取，即将上传');
+  console.log(getNowDate() + ' - 完成抓取，即将上传');
   
   handlerCommit()
+}
+
+/**
+ * 格式化时间
+ */
+function getNowDate(){
+  return moment().format('YYYY-MM-DD HH:mm:ss')
 }
 
 module.exports = handlerUpdate
