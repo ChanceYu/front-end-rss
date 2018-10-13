@@ -21,7 +21,7 @@
   },
   {
     "tag": "CSS",
-    "keywords": "css|scale"
+    "keywords": "css|sass|less|scale|transform|transition|animation|border|background|font-weight|font-face"
   },
   {
     "tag": "Canvas、SVG等相关",
@@ -33,7 +33,7 @@
   },
   {
     "tag": "游戏开发",
-    "keywords": "游戏开发|threejs|createjs"
+    "keywords": "游戏开发|小游戏|threejs|three.js|createjs|create.js"
   },
   {
     "tag": "招聘面试",
