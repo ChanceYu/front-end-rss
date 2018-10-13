@@ -1,19 +1,19 @@
 [
   {
     "tag": "React",
-    "keywords": "react|rax"
+    "keywords": "react|rax|nerv"
   },
   {
     "tag": "Vue",
     "keywords": "vue"
   },
   {
-    "tag": "Webpack、npm等相关",
+    "tag": "Webpack、NPM等相关",
     "keywords": "webpack|npm|gulp|grunt"
   },
   {
     "tag": "NodeJS",
-    "keywords": "nodejs|node|node.js|express|koa|egg.js"
+    "keywords": "nodejs|node|node.js|express|koa|egg.js|pandora.js|electron"
   },
   {
     "tag": "小程序",
@@ -33,7 +33,7 @@
   },
   {
     "tag": "游戏开发",
-    "keywords": "游戏开发|小游戏|threejs|three.js|createjs|create.js"
+    "keywords": "游戏|threejs|three.js|createjs|create.js|matter.js"
   },
   {
     "tag": "招聘面试",
