@@ -13,8 +13,8 @@
   <%= e.tag %>
 </summary>
 
-<% _.each(e.items, function(item){ %>
-- [【<%= item.rssTitle %>】<%= item.title %>](<%= item.link %>)<% }) %>
+<% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>
+- [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% }) %>
 
 </details>
 <% }) %>
