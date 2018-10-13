@@ -8,11 +8,14 @@ const _ = require('underscore')
 
 const respRoot = '../';
 
-const RESP_PATH   = path.join(respRoot)
-const RSS_PATH    = path.join(respRoot + '/data/rss.json')
-const LINKS_PATH  = path.join(respRoot + '/data/links.json')
-const README_PATH = path.join(respRoot + '/README.md')
-const TEMPLATE_PATH = path.join(respRoot + '/template.md')
+const RESP_PATH          = path.join(respRoot)
+const RSS_PATH           = path.join(respRoot + '/data/rss.json')
+const LINKS_PATH         = path.join(respRoot + '/data/links.json')
+const TAGS_PATH          = path.join(respRoot + '/data/tags.json')
+const README_PATH        = path.join(respRoot + '/README.md')
+const TEMPLATE_PATH      = path.join(respRoot + '/template.md')
+const TAGS_MD_PATH       = path.join(respRoot + '/TAGS.md')
+const TAGS_TEMPLATE_PATH = path.join(respRoot + '/template-tags.md')
 
 let rssJson = []
 let linksJson = []
@@ -40,6 +43,8 @@ function handlerUpdate(){
  * 提交修改到 git 仓库
  */
 function handlerCommit(){
+  console.log(getNowDate() + ' - 完成抓取，即将上传');
+
   Git(RESP_PATH)
      .add('./*')
      .commit('更新: ' + newData.titles.join('、'))
@@ -168,6 +173,8 @@ function handlerFeed(){
     if(newData.length){
       fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
       handlerREADME()
+      handlerTags()
+      handlerCommit()
     }else{
       console.log(getNowDate() + ' - 无需更新');
     }
@@ -190,10 +197,33 @@ function handlerREADME(){
   });
 
   fs.writeFileSync(README_PATH, content, 'utf-8');
+}
+/**
+ * 渲染 TAGS.md 文件
+ */
+function handlerTags(){
+  let tags = require(TAGS_PATH);
 
-  console.log(getNowDate() + ' - 完成抓取，即将上传');
-  
-  handlerCommit()
+  linksJson.forEach((o) => {
+    o.items.forEach((item) => {
+      tags.forEach((tag, i) => {
+        tags[i].items = tags[i].items || [];
+        if(!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)){
+          item.rssTitle = o.title;
+          tags[i].items.push(item);
+        }
+      });
+    });
+  });
+
+  let content = fs.readFileSync(TAGS_TEMPLATE_PATH);
+  let compiled = _.template(content.toString());
+
+  content = compiled({
+    tags: tags
+  });
+
+  fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8');
 }
 
 /**
