@@ -220,7 +220,9 @@ function handlerTags(){
   let compiled = _.template(content.toString());
 
   content = compiled({
-    tags: tags
+    currentDate: getNowDate(),
+    newData,
+    tags
   });
 
   fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8');
