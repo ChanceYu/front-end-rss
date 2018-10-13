@@ -11,7 +11,7 @@
 - [<%= rssTitle %>](#<%= rssTitle %>)<% if (e.rss in obj.newData.rss){ %>![](assets/dot.png) <% } %>  <% }) %>
 
 ## 文章链接
-<% _.each(obj.linksJson, function(e, i, a){ var rssTitle = obj.formatTitle(e.title); %>
+<% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
 <details open>
 <summary id="<%= rssTitle %>">
   <%= rssTitle %>
