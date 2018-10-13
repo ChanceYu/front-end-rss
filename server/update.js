@@ -49,7 +49,15 @@ function handlerCommit(){
 /**
  * 格式化标题
  */
-function formatTitle(title){
+function formatTitle(title, isRsshub){
+  // https://rsshub.app
+  if(isRsshub){
+    let matches = title.match(/“(.*)”/)
+  
+    if(matches && matches[1]){
+      title = matches[1]
+    }
+  }
   return title.replace('<![CDATA[', '').replace(']]>', '').replace(/[\[\]\(\)]/g, '').replace(/\s+/g, '-')
 }
 
@@ -137,24 +145,18 @@ function handlerFeed(){
           }
         });
 
+        feed.title = formatTitle(feed.title, /^https:\/\/rsshub\.app/.test(rss))
+        
         if(items.length){
-          newData.titles.push(formatTitle(feed.title))
+          newData.titles.push(feed.title)
         }
+
         newData.length += items.length
 
         jsonItem.rss = rss
         jsonItem.title = feed.title
         jsonItem.link = feed.link
         jsonItem.items = items.concat(_items)
-
-        // https://rsshub.app
-        if(/^https:\/\/rsshub\.app/.test(rss)){
-          let matches = jsonItem.title.match(/“(.*)”/)
-
-          if(matches && matches[1]){
-            jsonItem.title = matches[1]
-          }
-        }
 
         linksJson[index] = jsonItem
         cb(null, jsonItem);

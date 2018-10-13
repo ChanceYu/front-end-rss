@@ -457,7 +457,7 @@
   },
   {
     "rss": "http://taobaofed.org/atom.xml",
-    "title": "Taobao FED | 淘宝前端团队",
+    "title": "Taobao-FED-|-淘宝前端团队",
     "link": "/atom.xml",
     "items": [
       {
@@ -745,7 +745,7 @@
   },
   {
     "rss": "http://jdc.jd.com/feed",
-    "title": "JDC | 京东设计中心",
+    "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
       {
