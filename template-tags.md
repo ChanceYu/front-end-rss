@@ -15,7 +15,7 @@
 <p></p>
 
 <% if(e.keywords){ %>
-> 关键字：<%= e.keywords %>
+> 关键字：`<%= e.keywords.split('|').join('`、`') %>`
 <% } %>
 
 <% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>

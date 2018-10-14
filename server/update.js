@@ -171,7 +171,7 @@ function handlerFeed(){
 
   async.parallel(parallels, (err, result) => {
     if(newData.length){
-      // fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
+      fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
       handlerREADME()
       handlerTags()
       handlerCommit()
@@ -204,7 +204,7 @@ function handlerREADME(){
 function handlerTags(){
   let tags = require(TAGS_PATH);
 
-  _.clone(linksJson).forEach((o) => {
+  JSON.parse(JSON.stringify(linksJson)).forEach((o) => {
     o.items.forEach((item) => {
       tags.forEach((tag, i) => {
         tags[i].items = tags[i].items || [];
