@@ -19,6 +19,7 @@ const TAGS_TEMPLATE_PATH = path.join(respRoot + '/template-tags.md')
 
 let rssJson = []
 let linksJson = []
+let linksResult;
 
 // 本次更新的 rss 和链接数据
 let newData = {
@@ -171,6 +172,7 @@ function handlerFeed(){
 
   async.parallel(parallels, (err, result) => {
     if(newData.length){
+      linksResult = result;
       fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
       handlerREADME()
       handlerTags()
@@ -203,9 +205,8 @@ function handlerREADME(){
  */
 function handlerTags(){
   let tags = require(TAGS_PATH);
-  let data = require(LINKS_PATH);
 
-  data.forEach((o) => {
+  linksResult.forEach((o) => {
     o.items.forEach((item) => {
       tags.forEach((tag, i) => {
         tags[i].items = tags[i].items || [];
