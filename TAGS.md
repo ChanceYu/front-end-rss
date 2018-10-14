@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-13 22:00:12，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-14 10:00:15，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -442,5 +442,6 @@
 - [【Aotu.io】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【Aotu.io】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【Aotu.io】凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/)
+- [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 
 </details>
