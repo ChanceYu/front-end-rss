@@ -12,6 +12,11 @@
 <summary id="<%= e.tag %>">
   <%= e.tag %>
 </summary>
+<p></p>
+
+<% if(e.keywords){ %>
+> 关键字：<%= e.keywords %>
+<% } %>
 
 <% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>
 - [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% }) %>
