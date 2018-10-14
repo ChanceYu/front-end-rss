@@ -203,8 +203,9 @@ function handlerREADME(){
  */
 function handlerTags(){
   let tags = require(TAGS_PATH);
+  let data = require(LINKS_PATH);
 
-  linksJson.forEach((o) => {
+  data.forEach((o) => {
     o.items.forEach((item) => {
       tags.forEach((tag, i) => {
         tags[i].items = tags[i].items || [];
