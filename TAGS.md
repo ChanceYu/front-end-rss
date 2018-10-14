@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-14 22:33:56，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-15 06:00:24，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -236,6 +236,7 @@
 
 
 
+- [【前端早读课】【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
 - [【前端大全】妙用-scale-与-transfrom-origin，精准控制动画方向](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555059&idx=3&sn=d0f37500b6a203dc6351e68c4df46b36#wechat_redirect)
 - [【前端大全】CSS-中重要的层叠概念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555040&idx=1&sn=473958218693ef67d7a786664981ddad#wechat_redirect)
 - [【前端大全】你所不知道的-CSS-滤镜技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555025&idx=1&sn=3b4f9dfea7bc50e849cfe1c21424d881#wechat_redirect)
@@ -371,6 +372,7 @@
 
 
 
+- [【前端早读课】有人说前端岗位饱和了，我还该不该入门学习前端？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=1&sn=62bba6f7da8ff3f23eab3e54b1e6689b#wechat_redirect)
 - [【前端早读课】【第1413期】-我如何零基础转行成为一个自信的前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230042&idx=1&sn=f476282272af5a8a661aef0b88bec479#wechat_redirect)
 - [【前端早读课】【活动】2018第七届iWeb峰会城市巡回——厦门站](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=2&sn=c27a2ca3090891f3992688e82d5e6982#wechat_redirect)
 - [【前端早读课】【第1406期】携程国际BU酒店团队的大前端之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=1&sn=b1558a815b3c15bb3943d78447c73e55#wechat_redirect)
