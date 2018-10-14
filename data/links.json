@@ -157,6 +157,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "你不知道的 Virtual DOM（一）：Virtual Dom 介绍",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555084&idx=2&sn=31f84ceaf3739b4970f4d7b94f9462ba#wechat_redirect",
+        "date": "2018-10-14"
+      },
+      {
+        "title": "说说React组件的State",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555084&idx=1&sn=17f7afcfba1343c5a4a4f14bb315d267#wechat_redirect",
+        "date": "2018-10-14"
+      },
+      {
         "title": "面向对象：既然你找不到我，我就在最显眼的地方等着你来找",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=2&sn=53ca39254112e7f8d9def1c0391e39ec#wechat_redirect",
         "date": "2018-10-13"
@@ -368,6 +378,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "浏览器页面渲染机制，你真的弄懂了吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect",
+        "date": "2018-10-14"
+      },
       {
         "title": "每个前端开发者都要了解的发布和订阅模式",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489668&idx=1&sn=ff67920cb3de90b66f490564cec2f6c6#wechat_redirect",
