@@ -20,6 +20,10 @@
     "keywords": "小程序|taro|mpvue|wepy"
   },
   {
+    "tag": "JavaScript",
+    "keywords": "javascript|js|promise|await|async|es6|decorator|module|import|正则|console"
+  },
+  {
     "tag": "CSS",
     "keywords": "css|sass|less|scale|transform|transition|animation|border|background|font-weight|font-face"
   },
