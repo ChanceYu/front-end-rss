@@ -389,6 +389,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "Vue CLI 2&3 下的项目优化实践：CDN + Gzip + Prerender",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect",
+        "date": "2018-10-15"
+      },
+      {
         "title": "浏览器页面渲染机制，你真的弄懂了吗？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect",
         "date": "2018-10-14"
