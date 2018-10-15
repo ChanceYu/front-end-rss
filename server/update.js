@@ -5,6 +5,7 @@ const moment = require('moment')
 const Parser = require('rss-parser')
 const Git = require('simple-git')
 const _ = require('underscore')
+const cloneDeep = require('clone-deep')
 
 const respRoot = '../';
 
@@ -191,7 +192,7 @@ function handlerREADME(){
 
   content = compiled({
     currentDate: getNowDate(),
-    linksJson,
+    linksJson: cloneDeep(linksJson),
     newData,
     formatTitle,
   });
@@ -204,7 +205,7 @@ function handlerREADME(){
 function handlerTags(){
   let tags = require(TAGS_PATH);
 
-  JSON.parse(JSON.stringify(linksJson)).forEach((o) => {
+  cloneDeep(linksJson).forEach((o) => {
     o.items.forEach((item) => {
       tags.forEach((tag, i) => {
         tags[i].items = tags[i].items || [];
