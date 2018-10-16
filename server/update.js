@@ -207,9 +207,10 @@ function handlerTags(){
   let data = cloneDeep(linksJson);
 
   tags.forEach((tag, i) => {
+    tags[i].items = [];
+    
     data.forEach((o) => {
       o.items.forEach((item) => {
-        tags[i].items = tags[i].items || [];
         if(!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)){
           item.rssTitle = o.title;
           tags[i].items.push(item);
