@@ -409,6 +409,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "Mozilla是如何提升JS和WASM之间的调用速度的?",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect",
+        "date": "2018-10-16"
+      },
+      {
         "title": "Vue CLI 2&3 下的项目优化实践：CDN + Gzip + Prerender",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect",
         "date": "2018-10-15"
@@ -714,6 +719,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "exFAT 文件系统指南",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/exfat.html",
+        "date": "2018-10-16"
+      },
       {
         "title": "每周分享第 26 期",
         "link": "http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html",

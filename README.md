@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、10:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-16 10:00:12，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-16 18:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)  
 - [w3cplus](#w3cplus)  
@@ -25,8 +25,8 @@
 </summary>
 
 
-- [2018-10-16-【第1417期】浅析-React-/-Vue-跨端渲染原理与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=1&sn=642a92f59ce1fbe593fd9d2564a3f7bc#wechat_redirect) ![](assets/new.png)  
-- [2018-10-16-【活动】第二届Vue.js开发者大会，11月24号杭州见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=2&sn=64a466142687a10eb6a8d5e91ce0e0fd#wechat_redirect) ![](assets/new.png)  
+- [2018-10-16-【第1417期】浅析-React-/-Vue-跨端渲染原理与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=1&sn=642a92f59ce1fbe593fd9d2564a3f7bc#wechat_redirect)  
+- [2018-10-16-【活动】第二届Vue.js开发者大会，11月24号杭州见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=2&sn=64a466142687a10eb6a8d5e91ce0e0fd#wechat_redirect)  
 - [2018-10-15-有人说前端岗位饱和了，我还该不该入门学习前端？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=1&sn=62bba6f7da8ff3f23eab3e54b1e6689b#wechat_redirect)  
 - [2018-10-15-【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)  
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)  
@@ -121,6 +121,7 @@
 </summary>
 
 
+- [2018-10-16-Mozilla是如何提升JS和WASM之间的调用速度的?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect) ![](assets/new.png)  
 - [2018-10-15-Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect)  
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect)  
 - [2018-10-13-每个前端开发者都要了解的发布和订阅模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489668&idx=1&sn=ff67920cb3de90b66f490564cec2f6c6#wechat_redirect)  
@@ -205,6 +206,7 @@
 </summary>
 
 
+- [2018-10-16-exFAT-文件系统指南](http://www.ruanyifeng.com/blog/2018/10/exfat.html) ![](assets/new.png)  
 - [2018-10-12-每周分享第-26-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)  
 - [2018-10-10-Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)  
 - [2018-10-05-每周分享第-25-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)  
