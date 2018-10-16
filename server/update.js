@@ -204,10 +204,11 @@ function handlerREADME(){
  */
 function handlerTags(){
   let tags = require(TAGS_PATH);
+  let data = cloneDeep(linksJson);
 
-  cloneDeep(linksJson).forEach((o) => {
-    o.items.forEach((item) => {
-      tags.forEach((tag, i) => {
+  tags.forEach((tag, i) => {
+    data.forEach((o) => {
+      o.items.forEach((item) => {
         tags[i].items = tags[i].items || [];
         if(!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)){
           item.rssTitle = o.title;
