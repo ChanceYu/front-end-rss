@@ -187,6 +187,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Vue源码阅读：批量异步更新与nextTick原理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=3&sn=bc74076eb23a18cec5837b95615414a8#wechat_redirect",
+        "date": "2018-10-17"
+      },
+      {
+        "title": "面向对象：希望找到那个我一看见就想微笑的人",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=2&sn=c91f90d7889c99f767204fd0c645fd24#wechat_redirect",
+        "date": "2018-10-17"
+      },
+      {
+        "title": "30 分钟理解 CORB 是什么",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=1&sn=2f301171b45c5a9167ffb1aecd258466#wechat_redirect",
+        "date": "2018-10-17"
+      },
+      {
         "title": "Chrome 的哪些功能改变了我们浏览网页的方式？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555109&idx=1&sn=5255eb07d39b70c722b84327fb32d73a#wechat_redirect",
         "date": "2018-10-16"
@@ -433,6 +448,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "Chrome 70正式版发布：Windows端将支持PWA",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect",
+        "date": "2018-10-17"
+      },
       {
         "title": "Mozilla是如何提升JS和WASM之间的调用速度的?",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect",
