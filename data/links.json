@@ -197,6 +197,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "JavaScript状态模式及状态机模型",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=1&sn=122238ddd3623f568dd3d298f403a856#wechat_redirect",
+        "date": "2018-10-18"
+      },
+      {
+        "title": "别了，JavaScript；你好，WebAssembly",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=2&sn=46a6cf4614fbb42915b731b59c8dea54#wechat_redirect",
+        "date": "2018-10-18"
+      },
+      {
         "title": "Vue源码阅读：批量异步更新与nextTick原理",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=3&sn=bc74076eb23a18cec5837b95615414a8#wechat_redirect",
         "date": "2018-10-17"
@@ -458,6 +468,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "ECMAScript 2016/2017/2018新特性详解",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect",
+        "date": "2018-10-18"
+      },
       {
         "title": "Chrome 70正式版发布：Windows端将支持PWA",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect",
@@ -955,6 +970,11 @@
     "title": "w3cplus",
     "link": "https://www.w3cplus.com",
     "items": [
+      {
+        "title": "使用事件总线共享组件之间的Props",
+        "link": "https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html",
+        "date": "2018-10-18"
+      },
       {
         "title": "CSS border-radius 能做什么？",
         "link": "https://www.w3cplus.com/css/css-border-radius-can-do-that.html",
