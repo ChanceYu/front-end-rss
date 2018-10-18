@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-18 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-18 12:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)  
 - [w3cplus](#w3cplus)  
@@ -25,8 +25,8 @@
 </summary>
 
 
-- [2018-10-18-【第1419期】JavaScript-计时器之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=1&sn=c3e8e56c327c825ad526de14a6e8e4ae#wechat_redirect) ![](assets/new.png)  
-- [2018-10-18-招聘-AFX-·-蚂蚁体验技术部-招至少P6级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=2&sn=3e260cee27b1b1aa7f4a001dae300ac7#wechat_redirect) ![](assets/new.png)  
+- [2018-10-18-【第1419期】JavaScript-计时器之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=1&sn=c3e8e56c327c825ad526de14a6e8e4ae#wechat_redirect)  
+- [2018-10-18-招聘-AFX-·-蚂蚁体验技术部-招至少P6级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=2&sn=3e260cee27b1b1aa7f4a001dae300ac7#wechat_redirect)  
 - [2018-10-17-前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=1&sn=df05518eef365a682922688fede7dfa0#wechat_redirect)  
 - [2018-10-17-【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)  
 - [2018-10-16-【第1417期】浅析-React-/-Vue-跨端渲染原理与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=1&sn=642a92f59ce1fbe593fd9d2564a3f7bc#wechat_redirect)  
@@ -217,6 +217,7 @@
 </summary>
 
 
+- [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html) ![](assets/new.png)  
 - [2018-10-16-exFAT-文件系统指南](http://www.ruanyifeng.com/blog/2018/10/exfat.html)  
 - [2018-10-12-每周分享第-26-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)  
 - [2018-10-10-Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)  

@@ -775,6 +775,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Flexbox 布局的最简单表单",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html",
+        "date": "2018-10-18"
+      },
+      {
         "title": "exFAT 文件系统指南",
         "link": "http://www.ruanyifeng.com/blog/2018/10/exfat.html",
         "date": "2018-10-16"
