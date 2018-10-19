@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-19 18:00:24，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-20 06:00:24，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -188,6 +188,7 @@
 
 
 
+- [【前端早读课】【第1421期】2018年如何写一个现代的JavaScript库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230101&idx=1&sn=20cacbb284449da8a5ae16314c782632#wechat_redirect)
 - [【前端早读课】【第1420期】JavaScript-响应式与-Proxy](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=1&sn=17840f1f7e639f7a56f21cff95528591#wechat_redirect)
 - [【前端早读课】【第1419期】JavaScript-计时器之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=1&sn=c3e8e56c327c825ad526de14a6e8e4ae#wechat_redirect)
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)

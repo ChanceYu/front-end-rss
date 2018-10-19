@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-19 18:00:24，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-20 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -25,6 +25,7 @@
 </summary>
 
 
+- [2018-10-20-【第1421期】2018年如何写一个现代的JavaScript库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230101&idx=1&sn=20cacbb284449da8a5ae16314c782632#wechat_redirect) ![](assets/new.png)  
 - [2018-10-19-【第1420期】JavaScript-响应式与-Proxy](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=1&sn=17840f1f7e639f7a56f21cff95528591#wechat_redirect)  
 - [2018-10-19-【送书】前端早读课小锦鲤来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=2&sn=06b470a733f32d4794714414a6f0a3ee#wechat_redirect)  
 - [2018-10-18-【第1419期】JavaScript-计时器之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230088&idx=1&sn=c3e8e56c327c825ad526de14a6e8e4ae#wechat_redirect)  
@@ -73,8 +74,8 @@
 </summary>
 
 
-- [2018-10-19-Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect) ![](assets/new.png)  
-- [2018-10-19-为什么前后端分离了，你比从前更痛苦？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=1&sn=3a6b307a6fc4f7cf43f9ce21cf5f82f3#wechat_redirect) ![](assets/new.png)  
+- [2018-10-19-Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect)  
+- [2018-10-19-为什么前后端分离了，你比从前更痛苦？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=1&sn=3a6b307a6fc4f7cf43f9ce21cf5f82f3#wechat_redirect)  
 - [2018-10-18-JavaScript状态模式及状态机模型](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=1&sn=122238ddd3623f568dd3d298f403a856#wechat_redirect)  
 - [2018-10-18-别了，JavaScript；你好，WebAssembly](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=2&sn=46a6cf4614fbb42915b731b59c8dea54#wechat_redirect)  
 - [2018-10-17-Vue源码阅读：批量异步更新与nextTick原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=3&sn=bc74076eb23a18cec5837b95615414a8#wechat_redirect)  
@@ -137,7 +138,7 @@
 </summary>
 
 
-- [2018-10-19-Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect) ![](assets/new.png)  
+- [2018-10-19-Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect)  
 - [2018-10-18-ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)  
 - [2018-10-17-Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect)  
 - [2018-10-16-Mozilla是如何提升JS和WASM之间的调用速度的?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect)  
