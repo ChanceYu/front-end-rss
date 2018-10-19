@@ -800,6 +800,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 27 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html",
+        "date": "2018-10-19"
+      },
+      {
         "title": "Flexbox 布局的最简单表单",
         "link": "http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html",
         "date": "2018-10-18"
@@ -918,6 +923,16 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "可以说的秘密-那些我们该讨论的前端加密方法",
+        "link": "https://jdc.jd.com/archives/212773",
+        "date": "2018-10-19"
+      },
+      {
+        "title": "利用prerender-spa-plugin提升单页面应用的体验",
+        "link": "https://jdc.jd.com/archives/212768",
+        "date": "2018-10-19"
+      },
       {
         "title": "【译】预加载视频实现快速播放",
         "link": "https://jdc.jd.com/archives/212710",
