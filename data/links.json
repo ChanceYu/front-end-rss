@@ -207,6 +207,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Flexbox 布局的最简单表单",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect",
+        "date": "2018-10-19"
+      },
+      {
+        "title": "为什么前后端分离了，你比从前更痛苦？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=1&sn=3a6b307a6fc4f7cf43f9ce21cf5f82f3#wechat_redirect",
+        "date": "2018-10-19"
+      },
+      {
         "title": "JavaScript状态模式及状态机模型",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=1&sn=122238ddd3623f568dd3d298f403a856#wechat_redirect",
         "date": "2018-10-18"
@@ -478,6 +488,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "Angular 7.0发布，带来CLI Prompts、虚拟滚动和拖放等特性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect",
+        "date": "2018-10-19"
+      },
       {
         "title": "ECMAScript 2016/2017/2018新特性详解",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect",
