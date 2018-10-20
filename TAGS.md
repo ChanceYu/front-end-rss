@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-20 06:00:24，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-20 22:00:17，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -37,6 +37,7 @@
 - [【前端早读课】【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect)
 - [【前端早读课】【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect)
 - [【前端早读课】【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect)
+- [【前端大全】缓存-React-事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=1&sn=23fa4e5f3d2a92ab692a5f65eb203629#wechat_redirect)
 - [【前端大全】说说React组件的State](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555084&idx=1&sn=17f7afcfba1343c5a4a4f14bb315d267#wechat_redirect)
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
@@ -194,6 +195,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】探寻-JavaScript-精度问题以及解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=3&sn=e09d4b55598918c379d865e50594c44b#wechat_redirect)
 - [【前端大全】JavaScript状态模式及状态机模型](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=1&sn=122238ddd3623f568dd3d298f403a856#wechat_redirect)
 - [【前端大全】别了，JavaScript；你好，WebAssembly](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=2&sn=46a6cf4614fbb42915b731b59c8dea54#wechat_redirect)
 - [【前端大全】Promise-异步流程控制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=2&sn=050cbd4c633151bc046da8dd8f80a5bc#wechat_redirect)
@@ -399,6 +401,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：人生很短暂，希望在最美的年华遇见对的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=2&sn=16a3f37ac6e15e04f3fcda25661162b5#wechat_redirect)
 - [【前端大全】Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect)
 - [【前端大全】为什么前后端分离了，你比从前更痛苦？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=1&sn=3a6b307a6fc4f7cf43f9ce21cf5f82f3#wechat_redirect)
 - [【前端大全】面向对象：希望找到那个我一看见就想微笑的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=2&sn=c91f90d7889c99f767204fd0c645fd24#wechat_redirect)
@@ -424,6 +427,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】每个Web开发者都应该知道的SOLID原则](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect)
 - [【前端之巅】Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect)
 - [【前端之巅】ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)
 - [【前端之巅】Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect)
