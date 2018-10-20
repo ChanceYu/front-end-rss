@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-20 22:00:17，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-21 06:02:57，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -213,6 +213,7 @@
 - [【Taobao-FED-|-淘宝前端团队】实现一个-JavaScriptCore-的-debugger-——-iOS-篇](http://taobaofed.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/)
 - [【Taobao-FED-|-淘宝前端团队】机器学习，Hello-World-from-Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/)
 - [【Taobao-FED-|-淘宝前端团队】使用-ES-decorators-构建一致性-API](http://taobaofed.org/blog/2017/04/27/building-consistent-api-with-es-decorators/)
+- [【张鑫旭-鑫空间-鑫生活】CSS-scroll-behavior和JS-scrollIntoView让页面滚动平滑](https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/)
 - [【张鑫旭-鑫空间-鑫生活】直接剪切板粘贴上传图片的前端JS实现](https://www.zhangxinxu.com/wordpress/2018/09/ajax-upload-image-from-clipboard/)
 - [【张鑫旭-鑫空间-鑫生活】利用剪切板JS-API优化输入框的粘贴体验](https://www.zhangxinxu.com/wordpress/2018/09/js-clipboard-api-paste-input/)
 - [【张鑫旭-鑫空间-鑫生活】原来浏览器原生支持JS-Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/)
@@ -389,6 +390,7 @@
 
 
 
+- [【前端早读课】【第1422期】成为高级工程师后，职业生涯的下一步是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230114&idx=1&sn=f582c8f09abdba7f408eeffc391ce57b#wechat_redirect)
 - [【前端早读课】【送书】前端早读课小锦鲤来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=2&sn=06b470a733f32d4794714414a6f0a3ee#wechat_redirect)
 - [【前端早读课】前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=1&sn=df05518eef365a682922688fede7dfa0#wechat_redirect)
 - [【前端早读课】有人说前端岗位饱和了，我还该不该入门学习前端？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=1&sn=62bba6f7da8ff3f23eab3e54b1e6689b#wechat_redirect)

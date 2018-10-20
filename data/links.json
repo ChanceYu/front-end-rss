@@ -5,6 +5,11 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1422期】成为高级工程师后，职业生涯的下一步是什么",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230114&idx=1&sn=f582c8f09abdba7f408eeffc391ce57b#wechat_redirect",
+        "date": "2018-10-21"
+      },
+      {
         "title": "【第1421期】2018年如何写一个现代的JavaScript库",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230101&idx=1&sn=20cacbb284449da8a5ae16314c782632#wechat_redirect",
         "date": "2018-10-20"
@@ -767,6 +772,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "CSS scroll-behavior和JS scrollIntoView让页面滚动平滑",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/",
+        "date": "2018-10-21"
+      },
       {
         "title": "CSS :visited伪类选择器隐秘往事回忆录",
         "link": "https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/",

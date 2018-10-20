@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-20 22:00:17，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-21 06:02:57，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)  
@@ -25,6 +25,7 @@
 </summary>
 
 
+- [2018-10-21-【第1422期】成为高级工程师后，职业生涯的下一步是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230114&idx=1&sn=f582c8f09abdba7f408eeffc391ce57b#wechat_redirect) ![](assets/new.png)  
 - [2018-10-20-【第1421期】2018年如何写一个现代的JavaScript库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230101&idx=1&sn=20cacbb284449da8a5ae16314c782632#wechat_redirect)  
 - [2018-10-19-【第1420期】JavaScript-响应式与-Proxy](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=1&sn=17840f1f7e639f7a56f21cff95528591#wechat_redirect)  
 - [2018-10-19-【送书】前端早读课小锦鲤来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230097&idx=2&sn=06b470a733f32d4794714414a6f0a3ee#wechat_redirect)  
@@ -74,9 +75,9 @@
 </summary>
 
 
-- [2018-10-20-缓存-React-事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=1&sn=23fa4e5f3d2a92ab692a5f65eb203629#wechat_redirect) ![](assets/new.png)  
-- [2018-10-20-面向对象：人生很短暂，希望在最美的年华遇见对的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=2&sn=16a3f37ac6e15e04f3fcda25661162b5#wechat_redirect) ![](assets/new.png)  
-- [2018-10-20-探寻-JavaScript-精度问题以及解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=3&sn=e09d4b55598918c379d865e50594c44b#wechat_redirect) ![](assets/new.png)  
+- [2018-10-20-缓存-React-事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=1&sn=23fa4e5f3d2a92ab692a5f65eb203629#wechat_redirect)  
+- [2018-10-20-面向对象：人生很短暂，希望在最美的年华遇见对的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=2&sn=16a3f37ac6e15e04f3fcda25661162b5#wechat_redirect)  
+- [2018-10-20-探寻-JavaScript-精度问题以及解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=3&sn=e09d4b55598918c379d865e50594c44b#wechat_redirect)  
 - [2018-10-19-Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect)  
 - [2018-10-19-为什么前后端分离了，你比从前更痛苦？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=1&sn=3a6b307a6fc4f7cf43f9ce21cf5f82f3#wechat_redirect)  
 - [2018-10-18-JavaScript状态模式及状态机模型](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=1&sn=122238ddd3623f568dd3d298f403a856#wechat_redirect)  
@@ -141,7 +142,7 @@
 </summary>
 
 
-- [2018-10-20-每个Web开发者都应该知道的SOLID原则](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect) ![](assets/new.png)  
+- [2018-10-20-每个Web开发者都应该知道的SOLID原则](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect)  
 - [2018-10-19-Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect)  
 - [2018-10-18-ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)  
 - [2018-10-17-Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect)  
@@ -208,6 +209,7 @@
 </summary>
 
 
+- [2018-10-21-CSS-scroll-behavior和JS-scrollIntoView让页面滚动平滑](https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/) ![](assets/new.png)  
 - [2018-10-12-CSS-:visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/)  
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)  
 - [2018-09-30-拖拽献祭中的黑山羊-DataTransfer对象](https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/)  
