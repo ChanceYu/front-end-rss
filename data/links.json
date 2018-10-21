@@ -514,6 +514,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "基于Vue+Electron构建桌面应用程序实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect",
+        "date": "2018-10-21"
+      },
+      {
         "title": "每个Web开发者都应该知道的SOLID原则",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect",
         "date": "2018-10-20"
