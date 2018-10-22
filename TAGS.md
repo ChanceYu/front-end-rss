@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-22 22:00:17，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-23 06:00:16，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -88,6 +88,7 @@
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
 - [【前端里】Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html)
 - [【JDC-|-京东设计中心】再谈Vue组件库开发](https://jdc.jd.com/archives/212600)
+- [【w3cplus】Vue2.0学习笔记：Vue中的Mixins](https://www.w3cplus.com/vue/vue-mixins.html)
 - [【w3cplus】Vue中的作用域CSS和CSS模块的差异](https://www.w3cplus.com/vue/scoped-styles-vs-css-modules.html)
 - [【w3cplus】Vue-2.0学习笔记：事件总线（EventBus）](https://www.w3cplus.com/vue/event-bus.html)
 - [【w3cplus】Vue组件通讯](https://www.w3cplus.com/vue/component-communication.html)
@@ -396,6 +397,8 @@
 
 
 
+- [【前端早读课】【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)
+- [【前端早读课】【活动】2018成都-Web-前端大会，11月10号见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=2&sn=4eaf43f19670ae424dd312aa7be17f8f#wechat_redirect)
 - [【前端早读课】我们只要能做到这些的人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect)
 - [【前端早读课】【第1423期】数据劫持-OR-数据代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=2&sn=321151c9339f364d52617a0091896bf6#wechat_redirect)
 - [【前端早读课】【第1422期】成为高级工程师后，职业生涯的下一步是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230114&idx=1&sn=f582c8f09abdba7f408eeffc391ce57b#wechat_redirect)
@@ -489,6 +492,7 @@
 - [【w3cplus】三角函数在前端动画中的应用](https://www.w3cplus.com/javascript/trigonometry-you-must-know.html)
 - [【w3cplus】如何构建一个简单的摄像头组件](https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html)
 - [【w3cplus】DOM系列：DOM事件的传播](https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html)
+- [【Aotu.io】单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
 - [【Aotu.io】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【Aotu.io】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
 - [【Aotu.io】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)

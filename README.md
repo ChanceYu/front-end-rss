@@ -2,20 +2,20 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-22 22:00:17，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-23 06:00:16，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)  
-- [w3cplus](#w3cplus)  
-- [Aotu.io](#Aotu.io)  
+- [w3cplus](#w3cplus)![](assets/dot.png)   
+- [Aotu.io](#Aotu.io)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -25,6 +25,8 @@
 </summary>
 
 
+- [2018-10-23-【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect) ![](assets/new.png)  
+- [2018-10-23-【活动】2018成都-Web-前端大会，11月10号见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=2&sn=4eaf43f19670ae424dd312aa7be17f8f#wechat_redirect) ![](assets/new.png)  
 - [2018-10-22-我们只要能做到这些的人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect)  
 - [2018-10-22-【第1423期】数据劫持-OR-数据代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=2&sn=321151c9339f364d52617a0091896bf6#wechat_redirect)  
 - [2018-10-21-【第1422期】成为高级工程师后，职业生涯的下一步是什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230114&idx=1&sn=f582c8f09abdba7f408eeffc391ce57b#wechat_redirect)  
@@ -77,9 +79,9 @@
 </summary>
 
 
-- [2018-10-22-JavaScript-中错误正确处理方式，你用对了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=3&sn=c645e8b98430ac34bf04ce0ef6cedb38#wechat_redirect) ![](assets/new.png)  
-- [2018-10-22-如何做一个听话的-“输入框”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=1&sn=35e95b3a2279502ade02709d39e56f3d#wechat_redirect) ![](assets/new.png)  
-- [2018-10-22-面向对象：上得厅堂-下得厨房-人见人爱-花见花开](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=2&sn=7b52f1bb78d521e011b07101aea80aee#wechat_redirect) ![](assets/new.png)  
+- [2018-10-22-JavaScript-中错误正确处理方式，你用对了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=3&sn=c645e8b98430ac34bf04ce0ef6cedb38#wechat_redirect)  
+- [2018-10-22-如何做一个听话的-“输入框”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=1&sn=35e95b3a2279502ade02709d39e56f3d#wechat_redirect)  
+- [2018-10-22-面向对象：上得厅堂-下得厨房-人见人爱-花见花开](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=2&sn=7b52f1bb78d521e011b07101aea80aee#wechat_redirect)  
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect)  
 - [2018-10-21-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=1&sn=ce7bbafec36b7e0a487922bf80da31f8#wechat_redirect)  
 - [2018-10-20-缓存-React-事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=1&sn=23fa4e5f3d2a92ab692a5f65eb203629#wechat_redirect)  
@@ -149,7 +151,7 @@
 </summary>
 
 
-- [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) ![](assets/new.png)  
+- [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect)  
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect)  
 - [2018-10-20-每个Web开发者都应该知道的SOLID原则](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect)  
 - [2018-10-19-Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect)  
@@ -304,6 +306,7 @@
 </summary>
 
 
+- [2018-10-22-Vue2.0学习笔记：Vue中的Mixins](https://www.w3cplus.com/vue/vue-mixins.html) ![](assets/new.png)  
 - [2018-10-18-使用事件总线共享组件之间的Props](https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html)  
 - [2018-10-16-CSS-border-radius-能做什么？](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)  
 - [2018-10-08-Vue中的作用域CSS和CSS模块的差异](https://www.w3cplus.com/vue/scoped-styles-vs-css-modules.html)  
@@ -327,6 +330,7 @@
 </summary>
 
 
+- [2018-10-22-单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/) ![](assets/new.png)  
 - [2018-09-18-多端统一开发框架-Taro-1.0-正式发布](https://aotu.io/notes/2018/09/18/taro-1-0-0/)  
 - [2018-09-11-Taro-在京东购物小程序上的实践](https://aotu.io/notes/2018/09/11/taro-in-jd/)  
 - [2018-08-27-首个多端-UI-组件库---Taro-UI-发布](https://aotu.io/notes/2018/08/27/the-birth-of-taro-ui/)  

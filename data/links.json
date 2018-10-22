@@ -5,6 +5,16 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1424期】你听说过原生 HTML 组件吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect",
+        "date": "2018-10-23"
+      },
+      {
+        "title": "【活动】2018成都 Web 前端大会，11月10号见",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=2&sn=4eaf43f19670ae424dd312aa7be17f8f#wechat_redirect",
+        "date": "2018-10-23"
+      },
+      {
         "title": "我们只要能做到这些的人",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect",
         "date": "2018-10-22"
@@ -1096,6 +1106,11 @@
     "link": "https://www.w3cplus.com",
     "items": [
       {
+        "title": "Vue2.0学习笔记：Vue中的Mixins",
+        "link": "https://www.w3cplus.com/vue/vue-mixins.html",
+        "date": "2018-10-22"
+      },
+      {
         "title": "使用事件总线共享组件之间的Props",
         "link": "https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html",
         "date": "2018-10-18"
@@ -1172,6 +1187,11 @@
     "title": "Aotu.io",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "单屏页面响应式适配玩法",
+        "link": "https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/",
+        "date": "2018-10-22"
+      },
       {
         "title": "多端统一开发框架 Taro 1.0 正式发布",
         "link": "https://aotu.io/notes/2018/09/18/taro-1-0-0/",
