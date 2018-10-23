@@ -5,6 +5,16 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【招聘】深圳零一裂变招PHP、前端",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect",
+        "date": "2018-10-24"
+      },
+      {
+        "title": "【第1425期】精读《12 个评估 JS 库你需要关心的事》",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=1&sn=e7fcad21fd73fc3ebd2a03d713dd32af#wechat_redirect",
+        "date": "2018-10-24"
+      },
+      {
         "title": "【第1424期】你听说过原生 HTML 组件吗？",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect",
         "date": "2018-10-23"
@@ -1125,6 +1135,11 @@
     "title": "w3cplus",
     "link": "https://www.w3cplus.com",
     "items": [
+      {
+        "title": "实战Vue组件和Mixins",
+        "link": "https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html",
+        "date": "2018-10-23"
+      },
       {
         "title": "Vue2.0学习笔记：Vue中的Mixins",
         "link": "https://www.w3cplus.com/vue/vue-mixins.html",
