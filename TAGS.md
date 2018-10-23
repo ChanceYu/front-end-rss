@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-23 08:00:21，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-23 22:00:21，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -37,6 +37,8 @@
 - [【前端早读课】【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect)
 - [【前端早读课】【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect)
 - [【前端早读课】【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect)
+- [【前端大全】React-新-Context-API-在前端状态管理的实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555152&idx=1&sn=f4734db510f5e2fb37a3702127b8d458#wechat_redirect)
+- [【前端大全】React-路由状态管理总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555152&idx=2&sn=94dd792051f6476dae5c5caa9d825d74#wechat_redirect)
 - [【前端大全】React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=1&sn=ce7bbafec36b7e0a487922bf80da31f8#wechat_redirect)
 - [【前端大全】缓存-React-事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=1&sn=23fa4e5f3d2a92ab692a5f65eb203629#wechat_redirect)
 - [【前端大全】说说React组件的State](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555084&idx=1&sn=17f7afcfba1343c5a4a4f14bb315d267#wechat_redirect)
@@ -57,6 +59,7 @@
 - [【Aotu.io】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【Aotu.io】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -101,6 +104,7 @@
 - [【Aotu.io】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【Aotu.io】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -121,6 +125,7 @@
 - [【Aotu.io】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【Aotu.io】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -151,6 +156,7 @@
 - [【Aotu.io】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【Aotu.io】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -181,6 +187,7 @@
 - [【Aotu.io】在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/)
 - [【Aotu.io】WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -226,6 +233,7 @@
 - [【张鑫旭-鑫空间-鑫生活】万岁，浏览器原生支持ES6-export和import模块啦！](https://www.zhangxinxu.com/wordpress/2018/08/browser-native-es6-export-import-module/)
 - [【前端里】据说是最好的正则表达式的教程笔记](http://www.yyyweb.com/5141.html)
 - [【前端里】6个提升程序员幸福感的-JavaScript-小技巧](http://www.yyyweb.com/5112.html)
+- [【Aotu.io】3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/)
 - [【Aotu.io】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
 - [【Aotu.io】Three.js-现学现卖](https://aotu.io/notes/2017/08/28/getting-started-with-threejs/)
 - [【Aotu.io】一篇文章带你快速入门-CreateJS](https://aotu.io/notes/2017/07/19/createjs/)
@@ -245,6 +253,7 @@
 - [【Aotu.io】使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/)
 - [【Aotu.io】基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -264,6 +273,7 @@
 - [【前端大全】你所不知道的-CSS-滤镜技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555025&idx=1&sn=3b4f9dfea7bc50e849cfe1c21424d881#wechat_redirect)
 - [【前端大全】不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect)
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
+- [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
 - [【张鑫旭-鑫空间-鑫生活】有人考了我一道CSS题目](https://www.zhangxinxu.com/wordpress/2018/10/a-css-%e9%a2%98%e7%9b%ae/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-:visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/)
 - [【张鑫旭-鑫空间-鑫生活】妙法攻略：渐变虚框及边框滚动动画的纯CSS实现](https://www.zhangxinxu.com/wordpress/2018/08/css-gradient-dashed-border/)
@@ -289,6 +299,7 @@
 - [【Aotu.io】探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/)
 - [【Aotu.io】PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -318,6 +329,7 @@
 - [【Aotu.io】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【Aotu.io】使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -337,6 +349,7 @@
 - [【Aotu.io】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
 - [【Aotu.io】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -365,6 +378,7 @@
 - [【Aotu.io】这里有你对-Web-游戏的疑问吗？](https://aotu.io/notes/2017/07/23/some-doubts-about-web-games/)
 - [【Aotu.io】源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -386,6 +400,7 @@
 - [【前端大全】前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect)
 - [【前端里】面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html)
 
+[:top:返回顶部](#文章分类)
 </details>
 
 <details open>
@@ -571,5 +586,6 @@
 - [【Aotu.io】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【Aotu.io】凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/)
 
+[:top:返回顶部](#文章分类)
 </details>
 
