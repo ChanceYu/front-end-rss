@@ -2,19 +2,19 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-24 06:00:18，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-24 18:00:10，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#Taobao-FED-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#JDC-|-京东设计中心)  
-- [w3cplus](#w3cplus)![](assets/dot.png)   
+- [w3cplus](#w3cplus)  
 - [Aotu.io](#Aotu.io)  
 
 ## 文章链接
@@ -25,8 +25,8 @@
 </summary>
 
 
-- [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect) ![](assets/new.png)  
-- [2018-10-24-【第1425期】精读《12-个评估-JS-库你需要关心的事》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=1&sn=e7fcad21fd73fc3ebd2a03d713dd32af#wechat_redirect) ![](assets/new.png)  
+- [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect)  
+- [2018-10-24-【第1425期】精读《12-个评估-JS-库你需要关心的事》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=1&sn=e7fcad21fd73fc3ebd2a03d713dd32af#wechat_redirect)  
 - [2018-10-23-【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)  
 - [2018-10-23-【活动】2018成都-Web-前端大会，11月10号见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=2&sn=4eaf43f19670ae424dd312aa7be17f8f#wechat_redirect)  
 - [2018-10-22-我们只要能做到这些的人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect)  
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) ![](assets/new.png)  
 - [2018-10-23-你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)  
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect)  
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect)  
@@ -312,7 +313,7 @@
 </summary>
 
 
-- [2018-10-23-实战Vue组件和Mixins](https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html) ![](assets/new.png)  
+- [2018-10-23-实战Vue组件和Mixins](https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html)  
 - [2018-10-22-Vue2.0学习笔记：Vue中的Mixins](https://www.w3cplus.com/vue/vue-mixins.html)  
 - [2018-10-18-使用事件总线共享组件之间的Props](https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html)  
 - [2018-10-16-CSS-border-radius-能做什么？](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)  
