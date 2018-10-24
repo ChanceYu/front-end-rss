@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-24 22:00:40，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-25 06:00:14，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#user-content-前端早读课)  
-- [前端大全](#user-content-前端大全)![](assets/dot.png)   
+- [前端早读课](#user-content-前端早读课)![](assets/dot.png)   
+- [前端大全](#user-content-前端大全)  
 - [前端之巅](#user-content-前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#user-content-Taobao-FED-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#user-content-阮一峰的网络日志)  
 - [前端里](#user-content-前端里)  
 - [JDC-|-京东设计中心](#user-content-JDC-|-京东设计中心)  
@@ -25,6 +25,8 @@
 </summary>
 
 
+- [2018-10-25-一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect) ![](assets/new.png)  
+- [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) ![](assets/new.png)  
 - [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect)  
 - [2018-10-24-【第1425期】精读《12-个评估-JS-库你需要关心的事》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=1&sn=e7fcad21fd73fc3ebd2a03d713dd32af#wechat_redirect)  
 - [2018-10-23-【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)  
@@ -81,8 +83,8 @@
 </summary>
 
 
-- [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect) ![](assets/new.png)  
-- [2018-10-24-ES6-系列之我们来聊聊-Promise](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=2&sn=f82973686705f99076b8d0995020ac96#wechat_redirect) ![](assets/new.png)  
+- [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect)  
+- [2018-10-24-ES6-系列之我们来聊聊-Promise](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=2&sn=f82973686705f99076b8d0995020ac96#wechat_redirect)  
 - [2018-10-23-React-新-Context-API-在前端状态管理的实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555152&idx=1&sn=f4734db510f5e2fb37a3702127b8d458#wechat_redirect)  
 - [2018-10-23-React-路由状态管理总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555152&idx=2&sn=94dd792051f6476dae5c5caa9d825d74#wechat_redirect)  
 - [2018-10-22-JavaScript-中错误正确处理方式，你用对了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=3&sn=c645e8b98430ac34bf04ce0ef6cedb38#wechat_redirect)  
@@ -228,6 +230,7 @@
 </summary>
 
 
+- [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) ![](assets/new.png)  
 - [2018-10-21-有人考了我一道CSS题目](https://www.zhangxinxu.com/wordpress/2018/10/a-css-%e9%a2%98%e7%9b%ae/)  
 - [2018-10-21-CSS-scroll-behavior和JS-scrollIntoView让页面滚动平滑](https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/)  
 - [2018-10-12-CSS-:visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/)  

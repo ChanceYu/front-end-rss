@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-24 22:00:40，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-25 06:00:14，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -406,6 +406,8 @@
 
 
 
+- [【前端早读课】一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect)
+- [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
 - [【前端早读课】【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)
 - [【前端早读课】【活动】2018成都-Web-前端大会，11月10号见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=2&sn=4eaf43f19670ae424dd312aa7be17f8f#wechat_redirect)
 - [【前端早读课】我们只要能做到这些的人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230124&idx=1&sn=835bfaf9688ba16c47be669f8aa3c454#wechat_redirect)
@@ -469,6 +471,7 @@
 - [【Taobao-FED-|-淘宝前端团队】活用-Shader，让你的页面更小，更炫，更快](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/)
 - [【Taobao-FED-|-淘宝前端团队】淘宝技术部-2018-实习生内部推荐启动啦](http://taobaofed.org/blog/2018/02/27/2018-intern-recruitment/)
 - [【Taobao-FED-|-淘宝前端团队】LevelDB-实现分析](http://taobaofed.org/blog/2017/07/05/leveldb-analysis/)
+- [【张鑫旭-鑫空间-鑫生活】数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)
 - [【张鑫旭-鑫空间-鑫生活】拖拽献祭中的黑山羊-DataTransfer对象](https://www.zhangxinxu.com/wordpress/2018/09/drag-drop-datatransfer-js/)
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
