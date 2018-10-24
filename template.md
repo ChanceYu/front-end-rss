@@ -12,7 +12,7 @@
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
 <details open>
 <summary id="<%= rssTitle %>">
-  <%= rssTitle %>
+ <a name="<%= rssTitle %>"></a><%= rssTitle %>
 </summary>
 
 <% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>

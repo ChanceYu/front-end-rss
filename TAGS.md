@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-24 18:00:10，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-24 20:15:55，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -21,7 +21,7 @@
 
 <details open>
 <summary id="React">
-  React
+ <a name="React"></a>React
 </summary>
 <p></p>
 
@@ -63,7 +63,7 @@
 
 <details open>
 <summary id="Vue">
-  Vue
+ <a name="Vue"></a>Vue
 </summary>
 <p></p>
 
@@ -108,7 +108,7 @@
 
 <details open>
 <summary id="Webpack、NPM等相关">
-  Webpack、NPM等相关
+ <a name="Webpack、NPM等相关"></a>Webpack、NPM等相关
 </summary>
 <p></p>
 
@@ -128,7 +128,7 @@
 
 <details open>
 <summary id="NodeJS">
-  NodeJS
+ <a name="NodeJS"></a>NodeJS
 </summary>
 <p></p>
 
@@ -159,7 +159,7 @@
 
 <details open>
 <summary id="小程序">
-  小程序
+ <a name="小程序"></a>小程序
 </summary>
 <p></p>
 
@@ -189,7 +189,7 @@
 
 <details open>
 <summary id="JavaScript">
-  JavaScript
+ <a name="JavaScript"></a>JavaScript
 </summary>
 <p></p>
 
@@ -205,6 +205,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】ES6-系列之我们来聊聊-Promise](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=2&sn=f82973686705f99076b8d0995020ac96#wechat_redirect)
 - [【前端大全】JavaScript-中错误正确处理方式，你用对了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=3&sn=c645e8b98430ac34bf04ce0ef6cedb38#wechat_redirect)
 - [【前端大全】探寻-JavaScript-精度问题以及解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=3&sn=e09d4b55598918c379d865e50594c44b#wechat_redirect)
 - [【前端大全】JavaScript状态模式及状态机模型](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555128&idx=1&sn=122238ddd3623f568dd3d298f403a856#wechat_redirect)
@@ -255,7 +256,7 @@
 
 <details open>
 <summary id="CSS">
-  CSS
+ <a name="CSS"></a>CSS
 </summary>
 <p></p>
 
@@ -300,7 +301,7 @@
 
 <details open>
 <summary id="Canvas、SVG等相关">
-  Canvas、SVG等相关
+ <a name="Canvas、SVG等相关"></a>Canvas、SVG等相关
 </summary>
 <p></p>
 
@@ -329,7 +330,7 @@
 
 <details open>
 <summary id="Git、SVN">
-  Git、SVN
+ <a name="Git、SVN"></a>Git、SVN
 </summary>
 <p></p>
 
@@ -348,7 +349,7 @@
 
 <details open>
 <summary id="游戏开发">
-  游戏开发
+ <a name="游戏开发"></a>游戏开发
 </summary>
 <p></p>
 
@@ -376,7 +377,7 @@
 
 <details open>
 <summary id="招聘面试">
-  招聘面试
+ <a name="招聘面试"></a>招聘面试
 </summary>
 <p></p>
 
@@ -398,7 +399,7 @@
 
 <details open>
 <summary id="其它">
-  其它
+ <a name="其它"></a>其它
 </summary>
 <p></p>
 
@@ -422,6 +423,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect)
 - [【前端大全】如何做一个听话的-“输入框”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=1&sn=35e95b3a2279502ade02709d39e56f3d#wechat_redirect)
 - [【前端大全】面向对象：上得厅堂-下得厨房-人见人爱-花见花开](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=2&sn=7b52f1bb78d521e011b07101aea80aee#wechat_redirect)
 - [【前端大全】面向对象：人生很短暂，希望在最美的年华遇见对的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=2&sn=16a3f37ac6e15e04f3fcda25661162b5#wechat_redirect)

@@ -10,7 +10,7 @@
 <% _.each(obj.tags, function(e){ %>
 <details open>
 <summary id="<%= e.tag %>">
-  <%= e.tag %>
+ <a name="<%= e.tag %>"></a><%= e.tag %>
 </summary>
 <p></p>
 
