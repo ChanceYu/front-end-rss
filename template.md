@@ -17,6 +17,6 @@
 
 <% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>
 - [<%= item.date %>-<%= itemTitle %>](<%= item.link %>) <% if (e.rss in obj.newData.rss && item.link in obj.newData.links){ %>![](assets/new.png) <% } %> <% }) %>
-- [:top::top::top::top::top::top:](#文章来源)
+- [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章来源)
 </details>
 <% }) %>
