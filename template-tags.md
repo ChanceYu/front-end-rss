@@ -9,8 +9,8 @@
 ## 文章链接
 <% _.each(obj.tags, function(e){ %>
 <details open>
-<summary id="<%= e.tag %>">
- <a name="<%= e.tag %>"></a><%= e.tag %>
+<summary id="<%= e.tag %>" name="<%= e.tag %>">
+ <%= e.tag %>
 </summary>
 <p></p>
 
