@@ -4,7 +4,7 @@
 
 ## 文章分类
 <% _.each(obj.tags, function(e){ %>
-- [<%= e.tag %>](#<%= e.tag %>) <% }) %>
+- [<%= e.tag %>](#user-content-<%= e.tag %>) <% }) %>
 
 ## 文章链接
 <% _.each(obj.tags, function(e){ %>

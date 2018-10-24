@@ -6,7 +6,7 @@
 
 ## 文章来源
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
-- [<%= rssTitle %>](#<%= rssTitle %>)<% if (e.rss in obj.newData.rss){ %>![](assets/dot.png) <% } %>  <% }) %>
+- [<%= rssTitle %>](#user-content-<%= rssTitle %>)<% if (e.rss in obj.newData.rss){ %>![](assets/dot.png) <% } %>  <% }) %>
 
 ## 文章链接
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
