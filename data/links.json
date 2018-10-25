@@ -898,6 +898,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS margin-inline和margin-block区别是什么？",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/10/diff-css-margin-inline-margin-block/",
+        "date": "2018-10-26"
+      },
+      {
         "title": "数学标记语言MathML简介、工具及兼容",
         "link": "https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/",
         "date": "2018-10-24"
