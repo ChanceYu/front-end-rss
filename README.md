@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-25 06:00:14，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-25 12:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#user-content-前端早读课)![](assets/dot.png)   
+- [前端早读课](#user-content-前端早读课)  
 - [前端大全](#user-content-前端大全)  
 - [前端之巅](#user-content-前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#user-content-Taobao-FED-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#user-content-阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#user-content-阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#user-content-前端里)  
 - [JDC-|-京东设计中心](#user-content-JDC-|-京东设计中心)  
 - [w3cplus](#user-content-w3cplus)  
@@ -25,8 +25,8 @@
 </summary>
 
 
-- [2018-10-25-一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect) ![](assets/new.png)  
-- [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) ![](assets/new.png)  
+- [2018-10-25-一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect)  
+- [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)  
 - [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect)  
 - [2018-10-24-【第1425期】精读《12-个评估-JS-库你需要关心的事》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=1&sn=e7fcad21fd73fc3ebd2a03d713dd32af#wechat_redirect)  
 - [2018-10-23-【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)  
@@ -230,7 +230,7 @@
 </summary>
 
 
-- [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) ![](assets/new.png)  
+- [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)  
 - [2018-10-21-有人考了我一道CSS题目](https://www.zhangxinxu.com/wordpress/2018/10/a-css-%e9%a2%98%e7%9b%ae/)  
 - [2018-10-21-CSS-scroll-behavior和JS-scrollIntoView让页面滚动平滑](https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/)  
 - [2018-10-12-CSS-:visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/)  
@@ -255,6 +255,7 @@
 </summary>
 
 
+- [2018-10-25-Page-Visibility-API-教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html) ![](assets/new.png)  
 - [2018-10-23-保罗·艾伦的故事](http://www.ruanyifeng.com/blog/2018/10/paul-allen.html)  
 - [2018-10-19-每周分享第-27-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)  
 - [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)  

@@ -965,6 +965,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Page Visibility API 教程",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html",
+        "date": "2018-10-25"
+      },
+      {
         "title": "保罗·艾伦的故事",
         "link": "http://www.ruanyifeng.com/blog/2018/10/paul-allen.html",
         "date": "2018-10-23"
