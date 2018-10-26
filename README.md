@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-26 06:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-26 08:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#user-content-前端早读课)  
+- [前端早读课](#user-content-前端早读课)![](assets/dot.png)   
 - [前端大全](#user-content-前端大全)  
 - [前端之巅](#user-content-前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#user-content-Taobao-FED-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#user-content-阮一峰的网络日志)  
 - [前端里](#user-content-前端里)  
 - [JDC-|-京东设计中心](#user-content-JDC-|-京东设计中心)  
@@ -25,6 +25,7 @@
 </summary>
 
 
+- [2018-10-26-【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect) ![](assets/new.png)  
 - [2018-10-25-一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect)  
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)  
 - [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect)  
@@ -234,7 +235,7 @@
 </summary>
 
 
-- [2018-10-26-CSS-margin-inline和margin-block区别是什么？](https://www.zhangxinxu.com/wordpress/2018/10/diff-css-margin-inline-margin-block/) ![](assets/new.png)  
+- [2018-10-26-CSS-margin-inline和margin-block区别是什么？](https://www.zhangxinxu.com/wordpress/2018/10/diff-css-margin-inline-margin-block/)  
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)  
 - [2018-10-21-有人考了我一道CSS题目](https://www.zhangxinxu.com/wordpress/2018/10/a-css-%e9%a2%98%e7%9b%ae/)  
 - [2018-10-21-CSS-scroll-behavior和JS-scrollIntoView让页面滚动平滑](https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/)  

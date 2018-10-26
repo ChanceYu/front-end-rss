@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-26 06:00:23，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-26 08:00:24，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -408,6 +408,7 @@
 
 
 
+- [【前端早读课】【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect)
 - [【前端早读课】一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
 - [【前端早读课】【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)
