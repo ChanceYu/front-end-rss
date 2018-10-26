@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-26 22:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-27 06:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#user-content-前端早读课)  
+- [前端早读课](#user-content-前端早读课)![](assets/dot.png)   
 - [前端大全](#user-content-前端大全)  
-- [前端之巅](#user-content-前端之巅)![](assets/dot.png)   
+- [前端之巅](#user-content-前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#user-content-Taobao-FED-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#user-content-张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#user-content-阮一峰的网络日志)  
@@ -25,6 +25,7 @@
 </summary>
 
 
+- [2018-10-27-【第1428期】React-v16.7-"Hooks"---What-to-Expect](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230161&idx=1&sn=2bfaa456e88f33f5a2efad35d3556981#wechat_redirect) ![](assets/new.png)  
 - [2018-10-26-【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect)  
 - [2018-10-25-一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect)  
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)  
@@ -165,7 +166,7 @@
 </summary>
 
 
-- [2018-10-26-React将引入Hooks，你怎么看？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489757&idx=1&sn=3c711d086097f5c25a46b29a4042ae68#wechat_redirect) ![](assets/new.png)  
+- [2018-10-26-React将引入Hooks，你怎么看？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489757&idx=1&sn=3c711d086097f5c25a46b29a4042ae68#wechat_redirect)  
 - [2018-10-25-gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect)  
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect)  
 - [2018-10-23-你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)  
