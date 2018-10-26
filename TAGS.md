@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-26 12:00:14，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-26 18:00:20，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -428,6 +428,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
+- [【前端大全】Page-Visibility-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=2&sn=8692651c956b83f2638deb09e10e4093#wechat_redirect)
 - [【前端大全】页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect)
 - [【前端大全】面向对象：希望我们能够耐得住寂寞，守得住繁华](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=2&sn=9bedb20647b51fd46bf0d6023f1a5b8a#wechat_redirect)
 - [【前端大全】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect)
