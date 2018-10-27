@@ -21,8 +21,6 @@
 <% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>
 - [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% }) %>
 
-<div align="right">
-- [⬆返回顶部](#文章分类)
-</div>
+<div align="right"><a href="#文章分类">⬆返回顶部</a></div>
 </details>
 <% }) %>
