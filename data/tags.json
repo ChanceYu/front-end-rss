@@ -1,7 +1,7 @@
 [
   {
     "tag": "React",
-    "keywords": "react|rax|nerv"
+    "keywords": "react|rax|nerv|redux"
   },
   {
     "tag": "Vue",
@@ -9,35 +9,47 @@
   },
   {
     "tag": "Webpack、NPM等相关",
-    "keywords": "webpack|npm|gulp|grunt"
+    "keywords": "webpack|rollup|npm|gulp|grunt"
   },
   {
     "tag": "NodeJS",
-    "keywords": "nodejs|node|node.js|express|koa|egg.js|pandora.js|electron"
+    "keywords": "node|node.?js|express|koa|egg.?js|pandora.?js|electron"
   },
   {
     "tag": "小程序",
     "keywords": "小程序|taro|mpvue|wepy"
   },
   {
-    "tag": "JavaScript",
-    "keywords": "javascript|js|promise|await|async|es6|decorator|module|import|正则|console"
+    "tag": "移动开发、PWA等相关",
+    "keywords": "pwa|flutter|移动开发"
   },
   {
-    "tag": "CSS",
-    "keywords": "css|sass|less|scale|transform|transition|animation|border|background|font-weight|font-face"
+    "tag": "游戏开发",
+    "keywords": "游戏|three.?js|create.?js|matter.?js"
   },
   {
     "tag": "Canvas、SVG等相关",
     "keywords": "canvas|svg|webgl|web3d|webvr"
   },
   {
-    "tag": "Git、SVN",
-    "keywords": "git|svn"
+    "tag": "音视频等相关",
+    "keywords": "video|audio|视频|音频|直播|摄像头"
   },
   {
-    "tag": "游戏开发",
-    "keywords": "游戏|threejs|three.js|createjs|create.js|matter.js"
+    "tag": "JavaScript",
+    "keywords": "javascript|ecmascript|js|promise|await|async|es6|decorator|module|import|正则|console|setinterval"
+  },
+  {
+    "tag": "CSS",
+    "keywords": "css|sass|less|scale|transform|transition|animation|border|background|font-weight|font-face|flex"
+  },
+  {
+    "tag": "前端进阶相关",
+    "keywords": "算法|gpu|webassembly|vim|graphql|rest|grpc|https|http/?2|nginx|docker"
+  },
+  {
+    "tag": "Git、SVN",
+    "keywords": "git|svn"
   },
   {
     "tag": "招聘面试",
