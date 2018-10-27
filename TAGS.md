@@ -1,26 +1,26 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-27 22:00:17，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-27 22:34:55，[查看文章来源](./README.md)
 
 ## 文章分类
 
-- [React](#user-content-React) 
-- [Vue](#user-content-Vue) 
-- [Webpack、NPM等相关](#user-content-Webpack、NPM等相关) 
-- [NodeJS](#user-content-NodeJS) 
-- [小程序](#user-content-小程序) 
-- [JavaScript](#user-content-JavaScript) 
-- [CSS](#user-content-CSS) 
-- [Canvas、SVG等相关](#user-content-Canvas、SVG等相关) 
-- [Git、SVN](#user-content-Git、SVN) 
-- [游戏开发](#user-content-游戏开发) 
-- [招聘面试](#user-content-招聘面试) 
-- [其它](#user-content-其它) 
+- [React](#react) 
+- [Vue](#vue) 
+- [Webpack、NPM等相关](#webpack、npm等相关) 
+- [NodeJS](#nodejs) 
+- [小程序](#小程序) 
+- [JavaScript](#javascript) 
+- [CSS](#css) 
+- [Canvas、SVG等相关](#canvas、svg等相关) 
+- [Git、SVN](#git、svn) 
+- [游戏开发](#游戏开发) 
+- [招聘面试](#招聘面试) 
+- [其它](#其它) 
 
 ## 文章链接
 
 <details open>
-<summary id="React" name="React">
+<summary id="react">
  React
 </summary>
 <p></p>
@@ -64,7 +64,7 @@
 </details>
 
 <details open>
-<summary id="Vue" name="Vue">
+<summary id="vue">
  Vue
 </summary>
 <p></p>
@@ -110,7 +110,7 @@
 </details>
 
 <details open>
-<summary id="Webpack、NPM等相关" name="Webpack、NPM等相关">
+<summary id="webpack、npm等相关">
  Webpack、NPM等相关
 </summary>
 <p></p>
@@ -130,7 +130,7 @@
 </details>
 
 <details open>
-<summary id="NodeJS" name="NodeJS">
+<summary id="nodejs">
  NodeJS
 </summary>
 <p></p>
@@ -161,7 +161,7 @@
 </details>
 
 <details open>
-<summary id="小程序" name="小程序">
+<summary id="小程序">
  小程序
 </summary>
 <p></p>
@@ -191,7 +191,7 @@
 </details>
 
 <details open>
-<summary id="JavaScript" name="JavaScript">
+<summary id="javascript">
  JavaScript
 </summary>
 <p></p>
@@ -258,7 +258,7 @@
 </details>
 
 <details open>
-<summary id="CSS" name="CSS">
+<summary id="css">
  CSS
 </summary>
 <p></p>
@@ -305,7 +305,7 @@
 </details>
 
 <details open>
-<summary id="Canvas、SVG等相关" name="Canvas、SVG等相关">
+<summary id="canvas、svg等相关">
  Canvas、SVG等相关
 </summary>
 <p></p>
@@ -334,7 +334,7 @@
 </details>
 
 <details open>
-<summary id="Git、SVN" name="Git、SVN">
+<summary id="git、svn">
  Git、SVN
 </summary>
 <p></p>
@@ -353,7 +353,7 @@
 </details>
 
 <details open>
-<summary id="游戏开发" name="游戏开发">
+<summary id="游戏开发">
  游戏开发
 </summary>
 <p></p>
@@ -381,7 +381,7 @@
 </details>
 
 <details open>
-<summary id="招聘面试" name="招聘面试">
+<summary id="招聘面试">
  招聘面试
 </summary>
 <p></p>
@@ -403,7 +403,7 @@
 </details>
 
 <details open>
-<summary id="其它" name="其它">
+<summary id="其它">
  其它
 </summary>
 <p></p>
