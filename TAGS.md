@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-27 06:00:14，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-27 18:00:17，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -92,6 +92,7 @@
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
 - [【前端里】Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html)
 - [【JDC-|-京东设计中心】再谈Vue组件库开发](https://jdc.jd.com/archives/212600)
+- [【w3cplus】Vue-2.0学习笔记：如何创建Vue插件](https://www.w3cplus.com/vue/vue-plugins.html)
 - [【w3cplus】实战Vue组件和Mixins](https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html)
 - [【w3cplus】Vue2.0学习笔记：Vue中的Mixins](https://www.w3cplus.com/vue/vue-mixins.html)
 - [【w3cplus】Vue中的作用域CSS和CSS模块的差异](https://www.w3cplus.com/vue/scoped-styles-vs-css-modules.html)

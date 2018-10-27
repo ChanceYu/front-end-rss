@@ -1226,6 +1226,11 @@
     "link": "https://www.w3cplus.com",
     "items": [
       {
+        "title": "Vue 2.0学习笔记：如何创建Vue插件",
+        "link": "https://www.w3cplus.com/vue/vue-plugins.html",
+        "date": "2018-10-27"
+      },
+      {
         "title": "实战Vue组件和Mixins",
         "link": "https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html",
         "date": "2018-10-23"
