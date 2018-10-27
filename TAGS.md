@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-27 22:34:55，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-27 23:33:27，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -9,11 +9,14 @@
 - [Webpack、NPM等相关](#webpack、npm等相关) 
 - [NodeJS](#nodejs) 
 - [小程序](#小程序) 
+- [移动开发、PWA等相关](#移动开发、pwa等相关) 
+- [游戏开发](#游戏开发) 
+- [Canvas、SVG等相关](#canvas、svg等相关) 
+- [音视频等相关](#音视频等相关) 
 - [JavaScript](#javascript) 
 - [CSS](#css) 
-- [Canvas、SVG等相关](#canvas、svg等相关) 
+- [前端进阶相关](#前端进阶相关) 
 - [Git、SVN](#git、svn) 
-- [游戏开发](#游戏开发) 
 - [招聘面试](#招聘面试) 
 - [其它](#其它) 
 
@@ -26,11 +29,12 @@
 <p></p>
 
 
-> 关键字：`react`、`rax`、`nerv`
+> 关键字：`react`、`rax`、`nerv`、`redux`
 
 
 
 - [【前端早读课】【第1428期】React-v16.7-"Hooks"---What-to-Expect](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230161&idx=1&sn=2bfaa456e88f33f5a2efad35d3556981#wechat_redirect)
+- [【前端早读课】【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect)
 - [【前端早读课】【第1417期】浅析-React-/-Vue-跨端渲染原理与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230065&idx=1&sn=642a92f59ce1fbe593fd9d2564a3f7bc#wechat_redirect)
 - [【前端早读课】【第1414期】缓存-React-事件监听器来提高性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230052&idx=1&sn=e26cec7d159de9ed5586e7535e6f8031#wechat_redirect)
 - [【前端早读课】【第1412期】React-Native-vs.-Cordova、PhoneGap、Ionic，等等](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230036&idx=1&sn=7d819087e7a26aeddbcfa8cd4b3f0071#wechat_redirect)
@@ -116,7 +120,7 @@
 <p></p>
 
 
-> 关键字：`webpack`、`npm`、`gulp`、`grunt`
+> 关键字：`webpack`、`rollup`、`npm`、`gulp`、`grunt`
 
 
 
@@ -136,7 +140,7 @@
 <p></p>
 
 
-> 关键字：`nodejs`、`node`、`node.js`、`express`、`koa`、`egg.js`、`pandora.js`、`electron`
+> 关键字：`node`、`node.js`、`express`、`koa`、`egg.js`、`pandora.js`、`electron`
 
 
 
@@ -191,13 +195,115 @@
 </details>
 
 <details open>
+<summary id="移动开发、pwa等相关">
+ 移动开发、PWA等相关
+</summary>
+<p></p>
+
+
+> 关键字：`pwa`、`flutter`、`移动开发`
+
+
+
+- [【前端之巅】Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect)
+- [【JDC-|-京东设计中心】Hello-PWA](https://jdc.jd.com/archives/212666)
+- [【JDC-|-京东设计中心】【译】使用-Flutter-实现跨平台移动端开发](https://jdc.jd.com/archives/212644)
+- [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
+</details>
+
+<details open>
+<summary id="游戏开发">
+ 游戏开发
+</summary>
+<p></p>
+
+
+> 关键字：`游戏`、`three.js`、`create.js`、`matter.js`
+
+
+
+- [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
+- [【前端大全】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect)
+- [【Aotu.io】3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/)
+- [【Aotu.io】H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/)
+- [【Aotu.io】H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/)
+- [【Aotu.io】H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/)
+- [【Aotu.io】H5游戏开发：游戏引擎入门推荐](https://aotu.io/notes/2017/12/27/h5-game-engine-recommend/)
+- [【Aotu.io】H5游戏开发：指尖大冒险](https://aotu.io/notes/2017/11/28/h5_game_jumping/)
+- [【Aotu.io】H5游戏开发：决胜三分球](https://aotu.io/notes/2017/11/16/basketball/)
+- [【Aotu.io】H5游戏开发：推金币](https://aotu.io/notes/2017/11/06/coindozer/)
+- [【Aotu.io】H5游戏开发：一笔画](https://aotu.io/notes/2017/11/02/onestroke/)
+- [【Aotu.io】H5游戏开发：横屏适配](https://aotu.io/notes/2017/10/18/landscape_mode_in_html5_game/)
+- [【Aotu.io】H5游戏开发：贪吃蛇](https://aotu.io/notes/2017/09/25/h5game-snake/)
+- [【Aotu.io】Three.js-现学现卖](https://aotu.io/notes/2017/08/28/getting-started-with-threejs/)
+- [【Aotu.io】这里有你对-Web-游戏的疑问吗？](https://aotu.io/notes/2017/07/23/some-doubts-about-web-games/)
+- [【Aotu.io】一篇文章带你快速入门-CreateJS](https://aotu.io/notes/2017/07/19/createjs/)
+- [【Aotu.io】Matter.js-2D-物理引擎试玩报告](https://aotu.io/notes/2017/04/17/Matter-js/)
+- [【Aotu.io】源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/)
+- [【Aotu.io】createjs开发入门](https://aotu.io/notes/2016/03/01/createjs-get-started/)
+- [【Aotu.io】js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/)
+- [【Aotu.io】使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/)
+- [【Aotu.io】使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/)
+- [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
+</details>
+
+<details open>
+<summary id="canvas、svg等相关">
+ Canvas、SVG等相关
+</summary>
+<p></p>
+
+
+> 关键字：`canvas`、`svg`、`webgl`、`web3d`、`webvr`
+
+
+
+- [【Taobao-FED-|-淘宝前端团队】G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](http://taobaofed.org/blog/2018/03/05/intro-to-g3d/)
+- [【Taobao-FED-|-淘宝前端团队】GCanvas-渲染引擎介绍](http://taobaofed.org/blog/2017/07/27/gcanvas/)
+- [【张鑫旭-鑫空间-鑫生活】搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
+- [【张鑫旭-鑫空间-鑫生活】学习了，CSS中内联SVG图片有比Base64更好的形式](https://www.zhangxinxu.com/wordpress/2018/08/css-svg-background-image-base64-encode/)
+- [【JDC-|-京东设计中心】WebGL入门与进阶3](https://jdc.jd.com/archives/212370)
+- [【Aotu.io】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)
+- [【Aotu.io】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
+- [【Aotu.io】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
+- [【Aotu.io】sass-svg-一个内联-SVG-的-SASS-库](https://aotu.io/notes/2017/01/19/sass-svg/)
+- [【Aotu.io】聊聊-SVG-基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/)
+- [【Aotu.io】三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/)
+- [【Aotu.io】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
+- [【Aotu.io】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【Aotu.io】拥抱Web设计新趋势：SVG-Sprites实践应用](https://aotu.io/notes/2016/07/09/SVG-Symbol-component-practice/)
+- [【Aotu.io】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
+- [【Aotu.io】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【Aotu.io】使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/)
+- [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
+</details>
+
+<details open>
+<summary id="音视频等相关">
+ 音视频等相关
+</summary>
+<p></p>
+
+
+> 关键字：`video`、`audio`、`视频`、`音频`、`直播`、`摄像头`
+
+
+
+- [【JDC-|-京东设计中心】【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710)
+- [【w3cplus】如何构建一个简单的摄像头组件](https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html)
+- [【Aotu.io】视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
+- [【Aotu.io】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
+- [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
+</details>
+
+<details open>
 <summary id="javascript">
  JavaScript
 </summary>
 <p></p>
 
 
-> 关键字：`javascript`、`js`、`promise`、`await`、`async`、`es6`、`decorator`、`module`、`import`、`正则`、`console`
+> 关键字：`javascript`、`ecmascript`、`js`、`promise`、`await`、`async`、`es6`、`decorator`、`module`、`import`、`正则`、`console`、`setinterval`
 
 
 
@@ -217,6 +323,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)
 - [【前端之巅】Mozilla是如何提升JS和WASM之间的调用速度的?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect)
 - [【前端之巅】2018年，最常见的26个JavaScript面试题和答案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489661&idx=1&sn=6eb5c1b4fe8b853996a051ae47fe23a8#wechat_redirect)
 - [【前端之巅】JavaScript私有属性要来了，但实现方式惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489655&idx=1&sn=7a646d19629ea768f73b9bb982929354#wechat_redirect)
@@ -235,11 +342,8 @@
 - [【张鑫旭-鑫空间-鑫生活】万岁，浏览器原生支持ES6-export和import模块啦！](https://www.zhangxinxu.com/wordpress/2018/08/browser-native-es6-export-import-module/)
 - [【前端里】据说是最好的正则表达式的教程笔记](http://www.yyyweb.com/5141.html)
 - [【前端里】6个提升程序员幸福感的-JavaScript-小技巧](http://www.yyyweb.com/5112.html)
-- [【Aotu.io】3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/)
 - [【Aotu.io】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
-- [【Aotu.io】Three.js-现学现卖](https://aotu.io/notes/2017/08/28/getting-started-with-threejs/)
-- [【Aotu.io】一篇文章带你快速入门-CreateJS](https://aotu.io/notes/2017/07/19/createjs/)
-- [【Aotu.io】Matter.js-2D-物理引擎试玩报告](https://aotu.io/notes/2017/04/17/Matter-js/)
+- [【Aotu.io】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
 - [【Aotu.io】正则表达式实践篇](https://aotu.io/notes/2016/12/07/regexp-practice/)
 - [【Aotu.io】正则表达式理论篇](https://aotu.io/notes/2016/11/17/regexp-theory/)
 - [【Aotu.io】Javascript-中的装饰器](https://aotu.io/notes/2016/10/24/decorator/)
@@ -248,11 +352,7 @@
 - [【Aotu.io】让console充满情怀](https://aotu.io/notes/2016/06/22/An-interesting-experience-on-console/)
 - [【Aotu.io】JavaScript中reduce方法不完全指南](https://aotu.io/notes/2016/04/14/js-reduce/)
 - [【Aotu.io】JavaScript中Math.random的种子设定方法](https://aotu.io/notes/2016/04/14/math-random/)
-- [【Aotu.io】createjs开发入门](https://aotu.io/notes/2016/03/01/createjs-get-started/)
-- [【Aotu.io】js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/)
 - [【Aotu.io】Promise-实战](https://aotu.io/notes/2016/01/08/promise/)
-- [【Aotu.io】使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/)
-- [【Aotu.io】使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/)
 - [【Aotu.io】基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/)
 - [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
 </details>
@@ -264,12 +364,13 @@
 <p></p>
 
 
-> 关键字：`css`、`sass`、`less`、`scale`、`transform`、`transition`、`animation`、`border`、`background`、`font-weight`、`font-face`
+> 关键字：`css`、`sass`、`less`、`scale`、`transform`、`transition`、`animation`、`border`、`background`、`font-weight`、`font-face`、`flex`
 
 
 
 - [【前端早读课】【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
 - [【前端大全】神奇的-CSS3-混合模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=1&sn=e2486f35eb1630ff9de1e533e0524c9f#wechat_redirect)
+- [【前端大全】Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect)
 - [【前端大全】妙用-scale-与-transfrom-origin，精准控制动画方向](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555059&idx=3&sn=d0f37500b6a203dc6351e68c4df46b36#wechat_redirect)
 - [【前端大全】CSS-中重要的层叠概念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555040&idx=1&sn=473958218693ef67d7a786664981ddad#wechat_redirect)
 - [【前端大全】你所不知道的-CSS-滤镜技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555025&idx=1&sn=3b4f9dfea7bc50e849cfe1c21424d881#wechat_redirect)
@@ -280,12 +381,12 @@
 - [【张鑫旭-鑫空间-鑫生活】有人考了我一道CSS题目](https://www.zhangxinxu.com/wordpress/2018/10/a-css-%e9%a2%98%e7%9b%ae/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-:visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/)
 - [【张鑫旭-鑫空间-鑫生活】妙法攻略：渐变虚框及边框滚动动画的纯CSS实现](https://www.zhangxinxu.com/wordpress/2018/08/css-gradient-dashed-border/)
-- [【张鑫旭-鑫空间-鑫生活】学习了，CSS中内联SVG图片有比Base64更好的形式](https://www.zhangxinxu.com/wordpress/2018/08/css-svg-background-image-base64-encode/)
 - [【张鑫旭-鑫空间-鑫生活】这回试试使用CSS实现抛物线运动效果](https://www.zhangxinxu.com/wordpress/2018/08/css-css3-%e6%8a%9b%e7%89%a9%e7%ba%bf%e5%8a%a8%e7%94%bb/)
+- [【阮一峰的网络日志】Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)
+- [【w3cplus】理解CSS的逻辑属性和值](https://www.w3cplus.com/css/understanding-logical-properties-values.html)
 - [【w3cplus】CSS-border-radius-能做什么？](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)
 - [【w3cplus】CSS混合模式高级应用](https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html)
 - [【Aotu.io】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
-- [【Aotu.io】sass-svg-一个内联-SVG-的-SASS-库](https://aotu.io/notes/2017/01/19/sass-svg/)
 - [【Aotu.io】css3-animation-属性众妙](https://aotu.io/notes/2016/11/28/css3-animation-properties/)
 - [【Aotu.io】深入了解font-weight](https://aotu.io/notes/2016/11/08/css3fontweight/)
 - [【Aotu.io】border-image-的正确用法](https://aotu.io/notes/2016/11/02/border-image/)
@@ -305,31 +406,32 @@
 </details>
 
 <details open>
-<summary id="canvas、svg等相关">
- Canvas、SVG等相关
+<summary id="前端进阶相关">
+ 前端进阶相关
 </summary>
 <p></p>
 
 
-> 关键字：`canvas`、`svg`、`webgl`、`web3d`、`webvr`
+> 关键字：`算法`、`gpu`、`webassembly`、`vim`、`graphql`、`rest`、`grpc`、`https`、`http/2`、`nginx`、`docker`
 
 
 
-- [【Taobao-FED-|-淘宝前端团队】G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](http://taobaofed.org/blog/2018/03/05/intro-to-g3d/)
-- [【Taobao-FED-|-淘宝前端团队】GCanvas-渲染引擎介绍](http://taobaofed.org/blog/2017/07/27/gcanvas/)
-- [【张鑫旭-鑫空间-鑫生活】搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
-- [【JDC-|-京东设计中心】WebGL入门与进阶3](https://jdc.jd.com/archives/212370)
-- [【Aotu.io】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)
-- [【Aotu.io】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
-- [【Aotu.io】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
-- [【Aotu.io】聊聊-SVG-基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/)
-- [【Aotu.io】三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/)
-- [【Aotu.io】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
-- [【Aotu.io】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【Aotu.io】拥抱Web设计新趋势：SVG-Sprites实践应用](https://aotu.io/notes/2016/07/09/SVG-Symbol-component-practice/)
-- [【Aotu.io】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
-- [【Aotu.io】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
-- [【Aotu.io】使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/)
+- [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
+- [【前端之巅】gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect)
+- [【阮一峰的网络日志】RESTful-API-最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
+- [【阮一峰的网络日志】Vim-配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html)
+- [【前端里】Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html)
+- [【前端里】在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html)
+- [【JDC-|-京东设计中心】【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690)
+- [【Aotu.io】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
+- [【Aotu.io】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
+- [【Aotu.io】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
+- [【Aotu.io】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
+- [【Aotu.io】Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
+- [【Aotu.io】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
+- [【Aotu.io】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
+- [【Aotu.io】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【Aotu.io】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
 </details>
 
@@ -349,34 +451,6 @@
 - [【Aotu.io】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【Aotu.io】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
 - [【Aotu.io】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
-- [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
-</details>
-
-<details open>
-<summary id="游戏开发">
- 游戏开发
-</summary>
-<p></p>
-
-
-> 关键字：`游戏`、`threejs`、`three.js`、`createjs`、`create.js`、`matter.js`
-
-
-
-- [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
-- [【前端大全】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect)
-- [【Aotu.io】H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/)
-- [【Aotu.io】H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/)
-- [【Aotu.io】H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/)
-- [【Aotu.io】H5游戏开发：游戏引擎入门推荐](https://aotu.io/notes/2017/12/27/h5-game-engine-recommend/)
-- [【Aotu.io】H5游戏开发：指尖大冒险](https://aotu.io/notes/2017/11/28/h5_game_jumping/)
-- [【Aotu.io】H5游戏开发：决胜三分球](https://aotu.io/notes/2017/11/16/basketball/)
-- [【Aotu.io】H5游戏开发：推金币](https://aotu.io/notes/2017/11/06/coindozer/)
-- [【Aotu.io】H5游戏开发：一笔画](https://aotu.io/notes/2017/11/02/onestroke/)
-- [【Aotu.io】H5游戏开发：横屏适配](https://aotu.io/notes/2017/10/18/landscape_mode_in_html5_game/)
-- [【Aotu.io】H5游戏开发：贪吃蛇](https://aotu.io/notes/2017/09/25/h5game-snake/)
-- [【Aotu.io】这里有你对-Web-游戏的疑问吗？](https://aotu.io/notes/2017/07/23/some-doubts-about-web-games/)
-- [【Aotu.io】源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/)
 - [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
 </details>
 
@@ -411,7 +485,6 @@
 
 
 
-- [【前端早读课】【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect)
 - [【前端早读课】一线大厂青睐的前端人，90%满足这3个条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=1&sn=f32838aa0eacb99827e4755ab86eb10f#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
 - [【前端早读课】【第1424期】你听说过原生-HTML-组件吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230131&idx=1&sn=fa0a99356a067386d46028ce37a547b1#wechat_redirect)
@@ -433,7 +506,6 @@
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
 - [【前端大全】微前端---将微服务理念延伸到前端开发中](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=1&sn=9961957377d10d7361e1ed7d127fa036#wechat_redirect)
 - [【前端大全】关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect)
-- [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
 - [【前端大全】Page-Visibility-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=2&sn=8692651c956b83f2638deb09e10e4093#wechat_redirect)
 - [【前端大全】页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect)
 - [【前端大全】面向对象：希望我们能够耐得住寂寞，守得住繁华](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=2&sn=9bedb20647b51fd46bf0d6023f1a5b8a#wechat_redirect)
@@ -441,7 +513,6 @@
 - [【前端大全】如何做一个听话的-“输入框”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=1&sn=35e95b3a2279502ade02709d39e56f3d#wechat_redirect)
 - [【前端大全】面向对象：上得厅堂-下得厨房-人见人爱-花见花开](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555146&idx=2&sn=7b52f1bb78d521e011b07101aea80aee#wechat_redirect)
 - [【前端大全】面向对象：人生很短暂，希望在最美的年华遇见对的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555136&idx=2&sn=16a3f37ac6e15e04f3fcda25661162b5#wechat_redirect)
-- [【前端大全】Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect)
 - [【前端大全】为什么前后端分离了，你比从前更痛苦？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=1&sn=3a6b307a6fc4f7cf43f9ce21cf5f82f3#wechat_redirect)
 - [【前端大全】面向对象：希望找到那个我一看见就想微笑的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=2&sn=c91f90d7889c99f767204fd0c645fd24#wechat_redirect)
 - [【前端大全】30-分钟理解-CORB-是什么](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=1&sn=2f301171b45c5a9167ffb1aecd258466#wechat_redirect)
@@ -467,11 +538,8 @@
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
 - [【前端之巅】微软发布Visual-Studio-2019路线图：实时协作、云开发成为重点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489764&idx=1&sn=15773b016f3866c7822e5858edc82a3a#wechat_redirect)
-- [【前端之巅】gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect)
 - [【前端之巅】每个Web开发者都应该知道的SOLID原则](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect)
 - [【前端之巅】Angular-7.0发布，带来CLI-Prompts、虚拟滚动和拖放等特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489707&idx=1&sn=353b21e8554797382e4d588a00870d35#wechat_redirect)
-- [【前端之巅】ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)
-- [【前端之巅】Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect)
 - [【前端之巅】浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect)
 - [【前端之巅】每个前端开发者都要了解的发布和订阅模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489668&idx=1&sn=ff67920cb3de90b66f490564cec2f6c6#wechat_redirect)
 - [【前端之巅】过来留言，有书相送！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489635&idx=1&sn=0336b643a7e076c76ffa5f58cde38db9#wechat_redirect)
@@ -494,42 +562,29 @@
 - [【阮一峰的网络日志】Page-Visibility-API-教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html)
 - [【阮一峰的网络日志】保罗·艾伦的故事](http://www.ruanyifeng.com/blog/2018/10/paul-allen.html)
 - [【阮一峰的网络日志】每周分享第-27-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-27.html)
-- [【阮一峰的网络日志】Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)
 - [【阮一峰的网络日志】exFAT-文件系统指南](http://www.ruanyifeng.com/blog/2018/10/exfat.html)
 - [【阮一峰的网络日志】每周分享第-26-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-26.html)
 - [【阮一峰的网络日志】每周分享第-25-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html)
-- [【阮一峰的网络日志】RESTful-API-最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
-- [【阮一峰的网络日志】Vim-配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html)
 - [【前端里】基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html)
-- [【前端里】Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html)
 - [【前端里】移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html)
 - [【前端里】玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html)
-- [【前端里】在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html)
 - [【前端里】nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html)
 - [【JDC-|-京东设计中心】可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773)
 - [【JDC-|-京东设计中心】利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)
-- [【JDC-|-京东设计中心】【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710)
 - [【JDC-|-京东设计中心】不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702)
-- [【JDC-|-京东设计中心】【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690)
-- [【JDC-|-京东设计中心】Hello-PWA](https://jdc.jd.com/archives/212666)
-- [【JDC-|-京东设计中心】【译】使用-Flutter-实现跨平台移动端开发](https://jdc.jd.com/archives/212644)
 - [【w3cplus】使用事件总线共享组件之间的Props](https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html)
 - [【w3cplus】探索Web上图片使用方式](https://www.w3cplus.com/css/how-to-use-web-image.html)
 - [【w3cplus】使用Intersection-Observer-API构建无限滚动组件](https://www.w3cplus.com/vue/build-an-infinite-scroll-component-using-intersection-observer-api.html)
 - [【w3cplus】三角函数在前端动画中的应用](https://www.w3cplus.com/javascript/trigonometry-you-must-know.html)
-- [【w3cplus】如何构建一个简单的摄像头组件](https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html)
 - [【w3cplus】DOM系列：DOM事件的传播](https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html)
 - [【Aotu.io】单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
 - [【Aotu.io】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【Aotu.io】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
-- [【Aotu.io】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
-- [【Aotu.io】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【Aotu.io】网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)
 - [【Aotu.io】H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)
-- [【Aotu.io】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
 - [【Aotu.io】whistle-使用实践](https://aotu.io/notes/2017/08/29/an-introduction-to-whistle/)
 - [【Aotu.io】AT---前端-UI-组件库](https://aotu.io/notes/2017/08/28/at-ui/)
 - [【Aotu.io】实现一个-Swiper](https://aotu.io/notes/2017/07/17/design-a-swiper/)
@@ -540,17 +595,14 @@
 - [【Aotu.io】10个你可能不知道的前端PS技巧](https://aotu.io/notes/2017/06/09/ps-tricks/)
 - [【Aotu.io】利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
 - [【Aotu.io】Sticky-Footer，完美的绝对底部](https://aotu.io/notes/2017/04/13/Sticky-footer/)
-- [【Aotu.io】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
 - [【Aotu.io】了解-Fetch-API](https://aotu.io/notes/2017/04/10/fetch-API/)
 - [【Aotu.io】实现一个简单但有趣的AR效果（Web）](https://aotu.io/notes/2017/03/24/webar/)
 - [【Aotu.io】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
 - [【Aotu.io】“等一下，我碰！”——常见的2D碰撞检测](https://aotu.io/notes/2017/02/16/2d-collision-detection/)
 - [【Aotu.io】探讨判断横竖屏的最佳实现](https://aotu.io/notes/2017/01/31/detect-orientation/)
 - [【Aotu.io】ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/)
-- [【Aotu.io】视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 - [【Aotu.io】第2季极客沙龙资料分享---知行·前端体验主题交流会](https://aotu.io/notes/2017/01/04/geek-talks-s2/)
 - [【Aotu.io】京东2016版首页改版前端总结](https://aotu.io/notes/2016/12/26/jd-index-2016-summary/)
-- [【Aotu.io】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
 - [【Aotu.io】项目心得----京东云改版](https://aotu.io/notes/2016/12/02/jcloud/)
 - [【Aotu.io】FIGlet初识](https://aotu.io/notes/2016/11/22/figlet/)
 - [【Aotu.io】「塔罗牌」---轻氧-V1.4-尝鲜体验邀请](https://aotu.io/notes/2016/11/21/liteo2-app-tarots/)
@@ -559,30 +611,25 @@
 - [【Aotu.io】我的第一次移动端页面制作-—-总结与思考](https://aotu.io/notes/2016/11/08/first-mobile-rebuild/)
 - [【Aotu.io】APNG-那些事](https://aotu.io/notes/2016/11/07/apng/)
 - [【Aotu.io】AdobeMax-2016回顾](https://aotu.io/notes/2016/11/02/AdobeMax2016/)
-- [【Aotu.io】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 - [【Aotu.io】在网页上实现-3D-Touch-效果](https://aotu.io/notes/2016/09/28/3d-touch/)
 - [【Aotu.io】HTTP-缓存](https://aotu.io/notes/2016/09/22/http-caching/)
 - [【Aotu.io】写给新人的call、apply、bind](https://aotu.io/notes/2016/09/02/Different-Binding/)
-- [【Aotu.io】Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
 - [【Aotu.io】带机器人上设计学校](https://aotu.io/notes/2016/08/05/robot-design-school/)
 - [【Aotu.io】2016年夏季蜜桃通缉令](https://aotu.io/notes/2016/07/28/o2-wants-you/)
 - [【Aotu.io】我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/)
 - [【Aotu.io】第二界HiFSD分享会PPT讲义下载分享](https://aotu.io/notes/2016/07/03/HIFSD2-Summary/)
 - [【Aotu.io】神奇的Shadow-DOM](https://aotu.io/notes/2016/06/24/Shadow-DOM/)
 - [【Aotu.io】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
-- [【Aotu.io】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【Aotu.io】Adobe-Spark试用手记](https://aotu.io/notes/2016/05/27/adobe-spark/)
 - [【Aotu.io】Swift-Package-Manager-快速入门指引](https://aotu.io/notes/2016/04/28/SPM/)
 - [【Aotu.io】如何用ArrayBuffer构造一个form请求](https://aotu.io/notes/2016/04/21/form-request/)
 - [【Aotu.io】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
 - [【Aotu.io】提升代码的可读性系列一--基础篇](https://aotu.io/notes/2016/03/31/readable/)
 - [【Aotu.io】如何优雅地在Storyboard中设置圆角](https://aotu.io/notes/2016/03/30/cornerRadius-in-Storyboard/)
-- [【Aotu.io】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【Aotu.io】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【Aotu.io】某超长文档的探索之路](https://aotu.io/notes/2016/03/15/jcloud-sum/)
 - [【Aotu.io】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【Aotu.io】图片资源Base64化在H5页面里有用武之地吗？](https://aotu.io/notes/2016/03/04/can-we-use-base64-in-h5-webapps/)
-- [【Aotu.io】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【Aotu.io】手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/)
 - [【Aotu.io】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【Aotu.io】如何制作cocoaPods依赖库](https://aotu.io/notes/2016/01/27/how-to-make-cocoapods/)
@@ -597,7 +644,6 @@
 - [【Aotu.io】101%还原](https://aotu.io/notes/2015/11/16/101-percent/)
 - [【Aotu.io】Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/)
 - [【Aotu.io】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【Aotu.io】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【Aotu.io】凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/)
 - [⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆⬆返回顶部](#文章分类)
 </details>

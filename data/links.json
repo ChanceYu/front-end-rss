@@ -1241,6 +1241,11 @@
     "link": "https://www.w3cplus.com",
     "items": [
       {
+        "title": "理解CSS的逻辑属性和值",
+        "link": "https://www.w3cplus.com/css/understanding-logical-properties-values.html",
+        "date": "2018-10-27"
+      },
+      {
         "title": "Vue 2.0学习笔记：如何创建Vue插件",
         "link": "https://www.w3cplus.com/vue/vue-plugins.html",
         "date": "2018-10-27"
