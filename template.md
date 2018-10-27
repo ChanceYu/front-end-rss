@@ -6,12 +6,12 @@
 
 ## 文章来源
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
-- [<%= rssTitle %>](#user-content-<%= rssTitle %>)<% if (e.rss in obj.newData.rss){ %>![](assets/dot.png) <% } %>  <% }) %>
+- [<%= rssTitle %>](#<%= rssTitle.toLowerCase() %>)<% if (e.rss in obj.newData.rss){ %>![](assets/dot.png) <% } %>  <% }) %>
 
 ## 文章链接
 <% _.each(obj.linksJson, function(e){ var rssTitle = obj.formatTitle(e.title); %>
 <details open>
-<summary id="<%= rssTitle %>" name="<%= rssTitle %>">
+<summary id="<%= rssTitle.toLowerCase() %>">
  <%= rssTitle %>
 </summary>
 

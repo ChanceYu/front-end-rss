@@ -4,12 +4,12 @@
 
 ## 文章分类
 <% _.each(obj.tags, function(e){ %>
-- [<%= e.tag %>](#user-content-<%= e.tag %>) <% }) %>
+- [<%= e.tag %>](#<%= e.tag.toLowerCase() %>) <% }) %>
 
 ## 文章链接
 <% _.each(obj.tags, function(e){ %>
 <details open>
-<summary id="<%= e.tag %>" name="<%= e.tag %>">
+<summary id="<%= e.tag.toLowerCase() %>">
  <%= e.tag %>
 </summary>
 <p></p>
