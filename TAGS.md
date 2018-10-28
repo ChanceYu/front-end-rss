@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-28 08:00:18，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-28 18:00:14，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -333,6 +333,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】深入理解JavaScript的设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489769&idx=1&sn=b22b3de10530a57647f08a6a2f68e37d#wechat_redirect)
 - [【前端之巅】ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)
 - [【前端之巅】Mozilla是如何提升JS和WASM之间的调用速度的?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect)
 - [【前端之巅】2018年，最常见的26个JavaScript面试题和答案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489661&idx=1&sn=6eb5c1b4fe8b853996a051ae47fe23a8#wechat_redirect)
@@ -394,6 +395,7 @@
 - [【张鑫旭-鑫空间-鑫生活】妙法攻略：渐变虚框及边框滚动动画的纯CSS实现](https://www.zhangxinxu.com/wordpress/2018/08/css-gradient-dashed-border/)
 - [【张鑫旭-鑫空间-鑫生活】这回试试使用CSS实现抛物线运动效果](https://www.zhangxinxu.com/wordpress/2018/08/css-css3-%e6%8a%9b%e7%89%a9%e7%ba%bf%e5%8a%a8%e7%94%bb/)
 - [【阮一峰的网络日志】Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)
+- [【w3cplus】使用CSS-transition和animation改变渐变状态](https://www.w3cplus.com/css/the-state-of-changing-gradients-with-css-transitions-and-animations.html)
 - [【w3cplus】理解CSS的逻辑属性和值](https://www.w3cplus.com/css/understanding-logical-properties-values.html)
 - [【w3cplus】CSS-border-radius-能做什么？](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)
 - [【w3cplus】CSS混合模式高级应用](https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html)

@@ -649,6 +649,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "深入理解JavaScript的设计模式",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489769&idx=1&sn=b22b3de10530a57647f08a6a2f68e37d#wechat_redirect",
+        "date": "2018-10-28"
+      },
+      {
         "title": "微软发布Visual Studio 2019路线图：实时协作、云开发成为重点",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489764&idx=1&sn=15773b016f3866c7822e5858edc82a3a#wechat_redirect",
         "date": "2018-10-27"
@@ -1245,6 +1250,11 @@
     "title": "w3cplus",
     "link": "https://www.w3cplus.com",
     "items": [
+      {
+        "title": "使用CSS transition和animation改变渐变状态",
+        "link": "https://www.w3cplus.com/css/the-state-of-changing-gradients-with-css-transitions-and-animations.html",
+        "date": "2018-10-28"
+      },
       {
         "title": "理解CSS的逻辑属性和值",
         "link": "https://www.w3cplus.com/css/understanding-logical-properties-values.html",
