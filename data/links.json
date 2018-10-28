@@ -963,6 +963,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "写给自己看的display: flex布局教程",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/",
+        "date": "2018-10-28"
+      },
+      {
         "title": "CSS margin-inline和margin-block区别是什么？",
         "link": "https://www.zhangxinxu.com/wordpress/2018/10/diff-css-margin-inline-margin-block/",
         "date": "2018-10-26"
