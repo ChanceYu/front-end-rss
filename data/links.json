@@ -272,6 +272,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "React v16.7 \"Hooks\" - What to Expect",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555198&idx=1&sn=96ebb30eb2b98ae0d4de536d753032a6#wechat_redirect",
+        "date": "2018-10-28"
+      },
+      {
+        "title": "使用 CSS 3 制作长投影",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555198&idx=3&sn=bde1f0dddf6620e7e1576775291553b9#wechat_redirect",
+        "date": "2018-10-28"
+      },
+      {
+        "title": "面向对象：既然找不到你，我站在最高处等你来",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555198&idx=2&sn=24818ef1c1af5c7b0e21c81be355e392#wechat_redirect",
+        "date": "2018-10-28"
+      },
+      {
         "title": "微前端 - 将微服务理念延伸到前端开发中",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=1&sn=9961957377d10d7361e1ed7d127fa036#wechat_redirect",
         "date": "2018-10-27"
@@ -1116,6 +1131,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "在业务提升：创建领域特定语言（DSL）",
+        "link": "http://www.yyyweb.com/5166.html",
+        "date": "2018-10-28"
+      },
       {
         "title": "基于 BFF 隔离的前后端分离演进",
         "link": "http://www.yyyweb.com/5125.html",
