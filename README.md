@@ -2,7 +2,7 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-29 12:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-29 18:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
@@ -12,8 +12,8 @@
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
+- [前端里](#前端里)![](assets/dot.png)   
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [w3cplus](#w3cplus)  
 - [Aotu.io](#aotu.io)  
 
@@ -304,6 +304,7 @@
 </summary>
 
 
+- [2018-10-29-精选：3个为您提供高质量免费照片的网站](http://www.yyyweb.com/5171.html) ![](assets/new.png)  
 - [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html)  
 - [2018-09-26-基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html)  
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html)  
@@ -326,7 +327,7 @@
 </summary>
 
 
-- [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779) ![](assets/new.png)  
+- [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)  
 - [2018-10-19-可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773)  
 - [2018-10-19-利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)  
 - [2018-09-28-【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710)  
