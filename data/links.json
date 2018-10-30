@@ -5,6 +5,11 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1432期】megalo -- 网易考拉小程序解决方案",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230183&idx=1&sn=194e48cc4c3737032e38d7d509596c95#wechat_redirect",
+        "date": "2018-10-31"
+      },
+      {
         "title": "前端性能优化原理与实践",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect",
         "date": "2018-10-30"
@@ -1335,6 +1340,11 @@
     "title": "w3cplus",
     "link": "https://www.w3cplus.com",
     "items": [
+      {
+        "title": "CSS伪选择器：:empty vs :blank",
+        "link": "https://www.w3cplus.com/css/empty-vs-blank.html",
+        "date": "2018-10-30"
+      },
       {
         "title": "使用CSS transition和animation改变渐变状态",
         "link": "https://www.w3cplus.com/css/the-state-of-changing-gradients-with-css-transitions-and-animations.html",
