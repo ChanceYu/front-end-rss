@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-30 08:00:15，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-30 18:00:19，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -564,6 +564,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】Kotlin-1.3发布：支持协程和多平台组件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489781&idx=1&sn=a10d290c8c796e48fd878960fb5ac298#wechat_redirect)
 - [【前端之巅】克军：如何成为一位优秀的前端工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489776&idx=1&sn=d15a9744238fdaca250ced5816ec9bd5#wechat_redirect)
 - [【前端之巅】微软发布Visual-Studio-2019路线图：实时协作、云开发成为重点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489764&idx=1&sn=15773b016f3866c7822e5858edc82a3a#wechat_redirect)
 - [【前端之巅】每个Web开发者都应该知道的SOLID原则](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489713&idx=1&sn=aebf7190cd0a07bdc01f40cfdf533b89#wechat_redirect)

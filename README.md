@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-30 08:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-30 18:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -25,8 +25,8 @@
 </summary>
 
 
-- [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) ![](assets/new.png)  
-- [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) ![](assets/new.png)  
+- [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)  
+- [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect)  
 - [2018-10-29-【第1430期】以面试官的角度来看-React-工作面试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230165&idx=1&sn=765772f7fb33d6dd5211183c2f186eb6#wechat_redirect)  
 - [2018-10-28-【第1429期】详解JavaScript中的this](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230163&idx=1&sn=1a55521b1ec68036dd512192d9fc7dd1#wechat_redirect)  
 - [2018-10-27-【第1428期】React-v16.7-"Hooks"---What-to-Expect](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230161&idx=1&sn=2bfaa456e88f33f5a2efad35d3556981#wechat_redirect)  
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2018-10-30-Kotlin-1.3发布：支持协程和多平台组件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489781&idx=1&sn=a10d290c8c796e48fd878960fb5ac298#wechat_redirect) ![](assets/new.png)  
 - [2018-10-29-克军：如何成为一位优秀的前端工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489776&idx=1&sn=d15a9744238fdaca250ced5816ec9bd5#wechat_redirect)  
 - [2018-10-28-深入理解JavaScript的设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489769&idx=1&sn=b22b3de10530a57647f08a6a2f68e37d#wechat_redirect)  
 - [2018-10-27-微软发布Visual-Studio-2019路线图：实时协作、云开发成为重点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489764&idx=1&sn=15773b016f3866c7822e5858edc82a3a#wechat_redirect)  
