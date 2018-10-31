@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-10-31 06:00:24，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-10-31 22:00:14，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -99,15 +99,6 @@
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
 - [【前端里】Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html)
 - [【JDC-|-京东设计中心】再谈Vue组件库开发](https://jdc.jd.com/archives/212600)
-- [【w3cplus】Vue-2.0学习笔记：如何创建Vue插件](https://www.w3cplus.com/vue/vue-plugins.html)
-- [【w3cplus】实战Vue组件和Mixins](https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html)
-- [【w3cplus】Vue2.0学习笔记：Vue中的Mixins](https://www.w3cplus.com/vue/vue-mixins.html)
-- [【w3cplus】Vue中的作用域CSS和CSS模块的差异](https://www.w3cplus.com/vue/scoped-styles-vs-css-modules.html)
-- [【w3cplus】Vue-2.0学习笔记：事件总线（EventBus）](https://www.w3cplus.com/vue/event-bus.html)
-- [【w3cplus】Vue组件通讯](https://www.w3cplus.com/vue/component-communication.html)
-- [【w3cplus】Vue中的状态管理](https://www.w3cplus.com/vue/managing-state-in-vue-js.html)
-- [【w3cplus】Vue中的异步组件](https://www.w3cplus.com/vue/async-vuejs-components.html)
-- [【w3cplus】-重用Vue组件中的逻辑](https://www.w3cplus.com/vue/reusing-logic-in-vue-components.html)
 - [【Aotu.io】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
 - [【Aotu.io】一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/)
 - [【Aotu.io】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
@@ -302,7 +293,6 @@
 
 
 - [【JDC-|-京东设计中心】【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710)
-- [【w3cplus】如何构建一个简单的摄像头组件](https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html)
 - [【Aotu.io】视频H5のVideo标签在微信里的坑和技巧](https://aotu.io/notes/2017/01/11/mobile-video/)
 - [【Aotu.io】H5直播起航](https://aotu.io/notes/2016/10/09/HTML5-SopCast/)
 
@@ -328,6 +318,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】2018年最佳JavaScript数据可视化和图表库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=1&sn=3a655e361b65899c13812b0c0689916f#wechat_redirect)
 - [【前端大全】不使用-JS-匿名函数的三个理由](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555214&idx=3&sn=a933a4db076bd790df1569a1359a677a#wechat_redirect)
 - [【前端大全】精读《12-个评估-JS-库你需要关心的事》](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555209&idx=1&sn=ca663d5d68b28ca11e083a2bb3a22366#wechat_redirect)
 - [【前端大全】ES6-系列之我们来聊聊-Promise](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=2&sn=f82973686705f99076b8d0995020ac96#wechat_redirect)
@@ -339,6 +330,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】如何用浏览器调试器代替console.log-？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect)
 - [【前端之巅】深入理解JavaScript的设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489769&idx=1&sn=b22b3de10530a57647f08a6a2f68e37d#wechat_redirect)
 - [【前端之巅】ECMAScript-2016/2017/2018新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489700&idx=1&sn=ed323636072614a8268737195ae3ace3#wechat_redirect)
 - [【前端之巅】Mozilla是如何提升JS和WASM之间的调用速度的?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489684&idx=1&sn=354cb6970be44883bf881e79d9433349#wechat_redirect)
@@ -387,6 +379,7 @@
 
 
 - [【前端早读课】【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
+- [【前端大全】没学过线代也能读懂的CSS3-matrix](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=2&sn=d9156af652f53f0060d04c4bd1cd8f59#wechat_redirect)
 - [【前端大全】使用-CSS-3-制作长投影](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555198&idx=3&sn=bde1f0dddf6620e7e1576775291553b9#wechat_redirect)
 - [【前端大全】神奇的-CSS3-混合模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=1&sn=e2486f35eb1630ff9de1e533e0524c9f#wechat_redirect)
 - [【前端大全】Flexbox-布局的最简单表单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555129&idx=2&sn=62e17b4f4b9d6af1fa2769049fb09754#wechat_redirect)
@@ -403,11 +396,6 @@
 - [【张鑫旭-鑫空间-鑫生活】妙法攻略：渐变虚框及边框滚动动画的纯CSS实现](https://www.zhangxinxu.com/wordpress/2018/08/css-gradient-dashed-border/)
 - [【张鑫旭-鑫空间-鑫生活】这回试试使用CSS实现抛物线运动效果](https://www.zhangxinxu.com/wordpress/2018/08/css-css3-%e6%8a%9b%e7%89%a9%e7%ba%bf%e5%8a%a8%e7%94%bb/)
 - [【阮一峰的网络日志】Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)
-- [【w3cplus】CSS伪选择器：:empty-vs-:blank](https://www.w3cplus.com/css/empty-vs-blank.html)
-- [【w3cplus】使用CSS-transition和animation改变渐变状态](https://www.w3cplus.com/css/the-state-of-changing-gradients-with-css-transitions-and-animations.html)
-- [【w3cplus】理解CSS的逻辑属性和值](https://www.w3cplus.com/css/understanding-logical-properties-values.html)
-- [【w3cplus】CSS-border-radius-能做什么？](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)
-- [【w3cplus】CSS混合模式高级应用](https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html)
 - [【Aotu.io】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [【Aotu.io】css3-animation-属性众妙](https://aotu.io/notes/2016/11/28/css3-animation-properties/)
 - [【Aotu.io】深入了解font-weight](https://aotu.io/notes/2016/11/08/css3fontweight/)
@@ -592,6 +580,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html)
 - [【阮一峰的网络日志】每周分享第-28-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)
 - [【阮一峰的网络日志】Page-Visibility-API-教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html)
 - [【阮一峰的网络日志】保罗·艾伦的故事](http://www.ruanyifeng.com/blog/2018/10/paul-allen.html)
@@ -611,11 +600,6 @@
 - [【JDC-|-京东设计中心】可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773)
 - [【JDC-|-京东设计中心】利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)
 - [【JDC-|-京东设计中心】不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702)
-- [【w3cplus】使用事件总线共享组件之间的Props](https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html)
-- [【w3cplus】探索Web上图片使用方式](https://www.w3cplus.com/css/how-to-use-web-image.html)
-- [【w3cplus】使用Intersection-Observer-API构建无限滚动组件](https://www.w3cplus.com/vue/build-an-infinite-scroll-component-using-intersection-observer-api.html)
-- [【w3cplus】三角函数在前端动画中的应用](https://www.w3cplus.com/javascript/trigonometry-you-must-know.html)
-- [【w3cplus】DOM系列：DOM事件的传播](https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html)
 - [【Aotu.io】单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
 - [【Aotu.io】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【Aotu.io】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)

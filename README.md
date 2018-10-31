@@ -2,19 +2,18 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-10-31 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-10-31 22:00:14，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [w3cplus](#w3cplus)![](assets/dot.png)   
 - [Aotu.io](#aotu.io)  
 
 ## 文章链接
@@ -25,7 +24,7 @@
 </summary>
 
 
-- [2018-10-31-【第1432期】megalo----网易考拉小程序解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230183&idx=1&sn=194e48cc4c3737032e38d7d509596c95#wechat_redirect) ![](assets/new.png)  
+- [2018-10-31-【第1432期】megalo----网易考拉小程序解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230183&idx=1&sn=194e48cc4c3737032e38d7d509596c95#wechat_redirect)  
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)  
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect)  
 - [2018-10-29-【第1430期】以面试官的角度来看-React-工作面试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230165&idx=1&sn=765772f7fb33d6dd5211183c2f186eb6#wechat_redirect)  
@@ -91,6 +90,8 @@
 </summary>
 
 
+- [2018-10-31-2018年最佳JavaScript数据可视化和图表库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=1&sn=3a655e361b65899c13812b0c0689916f#wechat_redirect) ![](assets/new.png)  
+- [2018-10-31-没学过线代也能读懂的CSS3-matrix](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=2&sn=d9156af652f53f0060d04c4bd1cd8f59#wechat_redirect) ![](assets/new.png)  
 - [2018-10-30-跨域几种方式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555214&idx=1&sn=f061ff032e06b8560c5a3832404d4cf5#wechat_redirect)  
 - [2018-10-30-不使用-JS-匿名函数的三个理由](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555214&idx=3&sn=a933a4db076bd790df1569a1359a677a#wechat_redirect)  
 - [2018-10-30-面向对象：趁天还蓝，风还轻，阳光还正好，我们就相遇吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555214&idx=2&sn=e40ade12ba38254cb962a08ea6bc0bca#wechat_redirect)  
@@ -183,6 +184,7 @@
 </summary>
 
 
+- [2018-10-31-如何用浏览器调试器代替console.log-？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect) ![](assets/new.png)  
 - [2018-10-30-Kotlin-1.3发布：支持协程和多平台组件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489781&idx=1&sn=a10d290c8c796e48fd878960fb5ac298#wechat_redirect)  
 - [2018-10-29-克军：如何成为一位优秀的前端工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489776&idx=1&sn=d15a9744238fdaca250ced5816ec9bd5#wechat_redirect)  
 - [2018-10-28-深入理解JavaScript的设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489769&idx=1&sn=b22b3de10530a57647f08a6a2f68e37d#wechat_redirect)  
@@ -290,6 +292,7 @@
 </summary>
 
 
+- [2018-10-31-软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html) ![](assets/new.png)  
 - [2018-10-26-每周分享第-28-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)  
 - [2018-10-25-Page-Visibility-API-教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html)  
 - [2018-10-23-保罗·艾伦的故事](http://www.ruanyifeng.com/blog/2018/10/paul-allen.html)  
@@ -351,36 +354,6 @@
 - [2018-07-26-【译】使用React和HTML5表单验证API处理表单元素](https://jdc.jd.com/archives/212629)  
 - [2018-07-24-再谈Vue组件库开发](https://jdc.jd.com/archives/212600)  
 - [2018-07-19-WebGL入门与进阶3](https://jdc.jd.com/archives/212370)  
-
-<div align="right"><a href="#文章来源">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="w3cplus">
- w3cplus
-</summary>
-
-
-- [2018-10-30-CSS伪选择器：:empty-vs-:blank](https://www.w3cplus.com/css/empty-vs-blank.html) ![](assets/new.png)  
-- [2018-10-28-使用CSS-transition和animation改变渐变状态](https://www.w3cplus.com/css/the-state-of-changing-gradients-with-css-transitions-and-animations.html)  
-- [2018-10-27-理解CSS的逻辑属性和值](https://www.w3cplus.com/css/understanding-logical-properties-values.html)  
-- [2018-10-27-Vue-2.0学习笔记：如何创建Vue插件](https://www.w3cplus.com/vue/vue-plugins.html)  
-- [2018-10-23-实战Vue组件和Mixins](https://www.w3cplus.com/vue/practical-use-of-components-and-mixins-in-vue-js.html)  
-- [2018-10-22-Vue2.0学习笔记：Vue中的Mixins](https://www.w3cplus.com/vue/vue-mixins.html)  
-- [2018-10-18-使用事件总线共享组件之间的Props](https://www.w3cplus.com/vue/using-event-bus-to-share-props-between-vue-components.html)  
-- [2018-10-16-CSS-border-radius-能做什么？](https://www.w3cplus.com/css/css-border-radius-can-do-that.html)  
-- [2018-10-08-Vue中的作用域CSS和CSS模块的差异](https://www.w3cplus.com/vue/scoped-styles-vs-css-modules.html)  
-- [2018-09-30-Vue-2.0学习笔记：事件总线（EventBus）](https://www.w3cplus.com/vue/event-bus.html)  
-- [2018-09-09-Vue组件通讯](https://www.w3cplus.com/vue/component-communication.html)  
-- [2018-09-05-Vue中的状态管理](https://www.w3cplus.com/vue/managing-state-in-vue-js.html)  
-- [2018-09-02-探索Web上图片使用方式](https://www.w3cplus.com/css/how-to-use-web-image.html)  
-- [2018-08-26-使用Intersection-Observer-API构建无限滚动组件](https://www.w3cplus.com/vue/build-an-infinite-scroll-component-using-intersection-observer-api.html)  
-- [2018-08-26-Vue中的异步组件](https://www.w3cplus.com/vue/async-vuejs-components.html)  
-- [2018-08-24--重用Vue组件中的逻辑](https://www.w3cplus.com/vue/reusing-logic-in-vue-components.html)  
-- [2018-08-23-三角函数在前端动画中的应用](https://www.w3cplus.com/javascript/trigonometry-you-must-know.html)  
-- [2018-08-23-如何构建一个简单的摄像头组件](https://www.w3cplus.com/javascript/how-to-build-the-simple-camera-component.html)  
-- [2018-08-22-CSS混合模式高级应用](https://www.w3cplus.com/css/advanced-effects-with-css-background-blend-modes.html)  
-- [2018-08-21-DOM系列：DOM事件的传播](https://www.w3cplus.com/javascript/event-capturing-bubbling-javascript.html)  
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
 </details>

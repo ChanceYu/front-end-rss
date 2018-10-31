@@ -292,6 +292,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "2018年最佳JavaScript数据可视化和图表库",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=1&sn=3a655e361b65899c13812b0c0689916f#wechat_redirect",
+        "date": "2018-10-31"
+      },
+      {
+        "title": "没学过线代也能读懂的CSS3 matrix",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=2&sn=d9156af652f53f0060d04c4bd1cd8f59#wechat_redirect",
+        "date": "2018-10-31"
+      },
+      {
         "title": "跨域几种方式",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555214&idx=1&sn=f061ff032e06b8560c5a3832404d4cf5#wechat_redirect",
         "date": "2018-10-30"
@@ -709,6 +719,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "如何用浏览器调试器代替console.log() ？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect",
+        "date": "2018-10-31"
+      },
+      {
         "title": "Kotlin 1.3发布：支持协程和多平台组件",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489781&idx=1&sn=a10d290c8c796e48fd878960fb5ac298#wechat_redirect",
         "date": "2018-10-30"
@@ -1114,6 +1129,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "软件开发就像长跑，最佳状态要留给最重要的比赛",
+        "link": "http://www.ruanyifeng.com/blog/2018/10/runner.html",
+        "date": "2018-10-31"
+      },
       {
         "title": "每周分享第 28 期",
         "link": "http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html",
