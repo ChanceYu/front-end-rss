@@ -931,6 +931,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "Atag - Web Components 最佳实践",
+        "link": "http://taobaofed.org/blog/2018/10/31/a-tag/",
+        "date": "2018-10-31"
+      },
+      {
         "title": "Workbox 3：Service Worker 可以如此简单",
         "link": "http://taobaofed.org/blog/2018/08/08/workbox3/",
         "date": "2018-08-08"
