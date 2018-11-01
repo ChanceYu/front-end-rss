@@ -5,6 +5,16 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1434期】渔人和Rxjs的故事",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect",
+        "date": "2018-11-02"
+      },
+      {
+        "title": "【集锦】十月份都发了些什么？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect",
+        "date": "2018-11-02"
+      },
+      {
         "title": "【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect",
         "date": "2018-11-01"
@@ -296,6 +306,21 @@
     "title": "前端大全",
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
+      {
+        "title": "如何优雅地链式取值",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect",
+        "date": "2018-11-01"
+      },
+      {
+        "title": "h5 与原生 app 交互的原理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect",
+        "date": "2018-11-01"
+      },
+      {
+        "title": "面向对象：什么都不会比舒适地相处重要",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect",
+        "date": "2018-11-01"
+      },
       {
         "title": "2018年最佳JavaScript数据可视化和图表库",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=1&sn=3a655e361b65899c13812b0c0689916f#wechat_redirect",
@@ -723,6 +748,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "Storybook 4.0大升级：为RN提供一级支持、引入6个新视图层",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489790&idx=1&sn=343f4b6abee54693a5861d2da161a64d#wechat_redirect",
+        "date": "2018-11-01"
+      },
       {
         "title": "如何用浏览器调试器代替console.log() ？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect",
