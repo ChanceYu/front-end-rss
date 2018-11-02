@@ -307,6 +307,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "mpvue 在前端项目的应用设计",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=1&sn=f84fd3f08b0e133e058379f6267129b3#wechat_redirect",
+        "date": "2018-11-02"
+      },
+      {
+        "title": "Web API 持续集成：PostMan+Newman+Jenkins",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=2&sn=28bdc705a362f1683c505a582d8cf1ca#wechat_redirect",
+        "date": "2018-11-02"
+      },
+      {
         "title": "如何优雅地链式取值",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect",
         "date": "2018-11-01"
@@ -748,6 +758,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "React Native重构路线图发布！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489794&idx=1&sn=ee982306430cb83eb46857f5dca4c6f7#wechat_redirect",
+        "date": "2018-11-02"
+      },
       {
         "title": "Storybook 4.0大升级：为RN提供一级支持、引入6个新视图层",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489790&idx=1&sn=343f4b6abee54693a5861d2da161a64d#wechat_redirect",

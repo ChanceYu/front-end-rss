@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-02 12:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-02 18:00:30，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2018-11-02-mpvue-在前端项目的应用设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=1&sn=f84fd3f08b0e133e058379f6267129b3#wechat_redirect) ![](assets/new.png)  
+- [2018-11-02-Web-API-持续集成：PostMan+Newman+Jenkins](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=2&sn=28bdc705a362f1683c505a582d8cf1ca#wechat_redirect) ![](assets/new.png)  
 - [2018-11-01-如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect)  
 - [2018-11-01-h5-与原生-app-交互的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect)  
 - [2018-11-01-面向对象：什么都不会比舒适地相处重要](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect)  
@@ -190,6 +192,7 @@
 </summary>
 
 
+- [2018-11-02-React-Native重构路线图发布！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489794&idx=1&sn=ee982306430cb83eb46857f5dca4c6f7#wechat_redirect) ![](assets/new.png)  
 - [2018-11-01-Storybook-4.0大升级：为RN提供一级支持、引入6个新视图层](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489790&idx=1&sn=343f4b6abee54693a5861d2da161a64d#wechat_redirect)  
 - [2018-10-31-如何用浏览器调试器代替console.log-？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect)  
 - [2018-10-30-Kotlin-1.3发布：支持协程和多平台组件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489781&idx=1&sn=a10d290c8c796e48fd878960fb5ac298#wechat_redirect)  
@@ -300,7 +303,7 @@
 </summary>
 
 
-- [2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html) ![](assets/new.png)  
+- [2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)  
 - [2018-10-31-软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html)  
 - [2018-10-26-每周分享第-28-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)  
 - [2018-10-25-Page-Visibility-API-教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html)  

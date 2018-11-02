@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-02 12:00:13，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-02 18:00:30，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -52,6 +52,7 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】React-Native重构路线图发布！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489794&idx=1&sn=ee982306430cb83eb46857f5dca4c6f7#wechat_redirect)
 - [【前端之巅】React将引入Hooks，你怎么看？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489757&idx=1&sn=3c711d086097f5c25a46b29a4042ae68#wechat_redirect)
 - [【前端之巅】为什么说ReasonReact是编写React的最佳方式？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489636&idx=1&sn=123449a34024394bed64202b33c96094#wechat_redirect)
 - [【前端之巅】Create-React-App-2.0正式版发布，不再支持-Node-6](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489634&idx=1&sn=602dfc889a099a22d01f02b5b7c6c2dc#wechat_redirect)
@@ -85,6 +86,7 @@
 - [【前端早读课】【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect)
 - [【前端早读课】【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect)
 - [【前端早读课】【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect)
+- [【前端大全】mpvue-在前端项目的应用设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=1&sn=f84fd3f08b0e133e058379f6267129b3#wechat_redirect)
 - [【前端大全】Vue源码阅读：批量异步更新与nextTick原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=3&sn=bc74076eb23a18cec5837b95615414a8#wechat_redirect)
 - [【前端大全】Vue源码阅读-–-依赖收集原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555109&idx=3&sn=8795ad06f4328361d2a46f8ae4f96103#wechat_redirect)
 - [【前端大全】Vue源码阅读：文件结构与运行机制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555091&idx=2&sn=8cbd3588a34735e5a1979a3adfdcf050#wechat_redirect)
@@ -523,6 +525,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Web-API-持续集成：PostMan+Newman+Jenkins](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=2&sn=28bdc705a362f1683c505a582d8cf1ca#wechat_redirect)
 - [【前端大全】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect)
 - [【前端大全】h5-与原生-app-交互的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect)
 - [【前端大全】面向对象：什么都不会比舒适地相处重要](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect)
