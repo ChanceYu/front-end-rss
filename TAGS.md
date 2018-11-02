@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-02 06:00:17，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-02 12:00:13，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -588,6 +588,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
 - [【阮一峰的网络日志】软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html)
 - [【阮一峰的网络日志】每周分享第-28-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)
 - [【阮一峰的网络日志】Page-Visibility-API-教程](http://www.ruanyifeng.com/blog/2018/10/page_visibility_api.html)
