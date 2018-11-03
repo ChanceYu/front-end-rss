@@ -2,17 +2,17 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-03 18:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-03 22:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2018-11-03-趣图：Firefox-在-Windows-发现了一个漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=1&sn=0a2ee71e9025791121f8f81732d04ce4#wechat_redirect) ![](assets/new.png)  
+- [2018-11-03-React-Native-发布关于重构的具体细节和路线图](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=3&sn=4b2ae295bd11584d88a216f0fbeb7800#wechat_redirect) ![](assets/new.png)  
+- [2018-11-03-面向对象：好的爱情从不费力，寻找志同道合的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=2&sn=0b3c732f72494763f9480737a81dc308#wechat_redirect) ![](assets/new.png)  
 - [2018-11-02-mpvue-在前端项目的应用设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=1&sn=f84fd3f08b0e133e058379f6267129b3#wechat_redirect)  
 - [2018-11-02-Web-API-持续集成：PostMan+Newman+Jenkins](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=2&sn=28bdc705a362f1683c505a582d8cf1ca#wechat_redirect)  
 - [2018-11-01-如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect)  
@@ -193,6 +196,7 @@
 </summary>
 
 
+- [2018-11-03-2018年，如何写一个现代的JavaScript库？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489799&idx=1&sn=55f1afab8136890a371a75770e56ccac#wechat_redirect) ![](assets/new.png)  
 - [2018-11-02-React-Native重构路线图发布！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489794&idx=1&sn=ee982306430cb83eb46857f5dca4c6f7#wechat_redirect)  
 - [2018-11-01-Storybook-4.0大升级：为RN提供一级支持、引入6个新视图层](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489790&idx=1&sn=343f4b6abee54693a5861d2da161a64d#wechat_redirect)  
 - [2018-10-31-如何用浏览器调试器代替console.log-？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect)  
@@ -330,7 +334,7 @@
 </summary>
 
 
-- [2018-11-03-15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html) ![](assets/new.png)  
+- [2018-11-03-15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html)  
 - [2018-10-29-精选：3个为您提供高质量免费照片的网站](http://www.yyyweb.com/5171.html)  
 - [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html)  
 - [2018-09-26-基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html)  
