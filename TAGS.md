@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-04 08:00:10，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-04 22:00:24，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -334,6 +334,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】深度解析JavaScript的this关键字](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489804&idx=1&sn=896a60cf20418feea8db8c1f3d23ec43#wechat_redirect)
 - [【前端之巅】2018年，如何写一个现代的JavaScript库？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489799&idx=1&sn=55f1afab8136890a371a75770e56ccac#wechat_redirect)
 - [【前端之巅】如何用浏览器调试器代替console.log-？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489786&idx=1&sn=160a932ae8ef6629be4d795136e5b37c#wechat_redirect)
 - [【前端之巅】深入理解JavaScript的设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489769&idx=1&sn=b22b3de10530a57647f08a6a2f68e37d#wechat_redirect)
@@ -529,6 +530,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Web-框架的架构模式探讨](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555248&idx=1&sn=15aa4346e2ee1247458c514d1296cd63#wechat_redirect)
+- [【前端大全】编写支持-SSR-的通用组件指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555248&idx=2&sn=1dd758404cddd6c970662fd32ef4c759#wechat_redirect)
 - [【前端大全】趣图：Firefox-在-Windows-发现了一个漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=1&sn=0a2ee71e9025791121f8f81732d04ce4#wechat_redirect)
 - [【前端大全】面向对象：好的爱情从不费力，寻找志同道合的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=2&sn=0b3c732f72494763f9480737a81dc308#wechat_redirect)
 - [【前端大全】Web-API-持续集成：PostMan+Newman+Jenkins](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=2&sn=28bdc705a362f1683c505a582d8cf1ca#wechat_redirect)
