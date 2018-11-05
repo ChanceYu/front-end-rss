@@ -2,18 +2,18 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-05 08:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-05 18:00:16，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [前端里](#前端里)![](assets/dot.png)   
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
 - [Aotu.io](#aotu.io)  
 
 ## 文章链接
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2018-11-05-学会这个，就拥有刷屏10亿用户的入场券！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=1&sn=3327a5f250bf56ad7f49c32bd8884c15#wechat_redirect) ![](assets/new.png)  
-- [2018-11-05-【第1437期】深拷贝的终极探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=2&sn=383436ee9c652e09ebb120e360114ec2#wechat_redirect) ![](assets/new.png)  
+- [2018-11-05-学会这个，就拥有刷屏10亿用户的入场券！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=1&sn=3327a5f250bf56ad7f49c32bd8884c15#wechat_redirect)  
+- [2018-11-05-【第1437期】深拷贝的终极探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=2&sn=383436ee9c652e09ebb120e360114ec2#wechat_redirect)  
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect)  
 - [2018-11-03-【第1435期】国际化---通用-LTR/RTL-布局解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230202&idx=1&sn=fb1e6dd2d9784158aab49dff838c34b0#wechat_redirect)  
 - [2018-11-02-【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect)  
@@ -314,6 +314,7 @@
 </summary>
 
 
+- [2018-11-05-Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html) ![](assets/new.png)  
 - [2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)  
 - [2018-10-31-软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html)  
 - [2018-10-26-每周分享第-28-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)  
@@ -340,6 +341,7 @@
 </summary>
 
 
+- [2018-11-05-12个美丽网站，受到日出启发的配色方案](http://www.yyyweb.com/5182.html) ![](assets/new.png)  
 - [2018-11-03-15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html)  
 - [2018-10-29-精选：3个为您提供高质量免费照片的网站](http://www.yyyweb.com/5171.html)  
 - [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html)  
@@ -364,6 +366,7 @@
 </summary>
 
 
+- [2018-11-05-利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784) ![](assets/new.png)  
 - [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)  
 - [2018-10-19-可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773)  
 - [2018-10-19-利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)  

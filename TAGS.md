@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-05 08:00:18，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-05 18:00:16，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -602,6 +602,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html)
 - [【阮一峰的网络日志】每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
 - [【阮一峰的网络日志】软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html)
 - [【阮一峰的网络日志】每周分享第-28-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-28.html)
@@ -614,6 +615,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】12个美丽网站，受到日出启发的配色方案](http://www.yyyweb.com/5182.html)
 - [【前端里】15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html)
 - [【前端里】精选：3个为您提供高质量免费照片的网站](http://www.yyyweb.com/5171.html)
 - [【前端里】在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html)
@@ -621,6 +623,7 @@
 - [【前端里】移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html)
 - [【前端里】玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html)
 - [【前端里】nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html)
+- [【JDC-|-京东设计中心】利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784)
 - [【JDC-|-京东设计中心】可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773)
 - [【JDC-|-京东设计中心】利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)
 - [【JDC-|-京东设计中心】不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702)

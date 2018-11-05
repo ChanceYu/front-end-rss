@@ -1240,6 +1240,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Page Lifecycle API 教程",
+        "link": "http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html",
+        "date": "2018-11-05"
+      },
+      {
         "title": "每周分享第 29 期",
         "link": "http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html",
         "date": "2018-11-02"
@@ -1327,6 +1332,11 @@
     "link": "http://www.yyyweb.com",
     "items": [
       {
+        "title": "12个美丽网站，受到日出启发的配色方案",
+        "link": "http://www.yyyweb.com/5182.html",
+        "date": "2018-11-05"
+      },
+      {
         "title": "15个新鲜出炉的 Photoshop 文本效果教程",
         "link": "http://www.yyyweb.com/5178.html",
         "date": "2018-11-03"
@@ -1403,6 +1413,11 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "利用交叉观察器解锁懒加载新姿势",
+        "link": "https://jdc.jd.com/archives/212784",
+        "date": "2018-11-05"
+      },
       {
         "title": "快速小程序开发之微信小程序内嵌 H5",
         "link": "https://jdc.jd.com/archives/212779",
