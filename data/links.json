@@ -327,6 +327,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "前后端均适用的网络知识点大全",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=1&sn=7db72c92735bb4cbe7a769eb1f10cee7#wechat_redirect",
+        "date": "2018-11-05"
+      },
+      {
+        "title": "纯 CSS 实现多行文字截断",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=3&sn=e7aae654af90354359c3fc7a3665a770#wechat_redirect",
+        "date": "2018-11-05"
+      },
+      {
+        "title": "面向对象：想要和你从恋爱开始，一直到未来",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=2&sn=bb9847b29bca6fc2f83a23106ea16772#wechat_redirect",
+        "date": "2018-11-05"
+      },
+      {
         "title": "Web 框架的架构模式探讨",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555248&idx=1&sn=15aa4346e2ee1247458c514d1296cd63#wechat_redirect",
         "date": "2018-11-04"
@@ -803,6 +818,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "苏宁用户行为采集体系的演变",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489809&idx=1&sn=d9245e75a871f9f1221d70ddf4e6025d#wechat_redirect",
+        "date": "2018-11-05"
+      },
       {
         "title": "深度解析JavaScript的this关键字",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489804&idx=1&sn=896a60cf20418feea8db8c1f3d23ec43#wechat_redirect",
@@ -1495,6 +1515,11 @@
     "title": "Aotu.io",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Taro 1.1 发布，全面支持微信/百度/支付宝 小程序",
+        "link": "https://aotu.io/notes/2018/11/05/taro-1-1/",
+        "date": "2018-11-05"
+      },
       {
         "title": "3D 物理世界 - Three.js 与 Cannon.js 介绍与使用",
         "link": "https://aotu.io/notes/2018/10/18/cannonjs/",

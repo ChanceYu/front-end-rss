@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-05 18:00:16，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-05 22:00:25，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -185,6 +185,7 @@
 - [【前端之巅】多端统一开发框架-Taro-1.0-正式发布，全面支持小程序](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489534&idx=1&sn=45147b46e9e4b2db52d573d2e6b68207#wechat_redirect)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
 - [【JDC-|-京东设计中心】小程序实战总结](https://jdc.jd.com/archives/212697)
+- [【Aotu.io】Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)
 - [【Aotu.io】多端统一开发框架-Taro-1.0-正式发布](https://aotu.io/notes/2018/09/18/taro-1-0-0/)
 - [【Aotu.io】Taro-在京东购物小程序上的实践](https://aotu.io/notes/2018/09/11/taro-in-jd/)
 - [【Aotu.io】首个多端-UI-组件库---Taro-UI-发布](https://aotu.io/notes/2018/08/27/the-birth-of-taro-ui/)
@@ -386,6 +387,7 @@
 
 - [【前端早读课】【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect)
 - [【前端早读课】【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
+- [【前端大全】纯-CSS-实现多行文字截断](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=3&sn=e7aae654af90354359c3fc7a3665a770#wechat_redirect)
 - [【前端大全】没学过线代也能读懂的CSS3-matrix](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=2&sn=d9156af652f53f0060d04c4bd1cd8f59#wechat_redirect)
 - [【前端大全】使用-CSS-3-制作长投影](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555198&idx=3&sn=bde1f0dddf6620e7e1576775291553b9#wechat_redirect)
 - [【前端大全】神奇的-CSS3-混合模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=1&sn=e2486f35eb1630ff9de1e533e0524c9f#wechat_redirect)
@@ -532,6 +534,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】前后端均适用的网络知识点大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=1&sn=7db72c92735bb4cbe7a769eb1f10cee7#wechat_redirect)
+- [【前端大全】面向对象：想要和你从恋爱开始，一直到未来](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=2&sn=bb9847b29bca6fc2f83a23106ea16772#wechat_redirect)
 - [【前端大全】Web-框架的架构模式探讨](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555248&idx=1&sn=15aa4346e2ee1247458c514d1296cd63#wechat_redirect)
 - [【前端大全】编写支持-SSR-的通用组件指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555248&idx=2&sn=1dd758404cddd6c970662fd32ef4c759#wechat_redirect)
 - [【前端大全】趣图：Firefox-在-Windows-发现了一个漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=1&sn=0a2ee71e9025791121f8f81732d04ce4#wechat_redirect)
@@ -577,6 +581,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】苏宁用户行为采集体系的演变](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489809&idx=1&sn=d9245e75a871f9f1221d70ddf4e6025d#wechat_redirect)
 - [【前端之巅】Storybook-4.0大升级：为RN提供一级支持、引入6个新视图层](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489790&idx=1&sn=343f4b6abee54693a5861d2da161a64d#wechat_redirect)
 - [【前端之巅】Kotlin-1.3发布：支持协程和多平台组件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489781&idx=1&sn=a10d290c8c796e48fd878960fb5ac298#wechat_redirect)
 - [【前端之巅】克军：如何成为一位优秀的前端工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489776&idx=1&sn=d15a9744238fdaca250ced5816ec9bd5#wechat_redirect)
