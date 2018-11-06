@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-06 22:00:33，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-07 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,7 @@
 </summary>
 
 
+- [2018-11-07-【第1439期】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect) ![](assets/new.png)  
 - [2018-11-06-【第1438期】如何让你的网页“看起来”展现地更快-——-骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect)  
 - [2018-11-06-【活动】第13届D2前端技术论坛，2019年1月6日杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=2&sn=aaafbf5860a9ca1f23803bf742f39ee6#wechat_redirect)  
 - [2018-11-05-学会这个，就拥有刷屏10亿用户的入场券！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=1&sn=3327a5f250bf56ad7f49c32bd8884c15#wechat_redirect)  
@@ -99,8 +100,8 @@
 </summary>
 
 
-- [2018-11-06-2018-大厂高级前端面试题汇总](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect) ![](assets/new.png)  
-- [2018-11-06-挨批评了！Chrome-对用户隐私保护还不如-IE？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=2&sn=f2a06ba5334c235727583c19d9b2f438#wechat_redirect) ![](assets/new.png)  
+- [2018-11-06-2018-大厂高级前端面试题汇总](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect)  
+- [2018-11-06-挨批评了！Chrome-对用户隐私保护还不如-IE？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=2&sn=f2a06ba5334c235727583c19d9b2f438#wechat_redirect)  
 - [2018-11-05-前后端均适用的网络知识点大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=1&sn=7db72c92735bb4cbe7a769eb1f10cee7#wechat_redirect)  
 - [2018-11-05-纯-CSS-实现多行文字截断](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=3&sn=e7aae654af90354359c3fc7a3665a770#wechat_redirect)  
 - [2018-11-05-面向对象：想要和你从恋爱开始，一直到未来](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=2&sn=bb9847b29bca6fc2f83a23106ea16772#wechat_redirect)  
@@ -208,7 +209,7 @@
 </summary>
 
 
-- [2018-11-06-Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect) ![](assets/new.png)  
+- [2018-11-06-Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect)  
 - [2018-11-05-苏宁用户行为采集体系的演变](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489809&idx=1&sn=d9245e75a871f9f1221d70ddf4e6025d#wechat_redirect)  
 - [2018-11-04-深度解析JavaScript的this关键字](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489804&idx=1&sn=896a60cf20418feea8db8c1f3d23ec43#wechat_redirect)  
 - [2018-11-03-2018年，如何写一个现代的JavaScript库？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489799&idx=1&sn=55f1afab8136890a371a75770e56ccac#wechat_redirect)  

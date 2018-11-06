@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-06 22:00:33，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-07 06:00:17，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -33,6 +33,7 @@
 
 
 
+- [【前端早读课】【第1439期】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect)
 - [【前端早读课】【第1430期】以面试官的角度来看-React-工作面试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230165&idx=1&sn=765772f7fb33d6dd5211183c2f186eb6#wechat_redirect)
 - [【前端早读课】【第1428期】React-v16.7-"Hooks"---What-to-Expect](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230161&idx=1&sn=2bfaa456e88f33f5a2efad35d3556981#wechat_redirect)
 - [【前端早读课】【第1427期】构建大型-Redux-应用的五个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230150&idx=1&sn=e862acee73f3383be10b5df6b55e5620#wechat_redirect)
