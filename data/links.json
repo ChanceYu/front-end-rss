@@ -337,6 +337,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "2018 大厂高级前端面试题汇总",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect",
+        "date": "2018-11-06"
+      },
+      {
+        "title": "挨批评了！Chrome 对用户隐私保护还不如 IE？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=2&sn=f2a06ba5334c235727583c19d9b2f438#wechat_redirect",
+        "date": "2018-11-06"
+      },
+      {
         "title": "前后端均适用的网络知识点大全",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=1&sn=7db72c92735bb4cbe7a769eb1f10cee7#wechat_redirect",
         "date": "2018-11-05"
@@ -828,6 +838,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "Taro 1.1 全面支持微信/百度/支付宝小程序了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect",
+        "date": "2018-11-06"
+      },
       {
         "title": "苏宁用户行为采集体系的演变",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489809&idx=1&sn=d9245e75a871f9f1221d70ddf4e6025d#wechat_redirect",
