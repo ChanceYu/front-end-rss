@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-06 08:00:21，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-06 18:00:26，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -100,6 +100,7 @@
 - [【前端之巅】基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect)
 - [【前端之巅】Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect)
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
+- [【前端里】Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html)
 - [【前端里】Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html)
 - [【JDC-|-京东设计中心】再谈Vue组件库开发](https://jdc.jd.com/archives/212600)
 - [【Aotu.io】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
@@ -623,6 +624,8 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】前后端分离：使用-token-登录解决方案](http://www.yyyweb.com/5144.html)
+- [【前端里】面向初学者：什么是高阶组件？](http://www.yyyweb.com/5190.html)
 - [【前端里】12个美丽网站，受到日出启发的配色方案](http://www.yyyweb.com/5182.html)
 - [【前端里】15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html)
 - [【前端里】精选：3个为您提供高质量免费照片的网站](http://www.yyyweb.com/5171.html)
