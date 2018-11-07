@@ -342,6 +342,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Web 前端也想做黑客，这些你都会吗？",
+        "link": "https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9z9UTBm2o5-5IHqqdmZ0eeJJp5WkNZhaBKq5pJBgA-iE6Br1mjW7pKXvK30yQJ9VKw%3D&id=1000000875",
+        "date": "2018-11-07"
+      },
+      {
+        "title": "前端如何高效的与后端协作开发",
+        "link": "https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9yMkAzN74R4b2x1v4uyjcLge38RiM9Dseg0TlEra0nGJPOwHCAOfBefMR7GwxoD46I%3D&id=1000000875",
+        "date": "2018-11-07"
+      },
+      {
         "title": "2018 大厂高级前端面试题汇总",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect",
         "date": "2018-11-06"
@@ -1299,6 +1309,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "awk 入门教程",
+        "link": "http://www.ruanyifeng.com/blog/2018/11/awk.html",
+        "date": "2018-11-07"
+      },
       {
         "title": "Page Lifecycle API 教程",
         "link": "http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html",

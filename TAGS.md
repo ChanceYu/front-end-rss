@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-07 18:00:27，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-07 22:00:20，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -542,6 +542,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Web-前端也想做黑客，这些你都会吗？](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9z9UTBm2o5-5IHqqdmZ0eeJJp5WkNZhaBKq5pJBgA-iE6Br1mjW7pKXvK30yQJ9VKw%3D&id=1000000875)
+- [【前端大全】前端如何高效的与后端协作开发](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9yMkAzN74R4b2x1v4uyjcLge38RiM9Dseg0TlEra0nGJPOwHCAOfBefMR7GwxoD46I%3D&id=1000000875)
 - [【前端大全】挨批评了！Chrome-对用户隐私保护还不如-IE？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=2&sn=f2a06ba5334c235727583c19d9b2f438#wechat_redirect)
 - [【前端大全】前后端均适用的网络知识点大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=1&sn=7db72c92735bb4cbe7a769eb1f10cee7#wechat_redirect)
 - [【前端大全】面向对象：想要和你从恋爱开始，一直到未来](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555258&idx=2&sn=bb9847b29bca6fc2f83a23106ea16772#wechat_redirect)
@@ -617,6 +619,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)
 - [【阮一峰的网络日志】Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html)
 - [【阮一峰的网络日志】每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)
 - [【阮一峰的网络日志】软件开发就像长跑，最佳状态要留给最重要的比赛](http://www.ruanyifeng.com/blog/2018/10/runner.html)
