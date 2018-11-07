@@ -2,17 +2,17 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-07 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-07 18:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -24,7 +24,7 @@
 </summary>
 
 
-- [2018-11-07-【第1439期】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect) ![](assets/new.png)  
+- [2018-11-07-【第1439期】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect)  
 - [2018-11-06-【第1438期】如何让你的网页“看起来”展现地更快-——-骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect)  
 - [2018-11-06-【活动】第13届D2前端技术论坛，2019年1月6日杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=2&sn=aaafbf5860a9ca1f23803bf742f39ee6#wechat_redirect)  
 - [2018-11-05-学会这个，就拥有刷屏10亿用户的入场券！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=1&sn=3327a5f250bf56ad7f49c32bd8884c15#wechat_redirect)  
@@ -209,6 +209,7 @@
 </summary>
 
 
+- [2018-11-07-Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect) ![](assets/new.png)  
 - [2018-11-06-Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect)  
 - [2018-11-05-苏宁用户行为采集体系的演变](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489809&idx=1&sn=d9245e75a871f9f1221d70ddf4e6025d#wechat_redirect)  
 - [2018-11-04-深度解析JavaScript的this关键字](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489804&idx=1&sn=896a60cf20418feea8db8c1f3d23ec43#wechat_redirect)  
@@ -352,6 +353,7 @@
 </summary>
 
 
+- [2018-11-07-多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html) ![](assets/new.png)  
 - [2018-11-06-Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html)  
 - [2018-11-01-前后端分离：使用-token-登录解决方案](http://www.yyyweb.com/5144.html)  
 - [2018-09-05-面向初学者：什么是高阶组件？](http://www.yyyweb.com/5190.html)  

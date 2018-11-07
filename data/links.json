@@ -844,6 +844,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "Linux基金会宣布将为GraphQL成立基金会",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect",
+        "date": "2018-11-07"
+      },
+      {
         "title": "Taro 1.1 全面支持微信/百度/支付宝小程序了！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect",
         "date": "2018-11-06"
@@ -1386,6 +1391,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "多端统一开发框架 Taro 1.0 正式发布",
+        "link": "http://www.yyyweb.com/5197.html",
+        "date": "2018-11-07"
+      },
       {
         "title": "Vue.js 父子组件之间通信的十种方式",
         "link": "http://www.yyyweb.com/5189.html",

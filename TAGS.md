@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-07 06:00:17，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-07 18:00:27，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -186,6 +186,7 @@
 - [【前端之巅】Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect)
 - [【前端之巅】百度智能小程序月活破亿，今日正式开放申请](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489568&idx=1&sn=ce77b64d7cc6ed0b057c78d7cf55755f#wechat_redirect)
 - [【前端之巅】多端统一开发框架-Taro-1.0-正式发布，全面支持小程序](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489534&idx=1&sn=45147b46e9e4b2db52d573d2e6b68207#wechat_redirect)
+- [【前端里】多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
 - [【JDC-|-京东设计中心】小程序实战总结](https://jdc.jd.com/archives/212697)
 - [【Aotu.io】Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)
@@ -440,6 +441,7 @@
 
 
 - [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
+- [【前端之巅】Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect)
 - [【前端之巅】gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect)
 - [【阮一峰的网络日志】RESTful-API-最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 - [【阮一峰的网络日志】Vim-配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html)
