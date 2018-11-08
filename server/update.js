@@ -259,6 +259,7 @@ function handlerTimeline(){
     currentDate: getNowDate(),
     dataObj,
     formatTitle,
+    dataKeys: Object.keys(dataObj).sort().reverse()
   });
 
   fs.writeFileSync(TIMELINE_MD_PATH, content, 'utf-8');
