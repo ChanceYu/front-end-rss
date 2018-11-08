@@ -17,6 +17,8 @@ const README_PATH        = path.join(respRoot + '/README.md')
 const TEMPLATE_PATH      = path.join(respRoot + '/template.md')
 const TAGS_MD_PATH       = path.join(respRoot + '/TAGS.md')
 const TAGS_TEMPLATE_PATH = path.join(respRoot + '/template-tags.md')
+const TIMELINE_MD_PATH       = path.join(respRoot + '/TIMELINE.md')
+const TIMELINE_TEMPLATE_PATH = path.join(respRoot + '/template-timeline.md')
 
 let rssJson = []
 let linksJson = []
@@ -175,6 +177,7 @@ function handlerFeed(){
       fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
       handlerREADME()
       handlerTags()
+      handlerTimeline()
       handlerCommit()
     }else{
       console.log(getNowDate() + ' - 无需更新');
@@ -199,6 +202,7 @@ function handlerREADME(){
 
   fs.writeFileSync(README_PATH, content, 'utf-8');
 }
+
 /**
  * 渲染 TAGS.md 文件
  */
@@ -229,6 +233,35 @@ function handlerTags(){
   });
 
   fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8');
+}
+
+function handlerTimeline(){
+  let dataObj = {}
+  let allLinks = fs.readFileSync(LINKS_PATH)
+
+  allLinks = JSON.parse(allLinks.toString())
+  
+  allLinks.forEach((rss) => {
+    rss.items.forEach((item) => {
+      let date = item.date.substr(0, 7)
+
+      item.rssTitle = rss.title;
+      dataObj[date] = dataObj[date] || []
+      dataObj[date].push(item)
+    })
+  })
+
+  let content = fs.readFileSync(TIMELINE_TEMPLATE_PATH);
+
+  let compiled = _.template(content.toString());
+
+  content = compiled({
+    currentDate: getNowDate(),
+    dataObj,
+    formatTitle,
+  });
+
+  fs.writeFileSync(TIMELINE_MD_PATH, content, 'utf-8');
 }
 
 /**
