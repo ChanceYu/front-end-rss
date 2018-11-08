@@ -1,6 +1,6 @@
 :alarm_clock: 更新时间: <%= obj.currentDate %>，[文章来源](./README.md)，[文章分类](./TAGS.md)
 
-## 时间分类
+## 时间分类
 <% _.each(obj.dataObj, function(e, attr){ %>
 - [<%= attr %>](#<%= attr %>) <% }) %>
 
