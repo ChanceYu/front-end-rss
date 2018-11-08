@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-08 18:00:23，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-08 22:00:26，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -54,6 +54,7 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】React-hooks都是数组，没那么神秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489824&idx=1&sn=3cef360e13a70bbaf839e5a83fa755b8#wechat_redirect)
 - [【前端之巅】React-Native重构路线图发布！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489794&idx=1&sn=ee982306430cb83eb46857f5dca4c6f7#wechat_redirect)
 - [【前端之巅】React将引入Hooks，你怎么看？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489757&idx=1&sn=3c711d086097f5c25a46b29a4042ae68#wechat_redirect)
 - [【前端之巅】为什么说ReasonReact是编写React的最佳方式？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489636&idx=1&sn=123449a34024394bed64202b33c96094#wechat_redirect)
