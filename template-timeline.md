@@ -14,6 +14,6 @@
 <% _.each(obj.dataObj[attr], function(item){ var itemTitle = obj.formatTitle(item.title); %>
 - [【<%= item.rssTitle %>】<%= item.date %>-<%= itemTitle %>](<%= item.link %>) <% }) %>
 
-<div align="right"><a href="#文章来源">⬆返回顶部</a></div>
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
 <% }) %>
