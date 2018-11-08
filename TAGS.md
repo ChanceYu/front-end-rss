@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-08 06:00:22，[查看文章来源](./README.md)
+:alarm_clock: 更新时间: 2018-11-08 18:00:23，[查看文章来源](./README.md)
 
 ## 文章分类
 
@@ -126,6 +126,7 @@
 
 - [【前端大全】webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
 - [【前端之巅】Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect)
+- [【前端里】Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html)
 - [【前端里】H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html)
 - [【JDC-|-京东设计中心】Webpack打包实用优化方案](https://jdc.jd.com/archives/212653)
 - [【Aotu.io】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
@@ -389,6 +390,7 @@
 
 
 
+- [【前端早读课】【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect)
 - [【前端早读课】【第1440期】你所不知道的-CSS-阴影技巧与细节](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-qfv4WpSpLWsNgmPr4BvlnuOO-qo1b6Q93XrHwg-r8y%2AYr6BZ9t94qUwteP35D9SE%3D&id=1000000839)
 - [【前端早读课】【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect)
 - [【前端早读课】【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect)
@@ -515,6 +517,7 @@
 
 
 
+- [【前端早读课】进入BAT一线大厂做前端开发工程师需要的3个重要条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect)
 - [【前端早读课】进入BAT一线大厂做前端开发工程师需要的3个重要条件](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839)
 - [【前端早读课】【第1438期】如何让你的网页“看起来”展现地更快-——-骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect)
 - [【前端早读课】【活动】第13届D2前端技术论坛，2019年1月6日杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=2&sn=aaafbf5860a9ca1f23803bf742f39ee6#wechat_redirect)
@@ -544,6 +547,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Web-前端也想做黑客，这些你都会吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=1&sn=4b04559188e847f8e9f9ebc627f4a0f8&scene=0#wechat_redirect)
+- [【前端大全】前端如何高效的与后端协作开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=2&sn=31dd2003eb0e25236606e3f55ff2efc3&scene=0#wechat_redirect)
 - [【前端大全】Web-前端也想做黑客，这些你都会吗？](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9z9UTBm2o5-5IHqqdmZ0eeJJp5WkNZhaBKq5pJBgA-iE6Br1mjW7pKXvK30yQJ9VKw%3D&id=1000000875)
 - [【前端大全】前端如何高效的与后端协作开发](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9yMkAzN74R4b2x1v4uyjcLge38RiM9Dseg0TlEra0nGJPOwHCAOfBefMR7GwxoD46I%3D&id=1000000875)
 - [【前端大全】挨批评了！Chrome-对用户隐私保护还不如-IE？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=2&sn=f2a06ba5334c235727583c19d9b2f438#wechat_redirect)
@@ -635,6 +640,8 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html)
+- [【前端里】动画：从-AE-到-Web，‘甩锅’给设计师](http://www.yyyweb.com/5201.html)
 - [【前端里】前后端分离：使用-token-登录解决方案](http://www.yyyweb.com/5144.html)
 - [【前端里】面向初学者：什么是高阶组件？](http://www.yyyweb.com/5190.html)
 - [【前端里】12个美丽网站，受到日出启发的配色方案](http://www.yyyweb.com/5182.html)

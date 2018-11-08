@@ -6,6 +6,16 @@
     "items": [
       {
         "title": "进入BAT一线大厂做前端开发工程师需要的3个重要条件",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect",
+        "date": "2018-11-08"
+      },
+      {
+        "title": "【第1440期】你所不知道的 CSS 阴影技巧与细节",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect",
+        "date": "2018-11-08"
+      },
+      {
+        "title": "进入BAT一线大厂做前端开发工程师需要的3个重要条件",
         "link": "https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839",
         "date": "2018-11-08"
       },
@@ -351,6 +361,16 @@
     "title": "前端大全",
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
+      {
+        "title": "Web 前端也想做黑客，这些你都会吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=1&sn=4b04559188e847f8e9f9ebc627f4a0f8&scene=0#wechat_redirect",
+        "date": "2018-11-07"
+      },
+      {
+        "title": "前端如何高效的与后端协作开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=2&sn=31dd2003eb0e25236606e3f55ff2efc3&scene=0#wechat_redirect",
+        "date": "2018-11-07"
+      },
       {
         "title": "Web 前端也想做黑客，这些你都会吗？",
         "link": "https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9z9UTBm2o5-5IHqqdmZ0eeJJp5WkNZhaBKq5pJBgA-iE6Br1mjW7pKXvK30yQJ9VKw%3D&id=1000000875",
@@ -1416,6 +1436,21 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "Webpack HMR 热更新实现原理深入分析",
+        "link": "http://www.yyyweb.com/5194.html",
+        "date": "2018-11-08"
+      },
+      {
+        "title": "开发技巧：使用 ImageMagick 进行图像处理",
+        "link": "http://www.yyyweb.com/5199.html",
+        "date": "2018-11-08"
+      },
+      {
+        "title": "动画：从 AE 到 Web，‘甩锅’给设计师",
+        "link": "http://www.yyyweb.com/5201.html",
+        "date": "2018-11-08"
+      },
       {
         "title": "多端统一开发框架 Taro 1.0 正式发布",
         "link": "http://www.yyyweb.com/5197.html",
