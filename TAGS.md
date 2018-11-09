@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-09 08:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-09 12:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -189,6 +189,7 @@
 - [【前端之巅】百度智能小程序月活破亿，今日正式开放申请](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489568&idx=1&sn=ce77b64d7cc6ed0b057c78d7cf55755f#wechat_redirect)
 - [【前端之巅】多端统一开发框架-Taro-1.0-正式发布，全面支持小程序](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489534&idx=1&sn=45147b46e9e4b2db52d573d2e6b68207#wechat_redirect)
 - [【前端里】多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html)
+- [【JDC-|-京东设计中心】微信小程序·云开发初体验](https://jdc.jd.com/archives/212791)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
 - [【JDC-|-京东设计中心】小程序实战总结](https://jdc.jd.com/archives/212697)
 - [【Aotu.io】Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)
@@ -632,6 +633,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-30-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)
 - [【阮一峰的网络日志】awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)
 - [【阮一峰的网络日志】Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html)
 - [【阮一峰的网络日志】每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)

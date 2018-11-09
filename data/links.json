@@ -1370,6 +1370,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 30 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html",
+        "date": "2018-11-09"
+      },
+      {
         "title": "awk 入门教程",
         "link": "http://www.ruanyifeng.com/blog/2018/11/awk.html",
         "date": "2018-11-07"
@@ -1583,6 +1588,11 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "微信小程序·云开发初体验",
+        "link": "https://jdc.jd.com/archives/212791",
+        "date": "2018-11-09"
+      },
       {
         "title": "利用交叉观察器解锁懒加载新姿势",
         "link": "https://jdc.jd.com/archives/212784",

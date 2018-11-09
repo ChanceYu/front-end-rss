@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-09 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-09 12:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -96,6 +96,7 @@
 - [【前端之巅】2018-11-02-React-Native重构路线图发布！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489794&idx=1&sn=ee982306430cb83eb46857f5dca4c6f7#wechat_redirect) 
 - [【前端之巅】2018-11-01-Storybook-4.0大升级：为RN提供一级支持、引入6个新视图层](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489790&idx=1&sn=343f4b6abee54693a5861d2da161a64d#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2018-11-06-写给自己看的display:-grid布局教程](https://www.zhangxinxu.com/wordpress/2018/11/display-grid-css-css3/) 
+- [【阮一峰的网络日志】2018-11-09-每周分享第-30-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html) 
 - [【阮一峰的网络日志】2018-11-07-awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html) 
 - [【阮一峰的网络日志】2018-11-05-Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html) 
 - [【阮一峰的网络日志】2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html) 
@@ -107,6 +108,7 @@
 - [【前端里】2018-11-01-前后端分离：使用-token-登录解决方案](http://www.yyyweb.com/5144.html) 
 - [【前端里】2018-11-05-12个美丽网站，受到日出启发的配色方案](http://www.yyyweb.com/5182.html) 
 - [【前端里】2018-11-03-15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html) 
+- [【JDC-|-京东设计中心】2018-11-09-微信小程序·云开发初体验](https://jdc.jd.com/archives/212791) 
 - [【JDC-|-京东设计中心】2018-11-05-利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784) 
 - [【Aotu.io】2018-11-05-Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/) 
 
