@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-09 00:58:24。[文章来源](./README.md)，[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-09 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,6 +49,8 @@
 </summary>
 
 
+- [【前端早读课】2018-11-09-【第1441期】-Lighthouse的使用与Google的移动端最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=1&sn=448d3710297849a7388f17aec45e777f#wechat_redirect) 
+- [【前端早读课】2018-11-09-【活动】2018-ngChina-开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect) 
 - [【前端早读课】2018-11-08-进入BAT一线大厂做前端开发工程师需要的3个重要条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect) 
 - [【前端早读课】2018-11-08-【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect) 
 - [【前端早读课】2018-11-08-进入BAT一线大厂做前端开发工程师需要的3个重要条件](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839) 

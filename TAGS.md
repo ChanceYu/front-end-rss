@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-09 00:58:24。[文章来源](./README.md)，[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-09 08:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -519,6 +519,8 @@
 
 
 
+- [【前端早读课】【第1441期】-Lighthouse的使用与Google的移动端最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=1&sn=448d3710297849a7388f17aec45e777f#wechat_redirect)
+- [【前端早读课】【活动】2018-ngChina-开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect)
 - [【前端早读课】进入BAT一线大厂做前端开发工程师需要的3个重要条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect)
 - [【前端早读课】进入BAT一线大厂做前端开发工程师需要的3个重要条件](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839)
 - [【前端早读课】【第1438期】如何让你的网页“看起来”展现地更快-——-骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect)

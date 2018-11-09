@@ -1,13 +1,13 @@
 <div align="center"><img width="100" src="assets/rss.gif" /><h1>Front-End RSS</h1></div>
 
-前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)，根据日期按[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
+前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-09 00:58:24，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-09 08:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2018-11-09-【第1441期】-Lighthouse的使用与Google的移动端最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=1&sn=448d3710297849a7388f17aec45e777f#wechat_redirect) ![](assets/new.png)  
+- [2018-11-09-【活动】2018-ngChina-开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect) ![](assets/new.png)  
 - [2018-11-08-进入BAT一线大厂做前端开发工程师需要的3个重要条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect)  
 - [2018-11-08-【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect)  
 - [2018-11-08-进入BAT一线大厂做前端开发工程师需要的3个重要条件](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839)  
@@ -104,9 +106,9 @@
 </summary>
 
 
-- [2018-11-08-利用CSS改变图片颜色的100种方法！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=1&sn=a1999b62882520820a98cfc601150064#wechat_redirect) ![](assets/new.png)  
-- [2018-11-08-Chrome-71-将进一步封阻“滥用体验”广告，12月发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=3&sn=41ea0c873636491830222ed16cc6ec0b#wechat_redirect) ![](assets/new.png)  
-- [2018-11-08-面向对象：给你一个建议，和我在一起](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=2&sn=9b2f477a369f7a1e7883a55d64663d46#wechat_redirect) ![](assets/new.png)  
+- [2018-11-08-利用CSS改变图片颜色的100种方法！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=1&sn=a1999b62882520820a98cfc601150064#wechat_redirect)  
+- [2018-11-08-Chrome-71-将进一步封阻“滥用体验”广告，12月发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=3&sn=41ea0c873636491830222ed16cc6ec0b#wechat_redirect)  
+- [2018-11-08-面向对象：给你一个建议，和我在一起](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=2&sn=9b2f477a369f7a1e7883a55d64663d46#wechat_redirect)  
 - [2018-11-07-Web-前端也想做黑客，这些你都会吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=1&sn=4b04559188e847f8e9f9ebc627f4a0f8&scene=0#wechat_redirect)  
 - [2018-11-07-前端如何高效的与后端协作开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=2&sn=31dd2003eb0e25236606e3f55ff2efc3&scene=0#wechat_redirect)  
 - [2018-11-07-Web-前端也想做黑客，这些你都会吗？](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541594973&__biz=MzAxODE2MjM1MA%3D%3D&signature=SYAn6xvrdu3myMpe8UwhHPxwz%2ARat8nmtOdZsTyo7Mjxfz72mf-2gyxV7VloiURSIr0EhxhrMPmRaTM9%2Azrgdn-0QeCvWqjW9PFItiJ0B9z9UTBm2o5-5IHqqdmZ0eeJJp5WkNZhaBKq5pJBgA-iE6Br1mjW7pKXvK30yQJ9VKw%3D&id=1000000875)  
