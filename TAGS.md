@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-09 18:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-10 06:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -180,6 +180,7 @@
 
 
 
+- [【前端早读课】【第1442期】-如何写出一手好的小程序之多端架构篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230282&idx=1&sn=e2e3535fc414ac117c4c1fad041d8f9d#wechat_redirect)
 - [【前端早读课】【第1432期】megalo----网易考拉小程序解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230183&idx=1&sn=194e48cc4c3737032e38d7d509596c95#wechat_redirect)
 - [【前端早读课】【第1404期】使用小程序做交互的技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=1&sn=02db5707026cf2f87df780017b8d2643#wechat_redirect)
 - [【前端早读课】【第1402期】云开发初探-——-更简便的小程序开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229939&idx=1&sn=7da77cc15457721951a82477d68a6263#wechat_redirect)
