@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-09 12:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-09 18:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -89,6 +89,7 @@
 - [【前端早读课】【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect)
 - [【前端早读课】【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect)
 - [【前端早读课】【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect)
+- [【前端大全】Vue-使用中的小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=1&sn=33a63d836069ea085c0ad1640860d949#wechat_redirect)
 - [【前端大全】mpvue-在前端项目的应用设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=1&sn=f84fd3f08b0e133e058379f6267129b3#wechat_redirect)
 - [【前端大全】Vue源码阅读：批量异步更新与nextTick原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555117&idx=3&sn=bc74076eb23a18cec5837b95615414a8#wechat_redirect)
 - [【前端大全】Vue源码阅读-–-依赖收集原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555109&idx=3&sn=8795ad06f4328361d2a46f8ae4f96103#wechat_redirect)
@@ -478,6 +479,7 @@
 
 
 
+- [【前端之巅】GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](http://taobaofed.org/blog/2017/05/18/how-to-display-git-diff/)
 - [【阮一峰的网络日志】Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)
 - [【Aotu.io】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
@@ -552,6 +554,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】浏览器同源政策及其规避方法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=2&sn=e789454adc6e9d5912dcc9c8a74a1f5b#wechat_redirect)
 - [【前端大全】Chrome-71-将进一步封阻“滥用体验”广告，12月发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=3&sn=41ea0c873636491830222ed16cc6ec0b#wechat_redirect)
 - [【前端大全】面向对象：给你一个建议，和我在一起](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=2&sn=9b2f477a369f7a1e7883a55d64663d46#wechat_redirect)
 - [【前端大全】Web-前端也想做黑客，这些你都会吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555270&idx=1&sn=4b04559188e847f8e9f9ebc627f4a0f8&scene=0#wechat_redirect)
