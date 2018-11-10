@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-10 22:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-11 06:00:14。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,6 +49,7 @@
 </summary>
 
 
+- [【前端早读课】2018-11-11-【第1443期】React-中同构（SSR）原理脉络梳理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230283&idx=1&sn=9d83443fd9cf76707b90d6613acb2296#wechat_redirect) 
 - [【前端早读课】2018-11-10-【第1442期】-如何写出一手好的小程序之多端架构篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230282&idx=1&sn=e2e3535fc414ac117c4c1fad041d8f9d#wechat_redirect) 
 - [【前端早读课】2018-11-09-【第1441期】-Lighthouse的使用与Google的移动端最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=1&sn=448d3710297849a7388f17aec45e777f#wechat_redirect) 
 - [【前端早读课】2018-11-09-【活动】2018-ngChina-开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect) 
@@ -66,6 +67,8 @@
 - [【前端早读课】2018-11-02-【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect) 
 - [【前端早读课】2018-11-02-【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect) 
 - [【前端早读课】2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
+- [【前端大全】2018-11-10-今年双11，程序员买什么最划算？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=1&sn=ff4c242d7b925974010f8462579d4e39#wechat_redirect) 
+- [【前端大全】2018-11-10-Page-Lifecycle-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=2&sn=c76b42a1ddf322e88225ead33d1061e9#wechat_redirect) 
 - [【前端大全】2018-11-09-Vue-使用中的小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=1&sn=33a63d836069ea085c0ad1640860d949#wechat_redirect) 
 - [【前端大全】2018-11-09-浏览器同源政策及其规避方法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=2&sn=e789454adc6e9d5912dcc9c8a74a1f5b#wechat_redirect) 
 - [【前端大全】2018-11-08-利用CSS改变图片颜色的100种方法！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=1&sn=a1999b62882520820a98cfc601150064#wechat_redirect) 

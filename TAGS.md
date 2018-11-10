@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-10 22:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-11 06:00:14。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -33,6 +33,7 @@
 
 
 
+- [【前端早读课】【第1443期】React-中同构（SSR）原理脉络梳理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230283&idx=1&sn=9d83443fd9cf76707b90d6613acb2296#wechat_redirect)
 - [【前端早读课】【第1439期】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect)
 - [【前端早读课】【第1430期】以面试官的角度来看-React-工作面试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230165&idx=1&sn=765772f7fb33d6dd5211183c2f186eb6#wechat_redirect)
 - [【前端早读课】【第1428期】React-v16.7-"Hooks"---What-to-Expect](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230161&idx=1&sn=2bfaa456e88f33f5a2efad35d3556981#wechat_redirect)
@@ -555,6 +556,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】今年双11，程序员买什么最划算？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=1&sn=ff4c242d7b925974010f8462579d4e39#wechat_redirect)
+- [【前端大全】Page-Lifecycle-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=2&sn=c76b42a1ddf322e88225ead33d1061e9#wechat_redirect)
 - [【前端大全】浏览器同源政策及其规避方法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=2&sn=e789454adc6e9d5912dcc9c8a74a1f5b#wechat_redirect)
 - [【前端大全】Chrome-71-将进一步封阻“滥用体验”广告，12月发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=3&sn=41ea0c873636491830222ed16cc6ec0b#wechat_redirect)
 - [【前端大全】面向对象：给你一个建议，和我在一起](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555284&idx=2&sn=9b2f477a369f7a1e7883a55d64663d46#wechat_redirect)
