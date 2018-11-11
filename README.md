@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-11 18:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-12 06:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -108,6 +108,8 @@
 </summary>
 
 
+- [2018-11-11-双11，前端程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555303&idx=1&sn=09109475a256a85b64a41ce789dd9947#wechat_redirect) ![](assets/new.png)  
+- [2018-11-11-JavaScript-的对象继承方式，有几种写法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555303&idx=2&sn=3730b33f019ea6be8bb2ee65de2cc90c#wechat_redirect) ![](assets/new.png)  
 - [2018-11-10-今年双11，程序员买什么最划算？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=1&sn=ff4c242d7b925974010f8462579d4e39#wechat_redirect)  
 - [2018-11-10-Page-Lifecycle-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=2&sn=c76b42a1ddf322e88225ead33d1061e9#wechat_redirect)  
 - [2018-11-09-Vue-使用中的小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=1&sn=33a63d836069ea085c0ad1640860d949#wechat_redirect)  
@@ -228,7 +230,7 @@
 </summary>
 
 
-- [2018-11-11-异步JavaScript的演化史：从回调到Promise再到Async/Await](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489845&idx=1&sn=c13a6669332c8cff60831279755a0d6c#wechat_redirect) ![](assets/new.png)  
+- [2018-11-11-异步JavaScript的演化史：从回调到Promise再到Async/Await](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489845&idx=1&sn=c13a6669332c8cff60831279755a0d6c#wechat_redirect)  
 - [2018-11-10-双十一来临，送你10本书和1500份当当优惠码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489841&idx=1&sn=5f619dc81147de8489d25d3f24f279ad#wechat_redirect)  
 - [2018-11-09-GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)  
 - [2018-11-08-React-hooks都是数组，没那么神秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489824&idx=1&sn=3cef360e13a70bbaf839e5a83fa755b8#wechat_redirect)  

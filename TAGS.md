@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-11 18:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-12 06:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -333,6 +333,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】JavaScript-的对象继承方式，有几种写法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555303&idx=2&sn=3730b33f019ea6be8bb2ee65de2cc90c#wechat_redirect)
 - [【前端大全】2018年最佳JavaScript数据可视化和图表库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555219&idx=1&sn=3a655e361b65899c13812b0c0689916f#wechat_redirect)
 - [【前端大全】不使用-JS-匿名函数的三个理由](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555214&idx=3&sn=a933a4db076bd790df1569a1359a677a#wechat_redirect)
 - [【前端大全】精读《12-个评估-JS-库你需要关心的事》](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555209&idx=1&sn=ca663d5d68b28ca11e083a2bb3a22366#wechat_redirect)
@@ -557,6 +558,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】双11，前端程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555303&idx=1&sn=09109475a256a85b64a41ce789dd9947#wechat_redirect)
 - [【前端大全】今年双11，程序员买什么最划算？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=1&sn=ff4c242d7b925974010f8462579d4e39#wechat_redirect)
 - [【前端大全】Page-Lifecycle-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=2&sn=c76b42a1ddf322e88225ead33d1061e9#wechat_redirect)
 - [【前端大全】浏览器同源政策及其规避方法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=2&sn=e789454adc6e9d5912dcc9c8a74a1f5b#wechat_redirect)

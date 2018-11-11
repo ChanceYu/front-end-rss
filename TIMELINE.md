@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-11 18:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-12 06:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -67,6 +67,8 @@
 - [【前端早读课】2018-11-02-【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect) 
 - [【前端早读课】2018-11-02-【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect) 
 - [【前端早读课】2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
+- [【前端大全】2018-11-11-双11，前端程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555303&idx=1&sn=09109475a256a85b64a41ce789dd9947#wechat_redirect) 
+- [【前端大全】2018-11-11-JavaScript-的对象继承方式，有几种写法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555303&idx=2&sn=3730b33f019ea6be8bb2ee65de2cc90c#wechat_redirect) 
 - [【前端大全】2018-11-10-今年双11，程序员买什么最划算？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=1&sn=ff4c242d7b925974010f8462579d4e39#wechat_redirect) 
 - [【前端大全】2018-11-10-Page-Lifecycle-API-教程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555293&idx=2&sn=c76b42a1ddf322e88225ead33d1061e9#wechat_redirect) 
 - [【前端大全】2018-11-09-Vue-使用中的小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555292&idx=1&sn=33a63d836069ea085c0ad1640860d949#wechat_redirect) 
