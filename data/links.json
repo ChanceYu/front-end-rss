@@ -939,6 +939,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "异步JavaScript的演化史：从回调到Promise再到Async/Await",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489845&idx=1&sn=c13a6669332c8cff60831279755a0d6c#wechat_redirect",
+        "date": "2018-11-11"
+      },
+      {
         "title": "双十一来临，送你10本书和1500份当当优惠码",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489841&idx=1&sn=5f619dc81147de8489d25d3f24f279ad#wechat_redirect",
         "date": "2018-11-10"
