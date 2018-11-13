@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-13 18:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-13 22:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,8 @@
 - [【前端早读课】2018-11-02-【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect) 
 - [【前端早读课】2018-11-02-【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect) 
 - [【前端早读课】2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
+- [【前端大全】2018-11-13-30-分钟精通-React-新特性——React-Hooks](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555319&idx=1&sn=625538ec1bc3e94658d4b140165d5a7a#wechat_redirect) 
+- [【前端大全】2018-11-13-JS-中可以提升幸福度的小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555319&idx=2&sn=c403274d67db1f95149374b40b5bd700#wechat_redirect) 
 - [【前端大全】2018-11-12-你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555311&idx=1&sn=8af7396119165ed54ef0cc679123575b#wechat_redirect) 
 - [【前端大全】2018-11-12-JavaScript-复杂判断的更优雅写法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555311&idx=3&sn=503dffcd324b19c8537b53cd57d648d7#wechat_redirect) 
 - [【前端大全】2018-11-12-面向对象：我爱自由，更爱与你长久](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555311&idx=2&sn=63d41cc1bcc4f6defc68db7bf45d30af#wechat_redirect) 
