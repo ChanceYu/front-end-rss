@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-13 22:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-14 08:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,6 +49,8 @@
 </summary>
 
 
+- [【前端早读课】2018-11-14-Taro-多端开发实现原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=1&sn=110ed4bcb570907b00cf6c66b7a29a49#wechat_redirect) 
+- [【前端早读课】2018-11-14-【第1446期】精致化的微前端开发之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=2&sn=24e9c4a3d774c1c2778b539e61e74a10#wechat_redirect) 
 - [【前端早读课】2018-11-13-【第1444期】Vue:-scoped-样式与-CSS-Module-对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230290&idx=1&sn=a3bd3f3f31193a58b48e701b718e2d29#wechat_redirect) 
 - [【前端早读课】2018-11-12-【第1444期】30分钟精通React今年最劲爆的新特性——React-Hooks](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230285&idx=1&sn=02499ccd8f7760d2a7e09b3e3ff8259a#wechat_redirect) 
 - [【前端早读课】2018-11-11-【第1443期】React-中同构（SSR）原理脉络梳理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230283&idx=1&sn=9d83443fd9cf76707b90d6613acb2296#wechat_redirect) 
