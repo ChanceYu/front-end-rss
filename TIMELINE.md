@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-14 22:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-15 08:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,6 +49,8 @@
 </summary>
 
 
+- [【前端早读课】2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [【前端早读课】2018-11-15-【招聘】广州微信招T2级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=2&sn=b3c72eaa132cbda50baada38abdba97a#wechat_redirect) 
 - [【前端早读课】2018-11-14-Taro-多端开发实现原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=1&sn=110ed4bcb570907b00cf6c66b7a29a49#wechat_redirect) 
 - [【前端早读课】2018-11-14-【第1446期】精致化的微前端开发之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230301&idx=2&sn=24e9c4a3d774c1c2778b539e61e74a10#wechat_redirect) 
 - [【前端早读课】2018-11-13-【第1444期】Vue:-scoped-样式与-CSS-Module-对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230290&idx=1&sn=a3bd3f3f31193a58b48e701b718e2d29#wechat_redirect) 
