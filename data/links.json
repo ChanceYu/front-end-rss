@@ -1453,6 +1453,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "小tips: 如何HTML标签和JS中设置CSS3 var变量",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/11/html-js-set-css-css3-var%e5%8f%98%e9%87%8f/",
+        "date": "2018-11-16"
+      },
+      {
         "title": "写给自己看的display: grid布局教程",
         "link": "https://www.zhangxinxu.com/wordpress/2018/11/display-grid-css-css3/",
         "date": "2018-11-06"
