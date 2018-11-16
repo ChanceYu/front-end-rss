@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-16 12:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-16 18:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -431,6 +431,7 @@
 - [【张鑫旭-鑫空间-鑫生活】妙法攻略：渐变虚框及边框滚动动画的纯CSS实现](https://www.zhangxinxu.com/wordpress/2018/08/css-gradient-dashed-border/)
 - [【张鑫旭-鑫空间-鑫生活】这回试试使用CSS实现抛物线运动效果](https://www.zhangxinxu.com/wordpress/2018/08/css-css3-%e6%8a%9b%e7%89%a9%e7%ba%bf%e5%8a%a8%e7%94%bb/)
 - [【阮一峰的网络日志】Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)
+- [【JDC-|-京东设计中心】【译】理解-CSS-布局和块级格式化上下文](https://jdc.jd.com/archives/212797)
 - [【Aotu.io】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [【Aotu.io】css3-animation-属性众妙](https://aotu.io/notes/2016/11/28/css3-animation-properties/)
 - [【Aotu.io】深入了解font-weight](https://aotu.io/notes/2016/11/08/css3fontweight/)
