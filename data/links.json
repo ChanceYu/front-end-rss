@@ -5,6 +5,21 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1448期】深入理解 React 高阶组件",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=1&sn=023025f5d31ef1d6c7ae3af7bfdac22e#wechat_redirect",
+        "date": "2018-11-16"
+      },
+      {
+        "title": "Vue 3.0 Updates",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=3&sn=bd3bae85e64538987707df5459099e98#wechat_redirect",
+        "date": "2018-11-16"
+      },
+      {
+        "title": "【招聘】可能是阿里最真诚的前端工程师招聘",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=2&sn=4e7580feb7306e8fc3d819da5ec128f6#wechat_redirect",
+        "date": "2018-11-16"
+      },
+      {
         "title": "【第1447期】如何通过 HSB 颜色模式构建夜间模式",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect",
         "date": "2018-11-15"
@@ -1524,6 +1539,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "每周分享第 31 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html",
+        "date": "2018-11-16"
+      },
       {
         "title": "每周分享第 30 期",
         "link": "http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html",
