@@ -437,6 +437,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "React 项目结构和组件命名之道",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=1&sn=237adff6455d407336990fa3f5583c2c#wechat_redirect",
+        "date": "2018-11-17"
+      },
+      {
+        "title": "前端开发者必备思维",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=3&sn=f0de6b1fa976aaaadda5154b38574f3b#wechat_redirect",
+        "date": "2018-11-17"
+      },
+      {
+        "title": "面向对象：想找匹配的一起闹一起疯一起携手慢慢变老",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=2&sn=2802eec6f086215446254f59380dce11#wechat_redirect",
+        "date": "2018-11-17"
+      },
+      {
         "title": "测试 JavaScript 函数的性能",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555335&idx=2&sn=bc10529f77141252689de656d3239486#wechat_redirect",
         "date": "2018-11-16"
@@ -1064,6 +1079,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "你不知道的WebRTC 弱网模拟测试",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect",
+        "date": "2018-11-17"
+      },
+      {
         "title": "图解浏览器的工作原理（史上最全）",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect",
         "date": "2018-11-16"
@@ -1676,6 +1696,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "Vue.js 3.0 PPT（附部分中文翻译）",
+        "link": "http://www.yyyweb.com/5216.html",
+        "date": "2018-11-17"
+      },
+      {
+        "title": "Taro 1.1 发布，全面支持微信/百度/支付宝小程序",
+        "link": "http://www.yyyweb.com/5207.html",
+        "date": "2018-11-17"
+      },
       {
         "title": "Webpack HMR 热更新实现原理深入分析",
         "link": "http://www.yyyweb.com/5194.html",

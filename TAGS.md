@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-17 08:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-17 22:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -47,6 +47,7 @@
 - [【前端早读课】【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect)
 - [【前端早读课】【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect)
 - [【前端早读课】【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect)
+- [【前端大全】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=1&sn=237adff6455d407336990fa3f5583c2c#wechat_redirect)
 - [【前端大全】30-分钟精通-React-新特性——React-Hooks](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555319&idx=1&sn=625538ec1bc3e94658d4b140165d5a7a#wechat_redirect)
 - [【前端大全】React-Native-发布关于重构的具体细节和路线图](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555245&idx=3&sn=4b2ae295bd11584d88a216f0fbeb7800#wechat_redirect)
 - [【前端大全】React-v16.7-"Hooks"---What-to-Expect](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555198&idx=1&sn=96ebb30eb2b98ae0d4de536d753032a6#wechat_redirect)
@@ -110,6 +111,7 @@
 - [【前端之巅】基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect)
 - [【前端之巅】Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect)
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
+- [【前端里】Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html)
 - [【前端里】Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html)
 - [【前端里】Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html)
 - [【JDC-|-京东设计中心】再谈Vue组件库开发](https://jdc.jd.com/archives/212600)
@@ -198,6 +200,7 @@
 - [【前端之巅】Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect)
 - [【前端之巅】百度智能小程序月活破亿，今日正式开放申请](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489568&idx=1&sn=ce77b64d7cc6ed0b057c78d7cf55755f#wechat_redirect)
 - [【前端之巅】多端统一开发框架-Taro-1.0-正式发布，全面支持小程序](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489534&idx=1&sn=45147b46e9e4b2db52d573d2e6b68207#wechat_redirect)
+- [【前端里】Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html)
 - [【前端里】多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html)
 - [【JDC-|-京东设计中心】微信小程序·云开发初体验](https://jdc.jd.com/archives/212791)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
@@ -578,6 +581,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】前端开发者必备思维](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=3&sn=f0de6b1fa976aaaadda5154b38574f3b#wechat_redirect)
+- [【前端大全】面向对象：想找匹配的一起闹一起疯一起携手慢慢变老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=2&sn=2802eec6f086215446254f59380dce11#wechat_redirect)
 - [【前端大全】H5-移动调试全攻略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555335&idx=1&sn=f99fbea0c9c10e7872ba917be6ece664#wechat_redirect)
 - [【前端大全】事件循环机制的那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555331&idx=1&sn=5a063db73329a9d8ea5c38d8eeb50741#wechat_redirect)
 - [【前端大全】完美实现一个“回到顶部”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555331&idx=2&sn=6f24127a2971413f1b9f99ca9fc65842#wechat_redirect)
@@ -641,6 +646,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】你不知道的WebRTC-弱网模拟测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect)
 - [【前端之巅】图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect)
 - [【前端之巅】Web长列表的救星？谷歌推出Virtual-Scroller](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489878&idx=1&sn=073e29b7425febee24c964e680856680#wechat_redirect)
 - [【前端之巅】裁员潮下，你需要这-10-大神器](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489871&idx=1&sn=9b8ce1f01b0b13ede709d361caa0f87f#wechat_redirect)
