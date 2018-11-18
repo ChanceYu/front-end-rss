@@ -1503,6 +1503,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS前景背景自动配色技术简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/11/css-background-color-font-auto-match/",
+        "date": "2018-11-18"
+      },
+      {
         "title": "CSS filter:hue-rotate色调旋转滤镜实现按钮批量生产",
         "link": "https://www.zhangxinxu.com/wordpress/2018/11/css-filter-hue-rotate-button/",
         "date": "2018-11-18"
