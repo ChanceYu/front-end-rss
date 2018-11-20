@@ -1124,6 +1124,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "2018年JavaScript生态圈调查报告出炉！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489926&idx=1&sn=85d30069ef6bc315f36685569dc7445d#wechat_redirect",
+        "date": "2018-11-20"
+      },
+      {
         "title": "如何在V8中优化JavaScript异步编程？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489913&idx=1&sn=1871be99b1505ebddef0e6739c22c7dd#wechat_redirect",
         "date": "2018-11-19"

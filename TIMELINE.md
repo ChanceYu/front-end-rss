@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-20 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-20 18:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【前端大全】2018-11-01-如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect) 
 - [【前端大全】2018-11-01-h5-与原生-app-交互的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect) 
 - [【前端大全】2018-11-01-面向对象：什么都不会比舒适地相处重要](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect) 
+- [【前端之巅】2018-11-20-2018年JavaScript生态圈调查报告出炉！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489926&idx=1&sn=85d30069ef6bc315f36685569dc7445d#wechat_redirect) 
 - [【前端之巅】2018-11-19-如何在V8中优化JavaScript异步编程？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489913&idx=1&sn=1871be99b1505ebddef0e6739c22c7dd#wechat_redirect) 
 - [【前端之巅】2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
 - [【前端之巅】2018-11-17-你不知道的WebRTC-弱网模拟测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect) 
