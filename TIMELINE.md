@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-20 22:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-21 08:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,6 +49,8 @@
 </summary>
 
 
+- [【前端早读课】2018-11-21-【第1453期】理解JavaScript的柯里化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=1&sn=db1d2a2cdd487e860dea8047046e6a52#wechat_redirect) 
+- [【前端早读课】2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [【前端早读课】2018-11-20-【第1452期】见微知著，Google-Photos-Web-UI-完善之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230449&idx=1&sn=aa5c67f9c33a206a45b28756a88b7c25#wechat_redirect) 
 - [【前端早读课】2018-11-19-【第1451期】在-JavaScript-和-WebAssembly-之间调用执行速度终于快了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230417&idx=1&sn=6c06e61a9793fe561c2dd5962eb9c051#wechat_redirect) 
 - [【前端早读课】2018-11-19-【招聘】百度安全事业部上海团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230417&idx=2&sn=e8ba7c726906e1b9601665f5c6c4e29c#wechat_redirect) 

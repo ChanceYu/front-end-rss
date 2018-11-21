@@ -2,12 +2,12 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-20 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-21 08:00:19，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2018-11-21-【第1453期】理解JavaScript的柯里化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=1&sn=db1d2a2cdd487e860dea8047046e6a52#wechat_redirect) ![](assets/new.png)  
+- [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) ![](assets/new.png)  
 - [2018-11-20-【第1452期】见微知著，Google-Photos-Web-UI-完善之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230449&idx=1&sn=aa5c67f9c33a206a45b28756a88b7c25#wechat_redirect)  
 - [2018-11-19-【第1451期】在-JavaScript-和-WebAssembly-之间调用执行速度终于快了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230417&idx=1&sn=6c06e61a9793fe561c2dd5962eb9c051#wechat_redirect)  
 - [2018-11-19-【招聘】百度安全事业部上海团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230417&idx=2&sn=e8ba7c726906e1b9601665f5c6c4e29c#wechat_redirect)  
@@ -123,8 +125,8 @@
 </summary>
 
 
-- [2018-11-20-Vue-常见面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect) ![](assets/new.png)  
-- [2018-11-20-即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect) ![](assets/new.png)  
+- [2018-11-20-Vue-常见面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect)  
+- [2018-11-20-即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect)  
 - [2018-11-19-常见-React-面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555357&idx=1&sn=8df925fc056548c519112266ee84a75c#wechat_redirect)  
 - [2018-11-19-CSS-3D-的魅力](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555357&idx=3&sn=ffdbb538345a41a860f81cd1a6d7b9d6#wechat_redirect)  
 - [2018-11-19-面向对象：生命愿如曲线自由，人生望如浓墨含香](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555357&idx=2&sn=7a98344bb9a5f7b01a4d3e2e3e646bb9#wechat_redirect)  
