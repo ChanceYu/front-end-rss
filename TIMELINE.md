@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-21 08:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-21 22:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,7 +72,6 @@
 - [【前端早读课】2018-11-09-【活动】2018-ngChina-开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect) 
 - [【前端早读课】2018-11-08-进入BAT一线大厂做前端开发工程师需要的3个重要条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect) 
 - [【前端早读课】2018-11-08-【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect) 
-- [【前端早读课】2018-11-08-进入BAT一线大厂做前端开发工程师需要的3个重要条件](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839) 
 - [【前端早读课】2018-11-08-【第1440期】你所不知道的-CSS-阴影技巧与细节](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-qfv4WpSpLWsNgmPr4BvlnuOO-qo1b6Q93XrHwg-r8y%2AYr6BZ9t94qUwteP35D9SE%3D&id=1000000839) 
 - [【前端早读课】2018-11-07-【第1439期】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230243&idx=1&sn=a72b0eccbe993d1d92b3a61b588246bf#wechat_redirect) 
 - [【前端早读课】2018-11-06-【第1438期】如何让你的网页“看起来”展现地更快-——-骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect) 
@@ -84,6 +83,8 @@
 - [【前端早读课】2018-11-02-【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect) 
 - [【前端早读课】2018-11-02-【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect) 
 - [【前端早读课】2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
+- [【前端大全】2018-11-21-Vue-3.0：更快、更小、让开发者更轻松](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=1&sn=152470dc20b59ce9086fdf2d44e3f31c#wechat_redirect) 
+- [【前端大全】2018-11-21-面向对象：两个人一起，应该会比一直一个人快乐](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=2&sn=30ba23a3ac5a0b8f93f3b3e5c4ec94c4#wechat_redirect) 
 - [【前端大全】2018-11-20-Vue-常见面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect) 
 - [【前端大全】2018-11-20-即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect) 
 - [【前端大全】2018-11-19-常见-React-面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555357&idx=1&sn=8df925fc056548c519112266ee84a75c#wechat_redirect) 
@@ -134,6 +135,7 @@
 - [【前端大全】2018-11-01-如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect) 
 - [【前端大全】2018-11-01-h5-与原生-app-交互的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect) 
 - [【前端大全】2018-11-01-面向对象：什么都不会比舒适地相处重要](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect) 
+- [【前端之巅】2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [【前端之巅】2018-11-20-2018年JavaScript生态圈调查报告出炉！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489926&idx=1&sn=85d30069ef6bc315f36685569dc7445d#wechat_redirect) 
 - [【前端之巅】2018-11-19-如何在V8中优化JavaScript异步编程？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489913&idx=1&sn=1871be99b1505ebddef0e6739c22c7dd#wechat_redirect) 
 - [【前端之巅】2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
@@ -163,6 +165,7 @@
 - [【阮一峰的网络日志】2018-11-07-awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html) 
 - [【阮一峰的网络日志】2018-11-05-Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html) 
 - [【阮一峰的网络日志】2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html) 
+- [【前端里】2018-11-21-集体通宵发版怎么破？分享四道“药方”](http://www.yyyweb.com/5212.html) 
 - [【前端里】2018-11-17-Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html) 
 - [【前端里】2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html) 
 - [【前端里】2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 

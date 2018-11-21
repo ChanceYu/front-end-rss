@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-21 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-21 22:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -97,6 +97,7 @@
 - [【前端早读课】【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect)
 - [【前端早读课】【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect)
 - [【前端早读课】【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect)
+- [【前端大全】Vue-3.0：更快、更小、让开发者更轻松](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=1&sn=152470dc20b59ce9086fdf2d44e3f31c#wechat_redirect)
 - [【前端大全】Vue-常见面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect)
 - [【前端大全】Vue-进阶系列之响应式原理及实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555355&idx=1&sn=17bf237276878b2e2035f0152ad2b920#wechat_redirect)
 - [【前端大全】Vue:-scoped-样式与-CSS-Module-对比](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555326&idx=1&sn=1c9a9db417166bff45160dbb658c912e#wechat_redirect)
@@ -568,7 +569,6 @@
 - [【前端早读课】【第1441期】-Lighthouse的使用与Google的移动端最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=1&sn=448d3710297849a7388f17aec45e777f#wechat_redirect)
 - [【前端早读课】【活动】2018-ngChina-开发者大会，杭州见！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230259&idx=2&sn=2acaacbba7100c75ddb69fa5cdd923f4#wechat_redirect)
 - [【前端早读课】进入BAT一线大厂做前端开发工程师需要的3个重要条件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=1&sn=3dd5684611acfb2e6e1fd2812da612e4&scene=0#wechat_redirect)
-- [【前端早读课】进入BAT一线大厂做前端开发工程师需要的3个重要条件](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-gcGDqVFeLa6w1v2l7LsWXVvtrUJzch1d%2AhaXLNd5d6Ke%2AW4TkFnXqCmsyIMaPf4M%3D&id=1000000839)
 - [【前端早读课】【第1438期】如何让你的网页“看起来”展现地更快-——-骨架屏二三事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=1&sn=7f8e77ccdc50cbf5e557375383d18cd2#wechat_redirect)
 - [【前端早读课】【活动】第13届D2前端技术论坛，2019年1月6日杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230237&idx=2&sn=aaafbf5860a9ca1f23803bf742f39ee6#wechat_redirect)
 - [【前端早读课】学会这个，就拥有刷屏10亿用户的入场券！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230224&idx=1&sn=3327a5f250bf56ad7f49c32bd8884c15#wechat_redirect)
@@ -597,6 +597,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：两个人一起，应该会比一直一个人快乐](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=2&sn=30ba23a3ac5a0b8f93f3b3e5c4ec94c4#wechat_redirect)
 - [【前端大全】面向对象：生命愿如曲线自由，人生望如浓墨含香](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555357&idx=2&sn=7a98344bb9a5f7b01a4d3e2e3e646bb9#wechat_redirect)
 - [【前端大全】前端开发者必备思维](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=3&sn=f0de6b1fa976aaaadda5154b38574f3b#wechat_redirect)
 - [【前端大全】面向对象：想找匹配的一起闹一起疯一起携手慢慢变老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=2&sn=2802eec6f086215446254f59380dce11#wechat_redirect)
@@ -663,6 +664,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect)
 - [【前端之巅】Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect)
 - [【前端之巅】你不知道的WebRTC-弱网模拟测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect)
 - [【前端之巅】图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect)
@@ -714,6 +716,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】集体通宵发版怎么破？分享四道“药方”](http://www.yyyweb.com/5212.html)
 - [【前端里】开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html)
 - [【前端里】动画：从-AE-到-Web，‘甩锅’给设计师](http://www.yyyweb.com/5201.html)
 - [【前端里】前后端分离：使用-token-登录解决方案](http://www.yyyweb.com/5144.html)

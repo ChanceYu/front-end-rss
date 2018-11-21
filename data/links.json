@@ -462,6 +462,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Vue 3.0：更快、更小、让开发者更轻松",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=1&sn=152470dc20b59ce9086fdf2d44e3f31c#wechat_redirect",
+        "date": "2018-11-21"
+      },
+      {
+        "title": "面向对象：两个人一起，应该会比一直一个人快乐",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=2&sn=30ba23a3ac5a0b8f93f3b3e5c4ec94c4#wechat_redirect",
+        "date": "2018-11-21"
+      },
+      {
         "title": "Vue 常见面试题",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect",
         "date": "2018-11-20"
@@ -1139,6 +1149,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "前端黑科技：美团网页首帧优化实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect",
+        "date": "2018-11-21"
+      },
+      {
         "title": "2018年JavaScript生态圈调查报告出炉！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489926&idx=1&sn=85d30069ef6bc315f36685569dc7445d#wechat_redirect",
         "date": "2018-11-20"
@@ -1781,6 +1796,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "集体通宵发版怎么破？分享四道“药方”",
+        "link": "http://www.yyyweb.com/5212.html",
+        "date": "2018-11-21"
+      },
       {
         "title": "Vue.js 3.0 PPT（附部分中文翻译）",
         "link": "http://www.yyyweb.com/5216.html",
