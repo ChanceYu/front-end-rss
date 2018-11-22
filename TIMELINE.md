@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-22 12:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-22 22:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -85,6 +85,8 @@
 - [【前端早读课】2018-11-02-【第1434期】渔人和Rxjs的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=1&sn=792613b7066180ef5f35b6030f1fe0f8#wechat_redirect) 
 - [【前端早读课】2018-11-02-【集锦】十月份都发了些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230196&idx=2&sn=b5100526cfb0d4a16a2da799f1e07f04#wechat_redirect) 
 - [【前端早读课】2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
+- [【前端大全】2018-11-22-2018-JavaScript-现状调查报告火热出炉！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=1&sn=d369eb60fa0d75871c658bc245ade3de#wechat_redirect) 
+- [【前端大全】2018-11-22-百度、有赞、阿里前端面试总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=2&sn=25eb4af8005fa8ed96712debdeeb8e78#wechat_redirect) 
 - [【前端大全】2018-11-21-Vue-3.0：更快、更小、让开发者更轻松](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=1&sn=152470dc20b59ce9086fdf2d44e3f31c#wechat_redirect) 
 - [【前端大全】2018-11-21-面向对象：两个人一起，应该会比一直一个人快乐](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=2&sn=30ba23a3ac5a0b8f93f3b3e5c4ec94c4#wechat_redirect) 
 - [【前端大全】2018-11-20-Vue-常见面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect) 
@@ -137,6 +139,7 @@
 - [【前端大全】2018-11-01-如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect) 
 - [【前端大全】2018-11-01-h5-与原生-app-交互的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect) 
 - [【前端大全】2018-11-01-面向对象：什么都不会比舒适地相处重要](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect) 
+- [【前端之巅】2018-11-22-JavaScript错误处理权威指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489945&idx=1&sn=42bb97db35e99430c2f8730f87f33be5#wechat_redirect) 
 - [【前端之巅】2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [【前端之巅】2018-11-20-2018年JavaScript生态圈调查报告出炉！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489926&idx=1&sn=85d30069ef6bc315f36685569dc7445d#wechat_redirect) 
 - [【前端之巅】2018-11-19-如何在V8中优化JavaScript异步编程？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489913&idx=1&sn=1871be99b1505ebddef0e6739c22c7dd#wechat_redirect) 

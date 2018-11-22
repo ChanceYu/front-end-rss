@@ -472,6 +472,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "2018 JavaScript 现状调查报告火热出炉！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=1&sn=d369eb60fa0d75871c658bc245ade3de#wechat_redirect",
+        "date": "2018-11-22"
+      },
+      {
+        "title": "百度、有赞、阿里前端面试总结",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=2&sn=25eb4af8005fa8ed96712debdeeb8e78#wechat_redirect",
+        "date": "2018-11-22"
+      },
+      {
         "title": "Vue 3.0：更快、更小、让开发者更轻松",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=1&sn=152470dc20b59ce9086fdf2d44e3f31c#wechat_redirect",
         "date": "2018-11-21"
@@ -1158,6 +1168,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "JavaScript错误处理权威指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489945&idx=1&sn=42bb97db35e99430c2f8730f87f33be5#wechat_redirect",
+        "date": "2018-11-22"
+      },
       {
         "title": "前端黑科技：美团网页首帧优化实践",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect",

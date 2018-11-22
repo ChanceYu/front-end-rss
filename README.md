@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-22 12:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-22 22:00:16，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2018-11-22-【活动】官宣：前端早读课五周年了~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=1&sn=7049fbe4a6d5e1ee0ca8f6f4e1ca41fd#wechat_redirect) ![](assets/new.png)  
-- [2018-11-22-【第1454期】JS箭头函数三连问：为何用、怎么用、何时用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=2&sn=2d99a0aa287ce99ce32625161a150b91#wechat_redirect) ![](assets/new.png)  
+- [2018-11-22-【活动】官宣：前端早读课五周年了~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=1&sn=7049fbe4a6d5e1ee0ca8f6f4e1ca41fd#wechat_redirect)  
+- [2018-11-22-【第1454期】JS箭头函数三连问：为何用、怎么用、何时用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=2&sn=2d99a0aa287ce99ce32625161a150b91#wechat_redirect)  
 - [2018-11-21-【第1453期】理解JavaScript的柯里化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=1&sn=db1d2a2cdd487e860dea8047046e6a52#wechat_redirect)  
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect)  
 - [2018-11-20-【第1452期】见微知著，Google-Photos-Web-UI-完善之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230449&idx=1&sn=aa5c67f9c33a206a45b28756a88b7c25#wechat_redirect)  
@@ -126,6 +126,8 @@
 </summary>
 
 
+- [2018-11-22-2018-JavaScript-现状调查报告火热出炉！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=1&sn=d369eb60fa0d75871c658bc245ade3de#wechat_redirect) ![](assets/new.png)  
+- [2018-11-22-百度、有赞、阿里前端面试总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=2&sn=25eb4af8005fa8ed96712debdeeb8e78#wechat_redirect) ![](assets/new.png)  
 - [2018-11-21-Vue-3.0：更快、更小、让开发者更轻松](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=1&sn=152470dc20b59ce9086fdf2d44e3f31c#wechat_redirect)  
 - [2018-11-21-面向对象：两个人一起，应该会比一直一个人快乐](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555363&idx=2&sn=30ba23a3ac5a0b8f93f3b3e5c4ec94c4#wechat_redirect)  
 - [2018-11-20-Vue-常见面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=1&sn=69d1c5107952827d353b2c5ed0d6b61f#wechat_redirect)  
@@ -272,6 +274,7 @@
 </summary>
 
 
+- [2018-11-22-JavaScript错误处理权威指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489945&idx=1&sn=42bb97db35e99430c2f8730f87f33be5#wechat_redirect) ![](assets/new.png)  
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect)  
 - [2018-11-20-2018年JavaScript生态圈调查报告出炉！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489926&idx=1&sn=85d30069ef6bc315f36685569dc7445d#wechat_redirect)  
 - [2018-11-19-如何在V8中优化JavaScript异步编程？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489913&idx=1&sn=1871be99b1505ebddef0e6739c22c7dd#wechat_redirect)  
