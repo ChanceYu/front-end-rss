@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-23 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-23 12:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -294,6 +294,7 @@
 - [【张鑫旭-鑫空间-鑫生活】搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
 - [【张鑫旭-鑫空间-鑫生活】学习了，CSS中内联SVG图片有比Base64更好的形式](https://www.zhangxinxu.com/wordpress/2018/08/css-svg-background-image-base64-encode/)
 - [【JDC-|-京东设计中心】WebGL入门与进阶3](https://jdc.jd.com/archives/212370)
+- [【Aotu.io】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
 - [【Aotu.io】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)
 - [【Aotu.io】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
 - [【Aotu.io】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)

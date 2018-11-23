@@ -2056,6 +2056,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "SVG vs Image, SVG vs Iconfont",
+        "link": "https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/",
+        "date": "2018-11-23"
+      },
+      {
         "title": "Taro 1.1 发布，全面支持微信/百度/支付宝 小程序",
         "link": "https://aotu.io/notes/2018/11/05/taro-1-1/",
         "date": "2018-11-05"
