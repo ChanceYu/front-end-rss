@@ -2,7 +2,7 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-23 12:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-23 18:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
@@ -11,10 +11,10 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu.io](#aotu.io)![](assets/dot.png)   
+- [Aotu.io](#aotu.io)  
 
 ## 文章链接
 
@@ -411,6 +411,7 @@
 </summary>
 
 
+- [2018-11-23-每周分享第-32-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html) ![](assets/new.png)  
 - [2018-11-16-每周分享第-31-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)  
 - [2018-11-09-每周分享第-30-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)  
 - [2018-11-07-awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)  
@@ -503,7 +504,7 @@
 </summary>
 
 
-- [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) ![](assets/new.png)  
+- [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)  
 - [2018-11-05-Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)  
 - [2018-10-18-3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/)  
 - [2018-10-22-单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)  
