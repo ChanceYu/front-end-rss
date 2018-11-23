@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-22 22:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-23 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -566,6 +566,8 @@
 
 
 
+- [【前端早读课】前端框架千千万，搞定Angular学一半](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=1&sn=64d7be7727977bd309e6337e71f21f07#wechat_redirect)
+- [【前端早读课】【第1455期】新一代页面生命周期API：来自Chrome官方博客的介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=2&sn=be8893c4b3dd7bd2f1b6e2afa39cddff#wechat_redirect)
 - [【前端早读课】【活动】官宣：前端早读课五周年了~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=1&sn=7049fbe4a6d5e1ee0ca8f6f4e1ca41fd#wechat_redirect)
 - [【前端早读课】【第1452期】见微知著，Google-Photos-Web-UI-完善之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230449&idx=1&sn=aa5c67f9c33a206a45b28756a88b7c25#wechat_redirect)
 - [【前端早读课】【第1450期】交互细节：页面链接打开方式探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230408&idx=1&sn=163ca23d1efbbca5868db951cdb4c6e0#wechat_redirect)

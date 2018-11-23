@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-22 22:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-23 08:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -49,6 +49,8 @@
 </summary>
 
 
+- [【前端早读课】2018-11-23-前端框架千千万，搞定Angular学一半](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=1&sn=64d7be7727977bd309e6337e71f21f07#wechat_redirect) 
+- [【前端早读课】2018-11-23-【第1455期】新一代页面生命周期API：来自Chrome官方博客的介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230476&idx=2&sn=be8893c4b3dd7bd2f1b6e2afa39cddff#wechat_redirect) 
 - [【前端早读课】2018-11-22-【活动】官宣：前端早读课五周年了~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=1&sn=7049fbe4a6d5e1ee0ca8f6f4e1ca41fd#wechat_redirect) 
 - [【前端早读课】2018-11-22-【第1454期】JS箭头函数三连问：为何用、怎么用、何时用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230466&idx=2&sn=2d99a0aa287ce99ce32625161a150b91#wechat_redirect) 
 - [【前端早读课】2018-11-21-【第1453期】理解JavaScript的柯里化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=1&sn=db1d2a2cdd487e860dea8047046e6a52#wechat_redirect) 
