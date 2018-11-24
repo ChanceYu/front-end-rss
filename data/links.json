@@ -492,6 +492,21 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Vue 项目骨架屏注入实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555386&idx=1&sn=6ee5de4576dd9506131b4581635f3c5e#wechat_redirect",
+        "date": "2018-11-24"
+      },
+      {
+        "title": "Google 推出 Node 应用 Web 渲染界面 Carlo",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555386&idx=3&sn=72be517d0a20f72deeebcd3d8c284065#wechat_redirect",
+        "date": "2018-11-24"
+      },
+      {
+        "title": "面向对象：别闹了，跟我回家",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555386&idx=2&sn=433a32705a6ad3603e7d73f9f7f286c9#wechat_redirect",
+        "date": "2018-11-24"
+      },
+      {
         "title": "原有 vue 项目接入 typescript",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555380&idx=2&sn=760177db39e7d8dd1c82356f588a6541#wechat_redirect",
         "date": "2018-11-23"
@@ -1199,6 +1214,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "你知道为什么Facebook的API以一个循环作为开头吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489959&idx=1&sn=fc48288f7879c4d548adabdfd8f94828#wechat_redirect",
+        "date": "2018-11-24"
+      },
+      {
         "title": "这些被同事喷的JS代码风格你写过多少？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489954&idx=1&sn=e6fdb09419e55de53bf634c5815190b9#wechat_redirect",
         "date": "2018-11-23"
@@ -1632,6 +1652,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "纯CSS实现小图标变色的一些研究",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/11/css-change-icon-color/",
+        "date": "2018-11-24"
+      },
       {
         "title": "CSS前景背景自动配色技术简介",
         "link": "https://www.zhangxinxu.com/wordpress/2018/11/css-background-color-font-auto-match/",
