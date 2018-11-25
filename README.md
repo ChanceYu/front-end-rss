@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-25 22:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-26 06:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -132,8 +132,8 @@
 </summary>
 
 
-- [2018-11-25-面试必考-从URL输入到页面展现到底发生什么](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555392&idx=1&sn=9042c990f82fe5d03f03e6af7536b4c3#wechat_redirect) ![](assets/new.png)  
-- [2018-11-25-浅谈HTTP-Keep-Alive](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555392&idx=2&sn=8db1670a6057df00f56fe17dce8865f6#wechat_redirect) ![](assets/new.png)  
+- [2018-11-25-面试必考-从URL输入到页面展现到底发生什么](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555392&idx=1&sn=9042c990f82fe5d03f03e6af7536b4c3#wechat_redirect)  
+- [2018-11-25-浅谈HTTP-Keep-Alive](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555392&idx=2&sn=8db1670a6057df00f56fe17dce8865f6#wechat_redirect)  
 - [2018-11-24-Vue-项目骨架屏注入实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555386&idx=1&sn=6ee5de4576dd9506131b4581635f3c5e#wechat_redirect)  
 - [2018-11-24-Google-推出-Node-应用-Web-渲染界面-Carlo](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555386&idx=3&sn=72be517d0a20f72deeebcd3d8c284065#wechat_redirect)  
 - [2018-11-24-面向对象：别闹了，跟我回家](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555386&idx=2&sn=433a32705a6ad3603e7d73f9f7f286c9#wechat_redirect)  
@@ -287,7 +287,7 @@
 </summary>
 
 
-- [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) ![](assets/new.png)  
+- [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect)  
 - [2018-11-24-你知道为什么Facebook的API以一个循环作为开头吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489959&idx=1&sn=fc48288f7879c4d548adabdfd8f94828#wechat_redirect)  
 - [2018-11-23-这些被同事喷的JS代码风格你写过多少？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489954&idx=1&sn=e6fdb09419e55de53bf634c5815190b9#wechat_redirect)  
 - [2018-11-22-JavaScript错误处理权威指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489945&idx=1&sn=42bb97db35e99430c2f8730f87f33be5#wechat_redirect)  
@@ -393,6 +393,7 @@
 </summary>
 
 
+- [2018-11-26-CSS届的绘图板CSS-Paint-API简介](https://www.zhangxinxu.com/wordpress/2018/11/css-paint-api-canvas/) ![](assets/new.png)  
 - [2018-11-24-纯CSS实现小图标变色的一些研究](https://www.zhangxinxu.com/wordpress/2018/11/css-change-icon-color/)  
 - [2018-11-18-CSS前景背景自动配色技术简介](https://www.zhangxinxu.com/wordpress/2018/11/css-background-color-font-auto-match/)  
 - [2018-11-18-CSS-filter:hue-rotate色调旋转滤镜实现按钮批量生产](https://www.zhangxinxu.com/wordpress/2018/11/css-filter-hue-rotate-button/)  

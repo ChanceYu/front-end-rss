@@ -1678,6 +1678,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS届的绘图板CSS Paint API简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/11/css-paint-api-canvas/",
+        "date": "2018-11-26"
+      },
+      {
         "title": "纯CSS实现小图标变色的一些研究",
         "link": "https://www.zhangxinxu.com/wordpress/2018/11/css-change-icon-color/",
         "date": "2018-11-24"
