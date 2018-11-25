@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-25 08:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-25 18:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -185,6 +185,7 @@
 - [【阮一峰的网络日志】2018-11-07-awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html) 
 - [【阮一峰的网络日志】2018-11-05-Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html) 
 - [【阮一峰的网络日志】2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html) 
+- [【前端里】2018-11-25-JavaScript-引擎、运行时、调用堆栈概述](http://www.yyyweb.com/5219.html) 
 - [【前端里】2018-11-21-集体通宵发版怎么破？分享四道“药方”](http://www.yyyweb.com/5212.html) 
 - [【前端里】2018-11-17-Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html) 
 - [【前端里】2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html) 
