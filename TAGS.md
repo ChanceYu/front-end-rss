@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-27 12:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-11-27 18:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -116,6 +116,7 @@
 - [【前端大全】Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect)
 - [【前端大全】深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [【前端大全】自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect)
+- [【前端之巅】周下载量过200万的npm包被注入恶意代码，Vue、Node项目恐受影响](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489978&idx=1&sn=26b265e2f5a45251cedd631e87624085#wechat_redirect)
 - [【前端之巅】基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect)
 - [【前端之巅】Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect)
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)

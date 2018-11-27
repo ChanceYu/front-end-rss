@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-11-27 12:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-11-27 18:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -160,6 +160,7 @@
 - [【前端大全】2018-11-01-如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=1&sn=8fa975aa1665cb76b1944c8723ac82e0#wechat_redirect) 
 - [【前端大全】2018-11-01-h5-与原生-app-交互的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=3&sn=2d6ea371c710db0423d6484ff7495fc2#wechat_redirect) 
 - [【前端大全】2018-11-01-面向对象：什么都不会比舒适地相处重要](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555228&idx=2&sn=0c81014a0892913a160eae7a4d75bc79#wechat_redirect) 
+- [【前端之巅】2018-11-27-周下载量过200万的npm包被注入恶意代码，Vue、Node项目恐受影响](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489978&idx=1&sn=26b265e2f5a45251cedd631e87624085#wechat_redirect) 
 - [【前端之巅】2018-11-26-移动互联网的下半场，Android开发者在焦虑什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489971&idx=1&sn=94021253047f05c6426e116763cf2062#wechat_redirect) 
 - [【前端之巅】2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [【前端之巅】2018-11-24-你知道为什么Facebook的API以一个循环作为开头吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489959&idx=1&sn=fc48288f7879c4d548adabdfd8f94828#wechat_redirect) 
