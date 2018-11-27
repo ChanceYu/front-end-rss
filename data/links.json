@@ -1611,6 +1611,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "前端架构杂思录：议 Function Component 与 Hooks",
+        "link": "http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/",
+        "date": "2018-11-27"
+      },
+      {
         "title": "Atag - Web Components 最佳实践",
         "link": "http://taobaofed.org/blog/2018/10/31/a-tag/",
         "date": "2018-10-31"
