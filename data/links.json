@@ -1743,6 +1743,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "大侠，请留步，要不过来了解下CSS Scroll Snap？",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/11/know-css-scroll-snap/",
+        "date": "2018-11-28"
+      },
+      {
         "title": "5分钟快速了解下CSS4 color-adjust属性",
         "link": "https://www.zhangxinxu.com/wordpress/2018/11/css4-color-adjust/",
         "date": "2018-11-27"

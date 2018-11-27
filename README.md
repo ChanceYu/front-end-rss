@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-11-27 22:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-11-28 06:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -137,8 +137,8 @@
 </summary>
 
 
-- [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) ![](assets/new.png)  
-- [2018-11-27-秒懂-this](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=2&sn=05b1c9f394c3d56de4c0caa9daa20792#wechat_redirect) ![](assets/new.png)  
+- [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect)  
+- [2018-11-27-秒懂-this](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=2&sn=05b1c9f394c3d56de4c0caa9daa20792#wechat_redirect)  
 - [2018-11-26-React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555400&idx=1&sn=3f4faa4cfbb95be64002267547fe6dbb#wechat_redirect)  
 - [2018-11-26-Google-与-Mozilla-开发-API-让-Web-应用轻松编辑本地文件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555400&idx=3&sn=1ad8b1cf117d07b67584ded256fa2962#wechat_redirect)  
 - [2018-11-26-面向对象：爱情就像是在沙滩上上寻找心仪的贝壳，可遇而不可求](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555400&idx=2&sn=3548e6ec8919436eeef289cd35890d1f#wechat_redirect)  
@@ -406,6 +406,7 @@
 </summary>
 
 
+- [2018-11-28-大侠，请留步，要不过来了解下CSS-Scroll-Snap？](https://www.zhangxinxu.com/wordpress/2018/11/know-css-scroll-snap/) ![](assets/new.png)  
 - [2018-11-27-5分钟快速了解下CSS4-color-adjust属性](https://www.zhangxinxu.com/wordpress/2018/11/css4-color-adjust/)  
 - [2018-11-26-CSS届的绘图板CSS-Paint-API简介](https://www.zhangxinxu.com/wordpress/2018/11/css-paint-api-canvas/)  
 - [2018-11-24-纯CSS实现小图标变色的一些研究](https://www.zhangxinxu.com/wordpress/2018/11/css-change-icon-color/)  
