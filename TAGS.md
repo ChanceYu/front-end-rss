@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-11-30 18:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-01 06:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -93,6 +93,7 @@
 
 
 
+- [【前端早读课】【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect)
 - [【前端早读课】Vue3.0都要出了，你连2.0还不会？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230588&idx=1&sn=64d25e96c0565c18c70541eaeca849c6#wechat_redirect)
 - [【前端早读课】【视频】Vue作者尤雨溪为你分享：Vue-3.0-进展](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=3&sn=ee262fb27087d7d48817f9a341b094cf#wechat_redirect)
 - [【前端早读课】Vue-3.0-Updates](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230344&idx=3&sn=bd3bae85e64538987707df5459099e98#wechat_redirect)
@@ -596,6 +597,8 @@
 
 
 
+- [【前端早读课】【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect)
+- [【前端早读课】【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect)
 - [【前端早读课】【第1461期】平庸前端码农之蜕变-—-AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect)
 - [【前端早读课】【周边】前端早读课五周年周边来了～～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=2&sn=11c2ad2e83ff0573a20c7aa89aaa9391#wechat_redirect)
 - [【前端早读课】【活动】第二届网易杭州前端技术大会，1.19在杭州举办](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230547&idx=2&sn=fb27974e24caba998e11447cf21a2a79#wechat_redirect)
