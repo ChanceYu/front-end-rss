@@ -557,6 +557,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "从 0 到 1 再到 100：搭建、编写、构建一个前端项目",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect",
+        "date": "2018-11-30"
+      },
+      {
+        "title": "Chrome 与 Firefox 将取消对 FTP 的支持",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=2&sn=92da5e93d7061a2d3810b24277d70b82#wechat_redirect",
+        "date": "2018-11-30"
+      },
+      {
         "title": "Vue3.0都要出了，你连2.0还不会？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555427&idx=1&sn=dab303e74a95a8337d242a3566ceeccc#wechat_redirect",
         "date": "2018-11-29"
@@ -1338,6 +1348,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "史上最快、最强大的Gradle 5.0发布，新特性全解",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490013&idx=1&sn=d5bcf7c5d99b877206433e7e1ad606ad#wechat_redirect",
+        "date": "2018-11-30"
+      },
       {
         "title": "京东Taro框架深度实践",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490009&idx=1&sn=18794619dbfa1c7978cad2faa7336990#wechat_redirect",
@@ -2295,6 +2310,11 @@
     "title": "Aotu.io",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Taro深度开发实践",
+        "link": "https://aotu.io/notes/2018/11/30/taro_practice/",
+        "date": "2018-11-30"
+      },
       {
         "title": "SVG vs Image, SVG vs Iconfont",
         "link": "https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/",
