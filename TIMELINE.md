@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-06 18:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-07 06:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,8 @@
 </summary>
 
 
+- [【前端早读课】2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect) 
+- [【前端早读课】2018-12-07-【视频】我在维护Vue-CLI项目过程中学到了什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=2&sn=0dfe43e2105e07a0bcf862a5de3cec62#wechat_redirect) 
 - [【前端早读课】2018-12-06-【第1468期】前端与编译原理——用JS写一个JS解释器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230646&idx=1&sn=44135ebadb9f862ba0502d9afd4a3917#wechat_redirect) 
 - [【前端早读课】2018-12-06-【视频】挖掘Vue的声明式交互能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230646&idx=2&sn=f52532f59e50dfb5a643de4cb555315b#wechat_redirect) 
 - [【前端早读课】2018-12-05-【第1467期】使用-okam-小程序开发框架快速开发百度智能小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=1&sn=f4e0c69e5a77e4dc660a8d81413b50e5#wechat_redirect) 
@@ -61,6 +63,7 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-06-喜大普奔！微软开发基于-Chromium-的浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555472&idx=1&sn=9bbfdc3f83768063b5a624efd6b8799f#wechat_redirect) 
 - [【前端大全】2018-12-05-谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555463&idx=1&sn=ec31f79aaba77d5b852a99202aa15f6d#wechat_redirect) 
 - [【前端大全】2018-12-05-2019年如何打造自己的“前端品牌”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555468&idx=1&sn=8bcf8def7d70738674383dfa7f65b5e6#wechat_redirect) 
 - [【前端大全】2018-12-05-面向对象：晚点遇见你，余生都是你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555468&idx=2&sn=167e77244b042699c132cd87301376b8#wechat_redirect) 
