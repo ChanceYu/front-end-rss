@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-12-07 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-12-07 12:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect) ![](assets/new.png)  
-- [2018-12-07-【视频】我在维护Vue-CLI项目过程中学到了什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=2&sn=0dfe43e2105e07a0bcf862a5de3cec62#wechat_redirect) ![](assets/new.png)  
+- [2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect)  
+- [2018-12-07-【视频】我在维护Vue-CLI项目过程中学到了什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=2&sn=0dfe43e2105e07a0bcf862a5de3cec62#wechat_redirect)  
 - [2018-12-06-【第1468期】前端与编译原理——用JS写一个JS解释器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230646&idx=1&sn=44135ebadb9f862ba0502d9afd4a3917#wechat_redirect)  
 - [2018-12-06-【视频】挖掘Vue的声明式交互能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230646&idx=2&sn=f52532f59e50dfb5a643de4cb555315b#wechat_redirect)  
 - [2018-12-05-【第1467期】使用-okam-小程序开发框架快速开发百度智能小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=1&sn=f4e0c69e5a77e4dc660a8d81413b50e5#wechat_redirect)  
@@ -156,7 +156,7 @@
 </summary>
 
 
-- [2018-12-06-喜大普奔！微软开发基于-Chromium-的浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555472&idx=1&sn=9bbfdc3f83768063b5a624efd6b8799f#wechat_redirect) ![](assets/new.png)  
+- [2018-12-06-喜大普奔！微软开发基于-Chromium-的浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555472&idx=1&sn=9bbfdc3f83768063b5a624efd6b8799f#wechat_redirect)  
 - [2018-12-05-谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555463&idx=1&sn=ec31f79aaba77d5b852a99202aa15f6d#wechat_redirect)  
 - [2018-12-05-2019年如何打造自己的“前端品牌”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555468&idx=1&sn=8bcf8def7d70738674383dfa7f65b5e6#wechat_redirect)  
 - [2018-12-05-面向对象：晚点遇见你，余生都是你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555468&idx=2&sn=167e77244b042699c132cd87301376b8#wechat_redirect)  
@@ -490,6 +490,7 @@
 </summary>
 
 
+- [2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html) ![](assets/new.png)  
 - [2018-11-30-每周分享第-33-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)  
 - [2018-11-28-最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html)  
 - [2018-11-23-每周分享第-32-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)  
