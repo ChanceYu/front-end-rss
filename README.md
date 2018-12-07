@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-12-07 12:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-12-07 18:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -332,6 +332,7 @@
 </summary>
 
 
+- [2018-12-07-官宣！微软宣布桌面版Edge将基于Chromium进行开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490068&idx=1&sn=5fd417a6f21929adce0897972f025ffe#wechat_redirect) ![](assets/new.png)  
 - [2018-12-06-JS/CSS体积减少了67%，我们是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490053&idx=1&sn=375dccf208a507c5d24b3527a3167cf8#wechat_redirect)  
 - [2018-12-05-Flutter-1.0重磅发布，它还想做桌面和Web开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490048&idx=1&sn=7fc792cccb4182ce2a4f0106658c6fb6#wechat_redirect)  
 - [2018-12-04-微软正在考虑将Windows默认浏览器改为Chromium](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490040&idx=1&sn=6936fd3ce93b1c0053ee4be269c12f64#wechat_redirect)  
@@ -490,7 +491,7 @@
 </summary>
 
 
-- [2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html) ![](assets/new.png)  
+- [2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)  
 - [2018-11-30-每周分享第-33-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)  
 - [2018-11-28-最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html)  
 - [2018-11-23-每周分享第-32-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)  

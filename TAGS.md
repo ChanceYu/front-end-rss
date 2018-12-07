@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-07 12:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-07 18:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -746,6 +746,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】官宣！微软宣布桌面版Edge将基于Chromium进行开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490068&idx=1&sn=5fd417a6f21929adce0897972f025ffe#wechat_redirect)
 - [【前端之巅】微软正在考虑将Windows默认浏览器改为Chromium](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490040&idx=1&sn=6936fd3ce93b1c0053ee4be269c12f64#wechat_redirect)
 - [【前端之巅】前端工程师如何快速入门区块链-DApp-开发?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490028&idx=1&sn=db6033b07b0085de2e013da22a109055#wechat_redirect)
 - [【前端之巅】史上最快、最强大的Gradle-5.0发布，新特性全解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490013&idx=1&sn=d5bcf7c5d99b877206433e7e1ad606ad#wechat_redirect)
