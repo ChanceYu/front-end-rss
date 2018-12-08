@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-08 06:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-09 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -663,6 +663,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】微软官方实锤来了！拥抱-Chromium-做桌面浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=1&sn=e1503f89e912269dbdd0245d65139f68#wechat_redirect)
+- [【前端大全】面向对象：世上最好的缘，便是有个聊得来的伴](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=2&sn=d5f0e0e398fa61da8e6a32653257f945#wechat_redirect)
 - [【前端大全】喜大普奔！微软开发基于-Chromium-的浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555472&idx=1&sn=9bbfdc3f83768063b5a624efd6b8799f#wechat_redirect)
 - [【前端大全】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555463&idx=1&sn=ec31f79aaba77d5b852a99202aa15f6d#wechat_redirect)
 - [【前端大全】2019年如何打造自己的“前端品牌”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555468&idx=1&sn=8bcf8def7d70738674383dfa7f65b5e6#wechat_redirect)
