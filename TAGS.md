@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-09 18:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-10 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -345,6 +345,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/)
 - [【张鑫旭-鑫空间-鑫生活】HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/)
 - [【张鑫旭-鑫空间-鑫生活】HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/)
 - [【JDC-|-京东设计中心】【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710)
@@ -383,6 +384,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】AST抽象语法树：最基础的-Javascript-重点知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555485&idx=1&sn=555360e081eb8bae666f15724665dfee#wechat_redirect)
 - [【前端大全】前端与编译原理：用-JS-写一个-JS-解释器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555479&idx=1&sn=259863caf35e7ac2109b0704c6736e43#wechat_redirect)
 - [【前端大全】ES6-核心特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555427&idx=2&sn=1e64aa1e47a67c1ff6c3c5b957ba84d4#wechat_redirect)
 - [【前端大全】2018-JavaScript-现状调查报告火热出炉！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=1&sn=d369eb60fa0d75871c658bc245ade3de#wechat_redirect)
@@ -798,6 +800,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html)
 - [【阮一峰的网络日志】每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)
 - [【阮一峰的网络日志】每周分享第-33-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)
 - [【阮一峰的网络日志】最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-09 18:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-10 06:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -65,6 +65,7 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-09-AST抽象语法树：最基础的-Javascript-重点知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555485&idx=1&sn=555360e081eb8bae666f15724665dfee#wechat_redirect) 
 - [【前端大全】2018-12-08-微软官方实锤来了！拥抱-Chromium-做桌面浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=1&sn=e1503f89e912269dbdd0245d65139f68#wechat_redirect) 
 - [【前端大全】2018-12-08-面向对象：世上最好的缘，便是有个聊得来的伴](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=2&sn=d5f0e0e398fa61da8e6a32653257f945#wechat_redirect) 
 - [【前端大全】2018-12-07-前端与编译原理：用-JS-写一个-JS-解释器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555479&idx=1&sn=259863caf35e7ac2109b0704c6736e43#wechat_redirect) 
@@ -86,11 +87,13 @@
 - [【前端之巅】2018-12-03-苏宁：我们开发百度小程序遇到的那些“坑”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490033&idx=1&sn=6349c73322d9a73b69728a818c8edb79#wechat_redirect) 
 - [【前端之巅】2018-12-02-前端工程师如何快速入门区块链-DApp-开发?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490028&idx=1&sn=db6033b07b0085de2e013da22a109055#wechat_redirect) 
 - [【前端之巅】2018-12-01-为什么我会选择React+Next.js，而不是Vue或Angular？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490023&idx=1&sn=e38583dc2fcc1de0fda8252c214f64c8#wechat_redirect) 
+- [【张鑫旭-鑫空间-鑫生活】2018-12-09-使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-09-CSS-font-feature-settings-50+关键字属性值完整介绍](https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-06-CSS蛋疼应用之：数据上报和HTML验证](https://www.zhangxinxu.com/wordpress/2018/12/css-data-report-html-validate/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/) 
+- [【阮一峰的网络日志】2018-12-09-腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html) 
 - [【阮一峰的网络日志】2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
