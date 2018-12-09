@@ -1484,6 +1484,16 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "苏宁基于Node.js的核心业务实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490073&idx=1&sn=93db8e98ab3b0b4d110b0a93c99c75c3#wechat_redirect",
+        "date": "2018-12-09"
+      },
+      {
+        "title": "如何调试一个无法重现的错误？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490078&idx=1&sn=8d0197ca67dae4a4b4fa7256aaf722c8#wechat_redirect",
+        "date": "2018-12-09"
+      },
+      {
         "title": "官宣！微软宣布桌面版Edge将基于Chromium进行开发",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490068&idx=1&sn=5fd417a6f21929adce0897972f025ffe#wechat_redirect",
         "date": "2018-12-07"
@@ -1992,6 +2002,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "CSS font-feature-settings 50+关键字属性值完整介绍",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/",
+        "date": "2018-12-09"
+      },
       {
         "title": "CSS蛋疼应用之：数据上报和HTML验证",
         "link": "https://www.zhangxinxu.com/wordpress/2018/12/css-data-report-html-validate/",
