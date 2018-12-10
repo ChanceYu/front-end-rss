@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-10 08:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-10 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -154,6 +154,7 @@
 - [【前端早读课】【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect)
 - [【前端早读课】深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect)
 - [【前端大全】webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
+- [【前端之巅】NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect)
 - [【前端之巅】Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect)
 - [【前端里】Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html)
 - [【前端里】H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html)
@@ -384,6 +385,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】8-张图帮你一步步看清-async/await-和-promise-的执行顺序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=1&sn=73779f84c289d98de7e6c121514b93b2#wechat_redirect)
 - [【前端大全】AST抽象语法树：最基础的-Javascript-重点知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555485&idx=1&sn=555360e081eb8bae666f15724665dfee#wechat_redirect)
 - [【前端大全】前端与编译原理：用-JS-写一个-JS-解释器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555479&idx=1&sn=259863caf35e7ac2109b0704c6736e43#wechat_redirect)
 - [【前端大全】ES6-核心特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555427&idx=2&sn=1e64aa1e47a67c1ff6c3c5b957ba84d4#wechat_redirect)
@@ -669,6 +671,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：积极纯善的女生，期待正直有为的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=2&sn=6a7072c4416bffe2aa833c83d8f91417#wechat_redirect)
 - [【前端大全】微软官方实锤来了！拥抱-Chromium-做桌面浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=1&sn=e1503f89e912269dbdd0245d65139f68#wechat_redirect)
 - [【前端大全】面向对象：世上最好的缘，便是有个聊得来的伴](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=2&sn=d5f0e0e398fa61da8e6a32653257f945#wechat_redirect)
 - [【前端大全】喜大普奔！微软开发基于-Chromium-的浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555472&idx=1&sn=9bbfdc3f83768063b5a624efd6b8799f#wechat_redirect)

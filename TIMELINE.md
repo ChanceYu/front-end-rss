@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-10 08:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-10 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -66,6 +66,8 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-10-8-张图帮你一步步看清-async/await-和-promise-的执行顺序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=1&sn=73779f84c289d98de7e6c121514b93b2#wechat_redirect) 
+- [【前端大全】2018-12-10-面向对象：积极纯善的女生，期待正直有为的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=2&sn=6a7072c4416bffe2aa833c83d8f91417#wechat_redirect) 
 - [【前端大全】2018-12-09-AST抽象语法树：最基础的-Javascript-重点知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555485&idx=1&sn=555360e081eb8bae666f15724665dfee#wechat_redirect) 
 - [【前端大全】2018-12-08-微软官方实锤来了！拥抱-Chromium-做桌面浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=1&sn=e1503f89e912269dbdd0245d65139f68#wechat_redirect) 
 - [【前端大全】2018-12-08-面向对象：世上最好的缘，便是有个聊得来的伴](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=2&sn=d5f0e0e398fa61da8e6a32653257f945#wechat_redirect) 
@@ -79,6 +81,7 @@
 - [【前端大全】2018-12-02-CSS-与网络性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555453&idx=1&sn=4fc278fcb88efb6f5262cd46d36dd350#wechat_redirect) 
 - [【前端大全】2018-12-01-Web-Worker-初探](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=1&sn=8d10462a626336aa1eab1337d12af6b4#wechat_redirect) 
 - [【前端大全】2018-12-01-面向对象：良人若彩虹，遇你方知有](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=2&sn=a2c4e52d8c520dc8f0fc896d27b090e6#wechat_redirect) 
+- [【前端之巅】2018-12-10-NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect) 
 - [【前端之巅】2018-12-09-苏宁基于Node.js的核心业务实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490073&idx=1&sn=93db8e98ab3b0b4d110b0a93c99c75c3#wechat_redirect) 
 - [【前端之巅】2018-12-09-如何调试一个无法重现的错误？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490078&idx=1&sn=8d0197ca67dae4a4b4fa7256aaf722c8#wechat_redirect) 
 - [【前端之巅】2018-12-07-官宣！微软宣布桌面版Edge将基于Chromium进行开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490068&idx=1&sn=5fd417a6f21929adce0897972f025ffe#wechat_redirect) 
