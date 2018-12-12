@@ -2230,6 +2230,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "异步 API 的设计",
+        "link": "http://www.ruanyifeng.com/blog/2018/12/async-api-design.html",
+        "date": "2018-12-12"
+      },
+      {
         "title": "腾讯的历史",
         "link": "http://www.ruanyifeng.com/blog/2018/12/tencent.html",
         "date": "2018-12-09"
