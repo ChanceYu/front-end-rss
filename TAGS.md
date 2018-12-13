@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-13 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-14 06:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -226,6 +226,7 @@
 - [【前端早读课】多端统一开发框架-Taro-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=2&sn=8815ff5cc983fb9021a988c3f46fa7b6#wechat_redirect)
 - [【前端大全】微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect)
 - [【前端大全】健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect)
+- [【前端之巅】百度发布智能小程序开发方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490098&idx=1&sn=64db463561039ed05843a1ca3cde3375#wechat_redirect)
 - [【前端之巅】苏宁：我们开发百度小程序遇到的那些“坑”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490033&idx=1&sn=6349c73322d9a73b69728a818c8edb79#wechat_redirect)
 - [【前端之巅】京东Taro框架深度实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490009&idx=1&sn=18794619dbfa1c7978cad2faa7336990#wechat_redirect)
 - [【前端之巅】Taro-1.1-全面支持微信/百度/支付宝小程序了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489813&idx=1&sn=1d3d42a8e031b23d73ba680761296cd2#wechat_redirect)
@@ -772,6 +773,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】2018年浏览器混战：为什么技术救不了Edge？](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544709329&__biz=MzUxMzcxMzE5Ng%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R4DpQ%2AWh6u6pLyOJeOYV6R9yGwrRqsVL-cEQepn2v0n3ErI-m%2AP6R0Y6XU2h4Mwu2QodLbrI-Ly%2Asw8Mr7PITvQpkEaUo7L1vwGrs9KNbK9JPpnYZbuREqB461kyKiaIrwfe%2A1k4crbY-NFsE%2ASMRV0%3D&id=1000001122)
 - [【前端之巅】如何调试一个无法重现的错误？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490078&idx=1&sn=8d0197ca67dae4a4b4fa7256aaf722c8#wechat_redirect)
 - [【前端之巅】官宣！微软宣布桌面版Edge将基于Chromium进行开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490068&idx=1&sn=5fd417a6f21929adce0897972f025ffe#wechat_redirect)
 - [【前端之巅】微软正在考虑将Windows默认浏览器改为Chromium](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490040&idx=1&sn=6936fd3ce93b1c0053ee4be269c12f64#wechat_redirect)
