@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-13 12:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-13 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -47,6 +47,7 @@
 - [【前端早读课】【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect)
 - [【前端早读课】【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect)
 - [【前端早读课】【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect)
+- [【前端大全】React-和-Vue-到底谁更牛？听听尤雨溪怎么说](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr6gfyEw0OE8OQybdxCGfKITwcIri14z%2AMxMgmFLWcF3kIXYlT0uUNax1NGwXK7iAdGQMUOlPSuYiykKfMJzuhZw%3D&id=1000000912)
 - [【前端大全】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555400&idx=1&sn=3f4faa4cfbb95be64002267547fe6dbb#wechat_redirect)
 - [【前端大全】常见-React-面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555357&idx=1&sn=8df925fc056548c519112266ee84a75c#wechat_redirect)
 - [【前端大全】React-项目结构和组件命名之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555341&idx=1&sn=237adff6455d407336990fa3f5583c2c#wechat_redirect)
@@ -681,6 +682,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】程序猿“一键续命”秘笈](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr5aYf9eMlLxJZm3SP4fPvTbm9Z3I4GIR0XBdzh0Q0xYjw9n0xpoe4b9-x4Xv4GCqyXsZM8Uz9DJpChsti0Dfx7w%3D&id=1000000910)
+- [【前端大全】Edge-开发团队透露更多细节：兼容-Chrome-扩展](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr5aYf9eMlLxJZm3SP4fPvTadl1E0x5m5NJwJrDKViZ%2A5U5zGvsnDzLBA03BT-sVSdS-E4BVVygf-7AUN12GDEEc%3D&id=1000000910)
 - [【前端大全】面向对象：积极纯善的女生，期待正直有为的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=2&sn=6a7072c4416bffe2aa833c83d8f91417#wechat_redirect)
 - [【前端大全】微软官方实锤来了！拥抱-Chromium-做桌面浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=1&sn=e1503f89e912269dbdd0245d65139f68#wechat_redirect)
 - [【前端大全】面向对象：世上最好的缘，便是有个聊得来的伴](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555481&idx=2&sn=d5f0e0e398fa61da8e6a32653257f945#wechat_redirect)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-13 12:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-13 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -73,6 +73,9 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-13-程序猿“一键续命”秘笈](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr5aYf9eMlLxJZm3SP4fPvTbm9Z3I4GIR0XBdzh0Q0xYjw9n0xpoe4b9-x4Xv4GCqyXsZM8Uz9DJpChsti0Dfx7w%3D&id=1000000910) 
+- [【前端大全】2018-12-13-Edge-开发团队透露更多细节：兼容-Chrome-扩展](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr5aYf9eMlLxJZm3SP4fPvTadl1E0x5m5NJwJrDKViZ%2A5U5zGvsnDzLBA03BT-sVSdS-E4BVVygf-7AUN12GDEEc%3D&id=1000000910) 
+- [【前端大全】2018-12-13-React-和-Vue-到底谁更牛？听听尤雨溪怎么说](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr6gfyEw0OE8OQybdxCGfKITwcIri14z%2AMxMgmFLWcF3kIXYlT0uUNax1NGwXK7iAdGQMUOlPSuYiykKfMJzuhZw%3D&id=1000000912) 
 - [【前端大全】2018-12-11-一篇文章彻底说清-JS-的深拷贝/浅拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555503&idx=1&sn=583ea7fec339b8d08dc40f1ee9e4c738#wechat_redirect) 
 - [【前端大全】2018-12-10-8-张图帮你一步步看清-async/await-和-promise-的执行顺序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=1&sn=73779f84c289d98de7e6c121514b93b2#wechat_redirect) 
 - [【前端大全】2018-12-10-面向对象：积极纯善的女生，期待正直有为的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=2&sn=6a7072c4416bffe2aa833c83d8f91417#wechat_redirect) 
