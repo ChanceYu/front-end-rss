@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-14 08:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-14 18:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -113,11 +113,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/) 
+- [【阮一峰的网络日志】2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html) 
 - [【阮一峰的网络日志】2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [【阮一峰的网络日志】2018-12-09-腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html) 
 - [【阮一峰的网络日志】2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html) 
 - [【前端里】2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
 - [【前端里】2018-12-12-持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html) 
+- [【JDC-|-京东设计中心】2018-12-14-计算机视觉入门-之初识-opencv.js](https://jdc.jd.com/archives/212806) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

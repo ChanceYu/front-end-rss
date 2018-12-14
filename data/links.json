@@ -2275,6 +2275,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 35 期",
+        "link": "http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html",
+        "date": "2018-12-14"
+      },
+      {
         "title": "异步 API 的设计",
         "link": "http://www.ruanyifeng.com/blog/2018/12/async-api-design.html",
         "date": "2018-12-12"
@@ -2558,6 +2563,11 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "计算机视觉入门 之初识 opencv.js",
+        "link": "https://jdc.jd.com/archives/212806",
+        "date": "2018-12-14"
+      },
       {
         "title": "【译】理解 CSS 布局和块级格式化上下文",
         "link": "https://jdc.jd.com/archives/212797",

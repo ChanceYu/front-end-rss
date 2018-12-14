@@ -2,18 +2,18 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-12-14 08:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-12-14 18:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
 - [Aotu.io](#aotu.io)  
 
 ## 文章链接
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) ![](assets/new.png)  
-- [2018-12-14-【第1476期】如何提升设计到开发的协作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=1&sn=4aea9413a6be9e7bbb946951466e78d3#wechat_redirect) ![](assets/new.png)  
+- [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect)  
+- [2018-12-14-【第1476期】如何提升设计到开发的协作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=1&sn=4aea9413a6be9e7bbb946951466e78d3#wechat_redirect)  
 - [2018-12-13-【视频】多端统一方案-Hippy-Vue-是如何设计实现的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=2&sn=ddc76887297547400e878fd7647cfd97#wechat_redirect)  
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)  
 - [2018-12-12-【视频】探索Vue的高级应用Ant-Design-Vue里的那些黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230683&idx=3&sn=72a870d0c1bede39b5560244495a14c4#wechat_redirect)  
@@ -521,6 +521,7 @@
 </summary>
 
 
+- [2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html) ![](assets/new.png)  
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)  
 - [2018-12-09-腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html)  
 - [2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)  
@@ -595,6 +596,7 @@
 </summary>
 
 
+- [2018-12-14-计算机视觉入门-之初识-opencv.js](https://jdc.jd.com/archives/212806) ![](assets/new.png)  
 - [2018-11-16-【译】理解-CSS-布局和块级格式化上下文](https://jdc.jd.com/archives/212797)  
 - [2018-11-09-微信小程序·云开发初体验](https://jdc.jd.com/archives/212791)  
 - [2018-11-05-利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784)  
