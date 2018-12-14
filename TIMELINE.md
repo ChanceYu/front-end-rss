@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-14 18:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-14 22:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -75,6 +75,10 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-14-你真的了解回流和重绘吗?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555521&idx=1&sn=6ea65ae39895921f4137689a0983d48e#wechat_redirect) 
+- [【前端大全】2018-12-13-程序猿“一键续命”秘笈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555514&idx=2&sn=eac1a85e544bda7a8f740aa963078141&scene=0#wechat_redirect) 
+- [【前端大全】2018-12-13-Edge-开发团队透露更多细节：兼容-Chrome-扩展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555514&idx=1&sn=1795583150c3e6f642a3b4cded1b713b&scene=0#wechat_redirect) 
+- [【前端大全】2018-12-13-React-和-Vue-到底谁更牛？听听尤雨溪怎么说](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555520&idx=1&sn=819f3bb68e256b38123b815b5ef2d6b0&scene=0#wechat_redirect) 
 - [【前端大全】2018-12-13-程序猿“一键续命”秘笈](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr5aYf9eMlLxJZm3SP4fPvTbm9Z3I4GIR0XBdzh0Q0xYjw9n0xpoe4b9-x4Xv4GCqyXsZM8Uz9DJpChsti0Dfx7w%3D&id=1000000910) 
 - [【前端大全】2018-12-13-Edge-开发团队透露更多细节：兼容-Chrome-扩展](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr5aYf9eMlLxJZm3SP4fPvTadl1E0x5m5NJwJrDKViZ%2A5U5zGvsnDzLBA03BT-sVSdS-E4BVVygf-7AUN12GDEEc%3D&id=1000000910) 
 - [【前端大全】2018-12-13-React-和-Vue-到底谁更牛？听听尤雨溪怎么说](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544708988&__biz=MzAxODE2MjM1MA%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R34xxGTgHeN6td5Ex3RxvdbAZUwXwr1o-GfiVVc502EZl78RBqZDwTogYDWlK-ofr6gfyEw0OE8OQybdxCGfKITwcIri14z%2AMxMgmFLWcF3kIXYlT0uUNax1NGwXK7iAdGQMUOlPSuYiykKfMJzuhZw%3D&id=1000000912) 
@@ -94,6 +98,8 @@
 - [【前端大全】2018-12-02-CSS-与网络性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555453&idx=1&sn=4fc278fcb88efb6f5262cd46d36dd350#wechat_redirect) 
 - [【前端大全】2018-12-01-Web-Worker-初探](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=1&sn=8d10462a626336aa1eab1337d12af6b4#wechat_redirect) 
 - [【前端大全】2018-12-01-面向对象：良人若彩虹，遇你方知有](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=2&sn=a2c4e52d8c520dc8f0fc896d27b090e6#wechat_redirect) 
+- [【前端之巅】2018-12-14-如何在没有框架和外部库的情况下使用NodeJS?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490103&idx=1&sn=2a87405672145659032fd1a8549c2239#wechat_redirect) 
+- [【前端之巅】2018-12-13-2018年浏览器混战：为什么技术救不了Edge？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490093&idx=1&sn=93baefc3dc5b4d3c9962345df60628b3&scene=0#wechat_redirect) 
 - [【前端之巅】2018-12-13-2018年浏览器混战：为什么技术救不了Edge？](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544709329&__biz=MzUxMzcxMzE5Ng%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R4DpQ%2AWh6u6pLyOJeOYV6R9yGwrRqsVL-cEQepn2v0n3ErI-m%2AP6R0Y6XU2h4Mwu2QodLbrI-Ly%2Asw8Mr7PITvQpkEaUo7L1vwGrs9KNbK9JPpnYZbuREqB461kyKiaIrwfe%2A1k4crbY-NFsE%2ASMRV0%3D&id=1000001122) 
 - [【前端之巅】2018-12-13-百度发布智能小程序开发方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490098&idx=1&sn=64db463561039ed05843a1ca3cde3375#wechat_redirect) 
 - [【前端之巅】2018-12-11-2019年Vue学习路线图](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490087&idx=1&sn=fb16b7826416244642cdab69a52848c0#wechat_redirect) 
