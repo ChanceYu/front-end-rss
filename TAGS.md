@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-14 06:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-14 08:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -354,6 +354,7 @@
 
 
 
+- [【前端早读课】【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect)
 - [【前端早读课】【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect)
 - [【张鑫旭-鑫空间-鑫生活】使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/)
 - [【张鑫旭-鑫空间-鑫生活】HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/)
@@ -629,6 +630,7 @@
 
 
 
+- [【前端早读课】【第1476期】如何提升设计到开发的协作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=1&sn=4aea9413a6be9e7bbb946951466e78d3#wechat_redirect)
 - [【前端早读课】【第1474期】HTTP/3-要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230683&idx=1&sn=d473e8deb7f50d83d2cd22fccb6a0d5d#wechat_redirect)
 - [【前端早读课】【第1473期】用代码做设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=1&sn=65d0c75e8fe129f9713f547ba3c34ce6#wechat_redirect)
 - [【前端早读课】【第1472期】我们为什么要写-superprops?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230666&idx=1&sn=8ffd1fb4802b92e8b2a15099a9539e33#wechat_redirect)
