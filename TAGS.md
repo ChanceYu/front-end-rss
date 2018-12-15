@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-14 22:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-15 08:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -633,6 +633,7 @@
 
 
 
+- [【前端早读课】【第1477期】想写好前端，先练好内功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230706&idx=1&sn=e96555bdf9b8251852928f4a3c5193e0#wechat_redirect)
 - [【前端早读课】【第1476期】如何提升设计到开发的协作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=1&sn=4aea9413a6be9e7bbb946951466e78d3#wechat_redirect)
 - [【前端早读课】【第1474期】HTTP/3-要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230683&idx=1&sn=d473e8deb7f50d83d2cd22fccb6a0d5d#wechat_redirect)
 - [【前端早读课】【第1473期】用代码做设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=1&sn=65d0c75e8fe129f9713f547ba3c34ce6#wechat_redirect)
