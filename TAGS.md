@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-15 08:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-15 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -689,6 +689,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：最浪漫的事就是我在闹你在笑](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555529&idx=2&sn=985191d907f5ec48fb3e574a4c0141f6#wechat_redirect)
+- [【前端大全】想写好前端，先练好内功](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555529&idx=1&sn=98e105a19ce63c8e951b9142f50e6a8a#wechat_redirect)
 - [【前端大全】你真的了解回流和重绘吗?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555521&idx=1&sn=6ea65ae39895921f4137689a0983d48e#wechat_redirect)
 - [【前端大全】程序猿“一键续命”秘笈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555514&idx=2&sn=eac1a85e544bda7a8f740aa963078141&scene=0#wechat_redirect)
 - [【前端大全】Edge-开发团队透露更多细节：兼容-Chrome-扩展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651555514&idx=1&sn=1795583150c3e6f642a3b4cded1b713b&scene=0#wechat_redirect)
@@ -782,6 +784,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】碎片化的时间，程序员应如何提升自己？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490108&idx=1&sn=20507f510b41019dc0b2821f64c426b4#wechat_redirect)
 - [【前端之巅】2018年浏览器混战：为什么技术救不了Edge？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490093&idx=1&sn=93baefc3dc5b4d3c9962345df60628b3&scene=0#wechat_redirect)
 - [【前端之巅】2018年浏览器混战：为什么技术救不了Edge？](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1544709329&__biz=MzUxMzcxMzE5Ng%3D%3D&signature=VqJsC14EsHd2LbrrUmT1R4DpQ%2AWh6u6pLyOJeOYV6R9yGwrRqsVL-cEQepn2v0n3ErI-m%2AP6R0Y6XU2h4Mwu2QodLbrI-Ly%2Asw8Mr7PITvQpkEaUo7L1vwGrs9KNbK9JPpnYZbuREqB461kyKiaIrwfe%2A1k4crbY-NFsE%2ASMRV0%3D&id=1000001122)
 - [【前端之巅】如何调试一个无法重现的错误？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490078&idx=1&sn=8d0197ca67dae4a4b4fa7256aaf722c8#wechat_redirect)
