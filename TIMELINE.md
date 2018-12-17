@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-16 22:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-17 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,8 @@
 </summary>
 
 
+- [【前端早读课】2018-12-17-【第1479期】2018-年前端开发回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230731&idx=2&sn=81e605f683816773bce4e7033f0f2563#wechat_redirect) 
+- [【前端早读课】2018-12-17-2018年最火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230731&idx=1&sn=c6e8557dbd56040e520cf3de2cc17f7c#wechat_redirect) 
 - [【前端早读课】2018-12-16-【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect) 
 - [【前端早读课】2018-12-16-【第1478期】你了解SEO中的时效性吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=1&sn=cf6bc42aa6a1b34d65a24d0b3566545b#wechat_redirect) 
 - [【前端早读课】2018-12-15-【第1477期】想写好前端，先练好内功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230706&idx=1&sn=e96555bdf9b8251852928f4a3c5193e0#wechat_redirect) 

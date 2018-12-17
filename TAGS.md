@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-16 22:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-17 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -635,6 +635,8 @@
 
 
 
+- [【前端早读课】【第1479期】2018-年前端开发回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230731&idx=2&sn=81e605f683816773bce4e7033f0f2563#wechat_redirect)
+- [【前端早读课】2018年最火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230731&idx=1&sn=c6e8557dbd56040e520cf3de2cc17f7c#wechat_redirect)
 - [【前端早读课】【第1478期】你了解SEO中的时效性吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=1&sn=cf6bc42aa6a1b34d65a24d0b3566545b#wechat_redirect)
 - [【前端早读课】【第1477期】想写好前端，先练好内功](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230706&idx=1&sn=e96555bdf9b8251852928f4a3c5193e0#wechat_redirect)
 - [【前端早读课】【第1476期】如何提升设计到开发的协作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=1&sn=4aea9413a6be9e7bbb946951466e78d3#wechat_redirect)
