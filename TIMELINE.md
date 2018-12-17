@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-17 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-17 18:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 - [【前端之巅】2018-12-03-苏宁：我们开发百度小程序遇到的那些“坑”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490033&idx=1&sn=6349c73322d9a73b69728a818c8edb79#wechat_redirect) 
 - [【前端之巅】2018-12-02-前端工程师如何快速入门区块链-DApp-开发?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490028&idx=1&sn=db6033b07b0085de2e013da22a109055#wechat_redirect) 
 - [【前端之巅】2018-12-01-为什么我会选择React+Next.js，而不是Vue或Angular？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490023&idx=1&sn=e38583dc2fcc1de0fda8252c214f64c8#wechat_redirect) 
+- [【Taobao-FED-|-淘宝前端团队】2018-12-17-WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-09-使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-09-CSS-font-feature-settings-50+关键字属性值完整介绍](https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-06-CSS蛋疼应用之：数据上报和HTML验证](https://www.zhangxinxu.com/wordpress/2018/12/css-data-report-html-validate/) 

@@ -2071,6 +2071,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "WebGL 纹理详解",
+        "link": "http://taobaofed.org/blog/2018/12/17/webgl-texture/",
+        "date": "2018-12-17"
+      },
+      {
         "title": "前端架构杂思录：议 Function Component 与 Hooks",
         "link": "http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/",
         "date": "2018-11-27"
