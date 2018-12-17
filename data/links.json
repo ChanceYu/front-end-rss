@@ -2208,6 +2208,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "周知：CSS -webkit-伪元素选择器不再导致整行无效",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/12/css-webkit-%e4%bc%aa%e5%85%83%e7%b4%a0-%e9%80%89%e6%8b%a9%e5%99%a8-%e6%97%a0%e6%95%88/",
+        "date": "2018-12-17"
+      },
+      {
         "title": "使用wavesurfer.js显示mp3 audio音频的波形图",
         "link": "https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/",
         "date": "2018-12-09"
@@ -2760,6 +2765,11 @@
     "title": "Aotu.io",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Taro 1.2：将已有微信小程序转换为多端应用",
+        "link": "https://aotu.io/notes/2018/12/17/taro-1-2/",
+        "date": "2018-12-18"
+      },
       {
         "title": "Taro深度开发实践",
         "link": "https://aotu.io/notes/2018/11/30/taro_practice/",
