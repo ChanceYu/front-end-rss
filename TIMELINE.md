@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-20 22:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-21 06:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,8 @@
 </summary>
 
 
+- [【前端早读课】2018-12-21-【视频】CRDT如何改进Vue应用程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230761&idx=2&sn=574ec8b04fc683beb2717d04ed31c669#wechat_redirect) 
+- [【前端早读课】2018-12-21-【第1483期】前端如何去设计架构能力---双十二在星巴克消息开放从点到面的思考实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230761&idx=1&sn=55801f5864c3115137b4d2c59bd4e301#wechat_redirect) 
 - [【前端早读课】2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
 - [【前端早读课】2018-12-20-【第1482期】基于用户投票的排名算法：威尔逊区间](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=1&sn=ea4dff492702321a3097ef5a26a47186#wechat_redirect) 
 - [【前端早读课】2018-12-19-【视频】再谈Vue-SSR----响应式数据流在快手游戏直播中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230738&idx=3&sn=9cd0a1c95bc37077439cb927808ada37#wechat_redirect) 
@@ -153,6 +155,8 @@
 - [【阮一峰的网络日志】2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [【阮一峰的网络日志】2018-12-09-腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html) 
 - [【阮一峰的网络日志】2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html) 
+- [【前端里】2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html) 
+- [【前端里】2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [【前端里】2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
 - [【前端里】2018-12-12-持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html) 
 - [【JDC-|-京东设计中心】2018-12-14-计算机视觉入门-之初识-opencv.js](https://jdc.jd.com/archives/212806) 
