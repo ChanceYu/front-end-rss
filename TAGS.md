@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-21 12:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-21 22:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -411,6 +411,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】JS-引擎-V8-7.2-Beta-发布，平均解析时间百分比降低到-7.5％](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555562&idx=1&sn=dc1237c2dd82dbed4e7e742c41e0cdc1#wechat_redirect)
 - [【前端大全】原来-CSS-与-JS-是这样阻塞-DOM-解析和渲染的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555539&idx=1&sn=782c7ce11ecf7700fbc04f57aa5e313e#wechat_redirect)
 - [【前端大全】一篇文章彻底说清-JS-的深拷贝/浅拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555503&idx=1&sn=583ea7fec339b8d08dc40f1ee9e4c738#wechat_redirect)
 - [【前端大全】8-张图帮你一步步看清-async/await-和-promise-的执行顺序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555491&idx=1&sn=73779f84c289d98de7e6c121514b93b2#wechat_redirect)
@@ -815,6 +816,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】力荐！这些工具可以帮你写出干净的代码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490140&idx=1&sn=f575bbcc1c9987ca9a6941fe7a64620b#wechat_redirect)
 - [【前端之巅】别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect)
 - [【前端之巅】碎片化的时间，程序员应如何提升自己？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490108&idx=1&sn=20507f510b41019dc0b2821f64c426b4#wechat_redirect)
 - [【前端之巅】2018年浏览器混战：为什么技术救不了Edge？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490093&idx=1&sn=93baefc3dc5b4d3c9962345df60628b3&scene=0#wechat_redirect)
