@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-21 06:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-21 12:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/) 
+- [【阮一峰的网络日志】2018-12-21-每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html) 
 - [【阮一峰的网络日志】2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html) 
 - [【阮一峰的网络日志】2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [【阮一峰的网络日志】2018-12-09-腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html) 
