@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-23 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-23 22:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -440,6 +440,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】这些鲜为人知的JavaScript特性，你知道多少？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490149&idx=1&sn=643995bb2e92dc1598624fef8b727e8e#wechat_redirect)
 - [【前端之巅】JS/CSS体积减少了67%，我们是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490053&idx=1&sn=375dccf208a507c5d24b3527a3167cf8#wechat_redirect)
 - [【前端之巅】这些被同事喷的JS代码风格你写过多少？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489954&idx=1&sn=e6fdb09419e55de53bf634c5815190b9#wechat_redirect)
 - [【前端之巅】JavaScript错误处理权威指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489945&idx=1&sn=42bb97db35e99430c2f8730f87f33be5#wechat_redirect)
@@ -723,6 +724,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Chrome-被曝新-Bug，导致-CPU-使用率飙升至-100%](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555571&idx=1&sn=f807c0437a8013c87983ca0d4f3e2d57#wechat_redirect)
 - [【前端大全】面向对象：岁月静好，懂得感恩，与你相随](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=2&sn=d5f75d07b4a30115c53c690cf41ce478#wechat_redirect)
 - [【前端大全】设计师找了程序员男朋友后，这样报喜的...](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555552&idx=2&sn=456a2fcc43016c5e13fdf7049ce69dac#wechat_redirect)
 - [【前端大全】我是如何将页面加载时间从6S降到2S的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555552&idx=1&sn=01e83b83e613706ab42961e3990a131f#wechat_redirect)

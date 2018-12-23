@@ -772,6 +772,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Chrome 被曝新 Bug，导致 CPU 使用率飙升至 100%",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555571&idx=1&sn=f807c0437a8013c87983ca0d4f3e2d57#wechat_redirect",
+        "date": "2018-12-23"
+      },
+      {
         "title": "为什么我认为数据结构与算法对前端开发很重要？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555566&idx=1&sn=11ab4e180f7e32773fac3f92c33c21b5#wechat_redirect",
         "date": "2018-12-22"
@@ -1743,6 +1748,11 @@
     "title": "前端之巅",
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
+      {
+        "title": "这些鲜为人知的JavaScript特性，你知道多少？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490149&idx=1&sn=643995bb2e92dc1598624fef8b727e8e#wechat_redirect",
+        "date": "2018-12-23"
+      },
       {
         "title": "在2019年，如何成为更好的Node.js开发者？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490145&idx=1&sn=46558991e9f530030255c55a73e79bdd#wechat_redirect",
