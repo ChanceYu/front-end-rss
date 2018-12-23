@@ -2343,6 +2343,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS vector-effect与SVG stroke描边缩放",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/12/vector-effect-non-scaling-stroke/",
+        "date": "2018-12-24"
+      },
+      {
         "title": "CSS ::backdrop伪元素是干嘛用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2018/12/css-backdrop-pseudo-element/",
         "date": "2018-12-22"
