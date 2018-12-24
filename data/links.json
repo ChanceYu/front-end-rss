@@ -5,6 +5,16 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【英】Creating、filling Arrays of arbitrary lengths in JavaScript",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=2&sn=f64b8d8dfa37d121a2b8fe4559042964#wechat_redirect",
+        "date": "2018-12-25"
+      },
+      {
+        "title": "【第1487期】Netflix 的 Web 性能案例研究",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect",
+        "date": "2018-12-25"
+      },
+      {
         "title": "【英】 How to improve ux of web forms",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=2&sn=7f889b9ed17e4c2d2f6c856965dadda8#wechat_redirect",
         "date": "2018-12-24"
@@ -2367,6 +2377,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "CSS :placeholder-shown伪类实现Material Design占位符交互效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/12/css-placeholder-shown-material-design/",
+        "date": "2018-12-25"
+      },
       {
         "title": "从天猫某活动视频不必要的3次请求说起",
         "link": "https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/",

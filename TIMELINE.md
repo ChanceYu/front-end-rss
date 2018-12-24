@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-24 22:02:40。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-25 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,8 @@
 </summary>
 
 
+- [【前端早读课】2018-12-25-【英】Creating、filling-Arrays-of-arbitrary-lengths-in-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=2&sn=f64b8d8dfa37d121a2b8fe4559042964#wechat_redirect) 
+- [【前端早读课】2018-12-25-【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect) 
 - [【前端早读课】2018-12-24-【英】-How-to-improve-ux-of-web-forms](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=2&sn=7f889b9ed17e4c2d2f6c856965dadda8#wechat_redirect) 
 - [【前端早读课】2018-12-24-【第1486期】手淘千牛前端消息开放融合---双十一在星巴克消息开放项目的思考实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=1&sn=30011d42e6e09cfabcbff461c301e30c#wechat_redirect) 
 - [【前端早读课】2018-12-23-【英】Better-NPM'ing,-Tips-and-Tricks-using-NPM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=2&sn=f42e7578c95e06b425fbdc345188fbad#wechat_redirect) 
@@ -159,6 +161,7 @@
 - [【前端之巅】2018-12-02-前端工程师如何快速入门区块链-DApp-开发?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490028&idx=1&sn=db6033b07b0085de2e013da22a109055#wechat_redirect) 
 - [【前端之巅】2018-12-01-为什么我会选择React+Next.js，而不是Vue或Angular？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490023&idx=1&sn=e38583dc2fcc1de0fda8252c214f64c8#wechat_redirect) 
 - [【Taobao-FED-|-淘宝前端团队】2018-12-17-WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/) 
+- [【张鑫旭-鑫空间-鑫生活】2018-12-25-CSS-:placeholder-shown伪类实现Material-Design占位符交互效果](https://www.zhangxinxu.com/wordpress/2018/12/css-placeholder-shown-material-design/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-24-从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-24-CSS-vector-effect与SVG-stroke描边缩放](https://www.zhangxinxu.com/wordpress/2018/12/vector-effect-non-scaling-stroke/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-22-CSS-::backdrop伪元素是干嘛用的？](https://www.zhangxinxu.com/wordpress/2018/12/css-backdrop-pseudo-element/) 
