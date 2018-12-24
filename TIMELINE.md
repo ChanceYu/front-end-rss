@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-24 08:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-24 18:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -156,6 +156,7 @@
 - [【前端之巅】2018-12-02-前端工程师如何快速入门区块链-DApp-开发?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490028&idx=1&sn=db6033b07b0085de2e013da22a109055#wechat_redirect) 
 - [【前端之巅】2018-12-01-为什么我会选择React+Next.js，而不是Vue或Angular？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490023&idx=1&sn=e38583dc2fcc1de0fda8252c214f64c8#wechat_redirect) 
 - [【Taobao-FED-|-淘宝前端团队】2018-12-17-WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/) 
+- [【张鑫旭-鑫空间-鑫生活】2018-12-24-从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-24-CSS-vector-effect与SVG-stroke描边缩放](https://www.zhangxinxu.com/wordpress/2018/12/vector-effect-non-scaling-stroke/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-22-CSS-::backdrop伪元素是干嘛用的？](https://www.zhangxinxu.com/wordpress/2018/12/css-backdrop-pseudo-element/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-17-周知：CSS--webkit-伪元素选择器不再导致整行无效](https://www.zhangxinxu.com/wordpress/2018/12/css-webkit-%e4%bc%aa%e5%85%83%e7%b4%a0-%e9%80%89%e6%8b%a9%e5%99%a8-%e6%97%a0%e6%95%88/) 
@@ -165,6 +166,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/) 
+- [【阮一峰的网络日志】2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html) 
 - [【阮一峰的网络日志】2018-12-21-每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html) 
 - [【阮一峰的网络日志】2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html) 
 - [【阮一峰的网络日志】2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
@@ -175,6 +177,7 @@
 - [【前端里】2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
 - [【前端里】2018-12-12-持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html) 
 - [【JDC-|-京东设计中心】2018-12-14-计算机视觉入门-之初识-opencv.js](https://jdc.jd.com/archives/212806) 
+- [【Aotu.io】2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [【Aotu.io】2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

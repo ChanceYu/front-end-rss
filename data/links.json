@@ -2353,6 +2353,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "从天猫某活动视频不必要的3次请求说起",
+        "link": "https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/",
+        "date": "2018-12-24"
+      },
+      {
         "title": "CSS vector-effect与SVG stroke描边缩放",
         "link": "https://www.zhangxinxu.com/wordpress/2018/12/vector-effect-non-scaling-stroke/",
         "date": "2018-12-24"
@@ -2534,6 +2539,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "git bisect 命令教程",
+        "link": "http://www.ruanyifeng.com/blog/2018/12/git-bisect.html",
+        "date": "2018-12-24"
+      },
       {
         "title": "每周分享第 36 期（20181221）",
         "link": "http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html",
@@ -2935,6 +2945,11 @@
     "title": "Aotu.io",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "全新 Phaser 3 游戏引擎特性一览",
+        "link": "https://aotu.io/notes/2018/12/23/phaser3/",
+        "date": "2018-12-24"
+      },
       {
         "title": "Taro 1.2：将已有微信小程序转换为多端应用",
         "link": "https://aotu.io/notes/2018/12/17/taro-1-2/",
