@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-25 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-25 18:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,7 @@
 - [【前端大全】2018-12-02-CSS-与网络性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555453&idx=1&sn=4fc278fcb88efb6f5262cd46d36dd350#wechat_redirect) 
 - [【前端大全】2018-12-01-Web-Worker-初探](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=1&sn=8d10462a626336aa1eab1337d12af6b4#wechat_redirect) 
 - [【前端大全】2018-12-01-面向对象：良人若彩虹，遇你方知有](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=2&sn=a2c4e52d8c520dc8f0fc896d27b090e6#wechat_redirect) 
+- [【前端之巅】2018-12-25-Electron-4.0稳定版发布，集成Node-10和Chromium-69](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490177&idx=1&sn=3603f58f6b326943fcf7b51b723a92ba#wechat_redirect) 
 - [【前端之巅】2018-12-24-阿里重磅开源中后台UI解决方案Fusion](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490172&idx=1&sn=4c6f224a74f4e13e37ae112f10f3667a#wechat_redirect) 
 - [【前端之巅】2018-12-23-这些鲜为人知的JavaScript特性，你知道多少？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490149&idx=1&sn=643995bb2e92dc1598624fef8b727e8e#wechat_redirect) 
 - [【前端之巅】2018-12-22-在2019年，如何成为更好的Node.js开发者？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490145&idx=1&sn=46558991e9f530030255c55a73e79bdd#wechat_redirect) 
@@ -172,6 +173,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 
 - [【张鑫旭-鑫空间-鑫生活】2018-12-02-杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/) 
+- [【阮一峰的网络日志】2018-12-25-埃隆·马斯克和特斯拉汽车的故事](http://www.ruanyifeng.com/blog/2018/12/elon-musk.html) 
 - [【阮一峰的网络日志】2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html) 
 - [【阮一峰的网络日志】2018-12-21-每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html) 
 - [【阮一峰的网络日志】2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html) 
@@ -182,6 +184,7 @@
 - [【前端里】2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [【前端里】2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
 - [【前端里】2018-12-12-持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html) 
+- [【JDC-|-京东设计中心】2018-12-25-新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
 - [【JDC-|-京东设计中心】2018-12-14-计算机视觉入门-之初识-opencv.js](https://jdc.jd.com/archives/212806) 
 - [【Aotu.io】2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [【Aotu.io】2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-25 06:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-25 18:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -196,6 +196,7 @@
 - [【前端大全】细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect)
 - [【前端大全】从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect)
 - [【前端大全】Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect)
+- [【前端之巅】Electron-4.0稳定版发布，集成Node-10和Chromium-69](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490177&idx=1&sn=3603f58f6b326943fcf7b51b723a92ba#wechat_redirect)
 - [【前端之巅】在2019年，如何成为更好的Node.js开发者？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490145&idx=1&sn=46558991e9f530030255c55a73e79bdd#wechat_redirect)
 - [【前端之巅】桌面上的Flutter：Electron又多了个对手](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490130&idx=1&sn=94faa075b40ed8039cc0be7fe5d53b82#wechat_redirect)
 - [【前端之巅】如何在没有框架和外部库的情况下使用NodeJS?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490103&idx=1&sn=2a87405672145659032fd1a8549c2239#wechat_redirect)
@@ -886,6 +887,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】埃隆·马斯克和特斯拉汽车的故事](http://www.ruanyifeng.com/blog/2018/12/elon-musk.html)
 - [【阮一峰的网络日志】每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)
 - [【阮一峰的网络日志】每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)
 - [【阮一峰的网络日志】异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
@@ -924,6 +926,7 @@
 - [【前端里】移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html)
 - [【前端里】玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html)
 - [【前端里】nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html)
+- [【JDC-|-京东设计中心】新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815)
 - [【JDC-|-京东设计中心】利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784)
 - [【JDC-|-京东设计中心】可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773)
 - [【JDC-|-京东设计中心】利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)

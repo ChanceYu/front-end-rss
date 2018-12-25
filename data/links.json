@@ -1779,6 +1779,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "Electron 4.0稳定版发布，集成Node 10和Chromium 69",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490177&idx=1&sn=3603f58f6b326943fcf7b51b723a92ba#wechat_redirect",
+        "date": "2018-12-25"
+      },
+      {
         "title": "阿里重磅开源中后台UI解决方案Fusion",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490172&idx=1&sn=4c6f224a74f4e13e37ae112f10f3667a#wechat_redirect",
         "date": "2018-12-24"
@@ -2570,6 +2575,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "埃隆·马斯克和特斯拉汽车的故事",
+        "link": "http://www.ruanyifeng.com/blog/2018/12/elon-musk.html",
+        "date": "2018-12-25"
+      },
+      {
         "title": "git bisect 命令教程",
         "link": "http://www.ruanyifeng.com/blog/2018/12/git-bisect.html",
         "date": "2018-12-24"
@@ -2878,6 +2888,11 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”",
+        "link": "https://jdc.jd.com/archives/212815",
+        "date": "2018-12-25"
+      },
       {
         "title": "计算机视觉入门 之初识 opencv.js",
         "link": "https://jdc.jd.com/archives/212806",
