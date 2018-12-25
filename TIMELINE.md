@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-25 18:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-25 22:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -97,6 +97,8 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-25-每个前端程序员都需要的“内功”修炼手册](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555581&idx=1&sn=49e25ff908b7436e938f6e6b6cc9e870#wechat_redirect) 
+- [【前端大全】2018-12-25-移动端的那些坑](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555581&idx=2&sn=be5402b92e61c39c5503cb20d82854c4#wechat_redirect) 
 - [【前端大全】2018-12-24-面向对象：简简单单，开心就好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555577&idx=2&sn=bda2daa800f722e2ca307e552662e269#wechat_redirect) 
 - [【前端大全】2018-12-24-635000-个-npm-包中我应该用哪个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555577&idx=1&sn=ff4299529f3c2683d59a2ab192455e01#wechat_redirect) 
 - [【前端大全】2018-12-23-Chrome-被曝新-Bug，导致-CPU-使用率飙升至-100%](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555571&idx=1&sn=f807c0437a8013c87983ca0d4f3e2d57#wechat_redirect) 
