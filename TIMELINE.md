@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-25 22:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-26 08:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,8 @@
 </summary>
 
 
+- [【前端早读课】2018-12-26-【英】Vue-Development-In-2019:-What-You-Need-To-Know](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=2&sn=ebb7b6136a6f045e43d199b7543d0f54#wechat_redirect) 
+- [【前端早读课】2018-12-26-【第1488期】有限状态机在-CSS-动画中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=1&sn=239ec09df6406a8431819ac2187c67b7#wechat_redirect) 
 - [【前端早读课】2018-12-25-【英】Creating、filling-Arrays-of-arbitrary-lengths-in-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=2&sn=f64b8d8dfa37d121a2b8fe4559042964#wechat_redirect) 
 - [【前端早读课】2018-12-25-【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect) 
 - [【前端早读课】2018-12-24-【英】-How-to-improve-ux-of-web-forms](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=2&sn=7f889b9ed17e4c2d2f6c856965dadda8#wechat_redirect) 

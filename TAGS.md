@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-25 22:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-26 08:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -98,6 +98,7 @@
 
 
 
+- [【前端早读课】【英】Vue-Development-In-2019:-What-You-Need-To-Know](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=2&sn=ebb7b6136a6f045e43d199b7543d0f54#wechat_redirect)
 - [【前端早读课】【第1485期】初探-Vue3.0-中的一大亮点——Proxy-!](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=1&sn=74e7cc2fd57e416f8ca0035c4e04c431#wechat_redirect)
 - [【前端早读课】【视频】CRDT如何改进Vue应用程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230761&idx=2&sn=574ec8b04fc683beb2717d04ed31c669#wechat_redirect)
 - [【前端早读课】【视频】再谈Vue-SSR----响应式数据流在快手游戏直播中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230738&idx=3&sn=9cd0a1c95bc37077439cb927808ada37#wechat_redirect)
@@ -506,6 +507,7 @@
 
 
 
+- [【前端早读课】【第1488期】有限状态机在-CSS-动画中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=1&sn=239ec09df6406a8431819ac2187c67b7#wechat_redirect)
 - [【前端早读课】【第1457期】CSS-与网络性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230525&idx=1&sn=99f1cd18de1593c4f602cfde5f6d29a7#wechat_redirect)
 - [【前端早读课】【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect)
 - [【前端早读课】【第1440期】你所不知道的-CSS-阴影技巧与细节](https://mp.weixin.qq.com/s?src=3&ver=1&timestamp=1541627857&__biz=MjM5MTA1MjAxMQ%3D%3D&signature=vTOx-2eUJhPdkzKT9iHtZFHbxjb8eIacZthvR-O9v5ot4-y%2AUII2J%2A3tLMJoq%2AYsg0VGveY5b%2AkUda7SyRanuktJXiqmm8ikU7LM4RzZWo-qfv4WpSpLWsNgmPr4BvlnuOO-qo1b6Q93XrHwg-r8y%2AYr6BZ9t94qUwteP35D9SE%3D&id=1000000839)
