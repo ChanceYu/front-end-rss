@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-27 08:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-28 06:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -134,6 +134,7 @@
 - [【前端大全】Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect)
 - [【前端大全】深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [【前端大全】自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect)
+- [【前端之巅】力荐35个最好用的Vue开源库！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1#wechat_redirect)
 - [【前端之巅】如何使用Vue-CLI-3加速你的开发工作流？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490112&idx=1&sn=a67cf0b647e3a1b7e739a60cc9b17563#wechat_redirect)
 - [【前端之巅】2019年Vue学习路线图](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490087&idx=1&sn=fb16b7826416244642cdab69a52848c0#wechat_redirect)
 - [【前端之巅】周下载量过200万的npm包被注入恶意代码，Vue、Node项目恐受影响](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489978&idx=1&sn=26b265e2f5a45251cedd631e87624085#wechat_redirect)
@@ -424,6 +425,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】JavaScript-浅拷贝与深拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555596&idx=1&sn=41f0dfeaf3d50b436f3900766f6818b5#wechat_redirect)
 - [【前端大全】JS-引擎-V8-7.2-Beta-发布，平均解析时间百分比降低到-7.5％](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555562&idx=1&sn=dc1237c2dd82dbed4e7e742c41e0cdc1#wechat_redirect)
 - [【前端大全】原来-CSS-与-JS-是这样阻塞-DOM-解析和渲染的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555539&idx=1&sn=782c7ce11ecf7700fbc04f57aa5e313e#wechat_redirect)
 - [【前端大全】一篇文章彻底说清-JS-的深拷贝/浅拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555503&idx=1&sn=583ea7fec339b8d08dc40f1ee9e4c738#wechat_redirect)
@@ -582,6 +584,7 @@
 
 
 
+- [【前端早读课】【第1490期】-HTTP/2的优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=1&sn=06fc9e6ccfd0d0bb6fe02dca51e48477#wechat_redirect)
 - [【前端早读课】【第1482期】基于用户投票的排名算法：威尔逊区间](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=1&sn=ea4dff492702321a3097ef5a26a47186#wechat_redirect)
 - [【前端早读课】【第1449期】WebAssembly-后-MVP-时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect)
 - [【前端早读课】【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect)
@@ -672,6 +675,7 @@
 
 
 
+- [【前端早读课】【英】19-Tips-For-Software-Engineers-In-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=2&sn=55444e3ed87b868bfe389e5781ed585b#wechat_redirect)
 - [【前端早读课】【英】Web-Caching-Explained-by-Buying-Milk-at-the-Supermarket](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=2&sn=31d962fc0759eaa0c8e35114c7dd90fc#wechat_redirect)
 - [【前端早读课】【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect)
 - [【前端早读课】【英】-How-to-improve-ux-of-web-forms](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=2&sn=7f889b9ed17e4c2d2f6c856965dadda8#wechat_redirect)
