@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-26 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-27 08:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -164,6 +164,7 @@
 
 
 
+- [【前端早读课】【第1489期】关于JavaScript,-NPM官方发布了2018年的回顾以及2019年的预测](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=1&sn=fef690e05d35625b8375e2641d762c73#wechat_redirect)
 - [【前端早读课】【英】Better-NPM'ing,-Tips-and-Tricks-using-NPM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=2&sn=f42e7578c95e06b425fbdc345188fbad#wechat_redirect)
 - [【前端早读课】【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect)
 - [【前端早读课】【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect)
@@ -671,6 +672,7 @@
 
 
 
+- [【前端早读课】【英】Web-Caching-Explained-by-Buying-Milk-at-the-Supermarket](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=2&sn=31d962fc0759eaa0c8e35114c7dd90fc#wechat_redirect)
 - [【前端早读课】【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect)
 - [【前端早读课】【英】-How-to-improve-ux-of-web-forms](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=2&sn=7f889b9ed17e4c2d2f6c856965dadda8#wechat_redirect)
 - [【前端早读课】【第1486期】手淘千牛前端消息开放融合---双十一在星巴克消息开放项目的思考实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230786&idx=1&sn=30011d42e6e09cfabcbff461c301e30c#wechat_redirect)
