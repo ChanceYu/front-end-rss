@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-12-28 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-12-29 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2018-12-29-【英】Force-Download-with-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=2&sn=a15d2766a8687493241c11e777c2f2bc#wechat_redirect) ![](assets/new.png)  
+- [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) ![](assets/new.png)  
 - [2018-12-28-【英】19-Tips-For-Software-Engineers-In-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=2&sn=55444e3ed87b868bfe389e5781ed585b#wechat_redirect)  
 - [2018-12-28-【第1490期】-HTTP/2的优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=1&sn=06fc9e6ccfd0d0bb6fe02dca51e48477#wechat_redirect)  
 - [2018-12-27-【英】Web-Caching-Explained-by-Buying-Milk-at-the-Supermarket](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=2&sn=31d962fc0759eaa0c8e35114c7dd90fc#wechat_redirect)  
@@ -196,8 +198,8 @@
 </summary>
 
 
-- [2018-12-28-Chrome-新-UI-很“难看”，用户很生气](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=2&sn=f6edcfdeee970de4f6c0f2a75e096ba1#wechat_redirect) ![](assets/new.png)  
-- [2018-12-28-程序员的两条腿：一条腿是数学，另一条腿是?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=1&sn=8422bfd65681003e63b4e06fa58be295#wechat_redirect) ![](assets/new.png)  
+- [2018-12-28-Chrome-新-UI-很“难看”，用户很生气](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=2&sn=f6edcfdeee970de4f6c0f2a75e096ba1#wechat_redirect)  
+- [2018-12-28-程序员的两条腿：一条腿是数学，另一条腿是?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=1&sn=8422bfd65681003e63b4e06fa58be295#wechat_redirect)  
 - [2018-12-27-JavaScript-浅拷贝与深拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555596&idx=1&sn=41f0dfeaf3d50b436f3900766f6818b5#wechat_redirect)  
 - [2018-12-26-面向对象：只愿得一人心，白首不分离](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555589&idx=2&sn=165a581366933b4f9f9a3daa8bedf41b#wechat_redirect)  
 - [2018-12-26-彩蛋惹祸！阿里旗下蚂蚁金服开源项目-Ant-Design-遭狂批始末](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555589&idx=1&sn=bd6bf9e5ff047e33cacf6380377f4924#wechat_redirect)  
@@ -409,7 +411,7 @@
 </summary>
 
 
-- [2018-12-28-基于React-Native的跨三端应用架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490194&idx=1&sn=636d3121a921db87466bda2996e1c793#wechat_redirect) ![](assets/new.png)  
+- [2018-12-28-基于React-Native的跨三端应用架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490194&idx=1&sn=636d3121a921db87466bda2996e1c793#wechat_redirect)  
 - [2018-12-27-力荐35个最好用的Vue开源库！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1#wechat_redirect)  
 - [2018-12-26-前端模块化详解完整版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490182&idx=1&sn=4cf1a990087df554e9213cb202f2760c#wechat_redirect)  
 - [2018-12-25-Electron-4.0稳定版发布，集成Node-10和Chromium-69](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490177&idx=1&sn=3603f58f6b326943fcf7b51b723a92ba#wechat_redirect)  

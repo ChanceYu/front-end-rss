@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-28 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-29 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -407,6 +407,7 @@
 
 
 
+- [【前端早读课】【英】Force-Download-with-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=2&sn=a15d2766a8687493241c11e777c2f2bc#wechat_redirect)
 - [【前端早读课】【英】Creating、filling-Arrays-of-arbitrary-lengths-in-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=2&sn=f64b8d8dfa37d121a2b8fe4559042964#wechat_redirect)
 - [【前端早读课】【第1471期】AST抽象语法树——最基础的javascript重点知识](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230664&idx=1&sn=595511aae2a2ce6460e8ab6949e862bf#wechat_redirect)
 - [【前端早读课】【第1468期】前端与编译原理——用JS写一个JS解释器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230646&idx=1&sn=44135ebadb9f862ba0502d9afd4a3917#wechat_redirect)
@@ -676,6 +677,7 @@
 
 
 
+- [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
 - [【前端早读课】【英】19-Tips-For-Software-Engineers-In-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=2&sn=55444e3ed87b868bfe389e5781ed585b#wechat_redirect)
 - [【前端早读课】【英】Web-Caching-Explained-by-Buying-Milk-at-the-Supermarket](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=2&sn=31d962fc0759eaa0c8e35114c7dd90fc#wechat_redirect)
 - [【前端早读课】【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect)
