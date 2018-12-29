@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-29 06:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-29 12:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -203,6 +203,7 @@
 - [【前端里】2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [【前端里】2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
 - [【前端里】2018-12-12-持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html) 
+- [【JDC-|-京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
 - [【JDC-|-京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [【JDC-|-京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [【JDC-|-京东设计中心】2018-12-25-新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
