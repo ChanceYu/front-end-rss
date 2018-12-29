@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-29 12:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-29 18:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,7 @@
 - [【前端大全】2018-12-02-CSS-与网络性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555453&idx=1&sn=4fc278fcb88efb6f5262cd46d36dd350#wechat_redirect) 
 - [【前端大全】2018-12-01-Web-Worker-初探](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=1&sn=8d10462a626336aa1eab1337d12af6b4#wechat_redirect) 
 - [【前端大全】2018-12-01-面向对象：良人若彩虹，遇你方知有](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=2&sn=a2c4e52d8c520dc8f0fc896d27b090e6#wechat_redirect) 
+- [【前端之巅】2018-12-29-珍爱生命，远离Angular！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490198&idx=1&sn=85f08c983d491f1ccc98f363599c0c43#wechat_redirect) 
 - [【前端之巅】2018-12-28-基于React-Native的跨三端应用架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490194&idx=1&sn=636d3121a921db87466bda2996e1c793#wechat_redirect) 
 - [【前端之巅】2018-12-27-力荐35个最好用的Vue开源库！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1#wechat_redirect) 
 - [【前端之巅】2018-12-26-前端模块化详解完整版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490182&idx=1&sn=4cf1a990087df554e9213cb202f2760c#wechat_redirect) 
