@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-30 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-30 18:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -353,6 +353,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-vector-effect与SVG-stroke描边缩放](https://www.zhangxinxu.com/wordpress/2018/12/vector-effect-non-scaling-stroke/)
 - [【张鑫旭-鑫空间-鑫生活】搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
 - [【张鑫旭-鑫空间-鑫生活】学习了，CSS中内联SVG图片有比Base64更好的形式](https://www.zhangxinxu.com/wordpress/2018/08/css-svg-background-image-base64-encode/)
+- [【前端里】再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)
 - [【JDC-|-京东设计中心】WebGL入门与进阶3](https://jdc.jd.com/archives/212370)
 - [【Aotu.io】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
 - [【Aotu.io】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)
@@ -936,6 +937,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)
 - [【前端里】持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html)
 - [【前端里】集体通宵发版怎么破？分享四道“药方”](http://www.yyyweb.com/5212.html)
 - [【前端里】开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html)
