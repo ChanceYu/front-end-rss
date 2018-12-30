@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-30 06:00:59。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-30 08:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,6 +50,8 @@
 </summary>
 
 
+- [【前端早读课】2018-12-30-【英】Things-I-Don’t-Know-as-of-2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=2&sn=db5ea6666ebe2671bd08813317f41f3a#wechat_redirect) 
+- [【前端早读课】2018-12-30-【第1492期】quicklink：实现原理与给前端的启发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=1&sn=918263d7093813f1b9fe4aa79e031d04#wechat_redirect) 
 - [【前端早读课】2018-12-29-【英】Force-Download-with-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=2&sn=a15d2766a8687493241c11e777c2f2bc#wechat_redirect) 
 - [【前端早读课】2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
 - [【前端早读课】2018-12-28-【英】19-Tips-For-Software-Engineers-In-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=2&sn=55444e3ed87b868bfe389e5781ed585b#wechat_redirect) 
