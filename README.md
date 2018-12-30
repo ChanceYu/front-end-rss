@@ -2,17 +2,17 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2018-12-30 18:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2018-12-30 22:00:29，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -200,6 +200,7 @@
 </summary>
 
 
+- [2018-12-30-Promise-探讨](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555625&idx=1&sn=0bbb9c1c05e46a93f0695062990954c8#wechat_redirect) ![](assets/new.png)  
 - [2018-12-29-GraphQL-前端开发的利剑与桥梁](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555621&idx=1&sn=961a4d8c643c486f1e457f2a6d58da65#wechat_redirect)  
 - [2018-12-28-Chrome-新-UI-很“难看”，用户很生气](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=2&sn=f6edcfdeee970de4f6c0f2a75e096ba1#wechat_redirect)  
 - [2018-12-28-程序员的两条腿：一条腿是数学，另一条腿是?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=1&sn=8422bfd65681003e63b4e06fa58be295#wechat_redirect)  
@@ -414,6 +415,7 @@
 </summary>
 
 
+- [2018-12-30-有了async/await，你可以丢掉promise链了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490202&idx=1&sn=c37e1ad7a35d32c0fc02e4a892391847#wechat_redirect) ![](assets/new.png)  
 - [2018-12-29-珍爱生命，远离Angular！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490198&idx=1&sn=85f08c983d491f1ccc98f363599c0c43#wechat_redirect)  
 - [2018-12-28-基于React-Native的跨三端应用架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490194&idx=1&sn=636d3121a921db87466bda2996e1c793#wechat_redirect)  
 - [2018-12-27-力荐35个最好用的Vue开源库！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1#wechat_redirect)  
@@ -644,8 +646,8 @@
 </summary>
 
 
-- [2018-12-30-精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html) ![](assets/new.png)  
-- [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html) ![](assets/new.png)  
+- [2018-12-30-精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)  
+- [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)  
 - [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html)  
 - [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html)  
 - [2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html)  

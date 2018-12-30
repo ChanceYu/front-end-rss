@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2018-12-30 18:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2018-12-30 22:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -107,6 +107,7 @@
 - [【前端早读课】2018-12-01-【第1463期】谨慎处理-Service-Worker-的更新](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=1&sn=d1e9415b1af4f42295e667a090fb6c7f#wechat_redirect) 
 - [【前端早读课】2018-12-01-【集锦】2018年11月份文章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=3&sn=a022c0d8d279b44f7b722190028d0f00#wechat_redirect) 
 - [【前端早读课】2018-12-01-【视频】基于Electron-Vue的桌面应用开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230592&idx=2&sn=7b4d528e7efced0e0037e82160ea37c8#wechat_redirect) 
+- [【前端大全】2018-12-30-Promise-探讨](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555625&idx=1&sn=0bbb9c1c05e46a93f0695062990954c8#wechat_redirect) 
 - [【前端大全】2018-12-29-GraphQL-前端开发的利剑与桥梁](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555621&idx=1&sn=961a4d8c643c486f1e457f2a6d58da65#wechat_redirect) 
 - [【前端大全】2018-12-28-Chrome-新-UI-很“难看”，用户很生气](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=2&sn=f6edcfdeee970de4f6c0f2a75e096ba1#wechat_redirect) 
 - [【前端大全】2018-12-28-程序员的两条腿：一条腿是数学，另一条腿是?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=1&sn=8422bfd65681003e63b4e06fa58be295#wechat_redirect) 
@@ -154,6 +155,7 @@
 - [【前端大全】2018-12-02-CSS-与网络性能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555453&idx=1&sn=4fc278fcb88efb6f5262cd46d36dd350#wechat_redirect) 
 - [【前端大全】2018-12-01-Web-Worker-初探](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=1&sn=8d10462a626336aa1eab1337d12af6b4#wechat_redirect) 
 - [【前端大全】2018-12-01-面向对象：良人若彩虹，遇你方知有](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555448&idx=2&sn=a2c4e52d8c520dc8f0fc896d27b090e6#wechat_redirect) 
+- [【前端之巅】2018-12-30-有了async/await，你可以丢掉promise链了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490202&idx=1&sn=c37e1ad7a35d32c0fc02e4a892391847#wechat_redirect) 
 - [【前端之巅】2018-12-29-珍爱生命，远离Angular！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490198&idx=1&sn=85f08c983d491f1ccc98f363599c0c43#wechat_redirect) 
 - [【前端之巅】2018-12-28-基于React-Native的跨三端应用架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490194&idx=1&sn=636d3121a921db87466bda2996e1c793#wechat_redirect) 
 - [【前端之巅】2018-12-27-力荐35个最好用的Vue开源库！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1#wechat_redirect) 
