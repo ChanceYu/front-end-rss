@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-31 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-31 18:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -863,6 +863,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】前端一年精选好文，请打包带走](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d#wechat_redirect)
 - [【前端之巅】珍爱生命，远离Angular！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490198&idx=1&sn=85f08c983d491f1ccc98f363599c0c43#wechat_redirect)
 - [【前端之巅】前端模块化详解完整版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490182&idx=1&sn=4cf1a990087df554e9213cb202f2760c#wechat_redirect)
 - [【前端之巅】阿里重磅开源中后台UI解决方案Fusion](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490172&idx=1&sn=4c6f224a74f4e13e37ae112f10f3667a#wechat_redirect)
