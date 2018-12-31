@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-31 19:08:09。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2018-12-31 22:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -755,6 +755,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】关于响应式布局，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555629&idx=1&sn=41145a1042bcee959948bcd8d64050e5#wechat_redirect)
 - [【前端大全】Chrome-新-UI-很“难看”，用户很生气](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=2&sn=f6edcfdeee970de4f6c0f2a75e096ba1#wechat_redirect)
 - [【前端大全】程序员的两条腿：一条腿是数学，另一条腿是?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555601&idx=1&sn=8422bfd65681003e63b4e06fa58be295#wechat_redirect)
 - [【前端大全】面向对象：只愿得一人心，白首不分离](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555589&idx=2&sn=165a581366933b4f9f9a3daa8bedf41b#wechat_redirect)
@@ -863,8 +864,8 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
-- [【前端之巅】珍爱生命，远离Angular！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490198&idx=1&sn=85f08c983d491f1ccc98f363599c0c43#wechat_redirect)
 - [【前端之巅】前端一年精选好文，请打包带走](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490208&idx=1&sn=a0c08a9912e16d5e0b12be0c4e83822d#wechat_redirect)
+- [【前端之巅】珍爱生命，远离Angular！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490198&idx=1&sn=85f08c983d491f1ccc98f363599c0c43#wechat_redirect)
 - [【前端之巅】前端模块化详解完整版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490182&idx=1&sn=4cf1a990087df554e9213cb202f2760c#wechat_redirect)
 - [【前端之巅】阿里重磅开源中后台UI解决方案Fusion](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490172&idx=1&sn=4c6f224a74f4e13e37ae112f10f3667a#wechat_redirect)
 - [【前端之巅】力荐！这些工具可以帮你写出干净的代码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490140&idx=1&sn=f575bbcc1c9987ca9a6941fe7a64620b#wechat_redirect)
