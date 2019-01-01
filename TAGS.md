@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2018-12-31 22:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-01 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -682,6 +682,7 @@
 
 
 
+- [【前端早读课】你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect)
 - [【前端早读课】【英】Understanding-the-Virtual-DOM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230857&idx=2&sn=c486face675d399984b872be208b5a85#wechat_redirect)
 - [【前端早读课】【英】Things-I-Don’t-Know-as-of-2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=2&sn=db5ea6666ebe2671bd08813317f41f3a#wechat_redirect)
 - [【前端早读课】【第1492期】quicklink：实现原理与给前端的启发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230840&idx=1&sn=918263d7093813f1b9fe4aa79e031d04#wechat_redirect)
