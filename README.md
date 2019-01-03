@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-03 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-03 12:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-01-03-【英】-Why-review-code?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=2&sn=556497f43683d6a73bde696e2479fba8#wechat_redirect) ![](assets/new.png)  
-- [2019-01-03-【第1495期】-ESLint-工作原理探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=1&sn=092211db96adfc85a26b457f7e9421a0#wechat_redirect) ![](assets/new.png)  
+- [2019-01-03-【英】-Why-review-code?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=2&sn=556497f43683d6a73bde696e2479fba8#wechat_redirect)  
+- [2019-01-03-【第1495期】-ESLint-工作原理探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=1&sn=092211db96adfc85a26b457f7e9421a0#wechat_redirect)  
 - [2019-01-02-【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect)  
 - [2019-01-02-【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect)  
 - [2019-01-01-你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect)  
@@ -618,6 +618,7 @@
 </summary>
 
 
+- [2019-01-03-站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html) ![](assets/new.png)  
 - [2018-12-28-每周分享第-37-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)  
 - [2018-12-25-埃隆·马斯克和特斯拉汽车的故事](http://www.ruanyifeng.com/blog/2018/12/elon-musk.html)  
 - [2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)  
