@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-04 06:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-04 18:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -432,6 +432,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】写好-JS-条件语句的-5-条守则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555661&idx=1&sn=f194324c495cdd57155298cc1911442d#wechat_redirect)
 - [【前端大全】Promise-探讨](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555625&idx=1&sn=0bbb9c1c05e46a93f0695062990954c8#wechat_redirect)
 - [【前端大全】JavaScript-浅拷贝与深拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555596&idx=1&sn=41f0dfeaf3d50b436f3900766f6818b5#wechat_redirect)
 - [【前端大全】JS-引擎-V8-7.2-Beta-发布，平均解析时间百分比降低到-7.5％](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555562&idx=1&sn=dc1237c2dd82dbed4e7e742c41e0cdc1#wechat_redirect)
@@ -930,6 +931,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-38-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)
 - [【阮一峰的网络日志】站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html)
 - [【阮一峰的网络日志】每周分享第-37-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)
 - [【阮一峰的网络日志】埃隆·马斯克和特斯拉汽车的故事](http://www.ruanyifeng.com/blog/2018/12/elon-musk.html)

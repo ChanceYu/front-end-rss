@@ -887,6 +887,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "写好 JS 条件语句的 5 条守则",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555661&idx=1&sn=f194324c495cdd57155298cc1911442d#wechat_redirect",
+        "date": "2019-01-04"
+      },
+      {
         "title": "老生常谈之 CSS 的垂直居中",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555660&idx=1&sn=0182b29fc123b14c2622411557331b8c#wechat_redirect",
         "date": "2019-01-03"
@@ -2779,6 +2784,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "每周分享第 38 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html",
+        "date": "2019-01-04"
+      },
       {
         "title": "站在未来的十字路口",
         "link": "http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html",
