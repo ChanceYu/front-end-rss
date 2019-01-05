@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-05 22:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-06 06:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -172,6 +172,7 @@
 
 
 
+- [【前端早读课】【第1498期】webpack-loader机制源码解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=1&sn=3af117fc01f14e173aa97c41d739c65b#wechat_redirect)
 - [【前端早读课】【第1489期】关于JavaScript,-NPM官方发布了2018年的回顾以及2019年的预测](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=1&sn=fef690e05d35625b8375e2641d762c73#wechat_redirect)
 - [【前端早读课】【英】Better-NPM'ing,-Tips-and-Tricks-using-NPM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=2&sn=f42e7578c95e06b425fbdc345188fbad#wechat_redirect)
 - [【前端早读课】【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect)
@@ -644,6 +645,7 @@
 
 
 
+- [【前端早读课】【英】Removing-jQuery-from-GitHub.com-frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect)
 - [【前端之巅】GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](http://taobaofed.org/blog/2017/05/18/how-to-display-git-diff/)
 - [【阮一峰的网络日志】git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
