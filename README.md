@@ -2,17 +2,17 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-05 08:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-05 22:00:24，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) ![](assets/new.png)  
-- [2019-01-05-【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect) ![](assets/new.png)  
+- [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect)  
+- [2019-01-05-【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect)  
 - [2019-01-04-【英】How-To-Put-Arrows-at-the-Bottom-of-a-Div](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=2&sn=97bbeebc68b4e80747e4e3898ea5db5d#wechat_redirect)  
 - [2019-01-04-【第1497期】React组件文档解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=1&sn=3868eac44ea9166ce2d9defb8bd30bc6#wechat_redirect)  
 - [2019-01-03-【英】-Why-review-code?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=2&sn=556497f43683d6a73bde696e2479fba8#wechat_redirect)  
@@ -211,6 +211,7 @@
 </summary>
 
 
+- [2019-01-05-JS-中的-number-为何很怪异？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555667&idx=1&sn=1900515091834a860f33104e305c47fd#wechat_redirect) ![](assets/new.png)  
 - [2019-01-04-写好-JS-条件语句的-5-条守则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555661&idx=1&sn=f194324c495cdd57155298cc1911442d#wechat_redirect)  
 - [2019-01-03-老生常谈之-CSS-的垂直居中](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555660&idx=1&sn=0182b29fc123b14c2622411557331b8c#wechat_redirect)  
 - [2019-01-02-面向对象：待盼君来，从此与君同在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=2&sn=a1d275379068e06cb2143115f029332f#wechat_redirect)  
@@ -432,6 +433,7 @@
 </summary>
 
 
+- [2019-01-05-最好用的JavaScript测试框架大盘点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490226&idx=1&sn=8ecde95558abd3bdfa9e2242bfc820e8#wechat_redirect) ![](assets/new.png)  
 - [2019-01-04-前端2018解读：吃瓜又一年](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490221&idx=1&sn=d368c46ed4dbd44ef2621fd5172fd4b1#wechat_redirect)  
 - [2019-01-03-开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect)  
 - [2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect)  
@@ -579,6 +581,7 @@
 </summary>
 
 
+- [2019-01-05-CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/) ![](assets/new.png)  
 - [2018-12-25-CSS-:placeholder-shown伪类实现Material-Design占位符交互效果](https://www.zhangxinxu.com/wordpress/2018/12/css-placeholder-shown-material-design/)  
 - [2018-12-24-从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/)  
 - [2018-12-24-CSS-vector-effect与SVG-stroke描边缩放](https://www.zhangxinxu.com/wordpress/2018/12/vector-effect-non-scaling-stroke/)  
@@ -669,6 +672,8 @@
 </summary>
 
 
+- [2019-01-05-传说这个是-35-个最好用-Vue-开源库](http://www.yyyweb.com/5231.html) ![](assets/new.png)  
+- [2019-01-04-精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html) ![](assets/new.png)  
 - [2018-12-30-精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)  
 - [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)  
 - [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html)  

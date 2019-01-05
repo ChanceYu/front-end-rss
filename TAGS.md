@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-05 08:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-05 22:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -147,6 +147,7 @@
 - [【前端之巅】基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect)
 - [【前端之巅】Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect)
 - [【前端之巅】重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect)
+- [【前端里】传说这个是-35-个最好用-Vue-开源库](http://www.yyyweb.com/5231.html)
 - [【前端里】Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html)
 - [【前端里】Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html)
 - [【前端里】Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html)
@@ -434,6 +435,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】JS-中的-number-为何很怪异？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555667&idx=1&sn=1900515091834a860f33104e305c47fd#wechat_redirect)
 - [【前端大全】写好-JS-条件语句的-5-条守则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555661&idx=1&sn=f194324c495cdd57155298cc1911442d#wechat_redirect)
 - [【前端大全】Promise-探讨](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555625&idx=1&sn=0bbb9c1c05e46a93f0695062990954c8#wechat_redirect)
 - [【前端大全】JavaScript-浅拷贝与深拷贝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555596&idx=1&sn=41f0dfeaf3d50b436f3900766f6818b5#wechat_redirect)
@@ -462,6 +464,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】最好用的JavaScript测试框架大盘点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490226&idx=1&sn=8ecde95558abd3bdfa9e2242bfc820e8#wechat_redirect)
 - [【前端之巅】有了async/await，你可以丢掉promise链了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490202&idx=1&sn=c37e1ad7a35d32c0fc02e4a892391847#wechat_redirect)
 - [【前端之巅】这些鲜为人知的JavaScript特性，你知道多少？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490149&idx=1&sn=643995bb2e92dc1598624fef8b727e8e#wechat_redirect)
 - [【前端之巅】JS/CSS体积减少了67%，我们是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490053&idx=1&sn=375dccf208a507c5d24b3527a3167cf8#wechat_redirect)
@@ -548,6 +551,7 @@
 - [【前端大全】不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect)
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
 - [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
+- [【张鑫旭-鑫空间-鑫生活】CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-:placeholder-shown伪类实现Material-Design占位符交互效果](https://www.zhangxinxu.com/wordpress/2018/12/css-placeholder-shown-material-design/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-::backdrop伪元素是干嘛用的？](https://www.zhangxinxu.com/wordpress/2018/12/css-backdrop-pseudo-element/)
 - [【张鑫旭-鑫空间-鑫生活】周知：CSS--webkit-伪元素选择器不再导致整行无效](https://www.zhangxinxu.com/wordpress/2018/12/css-webkit-%e4%bc%aa%e5%85%83%e7%b4%a0-%e9%80%89%e6%8b%a9%e5%99%a8-%e6%97%a0%e6%95%88/)
@@ -962,6 +966,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)
 - [【前端里】持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html)
 - [【前端里】集体通宵发版怎么破？分享四道“药方”](http://www.yyyweb.com/5212.html)
