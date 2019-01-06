@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-06 22:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-07 06:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -700,6 +700,8 @@
 
 
 
+- [【前端早读课】【英】Microsoft-Edge-and-Chromium-Open-Source:-Our-Intent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=2&sn=c24187a0779a53d9e1e54ce4eddede45#wechat_redirect)
+- [【前端早读课】【第1499期】d.ts](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=1&sn=1be9d6c2624502b1a06236849bba0220#wechat_redirect)
 - [【前端早读课】【英】How-To-Put-Arrows-at-the-Bottom-of-a-Div](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=2&sn=97bbeebc68b4e80747e4e3898ea5db5d#wechat_redirect)
 - [【前端早读课】【英】-Why-review-code?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=2&sn=556497f43683d6a73bde696e2479fba8#wechat_redirect)
 - [【前端早读课】【第1495期】-ESLint-工作原理探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=1&sn=092211db96adfc85a26b457f7e9421a0#wechat_redirect)

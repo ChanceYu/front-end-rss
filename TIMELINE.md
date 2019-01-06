@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-06 22:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-07 06:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,8 @@
 </summary>
 
 
+- [【前端早读课】2019-01-07-【英】Microsoft-Edge-and-Chromium-Open-Source:-Our-Intent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=2&sn=c24187a0779a53d9e1e54ce4eddede45#wechat_redirect) 
+- [【前端早读课】2019-01-07-【第1499期】d.ts](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=1&sn=1be9d6c2624502b1a06236849bba0220#wechat_redirect) 
 - [【前端早读课】2019-01-06-【英】Removing-jQuery-from-GitHub.com-frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect) 
 - [【前端早读课】2019-01-06-【第1498期】webpack-loader机制源码解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=1&sn=3af117fc01f14e173aa97c41d739c65b#wechat_redirect) 
 - [【前端早读课】2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
