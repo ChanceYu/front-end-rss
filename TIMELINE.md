@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-06 06:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-06 22:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -62,12 +62,15 @@
 - [【前端早读课】2019-01-02-【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect) 
 - [【前端早读课】2019-01-02-【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect) 
 - [【前端早读课】2019-01-01-你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect) 
+- [【前端大全】2019-01-06-面向对象：赖床运动员，吉尼斯吃不饱记录保持者](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=2&sn=a59cf1f94fd41a77fb9432f4e8b3266b#wechat_redirect) 
+- [【前端大全】2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
 - [【前端大全】2019-01-05-JS-中的-number-为何很怪异？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555667&idx=1&sn=1900515091834a860f33104e305c47fd#wechat_redirect) 
 - [【前端大全】2019-01-04-写好-JS-条件语句的-5-条守则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555661&idx=1&sn=f194324c495cdd57155298cc1911442d#wechat_redirect) 
 - [【前端大全】2019-01-03-老生常谈之-CSS-的垂直居中](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555660&idx=1&sn=0182b29fc123b14c2622411557331b8c#wechat_redirect) 
 - [【前端大全】2019-01-02-面向对象：待盼君来，从此与君同在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=2&sn=a1d275379068e06cb2143115f029332f#wechat_redirect) 
 - [【前端大全】2019-01-02-探究-CSS-混合模式滤镜导致-CSS-3D-失效问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=1&sn=7b850dea9f924766bc63c9867c08bf32#wechat_redirect) 
 - [【前端大全】2019-01-01-React-和-Vue-到底谁更牛？听听尤雨溪怎么说：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555634&idx=1&sn=aa28971c6e63f5404b24aa1f88d7e39a#wechat_redirect) 
+- [【前端之巅】2019-01-06-JavaScript性能优化之摇树](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490230&idx=1&sn=7c407256e1d144631ea143f593311153#wechat_redirect) 
 - [【前端之巅】2019-01-05-最好用的JavaScript测试框架大盘点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490226&idx=1&sn=8ecde95558abd3bdfa9e2242bfc820e8#wechat_redirect) 
 - [【前端之巅】2019-01-04-前端2018解读：吃瓜又一年](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490221&idx=1&sn=d368c46ed4dbd44ef2621fd5172fd4b1#wechat_redirect) 
 - [【前端之巅】2019-01-03-开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect) 
