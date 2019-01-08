@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-08 22:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-09 06:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -217,6 +217,7 @@
 </summary>
 
 
+- [2019-01-08-JavaScript-代码简洁之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555684&idx=1&sn=537a63f2d119f460307cf89dc028e098#wechat_redirect) ![](assets/new.png)  
 - [2019-01-07-如何以及为什么React-Fiber使用链表遍历组件树](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555680&idx=1&sn=d00d79f0c83fbcb921a69e4cf9ed96fe#wechat_redirect)  
 - [2019-01-06-面向对象：赖床运动员，吉尼斯吃不饱记录保持者](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=2&sn=a59cf1f94fd41a77fb9432f4e8b3266b#wechat_redirect)  
 - [2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect)  
@@ -442,7 +443,7 @@
 </summary>
 
 
-- [2019-01-08-携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect) ![](assets/new.png)  
+- [2019-01-08-携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect)  
 - [2019-01-07-你真的会拆分代码吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490234&idx=1&sn=a57614db8d5570eb4cf71c39d376ab46#wechat_redirect)  
 - [2019-01-06-JavaScript性能优化之摇树](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490230&idx=1&sn=7c407256e1d144631ea143f593311153#wechat_redirect)  
 - [2019-01-05-最好用的JavaScript测试框架大盘点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490226&idx=1&sn=8ecde95558abd3bdfa9e2242bfc820e8#wechat_redirect)  

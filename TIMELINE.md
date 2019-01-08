@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-08 22:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-09 06:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -66,6 +66,7 @@
 - [【前端早读课】2019-01-02-【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect) 
 - [【前端早读课】2019-01-02-【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect) 
 - [【前端早读课】2019-01-01-你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect) 
+- [【前端大全】2019-01-08-JavaScript-代码简洁之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555684&idx=1&sn=537a63f2d119f460307cf89dc028e098#wechat_redirect) 
 - [【前端大全】2019-01-07-如何以及为什么React-Fiber使用链表遍历组件树](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555680&idx=1&sn=d00d79f0c83fbcb921a69e4cf9ed96fe#wechat_redirect) 
 - [【前端大全】2019-01-06-面向对象：赖床运动员，吉尼斯吃不饱记录保持者](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=2&sn=a59cf1f94fd41a77fb9432f4e8b3266b#wechat_redirect) 
 - [【前端大全】2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
