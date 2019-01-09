@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-09 18:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-09 22:00:14。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -787,6 +787,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：兜兜转转了很久，希望你恰好也在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555692&idx=2&sn=603264b1efab791ab74701a3e46815a1#wechat_redirect)
+- [【前端大全】2019-年-Web-开发技术指南和趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555692&idx=1&sn=8f691cc2ff131b94aaed80c50d50740e#wechat_redirect)
 - [【前端大全】面向对象：赖床运动员，吉尼斯吃不饱记录保持者](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=2&sn=a59cf1f94fd41a77fb9432f4e8b3266b#wechat_redirect)
 - [【前端大全】面向对象：待盼君来，从此与君同在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=2&sn=a1d275379068e06cb2143115f029332f#wechat_redirect)
 - [【前端大全】关于响应式布局，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555629&idx=1&sn=41145a1042bcee959948bcd8d64050e5#wechat_redirect)
