@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-09 08:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-09 18:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -257,6 +257,7 @@
 - [【前端大全】从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect)
 - [【前端大全】微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect)
 - [【前端大全】健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect)
+- [【前端之巅】直击微信公开课：2019年小程序会有哪些变化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490246&idx=1&sn=84bd1f1e50963f4c737f2656018d6711#wechat_redirect)
 - [【前端之巅】百度发布智能小程序开发方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490098&idx=1&sn=64db463561039ed05843a1ca3cde3375#wechat_redirect)
 - [【前端之巅】苏宁：我们开发百度小程序遇到的那些“坑”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490033&idx=1&sn=6349c73322d9a73b69728a818c8edb79#wechat_redirect)
 - [【前端之巅】京东Taro框架深度实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490009&idx=1&sn=18794619dbfa1c7978cad2faa7336990#wechat_redirect)
@@ -982,6 +983,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)
 - [【前端里】持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html)
