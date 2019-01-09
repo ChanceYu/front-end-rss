@@ -2713,6 +2713,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "小tips: 纯CSS实现打字动画效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/",
+        "date": "2019-01-10"
+      },
+      {
         "title": "CSS/CSS3 box-decoration-break属性图文简介",
         "link": "https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/",
         "date": "2019-01-05"

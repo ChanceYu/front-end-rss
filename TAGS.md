@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-09 22:00:14。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-10 06:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -558,6 +558,7 @@
 - [【前端大全】不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect)
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
 - [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
+- [【张鑫旭-鑫空间-鑫生活】小tips:-纯CSS实现打字动画效果](https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/)
 - [【张鑫旭-鑫空间-鑫生活】CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-:placeholder-shown伪类实现Material-Design占位符交互效果](https://www.zhangxinxu.com/wordpress/2018/12/css-placeholder-shown-material-design/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-::backdrop伪元素是干嘛用的？](https://www.zhangxinxu.com/wordpress/2018/12/css-backdrop-pseudo-element/)
