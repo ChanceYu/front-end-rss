@@ -2606,6 +2606,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "imgcook 体验版发布",
+        "link": "http://taobaofed.org/blog/2019/01/07/imgcook/",
+        "date": "2019-01-07"
+      },
+      {
         "title": "WebGL 纹理详解",
         "link": "http://taobaofed.org/blog/2018/12/17/webgl-texture/",
         "date": "2018-12-17"
