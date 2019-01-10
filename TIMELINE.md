@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-10 12:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-10 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -84,6 +84,7 @@
 - [【前端大全】2019-01-02-面向对象：待盼君来，从此与君同在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=2&sn=a1d275379068e06cb2143115f029332f#wechat_redirect) 
 - [【前端大全】2019-01-02-探究-CSS-混合模式滤镜导致-CSS-3D-失效问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=1&sn=7b850dea9f924766bc63c9867c08bf32#wechat_redirect) 
 - [【前端大全】2019-01-01-React-和-Vue-到底谁更牛？听听尤雨溪怎么说：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555634&idx=1&sn=aa28971c6e63f5404b24aa1f88d7e39a#wechat_redirect) 
+- [【前端之巅】2019-01-10-详解前端异步编程的六种方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490250&idx=1&sn=c150f6637d71bd52664cdf53c5ceaca9#wechat_redirect) 
 - [【前端之巅】2019-01-09-直击微信公开课：2019年小程序会有哪些变化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490246&idx=1&sn=84bd1f1e50963f4c737f2656018d6711#wechat_redirect) 
 - [【前端之巅】2019-01-08-携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect) 
 - [【前端之巅】2019-01-07-你真的会拆分代码吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490234&idx=1&sn=a57614db8d5570eb4cf71c39d376ab46#wechat_redirect) 
