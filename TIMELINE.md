@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-10 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-11 08:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,9 @@
 </summary>
 
 
+- [【前端早读课】2019-01-11-【英】-Bad-Habits-of-UI/UX-Designers](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=3&sn=c544edec1e980591a240201fac8ea19f#wechat_redirect) 
+- [【前端早读课】2019-01-11-【活动】第二届网易前端技术大会，即将开始～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=2&sn=9315b82eea4836c1b27498f92409ed77#wechat_redirect) 
+- [【前端早读课】2019-01-11-【第1503期】不可思议的纯-CSS-滚动进度条效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=1&sn=8162da7a0fcb677d7be0609e87895248#wechat_redirect) 
 - [【前端早读课】2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [【前端早读课】2019-01-10-【第1502期】An-English-Guide-for-Programmers---专为程序员编写的英语学习指南。](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=2&sn=998a8cad9d49ab1ebfb036300bf4a89c#wechat_redirect) 
 - [【前端早读课】2019-01-10-如何入门微信小程序开发？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=1&sn=d762f660272e234cd3a6d86486e27e1f#wechat_redirect) 
