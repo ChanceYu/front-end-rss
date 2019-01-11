@@ -2728,6 +2728,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "分享三个纯CSS实现26个英文字母的案例",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/01/pure-css-26-letters/",
+        "date": "2019-01-11"
+      },
+      {
         "title": "小tips: 纯CSS实现打字动画效果",
         "link": "https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/",
         "date": "2019-01-10"
@@ -2929,6 +2934,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "每周分享第 39 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html",
+        "date": "2019-01-11"
+      },
       {
         "title": "每周分享第 38 期",
         "link": "http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html",
