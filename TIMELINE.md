@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-11 22:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-12 08:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,9 @@
 </summary>
 
 
+- [【前端早读课】2019-01-12-【英】A-guide-to-color-accessibility-in-product-design](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=3&sn=781f83ae87cd14985fb715444230648f#wechat_redirect) 
+- [【前端早读课】2019-01-12-【招聘】阿里云招P6+前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=2&sn=93f631396a8c05bf5e5a015c41d46146#wechat_redirect) 
+- [【前端早读课】2019-01-12-【第1504期】送你一份微信小程序-web-view-开发踩坑大全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=1&sn=23e3672f02759871efc872b0cbbf8525#wechat_redirect) 
 - [【前端早读课】2019-01-11-【英】-Bad-Habits-of-UI/UX-Designers](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=3&sn=c544edec1e980591a240201fac8ea19f#wechat_redirect) 
 - [【前端早读课】2019-01-11-【活动】第二届网易前端技术大会，即将开始～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=2&sn=9315b82eea4836c1b27498f92409ed77#wechat_redirect) 
 - [【前端早读课】2019-01-11-【第1503期】不可思议的纯-CSS-滚动进度条效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=1&sn=8162da7a0fcb677d7be0609e87895248#wechat_redirect) 
