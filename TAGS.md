@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-12 22:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-13 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -716,6 +716,8 @@
 
 
 
+- [【前端早读课】【英】The-9-big-design-trends-of-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect)
+- [【前端早读课】【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect)
 - [【前端早读课】【英】A-guide-to-color-accessibility-in-product-design](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=3&sn=781f83ae87cd14985fb715444230648f#wechat_redirect)
 - [【前端早读课】【英】-Bad-Habits-of-UI/UX-Designers](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=3&sn=c544edec1e980591a240201fac8ea19f#wechat_redirect)
 - [【前端早读课】【活动】第二届网易前端技术大会，即将开始～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=2&sn=9315b82eea4836c1b27498f92409ed77#wechat_redirect)
