@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-13 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-13 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -445,6 +445,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】JavaScript-的数据类型及其检测](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555705&idx=1&sn=37cc51f48396b080778bd56ff25f6e03#wechat_redirect)
 - [【前端大全】JavaScript-代码简洁之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555684&idx=1&sn=537a63f2d119f460307cf89dc028e098#wechat_redirect)
 - [【前端大全】JS-中的-number-为何很怪异？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555667&idx=1&sn=1900515091834a860f33104e305c47fd#wechat_redirect)
 - [【前端大全】写好-JS-条件语句的-5-条守则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555661&idx=1&sn=f194324c495cdd57155298cc1911442d#wechat_redirect)
@@ -475,6 +476,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】用JS实现人脑和计算机交互，这个厉害了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490264&idx=1&sn=d9cb45cad5718975872d5c8dc9f532e1#wechat_redirect)
 - [【前端之巅】JavaScript性能优化之摇树](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490230&idx=1&sn=7c407256e1d144631ea143f593311153#wechat_redirect)
 - [【前端之巅】最好用的JavaScript测试框架大盘点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490226&idx=1&sn=8ecde95558abd3bdfa9e2242bfc820e8#wechat_redirect)
 - [【前端之巅】有了async/await，你可以丢掉promise链了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490202&idx=1&sn=c37e1ad7a35d32c0fc02e4a892391847#wechat_redirect)
@@ -507,6 +509,7 @@
 - [【张鑫旭-鑫空间-鑫生活】利用剪切板JS-API优化输入框的粘贴体验](https://www.zhangxinxu.com/wordpress/2018/09/js-clipboard-api-paste-input/)
 - [【张鑫旭-鑫空间-鑫生活】原来浏览器原生支持JS-Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/)
 - [【张鑫旭-鑫空间-鑫生活】万岁，浏览器原生支持ES6-export和import模块啦！](https://www.zhangxinxu.com/wordpress/2018/08/browser-native-es6-export-import-module/)
+- [【前端里】细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html)
 - [【前端里】JavaScript-引擎、运行时、调用堆栈概述](http://www.yyyweb.com/5219.html)
 - [【前端里】据说是最好的正则表达式的教程笔记](http://www.yyyweb.com/5141.html)
 - [【前端里】6个提升程序员幸福感的-JavaScript-小技巧](http://www.yyyweb.com/5112.html)
@@ -1001,6 +1004,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)

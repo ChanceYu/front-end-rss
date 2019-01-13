@@ -2,17 +2,17 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-13 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-13 22:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-01-13-【英】The-9-big-design-trends-of-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect) ![](assets/new.png)  
-- [2019-01-13-【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect) ![](assets/new.png)  
+- [2019-01-13-【英】The-9-big-design-trends-of-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect)  
+- [2019-01-13-【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect)  
 - [2019-01-12-【英】A-guide-to-color-accessibility-in-product-design](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=3&sn=781f83ae87cd14985fb715444230648f#wechat_redirect)  
 - [2019-01-12-【招聘】阿里云招P6+前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=2&sn=93f631396a8c05bf5e5a015c41d46146#wechat_redirect)  
 - [2019-01-12-【第1504期】送你一份微信小程序-web-view-开发踩坑大全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=1&sn=23e3672f02759871efc872b0cbbf8525#wechat_redirect)  
@@ -230,6 +230,7 @@
 </summary>
 
 
+- [2019-01-13-JavaScript-的数据类型及其检测](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555705&idx=1&sn=37cc51f48396b080778bd56ff25f6e03#wechat_redirect) ![](assets/new.png)  
 - [2019-01-12-Ionic-框架宣布-2019-年将正式支持-Vue-和-React](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555699&idx=1&sn=9b92973711feb1e03397c48a81886055#wechat_redirect)  
 - [2019-01-12-面向对象：有态度有温度的川妹子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555701&idx=2&sn=5a8f9e3424dfab977f7f58c552058b32#wechat_redirect)  
 - [2019-01-12-从-loading-的-9-种写法谈-React-业务开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555701&idx=1&sn=9a680b7ba7895645b6ef4da00e67c7ab#wechat_redirect)  
@@ -456,6 +457,7 @@
 </summary>
 
 
+- [2019-01-13-用JS实现人脑和计算机交互，这个厉害了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490264&idx=1&sn=d9cb45cad5718975872d5c8dc9f532e1#wechat_redirect) ![](assets/new.png)  
 - [2019-01-12-你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect)  
 - [2019-01-11-Ionic将支持Vue和React，但感觉已经来不及了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490255&idx=1&sn=06f23315be02e7c53aa169550ce13edc#wechat_redirect)  
 - [2019-01-10-详解前端异步编程的六种方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490250&idx=1&sn=c150f6637d71bd52664cdf53c5ceaca9#wechat_redirect)  
@@ -707,6 +709,8 @@
 </summary>
 
 
+- [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html) ![](assets/new.png)  
+- [2019-01-13-精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html) ![](assets/new.png)  
 - [2019-01-09-精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)  
 - [2019-01-05-传说这个是-35-个最好用-Vue-开源库](http://www.yyyweb.com/5231.html)  
 - [2019-01-04-精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html)  

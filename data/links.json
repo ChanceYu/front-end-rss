@@ -992,6 +992,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "JavaScript 的数据类型及其检测",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555705&idx=1&sn=37cc51f48396b080778bd56ff25f6e03#wechat_redirect",
+        "date": "2019-01-13"
+      },
+      {
         "title": "Ionic 框架宣布 2019 年将正式支持 Vue 和 React",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555699&idx=1&sn=9b92973711feb1e03397c48a81886055#wechat_redirect",
         "date": "2019-01-12"
@@ -2079,6 +2084,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "用JS实现人脑和计算机交互，这个厉害了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490264&idx=1&sn=d9cb45cad5718975872d5c8dc9f532e1#wechat_redirect",
+        "date": "2019-01-13"
+      },
+      {
         "title": "你配置Webpack 4的方式可能是错的！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect",
         "date": "2019-01-12"
@@ -3161,6 +3171,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "细说 async/await 相较于 Promise 的优势",
+        "link": "http://www.yyyweb.com/5261.html",
+        "date": "2019-01-13"
+      },
+      {
+        "title": "精心挑选的2018年最佳前端特效（系列四）",
+        "link": "http://www.yyyweb.com/5239.html",
+        "date": "2019-01-13"
+      },
       {
         "title": "精心挑选的2018年最佳前端特效（系列三）",
         "link": "http://www.yyyweb.com/5238.html",
