@@ -1017,6 +1017,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "设计师找了程序员男朋友后，这样报喜的...",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=2&sn=2c1dc906fd85f93f1d010e5d65b73f82#wechat_redirect",
+        "date": "2019-01-15"
+      },
+      {
+        "title": "玩游戏一样学 Git 分支，这个 GitHub 热门别再错过了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=1&sn=cc20ac2fe8e0230a4a0a21a811a96a0a#wechat_redirect",
+        "date": "2019-01-15"
+      },
+      {
         "title": "JavaScript 的数据类型及其检测",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555705&idx=1&sn=37cc51f48396b080778bd56ff25f6e03#wechat_redirect",
         "date": "2019-01-13"
@@ -2109,6 +2119,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "“学不动了”的前端，为什么还要学？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490282&idx=1&sn=71480be882c4db25e2378fc2a10a274a#wechat_redirect",
+        "date": "2019-01-15"
+      },
+      {
         "title": "GitHub年度盘点：Deno赶超Node，跃升第四！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490270&idx=1&sn=59e786008d6bba785c37dd355006e887#wechat_redirect",
         "date": "2019-01-14"
@@ -3029,6 +3044,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "数据库表连接的简单解释",
+        "link": "http://www.ruanyifeng.com/blog/2019/01/table-join.html",
+        "date": "2019-01-15"
+      },
       {
         "title": "每周分享第 39 期",
         "link": "http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html",

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-15 08:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-15 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 - [【前端早读课】【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect)
 - [【前端早读课】【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect)
 - [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
+- [【前端大全】玩游戏一样学-Git-分支，这个-GitHub-热门别再错过了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=1&sn=cc20ac2fe8e0230a4a0a21a811a96a0a#wechat_redirect)
 - [【前端大全】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect)
 - [【Aotu.io】全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)
 - [【Aotu.io】3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/)
@@ -813,6 +814,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】设计师找了程序员男朋友后，这样报喜的...](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=2&sn=2c1dc906fd85f93f1d010e5d65b73f82#wechat_redirect)
 - [【前端大全】面向对象：有态度有温度的川妹子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555701&idx=2&sn=5a8f9e3424dfab977f7f58c552058b32#wechat_redirect)
 - [【前端大全】面向对象：兜兜转转了很久，希望你恰好也在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555692&idx=2&sn=603264b1efab791ab74701a3e46815a1#wechat_redirect)
 - [【前端大全】2019-年-Web-开发技术指南和趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555692&idx=1&sn=8f691cc2ff131b94aaed80c50d50740e#wechat_redirect)
@@ -923,6 +925,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】“学不动了”的前端，为什么还要学？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490282&idx=1&sn=71480be882c4db25e2378fc2a10a274a#wechat_redirect)
 - [【前端之巅】详解前端异步编程的六种方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490250&idx=1&sn=c150f6637d71bd52664cdf53c5ceaca9#wechat_redirect)
 - [【前端之巅】携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect)
 - [【前端之巅】你真的会拆分代码吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490234&idx=1&sn=a57614db8d5570eb4cf71c39d376ab46#wechat_redirect)
@@ -982,6 +985,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)
 - [【阮一峰的网络日志】每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)
 - [【阮一峰的网络日志】每周分享第-38-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)
 - [【阮一峰的网络日志】站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html)
