@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-14 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-15 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,9 @@
 </summary>
 
 
+- [【前端早读课】2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
+- [【前端早读课】2019-01-15-【第1507期】从-loading-的-9-种写法谈-React-业务开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=2&sn=fa765c7b849b2290877052edb4c41eb1#wechat_redirect) 
+- [【前端早读课】2019-01-15-前淘宝前端leader：2019年，前端应该怎么学？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=1&sn=030a202f3e75f686e1033b4a8aeabe37#wechat_redirect) 
 - [【前端早读课】2019-01-14-【英】Computer-science-in-JavaScript-2019:-Linked-list](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=2&sn=2f4529ec9fc3cfa719505649d397c624#wechat_redirect) 
 - [【前端早读课】2019-01-14-【第1506期】JavaScript工程项目的一系列最佳实践策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=1&sn=dca208ff5655a9c87b6254e6443b8dd0#wechat_redirect) 
 - [【前端早读课】2019-01-13-【英】The-9-big-design-trends-of-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect) 
