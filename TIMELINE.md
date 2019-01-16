@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-15 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-16 08:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,9 @@
 </summary>
 
 
+- [【前端早读课】2019-01-16-【招聘】饿了么B端前端团队招资深前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=3&sn=a1d230feb6236c4815fb35a9f0a6dff6#wechat_redirect) 
+- [【前端早读课】2019-01-16-【第1508期】深入浅出-Javascript-Decorators-和-AOP-编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=2&sn=9db6bf8444244966bbc9d1a6228e7f5c#wechat_redirect) 
+- [【前端早读课】2019-01-16-【在线分享】活动运营可视化生成器专题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=1&sn=31990aa2b0dfbf55510af0ddf2c6f190#wechat_redirect) 
 - [【前端早读课】2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [【前端早读课】2019-01-15-【第1507期】从-loading-的-9-种写法谈-React-业务开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=2&sn=fa765c7b849b2290877052edb4c41eb1#wechat_redirect) 
 - [【前端早读课】2019-01-15-前淘宝前端leader：2019年，前端应该怎么学？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=1&sn=030a202f3e75f686e1033b4a8aeabe37#wechat_redirect) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-15 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-16 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -429,6 +429,7 @@
 
 
 
+- [【前端早读课】【第1508期】深入浅出-Javascript-Decorators-和-AOP-编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=2&sn=9db6bf8444244966bbc9d1a6228e7f5c#wechat_redirect)
 - [【前端早读课】【英】Computer-science-in-JavaScript-2019:-Linked-list](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=2&sn=2f4529ec9fc3cfa719505649d397c624#wechat_redirect)
 - [【前端早读课】【第1506期】JavaScript工程项目的一系列最佳实践策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=1&sn=dca208ff5655a9c87b6254e6443b8dd0#wechat_redirect)
 - [【前端早读课】【英】Force-Download-with-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=2&sn=a15d2766a8687493241c11e777c2f2bc#wechat_redirect)
@@ -695,6 +696,7 @@
 
 
 
+- [【前端早读课】【招聘】饿了么B端前端团队招资深前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=3&sn=a1d230feb6236c4815fb35a9f0a6dff6#wechat_redirect)
 - [【前端早读课】【招聘】阿里云招P6+前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=2&sn=93f631396a8c05bf5e5a015c41d46146#wechat_redirect)
 - [【前端早读课】【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect)
 - [【前端早读课】【招聘】北京作业帮招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230534&idx=2&sn=00d92555a101ace5f9249f2f8cf1e522#wechat_redirect)
@@ -726,6 +728,7 @@
 
 
 
+- [【前端早读课】【在线分享】活动运营可视化生成器专题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=1&sn=31990aa2b0dfbf55510af0ddf2c6f190#wechat_redirect)
 - [【前端早读课】前淘宝前端leader：2019年，前端应该怎么学？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=1&sn=030a202f3e75f686e1033b4a8aeabe37#wechat_redirect)
 - [【前端早读课】【英】The-9-big-design-trends-of-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=2&sn=cf1435d61d7a39a13a1533c933aac56f#wechat_redirect)
 - [【前端早读课】【第1505期】谈谈代理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230996&idx=1&sn=903ae7c59cbb171572f859ca37f3a3ad#wechat_redirect)
