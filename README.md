@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-17 08:00:19，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-17 18:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-01-17-【英】Motion-Design-Doesn’t-Have-to-be-Hard](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=3&sn=9a3e2876224a9eb2825696377bdacc23#wechat_redirect) ![](assets/new.png)  
-- [2019-01-17-【招聘】上海vipJr-/-TutorABC招聘高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=2&sn=5a46a81b862a148318ae5ecba23fbb35#wechat_redirect) ![](assets/new.png)  
-- [2019-01-17-【第1509期】阿里imgcook-体验版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=1&sn=6b33a1bdd16f62df354acdf51cb300f2#wechat_redirect) ![](assets/new.png)  
+- [2019-01-17-【英】Motion-Design-Doesn’t-Have-to-be-Hard](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=3&sn=9a3e2876224a9eb2825696377bdacc23#wechat_redirect)  
+- [2019-01-17-【招聘】上海vipJr-/-TutorABC招聘高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=2&sn=5a46a81b862a148318ae5ecba23fbb35#wechat_redirect)  
+- [2019-01-17-【第1509期】阿里imgcook-体验版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=1&sn=6b33a1bdd16f62df354acdf51cb300f2#wechat_redirect)  
 - [2019-01-16-【招聘】饿了么B端前端团队招资深前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=3&sn=a1d230feb6236c4815fb35a9f0a6dff6#wechat_redirect)  
 - [2019-01-16-【第1508期】深入浅出-Javascript-Decorators-和-AOP-编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=2&sn=9db6bf8444244966bbc9d1a6228e7f5c#wechat_redirect)  
 - [2019-01-16-【在线分享】活动运营可视化生成器专题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=1&sn=31990aa2b0dfbf55510af0ddf2c6f190#wechat_redirect)  
@@ -684,6 +684,7 @@
 </summary>
 
 
+- [2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html) ![](assets/new.png)  
 - [2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)  
 - [2019-01-11-每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)  
 - [2019-01-04-每周分享第-38-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)  
