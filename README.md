@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-18 06:00:14，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-18 18:00:13，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-01-18-【英】A-UX-Guide-For-Designing-Error-Pages](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=3&sn=5b7ea3d6273a1ffac515a22caffe404a#wechat_redirect) ![](assets/new.png)  
-- [2019-01-18-【第1510期】动效不该难](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=1&sn=51276eaae655b31e6e78fa5ae2094810#wechat_redirect) ![](assets/new.png)  
-- [2019-01-18-【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect) ![](assets/new.png)  
+- [2019-01-18-【英】A-UX-Guide-For-Designing-Error-Pages](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=3&sn=5b7ea3d6273a1ffac515a22caffe404a#wechat_redirect)  
+- [2019-01-18-【第1510期】动效不该难](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=1&sn=51276eaae655b31e6e78fa5ae2094810#wechat_redirect)  
+- [2019-01-18-【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect)  
 - [2019-01-17-【英】Motion-Design-Doesn’t-Have-to-be-Hard](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=3&sn=9a3e2876224a9eb2825696377bdacc23#wechat_redirect)  
 - [2019-01-17-【招聘】上海vipJr-/-TutorABC招聘高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=2&sn=5a46a81b862a148318ae5ecba23fbb35#wechat_redirect)  
 - [2019-01-17-【第1509期】阿里imgcook-体验版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231174&idx=1&sn=6b33a1bdd16f62df354acdf51cb300f2#wechat_redirect)  
@@ -244,6 +244,8 @@
 </summary>
 
 
+- [2019-01-18-面向对象：有趣的灵魂一起，共度三餐四季，共赏世间风景](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=2&sn=26eaa568e8824e6a0f367280b6ba6d63#wechat_redirect) ![](assets/new.png)  
+- [2019-01-18-原生-JS-实现移动端-Touch-滑动反弹](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=1&sn=eafa7637eab46de553a61e3014677291#wechat_redirect) ![](assets/new.png)  
 - [2019-01-17-由一个-emoji-引发的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=2&sn=68c81ef196b0e7a9ee9823956605ae7f#wechat_redirect)  
 - [2019-01-17-Vue3.0-终终终于要来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=1&sn=a6d6e1c63bb462d00bb45576def13217#wechat_redirect)  
 - [2019-01-16-面向对象：一起看春夏秋冬景，吃遍人间烟火味](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555725&idx=2&sn=ae3c7e396e8802a459330b3202af6eef#wechat_redirect)  
@@ -690,6 +692,7 @@
 </summary>
 
 
+- [2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html) ![](assets/new.png)  
 - [2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html)  
 - [2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)  
 - [2019-01-11-每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)  

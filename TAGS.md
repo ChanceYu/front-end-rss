@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-18 06:00:14。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-18 18:00:13。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -455,6 +455,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】原生-JS-实现移动端-Touch-滑动反弹](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=1&sn=eafa7637eab46de553a61e3014677291#wechat_redirect)
 - [【前端大全】JavaScript-的数据类型及其检测](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555705&idx=1&sn=37cc51f48396b080778bd56ff25f6e03#wechat_redirect)
 - [【前端大全】JavaScript-代码简洁之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555684&idx=1&sn=537a63f2d119f460307cf89dc028e098#wechat_redirect)
 - [【前端大全】JS-中的-number-为何很怪异？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555667&idx=1&sn=1900515091834a860f33104e305c47fd#wechat_redirect)
@@ -825,6 +826,7 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：有趣的灵魂一起，共度三餐四季，共赏世间风景](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=2&sn=26eaa568e8824e6a0f367280b6ba6d63#wechat_redirect)
 - [【前端大全】由一个-emoji-引发的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=2&sn=68c81ef196b0e7a9ee9823956605ae7f#wechat_redirect)
 - [【前端大全】面向对象：一起看春夏秋冬景，吃遍人间烟火味](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555725&idx=2&sn=ae3c7e396e8802a459330b3202af6eef#wechat_redirect)
 - [【前端大全】设计师找了程序员男朋友后，这样报喜的...](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=2&sn=2c1dc906fd85f93f1d010e5d65b73f82#wechat_redirect)
@@ -1000,6 +1002,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)
 - [【阮一峰的网络日志】罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html)
 - [【阮一峰的网络日志】数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)
 - [【阮一峰的网络日志】每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)

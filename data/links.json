@@ -1062,6 +1062,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "面向对象：有趣的灵魂一起，共度三餐四季，共赏世间风景",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=2&sn=26eaa568e8824e6a0f367280b6ba6d63#wechat_redirect",
+        "date": "2019-01-18"
+      },
+      {
+        "title": "原生 JS 实现移动端 Touch 滑动反弹",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=1&sn=eafa7637eab46de553a61e3014677291#wechat_redirect",
+        "date": "2019-01-18"
+      },
+      {
         "title": "由一个 emoji 引发的思考",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=2&sn=68c81ef196b0e7a9ee9823956605ae7f#wechat_redirect",
         "date": "2019-01-17"
@@ -3119,6 +3129,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "每周分享第 40 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html",
+        "date": "2019-01-18"
+      },
       {
         "title": "罗杰·克劳利的作品读后感",
         "link": "http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html",

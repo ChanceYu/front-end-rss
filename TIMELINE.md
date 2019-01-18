@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-18 06:00:14。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-18 18:00:13。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -94,6 +94,8 @@
 - [【前端早读课】2019-01-02-【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect) 
 - [【前端早读课】2019-01-02-【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect) 
 - [【前端早读课】2019-01-01-你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect) 
+- [【前端大全】2019-01-18-面向对象：有趣的灵魂一起，共度三餐四季，共赏世间风景](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=2&sn=26eaa568e8824e6a0f367280b6ba6d63#wechat_redirect) 
+- [【前端大全】2019-01-18-原生-JS-实现移动端-Touch-滑动反弹](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=1&sn=eafa7637eab46de553a61e3014677291#wechat_redirect) 
 - [【前端大全】2019-01-17-由一个-emoji-引发的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=2&sn=68c81ef196b0e7a9ee9823956605ae7f#wechat_redirect) 
 - [【前端大全】2019-01-17-Vue3.0-终终终于要来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=1&sn=a6d6e1c63bb462d00bb45576def13217#wechat_redirect) 
 - [【前端大全】2019-01-16-面向对象：一起看春夏秋冬景，吃遍人间烟火味](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555725&idx=2&sn=ae3c7e396e8802a459330b3202af6eef#wechat_redirect) 
@@ -138,6 +140,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-01-11-分享三个纯CSS实现26个英文字母的案例](https://www.zhangxinxu.com/wordpress/2019/01/pure-css-26-letters/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-10-小tips:-纯CSS实现打字动画效果](https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-05-CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/) 
+- [【阮一峰的网络日志】2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html) 
 - [【阮一峰的网络日志】2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html) 
 - [【阮一峰的网络日志】2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html) 
 - [【阮一峰的网络日志】2019-01-11-每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html) 
