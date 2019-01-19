@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-18 22:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-19 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,8 @@
 </summary>
 
 
+- [【前端早读课】2019-01-19-【招聘】北京水滴互助招聘中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=2&sn=06c7600cf3de18977eaf985770887a06#wechat_redirect) 
+- [【前端早读课】2019-01-19-【第1511期】在-Babel-中支持-TC39-标准的装饰器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=1&sn=c9ae885edf54b015e2072793391f1947#wechat_redirect) 
 - [【前端早读课】2019-01-18-【英】A-UX-Guide-For-Designing-Error-Pages](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=3&sn=5b7ea3d6273a1ffac515a22caffe404a#wechat_redirect) 
 - [【前端早读课】2019-01-18-【第1510期】动效不该难](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=1&sn=51276eaae655b31e6e78fa5ae2094810#wechat_redirect) 
 - [【前端早读课】2019-01-18-【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect) 
