@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-20 18:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-20 22:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -645,6 +645,7 @@
 - [【前端大全】数据结构与算法？看这篇就够了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555546&idx=1&sn=2174aa1407ba70a0fc198c9974d0b753#wechat_redirect)
 - [【前端大全】即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect)
 - [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
+- [【前端之巅】为什么说GraphQL可以取代REST-API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490309&idx=1&sn=ae433cdd36ed969894e20304c0dd5556#wechat_redirect)
 - [【前端之巅】开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect)
 - [【前端之巅】Netflix：我们为什么要将GraphQL引入前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490124&idx=1&sn=c00ac4b281b3343221f57fcba6bd4d74#wechat_redirect)
 - [【前端之巅】Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect)
