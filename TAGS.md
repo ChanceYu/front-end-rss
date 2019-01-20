@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-20 12:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-20 18:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -515,6 +515,7 @@
 - [【Taobao-FED-|-淘宝前端团队】实现一个-JavaScriptCore-的-debugger-——-iOS-篇](http://taobaofed.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/)
 - [【Taobao-FED-|-淘宝前端团队】机器学习，Hello-World-from-Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/)
 - [【Taobao-FED-|-淘宝前端团队】使用-ES-decorators-构建一致性-API](http://taobaofed.org/blog/2017/04/27/building-consistent-api-with-es-decorators/)
+- [【张鑫旭-鑫空间-鑫生活】粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-如何HTML标签和JS中设置CSS3-var变量](https://www.zhangxinxu.com/wordpress/2018/11/html-js-set-css-css3-var%e5%8f%98%e9%87%8f/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-scroll-behavior和JS-scrollIntoView让页面滚动平滑](https://www.zhangxinxu.com/wordpress/2018/10/scroll-behavior-scrollintoview-%e5%b9%b3%e6%bb%91%e6%bb%9a%e5%8a%a8/)
 - [【张鑫旭-鑫空间-鑫生活】直接剪切板粘贴上传图片的前端JS实现](https://www.zhangxinxu.com/wordpress/2018/09/ajax-upload-image-from-clipboard/)
