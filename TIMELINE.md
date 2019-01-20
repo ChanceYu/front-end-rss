@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-19 22:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-20 12:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,6 +152,7 @@
 - [【阮一峰的网络日志】2019-01-11-每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html) 
 - [【阮一峰的网络日志】2019-01-04-每周分享第-38-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html) 
 - [【阮一峰的网络日志】2019-01-03-站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html) 
+- [【前端里】2019-01-20-精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html) 
 - [【前端里】2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html) 
 - [【前端里】2019-01-13-精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html) 
 - [【前端里】2019-01-09-精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html) 

@@ -2,17 +2,17 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-19 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-20 12:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -246,8 +246,8 @@
 </summary>
 
 
-- [2019-01-19-面向对象：需要个杭州的小哥哥惦念着](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555751&idx=2&sn=b89c24451b57fe400cd60bee6d8f1867#wechat_redirect) ![](assets/new.png)  
-- [2019-01-19-从零到一：实现通用一镜到底-H5](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555751&idx=1&sn=d04f23636d9cbebc7eade0ec850bcd30#wechat_redirect) ![](assets/new.png)  
+- [2019-01-19-面向对象：需要个杭州的小哥哥惦念着](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555751&idx=2&sn=b89c24451b57fe400cd60bee6d8f1867#wechat_redirect)  
+- [2019-01-19-从零到一：实现通用一镜到底-H5](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555751&idx=1&sn=d04f23636d9cbebc7eade0ec850bcd30#wechat_redirect)  
 - [2019-01-18-面向对象：有趣的灵魂一起，共度三餐四季，共赏世间风景](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=2&sn=26eaa568e8824e6a0f367280b6ba6d63#wechat_redirect)  
 - [2019-01-18-原生-JS-实现移动端-Touch-滑动反弹](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=1&sn=eafa7637eab46de553a61e3014677291#wechat_redirect)  
 - [2019-01-17-由一个-emoji-引发的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555740&idx=2&sn=68c81ef196b0e7a9ee9823956605ae7f#wechat_redirect)  
@@ -745,6 +745,7 @@
 </summary>
 
 
+- [2019-01-20-精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html) ![](assets/new.png)  
 - [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html)  
 - [2019-01-13-精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html)  
 - [2019-01-09-精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)  

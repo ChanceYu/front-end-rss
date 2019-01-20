@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-19 22:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-20 12:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1040,6 +1040,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html)
