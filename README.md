@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-20 22:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-21 08:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-01-21-【招聘】深信服科技招40名前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=3&sn=e471a7411446efc569db584673753f21#wechat_redirect) ![](assets/new.png)  
+- [2019-01-21-2018-掘金年度回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=2&sn=886932b5c32fd2b0c416d71fd857a23c#wechat_redirect) ![](assets/new.png)  
+- [2019-01-21-【第1512期】-世界是平的吗？——从不同角度看前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=1&sn=44e15a7829532b1e7c512a26ea1d7523#wechat_redirect) ![](assets/new.png)  
 - [2019-01-19-【招聘】北京水滴互助招聘中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=2&sn=06c7600cf3de18977eaf985770887a06#wechat_redirect)  
 - [2019-01-19-【第1511期】在-Babel-中支持-TC39-标准的装饰器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=1&sn=c9ae885edf54b015e2072793391f1947#wechat_redirect)  
 - [2019-01-18-【英】A-UX-Guide-For-Designing-Error-Pages](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=3&sn=5b7ea3d6273a1ffac515a22caffe404a#wechat_redirect)  
@@ -483,7 +486,7 @@
 </summary>
 
 
-- [2019-01-20-为什么说GraphQL可以取代REST-API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490309&idx=1&sn=ae433cdd36ed969894e20304c0dd5556#wechat_redirect) ![](assets/new.png)  
+- [2019-01-20-为什么说GraphQL可以取代REST-API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490309&idx=1&sn=ae433cdd36ed969894e20304c0dd5556#wechat_redirect)  
 - [2019-01-19-Fuchsia被证实支持Android应用，今年5月即可体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490304&idx=1&sn=8d569372a94f211f38fec6986ce492b1#wechat_redirect)  
 - [2019-01-18-从前后端分离到GraphQL，携程如何用Node实现？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490300&idx=1&sn=5b6230e7d0d1c8120ee4b41e8f71fd35#wechat_redirect)  
 - [2019-01-17-大前端的下一站何去何从？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490294&idx=1&sn=b5ca2f29f6d6a0e1e0d6d02385db89f0#wechat_redirect)  
