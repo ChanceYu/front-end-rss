@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-23 06:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-23 08:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,8 @@
 </summary>
 
 
+- [【前端早读课】2019-01-23-【招聘】上海HYPERS-前端团队招3～5名前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=2&sn=276a1fbcc513f7c9abb1c625253c3248#wechat_redirect) 
+- [【前端早读课】2019-01-23-【第1514期】2018年-JavaScript-明星项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=1&sn=9c6a7c73eb8f0930a10cb925a76bcab2#wechat_redirect) 
 - [【前端早读课】2019-01-22-【招聘】上海讯联数据招聘10名前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=3&sn=f4fd56f113e0407f9a237f5dfcd78454#wechat_redirect) 
 - [【前端早读课】2019-01-22-【第1513期】精读《国际化布局---Logical-Properties》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=2&sn=933e5b8767995a5aa198c3192c44165d#wechat_redirect) 
 - [【前端早读课】2019-01-22-3分钟打开Web-3D图形学的大门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=1&sn=629df84a6b83bc426f7a23cf438cf60b#wechat_redirect) 

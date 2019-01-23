@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-23 06:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-23 08:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -435,6 +435,7 @@
 
 
 
+- [【前端早读课】【第1514期】2018年-JavaScript-明星项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=1&sn=9c6a7c73eb8f0930a10cb925a76bcab2#wechat_redirect)
 - [【前端早读课】【第1508期】深入浅出-Javascript-Decorators-和-AOP-编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231038&idx=2&sn=9db6bf8444244966bbc9d1a6228e7f5c#wechat_redirect)
 - [【前端早读课】【英】Computer-science-in-JavaScript-2019:-Linked-list](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=2&sn=2f4529ec9fc3cfa719505649d397c624#wechat_redirect)
 - [【前端早读课】【第1506期】JavaScript工程项目的一系列最佳实践策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231007&idx=1&sn=dca208ff5655a9c87b6254e6443b8dd0#wechat_redirect)
@@ -706,6 +707,7 @@
 
 
 
+- [【前端早读课】【招聘】上海HYPERS-前端团队招3～5名前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=2&sn=276a1fbcc513f7c9abb1c625253c3248#wechat_redirect)
 - [【前端早读课】【招聘】上海讯联数据招聘10名前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=3&sn=f4fd56f113e0407f9a237f5dfcd78454#wechat_redirect)
 - [【前端早读课】【招聘】深信服科技招40名前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231213&idx=3&sn=e471a7411446efc569db584673753f21#wechat_redirect)
 - [【前端早读课】【招聘】北京水滴互助招聘中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231204&idx=2&sn=06c7600cf3de18977eaf985770887a06#wechat_redirect)
