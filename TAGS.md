@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-24 22:00:31。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-25 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -847,6 +847,8 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect)
+- [【前端大全】基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect)
 - [【前端大全】decrator（修饰器）的业务应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555774&idx=1&sn=46e774e811db7799e535a8e23e7c4165#wechat_redirect)
 - [【前端大全】当在浏览器中输入-google.com-并回车，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555760&idx=2&sn=2f3fc4d070abc66b721cd662f22ec42c#wechat_redirect)
 - [【前端大全】想在2019加薪的程序员们！这是你现在要注意的事情！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555760&idx=1&sn=1fc12762873b3da411aa9efe66afae14#wechat_redirect)
