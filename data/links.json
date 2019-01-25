@@ -3073,6 +3073,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS var变量的局部作用域特性",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/",
+        "date": "2019-01-26"
+      },
+      {
         "title": "粉丝群第27期JS基础小测答疑文字版",
         "link": "https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/",
         "date": "2019-01-20"
