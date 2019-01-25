@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-25 08:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-25 12:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -173,6 +173,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-01-11-分享三个纯CSS实现26个英文字母的案例](https://www.zhangxinxu.com/wordpress/2019/01/pure-css-26-letters/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-10-小tips:-纯CSS实现打字动画效果](https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-05-CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/) 
+- [【阮一峰的网络日志】2019-01-25-每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html) 
 - [【阮一峰的网络日志】2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html) 
 - [【阮一峰的网络日志】2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html) 
 - [【阮一峰的网络日志】2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html) 

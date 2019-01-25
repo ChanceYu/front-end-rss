@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-25 08:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-25 12:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-01-25-【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect) ![](assets/new.png)  
-- [2019-01-25-【第1516期】Ant-Design-情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect) ![](assets/new.png)  
+- [2019-01-25-【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect)  
+- [2019-01-25-【第1516期】Ant-Design-情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect)  
 - [2019-01-24-【招聘】寒冬不裁员-杭州宋小菜招聘资深前端/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=3&sn=e84d1b06097b91ddb9719f37579e05e1#wechat_redirect)  
 - [2019-01-24-【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)  
 - [2019-01-24-【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)  
@@ -725,6 +725,7 @@
 </summary>
 
 
+- [2019-01-25-每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html) ![](assets/new.png)  
 - [2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)  
 - [2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html)  
 - [2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)  
