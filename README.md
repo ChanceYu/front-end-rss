@@ -2,12 +2,12 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-25 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-25 08:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-01-25-【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect) ![](assets/new.png)  
+- [2019-01-25-【第1516期】Ant-Design-情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect) ![](assets/new.png)  
 - [2019-01-24-【招聘】寒冬不裁员-杭州宋小菜招聘资深前端/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=3&sn=e84d1b06097b91ddb9719f37579e05e1#wechat_redirect)  
 - [2019-01-24-【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)  
 - [2019-01-24-【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)  
@@ -257,8 +259,8 @@
 </summary>
 
 
-- [2019-01-25-2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect) ![](assets/new.png)  
-- [2019-01-25-基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect) ![](assets/new.png)  
+- [2019-01-25-2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect)  
+- [2019-01-25-基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect)  
 - [2019-01-23-decrator（修饰器）的业务应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555774&idx=1&sn=46e774e811db7799e535a8e23e7c4165#wechat_redirect)  
 - [2019-01-22-从项目的-star-数看2018年-JavaScript-生态圈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555755&idx=1&sn=f07bd6e66de4ae44f8f995c94831df72#wechat_redirect)  
 - [2019-01-22-当在浏览器中输入-google.com-并回车，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555760&idx=2&sn=2f3fc4d070abc66b721cd662f22ec42c#wechat_redirect)  

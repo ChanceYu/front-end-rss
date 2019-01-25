@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-25 06:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-25 08:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,8 @@
 </summary>
 
 
+- [【前端早读课】2019-01-25-【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect) 
+- [【前端早读课】2019-01-25-【第1516期】Ant-Design-情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect) 
 - [【前端早读课】2019-01-24-【招聘】寒冬不裁员-杭州宋小菜招聘资深前端/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=3&sn=e84d1b06097b91ddb9719f37579e05e1#wechat_redirect) 
 - [【前端早读课】2019-01-24-【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect) 
 - [【前端早读课】2019-01-24-【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect) 
