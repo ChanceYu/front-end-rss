@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-26 08:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-27 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -111,6 +111,10 @@
 - [【前端早读课】2019-01-02-【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect) 
 - [【前端早读课】2019-01-02-【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect) 
 - [【前端早读课】2019-01-01-你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect) 
+- [【前端大全】2019-01-26-面向对象：择一人深爱，等一人终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=2&sn=cb5d4cc13c6bcc9fd74dd88edc508856#wechat_redirect) 
+- [【前端大全】2019-01-26-移动应用框架-Ionic-4-正式版发布：Ionic-for-Everyone](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=1&sn=2bf613e82d6c5271f18cc75d9877799e#wechat_redirect) 
+- [【前端大全】2019-01-26-当测试和开发相恋后，她们是这样报喜的～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=2&sn=4ed9c9b4a17a401219f2e9591ce07f2c#wechat_redirect) 
+- [【前端大全】2019-01-26-2018年-JavaScript-明星项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=1&sn=72d88ae4703d8aa87dd01b9aa949dd4d#wechat_redirect) 
 - [【前端大全】2019-01-25-2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect) 
 - [【前端大全】2019-01-25-基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect) 
 - [【前端大全】2019-01-23-decrator（修饰器）的业务应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555774&idx=1&sn=46e774e811db7799e535a8e23e7c4165#wechat_redirect) 
@@ -169,6 +173,7 @@
 - [【前端之巅】2019-01-03-开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect) 
 - [【前端之巅】2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
 - [【Taobao-FED-|-淘宝前端团队】2019-01-07-imgcook-体验版发布](http://taobaofed.org/blog/2019/01/07/imgcook/) 
+- [【张鑫旭-鑫空间-鑫生活】2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-14-常见的CSS图形绘制合集](https://www.zhangxinxu.com/wordpress/2019/01/pure-css-shapes/) 

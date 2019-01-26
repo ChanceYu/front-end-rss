@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-26 08:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-27 06:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -464,6 +464,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】2018年-JavaScript-明星项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=1&sn=72d88ae4703d8aa87dd01b9aa949dd4d#wechat_redirect)
 - [【前端大全】从项目的-star-数看2018年-JavaScript-生态圈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555755&idx=1&sn=f07bd6e66de4ae44f8f995c94831df72#wechat_redirect)
 - [【前端大全】原生-JS-实现移动端-Touch-滑动反弹](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555746&idx=1&sn=eafa7637eab46de553a61e3014677291#wechat_redirect)
 - [【前端大全】JavaScript-的数据类型及其检测](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555705&idx=1&sn=37cc51f48396b080778bd56ff25f6e03#wechat_redirect)
@@ -852,6 +853,9 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】面向对象：择一人深爱，等一人终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=2&sn=cb5d4cc13c6bcc9fd74dd88edc508856#wechat_redirect)
+- [【前端大全】移动应用框架-Ionic-4-正式版发布：Ionic-for-Everyone](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=1&sn=2bf613e82d6c5271f18cc75d9877799e#wechat_redirect)
+- [【前端大全】当测试和开发相恋后，她们是这样报喜的～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=2&sn=4ed9c9b4a17a401219f2e9591ce07f2c#wechat_redirect)
 - [【前端大全】2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect)
 - [【前端大全】基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect)
 - [【前端大全】decrator（修饰器）的业务应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555774&idx=1&sn=46e774e811db7799e535a8e23e7c4165#wechat_redirect)
@@ -1031,6 +1035,7 @@
 - [【Taobao-FED-|-淘宝前端团队】活用-Shader，让你的页面更小，更炫，更快](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/)
 - [【Taobao-FED-|-淘宝前端团队】淘宝技术部-2018-实习生内部推荐启动啦](http://taobaofed.org/blog/2018/02/27/2018-intern-recruitment/)
 - [【Taobao-FED-|-淘宝前端团队】LevelDB-实现分析](http://taobaofed.org/blog/2017/07/05/leveldb-analysis/)
+- [【张鑫旭-鑫空间-鑫生活】DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/)
 - [【张鑫旭-鑫空间-鑫生活】杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/)
 - [【张鑫旭-鑫空间-鑫生活】写给自己看的display:-grid布局教程](https://www.zhangxinxu.com/wordpress/2018/11/display-grid-css-css3/)
 - [【张鑫旭-鑫空间-鑫生活】数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)
