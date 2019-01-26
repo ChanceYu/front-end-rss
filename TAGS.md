@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-26 06:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-26 08:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -713,6 +713,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect)
 - [【前端早读课】【招聘】寒冬不裁员-杭州宋小菜招聘资深前端/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=3&sn=e84d1b06097b91ddb9719f37579e05e1#wechat_redirect)
 - [【前端早读课】【招聘】上海HYPERS-前端团队招3～5名前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231256&idx=2&sn=276a1fbcc513f7c9abb1c625253c3248#wechat_redirect)
 - [【前端早读课】【招聘】上海讯联数据招聘10名前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=3&sn=f4fd56f113e0407f9a237f5dfcd78454#wechat_redirect)
@@ -751,6 +752,7 @@
 
 
 
+- [【前端早读课】【第1517期】给2019前端的5个建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=1&sn=607f14a97d9d5aa45ce7e0c16db1718a#wechat_redirect)
 - [【前端早读课】【第1516期】Ant-Design-情感化设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=1&sn=33240b5c2f35dd53d1acf96a70f2a814#wechat_redirect)
 - [【前端早读课】【第1513期】精读《国际化布局---Logical-Properties》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=2&sn=933e5b8767995a5aa198c3192c44165d#wechat_redirect)
 - [【前端早读课】3分钟打开Web-3D图形学的大门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=1&sn=629df84a6b83bc426f7a23cf438cf60b#wechat_redirect)
