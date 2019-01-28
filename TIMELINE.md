@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-28 06:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-28 08:00:50。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,8 @@
 </summary>
 
 
+- [【前端早读课】2019-01-28-【招聘】成都知道创宇招聘前端开发工程师（含实习生）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=2&sn=6db2b8dbe5115f4132e96ba6ff534ae2#wechat_redirect) 
+- [【前端早读课】2019-01-28-【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect) 
 - [【前端早读课】2019-01-27-【招聘】阿里lazada深圳团队招P5～7前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=2&sn=a220bc2acfae5590bb240266a468a252#wechat_redirect) 
 - [【前端早读课】2019-01-27-【第1518期】2019-前端性能优化年度总结-—-第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=1&sn=54504bba21ecfd345348d25e23178f80#wechat_redirect) 
 - [【前端早读课】2019-01-26-【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect) 

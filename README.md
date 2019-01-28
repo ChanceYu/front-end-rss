@@ -2,12 +2,12 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-28 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-28 08:00:50，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-01-28-【招聘】成都知道创宇招聘前端开发工程师（含实习生）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=2&sn=6db2b8dbe5115f4132e96ba6ff534ae2#wechat_redirect) ![](assets/new.png)  
+- [2019-01-28-【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect) ![](assets/new.png)  
 - [2019-01-27-【招聘】阿里lazada深圳团队招P5～7前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=2&sn=a220bc2acfae5590bb240266a468a252#wechat_redirect)  
 - [2019-01-27-【第1518期】2019-前端性能优化年度总结-—-第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=1&sn=54504bba21ecfd345348d25e23178f80#wechat_redirect)  
 - [2019-01-26-【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect)  
@@ -263,8 +265,8 @@
 </summary>
 
 
-- [2019-01-27-面向对象：一个外表大咧开朗，骨子里传统有原则的女生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=2&sn=efcdb3237cf477b4b6a2ec3908751f33#wechat_redirect) ![](assets/new.png)  
-- [2019-01-27-当-fetch-遇到-302-状态码，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=1&sn=89ea114ef676b2fcd1d0045c42126adc#wechat_redirect) ![](assets/new.png)  
+- [2019-01-27-面向对象：一个外表大咧开朗，骨子里传统有原则的女生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=2&sn=efcdb3237cf477b4b6a2ec3908751f33#wechat_redirect)  
+- [2019-01-27-当-fetch-遇到-302-状态码，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=1&sn=89ea114ef676b2fcd1d0045c42126adc#wechat_redirect)  
 - [2019-01-26-面向对象：择一人深爱，等一人终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=2&sn=cb5d4cc13c6bcc9fd74dd88edc508856#wechat_redirect)  
 - [2019-01-26-移动应用框架-Ionic-4-正式版发布：Ionic-for-Everyone](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=1&sn=2bf613e82d6c5271f18cc75d9877799e#wechat_redirect)  
 - [2019-01-26-当测试和开发相恋后，她们是这样报喜的～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=2&sn=4ed9c9b4a17a401219f2e9591ce07f2c#wechat_redirect)  
