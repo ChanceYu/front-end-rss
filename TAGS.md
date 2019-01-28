@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-01-28 08:00:50。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-01-28 12:00:18。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1052,6 +1052,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html)
 - [【阮一峰的网络日志】每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)
 - [【阮一峰的网络日志】每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)
 - [【阮一峰的网络日志】罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html)
@@ -1104,6 +1105,7 @@
 - [【前端里】移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html)
 - [【前端里】玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html)
 - [【前端里】nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html)
+- [【JDC-|-京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【JDC-|-京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【JDC-|-京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【JDC-|-京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)

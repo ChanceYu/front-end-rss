@@ -3380,6 +3380,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Prolog 语言入门教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/01/prolog.html",
+        "date": "2019-01-28"
+      },
+      {
         "title": "每周分享第 41 期",
         "link": "http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html",
         "date": "2019-01-25"
@@ -3773,6 +3778,11 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "8个常见的研究者认知偏误陷阱",
+        "link": "https://jdc.jd.com/archives/212946",
+        "date": "2019-01-28"
+      },
       {
         "title": "用户访谈——哪些原则简单却有效",
         "link": "https://jdc.jd.com/archives/212927",

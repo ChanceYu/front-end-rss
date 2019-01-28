@@ -2,18 +2,18 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-28 08:00:50，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-28 12:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
 - [Aotu.io](#aotu.io)  
 
 ## 文章链接
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-01-28-【招聘】成都知道创宇招聘前端开发工程师（含实习生）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=2&sn=6db2b8dbe5115f4132e96ba6ff534ae2#wechat_redirect) ![](assets/new.png)  
-- [2019-01-28-【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect) ![](assets/new.png)  
+- [2019-01-28-【招聘】成都知道创宇招聘前端开发工程师（含实习生）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=2&sn=6db2b8dbe5115f4132e96ba6ff534ae2#wechat_redirect)  
+- [2019-01-28-【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect)  
 - [2019-01-27-【招聘】阿里lazada深圳团队招P5～7前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=2&sn=a220bc2acfae5590bb240266a468a252#wechat_redirect)  
 - [2019-01-27-【第1518期】2019-前端性能优化年度总结-—-第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=1&sn=54504bba21ecfd345348d25e23178f80#wechat_redirect)  
 - [2019-01-26-【招聘】阿里大数据招聘那种前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231272&idx=2&sn=de787b8c8a7ce8ee76bc38b4ffaa8cb7#wechat_redirect)  
@@ -742,6 +742,7 @@
 </summary>
 
 
+- [2019-01-28-Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html) ![](assets/new.png)  
 - [2019-01-25-每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)  
 - [2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)  
 - [2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html)  
@@ -838,6 +839,7 @@
 </summary>
 
 
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)  
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)  
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874)  

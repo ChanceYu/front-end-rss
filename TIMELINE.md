@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-28 08:00:50。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-28 12:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-01-11-分享三个纯CSS实现26个英文字母的案例](https://www.zhangxinxu.com/wordpress/2019/01/pure-css-26-letters/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-10-小tips:-纯CSS实现打字动画效果](https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-05-CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/) 
+- [【阮一峰的网络日志】2019-01-28-Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html) 
 - [【阮一峰的网络日志】2019-01-25-每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html) 
 - [【阮一峰的网络日志】2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html) 
 - [【阮一峰的网络日志】2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html) 
@@ -203,6 +204,7 @@
 - [【前端里】2019-01-09-精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html) 
 - [【前端里】2019-01-05-传说这个是-35-个最好用-Vue-开源库](http://www.yyyweb.com/5231.html) 
 - [【前端里】2019-01-04-精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html) 
+- [【JDC-|-京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [【JDC-|-京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
