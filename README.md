@@ -2,15 +2,15 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-01-30 22:00:59，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-01-31 06:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -270,9 +270,9 @@
 </summary>
 
 
-- [2019-01-30-微软工程师认为-Mozilla-也应该拥抱-Chromium](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555817&idx=1&sn=65587cca3039a50dcecd857ef66be818#wechat_redirect) ![](assets/new.png)  
-- [2019-01-30-面向对象：余愿，知你冷暖，懂你悲欢，与你共黄昏，也能问你粥可温](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=2&sn=bf6f18272728d5b5c8eee74880907804#wechat_redirect) ![](assets/new.png)  
-- [2019-01-30-HackerRank：JavaScript-是最知名的编程语言](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=1&sn=ef7cddca18f2793c1e8990367916edf8#wechat_redirect) ![](assets/new.png)  
+- [2019-01-30-微软工程师认为-Mozilla-也应该拥抱-Chromium](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555817&idx=1&sn=65587cca3039a50dcecd857ef66be818#wechat_redirect)  
+- [2019-01-30-面向对象：余愿，知你冷暖，懂你悲欢，与你共黄昏，也能问你粥可温](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=2&sn=bf6f18272728d5b5c8eee74880907804#wechat_redirect)  
+- [2019-01-30-HackerRank：JavaScript-是最知名的编程语言](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=1&sn=ef7cddca18f2793c1e8990367916edf8#wechat_redirect)  
 - [2019-01-28-面向对象：我希望我的爱人：他懂我，我懂他，互相理解支持](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555812&idx=2&sn=14caa9f8ee39e7b0079995c673c2b799#wechat_redirect)  
 - [2019-01-28-2019-给前端的-5-个建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555812&idx=1&sn=7bc15cd8ee4869cd0567d5f6e54c6bdf#wechat_redirect)  
 - [2019-01-27-面向对象：一个外表大咧开朗，骨子里传统有原则的女生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=2&sn=efcdb3237cf477b4b6a2ec3908751f33#wechat_redirect)  
@@ -526,7 +526,7 @@
 </summary>
 
 
-- [2019-01-30-koa-router被公开叫卖，周下载10W+只要5000刀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490379&idx=1&sn=2db10d088a1845e3f6eca1b3eed3610b#wechat_redirect) ![](assets/new.png)  
+- [2019-01-30-koa-router被公开叫卖，周下载10W+只要5000刀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490379&idx=1&sn=2db10d088a1845e3f6eca1b3eed3610b#wechat_redirect)  
 - [2019-01-30-距离最好的编程语言，JavaScript还缺些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490371&idx=1&sn=f434177a5dc1445ed07b8b84671dcc90#wechat_redirect)  
 - [2019-01-28-重磅！滴滴开源跨平台统一MVVM框架Chameleon](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490363&idx=1&sn=f29d5605f5ff78b5b9901c183471f669#wechat_redirect)  
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect)  
@@ -700,6 +700,7 @@
 </summary>
 
 
+- [2019-01-31-写给自己看的CSS-columns分栏布局教程](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-columns-layout/) ![](assets/new.png)  
 - [2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/)  
 - [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/)  
 - [2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/)  

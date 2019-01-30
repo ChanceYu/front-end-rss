@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-30 22:00:59。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-31 06:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -195,6 +195,7 @@
 - [【前端之巅】2019-01-03-开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect) 
 - [【前端之巅】2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
 - [【Taobao-FED-|-淘宝前端团队】2019-01-07-imgcook-体验版发布](http://taobaofed.org/blog/2019/01/07/imgcook/) 
+- [【张鑫旭-鑫空间-鑫生活】2019-01-31-写给自己看的CSS-columns分栏布局教程](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-columns-layout/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/) 

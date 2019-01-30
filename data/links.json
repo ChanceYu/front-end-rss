@@ -3213,6 +3213,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "写给自己看的CSS columns分栏布局教程",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/01/css-css3-columns-layout/",
+        "date": "2019-01-31"
+      },
+      {
         "title": "DOM基础小测27期答疑文字版-窗体滚动二三事",
         "link": "https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/",
         "date": "2019-01-26"
