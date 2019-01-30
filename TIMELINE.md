@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-30 12:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-30 22:00:59。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -120,6 +120,9 @@
 - [【前端早读课】2019-01-02-【招聘】上海拼多多招资深Web前端开发工程师（社交方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=2&sn=eb50a66f00c010ce964a3c68cf032039#wechat_redirect) 
 - [【前端早读课】2019-01-02-【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect) 
 - [【前端早读课】2019-01-01-你好，2019。你好，前端早读课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230859&idx=1&sn=d2af06dc2316137a581747e0efb33acc#wechat_redirect) 
+- [【前端大全】2019-01-30-微软工程师认为-Mozilla-也应该拥抱-Chromium](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555817&idx=1&sn=65587cca3039a50dcecd857ef66be818#wechat_redirect) 
+- [【前端大全】2019-01-30-面向对象：余愿，知你冷暖，懂你悲欢，与你共黄昏，也能问你粥可温](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=2&sn=bf6f18272728d5b5c8eee74880907804#wechat_redirect) 
+- [【前端大全】2019-01-30-HackerRank：JavaScript-是最知名的编程语言](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=1&sn=ef7cddca18f2793c1e8990367916edf8#wechat_redirect) 
 - [【前端大全】2019-01-28-面向对象：我希望我的爱人：他懂我，我懂他，互相理解支持](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555812&idx=2&sn=14caa9f8ee39e7b0079995c673c2b799#wechat_redirect) 
 - [【前端大全】2019-01-28-2019-给前端的-5-个建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555812&idx=1&sn=7bc15cd8ee4869cd0567d5f6e54c6bdf#wechat_redirect) 
 - [【前端大全】2019-01-27-面向对象：一个外表大咧开朗，骨子里传统有原则的女生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=2&sn=efcdb3237cf477b4b6a2ec3908751f33#wechat_redirect) 
@@ -162,6 +165,7 @@
 - [【前端大全】2019-01-02-面向对象：待盼君来，从此与君同在](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=2&sn=a1d275379068e06cb2143115f029332f#wechat_redirect) 
 - [【前端大全】2019-01-02-探究-CSS-混合模式滤镜导致-CSS-3D-失效问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555653&idx=1&sn=7b850dea9f924766bc63c9867c08bf32#wechat_redirect) 
 - [【前端大全】2019-01-01-React-和-Vue-到底谁更牛？听听尤雨溪怎么说：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555634&idx=1&sn=aa28971c6e63f5404b24aa1f88d7e39a#wechat_redirect) 
+- [【前端之巅】2019-01-30-koa-router被公开叫卖，周下载10W+只要5000刀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490379&idx=1&sn=2db10d088a1845e3f6eca1b3eed3610b#wechat_redirect) 
 - [【前端之巅】2019-01-30-距离最好的编程语言，JavaScript还缺些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490371&idx=1&sn=f434177a5dc1445ed07b8b84671dcc90#wechat_redirect) 
 - [【前端之巅】2019-01-28-重磅！滴滴开源跨平台统一MVVM框架Chameleon](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490363&idx=1&sn=f29d5605f5ff78b5b9901c183471f669#wechat_redirect) 
 - [【前端之巅】2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect) 
