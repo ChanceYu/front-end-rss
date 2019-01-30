@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-01-30 06:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-01-30 12:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -51,6 +51,11 @@
 </summary>
 
 
+- [【前端早读课】2019-01-30-【招聘】西安思特沃克-招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=2&sn=94b9a71f45de7f9ddee468a0c0e35085#wechat_redirect) 
+- [【前端早读课】2019-01-30-【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect) 
+- [【前端早读课】2019-01-30-【招聘】富途证券诚招前端开发-和-PHP开发（14k~28k）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=3&sn=f0c1e814148ea709f88d79976ecd136a#wechat_redirect) 
+- [【前端早读课】2019-01-30-【微信小游戏】财神养成记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=2&sn=cf50fbcfb9cabd0b69f1a96cdcee96b7#wechat_redirect) 
+- [【前端早读课】2019-01-30-【第1521期】Chameleon跨端框架—一个理想主义团队的开源作品](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=1&sn=f4b342d81c4bd4b0f09f4cd491d3a90a#wechat_redirect) 
 - [【前端早读课】2019-01-28-【招聘】成都知道创宇招聘前端开发工程师（含实习生）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=2&sn=6db2b8dbe5115f4132e96ba6ff534ae2#wechat_redirect) 
 - [【前端早读课】2019-01-28-【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect) 
 - [【前端早读课】2019-01-27-【招聘】阿里lazada深圳团队招P5～7前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=2&sn=a220bc2acfae5590bb240266a468a252#wechat_redirect) 
