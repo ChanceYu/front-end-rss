@@ -3450,6 +3450,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "一段音频",
+        "link": "http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html",
+        "date": "2019-01-31"
+      },
+      {
         "title": "Prolog 语言入门教程",
         "link": "http://www.ruanyifeng.com/blog/2019/01/prolog.html",
         "date": "2019-01-28"
