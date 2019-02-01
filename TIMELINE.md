@@ -1,7 +1,8 @@
-:alarm_clock: 更新时间: 2019-01-31 22:00:30。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-01 12:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
+- [2019-02](#2019-02) 
 - [2019-01](#2019-01) 
 - [2018-12](#2018-12) 
 - [2018-11](#2018-11) 
@@ -44,6 +45,17 @@
 - [2015-10](#2015-10) 
 
 ## 文章链接
+
+<details open>
+<summary id="2019-02">
+ 2019-02
+</summary>
+
+
+- [【阮一峰的网络日志】2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2019-01">
