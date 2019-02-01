@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-01 12:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-01 22:00:33。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,9 @@
 </summary>
 
 
+- [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
+- [【前端之巅】2019-02-01-杀鸡儆猴！苹果撤销Facebook的iOS企业证书](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490387&idx=1&sn=b57f34a139062990207f7cb92f590b81#wechat_redirect) 
+- [【前端之巅】2019-02-01-为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect) 
 - [【阮一峰的网络日志】2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
