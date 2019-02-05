@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-05 22:00:36，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-06 06:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -271,7 +271,7 @@
 </summary>
 
 
-- [2019-02-05-九种跨域方式实现原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555851&idx=1&sn=8022abfe1f84b3ac8d29f1d1291b557b#wechat_redirect) ![](assets/new.png)  
+- [2019-02-05-九种跨域方式实现原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555851&idx=1&sn=8022abfe1f84b3ac8d29f1d1291b557b#wechat_redirect)  
 - [2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect)  
 - [2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect)  
 - [2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect)  
@@ -532,6 +532,9 @@
 </summary>
 
 
+- [2019-02-06-如何通俗易懂地解释React生命周期方法？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d#wechat_redirect) ![](assets/new.png)  
+- [2019-02-06-Vue-3.0对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490411&idx=1&sn=d7a3147822917414585bcc609df85216#wechat_redirect) ![](assets/new.png)  
+- [2019-02-06-新年特供！10本热门前端书籍送给你](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490416&idx=1&sn=8296526be322ff4adf257e8ea0715f29#wechat_redirect) ![](assets/new.png)  
 - [2019-02-01-杀鸡儆猴！苹果撤销Facebook的iOS企业证书](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490387&idx=1&sn=b57f34a139062990207f7cb92f590b81#wechat_redirect)  
 - [2019-02-01-为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect)  
 - [2019-01-30-koa-router被公开叫卖，周下载10W+只要5000刀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490379&idx=1&sn=2db10d088a1845e3f6eca1b3eed3610b#wechat_redirect)  
