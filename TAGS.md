@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-04 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-05 12:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -109,6 +109,7 @@
 
 
 
+- [【前端早读课】【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect)
 - [【前端早读课】【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect)
 - [【前端早读课】【英】Vue-Development-In-2019:-What-You-Need-To-Know](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=2&sn=ebb7b6136a6f045e43d199b7543d0f54#wechat_redirect)
 - [【前端早读课】【第1485期】初探-Vue3.0-中的一大亮点——Proxy-!](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=1&sn=74e7cc2fd57e416f8ca0035c4e04c431#wechat_redirect)

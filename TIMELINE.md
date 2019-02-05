@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-04 06:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-05 12:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,7 @@
 </summary>
 
 
+- [【前端早读课】2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) 
 - [【前端大全】2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect) 
 - [【前端大全】2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect) 
 - [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
