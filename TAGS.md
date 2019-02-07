@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-06 06:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-07 18:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -33,6 +33,7 @@
 
 
 
+- [【前端早读课】【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect)
 - [【前端早读课】【第1507期】从-loading-的-9-种写法谈-React-业务开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=2&sn=fa765c7b849b2290877052edb4c41eb1#wechat_redirect)
 - [【前端早读课】【第1497期】React组件文档解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=1&sn=3868eac44ea9166ce2d9defb8bd30bc6#wechat_redirect)
 - [【前端早读课】【第1494期】React-的今天和明天（图文版）第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230866&idx=1&sn=d26a10f18ec037e103b80300eff1a8bf#wechat_redirect)
@@ -149,6 +150,7 @@
 - [【前端大全】Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect)
 - [【前端大全】深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [【前端大全】自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect)
+- [【前端之巅】Vue-2.6发布：新语法、性能改进、向3.0看齐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490421&idx=1&sn=354c9791f93f7d14107b80ad9a87ac2b#wechat_redirect)
 - [【前端之巅】Vue-3.0对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490411&idx=1&sn=d7a3147822917414585bcc609df85216#wechat_redirect)
 - [【前端之巅】力荐35个最好用的Vue开源库！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490187&idx=1&sn=70fc827b895c150ad9a2482acd190ed1#wechat_redirect)
 - [【前端之巅】如何使用Vue-CLI-3加速你的开发工作流？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490112&idx=1&sn=a67cf0b647e3a1b7e739a60cc9b17563#wechat_redirect)
@@ -1079,6 +1081,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)
 - [【阮一峰的网络日志】每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)
 - [【阮一峰的网络日志】Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html)
 - [【阮一峰的网络日志】每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)

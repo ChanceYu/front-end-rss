@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-06 06:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-07 18:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,17 +52,20 @@
 </summary>
 
 
+- [【前端早读课】2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) 
 - [【前端早读课】2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) 
 - [【前端大全】2019-02-05-九种跨域方式实现原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555851&idx=1&sn=8022abfe1f84b3ac8d29f1d1291b557b#wechat_redirect) 
 - [【前端大全】2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect) 
 - [【前端大全】2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect) 
 - [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
+- [【前端之巅】2019-02-07-Vue-2.6发布：新语法、性能改进、向3.0看齐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490421&idx=1&sn=354c9791f93f7d14107b80ad9a87ac2b#wechat_redirect) 
 - [【前端之巅】2019-02-06-如何通俗易懂地解释React生命周期方法？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d#wechat_redirect) 
 - [【前端之巅】2019-02-06-Vue-3.0对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490411&idx=1&sn=d7a3147822917414585bcc609df85216#wechat_redirect) 
 - [【前端之巅】2019-02-06-新年特供！10本热门前端书籍送给你](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490416&idx=1&sn=8296526be322ff4adf257e8ea0715f29#wechat_redirect) 
 - [【前端之巅】2019-02-01-杀鸡儆猴！苹果撤销Facebook的iOS企业证书](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490387&idx=1&sn=b57f34a139062990207f7cb92f590b81#wechat_redirect) 
 - [【前端之巅】2019-02-01-为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2019-02-02-写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/) 
+- [【阮一峰的网络日志】2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html) 
 - [【阮一峰的网络日志】2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

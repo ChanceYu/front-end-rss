@@ -5,6 +5,11 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【英】React v16.8发布",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect",
+        "date": "2019-02-07"
+      },
+      {
         "title": "【第1522期】Vue 2.6 发布了",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect",
         "date": "2019-02-05"
@@ -2459,6 +2464,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "Vue 2.6发布：新语法、性能改进、向3.0看齐",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490421&idx=1&sn=354c9791f93f7d14107b80ad9a87ac2b#wechat_redirect",
+        "date": "2019-02-07"
+      },
+      {
         "title": "如何通俗易懂地解释React生命周期方法？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d#wechat_redirect",
         "date": "2019-02-06"
@@ -3509,6 +3519,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "找回密码的功能设计",
+        "link": "http://www.ruanyifeng.com/blog/2019/02/password.html",
+        "date": "2019-02-07"
+      },
       {
         "title": "每周分享第 42 期",
         "link": "http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html",

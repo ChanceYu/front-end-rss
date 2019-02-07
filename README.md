@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-06 06:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-07 18:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,6 +24,7 @@
 </summary>
 
 
+- [2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) ![](assets/new.png)  
 - [2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect)  
 - [2019-01-30-【招聘】西安思特沃克-招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=2&sn=94b9a71f45de7f9ddee468a0c0e35085#wechat_redirect)  
 - [2019-01-30-【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect)  
@@ -532,9 +533,10 @@
 </summary>
 
 
-- [2019-02-06-如何通俗易懂地解释React生命周期方法？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d#wechat_redirect) ![](assets/new.png)  
-- [2019-02-06-Vue-3.0对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490411&idx=1&sn=d7a3147822917414585bcc609df85216#wechat_redirect) ![](assets/new.png)  
-- [2019-02-06-新年特供！10本热门前端书籍送给你](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490416&idx=1&sn=8296526be322ff4adf257e8ea0715f29#wechat_redirect) ![](assets/new.png)  
+- [2019-02-07-Vue-2.6发布：新语法、性能改进、向3.0看齐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490421&idx=1&sn=354c9791f93f7d14107b80ad9a87ac2b#wechat_redirect) ![](assets/new.png)  
+- [2019-02-06-如何通俗易懂地解释React生命周期方法？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d#wechat_redirect)  
+- [2019-02-06-Vue-3.0对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490411&idx=1&sn=d7a3147822917414585bcc609df85216#wechat_redirect)  
+- [2019-02-06-新年特供！10本热门前端书籍送给你](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490416&idx=1&sn=8296526be322ff4adf257e8ea0715f29#wechat_redirect)  
 - [2019-02-01-杀鸡儆猴！苹果撤销Facebook的iOS企业证书](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490387&idx=1&sn=b57f34a139062990207f7cb92f590b81#wechat_redirect)  
 - [2019-02-01-为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect)  
 - [2019-01-30-koa-router被公开叫卖，周下载10W+只要5000刀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490379&idx=1&sn=2db10d088a1845e3f6eca1b3eed3610b#wechat_redirect)  
@@ -768,6 +770,7 @@
 </summary>
 
 
+- [2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html) ![](assets/new.png)  
 - [2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)  
 - [2019-01-31-一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html)  
 - [2019-01-28-Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html)  
