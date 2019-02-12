@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-07 18:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-12 22:00:32。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -72,6 +72,7 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】React-16.8发布：hooks终于来了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490425&idx=1&sn=776d3afe5ac5c08b18c7cc809efa6b58#wechat_redirect)
 - [【前端之巅】如何通俗易懂地解释React生命周期方法？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490405&idx=1&sn=7c017a93752b7b89873261fa2862833d#wechat_redirect)
 - [【前端之巅】如何用React-+-Rxjs实现一个虚拟滚动组件？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490320&idx=1&sn=07b107857c4c8ab908aa4d1ed53c0b70#wechat_redirect)
 - [【前端之巅】扔掉Create-React-App，打造你自己的React生成工具！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490327&idx=1&sn=6a5ca6600e0212bab88125f16d545585#wechat_redirect)
@@ -215,6 +216,7 @@
 
 
 
+- [【前端早读课】【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect)
 - [【前端早读课】【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect)
 - [【前端早读课】【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect)
 - [【前端早读课】【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect)
@@ -321,6 +323,7 @@
 - [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
+- [【前端之巅】爱奇艺开播助手Flutter跨平台Hybrid实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490431&idx=1&sn=e6b42ee0156f09a841c56e53313a6466#wechat_redirect)
 - [【前端之巅】使用Flutter一年后，这是我得到的经验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490316&idx=1&sn=7e5f81004e944e16f25621aaf7493b22#wechat_redirect)
 - [【前端之巅】Flutter-1.0重磅发布，它还想做桌面和Web开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490048&idx=1&sn=7fc792cccb4182ce2a4f0106658c6fb6#wechat_redirect)
 - [【前端之巅】Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect)
@@ -600,6 +603,7 @@
 - [【前端大全】不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect)
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
 - [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
+- [【张鑫旭-鑫空间-鑫生活】快速了解CSS新出的列选择符双管道（||）](https://www.zhangxinxu.com/wordpress/2019/02/css-column-combinator/)
 - [【张鑫旭-鑫空间-鑫生活】写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/)
 - [【张鑫旭-鑫空间-鑫生活】写给自己看的CSS-columns分栏布局教程](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-columns-layout/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/)
@@ -727,6 +731,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里巴巴淘宝技术部-内容与开放团队招P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=2&sn=5f384125f377e221528851bd6d805b62#wechat_redirect)
 - [【前端早读课】【招聘】西安思特沃克-招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=2&sn=94b9a71f45de7f9ddee468a0c0e35085#wechat_redirect)
 - [【前端早读课】【招聘】富途证券诚招前端开发-和-PHP开发（14k~28k）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=3&sn=f0c1e814148ea709f88d79976ecd136a#wechat_redirect)
 - [【前端早读课】【招聘】成都知道创宇招聘前端开发工程师（含实习生）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=2&sn=6db2b8dbe5115f4132e96ba6ff534ae2#wechat_redirect)
@@ -771,6 +776,7 @@
 
 
 
+- [【前端早读课】【第1524期】页面可视化搭建工具技术要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=1&sn=a40c9061e7f93187838fe7a767658d03#wechat_redirect)
 - [【前端早读课】【第1521期】Chameleon跨端框架—一个理想主义团队的开源作品](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=1&sn=f4b342d81c4bd4b0f09f4cd491d3a90a#wechat_redirect)
 - [【前端早读课】【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect)
 - [【前端早读课】【第1518期】2019-前端性能优化年度总结-—-第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=1&sn=54504bba21ecfd345348d25e23178f80#wechat_redirect)
@@ -874,6 +880,9 @@
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555861&idx=1&sn=806ec8a88779b3bb2ea306154ef216e2#wechat_redirect)
+- [【前端大全】面向对象：不要热情，不要高冷，只要37度的温暖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555857&idx=2&sn=37450fe93bfa8a1817d2b6f1ec59d90d#wechat_redirect)
+- [【前端大全】微软劝你别再使用-IE-浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555857&idx=1&sn=3dc72ff5af6e2790b9e4883ea726c4de#wechat_redirect)
 - [【前端大全】九种跨域方式实现原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555851&idx=1&sn=8022abfe1f84b3ac8d29f1d1291b557b#wechat_redirect)
 - [【前端大全】面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect)
 - [【前端大全】Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect)
@@ -1010,6 +1019,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】初尝Deno，这是我的感受](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490437&idx=1&sn=4b5bd637398137d0b94da19e166a0d91#wechat_redirect)
 - [【前端之巅】新年特供！10本热门前端书籍送给你](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490416&idx=1&sn=8296526be322ff4adf257e8ea0715f29#wechat_redirect)
 - [【前端之巅】杀鸡儆猴！苹果撤销Facebook的iOS企业证书](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490387&idx=1&sn=b57f34a139062990207f7cb92f590b81#wechat_redirect)
 - [【前端之巅】为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect)
@@ -1081,6 +1091,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)
 - [【阮一峰的网络日志】找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)
 - [【阮一峰的网络日志】每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)
 - [【阮一峰的网络日志】Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html)
@@ -1117,6 +1128,7 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)
