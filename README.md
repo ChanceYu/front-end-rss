@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-13 08:00:19，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-13 22:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-02-13-【英】Vue3.0-对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=2&sn=8f8f35f095a4ed28ac6fcc83b45af8cc#wechat_redirect) ![](assets/new.png)  
-- [2019-02-13-【第1525期】Vuex、Flux、Redux、Redux-saga、Dva、MobX](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=1&sn=0e322d1fb0b59710aae98fe9df7d00ae#wechat_redirect) ![](assets/new.png)  
+- [2019-02-13-【英】Vue3.0-对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=2&sn=8f8f35f095a4ed28ac6fcc83b45af8cc#wechat_redirect)  
+- [2019-02-13-【第1525期】Vuex、Flux、Redux、Redux-saga、Dva、MobX](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=1&sn=0e322d1fb0b59710aae98fe9df7d00ae#wechat_redirect)  
 - [2019-02-12-【招聘】阿里巴巴淘宝技术部-内容与开放团队招P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=2&sn=5f384125f377e221528851bd6d805b62#wechat_redirect)  
 - [2019-02-12-【第1524期】页面可视化搭建工具技术要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=1&sn=a40c9061e7f93187838fe7a767658d03#wechat_redirect)  
 - [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect)  
@@ -277,6 +277,8 @@
 </summary>
 
 
+- [2019-02-13-面向对象：希望找一位稳重坦荡的大哥哥，走向远方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=2&sn=620245ed420d2238fc6d53a9dbe461ae#wechat_redirect) ![](assets/new.png)  
+- [2019-02-13-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=1&sn=26fd9453d61cc1f1f0196f29bf202f7a#wechat_redirect) ![](assets/new.png)  
 - [2019-02-12-Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555861&idx=1&sn=806ec8a88779b3bb2ea306154ef216e2#wechat_redirect)  
 - [2019-02-11-面向对象：不要热情，不要高冷，只要37度的温暖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555857&idx=2&sn=37450fe93bfa8a1817d2b6f1ec59d90d#wechat_redirect)  
 - [2019-02-11-微软劝你别再使用-IE-浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555857&idx=1&sn=3dc72ff5af6e2790b9e4883ea726c4de#wechat_redirect)  
@@ -541,6 +543,7 @@
 </summary>
 
 
+- [2019-02-13-全能App研发助手！滴滴开源DoraemonKit](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490445&idx=1&sn=27aba4812c9d4f3f72cbf06e40f77c94#wechat_redirect) ![](assets/new.png)  
 - [2019-02-12-初尝Deno，这是我的感受](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490437&idx=1&sn=4b5bd637398137d0b94da19e166a0d91#wechat_redirect)  
 - [2019-02-11-爱奇艺开播助手Flutter跨平台Hybrid实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490431&idx=1&sn=e6b42ee0156f09a841c56e53313a6466#wechat_redirect)  
 - [2019-02-09-React-16.8发布：hooks终于来了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490425&idx=1&sn=776d3afe5ac5c08b18c7cc809efa6b58#wechat_redirect)  
