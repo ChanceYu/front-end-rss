@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-12 22:00:32。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-13 08:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,8 @@
 </summary>
 
 
+- [【前端早读课】2019-02-13-【英】Vue3.0-对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=2&sn=8f8f35f095a4ed28ac6fcc83b45af8cc#wechat_redirect) 
+- [【前端早读课】2019-02-13-【第1525期】Vuex、Flux、Redux、Redux-saga、Dva、MobX](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=1&sn=0e322d1fb0b59710aae98fe9df7d00ae#wechat_redirect) 
 - [【前端早读课】2019-02-12-【招聘】阿里巴巴淘宝技术部-内容与开放团队招P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=2&sn=5f384125f377e221528851bd6d805b62#wechat_redirect) 
 - [【前端早读课】2019-02-12-【第1524期】页面可视化搭建工具技术要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=1&sn=a40c9061e7f93187838fe7a767658d03#wechat_redirect) 
 - [【前端早读课】2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 

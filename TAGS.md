@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-12 22:00:32。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-13 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -33,6 +33,7 @@
 
 
 
+- [【前端早读课】【第1525期】Vuex、Flux、Redux、Redux-saga、Dva、MobX](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=1&sn=0e322d1fb0b59710aae98fe9df7d00ae#wechat_redirect)
 - [【前端早读课】【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect)
 - [【前端早读课】【第1507期】从-loading-的-9-种写法谈-React-业务开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=2&sn=fa765c7b849b2290877052edb4c41eb1#wechat_redirect)
 - [【前端早读课】【第1497期】React组件文档解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230905&idx=1&sn=3868eac44ea9166ce2d9defb8bd30bc6#wechat_redirect)
@@ -112,6 +113,7 @@
 
 
 
+- [【前端早读课】【英】Vue3.0-对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=2&sn=8f8f35f095a4ed28ac6fcc83b45af8cc#wechat_redirect)
 - [【前端早读课】【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect)
 - [【前端早读课】【第1496期】新手向之Vue.js-+-Node.jskoa-合体指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=1&sn=de2805651f5208b68ca93d77e3459844#wechat_redirect)
 - [【前端早读课】【英】Vue-Development-In-2019:-What-You-Need-To-Know](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=2&sn=ebb7b6136a6f045e43d199b7543d0f54#wechat_redirect)
