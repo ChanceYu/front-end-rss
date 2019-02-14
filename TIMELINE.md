@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-14 08:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-15 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -62,6 +62,7 @@
 - [【前端早读课】2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
 - [【前端早读课】2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) 
 - [【前端早读课】2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) 
+- [【前端大全】2019-02-14-Chrome-调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555873&idx=1&sn=1295aecf761b8305a01713c7ea553f3c#wechat_redirect) 
 - [【前端大全】2019-02-13-面向对象：希望找一位稳重坦荡的大哥哥，走向远方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=2&sn=620245ed420d2238fc6d53a9dbe461ae#wechat_redirect) 
 - [【前端大全】2019-02-13-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=1&sn=26fd9453d61cc1f1f0196f29bf202f7a#wechat_redirect) 
 - [【前端大全】2019-02-12-Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555861&idx=1&sn=806ec8a88779b3bb2ea306154ef216e2#wechat_redirect) 
@@ -71,6 +72,7 @@
 - [【前端大全】2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect) 
 - [【前端大全】2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect) 
 - [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
+- [【前端之巅】2019-02-14-前端tree优化实践：渲染速度从14.65s到0.49s](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490458&idx=1&sn=7d876669ace959461733d745dd7862ff#wechat_redirect) 
 - [【前端之巅】2019-02-13-全能App研发助手！滴滴开源DoraemonKit](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490445&idx=1&sn=27aba4812c9d4f3f72cbf06e40f77c94#wechat_redirect) 
 - [【前端之巅】2019-02-12-初尝Deno，这是我的感受](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490437&idx=1&sn=4b5bd637398137d0b94da19e166a0d91#wechat_redirect) 
 - [【前端之巅】2019-02-11-爱奇艺开播助手Flutter跨平台Hybrid实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490431&idx=1&sn=e6b42ee0156f09a841c56e53313a6466#wechat_redirect) 
