@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-15 12:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-15 22:00:31。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -65,6 +65,7 @@
 - [【前端早读课】2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
 - [【前端早读课】2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) 
 - [【前端早读课】2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) 
+- [【前端大全】2019-02-15-nginx-反向代理和负载均衡策略实战案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555878&idx=1&sn=dffbd69d17c0ff126acd2d9d5f5123bd#wechat_redirect) 
 - [【前端大全】2019-02-14-Chrome-调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555873&idx=1&sn=1295aecf761b8305a01713c7ea553f3c#wechat_redirect) 
 - [【前端大全】2019-02-13-面向对象：希望找一位稳重坦荡的大哥哥，走向远方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=2&sn=620245ed420d2238fc6d53a9dbe461ae#wechat_redirect) 
 - [【前端大全】2019-02-13-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=1&sn=26fd9453d61cc1f1f0196f29bf202f7a#wechat_redirect) 

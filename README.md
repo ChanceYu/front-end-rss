@@ -2,18 +2,18 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-15 12:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-15 22:00:31，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
 ## 文章链接
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-02-15-【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect) ![](assets/new.png)  
-- [2019-02-15-【招聘】腾讯IMWebTeam招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=2&sn=630e7eab5f8c7f61e532389f2f5e2825#wechat_redirect) ![](assets/new.png)  
-- [2019-02-15-【第1527期】持续迭代的电商可视化运营页面生成系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=1&sn=9228219f2775b32e299cb62cc099992a#wechat_redirect) ![](assets/new.png)  
+- [2019-02-15-【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect)  
+- [2019-02-15-【招聘】腾讯IMWebTeam招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=2&sn=630e7eab5f8c7f61e532389f2f5e2825#wechat_redirect)  
+- [2019-02-15-【第1527期】持续迭代的电商可视化运营页面生成系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=1&sn=9228219f2775b32e299cb62cc099992a#wechat_redirect)  
 - [2019-02-14-【招聘】芒果TV招聘高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=3&sn=c973105c962987e5053fe5313f839818#wechat_redirect)  
 - [2019-02-14-【第1526期】Gitter---高颜值GitHub小程序客户端诞生记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=2&sn=73d8ddc0b27c8a7f15d86d9e3f44d02b#wechat_redirect)  
 - [2019-02-14-2019，Vue3.0终终终于要来了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=1&sn=4dee8d8e5eb9328579c40b06e1880ab8#wechat_redirect)  
@@ -283,6 +283,7 @@
 </summary>
 
 
+- [2019-02-15-nginx-反向代理和负载均衡策略实战案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555878&idx=1&sn=dffbd69d17c0ff126acd2d9d5f5123bd#wechat_redirect) ![](assets/new.png)  
 - [2019-02-14-Chrome-调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555873&idx=1&sn=1295aecf761b8305a01713c7ea553f3c#wechat_redirect)  
 - [2019-02-13-面向对象：希望找一位稳重坦荡的大哥哥，走向远方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=2&sn=620245ed420d2238fc6d53a9dbe461ae#wechat_redirect)  
 - [2019-02-13-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=1&sn=26fd9453d61cc1f1f0196f29bf202f7a#wechat_redirect)  
@@ -793,7 +794,7 @@
 </summary>
 
 
-- [2019-02-15-每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html) ![](assets/new.png)  
+- [2019-02-15-每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)  
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)  
 - [2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)  
 - [2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)  
@@ -896,7 +897,7 @@
 </summary>
 
 
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)  
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)  
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)  
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)  
