@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-15 06:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-15 12:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -735,6 +735,7 @@
 
 
 
+- [【前端早读课】【招聘】腾讯IMWebTeam招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=2&sn=630e7eab5f8c7f61e532389f2f5e2825#wechat_redirect)
 - [【前端早读课】【招聘】芒果TV招聘高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=3&sn=c973105c962987e5053fe5313f839818#wechat_redirect)
 - [【前端早读课】【招聘】阿里巴巴淘宝技术部-内容与开放团队招P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=2&sn=5f384125f377e221528851bd6d805b62#wechat_redirect)
 - [【前端早读课】【招聘】西安思特沃克-招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=2&sn=94b9a71f45de7f9ddee468a0c0e35085#wechat_redirect)
@@ -781,6 +782,8 @@
 
 
 
+- [【前端早读课】【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect)
+- [【前端早读课】【第1527期】持续迭代的电商可视化运营页面生成系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=1&sn=9228219f2775b32e299cb62cc099992a#wechat_redirect)
 - [【前端早读课】【第1524期】页面可视化搭建工具技术要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=1&sn=a40c9061e7f93187838fe7a767658d03#wechat_redirect)
 - [【前端早读课】【第1521期】Chameleon跨端框架—一个理想主义团队的开源作品](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=1&sn=f4b342d81c4bd4b0f09f4cd491d3a90a#wechat_redirect)
 - [【前端早读课】【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect)
@@ -1101,6 +1104,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)
 - [【阮一峰的网络日志】npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)
 - [【阮一峰的网络日志】找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)
 - [【阮一峰的网络日志】每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)
@@ -1158,6 +1162,7 @@
 - [【前端里】移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html)
 - [【前端里】玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html)
 - [【前端里】nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html)
+- [【JDC-|-京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【JDC-|-京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
 - [【JDC-|-京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【JDC-|-京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)

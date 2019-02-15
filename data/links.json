@@ -5,6 +5,21 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【英】关于如何成为全栈开发者的6个基本技巧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "【招聘】腾讯IMWebTeam招高级前端工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=2&sn=630e7eab5f8c7f61e532389f2f5e2825#wechat_redirect",
+        "date": "2019-02-15"
+      },
+      {
+        "title": "【第1527期】持续迭代的电商可视化运营页面生成系统",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=1&sn=9228219f2775b32e299cb62cc099992a#wechat_redirect",
+        "date": "2019-02-15"
+      },
+      {
         "title": "【招聘】芒果TV招聘高级前端开发工程师",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=3&sn=c973105c962987e5053fe5313f839818#wechat_redirect",
         "date": "2019-02-14"
@@ -3620,6 +3635,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 43 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html",
+        "date": "2019-02-15"
+      },
+      {
         "title": "npx 使用教程",
         "link": "http://www.ruanyifeng.com/blog/2019/02/npx.html",
         "date": "2019-02-09"
@@ -4043,6 +4063,11 @@
     "title": "JDC-|-京东设计中心",
     "link": "https://jdc.jd.com",
     "items": [
+      {
+        "title": "京东PLUS会员项目前端性能优化实践",
+        "link": "https://jdc.jd.com/archives/212962",
+        "date": "2019-02-15"
+      },
       {
         "title": "8个常见的研究者认知偏误陷阱",
         "link": "https://jdc.jd.com/archives/212946",

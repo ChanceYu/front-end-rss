@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-15 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-15 12:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,9 @@
 </summary>
 
 
+- [【前端早读课】2019-02-15-【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect) 
+- [【前端早读课】2019-02-15-【招聘】腾讯IMWebTeam招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=2&sn=630e7eab5f8c7f61e532389f2f5e2825#wechat_redirect) 
+- [【前端早读课】2019-02-15-【第1527期】持续迭代的电商可视化运营页面生成系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=1&sn=9228219f2775b32e299cb62cc099992a#wechat_redirect) 
 - [【前端早读课】2019-02-14-【招聘】芒果TV招聘高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=3&sn=c973105c962987e5053fe5313f839818#wechat_redirect) 
 - [【前端早读课】2019-02-14-【第1526期】Gitter---高颜值GitHub小程序客户端诞生记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=2&sn=73d8ddc0b27c8a7f15d86d9e3f44d02b#wechat_redirect) 
 - [【前端早读课】2019-02-14-2019，Vue3.0终终终于要来了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=1&sn=4dee8d8e5eb9328579c40b06e1880ab8#wechat_redirect) 
@@ -85,10 +88,12 @@
 - [【前端之巅】2019-02-01-为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2019-02-11-快速了解CSS新出的列选择符双管道（||）](https://www.zhangxinxu.com/wordpress/2019/02/css-column-combinator/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-02-02-写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/) 
+- [【阮一峰的网络日志】2019-02-15-每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html) 
 - [【阮一峰的网络日志】2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
 - [【阮一峰的网络日志】2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html) 
 - [【阮一峰的网络日志】2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html) 
 - [【前端里】2019-02-10-精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html) 
+- [【JDC-|-京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
