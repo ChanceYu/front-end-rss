@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-16 18:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-16 22:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 - [【前端早读课】2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
 - [【前端早读课】2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) 
 - [【前端早读课】2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) 
+- [【前端大全】2019-02-16-面向对象：我来人间一趟，想迎着太阳，和心爱的你一起走在街上](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555883&idx=2&sn=470de6c5c0d5ad580b94a3bf7c412808#wechat_redirect) 
+- [【前端大全】2019-02-16-Webpack-的-Bundle-Split-和-Code-Split-区别和应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555883&idx=1&sn=ad1a42c721377aa3a7faa1e603596d12#wechat_redirect) 
 - [【前端大全】2019-02-15-nginx-反向代理和负载均衡策略实战案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555878&idx=1&sn=dffbd69d17c0ff126acd2d9d5f5123bd#wechat_redirect) 
 - [【前端大全】2019-02-14-Chrome-调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555873&idx=1&sn=1295aecf761b8305a01713c7ea553f3c#wechat_redirect) 
 - [【前端大全】2019-02-13-面向对象：希望找一位稳重坦荡的大哥哥，走向远方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=2&sn=620245ed420d2238fc6d53a9dbe461ae#wechat_redirect) 
@@ -79,6 +81,7 @@
 - [【前端大全】2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect) 
 - [【前端大全】2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect) 
 - [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
+- [【前端之巅】2019-02-16-支持多种小程序！阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490472&idx=1&sn=1159f3ccb7a2303be4df3dcefe9717c6#wechat_redirect) 
 - [【前端之巅】2019-02-16-尤雨溪回应：Vue与TypeScript为什么相性特别差？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490464&idx=1&sn=0c75aaab12002c76198a8d6f183cd686#wechat_redirect) 
 - [【前端之巅】2019-02-14-前端tree优化实践：渲染速度从14.65s到0.49s](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490458&idx=1&sn=7d876669ace959461733d745dd7862ff#wechat_redirect) 
 - [【前端之巅】2019-02-13-全能App研发助手！滴滴开源DoraemonKit](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490445&idx=1&sn=27aba4812c9d4f3f72cbf06e40f77c94#wechat_redirect) 
