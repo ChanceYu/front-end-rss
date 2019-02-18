@@ -1302,6 +1302,16 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Node.js 项目拆包工程化",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=2&sn=01c50d5f35e3ac1ef84e9672c754a7a9#wechat_redirect",
+        "date": "2019-02-18"
+      },
+      {
+        "title": "节后自检：前端工程师成长的痛，你占几条？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=1&sn=1a523de9728c65c03bc851620a06240e#wechat_redirect",
+        "date": "2019-02-18"
+      },
+      {
         "title": "如何做一个听话的 “输入框”",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555896&idx=1&sn=6ed17be299785b7fbe115a009b529bbd#wechat_redirect",
         "date": "2019-02-17"
@@ -3714,6 +3724,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "ORM 实例教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html",
+        "date": "2019-02-18"
+      },
       {
         "title": "每周分享第 43 期",
         "link": "http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html",
