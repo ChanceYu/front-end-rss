@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-19 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-19 22:00:42。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -93,6 +93,8 @@
 - [【前端大全】2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect) 
 - [【前端大全】2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect) 
 - [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
+- [【前端之巅】2019-02-19-独家！支付宝首次披露其小程序技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490492&idx=1&sn=06e76b897a3dba5207fe96239e041890#wechat_redirect) 
+- [【前端之巅】2019-02-19-51-信用卡-Android-自动埋点实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490497&idx=1&sn=c028b14dd43f93ddcddde44439ceeb87#wechat_redirect) 
 - [【前端之巅】2019-02-17-Angular-8确定包含Ivy，预计今年第二季度发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490482&idx=1&sn=d3d30bbb9defb4c58d2e5cb07b1647b0#wechat_redirect) 
 - [【前端之巅】2019-02-16-支持多种小程序！阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490472&idx=1&sn=1159f3ccb7a2303be4df3dcefe9717c6#wechat_redirect) 
 - [【前端之巅】2019-02-16-尤雨溪回应：Vue与TypeScript为什么相性特别差？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490464&idx=1&sn=0c75aaab12002c76198a8d6f183cd686#wechat_redirect) 

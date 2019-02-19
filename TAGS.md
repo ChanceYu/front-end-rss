@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-19 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-19 22:00:42。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -290,6 +290,7 @@
 - [【前端大全】从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect)
 - [【前端大全】微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect)
 - [【前端大全】健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect)
+- [【前端之巅】独家！支付宝首次披露其小程序技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490492&idx=1&sn=06e76b897a3dba5207fe96239e041890#wechat_redirect)
 - [【前端之巅】支持多种小程序！阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490472&idx=1&sn=1159f3ccb7a2303be4df3dcefe9717c6#wechat_redirect)
 - [【前端之巅】直击微信公开课：2019年小程序会有哪些变化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490246&idx=1&sn=84bd1f1e50963f4c737f2656018d6711#wechat_redirect)
 - [【前端之巅】百度发布智能小程序开发方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490098&idx=1&sn=64db463561039ed05843a1ca3cde3375#wechat_redirect)
@@ -1050,6 +1051,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】51-信用卡-Android-自动埋点实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490497&idx=1&sn=c028b14dd43f93ddcddde44439ceeb87#wechat_redirect)
 - [【前端之巅】Angular-8确定包含Ivy，预计今年第二季度发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490482&idx=1&sn=d3d30bbb9defb4c58d2e5cb07b1647b0#wechat_redirect)
 - [【前端之巅】前端tree优化实践：渲染速度从14.65s到0.49s](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490458&idx=1&sn=7d876669ace959461733d745dd7862ff#wechat_redirect)
 - [【前端之巅】全能App研发助手！滴滴开源DoraemonKit](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490445&idx=1&sn=27aba4812c9d4f3f72cbf06e40f77c94#wechat_redirect)

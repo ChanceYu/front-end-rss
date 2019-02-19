@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-19 08:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-19 22:00:42，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-02-19-【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect) ![](assets/new.png)  
-- [2019-02-19-【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect) ![](assets/new.png)  
-- [2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect) ![](assets/new.png)  
+- [2019-02-19-【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect)  
+- [2019-02-19-【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect)  
+- [2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)  
 - [2019-02-18-【招聘】蚂蚁金服开放与平台技术部招P6/P7/P8](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=3&sn=511e09105c31d2587049abf7fb49464e#wechat_redirect)  
 - [2019-02-18-【英】我是一个平庸的开发人员](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=2&sn=e0eb50d8c254a1ef8d8bf929483a10ca#wechat_redirect)  
 - [2019-02-18-【第1530期】React-Fiber架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=1&sn=6131d924653be3486f5ca86a8b43d348#wechat_redirect)  
@@ -568,6 +568,8 @@
 </summary>
 
 
+- [2019-02-19-独家！支付宝首次披露其小程序技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490492&idx=1&sn=06e76b897a3dba5207fe96239e041890#wechat_redirect) ![](assets/new.png)  
+- [2019-02-19-51-信用卡-Android-自动埋点实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490497&idx=1&sn=c028b14dd43f93ddcddde44439ceeb87#wechat_redirect) ![](assets/new.png)  
 - [2019-02-17-Angular-8确定包含Ivy，预计今年第二季度发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490482&idx=1&sn=d3d30bbb9defb4c58d2e5cb07b1647b0#wechat_redirect)  
 - [2019-02-16-支持多种小程序！阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490472&idx=1&sn=1159f3ccb7a2303be4df3dcefe9717c6#wechat_redirect)  
 - [2019-02-16-尤雨溪回应：Vue与TypeScript为什么相性特别差？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490464&idx=1&sn=0c75aaab12002c76198a8d6f183cd686#wechat_redirect)  
