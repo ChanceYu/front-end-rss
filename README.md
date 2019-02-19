@@ -2,16 +2,16 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-18 22:00:42，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-19 08:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-02-19-【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect) ![](assets/new.png)  
+- [2019-02-19-【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect) ![](assets/new.png)  
+- [2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect) ![](assets/new.png)  
 - [2019-02-18-【招聘】蚂蚁金服开放与平台技术部招P6/P7/P8](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=3&sn=511e09105c31d2587049abf7fb49464e#wechat_redirect)  
 - [2019-02-18-【英】我是一个平庸的开发人员](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=2&sn=e0eb50d8c254a1ef8d8bf929483a10ca#wechat_redirect)  
 - [2019-02-18-【第1530期】React-Fiber架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=1&sn=6131d924653be3486f5ca86a8b43d348#wechat_redirect)  
@@ -292,8 +295,8 @@
 </summary>
 
 
-- [2019-02-18-Node.js-项目拆包工程化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=2&sn=01c50d5f35e3ac1ef84e9672c754a7a9#wechat_redirect) ![](assets/new.png)  
-- [2019-02-18-节后自检：前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=1&sn=1a523de9728c65c03bc851620a06240e#wechat_redirect) ![](assets/new.png)  
+- [2019-02-18-Node.js-项目拆包工程化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=2&sn=01c50d5f35e3ac1ef84e9672c754a7a9#wechat_redirect)  
+- [2019-02-18-节后自检：前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=1&sn=1a523de9728c65c03bc851620a06240e#wechat_redirect)  
 - [2019-02-17-如何做一个听话的-“输入框”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555896&idx=1&sn=6ed17be299785b7fbe115a009b529bbd#wechat_redirect)  
 - [2019-02-16-面向对象：我来人间一趟，想迎着太阳，和心爱的你一起走在街上](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555883&idx=2&sn=470de6c5c0d5ad580b94a3bf7c412808#wechat_redirect)  
 - [2019-02-16-Webpack-的-Bundle-Split-和-Code-Split-区别和应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555883&idx=1&sn=ad1a42c721377aa3a7faa1e603596d12#wechat_redirect)  
@@ -811,7 +814,7 @@
 </summary>
 
 
-- [2019-02-18-ORM-实例教程](http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html) ![](assets/new.png)  
+- [2019-02-18-ORM-实例教程](http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html)  
 - [2019-02-15-每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)  
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)  
 - [2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)  

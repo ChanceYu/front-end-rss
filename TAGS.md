@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-18 22:00:42。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-19 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -273,6 +273,7 @@
 
 
 
+- [【前端早读课】【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)
 - [【前端早读课】【第1526期】Gitter---高颜值GitHub小程序客户端诞生记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=2&sn=73d8ddc0b27c8a7f15d86d9e3f44d02b#wechat_redirect)
 - [【前端早读课】【第1504期】送你一份微信小程序-web-view-开发踩坑大全](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230974&idx=1&sn=23e3672f02759871efc872b0cbbf8525#wechat_redirect)
 - [【前端早读课】如何入门微信小程序开发？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=1&sn=d762f660272e234cd3a6d86486e27e1f#wechat_redirect)
@@ -588,6 +589,7 @@
 
 
 
+- [【前端早读课】【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect)
 - [【前端早读课】【第1503期】不可思议的纯-CSS-滚动进度条效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230965&idx=1&sn=8162da7a0fcb677d7be0609e87895248#wechat_redirect)
 - [【前端早读课】【英】How-To-Learn-CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230917&idx=2&sn=68d81c71b905ddc53eec6d9e4cc9cd9d#wechat_redirect)
 - [【前端早读课】【第1488期】有限状态机在-CSS-动画中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230801&idx=1&sn=239ec09df6406a8431819ac2187c67b7#wechat_redirect)
@@ -744,6 +746,7 @@
 
 
 
+- [【前端早读课】【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect)
 - [【前端早读课】【招聘】蚂蚁金服开放与平台技术部招P6/P7/P8](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=3&sn=511e09105c31d2587049abf7fb49464e#wechat_redirect)
 - [【前端早读课】【招聘】上海抖音招前端／前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=2&sn=1611cdfedcf9a386edcebc7cbe8f9dc9#wechat_redirect)
 - [【前端早读课】【招聘】阿里数字营销团队招高级前端工程师/前端开发专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231424&idx=2&sn=7579cc3911254e4c85bd70307195aa23#wechat_redirect)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-18 22:00:42。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-19 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,9 @@
 </summary>
 
 
+- [【前端早读课】2019-02-19-【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect) 
+- [【前端早读课】2019-02-19-【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect) 
+- [【前端早读课】2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect) 
 - [【前端早读课】2019-02-18-【招聘】蚂蚁金服开放与平台技术部招P6/P7/P8](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=3&sn=511e09105c31d2587049abf7fb49464e#wechat_redirect) 
 - [【前端早读课】2019-02-18-【英】我是一个平庸的开发人员](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=2&sn=e0eb50d8c254a1ef8d8bf929483a10ca#wechat_redirect) 
 - [【前端早读课】2019-02-18-【第1530期】React-Fiber架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=1&sn=6131d924653be3486f5ca86a8b43d348#wechat_redirect) 
