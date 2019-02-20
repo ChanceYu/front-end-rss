@@ -7,18 +7,21 @@ const Git = require('simple-git')
 const _ = require('underscore')
 const cloneDeep = require('clone-deep')
 
-const respRoot = '../';
+const utils = require('./utils')
+const writemd = require('./writemd')
 
-const RESP_PATH          = path.join(respRoot)
-const RSS_PATH           = path.join(respRoot + '/data/rss.json')
-const LINKS_PATH         = path.join(respRoot + '/data/links.json')
-const TAGS_PATH          = path.join(respRoot + '/data/tags.json')
-const README_PATH        = path.join(respRoot + '/README.md')
-const TEMPLATE_PATH      = path.join(respRoot + '/template.md')
-const TAGS_MD_PATH       = path.join(respRoot + '/TAGS.md')
-const TAGS_TEMPLATE_PATH = path.join(respRoot + '/template-tags.md')
-const TIMELINE_MD_PATH       = path.join(respRoot + '/TIMELINE.md')
-const TIMELINE_TEMPLATE_PATH = path.join(respRoot + '/template-timeline.md')
+const {
+  RESP_PATH,
+  RSS_PATH,
+  LINKS_PATH,
+  TAGS_PATH,
+  README_PATH,
+  README_TEMPLATE_PATH,
+  TAGS_MD_PATH,
+  TAGS_TEMPLATE_PATH,
+  TIMELINE_MD_PATH,
+  TIMELINE_TEMPLATE_PATH,
+} = utils.PATH
 
 let rssJson = []
 let linksJson = []
@@ -35,7 +38,7 @@ let newData = {
  * 更新 git 仓库
  */
 function handlerUpdate(){
-  console.log(getNowDate() + ' - 开始更新抓取');
+  console.log(utils.getNowDate() + ' - 开始更新抓取');
 
   Git(RESP_PATH)
      .pull()
@@ -46,27 +49,12 @@ function handlerUpdate(){
  * 提交修改到 git 仓库
  */
 function handlerCommit(){
-  console.log(getNowDate() + ' - 完成抓取，即将上传');
+  console.log(utils.getNowDate() + ' - 完成抓取，即将上传');
 
   Git(RESP_PATH)
      .add('./*')
      .commit('更新: ' + newData.titles.join('、'))
      .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
-}
-
-/**
- * 格式化标题
- */
-function formatTitle(title, isRsshub){
-  // https://rsshub.app
-  if(isRsshub){
-    let matches = title.match(/“(.*)”/)
-  
-    if(matches && matches[1]){
-      title = matches[1]
-    }
-  }
-  return title.replace('<![CDATA[', '').replace(']]>', '').replace(/[\[\]\(\)]/g, '').replace(/\s+/g, '-')
 }
 
 /**
@@ -115,7 +103,7 @@ function handlerFeed(){
         let items = []
         
         if(!feed){
-          console.log(getNowDate() + ' - 失败 RSS: ' + rss);
+          console.log(utils.getNowDate() + ' - 失败 RSS: ' + rss);
           feed = {};
           feed.title = jsonItem.title
           feed.link = jsonItem.link
@@ -153,7 +141,7 @@ function handlerFeed(){
           }
         });
 
-        feed.title = formatTitle(feed.title, /^https:\/\/rsshub\.app/.test(rss))
+        feed.title = utils.formatTitle(feed.title, /^https:\/\/rsshub\.app/.test(rss))
 
         if(items.length){
           newData.titles.push(feed.title)
@@ -175,101 +163,12 @@ function handlerFeed(){
   async.parallel(parallels, (err, result) => {
     if(newData.length){
       fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
-      handlerREADME()
-      handlerTags()
-      handlerTimeline()
+      writemd(newData)
       handlerCommit()
     }else{
-      console.log(getNowDate() + ' - 无需更新');
+      console.log(utils.getNowDate() + ' - 无需更新');
     }
   })
-}
-
-/**
- * 渲染 README.md 文件
- */
-function handlerREADME(){
-  let content = fs.readFileSync(TEMPLATE_PATH);
-
-  let compiled = _.template(content.toString());
-
-  content = compiled({
-    currentDate: getNowDate(),
-    linksJson: cloneDeep(linksJson),
-    newData,
-    formatTitle,
-  });
-
-  fs.writeFileSync(README_PATH, content, 'utf-8');
-}
-
-/**
- * 渲染 TAGS.md 文件
- */
-function handlerTags(){
-  let tags = require(TAGS_PATH);
-  let data = cloneDeep(linksJson);
-
-  tags.forEach((tag, i) => {
-    tags[i].items = [];
-    
-    data.forEach((o) => {
-      o.items.forEach((item) => {
-        if(!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)){
-          item.rssTitle = o.title;
-          tags[i].items.push(item);
-        }
-      });
-    });
-  });
-
-  let content = fs.readFileSync(TAGS_TEMPLATE_PATH);
-  let compiled = _.template(content.toString());
-
-  content = compiled({
-    currentDate: getNowDate(),
-    formatTitle,
-    tags
-  });
-
-  fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8');
-}
-
-function handlerTimeline(){
-  let dataObj = {}
-  let allLinks = fs.readFileSync(LINKS_PATH)
-
-  allLinks = JSON.parse(allLinks.toString())
-  
-  allLinks.forEach((rss) => {
-    rss.items.forEach((item) => {
-      let date = item.date.substr(0, 7)
-
-      item.rssTitle = rss.title;
-      dataObj[date] = dataObj[date] || []
-      dataObj[date].push(item)
-    })
-  })
-
-  let content = fs.readFileSync(TIMELINE_TEMPLATE_PATH);
-
-  let compiled = _.template(content.toString());
-
-  content = compiled({
-    currentDate: getNowDate(),
-    dataObj,
-    formatTitle,
-    dataKeys: Object.keys(dataObj).sort().reverse()
-  });
-
-  fs.writeFileSync(TIMELINE_MD_PATH, content, 'utf-8');
-}
-
-/**
- * 格式化时间
- */
-function getNowDate(){
-  return moment().format('YYYY-MM-DD HH:mm:ss')
 }
 
 module.exports = handlerUpdate
