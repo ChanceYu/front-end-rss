@@ -110,11 +110,10 @@ function handlerTimeline(){
  */
 function handlerDetails(){
   let allLinks = utils.getLinksJson()
-  let content = fs.readFileSync(DETAILS_TEMPLATE_PATH);
+  let content = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString();
+  let compiled = _.template(content);
 
   allLinks.forEach((rss) => {
-    let compiled = _.template(content.toString());
-
     rss.currentDate = utils.getNowDate()
     rss.formatTitle = utils.formatTitle
 
@@ -123,7 +122,6 @@ function handlerDetails(){
     fs.writeFileSync(path.join(RESP_PATH, 'details', rss.title + '.md'), content, 'utf-8');
   })
 }
-
 
 module.exports = function(newData){
   handlerREADME(newData)
