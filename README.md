@@ -2,13 +2,13 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-20 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-21 06:00:19，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -65,6 +65,10 @@
 </summary>
 
 
+- [2019-02-21-面向对象：佛系大龄少女，喜欢有趣的灵魂～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=2&sn=3517c07667a91b5c19adf8a3a15ff813#wechat_redirect) ![](assets/new.png)  
+- [2019-02-21-三个值得期待的-JavaScript-新特性！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=1&sn=490cafdcc9a74393de3cc8c3244dad94#wechat_redirect) ![](assets/new.png)  
+- [2019-02-21-面向对象：期待一个与我契合的有趣灵魂](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555910&idx=2&sn=90621e9e7992e1545d2de76a44e9edd4#wechat_redirect) ![](assets/new.png)  
+- [2019-02-21-都-9102-年了，还问-GET-和-POST-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555910&idx=1&sn=fae1a52cb2a4bbb614cebd6a10cfd43e#wechat_redirect) ![](assets/new.png)  
 - [2019-02-18-Node.js-项目拆包工程化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=2&sn=01c50d5f35e3ac1ef84e9672c754a7a9#wechat_redirect)  
 - [2019-02-18-节后自检：前端工程师成长的痛，你占几条？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=1&sn=1a523de9728c65c03bc851620a06240e#wechat_redirect)  
 - [2019-02-17-如何做一个听话的-“输入框”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555896&idx=1&sn=6ed17be299785b7fbe115a009b529bbd#wechat_redirect)  
@@ -91,10 +95,6 @@
 - [2019-01-27-当-fetch-遇到-302-状态码，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=1&sn=89ea114ef676b2fcd1d0045c42126adc#wechat_redirect)  
 - [2019-01-26-面向对象：择一人深爱，等一人终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=2&sn=cb5d4cc13c6bcc9fd74dd88edc508856#wechat_redirect)  
 - [2019-01-26-移动应用框架-Ionic-4-正式版发布：Ionic-for-Everyone](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=1&sn=2bf613e82d6c5271f18cc75d9877799e#wechat_redirect)  
-- [2019-01-26-当测试和开发相恋后，她们是这样报喜的～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=2&sn=4ed9c9b4a17a401219f2e9591ce07f2c#wechat_redirect)  
-- [2019-01-26-2018年-JavaScript-明星项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=1&sn=72d88ae4703d8aa87dd01b9aa949dd4d#wechat_redirect)  
-- [2019-01-25-2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect)  
-- [2019-01-25-基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect)  
 - [......【查看所有】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -106,7 +106,7 @@
 </summary>
 
 
-- [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) ![](assets/new.png)  
+- [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect)  
 - [2019-02-19-独家！支付宝首次披露其小程序技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490492&idx=1&sn=06e76b897a3dba5207fe96239e041890#wechat_redirect)  
 - [2019-02-19-51-信用卡-Android-自动埋点实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490497&idx=1&sn=c028b14dd43f93ddcddde44439ceeb87#wechat_redirect)  
 - [2019-02-17-Angular-8确定包含Ivy，预计今年第二季度发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490482&idx=1&sn=d3d30bbb9defb4c58d2e5cb07b1647b0#wechat_redirect)  
