@@ -2,7 +2,7 @@
 
 前端 RSS 自动抓取，根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-20 16:23:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-20 16:28:49，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
@@ -44,6 +44,16 @@
 - [2019-02-14-2019，Vue3.0终终终于要来了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=1&sn=4dee8d8e5eb9328579c40b06e1880ab8#wechat_redirect)  
 - [2019-02-13-【英】Vue3.0-对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=2&sn=8f8f35f095a4ed28ac6fcc83b45af8cc#wechat_redirect)  
 - [2019-02-13-【第1525期】Vuex、Flux、Redux、Redux-saga、Dva、MobX](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=1&sn=0e322d1fb0b59710aae98fe9df7d00ae#wechat_redirect)  
+- [2019-02-12-【招聘】阿里巴巴淘宝技术部-内容与开放团队招P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=2&sn=5f384125f377e221528851bd6d805b62#wechat_redirect)  
+- [2019-02-12-【第1524期】页面可视化搭建工具技术要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231349&idx=1&sn=a40c9061e7f93187838fe7a767658d03#wechat_redirect)  
+- [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect)  
+- [2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect)  
+- [2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect)  
+- [2019-01-30-【招聘】西安思特沃克-招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=2&sn=94b9a71f45de7f9ddee468a0c0e35085#wechat_redirect)  
+- [2019-01-30-【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect)  
+- [2019-01-30-【招聘】富途证券诚招前端开发-和-PHP开发（14k~28k）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=3&sn=f0c1e814148ea709f88d79976ecd136a#wechat_redirect)  
+- [2019-01-30-【微信小游戏】财神养成记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=2&sn=cf50fbcfb9cabd0b69f1a96cdcee96b7#wechat_redirect)  
+- [2019-01-30-【第1521期】Chameleon跨端框架—一个理想主义团队的开源作品](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=1&sn=f4b342d81c4bd4b0f09f4cd491d3a90a#wechat_redirect)  
 - [......【查看所有】](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -75,6 +85,16 @@
 - [2019-01-30-微软工程师认为-Mozilla-也应该拥抱-Chromium](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555817&idx=1&sn=65587cca3039a50dcecd857ef66be818#wechat_redirect)  
 - [2019-01-30-面向对象：余愿，知你冷暖，懂你悲欢，与你共黄昏，也能问你粥可温](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=2&sn=bf6f18272728d5b5c8eee74880907804#wechat_redirect)  
 - [2019-01-30-HackerRank：JavaScript-是最知名的编程语言](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555827&idx=1&sn=ef7cddca18f2793c1e8990367916edf8#wechat_redirect)  
+- [2019-01-28-面向对象：我希望我的爱人：他懂我，我懂他，互相理解支持](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555812&idx=2&sn=14caa9f8ee39e7b0079995c673c2b799#wechat_redirect)  
+- [2019-01-28-2019-给前端的-5-个建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555812&idx=1&sn=7bc15cd8ee4869cd0567d5f6e54c6bdf#wechat_redirect)  
+- [2019-01-27-面向对象：一个外表大咧开朗，骨子里传统有原则的女生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=2&sn=efcdb3237cf477b4b6a2ec3908751f33#wechat_redirect)  
+- [2019-01-27-当-fetch-遇到-302-状态码，会发生什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555807&idx=1&sn=89ea114ef676b2fcd1d0045c42126adc#wechat_redirect)  
+- [2019-01-26-面向对象：择一人深爱，等一人终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=2&sn=cb5d4cc13c6bcc9fd74dd88edc508856#wechat_redirect)  
+- [2019-01-26-移动应用框架-Ionic-4-正式版发布：Ionic-for-Everyone](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555802&idx=1&sn=2bf613e82d6c5271f18cc75d9877799e#wechat_redirect)  
+- [2019-01-26-当测试和开发相恋后，她们是这样报喜的～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=2&sn=4ed9c9b4a17a401219f2e9591ce07f2c#wechat_redirect)  
+- [2019-01-26-2018年-JavaScript-明星项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555805&idx=1&sn=72d88ae4703d8aa87dd01b9aa949dd4d#wechat_redirect)  
+- [2019-01-25-2019年货零失误指南，仅需加1元得大屏显示器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=2&sn=7825f19931148f807cb30cbcb9fb25a5#wechat_redirect)  
+- [2019-01-25-基于色键技术的纯客户端实时蒙版弹幕](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555788&idx=1&sn=38b46f9c05ffd6ef07765452c7a45bc6#wechat_redirect)  
 - [......【查看所有】](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -106,6 +126,16 @@
 - [2019-01-30-距离最好的编程语言，JavaScript还缺些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490371&idx=1&sn=f434177a5dc1445ed07b8b84671dcc90#wechat_redirect)  
 - [2019-01-28-重磅！滴滴开源跨平台统一MVVM框架Chameleon](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490363&idx=1&sn=f29d5605f5ff78b5b9901c183471f669#wechat_redirect)  
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect)  
+- [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect)  
+- [2019-01-27-Swift-5新特性详解：ABI-稳定终于来了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490356&idx=1&sn=1c07c5ea368941bee788b66b51a5ef77#wechat_redirect)  
+- [2019-01-24-如何用React-+-Rxjs实现一个虚拟滚动组件？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490320&idx=1&sn=07b107857c4c8ab908aa4d1ed53c0b70#wechat_redirect)  
+- [2019-01-24-扔掉Create-React-App，打造你自己的React生成工具！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490327&idx=1&sn=6a5ca6600e0212bab88125f16d545585#wechat_redirect)  
+- [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect)  
+- [2019-01-21-使用Flutter一年后，这是我得到的经验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490316&idx=1&sn=7e5f81004e944e16f25621aaf7493b22#wechat_redirect)  
+- [2019-01-20-为什么说GraphQL可以取代REST-API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490309&idx=1&sn=ae433cdd36ed969894e20304c0dd5556#wechat_redirect)  
+- [2019-01-19-Fuchsia被证实支持Android应用，今年5月即可体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490304&idx=1&sn=8d569372a94f211f38fec6986ce492b1#wechat_redirect)  
+- [2019-01-18-从前后端分离到GraphQL，携程如何用Node实现？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490300&idx=1&sn=5b6230e7d0d1c8120ee4b41e8f71fd35#wechat_redirect)  
+- [2019-01-17-大前端的下一站何去何从？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490294&idx=1&sn=b5ca2f29f6d6a0e1e0d6d02385db89f0#wechat_redirect)  
 - [......【查看所有】](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -137,6 +167,10 @@
 - [2017-12-13-管理-Node.js-进程从未如此优雅](http://taobaofed.org/blog/2017/12/13/pandora/)  
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/)  
 - [2017-08-31-深入理解-Node.js-Stream-内部机制](http://taobaofed.org/blog/2017/08/31/nodejs-stream/)  
+- [2017-07-27-GCanvas-渲染引擎介绍](http://taobaofed.org/blog/2017/07/27/gcanvas/)  
+- [2017-07-05-LevelDB-实现分析](http://taobaofed.org/blog/2017/07/05/leveldb-analysis/)  
+- [2017-05-18-如何实现一个-Git-Diff-解析器](http://taobaofed.org/blog/2017/05/18/how-to-display-git-diff/)  
+- [2017-04-27-使用-ES-decorators-构建一致性-API](http://taobaofed.org/blog/2017/04/27/building-consistent-api-with-es-decorators/)  
 - [......【查看所有】](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -168,6 +202,16 @@
 - [2018-12-09-CSS-font-feature-settings-50+关键字属性值完整介绍](https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/)  
 - [2018-12-06-CSS蛋疼应用之：数据上报和HTML验证](https://www.zhangxinxu.com/wordpress/2018/12/css-data-report-html-validate/)  
 - [2018-12-03-HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/)  
+- [2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/)  
+- [2018-12-02-杀了个回马枪，还是说说position:sticky吧](https://www.zhangxinxu.com/wordpress/2018/12/css-position-sticky/)  
+- [2018-11-28-大侠，请留步，要不过来了解下CSS-Scroll-Snap？](https://www.zhangxinxu.com/wordpress/2018/11/know-css-scroll-snap/)  
+- [2018-11-27-5分钟快速了解下CSS4-color-adjust属性](https://www.zhangxinxu.com/wordpress/2018/11/css4-color-adjust/)  
+- [2018-11-26-CSS届的绘图板CSS-Paint-API简介](https://www.zhangxinxu.com/wordpress/2018/11/css-paint-api-canvas/)  
+- [2018-11-24-纯CSS实现小图标变色的一些研究](https://www.zhangxinxu.com/wordpress/2018/11/css-change-icon-color/)  
+- [2018-11-18-CSS前景背景自动配色技术简介](https://www.zhangxinxu.com/wordpress/2018/11/css-background-color-font-auto-match/)  
+- [2018-11-18-CSS-filter:hue-rotate色调旋转滤镜实现按钮批量生产](https://www.zhangxinxu.com/wordpress/2018/11/css-filter-hue-rotate-button/)  
+- [2018-11-16-小tips:-如何HTML标签和JS中设置CSS3-var变量](https://www.zhangxinxu.com/wordpress/2018/11/html-js-set-css-css3-var%e5%8f%98%e9%87%8f/)  
+- [2018-11-06-写给自己看的display:-grid布局教程](https://www.zhangxinxu.com/wordpress/2018/11/display-grid-css-css3/)  
 - [......【查看所有】](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -199,6 +243,16 @@
 - [2018-12-21-每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)  
 - [2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)  
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)  
+- [2018-12-09-腾讯的历史](http://www.ruanyifeng.com/blog/2018/12/tencent.html)  
+- [2018-12-07-每周分享第-34-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-34.html)  
+- [2018-11-30-每周分享第-33-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-33.html)  
+- [2018-11-28-最有效的五步推销法](http://www.ruanyifeng.com/blog/2018/11/most-effective-sales-promotion.html)  
+- [2018-11-23-每周分享第-32-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-32.html)  
+- [2018-11-16-每周分享第-31-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-31.html)  
+- [2018-11-09-每周分享第-30-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-30.html)  
+- [2018-11-07-awk-入门教程](http://www.ruanyifeng.com/blog/2018/11/awk.html)  
+- [2018-11-05-Page-Lifecycle-API-教程](http://www.ruanyifeng.com/blog/2018/11/page_lifecycle_api.html)  
+- [2018-11-02-每周分享第-29-期](http://www.ruanyifeng.com/blog/2018/11/weekly-issue-29.html)  
 - [......【查看所有】](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -230,6 +284,16 @@
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html)  
 - [2018-11-08-开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html)  
 - [2018-11-08-动画：从-AE-到-Web，‘甩锅’给设计师](http://www.yyyweb.com/5201.html)  
+- [2018-11-07-多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html)  
+- [2018-11-06-Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html)  
+- [2018-11-01-前后端分离：使用-token-登录解决方案](http://www.yyyweb.com/5144.html)  
+- [2018-09-05-面向初学者：什么是高阶组件？](http://www.yyyweb.com/5190.html)  
+- [2018-11-05-12个美丽网站，受到日出启发的配色方案](http://www.yyyweb.com/5182.html)  
+- [2018-11-03-15个新鲜出炉的-Photoshop-文本效果教程](http://www.yyyweb.com/5178.html)  
+- [2018-10-29-精选：3个为您提供高质量免费照片的网站](http://www.yyyweb.com/5171.html)  
+- [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html)  
+- [2018-09-26-基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html)  
+- [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html)  
 - [......【查看所有】](./details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -261,6 +325,11 @@
 - [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690)  
 - [2018-08-31-【译】React-优化：虚拟-DOM-详解](https://jdc.jd.com/archives/212685)  
 - [2018-08-17-Hello-PWA](https://jdc.jd.com/archives/212666)  
+- [2018-08-10-Webpack打包实用优化方案](https://jdc.jd.com/archives/212653)  
+- [2018-08-10-【译】使用-Flutter-实现跨平台移动端开发](https://jdc.jd.com/archives/212644)  
+- [2018-07-26-【译】使用React和HTML5表单验证API处理表单元素](https://jdc.jd.com/archives/212629)  
+- [2018-07-24-再谈Vue组件库开发](https://jdc.jd.com/archives/212600)  
+- [2018-07-19-WebGL入门与进阶3](https://jdc.jd.com/archives/212370)  
 - [......【查看所有】](./details/JDC-|-京东设计中心.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -292,6 +361,16 @@
 - [2018-01-17-H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/)  
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)  
 - [2018-01-04-H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/)  
+- [2017-12-27-H5游戏开发：游戏引擎入门推荐](https://aotu.io/notes/2017/12/27/h5-game-engine-recommend/)  
+- [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)  
+- [2017-11-28-H5游戏开发：指尖大冒险](https://aotu.io/notes/2017/11/28/h5_game_jumping/)  
+- [2017-11-27-网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)  
+- [2017-11-16-H5游戏开发：决胜三分球](https://aotu.io/notes/2017/11/16/basketball/)  
+- [2017-11-06-H5游戏开发：推金币](https://aotu.io/notes/2017/11/06/coindozer/)  
+- [2017-11-06-H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)  
+- [2017-11-02-H5游戏开发：一笔画](https://aotu.io/notes/2017/11/02/onestroke/)  
+- [2017-10-18-H5游戏开发：横屏适配](https://aotu.io/notes/2017/10/18/landscape_mode_in_html5_game/)  
+- [2017-10-13-js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)  
 - [......【查看所有】](./details/Aotu.io.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

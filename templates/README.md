@@ -15,7 +15,7 @@
  <%= rssTitle %>
 </summary>
 
-<% _.each(e.items.slice(0,20), function(item, index){ var itemTitle = obj.formatTitle(item.title); %>
+<% _.each(e.items.slice(0,30), function(item, index){ var itemTitle = obj.formatTitle(item.title); %>
 - [<%= item.date %>-<%= itemTitle %>](<%= item.link %>) <% if (e.rss in obj.newData.rss && item.link in obj.newData.links){ %>![](assets/new.png) <% } %> <% }) %>
 - [......【查看所有】](./details/<%= e.title %>.md)
 
