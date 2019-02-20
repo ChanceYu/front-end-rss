@@ -119,7 +119,10 @@ function handlerDetails(){
 
     content = compiled(rss);
 
-    fs.writeFileSync(path.join(RESP_PATH, 'details', rss.title + '.md'), content, 'utf-8');
+    let filename = rss.title.replace(/[\\\/]/g, '')
+    filename += '.md'
+
+    fs.writeFileSync(path.join(RESP_PATH, 'details', filename), content, 'utf-8');
   })
 }
 
