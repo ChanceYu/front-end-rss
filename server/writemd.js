@@ -108,21 +108,29 @@ function handlerTimeline(){
 /**
  * 生成每个详情页面
  */
-function handlerDetails(){
+function handlerDetails(newData){
+  newData = newData || {
+    length: 0,
+    titles: [],
+    rss: {},
+    links: {}
+  }
   let allLinks = utils.getLinksJson()
   let content = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString();
   let compiled = _.template(content);
 
-  allLinks.forEach((rss) => {
-    rss.currentDate = utils.getNowDate()
-    rss.formatTitle = utils.formatTitle
-
-    content = compiled(rss);
-
-    let filename = rss.title.replace(/[\\\/]/g, '')
-    filename += '.md'
-
-    fs.writeFileSync(path.join(RESP_PATH, 'details', filename), content, 'utf-8');
+  allLinks.forEach((source) => {
+    if (source.rss in newData.rss){
+      source.currentDate = utils.getNowDate()
+      source.formatTitle = utils.formatTitle
+  
+      content = compiled(source);
+  
+      let filename = source.title.replace(/[\\\/]/g, '')
+      filename += '.md'
+  
+      fs.writeFileSync(path.join(RESP_PATH, 'details', filename), content, 'utf-8');
+    }
   })
 }
 
@@ -130,5 +138,5 @@ module.exports = function(newData){
   handlerREADME(newData)
   handlerTags()
   handlerTimeline()
-  handlerDetails()
+  handlerDetails(newData)
 }
