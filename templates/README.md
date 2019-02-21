@@ -15,7 +15,7 @@
  <%= rssTitle %>
 </summary>
 
-<% _.each(e.items.slice(0,25), function(item, index){ var itemTitle = obj.formatTitle(item.title); %>
+<% _.each(e.items.slice(0,20), function(item, index){ var itemTitle = obj.formatTitle(item.title); %>
 - [<%= item.date %>-<%= itemTitle %>](<%= item.link %>) <% if (e.rss in obj.newData.rss && item.link in obj.newData.links){ %>![](assets/new.png) <% } %> <% }) %>
 - [......【查看更多】......](./details/<%= e.title %>.md)
 
@@ -23,5 +23,5 @@
 </details>
 <% }) %>
 
-## 感谢
+## 其它
 感谢 [RSSHub](https://github.com/DIYgod/RSSHub) 提供的微信公众号 RSS 链接
