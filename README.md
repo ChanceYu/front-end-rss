@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-22 08:00:16，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-22 12:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,13 +24,13 @@
 </summary>
 
 
-- [2019-02-22-【招聘】重庆八戒财税招聘高级前端开发10k-18k](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=3&sn=a19c730cabc955226c0d1777eaa58faf#wechat_redirect) ![](assets/new.png)  
-- [2019-02-22-【第1532期】Lerna包管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=2&sn=455fad50ff0d6393a416b58c329c053b#wechat_redirect) ![](assets/new.png)  
-- [2019-02-22-节后跳槽，你的工作经验货真价实吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=1&sn=cd28c8926732cb37eb0f567f0201d97d#wechat_redirect) ![](assets/new.png)  
-- [2019-02-22-【招聘】阿里国际技术事业部-ICBU技术部-资深前端工程师/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=2&sn=7403b256afdfe0eb02558efa0d7b007c#wechat_redirect) ![](assets/new.png)  
-- [2019-02-22-【第1533期】Taro-多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React-Native）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=1&sn=6558c5aa161719de0d569c9f73a75576#wechat_redirect) ![](assets/new.png)  
-- [2019-02-22-【招聘】中移在线服务有限公司招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=2&sn=75db3677f12223ffd1bb92a3d3f68838#wechat_redirect) ![](assets/new.png)  
-- [2019-02-22-【第1534期】为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=1&sn=079dd5731cd8c7a0f0873da54ddc17b4#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-【招聘】重庆八戒财税招聘高级前端开发10k-18k](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=3&sn=a19c730cabc955226c0d1777eaa58faf#wechat_redirect)  
+- [2019-02-22-【第1532期】Lerna包管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=2&sn=455fad50ff0d6393a416b58c329c053b#wechat_redirect)  
+- [2019-02-22-节后跳槽，你的工作经验货真价实吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=1&sn=cd28c8926732cb37eb0f567f0201d97d#wechat_redirect)  
+- [2019-02-22-【招聘】阿里国际技术事业部-ICBU技术部-资深前端工程师/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=2&sn=7403b256afdfe0eb02558efa0d7b007c#wechat_redirect)  
+- [2019-02-22-【第1533期】Taro-多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React-Native）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=1&sn=6558c5aa161719de0d569c9f73a75576#wechat_redirect)  
+- [2019-02-22-【招聘】中移在线服务有限公司招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=2&sn=75db3677f12223ffd1bb92a3d3f68838#wechat_redirect)  
+- [2019-02-22-【第1534期】为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=1&sn=079dd5731cd8c7a0f0873da54ddc17b4#wechat_redirect)  
 - [2019-02-19-【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect)  
 - [2019-02-19-【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect)  
 - [2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)  
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2019-02-22-每周分享第-44-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html) ![](assets/new.png)  
 - [2019-02-18-ORM-实例教程](http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html)  
 - [2019-02-15-每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)  
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)  
@@ -198,7 +199,6 @@
 - [2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)  
 - [2018-12-21-每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)  
 - [2018-12-14-每周分享第-35-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-35.html)  
-- [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

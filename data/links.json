@@ -3820,6 +3820,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 44 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html",
+        "date": "2019-02-22"
+      },
+      {
         "title": "ORM 实例教程",
         "link": "http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html",
         "date": "2019-02-18"
