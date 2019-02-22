@@ -2,15 +2,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-22 06:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-22 08:00:16，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -24,6 +24,13 @@
 </summary>
 
 
+- [2019-02-22-【招聘】重庆八戒财税招聘高级前端开发10k-18k](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=3&sn=a19c730cabc955226c0d1777eaa58faf#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-【第1532期】Lerna包管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=2&sn=455fad50ff0d6393a416b58c329c053b#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-节后跳槽，你的工作经验货真价实吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=1&sn=cd28c8926732cb37eb0f567f0201d97d#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-【招聘】阿里国际技术事业部-ICBU技术部-资深前端工程师/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=2&sn=7403b256afdfe0eb02558efa0d7b007c#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-【第1533期】Taro-多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React-Native）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=1&sn=6558c5aa161719de0d569c9f73a75576#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-【招聘】中移在线服务有限公司招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=2&sn=75db3677f12223ffd1bb92a3d3f68838#wechat_redirect) ![](assets/new.png)  
+- [2019-02-22-【第1534期】为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231500&idx=1&sn=079dd5731cd8c7a0f0873da54ddc17b4#wechat_redirect) ![](assets/new.png)  
 - [2019-02-19-【英】2019年了解下CSS的连字符](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=3&sn=f01246ef02c7468b82e380a7a41ec091#wechat_redirect)  
 - [2019-02-19-【招聘】杭州网易伏羲实验室招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=2&sn=19f4bc3432eb41319434635123647b98#wechat_redirect)  
 - [2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)  
@@ -37,13 +44,6 @@
 - [2019-02-16-【招聘】阿里数字营销团队招高级前端工程师/前端开发专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231424&idx=2&sn=7579cc3911254e4c85bd70307195aa23#wechat_redirect)  
 - [2019-02-16-【第1528期】前端tree组件，10000个树节点，从14.65s到0.49s](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231424&idx=1&sn=703e47cf1842a0e40296bbb66d27e534#wechat_redirect)  
 - [2019-02-15-【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect)  
-- [2019-02-15-【招聘】腾讯IMWebTeam招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=2&sn=630e7eab5f8c7f61e532389f2f5e2825#wechat_redirect)  
-- [2019-02-15-【第1527期】持续迭代的电商可视化运营页面生成系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=1&sn=9228219f2775b32e299cb62cc099992a#wechat_redirect)  
-- [2019-02-14-【招聘】芒果TV招聘高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=3&sn=c973105c962987e5053fe5313f839818#wechat_redirect)  
-- [2019-02-14-【第1526期】Gitter---高颜值GitHub小程序客户端诞生记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=2&sn=73d8ddc0b27c8a7f15d86d9e3f44d02b#wechat_redirect)  
-- [2019-02-14-2019，Vue3.0终终终于要来了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=1&sn=4dee8d8e5eb9328579c40b06e1880ab8#wechat_redirect)  
-- [2019-02-13-【英】Vue3.0-对Web开发意味着什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=2&sn=8f8f35f095a4ed28ac6fcc83b45af8cc#wechat_redirect)  
-- [2019-02-13-【第1525期】Vuex、Flux、Redux、Redux-saga、Dva、MobX](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231366&idx=1&sn=0e322d1fb0b59710aae98fe9df7d00ae#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -148,7 +148,7 @@
 </summary>
 
 
-- [2019-02-22-使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/) ![](assets/new.png)  
+- [2019-02-22-使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/)  
 - [2019-02-11-快速了解CSS新出的列选择符双管道（||）](https://www.zhangxinxu.com/wordpress/2019/02/css-column-combinator/)  
 - [2019-02-02-写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/)  
 - [2019-01-31-写给自己看的CSS-columns分栏布局教程](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-columns-layout/)  
