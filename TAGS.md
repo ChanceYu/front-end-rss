@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-24 06:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-24 22:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -195,6 +195,7 @@
 
 
 
+- [【前端早读课】【第1536期】Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231515&idx=1&sn=55cd553fd9dcd5302916360a457eebe6#wechat_redirect)
 - [【前端早读课】【第1498期】webpack-loader机制源码解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=1&sn=3af117fc01f14e173aa97c41d739c65b#wechat_redirect)
 - [【前端早读课】【第1489期】关于JavaScript,-NPM官方发布了2018年的回顾以及2019年的预测](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=1&sn=fef690e05d35625b8375e2641d762c73#wechat_redirect)
 - [【前端早读课】【英】Better-NPM'ing,-Tips-and-Tricks-using-NPM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=2&sn=f42e7578c95e06b425fbdc345188fbad#wechat_redirect)
