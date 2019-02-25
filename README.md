@@ -2,19 +2,19 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-25 18:00:32，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-25 22:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu.io](#aotu.io)![](assets/dot.png)   
+- [Aotu.io](#aotu.io)  
 
 ## 文章链接
 
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-02-25-面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect) ![](assets/new.png)  
+- [2019-02-25-Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect) ![](assets/new.png)  
 - [2019-02-24-为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555927&idx=1&sn=e541696886464620d857b6faedac9c22#wechat_redirect)  
 - [2019-02-23-面向对象：期待在正确的时间，遇见更好的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555923&idx=2&sn=7e5249b20d38b602a5e307dc45d94bfb#wechat_redirect)  
 - [2019-02-23-2019-前端面试题汇总（主要为-Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555923&idx=1&sn=6efe452d98aea690dcc396d17aa3d172#wechat_redirect)  
@@ -73,8 +75,6 @@
 - [2019-02-14-Chrome-调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555873&idx=1&sn=1295aecf761b8305a01713c7ea553f3c#wechat_redirect)  
 - [2019-02-13-面向对象：希望找一位稳重坦荡的大哥哥，走向远方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=2&sn=620245ed420d2238fc6d53a9dbe461ae#wechat_redirect)  
 - [2019-02-13-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555867&idx=1&sn=26fd9453d61cc1f1f0196f29bf202f7a#wechat_redirect)  
-- [2019-02-12-Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555861&idx=1&sn=806ec8a88779b3bb2ea306154ef216e2#wechat_redirect)  
-- [2019-02-11-面向对象：不要热情，不要高冷，只要37度的温暖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555857&idx=2&sn=37450fe93bfa8a1817d2b6f1ec59d90d#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -272,7 +272,7 @@
 </summary>
 
 
-- [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) ![](assets/new.png)  
+- [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
 - [2018-11-30-Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/)  
