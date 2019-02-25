@@ -4456,6 +4456,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "Taro UI 2.0 发布：新增自定义主题功能，适配更多小程序",
+        "link": "https://aotu.io/notes/2019/02/25/taro-ui-2.0/",
+        "date": "2019-02-25"
+      },
+      {
         "title": "全新 Phaser 3 游戏引擎特性一览",
         "link": "https://aotu.io/notes/2018/12/23/phaser3/",
         "date": "2018-12-24"

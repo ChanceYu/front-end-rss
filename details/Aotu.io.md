@@ -1,7 +1,8 @@
-:alarm_clock: 更新时间: 2019-02-21 22:00:29。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-25 18:00:32。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Aotu.io
 
+- [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 
 - [2018-11-30-Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/) 

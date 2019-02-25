@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-25 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-25 18:00:32。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,6 +146,7 @@
 - [【前端里】2019-02-24-精心挑选的2018年最佳前端特效（系列七）](http://www.yyyweb.com/5249.html) 
 - [【前端里】2019-02-10-精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html) 
 - [【JDC-|-京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
+- [【Aotu.io】2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

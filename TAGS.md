@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-25 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-25 18:00:32。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -311,6 +311,7 @@
 - [【JDC-|-京东设计中心】微信小程序·云开发初体验](https://jdc.jd.com/archives/212791)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
 - [【JDC-|-京东设计中心】小程序实战总结](https://jdc.jd.com/archives/212697)
+- [【Aotu.io】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)
 - [【Aotu.io】Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)
 - [【Aotu.io】Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/)
 - [【Aotu.io】Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)

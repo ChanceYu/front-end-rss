@@ -2,11 +2,11 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-25 08:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-25 18:00:32，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -14,7 +14,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu.io](#aotu.io)  
+- [Aotu.io](#aotu.io)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -24,7 +24,7 @@
 </summary>
 
 
-- [2019-02-25-【第1537期】Fusion-Next-之-Upload-上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect) ![](assets/new.png)  
+- [2019-02-25-【第1537期】Fusion-Next-之-Upload-上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect)  
 - [2019-02-24-【第1536期】Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231515&idx=1&sn=55cd553fd9dcd5302916360a457eebe6#wechat_redirect)  
 - [2019-02-23-【招聘】杭州蚂蚁金服mPaaS团队招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=2&sn=bbdde817477b76e673b02e9a088cd82a#wechat_redirect)  
 - [2019-02-23-【第1535期】前端-Form-的表单的一个通用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=1&sn=c322b29293b40442430f5c29b15306ac#wechat_redirect)  
@@ -272,6 +272,7 @@
 </summary>
 
 
+- [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) ![](assets/new.png)  
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
 - [2018-11-30-Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/)  
@@ -291,7 +292,6 @@
 - [2018-01-28-H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/)  
 - [2018-01-17-H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/)  
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)  
-- [2018-01-04-H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/)  
 - [......【查看更多】......](./details/Aotu.io.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
