@@ -3638,6 +3638,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "link rel=alternate网站换肤功能最佳实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/",
+        "date": "2019-02-25"
+      },
+      {
         "title": "使用document.scrollingElement控制窗体滚动高度",
         "link": "https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/",
         "date": "2019-02-22"

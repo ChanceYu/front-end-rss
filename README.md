@@ -2,15 +2,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-25 22:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-26 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -55,8 +55,8 @@
 </summary>
 
 
-- [2019-02-25-面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect) ![](assets/new.png)  
-- [2019-02-25-Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect) ![](assets/new.png)  
+- [2019-02-25-面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect)  
+- [2019-02-25-Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect)  
 - [2019-02-24-为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555927&idx=1&sn=e541696886464620d857b6faedac9c22#wechat_redirect)  
 - [2019-02-23-面向对象：期待在正确的时间，遇见更好的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555923&idx=2&sn=7e5249b20d38b602a5e307dc45d94bfb#wechat_redirect)  
 - [2019-02-23-2019-前端面试题汇总（主要为-Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555923&idx=1&sn=6efe452d98aea690dcc396d17aa3d172#wechat_redirect)  
@@ -148,6 +148,7 @@
 </summary>
 
 
+- [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/) ![](assets/new.png)  
 - [2019-02-22-使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/)  
 - [2019-02-11-快速了解CSS新出的列选择符双管道（||）](https://www.zhangxinxu.com/wordpress/2019/02/css-column-combinator/)  
 - [2019-02-02-写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/)  
@@ -167,7 +168,6 @@
 - [2018-12-17-周知：CSS--webkit-伪元素选择器不再导致整行无效](https://www.zhangxinxu.com/wordpress/2018/12/css-webkit-%e4%bc%aa%e5%85%83%e7%b4%a0-%e9%80%89%e6%8b%a9%e5%99%a8-%e6%97%a0%e6%95%88/)  
 - [2018-12-09-使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/)  
 - [2018-12-09-CSS-font-feature-settings-50+关键字属性值完整介绍](https://www.zhangxinxu.com/wordpress/2018/12/css-font-feature-settings-keyword-value/)  
-- [2018-12-06-CSS蛋疼应用之：数据上报和HTML验证](https://www.zhangxinxu.com/wordpress/2018/12/css-data-report-html-validate/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
