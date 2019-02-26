@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-26 06:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-26 12:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,8 @@
 </summary>
 
 
+- [【前端早读课】2019-02-26-【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect) 
+- [【前端早读课】2019-02-26-【第1538期】聊聊前端国际化文案该如何处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=1&sn=b2c7d1ea76de011d564f17653d28b914#wechat_redirect) 
 - [【前端早读课】2019-02-25-【第1537期】Fusion-Next-之-Upload-上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect) 
 - [【前端早读课】2019-02-24-【第1536期】Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231515&idx=1&sn=55cd553fd9dcd5302916360a457eebe6#wechat_redirect) 
 - [【前端早读课】2019-02-23-【招聘】杭州蚂蚁金服mPaaS团队招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=2&sn=bbdde817477b76e673b02e9a088cd82a#wechat_redirect) 
