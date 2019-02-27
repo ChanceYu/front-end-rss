@@ -2,17 +2,17 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-27 18:00:28，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-28 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -55,8 +55,8 @@
 </summary>
 
 
-- [2019-02-27-前端中的-IoC-理念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=2&sn=d2d335f0f41db8a1ea5c59155d47b78c#wechat_redirect) ![](assets/new.png)  
-- [2019-02-27-学好前端的-6-点建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=1&sn=f170cef84af5d5e1cf29477acd2a15bc#wechat_redirect) ![](assets/new.png)  
+- [2019-02-27-前端中的-IoC-理念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=2&sn=d2d335f0f41db8a1ea5c59155d47b78c#wechat_redirect)  
+- [2019-02-27-学好前端的-6-点建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=1&sn=f170cef84af5d5e1cf29477acd2a15bc#wechat_redirect)  
 - [2019-02-26-面试官问：JS-的继承](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555940&idx=1&sn=f65e7d7a1f73953f27c574776dd388f1#wechat_redirect)  
 - [2019-02-25-面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect)  
 - [2019-02-25-Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect)  
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-02-27-Flutter-1.2发布，带来全新的Web开发工具！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490557&idx=1&sn=e09c987ddec32590149764347c5b2381#wechat_redirect) ![](assets/new.png)  
+- [2019-02-27-Flutter-1.2发布，带来全新的Web开发工具！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490557&idx=1&sn=e09c987ddec32590149764347c5b2381#wechat_redirect)  
 - [2019-02-26-拯救尴尬：鉴黄神器NSFW-JS开源了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490544&idx=1&sn=e42b89b3871248fed63d27a0e2b46562#wechat_redirect)  
 - [2019-02-26-庖丁解牛！深入剖析React-Native下一代架构重构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490550&idx=1&sn=2f73fa747006c250c48fea5f8e329e49#wechat_redirect)  
 - [2019-02-24-蚂蚁金服如何把前端性能监控做到极致?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490527&idx=1&sn=cc2549683b3ff69c042483d78ced766a#wechat_redirect)  
@@ -210,6 +210,7 @@
 </summary>
 
 
+- [2019-02-27-高效秘籍：五个最佳的GTD应用软件](http://www.yyyweb.com/5271.html) ![](assets/new.png)  
 - [2019-02-24-精心挑选的2018年最佳前端特效（系列七）](http://www.yyyweb.com/5249.html)  
 - [2019-02-10-精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html)  
 - [2019-01-20-精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html)  
@@ -229,7 +230,6 @@
 - [2018-11-17-Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html)  
 - [2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html)  
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html)  
-- [2018-11-08-开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-27 18:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-28 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -156,6 +156,7 @@
 - [【阮一峰的网络日志】2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
 - [【阮一峰的网络日志】2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html) 
 - [【阮一峰的网络日志】2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html) 
+- [【前端里】2019-02-27-高效秘籍：五个最佳的GTD应用软件](http://www.yyyweb.com/5271.html) 
 - [【前端里】2019-02-24-精心挑选的2018年最佳前端特效（系列七）](http://www.yyyweb.com/5249.html) 
 - [【前端里】2019-02-10-精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html) 
 - [【JDC-|-京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
