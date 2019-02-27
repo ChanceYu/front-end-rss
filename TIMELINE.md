@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-26 22:00:32。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-27 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,8 @@
 </summary>
 
 
+- [【前端早读课】2019-02-27-【图书】精通CSS：高级Web标准解决方案（第三版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=2&sn=9fdc0984920c1db35af6a149051a6637#wechat_redirect) 
+- [【前端早读课】2019-02-27-【第1539期】在淘宝做前端的这三年-—-第一年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=1&sn=9774fc32e46368689e698daa56341512#wechat_redirect) 
 - [【前端早读课】2019-02-26-【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect) 
 - [【前端早读课】2019-02-26-【第1538期】聊聊前端国际化文案该如何处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=1&sn=b2c7d1ea76de011d564f17653d28b914#wechat_redirect) 
 - [【前端早读课】2019-02-25-【第1537期】Fusion-Next-之-Upload-上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect) 

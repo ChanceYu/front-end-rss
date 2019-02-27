@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-02-26 22:00:32，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-02-27 08:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-02-27-【图书】精通CSS：高级Web标准解决方案（第三版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=2&sn=9fdc0984920c1db35af6a149051a6637#wechat_redirect) ![](assets/new.png)  
+- [2019-02-27-【第1539期】在淘宝做前端的这三年-—-第一年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=1&sn=9774fc32e46368689e698daa56341512#wechat_redirect) ![](assets/new.png)  
 - [2019-02-26-【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect)  
 - [2019-02-26-【第1538期】聊聊前端国际化文案该如何处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=1&sn=b2c7d1ea76de011d564f17653d28b914#wechat_redirect)  
 - [2019-02-25-【第1537期】Fusion-Next-之-Upload-上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect)  
@@ -42,8 +44,6 @@
 - [2019-02-19-【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)  
 - [2019-02-18-【招聘】蚂蚁金服开放与平台技术部招P6/P7/P8](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=3&sn=511e09105c31d2587049abf7fb49464e#wechat_redirect)  
 - [2019-02-18-【英】我是一个平庸的开发人员](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=2&sn=e0eb50d8c254a1ef8d8bf929483a10ca#wechat_redirect)  
-- [2019-02-18-【第1530期】React-Fiber架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=1&sn=6131d924653be3486f5ca86a8b43d348#wechat_redirect)  
-- [2019-02-17-【英】React-16.x-路线图](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=3&sn=48a224f8fd1c0930c0f4bcd4790ea9ae#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,7 +55,7 @@
 </summary>
 
 
-- [2019-02-26-面试官问：JS-的继承](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555940&idx=1&sn=f65e7d7a1f73953f27c574776dd388f1#wechat_redirect) ![](assets/new.png)  
+- [2019-02-26-面试官问：JS-的继承](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555940&idx=1&sn=f65e7d7a1f73953f27c574776dd388f1#wechat_redirect)  
 - [2019-02-25-面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect)  
 - [2019-02-25-Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect)  
 - [2019-02-24-为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555927&idx=1&sn=e541696886464620d857b6faedac9c22#wechat_redirect)  
@@ -86,8 +86,8 @@
 </summary>
 
 
-- [2019-02-26-拯救尴尬：鉴黄神器NSFW-JS开源了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490544&idx=1&sn=e42b89b3871248fed63d27a0e2b46562#wechat_redirect) ![](assets/new.png)  
-- [2019-02-26-庖丁解牛！深入剖析React-Native下一代架构重构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490550&idx=1&sn=2f73fa747006c250c48fea5f8e329e49#wechat_redirect) ![](assets/new.png)  
+- [2019-02-26-拯救尴尬：鉴黄神器NSFW-JS开源了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490544&idx=1&sn=e42b89b3871248fed63d27a0e2b46562#wechat_redirect)  
+- [2019-02-26-庖丁解牛！深入剖析React-Native下一代架构重构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490550&idx=1&sn=2f73fa747006c250c48fea5f8e329e49#wechat_redirect)  
 - [2019-02-24-蚂蚁金服如何把前端性能监控做到极致?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490527&idx=1&sn=cc2549683b3ff69c042483d78ced766a#wechat_redirect)  
 - [2019-02-24-2018年最好的45个Vue开源项目汇总](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490533&idx=1&sn=f93465b7d8ac674deb15cfcb0e2bff56#wechat_redirect)  
 - [2019-02-22-每秒解析千兆字节的JSON解析器开源，秒杀一大波解析器！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490521&idx=1&sn=598b2d7fb5db1bab10ea189891322b6c#wechat_redirect)  
