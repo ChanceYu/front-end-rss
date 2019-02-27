@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-27 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-27 18:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -92,6 +92,8 @@
 - [【前端早读课】2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
 - [【前端早读课】2019-02-07-【英】React-v16.8发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231335&idx=1&sn=e4fbfeec598532e0749e8af3c6f66276#wechat_redirect) 
 - [【前端早读课】2019-02-05-【第1522期】Vue-2.6-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231330&idx=1&sn=4f90c7653f545a1fe4ee77a57f88e130#wechat_redirect) 
+- [【前端大全】2019-02-27-前端中的-IoC-理念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=2&sn=d2d335f0f41db8a1ea5c59155d47b78c#wechat_redirect) 
+- [【前端大全】2019-02-27-学好前端的-6-点建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=1&sn=f170cef84af5d5e1cf29477acd2a15bc#wechat_redirect) 
 - [【前端大全】2019-02-26-面试官问：JS-的继承](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555940&idx=1&sn=f65e7d7a1f73953f27c574776dd388f1#wechat_redirect) 
 - [【前端大全】2019-02-25-面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect) 
 - [【前端大全】2019-02-25-Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect) 
@@ -120,6 +122,7 @@
 - [【前端大全】2019-02-03-面向对象：思维跳跃，喜欢户外运动，很贤惠的宝宝](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=2&sn=9729733647f8c274cbf34ec02072d4f8#wechat_redirect) 
 - [【前端大全】2019-02-03-Google-谈论杀死-URL-的第一步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555850&idx=1&sn=30c8fc0061fa004474366f84f09284c4#wechat_redirect) 
 - [【前端大全】2019-02-01-2019-年-Web-开发技术指南和趋势：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555842&idx=1&sn=abf75166007661b931be72e7364b5f52#wechat_redirect) 
+- [【前端之巅】2019-02-27-Flutter-1.2发布，带来全新的Web开发工具！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490557&idx=1&sn=e09c987ddec32590149764347c5b2381#wechat_redirect) 
 - [【前端之巅】2019-02-26-拯救尴尬：鉴黄神器NSFW-JS开源了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490544&idx=1&sn=e42b89b3871248fed63d27a0e2b46562#wechat_redirect) 
 - [【前端之巅】2019-02-26-庖丁解牛！深入剖析React-Native下一代架构重构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490550&idx=1&sn=2f73fa747006c250c48fea5f8e329e49#wechat_redirect) 
 - [【前端之巅】2019-02-24-蚂蚁金服如何把前端性能监控做到极致?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490527&idx=1&sn=cc2549683b3ff69c042483d78ced766a#wechat_redirect) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-02-27 08:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-02-27 18:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -344,6 +344,7 @@
 - [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
+- [【前端之巅】Flutter-1.2发布，带来全新的Web开发工具！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490557&idx=1&sn=e09c987ddec32590149764347c5b2381#wechat_redirect)
 - [【前端之巅】使用Flutter之后，我们的CPU占用率降了50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490514&idx=1&sn=6463e69b68bb88004afee9f77bedb335#wechat_redirect)
 - [【前端之巅】爱奇艺开播助手Flutter跨平台Hybrid实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490431&idx=1&sn=e6b42ee0156f09a841c56e53313a6466#wechat_redirect)
 - [【前端之巅】使用Flutter一年后，这是我得到的经验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490316&idx=1&sn=7e5f81004e944e16f25621aaf7493b22#wechat_redirect)
@@ -1017,6 +1018,8 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】前端中的-IoC-理念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=2&sn=d2d335f0f41db8a1ea5c59155d47b78c#wechat_redirect)
+- [【前端大全】学好前端的-6-点建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=1&sn=f170cef84af5d5e1cf29477acd2a15bc#wechat_redirect)
 - [【前端大全】面向对象：执子之手，与子偕老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=2&sn=91a1aaafffcb00069906779b19c9a9ac#wechat_redirect)
 - [【前端大全】为什么-'XX'-不是一个-Hooks-API?](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555927&idx=1&sn=e541696886464620d857b6faedac9c22#wechat_redirect)
 - [【前端大全】面向对象：期待在正确的时间，遇见更好的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555923&idx=2&sn=7e5249b20d38b602a5e307dc45d94bfb#wechat_redirect)
