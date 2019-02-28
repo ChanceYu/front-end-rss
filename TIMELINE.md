@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-02-28 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-02-28 08:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -52,6 +52,9 @@
 </summary>
 
 
+- [【前端早读课】2019-02-28-【英】Chrome中Javascript加载优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=3&sn=8fbd825d545a16bd9a4330915e4fa3e4#wechat_redirect) 
+- [【前端早读课】2019-02-28-【活动】中国第五届CSS开发者大会抢购早鸟票啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=2&sn=fe556e518f2c9cb6dec15418ee433f33#wechat_redirect) 
+- [【前端早读课】2019-02-28-【第1540期】Fusion组件库是如何支持多语言能力的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=1&sn=35bfb325d4515bb5d5fe599d0b7b25c2#wechat_redirect) 
 - [【前端早读课】2019-02-27-【图书】精通CSS：高级Web标准解决方案（第三版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=2&sn=9fdc0984920c1db35af6a149051a6637#wechat_redirect) 
 - [【前端早读课】2019-02-27-【第1539期】在淘宝做前端的这三年-—-第一年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=1&sn=9774fc32e46368689e698daa56341512#wechat_redirect) 
 - [【前端早读课】2019-02-26-【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect) 
