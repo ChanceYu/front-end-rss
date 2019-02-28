@@ -4556,6 +4556,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "决战性能之巅 - Taro H5 转换与优化升级",
+        "link": "https://aotu.io/notes/2019/02/28/taro-h5-optimize/",
+        "date": "2019-02-28"
+      },
+      {
         "title": "Taro UI 2.0 发布：新增自定义主题功能，适配更多小程序",
         "link": "https://aotu.io/notes/2019/02/25/taro-ui-2.0/",
         "date": "2019-02-25"
