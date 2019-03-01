@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-01 18:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-01 22:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -742,6 +742,7 @@
 - [【前端早读课】【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect)
 - [【前端早读课】【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect)
 - [【前端大全】Chrome-调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555873&idx=1&sn=1295aecf761b8305a01713c7ea553f3c#wechat_redirect)
 - [【前端大全】微软劝你别再使用-IE-浏览器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555857&idx=1&sn=3dc72ff5af6e2790b9e4883ea726c4de#wechat_redirect)
 - [【前端大全】九种跨域方式实现原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555851&idx=1&sn=8022abfe1f84b3ac8d29f1d1291b557b#wechat_redirect)
@@ -764,6 +765,7 @@
 - [【前端大全】Chrome-的哪些功能改变了我们浏览网页的方式？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555109&idx=1&sn=5255eb07d39b70c722b84327fb32d73a#wechat_redirect)
 - [【前端大全】主流浏览器图片反防盗链方法总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=2&sn=80c9ecfa073ad24e16ff3bd6d49a326a#wechat_redirect)
 - [【前端大全】一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect)
+- [【前端之巅】如何在浏览器不崩溃的情况下过滤200万行数据？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490572&idx=1&sn=7a321a181f6231df3aac923c6c0b4c1b#wechat_redirect)
 - [【前端之巅】2018年浏览器混战：为什么技术救不了Edge？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247490093&idx=1&sn=93baefc3dc5b4d3c9962345df60628b3&scene=0#wechat_redirect)
 - [【前端之巅】如何调试一个无法重现的错误？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490078&idx=1&sn=8d0197ca67dae4a4b4fa7256aaf722c8#wechat_redirect)
 - [【前端之巅】官宣！微软宣布桌面版Edge将基于Chromium进行开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490068&idx=1&sn=5fd417a6f21929adce0897972f025ffe#wechat_redirect)
