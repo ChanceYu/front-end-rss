@@ -5,6 +5,21 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect",
+        "date": "2019-03-01"
+      },
+      {
+        "title": "【第1541期】资源优先级 – 让浏览器助您一臂之力",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect",
+        "date": "2019-03-01"
+      },
+      {
+        "title": "不要再死磕React了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect",
+        "date": "2019-03-01"
+      },
+      {
         "title": "【英】Chrome中Javascript加载优先级",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=3&sn=8fbd825d545a16bd9a4330915e4fa3e4#wechat_redirect",
         "date": "2019-02-28"
@@ -3974,6 +3989,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "每周分享第 45 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html",
+        "date": "2019-03-01"
+      },
       {
         "title": "每周分享第 44 期",
         "link": "http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html",

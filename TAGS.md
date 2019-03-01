@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-01 06:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-01 12:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -35,6 +35,7 @@
 
 
 
+- [【前端早读课】不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect)
 - [【前端早读课】【第1533期】Taro-多端开发的正确姿势：打造三端统一的网易严选（小程序、H5、React-Native）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=1&sn=6558c5aa161719de0d569c9f73a75576#wechat_redirect)
 - [【前端早读课】【第1530期】React-Fiber架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231450&idx=1&sn=6131d924653be3486f5ca86a8b43d348#wechat_redirect)
 - [【前端早读课】【英】React-16.x-路线图](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=3&sn=48a224f8fd1c0930c0f4bcd4790ea9ae#wechat_redirect)
@@ -731,6 +732,7 @@
 
 
 
+- [【前端早读课】【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect)
 - [【前端早读课】【第1513期】精读《国际化布局---Logical-Properties》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231239&idx=2&sn=933e5b8767995a5aa198c3192c44165d#wechat_redirect)
 - [【前端早读课】【第1501期】浏览器往返缓存（Back/Forward-cache）问题的分析与解决](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=2&sn=137706ea7af4762a7c6e649617259f82#wechat_redirect)
 - [【前端早读课】【英】Microsoft-Edge-and-Chromium-Open-Source:-Our-Intent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230910&idx=2&sn=c24187a0779a53d9e1e54ce4eddede45#wechat_redirect)
@@ -867,6 +869,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect)
 - [【前端早读课】【招聘】杭州蚂蚁金服mPaaS团队招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=2&sn=bbdde817477b76e673b02e9a088cd82a#wechat_redirect)
 - [【前端早读课】【招聘】重庆八戒财税招聘高级前端开发10k-18k](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=3&sn=a19c730cabc955226c0d1777eaa58faf#wechat_redirect)
 - [【前端早读课】【招聘】阿里国际技术事业部-ICBU技术部-资深前端工程师/专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231493&idx=2&sn=7403b256afdfe0eb02558efa0d7b007c#wechat_redirect)
@@ -1218,6 +1221,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)
 - [【阮一峰的网络日志】每周分享第-44-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)
 - [【阮一峰的网络日志】ORM-实例教程](http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html)
 - [【阮一峰的网络日志】每周分享第-43-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-43.html)
