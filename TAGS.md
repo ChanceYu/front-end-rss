@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-03 18:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-04 06:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1038,6 +1038,7 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect)
 - [【前端大全】面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect)
 - [【前端大全】面向对象：好的事情总会到来，如果它来迟了，可能会是意外的惊喜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555948&idx=2&sn=4346165b2178c8701c91cbc74cc9060b#wechat_redirect)
 - [【前端大全】前端中的-IoC-理念](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555942&idx=2&sn=d2d335f0f41db8a1ea5c59155d47b78c#wechat_redirect)

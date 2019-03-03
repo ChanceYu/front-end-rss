@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-03 18:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-04 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -55,6 +55,7 @@
 </summary>
 
 
+- [2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect) ![](assets/new.png)  
 - [2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect)  
 - [2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect)  
 - [2019-03-01-我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect)  
@@ -74,7 +75,6 @@
 - [2019-02-21-三个值得期待的-JavaScript-新特性！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=1&sn=490cafdcc9a74393de3cc8c3244dad94#wechat_redirect)  
 - [2019-02-21-面向对象：期待一个与我契合的有趣灵魂](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555910&idx=2&sn=90621e9e7992e1545d2de76a44e9edd4#wechat_redirect)  
 - [2019-02-21-都-9102-年了，还问-GET-和-POST-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555910&idx=1&sn=fae1a52cb2a4bbb614cebd6a10cfd43e#wechat_redirect)  
-- [2019-02-18-Node.js-项目拆包工程化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=2&sn=01c50d5f35e3ac1ef84e9672c754a7a9#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect) ![](assets/new.png)  
+- [2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect)  
 - [2019-03-02-Vue性能优化：如何实现延迟加载和代码拆分？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490577&idx=1&sn=1a2edeb23fa04328ea1fd5dcba0c0a79#wechat_redirect)  
 - [2019-03-01-如何在浏览器不崩溃的情况下过滤200万行数据？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490572&idx=1&sn=7a321a181f6231df3aac923c6c0b4c1b#wechat_redirect)  
 - [2019-02-28-理解这12个概念，让你的JavaScript开发更上一层楼](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490565&idx=1&sn=4b2cf2854563f92c991b863f18854868#wechat_redirect)  
