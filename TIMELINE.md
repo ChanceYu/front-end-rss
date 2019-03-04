@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-04 06:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-04 18:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -53,6 +53,9 @@
 </summary>
 
 
+- [【前端早读课】2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect) 
+- [【前端早读课】2019-03-04-【第1544期】前端之未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=2&sn=e9cedc1f68c8482088fa43234fb97dbd#wechat_redirect) 
+- [【前端早读课】2019-03-04-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=1&sn=ec25a1e7c34183dc46da3c79644935b7#wechat_redirect) 
 - [【前端早读课】2019-03-03-【招聘】腾讯IVWEB前端团队-互动视频招前端／2020前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=2&sn=6e1b30e5e9cb5895ffc9034d22b0837d#wechat_redirect) 
 - [【前端早读课】2019-03-03-【第1543期】如何写一篇杀手级的软件工程师简历](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=1&sn=5a4f092a461b6f8f98660f416e51559a#wechat_redirect) 
 - [【前端早读课】2019-03-02-【英】翻转你的动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231578&idx=3&sn=61dfb2e3a0c93268600eae4ae877ee72#wechat_redirect) 

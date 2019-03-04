@@ -2,12 +2,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-04 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-04 18:00:28，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect) ![](assets/new.png)  
+- [2019-03-04-【第1544期】前端之未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=2&sn=e9cedc1f68c8482088fa43234fb97dbd#wechat_redirect) ![](assets/new.png)  
+- [2019-03-04-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=1&sn=ec25a1e7c34183dc46da3c79644935b7#wechat_redirect) ![](assets/new.png)  
 - [2019-03-03-【招聘】腾讯IVWEB前端团队-互动视频招前端／2020前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=2&sn=6e1b30e5e9cb5895ffc9034d22b0837d#wechat_redirect)  
 - [2019-03-03-【第1543期】如何写一篇杀手级的软件工程师简历](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=1&sn=5a4f092a461b6f8f98660f416e51559a#wechat_redirect)  
 - [2019-03-02-【英】翻转你的动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231578&idx=3&sn=61dfb2e3a0c93268600eae4ae877ee72#wechat_redirect)  
@@ -41,9 +44,6 @@
 - [2019-02-26-【第1538期】聊聊前端国际化文案该如何处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=1&sn=b2c7d1ea76de011d564f17653d28b914#wechat_redirect)  
 - [2019-02-25-【第1537期】Fusion-Next-之-Upload-上传组件设计思路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231525&idx=1&sn=62ee4b8c143cf5a29ef98c6d529b970f#wechat_redirect)  
 - [2019-02-24-【第1536期】Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231515&idx=1&sn=55cd553fd9dcd5302916360a457eebe6#wechat_redirect)  
-- [2019-02-23-【招聘】杭州蚂蚁金服mPaaS团队招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=2&sn=bbdde817477b76e673b02e9a088cd82a#wechat_redirect)  
-- [2019-02-23-【第1535期】前端-Form-的表单的一个通用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231513&idx=1&sn=c322b29293b40442430f5c29b15306ac#wechat_redirect)  
-- [2019-02-22-【招聘】重庆八戒财税招聘高级前端开发10k-18k](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231474&idx=3&sn=a19c730cabc955226c0d1777eaa58faf#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,7 +55,7 @@
 </summary>
 
 
-- [2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect) ![](assets/new.png)  
+- [2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect)  
 - [2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect)  
 - [2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect)  
 - [2019-03-01-我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect)  
