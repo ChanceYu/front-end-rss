@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-04 18:00:28，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-04 22:00:31，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect) ![](assets/new.png)  
-- [2019-03-04-【第1544期】前端之未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=2&sn=e9cedc1f68c8482088fa43234fb97dbd#wechat_redirect) ![](assets/new.png)  
-- [2019-03-04-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=1&sn=ec25a1e7c34183dc46da3c79644935b7#wechat_redirect) ![](assets/new.png)  
+- [2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect)  
+- [2019-03-04-【第1544期】前端之未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=2&sn=e9cedc1f68c8482088fa43234fb97dbd#wechat_redirect)  
+- [2019-03-04-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=1&sn=ec25a1e7c34183dc46da3c79644935b7#wechat_redirect)  
 - [2019-03-03-【招聘】腾讯IVWEB前端团队-互动视频招前端／2020前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=2&sn=6e1b30e5e9cb5895ffc9034d22b0837d#wechat_redirect)  
 - [2019-03-03-【第1543期】如何写一篇杀手级的软件工程师简历](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=1&sn=5a4f092a461b6f8f98660f416e51559a#wechat_redirect)  
 - [2019-03-02-【英】翻转你的动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231578&idx=3&sn=61dfb2e3a0c93268600eae4ae877ee72#wechat_redirect)  
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-03-04-前端JS实现字符串/图片/excel文件下载](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=2&sn=1a08de8c89743dd15ea1eb0fcefcc37c#wechat_redirect) ![](assets/new.png)  
+- [2019-03-04-无React，不前端。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=1&sn=f89d8fd467659dcfc95a90488c7aa365#wechat_redirect) ![](assets/new.png)  
 - [2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect)  
 - [2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect)  
 - [2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect)  
@@ -73,8 +75,6 @@
 - [2019-02-22-认识-Fetch-API](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555918&idx=1&sn=0d34e4a852f52be7f9fa74bf401e47a0#wechat_redirect)  
 - [2019-02-21-面向对象：佛系大龄少女，喜欢有趣的灵魂～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=2&sn=3517c07667a91b5c19adf8a3a15ff813#wechat_redirect)  
 - [2019-02-21-三个值得期待的-JavaScript-新特性！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=1&sn=490cafdcc9a74393de3cc8c3244dad94#wechat_redirect)  
-- [2019-02-21-面向对象：期待一个与我契合的有趣灵魂](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555910&idx=2&sn=90621e9e7992e1545d2de76a44e9edd4#wechat_redirect)  
-- [2019-02-21-都-9102-年了，还问-GET-和-POST-的区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555910&idx=1&sn=fae1a52cb2a4bbb614cebd6a10cfd43e#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-03-04-代码体积减少80%！Taro-H5转换与优化升级](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490592&idx=1&sn=36f17ce162caef39acd6552e7f1d23a5#wechat_redirect) ![](assets/new.png)  
 - [2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect)  
 - [2019-03-02-Vue性能优化：如何实现延迟加载和代码拆分？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490577&idx=1&sn=1a2edeb23fa04328ea1fd5dcba0c0a79#wechat_redirect)  
 - [2019-03-01-如何在浏览器不崩溃的情况下过滤200万行数据？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490572&idx=1&sn=7a321a181f6231df3aac923c6c0b4c1b#wechat_redirect)  
@@ -105,7 +106,6 @@
 - [2019-02-16-尤雨溪回应：Vue与TypeScript为什么相性特别差？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490464&idx=1&sn=0c75aaab12002c76198a8d6f183cd686#wechat_redirect)  
 - [2019-02-14-前端tree优化实践：渲染速度从14.65s到0.49s](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490458&idx=1&sn=7d876669ace959461733d745dd7862ff#wechat_redirect)  
 - [2019-02-13-全能App研发助手！滴滴开源DoraemonKit](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490445&idx=1&sn=27aba4812c9d4f3f72cbf06e40f77c94#wechat_redirect)  
-- [2019-02-12-初尝Deno，这是我的感受](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490437&idx=1&sn=4b5bd637398137d0b94da19e166a0d91#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
