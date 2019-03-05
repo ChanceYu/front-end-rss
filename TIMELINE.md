@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-05 18:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-05 22:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -66,6 +66,8 @@
 - [【前端早读课】2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect) 
 - [【前端早读课】2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect) 
 - [【前端早读课】2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect) 
+- [【前端大全】2019-03-05-面向对象：遇一人白首，择一城终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=2&sn=d79d04e3e468a8b414a38daf6625dfa9#wechat_redirect) 
+- [【前端大全】2019-03-05-换芯后的-Edge-浏览器-UI-首曝光，还是熟悉的味道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=1&sn=2d5a9d48a244bfd7ddf08e31910c15bc#wechat_redirect) 
 - [【前端大全】2019-03-04-前端JS实现字符串/图片/excel文件下载](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=2&sn=1a08de8c89743dd15ea1eb0fcefcc37c#wechat_redirect) 
 - [【前端大全】2019-03-04-无React，不前端。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=1&sn=f89d8fd467659dcfc95a90488c7aa365#wechat_redirect) 
 - [【前端大全】2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect) 

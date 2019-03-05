@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-05 18:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-05 22:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-03-05-面向对象：遇一人白首，择一城终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=2&sn=d79d04e3e468a8b414a38daf6625dfa9#wechat_redirect) ![](assets/new.png)  
+- [2019-03-05-换芯后的-Edge-浏览器-UI-首曝光，还是熟悉的味道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=1&sn=2d5a9d48a244bfd7ddf08e31910c15bc#wechat_redirect) ![](assets/new.png)  
 - [2019-03-04-前端JS实现字符串/图片/excel文件下载](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=2&sn=1a08de8c89743dd15ea1eb0fcefcc37c#wechat_redirect)  
 - [2019-03-04-无React，不前端。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=1&sn=f89d8fd467659dcfc95a90488c7aa365#wechat_redirect)  
 - [2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect)  
@@ -73,8 +75,6 @@
 - [2019-02-23-2019-前端面试题汇总（主要为-Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555923&idx=1&sn=6efe452d98aea690dcc396d17aa3d172#wechat_redirect)  
 - [2019-02-22-前端进击的巨人（1）：执行上下文与执行栈，变量对象](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555914&idx=1&sn=1fd8981c2b1e05139eb5e697fa15dd7e#wechat_redirect)  
 - [2019-02-22-认识-Fetch-API](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555918&idx=1&sn=0d34e4a852f52be7f9fa74bf401e47a0#wechat_redirect)  
-- [2019-02-21-面向对象：佛系大龄少女，喜欢有趣的灵魂～](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=2&sn=3517c07667a91b5c19adf8a3a15ff813#wechat_redirect)  
-- [2019-02-21-三个值得期待的-JavaScript-新特性！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555903&idx=1&sn=490cafdcc9a74393de3cc8c3244dad94#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-05-刚刚，阿里宣布开源Flutter应用框架Fish-Redux！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect) ![](assets/new.png)  
+- [2019-03-05-刚刚，阿里宣布开源Flutter应用框架Fish-Redux！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect)  
 - [2019-03-04-代码体积减少80%！Taro-H5转换与优化升级](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490592&idx=1&sn=36f17ce162caef39acd6552e7f1d23a5#wechat_redirect)  
 - [2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect)  
 - [2019-03-02-Vue性能优化：如何实现延迟加载和代码拆分？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490577&idx=1&sn=1a2edeb23fa04328ea1fd5dcba0c0a79#wechat_redirect)  
