@@ -2929,6 +2929,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "张鑫旭：前端专业方向的尽头",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490610&idx=1&sn=52fab326b1bbd075f41da8ee546001f6#wechat_redirect",
+        "date": "2019-03-06"
+      },
+      {
         "title": "刚刚，阿里宣布开源Flutter应用框架Fish Redux！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect",
         "date": "2019-03-05"
@@ -4129,6 +4134,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "敏捷开发入门教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/03/agile-development.html",
+        "date": "2019-03-06"
+      },
       {
         "title": "每周分享第 45 期",
         "link": "http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html",

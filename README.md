@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-06 08:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-06 22:00:32，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-03-06-【招聘】北京百乘金科（新三板上市公司）招聘前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=3&sn=024f16540ecb26a5fd0802909a6674ca#wechat_redirect) ![](assets/new.png)  
-- [2019-03-06-【第1546期】设计师的下半场，掌握全链路设计的5个方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=2&sn=39ffa25aff39f86974ffbd6e74cb959f#wechat_redirect) ![](assets/new.png)  
-- [2019-03-06-2019给前端开发的-6-点建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=1&sn=97969e5e18f1ed68d11dea830f928ca8#wechat_redirect) ![](assets/new.png)  
+- [2019-03-06-【招聘】北京百乘金科（新三板上市公司）招聘前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=3&sn=024f16540ecb26a5fd0802909a6674ca#wechat_redirect)  
+- [2019-03-06-【第1546期】设计师的下半场，掌握全链路设计的5个方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=2&sn=39ffa25aff39f86974ffbd6e74cb959f#wechat_redirect)  
+- [2019-03-06-2019给前端开发的-6-点建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=1&sn=97969e5e18f1ed68d11dea830f928ca8#wechat_redirect)  
 - [2019-03-05-【招聘】阿里搜索推荐事业部移动端团队招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=2&sn=896075c645218bda40da1044015202ef#wechat_redirect)  
 - [2019-03-05-【第1545期】在淘宝做前端的这三年-—-第二年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=1&sn=4c3639484d0304335ee7db3ce9234315#wechat_redirect)  
 - [2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect)  
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-03-06-张鑫旭：前端专业方向的尽头](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490610&idx=1&sn=52fab326b1bbd075f41da8ee546001f6#wechat_redirect) ![](assets/new.png)  
 - [2019-03-05-刚刚，阿里宣布开源Flutter应用框架Fish-Redux！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect)  
 - [2019-03-04-代码体积减少80%！Taro-H5转换与优化升级](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490592&idx=1&sn=36f17ce162caef39acd6552e7f1d23a5#wechat_redirect)  
 - [2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect)  
@@ -105,7 +106,6 @@
 - [2019-02-17-Angular-8确定包含Ivy，预计今年第二季度发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490482&idx=1&sn=d3d30bbb9defb4c58d2e5cb07b1647b0#wechat_redirect)  
 - [2019-02-16-支持多种小程序！阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490472&idx=1&sn=1159f3ccb7a2303be4df3dcefe9717c6#wechat_redirect)  
 - [2019-02-16-尤雨溪回应：Vue与TypeScript为什么相性特别差？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490464&idx=1&sn=0c75aaab12002c76198a8d6f183cd686#wechat_redirect)  
-- [2019-02-14-前端tree优化实践：渲染速度从14.65s到0.49s](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490458&idx=1&sn=7d876669ace959461733d745dd7862ff#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html) ![](assets/new.png)  
 - [2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)  
 - [2019-02-22-每周分享第-44-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)  
 - [2019-02-18-ORM-实例教程](http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html)  
@@ -198,7 +199,6 @@
 - [2018-12-28-每周分享第-37-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)  
 - [2018-12-25-埃隆·马斯克和特斯拉汽车的故事](http://www.ruanyifeng.com/blog/2018/12/elon-musk.html)  
 - [2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)  
-- [2018-12-21-每周分享第-36-期（20181221）](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-36.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
