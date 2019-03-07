@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-06 22:00:32，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-07 08:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-03-07-【图书】重构：改善既有代码的设计（第2版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=3&sn=e9bcf8137a5abeca8979adf00e153b18#wechat_redirect) ![](assets/new.png)  
+- [2019-03-07-【招聘】上海拼多多招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=2&sn=da459dd648eb5ed99c7e285bb8710089#wechat_redirect) ![](assets/new.png)  
+- [2019-03-07-【第1547期】CSS-继承深度解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=1&sn=907438986a3a1801e953c8c9d3bdad64#wechat_redirect) ![](assets/new.png)  
 - [2019-03-06-【招聘】北京百乘金科（新三板上市公司）招聘前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=3&sn=024f16540ecb26a5fd0802909a6674ca#wechat_redirect)  
 - [2019-03-06-【第1546期】设计师的下半场，掌握全链路设计的5个方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=2&sn=39ffa25aff39f86974ffbd6e74cb959f#wechat_redirect)  
 - [2019-03-06-2019给前端开发的-6-点建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=1&sn=97969e5e18f1ed68d11dea830f928ca8#wechat_redirect)  
@@ -41,9 +44,6 @@
 - [2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect)  
 - [2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect)  
 - [2019-02-28-【英】Chrome中Javascript加载优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=3&sn=8fbd825d545a16bd9a4330915e4fa3e4#wechat_redirect)  
-- [2019-02-28-【活动】中国第五届CSS开发者大会抢购早鸟票啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=2&sn=fe556e518f2c9cb6dec15418ee433f33#wechat_redirect)  
-- [2019-02-28-【第1540期】Fusion组件库是如何支持多语言能力的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=1&sn=35bfb325d4515bb5d5fe599d0b7b25c2#wechat_redirect)  
-- [2019-02-27-【图书】精通CSS：高级Web标准解决方案（第三版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231540&idx=2&sn=9fdc0984920c1db35af6a149051a6637#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-06-张鑫旭：前端专业方向的尽头](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490610&idx=1&sn=52fab326b1bbd075f41da8ee546001f6#wechat_redirect) ![](assets/new.png)  
+- [2019-03-06-张鑫旭：前端专业方向的尽头](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490610&idx=1&sn=52fab326b1bbd075f41da8ee546001f6#wechat_redirect)  
 - [2019-03-05-刚刚，阿里宣布开源Flutter应用框架Fish-Redux！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect)  
 - [2019-03-04-代码体积减少80%！Taro-H5转换与优化升级](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490592&idx=1&sn=36f17ce162caef39acd6552e7f1d23a5#wechat_redirect)  
 - [2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect)  
@@ -179,7 +179,7 @@
 </summary>
 
 
-- [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html) ![](assets/new.png)  
+- [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)  
 - [2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)  
 - [2019-02-22-每周分享第-44-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)  
 - [2019-02-18-ORM-实例教程](http://www.ruanyifeng.com/blog/2019/02/orm-tutorial.html)  
