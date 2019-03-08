@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-07 22:00:40。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-08 12:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -53,6 +53,8 @@
 </summary>
 
 
+- [【前端早读课】2019-03-08-【招聘】广州欢聚时代招高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=2&sn=673dfe336cb138f562328bcae9c85b8b#wechat_redirect) 
+- [【前端早读课】2019-03-08-【第1548期】在淘宝做前端的这三年-—-第三年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=1&sn=9ff637f27b9d135c096cb2c8b859e608#wechat_redirect) 
 - [【前端早读课】2019-03-07-【图书】重构：改善既有代码的设计（第2版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=3&sn=e9bcf8137a5abeca8979adf00e153b18#wechat_redirect) 
 - [【前端早读课】2019-03-07-【招聘】上海拼多多招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=2&sn=da459dd648eb5ed99c7e285bb8710089#wechat_redirect) 
 - [【前端早读课】2019-03-07-【第1547期】CSS-继承深度解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=1&sn=907438986a3a1801e953c8c9d3bdad64#wechat_redirect) 
@@ -92,6 +94,7 @@
 - [【前端之巅】2019-03-01-如何在浏览器不崩溃的情况下过滤200万行数据？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490572&idx=1&sn=7a321a181f6231df3aac923c6c0b4c1b#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
+- [【阮一峰的网络日志】2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html) 
 - [【阮一峰的网络日志】2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html) 
 - [【阮一峰的网络日志】2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html) 
 - [【前端里】2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 

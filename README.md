@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-07 22:00:40，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-08 12:00:16，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-03-08-【招聘】广州欢聚时代招高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=2&sn=673dfe336cb138f562328bcae9c85b8b#wechat_redirect) ![](assets/new.png)  
+- [2019-03-08-【第1548期】在淘宝做前端的这三年-—-第三年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=1&sn=9ff637f27b9d135c096cb2c8b859e608#wechat_redirect) ![](assets/new.png)  
 - [2019-03-07-【图书】重构：改善既有代码的设计（第2版）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=3&sn=e9bcf8137a5abeca8979adf00e153b18#wechat_redirect)  
 - [2019-03-07-【招聘】上海拼多多招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=2&sn=da459dd648eb5ed99c7e285bb8710089#wechat_redirect)  
 - [2019-03-07-【第1547期】CSS-继承深度解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231625&idx=1&sn=907438986a3a1801e953c8c9d3bdad64#wechat_redirect)  
@@ -42,8 +44,6 @@
 - [2019-03-02-【第1542期】让动画变得更简单之FLIP技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231578&idx=1&sn=8377537caab0e9f31a4fea0070448560#wechat_redirect)  
 - [2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect)  
 - [2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect)  
-- [2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect)  
-- [2019-02-28-【英】Chrome中Javascript加载优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=3&sn=8fbd825d545a16bd9a4330915e4fa3e4#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,9 +55,9 @@
 </summary>
 
 
-- [2019-03-07-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555983&idx=1&sn=5ef8f9ae958f219e75c7ff79ab7cbba0#wechat_redirect) ![](assets/new.png)  
-- [2019-03-07-面向对象：上得厅堂，下得厨房，站起来杀猪，坐下来写书](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555989&idx=2&sn=1e4f3cd1fb1829f92b17c5b1e5dc0430#wechat_redirect) ![](assets/new.png)  
-- [2019-03-07-我遇过的最难的Cookie问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555989&idx=1&sn=2846c87243761f65ad85384eb3db99cf#wechat_redirect) ![](assets/new.png)  
+- [2019-03-07-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555983&idx=1&sn=5ef8f9ae958f219e75c7ff79ab7cbba0#wechat_redirect)  
+- [2019-03-07-面向对象：上得厅堂，下得厨房，站起来杀猪，坐下来写书](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555989&idx=2&sn=1e4f3cd1fb1829f92b17c5b1e5dc0430#wechat_redirect)  
+- [2019-03-07-我遇过的最难的Cookie问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555989&idx=1&sn=2846c87243761f65ad85384eb3db99cf#wechat_redirect)  
 - [2019-03-05-面向对象：遇一人白首，择一城终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=2&sn=d79d04e3e468a8b414a38daf6625dfa9#wechat_redirect)  
 - [2019-03-05-换芯后的-Edge-浏览器-UI-首曝光，还是熟悉的味道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=1&sn=2d5a9d48a244bfd7ddf08e31910c15bc#wechat_redirect)  
 - [2019-03-04-前端JS实现字符串/图片/excel文件下载](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=2&sn=1a08de8c89743dd15ea1eb0fcefcc37c#wechat_redirect)  
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-07-多重影分身：一套代码如何生成多个小程序？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490627&idx=1&sn=ce9b7251753fc78c22920d4a5a22653a#wechat_redirect) ![](assets/new.png)  
+- [2019-03-07-多重影分身：一套代码如何生成多个小程序？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490627&idx=1&sn=ce9b7251753fc78c22920d4a5a22653a#wechat_redirect)  
 - [2019-03-06-张鑫旭：前端专业方向的尽头](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490610&idx=1&sn=52fab326b1bbd075f41da8ee546001f6#wechat_redirect)  
 - [2019-03-05-刚刚，阿里宣布开源Flutter应用框架Fish-Redux！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect)  
 - [2019-03-04-代码体积减少80%！Taro-H5转换与优化升级](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490592&idx=1&sn=36f17ce162caef39acd6552e7f1d23a5#wechat_redirect)  
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html) ![](assets/new.png)  
 - [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)  
 - [2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)  
 - [2019-02-22-每周分享第-44-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-44.html)  
@@ -198,7 +199,6 @@
 - [2019-01-03-站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html)  
 - [2018-12-28-每周分享第-37-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)  
 - [2018-12-25-埃隆·马斯克和特斯拉汽车的故事](http://www.ruanyifeng.com/blog/2018/12/elon-musk.html)  
-- [2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
