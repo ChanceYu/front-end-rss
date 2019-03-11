@@ -3973,6 +3973,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "伪类匹配列表数目实现微信群头像CSS布局的技巧",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/",
+        "date": "2019-03-11"
+      },
+      {
         "title": "DOM小测28期 – DOM节点文档前后位置判断",
         "link": "https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/",
         "date": "2019-03-02"
