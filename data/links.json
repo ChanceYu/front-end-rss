@@ -4866,6 +4866,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "小程序框架全面测评",
+        "link": "https://aotu.io/notes/2019/02/28/mini-program-framework-full-review/",
+        "date": "2019-02-28"
+      },
+      {
         "title": "决战性能之巅 - Taro H5 转换与优化升级",
         "link": "https://aotu.io/notes/2019/02/28/taro-h5-optimize/",
         "date": "2019-02-28"
