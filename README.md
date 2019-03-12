@@ -2,15 +2,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-12 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-12 08:00:22，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-03-12-【招聘】杭州阿里飞猪招P6前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=3&sn=9c1dcfdc8a393bb7689610a6197239a6#rd) ![](assets/new.png)  
+- [2019-03-12-一个很有意思的hook库：react-hanger](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=2&sn=7c2c86edce00ea3abc84ec7df53a4cb3#rd) ![](assets/new.png)  
+- [2019-03-12-【第1552期】深入React-fiber-链表和DFS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=1&sn=5091173df24a383c93095e40a3f3bd26#rd) ![](assets/new.png)  
 - [2019-03-11-【招聘】北京转转招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=2&sn=01e3c2709c60693b369d76c875d719bf#rd)  
 - [2019-03-11-【第1551期】编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=1&sn=a14ce01550f3a589855b499a52100c38#rd)  
 - [2019-03-10-【招聘】北京58同城金融事业部招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=2&sn=86b5380e8aa5d452974d9ddb1def5acf#rd)  
@@ -41,9 +44,6 @@
 - [2019-03-05-【招聘】阿里搜索推荐事业部移动端团队招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=2&sn=896075c645218bda40da1044015202ef#wechat_redirect)  
 - [2019-03-05-【第1545期】在淘宝做前端的这三年-—-第二年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=1&sn=4c3639484d0304335ee7db3ce9234315#wechat_redirect)  
 - [2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect)  
-- [2019-03-04-【第1544期】前端之未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=2&sn=e9cedc1f68c8482088fa43234fb97dbd#wechat_redirect)  
-- [2019-03-04-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=1&sn=ec25a1e7c34183dc46da3c79644935b7#wechat_redirect)  
-- [2019-03-03-【招聘】腾讯IVWEB前端团队-互动视频招前端／2020前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=2&sn=6e1b30e5e9cb5895ffc9034d22b0837d#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -148,7 +148,7 @@
 </summary>
 
 
-- [2019-03-11-伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/) ![](assets/new.png)  
+- [2019-03-11-伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/)  
 - [2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/)  
 - [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/)  
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/)  
