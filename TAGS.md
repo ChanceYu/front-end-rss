@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-13 06:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-13 12:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -325,6 +325,7 @@
 - [【JDC-|-京东设计中心】微信小程序·云开发初体验](https://jdc.jd.com/archives/212791)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
 - [【JDC-|-京东设计中心】小程序实战总结](https://jdc.jd.com/archives/212697)
+- [【Aotu.io】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
 - [【Aotu.io】小程序框架全面测评](https://aotu.io/notes/2019/02/28/mini-program-framework-full-review/)
 - [【Aotu.io】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
 - [【Aotu.io】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)
@@ -1263,6 +1264,7 @@
 - [【前端之巅】首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect)
 - [【前端之巅】阿里是如何让iOS-12越狱成功的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489540&idx=1&sn=8980507d976172e81254d150d5f45c45#wechat_redirect)
 - [【前端之巅】15行代码让苹果设备崩溃，最新的iOS-12也无法幸免](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489528&idx=1&sn=8ceff768a5ec95eab0e06568ad34dca2#wechat_redirect)
+- [【Taobao-FED-|-淘宝前端团队】淘宝前端团队-2019-年实习生内部推荐通道已开启](http://taobaofed.org/blog/2019/03/13/fed-2019/)
 - [【Taobao-FED-|-淘宝前端团队】imgcook-体验版发布](http://taobaofed.org/blog/2019/01/07/imgcook/)
 - [【Taobao-FED-|-淘宝前端团队】前端架构杂思录：议-Function-Component-与-Hooks](http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/)
 - [【Taobao-FED-|-淘宝前端团队】Atag---Web-Components-最佳实践](http://taobaofed.org/blog/2018/10/31/a-tag/)

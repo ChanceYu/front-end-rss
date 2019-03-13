@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-13 06:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-13 12:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -111,6 +111,7 @@
 - [【前端之巅】2019-03-03-大前端时代，你需要关注这几个公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490583&idx=1&sn=580ad340a5ec0b53f714b5321ba1b308#wechat_redirect) 
 - [【前端之巅】2019-03-02-Vue性能优化：如何实现延迟加载和代码拆分？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490577&idx=1&sn=1a2edeb23fa04328ea1fd5dcba0c0a79#wechat_redirect) 
 - [【前端之巅】2019-03-01-如何在浏览器不崩溃的情况下过滤200万行数据？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490572&idx=1&sn=7a321a181f6231df3aac923c6c0b4c1b#wechat_redirect) 
+- [【Taobao-FED-|-淘宝前端团队】2019-03-13-淘宝前端团队-2019-年实习生内部推荐通道已开启](http://taobaofed.org/blog/2019/03/13/fed-2019/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-11-伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
@@ -118,6 +119,7 @@
 - [【阮一峰的网络日志】2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html) 
 - [【阮一峰的网络日志】2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html) 
 - [【前端里】2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
+- [【Aotu.io】2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

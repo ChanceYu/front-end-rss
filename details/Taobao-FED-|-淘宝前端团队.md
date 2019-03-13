@@ -1,7 +1,8 @@
-:alarm_clock: 更新时间: 2019-02-21 22:00:29。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-13 12:00:22。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Taobao-FED-|-淘宝前端团队
 
+- [2019-03-13-淘宝前端团队-2019-年实习生内部推荐通道已开启](http://taobaofed.org/blog/2019/03/13/fed-2019/) 
 - [2019-01-07-imgcook-体验版发布](http://taobaofed.org/blog/2019/01/07/imgcook/) 
 - [2018-12-17-WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/) 
 - [2018-11-27-前端架构杂思录：议-Function-Component-与-Hooks](http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/) 
