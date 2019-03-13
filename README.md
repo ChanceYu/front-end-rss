@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-13 18:00:23，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-13 22:00:29，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-03-13-京东开源Vue移动端组件库NutUI2.0发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=3&sn=3e246d33b909a997b57dfe4582b055ea#rd) ![](assets/new.png)  
-- [2019-03-13-【招聘】深圳联新移动医疗招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=2&sn=968726a99fc690ae1454b5691ce9f525#rd) ![](assets/new.png)  
-- [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) ![](assets/new.png)  
+- [2019-03-13-京东开源Vue移动端组件库NutUI2.0发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=3&sn=3e246d33b909a997b57dfe4582b055ea#rd)  
+- [2019-03-13-【招聘】深圳联新移动医疗招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=2&sn=968726a99fc690ae1454b5691ce9f525#rd)  
+- [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)  
 - [2019-03-12-【招聘】杭州阿里飞猪招P6前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=3&sn=9c1dcfdc8a393bb7689610a6197239a6#rd)  
 - [2019-03-12-一个很有意思的hook库：react-hanger](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=2&sn=7c2c86edce00ea3abc84ec7df53a4cb3#rd)  
 - [2019-03-12-【第1552期】深入React-fiber-链表和DFS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=1&sn=5091173df24a383c93095e40a3f3bd26#rd)  
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-03-13-面向对象：对有腹肌的男生毫无抵抗力，诚心诚意找一个小哥哥](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=2&sn=e2bd61cff7b7ee70cf61f81f95d1d48e#rd) ![](assets/new.png)  
+- [2019-03-13-在-NPM-发布自己造的轮子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=1&sn=b690e282e1470c8c803e08ceb69b574d#rd) ![](assets/new.png)  
 - [2019-03-12-面向对象：世界的美看不完，梦想找一个人牵着手一起启程](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556016&idx=2&sn=9c4fb91cb56f68ba9be957ea1288c9b6#rd)  
 - [2019-03-12-CSS-宣布支持三角函数，下一步是什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556016&idx=1&sn=aab2ea4e503d3620c17515073fab054f#rd)  
 - [2019-03-11-散布JS无限循环代码，日本13岁女学生被抓](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556011&idx=2&sn=4a0f51c90c95c3332240caf2c00f2d23#rd)  
@@ -73,8 +75,6 @@
 - [2019-03-03-Bootstrap-5-要和-jQuery-说再见，将移除对其依赖：15篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555967&idx=1&sn=abc908a192441f7e06445a00f3b25eb0#wechat_redirect)  
 - [2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect)  
 - [2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect)  
-- [2019-03-01-我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect)  
-- [2019-02-28-面向对象：好的事情总会到来，如果它来迟了，可能会是意外的惊喜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555948&idx=2&sn=4346165b2178c8701c91cbc74cc9060b#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd) ![](assets/new.png)  
+- [2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd)  
 - [2019-03-12-从后端到前端的转变：如何选择框架？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490679&idx=1&sn=4f37d8b0151019a029a7a1d496fc3d5f#rd)  
 - [2019-03-12-京东Vue组件库NutUI-2.0发布：将支持跨平台！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490668&idx=1&sn=074f0b32a96669af2f73756f51229280#rd)  
 - [2019-03-07-多重影分身：一套代码如何生成多个小程序？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490627&idx=1&sn=ce9b7251753fc78c22920d4a5a22653a#wechat_redirect)  
@@ -273,7 +273,6 @@
 
 
 - [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)  
-- [2019-02-28-小程序框架全面测评](https://aotu.io/notes/2019/02/28/mini-program-framework-full-review/)  
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)  
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
@@ -292,6 +291,7 @@
 - [2018-04-24-Nerv实战---京东首页改版小结](https://aotu.io/notes/2018/04/24/jdindex_2017/)  
 - [2018-03-22-Nerv---京东高性能前端框架](https://aotu.io/notes/2018/03/22/nerv/)  
 - [2018-03-06-动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)  
+- [2018-01-28-H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/)  
 - [......【查看更多】......](./details/Aotu.io.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

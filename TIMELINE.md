@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-13 18:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-13 22:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -86,6 +86,8 @@
 - [【前端早读课】2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect) 
 - [【前端早读课】2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect) 
 - [【前端早读课】2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect) 
+- [【前端大全】2019-03-13-面向对象：对有腹肌的男生毫无抵抗力，诚心诚意找一个小哥哥](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=2&sn=e2bd61cff7b7ee70cf61f81f95d1d48e#rd) 
+- [【前端大全】2019-03-13-在-NPM-发布自己造的轮子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=1&sn=b690e282e1470c8c803e08ceb69b574d#rd) 
 - [【前端大全】2019-03-12-面向对象：世界的美看不完，梦想找一个人牵着手一起启程](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556016&idx=2&sn=9c4fb91cb56f68ba9be957ea1288c9b6#rd) 
 - [【前端大全】2019-03-12-CSS-宣布支持三角函数，下一步是什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556016&idx=1&sn=aab2ea4e503d3620c17515073fab054f#rd) 
 - [【前端大全】2019-03-11-散布JS无限循环代码，日本13岁女学生被抓](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556011&idx=2&sn=4a0f51c90c95c3332240caf2c00f2d23#rd) 
@@ -248,7 +250,6 @@
 - [【前端里】2019-02-24-精心挑选的2018年最佳前端特效（系列七）](http://www.yyyweb.com/5249.html) 
 - [【前端里】2019-02-10-精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html) 
 - [【JDC-|-京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-- [【Aotu.io】2019-02-28-小程序框架全面测评](https://aotu.io/notes/2019/02/28/mini-program-framework-full-review/) 
 - [【Aotu.io】2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/) 
 - [【Aotu.io】2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
 
