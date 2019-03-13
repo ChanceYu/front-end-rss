@@ -2,19 +2,19 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-13 12:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-13 18:00:23，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu.io](#aotu.io)![](assets/dot.png)   
+- [Aotu.io](#aotu.io)  
 
 ## 文章链接
 
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-03-13-京东开源Vue移动端组件库NutUI2.0发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=3&sn=3e246d33b909a997b57dfe4582b055ea#rd) ![](assets/new.png)  
+- [2019-03-13-【招聘】深圳联新移动医疗招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=2&sn=968726a99fc690ae1454b5691ce9f525#rd) ![](assets/new.png)  
+- [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) ![](assets/new.png)  
 - [2019-03-12-【招聘】杭州阿里飞猪招P6前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=3&sn=9c1dcfdc8a393bb7689610a6197239a6#rd)  
 - [2019-03-12-一个很有意思的hook库：react-hanger](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=2&sn=7c2c86edce00ea3abc84ec7df53a4cb3#rd)  
 - [2019-03-12-【第1552期】深入React-fiber-链表和DFS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=1&sn=5091173df24a383c93095e40a3f3bd26#rd)  
@@ -41,9 +44,6 @@
 - [2019-03-06-【招聘】北京百乘金科（新三板上市公司）招聘前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=3&sn=024f16540ecb26a5fd0802909a6674ca#wechat_redirect)  
 - [2019-03-06-【第1546期】设计师的下半场，掌握全链路设计的5个方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=2&sn=39ffa25aff39f86974ffbd6e74cb959f#wechat_redirect)  
 - [2019-03-06-2019给前端开发的-6-点建议](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231614&idx=1&sn=97969e5e18f1ed68d11dea830f928ca8#wechat_redirect)  
-- [2019-03-05-【招聘】阿里搜索推荐事业部移动端团队招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=2&sn=896075c645218bda40da1044015202ef#wechat_redirect)  
-- [2019-03-05-【第1545期】在淘宝做前端的这三年-—-第二年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231606&idx=1&sn=4c3639484d0304335ee7db3ce9234315#wechat_redirect)  
-- [2019-03-04-【招聘】上海DaoCloud招资深前端／实习前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231598&idx=3&sn=1b402fc2e65dab5d6abff90446c94a64#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd) ![](assets/new.png)  
 - [2019-03-12-从后端到前端的转变：如何选择框架？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490679&idx=1&sn=4f37d8b0151019a029a7a1d496fc3d5f#rd)  
 - [2019-03-12-京东Vue组件库NutUI-2.0发布：将支持跨平台！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490668&idx=1&sn=074f0b32a96669af2f73756f51229280#rd)  
 - [2019-03-07-多重影分身：一套代码如何生成多个小程序？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490627&idx=1&sn=ce9b7251753fc78c22920d4a5a22653a#wechat_redirect)  
@@ -105,7 +106,6 @@
 - [2019-02-21-使用Flutter之后，我们的CPU占用率降了50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490514&idx=1&sn=6463e69b68bb88004afee9f77bedb335#wechat_redirect)  
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect)  
 - [2019-02-19-独家！支付宝首次披露其小程序技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490492&idx=1&sn=06e76b897a3dba5207fe96239e041890#wechat_redirect)  
-- [2019-02-19-51-信用卡-Android-自动埋点实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490497&idx=1&sn=c028b14dd43f93ddcddde44439ceeb87#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -117,7 +117,7 @@
 </summary>
 
 
-- [2019-03-13-淘宝前端团队-2019-年实习生内部推荐通道已开启](http://taobaofed.org/blog/2019/03/13/fed-2019/) ![](assets/new.png)  
+- [2019-03-13-淘宝前端团队-2019-年实习生内部推荐通道已开启](http://taobaofed.org/blog/2019/03/13/fed-2019/)  
 - [2019-01-07-imgcook-体验版发布](http://taobaofed.org/blog/2019/01/07/imgcook/)  
 - [2018-12-17-WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/)  
 - [2018-11-27-前端架构杂思录：议-Function-Component-与-Hooks](http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/)  
@@ -272,7 +272,7 @@
 </summary>
 
 
-- [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) ![](assets/new.png)  
+- [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)  
 - [2019-02-28-小程序框架全面测评](https://aotu.io/notes/2019/02/28/mini-program-framework-full-review/)  
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)  
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
