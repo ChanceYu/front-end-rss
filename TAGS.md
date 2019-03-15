@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-15 08:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-15 12:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1297,6 +1297,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)
 - [【阮一峰的网络日志】每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)
 - [【阮一峰的网络日志】敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)
 - [【阮一峰的网络日志】每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)
