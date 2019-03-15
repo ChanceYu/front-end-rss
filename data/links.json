@@ -1602,6 +1602,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "JS 引擎 V8 新机制：JIT-less 模式",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556037&idx=1&sn=10008781b1e3ad1da41334990021c9b6#rd",
+        "date": "2019-03-15"
+      },
+      {
         "title": "ES10 功能完全指南",
         "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=2&sn=f336fd2d0ba704a8e9c5681486c56162#rd",
         "date": "2019-03-14"
