@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-15 12:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-15 18:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -115,6 +115,7 @@
 - [【前端大全】2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect) 
 - [【前端大全】2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect) 
 - [【前端大全】2019-03-01-我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect) 
+- [【前端之巅】2019-03-15-华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd) 
 - [【前端之巅】2019-03-14-Android-Q首个测试版发布：-支持可折叠屏幕！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490705&idx=1&sn=ae29bdec32f55b2345a3dab04ec768cd#rd) 
 - [【前端之巅】2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd) 
 - [【前端之巅】2019-03-12-从后端到前端的转变：如何选择框架？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490679&idx=1&sn=4f37d8b0151019a029a7a1d496fc3d5f#rd) 
@@ -135,6 +136,7 @@
 - [【阮一峰的网络日志】2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html) 
 - [【阮一峰的网络日志】2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html) 
 - [【前端里】2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
+- [【JDC-|-京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [【Aotu.io】2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -2,18 +2,18 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-15 12:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-15 18:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
 - [Aotu.io](#aotu.io)  
 
 ## 文章链接
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-03-15-华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd) ![](assets/new.png)  
 - [2019-03-14-Android-Q首个测试版发布：-支持可折叠屏幕！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490705&idx=1&sn=ae29bdec32f55b2345a3dab04ec768cd#rd)  
 - [2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd)  
 - [2019-03-12-从后端到前端的转变：如何选择框架？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490679&idx=1&sn=4f37d8b0151019a029a7a1d496fc3d5f#rd)  
@@ -105,7 +106,6 @@
 - [2019-02-24-2018年最好的45个Vue开源项目汇总](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490533&idx=1&sn=f93465b7d8ac674deb15cfcb0e2bff56#wechat_redirect)  
 - [2019-02-22-每秒解析千兆字节的JSON解析器开源，秒杀一大波解析器！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490521&idx=1&sn=598b2d7fb5db1bab10ea189891322b6c#wechat_redirect)  
 - [2019-02-21-使用Flutter之后，我们的CPU占用率降了50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490514&idx=1&sn=6463e69b68bb88004afee9f77bedb335#wechat_redirect)  
-- [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -179,7 +179,7 @@
 </summary>
 
 
-- [2019-03-15-每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html) ![](assets/new.png)  
+- [2019-03-15-每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)  
 - [2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)  
 - [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)  
 - [2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)  
@@ -241,6 +241,7 @@
 </summary>
 
 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)  
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)  
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)  
@@ -260,7 +261,6 @@
 - [2018-09-07-小程序实战总结](https://jdc.jd.com/archives/212697)  
 - [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690)  
 - [2018-08-31-【译】React-优化：虚拟-DOM-详解](https://jdc.jd.com/archives/212685)  
-- [2018-08-17-Hello-PWA](https://jdc.jd.com/archives/212666)  
 - [......【查看更多】......](./details/JDC-|-京东设计中心.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
