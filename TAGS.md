@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-16 08:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-17 06:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1090,6 +1090,8 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】面向对象：你是我的那个他吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=2&sn=737150986eab1226cbcfd64305c6f345#rd)
+- [【前端大全】如何居中一个元素（终结版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=1&sn=271aedfa33ecf221f29098c0d3ba91b1#rd)
 - [【前端大全】ES10-功能完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=2&sn=f336fd2d0ba704a8e9c5681486c56162#rd)
 - [【前端大全】面向对象：对有腹肌的男生毫无抵抗力，诚心诚意找一个小哥哥](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=2&sn=e2bd61cff7b7ee70cf61f81f95d1d48e#rd)
 - [【前端大全】面向对象：世界的美看不完，梦想找一个人牵着手一起启程](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556016&idx=2&sn=9c4fb91cb56f68ba9be957ea1288c9b6#rd)
@@ -1228,6 +1230,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490726&idx=1&sn=7f385d8a714a452719e971f9d149e7e0#rd)
 - [【前端之巅】华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd)
 - [【前端之巅】Android-Q首个测试版发布：-支持可折叠屏幕！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490705&idx=1&sn=ae29bdec32f55b2345a3dab04ec768cd#rd)
 - [【前端之巅】从后端到前端的转变：如何选择框架？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490679&idx=1&sn=4f37d8b0151019a029a7a1d496fc3d5f#rd)
@@ -1302,6 +1305,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】普通人的网页配色方案](http://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html)
 - [【阮一峰的网络日志】每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)
 - [【阮一峰的网络日志】每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)
 - [【阮一峰的网络日志】敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)

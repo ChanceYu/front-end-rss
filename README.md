@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-16 08:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-17 06:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-03-16-【招聘】阿里上海研发中心招数据科学产品Web前端实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=2&sn=bbd8151c6388f5a46efe8cbe7017805d#rd) ![](assets/new.png)  
-- [2019-03-16-【第1556期】如何使用前端技术开发一个桌面跨端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=1&sn=e4c17a5d0dc17e46e0584d7f885e3db7#rd) ![](assets/new.png)  
+- [2019-03-16-【招聘】阿里上海研发中心招数据科学产品Web前端实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=2&sn=bbd8151c6388f5a46efe8cbe7017805d#rd)  
+- [2019-03-16-【第1556期】如何使用前端技术开发一个桌面跨端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=1&sn=e4c17a5d0dc17e46e0584d7f885e3db7#rd)  
 - [2019-03-15-【招聘】北京美菜前端团队需要你！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=3&sn=7a7c2648a39c85b8144b1e39a3900271#rd)  
 - [2019-03-15-【第1555期】Web渲染概述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=2&sn=23f819f66e94b9e052c0da9be157a729#rd)  
 - [2019-03-15-前端工程师3月面试技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=1&sn=eee6f4372ef581a02a2584a36675ffc7#rd)  
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-03-16-面向对象：你是我的那个他吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=2&sn=737150986eab1226cbcfd64305c6f345#rd) ![](assets/new.png)  
+- [2019-03-16-如何居中一个元素（终结版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=1&sn=271aedfa33ecf221f29098c0d3ba91b1#rd) ![](assets/new.png)  
 - [2019-03-15-JS-引擎-V8-新机制：JIT-less-模式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556037&idx=1&sn=10008781b1e3ad1da41334990021c9b6#rd)  
 - [2019-03-14-ES10-功能完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=2&sn=f336fd2d0ba704a8e9c5681486c56162#rd)  
 - [2019-03-14-关于Vue-3.0前端开发者必须知道的不仅仅是Proxy...](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=1&sn=f18f2b483807a34c8cb04c3266d69ecb#rd)  
@@ -73,8 +75,6 @@
 - [2019-03-07-我遇过的最难的Cookie问题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555989&idx=1&sn=2846c87243761f65ad85384eb3db99cf#wechat_redirect)  
 - [2019-03-05-面向对象：遇一人白首，择一城终老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=2&sn=d79d04e3e468a8b414a38daf6625dfa9#wechat_redirect)  
 - [2019-03-05-换芯后的-Edge-浏览器-UI-首曝光，还是熟悉的味道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555979&idx=1&sn=2d5a9d48a244bfd7ddf08e31910c15bc#wechat_redirect)  
-- [2019-03-04-前端JS实现字符串/图片/excel文件下载](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=2&sn=1a08de8c89743dd15ea1eb0fcefcc37c#wechat_redirect)  
-- [2019-03-04-无React，不前端。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=1&sn=f89d8fd467659dcfc95a90488c7aa365#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-03-16-2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490726&idx=1&sn=7f385d8a714a452719e971f9d149e7e0#rd) ![](assets/new.png)  
 - [2019-03-15-华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd)  
 - [2019-03-14-Android-Q首个测试版发布：-支持可折叠屏幕！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490705&idx=1&sn=ae29bdec32f55b2345a3dab04ec768cd#rd)  
 - [2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd)  
@@ -105,7 +106,6 @@
 - [2019-02-24-蚂蚁金服如何把前端性能监控做到极致?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490527&idx=1&sn=cc2549683b3ff69c042483d78ced766a#wechat_redirect)  
 - [2019-02-24-2018年最好的45个Vue开源项目汇总](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490533&idx=1&sn=f93465b7d8ac674deb15cfcb0e2bff56#wechat_redirect)  
 - [2019-02-22-每秒解析千兆字节的JSON解析器开源，秒杀一大波解析器！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490521&idx=1&sn=598b2d7fb5db1bab10ea189891322b6c#wechat_redirect)  
-- [2019-02-21-使用Flutter之后，我们的CPU占用率降了50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490514&idx=1&sn=6463e69b68bb88004afee9f77bedb335#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2019-03-16-普通人的网页配色方案](http://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html) ![](assets/new.png)  
 - [2019-03-15-每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)  
 - [2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)  
 - [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)  
@@ -198,7 +199,6 @@
 - [2019-01-11-每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)  
 - [2019-01-04-每周分享第-38-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)  
 - [2019-01-03-站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html)  
-- [2018-12-28-每周分享第-37-期](http://www.ruanyifeng.com/blog/2018/12/weekly-issue-37.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

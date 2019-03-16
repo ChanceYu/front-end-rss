@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-16 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-17 06:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -94,6 +94,8 @@
 - [【前端早读课】2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect) 
 - [【前端早读课】2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect) 
 - [【前端早读课】2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect) 
+- [【前端大全】2019-03-16-面向对象：你是我的那个他吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=2&sn=737150986eab1226cbcfd64305c6f345#rd) 
+- [【前端大全】2019-03-16-如何居中一个元素（终结版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=1&sn=271aedfa33ecf221f29098c0d3ba91b1#rd) 
 - [【前端大全】2019-03-15-JS-引擎-V8-新机制：JIT-less-模式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556037&idx=1&sn=10008781b1e3ad1da41334990021c9b6#rd) 
 - [【前端大全】2019-03-14-ES10-功能完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=2&sn=f336fd2d0ba704a8e9c5681486c56162#rd) 
 - [【前端大全】2019-03-14-关于Vue-3.0前端开发者必须知道的不仅仅是Proxy...](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=1&sn=f18f2b483807a34c8cb04c3266d69ecb#rd) 
@@ -118,6 +120,7 @@
 - [【前端大全】2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect) 
 - [【前端大全】2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect) 
 - [【前端大全】2019-03-01-我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect) 
+- [【前端之巅】2019-03-16-2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490726&idx=1&sn=7f385d8a714a452719e971f9d149e7e0#rd) 
 - [【前端之巅】2019-03-15-华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd) 
 - [【前端之巅】2019-03-14-Android-Q首个测试版发布：-支持可折叠屏幕！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490705&idx=1&sn=ae29bdec32f55b2345a3dab04ec768cd#rd) 
 - [【前端之巅】2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd) 
@@ -134,6 +137,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-03-11-伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
+- [【阮一峰的网络日志】2019-03-16-普通人的网页配色方案](http://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html) 
 - [【阮一峰的网络日志】2019-03-15-每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html) 
 - [【阮一峰的网络日志】2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html) 
 - [【阮一峰的网络日志】2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html) 
