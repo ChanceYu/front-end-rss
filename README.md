@@ -2,12 +2,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-16 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-16 08:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-03-16-【招聘】阿里上海研发中心招数据科学产品Web前端实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=2&sn=bbd8151c6388f5a46efe8cbe7017805d#rd) ![](assets/new.png)  
+- [2019-03-16-【第1556期】如何使用前端技术开发一个桌面跨端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231732&idx=1&sn=e4c17a5d0dc17e46e0584d7f885e3db7#rd) ![](assets/new.png)  
 - [2019-03-15-【招聘】北京美菜前端团队需要你！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=3&sn=7a7c2648a39c85b8144b1e39a3900271#rd)  
 - [2019-03-15-【第1555期】Web渲染概述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=2&sn=23f819f66e94b9e052c0da9be157a729#rd)  
 - [2019-03-15-前端工程师3月面试技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231728&idx=1&sn=eee6f4372ef581a02a2584a36675ffc7#rd)  
@@ -42,8 +44,6 @@
 - [2019-03-10-【第1550期】前端专业方向的尽头](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231659&idx=1&sn=9ee751533b3461ec5648bb24a40b90d1#rd)  
 - [2019-03-09-【招聘】腾讯AlloyTeam招前端实习生／高级前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231646&idx=2&sn=7b602020497b9916dc64713fa412b598#rd)  
 - [2019-03-09-【第1549期】中国菜刀之写一句话木马变形](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231646&idx=1&sn=baa2efd58e67b862a358adea22f07086#rd)  
-- [2019-03-08-【招聘】广州欢聚时代招高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=2&sn=673dfe336cb138f562328bcae9c85b8b#wechat_redirect)  
-- [2019-03-08-【第1548期】在淘宝做前端的这三年-—-第三年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231644&idx=1&sn=9ff637f27b9d135c096cb2c8b859e608#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,7 +55,7 @@
 </summary>
 
 
-- [2019-03-15-JS-引擎-V8-新机制：JIT-less-模式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556037&idx=1&sn=10008781b1e3ad1da41334990021c9b6#rd) ![](assets/new.png)  
+- [2019-03-15-JS-引擎-V8-新机制：JIT-less-模式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556037&idx=1&sn=10008781b1e3ad1da41334990021c9b6#rd)  
 - [2019-03-14-ES10-功能完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=2&sn=f336fd2d0ba704a8e9c5681486c56162#rd)  
 - [2019-03-14-关于Vue-3.0前端开发者必须知道的不仅仅是Proxy...](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=1&sn=f18f2b483807a34c8cb04c3266d69ecb#rd)  
 - [2019-03-13-面向对象：对有腹肌的男生毫无抵抗力，诚心诚意找一个小哥哥](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=2&sn=e2bd61cff7b7ee70cf61f81f95d1d48e#rd)  
