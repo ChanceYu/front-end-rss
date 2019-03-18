@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-18 08:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-19 06:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -98,6 +98,8 @@
 - [【前端早读课】2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect) 
 - [【前端早读课】2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect) 
 - [【前端早读课】2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect) 
+- [【前端大全】2019-03-18-走过-30-年的-Web-初心不再，但万维网之父坚信它还有救](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=2&sn=d1e8b55cfd6fa64713b378317ea3eb76#rd) 
+- [【前端大全】2019-03-18-撕掉单词书，每天花10分钟做这件事，英语水平暴涨！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=1&sn=9f3470ac218925561cf463dd081601fd#rd) 
 - [【前端大全】2019-03-17-Vue-进阶系列之响应式原理及实现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556055&idx=1&sn=198509c27d16edc5dfea140a6424efed#rd) 
 - [【前端大全】2019-03-16-面向对象：你是我的那个他吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=2&sn=737150986eab1226cbcfd64305c6f345#rd) 
 - [【前端大全】2019-03-16-如何居中一个元素（终结版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=1&sn=271aedfa33ecf221f29098c0d3ba91b1#rd) 
@@ -125,6 +127,7 @@
 - [【前端大全】2019-03-02-面向对象：陌生人眼里的高冷，熟人眼里的逗比，稍带文艺的女汉子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=2&sn=14298e932ee86d1431204fa6f9270753#wechat_redirect) 
 - [【前端大全】2019-03-02-看看这些被同事喷的-JS-代码风格你写过多少](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555960&idx=1&sn=6c5dcdb4cf056a2aae9f8e521366c479#wechat_redirect) 
 - [【前端大全】2019-03-01-我们不再需要-Chrome？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555955&idx=1&sn=bcd01a5f9247efff30aa3a164297e5e5#wechat_redirect) 
+- [【前端之巅】2019-03-18-为什么每个前端人都该学Vue？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490742&idx=1&sn=611ff01a196a0b87d528977cfa1b2db7#rd) 
 - [【前端之巅】2019-03-17-没有JS的前端：体积更小、速度更快！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490736&idx=1&sn=75f32b013e527231ac2e7cdbd604940c#rd) 
 - [【前端之巅】2019-03-16-2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490726&idx=1&sn=7f385d8a714a452719e971f9d149e7e0#rd) 
 - [【前端之巅】2019-03-15-华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd) 

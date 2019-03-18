@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-18 08:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-19 06:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -169,6 +169,7 @@
 - [【前端大全】Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect)
 - [【前端大全】深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [【前端大全】自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect)
+- [【前端之巅】为什么每个前端人都该学Vue？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490742&idx=1&sn=611ff01a196a0b87d528977cfa1b2db7#rd)
 - [【前端之巅】京东Vue组件库NutUI-2.0发布：将支持跨平台！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490668&idx=1&sn=074f0b32a96669af2f73756f51229280#rd)
 - [【前端之巅】Vue性能优化：如何实现延迟加载和代码拆分？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490577&idx=1&sn=1a2edeb23fa04328ea1fd5dcba0c0a79#wechat_redirect)
 - [【前端之巅】2018年最好的45个Vue开源项目汇总](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490533&idx=1&sn=f93465b7d8ac674deb15cfcb0e2bff56#wechat_redirect)
@@ -1096,6 +1097,8 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】走过-30-年的-Web-初心不再，但万维网之父坚信它还有救](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=2&sn=d1e8b55cfd6fa64713b378317ea3eb76#rd)
+- [【前端大全】撕掉单词书，每天花10分钟做这件事，英语水平暴涨！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=1&sn=9f3470ac218925561cf463dd081601fd#rd)
 - [【前端大全】面向对象：你是我的那个他吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=2&sn=737150986eab1226cbcfd64305c6f345#rd)
 - [【前端大全】如何居中一个元素（终结版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556051&idx=1&sn=271aedfa33ecf221f29098c0d3ba91b1#rd)
 - [【前端大全】ES10-功能完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556032&idx=2&sn=f336fd2d0ba704a8e9c5681486c56162#rd)
