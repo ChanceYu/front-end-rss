@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-20 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-20 12:00:15，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-03-20-【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd) ![](assets/new.png)  
+- [2019-03-20-【第1560期】前端同构渲染的思考与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=1&sn=df3f56cadf67a37c07f4fab5d3a858c3#rd) ![](assets/new.png)  
 - [2019-03-19-【第1559期】内网穿透工具的原理与开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=2&sn=3d4412e646ae7f72e01a40e859305727#rd)  
 - [2019-03-19-【招聘】腾讯投资研发团队直招](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=3&sn=d7a5c78cfa41c418e75e65dff437f3cf#rd)  
 - [2019-03-19-怎样高效入门-Vue?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=1&sn=a1625b967fda32f2dc039b964121d04d#rd)  
@@ -42,8 +44,6 @@
 - [2019-03-13-京东开源Vue移动端组件库NutUI2.0发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=3&sn=3e246d33b909a997b57dfe4582b055ea#rd)  
 - [2019-03-13-【招聘】深圳联新移动医疗招前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=2&sn=968726a99fc690ae1454b5691ce9f525#rd)  
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)  
-- [2019-03-12-【招聘】杭州阿里飞猪招P6前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=3&sn=9c1dcfdc8a393bb7689610a6197239a6#rd)  
-- [2019-03-12-一个很有意思的hook库：react-hanger](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231678&idx=2&sn=7c2c86edce00ea3abc84ec7df53a4cb3#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-03-19-面向对象：你怎么还不到我身边来，走到哪里迷路了嘛](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=2&sn=e5f057cbff1982414162d6c6c4fdd8f8#rd) ![](assets/new.png)  
+- [2019-03-19-JS-面试之数组的几个不-low-操作](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=1&sn=aacb377976d111ce22cef0e11721c241#rd) ![](assets/new.png)  
 - [2019-03-18-走过-30-年的-Web-初心不再，但万维网之父坚信它还有救](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=2&sn=d1e8b55cfd6fa64713b378317ea3eb76#rd)  
 - [2019-03-18-撕掉单词书，每天花10分钟做这件事，英语水平暴涨！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=1&sn=9f3470ac218925561cf463dd081601fd#rd)  
 - [2019-03-17-Vue-进阶系列之响应式原理及实现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556055&idx=1&sn=198509c27d16edc5dfea140a6424efed#rd)  
@@ -73,8 +75,6 @@
 - [2019-03-10-面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556001&idx=2&sn=2e05db77afd3749a26140f7894fd82fb#rd)  
 - [2019-03-10-Node.js-微服务实践一](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556001&idx=1&sn=601d58dc247d2f9c6f239ed8d950b540#rd)  
 - [2019-03-08-深度解析-new-原理及模拟实现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555993&idx=1&sn=37bb41a7e178083de174bfd51308d369#rd)  
-- [2019-03-07-为什么有人工作了3年甚至6年，仍然技术一般？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555983&idx=1&sn=5ef8f9ae958f219e75c7ff79ab7cbba0#wechat_redirect)  
-- [2019-03-07-面向对象：上得厅堂，下得厨房，站起来杀猪，坐下来写书](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555989&idx=2&sn=1e4f3cd1fb1829f92b17c5b1e5dc0430#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-19-我们评测了5个主流跨端框架，这是它们的区别](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490753&idx=1&sn=2884cbd61bb2c3358237c5aca647db97#rd) ![](assets/new.png)  
+- [2019-03-19-我们评测了5个主流跨端框架，这是它们的区别](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490753&idx=1&sn=2884cbd61bb2c3358237c5aca647db97#rd)  
 - [2019-03-18-为什么每个前端人都该学Vue？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490742&idx=1&sn=611ff01a196a0b87d528977cfa1b2db7#rd)  
 - [2019-03-17-没有JS的前端：体积更小、速度更快！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490736&idx=1&sn=75f32b013e527231ac2e7cdbd604940c#rd)  
 - [2019-03-16-2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490726&idx=1&sn=7f385d8a714a452719e971f9d149e7e0#rd)  

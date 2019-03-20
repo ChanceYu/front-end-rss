@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-20 06:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-20 12:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -53,6 +53,8 @@
 </summary>
 
 
+- [【前端早读课】2019-03-20-【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd) 
+- [【前端早读课】2019-03-20-【第1560期】前端同构渲染的思考与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=1&sn=df3f56cadf67a37c07f4fab5d3a858c3#rd) 
 - [【前端早读课】2019-03-19-【第1559期】内网穿透工具的原理与开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=2&sn=3d4412e646ae7f72e01a40e859305727#rd) 
 - [【前端早读课】2019-03-19-【招聘】腾讯投资研发团队直招](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=3&sn=d7a5c78cfa41c418e75e65dff437f3cf#rd) 
 - [【前端早读课】2019-03-19-怎样高效入门-Vue?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=1&sn=a1625b967fda32f2dc039b964121d04d#rd) 
@@ -101,6 +103,8 @@
 - [【前端早读课】2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect) 
 - [【前端早读课】2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect) 
 - [【前端早读课】2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect) 
+- [【前端大全】2019-03-19-面向对象：你怎么还不到我身边来，走到哪里迷路了嘛](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=2&sn=e5f057cbff1982414162d6c6c4fdd8f8#rd) 
+- [【前端大全】2019-03-19-JS-面试之数组的几个不-low-操作](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=1&sn=aacb377976d111ce22cef0e11721c241#rd) 
 - [【前端大全】2019-03-18-走过-30-年的-Web-初心不再，但万维网之父坚信它还有救](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=2&sn=d1e8b55cfd6fa64713b378317ea3eb76#rd) 
 - [【前端大全】2019-03-18-撕掉单词书，每天花10分钟做这件事，英语水平暴涨！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=1&sn=9f3470ac218925561cf463dd081601fd#rd) 
 - [【前端大全】2019-03-17-Vue-进阶系列之响应式原理及实现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556055&idx=1&sn=198509c27d16edc5dfea140a6424efed#rd) 
