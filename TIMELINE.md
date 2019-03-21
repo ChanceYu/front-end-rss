@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-21 22:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-22 06:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -105,6 +105,7 @@
 - [【前端早读课】2019-03-01-【招聘】阿里国际UED体验技术团队招资深前端开发工程师/前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=3&sn=4fe5d9168034fe04174fcb9cb4c14e02#wechat_redirect) 
 - [【前端早读课】2019-03-01-【第1541期】资源优先级-–-让浏览器助您一臂之力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=2&sn=c2cf30060f3b58cd9cc2a00b413922c1#wechat_redirect) 
 - [【前端早读课】2019-03-01-不要再死磕React了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231568&idx=1&sn=a357ec5e47c4874ded7cb0e3a3fc65be#wechat_redirect) 
+- [【前端大全】2019-03-21-小程序运行机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556077&idx=1&sn=add677da378d46c6504813a7d6cf996d#rd) 
 - [【前端大全】2019-03-20-面向对象：希望可以和你一起去看苍山洱海，罗平花开](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556073&idx=2&sn=9d717989d6d0bb3cfa58e40e4f962dd3#rd) 
 - [【前端大全】2019-03-20-Web-实时推送技术的总结](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556073&idx=1&sn=7009b6f2c95e3e48254964f43e838d9b#rd) 
 - [【前端大全】2019-03-19-面向对象：你怎么还不到我身边来，走到哪里迷路了嘛](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=2&sn=e5f057cbff1982414162d6c6c4fdd8f8#rd) 
