@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-20 22:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-21 12:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -53,6 +53,8 @@
 </summary>
 
 
+- [【前端早读课】2019-03-21-【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd) 
+- [【前端早读课】2019-03-21-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=1&sn=ad514bad93654f8dfcf513e5ccd3e53f#rd) 
 - [【前端早读课】2019-03-20-【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd) 
 - [【前端早读课】2019-03-20-【第1560期】前端同构渲染的思考与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=1&sn=df3f56cadf67a37c07f4fab5d3a858c3#rd) 
 - [【前端早读课】2019-03-19-【第1559期】内网穿透工具的原理与开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=2&sn=3d4412e646ae7f72e01a40e859305727#rd) 
