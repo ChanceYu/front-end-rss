@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-22 08:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-22 12:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-03-22-【第1562期】浏览器中的二进制以及相关转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=1&sn=72005ca020427708b5d7366bdcdd79fb#rd) ![](assets/new.png)  
-- [2019-03-22-【招聘】阿里小蜜前端团队2020届前端开发实习生招聘开始了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=2&sn=e4562ef5940c32dcf99167dccd11aee8#rd) ![](assets/new.png)  
+- [2019-03-22-【第1562期】浏览器中的二进制以及相关转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=1&sn=72005ca020427708b5d7366bdcdd79fb#rd)  
+- [2019-03-22-【招聘】阿里小蜜前端团队2020届前端开发实习生招聘开始了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=2&sn=e4562ef5940c32dcf99167dccd11aee8#rd)  
 - [2019-03-21-【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd)  
 - [2019-03-21-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=1&sn=ad514bad93654f8dfcf513e5ccd3e53f#rd)  
 - [2019-03-20-【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd)  
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2019-03-22-每周分享第-48-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html) ![](assets/new.png)  
 - [2019-03-16-普通人的网页配色方案](http://www.ruanyifeng.com/blog/2019/03/coloring-scheme.html)  
 - [2019-03-15-每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)  
 - [2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)  
@@ -198,7 +199,6 @@
 - [2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)  
 - [2019-01-11-每周分享第-39-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-39.html)  
 - [2019-01-04-每周分享第-38-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-38.html)  
-- [2019-01-03-站在未来的十字路口](http://www.ruanyifeng.com/blog/2019/01/survivor-preface.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
