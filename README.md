@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-27 06:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-27 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-03-27-【第1567期】为什么说Suspense是一种巨大的突破？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=1&sn=f8429644d4043bcfa1591c71d711ec28#rd) ![](assets/new.png)  
+- [2019-03-27-【英】深入研究新的Vue-Devtools-V5.0](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=2&sn=b9ee411b36d66b842f46614b7212ed8f#rd) ![](assets/new.png)  
 - [2019-03-26-【第1566期】CSS捡屎记](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231831&idx=1&sn=f2960b62597490f99fe6b01bdebc86bc#rd)  
 - [2019-03-26-【微信小游戏】研究一下物理引擎，做了个游戏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231831&idx=2&sn=94f176a8e3667cb25ea4ac224b4a0397#rd)  
 - [2019-03-25-学会了Vue，前端面试却没找到工作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=1&sn=75c48ab930cfc1dc0500e22c3bfc55b3#rd)  
@@ -42,8 +44,6 @@
 - [2019-03-19-【第1559期】内网穿透工具的原理与开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=2&sn=3d4412e646ae7f72e01a40e859305727#rd)  
 - [2019-03-19-【招聘】腾讯投资研发团队直招](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=3&sn=d7a5c78cfa41c418e75e65dff437f3cf#rd)  
 - [2019-03-19-怎样高效入门-Vue?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=1&sn=a1625b967fda32f2dc039b964121d04d#rd)  
-- [2019-03-18-【招聘】-北京Conflux招前端负责人&资深前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231754&idx=2&sn=fca18fb8a5095acb320f007fb2015f5b#rd)  
-- [2019-03-18-【第1558期】ES5-to-ESNext-—-自-2015-以来-JavaScript-新增的所有新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-26-从-SPA-到-PWA：Web-App的下一站在哪？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490812&idx=1&sn=4c9b898d85f57c1685f93075da68dfda#rd) ![](assets/new.png)  
+- [2019-03-26-从-SPA-到-PWA：Web-App的下一站在哪？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490812&idx=1&sn=4c9b898d85f57c1685f93075da68dfda#rd)  
 - [2019-03-25-Storybook-5.0正式发布：有史以来变化最大的版本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490806&idx=1&sn=7296fb96dde7a45f3cfd5722fb967b4e#rd)  
 - [2019-03-24-从webview到flutter：详解iOS中的Web开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490796&idx=1&sn=13ecf30b8ce8aca16d8cbe0a28537e4d#rd)  
 - [2019-03-23-大前端时代，如何做好C-端业务下的React-SSR？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490789&idx=1&sn=df204fc29d07836e32d58767e61f2d2f#rd)  

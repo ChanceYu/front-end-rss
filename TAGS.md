@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-27 06:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-27 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -127,6 +127,7 @@
 
 
 
+- [【前端早读课】【英】深入研究新的Vue-Devtools-V5.0](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=2&sn=b9ee411b36d66b842f46614b7212ed8f#rd)
 - [【前端早读课】学会了Vue，前端面试却没找到工作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=1&sn=75c48ab930cfc1dc0500e22c3bfc55b3#rd)
 - [【前端早读课】【图书】深入浅出Vue.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=2&sn=1e154a51a13111cbe0bc31d93fef9b4a#rd)
 - [【前端早读课】【第1564期】Vue构建工具的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=1&sn=8a68653093aa7c7f738165fd2b150f04#rd)
@@ -1008,6 +1009,7 @@
 
 
 
+- [【前端早读课】【第1567期】为什么说Suspense是一种巨大的突破？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=1&sn=f8429644d4043bcfa1591c71d711ec28#rd)
 - [【前端早读课】前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=1&sn=ad514bad93654f8dfcf513e5ccd3e53f#rd)
 - [【前端早读课】【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd)
 - [【前端早读课】【第1560期】前端同构渲染的思考与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=1&sn=df3f56cadf67a37c07f4fab5d3a858c3#rd)
