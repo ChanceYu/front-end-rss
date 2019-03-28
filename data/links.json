@@ -3364,6 +3364,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "深入理解浏览器的缓存机制",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490829&idx=1&sn=a79c746dd55d740f6854d86a47a30686#rd",
+        "date": "2019-03-28"
+      },
+      {
         "title": "百度App网络深度优化：DNS 和连接优化",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490822&idx=1&sn=8610ca7454655d59d948afb952003750#rd",
         "date": "2019-03-27"
