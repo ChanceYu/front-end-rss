@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-03-30 06:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-03-30 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,7 @@
 </summary>
 
 
+- [2019-03-30-【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd) ![](assets/new.png)  
 - [2019-03-29-【英】软件开发人员的关键软件技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=2&sn=5e399c3adc5cc76959b32478991f77f2#rd)  
 - [2019-03-29-【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd)  
 - [2019-03-28-【招聘】北京京东用户体验设计部招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=2&sn=b700cf67bbf9e073c7d06d213dd201ef#rd)  
@@ -43,7 +44,6 @@
 - [2019-03-22-【招聘】阿里小蜜前端团队2020届前端开发实习生招聘开始了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=2&sn=e4562ef5940c32dcf99167dccd11aee8#rd)  
 - [2019-03-21-【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd)  
 - [2019-03-21-前阿里手淘前端负责人@winter：前端人如何保持竞争力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=1&sn=ad514bad93654f8dfcf513e5ccd3e53f#rd)  
-- [2019-03-20-【活动】2019西安Web前端交流大会开始报名](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231776&idx=2&sn=cd37079bfdce3aa278510285d0d616b3#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,7 +55,7 @@
 </summary>
 
 
-- [2019-03-29-前端面试知识点目录整理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556126&idx=1&sn=fac147626d1a63ba67b89ec1a52809d5#rd) ![](assets/new.png)  
+- [2019-03-29-前端面试知识点目录整理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556126&idx=1&sn=fac147626d1a63ba67b89ec1a52809d5#rd)  
 - [2019-03-27-9102-了，你还不会移动端真机调试？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556107&idx=2&sn=52b41e84e95268d3ebf2629550d2f5b8#rd)  
 - [2019-03-27-面试加分项之-Nginx-反向代理与负载均衡](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556116&idx=1&sn=cfca7b893bf20faf3f1808c592928487#rd)  
 - [2019-03-27-面向对象：关于我？认识你就知道了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556116&idx=2&sn=14e16f9ca27b217aed2fa7f57b883758#rd)  
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-03-29-国内代表型企业开源项目盘点：前端的“轮子”最多！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490839&idx=1&sn=e76cf8f9201bc77236813ac1378b05d3#rd) ![](assets/new.png)  
+- [2019-03-29-国内代表型企业开源项目盘点：前端的“轮子”最多！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490839&idx=1&sn=e76cf8f9201bc77236813ac1378b05d3#rd)  
 - [2019-03-28-深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490829&idx=1&sn=a79c746dd55d740f6854d86a47a30686#rd)  
 - [2019-03-27-百度App网络深度优化：DNS-和连接优化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490822&idx=1&sn=8610ca7454655d59d948afb952003750#rd)  
 - [2019-03-26-从-SPA-到-PWA：Web-App的下一站在哪？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490812&idx=1&sn=4c9b898d85f57c1685f93075da68dfda#rd)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-03-30 06:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-03-30 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1017,6 +1017,7 @@
 
 
 
+- [【前端早读课】【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd)
 - [【前端早读课】【英】软件开发人员的关键软件技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=2&sn=5e399c3adc5cc76959b32478991f77f2#rd)
 - [【前端早读课】【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd)
 - [【前端早读课】【第1567期】为什么说Suspense是一种巨大的突破？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=1&sn=f8429644d4043bcfa1591c71d711ec28#rd)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-03-30 06:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-03-30 08:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -53,6 +53,7 @@
 </summary>
 
 
+- [【前端早读课】2019-03-30-【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd) 
 - [【前端早读课】2019-03-29-【英】软件开发人员的关键软件技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=2&sn=5e399c3adc5cc76959b32478991f77f2#rd) 
 - [【前端早读课】2019-03-29-【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd) 
 - [【前端早读课】2019-03-28-【招聘】北京京东用户体验设计部招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=2&sn=b700cf67bbf9e073c7d06d213dd201ef#rd) 
