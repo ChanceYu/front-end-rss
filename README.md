@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-01 08:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-01 22:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,7 +24,7 @@
 </summary>
 
 
-- [2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) ![](assets/new.png)  
+- [2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd)  
 - [2019-03-31-【第1571期】从-React-源代码看-keyPress-与-keyDown-事件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231886&idx=1&sn=177a1cc71b3a94f9d38997aef6cdfedb#rd)  
 - [2019-03-30-【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd)  
 - [2019-03-29-【英】软件开发人员的关键软件技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=2&sn=5e399c3adc5cc76959b32478991f77f2#rd)  
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) ![](assets/new.png)  
+- [2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) ![](assets/new.png)  
 - [2019-03-31-十分钟学会防抖和节流](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556136&idx=1&sn=cbcddd60c4c2e1626088ed10e349e503#rd)  
 - [2019-03-30-Vue-前端面试题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556135&idx=1&sn=0283eda4fd987afb01e121d6d6d5239f#rd)  
 - [2019-03-30-面向对象：做好自己，开朗稳重，积极向上，凡事为他人考虑](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556135&idx=2&sn=8e425955ddc05ad4535cd26720767999#rd)  
@@ -73,8 +75,6 @@
 - [2019-03-20-面向对象：希望可以和你一起去看苍山洱海，罗平花开](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556073&idx=2&sn=9d717989d6d0bb3cfa58e40e4f962dd3#rd)  
 - [2019-03-20-Web-实时推送技术的总结](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556073&idx=1&sn=7009b6f2c95e3e48254964f43e838d9b#rd)  
 - [2019-03-19-面向对象：你怎么还不到我身边来，走到哪里迷路了嘛](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=2&sn=e5f057cbff1982414162d6c6c4fdd8f8#rd)  
-- [2019-03-19-JS-面试之数组的几个不-low-操作](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556068&idx=1&sn=aacb377976d111ce22cef0e11721c241#rd)  
-- [2019-03-18-走过-30-年的-Web-初心不再，但万维网之父坚信它还有救](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556059&idx=2&sn=d1e8b55cfd6fa64713b378317ea3eb76#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-04-01-pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd) ![](assets/new.png)  
 - [2019-03-31-碉堡了！前端大神用React刻了一个Windows-XP](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490854&idx=1&sn=848125705c4edbf16942d6d3531d0083#rd)  
 - [2019-03-30-我们用5分钟写了一个跨多端项目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490845&idx=1&sn=2adcd6dde3e875d2d51319e8b9bfb9d0#rd)  
 - [2019-03-29-国内代表型企业开源项目盘点：前端的“轮子”最多！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490839&idx=1&sn=e76cf8f9201bc77236813ac1378b05d3#rd)  
@@ -105,7 +106,6 @@
 - [2019-03-15-华为发布折叠屏官方适配方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490718&idx=1&sn=97dea2212e9d2ae5c1901a7f901ba6f7#rd)  
 - [2019-03-14-Android-Q首个测试版发布：-支持可折叠屏幕！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490705&idx=1&sn=ae29bdec32f55b2345a3dab04ec768cd#rd)  
 - [2019-03-13-Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd)  
-- [2019-03-12-从后端到前端的转变：如何选择框架？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490679&idx=1&sn=4f37d8b0151019a029a7a1d496fc3d5f#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
