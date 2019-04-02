@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-02 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-03 06:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -57,8 +57,11 @@
 - [【前端早读课】2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd) 
 - [【前端早读课】2019-04-02-【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd) 
 - [【前端早读课】2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) 
+- [【前端大全】2019-04-02-新版-Edge-有两颗“芯”？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=2&sn=e3c2b017c9b4df549fa97a7bea9ceccd#rd) 
+- [【前端大全】2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd) 
 - [【前端大全】2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) 
 - [【前端大全】2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
+- [【前端之巅】2019-04-02-前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd) 
 - [【前端之巅】2019-04-01-pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
