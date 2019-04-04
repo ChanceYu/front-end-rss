@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-03 22:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-04 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -523,6 +523,7 @@
 
 
 
+- [【前端早读课】【第1575期】JavaScript中的算法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=1&sn=a0f971165abb73b286e791aef0fd190d#rd)
 - [【前端早读课】【第1558期】ES5-to-ESNext-—-自-2015-以来-JavaScript-新增的所有新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231754&idx=1&sn=0fab4ef809f984554444fb0df6b9c666#rd)
 - [【前端早读课】【英】Chrome中Javascript加载优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231555&idx=3&sn=8fbd825d545a16bd9a4330915e4fa3e4#wechat_redirect)
 - [【前端早读课】【英】Javascript-ES2019中的8个新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231424&idx=3&sn=c8160f6e5007a719bb5387d25e27ad46#wechat_redirect)
@@ -948,6 +949,7 @@
 
 
 
+- [【前端早读课】【招聘】深圳广发证券招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=2&sn=ecf51349d8666b86087284c3b05aca69#rd)
 - [【前端早读课】【招聘】北京京东用户体验设计部招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=2&sn=b700cf67bbf9e073c7d06d213dd201ef#rd)
 - [【前端早读课】【招聘】阿里小蜜前端团队2020届前端开发实习生招聘开始了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=2&sn=e4562ef5940c32dcf99167dccd11aee8#rd)
 - [【前端早读课】【招聘】腾讯投资研发团队直招](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231767&idx=3&sn=d7a5c78cfa41c418e75e65dff437f3cf#rd)
@@ -1027,6 +1029,7 @@
 
 
 
+- [【前端早读课】【英】我从每周工作32小时中学到了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=3&sn=259ee40e9a2eb8839936987e7fa2da71#rd)
 - [【前端早读课】996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd)
 - [【前端早读课】【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd)
 - [【前端早读课】【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd)

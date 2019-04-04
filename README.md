@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-03 22:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-04 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-04-04-【第1575期】JavaScript中的算法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=1&sn=a0f971165abb73b286e791aef0fd190d#rd) ![](assets/new.png)  
+- [2019-04-04-【英】我从每周工作32小时中学到了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=3&sn=259ee40e9a2eb8839936987e7fa2da71#rd) ![](assets/new.png)  
+- [2019-04-04-【招聘】深圳广发证券招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=2&sn=ecf51349d8666b86087284c3b05aca69#rd) ![](assets/new.png)  
 - [2019-04-03-【第1574期】浏览器帧原理剖析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=2&sn=26b93810ab043e64f71f882f35d912c3#rd)  
 - [2019-04-03-996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd)  
 - [2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd)  
@@ -41,9 +44,6 @@
 - [2019-03-26-【微信小游戏】研究一下物理引擎，做了个游戏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231831&idx=2&sn=94f176a8e3667cb25ea4ac224b4a0397#rd)  
 - [2019-03-25-学会了Vue，前端面试却没找到工作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=1&sn=75c48ab930cfc1dc0500e22c3bfc55b3#rd)  
 - [2019-03-25-【第1565期】浏览器中的画中画（Picture-in-Picture）模式及其-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=2&sn=0e61312763acb0f7fb027f90f0288d5b#rd)  
-- [2019-03-25-【英】React-Router-v5发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=3&sn=a309432a5166bfdd60e75a94fc68245b#rd)  
-- [2019-03-24-【图书】深入浅出Vue.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=2&sn=1e154a51a13111cbe0bc31d93fef9b4a#rd)  
-- [2019-03-24-【第1564期】Vue构建工具的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=1&sn=8a68653093aa7c7f738165fd2b150f04#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,8 +55,8 @@
 </summary>
 
 
-- [2019-04-03-面向对象：一屋两人三餐四季，有你的地方，哪里都是风景](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=2&sn=bd6ee322177be2fe7be27578332de28e#rd) ![](assets/new.png)  
-- [2019-04-03-微信小程序自定义单页面、全局导航栏](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=1&sn=62b22ef692d38064bee1217c090f7886#rd) ![](assets/new.png)  
+- [2019-04-03-面向对象：一屋两人三餐四季，有你的地方，哪里都是风景](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=2&sn=bd6ee322177be2fe7be27578332de28e#rd)  
+- [2019-04-03-微信小程序自定义单页面、全局导航栏](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=1&sn=62b22ef692d38064bee1217c090f7886#rd)  
 - [2019-04-02-新版-Edge-有两颗“芯”？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=2&sn=e3c2b017c9b4df549fa97a7bea9ceccd#rd)  
 - [2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd)  
 - [2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd)  
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd) ![](assets/new.png)  
+- [2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd)  
 - [2019-04-02-前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd)  
 - [2019-04-01-pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd)  
 - [2019-03-31-碉堡了！前端大神用React刻了一个Windows-XP](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490854&idx=1&sn=848125705c4edbf16942d6d3531d0083#rd)  
