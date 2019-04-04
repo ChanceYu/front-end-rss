@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-04 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-04 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -24,9 +24,9 @@
 </summary>
 
 
-- [2019-04-04-【第1575期】JavaScript中的算法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=1&sn=a0f971165abb73b286e791aef0fd190d#rd) ![](assets/new.png)  
-- [2019-04-04-【英】我从每周工作32小时中学到了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=3&sn=259ee40e9a2eb8839936987e7fa2da71#rd) ![](assets/new.png)  
-- [2019-04-04-【招聘】深圳广发证券招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=2&sn=ecf51349d8666b86087284c3b05aca69#rd) ![](assets/new.png)  
+- [2019-04-04-【第1575期】JavaScript中的算法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=1&sn=a0f971165abb73b286e791aef0fd190d#rd)  
+- [2019-04-04-【英】我从每周工作32小时中学到了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=3&sn=259ee40e9a2eb8839936987e7fa2da71#rd)  
+- [2019-04-04-【招聘】深圳广发证券招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=2&sn=ecf51349d8666b86087284c3b05aca69#rd)  
 - [2019-04-03-【第1574期】浏览器帧原理剖析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=2&sn=26b93810ab043e64f71f882f35d912c3#rd)  
 - [2019-04-03-996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd)  
 - [2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd)  
@@ -179,6 +179,7 @@
 </summary>
 
 
+- [2019-04-04-OAuth-2.0-的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html) ![](assets/new.png)  
 - [2019-03-29-每周分享第-49-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)  
 - [2019-03-25-Grid-布局教程](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)  
 - [2019-03-22-每周分享第-48-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)  
@@ -198,7 +199,6 @@
 - [2019-01-25-每周分享第-41-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-41.html)  
 - [2019-01-18-每周分享第-40-期](http://www.ruanyifeng.com/blog/2019/01/weekly-issue-40.html)  
 - [2019-01-17-罗杰·克劳利的作品读后感](http://www.ruanyifeng.com/blog/2019/01/roger-crowley.html)  
-- [2019-01-15-数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
