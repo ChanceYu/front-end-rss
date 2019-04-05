@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-05 08:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-05 12:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -73,6 +73,7 @@
 - [【前端之巅】2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd) 
 - [【前端之巅】2019-04-02-前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd) 
 - [【前端之巅】2019-04-01-pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd) 
+- [【阮一峰的网络日志】2019-04-05-每周分享第-50-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html) 
 - [【阮一峰的网络日志】2019-04-04-OAuth-2.0-的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

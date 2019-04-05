@@ -4835,6 +4835,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 50 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html",
+        "date": "2019-04-05"
+      },
+      {
         "title": "OAuth 2.0 的一个简单解释",
         "link": "http://www.ruanyifeng.com/blog/2019/04/oauth_design.html",
         "date": "2019-04-04"
