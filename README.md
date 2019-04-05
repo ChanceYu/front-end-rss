@@ -2,16 +2,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-05 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-05 18:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-04-05-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd) ![](assets/new.png)  
 - [2019-04-04-死磕小程序！快应用宣布支持第三方DSL](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490898&idx=1&sn=97200b61279a9195a7d7b8876880fae2#rd)  
 - [2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd)  
 - [2019-04-02-前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd)  
@@ -105,7 +106,6 @@
 - [2019-03-19-我们评测了5个主流跨端框架，这是它们的区别](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490753&idx=1&sn=2884cbd61bb2c3358237c5aca647db97#rd)  
 - [2019-03-18-为什么每个前端人都该学Vue？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490742&idx=1&sn=611ff01a196a0b87d528977cfa1b2db7#rd)  
 - [2019-03-17-没有JS的前端：体积更小、速度更快！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490736&idx=1&sn=75f32b013e527231ac2e7cdbd604940c#rd)  
-- [2019-03-16-2019年大前端技术趋势深度解读](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490726&idx=1&sn=7f385d8a714a452719e971f9d149e7e0#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -179,7 +179,7 @@
 </summary>
 
 
-- [2019-04-05-每周分享第-50-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html) ![](assets/new.png)  
+- [2019-04-05-每周分享第-50-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)  
 - [2019-04-04-OAuth-2.0-的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
 - [2019-03-29-每周分享第-49-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)  
 - [2019-03-25-Grid-布局教程](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)  

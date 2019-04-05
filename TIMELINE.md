@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-05 12:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-05 18:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 - [【前端大全】2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd) 
 - [【前端大全】2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) 
 - [【前端大全】2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
+- [【前端之巅】2019-04-05-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd) 
 - [【前端之巅】2019-04-04-死磕小程序！快应用宣布支持第三方DSL](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490898&idx=1&sn=97200b61279a9195a7d7b8876880fae2#rd) 
 - [【前端之巅】2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd) 
 - [【前端之巅】2019-04-02-前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd) 
