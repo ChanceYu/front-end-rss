@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-07 08:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-07 18:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,7 +24,7 @@
 </summary>
 
 
-- [2019-04-07-【视频】CSS创意与视觉表现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231962&idx=1&sn=e76ba96f58abcbe4741309b4feac4d57#rd) ![](assets/new.png)  
+- [2019-04-07-【视频】CSS创意与视觉表现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231962&idx=1&sn=e76ba96f58abcbe4741309b4feac4d57#rd)  
 - [2019-04-06-【英】谷歌涂鸦的历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=2&sn=89dc7944a8335904a78df0fe733d0877#rd)  
 - [2019-04-06-【视频】剖析css-tricks新版，为你所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=1&sn=167e4c58fe6b8cc9849f6ae7d67e8137#rd)  
 - [2019-04-05-【视频】CSS生成艺术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231947&idx=1&sn=0178ef945adc605cf7e72be4a65a13ea#rd)  
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-04-07-力荐！技术人都在关注的9个公众号](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490907&idx=1&sn=d8d18f5cfd283c3773aa2bfb2ae03d13#rd) ![](assets/new.png)  
 - [2019-04-05-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd)  
 - [2019-04-04-死磕小程序！快应用宣布支持第三方DSL](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490898&idx=1&sn=97200b61279a9195a7d7b8876880fae2#rd)  
 - [2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd)  
@@ -105,7 +106,6 @@
 - [2019-03-20-谷歌新发布的TWA：让你的PWA进入应用商店](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490761&idx=1&sn=efb95ab46a47cebb7e3a8e327b6da544#rd)  
 - [2019-03-19-我们评测了5个主流跨端框架，这是它们的区别](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490753&idx=1&sn=2884cbd61bb2c3358237c5aca647db97#rd)  
 - [2019-03-18-为什么每个前端人都该学Vue？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490742&idx=1&sn=611ff01a196a0b87d528977cfa1b2db7#rd)  
-- [2019-03-17-没有JS的前端：体积更小、速度更快！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490736&idx=1&sn=75f32b013e527231ac2e7cdbd604940c#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

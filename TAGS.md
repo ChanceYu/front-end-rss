@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-07 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-07 18:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1317,6 +1317,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】力荐！技术人都在关注的9个公众号](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490907&idx=1&sn=d8d18f5cfd283c3773aa2bfb2ae03d13#rd)
 - [【前端之巅】全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd)
 - [【前端之巅】我们用5分钟写了一个跨多端项目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490845&idx=1&sn=2adcd6dde3e875d2d51319e8b9bfb9d0#rd)
 - [【前端之巅】国内代表型企业开源项目盘点：前端的“轮子”最多！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490839&idx=1&sn=e76cf8f9201bc77236813ac1378b05d3#rd)
