@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-08 08:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-08 22:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,8 +24,8 @@
 </summary>
 
 
-- [2019-04-08-【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd) ![](assets/new.png)  
-- [2019-04-08-【第1576期】小菜前端的技术栈是如何规划和演进的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=1&sn=dd642085083504c76e161aaac7625330#rd) ![](assets/new.png)  
+- [2019-04-08-【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd)  
+- [2019-04-08-【第1576期】小菜前端的技术栈是如何规划和演进的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=1&sn=dd642085083504c76e161aaac7625330#rd)  
 - [2019-04-07-【视频】CSS创意与视觉表现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231962&idx=1&sn=e76ba96f58abcbe4741309b4feac4d57#rd)  
 - [2019-04-06-【英】谷歌涂鸦的历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=2&sn=89dc7944a8335904a78df0fe733d0877#rd)  
 - [2019-04-06-【视频】剖析css-tricks新版，为你所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=1&sn=167e4c58fe6b8cc9849f6ae7d67e8137#rd)  
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [2019-04-08-霸权？Google阻止我写Web浏览器](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556176&idx=1&sn=deafcba2799a0b8efcf3d2f650343177#rd) ![](assets/new.png)  
+- [2019-04-08-面向对象：我就是来看看是不是丢了个对象在这里~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556176&idx=2&sn=875b44ff5b9f1134d74edba5282a1151#rd) ![](assets/new.png)  
 - [2019-04-07-深入理解JavaScript执行上下文和执行栈](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556169&idx=1&sn=00fd1b67b1618f6a00c1d2b0f9326a04#rd)  
 - [2019-04-06-我们不再需要-Chrome？：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556168&idx=1&sn=6c044aa867ecfebd31c807e6dc0f24a7#rd)  
 - [2019-04-03-面向对象：一屋两人三餐四季，有你的地方，哪里都是风景](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=2&sn=bd6ee322177be2fe7be27578332de28e#rd)  
@@ -73,8 +75,6 @@
 - [2019-03-27-我会了-Vue，前端面试却没找到工作](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556107&idx=1&sn=5f232ba4564760571664dd62be5885fd#rd)  
 - [2019-03-25-JS-引擎-V8-发布-v7.4，性能又大幅提高了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556104&idx=1&sn=4db75fa3a6c409e3124790c5d9939bb6#rd)  
 - [2019-03-25-面向对象：希望未来的你要有责任心，捡到我就不要放弃](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556104&idx=2&sn=c6bd6966d89c7a0f95911b624d64f824#rd)  
-- [2019-03-24-React-Router-v5发布，更好地支持React-16](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556094&idx=1&sn=530965efc5b27a780411ffb77e435a57#rd)  
-- [2019-03-23-面向对象：未来的路我们携手一起走](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556090&idx=2&sn=44541b80e82463599dc68f0697514260#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,6 +86,7 @@
 </summary>
 
 
+- [2019-04-08-2019年Vue生态圈调查：92%的开发者将继续用Vue](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490918&idx=1&sn=34ff680a345709592c8a127fc6938d94#rd) ![](assets/new.png)  
 - [2019-04-07-力荐！技术人都在关注的9个公众号](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490907&idx=1&sn=d8d18f5cfd283c3773aa2bfb2ae03d13#rd)  
 - [2019-04-05-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd)  
 - [2019-04-04-死磕小程序！快应用宣布支持第三方DSL](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490898&idx=1&sn=97200b61279a9195a7d7b8876880fae2#rd)  
@@ -105,7 +106,6 @@
 - [2019-03-21-Deno-如何偿还-Node.js-的十大技术债？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490770&idx=1&sn=24a21709a16c5570ff58c1ccfbe6b17f#rd)  
 - [2019-03-20-谷歌新发布的TWA：让你的PWA进入应用商店](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490761&idx=1&sn=efb95ab46a47cebb7e3a8e327b6da544#rd)  
 - [2019-03-19-我们评测了5个主流跨端框架，这是它们的区别](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490753&idx=1&sn=2884cbd61bb2c3358237c5aca647db97#rd)  
-- [2019-03-18-为什么每个前端人都该学Vue？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490742&idx=1&sn=611ff01a196a0b87d528977cfa1b2db7#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
