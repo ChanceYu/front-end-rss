@@ -2,12 +2,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-07 22:00:31，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-08 08:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,6 +24,8 @@
 </summary>
 
 
+- [2019-04-08-【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd) ![](assets/new.png)  
+- [2019-04-08-【第1576期】小菜前端的技术栈是如何规划和演进的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=1&sn=dd642085083504c76e161aaac7625330#rd) ![](assets/new.png)  
 - [2019-04-07-【视频】CSS创意与视觉表现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231962&idx=1&sn=e76ba96f58abcbe4741309b4feac4d57#rd)  
 - [2019-04-06-【英】谷歌涂鸦的历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=2&sn=89dc7944a8335904a78df0fe733d0877#rd)  
 - [2019-04-06-【视频】剖析css-tricks新版，为你所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=1&sn=167e4c58fe6b8cc9849f6ae7d67e8137#rd)  
@@ -42,8 +44,6 @@
 - [2019-03-29-【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd)  
 - [2019-03-28-【招聘】北京京东用户体验设计部招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=2&sn=b700cf67bbf9e073c7d06d213dd201ef#rd)  
 - [2019-03-28-【第1568期】CSS-火焰](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=1&sn=2c585c3a4888828fd1676a16cfaf8111#rd)  
-- [2019-03-27-【第1567期】为什么说Suspense是一种巨大的突破？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=1&sn=f8429644d4043bcfa1591c71d711ec28#rd)  
-- [2019-03-27-【英】深入研究新的Vue-Devtools-V5.0](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=2&sn=b9ee411b36d66b842f46614b7212ed8f#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -55,7 +55,7 @@
 </summary>
 
 
-- [2019-04-07-深入理解JavaScript执行上下文和执行栈](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556169&idx=1&sn=00fd1b67b1618f6a00c1d2b0f9326a04#rd) ![](assets/new.png)  
+- [2019-04-07-深入理解JavaScript执行上下文和执行栈](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556169&idx=1&sn=00fd1b67b1618f6a00c1d2b0f9326a04#rd)  
 - [2019-04-06-我们不再需要-Chrome？：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556168&idx=1&sn=6c044aa867ecfebd31c807e6dc0f24a7#rd)  
 - [2019-04-03-面向对象：一屋两人三餐四季，有你的地方，哪里都是风景](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=2&sn=bd6ee322177be2fe7be27578332de28e#rd)  
 - [2019-04-03-微信小程序自定义单页面、全局导航栏](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=1&sn=62b22ef692d38064bee1217c090f7886#rd)  
