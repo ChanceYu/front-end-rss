@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-09 12:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-09 22:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,7 @@
 - [【前端大全】2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd) 
 - [【前端大全】2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) 
 - [【前端大全】2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
+- [【前端之巅】2019-04-09-基于Chromium的预览版Edge-终于来了！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490927&idx=1&sn=86d1014843c5217c899d9f95e0b0b7b7#rd) 
 - [【前端之巅】2019-04-08-2019年Vue生态圈调查：92%的开发者将继续用Vue](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490918&idx=1&sn=34ff680a345709592c8a127fc6938d94#rd) 
 - [【前端之巅】2019-04-07-力荐！技术人都在关注的9个公众号](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490907&idx=1&sn=d8d18f5cfd283c3773aa2bfb2ae03d13#rd) 
 - [【前端之巅】2019-04-05-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd) 
