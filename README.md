@@ -2,13 +2,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-09 22:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-10 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -24,6 +24,9 @@
 </summary>
 
 
+- [2019-04-10-【视频】CSS-TIME](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=3&sn=55f4c00920bfc78b6a34329dcceceb27#rd) ![](assets/new.png)  
+- [2019-04-10-【第1578期】在阿里云做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=1&sn=22681c82797a726255308a60f582fdef#rd) ![](assets/new.png)  
+- [2019-04-10-【招聘】资深前端面试官的建议，助你走进阿里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=2&sn=3603a11a8df063806bbe727951d7b2fa#rd) ![](assets/new.png)  
 - [2019-04-09-【第1577期】小程序性能优化的几点实践技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=1&sn=ec6a9af65dc1804f281a4e7d1bde945a#rd)  
 - [2019-04-09-【活动】2019freeCodeCamp-前端技术交流会杭州站](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=2&sn=b8b160c818719c9fdb24db6e98686dd8#rd)  
 - [2019-04-08-【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd)  
@@ -41,9 +44,6 @@
 - [2019-04-02-【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd)  
 - [2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd)  
 - [2019-03-31-【第1571期】从-React-源代码看-keyPress-与-keyDown-事件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231886&idx=1&sn=177a1cc71b3a94f9d38997aef6cdfedb#rd)  
-- [2019-03-30-【第1570期】PNG图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231884&idx=1&sn=f61c54167a67faebbf2ff741cb566e1d#rd)  
-- [2019-03-29-【英】软件开发人员的关键软件技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=2&sn=5e399c3adc5cc76959b32478991f77f2#rd)  
-- [2019-03-29-【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -86,7 +86,7 @@
 </summary>
 
 
-- [2019-04-09-基于Chromium的预览版Edge-终于来了！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490927&idx=1&sn=86d1014843c5217c899d9f95e0b0b7b7#rd) ![](assets/new.png)  
+- [2019-04-09-基于Chromium的预览版Edge-终于来了！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490927&idx=1&sn=86d1014843c5217c899d9f95e0b0b7b7#rd)  
 - [2019-04-08-2019年Vue生态圈调查：92%的开发者将继续用Vue](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490918&idx=1&sn=34ff680a345709592c8a127fc6938d94#rd)  
 - [2019-04-07-力荐！技术人都在关注的9个公众号](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490907&idx=1&sn=d8d18f5cfd283c3773aa2bfb2ae03d13#rd)  
 - [2019-04-05-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490901&idx=1&sn=efe3083d6f4368d204edd2869c419452#rd)  

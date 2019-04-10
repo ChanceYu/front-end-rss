@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-09 22:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-10 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -496,6 +496,7 @@
 
 
 
+- [【前端早读课】【视频】CSS-TIME](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=3&sn=55f4c00920bfc78b6a34329dcceceb27#rd)
 - [【前端早读课】【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd)
 - [【前端早读课】【视频】CSS创意与视觉表现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231962&idx=1&sn=e76ba96f58abcbe4741309b4feac4d57#rd)
 - [【前端早读课】【视频】剖析css-tricks新版，为你所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=1&sn=167e4c58fe6b8cc9849f6ae7d67e8137#rd)
@@ -961,6 +962,7 @@
 
 
 
+- [【前端早读课】【招聘】资深前端面试官的建议，助你走进阿里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=2&sn=3603a11a8df063806bbe727951d7b2fa#rd)
 - [【前端早读课】【招聘】深圳广发证券招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=2&sn=ecf51349d8666b86087284c3b05aca69#rd)
 - [【前端早读课】【招聘】北京京东用户体验设计部招web前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231864&idx=2&sn=b700cf67bbf9e073c7d06d213dd201ef#rd)
 - [【前端早读课】【招聘】阿里小蜜前端团队2020届前端开发实习生招聘开始了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231796&idx=2&sn=e4562ef5940c32dcf99167dccd11aee8#rd)
@@ -1042,6 +1044,7 @@
 
 
 
+- [【前端早读课】【第1578期】在阿里云做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=1&sn=22681c82797a726255308a60f582fdef#rd)
 - [【前端早读课】【活动】2019freeCodeCamp-前端技术交流会杭州站](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=2&sn=b8b160c818719c9fdb24db6e98686dd8#rd)
 - [【前端早读课】【第1576期】小菜前端的技术栈是如何规划和演进的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=1&sn=dd642085083504c76e161aaac7625330#rd)
 - [【前端早读课】【英】谷歌涂鸦的历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=2&sn=89dc7944a8335904a78df0fe733d0877#rd)
