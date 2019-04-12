@@ -4980,6 +4980,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 51 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html",
+        "date": "2019-04-12"
+      },
+      {
         "title": "OAuth 2.0 的四种方式",
         "link": "http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html",
         "date": "2019-04-09"
