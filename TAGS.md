@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-12 22:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-13 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -35,6 +35,7 @@
 
 
 
+- [【前端早读课】【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)
 - [【前端早读课】【第1579期】十个案例学会-React-Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd)
 - [【前端早读课】【第1571期】从-React-源代码看-keyPress-与-keyDown-事件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231886&idx=1&sn=177a1cc71b3a94f9d38997aef6cdfedb#rd)
 - [【前端早读课】【英】React-Router-v5发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=3&sn=a309432a5166bfdd60e75a94fc68245b#rd)
