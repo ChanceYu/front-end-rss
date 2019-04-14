@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-14 18:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-15 06:00:19。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -80,6 +80,7 @@
 - [【前端早读课】2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd) 
 - [【前端早读课】2019-04-02-【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd) 
 - [【前端早读课】2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) 
+- [【前端大全】2019-04-14-你不知道的浏览器页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556215&idx=1&sn=f6dc506c5c34c096105a4cc06d7a623d#rd) 
 - [【前端大全】2019-04-13-面向对象：寻寻觅觅，诚邀你一起来解开这道迷题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=2&sn=9fe3080cd358506cfb793f8e879c55b6#rd) 
 - [【前端大全】2019-04-13-jQuery-3.4.0-发布！全力准备-jQuery-4.0](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=1&sn=9ecde76af33874c5664b733b97f4903f#rd) 
 - [【前端大全】2019-04-12-腾讯新闻前端团队：深入理解前端性能监控](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556204&idx=1&sn=df44f3ae42074728f5369afc6e9b79d2#rd) 
