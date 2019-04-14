@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-13 22:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-14 08:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-04-14-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd) ![](assets/new.png)  
+- [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) ![](assets/new.png)  
 - [2019-04-13-【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)  
 - [2019-04-12-【3.29】W3C-Web-中文兴趣组媒体特别任务组研讨会总结报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=2&sn=e705e015c18965aa82d05a1f9700f6fd#rd)  
 - [2019-04-12-【第1580期】rrweb：打开-web-页面录制与回放的黑盒子](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=1&sn=7f0c1984efa46de8b5877b32d7caa8d4#rd)  
@@ -44,8 +46,6 @@
 - [2019-04-05-【视频】CSS生成艺术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231947&idx=1&sn=0178ef945adc605cf7e72be4a65a13ea#rd)  
 - [2019-04-04-【第1575期】JavaScript中的算法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=1&sn=a0f971165abb73b286e791aef0fd190d#rd)  
 - [2019-04-04-【英】我从每周工作32小时中学到了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=3&sn=259ee40e9a2eb8839936987e7fa2da71#rd)  
-- [2019-04-04-【招聘】深圳广发证券招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231935&idx=2&sn=ecf51349d8666b86087284c3b05aca69#rd)  
-- [2019-04-03-【第1574期】浏览器帧原理剖析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=2&sn=26b93810ab043e64f71f882f35d912c3#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-04-13-面向对象：寻寻觅觅，诚邀你一起来解开这道迷题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=2&sn=9fe3080cd358506cfb793f8e879c55b6#rd) ![](assets/new.png)  
-- [2019-04-13-jQuery-3.4.0-发布！全力准备-jQuery-4.0](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=1&sn=9ecde76af33874c5664b733b97f4903f#rd) ![](assets/new.png)  
+- [2019-04-13-面向对象：寻寻觅觅，诚邀你一起来解开这道迷题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=2&sn=9fe3080cd358506cfb793f8e879c55b6#rd)  
+- [2019-04-13-jQuery-3.4.0-发布！全力准备-jQuery-4.0](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=1&sn=9ecde76af33874c5664b733b97f4903f#rd)  
 - [2019-04-12-腾讯新闻前端团队：深入理解前端性能监控](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556204&idx=1&sn=df44f3ae42074728f5369afc6e9b79d2#rd)  
 - [2019-04-10-面向对象：洗尽铅华，返璞归真](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556189&idx=2&sn=e462b08dffcdebad26eeac8780e6b8ef#rd)  
 - [2019-04-10-喜大普奔！Chrome-75-将原生支持图片懒加载](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556189&idx=1&sn=803c79b126a1de2e29f18bac8f314f63#rd)  
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-04-13-深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd) ![](assets/new.png)  
+- [2019-04-13-深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd)  
 - [2019-04-12-我们用WebAssembly将Web-App速度提升了20倍！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490951&idx=1&sn=76139005000b6ac1d3f0282e36abf8c6#rd)  
 - [2019-04-11-最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490937&idx=1&sn=e6b2506c9813ffb9eeddae8a86e384fb#rd)  
 - [2019-04-10-你的前端框架要被Web组件取代了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490932&idx=1&sn=c29a2e8eee7f7d8472391dc99428d7f2#rd)  

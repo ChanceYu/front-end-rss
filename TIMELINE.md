@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-13 22:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-14 08:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,6 +54,8 @@
 </summary>
 
 
+- [【前端早读课】2019-04-14-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd) 
+- [【前端早读课】2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) 
 - [【前端早读课】2019-04-13-【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd) 
 - [【前端早读课】2019-04-12-【3.29】W3C-Web-中文兴趣组媒体特别任务组研讨会总结报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=2&sn=e705e015c18965aa82d05a1f9700f6fd#rd) 
 - [【前端早读课】2019-04-12-【第1580期】rrweb：打开-web-页面录制与回放的黑盒子](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=1&sn=7f0c1984efa46de8b5877b32d7caa8d4#rd) 
