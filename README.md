@@ -4,16 +4,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-15 08:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-15 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-04-15-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd) ![](assets/new.png)  
-- [2019-04-15-【第1583期】-Airbnb-的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd) ![](assets/new.png)  
+- [2019-04-15-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd)  
+- [2019-04-15-【第1583期】-Airbnb-的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd)  
 - [2019-04-14-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd)  
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd)  
 - [2019-04-13-【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)  
@@ -181,6 +181,7 @@
 </summary>
 
 
+- [2019-04-15-如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html) ![](assets/new.png)  
 - [2019-04-12-每周分享第-51-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)  
 - [2019-04-09-OAuth-2.0-的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)  
 - [2019-04-05-每周分享第-50-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)  
@@ -200,7 +201,6 @@
 - [2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)  
 - [2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)  
 - [2019-01-31-一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html)  
-- [2019-01-28-Prolog-语言入门教程](http://www.ruanyifeng.com/blog/2019/01/prolog.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
