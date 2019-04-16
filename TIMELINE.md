@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-16 06:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-16 12:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,6 +54,8 @@
 </summary>
 
 
+- [【前端早读课】2019-04-16-【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd) 
+- [【前端早读课】2019-04-16-从前端发展史看前端人才的必备技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=1&sn=08aca99132fdda6b9738d8cbea01ba25#rd) 
 - [【前端早读课】2019-04-15-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd) 
 - [【前端早读课】2019-04-15-【第1583期】-Airbnb-的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd) 
 - [【前端早读课】2019-04-14-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd) 

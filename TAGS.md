@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-16 06:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-16 12:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -35,6 +35,7 @@
 
 
 
+- [【前端早读课】【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd)
 - [【前端早读课】【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)
 - [【前端早读课】【第1579期】十个案例学会-React-Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd)
 - [【前端早读课】【第1571期】从-React-源代码看-keyPress-与-keyDown-事件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231886&idx=1&sn=177a1cc71b3a94f9d38997aef6cdfedb#rd)
@@ -1059,6 +1060,7 @@
 
 
 
+- [【前端早读课】从前端发展史看前端人才的必备技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=1&sn=08aca99132fdda6b9738d8cbea01ba25#rd)
 - [【前端早读课】【第1583期】-Airbnb-的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd)
 - [【前端早读课】【3.29】W3C-Web-中文兴趣组媒体特别任务组研讨会总结报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=2&sn=e705e015c18965aa82d05a1f9700f6fd#rd)
 - [【前端早读课】【第1580期】rrweb：打开-web-页面录制与回放的黑盒子](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=1&sn=7f0c1984efa46de8b5877b32d7caa8d4#rd)

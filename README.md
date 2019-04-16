@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-16 06:00:22，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-16 12:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-04-16-【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd) ![](assets/new.png)  
+- [2019-04-16-从前端发展史看前端人才的必备技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=1&sn=08aca99132fdda6b9738d8cbea01ba25#rd) ![](assets/new.png)  
 - [2019-04-15-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd)  
 - [2019-04-15-【第1583期】-Airbnb-的“硅谷”产品工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=1&sn=8b105d2ee6f60d435501a5a3b3fbd0d7#rd)  
 - [2019-04-14-【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd)  
@@ -44,8 +46,6 @@
 - [2019-04-08-【第1576期】小菜前端的技术栈是如何规划和演进的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=1&sn=dd642085083504c76e161aaac7625330#rd)  
 - [2019-04-07-【视频】CSS创意与视觉表现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231962&idx=1&sn=e76ba96f58abcbe4741309b4feac4d57#rd)  
 - [2019-04-06-【英】谷歌涂鸦的历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=2&sn=89dc7944a8335904a78df0fe733d0877#rd)  
-- [2019-04-06-【视频】剖析css-tricks新版，为你所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231957&idx=1&sn=167e4c58fe6b8cc9849f6ae7d67e8137#rd)  
-- [2019-04-05-【视频】CSS生成艺术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231947&idx=1&sn=0178ef945adc605cf7e72be4a65a13ea#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-04-15-灵活使用-console-让-js-调试更简单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=1&sn=962fba706654ef2de118464051edbeee#rd) ![](assets/new.png)  
-- [2019-04-15-面向对象：期待遇到能进入婚姻的爱情](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=2&sn=1e22d92be7f39b0b61e81e1529408af9#rd) ![](assets/new.png)  
+- [2019-04-15-灵活使用-console-让-js-调试更简单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=1&sn=962fba706654ef2de118464051edbeee#rd)  
+- [2019-04-15-面向对象：期待遇到能进入婚姻的爱情](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=2&sn=1e22d92be7f39b0b61e81e1529408af9#rd)  
 - [2019-04-14-你不知道的浏览器页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556215&idx=1&sn=f6dc506c5c34c096105a4cc06d7a623d#rd)  
 - [2019-04-13-面向对象：寻寻觅觅，诚邀你一起来解开这道迷题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=2&sn=9fe3080cd358506cfb793f8e879c55b6#rd)  
 - [2019-04-13-jQuery-3.4.0-发布！全力准备-jQuery-4.0](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556214&idx=1&sn=9ecde76af33874c5664b733b97f4903f#rd)  
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-04-15-禁用JavaScript后，这些网站会变成这样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490970&idx=1&sn=d29145c2e9dcde586738263219c87412#rd) ![](assets/new.png)  
+- [2019-04-15-禁用JavaScript后，这些网站会变成这样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490970&idx=1&sn=d29145c2e9dcde586738263219c87412#rd)  
 - [2019-04-14-大部分教程不会告诉你的12个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490962&idx=1&sn=0be614f1da5a55713200fc9db1ea8809#rd)  
 - [2019-04-13-深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd)  
 - [2019-04-12-我们用WebAssembly将Web-App速度提升了20倍！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490951&idx=1&sn=76139005000b6ac1d3f0282e36abf8c6#rd)  
