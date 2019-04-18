@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-17 22:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-18 12:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -35,6 +35,7 @@
 
 
 
+- [【前端早读课】【第1586期】基于Redux/Vuex/MobX等库的通用化状态OOP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232049&idx=1&sn=444b9177db9f198f09687f5fc0f6d154#rd)
 - [【前端早读课】【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd)
 - [【前端早读课】【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)
 - [【前端早读课】【第1579期】十个案例学会-React-Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd)
