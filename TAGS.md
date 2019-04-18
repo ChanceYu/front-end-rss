@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-18 18:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-18 22:00:39。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -869,6 +869,7 @@
 - [【前端大全】Chrome-的哪些功能改变了我们浏览网页的方式？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555109&idx=1&sn=5255eb07d39b70c722b84327fb32d73a#wechat_redirect)
 - [【前端大全】主流浏览器图片反防盗链方法总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=2&sn=80c9ecfa073ad24e16ff3bd6d49a326a#wechat_redirect)
 - [【前端大全】一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect)
+- [【前端之巅】Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd)
 - [【前端之巅】深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd)
 - [【前端之巅】基于Chromium的预览版Edge-终于来了！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490927&idx=1&sn=86d1014843c5217c899d9f95e0b0b7b7#rd)
 - [【前端之巅】深入理解浏览器的缓存机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490829&idx=1&sn=a79c746dd55d740f6854d86a47a30686#rd)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-18 18:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-18 22:00:39。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -110,6 +110,7 @@
 - [【前端大全】2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd) 
 - [【前端大全】2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) 
 - [【前端大全】2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
+- [【前端之巅】2019-04-18-Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd) 
 - [【前端之巅】2019-04-17-移动开发的下半场，iOS开发者应该学什么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490991&idx=1&sn=4003001c7b786219751949cca8cd5b0e#rd) 
 - [【前端之巅】2019-04-16-学不动了也得学！2019年Web开发路线图发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490976&idx=1&sn=8bdce32023b98516e4511cf6dc21e42e#rd) 
 - [【前端之巅】2019-04-15-禁用JavaScript后，这些网站会变成这样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490970&idx=1&sn=d29145c2e9dcde586738263219c87412#rd) 
