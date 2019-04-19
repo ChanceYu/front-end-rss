@@ -4,15 +4,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-19 18:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-20 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-04-19-面向对象：白茶清欢无别事，我在等风也等你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=2&sn=66553646c512c76a5612c5b886b335f6#rd) ![](assets/new.png)  
-- [2019-04-19-函数式编程，真香](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=1&sn=12022fd7c41516581b8df82552020c66#rd) ![](assets/new.png)  
+- [2019-04-19-面向对象：白茶清欢无别事，我在等风也等你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=2&sn=66553646c512c76a5612c5b886b335f6#rd)  
+- [2019-04-19-函数式编程，真香](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=1&sn=12022fd7c41516581b8df82552020c66#rd)  
 - [2019-04-18-戴尔搞团购，团长你来当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556250&idx=2&sn=805339f2722ad95641ef2c6daa4f17c6#rd)  
 - [2019-04-18-前端开发者必备的-Nginx-知识](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556250&idx=1&sn=07ae8424d4087a11a1fbacc54b1581db#rd)  
 - [2019-04-16-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556237&idx=1&sn=28d92dfb8d1bd87eda50cfdd28304cc0#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-04-19-浏览器将支持Python项目！Mozilla发布Pyodide](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491006&idx=1&sn=a413833e8b1c788fd9032d68b13721ff#rd) ![](assets/new.png)  
 - [2019-04-18-Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd)  
 - [2019-04-17-移动开发的下半场，iOS开发者应该学什么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490991&idx=1&sn=4003001c7b786219751949cca8cd5b0e#rd)  
 - [2019-04-16-学不动了也得学！2019年Web开发路线图发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490976&idx=1&sn=8bdce32023b98516e4511cf6dc21e42e#rd)  
@@ -107,7 +108,6 @@
 - [2019-04-01-pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd)  
 - [2019-03-31-碉堡了！前端大神用React刻了一个Windows-XP](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490854&idx=1&sn=848125705c4edbf16942d6d3531d0083#rd)  
 - [2019-03-30-我们用5分钟写了一个跨多端项目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490845&idx=1&sn=2adcd6dde3e875d2d51319e8b9bfb9d0#rd)  
-- [2019-03-29-国内代表型企业开源项目盘点：前端的“轮子”最多！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490839&idx=1&sn=e76cf8f9201bc77236813ac1378b05d3#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -150,6 +150,7 @@
 </summary>
 
 
+- [2019-04-20-CSS-scroll-snap滚动事件停止及元素位置检测](https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/) ![](assets/new.png)  
 - [2019-04-05-如何disabled禁用所有表单input输入框元素](https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/)  
 - [2019-03-24-CSS-:focus-visible伪类让我感动哭了](https://www.zhangxinxu.com/wordpress/2019/03/css-focus-visible/)  
 - [2019-03-11-伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/)  
@@ -169,7 +170,6 @@
 - [2019-01-10-小tips:-纯CSS实现打字动画效果](https://www.zhangxinxu.com/wordpress/2019/01/css-typewriter-effect/)  
 - [2019-01-05-CSS/CSS3-box-decoration-break属性图文简介](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-box-decoration-break/)  
 - [2018-12-25-CSS-:placeholder-shown伪类实现Material-Design占位符交互效果](https://www.zhangxinxu.com/wordpress/2018/12/css-placeholder-shown-material-design/)  
-- [2018-12-24-从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

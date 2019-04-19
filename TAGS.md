@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-19 18:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-20 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -732,6 +732,7 @@
 - [【前端大全】不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect)
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
 - [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
+- [【张鑫旭-鑫空间-鑫生活】CSS-scroll-snap滚动事件停止及元素位置检测](https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-:focus-visible伪类让我感动哭了](https://www.zhangxinxu.com/wordpress/2019/03/css-focus-visible/)
 - [【张鑫旭-鑫空间-鑫生活】伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/)
 - [【张鑫旭-鑫空间-鑫生活】快速了解CSS新出的列选择符双管道（||）](https://www.zhangxinxu.com/wordpress/2019/02/css-column-combinator/)
@@ -870,6 +871,7 @@
 - [【前端大全】Chrome-的哪些功能改变了我们浏览网页的方式？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555109&idx=1&sn=5255eb07d39b70c722b84327fb32d73a#wechat_redirect)
 - [【前端大全】主流浏览器图片反防盗链方法总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=2&sn=80c9ecfa073ad24e16ff3bd6d49a326a#wechat_redirect)
 - [【前端大全】一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect)
+- [【前端之巅】浏览器将支持Python项目！Mozilla发布Pyodide](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491006&idx=1&sn=a413833e8b1c788fd9032d68b13721ff#rd)
 - [【前端之巅】Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd)
 - [【前端之巅】深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd)
 - [【前端之巅】基于Chromium的预览版Edge-终于来了！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490927&idx=1&sn=86d1014843c5217c899d9f95e0b0b7b7#rd)

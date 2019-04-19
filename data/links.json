@@ -3704,6 +3704,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "浏览器将支持Python项目！Mozilla发布Pyodide",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491006&idx=1&sn=a413833e8b1c788fd9032d68b13721ff#rd",
+        "date": "2019-04-19"
+      },
+      {
         "title": "Edge转向Chromium对前端开发者有哪些影响？",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd",
         "date": "2019-04-18"
@@ -4847,6 +4852,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "CSS scroll-snap滚动事件停止及元素位置检测",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/",
+        "date": "2019-04-20"
+      },
       {
         "title": "如何disabled禁用所有表单input输入框元素",
         "link": "https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/",

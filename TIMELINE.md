@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-19 18:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-20 06:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -114,6 +114,7 @@
 - [【前端大全】2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd) 
 - [【前端大全】2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) 
 - [【前端大全】2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
+- [【前端之巅】2019-04-19-浏览器将支持Python项目！Mozilla发布Pyodide](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491006&idx=1&sn=a413833e8b1c788fd9032d68b13721ff#rd) 
 - [【前端之巅】2019-04-18-Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd) 
 - [【前端之巅】2019-04-17-移动开发的下半场，iOS开发者应该学什么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490991&idx=1&sn=4003001c7b786219751949cca8cd5b0e#rd) 
 - [【前端之巅】2019-04-16-学不动了也得学！2019年Web开发路线图发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490976&idx=1&sn=8bdce32023b98516e4511cf6dc21e42e#rd) 
@@ -131,6 +132,7 @@
 - [【前端之巅】2019-04-03-2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd) 
 - [【前端之巅】2019-04-02-前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd) 
 - [【前端之巅】2019-04-01-pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-04-20-CSS-scroll-snap滚动事件停止及元素位置检测](https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-04-05-如何disabled禁用所有表单input输入框元素](https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/) 
 - [【阮一峰的网络日志】2019-04-19-每周分享第-52-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html) 
 - [【阮一峰的网络日志】2019-04-15-如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html) 
