@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-18 22:00:39。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-19 08:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,6 +54,8 @@
 </summary>
 
 
+- [【前端早读课】2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd) 
+- [【前端早读课】2019-04-19-【第1587期】-深入实践-ES6-Proxy-&-Reflect](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=1&sn=9ae6567a5580818d762dc939569d601a#rd) 
 - [【前端早读课】2019-04-18-【第1586期】基于Redux/Vuex/MobX等库的通用化状态OOP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232049&idx=1&sn=444b9177db9f198f09687f5fc0f6d154#rd) 
 - [【前端早读课】2019-04-17-【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd) 
 - [【前端早读课】2019-04-17-【第1585期】Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=1&sn=bcacd50da50476341e765f2c934e8b8e#rd) 
