@@ -4,16 +4,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-19 08:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-19 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd) ![](assets/new.png)  
-- [2019-04-19-【第1587期】-深入实践-ES6-Proxy-&-Reflect](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=1&sn=9ae6567a5580818d762dc939569d601a#rd) ![](assets/new.png)  
+- [2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd)  
+- [2019-04-19-【第1587期】-深入实践-ES6-Proxy-&-Reflect](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=1&sn=9ae6567a5580818d762dc939569d601a#rd)  
 - [2019-04-18-【第1586期】基于Redux/Vuex/MobX等库的通用化状态OOP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232049&idx=1&sn=444b9177db9f198f09687f5fc0f6d154#rd)  
 - [2019-04-17-【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd)  
 - [2019-04-17-【第1585期】Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=1&sn=bcacd50da50476341e765f2c934e8b8e#rd)  
@@ -181,6 +181,7 @@
 </summary>
 
 
+- [2019-04-19-每周分享第-52-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html) ![](assets/new.png)  
 - [2019-04-15-如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html)  
 - [2019-04-12-每周分享第-51-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)  
 - [2019-04-09-OAuth-2.0-的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)  
@@ -200,7 +201,6 @@
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html)  
 - [2019-02-07-找回密码的功能设计](http://www.ruanyifeng.com/blog/2019/02/password.html)  
 - [2019-02-01-每周分享第-42-期](http://www.ruanyifeng.com/blog/2019/02/weekly-issue-42.html)  
-- [2019-01-31-一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

@@ -5120,6 +5120,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "每周分享第 52 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html",
+        "date": "2019-04-19"
+      },
+      {
         "title": "如何用网页脚本追踪用户",
         "link": "http://www.ruanyifeng.com/blog/2019/04/user-tracking.html",
         "date": "2019-04-15"
