@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-20 18:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-20 22:00:31。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -91,6 +91,7 @@
 - [【前端早读课】2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd) 
 - [【前端早读课】2019-04-02-【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd) 
 - [【前端早读课】2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) 
+- [【前端大全】2019-04-20-深入分析虚拟DOM的渲染过程和特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd) 
 - [【前端大全】2019-04-19-面向对象：白茶清欢无别事，我在等风也等你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=2&sn=66553646c512c76a5612c5b886b335f6#rd) 
 - [【前端大全】2019-04-19-函数式编程，真香](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=1&sn=12022fd7c41516581b8df82552020c66#rd) 
 - [【前端大全】2019-04-18-戴尔搞团购，团长你来当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556250&idx=2&sn=805339f2722ad95641ef2c6daa4f17c6#rd) 
