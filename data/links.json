@@ -4863,6 +4863,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS实现平行四边形布局效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/04/css-parallelogram-layout/",
+        "date": "2019-04-20"
+      },
+      {
         "title": "CSS scroll-snap滚动事件停止及元素位置检测",
         "link": "https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/",
         "date": "2019-04-20"
