@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-21 18:00:27。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-21 22:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -574,6 +574,7 @@
 - [【前端早读课】【第1418期】JavaScript-响应式原理的最佳解释](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230083&idx=2&sn=b5c471d8a75d190f33c2c382789c298e#wechat_redirect)
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】11个-教程中不常被提及的-JavaScript-小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556260&idx=1&sn=1afdcf36910fd998794f638e9d1cb529#rd)
 - [【前端大全】灵活使用-console-让-js-调试更简单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=1&sn=962fba706654ef2de118464051edbeee#rd)
 - [【前端大全】深入理解JavaScript执行上下文和执行栈](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556169&idx=1&sn=00fd1b67b1618f6a00c1d2b0f9326a04#rd)
 - [【前端大全】JS-引擎-V8-发布-v7.4，性能又大幅提高了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556104&idx=1&sn=4db75fa3a6c409e3124790c5d9939bb6#rd)
@@ -1517,6 +1518,8 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】程序员到-CTO-再到-CEO-的进化之路](http://www.yyyweb.com/5276.html)
+- [【前端里】V8-内存管理和垃圾回收机制总结](http://www.yyyweb.com/5275.html)
 - [【前端里】高效秘籍：五个最佳的GTD应用软件](http://www.yyyweb.com/5271.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列七）](http://www.yyyweb.com/5249.html)
 - [【前端里】精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html)

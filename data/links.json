@@ -1952,6 +1952,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "11个 教程中不常被提及的 JavaScript 小技巧",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556260&idx=1&sn=1afdcf36910fd998794f638e9d1cb529#rd",
+        "date": "2019-04-21"
+      },
+      {
         "title": "深入分析虚拟DOM的渲染过程和特性",
         "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd",
         "date": "2019-04-20"
@@ -5491,6 +5496,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "程序员到 CTO 再到 CEO 的进化之路",
+        "link": "http://www.yyyweb.com/5276.html",
+        "date": "2019-04-21"
+      },
+      {
+        "title": "V8 内存管理和垃圾回收机制总结",
+        "link": "http://www.yyyweb.com/5275.html",
+        "date": "2019-04-21"
+      },
       {
         "title": "快速定位线上 Node.js 内存泄漏问题",
         "link": "http://www.yyyweb.com/5274.html",
