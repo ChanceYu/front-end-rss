@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-21 06:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-21 08:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,6 +54,7 @@
 </summary>
 
 
+- [【前端早读课】2019-04-21-【第1589期】图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd) 
 - [【前端早读课】2019-04-20-【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd) 
 - [【前端早读课】2019-04-20-【第1588期】彻底终结-Javascript-背后的隐式类型转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=1&sn=e53c1aeefee5e691616f2f3fc80992a6#rd) 
 - [【前端早读课】2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd) 

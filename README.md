@@ -4,15 +4,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-21 06:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-21 08:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -26,6 +26,7 @@
 </summary>
 
 
+- [2019-04-21-【第1589期】图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd) ![](assets/new.png)  
 - [2019-04-20-【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd)  
 - [2019-04-20-【第1588期】彻底终结-Javascript-背后的隐式类型转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=1&sn=e53c1aeefee5e691616f2f3fc80992a6#rd)  
 - [2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd)  
@@ -45,7 +46,6 @@
 - [2019-04-11-【视频】你不知道的五个-CSS-新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=2&sn=b715a678a31eb269834e5b3d78bf900a#rd)  
 - [2019-04-11-【第1579期】十个案例学会-React-Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd)  
 - [2019-04-10-【视频】CSS-TIME](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=3&sn=55f4c00920bfc78b6a34329dcceceb27#rd)  
-- [2019-04-10-【第1578期】在阿里云做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231982&idx=1&sn=22681c82797a726255308a60f582fdef#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-04-20-使用TypeScript两年之后：它值得推荐吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491022&idx=1&sn=0f080050f4bb7c3365d5cfbc1b70bea1#rd) ![](assets/new.png)  
+- [2019-04-20-使用TypeScript两年之后：它值得推荐吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491022&idx=1&sn=0f080050f4bb7c3365d5cfbc1b70bea1#rd)  
 - [2019-04-19-浏览器将支持Python项目！Mozilla发布Pyodide](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491006&idx=1&sn=a413833e8b1c788fd9032d68b13721ff#rd)  
 - [2019-04-18-Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd)  
 - [2019-04-17-移动开发的下半场，iOS开发者应该学什么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490991&idx=1&sn=4003001c7b786219751949cca8cd5b0e#rd)  
@@ -150,7 +150,7 @@
 </summary>
 
 
-- [2019-04-20-CSS滤镜和混合模式处理的图片如何上传下载？](https://www.zhangxinxu.com/wordpress/2019/04/save-css-filter-blend-mode-image/) ![](assets/new.png)  
+- [2019-04-20-CSS滤镜和混合模式处理的图片如何上传下载？](https://www.zhangxinxu.com/wordpress/2019/04/save-css-filter-blend-mode-image/)  
 - [2019-04-20-CSS实现平行四边形布局效果](https://www.zhangxinxu.com/wordpress/2019/04/css-parallelogram-layout/)  
 - [2019-04-20-CSS-scroll-snap滚动事件停止及元素位置检测](https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/)  
 - [2019-04-05-如何disabled禁用所有表单input输入框元素](https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/)  

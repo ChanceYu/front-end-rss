@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-21 06:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-21 08:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1073,6 +1073,7 @@
 
 
 
+- [【前端早读课】【第1589期】图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd)
 - [【前端早读课】【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd)
 - [【前端早读课】【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd)
 - [【前端早读课】从前端发展史看前端人才的必备技能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=1&sn=08aca99132fdda6b9738d8cbea01ba25#rd)
