@@ -4878,6 +4878,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS实现文字下面波浪线动画效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/",
+        "date": "2019-04-21"
+      },
+      {
         "title": "CSS滤镜和混合模式处理的图片如何上传下载？",
         "link": "https://www.zhangxinxu.com/wordpress/2019/04/save-css-filter-blend-mode-image/",
         "date": "2019-04-20"
@@ -5174,6 +5179,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "GitHub OAuth 示例教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/04/github-oauth.html",
+        "date": "2019-04-21"
+      },
       {
         "title": "每周分享第 52 期",
         "link": "http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html",
