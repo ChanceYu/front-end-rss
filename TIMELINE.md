@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-22 08:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-22 22:00:33。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -94,6 +94,8 @@
 - [【前端早读课】2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd) 
 - [【前端早读课】2019-04-02-【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd) 
 - [【前端早读课】2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) 
+- [【前端大全】2019-04-22-面向对象：简单的我期待美好的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=2&sn=579573f748d70152592e8483b93ed42d#rd) 
+- [【前端大全】2019-04-22-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=1&sn=3adda1646607eed284661fb682e9bbed#rd) 
 - [【前端大全】2019-04-21-11个-教程中不常被提及的-JavaScript-小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556260&idx=1&sn=1afdcf36910fd998794f638e9d1cb529#rd) 
 - [【前端大全】2019-04-20-深入分析虚拟DOM的渲染过程和特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd) 
 - [【前端大全】2019-04-19-面向对象：白茶清欢无别事，我在等风也等你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=2&sn=66553646c512c76a5612c5b886b335f6#rd) 

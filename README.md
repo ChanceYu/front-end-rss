@@ -4,12 +4,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-22 08:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-22 22:00:33，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-04-22-【招聘】北京360导航技术团队招聘高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=2&sn=96f0c2ccb4f64baa7e432f59e2658860#rd) ![](assets/new.png)  
-- [2019-04-22-【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd) ![](assets/new.png)  
+- [2019-04-22-【招聘】北京360导航技术团队招聘高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=2&sn=96f0c2ccb4f64baa7e432f59e2658860#rd)  
+- [2019-04-22-【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)  
 - [2019-04-21-【第1589期】图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd)  
 - [2019-04-20-【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd)  
 - [2019-04-20-【第1588期】彻底终结-Javascript-背后的隐式类型转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=1&sn=e53c1aeefee5e691616f2f3fc80992a6#rd)  
@@ -57,6 +57,8 @@
 </summary>
 
 
+- [2019-04-22-面向对象：简单的我期待美好的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=2&sn=579573f748d70152592e8483b93ed42d#rd) ![](assets/new.png)  
+- [2019-04-22-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=1&sn=3adda1646607eed284661fb682e9bbed#rd) ![](assets/new.png)  
 - [2019-04-21-11个-教程中不常被提及的-JavaScript-小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556260&idx=1&sn=1afdcf36910fd998794f638e9d1cb529#rd)  
 - [2019-04-20-深入分析虚拟DOM的渲染过程和特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd)  
 - [2019-04-19-面向对象：白茶清欢无别事，我在等风也等你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=2&sn=66553646c512c76a5612c5b886b335f6#rd)  
@@ -75,8 +77,6 @@
 - [2019-04-09-页面性能优化办法有哪些？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556178&idx=2&sn=27898fdf139259502a35c95a3fbf4474#rd)  
 - [2019-04-09-除了框架，前端面试还问什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556178&idx=1&sn=dda6ae7fa11fe912ea7ec1bdf5c68551#rd)  
 - [2019-04-08-霸权？Google阻止我写Web浏览器](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556176&idx=1&sn=deafcba2799a0b8efcf3d2f650343177#rd)  
-- [2019-04-08-面向对象：我就是来看看是不是丢了个对象在这里~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556176&idx=2&sn=875b44ff5b9f1134d74edba5282a1151#rd)  
-- [2019-04-07-深入理解JavaScript执行上下文和执行栈](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556169&idx=1&sn=00fd1b67b1618f6a00c1d2b0f9326a04#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
