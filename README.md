@@ -4,12 +4,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-22 22:00:33，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-23 08:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-04-23-【第1591期】弹幕不挡人！基于色键技术的纯客户端实时蒙版弹幕](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232083&idx=2&sn=7af421710febb27438594dec0cbdc56b#rd) ![](assets/new.png)  
+- [2019-04-23-你可能想不到，限制你职业发展的瓶颈，就是基础知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232083&idx=1&sn=eb57b10eb590683de7d2135fa7158e45#rd) ![](assets/new.png)  
 - [2019-04-22-【招聘】北京360导航技术团队招聘高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=2&sn=96f0c2ccb4f64baa7e432f59e2658860#rd)  
 - [2019-04-22-【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)  
 - [2019-04-21-【第1589期】图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232068&idx=1&sn=ff2aaa15173d24f5242fe11684597e33#rd)  
@@ -44,8 +46,6 @@
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd)  
 - [2019-04-13-【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)  
 - [2019-04-12-【3.29】W3C-Web-中文兴趣组媒体特别任务组研讨会总结报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=2&sn=e705e015c18965aa82d05a1f9700f6fd#rd)  
-- [2019-04-12-【第1580期】rrweb：打开-web-页面录制与回放的黑盒子](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231995&idx=1&sn=7f0c1984efa46de8b5877b32d7caa8d4#rd)  
-- [2019-04-11-【视频】你不知道的五个-CSS-新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=2&sn=b715a678a31eb269834e5b3d78bf900a#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-04-22-面向对象：简单的我期待美好的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=2&sn=579573f748d70152592e8483b93ed42d#rd) ![](assets/new.png)  
-- [2019-04-22-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=1&sn=3adda1646607eed284661fb682e9bbed#rd) ![](assets/new.png)  
+- [2019-04-22-面向对象：简单的我期待美好的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=2&sn=579573f748d70152592e8483b93ed42d#rd)  
+- [2019-04-22-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=1&sn=3adda1646607eed284661fb682e9bbed#rd)  
 - [2019-04-21-11个-教程中不常被提及的-JavaScript-小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556260&idx=1&sn=1afdcf36910fd998794f638e9d1cb529#rd)  
 - [2019-04-20-深入分析虚拟DOM的渲染过程和特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd)  
 - [2019-04-19-面向对象：白茶清欢无别事，我在等风也等你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556252&idx=2&sn=66553646c512c76a5612c5b886b335f6#rd)  
