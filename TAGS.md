@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-04-24 12:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-04-24 22:00:28。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -67,6 +67,7 @@
 - [【前端早读课】【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect)
 - [【前端早读课】【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect)
 - [【前端早读课】【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect)
+- [【前端大全】不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556295&idx=1&sn=e0e2bf2d755e83a83d162f9203b5ef94#rd)
 - [【前端大全】2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556237&idx=1&sn=28d92dfb8d1bd87eda50cfdd28304cc0#rd)
 - [【前端大全】React-Router-v5发布，更好地支持React-16](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556094&idx=1&sn=530965efc5b27a780411ffb77e435a57#rd)
 - [【前端大全】无React，不前端。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555970&idx=1&sn=f89d8fd467659dcfc95a90488c7aa365#wechat_redirect)
@@ -280,6 +281,7 @@
 - [【前端大全】细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect)
 - [【前端大全】从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect)
 - [【前端大全】Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect)
+- [【前端之巅】Node.js-12发布！更快启动速度、默认TLS-1.3](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491065&idx=1&sn=501033e2302fb56baa6c71e65e0385af#rd)
 - [【前端之巅】2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd)
 - [【前端之巅】Deno-如何偿还-Node.js-的十大技术债？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490770&idx=1&sn=24a21709a16c5570ff58c1ccfbe6b17f#rd)
 - [【前端之巅】Node和JS基金会宣布合并为-OpenJS-基金会](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490691&idx=1&sn=2348637418221ea07cb718ab460b59ae#rd)
@@ -1223,6 +1225,7 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556295&idx=2&sn=08ecbbc3a074939678802a930332d495#rd)
 - [【前端大全】面向对象：简单的我期待美好的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=2&sn=579573f748d70152592e8483b93ed42d#rd)
 - [【前端大全】全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=1&sn=3adda1646607eed284661fb682e9bbed#rd)
 - [【前端大全】深入分析虚拟DOM的渲染过程和特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd)
