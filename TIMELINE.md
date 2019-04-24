@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-23 22:00:44。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-24 12:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,6 +54,8 @@
 </summary>
 
 
+- [【前端早读课】2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
+- [【前端早读课】2019-04-24-成为高级前端，你还缺什么？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=1&sn=9578e1cf8032fe4fd9135f13f1c05061#rd) 
 - [【前端早读课】2019-04-23-【第1591期】弹幕不挡人！基于色键技术的纯客户端实时蒙版弹幕](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232083&idx=2&sn=7af421710febb27438594dec0cbdc56b#rd) 
 - [【前端早读课】2019-04-23-你可能想不到，限制你职业发展的瓶颈，就是基础知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232083&idx=1&sn=eb57b10eb590683de7d2135fa7158e45#rd) 
 - [【前端早读课】2019-04-22-【招聘】北京360导航技术团队招聘高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=2&sn=96f0c2ccb4f64baa7e432f59e2658860#rd) 
