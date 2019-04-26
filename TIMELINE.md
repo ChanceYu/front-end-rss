@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-25 22:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-26 12:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -162,6 +162,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-04-20-CSS实现平行四边形布局效果](https://www.zhangxinxu.com/wordpress/2019/04/css-parallelogram-layout/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-04-20-CSS-scroll-snap滚动事件停止及元素位置检测](https://www.zhangxinxu.com/wordpress/2019/04/css-scroll-snap-event-element-detect/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-04-05-如何disabled禁用所有表单input输入框元素](https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/) 
+- [【阮一峰的网络日志】2019-04-26-每周分享第-53-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html) 
 - [【阮一峰的网络日志】2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) 
 - [【阮一峰的网络日志】2019-04-19-每周分享第-52-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html) 
 - [【阮一峰的网络日志】2019-04-15-如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html) 
