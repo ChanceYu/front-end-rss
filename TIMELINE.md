@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-04-27 06:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-04-28 08:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -54,6 +54,7 @@
 </summary>
 
 
+- [【前端早读课】2019-04-28-【第1596期】CSS-自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd) 
 - [【前端早读课】2019-04-27-【第1595期】可能是最被误用的-HTTP-响应头之一-Cache-Control:-must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd) 
 - [【前端早读课】2019-04-26-【英】你的下一个职业目标:跳出你的舒适区](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=2&sn=149605f7f15d1da6962ad4e932d0f9fb#rd) 
 - [【前端早读课】2019-04-26-【第1594期】从表单抽象到表单中台](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=1&sn=4654fbce98c445f7a44a0fbd6a1e32ac#rd) 
@@ -103,6 +104,8 @@
 - [【前端早读课】2019-04-02-Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd) 
 - [【前端早读课】2019-04-02-【第1573期】跨端开发框架深度横评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=1&sn=88986dd2fc098195546635d2fe0505e5#rd) 
 - [【前端早读课】2019-04-01-【第1572期】剖析CSS-Trick，为我所用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231895&idx=1&sn=ec2391b371b995dac03dcfe3273b2261#rd) 
+- [【前端大全】2019-04-27-面向对象：喜静，喜闹，喜猫，愿未来喜你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=2&sn=1bc25b9f0d3fc9e93b5d68e963391388#rd) 
+- [【前端大全】2019-04-27-前端路由跳转基本原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=1&sn=0800baa54a4fa683a032ea063443c95d#rd) 
 - [【前端大全】2019-04-25-面向对象：希望可以遇到对的那个人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556298&idx=2&sn=b119585146becc0804ee7bbd3729a0fa#rd) 
 - [【前端大全】2019-04-25-常见六大-Web-安全攻防解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556298&idx=1&sn=a3eb670e36469e0091aa70cf0baec57e#rd) 
 - [【前端大全】2019-04-24-图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556295&idx=2&sn=08ecbbc3a074939678802a930332d495#rd) 
@@ -137,6 +140,7 @@
 - [【前端大全】2019-04-02-Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd) 
 - [【前端大全】2019-04-01-面向对象：希望你对自己和未来的生活有自信，有担当](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=2&sn=3cb954b8fc933a67ea922aac574c5897#rd) 
 - [【前端大全】2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
+- [【前端之巅】2019-04-27-如何更有逼格的用JS控制CSS颜色？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491104&idx=1&sn=80c68078d364e123dab04cea18312016#rd) 
 - [【前端之巅】2019-04-26-前端框架Benchmark-2019：Vue表现怎么样？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491091&idx=1&sn=91b9318a408a03221ae9ab9ac637134c#rd) 
 - [【前端之巅】2019-04-25-面向复杂场景的高性能表单解决方案背景篇](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491080&idx=1&sn=b4519a00f4726d0bf6ea524ed8f444df#rd) 
 - [【前端之巅】2019-04-24-Node.js-12发布！更快启动速度、默认TLS-1.3](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491065&idx=1&sn=501033e2302fb56baa6c71e65e0385af#rd) 
