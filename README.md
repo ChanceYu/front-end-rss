@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-29 12:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-30 06:00:15，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-04-29-【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd) ![](assets/new.png)  
-- [2019-04-29-【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd) ![](assets/new.png)  
+- [2019-04-29-【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd)  
+- [2019-04-29-【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd)  
 - [2019-04-28-【第1596期】CSS-自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd)  
 - [2019-04-27-【第1595期】可能是最被误用的-HTTP-响应头之一-Cache-Control:-must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd)  
 - [2019-04-26-【英】你的下一个职业目标:跳出你的舒适区](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=2&sn=149605f7f15d1da6962ad4e932d0f9fb#rd)  
@@ -57,6 +57,8 @@
 </summary>
 
 
+- [2019-04-29-面向对象：期待正当年华，与你欣喜相见](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=2&sn=8691ecc3f9a8732e9a1337822b78f435#rd) ![](assets/new.png)  
+- [2019-04-29-可能这些是你想要的-H5-软键盘兼容方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=1&sn=dcc7eca739d73599be01397797e5a477#rd) ![](assets/new.png)  
 - [2019-04-28-为什么-HTTPS-比-HTTP-更安全?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556312&idx=1&sn=fb10e971202955574b30ca47928e7877#rd)  
 - [2019-04-27-面向对象：喜静，喜闹，喜猫，愿未来喜你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=2&sn=1bc25b9f0d3fc9e93b5d68e963391388#rd)  
 - [2019-04-27-前端路由跳转基本原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=1&sn=0800baa54a4fa683a032ea063443c95d#rd)  
@@ -75,8 +77,6 @@
 - [2019-04-18-前端开发者必备的-Nginx-知识](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556250&idx=1&sn=07ae8424d4087a11a1fbacc54b1581db#rd)  
 - [2019-04-16-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556237&idx=1&sn=28d92dfb8d1bd87eda50cfdd28304cc0#rd)  
 - [2019-04-15-灵活使用-console-让-js-调试更简单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=1&sn=962fba706654ef2de118464051edbeee#rd)  
-- [2019-04-15-面向对象：期待遇到能进入婚姻的爱情](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556218&idx=2&sn=1e22d92be7f39b0b61e81e1529408af9#rd)  
-- [2019-04-14-你不知道的浏览器页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556215&idx=1&sn=f6dc506c5c34c096105a4cc06d7a623d#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-04-29-MPEG-DASH在bilibili的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491119&idx=1&sn=3754febf3ad3c383900385cc5d83b835#rd) ![](assets/new.png)  
 - [2019-04-28-如何使用Postman来Mock-API？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491115&idx=1&sn=ed62702985fc9059372c95b7d7573809#rd)  
 - [2019-04-27-如何更有逼格的用JS控制CSS颜色？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491104&idx=1&sn=80c68078d364e123dab04cea18312016#rd)  
 - [2019-04-26-前端框架Benchmark-2019：Vue表现怎么样？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491091&idx=1&sn=91b9318a408a03221ae9ab9ac637134c#rd)  
@@ -107,7 +108,6 @@
 - [2019-04-11-最全面试题：你必须要懂的原生JS](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490937&idx=1&sn=e6b2506c9813ffb9eeddae8a86e384fb#rd)  
 - [2019-04-10-你的前端框架要被Web组件取代了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490932&idx=1&sn=c29a2e8eee7f7d8472391dc99428d7f2#rd)  
 - [2019-04-09-基于Chromium的预览版Edge-终于来了！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490927&idx=1&sn=86d1014843c5217c899d9f95e0b0b7b7#rd)  
-- [2019-04-08-2019年Vue生态圈调查：92%的开发者将继续用Vue](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490918&idx=1&sn=34ff680a345709592c8a127fc6938d94#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
