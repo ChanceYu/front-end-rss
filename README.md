@@ -4,12 +4,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-29 06:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-29 12:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-04-29-【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd) ![](assets/new.png)  
+- [2019-04-29-【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd) ![](assets/new.png)  
 - [2019-04-28-【第1596期】CSS-自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd)  
 - [2019-04-27-【第1595期】可能是最被误用的-HTTP-响应头之一-Cache-Control:-must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd)  
 - [2019-04-26-【英】你的下一个职业目标:跳出你的舒适区](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232104&idx=2&sn=149605f7f15d1da6962ad4e932d0f9fb#rd)  
@@ -44,8 +46,6 @@
 - [2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd)  
 - [2019-04-19-【第1587期】-深入实践-ES6-Proxy-&-Reflect](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=1&sn=9ae6567a5580818d762dc939569d601a#rd)  
 - [2019-04-18-【第1586期】基于Redux/Vuex/MobX等库的通用化状态OOP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232049&idx=1&sn=444b9177db9f198f09687f5fc0f6d154#rd)  
-- [2019-04-17-【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd)  
-- [2019-04-17-【第1585期】Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=1&sn=bcacd50da50476341e765f2c934e8b8e#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,7 +57,7 @@
 </summary>
 
 
-- [2019-04-28-为什么-HTTPS-比-HTTP-更安全?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556312&idx=1&sn=fb10e971202955574b30ca47928e7877#rd) ![](assets/new.png)  
+- [2019-04-28-为什么-HTTPS-比-HTTP-更安全?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556312&idx=1&sn=fb10e971202955574b30ca47928e7877#rd)  
 - [2019-04-27-面向对象：喜静，喜闹，喜猫，愿未来喜你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=2&sn=1bc25b9f0d3fc9e93b5d68e963391388#rd)  
 - [2019-04-27-前端路由跳转基本原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=1&sn=0800baa54a4fa683a032ea063443c95d#rd)  
 - [2019-04-25-面向对象：希望可以遇到对的那个人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556298&idx=2&sn=b119585146becc0804ee7bbd3729a0fa#rd)  
