@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-04-30 06:00:15，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-04-30 12:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-04-30-【第1598期】蚂蚁体验技术部的前世今生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=2&sn=d1687f4dd4f3e2caee86cea80bddf1e8#rd) ![](assets/new.png)  
+- [2019-04-30-推荐5个优秀前端人必须掌握的技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=1&sn=4ced3f55d9daab9842d6a1ae17a14cf0#rd) ![](assets/new.png)  
 - [2019-04-29-【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd)  
 - [2019-04-29-【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd)  
 - [2019-04-28-【第1596期】CSS-自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd)  
@@ -44,8 +46,6 @@
 - [2019-04-20-【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd)  
 - [2019-04-20-【第1588期】彻底终结-Javascript-背后的隐式类型转换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=1&sn=e53c1aeefee5e691616f2f3fc80992a6#rd)  
 - [2019-04-19-【英】作为一名软件工程师，我如何组织我的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=2&sn=1ca90aca35164f05f233a7a0b66419ac#rd)  
-- [2019-04-19-【第1587期】-深入实践-ES6-Proxy-&-Reflect](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232051&idx=1&sn=9ae6567a5580818d762dc939569d601a#rd)  
-- [2019-04-18-【第1586期】基于Redux/Vuex/MobX等库的通用化状态OOP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232049&idx=1&sn=444b9177db9f198f09687f5fc0f6d154#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-04-29-面向对象：期待正当年华，与你欣喜相见](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=2&sn=8691ecc3f9a8732e9a1337822b78f435#rd) ![](assets/new.png)  
-- [2019-04-29-可能这些是你想要的-H5-软键盘兼容方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=1&sn=dcc7eca739d73599be01397797e5a477#rd) ![](assets/new.png)  
+- [2019-04-29-面向对象：期待正当年华，与你欣喜相见](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=2&sn=8691ecc3f9a8732e9a1337822b78f435#rd)  
+- [2019-04-29-可能这些是你想要的-H5-软键盘兼容方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=1&sn=dcc7eca739d73599be01397797e5a477#rd)  
 - [2019-04-28-为什么-HTTPS-比-HTTP-更安全?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556312&idx=1&sn=fb10e971202955574b30ca47928e7877#rd)  
 - [2019-04-27-面向对象：喜静，喜闹，喜猫，愿未来喜你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=2&sn=1bc25b9f0d3fc9e93b5d68e963391388#rd)  
 - [2019-04-27-前端路由跳转基本原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=1&sn=0800baa54a4fa683a032ea063443c95d#rd)  
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-04-29-MPEG-DASH在bilibili的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491119&idx=1&sn=3754febf3ad3c383900385cc5d83b835#rd) ![](assets/new.png)  
+- [2019-04-29-MPEG-DASH在bilibili的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491119&idx=1&sn=3754febf3ad3c383900385cc5d83b835#rd)  
 - [2019-04-28-如何使用Postman来Mock-API？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491115&idx=1&sn=ed62702985fc9059372c95b7d7573809#rd)  
 - [2019-04-27-如何更有逼格的用JS控制CSS颜色？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491104&idx=1&sn=80c68078d364e123dab04cea18312016#rd)  
 - [2019-04-26-前端框架Benchmark-2019：Vue表现怎么样？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491091&idx=1&sn=91b9318a408a03221ae9ab9ac637134c#rd)  
