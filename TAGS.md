@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-05-01 12:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-05-02 06:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -91,6 +91,7 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd)
 - [【前端之巅】碉堡了！前端大神用React刻了一个Windows-XP](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490854&idx=1&sn=848125705c4edbf16942d6d3531d0083#rd)
 - [【前端之巅】大前端时代，如何做好C-端业务下的React-SSR？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490789&idx=1&sn=df204fc29d07836e32d58767e61f2d2f#rd)
 - [【前端之巅】刚刚，阿里宣布开源Flutter应用框架Fish-Redux！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490599&idx=1&sn=5f0a94dcf6d1edea6d82b8069174a6f4#wechat_redirect)
@@ -814,6 +815,7 @@
 - [【前端早读课】【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect)
 - [【前端早读课】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
+- [【前端大全】一次-Web-端大量图片同时加载卡顿问题的优化之旅](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556325&idx=1&sn=7d37f9f9298f700a1a0916c0e8544afb#rd)
 - [【前端大全】腾讯新闻前端团队：深入理解前端性能监控](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556204&idx=1&sn=df44f3ae42074728f5369afc6e9b79d2#rd)
 - [【前端大全】页面性能优化办法有哪些？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556178&idx=2&sn=27898fdf139259502a35c95a3fbf4474#rd)
 - [【前端大全】页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect)
