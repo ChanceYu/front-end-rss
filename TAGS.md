@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-05-02 06:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-05-02 12:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1095,6 +1095,7 @@
 
 
 
+- [【前端早读课】【第1599期】一个无名前端的10年前端路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232157&idx=1&sn=375340129ea4caf9f68ab380b9b00382#rd)
 - [【前端早读课】【第1598期】蚂蚁体验技术部的前世今生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=2&sn=d1687f4dd4f3e2caee86cea80bddf1e8#rd)
 - [【前端早读课】推荐5个优秀前端人必须掌握的技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=1&sn=4ced3f55d9daab9842d6a1ae17a14cf0#rd)
 - [【前端早读课】【第1597期】从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=1&sn=59f9c5b36233f3f4e559e4251ea9766c#rd)
