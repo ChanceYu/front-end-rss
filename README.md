@@ -4,12 +4,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-05 12:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-05 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-05-05-【第1600期】如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=2&sn=d58a29039a17982fa1ff87d20006ea7e#rd) ![](assets/new.png)  
-- [2019-05-05-不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=1&sn=02b8ab64d431478327e1fa7390668a4f#rd) ![](assets/new.png)  
+- [2019-05-05-【第1600期】如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=2&sn=d58a29039a17982fa1ff87d20006ea7e#rd)  
+- [2019-05-05-不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=1&sn=02b8ab64d431478327e1fa7390668a4f#rd)  
 - [2019-05-02-【第1599期】一个无名前端的10年前端路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232157&idx=1&sn=375340129ea4caf9f68ab380b9b00382#rd)  
 - [2019-05-01-【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd)  
 - [2019-04-30-【第1598期】蚂蚁体验技术部的前世今生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=2&sn=d1687f4dd4f3e2caee86cea80bddf1e8#rd)  
@@ -57,6 +57,7 @@
 </summary>
 
 
+- [2019-05-05-一名合格前端工程师的自检清单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556338&idx=1&sn=589976a52b9162ec8d7a9a165cbfac7d#rd) ![](assets/new.png)  
 - [2019-05-04-面向对象：简简单单的爱，实实在在的情](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556334&idx=2&sn=7ea3625a5490b875a8fd75b1a1cb1917#rd)  
 - [2019-05-04-进阶必备的网络基础](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556334&idx=1&sn=0045febb7d5100aa7f9082888c81282d#rd)  
 - [2019-05-03-JavaScript-的数据类型及其检测](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556330&idx=1&sn=5d2cafe433d0f51f3ff6d6b60ace75f0#rd)  
@@ -76,7 +77,6 @@
 - [2019-04-22-面向对象：简单的我期待美好的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=2&sn=579573f748d70152592e8483b93ed42d#rd)  
 - [2019-04-22-全面分析前端的网络请求方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556265&idx=1&sn=3adda1646607eed284661fb682e9bbed#rd)  
 - [2019-04-21-11个-教程中不常被提及的-JavaScript-小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556260&idx=1&sn=1afdcf36910fd998794f638e9d1cb529#rd)  
-- [2019-04-20-深入分析虚拟DOM的渲染过程和特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556256&idx=1&sn=8a31d302414d48e4cc5de2edf798c0fa#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
