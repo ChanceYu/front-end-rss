@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-05 22:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-06 06:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -65,6 +65,7 @@
 - [【前端大全】2019-05-03-JavaScript-的数据类型及其检测](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556330&idx=1&sn=5d2cafe433d0f51f3ff6d6b60ace75f0#rd) 
 - [【前端大全】2019-05-02-页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556329&idx=1&sn=08c15ed33a14026185184a0e422b0672#rd) 
 - [【前端大全】2019-05-01-一次-Web-端大量图片同时加载卡顿问题的优化之旅](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556325&idx=1&sn=7d37f9f9298f700a1a0916c0e8544afb#rd) 
+- [【前端之巅】2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd) 
 - [【前端之巅】2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd) 
 - [【前端之巅】2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd) 
 - [【阮一峰的网络日志】2019-05-03-每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html) 

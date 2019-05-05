@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-05 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-06 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -57,7 +57,7 @@
 </summary>
 
 
-- [2019-05-05-一名合格前端工程师的自检清单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556338&idx=1&sn=589976a52b9162ec8d7a9a165cbfac7d#rd) ![](assets/new.png)  
+- [2019-05-05-一名合格前端工程师的自检清单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556338&idx=1&sn=589976a52b9162ec8d7a9a165cbfac7d#rd)  
 - [2019-05-04-面向对象：简简单单的爱，实实在在的情](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556334&idx=2&sn=7ea3625a5490b875a8fd75b1a1cb1917#rd)  
 - [2019-05-04-进阶必备的网络基础](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556334&idx=1&sn=0045febb7d5100aa7f9082888c81282d#rd)  
 - [2019-05-03-JavaScript-的数据类型及其检测](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556330&idx=1&sn=5d2cafe433d0f51f3ff6d6b60ace75f0#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd) ![](assets/new.png)  
 - [2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd)  
 - [2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd)  
 - [2019-04-30-Node.js对Java：一场史诗级的争夺开发者注意力的对决](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491136&idx=1&sn=e3ceb6f5b6b0323b1eee3d2bdd477261#rd)  
@@ -107,7 +108,6 @@
 - [2019-04-15-禁用JavaScript后，这些网站会变成这样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490970&idx=1&sn=d29145c2e9dcde586738263219c87412#rd)  
 - [2019-04-14-大部分教程不会告诉你的12个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490962&idx=1&sn=0be614f1da5a55713200fc9db1ea8809#rd)  
 - [2019-04-13-深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd)  
-- [2019-04-12-我们用WebAssembly将Web-App速度提升了20倍！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490951&idx=1&sn=76139005000b6ac1d3f0282e36abf8c6#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
