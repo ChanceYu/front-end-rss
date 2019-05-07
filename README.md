@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-07 12:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-07 22:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-05-07-【第1602期】useEffect-完整指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=1&sn=13a2225799fa74424c7f2bf6e931e6c3#rd) ![](assets/new.png)  
-- [2019-05-07-【招聘】厦门吉比特招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=2&sn=df3f533c733415dfc91c96a9b8262bf9#rd) ![](assets/new.png)  
+- [2019-05-07-【第1602期】useEffect-完整指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=1&sn=13a2225799fa74424c7f2bf6e931e6c3#rd)  
+- [2019-05-07-【招聘】厦门吉比特招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=2&sn=df3f533c733415dfc91c96a9b8262bf9#rd)  
 - [2019-05-06-【招聘】北京好未来-大海1对1在线教育招前端高级、架构师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232172&idx=2&sn=fe764ebd77ace80f5ed1e95ba8490756#rd)  
 - [2019-05-06-【第1601期】JavaScript函数的6个基本术语](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232172&idx=1&sn=f3c3938a3f28345507ebeac45f5360b2#rd)  
 - [2019-05-05-【第1600期】如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=2&sn=d58a29039a17982fa1ff87d20006ea7e#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-05-07-W3C新技术汇总：Web技术的现在与未来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491186&idx=1&sn=235f648fccaf0e2769fa5044418a8b4d#rd) ![](assets/new.png)  
 - [2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd)  
 - [2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd)  
 - [2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd)  
@@ -107,7 +108,6 @@
 - [2019-04-16-学不动了也得学！2019年Web开发路线图发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490976&idx=1&sn=8bdce32023b98516e4511cf6dc21e42e#rd)  
 - [2019-04-15-禁用JavaScript后，这些网站会变成这样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490970&idx=1&sn=d29145c2e9dcde586738263219c87412#rd)  
 - [2019-04-14-大部分教程不会告诉你的12个JS技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490962&idx=1&sn=0be614f1da5a55713200fc9db1ea8809#rd)  
-- [2019-04-13-深入了解浏览器的页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490959&idx=1&sn=51db6715249f10518d1db59ca924f434#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
