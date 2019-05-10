@@ -4,16 +4,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-10 12:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-10 22:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) ![](assets/new.png)  
-- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) ![](assets/new.png)  
+- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd)  
+- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd)  
 - [2019-05-09-【英】使用-Console-API变得更有创意!](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232207&idx=2&sn=4026dbb2ce5ff4895714875cc87a05b4#rd)  
 - [2019-05-09-【第1604期】Web-Component可以取代你的前端框架吗？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232207&idx=1&sn=74c2234ce04bf5309d7d6e1ab0b24d9f#rd)  
 - [2019-05-08-4-年前端开发经验，面试被虐，结局逆转](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232195&idx=1&sn=1535ce389bab28a62d7bca6f6ec0846b#rd)  
@@ -57,6 +57,9 @@
 </summary>
 
 
+- [2019-05-10-jQuery-3.4.0-发布！全力准备-jQuery-4.0：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556392&idx=1&sn=4222ba13b6b477dc4b819bb781db2e18#rd) ![](assets/new.png)  
+- [2019-05-09-面向对象：希望我们都能在人海中找到那个互相喜欢的人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=2&sn=d1754589cafb6bff55b4af177d399aeb#rd) ![](assets/new.png)  
+- [2019-05-09-Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd) ![](assets/new.png)  
 - [2019-05-08-从降薪潮到996，谈谈技术人员的成长突围](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=1&sn=a9bee83c1bcb0746997728be297e70cd#rd)  
 - [2019-05-08-JS-函数的-6-个基本术语](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=2&sn=c989617acff8fde79443cd4a25be08c0#rd)  
 - [2019-05-06-分享-8-个有趣且实用的-API](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556345&idx=2&sn=ba5f9044cb901052de2accceb5089a8b#rd)  
@@ -74,9 +77,6 @@
 - [2019-04-27-面向对象：喜静，喜闹，喜猫，愿未来喜你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=2&sn=1bc25b9f0d3fc9e93b5d68e963391388#rd)  
 - [2019-04-27-前端路由跳转基本原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556305&idx=1&sn=0800baa54a4fa683a032ea063443c95d#rd)  
 - [2019-04-25-面向对象：希望可以遇到对的那个人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556298&idx=2&sn=b119585146becc0804ee7bbd3729a0fa#rd)  
-- [2019-04-25-常见六大-Web-安全攻防解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556298&idx=1&sn=a3eb670e36469e0091aa70cf0baec57e#rd)  
-- [2019-04-24-图解-Map、Reduce-和-Filter-数组方法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556295&idx=2&sn=08ecbbc3a074939678802a930332d495#rd)  
-- [2019-04-24-不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556295&idx=1&sn=e0e2bf2d755e83a83d162f9203b5ef94#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -181,7 +181,7 @@
 </summary>
 
 
-- [2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html) ![](assets/new.png)  
+- [2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)  
 - [2019-05-03-每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)  
 - [2019-04-26-每周分享第-53-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html)  
 - [2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html)  
