@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-05-10 06:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-05-10 12:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -273,6 +273,8 @@
 
 
 
+- [【前端早读课】【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd)
+- [【前端早读课】【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd)
 - [【前端早读课】【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd)
 - [【前端早读课】【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd)
 - [【前端早读课】【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect)
@@ -1530,6 +1532,7 @@
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)
 - [【阮一峰的网络日志】每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)
 - [【阮一峰的网络日志】每周分享第-53-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html)
 - [【阮一峰的网络日志】每周分享第-52-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html)
