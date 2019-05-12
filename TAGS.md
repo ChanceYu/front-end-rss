@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-05-12 06:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-05-12 22:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -873,6 +873,7 @@
 - [【前端早读课】【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect)
 - [【前端早读课】【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=1&sn=d6d561ffcab7f0afe8fa57d9520bff37#rd)
 - [【前端大全】微软新-Edge-有时会假扮成不同浏览器](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556281&idx=1&sn=abd816a6914bf48bc60ecf965bcc47cf#rd)
 - [【前端大全】你不知道的浏览器页面渲染机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556215&idx=1&sn=f6dc506c5c34c096105a4cc06d7a623d#rd)
 - [【前端大全】喜大普奔！Chrome-75-将原生支持图片懒加载](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556189&idx=1&sn=803c79b126a1de2e29f18bac8f314f63#rd)
@@ -1265,6 +1266,7 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】面向对象：不需要大富大贵，平平淡淡，白首到老](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=2&sn=c81ba61e5051bc687f9b39a2cb937a9e#rd)
 - [【前端大全】jQuery-3.4.0-发布！全力准备-jQuery-4.0：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556392&idx=1&sn=4222ba13b6b477dc4b819bb781db2e18#rd)
 - [【前端大全】面向对象：希望我们都能在人海中找到那个互相喜欢的人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=2&sn=d1754589cafb6bff55b4af177d399aeb#rd)
 - [【前端大全】从降薪潮到996，谈谈技术人员的成长突围](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=1&sn=a9bee83c1bcb0746997728be297e70cd#rd)
