@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-13 18:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-13 22:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -57,6 +57,8 @@
 </summary>
 
 
+- [2019-05-13-深入理解-JS-作用域和作用域链](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=2&sn=9fcd8dacb50fe8807c44b51a1251cf06#rd) ![](assets/new.png)  
+- [2019-05-13-阿里-P7-前端高级工程师，都需要掌握哪些技术栈？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=1&sn=92040472b52b298e971f56baa2d29aba#rd) ![](assets/new.png)  
 - [2019-05-12-面向对象：不需要大富大贵，平平淡淡，白首到老](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=2&sn=c81ba61e5051bc687f9b39a2cb937a9e#rd)  
 - [2019-05-12-什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=1&sn=d6d561ffcab7f0afe8fa57d9520bff37#rd)  
 - [2019-05-11-JS-无形装逼，最为致命](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556393&idx=1&sn=a9a87bf7d1cc94904f9b698829ea3b9a#rd)  
@@ -75,8 +77,6 @@
 - [2019-05-01-一次-Web-端大量图片同时加载卡顿问题的优化之旅](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556325&idx=1&sn=7d37f9f9298f700a1a0916c0e8544afb#rd)  
 - [2019-04-30-从前端角度看企业软件的研发过程](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556321&idx=1&sn=039fbfd1ba79df80e2629c037c2f2a24#rd)  
 - [2019-04-29-面向对象：期待正当年华，与你欣喜相见](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=2&sn=8691ecc3f9a8732e9a1337822b78f435#rd)  
-- [2019-04-29-可能这些是你想要的-H5-软键盘兼容方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556317&idx=1&sn=dcc7eca739d73599be01397797e5a477#rd)  
-- [2019-04-28-为什么-HTTPS-比-HTTP-更安全?](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556312&idx=1&sn=fb10e971202955574b30ca47928e7877#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-05-13-2019年的Chrome和Web又有哪些新技术？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491211&idx=1&sn=b58a5d0b995e7b7cde3d03795e38c95e#rd) ![](assets/new.png)  
+- [2019-05-13-2019年的Chrome和Web又有哪些新技术？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491211&idx=1&sn=b58a5d0b995e7b7cde3d03795e38c95e#rd)  
 - [2019-05-09-蚂蚁金服面对亿级并发场景的组件体系设计](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491201&idx=1&sn=df9b8406bcb9706edcc337f4908aacfe#rd)  
 - [2019-05-08-Flutter全平台制霸！新增Web和嵌入式目标平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491194&idx=1&sn=0c7b8e68bf80435ef614d5b8552625e5#rd)  
 - [2019-05-07-W3C新技术汇总：Web技术的现在与未来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491186&idx=1&sn=235f648fccaf0e2769fa5044418a8b4d#rd)  

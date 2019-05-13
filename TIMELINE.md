@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-13 18:00:27。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-13 22:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -74,6 +74,8 @@
 - [【前端早读课】2019-05-05-不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=1&sn=02b8ab64d431478327e1fa7390668a4f#rd) 
 - [【前端早读课】2019-05-02-【第1599期】一个无名前端的10年前端路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232157&idx=1&sn=375340129ea4caf9f68ab380b9b00382#rd) 
 - [【前端早读课】2019-05-01-【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd) 
+- [【前端大全】2019-05-13-深入理解-JS-作用域和作用域链](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=2&sn=9fcd8dacb50fe8807c44b51a1251cf06#rd) 
+- [【前端大全】2019-05-13-阿里-P7-前端高级工程师，都需要掌握哪些技术栈？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=1&sn=92040472b52b298e971f56baa2d29aba#rd) 
 - [【前端大全】2019-05-12-面向对象：不需要大富大贵，平平淡淡，白首到老](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=2&sn=c81ba61e5051bc687f9b39a2cb937a9e#rd) 
 - [【前端大全】2019-05-12-什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=1&sn=d6d561ffcab7f0afe8fa57d9520bff37#rd) 
 - [【前端大全】2019-05-11-JS-无形装逼，最为致命](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556393&idx=1&sn=a9a87bf7d1cc94904f9b698829ea3b9a#rd) 
