@@ -4,12 +4,12 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-12 22:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-13 08:00:19，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-05-13-【第1608期】What's-New-in-JavaScript（视频）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=2&sn=7ce59e103c5c77cad6120fc75bf9d51b#rd) ![](assets/new.png)  
+- [2019-05-13-来自阿里巴巴前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=1&sn=a8ee585a8a068106bb94595e292f4d60#rd) ![](assets/new.png)  
 - [2019-05-12-【英】Webkit支持夜间模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=2&sn=fe9df4dab68db613c7db8ac5e736b598#rd)  
 - [2019-05-12-【第1607期】我在-Airbnb-4-年不同时期的-4-个不同职责](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=1&sn=de319e443d093af02e2d463e00d945c1#rd)  
 - [2019-05-11-【第1606期】CSS-自定义属性：API-篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232217&idx=1&sn=67fb48dc6d4f71ac4235561a16cda10c#rd)  
@@ -44,8 +46,6 @@
 - [2019-05-02-【第1599期】一个无名前端的10年前端路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232157&idx=1&sn=375340129ea4caf9f68ab380b9b00382#rd)  
 - [2019-05-01-【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd)  
 - [2019-04-30-【第1598期】蚂蚁体验技术部的前世今生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=2&sn=d1687f4dd4f3e2caee86cea80bddf1e8#rd)  
-- [2019-04-30-推荐5个优秀前端人必须掌握的技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232146&idx=1&sn=4ced3f55d9daab9842d6a1ae17a14cf0#rd)  
-- [2019-04-29-【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-05-12-面向对象：不需要大富大贵，平平淡淡，白首到老](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=2&sn=c81ba61e5051bc687f9b39a2cb937a9e#rd) ![](assets/new.png)  
-- [2019-05-12-什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=1&sn=d6d561ffcab7f0afe8fa57d9520bff37#rd) ![](assets/new.png)  
+- [2019-05-12-面向对象：不需要大富大贵，平平淡淡，白首到老](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=2&sn=c81ba61e5051bc687f9b39a2cb937a9e#rd)  
+- [2019-05-12-什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=1&sn=d6d561ffcab7f0afe8fa57d9520bff37#rd)  
 - [2019-05-11-JS-无形装逼，最为致命](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556393&idx=1&sn=a9a87bf7d1cc94904f9b698829ea3b9a#rd)  
 - [2019-05-10-jQuery-3.4.0-发布！全力准备-jQuery-4.0：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556392&idx=1&sn=4222ba13b6b477dc4b819bb781db2e18#rd)  
 - [2019-05-09-面向对象：希望我们都能在人海中找到那个互相喜欢的人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=2&sn=d1754589cafb6bff55b4af177d399aeb#rd)  

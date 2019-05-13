@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-05-12 22:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-05-13 08:00:19。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -519,6 +519,7 @@
 
 
 
+- [【前端早读课】【第1608期】What's-New-in-JavaScript（视频）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=2&sn=7ce59e103c5c77cad6120fc75bf9d51b#rd)
 - [【前端早读课】【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd)
 - [【前端早读课】【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd)
 - [【前端早读课】【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd)
@@ -1114,6 +1115,7 @@
 
 
 
+- [【前端早读课】来自阿里巴巴前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=1&sn=a8ee585a8a068106bb94595e292f4d60#rd)
 - [【前端早读课】【第1607期】我在-Airbnb-4-年不同时期的-4-个不同职责](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=1&sn=de319e443d093af02e2d463e00d945c1#rd)
 - [【前端早读课】【第1604期】Web-Component可以取代你的前端框架吗？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232207&idx=1&sn=74c2234ce04bf5309d7d6e1ab0b24d9f#rd)
 - [【前端早读课】【第1602期】useEffect-完整指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=1&sn=13a2225799fa74424c7f2bf6e931e6c3#rd)
