@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-13 22:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-14 12:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -55,6 +55,7 @@
 </summary>
 
 
+- [【前端早读课】2019-05-14-【第1609期】Chrome运行时性能瓶颈分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232248&idx=1&sn=9551177f482d4cdb664592ad15e499b6#rd) 
 - [【前端早读课】2019-05-13-【第1608期】What's-New-in-JavaScript（视频）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=2&sn=7ce59e103c5c77cad6120fc75bf9d51b#rd) 
 - [【前端早读课】2019-05-13-来自阿里巴巴前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=1&sn=a8ee585a8a068106bb94595e292f4d60#rd) 
 - [【前端早读课】2019-05-12-【英】Webkit支持夜间模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=2&sn=fe9df4dab68db613c7db8ac5e736b598#rd) 
