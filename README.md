@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-15 06:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-15 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-05-15-【小册】小菜前端是如何练成的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=2&sn=c1e8be3d40d3f24948db7926ca279719#rd) ![](assets/new.png)  
-- [2019-05-15-【第1610期】-JavaScript的环境模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=1&sn=2ec349dd8a919b1ef4400574c060b23a#rd) ![](assets/new.png)  
+- [2019-05-15-【小册】小菜前端是如何练成的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=2&sn=c1e8be3d40d3f24948db7926ca279719#rd)  
+- [2019-05-15-【第1610期】-JavaScript的环境模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=1&sn=2ec349dd8a919b1ef4400574c060b23a#rd)  
 - [2019-05-14-【第1609期】Chrome运行时性能瓶颈分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232248&idx=1&sn=9551177f482d4cdb664592ad15e499b6#rd)  
 - [2019-05-13-【第1608期】What's-New-in-JavaScript（视频）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=2&sn=7ce59e103c5c77cad6120fc75bf9d51b#rd)  
 - [2019-05-13-来自阿里巴巴前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=1&sn=a8ee585a8a068106bb94595e292f4d60#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-05-15-JS是语言界的平头哥](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491229&idx=1&sn=31c7cd62691ece2e8e3fe6f428b1e690#rd) ![](assets/new.png)  
 - [2019-05-13-2019年的Chrome和Web又有哪些新技术？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491211&idx=1&sn=b58a5d0b995e7b7cde3d03795e38c95e#rd)  
 - [2019-05-09-蚂蚁金服面对亿级并发场景的组件体系设计](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491201&idx=1&sn=df9b8406bcb9706edcc337f4908aacfe#rd)  
 - [2019-05-08-Flutter全平台制霸！新增Web和嵌入式目标平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491194&idx=1&sn=0c7b8e68bf80435ef614d5b8552625e5#rd)  
@@ -107,7 +108,6 @@
 - [2019-04-20-使用TypeScript两年之后：它值得推荐吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491022&idx=1&sn=0f080050f4bb7c3365d5cfbc1b70bea1#rd)  
 - [2019-04-19-浏览器将支持Python项目！Mozilla发布Pyodide](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491006&idx=1&sn=a413833e8b1c788fd9032d68b13721ff#rd)  
 - [2019-04-18-Edge转向Chromium对前端开发者有哪些影响？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490998&idx=1&sn=914594307f518a74c34d03b15356da82#rd)  
-- [2019-04-17-移动开发的下半场，iOS开发者应该学什么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490991&idx=1&sn=4003001c7b786219751949cca8cd5b0e#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
