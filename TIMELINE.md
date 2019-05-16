@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-16 22:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-17 06:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [【前端早读课】2019-05-17-【第1612期】TypeScript-——-面向编辑器编程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=1&sn=15cddc2d46b67cb44d6c7144516d7d9d#rd) 
+- [【前端早读课】2019-05-17-【活动】腾讯2019-TLC-众多技术大咖等你参会，早鸟票5折售卖中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=2&sn=8b131150c9375729fae17f91c25dd4d6#rd) 
 - [【前端早读课】2019-05-16-【招聘】阿里妈妈-MUX-急招资深前端开发（P6-及以上）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=2&sn=004fabd8090587b675f5b73776704ccf#rd) 
 - [【前端早读课】2019-05-16-【第1611期】前端路由原理解析和实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=1&sn=a559a97b36f3a6f359cda13c035fc68e#rd) 
 - [【前端早读课】2019-05-15-【小册】小菜前端是如何练成的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=2&sn=c1e8be3d40d3f24948db7926ca279719#rd) 
@@ -79,6 +81,8 @@
 - [【前端早读课】2019-05-05-不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=1&sn=02b8ab64d431478327e1fa7390668a4f#rd) 
 - [【前端早读课】2019-05-02-【第1599期】一个无名前端的10年前端路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232157&idx=1&sn=375340129ea4caf9f68ab380b9b00382#rd) 
 - [【前端早读课】2019-05-01-【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd) 
+- [【前端大全】2019-05-16-面向对象：世界上有一千种期待，最美好的那一种叫未来可期](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556408&idx=2&sn=76a55045a58e4b21e3a4f717f486224f#rd) 
+- [【前端大全】2019-05-16-JavaScript-高阶函数浅析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556408&idx=1&sn=26bab083240bb8d3e68c17cb1a69d68d#rd) 
 - [【前端大全】2019-05-15-提高幸福感的-9-个-CSS-技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556405&idx=1&sn=560b673b36263fb727cddc2b137a8ca5#rd) 
 - [【前端大全】2019-05-13-深入理解-JS-作用域和作用域链](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=2&sn=9fcd8dacb50fe8807c44b51a1251cf06#rd) 
 - [【前端大全】2019-05-13-阿里-P7-前端高级工程师，都需要掌握哪些技术栈？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=1&sn=92040472b52b298e971f56baa2d29aba#rd) 
@@ -107,6 +111,7 @@
 - [【前端之巅】2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd) 
 - [【前端之巅】2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd) 
 - [【前端之巅】2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/) 
 - [【阮一峰的网络日志】2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html) 
 - [【阮一峰的网络日志】2019-05-03-每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html) 
 
