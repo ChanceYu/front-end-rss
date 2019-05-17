@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-17 22:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-18 06:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -55,6 +55,7 @@
 </summary>
 
 
+- [【前端早读课】2019-05-18-【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd) 
 - [【前端早读课】2019-05-17-【第1612期】TypeScript-——-面向编辑器编程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=1&sn=15cddc2d46b67cb44d6c7144516d7d9d#rd) 
 - [【前端早读课】2019-05-17-【活动】腾讯2019-TLC-众多技术大咖等你参会，早鸟票5折售卖中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=2&sn=8b131150c9375729fae17f91c25dd4d6#rd) 
 - [【前端早读课】2019-05-16-【招聘】阿里妈妈-MUX-急招资深前端开发（P6-及以上）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=2&sn=004fabd8090587b675f5b73776704ccf#rd) 
@@ -112,6 +113,7 @@
 - [【前端之巅】2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd) 
 - [【前端之巅】2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd) 
 - [【前端之巅】2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/) 
 - [【阮一峰的网络日志】2019-05-17-每周分享第-56-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html) 
 - [【阮一峰的网络日志】2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html) 

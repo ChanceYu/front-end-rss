@@ -4,15 +4,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-17 22:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-18 06:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -26,6 +26,7 @@
 </summary>
 
 
+- [2019-05-18-【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd) ![](assets/new.png)  
 - [2019-05-17-【第1612期】TypeScript-——-面向编辑器编程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=1&sn=15cddc2d46b67cb44d6c7144516d7d9d#rd)  
 - [2019-05-17-【活动】腾讯2019-TLC-众多技术大咖等你参会，早鸟票5折售卖中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=2&sn=8b131150c9375729fae17f91c25dd4d6#rd)  
 - [2019-05-16-【招聘】阿里妈妈-MUX-急招资深前端开发（P6-及以上）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=2&sn=004fabd8090587b675f5b73776704ccf#rd)  
@@ -45,7 +46,6 @@
 - [2019-05-08-4-年前端开发经验，面试被虐，结局逆转](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232195&idx=1&sn=1535ce389bab28a62d7bca6f6ec0846b#rd)  
 - [2019-05-08-【第1603期】CSS-自定义属性：使用篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232195&idx=2&sn=a1243680fa3142e9f40d0909d805d77a#rd)  
 - [2019-05-07-【第1602期】useEffect-完整指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=1&sn=13a2225799fa74424c7f2bf6e931e6c3#rd)  
-- [2019-05-07-【招聘】厦门吉比特招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=2&sn=df3f533c733415dfc91c96a9b8262bf9#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-05-17-框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd) ![](assets/new.png)  
+- [2019-05-17-框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd)  
 - [2019-05-16-专访Yorkie：JavaScript如何开发IoT应用？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491238&idx=1&sn=3446cac0a77cbc1c014205d5478815b9#rd)  
 - [2019-05-15-JS是语言界的平头哥](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491229&idx=1&sn=31c7cd62691ece2e8e3fe6f428b1e690#rd)  
 - [2019-05-13-2019年的Chrome和Web又有哪些新技术？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491211&idx=1&sn=b58a5d0b995e7b7cde3d03795e38c95e#rd)  
@@ -150,6 +150,7 @@
 </summary>
 
 
+- [2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/) ![](assets/new.png)  
 - [2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/)  
 - [2019-04-21-CSS实现文字下面波浪线动画效果](https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/)  
 - [2019-04-20-CSS滤镜和混合模式处理的图片如何上传下载？](https://www.zhangxinxu.com/wordpress/2019/04/save-css-filter-blend-mode-image/)  
@@ -169,7 +170,6 @@
 - [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/)  
 - [2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/)  
 - [2019-01-14-常见的CSS图形绘制合集](https://www.zhangxinxu.com/wordpress/2019/01/pure-css-shapes/)  
-- [2019-01-12-粉丝群第1期CSS小测点评与答疑](https://www.zhangxinxu.com/wordpress/2019/01/css-quiz-1/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
