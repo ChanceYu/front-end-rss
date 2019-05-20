@@ -4,11 +4,11 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-20 06:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-20 18:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -26,7 +26,7 @@
 </summary>
 
 
-- [2019-05-20-【第1615期】React-Native-图表性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232294&idx=1&sn=c53bbd4f7f2143d1d68a64ca5decd205#rd) ![](assets/new.png)  
+- [2019-05-20-【第1615期】React-Native-图表性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232294&idx=1&sn=c53bbd4f7f2143d1d68a64ca5decd205#rd)  
 - [2019-05-19-【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd)  
 - [2019-05-18-【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd)  
 - [2019-05-17-【第1612期】TypeScript-——-面向编辑器编程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=1&sn=15cddc2d46b67cb44d6c7144516d7d9d#rd)  
@@ -57,7 +57,9 @@
 </summary>
 
 
-- [2019-05-19-关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556417&idx=1&sn=126a16a451ae3a9f6b7a89f2b4bfed63#rd) ![](assets/new.png)  
+- [2019-05-20-滚动穿透问题探索](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=2&sn=37c90cdcdf0f9d6a0d14c98de85a4a6a#rd) ![](assets/new.png)  
+- [2019-05-20-都是-3-年前端，为什么结局截然不同？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=1&sn=37116f47c6901f649c36e3e0629aec4f#rd) ![](assets/new.png)  
+- [2019-05-19-关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556417&idx=1&sn=126a16a451ae3a9f6b7a89f2b4bfed63#rd)  
 - [2019-05-18-如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556410&idx=1&sn=d6cde3e32c354f9aae95cbfaa9d545e8#rd)  
 - [2019-05-18-面向对象：斯人若彩虹，遇上方知有](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556410&idx=2&sn=2d189f9e43289e663cbe2ed55f5390a8#rd)  
 - [2019-05-16-面向对象：世界上有一千种期待，最美好的那一种叫未来可期](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556408&idx=2&sn=76a55045a58e4b21e3a4f717f486224f#rd)  
@@ -75,8 +77,6 @@
 - [2019-05-08-JS-函数的-6-个基本术语](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=2&sn=c989617acff8fde79443cd4a25be08c0#rd)  
 - [2019-05-06-分享-8-个有趣且实用的-API](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556345&idx=2&sn=ba5f9044cb901052de2accceb5089a8b#rd)  
 - [2019-05-06-5-年前端工程师的学习之路分享](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556345&idx=1&sn=6e40ebe9ab974f4864e872d75c27d2e9#rd)  
-- [2019-05-05-一名合格前端工程师的自检清单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556338&idx=1&sn=589976a52b9162ec8d7a9a165cbfac7d#rd)  
-- [2019-05-04-面向对象：简简单单的爱，实实在在的情](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556334&idx=2&sn=7ea3625a5490b875a8fd75b1a1cb1917#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
