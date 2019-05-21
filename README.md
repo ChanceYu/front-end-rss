@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-21 08:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-21 22:00:30，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-05-21-【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd) ![](assets/new.png)  
-- [2019-05-21-BAT前端高级工程师年入50W，到底什么水平？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=1&sn=9a0e1175208d7b88fdc8e6e387f3aad9#rd) ![](assets/new.png)  
+- [2019-05-21-【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd)  
+- [2019-05-21-BAT前端高级工程师年入50W，到底什么水平？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=1&sn=9a0e1175208d7b88fdc8e6e387f3aad9#rd)  
 - [2019-05-20-【第1615期】React-Native-图表性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232294&idx=1&sn=c53bbd4f7f2143d1d68a64ca5decd205#rd)  
 - [2019-05-19-【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd)  
 - [2019-05-18-【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd)  
@@ -57,6 +57,8 @@
 </summary>
 
 
+- [2019-05-21-面向对象：希望你能牵着我的手，一直到白头，宠我一辈子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=2&sn=a6e28998a1976f0fc80c91d20e3e5bcc#rd) ![](assets/new.png)  
+- [2019-05-21-从-Mixin-到-HOC-再到-Hook](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=1&sn=50ffbe8b3c0b413b8319ddc17898e607#rd) ![](assets/new.png)  
 - [2019-05-20-滚动穿透问题探索](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=2&sn=37c90cdcdf0f9d6a0d14c98de85a4a6a#rd)  
 - [2019-05-20-都是-3-年前端，为什么结局截然不同？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=1&sn=37116f47c6901f649c36e3e0629aec4f#rd)  
 - [2019-05-19-关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556417&idx=1&sn=126a16a451ae3a9f6b7a89f2b4bfed63#rd)  
@@ -75,8 +77,6 @@
 - [2019-05-09-Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd)  
 - [2019-05-08-从降薪潮到996，谈谈技术人员的成长突围](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=1&sn=a9bee83c1bcb0746997728be297e70cd#rd)  
 - [2019-05-08-JS-函数的-6-个基本术语](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=2&sn=c989617acff8fde79443cd4a25be08c0#rd)  
-- [2019-05-06-分享-8-个有趣且实用的-API](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556345&idx=2&sn=ba5f9044cb901052de2accceb5089a8b#rd)  
-- [2019-05-06-5-年前端工程师的学习之路分享](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556345&idx=1&sn=6e40ebe9ab974f4864e872d75c27d2e9#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-05-21-Jetpack-Compose开源：基于Kotlin的响应式编程方案，简化UI开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd) ![](assets/new.png)  
 - [2019-05-20-Kotlin调查报告：40%开发者将其作为主编程语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491266&idx=1&sn=35a641761e62d3261439323bc0b2fbef#rd)  
 - [2019-05-18-取代-Android？Fuchsia-要的是统一操作系统平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491261&idx=1&sn=5199432fc5c5c34e5863a299c2d4a4a7#rd)  
 - [2019-05-17-框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd)  
@@ -107,7 +108,6 @@
 - [2019-04-26-前端框架Benchmark-2019：Vue表现怎么样？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491091&idx=1&sn=91b9318a408a03221ae9ab9ac637134c#rd)  
 - [2019-04-25-面向复杂场景的高性能表单解决方案背景篇](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491080&idx=1&sn=b4519a00f4726d0bf6ea524ed8f444df#rd)  
 - [2019-04-24-Node.js-12发布！更快启动速度、默认TLS-1.3](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491065&idx=1&sn=501033e2302fb56baa6c71e65e0385af#rd)  
-- [2019-04-23-移动开发十周年：开源节流，创造新生态](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491051&idx=1&sn=ec6a3e543c543d1f4288295aa1712d37#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
