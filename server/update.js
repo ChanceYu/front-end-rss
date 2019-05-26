@@ -93,7 +93,7 @@ function handlerFeed(){
         }
       }, 20000);
 
-      parser.parseURL(rss, function(err, feed) {
+      parser.parseURL(replaceRss(rss), function(err, feed) {
         if(finished) return;
         finished = true;
         clearTimeout(timer);
@@ -169,6 +169,15 @@ function handlerFeed(){
       console.log(utils.getNowDate() + ' - 无需更新');
     }
   })
+}
+
+
+// 加快速度，使用本地的 RSSHub
+let useLocalRSSHub = process.argv.indexOf('LOCAL_RSSHub') > -1 || process.argv.indexOf('--LOCAL_RSSHub') > -1
+function replaceRss(rss){
+  if(!useLocalRSSHub) return rss
+  
+  return rss.replace('https://rsshub.app', 'http://127.0.0.1:1200')
 }
 
 module.exports = handlerUpdate
