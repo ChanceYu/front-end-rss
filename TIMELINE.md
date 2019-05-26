@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-24 12:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-27 00:26:00。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -55,6 +55,13 @@
 </summary>
 
 
+- [【前端早读课】2019-05-26-【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd) 
+- [【前端早读课】2019-05-25-【图书】学习JavaScript数据结构与算法-第3版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=2&sn=2be964451680acadaf592a85007a64cc#rd) 
+- [【前端早读课】2019-05-25-【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd) 
+- [【前端早读课】2019-05-24-【招聘】度小满有钱花前端团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd) 
+- [【前端早读课】2019-05-24-【第1619期】前端能力中台化之路—Fusion-Design-成长史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd) 
+- [【前端早读课】2019-05-23-【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd) 
+- [【前端早读课】2019-05-23-低效加班，也许正在毁掉你的技术成长黄金期](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=1&sn=6697184dfe347faa8614442223e579b7#rd) 
 - [【前端早读课】2019-05-22-【图书】深入理解JavaScript特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=2&sn=25336abc599e84a8f9d586017969afe4#rd) 
 - [【前端早读课】2019-05-22-【第1617期】Webpack-是怎样运行的?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=1&sn=e6555a6a45ff1af76e9b0f1061499bcb#rd) 
 - [【前端早读课】2019-05-21-【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd) 
@@ -88,6 +95,12 @@
 - [【前端早读课】2019-05-05-不会React-？那不好意思你被-pass-了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=1&sn=02b8ab64d431478327e1fa7390668a4f#rd) 
 - [【前端早读课】2019-05-02-【第1599期】一个无名前端的10年前端路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232157&idx=1&sn=375340129ea4caf9f68ab380b9b00382#rd) 
 - [【前端早读课】2019-05-01-【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd) 
+- [【前端大全】2019-05-26-Nuxt-实现的-SSR-页面性能优化的进一步探索与实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556450&idx=1&sn=5504ce109065b11c5950ddb0d5c62f7c#rd) 
+- [【前端大全】2019-05-25-Vue-组件间通信六种方式（完整版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556445&idx=1&sn=dee936663d7125cf8528b1315a5a93ba#rd) 
+- [【前端大全】2019-05-23-看完这篇，你也可以实现一个360度全景插件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=1&sn=bd096d6e729c4f7ea9aa7282e195be25#rd) 
+- [【前端大全】2019-05-23-面向对象：等风来，等雨停，等你出现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=2&sn=6ca4fc9c552c922a0201d4e3935ca094#rd) 
+- [【前端大全】2019-05-22-Node.js-微服务实践二](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd) 
+- [【前端大全】2019-05-22-来自-BAT-前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=1&sn=b6191799af080da276c2057a3ef31e8d#rd) 
 - [【前端大全】2019-05-21-面向对象：希望你能牵着我的手，一直到白头，宠我一辈子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=2&sn=a6e28998a1976f0fc80c91d20e3e5bcc#rd) 
 - [【前端大全】2019-05-21-从-Mixin-到-HOC-再到-Hook](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=1&sn=50ffbe8b3c0b413b8319ddc17898e607#rd) 
 - [【前端大全】2019-05-20-滚动穿透问题探索](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=2&sn=37c90cdcdf0f9d6a0d14c98de85a4a6a#rd) 
@@ -116,6 +129,11 @@
 - [【前端大全】2019-05-03-JavaScript-的数据类型及其检测](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556330&idx=1&sn=5d2cafe433d0f51f3ff6d6b60ace75f0#rd) 
 - [【前端大全】2019-05-02-页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556329&idx=1&sn=08c15ed33a14026185184a0e422b0672#rd) 
 - [【前端大全】2019-05-01-一次-Web-端大量图片同时加载卡顿问题的优化之旅](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556325&idx=1&sn=7d37f9f9298f700a1a0916c0e8544afb#rd) 
+- [【前端之巅】2019-05-26-WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd) 
+- [【前端之巅】2019-05-25-React不是真正的响应式编程，Svelte才是](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491314&idx=1&sn=a5f3e3bc66316917a29368650f2ccbc1#rd) 
+- [【前端之巅】2019-05-24-Serverless掀起新的前端技术变革](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491309&idx=1&sn=0506b5df5c69eb7e66d2ab532a047bbf#rd) 
+- [【前端之巅】2019-05-23-Vuex3.1.1更新：支持jsDelivr，修复内存泄漏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491294&idx=1&sn=e874d10197e56e961418da3d175ef48b#rd) 
+- [【前端之巅】2019-05-22-学习Dart的10大理由](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491285&idx=1&sn=010c93f994da1b7d96a6eebb50cdc9d4#rd) 
 - [【前端之巅】2019-05-21-Jetpack-Compose开源：基于Kotlin的响应式编程方案，简化UI开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd) 
 - [【前端之巅】2019-05-20-Kotlin调查报告：40%开发者将其作为主编程语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491266&idx=1&sn=35a641761e62d3261439323bc0b2fbef#rd) 
 - [【前端之巅】2019-05-18-取代-Android？Fuchsia-要的是统一操作系统平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491261&idx=1&sn=5199432fc5c5c34e5863a299c2d4a4a7#rd) 
@@ -129,6 +147,7 @@
 - [【前端之巅】2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd) 
 - [【前端之巅】2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd) 
 - [【前端之巅】2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-05-27-你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/) 
 - [【阮一峰的网络日志】2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html) 

@@ -5,6 +5,41 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1621期】长夜未央——企业级研发提效的下一阶段",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd",
+        "date": "2019-05-26"
+      },
+      {
+        "title": "【图书】学习JavaScript数据结构与算法 第3版",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=2&sn=2be964451680acadaf592a85007a64cc#rd",
+        "date": "2019-05-25"
+      },
+      {
+        "title": "【第1620期】Vuex中模块(Module)在复杂业务中的应用",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd",
+        "date": "2019-05-25"
+      },
+      {
+        "title": "【招聘】度小满有钱花前端团队招高级前端工程师",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd",
+        "date": "2019-05-24"
+      },
+      {
+        "title": "【第1619期】前端能力中台化之路—Fusion Design 成长史",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd",
+        "date": "2019-05-24"
+      },
+      {
+        "title": "【第1618期】Chameleon 开放跨端扩展标准协议",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd",
+        "date": "2019-05-23"
+      },
+      {
+        "title": "低效加班，也许正在毁掉你的技术成长黄金期",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=1&sn=6697184dfe347faa8614442223e579b7#rd",
+        "date": "2019-05-23"
+      },
+      {
         "title": "【图书】深入理解JavaScript特性",
         "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=2&sn=25336abc599e84a8f9d586017969afe4#rd",
         "date": "2019-05-22"
@@ -2197,6 +2232,36 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Nuxt 实现的 SSR 页面性能优化的进一步探索与实践",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556450&idx=1&sn=5504ce109065b11c5950ddb0d5c62f7c#rd",
+        "date": "2019-05-26"
+      },
+      {
+        "title": "Vue 组件间通信六种方式（完整版）",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556445&idx=1&sn=dee936663d7125cf8528b1315a5a93ba#rd",
+        "date": "2019-05-25"
+      },
+      {
+        "title": "看完这篇，你也可以实现一个360度全景插件",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=1&sn=bd096d6e729c4f7ea9aa7282e195be25#rd",
+        "date": "2019-05-23"
+      },
+      {
+        "title": "面向对象：等风来，等雨停，等你出现",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=2&sn=6ca4fc9c552c922a0201d4e3935ca094#rd",
+        "date": "2019-05-23"
+      },
+      {
+        "title": "Node.js 微服务实践(二)",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd",
+        "date": "2019-05-22"
+      },
+      {
+        "title": "来自 BAT 前端架构师的一封信",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=1&sn=b6191799af080da276c2057a3ef31e8d#rd",
+        "date": "2019-05-22"
+      },
+      {
         "title": "面向对象：希望你能牵着我的手，一直到白头，宠我一辈子",
         "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=2&sn=a6e28998a1976f0fc80c91d20e3e5bcc#rd",
         "date": "2019-05-21"
@@ -4179,6 +4244,31 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "WebAssembly在eBay的实践：速度提升50倍",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd",
+        "date": "2019-05-26"
+      },
+      {
+        "title": "React不是真正的响应式编程，Svelte才是",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491314&idx=1&sn=a5f3e3bc66316917a29368650f2ccbc1#rd",
+        "date": "2019-05-25"
+      },
+      {
+        "title": "Serverless掀起新的前端技术变革",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491309&idx=1&sn=0506b5df5c69eb7e66d2ab532a047bbf#rd",
+        "date": "2019-05-24"
+      },
+      {
+        "title": "Vuex3.1.1更新：支持jsDelivr，修复内存泄漏",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491294&idx=1&sn=e874d10197e56e961418da3d175ef48b#rd",
+        "date": "2019-05-23"
+      },
+      {
+        "title": "学习Dart的10大理由",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491285&idx=1&sn=010c93f994da1b7d96a6eebb50cdc9d4#rd",
+        "date": "2019-05-22"
+      },
+      {
         "title": "Jetpack Compose开源：基于Kotlin的响应式编程方案，简化UI开发",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd",
         "date": "2019-05-21"
@@ -5442,6 +5532,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "你用的那些CSS转场动画可以换一换了",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/",
+        "date": "2019-05-27"
+      },
       {
         "title": "使用“变量种子计数器”扩展CSS动画更多可能性",
         "link": "https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/",

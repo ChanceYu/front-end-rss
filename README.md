@@ -4,16 +4,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-24 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-27 00:26:00，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,6 +26,13 @@
 </summary>
 
 
+- [2019-05-26-【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd) ![](assets/new.png)  
+- [2019-05-25-【图书】学习JavaScript数据结构与算法-第3版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=2&sn=2be964451680acadaf592a85007a64cc#rd) ![](assets/new.png)  
+- [2019-05-25-【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd) ![](assets/new.png)  
+- [2019-05-24-【招聘】度小满有钱花前端团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd) ![](assets/new.png)  
+- [2019-05-24-【第1619期】前端能力中台化之路—Fusion-Design-成长史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd) ![](assets/new.png)  
+- [2019-05-23-【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd) ![](assets/new.png)  
+- [2019-05-23-低效加班，也许正在毁掉你的技术成长黄金期](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=1&sn=6697184dfe347faa8614442223e579b7#rd) ![](assets/new.png)  
 - [2019-05-22-【图书】深入理解JavaScript特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=2&sn=25336abc599e84a8f9d586017969afe4#rd)  
 - [2019-05-22-【第1617期】Webpack-是怎样运行的?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=1&sn=e6555a6a45ff1af76e9b0f1061499bcb#rd)  
 - [2019-05-21-【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd)  
@@ -39,13 +46,6 @@
 - [2019-05-16-【第1611期】前端路由原理解析和实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=1&sn=a559a97b36f3a6f359cda13c035fc68e#rd)  
 - [2019-05-15-【小册】小菜前端是如何练成的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=2&sn=c1e8be3d40d3f24948db7926ca279719#rd)  
 - [2019-05-15-【第1610期】-JavaScript的环境模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=1&sn=2ec349dd8a919b1ef4400574c060b23a#rd)  
-- [2019-05-14-【第1609期】Chrome运行时性能瓶颈分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232248&idx=1&sn=9551177f482d4cdb664592ad15e499b6#rd)  
-- [2019-05-13-【第1608期】What's-New-in-JavaScript（视频）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=2&sn=7ce59e103c5c77cad6120fc75bf9d51b#rd)  
-- [2019-05-13-来自阿里巴巴前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=1&sn=a8ee585a8a068106bb94595e292f4d60#rd)  
-- [2019-05-12-【英】Webkit支持夜间模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=2&sn=fe9df4dab68db613c7db8ac5e736b598#rd)  
-- [2019-05-12-【第1607期】我在-Airbnb-4-年不同时期的-4-个不同职责](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=1&sn=de319e443d093af02e2d463e00d945c1#rd)  
-- [2019-05-11-【第1606期】CSS-自定义属性：API-篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232217&idx=1&sn=67fb48dc6d4f71ac4235561a16cda10c#rd)  
-- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,6 +57,12 @@
 </summary>
 
 
+- [2019-05-26-Nuxt-实现的-SSR-页面性能优化的进一步探索与实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556450&idx=1&sn=5504ce109065b11c5950ddb0d5c62f7c#rd) ![](assets/new.png)  
+- [2019-05-25-Vue-组件间通信六种方式（完整版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556445&idx=1&sn=dee936663d7125cf8528b1315a5a93ba#rd) ![](assets/new.png)  
+- [2019-05-23-看完这篇，你也可以实现一个360度全景插件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=1&sn=bd096d6e729c4f7ea9aa7282e195be25#rd) ![](assets/new.png)  
+- [2019-05-23-面向对象：等风来，等雨停，等你出现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=2&sn=6ca4fc9c552c922a0201d4e3935ca094#rd) ![](assets/new.png)  
+- [2019-05-22-Node.js-微服务实践二](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd) ![](assets/new.png)  
+- [2019-05-22-来自-BAT-前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=1&sn=b6191799af080da276c2057a3ef31e8d#rd) ![](assets/new.png)  
 - [2019-05-21-面向对象：希望你能牵着我的手，一直到白头，宠我一辈子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=2&sn=a6e28998a1976f0fc80c91d20e3e5bcc#rd)  
 - [2019-05-21-从-Mixin-到-HOC-再到-Hook](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=1&sn=50ffbe8b3c0b413b8319ddc17898e607#rd)  
 - [2019-05-20-滚动穿透问题探索](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=2&sn=37c90cdcdf0f9d6a0d14c98de85a4a6a#rd)  
@@ -71,12 +77,6 @@
 - [2019-05-13-阿里-P7-前端高级工程师，都需要掌握哪些技术栈？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556404&idx=1&sn=92040472b52b298e971f56baa2d29aba#rd)  
 - [2019-05-12-面向对象：不需要大富大贵，平平淡淡，白首到老](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=2&sn=c81ba61e5051bc687f9b39a2cb937a9e#rd)  
 - [2019-05-12-什么便捷、功能和安全，Chrome一把梭](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556395&idx=1&sn=d6d561ffcab7f0afe8fa57d9520bff37#rd)  
-- [2019-05-11-JS-无形装逼，最为致命](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556393&idx=1&sn=a9a87bf7d1cc94904f9b698829ea3b9a#rd)  
-- [2019-05-10-jQuery-3.4.0-发布！全力准备-jQuery-4.0：15篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556392&idx=1&sn=4222ba13b6b477dc4b819bb781db2e18#rd)  
-- [2019-05-09-面向对象：希望我们都能在人海中找到那个互相喜欢的人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=2&sn=d1754589cafb6bff55b4af177d399aeb#rd)  
-- [2019-05-09-Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd)  
-- [2019-05-08-从降薪潮到996，谈谈技术人员的成长突围](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=1&sn=a9bee83c1bcb0746997728be297e70cd#rd)  
-- [2019-05-08-JS-函数的-6-个基本术语](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556367&idx=2&sn=c989617acff8fde79443cd4a25be08c0#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,6 +88,11 @@
 </summary>
 
 
+- [2019-05-26-WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd) ![](assets/new.png)  
+- [2019-05-25-React不是真正的响应式编程，Svelte才是](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491314&idx=1&sn=a5f3e3bc66316917a29368650f2ccbc1#rd) ![](assets/new.png)  
+- [2019-05-24-Serverless掀起新的前端技术变革](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491309&idx=1&sn=0506b5df5c69eb7e66d2ab532a047bbf#rd) ![](assets/new.png)  
+- [2019-05-23-Vuex3.1.1更新：支持jsDelivr，修复内存泄漏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491294&idx=1&sn=e874d10197e56e961418da3d175ef48b#rd) ![](assets/new.png)  
+- [2019-05-22-学习Dart的10大理由](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491285&idx=1&sn=010c93f994da1b7d96a6eebb50cdc9d4#rd) ![](assets/new.png)  
 - [2019-05-21-Jetpack-Compose开源：基于Kotlin的响应式编程方案，简化UI开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd)  
 - [2019-05-20-Kotlin调查报告：40%开发者将其作为主编程语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491266&idx=1&sn=35a641761e62d3261439323bc0b2fbef#rd)  
 - [2019-05-18-取代-Android？Fuchsia-要的是统一操作系统平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491261&idx=1&sn=5199432fc5c5c34e5863a299c2d4a4a7#rd)  
@@ -103,11 +108,6 @@
 - [2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd)  
 - [2019-04-30-Node.js对Java：一场史诗级的争夺开发者注意力的对决](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491136&idx=1&sn=e3ceb6f5b6b0323b1eee3d2bdd477261#rd)  
 - [2019-04-29-MPEG-DASH在bilibili的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491119&idx=1&sn=3754febf3ad3c383900385cc5d83b835#rd)  
-- [2019-04-28-如何使用Postman来Mock-API？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491115&idx=1&sn=ed62702985fc9059372c95b7d7573809#rd)  
-- [2019-04-27-如何更有逼格的用JS控制CSS颜色？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491104&idx=1&sn=80c68078d364e123dab04cea18312016#rd)  
-- [2019-04-26-前端框架Benchmark-2019：Vue表现怎么样？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491091&idx=1&sn=91b9318a408a03221ae9ab9ac637134c#rd)  
-- [2019-04-25-面向复杂场景的高性能表单解决方案背景篇](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491080&idx=1&sn=b4519a00f4726d0bf6ea524ed8f444df#rd)  
-- [2019-04-24-Node.js-12发布！更快启动速度、默认TLS-1.3](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491065&idx=1&sn=501033e2302fb56baa6c71e65e0385af#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -150,6 +150,7 @@
 </summary>
 
 
+- [2019-05-27-你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/) ![](assets/new.png)  
 - [2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/)  
 - [2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/)  
 - [2019-04-21-CSS实现文字下面波浪线动画效果](https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/)  
@@ -169,7 +170,6 @@
 - [2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/)  
 - [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/)  
 - [2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/)  
-- [2019-01-14-常见的CSS图形绘制合集](https://www.zhangxinxu.com/wordpress/2019/01/pure-css-shapes/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -181,7 +181,7 @@
 </summary>
 
 
-- [2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html) ![](assets/new.png)  
+- [2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)  
 - [2019-05-17-每周分享第-56-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)  
 - [2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)  
 - [2019-05-03-每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-05-24 12:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-05-27 00:26:00。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -93,6 +93,7 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】React不是真正的响应式编程，Svelte才是](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491314&idx=1&sn=a5f3e3bc66316917a29368650f2ccbc1#rd)
 - [【前端之巅】React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd)
 - [【前端之巅】2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd)
 - [【前端之巅】碉堡了！前端大神用React刻了一个Windows-XP](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490854&idx=1&sn=848125705c4edbf16942d6d3531d0083#rd)
@@ -139,6 +140,7 @@
 
 
 
+- [【前端早读课】【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)
 - [【前端早读课】【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd)
 - [【前端早读课】【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd)
 - [【前端早读课】【第1585期】Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=1&sn=bcacd50da50476341e765f2c934e8b8e#rd)
@@ -170,6 +172,7 @@
 - [【前端早读课】【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect)
 - [【前端早读课】【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect)
 - [【前端早读课】【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect)
+- [【前端大全】Vue-组件间通信六种方式（完整版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556445&idx=1&sn=dee936663d7125cf8528b1315a5a93ba#rd)
 - [【前端大全】Vue-前端面试题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556135&idx=1&sn=0283eda4fd987afb01e121d6d6d5239f#rd)
 - [【前端大全】我会了-Vue，前端面试却没找到工作](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556107&idx=1&sn=5f232ba4564760571664dd62be5885fd#rd)
 - [【前端大全】从零开始写一个-wepy-转-Vue-的工具](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556090&idx=1&sn=ea7584b048e152b31d1d859cf509de93#rd)
@@ -195,6 +198,7 @@
 - [【前端大全】Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect)
 - [【前端大全】深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [【前端大全】自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect)
+- [【前端之巅】Vuex3.1.1更新：支持jsDelivr，修复内存泄漏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491294&idx=1&sn=e874d10197e56e961418da3d175ef48b#rd)
 - [【前端之巅】前端框架Benchmark-2019：Vue表现怎么样？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491091&idx=1&sn=91b9318a408a03221ae9ab9ac637134c#rd)
 - [【前端之巅】Vue组件库工程探索与实践之构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491029&idx=1&sn=470ca46be61f3b5bf963a9ee06387c53#rd)
 - [【前端之巅】2019年Vue生态圈调查：92%的开发者将继续用Vue](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490918&idx=1&sn=34ff680a345709592c8a127fc6938d94#rd)
@@ -284,6 +288,7 @@
 - [【前端早读课】【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect)
 - [【前端早读课】【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect)
 - [【前端早读课】【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect)
+- [【前端大全】Node.js-微服务实践二](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd)
 - [【前端大全】Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd)
 - [【前端大全】Node.js-微服务实践一](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556001&idx=1&sn=601d58dc247d2f9c6f239ed8d950b540#rd)
 - [【前端大全】Node.js-项目拆包工程化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555898&idx=2&sn=01c50d5f35e3ac1ef84e9672c754a7a9#wechat_redirect)
@@ -563,6 +568,7 @@
 
 
 
+- [【前端早读课】【图书】学习JavaScript数据结构与算法-第3版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=2&sn=2be964451680acadaf592a85007a64cc#rd)
 - [【前端早读课】【图书】深入理解JavaScript特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=2&sn=25336abc599e84a8f9d586017969afe4#rd)
 - [【前端早读课】【第1610期】-JavaScript的环境模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=1&sn=2ec349dd8a919b1ef4400574c060b23a#rd)
 - [【前端早读课】【英】使用-Console-API变得更有创意!](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232207&idx=2&sn=4026dbb2ce5ff4895714875cc87a05b4#rd)
@@ -772,7 +778,9 @@
 - [【前端大全】你所不知道的-CSS-滤镜技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555025&idx=1&sn=3b4f9dfea7bc50e849cfe1c21424d881#wechat_redirect)
 - [【前端大全】不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect)
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
+- [【前端之巅】Serverless掀起新的前端技术变革](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491309&idx=1&sn=0506b5df5c69eb7e66d2ab532a047bbf#rd)
 - [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
+- [【张鑫旭-鑫空间-鑫生活】你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/)
 - [【张鑫旭-鑫空间-鑫生活】使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现文字下面波浪线动画效果](https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/)
 - [【张鑫旭-鑫空间-鑫生活】CSS滤镜和混合模式处理的图片如何上传下载？](https://www.zhangxinxu.com/wordpress/2019/04/save-css-filter-blend-mode-image/)
@@ -846,6 +854,7 @@
 - [【前端早读课】【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect)
 - [【前端早读课】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
+- [【前端大全】Nuxt-实现的-SSR-页面性能优化的进一步探索与实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556450&idx=1&sn=5504ce109065b11c5950ddb0d5c62f7c#rd)
 - [【前端大全】一次-Web-端大量图片同时加载卡顿问题的优化之旅](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556325&idx=1&sn=7d37f9f9298f700a1a0916c0e8544afb#rd)
 - [【前端大全】腾讯新闻前端团队：深入理解前端性能监控](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556204&idx=1&sn=df44f3ae42074728f5369afc6e9b79d2#rd)
 - [【前端大全】页面性能优化办法有哪些？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556178&idx=2&sn=27898fdf139259502a35c95a3fbf4474#rd)
@@ -983,6 +992,7 @@
 - [【前端大全】即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect)
 - [【前端大全】关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect)
 - [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
+- [【前端之巅】WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd)
 - [【前端之巅】我们用WebAssembly将Web-App速度提升了20倍！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490951&idx=1&sn=76139005000b6ac1d3f0282e36abf8c6#rd)
 - [【前端之巅】前端必备！最全nginx技术分析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490869&idx=1&sn=5260a9d9064456ac5472ddfa2d0be822#rd)
 - [【前端之巅】为什么说GraphQL可以取代REST-API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490309&idx=1&sn=ae433cdd36ed969894e20304c0dd5556#wechat_redirect)
@@ -1045,6 +1055,7 @@
 
 
 
+- [【前端早读课】【招聘】度小满有钱花前端团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd)
 - [【前端早读课】【招聘】阿里妈妈-MUX-急招资深前端开发（P6-及以上）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=2&sn=004fabd8090587b675f5b73776704ccf#rd)
 - [【前端早读课】4-年前端开发经验，面试被虐，结局逆转](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232195&idx=1&sn=1535ce389bab28a62d7bca6f6ec0846b#rd)
 - [【前端早读课】【招聘】厦门吉比特招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232184&idx=2&sn=df3f533c733415dfc91c96a9b8262bf9#rd)
@@ -1133,6 +1144,10 @@
 
 
 
+- [【前端早读课】【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd)
+- [【前端早读课】【第1619期】前端能力中台化之路—Fusion-Design-成长史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd)
+- [【前端早读课】【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd)
+- [【前端早读课】低效加班，也许正在毁掉你的技术成长黄金期](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=1&sn=6697184dfe347faa8614442223e579b7#rd)
 - [【前端早读课】BAT前端高级工程师年入50W，到底什么水平？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=1&sn=9a0e1175208d7b88fdc8e6e387f3aad9#rd)
 - [【前端早读课】【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd)
 - [【前端早读课】【第1612期】TypeScript-——-面向编辑器编程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=1&sn=15cddc2d46b67cb44d6c7144516d7d9d#rd)
@@ -1292,6 +1307,9 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】看完这篇，你也可以实现一个360度全景插件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=1&sn=bd096d6e729c4f7ea9aa7282e195be25#rd)
+- [【前端大全】面向对象：等风来，等雨停，等你出现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556439&idx=2&sn=6ca4fc9c552c922a0201d4e3935ca094#rd)
+- [【前端大全】来自-BAT-前端架构师的一封信](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=1&sn=b6191799af080da276c2057a3ef31e8d#rd)
 - [【前端大全】面向对象：希望你能牵着我的手，一直到白头，宠我一辈子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=2&sn=a6e28998a1976f0fc80c91d20e3e5bcc#rd)
 - [【前端大全】从-Mixin-到-HOC-再到-Hook](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=1&sn=50ffbe8b3c0b413b8319ddc17898e607#rd)
 - [【前端大全】滚动穿透问题探索](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=2&sn=37c90cdcdf0f9d6a0d14c98de85a4a6a#rd)
@@ -1484,6 +1502,7 @@
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
 - [【前端大全】面向对象：想和你去看晴空万里](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=2&sn=93cbb0491771989c770c3109cf5a4f8a#wechat_redirect)
+- [【前端之巅】学习Dart的10大理由](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491285&idx=1&sn=010c93f994da1b7d96a6eebb50cdc9d4#rd)
 - [【前端之巅】Jetpack-Compose开源：基于Kotlin的响应式编程方案，简化UI开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd)
 - [【前端之巅】Kotlin调查报告：40%开发者将其作为主编程语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491266&idx=1&sn=35a641761e62d3261439323bc0b2fbef#rd)
 - [【前端之巅】取代-Android？Fuchsia-要的是统一操作系统平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491261&idx=1&sn=5199432fc5c5c34e5863a299c2d4a4a7#rd)
