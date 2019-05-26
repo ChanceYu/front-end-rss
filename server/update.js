@@ -176,6 +176,10 @@ function handlerFeed(){
 let useLocalRSSHub = process.argv.indexOf('LOCAL_RSSHub') > -1 || process.argv.indexOf('--LOCAL_RSSHub') > -1
 function replaceRss(rss){
   if(!useLocalRSSHub) return rss
+
+  if(/rsshub\.app/.test(rss)){
+    console.log('https://rsshub.app ==> http://127.0.0.1:1200')
+  }
   
   return rss.replace('https://rsshub.app', 'http://127.0.0.1:1200')
 }
