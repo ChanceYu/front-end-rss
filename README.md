@@ -4,13 +4,13 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-27 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-27 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-05-27-【第1622期】-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=2&sn=8e5c0b6dd06c90fedb542f7557a9b21d#rd) ![](assets/new.png)  
-- [2019-05-27-做了3年前端还没有晋升，问题出在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=1&sn=3b24b2607b9a49273e1b086e49263785#rd) ![](assets/new.png)  
+- [2019-05-27-【第1622期】-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=2&sn=8e5c0b6dd06c90fedb542f7557a9b21d#rd)  
+- [2019-05-27-做了3年前端还没有晋升，问题出在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=1&sn=3b24b2607b9a49273e1b086e49263785#rd)  
 - [2019-05-26-【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd)  
 - [2019-05-25-【图书】学习JavaScript数据结构与算法-第3版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=2&sn=2be964451680acadaf592a85007a64cc#rd)  
 - [2019-05-25-【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-05-27-技术轮回，静态Web再度成为新趋势？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491334&idx=1&sn=f7b8c61eacfe53c26810106bddb6b1a8#rd) ![](assets/new.png)  
 - [2019-05-26-WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd)  
 - [2019-05-25-React不是真正的响应式编程，Svelte才是](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491314&idx=1&sn=a5f3e3bc66316917a29368650f2ccbc1#rd)  
 - [2019-05-24-Serverless掀起新的前端技术变革](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491309&idx=1&sn=0506b5df5c69eb7e66d2ab532a047bbf#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd)  
 - [2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd)  
 - [2019-04-30-Node.js对Java：一场史诗级的争夺开发者注意力的对决](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491136&idx=1&sn=e3ceb6f5b6b0323b1eee3d2bdd477261#rd)  
-- [2019-04-29-MPEG-DASH在bilibili的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491119&idx=1&sn=3754febf3ad3c383900385cc5d83b835#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
