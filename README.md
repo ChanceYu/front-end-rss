@@ -4,15 +4,15 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-28 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-29 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-05-29-【第1624期】HTML5：的ping属性之死亡ping与隐私追踪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=2&sn=81a6ff755ffe552b435bcf3f3360e836#rd) ![](assets/new.png)  
+- [2019-05-29-入门-webpack，看这视频就够了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=1&sn=2bfb49604df45c71b8cc8fd654b1106e#rd) ![](assets/new.png)  
 - [2019-05-28-【第1623期】30分钟让你掌握Git的黑魔法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd)  
 - [2019-05-27-【第1622期】-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=2&sn=8e5c0b6dd06c90fedb542f7557a9b21d#rd)  
 - [2019-05-27-做了3年前端还没有晋升，问题出在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=1&sn=3b24b2607b9a49273e1b086e49263785#rd)  
@@ -44,8 +46,6 @@
 - [2019-05-19-【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd)  
 - [2019-05-18-【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd)  
 - [2019-05-17-【第1612期】TypeScript-——-面向编辑器编程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=1&sn=15cddc2d46b67cb44d6c7144516d7d9d#rd)  
-- [2019-05-17-【活动】腾讯2019-TLC-众多技术大咖等你参会，早鸟票5折售卖中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232278&idx=2&sn=8b131150c9375729fae17f91c25dd4d6#rd)  
-- [2019-05-16-【招聘】阿里妈妈-MUX-急招资深前端开发（P6-及以上）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=2&sn=004fabd8090587b675f5b73776704ccf#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,7 +57,7 @@
 </summary>
 
 
-- [2019-05-28-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556458&idx=1&sn=777fa954624174f179bc5b1effa05ec7#rd) ![](assets/new.png)  
+- [2019-05-28-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556458&idx=1&sn=777fa954624174f179bc5b1effa05ec7#rd)  
 - [2019-05-27-项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556454&idx=1&sn=158a522da37c3c9fe068afe47244b834#rd)  
 - [2019-05-26-Nuxt-实现的-SSR-页面性能优化的进一步探索与实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556450&idx=1&sn=5504ce109065b11c5950ddb0d5c62f7c#rd)  
 - [2019-05-25-Vue-组件间通信六种方式（完整版）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556445&idx=1&sn=dee936663d7125cf8528b1315a5a93ba#rd)  
@@ -150,6 +150,7 @@
 </summary>
 
 
+- [2019-05-28-小tips:-如何借助content属性显示CSS-var变量值](https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/) ![](assets/new.png)  
 - [2019-05-28-深入理解CSS-mix-blend-mode滤色screen混合模式](https://www.zhangxinxu.com/wordpress/2019/05/css-mix-blend-mode-screen/)  
 - [2019-05-27-你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/)  
 - [2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/)  
@@ -169,7 +170,6 @@
 - [2019-02-02-写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/)  
 - [2019-01-31-写给自己看的CSS-columns分栏布局教程](https://www.zhangxinxu.com/wordpress/2019/01/css-css3-columns-layout/)  
 - [2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/)  
-- [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>

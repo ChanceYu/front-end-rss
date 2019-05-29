@@ -5,6 +5,16 @@
     "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
     "items": [
       {
+        "title": "【第1624期】HTML5：的ping属性之死亡ping与隐私追踪",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=2&sn=81a6ff755ffe552b435bcf3f3360e836#rd",
+        "date": "2019-05-29"
+      },
+      {
+        "title": "入门 webpack，看这视频就够了",
+        "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=1&sn=2bfb49604df45c71b8cc8fd654b1106e#rd",
+        "date": "2019-05-29"
+      },
+      {
         "title": "【第1623期】30分钟让你掌握Git的黑魔法",
         "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd",
         "date": "2019-05-28"
@@ -5567,6 +5577,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "小tips: 如何借助content属性显示CSS var变量值",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/",
+        "date": "2019-05-28"
+      },
       {
         "title": "深入理解CSS mix-blend-mode滤色screen混合模式",
         "link": "https://www.zhangxinxu.com/wordpress/2019/05/css-mix-blend-mode-screen/",

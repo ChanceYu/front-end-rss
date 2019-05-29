@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-05-28 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-05-29 08:00:20。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -55,6 +55,8 @@
 </summary>
 
 
+- [【前端早读课】2019-05-29-【第1624期】HTML5：的ping属性之死亡ping与隐私追踪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=2&sn=81a6ff755ffe552b435bcf3f3360e836#rd) 
+- [【前端早读课】2019-05-29-入门-webpack，看这视频就够了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=1&sn=2bfb49604df45c71b8cc8fd654b1106e#rd) 
 - [【前端早读课】2019-05-28-【第1623期】30分钟让你掌握Git的黑魔法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd) 
 - [【前端早读课】2019-05-27-【第1622期】-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=2&sn=8e5c0b6dd06c90fedb542f7557a9b21d#rd) 
 - [【前端早读课】2019-05-27-做了3年前端还没有晋升，问题出在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=1&sn=3b24b2607b9a49273e1b086e49263785#rd) 
@@ -154,6 +156,7 @@
 - [【前端之巅】2019-05-05-W3C-发布-WebXR-规范草案，用于开发沉浸式-Web-应用程序](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491176&idx=1&sn=873e1ed25ab610eb49326e62cae8037e#rd) 
 - [【前端之巅】2019-05-02-React-Native还没完！官方透露最新进展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491163&idx=1&sn=30efe8336da500847073e97b3a820791#rd) 
 - [【前端之巅】2019-05-01-2019年值得推荐的React可视化库](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491153&idx=1&sn=5bc1044f573ea84dff88bd09f0ba0d67#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-05-28-小tips:-如何借助content属性显示CSS-var变量值](https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-05-28-深入理解CSS-mix-blend-mode滤色screen混合模式](https://www.zhangxinxu.com/wordpress/2019/05/css-mix-blend-mode-screen/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-05-27-你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/) 
