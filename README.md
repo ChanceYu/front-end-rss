@@ -4,16 +4,16 @@
 
 根据 RSS 自动抓取 **最新前端技术** 文章链接，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-05-30 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-05-31 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-05-30-Angular重大版本升级：-8.0正式发布!支持更多Web标准](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491377&idx=1&sn=6c675a5270d32ef5dc170b901961adcd#rd) ![](assets/new.png)  
+- [2019-05-30-Angular重大版本升级：-8.0正式发布!支持更多Web标准](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491377&idx=1&sn=6c675a5270d32ef5dc170b901961adcd#rd)  
 - [2019-05-29-重磅开源！业内首个React-Native转微信小程序引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491371&idx=1&sn=3c2c53b36f8ce94570d27657a790d2c5#rd)  
 - [2019-05-28-作为前端，你真的会用webpack么？|-极客时间](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491352&idx=1&sn=62f7eab04b76d7d7d35dd28b5a14f0e4#rd)  
 - [2019-05-27-技术轮回，静态Web再度成为新趋势？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491334&idx=1&sn=f7b8c61eacfe53c26810106bddb6b1a8#rd)  
@@ -181,6 +181,7 @@
 </summary>
 
 
+- [2019-05-31-每周分享第-58-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html) ![](assets/new.png)  
 - [2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)  
 - [2019-05-17-每周分享第-56-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)  
 - [2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)  
@@ -200,7 +201,6 @@
 - [2019-03-15-每周分享第-47-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-47.html)  
 - [2019-03-08-每周分享第-46-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-46.html)  
 - [2019-03-06-敏捷开发入门教程](http://www.ruanyifeng.com/blog/2019/03/agile-development.html)  
-- [2019-03-01-每周分享第-45-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-45.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
