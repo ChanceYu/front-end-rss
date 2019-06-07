@@ -1,8 +1,17 @@
 :alarm_clock: 更新时间: <%= obj.currentDate %>。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
-<% _.each(obj.dataKeys, function(e){ %>
-- [<%= e %>](#<%= e %>) <% }) %>
+
+<table>
+<% _.each(obj.dataYears, function(year){  %>
+<tr>
+<th colspan="12"><%= year %>年</th>
+</tr>
+<tr><% _.each((new Array(12)), function(e, idx){ idx++; idx = idx < 10 ? ('0' + idx) : idx; var date = year + '-' + idx; %>
+<td><% if(obj.dataKeys.indexOf(date) > -1) { %><a href="#<%= date %>"><%= idx %>月</a><% } else { %><%= idx %>月<% } %></td><% }) %>
+</tr>
+<% }) %>
+</table>
 
 ## 文章链接
 <% _.each(obj.dataKeys, function(e){ %>

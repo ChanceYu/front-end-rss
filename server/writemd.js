@@ -79,11 +79,17 @@ function handlerTags(){
 
 function handlerTimeline(){
   let dataObj = {}
+  let dataYears = []
   let allLinks = utils.getLinksJson()
   
   allLinks.forEach((rss) => {
     rss.items.forEach((item) => {
+      let year = item.date.substr(0, 4)
       let date = item.date.substr(0, 7)
+
+      if(dataYears.indexOf(year) === -1){
+        dataYears.push(year)
+      }
 
       item.rssTitle = rss.title;
       dataObj[date] = dataObj[date] || []
@@ -99,6 +105,7 @@ function handlerTimeline(){
     currentDate: utils.getNowDate(),
     dataObj,
     formatTitle: utils.formatTitle,
+    dataYears,
     dataKeys: Object.keys(dataObj).sort().reverse()
   });
 
@@ -140,3 +147,6 @@ module.exports = function(newData){
   handlerTimeline()
   handlerDetails(newData)
 }
+
+
+handlerTimeline()
