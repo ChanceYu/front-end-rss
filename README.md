@@ -4,7 +4,7 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-07 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-08 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
@@ -12,8 +12,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -150,6 +150,7 @@
 </summary>
 
 
+- [2019-06-08-更好的纯CSS滚动指示器技术实现](https://www.zhangxinxu.com/wordpress/2019/06/better-css-scroll-indicator/) ![](assets/new.png)  
 - [2019-06-07-纯CSS图片滤镜项目CSSgram简介](https://www.zhangxinxu.com/wordpress/2019/06/css-filters-cssgram/)  
 - [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/)  
 - [2019-05-28-小tips:-如何借助content属性显示CSS-var变量值](https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/)  
@@ -169,7 +170,6 @@
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/)  
 - [2019-02-22-使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/)  
 - [2019-02-11-快速了解CSS新出的列选择符双管道（||）](https://www.zhangxinxu.com/wordpress/2019/02/css-column-combinator/)  
-- [2019-02-02-写给自己看的CSS-shapes布局教程](https://www.zhangxinxu.com/wordpress/2019/02/css-css3-shapes/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -181,7 +181,7 @@
 </summary>
 
 
-- [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html) ![](assets/new.png)  
+- [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)  
 - [2019-05-31-每周分享第-58-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)  
 - [2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)  

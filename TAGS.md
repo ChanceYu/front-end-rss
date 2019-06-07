@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-07 22:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-08 06:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -786,6 +786,7 @@
 - [【前端大全】CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect)
 - [【前端之巅】Serverless掀起新的前端技术变革](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491309&idx=1&sn=0506b5df5c69eb7e66d2ab532a047bbf#rd)
 - [【前端之巅】你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect)
+- [【张鑫旭-鑫空间-鑫生活】更好的纯CSS滚动指示器技术实现](https://www.zhangxinxu.com/wordpress/2019/06/better-css-scroll-indicator/)
 - [【张鑫旭-鑫空间-鑫生活】纯CSS图片滤镜项目CSSgram简介](https://www.zhangxinxu.com/wordpress/2019/06/css-filters-cssgram/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-如何借助content属性显示CSS-var变量值](https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/)
 - [【张鑫旭-鑫空间-鑫生活】深入理解CSS-mix-blend-mode滤色screen混合模式](https://www.zhangxinxu.com/wordpress/2019/05/css-mix-blend-mode-screen/)
