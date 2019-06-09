@@ -5593,6 +5593,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "FDCon2019大会分享之滤镜与混合模式实录",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/",
+        "date": "2019-06-10"
+      },
+      {
         "title": "第五届CSS大会主题分享之CSS创意与视觉表现",
         "link": "https://www.zhangxinxu.com/wordpress/2019/06/cssconf-css-idea/",
         "date": "2019-06-09"
@@ -6291,6 +6296,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "第二届微医前端技术沙龙【附PPT下载】",
+        "link": "http://www.yyyweb.com/5280.html",
+        "date": "2019-06-09"
+      },
+      {
+        "title": "Node 12 值得关注的新特性一览",
+        "link": "http://www.yyyweb.com/5279.html",
+        "date": "2019-06-09"
+      },
       {
         "title": "程序员到 CTO 再到 CEO 的进化之路",
         "link": "http://www.yyyweb.com/5276.html",
