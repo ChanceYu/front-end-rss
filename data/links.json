@@ -5945,6 +5945,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "响应式图像教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/06/responsive-images.html",
+        "date": "2019-06-10"
+      },
+      {
         "title": "每周分享第 59 期",
         "link": "http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html",
         "date": "2019-06-07"
