@@ -4,16 +4,16 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-10 22:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-12 08:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-06-12-【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd) ![](assets/new.png)  
+- [2019-06-12-【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd) ![](assets/new.png)  
 - [2019-05-30-【第1625期】-从原型图到成品：步步深入-CSS-布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232375&idx=1&sn=c69f5fa559be00b0af291b0853becd8d#rd)  
 - [2019-05-29-【第1624期】HTML5：的ping属性之死亡ping与隐私追踪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=2&sn=81a6ff755ffe552b435bcf3f3360e836#rd)  
 - [2019-05-29-入门-webpack，看这视频就够了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=1&sn=2bfb49604df45c71b8cc8fd654b1106e#rd)  
@@ -44,8 +46,6 @@
 - [2019-05-21-【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd)  
 - [2019-05-21-BAT前端高级工程师年入50W，到底什么水平？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=1&sn=9a0e1175208d7b88fdc8e6e387f3aad9#rd)  
 - [2019-05-20-【第1615期】React-Native-图表性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232294&idx=1&sn=c53bbd4f7f2143d1d68a64ca5decd205#rd)  
-- [2019-05-19-【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd)  
-- [2019-05-18-【第1614期】漫谈UED设计管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232290&idx=1&sn=bbc7900910bc5765c46482b3d805f1fe#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -181,7 +181,7 @@
 </summary>
 
 
-- [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html) ![](assets/new.png)  
+- [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
 - [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)  
 - [2019-05-31-每周分享第-58-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)  

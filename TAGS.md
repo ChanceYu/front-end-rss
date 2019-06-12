@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-10 22:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-12 08:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -143,6 +143,8 @@
 
 
 
+- [【前端早读课】【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)
+- [【前端早读课】【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd)
 - [【前端早读课】【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)
 - [【前端早读课】【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd)
 - [【前端早读课】【活动】6月8号，第三届Vue.js开发者大会上海见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232127&idx=2&sn=27b81b0bc897d5ab3f7fe39530dbe7cb#rd)
