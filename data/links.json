@@ -4329,6 +4329,11 @@
     "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
     "items": [
       {
+        "title": "Taro 1.3重磅发布：全面支持JSX语法和Hooks",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd",
+        "date": "2019-06-13"
+      },
+      {
         "title": "如何将Web主页性能提升十倍以上？",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd",
         "date": "2019-06-12"
@@ -6725,6 +6730,11 @@
     "title": "Aotu.io",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Taro 1.3 震撼升级：全面支持 JSX 语法和 HOOKS",
+        "link": "https://aotu.io/notes/2019/06/13/taro-1-3/",
+        "date": "2019-06-13"
+      },
       {
         "title": "小程序框架全面测评",
         "link": "https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/",

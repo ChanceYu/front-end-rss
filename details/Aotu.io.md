@@ -1,9 +1,9 @@
-:alarm_clock: 更新时间: 2019-03-13 12:00:22。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-13 18:00:17。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Aotu.io
 
+- [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 - [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
-- [2019-02-28-小程序框架全面测评](https://aotu.io/notes/2019/02/28/mini-program-framework-full-review/) 
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/) 
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-13 12:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-13 18:00:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -113,6 +113,7 @@
 - [【前端大全】2019-06-12-JavaScript-究竟是如何工作的？（第二部分）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=2&sn=20e0276e557ae3d28ececcb97aca63c4#rd) 
 - [【前端大全】2019-06-12-哪些技术在前端的地位会越来越高？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=1&sn=229f24a67ffb259f4cb1d302b4d45623#rd) 
 - [【前端大全】2019-06-12-面向对象：余生不愿将就，期待一生一世一双人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=2&sn=babd9358a2bca212d735b357b6a35237#rd) 
+- [【前端之巅】2019-06-13-Taro-1.3重磅发布：全面支持JSX语法和Hooks](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd) 
 - [【前端之巅】2019-06-12-如何将Web主页性能提升十倍以上？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd) 
 - [【张鑫旭-鑫空间-鑫生活】2019-06-10-FDCon2019大会分享之滤镜与混合模式实录](https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-06-09-第五届CSS大会主题分享之CSS创意与视觉表现](https://www.zhangxinxu.com/wordpress/2019/06/cssconf-css-idea/) 
@@ -124,6 +125,7 @@
 - [【阮一峰的网络日志】2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html) 
 - [【前端里】2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html) 
 - [【前端里】2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html) 
+- [【Aotu.io】2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
