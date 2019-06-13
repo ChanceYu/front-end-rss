@@ -4,19 +4,19 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-13 18:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-13 22:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu.io](#aotu.io)![](assets/dot.png)   
+- [Aotu.io](#aotu.io)  
 
 ## 文章链接
 
@@ -57,6 +57,7 @@
 </summary>
 
 
+- [2019-06-13-用-JS-开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556556&idx=1&sn=26f7c21d2ca3c341b5e23b6fc1927daa#rd) ![](assets/new.png)  
 - [2019-06-12-Firefox-和-Chrome-拼性能，结果……](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556552&idx=1&sn=a7faa286159a10d8d6b8f55774947714#rd)  
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd)  
 - [2019-06-12-JavaScript-究竟是如何工作的？（第二部分）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=2&sn=20e0276e557ae3d28ececcb97aca63c4#rd)  
@@ -76,7 +77,6 @@
 - [2019-05-20-都是-3-年前端，为什么结局截然不同？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=1&sn=37116f47c6901f649c36e3e0629aec4f#rd)  
 - [2019-05-19-关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556417&idx=1&sn=126a16a451ae3a9f6b7a89f2b4bfed63#rd)  
 - [2019-05-18-如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556410&idx=1&sn=d6cde3e32c354f9aae95cbfaa9d545e8#rd)  
-- [2019-05-18-面向对象：斯人若彩虹，遇上方知有](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556410&idx=2&sn=2d189f9e43289e663cbe2ed55f5390a8#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-06-13-Taro-1.3重磅发布：全面支持JSX语法和Hooks](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd) ![](assets/new.png)  
+- [2019-06-13-Taro-1.3重磅发布：全面支持JSX语法和Hooks](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd)  
 - [2019-06-12-如何将Web主页性能提升十倍以上？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd)  
 - [2019-05-30-Angular重大版本升级：-8.0正式发布!支持更多Web标准](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491377&idx=1&sn=6c675a5270d32ef5dc170b901961adcd#rd)  
 - [2019-05-29-重磅开源！业内首个React-Native转微信小程序引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491371&idx=1&sn=3c2c53b36f8ce94570d27657a790d2c5#rd)  
@@ -274,7 +274,7 @@
 </summary>
 
 
-- [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) ![](assets/new.png)  
+- [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)  
 - [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)  
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)  
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
