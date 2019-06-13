@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-13 08:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-13 12:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -143,6 +143,7 @@
 
 
 
+- [【前端早读课】前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd)
 - [【前端早读课】【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)
 - [【前端早读课】【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd)
 - [【前端早读课】【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)
@@ -1165,6 +1166,7 @@
 
 
 
+- [【前端早读课】【第1368期】详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc#rd)
 - [【前端早读课】【第1624期】HTML5：的ping属性之死亡ping与隐私追踪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=2&sn=81a6ff755ffe552b435bcf3f3360e836#rd)
 - [【前端早读课】做了3年前端还没有晋升，问题出在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=1&sn=3b24b2607b9a49273e1b086e49263785#rd)
 - [【前端早读课】【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd)

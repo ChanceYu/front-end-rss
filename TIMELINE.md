@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-13 08:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-13 12:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-06-13-【第1368期】详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc#rd) 
+- [【前端早读课】2019-06-13-前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd) 
 - [【前端早读课】2019-06-12-【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd) 
 - [【前端早读课】2019-06-12-【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd) 
 - [【前端大全】2019-06-12-Firefox-和-Chrome-拼性能，结果……](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556552&idx=1&sn=a7faa286159a10d8d6b8f55774947714#rd) 
