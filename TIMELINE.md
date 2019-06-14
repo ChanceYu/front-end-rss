@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-14 12:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-14 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -110,12 +110,15 @@
 - [【前端早读课】2019-06-13-前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd) 
 - [【前端早读课】2019-06-12-【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd) 
 - [【前端早读课】2019-06-12-【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd) 
+- [【前端大全】2019-06-14-尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=1&sn=087a10a6ab7f3544c852a765aa105c57#rd) 
+- [【前端大全】2019-06-14-面向对象：有趣的灵魂二百多斤？不不不，90斤足矣](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=2&sn=459c3c06e8d2e83079c5d56061187302#rd) 
 - [【前端大全】2019-06-13-用-JS-开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556556&idx=1&sn=26f7c21d2ca3c341b5e23b6fc1927daa#rd) 
 - [【前端大全】2019-06-12-Firefox-和-Chrome-拼性能，结果……](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556552&idx=1&sn=a7faa286159a10d8d6b8f55774947714#rd) 
 - [【前端大全】2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd) 
 - [【前端大全】2019-06-12-JavaScript-究竟是如何工作的？（第二部分）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=2&sn=20e0276e557ae3d28ececcb97aca63c4#rd) 
 - [【前端大全】2019-06-12-哪些技术在前端的地位会越来越高？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=1&sn=229f24a67ffb259f4cb1d302b4d45623#rd) 
 - [【前端大全】2019-06-12-面向对象：余生不愿将就，期待一生一世一双人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=2&sn=babd9358a2bca212d735b357b6a35237#rd) 
+- [【前端之巅】2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd) 
 - [【前端之巅】2019-06-13-Taro-1.3重磅发布：全面支持JSX语法和Hooks](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd) 
 - [【前端之巅】2019-06-12-如何将Web主页性能提升十倍以上？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd) 
 - [【张鑫旭-鑫空间-鑫生活】2019-06-10-FDCon2019大会分享之滤镜与混合模式实录](https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/) 

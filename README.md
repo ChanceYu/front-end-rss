@@ -4,16 +4,16 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-14 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-14 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -57,6 +57,8 @@
 </summary>
 
 
+- [2019-06-14-尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=1&sn=087a10a6ab7f3544c852a765aa105c57#rd) ![](assets/new.png)  
+- [2019-06-14-面向对象：有趣的灵魂二百多斤？不不不，90斤足矣](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=2&sn=459c3c06e8d2e83079c5d56061187302#rd) ![](assets/new.png)  
 - [2019-06-13-用-JS-开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556556&idx=1&sn=26f7c21d2ca3c341b5e23b6fc1927daa#rd)  
 - [2019-06-12-Firefox-和-Chrome-拼性能，结果……](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556552&idx=1&sn=a7faa286159a10d8d6b8f55774947714#rd)  
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd)  
@@ -75,8 +77,6 @@
 - [2019-05-21-从-Mixin-到-HOC-再到-Hook](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556421&idx=1&sn=50ffbe8b3c0b413b8319ddc17898e607#rd)  
 - [2019-05-20-滚动穿透问题探索](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=2&sn=37c90cdcdf0f9d6a0d14c98de85a4a6a#rd)  
 - [2019-05-20-都是-3-年前端，为什么结局截然不同？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556418&idx=1&sn=37116f47c6901f649c36e3e0629aec4f#rd)  
-- [2019-05-19-关于移动端适配，你必须要知道的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556417&idx=1&sn=126a16a451ae3a9f6b7a89f2b4bfed63#rd)  
-- [2019-05-18-如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556410&idx=1&sn=d6cde3e32c354f9aae95cbfaa9d545e8#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd) ![](assets/new.png)  
 - [2019-06-13-Taro-1.3重磅发布：全面支持JSX语法和Hooks](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd)  
 - [2019-06-12-如何将Web主页性能提升十倍以上？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd)  
 - [2019-05-30-Angular重大版本升级：-8.0正式发布!支持更多Web标准](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491377&idx=1&sn=6c675a5270d32ef5dc170b901961adcd#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-15-JS是语言界的平头哥](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491229&idx=1&sn=31c7cd62691ece2e8e3fe6f428b1e690#rd)  
 - [2019-05-13-2019年的Chrome和Web又有哪些新技术？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491211&idx=1&sn=b58a5d0b995e7b7cde3d03795e38c95e#rd)  
 - [2019-05-09-蚂蚁金服面对亿级并发场景的组件体系设计](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491201&idx=1&sn=df9b8406bcb9706edcc337f4908aacfe#rd)  
-- [2019-05-08-Flutter全平台制霸！新增Web和嵌入式目标平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491194&idx=1&sn=0c7b8e68bf80435ef614d5b8552625e5#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -181,7 +181,7 @@
 </summary>
 
 
-- [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html) ![](assets/new.png)  
+- [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
 - [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
 - [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)  
