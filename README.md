@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-14 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-15 08:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-06-15-【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd) ![](assets/new.png)  
+- [2019-06-15-【第1640期】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=1&sn=13470445c644c6e4d41326e458e9f3e3#rd) ![](assets/new.png)  
 - [2019-06-14-【第1639期】如何使用-JSDoc-保证你的-Javascript-类型安全性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=2&sn=f3b5abed35075c078002493ea555d667#rd)  
 - [2019-06-14-【活动】2019厦门大前端技术沙龙开始报名啦～](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=1&sn=b2193e4bffcac23c8e399b4ef6bc18d8#rd)  
 - [2019-06-13-【第1368期】详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc#rd)  
@@ -44,8 +46,6 @@
 - [2019-05-24-【招聘】度小满有钱花前端团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd)  
 - [2019-05-24-【第1619期】前端能力中台化之路—Fusion-Design-成长史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd)  
 - [2019-05-23-【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd)  
-- [2019-05-23-低效加班，也许正在毁掉你的技术成长黄金期](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=1&sn=6697184dfe347faa8614442223e579b7#rd)  
-- [2019-05-22-【图书】深入理解JavaScript特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=2&sn=25336abc599e84a8f9d586017969afe4#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-06-14-尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=1&sn=087a10a6ab7f3544c852a765aa105c57#rd) ![](assets/new.png)  
-- [2019-06-14-面向对象：有趣的灵魂二百多斤？不不不，90斤足矣](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=2&sn=459c3c06e8d2e83079c5d56061187302#rd) ![](assets/new.png)  
+- [2019-06-14-尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=1&sn=087a10a6ab7f3544c852a765aa105c57#rd)  
+- [2019-06-14-面向对象：有趣的灵魂二百多斤？不不不，90斤足矣](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=2&sn=459c3c06e8d2e83079c5d56061187302#rd)  
 - [2019-06-13-用-JS-开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556556&idx=1&sn=26f7c21d2ca3c341b5e23b6fc1927daa#rd)  
 - [2019-06-12-Firefox-和-Chrome-拼性能，结果……](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556552&idx=1&sn=a7faa286159a10d8d6b8f55774947714#rd)  
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd)  
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd) ![](assets/new.png)  
+- [2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd)  
 - [2019-06-13-Taro-1.3重磅发布：全面支持JSX语法和Hooks](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491478&idx=1&sn=30bfd87b6fb406abd74bed9acc87d76d#rd)  
 - [2019-06-12-如何将Web主页性能提升十倍以上？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd)  
 - [2019-05-30-Angular重大版本升级：-8.0正式发布!支持更多Web标准](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491377&idx=1&sn=6c675a5270d32ef5dc170b901961adcd#rd)  

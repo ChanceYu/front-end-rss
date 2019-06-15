@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-14 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-15 08:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -143,6 +143,7 @@
 
 
 
+- [【前端早读课】【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd)
 - [【前端早读课】前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd)
 - [【前端早读课】【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)
 - [【前端早读课】【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd)
@@ -353,6 +354,7 @@
 
 
 
+- [【前端早读课】【第1640期】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=1&sn=13470445c644c6e4d41326e458e9f3e3#rd)
 - [【前端早读课】【第1577期】小程序性能优化的几点实践技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=1&sn=ec6a9af65dc1804f281a4e7d1bde945a#rd)
 - [【前端早读课】【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd)
 - [【前端早读课】【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)
