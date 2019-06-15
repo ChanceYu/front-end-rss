@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-15 08:00:17。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-15 18:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -264,6 +264,7 @@
 - [【前端大全】Webpack-的-Bundle-Split-和-Code-Split-区别和应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555883&idx=1&sn=ad1a42c721377aa3a7faa1e603596d12#wechat_redirect)
 - [【前端大全】635000-个-npm-包中我应该用哪个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555577&idx=1&sn=ff4299529f3c2683d59a2ab192455e01#wechat_redirect)
 - [【前端大全】webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
+- [【前端之巅】前npm-CTO：JavaScript软件包管理未来是去除中心化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491504&idx=1&sn=0f15ed02a3fb4613ae91142dc1af23ae#rd)
 - [【前端之巅】作为前端，你真的会用webpack么？|-极客时间](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491352&idx=1&sn=62f7eab04b76d7d7d35dd28b5a14f0e4#rd)
 - [【前端之巅】pika开源：替代WebPack的全新JS构建工具](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490860&idx=1&sn=b74902a83874317b8cbd8dd7e682d146#rd)
 - [【前端之巅】你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect)
