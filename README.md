@@ -4,12 +4,12 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-16 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-16 08:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,6 +26,7 @@
 </summary>
 
 
+- [2019-06-16-【第1641期】异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232588&idx=1&sn=4c5f38120d3626d2dd5d766769f140be#rd) ![](assets/new.png)  
 - [2019-06-15-【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd)  
 - [2019-06-15-【第1640期】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=1&sn=13470445c644c6e4d41326e458e9f3e3#rd)  
 - [2019-06-14-【第1639期】如何使用-JSDoc-保证你的-Javascript-类型安全性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=2&sn=f3b5abed35075c078002493ea555d667#rd)  
@@ -45,7 +46,6 @@
 - [2019-05-25-【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)  
 - [2019-05-24-【招聘】度小满有钱花前端团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd)  
 - [2019-05-24-【第1619期】前端能力中台化之路—Fusion-Design-成长史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd)  
-- [2019-05-23-【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,7 +57,7 @@
 </summary>
 
 
-- [2019-06-15-详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556567&idx=1&sn=d60e32f69088ea566edd3fa74c893921#rd) ![](assets/new.png)  
+- [2019-06-15-详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556567&idx=1&sn=d60e32f69088ea566edd3fa74c893921#rd)  
 - [2019-06-14-尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=1&sn=087a10a6ab7f3544c852a765aa105c57#rd)  
 - [2019-06-14-面向对象：有趣的灵魂二百多斤？不不不，90斤足矣](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=2&sn=459c3c06e8d2e83079c5d56061187302#rd)  
 - [2019-06-13-用-JS-开发跨平台桌面应用，从原理到实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556556&idx=1&sn=26f7c21d2ca3c341b5e23b6fc1927daa#rd)  

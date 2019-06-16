@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-16 06:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-16 08:00:24。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 </summary>
 
 
+- [【前端早读课】2019-06-16-【第1641期】异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232588&idx=1&sn=4c5f38120d3626d2dd5d766769f140be#rd) 
 - [【前端早读课】2019-06-15-【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd) 
 - [【前端早读课】2019-06-15-【第1640期】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=1&sn=13470445c644c6e4d41326e458e9f3e3#rd) 
 - [【前端早读课】2019-06-14-【第1639期】如何使用-JSDoc-保证你的-Javascript-类型安全性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=2&sn=f3b5abed35075c078002493ea555d667#rd) 

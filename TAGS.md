@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-16 06:00:21。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-16 08:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1174,6 +1174,7 @@
 
 
 
+- [【前端早读课】【第1641期】异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232588&idx=1&sn=4c5f38120d3626d2dd5d766769f140be#rd)
 - [【前端早读课】【活动】2019厦门大前端技术沙龙开始报名啦～](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=1&sn=b2193e4bffcac23c8e399b4ef6bc18d8#rd)
 - [【前端早读课】【第1368期】详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc#rd)
 - [【前端早读课】【第1624期】HTML5：的ping属性之死亡ping与隐私追踪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232373&idx=2&sn=81a6ff755ffe552b435bcf3f3360e836#rd)
