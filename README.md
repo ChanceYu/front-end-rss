@@ -4,12 +4,12 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-17 06:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-17 08:00:19，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,6 +26,8 @@
 </summary>
 
 
+- [2019-06-17-【视频】Intro-to-VuePress-1.x](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232590&idx=2&sn=eba0487babdb768b0cffa9fa8cb2a157#rd) ![](assets/new.png)  
+- [2019-06-17-【第1642期】Vue组件库工程探索与实践之按需加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232590&idx=1&sn=48c479da96139a63cc3f8e934fda8205#rd) ![](assets/new.png)  
 - [2019-06-16-【第1641期】异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232588&idx=1&sn=4c5f38120d3626d2dd5d766769f140be#rd)  
 - [2019-06-15-【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd)  
 - [2019-06-15-【第1640期】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=1&sn=13470445c644c6e4d41326e458e9f3e3#rd)  
@@ -44,8 +46,6 @@
 - [2019-05-26-【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd)  
 - [2019-05-25-【图书】学习JavaScript数据结构与算法-第3版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=2&sn=2be964451680acadaf592a85007a64cc#rd)  
 - [2019-05-25-【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)  
-- [2019-05-24-【招聘】度小满有钱花前端团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=2&sn=0b887150b0ffa4e23231ff564f5e3b7a#rd)  
-- [2019-05-24-【第1619期】前端能力中台化之路—Fusion-Design-成长史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232331&idx=1&sn=0ecb6355c8755755af599c06c564c034#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-06-16-Chrome-承诺不削弱广告屏蔽功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556577&idx=2&sn=a1fb7f1d5e53e3a566664fddd5047387#rd) ![](assets/new.png)  
-- [2019-06-16-程序员的家庭套装](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556577&idx=1&sn=270e808517ba30256425990f7e098833#rd) ![](assets/new.png)  
+- [2019-06-16-Chrome-承诺不削弱广告屏蔽功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556577&idx=2&sn=a1fb7f1d5e53e3a566664fddd5047387#rd)  
+- [2019-06-16-程序员的家庭套装](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556577&idx=1&sn=270e808517ba30256425990f7e098833#rd)  
 - [2019-06-15-详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556567&idx=1&sn=d60e32f69088ea566edd3fa74c893921#rd)  
 - [2019-06-14-尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=1&sn=087a10a6ab7f3544c852a765aa105c57#rd)  
 - [2019-06-14-面向对象：有趣的灵魂二百多斤？不不不，90斤足矣](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556563&idx=2&sn=459c3c06e8d2e83079c5d56061187302#rd)  
