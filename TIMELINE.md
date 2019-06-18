@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-18 12:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-18 22:00:29。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -132,6 +132,7 @@
 - [【前端大全】2019-06-12-JavaScript-究竟是如何工作的？（第二部分）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=2&sn=20e0276e557ae3d28ececcb97aca63c4#rd) 
 - [【前端大全】2019-06-12-哪些技术在前端的地位会越来越高？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=1&sn=229f24a67ffb259f4cb1d302b4d45623#rd) 
 - [【前端大全】2019-06-12-面向对象：余生不愿将就，期待一生一世一双人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=2&sn=babd9358a2bca212d735b357b6a35237#rd) 
+- [【前端之巅】2019-06-18-Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd) 
 - [【前端之巅】2019-06-17-大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491517&idx=1&sn=dd1c4c13438a8b19928f92fcb91da26d#rd) 
 - [【前端之巅】2019-06-15-前npm-CTO：JavaScript软件包管理未来是去除中心化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491504&idx=1&sn=0f15ed02a3fb4613ae91142dc1af23ae#rd) 
 - [【前端之巅】2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd) 

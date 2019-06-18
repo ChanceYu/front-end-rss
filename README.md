@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-18 12:00:28，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-18 22:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -57,10 +57,10 @@
 </summary>
 
 
-- [2019-06-18-2019年超火的Web教程，看完弄懂，工资少说加5K](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556579&idx=1&sn=19eaafe817a2160c0ae9899863aa1521#rd) ![](assets/new.png)  
-- [2019-06-18-异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556585&idx=2&sn=5d990ffef8fb10e01e7133f22bc57c91#rd) ![](assets/new.png)  
-- [2019-06-18-送你-43-道-JS-面试题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556579&idx=2&sn=5080067ff2f1a76d52f645fad4b45dae#rd) ![](assets/new.png)  
-- [2019-06-18-学会了Vue，前端面试却没找到工作？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556585&idx=1&sn=57fb51797a83fe25c33b6e18d4d65f1b#rd) ![](assets/new.png)  
+- [2019-06-18-2019年超火的Web教程，看完弄懂，工资少说加5K](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556579&idx=1&sn=19eaafe817a2160c0ae9899863aa1521#rd)  
+- [2019-06-18-异常处理，"try..catch"](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556585&idx=2&sn=5d990ffef8fb10e01e7133f22bc57c91#rd)  
+- [2019-06-18-送你-43-道-JS-面试题](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556579&idx=2&sn=5080067ff2f1a76d52f645fad4b45dae#rd)  
+- [2019-06-18-学会了Vue，前端面试却没找到工作？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556585&idx=1&sn=57fb51797a83fe25c33b6e18d4d65f1b#rd)  
 - [2019-06-16-Chrome-承诺不削弱广告屏蔽功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556577&idx=2&sn=a1fb7f1d5e53e3a566664fddd5047387#rd)  
 - [2019-06-16-程序员的家庭套装](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556577&idx=1&sn=270e808517ba30256425990f7e098833#rd)  
 - [2019-06-15-详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556567&idx=1&sn=d60e32f69088ea566edd3fa74c893921#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-06-18-Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd) ![](assets/new.png)  
 - [2019-06-17-大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491517&idx=1&sn=dd1c4c13438a8b19928f92fcb91da26d#rd)  
 - [2019-06-15-前npm-CTO：JavaScript软件包管理未来是去除中心化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491504&idx=1&sn=0f15ed02a3fb4613ae91142dc1af23ae#rd)  
 - [2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-18-取代-Android？Fuchsia-要的是统一操作系统平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491261&idx=1&sn=5199432fc5c5c34e5863a299c2d4a4a7#rd)  
 - [2019-05-17-框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd)  
 - [2019-05-16-专访Yorkie：JavaScript如何开发IoT应用？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491238&idx=1&sn=3446cac0a77cbc1c014205d5478815b9#rd)  
-- [2019-05-15-JS是语言界的平头哥](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491229&idx=1&sn=31c7cd62691ece2e8e3fe6f428b1e690#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
