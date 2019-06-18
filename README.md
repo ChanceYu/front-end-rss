@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-18 22:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-19 06:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,6 +26,7 @@
 </summary>
 
 
+- [2019-06-19-【第1644期】RGB、HSL、Hex网页色彩，看完这篇全懂了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232609&idx=1&sn=770f364532e85fc7e1cf70b664b4b4c5#rd) ![](assets/new.png)  
 - [2019-06-18-【第1643期】自定义错误及扩展错误](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232599&idx=1&sn=19d13fdf7faf2475d80fc4a895f87ff6#rd)  
 - [2019-06-18-【视频】使用Vue实现0代码交互](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232599&idx=2&sn=84c7d1babdd9f4a04f7aba54848079a0#rd)  
 - [2019-06-17-【视频】Intro-to-VuePress-1.x](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232590&idx=2&sn=eba0487babdb768b0cffa9fa8cb2a157#rd)  
@@ -45,7 +46,6 @@
 - [2019-05-28-【第1623期】30分钟让你掌握Git的黑魔法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd)  
 - [2019-05-27-【第1622期】-在-React-组件中使用-Refs-指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=2&sn=8e5c0b6dd06c90fedb542f7557a9b21d#rd)  
 - [2019-05-27-做了3年前端还没有晋升，问题出在哪里？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232353&idx=1&sn=3b24b2607b9a49273e1b086e49263785#rd)  
-- [2019-05-26-【第1621期】长夜未央——企业级研发提效的下一阶段](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232346&idx=1&sn=b28ef0635452fbee2fe72007299b3875#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-06-18-Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd) ![](assets/new.png)  
+- [2019-06-18-Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd)  
 - [2019-06-17-大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491517&idx=1&sn=dd1c4c13438a8b19928f92fcb91da26d#rd)  
 - [2019-06-15-前npm-CTO：JavaScript软件包管理未来是去除中心化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491504&idx=1&sn=0f15ed02a3fb4613ae91142dc1af23ae#rd)  
 - [2019-06-14-开发者吐槽：谷歌引入Web新标准的方式过于专横](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491487&idx=1&sn=a2ff6b7881e6affbd10fea50ed21c804#rd)  
