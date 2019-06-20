@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-20 08:00:20。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-20 18:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -438,6 +438,7 @@
 - [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
+- [【前端之巅】重磅！Flutter-2019年最新进展和未来展望](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491541&idx=1&sn=774717a029004863f60b78763514c743#rd)
 - [【前端之巅】Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd)
 - [【前端之巅】Flutter全平台制霸！新增Web和嵌入式目标平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491194&idx=1&sn=0c7b8e68bf80435ef614d5b8552625e5#rd)
 - [【前端之巅】移动开发十周年：开源节流，创造新生态](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491051&idx=1&sn=ec6a3e543c543d1f4288295aa1712d37#rd)
