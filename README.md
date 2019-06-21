@@ -4,16 +4,16 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-21 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-21 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-06-21-玉伯：从前端到体验，如何把格局做大](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491552&idx=1&sn=044da1b480812638510cc84d71402e27#rd) ![](assets/new.png)  
 - [2019-06-20-重磅！Flutter-2019年最新进展和未来展望](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491541&idx=1&sn=774717a029004863f60b78763514c743#rd)  
 - [2019-06-19-如何正确选型，React-Native还是Native？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491534&idx=1&sn=d5696703827ec874e7251c3b63681dd2#rd)  
 - [2019-06-18-Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-22-学习Dart的10大理由](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491285&idx=1&sn=010c93f994da1b7d96a6eebb50cdc9d4#rd)  
 - [2019-05-21-Jetpack-Compose开源：基于Kotlin的响应式编程方案，简化UI开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd)  
 - [2019-05-20-Kotlin调查报告：40%开发者将其作为主编程语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491266&idx=1&sn=35a641761e62d3261439323bc0b2fbef#rd)  
-- [2019-05-18-取代-Android？Fuchsia-要的是统一操作系统平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491261&idx=1&sn=5199432fc5c5c34e5863a299c2d4a4a7#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -181,7 +181,7 @@
 </summary>
 
 
-- [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html) ![](assets/new.png)  
+- [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)  
 - [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
 - [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
 - [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
