@@ -4,16 +4,16 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-21 08:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-21 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-06-21-【视频】探索Web编程的另一种形态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=2&sn=dd0bf6cf6a5515fd2506e1d02f76277a#rd) ![](assets/new.png)  
-- [2019-06-21-【第1646期】-Webpack-应用瘦身](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=1&sn=5d2568489afa99de6a51f61e0939ff9c#rd) ![](assets/new.png)  
+- [2019-06-21-【视频】探索Web编程的另一种形态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=2&sn=dd0bf6cf6a5515fd2506e1d02f76277a#rd)  
+- [2019-06-21-【第1646期】-Webpack-应用瘦身](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=1&sn=5d2568489afa99de6a51f61e0939ff9c#rd)  
 - [2019-06-20-【第1645期】useHooks~小窍门](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232617&idx=1&sn=dc230ec49783a93282157303740ddb75#rd)  
 - [2019-06-19-【第1644期】RGB、HSL、Hex网页色彩，看完这篇全懂了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232609&idx=1&sn=770f364532e85fc7e1cf70b664b4b4c5#rd)  
 - [2019-06-18-【第1643期】自定义错误及扩展错误](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232599&idx=1&sn=19d13fdf7faf2475d80fc4a895f87ff6#rd)  
@@ -181,6 +181,7 @@
 </summary>
 
 
+- [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html) ![](assets/new.png)  
 - [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
 - [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
 - [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
@@ -200,7 +201,6 @@
 - [2019-04-04-OAuth-2.0-的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
 - [2019-03-29-每周分享第-49-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-49.html)  
 - [2019-03-25-Grid-布局教程](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)  
-- [2019-03-22-每周分享第-48-期](http://www.ruanyifeng.com/blog/2019/03/weekly-issue-48.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
