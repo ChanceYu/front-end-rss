@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-22 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-22 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,7 +26,7 @@
 </summary>
 
 
-- [2019-06-22-【PPT】张鑫旭：工作10年，我在前端专业成长路上的探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232739&idx=1&sn=ac7799e4cc4153b9edb1b611a5212504#rd) ![](assets/new.png)  
+- [2019-06-22-【PPT】张鑫旭：工作10年，我在前端专业成长路上的探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232739&idx=1&sn=ac7799e4cc4153b9edb1b611a5212504#rd)  
 - [2019-06-21-【视频】探索Web编程的另一种形态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=2&sn=dd0bf6cf6a5515fd2506e1d02f76277a#rd)  
 - [2019-06-21-【第1646期】-Webpack-应用瘦身](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=1&sn=5d2568489afa99de6a51f61e0939ff9c#rd)  
 - [2019-06-20-【第1645期】useHooks~小窍门](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232617&idx=1&sn=dc230ec49783a93282157303740ddb75#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-06-22-构建大型React应用程序的最佳实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491566&idx=1&sn=d116a7932eceff6a66d338e7d7c9319e#rd) ![](assets/new.png)  
 - [2019-06-21-玉伯：从前端到体验，如何把格局做大](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491552&idx=1&sn=044da1b480812638510cc84d71402e27#rd)  
 - [2019-06-20-重磅！Flutter-2019年最新进展和未来展望](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491541&idx=1&sn=774717a029004863f60b78763514c743#rd)  
 - [2019-06-19-如何正确选型，React-Native还是Native？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491534&idx=1&sn=d5696703827ec874e7251c3b63681dd2#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-23-Vuex3.1.1更新：支持jsDelivr，修复内存泄漏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491294&idx=1&sn=e874d10197e56e961418da3d175ef48b#rd)  
 - [2019-05-22-学习Dart的10大理由](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491285&idx=1&sn=010c93f994da1b7d96a6eebb50cdc9d4#rd)  
 - [2019-05-21-Jetpack-Compose开源：基于Kotlin的响应式编程方案，简化UI开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491278&idx=1&sn=909687371a3d8a515af73a270345b92a#rd)  
-- [2019-05-20-Kotlin调查报告：40%开发者将其作为主编程语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491266&idx=1&sn=35a641761e62d3261439323bc0b2fbef#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
