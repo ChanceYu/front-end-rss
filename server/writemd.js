@@ -147,6 +147,3 @@ module.exports = function(newData){
   handlerTimeline()
   handlerDetails(newData)
 }
-
-
-handlerTimeline()
