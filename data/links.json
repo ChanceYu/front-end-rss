@@ -5848,6 +5848,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "DOMParser和XMLSerializer两个API简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/",
+        "date": "2019-06-23"
+      },
+      {
         "title": "详细介绍HTML favicon尺寸 格式 制作等相关知识",
         "link": "https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/",
         "date": "2019-06-15"

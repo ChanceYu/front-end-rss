@@ -4,15 +4,15 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-23 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-24 06:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-06-23-面向对象：往后余生，希望是对的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556620&idx=2&sn=bfee2cd2d755fece11e7c39e2cb72736#rd) ![](assets/new.png)  
-- [2019-06-23-JetBrains-发布-2019-年-JS-调查报告](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556620&idx=1&sn=7c744d194ffd26489e92a7a8df51c6f5#rd) ![](assets/new.png)  
+- [2019-06-23-面向对象：往后余生，希望是对的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556620&idx=2&sn=bfee2cd2d755fece11e7c39e2cb72736#rd)  
+- [2019-06-23-JetBrains-发布-2019-年-JS-调查报告](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556620&idx=1&sn=7c744d194ffd26489e92a7a8df51c6f5#rd)  
 - [2019-06-22-你真的掌握变量和类型了吗](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556606&idx=1&sn=2afdfac3ab49e1f77880047710c600f6#rd)  
 - [2019-06-20-Javascript-面试核心考点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556598&idx=1&sn=8cd3e87302b6fe39376f40a5dd19dc49#rd)  
 - [2019-06-19-Vue+Node+高德地图+Echart做一款出行可视化全栈webapp](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556589&idx=1&sn=c90b04503006996ee31174ae555d7419#rd)  
@@ -150,6 +150,7 @@
 </summary>
 
 
+- [2019-06-23-DOMParser和XMLSerializer两个API简介](https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/) ![](assets/new.png)  
 - [2019-06-15-详细介绍HTML-favicon尺寸-格式-制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/)  
 - [2019-06-10-FDCon2019大会分享之滤镜与混合模式实录](https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/)  
 - [2019-06-09-第五届CSS大会主题分享之CSS创意与视觉表现](https://www.zhangxinxu.com/wordpress/2019/06/cssconf-css-idea/)  
@@ -169,7 +170,6 @@
 - [2019-03-24-CSS-:focus-visible伪类让我感动哭了](https://www.zhangxinxu.com/wordpress/2019/03/css-focus-visible/)  
 - [2019-03-11-伪类匹配列表数目实现微信群头像CSS布局的技巧](https://www.zhangxinxu.com/wordpress/2019/03/nth-last-child-css-layout/)  
 - [2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/)  
-- [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
