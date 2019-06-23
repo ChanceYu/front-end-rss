@@ -12,8 +12,8 @@
     "keywords": "TypeScript"
   },
   {
-    "tag": "Webpack、NPM等相关",
-    "keywords": "Webpack|Lerna|Rollup|NPM|NPX|Yarn|Gulp|Grunt|Babel|ESLint|TSLint"
+    "tag": "Webpack、NPM、构建相关",
+    "keywords": "Webpack|Lerna|Rollup|NPM|NPX|Yarn|Gulp|Grunt|Babel|ESLint|TSLint|构建"
   },
   {
     "tag": "NodeJS",
@@ -24,8 +24,8 @@
     "keywords": "小程序|Taro|MPVue|Wepy|Chameleon"
   },
   {
-    "tag": "移动开发、PWA等相关",
-    "keywords": "PWA|Flutter|移动开发"
+    "tag": "移动开发、Flutter相关",
+    "keywords": "Flutter|PWA|移动开发"
   },
   {
     "tag": "游戏开发",
@@ -37,10 +37,10 @@
   },
   {
     "tag": "CSS",
-    "keywords": "CSS|Sass|Less|scale|transform|transition|animation|border|background|font-weight|font-face|flex|display|position|动画"
+    "keywords": "CSS|Sass|Less|scale|transform|transition|animation|border|background|font-weight|font-face|flex|display|position|居中|动画"
   },
   {
-    "tag": "Canvas、SVG、图像、音视频等相关",
+    "tag": "Canvas、SVG、图像、音视频相关",
     "keywords": "Canvas|SVG|WebGL|WebVR|WebRTC|3D|PNG|WebP|RGB|GUI|Video|Audio|图像|音频|视频|直播|摄像头|播放器"
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "tag": "浏览器相关",
-    "keywords": "Chrome|Chromium|IE|Firefox|Safari|Webkit|Edge|WebSocket|GET|POST|CORS|URL|浏览器|调试|缓存|跨域|请求|状态码|重绘|重排|渲染"
+    "keywords": "Chrome|Chromium|IE|Firefox|Safari|Webkit|Edge|WebSocket|GET|POST|CORS|URL|浏览器|调试|缓存|跨域|请求|安全|状态码|重绘|重排|渲染"
   },
   {
     "tag": "前端进阶相关",
@@ -57,7 +57,7 @@
   },
   {
     "tag": "服务端相关",
-    "keywords": "Nginx|Docker|GraphQL|Rest|gRPC"
+    "keywords": "Nginx|Docker|GraphQL|REST|gRPC"
   },
   {
     "tag": "Git、SVN",
@@ -66,6 +66,10 @@
   {
     "tag": "招聘面试",
     "keywords": "招聘|面试"
+  },
+  {
+    "tag": "面向对象❤️",
+    "keywords": "面向对象："
   },
   {
     "tag": "其它",
