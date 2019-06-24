@@ -4,15 +4,15 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-24 06:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-24 08:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -26,6 +26,9 @@
 </summary>
 
 
+- [2019-06-24-【视频】Vue-驱动的小程序+H5同构开发框架](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232784&idx=3&sn=69467f7f24551a8824986066334047a8#rd) ![](assets/new.png)  
+- [2019-06-24-【第1648期】前端迷茫怎么办？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232784&idx=2&sn=9cdc23a467e6304b50e098da4e433f8c#rd) ![](assets/new.png)  
+- [2019-06-24-2019年最火的前端教程，看完弄懂，工资少说加5K](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232784&idx=1&sn=0f8da0b6d310d814716ee2ec75b84f70#rd) ![](assets/new.png)  
 - [2019-06-23-【第1647期】-理解-WebView](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=2&sn=58f51be214289d25d8350d8656b80460#rd)  
 - [2019-06-23-【PPT】美团@吴熙辰：榛果⼩小程序性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=1&sn=685db485a45180a5eef90e0b4a553f21#rd)  
 - [2019-06-22-【PPT】张鑫旭：工作10年，我在前端专业成长路上的探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232739&idx=1&sn=ac7799e4cc4153b9edb1b611a5212504#rd)  
@@ -43,9 +46,6 @@
 - [2019-06-14-【第1639期】如何使用-JSDoc-保证你的-Javascript-类型安全性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=2&sn=f3b5abed35075c078002493ea555d667#rd)  
 - [2019-06-14-【活动】2019厦门大前端技术沙龙开始报名啦～](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232576&idx=1&sn=b2193e4bffcac23c8e399b4ef6bc18d8#rd)  
 - [2019-06-13-【第1368期】详解三次握手和四次挥手：遇到心动的女孩时，如何去把握？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=2&sn=12fff848b62439f0281d24cdc190e2bc#rd)  
-- [2019-06-13-前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd)  
-- [2019-06-12-【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)  
-- [2019-06-12-【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -150,7 +150,7 @@
 </summary>
 
 
-- [2019-06-23-DOMParser和XMLSerializer两个API简介](https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/) ![](assets/new.png)  
+- [2019-06-23-DOMParser和XMLSerializer两个API简介](https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/)  
 - [2019-06-15-详细介绍HTML-favicon尺寸-格式-制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/)  
 - [2019-06-10-FDCon2019大会分享之滤镜与混合模式实录](https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/)  
 - [2019-06-09-第五届CSS大会主题分享之CSS创意与视觉表现](https://www.zhangxinxu.com/wordpress/2019/06/cssconf-css-idea/)  
