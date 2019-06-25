@@ -6245,6 +6245,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "为什么开源数据库改变许可证？",
+        "link": "http://www.ruanyifeng.com/blog/2019/06/open-database-relicensing.html",
+        "date": "2019-06-25"
+      },
+      {
         "title": "科技爱好者周刊：第 61 期",
         "link": "http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html",
         "date": "2019-06-21"
