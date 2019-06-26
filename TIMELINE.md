@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-26 08:00:14。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-26 18:00:28。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -173,6 +173,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-06-08-更好的纯CSS滚动指示器技术实现](https://www.zhangxinxu.com/wordpress/2019/06/better-css-scroll-indicator/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-06-07-纯CSS图片滤镜项目CSSgram简介](https://www.zhangxinxu.com/wordpress/2019/06/css-filters-cssgram/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/) 
+- [【阮一峰的网络日志】2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html) 
 - [【阮一峰的网络日志】2019-06-25-为什么开源数据库改变许可证？](http://www.ruanyifeng.com/blog/2019/06/open-database-relicensing.html) 
 - [【阮一峰的网络日志】2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html) 
 - [【阮一峰的网络日志】2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html) 

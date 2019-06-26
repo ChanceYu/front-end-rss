@@ -6265,6 +6265,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "远程调试 Android 设备网页",
+        "link": "http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html",
+        "date": "2019-06-26"
+      },
+      {
         "title": "为什么开源数据库改变许可证？",
         "link": "http://www.ruanyifeng.com/blog/2019/06/open-database-relicensing.html",
         "date": "2019-06-25"
