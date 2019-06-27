@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-06-27 18:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-27 22:00:32。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -716,6 +716,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】为什么说Web开发的未来在于组件？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491609&idx=1&sn=7a938c718665a13527ba4aecbd9f7fa7#rd)
 - [【前端之巅】专访Yorkie：JavaScript如何开发IoT应用？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491238&idx=1&sn=3446cac0a77cbc1c014205d5478815b9#rd)
 - [【前端之巅】JS是语言界的平头哥](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491229&idx=1&sn=31c7cd62691ece2e8e3fe6f428b1e690#rd)
 - [【前端之巅】蚂蚁金服面对亿级并发场景的组件体系设计](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491201&idx=1&sn=df9b8406bcb9706edcc337f4908aacfe#rd)

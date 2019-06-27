@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-27 18:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-27 22:00:32。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -158,6 +158,7 @@
 - [【前端大全】2019-06-12-JavaScript-究竟是如何工作的？（第二部分）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=2&sn=20e0276e557ae3d28ececcb97aca63c4#rd) 
 - [【前端大全】2019-06-12-哪些技术在前端的地位会越来越高？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556546&idx=1&sn=229f24a67ffb259f4cb1d302b4d45623#rd) 
 - [【前端大全】2019-06-12-面向对象：余生不愿将就，期待一生一世一双人](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=2&sn=babd9358a2bca212d735b357b6a35237#rd) 
+- [【前端之巅】2019-06-27-为什么说Web开发的未来在于组件？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491609&idx=1&sn=7a938c718665a13527ba4aecbd9f7fa7#rd) 
 - [【前端之巅】2019-06-26-阿里圆心：前端路上的思考](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491590&idx=1&sn=0e804dfbb6034cd5870ce8acd0f6c18b#rd) 
 - [【前端之巅】2019-06-25-独家解读：淘宝TypeScript多场景开发和实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491580&idx=1&sn=bdc430ab303a12d3fe3eb01281445e93#rd) 
 - [【前端之巅】2019-06-24-npm已落伍，下一代包管理器Tink正在孵化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491575&idx=1&sn=85cc01f9056e00c65c8bfc12249930a3#rd) 

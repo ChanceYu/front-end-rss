@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-27 18:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-27 22:00:32，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -57,8 +57,8 @@
 </summary>
 
 
-- [2019-06-27-自定义错误及扩展错误](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556641&idx=2&sn=bc37739a33daf1e6f1a88158a63200df#rd) ![](assets/new.png)  
-- [2019-06-27-一个-8-岁的“前端老人”](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556641&idx=1&sn=1340ac203da077bf903e1ce941ae6a62#rd) ![](assets/new.png)  
+- [2019-06-27-自定义错误及扩展错误](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556641&idx=2&sn=bc37739a33daf1e6f1a88158a63200df#rd)  
+- [2019-06-27-一个-8-岁的“前端老人”](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556641&idx=1&sn=1340ac203da077bf903e1ce941ae6a62#rd)  
 - [2019-06-26-RGB、HSL、Hex网页色彩，看完这篇全懂了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556638&idx=1&sn=7459511a8c7642075bfe8468230b51ad#rd)  
 - [2019-06-25-20-个让你效率更高的-CSS-代码技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556625&idx=1&sn=19efebb3ee628f1bae96377166d16dff#rd)  
 - [2019-06-24-React：useHooks小窍门](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556621&idx=1&sn=a8bb700716f31b709b9e285b3b6e06c6#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-06-27-为什么说Web开发的未来在于组件？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491609&idx=1&sn=7a938c718665a13527ba4aecbd9f7fa7#rd) ![](assets/new.png)  
 - [2019-06-26-阿里圆心：前端路上的思考](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491590&idx=1&sn=0e804dfbb6034cd5870ce8acd0f6c18b#rd)  
 - [2019-06-25-独家解读：淘宝TypeScript多场景开发和实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491580&idx=1&sn=bdc430ab303a12d3fe3eb01281445e93#rd)  
 - [2019-06-24-npm已落伍，下一代包管理器Tink正在孵化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491575&idx=1&sn=85cc01f9056e00c65c8bfc12249930a3#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-28-作为前端，你真的会用webpack么？|-极客时间](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491352&idx=1&sn=62f7eab04b76d7d7d35dd28b5a14f0e4#rd)  
 - [2019-05-27-技术轮回，静态Web再度成为新趋势？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491334&idx=1&sn=f7b8c61eacfe53c26810106bddb6b1a8#rd)  
 - [2019-05-26-WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd)  
-- [2019-05-25-React不是真正的响应式编程，Svelte才是](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491314&idx=1&sn=a5f3e3bc66316917a29368650f2ccbc1#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
