@@ -1,7 +1,8 @@
-:alarm_clock: 更新时间: 2019-03-15 18:00:17。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-06-28 22:00:18。[文章来源](../README.md)、[文章分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JDC-|-京东设计中心
 
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
