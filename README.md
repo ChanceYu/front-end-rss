@@ -4,16 +4,16 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-28 08:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-28 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,7 +26,7 @@
 </summary>
 
 
-- [2019-06-28-【第1652期】编写更好的-JavaScript-条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4#rd) ![](assets/new.png)  
+- [2019-06-28-【第1652期】编写更好的-JavaScript-条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4#rd)  
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd)  
 - [2019-06-27-【活动】小游戏开发专场@2019厦门大前端技术沙龙之](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=1&sn=b59350089ad0b5614d03dc5a2285895d#rd)  
 - [2019-06-26-【第1650期】使用-Media-Query-检测设备-Reduced-Motion-设置](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=1&sn=e8374615ebd03af6d40ee2cf360ba14a#rd)  
@@ -181,6 +181,7 @@
 </summary>
 
 
+- [2019-06-28-科技爱好者周刊：第-62-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html) ![](assets/new.png)  
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html)  
 - [2019-06-25-为什么开源数据库改变许可证？](http://www.ruanyifeng.com/blog/2019/06/open-database-relicensing.html)  
 - [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)  
@@ -200,7 +201,6 @@
 - [2019-04-12-每周分享第-51-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)  
 - [2019-04-09-OAuth-2.0-的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)  
 - [2019-04-05-每周分享第-50-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-50.html)  
-- [2019-04-04-OAuth-2.0-的一个简单解释](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
