@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-06-29 12:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-06-29 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-06-29-【第1653期】探索Vue的业务模块化设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=2&sn=b35327fb62acb91c9dd5a93d407ca26f#rd) ![](assets/new.png)  
-- [2019-06-29-拿不到offer全额退款|妙味10年权威WEB前端高级课程招生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=1&sn=a1a5c9dbab2c0c2cccef8dee98602660#rd) ![](assets/new.png)  
+- [2019-06-29-【第1653期】探索Vue的业务模块化设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=2&sn=b35327fb62acb91c9dd5a93d407ca26f#rd)  
+- [2019-06-29-拿不到offer全额退款|妙味10年权威WEB前端高级课程招生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=1&sn=a1a5c9dbab2c0c2cccef8dee98602660#rd)  
 - [2019-06-28-【第1652期】编写更好的-JavaScript-条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4#rd)  
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd)  
 - [2019-06-27-【活动】小游戏开发专场@2019厦门大前端技术沙龙之](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=1&sn=b59350089ad0b5614d03dc5a2285895d#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-06-29-0.3s完成渲染！UC信息流正文“闪开”优化实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491635&idx=1&sn=b7c6b17e9fdcd9477cd918517ba2ccc4#rd) ![](assets/new.png)  
 - [2019-06-28-JS规范又双叒要更新了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491622&idx=1&sn=eb3ee28eb59acabfdb9595f0ab774c57#rd)  
 - [2019-06-27-为什么说Web开发的未来在于组件？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491609&idx=1&sn=7a938c718665a13527ba4aecbd9f7fa7#rd)  
 - [2019-06-26-阿里圆心：前端路上的思考](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491590&idx=1&sn=0e804dfbb6034cd5870ce8acd0f6c18b#rd)  
@@ -107,7 +108,6 @@
 - [2019-05-30-Angular重大版本升级：-8.0正式发布!支持更多Web标准](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491377&idx=1&sn=6c675a5270d32ef5dc170b901961adcd#rd)  
 - [2019-05-29-重磅开源！业内首个React-Native转微信小程序引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491371&idx=1&sn=3c2c53b36f8ce94570d27657a790d2c5#rd)  
 - [2019-05-28-作为前端，你真的会用webpack么？|-极客时间](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491352&idx=1&sn=62f7eab04b76d7d7d35dd28b5a14f0e4#rd)  
-- [2019-05-27-技术轮回，静态Web再度成为新趋势？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491334&idx=1&sn=f7b8c61eacfe53c26810106bddb6b1a8#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
