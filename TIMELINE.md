@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-06-29 18:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-06-30 12:00:13。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 </summary>
 
 
+- [【前端早读课】2019-06-30-【第1654期】NPM的经济风云（上）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232865&idx=1&sn=07cf7013871e09eab04e45b65d30912b#rd) 
 - [【前端早读课】2019-06-29-【第1653期】探索Vue的业务模块化设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=2&sn=b35327fb62acb91c9dd5a93d407ca26f#rd) 
 - [【前端早读课】2019-06-29-拿不到offer全额退款|妙味10年权威WEB前端高级课程招生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=1&sn=a1a5c9dbab2c0c2cccef8dee98602660#rd) 
 - [【前端早读课】2019-06-28-【第1652期】编写更好的-JavaScript-条件式和匹配条件的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232822&idx=1&sn=f951b63d46cbcefa6652c11cfa2335a4#rd) 
