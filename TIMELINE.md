@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-05 08:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-05 12:00:18。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -120,6 +120,7 @@
 - [【前端之巅】2019-07-03-启动耗时降低30%！腾讯在线教育小程序开发实践与优化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491665&idx=1&sn=0647f77f9c4521552e89e0c1b7e5a84a#rd) 
 - [【前端之巅】2019-07-02-360高级前端架构师Hax贺师俊：前端开发编程语言的过去、现在和未来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491656&idx=1&sn=f14655cc11fe59fc5164f4f4fa6b0f74#rd) 
 - [【前端之巅】2019-07-01-2019年JavaScript性能优化解析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491653&idx=1&sn=34b1509d2001fe840e229c174d8bc8c1#rd) 
+- [【阮一峰的网络日志】2019-07-05-科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
