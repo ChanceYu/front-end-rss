@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-07 08:00:15。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-07 18:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1712,6 +1712,7 @@
 - [【前端大全】2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect)
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
+- [【前端之巅】前端夜话：聊聊前端工程师的成长和发展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491714&idx=1&sn=a63b4e36c321b628197da8356d899f41#rd)
 - [【前端之巅】绕过技术纷争，哪些技术决定前端开发者的未来？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491704&idx=1&sn=95ad66f7fe606801cdac74e296a41783#rd)
 - [【前端之巅】360高级前端架构师Hax贺师俊：前端开发编程语言的过去、现在和未来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491656&idx=1&sn=f14655cc11fe59fc5164f4f4fa6b0f74#rd)
 - [【前端之巅】winter-程劭非：我在阿里是如何做到-P8-水平的？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491640&idx=1&sn=df6e57a9b0663b770445d94e8aed4d24#rd)

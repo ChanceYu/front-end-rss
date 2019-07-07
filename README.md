@@ -4,13 +4,13 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-07-07 08:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-07 18:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-07-07-【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd) ![](assets/new.png)  
-- [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) ![](assets/new.png)  
+- [2019-07-07-【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd)  
+- [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd)  
 - [2019-07-06-【招聘】用友云平台大前端团队急聘前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232966&idx=2&sn=376bb77915b89fa87506d0b8a86a15c1#rd)  
 - [2019-07-06-【第1660期】-Diff-ECMAScript®-2019](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232966&idx=1&sn=0c934404ecdcfa8a4fb93be51117de10#rd)  
 - [2019-07-05-【第1659期】-垃圾回收](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232955&idx=2&sn=66780a65a4b940788336573074a8dd78#rd)  
@@ -88,6 +88,7 @@
 </summary>
 
 
+- [2019-07-07-前端夜话：聊聊前端工程师的成长和发展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491714&idx=1&sn=a63b4e36c321b628197da8356d899f41#rd) ![](assets/new.png)  
 - [2019-07-06-绕过技术纷争，哪些技术决定前端开发者的未来？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491704&idx=1&sn=95ad66f7fe606801cdac74e296a41783#rd)  
 - [2019-07-05-大前端开发者，如何用Flutter制霸全平台？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491701&idx=1&sn=96969ba02fce4244e1372d73687d0532#rd)  
 - [2019-07-04-逃离JavaScript，TypeScript成新宠](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491687&idx=1&sn=2d0c5286c006f6dbf7f1b60cfeb4a962#rd)  
@@ -107,7 +108,6 @@
 - [2019-06-20-重磅！Flutter-2019年最新进展和未来展望](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491541&idx=1&sn=774717a029004863f60b78763514c743#rd)  
 - [2019-06-19-如何正确选型，React-Native还是Native？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491534&idx=1&sn=d5696703827ec874e7251c3b63681dd2#rd)  
 - [2019-06-18-Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd)  
-- [2019-06-17-大前端时代下的微前端架构：实现增量升级、代码解耦、独立部署](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491517&idx=1&sn=dd1c4c13438a8b19928f92fcb91da26d#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
