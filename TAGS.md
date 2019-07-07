@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-07 18:00:26。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-07 22:00:22。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1005,6 +1005,7 @@
 - [【Taobao-FED-|-淘宝前端团队】WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/)
 - [【Taobao-FED-|-淘宝前端团队】G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](http://taobaofed.org/blog/2018/03/05/intro-to-g3d/)
 - [【Taobao-FED-|-淘宝前端团队】GCanvas-渲染引擎介绍](http://taobaofed.org/blog/2017/07/27/gcanvas/)
+- [【张鑫旭-鑫空间-鑫生活】HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/)
 - [【张鑫旭-鑫空间-鑫生活】如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/)
 - [【张鑫旭-鑫空间-鑫生活】从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/)
 - [【张鑫旭-鑫空间-鑫生活】HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/)
@@ -1117,6 +1118,7 @@
 - [【前端早读课】【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect)
 - [【前端早读课】【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect)
 - [【前端早读课】【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect)
+- [【前端大全】Chrome-浏览器对于网络隐私控制作出重大改变](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556702&idx=1&sn=bfec7f696fcbcefe7035f6e0a2e05414#rd)
 - [【前端大全】浏览器渲染基本原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556698&idx=1&sn=bf3b26e9bd7f572e10347c47676040c3#rd)
 - [【前端大全】Chrome-开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556694&idx=1&sn=be1cfbad136fb30c0e9ca60e1f0ece5f#rd)
 - [【前端大全】GeckoView：Mozilla面向移动浏览器打造的渲染引擎](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556689&idx=1&sn=17216abb1b767a680314cc9ea10123e0#rd)

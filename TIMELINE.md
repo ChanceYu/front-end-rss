@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-07 18:00:26。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-07 22:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -116,6 +116,7 @@
 - [【前端早读课】2019-07-02-【第1656期】精读《Vue3.0-Function-API》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=2&sn=12ef569f8e77adcc561595b38715a46e#rd) 
 - [【前端早读课】2019-07-02-一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd) 
 - [【前端早读课】2019-07-01-【第1655期】零基础的小明要如何成为前端工程师？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232867&idx=1&sn=e83b93d0293cc30a70248236994b5cd2#rd) 
+- [【前端大全】2019-07-07-Chrome-浏览器对于网络隐私控制作出重大改变](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556702&idx=1&sn=bfec7f696fcbcefe7035f6e0a2e05414#rd) 
 - [【前端大全】2019-07-06-浏览器渲染基本原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556698&idx=1&sn=bf3b26e9bd7f572e10347c47676040c3#rd) 
 - [【前端大全】2019-07-05-面向对象：期待让我眼前一亮的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556694&idx=2&sn=00d85abeacf93f37a86d521e5cdd2930#rd) 
 - [【前端大全】2019-07-05-Chrome-开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556694&idx=1&sn=be1cfbad136fb30c0e9ca60e1f0ece5f#rd) 
@@ -130,6 +131,7 @@
 - [【前端之巅】2019-07-03-启动耗时降低30%！腾讯在线教育小程序开发实践与优化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491665&idx=1&sn=0647f77f9c4521552e89e0c1b7e5a84a#rd) 
 - [【前端之巅】2019-07-02-360高级前端架构师Hax贺师俊：前端开发编程语言的过去、现在和未来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491656&idx=1&sn=f14655cc11fe59fc5164f4f4fa6b0f74#rd) 
 - [【前端之巅】2019-07-01-2019年JavaScript性能优化解析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491653&idx=1&sn=34b1509d2001fe840e229c174d8bc8c1#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-07-07-HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/) 
 - [【阮一峰的网络日志】2019-07-05-科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -2487,6 +2487,11 @@
     "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
     "items": [
       {
+        "title": "Chrome 浏览器对于网络隐私控制作出重大改变",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556702&idx=1&sn=bfec7f696fcbcefe7035f6e0a2e05414#rd",
+        "date": "2019-07-07"
+      },
+      {
         "title": "浏览器渲染基本原理解析",
         "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556698&idx=1&sn=bf3b26e9bd7f572e10347c47676040c3#rd",
         "date": "2019-07-06"
@@ -6117,6 +6122,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "HTML audio基础API完全使用指南",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/",
+        "date": "2019-07-07"
+      },
       {
         "title": "DOMParser和XMLSerializer两个API简介",
         "link": "https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/",
