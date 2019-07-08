@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-07 22:00:22。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-08 18:00:21。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-07-08-最近，前端又火了哪些技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=1&sn=5812d6fc476e9d3dc6f0f07e4011c046#rd) 
+- [【前端早读课】2019-07-08-【第1662期】编写有弹性的组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=2&sn=478ad570ca669df68d40fa8e29664b40#rd) 
 - [【前端早读课】2019-07-07-【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd) 
 - [【前端早读课】2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) 
 - [【前端早读课】2019-07-06-【招聘】用友云平台大前端团队急聘前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232966&idx=2&sn=376bb77915b89fa87506d0b8a86a15c1#rd) 
