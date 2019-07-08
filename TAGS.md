@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-08 22:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-09 06:00:24。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1859,6 +1859,8 @@
 - [【阮一峰的网络日志】每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html)
 - [【阮一峰的网络日志】每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html)
 - [【阮一峰的网络日志】命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html)
+- [【前端里】技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html)
+- [【前端里】微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html)
 - [【前端里】第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)
 - [【前端里】程序员到-CTO-再到-CEO-的进化之路](http://www.yyyweb.com/5276.html)
 - [【前端里】高效秘籍：五个最佳的GTD应用软件](http://www.yyyweb.com/5271.html)

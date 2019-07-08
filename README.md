@@ -4,17 +4,17 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-07-08 22:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-09 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
 
@@ -57,7 +57,7 @@
 </summary>
 
 
-- [2019-07-08-JavaScript-常见的六种继承方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556712&idx=1&sn=07ba3fd6e255210763f39a0bb6922a40#rd) ![](assets/new.png)  
+- [2019-07-08-JavaScript-常见的六种继承方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556712&idx=1&sn=07ba3fd6e255210763f39a0bb6922a40#rd)  
 - [2019-07-07-Chrome-浏览器对于网络隐私控制作出重大改变](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556702&idx=1&sn=bfec7f696fcbcefe7035f6e0a2e05414#rd)  
 - [2019-07-06-浏览器渲染基本原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556698&idx=1&sn=bf3b26e9bd7f572e10347c47676040c3#rd)  
 - [2019-07-05-面向对象：期待让我眼前一亮的你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556694&idx=2&sn=00d85abeacf93f37a86d521e5cdd2930#rd)  
@@ -88,7 +88,7 @@
 </summary>
 
 
-- [2019-07-08-从成长角度看，前端工程师应该去大公司还是小公司？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491726&idx=1&sn=4a49cd0ac971b0454d93bc8a7f4868ac#rd) ![](assets/new.png)  
+- [2019-07-08-从成长角度看，前端工程师应该去大公司还是小公司？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491726&idx=1&sn=4a49cd0ac971b0454d93bc8a7f4868ac#rd)  
 - [2019-07-07-前端夜话：聊聊前端工程师的成长和发展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491714&idx=1&sn=a63b4e36c321b628197da8356d899f41#rd)  
 - [2019-07-06-绕过技术纷争，哪些技术决定前端开发者的未来？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491704&idx=1&sn=95ad66f7fe606801cdac74e296a41783#rd)  
 - [2019-07-05-大前端开发者，如何用Flutter制霸全平台？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491701&idx=1&sn=96969ba02fce4244e1372d73687d0532#rd)  
@@ -212,6 +212,8 @@
 </summary>
 
 
+- [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html) ![](assets/new.png)  
+- [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html) ![](assets/new.png)  
 - [2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)  
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html)  
 - [2019-04-21-程序员到-CTO-再到-CEO-的进化之路](http://www.yyyweb.com/5276.html)  
@@ -230,8 +232,6 @@
 - [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)  
 - [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html)  
 - [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html)  
-- [2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html)  
-- [2018-12-12-持续交付：如何在2周内交付85%以上需求？](http://www.yyyweb.com/5210.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
