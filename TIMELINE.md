@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-10 22:00:15。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-11 08:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-07-11-【第1665期】-精读《Monorepo-的优势》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=2&sn=eb2242ed17eb4ef9e4f75f9acbc6ba73#rd) 
+- [【前端早读课】2019-07-11-1年时间，年薪增加10万，前端小兵的我是如何做到的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=1&sn=6087aa0986c9162fe6aaaa1933f7da33#rd) 
 - [【前端早读课】2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd) 
 - [【前端早读课】2019-07-10-【第1664期】Vue组件库工程探索与实践之单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=1&sn=79605b3c4baa61e0d2570a778c7deb0b#rd) 
 - [【前端早读课】2019-07-09-【招聘】北京Ptmind招资深-Web-前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233006&idx=2&sn=d8c227077c53b15dcffdeea306551ff9#rd) 
