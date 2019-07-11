@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-11 18:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-11 22:00:25。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -135,6 +135,7 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-11-全球JavaScript开发者薪酬统计出炉！最高年薪超10万美金](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491752&idx=1&sn=42c10c681b216ad22ab0d8394eb5a7d3#rd) 
 - [【前端之巅】2019-07-10-Lodash库爆出严重安全漏洞，波及400万+项目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491738&idx=1&sn=d1888686f621b281c56fd4942e86f5d0#rd) 
 - [【前端之巅】2019-07-09-编写Vue.js组件前需要知道的10件事](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491732&idx=1&sn=fb1d6b8ebe315407d303f2eac86807bd#rd) 
 - [【前端之巅】2019-07-08-从成长角度看，前端工程师应该去大公司还是小公司？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491726&idx=1&sn=4a49cd0ac971b0454d93bc8a7f4868ac#rd) 
