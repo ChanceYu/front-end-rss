@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-11 08:00:16。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-11 18:00:23。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -138,6 +138,7 @@
 - [【Taobao-FED-|-淘宝前端团队】Rax-系列教程（上手）](http://taobaofed.org/blog/2018/01/18/rax-in-action/)
 - [【JDC-|-京东设计中心】【译】React-优化：虚拟-DOM-详解](https://jdc.jd.com/archives/212685)
 - [【JDC-|-京东设计中心】【译】使用React和HTML5表单验证API处理表单元素](https://jdc.jd.com/archives/212629)
+- [【Aotu.io】使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)
 - [【Aotu.io】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)
 - [【Aotu.io】为何我们要用-React-来写小程序---Taro-诞生记](https://aotu.io/notes/2018/06/25/the-birth-of-taro/)
 - [【Aotu.io】Nerv实战---京东首页改版小结](https://aotu.io/notes/2018/04/24/jdindex_2017/)
@@ -483,6 +484,8 @@
 - [【JDC-|-京东设计中心】微信小程序·云开发初体验](https://jdc.jd.com/archives/212791)
 - [【JDC-|-京东设计中心】快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779)
 - [【JDC-|-京东设计中心】小程序实战总结](https://jdc.jd.com/archives/212697)
+- [【Aotu.io】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
+- [【Aotu.io】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [【Aotu.io】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
 - [【Aotu.io】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
 - [【Aotu.io】Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)

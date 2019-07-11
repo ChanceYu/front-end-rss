@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-11 08:00:16。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-11 18:00:23。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,6 +149,8 @@
 - [【阮一峰的网络日志】2019-07-05-科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html) 
 - [【前端里】2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html) 
 - [【前端里】2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html) 
+- [【Aotu.io】2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/) 
+- [【Aotu.io】2019-07-01-邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -256,6 +258,7 @@
 - [【前端里】2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html) 
 - [【前端里】2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html) 
 - [【JDC-|-京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+- [【Aotu.io】2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/) 
 - [【Aotu.io】2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
