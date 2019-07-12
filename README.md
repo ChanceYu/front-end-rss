@@ -4,16 +4,16 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-07-12 08:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-12 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu.io](#aotu.io)  
@@ -26,8 +26,8 @@
 </summary>
 
 
-- [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) ![](assets/new.png)  
-- [2019-07-12-【第1666期】2019年JavaScript性能开销](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=1&sn=58487317958644a980807d19afe3cdf0#rd) ![](assets/new.png)  
+- [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd)  
+- [2019-07-12-【第1666期】2019年JavaScript性能开销](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=1&sn=58487317958644a980807d19afe3cdf0#rd)  
 - [2019-07-11-【第1665期】-精读《Monorepo-的优势》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=2&sn=eb2242ed17eb4ef9e4f75f9acbc6ba73#rd)  
 - [2019-07-11-1年时间，年薪增加10万，前端小兵的我是如何做到的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=1&sn=6087aa0986c9162fe6aaaa1933f7da33#rd)  
 - [2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd)  
@@ -181,6 +181,7 @@
 </summary>
 
 
+- [2019-07-12-科技爱好者周刊：第-64-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html) ![](assets/new.png)  
 - [2019-07-05-科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)  
 - [2019-06-28-科技爱好者周刊：第-62-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)  
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html)  
@@ -200,7 +201,6 @@
 - [2019-04-19-每周分享第-52-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html)  
 - [2019-04-15-如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html)  
 - [2019-04-12-每周分享第-51-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)  
-- [2019-04-09-OAuth-2.0-的四种方式](http://www.ruanyifeng.com/blog/2019/04/oauth-grant-types.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
