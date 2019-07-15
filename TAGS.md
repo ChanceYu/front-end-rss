@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-12 12:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-15 22:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1023,6 +1023,7 @@
 - [【张鑫旭-鑫空间-鑫生活】从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/)
 - [【张鑫旭-鑫空间-鑫生活】HandBrake乃Web-MP4视频免费压缩工具不二之选](https://www.zhangxinxu.com/wordpress/2018/12/handbrake-web-mp4-video-compress/)
 - [【张鑫旭-鑫空间-鑫生活】搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
+- [【阮一峰的网络日志】iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)
 - [【阮一峰的网络日志】响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)
 - [【阮一峰的网络日志】一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html)
 - [【前端里】再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)

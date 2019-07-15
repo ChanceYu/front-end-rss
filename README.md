@@ -4,7 +4,7 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-07-12 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-15 22:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
@@ -181,7 +181,8 @@
 </summary>
 
 
-- [2019-07-12-科技爱好者周刊：第-64-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html) ![](assets/new.png)  
+- [2019-07-15-iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html) ![](assets/new.png)  
+- [2019-07-12-科技爱好者周刊：第-64-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)  
 - [2019-07-05-科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)  
 - [2019-06-28-科技爱好者周刊：第-62-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)  
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html)  
@@ -200,7 +201,6 @@
 - [2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html)  
 - [2019-04-19-每周分享第-52-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-52.html)  
 - [2019-04-15-如何用网页脚本追踪用户](http://www.ruanyifeng.com/blog/2019/04/user-tracking.html)  
-- [2019-04-12-每周分享第-51-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-51.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
