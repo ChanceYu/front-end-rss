@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-15 22:00:29。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-19 06:00:14。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1805,6 +1805,7 @@
 - [【Taobao-FED-|-淘宝前端团队】活用-Shader，让你的页面更小，更炫，更快](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/)
 - [【Taobao-FED-|-淘宝前端团队】淘宝技术部-2018-实习生内部推荐启动啦](http://taobaofed.org/blog/2018/02/27/2018-intern-recruitment/)
 - [【Taobao-FED-|-淘宝前端团队】LevelDB-实现分析](http://taobaofed.org/blog/2017/07/05/leveldb-analysis/)
+- [【张鑫旭-鑫空间-鑫生活】HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/)
 - [【张鑫旭-鑫空间-鑫生活】详细介绍HTML-favicon尺寸-格式-制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/)
 - [【张鑫旭-鑫空间-鑫生活】FDCon2019大会分享之滤镜与混合模式实录](https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/)
