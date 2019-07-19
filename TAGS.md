@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-19 06:00:14。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-19 12:00:25。[文章来源](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 文章分类
 
@@ -1813,6 +1813,7 @@
 - [【张鑫旭-鑫空间-鑫生活】数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
+- [【阮一峰的网络日志】科技爱好者周刊：第-65-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)
 - [【阮一峰的网络日志】科技爱好者周刊：第-64-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)
 - [【阮一峰的网络日志】科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)
 - [【阮一峰的网络日志】科技爱好者周刊：第-62-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)
