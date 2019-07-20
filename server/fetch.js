@@ -41,7 +41,7 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
       let timer = setTimeout(() => {
         if(!finished){
           finished = true
-          fetchOne(index+1);
+          fetchOne(index+1, resolve);
         }
       }, 20000);
     
