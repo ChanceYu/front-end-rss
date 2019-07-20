@@ -40,11 +40,13 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
       let finished = false;
       let timer = setTimeout(() => {
         if(!finished){
+          console.log(utils.getNowDate() + ' - 超时 RSS: ' + rss);
           finished = true
           fetchOne(index+1, resolve);
         }
       }, 20000);
     
+      console.log(utils.getNowDate() + ' - 开始 RSS: ' + rss);
       parser.parseURL(replaceRss(rss), function(err, feed) {
         if(finished) return;
         finished = true;
@@ -111,6 +113,7 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
         linksJson[index] = jsonItem
         
         if(done){
+          console.log(utils.getNowDate() + ' - 完成 RSS: ' + rss);
           callDone();
         }else{
           fetchOne(index+1, resolve);
