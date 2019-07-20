@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="assets/rss.gif" /><h1>Front-End RSS</h1></div>
+<div align="center"><img width="100" src="assets/rss.gif" /><h1>Front-End RSS</h1><p>点击右上角 <strong>Watch</strong> 订阅最新文章</p></div>
 
 > 项目初衷：每天定时抓取 RSS 源的最新前端技术文章，并推送到 GitHub，方便阅读查看。
 
