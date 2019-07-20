@@ -1,11 +1,47 @@
 [
-  "https://rsshub.app/jike/topic/5848cace8a16f9001084a79d",
-  "https://rsshub.app/jike/topic/5874f264fe0e0e00154b8ddc",
-  "https://rsshub.app/jike/topic/584942202b1d080011fc1f13",
-  "http://taobaofed.org/atom.xml",
-  "https://www.zhangxinxu.com/wordpress/feed/",
-  "http://www.ruanyifeng.com/blog/atom.xml",
-  "http://www.yyyweb.com/feed",
-  "http://jdc.jd.com/feed",
-  "https://aotu.io/atom.xml"
+  {
+    "title": "前端早读课",
+    "rss": [
+      "https://rsshub.app/jike/topic/5848cace8a16f9001084a79d",
+      "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801"
+    ]
+  },
+  {
+    "title": "前端大全",
+    "rss": [
+      "https://rsshub.app/jike/topic/5874f264fe0e0e00154b8ddc",
+      "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815"
+    ]
+  },
+  {
+    "title": "前端之巅",
+    "rss": [
+      "https://rsshub.app/jike/topic/584942202b1d080011fc1f13",
+      "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd"
+    ]
+  },
+  {
+    "title": "Taobao-FED-|-淘宝前端团队",
+    "rss": "http://taobaofed.org/atom.xml"
+  },
+  {
+    "title": "张鑫旭-鑫空间-鑫生活",
+    "rss": "https://www.zhangxinxu.com/wordpress/feed/"
+  },
+  {
+    "title": "阮一峰的网络日志",
+    "rss": "http://www.ruanyifeng.com/blog/atom.xml"
+  },
+  {
+    "title": "前端里",
+    "rss": "http://www.yyyweb.com/feed"
+  },
+  {
+    "title": "JDC-|-京东设计中心",
+    "rss": "http://jdc.jd.com/feed"
+  },
+  {
+    "title": "Aotu凹凸实验室",
+    "rss": "https://aotu.io/atom.xml"
+  }
 ]
