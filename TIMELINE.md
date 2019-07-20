@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-20 19:35:32。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-20 20:15:36。[文章来源](./README.md)、[文章分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 </summary>
 
 
+- [【前端早读课】2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233097&amp;idx=1&amp;sn=d1c229f51cec8ee8079f88035efa3f11&amp;chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037#rd) 
 - [【前端早读课】2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233097&amp;idx=2&amp;sn=5d999500cfc34737e08ab70c31b0bd6c&amp;chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c#rd) 
 - [【前端早读课】2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
 - [【前端早读课】2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) 
@@ -128,8 +129,8 @@
 - [【前端早读课】2019-07-02-【第1656期】精读《Vue3.0-Function-API》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=2&sn=12ef569f8e77adcc561595b38715a46e#rd) 
 - [【前端早读课】2019-07-02-一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd) 
 - [【前端早读课】2019-07-01-【第1655期】零基础的小明要如何成为前端工程师？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232867&idx=1&sn=e83b93d0293cc30a70248236994b5cd2#rd) 
-- [【前端大全】2019-07-19-关于裸辞，关于前端面试](https://juejin.im/post/5cf3365ff265da1b9612ec78) 
-- [【前端大全】2019-07-17-Chrome-开发者工具的各种骚技巧](https://juejin.im/post/5af53823f265da0b75282b0f) 
+- [【前端大全】2019-07-19-关于裸辞，关于前端面试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651556766&amp;idx=1&amp;sn=ff9bce90ba181b1371296e11942cd7e4&amp;chksm=80255c5fb752d5493ca5f656e385dd4a855d65d6983a7c976124d94e8b2c1763e0825794bef1#rd) 
+- [【前端大全】2019-07-17-Chrome-开发者工具的各种骚技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651556758&amp;idx=1&amp;sn=e21b1e106198a22eaa82a910ac412ee0&amp;chksm=80255c57b752d5419992103d71b02f53fc87695e2169f46261b2792115e93e9e760704032acc#rd) 
 - [【前端大全】2019-07-10-面向对象：相遇靠缘分，相守靠修行](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=2&sn=a07f2da868a3457fd15d717f50e098de#rd) 
 - [【前端大全】2019-07-10-Google-Chrome-工程师：JavaScript-不容错过的八大优化建议](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=1&sn=5303eb5b16567747da31557213136071#rd) 
 - [【前端大全】2019-07-08-JavaScript-常见的六种继承方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556712&idx=1&sn=07ba3fd6e255210763f39a0bb6922a40#rd) 
@@ -142,7 +143,7 @@
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
 - [【前端之巅】2019-07-20-如果微软开发了Android，现在会是什么样呢？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=2&amp;sn=0a70679e41e2eec2df03983f7e139764&amp;chksm=f9525460ce25dd76f6463f4c86f09f9b25e4659a9353bcbf0fced54b2e957f1977a8f2ac3865#rd) 
-- [【前端之巅】2019-07-20-为什么CSS这么难?](https://qcon.infoq.cn/2019/shanghai?utm_source=wechat&amp;utm_campaign=8&amp;utm_medium=frontshow) 
+- [【前端之巅】2019-07-20-为什么CSS这么难?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=1&amp;sn=7d902688238742b98ee29fce7104af45&amp;chksm=f9525460ce25dd76fde292e3af53ce370eafbfe9e7e01369d0ba87c682c60c8813e2e7fd3237#rd) 
 - [【前端之巅】2019-07-11-全球JavaScript开发者薪酬统计出炉！最高年薪超10万美金](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491752&idx=1&sn=42c10c681b216ad22ab0d8394eb5a7d3#rd) 
 - [【前端之巅】2019-07-10-Lodash库爆出严重安全漏洞，波及400万+项目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491738&idx=1&sn=d1888686f621b281c56fd4942e86f5d0#rd) 
 - [【前端之巅】2019-07-09-编写Vue.js组件前需要知道的10件事](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491732&idx=1&sn=fb1d6b8ebe315407d303f2eac86807bd#rd) 
