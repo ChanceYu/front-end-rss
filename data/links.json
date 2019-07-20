@@ -1,9 +1,59 @@
 [
   {
-    "rss": "https://rsshub.app/jike/topic/5848cace8a16f9001084a79d",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://web.okjike.com/topic/5848cace8a16f9001084a79d/official",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】花椒直播招高级前端工程师/实习生",
+        "link": "",
+        "date": "2019-07-20"
+      },
+      {
+        "title": "【第1674期】 花椒前端基于WebAssembly 的H.265播放器研发",
+        "link": "",
+        "date": "2019-07-20"
+      },
+      {
+        "title": "【图书】Flutter：从0到1构建大前端应用",
+        "link": "",
+        "date": "2019-07-19"
+      },
+      {
+        "title": "【第1673期】 图像优化自动化实用指南",
+        "link": "",
+        "date": "2019-07-19"
+      },
+      {
+        "title": "【招聘】美团点评住宿度假招募前端开发",
+        "link": "",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "【第1672期】React 优化技巧在 Web 版光线追踪里的应用(中)",
+        "link": "",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "TypeScript凭什么成为前端圈新宠？",
+        "link": "",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "【招聘】北京马蜂窝招用户增长前端技术专家",
+        "link": "",
+        "date": "2019-07-17"
+      },
+      {
+        "title": "【第1671期】21 项优化 React App 性能的技术",
+        "link": "",
+        "date": "2019-07-17"
+      },
+      {
+        "title": "【招聘】广州欢聚时代「YYUED」招前端工程师",
+        "link": "",
+        "date": "2019-07-16"
+      },
       {
         "title": "【视频】几行代码让页面自动刷新",
         "link": "https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd",
@@ -2532,10 +2582,60 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/jike/topic/5874f264fe0e0e00154b8ddc",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://web.okjike.com/topic/5874f264fe0e0e00154b8ddc/official",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "关于裸辞，关于前端面试",
+        "link": "",
+        "date": "2019-07-19"
+      },
+      {
+        "title": "Chrome 开发者工具的各种骚技巧",
+        "link": "",
+        "date": "2019-07-17"
+      },
+      {
+        "title": "Lodash 严重安全漏洞背后：你不得不知道的 JavaScript 知识",
+        "link": "",
+        "date": "2019-07-16"
+      },
+      {
+        "title": "前端 Web Workers 到底是什么？",
+        "link": "",
+        "date": "2019-07-15"
+      },
+      {
+        "title": "撸了今年阿里、头条和美团的面试，我有一个重要发现.......",
+        "link": "",
+        "date": "2019-07-15"
+      },
+      {
+        "title": "零基础的小明要如何成为前端工程师？",
+        "link": "",
+        "date": "2019-07-14"
+      },
+      {
+        "title": "面向对象：我没有全世界，但是未来我的世界都是你",
+        "link": "",
+        "date": "2019-07-13"
+      },
+      {
+        "title": "深入浅出 Vue 响应式原理",
+        "link": "",
+        "date": "2019-07-13"
+      },
+      {
+        "title": "使用 React Hooks 重构你的小程序",
+        "link": "",
+        "date": "2019-07-12"
+      },
+      {
+        "title": "Vue 最黑暗的一天",
+        "link": "",
+        "date": "2019-07-11"
+      },
       {
         "title": "面向对象：相遇靠缘分，相守靠修行",
         "link": "https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=2&sn=a07f2da868a3457fd15d717f50e098de#rd",
@@ -4749,10 +4849,60 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/jike/topic/584942202b1d080011fc1f13",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://web.okjike.com/topic/584942202b1d080011fc1f13/official",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "如果微软开发了Android，现在会是什么样呢？",
+        "link": "",
+        "date": "2019-07-20"
+      },
+      {
+        "title": "为什么CSS这么难?",
+        "link": "",
+        "date": "2019-07-20"
+      },
+      {
+        "title": "大数据与人工智能@武汉，这里有专业的技术解读和趋势探讨",
+        "link": "",
+        "date": "2019-07-19"
+      },
+      {
+        "title": "2019年五大跨平台移动应用开发工具",
+        "link": "",
+        "date": "2019-07-19"
+      },
+      {
+        "title": "如何秒破面试官的提问：读过JS源码吗？",
+        "link": "",
+        "date": "2019-07-19"
+      },
+      {
+        "title": "2019年最优秀的JIRA项目管理工具替代方案",
+        "link": "",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "你知道这五种好用的编程模式吗？",
+        "link": "",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "SwiftUI：苹果的一次天才尝试",
+        "link": "",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "面向Web开发者和设计者的十大Bug跟踪工具",
+        "link": "",
+        "date": "2019-07-17"
+      },
+      {
+        "title": "源码解析React Hook构建过程：没有设计就是最好的设计",
+        "link": "",
+        "date": "2019-07-17"
+      },
       {
         "title": "全球JavaScript开发者薪酬统计出炉！最高年薪超10万美金",
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491752&idx=1&sn=42c10c681b216ad22ab0d8394eb5a7d3#rd",
@@ -7367,7 +7517,7 @@
   },
   {
     "rss": "https://aotu.io/atom.xml",
-    "title": "Aotu.io",
+    "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
       {
