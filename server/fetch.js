@@ -1,3 +1,4 @@
+const queryString = require('query-string')
 const Parser = require('rss-parser')
 const moment = require('moment')
 
@@ -68,7 +69,7 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
           let exist = false
     
           for(let i = 0; i < len; i++){
-            if(_items[i].link === el.link){
+            if(isSameLink(_items[i].link, el.link)){
               exist = true
               break;
             }
@@ -120,6 +121,18 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
         }
       })
     })
+  }
+}
+
+function isSameLink(link, compare){
+  const oLink = queryString.parseUrl(link);
+  const oCompare = queryString.parseUrl(compare);
+
+  if(/mp\.weixin/.test(oLink.url)){
+    return (oLink.query.sn === oCompare.query.sn)
+        && (oLink.query.mid === oCompare.query.mid)
+  }else{
+    return link === compare
   }
 }
 
