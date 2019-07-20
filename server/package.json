@@ -7,6 +7,7 @@
     "clone-deep": "^4.0.0",
     "later": "^1.2.0",
     "moment": "^2.22.2",
+    "query-string": "^6.8.1",
     "rss-parser": "^3.4.3",
     "simple-git": "^1.102.0",
     "underscore": "^1.9.1"
