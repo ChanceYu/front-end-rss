@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-21 12:02:17。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-21 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -164,6 +164,8 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-21-HTTP/2协议的优点解析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=2&sn=119c8a3a061503e0cede214bdcca49a8&chksm=f9525469ce25dd7f2c03edfddc86e8a3c68891459b33325305ed94d0da4dc09c5edf075876d9#rd) 
+- [【前端之巅】2019-07-21-你不知道的组件化开发：组件化的前世今生-|-前端训练营](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=1&sn=ee1673a2f4b139266526b3f6a1555928&chksm=f9525469ce25dd7f466efdc3fbd2741347628779c5d8b415e4e1bdcf9a1b21b9064a23eab0bb#rd) 
 - [【前端之巅】2019-07-20-如果微软开发了Android，现在会是什么样呢？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=2&amp;sn=0a70679e41e2eec2df03983f7e139764&amp;chksm=f9525460ce25dd76f6463f4c86f09f9b25e4659a9353bcbf0fced54b2e957f1977a8f2ac3865#rd) 
 - [【前端之巅】2019-07-20-为什么CSS这么难?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=1&amp;sn=7d902688238742b98ee29fce7104af45&amp;chksm=f9525460ce25dd76fde292e3af53ce370eafbfe9e7e01369d0ba87c682c60c8813e2e7fd3237#rd) 
 - [【前端之巅】2019-07-19-2019年五大跨平台移动应用开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=2&sn=5d6948678ef729b2acfdeac22ae52645&chksm=f952545bce25dd4df4397b9e4fb8313af5433ad4ea75439f387f8fbe9403396faa819908bea6&scene=27#wechat_redirect) 
