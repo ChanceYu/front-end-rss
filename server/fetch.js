@@ -4,7 +4,7 @@ const moment = require('moment')
 
 const utils = require('./utils')
 
-const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
+const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssItem, cb){
   let rssArray = rssItem.rss
   let done = false;
 
@@ -111,7 +111,7 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
         jsonItem.link = feed.link
         jsonItem.items = items.concat(_items)
     
-        linksJson[index] = jsonItem
+        linksJson[linksJsonIndex] = jsonItem
         
         if(done){
           console.log(utils.getNowDate() + ' - 完成 RSS: ' + rss);
@@ -125,6 +125,9 @@ const Fetch = async function(newData, linksJson, jsonItem, rssItem, cb){
 }
 
 function isSameLink(link, compare){
+  link = link.replace(/&amp;/g, '&');
+  compare = compare.replace(/&amp;/g, '&');
+
   const oLink = queryString.parseUrl(link);
   const oCompare = queryString.parseUrl(compare);
 

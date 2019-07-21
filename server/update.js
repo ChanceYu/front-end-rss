@@ -78,7 +78,7 @@ function handlerFeed(){
     let jsonItem = linksJson[index] || {}
 
     parallels.push(function(cb){
-      fetch(newData, linksJson, jsonItem, item, cb);
+      fetch(newData, linksJson, index, jsonItem, item, cb);
     })
   })
 
