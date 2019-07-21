@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: <%= obj.currentDate %>。[文章来源](./README.md)、[文章分类](./TAGS.md)
+:alarm_clock: 更新时间: <%= obj.currentDate %>。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
