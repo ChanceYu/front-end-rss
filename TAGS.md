@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-21 18:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-22 06:00:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -666,6 +666,7 @@
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】拆解-JavaScript-中的异步模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556781&idx=1&sn=41918743410500b5415dcf49f4ee066f&chksm=80255c6cb752d57ab7abbaa5c37eab1a669bc8c19325eda8d098cfd7328e1b50ce734dc755f7#rd)
 - [【前端大全】Lodash-严重安全漏洞背后：你不得不知道的-JavaScript-知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556750&idx=1&sn=05ea01d54b18cc839b01075036ebe021&chksm=80255c4fb752d559b69882900e22511caa29e0e1bbd8235834f8a091ed769de401dca86dd859&scene=27#wechat_redirect)
 - [【前端大全】前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556746&idx=2&sn=3ac0c80b9791c0b7d6db959c9d16b323&chksm=80255c4bb752d55d52bda023a6423ec706c34d0a36cdaf40adbeef05cc57804726c5ac08b42e&scene=27#wechat_redirect)
 - [【前端大全】Google-Chrome-工程师：JavaScript-不容错过的八大优化建议](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=1&sn=5303eb5b16567747da31557213136071#rd)
