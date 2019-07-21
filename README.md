@@ -4,12 +4,12 @@
 
 根据 RSS 订阅源自动抓取 **最新前端技术文章**，并根据关键字将[文章分类](./TAGS.md)、根据[时间分类](./TIMELINE.md)。自动更新时间点为每天的 06:00、08:00、12:00、18:00、22:00。
 
-:alarm_clock: 更新时间: 2019-07-21 11:39:14，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-21 12:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 文章来源
 
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,8 +26,9 @@
 </summary>
 
 
-- [2019-07-21-【图书】Three.js开发指南：基于WebGL和HTML5在网页上渲染3D图形和动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=3&amp;sn=67eeb9be55defcd8c2441c691802694c&amp;chksm=bd4942dc8a3ecbca5c0d6c44b7e3b2d6d9457f8cf8682778a59bf7e16a2f9e738c663dee0503#rd) ![](assets/new.png)  
-- [2019-07-21-【招聘】阿里淘系技术部前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=2&amp;sn=847c6a6cb18ca8a4aeb9f54ccb5e25a2&amp;chksm=bd4942dc8a3ecbcac5195acabe45108c4e6e8967eedeed3e8fabc239a8299f3a48382c4ce430#rd) ![](assets/new.png)  
+- [2019-07-21-【第1675期】React-优化技巧在-Web-版光线追踪里的应用下](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233112&idx=1&sn=9ca4d30fd4683410830b5a38f39743c3&chksm=bd4942dc8a3ecbca219dee5deb7ab9654298f6ee3a88ba3844331361d736749e05cf8f9de14f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-21-【图书】Three.js开发指南：基于WebGL和HTML5在网页上渲染3D图形和动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=3&amp;sn=67eeb9be55defcd8c2441c691802694c&amp;chksm=bd4942dc8a3ecbca5c0d6c44b7e3b2d6d9457f8cf8682778a59bf7e16a2f9e738c663dee0503#rd)  
+- [2019-07-21-【招聘】阿里淘系技术部前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=2&amp;sn=847c6a6cb18ca8a4aeb9f54ccb5e25a2&amp;chksm=bd4942dc8a3ecbcac5195acabe45108c4e6e8967eedeed3e8fabc239a8299f3a48382c4ce430#rd)  
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect)  
 - [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect)  
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd)  
@@ -45,7 +46,6 @@
 - [2019-07-12-【第1666期】2019年JavaScript性能开销](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=1&sn=58487317958644a980807d19afe3cdf0#rd)  
 - [2019-07-11-【第1665期】-精读《Monorepo-的优势》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=2&sn=eb2242ed17eb4ef9e4f75f9acbc6ba73#rd)  
 - [2019-07-11-1年时间，年薪增加10万，前端小兵的我是如何做到的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=1&sn=6087aa0986c9162fe6aaaa1933f7da33#rd)  
-- [2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆返回顶部</a></div>
@@ -57,7 +57,7 @@
 </summary>
 
 
-- [2019-07-20-你需要了解的前端骨架屏注入实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651556771&amp;idx=1&amp;sn=3a3d2e6faececf4c61e057d81f641b11&amp;chksm=80255c62b752d57410d083b2c23004f956be46ff10fc395ca98104f0e29740869db6a6233be8#rd) ![](assets/new.png)  
+- [2019-07-20-你需要了解的前端骨架屏注入实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651556771&amp;idx=1&amp;sn=3a3d2e6faececf4c61e057d81f641b11&amp;chksm=80255c62b752d57410d083b2c23004f956be46ff10fc395ca98104f0e29740869db6a6233be8#rd)  
 - [2019-07-19-关于裸辞，关于前端面试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556766&idx=1&sn=ff9bce90ba181b1371296e11942cd7e4&chksm=80255c5fb752d5493ca5f656e385dd4a855d65d6983a7c976124d94e8b2c1763e0825794bef1&scene=27#wechat_redirect)  
 - [2019-07-18-盘点：2019年前端技术趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556757&idx=1&sn=0dba407e889f684262e741062faca980&chksm=80255c54b752d5427c7e6edef21419e2ff6f993d75d7dece830fcaef1d232c603828afa17a22&scene=27#wechat_redirect)  
 - [2019-07-18-a-可以同时-==-1-&&-==-2-&&-==-3吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556757&idx=2&sn=7cb06270f6be3b15f57e7ca58f5cf1eb&chksm=80255c54b752d5427e89b18dbce0b88b48b66739b463731ba36383dce5715b3c0536107bac19&scene=27#wechat_redirect)  
