@@ -18,13 +18,11 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
 
   function fetchOne(index, onResolve){
     return new Promise((resolve) => {
+      onResolve = onResolve || resolve;
+      
       let rss = rssArray[index];
       let callDone = function(){
-        if(typeof onResolve === 'function'){
-          onResolve();
-        }else{
-          resolve();
-        }
+        onResolve();
         done = true;
         cb(null, jsonItem);
       }
@@ -43,7 +41,7 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
         if(!finished){
           console.log(utils.getNowDate() + ' - 超时 RSS: ' + rss);
           finished = true
-          fetchOne(index+1, resolve);
+          fetchOne(index+1, onResolve);
         }
       }, 20000);
     
@@ -117,7 +115,7 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
           console.log(utils.getNowDate() + ' - 完成 RSS: ' + rss);
           callDone();
         }else{
-          fetchOne(index+1, resolve);
+          fetchOne(index+1, onResolve);
         }
       })
     })
