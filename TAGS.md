@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-22 08:00:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-22 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -1685,6 +1685,8 @@
 - [【前端早读课】【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect)
 - [【前端早读课】【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect)
 - [【前端早读课】【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect)
+- [【前端大全】做-1-个静态页面要价-12-万，有错吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=2&sn=2eacb9e412cc00597e3ab32b7e88074e&chksm=80255c77b752d56123b9c0af5ccd5ce54469167e114555dd52b0ddddafb8e9c951dc1a5b3d06#rd)
+- [【前端大全】前端基础扎实的新人，却是被领导劝退的第一波？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=1&sn=860c5e3b3e1af2cb6168bb0380cf62f1&chksm=80255c77b752d561a65bf50d2d92323a8d99329a293f846ec7af92948846c641b29504f30d8d#rd)
 - [【前端大全】你需要了解的前端骨架屏注入实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651556771&amp;idx=1&amp;sn=3a3d2e6faececf4c61e057d81f641b11&amp;chksm=80255c62b752d57410d083b2c23004f956be46ff10fc395ca98104f0e29740869db6a6233be8#rd)
 - [【前端大全】盘点：2019年前端技术趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556757&idx=1&sn=0dba407e889f684262e741062faca980&chksm=80255c54b752d5427c7e6edef21419e2ff6f993d75d7dece830fcaef1d232c603828afa17a22&scene=27#wechat_redirect)
 - [【前端大全】a-可以同时-==-1-&&-==-2-&&-==-3吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556757&idx=2&sn=7cb06270f6be3b15f57e7ca58f5cf1eb&chksm=80255c54b752d5427e89b18dbce0b88b48b66739b463731ba36383dce5715b3c0536107bac19&scene=27#wechat_redirect)

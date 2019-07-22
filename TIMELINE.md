@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-22 08:00:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-22 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -144,6 +144,8 @@
 - [【前端早读课】2019-07-02-【第1656期】精读《Vue3.0-Function-API》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=2&sn=12ef569f8e77adcc561595b38715a46e#rd) 
 - [【前端早读课】2019-07-02-一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd) 
 - [【前端早读课】2019-07-01-【第1655期】零基础的小明要如何成为前端工程师？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232867&idx=1&sn=e83b93d0293cc30a70248236994b5cd2#rd) 
+- [【前端大全】2019-07-22-做-1-个静态页面要价-12-万，有错吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=2&sn=2eacb9e412cc00597e3ab32b7e88074e&chksm=80255c77b752d56123b9c0af5ccd5ce54469167e114555dd52b0ddddafb8e9c951dc1a5b3d06#rd) 
+- [【前端大全】2019-07-22-前端基础扎实的新人，却是被领导劝退的第一波？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=1&sn=860c5e3b3e1af2cb6168bb0380cf62f1&chksm=80255c77b752d561a65bf50d2d92323a8d99329a293f846ec7af92948846c641b29504f30d8d#rd) 
 - [【前端大全】2019-07-21-拆解-JavaScript-中的异步模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556781&idx=1&sn=41918743410500b5415dcf49f4ee066f&chksm=80255c6cb752d57ab7abbaa5c37eab1a669bc8c19325eda8d098cfd7328e1b50ce734dc755f7#rd) 
 - [【前端大全】2019-07-20-你需要了解的前端骨架屏注入实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651556771&amp;idx=1&amp;sn=3a3d2e6faececf4c61e057d81f641b11&amp;chksm=80255c62b752d57410d083b2c23004f956be46ff10fc395ca98104f0e29740869db6a6233be8#rd) 
 - [【前端大全】2019-07-19-关于裸辞，关于前端面试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556766&idx=1&sn=ff9bce90ba181b1371296e11942cd7e4&chksm=80255c5fb752d5493ca5f656e385dd4a855d65d6983a7c976124d94e8b2c1763e0825794bef1&scene=27#wechat_redirect) 

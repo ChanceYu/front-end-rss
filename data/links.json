@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘",
@@ -2622,10 +2622,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/jike/topic/5874f264fe0e0e00154b8ddc",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://www.ershicimi.com/a/65",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "做 1 个静态页面要价 12 万，有错吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=2&sn=2eacb9e412cc00597e3ab32b7e88074e&chksm=80255c77b752d56123b9c0af5ccd5ce54469167e114555dd52b0ddddafb8e9c951dc1a5b3d06#rd",
+        "date": "2019-07-22"
+      },
+      {
+        "title": "前端基础扎实的新人，却是被领导劝退的第一波？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=1&sn=860c5e3b3e1af2cb6168bb0380cf62f1&chksm=80255c77b752d561a65bf50d2d92323a8d99329a293f846ec7af92948846c641b29504f30d8d#rd",
+        "date": "2019-07-22"
+      },
       {
         "title": "拆解 JavaScript 中的异步模式",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556781&idx=1&sn=41918743410500b5415dcf49f4ee066f&chksm=80255c6cb752d57ab7abbaa5c37eab1a669bc8c19325eda8d098cfd7328e1b50ce734dc755f7#rd",
@@ -4899,7 +4909,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/jike/topic/584942202b1d080011fc1f13",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
