@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【第1677期】重构支付宝小程序构建流程有感",
@@ -6819,6 +6819,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "Termux 入门教程：架设手机 Server 下载文件",
+        "link": "http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html",
+        "date": "2019-07-23"
+      },
       {
         "title": "科技爱好者周刊：第 65 期",
         "link": "http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html",
