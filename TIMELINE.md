@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-22 22:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-23 12:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-07-23-【第1677期】重构支付宝小程序构建流程有感](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=2&sn=9ad2a52ce17e41e8109c4f78b5445d2a&chksm=bd4942e48a3ecbf2cce32b90781d2cf55b288d4000c306c4df47ed5a4c0691bd6a51da1d86b7#rd) 
+- [【前端早读课】2019-07-23-前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd) 
 - [【前端早读课】2019-07-22-【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=2&sn=2b633c2a9aa9f507f8e08faa81c10137&chksm=bd4942de8a3ecbc8d51eb2e987a8d4d98699c93fd0060bc39e997bdcf87038ad3a7d62de4a39#rd) 
 - [【前端早读课】2019-07-22-【第1676期】Protocol-Buffers-编码原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=1&sn=74c4a11653ab8d2aec00706fb5ba297f&chksm=bd4942de8a3ecbc8ca3ec3e25b8f432806b14d13c2de08017708703cb3006387746cfdcde9dd#rd) 
 - [【前端早读课】2019-07-21-【第1675期】React-优化技巧在-Web-版光线追踪里的应用下](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233112&idx=1&sn=9ca4d30fd4683410830b5a38f39743c3&chksm=bd4942dc8a3ecbca219dee5deb7ab9654298f6ee3a88ba3844331361d736749e05cf8f9de14f&scene=27#wechat_redirect) 
