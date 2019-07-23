@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-23 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-24 06:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-07-24-【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd) 
+- [【前端早读课】2019-07-24-【第1678期】你应该了解的-CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=1&sn=d70fc6cc5de39cb09dfb1fff2273b2b2&chksm=bd4942ed8a3ecbfbec115fe1a36403d5956fd201a64fe5a6c06862b6232e6da6ca2ad52ea222#rd) 
 - [【前端早读课】2019-07-23-【第1677期】重构支付宝小程序构建流程有感](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=2&sn=9ad2a52ce17e41e8109c4f78b5445d2a&chksm=bd4942e48a3ecbf2cce32b90781d2cf55b288d4000c306c4df47ed5a4c0691bd6a51da1d86b7#rd) 
 - [【前端早读课】2019-07-23-前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd) 
 - [【前端早读课】2019-07-22-【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=2&sn=2b633c2a9aa9f507f8e08faa81c10137&chksm=bd4942de8a3ecbc8d51eb2e987a8d4d98699c93fd0060bc39e997bdcf87038ad3a7d62de4a39#rd) 
@@ -172,6 +174,8 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-23-谷歌准备放弃存在9年的XSS检测工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=3&sn=33dce673897657b7020a8180181c37fd&chksm=f9525407ce25dd113da6fad122d6c627dcca40dd7c10b3977917f36e2f1ddc0e18380afd450b#rd) 
+- [【前端之巅】2019-07-23-大前端时代，UI设计师也需要学习框架！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=2&sn=0f2f9cea6feb56d97392231c85802d1e&chksm=f9525407ce25dd1127099eb690a7c3b4d93e0eb43c2a56d27988c9791919607e42b5a197cae2#rd) 
 - [【前端之巅】2019-07-22-如何利用Vuetify快速构建具有吸引力的交互式前端？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=2&sn=6163a7f483bf2e9cc96be54367bd0bfc&chksm=f9525474ce25dd62c66ad5c726c2147f2031b17895194861f82c301cc2df3b5efca6f7801d0e#rd) 
 - [【前端之巅】2019-07-22-最全HTTP安全响应头设置指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=1&sn=6a17c289ec2a5ab137c68f416961f7a7&chksm=f9525474ce25dd62a928b306a88f8ef909be1fd1d49d24a477a9d72acaff2606319a1bbbba68#rd) 
 - [【前端之巅】2019-07-21-HTTP/2协议的优点解析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=2&sn=119c8a3a061503e0cede214bdcca49a8&chksm=f9525469ce25dd7f2c03edfddc86e8a3c68891459b33325305ed94d0da4dc09c5edf075876d9#rd) 

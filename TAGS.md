@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-23 22:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-24 06:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -1131,6 +1131,7 @@
 
 
 
+- [【前端早读课】【第1678期】你应该了解的-CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=1&sn=d70fc6cc5de39cb09dfb1fff2273b2b2&chksm=bd4942ed8a3ecbfbec115fe1a36403d5956fd201a64fe5a6c06862b6232e6da6ca2ad52ea222#rd)
 - [【前端早读课】【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd)
 - [【前端早读课】【第1658期】-Chrome-专家调试法---介绍-Chrome-开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232948&idx=1&sn=c578786806d20e185503abc3d85561c5#rd)
 - [【前端早读课】【第1647期】-理解-WebView](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=2&sn=58f51be214289d25d8350d8656b80460#rd)
@@ -1350,6 +1351,7 @@
 
 
 
+- [【前端早读课】【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd)
 - [【前端早读课】【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=2&sn=2b633c2a9aa9f507f8e08faa81c10137&chksm=bd4942de8a3ecbc8d51eb2e987a8d4d98699c93fd0060bc39e997bdcf87038ad3a7d62de4a39#rd)
 - [【前端早读课】【招聘】阿里淘系技术部前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=2&amp;sn=847c6a6cb18ca8a4aeb9f54ccb5e25a2&amp;chksm=bd4942dc8a3ecbcac5195acabe45108c4e6e8967eedeed3e8fabc239a8299f3a48382c4ce430#rd)
 - [【前端早读课】【招聘】美团点评住宿度假招募前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=3&sn=23c6a05063bebae7adfd973c031b6ee6&chksm=bd4942bc8a3ecbaa90c4ba45852fb40e6d556b8cc20e20294475ea0c2ae0b54779f7af861f32&scene=27#wechat_redirect)
@@ -1776,6 +1778,8 @@
 - [【前端大全】2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect)
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
+- [【前端之巅】谷歌准备放弃存在9年的XSS检测工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=3&sn=33dce673897657b7020a8180181c37fd&chksm=f9525407ce25dd113da6fad122d6c627dcca40dd7c10b3977917f36e2f1ddc0e18380afd450b#rd)
+- [【前端之巅】大前端时代，UI设计师也需要学习框架！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=2&sn=0f2f9cea6feb56d97392231c85802d1e&chksm=f9525407ce25dd1127099eb690a7c3b4d93e0eb43c2a56d27988c9791919607e42b5a197cae2#rd)
 - [【前端之巅】如果微软开发了Android，现在会是什么样呢？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=2&amp;sn=0a70679e41e2eec2df03983f7e139764&amp;chksm=f9525460ce25dd76f6463f4c86f09f9b25e4659a9353bcbf0fced54b2e957f1977a8f2ac3865#rd)
 - [【前端之巅】2019年五大跨平台移动应用开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=2&sn=5d6948678ef729b2acfdeac22ae52645&chksm=f952545bce25dd4df4397b9e4fb8313af5433ad4ea75439f387f8fbe9403396faa819908bea6&scene=27#wechat_redirect)
 - [【前端之巅】大数据与人工智能@武汉，这里有专业的技术解读和趋势探讨](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=3&sn=a20a45f15ecdf9d663d376555ede6b03&chksm=f952545bce25dd4d70000917ba056a0661430e937ccda10aab4dbbd15a02b40d462e87560b30&scene=27#wechat_redirect)
