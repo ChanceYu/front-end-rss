@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-24 06:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-24 22:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -333,6 +333,7 @@
 - [【前端早读课】深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect)
 - [【前端早读课】【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect)
 - [【前端早读课】【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect)
+- [【前端大全】关于-Babel-你必须知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556802&idx=1&sn=e1662ecf90a83b1af70f414a129c419e&chksm=80255c03b752d515cd295494b7dd7f9934dda965993ceb504dd81883986b2459ba6bbc8036c1#rd)
 - [【前端大全】在-NPM-发布自己造的轮子](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556030&idx=1&sn=b690e282e1470c8c803e08ceb69b574d#rd)
 - [【前端大全】Webpack-打包含动态加载的类库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555932&idx=1&sn=d37418d0a3dac113798b5b60df814a9a#wechat_redirect)
 - [【前端大全】Webpack-的-Bundle-Split-和-Code-Split-区别和应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555883&idx=1&sn=ad1a42c721377aa3a7faa1e603596d12#wechat_redirect)
