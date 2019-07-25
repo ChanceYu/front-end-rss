@@ -4954,10 +4954,25 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "怎样杀死IE11：以史为鉴",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect",
+        "date": "2019-07-25"
+      },
+      {
+        "title": "JS引擎大PK：JSC vs V8 vs Hermes",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect",
+        "date": "2019-07-24"
+      },
+      {
+        "title": "提高JavaScript性能的12个技巧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect",
+        "date": "2019-07-23"
+      },
       {
         "title": "Kotlin对战Java：新秀会击败老将吗？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd",

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-25 22:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-26 06:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -398,6 +398,7 @@
 - [【前端大全】细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect)
 - [【前端大全】从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect)
 - [【前端大全】Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect)
+- [【前端之巅】JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect)
 - [【前端之巅】Node.js对Java：一场史诗级的争夺开发者注意力的对决](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491136&idx=1&sn=e3ceb6f5b6b0323b1eee3d2bdd477261#rd)
 - [【前端之巅】Node.js-12发布！更快启动速度、默认TLS-1.3](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491065&idx=1&sn=501033e2302fb56baa6c71e65e0385af#rd)
 - [【前端之巅】2019年Node趋势解读：大前端如何与Node结合？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490877&idx=1&sn=e1cdc6be87238eec9c5d0148c6b44b10#rd)
@@ -758,6 +759,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect)
 - [【前端之巅】如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd)
 - [【前端之巅】你不知道的组件化开发：组件化的前世今生-|-前端训练营](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=1&sn=ee1673a2f4b139266526b3f6a1555928&chksm=f9525469ce25dd7f466efdc3fbd2741347628779c5d8b415e4e1bdcf9a1b21b9064a23eab0bb#rd)
 - [【前端之巅】如何秒破面试官的提问：读过JS源码吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=1&sn=3eb14d7fb2220e5a5bd71462b4fb2c87&chksm=f952545bce25dd4d5afa0b2461e262ce0465849177f1f85bf20b532d3c8e68a3132bd0f59cd1&scene=27#wechat_redirect)
@@ -1208,6 +1210,7 @@
 - [【前端大全】使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect)
 - [【前端大全】一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect)
 - [【前端大全】前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect)
+- [【前端之巅】怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect)
 - [【前端之巅】最全HTTP安全响应头设置指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=1&sn=6a17c289ec2a5ab137c68f416961f7a7&chksm=f9525474ce25dd62a928b306a88f8ef909be1fd1d49d24a477a9d72acaff2606319a1bbbba68#rd)
 - [【前端之巅】Lodash库爆出严重安全漏洞，波及400万+项目](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491738&idx=1&sn=d1888686f621b281c56fd4942e86f5d0#rd)
 - [【前端之巅】2019年的Chrome和Web又有哪些新技术？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491211&idx=1&sn=b58a5d0b995e7b7cde3d03795e38c95e#rd)

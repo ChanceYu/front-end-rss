@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-25 22:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-26 06:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -62,7 +62,7 @@
 </summary>
 
 
-- [2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect)  
 - [2019-07-24-关于-Babel-你必须知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556802&idx=1&sn=e1662ecf90a83b1af70f414a129c419e&chksm=80255c03b752d515cd295494b7dd7f9934dda965993ceb504dd81883986b2459ba6bbc8036c1#rd)  
 - [2019-07-23-浏览器缓存机制全攻略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556794&idx=1&sn=0186d0c4b36b6e7e0adf7ffaf7b3f9b8&chksm=80255c7bb752d56dd863bdc90295b6bf193612ef5b26e96d13f9165c8beb32125f5facc7fe31#rd)  
 - [2019-07-22-做-1-个静态页面要价-12-万，有错吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556790&idx=2&sn=2eacb9e412cc00597e3ab32b7e88074e&chksm=80255c77b752d56123b9c0af5ccd5ce54469167e114555dd52b0ddddafb8e9c951dc1a5b3d06#rd)  
@@ -93,8 +93,11 @@
 </summary>
 
 
-- [2019-07-25-Kotlin对战Java：新秀会击败老将吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd) ![](assets/new.png)  
-- [2019-07-25-如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd) ![](assets/new.png)  
+- [2019-07-25-怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-24-JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-23-提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-25-Kotlin对战Java：新秀会击败老将吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd)  
+- [2019-07-25-如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd)  
 - [2019-07-24-人人都在说-AI+大数据，落地的事儿谁来做？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=3&sn=562170a881a7900cdfd33037d78597bf&chksm=f9525416ce25dd004f5e2b5d71232d517aca84807a68088f22c9fedb8a9a6cfcc2dc6878d9f2#rd)  
 - [2019-07-24-构建React表单必备的开源库：Formik](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=2&sn=a05b29eead8c23bfcdd6358a3b1a09f7&chksm=f9525416ce25dd0012c690a89ec1a965bbf4ea473766b4a375e7616f2d75210f606255ac345a#rd)  
 - [2019-07-23-谷歌准备放弃存在9年的XSS检测工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=3&sn=33dce673897657b7020a8180181c37fd&chksm=f9525407ce25dd113da6fad122d6c627dcca40dd7c10b3977917f36e2f1ddc0e18380afd450b#rd)  
@@ -110,9 +113,6 @@
 - [2019-07-19-如何秒破面试官的提问：读过JS源码吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=1&sn=3eb14d7fb2220e5a5bd71462b4fb2c87&chksm=f952545bce25dd4d5afa0b2461e262ce0465849177f1f85bf20b532d3c8e68a3132bd0f59cd1&scene=27#wechat_redirect)  
 - [2019-07-18-SwiftUI：苹果的一次天才尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491851&idx=1&sn=459b4c30f21846ffdc4d6579796e233f&chksm=f9525448ce25dd5eca51380138ba628f1bc863fff48aac22678ed16244419af4b0339223432f&scene=27#wechat_redirect)  
 - [2019-07-18-你知道这五种好用的编程模式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491851&idx=2&sn=a05ce57ff1db40c29252a0a399b916cb&chksm=f9525448ce25dd5e25274f55e763a72da44ff78a4cf265ff7e22ca385fa35392dd80dbd100e6&scene=27#wechat_redirect)  
-- [2019-07-18-2019年最优秀的JIRA项目管理工具替代方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491851&idx=3&sn=67c25625a26186aecb04afa8f88cac40&chksm=f9525448ce25dd5e9a46529f25986569323998666a4b5c1f4dbd76bd9991d782657ebe1528e2&scene=27#wechat_redirect)  
-- [2019-07-17-源码解析React-Hook构建过程：没有设计就是最好的设计](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491845&idx=1&sn=8992994eb5674f14a2ea5250c5b517ec&chksm=f9525446ce25dd50f4895894cb39fb509424107d44da7768be75bc653882c530d69fa9320ea2&scene=27#wechat_redirect)  
-- [2019-07-17-面向Web开发者和设计者的十大Bug跟踪工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491845&idx=2&sn=4709411f43614043637fe1169365b3fe&chksm=f9525446ce25dd50e83106fccedd4c06c322dc34ccf53021334f8fc9dfa18912b0f2b41a5f2e&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
