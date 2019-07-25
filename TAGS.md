@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-25 06:00:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-25 08:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -610,6 +610,7 @@
 
 
 
+- [【前端早读课】【第1679其】函数式编程浅析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=2&sn=543cda30c02dbd2c4e73e3d0c68e5edb&chksm=bd4942f48a3ecbe2bb4683f295af06da6f09c633d170678c855bae83995d0d8f67b4192d64aa#rd)
 - [【前端早读课】【第1670期】浅谈正则表达式原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233058&idx=2&sn=eae3df94eac6ae172283342a1f2d5bf0&chksm=bd4942a68a3ecbb048f6c7f1547aa23f3601aa14ae6e2c1812aef7daa9431898caa548346004&scene=27#wechat_redirect)
 - [【前端早读课】【第1666期】2019年JavaScript性能开销](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=1&sn=58487317958644a980807d19afe3cdf0#rd)
 - [【前端早读课】【第1662期】编写有弹性的组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232995&idx=2&sn=478ad570ca669df68d40fa8e29664b40#rd)
@@ -1560,6 +1561,7 @@
 
 
 
+- [【前端早读课】2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd)
 - [【前端早读课】前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd)
 - [【前端早读课】【第1676期】Protocol-Buffers-编码原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=1&sn=74c4a11653ab8d2aec00706fb5ba297f&chksm=bd4942de8a3ecbc8ca3ec3e25b8f432806b14d13c2de08017708703cb3006387746cfdcde9dd#rd)
 - [【前端早读课】【第1665期】-精读《Monorepo-的优势》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233022&idx=2&sn=eb2242ed17eb4ef9e4f75f9acbc6ba73#rd)

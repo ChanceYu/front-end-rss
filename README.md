@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-25 06:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-25 08:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-07-25-【第1679其】函数式编程浅析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=2&sn=543cda30c02dbd2c4e73e3d0c68e5edb&chksm=bd4942f48a3ecbe2bb4683f295af06da6f09c633d170678c855bae83995d0d8f67b4192d64aa#rd) ![](assets/new.png)  
+- [2019-07-25-2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd) ![](assets/new.png)  
 - [2019-07-24-【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd)  
 - [2019-07-24-【第1678期】你应该了解的-CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=1&sn=d70fc6cc5de39cb09dfb1fff2273b2b2&chksm=bd4942ed8a3ecbfbec115fe1a36403d5956fd201a64fe5a6c06862b6232e6da6ca2ad52ea222#rd)  
 - [2019-07-23-【第1677期】重构支付宝小程序构建流程有感](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=2&sn=9ad2a52ce17e41e8109c4f78b5445d2a&chksm=bd4942e48a3ecbf2cce32b90781d2cf55b288d4000c306c4df47ed5a4c0691bd6a51da1d86b7#rd)  
@@ -49,8 +51,6 @@
 - [2019-07-18-【第1672期】React-优化技巧在-Web-版光线追踪里的应用中](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=2&sn=9daff53febc75f6b4d15849a579d8677&chksm=bd4942bc8a3ecbaa35c6fac44ab8041d6b05eaa5db403c62b73ac7fa754d9cedca17a3b5ec32&scene=27#wechat_redirect)  
 - [2019-07-18-【招聘】美团点评住宿度假招募前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=3&sn=23c6a05063bebae7adfd973c031b6ee6&chksm=bd4942bc8a3ecbaa90c4ba45852fb40e6d556b8cc20e20294475ea0c2ae0b54779f7af861f32&scene=27#wechat_redirect)  
 - [2019-07-17-【第1671期】21-项优化-React-App-性能的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233070&idx=1&sn=60d0b53cd668116f847bbb8047e9bdd9&chksm=bd4942aa8a3ecbbcea6222e0313d5e0483875e56f5ddf5730bd0187fb9de0de6437af73263b0&scene=27#wechat_redirect)  
-- [2019-07-17-【招聘】北京马蜂窝招用户增长前端技术专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233070&idx=2&sn=318c9832c3db04434733d6b64ace454a&chksm=bd4942aa8a3ecbbc83325abbf43eb09d8195506f96711d20b102c8306277e01902ec509de457&scene=27#wechat_redirect)  
-- [2019-07-16-2019面试总结：前端程序员越来越悲催！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233058&idx=1&sn=be66d1ba4278ca52d3e013bcf5503da7&chksm=bd4942a68a3ecbb0d312acb8e721c306ebaa9d2b66071c9d764847734a6e41ffb99b4c727738&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-07-24-人人都在说-AI+大数据，落地的事儿谁来做？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=3&sn=562170a881a7900cdfd33037d78597bf&chksm=f9525416ce25dd004f5e2b5d71232d517aca84807a68088f22c9fedb8a9a6cfcc2dc6878d9f2#rd) ![](assets/new.png)  
-- [2019-07-24-构建React表单必备的开源库：Formik](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=2&sn=a05b29eead8c23bfcdd6358a3b1a09f7&chksm=f9525416ce25dd0012c690a89ec1a965bbf4ea473766b4a375e7616f2d75210f606255ac345a#rd) ![](assets/new.png)  
+- [2019-07-24-人人都在说-AI+大数据，落地的事儿谁来做？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=3&sn=562170a881a7900cdfd33037d78597bf&chksm=f9525416ce25dd004f5e2b5d71232d517aca84807a68088f22c9fedb8a9a6cfcc2dc6878d9f2#rd)  
+- [2019-07-24-构建React表单必备的开源库：Formik](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=2&sn=a05b29eead8c23bfcdd6358a3b1a09f7&chksm=f9525416ce25dd0012c690a89ec1a965bbf4ea473766b4a375e7616f2d75210f606255ac345a#rd)  
 - [2019-07-23-谷歌准备放弃存在9年的XSS检测工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=3&sn=33dce673897657b7020a8180181c37fd&chksm=f9525407ce25dd113da6fad122d6c627dcca40dd7c10b3977917f36e2f1ddc0e18380afd450b#rd)  
 - [2019-07-23-大前端时代，UI设计师也需要学习框架！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=2&sn=0f2f9cea6feb56d97392231c85802d1e&chksm=f9525407ce25dd1127099eb690a7c3b4d93e0eb43c2a56d27988c9791919607e42b5a197cae2#rd)  
 - [2019-07-22-如何利用Vuetify快速构建具有吸引力的交互式前端？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=2&sn=6163a7f483bf2e9cc96be54367bd0bfc&chksm=f9525474ce25dd62c66ad5c726c2147f2031b17895194861f82c301cc2df3b5efca6f7801d0e#rd)  
