@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-26 06:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-26 08:00:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -1359,6 +1359,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)
 - [【前端早读课】【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd)
 - [【前端早读课】【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=2&sn=2b633c2a9aa9f507f8e08faa81c10137&chksm=bd4942de8a3ecbc8d51eb2e987a8d4d98699c93fd0060bc39e997bdcf87038ad3a7d62de4a39#rd)
 - [【前端早读课】【招聘】阿里淘系技术部前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=2&amp;sn=847c6a6cb18ca8a4aeb9f54ccb5e25a2&amp;chksm=bd4942dc8a3ecbcac5195acabe45108c4e6e8967eedeed3e8fabc239a8299f3a48382c4ce430#rd)
@@ -1566,6 +1567,7 @@
 
 
 
+- [【前端早读课】【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)
 - [【前端早读课】2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd)
 - [【前端早读课】前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd)
 - [【前端早读课】【第1676期】Protocol-Buffers-编码原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=1&sn=74c4a11653ab8d2aec00706fb5ba297f&chksm=bd4942de8a3ecbc8ca3ec3e25b8f432806b14d13c2de08017708703cb3006387746cfdcde9dd#rd)

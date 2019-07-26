@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-26 06:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-26 08:00:36，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-07-26-【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd) ![](assets/new.png)  
+- [2019-07-26-【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd) ![](assets/new.png)  
 - [2019-07-25-【第1679其】函数式编程浅析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=2&sn=543cda30c02dbd2c4e73e3d0c68e5edb&chksm=bd4942f48a3ecbe2bb4683f295af06da6f09c633d170678c855bae83995d0d8f67b4192d64aa#rd)  
 - [2019-07-25-2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd)  
 - [2019-07-24-【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd)  
@@ -49,8 +51,6 @@
 - [2019-07-19-【图书】Flutter：从0到1构建大前端应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=2&sn=ba392f95d7edbce877a3204a07154e2d&chksm=bd4942c58a3ecbd34f2c1122acc31dc7eb5dc55a40c51810efed3610ad16a2cf559d3df955f0&scene=27#wechat_redirect)  
 - [2019-07-18-TypeScript凭什么成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=1&sn=96ca04c72ce2a4bba0224368584fe5d1&chksm=bd4942bc8a3ecbaae1160c3b080dbe670bb511d71e60c44d1860dcc60f714ebf7ee5335a362a&scene=27#wechat_redirect)  
 - [2019-07-18-【第1672期】React-优化技巧在-Web-版光线追踪里的应用中](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=2&sn=9daff53febc75f6b4d15849a579d8677&chksm=bd4942bc8a3ecbaa35c6fac44ab8041d6b05eaa5db403c62b73ac7fa754d9cedca17a3b5ec32&scene=27#wechat_redirect)  
-- [2019-07-18-【招聘】美团点评住宿度假招募前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=3&sn=23c6a05063bebae7adfd973c031b6ee6&chksm=bd4942bc8a3ecbaa90c4ba45852fb40e6d556b8cc20e20294475ea0c2ae0b54779f7af861f32&scene=27#wechat_redirect)  
-- [2019-07-17-【第1671期】21-项优化-React-App-性能的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233070&idx=1&sn=60d0b53cd668116f847bbb8047e9bdd9&chksm=bd4942aa8a3ecbbcea6222e0313d5e0483875e56f5ddf5730bd0187fb9de0de6437af73263b0&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,9 +93,9 @@
 </summary>
 
 
-- [2019-07-25-怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-24-JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-23-提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-25-怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect)  
+- [2019-07-24-JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect)  
+- [2019-07-23-提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect)  
 - [2019-07-25-Kotlin对战Java：新秀会击败老将吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd)  
 - [2019-07-25-如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd)  
 - [2019-07-24-人人都在说-AI+大数据，落地的事儿谁来做？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=3&sn=562170a881a7900cdfd33037d78597bf&chksm=f9525416ce25dd004f5e2b5d71232d517aca84807a68088f22c9fedb8a9a6cfcc2dc6878d9f2#rd)  
