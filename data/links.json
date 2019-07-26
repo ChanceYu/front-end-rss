@@ -2662,10 +2662,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/65",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://www.ershicimi.com/a/65",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "面向对象：等你来撩",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd",
+        "date": "2019-07-26"
+      },
+      {
+        "title": "生猛！FFmpeg 开发者徒手撸了一个 JS 引擎",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd",
+        "date": "2019-07-26"
+      },
       {
         "title": "8 个问题看你是否真的懂  JS",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect",

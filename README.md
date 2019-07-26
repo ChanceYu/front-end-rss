@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-26 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-26 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-07-26-面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd) ![](assets/new.png)  
+- [2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd) ![](assets/new.png)  
 - [2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect)  
 - [2019-07-24-关于-Babel-你必须知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556802&idx=1&sn=e1662ecf90a83b1af70f414a129c419e&chksm=80255c03b752d515cd295494b7dd7f9934dda965993ceb504dd81883986b2459ba6bbc8036c1#rd)  
 - [2019-07-23-浏览器缓存机制全攻略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556794&idx=1&sn=0186d0c4b36b6e7e0adf7ffaf7b3f9b8&chksm=80255c7bb752d56dd863bdc90295b6bf193612ef5b26e96d13f9165c8beb32125f5facc7fe31#rd)  
@@ -80,8 +82,6 @@
 - [2019-07-13-深入浅出-Vue-响应式原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556739&idx=1&sn=22c27be5766f71c4149044a65af7dbe7&chksm=80255c42b752d554fa0ebb8234f70fff3295a6af6962f7e17d917236c29d082307de042781b9&scene=27#wechat_redirect)  
 - [2019-07-13-面向对象：我没有全世界，但是未来我的世界都是你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556739&idx=2&sn=c30a43127b65774b33220bf1670f2849&chksm=80255c42b752d55481989c88da53df84ae0f357c05e8724ca3218099b16c8eb4569acbbe5bd0&scene=27#wechat_redirect)  
 - [2019-07-10-面向对象：相遇靠缘分，相守靠修行](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=2&sn=a07f2da868a3457fd15d717f50e098de#rd)  
-- [2019-07-10-Google-Chrome-工程师：JavaScript-不容错过的八大优化建议](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=1&sn=5303eb5b16567747da31557213136071#rd)  
-- [2019-07-08-JavaScript-常见的六种继承方式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556712&idx=1&sn=07ba3fd6e255210763f39a0bb6922a40#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html) ![](assets/new.png)  
+- [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)  
 - [2019-07-23-Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)  
 - [2019-07-19-科技爱好者周刊：第-65-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)  
 - [2019-07-15-iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)  
