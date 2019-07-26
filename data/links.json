@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【招聘】阿里云对象存储 OSS 团队招前端工程师",
@@ -6909,6 +6909,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 66 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html",
+        "date": "2019-07-26"
+      },
       {
         "title": "Termux 入门教程：架设手机 Server 下载文件",
         "link": "http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html",
