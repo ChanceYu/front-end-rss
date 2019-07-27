@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-26 18:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-27 22:00:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -109,6 +109,8 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect)
+- [【前端之巅】Vue、React、Angular与应用绑定就是一场隐形灾害！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=1&sn=8749253ac35ca459299cbe316da388cd&chksm=f9525421ce25dd37b55b9ec412c04df8f716e3aade3acd43270111780db2411e97d64af5feef&scene=27#wechat_redirect)
 - [【前端之巅】构建React表单必备的开源库：Formik](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=2&sn=a05b29eead8c23bfcdd6358a3b1a09f7&chksm=f9525416ce25dd0012c690a89ec1a965bbf4ea473766b4a375e7616f2d75210f606255ac345a#rd)
 - [【前端之巅】源码解析React-Hook构建过程：没有设计就是最好的设计](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491845&idx=1&sn=8992994eb5674f14a2ea5250c5b517ec&chksm=f9525446ce25dd50f4895894cb39fb509424107d44da7768be75bc653882c530d69fa9320ea2&scene=27#wechat_redirect)
 - [【前端之巅】构建大型React应用程序的最佳实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491566&idx=1&sn=d116a7932eceff6a66d338e7d7c9319e#rd)
@@ -293,6 +295,7 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端之巅】为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect)
 - [【前端之巅】逃离JavaScript，TypeScript成新宠](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491687&idx=1&sn=2d0c5286c006f6dbf7f1b60cfeb4a962#rd)
 - [【前端之巅】独家解读：淘宝TypeScript多场景开发和实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491580&idx=1&sn=bdc430ab303a12d3fe3eb01281445e93#rd)
 - [【前端之巅】使用TypeScript两年之后：它值得推荐吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491022&idx=1&sn=0f080050f4bb7c3365d5cfbc1b70bea1#rd)
@@ -1041,6 +1044,8 @@
 - [【前端大全】一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd)
 - [【前端大全】PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd)
 - [【前端大全】canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect)
+- [【前端之巅】社群直播-|-手把手带你实操-SQL-优化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect)
+- [【前端之巅】腾讯Now直播前端工程化的实践之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=2&sn=42eec8f2490b98028a62f8b18f35a8d8&chksm=f9525421ce25dd3779fd04ceca0844a1ea84ba40f2f36c4b696857a8b2f18815b2c77a1a717b&scene=27#wechat_redirect)
 - [【前端之巅】你不知道的WebRTC-弱网模拟测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect)
 - [【前端之巅】搞定复杂-GUI！西安交大提出前端设计图自动转代码新方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489854&idx=1&sn=4828d5d36c3becdf8b1f46490b5ce708#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】Web端H.265播放器研发解密](http://taobaofed.org/blog/2019/03/18/web-player-h265/)
@@ -1881,6 +1886,7 @@
 - [【张鑫旭-鑫空间-鑫生活】数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
+- [【阮一峰的网络日志】信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html)
 - [【阮一峰的网络日志】科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)
 - [【阮一峰的网络日志】Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)
 - [【阮一峰的网络日志】科技爱好者周刊：第-65-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)

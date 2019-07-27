@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-26 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-27 22:00:27，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-07-26-面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd) ![](assets/new.png)  
-- [2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd) ![](assets/new.png)  
+- [2019-07-26-面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd)  
+- [2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd)  
 - [2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect)  
 - [2019-07-24-关于-Babel-你必须知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556802&idx=1&sn=e1662ecf90a83b1af70f414a129c419e&chksm=80255c03b752d515cd295494b7dd7f9934dda965993ceb504dd81883986b2459ba6bbc8036c1#rd)  
 - [2019-07-23-浏览器缓存机制全攻略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556794&idx=1&sn=0186d0c4b36b6e7e0adf7ffaf7b3f9b8&chksm=80255c7bb752d56dd863bdc90295b6bf193612ef5b26e96d13f9165c8beb32125f5facc7fe31#rd)  
@@ -93,6 +93,11 @@
 </summary>
 
 
+- [2019-07-27-为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-27-轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-27-社群直播-|-手把手带你实操-SQL-优化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-26-Vue、React、Angular与应用绑定就是一场隐形灾害！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=1&sn=8749253ac35ca459299cbe316da388cd&chksm=f9525421ce25dd37b55b9ec412c04df8f716e3aade3acd43270111780db2411e97d64af5feef&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-26-腾讯Now直播前端工程化的实践之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=2&sn=42eec8f2490b98028a62f8b18f35a8d8&chksm=f9525421ce25dd3779fd04ceca0844a1ea84ba40f2f36c4b696857a8b2f18815b2c77a1a717b&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-07-25-怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect)  
 - [2019-07-24-JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect)  
 - [2019-07-23-提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect)  
@@ -108,11 +113,6 @@
 - [2019-07-21-你不知道的组件化开发：组件化的前世今生-|-前端训练营](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=1&sn=ee1673a2f4b139266526b3f6a1555928&chksm=f9525469ce25dd7f466efdc3fbd2741347628779c5d8b415e4e1bdcf9a1b21b9064a23eab0bb#rd)  
 - [2019-07-20-如果微软开发了Android，现在会是什么样呢？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=2&amp;sn=0a70679e41e2eec2df03983f7e139764&amp;chksm=f9525460ce25dd76f6463f4c86f09f9b25e4659a9353bcbf0fced54b2e957f1977a8f2ac3865#rd)  
 - [2019-07-20-为什么CSS这么难?](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=1&amp;sn=7d902688238742b98ee29fce7104af45&amp;chksm=f9525460ce25dd76fde292e3af53ce370eafbfe9e7e01369d0ba87c682c60c8813e2e7fd3237#rd)  
-- [2019-07-19-2019年五大跨平台移动应用开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=2&sn=5d6948678ef729b2acfdeac22ae52645&chksm=f952545bce25dd4df4397b9e4fb8313af5433ad4ea75439f387f8fbe9403396faa819908bea6&scene=27#wechat_redirect)  
-- [2019-07-19-大数据与人工智能@武汉，这里有专业的技术解读和趋势探讨](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=3&sn=a20a45f15ecdf9d663d376555ede6b03&chksm=f952545bce25dd4d70000917ba056a0661430e937ccda10aab4dbbd15a02b40d462e87560b30&scene=27#wechat_redirect)  
-- [2019-07-19-如何秒破面试官的提问：读过JS源码吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491864&idx=1&sn=3eb14d7fb2220e5a5bd71462b4fb2c87&chksm=f952545bce25dd4d5afa0b2461e262ce0465849177f1f85bf20b532d3c8e68a3132bd0f59cd1&scene=27#wechat_redirect)  
-- [2019-07-18-SwiftUI：苹果的一次天才尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491851&idx=1&sn=459b4c30f21846ffdc4d6579796e233f&chksm=f9525448ce25dd5eca51380138ba628f1bc863fff48aac22678ed16244419af4b0339223432f&scene=27#wechat_redirect)  
-- [2019-07-18-你知道这五种好用的编程模式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491851&idx=2&sn=a05ce57ff1db40c29252a0a399b916cb&chksm=f9525448ce25dd5e25274f55e763a72da44ff78a4cf265ff7e22ca385fa35392dd80dbd100e6&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html) ![](assets/new.png)  
 - [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)  
 - [2019-07-23-Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)  
 - [2019-07-19-科技爱好者周刊：第-65-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)  
@@ -205,7 +206,6 @@
 - [2019-05-17-每周分享第-56-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)  
 - [2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)  
 - [2019-05-03-每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)  
-- [2019-04-26-每周分享第-53-期](http://www.ruanyifeng.com/blog/2019/04/weekly-issue-53.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-26 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-27 22:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -182,6 +182,11 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-27-为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-27-轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-27-社群直播-|-手把手带你实操-SQL-优化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-26-Vue、React、Angular与应用绑定就是一场隐形灾害！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=1&sn=8749253ac35ca459299cbe316da388cd&chksm=f9525421ce25dd37b55b9ec412c04df8f716e3aade3acd43270111780db2411e97d64af5feef&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-26-腾讯Now直播前端工程化的实践之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=2&sn=42eec8f2490b98028a62f8b18f35a8d8&chksm=f9525421ce25dd3779fd04ceca0844a1ea84ba40f2f36c4b696857a8b2f18815b2c77a1a717b&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-25-怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-24-JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-23-提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect) 
@@ -218,6 +223,7 @@
 - [【前端之巅】2019-07-01-2019年JavaScript性能优化解析](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491653&idx=1&sn=34b1509d2001fe840e229c174d8bc8c1#rd) 
 - [【张鑫旭-鑫空间-鑫生活】2019-07-19-HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-07-07-HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/) 
+- [【阮一峰的网络日志】2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html) 
 - [【阮一峰的网络日志】2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html) 
 - [【阮一峰的网络日志】2019-07-23-Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html) 
 - [【阮一峰的网络日志】2019-07-19-科技爱好者周刊：第-65-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html) 

@@ -2662,9 +2662,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "面向对象：等你来撩",
@@ -4979,6 +4979,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "为什么2019年大家都喜欢用TypeScript？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect",
+        "date": "2019-07-27"
+      },
+      {
+        "title": "轻松渲染优化：使用React Hooks进行state跟踪",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect",
+        "date": "2019-07-27"
+      },
+      {
+        "title": "社群直播 | 手把手带你实操 SQL 优化",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect",
+        "date": "2019-07-27"
+      },
+      {
+        "title": "Vue、React、Angular与应用绑定就是一场隐形灾害！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=1&sn=8749253ac35ca459299cbe316da388cd&chksm=f9525421ce25dd37b55b9ec412c04df8f716e3aade3acd43270111780db2411e97d64af5feef&scene=27#wechat_redirect",
+        "date": "2019-07-26"
+      },
+      {
+        "title": "腾讯Now直播前端工程化的实践之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=2&sn=42eec8f2490b98028a62f8b18f35a8d8&chksm=f9525421ce25dd3779fd04ceca0844a1ea84ba40f2f36c4b696857a8b2f18815b2c77a1a717b&scene=27#wechat_redirect",
+        "date": "2019-07-26"
+      },
+      {
         "title": "怎样杀死IE11：以史为鉴",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect",
         "date": "2019-07-25"
@@ -6919,6 +6944,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "信用卡的历史起源",
+        "link": "http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html",
+        "date": "2019-07-27"
+      },
       {
         "title": "科技爱好者周刊：第 66 期",
         "link": "http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html",
