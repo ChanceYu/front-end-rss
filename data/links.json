@@ -6573,6 +6573,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "还算有点用的scrollTo和scrollBy两个JS API",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/",
+        "date": "2019-07-27"
+      },
+      {
         "title": "HTML静态页面原型交付工具“魔卡”简介",
         "link": "https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/",
         "date": "2019-07-19"
