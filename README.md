@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-28 06:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-28 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,7 @@
 </summary>
 
 
+- [2019-07-28-【第1682期】NPM的经济风云（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=1&sn=4d5c033a12d934c894dab9322c083f33&chksm=bd4942168a3ecb00e70f89abaf80faa8a295453ed4c3375c0e61c1bee69765adac8c65b6b5fd#rd) ![](assets/new.png)  
 - [2019-07-26-【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)  
 - [2019-07-26-【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)  
 - [2019-07-25-【第1679其】函数式编程浅析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=2&sn=543cda30c02dbd2c4e73e3d0c68e5edb&chksm=bd4942f48a3ecbe2bb4683f295af06da6f09c633d170678c855bae83995d0d8f67b4192d64aa#rd)  
@@ -50,7 +51,6 @@
 - [2019-07-19-【第1673期】-图像优化自动化实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=1&sn=417830af15edcbe44de8e5af7ceb00d1&chksm=bd4942c58a3ecbd39a05feb6fbff36ceb7f8f41cc0c9185f204ff45bac7eb00643cba6a98a2a&scene=27#wechat_redirect)  
 - [2019-07-19-【图书】Flutter：从0到1构建大前端应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=2&sn=ba392f95d7edbce877a3204a07154e2d&chksm=bd4942c58a3ecbd34f2c1122acc31dc7eb5dc55a40c51810efed3610ad16a2cf559d3df955f0&scene=27#wechat_redirect)  
 - [2019-07-18-TypeScript凭什么成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=1&sn=96ca04c72ce2a4bba0224368584fe5d1&chksm=bd4942bc8a3ecbaae1160c3b080dbe670bb511d71e60c44d1860dcc60f714ebf7ee5335a362a&scene=27#wechat_redirect)  
-- [2019-07-18-【第1672期】React-优化技巧在-Web-版光线追踪里的应用中](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=2&sn=9daff53febc75f6b4d15849a579d8677&chksm=bd4942bc8a3ecbaa35c6fac44ab8041d6b05eaa5db403c62b73ac7fa754d9cedca17a3b5ec32&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/) ![](assets/new.png)  
+- [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/)  
 - [2019-07-19-HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/)  
 - [2019-07-07-HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/)  
 - [2019-06-23-DOMParser和XMLSerializer两个API简介](https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/)  
