@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-28 22:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-29 08:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,10 @@
 </summary>
 
 
+- [2019-07-29-【第1683期】GraphQL-BFF：微服务背景下的前后端数据交互方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233171&idx=1&sn=6f2550d9433dbb75d52d0aa718ef8801&chksm=bd4942178a3ecb016a4fb938f20acbe7481b17929fc8ceeedde0a018e73536badc341421de5e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-28-【招聘】阿里新零售体验技术团队招P7](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=2&sn=163c8dfc72b3406a3ac4fe30065b4b02&chksm=bd4942168a3ecb0044d9bf2eb64ad49461e9bb4c6aea6c662dcd1146ce0cbc4d453cd978b187&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-27-【第1681期】前端离线化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=1&sn=ae703b65e79c5e3096e93256a3db762e&chksm=bd4942148a3ecb0243b344104b2385be3f71fea229e076359113775e89b7856e50df7a903332&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-27-【招聘】腾讯AlloyTeam招募Web前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=2&sn=8925adf8a86ca2f4a283d3297e65ad15&chksm=bd4942148a3ecb02fae8d928910e694d7aa7b6f44fbe8b7f790179b80d4bcd6115afa0430b1a&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-07-28-【第1682期】NPM的经济风云（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=1&sn=4d5c033a12d934c894dab9322c083f33&chksm=bd4942168a3ecb00e70f89abaf80faa8a295453ed4c3375c0e61c1bee69765adac8c65b6b5fd#rd)  
 - [2019-07-26-【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)  
 - [2019-07-26-【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)  
@@ -47,10 +51,6 @@
 - [2019-07-21-【招聘】阿里淘系技术部前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=2&amp;sn=847c6a6cb18ca8a4aeb9f54ccb5e25a2&amp;chksm=bd4942dc8a3ecbcac5195acabe45108c4e6e8967eedeed3e8fabc239a8299f3a48382c4ce430#rd)  
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect)  
 - [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect)  
-- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd)  
-- [2019-07-19-【第1673期】-图像优化自动化实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=1&sn=417830af15edcbe44de8e5af7ceb00d1&chksm=bd4942c58a3ecbd39a05feb6fbff36ceb7f8f41cc0c9185f204ff45bac7eb00643cba6a98a2a&scene=27#wechat_redirect)  
-- [2019-07-19-【图书】Flutter：从0到1构建大前端应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=2&sn=ba392f95d7edbce877a3204a07154e2d&chksm=bd4942c58a3ecbd34f2c1122acc31dc7eb5dc55a40c51810efed3610ad16a2cf559d3df955f0&scene=27#wechat_redirect)  
-- [2019-07-18-TypeScript凭什么成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=1&sn=96ca04c72ce2a4bba0224368584fe5d1&chksm=bd4942bc8a3ecbaae1160c3b080dbe670bb511d71e60c44d1860dcc60f714ebf7ee5335a362a&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-07-28-CSS-:not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/) ![](assets/new.png)  
+- [2019-07-28-CSS-:not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)  
 - [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/)  
 - [2019-07-19-HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/)  
 - [2019-07-07-HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/)  

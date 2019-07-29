@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-28 22:00:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-07-29 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -1309,6 +1309,7 @@
 
 
 
+- [【前端早读课】【第1683期】GraphQL-BFF：微服务背景下的前后端数据交互方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233171&idx=1&sn=6f2550d9433dbb75d52d0aa718ef8801&chksm=bd4942178a3ecb016a4fb938f20acbe7481b17929fc8ceeedde0a018e73536badc341421de5e&scene=27#wechat_redirect)
 - [【前端早读课】【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)
 - [【前端早读课】GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd)
 - [【前端早读课】【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect)
@@ -1368,6 +1369,8 @@
 
 
 
+- [【前端早读课】【招聘】阿里新零售体验技术团队招P7](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=2&sn=163c8dfc72b3406a3ac4fe30065b4b02&chksm=bd4942168a3ecb0044d9bf2eb64ad49461e9bb4c6aea6c662dcd1146ce0cbc4d453cd978b187&scene=27#wechat_redirect)
+- [【前端早读课】【招聘】腾讯AlloyTeam招募Web前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=2&sn=8925adf8a86ca2f4a283d3297e65ad15&chksm=bd4942148a3ecb02fae8d928910e694d7aa7b6f44fbe8b7f790179b80d4bcd6115afa0430b1a&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)
 - [【前端早读课】【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd)
 - [【前端早读课】【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=2&sn=2b633c2a9aa9f507f8e08faa81c10137&chksm=bd4942de8a3ecbc8d51eb2e987a8d4d98699c93fd0060bc39e997bdcf87038ad3a7d62de4a39#rd)
@@ -1577,6 +1580,7 @@
 
 
 
+- [【前端早读课】【第1681期】前端离线化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=1&sn=ae703b65e79c5e3096e93256a3db762e&chksm=bd4942148a3ecb0243b344104b2385be3f71fea229e076359113775e89b7856e50df7a903332&scene=27#wechat_redirect)
 - [【前端早读课】【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)
 - [【前端早读课】2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd)
 - [【前端早读课】前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd)
