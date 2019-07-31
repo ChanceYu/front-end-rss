@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-31 22:00:30，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-01 06:00:27，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-07-31-面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd) ![](assets/new.png)  
-- [2019-07-31-你未必知道的-49-个-CSS-知识点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=1&sn=57765f51f90b17051028016bef7efc9b&chksm=80255c23b752d5350839b5d9fe74d0c4ed9ef2dfce22a785d681d9944c623a3fe3615871c953#rd) ![](assets/new.png)  
+- [2019-07-31-面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd)  
+- [2019-07-31-你未必知道的-49-个-CSS-知识点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=1&sn=57765f51f90b17051028016bef7efc9b&chksm=80255c23b752d5350839b5d9fe74d0c4ed9ef2dfce22a785d681d9944c623a3fe3615871c953#rd)  
 - [2019-07-26-面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd)  
 - [2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd)  
 - [2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect)  
@@ -93,8 +93,14 @@
 </summary>
 
 
-- [2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd) ![](assets/new.png)  
-- [2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd) ![](assets/new.png)  
+- [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=1&sn=f2adf4450feee4fdf0c679535bd956d6&chksm=f95254cbce25dddd6390fe4a45c61bcf0e043f33b74e73ee4f37b69b72726f05fa3f5b1d75e9&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-30-浏览器大战和JavaScript的诞生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=2&sn=81e6aa655da61c3d0852f0297b7557d0&chksm=f95254cbce25dddddd0a18b458b5c1246e4d410b7739f3aebc59baa6649eec811adc78542d25&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-29-React-Hooks会取代Redux吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=1&sn=514fab5143bb08b7dc0396ccc726f885&chksm=f9525438ce25dd2e5b2835af3124953c4850ac1b4178af60f00abaf6d682c4d359b44e42af0b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-29-不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-28-TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-28-“10-倍工程师”，以一当十的程序员真的存在吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=2&sn=a06c28ff5053a63c696a11b8f78f4b30&chksm=f9525437ce25dd21a079265d78cb91988495cac9ae60c03d84a92a7ce0fe150249d5ecec65e3&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd)  
+- [2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd)  
 - [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1)  
 - [2019-07-27-为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect)  
 - [2019-07-27-轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect)  
@@ -107,12 +113,6 @@
 - [2019-07-25-Kotlin对战Java：新秀会击败老将吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd)  
 - [2019-07-25-如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd)  
 - [2019-07-24-人人都在说-AI+大数据，落地的事儿谁来做？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=3&sn=562170a881a7900cdfd33037d78597bf&chksm=f9525416ce25dd004f5e2b5d71232d517aca84807a68088f22c9fedb8a9a6cfcc2dc6878d9f2#rd)  
-- [2019-07-24-构建React表单必备的开源库：Formik](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=2&sn=a05b29eead8c23bfcdd6358a3b1a09f7&chksm=f9525416ce25dd0012c690a89ec1a965bbf4ea473766b4a375e7616f2d75210f606255ac345a#rd)  
-- [2019-07-23-谷歌准备放弃存在9年的XSS检测工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=3&sn=33dce673897657b7020a8180181c37fd&chksm=f9525407ce25dd113da6fad122d6c627dcca40dd7c10b3977917f36e2f1ddc0e18380afd450b#rd)  
-- [2019-07-23-大前端时代，UI设计师也需要学习框架！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=2&sn=0f2f9cea6feb56d97392231c85802d1e&chksm=f9525407ce25dd1127099eb690a7c3b4d93e0eb43c2a56d27988c9791919607e42b5a197cae2#rd)  
-- [2019-07-22-如何利用Vuetify快速构建具有吸引力的交互式前端？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=2&sn=6163a7f483bf2e9cc96be54367bd0bfc&chksm=f9525474ce25dd62c66ad5c726c2147f2031b17895194861f82c301cc2df3b5efca6f7801d0e#rd)  
-- [2019-07-22-最全HTTP安全响应头设置指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=1&sn=6a17c289ec2a5ab137c68f416961f7a7&chksm=f9525474ce25dd62a928b306a88f8ef909be1fd1d49d24a477a9d72acaff2606319a1bbbba68#rd)  
-- [2019-07-21-HTTP/2协议的优点解析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=2&sn=119c8a3a061503e0cede214bdcca49a8&chksm=f9525469ce25dd7f2c03edfddc86e8a3c68891459b33325305ed94d0da4dc09c5edf075876d9#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

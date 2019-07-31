@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-31 22:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-01 06:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -193,6 +193,12 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=1&sn=f2adf4450feee4fdf0c679535bd956d6&chksm=f95254cbce25dddd6390fe4a45c61bcf0e043f33b74e73ee4f37b69b72726f05fa3f5b1d75e9&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-30-浏览器大战和JavaScript的诞生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=2&sn=81e6aa655da61c3d0852f0297b7557d0&chksm=f95254cbce25dddddd0a18b458b5c1246e4d410b7739f3aebc59baa6649eec811adc78542d25&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-29-React-Hooks会取代Redux吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=1&sn=514fab5143bb08b7dc0396ccc726f885&chksm=f9525438ce25dd2e5b2835af3124953c4850ac1b4178af60f00abaf6d682c4d359b44e42af0b&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-29-不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-28-TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect) 
+- [【前端之巅】2019-07-28-“10-倍工程师”，以一当十的程序员真的存在吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=2&sn=a06c28ff5053a63c696a11b8f78f4b30&chksm=f9525437ce25dd21a079265d78cb91988495cac9ae60c03d84a92a7ce0fe150249d5ecec65e3&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd) 
 - [【前端之巅】2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd) 
 - [【前端之巅】2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1) 

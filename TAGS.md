@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-07-31 22:00:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-01 06:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -109,6 +109,7 @@
 - [【前端大全】当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect)
 - [【前端大全】React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect)
 - [【前端大全】重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect)
+- [【前端之巅】React-Hooks会取代Redux吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=1&sn=514fab5143bb08b7dc0396ccc726f885&chksm=f9525438ce25dd2e5b2835af3124953c4850ac1b4178af60f00abaf6d682c4d359b44e42af0b&scene=27#wechat_redirect)
 - [【前端之巅】轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect)
 - [【前端之巅】Vue、React、Angular与应用绑定就是一场隐形灾害！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=1&sn=8749253ac35ca459299cbe316da388cd&chksm=f9525421ce25dd37b55b9ec412c04df8f716e3aade3acd43270111780db2411e97d64af5feef&scene=27#wechat_redirect)
 - [【前端之巅】构建React表单必备的开源库：Formik](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=2&sn=a05b29eead8c23bfcdd6358a3b1a09f7&chksm=f9525416ce25dd0012c690a89ec1a965bbf4ea473766b4a375e7616f2d75210f606255ac345a#rd)
@@ -295,6 +296,7 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端之巅】TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect)
 - [【前端之巅】为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect)
 - [【前端之巅】逃离JavaScript，TypeScript成新宠](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491687&idx=1&sn=2d0c5286c006f6dbf7f1b60cfeb4a962#rd)
 - [【前端之巅】独家解读：淘宝TypeScript多场景开发和实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491580&idx=1&sn=bdc430ab303a12d3fe3eb01281445e93#rd)
@@ -347,6 +349,7 @@
 - [【前端大全】前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect)
 - [【前端大全】从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect)
 - [【前端大全】webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
+- [【前端之巅】不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect)
 - [【前端之巅】npm已落伍，下一代包管理器Tink正在孵化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491575&idx=1&sn=85cc01f9056e00c65c8bfc12249930a3#rd)
 - [【前端之巅】前npm-CTO：JavaScript软件包管理未来是去除中心化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491504&idx=1&sn=0f15ed02a3fb4613ae91142dc1af23ae#rd)
 - [【前端之巅】作为前端，你真的会用webpack么？|-极客时间](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491352&idx=1&sn=62f7eab04b76d7d7d35dd28b5a14f0e4#rd)
@@ -767,6 +770,7 @@
 - [【前端大全】深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect)
 - [【前端大全】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect)
 - [【前端大全】适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect)
+- [【前端之巅】浏览器大战和JavaScript的诞生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=2&sn=81e6aa655da61c3d0852f0297b7557d0&chksm=f95254cbce25dddddd0a18b458b5c1246e4d410b7739f3aebc59baa6649eec811adc78542d25&scene=27#wechat_redirect)
 - [【前端之巅】提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect)
 - [【前端之巅】如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd)
 - [【前端之巅】你不知道的组件化开发：组件化的前世今生-|-前端训练营](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=1&sn=ee1673a2f4b139266526b3f6a1555928&chksm=f9525469ce25dd7f466efdc3fbd2741347628779c5d8b415e4e1bdcf9a1b21b9064a23eab0bb#rd)
@@ -1286,6 +1290,7 @@
 - [【前端大全】即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect)
 - [【前端大全】关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect)
 - [【前端大全】WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect)
+- [【前端之巅】恕我直言，90%-的应用场景都不需要用WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=1&sn=f2adf4450feee4fdf0c679535bd956d6&chksm=f95254cbce25dddd6390fe4a45c61bcf0e043f33b74e73ee4f37b69b72726f05fa3f5b1d75e9&scene=27#wechat_redirect)
 - [【前端之巅】恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1)
 - [【前端之巅】HTTP/2协议的优点解析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=2&sn=119c8a3a061503e0cede214bdcca49a8&chksm=f9525469ce25dd7f2c03edfddc86e8a3c68891459b33325305ed94d0da4dc09c5edf075876d9#rd)
 - [【前端之巅】WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd)
@@ -1812,6 +1817,7 @@
 - [【前端大全】2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect)
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
+- [【前端之巅】“10-倍工程师”，以一当十的程序员真的存在吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=2&sn=a06c28ff5053a63c696a11b8f78f4b30&chksm=f9525437ce25dd21a079265d78cb91988495cac9ae60c03d84a92a7ce0fe150249d5ecec65e3&scene=27#wechat_redirect)
 - [【前端之巅】Kotlin对战Java：新秀会击败老将吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd)
 - [【前端之巅】人人都在说-AI+大数据，落地的事儿谁来做？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=3&sn=562170a881a7900cdfd33037d78597bf&chksm=f9525416ce25dd004f5e2b5d71232d517aca84807a68088f22c9fedb8a9a6cfcc2dc6878d9f2#rd)
 - [【前端之巅】谷歌准备放弃存在9年的XSS检测工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=3&sn=33dce673897657b7020a8180181c37fd&chksm=f9525407ce25dd113da6fad122d6c627dcca40dd7c10b3977917f36e2f1ddc0e18380afd450b#rd)
