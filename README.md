@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-07-31 12:00:31，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-07-31 22:00:30，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-07-31-面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd) ![](assets/new.png)  
+- [2019-07-31-你未必知道的-49-个-CSS-知识点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=1&sn=57765f51f90b17051028016bef7efc9b&chksm=80255c23b752d5350839b5d9fe74d0c4ed9ef2dfce22a785d681d9944c623a3fe3615871c953#rd) ![](assets/new.png)  
 - [2019-07-26-面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd)  
 - [2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd)  
 - [2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect)  
@@ -80,8 +82,6 @@
 - [2019-07-15-前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556746&idx=2&sn=3ac0c80b9791c0b7d6db959c9d16b323&chksm=80255c4bb752d55d52bda023a6423ec706c34d0a36cdaf40adbeef05cc57804726c5ac08b42e&scene=27#wechat_redirect)  
 - [2019-07-14-零基础的小明要如何成为前端工程师？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556744&idx=1&sn=2a2d8fe7b8c3f96d79ebcc189fc60721&chksm=80255c49b752d55fab18fd3321e4a91b48eb596da9d9b828d1ecc4037136be68a450a28f6954&scene=27#wechat_redirect)  
 - [2019-07-13-深入浅出-Vue-响应式原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556739&idx=1&sn=22c27be5766f71c4149044a65af7dbe7&chksm=80255c42b752d554fa0ebb8234f70fff3295a6af6962f7e17d917236c29d082307de042781b9&scene=27#wechat_redirect)  
-- [2019-07-13-面向对象：我没有全世界，但是未来我的世界都是你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556739&idx=2&sn=c30a43127b65774b33220bf1670f2849&chksm=80255c42b752d55481989c88da53df84ae0f357c05e8724ca3218099b16c8eb4569acbbe5bd0&scene=27#wechat_redirect)  
-- [2019-07-10-面向对象：相遇靠缘分，相守靠修行](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556726&idx=2&sn=a07f2da868a3457fd15d717f50e098de#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,7 +93,9 @@
 </summary>
 
 
-- [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1) ![](assets/new.png)  
+- [2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd) ![](assets/new.png)  
+- [2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd) ![](assets/new.png)  
+- [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1)  
 - [2019-07-27-为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect)  
 - [2019-07-27-轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect)  
 - [2019-07-27-社群直播-|-手把手带你实操-SQL-优化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect)  
@@ -111,8 +113,6 @@
 - [2019-07-22-如何利用Vuetify快速构建具有吸引力的交互式前端？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=2&sn=6163a7f483bf2e9cc96be54367bd0bfc&chksm=f9525474ce25dd62c66ad5c726c2147f2031b17895194861f82c301cc2df3b5efca6f7801d0e#rd)  
 - [2019-07-22-最全HTTP安全响应头设置指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=1&sn=6a17c289ec2a5ab137c68f416961f7a7&chksm=f9525474ce25dd62a928b306a88f8ef909be1fd1d49d24a477a9d72acaff2606319a1bbbba68#rd)  
 - [2019-07-21-HTTP/2协议的优点解析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=2&sn=119c8a3a061503e0cede214bdcca49a8&chksm=f9525469ce25dd7f2c03edfddc86e8a3c68891459b33325305ed94d0da4dc09c5edf075876d9#rd)  
-- [2019-07-21-你不知道的组件化开发：组件化的前世今生-|-前端训练营](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491882&idx=1&sn=ee1673a2f4b139266526b3f6a1555928&chksm=f9525469ce25dd7f466efdc3fbd2741347628779c5d8b415e4e1bdcf9a1b21b9064a23eab0bb#rd)  
-- [2019-07-20-如果微软开发了Android，现在会是什么样呢？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247491875&amp;idx=2&amp;sn=0a70679e41e2eec2df03983f7e139764&amp;chksm=f9525460ce25dd76f6463f4c86f09f9b25e4659a9353bcbf0fced54b2e957f1977a8f2ac3865#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

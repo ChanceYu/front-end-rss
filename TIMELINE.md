@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-31 12:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-31 22:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -161,6 +161,8 @@
 - [【前端早读课】2019-07-02-【第1656期】精读《Vue3.0-Function-API》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=2&sn=12ef569f8e77adcc561595b38715a46e#rd) 
 - [【前端早读课】2019-07-02-一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd) 
 - [【前端早读课】2019-07-01-【第1655期】零基础的小明要如何成为前端工程师？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232867&idx=1&sn=e83b93d0293cc30a70248236994b5cd2#rd) 
+- [【前端大全】2019-07-31-面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd) 
+- [【前端大全】2019-07-31-你未必知道的-49-个-CSS-知识点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=1&sn=57765f51f90b17051028016bef7efc9b&chksm=80255c23b752d5350839b5d9fe74d0c4ed9ef2dfce22a785d681d9944c623a3fe3615871c953#rd) 
 - [【前端大全】2019-07-26-面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd) 
 - [【前端大全】2019-07-26-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd) 
 - [【前端大全】2019-07-25-8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect) 
@@ -191,6 +193,8 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd) 
+- [【前端之巅】2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd) 
 - [【前端之巅】2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1) 
 - [【前端之巅】2019-07-27-为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-27-轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect) 
