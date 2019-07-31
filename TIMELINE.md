@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-07-31 08:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-07-31 12:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -191,6 +191,7 @@
 - [【前端大全】2019-07-03-谷歌变坏了？Chrome-已成众矢之的：15-篇前端热文回看](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556670&idx=1&sn=587da656c61eadc4bb468da89aeaae32#rd) 
 - [【前端大全】2019-07-02-JS-中可以提升幸福度的小技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556663&idx=1&sn=3ade925b4b3c82bb47da876af5ad7794#rd) 
 - [【前端大全】2019-07-01-JS-开发常用工具函数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556659&idx=1&sn=0fb1757fddc660add803f95c10fdcf33#rd) 
+- [【前端之巅】2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1) 
 - [【前端之巅】2019-07-27-为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-27-轻松渲染优化：使用React-Hooks进行state跟踪](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=2&sn=b6ba187619f8f6d8ac8bfa13bf1d50a1&chksm=f952542dce25dd3b45a8180fdf9fbe312b7f4c1ee74df6fcf1744122ecc8b914b07b5f5a82a1&scene=27#wechat_redirect) 
 - [【前端之巅】2019-07-27-社群直播-|-手把手带你实操-SQL-优化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=3&sn=dbb2b1ad5ce196dd50294b63b9c4e43e&chksm=f952542dce25dd3be7541079d9e85d63ecb279feb11a3cb3ddd0439a24719fb66b5d46c533f0&scene=27#wechat_redirect) 

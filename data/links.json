@@ -5019,10 +5019,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "恕我直言，90% 的应用场景都不需要用WebAssembly！",
+        "link": "https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1",
+        "date": "2019-07-30"
+      },
       {
         "title": "为什么2019年大家都喜欢用TypeScript？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect",
