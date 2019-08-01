@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-01 22:00:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-02 06:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -106,6 +106,7 @@
 
 - [【前端早读课】2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect) 
+- [【前端之巅】2019-08-01-Node.js-12：服务端JavaScript的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=2&sn=a240bf656aa1f849e250575276f289d3&chksm=f95254e1ce25ddf7949285b73141fed77f47962068956ca0db2ca9d12ae8102794c2f7866b69#rd) 
 - [【前端之巅】2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 
 - [【阮一峰的网络日志】2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html) 
 

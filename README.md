@@ -9,7 +9,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-01 22:00:32，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-02 06:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -93,7 +93,8 @@
 </summary>
 
 
-- [2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) ![](assets/new.png)  
+- [2019-08-01-Node.js-12：服务端JavaScript的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=2&sn=a240bf656aa1f849e250575276f289d3&chksm=f95254e1ce25ddf7949285b73141fed77f47962068956ca0db2ca9d12ae8102794c2f7866b69#rd) ![](assets/new.png)  
+- [2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd)  
 - [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=1&sn=f2adf4450feee4fdf0c679535bd956d6&chksm=f95254cbce25dddd6390fe4a45c61bcf0e043f33b74e73ee4f37b69b72726f05fa3f5b1d75e9&scene=27#wechat_redirect)  
 - [2019-07-30-浏览器大战和JavaScript的诞生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=2&sn=81e6aa655da61c3d0852f0297b7557d0&chksm=f95254cbce25dddddd0a18b458b5c1246e4d410b7739f3aebc59baa6649eec811adc78542d25&scene=27#wechat_redirect)  
 - [2019-07-29-React-Hooks会取代Redux吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=1&sn=514fab5143bb08b7dc0396ccc726f885&chksm=f9525438ce25dd2e5b2835af3124953c4850ac1b4178af60f00abaf6d682c4d359b44e42af0b&scene=27#wechat_redirect)  
@@ -112,7 +113,6 @@
 - [2019-07-24-JS引擎大PK：JSC-vs-V8-vs-Hermes](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491925&idx=1&sn=b0437613760bce131d51022947d7e17f&chksm=f9525416ce25dd00064bc1efb29e5dbd2ba180c559e949a6ffd49d1df7c70be4101be5642c92&scene=27#wechat_redirect)  
 - [2019-07-23-提高JavaScript性能的12个技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491908&idx=1&sn=0d7ec0a53071cf8e8b7b12cb740de04c&chksm=f9525407ce25dd11df9a38eb6117f6c417d67f3ffb727d6cd0771b8e0aa26372bcaf02f6ea25&scene=27#wechat_redirect)  
 - [2019-07-25-Kotlin对战Java：新秀会击败老将吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=3&sn=c11e17fd63ef44a8b14b08e6d900c4e0&chksm=f9525418ce25dd0e16d5a7b24c8b1f79663f7ff0554746f288914bca89ddbe7c762d708e8cc0#rd)  
-- [2019-07-25-如何实现JS真正意义上的弱引用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=2&sn=03a618cd6a7383d72d55030869781377&chksm=f9525418ce25dd0e19a6ef2a51ccf67323bf2cbe2a34ea8e6dd8ecea54d8ed1bc41906609e16#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
