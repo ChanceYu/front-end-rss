@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-01 06:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-01 08:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -15,7 +15,7 @@
 <td><a href="#2019-05">05月</a></td>
 <td><a href="#2019-06">06月</a></td>
 <td><a href="#2019-07">07月</a></td>
-<td>08月</td>
+<td><a href="#2019-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
@@ -97,6 +97,18 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2019-08">
+ 2019-08
+</summary>
+
+
+- [【前端早读课】2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect) 
+- [【前端早读课】2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2019-07">

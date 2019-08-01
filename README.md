@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-01 06:00:27，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-01 08:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-07-31-【第1685期】JavaScript到底是解释型语言还是编译型语言?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=1&sn=f97d7de5586509cfaf12e855e4d657ca&chksm=bd4942258a3ecb337dfe5adbb221414031111a599cd169d445da27530129ee1590f2d22ca0d1&scene=27#wechat_redirect)  
 - [2019-07-31-【招聘】简单，真诚，「阿里新零售CRO技术部大前端团队」招聘！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=2&sn=f0cefe022e1cba4a482f778ea54528a9&chksm=bd4942258a3ecb33e3dcc17a9ad6b9cc9b25d0aa18157bb09de4d1a1e67deab3ef814934ea4a&scene=27#wechat_redirect)  
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect)  
@@ -49,8 +51,6 @@
 - [2019-07-23-【第1677期】重构支付宝小程序构建流程有感](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=2&sn=9ad2a52ce17e41e8109c4f78b5445d2a&chksm=bd4942e48a3ecbf2cce32b90781d2cf55b288d4000c306c4df47ed5a4c0691bd6a51da1d86b7#rd)  
 - [2019-07-23-前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd)  
 - [2019-07-22-【招聘】阿里政务钉钉事业部/企业智能事业部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=2&sn=2b633c2a9aa9f507f8e08faa81c10137&chksm=bd4942de8a3ecbc8d51eb2e987a8d4d98699c93fd0060bc39e997bdcf87038ad3a7d62de4a39#rd)  
-- [2019-07-22-【第1676期】Protocol-Buffers-编码原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233114&idx=1&sn=74c4a11653ab8d2aec00706fb5ba297f&chksm=bd4942de8a3ecbc8ca3ec3e25b8f432806b14d13c2de08017708703cb3006387746cfdcde9dd#rd)  
-- [2019-07-21-【第1675期】React-优化技巧在-Web-版光线追踪里的应用下](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233112&idx=1&sn=9ca4d30fd4683410830b5a38f39743c3&chksm=bd4942dc8a3ecbca219dee5deb7ab9654298f6ee3a88ba3844331361d736749e05cf8f9de14f&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,12 +93,12 @@
 </summary>
 
 
-- [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=1&sn=f2adf4450feee4fdf0c679535bd956d6&chksm=f95254cbce25dddd6390fe4a45c61bcf0e043f33b74e73ee4f37b69b72726f05fa3f5b1d75e9&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-30-浏览器大战和JavaScript的诞生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=2&sn=81e6aa655da61c3d0852f0297b7557d0&chksm=f95254cbce25dddddd0a18b458b5c1246e4d410b7739f3aebc59baa6649eec811adc78542d25&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-29-React-Hooks会取代Redux吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=1&sn=514fab5143bb08b7dc0396ccc726f885&chksm=f9525438ce25dd2e5b2835af3124953c4850ac1b4178af60f00abaf6d682c4d359b44e42af0b&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-29-不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-28-TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-28-“10-倍工程师”，以一当十的程序员真的存在吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=2&sn=a06c28ff5053a63c696a11b8f78f4b30&chksm=f9525437ce25dd21a079265d78cb91988495cac9ae60c03d84a92a7ce0fe150249d5ecec65e3&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=1&sn=f2adf4450feee4fdf0c679535bd956d6&chksm=f95254cbce25dddd6390fe4a45c61bcf0e043f33b74e73ee4f37b69b72726f05fa3f5b1d75e9&scene=27#wechat_redirect)  
+- [2019-07-30-浏览器大战和JavaScript的诞生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491976&idx=2&sn=81e6aa655da61c3d0852f0297b7557d0&chksm=f95254cbce25dddddd0a18b458b5c1246e4d410b7739f3aebc59baa6649eec811adc78542d25&scene=27#wechat_redirect)  
+- [2019-07-29-React-Hooks会取代Redux吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=1&sn=514fab5143bb08b7dc0396ccc726f885&chksm=f9525438ce25dd2e5b2835af3124953c4850ac1b4178af60f00abaf6d682c4d359b44e42af0b&scene=27#wechat_redirect)  
+- [2019-07-29-不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect)  
+- [2019-07-28-TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect)  
+- [2019-07-28-“10-倍工程师”，以一当十的程序员真的存在吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=2&sn=a06c28ff5053a63c696a11b8f78f4b30&chksm=f9525437ce25dd21a079265d78cb91988495cac9ae60c03d84a92a7ce0fe150249d5ecec65e3&scene=27#wechat_redirect)  
 - [2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd)  
 - [2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd)  
 - [2019-07-30-恕我直言，90%-的应用场景都不需要用WebAssembly！](https://wemp.app/posts/fd41d237-3b70-4ee8-b855-8de62b173bd1)  
