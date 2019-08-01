@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-01 08:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-01 18:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect)  
+- [2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect)  
 - [2019-07-31-【第1685期】JavaScript到底是解释型语言还是编译型语言?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=1&sn=f97d7de5586509cfaf12e855e4d657ca&chksm=bd4942258a3ecb337dfe5adbb221414031111a599cd169d445da27530129ee1590f2d22ca0d1&scene=27#wechat_redirect)  
 - [2019-07-31-【招聘】简单，真诚，「阿里新零售CRO技术部大前端团队」招聘！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=2&sn=f0cefe022e1cba4a482f778ea54528a9&chksm=bd4942258a3ecb33e3dcc17a9ad6b9cc9b25d0aa18157bb09de4d1a1e67deab3ef814934ea4a&scene=27#wechat_redirect)  
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html) ![](assets/new.png)  
 - [2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html)  
 - [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)  
 - [2019-07-23-Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)  
@@ -205,7 +206,6 @@
 - [2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)  
 - [2019-05-17-每周分享第-56-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)  
 - [2019-05-10-每周分享第-55-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-55.html)  
-- [2019-05-03-每周分享第-54-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-54.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
