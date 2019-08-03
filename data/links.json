@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】腾讯蓝鲸招web高级前端",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=2&sn=e0f3f4ac1d1d5ce553b87cd68b203800&chksm=bd49423f8a3ecb293909927d7fc193dd642beedf4d23259e57a5d79df4048f660adac7821259#rd",
+        "date": "2019-08-03"
+      },
+      {
+        "title": "【第1688期】程序员应该怎样提高自己",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=1&sn=b3f49a5f1367829c7de56b0d5223b541&chksm=bd49423f8a3ecb2955b65e863e57d9074fcc7546b6ca464b6d9be3d49107f9182e1f65f28377#rd",
+        "date": "2019-08-03"
+      },
       {
         "title": "【招聘】北京视联动力信息技术招前端开发",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233203&idx=2&sn=df3cdf97ae1f5a7aeb445f22f9db1696&chksm=bd4942378a3ecb219b6aa5c95ed9ddb89e0530d0b41ce1d47076c0f782b296d45381501121b6#rd",
@@ -5054,9 +5064,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "Webpack优化技巧，构建效率提升50%",
