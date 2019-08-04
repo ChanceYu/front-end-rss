@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-03 18:00:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-04 08:00:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -1040,6 +1040,7 @@
 
 
 
+- [【前端早读课】【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd)
 - [【前端早读课】【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect)
 - [【前端早读课】【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd)
@@ -1605,6 +1606,7 @@
 
 
 
+- [【前端早读课】【第1689期】职业思考：技术人需要突破的-10-个困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=1&sn=e9e2990dbcb54527a331ed3119ff44e8&chksm=bd4942408a3ecb56c3e2b2fd2df24cf545ea66f087512426f7b9a92e71390af3dbba5ef3d53d#rd)
 - [【前端早读课】【第1688期】程序员应该怎样提高自己](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=1&sn=b3f49a5f1367829c7de56b0d5223b541&chksm=bd49423f8a3ecb2955b65e863e57d9074fcc7546b6ca464b6d9be3d49107f9182e1f65f28377#rd)
 - [【前端早读课】【第1687期】「数据模型」是如何助力前端开发的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233203&idx=1&sn=d666068b9e14238c55995fad75b61a21&chksm=bd4942378a3ecb2119d54ab6acc2d2eed2f5b73f888a7da63bd1d88f2fd3ab828bafaaf45de5#rd)
 - [【前端早读课】【第1681期】前端离线化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=1&sn=ae703b65e79c5e3096e93256a3db762e&chksm=bd4942148a3ecb0243b344104b2385be3f71fea229e076359113775e89b7856e50df7a903332&scene=27#wechat_redirect)

@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-03 18:00:32，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-04 08:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd) ![](assets/new.png)  
+- [2019-08-04-【第1689期】职业思考：技术人需要突破的-10-个困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=1&sn=e9e2990dbcb54527a331ed3119ff44e8&chksm=bd4942408a3ecb56c3e2b2fd2df24cf545ea66f087512426f7b9a92e71390af3dbba5ef3d53d#rd) ![](assets/new.png)  
 - [2019-08-03-【招聘】腾讯蓝鲸招web高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=2&sn=e0f3f4ac1d1d5ce553b87cd68b203800&chksm=bd49423f8a3ecb293909927d7fc193dd642beedf4d23259e57a5d79df4048f660adac7821259#rd)  
 - [2019-08-03-【第1688期】程序员应该怎样提高自己](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=1&sn=b3f49a5f1367829c7de56b0d5223b541&chksm=bd49423f8a3ecb2955b65e863e57d9074fcc7546b6ca464b6d9be3d49107f9182e1f65f28377#rd)  
 - [2019-08-02-【招聘】北京视联动力信息技术招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233203&idx=2&sn=df3cdf97ae1f5a7aeb445f22f9db1696&chksm=bd4942378a3ecb219b6aa5c95ed9ddb89e0530d0b41ce1d47076c0f782b296d45381501121b6#rd)  
@@ -49,8 +51,6 @@
 - [2019-07-26-【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)  
 - [2019-07-26-【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)  
 - [2019-07-25-【第1679其】函数式编程浅析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=2&sn=543cda30c02dbd2c4e73e3d0c68e5edb&chksm=bd4942f48a3ecbe2bb4683f295af06da6f09c633d170678c855bae83995d0d8f67b4192d64aa#rd)  
-- [2019-07-25-2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd)  
-- [2019-07-24-【招聘】北京乘法云招前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=2&sn=d2c3501f0faf5d2471a2cc14505873e5&chksm=bd4942ed8a3ecbfb68831f9b019bf7d777ebaaabec2cc8d0660156008d2b77cf6d9812b08cf9#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-03-Bit支持Angular并发布公开测试版，对Vue的支持也即将面世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=2&sn=769535d6cf80b3d32ab0ffc29b79e85d&chksm=f95254f9ce25ddeff3d5b40ecc2d0b76be2f3333e484f83c612356fccffb99183c7a1cdc2210#rd) ![](assets/new.png)  
-- [2019-08-03-2019年大前端技术趋势分析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=1&sn=6446243531dec91e86340b07f3cd789f&chksm=f95254f9ce25ddef7bdded5499fc44ef7f72748fb34235451de8faa3f34168ca01982d10859a#rd) ![](assets/new.png)  
+- [2019-08-03-Bit支持Angular并发布公开测试版，对Vue的支持也即将面世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=2&sn=769535d6cf80b3d32ab0ffc29b79e85d&chksm=f95254f9ce25ddeff3d5b40ecc2d0b76be2f3333e484f83c612356fccffb99183c7a1cdc2210#rd)  
+- [2019-08-03-2019年大前端技术趋势分析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=1&sn=6446243531dec91e86340b07f3cd789f&chksm=f95254f9ce25ddef7bdded5499fc44ef7f72748fb34235451de8faa3f34168ca01982d10859a#rd)  
 - [2019-08-02-Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd)  
 - [2019-08-02-npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd)  
 - [2019-08-01-如何手撸一个Vue-3.0异步函数API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=1&sn=2bc05676b7427d59a2bcb615701f2be8&chksm=f95254e1ce25ddf70cbb3ccb79f01677d2fee1891d636d625e3ffc87fd8de4b58a243fdbfc50&scene=27#wechat_redirect)  

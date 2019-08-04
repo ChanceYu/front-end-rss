@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】深圳腾讯TGideas和腾讯视频招聘前端",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd",
+        "date": "2019-08-04"
+      },
+      {
+        "title": "【第1689期】职业思考：技术人需要突破的 10 个困局",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=1&sn=e9e2990dbcb54527a331ed3119ff44e8&chksm=bd4942408a3ecb56c3e2b2fd2df24cf545ea66f087512426f7b9a92e71390af3dbba5ef3d53d#rd",
+        "date": "2019-08-04"
+      },
       {
         "title": "【招聘】腾讯蓝鲸招web高级前端",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=2&sn=e0f3f4ac1d1d5ce553b87cd68b203800&chksm=bd49423f8a3ecb293909927d7fc193dd642beedf4d23259e57a5d79df4048f660adac7821259#rd",
@@ -5064,9 +5074,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "Bit支持Angular并发布公开测试版，对Vue的支持也即将面世",
