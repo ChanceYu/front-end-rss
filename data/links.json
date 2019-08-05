@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【第1690期】精读《Optional chaining》",
@@ -2757,10 +2757,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/65",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://www.ershicimi.com/a/65",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "通过阅读源码，提高你的 JS 水平",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=2&sn=680dde6cb7c8c5ac56094aec3ba08f50&chksm=80255bc3b752d2d5c04036eb778b34599be1b218377632dc96fda3cc14aa82bbb6f9319841da#rd",
+        "date": "2019-08-05"
+      },
+      {
+        "title": "想用Node.js，老板不同意？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=1&sn=b5af62483ad4a1f468c48ae24d97c9c4&chksm=80255bc3b752d2d5f0f3c9f3d17df3aebb21a50e714971d112c2d107b3c77c22833c4e6dda20#rd",
+        "date": "2019-08-05"
+      },
       {
         "title": "CSS 是如何影响浏览器元素在文档中的排列",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=1&sn=afe264d99b204728fb0716f5f278d71d&chksm=80255bc1b752d2d7db73198d20c0eec81182c9f7fbe80ca75f304150974464310b49f10ad29a&scene=27#wechat_redirect",
@@ -6807,6 +6817,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "本地开发设置个区分明显的favicon吧~",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/",
+        "date": "2019-08-06"
+      },
       {
         "title": "CSS :not伪类可能错误的认识",
         "link": "https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/",

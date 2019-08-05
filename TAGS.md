@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-05 18:00:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-06 06:00:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -400,6 +400,7 @@
 - [【前端早读课】【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect)
 - [【前端早读课】【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect)
 - [【前端早读课】【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect)
+- [【前端大全】想用Node.js，老板不同意？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=1&sn=b5af62483ad4a1f468c48ae24d97c9c4&chksm=80255bc3b752d2d5f0f3c9f3d17df3aebb21a50e714971d112c2d107b3c77c22833c4e6dda20#rd)
 - [【前端大全】Node.js-微服务实践二](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd)
 - [【前端大全】Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd)
 - [【前端大全】JS-引擎-V8-发布-v7.4，性能又大幅提高了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556104&idx=1&sn=4db75fa3a6c409e3124790c5d9939bb6#rd)
@@ -691,6 +692,7 @@
 - [【前端早读课】【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect)
 - [【前端早读课】【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect)
 - [【前端早读课】【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect)
+- [【前端大全】通过阅读源码，提高你的-JS-水平](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=2&sn=680dde6cb7c8c5ac56094aec3ba08f50&chksm=80255bc3b752d2d5c04036eb778b34599be1b218377632dc96fda3cc14aa82bbb6f9319841da#rd)
 - [【前端大全】生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect)
 - [【前端大全】生猛！FFmpeg-开发者徒手撸了一个-JS-引擎](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=1&sn=ad60d1da656cb3548191fda92927b557&chksm=80255c0ab752d51cf7a932aed125e55e24971fd747c4838ee14d3f36c9c9de05e44d23c3fb1f#rd)
 - [【前端大全】8-个问题看你是否真的懂-JS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556803&idx=1&sn=93012a48bc7f69bc49a50a8d65454352&chksm=80255c02b752d5144d9eeefcb68b01c4798ef6cb3b3c768f17cc2bb75464afe15d6f4cd50b09&scene=27#wechat_redirect)
@@ -1927,6 +1929,7 @@
 - [【Taobao-FED-|-淘宝前端团队】活用-Shader，让你的页面更小，更炫，更快](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/)
 - [【Taobao-FED-|-淘宝前端团队】淘宝技术部-2018-实习生内部推荐启动啦](http://taobaofed.org/blog/2018/02/27/2018-intern-recruitment/)
 - [【Taobao-FED-|-淘宝前端团队】LevelDB-实现分析](http://taobaofed.org/blog/2017/07/05/leveldb-analysis/)
+- [【张鑫旭-鑫空间-鑫生活】本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)
 - [【张鑫旭-鑫空间-鑫生活】HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/)
 - [【张鑫旭-鑫空间-鑫生活】详细介绍HTML-favicon尺寸-格式-制作等相关知识](https://www.zhangxinxu.com/wordpress/2019/06/html-favicon-size-ico-generator/)
 - [【张鑫旭-鑫空间-鑫生活】FDCon2019大会分享之滤镜与混合模式实录](https://www.zhangxinxu.com/wordpress/2019/06/fdcon2019-css-share/)
