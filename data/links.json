@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【第1690期】精读《Optional chaining》",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd",
+        "date": "2019-08-05"
+      },
+      {
+        "title": "不会React ？那不好意思你被pass了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=1&sn=b0f02af2be8857c155a59e2492bb6226&chksm=bd49424d8a3ecb5bccf0248c1b35aed903748b66838c57b1db6286eee911c53e9debc83230fd#rd",
+        "date": "2019-08-05"
+      },
       {
         "title": "【招聘】深圳腾讯TGideas和腾讯视频招聘前端",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd",

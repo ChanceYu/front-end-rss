@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-05 08:00:35，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-05 18:00:31，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-05-【第1690期】精读《Optional-chaining》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd) ![](assets/new.png)  
+- [2019-08-05-不会React-？那不好意思你被pass了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=1&sn=b0f02af2be8857c155a59e2492bb6226&chksm=bd49424d8a3ecb5bccf0248c1b35aed903748b66838c57b1db6286eee911c53e9debc83230fd#rd) ![](assets/new.png)  
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd)  
 - [2019-08-04-【第1689期】职业思考：技术人需要突破的-10-个困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=1&sn=e9e2990dbcb54527a331ed3119ff44e8&chksm=bd4942408a3ecb56c3e2b2fd2df24cf545ea66f087512426f7b9a92e71390af3dbba5ef3d53d#rd)  
 - [2019-08-03-【招聘】腾讯蓝鲸招web高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=2&sn=e0f3f4ac1d1d5ce553b87cd68b203800&chksm=bd49423f8a3ecb293909927d7fc193dd642beedf4d23259e57a5d79df4048f660adac7821259#rd)  
@@ -49,8 +51,6 @@
 - [2019-07-27-【招聘】腾讯AlloyTeam招募Web前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=2&sn=8925adf8a86ca2f4a283d3297e65ad15&chksm=bd4942148a3ecb02fae8d928910e694d7aa7b6f44fbe8b7f790179b80d4bcd6115afa0430b1a&scene=27#wechat_redirect)  
 - [2019-07-28-【第1682期】NPM的经济风云（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=1&sn=4d5c033a12d934c894dab9322c083f33&chksm=bd4942168a3ecb00e70f89abaf80faa8a295453ed4c3375c0e61c1bee69765adac8c65b6b5fd#rd)  
 - [2019-07-26-【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)  
-- [2019-07-26-【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)  
-- [2019-07-25-【第1679其】函数式编程浅析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=2&sn=543cda30c02dbd2c4e73e3d0c68e5edb&chksm=bd4942f48a3ecbe2bb4683f295af06da6f09c633d170678c855bae83995d0d8f67b4192d64aa#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,13 +62,13 @@
 </summary>
 
 
-- [2019-08-04-CSS-是如何影响浏览器元素在文档中的排列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=1&sn=afe264d99b204728fb0716f5f278d71d&chksm=80255bc1b752d2d7db73198d20c0eec81182c9f7fbe80ca75f304150974464310b49f10ad29a&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-04-面向对象：缘分来之不易，遇到定会好好珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=2&sn=4ac670a0a91028bff668732b6687eea8&chksm=80255bc1b752d2d72bce1f73cd16b0c9daee27e4dd06d8621478668c3ac8e0f740353e66564f&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-02-详解-ES-2018-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556854&idx=1&sn=4d1fc907d4844e39262c8ea559fe5a1d&chksm=80255c37b752d521ae03100d27b67d7912ffe0b5f1997f4c52a15e69bec164131cac15ea2247&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-30-你必须懂的前端性能优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556829&idx=1&sn=6ccc38f52664b4ad64598b2df2b9df73&chksm=80255c1cb752d50ac2a74ee170e0e2525ef1138ffbe022afaed1c1b2161e9e5ed065cb6c6a76&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-29-2019-“钱”途光明的-8-大前端开发技术，你还差几个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556825&idx=1&sn=d29d5268bee023259b3318b5d4fca3b2&chksm=80255c18b752d50e595c24d279d2c76700e3445c86ddb328790ebeacb7869c1cb4561871e519&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-07-29-21-个VSCode-快捷键，让代码更快，更有趣](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556825&idx=2&sn=35bfd269f4726997b0ac9e272279cf93&chksm=80255c18b752d50ea50462816e8041fba43462107ccb61d526d6108aa9ff96bed87d6fba97d0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-04-CSS-是如何影响浏览器元素在文档中的排列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=1&sn=afe264d99b204728fb0716f5f278d71d&chksm=80255bc1b752d2d7db73198d20c0eec81182c9f7fbe80ca75f304150974464310b49f10ad29a&scene=27#wechat_redirect)  
+- [2019-08-04-面向对象：缘分来之不易，遇到定会好好珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=2&sn=4ac670a0a91028bff668732b6687eea8&chksm=80255bc1b752d2d72bce1f73cd16b0c9daee27e4dd06d8621478668c3ac8e0f740353e66564f&scene=27#wechat_redirect)  
+- [2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect)  
+- [2019-08-02-详解-ES-2018-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556854&idx=1&sn=4d1fc907d4844e39262c8ea559fe5a1d&chksm=80255c37b752d521ae03100d27b67d7912ffe0b5f1997f4c52a15e69bec164131cac15ea2247&scene=27#wechat_redirect)  
+- [2019-07-30-你必须懂的前端性能优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556829&idx=1&sn=6ccc38f52664b4ad64598b2df2b9df73&chksm=80255c1cb752d50ac2a74ee170e0e2525ef1138ffbe022afaed1c1b2161e9e5ed065cb6c6a76&scene=27#wechat_redirect)  
+- [2019-07-29-2019-“钱”途光明的-8-大前端开发技术，你还差几个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556825&idx=1&sn=d29d5268bee023259b3318b5d4fca3b2&chksm=80255c18b752d50e595c24d279d2c76700e3445c86ddb328790ebeacb7869c1cb4561871e519&scene=27#wechat_redirect)  
+- [2019-07-29-21-个VSCode-快捷键，让代码更快，更有趣](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556825&idx=2&sn=35bfd269f4726997b0ac9e272279cf93&chksm=80255c18b752d50ea50462816e8041fba43462107ccb61d526d6108aa9ff96bed87d6fba97d0&scene=27#wechat_redirect)  
 - [2019-08-01-深入理解-ESLint](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556840&idx=1&sn=37d4554cd243d4f30f53ac06f2dfe109&chksm=80255c29b752d53f34e58c1676eb4ab169605be2b1f9d58fa5855938bdc0dca68eadbe9ca5a5#rd)  
 - [2019-07-31-面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd)  
 - [2019-07-31-你未必知道的-49-个-CSS-知识点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=1&sn=57765f51f90b17051028016bef7efc9b&chksm=80255c23b752d5350839b5d9fe74d0c4ed9ef2dfce22a785d681d9944c623a3fe3615871c953#rd)  
