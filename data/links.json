@@ -5149,9 +5149,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "WebAssembly多线程支持的内部原理",
@@ -6847,6 +6847,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "给IE/Edge写了个textarea resize拉伸的polyfill",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/",
+        "date": "2019-08-07"
+      },
       {
         "title": "本地开发设置个区分明显的favicon吧~",
         "link": "https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/",
