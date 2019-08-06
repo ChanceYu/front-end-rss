@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【英】7个有用的js技巧",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=3&sn=b0ba2a43c49216a4c12525cb73d64c70&chksm=bd4942558a3ecb438036ea4216d6caaeafd55016d7a4edfd65aca17632eab37849c5c3a5d1d3#rd",
+        "date": "2019-08-06"
+      },
+      {
+        "title": "【招聘】网龙网络招软件开发工程师（Web方向）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=2&sn=a4d18ecf2b6707d1ddfa1dd91c54f625&chksm=bd4942558a3ecb43141a12b7319f0f5d4d079960e22006c05fdb11e88c0b1b87bc0e44fdfec6#rd",
+        "date": "2019-08-06"
+      },
       {
         "title": "【第1690期】精读《Optional chaining》",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd",
@@ -2757,9 +2767,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "通过阅读源码，提高你的 JS 水平",

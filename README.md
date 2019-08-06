@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-06 06:00:30，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-06 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-06-【英】7个有用的js技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=3&sn=b0ba2a43c49216a4c12525cb73d64c70&chksm=bd4942558a3ecb438036ea4216d6caaeafd55016d7a4edfd65aca17632eab37849c5c3a5d1d3#rd) ![](assets/new.png)  
+- [2019-08-06-【招聘】网龙网络招软件开发工程师（Web方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=2&sn=a4d18ecf2b6707d1ddfa1dd91c54f625&chksm=bd4942558a3ecb43141a12b7319f0f5d4d079960e22006c05fdb11e88c0b1b87bc0e44fdfec6#rd) ![](assets/new.png)  
 - [2019-08-05-【第1690期】精读《Optional-chaining》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd)  
 - [2019-08-05-不会React-？那不好意思你被pass了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=1&sn=b0f02af2be8857c155a59e2492bb6226&chksm=bd49424d8a3ecb5bccf0248c1b35aed903748b66838c57b1db6286eee911c53e9debc83230fd#rd)  
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd)  
@@ -49,8 +51,6 @@
 - [2019-07-28-【招聘】阿里新零售体验技术团队招P7](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=2&sn=163c8dfc72b3406a3ac4fe30065b4b02&chksm=bd4942168a3ecb0044d9bf2eb64ad49461e9bb4c6aea6c662dcd1146ce0cbc4d453cd978b187&scene=27#wechat_redirect)  
 - [2019-07-27-【第1681期】前端离线化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=1&sn=ae703b65e79c5e3096e93256a3db762e&chksm=bd4942148a3ecb0243b344104b2385be3f71fea229e076359113775e89b7856e50df7a903332&scene=27#wechat_redirect)  
 - [2019-07-27-【招聘】腾讯AlloyTeam招募Web前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=2&sn=8925adf8a86ca2f4a283d3297e65ad15&chksm=bd4942148a3ecb02fae8d928910e694d7aa7b6f44fbe8b7f790179b80d4bcd6115afa0430b1a&scene=27#wechat_redirect)  
-- [2019-07-28-【第1682期】NPM的经济风云（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233170&idx=1&sn=4d5c033a12d934c894dab9322c083f33&chksm=bd4942168a3ecb00e70f89abaf80faa8a295453ed4c3375c0e61c1bee69765adac8c65b6b5fd#rd)  
-- [2019-07-26-【招聘】阿里云对象存储-OSS-团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=2&sn=f47998f2cf31689bc81719494b05a3a0&chksm=bd4942ff8a3ecbe9abf37dc6f7ceeb379c65964e585724a99aafacf46a2f35a2b30738f1a585#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-08-05-通过阅读源码，提高你的-JS-水平](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=2&sn=680dde6cb7c8c5ac56094aec3ba08f50&chksm=80255bc3b752d2d5c04036eb778b34599be1b218377632dc96fda3cc14aa82bbb6f9319841da#rd) ![](assets/new.png)  
-- [2019-08-05-想用Node.js，老板不同意？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=1&sn=b5af62483ad4a1f468c48ae24d97c9c4&chksm=80255bc3b752d2d5f0f3c9f3d17df3aebb21a50e714971d112c2d107b3c77c22833c4e6dda20#rd) ![](assets/new.png)  
+- [2019-08-05-通过阅读源码，提高你的-JS-水平](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=2&sn=680dde6cb7c8c5ac56094aec3ba08f50&chksm=80255bc3b752d2d5c04036eb778b34599be1b218377632dc96fda3cc14aa82bbb6f9319841da#rd)  
+- [2019-08-05-想用Node.js，老板不同意？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=1&sn=b5af62483ad4a1f468c48ae24d97c9c4&chksm=80255bc3b752d2d5f0f3c9f3d17df3aebb21a50e714971d112c2d107b3c77c22833c4e6dda20#rd)  
 - [2019-08-04-CSS-是如何影响浏览器元素在文档中的排列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=1&sn=afe264d99b204728fb0716f5f278d71d&chksm=80255bc1b752d2d7db73198d20c0eec81182c9f7fbe80ca75f304150974464310b49f10ad29a&scene=27#wechat_redirect)  
 - [2019-08-04-面向对象：缘分来之不易，遇到定会好好珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=2&sn=4ac670a0a91028bff668732b6687eea8&chksm=80255bc1b752d2d72bce1f73cd16b0c9daee27e4dd06d8621478668c3ac8e0f740353e66564f&scene=27#wechat_redirect)  
 - [2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect)  
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/) ![](assets/new.png)  
+- [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
 - [2019-07-28-CSS-:not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)  
 - [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/)  
 - [2019-07-19-HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/)  
