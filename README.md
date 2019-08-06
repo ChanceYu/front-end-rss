@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-06 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-06 18:00:47，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-06-【英】7个有用的js技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=3&sn=b0ba2a43c49216a4c12525cb73d64c70&chksm=bd4942558a3ecb438036ea4216d6caaeafd55016d7a4edfd65aca17632eab37849c5c3a5d1d3#rd) ![](assets/new.png)  
-- [2019-08-06-【招聘】网龙网络招软件开发工程师（Web方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=2&sn=a4d18ecf2b6707d1ddfa1dd91c54f625&chksm=bd4942558a3ecb43141a12b7319f0f5d4d079960e22006c05fdb11e88c0b1b87bc0e44fdfec6#rd) ![](assets/new.png)  
+- [2019-08-06-【英】7个有用的js技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=3&sn=b0ba2a43c49216a4c12525cb73d64c70&chksm=bd4942558a3ecb438036ea4216d6caaeafd55016d7a4edfd65aca17632eab37849c5c3a5d1d3#rd)  
+- [2019-08-06-【招聘】网龙网络招软件开发工程师（Web方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=2&sn=a4d18ecf2b6707d1ddfa1dd91c54f625&chksm=bd4942558a3ecb43141a12b7319f0f5d4d079960e22006c05fdb11e88c0b1b87bc0e44fdfec6#rd)  
 - [2019-08-05-【第1690期】精读《Optional-chaining》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd)  
 - [2019-08-05-不会React-？那不好意思你被pass了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=1&sn=b0f02af2be8857c155a59e2492bb6226&chksm=bd49424d8a3ecb5bccf0248c1b35aed903748b66838c57b1db6286eee911c53e9debc83230fd#rd)  
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) ![](assets/new.png)  
 - [2019-08-02-科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)  
 - [2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html)  
 - [2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html)  
@@ -205,7 +206,6 @@
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)  
 - [2019-05-31-每周分享第-58-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-58.html)  
 - [2019-05-24-每周分享第-57-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-57.html)  
-- [2019-05-17-每周分享第-56-期](http://www.ruanyifeng.com/blog/2019/05/weekly-issue-56.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

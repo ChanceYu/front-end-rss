@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【英】7个有用的js技巧",
@@ -7214,6 +7214,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "Web Components 入门实例教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/08/web_components.html",
+        "date": "2019-08-06"
+      },
       {
         "title": "科技爱好者周刊：第 67 期",
         "link": "http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html",

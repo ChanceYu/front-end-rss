@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-06 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-06 18:00:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -866,6 +866,7 @@
 - [【张鑫旭-鑫空间-鑫生活】原来浏览器原生支持JS-Base64编码解码](https://www.zhangxinxu.com/wordpress/2018/08/js-base64-atob-btoa-encode-decode/)
 - [【张鑫旭-鑫空间-鑫生活】万岁，浏览器原生支持ES6-export和import模块啦！](https://www.zhangxinxu.com/wordpress/2018/08/browser-native-es6-export-import-module/)
 - [【张鑫旭-鑫空间-鑫生活】隐私相关-了解HTML5-Do-Not-Track-API](https://www.zhangxinxu.com/wordpress/2018/07/navigator-do-not-track-api/)
+- [【阮一峰的网络日志】Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)
 - [【阮一峰的网络日志】异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
 - [【阮一峰的网络日志】Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html)
 - [【前端里】细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html)
