@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-08 06:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-08 12:00:31，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-08-【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd) ![](assets/new.png)  
+- [2019-08-08-【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd) ![](assets/new.png)  
 - [2019-08-07-【第1692期】在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=1&sn=a5a394ca9f7d440d3e93b2e8f4965d5f&chksm=bd4942598a3ecb4fb071003c5925945b4b3bb285f06e0202cdfbbbe98880132926efcb8553df&scene=27#wechat_redirect)  
 - [2019-08-07-【英】JavaScript的全局变量是如何工作的?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=2&sn=f73e47a6a060668caed49dab858bc336&chksm=bd4942598a3ecb4f9fb4901f75fd91cc39f8e6cc899e8de2e78ab99cb8ddb347c5f8202345ea&scene=27#wechat_redirect)  
 - [2019-08-06-【第1691期】前端需要知道的-HTTP-安全头配置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=1&sn=61df0d4fc69842ca76b7c5759b6f8ad6&chksm=bd4942558a3ecb43768469ce369eab89ced13ac11918eb3c70112d2983a73dbd64bf1fb984fb&scene=27#wechat_redirect)  
@@ -49,8 +51,6 @@
 - [2019-07-31-【第1685期】JavaScript到底是解释型语言还是编译型语言?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=1&sn=f97d7de5586509cfaf12e855e4d657ca&chksm=bd4942258a3ecb337dfe5adbb221414031111a599cd169d445da27530129ee1590f2d22ca0d1&scene=27#wechat_redirect)  
 - [2019-07-31-【招聘】简单，真诚，「阿里新零售CRO技术部大前端团队」招聘！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233185&idx=2&sn=f0cefe022e1cba4a482f778ea54528a9&chksm=bd4942258a3ecb33e3dcc17a9ad6b9cc9b25d0aa18157bb09de4d1a1e67deab3ef814934ea4a&scene=27#wechat_redirect)  
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect)  
-- [2019-07-30-【招聘】钉钉文档团队招募前端技术专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=2&sn=2ae0ffcfc3e847f06a55d348aab860ba&chksm=bd49421e8a3ecb087a2ddaa4f58c52a4a8d0fb2e24396b58ac1ec05ad8fb3fd59d8176994b17&scene=27#wechat_redirect)  
-- [2019-07-29-【第1683期】GraphQL-BFF：微服务背景下的前后端数据交互方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233171&idx=1&sn=6f2550d9433dbb75d52d0aa718ef8801&chksm=bd4942178a3ecb016a4fb938f20acbe7481b17929fc8ceeedde0a018e73536badc341421de5e&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,9 +93,9 @@
 </summary>
 
 
-- [2019-08-07-Vue.js在复杂信息流场景下的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=1&sn=ce79c81f8636bac3b6a6efc32775fed3&chksm=f95254a0ce25ddb6e907289032224bf2416ac39be97abd3661a49038963bb553d874c69364b7&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-05-2019谷歌I/O大会上提出的JavaScript新特性，你错过了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=1&sn=6f2d7257082f5a85181fa59e9d09ac8c&chksm=f9525490ce25dd86d2d6fac651c21e22614d180b331db17d843da2533815cde04dede37e8efe&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-05-深入解析Node.js事件循环工作机制](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=2&sn=7c1a67adebd5162f33ebeb623a9af4e9&chksm=f9525490ce25dd86a134b747a78cf9539de18024590f2867902e3616b4972492c595d5b0b0f8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-07-Vue.js在复杂信息流场景下的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=1&sn=ce79c81f8636bac3b6a6efc32775fed3&chksm=f95254a0ce25ddb6e907289032224bf2416ac39be97abd3661a49038963bb553d874c69364b7&scene=27#wechat_redirect)  
+- [2019-08-05-2019谷歌I/O大会上提出的JavaScript新特性，你错过了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=1&sn=6f2d7257082f5a85181fa59e9d09ac8c&chksm=f9525490ce25dd86d2d6fac651c21e22614d180b331db17d843da2533815cde04dede37e8efe&scene=27#wechat_redirect)  
+- [2019-08-05-深入解析Node.js事件循环工作机制](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=2&sn=7c1a67adebd5162f33ebeb623a9af4e9&chksm=f9525490ce25dd86a134b747a78cf9539de18024590f2867902e3616b4972492c595d5b0b0f8&scene=27#wechat_redirect)  
 - [2019-08-07-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=3&sn=e25c869735ef277c6ca9821a8a731c96&chksm=f95254a0ce25ddb68d201cc9084fea0a1c5416b53120b6a0544136482332a09efd718a6359fd#rd)  
 - [2019-08-07-带来更多炫酷效果！用于3D设计和动画制作的JavaScript库：Zdog](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=2&sn=4dbb9b3030e639d3484d6617b0e832f9&chksm=f95254a0ce25ddb6a9ea62dd358e60bf16e07958c4b899b8bcb4435dba7d4cadebd3572b67b7#rd)  
 - [2019-08-06-WebAssembly多线程支持的内部原理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492059&idx=2&sn=f8dd1febcc150ac508fba0a41315b6c9&chksm=f9525498ce25dd8ed47f68ef7130a476322b566633833586de35f269a7488d001e002e7b288c#rd)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-08 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-08 12:00:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -632,6 +632,7 @@
 
 
 
+- [【前端早读课】【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd)
 - [【前端早读课】【英】JavaScript的全局变量是如何工作的?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=2&sn=f73e47a6a060668caed49dab858bc336&chksm=bd4942598a3ecb4f9fb4901f75fd91cc39f8e6cc899e8de2e78ab99cb8ddb347c5f8202345ea&scene=27#wechat_redirect)
 - [【前端早读课】【英】7个有用的js技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=3&sn=b0ba2a43c49216a4c12525cb73d64c70&chksm=bd4942558a3ecb438036ea4216d6caaeafd55016d7a4edfd65aca17632eab37849c5c3a5d1d3#rd)
 - [【前端早读课】【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect)
@@ -1180,6 +1181,7 @@
 
 
 
+- [【前端早读课】【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd)
 - [【前端早读课】【第1691期】前端需要知道的-HTTP-安全头配置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=1&sn=61df0d4fc69842ca76b7c5759b6f8ad6&chksm=bd4942558a3ecb43768469ce369eab89ced13ac11918eb3c70112d2983a73dbd64bf1fb984fb&scene=27#wechat_redirect)
 - [【前端早读课】【第1678期】你应该了解的-CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=1&sn=d70fc6cc5de39cb09dfb1fff2273b2b2&chksm=bd4942ed8a3ecbfbec115fe1a36403d5956fd201a64fe5a6c06862b6232e6da6ca2ad52ea222#rd)
 - [【前端早读课】【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd)
