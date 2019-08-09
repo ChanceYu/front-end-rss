@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】美团到店事业群平台终端招高级前端工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=2&sn=48ad65d9c2f18fd75fe555667294489a&chksm=bd4942718a3ecb67765c9e8590d71b469d512313bd5f18c999b89c99cfeed4bb1b0b0f22cb80#rd",
+        "date": "2019-08-09"
+      },
+      {
+        "title": "【第1694期】 Code Review最佳实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=1&sn=89861a3ee42df82b1bf5820e0cf8b207&chksm=bd4942718a3ecb67a807e45bde87de4369f82a8ef6caa8b07ec568f7e81a6dc52a22b3549d55#rd",
+        "date": "2019-08-09"
+      },
       {
         "title": "【英】JavaScript: ES2019的新内容",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd",
@@ -5184,9 +5194,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "WebAssembly到底处于编译阶段的哪个环节？",
@@ -7309,6 +7319,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 68 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html",
+        "date": "2019-08-09"
+      },
       {
         "title": "xargs 命令教程",
         "link": "http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html",

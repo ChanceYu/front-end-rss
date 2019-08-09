@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-08 22:00:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-09 12:00:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-08-09-【招聘】美团到店事业群平台终端招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=2&sn=48ad65d9c2f18fd75fe555667294489a&chksm=bd4942718a3ecb67765c9e8590d71b469d512313bd5f18c999b89c99cfeed4bb1b0b0f22cb80#rd) 
+- [【前端早读课】2019-08-09-【第1694期】-Code-Review最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=1&sn=89861a3ee42df82b1bf5820e0cf8b207&chksm=bd4942718a3ecb67a807e45bde87de4369f82a8ef6caa8b07ec568f7e81a6dc52a22b3549d55#rd) 
 - [【前端早读课】2019-08-08-【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd) 
 - [【前端早读课】2019-08-08-【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd) 
 - [【前端早读课】2019-08-07-【第1692期】在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=1&sn=a5a394ca9f7d440d3e93b2e8f4965d5f&chksm=bd4942598a3ecb4fb071003c5925945b4b3bb285f06e0202cdfbbbe98880132926efcb8553df&scene=27#wechat_redirect) 
@@ -152,6 +154,7 @@
 - [【前端之巅】2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/) 
+- [【阮一峰的网络日志】2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html) 
 - [【阮一峰的网络日志】2019-08-08-xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html) 
 - [【阮一峰的网络日志】2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [【阮一峰的网络日志】2019-08-02-科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html) 

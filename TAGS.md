@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-08 22:00:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-09 12:00:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -1181,6 +1181,7 @@
 
 
 
+- [【前端早读课】【第1694期】-Code-Review最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=1&sn=89861a3ee42df82b1bf5820e0cf8b207&chksm=bd4942718a3ecb67a807e45bde87de4369f82a8ef6caa8b07ec568f7e81a6dc52a22b3549d55#rd)
 - [【前端早读课】【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd)
 - [【前端早读课】【第1691期】前端需要知道的-HTTP-安全头配置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=1&sn=61df0d4fc69842ca76b7c5759b6f8ad6&chksm=bd4942558a3ecb43768469ce369eab89ced13ac11918eb3c70112d2983a73dbd64bf1fb984fb&scene=27#wechat_redirect)
 - [【前端早读课】【第1678期】你应该了解的-CORS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233129&idx=1&sn=d70fc6cc5de39cb09dfb1fff2273b2b2&chksm=bd4942ed8a3ecbfbec115fe1a36403d5956fd201a64fe5a6c06862b6232e6da6ca2ad52ea222#rd)
@@ -1413,6 +1414,7 @@
 
 
 
+- [【前端早读课】【招聘】美团到店事业群平台终端招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=2&sn=48ad65d9c2f18fd75fe555667294489a&chksm=bd4942718a3ecb67765c9e8590d71b469d512313bd5f18c999b89c99cfeed4bb1b0b0f22cb80#rd)
 - [【前端早读课】【招聘】网龙网络招软件开发工程师（Web方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=2&sn=a4d18ecf2b6707d1ddfa1dd91c54f625&chksm=bd4942558a3ecb43141a12b7319f0f5d4d079960e22006c05fdb11e88c0b1b87bc0e44fdfec6#rd)
 - [【前端早读课】【招聘】腾讯蓝鲸招web高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=2&sn=e0f3f4ac1d1d5ce553b87cd68b203800&chksm=bd49423f8a3ecb293909927d7fc193dd642beedf4d23259e57a5d79df4048f660adac7821259#rd)
 - [【前端早读课】【招聘】北京视联动力信息技术招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233203&idx=2&sn=df3cdf97ae1f5a7aeb445f22f9db1696&chksm=bd4942378a3ecb219b6aa5c95ed9ddb89e0530d0b41ce1d47076c0f782b296d45381501121b6#rd)
@@ -1960,6 +1962,7 @@
 - [【张鑫旭-鑫空间-鑫生活】数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/)
 - [【张鑫旭-鑫空间-鑫生活】借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
 - [【张鑫旭-鑫空间-鑫生活】看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/)
+- [【阮一峰的网络日志】科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)
 - [【阮一峰的网络日志】xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)
 - [【阮一峰的网络日志】科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)
 - [【阮一峰的网络日志】信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html)
