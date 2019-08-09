@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-09 18:00:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-09 22:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -246,6 +246,7 @@
 - [【前端大全】Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect)
 - [【前端大全】深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect)
 - [【前端大全】自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect)
+- [【前端之巅】10个实用的Vue.js工具和库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=2&sn=d533c1c7101c7b5cf4324f49d8050281&chksm=f9525744ce25de527512bf978747b19e6296db9bcc97ad077c86138e19e94f8aaeb1ad470b9b&scene=27#wechat_redirect)
 - [【前端之巅】Vue.js在复杂信息流场景下的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=1&sn=ce79c81f8636bac3b6a6efc32775fed3&chksm=f95254a0ce25ddb6e907289032224bf2416ac39be97abd3661a49038963bb553d874c69364b7&scene=27#wechat_redirect)
 - [【前端之巅】Bit支持Angular并发布公开测试版，对Vue的支持也即将面世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=2&sn=769535d6cf80b3d32ab0ffc29b79e85d&chksm=f95254f9ce25ddeff3d5b40ecc2d0b76be2f3333e484f83c612356fccffb99183c7a1cdc2210#rd)
 - [【前端之巅】如何手撸一个Vue-3.0异步函数API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=1&sn=2bc05676b7427d59a2bcb615701f2be8&chksm=f95254e1ce25ddf70cbb3ccb79f01677d2fee1891d636d625e3ffc87fd8de4b58a243fdbfc50&scene=27#wechat_redirect)
@@ -355,6 +356,7 @@
 - [【前端大全】前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect)
 - [【前端大全】从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect)
 - [【前端大全】webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
+- [【前端之巅】挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect)
 - [【前端之巅】Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd)
 - [【前端之巅】npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd)
 - [【前端之巅】不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect)
@@ -1259,6 +1261,7 @@
 - [【前端大全】使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect)
 - [【前端大全】一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect)
 - [【前端大全】前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect)
+- [【前端之巅】Chrome架构：仅仅打开了1个页面，为什么有4个进程?-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=3&sn=685548345db764cb39530008ca9af0b6&chksm=f9525744ce25de524b89d978d5a3f653f44d32aba45c1c23b94a02f6f82d52c4419cccaf5f2c&scene=27#wechat_redirect)
 - [【前端之巅】一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=3&sn=e25c869735ef277c6ca9821a8a731c96&chksm=f95254a0ce25ddb68d201cc9084fea0a1c5416b53120b6a0544136482332a09efd718a6359fd#rd)
 - [【前端之巅】怎样杀死IE11：以史为鉴](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491931&idx=1&sn=7dd20d326fb752fd743bc402dc6485ef&chksm=f9525418ce25dd0ebbf775c4bfd95de9c92dfb69d078043027700abceab8bd7f18b235c98996&scene=27#wechat_redirect)
 - [【前端之巅】最全HTTP安全响应头设置指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491895&idx=1&sn=6a17c289ec2a5ab137c68f416961f7a7&chksm=f9525474ce25dd62a928b306a88f8ef909be1fd1d49d24a477a9d72acaff2606319a1bbbba68#rd)
