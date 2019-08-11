@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-11 12:00:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-11 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -356,6 +356,7 @@
 - [【前端大全】前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect)
 - [【前端大全】从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect)
 - [【前端大全】webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect)
+- [【前端之巅】npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd)
 - [【前端之巅】挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect)
 - [【前端之巅】Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd)
 - [【前端之巅】npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd)
@@ -1880,6 +1881,7 @@
 - [【前端大全】2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect)
 - [【前端大全】前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect)
 - [【前端大全】前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect)
+- [【前端之巅】2019前端圈流行技能盘点-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd)
 - [【前端之巅】AI来袭，前端智能化的一次尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=2&sn=887ddee2f7606c59106207a1bc3868e8&chksm=f9525753ce25de459d65fe1a043288358600e2fc1bddc3cb17f7f9bfee4719cb4dcdbbf1d950#rd)
 - [【前端之巅】百万年薪挖了个P8程序员，难道是“水货”？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=1&sn=439f3051f2fc11a31edc938dada8e313&chksm=f9525753ce25de450b705c16beeed2cef7fc131f8917c5a06fe828676fbec76f84a7e30a38bc#rd)
 - [【前端之巅】为何现代Web开发如此复杂？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492081&idx=1&sn=d2dd01d9f3cd1720d89a34f79d4aa9e6&chksm=f95254b2ce25dda49df9c9fb861ec3b2bf4c697201a5d8ea55a99e1591f57f5980a37f31d6b0#rd)

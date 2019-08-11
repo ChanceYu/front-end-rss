@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【招聘】天猫 D2C 智能营销团队招前端开发专家/高级专家",
@@ -5239,10 +5239,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "2019前端圈流行技能盘点 | 极客时间",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd",
+        "date": "2019-08-11"
+      },
+      {
+        "title": "npm安全事故频频发生，程序员都绝望了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd",
+        "date": "2019-08-11"
+      },
       {
         "title": "AI来袭，前端智能化的一次尝试",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=2&sn=887ddee2f7606c59106207a1bc3868e8&chksm=f9525753ce25de459d65fe1a043288358600e2fc1bddc3cb17f7f9bfee4719cb4dcdbbf1d950#rd",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-11 12:00:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-11 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,8 @@
 - [【前端大全】2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-02-详解-ES-2018-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556854&idx=1&sn=4d1fc907d4844e39262c8ea559fe5a1d&chksm=80255c37b752d521ae03100d27b67d7912ffe0b5f1997f4c52a15e69bec164131cac15ea2247&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-01-深入理解-ESLint](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556840&idx=1&sn=37d4554cd243d4f30f53ac06f2dfe109&chksm=80255c29b752d53f34e58c1676eb4ab169605be2b1f9d58fa5855938bdc0dca68eadbe9ca5a5#rd) 
+- [【前端之巅】2019-08-11-2019前端圈流行技能盘点-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd) 
+- [【前端之巅】2019-08-11-npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd) 
 - [【前端之巅】2019-08-10-AI来袭，前端智能化的一次尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=2&sn=887ddee2f7606c59106207a1bc3868e8&chksm=f9525753ce25de459d65fe1a043288358600e2fc1bddc3cb17f7f9bfee4719cb4dcdbbf1d950#rd) 
 - [【前端之巅】2019-08-10-百万年薪挖了个P8程序员，难道是“水货”？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=1&sn=439f3051f2fc11a31edc938dada8e313&chksm=f9525753ce25de450b705c16beeed2cef7fc131f8917c5a06fe828676fbec76f84a7e30a38bc#rd) 
 - [【前端之巅】2019-08-09-挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect) 

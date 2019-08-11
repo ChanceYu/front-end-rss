@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-11 12:00:36，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-11 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-11-【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd) ![](assets/new.png)  
-- [2019-08-11-【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd) ![](assets/new.png)  
+- [2019-08-11-【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd)  
+- [2019-08-11-【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd)  
 - [2019-08-10-【招聘】北京牛电科技招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=2&sn=348d977975a99a749238e754138ef633&chksm=bd4945848a3ecc92bc9d01601a4072f50e491e802c5a24c751541794234fb98b5192f4930ba7#rd)  
 - [2019-08-10-【第1695期】-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=1&sn=291b03b2330069472e0e0626cef08512&chksm=bd4945848a3ecc924c88ca2676d9483baba50a2b38529b805d9746b34d3ec1f0c7676b66edc4#rd)  
 - [2019-08-08-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-11-2019前端圈流行技能盘点-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd) ![](assets/new.png)  
+- [2019-08-11-npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd) ![](assets/new.png)  
 - [2019-08-10-AI来袭，前端智能化的一次尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=2&sn=887ddee2f7606c59106207a1bc3868e8&chksm=f9525753ce25de459d65fe1a043288358600e2fc1bddc3cb17f7f9bfee4719cb4dcdbbf1d950#rd)  
 - [2019-08-10-百万年薪挖了个P8程序员，难道是“水货”？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=1&sn=439f3051f2fc11a31edc938dada8e313&chksm=f9525753ce25de450b705c16beeed2cef7fc131f8917c5a06fe828676fbec76f84a7e30a38bc#rd)  
 - [2019-08-09-挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect)  
@@ -111,8 +113,6 @@
 - [2019-08-04-2019年最好用的JavaScript图表库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492041&idx=2&sn=1c9a4f6bc3ba51c2251fc4e9c29c7e3b&chksm=f952548ace25dd9cfc3d9469684807e8317fb25605e132e46768d055b1ca598b541e14b0fe7f&scene=27#wechat_redirect)  
 - [2019-08-03-Bit支持Angular并发布公开测试版，对Vue的支持也即将面世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=2&sn=769535d6cf80b3d32ab0ffc29b79e85d&chksm=f95254f9ce25ddeff3d5b40ecc2d0b76be2f3333e484f83c612356fccffb99183c7a1cdc2210#rd)  
 - [2019-08-03-2019年大前端技术趋势分析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=1&sn=6446243531dec91e86340b07f3cd789f&chksm=f95254f9ce25ddef7bdded5499fc44ef7f72748fb34235451de8faa3f34168ca01982d10859a#rd)  
-- [2019-08-02-Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd)  
-- [2019-08-02-npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
