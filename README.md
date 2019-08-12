@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-12 12:00:35，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-13 06:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-12-【第1697期】TypeScript-次日指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=2&sn=c1faf9e0c636286d05c822c652eb3966&chksm=bd4945938a3ecc856ace3884a6b47708e33b55e4a2496637df35999ed9213e080d587bffbd8b#rd) ![](assets/new.png)  
-- [2019-08-12-你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd) ![](assets/new.png)  
+- [2019-08-12-【第1697期】TypeScript-次日指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=2&sn=c1faf9e0c636286d05c822c652eb3966&chksm=bd4945938a3ecc856ace3884a6b47708e33b55e4a2496637df35999ed9213e080d587bffbd8b#rd)  
+- [2019-08-12-你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)  
 - [2019-08-11-【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd)  
 - [2019-08-11-【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd)  
 - [2019-08-10-【招聘】北京牛电科技招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=2&sn=348d977975a99a749238e754138ef633&chksm=bd4945848a3ecc92bc9d01601a4072f50e491e802c5a24c751541794234fb98b5192f4930ba7#rd)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-12-这项技术将影响前端开发者的未来，如何快速搭上这趟列车](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=3&sn=414f6d2b8f573d07da2b57ff4ff5b99c&chksm=f9525766ce25de70150911bf7b399919a9aef0ef4a39db78a67c90d5baad02a395f0f710430e#rd) ![](assets/new.png)  
+- [2019-08-12-推荐8个优质的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=2&sn=707247d8aa001c4aee431bec6af0f2a7&chksm=f9525766ce25de7062609fc044bae7edd8a433f7f63185aca74ff30124e93276dd614f1d9533#rd) ![](assets/new.png)  
 - [2019-08-11-2019前端圈流行技能盘点-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd)  
 - [2019-08-11-npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd)  
 - [2019-08-10-AI来袭，前端智能化的一次尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=2&sn=887ddee2f7606c59106207a1bc3868e8&chksm=f9525753ce25de459d65fe1a043288358600e2fc1bddc3cb17f7f9bfee4719cb4dcdbbf1d950#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-06-Flutter并不像你想象中的那么完美](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492059&idx=1&sn=2fa99747dd8041169417df9d41540d6b&chksm=f9525498ce25dd8ecefdf5aa6876ff5dc191330ed42a72cc943e1a3a4948d90d909a9241704f#rd)  
 - [2019-08-04-快到金九银十了，送上20道大厂面试题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492041&idx=1&sn=a2ac84dc028c55bec83cce235539ea1c&chksm=f952548ace25dd9c4ba5cd69cb3b3f1e65cf4987e84fd57c9a1fefcd6ac2ef0c69aedccbe5e9&scene=27#wechat_redirect)  
 - [2019-08-04-2019年最好用的JavaScript图表库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492041&idx=2&sn=1c9a4f6bc3ba51c2251fc4e9c29c7e3b&chksm=f952548ace25dd9cfc3d9469684807e8317fb25605e132e46768d055b1ca598b541e14b0fe7f&scene=27#wechat_redirect)  
-- [2019-08-03-Bit支持Angular并发布公开测试版，对Vue的支持也即将面世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=2&sn=769535d6cf80b3d32ab0ffc29b79e85d&chksm=f95254f9ce25ddeff3d5b40ecc2d0b76be2f3333e484f83c612356fccffb99183c7a1cdc2210#rd)  
-- [2019-08-03-2019年大前端技术趋势分析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492026&idx=1&sn=6446243531dec91e86340b07f3cd789f&chksm=f95254f9ce25ddef7bdded5499fc44ef7f72748fb34235451de8faa3f34168ca01982d10859a#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2019-08-13-常见纯CSS图标的代码分离与整理（持续更新）](https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/) ![](assets/new.png)  
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/)  
 - [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
 - [2019-07-28-CSS-:not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)  
@@ -174,7 +175,6 @@
 - [2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/)  
 - [2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/)  
 - [2019-04-21-CSS实现文字下面波浪线动画效果](https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/)  
-- [2019-04-20-CSS滤镜和混合模式处理的图片如何上传下载？](https://www.zhangxinxu.com/wordpress/2019/04/save-css-filter-blend-mode-image/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

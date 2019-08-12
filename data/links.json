@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【第1697期】TypeScript 次日指南",
@@ -5254,10 +5254,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "这项技术将影响前端开发者的未来，如何快速搭上这趟列车",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=3&sn=414f6d2b8f573d07da2b57ff4ff5b99c&chksm=f9525766ce25de70150911bf7b399919a9aef0ef4a39db78a67c90d5baad02a395f0f710430e#rd",
+        "date": "2019-08-12"
+      },
+      {
+        "title": "推荐8个优质的技术公众号",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=2&sn=707247d8aa001c4aee431bec6af0f2a7&chksm=f9525766ce25de7062609fc044bae7edd8a433f7f63185aca74ff30124e93276dd614f1d9533#rd",
+        "date": "2019-08-12"
+      },
       {
         "title": "2019前端圈流行技能盘点 | 极客时间",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd",
@@ -7022,6 +7032,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "常见纯CSS图标的代码分离与整理（持续更新）",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/",
+        "date": "2019-08-13"
+      },
       {
         "title": "给IE/Edge写了个textarea resize拉伸的polyfill",
         "link": "https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/",
