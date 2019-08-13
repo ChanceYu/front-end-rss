@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-13 08:00:31，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-14 06:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-13-重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd) ![](assets/new.png)  
-- [2019-08-13-【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd) ![](assets/new.png)  
+- [2019-08-13-重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd)  
+- [2019-08-13-【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd)  
 - [2019-08-12-【第1697期】TypeScript-次日指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=2&sn=c1faf9e0c636286d05c822c652eb3966&chksm=bd4945938a3ecc856ace3884a6b47708e33b55e4a2496637df35999ed9213e080d587bffbd8b#rd)  
 - [2019-08-12-你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)  
 - [2019-08-11-【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-08-13-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=2&sn=1b0493f6c1f314a3410c6addc020f331&chksm=80255be9b752d2ffa0049cb471f5827d91950f71d97de55e4b05db4c140988ec7bf70c7b2635#rd) ![](assets/new.png)  
+- [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd) ![](assets/new.png)  
 - [2019-08-11-在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556893&idx=1&sn=885569e8d2dfaf24165edec33e71f90e&chksm=80255bdcb752d2ca268703e862e170609ff07a441c1277ccd6afa486e8a7c18d1bed948bb230&scene=27#wechat_redirect)  
 - [2019-08-10-前端路由跳转基本原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=1&sn=5b1da2f8bc5b222d494360795c1277c8&chksm=80255bddb752d2cbc4c113d1b1281d7a6fc571f690137ebc77cc4d83aaa4a10a3cbeffef0f0d&scene=27#wechat_redirect)  
 - [2019-08-10-面向对象：相信爱情还是美好的，希望能找到一个合适的人，一生所爱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=2&sn=a4415e2d17825c9027b4fc4398c226d1&chksm=80255bddb752d2cb29437e3c13672a5ea46c959f5828fc56c66947de50d960b69146f539c189&scene=27#wechat_redirect)  
@@ -80,8 +82,6 @@
 - [2019-07-30-你必须懂的前端性能优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556829&idx=1&sn=6ccc38f52664b4ad64598b2df2b9df73&chksm=80255c1cb752d50ac2a74ee170e0e2525ef1138ffbe022afaed1c1b2161e9e5ed065cb6c6a76&scene=27#wechat_redirect)  
 - [2019-07-29-2019-“钱”途光明的-8-大前端开发技术，你还差几个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556825&idx=1&sn=d29d5268bee023259b3318b5d4fca3b2&chksm=80255c18b752d50e595c24d279d2c76700e3445c86ddb328790ebeacb7869c1cb4561871e519&scene=27#wechat_redirect)  
 - [2019-07-29-21-个VSCode-快捷键，让代码更快，更有趣](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556825&idx=2&sn=35bfd269f4726997b0ac9e272279cf93&chksm=80255c18b752d50ea50462816e8041fba43462107ccb61d526d6108aa9ff96bed87d6fba97d0&scene=27#wechat_redirect)  
-- [2019-08-01-深入理解-ESLint](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556840&idx=1&sn=37d4554cd243d4f30f53ac06f2dfe109&chksm=80255c29b752d53f34e58c1676eb4ab169605be2b1f9d58fa5855938bdc0dca68eadbe9ca5a5#rd)  
-- [2019-07-31-面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,10 @@
 </summary>
 
 
-- [2019-08-12-Vue技能进阶：使用设计模式写出优雅的前端代码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=1&sn=3d8eb0bd3427c426bd54b5fa361220ba&chksm=f9525766ce25de7005381b7563503e81cdb8933908ed1e8232da1398668a338efe7004aab94e&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-11-摆脱JS框架，5年web组件开发经验总结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=1&sn=866af57bc412fa277e28721e0d486168&chksm=f952575ace25de4c6b5e281db9b5aaf71adb33fb5ee4c144f7c30583dd0b1186097e54bfb6ae&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-13-大前端喊了三年，现在怎么样了？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=2&sn=e2e1f651639754073b3c994855fb3336&chksm=f952576cce25de7a577b55f0ea52245eecc4e369de739c3f497c1607de19b071a1b2c95842de#rd) ![](assets/new.png)  
+- [2019-08-13-校招or跳槽，你需要掌握的21个React性能优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=1&sn=f8c2273f4e07f35a5da13c098d25c84c&chksm=f952576cce25de7a3229a5f8de5bccca674dd0263c0c539c78510e8fcd3f5fcd4c208a8e34ec#rd) ![](assets/new.png)  
+- [2019-08-12-Vue技能进阶：使用设计模式写出优雅的前端代码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=1&sn=3d8eb0bd3427c426bd54b5fa361220ba&chksm=f9525766ce25de7005381b7563503e81cdb8933908ed1e8232da1398668a338efe7004aab94e&scene=27#wechat_redirect)  
+- [2019-08-11-摆脱JS框架，5年web组件开发经验总结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=1&sn=866af57bc412fa277e28721e0d486168&chksm=f952575ace25de4c6b5e281db9b5aaf71adb33fb5ee4c144f7c30583dd0b1186097e54bfb6ae&scene=27#wechat_redirect)  
 - [2019-08-12-这项技术将影响前端开发者的未来，如何快速搭上这趟列车](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=3&sn=414f6d2b8f573d07da2b57ff4ff5b99c&chksm=f9525766ce25de70150911bf7b399919a9aef0ef4a39db78a67c90d5baad02a395f0f710430e#rd)  
 - [2019-08-12-推荐8个优质的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=2&sn=707247d8aa001c4aee431bec6af0f2a7&chksm=f9525766ce25de7062609fc044bae7edd8a433f7f63185aca74ff30124e93276dd614f1d9533#rd)  
 - [2019-08-11-2019前端圈流行技能盘点-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-05-深入解析Node.js事件循环工作机制](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=2&sn=7c1a67adebd5162f33ebeb623a9af4e9&chksm=f9525490ce25dd86a134b747a78cf9539de18024590f2867902e3616b4972492c595d5b0b0f8&scene=27#wechat_redirect)  
 - [2019-08-07-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=3&sn=e25c869735ef277c6ca9821a8a731c96&chksm=f95254a0ce25ddb68d201cc9084fea0a1c5416b53120b6a0544136482332a09efd718a6359fd#rd)  
 - [2019-08-07-带来更多炫酷效果！用于3D设计和动画制作的JavaScript库：Zdog](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=2&sn=4dbb9b3030e639d3484d6617b0e832f9&chksm=f95254a0ce25ddb6a9ea62dd358e60bf16e07958c4b899b8bcb4435dba7d4cadebd3572b67b7#rd)  
-- [2019-08-06-WebAssembly多线程支持的内部原理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492059&idx=2&sn=f8dd1febcc150ac508fba0a41315b6c9&chksm=f9525498ce25dd8ed47f68ef7130a476322b566633833586de35f269a7488d001e002e7b288c#rd)  
-- [2019-08-06-Flutter并不像你想象中的那么完美](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492059&idx=1&sn=2fa99747dd8041169417df9d41540d6b&chksm=f9525498ce25dd8ecefdf5aa6876ff5dc191330ed42a72cc943e1a3a4948d90d909a9241704f#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
