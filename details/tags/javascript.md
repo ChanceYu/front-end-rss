@@ -1,6 +1,11 @@
-:alarm_clock: 更新时间: 2019-08-14 21:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-14 21:54:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
+
+
+> 关键字：`JavaScript`、`ECMAScript`、`JS`、`ES6`、`Promise`、`await`、`async`、`decorator`、`module`、`import`、`catch`、`console`、`setInterval`、`Worker`、`fetch`、`this`、`bind`、`DataTransfer`、`ArrayBuffer`、`Component`、`DOM`、`H5`、`HTML5`、`组件`、`正则`、`数组`、`事件`、`深拷贝`、`数据代理`、`变量`、`函数式`、`声明式`、`异步`、`表单`、`滚动`、`scroll`、`防抖`、`适配`、`路由`、`模块化`
+
+
 
 - [2019-08-10-【第1695期】-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=1&sn=291b03b2330069472e0e0626cef08512&chksm=bd4945848a3ecc924c88ca2676d9483baba50a2b38529b805d9746b34d3ec1f0c7676b66edc4#rd) 
 - [2019-08-08-【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd) 
@@ -161,7 +166,6 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
-- [2019-08-14-JS代码脏乱差？你需要知道这些优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=1&sn=8573cc1281cd42368972851b3825c263&chksm=f952577bce25de6d2d1089441d707c1de180210529beeecfc9804359df6bf6c5fbd42d830915&scene=27#wechat_redirect) 
 - [2019-08-11-摆脱JS框架，5年web组件开发经验总结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=1&sn=866af57bc412fa277e28721e0d486168&chksm=f952575ace25de4c6b5e281db9b5aaf71adb33fb5ee4c144f7c30583dd0b1186097e54bfb6ae&scene=27#wechat_redirect) 
 - [2019-08-05-2019谷歌I/O大会上提出的JavaScript新特性，你错过了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=1&sn=6f2d7257082f5a85181fa59e9d09ac8c&chksm=f9525490ce25dd86d2d6fac651c21e22614d180b331db17d843da2533815cde04dede37e8efe&scene=27#wechat_redirect) 
 - [2019-08-07-带来更多炫酷效果！用于3D设计和动画制作的JavaScript库：Zdog](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=2&sn=4dbb9b3030e639d3484d6617b0e832f9&chksm=f95254a0ce25ddb6a9ea62dd358e60bf16e07958c4b899b8bcb4435dba7d4cadebd3572b67b7#rd) 

@@ -1,6 +1,11 @@
-:alarm_clock: 更新时间: 2019-08-14 21:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-14 21:54:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
+
+
+> 关键字：`Chrome`、`Chromium`、`IE`、`Firefox`、`Safari`、`Webkit`、`Edge`、`WebSocket`、`GET`、`POST`、`CORS`、`URL`、`浏览器`、`调试`、`缓存`、`跨域`、`请求`、`安全`、`状态码`、`重绘`、`重排`、`渲染`
+
+
 
 - [2019-08-13-【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd) 
 - [2019-08-08-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect) 

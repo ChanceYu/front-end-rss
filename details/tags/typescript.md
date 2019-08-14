@@ -1,6 +1,11 @@
-:alarm_clock: 更新时间: 2019-08-14 21:47:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-14 21:54:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
+
+
+> 关键字：`TypeScript`
+
+
 
 - [2019-08-12-【第1697期】TypeScript-次日指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=2&sn=c1faf9e0c636286d05c822c652eb3966&chksm=bd4945938a3ecc856ace3884a6b47708e33b55e4a2496637df35999ed9213e080d587bffbd8b#rd) 
 - [2019-07-18-TypeScript凭什么成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=1&sn=96ca04c72ce2a4bba0224368584fe5d1&chksm=bd4942bc8a3ecbaae1160c3b080dbe670bb511d71e60c44d1860dcc60f714ebf7ee5335a362a&scene=27#wechat_redirect) 

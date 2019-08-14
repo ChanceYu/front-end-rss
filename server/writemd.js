@@ -68,10 +68,12 @@ function handlerTags(){
     let detailTpl = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString();
     let detailCompiled = _.template(detailTpl);
     const filename = tag.filename + '.md'
+
     const detailContent = detailCompiled({
       currentDate: utils.getNowDate(),
       formatTitle: utils.formatTitle,
       title: tags[i].tag,
+      keywords: tags[i].keywords,
       items: tags[i].items
     });
 
