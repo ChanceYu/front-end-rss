@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-14 21:54:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-14 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -35,6 +35,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2019-08-14-微信小程序支持webP的WebAssembly方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=2&sn=847622150995377f508fa34fa2087608&chksm=f952577bce25de6d67245c26d0df0133c16b1e38f44e6c7abe9a806830cc4f2cf8d003fe4702&scene=27#wechat_redirect) 
 - [2019-07-03-启动耗时降低30%！腾讯在线教育小程序开发实践与优化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491665&idx=1&sn=0647f77f9c4521552e89e0c1b7e5a84a#rd) 
 - [2019-04-04-死磕小程序！快应用宣布支持第三方DSL](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490898&idx=1&sn=97200b61279a9195a7d7b8876880fae2#rd) 
 - [2019-03-07-多重影分身：一套代码如何生成多个小程序？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490627&idx=1&sn=ce9b7251753fc78c22920d4a5a22653a#wechat_redirect) 
