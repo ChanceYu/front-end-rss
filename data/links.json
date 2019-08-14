@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd",
+        "date": "2019-08-14"
+      },
+      {
+        "title": "【第1699期】正确处理下载文件时HTTP头的编码问题（Content-Disposition）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=1&sn=b2f3ab11473b2ff849d03b9a237b0394&chksm=bd4945b68a3ecca0d2bfea9103969b83818d89fe7ddc7900b89232864472a0714a14d9c77332#rd",
+        "date": "2019-08-14"
+      },
       {
         "title": "重塑前端工作流：Lugia正式版发布",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd",
@@ -2847,9 +2857,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "JS 的未来和 Web 多语言开发",
@@ -5274,9 +5284,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "大前端喊了三年，现在怎么样了？丨GMTC",

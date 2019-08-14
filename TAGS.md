@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-14 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-14 08:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -935,6 +935,7 @@
 
 
 
+- [【前端早读课】【第1699期】正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=1&sn=b2f3ab11473b2ff849d03b9a237b0394&chksm=bd4945b68a3ecca0d2bfea9103969b83818d89fe7ddc7900b89232864472a0714a14d9c77332#rd)
 - [【前端早读课】【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd)
 - [【前端早读课】【第1625期】-从原型图到成品：步步深入-CSS-布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232375&idx=1&sn=c69f5fa559be00b0af291b0853becd8d#rd)
 - [【前端早读课】【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd)
@@ -1321,6 +1322,7 @@
 
 
 
+- [【前端早读课】【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd)
 - [【前端早读课】【第1595期】可能是最被误用的-HTTP-响应头之一-Cache-Control:-must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd)
 - [【前端早读课】【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect)
 - [【前端早读课】【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect)

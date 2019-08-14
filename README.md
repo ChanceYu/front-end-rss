@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-14 06:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-14 08:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-14-【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd) ![](assets/new.png)  
+- [2019-08-14-【第1699期】正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=1&sn=b2f3ab11473b2ff849d03b9a237b0394&chksm=bd4945b68a3ecca0d2bfea9103969b83818d89fe7ddc7900b89232864472a0714a14d9c77332#rd) ![](assets/new.png)  
 - [2019-08-13-重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd)  
 - [2019-08-13-【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd)  
 - [2019-08-12-【第1697期】TypeScript-次日指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=2&sn=c1faf9e0c636286d05c822c652eb3966&chksm=bd4945938a3ecc856ace3884a6b47708e33b55e4a2496637df35999ed9213e080d587bffbd8b#rd)  
@@ -49,8 +51,6 @@
 - [2019-08-06-【第1691期】前端需要知道的-HTTP-安全头配置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=1&sn=61df0d4fc69842ca76b7c5759b6f8ad6&chksm=bd4942558a3ecb43768469ce369eab89ced13ac11918eb3c70112d2983a73dbd64bf1fb984fb&scene=27#wechat_redirect)  
 - [2019-08-06-【英】7个有用的js技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=3&sn=b0ba2a43c49216a4c12525cb73d64c70&chksm=bd4942558a3ecb438036ea4216d6caaeafd55016d7a4edfd65aca17632eab37849c5c3a5d1d3#rd)  
 - [2019-08-06-【招聘】网龙网络招软件开发工程师（Web方向）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=2&sn=a4d18ecf2b6707d1ddfa1dd91c54f625&chksm=bd4942558a3ecb43141a12b7319f0f5d4d079960e22006c05fdb11e88c0b1b87bc0e44fdfec6#rd)  
-- [2019-08-05-【第1690期】精读《Optional-chaining》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd)  
-- [2019-08-05-不会React-？那不好意思你被pass了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=1&sn=b0f02af2be8857c155a59e2492bb6226&chksm=bd49424d8a3ecb5bccf0248c1b35aed903748b66838c57b1db6286eee911c53e9debc83230fd#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-08-13-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=2&sn=1b0493f6c1f314a3410c6addc020f331&chksm=80255be9b752d2ffa0049cb471f5827d91950f71d97de55e4b05db4c140988ec7bf70c7b2635#rd) ![](assets/new.png)  
-- [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd) ![](assets/new.png)  
+- [2019-08-13-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=2&sn=1b0493f6c1f314a3410c6addc020f331&chksm=80255be9b752d2ffa0049cb471f5827d91950f71d97de55e4b05db4c140988ec7bf70c7b2635#rd)  
+- [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd)  
 - [2019-08-11-在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556893&idx=1&sn=885569e8d2dfaf24165edec33e71f90e&chksm=80255bdcb752d2ca268703e862e170609ff07a441c1277ccd6afa486e8a7c18d1bed948bb230&scene=27#wechat_redirect)  
 - [2019-08-10-前端路由跳转基本原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=1&sn=5b1da2f8bc5b222d494360795c1277c8&chksm=80255bddb752d2cbc4c113d1b1281d7a6fc571f690137ebc77cc4d83aaa4a10a3cbeffef0f0d&scene=27#wechat_redirect)  
 - [2019-08-10-面向对象：相信爱情还是美好的，希望能找到一个合适的人，一生所爱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=2&sn=a4415e2d17825c9027b4fc4398c226d1&chksm=80255bddb752d2cb29437e3c13672a5ea46c959f5828fc56c66947de50d960b69146f539c189&scene=27#wechat_redirect)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-13-大前端喊了三年，现在怎么样了？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=2&sn=e2e1f651639754073b3c994855fb3336&chksm=f952576cce25de7a577b55f0ea52245eecc4e369de739c3f497c1607de19b071a1b2c95842de#rd) ![](assets/new.png)  
-- [2019-08-13-校招or跳槽，你需要掌握的21个React性能优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=1&sn=f8c2273f4e07f35a5da13c098d25c84c&chksm=f952576cce25de7a3229a5f8de5bccca674dd0263c0c539c78510e8fcd3f5fcd4c208a8e34ec#rd) ![](assets/new.png)  
+- [2019-08-13-大前端喊了三年，现在怎么样了？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=2&sn=e2e1f651639754073b3c994855fb3336&chksm=f952576cce25de7a577b55f0ea52245eecc4e369de739c3f497c1607de19b071a1b2c95842de#rd)  
+- [2019-08-13-校招or跳槽，你需要掌握的21个React性能优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=1&sn=f8c2273f4e07f35a5da13c098d25c84c&chksm=f952576cce25de7a3229a5f8de5bccca674dd0263c0c539c78510e8fcd3f5fcd4c208a8e34ec#rd)  
 - [2019-08-12-Vue技能进阶：使用设计模式写出优雅的前端代码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=1&sn=3d8eb0bd3427c426bd54b5fa361220ba&chksm=f9525766ce25de7005381b7563503e81cdb8933908ed1e8232da1398668a338efe7004aab94e&scene=27#wechat_redirect)  
 - [2019-08-11-摆脱JS框架，5年web组件开发经验总结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=1&sn=866af57bc412fa277e28721e0d486168&chksm=f952575ace25de4c6b5e281db9b5aaf71adb33fb5ee4c144f7c30583dd0b1186097e54bfb6ae&scene=27#wechat_redirect)  
 - [2019-08-12-这项技术将影响前端开发者的未来，如何快速搭上这趟列车](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=3&sn=414f6d2b8f573d07da2b57ff4ff5b99c&chksm=f9525766ce25de70150911bf7b399919a9aef0ef4a39db78a67c90d5baad02a395f0f710430e#rd)  
