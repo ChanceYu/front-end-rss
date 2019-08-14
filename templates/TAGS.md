@@ -18,8 +18,9 @@
 > 关键字：`<%= e.keywords.replace(/(\?)|([：])/g, '').split('|').join('`、`') %>`
 <% } %>
 
-<% _.each(e.items, function(item){ var itemTitle = obj.formatTitle(item.title); %>
+<% _.each(e.items.slice(0,20), function(item){ var itemTitle = obj.formatTitle(item.title); %>
 - [【<%= item.rssTitle %>】<%= itemTitle %>](<%= item.link %>)<% }) %>
+- [......【查看更多】......](./details/tags/<%= e.filename %>.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
 </details>

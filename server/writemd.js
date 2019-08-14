@@ -63,6 +63,20 @@ function handlerTags(){
         }
       });
     });
+
+    // details/tags/file.md
+    let detailTpl = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString();
+    let detailCompiled = _.template(detailTpl);
+    const filename = tag.filename + '.md'
+    const detailContent = detailCompiled({
+      currentDate: utils.getNowDate(),
+      formatTitle: utils.formatTitle,
+      title: tags[i].tag,
+      items: tags[i].items
+    });
+
+    fs.writeFileSync(path.join(RESP_PATH, 'details/tags/', filename), detailContent, 'utf-8');
+    
   });
 
   let content = fs.readFileSync(TAGS_TEMPLATE_PATH);
