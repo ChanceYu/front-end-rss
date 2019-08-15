@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-15 06:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-15 22:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -578,6 +578,7 @@
 - [【前端早读课】【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)
 - [【前端早读课】GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd)
 - [【前端早读课】【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect)
+- [【前端大全】GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect)
 - [【前端大全】前端开发者必备的-Nginx-知识](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556250&idx=1&sn=07ae8424d4087a11a1fbacc54b1581db#rd)
 - [【前端大全】面试加分项之-Nginx-反向代理与负载均衡](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556116&idx=1&sn=cfca7b893bf20faf3f1808c592928487#rd)
 - [【前端大全】nginx-反向代理和负载均衡策略实战案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555878&idx=1&sn=dffbd69d17c0ff126acd2d9d5f5123bd#wechat_redirect)
