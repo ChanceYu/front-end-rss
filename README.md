@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-15 22:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-16 06:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -62,7 +62,7 @@
 </summary>
 
 
-- [2019-08-15-GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-15-GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect)  
 - [2019-08-14-面向对象：让我们红尘作伴，吃的白白胖胖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=2&sn=540ffc904279a8b52323f86897d22a1f&chksm=80255beab752d2fcaf28268006c79c15aaf09d53158c9288609f9b0ea632ca59addb7f163a84#rd)  
 - [2019-08-14-一文带你了解-JavaScript-函数式编程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=1&sn=e3048f77cedce5691f0b73ecf8e52862&chksm=80255beab752d2fc25b83519dadf292ca2913e2c51dcf372bcf6679219498628786d4345ac23#rd)  
 - [2019-08-13-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=2&sn=1b0493f6c1f314a3410c6addc020f331&chksm=80255be9b752d2ffa0049cb471f5827d91950f71d97de55e4b05db4c140988ec7bf70c7b2635#rd)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-15-小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=2&sn=c7cabe02b33e19252ea7c6a370466538&chksm=f9525702ce25de14033a09bb477ab3ed2ecfc7bc38abee76bff2ab4d0c7fa02df6954b24491c#rd) ![](assets/new.png)  
+- [2019-08-15-为什么Flutter还不是最成熟的跨端框架？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=1&sn=fe2410edb425de2136e22d5d80a5a621&chksm=f9525702ce25de14238d76b6d6ce34111aaa8973dbf5f43b8c7f511f060d86fd9a0e327c08f8#rd) ![](assets/new.png)  
 - [2019-08-14-JS代码脏乱差？你需要知道这些优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=1&sn=8573cc1281cd42368972851b3825c263&chksm=f952577bce25de6d2d1089441d707c1de180210529beeecfc9804359df6bf6c5fbd42d830915&scene=27#wechat_redirect)  
 - [2019-08-14-微信小程序支持webP的WebAssembly方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=2&sn=847622150995377f508fa34fa2087608&chksm=f952577bce25de6d67245c26d0df0133c16b1e38f44e6c7abe9a806830cc4f2cf8d003fe4702&scene=27#wechat_redirect)  
 - [2019-08-13-大前端喊了三年，现在怎么样了？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=2&sn=e2e1f651639754073b3c994855fb3336&chksm=f952576cce25de7a577b55f0ea52245eecc4e369de739c3f497c1607de19b071a1b2c95842de#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-08-WebAssembly到底处于编译阶段的哪个环节？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492081&idx=2&sn=592c6585a6a8a87be0b087f305b9a1d1&chksm=f95254b2ce25dda45648e137de11b893e807ec8a3946007cf1eda749936045a82df58609acfc#rd)  
 - [2019-08-08-为何现代Web开发如此复杂？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492081&idx=1&sn=d2dd01d9f3cd1720d89a34f79d4aa9e6&chksm=f95254b2ce25dda49df9c9fb861ec3b2bf4c697201a5d8ea55a99e1591f57f5980a37f31d6b0#rd)  
 - [2019-08-07-Vue.js在复杂信息流场景下的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492067&idx=1&sn=ce79c81f8636bac3b6a6efc32775fed3&chksm=f95254a0ce25ddb6e907289032224bf2416ac39be97abd3661a49038963bb553d874c69364b7&scene=27#wechat_redirect)  
-- [2019-08-05-2019谷歌I/O大会上提出的JavaScript新特性，你错过了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=1&sn=6f2d7257082f5a85181fa59e9d09ac8c&chksm=f9525490ce25dd86d2d6fac651c21e22614d180b331db17d843da2533815cde04dede37e8efe&scene=27#wechat_redirect)  
-- [2019-08-05-深入解析Node.js事件循环工作机制](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=2&sn=7c1a67adebd5162f33ebeb623a9af4e9&chksm=f9525490ce25dd86a134b747a78cf9539de18024590f2867902e3616b4972492c595d5b0b0f8&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/) ![](assets/new.png)  
 - [2019-08-13-常见纯CSS图标的代码分离与整理（持续更新）](https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/)  
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/)  
 - [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
@@ -174,7 +175,6 @@
 - [2019-05-27-你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/)  
 - [2019-05-17-使用“变量种子计数器”扩展CSS动画更多可能性](https://www.zhangxinxu.com/wordpress/2019/05/css-variable-seed-extend-animation/)  
 - [2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/)  
-- [2019-04-21-CSS实现文字下面波浪线动画效果](https://www.zhangxinxu.com/wordpress/2019/04/css-wave-wavy-animation/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-15 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-16 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -13,6 +13,7 @@
 - [2019-01-24-【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect) 
 - [2018-12-16-【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect) 
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
+- [2019-08-15-为什么Flutter还不是最成熟的跨端框架？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=1&sn=fe2410edb425de2136e22d5d80a5a621&chksm=f9525702ce25de14238d76b6d6ce34111aaa8973dbf5f43b8c7f511f060d86fd9a0e327c08f8#rd) 
 - [2019-08-06-Flutter并不像你想象中的那么完美](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492059&idx=1&sn=2fa99747dd8041169417df9d41540d6b&chksm=f9525498ce25dd8ecefdf5aa6876ff5dc191330ed42a72cc943e1a3a4948d90d909a9241704f#rd) 
 - [2019-07-05-大前端开发者，如何用Flutter制霸全平台？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491701&idx=1&sn=96969ba02fce4244e1372d73687d0532#rd) 
 - [2019-06-20-重磅！Flutter-2019年最新进展和未来展望](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491541&idx=1&sn=774717a029004863f60b78763514c743#rd) 
