@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【英】初级、中级和高级开发人员之间的差异",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd",
+        "date": "2019-08-16"
+      },
+      {
+        "title": "【第1701期】 JavaScript Errors 指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd",
+        "date": "2019-08-16"
+      },
       {
         "title": "【图书】别让前端工程师只写代码",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd",
@@ -5309,9 +5319,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了",

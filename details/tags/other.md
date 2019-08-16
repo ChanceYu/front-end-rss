@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-08-16 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-16 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-08-16-【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd) 
 - [2019-08-15-【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd) 
 - [2019-08-15-【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd) 
 - [2019-08-13-重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd) 

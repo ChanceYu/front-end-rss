@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-16 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-16 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -322,6 +322,7 @@
 
 
 
+- [【前端早读课】【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd)
 - [【前端早读课】【第1695期】-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=1&sn=291b03b2330069472e0e0626cef08512&chksm=bd4945848a3ecc924c88ca2676d9483baba50a2b38529b805d9746b34d3ec1f0c7676b66edc4#rd)
 - [【前端早读课】【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd)
 - [【前端早读课】【英】JavaScript的全局变量是如何工作的?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=2&sn=f73e47a6a060668caed49dab858bc336&chksm=bd4942598a3ecb4f9fb4901f75fd91cc39f8e6cc899e8de2e78ab99cb8ddb347c5f8202345ea&scene=27#wechat_redirect)
@@ -341,7 +342,6 @@
 - [【前端早读课】【图书】深入理解JavaScript特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232309&idx=2&sn=25336abc599e84a8f9d586017969afe4#rd)
 - [【前端早读课】【第1611期】前端路由原理解析和实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232265&idx=1&sn=a559a97b36f3a6f359cda13c035fc68e#rd)
 - [【前端早读课】【第1610期】-JavaScript的环境模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232256&idx=1&sn=2ec349dd8a919b1ef4400574c060b23a#rd)
-- [【前端早读课】【第1608期】What's-New-in-JavaScript（视频）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232245&idx=2&sn=7ce59e103c5c77cad6120fc75bf9d51b#rd)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -707,6 +707,7 @@
 
 
 
+- [【前端早读课】【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd)
 - [【前端早读课】【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd)
 - [【前端早读课】【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd)
 - [【前端早读课】重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd)
@@ -726,7 +727,6 @@
 - [【前端早读课】【第1659期】-垃圾回收](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232955&idx=2&sn=66780a65a4b940788336573074a8dd78#rd)
 - [【前端早读课】同样是工作4年，但能力却相差很大，差距是怎么拉开的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232955&idx=1&sn=b6322fa3c1b7fd603a0635f76f7e4953#rd)
 - [【前端早读课】【第1655期】零基础的小明要如何成为前端工程师？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232867&idx=1&sn=e83b93d0293cc30a70248236994b5cd2#rd)
-- [【前端早读课】拿不到offer全额退款|妙味10年权威WEB前端高级课程招生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232835&idx=1&sn=a1a5c9dbab2c0c2cccef8dee98602660#rd)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

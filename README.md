@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-16 06:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-16 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-16-【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd) ![](assets/new.png)  
+- [2019-08-16-【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd) ![](assets/new.png)  
 - [2019-08-15-【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd)  
 - [2019-08-15-【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd)  
 - [2019-08-14-【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd)  
@@ -49,8 +51,6 @@
 - [2019-08-08-【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd)  
 - [2019-08-08-【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd)  
 - [2019-08-07-【第1692期】在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=1&sn=a5a394ca9f7d440d3e93b2e8f4965d5f&chksm=bd4942598a3ecb4fb071003c5925945b4b3bb285f06e0202cdfbbbe98880132926efcb8553df&scene=27#wechat_redirect)  
-- [2019-08-07-【英】JavaScript的全局变量是如何工作的?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=2&sn=f73e47a6a060668caed49dab858bc336&chksm=bd4942598a3ecb4f9fb4901f75fd91cc39f8e6cc899e8de2e78ab99cb8ddb347c5f8202345ea&scene=27#wechat_redirect)  
-- [2019-08-06-【第1691期】前端需要知道的-HTTP-安全头配置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233233&idx=1&sn=61df0d4fc69842ca76b7c5759b6f8ad6&chksm=bd4942558a3ecb43768469ce369eab89ced13ac11918eb3c70112d2983a73dbd64bf1fb984fb&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-15-小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=2&sn=c7cabe02b33e19252ea7c6a370466538&chksm=f9525702ce25de14033a09bb477ab3ed2ecfc7bc38abee76bff2ab4d0c7fa02df6954b24491c#rd) ![](assets/new.png)  
-- [2019-08-15-为什么Flutter还不是最成熟的跨端框架？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=1&sn=fe2410edb425de2136e22d5d80a5a621&chksm=f9525702ce25de14238d76b6d6ce34111aaa8973dbf5f43b8c7f511f060d86fd9a0e327c08f8#rd) ![](assets/new.png)  
+- [2019-08-15-小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=2&sn=c7cabe02b33e19252ea7c6a370466538&chksm=f9525702ce25de14033a09bb477ab3ed2ecfc7bc38abee76bff2ab4d0c7fa02df6954b24491c#rd)  
+- [2019-08-15-为什么Flutter还不是最成熟的跨端框架？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=1&sn=fe2410edb425de2136e22d5d80a5a621&chksm=f9525702ce25de14238d76b6d6ce34111aaa8973dbf5f43b8c7f511f060d86fd9a0e327c08f8#rd)  
 - [2019-08-14-JS代码脏乱差？你需要知道这些优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=1&sn=8573cc1281cd42368972851b3825c263&chksm=f952577bce25de6d2d1089441d707c1de180210529beeecfc9804359df6bf6c5fbd42d830915&scene=27#wechat_redirect)  
 - [2019-08-14-微信小程序支持webP的WebAssembly方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=2&sn=847622150995377f508fa34fa2087608&chksm=f952577bce25de6d67245c26d0df0133c16b1e38f44e6c7abe9a806830cc4f2cf8d003fe4702&scene=27#wechat_redirect)  
 - [2019-08-13-大前端喊了三年，现在怎么样了？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=2&sn=e2e1f651639754073b3c994855fb3336&chksm=f952576cce25de7a577b55f0ea52245eecc4e369de739c3f497c1607de19b071a1b2c95842de#rd)  
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/) ![](assets/new.png)  
+- [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/)  
 - [2019-08-13-常见纯CSS图标的代码分离与整理（持续更新）](https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/)  
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/)  
 - [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
