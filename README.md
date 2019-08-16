@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-16 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-16 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-16-【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd) ![](assets/new.png)  
-- [2019-08-16-【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd) ![](assets/new.png)  
+- [2019-08-16-【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd)  
+- [2019-08-16-【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd)  
 - [2019-08-15-【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd)  
 - [2019-08-15-【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd)  
 - [2019-08-14-【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html) ![](assets/new.png)  
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  
 - [2019-08-08-xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)  
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)  
@@ -205,7 +206,6 @@
 - [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
 - [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
 - [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
-- [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
