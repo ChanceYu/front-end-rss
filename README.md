@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-16 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-16 22:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,6 +62,7 @@
 </summary>
 
 
+- [2019-08-16-提升开发幸福感的10条JS技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556917&idx=1&sn=aa7df70bf8069cc12f31623d10823d58&chksm=80255bf4b752d2e2754b600f38750cbc09a3db02f081d73491497a1cd23a0708449872174241&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-15-GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect)  
 - [2019-08-14-面向对象：让我们红尘作伴，吃的白白胖胖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=2&sn=540ffc904279a8b52323f86897d22a1f&chksm=80255beab752d2fcaf28268006c79c15aaf09d53158c9288609f9b0ea632ca59addb7f163a84#rd)  
 - [2019-08-14-一文带你了解-JavaScript-函数式编程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=1&sn=e3048f77cedce5691f0b73ecf8e52862&chksm=80255beab752d2fc25b83519dadf292ca2913e2c51dcf372bcf6679219498628786d4345ac23#rd)  
@@ -81,7 +82,6 @@
 - [2019-08-04-CSS-是如何影响浏览器元素在文档中的排列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=1&sn=afe264d99b204728fb0716f5f278d71d&chksm=80255bc1b752d2d7db73198d20c0eec81182c9f7fbe80ca75f304150974464310b49f10ad29a&scene=27#wechat_redirect)  
 - [2019-08-04-面向对象：缘分来之不易，遇到定会好好珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=2&sn=4ac670a0a91028bff668732b6687eea8&chksm=80255bc1b752d2d72bce1f73cd16b0c9daee27e4dd06d8621478668c3ac8e0f740353e66564f&scene=27#wechat_redirect)  
 - [2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect)  
-- [2019-08-02-详解-ES-2018-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556854&idx=1&sn=4d1fc907d4844e39262c8ea559fe5a1d&chksm=80255c37b752d521ae03100d27b67d7912ffe0b5f1997f4c52a15e69bec164131cac15ea2247&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html) ![](assets/new.png)  
+- [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)  
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  
 - [2019-08-08-xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)  
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)  
