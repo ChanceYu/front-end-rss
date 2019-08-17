@@ -5334,9 +5334,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "uni-app 2.2版本发布：体积压缩 43%，脚本运行时间缩短32%",
@@ -7162,6 +7162,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "是时候了，无外链的CSS开发策略",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/08/css-no-external-link/",
+        "date": "2019-08-17"
+      },
       {
         "title": "让CSS flex布局最后一行列表左对齐的N种方法",
         "link": "https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/",
