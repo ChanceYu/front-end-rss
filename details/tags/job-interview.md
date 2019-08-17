@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-16 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-17 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-08-17-【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd) 
 - [2019-08-11-【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd) 
 - [2019-08-10-【招聘】北京牛电科技招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=2&sn=348d977975a99a749238e754138ef633&chksm=bd4945848a3ecc92bc9d01601a4072f50e491e802c5a24c751541794234fb98b5192f4930ba7#rd) 
 - [2019-08-09-【招聘】美团到店事业群平台终端招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=2&sn=48ad65d9c2f18fd75fe555667294489a&chksm=bd4942718a3ecb67765c9e8590d71b469d512313bd5f18c999b89c99cfeed4bb1b0b0f22cb80#rd) 
