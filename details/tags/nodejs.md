@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-18 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-19 06:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -32,6 +32,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd) 
 - [2019-08-05-深入解析Node.js事件循环工作机制](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492051&idx=2&sn=7c1a67adebd5162f33ebeb623a9af4e9&chksm=f9525490ce25dd86a134b747a78cf9539de18024590f2867902e3616b4972492c595d5b0b0f8&scene=27#wechat_redirect) 
 - [2019-08-01-Node.js-12：服务端JavaScript的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=2&sn=a240bf656aa1f849e250575276f289d3&chksm=f95254e1ce25ddf7949285b73141fed77f47962068956ca0db2ca9d12ae8102794c2f7866b69#rd) 
 - [2019-07-31-Electron-6.0发布了，带来4项重大改进！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=1&sn=0154ccc9bc0a18960179b59908f82971&chksm=f95254d2ce25ddc4180dc0ff847508fcfb8659a04336ee8dabb1b9de5dfd1f2d6e79a08da9b5#rd) 

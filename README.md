@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-18 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-19 06:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -62,7 +62,7 @@
 </summary>
 
 
-- [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd) ![](assets/new.png)  
+- [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd)  
 - [2019-08-17-正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556925&idx=1&sn=184b4f9e755bb47a96d7d81fe4d2a03f&chksm=80255bfcb752d2ea9847c60720ab5f7487c87c9dcb01a11e8bd93ee58cd01a9d11e48b7b93e1#rd)  
 - [2019-08-16-提升开发幸福感的10条JS技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556917&idx=1&sn=aa7df70bf8069cc12f31623d10823d58&chksm=80255bf4b752d2e2754b600f38750cbc09a3db02f081d73491497a1cd23a0708449872174241&scene=27#wechat_redirect)  
 - [2019-08-15-GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect)  
@@ -93,6 +93,7 @@
 </summary>
 
 
+- [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd) ![](assets/new.png)  
 - [2019-08-17-代码编程一条街，前端后端谁为先](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492181&idx=1&sn=487749078ca500dedd29042a141e29ec&chksm=f9525716ce25de004a2597a5cc468e433b0819ef1e599a1e030dc9f99df5f629aa70cd742d05#rd)  
 - [2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd)  
 - [2019-08-16-深度解析GraphQL：澄清你对GraphQL的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=1&sn=43004262fd2bd2610bd218fd7302555a&chksm=f9525704ce25de125e9d2b8f83d2fd8aabe73d45415c44231e0913d7a6d751e59ff5e42c597d#rd)  
@@ -112,7 +113,6 @@
 - [2019-08-10-百万年薪挖了个P8程序员，难道是“水货”？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=1&sn=439f3051f2fc11a31edc938dada8e313&chksm=f9525753ce25de450b705c16beeed2cef7fc131f8917c5a06fe828676fbec76f84a7e30a38bc#rd)  
 - [2019-08-09-挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect)  
 - [2019-08-09-10个实用的Vue.js工具和库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=2&sn=d533c1c7101c7b5cf4324f49d8050281&chksm=f9525744ce25de527512bf978747b19e6296db9bcc97ad077c86138e19e94f8aaeb1ad470b9b&scene=27#wechat_redirect)  
-- [2019-08-09-Chrome架构：仅仅打开了1个页面，为什么有4个进程?-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=3&sn=685548345db764cb39530008ca9af0b6&chksm=f9525744ce25de524b89d978d5a3f653f44d32aba45c1c23b94a02f6f82d52c4419cccaf5f2c&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/) ![](assets/new.png)  
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
 - [2019-08-17-是时候了，无外链的CSS开发策略](https://www.zhangxinxu.com/wordpress/2019/08/css-no-external-link/)  
 - [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/)  
@@ -174,7 +175,6 @@
 - [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/)  
 - [2019-05-28-小tips:-如何借助content属性显示CSS-var变量值](https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/)  
 - [2019-05-28-深入理解CSS-mix-blend-mode滤色screen混合模式](https://www.zhangxinxu.com/wordpress/2019/05/css-mix-blend-mode-screen/)  
-- [2019-05-27-你用的那些CSS转场动画可以换一换了](https://www.zhangxinxu.com/wordpress/2019/05/css-transfer-animation/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

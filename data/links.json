@@ -2897,9 +2897,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "前端开发 20 年变迁史",
@@ -5354,10 +5354,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "前端周报：Node.js 安全版本发布； curl 支持 HTTP/3 ；30条招聘信息",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd",
+        "date": "2019-08-18"
+      },
       {
         "title": "代码编程一条街，前端后端谁为先",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492181&idx=1&sn=487749078ca500dedd29042a141e29ec&chksm=f9525716ce25de004a2597a5cc468e433b0819ef1e599a1e030dc9f99df5f629aa70cd742d05#rd",
@@ -7187,6 +7192,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "checkValidity等form原生JS验证方法和属性详细介绍",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/",
+        "date": "2019-08-18"
+      },
       {
         "title": "纯前端JS zip打包文件并下载",
         "link": "https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-18 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-19 06:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,7 @@
 - [【前端大全】2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-02-详解-ES-2018-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556854&idx=1&sn=4d1fc907d4844e39262c8ea559fe5a1d&chksm=80255c37b752d521ae03100d27b67d7912ffe0b5f1997f4c52a15e69bec164131cac15ea2247&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-01-深入理解-ESLint](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556840&idx=1&sn=37d4554cd243d4f30f53ac06f2dfe109&chksm=80255c29b752d53f34e58c1676eb4ab169605be2b1f9d58fa5855938bdc0dca68eadbe9ca5a5#rd) 
+- [【前端之巅】2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd) 
 - [【前端之巅】2019-08-17-代码编程一条街，前端后端谁为先](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492181&idx=1&sn=487749078ca500dedd29042a141e29ec&chksm=f9525716ce25de004a2597a5cc468e433b0819ef1e599a1e030dc9f99df5f629aa70cd742d05#rd) 
 - [【前端之巅】2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd) 
 - [【前端之巅】2019-08-16-深度解析GraphQL：澄清你对GraphQL的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=1&sn=43004262fd2bd2610bd218fd7302555a&chksm=f9525704ce25de125e9d2b8f83d2fd8aabe73d45415c44231e0913d7a6d751e59ff5e42c597d#rd) 
@@ -204,6 +205,7 @@
 - [【前端之巅】2019-08-01-如何手撸一个Vue-3.0异步函数API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=1&sn=2bc05676b7427d59a2bcb615701f2be8&chksm=f95254e1ce25ddf70cbb3ccb79f01677d2fee1891d636d625e3ffc87fd8de4b58a243fdbfc50&scene=27#wechat_redirect) 
 - [【前端之巅】2019-08-01-Node.js-12：服务端JavaScript的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=2&sn=a240bf656aa1f849e250575276f289d3&chksm=f95254e1ce25ddf7949285b73141fed77f47962068956ca0db2ca9d12ae8102794c2f7866b69#rd) 
 - [【前端之巅】2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-17-是时候了，无外链的CSS开发策略](https://www.zhangxinxu.com/wordpress/2019/08/css-no-external-link/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/) 
