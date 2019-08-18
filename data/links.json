@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】深圳有赞美业招前端工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd",
+        "date": "2019-08-18"
+      },
+      {
+        "title": "【第1703期】愿未来没有 Webpack",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd",
+        "date": "2019-08-18"
+      },
       {
         "title": "【招聘】广发证券招大前端开发工程师",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd",

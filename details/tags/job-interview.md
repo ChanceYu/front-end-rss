@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-18 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-18 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd) 
 - [2019-08-17-【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd) 
 - [2019-08-11-【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd) 
 - [2019-08-10-【招聘】北京牛电科技招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=2&sn=348d977975a99a749238e754138ef633&chksm=bd4945848a3ecc92bc9d01601a4072f50e491e802c5a24c751541794234fb98b5192f4930ba7#rd) 
