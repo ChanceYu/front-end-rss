@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-18 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-18 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -151,6 +151,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd) 
 - [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd) 
 - [2019-08-11-在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556893&idx=1&sn=885569e8d2dfaf24165edec33e71f90e&chksm=80255bdcb752d2ca268703e862e170609ff07a441c1277ccd6afa486e8a7c18d1bed948bb230&scene=27#wechat_redirect) 
 - [2019-08-09-Web-实现前后端分离，前后端解耦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556886&idx=2&sn=be0fe006d485c235cdd1ecc9cdec75f8&chksm=80255bd7b752d2c1bf119cc5178c60e690b156ca1c8ebc9f7ce979970e98f63d90b6fcf529a1#rd) 
