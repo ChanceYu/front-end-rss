@@ -2907,9 +2907,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "一文搞定前端 Jenkins 自动化部署",
@@ -5374,10 +5374,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "What！前端也能玩硬件：在ESP32上运行JavaScript",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=2&sn=3b11b7a38f6aa7802532e56e91a3e43c&chksm=f9525720ce25de366c9cbf190089b014f0eee496c005e0ceb24088c37304d0209eccc2c47cfe#rd",
+        "date": "2019-08-19"
+      },
+      {
+        "title": "CSS-in-JS是恶魔还是天使？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=1&sn=3f07cbaa3b58e2ecb14a932b533fd086&chksm=f9525720ce25de3604831eb5dbae30a44265a7385ecb99bb732c36111a8bb59d0dd53a822f74#rd",
+        "date": "2019-08-19"
+      },
       {
         "title": "前端周报：Node.js 安全版本发布； curl 支持 HTTP/3 ；30条招聘信息",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd",
