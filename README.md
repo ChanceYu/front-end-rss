@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-19 06:00:17，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-19 08:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd) ![](assets/new.png)  
+- [2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd) ![](assets/new.png)  
 - [2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd)  
 - [2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd)  
 - [2019-08-17-【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd)  
@@ -49,8 +51,6 @@
 - [2019-08-11-【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd)  
 - [2019-08-10-【招聘】北京牛电科技招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=2&sn=348d977975a99a749238e754138ef633&chksm=bd4945848a3ecc92bc9d01601a4072f50e491e802c5a24c751541794234fb98b5192f4930ba7#rd)  
 - [2019-08-10-【第1695期】-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=1&sn=291b03b2330069472e0e0626cef08512&chksm=bd4945848a3ecc924c88ca2676d9483baba50a2b38529b805d9746b34d3ec1f0c7676b66edc4#rd)  
-- [2019-08-08-一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect)  
-- [2019-08-09-【招聘】美团到店事业群平台终端招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=2&sn=48ad65d9c2f18fd75fe555667294489a&chksm=bd4942718a3ecb67765c9e8590d71b469d512313bd5f18c999b89c99cfeed4bb1b0b0f22cb80#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd) ![](assets/new.png)  
+- [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd)  
 - [2019-08-17-代码编程一条街，前端后端谁为先](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492181&idx=1&sn=487749078ca500dedd29042a141e29ec&chksm=f9525716ce25de004a2597a5cc468e433b0819ef1e599a1e030dc9f99df5f629aa70cd742d05#rd)  
 - [2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd)  
 - [2019-08-16-深度解析GraphQL：澄清你对GraphQL的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=1&sn=43004262fd2bd2610bd218fd7302555a&chksm=f9525704ce25de125e9d2b8f83d2fd8aabe73d45415c44231e0913d7a6d751e59ff5e42c597d#rd)  
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/) ![](assets/new.png)  
+- [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
 - [2019-08-17-是时候了，无外链的CSS开发策略](https://www.zhangxinxu.com/wordpress/2019/08/css-no-external-link/)  
 - [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/)  

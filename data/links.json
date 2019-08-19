@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】深圳京东凹凸实验室招高级前端开发工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd",
+        "date": "2019-08-19"
+      },
+      {
+        "title": "【PPT】Vue.js 团队成员蒋豪群：Vue 高效开发之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd",
+        "date": "2019-08-19"
+      },
       {
         "title": "【招聘】深圳有赞美业招前端工程师",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd",
@@ -5354,9 +5364,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "前端周报：Node.js 安全版本发布； curl 支持 HTTP/3 ；30条招聘信息",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-19 06:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-19 08:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd) 
+- [【前端早读课】2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd) 
 - [【前端早读课】2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd) 
 - [【前端早读课】2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd) 
 - [【前端早读课】2019-08-17-【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd) 

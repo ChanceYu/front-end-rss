@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-19 06:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-19 08:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)
 - [【前端早读课】你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)
 - [【前端早读课】【第1664期】Vue组件库工程探索与实践之单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=1&sn=79605b3c4baa61e0d2570a778c7deb0b#rd)
 - [【前端早读课】【第1656期】精读《Vue3.0-Function-API》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=2&sn=12ef569f8e77adcc561595b38715a46e#rd)
@@ -93,7 +94,6 @@
 - [【前端早读课】【英】深入研究新的Vue-Devtools-V5.0](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231846&idx=2&sn=b9ee411b36d66b842f46614b7212ed8f#rd)
 - [【前端早读课】学会了Vue，前端面试却没找到工作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=1&sn=75c48ab930cfc1dc0500e22c3bfc55b3#rd)
 - [【前端早读课】【图书】深入浅出Vue.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=2&sn=1e154a51a13111cbe0bc31d93fef9b4a#rd)
-- [【前端早读课】【第1564期】Vue构建工具的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231810&idx=1&sn=8a68653093aa7c7f738165fd2b150f04#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -637,6 +637,7 @@
 
 
 
+- [【前端早读课】【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd)
 - [【前端早读课】【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd)
 - [【前端早读课】【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd)
 - [【前端早读课】【招聘】天猫-D2C-智能营销团队招前端开发专家/高级专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=2&sn=16c2ab349f5c9394d3703dbf86966ef6&chksm=bd4945908a3ecc86e5fa38c878851836be94fd527f7797586160a7c1b3a57f41321f9e573a5d#rd)
@@ -656,7 +657,6 @@
 - [【前端早读课】【招聘】阿里淘系技术部前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=2&amp;sn=847c6a6cb18ca8a4aeb9f54ccb5e25a2&amp;chksm=bd4942dc8a3ecbcac5195acabe45108c4e6e8967eedeed3e8fabc239a8299f3a48382c4ce430#rd)
 - [【前端早读课】【招聘】美团点评住宿度假招募前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=3&sn=23c6a05063bebae7adfd973c031b6ee6&chksm=bd4942bc8a3ecbaa90c4ba45852fb40e6d556b8cc20e20294475ea0c2ae0b54779f7af861f32&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】北京马蜂窝招用户增长前端技术专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233070&idx=2&sn=318c9832c3db04434733d6b64ace454a&chksm=bd4942aa8a3ecbbc83325abbf43eb09d8195506f96711d20b102c8306277e01902ec509de457&scene=27#wechat_redirect)
-- [【前端早读课】2019面试总结：前端程序员越来越悲催！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233058&idx=1&sn=be66d1ba4278ca52d3e013bcf5503da7&chksm=bd4942a68a3ecbb0d312acb8e721c306ebaa9d2b66071c9d764847734a6e41ffb99b4c727738&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
