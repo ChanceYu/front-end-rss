@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-19 08:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-19 18:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -144,6 +144,8 @@
 - [【前端早读课】2019-08-02-【第1687期】「数据模型」是如何助力前端开发的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233203&idx=1&sn=d666068b9e14238c55995fad75b61a21&chksm=bd4942378a3ecb2119d54ab6acc2d2eed2f5b73f888a7da63bd1d88f2fd3ab828bafaaf45de5#rd) 
 - [【前端早读课】2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect) 
+- [【前端大全】2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd) 
+- [【前端大全】2019-08-19-人人都会Vue，你的优势在哪里？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=1&sn=56bc631666226c1bc39564c5e184820e&chksm=80255b86b752d2905018c44497b43dff35ebf479fe2f57d3c7c5bb0d883600acad7d8b967ce0#rd) 
 - [【前端大全】2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd) 
 - [【前端大全】2019-08-17-正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556925&idx=1&sn=184b4f9e755bb47a96d7d81fe4d2a03f&chksm=80255bfcb752d2ea9847c60720ab5f7487c87c9dcb01a11e8bd93ee58cd01a9d11e48b7b93e1#rd) 
 - [【前端大全】2019-08-16-提升开发幸福感的10条JS技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556917&idx=1&sn=aa7df70bf8069cc12f31623d10823d58&chksm=80255bf4b752d2e2754b600f38750cbc09a3db02f081d73491497a1cd23a0708449872174241&scene=27#wechat_redirect) 

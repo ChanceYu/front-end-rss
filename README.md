@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-19 08:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-19 18:00:30，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd) ![](assets/new.png)  
-- [2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd) ![](assets/new.png)  
+- [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd)  
+- [2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)  
 - [2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd)  
 - [2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd)  
 - [2019-08-17-【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd) ![](assets/new.png)  
+- [2019-08-19-人人都会Vue，你的优势在哪里？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=1&sn=56bc631666226c1bc39564c5e184820e&chksm=80255b86b752d2905018c44497b43dff35ebf479fe2f57d3c7c5bb0d883600acad7d8b967ce0#rd) ![](assets/new.png)  
 - [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd)  
 - [2019-08-17-正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556925&idx=1&sn=184b4f9e755bb47a96d7d81fe4d2a03f&chksm=80255bfcb752d2ea9847c60720ab5f7487c87c9dcb01a11e8bd93ee58cd01a9d11e48b7b93e1#rd)  
 - [2019-08-16-提升开发幸福感的10条JS技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556917&idx=1&sn=aa7df70bf8069cc12f31623d10823d58&chksm=80255bf4b752d2e2754b600f38750cbc09a3db02f081d73491497a1cd23a0708449872174241&scene=27#wechat_redirect)  
@@ -80,8 +82,6 @@
 - [2019-08-07-50%-的-Chrome-扩展程序几乎无人使用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556880&idx=2&sn=74278e837d1a2d3c8c0e28900f07f75a&chksm=80255bd1b752d2c7084ba3af652ef162fc06fc39a7b7e9c2100c812fc4a6fa9055b11ca51a77&scene=27#wechat_redirect)  
 - [2019-08-06-彻底理解-cookie、session、token](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556872&idx=1&sn=c7e363160dc99a5142fa3895131a8b23&chksm=80255bc9b752d2df28963884359886d1cf05a86f49f5e13eb48fdc76af23aa8495e6c81b617b&scene=27#wechat_redirect)  
 - [2019-08-05-通过阅读源码，提高你的-JS-水平](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=2&sn=680dde6cb7c8c5ac56094aec3ba08f50&chksm=80255bc3b752d2d5c04036eb778b34599be1b218377632dc96fda3cc14aa82bbb6f9319841da#rd)  
-- [2019-08-05-想用Node.js，老板不同意？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=1&sn=b5af62483ad4a1f468c48ae24d97c9c4&chksm=80255bc3b752d2d5f0f3c9f3d17df3aebb21a50e714971d112c2d107b3c77c22833c4e6dda20#rd)  
-- [2019-08-04-CSS-是如何影响浏览器元素在文档中的排列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=1&sn=afe264d99b204728fb0716f5f278d71d&chksm=80255bc1b752d2d7db73198d20c0eec81182c9f7fbe80ca75f304150974464310b49f10ad29a&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【招聘】深圳京东凹凸实验室招高级前端开发工程师",
@@ -2907,10 +2907,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/65",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://www.ershicimi.com/a/65",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "一文搞定前端 Jenkins 自动化部署",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd",
+        "date": "2019-08-19"
+      },
+      {
+        "title": "人人都会Vue，你的优势在哪里？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=1&sn=56bc631666226c1bc39564c5e184820e&chksm=80255b86b752d2905018c44497b43dff35ebf479fe2f57d3c7c5bb0d883600acad7d8b967ce0#rd",
+        "date": "2019-08-19"
+      },
       {
         "title": "前端开发 20 年变迁史",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd",
