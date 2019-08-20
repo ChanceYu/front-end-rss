@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-20 08:00:29，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-20 22:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-20-【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd) ![](assets/new.png)  
-- [2019-08-20-【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd) ![](assets/new.png)  
+- [2019-08-20-【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd)  
+- [2019-08-20-【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd)  
 - [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd)  
 - [2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)  
 - [2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-20-滴滴开源AoE！帮你在终端快速集成AI框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd) ![](assets/new.png)  
+- [2019-08-20-再见，Flutter自带状态管理！你好，MobX库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=1&sn=ec1743b9fece285687a8857134929ce6&chksm=f9525732ce25de24a564b0b7a61b4794c6d18b5969306cfc300bb56b25465e69271dd6fd71a2#rd) ![](assets/new.png)  
 - [2019-08-19-What！前端也能玩硬件：在ESP32上运行JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=2&sn=3b11b7a38f6aa7802532e56e91a3e43c&chksm=f9525720ce25de366c9cbf190089b014f0eee496c005e0ceb24088c37304d0209eccc2c47cfe#rd)  
 - [2019-08-19-CSS-in-JS是恶魔还是天使？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=1&sn=3f07cbaa3b58e2ecb14a932b533fd086&chksm=f9525720ce25de3604831eb5dbae30a44265a7385ecb99bb732c36111a8bb59d0dd53a822f74#rd)  
 - [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-12-推荐8个优质的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=2&sn=707247d8aa001c4aee431bec6af0f2a7&chksm=f9525766ce25de7062609fc044bae7edd8a433f7f63185aca74ff30124e93276dd614f1d9533#rd)  
 - [2019-08-11-2019前端圈流行技能盘点-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=3&sn=c7a9d9864c21814ec5784211b81cc03b&chksm=f952575ace25de4cb021dbaad7e14bddb4e7c79bcb54ab9cf2c212dd4475c4566417899a88fb#rd)  
 - [2019-08-11-npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd)  
-- [2019-08-10-AI来袭，前端智能化的一次尝试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=2&sn=887ddee2f7606c59106207a1bc3868e8&chksm=f9525753ce25de459d65fe1a043288358600e2fc1bddc3cb17f7f9bfee4719cb4dcdbbf1d950#rd)  
-- [2019-08-10-百万年薪挖了个P8程序员，难道是“水货”？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492112&idx=1&sn=439f3051f2fc11a31edc938dada8e313&chksm=f9525753ce25de450b705c16beeed2cef7fc131f8917c5a06fe828676fbec76f84a7e30a38bc#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

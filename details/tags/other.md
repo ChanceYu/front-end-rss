@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-20 08:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-20 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -248,6 +248,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-08-20-滴滴开源AoE！帮你在终端快速集成AI框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd) 
 - [2019-08-17-代码编程一条街，前端后端谁为先](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492181&idx=1&sn=487749078ca500dedd29042a141e29ec&chksm=f9525716ce25de004a2597a5cc468e433b0819ef1e599a1e030dc9f99df5f629aa70cd742d05#rd) 
 - [2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd) 
 - [2019-08-13-大前端喊了三年，现在怎么样了？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=2&sn=e2e1f651639754073b3c994855fb3336&chksm=f952576cce25de7a577b55f0ea52245eecc4e369de739c3f497c1607de19b071a1b2c95842de#rd) 

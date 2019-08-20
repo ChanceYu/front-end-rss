@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【招聘】腾讯安全平台部前端招聘",
@@ -5384,10 +5384,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "滴滴开源AoE！帮你在终端快速集成AI框架",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd",
+        "date": "2019-08-20"
+      },
+      {
+        "title": "再见，Flutter自带状态管理！你好，MobX库",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=1&sn=ec1743b9fece285687a8857134929ce6&chksm=f9525732ce25de24a564b0b7a61b4794c6d18b5969306cfc300bb56b25465e69271dd6fd71a2#rd",
+        "date": "2019-08-20"
+      },
       {
         "title": "What！前端也能玩硬件：在ESP32上运行JavaScript",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=2&sn=3b11b7a38f6aa7802532e56e91a3e43c&chksm=f9525720ce25de366c9cbf190089b014f0eee496c005e0ceb24088c37304d0209eccc2c47cfe#rd",
