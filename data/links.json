@@ -5,6 +5,26 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1705期】JavaScript中按位操作符的有趣应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect",
+        "date": "2019-08-22"
+      },
+      {
+        "title": "【招聘】美团点评2020校园招聘前端岗位热招",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=2&sn=b724ff7cc8b69fc40aa57828746da9d8&chksm=bd49454f8a3ecc59d55e2bc871292d408e35744e4030edcb805561eb4fb2a649a44647e49a70&scene=27#wechat_redirect",
+        "date": "2019-08-22"
+      },
+      {
+        "title": "【PPT】the road to webpack 5",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect",
+        "date": "2019-08-21"
+      },
+      {
+        "title": "阿里 P7 前端技术专家，都需要掌握哪些技术栈？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=1&sn=2228f525902e2e535c30036186af4ea4&chksm=bd4945158a3ecc032f722cbc6c239e9b721e478370ae99d9dbbd32e25d6771f77c93698ed76c&scene=27#wechat_redirect",
+        "date": "2019-08-20"
+      },
+      {
         "title": "W3C Web 游戏技术研讨会",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=3&sn=0f0582994ef74a7ee2014109680a0f20&chksm=bd4945448a3ecc5288f06bc515f8f02fd7f868f1e270c48c091d806afda31364abbbe5a82796#rd",
         "date": "2019-08-21"
@@ -2927,10 +2947,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "你发现没？www和https://又被Chrome地址栏隐藏了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556952&idx=1&sn=e9d10de6cd3875a0da31d9114aa8838d&chksm=80255b99b752d28f10b99495f2a3beb2eb41c8913e6c8b71a6579abe88eee2fccd3c9673a879&scene=27#wechat_redirect",
+        "date": "2019-08-22"
+      },
       {
         "title": "详解 React 16 的 Diff 策略",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556945&idx=1&sn=51552b34cc9ed8ea18b6751db4fb1e30&chksm=80255b90b752d286e2f4eec39fb787ef4790eb9c541f02e2c0abeaa9965fe76c2ef966a244eb#rd",
@@ -5404,9 +5429,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "号外！Chameleon支持字节跳动小程序啦~",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-22 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-22 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect) 
 - [2019-08-16-【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd) 
 - [2019-08-10-【第1695期】-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233280&idx=1&sn=291b03b2330069472e0e0626cef08512&chksm=bd4945848a3ecc924c88ca2676d9483baba50a2b38529b805d9746b34d3ec1f0c7676b66edc4#rd) 
 - [2019-08-08-【英】JavaScript:-ES2019的新内容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=3&sn=cd10970773113b95c9f0144a83c3603b&chksm=bd4942638a3ecb755702dc4548662990ef08aac668f30af89a84f18cd4ff37f0aab9989667dd#rd) 

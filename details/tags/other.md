@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-08-22 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-22 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-08-20-阿里-P7-前端技术专家，都需要掌握哪些技术栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=1&sn=2228f525902e2e535c30036186af4ea4&chksm=bd4945158a3ecc032f722cbc6c239e9b721e478370ae99d9dbbd32e25d6771f77c93698ed76c&scene=27#wechat_redirect) 
 - [2019-08-20-【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd) 
 - [2019-08-16-【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd) 
 - [2019-08-15-【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd) 

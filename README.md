@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-22 06:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-22 22:00:29，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,10 @@
 </summary>
 
 
+- [2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-22-【招聘】美团点评2020校园招聘前端岗位热招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=2&sn=b724ff7cc8b69fc40aa57828746da9d8&chksm=bd49454f8a3ecc59d55e2bc871292d408e35744e4030edcb805561eb4fb2a649a44647e49a70&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-20-阿里-P7-前端技术专家，都需要掌握哪些技术栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=1&sn=2228f525902e2e535c30036186af4ea4&chksm=bd4945158a3ecc032f722cbc6c239e9b721e478370ae99d9dbbd32e25d6771f77c93698ed76c&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-21-W3C-Web-游戏技术研讨会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=3&sn=0f0582994ef74a7ee2014109680a0f20&chksm=bd4945448a3ecc5288f06bc515f8f02fd7f868f1e270c48c091d806afda31364abbbe5a82796#rd)  
 - [2019-08-21-【招聘】阿里飞冰团队招人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=2&sn=450c633931f0162c93c7687a9d003fc9&chksm=bd4945448a3ecc52e04bceeb86e75c91a39a2924093f08b7d5d38e95aa486a4a1d8c80513f1a#rd)  
 - [2019-08-20-【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd)  
@@ -47,10 +51,6 @@
 - [2019-08-15-【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd)  
 - [2019-08-14-【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd)  
 - [2019-08-14-【第1699期】正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=1&sn=b2f3ab11473b2ff849d03b9a237b0394&chksm=bd4945b68a3ecca0d2bfea9103969b83818d89fe7ddc7900b89232864472a0714a14d9c77332#rd)  
-- [2019-08-13-重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd)  
-- [2019-08-13-【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd)  
-- [2019-08-12-【第1697期】TypeScript-次日指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=2&sn=c1faf9e0c636286d05c822c652eb3966&chksm=bd4945938a3ecc856ace3884a6b47708e33b55e4a2496637df35999ed9213e080d587bffbd8b#rd)  
-- [2019-08-12-你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,7 +62,8 @@
 </summary>
 
 
-- [2019-08-21-详解-React-16-的-Diff-策略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556945&idx=1&sn=51552b34cc9ed8ea18b6751db4fb1e30&chksm=80255b90b752d286e2f4eec39fb787ef4790eb9c541f02e2c0abeaa9965fe76c2ef966a244eb#rd) ![](assets/new.png)  
+- [2019-08-22-你发现没？www和https://又被Chrome地址栏隐藏了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556952&idx=1&sn=e9d10de6cd3875a0da31d9114aa8838d&chksm=80255b99b752d28f10b99495f2a3beb2eb41c8913e6c8b71a6579abe88eee2fccd3c9673a879&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-21-详解-React-16-的-Diff-策略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556945&idx=1&sn=51552b34cc9ed8ea18b6751db4fb1e30&chksm=80255b90b752d286e2f4eec39fb787ef4790eb9c541f02e2c0abeaa9965fe76c2ef966a244eb#rd)  
 - [2019-08-20-Deep-In-React之浅谈-React-Fiber-架构一](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556940&idx=1&sn=d40506db3d4d78da9a94ae6c7dc61af6&chksm=80255b8db752d29bbb8edc79eb40ce4122f3fddca121a53a5c3f859259cf4b1d7402ff676a84#rd)  
 - [2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd)  
 - [2019-08-19-人人都会Vue，你的优势在哪里？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=1&sn=56bc631666226c1bc39564c5e184820e&chksm=80255b86b752d2905018c44497b43dff35ebf479fe2f57d3c7c5bb0d883600acad7d8b967ce0#rd)  
@@ -81,7 +82,6 @@
 - [2019-08-09-2019-年-Vue-高手特训营](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556886&idx=1&sn=49adfae6c20c7437b0b115aaea371266&chksm=80255bd7b752d2c12e70dab6b90d9f6e6275bb8d621bc4c74fd6fa7ec29af44f026bb732c575#rd)  
 - [2019-08-08-手摸手教你撸一个脚手架](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556885&idx=1&sn=7c2bba19989f9794537ac94a79c33e5d&chksm=80255bd4b752d2c2faa668ecb010287f0631cda555bcaa12bbefcef566003eb465e6f87bd60a&scene=27#wechat_redirect)  
 - [2019-08-07-七夕，微信上找你的竟然是-ta-？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556880&idx=1&sn=5754f75db5ce9ac397e551d89d2ca1c5&chksm=80255bd1b752d2c726fcf4fb1fd0893af11e698d6bedcf8b607fd23ab657cc8772c8c1cb2d05&scene=27#wechat_redirect)  
-- [2019-08-07-50%-的-Chrome-扩展程序几乎无人使用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556880&idx=2&sn=74278e837d1a2d3c8c0e28900f07f75a&chksm=80255bd1b752d2c7084ba3af652ef162fc06fc39a7b7e9c2100c812fc4a6fa9055b11ca51a77&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-21-号外！Chameleon支持字节跳动小程序啦~](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=2&sn=496fb08d97c3566875141971b6a55ef7&chksm=f9525738ce25de2e1202112f045e379ce8ae665f17d13c69c4a07a2bf7038748eacc34a98efe#rd) ![](assets/new.png)  
-- [2019-08-21-不要再滥用useMemo了！你应该重新思考Hooks-memoization](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=1&sn=6385bb5b299c2c2e9a6aa042fde7b44f&chksm=f9525738ce25de2ed626af69cd2fef89852c0c42429a03dae3c4f2cdaffb39843439b079dee1#rd) ![](assets/new.png)  
+- [2019-08-21-号外！Chameleon支持字节跳动小程序啦~](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=2&sn=496fb08d97c3566875141971b6a55ef7&chksm=f9525738ce25de2e1202112f045e379ce8ae665f17d13c69c4a07a2bf7038748eacc34a98efe#rd)  
+- [2019-08-21-不要再滥用useMemo了！你应该重新思考Hooks-memoization](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=1&sn=6385bb5b299c2c2e9a6aa042fde7b44f&chksm=f9525738ce25de2ed626af69cd2fef89852c0c42429a03dae3c4f2cdaffb39843439b079dee1#rd)  
 - [2019-08-20-滴滴开源AoE！帮你在终端快速集成AI框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd)  
 - [2019-08-20-再见，Flutter自带状态管理！你好，MobX库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=1&sn=ec1743b9fece285687a8857134929ce6&chksm=f9525732ce25de24a564b0b7a61b4794c6d18b5969306cfc300bb56b25465e69271dd6fd71a2#rd)  
 - [2019-08-19-What！前端也能玩硬件：在ESP32上运行JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=2&sn=3b11b7a38f6aa7802532e56e91a3e43c&chksm=f9525720ce25de366c9cbf190089b014f0eee496c005e0ceb24088c37304d0209eccc2c47cfe#rd)  

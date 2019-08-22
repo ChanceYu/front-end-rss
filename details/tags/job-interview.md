@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-22 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-22 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-08-22-【招聘】美团点评2020校园招聘前端岗位热招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=2&sn=b724ff7cc8b69fc40aa57828746da9d8&chksm=bd49454f8a3ecc59d55e2bc871292d408e35744e4030edcb805561eb4fb2a649a44647e49a70&scene=27#wechat_redirect) 
 - [2019-08-21-【招聘】阿里飞冰团队招人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=2&sn=450c633931f0162c93c7687a9d003fc9&chksm=bd4945448a3ecc52e04bceeb86e75c91a39a2924093f08b7d5d38e95aa486a4a1d8c80513f1a#rd) 
 - [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd) 
 - [2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd) 
