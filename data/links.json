@@ -5439,10 +5439,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "宁愿写两遍代码，也不用C++跨iOS、Android平台开发？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=1&sn=b35df0943c8ed102c27cc91ec24fec3c&chksm=f95257cfce25ded92a6ea5a0fa824879de46e5efb8c237f2e46f66f34a995834e1ea7a12cb64&scene=27#wechat_redirect",
+        "date": "2019-08-22"
+      },
       {
         "title": "360度全方位观测：React Native与Flutter的跨平台王位之争",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492242&idx=1&sn=21108672ba60767688e67b9f0047348c&chksm=f95257d1ce25dec7b3ad239b0f8fc13e3e6067e27cea56fe99136af9ebc857f8ac2e83b2efb1#rd",
