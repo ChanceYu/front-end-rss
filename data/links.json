@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1706期】不只是同构应用（isomorphic 工程化你所忽略的细节）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect",
+        "date": "2019-08-23"
+      },
+      {
+        "title": "【英】新版 React DevTools 简介",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect",
+        "date": "2019-08-23"
+      },
+      {
         "title": "【第1705期】JavaScript中按位操作符的有趣应用",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect",
         "date": "2019-08-22"
@@ -5429,9 +5439,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "从0到1，深度解读小游戏开发技术奥秘",

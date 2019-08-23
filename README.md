@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-23 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-23 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-23-【第1706期】不只是同构应用（isomorphic-工程化你所忽略的细节）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-23-【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect)  
 - [2019-08-22-【招聘】美团点评2020校园招聘前端岗位热招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=2&sn=b724ff7cc8b69fc40aa57828746da9d8&chksm=bd49454f8a3ecc59d55e2bc871292d408e35744e4030edcb805561eb4fb2a649a44647e49a70&scene=27#wechat_redirect)  
 - [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect)  
@@ -49,8 +51,6 @@
 - [2019-08-16-【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd)  
 - [2019-08-15-【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd)  
 - [2019-08-15-【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd)  
-- [2019-08-14-【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd)  
-- [2019-08-14-【第1699期】正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=1&sn=b2f3ab11473b2ff849d03b9a237b0394&chksm=bd4945b68a3ecca0d2bfea9103969b83818d89fe7ddc7900b89232864472a0714a14d9c77332#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-22-从0到1，深度解读小游戏开发技术奥秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=3&sn=b0b031ffa8f6740eab0d08cb098b0400&chksm=f95257cfce25ded92623afa8f1779931c723e3d306b8f690dcc86c923b077b2dc8633514bf92#rd) ![](assets/new.png)  
-- [2019-08-22-5G时代，前端将从技术人的字典里“消失”？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=2&sn=e965c83df369a12ebd44402fa8fbc53f&chksm=f95257cfce25ded97ef5bf28f7778808d8b39f9ba8d6a642b4ea1ca8536693827779139919b9#rd) ![](assets/new.png)  
+- [2019-08-22-从0到1，深度解读小游戏开发技术奥秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=3&sn=b0b031ffa8f6740eab0d08cb098b0400&chksm=f95257cfce25ded92623afa8f1779931c723e3d306b8f690dcc86c923b077b2dc8633514bf92#rd)  
+- [2019-08-22-5G时代，前端将从技术人的字典里“消失”？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=2&sn=e965c83df369a12ebd44402fa8fbc53f&chksm=f95257cfce25ded97ef5bf28f7778808d8b39f9ba8d6a642b4ea1ca8536693827779139919b9#rd)  
 - [2019-08-21-号外！Chameleon支持字节跳动小程序啦~](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=2&sn=496fb08d97c3566875141971b6a55ef7&chksm=f9525738ce25de2e1202112f045e379ce8ae665f17d13c69c4a07a2bf7038748eacc34a98efe#rd)  
 - [2019-08-21-不要再滥用useMemo了！你应该重新思考Hooks-memoization](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=1&sn=6385bb5b299c2c2e9a6aa042fde7b44f&chksm=f9525738ce25de2ed626af69cd2fef89852c0c42429a03dae3c4f2cdaffb39843439b079dee1#rd)  
 - [2019-08-20-滴滴开源AoE！帮你在终端快速集成AI框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd)  
