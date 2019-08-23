@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-23 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-23 12:00:33，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-23-【第1706期】不只是同构应用（isomorphic-工程化你所忽略的细节）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-23-【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-23-【第1706期】不只是同构应用（isomorphic-工程化你所忽略的细节）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect)  
+- [2019-08-23-【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect)  
 - [2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect)  
 - [2019-08-22-【招聘】美团点评2020校园招聘前端岗位热招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=2&sn=b724ff7cc8b69fc40aa57828746da9d8&chksm=bd49454f8a3ecc59d55e2bc871292d408e35744e4030edcb805561eb4fb2a649a44647e49a70&scene=27#wechat_redirect)  
 - [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-08-23-科技爱好者周刊：第-70-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html) ![](assets/new.png)  
 - [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)  
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  
 - [2019-08-08-xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)  
@@ -205,7 +206,6 @@
 - [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)  
 - [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
 - [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
-- [2019-06-07-每周分享第-59-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-59.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
