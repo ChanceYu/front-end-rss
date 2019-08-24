@@ -5449,10 +5449,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "涨姿势！原来JavaScript运算符还可以这么玩",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect",
+        "date": "2019-08-24"
+      },
       {
         "title": "数据中台的下一步",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=3&sn=0598c75f38bdbe76d80527dbb82898b6&chksm=f95257d8ce25deceee774ca52af7d85a6cfe40c8275df6885d3e64483176298e8f797792bd8c#rd",
