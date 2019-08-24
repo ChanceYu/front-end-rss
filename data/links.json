@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【英】如何学习任何前端框架",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=3&sn=ec6fe345394b142a7182d6cdf1600ee2&chksm=bd4945668a3ecc700381bc3850dd3c1d633245dfedb05d6b66dfb1675d8aafd890654f2fe84b#rd",
+        "date": "2019-08-24"
+      },
+      {
+        "title": "【招聘】深圳KLOOK客路旅行招中高级前端",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=2&sn=64cb2e6f4cc73b0451d18778b7f3fc51&chksm=bd4945668a3ecc70e2303cea1a7ff3d8edfe1092e96caf129ab778a5baec917e8e2448499e4c#rd",
+        "date": "2019-08-24"
+      },
       {
         "title": "【第1706期】不只是同构应用（isomorphic 工程化你所忽略的细节）",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect",

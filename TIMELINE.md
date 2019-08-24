@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-24 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-24 08:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-08-24-【英】如何学习任何前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=3&sn=ec6fe345394b142a7182d6cdf1600ee2&chksm=bd4945668a3ecc700381bc3850dd3c1d633245dfedb05d6b66dfb1675d8aafd890654f2fe84b#rd) 
+- [【前端早读课】2019-08-24-【招聘】深圳KLOOK客路旅行招中高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=2&sn=64cb2e6f4cc73b0451d18778b7f3fc51&chksm=bd4945668a3ecc70e2303cea1a7ff3d8edfe1092e96caf129ab778a5baec917e8e2448499e4c#rd) 
 - [【前端早读课】2019-08-23-【第1706期】不只是同构应用（isomorphic-工程化你所忽略的细节）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect) 
 - [【前端早读课】2019-08-23-【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect) 
 - [【前端早读课】2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect) 
