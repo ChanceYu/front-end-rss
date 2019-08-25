@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-26 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -238,6 +238,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](http://taobaofed.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](http://taobaofed.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/) 
+- [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/) 
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/) 
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/) 
 - [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/) 
