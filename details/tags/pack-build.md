@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-25 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -39,6 +39,7 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd) 
 - [2019-08-11-npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd) 
 - [2019-08-09-挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect) 
 - [2019-08-02-Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd) 

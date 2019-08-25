@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-25 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -251,6 +251,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd) 
 - [2019-08-24-数据中台的下一步](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=3&sn=0598c75f38bdbe76d80527dbb82898b6&chksm=f95257d8ce25deceee774ca52af7d85a6cfe40c8275df6885d3e64483176298e8f797792bd8c#rd) 
 - [2019-08-22-宁愿写两遍代码，也不用C++跨iOS、Android平台开发？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=1&sn=b35df0943c8ed102c27cc91ec24fec3c&chksm=f95257cfce25ded92a6ea5a0fa824879de46e5efb8c237f2e46f66f34a995834e1ea7a12cb64&scene=27#wechat_redirect) 
 - [2019-08-22-5G时代，前端将从技术人的字典里“消失”？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=2&sn=e965c83df369a12ebd44402fa8fbc53f&chksm=f95257cfce25ded97ef5bf28f7778808d8b39f9ba8d6a642b4ea1ca8536693827779139919b9#rd) 

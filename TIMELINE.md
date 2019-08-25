@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-25 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,8 @@
 - [【前端大全】2019-08-03-生猛！FFmpeg-开发者徒手撸了一个-JS-引擎：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556856&idx=1&sn=a77ac3e36671fab08d08b9ecf11a644e&chksm=80255c39b752d52fc90c3bc6250f9aaddab99cb8c22cac8370df883b42128d66ebb7247f5bd1&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-02-详解-ES-2018-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556854&idx=1&sn=4d1fc907d4844e39262c8ea559fe5a1d&chksm=80255c37b752d521ae03100d27b67d7912ffe0b5f1997f4c52a15e69bec164131cac15ea2247&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-01-深入理解-ESLint](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556840&idx=1&sn=37d4554cd243d4f30f53ac06f2dfe109&chksm=80255c29b752d53f34e58c1676eb4ab169605be2b1f9d58fa5855938bdc0dca68eadbe9ca5a5#rd) 
+- [【前端之巅】2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd) 
+- [【前端之巅】2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd) 
 - [【前端之巅】2019-08-24-涨姿势！原来JavaScript运算符还可以这么玩](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect) 
 - [【前端之巅】2019-08-24-数据中台的下一步](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=3&sn=0598c75f38bdbe76d80527dbb82898b6&chksm=f95257d8ce25deceee774ca52af7d85a6cfe40c8275df6885d3e64483176298e8f797792bd8c#rd) 
 - [【前端之巅】2019-08-24-10+-JavaScript数据可视化库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=2&sn=b43406c2acd834162230652fc01f0911&chksm=f95257d8ce25decea2c2dcb809feaa61666611857088d39c88ef1814ae843ac97bdfa8788ffd#rd) 

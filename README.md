@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-25 12:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-25 18:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-24-【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect)  
+- [2019-08-24-【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect)  
 - [2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd)  
 - [2019-08-25-【招聘】上海LeetCode前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=2&sn=749dac90791ff2d9a6b488701cf16e56&chksm=bd4944968a3ecd80e55a87c3df00faba0e49ffeba769e203a1e2f5706a7097ce7dfd83eb6452#rd)  
 - [2019-08-24-【英】如何学习任何前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=3&sn=ec6fe345394b142a7182d6cdf1600ee2&chksm=bd4945668a3ecc700381bc3850dd3c1d633245dfedb05d6b66dfb1675d8aafd890654f2fe84b#rd)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd) ![](assets/new.png)  
+- [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd) ![](assets/new.png)  
 - [2019-08-24-涨姿势！原来JavaScript运算符还可以这么玩](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect)  
 - [2019-08-24-数据中台的下一步](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=3&sn=0598c75f38bdbe76d80527dbb82898b6&chksm=f95257d8ce25deceee774ca52af7d85a6cfe40c8275df6885d3e64483176298e8f797792bd8c#rd)  
 - [2019-08-24-10+-JavaScript数据可视化库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=2&sn=b43406c2acd834162230652fc01f0911&chksm=f95257d8ce25decea2c2dcb809feaa61666611857088d39c88ef1814ae843ac97bdfa8788ffd#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd)  
 - [2019-08-16-深度解析GraphQL：澄清你对GraphQL的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=1&sn=43004262fd2bd2610bd218fd7302555a&chksm=f9525704ce25de125e9d2b8f83d2fd8aabe73d45415c44231e0913d7a6d751e59ff5e42c597d#rd)  
 - [2019-08-15-小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=2&sn=c7cabe02b33e19252ea7c6a370466538&chksm=f9525702ce25de14033a09bb477ab3ed2ecfc7bc38abee76bff2ab4d0c7fa02df6954b24491c#rd)  
-- [2019-08-15-为什么Flutter还不是最成熟的跨端框架？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=1&sn=fe2410edb425de2136e22d5d80a5a621&chksm=f9525702ce25de14238d76b6d6ce34111aaa8973dbf5f43b8c7f511f060d86fd9a0e327c08f8#rd)  
-- [2019-08-14-JS代码脏乱差？你需要知道这些优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492152&idx=1&sn=8573cc1281cd42368972851b3825c263&chksm=f952577bce25de6d2d1089441d707c1de180210529beeecfc9804359df6bf6c5fbd42d830915&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

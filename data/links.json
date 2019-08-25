@@ -5474,10 +5474,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "推荐几个不错的技术公众号",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd",
+        "date": "2019-08-25"
+      },
+      {
+        "title": "前端周报：微软发布基于Chromium的Microsoft Edge预览版；Nuxt发布v2.9.0；npm 发布v6.11.0",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd",
+        "date": "2019-08-25"
+      },
       {
         "title": "涨姿势！原来JavaScript运算符还可以这么玩",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect",
