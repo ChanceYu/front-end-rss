@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-25 08:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd) 
 - [2019-06-25-【第1649期】-微信小程序渲染性能调优](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232791&idx=1&sn=4b83b66d376b1331a992d242cb2a0f17#rd) 
 - [2019-06-23-【PPT】美团@吴熙辰：榛果⼩小程序性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=1&sn=685db485a45180a5eef90e0b4a553f21#rd) 
 - [2019-05-23-【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd) 
