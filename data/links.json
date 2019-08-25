@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
+      {
+        "title": "【PPT】基于WebAssembly的浏览器端视音频处理",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect",
+        "date": "2019-08-25"
+      },
+      {
+        "title": "【第1707期】谈谈 Git Merge 和 Git Rebase 的应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect",
+        "date": "2019-08-24"
+      },
       {
         "title": "【图书】微信小程序商城开发：界面设计实战",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd",

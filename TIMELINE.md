@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 08:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-25 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect) 
+- [【前端早读课】2019-08-24-【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd) 
 - [【前端早读课】2019-08-25-【招聘】上海LeetCode前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=2&sn=749dac90791ff2d9a6b488701cf16e56&chksm=bd4944968a3ecd80e55a87c3df00faba0e49ffeba769e203a1e2f5706a7097ce7dfd83eb6452#rd) 
 - [【前端早读课】2019-08-24-【英】如何学习任何前端框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=3&sn=ec6fe345394b142a7182d6cdf1600ee2&chksm=bd4945668a3ecc700381bc3850dd3c1d633245dfedb05d6b66dfb1675d8aafd890654f2fe84b#rd) 

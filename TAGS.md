@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-25 08:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-25 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -430,6 +430,7 @@
 
 
 
+- [【前端早读课】【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd)
 - [【前端早读课】【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect)
@@ -449,7 +450,6 @@
 - [【前端之巅】你不知道的WebRTC-弱网模拟测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】Web端H.265播放器研发解密](http://taobaofed.org/blog/2019/03/18/web-player-h265/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/)
-- [【张鑫旭-鑫空间-鑫生活】如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -610,6 +610,7 @@
 
 
 
+- [【前端早读课】【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect)
 - [【前端早读课】【第1623期】30分钟让你掌握Git的黑魔法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd)
 - [【前端早读课】【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect)
 - [【前端早读课】【英】Github-宣布-GitHub-Free-以及-GitHub-Enterprise](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=3&sn=8b9b78ecad6457e9a4522b040532c14b#wechat_redirect)

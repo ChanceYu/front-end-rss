@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-25 08:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-25 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-08-24-【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect) 
 - [2019-05-28-【第1623期】30分钟让你掌握Git的黑魔法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd) 
 - [2019-01-30-【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect) 
 - [2019-01-09-【英】Github-宣布-GitHub-Free-以及-GitHub-Enterprise](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=3&sn=8b9b78ecad6457e9a4522b040532c14b#wechat_redirect) 
