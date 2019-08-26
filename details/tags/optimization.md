@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-26 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-27 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -29,6 +29,7 @@
 - [2018-10-25-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect) 
 - [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect) 
 - [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect) 
+- [2019-08-26-一文带你解锁Web应用中的图片优化技巧！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=1&sn=ae4b9b7f108ecb3c12931ce965c78c11&chksm=f95257eece25def833e3981ca7aacebb3578aa82d27187055fee6c4a8ace542d5e93f80f8977#rd) 
 - [2019-07-31-百度App弱网优化实践：为性能而发烧，网络请求平均耗时降低超20%！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491985&idx=2&sn=0822c453c91241ca8750dbf643c1287a&chksm=f95254d2ce25ddc4a166829f6ff3613ebec642886f55890feb323e9a58a4ba2a9868e21c30aa#rd) 
 - [2019-06-29-0.3s完成渲染！UC信息流正文“闪开”优化实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491635&idx=1&sn=b7c6b17e9fdcd9477cd918517ba2ccc4#rd) 
 - [2019-06-12-如何将Web主页性能提升十倍以上？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491465&idx=1&sn=8cc4871539f897c10f6bc35d4d3b5871#rd) 

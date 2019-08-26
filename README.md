@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-26 18:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-27 06:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd) ![](assets/new.png)  
+- [2019-08-26-扫盲！透析-JS-12-大核心技能，告诉你如何学才能价值翻倍！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=1&sn=8172a4cee811dce83a46de33741652e2&chksm=80255ba9b752d2bf4b69a48a9c6c5fca9bc55740d8869f55d51168536f6e83b4ac545fccc87f#rd) ![](assets/new.png)  
 - [2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd)  
 - [2019-08-25-前端应该如何准备数据结构和算法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=1&sn=c13116dc834168dbaaa29a76256239df&chksm=80255ba7b752d2b147ef1794ac6df289c72d47037228b204f60867c53afda611cfac7f8bdaf4#rd)  
 - [2019-08-24-送你58道JavaScript面试题（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556961&idx=1&sn=1bf221f40596599906ef8e94dce9fe17&chksm=80255ba0b752d2b6f474022d1ce3be044bc09afcd44c4150ec79b934baa8474d0980815ceb20&scene=27#wechat_redirect)  
@@ -80,8 +82,6 @@
 - [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd)  
 - [2019-08-11-在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556893&idx=1&sn=885569e8d2dfaf24165edec33e71f90e&chksm=80255bdcb752d2ca268703e862e170609ff07a441c1277ccd6afa486e8a7c18d1bed948bb230&scene=27#wechat_redirect)  
 - [2019-08-10-前端路由跳转基本原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=1&sn=5b1da2f8bc5b222d494360795c1277c8&chksm=80255bddb752d2cbc4c113d1b1281d7a6fc571f690137ebc77cc4d83aaa4a10a3cbeffef0f0d&scene=27#wechat_redirect)  
-- [2019-08-10-面向对象：相信爱情还是美好的，希望能找到一个合适的人，一生所爱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=2&sn=a4415e2d17825c9027b4fc4398c226d1&chksm=80255bddb752d2cb29437e3c13672a5ea46c959f5828fc56c66947de50d960b69146f539c189&scene=27#wechat_redirect)  
-- [2019-08-09-Web-实现前后端分离，前后端解耦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556886&idx=2&sn=be0fe006d485c235cdd1ecc9cdec75f8&chksm=80255bd7b752d2c1bf119cc5178c60e690b156ca1c8ebc9f7ce979970e98f63d90b6fcf529a1#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd) ![](assets/new.png)  
+- [2019-08-26-一文带你解锁Web应用中的图片优化技巧！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=1&sn=ae4b9b7f108ecb3c12931ce965c78c11&chksm=f95257eece25def833e3981ca7aacebb3578aa82d27187055fee6c4a8ace542d5e93f80f8977#rd) ![](assets/new.png)  
 - [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd)  
 - [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd)  
 - [2019-08-24-涨姿势！原来JavaScript运算符还可以这么玩](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect)  
@@ -111,8 +113,6 @@
 - [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd)  
 - [2019-08-17-代码编程一条街，前端后端谁为先](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492181&idx=1&sn=487749078ca500dedd29042a141e29ec&chksm=f9525716ce25de004a2597a5cc468e433b0819ef1e599a1e030dc9f99df5f629aa70cd742d05#rd)  
 - [2019-08-16-uni-app-2.2版本发布：体积压缩-43%，脚本运行时间缩短32%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=2&sn=78ce697266ee5103dc0277afdc25bf00&chksm=f9525704ce25de12993047e505a603d23f68e816d1039abf1a79c1b7c31dbc68b4e62f2fc526#rd)  
-- [2019-08-16-深度解析GraphQL：澄清你对GraphQL的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492167&idx=1&sn=43004262fd2bd2610bd218fd7302555a&chksm=f9525704ce25de125e9d2b8f83d2fd8aabe73d45415c44231e0913d7a6d751e59ff5e42c597d#rd)  
-- [2019-08-15-小程序云开发即将发布实时数据推送服务，再也不用自己搭建WebSocket了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492161&idx=2&sn=c7cabe02b33e19252ea7c6a370466538&chksm=f9525702ce25de14033a09bb477ab3ed2ecfc7bc38abee76bff2ab4d0c7fa02df6954b24491c#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-08-26-任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html) ![](assets/new.png)  
+- [2019-08-26-任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)  
 - [2019-08-23-科技爱好者周刊：第-70-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)  
 - [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)  
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  

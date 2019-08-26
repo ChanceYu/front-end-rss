@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-26 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-27 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -156,6 +156,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd) 
 - [2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd) 
 - [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd) 
 - [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd) 
@@ -252,6 +253,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd) 
 - [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd) 
 - [2019-08-24-数据中台的下一步](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=3&sn=0598c75f38bdbe76d80527dbb82898b6&chksm=f95257d8ce25deceee774ca52af7d85a6cfe40c8275df6885d3e64483176298e8f797792bd8c#rd) 
 - [2019-08-22-宁愿写两遍代码，也不用C++跨iOS、Android平台开发？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=1&sn=b35df0943c8ed102c27cc91ec24fec3c&chksm=f95257cfce25ded92a6ea5a0fa824879de46e5efb8c237f2e46f66f34a995834e1ea7a12cb64&scene=27#wechat_redirect) 
