@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1708期】大规模应用 TypeScript",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect",
+        "date": "2019-08-26"
+      },
+      {
+        "title": "【活动】第 5 届 FEDAY 来啦！9月21日，成都见！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect",
+        "date": "2019-08-26"
+      },
+      {
         "title": "【PPT】基于WebAssembly的浏览器端视音频处理",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect",
         "date": "2019-08-25"
@@ -2987,9 +2997,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "面向对象：最浪漫的事，就是和对的人一起相伴到老",

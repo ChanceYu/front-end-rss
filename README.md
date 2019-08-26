@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-26 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-26 08:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-26-【活动】第-5-届-FEDAY-来啦！9月21日，成都见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect)  
 - [2019-08-24-【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect)  
 - [2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd)  
@@ -49,8 +51,6 @@
 - [2019-08-20-【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd)  
 - [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd)  
 - [2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)  
-- [2019-08-18-【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd)  
-- [2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd) ![](assets/new.png)  
-- [2019-08-25-前端应该如何准备数据结构和算法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=1&sn=c13116dc834168dbaaa29a76256239df&chksm=80255ba7b752d2b147ef1794ac6df289c72d47037228b204f60867c53afda611cfac7f8bdaf4#rd) ![](assets/new.png)  
+- [2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd)  
+- [2019-08-25-前端应该如何准备数据结构和算法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=1&sn=c13116dc834168dbaaa29a76256239df&chksm=80255ba7b752d2b147ef1794ac6df289c72d47037228b204f60867c53afda611cfac7f8bdaf4#rd)  
 - [2019-08-24-送你58道JavaScript面试题（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556961&idx=1&sn=1bf221f40596599906ef8e94dce9fe17&chksm=80255ba0b752d2b6f474022d1ce3be044bc09afcd44c4150ec79b934baa8474d0980815ceb20&scene=27#wechat_redirect)  
 - [2019-08-22-你发现没？www和https://又被Chrome地址栏隐藏了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556952&idx=1&sn=e9d10de6cd3875a0da31d9114aa8838d&chksm=80255b99b752d28f10b99495f2a3beb2eb41c8913e6c8b71a6579abe88eee2fccd3c9673a879&scene=27#wechat_redirect)  
 - [2019-08-21-详解-React-16-的-Diff-策略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556945&idx=1&sn=51552b34cc9ed8ea18b6751db4fb1e30&chksm=80255b90b752d286e2f4eec39fb787ef4790eb9c541f02e2c0abeaa9965fe76c2ef966a244eb#rd)  
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/) ![](assets/new.png)  
+- [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/)  
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
 - [2019-08-17-是时候了，无外链的CSS开发策略](https://www.zhangxinxu.com/wordpress/2019/08/css-no-external-link/)  
