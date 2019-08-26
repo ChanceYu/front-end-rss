@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-26 08:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-26 18:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-26-【活动】第-5-届-FEDAY-来啦！9月21日，成都见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect)  
+- [2019-08-26-【活动】第-5-届-FEDAY-来啦！9月21日，成都见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect)  
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect)  
 - [2019-08-24-【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect)  
 - [2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-08-26-任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html) ![](assets/new.png)  
 - [2019-08-23-科技爱好者周刊：第-70-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)  
 - [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)  
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  
@@ -205,7 +206,6 @@
 - [2019-06-25-为什么开源数据库改变许可证？](http://www.ruanyifeng.com/blog/2019/06/open-database-relicensing.html)  
 - [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)  
 - [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
-- [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

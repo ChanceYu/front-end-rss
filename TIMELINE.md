@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-26 08:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-26 18:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -256,6 +256,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-08-13-常见纯CSS图标的代码分离与整理（持续更新）](https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/) 
+- [【阮一峰的网络日志】2019-08-26-任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html) 
 - [【阮一峰的网络日志】2019-08-23-科技爱好者周刊：第-70-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html) 
 - [【阮一峰的网络日志】2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html) 
 - [【阮一峰的网络日志】2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html) 
