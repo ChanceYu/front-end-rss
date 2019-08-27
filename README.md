@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-27 06:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-27 12:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd) ![](assets/new.png)  
+- [2019-08-27-【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd) ![](assets/new.png)  
 - [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect)  
 - [2019-08-26-【活动】第-5-届-FEDAY-来啦！9月21日，成都见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect)  
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect)  
@@ -49,8 +51,6 @@
 - [2019-08-21-【招聘】阿里飞冰团队招人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=2&sn=450c633931f0162c93c7687a9d003fc9&chksm=bd4945448a3ecc52e04bceeb86e75c91a39a2924093f08b7d5d38e95aa486a4a1d8c80513f1a#rd)  
 - [2019-08-20-【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd)  
 - [2019-08-20-【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd)  
-- [2019-08-19-【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd)  
-- [2019-08-19-【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd) ![](assets/new.png)  
-- [2019-08-26-扫盲！透析-JS-12-大核心技能，告诉你如何学才能价值翻倍！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=1&sn=8172a4cee811dce83a46de33741652e2&chksm=80255ba9b752d2bf4b69a48a9c6c5fca9bc55740d8869f55d51168536f6e83b4ac545fccc87f#rd) ![](assets/new.png)  
+- [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd)  
+- [2019-08-26-扫盲！透析-JS-12-大核心技能，告诉你如何学才能价值翻倍！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=1&sn=8172a4cee811dce83a46de33741652e2&chksm=80255ba9b752d2bf4b69a48a9c6c5fca9bc55740d8869f55d51168536f6e83b4ac545fccc87f#rd)  
 - [2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd)  
 - [2019-08-25-前端应该如何准备数据结构和算法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=1&sn=c13116dc834168dbaaa29a76256239df&chksm=80255ba7b752d2b147ef1794ac6df289c72d47037228b204f60867c53afda611cfac7f8bdaf4#rd)  
 - [2019-08-24-送你58道JavaScript面试题（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556961&idx=1&sn=1bf221f40596599906ef8e94dce9fe17&chksm=80255ba0b752d2b6f474022d1ce3be044bc09afcd44c4150ec79b934baa8474d0980815ceb20&scene=27#wechat_redirect)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd) ![](assets/new.png)  
-- [2019-08-26-一文带你解锁Web应用中的图片优化技巧！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=1&sn=ae4b9b7f108ecb3c12931ce965c78c11&chksm=f95257eece25def833e3981ca7aacebb3578aa82d27187055fee6c4a8ace542d5e93f80f8977#rd) ![](assets/new.png)  
+- [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd)  
+- [2019-08-26-一文带你解锁Web应用中的图片优化技巧！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=1&sn=ae4b9b7f108ecb3c12931ce965c78c11&chksm=f95257eece25def833e3981ca7aacebb3578aa82d27187055fee6c4a8ace542d5e93f80f8977#rd)  
 - [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd)  
 - [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd)  
 - [2019-08-24-涨姿势！原来JavaScript运算符还可以这么玩](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect)  
