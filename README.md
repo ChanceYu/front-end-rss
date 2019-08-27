@@ -9,11 +9,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-27 12:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-27 18:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -21,7 +21,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd) ![](assets/new.png)  
-- [2019-08-27-【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd) ![](assets/new.png)  
+- [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd)  
+- [2019-08-27-【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd)  
 - [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect)  
 - [2019-08-26-【活动】第-5-届-FEDAY-来啦！9月21日，成都见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect)  
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect)  
@@ -279,6 +279,7 @@
 </summary>
 
 
+- [2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/) ![](assets/new.png)  
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)  
 - [2019-07-01-邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)  
 - [2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)  
@@ -298,7 +299,6 @@
 - [2018-08-27-首个多端-UI-组件库---Taro-UI-发布](https://aotu.io/notes/2018/08/27/the-birth-of-taro-ui/)  
 - [2018-06-25-为何我们要用-React-来写小程序---Taro-诞生记](https://aotu.io/notes/2018/06/25/the-birth-of-taro/)  
 - [2018-06-07-多端统一开发框架---Taro](https://aotu.io/notes/2018/06/07/Taro/)  
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

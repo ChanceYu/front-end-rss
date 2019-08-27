@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-27 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-27 18:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -270,6 +270,7 @@
 - [【阮一峰的网络日志】2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [【阮一峰的网络日志】2019-08-02-科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html) 
 - [【阮一峰的网络日志】2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html) 
+- [【Aotu-|-凹凸实验室】2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
