@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-28 12:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-28 22:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,8 +62,9 @@
 </summary>
 
 
-- [2019-08-27-策略模式实现动态表单验证](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=1&sn=2632dafaf94073989bb7fb5ab2610fc2&chksm=80255bafb752d2b93af37e76a2ee068c45e52a6b7d541d515d04807b18e41a8d697cbb0eac0f&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-27-面向对象：期待能遇到能照亮彼此心灵的那个人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=2&sn=f5924c35711722a148ff387d3d291ce9&chksm=80255bafb752d2b92ae43228cabf0d489a14869fee1108c1e1a8bcb82df1218ca168b6061db1&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-28-CSS-@supports实现的级联网页设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556978&idx=1&sn=cd5f4b2a37de1ba0749a36833aea20cf&chksm=80255bb3b752d2a5c8e52ca3b43aef069a5e5e89503155277371ec46db9dfc9114214656c218#rd) ![](assets/new.png)  
+- [2019-08-27-策略模式实现动态表单验证](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=1&sn=2632dafaf94073989bb7fb5ab2610fc2&chksm=80255bafb752d2b93af37e76a2ee068c45e52a6b7d541d515d04807b18e41a8d697cbb0eac0f&scene=27#wechat_redirect)  
+- [2019-08-27-面向对象：期待能遇到能照亮彼此心灵的那个人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=2&sn=f5924c35711722a148ff387d3d291ce9&chksm=80255bafb752d2b92ae43228cabf0d489a14869fee1108c1e1a8bcb82df1218ca168b6061db1&scene=27#wechat_redirect)  
 - [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd)  
 - [2019-08-26-扫盲！透析-JS-12-大核心技能，告诉你如何学才能价值翻倍！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=1&sn=8172a4cee811dce83a46de33741652e2&chksm=80255ba9b752d2bf4b69a48a9c6c5fca9bc55740d8869f55d51168536f6e83b4ac545fccc87f#rd)  
 - [2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd)  
@@ -81,7 +82,6 @@
 - [2019-08-14-面向对象：让我们红尘作伴，吃的白白胖胖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=2&sn=540ffc904279a8b52323f86897d22a1f&chksm=80255beab752d2fcaf28268006c79c15aaf09d53158c9288609f9b0ea632ca59addb7f163a84#rd)  
 - [2019-08-14-一文带你了解-JavaScript-函数式编程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=1&sn=e3048f77cedce5691f0b73ecf8e52862&chksm=80255beab752d2fc25b83519dadf292ca2913e2c51dcf372bcf6679219498628786d4345ac23#rd)  
 - [2019-08-13-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=2&sn=1b0493f6c1f314a3410c6addc020f331&chksm=80255be9b752d2ffa0049cb471f5827d91950f71d97de55e4b05db4c140988ec7bf70c7b2635#rd)  
-- [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-28-前Facebook-工程师：为什么我专注于学习那些“不变”的底层知识](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=2&sn=04dea402d21e22c1e950e0458baf31f2&chksm=f952578ece25de9819b1864c8d5e08377a16efa85d953649ee3fc3ceb284036255e2941d2329#rd) ![](assets/new.png)  
+- [2019-08-28-这可能是你见过最完善的微前端解决方案！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=1&sn=3c42b1c89700297e9b304b16a26e415f&chksm=f952578ece25de981614b5a6fa10781e066585c054dc9f315d94cb6d8bc71d6d2c51a3c52e29#rd) ![](assets/new.png)  
 - [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect)  
 - [2019-08-27-什么场景下不应该使用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=2&sn=e8ffb773bf8e77fe3c506f0dea650253&chksm=f9525786ce25de9099a996dc0b2ee1abc97e7a3c287565456ab7faf30099561318ab3c520bfe&scene=27#wechat_redirect)  
 - [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-20-滴滴开源AoE！帮你在终端快速集成AI框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd)  
 - [2019-08-20-再见，Flutter自带状态管理！你好，MobX库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=1&sn=ec1743b9fece285687a8857134929ce6&chksm=f9525732ce25de24a564b0b7a61b4794c6d18b5969306cfc300bb56b25465e69271dd6fd71a2#rd)  
 - [2019-08-19-What！前端也能玩硬件：在ESP32上运行JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=2&sn=3b11b7a38f6aa7802532e56e91a3e43c&chksm=f9525720ce25de366c9cbf190089b014f0eee496c005e0ceb24088c37304d0209eccc2c47cfe#rd)  
-- [2019-08-19-CSS-in-JS是恶魔还是天使？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492195&idx=1&sn=3f07cbaa3b58e2ecb14a932b533fd086&chksm=f9525720ce25de3604831eb5dbae30a44265a7385ecb99bb732c36111a8bb59d0dd53a822f74#rd)  
-- [2019-08-18-前端周报：Node.js-安全版本发布；-curl-支持-HTTP/3-；30条招聘信息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492187&idx=1&sn=44bcd69b81eb17d8feece6a0d60ef7a6&chksm=f9525718ce25de0ef5dc6349c0e48f8f43c6c4a1d62c772288f7125fcac94d1559f5dd429ded#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
