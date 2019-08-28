@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-27 22:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-28 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,8 @@
 </summary>
 
 
+- [【前端早读课】2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd) 
+- [【前端早读课】2019-08-28-【第1710期】支付宝移动端-Hybrid-解决方案探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=1&sn=31b1e37a63cc217a6f5f603fe70e839c&chksm=bd4944a28a3ecdb409227518c11dfd6cb5b31b68a1171a591a983aa444f871d01ddf908c410d#rd) 
 - [【前端早读课】2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd) 
 - [【前端早读课】2019-08-27-【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd) 
 - [【前端早读课】2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect) 

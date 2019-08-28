@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-27 22:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-28 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd) ![](assets/new.png)  
+- [2019-08-28-【第1710期】支付宝移动端-Hybrid-解决方案探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=1&sn=31b1e37a63cc217a6f5f603fe70e839c&chksm=bd4944a28a3ecdb409227518c11dfd6cb5b31b68a1171a591a983aa444f871d01ddf908c410d#rd) ![](assets/new.png)  
 - [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd)  
 - [2019-08-27-【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd)  
 - [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect)  
@@ -49,8 +51,6 @@
 - [2019-08-20-阿里-P7-前端技术专家，都需要掌握哪些技术栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=1&sn=2228f525902e2e535c30036186af4ea4&chksm=bd4945158a3ecc032f722cbc6c239e9b721e478370ae99d9dbbd32e25d6771f77c93698ed76c&scene=27#wechat_redirect)  
 - [2019-08-21-W3C-Web-游戏技术研讨会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=3&sn=0f0582994ef74a7ee2014109680a0f20&chksm=bd4945448a3ecc5288f06bc515f8f02fd7f868f1e270c48c091d806afda31364abbbe5a82796#rd)  
 - [2019-08-21-【招聘】阿里飞冰团队招人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=2&sn=450c633931f0162c93c7687a9d003fc9&chksm=bd4945448a3ecc52e04bceeb86e75c91a39a2924093f08b7d5d38e95aa486a4a1d8c80513f1a#rd)  
-- [2019-08-20-【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd)  
-- [2019-08-20-【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-27-什么场景下不应该使用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=2&sn=e8ffb773bf8e77fe3c506f0dea650253&chksm=f9525786ce25de9099a996dc0b2ee1abc97e7a3c287565456ab7faf30099561318ab3c520bfe&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect)  
+- [2019-08-27-什么场景下不应该使用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=2&sn=e8ffb773bf8e77fe3c506f0dea650253&chksm=f9525786ce25de9099a996dc0b2ee1abc97e7a3c287565456ab7faf30099561318ab3c520bfe&scene=27#wechat_redirect)  
 - [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd)  
 - [2019-08-26-一文带你解锁Web应用中的图片优化技巧！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=1&sn=ae4b9b7f108ecb3c12931ce965c78c11&chksm=f95257eece25def833e3981ca7aacebb3578aa82d27187055fee6c4a8ace542d5e93f80f8977#rd)  
 - [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd)  
