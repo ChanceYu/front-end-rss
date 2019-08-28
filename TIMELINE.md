@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-28 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-28 12:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【前端早读课】2019-08-02-【第1687期】「数据模型」是如何助力前端开发的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233203&idx=1&sn=d666068b9e14238c55995fad75b61a21&chksm=bd4942378a3ecb2119d54ab6acc2d2eed2f5b73f888a7da63bd1d88f2fd3ab828bafaaf45de5#rd) 
 - [【前端早读课】2019-08-01-【第1686期】通过阅读源码提高你的-JavaScript-水平](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=1&sn=1ed95c7c459dbfea5808443da8852df1&chksm=bd49422e8a3ecb382d89908d8273a6ab254526e31b08b08e4da65f27ea425597d02ba38d5bb6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-08-01-【招聘】阿里云智能运营支撑平台体验技术团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233194&idx=2&sn=95542b12af3b5465d4e186c5a2040dc0&chksm=bd49422e8a3ecb38f116f44899cbcfe36938a76648d46e7ec621ee3ce95d852b1263c6ed5630&scene=27#wechat_redirect) 
+- [【前端大全】2019-08-27-策略模式实现动态表单验证](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=1&sn=2632dafaf94073989bb7fb5ab2610fc2&chksm=80255bafb752d2b93af37e76a2ee068c45e52a6b7d541d515d04807b18e41a8d697cbb0eac0f&scene=27#wechat_redirect) 
+- [【前端大全】2019-08-27-面向对象：期待能遇到能照亮彼此心灵的那个人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=2&sn=f5924c35711722a148ff387d3d291ce9&chksm=80255bafb752d2b92ae43228cabf0d489a14869fee1108c1e1a8bcb82df1218ca168b6061db1&scene=27#wechat_redirect) 
 - [【前端大全】2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd) 
 - [【前端大全】2019-08-26-扫盲！透析-JS-12-大核心技能，告诉你如何学才能价值翻倍！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=1&sn=8172a4cee811dce83a46de33741652e2&chksm=80255ba9b752d2bf4b69a48a9c6c5fca9bc55740d8869f55d51168536f6e83b4ac545fccc87f#rd) 
 - [【前端大全】2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd) 

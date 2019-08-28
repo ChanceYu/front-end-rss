@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "Chameleon 支持字节跳动小程序（附实现原理）",
@@ -3021,6 +3021,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "策略模式实现动态表单验证",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=1&sn=2632dafaf94073989bb7fb5ab2610fc2&chksm=80255bafb752d2b93af37e76a2ee068c45e52a6b7d541d515d04807b18e41a8d697cbb0eac0f&scene=27#wechat_redirect",
+        "date": "2019-08-27"
+      },
+      {
+        "title": "面向对象：期待能遇到能照亮彼此心灵的那个人",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=2&sn=f5924c35711722a148ff387d3d291ce9&chksm=80255bafb752d2b92ae43228cabf0d489a14869fee1108c1e1a8bcb82df1218ca168b6061db1&scene=27#wechat_redirect",
+        "date": "2019-08-27"
+      },
       {
         "title": "享元模式与资源池",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd",

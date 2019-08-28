@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-28 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-28 12:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd) ![](assets/new.png)  
-- [2019-08-28-【第1710期】支付宝移动端-Hybrid-解决方案探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=1&sn=31b1e37a63cc217a6f5f603fe70e839c&chksm=bd4944a28a3ecdb409227518c11dfd6cb5b31b68a1171a591a983aa444f871d01ddf908c410d#rd) ![](assets/new.png)  
+- [2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd)  
+- [2019-08-28-【第1710期】支付宝移动端-Hybrid-解决方案探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=1&sn=31b1e37a63cc217a6f5f603fe70e839c&chksm=bd4944a28a3ecdb409227518c11dfd6cb5b31b68a1171a591a983aa444f871d01ddf908c410d#rd)  
 - [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd)  
 - [2019-08-27-【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd)  
 - [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-08-27-策略模式实现动态表单验证](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=1&sn=2632dafaf94073989bb7fb5ab2610fc2&chksm=80255bafb752d2b93af37e76a2ee068c45e52a6b7d541d515d04807b18e41a8d697cbb0eac0f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-27-面向对象：期待能遇到能照亮彼此心灵的那个人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=2&sn=f5924c35711722a148ff387d3d291ce9&chksm=80255bafb752d2b92ae43228cabf0d489a14869fee1108c1e1a8bcb82df1218ca168b6061db1&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd)  
 - [2019-08-26-扫盲！透析-JS-12-大核心技能，告诉你如何学才能价值翻倍！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=1&sn=8172a4cee811dce83a46de33741652e2&chksm=80255ba9b752d2bf4b69a48a9c6c5fca9bc55740d8869f55d51168536f6e83b4ac545fccc87f#rd)  
 - [2019-08-25-面向对象：最浪漫的事，就是和对的人一起相伴到老](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=2&sn=cb85f902dfc16683459ceb6df9010abb&chksm=80255ba7b752d2b11f29662a21282be6b24f760d159de6bf04df91ab1f2744abb82a5b38adad#rd)  
@@ -80,8 +82,6 @@
 - [2019-08-14-一文带你了解-JavaScript-函数式编程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556907&idx=1&sn=e3048f77cedce5691f0b73ecf8e52862&chksm=80255beab752d2fc25b83519dadf292ca2913e2c51dcf372bcf6679219498628786d4345ac23#rd)  
 - [2019-08-13-JS-的未来和-Web-多语言开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=2&sn=1b0493f6c1f314a3410c6addc020f331&chksm=80255be9b752d2ffa0049cb471f5827d91950f71d97de55e4b05db4c140988ec7bf70c7b2635#rd)  
 - [2019-08-13-做不到CTO，你还在小公司熬个什么劲？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556904&idx=1&sn=fe958d9bfa2a00bc37a107cd2d432480&chksm=80255be9b752d2ffcd22986475048228f58d18cf498ebcd42bdd962e9945f01ae615d3c318d5#rd)  
-- [2019-08-11-在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556893&idx=1&sn=885569e8d2dfaf24165edec33e71f90e&chksm=80255bdcb752d2ca268703e862e170609ff07a441c1277ccd6afa486e8a7c18d1bed948bb230&scene=27#wechat_redirect)  
-- [2019-08-10-前端路由跳转基本原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556892&idx=1&sn=5b1da2f8bc5b222d494360795c1277c8&chksm=80255bddb752d2cbc4c113d1b1281d7a6fc571f690137ebc77cc4d83aaa4a10a3cbeffef0f0d&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
