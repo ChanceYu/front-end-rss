@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-29 22:00:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-08-30 06:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -269,6 +269,7 @@
 - [【前端之巅】2019-08-01-如何手撸一个Vue-3.0异步函数API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=1&sn=2bc05676b7427d59a2bcb615701f2be8&chksm=f95254e1ce25ddf70cbb3ccb79f01677d2fee1891d636d625e3ffc87fd8de4b58a243fdbfc50&scene=27#wechat_redirect) 
 - [【前端之巅】2019-08-01-Node.js-12：服务端JavaScript的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=2&sn=a240bf656aa1f849e250575276f289d3&chksm=f95254e1ce25ddf7949285b73141fed77f47962068956ca0db2ca9d12ae8102794c2f7866b69#rd) 
 - [【前端之巅】2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 
+- [【张鑫旭-鑫空间-鑫生活】2019-08-30-聊聊JS-DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/) 

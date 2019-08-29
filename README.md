@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-29 22:00:37，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-30 06:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-08-29-Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=1&sn=8f4dd1f66561f6ddde9e8a788f1fde59&chksm=80255bb9b752d2affa202e97140ab6cc4d15df950955ed9d69c8a22580b2c1bdeb5a55299779&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-29-面向对象：感受温柔，领略山河，遇见不容易，喜欢望珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=2&sn=27fd210c2b7fc75eb8dfb866621f2325&chksm=80255bb9b752d2af8985a694e70ef8bd3810e030f30d722adebb8a613fec8a5fe697ef7475ba&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-29-Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=1&sn=8f4dd1f66561f6ddde9e8a788f1fde59&chksm=80255bb9b752d2affa202e97140ab6cc4d15df950955ed9d69c8a22580b2c1bdeb5a55299779&scene=27#wechat_redirect)  
+- [2019-08-29-面向对象：感受温柔，领略山河，遇见不容易，喜欢望珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=2&sn=27fd210c2b7fc75eb8dfb866621f2325&chksm=80255bb9b752d2af8985a694e70ef8bd3810e030f30d722adebb8a613fec8a5fe697ef7475ba&scene=27#wechat_redirect)  
 - [2019-08-28-CSS-@supports实现的级联网页设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556978&idx=1&sn=cd5f4b2a37de1ba0749a36833aea20cf&chksm=80255bb3b752d2a5c8e52ca3b43aef069a5e5e89503155277371ec46db9dfc9114214656c218#rd)  
 - [2019-08-27-策略模式实现动态表单验证](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=1&sn=2632dafaf94073989bb7fb5ab2610fc2&chksm=80255bafb752d2b93af37e76a2ee068c45e52a6b7d541d515d04807b18e41a8d697cbb0eac0f&scene=27#wechat_redirect)  
 - [2019-08-27-面向对象：期待能遇到能照亮彼此心灵的那个人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556974&idx=2&sn=f5924c35711722a148ff387d3d291ce9&chksm=80255bafb752d2b92ae43228cabf0d489a14869fee1108c1e1a8bcb82df1218ca168b6061db1&scene=27#wechat_redirect)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-08-29-重磅！滴滴跨端框架Chameleon-1.0正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=1&sn=2e2a75fa8d709364e4833cc62a2420e7&chksm=f9525792ce25de84eb5ff55f802bdd21e0795b98fc13de5a5ade80741704725e0425ef770f4a&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-29-重磅！滴滴跨端框架Chameleon-1.0正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=1&sn=2e2a75fa8d709364e4833cc62a2420e7&chksm=f9525792ce25de84eb5ff55f802bdd21e0795b98fc13de5a5ade80741704725e0425ef770f4a&scene=27#wechat_redirect)  
+- [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect)  
 - [2019-08-28-前Facebook-工程师：为什么我专注于学习那些“不变”的底层知识](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=2&sn=04dea402d21e22c1e950e0458baf31f2&chksm=f952578ece25de9819b1864c8d5e08377a16efa85d953649ee3fc3ceb284036255e2941d2329#rd)  
 - [2019-08-28-这可能是你见过最完善的微前端解决方案！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=1&sn=3c42b1c89700297e9b304b16a26e415f&chksm=f952578ece25de981614b5a6fa10781e066585c054dc9f315d94cb6d8bc71d6d2c51a3c52e29#rd)  
 - [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect)  
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2019-08-30-聊聊JS-DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/) ![](assets/new.png)  
 - [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/)  
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
@@ -174,7 +175,6 @@
 - [2019-06-08-更好的纯CSS滚动指示器技术实现](https://www.zhangxinxu.com/wordpress/2019/06/better-css-scroll-indicator/)  
 - [2019-06-07-纯CSS图片滤镜项目CSSgram简介](https://www.zhangxinxu.com/wordpress/2019/06/css-filters-cssgram/)  
 - [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/)  
-- [2019-05-28-小tips:-如何借助content属性显示CSS-var变量值](https://www.zhangxinxu.com/wordpress/2019/05/content-css-var/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

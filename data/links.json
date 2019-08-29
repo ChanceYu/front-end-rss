@@ -7513,6 +7513,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "聊聊JS DOM变化的监听检测与应用",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/",
+        "date": "2019-08-30"
+      },
+      {
         "title": "JS URL()和URLSearchParams() API接口详细介绍",
         "link": "https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/",
         "date": "2019-08-26"
