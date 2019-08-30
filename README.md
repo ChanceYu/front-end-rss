@@ -9,17 +9,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-30 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-31 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-08-30-Vue-+-Node-+-WebRTC构建一个高逼格的视频应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=2&sn=90d6f7f223ff6df6d32694ddd1e07f8a&chksm=f952579cce25de8aaa181068aac8919dfeeee3f34d462bb2eca2013810644ce1705b5c7ff52d#rd) ![](assets/new.png)  
+- [2019-08-30-喊话框架：Web组件用几行代码也可实现数据绑定](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=1&sn=f30c8ddb5d8f5b521c7be36443f6326a&chksm=f952579cce25de8a264dc9b60e526fa1c1edbe3e339b092865f42fa696978a092c078854b83f#rd) ![](assets/new.png)  
 - [2019-08-29-重磅！滴滴跨端框架Chameleon-1.0正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=1&sn=2e2a75fa8d709364e4833cc62a2420e7&chksm=f9525792ce25de84eb5ff55f802bdd21e0795b98fc13de5a5ade80741704725e0425ef770f4a&scene=27#wechat_redirect)  
 - [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect)  
 - [2019-08-28-前Facebook-工程师：为什么我专注于学习那些“不变”的底层知识](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=2&sn=04dea402d21e22c1e950e0458baf31f2&chksm=f952578ece25de9819b1864c8d5e08377a16efa85d953649ee3fc3ceb284036255e2941d2329#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-22-从0到1，深度解读小游戏开发技术奥秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=3&sn=b0b031ffa8f6740eab0d08cb098b0400&chksm=f95257cfce25ded92623afa8f1779931c723e3d306b8f690dcc86c923b077b2dc8633514bf92#rd)  
 - [2019-08-22-5G时代，前端将从技术人的字典里“消失”？丨GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=2&sn=e965c83df369a12ebd44402fa8fbc53f&chksm=f95257cfce25ded97ef5bf28f7778808d8b39f9ba8d6a642b4ea1ca8536693827779139919b9#rd)  
 - [2019-08-21-号外！Chameleon支持字节跳动小程序啦~](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=2&sn=496fb08d97c3566875141971b6a55ef7&chksm=f9525738ce25de2e1202112f045e379ce8ae665f17d13c69c4a07a2bf7038748eacc34a98efe#rd)  
-- [2019-08-21-不要再滥用useMemo了！你应该重新思考Hooks-memoization](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=1&sn=6385bb5b299c2c2e9a6aa042fde7b44f&chksm=f9525738ce25de2ed626af69cd2fef89852c0c42429a03dae3c4f2cdaffb39843439b079dee1#rd)  
-- [2019-08-20-滴滴开源AoE！帮你在终端快速集成AI框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492209&idx=2&sn=dd5690189ed7427d225e368347b64720&chksm=f9525732ce25de241407824094488c98c71a04f39a09e10d1a9de8b22c55f8c77b7a1f996809#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -217,8 +217,8 @@
 </summary>
 
 
-- [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html) ![](assets/new.png)  
-- [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html) ![](assets/new.png)  
+- [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html)  
+- [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html)  
 - [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html)  
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html)  
 - [2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)  

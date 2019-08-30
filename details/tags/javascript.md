@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-08-30 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-31 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -174,6 +174,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2019-08-30-喊话框架：Web组件用几行代码也可实现数据绑定](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=1&sn=f30c8ddb5d8f5b521c7be36443f6326a&chksm=f952579cce25de8a264dc9b60e526fa1c1edbe3e339b092865f42fa696978a092c078854b83f#rd) 
 - [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect) 
 - [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect) 
 - [2019-08-24-涨姿势！原来JavaScript运算符还可以这么玩](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect) 
