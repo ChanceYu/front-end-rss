@@ -9,7 +9,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-30 06:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-30 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -17,8 +17,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-08-30-聊聊JS-DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/) ![](assets/new.png)  
+- [2019-08-30-聊聊JS-DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/)  
 - [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/)  
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-08-30-科技爱好者周刊：第-71-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html) ![](assets/new.png)  
 - [2019-08-26-任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html)  
 - [2019-08-23-科技爱好者周刊：第-70-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)  
 - [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)  
@@ -205,7 +206,6 @@
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html)  
 - [2019-06-25-为什么开源数据库改变许可证？](http://www.ruanyifeng.com/blog/2019/06/open-database-relicensing.html)  
 - [2019-06-21-科技爱好者周刊：第-61-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-61.html)  
-- [2019-06-14-每周分享第-60-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-60.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
