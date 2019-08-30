@@ -9,17 +9,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-30 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-08-30 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-08-30-【第1712期】HTTP协议理解及服务端与客户端的设计实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=1&sn=73d7fe9a02252b0c73494f5618f5ad62&chksm=bd4944b28a3ecda49ffcc366c6309862a7fe3be35f6e9921c237a5be60641e66ea6a7df1eb5d&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-08-30-【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-30-【第1712期】HTTP协议理解及服务端与客户端的设计实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=1&sn=73d7fe9a02252b0c73494f5618f5ad62&chksm=bd4944b28a3ecda49ffcc366c6309862a7fe3be35f6e9921c237a5be60641e66ea6a7df1eb5d&scene=27#wechat_redirect)  
+- [2019-08-30-【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect)  
 - [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd)  
 - [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd)  
 - [2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd)  
@@ -217,6 +217,8 @@
 </summary>
 
 
+- [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html) ![](assets/new.png)  
+- [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html) ![](assets/new.png)  
 - [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html)  
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html)  
 - [2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)  
@@ -235,8 +237,6 @@
 - [2019-01-04-精心挑选的2018年最佳前端特效（系列二）](http://www.yyyweb.com/5237.html)  
 - [2018-12-30-精心挑选的2018年最佳前端特效（系列一）](http://www.yyyweb.com/5236.html)  
 - [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)  
-- [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html)  
-- [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
