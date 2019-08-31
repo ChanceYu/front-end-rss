@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-31 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-08-31 12:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -288,6 +288,7 @@
 
 
 
+- [【前端早读课】【第1713期】腾讯TGideas@花叔：我的小游戏开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd)
 - [【前端早读课】W3C-Web-游戏技术研讨会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=3&sn=0f0582994ef74a7ee2014109680a0f20&chksm=bd4945448a3ecc5288f06bc515f8f02fd7f868f1e270c48c091d806afda31364abbbe5a82796#rd)
 - [【前端早读课】【图书】Three.js开发指南：基于WebGL和HTML5在网页上渲染3D图形和动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651233112&amp;idx=3&amp;sn=67eeb9be55defcd8c2441c691802694c&amp;chksm=bd4942dc8a3ecbca5c0d6c44b7e3b2d6d9457f8cf8682778a59bf7e16a2f9e738c663dee0503#rd)
 - [【前端早读课】【活动】小游戏开发专场@2019厦门大前端技术沙龙之](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=1&sn=b59350089ad0b5614d03dc5a2285895d#rd)
@@ -307,7 +308,6 @@
 - [【Aotu-|-凹凸实验室】H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/)
 - [【Aotu-|-凹凸实验室】H5游戏开发：套圈圈](https://aotu.io/notes/2018/01/04/waterful/)
 - [【Aotu-|-凹凸实验室】H5游戏开发：游戏引擎入门推荐](https://aotu.io/notes/2017/12/27/h5-game-engine-recommend/)
-- [【Aotu-|-凹凸实验室】H5游戏开发：指尖大冒险](https://aotu.io/notes/2017/11/28/h5_game_jumping/)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
