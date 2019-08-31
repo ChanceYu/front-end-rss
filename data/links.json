@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【第1713期】腾讯TGideas@花叔：我的小游戏开发之路",
@@ -3047,6 +3047,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "28 道 JavaScript 面试题，看看能错几道？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556995&idx=1&sn=21488cff5d36077e11712ba50f746a92&chksm=80255b42b752d254297a89c04cb5d863ce0353ec53b687fc0385dcf7d7337961e669403b2c66&scene=27#wechat_redirect",
+        "date": "2019-08-30"
+      },
+      {
         "title": "Webpack优化——将你的构建效率提速翻倍",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=1&sn=8f4dd1f66561f6ddde9e8a788f1fde59&chksm=80255bb9b752d2affa202e97140ab6cc4d15df950955ed9d69c8a22580b2c1bdeb5a55299779&scene=27#wechat_redirect",
         "date": "2019-08-29"
@@ -5574,9 +5579,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "如何在NativeScript中嵌入V8？",
