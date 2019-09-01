@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-01 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-01 22:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,7 +31,7 @@
 </summary>
 
 
-- [2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect)  
 - [2019-08-31-【第1713期】腾讯TGideas@花叔：我的小游戏开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd)  
 - [2019-08-30-【第1712期】HTTP协议理解及服务端与客户端的设计实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=1&sn=73d7fe9a02252b0c73494f5618f5ad62&chksm=bd4944b28a3ecda49ffcc366c6309862a7fe3be35f6e9921c237a5be60641e66ea6a7df1eb5d&scene=27#wechat_redirect)  
 - [2019-08-30-【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect)  
@@ -62,6 +62,9 @@
 </summary>
 
 
+- [2019-09-01-多图预警，Chrome-浏览器前端调试技巧大揭秘](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557006&idx=1&sn=8ec2bdaecf1e145dcef9435c829cb0b6&chksm=80255b4fb752d2598f1fcf970524de814e86836c6160b581fef9799c6350ab1b8269e1340a9b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-31-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557002&idx=1&sn=d558d730ba688968017cb74cb3340ec3&chksm=80255b4bb752d25de1c95bd752405e309b31fbebac061349c057efe4642a8d1b2824b2914f46&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-31-面向对象：一个人不孤独，两个人不孤单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557002&idx=2&sn=4fa1fd46ad99e2cc18b6c44cc827b1a5&chksm=80255b4bb752d25d815cb6dfba120a0d5c276b7778e8e4338eb80614db6e8d7af15f395befe9&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-30-28-道-JavaScript-面试题，看看能错几道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556995&idx=1&sn=21488cff5d36077e11712ba50f746a92&chksm=80255b42b752d254297a89c04cb5d863ce0353ec53b687fc0385dcf7d7337961e669403b2c66&scene=27#wechat_redirect)  
 - [2019-08-29-Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=1&sn=8f4dd1f66561f6ddde9e8a788f1fde59&chksm=80255bb9b752d2affa202e97140ab6cc4d15df950955ed9d69c8a22580b2c1bdeb5a55299779&scene=27#wechat_redirect)  
 - [2019-08-29-面向对象：感受温柔，领略山河，遇见不容易，喜欢望珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=2&sn=27fd210c2b7fc75eb8dfb866621f2325&chksm=80255bb9b752d2af8985a694e70ef8bd3810e030f30d722adebb8a613fec8a5fe697ef7475ba&scene=27#wechat_redirect)  
@@ -79,9 +82,6 @@
 - [2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd)  
 - [2019-08-19-人人都会Vue，你的优势在哪里？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=1&sn=56bc631666226c1bc39564c5e184820e&chksm=80255b86b752d2905018c44497b43dff35ebf479fe2f57d3c7c5bb0d883600acad7d8b967ce0#rd)  
 - [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd)  
-- [2019-08-17-正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556925&idx=1&sn=184b4f9e755bb47a96d7d81fe4d2a03f&chksm=80255bfcb752d2ea9847c60720ab5f7487c87c9dcb01a11e8bd93ee58cd01a9d11e48b7b93e1#rd)  
-- [2019-08-16-提升开发幸福感的10条JS技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556917&idx=1&sn=aa7df70bf8069cc12f31623d10823d58&chksm=80255bf4b752d2e2754b600f38750cbc09a3db02f081d73491497a1cd23a0708449872174241&scene=27#wechat_redirect)  
-- [2019-08-15-GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2019-09-01-前端周报：W3C-收到-CSS-工作组提案；深入探索-iOS-漏洞利用链；Angular-9-的新特性；](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492339&idx=1&sn=b01d5aa9e8cd52e97e8ffaff317ab400&chksm=f95257b0ce25dea666a632a8f26a28b5b02814b3f44d76689b1cca742fe21ac4f90978774b63#rd) ![](assets/new.png)  
+- [2019-09-01-前端周报：W3C-收到-CSS-工作组提案；深入探索-iOS-漏洞利用链；Angular-9-的新特性；](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492339&idx=1&sn=b01d5aa9e8cd52e97e8ffaff317ab400&chksm=f95257b0ce25dea666a632a8f26a28b5b02814b3f44d76689b1cca742fe21ac4f90978774b63#rd)  
 - [2019-08-31-如何在NativeScript中嵌入V8？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=2&sn=6c0243e81ff94667f22f8783fec9cc5b&chksm=f95257adce25debb5a17a87c14d844325e2a73e8283cfc19a33bb5cd19bd3a1fb86fa0666dba#rd)  
 - [2019-08-31-推荐几个技术进阶必看的公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=1&sn=f9ccb32eba7e663ba9dab71ca6be6fba&chksm=f95257adce25debb8996bd084dea34aede605e6d6b349fb2e03a33722571b0e9a8fa63d2e005#rd)  
 - [2019-08-30-Vue-+-Node-+-WebRTC构建一个高逼格的视频应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=2&sn=90d6f7f223ff6df6d32694ddd1e07f8a&chksm=f952579cce25de8aaa181068aac8919dfeeee3f34d462bb2eca2013810644ce1705b5c7ff52d#rd)  
