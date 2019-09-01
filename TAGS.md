@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-08-31 22:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-01 18:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -710,6 +710,7 @@
 
 
 
+- [【前端早读课】【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect)
 - [【前端早读课】【第1710期】支付宝移动端-Hybrid-解决方案探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=1&sn=31b1e37a63cc217a6f5f603fe70e839c&chksm=bd4944a28a3ecdb409227518c11dfd6cb5b31b68a1171a591a983aa444f871d01ddf908c410d#rd)
 - [【前端早读课】【第1709期】可能是你见过最完善的微前端解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=1&sn=5e9a9dddf72a47afde80cd572306bd0a&chksm=bd49449b8a3ecd8d5b0573b8612ad9adc1ee4fcf58851b20182665d353255f5bcdfcb594f720#rd)
 - [【前端早读课】【活动】第-5-届-FEDAY-来啦！9月21日，成都见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=2&sn=32402dd5b73ead9f2941a090f7a4a0a3&chksm=bd4944908a3ecd86d5fc2e15f436403fc441f42aaae1ce11e4c0a6ad32b190c80c17ac68bab1&scene=27#wechat_redirect)
@@ -729,7 +730,6 @@
 - [【前端早读课】【第1681期】前端离线化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233168&idx=1&sn=ae703b65e79c5e3096e93256a3db762e&chksm=bd4942148a3ecb0243b344104b2385be3f71fea229e076359113775e89b7856e50df7a903332&scene=27#wechat_redirect)
 - [【前端早读课】【第1680期】领域驱动设计在前端中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233147&idx=1&sn=2ac4729ec1bbe99c792e343b9109718a&chksm=bd4942ff8a3ecbe9a734595d801ae7219d34f1a64162a83b8fbadf3e70b71d0faffa84ce27fd#rd)
 - [【前端早读课】2019前端技术热门趋势（盘点）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233136&idx=1&sn=0a543354a73f8b5bab0f916cc27640f9&chksm=bd4942f48a3ecbe233edaf2ce5bf2ca5671c456f8c5e43c81611f63b0adac3a6dbfb301e955e#rd)
-- [【前端早读课】前端工程师必备【基础技能】和【进阶项目】分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233120&idx=1&sn=07fcbddb4562f55d9f7d1473702067cc&chksm=bd4942e48a3ecbf2667bbd08c2d95a11d4d66a16d5753d0a39c7cacab9a1438a1e9463b643eb#rd)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

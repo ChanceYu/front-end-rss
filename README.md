@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-08-31 22:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-01 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,7 @@
 </summary>
 
 
+- [2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-08-31-【第1713期】腾讯TGideas@花叔：我的小游戏开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd)  
 - [2019-08-30-【第1712期】HTTP协议理解及服务端与客户端的设计实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=1&sn=73d7fe9a02252b0c73494f5618f5ad62&chksm=bd4944b28a3ecda49ffcc366c6309862a7fe3be35f6e9921c237a5be60641e66ea6a7df1eb5d&scene=27#wechat_redirect)  
 - [2019-08-30-【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect)  
@@ -50,7 +51,6 @@
 - [2019-08-24-【招聘】深圳KLOOK客路旅行招中高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=2&sn=64cb2e6f4cc73b0451d18778b7f3fc51&chksm=bd4945668a3ecc70e2303cea1a7ff3d8edfe1092e96caf129ab778a5baec917e8e2448499e4c#rd)  
 - [2019-08-23-【第1706期】不只是同构应用（isomorphic-工程化你所忽略的细节）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=1&sn=f48e069c3c94c104819ff4b715610752&chksm=bd4945568a3ecc40e2845d05e207f704a80b5d7026d7fdd90504c768c0a9537ef5542b0c24e9&scene=27#wechat_redirect)  
 - [2019-08-23-【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect)  
-- [2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,7 +62,7 @@
 </summary>
 
 
-- [2019-08-30-28-道-JavaScript-面试题，看看能错几道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556995&idx=1&sn=21488cff5d36077e11712ba50f746a92&chksm=80255b42b752d254297a89c04cb5d863ce0353ec53b687fc0385dcf7d7337961e669403b2c66&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-08-30-28-道-JavaScript-面试题，看看能错几道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556995&idx=1&sn=21488cff5d36077e11712ba50f746a92&chksm=80255b42b752d254297a89c04cb5d863ce0353ec53b687fc0385dcf7d7337961e669403b2c66&scene=27#wechat_redirect)  
 - [2019-08-29-Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=1&sn=8f4dd1f66561f6ddde9e8a788f1fde59&chksm=80255bb9b752d2affa202e97140ab6cc4d15df950955ed9d69c8a22580b2c1bdeb5a55299779&scene=27#wechat_redirect)  
 - [2019-08-29-面向对象：感受温柔，领略山河，遇见不容易，喜欢望珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556984&idx=2&sn=27fd210c2b7fc75eb8dfb866621f2325&chksm=80255bb9b752d2af8985a694e70ef8bd3810e030f30d722adebb8a613fec8a5fe697ef7475ba&scene=27#wechat_redirect)  
 - [2019-08-28-CSS-@supports实现的级联网页设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556978&idx=1&sn=cd5f4b2a37de1ba0749a36833aea20cf&chksm=80255bb3b752d2a5c8e52ca3b43aef069a5e5e89503155277371ec46db9dfc9114214656c218#rd)  
@@ -93,6 +93,7 @@
 </summary>
 
 
+- [2019-09-01-前端周报：W3C-收到-CSS-工作组提案；深入探索-iOS-漏洞利用链；Angular-9-的新特性；](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492339&idx=1&sn=b01d5aa9e8cd52e97e8ffaff317ab400&chksm=f95257b0ce25dea666a632a8f26a28b5b02814b3f44d76689b1cca742fe21ac4f90978774b63#rd) ![](assets/new.png)  
 - [2019-08-31-如何在NativeScript中嵌入V8？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=2&sn=6c0243e81ff94667f22f8783fec9cc5b&chksm=f95257adce25debb5a17a87c14d844325e2a73e8283cfc19a33bb5cd19bd3a1fb86fa0666dba#rd)  
 - [2019-08-31-推荐几个技术进阶必看的公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=1&sn=f9ccb32eba7e663ba9dab71ca6be6fba&chksm=f95257adce25debb8996bd084dea34aede605e6d6b349fb2e03a33722571b0e9a8fa63d2e005#rd)  
 - [2019-08-30-Vue-+-Node-+-WebRTC构建一个高逼格的视频应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=2&sn=90d6f7f223ff6df6d32694ddd1e07f8a&chksm=f952579cce25de8aaa181068aac8919dfeeee3f34d462bb2eca2013810644ce1705b5c7ff52d#rd)  
@@ -112,7 +113,6 @@
 - [2019-08-24-10+-JavaScript数据可视化库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=2&sn=b43406c2acd834162230652fc01f0911&chksm=f95257d8ce25decea2c2dcb809feaa61666611857088d39c88ef1814ae843ac97bdfa8788ffd#rd)  
 - [2019-08-22-宁愿写两遍代码，也不用C++跨iOS、Android平台开发？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=1&sn=b35df0943c8ed102c27cc91ec24fec3c&chksm=f95257cfce25ded92a6ea5a0fa824879de46e5efb8c237f2e46f66f34a995834e1ea7a12cb64&scene=27#wechat_redirect)  
 - [2019-08-23-360度全方位观测：React-Native与Flutter的跨平台王位之争](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492242&idx=1&sn=21108672ba60767688e67b9f0047348c&chksm=f95257d1ce25dec7b3ad239b0f8fc13e3e6067e27cea56fe99136af9ebc857f8ac2e83b2efb1#rd)  
-- [2019-08-22-从0到1，深度解读小游戏开发技术奥秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=3&sn=b0b031ffa8f6740eab0d08cb098b0400&chksm=f95257cfce25ded92623afa8f1779931c723e3d306b8f690dcc86c923b077b2dc8633514bf92#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1714期】冲冠一怒为代码：论程序员与负能量",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect",
+        "date": "2019-09-01"
+      },
+      {
         "title": "【第1713期】腾讯TGideas@花叔：我的小游戏开发之路",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd",
         "date": "2019-08-31"
@@ -5579,10 +5584,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "前端周报：W3C 收到 CSS 工作组提案；深入探索 iOS 漏洞利用链；Angular 9 的新特性；",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492339&idx=1&sn=b01d5aa9e8cd52e97e8ffaff317ab400&chksm=f95257b0ce25dea666a632a8f26a28b5b02814b3f44d76689b1cca742fe21ac4f90978774b63#rd",
+        "date": "2019-09-01"
+      },
       {
         "title": "如何在NativeScript中嵌入V8？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=2&sn=6c0243e81ff94667f22f8783fec9cc5b&chksm=f95257adce25debb5a17a87c14d844325e2a73e8283cfc19a33bb5cd19bd3a1fb86fa0666dba#rd",
