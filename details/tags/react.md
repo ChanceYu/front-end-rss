@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-02 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-02 22:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -84,6 +84,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2019-09-02-够了！不要再问React-Hooks是否替代Redux了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=1&sn=0b96de2821f52bc79024ba144b4bbe51&chksm=f95257b9ce25deaf41272b7e73462b62319b6477808c4db35152f55bd9a990ee695afc49800d#rd) 
 - [2019-08-23-360度全方位观测：React-Native与Flutter的跨平台王位之争](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492242&idx=1&sn=21108672ba60767688e67b9f0047348c&chksm=f95257d1ce25dec7b3ad239b0f8fc13e3e6067e27cea56fe99136af9ebc857f8ac2e83b2efb1#rd) 
 - [2019-08-21-不要再滥用useMemo了！你应该重新思考Hooks-memoization](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=1&sn=6385bb5b299c2c2e9a6aa042fde7b44f&chksm=f9525738ce25de2ed626af69cd2fef89852c0c42429a03dae3c4f2cdaffb39843439b079dee1#rd) 
 - [2019-08-13-校招or跳槽，你需要掌握的21个React性能优化技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492143&idx=1&sn=f8c2273f4e07f35a5da13c098d25c84c&chksm=f952576cce25de7a3229a5f8de5bccca674dd0263c0c539c78510e8fcd3f5fcd4c208a8e34ec#rd) 
