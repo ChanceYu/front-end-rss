@@ -9,12 +9,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-02 22:00:23，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-04 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-09-02-面向对象：爱情无非就是用完美的眼光接受不完美的对方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=2&sn=0a27a964d90aad7a6fb8398f70ad0c73&chksm=80255b53b752d2454f6a0686a6887edf694a24042266a36bc412571d1549852e2d3b6c7b5216#rd) ![](assets/new.png)  
-- [2019-09-02-面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd) ![](assets/new.png)  
+- [2019-09-02-面向对象：爱情无非就是用完美的眼光接受不完美的对方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=2&sn=0a27a964d90aad7a6fb8398f70ad0c73&chksm=80255b53b752d2454f6a0686a6887edf694a24042266a36bc412571d1549852e2d3b6c7b5216#rd)  
+- [2019-09-02-面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd)  
 - [2019-09-01-多图预警，Chrome-浏览器前端调试技巧大揭秘](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557006&idx=1&sn=8ec2bdaecf1e145dcef9435c829cb0b6&chksm=80255b4fb752d2598f1fcf970524de814e86836c6160b581fef9799c6350ab1b8269e1340a9b&scene=27#wechat_redirect)  
 - [2019-08-31-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557002&idx=1&sn=d558d730ba688968017cb74cb3340ec3&chksm=80255b4bb752d25de1c95bd752405e309b31fbebac061349c057efe4642a8d1b2824b2914f46&scene=27#wechat_redirect)  
 - [2019-08-31-面向对象：一个人不孤独，两个人不孤单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557002&idx=2&sn=4fa1fd46ad99e2cc18b6c44cc827b1a5&chksm=80255b4bb752d25d815cb6dfba120a0d5c276b7778e8e4338eb80614db6e8d7af15f395befe9&scene=27#wechat_redirect)  
@@ -93,8 +93,10 @@
 </summary>
 
 
-- [2019-09-02-TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd) ![](assets/new.png)  
-- [2019-09-02-够了！不要再问React-Hooks是否替代Redux了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=1&sn=0b96de2821f52bc79024ba144b4bbe51&chksm=f95257b9ce25deaf41272b7e73462b62319b6477808c4db35152f55bd9a990ee695afc49800d#rd) ![](assets/new.png)  
+- [2019-09-03-K8s-已经“boring”了？怎么能玩出新花样？|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=3&sn=de5561cbbe5f1384282b82a7a318527f&chksm=f952564bce25df5dcb4e3748323d58bb210fbc51c73115625b309a0ecec352896cb58c68c898#rd) ![](assets/new.png)  
+- [2019-09-03-十个最流行的前端CSS库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=2&sn=5f1e076ffe9446237b71beb39ab242d6&chksm=f952564bce25df5d56d8d9de0785595f5e0e46a277c86e6620b39edb4f7ba933d255c702e9a7#rd) ![](assets/new.png)  
+- [2019-09-02-TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd)  
+- [2019-09-02-够了！不要再问React-Hooks是否替代Redux了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=1&sn=0b96de2821f52bc79024ba144b4bbe51&chksm=f95257b9ce25deaf41272b7e73462b62319b6477808c4db35152f55bd9a990ee695afc49800d#rd)  
 - [2019-09-01-前端周报：W3C-收到-CSS-工作组提案；深入探索-iOS-漏洞利用链；Angular-9-的新特性；](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492339&idx=1&sn=b01d5aa9e8cd52e97e8ffaff317ab400&chksm=f95257b0ce25dea666a632a8f26a28b5b02814b3f44d76689b1cca742fe21ac4f90978774b63#rd)  
 - [2019-08-31-如何在NativeScript中嵌入V8？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=2&sn=6c0243e81ff94667f22f8783fec9cc5b&chksm=f95257adce25debb5a17a87c14d844325e2a73e8283cfc19a33bb5cd19bd3a1fb86fa0666dba#rd)  
 - [2019-08-31-推荐几个技术进阶必看的公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=1&sn=f9ccb32eba7e663ba9dab71ca6be6fba&chksm=f95257adce25debb8996bd084dea34aede605e6d6b349fb2e03a33722571b0e9a8fa63d2e005#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-25-推荐几个不错的技术公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=2&sn=9d0c79bbe4497cae557b1fbcad8d93ff&chksm=f95257e3ce25def5d3d6506ca7ec9c476d8f397f8bd95ff9f6ab6c8b3a0261acb43907fdf9d0#rd)  
 - [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd)  
 - [2019-08-24-涨姿势！原来JavaScript运算符还可以这么玩](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=1&sn=fa8ab422cc80f2f78b4e9d2586c522d2&chksm=f95257d8ce25dece77d0d990a3fbbfc903dd2a6102463d637e958c3c1c4635f559770465f0a3&scene=27#wechat_redirect)  
-- [2019-08-24-数据中台的下一步](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=3&sn=0598c75f38bdbe76d80527dbb82898b6&chksm=f95257d8ce25deceee774ca52af7d85a6cfe40c8275df6885d3e64483176298e8f797792bd8c#rd)  
-- [2019-08-24-10+-JavaScript数据可视化库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492251&idx=2&sn=b43406c2acd834162230652fc01f0911&chksm=f95257d8ce25decea2c2dcb809feaa61666611857088d39c88ef1814ae843ac97bdfa8788ffd#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
