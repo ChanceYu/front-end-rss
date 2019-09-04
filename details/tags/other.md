@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-04 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-04 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -159,6 +159,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-09-03-Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=2&sn=3789e7d7b61d5af0309854da40b339d0&chksm=80255b55b752d243339535e24b494481f037101e253c9116120f29fe35033550959b641bf5f6#rd) 
 - [2019-08-26-享元模式与资源池](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556968&idx=2&sn=4e89182184aaee7f0bc51ea8ccf3698f&chksm=80255ba9b752d2bf55a7bf79a93bdfa51aad7e7604ba7980b850eead8faed9c66528ada6c35c#rd) 
 - [2019-08-19-一文搞定前端-Jenkins-自动化部署](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=2&sn=15ce7024d47dcaa0d5ad522878caaa02&chksm=80255b86b752d290f1538fb9d24ae9c7352aa32543667a55c1efa3e4cd872d583d2a677dd2a7#rd) 
 - [2019-08-18-前端开发-20-年变迁史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556934&idx=1&sn=c85358efe082e1e8109a68b15b666e1a&chksm=80255b87b752d291a1d288457d4bc8abb776ebbad16216f6ecf62ce208d93a3514352d3473e3#rd) 
