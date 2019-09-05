@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-05 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-06 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-09-05-【第1717期】Nginx入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=1&sn=f92f467cdce332c7bf843e28107c33b8&chksm=bd49441d8a3ecd0b9aa74fad180ba033c4079f6181757862f09c80521f21760c3464729c4b1d#rd) 
 - [2019-07-29-【第1683期】GraphQL-BFF：微服务背景下的前后端数据交互方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233171&idx=1&sn=6f2550d9433dbb75d52d0aa718ef8801&chksm=bd4942178a3ecb016a4fb938f20acbe7481b17929fc8ceeedde0a018e73536badc341421de5e&scene=27#wechat_redirect) 
 - [2019-04-22-【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd) 
 - [2019-03-14-GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd) 

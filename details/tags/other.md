@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-09-05 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-06 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-09-05-【活动】第二届前端艺术家沙龙开启报名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=2&sn=10de521fc5644676cadb48cfb7f636ba&chksm=bd49441d8a3ecd0b1f49dc4782ae8cdeb78e9dfffb02ca49e18d540a2933382e12ccb93591cd#rd) 
 - [2019-09-04-【活动】个推TechDay杭州站：前端开发展望，创新技术落地](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233682&idx=2&sn=04c751ca0f76af2232d47df34df3ed3a&chksm=bd4944168a3ecd00c654c43d249ee105054f47eb7f04eb4caff1e40f3cf12ff865d891ad290b#rd) 
 - [2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect) 
 - [2019-08-28-【第1710期】支付宝移动端-Hybrid-解决方案探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=1&sn=31b1e37a63cc217a6f5f603fe70e839c&chksm=bd4944a28a3ecdb409227518c11dfd6cb5b31b68a1171a591a983aa444f871d01ddf908c410d#rd) 
@@ -258,6 +259,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-09-05-如何设计简洁、直观的前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=2&sn=d504aed881c9d97dcd69be500f30835f&chksm=f9525671ce25df6762fa03f110eb416694265479d6b3ebba1798f83355490ea93347e5e04bee#rd) 
 - [2019-09-04-重磅！Android-10正式发布：具备先进AI能力，支持5G手机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492370&idx=1&sn=0eb3245597ae2d87a346938b6c0a1dbc&chksm=f9525651ce25df4710e605b99944cc543ef1fe03244e07e2c0df8e7a06c148d4382036b765ef#rd) 
 - [2019-09-03-K8s-已经“boring”了？怎么能玩出新花样？|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=3&sn=de5561cbbe5f1384282b82a7a318527f&chksm=f952564bce25df5dcb4e3748323d58bb210fbc51c73115625b309a0ecec352896cb58c68c898#rd) 
 - [2019-08-31-推荐几个技术进阶必看的公众号](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492334&idx=1&sn=f9ccb32eba7e663ba9dab71ca6be6fba&chksm=f95257adce25debb8996bd084dea34aede605e6d6b349fb2e03a33722571b0e9a8fa63d2e005#rd) 
