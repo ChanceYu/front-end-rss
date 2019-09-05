@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【活动】个推TechDay杭州站：前端开发展望，创新技术落地",
@@ -5639,9 +5639,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "一篇漫画带你看懂WebAssembly与所有语言的互操作！",
@@ -8079,6 +8079,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "curl 的用法指南",
+        "link": "http://www.ruanyifeng.com/blog/2019/09/curl-reference.html",
+        "date": "2019-09-05"
+      },
       {
         "title": "React Hooks 入门教程",
         "link": "http://www.ruanyifeng.com/blog/2019/09/react-hooks.html",
