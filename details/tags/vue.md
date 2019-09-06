@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-06 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-06 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -54,6 +54,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2019-09-04-Vue-组件数据通信方案总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557016&idx=1&sn=105f3efbfddeadeee2a88688bea18d14&chksm=80255b59b752d24f5802421a84add281333aea1d2225fa215bf77aad9897cdeb8af08dfa205e#rd) 
 - [2019-08-19-人人都会Vue，你的优势在哪里？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556935&idx=1&sn=56bc631666226c1bc39564c5e184820e&chksm=80255b86b752d2905018c44497b43dff35ebf479fe2f57d3c7c5bb0d883600acad7d8b967ce0#rd) 
 - [2019-08-09-2019-年-Vue-高手特训营](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556886&idx=1&sn=49adfae6c20c7437b0b115aaea371266&chksm=80255bd7b752d2c12e70dab6b90d9f6e6275bb8d621bc4c74fd6fa7ec29af44f026bb732c575#rd) 
 - [2019-07-13-深入浅出-Vue-响应式原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556739&idx=1&sn=22c27be5766f71c4149044a65af7dbe7&chksm=80255c42b752d554fa0ebb8234f70fff3295a6af6962f7e17d917236c29d082307de042781b9&scene=27#wechat_redirect) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-06 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-06 08:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -111,6 +111,8 @@
 - [【前端早读课】2019-09-02-【招聘】杭州涂鸦智能大前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=2&sn=e8a9a3cab7fff79b69e2dd1f116121de&chksm=bd4944f88a3ecdee1c81846588f4cede790012e15436bf2dacc522c0c20b5cfd38d370de2753#rd) 
 - [【前端早读课】2019-09-02-【PPT】Vue.js-团队成员蒋豪群：现代前端框架如何提高你的效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=1&sn=0b1512c429b4c6e90e8d940a457f4b9e&chksm=bd4944f88a3ecdeedc8755eeca383ba8fc9305d697cfba113fe7a2e72f4a1316eeb844029ab3#rd) 
 - [【前端早读课】2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect) 
+- [【前端大全】2019-09-05-十分钟快速了解-JS-中的-offset、scroll、client](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557020&idx=1&sn=55560f2c7e2916baea2672c06cb8b910&chksm=80255b5db752d24b399782f15aa3063a79f5a0a1f499c0140e400b72234044b8974ec4819643#rd) 
+- [【前端大全】2019-09-04-Vue-组件数据通信方案总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557016&idx=1&sn=105f3efbfddeadeee2a88688bea18d14&chksm=80255b59b752d24f5802421a84add281333aea1d2225fa215bf77aad9897cdeb8af08dfa205e#rd) 
 - [【前端大全】2019-09-03-Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=2&sn=3789e7d7b61d5af0309854da40b339d0&chksm=80255b55b752d243339535e24b494481f037101e253c9116120f29fe35033550959b641bf5f6#rd) 
 - [【前端大全】2019-09-03-增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd) 
 - [【前端大全】2019-09-02-面向对象：爱情无非就是用完美的眼光接受不完美的对方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=2&sn=0a27a964d90aad7a6fb8398f70ad0c73&chksm=80255b53b752d2454f6a0686a6887edf694a24042266a36bc412571d1549852e2d3b6c7b5216#rd) 
