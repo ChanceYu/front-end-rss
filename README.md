@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-06 18:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-07 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-09-06-【招聘】阿里-飞猪前端-2020-届校招内推](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd) ![](assets/new.png)  
-- [2019-09-06-【第1718期】前端国际化利器---Intl](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=1&sn=c95de5af0851aca94abd56a752dc071a&chksm=bd4944268a3ecd30ceea40620f389db2a4592fff05dca9c2550502e9e11915ba10266fe89ac3#rd) ![](assets/new.png)  
+- [2019-09-06-【招聘】阿里-飞猪前端-2020-届校招内推](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd)  
+- [2019-09-06-【第1718期】前端国际化利器---Intl](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=1&sn=c95de5af0851aca94abd56a752dc071a&chksm=bd4944268a3ecd30ceea40620f389db2a4592fff05dca9c2550502e9e11915ba10266fe89ac3#rd)  
 - [2019-09-05-【活动】第二届前端艺术家沙龙开启报名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=2&sn=10de521fc5644676cadb48cfb7f636ba&chksm=bd49441d8a3ecd0b1f49dc4782ae8cdeb78e9dfffb02ca49e18d540a2933382e12ccb93591cd#rd)  
 - [2019-09-05-【第1717期】Nginx入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=1&sn=f92f467cdce332c7bf843e28107c33b8&chksm=bd49441d8a3ecd0b9aa74fad180ba033c4079f6181757862f09c80521f21760c3464729c4b1d#rd)  
 - [2019-09-04-【活动】个推TechDay杭州站：前端开发展望，创新技术落地](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233682&idx=2&sn=04c751ca0f76af2232d47df34df3ed3a&chksm=bd4944168a3ecd00c654c43d249ee105054f47eb7f04eb4caff1e40f3cf12ff865d891ad290b#rd)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd) ![](assets/new.png)  
+- [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd) ![](assets/new.png)  
 - [2019-09-05-当网络安全遇到一只猫的“威胁”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=3&sn=1efb4e32c9e73ca01a040d5c754895f1&chksm=f9525671ce25df6739aa22e1a525c327ce4e005a3c8869927b512787bd215ea27db9940016c2#rd)  
 - [2019-09-05-如何设计简洁、直观的前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=2&sn=d504aed881c9d97dcd69be500f30835f&chksm=f9525671ce25df6762fa03f110eb416694265479d6b3ebba1798f83355490ea93347e5e04bee#rd)  
 - [2019-09-04-一篇漫画带你看懂WebAssembly与所有语言的互操作！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492370&idx=2&sn=1c496eb6438ee5202b93c835da426956&chksm=f9525651ce25df475d82c29d322f43a58c01484ac292c94044c9d7f3be55cad9384340884396#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect)  
 - [2019-08-28-前Facebook-工程师：为什么我专注于学习那些“不变”的底层知识](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=2&sn=04dea402d21e22c1e950e0458baf31f2&chksm=f952578ece25de9819b1864c8d5e08377a16efa85d953649ee3fc3ceb284036255e2941d2329#rd)  
 - [2019-08-28-这可能是你见过最完善的微前端解决方案！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=1&sn=3c42b1c89700297e9b304b16a26e415f&chksm=f952578ece25de981614b5a6fa10781e066585c054dc9f315d94cb6d8bc71d6d2c51a3c52e29#rd)  
-- [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect)  
-- [2019-08-27-什么场景下不应该使用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=2&sn=e8ffb773bf8e77fe3c506f0dea650253&chksm=f9525786ce25de9099a996dc0b2ee1abc97e7a3c287565456ab7faf30099561318ab3c520bfe&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
