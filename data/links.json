@@ -3077,9 +3077,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "十分钟快速了解 JS 中的 offset、scroll、client",
@@ -8109,6 +8109,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 72 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html",
+        "date": "2019-09-06"
+      },
       {
         "title": "curl 的用法指南",
         "link": "http://www.ruanyifeng.com/blog/2019/09/curl-reference.html",

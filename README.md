@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-06 08:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-06 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-09-05-十分钟快速了解-JS-中的-offset、scroll、client](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557020&idx=1&sn=55560f2c7e2916baea2672c06cb8b910&chksm=80255b5db752d24b399782f15aa3063a79f5a0a1f499c0140e400b72234044b8974ec4819643#rd) ![](assets/new.png)  
-- [2019-09-04-Vue-组件数据通信方案总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557016&idx=1&sn=105f3efbfddeadeee2a88688bea18d14&chksm=80255b59b752d24f5802421a84add281333aea1d2225fa215bf77aad9897cdeb8af08dfa205e#rd) ![](assets/new.png)  
+- [2019-09-05-十分钟快速了解-JS-中的-offset、scroll、client](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557020&idx=1&sn=55560f2c7e2916baea2672c06cb8b910&chksm=80255b5db752d24b399782f15aa3063a79f5a0a1f499c0140e400b72234044b8974ec4819643#rd)  
+- [2019-09-04-Vue-组件数据通信方案总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557016&idx=1&sn=105f3efbfddeadeee2a88688bea18d14&chksm=80255b59b752d24f5802421a84add281333aea1d2225fa215bf77aad9897cdeb8af08dfa205e#rd)  
 - [2019-09-03-Web-页面录屏实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=2&sn=3789e7d7b61d5af0309854da40b339d0&chksm=80255b55b752d243339535e24b494481f037101e253c9116120f29fe35033550959b641bf5f6#rd)  
 - [2019-09-03-增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd)  
 - [2019-09-02-面向对象：爱情无非就是用完美的眼光接受不完美的对方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=2&sn=0a27a964d90aad7a6fb8398f70ad0c73&chksm=80255b53b752d2454f6a0686a6887edf694a24042266a36bc412571d1549852e2d3b6c7b5216#rd)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-09-06-科技爱好者周刊：第-72-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html) ![](assets/new.png)  
 - [2019-09-05-curl-的用法指南](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html)  
 - [2019-09-01-React-Hooks-入门教程](http://www.ruanyifeng.com/blog/2019/09/react-hooks.html)  
 - [2019-08-30-科技爱好者周刊：第-71-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-71.html)  
@@ -205,7 +206,6 @@
 - [2019-07-12-科技爱好者周刊：第-64-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-64.html)  
 - [2019-07-05-科技爱好者周刊：第-63-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-63.html)  
 - [2019-06-28-科技爱好者周刊：第-62-期](http://www.ruanyifeng.com/blog/2019/06/weekly-issue-62.html)  
-- [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

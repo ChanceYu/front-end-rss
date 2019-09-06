@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-06 08:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-06 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,7 @@
 - [【前端之巅】2019-09-02-TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd) 
 - [【前端之巅】2019-09-02-够了！不要再问React-Hooks是否替代Redux了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=1&sn=0b96de2821f52bc79024ba144b4bbe51&chksm=f95257b9ce25deaf41272b7e73462b62319b6477808c4db35152f55bd9a990ee695afc49800d#rd) 
 - [【前端之巅】2019-09-01-前端周报：W3C-收到-CSS-工作组提案；深入探索-iOS-漏洞利用链；Angular-9-的新特性；](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492339&idx=1&sn=b01d5aa9e8cd52e97e8ffaff317ab400&chksm=f95257b0ce25dea666a632a8f26a28b5b02814b3f44d76689b1cca742fe21ac4f90978774b63#rd) 
+- [【阮一峰的网络日志】2019-09-06-科技爱好者周刊：第-72-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html) 
 - [【阮一峰的网络日志】2019-09-05-curl-的用法指南](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html) 
 - [【阮一峰的网络日志】2019-09-01-React-Hooks-入门教程](http://www.ruanyifeng.com/blog/2019/09/react-hooks.html) 
 
