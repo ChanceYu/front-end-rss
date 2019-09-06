@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【招聘】阿里-飞猪前端 2020 届校招内推",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd",
+        "date": "2019-09-06"
+      },
+      {
+        "title": "【第1718期】前端国际化利器 - Intl",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=1&sn=c95de5af0851aca94abd56a752dc071a&chksm=bd4944268a3ecd30ceea40620f389db2a4592fff05dca9c2550502e9e11915ba10266fe89ac3#rd",
+        "date": "2019-09-06"
+      },
       {
         "title": "【活动】第二届前端艺术家沙龙开启报名",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=2&sn=10de521fc5644676cadb48cfb7f636ba&chksm=bd49441d8a3ecd0b1f49dc4782ae8cdeb78e9dfffb02ca49e18d540a2933382e12ccb93591cd#rd",

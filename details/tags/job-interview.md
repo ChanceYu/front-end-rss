@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-06 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-06 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-09-06-【招聘】阿里-飞猪前端-2020-届校招内推](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd) 
 - [2019-09-02-【招聘】杭州涂鸦智能大前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=2&sn=e8a9a3cab7fff79b69e2dd1f116121de&chksm=bd4944f88a3ecdee1c81846588f4cede790012e15436bf2dacc522c0c20b5cfd38d370de2753#rd) 
 - [2019-08-25-【招聘】上海LeetCode前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=2&sn=749dac90791ff2d9a6b488701cf16e56&chksm=bd4944968a3ecd80e55a87c3df00faba0e49ffeba769e203a1e2f5706a7097ce7dfd83eb6452#rd) 
 - [2019-08-24-【招聘】深圳KLOOK客路旅行招中高级前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=2&sn=64cb2e6f4cc73b0451d18778b7f3fc51&chksm=bd4945668a3ecc70e2303cea1a7ff3d8edfe1092e96caf129ab778a5baec917e8e2448499e4c#rd) 
