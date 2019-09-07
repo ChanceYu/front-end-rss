@@ -9,7 +9,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-07 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-07 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -93,8 +93,10 @@
 </summary>
 
 
-- [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd) ![](assets/new.png)  
-- [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd) ![](assets/new.png)  
+- [2019-09-07-npm沦为金钱工具背后的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=2&sn=25675696a32d274df299ab1ea0fd68b4&chksm=f9525605ce25df13bbb49ce255e9b36a10a34f27554bc3fcd1df8ff12dce270da52718cffed4#rd) ![](assets/new.png)  
+- [2019-09-07-看看这些技术公众号如何评价国内996？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=1&sn=1de6b6fa9a7a9543db392f776cac4f22&chksm=f9525605ce25df13c0e0fd631ddf03942e1d8b677f6e96370c188044726473cc31babb379f09#rd) ![](assets/new.png)  
+- [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd)  
+- [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd)  
 - [2019-09-05-当网络安全遇到一只猫的“威胁”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=3&sn=1efb4e32c9e73ca01a040d5c754895f1&chksm=f9525671ce25df6739aa22e1a525c327ce4e005a3c8869927b512787bd215ea27db9940016c2#rd)  
 - [2019-09-05-如何设计简洁、直观的前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=2&sn=d504aed881c9d97dcd69be500f30835f&chksm=f9525671ce25df6762fa03f110eb416694265479d6b3ebba1798f83355490ea93347e5e04bee#rd)  
 - [2019-09-04-一篇漫画带你看懂WebAssembly与所有语言的互操作！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492370&idx=2&sn=1c496eb6438ee5202b93c835da426956&chksm=f9525651ce25df475d82c29d322f43a58c01484ac292c94044c9d7f3be55cad9384340884396#rd)  
@@ -111,8 +113,6 @@
 - [2019-08-30-喊话框架：Web组件用几行代码也可实现数据绑定](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=1&sn=f30c8ddb5d8f5b521c7be36443f6326a&chksm=f952579cce25de8a264dc9b60e526fa1c1edbe3e339b092865f42fa696978a092c078854b83f#rd)  
 - [2019-08-29-重磅！滴滴跨端框架Chameleon-1.0正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=1&sn=2e2a75fa8d709364e4833cc62a2420e7&chksm=f9525792ce25de84eb5ff55f802bdd21e0795b98fc13de5a5ade80741704725e0425ef770f4a&scene=27#wechat_redirect)  
 - [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect)  
-- [2019-08-28-前Facebook-工程师：为什么我专注于学习那些“不变”的底层知识](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=2&sn=04dea402d21e22c1e950e0458baf31f2&chksm=f952578ece25de9819b1864c8d5e08377a16efa85d953649ee3fc3ceb284036255e2941d2329#rd)  
-- [2019-08-28-这可能是你见过最完善的微前端解决方案！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492301&idx=1&sn=3c42b1c89700297e9b304b16a26e415f&chksm=f952578ece25de981614b5a6fa10781e066585c054dc9f315d94cb6d8bc71d6d2c51a3c52e29#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

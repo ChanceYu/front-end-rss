@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-07 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-07 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -260,6 +260,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-09-07-看看这些技术公众号如何评价国内996？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=1&sn=1de6b6fa9a7a9543db392f776cac4f22&chksm=f9525605ce25df13c0e0fd631ddf03942e1d8b677f6e96370c188044726473cc31babb379f09#rd) 
 - [2019-09-05-如何设计简洁、直观的前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=2&sn=d504aed881c9d97dcd69be500f30835f&chksm=f9525671ce25df6762fa03f110eb416694265479d6b3ebba1798f83355490ea93347e5e04bee#rd) 
 - [2019-09-04-重磅！Android-10正式发布：具备先进AI能力，支持5G手机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492370&idx=1&sn=0eb3245597ae2d87a346938b6c0a1dbc&chksm=f9525651ce25df4710e605b99944cc543ef1fe03244e07e2c0df8e7a06c148d4382036b765ef#rd) 
 - [2019-09-03-K8s-已经“boring”了？怎么能玩出新花样？|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=3&sn=de5561cbbe5f1384282b82a7a318527f&chksm=f952564bce25df5dcb4e3748323d58bb210fbc51c73115625b309a0ecec352896cb58c68c898#rd) 
