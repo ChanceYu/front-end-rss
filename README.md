@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-07 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-07 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-09-07-npm沦为金钱工具背后的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=2&sn=25675696a32d274df299ab1ea0fd68b4&chksm=f9525605ce25df13bbb49ce255e9b36a10a34f27554bc3fcd1df8ff12dce270da52718cffed4#rd) ![](assets/new.png)  
-- [2019-09-07-看看这些技术公众号如何评价国内996？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=1&sn=1de6b6fa9a7a9543db392f776cac4f22&chksm=f9525605ce25df13c0e0fd631ddf03942e1d8b677f6e96370c188044726473cc31babb379f09#rd) ![](assets/new.png)  
+- [2019-09-07-npm沦为金钱工具背后的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=2&sn=25675696a32d274df299ab1ea0fd68b4&chksm=f9525605ce25df13bbb49ce255e9b36a10a34f27554bc3fcd1df8ff12dce270da52718cffed4#rd)  
+- [2019-09-07-看看这些技术公众号如何评价国内996？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=1&sn=1de6b6fa9a7a9543db392f776cac4f22&chksm=f9525605ce25df13c0e0fd631ddf03942e1d8b677f6e96370c188044726473cc31babb379f09#rd)  
 - [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd)  
 - [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd)  
 - [2019-09-05-当网络安全遇到一只猫的“威胁”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=3&sn=1efb4e32c9e73ca01a040d5c754895f1&chksm=f9525671ce25df6739aa22e1a525c327ce4e005a3c8869927b512787bd215ea27db9940016c2#rd)  
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2019-09-07-小tips:-JS-DOM-innerText和textContent的区别](https://www.zhangxinxu.com/wordpress/2019/09/js-dom-innertext-textcontent/) ![](assets/new.png)  
 - [2019-08-30-聊聊JS-DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/)  
 - [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/)  
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
@@ -174,7 +175,6 @@
 - [2019-06-09-第五届CSS大会主题分享之CSS创意与视觉表现](https://www.zhangxinxu.com/wordpress/2019/06/cssconf-css-idea/)  
 - [2019-06-08-更好的纯CSS滚动指示器技术实现](https://www.zhangxinxu.com/wordpress/2019/06/better-css-scroll-indicator/)  
 - [2019-06-07-纯CSS图片滤镜项目CSSgram简介](https://www.zhangxinxu.com/wordpress/2019/06/css-filters-cssgram/)  
-- [2019-06-03-HTML-rel属性值释义大全](https://www.zhangxinxu.com/wordpress/2019/06/html-a-link-rel/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

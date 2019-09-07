@@ -5669,9 +5669,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "npm沦为金钱工具背后的故事",
@@ -7712,6 +7712,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "小tips: JS DOM innerText和textContent的区别",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/09/js-dom-innertext-textcontent/",
+        "date": "2019-09-07"
+      },
       {
         "title": "聊聊JS DOM变化的监听检测与应用",
         "link": "https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/",
