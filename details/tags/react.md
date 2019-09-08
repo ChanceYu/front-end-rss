@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-07 22:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-08 18:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -54,6 +54,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2019-09-06-新手学习-React-迷惑的点完整版](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557025&idx=1&sn=795cbcbb2eeca23b7408b56422579953&chksm=80255b60b752d2768df9c77b81c41d1f6de7c0cf863d997166c5eba3cccb0ed0478a253464a6#rd) 
 - [2019-08-21-详解-React-16-的-Diff-策略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556945&idx=1&sn=51552b34cc9ed8ea18b6751db4fb1e30&chksm=80255b90b752d286e2f4eec39fb787ef4790eb9c541f02e2c0abeaa9965fe76c2ef966a244eb#rd) 
 - [2019-08-20-Deep-In-React之浅谈-React-Fiber-架构一](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556940&idx=1&sn=d40506db3d4d78da9a94ae6c7dc61af6&chksm=80255b8db752d29bbb8edc79eb40ce4122f3fddca121a53a5c3f859259cf4b1d7402ff676a84#rd) 
 - [2019-06-24-React：useHooks小窍门](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556621&idx=1&sn=a8bb700716f31b709b9e285b3b6e06c6#rd) 
