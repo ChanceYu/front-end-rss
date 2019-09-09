@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-09 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-09 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -454,6 +454,8 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html) 
+- [2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html) 
 - [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html) 
 - [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html) 
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html) 
