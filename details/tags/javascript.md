@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-10 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-10 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-09-10-前端面试必考点，ES6你不得不会！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233726&idx=1&sn=ecb44b7793a899ea8c9208ce3c94e5eb&chksm=bd49443a8a3ecd2c51abad965fc18b8bc4a9e3f39e700944755e09db325e32389835c388e277#rd) 
 - [2019-08-27-uni-app-2.2发布，大幅优化H5端性能体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233567&idx=2&sn=aa79bf500addbccec917aa08198cbe80&chksm=bd49449b8a3ecd8da2ffde92bbde47cbef1f7cc8797bc97d0d6c0bea147032b040cf4c46e796#rd) 
 - [2019-08-22-【第1705期】JavaScript中按位操作符的有趣应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233483&idx=1&sn=74d58c3a06d6fd7e5174227561b36412&chksm=bd49454f8a3ecc591ab2996df3b6762c1d15460057fd27f2ea5a330c8f603fc28ead55aae333&scene=27#wechat_redirect) 
 - [2019-08-16-【第1701期】-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=1&sn=b8bdf1ff61883c699358e11a2c08511f&chksm=bd4945c88a3eccde3aeaacbef7fc9fa3f43a8adf5895c1195e276e74b53298368a5b6261d1ef#rd) 
@@ -177,6 +178,8 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2019-09-10-Firefox引入新的JS解释器，编译速度比Chrome快10倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=2&sn=3735d88427f90a4ddade47f5286325ac&chksm=f9525622ce25df34674d89b9ba86416b780afaa553ddd06bc8bcf0823020d9a6d4c08cb2f76d#rd) 
+- [2019-09-10-JavaScript何以跻身最伟大编程语言之列？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=1&sn=f28029a83cdae691925fee2d9fe0891f&chksm=f9525622ce25df3492240cfdd85a6d1c19a59780faf252c78b334dda4e5a0c4a2c65a366aa1d#rd) 
 - [2019-08-30-喊话框架：Web组件用几行代码也可实现数据绑定](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=1&sn=f30c8ddb5d8f5b521c7be36443f6326a&chksm=f952579cce25de8a264dc9b60e526fa1c1edbe3e339b092865f42fa696978a092c078854b83f#rd) 
 - [2019-08-29-微软提出CSS-Modules-V1-：通过import语句将CSS模块导入到组件中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=2&sn=7b5dc375f6b32e1410142d33076e4f10&chksm=f9525792ce25de8473d21b26d3e6db154d3b2da5f8186969213d16354140c1a2c9609a8a5d3c&scene=27#wechat_redirect) 
 - [2019-08-27-Web单线程的终结者：Web-Workers](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=1&sn=dbe2e19c6bfc8c13de59bc83a54c4934&chksm=f9525786ce25de900cae3ac55c762462421bf43863a138297cfea96cad161534d5e022e344a8&scene=27#wechat_redirect) 
