@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-11 12:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-11 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -161,6 +161,7 @@
 - [【阮一峰的网络日志】2019-09-01-React-Hooks-入门教程](http://www.ruanyifeng.com/blog/2019/09/react-hooks.html) 
 - [【前端里】2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html) 
 - [【前端里】2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html) 
+- [【Aotu-|-凹凸实验室】2019-09-11-从程序员角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

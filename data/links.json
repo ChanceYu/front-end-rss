@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【招聘】淘系技术部行业与工作台前端团队招聘啦",
@@ -9135,6 +9135,11 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "从程序员角度去看项目管理",
+        "link": "https://aotu.io/notes/2019/09/11/project-management-of-programmer/",
+        "date": "2019-09-11"
+      },
       {
         "title": "京东 PC 首页 2019 改版前端总结",
         "link": "https://aotu.io/notes/2019/08/26/jdindex_2019/",
