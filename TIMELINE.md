@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-11 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-12 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -132,6 +132,8 @@
 - [【前端大全】2019-09-02-面向对象：爱情无非就是用完美的眼光接受不完美的对方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=2&sn=0a27a964d90aad7a6fb8398f70ad0c73&chksm=80255b53b752d2454f6a0686a6887edf694a24042266a36bc412571d1549852e2d3b6c7b5216#rd) 
 - [【前端大全】2019-09-02-面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd) 
 - [【前端大全】2019-09-01-多图预警，Chrome-浏览器前端调试技巧大揭秘](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557006&idx=1&sn=8ec2bdaecf1e145dcef9435c829cb0b6&chksm=80255b4fb752d2598f1fcf970524de814e86836c6160b581fef9799c6350ab1b8269e1340a9b&scene=27#wechat_redirect) 
+- [【前端之巅】2019-09-11-中文任务全面超-BERT，NLP-无监督预训练模型-ERNIE-真有官方说的那么好？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=3&sn=a1ae8c791b0cc649dd39c9bcda48df96&chksm=f9525635ce25df236ee94422525ecdacf37aedd0d5322343191c7692f5d3ff7933551b70c0a3#rd) 
+- [【前端之巅】2019-09-11-嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=2&sn=b569812be2e6bad250a47af2eec5e6ca&chksm=f9525635ce25df2313870c68c05e95f1fe50096b9d227610bcaab84aac5ddfaca7fffa0ed2b3#rd) 
 - [【前端之巅】2019-09-10-Firefox引入新的JS解释器，编译速度比Chrome快10倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=2&sn=3735d88427f90a4ddade47f5286325ac&chksm=f9525622ce25df34674d89b9ba86416b780afaa553ddd06bc8bcf0823020d9a6d4c08cb2f76d#rd) 
 - [【前端之巅】2019-09-10-JavaScript何以跻身最伟大编程语言之列？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=1&sn=f28029a83cdae691925fee2d9fe0891f&chksm=f9525622ce25df3492240cfdd85a6d1c19a59780faf252c78b334dda4e5a0c4a2c65a366aa1d#rd) 
 - [【前端之巅】2019-09-09-这样使用Node.js压缩PNG图片，效果高达75％](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492441&idx=2&sn=09cf0651ae51432bbf9266f5b1f9944f&chksm=f952561ace25df0c30d3a2c69f48d7b72dfb28b1a0df9c2c8d6ae7eb4dbea5fd6831fe51a6c4#rd) 

@@ -5729,10 +5729,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "中文任务全面超 BERT，NLP 无监督预训练模型 ERNIE 真有官方说的那么好？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=3&sn=a1ae8c791b0cc649dd39c9bcda48df96&chksm=f9525635ce25df236ee94422525ecdacf37aedd0d5322343191c7692f5d3ff7933551b70c0a3#rd",
+        "date": "2019-09-11"
+      },
+      {
+        "title": "嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=2&sn=b569812be2e6bad250a47af2eec5e6ca&chksm=f9525635ce25df2313870c68c05e95f1fe50096b9d227610bcaab84aac5ddfaca7fffa0ed2b3#rd",
+        "date": "2019-09-11"
+      },
       {
         "title": "Firefox引入新的JS解释器，编译速度比Chrome快10倍！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=2&sn=3735d88427f90a4ddade47f5286325ac&chksm=f9525622ce25df34674d89b9ba86416b780afaa553ddd06bc8bcf0823020d9a6d4c08cb2f76d#rd",

@@ -9,19 +9,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-11 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-12 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
 
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-09-11-中文任务全面超-BERT，NLP-无监督预训练模型-ERNIE-真有官方说的那么好？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=3&sn=a1ae8c791b0cc649dd39c9bcda48df96&chksm=f9525635ce25df236ee94422525ecdacf37aedd0d5322343191c7692f5d3ff7933551b70c0a3#rd) ![](assets/new.png)  
+- [2019-09-11-嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=2&sn=b569812be2e6bad250a47af2eec5e6ca&chksm=f9525635ce25df2313870c68c05e95f1fe50096b9d227610bcaab84aac5ddfaca7fffa0ed2b3#rd) ![](assets/new.png)  
 - [2019-09-10-Firefox引入新的JS解释器，编译速度比Chrome快10倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=2&sn=3735d88427f90a4ddade47f5286325ac&chksm=f9525622ce25df34674d89b9ba86416b780afaa553ddd06bc8bcf0823020d9a6d4c08cb2f76d#rd)  
 - [2019-09-10-JavaScript何以跻身最伟大编程语言之列？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=1&sn=f28029a83cdae691925fee2d9fe0891f&chksm=f9525622ce25df3492240cfdd85a6d1c19a59780faf252c78b334dda4e5a0c4a2c65a366aa1d#rd)  
 - [2019-09-09-这样使用Node.js压缩PNG图片，效果高达75％](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492441&idx=2&sn=09cf0651ae51432bbf9266f5b1f9944f&chksm=f952561ace25df0c30d3a2c69f48d7b72dfb28b1a0df9c2c8d6ae7eb4dbea5fd6831fe51a6c4#rd)  
@@ -111,8 +113,6 @@
 - [2019-09-03-京东技术中台的Flutter实践之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=1&sn=126211beb5fd60293ea9ab5bde6acb3e&chksm=f952564bce25df5d6866bbe9b2dca8a3f9b439a19e51ab6557ad892f317be3ff441e892f4720&scene=27#wechat_redirect)  
 - [2019-09-03-K8s-已经“boring”了？怎么能玩出新花样？|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=3&sn=de5561cbbe5f1384282b82a7a318527f&chksm=f952564bce25df5dcb4e3748323d58bb210fbc51c73115625b309a0ecec352896cb58c68c898#rd)  
 - [2019-09-03-十个最流行的前端CSS库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492360&idx=2&sn=5f1e076ffe9446237b71beb39ab242d6&chksm=f952564bce25df5d56d8d9de0785595f5e0e46a277c86e6620b39edb4f7ba933d255c702e9a7#rd)  
-- [2019-09-02-TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd)  
-- [2019-09-02-够了！不要再问React-Hooks是否替代Redux了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=1&sn=0b96de2821f52bc79024ba144b4bbe51&chksm=f95257b9ce25deaf41272b7e73462b62319b6477808c4db35152f55bd9a990ee695afc49800d#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -279,7 +279,7 @@
 </summary>
 
 
-- [2019-09-11-从程序员角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/) ![](assets/new.png)  
+- [2019-09-11-从程序员角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)  
 - [2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)  
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)  
 - [2019-07-01-邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)  
