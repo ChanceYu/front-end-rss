@@ -1,8 +1,8 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
         "title": "【第1722期】京东 PC 首页 2019 改版前端总结",
@@ -3107,10 +3107,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/65",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://www.ershicimi.com/a/65",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "面向对象：斯人若彩虹，遇上方知有",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557052&idx=2&sn=637ea0b4995dd4874927bb7d834cb861&chksm=80255b7db752d26b6d6e2070497508d61b4629f57d5b71af0c150553233b1b15452b0ddfa218#rd",
+        "date": "2019-09-10"
+      },
+      {
+        "title": "Chrome 让人失望，是时候转到 Firefox 或 Edge ？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557052&idx=1&sn=42f89aafbb2d8079f5fb35eb8e0dea2c&chksm=80255b7db752d26b63209b92e885f480aee8062f2eadab9e214cf154006442f5ae1b778cbeed#rd",
+        "date": "2019-09-10"
+      },
       {
         "title": "愿未来没有 Webpack",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557043&idx=2&sn=531feefa5133f279ccae6242ea16e0c0&chksm=80255b72b752d264692bfee6d71ed582cef914c526fc18b5ddcc841cc4f64c07e447dff06a42#rd",
@@ -5709,9 +5719,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "Firefox引入新的JS解释器，编译速度比Chrome快10倍！",
