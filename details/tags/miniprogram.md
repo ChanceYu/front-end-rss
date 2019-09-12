@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-12 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-13 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -38,6 +38,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2019-09-12-从一个团队到一个人，现在的微信小程序，对于开发者来说也许还不够好。](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=3&sn=4146d8cad18d689585d709663061df2a&chksm=f95256c6ce25dfd0fe25394f48031c22cfd7c83983fd7718679d0d34f78029c356fdb74ccaab#rd) 
 - [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd) 
 - [2019-08-29-重磅！滴滴跨端框架Chameleon-1.0正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492305&idx=1&sn=2e2a75fa8d709364e4833cc62a2420e7&chksm=f9525792ce25de84eb5ff55f802bdd21e0795b98fc13de5a5ade80741704725e0425ef770f4a&scene=27#wechat_redirect) 
 - [2019-08-21-号外！Chameleon支持字节跳动小程序啦~](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492219&idx=2&sn=496fb08d97c3566875141971b6a55ef7&chksm=f9525738ce25de2e1202112f045e379ce8ae665f17d13c69c4a07a2bf7038748eacc34a98efe#rd) 

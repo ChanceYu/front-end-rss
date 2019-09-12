@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-12 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-13 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-09-12-【第1724期】用React-Hooks与Web-Animation-API实现动效组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=1&sn=3a81b245d338c71bc67c9c3ed848a8aa&chksm=bd4944488a3ecd5edf85371192d818720ad00d7904a7d437d49376441895cb2f6200d6b6ccbc#rd) 
 - [2019-09-11-【第1723期】不要再问React-Hooks能否取代Redux了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=1&sn=df0fd04d086080835f9adc26b3f6517a&chksm=bd4944408a3ecd56924f6fff6be12a65296cf917e5f304e847606b94c75de514df6ce99eeb5a#rd) 
 - [2019-08-30-【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect) 
 - [2019-08-23-【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect) 
@@ -55,6 +56,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2019-09-12-React高频面试题梳理，看看面试怎么答？（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557067&idx=1&sn=5e16844f36e35300370541e7e36c18c1&chksm=80255b0ab752d21cd8d6378f424fc6bf735c87f16ae58c31b457378b29bd6fd089dae0e3e336#rd) 
 - [2019-09-06-新手学习-React-迷惑的点完整版](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557025&idx=1&sn=795cbcbb2eeca23b7408b56422579953&chksm=80255b60b752d2768df9c77b81c41d1f6de7c0cf863d997166c5eba3cccb0ed0478a253464a6#rd) 
 - [2019-08-21-详解-React-16-的-Diff-策略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556945&idx=1&sn=51552b34cc9ed8ea18b6751db4fb1e30&chksm=80255b90b752d286e2f4eec39fb787ef4790eb9c541f02e2c0abeaa9965fe76c2ef966a244eb#rd) 
 - [2019-08-20-Deep-In-React之浅谈-React-Fiber-架构一](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556940&idx=1&sn=d40506db3d4d78da9a94ae6c7dc61af6&chksm=80255b8db752d29bbb8edc79eb40ce4122f3fddca121a53a5c3f859259cf4b1d7402ff676a84#rd) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-09-12 12:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-13 06:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【前端早读课】【第1724期】用React-Hooks与Web-Animation-API实现动效组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=1&sn=3a81b245d338c71bc67c9c3ed848a8aa&chksm=bd4944488a3ecd5edf85371192d818720ad00d7904a7d437d49376441895cb2f6200d6b6ccbc#rd)
 - [【前端早读课】【第1723期】不要再问React-Hooks能否取代Redux了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=1&sn=df0fd04d086080835f9adc26b3f6517a&chksm=bd4944408a3ecd56924f6fff6be12a65296cf917e5f304e847606b94c75de514df6ce99eeb5a#rd)
 - [【前端早读课】【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect)
 - [【前端早读课】【英】新版-React-DevTools-简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233490&idx=2&sn=75285d66cf8e713903ef4b8a54e96d57&chksm=bd4945568a3ecc40bea249923d253050aefcc7a882e6e5ee16dd30c9536bd971649cf20b47bf&scene=27#wechat_redirect)
@@ -57,7 +58,6 @@
 - [【前端早读课】【第1584期】深入了解React，从Mixin到HOC再到Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232022&idx=2&sn=1314184496c7bb0403c3dd29acea788a#rd)
 - [【前端早读课】【第1581期】-2019-React-Redux-完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232001&idx=1&sn=8b32dd29ea7fe97e828b4eddccb05d3e#rd)
 - [【前端早读课】【第1579期】十个案例学会-React-Hooks](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=1&sn=13ccc5bb2a24ab4110367a893662d043#rd)
-- [【前端早读课】【第1571期】从-React-源代码看-keyPress-与-keyDown-事件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231886&idx=1&sn=177a1cc71b3a94f9d38997aef6cdfedb#rd)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -713,6 +713,7 @@
 
 
 
+- [【前端早读课】【送书】十本书，有你想要的吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=2&sn=018a023a679fbe45568329eaa515c71d&chksm=bd4944488a3ecd5e9b2f50bd945d93edd84dee408ed9e417b02c745c4ce2dcf530d42d59fcc7#rd)
 - [【前端早读课】【第1722期】京东-PC-首页-2019-改版前端总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233726&idx=2&sn=8601095ab1b94ada4a47ee1bdd56a8dd&chksm=bd49443a8a3ecd2ca11d5e6d74a9308643942300819d0d59306082e21be0a41d5954f7a5e347#rd)
 - [【前端早读课】【第1718期】前端国际化利器---Intl](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=1&sn=c95de5af0851aca94abd56a752dc071a&chksm=bd4944268a3ecd30ceea40620f389db2a4592fff05dca9c2550502e9e11915ba10266fe89ac3#rd)
 - [【前端早读课】【活动】第二届前端艺术家沙龙开启报名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=2&sn=10de521fc5644676cadb48cfb7f636ba&chksm=bd49441d8a3ecd0b1f49dc4782ae8cdeb78e9dfffb02ca49e18d540a2933382e12ccb93591cd#rd)
@@ -732,7 +733,6 @@
 - [【前端早读课】【第1692期】在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=1&sn=a5a394ca9f7d440d3e93b2e8f4965d5f&chksm=bd4942598a3ecb4fb071003c5925945b4b3bb285f06e0202cdfbbbe98880132926efcb8553df&scene=27#wechat_redirect)
 - [【前端早读课】【第1690期】精读《Optional-chaining》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd)
 - [【前端早读课】【第1689期】职业思考：技术人需要突破的-10-个困局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=1&sn=e9e2990dbcb54527a331ed3119ff44e8&chksm=bd4942408a3ecb56c3e2b2fd2df24cf545ea66f087512426f7b9a92e71390af3dbba5ef3d53d#rd)
-- [【前端早读课】【第1688期】程序员应该怎样提高自己](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233211&idx=1&sn=b3f49a5f1367829c7de56b0d5223b541&chksm=bd49423f8a3ecb2955b65e863e57d9074fcc7546b6ca464b6d9be3d49107f9182e1f65f28377#rd)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
