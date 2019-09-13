@@ -7848,6 +7848,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS Intl对象完整简介及在中文中的应用",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/09/js-intl-zh/",
+        "date": "2019-09-13"
+      },
+      {
         "title": "快速了解window.name特性与作用",
         "link": "https://www.zhangxinxu.com/wordpress/2019/09/window-name/",
         "date": "2019-09-10"
