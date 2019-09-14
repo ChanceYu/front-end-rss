@@ -9,7 +9,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-14 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-15 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -93,8 +93,10 @@
 </summary>
 
 
-- [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd) ![](assets/new.png)  
-- [2019-09-13-什么是真正的10x工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=1&sn=efb7e795fbefe3bf1ec5e71772736109&chksm=f95256d6ce25dfc0dd8694ace1256e6585e47d8f2047ae888446a1ee9c4c8b14732e4f21f770#rd) ![](assets/new.png)  
+- [2019-09-14-React开发需要熟悉的JavaScript特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=2&sn=0042f9e3645b007bfe586656cf4a1a7f&chksm=f95256dace25dfcc4841b48ba5aabd89ee00e6a8daa0e34b58fbc79732afe528adf9020b9eda#rd) ![](assets/new.png)  
+- [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd) ![](assets/new.png)  
+- [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd)  
+- [2019-09-13-什么是真正的10x工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=1&sn=efb7e795fbefe3bf1ec5e71772736109&chksm=f95256d6ce25dfc0dd8694ace1256e6585e47d8f2047ae888446a1ee9c4c8b14732e4f21f770#rd)  
 - [2019-09-12-从一个团队到一个人，现在的微信小程序，对于开发者来说也许还不够好。](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=3&sn=4146d8cad18d689585d709663061df2a&chksm=f95256c6ce25dfd0fe25394f48031c22cfd7c83983fd7718679d0d34f78029c356fdb74ccaab#rd)  
 - [2019-09-12-选出你最喜欢的专题，瓜分1000元微信红包](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=2&sn=eba71a29eab5a8a0af2613031bafe86b&chksm=f95256c6ce25dfd0f677745c4319fb62bd83fbb178605cf27eab8034e520a79c08b9252b2f3a#rd)  
 - [2019-09-11-中文任务全面超-BERT，NLP-无监督预训练模型-ERNIE-真有官方说的那么好？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=3&sn=a1ae8c791b0cc649dd39c9bcda48df96&chksm=f9525635ce25df236ee94422525ecdacf37aedd0d5322343191c7692f5d3ff7933551b70c0a3#rd)  
@@ -111,8 +113,6 @@
 - [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd)  
 - [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd)  
 - [2019-09-05-当网络安全遇到一只猫的“威胁”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=3&sn=1efb4e32c9e73ca01a040d5c754895f1&chksm=f9525671ce25df6739aa22e1a525c327ce4e005a3c8869927b512787bd215ea27db9940016c2#rd)  
-- [2019-09-05-如何设计简洁、直观的前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=2&sn=d504aed881c9d97dcd69be500f30835f&chksm=f9525671ce25df6762fa03f110eb416694265479d6b3ebba1798f83355490ea93347e5e04bee#rd)  
-- [2019-09-04-一篇漫画带你看懂WebAssembly与所有语言的互操作！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492370&idx=2&sn=1c496eb6438ee5202b93c835da426956&chksm=f9525651ce25df475d82c29d322f43a58c01484ac292c94044c9d7f3be55cad9384340884396#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
