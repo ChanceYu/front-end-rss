@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-15 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-16 08:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,8 @@
 </summary>
 
 
+- [2019-09-09-【第1721期】Element-UI-技术揭秘-—-Layout布局组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-09-【图书】了不起的JavaScript工程师：从前端到全端高级进阶](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=2&sn=a83e3fc6a324d41b33a247046b130d7b&chksm=bd49443e8a3ecd282d4f8b6b790e4a5a25f5d1a5a3f46702f06fa00031b1ee2fb930b0c791dc&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-09-12-【送书】十本书，有你想要的吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=2&sn=018a023a679fbe45568329eaa515c71d&chksm=bd4944488a3ecd5e9b2f50bd945d93edd84dee408ed9e417b02c745c4ce2dcf530d42d59fcc7#rd)  
 - [2019-09-12-【第1724期】用React-Hooks与Web-Animation-API实现动效组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=1&sn=3a81b245d338c71bc67c9c3ed848a8aa&chksm=bd4944488a3ecd5edf85371192d818720ad00d7904a7d437d49376441895cb2f6200d6b6ccbc#rd)  
 - [2019-09-11-【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd)  
@@ -49,8 +51,6 @@
 - [2019-09-02-【PPT】Vue.js-团队成员蒋豪群：现代前端框架如何提高你的效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=1&sn=0b1512c429b4c6e90e8d940a457f4b9e&chksm=bd4944f88a3ecdeedc8755eeca383ba8fc9305d697cfba113fe7a2e72f4a1316eeb844029ab3#rd)  
 - [2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect)  
 - [2019-08-31-【第1713期】腾讯TGideas@花叔：我的小游戏开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd)  
-- [2019-08-30-【第1712期】HTTP协议理解及服务端与客户端的设计实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=1&sn=73d7fe9a02252b0c73494f5618f5ad62&chksm=bd4944b28a3ecda49ffcc366c6309862a7fe3be35f6e9921c237a5be60641e66ea6a7df1eb5d&scene=27#wechat_redirect)  
-- [2019-08-30-【图书】热门跨平台方案对比：WEEX、React-Native、Flutter和PWA](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=2&sn=f5b3f70b6efce30c0a45604d466bdcc7&chksm=bd4944b28a3ecda455cd336939224dc2d5ffa3de6888791d516ac433d24382567b64ed6751b0&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-09-14-React开发需要熟悉的JavaScript特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=2&sn=0042f9e3645b007bfe586656cf4a1a7f&chksm=f95256dace25dfcc4841b48ba5aabd89ee00e6a8daa0e34b58fbc79732afe528adf9020b9eda#rd) ![](assets/new.png)  
-- [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd) ![](assets/new.png)  
+- [2019-09-14-React开发需要熟悉的JavaScript特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=2&sn=0042f9e3645b007bfe586656cf4a1a7f&chksm=f95256dace25dfcc4841b48ba5aabd89ee00e6a8daa0e34b58fbc79732afe528adf9020b9eda#rd)  
+- [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd)  
 - [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd)  
 - [2019-09-13-什么是真正的10x工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=1&sn=efb7e795fbefe3bf1ec5e71772736109&chksm=f95256d6ce25dfc0dd8694ace1256e6585e47d8f2047ae888446a1ee9c4c8b14732e4f21f770#rd)  
 - [2019-09-12-从一个团队到一个人，现在的微信小程序，对于开发者来说也许还不够好。](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=3&sn=4146d8cad18d689585d709663061df2a&chksm=f95256c6ce25dfd0fe25394f48031c22cfd7c83983fd7718679d0d34f78029c356fdb74ccaab#rd)  

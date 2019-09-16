@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1721期】Element-UI 技术揭秘 — Layout布局组件的设计与实现",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect",
+        "date": "2019-09-09"
+      },
+      {
+        "title": "【图书】了不起的JavaScript工程师：从前端到全端高级进阶",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=2&sn=a83e3fc6a324d41b33a247046b130d7b&chksm=bd49443e8a3ecd282d4f8b6b790e4a5a25f5d1a5a3f46702f06fa00031b1ee2fb930b0c791dc&scene=27#wechat_redirect",
+        "date": "2019-09-09"
+      },
+      {
         "title": "【送书】十本书，有你想要的吗？",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=2&sn=018a023a679fbe45568329eaa515c71d&chksm=bd4944488a3ecd5e9b2f50bd945d93edd84dee408ed9e417b02c745c4ce2dcf530d42d59fcc7#rd",
         "date": "2019-09-12"
@@ -5749,9 +5759,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "React开发需要熟悉的JavaScript特性",
