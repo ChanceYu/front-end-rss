@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-16 08:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-17 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-09-09-【第1721期】Element-UI-技术揭秘-—-Layout布局组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-09-【图书】了不起的JavaScript工程师：从前端到全端高级进阶](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=2&sn=a83e3fc6a324d41b33a247046b130d7b&chksm=bd49443e8a3ecd282d4f8b6b790e4a5a25f5d1a5a3f46702f06fa00031b1ee2fb930b0c791dc&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-09-【第1721期】Element-UI-技术揭秘-—-Layout布局组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect)  
+- [2019-09-09-【图书】了不起的JavaScript工程师：从前端到全端高级进阶](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=2&sn=a83e3fc6a324d41b33a247046b130d7b&chksm=bd49443e8a3ecd282d4f8b6b790e4a5a25f5d1a5a3f46702f06fa00031b1ee2fb930b0c791dc&scene=27#wechat_redirect)  
 - [2019-09-12-【送书】十本书，有你想要的吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=2&sn=018a023a679fbe45568329eaa515c71d&chksm=bd4944488a3ecd5e9b2f50bd945d93edd84dee408ed9e417b02c745c4ce2dcf530d42d59fcc7#rd)  
 - [2019-09-12-【第1724期】用React-Hooks与Web-Animation-API实现动效组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=1&sn=3a81b245d338c71bc67c9c3ed848a8aa&chksm=bd4944488a3ecd5edf85371192d818720ad00d7904a7d437d49376441895cb2f6200d6b6ccbc#rd)  
 - [2019-09-11-【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-09-16-CSS如何在幕后工作？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=2&sn=afe905aeb2942aaa506253678fccd322&chksm=f95256ebce25dffd1957cba7ce5e844194b94cbd7f6b24f3d28c3418ec3aa0671c844ef18d3b#rd) ![](assets/new.png)  
+- [2019-09-16-轻量版V8最新优化成果：内存开销平均减少22%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=1&sn=2fa9b506a7a7366aba49e0f83836fd84&chksm=f95256ebce25dffd1efbe32d26f56b1cfd3e91fa10b171263b149b7718fc402cd200ba1428a4#rd) ![](assets/new.png)  
 - [2019-09-14-React开发需要熟悉的JavaScript特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=2&sn=0042f9e3645b007bfe586656cf4a1a7f&chksm=f95256dace25dfcc4841b48ba5aabd89ee00e6a8daa0e34b58fbc79732afe528adf9020b9eda#rd)  
 - [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd)  
 - [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd)  
@@ -111,8 +113,6 @@
 - [2019-09-07-npm沦为金钱工具背后的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=2&sn=25675696a32d274df299ab1ea0fd68b4&chksm=f9525605ce25df13bbb49ce255e9b36a10a34f27554bc3fcd1df8ff12dce270da52718cffed4#rd)  
 - [2019-09-07-看看这些技术公众号如何评价国内996？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=1&sn=1de6b6fa9a7a9543db392f776cac4f22&chksm=f9525605ce25df13c0e0fd631ddf03942e1d8b677f6e96370c188044726473cc31babb379f09#rd)  
 - [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd)  
-- [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd)  
-- [2019-09-05-当网络安全遇到一只猫的“威胁”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=3&sn=1efb4e32c9e73ca01a040d5c754895f1&chksm=f9525671ce25df6739aa22e1a525c327ce4e005a3c8869927b512787bd215ea27db9940016c2#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
