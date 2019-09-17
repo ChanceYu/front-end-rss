@@ -9,7 +9,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-17 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-17 08:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -93,8 +93,10 @@
 </summary>
 
 
-- [2019-09-16-CSS如何在幕后工作？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=2&sn=afe905aeb2942aaa506253678fccd322&chksm=f95256ebce25dffd1957cba7ce5e844194b94cbd7f6b24f3d28c3418ec3aa0671c844ef18d3b#rd) ![](assets/new.png)  
-- [2019-09-16-轻量版V8最新优化成果：内存开销平均减少22%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=1&sn=2fa9b506a7a7366aba49e0f83836fd84&chksm=f95256ebce25dffd1efbe32d26f56b1cfd3e91fa10b171263b149b7718fc402cd200ba1428a4#rd) ![](assets/new.png)  
+- [2019-09-15-前端周报：W3C-首次发布小程序标准化白皮书；Flutter-1.9-正式发布；Chrome-将测试DoH](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492510&idx=1&sn=07578e8bb6e1f98f9e3089f7d57305c2&chksm=f95256ddce25dfcbfe6e38eae0a19af64eb168c446cdbf694682a8cc213f8ba04b780a72af53&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-12-CSS开发人员是干什么的？企业为什么需要这样一个职位？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=1&sn=f07c7e2ad421a42dd14de46163ff701a&chksm=f95256c6ce25dfd0ea624ca2e4713af3056b9c3fd2d4057518aaee6a3123e65f86918ede2ce4&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-16-CSS如何在幕后工作？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=2&sn=afe905aeb2942aaa506253678fccd322&chksm=f95256ebce25dffd1957cba7ce5e844194b94cbd7f6b24f3d28c3418ec3aa0671c844ef18d3b#rd)  
+- [2019-09-16-轻量版V8最新优化成果：内存开销平均减少22%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=1&sn=2fa9b506a7a7366aba49e0f83836fd84&chksm=f95256ebce25dffd1efbe32d26f56b1cfd3e91fa10b171263b149b7718fc402cd200ba1428a4#rd)  
 - [2019-09-14-React开发需要熟悉的JavaScript特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=2&sn=0042f9e3645b007bfe586656cf4a1a7f&chksm=f95256dace25dfcc4841b48ba5aabd89ee00e6a8daa0e34b58fbc79732afe528adf9020b9eda#rd)  
 - [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd)  
 - [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd)  
@@ -111,8 +113,6 @@
 - [2019-09-05-要不要大规模采用Kotlin替代Java？LinkedIn做了这些考量](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492402&idx=1&sn=0db008de8621ddf676ecb6942a26d4dc&chksm=f9525671ce25df67c6d907d7749d1655392d230bf61d57fac021aebcd824bb2782c1e8c12201&scene=27#wechat_redirect)  
 - [2019-09-08-前端周报：Andriod-10-发布；PHP提议创建P++语言；Firefox-69发布；Babel-7.6.0发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492427&idx=1&sn=ceb8294340768817dd2d07296d5c7b20&chksm=f9525608ce25df1eb89cb3a4e7bbf175713bbbf1fc440211d9ead876bb1d5954bf14bee9613d#rd)  
 - [2019-09-07-npm沦为金钱工具背后的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=2&sn=25675696a32d274df299ab1ea0fd68b4&chksm=f9525605ce25df13bbb49ce255e9b36a10a34f27554bc3fcd1df8ff12dce270da52718cffed4#rd)  
-- [2019-09-07-看看这些技术公众号如何评价国内996？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492422&idx=1&sn=1de6b6fa9a7a9543db392f776cac4f22&chksm=f9525605ce25df13c0e0fd631ddf03942e1d8b677f6e96370c188044726473cc31babb379f09#rd)  
-- [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

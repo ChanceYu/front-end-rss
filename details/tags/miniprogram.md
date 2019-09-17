@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-17 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-17 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -38,6 +38,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2019-09-15-前端周报：W3C-首次发布小程序标准化白皮书；Flutter-1.9-正式发布；Chrome-将测试DoH](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492510&idx=1&sn=07578e8bb6e1f98f9e3089f7d57305c2&chksm=f95256ddce25dfcbfe6e38eae0a19af64eb168c446cdbf694682a8cc213f8ba04b780a72af53&scene=27#wechat_redirect) 
 - [2019-09-14-重磅！W3C首次发布小程序标准化白皮书，小程序要实现统一了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492505&idx=1&sn=92399386a4c338b8d825b4c1012c0d75&chksm=f95256dace25dfcc1e0274ce6035ad007f62be0c0dae2c5547a4ce4763827a5feedf7cc60c66#rd) 
 - [2019-09-12-从一个团队到一个人，现在的微信小程序，对于开发者来说也许还不够好。](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=3&sn=4146d8cad18d689585d709663061df2a&chksm=f95256c6ce25dfd0fe25394f48031c22cfd7c83983fd7718679d0d34f78029c356fdb74ccaab#rd) 
 - [2019-09-06-美团梁士兴专访：动态化、小程序、Native、AI的趋势解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=2&sn=8dfe10dbfa0b5c095e062a78f85d8ca3&chksm=f9525602ce25df14632c6ea726d5f4d0c48899f8e2fc5c649e65a2d29d81f9dc8d5b7933e8b0#rd) 

@@ -5759,10 +5759,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "前端周报：W3C 首次发布小程序标准化白皮书；Flutter 1.9 正式发布；Chrome 将测试DoH",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492510&idx=1&sn=07578e8bb6e1f98f9e3089f7d57305c2&chksm=f95256ddce25dfcbfe6e38eae0a19af64eb168c446cdbf694682a8cc213f8ba04b780a72af53&scene=27#wechat_redirect",
+        "date": "2019-09-15"
+      },
+      {
+        "title": "CSS开发人员是干什么的？企业为什么需要这样一个职位？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=1&sn=f07c7e2ad421a42dd14de46163ff701a&chksm=f95256c6ce25dfd0ea624ca2e4713af3056b9c3fd2d4057518aaee6a3123e65f86918ede2ce4&scene=27#wechat_redirect",
+        "date": "2019-09-12"
+      },
       {
         "title": "CSS如何在幕后工作？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=2&sn=afe905aeb2942aaa506253678fccd322&chksm=f95256ebce25dffd1957cba7ce5e844194b94cbd7f6b24f3d28c3418ec3aa0671c844ef18d3b#rd",
