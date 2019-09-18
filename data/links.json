@@ -3137,10 +3137,20 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/65",
+    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
     "title": "前端大全",
-    "link": "https://www.ershicimi.com/a/65",
+    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
     "items": [
+      {
+        "title": "Google 员工吐槽 TypeScript ：类型检查不太好",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd",
+        "date": "2019-09-17"
+      },
+      {
+        "title": "年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=1&sn=6a2db9908e972901e95f415582fdfc7c&chksm=80255b1db752d20bcb98e091c6b170936092dedefd8896d1c3038619e496e62f8e9c63327c01#rd",
+        "date": "2019-09-17"
+      },
       {
         "title": "React高频面试题梳理，看看面试怎么答？（上）",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557067&idx=1&sn=5e16844f36e35300370541e7e36c18c1&chksm=80255b0ab752d21cd8d6378f424fc6bf735c87f16ae58c31b457378b29bd6fd089dae0e3e336#rd",
@@ -5759,9 +5769,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "十大npm最佳安全指南，教你如何避免安全漏洞！",

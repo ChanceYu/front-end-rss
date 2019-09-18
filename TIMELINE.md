@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-18 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-18 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 - [【前端早读课】2019-09-02-【招聘】杭州涂鸦智能大前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=2&sn=e8a9a3cab7fff79b69e2dd1f116121de&chksm=bd4944f88a3ecdee1c81846588f4cede790012e15436bf2dacc522c0c20b5cfd38d370de2753#rd) 
 - [【前端早读课】2019-09-02-【PPT】Vue.js-团队成员蒋豪群：现代前端框架如何提高你的效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=1&sn=0b1512c429b4c6e90e8d940a457f4b9e&chksm=bd4944f88a3ecdeedc8755eeca383ba8fc9305d697cfba113fe7a2e72f4a1316eeb844029ab3#rd) 
 - [【前端早读课】2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect) 
+- [【前端大全】2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd) 
+- [【前端大全】2019-09-17-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=1&sn=6a2db9908e972901e95f415582fdfc7c&chksm=80255b1db752d20bcb98e091c6b170936092dedefd8896d1c3038619e496e62f8e9c63327c01#rd) 
 - [【前端大全】2019-09-12-React高频面试题梳理，看看面试怎么答？（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557067&idx=1&sn=5e16844f36e35300370541e7e36c18c1&chksm=80255b0ab752d21cd8d6378f424fc6bf735c87f16ae58c31b457378b29bd6fd089dae0e3e336#rd) 
 - [【前端大全】2019-09-11-浏览器垃圾回收机制与-Vue-项目内存泄漏场景分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557057&idx=1&sn=3fc52a1998d954e6124dae11f859fe75&chksm=80255b00b752d216450352894c3c35f54691401af65688a789df63c7b74b9401740250463fca#rd) 
 - [【前端大全】2019-09-10-面向对象：斯人若彩虹，遇上方知有](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557052&idx=2&sn=637ea0b4995dd4874927bb7d834cb861&chksm=80255b7db752d26b6d6e2070497508d61b4629f57d5b71af0c150553233b1b15452b0ddfa218#rd) 

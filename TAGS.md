@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-09-18 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-18 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -118,6 +118,7 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd)
 - [【前端大全】增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd)
 - [【前端之巅】TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd)
 - [【前端之巅】什么场景下不应该使用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=2&sn=e8ffb773bf8e77fe3c506f0dea650253&chksm=f9525786ce25de9099a996dc0b2ee1abc97e7a3c287565456ab7faf30099561318ab3c520bfe&scene=27#wechat_redirect)
@@ -129,7 +130,6 @@
 - [【前端之巅】为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect)
 - [【前端之巅】Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect)
 - [【前端之巅】我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect)
-- [【前端之巅】别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
