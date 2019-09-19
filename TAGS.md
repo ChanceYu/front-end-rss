@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-09-19 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-19 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -713,6 +713,8 @@
 
 
 
+- [【前端早读课】【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd)
+- [【前端早读课】2019下半年，前端人员如何快速晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=1&sn=42e2d730c42ca28c7e2db777b21f67ee&chksm=bd4947cd8a3ecedb9f422c6aec42b1c604d3d9b6168746f903113a12e9d89d4d90b6f0c624ed#rd)
 - [【前端早读课】【第1727期】忍者代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=1&sn=2dd76a3fcbaae6d84a48b57071515ccf&chksm=bd49446d8a3ecd7b5bb2e1d0ad16a2ac7f576c52db30f53139bf7772769c8a819b4d7c8dd78a#rd)
 - [【前端早读课】【送书】十本书，有你想要的吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=2&sn=018a023a679fbe45568329eaa515c71d&chksm=bd4944488a3ecd5e9b2f50bd945d93edd84dee408ed9e417b02c745c4ce2dcf530d42d59fcc7#rd)
 - [【前端早读课】【第1722期】京东-PC-首页-2019-改版前端总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233726&idx=2&sn=8601095ab1b94ada4a47ee1bdd56a8dd&chksm=bd49443a8a3ecd2ca11d5e6d74a9308643942300819d0d59306082e21be0a41d5954f7a5e347#rd)
@@ -731,8 +733,6 @@
 - [【前端早读课】【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd)
 - [【前端早读课】【第1700期】体验，不只是用户的！Ant-Design-在蚂蚁中台的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=1&sn=2b076f932c92caa46dde32385efe49c5&chksm=bd4945bc8a3eccaacf0743d6621f238f02d8823329b8fb427dffdccbf1d8ebda81b2807fd6f7#rd)
 - [【前端早读课】重塑前端工作流：Lugia正式版发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=2&sn=3f294ac2e6cdca049f7b58a6207dc420&chksm=bd4945af8a3eccb95c4b8877d5238965ed6e551ba4b6efa15ae7dc40972961a84a65f4b8adb9#rd)
-- [【前端早读课】【第1692期】在框架设计中寻求平衡](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233245&idx=1&sn=a5a394ca9f7d440d3e93b2e8f4965d5f&chksm=bd4942598a3ecb4fb071003c5925945b4b3bb285f06e0202cdfbbbe98880132926efcb8553df&scene=27#wechat_redirect)
-- [【前端早读课】【第1690期】精读《Optional-chaining》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233225&idx=2&sn=fcd835823a339078e5c0dac9435f93c5&chksm=bd49424d8a3ecb5b1f2944a5b73e57a48f4eee0a9e43cba686861d2cd266521e90feff3a49be#rd)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
