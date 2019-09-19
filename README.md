@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-19 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-20 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,8 @@
 </summary>
 
 
-- [2019-09-19-【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd) ![](assets/new.png)  
-- [2019-09-19-2019下半年，前端人员如何快速晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=1&sn=42e2d730c42ca28c7e2db777b21f67ee&chksm=bd4947cd8a3ecedb9f422c6aec42b1c604d3d9b6168746f903113a12e9d89d4d90b6f0c624ed#rd) ![](assets/new.png)  
+- [2019-09-19-【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd)  
+- [2019-09-19-2019下半年，前端人员如何快速晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=1&sn=42e2d730c42ca28c7e2db777b21f67ee&chksm=bd4947cd8a3ecedb9f422c6aec42b1c604d3d9b6168746f903113a12e9d89d4d90b6f0c624ed#rd)  
 - [2019-09-18-【招聘】厦门4399游戏2020届校园招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=2&sn=ecd1cdf9b212793e8f42d58bfbb9ecc7&chksm=bd49446d8a3ecd7b6a4a172c776d7e7521c8c4d2302042df76bc871cb7092a30888ec8b08f8d#rd)  
 - [2019-09-18-【第1727期】忍者代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=1&sn=2dd76a3fcbaae6d84a48b57071515ccf&chksm=bd49446d8a3ecd7b5bb2e1d0ad16a2ac7f576c52db30f53139bf7772769c8a819b4d7c8dd78a#rd)  
 - [2019-09-09-【第1721期】Element-UI-技术揭秘-—-Layout布局组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect)  
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd) ![](assets/new.png)  
+- [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd) ![](assets/new.png)  
 - [2019-09-18-Dart-2.5发布：新增代码补全功能，并提供底层函数调用接口](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=2&sn=0f14dc509433c01207a46472b2254bb2&chksm=f9525689ce25df9fbd0ebf00e79d1659bb5f93d4056ea52a83d6c676b594c32f0924c5168363#rd)  
 - [2019-09-18-JavaScript的未来是模块化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=1&sn=5b4757b12e68b6574d7c749c487f6fac&chksm=f9525689ce25df9fd779f49ae36fc369d390c614c77c31b76077cc2dbd37fa8eed7b46683d01#rd)  
 - [2019-09-17-十大npm最佳安全指南，教你如何避免安全漏洞！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492541&idx=1&sn=d765d9fedf40a6ebfd21893cfbf29856&chksm=f95256fece25dfe82301d1bc46dedd150d4abd35ec1e9c9f8ea6f4f706369522c7820b832357#rd)  
@@ -111,8 +113,6 @@
 - [2019-09-11-嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=2&sn=b569812be2e6bad250a47af2eec5e6ca&chksm=f9525635ce25df2313870c68c05e95f1fe50096b9d227610bcaab84aac5ddfaca7fffa0ed2b3#rd)  
 - [2019-09-10-Firefox引入新的JS解释器，编译速度比Chrome快10倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=2&sn=3735d88427f90a4ddade47f5286325ac&chksm=f9525622ce25df34674d89b9ba86416b780afaa553ddd06bc8bcf0823020d9a6d4c08cb2f76d#rd)  
 - [2019-09-10-JavaScript何以跻身最伟大编程语言之列？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=1&sn=f28029a83cdae691925fee2d9fe0891f&chksm=f9525622ce25df3492240cfdd85a6d1c19a59780faf252c78b334dda4e5a0c4a2c65a366aa1d#rd)  
-- [2019-09-09-这样使用Node.js压缩PNG图片，效果高达75％](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492441&idx=2&sn=09cf0651ae51432bbf9266f5b1f9944f&chksm=f952561ace25df0c30d3a2c69f48d7b72dfb28b1a0df9c2c8d6ae7eb4dbea5fd6831fe51a6c4#rd)  
-- [2019-09-09-SwiftUI对Flutter到底意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492441&idx=1&sn=b3010bc40f48aa0248d5baa8cfc7da5d&chksm=f952561ace25df0cc4338eae049d1e142543840d15349ee65036fbd76898d847b25e164c25b6#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
