@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-20 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-20 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -93,6 +93,7 @@
 </summary>
 
 
+- [2019-09-20-看文吃瓜：React遭遇V8性能崩溃的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=1&sn=f57e867ef4e366f37484317fdc816f62&chksm=f95256aece25dfb8717d115104765de8f14c4fe05a2e6546364813a2519604dd1dde53a4a65d#rd) ![](assets/new.png)  
 - [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd)  
 - [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd)  
 - [2019-09-18-Dart-2.5发布：新增代码补全功能，并提供底层函数调用接口](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=2&sn=0f14dc509433c01207a46472b2254bb2&chksm=f9525689ce25df9fbd0ebf00e79d1659bb5f93d4056ea52a83d6c676b594c32f0924c5168363#rd)  
@@ -112,7 +113,6 @@
 - [2019-09-11-中文任务全面超-BERT，NLP-无监督预训练模型-ERNIE-真有官方说的那么好？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=3&sn=a1ae8c791b0cc649dd39c9bcda48df96&chksm=f9525635ce25df236ee94422525ecdacf37aedd0d5322343191c7692f5d3ff7933551b70c0a3#rd)  
 - [2019-09-11-嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=2&sn=b569812be2e6bad250a47af2eec5e6ca&chksm=f9525635ce25df2313870c68c05e95f1fe50096b9d227610bcaab84aac5ddfaca7fffa0ed2b3#rd)  
 - [2019-09-10-Firefox引入新的JS解释器，编译速度比Chrome快10倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=2&sn=3735d88427f90a4ddade47f5286325ac&chksm=f9525622ce25df34674d89b9ba86416b780afaa553ddd06bc8bcf0823020d9a6d4c08cb2f76d#rd)  
-- [2019-09-10-JavaScript何以跻身最伟大编程语言之列？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492449&idx=1&sn=f28029a83cdae691925fee2d9fe0891f&chksm=f9525622ce25df3492240cfdd85a6d1c19a59780faf252c78b334dda4e5a0c4a2c65a366aa1d#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html) ![](assets/new.png)  
+- [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)  
