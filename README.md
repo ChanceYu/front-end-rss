@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-20 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-20 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -93,8 +93,8 @@
 </summary>
 
 
-- [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd) ![](assets/new.png)  
-- [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd) ![](assets/new.png)  
+- [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd)  
+- [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd)  
 - [2019-09-18-Dart-2.5发布：新增代码补全功能，并提供底层函数调用接口](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=2&sn=0f14dc509433c01207a46472b2254bb2&chksm=f9525689ce25df9fbd0ebf00e79d1659bb5f93d4056ea52a83d6c676b594c32f0924c5168363#rd)  
 - [2019-09-18-JavaScript的未来是模块化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=1&sn=5b4757b12e68b6574d7c749c487f6fac&chksm=f9525689ce25df9fd779f49ae36fc369d390c614c77c31b76077cc2dbd37fa8eed7b46683d01#rd)  
 - [2019-09-17-十大npm最佳安全指南，教你如何避免安全漏洞！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492541&idx=1&sn=d765d9fedf40a6ebfd21893cfbf29856&chksm=f95256fece25dfe82301d1bc46dedd150d4abd35ec1e9c9f8ea6f4f706369522c7820b832357#rd)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html) ![](assets/new.png)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)  
@@ -205,7 +206,6 @@
 - [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)  
 - [2019-07-23-Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)  
 - [2019-07-19-科技爱好者周刊：第-65-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-65.html)  
-- [2019-07-15-iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

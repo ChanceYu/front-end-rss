@@ -5789,9 +5789,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "前端微服务在字节跳动的落地之路",
@@ -8404,6 +8404,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 74 期",
+        "link": "http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html",
+        "date": "2019-09-20"
+      },
       {
         "title": "科技爱好者周刊：第 73 期",
         "link": "http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html",
