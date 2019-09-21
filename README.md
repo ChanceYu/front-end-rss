@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-20 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-21 22:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-09-20-前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=2&sn=4989a2ee5537273b1259d19a2c6e9989&chksm=80255b2db752d23ba788b1be36b08ec5810e383f9cc5824dbe9ee0edf05ce23a411031460ca1#rd) ![](assets/new.png)  
+- [2019-09-20-2019-前端开发者进阶指南.pdf](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=1&sn=9cbbcccab6d15aac513dcd89134e34d8&chksm=80255b2db752d23b2bd9ab02c123f69acead3be0ded497189c03ce8577d1869d7eceb20e273e#rd) ![](assets/new.png)  
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd)  
 - [2019-09-17-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=1&sn=6a2db9908e972901e95f415582fdfc7c&chksm=80255b1db752d20bcb98e091c6b170936092dedefd8896d1c3038619e496e62f8e9c63327c01#rd)  
 - [2019-09-12-React高频面试题梳理，看看面试怎么答？（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557067&idx=1&sn=5e16844f36e35300370541e7e36c18c1&chksm=80255b0ab752d21cd8d6378f424fc6bf735c87f16ae58c31b457378b29bd6fd089dae0e3e336#rd)  
@@ -80,8 +82,6 @@
 - [2019-09-02-面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd)  
 - [2019-09-01-多图预警，Chrome-浏览器前端调试技巧大揭秘](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557006&idx=1&sn=8ec2bdaecf1e145dcef9435c829cb0b6&chksm=80255b4fb752d2598f1fcf970524de814e86836c6160b581fef9799c6350ab1b8269e1340a9b&scene=27#wechat_redirect)  
 - [2019-08-31-JavaScript-Errors-指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557002&idx=1&sn=d558d730ba688968017cb74cb3340ec3&chksm=80255b4bb752d25de1c95bd752405e309b31fbebac061349c057efe4642a8d1b2824b2914f46&scene=27#wechat_redirect)  
-- [2019-08-31-面向对象：一个人不孤独，两个人不孤单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557002&idx=2&sn=4fa1fd46ad99e2cc18b6c44cc827b1a5&chksm=80255b4bb752d25d815cb6dfba120a0d5c276b7778e8e4338eb80614db6e8d7af15f395befe9&scene=27#wechat_redirect)  
-- [2019-08-30-28-道-JavaScript-面试题，看看能错几道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556995&idx=1&sn=21488cff5d36077e11712ba50f746a92&chksm=80255b42b752d254297a89c04cb5d863ce0353ec53b687fc0385dcf7d7337961e669403b2c66&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2019-09-20-看文吃瓜：React遭遇V8性能崩溃的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=1&sn=f57e867ef4e366f37484317fdc816f62&chksm=f95256aece25dfb8717d115104765de8f14c4fe05a2e6546364813a2519604dd1dde53a4a65d#rd) ![](assets/new.png)  
+- [2019-09-20-看文吃瓜：React遭遇V8性能崩溃的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=1&sn=f57e867ef4e366f37484317fdc816f62&chksm=f95256aece25dfb8717d115104765de8f14c4fe05a2e6546364813a2519604dd1dde53a4a65d#rd)  
 - [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd)  
 - [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd)  
 - [2019-09-18-Dart-2.5发布：新增代码补全功能，并提供底层函数调用接口](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=2&sn=0f14dc509433c01207a46472b2254bb2&chksm=f9525689ce25df9fbd0ebf00e79d1659bb5f93d4056ea52a83d6c676b594c32f0924c5168363#rd)  
