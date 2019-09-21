@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-21 22:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-22 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-09-21-【招聘】上海拼多多社招资深前端／2020校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=2&sn=e31273670522a99e6ca915c00322e30e&chksm=bd4947de8a3ecec89b8fe6b306d1b87d703055bad4d13e705049a4b61d768f4be1447ff85348#rd) 
 - [2019-09-11-【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd) 
 - [2019-09-08-【招聘】网易云音乐招高级／资深前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=2&sn=b505d9b363ec4ae908c61ff0ef367d6e&chksm=bd49443d8a3ecd2b24240cb2f2532f033c73c9f8dec4e847eac951cc99e718711d6812a30d3e#rd) 
 - [2019-09-06-【招聘】阿里-飞猪前端-2020-届校招内推](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd) 
