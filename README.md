@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-22 06:00:18，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-22 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,8 +31,10 @@
 </summary>
 
 
-- [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd) ![](assets/new.png)  
-- [2019-09-21-【招聘】上海拼多多社招资深前端／2020校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=2&sn=e31273670522a99e6ca915c00322e30e&chksm=bd4947de8a3ecec89b8fe6b306d1b87d703055bad4d13e705049a4b61d768f4be1447ff85348#rd) ![](assets/new.png)  
+- [2019-09-22-【第1730期】把网站升级到http/2](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=1&sn=9625c3f1f913816b17a4f18499e6d8e0&chksm=bd4947d98a3ececfc3537b8699d1f08cabc7acaebeb014e84a9a72a4976e7248ca12328544c2#rd) ![](assets/new.png)  
+- [2019-09-22-【招聘】北京字节跳动招高级前端开发工程师-教育方向](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=2&sn=884eaa31e5b2b8a02e7657b43e4bf9f5&chksm=bd4947d98a3ececfe06479c0269125cfeac0cb05b59622520945b501db42f1cdda9e6476794f#rd) ![](assets/new.png)  
+- [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd)  
+- [2019-09-21-【招聘】上海拼多多社招资深前端／2020校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=2&sn=e31273670522a99e6ca915c00322e30e&chksm=bd4947de8a3ecec89b8fe6b306d1b87d703055bad4d13e705049a4b61d768f4be1447ff85348#rd)  
 - [2019-09-19-【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd)  
 - [2019-09-19-2019下半年，前端人员如何快速晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=1&sn=42e2d730c42ca28c7e2db777b21f67ee&chksm=bd4947cd8a3ecedb9f422c6aec42b1c604d3d9b6168746f903113a12e9d89d4d90b6f0c624ed#rd)  
 - [2019-09-18-【招聘】厦门4399游戏2020届校园招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=2&sn=ecd1cdf9b212793e8f42d58bfbb9ecc7&chksm=bd49446d8a3ecd7b6a4a172c776d7e7521c8c4d2302042df76bc871cb7092a30888ec8b08f8d#rd)  
@@ -49,8 +51,6 @@
 - [2019-09-08-【第1720期】走进小程序·云开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=1&sn=0f929caf843c2244aa3d920b39ab4082&chksm=bd49443d8a3ecd2b05849c7813500ad3bf67a8014d4451808a97414b1be459b459547ebbc2ab#rd)  
 - [2019-09-06-【招聘】阿里-飞猪前端-2020-届校招内推](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd)  
 - [2019-09-06-【第1718期】前端国际化利器---Intl](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=1&sn=c95de5af0851aca94abd56a752dc071a&chksm=bd4944268a3ecd30ceea40620f389db2a4592fff05dca9c2550502e9e11915ba10266fe89ac3#rd)  
-- [2019-09-05-【活动】第二届前端艺术家沙龙开启报名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=2&sn=10de521fc5644676cadb48cfb7f636ba&chksm=bd49441d8a3ecd0b1f49dc4782ae8cdeb78e9dfffb02ca49e18d540a2933382e12ccb93591cd#rd)  
-- [2019-09-05-【第1717期】Nginx入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=1&sn=f92f467cdce332c7bf843e28107c33b8&chksm=bd49441d8a3ecd0b9aa74fad180ba033c4079f6181757862f09c80521f21760c3464729c4b1d#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-09-21-JS-服务器推送技术-WebSocket-入门指北](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=1&sn=36599423629375269901ff6062f55daf&chksm=80255b30b752d226be470a064298991e86b3a888591735130078f00d93142f07380c705c4783#rd) ![](assets/new.png)  
-- [2019-09-21-面向对象：一切刚刚好，我在找你，你在等我](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=2&sn=9ecb80502a6a841cba146ff97bded987&chksm=80255b30b752d226cfdbd2df63091ab52f5e8e7ea68f3cb8a645cbc7b32cfd04114f7e149c26#rd) ![](assets/new.png)  
+- [2019-09-21-JS-服务器推送技术-WebSocket-入门指北](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=1&sn=36599423629375269901ff6062f55daf&chksm=80255b30b752d226be470a064298991e86b3a888591735130078f00d93142f07380c705c4783#rd)  
+- [2019-09-21-面向对象：一切刚刚好，我在找你，你在等我](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=2&sn=9ecb80502a6a841cba146ff97bded987&chksm=80255b30b752d226cfdbd2df63091ab52f5e8e7ea68f3cb8a645cbc7b32cfd04114f7e149c26#rd)  
 - [2019-09-20-前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=2&sn=4989a2ee5537273b1259d19a2c6e9989&chksm=80255b2db752d23ba788b1be36b08ec5810e383f9cc5824dbe9ee0edf05ce23a411031460ca1#rd)  
 - [2019-09-20-2019-前端开发者进阶指南.pdf](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=1&sn=9cbbcccab6d15aac513dcd89134e34d8&chksm=80255b2db752d23b2bd9ab02c123f69acead3be0ded497189c03ce8577d1869d7eceb20e273e#rd)  
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd)  
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2019-09-20-商业化场景中，如何以大前端视角提升流量变现效率？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=2&sn=bbb490160b0ea6eb48bc34111134ae46&chksm=f95256aece25dfb854bb8215323812152797873aef7c95fba3866efb00aa82732ed4cff96119#rd) ![](assets/new.png)  
+- [2019-09-20-商业化场景中，如何以大前端视角提升流量变现效率？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=2&sn=bbb490160b0ea6eb48bc34111134ae46&chksm=f95256aece25dfb854bb8215323812152797873aef7c95fba3866efb00aa82732ed4cff96119#rd)  
 - [2019-09-20-看文吃瓜：React遭遇V8性能崩溃的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=1&sn=f57e867ef4e366f37484317fdc816f62&chksm=f95256aece25dfb8717d115104765de8f14c4fe05a2e6546364813a2519604dd1dde53a4a65d#rd)  
 - [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd)  
 - [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd)  
