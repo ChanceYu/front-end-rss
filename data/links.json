@@ -1,9 +1,19 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+    "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
-    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
+    "link": "https://www.ershicimi.com/a/5760",
     "items": [
+      {
+        "title": "前端工程师：掌握了 Node.js 就等于全栈？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=1&sn=dde1db24251638b504816fc457758c97&chksm=bd4947c88a3ecede807c4afa337380e24f2be52f232cf74e67290564a8fe02e84f72c4350347&scene=27#wechat_redirect",
+        "date": "2019-09-20"
+      },
+      {
+        "title": "【第1728期】每日优鲜供应链前端团队微前端改造",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=2&sn=f88c1934032f8e6b71c7f2fde477915f&chksm=bd4947c88a3ecede94466365a725e9696302151c7fae30ff7f635eb3491a78425219f2c585d2&scene=27#wechat_redirect",
+        "date": "2019-09-20"
+      },
       {
         "title": "【第1731期】Faster than faster——RN新架构中的JavaScript Interface",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233887&idx=1&sn=3e0a58f9ff7b9bdee4f2a33e85aa2377&chksm=bd4947db8a3ececd62c55e23b05b95e2a807a23efffada16fb7459e26470d45379fc8c6a1668#rd",

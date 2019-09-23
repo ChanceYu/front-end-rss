@@ -9,7 +9,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-23 18:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-23 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,9 @@
 </summary>
 
 
-- [2019-09-23-【第1731期】Faster-than-faster——RN新架构中的JavaScript-Interface](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233887&idx=1&sn=3e0a58f9ff7b9bdee4f2a33e85aa2377&chksm=bd4947db8a3ececd62c55e23b05b95e2a807a23efffada16fb7459e26470d45379fc8c6a1668#rd) ![](assets/new.png)  
+- [2019-09-20-前端工程师：掌握了-Node.js-就等于全栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=1&sn=dde1db24251638b504816fc457758c97&chksm=bd4947c88a3ecede807c4afa337380e24f2be52f232cf74e67290564a8fe02e84f72c4350347&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-20-【第1728期】每日优鲜供应链前端团队微前端改造](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=2&sn=f88c1934032f8e6b71c7f2fde477915f&chksm=bd4947c88a3ecede94466365a725e9696302151c7fae30ff7f635eb3491a78425219f2c585d2&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-23-【第1731期】Faster-than-faster——RN新架构中的JavaScript-Interface](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233887&idx=1&sn=3e0a58f9ff7b9bdee4f2a33e85aa2377&chksm=bd4947db8a3ececd62c55e23b05b95e2a807a23efffada16fb7459e26470d45379fc8c6a1668#rd)  
 - [2019-09-22-【第1730期】把网站升级到http/2](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=1&sn=9625c3f1f913816b17a4f18499e6d8e0&chksm=bd4947d98a3ececfc3537b8699d1f08cabc7acaebeb014e84a9a72a4976e7248ca12328544c2#rd)  
 - [2019-09-22-【招聘】北京字节跳动招高级前端开发工程师-教育方向](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=2&sn=884eaa31e5b2b8a02e7657b43e4bf9f5&chksm=bd4947d98a3ececfe06479c0269125cfeac0cb05b59622520945b501db42f1cdda9e6476794f#rd)  
 - [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd)  
@@ -49,8 +51,6 @@
 - [2019-09-10-【第1722期】京东-PC-首页-2019-改版前端总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233726&idx=2&sn=8601095ab1b94ada4a47ee1bdd56a8dd&chksm=bd49443a8a3ecd2ca11d5e6d74a9308643942300819d0d59306082e21be0a41d5954f7a5e347#rd)  
 - [2019-09-10-前端面试必考点，ES6你不得不会！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233726&idx=1&sn=ecb44b7793a899ea8c9208ce3c94e5eb&chksm=bd49443a8a3ecd2c51abad965fc18b8bc4a9e3f39e700944755e09db325e32389835c388e277#rd)  
 - [2019-09-08-【招聘】网易云音乐招高级／资深前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=2&sn=b505d9b363ec4ae908c61ff0ef367d6e&chksm=bd49443d8a3ecd2b24240cb2f2532f033c73c9f8dec4e847eac951cc99e718711d6812a30d3e#rd)  
-- [2019-09-08-【第1720期】走进小程序·云开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=1&sn=0f929caf843c2244aa3d920b39ab4082&chksm=bd49443d8a3ecd2b05849c7813500ad3bf67a8014d4451808a97414b1be459b459547ebbc2ab#rd)  
-- [2019-09-06-【招聘】阿里-飞猪前端-2020-届校招内推](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233698&idx=2&sn=fd1f456aa6360912c8a28b92edb4fc98&chksm=bd4944268a3ecd301b5a1b33634c7f576134155b48547f92637341920fd2a0956279d81662e6#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
