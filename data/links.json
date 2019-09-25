@@ -3202,9 +3202,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+    "rss": "https://rsshub.app/wechat/ershicimi/65",
     "title": "前端大全",
-    "link": "https://wemp.app/accounts/b68c584d-dba9-431d-8575-5138cff4a815/",
+    "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
         "title": "年薪不到21.6万退全款 | 廖雪峰的“Web 全栈架构师”开班了！",
@@ -5864,10 +5864,15 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
     "title": "前端之巅",
-    "link": "https://www.ershicimi.com/a/154",
+    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
     "items": [
+      {
+        "title": "深度解读当代前端架构进化史，下一个趋势在哪？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd",
+        "date": "2019-09-25"
+      },
       {
         "title": "全面了解B站开源明星项目IJKPlayer",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=2&sn=460e639c9484b94a69adb32b11c3ef76&chksm=f95256bdce25dfab9534ead913444c1af75100d3cc54ac4fe5bb646af3566b6701da590f0d75#rd",

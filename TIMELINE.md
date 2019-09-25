@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-25 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-26 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -159,6 +159,7 @@
 - [【前端大全】2019-09-02-面向对象：爱情无非就是用完美的眼光接受不完美的对方](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=2&sn=0a27a964d90aad7a6fb8398f70ad0c73&chksm=80255b53b752d2454f6a0686a6887edf694a24042266a36bc412571d1549852e2d3b6c7b5216#rd) 
 - [【前端大全】2019-09-02-面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd) 
 - [【前端大全】2019-09-01-多图预警，Chrome-浏览器前端调试技巧大揭秘](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557006&idx=1&sn=8ec2bdaecf1e145dcef9435c829cb0b6&chksm=80255b4fb752d2598f1fcf970524de814e86836c6160b581fef9799c6350ab1b8269e1340a9b&scene=27#wechat_redirect) 
+- [【前端之巅】2019-09-25-深度解读当代前端架构进化史，下一个趋势在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd) 
 - [【前端之巅】2019-09-24-全面了解B站开源明星项目IJKPlayer](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=2&sn=460e639c9484b94a69adb32b11c3ef76&chksm=f95256bdce25dfab9534ead913444c1af75100d3cc54ac4fe5bb646af3566b6701da590f0d75#rd) 
 - [【前端之巅】2019-09-24-我开发了一个SwiftUI库，将CSS引入iOS开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=1&sn=ca968c7643f20f69a9449b61d6c19686&chksm=f95256bdce25dfabd63a39d49878e4ccb8b44e7d9cec78134dd77d52e1131a5e5bdc6d1fd017#rd) 
 - [【前端之巅】2019-09-20-商业化场景中，如何以大前端视角提升流量变现效率？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=2&sn=bbb490160b0ea6eb48bc34111134ae46&chksm=f95256aece25dfb854bb8215323812152797873aef7c95fba3866efb00aa82732ed4cff96119#rd) 

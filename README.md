@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-25 12:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-26 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-09-25-年薪不到21.6万退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=1&sn=7ac643093f1c031d18e1a36766c02b22&chksm=80255ac8b752d3de8b04cb1e6d4f5e908a17843f6254ba883675796c2414ff007915c5268ead#rd) ![](assets/new.png)  
-- [2019-09-25-JS-引擎-V8-如何与-Lite-模式两开花？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=2&sn=05755bc2ccdc0545217df10cd1bb3852&chksm=80255ac8b752d3dee36d5b409390459095b6c5ddcd8eccf5e8ca6dbdf74485cd22cc15af2c6c#rd) ![](assets/new.png)  
+- [2019-09-25-年薪不到21.6万退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=1&sn=7ac643093f1c031d18e1a36766c02b22&chksm=80255ac8b752d3de8b04cb1e6d4f5e908a17843f6254ba883675796c2414ff007915c5268ead#rd)  
+- [2019-09-25-JS-引擎-V8-如何与-Lite-模式两开花？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=2&sn=05755bc2ccdc0545217df10cd1bb3852&chksm=80255ac8b752d3dee36d5b409390459095b6c5ddcd8eccf5e8ca6dbdf74485cd22cc15af2c6c#rd)  
 - [2019-09-21-JS-服务器推送技术-WebSocket-入门指北](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=1&sn=36599423629375269901ff6062f55daf&chksm=80255b30b752d226be470a064298991e86b3a888591735130078f00d93142f07380c705c4783#rd)  
 - [2019-09-21-面向对象：一切刚刚好，我在找你，你在等我](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=2&sn=9ecb80502a6a841cba146ff97bded987&chksm=80255b30b752d226cfdbd2df63091ab52f5e8e7ea68f3cb8a645cbc7b32cfd04114f7e149c26#rd)  
 - [2019-09-20-前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=2&sn=4989a2ee5537273b1259d19a2c6e9989&chksm=80255b2db752d23ba788b1be36b08ec5810e383f9cc5824dbe9ee0edf05ce23a411031460ca1#rd)  
@@ -93,6 +93,7 @@
 </summary>
 
 
+- [2019-09-25-深度解读当代前端架构进化史，下一个趋势在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd) ![](assets/new.png)  
 - [2019-09-24-全面了解B站开源明星项目IJKPlayer](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=2&sn=460e639c9484b94a69adb32b11c3ef76&chksm=f95256bdce25dfab9534ead913444c1af75100d3cc54ac4fe5bb646af3566b6701da590f0d75#rd)  
 - [2019-09-24-我开发了一个SwiftUI库，将CSS引入iOS开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=1&sn=ca968c7643f20f69a9449b61d6c19686&chksm=f95256bdce25dfabd63a39d49878e4ccb8b44e7d9cec78134dd77d52e1131a5e5bdc6d1fd017#rd)  
 - [2019-09-20-商业化场景中，如何以大前端视角提升流量变现效率？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=2&sn=bbb490160b0ea6eb48bc34111134ae46&chksm=f95256aece25dfb854bb8215323812152797873aef7c95fba3866efb00aa82732ed4cff96119#rd)  
@@ -112,7 +113,6 @@
 - [2019-09-13-谜之WXS，uni-app如何用它大幅提升性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=2&sn=585a50ad1ec2ba083bc370b0767bdd64&chksm=f95256d6ce25dfc092a4c4d1b273c83de7749fa2bc363d73be6acba974e064009eb64dd743a8#rd)  
 - [2019-09-13-什么是真正的10x工程师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492501&idx=1&sn=efb7e795fbefe3bf1ec5e71772736109&chksm=f95256d6ce25dfc0dd8694ace1256e6585e47d8f2047ae888446a1ee9c4c8b14732e4f21f770#rd)  
 - [2019-09-12-从一个团队到一个人，现在的微信小程序，对于开发者来说也许还不够好。](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=3&sn=4146d8cad18d689585d709663061df2a&chksm=f95256c6ce25dfd0fe25394f48031c22cfd7c83983fd7718679d0d34f78029c356fdb74ccaab#rd)  
-- [2019-09-12-选出你最喜欢的专题，瓜分1000元微信红包](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=2&sn=eba71a29eab5a8a0af2613031bafe86b&chksm=f95256c6ce25dfd0f677745c4319fb62bd83fbb178605cf27eab8034e520a79c08b9252b2f3a#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
