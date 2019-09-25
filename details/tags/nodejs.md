@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-25 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-25 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -20,6 +20,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2019-09-25-JS-引擎-V8-如何与-Lite-模式两开花？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=2&sn=05755bc2ccdc0545217df10cd1bb3852&chksm=80255ac8b752d3dee36d5b409390459095b6c5ddcd8eccf5e8ca6dbdf74485cd22cc15af2c6c#rd) 
 - [2019-08-05-想用Node.js，老板不同意？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556866&idx=1&sn=b5af62483ad4a1f468c48ae24d97c9c4&chksm=80255bc3b752d2d5f0f3c9f3d17df3aebb21a50e714971d112c2d107b3c77c22833c4e6dda20#rd) 
 - [2019-05-22-Node.js-微服务实践二](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556424&idx=2&sn=bc52c75b077a9cc5d4f2c4f48fb778ec#rd) 
 - [2019-05-09-Node-12-值得关注的新特性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556386&idx=1&sn=6ca10d0ea644a8de6e564be25d5b2063#rd) 

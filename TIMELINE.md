@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-25 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-25 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,8 @@
 - [【前端早读课】2019-09-02-【招聘】杭州涂鸦智能大前端团队招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=2&sn=e8a9a3cab7fff79b69e2dd1f116121de&chksm=bd4944f88a3ecdee1c81846588f4cede790012e15436bf2dacc522c0c20b5cfd38d370de2753#rd) 
 - [【前端早读课】2019-09-02-【PPT】Vue.js-团队成员蒋豪群：现代前端框架如何提高你的效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=1&sn=0b1512c429b4c6e90e8d940a457f4b9e&chksm=bd4944f88a3ecdeedc8755eeca383ba8fc9305d697cfba113fe7a2e72f4a1316eeb844029ab3#rd) 
 - [【前端早读课】2019-09-01-【第1714期】冲冠一怒为代码：论程序员与负能量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233656&idx=1&sn=bc5b3135d505e6a5f38d49e04774f895&chksm=bd4944fc8a3ecdead294582741f45545eea1491d7f348b60d1b89ba55e0a74b31434c9e6a3be&scene=27#wechat_redirect) 
+- [【前端大全】2019-09-25-年薪不到21.6万退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=1&sn=7ac643093f1c031d18e1a36766c02b22&chksm=80255ac8b752d3de8b04cb1e6d4f5e908a17843f6254ba883675796c2414ff007915c5268ead#rd) 
+- [【前端大全】2019-09-25-JS-引擎-V8-如何与-Lite-模式两开花？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=2&sn=05755bc2ccdc0545217df10cd1bb3852&chksm=80255ac8b752d3dee36d5b409390459095b6c5ddcd8eccf5e8ca6dbdf74485cd22cc15af2c6c#rd) 
 - [【前端大全】2019-09-21-JS-服务器推送技术-WebSocket-入门指北](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=1&sn=36599423629375269901ff6062f55daf&chksm=80255b30b752d226be470a064298991e86b3a888591735130078f00d93142f07380c705c4783#rd) 
 - [【前端大全】2019-09-21-面向对象：一切刚刚好，我在找你，你在等我](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=2&sn=9ecb80502a6a841cba146ff97bded987&chksm=80255b30b752d226cfdbd2df63091ab52f5e8e7ea68f3cb8a645cbc7b32cfd04114f7e149c26#rd) 
 - [【前端大全】2019-09-20-前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=2&sn=4989a2ee5537273b1259d19a2c6e9989&chksm=80255b2db752d23ba788b1be36b08ec5810e383f9cc5824dbe9ee0edf05ce23a411031460ca1#rd) 
