@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-26 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-09-26 08:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 </summary>
 
 
+- [【前端早读课】2019-09-25-【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd) 
 - [【前端早读课】2019-09-24-拿不到offer退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=1&sn=e2d6a9948ecb222c990bf174083a83c5&chksm=bd4947ec8a3ecefae24de24645f27dcb3559767969fb774785deb5e11576887e0199f2ca7269#rd) 
 - [【前端早读课】2019-09-24-【第1732期】Google-官方-如何去做code-review](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=2&sn=b5071874c2775a02d26139ff79a3e4c5&chksm=bd4947ec8a3ecefaf917172f17b0397a45e4ad6229dc8fcac3cdd096e769ec54c8485836380d#rd) 
 - [【前端早读课】2019-09-20-前端工程师：掌握了-Node.js-就等于全栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=1&sn=dde1db24251638b504816fc457758c97&chksm=bd4947c88a3ecede807c4afa337380e24f2be52f232cf74e67290564a8fe02e84f72c4350347&scene=27#wechat_redirect) 

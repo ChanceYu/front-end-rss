@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-09-26 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-26 08:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -713,6 +713,7 @@
 
 
 
+- [【前端早读课】【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd)
 - [【前端早读课】【第1728期】每日优鲜供应链前端团队微前端改造](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=2&sn=f88c1934032f8e6b71c7f2fde477915f&chksm=bd4947c88a3ecede94466365a725e9696302151c7fae30ff7f635eb3491a78425219f2c585d2&scene=27#wechat_redirect)
 - [【前端早读课】【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd)
 - [【前端早读课】【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd)
@@ -732,7 +733,6 @@
 - [【前端早读课】阿里-P7-前端技术专家，都需要掌握哪些技术栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=1&sn=2228f525902e2e535c30036186af4ea4&chksm=bd4945158a3ecc032f722cbc6c239e9b721e478370ae99d9dbbd32e25d6771f77c93698ed76c&scene=27#wechat_redirect)
 - [【前端早读课】【第1704期】Visual-Studio-Code在工程方面的亮点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=2&sn=14a31791a706a70e6e9afc747c3b7849&chksm=bd4945158a3ecc039a63a074f9887ba54c1eaf3e6b3e6c3fbc5603295c03a10397095e795bbc#rd)
 - [【前端早读课】【英】初级、中级和高级开发人员之间的差异](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233356&idx=2&sn=7687ae3b785c5bfe3dabd21ef547f58f&chksm=bd4945c88a3eccde0ffdd41e42673c57e45642be7b413991374e2d415e4f9666cf39e498ebfa#rd)
-- [【前端早读课】【图书】别让前端工程师只写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233336&idx=2&sn=e8b647d95eda97e73d30f34ab91ece92&chksm=bd4945bc8a3eccaa3bf3f70a9a5d41884f21d5bcd47ff970f2b9ae9c6dd52efcbd9dfab9cf5d#rd)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

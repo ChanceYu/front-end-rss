@@ -1,9 +1,14 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
     "title": "前端早读课",
-    "link": "https://www.ershicimi.com/a/5760",
+    "link": "https://wemp.app/accounts/5a7a4f48-a16c-450e-aff7-f78112ab2801/",
     "items": [
+      {
+        "title": "【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd",
+        "date": "2019-09-25"
+      },
       {
         "title": "拿不到offer退全款 | 廖雪峰的“Web 全栈架构师”开班了！",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=1&sn=e2d6a9948ecb222c990bf174083a83c5&chksm=bd4947ec8a3ecefae24de24645f27dcb3559767969fb774785deb5e11576887e0199f2ca7269#rd",
@@ -5864,9 +5869,9 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
-    "link": "https://wemp.app/accounts/f7d61496-c89b-466d-a272-8e62d1c459dd/",
+    "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
         "title": "深度解读当代前端架构进化史，下一个趋势在哪？",

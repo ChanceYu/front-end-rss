@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-09-26 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-26 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-09-25-【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd) 
 - [2019-09-20-【第1728期】每日优鲜供应链前端团队微前端改造](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=2&sn=f88c1934032f8e6b71c7f2fde477915f&chksm=bd4947c88a3ecede94466365a725e9696302151c7fae30ff7f635eb3491a78425219f2c585d2&scene=27#wechat_redirect) 
 - [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd) 
 - [2019-09-19-【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd) 

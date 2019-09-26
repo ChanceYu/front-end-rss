@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-26 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-26 08:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -31,6 +31,7 @@
 </summary>
 
 
+- [2019-09-25-【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd) ![](assets/new.png)  
 - [2019-09-24-拿不到offer退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=1&sn=e2d6a9948ecb222c990bf174083a83c5&chksm=bd4947ec8a3ecefae24de24645f27dcb3559767969fb774785deb5e11576887e0199f2ca7269#rd)  
 - [2019-09-24-【第1732期】Google-官方-如何去做code-review](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=2&sn=b5071874c2775a02d26139ff79a3e4c5&chksm=bd4947ec8a3ecefaf917172f17b0397a45e4ad6229dc8fcac3cdd096e769ec54c8485836380d#rd)  
 - [2019-09-20-前端工程师：掌握了-Node.js-就等于全栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=1&sn=dde1db24251638b504816fc457758c97&chksm=bd4947c88a3ecede807c4afa337380e24f2be52f232cf74e67290564a8fe02e84f72c4350347&scene=27#wechat_redirect)  
@@ -50,7 +51,6 @@
 - [2019-09-12-【第1724期】用React-Hooks与Web-Animation-API实现动效组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=1&sn=3a81b245d338c71bc67c9c3ed848a8aa&chksm=bd4944488a3ecd5edf85371192d818720ad00d7904a7d437d49376441895cb2f6200d6b6ccbc#rd)  
 - [2019-09-11-【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd)  
 - [2019-09-11-【第1723期】不要再问React-Hooks能否取代Redux了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=1&sn=df0fd04d086080835f9adc26b3f6517a&chksm=bd4944408a3ecd56924f6fff6be12a65296cf917e5f304e847606b94c75de514df6ce99eeb5a#rd)  
-- [2019-09-10-【第1722期】京东-PC-首页-2019-改版前端总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233726&idx=2&sn=8601095ab1b94ada4a47ee1bdd56a8dd&chksm=bd49443a8a3ecd2ca11d5e6d74a9308643942300819d0d59306082e21be0a41d5954f7a5e347#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2019-09-25-深度解读当代前端架构进化史，下一个趋势在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd) ![](assets/new.png)  
+- [2019-09-25-深度解读当代前端架构进化史，下一个趋势在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd)  
 - [2019-09-24-全面了解B站开源明星项目IJKPlayer](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=2&sn=460e639c9484b94a69adb32b11c3ef76&chksm=f95256bdce25dfab9534ead913444c1af75100d3cc54ac4fe5bb646af3566b6701da590f0d75#rd)  
 - [2019-09-24-我开发了一个SwiftUI库，将CSS引入iOS开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=1&sn=ca968c7643f20f69a9449b61d6c19686&chksm=f95256bdce25dfabd63a39d49878e4ccb8b44e7d9cec78134dd77d52e1131a5e5bdc6d1fd017#rd)  
 - [2019-09-20-商业化场景中，如何以大前端视角提升流量变现效率？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=2&sn=bbb490160b0ea6eb48bc34111134ae46&chksm=f95256aece25dfb854bb8215323812152797873aef7c95fba3866efb00aa82732ed4cff96119#rd)  
