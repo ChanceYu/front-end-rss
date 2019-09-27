@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-27 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-28 06:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,6 +31,10 @@
 </summary>
 
 
+- [2019-09-27-【第1734期】Serverless—前端的3.0时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=1&sn=8b85cdbd88b126d6e78b0383eae29eaa&chksm=bd4947338a3ece250628345cb7598855d934bfbb984064bd78347c697a1828284016e1c69e19&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-27-无广告互联网与网络货币化（Web-Monetization）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=2&sn=1911e8f1b84f70b8b3e5887cb526e6b6&chksm=bd4947338a3ece25266ea83b334413e52b9fd9bc3f605ffda2dffaee0f8efc595486763b15e0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-26-【第1733期】Element-UI-技术揭秘-—-Container布局容器组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=1&sn=221de5a027730e1ac96bbe860dec8aec&chksm=bd49472d8a3ece3bbfb39389e27149b5454ecb47add1f69e4edb9ea449f76cd3cc0e57ab0682&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-26-【图书】CSS选择器世界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=2&sn=b86d57c8d3f6dd6fec23f307ca46b534&chksm=bd49472d8a3ece3b543fa24c890b04077a72cab40e9d647ea22c596e23ddc6a47c9aaab213a4&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-09-25-【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd)  
 - [2019-09-24-拿不到offer退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=1&sn=e2d6a9948ecb222c990bf174083a83c5&chksm=bd4947ec8a3ecefae24de24645f27dcb3559767969fb774785deb5e11576887e0199f2ca7269#rd)  
 - [2019-09-24-【第1732期】Google-官方-如何去做code-review](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=2&sn=b5071874c2775a02d26139ff79a3e4c5&chksm=bd4947ec8a3ecefaf917172f17b0397a45e4ad6229dc8fcac3cdd096e769ec54c8485836380d#rd)  
@@ -47,10 +51,6 @@
 - [2019-09-18-【第1727期】忍者代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=1&sn=2dd76a3fcbaae6d84a48b57071515ccf&chksm=bd49446d8a3ecd7b5bb2e1d0ad16a2ac7f576c52db30f53139bf7772769c8a819b4d7c8dd78a#rd)  
 - [2019-09-09-【第1721期】Element-UI-技术揭秘-—-Layout布局组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect)  
 - [2019-09-09-【图书】了不起的JavaScript工程师：从前端到全端高级进阶](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=2&sn=a83e3fc6a324d41b33a247046b130d7b&chksm=bd49443e8a3ecd282d4f8b6b790e4a5a25f5d1a5a3f46702f06fa00031b1ee2fb930b0c791dc&scene=27#wechat_redirect)  
-- [2019-09-12-【送书】十本书，有你想要的吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=2&sn=018a023a679fbe45568329eaa515c71d&chksm=bd4944488a3ecd5e9b2f50bd945d93edd84dee408ed9e417b02c745c4ce2dcf530d42d59fcc7#rd)  
-- [2019-09-12-【第1724期】用React-Hooks与Web-Animation-API实现动效组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233740&idx=1&sn=3a81b245d338c71bc67c9c3ed848a8aa&chksm=bd4944488a3ecd5edf85371192d818720ad00d7904a7d437d49376441895cb2f6200d6b6ccbc#rd)  
-- [2019-09-11-【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd)  
-- [2019-09-11-【第1723期】不要再问React-Hooks能否取代Redux了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=1&sn=df0fd04d086080835f9adc26b3f6517a&chksm=bd4944408a3ecd56924f6fff6be12a65296cf917e5f304e847606b94c75de514df6ce99eeb5a#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html) ![](assets/new.png)  
+- [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  

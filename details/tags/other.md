@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-09-27 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-28 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-09-27-无广告互联网与网络货币化（Web-Monetization）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=2&sn=1911e8f1b84f70b8b3e5887cb526e6b6&chksm=bd4947338a3ece25266ea83b334413e52b9fd9bc3f605ffda2dffaee0f8efc595486763b15e0&scene=27#wechat_redirect) 
 - [2019-09-25-【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd) 
 - [2019-09-20-【第1728期】每日优鲜供应链前端团队微前端改造](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=2&sn=f88c1934032f8e6b71c7f2fde477915f&chksm=bd4947c88a3ecede94466365a725e9696302151c7fae30ff7f635eb3491a78425219f2c585d2&scene=27#wechat_redirect) 
 - [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd) 
