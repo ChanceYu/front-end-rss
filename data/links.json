@@ -8123,6 +8123,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "浏览器IMG图片原生懒加载loading=”lazy”实践指南",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/",
+        "date": "2019-09-30"
+      },
+      {
         "title": "小tips: 元素focus页面不滚动不定位的JS处理",
         "link": "https://www.zhangxinxu.com/wordpress/2019/09/js-focus-preventscroll/",
         "date": "2019-09-19"
