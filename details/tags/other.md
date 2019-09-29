@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-28 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-29 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -171,6 +171,11 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-09-28-非常全面的前端协作规范](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557148&idx=1&sn=d1e92c7a529fdbe12ca62b364d0de402&chksm=80255addb752d3cbff037f319b560cd2da60919a5b5dbcbd5ee7e6d3c9c0156a9d3c726cf9fe&scene=27#wechat_redirect) 
+- [2019-09-27-做笔记的心得分享](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557146&idx=1&sn=1870597af8d3429dcd2de329889188fa&chksm=80255adbb752d3cd0e4da2a08885258b2f8973ccac5a341a16041710ca59ff0f3519df3475f7&scene=27#wechat_redirect) 
+- [2019-09-26-耗时1个月整理，全套日语学习速成资源，今！天！免！费！送！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557145&idx=1&sn=7f1604e130158a2470bf73a39447d759&chksm=80255ad8b752d3ce18ae1e42bd7fee0ebc756e94c076d31967dfb24a152fe0acda64cd2ae174&scene=27#wechat_redirect) 
+- [2019-09-24-Array.from-五个超好用的用途](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557125&idx=1&sn=81112ce318e9bbf4bd61ee28d17a7988&chksm=80255ac4b752d3d2e2f50e8f58068d6657761ecb6c0c89a1bc2121889497727e60c65027d662&scene=27#wechat_redirect) 
+- [2019-09-22-透过现象看本质:-常见的前端架构风格和案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557114&idx=1&sn=f281488b0eccac15f15a1f80859f2f98&chksm=80255b3bb752d22d8892469b7c0e8f99d0abf3c231f048ef50e777fc77dd18e478e17b1ac6cc&scene=27#wechat_redirect) 
 - [2019-09-20-2019-前端开发者进阶指南.pdf](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=1&sn=9cbbcccab6d15aac513dcd89134e34d8&chksm=80255b2db752d23b2bd9ab02c123f69acead3be0ded497189c03ce8577d1869d7eceb20e273e#rd) 
 - [2019-09-17-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=1&sn=6a2db9908e972901e95f415582fdfc7c&chksm=80255b1db752d20bcb98e091c6b170936092dedefd8896d1c3038619e496e62f8e9c63327c01#rd) 
 - [2019-09-09-为什么那些连Bug都修复不利索的人，却可以跳槽进入BAT大厂？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557043&idx=1&sn=9e585727c14b45a458fd2d9edd653f19&chksm=80255b72b752d2645dfd893420a44c9ab1718f14c46cbe445211daff2ab71ea6b9acc18adffe#rd) 
