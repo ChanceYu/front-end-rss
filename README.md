@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-30 06:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-09-30 08:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -31,6 +31,13 @@
 </summary>
 
 
+- [2019-09-30-【第1737期】在-UC-做的前端工程化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=1&sn=1056b656d8449ab0611d64861a838dc7&chksm=bd4946e28a3ecff491dbb76d3767404715111a2a5f4ae618081bdd808069bc7f2cb9e4783137&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-30-【PPT】umi架构、生态和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=2&sn=5853f049c88c3f8a02541d293b59f1c7&chksm=bd4946e28a3ecff464a165d80134999c8bfde0d6fcb5218890afa4bdb68b1def76f02021be0f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-30-【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-29-金九银十，前端人如何抢占先机，高薪晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234052&idx=1&sn=65269871cac3140e40a6930f4b4ffe93&chksm=bd4946808a3ecf964ae1a5140ea8839449ddba6e4edf757cf97e7aac3bc6ed6e8a2487bfc695&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-29-【第1736期】现代-JavaScript-教程---代码风格](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234052&idx=2&sn=049d5a83c7538e27b986cede1c4d9375&chksm=bd4946808a3ecf967321b784c9024656dacd37c8a5efe8c329a6a8a3133e420f3a66d0318093&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-28-【第1735期】蚂蚁金服Node.js-基础服务---摸爬滚打才不负功名尘土](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233982&idx=1&sn=de17c2e5f1c23405b645c8b1ec3eaf9e&chksm=bd49473a8a3ece2c85909a89f8d3ab2aaaeb79244421d36c3cc1c6d1b30de6a3ced88730ec43&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-28-所有加密算法及对称加密和非对称加密分类](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233982&idx=2&sn=a9c823721a9f758dfafe904fbcc0413a&chksm=bd49473a8a3ece2ca3775aa2c0821081d35f46bf8908a550cc300311858cc8b8f8f60ad72833&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-09-27-【第1734期】Serverless—前端的3.0时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=1&sn=8b85cdbd88b126d6e78b0383eae29eaa&chksm=bd4947338a3ece250628345cb7598855d934bfbb984064bd78347c697a1828284016e1c69e19&scene=27#wechat_redirect)  
 - [2019-09-27-无广告互联网与网络货币化（Web-Monetization）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=2&sn=1911e8f1b84f70b8b3e5887cb526e6b6&chksm=bd4947338a3ece25266ea83b334413e52b9fd9bc3f605ffda2dffaee0f8efc595486763b15e0&scene=27#wechat_redirect)  
 - [2019-09-26-【第1733期】Element-UI-技术揭秘-—-Container布局容器组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=1&sn=221de5a027730e1ac96bbe860dec8aec&chksm=bd49472d8a3ece3bbfb39389e27149b5454ecb47add1f69e4edb9ea449f76cd3cc0e57ab0682&scene=27#wechat_redirect)  
@@ -44,13 +51,6 @@
 - [2019-09-22-【第1730期】把网站升级到http/2](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=1&sn=9625c3f1f913816b17a4f18499e6d8e0&chksm=bd4947d98a3ececfc3537b8699d1f08cabc7acaebeb014e84a9a72a4976e7248ca12328544c2#rd)  
 - [2019-09-22-【招聘】北京字节跳动招高级前端开发工程师-教育方向](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=2&sn=884eaa31e5b2b8a02e7657b43e4bf9f5&chksm=bd4947d98a3ececfe06479c0269125cfeac0cb05b59622520945b501db42f1cdda9e6476794f#rd)  
 - [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd)  
-- [2019-09-21-【招聘】上海拼多多社招资深前端／2020校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=2&sn=e31273670522a99e6ca915c00322e30e&chksm=bd4947de8a3ecec89b8fe6b306d1b87d703055bad4d13e705049a4b61d768f4be1447ff85348#rd)  
-- [2019-09-19-【PPT】快手前端架构师@俞天翔：从网页到应用---所经历的前端发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=2&sn=ada224be814abd51272a6d96ba005476&chksm=bd4947cd8a3ecedb6c9f78b9d06ad54cae5f3e26d938a9f4dbcd2c27f059614ac193ac9ffd52#rd)  
-- [2019-09-19-2019下半年，前端人员如何快速晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233865&idx=1&sn=42e2d730c42ca28c7e2db777b21f67ee&chksm=bd4947cd8a3ecedb9f422c6aec42b1c604d3d9b6168746f903113a12e9d89d4d90b6f0c624ed#rd)  
-- [2019-09-18-【招聘】厦门4399游戏2020届校园招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=2&sn=ecd1cdf9b212793e8f42d58bfbb9ecc7&chksm=bd49446d8a3ecd7b6a4a172c776d7e7521c8c4d2302042df76bc871cb7092a30888ec8b08f8d#rd)  
-- [2019-09-18-【第1727期】忍者代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=1&sn=2dd76a3fcbaae6d84a48b57071515ccf&chksm=bd49446d8a3ecd7b5bb2e1d0ad16a2ac7f576c52db30f53139bf7772769c8a819b4d7c8dd78a#rd)  
-- [2019-09-09-【第1721期】Element-UI-技术揭秘-—-Layout布局组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=1&sn=3c5834e59ae2b86d50f3f5875dc4f0f3&chksm=bd49443e8a3ecd28c1ec007ccebcba095acd30cd2fadded14e450254ef31085a1552d96e6dc0&scene=27#wechat_redirect)  
-- [2019-09-09-【图书】了不起的JavaScript工程师：从前端到全端高级进阶](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233722&idx=2&sn=a83e3fc6a324d41b33a247046b130d7b&chksm=bd49443e8a3ecd282d4f8b6b790e4a5a25f5d1a5a3f46702f06fa00031b1ee2fb930b0c791dc&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) ![](assets/new.png)  
+- [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/)  
 - [2019-09-19-小tips:-元素focus页面不滚动不定位的JS处理](https://www.zhangxinxu.com/wordpress/2019/09/js-focus-preventscroll/)  
 - [2019-09-13-JS-Intl对象完整简介及在中文中的应用](https://www.zhangxinxu.com/wordpress/2019/09/js-intl-zh/)  
 - [2019-09-10-快速了解window.name特性与作用](https://www.zhangxinxu.com/wordpress/2019/09/window-name/)  
