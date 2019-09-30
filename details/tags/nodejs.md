@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-09-30 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-09-30 22:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,6 +35,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2019-09-29-前端周报：W3C公布9月战略要点；微软Python教程登GitHub榜首；V8发布v7.8版本](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492643&idx=1&sn=ca70d5731ffa3fafc50bcd84fcbc7653&chksm=f9525160ce25d876b8c9d3b4ace00a1068b1436cdff8b2ef7a15f5ee87eb5e502f1ef2f2f910&scene=27#wechat_redirect) 
 - [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd) 
 - [2019-09-16-轻量版V8最新优化成果：内存开销平均减少22%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492520&idx=1&sn=2fa9b506a7a7366aba49e0f83836fd84&chksm=f95256ebce25dffd1efbe32d26f56b1cfd3e91fa10b171263b149b7718fc402cd200ba1428a4#rd) 
 - [2019-09-09-这样使用Node.js压缩PNG图片，效果高达75％](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492441&idx=2&sn=09cf0651ae51432bbf9266f5b1f9944f&chksm=f952561ace25df0c30d3a2c69f48d7b72dfb28b1a0df9c2c8d6ae7eb4dbea5fd6831fe51a6c4#rd) 
