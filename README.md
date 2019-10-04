@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-09-30 22:00:24，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-04 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-09-30-一看就懂之-webpack-高级配置与优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557158&idx=1&sn=37b5709e442840d03391049fccebedbb&chksm=80255ae7b752d3f1a37ca753aeeacdde8502d525e86f5ae1b0fbb2a780c3c4e627a16fbc05b0&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-29-从零开始手写-redux](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557150&idx=1&sn=bc7407a19ec5afc8a42d5222845181dd&chksm=80255adfb752d3c90ba6b45cb24f918072f9be22b3c9f8df6db339877267da3cb8eb2a89439b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-30-一看就懂之-webpack-高级配置与优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557158&idx=1&sn=37b5709e442840d03391049fccebedbb&chksm=80255ae7b752d3f1a37ca753aeeacdde8502d525e86f5ae1b0fbb2a780c3c4e627a16fbc05b0&scene=27#wechat_redirect)  
+- [2019-09-29-从零开始手写-redux](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557150&idx=1&sn=bc7407a19ec5afc8a42d5222845181dd&chksm=80255adfb752d3c90ba6b45cb24f918072f9be22b3c9f8df6db339877267da3cb8eb2a89439b&scene=27#wechat_redirect)  
 - [2019-09-28-非常全面的前端协作规范](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557148&idx=1&sn=d1e92c7a529fdbe12ca62b364d0de402&chksm=80255addb752d3cbff037f319b560cd2da60919a5b5dbcbd5ee7e6d3c9c0156a9d3c726cf9fe&scene=27#wechat_redirect)  
 - [2019-09-27-做笔记的心得分享](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557146&idx=1&sn=1870597af8d3429dcd2de329889188fa&chksm=80255adbb752d3cd0e4da2a08885258b2f8973ccac5a341a16041710ca59ff0f3519df3475f7&scene=27#wechat_redirect)  
 - [2019-09-26-耗时1个月整理，全套日语学习速成资源，今！天！免！费！送！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557145&idx=1&sn=7f1604e130158a2470bf73a39447d759&chksm=80255ad8b752d3ce18ae1e42bd7fee0ebc756e94c076d31967dfb24a152fe0acda64cd2ae174&scene=27#wechat_redirect)  
@@ -93,13 +93,13 @@
 </summary>
 
 
-- [2019-09-30-前端领域不需要架构师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492647&idx=1&sn=1dc2f92aae291850f00620603f8ae03f&chksm=f9525164ce25d87205b9ceba2ec0ff92353eb1770687575f359377d92343738b7deda25c4727&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-29-前端周报：W3C公布9月战略要点；微软Python教程登GitHub榜首；V8发布v7.8版本](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492643&idx=1&sn=ca70d5731ffa3fafc50bcd84fcbc7653&chksm=f9525160ce25d876b8c9d3b4ace00a1068b1436cdff8b2ef7a15f5ee87eb5e502f1ef2f2f910&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-27-玩转GitHub-Actions-，简化npm发布流程](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=1&sn=76f06facfbf1918be3ef728a85bcfa62&chksm=f9525159ce25d84f0bdf8c931a821cbcbfa466c3a8110ff8ccc06da8de881760a117096ed553&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-27-蚂蚁财富Flutter工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=2&sn=d8f36501bb77910f06f9ff38d4eddd75&chksm=f9525159ce25d84fe6cf067611c31707c466ee5fcfa4064e74691b2d4e65436cb9bf01c15b6a&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-26-京东：将Flutter扩展到微信小程序端的探索](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=1&sn=e9ad06c38917d03ae1a3eb35631e3e4f&chksm=f952514cce25d85acf4d0c7104a38fcb2ae92bc40a742e8f1452c13ecb12d3cf41e067107666&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-26-关于渐进式Web应用，你需要了解的所有事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=2&sn=cb82c8ba454c1addc8585ce4dfd98bfc&chksm=f952514cce25d85a6a43c325c875b42638d1e87570e2328f0d6a11ea15ed20023f24dae034c6&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-09-26-程序员到CTO——大咖修炼手册-|-福利](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=3&sn=593ebe2635371c68db6ae9d91dc72506&chksm=f952514cce25d85a2b29f9a0b992acd534f5fb82da0ee5bc4b4a1c18fcd37049d8bb014e91a0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-09-30-前端领域不需要架构师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492647&idx=1&sn=1dc2f92aae291850f00620603f8ae03f&chksm=f9525164ce25d87205b9ceba2ec0ff92353eb1770687575f359377d92343738b7deda25c4727&scene=27#wechat_redirect)  
+- [2019-09-29-前端周报：W3C公布9月战略要点；微软Python教程登GitHub榜首；V8发布v7.8版本](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492643&idx=1&sn=ca70d5731ffa3fafc50bcd84fcbc7653&chksm=f9525160ce25d876b8c9d3b4ace00a1068b1436cdff8b2ef7a15f5ee87eb5e502f1ef2f2f910&scene=27#wechat_redirect)  
+- [2019-09-27-玩转GitHub-Actions-，简化npm发布流程](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=1&sn=76f06facfbf1918be3ef728a85bcfa62&chksm=f9525159ce25d84f0bdf8c931a821cbcbfa466c3a8110ff8ccc06da8de881760a117096ed553&scene=27#wechat_redirect)  
+- [2019-09-27-蚂蚁财富Flutter工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=2&sn=d8f36501bb77910f06f9ff38d4eddd75&chksm=f9525159ce25d84fe6cf067611c31707c466ee5fcfa4064e74691b2d4e65436cb9bf01c15b6a&scene=27#wechat_redirect)  
+- [2019-09-26-京东：将Flutter扩展到微信小程序端的探索](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=1&sn=e9ad06c38917d03ae1a3eb35631e3e4f&chksm=f952514cce25d85acf4d0c7104a38fcb2ae92bc40a742e8f1452c13ecb12d3cf41e067107666&scene=27#wechat_redirect)  
+- [2019-09-26-关于渐进式Web应用，你需要了解的所有事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=2&sn=cb82c8ba454c1addc8585ce4dfd98bfc&chksm=f952514cce25d85a6a43c325c875b42638d1e87570e2328f0d6a11ea15ed20023f24dae034c6&scene=27#wechat_redirect)  
+- [2019-09-26-程序员到CTO——大咖修炼手册-|-福利](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=3&sn=593ebe2635371c68db6ae9d91dc72506&chksm=f952514cce25d85a2b29f9a0b992acd534f5fb82da0ee5bc4b4a1c18fcd37049d8bb014e91a0&scene=27#wechat_redirect)  
 - [2019-09-25-深度解读当代前端架构进化史，下一个趋势在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd)  
 - [2019-09-24-全面了解B站开源明星项目IJKPlayer](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=2&sn=460e639c9484b94a69adb32b11c3ef76&chksm=f95256bdce25dfab9534ead913444c1af75100d3cc54ac4fe5bb646af3566b6701da590f0d75#rd)  
 - [2019-09-24-我开发了一个SwiftUI库，将CSS引入iOS开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=1&sn=ca968c7643f20f69a9449b61d6c19686&chksm=f95256bdce25dfabd63a39d49878e4ccb8b44e7d9cec78134dd77d52e1131a5e5bdc6d1fd017#rd)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html) ![](assets/new.png)  
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
@@ -205,7 +206,6 @@
 - [2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html)  
 - [2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html)  
 - [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)  
-- [2019-07-23-Termux-入门教程：架设手机-Server-下载文件](http://www.ruanyifeng.com/blog/2019/07/termux-tutorial.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
