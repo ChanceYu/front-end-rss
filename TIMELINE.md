@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-04 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-05 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,10 @@
 </summary>
 
 
+- [【前端大全】2019-10-02-大前端时代，浅谈-JavaScript-开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557163&idx=1&sn=e68e022315891a235c818a97c358f49e&chksm=80255aeab752d3fcb512bdc0b250a40e8b02f96d62a7e6294e2a979c007b7051bdf4366a3180&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-01-5分钟搭一个企业级脚手架：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557159&idx=1&sn=367619b9ce0f95b3ad628ce071d3e423&chksm=80255ae6b752d3f0ef8b97c8d67590c03788f2787b9baededdf138fc74418ce506189d0e9115&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-05-React-vs-Angular-vs-Vue.js：到底该选谁？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492658&idx=1&sn=d5a8c70c898199e2a5654e36c4d64cd3&chksm=f9525171ce25d8676f5ec2ec1ff0e4f06fd5ff00f5a91974d4dd63ce13e8a78e33c6c03a0217&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-04-蚂蚁金服褚霸：敲最牛的代码，骑最野的车丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492656&idx=1&sn=6998530ea0f13a6fe7575800cef7f900&chksm=f9525173ce25d865bcab9ddcbed0e8ed8d999df57b8177ee074ee5c7fbd958f714a7cdb30bf8&scene=27#wechat_redirect) 
 - [【阮一峰的网络日志】2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-04 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-05 22:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,6 +62,8 @@
 </summary>
 
 
+- [2019-10-02-大前端时代，浅谈-JavaScript-开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557163&idx=1&sn=e68e022315891a235c818a97c358f49e&chksm=80255aeab752d3fcb512bdc0b250a40e8b02f96d62a7e6294e2a979c007b7051bdf4366a3180&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-01-5分钟搭一个企业级脚手架：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557159&idx=1&sn=367619b9ce0f95b3ad628ce071d3e423&chksm=80255ae6b752d3f0ef8b97c8d67590c03788f2787b9baededdf138fc74418ce506189d0e9115&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-09-30-一看就懂之-webpack-高级配置与优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557158&idx=1&sn=37b5709e442840d03391049fccebedbb&chksm=80255ae7b752d3f1a37ca753aeeacdde8502d525e86f5ae1b0fbb2a780c3c4e627a16fbc05b0&scene=27#wechat_redirect)  
 - [2019-09-29-从零开始手写-redux](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557150&idx=1&sn=bc7407a19ec5afc8a42d5222845181dd&chksm=80255adfb752d3c90ba6b45cb24f918072f9be22b3c9f8df6db339877267da3cb8eb2a89439b&scene=27#wechat_redirect)  
 - [2019-09-28-非常全面的前端协作规范](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557148&idx=1&sn=d1e92c7a529fdbe12ca62b364d0de402&chksm=80255addb752d3cbff037f319b560cd2da60919a5b5dbcbd5ee7e6d3c9c0156a9d3c726cf9fe&scene=27#wechat_redirect)  
@@ -80,8 +82,6 @@
 - [2019-09-20-2019-前端开发者进阶指南.pdf](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=1&sn=9cbbcccab6d15aac513dcd89134e34d8&chksm=80255b2db752d23b2bd9ab02c123f69acead3be0ded497189c03ce8577d1869d7eceb20e273e#rd)  
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd)  
 - [2019-09-17-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=1&sn=6a2db9908e972901e95f415582fdfc7c&chksm=80255b1db752d20bcb98e091c6b170936092dedefd8896d1c3038619e496e62f8e9c63327c01#rd)  
-- [2019-09-12-React高频面试题梳理，看看面试怎么答？（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557067&idx=1&sn=5e16844f36e35300370541e7e36c18c1&chksm=80255b0ab752d21cd8d6378f424fc6bf735c87f16ae58c31b457378b29bd6fd089dae0e3e336#rd)  
-- [2019-09-11-浏览器垃圾回收机制与-Vue-项目内存泄漏场景分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557057&idx=1&sn=3fc52a1998d954e6124dae11f859fe75&chksm=80255b00b752d216450352894c3c35f54691401af65688a789df63c7b74b9401740250463fca#rd)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,6 +93,8 @@
 </summary>
 
 
+- [2019-10-05-React-vs-Angular-vs-Vue.js：到底该选谁？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492658&idx=1&sn=d5a8c70c898199e2a5654e36c4d64cd3&chksm=f9525171ce25d8676f5ec2ec1ff0e4f06fd5ff00f5a91974d4dd63ce13e8a78e33c6c03a0217&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-04-蚂蚁金服褚霸：敲最牛的代码，骑最野的车丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492656&idx=1&sn=6998530ea0f13a6fe7575800cef7f900&chksm=f9525173ce25d865bcab9ddcbed0e8ed8d999df57b8177ee074ee5c7fbd958f714a7cdb30bf8&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-09-30-前端领域不需要架构师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492647&idx=1&sn=1dc2f92aae291850f00620603f8ae03f&chksm=f9525164ce25d87205b9ceba2ec0ff92353eb1770687575f359377d92343738b7deda25c4727&scene=27#wechat_redirect)  
 - [2019-09-29-前端周报：W3C公布9月战略要点；微软Python教程登GitHub榜首；V8发布v7.8版本](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492643&idx=1&sn=ca70d5731ffa3fafc50bcd84fcbc7653&chksm=f9525160ce25d876b8c9d3b4ace00a1068b1436cdff8b2ef7a15f5ee87eb5e502f1ef2f2f910&scene=27#wechat_redirect)  
 - [2019-09-27-玩转GitHub-Actions-，简化npm发布流程](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=1&sn=76f06facfbf1918be3ef728a85bcfa62&chksm=f9525159ce25d84f0bdf8c931a821cbcbfa466c3a8110ff8ccc06da8de881760a117096ed553&scene=27#wechat_redirect)  
@@ -111,8 +113,6 @@
 - [2019-09-18-JavaScript的未来是模块化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=1&sn=5b4757b12e68b6574d7c749c487f6fac&chksm=f9525689ce25df9fd779f49ae36fc369d390c614c77c31b76077cc2dbd37fa8eed7b46683d01#rd)  
 - [2019-09-17-十大npm最佳安全指南，教你如何避免安全漏洞！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492541&idx=1&sn=d765d9fedf40a6ebfd21893cfbf29856&chksm=f95256fece25dfe82301d1bc46dedd150d4abd35ec1e9c9f8ea6f4f706369522c7820b832357#rd)  
 - [2019-09-17-月活用户达7.55亿，阿里淘系如何在后流量时代引爆用户增长？|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492541&idx=3&sn=07a179e969ab3006aa71c62ceee7b22f&chksm=f95256fece25dfe8ef51cc2847c346929d420fc6c2a0ac8c5462f54ca47036e2e04476aad1c0#rd)  
-- [2019-09-15-前端周报：W3C-首次发布小程序标准化白皮书；Flutter-1.9-正式发布；Chrome-将测试DoH](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492510&idx=1&sn=07578e8bb6e1f98f9e3089f7d57305c2&chksm=f95256ddce25dfcbfe6e38eae0a19af64eb168c446cdbf694682a8cc213f8ba04b780a72af53&scene=27#wechat_redirect)  
-- [2019-09-12-CSS开发人员是干什么的？企业为什么需要这样一个职位？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492485&idx=1&sn=f07c7e2ad421a42dd14de46163ff701a&chksm=f95256c6ce25dfd0ea624ca2e4713af3056b9c3fd2d4057518aaee6a3123e65f86918ede2ce4&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html) ![](assets/new.png)  
+- [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)  
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  

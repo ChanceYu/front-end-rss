@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-04 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-05 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -83,6 +83,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2019-10-02-大前端时代，浅谈-JavaScript-开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557163&idx=1&sn=e68e022315891a235c818a97c358f49e&chksm=80255aeab752d3fcb512bdc0b250a40e8b02f96d62a7e6294e2a979c007b7051bdf4366a3180&scene=27#wechat_redirect) 
 - [2019-09-21-JS-服务器推送技术-WebSocket-入门指北](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557105&idx=1&sn=36599423629375269901ff6062f55daf&chksm=80255b30b752d226be470a064298991e86b3a888591735130078f00d93142f07380c705c4783#rd) 
 - [2019-09-20-前端-Web-Workers-到底是什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557100&idx=2&sn=4989a2ee5537273b1259d19a2c6e9989&chksm=80255b2db752d23ba788b1be36b08ec5810e383f9cc5824dbe9ee0edf05ce23a411031460ca1#rd) 
 - [2019-09-05-十分钟快速了解-JS-中的-offset、scroll、client](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557020&idx=1&sn=55560f2c7e2916baea2672c06cb8b910&chksm=80255b5db752d24b399782f15aa3063a79f5a0a1f499c0140e400b72234044b8974ec4819643#rd) 
