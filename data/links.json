@@ -5989,6 +5989,11 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端周报：Chrome不再支持https混用；npm十周年；HTTP/3获多企业支持",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492662&idx=1&sn=4cfe8729e4d891f8d10f4ec864cdb712&chksm=f9525175ce25d863c9d3e0845fdaf675ff2b7051a7d087614a653180da1cbad50508d08f0f48&scene=27#wechat_redirect",
+        "date": "2019-10-06"
+      },
+      {
         "title": "React vs Angular vs Vue.js：到底该选谁？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492658&idx=1&sn=d5a8c70c898199e2a5654e36c4d64cd3&chksm=f9525171ce25d8676f5ec2ec1ff0e4f06fd5ff00f5a91974d4dd63ce13e8a78e33c6c03a0217&scene=27#wechat_redirect",
         "date": "2019-10-05"
