@@ -9,17 +9,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-07 06:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-07 18:00:15，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -93,6 +93,9 @@
 </summary>
 
 
+- [2019-10-07-人到中年的程序员，请提前准备好Plan-B](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=1&sn=47f533136f1661d4516ff6a3c1fca08e&chksm=f9525101ce25d817ea446ce12d1c8c78e88aaf5a44bdd208899f17dbbd2e08e7026450083ed6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-07-X3D：现代Web的声明式3D技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=2&sn=09473f11b014da5ed09977132f0b795e&chksm=f9525101ce25d8171443be10c9c1c2208516ac2a6daa501ba6a9159eef693da253a632618041&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-07-前端性能优化如何做到极致？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=3&sn=d739335e9674f53b155982a4628ef5a7&chksm=f9525101ce25d817ce4ea29fd58ffa73c33bd30e27a7437741d27e96857171f9823ec1a07535&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-10-06-前端周报：Chrome不再支持https混用；npm十周年；HTTP/3获多企业支持](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492662&idx=1&sn=4cfe8729e4d891f8d10f4ec864cdb712&chksm=f9525175ce25d863c9d3e0845fdaf675ff2b7051a7d087614a653180da1cbad50508d08f0f48&scene=27#wechat_redirect)  
 - [2019-10-05-React-vs-Angular-vs-Vue.js：到底该选谁？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492658&idx=1&sn=d5a8c70c898199e2a5654e36c4d64cd3&chksm=f9525171ce25d8676f5ec2ec1ff0e4f06fd5ff00f5a91974d4dd63ce13e8a78e33c6c03a0217&scene=27#wechat_redirect)  
 - [2019-10-04-蚂蚁金服褚霸：敲最牛的代码，骑最野的车丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492656&idx=1&sn=6998530ea0f13a6fe7575800cef7f900&chksm=f9525173ce25d865bcab9ddcbed0e8ed8d999df57b8177ee074ee5c7fbd958f714a7cdb30bf8&scene=27#wechat_redirect)  
@@ -110,9 +113,6 @@
 - [2019-09-20-看文吃瓜：React遭遇V8性能崩溃的故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=1&sn=f57e867ef4e366f37484317fdc816f62&chksm=f95256aece25dfb8717d115104765de8f14c4fe05a2e6546364813a2519604dd1dde53a4a65d#rd)  
 - [2019-09-19-前端微服务在字节跳动的落地之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=2&sn=0081433f2761a63f501526440275ad13&chksm=f95256a3ce25dfb56f24ce5a9e993e6c4161a019c6725c4dd8e9d04c1452e841a2a49bec8576#rd)  
 - [2019-09-19-阿里架构师：双十一大促，多亏了-Node.js-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492576&idx=1&sn=96b25ef77efdbd94da8639cf8c88428d&chksm=f95256a3ce25dfb5d5a67383430fdb30f801defdef5a30fc176d4118071beb4cff963f1c8885#rd)  
-- [2019-09-18-Dart-2.5发布：新增代码补全功能，并提供底层函数调用接口](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=2&sn=0f14dc509433c01207a46472b2254bb2&chksm=f9525689ce25df9fbd0ebf00e79d1659bb5f93d4056ea52a83d6c676b594c32f0924c5168363#rd)  
-- [2019-09-18-JavaScript的未来是模块化？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492554&idx=1&sn=5b4757b12e68b6574d7c749c487f6fac&chksm=f9525689ce25df9fd779f49ae36fc369d390c614c77c31b76077cc2dbd37fa8eed7b46683d01#rd)  
-- [2019-09-17-十大npm最佳安全指南，教你如何避免安全漏洞！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492541&idx=1&sn=d765d9fedf40a6ebfd21893cfbf29856&chksm=f95256fece25dfe82301d1bc46dedd150d4abd35ec1e9c9f8ea6f4f706369522c7820b832357#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -217,8 +217,8 @@
 </summary>
 
 
-- [2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html) ![](assets/new.png)  
-- [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) ![](assets/new.png)  
+- [2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html)  
+- [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html)  
 - [2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html)  
 - [2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html)  
 - [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html)  
