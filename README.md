@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-10 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-11 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-10-10-Vue-3.0来了，你还学的动吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557203&idx=1&sn=082b110725d7f113b7c8ac97effd3e1c&chksm=80255a92b752d3841906163cb08202b5a7b699ae58ebe050569479383ea76f708e1641f2e2b4&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-10-面向对象之-7-大基本原则（JS版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557203&idx=2&sn=526216a3572e10f71f188b9cfbb24737&chksm=80255a92b752d38402264c5d3e496a48f81f520f79587757e323e1a02808f760f8208f39489c&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-10-Vue-3.0来了，你还学的动吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557203&idx=1&sn=082b110725d7f113b7c8ac97effd3e1c&chksm=80255a92b752d3841906163cb08202b5a7b699ae58ebe050569479383ea76f708e1641f2e2b4&scene=27#wechat_redirect)  
+- [2019-10-10-面向对象之-7-大基本原则（JS版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557203&idx=2&sn=526216a3572e10f71f188b9cfbb24737&chksm=80255a92b752d38402264c5d3e496a48f81f520f79587757e323e1a02808f760f8208f39489c&scene=27#wechat_redirect)  
 - [2019-10-09-2019-大龄前端如何准备面试？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557195&idx=1&sn=f7235fbd8d18d2ef88ff3ff02804ad16&chksm=80255a8ab752d39c33229317702d917fda5f3ca66397213331d21a513de2ef115708051d58dc&scene=27#wechat_redirect)  
 - [2019-10-09-面向对象：愿此生遇良人，不负如来不负卿](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557195&idx=2&sn=874dfd87428ec2fc92ba688612c7a8c0&chksm=80255a8ab752d39c608528b638975b0603ac3572225f1c7c0d0247219a6082a70f6e61b0e225&scene=27#wechat_redirect)  
 - [2019-10-08-从零手写-Vue-3.0-中的响应式源码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557190&idx=1&sn=411c7aad4747bb30e9003e464d619375&chksm=80255a87b752d3914f5df5481e1263cbed76a53aa25fff9818b7c0e4810fe6db115fc58365cc&scene=27#wechat_redirect)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html) ![](assets/new.png)  
 - [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)  
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
@@ -205,7 +206,6 @@
 - [2019-08-02-科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)  
 - [2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html)  
 - [2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html)  
-- [2019-07-26-科技爱好者周刊：第-66-期](http://www.ruanyifeng.com/blog/2019/07/weekly-issue-66.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
