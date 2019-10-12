@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-11 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-10-09-【视频】Dcloud@崔红保：基于weex实现的小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=2&sn=1c093a8cdb479fcdeaade7caf49969ab&chksm=bd4946128a3ecf04a216b717e8ab8d2bb0771d6a206af7b5655203b4b84ac3b31784ef607eb8&scene=27#wechat_redirect) 
 - [2019-09-08-【第1720期】走进小程序·云开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=1&sn=0f929caf843c2244aa3d920b39ab4082&chksm=bd49443d8a3ecd2b05849c7813500ad3bf67a8014d4451808a97414b1be459b459547ebbc2ab#rd) 
 - [2019-08-28-Chameleon-支持字节跳动小程序（附实现原理）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233574&idx=2&sn=9d52914c79f12bb8a60a4b67533b0dc0&chksm=bd4944a28a3ecdb4a3e45d21ceb3515c07c030ca16beccd2c458aa255e6ec04efca48dc4e260#rd) 
 - [2019-08-25-【图书】微信小程序商城开发：界面设计实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=3&sn=356cf156cfe84beca2a7db0e21dd7557&chksm=bd4944968a3ecd80fa6a8efcea45af6e7297c0eb5661bc01fd7ccb50ac5438d0571fc08a5dd1#rd) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-10-11 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-10-10-【活动】第十四届D2前端论坛，12月14号杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=2&sn=70c97955482a1c91ae011958c6ac453d&chksm=bd49461c8a3ecf0aa83ccd3b4f982224d364c662331208f5a0314f8d31d73939ce2d0ce1ab1b&scene=27#wechat_redirect) 
 - [2019-09-30-【第1737期】在-UC-做的前端工程化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=1&sn=1056b656d8449ab0611d64861a838dc7&chksm=bd4946e28a3ecff491dbb76d3767404715111a2a5f4ae618081bdd808069bc7f2cb9e4783137&scene=27#wechat_redirect) 
 - [2019-09-30-【PPT】umi架构、生态和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=2&sn=5853f049c88c3f8a02541d293b59f1c7&chksm=bd4946e28a3ecff464a165d80134999c8bfde0d6fcb5218890afa4bdb68b1def76f02021be0f&scene=27#wechat_redirect) 
 - [2019-09-29-金九银十，前端人如何抢占先机，高薪晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234052&idx=1&sn=65269871cac3140e40a6930f4b4ffe93&chksm=bd4946808a3ecf964ae1a5140ea8839449ddba6e4edf757cf97e7aac3bc6ed6e8a2487bfc695&scene=27#wechat_redirect) 

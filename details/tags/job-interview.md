@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-11 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,8 @@
 
 
 
+- [2019-10-12-【招聘】一起来做个最好的设计工具，腾讯-CDC-招人！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=2&sn=d2a179a2082a313d5e70ea641ade2801&chksm=bd49462d8a3ecf3b78dd28cd6991eddd61bfad5b944ef2b533847657de3c3f9270a6998f3ae8&scene=27#wechat_redirect) 
+- [2019-10-11-【招聘】阿里政务钉钉事业部用户体验团队招高级／专家前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=2&sn=8c4142777091a80904ced08dbe8fc6bd&chksm=bd4946198a3ecf0f234488526f76517373fa4c9465f9ce0daad567cbac54b219000a8f0a7b22&scene=27#wechat_redirect) 
 - [2019-09-22-【招聘】北京字节跳动招高级前端开发工程师-教育方向](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=2&sn=884eaa31e5b2b8a02e7657b43e4bf9f5&chksm=bd4947d98a3ececfe06479c0269125cfeac0cb05b59622520945b501db42f1cdda9e6476794f#rd) 
 - [2019-09-21-【招聘】上海拼多多社招资深前端／2020校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=2&sn=e31273670522a99e6ca915c00322e30e&chksm=bd4947de8a3ecec89b8fe6b306d1b87d703055bad4d13e705049a4b61d768f4be1447ff85348#rd) 
 - [2019-09-11-【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd) 

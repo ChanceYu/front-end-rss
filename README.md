@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-11 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-12 18:00:24，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -31,6 +31,15 @@
 </summary>
 
 
+- [2019-10-12-【第1742期】再谈HTTPS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=1&sn=0c97f58d3dc8b21caabcd1c51e81e1b2&chksm=bd49462d8a3ecf3bc5600761b271e3975bd57b503577f4a848c4e7e8c9d34e6dd11279b0a7ea&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-12-【招聘】一起来做个最好的设计工具，腾讯-CDC-招人！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=2&sn=d2a179a2082a313d5e70ea641ade2801&chksm=bd49462d8a3ecf3b78dd28cd6991eddd61bfad5b944ef2b533847657de3c3f9270a6998f3ae8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-11-【第1741期】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=1&sn=ca712d1e8e262e135703119e70fc6089&chksm=bd4946198a3ecf0f5e15d770b55d12939cdd8d4dd00a7289b23a268f2d3b102fbf57bcc8fc34&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-11-【招聘】阿里政务钉钉事业部用户体验团队招高级／专家前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=2&sn=8c4142777091a80904ced08dbe8fc6bd&chksm=bd4946198a3ecf0f234488526f76517373fa4c9465f9ce0daad567cbac54b219000a8f0a7b22&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-10-【第1740期】揭开-JavaScript-引擎的面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=1&sn=ab00fa8ba5e80fada6c7a05f39c7d566&chksm=bd49461c8a3ecf0abf0b8c45cd440727ac6269820f2cdb96584a6b64b79ae3e76a8d474502e6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-10-【活动】第十四届D2前端论坛，12月14号杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=2&sn=70c97955482a1c91ae011958c6ac453d&chksm=bd49461c8a3ecf0aa83ccd3b4f982224d364c662331208f5a0314f8d31d73939ce2d0ce1ab1b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-09-【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-09-【视频】Dcloud@崔红保：基于weex实现的小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=2&sn=1c093a8cdb479fcdeaade7caf49969ab&chksm=bd4946128a3ecf04a216b717e8ab8d2bb0771d6a206af7b5655203b4b84ac3b31784ef607eb8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-08-【第1738期】100-行代码实现-Promises/A+-规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234151&idx=1&sn=6292156c16e851d8d5f1dbccdfc82a74&chksm=bd4946e38a3ecff561bef99277e0f1ad5ec7f7014437aa100cb01e872eee80985adb04734b11&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-09-30-【第1737期】在-UC-做的前端工程化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=1&sn=1056b656d8449ab0611d64861a838dc7&chksm=bd4946e28a3ecff491dbb76d3767404715111a2a5f4ae618081bdd808069bc7f2cb9e4783137&scene=27#wechat_redirect)  
 - [2019-09-30-【PPT】umi架构、生态和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=2&sn=5853f049c88c3f8a02541d293b59f1c7&chksm=bd4946e28a3ecff464a165d80134999c8bfde0d6fcb5218890afa4bdb68b1def76f02021be0f&scene=27#wechat_redirect)  
 - [2019-09-30-【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect)  
@@ -42,15 +51,6 @@
 - [2019-09-27-无广告互联网与网络货币化（Web-Monetization）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=2&sn=1911e8f1b84f70b8b3e5887cb526e6b6&chksm=bd4947338a3ece25266ea83b334413e52b9fd9bc3f605ffda2dffaee0f8efc595486763b15e0&scene=27#wechat_redirect)  
 - [2019-09-26-【第1733期】Element-UI-技术揭秘-—-Container布局容器组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=1&sn=221de5a027730e1ac96bbe860dec8aec&chksm=bd49472d8a3ece3bbfb39389e27149b5454ecb47add1f69e4edb9ea449f76cd3cc0e57ab0682&scene=27#wechat_redirect)  
 - [2019-09-26-【图书】CSS选择器世界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=2&sn=b86d57c8d3f6dd6fec23f307ca46b534&chksm=bd49472d8a3ece3b543fa24c890b04077a72cab40e9d647ea22c596e23ddc6a47c9aaab213a4&scene=27#wechat_redirect)  
-- [2019-09-25-【PPT】白鹭引擎首席架构师@王泽：框架开发中的基础设施搭建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233954&idx=1&sn=c2cc48a0ebae869435b71ece3a37529b&chksm=bd4947268a3ece30f3348ebd7a376309e40cb2c6bb4fa001f575d84e53d13a312f8bcea56a7c#rd)  
-- [2019-09-24-拿不到offer退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=1&sn=e2d6a9948ecb222c990bf174083a83c5&chksm=bd4947ec8a3ecefae24de24645f27dcb3559767969fb774785deb5e11576887e0199f2ca7269#rd)  
-- [2019-09-24-【第1732期】Google-官方-如何去做code-review](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=2&sn=b5071874c2775a02d26139ff79a3e4c5&chksm=bd4947ec8a3ecefaf917172f17b0397a45e4ad6229dc8fcac3cdd096e769ec54c8485836380d#rd)  
-- [2019-09-20-前端工程师：掌握了-Node.js-就等于全栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=1&sn=dde1db24251638b504816fc457758c97&chksm=bd4947c88a3ecede807c4afa337380e24f2be52f232cf74e67290564a8fe02e84f72c4350347&scene=27#wechat_redirect)  
-- [2019-09-20-【第1728期】每日优鲜供应链前端团队微前端改造](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=2&sn=f88c1934032f8e6b71c7f2fde477915f&chksm=bd4947c88a3ecede94466365a725e9696302151c7fae30ff7f635eb3491a78425219f2c585d2&scene=27#wechat_redirect)  
-- [2019-09-23-【第1731期】Faster-than-faster——RN新架构中的JavaScript-Interface](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233887&idx=1&sn=3e0a58f9ff7b9bdee4f2a33e85aa2377&chksm=bd4947db8a3ececd62c55e23b05b95e2a807a23efffada16fb7459e26470d45379fc8c6a1668#rd)  
-- [2019-09-22-【第1730期】把网站升级到http/2](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=1&sn=9625c3f1f913816b17a4f18499e6d8e0&chksm=bd4947d98a3ececfc3537b8699d1f08cabc7acaebeb014e84a9a72a4976e7248ca12328544c2#rd)  
-- [2019-09-22-【招聘】北京字节跳动招高级前端开发工程师-教育方向](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=2&sn=884eaa31e5b2b8a02e7657b43e4bf9f5&chksm=bd4947d98a3ececfe06479c0269125cfeac0cb05b59622520945b501db42f1cdda9e6476794f#rd)  
-- [2019-09-21-【第1729期】打破框架的范式之争](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=1&sn=831c7cabf1c9887e7ed4b1b4082d6df7&chksm=bd4947de8a3ecec8350fcc46ff43d8f9e5fca119195ed75408ab786169aed5501e362a69d7d3#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -186,7 +186,7 @@
 </summary>
 
 
-- [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html) ![](assets/new.png)  
+- [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)  
 - [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)  
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  

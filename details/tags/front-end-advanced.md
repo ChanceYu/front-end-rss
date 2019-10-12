@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-11 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-10-12-【第1742期】再谈HTTPS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=1&sn=0c97f58d3dc8b21caabcd1c51e81e1b2&chksm=bd49462d8a3ecf3bc5600761b271e3975bd57b503577f4a848c4e7e8c9d34e6dd11279b0a7ea&scene=27#wechat_redirect) 
 - [2019-09-28-所有加密算法及对称加密和非对称加密分类](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233982&idx=2&sn=a9c823721a9f758dfafe904fbcc0413a&chksm=bd49473a8a3ece2ca3775aa2c0821081d35f46bf8908a550cc300311858cc8b8f8f60ad72833&scene=27#wechat_redirect) 
 - [2019-09-24-拿不到offer退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=1&sn=e2d6a9948ecb222c990bf174083a83c5&chksm=bd4947ec8a3ecefae24de24645f27dcb3559767969fb774785deb5e11576887e0199f2ca7269#rd) 
 - [2019-09-22-【第1730期】把网站升级到http/2](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=1&sn=9625c3f1f913816b17a4f18499e6d8e0&chksm=bd4947d98a3ececfc3537b8699d1f08cabc7acaebeb014e84a9a72a4976e7248ca12328544c2#rd) 
