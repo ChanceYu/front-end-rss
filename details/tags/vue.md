@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-13 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -94,6 +94,7 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2019-10-13-前端周报：Vue-3公开代码库；NPM发布6.12.0；Sass推出模块系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492731&idx=1&sn=388d4e3e740a3506b0ebc40d3f9833b9&chksm=f9525138ce25d82ee1c36f469192e6a759b6a9731f8e90b057dea94796acf5f60f3d3c83ba18&scene=27#wechat_redirect) 
 - [2019-08-30-Vue-+-Node-+-WebRTC构建一个高逼格的视频应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=2&sn=90d6f7f223ff6df6d32694ddd1e07f8a&chksm=f952579cce25de8aaa181068aac8919dfeeee3f34d462bb2eca2013810644ce1705b5c7ff52d#rd) 
 - [2019-08-12-Vue技能进阶：使用设计模式写出优雅的前端代码](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492133&idx=1&sn=3d8eb0bd3427c426bd54b5fa361220ba&chksm=f9525766ce25de7005381b7563503e81cdb8933908ed1e8232da1398668a338efe7004aab94e&scene=27#wechat_redirect) 
 - [2019-08-09-10个实用的Vue.js工具和库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=2&sn=d533c1c7101c7b5cf4324f49d8050281&chksm=f9525744ce25de527512bf978747b19e6296db9bcc97ad077c86138e19e94f8aaeb1ad470b9b&scene=27#wechat_redirect) 

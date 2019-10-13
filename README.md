@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-13 06:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-13 18:00:24，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,10 +62,10 @@
 </summary>
 
 
-- [2019-10-12-Chrome-Devtools-高级调试指南（新）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=1&sn=8aa033d2c7a04a73a6abf836bd4e5a61&chksm=80255aa1b752d3b73de295ee3f75d1366e80619f7c41bf3987a6fa11868434061f54719a1848&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-12-面向对象：今年可以遇到你了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=2&sn=6b7da8d1c25d53ad84ff58b94c0f253d&chksm=80255aa1b752d3b773bdae8b2296fb4542054c465b0cc30dc91376a59e815c80cb021bd6a312&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-11-耗时1个月整理的这份英语资源！一次性全部分享给你，手慢无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=1&sn=75bc5e5925f8d31cf095974f14c2f000&chksm=80255a96b752d38066410b6c43d11f417fb5a6ef0fb7539947dd7abbf9e540e5845142577d58&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-11-一文搞懂浏览器缓存机制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=2&sn=9991d86d4deb4c5b5ec3bcb914e3ee34&chksm=80255a96b752d3802a9172f76443081ca8517f778539ef1c3d069d826c709d520dbb75acd830&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-12-Chrome-Devtools-高级调试指南（新）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=1&sn=8aa033d2c7a04a73a6abf836bd4e5a61&chksm=80255aa1b752d3b73de295ee3f75d1366e80619f7c41bf3987a6fa11868434061f54719a1848&scene=27#wechat_redirect)  
+- [2019-10-12-面向对象：今年可以遇到你了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=2&sn=6b7da8d1c25d53ad84ff58b94c0f253d&chksm=80255aa1b752d3b773bdae8b2296fb4542054c465b0cc30dc91376a59e815c80cb021bd6a312&scene=27#wechat_redirect)  
+- [2019-10-11-耗时1个月整理的这份英语资源！一次性全部分享给你，手慢无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=1&sn=75bc5e5925f8d31cf095974f14c2f000&chksm=80255a96b752d38066410b6c43d11f417fb5a6ef0fb7539947dd7abbf9e540e5845142577d58&scene=27#wechat_redirect)  
+- [2019-10-11-一文搞懂浏览器缓存机制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=2&sn=9991d86d4deb4c5b5ec3bcb914e3ee34&chksm=80255a96b752d3802a9172f76443081ca8517f778539ef1c3d069d826c709d520dbb75acd830&scene=27#wechat_redirect)  
 - [2019-10-10-Vue-3.0来了，你还学的动吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557203&idx=1&sn=082b110725d7f113b7c8ac97effd3e1c&chksm=80255a92b752d3841906163cb08202b5a7b699ae58ebe050569479383ea76f708e1641f2e2b4&scene=27#wechat_redirect)  
 - [2019-10-10-面向对象之-7-大基本原则（JS版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557203&idx=2&sn=526216a3572e10f71f188b9cfbb24737&chksm=80255a92b752d38402264c5d3e496a48f81f520f79587757e323e1a02808f760f8208f39489c&scene=27#wechat_redirect)  
 - [2019-10-09-2019-大龄前端如何准备面试？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557195&idx=1&sn=f7235fbd8d18d2ef88ff3ff02804ad16&chksm=80255a8ab752d39c33229317702d917fda5f3ca66397213331d21a513de2ef115708051d58dc&scene=27#wechat_redirect)  
@@ -93,6 +93,16 @@
 </summary>
 
 
+- [2019-10-13-前端周报：Vue-3公开代码库；NPM发布6.12.0；Sass推出模块系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492731&idx=1&sn=388d4e3e740a3506b0ebc40d3f9833b9&chksm=f9525138ce25d82ee1c36f469192e6a759b6a9731f8e90b057dea94796acf5f60f3d3c83ba18&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-12-Serverless：慢15%，贵8倍？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492724&idx=1&sn=a29336b19b8582c1c24d6267d92871ea&chksm=f9525137ce25d8217e2c69b7af0e8dfe3a0c18c6a96c72ed06827570774c844b564b2197217e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-12-2019年安卓应用的7大漏洞类型](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492724&idx=2&sn=750d6e7e379512bbc279882567c1d1c4&chksm=f9525137ce25d8218f5776719ff7fb11b4bf4c309789b6f1c1eab33d5811325bd19d639b8474&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-12-别再纠结后端了，小程序开发这么做](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492724&idx=3&sn=8f4e58ff2e4737d066f345efa154bc74&chksm=f9525137ce25d82173cc1c998d2de2f140efba5e18c25e05f88ef77b3f23498ac4b5d1ccbda4&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-11-想创建应用程序，只用React-Hooks就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492715&idx=1&sn=454829e50ed930fca0bcfcb972f75c5f&chksm=f9525128ce25d83ee00496def3c80d8524248dc123046840be2eacfd0bc2458a955debe8879f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-11-Kotlin为跨端开发带来哪些影响？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492715&idx=2&sn=8ca3e27cc52607275cbb04b25727ca27&chksm=f9525128ce25d83eb53ab3101d49a4dcd68d941b617459a4dde8ac711bdc07a5d3a46e65f57f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-10-一位开发者的幽默独白：JavaScript工具怎么就这么烂](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=1&sn=06f434b05e00b4b6950e10032d785be7&chksm=f9525121ce25d837be3e219e1c7a56a97ef86ef904530be23d03688534195eefd884d271b48b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-10-HTTP/3的过去、现在和未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=2&sn=252d727720c8d68ef9a49c6d8a1c996a&chksm=f9525121ce25d8377eb5feaa7d6ebecd966720071b36c7e63f7c96d74d880418eeb37a3069b8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-10-直击音视频技术核心，QCon音视频晚场活动等你参加](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=3&sn=f81569d938029c9b297f118acef66050&chksm=f9525121ce25d837aac12cd6b3745bd7d85a844319e572dff9ee57b5478d826d91dd96d22d29&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-09-被称为“三大框架”替代方案，Svelte如何简化Web开发工作](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492689&idx=1&sn=8166b7681ad576afa4336e3d37ed5d56&chksm=f9525112ce25d8044f9eddfaebd3d81e042044ca582e1c5ae55b506c6d52e5d059fdb8d04a6f&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-10-08-我用React和Vue构建了同款应用，来看看哪里不一样](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=1&sn=d351f0cc0841c77bc1f8ab3882af6539&chksm=f952510ace25d81c263329d429501b31320168613af5709712775c54e13919028fe4e5f64071&scene=27#wechat_redirect)  
 - [2019-10-08-Android手机找不着了怎么办？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=2&sn=26218ef0331d1652680a479bf9155093&chksm=f952510ace25d81c53afe6a170fdb49965d46e95eb95ab81f8ebc18298e117d74b602ac47062&scene=27#wechat_redirect)  
 - [2019-10-08-藏不住了！来WICC，看懂今天的融云](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=3&sn=9cf819d62b02488e656198ccac411331&chksm=f952510ace25d81ca5402065848cbd214d7fd4c4a370f9d5fec45b628026c0bc937615f6c7e5&scene=27#wechat_redirect)  
@@ -103,16 +113,6 @@
 - [2019-10-05-React-vs-Angular-vs-Vue.js：到底该选谁？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492658&idx=1&sn=d5a8c70c898199e2a5654e36c4d64cd3&chksm=f9525171ce25d8676f5ec2ec1ff0e4f06fd5ff00f5a91974d4dd63ce13e8a78e33c6c03a0217&scene=27#wechat_redirect)  
 - [2019-10-04-蚂蚁金服褚霸：敲最牛的代码，骑最野的车丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492656&idx=1&sn=6998530ea0f13a6fe7575800cef7f900&chksm=f9525173ce25d865bcab9ddcbed0e8ed8d999df57b8177ee074ee5c7fbd958f714a7cdb30bf8&scene=27#wechat_redirect)  
 - [2019-09-30-前端领域不需要架构师？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492647&idx=1&sn=1dc2f92aae291850f00620603f8ae03f&chksm=f9525164ce25d87205b9ceba2ec0ff92353eb1770687575f359377d92343738b7deda25c4727&scene=27#wechat_redirect)  
-- [2019-09-29-前端周报：W3C公布9月战略要点；微软Python教程登GitHub榜首；V8发布v7.8版本](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492643&idx=1&sn=ca70d5731ffa3fafc50bcd84fcbc7653&chksm=f9525160ce25d876b8c9d3b4ace00a1068b1436cdff8b2ef7a15f5ee87eb5e502f1ef2f2f910&scene=27#wechat_redirect)  
-- [2019-09-27-玩转GitHub-Actions-，简化npm发布流程](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=1&sn=76f06facfbf1918be3ef728a85bcfa62&chksm=f9525159ce25d84f0bdf8c931a821cbcbfa466c3a8110ff8ccc06da8de881760a117096ed553&scene=27#wechat_redirect)  
-- [2019-09-27-蚂蚁财富Flutter工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=2&sn=d8f36501bb77910f06f9ff38d4eddd75&chksm=f9525159ce25d84fe6cf067611c31707c466ee5fcfa4064e74691b2d4e65436cb9bf01c15b6a&scene=27#wechat_redirect)  
-- [2019-09-26-京东：将Flutter扩展到微信小程序端的探索](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=1&sn=e9ad06c38917d03ae1a3eb35631e3e4f&chksm=f952514cce25d85acf4d0c7104a38fcb2ae92bc40a742e8f1452c13ecb12d3cf41e067107666&scene=27#wechat_redirect)  
-- [2019-09-26-关于渐进式Web应用，你需要了解的所有事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=2&sn=cb82c8ba454c1addc8585ce4dfd98bfc&chksm=f952514cce25d85a6a43c325c875b42638d1e87570e2328f0d6a11ea15ed20023f24dae034c6&scene=27#wechat_redirect)  
-- [2019-09-26-程序员到CTO——大咖修炼手册-|-福利](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=3&sn=593ebe2635371c68db6ae9d91dc72506&chksm=f952514cce25d85a2b29f9a0b992acd534f5fb82da0ee5bc4b4a1c18fcd37049d8bb014e91a0&scene=27#wechat_redirect)  
-- [2019-09-25-深度解读当代前端架构进化史，下一个趋势在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492611&idx=1&sn=1cb8a1e8815bbc25710fef4a0959680f&chksm=f9525140ce25d85601ddb8849e85cb1c584a18b92eb1ed632a40f90ed4e5d650cad2a7a167d8#rd)  
-- [2019-09-24-全面了解B站开源明星项目IJKPlayer](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=2&sn=460e639c9484b94a69adb32b11c3ef76&chksm=f95256bdce25dfab9534ead913444c1af75100d3cc54ac4fe5bb646af3566b6701da590f0d75#rd)  
-- [2019-09-24-我开发了一个SwiftUI库，将CSS引入iOS开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492606&idx=1&sn=ca968c7643f20f69a9449b61d6c19686&chksm=f95256bdce25dfabd63a39d49878e4ccb8b44e7d9cec78134dd77d52e1131a5e5bdc6d1fd017#rd)  
-- [2019-09-20-商业化场景中，如何以大前端视角提升流量变现效率？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492589&idx=2&sn=bbb490160b0ea6eb48bc34111134ae46&chksm=f95256aece25dfb854bb8215323812152797873aef7c95fba3866efb00aa82732ed4cff96119#rd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

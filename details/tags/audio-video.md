@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-13 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -23,6 +23,7 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2019-10-10-直击音视频技术核心，QCon音视频晚场活动等你参加](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=3&sn=f81569d938029c9b297f118acef66050&chksm=f9525121ce25d837aac12cd6b3745bd7d85a844319e572dff9ee57b5478d826d91dd96d22d29&scene=27#wechat_redirect) 
 - [2019-10-04-蚂蚁金服褚霸：敲最牛的代码，骑最野的车丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492656&idx=1&sn=6998530ea0f13a6fe7575800cef7f900&chksm=f9525173ce25d865bcab9ddcbed0e8ed8d999df57b8177ee074ee5c7fbd958f714a7cdb30bf8&scene=27#wechat_redirect) 
 - [2019-09-11-嵌入式图像预览技术：允许人们在延迟加载过程中加载预览图像](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492470&idx=2&sn=b569812be2e6bad250a47af2eec5e6ca&chksm=f9525635ce25df2313870c68c05e95f1fe50096b9d227610bcaab84aac5ddfaca7fffa0ed2b3#rd) 
 - [2019-09-06-实时音视频低延稳定背后的技术，看这个实践案例就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=3&sn=3c4dbd489581f7797c8fcd339e915d8e&chksm=f9525602ce25df1431dc802a074ef8c540948d3a1dc0158063e5a166acd8448bd4f4d761fb56#rd) 

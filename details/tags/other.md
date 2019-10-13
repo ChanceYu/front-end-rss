@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-13 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -283,6 +283,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-10-12-2019年安卓应用的7大漏洞类型](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492724&idx=2&sn=750d6e7e379512bbc279882567c1d1c4&chksm=f9525137ce25d8218f5776719ff7fb11b4bf4c309789b6f1c1eab33d5811325bd19d639b8474&scene=27#wechat_redirect) 
+- [2019-10-11-Kotlin为跨端开发带来哪些影响？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492715&idx=2&sn=8ca3e27cc52607275cbb04b25727ca27&chksm=f9525128ce25d83eb53ab3101d49a4dcd68d941b617459a4dde8ac711bdc07a5d3a46e65f57f&scene=27#wechat_redirect) 
+- [2019-10-09-被称为“三大框架”替代方案，Svelte如何简化Web开发工作](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492689&idx=1&sn=8166b7681ad576afa4336e3d37ed5d56&chksm=f9525112ce25d8044f9eddfaebd3d81e042044ca582e1c5ae55b506c6d52e5d059fdb8d04a6f&scene=27#wechat_redirect) 
 - [2019-10-08-Android手机找不着了怎么办？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=2&sn=26218ef0331d1652680a479bf9155093&chksm=f952510ace25d81c53afe6a170fdb49965d46e95eb95ab81f8ebc18298e117d74b602ac47062&scene=27#wechat_redirect) 
 - [2019-10-08-藏不住了！来WICC，看懂今天的融云](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=3&sn=9cf819d62b02488e656198ccac411331&chksm=f952510ace25d81ca5402065848cbd214d7fd4c4a370f9d5fec45b628026c0bc937615f6c7e5&scene=27#wechat_redirect) 
 - [2019-10-07-人到中年的程序员，请提前准备好Plan-B](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=1&sn=47f533136f1661d4516ff6a3c1fca08e&chksm=f9525101ce25d817ea446ce12d1c8c78e88aaf5a44bdd208899f17dbbd2e08e7026450083ed6&scene=27#wechat_redirect) 
