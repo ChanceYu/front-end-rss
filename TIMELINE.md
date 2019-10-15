@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-15 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-15 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -113,6 +113,8 @@
 - [【前端早读课】2019-10-09-【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-09-【视频】Dcloud@崔红保：基于weex实现的小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=2&sn=1c093a8cdb479fcdeaade7caf49969ab&chksm=bd4946128a3ecf04a216b717e8ab8d2bb0771d6a206af7b5655203b4b84ac3b31784ef607eb8&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-08-【第1738期】100-行代码实现-Promises/A+-规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234151&idx=1&sn=6292156c16e851d8d5f1dbccdfc82a74&chksm=bd4946e38a3ecff561bef99277e0f1ad5ec7f7014437aa100cb01e872eee80985adb04734b11&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-14-axios-是如何封装-HTTP-请求的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=1&sn=0e13040ec66d6a4277ab75bbaf98d2e2&chksm=80255aa7b752d3b1efcb64edc72703ff7736f09b8147558ad12417f6c26080490b5efd8635e1&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-14-面向对象：周边撒狗粮的太多啦，想找个相爱的人过自己的小日子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=2&sn=d6c3e1528411ba9a17ced17b15cb290a&chksm=80255aa7b752d3b16b1beb1de37d93b8027d14c9bd89abf1bf96af5cc57c2420c170b2babde0&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-13-动手实现一个-react-redux](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557217&idx=1&sn=36ba276f87a8e770c07b8481b01fb8e2&chksm=80255aa0b752d3b62c4678ddcb28df784eeac511694b7c2ccbac30c478e31f8ac8b5c76bc975&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-12-Chrome-Devtools-高级调试指南（新）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=1&sn=8aa033d2c7a04a73a6abf836bd4e5a61&chksm=80255aa1b752d3b73de295ee3f75d1366e80619f7c41bf3987a6fa11868434061f54719a1848&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-12-面向对象：今年可以遇到你了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=2&sn=6b7da8d1c25d53ad84ff58b94c0f253d&chksm=80255aa1b752d3b773bdae8b2296fb4542054c465b0cc30dc91376a59e815c80cb021bd6a312&scene=27#wechat_redirect) 
