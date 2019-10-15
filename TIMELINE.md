@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-15 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-16 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,12 @@
 </summary>
 
 
+- [【前端早读课】2019-10-15-Vue-3.0-来了！不断更迭的技术浪潮中，前端开发必备哪些核心能力?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=1&sn=50e980f9de90999cddf834f5b7b1b829&chksm=bd49463a8a3ecf2c131f649528c5614ca96be27bafea6bb49845c135c77927fdab82f8450b8f&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-15-【第1745期】现代-JavaScript-教程---类型检测："instanceof"](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=2&sn=e47acc9c20568f71ac393b6431b79ea2&chksm=bd49463a8a3ecf2cc4afee2621243520f4356f716fbaaef0b93b9c2c2d5baf3369f1d9fb55ce&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-14-【第1744期】采访一位来自-Pornhub-的-Web-开发者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=1&sn=780fda738bb100735fdbf08888c68a9f&chksm=bd49463d8a3ecf2be9c00abca1ed458d4c883b26cdb58ae088021afdbbd7fd0859bde37517a5&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-14-【招聘】上海联泰科技招聘前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=2&sn=3d0be35ff957eb076402aa00da2426ed&chksm=bd49463d8a3ecf2b59847abafd6dce619add432a8d0bc252170464fc2f708193604293406634&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-13-【第1743期】Element-UI-技术揭秘---色彩、字体、边框与图标](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234218&idx=1&sn=d8dbc033a087a6631367d2b4e11b4d62&chksm=bd49462e8a3ecf383516419a46a4b36e9f264f2d3f4379839c9e011f82c682d5c0779b237fee&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-13-【活动】第二届ngChina开发者大会，11月23-24号杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234218&idx=2&sn=e4af228242c8f5aa17569cd9be2ecd2c&chksm=bd49462e8a3ecf381170089701bbd7c84a61d89e8aa0a7e85220565fe196b80a6a075d79c015&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-12-【第1742期】再谈HTTPS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=1&sn=0c97f58d3dc8b21caabcd1c51e81e1b2&chksm=bd49462d8a3ecf3bc5600761b271e3975bd57b503577f4a848c4e7e8c9d34e6dd11279b0a7ea&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-12-【招聘】一起来做个最好的设计工具，腾讯-CDC-招人！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=2&sn=d2a179a2082a313d5e70ea641ade2801&chksm=bd49462d8a3ecf3b78dd28cd6991eddd61bfad5b944ef2b533847657de3c3f9270a6998f3ae8&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-11-【第1741期】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=1&sn=ca712d1e8e262e135703119e70fc6089&chksm=bd4946198a3ecf0f5e15d770b55d12939cdd8d4dd00a7289b23a268f2d3b102fbf57bcc8fc34&scene=27#wechat_redirect) 
