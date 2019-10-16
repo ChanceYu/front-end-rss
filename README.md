@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-16 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-17 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-10-16-Vue-3.0源码发布，前端程序员：“我真的学不动了！”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=1&sn=3e67924c04f8ab5d85ac8a5ca2a01a5f&chksm=80255ab5b752d3a3deae80706fe1d86a47d77d338f1f0561d0ba08a0bb90eb1e1e61b8db693e&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-16-深入了解-ES6-强大的-...-运算符](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=2&sn=1af9576c633b47c7ec7c2a2bb1de12e0&chksm=80255ab5b752d3a3a0a94f9b147e2d82b225df7ae9d6962b809f0c5b74f4d0ee2454f6720d0f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-16-Vue-3.0源码发布，前端程序员：“我真的学不动了！”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=1&sn=3e67924c04f8ab5d85ac8a5ca2a01a5f&chksm=80255ab5b752d3a3deae80706fe1d86a47d77d338f1f0561d0ba08a0bb90eb1e1e61b8db693e&scene=27#wechat_redirect)  
+- [2019-10-16-深入了解-ES6-强大的-...-运算符](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=2&sn=1af9576c633b47c7ec7c2a2bb1de12e0&chksm=80255ab5b752d3a3a0a94f9b147e2d82b225df7ae9d6962b809f0c5b74f4d0ee2454f6720d0f&scene=27#wechat_redirect)  
 - [2019-10-14-axios-是如何封装-HTTP-请求的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=1&sn=0e13040ec66d6a4277ab75bbaf98d2e2&chksm=80255aa7b752d3b1efcb64edc72703ff7736f09b8147558ad12417f6c26080490b5efd8635e1&scene=27#wechat_redirect)  
 - [2019-10-14-面向对象：周边撒狗粮的太多啦，想找个相爱的人过自己的小日子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=2&sn=d6c3e1528411ba9a17ced17b15cb290a&chksm=80255aa7b752d3b16b1beb1de37d93b8027d14c9bd89abf1bf96af5cc57c2420c170b2babde0&scene=27#wechat_redirect)  
 - [2019-10-13-动手实现一个-react-redux](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557217&idx=1&sn=36ba276f87a8e770c07b8481b01fb8e2&chksm=80255aa0b752d3b62c4678ddcb28df784eeac511694b7c2ccbac30c478e31f8ac8b5c76bc975&scene=27#wechat_redirect)  
@@ -155,6 +155,7 @@
 </summary>
 
 
+- [2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/) ![](assets/new.png)  
 - [2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/)  
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/)  
 - [2019-09-19-小tips:-元素focus页面不滚动不定位的JS处理](https://www.zhangxinxu.com/wordpress/2019/09/js-focus-preventscroll/)  
@@ -174,7 +175,6 @@
 - [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/)  
 - [2019-07-19-HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/)  
 - [2019-07-07-HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/)  
-- [2019-06-23-DOMParser和XMLSerializer两个API简介](https://www.zhangxinxu.com/wordpress/2019/06/domparser-xmlserializer-api/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

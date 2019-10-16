@@ -8483,6 +8483,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "关于《CSS选择器世界》这本书",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/",
+        "date": "2019-10-16"
+      },
+      {
         "title": "实现a元素href URL链接自动刷新或新窗口打开",
         "link": "https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/",
         "date": "2019-10-13"
