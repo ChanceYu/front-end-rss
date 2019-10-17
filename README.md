@@ -9,15 +9,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-17 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-17 08:00:17，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -93,6 +93,12 @@
 </summary>
 
 
+- [2019-10-16-腾讯专家实战解读Flutter-for-Web](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=1&sn=4d8e590a63c976ccc4fb97775a2f9097&chksm=f9525184ce25d8929170ca5e2925fd0efdff6e4227f6d536bbab2eac412cb19e37ea344027a0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-16-Slack的Service-Worker实践：更快的启动速度与离线支持](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=2&sn=c727f6a0ac30714515f23b0a979bb783&chksm=f9525184ce25d892286c8c94382bee6c068c48e7c2b9700e9a51e76a9a5da079ff49b97b4f5d&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-16-如何打造出超“音”“速”的游戏体验？技术专家带你实战解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=3&sn=40da212281a70ae26b9ceb3104b9b502&chksm=f9525184ce25d892d1b808f60be2165015e852ffc02fcafafbe796e838c0599359dc666d1b66&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-15-组件复用一小步-轻松实现跨项目开发提效](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=1&sn=bd182d9dca3685819efd124b9a8a4e80&chksm=f95251cdce25d8db73c7b1eacd9ea47527727faa24719e408de0162fe9a123f078f2acadedb8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-15-腾讯在线教育的大前端架构演进之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=2&sn=7ef3708e7145325aedcdd210661aef62&chksm=f95251cdce25d8dbfe20e22f14e71098201bc00bac8ff9b675be95410b190178efac14a97903&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-15-从编码到网络传输，揭秘低延音视频背后的技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=3&sn=1b8d04d7a3d15ee2426257889a935961&chksm=f95251cdce25d8dbd5905a5e3ccf55e29a02b7066d5ffcc462aecbc0ced50ae7352cb2b733d5&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-10-14-拉美独角兽Nubank：为什么用Flutter做移动开发很酷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492742&idx=1&sn=7fb335c0b64c17d414061328b761dbfb&chksm=f95251c5ce25d8d3d0401ff0688be6e4f14d58463dd9b3d70ce6b03c7b9e84de025b88757f79&scene=27#wechat_redirect)  
 - [2019-10-14-大前端时代，浅谈JavaScript开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492742&idx=2&sn=89505c859bd762d52546b2ccd4c1b771&chksm=f95251c5ce25d8d32935d2dd042c4485bedfd3c03fb332d78b6689d85c427d175cdb769fafe7&scene=27#wechat_redirect)  
 - [2019-10-13-前端周报：Vue-3公开代码库；NPM发布6.12.0；Sass推出模块系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492731&idx=1&sn=388d4e3e740a3506b0ebc40d3f9833b9&chksm=f9525138ce25d82ee1c36f469192e6a759b6a9731f8e90b057dea94796acf5f60f3d3c83ba18&scene=27#wechat_redirect)  
@@ -107,12 +113,6 @@
 - [2019-10-09-被称为“三大框架”替代方案，Svelte如何简化Web开发工作](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492689&idx=1&sn=8166b7681ad576afa4336e3d37ed5d56&chksm=f9525112ce25d8044f9eddfaebd3d81e042044ca582e1c5ae55b506c6d52e5d059fdb8d04a6f&scene=27#wechat_redirect)  
 - [2019-10-08-我用React和Vue构建了同款应用，来看看哪里不一样](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=1&sn=d351f0cc0841c77bc1f8ab3882af6539&chksm=f952510ace25d81c263329d429501b31320168613af5709712775c54e13919028fe4e5f64071&scene=27#wechat_redirect)  
 - [2019-10-08-Android手机找不着了怎么办？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=2&sn=26218ef0331d1652680a479bf9155093&chksm=f952510ace25d81c53afe6a170fdb49965d46e95eb95ab81f8ebc18298e117d74b602ac47062&scene=27#wechat_redirect)  
-- [2019-10-08-藏不住了！来WICC，看懂今天的融云](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492681&idx=3&sn=9cf819d62b02488e656198ccac411331&chksm=f952510ace25d81ca5402065848cbd214d7fd4c4a370f9d5fec45b628026c0bc937615f6c7e5&scene=27#wechat_redirect)  
-- [2019-10-07-人到中年的程序员，请提前准备好Plan-B](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=1&sn=47f533136f1661d4516ff6a3c1fca08e&chksm=f9525101ce25d817ea446ce12d1c8c78e88aaf5a44bdd208899f17dbbd2e08e7026450083ed6&scene=27#wechat_redirect)  
-- [2019-10-07-X3D：现代Web的声明式3D技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=2&sn=09473f11b014da5ed09977132f0b795e&chksm=f9525101ce25d8171443be10c9c1c2208516ac2a6daa501ba6a9159eef693da253a632618041&scene=27#wechat_redirect)  
-- [2019-10-07-前端性能优化如何做到极致？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=3&sn=d739335e9674f53b155982a4628ef5a7&chksm=f9525101ce25d817ce4ea29fd58ffa73c33bd30e27a7437741d27e96857171f9823ec1a07535&scene=27#wechat_redirect)  
-- [2019-10-06-前端周报：Chrome不再支持https混用；npm十周年；HTTP/3获多企业支持](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492662&idx=1&sn=4cfe8729e4d891f8d10f4ec864cdb712&chksm=f9525175ce25d863c9d3e0845fdaf675ff2b7051a7d087614a653180da1cbad50508d08f0f48&scene=27#wechat_redirect)  
-- [2019-10-05-React-vs-Angular-vs-Vue.js：到底该选谁？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492658&idx=1&sn=d5a8c70c898199e2a5654e36c4d64cd3&chksm=f9525171ce25d8676f5ec2ec1ff0e4f06fd5ff00f5a91974d4dd63ce13e8a78e33c6c03a0217&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -155,7 +155,7 @@
 </summary>
 
 
-- [2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/) ![](assets/new.png)  
+- [2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/)  
 - [2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/)  
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/)  
 - [2019-09-19-小tips:-元素focus页面不滚动不定位的JS处理](https://www.zhangxinxu.com/wordpress/2019/09/js-focus-preventscroll/)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-17 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-17 08:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -193,6 +193,8 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2019-10-16-Slack的Service-Worker实践：更快的启动速度与离线支持](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=2&sn=c727f6a0ac30714515f23b0a979bb783&chksm=f9525184ce25d892286c8c94382bee6c068c48e7c2b9700e9a51e76a9a5da079ff49b97b4f5d&scene=27#wechat_redirect) 
+- [2019-10-15-组件复用一小步-轻松实现跨项目开发提效](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=1&sn=bd182d9dca3685819efd124b9a8a4e80&chksm=f95251cdce25d8db73c7b1eacd9ea47527727faa24719e408de0162fe9a123f078f2acadedb8&scene=27#wechat_redirect) 
 - [2019-10-14-大前端时代，浅谈JavaScript开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492742&idx=2&sn=89505c859bd762d52546b2ccd4c1b771&chksm=f95251c5ce25d8d32935d2dd042c4485bedfd3c03fb332d78b6689d85c427d175cdb769fafe7&scene=27#wechat_redirect) 
 - [2019-10-10-一位开发者的幽默独白：JavaScript工具怎么就这么烂](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=1&sn=06f434b05e00b4b6950e10032d785be7&chksm=f9525121ce25d837be3e219e1c7a56a97ef86ef904530be23d03688534195eefd884d271b48b&scene=27#wechat_redirect) 
 - [2019-10-07-X3D：现代Web的声明式3D技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492674&idx=2&sn=09473f11b014da5ed09977132f0b795e&chksm=f9525101ce25d8171443be10c9c1c2208516ac2a6daa501ba6a9159eef693da253a632618041&scene=27#wechat_redirect) 
