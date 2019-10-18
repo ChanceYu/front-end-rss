@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-18 06:00:23，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-18 12:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-10-17-解读HTTP/2与HTTP/3-的新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=1&sn=dddebeb50ae71dcf1557ee52376e9fd9&chksm=80255abcb752d3aadc09ff2546a40400f811ff4b11810b9b73a427f6cfcb815ff16fbc60f2aa&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-17-面向对象：期待遇见宠我、偏爱我、把我捧在手心里的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=2&sn=7449f82b67532f84b993ef9a9d41f41e&chksm=80255abcb752d3aac5f19dea748f8fcb313136ae945ded88751d1d6240d0c0409ac83a23d85e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-17-解读HTTP/2与HTTP/3-的新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=1&sn=dddebeb50ae71dcf1557ee52376e9fd9&chksm=80255abcb752d3aadc09ff2546a40400f811ff4b11810b9b73a427f6cfcb815ff16fbc60f2aa&scene=27#wechat_redirect)  
+- [2019-10-17-面向对象：期待遇见宠我、偏爱我、把我捧在手心里的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=2&sn=7449f82b67532f84b993ef9a9d41f41e&chksm=80255abcb752d3aac5f19dea748f8fcb313136ae945ded88751d1d6240d0c0409ac83a23d85e&scene=27#wechat_redirect)  
 - [2019-10-16-Vue-3.0源码发布，前端程序员：“我真的学不动了！”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=1&sn=3e67924c04f8ab5d85ac8a5ca2a01a5f&chksm=80255ab5b752d3a3deae80706fe1d86a47d77d338f1f0561d0ba08a0bb90eb1e1e61b8db693e&scene=27#wechat_redirect)  
 - [2019-10-16-深入了解-ES6-强大的-...-运算符](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=2&sn=1af9576c633b47c7ec7c2a2bb1de12e0&chksm=80255ab5b752d3a3a0a94f9b147e2d82b225df7ae9d6962b809f0c5b74f4d0ee2454f6720d0f&scene=27#wechat_redirect)  
 - [2019-10-14-axios-是如何封装-HTTP-请求的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=1&sn=0e13040ec66d6a4277ab75bbaf98d2e2&chksm=80255aa7b752d3b1efcb64edc72703ff7736f09b8147558ad12417f6c26080490b5efd8635e1&scene=27#wechat_redirect)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-10-18-科技爱好者周刊：第-78-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html) ![](assets/new.png)  
 - [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)  
 - [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)  
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
@@ -205,7 +206,6 @@
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)  
 - [2019-08-02-科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)  
 - [2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html)  
-- [2019-07-27-信用卡的历史起源](http://www.ruanyifeng.com/blog/2019/07/origin-of-credit-card.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
