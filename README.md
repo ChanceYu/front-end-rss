@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-19 22:00:22，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-20 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,9 +62,9 @@
 </summary>
 
 
-- [2019-10-19-如何用120行代码，实现一个交互完整的拖拽上传组件？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=1&sn=b37462edad488e72e0a45d3e2041667d&chksm=80255a47b752d351d4a74d2262e3870474c386970699369cf266b44f490735010b25a216ae72&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-19-面向对象：因为爱，你和我都想为对方成为一个更好的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=2&sn=826457b2350c96a77c6efc1efa77340e&chksm=80255a47b752d351279e50f97c80dd0bc6804948b45b6e8c5132dfe41ce26ace5f6665cc06dc&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-18-JavaScript-工具函数大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557249&idx=1&sn=5f2f550ccb76d33991ba3678f58ece7e&chksm=80255a40b752d356cf25f9aef5353ff6a7e847318f4a7478ee98a3823998fc2c06afc7d1a032&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-19-如何用120行代码，实现一个交互完整的拖拽上传组件？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=1&sn=b37462edad488e72e0a45d3e2041667d&chksm=80255a47b752d351d4a74d2262e3870474c386970699369cf266b44f490735010b25a216ae72&scene=27#wechat_redirect)  
+- [2019-10-19-面向对象：因为爱，你和我都想为对方成为一个更好的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=2&sn=826457b2350c96a77c6efc1efa77340e&chksm=80255a47b752d351279e50f97c80dd0bc6804948b45b6e8c5132dfe41ce26ace5f6665cc06dc&scene=27#wechat_redirect)  
+- [2019-10-18-JavaScript-工具函数大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557249&idx=1&sn=5f2f550ccb76d33991ba3678f58ece7e&chksm=80255a40b752d356cf25f9aef5353ff6a7e847318f4a7478ee98a3823998fc2c06afc7d1a032&scene=27#wechat_redirect)  
 - [2019-10-17-解读HTTP/2与HTTP/3-的新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=1&sn=dddebeb50ae71dcf1557ee52376e9fd9&chksm=80255abcb752d3aadc09ff2546a40400f811ff4b11810b9b73a427f6cfcb815ff16fbc60f2aa&scene=27#wechat_redirect)  
 - [2019-10-17-面向对象：期待遇见宠我、偏爱我、把我捧在手心里的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=2&sn=7449f82b67532f84b993ef9a9d41f41e&chksm=80255abcb752d3aac5f19dea748f8fcb313136ae945ded88751d1d6240d0c0409ac83a23d85e&scene=27#wechat_redirect)  
 - [2019-10-16-Vue-3.0源码发布，前端程序员：“我真的学不动了！”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=1&sn=3e67924c04f8ab5d85ac8a5ca2a01a5f&chksm=80255ab5b752d3a3deae80706fe1d86a47d77d338f1f0561d0ba08a0bb90eb1e1e61b8db693e&scene=27#wechat_redirect)  
@@ -93,6 +93,7 @@
 </summary>
 
 
+- [2019-10-20-前端周报：W3C成立25周年；Node.js-12.12发布；PornHub开发人员访谈](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492824&idx=1&sn=6569dcda26b82edf0713d310e83f7cc8&chksm=f952519bce25d88ddaa150e77a2b012a2a809a13dd89c827427d4b7f65825dfe9c2efd5202e4&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-10-18-应用程序分层：可扩展的Elixir应用程序设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492817&idx=1&sn=ba9a6997fe859602bec824b55f6d3cf6&chksm=f9525192ce25d8847d4aba913bbf4e0a5dc2ecf417a046a0dd1f402ed85753689744df21e3ca&scene=27#wechat_redirect)  
 - [2019-10-17-你真的了解React吗？这里有50个React面试问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=1&sn=089d1d33c39d3119cdcb8a4f59b43b01&chksm=f9525188ce25d89e444fbda363a8acc758f9dee953a9eebeb785570e736b2bc2869cfa3a1836&scene=27#wechat_redirect)  
 - [2019-10-17-商业化场景下，百度如何实践-Node.js-架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=2&sn=9cae2a9496f1cc445266a6a2a875bf82&chksm=f9525188ce25d89ee71211f2307b34624ec9df260470d0d0c125d6c6221ed9b16cf5ae6a9c2c&scene=27#wechat_redirect)  
@@ -112,7 +113,6 @@
 - [2019-10-11-想创建应用程序，只用React-Hooks就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492715&idx=1&sn=454829e50ed930fca0bcfcb972f75c5f&chksm=f9525128ce25d83ee00496def3c80d8524248dc123046840be2eacfd0bc2458a955debe8879f&scene=27#wechat_redirect)  
 - [2019-10-11-Kotlin为跨端开发带来哪些影响？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492715&idx=2&sn=8ca3e27cc52607275cbb04b25727ca27&chksm=f9525128ce25d83eb53ab3101d49a4dcd68d941b617459a4dde8ac711bdc07a5d3a46e65f57f&scene=27#wechat_redirect)  
 - [2019-10-10-一位开发者的幽默独白：JavaScript工具怎么就这么烂](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=1&sn=06f434b05e00b4b6950e10032d785be7&chksm=f9525121ce25d837be3e219e1c7a56a97ef86ef904530be23d03688534195eefd884d271b48b&scene=27#wechat_redirect)  
-- [2019-10-10-HTTP/3的过去、现在和未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=2&sn=252d727720c8d68ef9a49c6d8a1c996a&chksm=f9525121ce25d8377eb5feaa7d6ebecd966720071b36c7e63f7c96d74d880418eeb37a3069b8&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

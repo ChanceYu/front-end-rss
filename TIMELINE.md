@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-19 22:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-20 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -144,6 +144,7 @@
 - [【前端大全】2019-10-05-终于来了！Vue-3.0-源码开放](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557173&idx=1&sn=54aee5502ba68342e3a7f09c5dc04320&chksm=80255af4b752d3e215c4f1eae14054c8051ea891f143369d2f8d0fa0e53cb4cb60461f7c0d64&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-02-大前端时代，浅谈-JavaScript-开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557163&idx=1&sn=e68e022315891a235c818a97c358f49e&chksm=80255aeab752d3fcb512bdc0b250a40e8b02f96d62a7e6294e2a979c007b7051bdf4366a3180&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-01-5分钟搭一个企业级脚手架：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557159&idx=1&sn=367619b9ce0f95b3ad628ce071d3e423&chksm=80255ae6b752d3f0ef8b97c8d67590c03788f2787b9baededdf138fc74418ce506189d0e9115&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-20-前端周报：W3C成立25周年；Node.js-12.12发布；PornHub开发人员访谈](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492824&idx=1&sn=6569dcda26b82edf0713d310e83f7cc8&chksm=f952519bce25d88ddaa150e77a2b012a2a809a13dd89c827427d4b7f65825dfe9c2efd5202e4&scene=27#wechat_redirect) 
 - [【前端之巅】2019-10-18-应用程序分层：可扩展的Elixir应用程序设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492817&idx=1&sn=ba9a6997fe859602bec824b55f6d3cf6&chksm=f9525192ce25d8847d4aba913bbf4e0a5dc2ecf417a046a0dd1f402ed85753689744df21e3ca&scene=27#wechat_redirect) 
 - [【前端之巅】2019-10-17-你真的了解React吗？这里有50个React面试问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=1&sn=089d1d33c39d3119cdcb8a4f59b43b01&chksm=f9525188ce25d89e444fbda363a8acc758f9dee953a9eebeb785570e736b2bc2869cfa3a1836&scene=27#wechat_redirect) 
 - [【前端之巅】2019-10-17-商业化场景下，百度如何实践-Node.js-架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=2&sn=9cae2a9496f1cc445266a6a2a875bf82&chksm=f9525188ce25d89ee71211f2307b34624ec9df260470d0d0c125d6c6221ed9b16cf5ae6a9c2c&scene=27#wechat_redirect) 
