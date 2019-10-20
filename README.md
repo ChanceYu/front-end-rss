@@ -9,13 +9,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-20 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-21 06:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -62,6 +62,7 @@
 </summary>
 
 
+- [2019-10-20-如何使用-Proxy-来代理-JavaScript-里的类](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557259&idx=1&sn=3aa73167ba3e5f073c0181d65fe2b966&chksm=80255a4ab752d35c0771a981a594d2811cbec39c80f21e37314c1d7aa083b478e91915e8c9cc&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-10-19-如何用120行代码，实现一个交互完整的拖拽上传组件？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=1&sn=b37462edad488e72e0a45d3e2041667d&chksm=80255a47b752d351d4a74d2262e3870474c386970699369cf266b44f490735010b25a216ae72&scene=27#wechat_redirect)  
 - [2019-10-19-面向对象：因为爱，你和我都想为对方成为一个更好的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=2&sn=826457b2350c96a77c6efc1efa77340e&chksm=80255a47b752d351279e50f97c80dd0bc6804948b45b6e8c5132dfe41ce26ace5f6665cc06dc&scene=27#wechat_redirect)  
 - [2019-10-18-JavaScript-工具函数大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557249&idx=1&sn=5f2f550ccb76d33991ba3678f58ece7e&chksm=80255a40b752d356cf25f9aef5353ff6a7e847318f4a7478ee98a3823998fc2c06afc7d1a032&scene=27#wechat_redirect)  
@@ -81,7 +82,6 @@
 - [2019-10-09-2019-大龄前端如何准备面试？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557195&idx=1&sn=f7235fbd8d18d2ef88ff3ff02804ad16&chksm=80255a8ab752d39c33229317702d917fda5f3ca66397213331d21a513de2ef115708051d58dc&scene=27#wechat_redirect)  
 - [2019-10-09-面向对象：愿此生遇良人，不负如来不负卿](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557195&idx=2&sn=874dfd87428ec2fc92ba688612c7a8c0&chksm=80255a8ab752d39c608528b638975b0603ac3572225f1c7c0d0247219a6082a70f6e61b0e225&scene=27#wechat_redirect)  
 - [2019-10-08-从零手写-Vue-3.0-中的响应式源码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557190&idx=1&sn=411c7aad4747bb30e9003e464d619375&chksm=80255a87b752d3914f5df5481e1263cbed76a53aa25fff9818b7c0e4810fe6db115fc58365cc&scene=27#wechat_redirect)  
-- [2019-10-08-WebWorker-在文本标注中的应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557190&idx=2&sn=ea03d944aaaf14f1fccb2e6befaa2502&chksm=80255a87b752d39141f617e898448c9c7b7deb79646be8a76b347d82f5d8b90c4f6e075d81f8&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -93,7 +93,7 @@
 </summary>
 
 
-- [2019-10-20-前端周报：W3C成立25周年；Node.js-12.12发布；PornHub开发人员访谈](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492824&idx=1&sn=6569dcda26b82edf0713d310e83f7cc8&chksm=f952519bce25d88ddaa150e77a2b012a2a809a13dd89c827427d4b7f65825dfe9c2efd5202e4&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-20-前端周报：W3C成立25周年；Node.js-12.12发布；PornHub开发人员访谈](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492824&idx=1&sn=6569dcda26b82edf0713d310e83f7cc8&chksm=f952519bce25d88ddaa150e77a2b012a2a809a13dd89c827427d4b7f65825dfe9c2efd5202e4&scene=27#wechat_redirect)  
 - [2019-10-18-应用程序分层：可扩展的Elixir应用程序设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492817&idx=1&sn=ba9a6997fe859602bec824b55f6d3cf6&chksm=f9525192ce25d8847d4aba913bbf4e0a5dc2ecf417a046a0dd1f402ed85753689744df21e3ca&scene=27#wechat_redirect)  
 - [2019-10-17-你真的了解React吗？这里有50个React面试问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=1&sn=089d1d33c39d3119cdcb8a4f59b43b01&chksm=f9525188ce25d89e444fbda363a8acc758f9dee953a9eebeb785570e736b2bc2869cfa3a1836&scene=27#wechat_redirect)  
 - [2019-10-17-商业化场景下，百度如何实践-Node.js-架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=2&sn=9cae2a9496f1cc445266a6a2a875bf82&chksm=f9525188ce25d89ee71211f2307b34624ec9df260470d0d0c125d6c6221ed9b16cf5ae6a9c2c&scene=27#wechat_redirect)  

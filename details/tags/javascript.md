@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-20 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-21 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -86,6 +86,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2019-10-20-如何使用-Proxy-来代理-JavaScript-里的类](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557259&idx=1&sn=3aa73167ba3e5f073c0181d65fe2b966&chksm=80255a4ab752d35c0771a981a594d2811cbec39c80f21e37314c1d7aa083b478e91915e8c9cc&scene=27#wechat_redirect) 
 - [2019-10-19-如何用120行代码，实现一个交互完整的拖拽上传组件？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=1&sn=b37462edad488e72e0a45d3e2041667d&chksm=80255a47b752d351d4a74d2262e3870474c386970699369cf266b44f490735010b25a216ae72&scene=27#wechat_redirect) 
 - [2019-10-18-JavaScript-工具函数大全](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557249&idx=1&sn=5f2f550ccb76d33991ba3678f58ece7e&chksm=80255a40b752d356cf25f9aef5353ff6a7e847318f4a7478ee98a3823998fc2c06afc7d1a032&scene=27#wechat_redirect) 
 - [2019-10-16-深入了解-ES6-强大的-...-运算符](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=2&sn=1af9576c633b47c7ec7c2a2bb1de12e0&chksm=80255ab5b752d3a3a0a94f9b147e2d82b225df7ae9d6962b809f0c5b74f4d0ee2454f6720d0f&scene=27#wechat_redirect) 
