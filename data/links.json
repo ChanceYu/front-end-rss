@@ -9030,6 +9030,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Tmux 使用教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/10/tmux.html",
+        "date": "2019-10-21"
+      },
+      {
         "title": "科技爱好者周刊：第 78 期",
         "link": "http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html",
         "date": "2019-10-18"
