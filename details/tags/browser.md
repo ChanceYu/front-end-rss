@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-21 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-23 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2019-10-23-面试须知：浏览器相关原理详细总结（1）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557282&idx=2&sn=3ff4b60c3563a5b5b0517add35344e92&chksm=80255a63b752d375599d9d23b689b4e9f455f5d7582547630cb025130ab3709afd4d49537f12&scene=27#wechat_redirect) 
 - [2019-10-14-axios-是如何封装-HTTP-请求的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=1&sn=0e13040ec66d6a4277ab75bbaf98d2e2&chksm=80255aa7b752d3b1efcb64edc72703ff7736f09b8147558ad12417f6c26080490b5efd8635e1&scene=27#wechat_redirect) 
 - [2019-10-12-Chrome-Devtools-高级调试指南（新）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=1&sn=8aa033d2c7a04a73a6abf836bd4e5a61&chksm=80255aa1b752d3b73de295ee3f75d1366e80619f7c41bf3987a6fa11868434061f54719a1848&scene=27#wechat_redirect) 
 - [2019-10-11-一文搞懂浏览器缓存机制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=2&sn=9991d86d4deb4c5b5ec3bcb914e3ee34&chksm=80255a96b752d3802a9172f76443081ca8517f778539ef1c3d069d826c709d520dbb75acd830&scene=27#wechat_redirect) 
