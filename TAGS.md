@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-10-25 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-26 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,6 +121,7 @@
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
 - [【前端大全】Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd)
 - [【前端大全】增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd)
+- [【前端之巅】重磅！TypeScript-3.7-RC发布，备受瞩目的Optional-Chaining来了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492887&idx=1&sn=64588db6c5e77b171f3e96c3f40ddec5&chksm=f9525054ce25d942ccbceb1feb63514587c3ef9f355e6c002bff3afb769d3b1da1ad4ac77255&scene=27#wechat_redirect)
 - [【前端之巅】TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd)
 - [【前端之巅】什么场景下不应该使用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492293&idx=2&sn=e8ffb773bf8e77fe3c506f0dea650253&chksm=f9525786ce25de9099a996dc0b2ee1abc97e7a3c287565456ab7faf30099561318ab3c520bfe&scene=27#wechat_redirect)
 - [【前端之巅】TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect)
@@ -129,7 +130,6 @@
 - [【前端之巅】独家解读：淘宝TypeScript多场景开发和实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491580&idx=1&sn=bdc430ab303a12d3fe3eb01281445e93#rd)
 - [【前端之巅】使用TypeScript两年之后：它值得推荐吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491022&idx=1&sn=0f080050f4bb7c3365d5cfbc1b70bea1#rd)
 - [【前端之巅】为什么说TypeScript不适合大型项目？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490393&idx=1&sn=d435616425a9dc19baeca9224a71d933#wechat_redirect)
-- [【前端之巅】Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -260,6 +260,7 @@
 - [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
+- [【前端之巅】美团外卖Flutter容器化生态建设实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=2&sn=e1fdff73ba134f7fc5925d142d226640&chksm=f952504fce25d9591296c44668fb6560cbad8459f747de9f6fc374b66a5a7c1791d58f5eeef1&scene=27#wechat_redirect)
 - [【前端之巅】腾讯专家实战解读Flutter-for-Web](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=1&sn=4d8e590a63c976ccc4fb97775a2f9097&chksm=f9525184ce25d8929170ca5e2925fd0efdff6e4227f6d536bbab2eac412cb19e37ea344027a0&scene=27#wechat_redirect)
 - [【前端之巅】拉美独角兽Nubank：为什么用Flutter做移动开发很酷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492742&idx=1&sn=7fb335c0b64c17d414061328b761dbfb&chksm=f95251c5ce25d8d3d0401ff0688be6e4f14d58463dd9b3d70ce6b03c7b9e84de025b88757f79&scene=27#wechat_redirect)
 - [【前端之巅】蚂蚁财富Flutter工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=2&sn=d8f36501bb77910f06f9ff38d4eddd75&chksm=f9525159ce25d84fe6cf067611c31707c466ee5fcfa4064e74691b2d4e65436cb9bf01c15b6a&scene=27#wechat_redirect)
@@ -273,7 +274,6 @@
 - [【前端之巅】重磅！Flutter-2019年最新进展和未来展望](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491541&idx=1&sn=774717a029004863f60b78763514c743#rd)
 - [【前端之巅】Chrome-76-Beta版功能尝鲜：dark模式、轻松安装PWA、隐身模式难检测](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491522&idx=1&sn=d7657e035f499751d219a0de113d2777#rd)
 - [【前端之巅】Flutter全平台制霸！新增Web和嵌入式目标平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491194&idx=1&sn=0c7b8e68bf80435ef614d5b8552625e5#rd)
-- [【前端之巅】移动开发十周年：开源节流，创造新生态](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491051&idx=1&sn=ec6a3e543c543d1f4288295aa1712d37#rd)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -558,10 +558,10 @@
 - [【前端早读课】【第1461期】平庸前端码农之蜕变-—-AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect)
 - [【前端早读课】【第1449期】WebAssembly-后-MVP-时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect)
 - [【前端早读课】【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect)
+- [【前端大全】年薪不到21.6万退全款-|-廖雪峰的-web-全栈课开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=1&sn=d8c7347dc09b6cf3b4faba23cfdfe90c&chksm=80255a69b752d37f0bfade807ed31f2e9e60cdca41e280c2a1c6b01dd748fcf4256695219a61&scene=27#wechat_redirect)
 - [【前端大全】解读HTTP/2与HTTP/3-的新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557245&idx=1&sn=dddebeb50ae71dcf1557ee52376e9fd9&chksm=80255abcb752d3aadc09ff2546a40400f811ff4b11810b9b73a427f6cfcb815ff16fbc60f2aa&scene=27#wechat_redirect)
 - [【前端大全】年薪不到21.6万退全款-|-廖雪峰的“Web-全栈架构师”开班了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=1&sn=7ac643093f1c031d18e1a36766c02b22&chksm=80255ac8b752d3de8b04cb1e6d4f5e908a17843f6254ba883675796c2414ff007915c5268ead#rd)
 - [【前端大全】前端应该如何准备数据结构和算法？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556966&idx=1&sn=c13116dc834168dbaaa29a76256239df&chksm=80255ba7b752d2b147ef1794ac6df289c72d47037228b204f60867c53afda611cfac7f8bdaf4#rd)
-- [【前端大全】Web全栈工程师年薪40W+，凭什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556151&idx=1&sn=7fbf2305c75bc45edf2eaa520d18a1d0#rd)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-25 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-26 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -287,6 +287,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-10-24-Web堆栈选择指南：JAMStack-vs-MEAN-vs-LAMP](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=1&sn=593b004bf06dc42ff560616fdd057405&chksm=f952504fce25d959def43dc076794cfe5100da00b4ef31e0fc0ff86a9f7186275094a49418b4&scene=27#wechat_redirect) 
+- [2019-10-24-低延迟语音开发很难？大牛教你3招避坑](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=3&sn=186ca53497764ecbf41397942263b72e&chksm=f952504fce25d9591745c55641a51928329ec3c592fcff310cb976e09a2eba83417f0671ec66&scene=27#wechat_redirect) 
+- [2019-10-22-解密国内BAT等大厂前端技术体系之阿里篇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492849&idx=1&sn=765a77fa657d03e2dcb900fcd9cf88e8&chksm=f95251b2ce25d8a49c08baae27c1e74db6a512623520606d4085f37cc5078ac4a4416050b43d&scene=27#wechat_redirect) 
 - [2019-10-18-应用程序分层：可扩展的Elixir应用程序设计模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492817&idx=1&sn=ba9a6997fe859602bec824b55f6d3cf6&chksm=f9525192ce25d8847d4aba913bbf4e0a5dc2ecf417a046a0dd1f402ed85753689744df21e3ca&scene=27#wechat_redirect) 
 - [2019-10-17-听我的！搞懂数据库、云会议、AI开发、微服务其实一点也不难](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=3&sn=1f70befccda50f145f81668eb49d3411&chksm=f9525188ce25d89ed6da85ad9b6b269f66dc97aa3f1b15e69163d973e49a4a1927a5f54a527c&scene=27#wechat_redirect) 
 - [2019-10-15-腾讯在线教育的大前端架构演进之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=2&sn=7ef3708e7145325aedcdd210661aef62&chksm=f95251cdce25d8dbfe20e22f14e71098201bc00bac8ff9b675be95410b190178efac14a97903&scene=27#wechat_redirect) 
