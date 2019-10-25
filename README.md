@@ -9,16 +9,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-24 22:00:19，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-25 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -62,8 +62,8 @@
 </summary>
 
 
-- [2019-10-24-前端代码质量-圈复杂度原理和实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=1&sn=f3e11c932076b0e73e077055d25dba8f&chksm=80255a67b752d371df96107a3a6ec8eccde3c84f902d8f85784316e8271ae63a696ff8868048&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-10-24-面向对象：以诚相待，携手一生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=2&sn=926bf7d4a96e2959b265a80a18edd6c2&chksm=80255a67b752d371b611d12e0d75b69168fc163b0629bfd557b7de08b7dd374da5d0ae315032&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-10-24-前端代码质量-圈复杂度原理和实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=1&sn=f3e11c932076b0e73e077055d25dba8f&chksm=80255a67b752d371df96107a3a6ec8eccde3c84f902d8f85784316e8271ae63a696ff8868048&scene=27#wechat_redirect)  
+- [2019-10-24-面向对象：以诚相待，携手一生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=2&sn=926bf7d4a96e2959b265a80a18edd6c2&chksm=80255a67b752d371b611d12e0d75b69168fc163b0629bfd557b7de08b7dd374da5d0ae315032&scene=27#wechat_redirect)  
 - [2019-10-23-Vue3.0-来了，明年的面试问什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557282&idx=1&sn=79e5f448df3bf2bf565b04ca5be8e27d&chksm=80255a63b752d3754e5bac73b4b9cfab9cc294d6adbacf9a1d0453d7ec4058660bbe6d987edb&scene=27#wechat_redirect)  
 - [2019-10-23-面试须知：浏览器相关原理详细总结（1）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557282&idx=2&sn=3ff4b60c3563a5b5b0517add35344e92&chksm=80255a63b752d375599d9d23b689b4e9f455f5d7582547630cb025130ab3709afd4d49537f12&scene=27#wechat_redirect)  
 - [2019-10-22-2019-年了，你还不会-CSS-动画？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557269&idx=1&sn=5980e0d50be6edf5fb4224094246fdda&chksm=80255a54b752d34265a8d60f98330c49af72f5a6340aeebd4bf267a3adb21714ecc985fcfa01&scene=27#wechat_redirect)  
@@ -186,6 +186,7 @@
 </summary>
 
 
+- [2019-10-25-科技爱好者周刊：第-79-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html) ![](assets/new.png)  
 - [2019-10-21-Tmux-使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html)  
 - [2019-10-18-科技爱好者周刊：第-78-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)  
 - [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)  
@@ -205,7 +206,6 @@
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  
 - [2019-08-08-xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)  
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html)  
-- [2019-08-02-科技爱好者周刊：第-67-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-67.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
