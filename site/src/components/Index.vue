@@ -194,20 +194,22 @@ export default {
     },
     handlerSearch () {
       const value = this.searchValue
-      const plainValue = value.replace(/^\[(时间|来源|分类)\]\s/, '')
+      const matches = value.match(/^\[(时间|来源|分类)\]\s(.+)/)
+      const matchValue = matches && matches[2]
 
       if (value) {
         let arr = []
 
-        if (datesMap[plainValue]) {
-          arr = datesMap[plainValue]
-        } else if (rssMap[plainValue]) {
-          arr = rssMap[plainValue]
-        } else if (tagsMap[plainValue]) {
-          arr = tagsMap[plainValue]
+        if (matches && datesMap[matchValue]) {
+          arr = datesMap[matchValue]
+        } else if (matches && rssMap[matchValue]) {
+          arr = rssMap[matchValue]
+        } else if (matches && tagsMap[matchValue]) {
+          arr = tagsMap[matchValue]
         } else {
           results.forEach((item) => {
-            const reg = new RegExp(`(${value})`, 'gi')
+            // eslint-disable-next-line
+            const reg = new RegExp('(' + value.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
             if (reg.test(item.title)) {
               arr.push({
                 ...item,
