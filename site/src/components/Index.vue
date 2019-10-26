@@ -117,7 +117,6 @@ const ranges = [{
 }]
 
 let results = []
-let hotsMap = {}
 let datesMap = {}
 let rssMap = {}
 let tagsMap = {}
@@ -127,14 +126,6 @@ links.forEach((rssItem) => {
     item.rss = rssItem.rss
     item.rssTitle = rssItem.title
     item.rssLink = rssItem.link
-
-    hotwords.forEach((worrd) => {
-      if ((new RegExp(worrd, 'gi')).test(item.title)) {
-        hotsMap[worrd] = hotsMap[worrd] || []
-        hotsMap[worrd].push(item)
-        hotsMap[worrd] = sortArray(hotsMap[worrd])
-      }
-    })
 
     tags.forEach((tagItem) => {
       if ((new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
@@ -169,7 +160,6 @@ export default {
   data () {
     return {
       searchValue: '',
-      searchCate: '',
       showCate: false,
       loading: true,
       hotwords,
@@ -185,60 +175,58 @@ export default {
     },
     handlerCate (item) {
       let label = ''
-      let list = []
       if (item.dates) {
         label = '[时间] ' + item.title
-        list = datesMap[item.title] || []
       } else if (item.tag) {
         label = '[分类] ' + item.tag
-        list = tagsMap[item.tag]
       } else if (item.rss) {
         label = '[来源] ' + item.title
-        list = rssMap[item.title]
       }
 
       if (typeof item === 'string') {
         this.searchValue = item
-        this.searchCate = ''
-        this.handlerSearch()
       } else {
-        if (this.$route.query.q) {
-          this.$router.replace({
-            path: '/'
-          })
-        }
-
         this.searchValue = label
-        this.searchCate = label
-        this.results = [...list]
-        window.scrollTo(0, 0)
       }
 
+      this.handlerSearch()
       this.showCate = false
     },
-    handlerSearch (init) {
-      if (this.searchValue) {
+    handlerSearch () {
+      const value = this.searchValue
+      const plainValue = value.replace(/^\[(时间|来源|分类)\]\s/, '')
+
+      if (value) {
         let arr = []
-        results.forEach((item) => {
-          const reg = new RegExp(`(${this.searchValue})`, 'gi')
-          if (reg.test(item.title)) {
-            arr.push({
-              ...item,
-              sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
-            })
-          }
-        })
+
+        if (datesMap[plainValue]) {
+          arr = datesMap[plainValue]
+        } else if (rssMap[plainValue]) {
+          arr = rssMap[plainValue]
+        } else if (tagsMap[plainValue]) {
+          arr = tagsMap[plainValue]
+        } else {
+          results.forEach((item) => {
+            const reg = new RegExp(`(${value})`, 'gi')
+            if (reg.test(item.title)) {
+              arr.push({
+                ...item,
+                sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
+              })
+            }
+          })
+        }
 
         this.results = [...arr]
       } else {
         this.results = [...results]
       }
 
-      if ((this.$route.query.q || '') !== this.searchValue) {
+      if ((this.$route.query.q || '') !== value) {
         this.$router.replace({
           path: '/',
-          query: this.searchValue ? {
-            q: this.searchValue
+          query: value ? {
+            q: value
           } : {}
         })
       }
@@ -249,7 +237,6 @@ export default {
       this.handlerSearch()
     },
     onClear () {
-      this.searchCate = ''
       this.handlerSearch()
     }
   },
