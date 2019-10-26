@@ -349,7 +349,7 @@ export default {
     margin: 0 auto;
   }
   .action-top{
-    bottom: 10px;
+    bottom: 20px;
     right: 10px;
   }
   .search-modal{
