@@ -55,7 +55,6 @@
       @search="onSearch"
       @clear="onClear"
       class="search-box"
-      :class="{ active: !!searchCate }"
     >
       <div slot="label" class="action-cate" @click="showCate = true"><van-icon name="bars" /><span class="lbl">筛选</span></div>
       <div slot="action" class="action-btn" @click="onSearch">搜索</div>
@@ -403,12 +402,6 @@ export default {
   margin: 0 auto;
   padding: 10px 0;
 
-  &.active{
-    input{
-      color: #f44336;
-    }
-  }
-
   .van-cell{
     padding: 10px 0;
     .van-icon{
@@ -421,7 +414,7 @@ export default {
   }
   input{
     font-size: 16px;
-    color: #666;
+    color: #999;
   }
   .van-search__action{
     &:active{
