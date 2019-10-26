@@ -50,7 +50,7 @@
 
     <van-search
       v-model="searchValue"
-      placeholder="请输入搜索关键词"
+      placeholder="搜索前端技术文章"
       show-action
       @search="onSearch"
       @clear="onClear"
