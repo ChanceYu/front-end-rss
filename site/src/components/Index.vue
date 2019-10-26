@@ -235,7 +235,7 @@ export default {
         this.results = [...results]
       }
 
-      if (this.$route.query.q !== this.searchValue) {
+      if ((this.$route.query.q || '') !== this.searchValue) {
         this.$router.replace({
           path: '/',
           query: this.searchValue ? {
@@ -257,7 +257,7 @@ export default {
   mounted () {
     const { q } = this.$route.query
 
-    this.searchValue = q
+    this.searchValue = q || ''
     this.handlerSearch(true)
   }
 }
@@ -448,11 +448,11 @@ export default {
       vertical-align: middle;
       margin-right: 2px;
       font-size: 20px;
+      position: relative;
+      top: -1px;
     }
     .lbl{
       vertical-align: middle;
-      position: relative;
-      top: 1px;
     }
   }
   .action-btn{
