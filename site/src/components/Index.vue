@@ -349,8 +349,8 @@ export default {
     margin: 0 auto;
   }
   .action-top{
-    bottom: 6px;
-    right: 6px;
+    bottom: 10px;
+    right: 10px;
   }
   .search-modal{
     width: 70%;
