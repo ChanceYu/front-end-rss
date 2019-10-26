@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@vant/touch-emulator": "^1.1.0",
+    "dayjs": "^1.8.16",
     "vant": "^2.2.9",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
