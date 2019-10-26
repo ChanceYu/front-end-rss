@@ -265,13 +265,13 @@ export default {
 
 <style lang="scss">
 .container{
-  width: 70%;
+  width: 50%;
   margin: 0 auto;
 }
 .fixed-box{
   position: fixed;
   bottom: 100px;
-  right: 100px;
+  right: 25%;
   z-index: 9;
   .action-github,
   .action-top{
@@ -283,6 +283,8 @@ export default {
     margin-top: 12px;
     border-radius: 2px;
     overflow: hidden;
+    position: relative;
+    left: 50px;
   }
   .action-github{
     img{
@@ -396,7 +398,7 @@ export default {
 }
 .search-box{
   position: fixed;
-  width: 70%;
+  width: 50%;
   z-index: 9;
   margin: 0 auto;
   padding: 10px 0;
@@ -460,6 +462,16 @@ export default {
   }
 }
 
+@media screen and (max-width: 1200px) {
+  .container,
+  .search-box{
+    width: 70%;
+  }
+  .fixed-box{
+    right: 15%;
+  }
+}
+
 @media screen and (max-width: 800px) {
   .container{
     width: 100%;
@@ -468,6 +480,10 @@ export default {
   .fixed-box{
     bottom: 20px;
     right: 10px;
+    .action-github,
+    .action-top{
+      left: 0;
+    }
   }
   .search-modal{
     width: 70%;
