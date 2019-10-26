@@ -320,6 +320,7 @@ export default {
     margin: 4px;
     cursor: pointer;
     padding: 4px 8px;
+    font-size: 14px;
     &:hover{
       background: #666;
     }
@@ -433,6 +434,8 @@ export default {
   }
   .van-search__label{
     background: #f5f5f5;
+    display: flex;
+    align-items: center;
     &:active,
     &:hover{
       background: #eee;
@@ -440,8 +443,6 @@ export default {
   }
   .action-cate{
     cursor: pointer;
-    position: relative;
-    top: 4px;
     padding: 0 6px;
     .van-icon{
       vertical-align: middle;
@@ -475,17 +476,13 @@ export default {
     width: 100%;
     padding: 10px;
     .van-cell{
-      padding: 6px 0;
+      padding: 10px 0;
     }
     input{
       font-size: 14px;
     }
-    .action-cate{
-      top: 0;
-    }
   }
   .result-box{
-    padding-top: 60px;
     .van-cell{
       font-size: 16px;
     }
