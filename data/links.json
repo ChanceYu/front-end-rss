@@ -8658,6 +8658,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "幸好document.readyState还是有点锤子用的",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/",
+        "date": "2019-10-27"
+      },
+      {
         "title": "关于《CSS选择器世界》这本书",
         "link": "https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/",
         "date": "2019-10-16"
