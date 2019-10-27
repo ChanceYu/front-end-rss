@@ -3342,6 +3342,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "JavaScript 手写代码无敌秘籍",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557293&idx=1&sn=b1d52d16ba275f7a4df9b95c8effe1ed&chksm=80255a6cb752d37ae4a2fb34417e6140c87b4fba7bcd73df9bebf650a280904c071d6e8482d4&scene=27#wechat_redirect",
+        "date": "2019-10-26"
+      },
+      {
         "title": "年薪不到21.6万退全款 | 廖雪峰的 web 全栈课开班了",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=1&sn=d8c7347dc09b6cf3b4faba23cfdfe90c&chksm=80255a69b752d37f0bfade807ed31f2e9e60cdca41e280c2a1c6b01dd748fcf4256695219a61&scene=27#wechat_redirect",
         "date": "2019-10-25"
@@ -9651,6 +9656,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "ES6全部特性（看图就能记下，值得收藏）",
+        "link": "http://www.yyyweb.com/5321.html",
+        "date": "2019-10-27"
+      },
+      {
+        "title": "数组去重12种方案（经典面试必问）",
+        "link": "http://www.yyyweb.com/5318.html",
+        "date": "2019-10-27"
+      },
       {
         "title": "你真的了解重绘和重排（回流）吗？",
         "link": "http://www.yyyweb.com/5317.html",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-27 18:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-27 22:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -86,6 +86,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2019-10-26-JavaScript-手写代码无敌秘籍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557293&idx=1&sn=b1d52d16ba275f7a4df9b95c8effe1ed&chksm=80255a6cb752d37ae4a2fb34417e6140c87b4fba7bcd73df9bebf650a280904c071d6e8482d4&scene=27#wechat_redirect) 
 - [2019-10-25-微信-H5-页面兼容性解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=2&sn=008aa0ffce4735403116ea88b02321a0&chksm=80255a69b752d37f38aa7064599939250192087c957f564673dc3d6f3598f6906944bbd124a5&scene=27#wechat_redirect) 
 - [2019-10-20-如何使用-Proxy-来代理-JavaScript-里的类](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557259&idx=1&sn=3aa73167ba3e5f073c0181d65fe2b966&chksm=80255a4ab752d35c0771a981a594d2811cbec39c80f21e37314c1d7aa083b478e91915e8c9cc&scene=27#wechat_redirect) 
 - [2019-10-19-如何用120行代码，实现一个交互完整的拖拽上传组件？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=1&sn=b37462edad488e72e0a45d3e2041667d&chksm=80255a47b752d351d4a74d2262e3870474c386970699369cf266b44f490735010b25a216ae72&scene=27#wechat_redirect) 
@@ -311,6 +312,8 @@
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html) 
+- [2019-10-27-ES6全部特性（看图就能记下，值得收藏）](http://www.yyyweb.com/5321.html) 
+- [2019-10-27-数组去重12种方案（经典面试必问）](http://www.yyyweb.com/5318.html) 
 - [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html) 
 - [2018-11-25-JavaScript-引擎、运行时、调用堆栈概述](http://www.yyyweb.com/5219.html) 
 - [2018-09-05-面向初学者：什么是高阶组件？](http://www.yyyweb.com/5190.html) 
