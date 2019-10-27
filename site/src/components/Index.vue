@@ -93,6 +93,15 @@ import links from '../../../data/links.json'
 import rss from '../../../data/rss.json'
 import tags from '../../../data/tags.json'
 
+const getPlatform = () => /Android|iPhone/i.test(navigator.userAgent)
+const isMobile = getPlatform()
+
+window.addEventListener('resize', () => {
+  if (isMobile !== getPlatform()) {
+    location.reload()
+  }
+})
+
 const sortArray = (arr) => {
   return arr.sort((a, b) => {
     return a.date < b.date ? 1 : -1
@@ -292,9 +301,11 @@ export default {
   .action-top{
     background: #eee;
     &:hover{
-      background: #f5f5f5;
+      color: #fff;
+      background: #1a1515;
     }
     .van-icon{
+      font-weight: bold;
       vertical-align: middle;
     }
   }
