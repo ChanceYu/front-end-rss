@@ -60,7 +60,12 @@
       <div slot="action" class="action-btn" @click="onSearch">搜索</div>
     </van-search>
 
-     <div class="result-box">
+     <div
+      class="result-box"
+      v-infinite-scroll="loadMore"
+      infinite-scroll-disabled="isBusy"
+      infinite-scroll-distance="100"
+    >
 
        <div class="empty" v-if="!results.length">
          <van-icon name="info-o" />
@@ -73,14 +78,14 @@
           :href="item.link"
           target="_blank"
         >
-          <van-cell
-              :label="item.date + '          ' + item.rssTitle"
-              is-link
-            >
-              <div slot="icon" class="order">{{index+1}}、</div>
-              <div slot="title" v-html="item.sotitle || item.title"></div>
+          <van-cell is-link>
+            <div slot="icon" class="item-order">{{index+1}}、</div>
+            <div slot="label">{{item.date}}<span class="item-from">{{item.rssTitle}}</span> </div>
+            <div slot="title" class="item-title" v-html="item.sotitle || item.title"></div>
           </van-cell>
         </a>
+
+        <van-divider v-if="results.length && isBusy">没有更多了~</van-divider>
 
      </div>
 
@@ -184,12 +189,24 @@ export default {
       ranges,
       rss,
       tags,
+      pageNo: 1,
+      pageSize: 15,
+      isBusy: true,
+      allList: [],
       results: []
     }
   },
   methods: {
     toTop () {
       window.scrollTo(0, 0)
+    },
+    loadMore () {
+      const allLen = this.allList.length
+      const resultsLen = this.results.length
+
+      this.isBusy = allLen === 0 || allLen < this.pageSize || (resultsLen && this.results[resultsLen - 1].link === this.allList[allLen - 1].link)
+      this.results = this.allList.slice(0, this.pageNo * this.pageSize)
+      this.pageNo += 1
     },
     handlerCate (item) {
       let label = ''
@@ -237,9 +254,9 @@ export default {
           })
         }
 
-        this.results = [...arr]
+        this.allList = [...arr]
       } else {
-        this.results = [...results]
+        this.allList = [...results]
       }
 
       if ((this.$route.query.q || '') !== value) {
@@ -252,6 +269,10 @@ export default {
       }
 
       window.scrollTo(0, 0)
+
+      this.pageNo = 1
+      this.results = []
+      this.loadMore()
     },
     onSearch () {
       this.handlerSearch()
@@ -264,7 +285,7 @@ export default {
     const { q } = this.$route.query
 
     this.searchValue = q || ''
-    this.handlerSearch(true)
+    this.handlerSearch()
   }
 }
 </script>
@@ -379,8 +400,15 @@ export default {
       text-decoration: underline;
     }
   }
-  .order{
+  .item-order{
     color: #999;
+  }
+  .item-title{
+    margin-bottom: 6px;
+  }
+  .item-from{
+    display: inline-block;
+    margin-left: 12px;
   }
   .red{
     color: #f44336;
@@ -402,6 +430,9 @@ export default {
     font-size: 14px;
     color: #999;
     word-break: break-all;
+  }
+  .van-divider{
+    margin: 20px;
   }
 }
 .search-box{
@@ -480,11 +511,17 @@ export default {
     margin: 0 auto;
   }
   .fixed-box{
-    bottom: 20px;
+    bottom: 50px;
     right: 10px;
     .action-github,
     .action-top{
       left: 0;
+    }
+    .action-top{
+      &:hover{
+        color: inherit;
+        background: #eee;
+      }
     }
   }
   .search-modal{

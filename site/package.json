@@ -15,6 +15,7 @@
     "dayjs": "^1.8.16",
     "vant": "^2.2.9",
     "vue": "^2.5.2",
+    "vue-infinite-scroll": "^2.0.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
