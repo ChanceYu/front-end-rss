@@ -127,13 +127,22 @@ links.forEach((rssItem) => {
     item.rssTitle = rssItem.title
     item.rssLink = rssItem.link
 
+    let isInTag = false
+
     tags.forEach((tagItem) => {
-      if ((new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
+      if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
+        isInTag = true
         tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
         tagsMap[tagItem.tag].push(item)
         tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
       }
     })
+
+    if (!isInTag) {
+      tagsMap['其它'] = tagsMap['其它'] || []
+      tagsMap['其它'].push(item)
+      tagsMap['其它'] = sortArray(tagsMap['其它'])
+    }
 
     ranges.forEach((rangeItem) => {
       const dates = rangeItem.dates
