@@ -64,7 +64,7 @@
       class="result-box"
       v-infinite-scroll="loadMore"
       infinite-scroll-disabled="isBusy"
-      infinite-scroll-distance="100"
+      infinite-scroll-distance="10"
     >
 
        <div class="empty" v-if="!results.length">
@@ -204,7 +204,7 @@ export default {
       const allLen = this.allList.length
       const resultsLen = this.results.length
 
-      this.isBusy = allLen === 0 || allLen < this.pageSize || (resultsLen && this.results[resultsLen - 1].link === this.allList[allLen - 1].link)
+      this.isBusy = allLen < this.pageSize || (resultsLen && this.results[resultsLen - 1].link === this.allList[allLen - 1].link)
       this.results = this.allList.slice(0, this.pageNo * this.pageSize)
       this.pageNo += 1
     },
