@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-27 18:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-27 22:00:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -119,6 +119,7 @@
 - [【前端早读课】2019-10-09-【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-09-【视频】Dcloud@崔红保：基于weex实现的小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=2&sn=1c093a8cdb479fcdeaade7caf49969ab&chksm=bd4946128a3ecf04a216b717e8ab8d2bb0771d6a206af7b5655203b4b84ac3b31784ef607eb8&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-08-【第1738期】100-行代码实现-Promises/A+-规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234151&idx=1&sn=6292156c16e851d8d5f1dbccdfc82a74&chksm=bd4946e38a3ecff561bef99277e0f1ad5ec7f7014437aa100cb01e872eee80985adb04734b11&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-26-JavaScript-手写代码无敌秘籍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557293&idx=1&sn=b1d52d16ba275f7a4df9b95c8effe1ed&chksm=80255a6cb752d37ae4a2fb34417e6140c87b4fba7bcd73df9bebf650a280904c071d6e8482d4&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-25-年薪不到21.6万退全款-|-廖雪峰的-web-全栈课开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=1&sn=d8c7347dc09b6cf3b4faba23cfdfe90c&chksm=80255a69b752d37f0bfade807ed31f2e9e60cdca41e280c2a1c6b01dd748fcf4256695219a61&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-25-微信-H5-页面兼容性解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=2&sn=008aa0ffce4735403116ea88b02321a0&chksm=80255a69b752d37f38aa7064599939250192087c957f564673dc3d6f3598f6906944bbd124a5&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-24-前端代码质量-圈复杂度原理和实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=1&sn=f3e11c932076b0e73e077055d25dba8f&chksm=80255a67b752d371df96107a3a6ec8eccde3c84f902d8f85784316e8271ae63a696ff8868048&scene=27#wechat_redirect) 
@@ -203,6 +204,8 @@
 - [【阮一峰的网络日志】2019-10-18-科技爱好者周刊：第-78-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html) 
 - [【阮一峰的网络日志】2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html) 
 - [【阮一峰的网络日志】2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html) 
+- [【前端里】2019-10-27-ES6全部特性（看图就能记下，值得收藏）](http://www.yyyweb.com/5321.html) 
+- [【前端里】2019-10-27-数组去重12种方案（经典面试必问）](http://www.yyyweb.com/5318.html) 
 - [【前端里】2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) 
 - [【前端里】2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html) 
 - [【前端里】2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) 

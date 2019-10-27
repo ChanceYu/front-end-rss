@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-27 18:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-27 22:00:19，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2019-10-26-JavaScript-手写代码无敌秘籍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557293&idx=1&sn=b1d52d16ba275f7a4df9b95c8effe1ed&chksm=80255a6cb752d37ae4a2fb34417e6140c87b4fba7bcd73df9bebf650a280904c071d6e8482d4&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-10-25-年薪不到21.6万退全款-|-廖雪峰的-web-全栈课开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=1&sn=d8c7347dc09b6cf3b4faba23cfdfe90c&chksm=80255a69b752d37f0bfade807ed31f2e9e60cdca41e280c2a1c6b01dd748fcf4256695219a61&scene=27#wechat_redirect)  
 - [2019-10-25-微信-H5-页面兼容性解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=2&sn=008aa0ffce4735403116ea88b02321a0&chksm=80255a69b752d37f38aa7064599939250192087c957f564673dc3d6f3598f6906944bbd124a5&scene=27#wechat_redirect)  
 - [2019-10-24-前端代码质量-圈复杂度原理和实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=1&sn=f3e11c932076b0e73e077055d25dba8f&chksm=80255a67b752d371df96107a3a6ec8eccde3c84f902d8f85784316e8271ae63a696ff8868048&scene=27#wechat_redirect)  
@@ -83,7 +84,6 @@
 - [2019-10-14-axios-是如何封装-HTTP-请求的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=1&sn=0e13040ec66d6a4277ab75bbaf98d2e2&chksm=80255aa7b752d3b1efcb64edc72703ff7736f09b8147558ad12417f6c26080490b5efd8635e1&scene=27#wechat_redirect)  
 - [2019-10-14-面向对象：周边撒狗粮的太多啦，想找个相爱的人过自己的小日子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557222&idx=2&sn=d6c3e1528411ba9a17ced17b15cb290a&chksm=80255aa7b752d3b16b1beb1de37d93b8027d14c9bd89abf1bf96af5cc57c2420c170b2babde0&scene=27#wechat_redirect)  
 - [2019-10-13-动手实现一个-react-redux](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557217&idx=1&sn=36ba276f87a8e770c07b8481b01fb8e2&chksm=80255aa0b752d3b62c4678ddcb28df784eeac511694b7c2ccbac30c478e31f8ac8b5c76bc975&scene=27#wechat_redirect)  
-- [2019-10-12-Chrome-Devtools-高级调试指南（新）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557216&idx=1&sn=8aa033d2c7a04a73a6abf836bd4e5a61&chksm=80255aa1b752d3b73de295ee3f75d1366e80619f7c41bf3987a6fa11868434061f54719a1848&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,9 @@
 </summary>
 
 
-- [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) ![](assets/new.png)  
+- [2019-10-27-ES6全部特性（看图就能记下，值得收藏）](http://www.yyyweb.com/5321.html) ![](assets/new.png)  
+- [2019-10-27-数组去重12种方案（经典面试必问）](http://www.yyyweb.com/5318.html) ![](assets/new.png)  
+- [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html)  
 - [2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html)  
 - [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html)  
 - [2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html)  
@@ -237,8 +239,6 @@
 - [2019-02-24-精心挑选的2018年最佳前端特效（系列七）](http://www.yyyweb.com/5249.html)  
 - [2019-02-10-精心挑选的2018年最佳前端特效（系列六）](http://www.yyyweb.com/5248.html)  
 - [2019-01-20-精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html)  
-- [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html)  
-- [2019-01-13-精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
