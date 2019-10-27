@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-27 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-27 18:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -126,6 +126,7 @@
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html) 
 - [2019-09-05-curl-的用法指南](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html) 
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html) 
+- [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) 
 - [2018-08-18-移动端调试痛点？送你五款前端开发利器！](http://www.yyyweb.com/5140.html) 
 - [2018-07-30-nativefier-–-让网页一键生成桌面应用程序](http://www.yyyweb.com/5117.html) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 

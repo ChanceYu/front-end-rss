@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-27 06:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-27 18:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,9 +19,9 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/) ![](assets/new.png)  
+- [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/)  
 - [2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/)  
 - [2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/)  
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/)  
@@ -219,6 +219,7 @@
 </summary>
 
 
+- [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) ![](assets/new.png)  
 - [2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html)  
 - [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html)  
 - [2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html)  
@@ -238,7 +239,6 @@
 - [2019-01-20-精心挑选的2018年最佳前端特效（系列五）](http://www.yyyweb.com/5240.html)  
 - [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html)  
 - [2019-01-13-精心挑选的2018年最佳前端特效（系列四）](http://www.yyyweb.com/5239.html)  
-- [2019-01-09-精心挑选的2018年最佳前端特效（系列三）](http://www.yyyweb.com/5238.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

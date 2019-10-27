@@ -1,9 +1,9 @@
-:alarm_clock: 更新时间: 2019-10-27 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-27 18:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
-> 关键字：`JavaScript`、`ECMAScript`、`JS`、`ES6`、`Promise`、`await`、`async`、`decorator`、`module`、`import`、`catch`、`console`、`setInterval`、`Worker`、`fetch`、`this`、`bind`、`DataTransfer`、`ArrayBuffer`、`Component`、`DOM`、`H5`、`HTML5`、`组件`、`正则`、`数组`、`事件`、`深拷贝`、`数据代理`、`变量`、`函数式`、`声明式`、`异步`、`表单`、`滚动`、`scroll`、`防抖`、`适配`、`路由`、`模块化`
+> 关键字：`JavaScript`、`ECMAScript`、`JS`、`ES6`、`Promise`、`document`、`await`、`async`、`decorator`、`module`、`import`、`catch`、`console`、`setInterval`、`Worker`、`fetch`、`this`、`bind`、`DataTransfer`、`ArrayBuffer`、`Component`、`DOM`、`H5`、`HTML5`、`组件`、`正则`、`数组`、`事件`、`深拷贝`、`数据代理`、`变量`、`函数式`、`声明式`、`异步`、`表单`、`滚动`、`scroll`、`防抖`、`适配`、`路由`、`模块化`
 
 
 
@@ -276,6 +276,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](http://taobaofed.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](http://taobaofed.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](http://taobaofed.org/blog/2017/12/07/machine-learning/) 
+- [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/) 
 - [2019-09-19-小tips:-元素focus页面不滚动不定位的JS处理](https://www.zhangxinxu.com/wordpress/2019/09/js-focus-preventscroll/) 
 - [2019-09-13-JS-Intl对象完整简介及在中文中的应用](https://www.zhangxinxu.com/wordpress/2019/09/js-intl-zh/) 
 - [2019-09-07-小tips:-JS-DOM-innerText和textContent的区别](https://www.zhangxinxu.com/wordpress/2019/09/js-dom-innertext-textcontent/) 

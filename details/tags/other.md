@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-27 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-27 18:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -417,7 +417,6 @@
 - [2018-05-07-活用-Shader，让你的页面更小，更炫，更快](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](http://taobaofed.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](http://taobaofed.org/blog/2017/07/05/leveldb-analysis/) 
-- [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/) 
 - [2019-09-10-快速了解window.name特性与作用](https://www.zhangxinxu.com/wordpress/2019/09/window-name/) 
 - [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/) 
 - [2019-07-19-HTML静态页面原型交付工具“魔卡”简介](https://www.zhangxinxu.com/wordpress/2019/07/html-mockup/) 
