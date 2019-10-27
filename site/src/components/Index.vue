@@ -64,7 +64,7 @@
       class="result-box"
       v-infinite-scroll="loadMore"
       infinite-scroll-disabled="isBusy"
-      infinite-scroll-distance="10"
+      infinite-scroll-distance="100"
     >
 
        <div class="empty" v-if="!results.length">
@@ -357,13 +357,12 @@ export default {
     }
   }
   .van-cell-group__title{
-    font-size: 14px;
-    font-weight: bold;
+    font-size: 15px;
     color: #333;
     background: #f5f5f5;
   }
   .van-cell{
-    font-size: 14px;
+    font-size: 13px;
     color: #262626;
     text-align: left;
     cursor: pointer;
