@@ -65,6 +65,11 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
     
         feed.items.forEach(el => {
           let exist = false
+
+          // for taobaofed
+          if(/https?:\/\/taobaofed\.org/.test(el.link)) {
+            el.link = el.link.replace(/https?:\/\/taobaofed\.org/, 'https://fed.taobao.org');
+          }
     
           for(let i = 0; i < len; i++){
             if(isSameLink(_items[i].link, el.link)){

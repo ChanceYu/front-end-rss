@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-28 16:54:04，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-10-28 17:26:32，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -126,26 +126,26 @@
 </summary>
 
 
-- [2019-10-15-Rax-1.0-版本更新与特性介绍](http://taobaofed.org/blog/2019/10/15/rax-version-one-features/) ![](assets/new.png)  
-- [2019-09-23-兼容vscode插件的主题服务](http://taobaofed.org/blog/2019/09/23/custom-theme-in-vscode/) ![](assets/new.png)  
-- [2019-09-02-响应至上：打造无卡顿的滚动列表](http://taobaofed.org/blog/2019/09/02/make-infinite-scroll/) ![](assets/new.png)  
-- [2019-08-23-如何加快-Node.js-应用的启动速度](http://taobaofed.org/blog/2019/08/23/speed-node-start-time/) ![](assets/new.png)  
-- [2019-08-15-VSCode原理解析---断点调试](http://taobaofed.org/blog/2019/08/15/vscode-debug-source-analyse/) ![](assets/new.png)  
-- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](http://taobaofed.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/) ![](assets/new.png)  
-- [2019-06-05-大话-JavaScript-动画](http://taobaofed.org/blog/2019/06/05/js-animation-base/) ![](assets/new.png)  
-- [2019-05-28-前端修炼小册-开放申请啦](http://taobaofed.org/blog/2019/05/28/fed-learning-quizzes-apply/) ![](assets/new.png)  
-- [2019-05-17-使用-React-Hooks-代替-Redux](http://taobaofed.org/blog/2019/05/17/use-the-react-hooks-instead-of-the-redux/) ![](assets/new.png)  
-- [2019-04-15-我们是如何管理一个-1w+-stars-的开源仓库的](http://taobaofed.org/blog/2019/04/15/how-to-manager-a-1w-starts-repo/) ![](assets/new.png)  
-- [2019-03-19-Web端H.265播放器研发解密](http://taobaofed.org/blog/2019/03/19/web-player-h265/) ![](assets/new.png)  
-- [2019-03-13-淘宝前端团队-2019-年实习生内部推荐通道已开启](http://taobaofed.org/blog/2019/03/13/fed-2019/) ![](assets/new.png)  
-- [2019-01-08-imgcook-体验版发布](http://taobaofed.org/blog/2019/01/08/imgcook/) ![](assets/new.png)  
-- [2018-12-17-WebGL-纹理详解](http://taobaofed.org/blog/2018/12/17/webgl-texture/) ![](assets/new.png)  
-- [2018-11-27-前端架构杂思录：议-Function-Component-与-Hooks](http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/) ![](assets/new.png)  
-- [2018-11-01-Atag---Web-Components-最佳实践](http://taobaofed.org/blog/2018/11/01/a-tag/) ![](assets/new.png)  
-- [2018-08-09-Workbox-3：Service-Worker-可以如此简单](http://taobaofed.org/blog/2018/08/09/workbox3/) ![](assets/new.png)  
-- [2018-05-31-基于-BindingX-的富交互解决方案](http://taobaofed.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) ![](assets/new.png)  
-- [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](http://taobaofed.org/blog/2018/05/08/optimizing-page-performance-with-shader/) ![](assets/new.png)  
-- [2018-03-13-Rax-系列教程（长列表）](http://taobaofed.org/blog/2018/03/13/long-list-in-rax/) ![](assets/new.png)  
+- [2019-10-15-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/2019/10/15/rax-version-one-features/) ![](assets/new.png)  
+- [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/2019/09/23/custom-theme-in-vscode/)  
+- [2019-09-02-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/2019/09/02/make-infinite-scroll/)  
+- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/)  
+- [2019-08-15-VSCode原理解析---断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/)  
+- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/)  
+- [2019-06-05-大话-JavaScript-动画](https://fed.taobao.org/blog/2019/06/05/js-animation-base/)  
+- [2019-05-28-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/2019/05/28/fed-learning-quizzes-apply/)  
+- [2019-05-17-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/2019/05/17/use-the-react-hooks-instead-of-the-redux/)  
+- [2019-04-15-我们是如何管理一个-1w+-stars-的开源仓库的](https://fed.taobao.org/blog/2019/04/15/how-to-manager-a-1w-starts-repo/)  
+- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/)  
+- [2019-03-13-淘宝前端团队-2019-年实习生内部推荐通道已开启](https://fed.taobao.org/blog/2019/03/13/fed-2019/)  
+- [2019-01-08-imgcook-体验版发布](https://fed.taobao.org/blog/2019/01/08/imgcook/)  
+- [2018-12-17-WebGL-纹理详解](https://fed.taobao.org/blog/2018/12/17/webgl-texture/)  
+- [2018-11-27-前端架构杂思录：议-Function-Component-与-Hooks](https://fed.taobao.org/blog/2018/11/27/hooks-and-function-component/)  
+- [2018-11-01-Atag---Web-Components-最佳实践](https://fed.taobao.org/blog/2018/11/01/a-tag/)  
+- [2018-08-09-Workbox-3：Service-Worker-可以如此简单](https://fed.taobao.org/blog/2018/08/09/workbox3/)  
+- [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/)  
+- [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/)  
+- [2018-03-13-Rax-系列教程（长列表）](https://fed.taobao.org/blog/2018/03/13/long-list-in-rax/)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,6 +281,8 @@
 </summary>
 
 
+- [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) ![](assets/new.png)  
+- [2019-09-25-玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/) ![](assets/new.png)  
 - [2019-09-11-从程序员角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)  
 - [2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)  
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)  
@@ -299,8 +301,6 @@
 - [2018-10-22-单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)  
 - [2018-09-18-多端统一开发框架-Taro-1.0-正式发布](https://aotu.io/notes/2018/09/18/taro-1-0-0/)  
 - [2018-09-11-Taro-在京东购物小程序上的实践](https://aotu.io/notes/2018/09/11/taro-in-jd/)  
-- [2018-08-27-首个多端-UI-组件库---Taro-UI-发布](https://aotu.io/notes/2018/08/27/the-birth-of-taro-ui/)  
-- [2018-06-25-为何我们要用-React-来写小程序---Taro-诞生记](https://aotu.io/notes/2018/06/25/the-birth-of-taro/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

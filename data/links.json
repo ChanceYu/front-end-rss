@@ -8527,108 +8527,58 @@
     "items": [
       {
         "title": "Rax 1.0 版本更新与特性介绍",
-        "link": "http://taobaofed.org/blog/2019/10/15/rax-version-one-features/",
+        "link": "https://fed.taobao.org/blog/2019/10/15/rax-version-one-features/",
         "date": "2019-10-15"
       },
       {
         "title": "兼容vscode插件的主题服务",
-        "link": "http://taobaofed.org/blog/2019/09/23/custom-theme-in-vscode/",
+        "link": "https://fed.taobao.org/blog/2019/09/23/custom-theme-in-vscode/",
         "date": "2019-09-23"
       },
       {
         "title": "响应至上：打造无卡顿的滚动列表",
-        "link": "http://taobaofed.org/blog/2019/09/02/make-infinite-scroll/",
+        "link": "https://fed.taobao.org/blog/2019/09/02/make-infinite-scroll/",
         "date": "2019-09-02"
       },
       {
         "title": "如何加快 Node.js 应用的启动速度",
-        "link": "http://taobaofed.org/blog/2019/08/23/speed-node-start-time/",
+        "link": "https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/",
         "date": "2019-08-23"
       },
       {
         "title": "VSCode原理解析 - 断点调试",
-        "link": "http://taobaofed.org/blog/2019/08/15/vscode-debug-source-analyse/",
+        "link": "https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/",
         "date": "2019-08-15"
       },
       {
         "title": "Fdcon 2018 分享：淘宝Web 3D应用与游戏开发实战",
-        "link": "http://taobaofed.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/",
+        "link": "https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/",
         "date": "2019-08-08"
       },
       {
         "title": "大话 JavaScript 动画",
-        "link": "http://taobaofed.org/blog/2019/06/05/js-animation-base/",
+        "link": "https://fed.taobao.org/blog/2019/06/05/js-animation-base/",
         "date": "2019-06-05"
       },
       {
         "title": "前端修炼小册 开放申请啦",
-        "link": "http://taobaofed.org/blog/2019/05/28/fed-learning-quizzes-apply/",
+        "link": "https://fed.taobao.org/blog/2019/05/28/fed-learning-quizzes-apply/",
         "date": "2019-05-28"
       },
       {
         "title": "使用 React Hooks 代替 Redux",
-        "link": "http://taobaofed.org/blog/2019/05/17/use-the-react-hooks-instead-of-the-redux/",
+        "link": "https://fed.taobao.org/blog/2019/05/17/use-the-react-hooks-instead-of-the-redux/",
         "date": "2019-05-17"
       },
       {
         "title": "我们是如何管理一个 1w+ stars 的开源仓库的",
-        "link": "http://taobaofed.org/blog/2019/04/15/how-to-manager-a-1w-starts-repo/",
+        "link": "https://fed.taobao.org/blog/2019/04/15/how-to-manager-a-1w-starts-repo/",
         "date": "2019-04-15"
       },
       {
         "title": "Web端H.265播放器研发解密",
-        "link": "http://taobaofed.org/blog/2019/03/19/web-player-h265/",
-        "date": "2019-03-19"
-      },
-      {
-        "title": "淘宝前端团队 2019 年实习生内部推荐通道已开启",
-        "link": "http://taobaofed.org/blog/2019/03/13/fed-2019/",
-        "date": "2019-03-13"
-      },
-      {
-        "title": "imgcook 体验版发布",
-        "link": "http://taobaofed.org/blog/2019/01/08/imgcook/",
-        "date": "2019-01-08"
-      },
-      {
-        "title": "WebGL 纹理详解",
-        "link": "http://taobaofed.org/blog/2018/12/17/webgl-texture/",
-        "date": "2018-12-17"
-      },
-      {
-        "title": "前端架构杂思录：议 Function Component 与 Hooks",
-        "link": "http://taobaofed.org/blog/2018/11/27/hooks-and-function-component/",
-        "date": "2018-11-27"
-      },
-      {
-        "title": "Atag - Web Components 最佳实践",
-        "link": "http://taobaofed.org/blog/2018/11/01/a-tag/",
-        "date": "2018-11-01"
-      },
-      {
-        "title": "Workbox 3：Service Worker 可以如此简单",
-        "link": "http://taobaofed.org/blog/2018/08/09/workbox3/",
-        "date": "2018-08-09"
-      },
-      {
-        "title": "基于 BindingX 的富交互解决方案",
-        "link": "http://taobaofed.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/",
-        "date": "2018-05-31"
-      },
-      {
-        "title": "活用 Shader，让你的页面更小，更炫，更快",
-        "link": "http://taobaofed.org/blog/2018/05/08/optimizing-page-performance-with-shader/",
-        "date": "2018-05-08"
-      },
-      {
-        "title": "Rax 系列教程（长列表）",
-        "link": "http://taobaofed.org/blog/2018/03/13/long-list-in-rax/",
-        "date": "2018-03-13"
-      },
-      {
-        "title": "Web端H.265播放器研发解密",
         "link": "https://fed.taobao.org/blog/2019/03/19/web-player-h265/",
-        "date": "2019-03-18"
+        "date": "2019-03-19"
       },
       {
         "title": "淘宝前端团队 2019 年实习生内部推荐通道已开启",
@@ -8637,8 +8587,8 @@
       },
       {
         "title": "imgcook 体验版发布",
-        "link": "https://fed.taobao.org/blog/2019/01/07/imgcook/",
-        "date": "2019-01-07"
+        "link": "https://fed.taobao.org/blog/2019/01/08/imgcook/",
+        "date": "2019-01-08"
       },
       {
         "title": "WebGL 纹理详解",
@@ -8652,13 +8602,13 @@
       },
       {
         "title": "Atag - Web Components 最佳实践",
-        "link": "https://fed.taobao.org/blog/2018/10/31/a-tag/",
-        "date": "2018-10-31"
+        "link": "https://fed.taobao.org/blog/2018/11/01/a-tag/",
+        "date": "2018-11-01"
       },
       {
         "title": "Workbox 3：Service Worker 可以如此简单",
-        "link": "https://fed.taobao.org/blog/2018/08/08/workbox3/",
-        "date": "2018-08-08"
+        "link": "https://fed.taobao.org/blog/2018/08/09/workbox3/",
+        "date": "2018-08-09"
       },
       {
         "title": "基于 BindingX 的富交互解决方案",
@@ -8667,13 +8617,13 @@
       },
       {
         "title": "活用 Shader，让你的页面更小，更炫，更快",
-        "link": "https://fed.taobao.org/blog/2018/05/07/optimizing-page-performance-with-shader/",
-        "date": "2018-05-07"
+        "link": "https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/",
+        "date": "2018-05-08"
       },
       {
         "title": "Rax 系列教程（长列表）",
-        "link": "https://fed.taobao.org/blog/2018/03/12/long-list-in-rax/",
-        "date": "2018-03-12"
+        "link": "https://fed.taobao.org/blog/2018/03/13/long-list-in-rax/",
+        "date": "2018-03-13"
       },
       {
         "title": "G3D —— Hybrid 环境下的 WebGL 3D 渲染引擎",
@@ -10190,6 +10140,16 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Mongoose-modified-at 时间自动记录插件介绍",
+        "link": "https://aotu.io/notes/2019/10/28/modified-at/",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "玩转 Taro 跨端之 flex 布局篇",
+        "link": "https://aotu.io/notes/2019/09/25/taro-flex/",
+        "date": "2019-09-25"
+      },
       {
         "title": "从程序员角度去看项目管理",
         "link": "https://aotu.io/notes/2019/09/11/project-management-of-programmer/",
