@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-27 22:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-28 16:54:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -65,12 +65,13 @@
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
-- [2018-01-12-构筑未来数据网---Pandora.js-的信息通路](http://taobaofed.org/blog/2018/01/12/pandora-information-channel/) 
-- [2018-01-05-跨越时代的度量衡---Pandora.js-的-Metrics-介绍](http://taobaofed.org/blog/2018/01/05/pandora-metrics/) 
-- [2017-12-21-让进程间通信更容易---Pandora.js-的-IPC-Hub](http://taobaofed.org/blog/2017/12/21/pandora-ipc/) 
-- [2017-12-19-Pandora.js-的-Service-机制](http://taobaofed.org/blog/2017/12/19/pandora-service/) 
-- [2017-12-13-管理-Node.js-进程从未如此优雅](http://taobaofed.org/blog/2017/12/13/pandora/) 
-- [2017-08-31-深入理解-Node.js-Stream-内部机制](http://taobaofed.org/blog/2017/08/31/nodejs-stream/) 
+- [2019-08-23-如何加快-Node.js-应用的启动速度](http://taobaofed.org/blog/2019/08/23/speed-node-start-time/) 
+- [2018-01-12-构筑未来数据网---Pandora.js-的信息通路](https://fed.taobao.org/blog/2018/01/12/pandora-information-channel/) 
+- [2018-01-05-跨越时代的度量衡---Pandora.js-的-Metrics-介绍](https://fed.taobao.org/blog/2018/01/05/pandora-metrics/) 
+- [2017-12-21-让进程间通信更容易---Pandora.js-的-IPC-Hub](https://fed.taobao.org/blog/2017/12/21/pandora-ipc/) 
+- [2017-12-19-Pandora.js-的-Service-机制](https://fed.taobao.org/blog/2017/12/19/pandora-service/) 
+- [2017-12-13-管理-Node.js-进程从未如此优雅](https://fed.taobao.org/blog/2017/12/13/pandora/) 
+- [2017-08-31-深入理解-Node.js-Stream-内部机制](https://fed.taobao.org/blog/2017/08/31/nodejs-stream/) 
 - [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html) 
 - [2019-04-21-V8-内存管理和垃圾回收机制总结](http://www.yyyweb.com/5275.html) 
