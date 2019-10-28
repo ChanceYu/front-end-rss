@@ -184,13 +184,12 @@ export default {
     return {
       searchValue: '',
       showCate: false,
-      loading: true,
       hotwords,
       ranges,
       rss,
       tags,
       pageNo: 1,
-      pageSize: 15,
+      pageSize: 20,
       isBusy: true,
       allList: [],
       results: []
@@ -384,18 +383,22 @@ export default {
   padding-top: 70px;
   .empty{
     text-align: center;
-    padding: 30px 0;
+    padding: 50px 0;
     .van-icon{
+      color: #666;
       font-size: 40px;
     }
     .title{
       display: block;
       margin-top: 10px;
       line-height: 30px;
+      color: #666;
+      font-size: 14px;
+      font-weight: normal;
     }
     .cate{
       cursor: pointer;
-      color: #f44336;
+      color: #333;
       text-decoration: underline;
     }
   }
