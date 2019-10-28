@@ -67,10 +67,9 @@
       infinite-scroll-distance="100"
     >
 
-      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
-      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
-      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
-      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
+      <template v-if="!isLoad">
+        <van-skeleton  v-for="(item, index) in skeletons" :key="index"  avatar avatar-size="20" title title-width="100%" :row="1" />
+      </template>
 
        <div class="empty" v-if="isLoad && !results.length">
          <van-icon name="info-o" />
@@ -152,7 +151,8 @@ export default {
       isBusy: true,
       allList: [],
       results: [],
-      isLoad: false
+      isLoad: false,
+      skeletons: [1, 2, 3, 4, 5, 6, 7, 8]
     }
   },
   methods: {
@@ -393,6 +393,18 @@ export default {
 }
 .result-box{
   padding-top: 70px;
+  .van-skeleton{
+    padding: 0 50px 0 20px;
+    margin-bottom: 30px;
+    .van-skeleton__avatar{
+      margin-top: 6px;
+      margin-right: 10px;
+      border-radius: 0;
+    }
+    .van-skeleton__row{
+      width: 40%!important;
+    }
+  }
   .empty{
     text-align: center;
     padding: 50px 0;
