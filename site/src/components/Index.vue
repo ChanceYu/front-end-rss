@@ -67,7 +67,12 @@
       infinite-scroll-distance="100"
     >
 
-       <div class="empty" v-if="!results.length">
+      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
+      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
+      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
+      <van-skeleton v-if="!isLoad" title :row="2" style="margin-bottom:30px" />
+
+       <div class="empty" v-if="isLoad && !results.length">
          <van-icon name="info-o" />
          <div class="title">没有搜索到文章，换个关键词试试<br />或者<span class="cate" @click="showCate = true">手动筛选</span></div>
        </div>
@@ -94,9 +99,6 @@
 
 <script>
 import dayjs from 'dayjs'
-import links from '../../../data/links.json'
-import rss from '../../../data/rss.json'
-import tags from '../../../data/tags.json'
 
 const getPlatform = () => /Android|iPhone/i.test(navigator.userAgent)
 const isMobile = getPlatform()
@@ -135,49 +137,6 @@ let datesMap = {}
 let rssMap = {}
 let tagsMap = {}
 
-links.forEach((rssItem) => {
-  const articles = rssItem.items.map((item) => {
-    item.rss = rssItem.rss
-    item.rssTitle = rssItem.title
-    item.rssLink = rssItem.link
-
-    let isInTag = false
-
-    tags.forEach((tagItem) => {
-      if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
-        isInTag = true
-        tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
-        tagsMap[tagItem.tag].push(item)
-        tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
-      }
-    })
-
-    if (!isInTag) {
-      tagsMap['其它'] = tagsMap['其它'] || []
-      tagsMap['其它'].push(item)
-      tagsMap['其它'] = sortArray(tagsMap['其它'])
-    }
-
-    ranges.forEach((rangeItem) => {
-      const dates = rangeItem.dates
-
-      if ((typeof dates === 'string' && item.date === dates) || (typeof dates !== 'string' && item.date >= dates[0] && item.date <= dates[1])) {
-        datesMap[rangeItem.title] = datesMap[rangeItem.title] || []
-        datesMap[rangeItem.title].push(item)
-        datesMap[rangeItem.title] = sortArray(datesMap[rangeItem.title])
-      }
-    })
-
-    return item
-  })
-
-  rssMap[rssItem.title] = sortArray(articles)
-
-  results = results.concat(articles)
-})
-
-results = sortArray(results)
-
 export default {
   name: 'Index',
   data () {
@@ -186,18 +145,71 @@ export default {
       showCate: false,
       hotwords,
       ranges,
-      rss,
-      tags,
+      rss: [],
+      tags: [],
       pageNo: 1,
       pageSize: 20,
       isBusy: true,
       allList: [],
-      results: []
+      results: [],
+      isLoad: false
     }
   },
   methods: {
     toTop () {
       window.scrollTo(0, 0)
+    },
+    async initLoadData () {
+      const links = await import('../../../data/links.json')
+      const rss = await import('../../../data/rss.json')
+      const tags = await import('../../../data/tags.json')
+
+      links.forEach((rssItem) => {
+        const articles = rssItem.items.map((item) => {
+          item.rss = rssItem.rss
+          item.rssTitle = rssItem.title
+          item.rssLink = rssItem.link
+
+          let isInTag = false
+
+          tags.forEach((tagItem) => {
+            if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
+              isInTag = true
+              tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
+              tagsMap[tagItem.tag].push(item)
+              tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
+            }
+          })
+
+          if (!isInTag) {
+            tagsMap['其它'] = tagsMap['其它'] || []
+            tagsMap['其它'].push(item)
+            tagsMap['其它'] = sortArray(tagsMap['其它'])
+          }
+
+          ranges.forEach((rangeItem) => {
+            const dates = rangeItem.dates
+
+            if ((typeof dates === 'string' && item.date === dates) || (typeof dates !== 'string' && item.date >= dates[0] && item.date <= dates[1])) {
+              datesMap[rangeItem.title] = datesMap[rangeItem.title] || []
+              datesMap[rangeItem.title].push(item)
+              datesMap[rangeItem.title] = sortArray(datesMap[rangeItem.title])
+            }
+          })
+
+          return item
+        })
+
+        rssMap[rssItem.title] = sortArray(articles)
+
+        results = results.concat(articles)
+      })
+
+      results = sortArray(results)
+
+      this.rss = rss
+      this.tags = tags
+      this.isLoad = true
     },
     loadMore () {
       const allLen = this.allList.length
@@ -284,7 +296,7 @@ export default {
     const { q } = this.$route.query
 
     this.searchValue = q || ''
-    this.handlerSearch()
+    this.initLoadData().then(() => this.handlerSearch())
   }
 }
 </script>
