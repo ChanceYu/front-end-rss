@@ -394,7 +394,7 @@ export default {
 .result-box{
   padding-top: 70px;
   .van-skeleton{
-    padding: 0 50px 0 20px;
+    padding: 0 44px 0 20px;
     margin-bottom: 30px;
     .van-skeleton__avatar{
       margin-top: 6px;
@@ -564,6 +564,12 @@ export default {
     }
   }
   .result-box{
+    .van-skeleton{
+      padding-right: 54px;
+      .van-skeleton__row{
+        width: 60%!important;
+      }
+    }
     .van-cell{
       font-size: 16px;
     }
