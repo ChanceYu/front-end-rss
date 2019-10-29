@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-28 17:26:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-29 12:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -200,6 +200,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/) 
+- [【阮一峰的网络日志】2019-10-29-你所不知道的-AI-进展](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html) 
 - [【阮一峰的网络日志】2019-10-25-科技爱好者周刊：第-79-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html) 
 - [【阮一峰的网络日志】2019-10-21-Tmux-使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html) 
 - [【阮一峰的网络日志】2019-10-18-科技爱好者周刊：第-78-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html) 
