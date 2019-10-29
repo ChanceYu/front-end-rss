@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-29 22:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-30 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -178,6 +178,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-10-29-代码美化的艺术](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557301&idx=1&sn=17a97fcc5e33d27177c432a74ff2b0ec&chksm=80255a74b752d3627516db71d7c60e70b770d811cffb2c14fd0863388b6f45348344a259f8f7&scene=27#wechat_redirect) 
 - [2019-10-24-前端代码质量-圈复杂度原理和实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=1&sn=f3e11c932076b0e73e077055d25dba8f&chksm=80255a67b752d371df96107a3a6ec8eccde3c84f902d8f85784316e8271ae63a696ff8868048&scene=27#wechat_redirect) 
 - [2019-10-11-耗时1个月整理的这份英语资源！一次性全部分享给你，手慢无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=1&sn=75bc5e5925f8d31cf095974f14c2f000&chksm=80255a96b752d38066410b6c43d11f417fb5a6ef0fb7539947dd7abbf9e540e5845142577d58&scene=27#wechat_redirect) 
 - [2019-10-01-5分钟搭一个企业级脚手架：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557159&idx=1&sn=367619b9ce0f95b3ad628ce071d3e423&chksm=80255ae6b752d3f0ef8b97c8d67590c03788f2787b9baededdf138fc74418ce506189d0e9115&scene=27#wechat_redirect) 
@@ -287,6 +288,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-10-29-微前端究竟好在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=1&sn=3ae9919b0a19d4a1d561c5221ba04cb9&chksm=f9525074ce25d962599a178dc78edb6eba1d48ef3d8b8ce413fa6856fde0873825a8de9edc8b&scene=27#wechat_redirect) 
 - [2019-10-24-Web堆栈选择指南：JAMStack-vs-MEAN-vs-LAMP](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=1&sn=593b004bf06dc42ff560616fdd057405&chksm=f952504fce25d959def43dc076794cfe5100da00b4ef31e0fc0ff86a9f7186275094a49418b4&scene=27#wechat_redirect) 
 - [2019-10-24-低延迟语音开发很难？大牛教你3招避坑](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=3&sn=186ca53497764ecbf41397942263b72e&chksm=f952504fce25d9591745c55641a51928329ec3c592fcff310cb976e09a2eba83417f0671ec66&scene=27#wechat_redirect) 
 - [2019-10-22-解密国内BAT等大厂前端技术体系之阿里篇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492849&idx=1&sn=765a77fa657d03e2dcb900fcd9cf88e8&chksm=f95251b2ce25d8a49c08baae27c1e74db6a512623520606d4085f37cc5078ac4a4416050b43d&scene=27#wechat_redirect) 

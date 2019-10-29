@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-29 22:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-30 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -35,6 +35,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2019-10-27-前端周报：Node-13发布；TS-3.7支持可选链；5G人才供不应求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492893&idx=1&sn=d1540836d9dd31d54595f63a9b1631c7&chksm=f952505ece25d94888b8e2c88911c957b011c5d38f8a40c25b3687d322f891ca4b37b5478ffe&scene=27#wechat_redirect) 
 - [2019-10-23-Node.js-13.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492859&idx=2&sn=55e0877e9abd3814500a46190fc7243a&chksm=f95251b8ce25d8aed0a5057f2c594bbc12afb36c258c66627eb7590312bc263ea19906af46d2&scene=27#wechat_redirect) 
 - [2019-10-20-前端周报：W3C成立25周年；Node.js-12.12发布；PornHub开发人员访谈](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492824&idx=1&sn=6569dcda26b82edf0713d310e83f7cc8&chksm=f952519bce25d88ddaa150e77a2b012a2a809a13dd89c827427d4b7f65825dfe9c2efd5202e4&scene=27#wechat_redirect) 
 - [2019-10-17-商业化场景下，百度如何实践-Node.js-架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=2&sn=9cae2a9496f1cc445266a6a2a875bf82&chksm=f9525188ce25d89ee71211f2307b34624ec9df260470d0d0c125d6c6221ed9b16cf5ae6a9c2c&scene=27#wechat_redirect) 

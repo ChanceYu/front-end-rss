@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-29 22:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-30 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -198,6 +198,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2019-10-28-谁将取代JavaScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=1&sn=dcd6bb0feba0af94396f1320a56f9693&chksm=f9525064ce25d972d50607fe020878112d3bc45998ea5a4eabc319e1d85dff7ffaeca08a95f3&scene=27#wechat_redirect) 
 - [2019-10-22-了解JavaScript新特性：Optional-Chaining](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492849&idx=2&sn=c081a0a944abffd30d3a0ef9695a9333&chksm=f95251b2ce25d8a4109583b3035aaeb79a513c812027d809c96eee7e3d7a7ba5a59dc8e2cded&scene=27#wechat_redirect) 
 - [2019-10-16-Slack的Service-Worker实践：更快的启动速度与离线支持](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=2&sn=c727f6a0ac30714515f23b0a979bb783&chksm=f9525184ce25d892286c8c94382bee6c068c48e7c2b9700e9a51e76a9a5da079ff49b97b4f5d&scene=27#wechat_redirect) 
 - [2019-10-15-组件复用一小步-轻松实现跨项目开发提效](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=1&sn=bd182d9dca3685819efd124b9a8a4e80&chksm=f95251cdce25d8db73c7b1eacd9ea47527727faa24719e408de0162fe9a123f078f2acadedb8&scene=27#wechat_redirect) 

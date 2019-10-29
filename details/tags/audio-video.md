@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-29 22:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-10-30 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -23,6 +23,8 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2019-10-29-腾讯NOW直播丨大前端监控体系建设案例](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=2&sn=2f8ab2115ce1cd95810b9e81cabb63cc&chksm=f9525074ce25d96274a822256d59b03e3207ab5e0d947b858bbb0c2cd91cdc6345cf9301f7b3&scene=27#wechat_redirect) 
+- [2019-10-28-探秘实时音视频与网络技术难点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=3&sn=0d7f6c6b4c1e57f1342e196a4d0ed09c&chksm=f9525064ce25d972f3bb46def489a2923831787ba0e5278d1da2cc24f200bee5765201237e01&scene=27#wechat_redirect) 
 - [2019-10-15-从编码到网络传输，揭秘低延音视频背后的技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=3&sn=1b8d04d7a3d15ee2426257889a935961&chksm=f95251cdce25d8dbd5905a5e3ccf55e29a02b7066d5ffcc462aecbc0ced50ae7352cb2b733d5&scene=27#wechat_redirect) 
 - [2019-10-10-直击音视频技术核心，QCon音视频晚场活动等你参加](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=3&sn=f81569d938029c9b297f118acef66050&chksm=f9525121ce25d837aac12cd6b3745bd7d85a844319e572dff9ee57b5478d826d91dd96d22d29&scene=27#wechat_redirect) 
 - [2019-10-04-蚂蚁金服褚霸：敲最牛的代码，骑最野的车丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492656&idx=1&sn=6998530ea0f13a6fe7575800cef7f900&chksm=f9525173ce25d865bcab9ddcbed0e8ed8d999df57b8177ee074ee5c7fbd958f714a7cdb30bf8&scene=27#wechat_redirect) 
