@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-30 06:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-10-31 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -220,6 +220,7 @@
 - [【前端里】2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) 
 - [【前端里】2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html) 
 - [【前端里】2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) 
+- [【Aotu-|-凹凸实验室】2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/) 
 - [【Aotu-|-凹凸实验室】2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [【Aotu-|-凹凸实验室】2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 
@@ -587,6 +588,7 @@
 - [【阮一峰的网络日志】2019-08-01-信息论入门教程](http://www.ruanyifeng.com/blog/2019/08/information-theory.html) 
 - [【前端里】2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html) 
 - [【前端里】2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html) 
+- [【Aotu-|-凹凸实验室】2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) 
 - [【Aotu-|-凹凸实验室】2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
