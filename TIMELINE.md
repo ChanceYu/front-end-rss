@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-10-31 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -18,7 +18,7 @@
 <td><a href="#2019-08">08月</a></td>
 <td><a href="#2019-09">09月</a></td>
 <td><a href="#2019-10">10月</a></td>
-<td>11月</td>
+<td><a href="#2019-11">11月</a></td>
 <td>12月</td>
 </tr>
 
@@ -97,6 +97,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2019-11">
+ 2019-11
+</summary>
+
+
+- [【阮一峰的网络日志】2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2019-10">

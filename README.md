@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-10-31 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-01 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,10 +20,10 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
 
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html) ![](assets/new.png)  
 - [2019-10-29-你所不知道的-AI-进展](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)  
 - [2019-10-25-科技爱好者周刊：第-79-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)  
 - [2019-10-21-Tmux-使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html)  
@@ -207,7 +208,6 @@
 - [2019-08-23-科技爱好者周刊：第-70-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-70.html)  
 - [2019-08-16-科技爱好者周刊：第-69-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-69.html)  
 - [2019-08-09-科技爱好者周刊：第-68-期](http://www.ruanyifeng.com/blog/2019/08/weekly-issue-68.html)  
-- [2019-08-08-xargs-命令教程](http://www.ruanyifeng.com/blog/2019/08/xargs-tutorial.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,8 +281,8 @@
 </summary>
 
 
-- [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/) ![](assets/new.png)  
-- [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) ![](assets/new.png)  
+- [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)  
+- [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/)  
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)  
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)  
 - [2019-09-25-玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)  
