@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,10 @@
 </summary>
 
 
+- [【前端大全】2019-11-01-2020-前端工程师脱贫宝典，凭啥他能月薪-30K+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=1&sn=ed8314aeee0c653e37358bc7addaf984&chksm=80255a0bb752d31dae0e990d9d6a605e37e6a0148ca27800bdf0cf2b21f4e6181488e85350b0&scene=27#wechat_redirect) 
+- [【前端大全】2019-11-01-vue-router-的超神之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=2&sn=a2f3ae690b0c40006bc060e7cf01d6c2&chksm=80255a0bb752d31dd374841bfb7b1becc7899692f9dc4abae0e478d232129635db195926d59c&scene=27#wechat_redirect) 
+- [【前端之巅】2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect) 
+- [【前端之巅】2019-11-01-CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect) 
 - [【阮一峰的网络日志】2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -130,6 +134,10 @@
 - [【前端早读课】2019-10-09-【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-09-【视频】Dcloud@崔红保：基于weex实现的小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=2&sn=1c093a8cdb479fcdeaade7caf49969ab&chksm=bd4946128a3ecf04a216b717e8ab8d2bb0771d6a206af7b5655203b4b84ac3b31784ef607eb8&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-08-【第1738期】100-行代码实现-Promises/A+-规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234151&idx=1&sn=6292156c16e851d8d5f1dbccdfc82a74&chksm=bd4946e38a3ecff561bef99277e0f1ad5ec7f7014437aa100cb01e872eee80985adb04734b11&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-31-浅谈：前端如何赋能业务](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=1&sn=8986acaf8aefc4bba2a86be4580ba3d3&chksm=80255a09b752d31f5c87a8e1b1d31c4fea3b5462f89c8f8b4bd61da5f29c15526b4897cd8457&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-31-面向对象：以诚相待，只为寻求对的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=2&sn=90f496e1fe625d0276ae30ca19b7ac1b&chksm=80255a09b752d31f1682d4c3da10677f68087a3ec87968d01177bc53f513e57d24479266bfb2&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-30-面试5分钟，坐车2小时，为什么我总找不到​合适的前端工作？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557313&idx=1&sn=e9aa21e365c36eda8458f1015ae7737e&chksm=80255a00b752d31689cd9fde7883b0423f03fd6a32c7b312dda5667054fad84ae7b6543d834e&scene=27#wechat_redirect) 
+- [【前端大全】2019-10-30-Chrome-浏览器垃圾回收机制与内存泄漏分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557313&idx=2&sn=91a96668e31b67a7280788ae713343f1&chksm=80255a00b752d316a7854cf7b65c811103c685ae4e763174279457a17a7b444556622b13c21a&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-29-代码美化的艺术](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557301&idx=1&sn=17a97fcc5e33d27177c432a74ff2b0ec&chksm=80255a74b752d3627516db71d7c60e70b770d811cffb2c14fd0863388b6f45348344a259f8f7&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-29-面向对象：一个安静温柔爱好色彩和艺术的妹子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557301&idx=2&sn=89f11493780dea3c2b0097f49873e4f9&chksm=80255a74b752d362432690a11717b1ad7035dd440cf3c710ef1d40212a06e2e4712d5b8af09e&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-27-React-Hooks异步操作二三事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557294&idx=1&sn=fb096188f03a04741063b13eccc93eca&chksm=80255a6fb752d379379284769c4b1a69ec1d88ef08f4f2c695523efa9beae9badcfc33d7c5ee&scene=27#wechat_redirect) 
@@ -168,6 +176,12 @@
 - [【前端大全】2019-10-05-终于来了！Vue-3.0-源码开放](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557173&idx=1&sn=54aee5502ba68342e3a7f09c5dc04320&chksm=80255af4b752d3e215c4f1eae14054c8051ea891f143369d2f8d0fa0e53cb4cb60461f7c0d64&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-02-大前端时代，浅谈-JavaScript-开发重型跨平台应用以及架构](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557163&idx=1&sn=e68e022315891a235c818a97c358f49e&chksm=80255aeab752d3fcb512bdc0b250a40e8b02f96d62a7e6294e2a979c007b7051bdf4366a3180&scene=27#wechat_redirect) 
 - [【前端大全】2019-10-01-5分钟搭一个企业级脚手架：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557159&idx=1&sn=367619b9ce0f95b3ad628ce071d3e423&chksm=80255ae6b752d3f0ef8b97c8d67590c03788f2787b9baededdf138fc74418ce506189d0e9115&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-31-对Redux一头雾水？看完这篇就懂了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=1&sn=b051361c8dd0cc5feff3fd9df15a2883&chksm=f9525014ce25d902a78a2a361e0685141edb9ccdbb6cd917713576520e5a395e59e6c74fc430&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-31-解读B站跨平台播放器IJKPlayer的前世今生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=2&sn=6ca326d7f69d338f711c0c1841ff7589&chksm=f9525014ce25d902441ec433363b684266670409dbc35deeb999482a2ac73610890ad5f4361d&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-31-腾讯首届全球开发者大会，3000+开发者同台，你来不来！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=3&sn=e84e4f0e6a96c62403cc66ecade7e5c2&chksm=f9525014ce25d9021ae463cf148471bf27f0d4a299aba9bde276d27948c88edc8d61b45a5e73&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-30-Vue-3中那些激动人心的新功能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=1&sn=15e02736a63245e907235a74632fba62&chksm=f952500fce25d9190c4946b9592c61bf07c35a9f93c43da169ab104e3bfb94a74c10579846b9&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-30-让偶现Bug无所遁形：贝壳自研时光机如何解决前端行业痛点？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=2&sn=af45e7976e584025983d24965ac398fe&chksm=f952500fce25d9196e1559ee68562f083dd915e1da66079487e6887d82d2d5373097ab40c779&scene=27#wechat_redirect) 
+- [【前端之巅】2019-10-30-AI技术背后：你知道大公司是怎么做深度学习的吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=3&sn=0e514791d9b97f40a149f4e3547dcac3&chksm=f952500fce25d919e85bd77d7ccd653f889ff9e7ffc218d737fd55d573f5cd721c9b3f8403d3&scene=27#wechat_redirect) 
 - [【前端之巅】2019-10-29-微前端究竟好在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=1&sn=3ae9919b0a19d4a1d561c5221ba04cb9&chksm=f9525074ce25d962599a178dc78edb6eba1d48ef3d8b8ce413fa6856fde0873825a8de9edc8b&scene=27#wechat_redirect) 
 - [【前端之巅】2019-10-29-腾讯NOW直播丨大前端监控体系建设案例](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=2&sn=2f8ab2115ce1cd95810b9e81cabb63cc&chksm=f9525074ce25d96274a822256d59b03e3207ab5e0d947b858bbb0c2cd91cdc6345cf9301f7b3&scene=27#wechat_redirect) 
 - [【前端之巅】2019-10-28-谁将取代JavaScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=1&sn=dcd6bb0feba0af94396f1320a56f9693&chksm=f9525064ce25d972d50607fe020878112d3bc45998ea5a4eabc319e1d85dff7ffaeca08a95f3&scene=27#wechat_redirect) 

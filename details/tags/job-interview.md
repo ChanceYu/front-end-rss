@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -110,6 +110,7 @@
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) 
 - [2018-09-27-【招聘】天猫-IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
+- [2019-10-30-面试5分钟，坐车2小时，为什么我总找不到​合适的前端工作？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557313&idx=1&sn=e9aa21e365c36eda8458f1015ae7737e&chksm=80255a00b752d31689cd9fde7883b0423f03fd6a32c7b312dda5667054fad84ae7b6543d834e&scene=27#wechat_redirect) 
 - [2019-10-09-2019-大龄前端如何准备面试？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557195&idx=1&sn=f7235fbd8d18d2ef88ff3ff02804ad16&chksm=80255a8ab752d39c33229317702d917fda5f3ca66397213331d21a513de2ef115708051d58dc&scene=27#wechat_redirect) 
 - [2019-07-19-关于裸辞，关于前端面试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556766&idx=1&sn=ff9bce90ba181b1371296e11942cd7e4&chksm=80255c5fb752d5493ca5f656e385dd4a855d65d6983a7c976124d94e8b2c1763e0825794bef1&scene=27#wechat_redirect) 
 - [2019-07-15-撸了今年阿里、头条和美团的面试，我有一个重要发现.......](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556746&idx=1&sn=5faa8d803930919c1f2cc465af53ece8&chksm=80255c4bb752d55dbb429edd729323e738b6972800b23e9a6456b9f221cfc05a500696138b52&scene=27#wechat_redirect) 

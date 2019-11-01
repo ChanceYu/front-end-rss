@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -178,6 +178,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-11-01-2020-前端工程师脱贫宝典，凭啥他能月薪-30K+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=1&sn=ed8314aeee0c653e37358bc7addaf984&chksm=80255a0bb752d31dae0e990d9d6a605e37e6a0148ca27800bdf0cf2b21f4e6181488e85350b0&scene=27#wechat_redirect) 
+- [2019-10-31-浅谈：前端如何赋能业务](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=1&sn=8986acaf8aefc4bba2a86be4580ba3d3&chksm=80255a09b752d31f5c87a8e1b1d31c4fea3b5462f89c8f8b4bd61da5f29c15526b4897cd8457&scene=27#wechat_redirect) 
 - [2019-10-29-代码美化的艺术](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557301&idx=1&sn=17a97fcc5e33d27177c432a74ff2b0ec&chksm=80255a74b752d3627516db71d7c60e70b770d811cffb2c14fd0863388b6f45348344a259f8f7&scene=27#wechat_redirect) 
 - [2019-10-24-前端代码质量-圈复杂度原理和实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=1&sn=f3e11c932076b0e73e077055d25dba8f&chksm=80255a67b752d371df96107a3a6ec8eccde3c84f902d8f85784316e8271ae63a696ff8868048&scene=27#wechat_redirect) 
 - [2019-10-11-耗时1个月整理的这份英语资源！一次性全部分享给你，手慢无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557207&idx=1&sn=75bc5e5925f8d31cf095974f14c2f000&chksm=80255a96b752d38066410b6c43d11f417fb5a6ef0fb7539947dd7abbf9e540e5845142577d58&scene=27#wechat_redirect) 
@@ -288,6 +290,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect) 
+- [2019-10-31-腾讯首届全球开发者大会，3000+开发者同台，你来不来！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=3&sn=e84e4f0e6a96c62403cc66ecade7e5c2&chksm=f9525014ce25d9021ae463cf148471bf27f0d4a299aba9bde276d27948c88edc8d61b45a5e73&scene=27#wechat_redirect) 
+- [2019-10-30-让偶现Bug无所遁形：贝壳自研时光机如何解决前端行业痛点？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=2&sn=af45e7976e584025983d24965ac398fe&chksm=f952500fce25d9196e1559ee68562f083dd915e1da66079487e6887d82d2d5373097ab40c779&scene=27#wechat_redirect) 
+- [2019-10-30-AI技术背后：你知道大公司是怎么做深度学习的吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=3&sn=0e514791d9b97f40a149f4e3547dcac3&chksm=f952500fce25d919e85bd77d7ccd653f889ff9e7ffc218d737fd55d573f5cd721c9b3f8403d3&scene=27#wechat_redirect) 
 - [2019-10-29-微前端究竟好在哪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=1&sn=3ae9919b0a19d4a1d561c5221ba04cb9&chksm=f9525074ce25d962599a178dc78edb6eba1d48ef3d8b8ce413fa6856fde0873825a8de9edc8b&scene=27#wechat_redirect) 
 - [2019-10-24-Web堆栈选择指南：JAMStack-vs-MEAN-vs-LAMP](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=1&sn=593b004bf06dc42ff560616fdd057405&chksm=f952504fce25d959def43dc076794cfe5100da00b4ef31e0fc0ff86a9f7186275094a49418b4&scene=27#wechat_redirect) 
 - [2019-10-24-低延迟语音开发很难？大牛教你3招避坑](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=3&sn=186ca53497764ecbf41397942263b72e&chksm=f952504fce25d9591745c55641a51928329ec3c592fcff310cb976e09a2eba83417f0671ec66&scene=27#wechat_redirect) 

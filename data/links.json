@@ -3342,6 +3342,36 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "2020 前端工程师脱贫宝典，凭啥他能月薪 30K+",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=1&sn=ed8314aeee0c653e37358bc7addaf984&chksm=80255a0bb752d31dae0e990d9d6a605e37e6a0148ca27800bdf0cf2b21f4e6181488e85350b0&scene=27#wechat_redirect",
+        "date": "2019-11-01"
+      },
+      {
+        "title": "vue-router 的超神之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=2&sn=a2f3ae690b0c40006bc060e7cf01d6c2&chksm=80255a0bb752d31dd374841bfb7b1becc7899692f9dc4abae0e478d232129635db195926d59c&scene=27#wechat_redirect",
+        "date": "2019-11-01"
+      },
+      {
+        "title": "浅谈：前端如何赋能业务",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=1&sn=8986acaf8aefc4bba2a86be4580ba3d3&chksm=80255a09b752d31f5c87a8e1b1d31c4fea3b5462f89c8f8b4bd61da5f29c15526b4897cd8457&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "面向对象：以诚相待，只为寻求对的人",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=2&sn=90f496e1fe625d0276ae30ca19b7ac1b&chksm=80255a09b752d31f1682d4c3da10677f68087a3ec87968d01177bc53f513e57d24479266bfb2&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "面试5分钟，坐车2小时，为什么我总找不到​合适的前端工作？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557313&idx=1&sn=e9aa21e365c36eda8458f1015ae7737e&chksm=80255a00b752d31689cd9fde7883b0423f03fd6a32c7b312dda5667054fad84ae7b6543d834e&scene=27#wechat_redirect",
+        "date": "2019-10-30"
+      },
+      {
+        "title": "Chrome 浏览器垃圾回收机制与内存泄漏分析",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557313&idx=2&sn=91a96668e31b67a7280788ae713343f1&chksm=80255a00b752d316a7854cf7b65c811103c685ae4e763174279457a17a7b444556622b13c21a&scene=27#wechat_redirect",
+        "date": "2019-10-30"
+      },
+      {
         "title": "代码美化的艺术",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557301&idx=1&sn=17a97fcc5e33d27177c432a74ff2b0ec&chksm=80255a74b752d3627516db71d7c60e70b770d811cffb2c14fd0863388b6f45348344a259f8f7&scene=27#wechat_redirect",
         "date": "2019-10-29"
@@ -6243,6 +6273,46 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "是时候揭开百度前端技术体系的真面目了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect",
+        "date": "2019-11-01"
+      },
+      {
+        "title": "CI/CD现代史，从Jenkins到GitHub Actions",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect",
+        "date": "2019-11-01"
+      },
+      {
+        "title": "对Redux一头雾水？看完这篇就懂了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=1&sn=b051361c8dd0cc5feff3fd9df15a2883&chksm=f9525014ce25d902a78a2a361e0685141edb9ccdbb6cd917713576520e5a395e59e6c74fc430&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "解读B站跨平台播放器IJKPlayer的前世今生",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=2&sn=6ca326d7f69d338f711c0c1841ff7589&chksm=f9525014ce25d902441ec433363b684266670409dbc35deeb999482a2ac73610890ad5f4361d&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "腾讯首届全球开发者大会，3000+开发者同台，你来不来！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=3&sn=e84e4f0e6a96c62403cc66ecade7e5c2&chksm=f9525014ce25d9021ae463cf148471bf27f0d4a299aba9bde276d27948c88edc8d61b45a5e73&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "Vue 3中那些激动人心的新功能",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=1&sn=15e02736a63245e907235a74632fba62&chksm=f952500fce25d9190c4946b9592c61bf07c35a9f93c43da169ab104e3bfb94a74c10579846b9&scene=27#wechat_redirect",
+        "date": "2019-10-30"
+      },
+      {
+        "title": "让偶现Bug无所遁形：贝壳自研时光机如何解决前端行业痛点？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=2&sn=af45e7976e584025983d24965ac398fe&chksm=f952500fce25d9196e1559ee68562f083dd915e1da66079487e6887d82d2d5373097ab40c779&scene=27#wechat_redirect",
+        "date": "2019-10-30"
+      },
+      {
+        "title": "AI技术背后：你知道大公司是怎么做深度学习的吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=3&sn=0e514791d9b97f40a149f4e3547dcac3&chksm=f952500fce25d919e85bd77d7ccd653f889ff9e7ffc218d737fd55d573f5cd721c9b3f8403d3&scene=27#wechat_redirect",
+        "date": "2019-10-30"
+      },
       {
         "title": "微前端究竟好在哪？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=1&sn=3ae9919b0a19d4a1d561c5221ba04cb9&chksm=f9525074ce25d962599a178dc78edb6eba1d48ef3d8b8ce413fa6856fde0873825a8de9edc8b&scene=27#wechat_redirect",

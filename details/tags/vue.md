@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -55,6 +55,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2019-11-01-vue-router-的超神之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=2&sn=a2f3ae690b0c40006bc060e7cf01d6c2&chksm=80255a0bb752d31dd374841bfb7b1becc7899692f9dc4abae0e478d232129635db195926d59c&scene=27#wechat_redirect) 
 - [2019-10-23-Vue3.0-来了，明年的面试问什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557282&idx=1&sn=79e5f448df3bf2bf565b04ca5be8e27d&chksm=80255a63b752d3754e5bac73b4b9cfab9cc294d6adbacf9a1d0453d7ec4058660bbe6d987edb&scene=27#wechat_redirect) 
 - [2019-10-21-Vue-3.0前的-TypeScript-最佳入门实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557265&idx=1&sn=cfab9a1c5fa6b8b8c365144a2a73907d&chksm=80255a50b752d346d96f7911c00962099b0daee885306bfa1fdc62b2821302a0e070db97c863&scene=27#wechat_redirect) 
 - [2019-10-16-Vue-3.0源码发布，前端程序员：“我真的学不动了！”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557236&idx=1&sn=3e67924c04f8ab5d85ac8a5ca2a01a5f&chksm=80255ab5b752d3a3deae80706fe1d86a47d77d338f1f0561d0ba08a0bb90eb1e1e61b8db693e&scene=27#wechat_redirect) 
@@ -98,6 +99,7 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2019-10-30-Vue-3中那些激动人心的新功能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=1&sn=15e02736a63245e907235a74632fba62&chksm=f952500fce25d9190c4946b9592c61bf07c35a9f93c43da169ab104e3bfb94a74c10579846b9&scene=27#wechat_redirect) 
 - [2019-10-23-Vue-3最值得期待的五项重大更新](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492859&idx=1&sn=dc3211911c7d8749aaad8ff00a48d1a5&chksm=f95251b8ce25d8ae56a5c4371451bfd169b6be159a4ed242964352c9c7bd78d5edca5c0c2b05&scene=27#wechat_redirect) 
 - [2019-10-13-前端周报：Vue-3公开代码库；NPM发布6.12.0；Sass推出模块系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492731&idx=1&sn=388d4e3e740a3506b0ebc40d3f9833b9&chksm=f9525138ce25d82ee1c36f469192e6a759b6a9731f8e90b057dea94796acf5f60f3d3c83ba18&scene=27#wechat_redirect) 
 - [2019-08-30-Vue-+-Node-+-WebRTC构建一个高逼格的视频应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492319&idx=2&sn=90d6f7f223ff6df6d32694ddd1e07f8a&chksm=f952579cce25de8aaa181068aac8919dfeeee3f34d462bb2eca2013810644ce1705b5c7ff52d#rd) 

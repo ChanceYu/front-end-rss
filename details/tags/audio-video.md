@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -23,6 +23,7 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2019-10-31-解读B站跨平台播放器IJKPlayer的前世今生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=2&sn=6ca326d7f69d338f711c0c1841ff7589&chksm=f9525014ce25d902441ec433363b684266670409dbc35deeb999482a2ac73610890ad5f4361d&scene=27#wechat_redirect) 
 - [2019-10-29-腾讯NOW直播丨大前端监控体系建设案例](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=2&sn=2f8ab2115ce1cd95810b9e81cabb63cc&chksm=f9525074ce25d96274a822256d59b03e3207ab5e0d947b858bbb0c2cd91cdc6345cf9301f7b3&scene=27#wechat_redirect) 
 - [2019-10-28-探秘实时音视频与网络技术难点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=3&sn=0d7f6c6b4c1e57f1342e196a4d0ed09c&chksm=f9525064ce25d972f3bb46def489a2923831787ba0e5278d1da2cc24f200bee5765201237e01&scene=27#wechat_redirect) 
 - [2019-10-15-从编码到网络传输，揭秘低延音视频背后的技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=3&sn=1b8d04d7a3d15ee2426257889a935961&chksm=f95251cdce25d8dbd5905a5e3ccf55e29a02b7066d5ffcc462aecbc0ced50ae7352cb2b733d5&scene=27#wechat_redirect) 

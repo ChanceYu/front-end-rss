@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -450,10 +450,10 @@
 - [【前端早读课】第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect)
 - [【前端早读课】【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect)
 - [【前端早读课】【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect)
+- [【前端之巅】解读B站跨平台播放器IJKPlayer的前世今生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=2&sn=6ca326d7f69d338f711c0c1841ff7589&chksm=f9525014ce25d902441ec433363b684266670409dbc35deeb999482a2ac73610890ad5f4361d&scene=27#wechat_redirect)
 - [【前端之巅】腾讯NOW直播丨大前端监控体系建设案例](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492919&idx=2&sn=2f8ab2115ce1cd95810b9e81cabb63cc&chksm=f9525074ce25d96274a822256d59b03e3207ab5e0d947b858bbb0c2cd91cdc6345cf9301f7b3&scene=27#wechat_redirect)
 - [【前端之巅】探秘实时音视频与网络技术难点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=3&sn=0d7f6c6b4c1e57f1342e196a4d0ed09c&chksm=f9525064ce25d972f3bb46def489a2923831787ba0e5278d1da2cc24f200bee5765201237e01&scene=27#wechat_redirect)
 - [【前端之巅】从编码到网络传输，揭秘低延音视频背后的技术架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492750&idx=3&sn=1b8d04d7a3d15ee2426257889a935961&chksm=f95251cdce25d8dbd5905a5e3ccf55e29a02b7066d5ffcc462aecbc0ced50ae7352cb2b733d5&scene=27#wechat_redirect)
-- [【前端之巅】直击音视频技术核心，QCon音视频晚场活动等你参加](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492706&idx=3&sn=f81569d938029c9b297f118acef66050&chksm=f9525121ce25d837aac12cd6b3745bd7d85a844319e572dff9ee57b5478d826d91dd96d22d29&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -620,6 +620,7 @@
 - [【前端早读课】【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect)
 - [【前端早读课】【英】Github-宣布-GitHub-Free-以及-GitHub-Enterprise](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=3&sn=8b9b78ecad6457e9a4522b040532c14b#wechat_redirect)
 - [【前端早读课】【英】Removing-jQuery-from-GitHub.com-frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect)
+- [【前端之巅】CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect)
 - [【前端之巅】GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/)
 - [【阮一峰的网络日志】GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
@@ -680,6 +681,7 @@
 
 
 
+- [【前端大全】面向对象：以诚相待，只为寻求对的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=2&sn=90f496e1fe625d0276ae30ca19b7ac1b&chksm=80255a09b752d31f1682d4c3da10677f68087a3ec87968d01177bc53f513e57d24479266bfb2&scene=27#wechat_redirect)
 - [【前端大全】面向对象：一个安静温柔爱好色彩和艺术的妹子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557301&idx=2&sn=89f11493780dea3c2b0097f49873e4f9&chksm=80255a74b752d362432690a11717b1ad7035dd440cf3c710ef1d40212a06e2e4712d5b8af09e&scene=27#wechat_redirect)
 - [【前端大全】面向对象：以诚相待，携手一生](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557286&idx=2&sn=926bf7d4a96e2959b265a80a18edd6c2&chksm=80255a67b752d371b611d12e0d75b69168fc163b0629bfd557b7de08b7dd374da5d0ae315032&scene=27#wechat_redirect)
 - [【前端大全】面向对象：因为爱，你和我都想为对方成为一个更好的人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557254&idx=2&sn=826457b2350c96a77c6efc1efa77340e&chksm=80255a47b752d351279e50f97c80dd0bc6804948b45b6e8c5132dfe41ce26ace5f6665cc06dc&scene=27#wechat_redirect)
@@ -699,7 +701,6 @@
 - [【前端大全】面向对象：缘分来之不易，遇到定会好好珍惜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556864&idx=2&sn=4ac670a0a91028bff668732b6687eea8&chksm=80255bc1b752d2d72bce1f73cd16b0c9daee27e4dd06d8621478668c3ac8e0f740353e66564f&scene=27#wechat_redirect)
 - [【前端大全】面向对象：Don't-worry,-I-got-your-back.](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556834&idx=2&sn=52d7a690e286f4c466500c509584bf94&chksm=80255c23b752d535fd1504531f2df6e466b40af2a928f9d3704a3cf602365ba7c12479b48097#rd)
 - [【前端大全】面向对象：等你来撩](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556811&idx=2&sn=76ae28a91157719a995a1b911eff70b6&chksm=80255c0ab752d51c02bd9b36afe766f8929c20b1e843858fe805ce3ecf35b2e06e95b8dafced#rd)
-- [【前端大全】面向对象：我没有全世界，但是未来我的世界都是你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556739&idx=2&sn=c30a43127b65774b33220bf1670f2849&chksm=80255c42b752d55481989c88da53df84ae0f357c05e8724ca3218099b16c8eb4569acbbe5bd0&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/oop.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

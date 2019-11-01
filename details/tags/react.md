@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-01 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -92,6 +92,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2019-10-31-对Redux一头雾水？看完这篇就懂了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492951&idx=1&sn=b051361c8dd0cc5feff3fd9df15a2883&chksm=f9525014ce25d902a78a2a361e0685141edb9ccdbb6cd917713576520e5a395e59e6c74fc430&scene=27#wechat_redirect) 
 - [2019-10-28-重构复杂的React组件：编写高效且可读组件的5个最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=2&sn=9e6c5fe9a8d54803e34f58820d860f28&chksm=f9525064ce25d97230c2e9515c4a1fb6608439bd6a4ea51e8576a81ae154caa1c45e795c1ca4&scene=27#wechat_redirect) 
 - [2019-10-17-你真的了解React吗？这里有50个React面试问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492811&idx=1&sn=089d1d33c39d3119cdcb8a4f59b43b01&chksm=f9525188ce25d89e444fbda363a8acc758f9dee953a9eebeb785570e736b2bc2869cfa3a1836&scene=27#wechat_redirect) 
 - [2019-10-11-想创建应用程序，只用React-Hooks就够了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492715&idx=1&sn=454829e50ed930fca0bcfcb972f75c5f&chksm=f9525128ce25d83ee00496def3c80d8524248dc123046840be2eacfd0bc2458a955debe8879f&scene=27#wechat_redirect) 
