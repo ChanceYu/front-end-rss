@@ -5,6 +5,56 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1763期】kbone，十分钟让Vue项目同时支持小程序",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234487&idx=1&sn=bc5b4e65a9ab3a0ffc3213a1835c1301&chksm=bd4979338a3ef025b3bd6208c16f99829f6faf7ecc2ace5437e9a55c8f68a6564e8fe0fe114d&scene=27#wechat_redirect",
+        "date": "2019-11-02"
+      },
+      {
+        "title": "【第1762期】揭开NoahV智能运维前端框架的神秘面纱",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=1&sn=b0f2073f15bc69adef9faa111d4741a7&chksm=bd4979368a3ef020230869cc9ad0a806d136a62ae02964fa91903d8b4a9c1defe53d984ed5e1&scene=27#wechat_redirect",
+        "date": "2019-11-01"
+      },
+      {
+        "title": "【PPT】Vue.js 团队成员@蒋豪群：谈谈技术项目的可维护性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=2&sn=96bb764dd3b44e4e522575586b48425b&chksm=bd4979368a3ef0204053277edfeb0c5e5b6e88c46d0c7059e8381579b9384afdc494fd3de8ee&scene=27#wechat_redirect",
+        "date": "2019-11-01"
+      },
+      {
+        "title": "【第1761期】一个前端的 functor,applicative functor,monad 初探",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234441&idx=1&sn=49a63f21a9fa3666b6598f2827dabaed&chksm=bd49790d8a3ef01b124ca808c0ff99beeb6e42332c584b93b918fb4950268ed28024b820e0c8&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "【PPT】阿里@维奇：文档即是代码的研发新玩法",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234441&idx=2&sn=67c76cdf6e8553dd1b773ce3fde87fdf&chksm=bd49790d8a3ef01b88c91eaba2de25b79bc858853b8b1a0b9677ec2ba9cd39f65c44a1a05fbe&scene=27#wechat_redirect",
+        "date": "2019-10-31"
+      },
+      {
+        "title": "【第1960期】ReactJS 中的代码注入",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234384&idx=1&sn=082f11bb593c23fe550671cf06a4e220&chksm=bd4979d48a3ef0c2b47ac0c9542233763fcb7f45d2da39d489f51487a4e05b64572d8591a1e0&scene=27#wechat_redirect",
+        "date": "2019-10-30"
+      },
+      {
+        "title": "【第1759期】现代 Web 开发的现状与未来",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234375&idx=1&sn=e8c73019b0bfdd4fc9e8c4525ffd12af&chksm=bd4979c38a3ef0d51853e6e31132d7d725c15181ba4149f667cab4de86ee3b0508202f5834e1&scene=27#wechat_redirect",
+        "date": "2019-10-29"
+      },
+      {
+        "title": "【第1758期】面向传统，Serverless 进化之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234368&idx=1&sn=17cfe5170431c3ac2994c48bfcf996bf&chksm=bd4979c48a3ef0d25ec0222ee5464315f3dd1c4e9152ffb238f47a651a358663d64bcab197dd&scene=27#wechat_redirect",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "【送书】10月份，10本。",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234368&idx=2&sn=5fce7f113dd6506fc908ae31b6dc4dc0&chksm=bd4979c48a3ef0d2308c50965a71aa276e2d85054cf43a88ad610d843aa34f9870088c4aa684&scene=27#wechat_redirect",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "【第1757期】Server-X：一款可能提升你十倍工作效率的工具",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234367&idx=1&sn=0a456cc2b627a6e33791380ddc7cb319&chksm=bd4979bb8a3ef0ada6e0e6407e64cc9db7ac8456b9bd9c4ed4984c81c2bbe8588437dcf80004&scene=27#wechat_redirect",
+        "date": "2019-10-27"
+      },
+      {
         "title": "Vue 3.0 来了！不断更迭的技术浪潮中，前端开发必备哪些核心能力?",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=1&sn=50e980f9de90999cddf834f5b7b1b829&chksm=bd49463a8a3ecf2c131f649528c5614ca96be27bafea6bb49845c135c77927fdab82f8450b8f&scene=27#wechat_redirect",
         "date": "2019-10-15"

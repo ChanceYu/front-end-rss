@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-02 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-03 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,9 @@
 </summary>
 
 
+- [【前端早读课】2019-11-02-【第1763期】kbone，十分钟让Vue项目同时支持小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234487&idx=1&sn=bc5b4e65a9ab3a0ffc3213a1835c1301&chksm=bd4979338a3ef025b3bd6208c16f99829f6faf7ecc2ace5437e9a55c8f68a6564e8fe0fe114d&scene=27#wechat_redirect) 
+- [【前端早读课】2019-11-01-【第1762期】揭开NoahV智能运维前端框架的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=1&sn=b0f2073f15bc69adef9faa111d4741a7&chksm=bd4979368a3ef020230869cc9ad0a806d136a62ae02964fa91903d8b4a9c1defe53d984ed5e1&scene=27#wechat_redirect) 
+- [【前端早读课】2019-11-01-【PPT】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=2&sn=96bb764dd3b44e4e522575586b48425b&chksm=bd4979368a3ef0204053277edfeb0c5e5b6e88c46d0c7059e8381579b9384afdc494fd3de8ee&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-01-2020-前端工程师脱贫宝典，凭啥他能月薪-30K+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=1&sn=ed8314aeee0c653e37358bc7addaf984&chksm=80255a0bb752d31dae0e990d9d6a605e37e6a0148ca27800bdf0cf2b21f4e6181488e85350b0&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-01-vue-router-的超神之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=2&sn=a2f3ae690b0c40006bc060e7cf01d6c2&chksm=80255a0bb752d31dd374841bfb7b1becc7899692f9dc4abae0e478d232129635db195926d59c&scene=27#wechat_redirect) 
 - [【前端之巅】2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect) 
@@ -119,6 +122,13 @@
 </summary>
 
 
+- [【前端早读课】2019-10-31-【第1761期】一个前端的-functor,applicative-functor,monad-初探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234441&idx=1&sn=49a63f21a9fa3666b6598f2827dabaed&chksm=bd49790d8a3ef01b124ca808c0ff99beeb6e42332c584b93b918fb4950268ed28024b820e0c8&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-31-【PPT】阿里@维奇：文档即是代码的研发新玩法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234441&idx=2&sn=67c76cdf6e8553dd1b773ce3fde87fdf&chksm=bd49790d8a3ef01b88c91eaba2de25b79bc858853b8b1a0b9677ec2ba9cd39f65c44a1a05fbe&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-30-【第1960期】ReactJS-中的代码注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234384&idx=1&sn=082f11bb593c23fe550671cf06a4e220&chksm=bd4979d48a3ef0c2b47ac0c9542233763fcb7f45d2da39d489f51487a4e05b64572d8591a1e0&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-29-【第1759期】现代-Web-开发的现状与未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234375&idx=1&sn=e8c73019b0bfdd4fc9e8c4525ffd12af&chksm=bd4979c38a3ef0d51853e6e31132d7d725c15181ba4149f667cab4de86ee3b0508202f5834e1&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-28-【第1758期】面向传统，Serverless-进化之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234368&idx=1&sn=17cfe5170431c3ac2994c48bfcf996bf&chksm=bd4979c48a3ef0d25ec0222ee5464315f3dd1c4e9152ffb238f47a651a358663d64bcab197dd&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-28-【送书】10月份，10本。](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234368&idx=2&sn=5fce7f113dd6506fc908ae31b6dc4dc0&chksm=bd4979c48a3ef0d2308c50965a71aa276e2d85054cf43a88ad610d843aa34f9870088c4aa684&scene=27#wechat_redirect) 
+- [【前端早读课】2019-10-27-【第1757期】Server-X：一款可能提升你十倍工作效率的工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234367&idx=1&sn=0a456cc2b627a6e33791380ddc7cb319&chksm=bd4979bb8a3ef0ada6e0e6407e64cc9db7ac8456b9bd9c4ed4984c81c2bbe8588437dcf80004&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-15-Vue-3.0-来了！不断更迭的技术浪潮中，前端开发必备哪些核心能力?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=1&sn=50e980f9de90999cddf834f5b7b1b829&chksm=bd49463a8a3ecf2c131f649528c5614ca96be27bafea6bb49845c135c77927fdab82f8450b8f&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-15-【第1745期】现代-JavaScript-教程---类型检测："instanceof"](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=2&sn=e47acc9c20568f71ac393b6431b79ea2&chksm=bd49463a8a3ecf2cc4afee2621243520f4356f716fbaaef0b93b9c2c2d5baf3369f1d9fb55ce&scene=27#wechat_redirect) 
 - [【前端早读课】2019-10-14-【第1744期】采访一位来自-Pornhub-的-Web-开发者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=1&sn=780fda738bb100735fdbf08888c68a9f&chksm=bd49463d8a3ecf2be9c00abca1ed458d4c883b26cdb58ae088021afdbbd7fd0859bde37517a5&scene=27#wechat_redirect) 
