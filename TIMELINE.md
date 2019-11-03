@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-03 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-03 22:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -109,8 +109,10 @@
 - [【前端早读课】2019-11-01-【PPT】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=2&sn=96bb764dd3b44e4e522575586b48425b&chksm=bd4979368a3ef0204053277edfeb0c5e5b6e88c46d0c7059e8381579b9384afdc494fd3de8ee&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-01-2020-前端工程师脱贫宝典，凭啥他能月薪-30K+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=1&sn=ed8314aeee0c653e37358bc7addaf984&chksm=80255a0bb752d31dae0e990d9d6a605e37e6a0148ca27800bdf0cf2b21f4e6181488e85350b0&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-01-vue-router-的超神之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=2&sn=a2f3ae690b0c40006bc060e7cf01d6c2&chksm=80255a0bb752d31dd374841bfb7b1becc7899692f9dc4abae0e478d232129635db195926d59c&scene=27#wechat_redirect) 
+- [【前端之巅】2019-11-03-前端周报：Chrome支持沉浸式设备API；商用5G正式启用；“三体问题”得到完美解决](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492965&idx=1&sn=9c8071cc04e9a2978a9bb041a309760d&chksm=f9525026ce25d930fb0f929954a57b957abc08a6b54e6a7f47e8a3c72ed6a6d274939addb197&scene=27#wechat_redirect) 
 - [【前端之巅】2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect) 
 - [【前端之巅】2019-11-01-CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect) 
+- [【阮一峰的网络日志】2019-11-03-关于计算机科学的50个误解](http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html) 
 - [【阮一峰的网络日志】2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

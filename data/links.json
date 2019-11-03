@@ -6324,6 +6324,11 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端周报：Chrome支持沉浸式设备API；商用5G正式启用；“三体问题”得到完美解决",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492965&idx=1&sn=9c8071cc04e9a2978a9bb041a309760d&chksm=f9525026ce25d930fb0f929954a57b957abc08a6b54e6a7f47e8a3c72ed6a6d274939addb197&scene=27#wechat_redirect",
+        "date": "2019-11-03"
+      },
+      {
         "title": "是时候揭开百度前端技术体系的真面目了",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect",
         "date": "2019-11-01"
@@ -9344,6 +9349,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "关于计算机科学的50个误解",
+        "link": "http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html",
+        "date": "2019-11-03"
+      },
       {
         "title": "科技爱好者周刊：第 80 期",
         "link": "http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html",
