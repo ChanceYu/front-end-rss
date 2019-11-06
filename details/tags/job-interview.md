@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-05 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-06 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-11-03-【招聘】阿里数字政务中台前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234536&idx=2&sn=443b94308f7f696024beb45143f432ef&chksm=bd49796c8a3ef07a277f4f183fa0d07cd135846b465444b64d1e0a6392f6619b87e23bb1be63&scene=27#wechat_redirect) 
 - [2019-10-14-【招聘】上海联泰科技招聘前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=2&sn=3d0be35ff957eb076402aa00da2426ed&chksm=bd49463d8a3ecf2b59847abafd6dce619add432a8d0bc252170464fc2f708193604293406634&scene=27#wechat_redirect) 
 - [2019-10-12-【招聘】一起来做个最好的设计工具，腾讯-CDC-招人！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=2&sn=d2a179a2082a313d5e70ea641ade2801&chksm=bd49462d8a3ecf3b78dd28cd6991eddd61bfad5b944ef2b533847657de3c3f9270a6998f3ae8&scene=27#wechat_redirect) 
 - [2019-10-11-【招聘】阿里政务钉钉事业部用户体验团队招高级／专家前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=2&sn=8c4142777091a80904ced08dbe8fc6bd&chksm=bd4946198a3ecf0f234488526f76517373fa4c9465f9ce0daad567cbac54b219000a8f0a7b22&scene=27#wechat_redirect) 

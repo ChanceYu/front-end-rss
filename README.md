@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-05 06:00:18，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-06 08:00:24，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,11 @@
 </summary>
 
 
+- [2019-11-05-【第1766期】蚂蚁金服@玉伯：我的前端成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234550&idx=1&sn=6a9ffa1ceac6237009ba0c67f3c0bc9a&chksm=bd4979728a3ef064f4eca0f461c3827d42324713de471565c237bd8ceb72fc1acf20e64174b0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-05-【视频】小程序工程化探索：大规模场景下的问题和解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234550&idx=2&sn=286a26722aaf6469bfae674813152138&chksm=bd4979728a3ef06468e2909cdc716a1d7869aee36b9dde8e99abc2c9a1f2420192997e70ca69&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-04-【第1765期】微信官方小程序同构新方案Kbone全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234541&idx=1&sn=b77611ecc88ecd2e34293465b5b05d43&chksm=bd4979698a3ef07f9c420a499ba49ebd8ccaf288afabbbe0946a7c3c62f0b184d15efddd09bf&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-03-【第1764期】小程序工程化探索：大规模场景下的问题和解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234536&idx=1&sn=925c81e175afa88af4f8bcb2801d82a3&chksm=bd49796c8a3ef07a2777d2ba84641c844ec88d0381f66c04ce382024e0b198fe4bf7a72a1120&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-03-【招聘】阿里数字政务中台前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234536&idx=2&sn=443b94308f7f696024beb45143f432ef&chksm=bd49796c8a3ef07a277f4f183fa0d07cd135846b465444b64d1e0a6392f6619b87e23bb1be63&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-11-02-【第1763期】kbone，十分钟让Vue项目同时支持小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234487&idx=1&sn=bc5b4e65a9ab3a0ffc3213a1835c1301&chksm=bd4979338a3ef025b3bd6208c16f99829f6faf7ecc2ace5437e9a55c8f68a6564e8fe0fe114d&scene=27#wechat_redirect)  
 - [2019-11-01-【第1762期】揭开NoahV智能运维前端框架的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=1&sn=b0f2073f15bc69adef9faa111d4741a7&chksm=bd4979368a3ef020230869cc9ad0a806d136a62ae02964fa91903d8b4a9c1defe53d984ed5e1&scene=27#wechat_redirect)  
 - [2019-11-01-【PPT】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=2&sn=96bb764dd3b44e4e522575586b48425b&chksm=bd4979368a3ef0204053277edfeb0c5e5b6e88c46d0c7059e8381579b9384afdc494fd3de8ee&scene=27#wechat_redirect)  
@@ -48,11 +53,6 @@
 - [2019-10-14-【第1744期】采访一位来自-Pornhub-的-Web-开发者](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=1&sn=780fda738bb100735fdbf08888c68a9f&chksm=bd49463d8a3ecf2be9c00abca1ed458d4c883b26cdb58ae088021afdbbd7fd0859bde37517a5&scene=27#wechat_redirect)  
 - [2019-10-14-【招聘】上海联泰科技招聘前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=2&sn=3d0be35ff957eb076402aa00da2426ed&chksm=bd49463d8a3ecf2b59847abafd6dce619add432a8d0bc252170464fc2f708193604293406634&scene=27#wechat_redirect)  
 - [2019-10-13-【第1743期】Element-UI-技术揭秘---色彩、字体、边框与图标](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234218&idx=1&sn=d8dbc033a087a6631367d2b4e11b4d62&chksm=bd49462e8a3ecf383516419a46a4b36e9f264f2d3f4379839c9e011f82c682d5c0779b237fee&scene=27#wechat_redirect)  
-- [2019-10-13-【活动】第二届ngChina开发者大会，11月23-24号杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234218&idx=2&sn=e4af228242c8f5aa17569cd9be2ecd2c&chksm=bd49462e8a3ecf381170089701bbd7c84a61d89e8aa0a7e85220565fe196b80a6a075d79c015&scene=27#wechat_redirect)  
-- [2019-10-12-【第1742期】再谈HTTPS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=1&sn=0c97f58d3dc8b21caabcd1c51e81e1b2&chksm=bd49462d8a3ecf3bc5600761b271e3975bd57b503577f4a848c4e7e8c9d34e6dd11279b0a7ea&scene=27#wechat_redirect)  
-- [2019-10-12-【招聘】一起来做个最好的设计工具，腾讯-CDC-招人！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=2&sn=d2a179a2082a313d5e70ea641ade2801&chksm=bd49462d8a3ecf3b78dd28cd6991eddd61bfad5b944ef2b533847657de3c3f9270a6998f3ae8&scene=27#wechat_redirect)  
-- [2019-10-11-【第1741期】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=1&sn=ca712d1e8e262e135703119e70fc6089&chksm=bd4946198a3ecf0f5e15d770b55d12939cdd8d4dd00a7289b23a268f2d3b102fbf57bcc8fc34&scene=27#wechat_redirect)  
-- [2019-10-11-【招聘】阿里政务钉钉事业部用户体验团队招高级／专家前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=2&sn=8c4142777091a80904ced08dbe8fc6bd&chksm=bd4946198a3ecf0f234488526f76517373fa4c9465f9ce0daad567cbac54b219000a8f0a7b22&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2019-11-04-Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-03-炫技，从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557332&idx=1&sn=00cda84ff8941b8b53b262877066e99e&chksm=80255a15b752d3035e513bce41582dce775f03d8cef4dc404cc6a4f460509460818c6df9c844&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-02-终于来了！Vue-3.0-源码开放：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557330&idx=1&sn=30ba4e443f57e06ad6c6c7851842a042&chksm=80255a13b752d3052b3bf5431305fba9b8f890122d35030d80513fd7c1d2a14c5606b96faf82&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-04-Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect)  
+- [2019-11-03-炫技，从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557332&idx=1&sn=00cda84ff8941b8b53b262877066e99e&chksm=80255a15b752d3035e513bce41582dce775f03d8cef4dc404cc6a4f460509460818c6df9c844&scene=27#wechat_redirect)  
+- [2019-11-02-终于来了！Vue-3.0-源码开放：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557330&idx=1&sn=30ba4e443f57e06ad6c6c7851842a042&chksm=80255a13b752d3052b3bf5431305fba9b8f890122d35030d80513fd7c1d2a14c5606b96faf82&scene=27#wechat_redirect)  
 - [2019-11-01-2020-前端工程师脱贫宝典，凭啥他能月薪-30K+](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=1&sn=ed8314aeee0c653e37358bc7addaf984&chksm=80255a0bb752d31dae0e990d9d6a605e37e6a0148ca27800bdf0cf2b21f4e6181488e85350b0&scene=27#wechat_redirect)  
 - [2019-11-01-vue-router-的超神之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557322&idx=2&sn=a2f3ae690b0c40006bc060e7cf01d6c2&chksm=80255a0bb752d31dd374841bfb7b1becc7899692f9dc4abae0e478d232129635db195926d59c&scene=27#wechat_redirect)  
 - [2019-10-31-浅谈：前端如何赋能业务](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557320&idx=1&sn=8986acaf8aefc4bba2a86be4580ba3d3&chksm=80255a09b752d31f5c87a8e1b1d31c4fea3b5462f89c8f8b4bd61da5f29c15526b4897cd8457&scene=27#wechat_redirect)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2019-11-05-鲜为人知的JavaScript陷阱](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492987&idx=1&sn=0ee26bd8103ef65f84433f56063fccb3&chksm=f9525038ce25d92e1099565f4d5ec675618e35c831eac3d1f3bce889a4dd35a0d3b8e184fc7c&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-05-WebAssembly在性能及加密场景的深度探索](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492987&idx=2&sn=c7ad7a7ec1eeb620709769250c4fcf16&chksm=f9525038ce25d92e3c328426db6353d8d58b5b6a494ba1a9c5bdca07e38f25abe6bf9439da55&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-04-React推出并发模式：可中断渲染、指定加载顺序、并行处理多状态](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492976&idx=1&sn=a081c14f65ea20d42fc4b4fc391edb88&chksm=f9525033ce25d925ec8a0a56707bf59da0983c3edf5abdd1f043aeb4d3d676db96246987bd59&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-04-揭开NoahV智能运维前端框架的神秘面纱](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492976&idx=2&sn=463998ee074c6b4127392684a640c8a5&chksm=f9525033ce25d92528005fe5c5fafa5bce7f6f0db3beca186f72e4f642d38afc6c6c3feb3ca0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-04-桌面版应用程序的前世今生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492976&idx=3&sn=f83124c241b9a57f1e6ccb2b1adbc93b&chksm=f9525033ce25d925101e6d65d8ae2e6b2038e50aa3b06fb28cedfc12e233984728924714932a&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-11-03-前端周报：Chrome支持沉浸式设备API；商用5G正式启用；“三体问题”得到完美解决](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492965&idx=1&sn=9c8071cc04e9a2978a9bb041a309760d&chksm=f9525026ce25d930fb0f929954a57b957abc08a6b54e6a7f47e8a3c72ed6a6d274939addb197&scene=27#wechat_redirect)  
 - [2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect)  
 - [2019-11-01-CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect)  
@@ -110,11 +115,6 @@
 - [2019-10-28-重构复杂的React组件：编写高效且可读组件的5个最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=2&sn=9e6c5fe9a8d54803e34f58820d860f28&chksm=f9525064ce25d97230c2e9515c4a1fb6608439bd6a4ea51e8576a81ae154caa1c45e795c1ca4&scene=27#wechat_redirect)  
 - [2019-10-28-探秘实时音视频与网络技术难点](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492903&idx=3&sn=0d7f6c6b4c1e57f1342e196a4d0ed09c&chksm=f9525064ce25d972f3bb46def489a2923831787ba0e5278d1da2cc24f200bee5765201237e01&scene=27#wechat_redirect)  
 - [2019-10-27-前端周报：Node-13发布；TS-3.7支持可选链；5G人才供不应求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492893&idx=1&sn=d1540836d9dd31d54595f63a9b1631c7&chksm=f952505ece25d94888b8e2c88911c957b011c5d38f8a40c25b3687d322f891ca4b37b5478ffe&scene=27#wechat_redirect)  
-- [2019-10-25-重磅！TypeScript-3.7-RC发布，备受瞩目的Optional-Chaining来了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492887&idx=1&sn=64588db6c5e77b171f3e96c3f40ddec5&chksm=f9525054ce25d942ccbceb1feb63514587c3ef9f355e6c002bff3afb769d3b1da1ad4ac77255&scene=27#wechat_redirect)  
-- [2019-10-25-解密HTTP/2与HTTP/3的新特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492887&idx=2&sn=312883a3e3f99f5759c55cf4ae7daaaf&chksm=f9525054ce25d9426c2fb5140c731dc2475b50a769e4f7b05e8f923b0dc0fcfc23639b3e1f4d&scene=27#wechat_redirect)  
-- [2019-10-24-Web堆栈选择指南：JAMStack-vs-MEAN-vs-LAMP](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=1&sn=593b004bf06dc42ff560616fdd057405&chksm=f952504fce25d959def43dc076794cfe5100da00b4ef31e0fc0ff86a9f7186275094a49418b4&scene=27#wechat_redirect)  
-- [2019-10-24-美团外卖Flutter容器化生态建设实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=2&sn=e1fdff73ba134f7fc5925d142d226640&chksm=f952504fce25d9591296c44668fb6560cbad8459f747de9f6fc374b66a5a7c1791d58f5eeef1&scene=27#wechat_redirect)  
-- [2019-10-24-低延迟语音开发很难？大牛教你3招避坑](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=3&sn=186ca53497764ecbf41397942263b72e&chksm=f952504fce25d9591745c55641a51928329ec3c592fcff310cb976e09a2eba83417f0671ec66&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
