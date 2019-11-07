@@ -8973,6 +8973,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS检测CSS属性浏览器是否支持的多种方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/",
+        "date": "2019-11-08"
+      },
+      {
         "title": "幸好document.readyState还是有点锤子用的",
         "link": "https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/",
         "date": "2019-10-27"
