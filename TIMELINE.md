@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-06 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-07 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -112,6 +112,8 @@
 - [【前端早读课】2019-11-02-【第1763期】kbone，十分钟让Vue项目同时支持小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234487&idx=1&sn=bc5b4e65a9ab3a0ffc3213a1835c1301&chksm=bd4979338a3ef025b3bd6208c16f99829f6faf7ecc2ace5437e9a55c8f68a6564e8fe0fe114d&scene=27#wechat_redirect) 
 - [【前端早读课】2019-11-01-【第1762期】揭开NoahV智能运维前端框架的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=1&sn=b0f2073f15bc69adef9faa111d4741a7&chksm=bd4979368a3ef020230869cc9ad0a806d136a62ae02964fa91903d8b4a9c1defe53d984ed5e1&scene=27#wechat_redirect) 
 - [【前端早读课】2019-11-01-【PPT】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=2&sn=96bb764dd3b44e4e522575586b48425b&chksm=bd4979368a3ef0204053277edfeb0c5e5b6e88c46d0c7059e8381579b9384afdc494fd3de8ee&scene=27#wechat_redirect) 
+- [【前端大全】2019-11-07-这一次，彻底弄懂-Promise-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=1&sn=f2fff639217425ddb031a99136da2b23&chksm=80255a27b752d331becf4f705865e4eb460b5e1978b3d6a34ee730254b199b25c1db8171edfb&scene=27#wechat_redirect) 
+- [【前端大全】2019-11-07-面向对象：开朗大方的我，寻求稳重幽默的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=2&sn=14086e03f44084482abc404ac97249bd&chksm=80255a27b752d3310a67bc1799d71e81325fde9f61c388f17d520c7c233f7b01114dcfcc6bfb&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-06-年薪70W架构师：全套英语学习资源泄露，手慢则无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=1&sn=011f1a6071d46568912f7b8e8443a4b9&chksm=80255a20b752d336a39df7eb315415620ddb9dcb722dbce87f169d33e72f91c884e572932048&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-06-20-个让你效率更高的-CSS-代码技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=2&sn=f38e0f7f566c707f85e4894e651fb047&chksm=80255a20b752d336b0039f98b582f5506395e3a75f42ea39ea4f0002292c2b56571a73c995f8&scene=27#wechat_redirect) 
 - [【前端大全】2019-11-05-NPM-如何管理依赖包版本](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557341&idx=1&sn=9df72e127322b7717f13271263b3be0e&chksm=80255a1cb752d30a9a73312bc8ad51f0cf3b114ca3a3022b76bf2cc53d885dadc022453428e0&scene=27#wechat_redirect) 
