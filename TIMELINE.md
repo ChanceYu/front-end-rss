@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-08 06:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-08 12:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -131,6 +131,7 @@
 - [【前端之巅】2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect) 
 - [【前端之巅】2019-11-01-CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/) 
+- [【阮一峰的网络日志】2019-11-08-科技爱好者周刊：第-81-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html) 
 - [【阮一峰的网络日志】2019-11-03-关于计算机科学的50个误解](http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html) 
 - [【阮一峰的网络日志】2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html) 
 
