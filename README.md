@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-08 12:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-08 22:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2019-11-08-腾讯CDC团队：前端异常监控解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557356&idx=1&sn=c1068afa9868da574717f202574b701b&chksm=80255a2db752d33b71f1b432fffdbe3d51590041efb887a3cf77435ff86fd2e82c561065f24a&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-11-07-这一次，彻底弄懂-Promise-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=1&sn=f2fff639217425ddb031a99136da2b23&chksm=80255a27b752d331becf4f705865e4eb460b5e1978b3d6a34ee730254b199b25c1db8171edfb&scene=27#wechat_redirect)  
 - [2019-11-07-面向对象：开朗大方的我，寻求稳重幽默的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=2&sn=14086e03f44084482abc404ac97249bd&chksm=80255a27b752d3310a67bc1799d71e81325fde9f61c388f17d520c7c233f7b01114dcfcc6bfb&scene=27#wechat_redirect)  
 - [2019-11-06-年薪70W架构师：全套英语学习资源泄露，手慢则无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=1&sn=011f1a6071d46568912f7b8e8443a4b9&chksm=80255a20b752d336a39df7eb315415620ddb9dcb722dbce87f169d33e72f91c884e572932048&scene=27#wechat_redirect)  
@@ -83,7 +84,6 @@
 - [2019-10-27-React-Hooks异步操作二三事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557294&idx=1&sn=fb096188f03a04741063b13eccc93eca&chksm=80255a6fb752d379379284769c4b1a69ec1d88ef08f4f2c695523efa9beae9badcfc33d7c5ee&scene=27#wechat_redirect)  
 - [2019-10-26-JavaScript-手写代码无敌秘籍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557293&idx=1&sn=b1d52d16ba275f7a4df9b95c8effe1ed&chksm=80255a6cb752d37ae4a2fb34417e6140c87b4fba7bcd73df9bebf650a280904c071d6e8482d4&scene=27#wechat_redirect)  
 - [2019-10-25-年薪不到21.6万退全款-|-廖雪峰的-web-全栈课开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=1&sn=d8c7347dc09b6cf3b4faba23cfdfe90c&chksm=80255a69b752d37f0bfade807ed31f2e9e60cdca41e280c2a1c6b01dd748fcf4256695219a61&scene=27#wechat_redirect)  
-- [2019-10-25-微信-H5-页面兼容性解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557288&idx=2&sn=008aa0ffce4735403116ea88b02321a0&chksm=80255a69b752d37f38aa7064599939250192087c957f564673dc3d6f3598f6906944bbd124a5&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2019-11-08-科技爱好者周刊：第-81-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html) ![](assets/new.png)  
+- [2019-11-08-科技爱好者周刊：第-81-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)  
 - [2019-11-03-关于计算机科学的50个误解](http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html)  
 - [2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)  
 - [2019-10-29-你所不知道的-AI-进展](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)  
