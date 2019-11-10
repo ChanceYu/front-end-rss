@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-08 22:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-11 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2019-11-08-腾讯CDC团队：前端异常监控解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557356&idx=1&sn=c1068afa9868da574717f202574b701b&chksm=80255a2db752d33b71f1b432fffdbe3d51590041efb887a3cf77435ff86fd2e82c561065f24a&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-08-腾讯CDC团队：前端异常监控解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557356&idx=1&sn=c1068afa9868da574717f202574b701b&chksm=80255a2db752d33b71f1b432fffdbe3d51590041efb887a3cf77435ff86fd2e82c561065f24a&scene=27#wechat_redirect)  
 - [2019-11-07-这一次，彻底弄懂-Promise-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=1&sn=f2fff639217425ddb031a99136da2b23&chksm=80255a27b752d331becf4f705865e4eb460b5e1978b3d6a34ee730254b199b25c1db8171edfb&scene=27#wechat_redirect)  
 - [2019-11-07-面向对象：开朗大方的我，寻求稳重幽默的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=2&sn=14086e03f44084482abc404ac97249bd&chksm=80255a27b752d3310a67bc1799d71e81325fde9f61c388f17d520c7c233f7b01114dcfcc6bfb&scene=27#wechat_redirect)  
 - [2019-11-06-年薪70W架构师：全套英语学习资源泄露，手慢则无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=1&sn=011f1a6071d46568912f7b8e8443a4b9&chksm=80255a20b752d336a39df7eb315415620ddb9dcb722dbce87f169d33e72f91c884e572932048&scene=27#wechat_redirect)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/) ![](assets/new.png)  
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/)  
 - [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/)  
 - [2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/)  
@@ -176,7 +177,6 @@
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/)  
 - [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
 - [2019-07-28-CSS-:not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)  
-- [2019-07-27-还算有点用的scrollTo和scrollBy两个JS-API](https://www.zhangxinxu.com/wordpress/2019/07/js-scrollto-scrollby/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

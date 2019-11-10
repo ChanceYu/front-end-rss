@@ -8978,6 +8978,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS值类型文档大全",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/",
+        "date": "2019-11-10"
+      },
+      {
         "title": "JS检测CSS属性浏览器是否支持的多种方法",
         "link": "https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/",
         "date": "2019-11-08"
