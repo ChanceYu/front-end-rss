@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-11 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-12 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,9 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-11-12-一文搞懂-Web-中暗藏的密码学](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557376&idx=1&sn=cfda9f96c9f12ff417fe99d952db2c9c&chksm=802559c1b752d0d732f2f223561e9f427d8a03c5ca69c94df9773f80d748b0f4a300eb7f474e&scene=27#wechat_redirect) 
+- [2019-11-11-今年双11，程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=1&sn=c142069bab52240e75a8955313676d70&chksm=80255a3db752d32b16334f60ce237fdc073b740690079d0050d0513c652b9c94a93f8b11d915&scene=27#wechat_redirect) 
+- [2019-11-11-setTimeout-的实现原理和使用注意](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=2&sn=5839349ca00758767ccbd2df99060e9a&chksm=80255a3db752d32bf53fff859191e367b43445450e692a208cd58b3cb7d7f752d86a367dfc8a&scene=27#wechat_redirect) 
 - [2019-11-09-一篇文章彻底搞定富文本原理-+-实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557362&idx=1&sn=8794c7091099df54e708cf9205ca2df5&chksm=80255a33b752d325729436e1f310a85c2759a808c4d68906522ac15b5ea18963eceffecc38c7&scene=27#wechat_redirect) 
 - [2019-11-08-腾讯CDC团队：前端异常监控解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557356&idx=1&sn=c1068afa9868da574717f202574b701b&chksm=80255a2db752d33b71f1b432fffdbe3d51590041efb887a3cf77435ff86fd2e82c561065f24a&scene=27#wechat_redirect) 
 - [2019-11-06-年薪70W架构师：全套英语学习资源泄露，手慢则无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=1&sn=011f1a6071d46568912f7b8e8443a4b9&chksm=80255a20b752d336a39df7eb315415620ddb9dcb722dbce87f169d33e72f91c884e572932048&scene=27#wechat_redirect) 
