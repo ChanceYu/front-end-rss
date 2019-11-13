@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-10-31 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-13 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Aotu-|-凹凸实验室
 
 
 
 
+- [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/) 
 - [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/) 
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) 
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 

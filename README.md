@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-12 22:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-13 18:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2019-11-12-一文搞懂-Web-中暗藏的密码学](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557376&idx=1&sn=cfda9f96c9f12ff417fe99d952db2c9c&chksm=802559c1b752d0d732f2f223561e9f427d8a03c5ca69c94df9773f80d748b0f4a300eb7f474e&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-11-今年双11，程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=1&sn=c142069bab52240e75a8955313676d70&chksm=80255a3db752d32b16334f60ce237fdc073b740690079d0050d0513c652b9c94a93f8b11d915&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-11-setTimeout-的实现原理和使用注意](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=2&sn=5839349ca00758767ccbd2df99060e9a&chksm=80255a3db752d32bf53fff859191e367b43445450e692a208cd58b3cb7d7f752d86a367dfc8a&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-12-一文搞懂-Web-中暗藏的密码学](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557376&idx=1&sn=cfda9f96c9f12ff417fe99d952db2c9c&chksm=802559c1b752d0d732f2f223561e9f427d8a03c5ca69c94df9773f80d748b0f4a300eb7f474e&scene=27#wechat_redirect)  
+- [2019-11-11-今年双11，程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=1&sn=c142069bab52240e75a8955313676d70&chksm=80255a3db752d32b16334f60ce237fdc073b740690079d0050d0513c652b9c94a93f8b11d915&scene=27#wechat_redirect)  
+- [2019-11-11-setTimeout-的实现原理和使用注意](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=2&sn=5839349ca00758767ccbd2df99060e9a&chksm=80255a3db752d32bf53fff859191e367b43445450e692a208cd58b3cb7d7f752d86a367dfc8a&scene=27#wechat_redirect)  
 - [2019-11-10-JavaScript-运行原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557366&idx=1&sn=6e90edc4b02c27dd4eb2386d0f71578c&chksm=80255a37b752d321ae8317e2468efebe5a05de826b7e4d81ddd593260d0b5b91c5113e27ff5f&scene=27#wechat_redirect)  
 - [2019-11-09-一篇文章彻底搞定富文本原理-+-实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557362&idx=1&sn=8794c7091099df54e708cf9205ca2df5&chksm=80255a33b752d325729436e1f310a85c2759a808c4d68906522ac15b5ea18963eceffecc38c7&scene=27#wechat_redirect)  
 - [2019-11-09-面向对象：一个普普通通的女人找个普普通通的男人过普普通通的日子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557362&idx=2&sn=9d13acceae1e77ed82972a75d07c0561&chksm=80255a33b752d3251a4be52fa09b23a90ec247e6ed263c63c3b1e1b02b0573917f343f2d13e7&scene=27#wechat_redirect)  
@@ -281,6 +281,7 @@
 </summary>
 
 
+- [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/) ![](assets/new.png)  
 - [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)  
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/)  
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)  
@@ -300,7 +301,6 @@
 - [2018-11-30-Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/)  
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)  
 - [2018-11-05-Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)  
-- [2018-10-18-3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://aotu.io/notes/2018/10/18/cannonjs/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
