@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2019-11-13 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-14 06:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-11-13-掌握这个提升路径，你的进阶之路至少缩短5年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234625&idx=1&sn=76bcc212236627db2761e2b9181ac309&chksm=bd4978c58a3ef1d311d00cd45e2859ca7ea9889b1aaf18b33c058b847d39e1db9d1f6db9fe7b&scene=27#wechat_redirect) 
+- [2019-11-11-【第1772期】从拉面店的贩卖机理解什么是-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234599&idx=1&sn=83f92a97aac4fd6ac2fe062ac74aede0&chksm=bd4978a38a3ef1b5a2bbfd4e29d552b7fe8d26235c3a8dfc653eaf0b66762682d4a3fcdf1446&scene=27#wechat_redirect) 
+- [2019-11-10-【第1971期】Winter在政采云分享实录《前端团队的成长》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234596&idx=1&sn=73448f6bdc758bd87debcaae66ac3876&chksm=bd4978a08a3ef1b67458f6b0a1cda3552dde052cbddff7935140ebe5a0d6bd96cbbb8bdb5f9e&scene=27#wechat_redirect) 
+- [2019-11-10-【活动】天津FCC前端开发者大会2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234596&idx=2&sn=40ada492227191adb7c7f25cd9c0112d&chksm=bd4978a08a3ef1b6acb61fd6af2e0f6a35d3460a21be5375a0b4e560617e107c3d413f2147ba&scene=27#wechat_redirect) 
+- [2019-11-09-【英】每天把你的待办事项控制在三件事上](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234595&idx=2&sn=65ac5fdb5ad753842084400000683a7f&chksm=bd4978a78a3ef1b1bd9ed4fa1af6f090552a7591cfb970d3cd6e8e96eb98ad910b97677830ab&scene=27#wechat_redirect) 
 - [2019-11-05-【第1766期】蚂蚁金服@玉伯：我的前端成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234550&idx=1&sn=6a9ffa1ceac6237009ba0c67f3c0bc9a&chksm=bd4979728a3ef064f4eca0f461c3827d42324713de471565c237bd8ceb72fc1acf20e64174b0&scene=27#wechat_redirect) 
 - [2019-11-01-【第1762期】揭开NoahV智能运维前端框架的神秘面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=1&sn=b0f2073f15bc69adef9faa111d4741a7&chksm=bd4979368a3ef020230869cc9ad0a806d136a62ae02964fa91903d8b4a9c1defe53d984ed5e1&scene=27#wechat_redirect) 
 - [2019-10-31-【第1761期】一个前端的-functor,applicative-functor,monad-初探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234441&idx=1&sn=49a63f21a9fa3666b6598f2827dabaed&chksm=bd49790d8a3ef01b124ca808c0ff99beeb6e42332c584b93b918fb4950268ed28024b820e0c8&scene=27#wechat_redirect) 
@@ -303,6 +308,11 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-11-13-谷歌推出新提案Portals：Web上的无缝跳转体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493063&idx=2&sn=a6b738efe6c579c620a38bcbc7c26848&chksm=f9525084ce25d992b82dc428f02de50cfebcd5c7539268043e0c3a09251b6f60a032b7a45ff5&scene=27#wechat_redirect) 
+- [2019-11-12-苹果正在试图杀死Web技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493043&idx=1&sn=46fa4583c7bdb31bee8bb0841183ddb4&chksm=f95250f0ce25d9e6699a167d791f4d1e0ca0f865f3cb2f3fda95b69d56a06daadc8c519618fb&scene=27#wechat_redirect) 
+- [2019-11-12-运维升级，京东云DevOps怎么玩？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493043&idx=3&sn=fb97165e0cddb5d4849dd5d2be0127fb&chksm=f95250f0ce25d9e6c9bb2cd7782c663aaf36524327a084ccf26868b2c7f7255b787c1ddc8c54&scene=27#wechat_redirect) 
+- [2019-11-11-双十一，程序员可太难了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493031&idx=1&sn=8ccc92598165768291980ff507163dcd&chksm=f95250e4ce25d9f25fac9bb006c639b4b0bb4c0700d8a236cc8bd3e0d223cc13b13f06d847bc&scene=27#wechat_redirect) 
+- [2019-11-10-前端周报：未来五年Web趋势预测；TS-3.7发布；W3C网站重新设计](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493019&idx=1&sn=3a45ed46998b7c07752c29c79888ee8e&chksm=f95250d8ce25d9ce1d264282ef91c0a5d1bacabd5c37762f243eaf88d7731ee16a5fe1ff1314&scene=27#wechat_redirect) 
 - [2019-11-04-揭开NoahV智能运维前端框架的神秘面纱](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492976&idx=2&sn=463998ee074c6b4127392684a640c8a5&chksm=f9525033ce25d92528005fe5c5fafa5bce7f6f0db3beca186f72e4f642d38afc6c6c3feb3ca0&scene=27#wechat_redirect) 
 - [2019-11-04-桌面版应用程序的前世今生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492976&idx=3&sn=f83124c241b9a57f1e6ccb2b1adbc93b&chksm=f9525033ce25d925101e6d65d8ae2e6b2038e50aa3b06fb28cedfc12e233984728924714932a&scene=27#wechat_redirect) 
 - [2019-11-01-是时候揭开百度前端技术体系的真面目了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=1&sn=9e5eb58fe8166e18751c34fcd1350f71&chksm=f9525023ce25d93573d7b6ba5b1ca7e4d117b34ae7068741f4c9e7dfd2bf21de524473bfbcec&scene=27#wechat_redirect) 
