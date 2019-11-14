@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-14 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-15 06:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/2019/11/13/wawo2faas/) ![](assets/new.png)  
+- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/2019/11/13/wawo2faas/)  
 - [2019-10-15-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/2019/10/15/rax-version-one-features/)  
 - [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/2019/09/23/custom-theme-in-vscode/)  
 - [2019-09-02-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/2019/09/02/make-infinite-scroll/)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/) ![](assets/new.png)  
 - [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/)  
 - [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/)  
@@ -176,7 +177,6 @@
 - [2019-08-13-常见纯CSS图标的代码分离与整理（持续更新）](https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/)  
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/)  
 - [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
-- [2019-07-28-CSS-:not伪类可能错误的认识](https://www.zhangxinxu.com/wordpress/2019/07/css-not-pseudo-class/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
