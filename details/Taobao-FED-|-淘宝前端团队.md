@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-10-28 17:26:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-14 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Taobao-FED-|-淘宝前端团队
 
 
 
 
+- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/2019/11/13/wawo2faas/) 
 - [2019-10-15-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/2019/10/15/rax-version-one-features/) 
 - [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/2019/09/23/custom-theme-in-vscode/) 
 - [2019-09-02-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/2019/09/02/make-infinite-scroll/) 
