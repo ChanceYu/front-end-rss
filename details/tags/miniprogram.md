@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-15 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -42,6 +42,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2019-11-14-腾讯、百度纷纷布局小程序，来看看跨平台的最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493074&idx=2&sn=4c77b81eabc9fec9620ce32684192276&chksm=f9525091ce25d9873e83b824f3de370aeaa1dad7d949d067e67b5ef391266af87b35e2c897cd&scene=27#wechat_redirect) 
 - [2019-10-12-别再纠结后端了，小程序开发这么做](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492724&idx=3&sn=8f4e58ff2e4737d066f345efa154bc74&chksm=f9525137ce25d82173cc1c998d2de2f140efba5e18c25e05f88ef77b3f23498ac4b5d1ccbda4&scene=27#wechat_redirect) 
 - [2019-09-26-京东：将Flutter扩展到微信小程序端的探索](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492623&idx=1&sn=e9ad06c38917d03ae1a3eb35631e3e4f&chksm=f952514cce25d85acf4d0c7104a38fcb2ae92bc40a742e8f1452c13ecb12d3cf41e067107666&scene=27#wechat_redirect) 
 - [2019-09-15-前端周报：W3C-首次发布小程序标准化白皮书；Flutter-1.9-正式发布；Chrome-将测试DoH](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492510&idx=1&sn=07578e8bb6e1f98f9e3089f7d57305c2&chksm=f95256ddce25dfcbfe6e38eae0a19af64eb168c446cdbf694682a8cc213f8ba04b780a72af53&scene=27#wechat_redirect) 

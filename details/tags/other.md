@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-15 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -191,6 +191,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-11-13-掌握这个提升路径，你的进阶之路至少缩短-5-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557380&idx=1&sn=842c1209770348a04147f65da9e82213&chksm=802559c5b752d0d365eb1f57f7d8159a24fbb626690221d32f29354ffba691974e711672db8f&scene=27#wechat_redirect) 
+- [2019-11-13-9-个项目助你在-2020-年成为前端大神！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557380&idx=2&sn=1ca4f3ec8efc50d82d4a095fb3ffc315&chksm=802559c5b752d0d35d78b1fab1d06658dabaf00c5c659c5c91ea3514254f5bd4f74e49df653a&scene=27#wechat_redirect) 
 - [2019-11-12-一文搞懂-Web-中暗藏的密码学](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557376&idx=1&sn=cfda9f96c9f12ff417fe99d952db2c9c&chksm=802559c1b752d0d732f2f223561e9f427d8a03c5ca69c94df9773f80d748b0f4a300eb7f474e&scene=27#wechat_redirect) 
 - [2019-11-11-今年双11，程序员别漏了这几样](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=1&sn=c142069bab52240e75a8955313676d70&chksm=80255a3db752d32b16334f60ce237fdc073b740690079d0050d0513c652b9c94a93f8b11d915&scene=27#wechat_redirect) 
 - [2019-11-11-setTimeout-的实现原理和使用注意](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557372&idx=2&sn=5839349ca00758767ccbd2df99060e9a&chksm=80255a3db752d32bf53fff859191e367b43445450e692a208cd58b3cb7d7f752d86a367dfc8a&scene=27#wechat_redirect) 
@@ -309,6 +311,11 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-11-16-从第1行代码到百万年薪-，我是如何在8个月内做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493101&idx=1&sn=00c2e02ef3eeb13a9ca89e248ac0dbaf&chksm=f95250aece25d9b8d8194da2e013fee5fb3f22a4ccf9f31807d68566996321eac5b000fde202&scene=27#wechat_redirect) 
+- [2019-11-16-前端工程师如何规划自己的职业发展？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493101&idx=2&sn=19ee953a433d0de886ca518b16f9cf00&chksm=f95250aece25d9b8dc397b0782e12f524ce153a8d008ae2ef729472b7c7849d4fea8fbb6030a&scene=27#wechat_redirect) 
+- [2019-11-15-想在2020年成为前端大师？就做这9个项目吧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493087&idx=2&sn=66dea50db63cf8ac544648386322ad66&chksm=f952509cce25d98a5aa35b41f7b280fe0298358bf2338064ac15454a6e5330ae039f2af4cc93&scene=27#wechat_redirect) 
+- [2019-11-15-人人在谈的数据驱动，到底如何提升系统质量？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493087&idx=3&sn=71ceeff573f94cd02a2941d9572bbcae&chksm=f952509cce25d98a395d4fb4309ab337d82446eb45966680d4489bedc8e834959298dead0185&scene=27#wechat_redirect) 
+- [2019-11-14-微前端架构：如何由内而外取代单体架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493074&idx=1&sn=1d36dd98e8b03b8e415cad4f4265eac6&chksm=f9525091ce25d9878dd0d8b31dc43e04d26ca65f8799c5e13698e8b7fd5166d0affc2b73795e&scene=27#wechat_redirect) 
 - [2019-11-13-谷歌推出新提案Portals：Web上的无缝跳转体验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493063&idx=2&sn=a6b738efe6c579c620a38bcbc7c26848&chksm=f9525084ce25d992b82dc428f02de50cfebcd5c7539268043e0c3a09251b6f60a032b7a45ff5&scene=27#wechat_redirect) 
 - [2019-11-12-苹果正在试图杀死Web技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493043&idx=1&sn=46fa4583c7bdb31bee8bb0841183ddb4&chksm=f95250f0ce25d9e6699a167d791f4d1e0ca0f865f3cb2f3fda95b69d56a06daadc8c519618fb&scene=27#wechat_redirect) 
 - [2019-11-12-运维升级，京东云DevOps怎么玩？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493043&idx=3&sn=fb97165e0cddb5d4849dd5d2be0127fb&chksm=f95250f0ce25d9e6c9bb2cd7782c663aaf36524327a084ccf26868b2c7f7255b787c1ddc8c54&scene=27#wechat_redirect) 
