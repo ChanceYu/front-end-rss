@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-17 22:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-18 06:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/) ![](assets/new.png)  
 - [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/)  
 - [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/)  
@@ -176,7 +177,6 @@
 - [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/)  
 - [2019-08-13-常见纯CSS图标的代码分离与整理（持续更新）](https://www.zhangxinxu.com/wordpress/2019/08/pure-css-icon/)  
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/)  
-- [2019-08-06-本地开发设置个区分明显的favicon吧~](https://www.zhangxinxu.com/wordpress/2019/08/local-favicon/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html) ![](assets/new.png)  
+- [2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html)  
 - [2019-11-15-科技爱好者周刊：第-82-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)  
 - [2019-11-11-杨安泽的总统竞选](http://www.ruanyifeng.com/blog/2019/11/andrew-yang.html)  
 - [2019-11-08-科技爱好者周刊：第-81-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)  
