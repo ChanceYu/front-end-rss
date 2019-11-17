@@ -9710,6 +9710,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "容错，高可用和灾备",
+        "link": "http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html",
+        "date": "2019-11-17"
+      },
+      {
         "title": "科技爱好者周刊：第 82 期",
         "link": "http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html",
         "date": "2019-11-15"
