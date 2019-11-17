@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-17 08:00:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【前端早读课】【第1778期】-TypeScript：拥有超能力的-JavaScript（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=1&sn=5ea93a5ed9669569da13406ea021a068&chksm=bd4978ef8a3ef1f9cbc0480efc9fb14e29da4da4835b8e37f164fb1a87da14346adb9c55c7b9&scene=27#wechat_redirect)
 - [【前端早读课】【第1775期】TypeScript：拥有超能力的-JavaScript-上](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234633&idx=1&sn=b65ecb5b32fbdac668fbb4bf4750a90a&chksm=bd4978cd8a3ef1db13aaae47532b5c3a64191058a6c12cbfd107df27e87e8711351c9b8bb8f8&scene=27#wechat_redirect)
 - [【前端早读课】【第1741期】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=1&sn=ca712d1e8e262e135703119e70fc6089&chksm=bd4946198a3ecf0f5e15d770b55d12939cdd8d4dd00a7289b23a268f2d3b102fbf57bcc8fc34&scene=27#wechat_redirect)
 - [【前端早读课】【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect)
@@ -129,7 +130,6 @@
 - [【前端之巅】TypeScript-为什么能成为前端圈新宠？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491956&idx=1&sn=c6016a0c9b522428915f6cbd38690450&chksm=f9525437ce25dd21baec30b4e651b5e97fb116db2218045ae78990350dfce5ae62b64bd50cc5&scene=27#wechat_redirect)
 - [【前端之巅】为什么2019年大家都喜欢用TypeScript？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491950&idx=1&sn=bbcbc2888e8d88f1492702883cfbda8c&chksm=f952542dce25dd3b673bcb361afb35e72d18c1c8d27c3e936d2803e68e38adfd4d06785acb2f&scene=27#wechat_redirect)
 - [【前端之巅】逃离JavaScript，TypeScript成新宠](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491687&idx=1&sn=2d0c5286c006f6dbf7f1b60cfeb4a962#rd)
-- [【前端之巅】独家解读：淘宝TypeScript多场景开发和实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491580&idx=1&sn=bdc430ab303a12d3fe3eb01281445e93#rd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -645,6 +645,7 @@
 
 
 
+- [【前端早读课】【招聘】成都蚂蚁金服数据体验技术团队招高级／专家前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=2&sn=35a719de3b20ef13a9a67deb751b6840&chksm=bd4978ef8a3ef1f91f244b70e615e0a73de038ecb8d65f03fc806bfbe2f3cb7dcda62a9da3f6&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】杭州丁香园丁香医生招聘资深前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=2&sn=1a4bed97155eba7b69649ba1e0d64a67&chksm=bd4978db8a3ef1cdbaab736231a783a2e4bbc76f65e3414248ce650b3cc6b0eb68e82aba757f&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】字节跳动数据平台前端内推，可社招&实习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234633&idx=3&sn=c8c446c089cf6f1edb817b3ced1eb157&chksm=bd4978cd8a3ef1db66101440e30013a4fd225148f70f7d526f218d37d9257c5594bb8e6cd93f&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】杭州采政云招前端／前端Leader](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234599&idx=2&sn=d933896945060ff89a9969afbae11561&chksm=bd4978a38a3ef1b52a307718b29489649e0e13104c62369733880665e3ae1fd01e2f28d2bda8&scene=27#wechat_redirect)
@@ -664,7 +665,6 @@
 - [【前端早读课】【招聘】阿里飞冰团队招人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=2&sn=450c633931f0162c93c7687a9d003fc9&chksm=bd4945448a3ecc52e04bceeb86e75c91a39a2924093f08b7d5d38e95aa486a4a1d8c80513f1a#rd)
 - [【前端早读课】【招聘】深圳京东凹凸实验室招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=2&sn=7e7d1075a6ab4e142af11156aa79e4fc&chksm=bd4945ff8a3ecce915024e716cbbe6a2d134a95b610b7838f0d7b3983679c166ac7949d9dbf6#rd)
 - [【前端早读课】【招聘】深圳有赞美业招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=2&sn=6449309289cc51998e1d45a213c83748&chksm=bd4945d48a3eccc24bfb038351bbb6ae2d94dca8448dfe3396f0106e7bcf5d8e6ea2b6a14132#rd)
-- [【前端早读课】【招聘】广发证券招大前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=2&sn=c78ab383722eaa599c7ba04320de3d4c&chksm=bd4945ca8a3eccdcfff96312b7369e3208d1acf4f62b00b60f1d28bb31bec920f6e8d8216a2b#rd)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -715,6 +715,7 @@
 
 
 
+- [【前端早读课】【第1777期】阿里舒文：从应届生到双11前端PM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234665&idx=1&sn=d617a1ca86f2121f92e910666e40bcd1&chksm=bd4978ed8a3ef1fb7f1e20c816311174fd5f8aec7b7d165018b2bc0e4dd1f88a4a2bd197578e&scene=27#wechat_redirect)
 - [【前端早读课】【图书】硅谷之火-个人计算机的诞生与衰落-第3版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=3&sn=0ccaa756c885a688a53eff60270e229d&chksm=bd4978db8a3ef1cd123ee5bf1c510c4ea1f7d781aa0908f19ab28b0e5f643f047ae9f2e60f74&scene=27#wechat_redirect)
 - [【前端早读课】掌握这个提升路径，你的进阶之路至少缩短5年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234625&idx=1&sn=76bcc212236627db2761e2b9181ac309&chksm=bd4978c58a3ef1d311d00cd45e2859ca7ea9889b1aaf18b33c058b847d39e1db9d1f6db9fe7b&scene=27#wechat_redirect)
 - [【前端早读课】【第1772期】从拉面店的贩卖机理解什么是-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234599&idx=1&sn=83f92a97aac4fd6ac2fe062ac74aede0&chksm=bd4978a38a3ef1b5a2bbfd4e29d552b7fe8d26235c3a8dfc653eaf0b66762682d4a3fcdf1446&scene=27#wechat_redirect)
@@ -734,7 +735,6 @@
 - [【前端早读课】【活动】第十四届D2前端论坛，12月14号杭州见](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=2&sn=70c97955482a1c91ae011958c6ac453d&chksm=bd49461c8a3ecf0aa83ccd3b4f982224d364c662331208f5a0314f8d31d73939ce2d0ce1ab1b&scene=27#wechat_redirect)
 - [【前端早读课】【第1737期】在-UC-做的前端工程化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=1&sn=1056b656d8449ab0611d64861a838dc7&chksm=bd4946e28a3ecff491dbb76d3767404715111a2a5f4ae618081bdd808069bc7f2cb9e4783137&scene=27#wechat_redirect)
 - [【前端早读课】【PPT】umi架构、生态和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=2&sn=5853f049c88c3f8a02541d293b59f1c7&chksm=bd4946e28a3ecff464a165d80134999c8bfde0d6fcb5218890afa4bdb68b1def76f02021be0f&scene=27#wechat_redirect)
-- [【前端早读课】金九银十，前端人如何抢占先机，高薪晋升？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234052&idx=1&sn=65269871cac3140e40a6930f4b4ffe93&chksm=bd4946808a3ecf964ae1a5140ea8839449ddba6e4edf757cf97e7aac3bc6ed6e8a2487bfc695&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

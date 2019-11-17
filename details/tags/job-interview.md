@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-17 08:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-11-17-【招聘】成都蚂蚁金服数据体验技术团队招高级／专家前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=2&sn=35a719de3b20ef13a9a67deb751b6840&chksm=bd4978ef8a3ef1f91f244b70e615e0a73de038ecb8d65f03fc806bfbe2f3cb7dcda62a9da3f6&scene=27#wechat_redirect) 
 - [2019-11-15-【招聘】杭州丁香园丁香医生招聘资深前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=2&sn=1a4bed97155eba7b69649ba1e0d64a67&chksm=bd4978db8a3ef1cdbaab736231a783a2e4bbc76f65e3414248ce650b3cc6b0eb68e82aba757f&scene=27#wechat_redirect) 
 - [2019-11-14-【招聘】字节跳动数据平台前端内推，可社招&实习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234633&idx=3&sn=c8c446c089cf6f1edb817b3ced1eb157&chksm=bd4978cd8a3ef1db66101440e30013a4fd225148f70f7d526f218d37d9257c5594bb8e6cd93f&scene=27#wechat_redirect) 
 - [2019-11-11-【招聘】杭州采政云招前端／前端Leader](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234599&idx=2&sn=d933896945060ff89a9969afbae11561&chksm=bd4978a38a3ef1b52a307718b29489649e0e13104c62369733880665e3ae1fd01e2f28d2bda8&scene=27#wechat_redirect) 

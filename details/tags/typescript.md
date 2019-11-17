@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-17 08:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-11-17-【第1778期】-TypeScript：拥有超能力的-JavaScript（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=1&sn=5ea93a5ed9669569da13406ea021a068&chksm=bd4978ef8a3ef1f9cbc0480efc9fb14e29da4da4835b8e37f164fb1a87da14346adb9c55c7b9&scene=27#wechat_redirect) 
 - [2019-11-14-【第1775期】TypeScript：拥有超能力的-JavaScript-上](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234633&idx=1&sn=b65ecb5b32fbdac668fbb4bf4750a90a&chksm=bd4978cd8a3ef1db13aaae47532b5c3a64191058a6c12cbfd107df27e87e8711351c9b8bb8f8&scene=27#wechat_redirect) 
 - [2019-10-11-【第1741期】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234205&idx=1&sn=ca712d1e8e262e135703119e70fc6089&chksm=bd4946198a3ecf0f5e15d770b55d12939cdd8d4dd00a7289b23a268f2d3b102fbf57bcc8fc34&scene=27#wechat_redirect) 
 - [2019-08-26-【第1708期】大规模应用-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233556&idx=1&sn=12367d9668a7b691d0ce12fba1852035&chksm=bd4944908a3ecd8644b95427919d6da5545c4be90f6e993cd657c174e17d8de680b41795ae51&scene=27#wechat_redirect) 

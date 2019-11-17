@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-17 08:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-11-16-【第1777期】阿里舒文：从应届生到双11前端PM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234665&idx=1&sn=d617a1ca86f2121f92e910666e40bcd1&chksm=bd4978ed8a3ef1fb7f1e20c816311174fd5f8aec7b7d165018b2bc0e4dd1f88a4a2bd197578e&scene=27#wechat_redirect) 
 - [2019-11-15-【图书】硅谷之火-个人计算机的诞生与衰落-第3版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=3&sn=0ccaa756c885a688a53eff60270e229d&chksm=bd4978db8a3ef1cd123ee5bf1c510c4ea1f7d781aa0908f19ab28b0e5f643f047ae9f2e60f74&scene=27#wechat_redirect) 
 - [2019-11-13-掌握这个提升路径，你的进阶之路至少缩短5年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234625&idx=1&sn=76bcc212236627db2761e2b9181ac309&chksm=bd4978c58a3ef1d311d00cd45e2859ca7ea9889b1aaf18b33c058b847d39e1db9d1f6db9fe7b&scene=27#wechat_redirect) 
 - [2019-11-11-【第1772期】从拉面店的贩卖机理解什么是-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234599&idx=1&sn=83f92a97aac4fd6ac2fe062ac74aede0&chksm=bd4978a38a3ef1b5a2bbfd4e29d552b7fe8d26235c3a8dfc653eaf0b66762682d4a3fcdf1446&scene=27#wechat_redirect) 

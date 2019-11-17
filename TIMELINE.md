@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-17 06:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-17 08:00:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,9 @@
 </summary>
 
 
+- [【前端早读课】2019-11-17-【第1778期】-TypeScript：拥有超能力的-JavaScript（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=1&sn=5ea93a5ed9669569da13406ea021a068&chksm=bd4978ef8a3ef1f9cbc0480efc9fb14e29da4da4835b8e37f164fb1a87da14346adb9c55c7b9&scene=27#wechat_redirect) 
+- [【前端早读课】2019-11-17-【招聘】成都蚂蚁金服数据体验技术团队招高级／专家前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=2&sn=35a719de3b20ef13a9a67deb751b6840&chksm=bd4978ef8a3ef1f91f244b70e615e0a73de038ecb8d65f03fc806bfbe2f3cb7dcda62a9da3f6&scene=27#wechat_redirect) 
+- [【前端早读课】2019-11-16-【第1777期】阿里舒文：从应届生到双11前端PM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234665&idx=1&sn=d617a1ca86f2121f92e910666e40bcd1&chksm=bd4978ed8a3ef1fb7f1e20c816311174fd5f8aec7b7d165018b2bc0e4dd1f88a4a2bd197578e&scene=27#wechat_redirect) 
 - [【前端早读课】2019-11-15-【第1776期】2019年，是否可以抛弃-CSS-预处理器？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=1&sn=f49fef16e18cf4dfcc8c8a3650f220db&chksm=bd4978db8a3ef1cd6493ffe0bcd670d0b3623597e98a2693d7f9701c525e8c43f0d95b6789be&scene=27#wechat_redirect) 
 - [【前端早读课】2019-11-15-【招聘】杭州丁香园丁香医生招聘资深前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=2&sn=1a4bed97155eba7b69649ba1e0d64a67&chksm=bd4978db8a3ef1cdbaab736231a783a2e4bbc76f65e3414248ce650b3cc6b0eb68e82aba757f&scene=27#wechat_redirect) 
 - [【前端早读课】2019-11-15-【图书】硅谷之火-个人计算机的诞生与衰落-第3版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=3&sn=0ccaa756c885a688a53eff60270e229d&chksm=bd4978db8a3ef1cd123ee5bf1c510c4ea1f7d781aa0908f19ab28b0e5f643f047ae9f2e60f74&scene=27#wechat_redirect) 
