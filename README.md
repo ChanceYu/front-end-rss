@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-18 06:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-19 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,6 +64,9 @@
 </summary>
 
 
+- [2019-11-18-又到年底了，要跳槽的最好要提前规划下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=1&sn=b01b7173bcd9091a923c02746fe27247&chksm=802559dbb752d0cd3654e9d0c9b4c4a87df79a42cda3aff10f5c575db75afe30e4c3efe8f434&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-18-JS-框架安全报告：jQuery-下载次数超过-1.2-亿次](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=2&sn=069202b84a318e1622b5e55b9722aac7&chksm=802559dbb752d0cdba0806a050625aa0c33cfe76321a87ff3fe6e64abaffb94435f918e62971&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-17-深入理解-Node.js-进程与线程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557398&idx=1&sn=1fb991da8667f620073bf59701e18697&chksm=802559d7b752d0c1aa5315c33da6d8a2499fadc3428b524a35cba35a597d89676a43c84e9a81&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-11-16-详细-preact-hook-源码逐行解析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557396&idx=1&sn=7ac2de7e413e71048e394b0cdb8f902a&chksm=802559d5b752d0c3deb2783c8c76dd1a7893acdecbf20c99459d78b014b4abb51fe6bc86e374&scene=27#wechat_redirect)  
 - [2019-11-15-移动端体验优化经验总结与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557392&idx=1&sn=8803d7052575f09e18d5076ee6ba49ae&chksm=802559d1b752d0c701825497ce2defb2135e7e4d70014d7f95cc155d4050d921419813ccf57f&scene=27#wechat_redirect)  
 - [2019-11-14-经常被面试官考的-JavaScript-数据类型知识你真的懂吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557385&idx=1&sn=6cebbf9d6b57d37872e7b110c0d135d1&chksm=802559c8b752d0deec9276248537db1293b0c47cb16a116a9a0cd227feb626ee4ade1be968c2&scene=27#wechat_redirect)  
@@ -81,9 +84,6 @@
 - [2019-11-07-面向对象：开朗大方的我，寻求稳重幽默的你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557350&idx=2&sn=14086e03f44084482abc404ac97249bd&chksm=80255a27b752d3310a67bc1799d71e81325fde9f61c388f17d520c7c233f7b01114dcfcc6bfb&scene=27#wechat_redirect)  
 - [2019-11-06-年薪70W架构师：全套英语学习资源泄露，手慢则无！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=1&sn=011f1a6071d46568912f7b8e8443a4b9&chksm=80255a20b752d336a39df7eb315415620ddb9dcb722dbce87f169d33e72f91c884e572932048&scene=27#wechat_redirect)  
 - [2019-11-06-20-个让你效率更高的-CSS-代码技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557345&idx=2&sn=f38e0f7f566c707f85e4894e651fb047&chksm=80255a20b752d336b0039f98b582f5506395e3a75f42ea39ea4f0002292c2b56571a73c995f8&scene=27#wechat_redirect)  
-- [2019-11-05-NPM-如何管理依赖包版本](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557341&idx=1&sn=9df72e127322b7717f13271263b3be0e&chksm=80255a1cb752d30a9a73312bc8ad51f0cf3b114ca3a3022b76bf2cc53d885dadc022453428e0&scene=27#wechat_redirect)  
-- [2019-11-04-Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect)  
-- [2019-11-03-炫技，从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557332&idx=1&sn=00cda84ff8941b8b53b262877066e99e&chksm=80255a15b752d3035e513bce41582dce775f03d8cef4dc404cc6a4f460509460818c6df9c844&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/) ![](assets/new.png)  
+- [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/)  
 - [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/)  
 - [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/)  

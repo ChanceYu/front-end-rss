@@ -3512,6 +3512,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "又到年底了，要跳槽的最好要提前规划下",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=1&sn=b01b7173bcd9091a923c02746fe27247&chksm=802559dbb752d0cd3654e9d0c9b4c4a87df79a42cda3aff10f5c575db75afe30e4c3efe8f434&scene=27#wechat_redirect",
+        "date": "2019-11-18"
+      },
+      {
+        "title": "JS 框架安全报告：jQuery 下载次数超过 1.2 亿次",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=2&sn=069202b84a318e1622b5e55b9722aac7&chksm=802559dbb752d0cdba0806a050625aa0c33cfe76321a87ff3fe6e64abaffb94435f918e62971&scene=27#wechat_redirect",
+        "date": "2019-11-18"
+      },
+      {
+        "title": "深入理解 Node.js 进程与线程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557398&idx=1&sn=1fb991da8667f620073bf59701e18697&chksm=802559d7b752d0c1aa5315c33da6d8a2499fadc3428b524a35cba35a597d89676a43c84e9a81&scene=27#wechat_redirect",
+        "date": "2019-11-17"
+      },
+      {
         "title": "详细 preact hook 源码逐行解析",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557396&idx=1&sn=7ac2de7e413e71048e394b0cdb8f902a&chksm=802559d5b752d0c3deb2783c8c76dd1a7893acdecbf20c99459d78b014b4abb51fe6bc86e374&scene=27#wechat_redirect",
         "date": "2019-11-16"
