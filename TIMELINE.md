@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-19 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-11-19 12:00:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -188,6 +188,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/) 
+- [【阮一峰的网络日志】2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html) 
 - [【阮一峰的网络日志】2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html) 
 - [【阮一峰的网络日志】2019-11-15-科技爱好者周刊：第-82-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html) 
 - [【阮一峰的网络日志】2019-11-11-杨安泽的总统竞选](http://www.ruanyifeng.com/blog/2019/11/andrew-yang.html) 
