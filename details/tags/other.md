@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2019-11-19 12:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-20 06:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-11-19-【第1780期】来聊聊面向模板的前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=2&sn=83c4d76abfd06284b770432829624da8&chksm=bd4978f78a3ef1e12c46c65b74886d89980c7bd357aa1f878c47a435bc88b36ffbf2234e4c31&scene=27#wechat_redirect) 
+- [2019-11-19-【英】两个“非值”：undefined-和-null](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=3&sn=05c8230791aa1b5e3c1daedb6266cd9b&chksm=bd4978f78a3ef1e16a9e9638a3d25969f6a3277de6d458fa8be08e0a0a9c3c83fd77aae93c60&scene=27#wechat_redirect) 
 - [2019-11-16-【第1777期】阿里舒文：从应届生到双11前端PM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234665&idx=1&sn=d617a1ca86f2121f92e910666e40bcd1&chksm=bd4978ed8a3ef1fb7f1e20c816311174fd5f8aec7b7d165018b2bc0e4dd1f88a4a2bd197578e&scene=27#wechat_redirect) 
 - [2019-11-15-【图书】硅谷之火-个人计算机的诞生与衰落-第3版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=3&sn=0ccaa756c885a688a53eff60270e229d&chksm=bd4978db8a3ef1cd123ee5bf1c510c4ea1f7d781aa0908f19ab28b0e5f643f047ae9f2e60f74&scene=27#wechat_redirect) 
 - [2019-11-13-掌握这个提升路径，你的进阶之路至少缩短5年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234625&idx=1&sn=76bcc212236627db2761e2b9181ac309&chksm=bd4978c58a3ef1d311d00cd45e2859ca7ea9889b1aaf18b33c058b847d39e1db9d1f6db9fe7b&scene=27#wechat_redirect) 
@@ -313,6 +315,11 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-11-19-百度App移动端工程能力演进](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493140&idx=2&sn=958d6878cd22b746c594cc243b59c567&chksm=f9525357ce25da411a719c0c57f43f7264b90d41ab384aa2f087b8f83cbcc260b774ed086a74&scene=27#wechat_redirect) 
+- [2019-11-19-金融科技里的“0”与“1”，原来还能这么玩？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493140&idx=3&sn=99ee5bcf2071cae61a1e4167dc3a42a0&chksm=f9525357ce25da41ae01cd45507c44546e6b7f8ae7df4233c7a92fb9241f1683f67e927f269a&scene=27#wechat_redirect) 
+- [2019-11-18-你的下一款应用可能没有后端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493122&idx=1&sn=36dcb26cdc31114befb705af402da92c&chksm=f9525341ce25da5712b29fbd85416ce6a13b212177244b8ef94e036a5a16c69390b2a9440c0e&scene=27#wechat_redirect) 
+- [2019-11-18-谷歌新提案：Web-Bundles-API-可在脱机状态实现内容分发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493122&idx=2&sn=3c16c50fd56375a595f862a9385d66fc&chksm=f9525341ce25da57f0d698395087faca69bc3a27df79853858b2074e4fbaec31ff3041802c80&scene=27#wechat_redirect) 
+- [2019-11-18-即时通讯的下一站，看面向亿级用户稳定沟通背后的架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493122&idx=3&sn=0920103db232344d4737eec1fe6a3249&chksm=f9525341ce25da5728b6ce0bb3032522431ec6380d4d734b3db270d2266bd16f7a5f1961b6b9&scene=27#wechat_redirect) 
 - [2019-11-16-从第1行代码到百万年薪-，我是如何在8个月内做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493101&idx=1&sn=00c2e02ef3eeb13a9ca89e248ac0dbaf&chksm=f95250aece25d9b8d8194da2e013fee5fb3f22a4ccf9f31807d68566996321eac5b000fde202&scene=27#wechat_redirect) 
 - [2019-11-16-前端工程师如何规划自己的职业发展？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493101&idx=2&sn=19ee953a433d0de886ca518b16f9cf00&chksm=f95250aece25d9b8dc397b0782e12f524ce153a8d008ae2ef729472b7c7849d4fea8fbb6030a&scene=27#wechat_redirect) 
 - [2019-11-15-想在2020年成为前端大师？就做这9个项目吧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493087&idx=2&sn=66dea50db63cf8ac544648386322ad66&chksm=f952509cce25d98a5aa35b41f7b280fe0298358bf2338064ac15454a6e5330ae039f2af4cc93&scene=27#wechat_redirect) 
