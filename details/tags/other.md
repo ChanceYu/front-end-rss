@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-20 06:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-21 06:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -194,6 +194,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-11-19-前端代码质量：怎样实现一个支持多语言、高扩展性的-Linter](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557417&idx=1&sn=c9a38d7c61dcecf9b5df97b50a4f84c4&chksm=802559e8b752d0fe54320c71f0fe44dfc24d59bd1b88269e7c0f9eca92b7d4ac29841d7018da&scene=27#wechat_redirect) 
 - [2019-11-18-又到年底了，要跳槽的最好要提前规划下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=1&sn=b01b7173bcd9091a923c02746fe27247&chksm=802559dbb752d0cd3654e9d0c9b4c4a87df79a42cda3aff10f5c575db75afe30e4c3efe8f434&scene=27#wechat_redirect) 
 - [2019-11-13-掌握这个提升路径，你的进阶之路至少缩短-5-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557380&idx=1&sn=842c1209770348a04147f65da9e82213&chksm=802559c5b752d0d365eb1f57f7d8159a24fbb626690221d32f29354ffba691974e711672db8f&scene=27#wechat_redirect) 
 - [2019-11-13-9-个项目助你在-2020-年成为前端大神！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557380&idx=2&sn=1ca4f3ec8efc50d82d4a095fb3ffc315&chksm=802559c5b752d0d35d78b1fab1d06658dabaf00c5c659c5c91ea3514254f5bd4f74e49df653a&scene=27#wechat_redirect) 
