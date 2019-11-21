@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-21 06:00:17，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-21 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2019-11-20-2020-年前端面试必考点，你必须看看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557419&idx=1&sn=fc8464317735fb5ccd9a6afcf21a98d2&chksm=802559eab752d0fc689a50307931438236f858aafa7794b1b5a641c3eee377cbe1f2a21f004b&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-20-Nodejs-之-RPC-协议简介](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557419&idx=2&sn=6179a8cc162f0207a88936b59bfae1a3&chksm=802559eab752d0fcef83c9a3e58f1ada319e48ded667fce6cd066ecfba62462b6448abc44f68&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-19-前端代码质量：怎样实现一个支持多语言、高扩展性的-Linter](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557417&idx=1&sn=c9a38d7c61dcecf9b5df97b50a4f84c4&chksm=802559e8b752d0fe54320c71f0fe44dfc24d59bd1b88269e7c0f9eca92b7d4ac29841d7018da&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-19-面向对象：如果有一天要去流浪，是我终于找到你的方向](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557417&idx=2&sn=5bf176587f4d85e5b5b1d3bd6be14547&chksm=802559e8b752d0fe571f60a18560d25fa494eaf54679fccca1461876a2ca7a74675e254b9e84&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-11-20-2020-年前端面试必考点，你必须看看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557419&idx=1&sn=fc8464317735fb5ccd9a6afcf21a98d2&chksm=802559eab752d0fc689a50307931438236f858aafa7794b1b5a641c3eee377cbe1f2a21f004b&scene=27#wechat_redirect)  
+- [2019-11-20-Nodejs-之-RPC-协议简介](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557419&idx=2&sn=6179a8cc162f0207a88936b59bfae1a3&chksm=802559eab752d0fcef83c9a3e58f1ada319e48ded667fce6cd066ecfba62462b6448abc44f68&scene=27#wechat_redirect)  
+- [2019-11-19-前端代码质量：怎样实现一个支持多语言、高扩展性的-Linter](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557417&idx=1&sn=c9a38d7c61dcecf9b5df97b50a4f84c4&chksm=802559e8b752d0fe54320c71f0fe44dfc24d59bd1b88269e7c0f9eca92b7d4ac29841d7018da&scene=27#wechat_redirect)  
+- [2019-11-19-面向对象：如果有一天要去流浪，是我终于找到你的方向](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557417&idx=2&sn=5bf176587f4d85e5b5b1d3bd6be14547&chksm=802559e8b752d0fe571f60a18560d25fa494eaf54679fccca1461876a2ca7a74675e254b9e84&scene=27#wechat_redirect)  
 - [2019-11-18-又到年底了，要跳槽的最好要提前规划下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=1&sn=b01b7173bcd9091a923c02746fe27247&chksm=802559dbb752d0cd3654e9d0c9b4c4a87df79a42cda3aff10f5c575db75afe30e4c3efe8f434&scene=27#wechat_redirect)  
 - [2019-11-18-JS-框架安全报告：jQuery-下载次数超过-1.2-亿次](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557402&idx=2&sn=069202b84a318e1622b5e55b9722aac7&chksm=802559dbb752d0cdba0806a050625aa0c33cfe76321a87ff3fe6e64abaffb94435f918e62971&scene=27#wechat_redirect)  
 - [2019-11-17-深入理解-Node.js-进程与线程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557398&idx=1&sn=1fb991da8667f620073bf59701e18697&chksm=802559d7b752d0c1aa5315c33da6d8a2499fadc3428b524a35cba35a597d89676a43c84e9a81&scene=27#wechat_redirect)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html) ![](assets/new.png)  
 - [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html)  
 - [2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html)  
 - [2019-11-15-科技爱好者周刊：第-82-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)  
@@ -207,7 +208,6 @@
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)  
 - [2019-09-06-科技爱好者周刊：第-72-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)  
-- [2019-09-05-curl-的用法指南](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

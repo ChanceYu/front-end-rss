@@ -9810,6 +9810,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Python 异步编程入门",
+        "link": "http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html",
+        "date": "2019-11-21"
+      },
+      {
         "title": "CSS 定位详解",
         "link": "http://www.ruanyifeng.com/blog/2019/11/css-position.html",
         "date": "2019-11-19"
