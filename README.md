@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-21 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-22 12:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html) ![](assets/new.png)  
+- [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html) ![](assets/new.png)  
+- [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)  
 - [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html)  
 - [2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html)  
 - [2019-11-15-科技爱好者周刊：第-82-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)  
@@ -207,7 +208,6 @@
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)  
-- [2019-09-06-科技爱好者周刊：第-72-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-72.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
