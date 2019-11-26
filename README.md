@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-26 12:00:25，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-26 18:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -126,26 +126,26 @@
 </summary>
 
 
-- [2019-11-25-双十一模块-79.34%-的代码是怎样智能生成的](https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent) ![](assets/new.png)  
-- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) ![](assets/new.png)  
-- [2019-10-16-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/taofed/do71ct/rax-version-one-features) ![](assets/new.png)  
-- [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/taofed/do71ct/custom-theme-in-vscode) ![](assets/new.png)  
-- [2019-09-03-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/taofed/do71ct/make-infinite-scroll) ![](assets/new.png)  
-- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time) ![](assets/new.png)  
-- [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse) ![](assets/new.png)  
-- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame) ![](assets/new.png)  
-- [2019-06-06-大话-JavaScript-动画](https://fed.taobao.org/blog/taofed/do71ct/js-animation-base) ![](assets/new.png)  
-- [2019-05-29-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply) ![](assets/new.png)  
-- [2019-05-18-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux) ![](assets/new.png)  
-- [2019-04-16-我们是如何管理一个-1w+-stars-的开源仓库的](https://fed.taobao.org/blog/taofed/do71ct/how-to-manager-a-1w-starts-repo) ![](assets/new.png)  
-- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265) ![](assets/new.png)  
-- [2019-03-14-淘宝前端团队-2019-年实习生内部推荐通道已开启](https://fed.taobao.org/blog/taofed/do71ct/fed-2019) ![](assets/new.png)  
-- [2019-01-08-imgcook-体验版发布](https://fed.taobao.org/blog/taofed/do71ct/imgcook) ![](assets/new.png)  
-- [2018-12-18-WebGL-纹理详解](https://fed.taobao.org/blog/taofed/do71ct/webgl-texture) ![](assets/new.png)  
-- [2018-11-28-前端架构杂思录：议-Function-Component-与-Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component) ![](assets/new.png)  
-- [2018-11-01-Atag---Web-Components-最佳实践](https://fed.taobao.org/blog/taofed/do71ct/a-tag) ![](assets/new.png)  
-- [2018-08-09-Workbox-3：Service-Worker-可以如此简单](https://fed.taobao.org/blog/taofed/do71ct/workbox3) ![](assets/new.png)  
-- [2018-06-01-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/taofed/do71ct/a-rich-interaction-solution-based-on-bindingx) ![](assets/new.png)  
+- [2019-11-25-双十一模块-79.34%-的代码是怎样智能生成的](https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent)  
+- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas)  
+- [2019-10-16-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/taofed/do71ct/rax-version-one-features)  
+- [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/taofed/do71ct/custom-theme-in-vscode)  
+- [2019-09-03-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/taofed/do71ct/make-infinite-scroll)  
+- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time)  
+- [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse)  
+- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame)  
+- [2019-06-06-大话-JavaScript-动画](https://fed.taobao.org/blog/taofed/do71ct/js-animation-base)  
+- [2019-05-29-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply)  
+- [2019-05-18-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux)  
+- [2019-04-16-我们是如何管理一个-1w+-stars-的开源仓库的](https://fed.taobao.org/blog/taofed/do71ct/how-to-manager-a-1w-starts-repo)  
+- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265)  
+- [2019-03-14-淘宝前端团队-2019-年实习生内部推荐通道已开启](https://fed.taobao.org/blog/taofed/do71ct/fed-2019)  
+- [2019-01-08-imgcook-体验版发布](https://fed.taobao.org/blog/taofed/do71ct/imgcook)  
+- [2018-12-18-WebGL-纹理详解](https://fed.taobao.org/blog/taofed/do71ct/webgl-texture)  
+- [2018-11-28-前端架构杂思录：议-Function-Component-与-Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component)  
+- [2018-11-01-Atag---Web-Components-最佳实践](https://fed.taobao.org/blog/taofed/do71ct/a-tag)  
+- [2018-08-09-Workbox-3：Service-Worker-可以如此简单](https://fed.taobao.org/blog/taofed/do71ct/workbox3)  
+- [2018-06-01-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/taofed/do71ct/a-rich-interaction-solution-based-on-bindingx)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-11-26-如何识别文件的真假](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html) ![](assets/new.png)  
 - [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)  
 - [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)  
 - [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html)  
@@ -207,7 +208,6 @@
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
-- [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
