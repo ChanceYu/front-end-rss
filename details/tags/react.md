@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-26 06:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-26 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -142,6 +142,9 @@
 - [2018-10-07-为什么说ReasonReact是编写React的最佳方式？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489636&idx=1&sn=123449a34024394bed64202b33c96094#wechat_redirect) 
 - [2018-10-05-Create-React-App-2.0正式版发布，不再支持-Node-6](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489634&idx=1&sn=602dfc889a099a22d01f02b5b7c6c2dc#wechat_redirect) 
 - [2018-09-21-为什么说React-16是开发者的福音？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489553&idx=1&sn=5bb943158c312bf02ae53eb32441f568#wechat_redirect) 
+- [2019-10-16-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/taofed/do71ct/rax-version-one-features) 
+- [2019-05-18-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux) 
+- [2018-11-28-前端架构杂思录：议-Function-Component-与-Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component) 
 - [2019-10-15-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/2019/10/15/rax-version-one-features/) 
 - [2019-05-17-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/2019/05/17/use-the-react-hooks-instead-of-the-redux/) 
 - [2018-11-27-前端架构杂思录：议-Function-Component-与-Hooks](https://fed.taobao.org/blog/2018/11/27/hooks-and-function-component/) 

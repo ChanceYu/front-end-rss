@@ -9163,8 +9163,108 @@
   {
     "rss": "https://fed.taobao.org/atom.xml",
     "title": "Taobao-FED-|-淘宝前端团队",
-    "link": "/atom.xml",
+    "link": "https://fed.taobao.org",
     "items": [
+      {
+        "title": "双十一模块 79.34% 的代码是怎样智能生成的",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent",
+        "date": "2019-11-25"
+      },
+      {
+        "title": "哇哦视频 ❤️ FaaS - 迁移前后的那些事儿",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/wawo2faas",
+        "date": "2019-11-13"
+      },
+      {
+        "title": "Rax 1.0 版本更新与特性介绍",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/rax-version-one-features",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "兼容vscode插件的主题服务",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/custom-theme-in-vscode",
+        "date": "2019-09-23"
+      },
+      {
+        "title": "响应至上：打造无卡顿的滚动列表",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/make-infinite-scroll",
+        "date": "2019-09-03"
+      },
+      {
+        "title": "如何加快 Node.js 应用的启动速度",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time",
+        "date": "2019-08-23"
+      },
+      {
+        "title": "VSCode原理解析 - 断点调试",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse",
+        "date": "2019-08-16"
+      },
+      {
+        "title": "Fdcon 2018 分享：淘宝Web 3D应用与游戏开发实战",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame",
+        "date": "2019-08-08"
+      },
+      {
+        "title": "大话 JavaScript 动画",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/js-animation-base",
+        "date": "2019-06-06"
+      },
+      {
+        "title": "前端修炼小册 开放申请啦",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply",
+        "date": "2019-05-29"
+      },
+      {
+        "title": "使用 React Hooks 代替 Redux",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux",
+        "date": "2019-05-18"
+      },
+      {
+        "title": "我们是如何管理一个 1w+ stars 的开源仓库的",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/how-to-manager-a-1w-starts-repo",
+        "date": "2019-04-16"
+      },
+      {
+        "title": "Web端H.265播放器研发解密",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/web-player-h265",
+        "date": "2019-03-19"
+      },
+      {
+        "title": "淘宝前端团队 2019 年实习生内部推荐通道已开启",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/fed-2019",
+        "date": "2019-03-14"
+      },
+      {
+        "title": "imgcook 体验版发布",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/imgcook",
+        "date": "2019-01-08"
+      },
+      {
+        "title": "WebGL 纹理详解",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/webgl-texture",
+        "date": "2018-12-18"
+      },
+      {
+        "title": "前端架构杂思录：议 Function Component 与 Hooks",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component",
+        "date": "2018-11-28"
+      },
+      {
+        "title": "Atag - Web Components 最佳实践",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/a-tag",
+        "date": "2018-11-01"
+      },
+      {
+        "title": "Workbox 3：Service Worker 可以如此简单",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/workbox3",
+        "date": "2018-08-09"
+      },
+      {
+        "title": "基于 BindingX 的富交互解决方案",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/a-rich-interaction-solution-based-on-bindingx",
+        "date": "2018-06-01"
+      },
       {
         "title": "哇哦视频 ❤️ FaaS - 迁移前后的那些事儿",
         "link": "https://fed.taobao.org/blog/2019/11/13/wawo2faas/",
