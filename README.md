@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-28 12:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-11-29 12:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan) ![](assets/new.png)  
+- [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan)  
 - [2019-11-25-双十一模块-79.34%-的代码是怎样智能生成的](https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent)  
 - [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas)  
 - [2019-10-16-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/taofed/do71ct/rax-version-one-features)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-11-29-科技爱好者周刊：第-84-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html) ![](assets/new.png)  
 - [2019-11-26-如何识别文件的真假](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)  
 - [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)  
 - [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)  
@@ -207,7 +208,6 @@
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
 - [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
-- [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
