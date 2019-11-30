@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-29 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-30 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -319,6 +319,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-11-29-成人网站PornHub技术栈首度公开：我们是如何推动Web发展的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=1&sn=e76764e5b647f5a612b7851e06c453e9&chksm=f95253c7ce25dad13feec85eaed50da9cb8e8012a75854d0b88dbd69b99b525dd5d4e3006407&scene=27#wechat_redirect) 
+- [2019-11-29-想了解谷歌云AutoML的最新进展？来这里告诉你-|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=3&sn=5a214d08dd6e09e37c6599f0fd852304&chksm=f95253c7ce25dad1eb5a7a1dfa6efe11671e11f5ce726eeab1d97ce895aec9dfae6e0f0ad7bb&scene=27#wechat_redirect) 
+- [2019-11-27-大前端时代下的热修复平台建设](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493225&idx=1&sn=df330bd5d10b785d50d2ff9b1b58b7ae&chksm=f952532ace25da3c841579e38a0e410bc1c159e71ea9a79a54b84c60683c5efd835d7fcc982b&scene=27#wechat_redirect) 
+- [2019-11-26-刚接触前端测试？那就从金字塔顶端开始吧！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493212&idx=3&sn=808601db57c58aa35a4043c022319990&chksm=f952531fce25da09d489c27409218c53832dd33f02b8673aefdac89770443461f6a70d36a84e&scene=27#wechat_redirect) 
 - [2019-11-19-百度App移动端工程能力演进](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493140&idx=2&sn=958d6878cd22b746c594cc243b59c567&chksm=f9525357ce25da411a719c0c57f43f7264b90d41ab384aa2f087b8f83cbcc260b774ed086a74&scene=27#wechat_redirect) 
 - [2019-11-19-金融科技里的“0”与“1”，原来还能这么玩？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493140&idx=3&sn=99ee5bcf2071cae61a1e4167dc3a42a0&chksm=f9525357ce25da41ae01cd45507c44546e6b7f8ae7df4233c7a92fb9241f1683f67e927f269a&scene=27#wechat_redirect) 
 - [2019-11-18-你的下一款应用可能没有后端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493122&idx=1&sn=36dcb26cdc31114befb705af402da92c&chksm=f9525341ce25da5712b29fbd85416ce6a13b212177244b8ef94e036a5a16c69390b2a9440c0e&scene=27#wechat_redirect) 

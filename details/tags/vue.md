@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-29 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-11-30 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -102,6 +102,8 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2019-11-29-为什么Vue3.0不再使用defineProperty实现数据监听？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=2&sn=417d8c16d501c45d7d00bf435bb21758&chksm=f95253c7ce25dad14c83d57c6f97001dbd98b68c6b20935a6ff590ebbf449b1a9f290ff8efc4&scene=27#wechat_redirect) 
+- [2019-11-26-Vue-3-Composition-API实战前瞻](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493212&idx=1&sn=f350d6e2699573a2f23fa7ad76408488&chksm=f952531fce25da0902d93a3dc1fb64da8aa230ef45bc4b7c99d41d23cde7e073e1100fd32361&scene=27#wechat_redirect) 
 - [2019-10-30-Vue-3中那些激动人心的新功能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492940&idx=1&sn=15e02736a63245e907235a74632fba62&chksm=f952500fce25d9190c4946b9592c61bf07c35a9f93c43da169ab104e3bfb94a74c10579846b9&scene=27#wechat_redirect) 
 - [2019-10-23-Vue-3最值得期待的五项重大更新](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492859&idx=1&sn=dc3211911c7d8749aaad8ff00a48d1a5&chksm=f95251b8ce25d8ae56a5c4371451bfd169b6be159a4ed242964352c9c7bd78d5edca5c0c2b05&scene=27#wechat_redirect) 
 - [2019-10-13-前端周报：Vue-3公开代码库；NPM发布6.12.0；Sass推出模块系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492731&idx=1&sn=388d4e3e740a3506b0ebc40d3f9833b9&chksm=f9525138ce25d82ee1c36f469192e6a759b6a9731f8e90b057dea94796acf5f60f3d3c83ba18&scene=27#wechat_redirect) 
