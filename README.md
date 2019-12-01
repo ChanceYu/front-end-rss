@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-11-30 18:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-01 18:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2019-12-01-前端周报：Scala.js发布；IPv4地址耗尽；JavaScript状态调查已开放](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493258&idx=1&sn=bded70f08f3cf49055768e46bc3176f4&chksm=f95253c9ce25dadfb0dc2504912c7a51c88a083617da94d98f987a4650cc33ab35412c6f2907&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-11-29-成人网站PornHub技术栈首度公开：我们是如何推动Web发展的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=1&sn=e76764e5b647f5a612b7851e06c453e9&chksm=f95253c7ce25dad13feec85eaed50da9cb8e8012a75854d0b88dbd69b99b525dd5d4e3006407&scene=27#wechat_redirect)  
 - [2019-11-29-为什么Vue3.0不再使用defineProperty实现数据监听？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=2&sn=417d8c16d501c45d7d00bf435bb21758&chksm=f95253c7ce25dad14c83d57c6f97001dbd98b68c6b20935a6ff590ebbf449b1a9f290ff8efc4&scene=27#wechat_redirect)  
 - [2019-11-29-想了解谷歌云AutoML的最新进展？来这里告诉你-|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=3&sn=5a214d08dd6e09e37c6599f0fd852304&chksm=f95253c7ce25dad1eb5a7a1dfa6efe11671e11f5ce726eeab1d97ce895aec9dfae6e0f0ad7bb&scene=27#wechat_redirect)  
@@ -114,7 +115,6 @@
 - [2019-11-17-前端周报：Mozilla成立字节码联盟；W3C公布Display-locking草案加速渲染](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493108&idx=1&sn=b95ed936dfa2a06673916ec1afbe0bf9&chksm=f95250b7ce25d9a1ae9e94d196dbf136ef28b262b05432c9a28d7a152588c3247253a0efba10&scene=27#wechat_redirect)  
 - [2019-11-16-从第1行代码到百万年薪-，我是如何在8个月内做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493101&idx=1&sn=00c2e02ef3eeb13a9ca89e248ac0dbaf&chksm=f95250aece25d9b8d8194da2e013fee5fb3f22a4ccf9f31807d68566996321eac5b000fde202&scene=27#wechat_redirect)  
 - [2019-11-16-前端工程师如何规划自己的职业发展？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493101&idx=2&sn=19ee953a433d0de886ca518b16f9cf00&chksm=f95250aece25d9b8dc397b0782e12f524ce153a8d008ae2ef729472b7c7849d4fea8fbb6030a&scene=27#wechat_redirect)  
-- [2019-11-15-NGW，前端新技术赛场：Serverless-SSR技术内幕](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493087&idx=1&sn=a993c12a0790d3acac173a00ef4466fb&chksm=f952509cce25d98af45bdad26c6a3080d08a88eca930677a9e9003e6c9f072a6da99a45ddc65&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/) ![](assets/new.png)  
+- [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
 - [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/)  
 - [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/)  
 - [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  

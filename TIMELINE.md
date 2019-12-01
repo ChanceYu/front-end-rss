@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-11-30 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-01 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -19,7 +19,7 @@
 <td><a href="#2019-09">09月</a></td>
 <td><a href="#2019-10">10月</a></td>
 <td><a href="#2019-11">11月</a></td>
-<td>12月</td>
+<td><a href="#2019-12">12月</a></td>
 </tr>
 
 <tr>
@@ -97,6 +97,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2019-12">
+ 2019-12
+</summary>
+
+
+- [【前端之巅】2019-12-01-前端周报：Scala.js发布；IPv4地址耗尽；JavaScript状态调查已开放](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493258&idx=1&sn=bded70f08f3cf49055768e46bc3176f4&chksm=f95253c9ce25dadfb0dc2504912c7a51c88a083617da94d98f987a4650cc33ab35412c6f2907&scene=27#wechat_redirect) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2019-11">
