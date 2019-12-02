@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-11-28 12:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-02 18:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Taobao-FED-|-淘宝前端团队
 
 
 
 
+- [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan) 
 - [2019-11-25-双十一模块-79.34%-的代码是怎样智能生成的](https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent) 
 - [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) 
