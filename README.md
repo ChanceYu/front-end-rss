@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-03 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-03 22:00:30，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2019-12-02-Rax-PWA---快速升级-Web-体验](https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web) ![](assets/new.png)  
+- [2019-12-02-Rax-PWA---快速升级-Web-体验](https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web)  
 - [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution)  
 - [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan)  
 - [2019-11-25-双十一模块-79.34%-的代码是怎样智能生成的](https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent)  
@@ -281,6 +281,7 @@
 </summary>
 
 
+- [2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) ![](assets/new.png)  
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)  
 - [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)  
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/)  
@@ -300,7 +301,6 @@
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
 - [2018-11-30-Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/)  
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)  
-- [2018-11-05-Taro-1.1-发布，全面支持微信/百度/支付宝-小程序](https://aotu.io/notes/2018/11/05/taro-1-1/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
