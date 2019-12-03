@@ -9231,6 +9231,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "Rax PWA - 快速升级 Web 体验",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web",
+        "date": "2019-12-02"
+      },
+      {
         "title": "GCanvas渲染引擎的演进",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution",
         "date": "2019-12-02"
