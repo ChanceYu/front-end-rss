@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-03 22:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-04 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,11 @@
 </summary>
 
 
+- [【前端之巅】2019-12-04-大前端年终总结：Flutter、小程序、工程化等技术趋势解析-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493293&idx=1&sn=6751d6c8702283484f52bf8d17227641&chksm=f95253eece25daf886a6d611cdb4257be723db965a516eb33f2409726b9db4cf37a68583be6d&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-04-AssemblyScript入门指南](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493293&idx=2&sn=42b5f07d5d76b39c6c0ae07251c528a4&chksm=f95253eece25daf8eeac790b910a77a2f6f3489bb93861e008af04b90aec331198800e739ead&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-04-十年云架构演进史，你知道它是如何在实践中演进的吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493293&idx=3&sn=db14487c00edf74ea383351137644d54&chksm=f95253eece25daf80465ccc7fc9cc561462e5f7452263fa813607e9e2e745879d09fa43507e6&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-03-如何提升低端设备的Web性能？试试自适应加载模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=1&sn=a029a2a029eac42b5af348c920fff0f4&chksm=f95253dcce25daca2abdb2abfc218b7f3fc9d0fdcf2221b836969cd84c874fda39c19843610a&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-03-腾讯在线教育的Web音视频架构方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=2&sn=d0627948f62c0a67c8824ffb72fce8aa&chksm=f95253dcce25dacacc3607d0965e2f40465974cfc2af909cb8f303305d4291f79f5670231254&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-02-Node.js在携程的落地和最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493268&idx=1&sn=408ca2dcb6922c9b6b238049dcfa5d38&chksm=f95253d7ce25dac1464f45d22547e4dcf9366c462018b129d7b67df89389a556bb641a7b21cb&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-02-如何实现SwiftUI微服务？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493268&idx=2&sn=e60ca94543f72ec8d1479020ce6ae49d&chksm=f95253d7ce25dac17228774b0aeb39e3343ddd33cefda2c57c97d51e87c2d6ff2657b14e02fa&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-01-前端周报：Scala.js发布；IPv4地址耗尽；JavaScript状态调查已开放](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493258&idx=1&sn=bded70f08f3cf49055768e46bc3176f4&chksm=f95253c9ce25dadfb0dc2504912c7a51c88a083617da94d98f987a4650cc33ab35412c6f2907&scene=27#wechat_redirect) 

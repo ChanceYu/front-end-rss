@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-03 22:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-04 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -42,6 +42,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2019-12-04-大前端年终总结：Flutter、小程序、工程化等技术趋势解析-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493293&idx=1&sn=6751d6c8702283484f52bf8d17227641&chksm=f95253eece25daf886a6d611cdb4257be723db965a516eb33f2409726b9db4cf37a68583be6d&scene=27#wechat_redirect) 
 - [2019-11-26-百度开源小程序框架的架构演进](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493212&idx=2&sn=82c3f5bc3bb22d1f6a70809402e5dbd4&chksm=f952531fce25da094741de2e4633bf197ef829ba4f7e7b2b6628c4c3781785fc1390606bcc83&scene=27#wechat_redirect) 
 - [2019-11-14-腾讯、百度纷纷布局小程序，来看看跨平台的最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493074&idx=2&sn=4c77b81eabc9fec9620ce32684192276&chksm=f9525091ce25d9873e83b824f3de370aeaa1dad7d949d067e67b5ef391266af87b35e2c897cd&scene=27#wechat_redirect) 
 - [2019-10-12-别再纠结后端了，小程序开发这么做](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492724&idx=3&sn=8f4e58ff2e4737d066f345efa154bc74&chksm=f9525137ce25d82173cc1c998d2de2f140efba5e18c25e05f88ef77b3f23498ac4b5d1ccbda4&scene=27#wechat_redirect) 
