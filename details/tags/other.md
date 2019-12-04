@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-04 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-04 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -194,6 +194,11 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2019-12-04-2020，前端还值得吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557499&idx=1&sn=175638b3e0dafc1bddeaf2999d089b79&chksm=802559bab752d0ac3a33544e2889d3bb60685c9ace7ed44a532297b25519371b60e342d736c5&scene=27#wechat_redirect) 
+- [2019-12-02-计划节后跳槽：你的工作经验货真价实吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=1&sn=f412ab98bd94323a5215388e587071b4&chksm=802559b3b752d0a5bf9b7d501bc35d3a197de0259a2cb6324e744dc34da7c950915b2f3a8d65&scene=27#wechat_redirect) 
+- [2019-12-02-关于前端埋点统计方案思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=2&sn=c64343361c5f499cf65e559adecfe48c&chksm=802559b3b752d0a5f1319f8524955a59e1e87b152a2dbf4ddcd65dbc13918d570a3cb094bb42&scene=27#wechat_redirect) 
+- [2019-12-01-TCP为啥要3次握手和4次挥手？握两次手不行吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=1&sn=d69ffbaf1ae4f7d04425132f23881c67&chksm=802559b1b752d0a78f3fdaebf1b0abbd5d60c081de6a8dc53f8d56e619e62a57600551ca0b2e&scene=27#wechat_redirect) 
+- [2019-11-30-行业认可的人工智能工程师是什么样？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557480&idx=1&sn=60d8a41a6f1e53a56d94c073558f214e&chksm=802559a9b752d0bf76024f93b2032ca90c0366f5c688adf9c8e193558703eaa2b6b958e1bba9&scene=27#wechat_redirect) 
 - [2019-11-25-你在前端开发的技术深度，由这些技术栈决定.....](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557445&idx=1&sn=f1476c5badc7bf7a86448ea427b91d3a&chksm=80255984b752d092353524eb99f2cbc85ca6c35b070f8cc141db3c5a697b07d7aaa80f481994&scene=27#wechat_redirect) 
 - [2019-11-24-一个阿里前端工程师的成长之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557443&idx=1&sn=6abd8ea64fe5587349d094bfb7611944&chksm=80255982b752d09459317b5534463f3639531bd2c16472fbdfe1f28c3f37860ca16b931d5cb2&scene=27#wechat_redirect) 
 - [2019-11-23-面向对象-：做个有趣的很酷的很拽的俗人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557434&idx=2&sn=66c0988c3468e43eca0e6804cdc0170a&chksm=802559fbb752d0edeba732929e343c2518319beb4c592a2bd44b68c7abd3a8d81555a940b67f&scene=27#wechat_redirect) 
