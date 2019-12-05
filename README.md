@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-04 22:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-05 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -64,16 +64,16 @@
 </summary>
 
 
-- [2019-12-04-2020，前端还值得吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557499&idx=1&sn=175638b3e0dafc1bddeaf2999d089b79&chksm=802559bab752d0ac3a33544e2889d3bb60685c9ace7ed44a532297b25519371b60e342d736c5&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-04-万字长文之-Serverless-实战详细指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557499&idx=2&sn=f8497ef1dfdf6e63faaa2fdb4225fee6&chksm=802559bab752d0aca259b6f0368f3311054a3e2094a4bfda8323228d7d94c241c3adcf5f955b&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-03-网易云音乐前端性能监控实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557495&idx=1&sn=54215ea99470fed0f1457476435fe98b&chksm=802559b6b752d0a096d0512f57802afbe0aa31c7d62e68a07de3fd1bf1cd0265def7f23b48b2&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-03-面向对象：我把四季都用来等你，用余下的时光作陪](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557495&idx=2&sn=3da9851bbee164b49afdce3f0823fb29&chksm=802559b6b752d0a078b78ee03c303c08b080fc7eb17f857769ad3dadc9bc1a0490986227edd3&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-02-计划节后跳槽：你的工作经验货真价实吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=1&sn=f412ab98bd94323a5215388e587071b4&chksm=802559b3b752d0a5bf9b7d501bc35d3a197de0259a2cb6324e744dc34da7c950915b2f3a8d65&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-02-关于前端埋点统计方案思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=2&sn=c64343361c5f499cf65e559adecfe48c&chksm=802559b3b752d0a5f1319f8524955a59e1e87b152a2dbf4ddcd65dbc13918d570a3cb094bb42&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-01-TCP为啥要3次握手和4次挥手？握两次手不行吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=1&sn=d69ffbaf1ae4f7d04425132f23881c67&chksm=802559b1b752d0a78f3fdaebf1b0abbd5d60c081de6a8dc53f8d56e619e62a57600551ca0b2e&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-01-面向对象：拳打新东方脚踢米其林的厨艺天才](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=2&sn=c56fc6e0c9438459c410b8eb1bd1ae5b&chksm=802559b1b752d0a7fa8f9e00c32fbe265be25f0af959a368e58ded601a06e2f0847b3fb8676f&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-30-行业认可的人工智能工程师是什么样？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557480&idx=1&sn=60d8a41a6f1e53a56d94c073558f214e&chksm=802559a9b752d0bf76024f93b2032ca90c0366f5c688adf9c8e193558703eaa2b6b958e1bba9&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-11-30-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557480&idx=2&sn=9f4a5daecb9e76ee42b693a02dc645df&chksm=802559a9b752d0bf37d1c8476358ba8ce1087e58a38a224e6dd97897e3f8cc08ea9a5ccc0be1&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-04-2020，前端还值得吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557499&idx=1&sn=175638b3e0dafc1bddeaf2999d089b79&chksm=802559bab752d0ac3a33544e2889d3bb60685c9ace7ed44a532297b25519371b60e342d736c5&scene=27#wechat_redirect)  
+- [2019-12-04-万字长文之-Serverless-实战详细指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557499&idx=2&sn=f8497ef1dfdf6e63faaa2fdb4225fee6&chksm=802559bab752d0aca259b6f0368f3311054a3e2094a4bfda8323228d7d94c241c3adcf5f955b&scene=27#wechat_redirect)  
+- [2019-12-03-网易云音乐前端性能监控实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557495&idx=1&sn=54215ea99470fed0f1457476435fe98b&chksm=802559b6b752d0a096d0512f57802afbe0aa31c7d62e68a07de3fd1bf1cd0265def7f23b48b2&scene=27#wechat_redirect)  
+- [2019-12-03-面向对象：我把四季都用来等你，用余下的时光作陪](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557495&idx=2&sn=3da9851bbee164b49afdce3f0823fb29&chksm=802559b6b752d0a078b78ee03c303c08b080fc7eb17f857769ad3dadc9bc1a0490986227edd3&scene=27#wechat_redirect)  
+- [2019-12-02-计划节后跳槽：你的工作经验货真价实吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=1&sn=f412ab98bd94323a5215388e587071b4&chksm=802559b3b752d0a5bf9b7d501bc35d3a197de0259a2cb6324e744dc34da7c950915b2f3a8d65&scene=27#wechat_redirect)  
+- [2019-12-02-关于前端埋点统计方案思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=2&sn=c64343361c5f499cf65e559adecfe48c&chksm=802559b3b752d0a5f1319f8524955a59e1e87b152a2dbf4ddcd65dbc13918d570a3cb094bb42&scene=27#wechat_redirect)  
+- [2019-12-01-TCP为啥要3次握手和4次挥手？握两次手不行吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=1&sn=d69ffbaf1ae4f7d04425132f23881c67&chksm=802559b1b752d0a78f3fdaebf1b0abbd5d60c081de6a8dc53f8d56e619e62a57600551ca0b2e&scene=27#wechat_redirect)  
+- [2019-12-01-面向对象：拳打新东方脚踢米其林的厨艺天才](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=2&sn=c56fc6e0c9438459c410b8eb1bd1ae5b&chksm=802559b1b752d0a7fa8f9e00c32fbe265be25f0af959a368e58ded601a06e2f0847b3fb8676f&scene=27#wechat_redirect)  
+- [2019-11-30-行业认可的人工智能工程师是什么样？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557480&idx=1&sn=60d8a41a6f1e53a56d94c073558f214e&chksm=802559a9b752d0bf76024f93b2032ca90c0366f5c688adf9c8e193558703eaa2b6b958e1bba9&scene=27#wechat_redirect)  
+- [2019-11-30-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557480&idx=2&sn=9f4a5daecb9e76ee42b693a02dc645df&chksm=802559a9b752d0bf37d1c8476358ba8ce1087e58a38a224e6dd97897e3f8cc08ea9a5ccc0be1&scene=27#wechat_redirect)  
 - [2019-11-25-你在前端开发的技术深度，由这些技术栈决定.....](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557445&idx=1&sn=f1476c5badc7bf7a86448ea427b91d3a&chksm=80255984b752d092353524eb99f2cbc85ca6c35b070f8cc141db3c5a697b07d7aaa80f481994&scene=27#wechat_redirect)  
 - [2019-11-25-10-个-CSS-高频面试题，你都会吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557445&idx=2&sn=f6ac345977b8b808f7645ef51ba75640&chksm=80255984b752d092c6c2dcb59768315b61cbe050a70e8e69f1b02974a8e6c3c6d93b396b985a&scene=27#wechat_redirect)  
 - [2019-11-24-一个阿里前端工程师的成长之路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557443&idx=1&sn=6abd8ea64fe5587349d094bfb7611944&chksm=80255982b752d09459317b5534463f3639531bd2c16472fbdfe1f28c3f37860ca16b931d5cb2&scene=27#wechat_redirect)  
@@ -281,6 +281,8 @@
 </summary>
 
 
+- [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) ![](assets/new.png)  
+- [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) ![](assets/new.png)  
 - [2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)  
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)  
 - [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)  
@@ -299,8 +301,6 @@
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
-- [2018-11-30-Taro深度开发实践](https://aotu.io/notes/2018/11/30/taro_practice/)  
-- [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

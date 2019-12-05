@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-04 22:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-05 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 - [【前端之巅】2019-12-01-前端周报：Scala.js发布；IPv4地址耗尽；JavaScript状态调查已开放](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493258&idx=1&sn=bded70f08f3cf49055768e46bc3176f4&chksm=f95253c9ce25dadfb0dc2504912c7a51c88a083617da94d98f987a4650cc33ab35412c6f2907&scene=27#wechat_redirect) 
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-Rax-PWA---快速升级-Web-体验](https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web) 
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
+- [【Aotu-|-凹凸实验室】2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
+- [【Aotu-|-凹凸实验室】2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) 
 - [【Aotu-|-凹凸实验室】2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
