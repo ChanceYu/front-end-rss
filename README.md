@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-05 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-06 12:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,10 +20,10 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
 
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html) ![](assets/new.png)  
 - [2019-11-29-科技爱好者周刊：第-84-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)  
 - [2019-11-26-如何识别文件的真假](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)  
 - [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)  
@@ -207,7 +208,6 @@
 - [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)  
 - [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [2019-09-20-科技爱好者周刊：第-74-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-74.html)  
-- [2019-09-13-科技爱好者周刊：第-73-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-73.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,8 +281,8 @@
 </summary>
 
 
-- [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) ![](assets/new.png)  
-- [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) ![](assets/new.png)  
+- [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)  
+- [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)  
 - [2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)  
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)  
 - [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)  
