@@ -6694,6 +6694,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端代码是怎样智能生成的——智能插件篇",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493305&idx=1&sn=cac8c7706ee5a024405d7e8126c72d00&chksm=f95253face25daec70fc4a164f6c2a7a5520d2d13eabb8e3d71122cec70d47e84345b957a884&scene=27#wechat_redirect",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "小程序时代：如何开发一款高性能、跨平台的小程序？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493305&idx=2&sn=518bb6524d9fbe094602f7243acb3457&chksm=f95253face25daeca3976626f86ab36f44e37c057555bd690d936eaa3a7647956cdfcfb020ef&scene=27#wechat_redirect",
+        "date": "2019-12-06"
+      },
+      {
+        "title": "Angular更改检测终极指南",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493300&idx=1&sn=f331800014524b4e22d69e99f80b97d0&chksm=f95253f7ce25dae11e8acd98d17c7f08d1b1395975ceff1bcfeba14d68c8afe4fe9e6d51b6bd&scene=27#wechat_redirect",
+        "date": "2019-12-05"
+      },
+      {
+        "title": "Deno：一个安全高效的JS/TS运行时环境",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493300&idx=2&sn=69b0c788829476c47252c28e85a08ece&chksm=f95253f7ce25dae1f1d6a0e51c615afb47ce56d495e3fa21d9a45cba3fee64cbbd0ecb5b4617&scene=27#wechat_redirect",
+        "date": "2019-12-05"
+      },
+      {
         "title": "大前端年终总结：Flutter、小程序、工程化等技术趋势解析 | GMTC",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493293&idx=1&sn=6751d6c8702283484f52bf8d17227641&chksm=f95253eece25daf886a6d611cdb4257be723db965a516eb33f2409726b9db4cf37a68583be6d&scene=27#wechat_redirect",
         "date": "2019-12-04"
