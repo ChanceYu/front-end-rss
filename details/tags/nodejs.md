@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-08 06:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-08 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -78,6 +78,7 @@
 - [2017-12-13-管理-Node.js-进程从未如此优雅](https://fed.taobao.org/blog/2017/12/13/pandora/) 
 - [2017-08-31-深入理解-Node.js-Stream-内部机制](https://fed.taobao.org/blog/2017/08/31/nodejs-stream/) 
 - [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
+- [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html) 
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html) 
 - [2019-04-21-V8-内存管理和垃圾回收机制总结](http://www.yyyweb.com/5275.html) 
 - [2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
