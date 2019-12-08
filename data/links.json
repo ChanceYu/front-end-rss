@@ -9633,6 +9633,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS repeat()函数详细介绍",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/",
+        "date": "2019-12-07"
+      },
+      {
         "title": "CSS minmax()函数简介",
         "link": "https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/",
         "date": "2019-11-30"
