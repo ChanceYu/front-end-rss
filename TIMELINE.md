@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-09 06:00:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-10 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -127,6 +127,7 @@
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-Rax-PWA---快速升级-Web-体验](https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web) 
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [【张鑫旭-鑫空间-鑫生活】2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/) 
+- [【阮一峰的网络日志】2019-12-10-H5-手机-App-开发入门：概念篇](http://www.ruanyifeng.com/blog/2019/12/hybrid-app-concepts.html) 
 - [【阮一峰的网络日志】2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html) 
 - [【前端里】2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html) 
 - [【前端里】2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html) 
