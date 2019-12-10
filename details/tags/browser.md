@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-10 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-11 06:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-12-08-【译】WebAssembly-1.0成为W3C推荐标准，也是在浏览器中运行的第四种语言](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=2&sn=7f99891f1c425e6c7de829343408b7d4&chksm=bd497b4c8a3ef25a7141d15cfb7b73c7083e9b84e9b6c73a0964129280e39456ae3590012d83&scene=27#wechat_redirect) 
 - [2019-09-24-【第1732期】Google-官方-如何去做code-review](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=2&sn=b5071874c2775a02d26139ff79a3e4c5&chksm=bd4947ec8a3ecefaf917172f17b0397a45e4ad6229dc8fcac3cdd096e769ec54c8485836380d#rd) 
 - [2019-09-04-【第1716期】实践HTTP206状态:部分内容和范围请求](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233682&idx=1&sn=9e36075ff7716c88e9c02840ca5f0102&chksm=bd4944168a3ecd000a93dc52bc46eef516bcb34716c90447888c1fd56324f6ce2f3675764c42#rd) 
 - [2019-08-20-【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd) 
