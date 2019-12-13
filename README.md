@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-11 06:00:18，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-13 12:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,16 +33,16 @@
 </summary>
 
 
-- [2019-12-10-80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-10-【第1801期】高德APP全链路源码依赖分析工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=2&sn=792465774afcc05276c0985ee6324299&chksm=bd497b598a3ef24f77729cf15e68d54dc146683dd5a686bdebeb3c371d02ff9a827c7a790db3&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-09-【第1800期】利用过渡动效打造沉浸式的体验-—【Web篇】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=1&sn=d3b0758fc38147ad4829cb463e44d7bd&chksm=bd497b4e8a3ef2586127dcdbf46f6beaace886c148f4058135cd339abba11ecf40793cfbc963&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-09-【英】产品思维-vs-项目思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=2&sn=6b2b8aed900741a91b0e49322d5cbe08&chksm=bd497b4e8a3ef2580c555df3a0fcd1bba21fb3ae72136d19318bfb796372b67fe5cd0089cef0&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-08-【第1799期】前端模块化的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=1&sn=d8f63fb59a760720cc40bd569c4754cf&chksm=bd497b4c8a3ef25a1e3abdbf21eca55a6fad98c2e998dc6c13ed1c0bdc2888936ed27a73aa1b&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-08-【译】WebAssembly-1.0成为W3C推荐标准，也是在浏览器中运行的第四种语言](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=2&sn=7f99891f1c425e6c7de829343408b7d4&chksm=bd497b4c8a3ef25a7141d15cfb7b73c7083e9b84e9b6c73a0964129280e39456ae3590012d83&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-07-【第1798期】JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=1&sn=557b3017a937a66554c3591a70fc3402&chksm=bd497b388a3ef22efb051b7353442aef584f065f160a197d48a8ef03626d1451a84260de7799&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-07-【招聘】阿里飞猪用户技术-行业和平台团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=2&sn=1e03cb04ffdf89d4b114ae9f35b39ce7&chksm=bd497b388a3ef22e8431d5e5a26d045557ede6ee29630ebbe534574a820805b6d3e2bd071181&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-06-【第1797期】京喜首页跨端开发与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=1&sn=6aa21b09bbb2740d18d789137df03554&chksm=bd497b288a3ef23efbb2b05aae7f4e01622d680a093a6c22b1e9f9b91aacf36633101248c98b&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-06-【译】前端开发技能是否足以胜任一份职业?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=2&sn=5a96bd7eb4817a570a1795060473803f&chksm=bd497b288a3ef23e3fbcfdbe272e11591fb13e2160e373443e253ecc9980ee31c38e60f78724&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-10-80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect)  
+- [2019-12-10-【第1801期】高德APP全链路源码依赖分析工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=2&sn=792465774afcc05276c0985ee6324299&chksm=bd497b598a3ef24f77729cf15e68d54dc146683dd5a686bdebeb3c371d02ff9a827c7a790db3&scene=27#wechat_redirect)  
+- [2019-12-09-【第1800期】利用过渡动效打造沉浸式的体验-—【Web篇】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=1&sn=d3b0758fc38147ad4829cb463e44d7bd&chksm=bd497b4e8a3ef2586127dcdbf46f6beaace886c148f4058135cd339abba11ecf40793cfbc963&scene=27#wechat_redirect)  
+- [2019-12-09-【英】产品思维-vs-项目思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=2&sn=6b2b8aed900741a91b0e49322d5cbe08&chksm=bd497b4e8a3ef2580c555df3a0fcd1bba21fb3ae72136d19318bfb796372b67fe5cd0089cef0&scene=27#wechat_redirect)  
+- [2019-12-08-【第1799期】前端模块化的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=1&sn=d8f63fb59a760720cc40bd569c4754cf&chksm=bd497b4c8a3ef25a1e3abdbf21eca55a6fad98c2e998dc6c13ed1c0bdc2888936ed27a73aa1b&scene=27#wechat_redirect)  
+- [2019-12-08-【译】WebAssembly-1.0成为W3C推荐标准，也是在浏览器中运行的第四种语言](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=2&sn=7f99891f1c425e6c7de829343408b7d4&chksm=bd497b4c8a3ef25a7141d15cfb7b73c7083e9b84e9b6c73a0964129280e39456ae3590012d83&scene=27#wechat_redirect)  
+- [2019-12-07-【第1798期】JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=1&sn=557b3017a937a66554c3591a70fc3402&chksm=bd497b388a3ef22efb051b7353442aef584f065f160a197d48a8ef03626d1451a84260de7799&scene=27#wechat_redirect)  
+- [2019-12-07-【招聘】阿里飞猪用户技术-行业和平台团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=2&sn=1e03cb04ffdf89d4b114ae9f35b39ce7&chksm=bd497b388a3ef22e8431d5e5a26d045557ede6ee29630ebbe534574a820805b6d3e2bd071181&scene=27#wechat_redirect)  
+- [2019-12-06-【第1797期】京喜首页跨端开发与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=1&sn=6aa21b09bbb2740d18d789137df03554&chksm=bd497b288a3ef23efbb2b05aae7f4e01622d680a093a6c22b1e9f9b91aacf36633101248c98b&scene=27#wechat_redirect)  
+- [2019-12-06-【译】前端开发技能是否足以胜任一份职业?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=2&sn=5a96bd7eb4817a570a1795060473803f&chksm=bd497b288a3ef23e3fbcfdbe272e11591fb13e2160e373443e253ecc9980ee31c38e60f78724&scene=27#wechat_redirect)  
 - [2019-11-19-用了-JavaScript-两三年，为什么还总踩坑？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=1&sn=cceffde5a94688a90590122e4d975fb2&chksm=bd4978f78a3ef1e1d8a70dae729479432f67bc1bbef272fb8482e9b5d160ad767064b6ac8784&scene=27#wechat_redirect)  
 - [2019-11-19-【第1780期】来聊聊面向模板的前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=2&sn=83c4d76abfd06284b770432829624da8&chksm=bd4978f78a3ef1e12c46c65b74886d89980c7bd357aa1f878c47a435bc88b36ffbf2234e4c31&scene=27#wechat_redirect)  
 - [2019-11-19-【英】两个“非值”：undefined-和-null](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=3&sn=05c8230791aa1b5e3c1daedb6266cd9b&chksm=bd4978f78a3ef1e16a9e9638a3d25969f6a3277de6d458fa8be08e0a0a9c3c83fd77aae93c60&scene=27#wechat_redirect)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html) ![](assets/new.png)  
 - [2019-12-10-H5-手机-App-开发入门：概念篇](http://www.ruanyifeng.com/blog/2019/12/hybrid-app-concepts.html)  
 - [2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html)  
 - [2019-11-29-科技爱好者周刊：第-84-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)  
@@ -207,7 +208,6 @@
 - [2019-10-18-科技爱好者周刊：第-78-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)  
 - [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)  
 - [2019-10-04-科技爱好者周刊：第-76-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-76.html)  
-- [2019-09-27-科技爱好者周刊：第-75-期](http://www.ruanyifeng.com/blog/2019/09/weekly-issue-75.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
