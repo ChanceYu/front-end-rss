@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-17 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-19 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2019-12-17-H5-手机-App-开发入门：技术篇](http://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html) ![](assets/new.png)  
+- [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html) ![](assets/new.png)  
+- [2019-12-17-H5-手机-App-开发入门：技术篇](http://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html)  
 - [2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)  
 - [2019-12-10-H5-手机-App-开发入门：概念篇](http://www.ruanyifeng.com/blog/2019/12/hybrid-app-concepts.html)  
 - [2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html)  
@@ -207,7 +208,6 @@
 - [2019-10-25-科技爱好者周刊：第-79-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)  
 - [2019-10-21-Tmux-使用教程](http://www.ruanyifeng.com/blog/2019/10/tmux.html)  
 - [2019-10-18-科技爱好者周刊：第-78-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-78.html)  
-- [2019-10-11-科技爱好者周刊：第-77-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-77.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

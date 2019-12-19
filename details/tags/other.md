@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-17 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-19 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -508,6 +508,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html) 
 - [2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html) 
 - [2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html) 
 - [2019-11-29-科技爱好者周刊：第-84-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html) 
