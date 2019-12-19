@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2019-12-19 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-19 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-12-19-【第1810期】前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235275&idx=1&sn=cebdd11e1de50b5c06d454f398ee8e8c&chksm=bd497a4f8a3ef35982ebf2c977f2472abff9e6671b82d4274a34644ab1b173373cd44be9e517&scene=27#wechat_redirect) 
+- [2019-12-19-第十四届D2夜场访谈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235275&idx=2&sn=39868c73ea3d4720afcc9e4790ce9a41&chksm=bd497a4f8a3ef3590bf0ce4ed227c849e113985ce2a822cadefd7fa522ca158c0123a99e529c&scene=27#wechat_redirect) 
+- [2019-12-18-【PPT】@张克军：微前端架构体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=2&sn=a3c6e5f3b533c9abb83e032863753a03&chksm=bd497a1d8a3ef30bbf3e04a3e625ab9507ef011acb9ba1b020b1c96f8c23dee46462b757c056&scene=27#wechat_redirect) 
+- [2019-12-16-进大厂，是个伪命题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235171&idx=1&sn=5dc25b81896f3f5dede108710241522e&chksm=bd497ae78a3ef3f1de9acc8f0a31b12a527fc6960b13ea90bd2b64d66a2db891a5dd526360c5&scene=27#wechat_redirect) 
+- [2019-12-16-【第1807期】高质量前端快照方案：来自页面的「自拍」](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235171&idx=2&sn=3f88b15fd343e1f0bcfca9f01975c63b&chksm=bd497ae78a3ef3f1232fd660fef4b5f40863f81ad43ba00893b9d4d922d40eaf83f45f9fa017&scene=27#wechat_redirect) 
+- [2019-12-15-【英】具有产品思维的软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235158&idx=2&sn=bc131e78e99b074d4ae9fe473d21e3f1&chksm=bd497ad28a3ef3c46d8fa93efcd4f696ffd53ece4e3645860e871883293b35aa2fd26bf2f2da&scene=27#wechat_redirect) 
 - [2019-12-10-【第1801期】高德APP全链路源码依赖分析工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=2&sn=792465774afcc05276c0985ee6324299&chksm=bd497b598a3ef24f77729cf15e68d54dc146683dd5a686bdebeb3c371d02ff9a827c7a790db3&scene=27#wechat_redirect) 
 - [2019-12-09-【第1800期】利用过渡动效打造沉浸式的体验-—【Web篇】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=1&sn=d3b0758fc38147ad4829cb463e44d7bd&chksm=bd497b4e8a3ef2586127dcdbf46f6beaace886c148f4058135cd339abba11ecf40793cfbc963&scene=27#wechat_redirect) 
 - [2019-12-09-【英】产品思维-vs-项目思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=2&sn=6b2b8aed900741a91b0e49322d5cbe08&chksm=bd497b4e8a3ef2580c555df3a0fcd1bba21fb3ae72136d19318bfb796372b67fe5cd0089cef0&scene=27#wechat_redirect) 

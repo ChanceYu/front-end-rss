@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-19 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-19 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-12-18-【招聘】创新工场AI研究院前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=3&sn=ca61dc3b48576fc6b076739c9ed9a353&chksm=bd497a1d8a3ef30b9725a65075107323571be60df2dde25d4ba65210111397633c3139af8d72&scene=27#wechat_redirect) 
 - [2019-12-07-【招聘】阿里飞猪用户技术-行业和平台团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=2&sn=1e03cb04ffdf89d4b114ae9f35b39ce7&chksm=bd497b388a3ef22e8431d5e5a26d045557ede6ee29630ebbe534574a820805b6d3e2bd071181&scene=27#wechat_redirect) 
 - [2019-11-18-【招聘】深圳腾讯云网络前端团队招Web前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234669&idx=2&sn=445a827559a05eae1a73c8a3eb6cc8ee&chksm=bd4978e98a3ef1ff78cca4122d0f9a9fe76fd375135446230999d5de2b562596bf85efeb3327&scene=27#wechat_redirect) 
 - [2019-11-17-【招聘】成都蚂蚁金服数据体验技术团队招高级／专家前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=2&sn=35a719de3b20ef13a9a67deb751b6840&chksm=bd4978ef8a3ef1f91f244b70e615e0a73de038ecb8d65f03fc806bfbe2f3cb7dcda62a9da3f6&scene=27#wechat_redirect) 

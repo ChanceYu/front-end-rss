@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-19 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-19 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2019-12-18-【第1809期】2019年前端事件回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=1&sn=4ee8b28252e7e4d96129f271bf5d6dbe&chksm=bd497a1d8a3ef30b330655db06c8b7cab202f1618eddb0840b0acff6133271fad5853e58229e&scene=27#wechat_redirect) 
+- [2019-12-15-【第1806期】高德JS依赖分析工程及关键原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235158&idx=1&sn=381231dee5dbc78fe181084870c75ab8&chksm=bd497ad28a3ef3c4fea2ba90e9e3bdf9a408982af2b5cdf78e696aca707b7ca5dc9319b4c067&scene=27#wechat_redirect) 
 - [2019-12-08-【第1799期】前端模块化的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=1&sn=d8f63fb59a760720cc40bd569c4754cf&chksm=bd497b4c8a3ef25a1e3abdbf21eca55a6fad98c2e998dc6c13ed1c0bdc2888936ed27a73aa1b&scene=27#wechat_redirect) 
 - [2019-12-07-【第1798期】JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=1&sn=557b3017a937a66554c3591a70fc3402&chksm=bd497b388a3ef22efb051b7353442aef584f065f160a197d48a8ef03626d1451a84260de7799&scene=27#wechat_redirect) 
 - [2019-11-19-用了-JavaScript-两三年，为什么还总踩坑？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=1&sn=cceffde5a94688a90590122e4d975fb2&chksm=bd4978f78a3ef1e1d8a70dae729479432f67bc1bbef272fb8482e9b5d160ad767064b6ac8784&scene=27#wechat_redirect) 
