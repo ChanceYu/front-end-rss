@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-12-19 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-20 12:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2019-12-20-【第1811期】如何成为-ECharts-的-Committer？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235276&idx=1&sn=75b41e12ccca408ad9dc172d596fd8ca&chksm=bd497a488a3ef35eefb2ee04c5fae5a413ee606c60c50d0a92be5718c8dd50c2a39fc5148925&scene=27#wechat_redirect) 
 - [2019-12-19-【第1810期】前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235275&idx=1&sn=cebdd11e1de50b5c06d454f398ee8e8c&chksm=bd497a4f8a3ef35982ebf2c977f2472abff9e6671b82d4274a34644ab1b173373cd44be9e517&scene=27#wechat_redirect) 
 - [2019-12-19-第十四届D2夜场访谈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235275&idx=2&sn=39868c73ea3d4720afcc9e4790ce9a41&chksm=bd497a4f8a3ef3590bf0ce4ed227c849e113985ce2a822cadefd7fa522ca158c0123a99e529c&scene=27#wechat_redirect) 
 - [2019-12-18-【PPT】@张克军：微前端架构体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=2&sn=a3c6e5f3b533c9abb83e032863753a03&chksm=bd497a1d8a3ef30bbf3e04a3e625ab9507ef011acb9ba1b020b1c96f8c23dee46462b757c056&scene=27#wechat_redirect) 
@@ -514,6 +515,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html) 
 - [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html) 
 - [2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html) 
 - [2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html) 

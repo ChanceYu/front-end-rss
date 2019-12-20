@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-19 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-20 12:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 </summary>
 
 
+- [【前端早读课】2019-12-20-【第1811期】如何成为-ECharts-的-Committer？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235276&idx=1&sn=75b41e12ccca408ad9dc172d596fd8ca&chksm=bd497a488a3ef35eefb2ee04c5fae5a413ee606c60c50d0a92be5718c8dd50c2a39fc5148925&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-19-【第1810期】前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235275&idx=1&sn=cebdd11e1de50b5c06d454f398ee8e8c&chksm=bd497a4f8a3ef35982ebf2c977f2472abff9e6671b82d4274a34644ab1b173373cd44be9e517&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-19-第十四届D2夜场访谈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235275&idx=2&sn=39868c73ea3d4720afcc9e4790ce9a41&chksm=bd497a4f8a3ef3590bf0ce4ed227c849e113985ce2a822cadefd7fa522ca158c0123a99e529c&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-18-【第1809期】2019年前端事件回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=1&sn=4ee8b28252e7e4d96129f271bf5d6dbe&chksm=bd497a1d8a3ef30b330655db06c8b7cab202f1618eddb0840b0acff6133271fad5853e58229e&scene=27#wechat_redirect) 
@@ -148,6 +149,7 @@
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-Rax-PWA---快速升级-Web-体验](https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web) 
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [【张鑫旭-鑫空间-鑫生活】2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/) 
+- [【阮一峰的网络日志】2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html) 
 - [【阮一峰的网络日志】2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html) 
 - [【阮一峰的网络日志】2019-12-17-H5-手机-App-开发入门：技术篇](http://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html) 
 - [【阮一峰的网络日志】2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html) 
