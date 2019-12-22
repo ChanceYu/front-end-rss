@@ -10355,6 +10355,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "GitHub Actions 教程：定时发送天气邮件",
+        "link": "http://www.ruanyifeng.com/blog/2019/12/github_actions.html",
+        "date": "2019-12-22"
+      },
+      {
         "title": "科技爱好者周刊：第 87 期",
         "link": "http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html",
         "date": "2019-12-20"

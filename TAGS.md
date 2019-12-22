@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2019-12-22 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-22 22:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -623,6 +623,7 @@
 - [【前端之巅】CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect)
 - [【前端之巅】GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/)
+- [【阮一峰的网络日志】GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)
 - [【阮一峰的网络日志】GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
 - [【阮一峰的网络日志】GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
 - [【阮一峰的网络日志】git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
