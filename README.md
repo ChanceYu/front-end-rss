@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-22 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-22 18:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2019-12-21-2019-年-JavaScript-现状调查报告火热出炉！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557584&idx=1&sn=316ee8cf6fe4fdcf4315e249dcc0a277&chksm=80255911b752d007488bd00e9d2c1455ff4245d07ba0a2313cc32dd2ac165889093341c76480&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-21-2019-年-JavaScript-现状调查报告火热出炉！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557584&idx=1&sn=316ee8cf6fe4fdcf4315e249dcc0a277&chksm=80255911b752d007488bd00e9d2c1455ff4245d07ba0a2313cc32dd2ac165889093341c76480&scene=27#wechat_redirect)  
 - [2019-12-20-来自新时代的-CSS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557577&idx=1&sn=0d364ee35e71dd98bea434f78200d05b&chksm=80255908b752d01e119c8651726d321ffaec1f102006b336ad605c2d24ee372bd2c6e1fb5a2f&scene=27#wechat_redirect)  
 - [2019-12-19-2019-年前端事件回顾](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557570&idx=1&sn=ed30591ec4be28fe0fce0d2bf9ab0510&chksm=80255903b752d0159534caeba7e444d9eb3a39091e085c8418551480f6b4a4fba8649f9b9a5d&scene=27#wechat_redirect)  
 - [2019-12-18-作为前端，有必要懂那些底层源码吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557566&idx=1&sn=928568677aaae9648bf46f6aac42fa1b&chksm=8025597fb752d0695958343046ecb6d6ab74ae1969360e6263e1d5df02cd727000e4027b990e&scene=27#wechat_redirect)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/) ![](assets/new.png)  
 - [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
 - [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
 - [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/)  
@@ -176,7 +177,6 @@
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
 - [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
 - [2019-08-17-是时候了，无外链的CSS开发策略](https://www.zhangxinxu.com/wordpress/2019/08/css-no-external-link/)  
-- [2019-08-15-让CSS-flex布局最后一行列表左对齐的N种方法](https://www.zhangxinxu.com/wordpress/2019/08/css-flex-last-align/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

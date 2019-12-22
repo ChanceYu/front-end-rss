@@ -9853,6 +9853,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS flex属性深入理解",
+        "link": "https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/",
+        "date": "2019-12-22"
+      },
+      {
         "title": "CSS repeat()函数详细介绍",
         "link": "https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/",
         "date": "2019-12-07"
