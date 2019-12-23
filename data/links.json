@@ -3657,6 +3657,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "拿不到offer免费学，廖雪峰的“Web 全栈架构师”第16期招生了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557591&idx=1&sn=5615cda40fab4a42fb91cf7d89e71538&chksm=80255916b752d0003f6cba0cd26b927a4a36830e639a16eab384abb7fad38eb36203f5e74e93&scene=27#wechat_redirect",
+        "date": "2019-12-23"
+      },
+      {
+        "title": "一步步从零开始用 webpack 搭建一个大型项目",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557591&idx=2&sn=a2e4fbd21dd6631371e3ad63dd695edd&chksm=80255916b752d000a5fec534cb0154818cd0362ca9022bad29379e1cd34869454489eddb74a6&scene=27#wechat_redirect",
+        "date": "2019-12-23"
+      },
+      {
+        "title": "从 ES6 到 ES10 的新特性万字大总结",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557590&idx=1&sn=ba1e72941562fc810b417beaa43fd982&chksm=80255917b752d00100441a70ec7f63a4e6787594870863475bf4af68bf8009e3df673ee91148&scene=27#wechat_redirect",
+        "date": "2019-12-22"
+      },
+      {
         "title": "2019 年 JavaScript 现状调查报告火热出炉！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557584&idx=1&sn=316ee8cf6fe4fdcf4315e249dcc0a277&chksm=80255911b752d007488bd00e9d2c1455ff4245d07ba0a2313cc32dd2ac165889093341c76480&scene=27#wechat_redirect",
         "date": "2019-12-21"
@@ -6868,6 +6883,11 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "前端周报：JavaScript 引擎 V8 发布；JavaScript 2019 生态报告出炉；新版",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493433&idx=1&sn=0240fcad93dffb5e9b1922f223f6ae21&chksm=f952527ace25db6c25e51375ece3117b3bf95d656372c131e6ad9115cc0b1355612bf9e27ed4&scene=27#wechat_redirect",
+        "date": "2019-12-22"
+      },
       {
         "title": "冰与火之歌：JavaScript 的困境与挑战",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=1&sn=2dba2006528dda1e01bc3630659c38fe&chksm=f9525277ce25db614867dbc3a286c857c1c94f56710fbafaf76abc3233f937d701779f226e2a&scene=27#wechat_redirect",
