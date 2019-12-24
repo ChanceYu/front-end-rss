@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-24 18:00:18，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-24 22:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,10 +95,10 @@
 </summary>
 
 
-- [2019-12-24-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-24-10-个好用的-Visual-Studio-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=2&sn=7e277195553635b5cbb72e607e641ba0&chksm=f9525209ce25db1ffc9ffe2702535b8492a931fa13b7e0a3911dec22e70be93de20a9df59a49&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-23-倏忽一年：回顾点评前端-2019-重大事件、趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=1&sn=32225c032ca7be990c1c02800c401d1d&chksm=f9525200ce25db16d1b61d1040464736b3ac23f1fc42af332569bdf0ba83b42cfa16329ef227&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-23-​如何使用-GraphQL-构建-TypeScript+React-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=2&sn=00ef89575ddbb3315a40c14ba903d758&chksm=f9525200ce25db16a58f5cd5edcbc7253720a6836a569e9c593fb8ab388820d08f0908d9fb2a&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-24-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect)  
+- [2019-12-24-10-个好用的-Visual-Studio-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=2&sn=7e277195553635b5cbb72e607e641ba0&chksm=f9525209ce25db1ffc9ffe2702535b8492a931fa13b7e0a3911dec22e70be93de20a9df59a49&scene=27#wechat_redirect)  
+- [2019-12-23-倏忽一年：回顾点评前端-2019-重大事件、趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=1&sn=32225c032ca7be990c1c02800c401d1d&chksm=f9525200ce25db16d1b61d1040464736b3ac23f1fc42af332569bdf0ba83b42cfa16329ef227&scene=27#wechat_redirect)  
+- [2019-12-23-​如何使用-GraphQL-构建-TypeScript+React-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=2&sn=00ef89575ddbb3315a40c14ba903d758&chksm=f9525200ce25db16a58f5cd5edcbc7253720a6836a569e9c593fb8ab388820d08f0908d9fb2a&scene=27#wechat_redirect)  
 - [2019-12-22-前端周报：JavaScript-引擎-V8-发布；JavaScript-2019-生态报告出炉；新版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493433&idx=1&sn=0240fcad93dffb5e9b1922f223f6ae21&chksm=f952527ace25db6c25e51375ece3117b3bf95d656372c131e6ad9115cc0b1355612bf9e27ed4&scene=27#wechat_redirect)  
 - [2019-12-20-冰与火之歌：JavaScript-的困境与挑战](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=1&sn=2dba2006528dda1e01bc3630659c38fe&chksm=f9525277ce25db614867dbc3a286c857c1c94f56710fbafaf76abc3233f937d701779f226e2a&scene=27#wechat_redirect)  
 - [2019-12-20-与-AI、AR-等技术融合，才是-5G-的发展趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=2&sn=8fb7052287fbaeb762ea4a1d74c1fdb1&chksm=f9525277ce25db61acd4bfa19bc5c050eef6e41bc05776dd98340f98a3cf0d643691bae993ed&scene=27#wechat_redirect)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html) ![](assets/new.png)  
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)  
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
 - [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)  
@@ -207,7 +208,6 @@
 - [2019-11-03-关于计算机科学的50个误解](http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html)  
 - [2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)  
 - [2019-10-29-你所不知道的-AI-进展](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)  
-- [2019-10-25-科技爱好者周刊：第-79-期](http://www.ruanyifeng.com/blog/2019/10/weekly-issue-79.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

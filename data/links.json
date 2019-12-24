@@ -10405,6 +10405,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "如何撤销 Git 操作？",
+        "link": "http://www.ruanyifeng.com/blog/2019/12/git-undo.html",
+        "date": "2019-12-24"
+      },
+      {
         "title": "GitHub Actions 教程：定时发送天气邮件",
         "link": "http://www.ruanyifeng.com/blog/2019/12/github_actions.html",
         "date": "2019-12-22"
