@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-25 06:00:15，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-25 18:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -33,6 +33,9 @@
 </summary>
 
 
+- [2019-12-25-【第1816期】巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235323&idx=1&sn=4e8ad0692de3ed6d041a340d5cb176bc&chksm=bd497a7f8a3ef369278c433ae1443af30a9ec6ba7202cdb244f1b265eddd8e254d075153ef4b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-24-拿不到offer免费学，廖雪峰的“Web-全栈架构师”第16期招生了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=1&sn=e93eaf50840acd110f2f8d4940bfa33b&chksm=bd497a758a3ef363c95e6c14e338a015040b2af5d5cd2361c543d49366969d53ab0ef170d8b1&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-24-【第1815期】利用-JS-实现多种图片相似度算法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=2&sn=b048cd119655c218346a6cfbcb6a3676&chksm=bd497a758a3ef3632c43d6d2615a946fade176d3cfd9c2b22e22bd2b10d73deba099b6fb1221&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-23-【第1814期】函数式编程起源-Lambda演算es2015描述](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235301&idx=1&sn=c7839ff056e86acbc11065c7c8ebfee8&chksm=bd497a618a3ef3770446dc8b0814c0924ba4c6f3552dbfd913723bceead83093cd93ec7b8d59&scene=27#wechat_redirect)  
 - [2019-12-22-【第1813期】什么是抽象语法树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235299&idx=1&sn=7c227b6154c5ffc59fa3970e8df35491&chksm=bd497a678a3ef37159a533885143b4109a693d8b55429be91da82db89288d4b72f0cd1d211ae&scene=27#wechat_redirect)  
 - [2019-12-21-【第1812期】如何设计出访问性更佳的搜索栏](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235297&idx=1&sn=18775effdd4c079515bbe18b52678c93&chksm=bd497a658a3ef3730546a72d8cdec02537776ac5a5d01f1926ae04e21faf1b8f21832478ae6c&scene=27#wechat_redirect)  
@@ -50,9 +53,6 @@
 - [2019-12-10-80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect)  
 - [2019-12-10-【第1801期】高德APP全链路源码依赖分析工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=2&sn=792465774afcc05276c0985ee6324299&chksm=bd497b598a3ef24f77729cf15e68d54dc146683dd5a686bdebeb3c371d02ff9a827c7a790db3&scene=27#wechat_redirect)  
 - [2019-12-09-【第1800期】利用过渡动效打造沉浸式的体验-—【Web篇】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=1&sn=d3b0758fc38147ad4829cb463e44d7bd&chksm=bd497b4e8a3ef2586127dcdbf46f6beaace886c148f4058135cd339abba11ecf40793cfbc963&scene=27#wechat_redirect)  
-- [2019-12-09-【英】产品思维-vs-项目思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=2&sn=6b2b8aed900741a91b0e49322d5cbe08&chksm=bd497b4e8a3ef2580c555df3a0fcd1bba21fb3ae72136d19318bfb796372b67fe5cd0089cef0&scene=27#wechat_redirect)  
-- [2019-12-08-【第1799期】前端模块化的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=1&sn=d8f63fb59a760720cc40bd569c4754cf&chksm=bd497b4c8a3ef25a1e3abdbf21eca55a6fad98c2e998dc6c13ed1c0bdc2888936ed27a73aa1b&scene=27#wechat_redirect)  
-- [2019-12-08-【译】WebAssembly-1.0成为W3C推荐标准，也是在浏览器中运行的第四种语言](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=2&sn=7f99891f1c425e6c7de829343408b7d4&chksm=bd497b4c8a3ef25a7141d15cfb7b73c7083e9b84e9b6c73a0964129280e39456ae3590012d83&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,8 +219,8 @@
 </summary>
 
 
-- [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html) ![](assets/new.png)  
-- [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html) ![](assets/new.png)  
+- [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html)  
+- [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html)  
 - [2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html)  
 - [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html)  
 - [2019-12-07-双十一-79.34%-的代码是怎样智能生成的](http://www.yyyweb.com/5328.html)  
