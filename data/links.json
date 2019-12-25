@@ -3672,6 +3672,26 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "JS 引擎 V8 发布 v8 版",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=1&sn=fbd143704bcb295fb0cf5c2da27c3d17&chksm=8025592ab752d03ca3a96d99b55406ad6fdf4969ab8053028f815c1c17df7e11752e287e84b4&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
+        "title": "面向对象：没有早一秒，没有晚一秒，就是刚刚好，期待你的出现",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=2&sn=3a579879428d74f8a489609f5cdee62f&chksm=8025592ab752d03c5fb3f9449fe15a03324012bc060e27c2ec36325b7ca9ac6585e73e6eae1e&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
+        "title": "7 个令人兴奋的 JavaScript 新特性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557603&idx=1&sn=5f8bbb90e3b2e707838d9d3c830047d6&chksm=80255922b752d034b3cfa9ff3ae1b61d4eea56c8a38b5cfadac09e72b810fbd09fb97ba76f33&scene=27#wechat_redirect",
+        "date": "2019-12-24"
+      },
+      {
+        "title": "前端开发秒懂的一张图",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557603&idx=2&sn=d398567a5f19fef6e757e780f19201fc&chksm=80255922b752d0344dfa41376b9f7836400e461c60e48acbf9dcccef9a23ed47d64056e56919&scene=27#wechat_redirect",
+        "date": "2019-12-24"
+      },
+      {
         "title": "拿不到offer免费学，廖雪峰的“Web 全栈架构师”第16期招生了",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557591&idx=1&sn=5615cda40fab4a42fb91cf7d89e71538&chksm=80255916b752d0003f6cba0cd26b927a4a36830e639a16eab384abb7fad38eb36203f5e74e93&scene=27#wechat_redirect",
         "date": "2019-12-23"
@@ -6898,6 +6918,21 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "20 个 2020 年软件开发趋势预测",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=1&sn=b10d4ac4fcb2f20e0b419b4e1a6fc143&chksm=f952521dce25db0b7bda946e2b70b8be51990bf702c5a392788a83a7361bd681d3acb23aade6&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
+        "title": "​如果 ReasonML 没有 JavaScript 的那些怪癖，你该不该试试它？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=2&sn=7501a9cf096ff44be384d7798d9e0ab2&chksm=f952521dce25db0b50201ea1be596d52d2e0592d6523732f19bc4319049a8cca3e640697343a&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
+        "title": "马上 2020 了，送上一份儿特别的礼物给技术人",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=3&sn=5dc35d810b212376f67975f97d349bc0&chksm=f952521dce25db0bf73c150a2a9b595f2df7037ce927c2d0a78702311f23f5dbda4a4ef53cac&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
       {
         "title": "又是圣诞彩蛋惹的祸？微软在 VS Code 中添加圣诞图标惹争议",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect",

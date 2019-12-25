@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -22,6 +22,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2019-12-25-JS-引擎-V8-发布-v8-版](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=1&sn=fbd143704bcb295fb0cf5c2da27c3d17&chksm=8025592ab752d03ca3a96d99b55406ad6fdf4969ab8053028f815c1c17df7e11752e287e84b4&scene=27#wechat_redirect) 
 - [2019-11-20-Nodejs-之-RPC-协议简介](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557419&idx=2&sn=6179a8cc162f0207a88936b59bfae1a3&chksm=802559eab752d0fcef83c9a3e58f1ada319e48ded667fce6cd066ecfba62462b6448abc44f68&scene=27#wechat_redirect) 
 - [2019-11-17-深入理解-Node.js-进程与线程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557398&idx=1&sn=1fb991da8667f620073bf59701e18697&chksm=802559d7b752d0c1aa5315c33da6d8a2499fadc3428b524a35cba35a597d89676a43c84e9a81&scene=27#wechat_redirect) 
 - [2019-09-25-JS-引擎-V8-如何与-Lite-模式两开花？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557129&idx=2&sn=05755bc2ccdc0545217df10cd1bb3852&chksm=80255ac8b752d3dee36d5b409390459095b6c5ddcd8eccf5e8ca6dbdf74485cd22cc15af2c6c#rd) 
