@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-26 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2019-12-26-【图书】狼书（卷2）：Node.js-Web应用开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect) 
 - [2019-12-17-【第1808期】2019年终云时代的Node-FaaS技术展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235185&idx=1&sn=dcc37bb62921e5ca5de8bdf2bfc1dfeb&chksm=bd497af58a3ef3e3697f261cdccc476051fc63f5f12bc2cd3769701cfab455c262bbc6d632f4&scene=27#wechat_redirect) 
 - [2019-09-28-【第1735期】蚂蚁金服Node.js-基础服务---摸爬滚打才不负功名尘土](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233982&idx=1&sn=de17c2e5f1c23405b645c8b1ec3eaf9e&chksm=bd49473a8a3ece2c85909a89f8d3ab2aaaeb79244421d36c3cc1c6d1b30de6a3ced88730ec43&scene=27#wechat_redirect) 
 - [2019-09-20-前端工程师：掌握了-Node.js-就等于全栈？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233868&idx=1&sn=dde1db24251638b504816fc457758c97&chksm=bd4947c88a3ecede807c4afa337380e24f2be52f232cf74e67290564a8fe02e84f72c4350347&scene=27#wechat_redirect) 
