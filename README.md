@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-26 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-27 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2019-12-26-【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-26-【图书】狼书（卷2）：Node.js-Web应用开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect)  
+- [2019-12-26-【图书】狼书（卷2）：Node.js-Web应用开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect)  
 - [2019-12-25-【第1816期】巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235323&idx=1&sn=4e8ad0692de3ed6d041a340d5cb176bc&chksm=bd497a7f8a3ef369278c433ae1443af30a9ec6ba7202cdb244f1b265eddd8e254d075153ef4b&scene=27#wechat_redirect)  
 - [2019-12-24-拿不到offer免费学，廖雪峰的“Web-全栈架构师”第16期招生了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=1&sn=e93eaf50840acd110f2f8d4940bfa33b&chksm=bd497a758a3ef363c95e6c14e338a015040b2af5d5cd2361c543d49366969d53ab0ef170d8b1&scene=27#wechat_redirect)  
 - [2019-12-24-【第1815期】利用-JS-实现多种图片相似度算法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=2&sn=b048cd119655c218346a6cfbcb6a3676&chksm=bd497a758a3ef3632c43d6d2615a946fade176d3cfd9c2b22e22bd2b10d73deba099b6fb1221&scene=27#wechat_redirect)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2019-12-27-科技爱好者周刊：第-88-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html) ![](assets/new.png)  
 - [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html)  
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)  
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
@@ -207,7 +208,6 @@
 - [2019-11-08-科技爱好者周刊：第-81-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)  
 - [2019-11-03-关于计算机科学的50个误解](http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html)  
 - [2019-11-01-科技爱好者周刊：第-80-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-80.html)  
-- [2019-10-29-你所不知道的-AI-进展](http://www.ruanyifeng.com/blog/2019/10/artificial-intelligenence.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
