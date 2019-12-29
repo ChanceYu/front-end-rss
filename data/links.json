@@ -10535,6 +10535,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Bash 脚本如何创建临时文件：mktemp 命令和 trap 命令教程",
+        "link": "http://www.ruanyifeng.com/blog/2019/12/mktemp.html",
+        "date": "2019-12-29"
+      },
+      {
         "title": "科技爱好者周刊：第 88 期",
         "link": "http://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html",
         "date": "2019-12-27"
