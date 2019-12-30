@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-30 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-31 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -60,6 +60,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2019-12-29-从-React-历史的长河里聊虚拟-DOM-及其价值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557634&idx=1&sn=c574274aead2cee8d16ca472bd0ae659&chksm=802558c3b752d1d565f28bae48abb1d397fbc08b04c74d7108c82030cef49ae4b9b1209ae724&scene=27#wechat_redirect) 
 - [2019-12-27-乾坤大挪移！React-也能-“用上”-computed-属性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=1&sn=18a9e3bc2adb1b527ff482aa3e690ea2&chksm=8025593cb752d02a07cbde1519bad7457109cb8ab966b046d3e6da53e5402165e15c97ff4dad&scene=27#wechat_redirect) 
 - [2019-12-18-性能！！让你的-React-组件跑得再快一点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557566&idx=2&sn=fea4e36daca905123fdf842af946844a&chksm=8025597fb752d069e6c63f8a4268046b7b5810930c2e11f565016716e44226d4aa834af7901c&scene=27#wechat_redirect) 
 - [2019-11-21-React-函数式组件性能优化指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557426&idx=1&sn=e2b6bee7bb8fcc9fdfaed14a82aeb0e8&chksm=802559f3b752d0e59f27d17259ac31c658fd89fe87b2755079ec31c3d8696821226b7eba4bcd&scene=27#wechat_redirect) 
