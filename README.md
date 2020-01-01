@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-01 18:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-01 22:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-31-【第1822期】黑暗模式的过去、现在和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235362&idx=1&sn=1bcc0e25751eaa0c80855266834342be&chksm=bd497da68a3ef4b00291739a61afc0d6911b03c1c10086e3ba9ffb15a2c31974054964e71c11&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect)  
+- [2019-12-31-【第1822期】黑暗模式的过去、现在和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235362&idx=1&sn=1bcc0e25751eaa0c80855266834342be&chksm=bd497da68a3ef4b00291739a61afc0d6911b03c1c10086e3ba9ffb15a2c31974054964e71c11&scene=27#wechat_redirect)  
 - [2019-12-30-【第1821期】前端内存优化的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235351&idx=1&sn=c6cc0d1043a55f4372f539daebed4a6c&chksm=bd497d938a3ef485efb3d8a4f140d2f82009878814666a0147d428d18f887a5c51d15a4de62c&scene=27#wechat_redirect)  
 - [2019-12-29-【第1820期】nohost-—-远程环境配置及抓包调试最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235350&idx=1&sn=57ec2deacd11fd0c61e4c049ea05f6a6&chksm=bd497d928a3ef484dae6931de4bed277201fa0200e84b60650e1d14ffc823a12563af81e47fc&scene=27#wechat_redirect)  
 - [2019-12-28-【第1819期】Web-视频播放前前后后](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235349&idx=1&sn=05431b4121c77e2ea82524f3c19bd0fc&chksm=bd497d918a3ef487afc805cb83487deb824a48ce4bb9f1830df91c616a7c7eeafd8fc2a2a113&scene=27#wechat_redirect)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2019-12-31-如何答一道惊艳面试官的数组去重问题？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557645&idx=1&sn=bf274f9e5cea20b7815478a10704d5d8&chksm=802558ccb752d1da08f9fd5b25c18d508f7e31906e803729ae0bbaa0e778afeef731b67fa601&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-31-如何答一道惊艳面试官的数组去重问题？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557645&idx=1&sn=bf274f9e5cea20b7815478a10704d5d8&chksm=802558ccb752d1da08f9fd5b25c18d508f7e31906e803729ae0bbaa0e778afeef731b67fa601&scene=27#wechat_redirect)  
 - [2019-12-30-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557641&idx=1&sn=23960427eb0476c6b8cfd70b07eee8f6&chksm=802558c8b752d1def774f2a87d748f6e70d7b2aafe57c6ee095a4bf8f51ae9a0d224a33149b8&scene=27#wechat_redirect)  
 - [2019-12-29-从-React-历史的长河里聊虚拟-DOM-及其价值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557634&idx=1&sn=c574274aead2cee8d16ca472bd0ae659&chksm=802558c3b752d1d565f28bae48abb1d397fbc08b04c74d7108c82030cef49ae4b9b1209ae724&scene=27#wechat_redirect)  
 - [2019-12-28-package.json-知多少？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557630&idx=1&sn=25063b23905990b794207b3997ab11ec&chksm=8025593fb752d0294a5fe40e5dde01804da40a03010ae04c0b65d36e8d2a19f1d185836648ec&scene=27#wechat_redirect)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) ![](assets/new.png)  
 - [2019-12-31-Oh-My-God，CSS-flex-basis原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)  
 - [2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/)  
 - [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
@@ -176,7 +177,6 @@
 - [2019-08-30-聊聊JS-DOM变化的监听检测与应用](https://www.zhangxinxu.com/wordpress/2019/08/js-dom-mutation-observer/)  
 - [2019-08-26-JS-URL和URLSearchParams-API接口详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-url-urlsearchparams/)  
 - [2019-08-18-checkValidity等form原生JS验证方法和属性详细介绍](https://www.zhangxinxu.com/wordpress/2019/08/js-checkvalidity-setcustomvalidity/)  
-- [2019-08-17-纯前端JS-zip打包文件并下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

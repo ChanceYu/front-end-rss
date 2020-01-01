@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-01 18:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-01 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【前端早读课】2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect) 
+- [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
