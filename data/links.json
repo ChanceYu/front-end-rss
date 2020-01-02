@@ -3727,6 +3727,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "拿不到offer免费学，廖雪峰的“Web 全栈架构师”开班了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=1&sn=3c327624eb3ce799f779733a559005f6&chksm=802558d9b752d1cf70caaac4691ea083d7fe0cebad5799f1e331c5a95d8c928d2b18de2a9d47&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "Node.js 模块系统源码探微",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=2&sn=a431994c856fb02af099cf7907ce172b&chksm=802558d9b752d1cf75b664166003e4d047d057e1ae31ac00b0a6fdb052da9aaac7b8461d515e&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "2008 至今，Chrome 如何成长为霸主",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect",
+        "date": "2020-01-01"
+      },
+      {
         "title": "如何答一道惊艳面试官的数组去重问题？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557645&idx=1&sn=bf274f9e5cea20b7815478a10704d5d8&chksm=802558ccb752d1da08f9fd5b25c18d508f7e31906e803729ae0bbaa0e778afeef731b67fa601&scene=27#wechat_redirect",
         "date": "2019-12-31"
@@ -10112,6 +10127,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "CSS inherit是继承，那initial和unset呢？",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/",
+        "date": "2020-01-02"
+      },
       {
         "title": "CSS paint-order祝大家元旦快乐",
         "link": "https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/",

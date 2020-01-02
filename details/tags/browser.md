@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-02 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-03 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2020-01-01-2008-至今，Chrome-如何成长为霸主](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect) 
 - [2019-11-22-GitHub-四万星标的-axios！如何写一个像它那样牛叉的请求库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557430&idx=1&sn=c3bb33f915e7ecaebf6f8f816b220fc1&chksm=802559f7b752d0e1403969878338d1070f56d398f8b0e63bf98c14855d7b9140802590dfec97&scene=27#wechat_redirect) 
 - [2019-10-30-Chrome-浏览器垃圾回收机制与内存泄漏分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557313&idx=2&sn=91a96668e31b67a7280788ae713343f1&chksm=80255a00b752d316a7854cf7b65c811103c685ae4e763174279457a17a7b444556622b13c21a&scene=27#wechat_redirect) 
 - [2019-10-23-面试须知：浏览器相关原理详细总结（1）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557282&idx=2&sn=3ff4b60c3563a5b5b0517add35344e92&chksm=80255a63b752d375599d9d23b689b4e9f455f5d7582547630cb025130ab3709afd4d49537f12&scene=27#wechat_redirect) 
