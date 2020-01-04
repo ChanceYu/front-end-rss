@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-04 12:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-04 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -23,7 +23,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-01-04-【第1826期】HTML5-之跨域通讯（postMessage）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=1&sn=21a9fa247aadaaed4fd2bf6f1b59606f&chksm=bd497dc28a3ef4d49d4a46bdfb5e7a7699da631bdc37532655ef96e31e6605b8531fc0031229&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-04-【直播】第三届SEEConf蚂蚁金服体验科技大会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=2&sn=a50c541e3e36c83672429d231be07065&chksm=bd497dc28a3ef4d479524d0e4c0c4b827a313fc1af2c499ea36e735421512fdf4ccfe6891ce8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-04-【第1826期】HTML5-之跨域通讯（postMessage）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=1&sn=21a9fa247aadaaed4fd2bf6f1b59606f&chksm=bd497dc28a3ef4d49d4a46bdfb5e7a7699da631bdc37532655ef96e31e6605b8531fc0031229&scene=27#wechat_redirect)  
+- [2020-01-04-【直播】第三届SEEConf蚂蚁金服体验科技大会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=2&sn=a50c541e3e36c83672429d231be07065&chksm=bd497dc28a3ef4d479524d0e4c0c4b827a313fc1af2c499ea36e735421512fdf4ccfe6891ce8&scene=27#wechat_redirect)  
 - [2020-01-03-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=1&sn=b0c681712fe9a9d08f8e29bc0390c277&chksm=bd497dbf8a3ef4a9d48907ae1f2a64bd9e521a2aca4cf9bed12b021e42a07e9d56241c92dea8&scene=27#wechat_redirect)  
 - [2020-01-03-【第1825期】了解什么是微前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=2&sn=e5bb3b717c894676bc05cfeba50cf6d5&chksm=bd497dbf8a3ef4a9a544c45cc1c75dafd45f7438ced6915abc9bbe5e90e2920b0cecb354741c&scene=27#wechat_redirect)  
 - [2020-01-02-【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect)  
@@ -281,6 +281,7 @@
 </summary>
 
 
+- [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) ![](assets/new.png)  
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)  
 - [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)  
 - [2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)  
@@ -300,7 +301,6 @@
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)  
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
-- [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

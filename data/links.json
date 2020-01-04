@@ -11781,6 +11781,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "GMTC |《小程序跨框架开发的探索与实践》演讲全文",
+        "link": "https://aotu.io/notes/2020/01/02/gmtc/",
+        "date": "2020-01-02"
+      },
+      {
         "title": "羚珑项目自动化测试方案实践",
         "link": "https://aotu.io/notes/2019/12/05/ling-testing-project/",
         "date": "2019-12-05"
