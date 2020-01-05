@@ -10173,6 +10173,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS overscroll-behavior让滚动嵌套时父滚动不触发",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/",
+        "date": "2020-01-05"
+      },
+      {
         "title": "CSS inherit是继承，那initial和unset呢？",
         "link": "https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/",
         "date": "2020-01-02"
