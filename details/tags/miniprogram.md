@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-05 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-05 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-01-05-【第1827期】小程序跨框架开发的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235399&idx=1&sn=6f5bd648ae382994102aae7d1fa965c0&chksm=bd497dc38a3ef4d5e5db335955cd8108da4ec1f176e364666f771e097c8ab8051937f6be202a&scene=27#wechat_redirect) 
 - [2019-12-26-【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect) 
 - [2019-11-05-【视频】小程序工程化探索：大规模场景下的问题和解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234550&idx=2&sn=286a26722aaf6469bfae674813152138&chksm=bd4979728a3ef06468e2909cdc716a1d7869aee36b9dde8e99abc2c9a1f2420192997e70ca69&scene=27#wechat_redirect) 
 - [2019-11-04-【第1765期】微信官方小程序同构新方案Kbone全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234541&idx=1&sn=b77611ecc88ecd2e34293465b5b05d43&chksm=bd4979698a3ef07f9c420a499ba49ebd8ccaf288afabbbe0946a7c3c62f0b184d15efddd09bf&scene=27#wechat_redirect) 
