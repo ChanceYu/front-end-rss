@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-01-06 22:00:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-07 18:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第1829期】复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=2&sn=2060afefc3458a631337b532e82f78cb&chksm=bd497dd28a3ef4c46ac51bd8d1d16598b8794349fddbda4856ceadc4accf62f06dfedb94dcb4&scene=27#wechat_redirect)
 - [【前端早读课】【第1820期】nohost-—-远程环境配置及抓包调试最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235350&idx=1&sn=57ec2deacd11fd0c61e4c049ea05f6a6&chksm=bd497d928a3ef484dae6931de4bed277201fa0200e84b60650e1d14ffc823a12563af81e47fc&scene=27#wechat_redirect)
 - [【前端早读课】【译】WebAssembly-1.0成为W3C推荐标准，也是在浏览器中运行的第四种语言](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=2&sn=7f99891f1c425e6c7de829343408b7d4&chksm=bd497b4c8a3ef25a7141d15cfb7b73c7083e9b84e9b6c73a0964129280e39456ae3590012d83&scene=27#wechat_redirect)
 - [【前端早读课】【第1732期】Google-官方-如何去做code-review](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233896&idx=2&sn=b5071874c2775a02d26139ff79a3e4c5&chksm=bd4947ec8a3ecefaf917172f17b0397a45e4ad6229dc8fcac3cdd096e769ec54c8485836380d#rd)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第1574期】浏览器帧原理剖析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=2&sn=26b93810ab043e64f71f882f35d912c3#rd)
 - [【前端早读课】996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd)
 - [【前端早读课】【第1569期】配置化页面渲染系统设计和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231879&idx=1&sn=aa68dadba7028971caaec9c89fe04be5#rd)
-- [【前端早读课】【第1565期】浏览器中的画中画（Picture-in-Picture）模式及其-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231826&idx=2&sn=0e61312763acb0f7fb027f90f0288d5b#rd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -542,6 +542,7 @@
 
 
 
+- [【前端早读课】拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=1&sn=ed1671d5a5287760fc9c457af7e0cd3e&chksm=bd497dd28a3ef4c47c1d8c707dd0ac39a1e2f83adabc7821fc5370f113d4dd1469b7c70a3771&scene=27#wechat_redirect)
 - [【前端早读课】拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=1&sn=b0c681712fe9a9d08f8e29bc0390c277&chksm=bd497dbf8a3ef4a9d48907ae1f2a64bd9e521a2aca4cf9bed12b021e42a07e9d56241c92dea8&scene=27#wechat_redirect)
 - [【前端早读课】拿不到offer免费学，廖雪峰的“Web-全栈架构师”第16期招生了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=1&sn=e93eaf50840acd110f2f8d4940bfa33b&chksm=bd497a758a3ef363c95e6c14e338a015040b2af5d5cd2361c543d49366969d53ab0ef170d8b1&scene=27#wechat_redirect)
 - [【前端早读课】【第1742期】再谈HTTPS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=1&sn=0c97f58d3dc8b21caabcd1c51e81e1b2&chksm=bd49462d8a3ecf3bc5600761b271e3975bd57b503577f4a848c4e7e8c9d34e6dd11279b0a7ea&scene=27#wechat_redirect)
@@ -561,7 +562,6 @@
 - [【前端早读课】【第1449期】WebAssembly-后-MVP-时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect)
 - [【前端早读课】【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect)
 - [【前端大全】第-4-种-Web-语言来了：WebAssembly：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557676&idx=1&sn=6b9b3b1cb06370159bf7f1954942ff13&chksm=802558edb752d1fb703e77ab5ade7691ed02211d251b3390c9adfae8e04ecb9a4b3379e5383b&scene=27#wechat_redirect)
-- [【前端大全】拿不到offer免费学，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=1&sn=3c327624eb3ce799f779733a559005f6&chksm=802558d9b752d1cf70caaac4691ea083d7fe0cebad5799f1e331c5a95d8c928d2b18de2a9d47&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
