@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-08 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -359,6 +359,7 @@
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html) 
+- [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html) 
 - [2019-10-27-ES6全部特性（看图就能记下，值得收藏）](http://www.yyyweb.com/5321.html) 
 - [2019-10-27-数组去重12种方案（经典面试必问）](http://www.yyyweb.com/5318.html) 
 - [2019-01-13-细说-async/await-相较于-Promise-的优势](http://www.yyyweb.com/5261.html) 
