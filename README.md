@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-08 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-08 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-01-07-一道不一样的前端架构师最终面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=1&sn=f45f78de6cdc70789894800d82a92935&chksm=80255881b752d197a8b5c44e3a8fc1183948e6da829c80fea99ba8ceae7ce3eb5c306765ebcd&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-07-面向对象：一个人最大的幸运就是遇见那个对的人，希望在这里可以遇到Mr.-Right](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=2&sn=031481ac3efa5007f09d7f3412b40b67&chksm=80255881b752d1977a7f39f9f961ed6b1bfcc120adde0e6fc422d1a690e315a968bd9837497f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-07-一道不一样的前端架构师最终面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=1&sn=f45f78de6cdc70789894800d82a92935&chksm=80255881b752d197a8b5c44e3a8fc1183948e6da829c80fea99ba8ceae7ce3eb5c306765ebcd&scene=27#wechat_redirect)  
+- [2020-01-07-面向对象：一个人最大的幸运就是遇见那个对的人，希望在这里可以遇到Mr.-Right](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=2&sn=031481ac3efa5007f09d7f3412b40b67&chksm=80255881b752d1977a7f39f9f961ed6b1bfcc120adde0e6fc422d1a690e315a968bd9837497f&scene=27#wechat_redirect)  
 - [2020-01-06-我会Vue了，面试官还会问我什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557677&idx=1&sn=b9fd9e4ff84325acc770ab8117f9ec60&chksm=802558ecb752d1fa2f98fa24bad9ad16ce9074d716cd20bba5ecd31ede7aa66219638c997b8d&scene=27#wechat_redirect)  
 - [2020-01-06-用-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557677&idx=2&sn=7cb26e52c927d4ef8de97e7e265a8a4b&chksm=802558ecb752d1fa532886c51fa7241e5433d2033386f340d02567ca6187f1d77e8d7b0981e3&scene=27#wechat_redirect)  
 - [2020-01-05-第-4-种-Web-语言来了：WebAssembly：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557676&idx=1&sn=6b9b3b1cb06370159bf7f1954942ff13&chksm=802558edb752d1fb703e77ab5ade7691ed02211d251b3390c9adfae8e04ecb9a4b3379e5383b&scene=27#wechat_redirect)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html) ![](assets/new.png)  
 - [2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)  
 - [2019-12-29-Bash-脚本如何创建临时文件：mktemp-命令和-trap-命令教程](http://www.ruanyifeng.com/blog/2019/12/mktemp.html)  
 - [2019-12-27-科技爱好者周刊：第-88-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html)  
@@ -207,7 +208,6 @@
 - [2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html)  
 - [2019-11-15-科技爱好者周刊：第-82-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)  
 - [2019-11-11-杨安泽的总统竞选](http://www.ruanyifeng.com/blog/2019/11/andrew-yang.html)  
-- [2019-11-08-科技爱好者周刊：第-81-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-81.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
