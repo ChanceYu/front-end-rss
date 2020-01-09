@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "Electron 开发指南：前端人的最佳跨平台解决方案",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=1&sn=d804721aada935a97a124fec6e7f32e8&chksm=bd497de08a3ef4f694d48f527aec9c449c1b562e45e57eb0013205b84411e0dedb448c0c5d84&scene=27#wechat_redirect",
+        "date": "2020-01-09"
+      },
+      {
+        "title": "【第1831期】React团队的技术准则",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=2&sn=7cfa398926f440f9bf32200969a6d96f&chksm=bd497de08a3ef4f658b4fb760f3886e244bbf4e9a01678ae83549b0f5d9bf46b22da3a71a578&scene=27#wechat_redirect",
+        "date": "2020-01-09"
+      },
+      {
         "title": "【第1830期】2019年京东PLUS会员前端开发之路",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect",
         "date": "2020-01-08"
@@ -7123,6 +7133,26 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "前端人的桌面应用利器 Electron，字节跳动、阿里都在用 | 极客时间",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect",
+        "date": "2020-01-09"
+      },
+      {
+        "title": "基于 React 的微前端：Piral 简析",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=2&sn=5bff778b7793ce4d0d9ff8336448b160&chksm=f9525293ce25db85d19dcd0cf5ac4183b74aab6d82786eb33e0f34316b122d8dc9fa6faf3a59&scene=27#wechat_redirect",
+        "date": "2020-01-09"
+      },
+      {
+        "title": "跨平台开发领域老兵：我眼中小程序的当下和未来可能",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "云开发如何解决 Serverless 对端的“最后一公里”问题？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=2&sn=10d11beaa418355441926d60ff892cdc&chksm=f9525288ce25db9e8a97c707464ef072f16b7b0ba016ef6333a635faec24f7199cb9c274fe68&scene=27#wechat_redirect",
+        "date": "2020-01-08"
+      },
       {
         "title": "花了四年迁移到 TypeScript，我们总结出了这些经验教训",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=1&sn=f33d93946962e4dc7c876e6926929e0f&chksm=f9525287ce25db9171789cbcc0dd3700677625dae92088279158ab5eccd17fcf1d1f9e37f553&scene=27#wechat_redirect",

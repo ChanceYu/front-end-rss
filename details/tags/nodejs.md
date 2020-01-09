@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-09 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-01-09-Electron-开发指南：前端人的最佳跨平台解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=1&sn=d804721aada935a97a124fec6e7f32e8&chksm=bd497de08a3ef4f694d48f527aec9c449c1b562e45e57eb0013205b84411e0dedb448c0c5d84&scene=27#wechat_redirect) 
 - [2019-12-26-【图书】狼书（卷2）：Node.js-Web应用开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect) 
 - [2019-12-17-【第1808期】2019年终云时代的Node-FaaS技术展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235185&idx=1&sn=dcc37bb62921e5ca5de8bdf2bfc1dfeb&chksm=bd497af58a3ef3e3697f261cdccc476051fc63f5f12bc2cd3769701cfab455c262bbc6d632f4&scene=27#wechat_redirect) 
 - [2019-09-28-【第1735期】蚂蚁金服Node.js-基础服务---摸爬滚打才不负功名尘土](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233982&idx=1&sn=de17c2e5f1c23405b645c8b1ec3eaf9e&chksm=bd49473a8a3ece2c85909a89f8d3ab2aaaeb79244421d36c3cc1c6d1b30de6a3ced88730ec43&scene=27#wechat_redirect) 
@@ -42,6 +43,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2020-01-09-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect) 
 - [2019-12-22-前端周报：JavaScript-引擎-V8-发布；JavaScript-2019-生态报告出炉；新版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493433&idx=1&sn=0240fcad93dffb5e9b1922f223f6ae21&chksm=f952527ace25db6c25e51375ece3117b3bf95d656372c131e6ad9115cc0b1355612bf9e27ed4&scene=27#wechat_redirect) 
 - [2019-12-02-Node.js在携程的落地和最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493268&idx=1&sn=408ca2dcb6922c9b6b238049dcfa5d38&chksm=f95253d7ce25dac1464f45d22547e4dcf9366c462018b129d7b67df89389a556bb641a7b21cb&scene=27#wechat_redirect) 
 - [2019-10-27-前端周报：Node-13发布；TS-3.7支持可选链；5G人才供不应求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492893&idx=1&sn=d1540836d9dd31d54595f63a9b1631c7&chksm=f952505ece25d94888b8e2c88911c957b011c5d38f8a40c25b3687d322f891ca4b37b5478ffe&scene=27#wechat_redirect) 

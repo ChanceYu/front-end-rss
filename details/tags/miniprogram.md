@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-09 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -44,6 +44,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect) 
 - [2019-12-06-小程序时代：如何开发一款高性能、跨平台的小程序？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493305&idx=2&sn=518bb6524d9fbe094602f7243acb3457&chksm=f95253face25daeca3976626f86ab36f44e37c057555bd690d936eaa3a7647956cdfcfb020ef&scene=27#wechat_redirect) 
 - [2019-12-04-大前端年终总结：Flutter、小程序、工程化等技术趋势解析-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493293&idx=1&sn=6751d6c8702283484f52bf8d17227641&chksm=f95253eece25daf886a6d611cdb4257be723db965a516eb33f2409726b9db4cf37a68583be6d&scene=27#wechat_redirect) 
 - [2019-11-26-百度开源小程序框架的架构演进](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493212&idx=2&sn=82c3f5bc3bb22d1f6a70809402e5dbd4&chksm=f952531fce25da094741de2e4633bf197ef829ba4f7e7b2b6628c4c3781785fc1390606bcc83&scene=27#wechat_redirect) 
