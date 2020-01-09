@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-01-04 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 22:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Aotu-|-凹凸实验室
 
 
 
 
+- [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
 - [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) 

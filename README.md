@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-09 18:00:27，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-09 22:00:33，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-01-09-Electron-开发指南：前端人的最佳跨平台解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=1&sn=d804721aada935a97a124fec6e7f32e8&chksm=bd497de08a3ef4f694d48f527aec9c449c1b562e45e57eb0013205b84411e0dedb448c0c5d84&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-09-【第1831期】React团队的技术准则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=2&sn=7cfa398926f440f9bf32200969a6d96f&chksm=bd497de08a3ef4f658b4fb760f3886e244bbf4e9a01678ae83549b0f5d9bf46b22da3a71a578&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-09-Electron-开发指南：前端人的最佳跨平台解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=1&sn=d804721aada935a97a124fec6e7f32e8&chksm=bd497de08a3ef4f694d48f527aec9c449c1b562e45e57eb0013205b84411e0dedb448c0c5d84&scene=27#wechat_redirect)  
+- [2020-01-09-【第1831期】React团队的技术准则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=2&sn=7cfa398926f440f9bf32200969a6d96f&chksm=bd497de08a3ef4f658b4fb760f3886e244bbf4e9a01678ae83549b0f5d9bf46b22da3a71a578&scene=27#wechat_redirect)  
 - [2020-01-08-【第1830期】2019年京东PLUS会员前端开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect)  
 - [2020-01-08-【招聘】北京美团金融服务平台招中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=2&sn=066eb463f556f8736dd8f6cbb0a2d2b3&chksm=bd497dda8a3ef4cc325df9049ce3e2b8c932c66b11e4c17158a092f4344d25e3cfa324ad0f1b&scene=27#wechat_redirect)  
 - [2020-01-07-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=1&sn=ed1671d5a5287760fc9c457af7e0cd3e&chksm=bd497dd28a3ef4c47c1d8c707dd0ac39a1e2f83adabc7821fc5370f113d4dd1469b7c70a3771&scene=27#wechat_redirect)  
@@ -95,10 +95,10 @@
 </summary>
 
 
-- [2020-01-09-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-09-基于-React-的微前端：Piral-简析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=2&sn=5bff778b7793ce4d0d9ff8336448b160&chksm=f9525293ce25db85d19dcd0cf5ac4183b74aab6d82786eb33e0f34316b122d8dc9fa6faf3a59&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-08-云开发如何解决-Serverless-对端的“最后一公里”问题？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=2&sn=10d11beaa418355441926d60ff892cdc&chksm=f9525288ce25db9e8a97c707464ef072f16b7b0ba016ef6333a635faec24f7199cb9c274fe68&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-09-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect)  
+- [2020-01-09-基于-React-的微前端：Piral-简析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=2&sn=5bff778b7793ce4d0d9ff8336448b160&chksm=f9525293ce25db85d19dcd0cf5ac4183b74aab6d82786eb33e0f34316b122d8dc9fa6faf3a59&scene=27#wechat_redirect)  
+- [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect)  
+- [2020-01-08-云开发如何解决-Serverless-对端的“最后一公里”问题？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=2&sn=10d11beaa418355441926d60ff892cdc&chksm=f9525288ce25db9e8a97c707464ef072f16b7b0ba016ef6333a635faec24f7199cb9c274fe68&scene=27#wechat_redirect)  
 - [2020-01-07-花了四年迁移到-TypeScript，我们总结出了这些经验教训](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=1&sn=f33d93946962e4dc7c876e6926929e0f&chksm=f9525287ce25db9171789cbcc0dd3700677625dae92088279158ab5eccd17fcf1d1f9e37f553&scene=27#wechat_redirect)  
 - [2020-01-07-快速掌握-10-个-HTML5-必备技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=2&sn=b5c2719536886c6409feb6a5c31276e4&chksm=f9525287ce25db9129b8c60bf004b2cd747cff4e15ed0cefa7bb79f1c7769abd2facc2190c06&scene=27#wechat_redirect)  
 - [2020-01-07-华为快速应用迁移与调优的秘诀是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=3&sn=bc56ca9de755afdc5210c350a6ee2a32&chksm=f9525287ce25db91e7a52181575e9d8deee3a9e38a1c71efdf4c054db591ef361611f3db5b8d&scene=27#wechat_redirect)  
@@ -281,6 +281,7 @@
 </summary>
 
 
+- [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) ![](assets/new.png)  
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)  
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)  
 - [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)  
@@ -300,7 +301,6 @@
 - [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)  
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)  
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
-- [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
