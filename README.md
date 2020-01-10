@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-09 22:00:33，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-10 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,10 +20,10 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
 
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html) ![](assets/new.png)  
 - [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)  
 - [2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)  
 - [2019-12-29-Bash-脚本如何创建临时文件：mktemp-命令和-trap-命令教程](http://www.ruanyifeng.com/blog/2019/12/mktemp.html)  
@@ -207,7 +208,6 @@
 - [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html)  
 - [2019-11-17-容错，高可用和灾备](http://www.ruanyifeng.com/blog/2019/11/fault-tolerance.html)  
 - [2019-11-15-科技爱好者周刊：第-82-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-82.html)  
-- [2019-11-11-杨安泽的总统竞选](http://www.ruanyifeng.com/blog/2019/11/andrew-yang.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,7 +281,7 @@
 </summary>
 
 
-- [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) ![](assets/new.png)  
+- [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)  
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)  
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)  
 - [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)  
