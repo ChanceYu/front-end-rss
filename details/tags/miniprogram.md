@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-10 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-11 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-01-11-【招聘】百度智能小程序大前端部门招聘大量Web前端工程师，社招岗位及实习岗位均开放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=2&sn=14a8d454069f0a3dcfd0046f0f74eb9a&chksm=bd497df38a3ef4e5ec09f87bd28bde737f636490ff4649b85677fb759f006a576e0f083af34a&scene=27#wechat_redirect) 
 - [2020-01-05-【第1827期】小程序跨框架开发的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235399&idx=1&sn=6f5bd648ae382994102aae7d1fa965c0&chksm=bd497dc38a3ef4d5e5db335955cd8108da4ec1f176e364666f771e097c8ab8051937f6be202a&scene=27#wechat_redirect) 
 - [2019-12-26-【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect) 
 - [2019-11-05-【视频】小程序工程化探索：大规模场景下的问题和解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234550&idx=2&sn=286a26722aaf6469bfae674813152138&chksm=bd4979728a3ef06468e2909cdc716a1d7869aee36b9dde8e99abc2c9a1f2420192997e70ca69&scene=27#wechat_redirect) 
