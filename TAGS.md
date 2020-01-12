@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-01-11 18:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -218,6 +218,8 @@
 
 
 
+- [【前端早读课】【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect)
+- [【前端早读课】Taro-2.0：拥抱社区，拥抱变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=2&sn=072fd65d3b2c68d7f1726fae004afbe1&chksm=bd497d018a3ef417684044c69a17d88fc106ba6112fda36de774f7f1b27266882b0998913567&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】百度智能小程序大前端部门招聘大量Web前端工程师，社招岗位及实习岗位均开放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=2&sn=14a8d454069f0a3dcfd0046f0f74eb9a&chksm=bd497df38a3ef4e5ec09f87bd28bde737f636490ff4649b85677fb759f006a576e0f083af34a&scene=27#wechat_redirect)
 - [【前端早读课】【第1827期】小程序跨框架开发的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235399&idx=1&sn=6f5bd648ae382994102aae7d1fa965c0&chksm=bd497dc38a3ef4d5e5db335955cd8108da4ec1f176e364666f771e097c8ab8051937f6be202a&scene=27#wechat_redirect)
 - [【前端早读课】【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect)
@@ -236,8 +238,6 @@
 - [【前端早读课】【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd)
 - [【前端早读课】【第1551期】编写chameleon跨端组件的正确姿势](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231662&idx=1&sn=a14ce01550f3a589855b499a52100c38#rd)
 - [【前端早读课】【第1531期】阿里云ARMS推出小程序监控](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231466&idx=1&sn=5c7a91fd96cbf8a7ce82363832407b91#wechat_redirect)
-- [【前端早读课】【第1526期】Gitter---高颜值GitHub小程序客户端诞生记](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231376&idx=2&sn=73d8ddc0b27c8a7f15d86d9e3f44d02b#wechat_redirect)
-- [【前端早读课】【第1521期】Chameleon跨端框架—一个理想主义团队的开源作品](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=1&sn=f4b342d81c4bd4b0f09f4cd491d3a90a#wechat_redirect)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

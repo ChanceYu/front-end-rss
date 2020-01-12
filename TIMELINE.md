@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-11 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-01-12-【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect) 
+- [【前端早读课】2020-01-12-Taro-2.0：拥抱社区，拥抱变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=2&sn=072fd65d3b2c68d7f1726fae004afbe1&chksm=bd497d018a3ef417684044c69a17d88fc106ba6112fda36de774f7f1b27266882b0998913567&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-11-【第1833期】“云”端的语雀：用-JavaScript-全栈打造商业级应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=1&sn=286efdd05289a58962dcf48963054a69&chksm=bd497df38a3ef4e57dcbf1dd92f9ce4cd379ed1295ce612ebf855fe30e0462267afacbed3d01&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-11-【招聘】百度智能小程序大前端部门招聘大量Web前端工程师，社招岗位及实习岗位均开放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=2&sn=14a8d454069f0a3dcfd0046f0f74eb9a&chksm=bd497df38a3ef4e5ec09f87bd28bde737f636490ff4649b85677fb759f006a576e0f083af34a&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-10-【第1832期】从敲下一行JS代码到这行代码被执行，中间发生了什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=1&sn=b433c67cc7c79e768ee82e20cb925187&chksm=bd497df48a3ef4e2b912612af8b614f41a389826362225c8d67e946e863bded931eaa355d45d&scene=27#wechat_redirect) 
@@ -156,6 +158,7 @@
 - [【前端大全】2020-01-02-拿不到offer免费学，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=1&sn=3c327624eb3ce799f779733a559005f6&chksm=802558d9b752d1cf70caaac4691ea083d7fe0cebad5799f1e331c5a95d8c928d2b18de2a9d47&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-02-Node.js-模块系统源码探微](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=2&sn=a431994c856fb02af099cf7907ce172b&chksm=802558d9b752d1cf75b664166003e4d047d057e1ae31ac00b0a6fdb052da9aaac7b8461d515e&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-01-2008-至今，Chrome-如何成长为霸主](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect) 
+- [【前端之巅】2020-01-12-前端周报：C语言获2019年度最佳编程语言称号，Swift稳居TOP10榜单；微软数据库漏洞或使8.](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493597&idx=1&sn=a0d3dfd687e99f6f5d69600abb8431f3&chksm=f952529ece25db8876f39175c0a6004d9555111c53f58c0714caa6e2debedaa6f2da99a72755&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-10-Serverless-与前端工程化结合：让项目-5-分钟上线成为可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=1&sn=4868afc174d84f4cd65bb59adf9c2a37&chksm=f952529ace25db8c0ac2898885e39ebe9577b51e647b05ce7311904bc845a8d3088eea84226d&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-10-使用-WebAssembly-的网站中有-50%-将其用于恶意目的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=2&sn=6e2802787d3dd237b87218f8a91d5417&chksm=f952529ace25db8c2c8337c20ff6d7090c0f2a808a6112e5a8f2ab1ae61b8ea389be2098cfea&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-10-寒冬中的中国互联网，为什么花钱砸研发的公司都不会觉得冷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=3&sn=4eb321cf00188a909bdefee1d15b4319&chksm=f952529ace25db8cda114651af0f6b092890c58e3cd8db5f8b30c6ad097513e3f30217e8e6a2&scene=27#wechat_redirect) 
