@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-12 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -19,6 +19,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2020-01-12-如何进行-web-性能监控](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557717&idx=1&sn=0da018e3e7b3b7fe065673f7f4e6f0f1&chksm=80255894b752d1823dd0c1c75199e842511ebb82abcf6426ecfaa8b8409f6b92e1ea2ee74845&scene=27#wechat_redirect) 
 - [2020-01-03-从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557661&idx=1&sn=56b82dd94e719188dbec7e543c537976&chksm=802558dcb752d1cab16eca4c5fbff05c69ba4a7ac712d1e6987189cb04174f2dc8d1ffc96b3a&scene=27#wechat_redirect) 
 - [2019-12-03-网易云音乐前端性能监控实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557495&idx=1&sn=54215ea99470fed0f1457476435fe98b&chksm=802559b6b752d0a096d0512f57802afbe0aa31c7d62e68a07de3fd1bf1cd0265def7f23b48b2&scene=27#wechat_redirect) 
 - [2019-11-15-移动端体验优化经验总结与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557392&idx=1&sn=8803d7052575f09e18d5076ee6ba49ae&chksm=802559d1b752d0c701825497ce2defb2135e7e4d70014d7f95cc155d4050d921419813ccf57f&scene=27#wechat_redirect) 
