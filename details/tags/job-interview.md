@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-14 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -120,6 +120,7 @@
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) 
 - [2018-09-27-【招聘】天猫-IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
+- [2020-01-14-面试常考手写代码学习技巧总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=2&sn=252c3f2a20d0a72019e7883554e399d0&chksm=802558a3b752d1b5345df71b30464b3b649c003e2c4e09718ab1c747d546b2e2df23e68378f2&scene=27#wechat_redirect) 
 - [2020-01-07-一道不一样的前端架构师最终面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=1&sn=f45f78de6cdc70789894800d82a92935&chksm=80255881b752d197a8b5c44e3a8fc1183948e6da829c80fea99ba8ceae7ce3eb5c306765ebcd&scene=27#wechat_redirect) 
 - [2020-01-04-十几道含答案的大厂面试题总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557665&idx=1&sn=d0161449162015b944b3067a52e996ea&chksm=802558e0b752d1f638aa6a4d081b590a443c3dad86d822315e3919b8849aa195e11aaa05e3c4&scene=27#wechat_redirect) 
 - [2019-11-20-2020-年前端面试必考点，你必须看看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557419&idx=1&sn=fc8464317735fb5ccd9a6afcf21a98d2&chksm=802559eab752d0fc689a50307931438236f858aafa7794b1b5a641c3eee377cbe1f2a21f004b&scene=27#wechat_redirect) 
