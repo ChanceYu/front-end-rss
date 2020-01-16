@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1838期】TypeScript 3.8 Beta",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect",
+        "date": "2020-01-16"
+      },
+      {
         "title": "【第1837期】未来可期的TypeScript",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect",
         "date": "2020-01-15"
@@ -3832,6 +3837,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "手把手教你写几个实用的 AST 插件",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557736&idx=1&sn=938034e4a389d0091e5ac8bd6aebd99a&chksm=802558a9b752d1bfb0cfa68cdab52d571e522dcab2f88762f829519060c2064f8219b86e2143&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
         "title": "前端越来越后端化，工程化？2020年你到底需要注意些什么？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=1&sn=591e710960967fad76a970754070b82f&chksm=802558a3b752d1b5cfb657b6ffe56bf5b2f5afd06e2ea6d3cee40b5d1153a03d5207b113374d&scene=27#wechat_redirect",
         "date": "2020-01-14"
@@ -7228,6 +7238,26 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "从jQuery到Serverless，前端十四年挖了多少坑？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=1&sn=73a8b2cb5ee95cf5f1dc284eb005f4f9&chksm=f95252b6ce25dba03d8e620a3557d0d5272fcd2341a9bbce39e913f4ad95dabcefb7e33c6e81&scene=27#wechat_redirect",
+        "date": "2020-01-16"
+      },
+      {
+        "title": "16 个好用的 Code Review 工具",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=2&sn=f1ee140581b07f7bd19481a8bcbcabeb&chksm=f95252b6ce25dba0cd863a50be882ae80c5c84e55833763e207a0f4f3d5e8b655ad5d8d7752f&scene=27#wechat_redirect",
+        "date": "2020-01-16"
+      },
+      {
+        "title": "尤雨溪 VueConf 演讲：Vue 3.0 的新特性和设计理念",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493615&idx=1&sn=45de083cf095913ef2d7c365afbe60ca&chksm=f95252acce25dbba0d7235195925f1ed776c115113d70085f59276dc9005474acda7d8cfdf9c&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "等几年，再用新框架",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493615&idx=2&sn=ac096a612364aa38c11c91507b00d1f1&chksm=f95252acce25dbbaaf106f65a65ca12037958eb5fd726827acb7ebfb000d93d2cf9d5182c5d6&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
       {
         "title": "未来有望干掉 Python 和 JavaScript 的编程语言",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493609&idx=1&sn=23c02b04194c02c96b629d58228432f6&chksm=f95252aace25dbbc832aa29f4ebc09e2b6bd078ac20c153f7f0ed0ea0fb5320b08e7164482e1&scene=27#wechat_redirect",

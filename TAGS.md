@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-01-15 18:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-16 18:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【前端早读课】【第1838期】TypeScript-3.8-Beta](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect)
 - [【前端早读课】【第1837期】未来可期的TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect)
 - [【前端早读课】【第1779期】使用TypeScript两年后,值得吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234669&idx=1&sn=ce960d1dd78c71574d5207c31af986b8&chksm=bd4978e98a3ef1ffc458e54fcd1e66a769f1ede138de9cdd70c9173e507b84eb1ee286b76eaf&scene=27#wechat_redirect)
 - [【前端早读课】【第1778期】-TypeScript：拥有超能力的-JavaScript（下）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=1&sn=5ea93a5ed9669569da13406ea021a068&chksm=bd4978ef8a3ef1f9cbc0480efc9fb14e29da4da4835b8e37f164fb1a87da14346adb9c55c7b9&scene=27#wechat_redirect)
@@ -129,7 +130,6 @@
 - [【前端大全】增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd)
 - [【前端之巅】花了四年迁移到-TypeScript，我们总结出了这些经验教训](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=1&sn=f33d93946962e4dc7c876e6926929e0f&chksm=f9525287ce25db9171789cbcc0dd3700677625dae92088279158ab5eccd17fcf1d1f9e37f553&scene=27#wechat_redirect)
 - [【前端之巅】重磅！TypeScript-3.7-RC发布，备受瞩目的Optional-Chaining来了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492887&idx=1&sn=64588db6c5e77b171f3e96c3f40ddec5&chksm=f9525054ce25d942ccbceb1feb63514587c3ef9f355e6c002bff3afb769d3b1da1ad4ac77255&scene=27#wechat_redirect)
-- [【前端之巅】TypeScript-3.6正式发布！类声明中的constructor方法为构造函数、关键字不能包含转义序列](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492346&idx=2&sn=faf8eff4d5f41bab3640bc7270e3cbbf&chksm=f95257b9ce25deafa87fcee284fa71e8a96448b0bbf155c05d56f32649924a7e6cfce7abf78d#rd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -561,7 +561,7 @@
 - [【前端早读课】【第1461期】平庸前端码农之蜕变-—-AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect)
 - [【前端早读课】【第1449期】WebAssembly-后-MVP-时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect)
 - [【前端早读课】【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect)
-- [【前端大全】拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=1&sn=d933c86124898f20768f875639037128&chksm=80255880b752d19601e7d012883d750569506bc5a2400c13f2d645e34a2b9b273195e113ca1e&scene=27#wechat_redirect)
+- [【前端大全】手把手教你写几个实用的-AST-插件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557736&idx=1&sn=938034e4a389d0091e5ac8bd6aebd99a&chksm=802558a9b752d1bfb0cfa68cdab52d571e522dcab2f88762f829519060c2064f8219b86e2143&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
