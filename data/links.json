@@ -10985,6 +10985,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "我对中国科技行业的看法（译文）",
+        "link": "http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html",
+        "date": "2020-01-16"
+      },
+      {
         "title": "FFmpeg 视频处理入门教程",
         "link": "http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html",
         "date": "2020-01-14"
