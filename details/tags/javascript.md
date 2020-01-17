@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-17 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-18 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -322,6 +322,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](https://fed.taobao.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](https://fed.taobao.org/blog/2017/12/07/machine-learning/) 
+- [2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/) 
 - [2020-01-05-CSS-overscroll-behavior让滚动嵌套时父滚动不触发](https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/) 
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/) 
 - [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/) 

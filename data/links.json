@@ -10483,6 +10483,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何使用JS把相对地址变成绝对地址？",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/",
+        "date": "2020-01-17"
+      },
+      {
         "title": "CSS any-hover any-pointer media查询与交互体验提升",
         "link": "https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/",
         "date": "2020-01-17"
