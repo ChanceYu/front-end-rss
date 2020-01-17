@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-17 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-17 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端早读课】2020-01-17-【第1839期】微保大型小程序的工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-16-【第1838期】TypeScript-3.8-Beta](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-15-【第1837期】未来可期的TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-14-【第1836期】Remax---使用-React-开发小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235473&idx=1&sn=43f3b7b908cbfabe5c608b00282a0a56&chksm=bd497d158a3ef40373115d34d5b67f5c6e2f55adc893ff631fd743e7a96fe982ad4c6c48825e&scene=27#wechat_redirect) 
@@ -203,6 +204,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-01-05-CSS-overscroll-behavior让滚动嵌套时父滚动不触发](https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-02-CSS-inherit是继承，那initial和unset呢？](https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
+- [【阮一峰的网络日志】2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html) 
 - [【阮一峰的网络日志】2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html) 
 - [【阮一峰的网络日志】2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html) 
 - [【阮一峰的网络日志】2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html) 

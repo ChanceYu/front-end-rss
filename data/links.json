@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1839期】微保大型小程序的工程化实践",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect",
+        "date": "2020-01-17"
+      },
+      {
         "title": "【第1838期】TypeScript 3.8 Beta",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect",
         "date": "2020-01-16"
@@ -10989,6 +10994,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 91 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html",
+        "date": "2020-01-17"
+      },
       {
         "title": "我对中国科技行业的看法（译文）",
         "link": "http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html",
