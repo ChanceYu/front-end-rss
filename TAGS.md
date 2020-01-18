@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-01-18 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-18 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -434,6 +434,7 @@
 
 
 
+- [【前端早读课】【视频】蚂蚁@有知:标准微前端架构在蚂蚁的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235584&idx=2&sn=16579589083a19fd467561322159fe0f&chksm=bd497c848a3ef592f3456b41130f9345c71a440bd9ed160113473c0f463a04a5dfde06fc5630&scene=27#wechat_redirect)
 - [【前端早读课】【直播】第三届SEEConf蚂蚁金服体验科技大会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=2&sn=a50c541e3e36c83672429d231be07065&chksm=bd497dc28a3ef4d479524d0e4c0c4b827a313fc1af2c499ea36e735421512fdf4ccfe6891ce8&scene=27#wechat_redirect)
 - [【前端早读课】【第1819期】Web-视频播放前前后后](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235349&idx=1&sn=05431b4121c77e2ea82524f3c19bd0fc&chksm=bd497d918a3ef487afc805cb83487deb824a48ce4bb9f1830df91c616a7c7eeafd8fc2a2a113&scene=27#wechat_redirect)
 - [【前端早读课】【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect)
@@ -453,7 +454,6 @@
 - [【前端早读课】【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect)
 - [【前端早读课】【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect)
 - [【前端之巅】前端代码是怎样智能生成的-图像分离篇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493562&idx=2&sn=f7f7c0952ce807753f36c210364a833a&chksm=f95252f9ce25dbef2f0297bc4cabacf7dbc06098abc6f32b4f0fbd728716b1d178bb7b76d15d&scene=27#wechat_redirect)
-- [【前端之巅】腾讯在线教育的Web音视频架构方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=2&sn=d0627948f62c0a67c8824ffb72fce8aa&chksm=f95253dcce25dacacc3607d0965e2f40465974cfc2af909cb8f303305d4291f79f5670231254&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -718,6 +718,7 @@
 
 
 
+- [【前端早读课】【第1840期】标准微前端架构在蚂蚁的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235584&idx=1&sn=90e56a44630f79c25db433ef2b64699c&chksm=bd497c848a3ef592a91f58566938ba38cd391d3e5fd2a63ec0edabee0ff5c083be9573fb7ef1&scene=27#wechat_redirect)
 - [【前端早读课】【第1830期】2019年京东PLUS会员前端开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect)
 - [【前端早读课】【第1828期】种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235405&idx=1&sn=6da042f4b37c4159b35f3175d7518a6d&chksm=bd497dc98a3ef4df1ff480d1a6a602c160cf577b965c2294bb05e512135e158d7e5930bd1576&scene=27#wechat_redirect)
 - [【前端早读课】【第1825期】了解什么是微前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=2&sn=e5bb3b717c894676bc05cfeba50cf6d5&chksm=bd497dbf8a3ef4a9a544c45cc1c75dafd45f7438ced6915abc9bbe5e90e2920b0cecb354741c&scene=27#wechat_redirect)
@@ -737,7 +738,6 @@
 - [【前端早读课】【第1801期】高德APP全链路源码依赖分析工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=2&sn=792465774afcc05276c0985ee6324299&chksm=bd497b598a3ef24f77729cf15e68d54dc146683dd5a686bdebeb3c371d02ff9a827c7a790db3&scene=27#wechat_redirect)
 - [【前端早读课】【第1800期】利用过渡动效打造沉浸式的体验-—【Web篇】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=1&sn=d3b0758fc38147ad4829cb463e44d7bd&chksm=bd497b4e8a3ef2586127dcdbf46f6beaace886c148f4058135cd339abba11ecf40793cfbc963&scene=27#wechat_redirect)
 - [【前端早读课】【英】产品思维-vs-项目思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=2&sn=6b2b8aed900741a91b0e49322d5cbe08&chksm=bd497b4e8a3ef2580c555df3a0fcd1bba21fb3ae72136d19318bfb796372b67fe5cd0089cef0&scene=27#wechat_redirect)
-- [【前端早读课】【译】前端开发技能是否足以胜任一份职业?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=2&sn=5a96bd7eb4817a570a1795060473803f&chksm=bd497b288a3ef23e3fbcfdbe272e11591fb13e2160e373443e253ecc9980ee31c38e60f78724&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
