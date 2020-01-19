@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-01-18 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-19 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-01-19-【第1841期】Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235595&idx=1&sn=85619a71bdb2b8d64ba275ddac917eca&chksm=bd497c8f8a3ef5999065daa00ef242841f6200fd9da449565d2b665cab37f0d4affbd153f704&scene=27#wechat_redirect) 
 - [2020-01-18-【第1840期】标准微前端架构在蚂蚁的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235584&idx=1&sn=90e56a44630f79c25db433ef2b64699c&chksm=bd497c848a3ef592a91f58566938ba38cd391d3e5fd2a63ec0edabee0ff5c083be9573fb7ef1&scene=27#wechat_redirect) 
 - [2020-01-08-【第1830期】2019年京东PLUS会员前端开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect) 
 - [2020-01-06-【第1828期】种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235405&idx=1&sn=6da042f4b37c4159b35f3175d7518a6d&chksm=bd497dc98a3ef4df1ff480d1a6a602c160cf577b965c2294bb05e512135e158d7e5930bd1576&scene=27#wechat_redirect) 

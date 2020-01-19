@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-18 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-19 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-01-19-SpriteJS的3D渲染能力-Up,-Up,-Up!](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235595&idx=2&sn=237176689332aeb978a72fa96658a9a3&chksm=bd497c8f8a3ef599f0c5aec58acf7078a42aee571429eaf9ed72f652659fe8e5c43a80c494a2&scene=27#wechat_redirect) 
 - [2020-01-11-【第1833期】“云”端的语雀：用-JavaScript-全栈打造商业级应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=1&sn=286efdd05289a58962dcf48963054a69&chksm=bd497df38a3ef4e57dcbf1dd92f9ce4cd379ed1295ce612ebf855fe30e0462267afacbed3d01&scene=27#wechat_redirect) 
 - [2020-01-10-【第1832期】从敲下一行JS代码到这行代码被执行，中间发生了什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=1&sn=b433c67cc7c79e768ee82e20cb925187&chksm=bd497df48a3ef4e2b912612af8b614f41a389826362225c8d67e946e863bded931eaa355d45d&scene=27#wechat_redirect) 
 - [2020-01-04-【第1826期】HTML5-之跨域通讯（postMessage）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=1&sn=21a9fa247aadaaed4fd2bf6f1b59606f&chksm=bd497dc28a3ef4d49d4a46bdfb5e7a7699da631bdc37532655ef96e31e6605b8531fc0031229&scene=27#wechat_redirect) 
