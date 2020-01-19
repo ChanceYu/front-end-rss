@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-19 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-19 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,6 +152,7 @@
 - [【前端早读课】2020-01-02-【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-02-2020，前端早读课的朋友](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=2&sn=f01522b348502efaa337284624b69222&chksm=bd497db48a3ef4a2b6fca2590f001d15c3013514d9f21e41c3ea9f6799caf241041f26164d79&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect) 
+- [【前端大全】2020-01-18-前端性能优化之自定义性能指标及上报方法详解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-17-2020-大前端冲刺大厂面试题必备（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557747&idx=1&sn=f81a5a43a2cb50b8b02f493775a707d3&chksm=802558b2b752d1a4b972854bcf70a118e011ffe15cdfebc21ec83d542de115b959904f7e4e63&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-16-12小时删！好“特殊”的资源，全网独此一份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=1&sn=d411226e5348080f55419409de7b0157&chksm=802558adb752d1bba3eb1d2096f5727e71e397f5028f9238fa35eea9f5a62300dac14b2027c7&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-16-图文并茂，为你揭开“单点登录“的神秘面纱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=2&sn=e2ad1c71c0829bcae4fe4a4693bc8414&chksm=802558adb752d1bb8194168c776d84ea4545bada201e58efa5fa12a4be4b5ff63958bf28a8f6&scene=27#wechat_redirect) 
