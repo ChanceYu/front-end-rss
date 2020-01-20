@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-20 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-20 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect)  
 - [2020-01-18-前端性能优化之自定义性能指标及上报方法详解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect)  
 - [2020-01-17-2020-大前端冲刺大厂面试题必备（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557747&idx=1&sn=f81a5a43a2cb50b8b02f493775a707d3&chksm=802558b2b752d1a4b972854bcf70a118e011ffe15cdfebc21ec83d542de115b959904f7e4e63&scene=27#wechat_redirect)  
 - [2020-01-16-12小时删！好“特殊”的资源，全网独此一份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=1&sn=d411226e5348080f55419409de7b0157&chksm=802558adb752d1bba3eb1d2096f5727e71e397f5028f9238fa35eea9f5a62300dac14b2027c7&scene=27#wechat_redirect)  
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect)  
 - [2020-01-17-GraphQL：API-的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect)  
 - [2020-01-17-沃尔玛如何使用-React-Native-开发-iOS-和-Android-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=2&sn=af8447b198338396d79dcde3d6cc1306&chksm=f95252b8ce25dbae2d890ea6e9579221cd29c937afb451c9cdfce11ff731d3aab77ec22a6ac8&scene=27#wechat_redirect)  
 - [2020-01-16-从jQuery到Serverless，前端十四年挖了多少坑？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=1&sn=73a8b2cb5ee95cf5f1dc284eb005f4f9&chksm=f95252b6ce25dba03d8e620a3557d0d5272fcd2341a9bbce39e913f4ad95dabcefb7e33c6e81&scene=27#wechat_redirect)  
@@ -219,6 +219,7 @@
 </summary>
 
 
+- [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html) ![](assets/new.png)  
 - [2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html)  
 - [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html)  
 - [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html)  
@@ -238,7 +239,6 @@
 - [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html)  
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html)  
 - [2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)  
-- [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

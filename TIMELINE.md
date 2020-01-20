@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-20 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-20 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -224,6 +224,7 @@
 - [【阮一峰的网络日志】2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html) 
 - [【阮一峰的网络日志】2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html) 
 - [【阮一峰的网络日志】2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html) 
+- [【前端里】2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html) 
 - [【前端里】2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html) 
 - [【前端里】2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html) 
 - [【Aotu-|-凹凸实验室】2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
