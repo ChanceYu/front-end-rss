@@ -10201,6 +10201,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "当 SSR  遇上 Serverless，轻松实现页面瞬开",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker",
+        "date": "2020-01-19"
+      },
+      {
         "title": "iceworks: 从 GUI 开发工具到集成研发工作台",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/icework-v1-to-v2",
         "date": "2019-12-04"
