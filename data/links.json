@@ -3862,6 +3862,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "前端安全：你必须要注意的依赖安全漏洞",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect",
+        "date": "2020-01-19"
+      },
+      {
         "title": "前端性能优化之自定义性能指标及上报方法详解",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect",
         "date": "2020-01-18"
@@ -7283,6 +7288,11 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect",
+        "date": "2020-01-19"
+      },
       {
         "title": "GraphQL：API 的未来",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect",

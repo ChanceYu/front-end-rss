@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-20 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-20 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -353,6 +353,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect) 
 - [2020-01-15-等几年，再用新框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493615&idx=2&sn=ac096a612364aa38c11c91507b00d1f1&chksm=f95252acce25dbbaaf106f65a65ca12037958eb5fd726827acb7ebfb000d93d2cf9d5182c5d6&scene=27#wechat_redirect) 
 - [2020-01-12-前端周报：C语言获2019年度最佳编程语言称号，Swift稳居TOP10榜单；微软数据库漏洞或使8.](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493597&idx=1&sn=a0d3dfd687e99f6f5d69600abb8431f3&chksm=f952529ece25db8876f39175c0a6004d9555111c53f58c0714caa6e2debedaa6f2da99a72755&scene=27#wechat_redirect) 
 - [2020-01-10-寒冬中的中国互联网，为什么花钱砸研发的公司都不会觉得冷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=3&sn=4eb321cf00188a909bdefee1d15b4319&chksm=f952529ace25db8cda114651af0f6b092890c58e3cd8db5f8b30c6ad097513e3f30217e8e6a2&scene=27#wechat_redirect) 

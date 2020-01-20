@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-20 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-20 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,6 +152,7 @@
 - [【前端早读课】2020-01-02-【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-02-2020，前端早读课的朋友](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=2&sn=f01522b348502efaa337284624b69222&chksm=bd497db48a3ef4a2b6fca2590f001d15c3013514d9f21e41c3ea9f6799caf241041f26164d79&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect) 
+- [【前端大全】2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-18-前端性能优化之自定义性能指标及上报方法详解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-17-2020-大前端冲刺大厂面试题必备（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557747&idx=1&sn=f81a5a43a2cb50b8b02f493775a707d3&chksm=802558b2b752d1a4b972854bcf70a118e011ffe15cdfebc21ec83d542de115b959904f7e4e63&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-16-12小时删！好“特殊”的资源，全网独此一份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=1&sn=d411226e5348080f55419409de7b0157&chksm=802558adb752d1bba3eb1d2096f5727e71e397f5028f9238fa35eea9f5a62300dac14b2027c7&scene=27#wechat_redirect) 
@@ -179,6 +180,7 @@
 - [【前端大全】2020-01-02-拿不到offer免费学，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=1&sn=3c327624eb3ce799f779733a559005f6&chksm=802558d9b752d1cf70caaac4691ea083d7fe0cebad5799f1e331c5a95d8c928d2b18de2a9d47&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-02-Node.js-模块系统源码探微](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=2&sn=a431994c856fb02af099cf7907ce172b&chksm=802558d9b752d1cf75b664166003e4d047d057e1ae31ac00b0a6fdb052da9aaac7b8461d515e&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-01-2008-至今，Chrome-如何成长为霸主](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect) 
+- [【前端之巅】2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-17-GraphQL：API-的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-17-沃尔玛如何使用-React-Native-开发-iOS-和-Android-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=2&sn=af8447b198338396d79dcde3d6cc1306&chksm=f95252b8ce25dbae2d890ea6e9579221cd29c937afb451c9cdfce11ff731d3aab77ec22a6ac8&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-16-从jQuery到Serverless，前端十四年挖了多少坑？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=1&sn=73a8b2cb5ee95cf5f1dc284eb005f4f9&chksm=f95252b6ce25dba03d8e620a3557d0d5272fcd2341a9bbce39e913f4ad95dabcefb7e33c6e81&scene=27#wechat_redirect) 

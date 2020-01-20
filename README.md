@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-20 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-20 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-18-前端性能优化之自定义性能指标及上报方法详解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect)  
 - [2020-01-17-2020-大前端冲刺大厂面试题必备（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557747&idx=1&sn=f81a5a43a2cb50b8b02f493775a707d3&chksm=802558b2b752d1a4b972854bcf70a118e011ffe15cdfebc21ec83d542de115b959904f7e4e63&scene=27#wechat_redirect)  
 - [2020-01-16-12小时删！好“特殊”的资源，全网独此一份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=1&sn=d411226e5348080f55419409de7b0157&chksm=802558adb752d1bba3eb1d2096f5727e71e397f5028f9238fa35eea9f5a62300dac14b2027c7&scene=27#wechat_redirect)  
@@ -83,7 +84,6 @@
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)  
 - [2020-01-07-一道不一样的前端架构师最终面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=1&sn=f45f78de6cdc70789894800d82a92935&chksm=80255881b752d197a8b5c44e3a8fc1183948e6da829c80fea99ba8ceae7ce3eb5c306765ebcd&scene=27#wechat_redirect)  
 - [2020-01-07-面向对象：一个人最大的幸运就是遇见那个对的人，希望在这里可以遇到Mr.-Right](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=2&sn=031481ac3efa5007f09d7f3412b40b67&chksm=80255881b752d1977a7f39f9f961ed6b1bfcc120adde0e6fc422d1a690e315a968bd9837497f&scene=27#wechat_redirect)  
-- [2020-01-06-我会Vue了，面试官还会问我什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557677&idx=1&sn=b9fd9e4ff84325acc770ab8117f9ec60&chksm=802558ecb752d1fa2f98fa24bad9ad16ce9074d716cd20bba5ecd31ede7aa66219638c997b8d&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-17-GraphQL：API-的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect)  
 - [2020-01-17-沃尔玛如何使用-React-Native-开发-iOS-和-Android-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=2&sn=af8447b198338396d79dcde3d6cc1306&chksm=f95252b8ce25dbae2d890ea6e9579221cd29c937afb451c9cdfce11ff731d3aab77ec22a6ac8&scene=27#wechat_redirect)  
 - [2020-01-16-从jQuery到Serverless，前端十四年挖了多少坑？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=1&sn=73a8b2cb5ee95cf5f1dc284eb005f4f9&chksm=f95252b6ce25dba03d8e620a3557d0d5272fcd2341a9bbce39e913f4ad95dabcefb7e33c6e81&scene=27#wechat_redirect)  
@@ -114,7 +115,6 @@
 - [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect)  
 - [2020-01-08-云开发如何解决-Serverless-对端的“最后一公里”问题？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=2&sn=10d11beaa418355441926d60ff892cdc&chksm=f9525288ce25db9e8a97c707464ef072f16b7b0ba016ef6333a635faec24f7199cb9c274fe68&scene=27#wechat_redirect)  
 - [2020-01-07-花了四年迁移到-TypeScript，我们总结出了这些经验教训](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=1&sn=f33d93946962e4dc7c876e6926929e0f&chksm=f9525287ce25db9171789cbcc0dd3700677625dae92088279158ab5eccd17fcf1d1f9e37f553&scene=27#wechat_redirect)  
-- [2020-01-07-快速掌握-10-个-HTML5-必备技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=2&sn=b5c2719536886c6409feb6a5c31276e4&chksm=f9525287ce25db9129b8c60bf004b2cd747cff4e15ed0cefa7bb79f1c7769abd2facc2190c06&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2020-01-19-当-SSR-遇上-Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker) ![](assets/new.png)  
+- [2020-01-19-当-SSR-遇上-Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker)  
 - [2019-12-04-iceworks:-从-GUI-开发工具到集成研发工作台](https://fed.taobao.org/blog/taofed/do71ct/icework-v1-to-v2)  
 - [2019-12-02-Rax-PWA---快速升级-Web-体验](https://fed.taobao.org/blog/taofed/do71ct/rax-pwa-web)  
 - [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution)  
