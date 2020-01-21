@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-20 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-21 18:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2020-01-21-大前端-10-倍提效破局利器：可视化辅助编程会成为大势所趋吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=1&sn=b4245ab8600f46208f8da0dcb746f8c7&chksm=f9525d48ce25d45ee0919b87620052b2327b2ee7ba59e4c584141d2367ecaf22dcd11ee1a2bb&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-21-2020-年响应式-Web-设计备忘清单](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=2&sn=4222b09d3fbd5e426e28540c41a71a13&chksm=f9525d48ce25d45eadfdb32417bd7722c17d0bcd4374a79b4ec263d35e72b85219bb19440137&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-20-阿里为什么要举全集团之力做-Serverless？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493637&idx=1&sn=11915ecdb5038ab1a82a8763225c27df&chksm=f9525d46ce25d450787e512605a8ed082cfa4258fff2d3e80e77980f9208c2ab3bbde5340688&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-20-加速-Web-开发的-23-款前端开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493637&idx=2&sn=a7c665520c46dc95b69fa421791fb5dc&chksm=f9525d46ce25d45085dbd7a894c385b13435d486a1c3619d9bf04b302219c97ce67acfc00ff2&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect)  
 - [2020-01-17-GraphQL：API-的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect)  
 - [2020-01-17-沃尔玛如何使用-React-Native-开发-iOS-和-Android-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=2&sn=af8447b198338396d79dcde3d6cc1306&chksm=f95252b8ce25dbae2d890ea6e9579221cd29c937afb451c9cdfce11ff731d3aab77ec22a6ac8&scene=27#wechat_redirect)  
@@ -111,10 +115,6 @@
 - [2020-01-10-使用-WebAssembly-的网站中有-50%-将其用于恶意目的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=2&sn=6e2802787d3dd237b87218f8a91d5417&chksm=f952529ace25db8c2c8337c20ff6d7090c0f2a808a6112e5a8f2ab1ae61b8ea389be2098cfea&scene=27#wechat_redirect)  
 - [2020-01-10-寒冬中的中国互联网，为什么花钱砸研发的公司都不会觉得冷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=3&sn=4eb321cf00188a909bdefee1d15b4319&chksm=f952529ace25db8cda114651af0f6b092890c58e3cd8db5f8b30c6ad097513e3f30217e8e6a2&scene=27#wechat_redirect)  
 - [2020-01-09-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect)  
-- [2020-01-09-基于-React-的微前端：Piral-简析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=2&sn=5bff778b7793ce4d0d9ff8336448b160&chksm=f9525293ce25db85d19dcd0cf5ac4183b74aab6d82786eb33e0f34316b122d8dc9fa6faf3a59&scene=27#wechat_redirect)  
-- [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect)  
-- [2020-01-08-云开发如何解决-Serverless-对端的“最后一公里”问题？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=2&sn=10d11beaa418355441926d60ff892cdc&chksm=f9525288ce25db9e8a97c707464ef072f16b7b0ba016ef6333a635faec24f7199cb9c274fe68&scene=27#wechat_redirect)  
-- [2020-01-07-花了四年迁移到-TypeScript，我们总结出了这些经验教训](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=1&sn=f33d93946962e4dc7c876e6926929e0f&chksm=f9525287ce25db9171789cbcc0dd3700677625dae92088279158ab5eccd17fcf1d1f9e37f553&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html) ![](assets/new.png)  
+- [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html)  
 - [2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html)  
 - [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html)  
 - [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html)  
