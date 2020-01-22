@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-21 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-22 22:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,8 +64,9 @@
 </summary>
 
 
-- [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-20-十分钟上手-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557776&idx=1&sn=46960b87873a42756e9b27dacaf3acb1&chksm=80255851b752d147afb92cbc7ea551fffc793182ce130b41c22f2efe7cbe96384959c449a8b6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-22-如何快速提升-JSON.stringify-的性能？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557783&idx=1&sn=c822a0e7e553dc431ff265463d3f4aa6&chksm=80255856b752d140005c727ee51cbe9010257148bd37d58112b48a6239117ce8c821c0161a21&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect)  
+- [2020-01-20-十分钟上手-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557776&idx=1&sn=46960b87873a42756e9b27dacaf3acb1&chksm=80255851b752d147afb92cbc7ea551fffc793182ce130b41c22f2efe7cbe96384959c449a8b6&scene=27#wechat_redirect)  
 - [2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect)  
 - [2020-01-18-前端性能优化之自定义性能指标及上报方法详解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect)  
 - [2020-01-17-2020-大前端冲刺大厂面试题必备（上）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557747&idx=1&sn=f81a5a43a2cb50b8b02f493775a707d3&chksm=802558b2b752d1a4b972854bcf70a118e011ffe15cdfebc21ec83d542de115b959904f7e4e63&scene=27#wechat_redirect)  
@@ -83,7 +84,6 @@
 - [2020-01-09-Typescript-那些好用的技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557703&idx=1&sn=10cf95081c2b5c134e15200192a642ef&chksm=80255886b752d1902180d91653c061b98bf083376402af39105f1120dfffcaa154284c930469&scene=27#wechat_redirect)  
 - [2020-01-09-面向对象：没事喜欢去西湖周边拍拍照的一枚程序媛](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557703&idx=2&sn=762ce07591bcbcfe9b911cdd327408e6&chksm=80255886b752d1905775b399e42a2f6dabe67cce7915b6b1bb59b9940d4bbed0c209bfcbd3da&scene=27#wechat_redirect)  
 - [2020-01-08-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=1&sn=d933c86124898f20768f875639037128&chksm=80255880b752d19601e7d012883d750569506bc5a2400c13f2d645e34a2b9b273195e113ca1e&scene=27#wechat_redirect)  
-- [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
