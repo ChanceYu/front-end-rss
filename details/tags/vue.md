@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-30 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-31 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -58,6 +58,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect) 
 - [2020-01-13-一文带你看透Vue前端路由](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557728&idx=1&sn=04ba9b8eceacd815af275adf8bd23675&chksm=802558a1b752d1b711d3a29c6dab37d8222ddcba0a6288acda8b3657fe7f345368c6975a6de4&scene=27#wechat_redirect) 
 - [2020-01-06-我会Vue了，面试官还会问我什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557677&idx=1&sn=b9fd9e4ff84325acc770ab8117f9ec60&chksm=802558ecb752d1fa2f98fa24bad9ad16ce9074d716cd20bba5ecd31ede7aa66219638c997b8d&scene=27#wechat_redirect) 
 - [2019-12-13-让你的组件千变万化，Vue-slot-剖玄析微](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557544&idx=1&sn=ff6bc48ebb5697aacc8b721666b4a719&chksm=80255969b752d07f33ae3e3456f67a3884e0197970f779fd69bcc96ee255c811e489835c29b4&scene=27#wechat_redirect) 
