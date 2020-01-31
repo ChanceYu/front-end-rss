@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-31 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-01 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,6 +152,7 @@
 - [【前端早读课】2020-01-02-【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-02-2020，前端早读课的朋友](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=2&sn=f01522b348502efaa337284624b69222&chksm=bd497db48a3ef4a2b6fca2590f001d15c3013514d9f21e41c3ea9f6799caf241041f26164d79&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect) 
+- [【前端大全】2020-01-31-面试官问:Node-与底层之间如何执行异步-I/O-调用？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557806&idx=1&sn=38d7d332afa164d360c871ae60506912&chksm=8025586fb752d17913a6fd536e25d10bb57d72af7783f9bd1fa48e0eb44fe339bbfc8e4d2a83&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-28-掌握-JavaScript-中的-this，call，apply-的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557800&idx=1&sn=d63af0efb5980993941bfed8b203884a&chksm=80255869b752d17f24fdf9f2aff37aa846b08c55be326c696c8e2307be5f56e3e73241a9e1ba&scene=27#wechat_redirect) 
@@ -232,6 +233,7 @@
 - [【前端之巅】2020-01-02-2020-来了，你的研发团队培训计划安排好了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=3&sn=a3060221c4965c1f7ffd196249a4e2e7&chksm=f95252d5ce25dbc301f086fd95b4954ae915c1f43ed1656f703e5f70c6a712092db159577116&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493512&idx=1&sn=93dc9fb54b0ba67008f79c8e72c787e2&chksm=f95252cbce25dbdd54396f6dafc0a10ba8727886af63f2adb297c5e467906948622f0f64fc54&scene=27#wechat_redirect) 
 - [【Taobao-FED-|-淘宝前端团队】2020-01-19-当-SSR-遇上-Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker) 
+- [【张鑫旭-鑫空间-鑫生活】2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-15-CSS-grid-auto-flow深入理解](https://www.zhangxinxu.com/wordpress/2020/01/css-grid-auto-flow/) 
