@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-31 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-31 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect)  
+- [2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect)  
 - [2020-01-28-掌握-JavaScript-中的-this，call，apply-的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557800&idx=1&sn=d63af0efb5980993941bfed8b203884a&chksm=80255869b752d17f24fdf9f2aff37aa846b08c55be326c696c8e2307be5f56e3e73241a9e1ba&scene=27#wechat_redirect)  
 - [2020-01-28-面向对象：甜甜的恋爱什么时候轮到我啊？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557800&idx=2&sn=1337211103d650be1d9b7a2649aa2005&chksm=80255869b752d17fdcf9b4229ea89a6cd35724719cb3a4367ca280d795c558baeec061c48641&scene=27#wechat_redirect)  
 - [2020-01-27-各种场景唤起-App-骚操作](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557798&idx=1&sn=00b647fb4b43de2dfd421cb17ba749f8&chksm=80255867b752d171265f014a92d5d5c6636cac3786c0bc8dca1971d83a7e44cbacded129c665&scene=27#wechat_redirect)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-01-31-科技爱好者周刊：第-92-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html) ![](assets/new.png)  
 - [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html)  
 - [2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)  
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html)  
@@ -207,7 +208,6 @@
 - [2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html)  
 - [2019-11-29-科技爱好者周刊：第-84-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)  
 - [2019-11-26-如何识别文件的真假](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)  
-- [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

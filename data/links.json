@@ -11155,6 +11155,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊：第 92 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html",
+        "date": "2020-01-31"
+      },
+      {
         "title": "Deno 运行时入门教程：Node.js 的替代品",
         "link": "http://www.ruanyifeng.com/blog/2020/01/deno-intro.html",
         "date": "2020-01-26"

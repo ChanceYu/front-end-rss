@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-31 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-31 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -236,6 +236,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-01-05-CSS-overscroll-behavior让滚动嵌套时父滚动不触发](https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-02-CSS-inherit是继承，那initial和unset呢？](https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
+- [【阮一峰的网络日志】2020-01-31-科技爱好者周刊：第-92-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html) 
 - [【阮一峰的网络日志】2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html) 
 - [【阮一峰的网络日志】2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html) 
 - [【阮一峰的网络日志】2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html) 
