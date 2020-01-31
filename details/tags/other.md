@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-31 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-31 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -355,6 +355,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-01-30-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493670&idx=2&sn=f2aa7f390b194c4c6b653b2daac55075&chksm=f9525d65ce25d473a92c07512b1429d58c1b5a42d11f0c17815b0cc2a850a5d483e119fde09e&scene=27#wechat_redirect) 
 - [2020-01-28-SQL-查询语句总是先执行-SELECT？你们都错了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493663&idx=1&sn=793ccec580be2be16f9bf6175115ffb7&chksm=f9525d5cce25d44a1d1543a61cd7056944cd9f271784ba5dc2293dfa71b226b6adfda73b5ac1&scene=27#wechat_redirect) 
 - [2020-01-26-老而不死的三种编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493657&idx=1&sn=cb5849591d69467d483f44b357781185&chksm=f9525d5ace25d44c1f6bc628a383bd4729cfb3772ba2dfdadd2622395cce1b350ab49d7ce566&scene=27#wechat_redirect) 
 - [2020-01-24-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493653&idx=1&sn=5aa625600caad100af662b4ce313f9a6&chksm=f9525d56ce25d4401641448b1decebe9374a2ba3a9a46d178845c99adef844449ae61db4bf63&scene=27#wechat_redirect) 

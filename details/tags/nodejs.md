@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-31 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-31 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -45,6 +45,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2020-01-30-Node.js-在-2020-年的新增特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493670&idx=1&sn=440697608a03cf5d67455b4e152ddc71&chksm=f9525d65ce25d473b7a778ef99584d3204752d0b345bfea3f61f0c6839f066044468e7407ebd&scene=27#wechat_redirect) 
 - [2020-01-09-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect) 
 - [2019-12-22-前端周报：JavaScript-引擎-V8-发布；JavaScript-2019-生态报告出炉；新版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493433&idx=1&sn=0240fcad93dffb5e9b1922f223f6ae21&chksm=f952527ace25db6c25e51375ece3117b3bf95d656372c131e6ad9115cc0b1355612bf9e27ed4&scene=27#wechat_redirect) 
 - [2019-12-02-Node.js在携程的落地和最佳实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493268&idx=1&sn=408ca2dcb6922c9b6b238049dcfa5d38&chksm=f95253d7ce25dac1464f45d22547e4dcf9366c462018b129d7b67df89389a556bb641a7b21cb&scene=27#wechat_redirect) 
