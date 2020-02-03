@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-02-03 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-02-04 06:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,8 @@
 </summary>
 
 
-- [2020-02-02-TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-03-复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557815&idx=1&sn=ccd54c51dea2edb343a102ee7cada326&chksm=80255876b752d160b47304c3f31923fcfd294aa9b97f6ae207bc8b265802fd153507d51f9b93&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-02-TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect)  
 - [2020-01-31-面试官问:Node-与底层之间如何执行异步-I/O-调用？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557806&idx=1&sn=38d7d332afa164d360c871ae60506912&chksm=8025586fb752d17913a6fd536e25d10bb57d72af7783f9bd1fa48e0eb44fe339bbfc8e4d2a83&scene=27#wechat_redirect)  
 - [2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect)  
 - [2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect)  
@@ -83,7 +84,6 @@
 - [2020-01-16-图文并茂，为你揭开“单点登录“的神秘面纱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=2&sn=e2ad1c71c0829bcae4fe4a4693bc8414&chksm=802558adb752d1bb8194168c776d84ea4545bada201e58efa5fa12a4be4b5ff63958bf28a8f6&scene=27#wechat_redirect)  
 - [2020-01-15-手把手教你写几个实用的-AST-插件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557736&idx=1&sn=938034e4a389d0091e5ac8bd6aebd99a&chksm=802558a9b752d1bfb0cfa68cdab52d571e522dcab2f88762f829519060c2064f8219b86e2143&scene=27#wechat_redirect)  
 - [2020-01-14-前端越来越后端化，工程化？2020年你到底需要注意些什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=1&sn=591e710960967fad76a970754070b82f&chksm=802558a3b752d1b5cfb657b6ffe56bf5b2f5afd06e2ea6d3cee40b5d1153a03d5207b113374d&scene=27#wechat_redirect)  
-- [2020-01-14-面试常考手写代码学习技巧总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=2&sn=252c3f2a20d0a72019e7883554e399d0&chksm=802558a3b752d1b5345df71b30464b3b649c003e2c4e09718ab1c747d546b2e2df23e68378f2&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

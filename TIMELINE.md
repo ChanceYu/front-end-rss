@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-03 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-04 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端大全】2020-02-03-复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557815&idx=1&sn=ccd54c51dea2edb343a102ee7cada326&chksm=80255876b752d160b47304c3f31923fcfd294aa9b97f6ae207bc8b265802fd153507d51f9b93&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-02-TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-01-这几个程序员志愿者，用-4-天建起湖北医疗物资需求对接平台](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=1&sn=d9a7914182a7f6593592aed258f77b4f&chksm=f9525d6fce25d479bba6c41db6deaf61aa84cc6913413e9e7ad16e5702821974e4907772191b&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-01-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=2&sn=63092b95a145476c5e5eee9dc7fa38b5&chksm=f9525d6fce25d479a6aff06775e8a5e126fabf423600b87102e74aed745ff8721c37a86631ef&scene=27#wechat_redirect) 
