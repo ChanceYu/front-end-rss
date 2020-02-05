@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-05 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-05 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -355,6 +355,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-02-04-6人起步的前端团队，见证了前端5年巨变史](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=1&sn=ccb825d367f529c8ec6f3e28a79f8cc4&chksm=f9525d7bce25d46d2fa4d4f931de269c8005453e0fa52f745aa234c930c0aa5483bd979bfea4&scene=27#wechat_redirect) 
+- [2020-02-04-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=2&sn=f4b305a3b311b05f80d61b4b1b239b67&chksm=f9525d7bce25d46d67f184e442e07f4d72365856c0c1525c98118c8a360c11c0bb6d497e2b36&scene=27#wechat_redirect) 
 - [2020-02-01-这几个程序员志愿者，用-4-天建起湖北医疗物资需求对接平台](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=1&sn=d9a7914182a7f6593592aed258f77b4f&chksm=f9525d6fce25d479bba6c41db6deaf61aa84cc6913413e9e7ad16e5702821974e4907772191b&scene=27#wechat_redirect) 
 - [2020-02-01-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=2&sn=63092b95a145476c5e5eee9dc7fa38b5&chksm=f9525d6fce25d479a6aff06775e8a5e126fabf423600b87102e74aed745ff8721c37a86631ef&scene=27#wechat_redirect) 
 - [2020-01-30-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493670&idx=2&sn=f2aa7f390b194c4c6b653b2daac55075&chksm=f9525d65ce25d473a92c07512b1429d58c1b5a42d11f0c17815b0cc2a850a5d483e119fde09e&scene=27#wechat_redirect) 
