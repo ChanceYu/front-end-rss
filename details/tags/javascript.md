@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-06 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-06 18:00:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -226,6 +226,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2020-02-05-2020年需要重点学习的JavaScript框架和主题，以及下一个十年的技术展望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=1&sn=ef5dc4245ef5bb9901a220d1b80d85c9&chksm=f9525d03ce25d415b33718f837495bf1d2cdbeb04ccc6e4db4923ec3f4a792fe95d31d241810&scene=27#wechat_redirect) 
 - [2020-01-14-未来有望干掉-Python-和-JavaScript-的编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493609&idx=1&sn=23c02b04194c02c96b629d58228432f6&chksm=f95252aace25dbbc832aa29f4ebc09e2b6bd078ac20c153f7f0ed0ea0fb5320b08e7164482e1&scene=27#wechat_redirect) 
 - [2020-01-07-快速掌握-10-个-HTML5-必备技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=2&sn=b5c2719536886c6409feb6a5c31276e4&chksm=f9525287ce25db9129b8c60bf004b2cd747cff4e15ed0cefa7bb79f1c7769abd2facc2190c06&scene=27#wechat_redirect) 
 - [2019-12-30-​2019-年-WebAssembly-盘点：跟-Javascript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493498&idx=1&sn=83e7d7c0cb2d7359e36cce77c4c23440&chksm=f9525239ce25db2ffba8a9069de7dac3253c96f81a910274f8e344d199add0f3245e9793763d&scene=27#wechat_redirect) 

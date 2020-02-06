@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-06 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-06 18:00:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -127,6 +127,8 @@
 - [【前端大全】2020-02-04-面向对象：一个人走可以很快，两个人携手可以走得更远，希望有缘遇见](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=2&sn=f3a0f12a8d608f246754d2fa7c7cd17c&chksm=8025587db752d16b538859b605f862e619d93305c68413d468e4277a357216876df8a7304499&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-03-复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557815&idx=1&sn=ccd54c51dea2edb343a102ee7cada326&chksm=80255876b752d160b47304c3f31923fcfd294aa9b97f6ae207bc8b265802fd153507d51f9b93&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-02-TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect) 
+- [【前端之巅】2020-02-05-2020年需要重点学习的JavaScript框架和主题，以及下一个十年的技术展望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=1&sn=ef5dc4245ef5bb9901a220d1b80d85c9&chksm=f9525d03ce25d415b33718f837495bf1d2cdbeb04ccc6e4db4923ec3f4a792fe95d31d241810&scene=27#wechat_redirect) 
+- [【前端之巅】2020-02-05-滴滴跨端框架Chameleon正式支持快应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=2&sn=706381a6d6dd8eff640386c33eca6038&chksm=f9525d03ce25d415521d2f1083d167d6fef74493a189dc4cb1541d189726227be995a957c1d8&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-04-6人起步的前端团队，见证了前端5年巨变史](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=1&sn=ccb825d367f529c8ec6f3e28a79f8cc4&chksm=f9525d7bce25d46d2fa4d4f931de269c8005453e0fa52f745aa234c930c0aa5483bd979bfea4&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-04-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=2&sn=f4b305a3b311b05f80d61b4b1b239b67&chksm=f9525d7bce25d46d67f184e442e07f4d72365856c0c1525c98118c8a360c11c0bb6d497e2b36&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-03-2020年11大顶级VueJS开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=1&sn=2b7c76e04c4792d4416932003c909ef4&chksm=f9525d70ce25d466c85a597d2b6306b2b18184ccd01eb3dbc4b072165bcd3844d15c81bbfddf&scene=27#wechat_redirect) 
