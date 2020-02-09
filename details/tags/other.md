@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-08 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-09 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -357,6 +357,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-02-09-前端周报：最受欢迎JVM语言Kotlin排名第二；Mozilla裁员后寻志愿者找bug；谷歌申请新操](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493714&idx=1&sn=24da8c1e4adce64c3c18bb4c3ec57402&chksm=f9525d11ce25d407caaf2e72c91d5e1b9384700e3839b1527190fc972257faccafdaa0c6d21b&scene=27#wechat_redirect) 
+- [2020-02-07-前端的守望者：阿里岳鹰-Web-全景监控平台的建设之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493710&idx=1&sn=ee45b6127e610b63407f1c2399060081&chksm=f9525d0dce25d41b8c05a7b07f690bd339c9c54c88cf669a08c5702fb3d142aa96938ab56b44&scene=27#wechat_redirect) 
+- [2020-02-07-揭秘-N95-口罩背后的-3M-帝国丨Q事界](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493710&idx=2&sn=ee67c5f5fcaaea6deaea7ae0caef302d&chksm=f9525d0dce25d41bc8f9930f9dc1ae83b01ed6924eb1b1bc75960c28362e02a660cb43796d4c&scene=27#wechat_redirect) 
 - [2020-02-06-从今天开始，我们为你免费开放-848-个课程-|-极客时间企业版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493704&idx=1&sn=68161d9078a86e15e132557779904b7f&chksm=f9525d0bce25d41d6b2154d8234b55433c90f752e4700e3ff9140093e0f7109f01bf3d7835cd&scene=27#wechat_redirect) 
 - [2020-02-04-6人起步的前端团队，见证了前端5年巨变史](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=1&sn=ccb825d367f529c8ec6f3e28a79f8cc4&chksm=f9525d7bce25d46d2fa4d4f931de269c8005453e0fa52f745aa234c930c0aa5483bd979bfea4&scene=27#wechat_redirect) 
 - [2020-02-04-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=2&sn=f4b305a3b311b05f80d61b4b1b239b67&chksm=f9525d7bce25d46d67f184e442e07f4d72365856c0c1525c98118c8a360c11c0bb6d497e2b36&scene=27#wechat_redirect) 
