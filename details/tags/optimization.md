@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-12 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-13 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-09-【第1851期】Web性能领域常见的专业术语](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235661&idx=1&sn=fb3d528c5259fbc388fab7ab683fd07d&chksm=bd497cc98a3ef5dff3ac41a89cb25d0395cbdb638eaca0aa62a041c131d34e27cfbd07c8ba27&scene=27#wechat_redirect) 
 - [2019-12-30-【第1821期】前端内存优化的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235351&idx=1&sn=c6cc0d1043a55f4372f539daebed4a6c&chksm=bd497d938a3ef485efb3d8a4f140d2f82009878814666a0147d428d18f887a5c51d15a4de62c&scene=27#wechat_redirect) 
 - [2019-12-06-【第1797期】京喜首页跨端开发与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=1&sn=6aa21b09bbb2740d18d789137df03554&chksm=bd497b288a3ef23efbb2b05aae7f4e01622d680a093a6c22b1e9f9b91aacf36633101248c98b&scene=27#wechat_redirect) 
 - [2019-05-19-【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd) 
