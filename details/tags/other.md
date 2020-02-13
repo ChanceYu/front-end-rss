@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-13 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-13 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -366,6 +366,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-02-12-写给计算机专业毕业生的22条宝贵建议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493738&idx=2&sn=d9ed03c0c81f2f6840457c305ecdeecb&chksm=f9525d29ce25d43f81a4178a544a5f0795c8105bf56a5031a4a4ce6e63d0de6c1d4c51300799&scene=27#wechat_redirect) 
 - [2020-02-11-腾讯基于-Proxy-的代码执行监听上报实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493729&idx=2&sn=ab146991f08c0c1fbd28af0d15abc92f&chksm=f9525d22ce25d434c40869e80ee4f4c01bc248966ef1e47580a10769ff4b4628104277fffcf1&scene=27#wechat_redirect) 
 - [2020-02-10-深入浅出Kotlin协程](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493720&idx=2&sn=20d698a7b56935bd9fcf6f8870f5fb20&chksm=f9525d1bce25d40dce18a88d613f6173755fbad3c6936b64c84df310cdc7716051b68b67c1bf&scene=27#wechat_redirect) 
 - [2020-02-09-前端周报：最受欢迎JVM语言Kotlin排名第二；Mozilla裁员后寻志愿者找bug；谷歌申请新操](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493714&idx=1&sn=24da8c1e4adce64c3c18bb4c3ec57402&chksm=f9525d11ce25d407caaf2e72c91d5e1b9384700e3839b1527190fc972257faccafdaa0c6d21b&scene=27#wechat_redirect) 
