@@ -5,6 +5,26 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1856期】会话式界面设计",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect",
+        "date": "2020-02-14"
+      },
+      {
+        "title": "命令行中的加载动画，spinner 的艺术",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=2&sn=12494c61b15b6f73d8a795bd7f9fc76e&chksm=bd497cf48a3ef5e2c4380eeade2e09375c1bbee8c65213a0f6aff0c0877432cf2f82fe800d62&scene=27#wechat_redirect",
+        "date": "2020-02-14"
+      },
+      {
+        "title": "面试前端岗，你被要求手写源码了吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=1&sn=4d4c2e06077cbd1aa5f76e0016dddbec&chksm=bd497ced8a3ef5fb89d934ddaa304d7ca160d7373efdcbcbd5fed685cff14bae294799ebf4f5&scene=27#wechat_redirect",
+        "date": "2020-02-13"
+      },
+      {
+        "title": "【第1855期】得到 Hybrid 架构的演进之路",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect",
+        "date": "2020-02-13"
+      },
+      {
         "title": "【第1854期】CSS 故障艺术",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=1&sn=bed5d7ba67135f150f2d734e239361d0&chksm=bd497ce68a3ef5f0c68fac180996cfb8db62986099131884e595bf686f1fdcd6e8846b90dc38&scene=27#wechat_redirect",
         "date": "2020-02-12"
@@ -11419,6 +11439,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 94 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html",
+        "date": "2020-02-14"
+      },
       {
         "title": "科技爱好者周刊：第 93 期",
         "link": "http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html",

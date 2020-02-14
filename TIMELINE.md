@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-13 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-14 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【前端早读课】2020-02-14-【第1856期】会话式界面设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect) 
+- [【前端早读课】2020-02-14-命令行中的加载动画，spinner-的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=2&sn=12494c61b15b6f73d8a795bd7f9fc76e&chksm=bd497cf48a3ef5e2c4380eeade2e09375c1bbee8c65213a0f6aff0c0877432cf2f82fe800d62&scene=27#wechat_redirect) 
+- [【前端早读课】2020-02-13-面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=1&sn=4d4c2e06077cbd1aa5f76e0016dddbec&chksm=bd497ced8a3ef5fb89d934ddaa304d7ca160d7373efdcbcbd5fed685cff14bae294799ebf4f5&scene=27#wechat_redirect) 
+- [【前端早读课】2020-02-13-【第1855期】得到-Hybrid-架构的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-12-【第1854期】CSS-故障艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=1&sn=bed5d7ba67135f150f2d734e239361d0&chksm=bd497ce68a3ef5f0c68fac180996cfb8db62986099131884e595bf686f1fdcd6e8846b90dc38&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-12-【招聘】滴普科技DevOps招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=2&sn=403eebb0b71e248b2c574c44e0ba44b1&chksm=bd497ce68a3ef5f048eb731ba236a52d2ca09133d0904e043e84d4ab7ecfb1ddbc3ee6776b27&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-11-【第1853期】像-JavaScript-一样思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235674&idx=1&sn=ae24cea8cc9b16049bfed217a8f82869&chksm=bd497cde8a3ef5c8f068ac544d4a30c8e49a474c4cef2fab371561224b0b41c9c574763b20c0&scene=27#wechat_redirect) 
@@ -171,6 +175,7 @@
 - [【前端之巅】2020-02-01-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=2&sn=63092b95a145476c5e5eee9dc7fa38b5&chksm=f9525d6fce25d479a6aff06775e8a5e126fabf423600b87102e74aed745ff8721c37a86631ef&scene=27#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/) 
+- [【阮一峰的网络日志】2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html) 
 - [【阮一峰的网络日志】2020-02-07-科技爱好者周刊：第-93-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

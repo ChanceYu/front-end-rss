@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-02-13 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-14 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-02-14-【第1856期】会话式界面设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect) 
+- [2020-02-13-【第1855期】得到-Hybrid-架构的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect) 
 - [2020-02-11-【前端杂记】20200211](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235674&idx=2&sn=83a4ca2a352ad5f2572fbb24a6a6ca8f&chksm=bd497cde8a3ef5c81a9c7d6af351ebb5818b9a428b3693ac651ef23e383f4e848210c6959d26&scene=27#wechat_redirect) 
 - [2020-02-10-【第1852期】开源协同下的前端量化管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235669&idx=1&sn=eea405a11dd56facc2916dff1c3e747d&chksm=bd497cd18a3ef5c7c06331780d1529c82a220f4ff01800383b2204b3a92707c89f43e8dfbc6b&scene=27#wechat_redirect) 
 - [2020-02-09-【前端杂记】20200209](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235661&idx=2&sn=b29d90fe6cf953e692daa48583c5b81a&chksm=bd497cc98a3ef5dfe9b268df6e013feaa9251771022933e0ded8aad3b8250f8845489b934595&scene=27#wechat_redirect) 
@@ -591,6 +593,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html) 
 - [2020-02-07-科技爱好者周刊：第-93-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html) 
 - [2020-01-31-科技爱好者周刊：第-92-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html) 
 - [2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html) 
