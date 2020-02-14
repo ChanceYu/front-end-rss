@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-14 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-14 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,8 @@
 - [【前端早读课】2020-02-08-【第1850期】网页布局简史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=1&sn=06abd69f6620a549e63fb7aa01e9bbe2&chksm=bd497cc08a3ef5d653463b7f0bbdd06588e71c5c1c31401d32dc5f5304ccd21b06b1b63c2775&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-08-【前端杂记】20200208](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=2&sn=18839e2fd893dac64937cda8ad027d4c&chksm=bd497cc08a3ef5d61934ce7d4514107ab8cffe06d7c497a70f91b3819fdc93ce17490b323306&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-07-【第1849期】远程工作的五大挑战&如何克服它们](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235644&idx=1&sn=56b8c7177124741511dcf97cf781acea&chksm=bd497cb88a3ef5ae393317b93acca0a8257e49e3f994cb703f9fbb0fad3dff6704cf7c437ef6&scene=27#wechat_redirect) 
+- [【前端大全】2020-02-14-高阶函数不会用?教你JS中最实用的几个高阶函数用法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557867&idx=1&sn=d298466c919d4f0248f5709434cf969a&chksm=8025582ab752d13c9454bfe90107788c55f7a61c9a2175c7e6f8da352674598ebf9d11327aa8&scene=27#wechat_redirect) 
+- [【前端大全】2020-02-13-正则最佳入门手册含实践题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557863&idx=1&sn=c4f12abcbbe846c226be65c689380f84&chksm=80255826b752d1301c514dc9b5e9bbb52dc98b5e18460c0d26c942faa1fa8f152885b357e244&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-12-面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=1&sn=b4f75e16ea58f632dfca512e0c1fa588&chksm=80255822b752d13400d3b585039ff01f488b0aa67d6ac6e36a4736cf6ac1da6e509e94a172ba&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-12-不好意思！耽误你的十分钟，让MVVM原理还给你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=2&sn=677477d443a9c18ba1614e4a234b8ec0&chksm=80255822b752d134b5bd5a599a18e5d799ad6cb7e89b959f955df3998d8d5a75e7a9d8543a76&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-11-一文搞懂主流的扫码登录技术原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557858&idx=1&sn=2dac7e773b07429b8f2e2ae66f3b33d0&chksm=80255823b752d135086f5a9c706df9cc10ce763378175e1f96a4bca00e3bf63db4ad2681ee3e&scene=27#wechat_redirect) 
@@ -151,6 +153,8 @@
 - [【前端大全】2020-02-04-面向对象：一个人走可以很快，两个人携手可以走得更远，希望有缘遇见](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=2&sn=f3a0f12a8d608f246754d2fa7c7cd17c&chksm=8025587db752d16b538859b605f862e619d93305c68413d468e4277a357216876df8a7304499&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-03-复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557815&idx=1&sn=ccd54c51dea2edb343a102ee7cada326&chksm=80255876b752d160b47304c3f31923fcfd294aa9b97f6ae207bc8b265802fd153507d51f9b93&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-02-TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect) 
+- [【前端之巅】2020-02-14-支持IE6只是其一！Web开发的十大噩梦](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=1&sn=b9c24494031e70f6b2a32c879d4fe66f&chksm=f9525d3bce25d42d3bc3748ae6bb598a9552cb41d1eab4cfe2f0f2c80f2a7272716437bce2a2&scene=27#wechat_redirect) 
+- [【前端之巅】2020-02-14-花40多万开发的App扰乱了一场大选，几乎毁了一家公司](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=2&sn=f92a522ac0c6440499f5472b2348eba0&chksm=f9525d3bce25d42d83ce0fab2f94743e516a409ee1864666c399831b7303120d3e764b4a19c7&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-13-阿里跨境供应链前端架构演进与-Serverless-实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=1&sn=fee3e25deb7da9daf17d38b8237e689c&chksm=f9525d30ce25d4263be789799aadbdef95d5bf8fac3e8ea45dff1ae3fc889191e346e5b758af&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-13-2020小程序：兵家必争之地](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=2&sn=b255d74cd46f0e24f3f567beece8432b&chksm=f9525d30ce25d426e978e9da77a476545c3cf509260b46543bb27c65393de6a648c28948aa8c&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-12-70%-的人都不会，大厂面试官精选-3-道算法面试题&知识点-|-极客大学](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493738&idx=1&sn=3fd84dbaa4e312f3ba87d13eefcd2174&chksm=f9525d29ce25d43fde81ad88c8fa58cff9258e8b2956ac26ab93ea032d64760c36e08e195e4e&scene=27#wechat_redirect) 

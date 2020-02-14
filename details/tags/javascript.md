@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-14 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-14 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,6 +100,8 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2020-02-14-高阶函数不会用?教你JS中最实用的几个高阶函数用法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557867&idx=1&sn=d298466c919d4f0248f5709434cf969a&chksm=8025582ab752d13c9454bfe90107788c55f7a61c9a2175c7e6f8da352674598ebf9d11327aa8&scene=27#wechat_redirect) 
+- [2020-02-13-正则最佳入门手册含实践题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557863&idx=1&sn=c4f12abcbbe846c226be65c689380f84&chksm=80255826b752d1301c514dc9b5e9bbb52dc98b5e18460c0d26c942faa1fa8f152885b357e244&scene=27#wechat_redirect) 
 - [2020-02-07-干货：快速开发一个Antd级别的组件库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557832&idx=1&sn=52264a735917292b386f91aef6202924&chksm=80255809b752d11f1d8c82ba04b7e793c9e92ae09de8935a55ef549f0d4e280ae386c856d1c1&scene=27#wechat_redirect) 
 - [2020-01-28-掌握-JavaScript-中的-this，call，apply-的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557800&idx=1&sn=d63af0efb5980993941bfed8b203884a&chksm=80255869b752d17f24fdf9f2aff37aa846b08c55be326c696c8e2307be5f56e3e73241a9e1ba&scene=27#wechat_redirect) 
 - [2020-01-22-如何快速提升-JSON.stringify-的性能？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557783&idx=1&sn=c822a0e7e553dc431ff265463d3f4aa6&chksm=80255856b752d140005c727ee51cbe9010257148bd37d58112b48a6239117ce8c821c0161a21&scene=27#wechat_redirect) 

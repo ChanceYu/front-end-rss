@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-02-14 12:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-02-14 22:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,10 +33,10 @@
 </summary>
 
 
-- [2020-02-14-【第1856期】会话式界面设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-02-14-命令行中的加载动画，spinner-的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=2&sn=12494c61b15b6f73d8a795bd7f9fc76e&chksm=bd497cf48a3ef5e2c4380eeade2e09375c1bbee8c65213a0f6aff0c0877432cf2f82fe800d62&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-02-13-面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=1&sn=4d4c2e06077cbd1aa5f76e0016dddbec&chksm=bd497ced8a3ef5fb89d934ddaa304d7ca160d7373efdcbcbd5fed685cff14bae294799ebf4f5&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-02-13-【第1855期】得到-Hybrid-架构的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-14-【第1856期】会话式界面设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect)  
+- [2020-02-14-命令行中的加载动画，spinner-的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=2&sn=12494c61b15b6f73d8a795bd7f9fc76e&chksm=bd497cf48a3ef5e2c4380eeade2e09375c1bbee8c65213a0f6aff0c0877432cf2f82fe800d62&scene=27#wechat_redirect)  
+- [2020-02-13-面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=1&sn=4d4c2e06077cbd1aa5f76e0016dddbec&chksm=bd497ced8a3ef5fb89d934ddaa304d7ca160d7373efdcbcbd5fed685cff14bae294799ebf4f5&scene=27#wechat_redirect)  
+- [2020-02-13-【第1855期】得到-Hybrid-架构的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect)  
 - [2020-02-12-【第1854期】CSS-故障艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=1&sn=bed5d7ba67135f150f2d734e239361d0&chksm=bd497ce68a3ef5f0c68fac180996cfb8db62986099131884e595bf686f1fdcd6e8846b90dc38&scene=27#wechat_redirect)  
 - [2020-02-12-【招聘】滴普科技DevOps招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=2&sn=403eebb0b71e248b2c574c44e0ba44b1&chksm=bd497ce68a3ef5f048eb731ba236a52d2ca09133d0904e043e84d4ab7ecfb1ddbc3ee6776b27&scene=27#wechat_redirect)  
 - [2020-02-11-【第1853期】像-JavaScript-一样思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235674&idx=1&sn=ae24cea8cc9b16049bfed217a8f82869&chksm=bd497cde8a3ef5c8f068ac544d4a30c8e49a474c4cef2fab371561224b0b41c9c574763b20c0&scene=27#wechat_redirect)  
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-02-14-高阶函数不会用?教你JS中最实用的几个高阶函数用法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557867&idx=1&sn=d298466c919d4f0248f5709434cf969a&chksm=8025582ab752d13c9454bfe90107788c55f7a61c9a2175c7e6f8da352674598ebf9d11327aa8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-13-正则最佳入门手册含实践题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557863&idx=1&sn=c4f12abcbbe846c226be65c689380f84&chksm=80255826b752d1301c514dc9b5e9bbb52dc98b5e18460c0d26c942faa1fa8f152885b357e244&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-02-12-面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=1&sn=b4f75e16ea58f632dfca512e0c1fa588&chksm=80255822b752d13400d3b585039ff01f488b0aa67d6ac6e36a4736cf6ac1da6e509e94a172ba&scene=27#wechat_redirect)  
 - [2020-02-12-不好意思！耽误你的十分钟，让MVVM原理还给你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=2&sn=677477d443a9c18ba1614e4a234b8ec0&chksm=80255822b752d134b5bd5a599a18e5d799ad6cb7e89b959f955df3998d8d5a75e7a9d8543a76&scene=27#wechat_redirect)  
 - [2020-02-11-一文搞懂主流的扫码登录技术原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557858&idx=1&sn=2dac7e773b07429b8f2e2ae66f3b33d0&chksm=80255823b752d135086f5a9c706df9cc10ce763378175e1f96a4bca00e3bf63db4ad2681ee3e&scene=27#wechat_redirect)  
@@ -82,8 +84,6 @@
 - [2020-01-31-面试官问:Node-与底层之间如何执行异步-I/O-调用？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557806&idx=1&sn=38d7d332afa164d360c871ae60506912&chksm=8025586fb752d17913a6fd536e25d10bb57d72af7783f9bd1fa48e0eb44fe339bbfc8e4d2a83&scene=27#wechat_redirect)  
 - [2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect)  
 - [2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect)  
-- [2020-01-28-掌握-JavaScript-中的-this，call，apply-的原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557800&idx=1&sn=d63af0efb5980993941bfed8b203884a&chksm=80255869b752d17f24fdf9f2aff37aa846b08c55be326c696c8e2307be5f56e3e73241a9e1ba&scene=27#wechat_redirect)  
-- [2020-01-28-面向对象：甜甜的恋爱什么时候轮到我啊？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557800&idx=2&sn=1337211103d650be1d9b7a2649aa2005&chksm=80255869b752d17fdcf9b4229ea89a6cd35724719cb3a4367ca280d795c558baeec061c48641&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-02-14-支持IE6只是其一！Web开发的十大噩梦](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=1&sn=b9c24494031e70f6b2a32c879d4fe66f&chksm=f9525d3bce25d42d3bc3748ae6bb598a9552cb41d1eab4cfe2f0f2c80f2a7272716437bce2a2&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-14-花40多万开发的App扰乱了一场大选，几乎毁了一家公司](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=2&sn=f92a522ac0c6440499f5472b2348eba0&chksm=f9525d3bce25d42d83ce0fab2f94743e516a409ee1864666c399831b7303120d3e764b4a19c7&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-02-13-阿里跨境供应链前端架构演进与-Serverless-实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=1&sn=fee3e25deb7da9daf17d38b8237e689c&chksm=f9525d30ce25d4263be789799aadbdef95d5bf8fac3e8ea45dff1ae3fc889191e346e5b758af&scene=27#wechat_redirect)  
 - [2020-02-13-2020小程序：兵家必争之地](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=2&sn=b255d74cd46f0e24f3f567beece8432b&chksm=f9525d30ce25d426e978e9da77a476545c3cf509260b46543bb27c65393de6a648c28948aa8c&scene=27#wechat_redirect)  
 - [2020-02-12-70%-的人都不会，大厂面试官精选-3-道算法面试题&知识点-|-极客大学](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493738&idx=1&sn=3fd84dbaa4e312f3ba87d13eefcd2174&chksm=f9525d29ce25d43fde81ad88c8fa58cff9258e8b2956ac26ab93ea032d64760c36e08e195e4e&scene=27#wechat_redirect)  
@@ -113,8 +115,6 @@
 - [2020-02-05-滴滴跨端框架Chameleon正式支持快应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=2&sn=706381a6d6dd8eff640386c33eca6038&chksm=f9525d03ce25d415521d2f1083d167d6fef74493a189dc4cb1541d189726227be995a957c1d8&scene=27#wechat_redirect)  
 - [2020-02-04-6人起步的前端团队，见证了前端5年巨变史](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=1&sn=ccb825d367f529c8ec6f3e28a79f8cc4&chksm=f9525d7bce25d46d2fa4d4f931de269c8005453e0fa52f745aa234c930c0aa5483bd979bfea4&scene=27#wechat_redirect)  
 - [2020-02-04-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=2&sn=f4b305a3b311b05f80d61b4b1b239b67&chksm=f9525d7bce25d46d67f184e442e07f4d72365856c0c1525c98118c8a360c11c0bb6d497e2b36&scene=27#wechat_redirect)  
-- [2020-02-03-2020年11大顶级VueJS开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=1&sn=2b7c76e04c4792d4416932003c909ef4&chksm=f9525d70ce25d466c85a597d2b6306b2b18184ccd01eb3dbc4b072165bcd3844d15c81bbfddf&scene=27#wechat_redirect)  
-- [2020-02-03-GraphQL-vs-REST-API-架构，谁更胜一筹？​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=2&sn=1fcdf497a4b90df32308c6eb66fde909&chksm=f9525d70ce25d4668a7c6fbc10ccd77b47a57b4e7c493365622fe6cb138b5290186b79e5d7bc&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html) ![](assets/new.png)  
+- [2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html)  
 - [2020-02-07-科技爱好者周刊：第-93-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-93.html)  
 - [2020-01-31-科技爱好者周刊：第-92-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)  
 - [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html)  

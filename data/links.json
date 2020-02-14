@@ -3932,6 +3932,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "高阶函数不会用?教你JS中最实用的几个高阶函数用法",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557867&idx=1&sn=d298466c919d4f0248f5709434cf969a&chksm=8025582ab752d13c9454bfe90107788c55f7a61c9a2175c7e6f8da352674598ebf9d11327aa8&scene=27#wechat_redirect",
+        "date": "2020-02-14"
+      },
+      {
+        "title": "正则最佳入门手册(含实践题)",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557863&idx=1&sn=c4f12abcbbe846c226be65c689380f84&chksm=80255826b752d1301c514dc9b5e9bbb52dc98b5e18460c0d26c942faa1fa8f152885b357e244&scene=27#wechat_redirect",
+        "date": "2020-02-13"
+      },
+      {
         "title": "面试前端岗，你被要求手写源码了吗？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=1&sn=b4f75e16ea58f632dfca512e0c1fa588&chksm=80255822b752d13400d3b585039ff01f488b0aa67d6ac6e36a4736cf6ac1da6e509e94a172ba&scene=27#wechat_redirect",
         "date": "2020-02-12"
@@ -7488,6 +7498,16 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "支持IE6只是其一！Web开发的十大噩梦",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=1&sn=b9c24494031e70f6b2a32c879d4fe66f&chksm=f9525d3bce25d42d3bc3748ae6bb598a9552cb41d1eab4cfe2f0f2c80f2a7272716437bce2a2&scene=27#wechat_redirect",
+        "date": "2020-02-14"
+      },
+      {
+        "title": "花40多万开发的App扰乱了一场大选，几乎毁了一家公司",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=2&sn=f92a522ac0c6440499f5472b2348eba0&chksm=f9525d3bce25d42d83ce0fab2f94743e516a409ee1864666c399831b7303120d3e764b4a19c7&scene=27#wechat_redirect",
+        "date": "2020-02-14"
+      },
       {
         "title": "阿里跨境供应链前端架构演进与 Serverless 实践",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=1&sn=fee3e25deb7da9daf17d38b8237e689c&chksm=f9525d30ce25d4263be789799aadbdef95d5bf8fac3e8ea45dff1ae3fc889191e346e5b758af&scene=27#wechat_redirect",
