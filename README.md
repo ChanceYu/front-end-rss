@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-02-17 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-02-17 18:00:30，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2020-02-17-【第1859期】React-Hooks的体系设计之一---分层](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235720&idx=1&sn=23d82cbf1230c230da4f756ef881f9da&chksm=bd497c0c8a3ef51a5b47c79f70238f8d9cb85e21649aaa1345935abe43a79c5e57c2899bafdd&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-17-【第1859期】React-Hooks的体系设计之一---分层](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235720&idx=1&sn=23d82cbf1230c230da4f756ef881f9da&chksm=bd497c0c8a3ef51a5b47c79f70238f8d9cb85e21649aaa1345935abe43a79c5e57c2899bafdd&scene=27#wechat_redirect)  
 - [2020-02-16-【第1858期】通过HTML属性可改善用户的双重身份验证体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235715&idx=1&sn=a7e364236e694b774c671991d657f389&chksm=bd497c078a3ef5113a8d7a2b0d5fbeef13693d188978343b601701962a3086dbf5d7b4e70dce&scene=27#wechat_redirect)  
 - [2020-02-15-【第1857期】Cookie-的-SameSite-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=1&sn=af5e022b2ba0651b7716108cfb2fb01a&chksm=bd497cf28a3ef5e401144a3ec61174757e79a8a57b074f363e84cd8c19da294dffe6ffeed052&scene=27#wechat_redirect)  
 - [2020-02-15-【招聘】腾讯AlloyTeam招募Web工程师社招/校招/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=2&sn=5126109763b45b821b5099dd7932d968&chksm=bd497cf28a3ef5e4fe7eabff1ee5ab8416813fe49da92577047f3468393fdd928ef2a88be129&scene=27#wechat_redirect)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-02-16-前端周报：Firefox-73正式发布；Swift6确定未来发展方向；全球开发者调查报告出炉：IT人](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493756&idx=1&sn=08acbe30ce40e200348db050bf44d922&chksm=f9525d3fce25d429b44d79736c3761e817dfc0a8576105ef314b0790095f820af26d2fc9c9e1&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-02-14-支持IE6只是其一！Web开发的十大噩梦](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=1&sn=b9c24494031e70f6b2a32c879d4fe66f&chksm=f9525d3bce25d42d3bc3748ae6bb598a9552cb41d1eab4cfe2f0f2c80f2a7272716437bce2a2&scene=27#wechat_redirect)  
 - [2020-02-14-花40多万开发的App扰乱了一场大选，几乎毁了一家公司](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=2&sn=f92a522ac0c6440499f5472b2348eba0&chksm=f9525d3bce25d42d83ce0fab2f94743e516a409ee1864666c399831b7303120d3e764b4a19c7&scene=27#wechat_redirect)  
 - [2020-02-13-阿里跨境供应链前端架构演进与-Serverless-实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=1&sn=fee3e25deb7da9daf17d38b8237e689c&chksm=f9525d30ce25d4263be789799aadbdef95d5bf8fac3e8ea45dff1ae3fc889191e346e5b758af&scene=27#wechat_redirect)  
@@ -114,7 +115,6 @@
 - [2020-02-05-2020年需要重点学习的JavaScript框架和主题，以及下一个十年的技术展望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=1&sn=ef5dc4245ef5bb9901a220d1b80d85c9&chksm=f9525d03ce25d415b33718f837495bf1d2cdbeb04ccc6e4db4923ec3f4a792fe95d31d241810&scene=27#wechat_redirect)  
 - [2020-02-05-滴滴跨端框架Chameleon正式支持快应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=2&sn=706381a6d6dd8eff640386c33eca6038&chksm=f9525d03ce25d415521d2f1083d167d6fef74493a189dc4cb1541d189726227be995a957c1d8&scene=27#wechat_redirect)  
 - [2020-02-04-6人起步的前端团队，见证了前端5年巨变史](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=1&sn=ccb825d367f529c8ec6f3e28a79f8cc4&chksm=f9525d7bce25d46d2fa4d4f931de269c8005453e0fa52f745aa234c930c0aa5483bd979bfea4&scene=27#wechat_redirect)  
-- [2020-02-04-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493688&idx=2&sn=f4b305a3b311b05f80d61b4b1b239b67&chksm=f9525d7bce25d46d67f184e442e07f4d72365856c0c1525c98118c8a360c11c0bb6d497e2b36&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

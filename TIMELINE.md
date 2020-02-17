@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-17 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-17 18:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -159,6 +159,7 @@
 - [【前端大全】2020-02-04-面向对象：一个人走可以很快，两个人携手可以走得更远，希望有缘遇见](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=2&sn=f3a0f12a8d608f246754d2fa7c7cd17c&chksm=8025587db752d16b538859b605f862e619d93305c68413d468e4277a357216876df8a7304499&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-03-复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557815&idx=1&sn=ccd54c51dea2edb343a102ee7cada326&chksm=80255876b752d160b47304c3f31923fcfd294aa9b97f6ae207bc8b265802fd153507d51f9b93&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-02-TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect) 
+- [【前端之巅】2020-02-16-前端周报：Firefox-73正式发布；Swift6确定未来发展方向；全球开发者调查报告出炉：IT人](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493756&idx=1&sn=08acbe30ce40e200348db050bf44d922&chksm=f9525d3fce25d429b44d79736c3761e817dfc0a8576105ef314b0790095f820af26d2fc9c9e1&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-14-支持IE6只是其一！Web开发的十大噩梦](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=1&sn=b9c24494031e70f6b2a32c879d4fe66f&chksm=f9525d3bce25d42d3bc3748ae6bb598a9552cb41d1eab4cfe2f0f2c80f2a7272716437bce2a2&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-14-花40多万开发的App扰乱了一场大选，几乎毁了一家公司](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=2&sn=f92a522ac0c6440499f5472b2348eba0&chksm=f9525d3bce25d42d83ce0fab2f94743e516a409ee1864666c399831b7303120d3e764b4a19c7&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-13-阿里跨境供应链前端架构演进与-Serverless-实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=1&sn=fee3e25deb7da9daf17d38b8237e689c&chksm=f9525d30ce25d4263be789799aadbdef95d5bf8fac3e8ea45dff1ae3fc889191e346e5b758af&scene=27#wechat_redirect) 
