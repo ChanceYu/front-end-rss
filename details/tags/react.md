@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-18 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-18 18:00:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -105,6 +105,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2020-02-17-从React切换到Vue.js](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493763&idx=1&sn=76215b32a53d7287cf6be82c584950dd&chksm=f9525dc0ce25d4d6921eea6dfd06a87759d609ced0cb64914ab1222a39d6e11691c2cdf2d5cf&scene=27#wechat_redirect) 
 - [2020-02-11-Shopify：用-React-Native-打造移动应用开发的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493729&idx=1&sn=57ccb62435b414710236f1b7c7cf5fe2&chksm=f9525d22ce25d4345e208ca755c319f3ff1704a9e293974dc42224881595eab399d36d76b6f5&scene=27#wechat_redirect) 
 - [2020-02-06-通过前端工程化将-Apollo-引入现有-React-技术栈](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493704&idx=2&sn=80c9e1dbb1b8495af49eb32c828b26ee&chksm=f9525d0bce25d41df30a2860f8f169c5e29b3c850c0424007be23303ec8dda51000dd6faa62e&scene=27#wechat_redirect) 
 - [2020-01-17-沃尔玛如何使用-React-Native-开发-iOS-和-Android-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=2&sn=af8447b198338396d79dcde3d6cc1306&chksm=f95252b8ce25dbae2d890ea6e9579221cd29c937afb451c9cdfce11ff731d3aab77ec22a6ac8&scene=27#wechat_redirect) 
@@ -173,6 +174,7 @@
 - [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) 
 - [2018-08-31-【译】React-优化：虚拟-DOM-详解](https://jdc.jd.com/archives/212685) 
 - [2018-07-26-【译】使用React和HTML5表单验证API处理表单元素](https://jdc.jd.com/archives/212629) 
+- [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/) 
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/) 
 - [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 - [2018-06-25-为何我们要用-React-来写小程序---Taro-诞生记](https://aotu.io/notes/2018/06/25/the-birth-of-taro/) 
