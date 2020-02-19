@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-02-19 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-19 22:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -483,13 +483,13 @@
 - [【前端早读课】【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect)
 - [【前端早读课】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
+- [【前端大全】性能测试：Firefox-73-vs-Chrome-80](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557889&idx=1&sn=060b7a60ee19e8c9b707407470a0b6ba&chksm=802547c0b752ced6eafcd64c3d99e80395b974758dee3357acc87246c2f882ccf2fb9afdfa44&scene=27#wechat_redirect)
 - [【前端大全】前端性能优化之利用-Chrome-Dev-Tools-进行页面性能分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557836&idx=1&sn=dcb073de9c88c3fb6d5583ac32c66c92&chksm=8025580db752d11bf5cdee1dae4162740a7016cd4c5cf7870e057cfd66af9d4b6bbf6526372e&scene=27#wechat_redirect)
 - [【前端大全】前端性能优化之自定义性能指标及上报方法详解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557751&idx=1&sn=d80fb80e9d5ee3fda0814a14f2dad956&chksm=802558b6b752d1a05072dda6ac56121d4c592f1dc77b0865c1f06d0ef285e9626c233e35b925&scene=27#wechat_redirect)
 - [【前端大全】如何进行-web-性能监控](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557717&idx=1&sn=0da018e3e7b3b7fe065673f7f4e6f0f1&chksm=80255894b752d1823dd0c1c75199e842511ebb82abcf6426ecfaa8b8409f6b92e1ea2ee74845&scene=27#wechat_redirect)
 - [【前端大全】从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557661&idx=1&sn=56b82dd94e719188dbec7e543c537976&chksm=802558dcb752d1cab16eca4c5fbff05c69ba4a7ac712d1e6987189cb04174f2dc8d1ffc96b3a&scene=27#wechat_redirect)
 - [【前端大全】网易云音乐前端性能监控实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557495&idx=1&sn=54215ea99470fed0f1457476435fe98b&chksm=802559b6b752d0a096d0512f57802afbe0aa31c7d62e68a07de3fd1bf1cd0265def7f23b48b2&scene=27#wechat_redirect)
 - [【前端大全】移动端体验优化经验总结与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557392&idx=1&sn=8803d7052575f09e18d5076ee6ba49ae&chksm=802559d1b752d0c701825497ce2defb2135e7e4d70014d7f95cc155d4050d921419813ccf57f&scene=27#wechat_redirect)
-- [【前端大全】炫技，从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557332&idx=1&sn=00cda84ff8941b8b53b262877066e99e&chksm=80255a15b752d3035e513bce41582dce775f03d8cef4dc404cc6a4f460509460818c6df9c844&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
