@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-02-18 18:00:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-19 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第1861期】千万级流量业务的Serverless实践，看FaaS给前端带来的变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=1&sn=faf9eeac40a831985b1ccfa46a39aa4a&chksm=bd497c118a3ef507a01968253be536584d4c38db382e08469f757e2016f94d4690294d84b387&scene=27#wechat_redirect)
 - [【前端早读课】命令行中的加载动画，spinner-的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=2&sn=12494c61b15b6f73d8a795bd7f9fc76e&chksm=bd497cf48a3ef5e2c4380eeade2e09375c1bbee8c65213a0f6aff0c0877432cf2f82fe800d62&scene=27#wechat_redirect)
 - [【前端早读课】【第1854期】CSS-故障艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=1&sn=bed5d7ba67135f150f2d734e239361d0&chksm=bd497ce68a3ef5f0c68fac180996cfb8db62986099131884e595bf686f1fdcd6e8846b90dc38&scene=27#wechat_redirect)
 - [【前端早读课】【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect)
@@ -381,7 +382,6 @@
 - [【前端早读课】【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd)
 - [【前端早读课】【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232018&idx=2&sn=166fd28391a67323e253efcace0458e1#rd)
 - [【前端早读课】【视频】新时代CSS布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=2&sn=0c242b81fdf50b8c6fbb04ac4016a197#rd)
-- [【前端早读课】【视频】你不知道的五个-CSS-新特性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231985&idx=2&sn=b715a678a31eb269834e5b3d78bf900a#rd)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -649,6 +649,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里集团数据技术及产品部招募web前端工程师（社招/校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=2&sn=ad2ae460a1a76e2345feb2fac87ed2aa&chksm=bd497c118a3ef507262b4ae111ef2ee73c7fed4faf7b72e77a09fe683bda19d5b59cf1bfa483&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】腾讯AlloyTeam招募Web工程师社招/校招/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=2&sn=5126109763b45b821b5099dd7932d968&chksm=bd497cf28a3ef5e4fe7eabff1ee5ab8416813fe49da92577047f3468393fdd928ef2a88be129&scene=27#wechat_redirect)
 - [【前端早读课】面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=1&sn=4d4c2e06077cbd1aa5f76e0016dddbec&chksm=bd497ced8a3ef5fb89d934ddaa304d7ca160d7373efdcbcbd5fed685cff14bae294799ebf4f5&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】滴普科技DevOps招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=2&sn=403eebb0b71e248b2c574c44e0ba44b1&chksm=bd497ce68a3ef5f048eb731ba236a52d2ca09133d0904e043e84d4ab7ecfb1ddbc3ee6776b27&scene=27#wechat_redirect)
@@ -668,7 +669,6 @@
 - [【前端早读课】【招聘】北京字节跳动招高级前端开发工程师-教育方向](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=2&sn=884eaa31e5b2b8a02e7657b43e4bf9f5&chksm=bd4947d98a3ececfe06479c0269125cfeac0cb05b59622520945b501db42f1cdda9e6476794f#rd)
 - [【前端早读课】【招聘】上海拼多多社招资深前端／2020校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233882&idx=2&sn=e31273670522a99e6ca915c00322e30e&chksm=bd4947de8a3ecec89b8fe6b306d1b87d703055bad4d13e705049a4b61d768f4be1447ff85348#rd)
 - [【前端早读课】【招聘】淘系技术部行业与工作台前端团队招聘啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233732&idx=2&sn=526032bd01627871acf2410b0c839f9c&chksm=bd4944408a3ecd5688764a2108c919d366d35fbf8f2331067c3d4badcb17d6b4bc5b4a5fa829#rd)
-- [【前端早读课】【招聘】网易云音乐招高级／资深前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233721&idx=2&sn=b505d9b363ec4ae908c61ff0ef367d6e&chksm=bd49443d8a3ecd2b24240cb2f2532f033c73c9f8dec4e847eac951cc99e718711d6812a30d3e#rd)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
