@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-21 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-21 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -228,6 +228,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-02-21-前端人今年的金三银四，就这样浪费了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557902&idx=1&sn=1c73658af7605d9656c9f4edfbf9e5aa&chksm=802547cfb752ced9f050ae8c4db9c431e78a988bdad90efb5d54934104c10398701ca460187c&scene=27#wechat_redirect) 
+- [2020-02-21-动图演示11个必备-VS-Code-插件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557902&idx=2&sn=89a15b5976f09a1868e81c785a567718&chksm=802547cfb752ced9a53f1d476f8de8baa4a31f665c6566a3e38a7a5f575db7d6897cd4ea01fb&scene=27#wechat_redirect) 
 - [2020-02-12-不好意思！耽误你的十分钟，让MVVM原理还给你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557859&idx=2&sn=677477d443a9c18ba1614e4a234b8ec0&chksm=80255822b752d134b5bd5a599a18e5d799ad6cb7e89b959f955df3998d8d5a75e7a9d8543a76&scene=27#wechat_redirect) 
 - [2020-02-11-一文搞懂主流的扫码登录技术原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557858&idx=1&sn=2dac7e773b07429b8f2e2ae66f3b33d0&chksm=80255823b752d135086f5a9c706df9cc10ce763378175e1f96a4bca00e3bf63db4ad2681ee3e&scene=27#wechat_redirect) 
 - [2020-02-10-你不知道的-useRef](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557846&idx=2&sn=fa67d5db5ebc4314bb1ade4da3a84a26&chksm=80255817b752d101a58154db6230ecb6d91697af6eba359c954db37d9998d920eeaf17108402&scene=27#wechat_redirect) 
@@ -372,6 +374,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-02-21-全员降薪65%五个月，核心高管零工资：再明星的教育机构也没躲过去](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493794&idx=2&sn=fd63665d43a045c13d7287607b62c71d&chksm=f9525de1ce25d4f7cc3b3c43a958a723d84f60b312fc01c7f1fa62a7939130b952b8183c0975&scene=27#wechat_redirect) 
 - [2020-02-20-手淘航母级-App-恋上-Swift-之路-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493782&idx=2&sn=013e526ee86f0a5ffb8b498ab1f84aa2&chksm=f9525dd5ce25d4c37cea1e2edb3c9ceb42aad4c0b0c83c2ff96f010cad8c6758dd51f3c37875&scene=27#wechat_redirect) 
 - [2020-02-19-把同事的代码重写得干净又整洁，老板却让我做回滚？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493776&idx=2&sn=6db3bf02256d89caa146c7a9c3bd4e78&chksm=f9525dd3ce25d4c5c0f77d6decabfdb14210c40774c2276444e3836e4b43e311c0b6c58fa8a2&scene=27#wechat_redirect) 
 - [2020-02-19-InfoQ调研-|-填写问卷赢取AirPods，参与就有奖！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493776&idx=3&sn=e1594a09c44a7d1798bf4b42bd63d41d&chksm=f9525dd3ce25d4c528e48c369a047d8dde5965a94e49cc857d6ed7a25e0488b59601e288e207&scene=27#wechat_redirect) 
