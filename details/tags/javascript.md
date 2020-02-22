@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-22 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-22 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -101,6 +101,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2020-02-22-前端面试必备-ES6-全方位总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557906&idx=1&sn=b2f6c48e70056614add53a84e399030a&chksm=802547d3b752cec5c362213554863ac9f30d5e5206a284fbe2c325ebe5f58db128967c7b2796&scene=27#wechat_redirect) 
 - [2020-02-20-一文完全吃透-JavaScript-继承面试必备良药](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557897&idx=1&sn=7baf3a5a8288e22d23dcb61db131329f&chksm=802547c8b752cede9c8fa0cb2691a595ed6cbf15950f07181840548cce077fe4c96f5e251d32&scene=27#wechat_redirect) 
 - [2020-02-18-ES6-之-Proxy-巧用，涨知识了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557884&idx=1&sn=8e92673065a0762d0b96190bd0d0cdfa&chksm=8025583db752d12ba67c5a4e2c35cc797294fc4cd957fd08cb4c0796cdbf2d94eea55b4255c7&scene=27#wechat_redirect) 
 - [2020-02-14-高阶函数不会用?教你JS中最实用的几个高阶函数用法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557867&idx=1&sn=d298466c919d4f0248f5709434cf969a&chksm=8025582ab752d13c9454bfe90107788c55f7a61c9a2175c7e6f8da352674598ebf9d11327aa8&scene=27#wechat_redirect) 

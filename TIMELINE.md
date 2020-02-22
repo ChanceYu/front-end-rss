@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-22 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-22 22:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,6 +149,7 @@
 - [【前端早读课】2020-02-08-【第1850期】网页布局简史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=1&sn=06abd69f6620a549e63fb7aa01e9bbe2&chksm=bd497cc08a3ef5d653463b7f0bbdd06588e71c5c1c31401d32dc5f5304ccd21b06b1b63c2775&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-08-【前端杂记】20200208](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=2&sn=18839e2fd893dac64937cda8ad027d4c&chksm=bd497cc08a3ef5d61934ce7d4514107ab8cffe06d7c497a70f91b3819fdc93ce17490b323306&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-07-【第1849期】远程工作的五大挑战&如何克服它们](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235644&idx=1&sn=56b8c7177124741511dcf97cf781acea&chksm=bd497cb88a3ef5ae393317b93acca0a8257e49e3f994cb703f9fbb0fad3dff6704cf7c437ef6&scene=27#wechat_redirect) 
+- [【前端大全】2020-02-22-前端面试必备-ES6-全方位总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557906&idx=1&sn=b2f6c48e70056614add53a84e399030a&chksm=802547d3b752cec5c362213554863ac9f30d5e5206a284fbe2c325ebe5f58db128967c7b2796&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-21-前端人今年的金三银四，就这样浪费了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557902&idx=1&sn=1c73658af7605d9656c9f4edfbf9e5aa&chksm=802547cfb752ced9f050ae8c4db9c431e78a988bdad90efb5d54934104c10398701ca460187c&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-21-动图演示11个必备-VS-Code-插件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557902&idx=2&sn=89a15b5976f09a1868e81c785a567718&chksm=802547cfb752ced9a53f1d476f8de8baa4a31f665c6566a3e38a7a5f575db7d6897cd4ea01fb&scene=27#wechat_redirect) 
 - [【前端大全】2020-02-20-一文完全吃透-JavaScript-继承面试必备良药](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557897&idx=1&sn=7baf3a5a8288e22d23dcb61db131329f&chksm=802547c8b752cede9c8fa0cb2691a595ed6cbf15950f07181840548cce077fe4c96f5e251d32&scene=27#wechat_redirect) 
