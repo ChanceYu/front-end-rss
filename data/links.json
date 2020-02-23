@@ -4007,6 +4007,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "吊打 JavaScript 之从原型到原型链",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557914&idx=1&sn=7bc2599b245c9d0a05ac6824256a4fca&chksm=802547dbb752cecdc0829837c804c2b43f2b982a9bf6e154aa2d6ef924123b09b4647a19e812&scene=27#wechat_redirect",
+        "date": "2020-02-23"
+      },
+      {
         "title": "前端面试必备 ES6 全方位总结",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557906&idx=1&sn=b2f6c48e70056614add53a84e399030a&chksm=802547d3b752cec5c362213554863ac9f30d5e5206a284fbe2c325ebe5f58db128967c7b2796&scene=27#wechat_redirect",
         "date": "2020-02-22"
@@ -11649,6 +11654,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "RDF 和 SPARQL 初探：以维基数据为例",
+        "link": "http://www.ruanyifeng.com/blog/2020/02/sparql.html",
+        "date": "2020-02-23"
+      },
       {
         "title": "科技爱好者：第 95 期",
         "link": "http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html",
