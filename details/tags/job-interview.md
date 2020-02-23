@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-22 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-23 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-23-【招聘】阿里云中台体验技术部校招开始啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235764&idx=2&sn=03ec1003f0aa037c55ef9519939e8366&chksm=bd497c308a3ef526d560ceb804e2a1cd1495850d57b3f7ffee702b290bf0da06d54aa982fb9d&scene=27#wechat_redirect) 
 - [2020-02-22-【招聘】2021届前端开发实习生招聘-阿里CBU技术部](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235750&idx=2&sn=7f12bb8b1106b225f9df641b9d7d1f5a&chksm=bd497c228a3ef534d51e3ba7a0fb41892f1a2631d4a1b653320eac98a1406b4e76b1bcab7ae7&scene=27#wechat_redirect) 
 - [2020-02-19-【招聘】阿里集团数据技术及产品部招募web前端工程师（社招/校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=2&sn=ad2ae460a1a76e2345feb2fac87ed2aa&chksm=bd497c118a3ef507262b4ae111ef2ee73c7fed4faf7b72e77a09fe683bda19d5b59cf1bfa483&scene=27#wechat_redirect) 
 - [2020-02-15-【招聘】腾讯AlloyTeam招募Web工程师社招/校招/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=2&sn=5126109763b45b821b5099dd7932d968&chksm=bd497cf28a3ef5e4fe7eabff1ee5ab8416813fe49da92577047f3468393fdd928ef2a88be129&scene=27#wechat_redirect) 
