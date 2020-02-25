@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-24 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-25 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-02-25-招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=1&sn=341d051c699edb6e2d00420eb5b83368&chksm=bd497c3a8a3ef52cdccd29bcccd79f07c8eecd5c389719b4f2ccccb813e5e2eeb66a3eec435e&scene=27#wechat_redirect) 
+- [【前端早读课】2020-02-25-【第1867期】Node.js-CLI-工具最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=2&sn=66c5f809811ddc7477d49509231490b8&chksm=bd497c3a8a3ef52c1664210e27863711cd74246ae27ec9a0f39a320676621b2936ce2be3c635&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-24-【第1866期】React-Hooks的体系设计之二---状态粒度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=1&sn=c56010d3e91b0c2993872c2511f820d0&chksm=bd497c328a3ef524c18cc82fd04e9d59f1b0a66bf925da32eaf6029d56162bd03f7f6b84329e&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-24-【kbone-ui】打通-H5/微信小程序，多端UI库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=2&sn=2c7cf3b478196a2cf3af438f83f146e6&chksm=bd497c328a3ef524baa9a814ff8367449206839abc62aad183cd005cae27ee2439455815bbf3&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-23-【第1865期】HTTP的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235764&idx=1&sn=69a111d25c40e847b49373b069129564&chksm=bd497c308a3ef526f6ecd6f65c69643baae68687f2d176e8611ed84c07ca7b6c40e65b100439&scene=27#wechat_redirect) 
