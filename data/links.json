@@ -4037,6 +4037,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "招聘量骤减，70%的求职者被拒，开发者该如何突围？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=1&sn=446126bd1625c3ad1bd8f872674819b1&chksm=802547efb752cef98048cdcb4d9777311a407818b4ed272d063df6c24b47795213bc60aa4107&scene=27#wechat_redirect",
+        "date": "2020-02-26"
+      },
+      {
+        "title": "三年大厂面试官：二面题",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=2&sn=ab8948496371ed0293128dba5df83f71&chksm=802547efb752cef9eb0057700150dba49059a6cf61dffe28a6a832ad55893235bf02672e5fc7&scene=27#wechat_redirect",
+        "date": "2020-02-26"
+      },
+      {
+        "title": "重磅！微信官方推出 Web 前端和小程序统一框架",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557930&idx=1&sn=f26732f4d735907ff41d813784f83674&chksm=802547ebb752cefd67c3abc8aa9664882a196368496a17a0d1426b1392ea43aa0291e1c3946e&scene=27#wechat_redirect",
+        "date": "2020-02-25"
+      },
+      {
         "title": "Vue 3.0将正式发布，对我们有哪些改变？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557917&idx=1&sn=b3b003cacd2fc0c1f7b05185a893adfb&chksm=802547dcb752ceca4e67896d458276685a5b2d1272a3c893e0674ab400cdf61434e33202165f&scene=27#wechat_redirect",
         "date": "2020-02-24"
@@ -7663,6 +7678,21 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "Kotlin vs Flutter：谁将成为跨平台开发市场的最终统治者？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493824&idx=1&sn=20177d3ef49f59c0a2ea9928b3368ee6&chksm=f9525d83ce25d495ed3b5f94055e5ad34432045db87deddc2a2e2788fb3977b947cf6d935fa3&scene=27#wechat_redirect",
+        "date": "2020-02-26"
+      },
+      {
+        "title": "无需标记传递语义：对于无障碍对象模型的使用探索",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493824&idx=2&sn=eb9d6f88f72c1855d0f896500f9b30e8&chksm=f9525d83ce25d4955c07c74446a7e4128772a3f474b13bbd61c50f6e41cf05c2cede34f0444e&scene=27#wechat_redirect",
+        "date": "2020-02-26"
+      },
+      {
+        "title": "你可以不进大厂，但是不能没有大厂的眼界 | 极客大学",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493824&idx=3&sn=7fdb6510517e5cc99e7558e2cb527e10&chksm=f9525d83ce25d495e6f4355d6fa9ad5604d1766cf83f30b5858b366524487297cda919353308&scene=27#wechat_redirect",
+        "date": "2020-02-26"
+      },
       {
         "title": "Dart语言要崛起？谷歌官宣下一代操作系统UI编写只支持Dart！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493812&idx=1&sn=fd832f55c12fd3a854d5467b7cccd13d&chksm=f9525df7ce25d4e1572803ef40d4f416404d8c53574e64db63994b4aedb4e711c84bec963cf8&scene=27#wechat_redirect",
