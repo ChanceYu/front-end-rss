@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-27 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-27 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-02-27-【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect) 
+- [【前端早读课】2020-02-27-【招聘】阿里实习生内推来啦～盒马、数字农业等你来加入～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=2&sn=4c03de7ef557fb42a878291100051326&chksm=bd497c508a3ef5468135812c7429a7b4d2e243825bb8ed4781501616946ada60fceaefaeaeaf&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-26-【第1868期】闲话-CDN](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=1&sn=0d87f52d8e6d89302b15adea50555e91&chksm=bd497c418a3ef55730c13e9a28047d4cc043ab27d4cb05e863e431d9a67f37eb8045fe34df04&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-26-【招聘】字节跳动广告系统-流量增值前端团队社校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=2&sn=c89bf358c49a029bf7925740140598b2&chksm=bd497c418a3ef557d32298c1dd77f80f62aa86475b7cc93640fb6d02eca3d6b14ad3fd8fcff1&scene=27#wechat_redirect) 
 - [【前端早读课】2020-02-25-招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=1&sn=341d051c699edb6e2d00420eb5b83368&chksm=bd497c3a8a3ef52cdccd29bcccd79f07c8eecd5c389719b4f2ccccb813e5e2eeb66a3eec435e&scene=27#wechat_redirect) 
@@ -238,6 +240,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/) 
+- [【阮一峰的网络日志】2020-02-27-我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html) 
 - [【阮一峰的网络日志】2020-02-23-RDF-和-SPARQL-初探：以维基数据为例](http://www.ruanyifeng.com/blog/2020/02/sparql.html) 
 - [【阮一峰的网络日志】2020-02-21-科技爱好者：第-95-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html) 
 - [【阮一峰的网络日志】2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html) 

@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-02-27 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-02-27 12:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2020-02-27-【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-02-27-【招聘】阿里实习生内推来啦～盒马、数字农业等你来加入～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=2&sn=4c03de7ef557fb42a878291100051326&chksm=bd497c508a3ef5468135812c7429a7b4d2e243825bb8ed4781501616946ada60fceaefaeaeaf&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-02-26-【第1868期】闲话-CDN](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=1&sn=0d87f52d8e6d89302b15adea50555e91&chksm=bd497c418a3ef55730c13e9a28047d4cc043ab27d4cb05e863e431d9a67f37eb8045fe34df04&scene=27#wechat_redirect)  
 - [2020-02-26-【招聘】字节跳动广告系统-流量增值前端团队社校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=2&sn=c89bf358c49a029bf7925740140598b2&chksm=bd497c418a3ef557d32298c1dd77f80f62aa86475b7cc93640fb6d02eca3d6b14ad3fd8fcff1&scene=27#wechat_redirect)  
 - [2020-02-25-招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=1&sn=341d051c699edb6e2d00420eb5b83368&chksm=bd497c3a8a3ef52cdccd29bcccd79f07c8eecd5c389719b4f2ccccb813e5e2eeb66a3eec435e&scene=27#wechat_redirect)  
@@ -51,8 +53,6 @@
 - [2020-02-19-【招聘】阿里集团数据技术及产品部招募web前端工程师（社招/校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=2&sn=ad2ae460a1a76e2345feb2fac87ed2aa&chksm=bd497c118a3ef507262b4ae111ef2ee73c7fed4faf7b72e77a09fe683bda19d5b59cf1bfa483&scene=27#wechat_redirect)  
 - [2020-02-18-【第1860期】@Dan-Abramov：我的十年回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235726&idx=1&sn=788b43ba1cfb2e8f7c939b75ea0aaca6&chksm=bd497c0a8a3ef51c7a24cace91b4b24383149d4d0aded39e19ba4c613adf324071aa2916ff8f&scene=27#wechat_redirect)  
 - [2020-02-17-【第1859期】React-Hooks的体系设计之一---分层](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235720&idx=1&sn=23d82cbf1230c230da4f756ef881f9da&chksm=bd497c0c8a3ef51a5b47c79f70238f8d9cb85e21649aaa1345935abe43a79c5e57c2899bafdd&scene=27#wechat_redirect)  
-- [2020-02-16-【第1858期】通过HTML属性可改善用户的双重身份验证体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235715&idx=1&sn=a7e364236e694b774c671991d657f389&chksm=bd497c078a3ef5113a8d7a2b0d5fbeef13693d188978343b601701962a3086dbf5d7b4e70dce&scene=27#wechat_redirect)  
-- [2020-02-15-【第1857期】Cookie-的-SameSite-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=1&sn=af5e022b2ba0651b7716108cfb2fb01a&chksm=bd497cf28a3ef5e401144a3ec61174757e79a8a57b074f363e84cd8c19da294dffe6ffeed052&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) ![](assets/new.png)  
+- [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/)  
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/)  
 - [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/)  
 - [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-02-27-我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html) ![](assets/new.png)  
 - [2020-02-23-RDF-和-SPARQL-初探：以维基数据为例](http://www.ruanyifeng.com/blog/2020/02/sparql.html)  
 - [2020-02-21-科技爱好者：第-95-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)  
 - [2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html)  
@@ -207,7 +208,6 @@
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
 - [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)  
 - [2019-12-17-H5-手机-App-开发入门：技术篇](http://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html)  
-- [2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

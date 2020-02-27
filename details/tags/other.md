@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-27 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-27 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -611,6 +611,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2020-02-27-我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html) 
 - [2020-02-23-RDF-和-SPARQL-初探：以维基数据为例](http://www.ruanyifeng.com/blog/2020/02/sparql.html) 
 - [2020-02-21-科技爱好者：第-95-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html) 
 - [2020-02-14-科技爱好者周刊：第-94-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-94.html) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-02-27 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-27 12:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect)
 - [【前端早读课】80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect)
 - [【前端早读课】【第1763期】kbone，十分钟让Vue项目同时支持小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234487&idx=1&sn=bc5b4e65a9ab3a0ffc3213a1835c1301&chksm=bd4979338a3ef025b3bd6208c16f99829f6faf7ecc2ace5437e9a55c8f68a6564e8fe0fe114d&scene=27#wechat_redirect)
 - [【前端早读课】【PPT】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234482&idx=2&sn=96bb764dd3b44e4e522575586b48425b&chksm=bd4979368a3ef0204053277edfeb0c5e5b6e88c46d0c7059e8381579b9384afdc494fd3de8ee&scene=27#wechat_redirect)
@@ -93,7 +94,6 @@
 - [【前端早读课】【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)
 - [【前端早读课】【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd)
 - [【前端早读课】【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)
-- [【前端早读课】【活动】五一劳动节，五本深入浅出Vue.js等你来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232152&idx=1&sn=cdfa43b059a1ac59feeef22383f339d8#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里实习生内推来啦～盒马、数字农业等你来加入～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=2&sn=4c03de7ef557fb42a878291100051326&chksm=bd497c508a3ef5468135812c7429a7b4d2e243825bb8ed4781501616946ada60fceaefaeaeaf&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】字节跳动广告系统-流量增值前端团队社校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=2&sn=c89bf358c49a029bf7925740140598b2&chksm=bd497c418a3ef557d32298c1dd77f80f62aa86475b7cc93640fb6d02eca3d6b14ad3fd8fcff1&scene=27#wechat_redirect)
 - [【前端早读课】招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=1&sn=341d051c699edb6e2d00420eb5b83368&chksm=bd497c3a8a3ef52cdccd29bcccd79f07c8eecd5c389719b4f2ccccb813e5e2eeb66a3eec435e&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里云中台体验技术部校招开始啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235764&idx=2&sn=03ec1003f0aa037c55ef9519939e8366&chksm=bd497c308a3ef526d560ceb804e2a1cd1495850d57b3f7ffee702b290bf0da06d54aa982fb9d&scene=27#wechat_redirect)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】杭州采政云招前端／前端Leader](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234599&idx=2&sn=d933896945060ff89a9969afbae11561&chksm=bd4978a38a3ef1b52a307718b29489649e0e13104c62369733880665e3ae1fd01e2f28d2bda8&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里数字政务中台前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234536&idx=2&sn=443b94308f7f696024beb45143f432ef&chksm=bd49796c8a3ef07a277f4f183fa0d07cd135846b465444b64d1e0a6392f6619b87e23bb1be63&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】上海联泰科技招聘前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234233&idx=2&sn=3d0be35ff957eb076402aa00da2426ed&chksm=bd49463d8a3ecf2b59847abafd6dce619add432a8d0bc252170464fc2f708193604293406634&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】一起来做个最好的设计工具，腾讯-CDC-招人！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234217&idx=2&sn=d2a179a2082a313d5e70ea641ade2801&chksm=bd49462d8a3ecf3b78dd28cd6991eddd61bfad5b944ef2b533847657de3c3f9270a6998f3ae8&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

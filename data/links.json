@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【视频】Vue.js纪录片",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect",
+        "date": "2020-02-27"
+      },
+      {
+        "title": "【招聘】阿里实习生内推来啦～盒马、数字农业等你来加入～",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=2&sn=4c03de7ef557fb42a878291100051326&chksm=bd497c508a3ef5468135812c7429a7b4d2e243825bb8ed4781501616946ada60fceaefaeaeaf&scene=27#wechat_redirect",
+        "date": "2020-02-27"
+      },
+      {
         "title": "【第1868期】闲话 CDN",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=1&sn=0d87f52d8e6d89302b15adea50555e91&chksm=bd497c418a3ef55730c13e9a28047d4cc043ab27d4cb05e863e431d9a67f37eb8045fe34df04&scene=27#wechat_redirect",
         "date": "2020-02-26"
@@ -11754,6 +11764,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "我的外包经验：印度、中国和菲律宾（译文）",
+        "link": "http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html",
+        "date": "2020-02-27"
+      },
       {
         "title": "RDF 和 SPARQL 初探：以维基数据为例",
         "link": "http://www.ruanyifeng.com/blog/2020/02/sparql.html",
