@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-28 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-28 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -111,6 +111,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2020-02-28-浏览器扩展或成为2020年的“大生意”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493846&idx=2&sn=eb1bb45a75494a9b1d34efcd6ff5baa3&chksm=f9525d95ce25d483a9ddac6defe4d6f1e94188dc7459681fcb40edf94f81e9fdb599e6414cf7&scene=27#wechat_redirect) 
 - [2020-02-23-前端周报：Swift标准库预览版发布；谷歌工程师：厂商请不要自行修改Linux内核代码-；因IE存在](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493798&idx=1&sn=38a80b2330a53993b4a63242b1adb900&chksm=f9525de5ce25d4f3eaf45087424bfb8d16bce049048036f3624a21980312090f406340b8d9e9&scene=27#wechat_redirect) 
 - [2020-02-16-前端周报：Firefox-73正式发布；Swift6确定未来发展方向；全球开发者调查报告出炉：IT人](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493756&idx=1&sn=08acbe30ce40e200348db050bf44d922&chksm=f9525d3fce25d429b44d79736c3761e817dfc0a8576105ef314b0790095f820af26d2fc9c9e1&scene=27#wechat_redirect) 
 - [2020-02-14-支持IE6只是其一！Web开发的十大噩梦](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493752&idx=1&sn=b9c24494031e70f6b2a32c879d4fe66f&chksm=f9525d3bce25d42d3bc3748ae6bb598a9552cb41d1eab4cfe2f0f2c80f2a7272716437bce2a2&scene=27#wechat_redirect) 
