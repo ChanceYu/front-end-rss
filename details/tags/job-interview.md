@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-28 22:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-29 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-29-【招聘】支付宝支付业务技术部招P6/P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235809&idx=2&sn=02ff4ea97e6435b0614c31b80627515e&chksm=bd497c658a3ef57349ff4f9a1afabfca6484cee0612ae40d504ec45fff8fafa07746b3baf0b3&scene=27#wechat_redirect) 
 - [2020-02-28-【招聘】阿里巴巴达摩院2021届前端实习生招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235802&idx=2&sn=42d45689c7d630a633ee253661695122&chksm=bd497c5e8a3ef54833917a98dea7b2c47e389a7db55a84a424354bb558f69ddabd3b77d8fb27&scene=27#wechat_redirect) 
 - [2020-02-27-【招聘】阿里实习生内推来啦～盒马、数字农业等你来加入～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=2&sn=4c03de7ef557fb42a878291100051326&chksm=bd497c508a3ef5468135812c7429a7b4d2e243825bb8ed4781501616946ada60fceaefaeaeaf&scene=27#wechat_redirect) 
 - [2020-02-26-【招聘】字节跳动广告系统-流量增值前端团队社校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=2&sn=c89bf358c49a029bf7925740140598b2&chksm=bd497c418a3ef557d32298c1dd77f80f62aa86475b7cc93640fb6d02eca3d6b14ad3fd8fcff1&scene=27#wechat_redirect) 
