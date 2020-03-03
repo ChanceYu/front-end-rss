@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-02 22:00:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-03 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -595,6 +595,7 @@
 - [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect) 
 - [2018-09-19-阿里是如何让iOS-12越狱成功的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489540&idx=1&sn=8980507d976172e81254d150d5f45c45#wechat_redirect) 
 - [2018-09-17-15行代码让苹果设备崩溃，最新的iOS-12也无法幸免](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489528&idx=1&sn=8ceff768a5ec95eab0e06568ad34dca2#wechat_redirect) 
+- [2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense) 
 - [2019-11-25-双十一模块-79.34%-的代码是怎样智能生成的](https://fed.taobao.org/blog/taofed/do71ct/how-to-generate-code-intelligent) 
 - [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/taofed/do71ct/custom-theme-in-vscode) 
 - [2019-05-29-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply) 

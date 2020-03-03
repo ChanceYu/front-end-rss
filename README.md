@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-02 22:00:38，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-03 08:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
 
@@ -126,6 +126,7 @@
 </summary>
 
 
+- [2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense) ![](assets/new.png)  
 - [2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward)  
 - [2020-01-19-当-SSR-遇上-Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker)  
 - [2019-12-04-iceworks:-从-GUI-开发工具到集成研发工作台](https://fed.taobao.org/blog/taofed/do71ct/icework-v1-to-v2)  
@@ -145,7 +146,6 @@
 - [2019-05-18-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux)  
 - [2019-04-16-我们是如何管理一个-1w+-stars-的开源仓库的](https://fed.taobao.org/blog/taofed/do71ct/how-to-manager-a-1w-starts-repo)  
 - [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265)  
-- [2019-03-14-淘宝前端团队-2019-年实习生内部推荐通道已开启](https://fed.taobao.org/blog/taofed/do71ct/fed-2019)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,7 +281,7 @@
 </summary>
 
 
-- [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/) ![](assets/new.png)  
+- [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)  
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)  
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)  
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)  

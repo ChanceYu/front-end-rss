@@ -11011,6 +11011,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "初识前端智能化",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense",
+        "date": "2020-02-19"
+      },
+      {
         "title": "前端与 Serverless 同行，哇哦视频这半年",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward",
         "date": "2020-02-18"

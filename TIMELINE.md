@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-02 22:00:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-03 08:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -271,6 +271,7 @@
 - [【前端之巅】2020-02-03-GraphQL-vs-REST-API-架构，谁更胜一筹？​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=2&sn=1fcdf497a4b90df32308c6eb66fde909&chksm=f9525d70ce25d4668a7c6fbc10ccd77b47a57b4e7c493365622fe6cb138b5290186b79e5d7bc&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-01-这几个程序员志愿者，用-4-天建起湖北医疗物资需求对接平台](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=1&sn=d9a7914182a7f6593592aed258f77b4f&chksm=f9525d6fce25d479bba6c41db6deaf61aa84cc6913413e9e7ad16e5702821974e4907772191b&scene=27#wechat_redirect) 
 - [【前端之巅】2020-02-01-2020-大前端还能带给我们什么惊喜？丨-GMTC​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493676&idx=2&sn=63092b95a145476c5e5eee9dc7fa38b5&chksm=f9525d6fce25d479a6aff06775e8a5e126fabf423600b87102e74aed745ff8721c37a86631ef&scene=27#wechat_redirect) 
+- [【Taobao-FED-|-淘宝前端团队】2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense) 
 - [【Taobao-FED-|-淘宝前端团队】2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward) 
 - [【张鑫旭-鑫空间-鑫生活】2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) 
