@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-04 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-04 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -59,6 +59,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2020-03-04-人人都会Vue，3.0版本即将发布，你的优势在哪里？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557968&idx=1&sn=fcafe5a0abce6233f972fb067a09831b&chksm=80254791b752ce8776fef414c28bf71d594b546f74f8b004186a682569cdabccd3dbc7248f22&scene=27#wechat_redirect) 
 - [2020-02-24-Vue-3.0将正式发布，对我们有哪些改变？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557917&idx=1&sn=b3b003cacd2fc0c1f7b05185a893adfb&chksm=802547dcb752ceca4e67896d458276685a5b2d1272a3c893e0674ab400cdf61434e33202165f&scene=27#wechat_redirect) 
 - [2020-01-29-vue前端交互模式-es7的​语法结构？async/await​](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557801&idx=1&sn=72469c67406bae96c76896e205b7fcc2&chksm=80255868b752d17e00b00dfd888b39e7a37dbc5bbc12454e05b1bfc2ffd2787b7719677210b8&scene=27#wechat_redirect) 
 - [2020-01-13-一文带你看透Vue前端路由](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557728&idx=1&sn=04ba9b8eceacd815af275adf8bd23675&chksm=802558a1b752d1b711d3a29c6dab37d8222ddcba0a6288acda8b3657fe7f345368c6975a6de4&scene=27#wechat_redirect) 
