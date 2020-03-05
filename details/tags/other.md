@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-05 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-05 18:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -235,6 +235,11 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-03-04-关于前端学习路线的一些建议](/p/0398f87dfbde8ba8686a07912148b3c0) 
+- [2020-03-03-Web-正文字体发展简史](/p/1dcb028453ea676da18129577072cfe0) 
+- [2020-03-02-开发人今年的金三银四，就白费了？](/p/abe2c3472dec3e756f1508b4b70a2ec0) 
+- [2020-03-02-三分钟迁移-Ant-Design-4](/p/9e1a8d1ff7ec53aa4948712229b63b5c) 
+- [2020-02-27-手把手教你写出令人窒息的烂代码](/p/baa013c25fa60db0edde0b8852a0fcd9) 
 - [2020-03-04-关于前端学习路线的一些建议](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557968&idx=2&sn=7da3e0366582159c2d43ee53e57ee0c1&chksm=80254791b752ce879bd950362a7571895d6bf5abb14c90eba8859beb43806108393c5835e1cd&scene=27#wechat_redirect) 
 - [2020-03-03-Web-正文字体发展简史](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557966&idx=1&sn=bec4919c1c0770ecb146537f288ce7f7&chksm=8025478fb752ce99de6387ba362b12b4975413722c7b3519b8455b5234fc31d202656d67ee3b&scene=27#wechat_redirect) 
 - [2020-03-02-开发人今年的金三银四，就白费了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557956&idx=1&sn=d235e6ea5214a05231e6dfafb5056687&chksm=80254785b752ce9336250d92a8b7cdb60edb8ae21c1a09e44fb44af30d7f44aa9072631d1f6a&scene=27#wechat_redirect) 
@@ -387,6 +392,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-04-疫情过后如何实现技术能力快速提升，我们有份半价福利送给你](/p/638be00dec8befa495687173666a3249) 
+- [2020-03-03-前端领域主管是刚需，中小前端团队Team-Leader如何养成？](/p/29a41591b56bbe7871056905937efdb6) 
+- [2020-03-02-从阿里前端工程化中台实践，看中台建设的舍与得](/p/dac1ce739b65531348e423457f0190ee) 
+- [2020-03-01-前端周报：谷歌新系统钦定Dart语言；微盟删库程序员系因深陷网络贷？受疫情影响-Facebook-取](/p/10b896c5c2f2ba581ca12406c510501b) 
 - [2020-03-04-疫情过后如何实现技术能力快速提升，我们有份半价福利送给你](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493867&idx=2&sn=75ba151eaa31b65d478719eb22bc5f95&chksm=f9525da8ce25d4befa36439cbdd589f51da954ba9fb754d0370e25c236637271217eecf48736&scene=27#wechat_redirect) 
 - [2020-03-03-前端领域主管是刚需，中小前端团队Team-Leader如何养成？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493862&idx=1&sn=cd2ff433161733b4f277e73a4a025bee&chksm=f9525da5ce25d4b3dc99f8fb2a4cf844b71f1446366810d606094bceb727cbd2ae3e488dbf71&scene=27#wechat_redirect) 
 - [2020-03-02-从阿里前端工程化中台实践，看中台建设的舍与得](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493857&idx=1&sn=157aecb6840c288f4c5adbcd54793170&chksm=f9525da2ce25d4b448c54be449f06db062eafbcf43e074cd10041d2428dcbd2426d998f42651&scene=27#wechat_redirect) 
