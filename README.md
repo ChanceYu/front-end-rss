@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-07 06:00:23，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-08 06:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,12 +95,12 @@
 </summary>
 
 
-- [2020-03-06-2020-前端开源领域技术展望](/p/0732dec7f89f2940f2939065226d419b) ![](assets/new.png)  
-- [2020-03-06-10个前端开发需要学习的关键技能](/p/373a93d0003bb6355845dd450647a6ab) ![](assets/new.png)  
-- [2020-03-06-只会-Vue-的前端工程师是没有前途的](/p/a18cc45de4e8127f298c559efb9ebb04) ![](assets/new.png)  
-- [2020-03-05-抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%](/p/d0e387aee202f9da22ce42f59b932c74) ![](assets/new.png)  
-- [2020-03-05-基于-Serverless-打造全栈“闭环”开发的实战-|-GMTC](/p/70aa83adb65a2c65bb5fec1821844e1b) ![](assets/new.png)  
-- [2020-03-05-JavaScript中For循环的3种版本和使用场景](/p/23b31ce8c007d5ac4195427769dbd184) ![](assets/new.png)  
+- [2020-03-06-2020-前端开源领域技术展望](/p/0732dec7f89f2940f2939065226d419b)  
+- [2020-03-06-10个前端开发需要学习的关键技能](/p/373a93d0003bb6355845dd450647a6ab)  
+- [2020-03-06-只会-Vue-的前端工程师是没有前途的](/p/a18cc45de4e8127f298c559efb9ebb04)  
+- [2020-03-05-抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%](/p/d0e387aee202f9da22ce42f59b932c74)  
+- [2020-03-05-基于-Serverless-打造全栈“闭环”开发的实战-|-GMTC](/p/70aa83adb65a2c65bb5fec1821844e1b)  
+- [2020-03-05-JavaScript中For循环的3种版本和使用场景](/p/23b31ce8c007d5ac4195427769dbd184)  
 - [2020-03-04-PWA对比原生应用：谁更胜一筹？](/p/e77758e63d1a3b346ea13c13f85f7ea5)  
 - [2020-03-04-疫情过后如何实现技术能力快速提升，我们有份半价福利送给你](/p/638be00dec8befa495687173666a3249)  
 - [2020-03-03-前端领域主管是刚需，中小前端团队Team-Leader如何养成？](/p/29a41591b56bbe7871056905937efdb6)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) ![](assets/new.png)  
 - [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/)  
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/)  
 - [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/)  
@@ -176,7 +177,6 @@
 - [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/)  
 - [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/)  
-- [2019-10-16-关于《CSS选择器世界》这本书](https://www.zhangxinxu.com/wordpress/2019/10/book-css-selector-world/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
