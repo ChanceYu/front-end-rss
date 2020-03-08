@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-08 06:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-08 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -338,6 +338,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](https://fed.taobao.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](https://fed.taobao.org/blog/2017/12/07/machine-learning/) 
+- [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) 
 - [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) 
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) 
 - [2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/) 
@@ -381,6 +382,7 @@
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html) 
+- [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html) 
 - [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html) 
 - [2019-10-27-ES6全部特性（看图就能记下，值得收藏）](http://www.yyyweb.com/5321.html) 
 - [2019-10-27-数组去重12种方案（经典面试必问）](http://www.yyyweb.com/5318.html) 

@@ -11543,6 +11543,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "检测DOM尺寸变化JS API ResizeObserver简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/",
+        "date": "2020-03-08"
+      },
+      {
         "title": "深入理解position sticky粘性定位的计算规则",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/",
         "date": "2020-03-07"
@@ -12816,6 +12821,16 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "24 个 ES6 方法，解决实际开发的 JS 问题",
+        "link": "http://www.yyyweb.com/5354.html",
+        "date": "2020-03-08"
+      },
+      {
+        "title": "Ant Design 4.0 正式版来了！",
+        "link": "http://www.yyyweb.com/5352.html",
+        "date": "2020-03-08"
+      },
       {
         "title": "Taro 2.0：拥抱社区，拥抱变化",
         "link": "http://www.yyyweb.com/5350.html",

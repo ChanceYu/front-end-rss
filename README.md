@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-08 06:00:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-08 18:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,7 +157,8 @@
 </summary>
 
 
-- [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) ![](assets/new.png)  
+- [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) ![](assets/new.png)  
+- [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)  
 - [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/)  
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/)  
 - [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/)  
@@ -176,7 +177,6 @@
 - [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/)  
 - [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  
 - [2019-11-08-JS检测CSS属性浏览器是否支持的多种方法](https://www.zhangxinxu.com/wordpress/2019/11/js-css-supports-detect/)  
-- [2019-10-27-幸好document.readyState还是有点锤子用的](https://www.zhangxinxu.com/wordpress/2019/10/document-readystate/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,6 +219,8 @@
 </summary>
 
 
+- [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html) ![](assets/new.png)  
+- [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html) ![](assets/new.png)  
 - [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html)  
 - [2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html)  
 - [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html)  
@@ -237,8 +239,6 @@
 - [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html)  
 - [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html)  
 - [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html)  
-- [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html)  
-- [2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
