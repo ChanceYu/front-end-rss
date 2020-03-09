@@ -13326,6 +13326,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "JDRD开发小结",
+        "link": "https://aotu.io/notes/2020/02/21/jdrd-summary/",
+        "date": "2020-02-21"
+      },
+      {
         "title": "Web 中文字体处理总结",
         "link": "https://aotu.io/notes/2020/02/28/webfont-processing/",
         "date": "2020-02-28"

@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-08 22:00:27，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-09 12:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2020-03-07-4W字长文带你深度解锁Webpack系列上](/p/a7a94be90091f420cf658bb93fbcc5ee) ![](assets/new.png)  
-- [2020-03-06-一小时的时间来了解AI抗疫，技术在进步，一切会更好！](/p/c0938be3e648306c1fc2629de11b472f) ![](assets/new.png)  
-- [2020-03-06-可视化搭建数据大屏系统的前端实现](/p/04f9fda90b1f62bbd5635b6aa41f28d0) ![](assets/new.png)  
-- [2020-03-05-前端高级进阶：Javascript-代码是如何被压缩的](/p/5f88834dda79dadd1d7c1fb32b43fe7a) ![](assets/new.png)  
+- [2020-03-07-4W字长文带你深度解锁Webpack系列上](/p/a7a94be90091f420cf658bb93fbcc5ee)  
+- [2020-03-06-一小时的时间来了解AI抗疫，技术在进步，一切会更好！](/p/c0938be3e648306c1fc2629de11b472f)  
+- [2020-03-06-可视化搭建数据大屏系统的前端实现](/p/04f9fda90b1f62bbd5635b6aa41f28d0)  
+- [2020-03-05-前端高级进阶：Javascript-代码是如何被压缩的](/p/5f88834dda79dadd1d7c1fb32b43fe7a)  
 - [2020-03-04-人人都会Vue，3.0版本即将发布，你的优势在哪里？](/p/3fe355fb6c21c6fb8762ca4f028abdc3)  
 - [2020-03-04-关于前端学习路线的一些建议](/p/0398f87dfbde8ba8686a07912148b3c0)  
 - [2020-03-03-Web-正文字体发展简史](/p/1dcb028453ea676da18129577072cfe0)  
@@ -281,6 +281,7 @@
 </summary>
 
 
+- [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/) ![](assets/new.png)  
 - [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)  
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)  
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)  
@@ -300,7 +301,6 @@
 - [2019-07-01-邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)  
 - [2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)  
 - [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)  
-- [2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
