@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-09 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-09 22:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -235,6 +235,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-03-09-“不降薪就裸辞”，高薪开发者如何打破复工魔咒？](/p/e9959abfd14f1397615cf53f0db42224) 
+- [2020-03-08-如何轻松拿到淘宝前端-offer](/p/b0fb269a4d1d725ba66a25a19095979f) 
 - [2020-03-06-一小时的时间来了解AI抗疫，技术在进步，一切会更好！](/p/c0938be3e648306c1fc2629de11b472f) 
 - [2020-03-06-可视化搭建数据大屏系统的前端实现](/p/04f9fda90b1f62bbd5635b6aa41f28d0) 
 - [2020-03-04-关于前端学习路线的一些建议](/p/0398f87dfbde8ba8686a07912148b3c0) 
