@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-09 22:00:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-10 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -184,6 +184,7 @@
 - [【阮一峰的网络日志】2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html) 
 - [【前端里】2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html) 
 - [【前端里】2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html) 
+- [【JDC-|-京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
