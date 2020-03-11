@@ -4132,6 +4132,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "前端技术者在 Vue3.0 的浪潮下如何奋勇激进？",
+        "link": "/p/7f48fe97f70e45bccb1089f693a9e122",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "又来了！Google 和微软在浏览器上的互掐",
+        "link": "/p/5bc6084825cf2a06eb65efcb3a83c965",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "万字长文带你深度解锁Webpack（进阶篇）",
+        "link": "/p/172da1d5db8683ae94b46516351e7597",
+        "date": "2020-03-10"
+      },
+      {
         "title": "“不降薪就裸辞”，高薪开发者如何打破复工魔咒？",
         "link": "/p/e9959abfd14f1397615cf53f0db42224",
         "date": "2020-03-09"
@@ -7908,6 +7923,11 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "Ant Design 4.0发布，我们和核心作者聊了聊",
+        "link": "/p/a00056fea0d341b575dfe644310bbc96",
+        "date": "2020-03-10"
+      },
       {
         "title": "我开源了一款JS打包/压缩工具，比其他工具快10-100倍！",
         "link": "/p/3339ddec51bd51e82fe095213344ce6d",
