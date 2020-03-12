@@ -11618,6 +11618,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "关于CSS emoji字体和OpenType-SVG我所知道的一些事",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/",
+        "date": "2020-03-12"
+      },
+      {
         "title": "检测DOM尺寸变化JS API ResizeObserver简介",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/",
         "date": "2020-03-08"
