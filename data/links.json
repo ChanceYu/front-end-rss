@@ -11291,6 +11291,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "一个前端智能化的实践",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend",
+        "date": "2020-03-02"
+      },
+      {
         "title": "初识前端智能化",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense",
         "date": "2020-02-19"
