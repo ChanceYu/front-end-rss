@@ -7924,6 +7924,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "张鑫旭：我对前端从业人员分布与技术风向的一点看法",
+        "link": "/p/f82936486b8344bff7e176df157c1a0d",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "Wasm 在物联网、云和多媒体领域发展现状（首届 WebAssembly Sumimit 解析下篇）",
+        "link": "/p/7981343de570f17ccd1d2af9afac9386",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "从首届 WebAssembly Summit 看 Wasm 未来发展方向——安全性、性能和浏览器引擎",
+        "link": "/p/e40a9ef7f17cdea3046e7e5283f4695b",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "苹果开源ArgumentParser：为Swift加个工具？",
+        "link": "/p/b913fe5c75ef43643dfac31f8f71c6b8",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "如何将研发团队的学习成本降至每年300元/人？| 极客时间",
+        "link": "/p/58a25aefbbb0f08703454ae6d8394538",
+        "date": "2020-03-11"
+      },
+      {
         "title": "Ant Design 4.0发布，我们和核心作者聊了聊",
         "link": "/p/a00056fea0d341b575dfe644310bbc96",
         "date": "2020-03-10"
@@ -12194,6 +12219,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 98 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html",
+        "date": "2020-03-13"
+      },
       {
         "title": "科技爱好者周刊：第 97 期",
         "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html",
