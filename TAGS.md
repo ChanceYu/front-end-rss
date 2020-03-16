@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-16 08:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-16 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -583,6 +583,7 @@
 - [【前端早读课】【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)
 - [【前端早读课】GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd)
 - [【前端早读课】【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect)
+- [【前端大全】前端高级进阶：使用-docker-高效部署你的前端应用](/p/9514870038bcd28b54cb8b3723471013)
 - [【前端大全】面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd)
 - [【前端大全】GraphQL-入门看这篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556913&idx=1&sn=6118d988598b1b2a9eb48f0831894396&chksm=80255bf0b752d2e6b281df72953db5249443830c36adfca3d90aece1379980e8a0fe61f9d968&scene=27#wechat_redirect)
 - [【前端大全】前端开发者必备的-Nginx-知识](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556250&idx=1&sn=07ae8424d4087a11a1fbacc54b1581db#rd)
@@ -597,7 +598,6 @@
 - [【前端之巅】为什么说GraphQL可以取代REST-API？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490309&idx=1&sn=ae433cdd36ed969894e20304c0dd5556#wechat_redirect)
 - [【前端之巅】开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect)
 - [【前端之巅】Netflix：我们为什么要将GraphQL引入前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490124&idx=1&sn=c00ac4b281b3343221f57fcba6bd4d74#wechat_redirect)
-- [【前端之巅】Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
