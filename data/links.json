@@ -7939,6 +7939,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "GitHub正式收购npm，这对开发者意味着什么？",
+        "link": "/p/66074e483f5188b85da118933f22bde5",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "工程师快速成长指北",
+        "link": "/p/d4ae1cb123b2c94496af66d94f298bee",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "性能提升三倍！优酷Node.js重构之路",
+        "link": "/p/67084db893f0f9fe269e8381a62cce38",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "极客大学前端进阶训练营有偿招募兼职助教",
+        "link": "/p/9a727df8a54312ef1f34ab9840662652",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？",
+        "link": "/p/e76e28083b0366a8f6f30fe04a706dc8",
+        "date": "2020-03-16"
+      },
+      {
         "title": "前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对",
         "link": "/p/f557b4b08a8c29880e757f5ab100f37b",
         "date": "2020-03-15"
@@ -13465,6 +13490,11 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "来自程序媛的技术成长分享",
+        "link": "https://aotu.io/notes/2020/03/17/technological-growth/",
+        "date": "2020-03-17"
+      },
       {
         "title": "JDRD开发小结",
         "link": "https://aotu.io/notes/2020/02/21/jdrd-summary/",

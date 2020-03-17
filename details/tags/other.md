@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-16 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -396,6 +396,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-17-工程师快速成长指北](/p/d4ae1cb123b2c94496af66d94f298bee) 
+- [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](/p/9a727df8a54312ef1f34ab9840662652) 
+- [2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](/p/e76e28083b0366a8f6f30fe04a706dc8) 
 - [2020-03-14-极客大学前端进阶训练营有偿招募兼职助教](/p/3248cd8bc832e226ce2cf7c292a8a12b) 
 - [2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](/p/b6f65205b280ccc8091765417ecf2c54) 
 - [2020-03-13-dna-：一个-Dart-到-Native-的超级通道](/p/78ba18011f5411f62e0c6488412bc7d4) 
@@ -806,6 +809,7 @@
 - [2018-12-25-新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
 - [2018-10-19-可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773) 
 - [2018-09-13-不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702) 
+- [2020-03-17-来自程序媛的技术成长分享](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/) 
 - [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/) 
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
