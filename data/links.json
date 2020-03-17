@@ -4132,6 +4132,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "微软旗下 GitHub 收购 npm",
+        "link": "/p/3cdb4e4ca0746a4cf3c1be8cadf304ee",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "2020 年需要学习的 8 个前端关键技能",
+        "link": "/p/d1cd86723fa7f6c2b827f22ce6165b1e",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "前端面试官：你知道 source-map 的原理吗？",
+        "link": "/p/bbd4d4c5cfdd022d4e3662188c8a8aa5",
+        "date": "2020-03-16"
+      },
+      {
         "title": "前端精神小伙：React Hooks 响应式布局",
         "link": "/p/f60d874d3cfc4c45d28d23717b3b224b",
         "date": "2020-03-15"
