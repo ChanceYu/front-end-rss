@@ -11728,6 +11728,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS overflow-wrap新属性值anywhere是干嘛用的？",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/",
+        "date": "2020-03-18"
+      },
+      {
         "title": "关于CSS emoji字体和OpenType-SVG我所知道的一些事",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/",
         "date": "2020-03-12"

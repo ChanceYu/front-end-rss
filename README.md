@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-17 22:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2020-03-17-微软旗下-GitHub-收购-npm](/p/3cdb4e4ca0746a4cf3c1be8cadf304ee) ![](assets/new.png)  
-- [2020-03-16-2020-年需要学习的-8-个前端关键技能](/p/d1cd86723fa7f6c2b827f22ce6165b1e) ![](assets/new.png)  
-- [2020-03-16-前端面试官：你知道-source-map-的原理吗？](/p/bbd4d4c5cfdd022d4e3662188c8a8aa5) ![](assets/new.png)  
+- [2020-03-17-微软旗下-GitHub-收购-npm](/p/3cdb4e4ca0746a4cf3c1be8cadf304ee)  
+- [2020-03-16-2020-年需要学习的-8-个前端关键技能](/p/d1cd86723fa7f6c2b827f22ce6165b1e)  
+- [2020-03-16-前端面试官：你知道-source-map-的原理吗？](/p/bbd4d4c5cfdd022d4e3662188c8a8aa5)  
 - [2020-03-15-前端精神小伙：React-Hooks-响应式布局](/p/f60d874d3cfc4c45d28d23717b3b224b)  
 - [2020-03-14-前端高级进阶：使用-docker-高效部署你的前端应用](/p/9514870038bcd28b54cb8b3723471013)  
 - [2020-03-12-8-个问题带你进阶-React](/p/76a6df30c51ae9765d55a5e2c6f00a90)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) ![](assets/new.png)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)  
@@ -176,7 +177,6 @@
 - [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
 - [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/)  
 - [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/)  
-- [2019-11-10-CSS值类型文档大全](https://www.zhangxinxu.com/wordpress/2019/11/css-value-type/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
