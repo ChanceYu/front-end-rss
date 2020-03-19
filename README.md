@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 18:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](/p/292c010dc82b1bd942a44bfe5a28fd93) ![](assets/new.png)  
+- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](/p/0019ec8f55a5e53132cd874c26ed6b20) ![](assets/new.png)  
+- [2020-03-18-六个提升前端开发效率的工具](/p/45a00d1b92ba5c0b528d3e564d10a2ef) ![](assets/new.png)  
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](/p/66074e483f5188b85da118933f22bde5)  
 - [2020-03-17-工程师快速成长指北](/p/d4ae1cb123b2c94496af66d94f298bee)  
 - [2020-03-16-性能提升三倍！优酷Node.js重构之路](/p/67084db893f0f9fe269e8381a62cce38)  
@@ -112,9 +115,6 @@
 - [2020-03-11-如何将研发团队的学习成本降至每年300元/人？|-极客时间](/p/58a25aefbbb0f08703454ae6d8394538)  
 - [2020-03-10-Ant-Design-4.0发布，我们和核心作者聊了聊](/p/a00056fea0d341b575dfe644310bbc96)  
 - [2020-03-09-我开源了一款JS打包/压缩工具，比其他工具快10-100倍！](/p/3339ddec51bd51e82fe095213344ce6d)  
-- [2020-03-09-提升前端开发效率：你应该知道的10个Chrome扩展程序](/p/3cc0a6d24d481d2366b32777b217e182)  
-- [2020-03-09-半个月从前端转型机器学习，看他们是如何做到的？-|-极客大学](/p/4c3d019eed2507ba64d8af8cbb371ea1)  
-- [2020-03-08-前端周报：华为为深入武汉抗疫一线员工提供每人每天两千元补助；Debian领导人不参与今年DPL竞选；](/p/ffe335db23eaa3205e0756ac1cd865dd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) ![](assets/new.png)  
+- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)  

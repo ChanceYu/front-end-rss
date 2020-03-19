@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -397,6 +397,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-18-六个提升前端开发效率的工具](/p/45a00d1b92ba5c0b528d3e564d10a2ef) 
 - [2020-03-17-工程师快速成长指北](/p/d4ae1cb123b2c94496af66d94f298bee) 
 - [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](/p/9a727df8a54312ef1f34ab9840662652) 
 - [2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](/p/e76e28083b0366a8f6f30fe04a706dc8) 
