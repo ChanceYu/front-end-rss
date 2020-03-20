@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 18:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 08:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [前端之巅](#前端之巅)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](/p/292c010dc82b1bd942a44bfe5a28fd93) ![](assets/new.png)  
-- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](/p/0019ec8f55a5e53132cd874c26ed6b20) ![](assets/new.png)  
-- [2020-03-18-六个提升前端开发效率的工具](/p/45a00d1b92ba5c0b528d3e564d10a2ef) ![](assets/new.png)  
+- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](/p/292c010dc82b1bd942a44bfe5a28fd93)  
+- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](/p/0019ec8f55a5e53132cd874c26ed6b20)  
+- [2020-03-18-六个提升前端开发效率的工具](/p/45a00d1b92ba5c0b528d3e564d10a2ef)  
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](/p/66074e483f5188b85da118933f22bde5)  
 - [2020-03-17-工程师快速成长指北](/p/d4ae1cb123b2c94496af66d94f298bee)  
 - [2020-03-16-性能提升三倍！优酷Node.js重构之路](/p/67084db893f0f9fe269e8381a62cce38)  
@@ -126,6 +126,7 @@
 </summary>
 
 
+- [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) ![](assets/new.png)  
 - [2020-03-02-一个前端智能化的实践](https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend)  
 - [2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense)  
 - [2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward)  
@@ -145,7 +146,6 @@
 - [2019-06-06-大话-JavaScript-动画](https://fed.taobao.org/blog/taofed/do71ct/js-animation-base)  
 - [2019-05-29-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply)  
 - [2019-05-18-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux)  
-- [2019-04-16-我们是如何管理一个-1w+-stars-的开源仓库的](https://fed.taobao.org/blog/taofed/do71ct/how-to-manager-a-1w-starts-repo)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
