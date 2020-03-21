@@ -11768,6 +11768,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS text-decoration实现宽度100%波浪线效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/",
+        "date": "2020-03-21"
+      },
+      {
         "title": "CSS overflow-wrap新属性值anywhere是干嘛用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/",
         "date": "2020-03-18"
