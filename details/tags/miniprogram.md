@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -50,6 +50,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](/p/075a95dc694f97f40430ed95ed247211) 
 - [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](/p/f557b4b08a8c29880e757f5ab100f37b) 
 - [2020-02-13-2020小程序：兵家必争之地](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=2&sn=b255d74cd46f0e24f3f567beece8432b&chksm=f9525d30ce25d426e978e9da77a476545c3cf509260b46543bb27c65393de6a648c28948aa8c&scene=27#wechat_redirect) 
 - [2020-02-05-滴滴跨端框架Chameleon正式支持快应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=2&sn=706381a6d6dd8eff640386c33eca6038&chksm=f9525d03ce25d415521d2f1083d167d6fef74493a189dc4cb1541d189726227be995a957c1d8&scene=27#wechat_redirect) 
