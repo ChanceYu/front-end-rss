@@ -12390,6 +12390,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "尤瓦尔·赫拉利《冠状病毒之后的世界》",
+        "link": "http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html",
+        "date": "2020-03-23"
+      },
+      {
         "title": "科技爱好者周刊：第 99 期",
         "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html",
         "date": "2020-03-20"
@@ -13111,6 +13116,11 @@
     "title": "前端里",
     "link": "http://www.yyyweb.com",
     "items": [
+      {
+        "title": "AntV 统计图表 G2Plot 1.0 发布",
+        "link": "http://www.yyyweb.com/5357.html",
+        "date": "2020-03-23"
+      },
       {
         "title": "24 个 ES6 方法，解决实际开发的 JS 问题",
         "link": "http://www.yyyweb.com/5354.html",
