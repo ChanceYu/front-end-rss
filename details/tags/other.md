@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -813,6 +813,7 @@
 - [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html) 
 - [2018-09-26-基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html) 
 - [2018-08-07-玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html) 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 

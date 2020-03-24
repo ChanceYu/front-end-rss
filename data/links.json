@@ -13464,6 +13464,11 @@
     "link": "https://jdc.jd.com",
     "items": [
       {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
         "title": "NutUI 3.0 中单元测试的探索和实践",
         "link": "https://jdc.jd.com/archives/213007",
         "date": "2020-03-10"

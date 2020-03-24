@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,9 +20,9 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)![](assets/dot.png)   
-- [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)  
+- [JDC-|-京东设计中心](#jdc-|-京东设计中心)![](assets/dot.png)   
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html) ![](assets/new.png)  
+- [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)  
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html) ![](assets/new.png)  
+- [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html)  
 - [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html)  
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html)  
 - [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html)  
@@ -250,6 +250,7 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)  
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)  
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)  
@@ -269,7 +270,6 @@
 - [2018-10-19-利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768)  
 - [2018-09-28-【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710)  
 - [2018-09-13-不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702)  
-- [2018-09-07-小程序实战总结](https://jdc.jd.com/archives/212697)  
 - [......【查看更多】......](./details/JDC-|-京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
