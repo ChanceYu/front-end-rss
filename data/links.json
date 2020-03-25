@@ -4132,6 +4132,26 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "面试的时候，会用 Vue 就够了吗？",
+        "link": "/p/b41746b1656a5db0f3f4e1d869717f83",
+        "date": "2020-03-25"
+      },
+      {
+        "title": "深度解析！Vue3 & React Hooks 新UI组件原理：Modal 弹窗",
+        "link": "/p/4091e9fea72bb184fc5166013bf46b83",
+        "date": "2020-03-25"
+      },
+      {
+        "title": "从一道面试题引发的原理性探究",
+        "link": "/p/b1b26986dae0f48a333782259e4f3aab",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "面向对象：不需要轰轰烈烈的爱情，期待可以平淡中相守",
+        "link": "/p/87ac912b943cb1132120c1d403800520",
+        "date": "2020-03-24"
+      },
+      {
         "title": "为什么说你一定要懂源码？！",
         "link": "/p/337cf977fd7747691170f8ae751b3851",
         "date": "2020-03-23"
@@ -7983,6 +8003,16 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "亿级前端项目中的3D技术：支付宝2020年新春活动的背后",
+        "link": "/p/619bea0d1092c5620efa859ace4b92b1",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "基于不可变 CDN 提升前端持续交付质量的探索 | GMTC",
+        "link": "/p/95d725c65baa3c8c3274c87fad048b41",
+        "date": "2020-03-24"
+      },
       {
         "title": "TypeScript被吹过头了？",
         "link": "/p/b2bcfe68c2f7978da1ddf75b36ea8049",

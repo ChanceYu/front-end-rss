@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-25 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -398,6 +398,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-24-基于不可变-CDN-提升前端持续交付质量的探索-|-GMTC](/p/95d725c65baa3c8c3274c87fad048b41) 
 - [2020-03-23-2020如何斩获大厂Offer？-|-极客大学](/p/3e039eb849e321d6d42c3e5c77af25bb) 
 - [2020-03-22-前端周报：5.38亿微博用户信息泄露，售价不到万元；45天全国10万公司申请注销；微软称使用Win](/p/0ac62bdfd0f282e690da123b0041f334) 
 - [2020-03-22-Paddle-Lite-v2.3正式发布，新特性解读](/p/d38daacb5d61e8be7989f27c5b7cb3bb) 

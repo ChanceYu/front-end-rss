@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-25 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 面向对象❤️
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-03-24-面向对象：不需要轰轰烈烈的爱情，期待可以平淡中相守](/p/87ac912b943cb1132120c1d403800520) 
 - [2020-03-01-面向对象：让我们相互陪伴，一起终结孤单](/p/7f19340267c1e56ba75fd36e12539d14) 
 - [2020-03-01-面向对象：让我们相互陪伴，一起终结孤单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557953&idx=2&sn=696a80d8da01cbf46da8dcfb1b6ae0ac&chksm=80254780b752ce9610bc6cecd9077995834e657c67d9d0ee9d85567e231589fec20f0b402f7d&scene=27#wechat_redirect) 
 - [2020-02-04-面向对象：一个人走可以很快，两个人携手可以走得更远，希望有缘遇见](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=2&sn=f3a0f12a8d608f246754d2fa7c7cd17c&chksm=8025587db752d16b538859b605f862e619d93305c68413d468e4277a357216876df8a7304499&scene=27#wechat_redirect) 
