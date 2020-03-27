@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -65,6 +65,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2020-03-26-从零实现-react-redux](/p/e37c41913f34f6bacbc2deab2b88c794) 
 - [2020-03-25-深度解析！Vue3-&-React-Hooks-新UI组件原理：Modal-弹窗](/p/4091e9fea72bb184fc5166013bf46b83) 
 - [2020-03-19-React-Router-v6-新特性解读及迁移指南](/p/db54568cc3a136c43b05b1c55ea553b1) 
 - [2020-03-15-前端精神小伙：React-Hooks-响应式布局](/p/f60d874d3cfc4c45d28d23717b3b224b) 
@@ -111,6 +112,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2020-03-27-13个精选的React-JS框架](/p/9b6128d3ea333479b0b2de743b792866) 
 - [2020-03-23-从React的视角谈谈Rust和GTK](/p/ba5befcbc925ecd87c74e96be27afd1f) 
 - [2020-02-27-通过前端工程化将-Apollo-引入现有-React-技术栈-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493836&idx=2&sn=6650df82e64375e0a129ab767c24933b&chksm=f9525d8fce25d4994c4195e21e6e8c60892a8a1ed0ad9ffc2f93d4441d4193f5a490a4eeb8f8&scene=27#wechat_redirect) 
 - [2020-02-24-React还是Vue：选哪个？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493806&idx=1&sn=4b5f706ee11ce20dabed104ef3812d7b&chksm=f9525dedce25d4fb1bcdc77c7205517dbe1e20e210e1345dce512715e89d9dfbf5c77a00df24&scene=27#wechat_redirect) 
