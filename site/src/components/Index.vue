@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="fixed-box">
-      <a class="action-github" href="https://github.com/ChanceYu/front-end-rss"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAABmCAMAAAAOARRQAAAA4VBMVEUbFRUaFxcwMDAaFRX///8iHh79/f0dGBhUUFDT0tK4t7cwKyuysbHNy8syLS34+PhoZWUrJiYfGhrw8PDu7e3Z2Nivrq6npaVxbm5jYGDe3d3DwsKamJh7eHhtampXU1NCPj76+vr39vbg39/b29vR0NDBv7+Cf39aVlZNSUklICDy8vLq6enk5OTi4eHa2dnHxsa1s7NfW1s0Ly/o6OjV1NS8u7utq6ukoqKem5uSj491cnJdWVlXVFRRTU1IREQ+OTk4NDQuKionIiL09PS2tLSVkpKPjY2Kh4eHhISpp6evBPJsAAAAA3RSTlPmhwVTsZLPAAADoklEQVRo3u3aaVMaMRzHcWx+e7EHN+U+CoigghTv+6hV+/5fUOsITeIsm38WatuZ/T5TGT4SkrAEUp+2UuwPl9r6lNpiH9BWKsU+IJqyfgmTMCyshEmYv8t0WuczZ1LMZIoT5/G80mFs48y4Ut7Du4pe5WGjzE75C0LLeJcbY7IOIiq1rE0w7SkU1S7XZlwPhNLz9ZhqAaS+Zddg8g2QOzXiMuM6NPJz8RjXgVb9eRzGrUGz/bk+M3agXT+ny+TriJFvaDINxOqzHlPl/+Cw4ZuIyBw0hgdY1tJhXL4qv77++HKIFe09B4wxm6/TOw3G41vw22gbQw5nMli2+/L2Z2sXy47pTBu/G7BF9ydmzxtedQLjFxp02sNyzZwFbBEfNVTJzFTYFPlv5Vkk/+IEv5tYRCYLXpmROgWvQmQcaYaSOgOvZpGYHQjVaUwaQlUSU4bQIY3pQ+iYwozlq4tbihJArHtPYCoQ244xaGgSGHnMcjTmoSeNGoGRrvouGLEshHYtJdOBUM9i1I4gNFIyLQg9M3JN6clRMucQuqEztxA6UzIz8ApMo8PV8zMVvdOUdBgfvJ6SmSh2GtLSKSqZInhpHeYEvK6SychDTO8RQnkVI+5ovg6zDSFLxeyDt6/DTKUpqmIG4Jl5MiIPQ03FyI/dpis3EPKVzAmEvtOZZwillUwDQg6dOYDQqZLJQuyOqrhd6fVDybgQ86jMZ/mVXcmwGsRGNKVjShfWTM2cQmxgUBTjQB4DAtOC1DZh7VhpaF9y5L5AKj1WPpYypMyAwLDPkNu/ilbsHuRmTMnw9Vw49peT9NGOQDwT77JJDPOXF/b3Z1hUerLzIaPVPi+FHElpvfEovL4drPKXn8yRJ83uUXraRVgXRMYq8R0tC55vSbeqI7SeQWTY9WK4X+QJcROxJHmXjMbw+zZtxoz+yn10gJA8RmdyRf5sBst7a7B3PYUou64Gw1rCqYDRPDJhlr7Pw28k14x1mHKwmLm5sC1nh3yYory6izpcvMb76pYuYzhvhyPXGkz/Icax3dul1Jfh6n0Gcnt3cQ4hA2dxNfQ0mueN251AwUzvYh6ppiH2NZqpP8Q9ILbOIpm2NMesNY67K8WIw4srYVU21zu8z/3gzOp147lrfxRhLze17Cpmov4oglC+4kQN2tGFwZQMrVG5i4IbssGaM5tt8kMvt30f8sS1X9fSf/pJYcIkTMIkTMJsivlXvqCW+qAv9X3QVxR/AveXsgHzlAQ9AAAAAElFTkSuQmCC" /></a>
+      <a class="action-github" href="https://github.com/ChanceYu/front-end-rss"></a>
       <div class="action-top" @click="toTop"><van-icon name="arrow-up" /></div>
     </div>
 
@@ -81,6 +81,7 @@
           :key="index"
           :href="item.link"
           target="_blank"
+          class="item-link"
         >
           <van-cell is-link>
             <div slot="icon" class="item-order">{{index+1}}、</div>
@@ -89,6 +90,7 @@
           </van-cell>
         </a>
 
+        <van-loading v-if="results.length && !isBusy && isLoad">加载中...</van-loading>
         <van-divider v-if="results.length && isBusy">没有更多了~</van-divider>
 
      </div>
@@ -302,6 +304,8 @@ export default {
 </script>
 
 <style lang="scss">
+$theme: #007fff;
+
 .container{
   width: 50%;
   margin: 0 auto;
@@ -323,19 +327,19 @@ export default {
     overflow: hidden;
     position: relative;
     left: 50px;
+    background-color: #f8f8f8;
+    &:hover{
+      background-color: #f5f5f5;
+    }
   }
   .action-github{
-    img{
-      width: 100%;
-      height: auto;
-    }
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-image: url('data:image/png;base64,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');
+    background-size: 60% auto;
   }
   .action-top{
-    background: #eee;
-    &:hover{
-      color: #fff;
-      background: #1a1515;
-    }
+    color: #171717;
     .van-icon{
       font-weight: bold;
       vertical-align: middle;
@@ -362,14 +366,14 @@ export default {
     margin: 4px;
     cursor: pointer;
     padding: 4px 8px;
-    font-size: 14px;
+    font-size: 13px;
     &:hover{
       background: #666;
     }
   }
   .van-cell-group__title{
     font-size: 15px;
-    color: #333;
+    color: $theme;
     background: #f5f5f5;
   }
   .van-cell{
@@ -392,10 +396,17 @@ export default {
   }
 }
 .result-box{
-  padding-top: 70px;
+  padding: 70px 0 6px 0;
+  background: #fff;
+  min-height: 100vh;
+  box-sizing: border-box;
+  position: relative;
+  .van-loading{
+    margin-top: 20px;
+  }
   .van-skeleton{
-    padding: 0 44px 0 20px;
-    margin-bottom: 30px;
+    padding: 6px 44px 6px 20px;
+    margin-bottom: 2px;
     .van-skeleton__avatar{
       margin-top: 6px;
       margin-right: 10px;
@@ -407,22 +418,25 @@ export default {
   }
   .empty{
     text-align: center;
-    padding: 50px 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 30%;
     .van-icon{
-      color: #666;
-      font-size: 40px;
+      color: $theme;
+      font-size: 50px;
     }
     .title{
       display: block;
       margin-top: 10px;
       line-height: 30px;
-      color: #666;
+      color: #999;
       font-size: 14px;
       font-weight: normal;
     }
     .cate{
       cursor: pointer;
-      color: #333;
+      color: #666;
       text-decoration: underline;
     }
   }
@@ -443,10 +457,19 @@ export default {
     font-size: 18px;
     color: #262626;
     text-align: left;
+    border-bottom: 1PX dashed #f4f5f5;
     cursor: pointer;
     &:hover,
     &:active{
-      background: #f7f8fa;
+      background:#f7f8fa;
+      border-bottom: 1PX solid #f7f8fa;
+    }
+  }
+  .item-link{
+    &:last-of-type{
+      .van-cell{
+        border-bottom: none;
+      }
     }
   }
   .van-cell:not(:last-child)::after{
@@ -466,7 +489,8 @@ export default {
   width: 50%;
   z-index: 9;
   margin: 0 auto;
-  padding: 10px 0;
+  padding: 10px;
+  box-shadow: 0 2px 10px 0 #f0f0f0;
 
   .van-cell{
     padding: 10px 0;
@@ -491,15 +515,17 @@ export default {
     padding: 0;
   }
   .van-field__left-icon{
-    margin-left: 4px;
+    color: $theme;
+    margin-left: 8px;
   }
   .van-search__label{
-    background: #f5f5f5;
+    color: $theme;
+    background: #fff;
     display: flex;
     align-items: center;
     &:active,
     &:hover{
-      background: #eee;
+      color: $theme - 50;
     }
   }
   .action-cate{
@@ -517,6 +543,7 @@ export default {
     }
   }
   .action-btn{
+    color: $theme;
     cursor: pointer;
   }
 }
@@ -542,11 +569,12 @@ export default {
     .action-github,
     .action-top{
       left: 0;
+      background-color: #f5f5f5;
     }
     .action-top{
       &:hover{
         color: inherit;
-        background: #eee;
+        background: #f5f5f5;
       }
     }
   }
