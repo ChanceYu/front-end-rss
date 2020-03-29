@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-30 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -50,8 +50,8 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
-- [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](/p/075a95dc694f97f40430ed95ed247211) 
-- [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](/p/f557b4b08a8c29880e757f5ab100f37b) 
+- [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](https://www.ershicimi.com/p/075a95dc694f97f40430ed95ed247211) 
+- [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b) 
 - [2020-02-13-2020小程序：兵家必争之地](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493747&idx=2&sn=b255d74cd46f0e24f3f567beece8432b&chksm=f9525d30ce25d426e978e9da77a476545c3cf509260b46543bb27c65393de6a648c28948aa8c&scene=27#wechat_redirect) 
 - [2020-02-05-滴滴跨端框架Chameleon正式支持快应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=2&sn=706381a6d6dd8eff640386c33eca6038&chksm=f9525d03ce25d415521d2f1083d167d6fef74493a189dc4cb1541d189726227be995a957c1d8&scene=27#wechat_redirect) 
 - [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect) 
@@ -90,6 +90,7 @@
 - [2018-11-09-微信小程序·云开发初体验](https://jdc.jd.com/archives/212791) 
 - [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779) 
 - [2018-09-07-小程序实战总结](https://jdc.jd.com/archives/212697) 
+- [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/) 

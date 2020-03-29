@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-30 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,8 +102,9 @@
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
 - [2020-03-23-一篇搞定移动端适配](/p/24499867c065ad9853de869f54f33ffe) 
-- [2020-03-05-前端高级进阶：Javascript-代码是如何被压缩的](/p/5f88834dda79dadd1d7c1fb32b43fe7a) 
-- [2020-03-01-小白必看，JSBridge-初探](/p/bb2a8b92448e73aa22821966dba1b3fd) 
+- [2020-03-23-一篇搞定移动端适配](https://www.ershicimi.com/p/24499867c065ad9853de869f54f33ffe) 
+- [2020-03-05-前端高级进阶：Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/5f88834dda79dadd1d7c1fb32b43fe7a) 
+- [2020-03-01-小白必看，JSBridge-初探](https://www.ershicimi.com/p/bb2a8b92448e73aa22821966dba1b3fd) 
 - [2020-03-01-小白必看，JSBridge-初探](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557953&idx=1&sn=d3d673fb1ec9ac6bac12cc646b0db95f&chksm=80254780b752ce9691a31146ec16dbe843e55ec7b9bac19b937863d6a3b32e5960d1516cd2a0&scene=27#wechat_redirect) 
 - [2020-02-23-吊打-JavaScript-之从原型到原型链](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557914&idx=1&sn=7bc2599b245c9d0a05ac6824256a4fca&chksm=802547dbb752cecdc0829837c804c2b43f2b982a9bf6e154aa2d6ef924123b09b4647a19e812&scene=27#wechat_redirect) 
 - [2020-02-22-前端面试必备-ES6-全方位总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557906&idx=1&sn=b2f6c48e70056614add53a84e399030a&chksm=802547d3b752cec5c362213554863ac9f30d5e5206a284fbe2c325ebe5f58db128967c7b2796&scene=27#wechat_redirect) 
@@ -239,8 +240,8 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
-- [2020-03-09-我开源了一款JS打包/压缩工具，比其他工具快10-100倍！](/p/3339ddec51bd51e82fe095213344ce6d) 
-- [2020-03-05-JavaScript中For循环的3种版本和使用场景](/p/23b31ce8c007d5ac4195427769dbd184) 
+- [2020-03-09-我开源了一款JS打包/压缩工具，比其他工具快10-100倍！](https://www.ershicimi.com/p/3339ddec51bd51e82fe095213344ce6d) 
+- [2020-03-05-JavaScript中For循环的3种版本和使用场景](https://www.ershicimi.com/p/23b31ce8c007d5ac4195427769dbd184) 
 - [2020-02-05-2020年需要重点学习的JavaScript框架和主题，以及下一个十年的技术展望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493696&idx=1&sn=ef5dc4245ef5bb9901a220d1b80d85c9&chksm=f9525d03ce25d415b33718f837495bf1d2cdbeb04ccc6e4db4923ec3f4a792fe95d31d241810&scene=27#wechat_redirect) 
 - [2020-01-14-未来有望干掉-Python-和-JavaScript-的编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493609&idx=1&sn=23c02b04194c02c96b629d58228432f6&chksm=f95252aace25dbbc832aa29f4ebc09e2b6bd078ac20c153f7f0ed0ea0fb5320b08e7164482e1&scene=27#wechat_redirect) 
 - [2020-01-07-快速掌握-10-个-HTML5-必备技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=2&sn=b5c2719536886c6409feb6a5c31276e4&chksm=f9525287ce25db9129b8c60bf004b2cd747cff4e15ed0cefa7bb79f1c7769abd2facc2190c06&scene=27#wechat_redirect) 
