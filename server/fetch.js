@@ -70,6 +70,11 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
           if(/https?:\/\/taobaofed\.org/.test(el.link)) {
             el.link = el.link.replace(/https?:\/\/taobaofed\.org/, 'https://fed.taobao.org');
           }
+
+          // for www.ershicimi.com
+          if(/ershicimi\.com/.test(feed.link) && /^\/p\//.test(el.link)) {
+            el.link = 'https://www.ershicimi.com' + el.link;
+          }
     
           for(let i = 0; i < len; i++){
             if(isSameLink(_items[i].link, el.link)){
