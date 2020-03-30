@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-30 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-30 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,6 +26,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2020-03-30-一杯茶的时间，上手-Node.js](https://www.ershicimi.com/p/f797ce6860ab76cf7c7f69dee18ed262) 
 - [2020-03-09-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/9e02cdb47e1588922a43c15c2fdd7734) 
 - [2020-02-17-带你从零看清-Node-源码-createServer-和负载均衡整个过程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557880&idx=1&sn=a706da5f7c02936726124206c1a0c8ff&chksm=80255839b752d12fe970889ca192f54dd4d54421a87096dd46c38ad6127cbc2122a4a47cb822&scene=27#wechat_redirect) 
 - [2020-01-31-面试官问:Node-与底层之间如何执行异步-I/O-调用？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557806&idx=1&sn=38d7d332afa164d360c871ae60506912&chksm=8025586fb752d17913a6fd536e25d10bb57d72af7783f9bd1fa48e0eb44fe339bbfc8e4d2a83&scene=27#wechat_redirect) 
