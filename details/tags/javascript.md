@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-30 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-31 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -101,6 +101,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2020-03-31-你真的懂-Promise-吗？](https://www.ershicimi.com/p/65cfbff24bcb363ef051832249c81f80) 
 - [2020-03-27-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/27851990cbd6d1a81fe7db2d7de34d05) 
 - [2020-03-23-一篇搞定移动端适配](https://www.ershicimi.com/p/24499867c065ad9853de869f54f33ffe) 
 - [2020-03-05-前端高级进阶：Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/5f88834dda79dadd1d7c1fb32b43fe7a) 
