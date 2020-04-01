@@ -4132,6 +4132,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "组件演进史：从Mixin到HOC，再到Hook",
+        "link": "https://www.ershicimi.com/p/fa73a39fd348105b26ddf00f94cce4c8",
+        "date": "2020-04-01"
+      },
+      {
         "title": "你真的懂 Promise 吗？",
         "link": "https://www.ershicimi.com/p/65cfbff24bcb363ef051832249c81f80",
         "date": "2020-03-31"
