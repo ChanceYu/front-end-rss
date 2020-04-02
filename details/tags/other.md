@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-01 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-02 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -399,6 +399,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-04-02-唱唱反调：风口上的技术不要盲目追](https://www.ershicimi.com/p/917c0afae15bb85a758658d688fc9c74) 
 - [2020-04-01-如何使用可选样式表为网站或应用添加黑暗模式](https://www.ershicimi.com/p/9c4506fae2131d651b6b129681e82589) 
 - [2020-03-30-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/e7e9235827dadd22c1b5ce666905e2aa) 
 - [2020-03-25-滴滴正式发布开源客户端研发助手DoKit-3.0，新特性解读](https://www.ershicimi.com/p/fd89001e627db570d2f1d419193b276d) 
