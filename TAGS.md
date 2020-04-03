@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-03 12:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-03 18:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -261,6 +261,7 @@
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)
+- [【前端之巅】闲鱼Flutter实践与思考](https://www.ershicimi.com/p/de562b3bd1196278591e10ddd766a1c7)
 - [【前端之巅】西瓜视频-Flutter-落地经验-|-GMTC](https://www.ershicimi.com/p/7216786f1099dd415629aa1c8c1bd972)
 - [【前端之巅】字节跳动为什么选用Flutter：并非跨平台终极之选，但它可能是不一样的未来](https://www.ershicimi.com/p/155a0f549e2531530f2f5a9f1a85efe6)
 - [【前端之巅】PWA对比原生应用：谁更胜一筹？](https://www.ershicimi.com/p/e77758e63d1a3b346ea13c13f85f7ea5)
@@ -273,7 +274,6 @@
 - [【前端之巅】Kotlin-vs-Flutter：谁将成为跨平台开发市场的最终统治者？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493824&idx=1&sn=20177d3ef49f59c0a2ea9928b3368ee6&chksm=f9525d83ce25d495ed3b5f94055e5ad34432045db87deddc2a2e2788fb3977b947cf6d935fa3&scene=27#wechat_redirect)
 - [【前端之巅】2020年为什么选择Flutter？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493782&idx=1&sn=96fc1436fb56cc6658d232295248a587&chksm=f9525dd5ce25d4c32bdc950d70771295288109c6df9b4d27c887533f89c4177c8c03e15ed676&scene=27#wechat_redirect)
 - [【前端之巅】字节跳动Flutter架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493602&idx=1&sn=86dff6f4151cd3ad4c1c1e7c87357637&chksm=f95252a1ce25dbb77d852e3c935a9ef6cebda845f078d92658d1938ba5a4401d1faff431cb1e&scene=27#wechat_redirect)
-- [【前端之巅】美团外卖Flutter容器化生态建设实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492876&idx=2&sn=e1fdff73ba134f7fc5925d142d226640&chksm=f952504fce25d9591296c44668fb6560cbad8459f747de9f6fc374b66a5a7c1791d58f5eeef1&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

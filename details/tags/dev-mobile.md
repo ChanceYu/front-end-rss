@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-03 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-03 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -14,6 +14,7 @@
 - [2018-12-16-【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect) 
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2020-04-03-闲鱼Flutter实践与思考](https://www.ershicimi.com/p/de562b3bd1196278591e10ddd766a1c7) 
 - [2020-03-31-西瓜视频-Flutter-落地经验-|-GMTC](https://www.ershicimi.com/p/7216786f1099dd415629aa1c8c1bd972) 
 - [2020-03-27-字节跳动为什么选用Flutter：并非跨平台终极之选，但它可能是不一样的未来](https://www.ershicimi.com/p/155a0f549e2531530f2f5a9f1a85efe6) 
 - [2020-03-04-PWA对比原生应用：谁更胜一筹？](https://www.ershicimi.com/p/e77758e63d1a3b346ea13c13f85f7ea5) 
