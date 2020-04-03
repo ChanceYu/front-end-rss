@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-03 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-03 22:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端大全】2020-04-03-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/13f9b930c2ba9446c6f4d68f1674131b) 
 - [【前端大全】2020-04-02-模块打包机-webpack，你会用了吗？](https://www.ershicimi.com/p/d96f28ec7c5057110d35364d0e42078f) 
 - [【前端大全】2020-04-02-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/52d28878666c2287205863556b9ea153) 
 - [【前端大全】2020-04-01-组件演进史：从Mixin到HOC，再到Hook](https://www.ershicimi.com/p/fa73a39fd348105b26ddf00f94cce4c8) 
