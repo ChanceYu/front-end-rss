@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-06 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-07 18:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -129,6 +129,8 @@
 - [【前端大全】2020-04-02-模块打包机-webpack，你会用了吗？](https://www.ershicimi.com/p/d96f28ec7c5057110d35364d0e42078f) 
 - [【前端大全】2020-04-02-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/52d28878666c2287205863556b9ea153) 
 - [【前端大全】2020-04-01-组件演进史：从Mixin到HOC，再到Hook](https://www.ershicimi.com/p/fa73a39fd348105b26ddf00f94cce4c8) 
+- [【前端之巅】2020-04-07-Deno将于5月13号发布1.0版本，“学不动了-真香”定律即将再次应验？](https://www.ershicimi.com/p/69f389616ca63bb4f71a830f77b31ffe) 
+- [【前端之巅】2020-04-07-大前端中台：如何最大程度复用、解耦业务？](https://www.ershicimi.com/p/c4a531864c8548ff4ce46ba47345e98d) 
 - [【前端之巅】2020-04-06-资本家们是怎么坑程序员的？](https://www.ershicimi.com/p/710ea586ba57b57c7b9c1ecaa8c6810c) 
 - [【前端之巅】2020-04-06-前端智能化——思维转变之路](https://www.ershicimi.com/p/bf11fd4588cf0d1b6180e0448f0bf5e8) 
 - [【前端之巅】2020-04-05-前端周报：Rust文档团队宣布解散；微软恢复Edge浏览器更新；万豪再次发生客户信息泄露事故；华为新](https://www.ershicimi.com/p/966d282cb1273657c768b6bb0b86ee25) 
