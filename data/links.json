@@ -12103,6 +12103,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS技术分享: 文字在圆形内沿着弧线边界排版",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/",
+        "date": "2020-04-09"
+      },
+      {
         "title": "AVIF图片格式简介",
         "link": "https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/",
         "date": "2020-04-08"

@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-08 22:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-09 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-04-08-熟用-Vue-后，带给我的改变](https://www.ershicimi.com/p/b444af80c987d82185c6fb0bcfdaac76) ![](assets/new.png)  
-- [2020-04-08-万字解析微前端、微前端框架qiankun以及源码](https://www.ershicimi.com/p/74c878eafe8ddebe3424ec72065234d1) ![](assets/new.png)  
+- [2020-04-08-熟用-Vue-后，带给我的改变](https://www.ershicimi.com/p/b444af80c987d82185c6fb0bcfdaac76)  
+- [2020-04-08-万字解析微前端、微前端框架qiankun以及源码](https://www.ershicimi.com/p/74c878eafe8ddebe3424ec72065234d1)  
 - [2020-04-07-为什么说for...of循环是JS中的宝石？](https://www.ershicimi.com/p/0100c6cff5833b37b49f336476468399)  
 - [2020-04-06-VUE-源码解读之响应式系统及-Watcher-的调度实现](https://www.ershicimi.com/p/bc551e58698a07cf66475ee8f4a21455)  
 - [2020-04-05-二营长，快掏个CSS出来给我画个井字棋游戏](https://www.ershicimi.com/p/a82d171041eec23def230bac40a1f709)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) ![](assets/new.png)  
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/)  
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
@@ -176,7 +177,6 @@
 - [2019-12-31-Oh-My-God，CSS-flex-basis原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)  
 - [2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/)  
 - [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
-- [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
