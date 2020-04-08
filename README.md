@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-07 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-08 18:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-04-07-为什么说for...of循环是JS中的宝石？](https://www.ershicimi.com/p/0100c6cff5833b37b49f336476468399) ![](assets/new.png)  
+- [2020-04-07-为什么说for...of循环是JS中的宝石？](https://www.ershicimi.com/p/0100c6cff5833b37b49f336476468399)  
 - [2020-04-06-VUE-源码解读之响应式系统及-Watcher-的调度实现](https://www.ershicimi.com/p/bc551e58698a07cf66475ee8f4a21455)  
 - [2020-04-05-二营长，快掏个CSS出来给我画个井字棋游戏](https://www.ershicimi.com/p/a82d171041eec23def230bac40a1f709)  
 - [2020-04-04-如何用一行代码实现网页变灰效果？](https://www.ershicimi.com/p/5d5ccee0d6ff173fefea64fb3a06f870)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-04-08-InfoQ-2020-年-JavaScript-和-Web-开发趋势报告](https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4) ![](assets/new.png)  
+- [2020-04-08-Firefox-现安全漏洞，Mozilla-发布紧急更新](https://www.ershicimi.com/p/626c5144ecb9da2f35c9bd71b311f8e9) ![](assets/new.png)  
+- [2020-04-08-面试稳了！Facebook面试官揭秘算法必考面点-|-极客大学](https://www.ershicimi.com/p/b094388e871dae5caa2dda01c9394cde) ![](assets/new.png)  
 - [2020-04-07-Deno将于5月13号发布1.0版本，“学不动了-真香”定律即将再次应验？](https://www.ershicimi.com/p/69f389616ca63bb4f71a830f77b31ffe)  
 - [2020-04-07-大前端中台：如何最大程度复用、解耦业务？](https://www.ershicimi.com/p/c4a531864c8548ff4ce46ba47345e98d)  
 - [2020-04-06-资本家们是怎么坑程序员的？](https://www.ershicimi.com/p/710ea586ba57b57c7b9c1ecaa8c6810c)  
@@ -112,9 +115,6 @@
 - [2020-03-31-西瓜视频-Flutter-落地经验-|-GMTC](https://www.ershicimi.com/p/7216786f1099dd415629aa1c8c1bd972)  
 - [2020-03-30-前端架构性能优化策略](https://www.ershicimi.com/p/e111ba65499a1ed084fe17325212a2c0)  
 - [2020-03-30-用Spring-Boot打包你的React应用](https://www.ershicimi.com/p/93b05e74b6d4e47cc6fed28b56286829)  
-- [2020-03-30-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/e7e9235827dadd22c1b5ce666905e2aa)  
-- [2020-03-29-前端周报：国外公司使用“实时监控”远程办公软件；谷歌发布Chrome更新时间表；微软回应“Edge](https://www.ershicimi.com/p/1e89efcc7f9c02a475290fa2a7dc5ced)  
-- [2020-03-27-字节跳动为什么选用Flutter：并非跨平台终极之选，但它可能是不一样的未来](https://www.ershicimi.com/p/155a0f549e2531530f2f5a9f1a85efe6)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) ![](assets/new.png)  
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
@@ -176,7 +177,6 @@
 - [2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/)  
 - [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
 - [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
-- [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

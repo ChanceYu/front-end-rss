@@ -8084,6 +8084,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "InfoQ 2020 年 JavaScript 和 Web 开发趋势报告",
+        "link": "https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4",
+        "date": "2020-04-08"
+      },
+      {
+        "title": "Firefox 现安全漏洞，Mozilla 发布紧急更新",
+        "link": "https://www.ershicimi.com/p/626c5144ecb9da2f35c9bd71b311f8e9",
+        "date": "2020-04-08"
+      },
+      {
+        "title": "面试稳了！Facebook面试官揭秘算法必考面点 | 极客大学",
+        "link": "https://www.ershicimi.com/p/b094388e871dae5caa2dda01c9394cde",
+        "date": "2020-04-08"
+      },
+      {
         "title": "Deno将于5月13号发布1.0版本，“学不动了-真香”定律即将再次应验？",
         "link": "https://www.ershicimi.com/p/69f389616ca63bb4f71a830f77b31ffe",
         "date": "2020-04-07"
@@ -12077,6 +12092,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "AVIF图片格式简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/",
+        "date": "2020-04-08"
+      },
       {
         "title": "CSS text-decoration实现宽度100%波浪线效果",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/",
