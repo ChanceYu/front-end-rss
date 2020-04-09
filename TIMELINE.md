@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-09 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-09 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -132,6 +132,8 @@
 - [【前端大全】2020-04-02-模块打包机-webpack，你会用了吗？](https://www.ershicimi.com/p/d96f28ec7c5057110d35364d0e42078f) 
 - [【前端大全】2020-04-02-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/52d28878666c2287205863556b9ea153) 
 - [【前端大全】2020-04-01-组件演进史：从Mixin到HOC，再到Hook](https://www.ershicimi.com/p/fa73a39fd348105b26ddf00f94cce4c8) 
+- [【前端之巅】2020-04-09-技术方案多、复用难？且看阿里文娱的前端工程管理实践](https://www.ershicimi.com/p/ddaff46bac102718d526517e1a21a9f4) 
+- [【前端之巅】2020-04-09-快手自研YCNN-，让复杂神经网络模型加速实现-|-GMTC](https://www.ershicimi.com/p/43ea55953c9368a088ff195ac26eb761) 
 - [【前端之巅】2020-04-08-InfoQ-2020-年-JavaScript-和-Web-开发趋势报告](https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4) 
 - [【前端之巅】2020-04-08-Firefox-现安全漏洞，Mozilla-发布紧急更新](https://www.ershicimi.com/p/626c5144ecb9da2f35c9bd71b311f8e9) 
 - [【前端之巅】2020-04-08-面试稳了！Facebook面试官揭秘算法必考面点-|-极客大学](https://www.ershicimi.com/p/b094388e871dae5caa2dda01c9394cde) 

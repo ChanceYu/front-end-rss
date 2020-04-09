@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-09 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-09 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-04-09-技术方案多、复用难？且看阿里文娱的前端工程管理实践](https://www.ershicimi.com/p/ddaff46bac102718d526517e1a21a9f4) ![](assets/new.png)  
+- [2020-04-09-快手自研YCNN-，让复杂神经网络模型加速实现-|-GMTC](https://www.ershicimi.com/p/43ea55953c9368a088ff195ac26eb761) ![](assets/new.png)  
 - [2020-04-08-InfoQ-2020-年-JavaScript-和-Web-开发趋势报告](https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4)  
 - [2020-04-08-Firefox-现安全漏洞，Mozilla-发布紧急更新](https://www.ershicimi.com/p/626c5144ecb9da2f35c9bd71b311f8e9)  
 - [2020-04-08-面试稳了！Facebook面试官揭秘算法必考面点-|-极客大学](https://www.ershicimi.com/p/b094388e871dae5caa2dda01c9394cde)  
@@ -113,8 +115,6 @@
 - [2020-04-01-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/f2d3c0df27a34de44508361c188dc1ac)  
 - [2020-03-31-我发现了Vue.js中的性能陷阱](https://www.ershicimi.com/p/3929e57fd42812f0167f79797d909618)  
 - [2020-03-31-西瓜视频-Flutter-落地经验-|-GMTC](https://www.ershicimi.com/p/7216786f1099dd415629aa1c8c1bd972)  
-- [2020-03-30-前端架构性能优化策略](https://www.ershicimi.com/p/e111ba65499a1ed084fe17325212a2c0)  
-- [2020-03-30-用Spring-Boot打包你的React应用](https://www.ershicimi.com/p/93b05e74b6d4e47cc6fed28b56286829)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) ![](assets/new.png)  
+- [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/)  
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/)  
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
