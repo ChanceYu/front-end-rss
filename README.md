@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-09 18:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-10 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,8 +95,8 @@
 </summary>
 
 
-- [2020-04-09-技术方案多、复用难？且看阿里文娱的前端工程管理实践](https://www.ershicimi.com/p/ddaff46bac102718d526517e1a21a9f4) ![](assets/new.png)  
-- [2020-04-09-快手自研YCNN-，让复杂神经网络模型加速实现-|-GMTC](https://www.ershicimi.com/p/43ea55953c9368a088ff195ac26eb761) ![](assets/new.png)  
+- [2020-04-09-技术方案多、复用难？且看阿里文娱的前端工程管理实践](https://www.ershicimi.com/p/ddaff46bac102718d526517e1a21a9f4)  
+- [2020-04-09-快手自研YCNN-，让复杂神经网络模型加速实现-|-GMTC](https://www.ershicimi.com/p/43ea55953c9368a088ff195ac26eb761)  
 - [2020-04-08-InfoQ-2020-年-JavaScript-和-Web-开发趋势报告](https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4)  
 - [2020-04-08-Firefox-现安全漏洞，Mozilla-发布紧急更新](https://www.ershicimi.com/p/626c5144ecb9da2f35c9bd71b311f8e9)  
 - [2020-04-08-面试稳了！Facebook面试官揭秘算法必考面点-|-极客大学](https://www.ershicimi.com/p/b094388e871dae5caa2dda01c9394cde)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-04-10-科技爱好者周刊：第-102-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html) ![](assets/new.png)  
 - [2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)  
 - [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)  
 - [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)  
@@ -207,7 +208,6 @@
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)  
 - [2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)  
 - [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)  
-- [2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
