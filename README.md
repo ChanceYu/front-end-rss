@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-12 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-13 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-04-11-前后端分离的跨域介绍](https://www.ershicimi.com/p/4bb2fcf8e46b325ba9656017e6e86994) ![](assets/new.png)  
+- [2020-04-11-前后端分离的跨域介绍](https://www.ershicimi.com/p/4bb2fcf8e46b325ba9656017e6e86994)  
 - [2020-04-10-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/3b776b66a8038f2bb7c4b37c0da5c475)  
 - [2020-04-10-用-40-行代码实现一个精简版-koa](https://www.ershicimi.com/p/83115b444beda389b00ff26eb736f75e)  
 - [2020-04-09-BootStrap-5.0-将放弃支持-IE](https://www.ershicimi.com/p/89e3ef5e33d8ae881a8c80568ae3e61f)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/) ![](assets/new.png)  
 - [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/)  
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/)  
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
@@ -176,7 +177,6 @@
 - [2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/)  
 - [2019-12-31-Oh-My-God，CSS-flex-basis原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)  
 - [2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/)  
-- [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
