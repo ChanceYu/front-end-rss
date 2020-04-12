@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-10 22:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-12 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,9 +64,10 @@
 </summary>
 
 
-- [2020-04-10-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/3b776b66a8038f2bb7c4b37c0da5c475) ![](assets/new.png)  
-- [2020-04-10-用-40-行代码实现一个精简版-koa](https://www.ershicimi.com/p/83115b444beda389b00ff26eb736f75e) ![](assets/new.png)  
-- [2020-04-09-BootStrap-5.0-将放弃支持-IE](https://www.ershicimi.com/p/89e3ef5e33d8ae881a8c80568ae3e61f) ![](assets/new.png)  
+- [2020-04-11-前后端分离的跨域介绍](https://www.ershicimi.com/p/4bb2fcf8e46b325ba9656017e6e86994) ![](assets/new.png)  
+- [2020-04-10-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/3b776b66a8038f2bb7c4b37c0da5c475)  
+- [2020-04-10-用-40-行代码实现一个精简版-koa](https://www.ershicimi.com/p/83115b444beda389b00ff26eb736f75e)  
+- [2020-04-09-BootStrap-5.0-将放弃支持-IE](https://www.ershicimi.com/p/89e3ef5e33d8ae881a8c80568ae3e61f)  
 - [2020-04-08-熟用-Vue-后，带给我的改变](https://www.ershicimi.com/p/b444af80c987d82185c6fb0bcfdaac76)  
 - [2020-04-08-万字解析微前端、微前端框架qiankun以及源码](https://www.ershicimi.com/p/74c878eafe8ddebe3424ec72065234d1)  
 - [2020-04-07-为什么说for...of循环是JS中的宝石？](https://www.ershicimi.com/p/0100c6cff5833b37b49f336476468399)  
@@ -83,7 +84,6 @@
 - [2020-03-29-面向对象：积极纯善的女生，期待正直有为的你](https://www.ershicimi.com/p/a6387743e7ee6c709636115eb85dbdb4)  
 - [2020-03-28-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/d37c94d5d11aa9dea3c01d94df0cc35d)  
 - [2020-03-27-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/27851990cbd6d1a81fe7db2d7de34d05)  
-- [2020-03-26-从零实现-react-redux](https://www.ershicimi.com/p/e37c41913f34f6bacbc2deab2b88c794)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
