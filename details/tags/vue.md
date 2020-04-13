@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-13 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-14 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -59,6 +59,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2020-04-13-深究-Vue-底层原理源码](https://www.ershicimi.com/p/3a2f1dbc794e64ae387969ec1b4acc26) 
 - [2020-04-08-熟用-Vue-后，带给我的改变](https://www.ershicimi.com/p/b444af80c987d82185c6fb0bcfdaac76) 
 - [2020-04-06-VUE-源码解读之响应式系统及-Watcher-的调度实现](https://www.ershicimi.com/p/bc551e58698a07cf66475ee8f4a21455) 
 - [2020-03-25-面试的时候，会用-Vue-就够了吗？](https://www.ershicimi.com/p/b41746b1656a5db0f3f4e1d869717f83) 
