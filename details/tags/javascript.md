@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-13 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-13 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -243,6 +243,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2020-04-13-一文搞定移动端适配](https://www.ershicimi.com/p/5d610a0d46ce467004edd7f7d70fb42f) 
 - [2020-04-08-InfoQ-2020-年-JavaScript-和-Web-开发趋势报告](https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4) 
 - [2020-04-01-唯一维护者锒铛入狱，周下载量超2600万的JS库该何去何从？](https://www.ershicimi.com/p/e2525aeda0cd286233e0edfe79fc9cdf) 
 - [2020-03-09-我开源了一款JS打包/压缩工具，比其他工具快10-100倍！](https://www.ershicimi.com/p/3339ddec51bd51e82fe095213344ce6d) 

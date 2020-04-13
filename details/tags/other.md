@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-13 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-13 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -402,6 +402,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-04-12-前端周报：华为云服务器宕机被指响应不及时；微软在Twitter上展示新的Win10开始菜单；微软花1](https://www.ershicimi.com/p/a40b80696721c13ed4e2a9eb4298ea09) 
+- [2020-04-10-要价170万美金，微软买下史上最危险域名，黑客傻眼](https://www.ershicimi.com/p/41d8d696a1924111d372b30a7cb05780) 
+- [2020-04-10-版权壁垒加剧，是否会成为限制科技发展的“毒药”？](https://www.ershicimi.com/p/00fb6c4c422883bb7483e8542bc8a2e2) 
 - [2020-04-09-技术方案多、复用难？且看阿里文娱的前端工程管理实践](https://www.ershicimi.com/p/ddaff46bac102718d526517e1a21a9f4) 
 - [2020-04-09-快手自研YCNN-，让复杂神经网络模型加速实现-|-GMTC](https://www.ershicimi.com/p/43ea55953c9368a088ff195ac26eb761) 
 - [2020-04-07-Deno将于5月13号发布1.0版本，“学不动了-真香”定律即将再次应验？](https://www.ershicimi.com/p/69f389616ca63bb4f71a830f77b31ffe) 
