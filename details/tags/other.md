@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-14 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-15 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -235,6 +235,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-04-14-前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a) 
 - [2020-04-10-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/3b776b66a8038f2bb7c4b37c0da5c475) 
 - [2020-04-08-万字解析微前端、微前端框架qiankun以及源码](https://www.ershicimi.com/p/74c878eafe8ddebe3424ec72065234d1) 
 - [2020-04-04-如何用一行代码实现网页变灰效果？](https://www.ershicimi.com/p/5d5ccee0d6ff173fefea64fb3a06f870) 

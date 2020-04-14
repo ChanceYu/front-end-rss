@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-14 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-15 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端大全】2020-04-14-前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a) 
 - [【前端大全】2020-04-13-深究-Vue-底层原理源码](https://www.ershicimi.com/p/3a2f1dbc794e64ae387969ec1b4acc26) 
 - [【前端大全】2020-04-13-你不知道的-Proxy：ES6-Proxy-可以做哪些有意思的事情？](https://www.ershicimi.com/p/3bfe2ca4f94b02f9057651a5b0a9ba7b) 
 - [【前端大全】2020-04-12-一文读懂-JS-装饰器，这是一个会打扮的装饰器](https://www.ershicimi.com/p/e0c22214f21c93ae0b49dc09facb8091) 
