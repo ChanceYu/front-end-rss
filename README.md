@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-15 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-15 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-04-14-前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a) ![](assets/new.png)  
+- [2020-04-14-前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a)  
 - [2020-04-13-深究-Vue-底层原理源码](https://www.ershicimi.com/p/3a2f1dbc794e64ae387969ec1b4acc26)  
 - [2020-04-13-你不知道的-Proxy：ES6-Proxy-可以做哪些有意思的事情？](https://www.ershicimi.com/p/3bfe2ca4f94b02f9057651a5b0a9ba7b)  
 - [2020-04-12-一文读懂-JS-装饰器，这是一个会打扮的装饰器](https://www.ershicimi.com/p/e0c22214f21c93ae0b49dc09facb8091)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-04-15-谷歌强制要求Android-11支持无缝更新，三星：针对我？](https://www.ershicimi.com/p/0e7a9ff935663e9b2088b3626c085757) ![](assets/new.png)  
+- [2020-04-15-有史以来最受欢迎的-25-本编程书籍](https://www.ershicimi.com/p/62038f28078fee38571376c3fa0defcb) ![](assets/new.png)  
+- [2020-04-15-虽然你技术强，但是依然创业失败……-|-TGO](https://www.ershicimi.com/p/0cd271cc0c6f31f923f860d7f364ecd5) ![](assets/new.png)  
 - [2020-04-14-Bootstrap宣布放弃支持IE，Web开发里程碑时刻？](https://www.ershicimi.com/p/c9bdd143e7f26e77da3fa178916c8b98)  
 - [2020-04-14-盘点那些出色的CSS图像悬停效果](https://www.ershicimi.com/p/de61c0c0c5f14c39703b21a5614b9d1d)  
 - [2020-04-13-向新手推荐的2020年Flutter课程和教程](https://www.ershicimi.com/p/18fcb5ed5b33d6c4c0ddb52e09cedd47)  
@@ -112,9 +115,6 @@
 - [2020-04-07-大前端中台：如何最大程度复用、解耦业务？](https://www.ershicimi.com/p/c4a531864c8548ff4ce46ba47345e98d)  
 - [2020-04-06-资本家们是怎么坑程序员的？](https://www.ershicimi.com/p/710ea586ba57b57c7b9c1ecaa8c6810c)  
 - [2020-04-06-前端智能化——思维转变之路](https://www.ershicimi.com/p/bf11fd4588cf0d1b6180e0448f0bf5e8)  
-- [2020-04-05-前端周报：Rust文档团队宣布解散；微软恢复Edge浏览器更新；万豪再次发生客户信息泄露事故；华为新](https://www.ershicimi.com/p/966d282cb1273657c768b6bb0b86ee25)  
-- [2020-04-03-闲鱼Flutter实践与思考](https://www.ershicimi.com/p/de562b3bd1196278591e10ddd766a1c7)  
-- [2020-04-03-百度页面性能监控和优化实践](https://www.ershicimi.com/p/7323ebec140162226ee188d5ff48e8ff)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
