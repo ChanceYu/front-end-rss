@@ -12208,6 +12208,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "ES6 Math方法和Number新特性简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/",
+        "date": "2020-04-16"
+      },
+      {
         "title": "了解CSS min()/max()/clamp()数学函数",
         "link": "https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/",
         "date": "2020-04-12"
