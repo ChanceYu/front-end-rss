@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-15 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-16 22:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2020-04-15-谷歌强制要求Android-11支持无缝更新，三星：针对我？](https://www.ershicimi.com/p/0e7a9ff935663e9b2088b3626c085757) ![](assets/new.png)  
-- [2020-04-15-有史以来最受欢迎的-25-本编程书籍](https://www.ershicimi.com/p/62038f28078fee38571376c3fa0defcb) ![](assets/new.png)  
-- [2020-04-15-虽然你技术强，但是依然创业失败……-|-TGO](https://www.ershicimi.com/p/0cd271cc0c6f31f923f860d7f364ecd5) ![](assets/new.png)  
+- [2020-04-15-谷歌强制要求Android-11支持无缝更新，三星：针对我？](https://www.ershicimi.com/p/0e7a9ff935663e9b2088b3626c085757)  
+- [2020-04-15-有史以来最受欢迎的-25-本编程书籍](https://www.ershicimi.com/p/62038f28078fee38571376c3fa0defcb)  
+- [2020-04-15-虽然你技术强，但是依然创业失败……-|-TGO](https://www.ershicimi.com/p/0cd271cc0c6f31f923f860d7f364ecd5)  
 - [2020-04-14-Bootstrap宣布放弃支持IE，Web开发里程碑时刻？](https://www.ershicimi.com/p/c9bdd143e7f26e77da3fa178916c8b98)  
 - [2020-04-14-盘点那些出色的CSS图像悬停效果](https://www.ershicimi.com/p/de61c0c0c5f14c39703b21a5614b9d1d)  
 - [2020-04-13-向新手推荐的2020年Flutter课程和教程](https://www.ershicimi.com/p/18fcb5ed5b33d6c4c0ddb52e09cedd47)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html) ![](assets/new.png)  
 - [2020-04-10-科技爱好者周刊：第-102-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)  
 - [2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)  
 - [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)  
@@ -207,7 +208,6 @@
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html)  
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)  
 - [2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)  
-- [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
