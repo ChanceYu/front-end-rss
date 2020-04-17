@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-17 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-17 18:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,6 +26,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2020-04-15-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/2cf5c2c6bb71ae4244219a7a43f5e101) 
 - [2020-04-10-用-40-行代码实现一个精简版-koa](https://www.ershicimi.com/p/83115b444beda389b00ff26eb736f75e) 
 - [2020-03-30-一杯茶的时间，上手-Node.js](https://www.ershicimi.com/p/f797ce6860ab76cf7c7f69dee18ed262) 
 - [2020-03-09-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/9e02cdb47e1588922a43c15c2fdd7734) 
