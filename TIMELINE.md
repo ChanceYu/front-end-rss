@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-17 22:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-18 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端大全】2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483) 
 - [【前端大全】2020-04-16-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/74ac1750634c9ac9fce22e0bc583c526) 
 - [【前端大全】2020-04-15-前端市场中-Vue-的真实面孔](https://www.ershicimi.com/p/806841ff0b141b589f85465ac681bcc6) 
 - [【前端大全】2020-04-15-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/2cf5c2c6bb71ae4244219a7a43f5e101) 
