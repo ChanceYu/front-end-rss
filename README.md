@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-18 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-19 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,8 @@
 </summary>
 
 
-- [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483) ![](assets/new.png)  
+- [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6) ![](assets/new.png)  
+- [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483)  
 - [2020-04-16-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/74ac1750634c9ac9fce22e0bc583c526)  
 - [2020-04-15-前端市场中-Vue-的真实面孔](https://www.ershicimi.com/p/806841ff0b141b589f85465ac681bcc6)  
 - [2020-04-15-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/2cf5c2c6bb71ae4244219a7a43f5e101)  
@@ -83,7 +84,6 @@
 - [2020-04-05-二营长，快掏个CSS出来给我画个井字棋游戏](https://www.ershicimi.com/p/a82d171041eec23def230bac40a1f709)  
 - [2020-04-04-如何用一行代码实现网页变灰效果？](https://www.ershicimi.com/p/5d5ccee0d6ff173fefea64fb3a06f870)  
 - [2020-04-03-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/13f9b930c2ba9446c6f4d68f1674131b)  
-- [2020-04-02-模块打包机-webpack，你会用了吗？](https://www.ershicimi.com/p/d96f28ec7c5057110d35364d0e42078f)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
