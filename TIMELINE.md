@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-19 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-19 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -187,6 +187,7 @@
 - [【阮一峰的网络日志】2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html) 
 - [【阮一峰的网络日志】2020-04-10-科技爱好者周刊：第-102-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html) 
 - [【阮一峰的网络日志】2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html) 
+- [【前端里】2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
