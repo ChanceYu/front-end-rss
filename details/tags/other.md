@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -404,6 +404,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
 - [2020-04-17-前端生产方式：过去-10-年回顾和未来-10-年展望](https://www.ershicimi.com/p/06241786682ea5b4e314582ecf385bb2) 
 - [2020-04-17-两个月业余时间赢70万大奖！OPPO-Watch的这份“兼职”你还不来看看？](https://www.ershicimi.com/p/ca82c0ab1d7ba512cf50eaf088c2d28a) 
 - [2020-04-15-谷歌强制要求Android-11支持无缝更新，三星：针对我？](https://www.ershicimi.com/p/0e7a9ff935663e9b2088b3626c085757) 

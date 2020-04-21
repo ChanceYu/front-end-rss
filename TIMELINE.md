@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-21 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -148,6 +148,11 @@
 - [【前端大全】2020-04-02-模块打包机-webpack，你会用了吗？](https://www.ershicimi.com/p/d96f28ec7c5057110d35364d0e42078f) 
 - [【前端大全】2020-04-02-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/52d28878666c2287205863556b9ea153) 
 - [【前端大全】2020-04-01-组件演进史：从Mixin到HOC，再到Hook](https://www.ershicimi.com/p/fa73a39fd348105b26ddf00f94cce4c8) 
+- [【前端之巅】2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473) 
+- [【前端之巅】2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4) 
+- [【前端之巅】2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [【前端之巅】2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
+- [【前端之巅】2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) 
 - [【前端之巅】2020-04-17-前端生产方式：过去-10-年回顾和未来-10-年展望](https://www.ershicimi.com/p/06241786682ea5b4e314582ecf385bb2) 
 - [【前端之巅】2020-04-17-如何构建一个简单的Node.js-REST-API](https://www.ershicimi.com/p/6737e9ce19cf68c6baa9e523a8f20843) 
 - [【前端之巅】2020-04-17-两个月业余时间赢70万大奖！OPPO-Watch的这份“兼职”你还不来看看？](https://www.ershicimi.com/p/ca82c0ab1d7ba512cf50eaf088c2d28a) 

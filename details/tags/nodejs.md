@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -52,6 +52,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
 - [2020-04-10-Node.js中处理内存泄漏的实践指南](https://www.ershicimi.com/p/17512987d838a68bf36c2dbc22433776) 
 - [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) 
 - [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38) 

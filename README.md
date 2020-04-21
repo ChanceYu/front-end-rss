@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-21 06:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-21 12:00:25，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473) ![](assets/new.png)  
+- [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4) ![](assets/new.png)  
+- [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) ![](assets/new.png)  
+- [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) ![](assets/new.png)  
+- [2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) ![](assets/new.png)  
 - [2020-04-17-前端生产方式：过去-10-年回顾和未来-10-年展望](https://www.ershicimi.com/p/06241786682ea5b4e314582ecf385bb2)  
 - [2020-04-17-如何构建一个简单的Node.js-REST-API](https://www.ershicimi.com/p/6737e9ce19cf68c6baa9e523a8f20843)  
 - [2020-04-17-两个月业余时间赢70万大奖！OPPO-Watch的这份“兼职”你还不来看看？](https://www.ershicimi.com/p/ca82c0ab1d7ba512cf50eaf088c2d28a)  
@@ -110,11 +115,6 @@
 - [2020-04-12-前端周报：华为云服务器宕机被指响应不及时；微软在Twitter上展示新的Win10开始菜单；微软花1](https://www.ershicimi.com/p/a40b80696721c13ed4e2a9eb4298ea09)  
 - [2020-04-10-要价170万美金，微软买下史上最危险域名，黑客傻眼](https://www.ershicimi.com/p/41d8d696a1924111d372b30a7cb05780)  
 - [2020-04-10-Node.js中处理内存泄漏的实践指南](https://www.ershicimi.com/p/17512987d838a68bf36c2dbc22433776)  
-- [2020-04-10-版权壁垒加剧，是否会成为限制科技发展的“毒药”？](https://www.ershicimi.com/p/00fb6c4c422883bb7483e8542bc8a2e2)  
-- [2020-04-09-技术方案多、复用难？且看阿里文娱的前端工程管理实践](https://www.ershicimi.com/p/ddaff46bac102718d526517e1a21a9f4)  
-- [2020-04-09-快手自研YCNN-，让复杂神经网络模型加速实现-|-GMTC](https://www.ershicimi.com/p/43ea55953c9368a088ff195ac26eb761)  
-- [2020-04-08-InfoQ-2020-年-JavaScript-和-Web-开发趋势报告](https://www.ershicimi.com/p/ca0bec6191cb98005d1f0cc1620a69b4)  
-- [2020-04-08-Firefox-现安全漏洞，Mozilla-发布紧急更新](https://www.ershicimi.com/p/626c5144ecb9da2f35c9bd71b311f8e9)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/) ![](assets/new.png)  
+- [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/)  
 - [2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)  
 - [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/)  
