@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -21,6 +21,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316) 
 - [2020-04-03-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/13f9b930c2ba9446c6f4d68f1674131b) 
 - [2020-03-22-高性能前端架构解决方案](https://www.ershicimi.com/p/9667dec8beb32941546f715d12ceb500) 
 - [2020-02-28-如何更好地优化打包资源](https://www.ershicimi.com/p/ea1488ee4daa1a004e8b6cb4cb760ba4) 
