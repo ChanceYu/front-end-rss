@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -47,6 +47,7 @@
 - [2018-10-25-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect) 
 - [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect) 
 - [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect) 
+- [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562) 
 - [2020-04-16-高德App启动耗时剖析与优化实践（iOS篇）](https://www.ershicimi.com/p/497a9a3db67eb5abd5602e8ab005c35f) 
 - [2020-04-03-百度页面性能监控和优化实践](https://www.ershicimi.com/p/7323ebec140162226ee188d5ff48e8ff) 
 - [2020-03-30-前端架构性能优化策略](https://www.ershicimi.com/p/e111ba65499a1ed084fe17325212a2c0) 
