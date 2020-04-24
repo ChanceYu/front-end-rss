@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -84,6 +84,7 @@
 - [2018-10-03-你所不知道的-CSS-滤镜技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555025&idx=1&sn=3b4f9dfea7bc50e849cfe1c21424d881#wechat_redirect) 
 - [2018-10-01-不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect) 
 - [2018-09-24-CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect) 
+- [2020-04-23-工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0) 
 - [2020-04-16-为什么每个前端都应该关注-Serverless？-|-极客时间](https://www.ershicimi.com/p/a4c80c01b48cf6f8f7899d88931fa56e) 
 - [2020-04-14-盘点那些出色的CSS图像悬停效果](https://www.ershicimi.com/p/de61c0c0c5f14c39703b21a5614b9d1d) 
 - [2020-03-26-面向全栈的工业级-Serverless-平台成型之路-|-GMTC](https://www.ershicimi.com/p/f606e7baa66403c85264bc9e15f3f719) 

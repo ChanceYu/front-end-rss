@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -47,6 +47,7 @@
 - [2018-11-20-即使用了-https-也不要通过-query-strings-传敏感数据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555358&idx=2&sn=7f52a72261d9227a014a110c852e3185#wechat_redirect) 
 - [2018-10-27-关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect) 
 - [2018-10-26-WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect) 
+- [2020-04-24-当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813) 
 - [2020-04-08-面试稳了！Facebook面试官揭秘算法必考面点-|-极客大学](https://www.ershicimi.com/p/b094388e871dae5caa2dda01c9394cde) 
 - [2020-03-12-Wasm-在物联网、云和多媒体领域发展现状（首届-WebAssembly-Sumimit-解析下篇）](https://www.ershicimi.com/p/7981343de570f17ccd1d2af9afac9386) 
 - [2020-03-02-告别野蛮生长，非科班的我如何快速攻克算法？](https://www.ershicimi.com/p/e6ff7237f66148ae2be7ba3ea385d0e5) 
