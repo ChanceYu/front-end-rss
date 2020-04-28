@@ -8214,6 +8214,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "Flutter 2020春季更新",
+        "link": "https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "在函数式编程中使用自定义React Hooks",
+        "link": "https://www.ershicimi.com/p/c985edea59334983a796118ad066842a",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网",
+        "link": "https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Flutter 如何精准落地，跨端技术如何选型？ | GMTC",
+        "link": "https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1",
+        "date": "2020-04-26"
+      },
+      {
         "title": "代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验",
         "link": "https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de",
         "date": "2020-04-24"
@@ -12051,6 +12071,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "前端AB实验设计思路与实现原理",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test",
+        "date": "2020-04-27"
+      },
+      {
         "title": "2021届前端实习生内推",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate",
         "date": "2020-03-19"
@@ -12994,6 +13019,16 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "苹果往事：乔布斯和 iPod 的诞生",
+        "link": "http://www.ruanyifeng.com/blog/2020/04/ipod-history.html",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "git cherry-pick 教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html",
+        "date": "2020-04-27"
+      },
       {
         "title": "科技爱好者周刊：第 104 期",
         "link": "http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html",

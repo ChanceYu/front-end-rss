@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 22:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -261,6 +261,8 @@
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)
+- [【前端之巅】Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4)
+- [【前端之巅】Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1)
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【前端之巅】向新手推荐的2020年Flutter课程和教程](https://www.ershicimi.com/p/18fcb5ed5b33d6c4c0ddb52e09cedd47)
 - [【前端之巅】闲鱼Flutter实践与思考](https://www.ershicimi.com/p/de562b3bd1196278591e10ddd766a1c7)
@@ -272,8 +274,6 @@
 - [【前端之巅】PWA对比原生应用：谁更胜一筹？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493867&idx=1&sn=4158e538852fb92dc3e4fae8db978fd7&chksm=f9525da8ce25d4bebb1742094dd986e50793491c3386a2c9d49f89439e6f5e3133c77214abbe&scene=27#wechat_redirect)
 - [【前端之巅】闲鱼在-Flutter上的最新进展和创新](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493862&idx=2&sn=7d9fd32b0bd49bb50f3791e1e376527a&chksm=f9525da5ce25d4b344686504fd305fd043cfbd4752f5e979f558315964fee54a36102ae452c3&scene=27#wechat_redirect)
 - [【前端之巅】Weex、RN还是Flutter？聊聊阿里跨平台开发框架选型思路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493846&idx=1&sn=cbb5d7837edcb5a7ab4614c080646642&chksm=f9525d95ce25d4837fe9dfbd61d289bcf2d1509496736318b49299cf75d07d1ed7b4b8e47413&scene=27#wechat_redirect)
-- [【前端之巅】Flutter在字节跳动的现状与工程实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493836&idx=1&sn=979792491d0abe803c0f00ed412fb0de&chksm=f9525d8fce25d499f5c9815529f7fc25d5e130986a44e430352e375b77d5fe727a8d88f783e1&scene=27#wechat_redirect)
-- [【前端之巅】Kotlin-vs-Flutter：谁将成为跨平台开发市场的最终统治者？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493824&idx=1&sn=20177d3ef49f59c0a2ea9928b3368ee6&chksm=f9525d83ce25d495ed3b5f94055e5ad34432045db87deddc2a2e2788fb3977b947cf6d935fa3&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -626,6 +626,7 @@
 - [【前端之巅】CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect)
 - [【前端之巅】GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)
 - [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/)
+- [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 - [【阮一峰的网络日志】如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html)
 - [【阮一峰的网络日志】GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)
 - [【阮一峰的网络日志】GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
@@ -633,7 +634,6 @@
 - [【阮一峰的网络日志】git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
 - [【阮一峰的网络日志】Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)
 - [【Aotu-|-凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
-- [【Aotu-|-凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
