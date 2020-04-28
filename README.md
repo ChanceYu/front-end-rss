@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 12:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-04-28-极客时间前端课免费领！对标阿里P5-P8前端技能设计课程体系，快速进阶-|-极客时间](https://www.ershicimi.com/p/c0af042239ef195cec94504c78f9ac86) ![](assets/new.png)  
+- [2020-04-28-React可用于哪些Web开发场景？具体怎么做？](https://www.ershicimi.com/p/c10d275c7b4ee28f382f68c465a7eaa0) ![](assets/new.png)  
 - [2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4)  
 - [2020-04-27-在函数式编程中使用自定义React-Hooks](https://www.ershicimi.com/p/c985edea59334983a796118ad066842a)  
 - [2020-04-26-前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网](https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e)  
@@ -113,8 +115,6 @@
 - [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)  
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2)  
 - [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)  
-- [2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522)  
-- [2020-04-17-前端生产方式：过去-10-年回顾和未来-10-年展望](https://www.ershicimi.com/p/06241786682ea5b4e314582ecf385bb2)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) ![](assets/new.png)  
+- [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test)  
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate)  
 - [2020-03-02-一个前端智能化的实践](https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend)  
 - [2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense)  
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html) ![](assets/new.png)  
+- [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html)  
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)  
 - [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
