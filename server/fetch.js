@@ -140,7 +140,7 @@ function isSameLink(link, compare){
   const oCompare = queryString.parseUrl(compare);
   const reWx = /mp\.weixin/;
 
-  if(reWx.test(oLink.url) && reWx.test(oCompare)){
+  if(reWx.test(oLink.url) && reWx.test(oCompare.url)){
     return (oLink.query.sn === oCompare.query.sn)
         && (oLink.query.mid === oCompare.query.mid)
   }else{
