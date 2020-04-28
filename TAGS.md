@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-28 18:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,8 @@
 
 
 
+- [【前端早读课】【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)
+- [【前端早读课】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)
 - [【前端早读课】【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect)
 - [【前端早读课】80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect)
 - [【前端早读课】【第1763期】kbone，十分钟让Vue项目同时支持小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234487&idx=1&sn=bc5b4e65a9ab3a0ffc3213a1835c1301&chksm=bd4979338a3ef025b3bd6208c16f99829f6faf7ecc2ace5437e9a55c8f68a6564e8fe0fe114d&scene=27#wechat_redirect)
@@ -92,8 +94,6 @@
 - [【前端早读课】【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd)
 - [【前端早读课】前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd)
 - [【前端早读课】【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)
-- [【前端早读课】【第1637期】尤雨溪：Vue-Function-based-API-RFC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=1&sn=43a363df5b8e09a460919bcbaa177610#rd)
-- [【前端早读课】【第1620期】Vuex中模块Module在复杂业务中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232344&idx=1&sn=9540e3f59ab162549b80c4552793c39e#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,8 @@
 
 
 
+- [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)
+- [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd)
 - [【前端早读课】【第1862期】如何通过CSS向JS传参的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235740&idx=1&sn=38a3a6c46b1f2e646aa31384ee71c67d&chksm=bd497c188a3ef50e7a250e39e700ddeca4d0851d69f6c46c1663158b45c238b3da773b810bf1&scene=27#wechat_redirect)
 - [【前端早读课】【第1853期】像-JavaScript-一样思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235674&idx=1&sn=ae24cea8cc9b16049bfed217a8f82869&chksm=bd497cde8a3ef5c8f068ac544d4a30c8e49a474c4cef2fab371561224b0b41c9c574763b20c0&scene=27#wechat_redirect)
 - [【前端早读课】SpriteJS的3D渲染能力-Up,-Up,-Up!](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235595&idx=2&sn=237176689332aeb978a72fa96658a9a3&chksm=bd497c8f8a3ef599f0c5aec58acf7078a42aee571429eaf9ed72f652659fe8e5c43a80c494a2&scene=27#wechat_redirect)
@@ -344,8 +346,6 @@
 - [【前端早读课】【第1745期】现代-JavaScript-教程---类型检测："instanceof"](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=2&sn=e47acc9c20568f71ac393b6431b79ea2&chksm=bd49463a8a3ecf2cc4afee2621243520f4356f716fbaaef0b93b9c2c2d5baf3369f1d9fb55ce&scene=27#wechat_redirect)
 - [【前端早读课】【第1740期】揭开-JavaScript-引擎的面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=1&sn=ab00fa8ba5e80fada6c7a05f39c7d566&chksm=bd49461c8a3ecf0abf0b8c45cd440727ac6269820f2cdb96584a6b64b79ae3e76a8d474502e6&scene=27#wechat_redirect)
 - [【前端早读课】【第1738期】100-行代码实现-Promises/A+-规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234151&idx=1&sn=6292156c16e851d8d5f1dbccdfc82a74&chksm=bd4946e38a3ecff561bef99277e0f1ad5ec7f7014437aa100cb01e872eee80985adb04734b11&scene=27#wechat_redirect)
-- [【前端早读课】【第1736期】现代-JavaScript-教程---代码风格](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234052&idx=2&sn=049d5a83c7538e27b986cede1c4d9375&chksm=bd4946808a3ecf967321b784c9024656dacd37c8a5efe8c329a6a8a3133e420f3a66d0318093&scene=27#wechat_redirect)
-- [【前端早读课】【第1733期】Element-UI-技术揭秘-—-Container布局容器组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=1&sn=221de5a027730e1ac96bbe860dec8aec&chksm=bd49472d8a3ece3bbfb39389e27149b5454ecb47add1f69e4edb9ea449f76cd3cc0e57ab0682&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)
 - [【前端早读课】【第1869期】CSS-工具类和“关注点分离”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235802&idx=1&sn=3dc78beaade65cb52558ba0d5531e9d6&chksm=bd497c5e8a3ef5484d74a6a95a99ff1e53e1d669837c8198fbb01a336c878c5692643459e961&scene=27#wechat_redirect)
 - [【前端早读课】关于《CSS选择器世界》这本书](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235740&idx=2&sn=af91d7f01552428ebd2bccaf7ae06dec&chksm=bd497c188a3ef50ee13c0b84f0dda72ea4e52736783b7b5f060d77873d1f02a4f002e06dff3b&scene=27#wechat_redirect)
 - [【前端早读课】【第1861期】千万级流量业务的Serverless实践，看FaaS给前端带来的变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=1&sn=faf9eeac40a831985b1ccfa46a39aa4a&chksm=bd497c118a3ef507a01968253be536584d4c38db382e08469f757e2016f94d4690294d84b387&scene=27#wechat_redirect)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第1603期】CSS-自定义属性：使用篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232195&idx=2&sn=a1243680fa3142e9f40d0909d805d77a#rd)
 - [【前端早读课】【第1600期】如何学习-CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232163&idx=2&sn=d58a29039a17982fa1ff87d20006ea7e#rd)
 - [【前端早读课】【第1596期】CSS-自定义属性：基础篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232118&idx=1&sn=8e0d19e2e5b642e77b08f3cf2c2a45b1#rd)
-- [【前端早读课】【视频】CSS动画你应该知道的10件事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232041&idx=2&sn=0ddfc0f821f07bfdb66cdd1cb470bfda#rd)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)
 - [【前端早读课】【第1857期】Cookie-的-SameSite-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=1&sn=af5e022b2ba0651b7716108cfb2fb01a&chksm=bd497cf28a3ef5e401144a3ec61174757e79a8a57b074f363e84cd8c19da294dffe6ffeed052&scene=27#wechat_redirect)
 - [【前端早读课】【第1829期】复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=2&sn=2060afefc3458a631337b532e82f78cb&chksm=bd497dd28a3ef4c46ac51bd8d1d16598b8794349fddbda4856ceadc4accf62f06dfedb94dcb4&scene=27#wechat_redirect)
 - [【前端早读课】【第1820期】nohost-—-远程环境配置及抓包调试最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235350&idx=1&sn=57ec2deacd11fd0c61e4c049ea05f6a6&chksm=bd497d928a3ef484dae6931de4bed277201fa0200e84b60650e1d14ffc823a12563af81e47fc&scene=27#wechat_redirect)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第1647期】-理解-WebView](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=2&sn=58f51be214289d25d8350d8656b80460#rd)
 - [【前端早读课】【英】Webkit支持夜间模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=2&sn=fe9df4dab68db613c7db8ac5e736b598#rd)
 - [【前端早读课】【第1574期】浏览器帧原理剖析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=2&sn=26b93810ab043e64f71f882f35d912c3#rd)
-- [【前端早读课】996+裁员潮，什么样的前端人才能安全靠岸？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231917&idx=1&sn=5588bf7db7597bb44cb4727824b7ebd6#rd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,9 @@
 
 
 
+- [【前端早读课】【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)
+- [【前端早读课】【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd)
+- [【前端早读课】【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)
 - [【前端早读课】【招聘】字节跳动互娱研发团队招前端工程师（社校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=3&sn=955bcf890f9d91b0f533ee5460d17e3d&chksm=bd497f9f8a3ef6898627a497ef1a4e7792849d16c56725a5288eb7d2d92f1d76169402062df2&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里钉钉远航者计划—2021届技术实习生内推啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=3&sn=2f7b51db4ac6087b8bb7e7fdf2ccdf10&chksm=bd497f958a3ef6832830fcb82cf3d788b26cac68feb3b319fd8eedaff65392edff015ab03d22&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里AE21届春季实习正式启动！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=2&sn=8aa8d03ab13566f823e68c2292f82e8d&chksm=bd497c7e8a3ef56854065c284a53ca06cec5e4a79683e40d29de098f751f3b4335e198f99cd5&scene=27#wechat_redirect)
@@ -667,9 +670,6 @@
 - [【前端早读课】【招聘】阿里的无线架构方案等你来定义](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=2&sn=9a142024d8e3acbc0f9a8acdbed5a226&chksm=bd497df48a3ef4e2b152ba534744e433074e9d27a199c0bb18e259df9fcbf6f56989735a85a6&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】北京美团金融服务平台招中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=2&sn=066eb463f556f8736dd8f6cbb0a2d2b3&chksm=bd497dda8a3ef4cc325df9049ce3e2b8c932c66b11e4c17158a092f4344d25e3cfa324ad0f1b&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】创新工场AI研究院前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=3&sn=ca61dc3b48576fc6b076739c9ed9a353&chksm=bd497a1d8a3ef30b9725a65075107323571be60df2dde25d4ba65210111397633c3139af8d72&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】阿里飞猪用户技术-行业和平台团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=2&sn=1e03cb04ffdf89d4b114ae9f35b39ce7&chksm=bd497b388a3ef22e8431d5e5a26d045557ede6ee29630ebbe534574a820805b6d3e2bd071181&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】深圳腾讯云网络前端团队招Web前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234669&idx=2&sn=445a827559a05eae1a73c8a3eb6cc8ee&chksm=bd4978e98a3ef1ff78cca4122d0f9a9fe76fd375135446230999d5de2b562596bf85efeb3327&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】成都蚂蚁金服数据体验技术团队招高级／专家前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234667&idx=2&sn=35a719de3b20ef13a9a67deb751b6840&chksm=bd4978ef8a3ef1f91f244b70e615e0a73de038ecb8d65f03fc806bfbe2f3cb7dcda62a9da3f6&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,9 @@
 
 
 
+- [【前端早读课】【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)
+- [【前端早读课】【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)
+- [【前端早读课】【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)
 - [【前端早读课】发布-UMI-3，插件化的企业级前端应用框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=2&sn=6db329aa5e512725360813f3b615c75b&chksm=bd497f9f8a3ef689322221b3f8b0537368e83b5e88ca0d5e5b02e3669de9979043b2357241ee&scene=27#wechat_redirect)
 - [【前端早读课】别气馁，错过金三银四，还有金五银六！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=1&sn=152b1cafb85b8f74693777efca74dcaa&chksm=bd497f958a3ef683c39e8614a9292db748c0a5d5da27e16605093e30ce4fca320aa1416b84a1&scene=27#wechat_redirect)
 - [【前端早读课】【第1873期】设计体系的响应式设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235849&idx=1&sn=be5801e4447e047c3985d57f2c8da0ed&chksm=bd497f8d8a3ef69b8a5a255382cbb6ffaa40665770cf57e57a7fe862c60e764839f1ad0468ed&scene=27#wechat_redirect)
@@ -737,9 +740,6 @@
 - [【前端早读课】【第1852期】开源协同下的前端量化管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235669&idx=1&sn=eea405a11dd56facc2916dff1c3e747d&chksm=bd497cd18a3ef5c7c06331780d1529c82a220f4ff01800383b2204b3a92707c89f43e8dfbc6b&scene=27#wechat_redirect)
 - [【前端早读课】【前端杂记】20200209](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235661&idx=2&sn=b29d90fe6cf953e692daa48583c5b81a&chksm=bd497cc98a3ef5dfe9b268df6e013feaa9251771022933e0ded8aad3b8250f8845489b934595&scene=27#wechat_redirect)
 - [【前端早读课】【第1850期】网页布局简史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=1&sn=06abd69f6620a549e63fb7aa01e9bbe2&chksm=bd497cc08a3ef5d653463b7f0bbdd06588e71c5c1c31401d32dc5f5304ccd21b06b1b63c2775&scene=27#wechat_redirect)
-- [【前端早读课】【前端杂记】20200208](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=2&sn=18839e2fd893dac64937cda8ad027d4c&chksm=bd497cc08a3ef5d61934ce7d4514107ab8cffe06d7c497a70f91b3819fdc93ce17490b323306&scene=27#wechat_redirect)
-- [【前端早读课】【第1849期】远程工作的五大挑战&如何克服它们](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235644&idx=1&sn=56b8c7177124741511dcf97cf781acea&chksm=bd497cb88a3ef5ae393317b93acca0a8257e49e3f994cb703f9fbb0fad3dff6704cf7c437ef6&scene=27#wechat_redirect)
-- [【前端早读课】【第1841期】Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235595&idx=1&sn=85619a71bdb2b8d64ba275ddac917eca&chksm=bd497c8f8a3ef5999065daa00ef242841f6200fd9da449565d2b665cab37f0d4affbd153f704&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

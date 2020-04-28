@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-04-28 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 
+- [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143) 
+- [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c) 
 - [2020-03-05-发布-UMI-3，插件化的企业级前端应用框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=2&sn=6db329aa5e512725360813f3b615c75b&chksm=bd497f9f8a3ef689322221b3f8b0537368e83b5e88ca0d5e5b02e3669de9979043b2357241ee&scene=27#wechat_redirect) 
 - [2020-03-04-别气馁，错过金三银四，还有金五银六！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=1&sn=152b1cafb85b8f74693777efca74dcaa&chksm=bd497f958a3ef683c39e8614a9292db748c0a5d5da27e16605093e30ce4fca320aa1416b84a1&scene=27#wechat_redirect) 
 - [2020-03-03-【第1873期】设计体系的响应式设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235849&idx=1&sn=be5801e4447e047c3985d57f2c8da0ed&chksm=bd497f8d8a3ef69b8a5a255382cbb6ffaa40665770cf57e57a7fe862c60e764839f1ad0468ed&scene=27#wechat_redirect) 

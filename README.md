@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 18:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 06:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,18 @@
 </summary>
 
 
+- [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14) ![](assets/new.png)  
+- [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) ![](assets/new.png)  
+- [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd)  
+- [2020-04-28-【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd)  
+- [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
+- [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
+- [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
+- [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)  
+- [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)  
+- [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)  
+- [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)  
+- [2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)  
 - [2020-03-05-【第1875期】如何在页面极速渲染3D模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=1&sn=095c58cab3ef7723a6b6fa2238b59728&chksm=bd497f9f8a3ef68915c6ee4e10d843b980fa19575605c8bb9e0d1ee0e4b2d5195689fb178956&scene=27#wechat_redirect)  
 - [2020-03-05-发布-UMI-3，插件化的企业级前端应用框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=2&sn=6db329aa5e512725360813f3b615c75b&chksm=bd497f9f8a3ef689322221b3f8b0537368e83b5e88ca0d5e5b02e3669de9979043b2357241ee&scene=27#wechat_redirect)  
 - [2020-03-05-【招聘】字节跳动互娱研发团队招前端工程师（社校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=3&sn=955bcf890f9d91b0f533ee5460d17e3d&chksm=bd497f9f8a3ef6898627a497ef1a4e7792849d16c56725a5288eb7d2d92f1d76169402062df2&scene=27#wechat_redirect)  
@@ -41,18 +53,6 @@
 - [2020-03-04-【第1874期】阿里国际-redirect性能优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=2&sn=e278848b05354f81319bc94fd87472f5&chksm=bd497f958a3ef683625e73bc486908b6a9a75aef2abc4a317ba444ea1badf6d995362b7e226c&scene=27#wechat_redirect)  
 - [2020-03-04-【招聘】阿里钉钉远航者计划—2021届技术实习生内推啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=3&sn=2f7b51db4ac6087b8bb7e7fdf2ccdf10&chksm=bd497f958a3ef6832830fcb82cf3d788b26cac68feb3b319fd8eedaff65392edff015ab03d22&scene=27#wechat_redirect)  
 - [2020-03-03-【第1873期】设计体系的响应式设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235849&idx=1&sn=be5801e4447e047c3985d57f2c8da0ed&chksm=bd497f8d8a3ef69b8a5a255382cbb6ffaa40665770cf57e57a7fe862c60e764839f1ad0468ed&scene=27#wechat_redirect)  
-- [2020-03-02-【第1872期】React-Hooks的体系设计之三---什么是ref](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=1&sn=92f88f355e5bb2cbbd00e7cfff9475ce&chksm=bd497c7e8a3ef568586ac7d0dd245fcd451f9e698c11f9a5345d1f2aba01c018ed3784026017&scene=27#wechat_redirect)  
-- [2020-03-02-【招聘】阿里AE21届春季实习正式启动！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=2&sn=8aa8d03ab13566f823e68c2292f82e8d&chksm=bd497c7e8a3ef56854065c284a53ca06cec5e4a79683e40d29de098f751f3b4335e198f99cd5&scene=27#wechat_redirect)  
-- [2020-03-01-【第1871期】Ant-Design-4.0-正式版来了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=1&sn=40ea2ac89b75c1ddca1cb4559f7eba19&chksm=bd497c708a3ef56631a6c360fb253f8bbf699231747344d3b1e2ea5c09dfe0d6970e176ef9a6&scene=27#wechat_redirect)  
-- [2020-03-01-Angular-9.0-发布！Ivy-正式抵达！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=2&sn=5610361e882ea7c58f2a1ce1afd5775c&chksm=bd497c708a3ef5666d0373e5b06309dce6149366bb2257c281749a223503b612f8717cf60ff7&scene=27#wechat_redirect)  
-- [2020-03-01-【招聘】蚂蚁金服语雀团队招全栈、编辑器、移动端应用研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=3&sn=97bf45a793df83e668851bf5cb644bda&chksm=bd497c708a3ef566112c1970fa20fd4aac6a75738a778688c5343502b5dc80a7fde81aa159ed&scene=27#wechat_redirect)  
-- [2020-02-29-【第1870期】巧妙实现带圆角的渐变边框](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235809&idx=1&sn=fd52d24cb8610e45769522ac6e297bce&chksm=bd497c658a3ef5737b816a62475e4e0c5c4a55db7f1ecf514ccb312482b19cc5e2b9f8ffc846&scene=27#wechat_redirect)  
-- [2020-02-29-【招聘】支付宝支付业务技术部招P6/P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235809&idx=2&sn=02ff4ea97e6435b0614c31b80627515e&chksm=bd497c658a3ef57349ff4f9a1afabfca6484cee0612ae40d504ec45fff8fafa07746b3baf0b3&scene=27#wechat_redirect)  
-- [2020-02-28-【第1869期】CSS-工具类和“关注点分离”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235802&idx=1&sn=3dc78beaade65cb52558ba0d5531e9d6&chksm=bd497c5e8a3ef5484d74a6a95a99ff1e53e1d669837c8198fbb01a336c878c5692643459e961&scene=27#wechat_redirect)  
-- [2020-02-28-【招聘】阿里巴巴达摩院2021届前端实习生招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235802&idx=2&sn=42d45689c7d630a633ee253661695122&chksm=bd497c5e8a3ef54833917a98dea7b2c47e389a7db55a84a424354bb558f69ddabd3b77d8fb27&scene=27#wechat_redirect)  
-- [2020-02-27-【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect)  
-- [2020-02-27-【招聘】阿里实习生内推来啦～盒马、数字农业等你来加入～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=2&sn=4c03de7ef557fb42a878291100051326&chksm=bd497c508a3ef5468135812c7429a7b4d2e243825bb8ed4781501616946ada60fceaefaeaeaf&scene=27#wechat_redirect)  
-- [2020-02-26-【第1868期】闲话-CDN](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=1&sn=0d87f52d8e6d89302b15adea50555e91&chksm=bd497c418a3ef55730c13e9a28047d4cc043ab27d4cb05e863e431d9a67f37eb8045fe34df04&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,8 +95,8 @@
 </summary>
 
 
-- [2020-04-28-极客时间前端课免费领！对标阿里P5-P8前端技能设计课程体系，快速进阶-|-极客时间](https://www.ershicimi.com/p/c0af042239ef195cec94504c78f9ac86) ![](assets/new.png)  
-- [2020-04-28-React可用于哪些Web开发场景？具体怎么做？](https://www.ershicimi.com/p/c10d275c7b4ee28f382f68c465a7eaa0) ![](assets/new.png)  
+- [2020-04-28-极客时间前端课免费领！对标阿里P5-P8前端技能设计课程体系，快速进阶-|-极客时间](https://www.ershicimi.com/p/c0af042239ef195cec94504c78f9ac86)  
+- [2020-04-28-React可用于哪些Web开发场景？具体怎么做？](https://www.ershicimi.com/p/c10d275c7b4ee28f382f68c465a7eaa0)  
 - [2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4)  
 - [2020-04-27-在函数式编程中使用自定义React-Hooks](https://www.ershicimi.com/p/c985edea59334983a796118ad066842a)  
 - [2020-04-26-前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网](https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e)  
