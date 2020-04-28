@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 06:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -209,11 +209,13 @@
 - [【前端之巅】2020-04-01-唯一维护者锒铛入狱，周下载量超2600万的JS库该何去何从？](https://www.ershicimi.com/p/e2525aeda0cd286233e0edfe79fc9cdf) 
 - [【前端之巅】2020-04-01-如何使用可选样式表为网站或应用添加黑暗模式](https://www.ershicimi.com/p/9c4506fae2131d651b6b129681e82589) 
 - [【前端之巅】2020-04-01-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/f2d3c0df27a34de44508361c188dc1ac) 
+- [【Taobao-FED-|-淘宝前端团队】2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [【阮一峰的网络日志】2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html) 
 - [【阮一峰的网络日志】2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) 
 - [【阮一峰的网络日志】2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html) 
 - [【阮一峰的网络日志】2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html) 
