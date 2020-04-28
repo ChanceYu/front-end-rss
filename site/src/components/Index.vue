@@ -162,9 +162,9 @@ export default {
       window.scrollTo(0, 0)
     },
     async initLoadData () {
-      const links = await import('../../../data/links.json')
-      const rss = await import('../../../data/rss.json')
-      const tags = await import('../../../data/tags.json')
+      const rss = window.RSS_DATA
+      const tags = window.TAGS_DATA
+      const links = window.LINKS_DATA
 
       links.forEach((rssItem) => {
         const articles = rssItem.items.map((item) => {

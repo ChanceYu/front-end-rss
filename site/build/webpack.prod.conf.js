@@ -13,6 +13,8 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 
 const env = require('../config/prod.env')
 
+const templateParameters = require('./template-parameters')
+
 const webpackConfig = merge(baseWebpackConfig, {
   module: {
     rules: utils.styleLoaders({
@@ -46,9 +48,9 @@ const webpackConfig = merge(baseWebpackConfig, {
       filename: utils.assetsPath('css/[name].[contenthash].css'),
       // Setting the following option to `false` will not extract CSS from codesplit chunks.
       // Their CSS will instead be inserted dynamically with style-loader when the codesplit chunk has been loaded by webpack.
-      // It's currently set to `true` because we are seeing that sourcemaps are included in the codesplit bundle as well when it's `false`, 
+      // It's currently set to `true` because we are seeing that sourcemaps are included in the codesplit bundle as well when it's `false`,
       // increasing file size: https://github.com/vuejs-templates/webpack/issues/1110
-      allChunks: true,
+      allChunks: true
     }),
     // Compress extracted CSS. We are using this plugin so that possible
     // duplicated CSS from different components can be deduped.
@@ -64,6 +66,7 @@ const webpackConfig = merge(baseWebpackConfig, {
       filename: config.build.index,
       template: 'index.html',
       inject: true,
+      templateParameters,
       minify: {
         removeComments: true,
         collapseWhitespace: true,
@@ -121,11 +124,12 @@ const webpackConfig = merge(baseWebpackConfig, {
 
 if (config.build.productionGzip) {
   const CompressionWebpackPlugin = require('compression-webpack-plugin')
-
-  webpackConfig.plugins.push(
-    new CompressionWebpackPlugin({
-      asset: '[path].gz[query]',
-      algorithm: 'gzip',
+  const createCompression = (algorithm) => {
+    const asset = `[path].${ algorithm === 'gzip' ? 'gz' : 'br' }[query]`
+    
+    return new CompressionWebpackPlugin({
+      asset,
+      algorithm,
       test: new RegExp(
         '\\.(' +
         config.build.productionGzipExtensions.join('|') +
@@ -134,7 +138,10 @@ if (config.build.productionGzip) {
       threshold: 10240,
       minRatio: 0.8
     })
-  )
+  }
+
+  webpackConfig.plugins.push(createCompression('gzip'))
+  webpackConfig.plugins.push(createCompression('brotliCompress'))
 }
 
 if (config.build.bundleAnalyzerReport) {
