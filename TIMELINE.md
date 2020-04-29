@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 06:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -168,6 +168,9 @@
 - [【前端大全】2020-04-02-模块打包机-webpack，你会用了吗？](https://www.ershicimi.com/p/d96f28ec7c5057110d35364d0e42078f) 
 - [【前端大全】2020-04-02-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/52d28878666c2287205863556b9ea153) 
 - [【前端大全】2020-04-01-组件演进史：从Mixin到HOC，再到Hook](https://www.ershicimi.com/p/fa73a39fd348105b26ddf00f94cce4c8) 
+- [【前端之巅】2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065) 
+- [【前端之巅】2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/56ca1b7d3e67469c3bf65670bcd4ee5c) 
+- [【前端之巅】2020-04-29-我们应该如何度过-2020-的另外-2/3-？-|-极客大学](https://www.ershicimi.com/p/ba6e134e9528b5c9275088c5e332b2db) 
 - [【前端之巅】2020-04-28-极客时间前端课免费领！对标阿里P5-P8前端技能设计课程体系，快速进阶-|-极客时间](https://www.ershicimi.com/p/c0af042239ef195cec94504c78f9ac86) 
 - [【前端之巅】2020-04-28-React可用于哪些Web开发场景？具体怎么做？](https://www.ershicimi.com/p/c10d275c7b4ee28f382f68c465a7eaa0) 
 - [【前端之巅】2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4) 
