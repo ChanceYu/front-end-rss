@@ -4192,6 +4192,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "只有 2 行代码的库，坑了数百万 JS 项目",
+        "link": "https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "为什么你的网页需要 CSP?",
+        "link": "https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "前端部署的发展历程",
+        "link": "https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af",
+        "date": "2020-04-27"
+      },
+      {
         "title": "10个案例让你彻底理解React hooks的渲染逻辑",
         "link": "https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27",
         "date": "2020-04-26"
