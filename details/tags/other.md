@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-04-30 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b) 
+- [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39) 
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143) 
 - [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c) 

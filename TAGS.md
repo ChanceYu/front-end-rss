@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)
 - [【前端早读课】【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)
 - [【前端早读课】【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd)
 - [【前端早读课】【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】滴普科技DevOps招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=2&sn=403eebb0b71e248b2c574c44e0ba44b1&chksm=bd497ce68a3ef5f048eb731ba236a52d2ca09133d0904e043e84d4ab7ecfb1ddbc3ee6776b27&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里的无线架构方案等你来定义](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=2&sn=9a142024d8e3acbc0f9a8acdbed5a226&chksm=bd497df48a3ef4e2b152ba534744e433074e9d27a199c0bb18e259df9fcbf6f56989735a85a6&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】北京美团金融服务平台招中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=2&sn=066eb463f556f8736dd8f6cbb0a2d2b3&chksm=bd497dda8a3ef4cc325df9049ce3e2b8c932c66b11e4c17158a092f4344d25e3cfa324ad0f1b&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】创新工场AI研究院前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=3&sn=ca61dc3b48576fc6b076739c9ed9a353&chksm=bd497a1d8a3ef30b9725a65075107323571be60df2dde25d4ba65210111397633c3139af8d72&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)
+- [【前端早读课】【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)
 - [【前端早读课】【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)
 - [【前端早读课】【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)
 - [【前端早读课】【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)
@@ -738,8 +740,6 @@
 - [【前端早读课】【第1855期】得到-Hybrid-架构的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect)
 - [【前端早读课】【前端杂记】20200211](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235674&idx=2&sn=83a4ca2a352ad5f2572fbb24a6a6ca8f&chksm=bd497cde8a3ef5c81a9c7d6af351ebb5818b9a428b3693ac651ef23e383f4e848210c6959d26&scene=27#wechat_redirect)
 - [【前端早读课】【第1852期】开源协同下的前端量化管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235669&idx=1&sn=eea405a11dd56facc2916dff1c3e747d&chksm=bd497cd18a3ef5c7c06331780d1529c82a220f4ff01800383b2204b3a92707c89f43e8dfbc6b&scene=27#wechat_redirect)
-- [【前端早读课】【前端杂记】20200209](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235661&idx=2&sn=b29d90fe6cf953e692daa48583c5b81a&chksm=bd497cc98a3ef5dfe9b268df6e013feaa9251771022933e0ded8aad3b8250f8845489b934595&scene=27#wechat_redirect)
-- [【前端早读课】【第1850期】网页布局简史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235652&idx=1&sn=06abd69f6620a549e63fb7aa01e9bbe2&chksm=bd497cc08a3ef5d653463b7f0bbdd06588e71c5c1c31401d32dc5f5304ccd21b06b1b63c2775&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

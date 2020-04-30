@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 06:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 08:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,9 @@
 </summary>
 
 
+- [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b) ![](assets/new.png)  
+- [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe) ![](assets/new.png)  
+- [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39) ![](assets/new.png)  
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)  
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)  
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd)  
@@ -50,9 +53,6 @@
 - [2020-03-05-【招聘】字节跳动互娱研发团队招前端工程师（社校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=3&sn=955bcf890f9d91b0f533ee5460d17e3d&chksm=bd497f9f8a3ef6898627a497ef1a4e7792849d16c56725a5288eb7d2d92f1d76169402062df2&scene=27#wechat_redirect)  
 - [2020-03-05-【直播】淘系中后台负责人教你快速搭建企业微前端架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=4&sn=eb7bbb4f14973a7082e330a03f12f31f&chksm=bd497f9f8a3ef689295e777444cc145ec6725b80d4254e6870adcd11055bc936e86e50a47385&scene=27#wechat_redirect)  
 - [2020-03-04-别气馁，错过金三银四，还有金五银六！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=1&sn=152b1cafb85b8f74693777efca74dcaa&chksm=bd497f958a3ef683c39e8614a9292db748c0a5d5da27e16605093e30ce4fca320aa1416b84a1&scene=27#wechat_redirect)  
-- [2020-03-04-【第1874期】阿里国际-redirect性能优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=2&sn=e278848b05354f81319bc94fd87472f5&chksm=bd497f958a3ef683625e73bc486908b6a9a75aef2abc4a317ba444ea1badf6d995362b7e226c&scene=27#wechat_redirect)  
-- [2020-03-04-【招聘】阿里钉钉远航者计划—2021届技术实习生内推啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=3&sn=2f7b51db4ac6087b8bb7e7fdf2ccdf10&chksm=bd497f958a3ef6832830fcb82cf3d788b26cac68feb3b319fd8eedaff65392edff015ab03d22&scene=27#wechat_redirect)  
-- [2020-03-03-【第1873期】设计体系的响应式设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235849&idx=1&sn=be5801e4447e047c3985d57f2c8da0ed&chksm=bd497f8d8a3ef69b8a5a255382cbb6ffaa40665770cf57e57a7fe862c60e764839f1ad0468ed&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53) ![](assets/new.png)  
-- [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7) ![](assets/new.png)  
-- [2020-04-27-前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af) ![](assets/new.png)  
+- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)  
+- [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)  
+- [2020-04-27-前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)  
 - [2020-04-26-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27)  
 - [2020-04-26-面向对象：眼里是你，心里是你，余生请指教](https://www.ershicimi.com/p/43b944a886a82b7e7f374e4027b95813)  
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c)  

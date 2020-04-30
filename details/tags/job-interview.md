@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe) 
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) 
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd) 
 - [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9) 
