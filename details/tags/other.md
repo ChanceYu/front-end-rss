@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -413,6 +413,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00) 
 - [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/56ca1b7d3e67469c3bf65670bcd4ee5c) 
 - [2020-04-29-我们应该如何度过-2020-的另外-2/3-？-|-极客大学](https://www.ershicimi.com/p/ba6e134e9528b5c9275088c5e332b2db) 
