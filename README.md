@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 18:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,7 +64,8 @@
 </summary>
 
 
-- [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff) ![](assets/new.png)  
+- [2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) ![](assets/new.png)  
+- [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)  
 - [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)  
 - [2020-04-27-前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)  
@@ -83,7 +84,6 @@
 - [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483)  
 - [2020-04-16-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/74ac1750634c9ac9fce22e0bc583c526)  
 - [2020-04-15-前端市场中-Vue-的真实面孔](https://www.ershicimi.com/p/806841ff0b141b589f85465ac681bcc6)  
-- [2020-04-15-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/2cf5c2c6bb71ae4244219a7a43f5e101)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) ![](assets/new.png)  
+- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
 - [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
 - [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
