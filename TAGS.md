@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-02 18:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -470,6 +470,7 @@
 
 
 
+- [【前端早读课】【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)
 - [【前端早读课】【第1874期】阿里国际-redirect性能优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=2&sn=e278848b05354f81319bc94fd87472f5&chksm=bd497f958a3ef683625e73bc486908b6a9a75aef2abc4a317ba444ea1badf6d995362b7e226c&scene=27#wechat_redirect)
 - [【前端早读课】【第1851期】Web性能领域常见的专业术语](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235661&idx=1&sn=fb3d528c5259fbc388fab7ab683fd07d&chksm=bd497cc98a3ef5dff3ac41a89cb25d0395cbdb638eaca0aa62a041c131d34e27cfbd07c8ba27&scene=27#wechat_redirect)
 - [【前端早读课】【第1821期】前端内存优化的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235351&idx=1&sn=c6cc0d1043a55f4372f539daebed4a6c&chksm=bd497d938a3ef485efb3d8a4f140d2f82009878814666a0147d428d18f887a5c51d15a4de62c&scene=27#wechat_redirect)
@@ -489,7 +490,6 @@
 - [【前端大全】高性能前端架构解决方案](https://www.ershicimi.com/p/9667dec8beb32941546f715d12ceb500)
 - [【前端大全】如何更好地优化打包资源](https://www.ershicimi.com/p/ea1488ee4daa1a004e8b6cb4cb760ba4)
 - [【前端大全】如何更好地优化打包资源](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557939&idx=1&sn=22a7513a6fae144366c1799907a57743&chksm=802547f2b752cee435a9033a58e579e872a8015948f394835e40de33be5149b90253a3d15325&scene=27#wechat_redirect)
-- [【前端大全】性能测试：Firefox-73-vs-Chrome-80](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557889&idx=1&sn=060b7a60ee19e8c9b707407470a0b6ba&chksm=802547c0b752ced6eafcd64c3d99e80395b974758dee3357acc87246c2f882ccf2fb9afdfa44&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)
 - [【前端早读课】【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)
 - [【前端早读课】【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)
 - [【前端早读课】【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第1856期】会话式界面设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect)
 - [【前端早读课】【第1855期】得到-Hybrid-架构的演进之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=2&sn=872e87d543ab897e6a67f489c9a09135&chksm=bd497ced8a3ef5fb85b2915a1d4d4c51f32eec717c645855a4dc4cdb9e3b06e1d52036eb7213&scene=27#wechat_redirect)
 - [【前端早读课】【前端杂记】20200211](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235674&idx=2&sn=83a4ca2a352ad5f2572fbb24a6a6ca8f&chksm=bd497cde8a3ef5c81a9c7d6af351ebb5818b9a428b3693ac651ef23e383f4e848210c6959d26&scene=27#wechat_redirect)
-- [【前端早读课】【第1852期】开源协同下的前端量化管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235669&idx=1&sn=eea405a11dd56facc2916dff1c3e747d&chksm=bd497cd18a3ef5c7c06331780d1529c82a220f4ff01800383b2204b3a92707c89f43e8dfbc6b&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
