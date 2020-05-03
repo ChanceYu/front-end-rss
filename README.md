@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-03 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-03 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) ![](assets/new.png)  
-- [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) ![](assets/new.png)  
+- [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
+- [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
 - [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
 - [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)  
 - [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) ![](assets/new.png)  
 - [2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43)  
 - [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)  
@@ -83,7 +84,6 @@
 - [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)  
 - [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483)  
 - [2020-04-16-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/74ac1750634c9ac9fce22e0bc583c526)  
-- [2020-04-15-前端市场中-Vue-的真实面孔](https://www.ershicimi.com/p/806841ff0b141b589f85465ac681bcc6)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
