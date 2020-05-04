@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 08:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 18:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) ![](assets/new.png)  
+- [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
 - [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) ![](assets/new.png)  
+- [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) ![](assets/new.png)  
 - [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
 - [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
@@ -113,8 +115,6 @@
 - [2020-04-23-用React-Hooks做一个搜索栏](https://www.ershicimi.com/p/82ec07debd814648475a75cd252f7f48)  
 - [2020-04-23-工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)  
 - [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626)  
-- [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562)  
-- [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
