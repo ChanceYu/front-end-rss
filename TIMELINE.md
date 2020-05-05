@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-05 18:00:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -131,6 +131,7 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端之巅】2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb) 
 - [【前端之巅】2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [【前端之巅】2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
@@ -274,6 +275,11 @@
 - [【阮一峰的网络日志】2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html) 
 - [【前端里】2020-04-19-Flutter-VS-React-Native-VS-Native-性能PK](http://www.yyyweb.com/5360.html) 
 - [【前端里】2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html) 
+- [【Aotu-|-凹凸实验室】2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) 
+- [【Aotu-|-凹凸实验室】2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) 
+- [【Aotu-|-凹凸实验室】2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) 
+- [【Aotu-|-凹凸实验室】2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) 
+- [【Aotu-|-凹凸实验室】2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 18:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -14,6 +14,7 @@
 - [2018-12-16-【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect) 
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb) 
 - [2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4) 
 - [2020-04-26-Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1) 
 - [2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473) 

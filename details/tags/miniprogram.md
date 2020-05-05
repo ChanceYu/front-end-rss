@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 18:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -92,6 +92,9 @@
 - [2018-11-09-微信小程序·云开发初体验](https://jdc.jd.com/archives/212791) 
 - [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779) 
 - [2018-09-07-小程序实战总结](https://jdc.jd.com/archives/212697) 
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) 
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) 
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) 
 - [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 

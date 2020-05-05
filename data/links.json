@@ -8354,6 +8354,11 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践",
+        "link": "https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb",
+        "date": "2020-05-05"
+      },
+      {
         "title": "我是培训机构出身的程序员，不敢告诉任何人",
         "link": "https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58",
         "date": "2020-05-04"
@@ -14495,6 +14500,31 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "京东小程序 Taro 开发对比原生开发测评",
+        "link": "https://aotu.io/notes/2020/04/27/taro-vs-jd/",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "使用 Taro 快速开发京东小程序",
+        "link": "https://aotu.io/notes/2020/04/27/taro-build-jd/",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Atom 服务架构演变",
+        "link": "https://aotu.io/notes/2020/04/21/atom-services-upgrade/",
+        "date": "2020-04-21"
+      },
+      {
+        "title": "Taro Next H5 跨框架组件库实践",
+        "link": "https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/",
+        "date": "2020-04-13"
+      },
+      {
+        "title": "Electron 在 Taro IDE 的开发实践",
+        "link": "https://aotu.io/notes/2020/04/07/electron-in-taro-ide/",
+        "date": "2020-04-07"
+      },
       {
         "title": "如何打造高性能小程序门户",
         "link": "https://aotu.io/notes/2020/03/25/high-performance-miniprogram/",

@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 12:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 18:00:33，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660) ![](assets/new.png)  
-- [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826) ![](assets/new.png)  
+- [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
+- [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
 - [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb) ![](assets/new.png)  
 - [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
 - [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9)  
 - [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
@@ -114,7 +115,6 @@
 - [2020-04-24-当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813)  
 - [2020-04-23-用React-Hooks做一个搜索栏](https://www.ershicimi.com/p/82ec07debd814648475a75cd252f7f48)  
 - [2020-04-23-工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)  
-- [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,6 +281,11 @@
 </summary>
 
 
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
+- [2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
+- [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) ![](assets/new.png)  
 - [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/)  
 - [2020-03-17-来自程序媛的技术成长分享](https://aotu.io/notes/2020/03/17/technological-growth/)  
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)  
@@ -296,11 +301,6 @@
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/)  
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)  
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)  
-- [2019-09-25-玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)  
-- [2019-09-11-从程序员角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)  
-- [2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)  
-- [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)  
-- [2019-07-01-邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

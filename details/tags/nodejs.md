@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 18:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -111,6 +111,7 @@
 - [2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
 - [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
+- [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 - [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
 - [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
