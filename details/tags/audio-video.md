@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -28,6 +28,7 @@
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
 - [2020-01-26-Web-视频播放前前后后那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557793&idx=1&sn=a70ce12286324dfd0dc3ce1f3bb0b971&chksm=80255860b752d1764fc9f7413aa5d14c61fd58782fa0c175a53a9c46993f84c2274efad68083&scene=27#wechat_redirect) 
+- [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad) 
 - [2020-02-17-InfoQ-网站视频模块又又又又上线啦！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493763&idx=2&sn=b6e8c81ace7f0a4723630db367c20677&chksm=f9525dc0ce25d4d632bd84a060c966712e75c6ae4d9b6867b05dca516a74687b59b10bed6d63&scene=27#wechat_redirect) 
 - [2020-01-06-前端代码是怎样智能生成的-图像分离篇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493562&idx=2&sn=f7f7c0952ce807753f36c210364a833a&chksm=f95252f9ce25dbef2f0297bc4cabacf7dbc06098abc6f32b4f0fbd728716b1d178bb7b76d15d&scene=27#wechat_redirect) 
 - [2019-12-03-腾讯在线教育的Web音视频架构方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=2&sn=d0627948f62c0a67c8824ffb72fce8aa&chksm=f95253dcce25dacacc3607d0965e2f40465974cfc2af909cb8f303305d4291f79f5670231254&scene=27#wechat_redirect) 
