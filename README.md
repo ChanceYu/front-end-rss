@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 22:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442) ![](assets/new.png)  
-- [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e) ![](assets/new.png)  
-- [2020-05-06-JS-图片压缩的实现思路](https://www.ershicimi.com/p/33c01e37b8e3264c22e6349a5d9b2d6a) ![](assets/new.png)  
+- [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442)  
+- [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e)  
+- [2020-05-06-JS-图片压缩的实现思路](https://www.ershicimi.com/p/33c01e37b8e3264c22e6349a5d9b2d6a)  
 - [2020-05-05-微前端-qiankun-项目实践](https://www.ershicimi.com/p/7da6c8a8e860b0fe641eceb2c8d6f977)  
 - [2020-05-04-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/23d49b08dba8fe456a3d009a9b2a0f68)  
 - [2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c) ![](assets/new.png)  
+- [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d) ![](assets/new.png)  
 - [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)  
 - [2020-05-06-创建Svelte-Web组件](https://www.ershicimi.com/p/1dbd80140105b5f0b75f2c6e7749000a)  
 - [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8)  
@@ -113,8 +115,6 @@
 - [2020-04-27-在函数式编程中使用自定义React-Hooks](https://www.ershicimi.com/p/c985edea59334983a796118ad066842a)  
 - [2020-04-26-前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网](https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e)  
 - [2020-04-26-Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1)  
-- [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de)  
-- [2020-04-24-React.js-性能分析](https://www.ershicimi.com/p/158cc3f8bee03c13010c11768bac69d2)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
