@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 12:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 22:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126) ![](assets/new.png)  
-- [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1) ![](assets/new.png)  
+- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
+- [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)  
 - [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)  
 - [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
 - [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
@@ -64,6 +64,9 @@
 </summary>
 
 
+- [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442) ![](assets/new.png)  
+- [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e) ![](assets/new.png)  
+- [2020-05-06-JS-图片压缩的实现思路](https://www.ershicimi.com/p/33c01e37b8e3264c22e6349a5d9b2d6a) ![](assets/new.png)  
 - [2020-05-05-微前端-qiankun-项目实践](https://www.ershicimi.com/p/7da6c8a8e860b0fe641eceb2c8d6f977)  
 - [2020-05-04-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/23d49b08dba8fe456a3d009a9b2a0f68)  
 - [2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46)  
@@ -81,9 +84,6 @@
 - [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)  
 - [2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8)  
 - [2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)  
-- [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/8162b0f0ae0a163919344d7dbf32ac60)  
-- [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e)  
-- [2020-04-19-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

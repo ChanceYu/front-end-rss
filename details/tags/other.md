@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -243,6 +243,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e) 
 - [2020-05-05-微前端-qiankun-项目实践](https://www.ershicimi.com/p/7da6c8a8e860b0fe641eceb2c8d6f977) 
 - [2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7) 
