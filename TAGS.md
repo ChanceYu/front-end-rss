@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-07 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 12:00:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)
 - [【前端早读课】【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)
 - [【前端早读课】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)
 - [【前端早读课】【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect)
@@ -93,7 +94,6 @@
 - [【前端早读课】【第1642期】Vue组件库工程探索与实践之按需加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232590&idx=1&sn=48c479da96139a63cc3f8e934fda8205#rd)
 - [【前端早读课】【视频】Vue-Beyond-Vue-Loader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232581&idx=2&sn=e925b458abc7c3f74c8a843c98596706#rd)
 - [【前端早读课】前端开发程序员选择Vue.js的5大理由](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232551&idx=1&sn=94b09fb1da1b8491c020101b3cb5041f#rd)
-- [【前端早读课】【视频】State-of-Vue](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232544&idx=2&sn=2db81dd8a46ec6efaf677594cbd9784e#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)
 - [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)
 - [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd)
 - [【前端早读课】【第1862期】如何通过CSS向JS传参的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235740&idx=1&sn=38a3a6c46b1f2e646aa31384ee71c67d&chksm=bd497c188a3ef50e7a250e39e700ddeca4d0851d69f6c46c1663158b45c238b3da773b810bf1&scene=27#wechat_redirect)
@@ -345,7 +346,6 @@
 - [【前端早读课】【英】在JavaScript中使用查询参数](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234614&idx=2&sn=8ca50bf499bd232a383f02bfc2f8646e&chksm=bd4978b28a3ef1a43caa6f61a1520f46672cd62582b6ccc5b8db4247d96bba3c2b5525925641&scene=27#wechat_redirect)
 - [【前端早读课】【第1745期】现代-JavaScript-教程---类型检测："instanceof"](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=2&sn=e47acc9c20568f71ac393b6431b79ea2&chksm=bd49463a8a3ecf2cc4afee2621243520f4356f716fbaaef0b93b9c2c2d5baf3369f1d9fb55ce&scene=27#wechat_redirect)
 - [【前端早读课】【第1740期】揭开-JavaScript-引擎的面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=1&sn=ab00fa8ba5e80fada6c7a05f39c7d566&chksm=bd49461c8a3ecf0abf0b8c45cd440727ac6269820f2cdb96584a6b64b79ae3e76a8d474502e6&scene=27#wechat_redirect)
-- [【前端早读课】【第1738期】100-行代码实现-Promises/A+-规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234151&idx=1&sn=6292156c16e851d8d5f1dbccdfc82a74&chksm=bd4946e38a3ecff561bef99277e0f1ad5ec7f7014437aa100cb01e872eee80985adb04734b11&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1) 
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14) 
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd) 
 - [2020-02-20-【第1862期】如何通过CSS向JS传参的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235740&idx=1&sn=38a3a6c46b1f2e646aa31384ee71c67d&chksm=bd497c188a3ef50e7a250e39e700ddeca4d0851d69f6c46c1663158b45c238b3da773b810bf1&scene=27#wechat_redirect) 
