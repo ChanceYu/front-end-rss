@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 08:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2) ![](assets/new.png)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
 - [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)  
 - [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)  
@@ -52,7 +53,6 @@
 - [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)  
-- [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) ![](assets/new.png)  
+- [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
 - [2020-04-30-科技爱好者周刊：第-105-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)  
 - [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html)  
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)  

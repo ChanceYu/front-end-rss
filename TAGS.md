@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 08:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -470,6 +470,7 @@
 
 
 
+- [【前端早读课】【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)
 - [【前端早读课】【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)
 - [【前端早读课】【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)
 - [【前端早读课】【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)
@@ -489,7 +490,6 @@
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
 - [【前端大全】Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/23d49b08dba8fe456a3d009a9b2a0f68)
 - [【前端大全】前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46)
-- [【前端大全】微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
