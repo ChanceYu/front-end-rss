@@ -4252,6 +4252,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "Vue3.0 Beta 来了，正式版还会远吗？",
+        "link": "https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "5 个技巧助你编写更好的 React 代码",
+        "link": "https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a",
+        "date": "2020-05-08"
+      },
+      {
         "title": "「面试心理学」面试前的思考",
         "link": "https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442",
         "date": "2020-05-07"
@@ -12673,6 +12683,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "借助CSS mask遮罩显著优化PNG图片的尺寸",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/",
+        "date": "2020-05-08"
+      },
+      {
         "title": "CSS conic-gradient()锥形渐变简介",
         "link": "https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/",
         "date": "2020-04-20"
@@ -14570,6 +14585,11 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "京喜前端自动化测试之路",
+        "link": "https://aotu.io/notes/2020/05/06/jingxi-automated-testing/",
+        "date": "2020-05-06"
+      },
       {
         "title": "京东小程序 Taro 开发对比原生开发测评",
         "link": "https://aotu.io/notes/2020/04/27/taro-vs-jd/",
