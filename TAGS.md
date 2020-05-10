@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-09 22:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -470,6 +470,7 @@
 
 
 
+- [【前端早读课】【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)
 - [【前端早读课】【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)
 - [【前端早读课】【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)
 - [【前端早读课】【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)
@@ -489,7 +490,6 @@
 - [【前端早读课】【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect)
 - [【前端早读课】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
-- [【前端大全】Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/23d49b08dba8fe456a3d009a9b2a0f68)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

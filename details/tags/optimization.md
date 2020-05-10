@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470) 
 - [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a) 
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2) 
 - [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b) 
