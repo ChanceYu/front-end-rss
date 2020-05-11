@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 22:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -134,6 +134,8 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) 
+- [【前端大全】2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961) 
 - [【前端大全】2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8) 
 - [【前端大全】2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28) 
 - [【前端大全】2020-05-09-面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/4b34e36d6541d19eaebfa855c690a294) 
