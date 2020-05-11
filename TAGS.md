@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 12:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6)
 - [【前端早读课】【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)
 - [【前端早读课】【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)
 - [【前端早读课】【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第1863期】前端-DSL-实践指南（上）——-内部-DSL](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235747&idx=2&sn=bf86637be86b60abae28a41be04f6a25&chksm=bd497c278a3ef531b4a6c1a3657ce25d8ab3b5150950309326ba919cdba2f9c68d480a09f876&scene=27#wechat_redirect)
 - [【前端早读课】【第1860期】@Dan-Abramov：我的十年回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235726&idx=1&sn=788b43ba1cfb2e8f7c939b75ea0aaca6&chksm=bd497c0a8a3ef51c7a24cace91b4b24383149d4d0aded39e19ba4c613adf324071aa2916ff8f&scene=27#wechat_redirect)
 - [【前端早读课】【第1858期】通过HTML属性可改善用户的双重身份验证体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235715&idx=1&sn=a7e364236e694b774c671991d657f389&chksm=bd497c078a3ef5113a8d7a2b0d5fbeef13693d188978343b601701962a3086dbf5d7b4e70dce&scene=27#wechat_redirect)
-- [【前端早读课】【第1856期】会话式界面设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=1&sn=8d41f18e86931922533f6bc7177a0d4a&chksm=bd497cf48a3ef5e2bf7b544f6820c01b68771ce0384876163d8241188cd3dfffb9f98f5d397c&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 08:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 12:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6) ![](assets/new.png)  
 - [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)  
 - [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
@@ -52,7 +53,6 @@
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd)  
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd)  
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
-- [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,10 +95,10 @@
 </summary>
 
 
-- [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d) ![](assets/new.png)  
-- [2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425) ![](assets/new.png)  
-- [2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684) ![](assets/new.png)  
-- [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3) ![](assets/new.png)  
+- [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d)  
+- [2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425)  
+- [2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684)  
+- [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3)  
 - [2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c)  
 - [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d)  
 - [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)  
