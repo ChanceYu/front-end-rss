@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-12 18:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,8 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端之巅】2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f) 
+- [【前端之巅】2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073) 
 - [【前端之巅】2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838) 
 - [【前端之巅】2020-05-11-工程主管有哪些职责？](https://www.ershicimi.com/p/e8183e6f753d90ba9c065703c726fcc0) 
 - [【前端之巅】2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d) 
