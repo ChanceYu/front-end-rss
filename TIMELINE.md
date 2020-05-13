@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-13 22:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,8 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-13-几乎人人都会-Vue？老板凭什么选你？](https://www.ershicimi.com/p/28b4437c2ff99dd4d069cba8d0c3198c) 
+- [【前端大全】2020-05-13-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/fde9523b6cc5c5fd2f60af58ef609b85) 
 - [【前端大全】2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806) 
 - [【前端大全】2020-05-12-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/385612a1771b70aa52bc5bb7cef8d513) 
 - [【前端大全】2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) 
