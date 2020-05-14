@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 18:00:27，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) ![](assets/new.png)  
-- [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c) ![](assets/new.png)  
+- [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
+- [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
 - [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)  
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34) ![](assets/new.png)  
+- [2020-05-14-贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0) ![](assets/new.png)  
+- [2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/cbbbd3ec516277f427f07474f27376d3) ![](assets/new.png)  
+- [2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710) ![](assets/new.png)  
+- [2020-05-13-前端究竟怎么学？——我的学习路径和方法-|-极客大学](https://www.ershicimi.com/p/a13f14f176b769aef0115d87e2c7f3c0) ![](assets/new.png)  
 - [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)  
 - [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073)  
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
@@ -110,11 +115,6 @@
 - [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8)  
 - [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb)  
 - [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
-- [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9)  
-- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
-- [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
-- [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
-- [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

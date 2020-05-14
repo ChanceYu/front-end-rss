@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -56,6 +56,7 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710) 
 - [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d) 
 - [2020-04-17-如何构建一个简单的Node.js-REST-API](https://www.ershicimi.com/p/6737e9ce19cf68c6baa9e523a8f20843) 
 - [2020-04-02-使用GitHub-Actions，自动向NPM发布JS包](https://www.ershicimi.com/p/e5a09babdf5e50570504a867f68353e7) 

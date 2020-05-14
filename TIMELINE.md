@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -158,6 +158,11 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端之巅】2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34) 
+- [【前端之巅】2020-05-14-贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0) 
+- [【前端之巅】2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/cbbbd3ec516277f427f07474f27376d3) 
+- [【前端之巅】2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710) 
+- [【前端之巅】2020-05-13-前端究竟怎么学？——我的学习路径和方法-|-极客大学](https://www.ershicimi.com/p/a13f14f176b769aef0115d87e2c7f3c0) 
 - [【前端之巅】2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f) 
 - [【前端之巅】2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073) 
 - [【前端之巅】2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838) 
