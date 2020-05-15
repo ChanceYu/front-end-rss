@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f) 
 - [2020-03-02-【第1872期】React-Hooks的体系设计之三---什么是ref](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=1&sn=92f88f355e5bb2cbbd00e7cfff9475ce&chksm=bd497c7e8a3ef568586ac7d0dd245fcd451f9e698c11f9a5345d1f2aba01c018ed3784026017&scene=27#wechat_redirect) 
 - [2020-02-24-【第1866期】React-Hooks的体系设计之二---状态粒度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=1&sn=c56010d3e91b0c2993872c2511f820d0&chksm=bd497c328a3ef524c18cc82fd04e9d59f1b0a66bf925da32eaf6029d56162bd03f7f6b84329e&scene=27#wechat_redirect) 
 - [2020-02-17-【第1859期】React-Hooks的体系设计之一---分层](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235720&idx=1&sn=23d82cbf1230c230da4f756ef881f9da&chksm=bd497c0c8a3ef51a5b47c79f70238f8d9cb85e21649aaa1345935abe43a79c5e57c2899bafdd&scene=27#wechat_redirect) 
