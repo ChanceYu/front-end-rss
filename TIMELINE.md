@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 08:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-17 18:00:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,8 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-16-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/ff3b61d47f68ff8b5f83e1b39385f912) 
+- [【前端大全】2020-05-16-520，还单着的人怎么过？](https://www.ershicimi.com/p/9a17cfd269d3d8e7a39161b66f7d04e5) 
 - [【前端大全】2020-05-15-2020，前端Vue面试都问啥？](https://www.ershicimi.com/p/8c22f387d9129be07fd6bd65209c5640) 
 - [【前端大全】2020-05-15-如何实现一个高性能可渲染大数据的Tree组件](https://www.ershicimi.com/p/04f1aa94fdef272001614f77d3a89999) 
 - [【前端大全】2020-05-14-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/910fb3341149a314e135b9de0ea3b498) 
@@ -193,6 +195,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/) 
 - [【阮一峰的网络日志】2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) 
 - [【阮一峰的网络日志】2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 
+- [【Aotu-|-凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【Aotu-|-凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

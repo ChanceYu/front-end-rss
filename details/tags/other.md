@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 18:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -246,6 +246,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-05-16-520，还单着的人怎么过？](https://www.ershicimi.com/p/9a17cfd269d3d8e7a39161b66f7d04e5) 
 - [2020-05-14-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/910fb3341149a314e135b9de0ea3b498) 
 - [2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) 
 - [2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28) 
