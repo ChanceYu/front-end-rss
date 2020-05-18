@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-17 18:00:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【前端早读课】【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)
 - [【前端早读课】【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)
 - [【前端早读课】【第1867期】Node.js-CLI-工具最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=2&sn=66c5f809811ddc7477d49509231490b8&chksm=bd497c3a8a3ef52c1664210e27863711cd74246ae27ec9a0f39a320676621b2936ce2be3c635&scene=27#wechat_redirect)
 - [【前端早读课】【第1835期】llhttp是如何使Node.js性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235471&idx=1&sn=0bee2ebaf7234b54e0782455bbc3ae6f&chksm=bd497d0b8a3ef41d888e082669654713c975a67d8935145aba141372107ae908ea383a10bde2&scene=27#wechat_redirect)
@@ -201,7 +202,6 @@
 - [【前端早读课】【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect)
 - [【前端早读课】【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect)
 - [【前端早读课】【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect)
-- [【前端早读课】【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)
 - [【前端早读课】【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)
 - [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)
 - [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=1&sn=d0e604b4f3107d077f254f483bce48dd&chksm=bd4971b48a3ef8a2582ee7da3c141b359b82bdfe8daf477f5138d085bb94f3b083c5237d7107#rd)
@@ -345,7 +346,6 @@
 - [【前端早读课】【开源】阿里可跨组件体系的表单配置生成方案：form-render](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234633&idx=2&sn=b591767f7d9000b4d2e5eb72c3b4ce64&chksm=bd4978cd8a3ef1db155a41f0a2a3d45ce910a946587553d45ef7f1ddd3f3f8c57a72b967ed2d&scene=27#wechat_redirect)
 - [【前端早读课】【英】在JavaScript中使用查询参数](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234614&idx=2&sn=8ca50bf499bd232a383f02bfc2f8646e&chksm=bd4978b28a3ef1a43caa6f61a1520f46672cd62582b6ccc5b8db4247d96bba3c2b5525925641&scene=27#wechat_redirect)
 - [【前端早读课】【第1745期】现代-JavaScript-教程---类型检测："instanceof"](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=2&sn=e47acc9c20568f71ac393b6431b79ea2&chksm=bd49463a8a3ecf2cc4afee2621243520f4356f716fbaaef0b93b9c2c2d5baf3369f1d9fb55ce&scene=27#wechat_redirect)
-- [【前端早读课】【第1740期】揭开-JavaScript-引擎的面纱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234200&idx=1&sn=ab00fa8ba5e80fada6c7a05f39c7d566&chksm=bd49461c8a3ecf0abf0b8c45cd440727ac6269820f2cdb96584a6b64b79ae3e76a8d474502e6&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
