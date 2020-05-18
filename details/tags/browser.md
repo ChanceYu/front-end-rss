@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,6 +44,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f) 
 - [2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8) 
 - [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff) 
 - [2020-04-24-聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e) 

@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 08:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 18:00:26，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b) ![](assets/new.png)  
-- [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0) ![](assets/new.png)  
+- [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)  
+- [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
 - [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)  
 - [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
@@ -64,6 +64,9 @@
 </summary>
 
 
+- [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) ![](assets/new.png)  
+- [2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f) ![](assets/new.png)  
+- [2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091) ![](assets/new.png)  
 - [2020-05-16-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/ff3b61d47f68ff8b5f83e1b39385f912)  
 - [2020-05-16-520，还单着的人怎么过？](https://www.ershicimi.com/p/9a17cfd269d3d8e7a39161b66f7d04e5)  
 - [2020-05-15-2020，前端Vue面试都问啥？](https://www.ershicimi.com/p/8c22f387d9129be07fd6bd65209c5640)  
@@ -81,9 +84,6 @@
 - [2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a)  
 - [2020-05-08-5-个技巧助你编写更好的-React-代码](https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a)  
 - [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442)  
-- [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e)  
-- [2020-05-06-JS-图片压缩的实现思路](https://www.ershicimi.com/p/33c01e37b8e3264c22e6349a5d9b2d6a)  
-- [2020-05-05-微前端-qiankun-项目实践](https://www.ershicimi.com/p/7da6c8a8e860b0fe641eceb2c8d6f977)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56) ![](assets/new.png)  
+- [2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba) ![](assets/new.png)  
+- [2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b) ![](assets/new.png)  
 - [2020-05-15-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/d5116d3adea2f3b598b7156443450556)  
 - [2020-05-15-开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273)  
 - [2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34)  
@@ -112,9 +115,6 @@
 - [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3)  
 - [2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c)  
 - [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d)  
-- [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)  
-- [2020-05-06-创建Svelte-Web组件](https://www.ershicimi.com/p/1dbd80140105b5f0b75f2c6e7749000a)  
-- [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

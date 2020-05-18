@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -32,6 +32,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091) 
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/8162b0f0ae0a163919344d7dbf32ac60) 
 - [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483) 
 - [2020-04-16-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/74ac1750634c9ac9fce22e0bc583c526) 

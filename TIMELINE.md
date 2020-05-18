@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,6 +145,9 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
+- [【前端大全】2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f) 
+- [【前端大全】2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091) 
 - [【前端大全】2020-05-16-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/ff3b61d47f68ff8b5f83e1b39385f912) 
 - [【前端大全】2020-05-16-520，还单着的人怎么过？](https://www.ershicimi.com/p/9a17cfd269d3d8e7a39161b66f7d04e5) 
 - [【前端大全】2020-05-15-2020，前端Vue面试都问啥？](https://www.ershicimi.com/p/8c22f387d9129be07fd6bd65209c5640) 
@@ -169,6 +172,9 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端之巅】2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56) 
+- [【前端之巅】2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba) 
+- [【前端之巅】2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b) 
 - [【前端之巅】2020-05-15-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/d5116d3adea2f3b598b7156443450556) 
 - [【前端之巅】2020-05-15-开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273) 
 - [【前端之巅】2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34) 

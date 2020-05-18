@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -29,6 +29,7 @@
 - [2018-11-29-【第1461期】平庸前端码农之蜕变-—-AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230568&idx=1&sn=1f6f1de7316f7a57c3209b6faa1ed9a4#wechat_redirect) 
 - [2018-11-17-【第1449期】WebAssembly-后-MVP-时代的未来：卡通技能树](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=1&sn=5d4c66d815fa16940f07b404c88980a2#wechat_redirect) 
 - [2018-11-17-【图书】深入浅出WebAssembly](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230403&idx=2&sn=cda950c0ceb1ee6d0eb361d6576ef2e9#wechat_redirect) 
+- [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
 - [2020-01-15-手把手教你写几个实用的-AST-插件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557736&idx=1&sn=938034e4a389d0091e5ac8bd6aebd99a&chksm=802558a9b752d1bfb0cfa68cdab52d571e522dcab2f88762f829519060c2064f8219b86e2143&scene=27#wechat_redirect) 
 - [2020-01-08-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=1&sn=d933c86124898f20768f875639037128&chksm=80255880b752d19601e7d012883d750569506bc5a2400c13f2d645e34a2b9b273195e113ca1e&scene=27#wechat_redirect) 
 - [2020-01-05-第-4-种-Web-语言来了：WebAssembly：15-篇前端热文回看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557676&idx=1&sn=6b9b3b1cb06370159bf7f1954942ff13&chksm=802558edb752d1fb703e77ab5ade7691ed02211d251b3390c9adfae8e04ecb9a4b3379e5383b&scene=27#wechat_redirect) 
