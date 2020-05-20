@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) 
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) 
 - [2020-03-01-【招聘】蚂蚁金服语雀团队招全栈、编辑器、移动端应用研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=3&sn=97bf45a793df83e668851bf5cb644bda&chksm=bd497c708a3ef566112c1970fa20fd4aac6a75738a778688c5343502b5dc80a7fde81aa159ed&scene=27#wechat_redirect) 
 - [2020-02-23-【第1865期】HTTP的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235764&idx=1&sn=69a111d25c40e847b49373b069129564&chksm=bd497c308a3ef526f6ecd6f65c69643baae68687f2d176e8611ed84c07ca7b6c40e65b100439&scene=27#wechat_redirect) 
