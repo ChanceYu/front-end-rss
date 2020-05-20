@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 18:00:27，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 22:00:28，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,6 +64,10 @@
 </summary>
 
 
+- [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) ![](assets/new.png)  
+- [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) ![](assets/new.png)  
+- [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) ![](assets/new.png)  
+- [2020-05-19-面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～](https://www.ershicimi.com/p/29a38618f120b8a95bec7919e4e3f54f) ![](assets/new.png)  
 - [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5)  
 - [2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f)  
 - [2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091)  
@@ -80,10 +84,6 @@
 - [2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)  
 - [2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8)  
 - [2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28)  
-- [2020-05-09-面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/4b34e36d6541d19eaebfa855c690a294)  
-- [2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a)  
-- [2020-05-08-5-个技巧助你编写更好的-React-代码](https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a)  
-- [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf) ![](assets/new.png)  
-- [2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d) ![](assets/new.png)  
-- [2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886) ![](assets/new.png)  
-- [2020-05-19-不要再依赖CommonJS了](https://www.ershicimi.com/p/49e9de534b557ecea35f69b90cb35368) ![](assets/new.png)  
-- [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) ![](assets/new.png)  
+- [2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf)  
+- [2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d)  
+- [2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886)  
+- [2020-05-19-不要再依赖CommonJS了](https://www.ershicimi.com/p/49e9de534b557ecea35f69b90cb35368)  
+- [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1)  
 - [2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56)  
 - [2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba)  
 - [2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b)  
