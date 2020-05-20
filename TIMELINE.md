@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -177,6 +177,11 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端之巅】2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf) 
+- [【前端之巅】2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d) 
+- [【前端之巅】2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886) 
+- [【前端之巅】2020-05-19-不要再依赖CommonJS了](https://www.ershicimi.com/p/49e9de534b557ecea35f69b90cb35368) 
+- [【前端之巅】2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) 
 - [【前端之巅】2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56) 
 - [【前端之巅】2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba) 
 - [【前端之巅】2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b) 

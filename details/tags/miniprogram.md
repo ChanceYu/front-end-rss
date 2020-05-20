@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -51,6 +51,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) 
 - [2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) 
 - [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](https://www.ershicimi.com/p/075a95dc694f97f40430ed95ed247211) 
 - [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b) 

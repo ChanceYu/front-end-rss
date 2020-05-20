@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 08:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 18:00:27，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,11 +33,11 @@
 </summary>
 
 
-- [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012) ![](assets/new.png)  
-- [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) ![](assets/new.png)  
-- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) ![](assets/new.png)  
-- [2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46) ![](assets/new.png)  
-- [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc) ![](assets/new.png)  
+- [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)  
+- [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a)  
+- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a)  
+- [2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46)  
+- [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc)  
 - [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)  
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf) ![](assets/new.png)  
+- [2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d) ![](assets/new.png)  
+- [2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886) ![](assets/new.png)  
+- [2020-05-19-不要再依赖CommonJS了](https://www.ershicimi.com/p/49e9de534b557ecea35f69b90cb35368) ![](assets/new.png)  
+- [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) ![](assets/new.png)  
 - [2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56)  
 - [2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba)  
 - [2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b)  
@@ -110,11 +115,6 @@
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
 - [2020-05-11-工程主管有哪些职责？](https://www.ershicimi.com/p/e8183e6f753d90ba9c065703c726fcc0)  
 - [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d)  
-- [2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425)  
-- [2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684)  
-- [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3)  
-- [2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c)  
-- [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
