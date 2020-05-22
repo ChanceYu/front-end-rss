@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 08:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,10 +33,10 @@
 </summary>
 
 
-- [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) ![](assets/new.png)  
-- [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed) ![](assets/new.png)  
-- [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e) ![](assets/new.png)  
-- [2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed) ![](assets/new.png)  
+- [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  
+- [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed)  
+- [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)  
+- [2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed)  
 - [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)  
 - [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a)  
 - [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) ![](assets/new.png)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
 - [2020-04-30-科技爱好者周刊：第-105-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)  
@@ -207,7 +208,6 @@
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)  
 - [2020-02-27-我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)  
 - [2020-02-23-RDF-和-SPARQL-初探：以维基数据为例](http://www.ruanyifeng.com/blog/2020/02/sparql.html)  
-- [2020-02-21-科技爱好者：第-95-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-95.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
