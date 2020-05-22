@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e) 
 - [2020-02-24-【kbone-ui】打通-H5/微信小程序，多端UI库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=2&sn=2c7cf3b478196a2cf3af438f83f146e6&chksm=bd497c328a3ef524baa9a814ff8367449206839abc62aad183cd005cae27ee2439455815bbf3&scene=27#wechat_redirect) 
 - [2020-01-17-【第1839期】微保大型小程序的工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect) 
 - [2020-01-12-【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect) 

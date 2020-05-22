@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-21 18:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -218,6 +218,7 @@
 
 
 
+- [【前端早读课】别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)
 - [【前端早读课】【kbone-ui】打通-H5/微信小程序，多端UI库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=2&sn=2c7cf3b478196a2cf3af438f83f146e6&chksm=bd497c328a3ef524baa9a814ff8367449206839abc62aad183cd005cae27ee2439455815bbf3&scene=27#wechat_redirect)
 - [【前端早读课】【第1839期】微保大型小程序的工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect)
 - [【前端早读课】【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect)
@@ -237,7 +238,6 @@
 - [【前端早读课】【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd)
 - [【前端早读课】【第1577期】小程序性能优化的几点实践技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=1&sn=ec6a9af65dc1804f281a4e7d1bde945a#rd)
 - [【前端早读课】Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd)
-- [【前端早读课】【第1561期】5款小程序框架全面测评](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231794&idx=2&sn=30d0e8d7591b3238ecaa8603344a9fa0#rd)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,9 @@
 
 
 
+- [【前端早读课】【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)
+- [【前端早读课】【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed)
+- [【前端早读课】【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed)
 - [【前端早读课】【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a)
 - [【前端早读课】【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc)
 - [【前端早读课】【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)
@@ -737,9 +740,6 @@
 - [【前端早读课】别气馁，错过金三银四，还有金五银六！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=1&sn=152b1cafb85b8f74693777efca74dcaa&chksm=bd497f958a3ef683c39e8614a9292db748c0a5d5da27e16605093e30ce4fca320aa1416b84a1&scene=27#wechat_redirect)
 - [【前端早读课】【第1873期】设计体系的响应式设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235849&idx=1&sn=be5801e4447e047c3985d57f2c8da0ed&chksm=bd497f8d8a3ef69b8a5a255382cbb6ffaa40665770cf57e57a7fe862c60e764839f1ad0468ed&scene=27#wechat_redirect)
 - [【前端早读课】【第1871期】Ant-Design-4.0-正式版来了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=1&sn=40ea2ac89b75c1ddca1cb4559f7eba19&chksm=bd497c708a3ef56631a6c360fb253f8bbf699231747344d3b1e2ea5c09dfe0d6970e176ef9a6&scene=27#wechat_redirect)
-- [【前端早读课】Angular-9.0-发布！Ivy-正式抵达！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=2&sn=5610361e882ea7c58f2a1ce1afd5775c&chksm=bd497c708a3ef5666d0373e5b06309dce6149366bb2257c281749a223503b612f8717cf60ff7&scene=27#wechat_redirect)
-- [【前端早读课】【第1870期】巧妙实现带圆角的渐变边框](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235809&idx=1&sn=fd52d24cb8610e45769522ac6e297bce&chksm=bd497c658a3ef5737b816a62475e4e0c5c4a55db7f1ecf514ccb312482b19cc5e2b9f8ffc846&scene=27#wechat_redirect)
-- [【前端早读课】【第1868期】闲话-CDN](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=1&sn=0d87f52d8e6d89302b15adea50555e91&chksm=bd497c418a3ef55730c13e9a28047d4cc043ab27d4cb05e863e431d9a67f37eb8045fe34df04&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
