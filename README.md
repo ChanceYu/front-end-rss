@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 08:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48) ![](assets/new.png)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
@@ -52,7 +53,6 @@
 - [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
 - [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
-- [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-05-23-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7) ![](assets/new.png)  
+- [2020-05-23-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7)  
 - [2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6)  
 - [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270)  
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58)  
