@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 18:00:27，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 08:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,9 @@
 </summary>
 
 
+- [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf) ![](assets/new.png)  
+- [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682) ![](assets/new.png)  
+- [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de) ![](assets/new.png)  
 - [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
@@ -50,9 +53,6 @@
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
 - [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)  
-- [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
-- [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
-- [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,10 +95,10 @@
 </summary>
 
 
-- [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae) ![](assets/new.png)  
-- [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869) ![](assets/new.png)  
-- [2020-05-22-缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21) ![](assets/new.png)  
-- [2020-05-22-牛逼的架构师，从很久以前就开始牛逼了...-|-极客时间](https://www.ershicimi.com/p/c09fd661afc7e30e68b73f73723122ba) ![](assets/new.png)  
+- [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae)  
+- [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869)  
+- [2020-05-22-缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21)  
+- [2020-05-22-牛逼的架构师，从很久以前就开始牛逼了...-|-极客时间](https://www.ershicimi.com/p/c09fd661afc7e30e68b73f73723122ba)  
 - [2020-05-21-不用框架2周写一个电商网站，同济软工系前端小作业引热议](https://www.ershicimi.com/p/1c02bc22d6a3c52854bf5301c55226bb)  
 - [2020-05-21-JavaScript原型：关于对象的深入研究](https://www.ershicimi.com/p/247955499df22f039f3e8b60d7383eb7)  
 - [2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-25 18:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 08:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,8 @@
 
 
 
+- [【前端早读课】【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)
+- [【前端早读课】【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)
 - [【前端早读课】【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)
 - [【前端早读课】【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)
 - [【前端早读课】【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)
@@ -344,8 +346,6 @@
 - [【前端早读课】【第1806期】高德JS依赖分析工程及关键原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235158&idx=1&sn=381231dee5dbc78fe181084870c75ab8&chksm=bd497ad28a3ef3c4fea2ba90e9e3bdf9a408982af2b5cdf78e696aca707b7ca5dc9319b4c067&scene=27#wechat_redirect)
 - [【前端早读课】【第1799期】前端模块化的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=1&sn=d8f63fb59a760720cc40bd569c4754cf&chksm=bd497b4c8a3ef25a1e3abdbf21eca55a6fad98c2e998dc6c13ed1c0bdc2888936ed27a73aa1b&scene=27#wechat_redirect)
 - [【前端早读课】【第1798期】JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=1&sn=557b3017a937a66554c3591a70fc3402&chksm=bd497b388a3ef22efb051b7353442aef584f065f160a197d48a8ef03626d1451a84260de7799&scene=27#wechat_redirect)
-- [【前端早读课】用了-JavaScript-两三年，为什么还总踩坑？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234675&idx=1&sn=cceffde5a94688a90590122e4d975fb2&chksm=bd4978f78a3ef1e1d8a70dae729479432f67bc1bbef272fb8482e9b5d160ad767064b6ac8784&scene=27#wechat_redirect)
-- [【前端早读课】【开源】阿里可跨组件体系的表单配置生成方案：form-render](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234633&idx=2&sn=b591767f7d9000b4d2e5eb72c3b4ce64&chksm=bd4978cd8a3ef1db155a41f0a2a3d45ce910a946587553d45ef7f1ddd3f3f8c57a72b967ed2d&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)
 - [【前端早读课】【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)
 - [【前端早读课】【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)
 - [【前端早读课】【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)
 - [【前端早读课】【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)
 - [【前端早读课】【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)
-- [【前端早读课】发布-UMI-3，插件化的企业级前端应用框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=2&sn=6db329aa5e512725360813f3b615c75b&chksm=bd497f9f8a3ef689322221b3f8b0537368e83b5e88ca0d5e5b02e3669de9979043b2357241ee&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
