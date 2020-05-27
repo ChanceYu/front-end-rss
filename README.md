@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 18:00:27，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 06:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91) ![](assets/new.png)  
-- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) ![](assets/new.png)  
-- [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e) ![](assets/new.png)  
-- [2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29) ![](assets/new.png)  
-- [2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be) ![](assets/new.png)  
+- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
+- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)  
+- [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e)  
+- [2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29)  
+- [2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be)  
 - [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae)  
 - [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869)  
 - [2020-05-22-缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) ![](assets/new.png)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
 - [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  
@@ -176,7 +177,6 @@
 - [2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/)  
 - [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/)  
 - [2020-01-15-CSS-grid-auto-flow深入理解](https://www.zhangxinxu.com/wordpress/2020/01/css-grid-auto-flow/)  
-- [2020-01-05-CSS-overscroll-behavior让滚动嵌套时父滚动不触发](https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
