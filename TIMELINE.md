@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -250,6 +250,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/) 
+- [【阮一峰的网络日志】2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) 
 - [【阮一峰的网络日志】2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 
 - [【阮一峰的网络日志】2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) 
 - [【阮一峰的网络日志】2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) 
