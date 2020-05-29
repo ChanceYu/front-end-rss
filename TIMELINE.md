@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-30 06:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -163,6 +163,16 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20) 
+- [【前端大全】2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f) 
+- [【前端大全】2020-05-28-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/f8943b556d233564c92bcef717ab1caf) 
+- [【前端大全】2020-05-27-前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465) 
+- [【前端大全】2020-05-27-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5) 
+- [【前端大全】2020-05-26-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74) 
+- [【前端大全】2020-05-26-面向对象：带点文艺的理工女，寻找真诚上进的你](https://www.ershicimi.com/p/a99c242ab5083719dbd0afed684885d0) 
+- [【前端大全】2020-05-25-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/eb9c53b67264e6009ce4b0329e663871) 
+- [【前端大全】2020-05-25-JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37) 
+- [【前端大全】2020-05-24-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/489386fe087d137fe88a6bc2d4434e13) 
 - [【前端大全】2020-05-23-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7) 
 - [【前端大全】2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6) 
 - [【前端大全】2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) 
