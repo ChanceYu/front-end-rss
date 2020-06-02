@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 18:00:40，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 22:00:14，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9) ![](assets/new.png)  
-- [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767) ![](assets/new.png)  
-- [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da) ![](assets/new.png)  
+- [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)  
+- [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)  
+- [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da)  
 - [2020-06-01-【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f)  
 - [2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b)  
 - [2020-05-31-【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)  
@@ -64,6 +64,11 @@
 </summary>
 
 
+- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) ![](assets/new.png)  
+- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) ![](assets/new.png)  
+- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) ![](assets/new.png)  
+- [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) ![](assets/new.png)  
+- [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43) ![](assets/new.png)  
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/0b5fc7c665853c8160097d340656ffd3)  
 - [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20)  
 - [2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f)  
@@ -79,11 +84,6 @@
 - [2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6)  
 - [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270)  
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58)  
-- [2020-05-21-面向对象：不太爱运动的女孩，需要有个人带哦](https://www.ershicimi.com/p/123edbd1acc88db9f988b4c0fa1cef59)  
-- [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba)  
-- [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19)  
-- [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96)  
-- [2020-05-19-面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～](https://www.ershicimi.com/p/29a38618f120b8a95bec7919e4e3f54f)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
