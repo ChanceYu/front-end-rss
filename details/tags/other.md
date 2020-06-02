@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-06-01 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 18:00:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da) 
 - [2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b) 
 - [2020-05-29-【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12) 
 - [2020-05-28-【第1958期】前端状态管理设计——优雅与妥协的艺术](https://www.ershicimi.com/p/17c31945dd39b0065dd2ba289d8714f5) 

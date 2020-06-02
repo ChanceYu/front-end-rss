@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 18:00:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767) 
 - [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe) 
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) 
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd) 

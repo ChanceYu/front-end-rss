@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-01 18:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 18:00:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【前端早读课】【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)
 - [【前端早读课】【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)
 - [【前端早读课】【第1872期】React-Hooks的体系设计之三---什么是ref](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=1&sn=92f88f355e5bb2cbbd00e7cfff9475ce&chksm=bd497c7e8a3ef568586ac7d0dd245fcd451f9e698c11f9a5345d1f2aba01c018ed3784026017&scene=27#wechat_redirect)
 - [【前端早读课】【第1866期】React-Hooks的体系设计之二---状态粒度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=1&sn=c56010d3e91b0c2993872c2511f820d0&chksm=bd497c328a3ef524c18cc82fd04e9d59f1b0a66bf925da32eaf6029d56162bd03f7f6b84329e&scene=27#wechat_redirect)
@@ -57,7 +58,6 @@
 - [【前端早读课】【第1672期】React-优化技巧在-Web-版光线追踪里的应用中](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233080&idx=2&sn=9daff53febc75f6b4d15849a579d8677&chksm=bd4942bc8a3ecbaa35c6fac44ab8041d6b05eaa5db403c62b73ac7fa754d9cedca17a3b5ec32&scene=27#wechat_redirect)
 - [【前端早读课】【第1671期】21-项优化-React-App-性能的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233070&idx=1&sn=60d0b53cd668116f847bbb8047e9bdd9&chksm=bd4942aa8a3ecbbcea6222e0313d5e0483875e56f5ddf5730bd0187fb9de0de6437af73263b0&scene=27#wechat_redirect)
 - [【前端早读课】【第1663期】使用-React-Hooks-重构你的小程序](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233006&idx=1&sn=078aea41aec486d3c3cc79e0aa2d7597#rd)
-- [【前端早读课】【第1657期】使用-Jest-和-Enzyme-测试-React-组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232892&idx=1&sn=05906f2772ea11cd0a6c8acf1f81ff44#rd)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)
 - [【前端早读课】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)
 - [【前端早读课】【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)
 - [【前端早读课】【招聘】可视化网页编辑器-稿定设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236400&idx=2&sn=6421d026a733c433488dcd150b2faf4b&chksm=bd4971b48a3ef8a212b7eb760b04f5eeb1f2bd5a560079e2fafbc2df048c68e7dda1bb9d2f2c#rd)
@@ -669,7 +670,6 @@
 - [【前端早读课】面试前端岗，你被要求手写源码了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235689&idx=1&sn=4d4c2e06077cbd1aa5f76e0016dddbec&chksm=bd497ced8a3ef5fb89d934ddaa304d7ca160d7373efdcbcbd5fed685cff14bae294799ebf4f5&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】滴普科技DevOps招高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=2&sn=403eebb0b71e248b2c574c44e0ba44b1&chksm=bd497ce68a3ef5f048eb731ba236a52d2ca09133d0904e043e84d4ab7ecfb1ddbc3ee6776b27&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里的无线架构方案等你来定义](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=2&sn=9a142024d8e3acbc0f9a8acdbed5a226&chksm=bd497df48a3ef4e2b152ba534744e433074e9d27a199c0bb18e259df9fcbf6f56989735a85a6&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】北京美团金融服务平台招中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=2&sn=066eb463f556f8736dd8f6cbb0a2d2b3&chksm=bd497dda8a3ef4cc325df9049ce3e2b8c932c66b11e4c17158a092f4344d25e3cfa324ad0f1b&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da)
 - [【前端早读课】【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b)
 - [【前端早读课】【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12)
 - [【前端早读课】【第1958期】前端状态管理设计——优雅与妥协的艺术](https://www.ershicimi.com/p/17c31945dd39b0065dd2ba289d8714f5)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)
 - [【前端早读课】【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)
 - [【前端早读课】【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)
-- [【前端早读课】【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
