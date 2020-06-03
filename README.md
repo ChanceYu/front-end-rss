@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 22:00:14，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 18:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,11 +64,11 @@
 </summary>
 
 
-- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) ![](assets/new.png)  
-- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) ![](assets/new.png)  
-- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) ![](assets/new.png)  
-- [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) ![](assets/new.png)  
-- [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43) ![](assets/new.png)  
+- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e)  
+- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f)  
+- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06)  
+- [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e)  
+- [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43)  
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/0b5fc7c665853c8160097d340656ffd3)  
 - [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20)  
 - [2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f)  
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838) ![](assets/new.png)  
+- [2020-06-03-跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7) ![](assets/new.png)  
+- [2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9) ![](assets/new.png)  
+- [2020-06-02-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185) ![](assets/new.png)  
 - [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3)  
 - [2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f)  
 - [2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516)  
@@ -111,10 +115,6 @@
 - [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)  
 - [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e)  
-- [2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29)  
-- [2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be)  
-- [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae)  
-- [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

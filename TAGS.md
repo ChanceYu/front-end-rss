@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 22:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 18:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -262,6 +262,7 @@
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)
+- [【前端之巅】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185)
 - [【前端之巅】贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0)
 - [【前端之巅】Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c)
 - [【前端之巅】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb)
@@ -273,7 +274,6 @@
 - [【前端之巅】西瓜视频-Flutter-落地经验-|-GMTC](https://www.ershicimi.com/p/7216786f1099dd415629aa1c8c1bd972)
 - [【前端之巅】字节跳动为什么选用Flutter：并非跨平台终极之选，但它可能是不一样的未来](https://www.ershicimi.com/p/155a0f549e2531530f2f5a9f1a85efe6)
 - [【前端之巅】PWA对比原生应用：谁更胜一筹？](https://www.ershicimi.com/p/e77758e63d1a3b346ea13c13f85f7ea5)
-- [【前端之巅】闲鱼在-Flutter上的最新进展和创新](https://www.ershicimi.com/p/337517902b2c4f2c3b55c90905d61c36)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
