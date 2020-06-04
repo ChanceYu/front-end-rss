@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -67,6 +67,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60) 
 - [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
 - [2020-05-08-5-个技巧助你编写更好的-React-代码](https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a) 
 - [2020-04-26-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27) 
