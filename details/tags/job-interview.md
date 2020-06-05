@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-04-【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf) 
 - [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767) 
 - [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe) 
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) 

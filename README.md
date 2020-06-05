@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 12:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 18:00:12，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,12 @@
 </summary>
 
 
+- [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493) ![](assets/new.png)  
+- [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7) ![](assets/new.png)  
+- [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840) ![](assets/new.png)  
+- [2020-06-04-【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf) ![](assets/new.png)  
+- [2020-06-03-前端开发进阶手册](https://www.ershicimi.com/p/1147e62229b8325df2c96189172dda76) ![](assets/new.png)  
+- [2020-06-03-【第1964期】从React-Hooks看React的本质](https://www.ershicimi.com/p/3f582d4f5df54d463c59b486bffbbe7f) ![](assets/new.png)  
 - [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)  
 - [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)  
 - [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da)  
@@ -47,12 +53,6 @@
 - [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)  
 - [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
-- [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
-- [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
-- [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  
-- [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed)  
-- [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)  
-- [2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) ![](assets/new.png)  
+- [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
