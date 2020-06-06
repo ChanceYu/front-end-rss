@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1967期】前端架构 101： MVC 初探",
+        "link": "https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e",
+        "date": "2020-06-06"
+      },
+      {
         "title": "【第1966期】前端需要懂的 APP 容器原理",
         "link": "https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493",
         "date": "2020-06-05"
@@ -4476,6 +4481,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "前端开发进阶手册",
+        "link": "https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117",
+        "date": "2020-06-05"
+      },
+      {
+        "title": "原生 JS 封装拖动验证滑块你会吗？",
+        "link": "https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c",
+        "date": "2020-06-05"
+      },
       {
         "title": "尤雨溪：重头来过的 Vue 3 带来了什么？",
         "link": "https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832",

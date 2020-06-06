@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-05 18:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 08:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)
 - [【前端早读课】【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)
 - [【前端早读课】Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)
 - [【前端早读课】【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)
@@ -739,7 +740,6 @@
 - [【前端早读课】【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc)
 - [【前端早读课】【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)
 - [【前端早读课】2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)
-- [【前端早读课】【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

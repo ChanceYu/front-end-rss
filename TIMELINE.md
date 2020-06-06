@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 18:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端早读课】2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) 
 - [【前端早读课】2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493) 
 - [【前端早读课】2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7) 
 - [【前端早读课】2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840) 
@@ -133,6 +134,8 @@
 - [【前端早读课】2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da) 
 - [【前端早读课】2020-06-01-【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f) 
 - [【前端早读课】2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b) 
+- [【前端大全】2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) 
+- [【前端大全】2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) 
 - [【前端大全】2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832) 
 - [【前端大全】2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3) 
 - [【前端大全】2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60) 
