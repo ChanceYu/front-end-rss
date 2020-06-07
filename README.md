@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 08:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 06:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) ![](assets/new.png)  
+- [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)  
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)  
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)  
 - [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) ![](assets/new.png)  
-- [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) ![](assets/new.png)  
+- [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117)  
+- [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c)  
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)  
 - [2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3)  
 - [2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) ![](assets/new.png)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
@@ -176,7 +177,6 @@
 - [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/)  
 - [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/)  
 - [2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/)  
-- [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
