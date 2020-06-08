@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-06-08 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405) 
+- [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6) 
 - [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) 
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493) 
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7) 

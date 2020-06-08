@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-08 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 08:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第1969期】NutUI-视频组件开发心得](https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3)
 - [【前端早读课】【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)
 - [【前端早读课】【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)
 - [【前端早读课】【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第1809期】2019年前端事件回顾](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235225&idx=1&sn=4ee8b28252e7e4d96129f271bf5d6dbe&chksm=bd497a1d8a3ef30b330655db06c8b7cab202f1618eddb0840b0acff6133271fad5853e58229e&scene=27#wechat_redirect)
 - [【前端早读课】【第1806期】高德JS依赖分析工程及关键原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235158&idx=1&sn=381231dee5dbc78fe181084870c75ab8&chksm=bd497ad28a3ef3c4fea2ba90e9e3bdf9a408982af2b5cdf78e696aca707b7ca5dc9319b4c067&scene=27#wechat_redirect)
 - [【前端早读课】【第1799期】前端模块化的前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235016&idx=1&sn=d8f63fb59a760720cc40bd569c4754cf&chksm=bd497b4c8a3ef25a1e3abdbf21eca55a6fad98c2e998dc6c13ed1c0bdc2888936ed27a73aa1b&scene=27#wechat_redirect)
-- [【前端早读课】【第1798期】JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=1&sn=557b3017a937a66554c3591a70fc3402&chksm=bd497b388a3ef22efb051b7353442aef584f065f160a197d48a8ef03626d1451a84260de7799&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405)
+- [【前端早读课】掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6)
 - [【前端早读课】【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)
 - [【前端早读课】【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)
 - [【前端早读课】Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)
@@ -738,8 +740,6 @@
 - [【前端早读课】【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed)
 - [【前端早读课】【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a)
 - [【前端早读课】【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc)
-- [【前端早读课】【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)
-- [【前端早读课】2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
