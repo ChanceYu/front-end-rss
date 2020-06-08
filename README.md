@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 08:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 12:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2020-06-08-【第1969期】NutUI-视频组件开发心得](https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3) ![](assets/new.png)  
-- [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405) ![](assets/new.png)  
-- [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6) ![](assets/new.png)  
+- [2020-06-08-【第1969期】NutUI-视频组件开发心得](https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3)  
+- [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405)  
+- [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6)  
 - [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)  
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)  
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) ![](assets/new.png)  
+- [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145) ![](assets/new.png)  
+- [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677) ![](assets/new.png)  
 - [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be)  
 - [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a)  
 - [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838)  
@@ -112,9 +115,6 @@
 - [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](https://www.ershicimi.com/p/73af0f0ccd56559288e320c697d43ba0)  
 - [2020-05-28-每个程序员都曾犯过的10大经典错误](https://www.ershicimi.com/p/6bfeb784f67f85a586ee6430ad85bac7)  
 - [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831)  
-- [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f)  
-- [2020-05-27-移动端风头正旺，但我选择开发-PC-端小程序](https://www.ershicimi.com/p/23165ab3e116591bf793395719891d9b)  
-- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
