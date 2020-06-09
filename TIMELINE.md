@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,9 @@
 - [【前端早读课】2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da) 
 - [【前端早读课】2020-06-01-【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f) 
 - [【前端早读课】2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b) 
+- [【前端大全】2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93) 
+- [【前端大全】2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb) 
+- [【前端大全】2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2) 
 - [【前端大全】2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) 
 - [【前端大全】2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) 
 - [【前端大全】2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832) 
