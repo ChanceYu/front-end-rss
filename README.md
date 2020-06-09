@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 12:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 18:00:13，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93) ![](assets/new.png)  
-- [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb) ![](assets/new.png)  
-- [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2) ![](assets/new.png)  
+- [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93)  
+- [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb)  
+- [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2)  
 - [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117)  
 - [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c)  
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) ![](assets/new.png)  
+- [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6) ![](assets/new.png)  
+- [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b) ![](assets/new.png)  
+- [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963) ![](assets/new.png)  
+- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) ![](assets/new.png)  
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c)  
 - [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145)  
 - [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677)  
@@ -110,11 +115,6 @@
 - [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352)  
 - [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/ced8ad44398a06d5dc2139bb288b061b)  
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe)  
-- [2020-05-29-Android-Studio-4.0发布：全新的-Motion-编辑器及众多更新](https://www.ershicimi.com/p/14f666e03304c01d8fd48334908ce54b)  
-- [2020-05-29-云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)  
-- [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](https://www.ershicimi.com/p/73af0f0ccd56559288e320c697d43ba0)  
-- [2020-05-28-每个程序员都曾犯过的10大经典错误](https://www.ershicimi.com/p/6bfeb784f67f85a586ee6430ad85bac7)  
-- [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

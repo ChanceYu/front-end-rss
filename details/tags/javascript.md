@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -262,6 +262,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963) 
 - [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) 
 - [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838) 
 - [2020-05-21-JavaScript原型：关于对象的深入研究](https://www.ershicimi.com/p/247955499df22f039f3e8b60d7383eb7) 

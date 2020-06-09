@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -458,6 +458,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) 
+- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) 
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) 
 - [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145) 
 - [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677) 
