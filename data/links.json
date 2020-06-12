@@ -13598,6 +13598,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "移动端双指缩放图片JS事件的实践心得",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/",
+        "date": "2020-06-12"
+      },
+      {
         "title": "CSS gap属性进化史",
         "link": "https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/",
         "date": "2020-06-07"

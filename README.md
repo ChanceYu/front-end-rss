@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 22:00:12，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 06:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,8 +95,8 @@
 </summary>
 
 
-- [2020-06-12-Vue-3.0-KO-Vue-2.0-|-课程推荐](https://www.ershicimi.com/p/f6c9781f7a050ee48a252fea487db11e) ![](assets/new.png)  
-- [2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5) ![](assets/new.png)  
+- [2020-06-12-Vue-3.0-KO-Vue-2.0-|-课程推荐](https://www.ershicimi.com/p/f6c9781f7a050ee48a252fea487db11e)  
+- [2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5)  
 - [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5)  
 - [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)  
 - [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
@@ -176,7 +177,6 @@
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/)  
 - [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/)  
 - [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/)  
-- [2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
