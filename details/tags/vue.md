@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 12:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-12-【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873) 
 - [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105) 
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e) 
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126) 
@@ -64,6 +65,8 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/bb263461b38696a14d5693bc398059ec) 
+- [2020-06-09-走进-Vue-3.0-vs-Vue-2.0-的性能PK](https://www.ershicimi.com/p/0c10004172129408ed7e8749451c9962) 
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832) 
 - [2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3) 
 - [2020-05-27-前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465) 

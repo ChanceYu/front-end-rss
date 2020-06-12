@@ -5,6 +5,51 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1973期】SVG 图标制作指南",
+        "link": "https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "【视频】@蒋豪群：聊聊Vue3周边项目",
+        "link": "https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "【早读】20200612",
+        "link": "https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "【第1972期】可扩展的前端 -- 常见模式",
+        "link": "https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "【招聘】字节跳动 - 终端架构部门 - 前端工程师（社招/实习）",
+        "link": "https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "【第1971期】可扩展的前端 -- 架构基础",
+        "link": "https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "【招聘】百度智能办公团队招T5前端啦~",
+        "link": "https://www.ershicimi.com/p/76f274c10de5695677deee3b02f7e40f",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "如何用Echarts快速生成一张疫情地图？",
+        "link": "https://www.ershicimi.com/p/865ab4d3c88497503ec52f5ddfe7b954",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "【第1970期】作用域与闭包 - 最简解释器实现",
+        "link": "https://www.ershicimi.com/p/b321236ebd274dbf87489491ae604b7d",
+        "date": "2020-06-09"
+      },
+      {
         "title": "【第1969期】NutUI 视频组件开发心得",
         "link": "https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3",
         "date": "2020-06-08"
@@ -4497,6 +4542,41 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "除了 Vue，前端开发还需掌握哪些核心能力？",
+        "link": "https://www.ershicimi.com/p/bb263461b38696a14d5693bc398059ec",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "面试官：说说你对 options 请求的理解",
+        "link": "https://www.ershicimi.com/p/e1a7d93229307417d98f850f89d2a543",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "你不知道的 Blob",
+        "link": "https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "前端越来越后端化，工程化？2020 年你到底需要注意些什么？",
+        "link": "https://www.ershicimi.com/p/259c423144e24ee5cbe99483f0db6578",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "了不起的 tsconfig.json 指南",
+        "link": "https://www.ershicimi.com/p/4cd32f4ea9fed32062262e5042053234",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "走进 Vue 3.0 vs Vue 2.0 的性能PK",
+        "link": "https://www.ershicimi.com/p/0c10004172129408ed7e8749451c9962",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "前端如何在项目中做出亮点",
+        "link": "https://www.ershicimi.com/p/e7945eb4e8181e0cb16fb3d027c1e44c",
+        "date": "2020-06-09"
+      },
+      {
         "title": "同样是 3 年经验，为什么有的人就是资深开发？",
         "link": "https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93",
         "date": "2020-06-08"
@@ -8898,6 +8978,31 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "刚刚，谷歌正式发布Android 11 Beta版，带来多项重磅更新！",
+        "link": "https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "日活超过3亿的快手是怎么进行性能优化的？",
+        "link": "https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "​同时兼具跨平台和高性能的 AI 框架，可能吗？",
+        "link": "https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "JavaScript开发人员更喜欢Deno的五大原因",
+        "link": "https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "编写React组件时常见的5个错误",
+        "link": "https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74",
+        "date": "2020-06-10"
+      },
       {
         "title": "27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了",
         "link": "https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f",

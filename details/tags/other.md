@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-06-12 12:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6) 
+- [2020-06-11-【第1972期】可扩展的前端----常见模式](https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032) 
+- [2020-06-10-【第1971期】可扩展的前端----架构基础](https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed) 
+- [2020-06-09-如何用Echarts快速生成一张疫情地图？](https://www.ershicimi.com/p/865ab4d3c88497503ec52f5ddfe7b954) 
+- [2020-06-09-【第1970期】作用域与闭包---最简解释器实现](https://www.ershicimi.com/p/b321236ebd274dbf87489491ae604b7d) 
 - [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405) 
 - [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6) 
 - [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) 
@@ -266,6 +271,9 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-06-11-你不知道的-Blob](https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3) 
+- [2020-06-10-前端越来越后端化，工程化？2020-年你到底需要注意些什么？](https://www.ershicimi.com/p/259c423144e24ee5cbe99483f0db6578) 
+- [2020-06-09-前端如何在项目中做出亮点](https://www.ershicimi.com/p/e7945eb4e8181e0cb16fb3d027c1e44c) 
 - [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93) 
 - [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb) 
 - [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) 
@@ -458,6 +466,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5) 
 - [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) 
 - [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) 
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) 
