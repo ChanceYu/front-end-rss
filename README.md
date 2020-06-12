@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 12:00:16，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 12:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) ![](assets/new.png)  
+- [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html) ![](assets/new.png)  
+- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
 - [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
@@ -207,7 +208,6 @@
 - [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)  
 - [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)  
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
-- [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
