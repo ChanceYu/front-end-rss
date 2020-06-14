@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 06:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 08:00:10，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33) ![](assets/new.png)  
+- [2020-06-13-【早读】小程序工程化探索：大规模场景下的问题和解决方案](https://www.ershicimi.com/p/f2ffe412ed7dcac30eb51809f3472f8b) ![](assets/new.png)  
 - [2020-06-12-【第1973期】SVG-图标制作指南](https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c)  
 - [2020-06-12-【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873)  
 - [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6)  
@@ -51,8 +53,6 @@
 - [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)  
 - [2020-06-04-【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf)  
 - [2020-06-03-前端开发进阶手册](https://www.ershicimi.com/p/1147e62229b8325df2c96189172dda76)  
-- [2020-06-03-【第1964期】从React-Hooks看React的本质](https://www.ershicimi.com/p/3f582d4f5df54d463c59b486bffbbe7f)  
-- [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
+- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  

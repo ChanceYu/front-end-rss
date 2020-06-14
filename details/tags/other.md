@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-06-13 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33) 
 - [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6) 
 - [2020-06-11-【第1972期】可扩展的前端----常见模式](https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032) 
 - [2020-06-10-【第1971期】可扩展的前端----架构基础](https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed) 

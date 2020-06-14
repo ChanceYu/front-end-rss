@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-13 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 08:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -218,6 +218,7 @@
 
 
 
+- [【前端早读课】【早读】小程序工程化探索：大规模场景下的问题和解决方案](https://www.ershicimi.com/p/f2ffe412ed7dcac30eb51809f3472f8b)
 - [【前端早读课】别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)
 - [【前端早读课】【kbone-ui】打通-H5/微信小程序，多端UI库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=2&sn=2c7cf3b478196a2cf3af438f83f146e6&chksm=bd497c328a3ef524baa9a814ff8367449206839abc62aad183cd005cae27ee2439455815bbf3&scene=27#wechat_redirect)
 - [【前端早读课】【第1839期】微保大型小程序的工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect)
@@ -237,7 +238,6 @@
 - [【前端早读课】【PPT】美团@吴熙辰：榛果⼩小程序性能优化实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=1&sn=685db485a45180a5eef90e0b4a553f21#rd)
 - [【前端早读课】【第1618期】Chameleon-开放跨端扩展标准协议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232319&idx=2&sn=8854edddffd9e16a3d806ce94105d85e#rd)
 - [【前端早读课】【第1577期】小程序性能优化的几点实践技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231974&idx=1&sn=ec6a9af65dc1804f281a4e7d1bde945a#rd)
-- [【前端早读课】Chameleon团队发布第一个视频教程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231905&idx=2&sn=e51aba684848f6c466da6d84d5c7321c#rd)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33)
 - [【前端早读课】【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6)
 - [【前端早读课】【第1972期】可扩展的前端----常见模式](https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032)
 - [【前端早读课】【第1971期】可扩展的前端----架构基础](https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed)
@@ -739,7 +740,6 @@
 - [【前端早读课】「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)
 - [【前端早读课】【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)
 - [【前端早读课】【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)
-- [【前端早读课】【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
