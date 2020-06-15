@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -274,6 +274,9 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932) 
+- [2020-06-15-在-TS-类型推断中如何使用上下文](https://www.ershicimi.com/p/aa3cdad229a18dc2cd03c633c7f1c963) 
+- [2020-06-13-谁说前端不需要懂二进制](https://www.ershicimi.com/p/e94240b9a08e34f191fed5b2dd8fc50b) 
 - [2020-06-11-你不知道的-Blob](https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3) 
 - [2020-06-10-前端越来越后端化，工程化？2020-年你到底需要注意些什么？](https://www.ershicimi.com/p/259c423144e24ee5cbe99483f0db6578) 
 - [2020-06-09-前端如何在项目中做出亮点](https://www.ershicimi.com/p/e7945eb4e8181e0cb16fb3d027c1e44c) 
