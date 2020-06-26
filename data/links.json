@@ -5,6 +5,56 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1985期】webpack与rollup背后的acorn",
+        "link": "https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人",
+        "link": "https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "【早读】如何做一名有能力的专业人士",
+        "link": "https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "前端工程师不写网页，还能做什么？",
+        "link": "https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "【第1984期】浅析 NodeJs 的几种文件路径",
+        "link": "https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "【早读】Vue.js 团队成员@蒋豪群：谈谈技术项目的可维护性",
+        "link": "https://www.ershicimi.com/p/5bb19ed94ae9d2d677d702ffec00dfec",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "【第1983期】如何挑选数据可视化框架及平台 - 前端篇",
+        "link": "https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "【早读】不是领导，如何影响他人、指导团队？",
+        "link": "https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "【第1982期】前端架构101：从 Flux 进化到 Model-View-Presenter",
+        "link": "https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "【早读】代码优化策略 — Idle Until Urgent",
+        "link": "https://www.ershicimi.com/p/d1eefc167320e21b07d59ebe23138a51",
+        "date": "2020-06-21"
+      },
+      {
         "title": "【第1976期】滴滴出行小程序体积优化实践",
         "link": "https://www.ershicimi.com/p/f6214641a1008fd3c101c4d428315d14",
         "date": "2020-06-15"
@@ -4577,6 +4627,56 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "那些不常见，但却非常实用的 css 属性",
+        "link": "https://www.ershicimi.com/p/1219b567eaeda294dda8ecfb48053f15",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "Deno 继颠覆 Node 之后，又“内部”拒绝了 TypeScript",
+        "link": "https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "华为 WEB 前端全栈成长计划招募",
+        "link": "https://www.ershicimi.com/p/4119ac6f2c927a58c0acf8c876d96259",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "一文快速入门 GraphQL",
+        "link": "https://www.ershicimi.com/p/7b1b3e86527bf2b79120d85de1c19efa",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "资深前端工程师：裁人后总结了 7 个必备技能",
+        "link": "https://www.ershicimi.com/p/093548bf9e4abe2fd87a57eddf760474",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "从 React Hooks 看 React 的本质",
+        "link": "https://www.ershicimi.com/p/5aed14aa76a1d9cb877b77f72ff4e441",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "萌妹子语音陪你写代码，一个神奇的 VSCode 插件",
+        "link": "https://www.ershicimi.com/p/0a861f117efd595923c6cf5a094abd26",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "Vue 3.0  KO  Vue 2.0",
+        "link": "https://www.ershicimi.com/p/59b72155b0afe214a2525d2357b50269",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "10 个打开了我新世界大门的 WebAPI",
+        "link": "https://www.ershicimi.com/p/9036cfe71e7a0ef0ba5431236cfdb7c6",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "开发穿这个，会不会引起测试部的众怒？",
+        "link": "https://www.ershicimi.com/p/08cafd606a324e9b321624c77a2add6d",
+        "date": "2020-06-18"
+      },
+      {
         "title": "前端开发，除了转骑手还有其他出路吗？",
         "link": "https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932",
         "date": "2020-06-15"
@@ -9033,6 +9133,56 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "为什么我不再用Vue，改用React？",
+        "link": "https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "U4内核技术优化大揭秘",
+        "link": "https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "winter出品的前端训练营招募兼职助教 | 极客大学",
+        "link": "https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "JavaScript和Node.js简史，前端未来走向何方？",
+        "link": "https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "Web梦回90年代",
+        "link": "https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "关于这个时间，前端工程师学习的建议 | 极客大学",
+        "link": "https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "苹果：没想到吧，我自己做了“小程序”",
+        "link": "https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "winter出品的前端训练营招募兼职助教 | 极客大学",
+        "link": "https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "Deno将停止使用TypeScript，并公布五项具体理由",
+        "link": "https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "JavaScript 中内存泄漏的原因以及对策",
+        "link": "https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1",
+        "date": "2020-06-22"
+      },
       {
         "title": "谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！",
         "link": "https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf",

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-06-24 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-06-24-【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c) 
+- [2020-06-23-前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a) 
+- [2020-06-22-【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f) 
+- [2020-06-22-【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a) 
 - [2020-06-14-【第1975期】前端要懂的色域知识](https://www.ershicimi.com/p/653285419e103772c9402838421b378a) 
 - [2020-06-14-【早读】网站无障碍化简介](https://www.ershicimi.com/p/a3d229f4cb69c297423792256ebf8093) 
 - [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33) 
@@ -274,6 +278,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-06-22-资深前端工程师：裁人后总结了-7-个必备技能](https://www.ershicimi.com/p/093548bf9e4abe2fd87a57eddf760474) 
+- [2020-06-21-萌妹子语音陪你写代码，一个神奇的-VSCode-插件](https://www.ershicimi.com/p/0a861f117efd595923c6cf5a094abd26) 
+- [2020-06-19-10-个打开了我新世界大门的-WebAPI](https://www.ershicimi.com/p/9036cfe71e7a0ef0ba5431236cfdb7c6) 
+- [2020-06-18-开发穿这个，会不会引起测试部的众怒？](https://www.ershicimi.com/p/08cafd606a324e9b321624c77a2add6d) 
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932) 
 - [2020-06-15-在-TS-类型推断中如何使用上下文](https://www.ershicimi.com/p/aa3cdad229a18dc2cd03c633c7f1c963) 
 - [2020-06-13-谁说前端不需要懂二进制](https://www.ershicimi.com/p/e94240b9a08e34f191fed5b2dd8fc50b) 
@@ -472,6 +480,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b) 
+- [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d) 
+- [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd) 
+- [2020-06-23-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a) 
 - [2020-06-15-谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！](https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf) 
 - [2020-06-15-让你的代码讲出它的故事](https://www.ershicimi.com/p/8bdc0d5bea80b19e5c50dfabd200b864) 
 - [2020-06-14-前端周报：字节跳动禁止中国员工访问海外代码库；新Mac或使用苹果自研芯片；微软公布Windows-T](https://www.ershicimi.com/p/99813d92a7934b88031a1a9c17f5f19c) 
