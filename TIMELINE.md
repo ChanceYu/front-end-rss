@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 08:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -196,6 +196,9 @@
 - [【前端大全】2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [【前端大全】2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
 - [【前端大全】2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
+- [【前端之巅】2020-06-26-将数十万行CoffeeScript代码迁移到TypeScript](https://www.ershicimi.com/p/2f91f9e6551bf76143b148d191ace38b) 
+- [【前端之巅】2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) 
+- [【前端之巅】2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16) 
 - [【前端之巅】2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a) 
 - [【前端之巅】2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989) 
 - [【前端之巅】2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b) 

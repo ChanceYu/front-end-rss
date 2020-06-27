@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 08:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -480,6 +480,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) 
+- [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16) 
 - [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b) 
 - [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d) 
 - [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd) 

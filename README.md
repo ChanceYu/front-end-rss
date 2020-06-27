@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 08:00:11，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 08:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,16 +33,16 @@
 </summary>
 
 
-- [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1) ![](assets/new.png)  
-- [2020-06-24-【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3) ![](assets/new.png)  
-- [2020-06-24-【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c) ![](assets/new.png)  
-- [2020-06-23-前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a) ![](assets/new.png)  
-- [2020-06-23-【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621) ![](assets/new.png)  
-- [2020-06-23-【早读】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](https://www.ershicimi.com/p/5bb19ed94ae9d2d677d702ffec00dfec) ![](assets/new.png)  
-- [2020-06-22-【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f) ![](assets/new.png)  
-- [2020-06-22-【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a) ![](assets/new.png)  
-- [2020-06-21-【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6) ![](assets/new.png)  
-- [2020-06-21-【早读】代码优化策略-—-Idle-Until-Urgent](https://www.ershicimi.com/p/d1eefc167320e21b07d59ebe23138a51) ![](assets/new.png)  
+- [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1)  
+- [2020-06-24-【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3)  
+- [2020-06-24-【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c)  
+- [2020-06-23-前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a)  
+- [2020-06-23-【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621)  
+- [2020-06-23-【早读】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](https://www.ershicimi.com/p/5bb19ed94ae9d2d677d702ffec00dfec)  
+- [2020-06-22-【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f)  
+- [2020-06-22-【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a)  
+- [2020-06-21-【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6)  
+- [2020-06-21-【早读】代码优化策略-—-Idle-Until-Urgent](https://www.ershicimi.com/p/d1eefc167320e21b07d59ebe23138a51)  
 - [2020-06-15-【第1976期】滴滴出行小程序体积优化实践](https://www.ershicimi.com/p/f6214641a1008fd3c101c4d428315d14)  
 - [2020-06-15-【招聘】北京美团商家金融服务招聘高级前端工程师](https://www.ershicimi.com/p/ca0f836d695c53be6ae530f0dc5c67d0)  
 - [2020-06-15-【早读】【第1587期】-深入实践-ES6-Proxy-&-Reflect](https://www.ershicimi.com/p/7dd51b830690ac503a0d3442a7ce5a3d)  
@@ -64,16 +64,16 @@
 </summary>
 
 
-- [2020-06-25-那些不常见，但却非常实用的-css-属性](https://www.ershicimi.com/p/1219b567eaeda294dda8ecfb48053f15) ![](assets/new.png)  
-- [2020-06-24-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e) ![](assets/new.png)  
-- [2020-06-23-华为-WEB-前端全栈成长计划招募](https://www.ershicimi.com/p/4119ac6f2c927a58c0acf8c876d96259) ![](assets/new.png)  
-- [2020-06-23-一文快速入门-GraphQL](https://www.ershicimi.com/p/7b1b3e86527bf2b79120d85de1c19efa) ![](assets/new.png)  
-- [2020-06-22-资深前端工程师：裁人后总结了-7-个必备技能](https://www.ershicimi.com/p/093548bf9e4abe2fd87a57eddf760474) ![](assets/new.png)  
-- [2020-06-22-从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/5aed14aa76a1d9cb877b77f72ff4e441) ![](assets/new.png)  
-- [2020-06-21-萌妹子语音陪你写代码，一个神奇的-VSCode-插件](https://www.ershicimi.com/p/0a861f117efd595923c6cf5a094abd26) ![](assets/new.png)  
-- [2020-06-19-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/59b72155b0afe214a2525d2357b50269) ![](assets/new.png)  
-- [2020-06-19-10-个打开了我新世界大门的-WebAPI](https://www.ershicimi.com/p/9036cfe71e7a0ef0ba5431236cfdb7c6) ![](assets/new.png)  
-- [2020-06-18-开发穿这个，会不会引起测试部的众怒？](https://www.ershicimi.com/p/08cafd606a324e9b321624c77a2add6d) ![](assets/new.png)  
+- [2020-06-25-那些不常见，但却非常实用的-css-属性](https://www.ershicimi.com/p/1219b567eaeda294dda8ecfb48053f15)  
+- [2020-06-24-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e)  
+- [2020-06-23-华为-WEB-前端全栈成长计划招募](https://www.ershicimi.com/p/4119ac6f2c927a58c0acf8c876d96259)  
+- [2020-06-23-一文快速入门-GraphQL](https://www.ershicimi.com/p/7b1b3e86527bf2b79120d85de1c19efa)  
+- [2020-06-22-资深前端工程师：裁人后总结了-7-个必备技能](https://www.ershicimi.com/p/093548bf9e4abe2fd87a57eddf760474)  
+- [2020-06-22-从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/5aed14aa76a1d9cb877b77f72ff4e441)  
+- [2020-06-21-萌妹子语音陪你写代码，一个神奇的-VSCode-插件](https://www.ershicimi.com/p/0a861f117efd595923c6cf5a094abd26)  
+- [2020-06-19-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/59b72155b0afe214a2525d2357b50269)  
+- [2020-06-19-10-个打开了我新世界大门的-WebAPI](https://www.ershicimi.com/p/9036cfe71e7a0ef0ba5431236cfdb7c6)  
+- [2020-06-18-开发穿这个，会不会引起测试部的众怒？](https://www.ershicimi.com/p/08cafd606a324e9b321624c77a2add6d)  
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932)  
 - [2020-06-15-在-TS-类型推断中如何使用上下文](https://www.ershicimi.com/p/aa3cdad229a18dc2cd03c633c7f1c963)  
 - [2020-06-14-1.1万字从零解读Vue3.0源码响应式系统](https://www.ershicimi.com/p/d71eee0c0e173998d997c7a15d78633b)  
@@ -95,16 +95,19 @@
 </summary>
 
 
-- [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a) ![](assets/new.png)  
-- [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989) ![](assets/new.png)  
-- [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b) ![](assets/new.png)  
-- [2020-06-24-JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e) ![](assets/new.png)  
-- [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d) ![](assets/new.png)  
-- [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd) ![](assets/new.png)  
-- [2020-06-23-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79) ![](assets/new.png)  
-- [2020-06-23-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a) ![](assets/new.png)  
-- [2020-06-22-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac) ![](assets/new.png)  
-- [2020-06-22-JavaScript-中内存泄漏的原因以及对策](https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1) ![](assets/new.png)  
+- [2020-06-26-将数十万行CoffeeScript代码迁移到TypeScript](https://www.ershicimi.com/p/2f91f9e6551bf76143b148d191ace38b) ![](assets/new.png)  
+- [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) ![](assets/new.png)  
+- [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16) ![](assets/new.png)  
+- [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a)  
+- [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989)  
+- [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b)  
+- [2020-06-24-JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e)  
+- [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d)  
+- [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd)  
+- [2020-06-23-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79)  
+- [2020-06-23-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a)  
+- [2020-06-22-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac)  
+- [2020-06-22-JavaScript-中内存泄漏的原因以及对策](https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1)  
 - [2020-06-15-谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！](https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf)  
 - [2020-06-15-让你的代码讲出它的故事](https://www.ershicimi.com/p/8bdc0d5bea80b19e5c50dfabd200b864)  
 - [2020-06-15-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客大学](https://www.ershicimi.com/p/531efbfd8443cf0789db4ed910985deb)  
@@ -112,9 +115,6 @@
 - [2020-06-12-Vue-3.0-KO-Vue-2.0-|-课程推荐](https://www.ershicimi.com/p/f6c9781f7a050ee48a252fea487db11e)  
 - [2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5)  
 - [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5)  
-- [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)  
-- [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)  
-- [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
