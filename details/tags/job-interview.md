@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-28-【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61) 
 - [2020-06-24-【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3) 
 - [2020-06-15-【招聘】北京美团商家金融服务招聘高级前端工程师](https://www.ershicimi.com/p/ca0f836d695c53be6ae530f0dc5c67d0) 
 - [2020-06-11-【招聘】字节跳动---终端架构部门---前端工程师（社招/实习）](https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-27 08:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 08:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -398,6 +398,7 @@
 
 
 
+- [【前端早读课】【第1986期】使用-Figma-+-GitHub-Actions-完成-SVG-图标的完全自动化交](https://www.ershicimi.com/p/edd44caed6a45e67c697c54dd0113698)
 - [【前端早读课】【第1973期】SVG-图标制作指南](https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c)
 - [【前端早读课】【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)
 - [【前端早读课】【第1875期】如何在页面极速渲染3D模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=1&sn=095c58cab3ef7723a6b6fa2238b59728&chksm=bd497f9f8a3ef68915c6ee4e10d843b980fa19575605c8bb9e0d1ee0e4b2d5195689fb178956&scene=27#wechat_redirect)
@@ -417,7 +418,6 @@
 - [【Taobao-FED-|-淘宝前端团队】GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution)
 - [【Taobao-FED-|-淘宝前端团队】WebGL-纹理详解](https://fed.taobao.org/blog/taofed/do71ct/webgl-texture)
 - [【Taobao-FED-|-淘宝前端团队】WebGL-纹理详解](https://fed.taobao.org/blog/2018/12/17/webgl-texture/)
-- [【Taobao-FED-|-淘宝前端团队】G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](https://fed.taobao.org/blog/2018/03/05/intro-to-g3d/)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【早读】Web渲染概述](https://www.ershicimi.com/p/faaeb66343eeb32d7e69b1c1e39f1679)
 - [【前端早读课】【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6)
 - [【前端早读课】【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)
 - [【前端早读课】【第1857期】Cookie-的-SameSite-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=1&sn=af5e022b2ba0651b7716108cfb2fb01a&chksm=bd497cf28a3ef5e401144a3ec61174757e79a8a57b074f363e84cd8c19da294dffe6ffeed052&scene=27#wechat_redirect)
@@ -525,7 +526,6 @@
 - [【前端早读课】【招聘】北京360安全研究院招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=2&sn=299ebbb1062a89a1a7d8c1d7d4989045#rd)
 - [【前端早读课】【第1658期】-Chrome-专家调试法---介绍-Chrome-开发者工具的最佳用法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232948&idx=1&sn=c578786806d20e185503abc3d85561c5#rd)
 - [【前端早读课】【第1647期】-理解-WebView](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232781&idx=2&sn=58f51be214289d25d8350d8656b80460#rd)
-- [【前端早读课】【英】Webkit支持夜间模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232232&idx=2&sn=fe9df4dab68db613c7db8ac5e736b598#rd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61)
 - [【前端早读课】【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3)
 - [【前端早读课】【招聘】北京美团商家金融服务招聘高级前端工程师](https://www.ershicimi.com/p/ca0f836d695c53be6ae530f0dc5c67d0)
 - [【前端早读课】【招聘】字节跳动---终端架构部门---前端工程师（社招/实习）](https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】字节跳动广告系统-流量增值前端团队社校招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235781&idx=2&sn=c89bf358c49a029bf7925740140598b2&chksm=bd497c418a3ef557d32298c1dd77f80f62aa86475b7cc93640fb6d02eca3d6b14ad3fd8fcff1&scene=27#wechat_redirect)
 - [【前端早读课】招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=1&sn=341d051c699edb6e2d00420eb5b83368&chksm=bd497c3a8a3ef52cdccd29bcccd79f07c8eecd5c389719b4f2ccccb813e5e2eeb66a3eec435e&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里云中台体验技术部校招开始啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235764&idx=2&sn=03ec1003f0aa037c55ef9519939e8366&chksm=bd497c308a3ef526d560ceb804e2a1cd1495850d57b3f7ffee702b290bf0da06d54aa982fb9d&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】2021届前端开发实习生招聘-阿里CBU技术部](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235750&idx=2&sn=7f12bb8b1106b225f9df641b9d7d1f5a&chksm=bd497c228a3ef534d51e3ba7a0fb41892f1a2631d4a1b653320eac98a1406b4e76b1bcab7ae7&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

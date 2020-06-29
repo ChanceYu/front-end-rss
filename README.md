@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 08:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-29 08:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,9 @@
 </summary>
 
 
+- [2020-06-28-【第1986期】使用-Figma-+-GitHub-Actions-完成-SVG-图标的完全自动化交](https://www.ershicimi.com/p/edd44caed6a45e67c697c54dd0113698) ![](assets/new.png)  
+- [2020-06-28-【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61) ![](assets/new.png)  
+- [2020-06-28-【早读】Web渲染概述](https://www.ershicimi.com/p/faaeb66343eeb32d7e69b1c1e39f1679) ![](assets/new.png)  
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1)  
 - [2020-06-24-【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3)  
 - [2020-06-24-【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c)  
@@ -50,9 +53,6 @@
 - [2020-06-14-【早读】网站无障碍化简介](https://www.ershicimi.com/p/a3d229f4cb69c297423792256ebf8093)  
 - [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33)  
 - [2020-06-13-【早读】小程序工程化探索：大规模场景下的问题和解决方案](https://www.ershicimi.com/p/f2ffe412ed7dcac30eb51809f3472f8b)  
-- [2020-06-12-【第1973期】SVG-图标制作指南](https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c)  
-- [2020-06-12-【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873)  
-- [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2020-06-26-将数十万行CoffeeScript代码迁移到TypeScript](https://www.ershicimi.com/p/2f91f9e6551bf76143b148d191ace38b) ![](assets/new.png)  
-- [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) ![](assets/new.png)  
-- [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16) ![](assets/new.png)  
+- [2020-06-26-将数十万行CoffeeScript代码迁移到TypeScript](https://www.ershicimi.com/p/2f91f9e6551bf76143b148d191ace38b)  
+- [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b)  
+- [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16)  
 - [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a)  
 - [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989)  
 - [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b)  

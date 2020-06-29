@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-28-【早读】Web渲染概述](https://www.ershicimi.com/p/faaeb66343eeb32d7e69b1c1e39f1679) 
 - [2020-06-21-【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6) 
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7) 
 - [2020-02-15-【第1857期】Cookie-的-SameSite-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=1&sn=af5e022b2ba0651b7716108cfb2fb01a&chksm=bd497cf28a3ef5e401144a3ec61174757e79a8a57b074f363e84cd8c19da294dffe6ffeed052&scene=27#wechat_redirect) 
