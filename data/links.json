@@ -13853,6 +13853,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS变量对JS交互组件开发带来的提升与变革",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/",
+        "date": "2020-07-01"
+      },
+      {
         "title": "使用CSS text-emphasis对文字进行强调装饰",
         "link": "https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/",
         "date": "2020-06-16"
