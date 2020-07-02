@@ -5,6 +5,51 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1989期】前端架构101：整洁（Clean Architecture）架构是归宿",
+        "link": "https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff",
+        "date": "2020-07-01"
+      },
+      {
+        "title": "【招聘】北京Moka招Web前端工程师",
+        "link": "https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8",
+        "date": "2020-07-01"
+      },
+      {
+        "title": "【早读】重新认识JS的this、作用域、闭包、对象",
+        "link": "https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5",
+        "date": "2020-07-01"
+      },
+      {
+        "title": "【架构师必备技能】前端工程化之“脚手架”",
+        "link": "https://www.ershicimi.com/p/7a7a351b0e56e7d78c838d3c3ceb6d5e",
+        "date": "2020-06-30"
+      },
+      {
+        "title": "【第1988期】NutUI 组件 popup 源码分析",
+        "link": "https://www.ershicimi.com/p/93caf5fe66410bb0fcd0c230523344e8",
+        "date": "2020-06-30"
+      },
+      {
+        "title": "【早读】JavaScript 中的私有变量",
+        "link": "https://www.ershicimi.com/p/005ba476cd6fb13a156bf7b3c787adb2",
+        "date": "2020-06-30"
+      },
+      {
+        "title": "【第1987期】Vue3 Compiler 优化细节，如何手写高性能渲染函数",
+        "link": "https://www.ershicimi.com/p/5dcf852a329a6be57bf17707b0965d94",
+        "date": "2020-06-29"
+      },
+      {
+        "title": "【招聘】腾讯云DNSPod团队招聘web前端开发",
+        "link": "https://www.ershicimi.com/p/9c750b99e36a0382c79af63491c97a21",
+        "date": "2020-06-29"
+      },
+      {
+        "title": "【早读】关键请求",
+        "link": "https://www.ershicimi.com/p/064ae061d5622a70739f34981a770769",
+        "date": "2020-06-29"
+      },
+      {
         "title": "【第1986期】使用 Figma + GitHub Actions 完成 SVG 图标的完全自动化交",
         "link": "https://www.ershicimi.com/p/edd44caed6a45e67c697c54dd0113698",
         "date": "2020-06-28"
