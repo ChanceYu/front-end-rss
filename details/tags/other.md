@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-03 12:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -280,6 +280,11 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-07-02-图片处理不用愁，给你十个小帮手](https://www.ershicimi.com/p/620f4a7d921d89210ac889b188dd0048) 
+- [2020-07-01-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/7c7da6f0abd1a2411b1be8dd5c5cccf5) 
+- [2020-06-29-半年时间成为资深程序员，可行吗？](https://www.ershicimi.com/p/f4b9ee10624a363467e996f7eb32422f) 
+- [2020-06-29-你不知道的-WeakMap](https://www.ershicimi.com/p/855995b7f798d30b5bec6a16183ade38) 
+- [2020-06-28-让你受益匪浅的前端技术干货系列](https://www.ershicimi.com/p/12c91e62f35a8c8c360509fc093f2a12) 
 - [2020-06-22-资深前端工程师：裁人后总结了-7-个必备技能](https://www.ershicimi.com/p/093548bf9e4abe2fd87a57eddf760474) 
 - [2020-06-21-萌妹子语音陪你写代码，一个神奇的-VSCode-插件](https://www.ershicimi.com/p/0a861f117efd595923c6cf5a094abd26) 
 - [2020-06-19-10-个打开了我新世界大门的-WebAPI](https://www.ershicimi.com/p/9036cfe71e7a0ef0ba5431236cfdb7c6) 
@@ -482,6 +487,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-07-02-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/c33eb0cd64e5815478a27d894727529f) 
 - [2020-07-01-在2020年开发像TikTok这样的移动应用需要花多少钱？](https://www.ershicimi.com/p/3fedb5ca340cff4707d1b64e634f0df8) 
 - [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) 
 - [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16) 
