@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-02 08:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-03 12:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -127,6 +127,7 @@
 - [【前端早读课】2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
 - [【前端之巅】2020-07-01-在2020年开发像TikTok这样的移动应用需要花多少钱？](https://www.ershicimi.com/p/3fedb5ca340cff4707d1b64e634f0df8) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [【阮一峰的网络日志】2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
