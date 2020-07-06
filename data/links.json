@@ -13978,6 +13978,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "巧用CSS cross-fade()实现背景图像半透明效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/",
+        "date": "2020-07-06"
+      },
+      {
         "title": "CSS变量对JS交互组件开发带来的提升与变革",
         "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/",
         "date": "2020-07-01"
