@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 22:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-07 22:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -280,6 +280,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-07-07-如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/67a265fdcd5099faf0bccbe6751855d5) 
 - [2020-07-02-图片处理不用愁，给你十个小帮手](https://www.ershicimi.com/p/620f4a7d921d89210ac889b188dd0048) 
 - [2020-07-01-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/7c7da6f0abd1a2411b1be8dd5c5cccf5) 
 - [2020-06-29-半年时间成为资深程序员，可行吗？](https://www.ershicimi.com/p/f4b9ee10624a363467e996f7eb32422f) 
