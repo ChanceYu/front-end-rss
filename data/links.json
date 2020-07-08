@@ -14655,6 +14655,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "SSH 证书登录教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html",
+        "date": "2020-07-08"
+      },
+      {
         "title": "科技爱好者周刊（第 114 期）：U 盘化生存和 Uber-job",
         "link": "http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html",
         "date": "2020-07-03"
