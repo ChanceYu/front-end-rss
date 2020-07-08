@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 18:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-09 06:00:13，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,16 @@
 </summary>
 
 
+- [2020-07-08-【第1996期】前端性能优化：当页面渲染遇上边缘计算](https://www.ershicimi.com/p/5149fe900b8f1c8252f460b48d48e6c6) ![](assets/new.png)  
+- [2020-07-08-【早读】如何让异步接口同时支持-callback-和-promise](https://www.ershicimi.com/p/8641f9122b12dd12a651f8dfaede1b43) ![](assets/new.png)  
+- [2020-07-07-【第1995期】钉钉文档编辑器的前世今生](https://www.ershicimi.com/p/a7142781a155a0c3167e91d9444b04d4) ![](assets/new.png)  
+- [2020-07-07-【早读】Service-workers：PWA背后的英雄](https://www.ershicimi.com/p/023df6ddf3ec119cfd47985afd622373) ![](assets/new.png)  
+- [2020-07-06-flutter究竟有哪些与众不同？](https://www.ershicimi.com/p/4725bbc75a28cf75cbd5abf2a3eb233e) ![](assets/new.png)  
+- [2020-07-06-【第1994期】ES11来了](https://www.ershicimi.com/p/715636fedbf1c029809736980e537271) ![](assets/new.png)  
+- [2020-07-05-【第1993期】前端架构鉴赏01：Angular-架构模式与最佳实践](https://www.ershicimi.com/p/a606f6242aa22b3293cce63deb3ddc0f) ![](assets/new.png)  
+- [2020-07-05-【早读】你了解SEO中的时效性吗？](https://www.ershicimi.com/p/5cbfb7c0327410acfc36397bf0559720) ![](assets/new.png)  
+- [2020-07-04-【第1992期】为京东PLUS会员保驾护航的日子](https://www.ershicimi.com/p/856c95e964c2701d3fbd05d76d46ddb3) ![](assets/new.png)  
+- [2020-07-04-【早读】下划线是否破坏可读性？](https://www.ershicimi.com/p/03d5e2a645e560280efff8bc2f0a29a2) ![](assets/new.png)  
 - [2020-07-01-【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff)  
 - [2020-07-01-【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8)  
 - [2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5)  
@@ -43,16 +53,6 @@
 - [2020-06-29-【招聘】腾讯云DNSPod团队招聘web前端开发](https://www.ershicimi.com/p/9c750b99e36a0382c79af63491c97a21)  
 - [2020-06-29-【早读】关键请求](https://www.ershicimi.com/p/064ae061d5622a70739f34981a770769)  
 - [2020-06-28-【第1986期】使用-Figma-+-GitHub-Actions-完成-SVG-图标的完全自动化交](https://www.ershicimi.com/p/edd44caed6a45e67c697c54dd0113698)  
-- [2020-06-28-【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61)  
-- [2020-06-28-【早读】Web渲染概述](https://www.ershicimi.com/p/faaeb66343eeb32d7e69b1c1e39f1679)  
-- [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1)  
-- [2020-06-24-【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3)  
-- [2020-06-24-【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c)  
-- [2020-06-23-前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a)  
-- [2020-06-23-【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621)  
-- [2020-06-23-【早读】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](https://www.ershicimi.com/p/5bb19ed94ae9d2d677d702ffec00dfec)  
-- [2020-06-22-【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f)  
-- [2020-06-22-【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) ![](assets/new.png)  
+- [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)  
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)  
 - [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)  
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-09 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-07-08-【第1996期】前端性能优化：当页面渲染遇上边缘计算](https://www.ershicimi.com/p/5149fe900b8f1c8252f460b48d48e6c6) 
+- [2020-07-05-【早读】你了解SEO中的时效性吗？](https://www.ershicimi.com/p/5cbfb7c0327410acfc36397bf0559720) 
 - [2020-06-21-【早读】代码优化策略-—-Idle-Until-Urgent](https://www.ershicimi.com/p/d1eefc167320e21b07d59ebe23138a51) 
 - [2020-05-30-【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64) 
 - [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470) 

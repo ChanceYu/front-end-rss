@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-08 18:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-09 06:00:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -254,6 +254,8 @@
 
 
 
+- [【前端早读课】【早读】Service-workers：PWA背后的英雄](https://www.ershicimi.com/p/023df6ddf3ec119cfd47985afd622373)
+- [【前端早读课】flutter究竟有哪些与众不同？](https://www.ershicimi.com/p/4725bbc75a28cf75cbd5abf2a3eb233e)
 - [【前端早读课】【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)
 - [【前端早读课】一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd)
 - [【前端早读课】【第1557期】带你走进PWA在业务中的实践方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=1&sn=e55c2f9905606a4930e4961ec4917f44#rd)
@@ -272,8 +274,6 @@
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【前端之巅】向新手推荐的2020年Flutter课程和教程](https://www.ershicimi.com/p/18fcb5ed5b33d6c4c0ddb52e09cedd47)
 - [【前端之巅】闲鱼Flutter实践与思考](https://www.ershicimi.com/p/de562b3bd1196278591e10ddd766a1c7)
-- [【前端之巅】西瓜视频-Flutter-落地经验-|-GMTC](https://www.ershicimi.com/p/7216786f1099dd415629aa1c8c1bd972)
-- [【前端之巅】字节跳动为什么选用Flutter：并非跨平台终极之选，但它可能是不一样的未来](https://www.ershicimi.com/p/155a0f549e2531530f2f5a9f1a85efe6)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【早读】如何让异步接口同时支持-callback-和-promise](https://www.ershicimi.com/p/8641f9122b12dd12a651f8dfaede1b43)
 - [【前端早读课】【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5)
 - [【前端早读课】【第1988期】NutUI-组件-popup-源码分析](https://www.ershicimi.com/p/93caf5fe66410bb0fcd0c230523344e8)
 - [【前端早读课】【早读】JavaScript-中的私有变量](https://www.ershicimi.com/p/005ba476cd6fb13a156bf7b3c787adb2)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第1833期】“云”端的语雀：用-JavaScript-全栈打造商业级应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=1&sn=286efdd05289a58962dcf48963054a69&chksm=bd497df38a3ef4e57dcbf1dd92f9ce4cd379ed1295ce612ebf855fe30e0462267afacbed3d01&scene=27#wechat_redirect)
 - [【前端早读课】【第1832期】从敲下一行JS代码到这行代码被执行，中间发生了什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=1&sn=b433c67cc7c79e768ee82e20cb925187&chksm=bd497df48a3ef4e2b912612af8b614f41a389826362225c8d67e946e863bded931eaa355d45d&scene=27#wechat_redirect)
 - [【前端早读课】【第1826期】HTML5-之跨域通讯（postMessage）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=1&sn=21a9fa247aadaaed4fd2bf6f1b59606f&chksm=bd497dc28a3ef4d49d4a46bdfb5e7a7699da631bdc37532655ef96e31e6605b8531fc0031229&scene=27#wechat_redirect)
-- [【前端早读课】【第1815期】利用-JS-实现多种图片相似度算法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=2&sn=b048cd119655c218346a6cfbcb6a3676&chksm=bd497a758a3ef3632c43d6d2615a946fade176d3cfd9c2b22e22bd2b10d73deba099b6fb1221&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -470,6 +470,8 @@
 
 
 
+- [【前端早读课】【第1996期】前端性能优化：当页面渲染遇上边缘计算](https://www.ershicimi.com/p/5149fe900b8f1c8252f460b48d48e6c6)
+- [【前端早读课】【早读】你了解SEO中的时效性吗？](https://www.ershicimi.com/p/5cbfb7c0327410acfc36397bf0559720)
 - [【前端早读课】【早读】代码优化策略-—-Idle-Until-Urgent](https://www.ershicimi.com/p/d1eefc167320e21b07d59ebe23138a51)
 - [【前端早读课】【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64)
 - [【前端早读课】【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)
@@ -488,8 +490,6 @@
 - [【前端早读课】【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect)
 - [【前端早读课】【第1518期】2019-前端性能优化年度总结-—-第一部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231287&idx=1&sn=54504bba21ecfd345348d25e23178f80#wechat_redirect)
 - [【前端早读课】【第1487期】Netflix-的-Web-性能案例研究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230793&idx=1&sn=8ee1c0bd733122b1dd74fe31f2d1cf18#wechat_redirect)
-- [【前端早读课】【第1478期】你了解SEO中的时效性吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=1&sn=cf6bc42aa6a1b34d65a24d0b3566545b#wechat_redirect)
-- [【前端早读课】【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,11 @@
 
 
 
+- [【前端早读课】【第1995期】钉钉文档编辑器的前世今生](https://www.ershicimi.com/p/a7142781a155a0c3167e91d9444b04d4)
+- [【前端早读课】【第1994期】ES11来了](https://www.ershicimi.com/p/715636fedbf1c029809736980e537271)
+- [【前端早读课】【第1993期】前端架构鉴赏01：Angular-架构模式与最佳实践](https://www.ershicimi.com/p/a606f6242aa22b3293cce63deb3ddc0f)
+- [【前端早读课】【第1992期】为京东PLUS会员保驾护航的日子](https://www.ershicimi.com/p/856c95e964c2701d3fbd05d76d46ddb3)
+- [【前端早读课】【早读】下划线是否破坏可读性？](https://www.ershicimi.com/p/03d5e2a645e560280efff8bc2f0a29a2)
 - [【前端早读课】【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff)
 - [【前端早读课】【架构师必备技能】前端工程化之“脚手架”](https://www.ershicimi.com/p/7a7a351b0e56e7d78c838d3c3ceb6d5e)
 - [【前端早读课】【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c)
@@ -735,11 +740,6 @@
 - [【前端早读课】如何用Echarts快速生成一张疫情地图？](https://www.ershicimi.com/p/865ab4d3c88497503ec52f5ddfe7b954)
 - [【前端早读课】【第1970期】作用域与闭包---最简解释器实现](https://www.ershicimi.com/p/b321236ebd274dbf87489491ae604b7d)
 - [【前端早读课】【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405)
-- [【前端早读课】掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6)
-- [【前端早读课】【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)
-- [【前端早读课】【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)
-- [【前端早读课】Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)
-- [【前端早读课】【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

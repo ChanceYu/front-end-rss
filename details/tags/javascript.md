@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-09 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-08-【早读】如何让异步接口同时支持-callback-和-promise](https://www.ershicimi.com/p/8641f9122b12dd12a651f8dfaede1b43) 
 - [2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
 - [2020-06-30-【第1988期】NutUI-组件-popup-源码分析](https://www.ershicimi.com/p/93caf5fe66410bb0fcd0c230523344e8) 
 - [2020-06-30-【早读】JavaScript-中的私有变量](https://www.ershicimi.com/p/005ba476cd6fb13a156bf7b3c787adb2) 
