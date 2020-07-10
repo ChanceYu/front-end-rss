@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-09 06:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-10 12:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -153,6 +153,7 @@
 - [【前端之巅】2020-07-01-在2020年开发像TikTok这样的移动应用需要花多少钱？](https://www.ershicimi.com/p/3fedb5ca340cff4707d1b64e634f0df8) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [【阮一峰的网络日志】2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [【阮一峰的网络日志】2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [【阮一峰的网络日志】2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
 
