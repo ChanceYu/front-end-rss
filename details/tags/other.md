@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-10 12:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-10-【早读】如何更愉快地使用rem](https://www.ershicimi.com/p/b8c4d16f7b4c089f360788b8615d2040) 
 - [2020-07-07-【第1995期】钉钉文档编辑器的前世今生](https://www.ershicimi.com/p/a7142781a155a0c3167e91d9444b04d4) 
 - [2020-07-06-【第1994期】ES11来了](https://www.ershicimi.com/p/715636fedbf1c029809736980e537271) 
 - [2020-07-05-【第1993期】前端架构鉴赏01：Angular-架构模式与最佳实践](https://www.ershicimi.com/p/a606f6242aa22b3293cce63deb3ddc0f) 
@@ -285,6 +286,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-07-10-据说-80%-的前端开发者都进入了这个误区中…](https://www.ershicimi.com/p/ac1177a1ead0040b91fd6281fc69252b) 
+- [2020-07-08-28岁前端程序员，身价过亿提前退休，这是什么样的彪悍人生？](https://www.ershicimi.com/p/b34af68f025d4ffb5ce43be356e6a88e) 
 - [2020-07-07-如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/67a265fdcd5099faf0bccbe6751855d5) 
 - [2020-07-02-图片处理不用愁，给你十个小帮手](https://www.ershicimi.com/p/620f4a7d921d89210ac889b188dd0048) 
 - [2020-07-01-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/7c7da6f0abd1a2411b1be8dd5c5cccf5) 

@@ -5,6 +5,36 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1999期】深入源码剖析componentWillXXX为什么UNSAFE",
+        "link": "https://www.ershicimi.com/p/5fde5d90c7525f88083782635daad3d1",
+        "date": "2020-07-11"
+      },
+      {
+        "title": "【早读】如何在 JavaScript 中更好地使用数组",
+        "link": "https://www.ershicimi.com/p/5c55a749773acb604b44ad534dd2d37c",
+        "date": "2020-07-11"
+      },
+      {
+        "title": "【第1998期】拥抱 Vue 3 系列之 JSX 语法",
+        "link": "https://www.ershicimi.com/p/d4ac04a654c39379b5253aff9c8232e0",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "【早读】如何更愉快地使用rem",
+        "link": "https://www.ershicimi.com/p/b8c4d16f7b4c089f360788b8615d2040",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "【第1997期】NutUI Picker组件的设计与实现",
+        "link": "https://www.ershicimi.com/p/288f58c55d16388814a93c21661ff825",
+        "date": "2020-07-09"
+      },
+      {
+        "title": "【早读】使用 CSS 来做素数的判定与筛选",
+        "link": "https://www.ershicimi.com/p/6271dbe23c1f116a8c50312b6c692359",
+        "date": "2020-07-09"
+      },
+      {
         "title": "【第1996期】前端性能优化：当页面渲染遇上边缘计算",
         "link": "https://www.ershicimi.com/p/5149fe900b8f1c8252f460b48d48e6c6",
         "date": "2020-07-08"
@@ -4736,6 +4766,31 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "据说 80% 的前端开发者都进入了这个误区中…",
+        "link": "https://www.ershicimi.com/p/ac1177a1ead0040b91fd6281fc69252b",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "写这么骚的 JS 代码，不怕被揍么？",
+        "link": "https://www.ershicimi.com/p/f261f8e5da5eec09f7198c501bfcabe9",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "Vue 骚技巧，策略模式实现动态表单验证",
+        "link": "https://www.ershicimi.com/p/3a178be9111634576df993c513077e4d",
+        "date": "2020-07-09"
+      },
+      {
+        "title": "28岁前端程序员，身价过亿提前退休，这是什么样的彪悍人生？",
+        "link": "https://www.ershicimi.com/p/b34af68f025d4ffb5ce43be356e6a88e",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "了不起的 Webpack HMR 学习指南（含源码分析）",
+        "link": "https://www.ershicimi.com/p/7bd6dd09d4219b91a6cfc991919dfca6",
+        "date": "2020-07-08"
+      },
       {
         "title": "如何挑选数据可视化框架及平台 - 前端篇",
         "link": "https://www.ershicimi.com/p/67a265fdcd5099faf0bccbe6751855d5",

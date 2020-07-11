@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-10 12:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,9 @@
 
 
 
+- [2020-07-11-【第1999期】深入源码剖析componentWillXXX为什么UNSAFE](https://www.ershicimi.com/p/5fde5d90c7525f88083782635daad3d1) 
+- [2020-07-11-【早读】如何在-JavaScript-中更好地使用数组](https://www.ershicimi.com/p/5c55a749773acb604b44ad534dd2d37c) 
+- [2020-07-09-【第1997期】NutUI-Picker组件的设计与实现](https://www.ershicimi.com/p/288f58c55d16388814a93c21661ff825) 
 - [2020-07-08-【早读】如何让异步接口同时支持-callback-和-promise](https://www.ershicimi.com/p/8641f9122b12dd12a651f8dfaede1b43) 
 - [2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
 - [2020-06-30-【第1988期】NutUI-组件-popup-源码分析](https://www.ershicimi.com/p/93caf5fe66410bb0fcd0c230523344e8) 
@@ -115,6 +118,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/f261f8e5da5eec09f7198c501bfcabe9) 
 - [2020-06-10-了不起的-tsconfig.json-指南](https://www.ershicimi.com/p/4cd32f4ea9fed32062262e5042053234) 
 - [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) 
 - [2020-05-25-JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37) 
