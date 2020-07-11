@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-11 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -496,6 +496,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-07-10-对企业应用程序而言，Deno是一个糟糕的选择](https://www.ershicimi.com/p/4db4a46585563dc4f72db4aed3ff9418) 
+- [2020-07-10-月影：前端工程师不写网页，还能做什么？-|-极客时间](https://www.ershicimi.com/p/8453112601e7409df3fa49352aee20b3) 
+- [2020-07-08-谷歌：你们猜对了，的确有-Android-版“AirDrop”](https://www.ershicimi.com/p/f7bc631da7ae7319859956963fe9f2c3) 
+- [2020-07-08-还在为软件迁移和调优工作头疼？华为鲲鹏技术专家为你解锁捷径-|-活动推荐](https://www.ershicimi.com/p/f277752d4b68329237df36bc42f7b115) 
 - [2020-07-02-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/c33eb0cd64e5815478a27d894727529f) 
 - [2020-07-01-在2020年开发像TikTok这样的移动应用需要花多少钱？](https://www.ershicimi.com/p/3fedb5ca340cff4707d1b64e634f0df8) 
 - [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) 
