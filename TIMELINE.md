@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-11 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-12 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -141,6 +141,7 @@
 - [【前端早读课】2020-07-01-【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff) 
 - [【前端早读课】2020-07-01-【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8) 
 - [【前端早读课】2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
+- [【前端大全】2020-07-11-初中级前端-JavaScript-自测清单](https://www.ershicimi.com/p/a3973c8c2bebae01ec4181a5fcd93848) 
 - [【前端大全】2020-07-10-据说-80%-的前端开发者都进入了这个误区中…](https://www.ershicimi.com/p/ac1177a1ead0040b91fd6281fc69252b) 
 - [【前端大全】2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/f261f8e5da5eec09f7198c501bfcabe9) 
 - [【前端大全】2020-07-09-Vue-骚技巧，策略模式实现动态表单验证](https://www.ershicimi.com/p/3a178be9111634576df993c513077e4d) 
