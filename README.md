@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-12 18:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-12 22:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-07-12-使用-Node-开发服务器项目时如何高效地打日志？](https://www.ershicimi.com/p/7c338714ad2bc1bc4772d6bff5189b98) ![](assets/new.png)  
 - [2020-07-11-初中级前端-JavaScript-自测清单](https://www.ershicimi.com/p/a3973c8c2bebae01ec4181a5fcd93848)  
 - [2020-07-10-据说-80%-的前端开发者都进入了这个误区中…](https://www.ershicimi.com/p/ac1177a1ead0040b91fd6281fc69252b)  
 - [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/f261f8e5da5eec09f7198c501bfcabe9)  
@@ -83,7 +84,6 @@
 - [2020-07-01-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/7c7da6f0abd1a2411b1be8dd5c5cccf5)  
 - [2020-06-30-你应该知道的-NPM-知识都在这！](https://www.ershicimi.com/p/3ccbdf29abe1193c2f44c6e0c6763911)  
 - [2020-06-30-面向对象：希望遇到低调温和，正能量的你](https://www.ershicimi.com/p/faecd62d37031547f503300d206a9ef5)  
-- [2020-06-29-半年时间成为资深程序员，可行吗？](https://www.ershicimi.com/p/f4b9ee10624a363467e996f7eb32422f)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2020-07-12-前端周报：谷歌副总裁因“黑帽”涉嫌种族歧视退出Black-Hat；鸿蒙系统2.0将于9月发布；Chr](https://www.ershicimi.com/p/8c489b8888e259911b921e3506768a2d) ![](assets/new.png)  
+- [2020-07-12-前端周报：谷歌副总裁因“黑帽”涉嫌种族歧视退出Black-Hat；鸿蒙系统2.0将于9月发布；Chr](https://www.ershicimi.com/p/8c489b8888e259911b921e3506768a2d)  
 - [2020-07-10-在Flutter中从头重建DevTools](https://www.ershicimi.com/p/030ca5ec16920806b9f807d1cd366ecb)  
 - [2020-07-10-对企业应用程序而言，Deno是一个糟糕的选择](https://www.ershicimi.com/p/4db4a46585563dc4f72db4aed3ff9418)  
 - [2020-07-10-月影：前端工程师不写网页，还能做什么？-|-极客时间](https://www.ershicimi.com/p/8453112601e7409df3fa49352aee20b3)  
