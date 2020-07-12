@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-12 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-12 18:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -158,6 +158,7 @@
 - [【前端大全】2020-07-02-图片处理不用愁，给你十个小帮手](https://www.ershicimi.com/p/620f4a7d921d89210ac889b188dd0048) 
 - [【前端大全】2020-07-01-Vue-底层原理实现概述](https://www.ershicimi.com/p/360d7df18e7d0a7f8b96f6981644b110) 
 - [【前端大全】2020-07-01-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/7c7da6f0abd1a2411b1be8dd5c5cccf5) 
+- [【前端之巅】2020-07-12-前端周报：谷歌副总裁因“黑帽”涉嫌种族歧视退出Black-Hat；鸿蒙系统2.0将于9月发布；Chr](https://www.ershicimi.com/p/8c489b8888e259911b921e3506768a2d) 
 - [【前端之巅】2020-07-10-在Flutter中从头重建DevTools](https://www.ershicimi.com/p/030ca5ec16920806b9f807d1cd366ecb) 
 - [【前端之巅】2020-07-10-对企业应用程序而言，Deno是一个糟糕的选择](https://www.ershicimi.com/p/4db4a46585563dc4f72db4aed3ff9418) 
 - [【前端之巅】2020-07-10-月影：前端工程师不写网页，还能做什么？-|-极客时间](https://www.ershicimi.com/p/8453112601e7409df3fa49352aee20b3) 

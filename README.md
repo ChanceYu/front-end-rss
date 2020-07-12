@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-12 06:00:10，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-12 18:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-07-11-初中级前端-JavaScript-自测清单](https://www.ershicimi.com/p/a3973c8c2bebae01ec4181a5fcd93848) ![](assets/new.png)  
+- [2020-07-11-初中级前端-JavaScript-自测清单](https://www.ershicimi.com/p/a3973c8c2bebae01ec4181a5fcd93848)  
 - [2020-07-10-据说-80%-的前端开发者都进入了这个误区中…](https://www.ershicimi.com/p/ac1177a1ead0040b91fd6281fc69252b)  
 - [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/f261f8e5da5eec09f7198c501bfcabe9)  
 - [2020-07-09-Vue-骚技巧，策略模式实现动态表单验证](https://www.ershicimi.com/p/3a178be9111634576df993c513077e4d)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-07-12-前端周报：谷歌副总裁因“黑帽”涉嫌种族歧视退出Black-Hat；鸿蒙系统2.0将于9月发布；Chr](https://www.ershicimi.com/p/8c489b8888e259911b921e3506768a2d) ![](assets/new.png)  
 - [2020-07-10-在Flutter中从头重建DevTools](https://www.ershicimi.com/p/030ca5ec16920806b9f807d1cd366ecb)  
 - [2020-07-10-对企业应用程序而言，Deno是一个糟糕的选择](https://www.ershicimi.com/p/4db4a46585563dc4f72db4aed3ff9418)  
 - [2020-07-10-月影：前端工程师不写网页，还能做什么？-|-极客时间](https://www.ershicimi.com/p/8453112601e7409df3fa49352aee20b3)  
@@ -114,7 +115,6 @@
 - [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b)  
 - [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16)  
 - [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a)  
-- [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
