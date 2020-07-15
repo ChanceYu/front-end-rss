@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-16 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -29,6 +29,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2020-07-15-如何科学修改-node_modules-里的文件](https://www.ershicimi.com/p/f55859b2147c19295a9e326c763f6888) 
 - [2020-07-12-使用-Node-开发服务器项目时如何高效地打日志？](https://www.ershicimi.com/p/7c338714ad2bc1bc4772d6bff5189b98) 
 - [2020-07-03-听说你不知道如何监控-Node-服务的内存？](https://www.ershicimi.com/p/6f94719a34e042bdf7a8f4ccbe44dae8) 
 - [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) 
