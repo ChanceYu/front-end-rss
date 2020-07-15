@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 08:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-14-官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4) 
 - [2020-07-10-【第1998期】拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/d4ac04a654c39379b5253aff9c8232e0) 
 - [2020-06-29-【第1987期】Vue3-Compiler-优化细节，如何手写高性能渲染函数](https://www.ershicimi.com/p/5dcf852a329a6be57bf17707b0965d94) 
 - [2020-06-23-【早读】Vue.js-团队成员@蒋豪群：谈谈技术项目的可维护性](https://www.ershicimi.com/p/5bb19ed94ae9d2d677d702ffec00dfec) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 08:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-15-【第2003期】在浏览器中存储数据---IndexedDB](https://www.ershicimi.com/p/f8cfcd40be3c842957fb98c6a81a2d7b) 
 - [2020-06-29-【早读】关键请求](https://www.ershicimi.com/p/064ae061d5622a70739f34981a770769) 
 - [2020-06-28-【早读】Web渲染概述](https://www.ershicimi.com/p/faaeb66343eeb32d7e69b1c1e39f1679) 
 - [2020-06-21-【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6) 

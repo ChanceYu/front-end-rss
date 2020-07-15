@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 08:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-14-【早读】JavaScript和TypeScript中的void](https://www.ershicimi.com/p/2d7ff12b1021ab0ed638b390b6a1f411) 
 - [2020-01-16-【第1838期】TypeScript-3.8-Beta](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect) 
 - [2020-01-15-【第1837期】未来可期的TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect) 
 - [2019-11-18-【第1779期】使用TypeScript两年后,值得吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234669&idx=1&sn=ce960d1dd78c71574d5207c31af986b8&chksm=bd4978e98a3ef1ffc458e54fcd1e66a769f1ede138de9cdd70c9173e507b84eb1ee286b76eaf&scene=27#wechat_redirect) 

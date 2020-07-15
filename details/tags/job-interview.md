@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 08:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-07-15-【招聘】阿里天猫淘宝海外技术部招聘前端工程师](https://www.ershicimi.com/p/8c83324eb28d1fa4c8773274c52275f6) 
+- [2020-07-13-【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62) 
 - [2020-07-01-【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8) 
 - [2020-06-29-【招聘】腾讯云DNSPod团队招聘web前端开发](https://www.ershicimi.com/p/9c750b99e36a0382c79af63491c97a21) 
 - [2020-06-28-【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61) 
