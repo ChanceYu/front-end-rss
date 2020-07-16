@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-16 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-16 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-16-【第2004期】弄明白Deno与node的区别](https://www.ershicimi.com/p/365284240177804dce981aaaaf9251c1) 
 - [2020-06-23-【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621) 
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0) 
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04) 

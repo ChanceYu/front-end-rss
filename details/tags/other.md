@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-16 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-16 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-16-【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e) 
 - [2020-07-15-【早读】专访｜手机百度前端负责人@三水清](https://www.ershicimi.com/p/37d8b359c56d3063c9d9dd6030cf823d) 
 - [2020-07-14-【第2002期】为什么-setTimeout-有最小时延-4ms-?](https://www.ershicimi.com/p/64bedcc4fda0de1ecf2a29477f0531be) 
 - [2020-07-13-【第2001期】前端架构鉴赏02：可拓展-Angular-2-架构](https://www.ershicimi.com/p/77a17fb6d92f1b4feb48f87736d8ae92) 
