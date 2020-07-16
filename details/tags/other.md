@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-16 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -502,6 +502,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-07-16-技术选型：没有谷歌的命，别得谷歌的病](https://www.ershicimi.com/p/551b744e243ebd99895d18568e659bc1) 
+- [2020-07-15-苹果：我要保护用户隐私，谷歌：你是舍不得自己的蛋糕](https://www.ershicimi.com/p/595e9472d1cd3059eafb2089db0843ff) 
+- [2020-07-15-字节跳动来挑前端工程师啦！-|-极客时间](https://www.ershicimi.com/p/62c9b6dc8393ef6d47da314781d34975) 
 - [2020-07-14-一个SDK引发的“血案”](https://www.ershicimi.com/p/c40144db34ead9f3b7546fc7b6345dc8) 
 - [2020-07-13-新基建背景下的人才培养怎么做，“优才计划”你听说了么？-|-活动推荐](https://www.ershicimi.com/p/2fc657959455c27f43960037aff53091) 
 - [2020-07-12-前端周报：谷歌副总裁因“黑帽”涉嫌种族歧视退出Black-Hat；鸿蒙系统2.0将于9月发布；Chr](https://www.ershicimi.com/p/8c489b8888e259911b921e3506768a2d) 
