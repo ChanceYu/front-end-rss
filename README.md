@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-17 08:00:27，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-17 12:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2020-07-17-【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41) ![](assets/new.png)  
-- [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362) ![](assets/new.png)  
-- [2020-07-17-【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7) ![](assets/new.png)  
+- [2020-07-17-【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)  
+- [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362)  
+- [2020-07-17-【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)  
 - [2020-07-16-【第2004期】弄明白Deno与node的区别](https://www.ershicimi.com/p/365284240177804dce981aaaaf9251c1)  
 - [2020-07-16-【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://www.ershicimi.com/p/a7b5cfe5299d1ee7fdb7be9c432bc8ea)  
 - [2020-07-16-【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html) ![](assets/new.png)  
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)  
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)  
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)  
@@ -207,7 +208,6 @@
 - [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html)  
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)  
 - [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
-- [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

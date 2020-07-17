@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-17 08:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -856,6 +856,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html) 
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
