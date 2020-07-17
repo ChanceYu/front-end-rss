@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-17 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 08:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362) 
 - [2020-07-16-【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://www.ershicimi.com/p/a7b5cfe5299d1ee7fdb7be9c432bc8ea) 
 - [2020-07-15-【招聘】阿里天猫淘宝海外技术部招聘前端工程师](https://www.ershicimi.com/p/8c83324eb28d1fa4c8773274c52275f6) 
 - [2020-07-13-【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62) 

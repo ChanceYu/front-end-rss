@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-17 06:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 08:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362)
 - [【前端早读课】【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://www.ershicimi.com/p/a7b5cfe5299d1ee7fdb7be9c432bc8ea)
 - [【前端早读课】【招聘】阿里天猫淘宝海外技术部招聘前端工程师](https://www.ershicimi.com/p/8c83324eb28d1fa4c8773274c52275f6)
 - [【前端早读课】【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】字节跳动互娱研发团队招前端工程师（社校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=3&sn=955bcf890f9d91b0f533ee5460d17e3d&chksm=bd497f9f8a3ef6898627a497ef1a4e7792849d16c56725a5288eb7d2d92f1d76169402062df2&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里钉钉远航者计划—2021届技术实习生内推啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=3&sn=2f7b51db4ac6087b8bb7e7fdf2ccdf10&chksm=bd497f958a3ef6832830fcb82cf3d788b26cac68feb3b319fd8eedaff65392edff015ab03d22&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里AE21届春季实习正式启动！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=2&sn=8aa8d03ab13566f823e68c2292f82e8d&chksm=bd497c7e8a3ef56854065c284a53ca06cec5e4a79683e40d29de098f751f3b4335e198f99cd5&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】支付宝支付业务技术部招P6/P7前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235809&idx=2&sn=02ff4ea97e6435b0614c31b80627515e&chksm=bd497c658a3ef57349ff4f9a1afabfca6484cee0612ae40d504ec45fff8fafa07746b3baf0b3&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)
+- [【前端早读课】【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)
 - [【前端早读课】【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e)
 - [【前端早读课】【早读】专访｜手机百度前端负责人@三水清](https://www.ershicimi.com/p/37d8b359c56d3063c9d9dd6030cf823d)
 - [【前端早读课】【第2002期】为什么-setTimeout-有最小时延-4ms-?](https://www.ershicimi.com/p/64bedcc4fda0de1ecf2a29477f0531be)
@@ -738,8 +740,6 @@
 - [【前端早读课】【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f)
 - [【前端早读课】【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a)
 - [【前端早读课】【第1975期】前端要懂的色域知识](https://www.ershicimi.com/p/653285419e103772c9402838421b378a)
-- [【前端早读课】【早读】网站无障碍化简介](https://www.ershicimi.com/p/a3d229f4cb69c297423792256ebf8093)
-- [【前端早读课】【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
