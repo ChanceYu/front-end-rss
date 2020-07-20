@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-20 18:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -626,6 +626,7 @@
 - [【前端大全】Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f)
 - [【前端大全】小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806)
 - [【前端大全】你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)
+- [【前端之巅】你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223)
 - [【前端之巅】开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273)
 - [【前端之巅】中国开源前端为王？GitHub-5.4亿条日志背后的数据故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493720&idx=1&sn=10bb747764cb1e1cec2ab9ee279bfd3d&chksm=f9525d1bce25d40ddfffe101f59612538a5e95dcdf38e70545dbeb23a83a57c8f80afc037b88&scene=27#wechat_redirect)
 - [【前端之巅】CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect)
@@ -633,7 +634,6 @@
 - [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/)
 - [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 - [【阮一峰的网络日志】如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html)
-- [【阮一峰的网络日志】GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 18:00:29，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 06:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b) ![](assets/new.png)  
-- [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) ![](assets/new.png)  
+- [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b)  
+- [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6)  
 - [2020-07-17-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/1e49a0602d6d44bc52007a06b7835d4e)  
 - [2020-07-17-Vue-项目性能优化实践](https://www.ershicimi.com/p/1f73bf574f7575014434a8a132ea61d8)  
 - [2020-07-16-玩转前端二进制](https://www.ershicimi.com/p/1efe1edeca6e5b029d6c0169d2b3082c)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-07-20-送给技术人的礼物，InfoQ《2020中国技术发展白皮书》重磅发布](https://www.ershicimi.com/p/612f5892a775724b41db75764d437036) ![](assets/new.png)  
+- [2020-07-20-你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223) ![](assets/new.png)  
+- [2020-07-19-前端周报：-Vue-3-RC-版本正式发布；阿里集团取消周报制度；Linus-Torvalds-再次](https://www.ershicimi.com/p/5efb15a70eebf555ef871e9bb7d7fdea) ![](assets/new.png)  
 - [2020-07-17-GraphQL两年实战避坑经验](https://www.ershicimi.com/p/8cd1fd56ca1b648c041939dfc35d970c)  
 - [2020-07-17-用-80-行-Javascript-代码构建自己的语音助手](https://www.ershicimi.com/p/3bcc1c3577394bd56bf199f6240633cd)  
 - [2020-07-17-水友面试字节跳动，居然遇到了算法原题...-|-极客大学](https://www.ershicimi.com/p/e1e863a6596742b8ef80e6aabea46286)  
@@ -112,9 +115,6 @@
 - [2020-07-10-在Flutter中从头重建DevTools](https://www.ershicimi.com/p/030ca5ec16920806b9f807d1cd366ecb)  
 - [2020-07-10-对企业应用程序而言，Deno是一个糟糕的选择](https://www.ershicimi.com/p/4db4a46585563dc4f72db4aed3ff9418)  
 - [2020-07-10-月影：前端工程师不写网页，还能做什么？-|-极客时间](https://www.ershicimi.com/p/8453112601e7409df3fa49352aee20b3)  
-- [2020-07-09-活久见：巴克莱银行用网页时光机当作某些JS代码的“CDN”](https://www.ershicimi.com/p/b268cfc42ff05a762039922fa3b2a7c8)  
-- [2020-07-09-阿里自研开源框架-Midway-Serverless-，如何让前端提效-50%？](https://www.ershicimi.com/p/a5d2c05bd08b6fcfb0d29fb163578523)  
-- [2020-07-08-Flutter-vs-React-Native-vs-Native：深度性能比较](https://www.ershicimi.com/p/2d7863bdac2ea77446d03585292afb67)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

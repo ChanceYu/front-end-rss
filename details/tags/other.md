@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-20 18:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -506,6 +506,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-07-20-送给技术人的礼物，InfoQ《2020中国技术发展白皮书》重磅发布](https://www.ershicimi.com/p/612f5892a775724b41db75764d437036) 
 - [2020-07-16-技术选型：没有谷歌的命，别得谷歌的病](https://www.ershicimi.com/p/551b744e243ebd99895d18568e659bc1) 
 - [2020-07-15-苹果：我要保护用户隐私，谷歌：你是舍不得自己的蛋糕](https://www.ershicimi.com/p/595e9472d1cd3059eafb2089db0843ff) 
 - [2020-07-15-字节跳动来挑前端工程师啦！-|-极客时间](https://www.ershicimi.com/p/62c9b6dc8393ef6d47da314781d34975) 
