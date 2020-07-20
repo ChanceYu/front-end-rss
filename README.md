@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 08:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 18:00:29，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4) ![](assets/new.png)  
-- [2020-07-20-【招聘】阿里深圳Lazada-数据中台产品技术团队招聘前端工程师](https://www.ershicimi.com/p/f32bb0d1b33a9eb2ffb1017f6944cb53) ![](assets/new.png)  
-- [2020-07-19-【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681) ![](assets/new.png)  
+- [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4)  
+- [2020-07-20-【招聘】阿里深圳Lazada-数据中台产品技术团队招聘前端工程师](https://www.ershicimi.com/p/f32bb0d1b33a9eb2ffb1017f6944cb53)  
+- [2020-07-19-【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681)  
 - [2020-07-18-【第2006期】开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://www.ershicimi.com/p/8d0baca9bf1ad04df2dfa17ae98f49a6)  
 - [2020-07-17-【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)  
 - [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362)  
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b) ![](assets/new.png)  
+- [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) ![](assets/new.png)  
 - [2020-07-17-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/1e49a0602d6d44bc52007a06b7835d4e)  
 - [2020-07-17-Vue-项目性能优化实践](https://www.ershicimi.com/p/1f73bf574f7575014434a8a132ea61d8)  
 - [2020-07-16-玩转前端二进制](https://www.ershicimi.com/p/1efe1edeca6e5b029d6c0169d2b3082c)  
@@ -82,8 +84,6 @@
 - [2020-07-08-了不起的-Webpack-HMR-学习指南（含源码分析）](https://www.ershicimi.com/p/7bd6dd09d4219b91a6cfc991919dfca6)  
 - [2020-07-07-如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/67a265fdcd5099faf0bccbe6751855d5)  
 - [2020-07-07-面向对象：一个不矫情造作的南方妹子，希望遇到一个乐观的人](https://www.ershicimi.com/p/0f74231e4f68123928128251fc78abeb)  
-- [2020-07-06-Flutter-不火，天理难容！](https://www.ershicimi.com/p/cc4d8c2c94ce6982017097256f2e5d07)  
-- [2020-07-06-React-Hooks-原理与最佳实践](https://www.ershicimi.com/p/6c9f758780250f0654589bb8b5282602)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
