@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-19 08:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -146,6 +146,7 @@
 
 
 
+- [【前端早读课】【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4)
 - [【前端早读课】【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1)
 - [【前端早读课】【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd)
 - [【前端早读课】前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd)
@@ -165,7 +166,6 @@
 - [【前端早读课】【第1498期】webpack-loader机制源码解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=1&sn=3af117fc01f14e173aa97c41d739c65b#wechat_redirect)
 - [【前端早读课】【第1495期】-ESLint-工作原理探讨](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230875&idx=1&sn=092211db96adfc85a26b457f7e9421a0#wechat_redirect)
 - [【前端早读课】【第1489期】关于JavaScript,-NPM官方发布了2018年的回顾以及2019年的预测](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230812&idx=1&sn=fef690e05d35625b8375e2641d762c73#wechat_redirect)
-- [【前端早读课】【英】Better-NPM'ing,-Tips-and-Tricks-using-NPM](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230784&idx=2&sn=f42e7578c95e06b425fbdc345188fbad#wechat_redirect)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里深圳Lazada-数据中台产品技术团队招聘前端工程师](https://www.ershicimi.com/p/f32bb0d1b33a9eb2ffb1017f6944cb53)
 - [【前端早读课】【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362)
 - [【前端早读课】【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://www.ershicimi.com/p/a7b5cfe5299d1ee7fdb7be9c432bc8ea)
 - [【前端早读课】【招聘】阿里天猫淘宝海外技术部招聘前端工程师](https://www.ershicimi.com/p/8c83324eb28d1fa4c8773274c52275f6)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)
 - [【前端早读课】【招聘】字节跳动互娱研发团队招前端工程师（社校招）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=3&sn=955bcf890f9d91b0f533ee5460d17e3d&chksm=bd497f9f8a3ef6898627a497ef1a4e7792849d16c56725a5288eb7d2d92f1d76169402062df2&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】阿里钉钉远航者计划—2021届技术实习生内推啦～](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=3&sn=2f7b51db4ac6087b8bb7e7fdf2ccdf10&chksm=bd497f958a3ef6832830fcb82cf3d788b26cac68feb3b319fd8eedaff65392edff015ab03d22&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】阿里AE21届春季实习正式启动！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=2&sn=8aa8d03ab13566f823e68c2292f82e8d&chksm=bd497c7e8a3ef56854065c284a53ca06cec5e4a79683e40d29de098f751f3b4335e198f99cd5&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681)
 - [【前端早读课】【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)
 - [【前端早读课】【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)
 - [【前端早读课】【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e)
@@ -739,7 +740,6 @@
 - [【前端早读课】前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a)
 - [【前端早读课】【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f)
 - [【前端早读课】【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a)
-- [【前端早读课】【第1975期】前端要懂的色域知识](https://www.ershicimi.com/p/653285419e103772c9402838421b378a)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-19 08:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 08:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,7 +33,10 @@
 </summary>
 
 
-- [2020-07-18-【第2006期】开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://www.ershicimi.com/p/8d0baca9bf1ad04df2dfa17ae98f49a6) ![](assets/new.png)  
+- [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4) ![](assets/new.png)  
+- [2020-07-20-【招聘】阿里深圳Lazada-数据中台产品技术团队招聘前端工程师](https://www.ershicimi.com/p/f32bb0d1b33a9eb2ffb1017f6944cb53) ![](assets/new.png)  
+- [2020-07-19-【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681) ![](assets/new.png)  
+- [2020-07-18-【第2006期】开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://www.ershicimi.com/p/8d0baca9bf1ad04df2dfa17ae98f49a6)  
 - [2020-07-17-【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)  
 - [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362)  
 - [2020-07-17-【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)  
@@ -50,9 +53,6 @@
 - [2020-07-13-【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62)  
 - [2020-07-13-【早读】在阿里云做前端](https://www.ershicimi.com/p/2196f83624f32035b6e763a616565944)  
 - [2020-07-12-【第2000期】奇妙的-CSS-MASK](https://www.ershicimi.com/p/e328a76d14fb6c8ad236c97ae091d454)  
-- [2020-07-11-【第1999期】深入源码剖析componentWillXXX为什么UNSAFE](https://www.ershicimi.com/p/5fde5d90c7525f88083782635daad3d1)  
-- [2020-07-11-【早读】如何在-JavaScript-中更好地使用数组](https://www.ershicimi.com/p/5c55a749773acb604b44ad534dd2d37c)  
-- [2020-07-10-【第1998期】拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/d4ac04a654c39379b5253aff9c8232e0)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

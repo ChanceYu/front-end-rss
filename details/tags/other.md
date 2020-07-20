@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-19 08:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-19-【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681) 
 - [2020-07-17-【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41) 
 - [2020-07-17-【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7) 
 - [2020-07-16-【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e) 

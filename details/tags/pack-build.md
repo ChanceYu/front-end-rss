@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-19 08:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1) 
 - [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd) 
 - [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
