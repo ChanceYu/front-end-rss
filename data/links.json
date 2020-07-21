@@ -4867,6 +4867,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "Chrome 84 正式发布，支持私有方法、用户空闲检测！",
+        "link": "https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "微信支持 H5 跳转 App、跳转小程序",
+        "link": "https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7",
+        "date": "2020-07-20"
+      },
+      {
         "title": "这33个超级好用的 CSS 选择器，你可能见都没见过",
         "link": "https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b",
         "date": "2020-07-19"
@@ -14407,6 +14417,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "深入理解CSS background-blend-mode的作用机制",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/",
+        "date": "2020-07-22"
+      },
       {
         "title": "巧用CSS cross-fade()实现背景图像半透明效果",
         "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/",

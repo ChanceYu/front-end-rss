@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-21 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-22 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -161,6 +161,8 @@
 - [【前端早读课】2020-07-01-【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff) 
 - [【前端早读课】2020-07-01-【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8) 
 - [【前端早读课】2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
+- [【前端大全】2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) 
+- [【前端大全】2020-07-20-微信支持-H5-跳转-App、跳转小程序](https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7) 
 - [【前端大全】2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b) 
 - [【前端大全】2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) 
 - [【前端大全】2020-07-17-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/1e49a0602d6d44bc52007a06b7835d4e) 
@@ -222,6 +224,7 @@
 - [【前端之巅】2020-07-02-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/c33eb0cd64e5815478a27d894727529f) 
 - [【前端之巅】2020-07-02-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/0fcd6c247ac64d7c4db1a7b8f8e21aa3) 
 - [【前端之巅】2020-07-01-在2020年开发像TikTok这样的移动应用需要花多少钱？](https://www.ershicimi.com/p/3fedb5ca340cff4707d1b64e634f0df8) 
+- [【张鑫旭-鑫空间-鑫生活】2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [【阮一峰的网络日志】2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html) 

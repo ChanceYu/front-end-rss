@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 06:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-22 06:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) ![](assets/new.png)  
+- [2020-07-20-微信支持-H5-跳转-App、跳转小程序](https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7) ![](assets/new.png)  
 - [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b)  
 - [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6)  
 - [2020-07-17-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/1e49a0602d6d44bc52007a06b7835d4e)  
@@ -82,8 +84,6 @@
 - [2020-07-09-Vue-骚技巧，策略模式实现动态表单验证](https://www.ershicimi.com/p/3a178be9111634576df993c513077e4d)  
 - [2020-07-08-28岁前端程序员，身价过亿提前退休，这是什么样的彪悍人生？](https://www.ershicimi.com/p/b34af68f025d4ffb5ce43be356e6a88e)  
 - [2020-07-08-了不起的-Webpack-HMR-学习指南（含源码分析）](https://www.ershicimi.com/p/7bd6dd09d4219b91a6cfc991919dfca6)  
-- [2020-07-07-如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/67a265fdcd5099faf0bccbe6751855d5)  
-- [2020-07-07-面向对象：一个不矫情造作的南方妹子，希望遇到一个乐观的人](https://www.ershicimi.com/p/0f74231e4f68123928128251fc78abeb)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2020-07-20-送给技术人的礼物，InfoQ《2020中国技术发展白皮书》重磅发布](https://www.ershicimi.com/p/612f5892a775724b41db75764d437036) ![](assets/new.png)  
-- [2020-07-20-你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223) ![](assets/new.png)  
-- [2020-07-19-前端周报：-Vue-3-RC-版本正式发布；阿里集团取消周报制度；Linus-Torvalds-再次](https://www.ershicimi.com/p/5efb15a70eebf555ef871e9bb7d7fdea) ![](assets/new.png)  
+- [2020-07-20-送给技术人的礼物，InfoQ《2020中国技术发展白皮书》重磅发布](https://www.ershicimi.com/p/612f5892a775724b41db75764d437036)  
+- [2020-07-20-你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223)  
+- [2020-07-19-前端周报：-Vue-3-RC-版本正式发布；阿里集团取消周报制度；Linus-Torvalds-再次](https://www.ershicimi.com/p/5efb15a70eebf555ef871e9bb7d7fdea)  
 - [2020-07-17-GraphQL两年实战避坑经验](https://www.ershicimi.com/p/8cd1fd56ca1b648c041939dfc35d970c)  
 - [2020-07-17-用-80-行-Javascript-代码构建自己的语音助手](https://www.ershicimi.com/p/3bcc1c3577394bd56bf199f6240633cd)  
 - [2020-07-17-水友面试字节跳动，居然遇到了算法原题...-|-极客大学](https://www.ershicimi.com/p/e1e863a6596742b8ef80e6aabea46286)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) ![](assets/new.png)  
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  
 - [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)  
 - [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)  
@@ -176,7 +177,6 @@
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)  
-- [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
