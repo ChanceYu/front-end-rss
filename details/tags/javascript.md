@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-22 12:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -273,6 +273,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2020-07-21-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/acc1acffa56c72e4f659402728353e1f) 
 - [2020-07-14-3分钟看懂-JavaScript-生成器](https://www.ershicimi.com/p/b028be9d6c82d9110dbb88ff480d82cb) 
 - [2020-07-09-活久见：巴克莱银行用网页时光机当作某些JS代码的“CDN”](https://www.ershicimi.com/p/b268cfc42ff05a762039922fa3b2a7c8) 
 - [2020-07-03-不要盲目跟着JavaScript的趋势走](https://www.ershicimi.com/p/ea39bac245503ac65867c91aabb01741) 
