@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-23 06:00:10，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-23 08:00:12，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,10 @@
 </summary>
 
 
+- [2020-07-23-【第2011期】NutUI-实战：持续升级企业业务之福礼](https://www.ershicimi.com/p/e6f04dbcc14104a1b24d1c8807ee5fbb) ![](assets/new.png)  
+- [2020-07-23-【招聘】北京数猎天下科技招高级前端工程师](https://www.ershicimi.com/p/e593d85cf0a5816d38345d2f408a6300) ![](assets/new.png)  
+- [2020-07-22-前端工程师必备的TS知识点，不来看看？](https://www.ershicimi.com/p/9615a24dd230f6e631eccb430b94fdff) ![](assets/new.png)  
+- [2020-07-22-【第2010期】QQ音乐Android客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/60282b2dfda54fde4c15cef6d0f05e50) ![](assets/new.png)  
 - [2020-07-21-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5)  
 - [2020-07-21-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](https://www.ershicimi.com/p/f1b91eb7d0e70ede26ac13b84fe25f1e)  
 - [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4)  
@@ -49,10 +53,6 @@
 - [2020-07-15-【招聘】阿里天猫淘宝海外技术部招聘前端工程师](https://www.ershicimi.com/p/8c83324eb28d1fa4c8773274c52275f6)  
 - [2020-07-15-【早读】专访｜手机百度前端负责人@三水清](https://www.ershicimi.com/p/37d8b359c56d3063c9d9dd6030cf823d)  
 - [2020-07-14-官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4)  
-- [2020-07-14-【第2002期】为什么-setTimeout-有最小时延-4ms-?](https://www.ershicimi.com/p/64bedcc4fda0de1ecf2a29477f0531be)  
-- [2020-07-14-【早读】JavaScript和TypeScript中的void](https://www.ershicimi.com/p/2d7ff12b1021ab0ed638b390b6a1f411)  
-- [2020-07-13-【第2001期】前端架构鉴赏02：可拓展-Angular-2-架构](https://www.ershicimi.com/p/77a17fb6d92f1b4feb48f87736d8ae92)  
-- [2020-07-13-【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://www.ershicimi.com/p/03c5fb013e4698650a8216b81a2420b7) ![](assets/new.png)  
-- [2020-07-22-为什么我们经常要花将近一个月的时间来发布几行代码?](https://www.ershicimi.com/p/914ef91d2bc3daffac19d9a3cd24a36a) ![](assets/new.png)  
-- [2020-07-22-为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/b948531bf4b2eef998fcba84e2ddb282) ![](assets/new.png)  
-- [2020-07-21-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/acc1acffa56c72e4f659402728353e1f) ![](assets/new.png)  
-- [2020-07-21-我们为什么不使用-CSS-框架](https://www.ershicimi.com/p/73afb72024dc37c773a179b9cfcf727c) ![](assets/new.png)  
+- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://www.ershicimi.com/p/03c5fb013e4698650a8216b81a2420b7)  
+- [2020-07-22-为什么我们经常要花将近一个月的时间来发布几行代码?](https://www.ershicimi.com/p/914ef91d2bc3daffac19d9a3cd24a36a)  
+- [2020-07-22-为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/b948531bf4b2eef998fcba84e2ddb282)  
+- [2020-07-21-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/acc1acffa56c72e4f659402728353e1f)  
+- [2020-07-21-我们为什么不使用-CSS-框架](https://www.ershicimi.com/p/73afb72024dc37c773a179b9cfcf727c)  
 - [2020-07-20-送给技术人的礼物，InfoQ《2020中国技术发展白皮书》重磅发布](https://www.ershicimi.com/p/612f5892a775724b41db75764d437036)  
 - [2020-07-20-你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223)  
 - [2020-07-19-前端周报：-Vue-3-RC-版本正式发布；阿里集团取消周报制度；Linus-Torvalds-再次](https://www.ershicimi.com/p/5efb15a70eebf555ef871e9bb7d7fdea)  
