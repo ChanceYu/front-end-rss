@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-24 12:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 06:00:08，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-07-24-祖传代码迁移到Vue的另一种解题思路](https://www.ershicimi.com/p/260d50f555f53608fb15dc44129d2a32) ![](assets/new.png)  
+- [2020-07-24-InAppWebView：Flutter中WebView的真正力量](https://www.ershicimi.com/p/3aa103acacd25c33743bc43198158231) ![](assets/new.png)  
+- [2020-07-24-前端工程师如何学习？这里有一些建议-|-极客大学](https://www.ershicimi.com/p/3207d15442a82e485215052e9af91ad9) ![](assets/new.png)  
+- [2020-07-23-只加两行代码，为什么要用两天？](https://www.ershicimi.com/p/cb56b738b126931b8828e65e1dccce9c) ![](assets/new.png)  
+- [2020-07-23-为React开发人员推荐8个测试工具、库和框架](https://www.ershicimi.com/p/0654f3cef0becfa06614e9835dc6fd0c) ![](assets/new.png)  
 - [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://www.ershicimi.com/p/03c5fb013e4698650a8216b81a2420b7)  
 - [2020-07-22-为什么我们经常要花将近一个月的时间来发布几行代码?](https://www.ershicimi.com/p/914ef91d2bc3daffac19d9a3cd24a36a)  
 - [2020-07-22-为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/b948531bf4b2eef998fcba84e2ddb282)  
@@ -110,11 +115,6 @@
 - [2020-07-16-一起造一个简易-React-|-极客大学](https://www.ershicimi.com/p/e8be52ab33a52b720d2e39b3f4d29785)  
 - [2020-07-15-我读完了React的API，并为新手送上了一些建议](https://www.ershicimi.com/p/a2838b7b64bbcb779c1aeee8506a629e)  
 - [2020-07-15-苹果：我要保护用户隐私，谷歌：你是舍不得自己的蛋糕](https://www.ershicimi.com/p/595e9472d1cd3059eafb2089db0843ff)  
-- [2020-07-15-字节跳动来挑前端工程师啦！-|-极客时间](https://www.ershicimi.com/p/62c9b6dc8393ef6d47da314781d34975)  
-- [2020-07-14-一个SDK引发的“血案”](https://www.ershicimi.com/p/c40144db34ead9f3b7546fc7b6345dc8)  
-- [2020-07-14-3分钟看懂-JavaScript-生成器](https://www.ershicimi.com/p/b028be9d6c82d9110dbb88ff480d82cb)  
-- [2020-07-13-Flutter全平台制霸再进一步：实现Linux桌面应用支持](https://www.ershicimi.com/p/dbc72bb63206f2ba5e8eb4bf5082b595)  
-- [2020-07-13-一个Redux、React-Hooks和Service-Worker的实践](https://www.ershicimi.com/p/1e57d87c53fabf64213e105b50e3a174)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html) ![](assets/new.png)  
+- [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)  
 - [2020-07-22-苹果放弃英特尔芯片，为什么会打击美国计算机产业？](http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html)  
 - [2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html)  
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)  
