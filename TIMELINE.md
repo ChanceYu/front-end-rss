@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-25 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-25 22:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -168,6 +168,9 @@
 - [【前端早读课】2020-07-01-【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff) 
 - [【前端早读课】2020-07-01-【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8) 
 - [【前端早读课】2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
+- [【前端大全】2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051) 
+- [【前端大全】2020-07-24-面试字节-25k-岗，3-道题就被干掉](https://www.ershicimi.com/p/9616627378c35c21a0d5f8bee4b8c7bc) 
+- [【前端大全】2020-07-24-妙用-CSS变量，让你的-CSS-变得更心动](https://www.ershicimi.com/p/dde433f9208b7a5f5f0279def3beddfa) 
 - [【前端大全】2020-07-23-什么时候适合使用-Map-而不是-Object](https://www.ershicimi.com/p/b16865d2066f80e17aa3a990047714cc) 
 - [【前端大全】2020-07-23-面向对象：通过你，我走近我自己](https://www.ershicimi.com/p/2e102ab6af414175b4c398585362cf16) 
 - [【前端大全】2020-07-22-面了个-4-年的前端，给你排排面试中的坑](https://www.ershicimi.com/p/e71ddccd351ecc4a19c49b55f4dba547) 
