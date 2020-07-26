@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-25 22:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-26 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848)
+- [【前端早读课】【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启](https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8)
 - [【前端早读课】【第2011期】NutUI-实战：持续升级企业业务之福礼](https://www.ershicimi.com/p/e6f04dbcc14104a1b24d1c8807ee5fbb)
 - [【前端早读课】前端工程师必备的TS知识点，不来看看？](https://www.ershicimi.com/p/9615a24dd230f6e631eccb430b94fdff)
 - [【前端早读课】【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681)
@@ -738,8 +740,6 @@
 - [【前端早读课】【早读】下划线是否破坏可读性？](https://www.ershicimi.com/p/03d5e2a645e560280efff8bc2f0a29a2)
 - [【前端早读课】【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff)
 - [【前端早读课】【架构师必备技能】前端工程化之“脚手架”](https://www.ershicimi.com/p/7a7a351b0e56e7d78c838d3c3ceb6d5e)
-- [【前端早读课】【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c)
-- [【前端早读课】前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
