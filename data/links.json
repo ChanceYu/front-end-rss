@@ -14563,6 +14563,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS纯前端实现audio音频剪裁剪切复制播放与上传",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/",
+        "date": "2020-07-27"
+      },
+      {
         "title": "深入理解CSS background-blend-mode的作用机制",
         "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/",
         "date": "2020-07-22"

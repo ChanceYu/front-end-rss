@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-28 06:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -253,6 +253,7 @@
 - [【前端之巅】2020-07-02-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/c33eb0cd64e5815478a27d894727529f) 
 - [【前端之巅】2020-07-02-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/0fcd6c247ac64d7c4db1a7b8f8e21aa3) 
 - [【前端之巅】2020-07-01-在2020年开发像TikTok这样的移动应用需要花多少钱？](https://www.ershicimi.com/p/3fedb5ca340cff4707d1b64e634f0df8) 
+- [【张鑫旭-鑫空间-鑫生活】2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
