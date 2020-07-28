@@ -4917,6 +4917,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "聊聊 NPM 镜像那些险象环生的坑",
+        "link": "https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "Node 中如何引入一个模块及其细节",
+        "link": "https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45",
+        "date": "2020-07-27"
+      },
+      {
         "title": "React 中请求远程数据的四种方法",
         "link": "https://www.ershicimi.com/p/c5e0fd93a49fda8d7b528ac192b8d9e5",
         "date": "2020-07-26"
@@ -9643,6 +9653,31 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "为什么总有人觉得前端很简单？",
+        "link": "https://www.ershicimi.com/p/5b34275d64c064618163f1349b8f8961",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "Next.js 9.5 发布：支持 Webpack 5",
+        "link": "https://www.ershicimi.com/p/4783d072fa151ccb0f5fcdcf7a6e3eaf",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "你的博客用不着什么JavaScript框架",
+        "link": "https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "你写注释吗？写你就输了",
+        "link": "https://www.ershicimi.com/p/bc925c2c67c9eadb8419e893b4bad7da",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484",
+        "date": "2020-07-27"
+      },
       {
         "title": "前端周报：谷歌：2GB以下设备必须用Android Go；微软Tips使用macOS截图被抓包；甲骨",
         "link": "https://www.ershicimi.com/p/e784f9005ebcb45344faf3831fd2133f",

@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-28 06:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-29 06:00:08，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) ![](assets/new.png)  
+- [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45) ![](assets/new.png)  
 - [2020-07-26-React-中请求远程数据的四种方法](https://www.ershicimi.com/p/c5e0fd93a49fda8d7b528ac192b8d9e5)  
 - [2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051)  
 - [2020-07-24-面试字节-25k-岗，3-道题就被干掉](https://www.ershicimi.com/p/9616627378c35c21a0d5f8bee4b8c7bc)  
@@ -82,8 +84,6 @@
 - [2020-07-15-【前端框架】学习-React-比你想象中要简单](https://www.ershicimi.com/p/5e8d7ddc989a9ec05767c9078ac8c365)  
 - [2020-07-15-如何科学修改-node_modules-里的文件](https://www.ershicimi.com/p/f55859b2147c19295a9e326c763f6888)  
 - [2020-07-14-美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/74c05bf4122d9efb82d7ada51a634b03)  
-- [2020-07-14-一个优秀的Vue团队代码规范是什么样子的？](https://www.ershicimi.com/p/213a23ab077c67684e58979ee56ea258)  
-- [2020-07-13-"别再走弯路了！"-一文摆脱前端学习误区](https://www.ershicimi.com/p/7aea404f78db1474dc5f79ca76ee8e83)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-07-28-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/5b34275d64c064618163f1349b8f8961) ![](assets/new.png)  
+- [2020-07-28-Next.js-9.5-发布：支持-Webpack-5](https://www.ershicimi.com/p/4783d072fa151ccb0f5fcdcf7a6e3eaf) ![](assets/new.png)  
+- [2020-07-27-你的博客用不着什么JavaScript框架](https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40) ![](assets/new.png)  
+- [2020-07-27-你写注释吗？写你就输了](https://www.ershicimi.com/p/bc925c2c67c9eadb8419e893b4bad7da) ![](assets/new.png)  
+- [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！-|-活动推荐](https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484) ![](assets/new.png)  
 - [2020-07-26-前端周报：谷歌：2GB以下设备必须用Android-Go；微软Tips使用macOS截图被抓包；甲骨](https://www.ershicimi.com/p/e784f9005ebcb45344faf3831fd2133f)  
 - [2020-07-24-祖传代码迁移到Vue的另一种解题思路](https://www.ershicimi.com/p/260d50f555f53608fb15dc44129d2a32)  
 - [2020-07-24-InAppWebView：Flutter中WebView的真正力量](https://www.ershicimi.com/p/3aa103acacd25c33743bc43198158231)  
@@ -110,11 +115,6 @@
 - [2020-07-20-你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223)  
 - [2020-07-19-前端周报：-Vue-3-RC-版本正式发布；阿里集团取消周报制度；Linus-Torvalds-再次](https://www.ershicimi.com/p/5efb15a70eebf555ef871e9bb7d7fdea)  
 - [2020-07-17-GraphQL两年实战避坑经验](https://www.ershicimi.com/p/8cd1fd56ca1b648c041939dfc35d970c)  
-- [2020-07-17-用-80-行-Javascript-代码构建自己的语音助手](https://www.ershicimi.com/p/3bcc1c3577394bd56bf199f6240633cd)  
-- [2020-07-17-水友面试字节跳动，居然遇到了算法原题...-|-极客大学](https://www.ershicimi.com/p/e1e863a6596742b8ef80e6aabea46286)  
-- [2020-07-16-技术选型：没有谷歌的命，别得谷歌的病](https://www.ershicimi.com/p/551b744e243ebd99895d18568e659bc1)  
-- [2020-07-16-一起造一个简易-React-|-极客大学](https://www.ershicimi.com/p/e8be52ab33a52b720d2e39b3f4d29785)  
-- [2020-07-15-我读完了React的API，并为新手送上了一些建议](https://www.ershicimi.com/p/a2838b7b64bbcb779c1aeee8506a629e)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) ![](assets/new.png)  
+- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/)  
 - [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)  
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  
 - [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)  

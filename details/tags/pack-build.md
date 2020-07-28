@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 06:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-29 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -34,6 +34,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) 
 - [2020-07-08-了不起的-Webpack-HMR-学习指南（含源码分析）](https://www.ershicimi.com/p/7bd6dd09d4219b91a6cfc991919dfca6) 
 - [2020-06-30-你应该知道的-NPM-知识都在这！](https://www.ershicimi.com/p/3ccbdf29abe1193c2f44c6e0c6763911) 
 - [2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091) 
@@ -61,6 +62,7 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2020-07-28-Next.js-9.5-发布：支持-Webpack-5](https://www.ershicimi.com/p/4783d072fa151ccb0f5fcdcf7a6e3eaf) 
 - [2020-07-17-用-80-行-Javascript-代码构建自己的语音助手](https://www.ershicimi.com/p/3bcc1c3577394bd56bf199f6240633cd) 
 - [2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) 
 - [2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710) 
