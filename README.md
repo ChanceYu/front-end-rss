@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-29 06:00:08，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-29 08:00:13，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,11 @@
 </summary>
 
 
+- [2020-07-29-【第2017期】如何在滴滴落地-Chameleon](https://www.ershicimi.com/p/75bfd3aa65e4a690461c9e54b11afb45) ![](assets/new.png)  
+- [2020-07-29-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e) ![](assets/new.png)  
+- [2020-07-28-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320) ![](assets/new.png)  
+- [2020-07-28-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172) ![](assets/new.png)  
+- [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) ![](assets/new.png)  
 - [2020-07-26-【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b)  
 - [2020-07-25-【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848)  
 - [2020-07-25-【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启](https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8)  
@@ -48,11 +53,6 @@
 - [2020-07-19-【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681)  
 - [2020-07-18-【第2006期】开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://www.ershicimi.com/p/8d0baca9bf1ad04df2dfa17ae98f49a6)  
 - [2020-07-17-【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)  
-- [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362)  
-- [2020-07-17-【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)  
-- [2020-07-16-【第2004期】弄明白Deno与node的区别](https://www.ershicimi.com/p/365284240177804dce981aaaaf9251c1)  
-- [2020-07-16-【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://www.ershicimi.com/p/a7b5cfe5299d1ee7fdb7be9c432bc8ea)  
-- [2020-07-16-【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) ![](assets/new.png)  
-- [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45) ![](assets/new.png)  
+- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4)  
+- [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45)  
 - [2020-07-26-React-中请求远程数据的四种方法](https://www.ershicimi.com/p/c5e0fd93a49fda8d7b528ac192b8d9e5)  
 - [2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051)  
 - [2020-07-24-面试字节-25k-岗，3-道题就被干掉](https://www.ershicimi.com/p/9616627378c35c21a0d5f8bee4b8c7bc)  
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-07-28-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/5b34275d64c064618163f1349b8f8961) ![](assets/new.png)  
-- [2020-07-28-Next.js-9.5-发布：支持-Webpack-5](https://www.ershicimi.com/p/4783d072fa151ccb0f5fcdcf7a6e3eaf) ![](assets/new.png)  
-- [2020-07-27-你的博客用不着什么JavaScript框架](https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40) ![](assets/new.png)  
-- [2020-07-27-你写注释吗？写你就输了](https://www.ershicimi.com/p/bc925c2c67c9eadb8419e893b4bad7da) ![](assets/new.png)  
-- [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！-|-活动推荐](https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484) ![](assets/new.png)  
+- [2020-07-28-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/5b34275d64c064618163f1349b8f8961)  
+- [2020-07-28-Next.js-9.5-发布：支持-Webpack-5](https://www.ershicimi.com/p/4783d072fa151ccb0f5fcdcf7a6e3eaf)  
+- [2020-07-27-你的博客用不着什么JavaScript框架](https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40)  
+- [2020-07-27-你写注释吗？写你就输了](https://www.ershicimi.com/p/bc925c2c67c9eadb8419e893b4bad7da)  
+- [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！-|-活动推荐](https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484)  
 - [2020-07-26-前端周报：谷歌：2GB以下设备必须用Android-Go；微软Tips使用macOS截图被抓包；甲骨](https://www.ershicimi.com/p/e784f9005ebcb45344faf3831fd2133f)  
 - [2020-07-24-祖传代码迁移到Vue的另一种解题思路](https://www.ershicimi.com/p/260d50f555f53608fb15dc44129d2a32)  
 - [2020-07-24-InAppWebView：Flutter中WebView的真正力量](https://www.ershicimi.com/p/3aa103acacd25c33743bc43198158231)  

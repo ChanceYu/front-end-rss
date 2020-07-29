@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-29 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-29 08:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-28-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320) 
 - [2020-07-21-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5) 
 - [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0) 
 - [2020-03-05-【直播】淘系中后台负责人教你快速搭建企业微前端架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235867&idx=4&sn=eb7bbb4f14973a7082e330a03f12f31f&chksm=bd497f9f8a3ef689295e777444cc145ec6725b80d4254e6870adcd11055bc936e86e50a47385&scene=27#wechat_redirect) 

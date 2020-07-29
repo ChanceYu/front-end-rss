@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-29 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-29 08:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-07-29-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e) 
+- [2020-07-28-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172) 
 - [2020-07-23-【招聘】北京数猎天下科技招高级前端工程师](https://www.ershicimi.com/p/e593d85cf0a5816d38345d2f408a6300) 
 - [2020-07-20-【招聘】阿里深圳Lazada-数据中台产品技术团队招聘前端工程师](https://www.ershicimi.com/p/f32bb0d1b33a9eb2ffb1017f6944cb53) 
 - [2020-07-17-【招聘】美团2021届移动端提前批招聘启动！](https://www.ershicimi.com/p/9d935aff4311563e6809e38eda6dd362) 
