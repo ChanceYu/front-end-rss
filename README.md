@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-29 08:00:13，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-30 08:00:10，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -33,11 +33,11 @@
 </summary>
 
 
-- [2020-07-29-【第2017期】如何在滴滴落地-Chameleon](https://www.ershicimi.com/p/75bfd3aa65e4a690461c9e54b11afb45) ![](assets/new.png)  
-- [2020-07-29-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e) ![](assets/new.png)  
-- [2020-07-28-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320) ![](assets/new.png)  
-- [2020-07-28-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172) ![](assets/new.png)  
-- [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) ![](assets/new.png)  
+- [2020-07-29-【第2017期】如何在滴滴落地-Chameleon](https://www.ershicimi.com/p/75bfd3aa65e4a690461c9e54b11afb45)  
+- [2020-07-29-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e)  
+- [2020-07-28-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320)  
+- [2020-07-28-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172)  
+- [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d)  
 - [2020-07-26-【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b)  
 - [2020-07-25-【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848)  
 - [2020-07-25-【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启](https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8)  
@@ -126,6 +126,8 @@
 </summary>
 
 
+- [2020-07-29-业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems) ![](assets/new.png)  
+- [2020-06-02-Node.js-AsyncHooks-与异步回调上下文](https://fed.taobao.org/blog/taofed/do71ct/nodejs-asynchooks) ![](assets/new.png)  
 - [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test)  
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate)  
 - [2020-03-02-一个前端智能化的实践](https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend)  
@@ -144,8 +146,6 @@
 - [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time)  
 - [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse)  
 - [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame)  
-- [2019-06-06-大话-JavaScript-动画](https://fed.taobao.org/blog/taofed/do71ct/js-animation-base)  
-- [2019-05-29-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
