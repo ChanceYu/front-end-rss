@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-01 06:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -180,6 +180,8 @@
 - [【前端早读课】2020-07-01-【第1989期】前端架构101：整洁（Clean-Architecture）架构是归宿](https://www.ershicimi.com/p/57facfabec4bfc8e984d5a9e37cf63ff) 
 - [【前端早读课】2020-07-01-【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8) 
 - [【前端早读课】2020-07-01-【早读】重新认识JS的this、作用域、闭包、对象](https://www.ershicimi.com/p/cf9266d724b9838a20e40f317842d7d5) 
+- [【前端大全】2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728) 
+- [【前端大全】2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971) 
 - [【前端大全】2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43) 
 - [【前端大全】2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845) 
 - [【前端大全】2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
