@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 06:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 06:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728) ![](assets/new.png)  
-- [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971) ![](assets/new.png)  
+- [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728)  
+- [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971)  
 - [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43)  
 - [2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845)  
 - [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-07-31-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376) ![](assets/new.png)  
+- [2020-07-31-InfoQ-行业全景观察：云计算成为数字经济必要基础设施](https://www.ershicimi.com/p/6e5444930331c8282cb80f3411f29bae) ![](assets/new.png)  
+- [2020-07-31-如果这三点全中，你需要认真考虑-API-这项技术了-|-活动推荐](https://www.ershicimi.com/p/27ac2c9e22f28315102cddb3011b0c63) ![](assets/new.png)  
 - [2020-07-30-前端开发的瓶颈与未来之路](https://www.ershicimi.com/p/c516b16d7ef10fbbd5344830f415abd8)  
 - [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379)  
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf)  
@@ -112,9 +115,6 @@
 - [2020-07-23-只加两行代码，为什么要用两天？](https://www.ershicimi.com/p/cb56b738b126931b8828e65e1dccce9c)  
 - [2020-07-23-为React开发人员推荐8个测试工具、库和框架](https://www.ershicimi.com/p/0654f3cef0becfa06614e9835dc6fd0c)  
 - [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://www.ershicimi.com/p/03c5fb013e4698650a8216b81a2420b7)  
-- [2020-07-22-为什么我们经常要花将近一个月的时间来发布几行代码?](https://www.ershicimi.com/p/914ef91d2bc3daffac19d9a3cd24a36a)  
-- [2020-07-22-为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/b948531bf4b2eef998fcba84e2ddb282)  
-- [2020-07-21-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/acc1acffa56c72e4f659402728353e1f)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
