@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 08:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 22:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) ![](assets/new.png)  
+- [2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4)  
 - [2020-07-31-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016)  
 - [2020-07-31-【招聘】上海Treelab招高级前端架构师、高级React开发工程师](https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8)  
 - [2020-07-30-2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) ![](assets/new.png)  
 - [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728)  
 - [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971)  
 - [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43)  
@@ -83,7 +84,6 @@
 - [2020-07-20-微信支持-H5-跳转-App、跳转小程序](https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7)  
 - [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b)  
 - [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6)  
-- [2020-07-17-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/1e49a0602d6d44bc52007a06b7835d4e)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
