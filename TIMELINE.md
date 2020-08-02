@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-02 08:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -15,7 +15,7 @@
 <td><a href="#2020-05">05月</a></td>
 <td><a href="#2020-06">06月</a></td>
 <td><a href="#2020-07">07月</a></td>
-<td>08月</td>
+<td><a href="#2020-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
@@ -115,6 +115,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2020-08">
+ 2020-08
+</summary>
+
+
+- [【前端早读课】2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2020-07">

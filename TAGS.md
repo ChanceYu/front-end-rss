@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-02 06:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 08:00:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4)
 - [【前端早读课】2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940)
 - [【前端早读课】【第2018期】小图标，大学问](https://www.ershicimi.com/p/892703378c482db1fa0819d2384a61f8)
 - [【前端早读课】【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第1994期】ES11来了](https://www.ershicimi.com/p/715636fedbf1c029809736980e537271)
 - [【前端早读课】【第1993期】前端架构鉴赏01：Angular-架构模式与最佳实践](https://www.ershicimi.com/p/a606f6242aa22b3293cce63deb3ddc0f)
 - [【前端早读课】【第1992期】为京东PLUS会员保驾护航的日子](https://www.ershicimi.com/p/856c95e964c2701d3fbd05d76d46ddb3)
-- [【前端早读课】【早读】下划线是否破坏可读性？](https://www.ershicimi.com/p/03d5e2a645e560280efff8bc2f0a29a2)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

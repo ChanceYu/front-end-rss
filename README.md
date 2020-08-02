@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 06:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 08:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) ![](assets/new.png)  
 - [2020-07-31-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016)  
 - [2020-07-31-【招聘】上海Treelab招高级前端架构师、高级React开发工程师](https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8)  
 - [2020-07-30-2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940)  
@@ -52,7 +53,6 @@
 - [2020-07-22-【第2010期】QQ音乐Android客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/60282b2dfda54fde4c15cef6d0f05e50)  
 - [2020-07-21-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5)  
 - [2020-07-21-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](https://www.ershicimi.com/p/f1b91eb7d0e70ede26ac13b84fe25f1e)  
-- [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2020-07-31-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376) ![](assets/new.png)  
-- [2020-07-31-InfoQ-行业全景观察：云计算成为数字经济必要基础设施](https://www.ershicimi.com/p/6e5444930331c8282cb80f3411f29bae) ![](assets/new.png)  
-- [2020-07-31-如果这三点全中，你需要认真考虑-API-这项技术了-|-活动推荐](https://www.ershicimi.com/p/27ac2c9e22f28315102cddb3011b0c63) ![](assets/new.png)  
+- [2020-07-31-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376)  
+- [2020-07-31-InfoQ-行业全景观察：云计算成为数字经济必要基础设施](https://www.ershicimi.com/p/6e5444930331c8282cb80f3411f29bae)  
+- [2020-07-31-如果这三点全中，你需要认真考虑-API-这项技术了-|-活动推荐](https://www.ershicimi.com/p/27ac2c9e22f28315102cddb3011b0c63)  
 - [2020-07-30-前端开发的瓶颈与未来之路](https://www.ershicimi.com/p/c516b16d7ef10fbbd5344830f415abd8)  
 - [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379)  
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf)  
