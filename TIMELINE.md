@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 22:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-05 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【前端早读课】2020-08-05-【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306) 
+- [【前端早读课】2020-08-05-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c) 
+- [【前端早读课】2020-08-04-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c) 
+- [【前端早读课】2020-08-04-【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3) 
 - [【前端早读课】2020-08-03-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) 
 - [【前端早读课】2020-08-03-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8) 
 - [【前端早读课】2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de) 

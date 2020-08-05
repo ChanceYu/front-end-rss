@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 22:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 08:00:10，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,10 @@
 </summary>
 
 
+- [2020-08-05-【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306) ![](assets/new.png)  
+- [2020-08-05-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c) ![](assets/new.png)  
+- [2020-08-04-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c) ![](assets/new.png)  
+- [2020-08-04-【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3) ![](assets/new.png)  
 - [2020-08-03-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342)  
 - [2020-08-03-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8)  
 - [2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de)  
@@ -49,10 +53,6 @@
 - [2020-07-26-【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b)  
 - [2020-07-25-【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848)  
 - [2020-07-25-【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启](https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8)  
-- [2020-07-24-【第2012期】支付宝Web3D发展史](https://www.ershicimi.com/p/d08c30f4baf8f5bd11911ff9e8cec104)  
-- [2020-07-23-【第2011期】NutUI-实战：持续升级企业业务之福礼](https://www.ershicimi.com/p/e6f04dbcc14104a1b24d1c8807ee5fbb)  
-- [2020-07-23-【招聘】北京数猎天下科技招高级前端工程师](https://www.ershicimi.com/p/e593d85cf0a5816d38345d2f408a6300)  
-- [2020-07-22-前端工程师必备的TS知识点，不来看看？](https://www.ershicimi.com/p/9615a24dd230f6e631eccb430b94fdff)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2020-08-04-轻松搞定移动端适配](https://www.ershicimi.com/p/cda76956f8bedf88951f53d5bc5059aa) ![](assets/new.png)  
-- [2020-08-03-6-万奖金等你赢！RTE-编程挑战赛已启动](https://www.ershicimi.com/p/0de7017a53990467bc2d706172c6f5e1) ![](assets/new.png)  
-- [2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) ![](assets/new.png)  
-- [2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) ![](assets/new.png)  
+- [2020-08-04-轻松搞定移动端适配](https://www.ershicimi.com/p/cda76956f8bedf88951f53d5bc5059aa)  
+- [2020-08-03-6-万奖金等你赢！RTE-编程挑战赛已启动](https://www.ershicimi.com/p/0de7017a53990467bc2d706172c6f5e1)  
+- [2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57)  
+- [2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9)  
 - [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb)  
 - [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728)  
 - [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971)  

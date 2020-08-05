@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-04 22:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 08:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)
 - [【前端早读课】【第2000期】奇妙的-CSS-MASK](https://www.ershicimi.com/p/e328a76d14fb6c8ad236c97ae091d454)
 - [【前端早读课】【早读】使用-CSS-来做素数的判定与筛选](https://www.ershicimi.com/p/6271dbe23c1f116a8c50312b6c692359)
 - [【前端早读课】【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd)
 - [【前端早读课】【第1625期】-从原型图到成品：步步深入-CSS-布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232375&idx=1&sn=c69f5fa559be00b0af291b0853becd8d#rd)
 - [【前端早读课】【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd)
-- [【前端早读课】【第1606期】CSS-自定义属性：API-篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232217&idx=1&sn=67fb48dc6d4f71ac4235561a16cda10c#rd)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c)
 - [【前端早读课】【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8)
 - [【前端早读课】【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e)
 - [【前端早读课】【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf)
 - [【前端早读课】【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)
 - [【前端早读课】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)
-- [【前端早读课】【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c)
+- [【前端早读课】【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3)
 - [【前端早读课】【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de)
 - [【前端早读课】【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4)
 - [【前端早读课】2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940)
@@ -738,8 +740,6 @@
 - [【前端早读课】【早读】在阿里云做前端](https://www.ershicimi.com/p/2196f83624f32035b6e763a616565944)
 - [【前端早读课】【早读】如何更愉快地使用rem](https://www.ershicimi.com/p/b8c4d16f7b4c089f360788b8615d2040)
 - [【前端早读课】【第1995期】钉钉文档编辑器的前世今生](https://www.ershicimi.com/p/a7142781a155a0c3167e91d9444b04d4)
-- [【前端早读课】【第1994期】ES11来了](https://www.ershicimi.com/p/715636fedbf1c029809736980e537271)
-- [【前端早读课】【第1993期】前端架构鉴赏01：Angular-架构模式与最佳实践](https://www.ershicimi.com/p/a606f6242aa22b3293cce63deb3ddc0f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
