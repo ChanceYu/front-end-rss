@@ -14848,6 +14848,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "颠覆，原来background-image也是支持CSS动画的",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/",
+        "date": "2020-08-06"
+      },
+      {
         "title": "JS纯前端实现audio音频剪裁剪切复制播放与上传",
         "link": "https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/",
         "date": "2020-07-27"

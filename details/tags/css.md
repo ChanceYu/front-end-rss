@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -126,6 +126,7 @@
 - [2018-10-23-你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect) 
 - [2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward) 
 - [2020-01-19-当-SSR-遇上-Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker) 
+- [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
 - [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) 

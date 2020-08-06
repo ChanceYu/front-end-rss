@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 18:00:13，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 06:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,8 +95,8 @@
 </summary>
 
 
-- [2020-08-06-Flutter-1.20正式发布，新特性解读！](https://www.ershicimi.com/p/47c1db4e66630d3dbad0eb6107daa23b) ![](assets/new.png)  
-- [2020-08-06-微软对-TikTok-可能的三种运作方式](https://www.ershicimi.com/p/520c44a4e48c56e40e869287add2199f) ![](assets/new.png)  
+- [2020-08-06-Flutter-1.20正式发布，新特性解读！](https://www.ershicimi.com/p/47c1db4e66630d3dbad0eb6107daa23b)  
+- [2020-08-06-微软对-TikTok-可能的三种运作方式](https://www.ershicimi.com/p/520c44a4e48c56e40e869287add2199f)  
 - [2020-08-05-Flutter-初学者必读的高级布局规则](https://www.ershicimi.com/p/e8a2dcb94152bdaf483cc9c90d30036a)  
 - [2020-08-05-TypeScript-新版网站上线：带来了新的导航机制](https://www.ershicimi.com/p/58349e95c656106f3a81063652684787)  
 - [2020-08-05-iOS工程师的自我修养-|-极客时间](https://www.ershicimi.com/p/8093e3d376e5069381761de9f62121cd)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) ![](assets/new.png)  
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/)  
 - [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)  
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  
@@ -176,7 +177,6 @@
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
-- [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
