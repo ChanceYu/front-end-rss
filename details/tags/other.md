@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-07 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-07-【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1) 
+- [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb) 
+- [2020-08-06-京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673) 
 - [2020-08-04-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c) 
 - [2020-08-04-【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3) 
 - [2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de) 

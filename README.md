@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 06:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 08:00:09，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,6 +33,11 @@
 </summary>
 
 
+- [2020-08-07-【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1) ![](assets/new.png)  
+- [2020-08-07-【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584) ![](assets/new.png)  
+- [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb) ![](assets/new.png)  
+- [2020-08-06-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa) ![](assets/new.png)  
+- [2020-08-06-京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673) ![](assets/new.png)  
 - [2020-08-05-【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)  
 - [2020-08-05-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c)  
 - [2020-08-04-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c)  
@@ -48,11 +53,6 @@
 - [2020-07-29-【第2017期】如何在滴滴落地-Chameleon](https://www.ershicimi.com/p/75bfd3aa65e4a690461c9e54b11afb45)  
 - [2020-07-29-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e)  
 - [2020-07-28-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320)  
-- [2020-07-28-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172)  
-- [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d)  
-- [2020-07-26-【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b)  
-- [2020-07-25-【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848)  
-- [2020-07-25-【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启](https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) ![](assets/new.png)  
+- [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)  
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/)  
 - [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)  
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 06:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-07 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【前端早读课】2020-08-07-【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1) 
+- [【前端早读课】2020-08-07-【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584) 
+- [【前端早读课】2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb) 
+- [【前端早读课】2020-08-06-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa) 
+- [【前端早读课】2020-08-06-京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673) 
 - [【前端早读课】2020-08-05-【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306) 
 - [【前端早读课】2020-08-05-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c) 
 - [【前端早读课】2020-08-04-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c) 
