@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 08:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 12:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -194,6 +194,7 @@
 - [2018-10-12-CSS-:visited伪类选择器隐秘往事回忆录](https://www.zhangxinxu.com/wordpress/2018/10/css-visited-pseudo-class/) 
 - [2018-08-19-学习了，CSS中内联SVG图片有比Base64更好的形式](https://www.zhangxinxu.com/wordpress/2018/08/css-svg-background-image-base64-encode/) 
 - [2018-08-11-这回试试使用CSS实现抛物线运动效果](https://www.zhangxinxu.com/wordpress/2018/08/css-css3-%e6%8a%9b%e7%89%a9%e7%ba%bf%e5%8a%a8%e7%94%bb/) 
+- [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) 
 - [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html) 
 - [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html) 
 - [2018-11-08-动画：从-AE-到-Web，‘甩锅’给设计师](http://www.yyyweb.com/5201.html) 

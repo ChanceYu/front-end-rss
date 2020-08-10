@@ -15600,6 +15600,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "只要一行代码，实现五种 CSS 经典布局",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html",
+        "date": "2020-08-10"
+      },
+      {
         "title": "科技爱好者周刊（第 119 期）：降雨量和保险博弈 ",
         "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html",
         "date": "2020-08-07"
