@@ -14983,6 +14983,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS overflow-anchor属性与滚动锚定",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/",
+        "date": "2020-08-12"
+      },
+      {
         "title": "颠覆，原来background-image也是支持CSS动画的",
         "link": "https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/",
         "date": "2020-08-06"
@@ -15649,6 +15654,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "勒索软件产业化的感想",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/ransomware.html",
+        "date": "2020-08-12"
+      },
       {
         "title": "只要一行代码，实现五种 CSS 经典布局",
         "link": "http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html",
