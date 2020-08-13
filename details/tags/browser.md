@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 08:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 18:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -135,6 +135,8 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) 
+- [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) 
 - [2020-08-10-WebSocket-开发实战，三步实现实时弹幕系统](https://www.ershicimi.com/p/c80886f25187f3817819d1ebc95381f1) 
 - [2020-08-09-前端周报：印度政府已要求应用商店下架百度和微博；微信回应特朗普封禁：正在评估；安卓版-Chrome](https://www.ershicimi.com/p/8851a5df79a6834f39ee004a86ff2fa8) 
 - [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) 

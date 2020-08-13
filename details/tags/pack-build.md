@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 08:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-13 18:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -34,6 +34,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2020-08-11-嗯，手搓一个-TinyPng-压缩图片的-WebpackPlugin-也-SoEasy-啦](https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748) 
 - [2020-08-07-分享-9-条-Webpack-优化策略](https://www.ershicimi.com/p/8b2d1e104d1102bfbf711a9c0b969bbd) 
 - [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) 
 - [2020-07-08-了不起的-Webpack-HMR-学习指南（含源码分析）](https://www.ershicimi.com/p/7bd6dd09d4219b91a6cfc991919dfca6) 

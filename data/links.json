@@ -5082,6 +5082,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "浅谈 Web 前端工程化",
+        "link": "https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "Angular 发布首个正式的路线图",
+        "link": "https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "嗯，手搓一个 TinyPng 压缩图片的 WebpackPlugin 也 SoEasy 啦",
+        "link": "https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748",
+        "date": "2020-08-11"
+      },
+      {
         "title": "1 小时带走前端大牛的求职攻略",
         "link": "https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca",
         "date": "2020-08-10"
@@ -9913,6 +9928,31 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "软件史上最著名的10大Bug",
+        "link": "https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "关于多端技术，这4个核心知识你get到了吗？",
+        "link": "https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686",
+        "date": "2020-08-13"
+      },
+      {
+        "title": "WebAssembly如何演进成为“浏览器第二编程语言”？",
+        "link": "https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "6个常见的可访问性问题及解决方案",
+        "link": "https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291",
+        "date": "2020-08-12"
+      },
+      {
+        "title": "从0到1教你配置深度学习服务器，高维破题助攻机器学习！ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b",
+        "date": "2020-08-12"
+      },
       {
         "title": "CSS-in-JS：一个充满争议的技术方案",
         "link": "https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6",

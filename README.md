@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-13 08:00:11，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-13 18:00:16，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,10 +33,10 @@
 </summary>
 
 
-- [2020-08-13-【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500) ![](assets/new.png)  
-- [2020-08-13-【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2) ![](assets/new.png)  
-- [2020-08-12-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f) ![](assets/new.png)  
-- [2020-08-12-【第2031期】APNG-那些事](https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127) ![](assets/new.png)  
+- [2020-08-13-【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500)  
+- [2020-08-13-【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2)  
+- [2020-08-12-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f)  
+- [2020-08-12-【第2031期】APNG-那些事](https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127)  
 - [2020-08-11-【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72)  
 - [2020-08-11-【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家](https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19)  
 - [2020-08-10-【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80)  
@@ -64,6 +64,9 @@
 </summary>
 
 
+- [2020-08-12-浅谈-Web-前端工程化](https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44) ![](assets/new.png)  
+- [2020-08-12-Angular-发布首个正式的路线图](https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425) ![](assets/new.png)  
+- [2020-08-11-嗯，手搓一个-TinyPng-压缩图片的-WebpackPlugin-也-SoEasy-啦](https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748) ![](assets/new.png)  
 - [2020-08-10-1-小时带走前端大牛的求职攻略](https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca)  
 - [2020-08-10-H5-秒开方案大全](https://www.ershicimi.com/p/06ee25f076d1d8681c0699495fb505d7)  
 - [2020-08-09-sync_hooks、CLS-与-Node-中异步资源生命周期监听](https://www.ershicimi.com/p/be586e92c385df9fe0ce0da145608cb3)  
@@ -81,9 +84,6 @@
 - [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728)  
 - [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971)  
 - [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43)  
-- [2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845)  
-- [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330)  
-- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e) ![](assets/new.png)  
+- [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) ![](assets/new.png)  
+- [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) ![](assets/new.png)  
+- [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291) ![](assets/new.png)  
+- [2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b) ![](assets/new.png)  
 - [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6)  
 - [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e)  
 - [2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9)  
@@ -110,11 +115,6 @@
 - [2020-08-05-iOS工程师的自我修养-|-极客时间](https://www.ershicimi.com/p/8093e3d376e5069381761de9f62121cd)  
 - [2020-08-04-2020年不容错过的十大JavaScript库](https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a)  
 - [2020-08-04-程序员简历的-8-个建议](https://www.ershicimi.com/p/e47a77e26f69847b990f9dc6cc497f8f)  
-- [2020-08-03-微前端到底有啥用？](https://www.ershicimi.com/p/806338e95710f9329fcb51e2604f1065)  
-- [2020-08-03-谷歌7年前就开始收集安卓用户的敏感信息了？](https://www.ershicimi.com/p/710ca7add1b7f2cda2ae04a689193438)  
-- [2020-08-03-前端人如何构建能力模型，高薪成长？-|-极客时间](https://www.ershicimi.com/p/ac76b421286fc2b59318b7522bb61efb)  
-- [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5)  
-- [2020-07-31-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

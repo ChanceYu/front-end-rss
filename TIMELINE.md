@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-13 08:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-13 18:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,6 +146,9 @@
 - [【前端早读课】2020-08-03-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8) 
 - [【前端早读课】2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de) 
 - [【前端早读课】2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) 
+- [【前端大全】2020-08-12-浅谈-Web-前端工程化](https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44) 
+- [【前端大全】2020-08-12-Angular-发布首个正式的路线图](https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425) 
+- [【前端大全】2020-08-11-嗯，手搓一个-TinyPng-压缩图片的-WebpackPlugin-也-SoEasy-啦](https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748) 
 - [【前端大全】2020-08-10-1-小时带走前端大牛的求职攻略](https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca) 
 - [【前端大全】2020-08-10-H5-秒开方案大全](https://www.ershicimi.com/p/06ee25f076d1d8681c0699495fb505d7) 
 - [【前端大全】2020-08-09-sync_hooks、CLS-与-Node-中异步资源生命周期监听](https://www.ershicimi.com/p/be586e92c385df9fe0ce0da145608cb3) 
@@ -160,6 +163,11 @@
 - [【前端大全】2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) 
 - [【前端大全】2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
 - [【前端大全】2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [【前端之巅】2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e) 
+- [【前端之巅】2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686) 
+- [【前端之巅】2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da) 
+- [【前端之巅】2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291) 
+- [【前端之巅】2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b) 
 - [【前端之巅】2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) 
 - [【前端之巅】2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e) 
 - [【前端之巅】2020-08-10-不想一辈子打工，我做了个月入40余万的App](https://www.ershicimi.com/p/25bd483e164fa404b662543003e7d9d9) 
