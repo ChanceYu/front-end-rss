@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-14 12:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-15 08:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -434,6 +434,7 @@
 
 
 
+- [【前端早读课】【第2034期】全民K歌推流直播Web实践](https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3)
 - [【前端早读课】【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320)
 - [【前端早读课】【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5)
 - [【前端早读课】【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)
@@ -453,7 +454,6 @@
 - [【前端早读课】【视频】探索Web编程的另一种形态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=2&sn=dd0bf6cf6a5515fd2506e1d02f76277a#rd)
 - [【前端早读课】【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd)
 - [【前端早读课】【招聘】腾讯IVWEB前端团队-互动视频招前端／2020前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=2&sn=6e1b30e5e9cb5895ffc9034d22b0837d#wechat_redirect)
-- [【前端早读课】【招聘】阿里云视频云团队招聘高级前端开发工程师（P6）、前端技术专家（P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231270&idx=2&sn=2ef53bbd8a1237c2d57b1b2dcfa33132#wechat_redirect)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb)
 - [【前端早读课】前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f)
 - [【前端早读课】【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80)
 - [【前端早读课】【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)
 - [【前端早读课】【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)
 - [【前端早读课】【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e)
-- [【前端早读课】【早读】专访｜手机百度前端负责人@三水清](https://www.ershicimi.com/p/37d8b359c56d3063c9d9dd6030cf823d)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
