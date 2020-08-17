@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-17 08:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-08-17-【第2036期】如何将Canvas绘制过程转为视频](https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335) 
 - [2020-08-12-【第2031期】APNG-那些事](https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127) 
 - [2020-07-24-【第2012期】支付宝Web3D发展史](https://www.ershicimi.com/p/d08c30f4baf8f5bd11911ff9e8cec104) 
 - [2020-06-28-【第1986期】使用-Figma-+-GitHub-Actions-完成-SVG-图标的完全自动化交](https://www.ershicimi.com/p/edd44caed6a45e67c697c54dd0113698) 

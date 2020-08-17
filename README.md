@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-16 18:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-17 08:00:15，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,9 @@
 </summary>
 
 
+- [2020-08-17-【第2036期】如何将Canvas绘制过程转为视频](https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335) ![](assets/new.png)  
+- [2020-08-16-【第2035期】React-17-RC-版发布：无新特性，却有新期待！](https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86) ![](assets/new.png)  
+- [2020-08-16-【开源】Reactant:-一个渐进式React的框架](https://www.ershicimi.com/p/03e9e1aa72383b954073d6d0100a7f4a) ![](assets/new.png)  
 - [2020-08-15-【第2034期】全民K歌推流直播Web实践](https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3)  
 - [2020-08-14-【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb)  
 - [2020-08-13-【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500)  
@@ -50,9 +53,6 @@
 - [2020-08-07-【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584)  
 - [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb)  
 - [2020-08-06-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa)  
-- [2020-08-06-京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673)  
-- [2020-08-05-【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)  
-- [2020-08-05-【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) ![](assets/new.png)  
+- [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc)  
 - [2020-08-14-如何衡量前端工程质量？我们有了平台化的解决方案](https://www.ershicimi.com/p/dd0656b355c467a5ea70699349234d43)  
 - [2020-08-14-TypeScript-4.0-RC发布，带来诸多更新](https://www.ershicimi.com/p/493c41b006bc86ce765d8a62eadaffbf)  
 - [2020-08-14-来呀，一起造出一个React框架！-|-极客大学](https://www.ershicimi.com/p/c5613ff6ece0feea538d048d2236e143)  

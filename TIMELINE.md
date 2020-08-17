@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-16 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-17 08:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【前端早读课】2020-08-17-【第2036期】如何将Canvas绘制过程转为视频](https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335) 
+- [【前端早读课】2020-08-16-【第2035期】React-17-RC-版发布：无新特性，却有新期待！](https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86) 
+- [【前端早读课】2020-08-16-【开源】Reactant:-一个渐进式React的框架](https://www.ershicimi.com/p/03e9e1aa72383b954073d6d0100a7f4a) 
 - [【前端早读课】2020-08-15-【第2034期】全民K歌推流直播Web实践](https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3) 
 - [【前端早读课】2020-08-14-【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb) 
 - [【前端早读课】2020-08-13-【第2032期】基于react的组件库主题设计方案](https://www.ershicimi.com/p/ff0f4cd3e9d5c338fec879861d8c1500) 
