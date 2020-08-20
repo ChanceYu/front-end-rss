@@ -15865,6 +15865,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Node.js 如何处理 ES6 模块",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html",
+        "date": "2020-08-20"
+      },
+      {
         "title": "科技爱好者周刊（第 120 期）：只有开放才能打败封锁",
         "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html",
         "date": "2020-08-14"

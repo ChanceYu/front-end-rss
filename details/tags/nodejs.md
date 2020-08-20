@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-19 18:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-20 18:00:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -121,6 +121,7 @@
 - [2017-12-13-管理-Node.js-进程从未如此优雅](https://fed.taobao.org/blog/2017/12/13/pandora/) 
 - [2017-08-31-深入理解-Node.js-Stream-内部机制](https://fed.taobao.org/blog/2017/08/31/nodejs-stream/) 
 - [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
+- [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html) 
 - [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html) 
 - [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html) 
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html) 
