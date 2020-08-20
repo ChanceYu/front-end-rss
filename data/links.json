@@ -15193,6 +15193,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS CustomEvent自定义事件传参小技巧",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/",
+        "date": "2020-08-20"
+      },
+      {
         "title": "CSS overflow-anchor属性与滚动锚定",
         "link": "https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/",
         "date": "2020-08-12"
