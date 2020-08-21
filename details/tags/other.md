@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-20 22:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-21-【图书】编程的原则：改善代码质量的101个方法](https://www.ershicimi.com/p/37af6a75fdb2f717235da66d87743226) 
 - [2020-08-14-【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb) 
 - [2020-08-12-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f) 
 - [2020-08-10-【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-20 22:00:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-21 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【前端早读课】2020-08-21-【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce) 
+- [【前端早读课】2020-08-21-【图书】编程的原则：改善代码质量的101个方法](https://www.ershicimi.com/p/37af6a75fdb2f717235da66d87743226) 
+- [【前端早读课】2020-08-20-【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661) 
+- [【前端早读课】2020-08-20-【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249) 
 - [【前端早读课】2020-08-19-【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979) 
 - [【前端早读课】2020-08-18-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/5f009967cba7777eba39d4014c783399) 
 - [【前端早读课】2020-08-18-【第2037期】React-Hooks-实践指南](https://www.ershicimi.com/p/1528e240db95f11b550049648079f145) 

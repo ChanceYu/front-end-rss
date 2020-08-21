@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-20 22:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-08-20-【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249) 
 - [2020-08-19-【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979) 
 - [2020-08-11-【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72) 
 - [2020-08-09-【第2028期】What-I'm-thinking-about:-JS疲劳、招聘](https://www.ershicimi.com/p/65b985e1834e3b5cfd21fd74691a5317) 

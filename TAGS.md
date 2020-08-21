@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-20 22:00:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 08:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661)
 - [【前端早读课】官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4)
 - [【前端早读课】【第1998期】拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/d4ac04a654c39379b5253aff9c8232e0)
 - [【前端早读课】【第1987期】Vue3-Compiler-优化细节，如何手写高性能渲染函数](https://www.ershicimi.com/p/5dcf852a329a6be57bf17707b0965d94)
@@ -93,7 +94,6 @@
 - [【前端早读课】【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)
 - [【前端早读课】你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)
 - [【前端早读课】【第1664期】Vue组件库工程探索与实践之单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=1&sn=79605b3c4baa61e0d2570a778c7deb0b#rd)
-- [【前端早读课】【第1656期】精读《Vue3.0-Function-API》](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=2&sn=12ef569f8e77adcc561595b38715a46e#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -182,6 +182,7 @@
 
 
 
+- [【前端早读课】【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce)
 - [【前端早读课】【第2004期】弄明白Deno与node的区别](https://www.ershicimi.com/p/365284240177804dce981aaaaf9251c1)
 - [【前端早读课】【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621)
 - [【前端早读课】【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)
@@ -201,7 +202,6 @@
 - [【前端早读课】【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd)
 - [【前端早读课】【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd)
 - [【前端早读课】【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect)
-- [【前端早读课】【招聘】AliExpress招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231202&idx=2&sn=18853570ec0182fbfd36648d46694dea#wechat_redirect)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249)
 - [【前端早读课】【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979)
 - [【前端早读课】【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72)
 - [【前端早读课】【第2028期】What-I'm-thinking-about:-JS疲劳、招聘](https://www.ershicimi.com/p/65b985e1834e3b5cfd21fd74691a5317)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)
 - [【前端早读课】【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)
 - [【前端早读课】【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)
-- [【前端早读课】【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【图书】编程的原则：改善代码质量的101个方法](https://www.ershicimi.com/p/37af6a75fdb2f717235da66d87743226)
 - [【前端早读课】【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb)
 - [【前端早读课】前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f)
 - [【前端早读课】【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2007期】前端架构鉴赏03：Angular-与-MVP-模式](https://www.ershicimi.com/p/89a6a07a9d1a5adcdab98dbc92f2e681)
 - [【前端早读课】【第2005期】闪电智能创作平台项目前端总结](https://www.ershicimi.com/p/4c2b2695ba7fbc23c191e136c1543f41)
 - [【前端早读课】【早读】修复Web应用程序中的内存泄漏](https://www.ershicimi.com/p/74cc7566c917483df5c448bf520294e7)
-- [【前端早读课】【早读】写给刚入门的前端工程师的前后端交互指南](https://www.ershicimi.com/p/71b3fd8852339e28fa588785c448928e)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
