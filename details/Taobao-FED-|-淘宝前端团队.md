@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-30 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-22 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Taobao-FED-|-淘宝前端团队
 
 
 
 
+- [2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle) 
 - [2020-07-29-业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems) 
 - [2020-06-02-Node.js-AsyncHooks-与异步回调上下文](https://fed.taobao.org/blog/taofed/do71ct/nodejs-asynchooks) 
 - [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) 

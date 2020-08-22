@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 18:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-22 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,7 @@
 - [【前端之巅】2020-08-03-谷歌7年前就开始收集安卓用户的敏感信息了？](https://www.ershicimi.com/p/710ca7add1b7f2cda2ae04a689193438) 
 - [【前端之巅】2020-08-03-前端人如何构建能力模型，高薪成长？-|-极客时间](https://www.ershicimi.com/p/ac76b421286fc2b59318b7522bb61efb) 
 - [【前端之巅】2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) 
+- [【Taobao-FED-|-淘宝前端团队】2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle) 
 - [【张鑫旭-鑫空间-鑫生活】2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
