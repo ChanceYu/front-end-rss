@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-22 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-22 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -188,6 +188,9 @@
 - [【前端大全】2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) 
 - [【前端大全】2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
 - [【前端大全】2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [【前端之巅】2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98) 
+- [【前端之巅】2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) 
+- [【前端之巅】2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036) 
 - [【前端之巅】2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f) 
 - [【前端之巅】2020-08-20-5-种提高开发速度的方法](https://www.ershicimi.com/p/04457acfa3d94d74ba67f47b1ba5bded) 
 - [【前端之巅】2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072) 

@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 08:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-22 18:00:11，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98) ![](assets/new.png)  
+- [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) ![](assets/new.png)  
+- [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036) ![](assets/new.png)  
 - [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f)  
 - [2020-08-20-5-种提高开发速度的方法](https://www.ershicimi.com/p/04457acfa3d94d74ba67f47b1ba5bded)  
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072)  
@@ -112,9 +115,6 @@
 - [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686)  
 - [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da)  
 - [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291)  
-- [2020-08-12-从0到1教你配置深度学习服务器，高维破题助攻机器学习！-|-活动推荐](https://www.ershicimi.com/p/8e2d4d1865ea806550287d585958e48b)  
-- [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6)  
-- [2020-08-11-如何在-Web-上大规模生成-UUID](https://www.ershicimi.com/p/439c67fd019b6392684956127a2db49e)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -126,7 +126,7 @@
 </summary>
 
 
-- [2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle) ![](assets/new.png)  
+- [2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle)  
 - [2020-07-29-业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems)  
 - [2020-06-02-Node.js-AsyncHooks-与异步回调上下文](https://fed.taobao.org/blog/taofed/do71ct/nodejs-asynchooks)  
 - [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test)  
