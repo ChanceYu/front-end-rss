@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 08:00:12，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 18:00:11，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-08-22-【第2041期】浅谈低代码平台涉及的一些技术选型](https://www.ershicimi.com/p/40277dad48572c03bccb5f59acf8da7a) ![](assets/new.png)  
-- [2020-08-22-【招聘】字节跳动杭州-Data-广告系统-展现优化招前端开发工程师（校招+社招）](https://www.ershicimi.com/p/062d9435803e76ddcbc362c09914370f) ![](assets/new.png)  
+- [2020-08-22-【第2041期】浅谈低代码平台涉及的一些技术选型](https://www.ershicimi.com/p/40277dad48572c03bccb5f59acf8da7a)  
+- [2020-08-22-【招聘】字节跳动杭州-Data-广告系统-展现优化招前端开发工程师（校招+社招）](https://www.ershicimi.com/p/062d9435803e76ddcbc362c09914370f)  
 - [2020-08-21-【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce)  
 - [2020-08-21-【图书】编程的原则：改善代码质量的101个方法](https://www.ershicimi.com/p/37af6a75fdb2f717235da66d87743226)  
 - [2020-08-20-【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661)  
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-08-22-为什么阿里-P6+-前端这么值钱？​](https://www.ershicimi.com/p/0ebcd3b72ee90b7e184da494007dc53a) ![](assets/new.png)  
+- [2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887) ![](assets/new.png)  
 - [2020-08-21-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/03a46bf49087ddf981c458059e99222c)  
 - [2020-08-21-这么痛苦的学习源码到底图个啥!](https://www.ershicimi.com/p/dd1d52aca322420337cda49499acbfc3)  
 - [2020-08-19-一步一步教你把-Redux-Saga-添加到-React＆Redux-程序中](https://www.ershicimi.com/p/d2cfe666ae63d09748c95b2d9130f170)  
@@ -82,8 +84,6 @@
 - [2020-08-11-嗯，手搓一个-TinyPng-压缩图片的-WebpackPlugin-也-SoEasy-啦](https://www.ershicimi.com/p/471baea15c3058f1c30b71ebbadb1748)  
 - [2020-08-10-1-小时带走前端大牛的求职攻略](https://www.ershicimi.com/p/7d03e34a92219ca4f7c8e139f45e0bca)  
 - [2020-08-10-H5-秒开方案大全](https://www.ershicimi.com/p/06ee25f076d1d8681c0699495fb505d7)  
-- [2020-08-09-sync_hooks、CLS-与-Node-中异步资源生命周期监听](https://www.ershicimi.com/p/be586e92c385df9fe0ce0da145608cb3)  
-- [2020-08-08-大厂面试过程复盘微信/阿里/头条,附答案篇](https://www.ershicimi.com/p/1c0ecd331da7dc8d59eb557b0732590f)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) ![](assets/new.png)  
 - [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98)  
 - [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19)  
 - [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036)  
@@ -114,7 +115,6 @@
 - [2020-08-13-软件史上最著名的10大Bug](https://www.ershicimi.com/p/baa4a19c76768f07918c5b1d514b433e)  
 - [2020-08-13-关于多端技术，这4个核心知识你get到了吗？](https://www.ershicimi.com/p/0365e21195e6f11ee3ac70e62e346686)  
 - [2020-08-12-WebAssembly如何演进成为“浏览器第二编程语言”？](https://www.ershicimi.com/p/56c87885ac8dc8089b05ee5931bba0da)  
-- [2020-08-12-6个常见的可访问性问题及解决方案](https://www.ershicimi.com/p/d3547dd3615918b17be6bd34fe67e291)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

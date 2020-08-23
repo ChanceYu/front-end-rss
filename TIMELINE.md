@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 08:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-23 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -160,6 +160,8 @@
 - [【前端早读课】2020-08-03-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8) 
 - [【前端早读课】2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de) 
 - [【前端早读课】2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) 
+- [【前端大全】2020-08-22-为什么阿里-P6+-前端这么值钱？​](https://www.ershicimi.com/p/0ebcd3b72ee90b7e184da494007dc53a) 
+- [【前端大全】2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887) 
 - [【前端大全】2020-08-21-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/03a46bf49087ddf981c458059e99222c) 
 - [【前端大全】2020-08-21-这么痛苦的学习源码到底图个啥!](https://www.ershicimi.com/p/dd1d52aca322420337cda49499acbfc3) 
 - [【前端大全】2020-08-19-一步一步教你把-Redux-Saga-添加到-React＆Redux-程序中](https://www.ershicimi.com/p/d2cfe666ae63d09748c95b2d9130f170) 
@@ -190,6 +192,7 @@
 - [【前端大全】2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) 
 - [【前端大全】2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
 - [【前端大全】2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [【前端之巅】2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) 
 - [【前端之巅】2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98) 
 - [【前端之巅】2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) 
 - [【前端之巅】2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036) 

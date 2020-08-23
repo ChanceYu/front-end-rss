@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 08:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -136,6 +136,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) 
 - [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) 
 - [2020-08-18-Microsoft-365挥别IE-11，IE“死”在了微软自己手里](https://www.ershicimi.com/p/6624d44bbe8b3cd74412ea0b86cdcbad) 
 - [2020-08-16-前端周报：谷歌开源-chromeOS.dev；-十余家美国企业联手抵制特朗普“封杀”微信；Angul](https://www.ershicimi.com/p/64729e7a6d3cc0184e99536b8a72d7fc) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-23 08:00:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 18:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,11 +125,11 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887)
 - [【前端大全】Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e)
 - [【前端大全】通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2)
 - [【前端大全】TypeScript和JavaScript混合开发，这或许是配上单元测试的最佳实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557811&idx=1&sn=aae17b82347310edd4a57fa47065bd65&chksm=80255872b752d164fb9ace8b2db15cd0907ed5dc7e18333ddd7ba38cdd363acfd00aef1fa2c9&scene=27#wechat_redirect)
 - [【前端大全】Typescript-那些好用的技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557703&idx=1&sn=10cf95081c2b5c134e15200192a642ef&chksm=80255886b752d1902180d91653c061b98bf083376402af39105f1120dfffcaa154284c930469&scene=27#wechat_redirect)
-- [【前端大全】Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
