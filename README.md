@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 18:00:11，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 08:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-08-22-为什么阿里-P6+-前端这么值钱？​](https://www.ershicimi.com/p/0ebcd3b72ee90b7e184da494007dc53a) ![](assets/new.png)  
-- [2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887) ![](assets/new.png)  
+- [2020-08-22-为什么阿里-P6+-前端这么值钱？​](https://www.ershicimi.com/p/0ebcd3b72ee90b7e184da494007dc53a)  
+- [2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887)  
 - [2020-08-21-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/03a46bf49087ddf981c458059e99222c)  
 - [2020-08-21-这么痛苦的学习源码到底图个啥!](https://www.ershicimi.com/p/dd1d52aca322420337cda49499acbfc3)  
 - [2020-08-19-一步一步教你把-Redux-Saga-添加到-React＆Redux-程序中](https://www.ershicimi.com/p/d2cfe666ae63d09748c95b2d9130f170)  
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) ![](assets/new.png)  
+- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd)  
 - [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98)  
 - [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19)  
 - [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036)  
@@ -126,6 +126,9 @@
 </summary>
 
 
+- [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) ![](assets/new.png)  
+- [2020-08-16-淘系运营工作台前端体系](https://fed.taobao.org/blog/taofed/do71ct/oyf9hm) ![](assets/new.png)  
+- [2020-08-13-一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo) ![](assets/new.png)  
 - [2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle)  
 - [2020-07-29-业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems)  
 - [2020-06-02-Node.js-AsyncHooks-与异步回调上下文](https://fed.taobao.org/blog/taofed/do71ct/nodejs-asynchooks)  
@@ -143,9 +146,6 @@
 - [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas)  
 - [2019-10-16-Rax-1.0-版本更新与特性介绍](https://fed.taobao.org/blog/taofed/do71ct/rax-version-one-features)  
 - [2019-09-23-兼容vscode插件的主题服务](https://fed.taobao.org/blog/taofed/do71ct/custom-theme-in-vscode)  
-- [2019-09-03-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/taofed/do71ct/make-infinite-scroll)  
-- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time)  
-- [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

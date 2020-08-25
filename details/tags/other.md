@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -889,6 +889,8 @@
 - [2018-09-27-首屏时间从12.67s到1.06s，我是如何做到的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489586&idx=1&sn=2168d42df837521da50b3ed7f8932698#wechat_redirect) 
 - [2018-09-19-阿里是如何让iOS-12越狱成功的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489540&idx=1&sn=8980507d976172e81254d150d5f45c45#wechat_redirect) 
 - [2018-09-17-15行代码让苹果设备崩溃，最新的iOS-12也无法幸免](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489528&idx=1&sn=8ceff768a5ec95eab0e06568ad34dca2#wechat_redirect) 
+- [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc) 
+- [2020-08-16-淘系运营工作台前端体系](https://fed.taobao.org/blog/taofed/do71ct/oyf9hm) 
 - [2020-08-10-我在阿里收获的N个成长](https://fed.taobao.org/blog/taofed/do71ct/reqhle) 
 - [2020-07-29-业务前端如何突破困境](https://fed.taobao.org/blog/taofed/do71ct/front-end-problems) 
 - [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) 
