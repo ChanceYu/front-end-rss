@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 18:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-26 08:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,13 @@
 </summary>
 
 
+- [【前端早读课】2020-08-26-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa) 
+- [【前端早读课】2020-08-25-【第2044期】React-Hooks-设计思想](https://www.ershicimi.com/p/63dfed5cb476fa7f223ea64a5df4f28e) 
+- [【前端早读课】2020-08-25-【招聘】饿了么外卖终端技术---小程序团队招前端（杭州-+-上海）](https://www.ershicimi.com/p/2ac32e2e8da7d2eb2bf9841ac6bd0a4c) 
+- [【前端早读课】2020-08-24-前端工程师如何修炼自己的编程内力](https://www.ershicimi.com/p/21e52d1a5e449e70a449422658cb4271) 
+- [【前端早读课】2020-08-24-【第2043期】Design-Tokens-——-设计与开发碰撞的火花](https://www.ershicimi.com/p/35ee80358033c8cd3825f02a98fac670) 
+- [【前端早读课】2020-08-24-【图书】重来3：跳出疯狂的忙碌](https://www.ershicimi.com/p/4130ff8e27efb05029017101fce2d324) 
+- [【前端早读课】2020-08-23-【第2042期】程序员如何把控自己的职业](https://www.ershicimi.com/p/ca3438e04b4906929931b448b7f1e6fc) 
 - [【前端早读课】2020-08-22-【第2041期】浅谈低代码平台涉及的一些技术选型](https://www.ershicimi.com/p/40277dad48572c03bccb5f59acf8da7a) 
 - [【前端早读课】2020-08-22-【招聘】字节跳动杭州-Data-广告系统-展现优化招前端开发工程师（校招+社招）](https://www.ershicimi.com/p/062d9435803e76ddcbc362c09914370f) 
 - [【前端早读课】2020-08-21-【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce) 

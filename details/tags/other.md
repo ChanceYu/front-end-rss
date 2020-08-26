@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-08-25 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-26 08:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-26-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa) 
+- [2020-08-24-前端工程师如何修炼自己的编程内力](https://www.ershicimi.com/p/21e52d1a5e449e70a449422658cb4271) 
+- [2020-08-24-【第2043期】Design-Tokens-——-设计与开发碰撞的火花](https://www.ershicimi.com/p/35ee80358033c8cd3825f02a98fac670) 
+- [2020-08-24-【图书】重来3：跳出疯狂的忙碌](https://www.ershicimi.com/p/4130ff8e27efb05029017101fce2d324) 
+- [2020-08-23-【第2042期】程序员如何把控自己的职业](https://www.ershicimi.com/p/ca3438e04b4906929931b448b7f1e6fc) 
 - [2020-08-22-【第2041期】浅谈低代码平台涉及的一些技术选型](https://www.ershicimi.com/p/40277dad48572c03bccb5f59acf8da7a) 
 - [2020-08-21-【图书】编程的原则：改善代码质量的101个方法](https://www.ershicimi.com/p/37af6a75fdb2f717235da66d87743226) 
 - [2020-08-14-【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb) 
