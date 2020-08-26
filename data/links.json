@@ -16045,6 +16045,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "rsync 用法教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/rsync.html",
+        "date": "2020-08-26"
+      },
+      {
         "title": "科技爱好者周刊（第 121 期）：为什么人类没有越来越闲？",
         "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html",
         "date": "2020-08-21"
