@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-28 08:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-28 12:00:10，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-08-27-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91) ![](assets/new.png)  
-- [2020-08-27-【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c) ![](assets/new.png)  
+- [2020-08-27-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91)  
+- [2020-08-27-【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c)  
 - [2020-08-26-【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa)  
 - [2020-08-25-【第2044期】React-Hooks-设计思想](https://www.ershicimi.com/p/63dfed5cb476fa7f223ea64a5df4f28e)  
 - [2020-08-25-【招聘】饿了么外卖终端技术---小程序团队招前端（杭州-+-上海）](https://www.ershicimi.com/p/2ac32e2e8da7d2eb2bf9841ac6bd0a4c)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-08-28-科技爱好者周刊（第-122-期）：谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html) ![](assets/new.png)  
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html)  
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)  
@@ -207,7 +208,6 @@
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
-- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
