@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-28 18:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -434,6 +434,7 @@
 
 
 
+- [【前端早读课】【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53)
 - [【前端早读课】【第2034期】全民K歌推流直播Web实践](https://www.ershicimi.com/p/418fa8175221ad03a3dc474f0ba433a3)
 - [【前端早读课】【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320)
 - [【前端早读课】【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5)
@@ -453,7 +454,6 @@
 - [【前端早读课】【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd)
 - [【前端早读课】【视频】探索Web编程的另一种形态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232632&idx=2&sn=dd0bf6cf6a5515fd2506e1d02f76277a#rd)
 - [【前端早读课】【开源】知乎视频播放器-Griffith-介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231964&idx=2&sn=d111f603bfe7a7eaafc88676a5094bc0#rd)
-- [【前端早读课】【招聘】腾讯IVWEB前端团队-互动视频招前端／2020前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231595&idx=2&sn=6e1b30e5e9cb5895ffc9034d22b0837d#wechat_redirect)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c)
 - [【前端早读课】【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2)
 - [【前端早读课】【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家](https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19)
 - [【前端早读课】【招聘】北京猎聘多面中心招高级前端开发工程师](https://www.ershicimi.com/p/8051d6fde1f84fe20c31249ee0701e70)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】腾讯云DNSPod团队招聘web前端开发](https://www.ershicimi.com/p/9c750b99e36a0382c79af63491c97a21)
 - [【前端早读课】【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61)
 - [【前端早读课】【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3)
-- [【前端早读课】【招聘】北京美团商家金融服务招聘高级前端工程师](https://www.ershicimi.com/p/ca0f836d695c53be6ae530f0dc5c67d0)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a)
 - [【前端早读课】【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91)
 - [【前端早读课】【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c)
 - [【前端早读课】【第2045期】从零开始实现VS-Code基金插件](https://www.ershicimi.com/p/fb15505fd6f7debd9827389b1cc632aa)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3)
 - [【前端早读课】【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de)
 - [【前端早读课】【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4)
-- [【前端早读课】2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
