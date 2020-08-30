@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-30 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-30 18:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -173,6 +173,7 @@
 - [【前端早读课】2020-08-03-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8) 
 - [【前端早读课】2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de) 
 - [【前端早读课】2020-08-01-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) 
+- [【前端大全】2020-08-29-前端工程师不可不知的-Nginx-知识](https://www.ershicimi.com/p/3ac56accf0c7fee739407974f9ea06e5) 
 - [【前端大全】2020-08-28-9-月快来了，又是骑驴找马的日子](https://www.ershicimi.com/p/da35e3aacb3bfc9a54c0b93b57434bce) 
 - [【前端大全】2020-08-28-是谁动了我的-DOM？](https://www.ershicimi.com/p/876fdf28d2d3525c89d6ec8c706ee990) 
 - [【前端大全】2020-08-27-TypeScript-4.0-来了，有什么新的关注点？](https://www.ershicimi.com/p/f7eae2089b96a795d540ca01c6da9fe1) 
@@ -215,6 +216,10 @@
 - [【前端大全】2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) 
 - [【前端大全】2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
 - [【前端大全】2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [【前端之巅】2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) 
+- [【前端之巅】2020-08-28-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/45ed7e0eead9a279d85819e21b2bc91b) 
+- [【前端之巅】2020-08-28-Electron-10正式发布：终止对-7.xy-的支持](https://www.ershicimi.com/p/8c95a1f84c833e102f8c423d2b6fdae5) 
+- [【前端之巅】2020-08-28-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/b4beb9111d20cada83aa476b36b8eb21) 
 - [【前端之巅】2020-08-27-抛弃x86的苹果，意味着什么？](https://www.ershicimi.com/p/bbf488cc0dfbcc4f1b319f1ae1407de5) 
 - [【前端之巅】2020-08-27-成为优秀程序员需要具备的6个特质](https://www.ershicimi.com/p/5bfb1a22a69998e669ee6a2b6da068fc) 
 - [【前端之巅】2020-08-26-Scott：总结-10-年前端经验，谈谈前端人如何更快地成长](https://www.ershicimi.com/p/f4c8ccbc4d1b5acbef12b6688af1bd53) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-30 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -13,6 +13,7 @@
 - [2019-04-22-【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd) 
 - [2019-03-14-GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd) 
 - [2019-02-17-【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect) 
+- [2020-08-29-前端工程师不可不知的-Nginx-知识](https://www.ershicimi.com/p/3ac56accf0c7fee739407974f9ea06e5) 
 - [2020-06-23-一文快速入门-GraphQL](https://www.ershicimi.com/p/7b1b3e86527bf2b79120d85de1c19efa) 
 - [2020-03-14-前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/9514870038bcd28b54cb8b3723471013) 
 - [2019-09-02-面试加分项之-Nginx-反向代理与负载均衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557010&idx=1&sn=11ef5ff952219d6dddec7e40b830f822&chksm=80255b53b752d2458c8dc8fde12d35804e18499e20b8e4d57924ce700d2c7e45e589e89c6573#rd) 

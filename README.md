@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-30 08:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-30 18:00:08，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2020-08-30-【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362) ![](assets/new.png)  
+- [2020-08-30-【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362)  
 - [2020-08-29-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a)  
 - [2020-08-29-【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c)  
 - [2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53)  
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-29-前端工程师不可不知的-Nginx-知识](https://www.ershicimi.com/p/3ac56accf0c7fee739407974f9ea06e5) ![](assets/new.png)  
 - [2020-08-28-9-月快来了，又是骑驴找马的日子](https://www.ershicimi.com/p/da35e3aacb3bfc9a54c0b93b57434bce)  
 - [2020-08-28-是谁动了我的-DOM？](https://www.ershicimi.com/p/876fdf28d2d3525c89d6ec8c706ee990)  
 - [2020-08-27-TypeScript-4.0-来了，有什么新的关注点？](https://www.ershicimi.com/p/f7eae2089b96a795d540ca01c6da9fe1)  
@@ -83,7 +84,6 @@
 - [2020-08-18-了不起的-IoC-与-DI](https://www.ershicimi.com/p/764b4a3b34fc42b05ae1d7abe8a6b72f)  
 - [2020-08-17-20k-以上面试必问，Webpack-原理和优化](https://www.ershicimi.com/p/51c5279bd63ef4cbd7c2c430f8e6d6c7)  
 - [2020-08-17-JavaScrpit-AST-实战](https://www.ershicimi.com/p/26a3bf557e409800c98a00e963a7773d)  
-- [2020-08-16-提升低端设备的-Web-性能](https://www.ershicimi.com/p/894903f58e495500cd6089c2abef76b0)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2020-08-30-前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome-85发布，提高页面加载速度；iPhon](https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb) ![](assets/new.png)  
+- [2020-08-28-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/45ed7e0eead9a279d85819e21b2bc91b) ![](assets/new.png)  
+- [2020-08-28-Electron-10正式发布：终止对-7.xy-的支持](https://www.ershicimi.com/p/8c95a1f84c833e102f8c423d2b6fdae5) ![](assets/new.png)  
+- [2020-08-28-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/b4beb9111d20cada83aa476b36b8eb21) ![](assets/new.png)  
 - [2020-08-27-抛弃x86的苹果，意味着什么？](https://www.ershicimi.com/p/bbf488cc0dfbcc4f1b319f1ae1407de5)  
 - [2020-08-27-成为优秀程序员需要具备的6个特质](https://www.ershicimi.com/p/5bfb1a22a69998e669ee6a2b6da068fc)  
 - [2020-08-26-Scott：总结-10-年前端经验，谈谈前端人如何更快地成长](https://www.ershicimi.com/p/f4c8ccbc4d1b5acbef12b6688af1bd53)  
@@ -111,10 +115,6 @@
 - [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f)  
 - [2020-08-20-5-种提高开发速度的方法](https://www.ershicimi.com/p/04457acfa3d94d74ba67f47b1ba5bded)  
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072)  
-- [2020-08-19-Mac-恶意软件通过-Xcode-项目传播，受影响-IP-大多在中国和印度](https://www.ershicimi.com/p/3d51af78aa7c5cdbcb459fb69ad6ab96)  
-- [2020-08-19-“Android-开发还有什么可以学习的？”-|-极客时间](https://www.ershicimi.com/p/bfc4b7a2ca71765577547d8139435fbc)  
-- [2020-08-18-Microsoft-365挥别IE-11，IE“死”在了微软自己手里](https://www.ershicimi.com/p/6624d44bbe8b3cd74412ea0b86cdcbad)  
-- [2020-08-18-快手Android-OOM治理实践与思考丨InfoQ大咖说](https://www.ershicimi.com/p/5d9fc46be2301d91f92938ac74696eb7)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
