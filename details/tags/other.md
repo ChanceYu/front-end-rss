@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-29 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-08-30-【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362) 
 - [2020-08-29-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a) 
 - [2020-08-27-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91) 
 - [2020-08-27-【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c) 

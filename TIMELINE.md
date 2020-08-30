@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-29 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-30 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端早读课】2020-08-30-【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362) 
 - [【前端早读课】2020-08-29-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a) 
 - [【前端早读课】2020-08-29-【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c) 
 - [【前端早读课】2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53) 

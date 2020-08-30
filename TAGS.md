@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-29 08:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-30 08:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362)
 - [【前端早读课】【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a)
 - [【前端早读课】【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91)
 - [【前端早读课】【重磅】飞冰（ICE）终于支持无线开发了](https://www.ershicimi.com/p/0e35a7f9130b107de41f3aa4482b066c)
@@ -739,7 +740,6 @@
 - [【前端早读课】如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c)
 - [【前端早读课】【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3)
 - [【前端早读课】【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de)
-- [【前端早读课】【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
