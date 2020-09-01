@@ -5217,6 +5217,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "为什么我不再用Vue，改用React？",
+        "link": "https://www.ershicimi.com/p/d25343cb02f59de31614fb9974517bab",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "这些手写代码会了吗？少年",
+        "link": "https://www.ershicimi.com/p/d1e7ea51424bd52ecf6f1e97ee7dc25e",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "谷歌发布 Chrome 85 稳定版，引入 PGO，页面加载速度提升 10%",
+        "link": "https://www.ershicimi.com/p/b6ecdac0e9f67afe4f5b260a6b06ed42",
+        "date": "2020-08-30"
+      },
+      {
         "title": "前端工程师不可不知的 Nginx 知识",
         "link": "https://www.ershicimi.com/p/3ac56accf0c7fee739407974f9ea06e5",
         "date": "2020-08-29"
@@ -10193,6 +10208,31 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "我用React和Vue构建了同款应用，来看看哪里不一样（2020版）",
+        "link": "https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告",
+        "link": "https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "一些建议：给当年刚做程序员的我",
+        "link": "https://www.ershicimi.com/p/21225df10b21c1ab025627eebf6f5832",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "Chrome开发工具插件推荐",
+        "link": "https://www.ershicimi.com/p/23f3b3bc24f29c8556fcc3df82a23e92",
+        "date": "2020-08-31"
+      },
+      {
+        "title": "二面阿里惨败，全是算法基本功的问题··· | 极客大学",
+        "link": "https://www.ershicimi.com/p/87f10d6722414698e6f270ae4d5574a8",
+        "date": "2020-08-31"
+      },
       {
         "title": "前端周报：沃尔玛宣布与微软合作竞购TikTok；Chrome 85发布，提高页面加载速度；iPhon",
         "link": "https://www.ershicimi.com/p/ce99efe8bf1ce756e6dd42496a7f7dcb",
