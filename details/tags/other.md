@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-03 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-04 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -947,6 +947,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) 
 - [2020-08-28-科技爱好者周刊（第-122-期）：谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html) 
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) 
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html) 

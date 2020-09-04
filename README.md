@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-03 18:00:09，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 12:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-09-03-顶级React组件库推荐](https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802) ![](assets/new.png)  
-- [2020-09-03-前端智能化实践：从图片识别UI样式](https://www.ershicimi.com/p/b2888b1a9a3bdb371ab8ea370ac4dedd) ![](assets/new.png)  
-- [2020-09-02-十年后将要消失的五种编程语言](https://www.ershicimi.com/p/aaf27e6bdc3307989e05fb597131f0f1) ![](assets/new.png)  
-- [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f) ![](assets/new.png)  
-- [2020-09-02-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/5cc6b3989df99b55e93436a1b34a631e) ![](assets/new.png)  
+- [2020-09-03-顶级React组件库推荐](https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802)  
+- [2020-09-03-前端智能化实践：从图片识别UI样式](https://www.ershicimi.com/p/b2888b1a9a3bdb371ab8ea370ac4dedd)  
+- [2020-09-02-十年后将要消失的五种编程语言](https://www.ershicimi.com/p/aaf27e6bdc3307989e05fb597131f0f1)  
+- [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f)  
+- [2020-09-02-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/5cc6b3989df99b55e93436a1b34a631e)  
 - [2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e)  
 - [2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9)  
 - [2020-08-31-一些建议：给当年刚做程序员的我](https://www.ershicimi.com/p/21225df10b21c1ab025627eebf6f5832)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) ![](assets/new.png)  
 - [2020-08-28-科技爱好者周刊（第-122-期）：谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html)  
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html)  
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
@@ -207,7 +208,6 @@
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html)  
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
-- [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
