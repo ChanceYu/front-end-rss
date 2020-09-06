@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 18:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-07 06:00:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,6 +133,7 @@
 - [【前端之巅】2020-09-02-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/5cc6b3989df99b55e93436a1b34a631e) 
 - [【前端之巅】2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) 
 - [【前端之巅】2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
+- [【张鑫旭-鑫空间-鑫生活】2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) 
 - [【阮一峰的网络日志】2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

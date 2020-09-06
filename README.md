@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-06 18:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-07 06:00:07，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2020-09-06-前端周报：收入最高的-15-种编程语言榜单出炉；微软宣布关闭-VS-Codespaces；KMM-进](https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a) ![](assets/new.png)  
+- [2020-09-06-前端周报：收入最高的-15-种编程语言榜单出炉；微软宣布关闭-VS-Codespaces；KMM-进](https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a)  
 - [2020-09-04-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2)  
 - [2020-09-04-滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba)  
 - [2020-09-04-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/b35f182ae37593e5cd3c3c5b9d1983fd)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) ![](assets/new.png)  
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/)  
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/)  
 - [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)  
@@ -176,7 +177,6 @@
 - [2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)  
 - [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/)  
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/)  
-- [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
