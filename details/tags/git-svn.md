@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,6 +7,9 @@
 
 
 
+- [2020-09-03-【第2053期】这才是真正的Git——Git实用技巧](https://www.ershicimi.com/p/7d7385718b77d4f2a7253594e7f9c83a) 
+- [2020-09-01-【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa) 
+- [2020-08-31-【第2050期】这才是真正的Git——Git内部原理揭秘！](https://www.ershicimi.com/p/a02843f139248ff6303e3ca85c366ae6) 
 - [2020-02-22-【第1864期】手撕Git，告别盲目记忆](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235750&idx=1&sn=bdc3d6938b34638c3868d3c69e763f8b&chksm=bd497c228a3ef53478d4c6e9cf3f266f684dc76525917674d0bfa91d50e757837e7545480492&scene=27#wechat_redirect) 
 - [2020-01-01-【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect) 
 - [2019-10-09-【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect) 

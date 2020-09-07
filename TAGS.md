@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-07 06:00:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-07 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【前端早读课】React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68)
 - [【前端早读课】【第2044期】React-Hooks-设计思想](https://www.ershicimi.com/p/63dfed5cb476fa7f223ea64a5df4f28e)
 - [【前端早读课】【第2037期】React-Hooks-实践指南](https://www.ershicimi.com/p/1528e240db95f11b550049648079f145)
 - [【前端早读课】【第2035期】React-17-RC-版发布：无新特性，却有新期待！](https://www.ershicimi.com/p/bc2f78439648d4259c89c2977e549c86)
@@ -57,7 +58,6 @@
 - [【前端早读课】【第1774期】详细preact-hook源码逐行解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234625&idx=2&sn=1a53cd479a6465f8f3e5fd9133ad9db3&chksm=bd4978c58a3ef1d34600d927cedc65af44bade7c6c084d4af023e1fc1cb77c72be77eb076157&scene=27#wechat_redirect)
 - [【前端早读课】【第1773期】19-个来自-2019-React-Conf-的总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234614&idx=1&sn=ffd14ba026a242ae2a7371fd30d6ea57&chksm=bd4978b28a3ef1a4d80bc066cbb03b844b48958f3f3c0faec19c04efd2509b0f726ed87eb9b4&scene=27#wechat_redirect)
 - [【前端早读课】【第1770期】利用-React-组件的“黄金法则"让代码更优雅之如何发挥钩子的作用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234595&idx=1&sn=4f6dbae75d6ade20e5796ed36eb6871e&chksm=bd4978a78a3ef1b1f5ffe75102fb8823d07fb8080229c2313a92b9efb4cc96120bc3651ef713&scene=27#wechat_redirect)
-- [【前端早读课】【第1960期】ReactJS-中的代码注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234384&idx=1&sn=082f11bb593c23fe550671cf06a4e220&chksm=bd4979d48a3ef0c2b47ac0c9542233763fcb7f45d2da39d489f51487a4e05b64572d8591a1e0&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -290,6 +290,7 @@
 
 
 
+- [【前端早读课】【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603)
 - [【前端早读课】【招聘】厦门4399游戏2020届校园招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=2&sn=ecd1cdf9b212793e8f42d58bfbb9ecc7&chksm=bd49446d8a3ecd7b6a4a172c776d7e7521c8c4d2302042df76bc871cb7092a30888ec8b08f8d#rd)
 - [【前端早读课】【第1713期】腾讯TGideas@花叔：我的小游戏开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd)
 - [【前端早读课】W3C-Web-游戏技术研讨会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=3&sn=0f0582994ef74a7ee2014109680a0f20&chksm=bd4945448a3ecc5288f06bc515f8f02fd7f868f1e270c48c091d806afda31364abbbe5a82796#rd)
@@ -309,7 +310,6 @@
 - [【前端之巅】月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd)
 - [【前端之巅】框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd)
 - [【Taobao-FED-|-淘宝前端团队】Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame)
-- [【Taobao-FED-|-淘宝前端团队】Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3)
 - [【前端早读课】【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249)
 - [【前端早读课】【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979)
 - [【前端早读课】【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)
 - [【前端早读课】【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)
 - [【前端早读课】【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)
-- [【前端早读课】【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第2052期】保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/42443e8de5b8f50f235e1c17f798afa2)
 - [【前端早读课】【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)
 - [【前端早读课】【第2000期】奇妙的-CSS-MASK](https://www.ershicimi.com/p/e328a76d14fb6c8ad236c97ae091d454)
 - [【前端早读课】【早读】使用-CSS-来做素数的判定与筛选](https://www.ershicimi.com/p/6271dbe23c1f116a8c50312b6c692359)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第1699期】正确处理下载文件时HTTP头的编码问题（Content-Disposition）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=1&sn=b2f3ab11473b2ff849d03b9a237b0394&chksm=bd4945b68a3ecca0d2bfea9103969b83818d89fe7ddc7900b89232864472a0714a14d9c77332#rd)
 - [【前端早读课】【第1696期】-Serverless-For-Frontend-前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233300&idx=1&sn=678e1bbf5db564f597bb67fe1225ca9b&chksm=bd4945908a3ecc863235bfc799a8e2d93a3102963f23accde8ff5e4a216960c0a2dbfc521851#rd)
 - [【前端早读课】【第1625期】-从原型图到成品：步步深入-CSS-布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232375&idx=1&sn=c69f5fa559be00b0af291b0853becd8d#rd)
-- [【前端早读课】【第1616期】探索-Serverless-中的前端开发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232301&idx=2&sn=609d45079a8fbacec500d5f0dc9bf89c#rd)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -614,6 +614,9 @@
 
 
 
+- [【前端早读课】【第2053期】这才是真正的Git——Git实用技巧](https://www.ershicimi.com/p/7d7385718b77d4f2a7253594e7f9c83a)
+- [【前端早读课】【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa)
+- [【前端早读课】【第2050期】这才是真正的Git——Git内部原理揭秘！](https://www.ershicimi.com/p/a02843f139248ff6303e3ca85c366ae6)
 - [【前端早读课】【第1864期】手撕Git，告别盲目记忆](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235750&idx=1&sn=bdc3d6938b34638c3868d3c69e763f8b&chksm=bd497c228a3ef53478d4c6e9cf3f266f684dc76525917674d0bfa91d50e757837e7545480492&scene=27#wechat_redirect)
 - [【前端早读课】【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect)
 - [【前端早读课】【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect)
@@ -631,9 +634,6 @@
 - [【前端之巅】中国开源前端为王？GitHub-5.4亿条日志背后的数据故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493720&idx=1&sn=10bb747764cb1e1cec2ab9ee279bfd3d&chksm=f9525d1bce25d40ddfffe101f59612538a5e95dcdf38e70545dbeb23a83a57c8f80afc037b88&scene=27#wechat_redirect)
 - [【前端之巅】CI/CD现代史，从Jenkins到GitHub-Actions](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492960&idx=2&sn=1e3a1033b453427125a47a7d3f5c991a&chksm=f9525023ce25d93568801f0088572d1f6a5c9f89cd0c8baa3a6b873bdf5ea44e6095d32a3dac&scene=27#wechat_redirect)
 - [【前端之巅】GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect)
-- [【Taobao-FED-|-淘宝前端团队】如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/)
-- [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
-- [【阮一峰的网络日志】如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,8 @@
 
 
 
+- [【前端早读课】【招聘】阿里云GTS交付技术部在西安、成都等地的产品研发测试等岗位招聘啦](https://www.ershicimi.com/p/f79d3baa7325ace1d4b71047702a8095)
+- [【前端早读课】【招聘】阿里淘宝事业群C2M事业部招资深前端开发工程师/P6](https://www.ershicimi.com/p/c66a63b15451a0cf214b48a65d8d58ee)
 - [【前端早读课】【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c)
 - [【前端早读课】【招聘】深圳富途招聘web前后端工程师](https://www.ershicimi.com/p/463fa6ca716034ec83c584b847eefac2)
 - [【前端早读课】【招聘】微医集团前端技术部招高级前端开发工程师及前端技术专家](https://www.ershicimi.com/p/01b1405da53014f424c46c2d7e799c19)
@@ -668,8 +670,6 @@
 - [【前端早读课】【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62)
 - [【前端早读课】【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8)
 - [【前端早读课】【招聘】腾讯云DNSPod团队招聘web前端开发](https://www.ershicimi.com/p/9c750b99e36a0382c79af63491c97a21)
-- [【前端早读课】【招聘】Shopee金融部门急招前端开发工程师](https://www.ershicimi.com/p/89d0baae41b295c42a03154de3cd0d61)
-- [【前端早读课】【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,9 @@
 
 
 
+- [【前端早读课】【第2057期】随机数的故事](https://www.ershicimi.com/p/30e5cdf40afca89496cf46e7f7211811)
+- [【前端早读课】【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://www.ershicimi.com/p/13bf52c17564c88b2774643ce8ba4346)
+- [【前端早读课】【第2054期】不顾一切找圆角-——-Figma-实时平滑圆角方案探究](https://www.ershicimi.com/p/f6bcfa9de57bf2f0f95ae825c1819ea7)
 - [【前端早读课】【第2049期】从第一代-iPhone-细数到-iPhone-12，iPhone-屏幕尺寸进化历程背](https://www.ershicimi.com/p/b67e4fdc4d2b694f53d7a8089bd9c362)
 - [【前端早读课】【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a)
 - [【前端早读课】【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91)
@@ -737,9 +740,6 @@
 - [【前端早读课】【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1)
 - [【前端早读课】当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb)
 - [【前端早读课】京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673)
-- [【前端早读课】如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c)
-- [【前端早读课】【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀](https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3)
-- [【前端早读课】【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
