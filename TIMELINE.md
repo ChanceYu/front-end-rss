@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 18:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-09 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -132,6 +132,7 @@
 - [【前端早读课】2020-09-02-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) 
 - [【前端早读课】2020-09-02-【第2052期】保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/42443e8de5b8f50f235e1c17f798afa2) 
 - [【前端早读课】2020-09-01-【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa) 
+- [【前端大全】2020-09-08-从外包到-React-核心团队成员](https://www.ershicimi.com/p/83a31cd3cc5ae4c47aa0cdae71c1fb7b) 
 - [【前端大全】2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258) 
 - [【前端大全】2020-09-07-关于-ref-的一切](https://www.ershicimi.com/p/c2c22ae06a423a86bede40a9d24c1482) 
 - [【前端大全】2020-09-06-SourceMap知多少：介绍与实践](https://www.ershicimi.com/p/5fa24b0cad0d3b029d2e9e489558557c) 
