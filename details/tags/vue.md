@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-09 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-09-08-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e) 
 - [2020-08-20-【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661) 
 - [2020-07-14-官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4) 
 - [2020-07-10-【第1998期】拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/d4ac04a654c39379b5253aff9c8232e0) 

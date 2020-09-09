@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-09 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-09 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e)
 - [【前端早读课】【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661)
 - [【前端早读课】官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4)
 - [【前端早读课】【第1998期】拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/d4ac04a654c39379b5253aff9c8232e0)
@@ -93,7 +94,6 @@
 - [【前端早读课】【PPT】Vue.js-团队成员蒋豪群：现代前端框架如何提高你的效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=1&sn=0b1512c429b4c6e90e8d940a457f4b9e&chksm=bd4944f88a3ecdeedc8755eeca383ba8fc9305d697cfba113fe7a2e72f4a1316eeb844029ab3#rd)
 - [【前端早读课】【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)
 - [【前端早读课】你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)
-- [【前端早读课】【第1664期】Vue组件库工程探索与实践之单元测试](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=1&sn=79605b3c4baa61e0d2570a778c7deb0b#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327)
 - [【前端早读课】【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968)
 - [【前端早读课】【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa)
 - [【前端早读课】【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](https://www.ershicimi.com/p/f1b91eb7d0e70ede26ac13b84fe25f1e)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd)
 - [【前端早读课】一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect)
 - [【前端早读课】【第1694期】-Code-Review最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=1&sn=89861a3ee42df82b1bf5820e0cf8b207&chksm=bd4942718a3ecb67a807e45bde87de4369f82a8ef6caa8b07ec568f7e81a6dc52a22b3549d55#rd)
-- [【前端早读课】【第1693期】被验证过的-Code-Review-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=2&sn=88bc06e3a888e29a290e28109f06e7d9&chksm=bd4942638a3ecb75e30be9a843c06e2eb2dcd903d504c953ea23b91c20188e2f2f2af15e6a6a#rd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5)
 - [【前端早读课】【第2057期】随机数的故事](https://www.ershicimi.com/p/30e5cdf40afca89496cf46e7f7211811)
 - [【前端早读课】【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://www.ershicimi.com/p/13bf52c17564c88b2774643ce8ba4346)
 - [【前端早读课】【第2054期】不顾一切找圆角-——-Figma-实时平滑圆角方案探究](https://www.ershicimi.com/p/f6bcfa9de57bf2f0f95ae825c1819ea7)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80)
 - [【前端早读课】【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1)
 - [【前端早读课】当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb)
-- [【前端早读课】京东物流风格-NutUI-发布了](https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
