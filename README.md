@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-09 08:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-10 08:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,9 +33,10 @@
 </summary>
 
 
-- [2020-09-09-【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5) ![](assets/new.png)  
-- [2020-09-08-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e) ![](assets/new.png)  
-- [2020-09-08-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327) ![](assets/new.png)  
+- [2020-09-10-【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b) ![](assets/new.png)  
+- [2020-09-09-【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5)  
+- [2020-09-08-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e)  
+- [2020-09-08-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327)  
 - [2020-09-07-【第2057期】随机数的故事](https://www.ershicimi.com/p/30e5cdf40afca89496cf46e7f7211811)  
 - [2020-09-06-【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://www.ershicimi.com/p/13bf52c17564c88b2774643ce8ba4346)  
 - [2020-09-05-【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3)  
@@ -52,7 +53,6 @@
 - [2020-08-29-【第2048期】网站的不同版本可能会同时运行](https://www.ershicimi.com/p/60457e3141b8d16b2c94d07bcc5d297a)  
 - [2020-08-29-【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c)  
 - [2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53)  
-- [2020-08-27-【第2046期】苹果-App-Clip-技术详解](https://www.ershicimi.com/p/f6c37ebd21d55e70c1c7512618d68b91)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

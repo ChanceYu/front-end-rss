@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-09 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-10 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b)
 - [【前端早读课】【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327)
 - [【前端早读课】【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968)
 - [【前端早读课】【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第1702期】针对web开发者的浏览器缓存指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=1&sn=f7153ed423caa21fb0b5fa513212403f&chksm=bd4945ca8a3eccdc9c688f4f2b88b1027c9bbab65ba52202a92eeb8f119dd467c10775e3b42c#rd)
 - [【前端早读课】【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd)
 - [【前端早读课】一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect)
-- [【前端早读课】【第1694期】-Code-Review最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233269&idx=1&sn=89861a3ee42df82b1bf5820e0cf8b207&chksm=bd4942718a3ecb67a807e45bde87de4369f82a8ef6caa8b07ec568f7e81a6dc52a22b3549d55#rd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
