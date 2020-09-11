@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-10 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-11 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、](https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf)
 - [【前端早读课】【招聘】阿里云GTS交付技术部在西安、成都等地的产品研发测试等岗位招聘啦](https://www.ershicimi.com/p/f79d3baa7325ace1d4b71047702a8095)
 - [【前端早读课】【招聘】阿里淘宝事业群C2M事业部招资深前端开发工程师/P6](https://www.ershicimi.com/p/c66a63b15451a0cf214b48a65d8d58ee)
 - [【前端早读课】【招聘】上海意派信息科技有限公司招前端研发工程师](https://www.ershicimi.com/p/dc72fec6dbcba948c5d9b874a1147b2c)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】阿里天猫淘宝海外技术部招聘前端工程师](https://www.ershicimi.com/p/8c83324eb28d1fa4c8773274c52275f6)
 - [【前端早读课】【招聘】字节跳动智能营销中台团队（实习、校招、社招均有）](https://www.ershicimi.com/p/b6a0c1207008353ca9d5eb39de6d0b62)
 - [【前端早读课】【招聘】北京Moka招Web前端工程师](https://www.ershicimi.com/p/51b1f2939227f0f457526967f689b5e8)
-- [【前端早读课】【招聘】腾讯云DNSPod团队招聘web前端开发](https://www.ershicimi.com/p/9c750b99e36a0382c79af63491c97a21)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2061期】「划线高亮」和「插入笔记」——-不止是前端知识点](https://www.ershicimi.com/p/2abe050d4d4e378256169c7f315c4ffc)
 - [【前端早读课】【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5)
 - [【前端早读课】【第2057期】随机数的故事](https://www.ershicimi.com/p/30e5cdf40afca89496cf46e7f7211811)
 - [【前端早读课】【第2056期】蚂蚁金服@御术：比能力更重要的是你的底层操作系统](https://www.ershicimi.com/p/13bf52c17564c88b2774643ce8ba4346)
@@ -739,7 +740,6 @@
 - [【前端早读课】前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f)
 - [【前端早读课】【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80)
 - [【前端早读课】【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值](https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1)
-- [【前端早读课】当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
