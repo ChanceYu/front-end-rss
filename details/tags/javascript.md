@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -408,6 +408,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
 - [2019-09-03-响应至上：打造无卡顿的滚动列表](https://fed.taobao.org/blog/taofed/do71ct/make-infinite-scroll) 
 - [2019-06-06-大话-JavaScript-动画](https://fed.taobao.org/blog/taofed/do71ct/js-animation-base) 
 - [2018-11-01-Atag---Web-Components-最佳实践](https://fed.taobao.org/blog/taofed/do71ct/a-tag) 
