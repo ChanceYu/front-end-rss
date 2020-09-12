@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-12 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -326,6 +326,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-09-11-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/54bc92636f70a36ac9d0c9c4f2a4e3a7) 
+- [2020-09-10-关于-useState-的一切](https://www.ershicimi.com/p/fa486900e540761144d3c0405536d28f) 
 - [2020-09-07-关于-ref-的一切](https://www.ershicimi.com/p/c2c22ae06a423a86bede40a9d24c1482) 
 - [2020-09-06-SourceMap知多少：介绍与实践](https://www.ershicimi.com/p/5fa24b0cad0d3b029d2e9e489558557c) 
 - [2020-09-05-4W字从0到部署上线，用-TS-带你彻底掌握前端工程化](https://www.ershicimi.com/p/8bf27f2401a8fb1097c93d21d9d24bd4) 
