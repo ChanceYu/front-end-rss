@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-14 08:00:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 08:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/f6b658f55451af6d8763c8998c296af3)
 - [【前端早读课】2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e)
 - [【前端早读课】【第2039期】最全的Vue3.0升级指南](https://www.ershicimi.com/p/7fcf952746a6358794d01e287227a661)
 - [【前端早读课】官方给出的Vue3性能优化数据，其实很保守？](https://www.ershicimi.com/p/a0f8308d8b0fb2783dbdceea9e9a46d4)
@@ -93,7 +94,6 @@
 - [【前端早读课】Vue-3.0-来了！不断更迭的技术浪潮中，前端开发必备哪些核心能力?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234238&idx=1&sn=50e980f9de90999cddf834f5b7b1b829&chksm=bd49463a8a3ecf2c131f649528c5614ca96be27bafea6bb49845c135c77927fdab82f8450b8f&scene=27#wechat_redirect)
 - [【前端早读课】【PPT】Vue.js-团队成员蒋豪群：现代前端框架如何提高你的效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233660&idx=1&sn=0b1512c429b4c6e90e8d940a457f4b9e&chksm=bd4944f88a3ecdeedc8755eeca383ba8fc9305d697cfba113fe7a2e72f4a1316eeb844029ab3#rd)
 - [【前端早读课】【PPT】Vue.js-团队成员蒋豪群：Vue-高效开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233403&idx=1&sn=689ee7b287605790ba28bfdc4bf75917&chksm=bd4945ff8a3ecce95dd4ff3185265a4aa05479641e4e4038ef2f2b231c515b601fb1e4fc169d#rd)
-- [【前端早读课】你真的会Vue吗？送你一份Vue进阶指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233303&idx=1&sn=2ffc13ed44f767ffce4e990996746f6c&chksm=bd4945938a3ecc853c892cc981e095eecd63cc3de22ad704351d681409423c2bb2c95a8ad81c#rd)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第2064期】现代浏览器内部揭秘之三](https://www.ershicimi.com/p/3244c9910c9004e0c7456a5f693c14cf)
 - [【前端早读课】【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b)
 - [【前端早读课】【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327)
 - [【前端早读课】【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968)
@@ -525,7 +526,6 @@
 - [【前端早读课】【招聘】腾讯安全平台部前端招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233425&idx=3&sn=cf843878768e2391c5591b970c05f18e&chksm=bd4945158a3ecc03b50c6db7ed45fd2dfd7e721216d35f5d8d17267cd97fa805afc44db4a401#rd)
 - [【前端早读课】【第1702期】针对web开发者的浏览器缓存指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233358&idx=1&sn=f7153ed423caa21fb0b5fa513212403f&chksm=bd4945ca8a3eccdc9c688f4f2b88b1027c9bbab65ba52202a92eeb8f119dd467c10775e3b42c#rd)
 - [【前端早读课】【第1698期】白话Session与Cookie：从经营杂货店开始](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233323&idx=1&sn=4dd1c2847de951c090ba00b06553467d&chksm=bd4945af8a3eccb96e276ef0eebf439c84ea26c5c32df201376e339b729b2af9fbd91b510787#rd)
-- [【前端早读课】一道浏览器面试题，就能看出你的前端功底](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233255&idx=1&sn=25cc7a3d8e7e3fd4fbff50f08eff072e&chksm=bd4942638a3ecb75ca7302223d230d5e0762a14b498906ad08bc287b8b86aa1125d159384586&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2065期】做B端后台产品很复杂？一份完整的设计流程和规范！](https://www.ershicimi.com/p/7b3aabc43a6a1b86dc4f4dff7c7f5fb3)
 - [【前端早读课】【第2062期】蚂蚁金服@沉鱼：前端十二年](https://www.ershicimi.com/p/bb4fc69860e84861f1b62e1d60a7260c)
 - [【前端早读课】【第2061期】「划线高亮」和「插入笔记」——-不止是前端知识点](https://www.ershicimi.com/p/2abe050d4d4e378256169c7f315c4ffc)
 - [【前端早读课】【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5)
@@ -739,7 +740,6 @@
 - [【前端早读课】【图书】编程的原则：改善代码质量的101个方法](https://www.ershicimi.com/p/37af6a75fdb2f717235da66d87743226)
 - [【前端早读课】【第2033期】核心稳定、易扩展——开放关闭原则（The-Open-Closed-Principle](https://www.ershicimi.com/p/c3f53ac7b5595b8a4bc6c1a459c856cb)
 - [【前端早读课】前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/51a1887b5cccfa372e6b3e739500065f)
-- [【前端早读课】【第2029期】Plugin-Anything：插件化改造工具](https://www.ershicimi.com/p/7c9d9ac311c34240231a88a3b847fe80)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
