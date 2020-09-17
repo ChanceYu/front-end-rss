@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-16 08:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-17 18:00:09，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2020-09-16-【第2066期】转转Hybrid体系建设](https://www.ershicimi.com/p/2fbc15f2454c8e008a276bf38a6e1563) ![](assets/new.png)  
+- [2020-09-16-【第2066期】转转Hybrid体系建设](https://www.ershicimi.com/p/2fbc15f2454c8e008a276bf38a6e1563)  
 - [2020-09-15-【第2065期】做B端后台产品很复杂？一份完整的设计流程和规范！](https://www.ershicimi.com/p/7b3aabc43a6a1b86dc4f4dff7c7f5fb3)  
 - [2020-09-14-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/f6b658f55451af6d8763c8998c296af3)  
 - [2020-09-14-【第2064期】现代浏览器内部揭秘之三](https://www.ershicimi.com/p/3244c9910c9004e0c7456a5f693c14cf)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) ![](assets/new.png)  
+- [2020-09-17-报告下载-|-数字化转型中的人才紧缺问题，有救吗？](https://www.ershicimi.com/p/fe77a140054ce64796390c0fe20ec154) ![](assets/new.png)  
+- [2020-09-16-唐朝就已经有人懂-React-了？](https://www.ershicimi.com/p/3437452f60f8321bd1864083d64bba70) ![](assets/new.png)  
+- [2020-09-16-Serverless：我还是一个大孩子](https://www.ershicimi.com/p/9fdab7e1908c34c0f6af750611276467) ![](assets/new.png)  
+- [2020-09-16-二面阿里惨败，全是算法基本功的问题···-|-极客大学](https://www.ershicimi.com/p/1161efd6eef0d1853a266e2fc1919888) ![](assets/new.png)  
 - [2020-09-15-10个不那么知名但很实用的Web-API](https://www.ershicimi.com/p/f7901bcaf5ccab448ad14e7c5306a5a8)  
 - [2020-09-15-重写软件的-6-大风险](https://www.ershicimi.com/p/6592768259795661693ea1dae69b7217)  
 - [2020-09-14-Flash-终将谢幕：微软将于年底停止对-Flash-的支持](https://www.ershicimi.com/p/d5c57237974a28051de674bdfcef41ab)  
@@ -110,11 +115,6 @@
 - [2020-09-09-程序员离职后收到前东家-2400-元，反手被告违反竞业协议赔-35-万](https://www.ershicimi.com/p/15f4dee6c7c31f65caa3ddc2899e7364)  
 - [2020-09-09-苹果：你甚至可以在-Safari-中使用-Chrome-的插件](https://www.ershicimi.com/p/b48742a28ac8c65f031f2b49695474db)  
 - [2020-09-09-数字化转型潮下，技术人才管理该怎么做？｜-活动推荐](https://www.ershicimi.com/p/d801f0a8f788a04f6bd780d1d1896de2)  
-- [2020-09-08-谷歌软件工程师是怎样写设计文档的？](https://www.ershicimi.com/p/d25c49ae2e317b0e0fd3d50c007e9620)  
-- [2020-09-08-WebAssembly上手：基础指南](https://www.ershicimi.com/p/0918c8b235efba620245f047551d4cf6)  
-- [2020-09-07-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033)  
-- [2020-09-07-五分钟了解-Node.js-Shebang](https://www.ershicimi.com/p/55ff6d0a01c1f059f114915151b165ce)  
-- [2020-09-07-数字时代，闻“讯”而来](https://www.ershicimi.com/p/12440a2197a4d985d2eb3b2a0ca245af)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
