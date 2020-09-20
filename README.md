@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 22:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-20 18:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-09-18-只会用-Vue-不够！还要知其所以然](https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968) ![](assets/new.png)  
-- [2020-09-18-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f) ![](assets/new.png)  
+- [2020-09-18-只会用-Vue-不够！还要知其所以然](https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968)  
+- [2020-09-18-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f)  
 - [2020-09-17-“对不起，因为本国法律要求，我不能合并你的代码”](https://www.ershicimi.com/p/82e154dc9823edffaa4bc082e4f285d4)  
 - [2020-09-17-React-谁都会，你的优势在哪里？](https://www.ershicimi.com/p/9f10b739e85242e5606d425eb5fc6684)  
 - [2020-09-16-WebAssembly-被誉为第-4-种-web-语言？](https://www.ershicimi.com/p/a334f331a63cc515858ec73209193651)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-09-20-前端周报：Vue-3.0正式发布，代号One-Piece；JS库-Moment.js-进入维护状态；](https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f) ![](assets/new.png)  
+- [2020-09-20-云开发引领腾讯前后端创新技术实践-|-InfoQ-公开课](https://www.ershicimi.com/p/56d304a16948ac3cfed7f52f06764306) ![](assets/new.png)  
 - [2020-09-18-React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb)  
 - [2020-09-18-Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b)  
 - [2020-09-18-华为前端开发课来啦，7节课带你入门前端-|-活动推荐](https://www.ershicimi.com/p/0cf4d465b4e03ded153ee962567c2dfd)  
@@ -113,8 +115,6 @@
 - [2020-09-11-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/7859ef90ce3ea34ab85fd27051242012)  
 - [2020-09-11-如何保持对个人项目的热情？](https://www.ershicimi.com/p/fc7f649a54b567f0e6d9bc7b54dd1117)  
 - [2020-09-11-云原生时代，数字化转型潮下的微服务之道｜活动推荐](https://www.ershicimi.com/p/40620f96569c7bb6d25d3b66fdd1f6e9)  
-- [2020-09-10-最受欢迎的10大Angular技巧](https://www.ershicimi.com/p/f50c15becb76529a5233dd20054593a6)  
-- [2020-09-10-快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/885d228f79a93b4366a04cd233851b4c)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
