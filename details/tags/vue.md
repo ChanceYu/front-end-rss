@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 22:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -74,6 +74,8 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2020-09-21-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c) 
+- [2020-09-20-Vue-3.0-正式发布，尤雨溪回应大家关切的问题](https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a) 
 - [2020-09-18-只会用-Vue-不够！还要知其所以然](https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968) 
 - [2020-09-16-重新认识Typescript-|-Vue3源码系列](https://www.ershicimi.com/p/a95717f5d9c5526228edc04b1772651a) 
 - [2020-09-15-Vue.js-作者尤雨溪：TypeScript-与-JavaScript-并行才切合实际！](https://www.ershicimi.com/p/e700b7cc69cc885fdac4730fb4d1a5bf) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-21 22:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,11 @@
 - [【前端早读课】2020-09-02-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) 
 - [【前端早读课】2020-09-02-【第2052期】保持页脚在底部:Flexbox-vs-Grid](https://www.ershicimi.com/p/42443e8de5b8f50f235e1c17f798afa2) 
 - [【前端早读课】2020-09-01-【第2051期】这才是真正的-Git——分支合并](https://www.ershicimi.com/p/fc9c755034b9025beeb6b565199936fa) 
+- [【前端大全】2020-09-21-如果程序员送外卖，会选择“红黄蓝”谁家？](https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584) 
+- [【前端大全】2020-09-21-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c) 
+- [【前端大全】2020-09-20-Vue-3.0-正式发布，尤雨溪回应大家关切的问题](https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a) 
+- [【前端大全】2020-09-19-TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170) 
+- [【前端大全】2020-09-19-程序员脱单记：领证回来的路上，我们约好写下这篇](https://www.ershicimi.com/p/8b2ee17053890f045cbaba2b67b3cfe1) 
 - [【前端大全】2020-09-18-只会用-Vue-不够！还要知其所以然](https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968) 
 - [【前端大全】2020-09-18-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f) 
 - [【前端大全】2020-09-17-“对不起，因为本国法律要求，我不能合并你的代码”](https://www.ershicimi.com/p/82e154dc9823edffaa4bc082e4f285d4) 
