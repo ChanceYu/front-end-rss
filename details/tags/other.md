@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-09-23 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-24 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-09-24-什么是架构师的必备技能？](https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784) 
+- [2020-09-23-【活动】迎中秋国庆，2020前端早读课赠书第二次活动](https://www.ershicimi.com/p/ee0d2b713811412d4794df130ba1e41e) 
+- [2020-09-22-【活动】迎中秋国庆，2020前端早读课赠书第一次活动](https://www.ershicimi.com/p/e0ea6c9508f54681c3a8e59a1b51f93c) 
 - [2020-09-19-【第2069期】蚂蚁金服@双扬：一个非典型前端的成长之路](https://www.ershicimi.com/p/bf0c07134366cad0e14eecc8c56d6f4a) 
 - [2020-09-17-【第2067期】10-个你可能还不知道-VS-Code-使用技巧](https://www.ershicimi.com/p/fe39c520ff5601e7c4da598a6d4bd952) 
 - [2020-09-16-【第2066期】转转Hybrid体系建设](https://www.ershicimi.com/p/2fbc15f2454c8e008a276bf38a6e1563) 

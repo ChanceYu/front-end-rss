@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 22:00:28，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-24 08:00:09，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,12 @@
 </summary>
 
 
+- [2020-09-24-什么是架构师的必备技能？](https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784) ![](assets/new.png)  
+- [2020-09-24-【第2074期】React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/a95295177c829ec7f74e3fceb030add5) ![](assets/new.png)  
+- [2020-09-23-【第2073期】content-visibility:-一个可以提高渲染性能的css属性](https://www.ershicimi.com/p/76746dc2d9d8603d46fd866857261573) ![](assets/new.png)  
+- [2020-09-23-【活动】迎中秋国庆，2020前端早读课赠书第二次活动](https://www.ershicimi.com/p/ee0d2b713811412d4794df130ba1e41e) ![](assets/new.png)  
+- [2020-09-22-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61) ![](assets/new.png)  
+- [2020-09-22-【活动】迎中秋国庆，2020前端早读课赠书第一次活动](https://www.ershicimi.com/p/e0ea6c9508f54681c3a8e59a1b51f93c) ![](assets/new.png)  
 - [2020-09-21-【第2071期】尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed)  
 - [2020-09-20-【第2070期】Vue.js-3.0-"One-Piece"-发布](https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b)  
 - [2020-09-19-【第2069期】蚂蚁金服@双扬：一个非典型前端的成长之路](https://www.ershicimi.com/p/bf0c07134366cad0e14eecc8c56d6f4a)  
@@ -47,12 +53,6 @@
 - [2020-09-13-【第2063期】如何进行表单体验优化-中台系统](https://www.ershicimi.com/p/cbfdb8df7884184d75e415555dbbee81)  
 - [2020-09-12-【第2062期】蚂蚁金服@沉鱼：前端十二年](https://www.ershicimi.com/p/bb4fc69860e84861f1b62e1d60a7260c)  
 - [2020-09-11-【第2061期】「划线高亮」和「插入笔记」——-不止是前端知识点](https://www.ershicimi.com/p/2abe050d4d4e378256169c7f315c4ffc)  
-- [2020-09-11-【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、](https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf)  
-- [2020-09-10-【第2060期】现代浏览器内部揭秘之二](https://www.ershicimi.com/p/8aad4f0ad581c8838769e9bf858aa95b)  
-- [2020-09-09-【第2059期】唤起-App-在转转的实践](https://www.ershicimi.com/p/e7443110a39a7dc60911f68d4a2798a5)  
-- [2020-09-08-2020年，选择Vue的公司越来越多了](https://www.ershicimi.com/p/1f8b456d3a2ea6d977e969610e3fd41e)  
-- [2020-09-08-【第2058期】现代浏览器内部揭秘之一](https://www.ershicimi.com/p/bc12cd0a10dd33d6b0c8ebf63357e327)  
-- [2020-09-07-【第2057期】随机数的故事](https://www.ershicimi.com/p/30e5cdf40afca89496cf46e7f7211811)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](https://www.ershicimi.com/p/24802fd9209abb6bfa98c789b7d53d12) ![](assets/new.png)  
-- [2020-09-23-搞懂-JWT-这个知识点](https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e) ![](assets/new.png)  
-- [2020-09-22-移动端-1px-问题解决方案](https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9) ![](assets/new.png)  
+- [2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](https://www.ershicimi.com/p/24802fd9209abb6bfa98c789b7d53d12)  
+- [2020-09-23-搞懂-JWT-这个知识点](https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e)  
+- [2020-09-22-移动端-1px-问题解决方案](https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9)  
 - [2020-09-21-如果程序员送外卖，会选择“红黄蓝”谁家？](https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584)  
 - [2020-09-21-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c)  
 - [2020-09-20-Vue-3.0-正式发布，尤雨溪回应大家关切的问题](https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a)  
