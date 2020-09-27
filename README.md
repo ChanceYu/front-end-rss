@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 08:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 18:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-09-27-【第2077期】过去的未来：成为用户体验设计师](https://www.ershicimi.com/p/3bdbdadf57657507091ba27bd8dd6f96) ![](assets/new.png)  
-- [2020-09-27-【活动】2020前端早读课锦鲤，独宠你一人](https://www.ershicimi.com/p/0472851c9b81b18fcfac43bfe60f9d71) ![](assets/new.png)  
+- [2020-09-27-【第2077期】过去的未来：成为用户体验设计师](https://www.ershicimi.com/p/3bdbdadf57657507091ba27bd8dd6f96)  
+- [2020-09-27-【活动】2020前端早读课锦鲤，独宠你一人](https://www.ershicimi.com/p/0472851c9b81b18fcfac43bfe60f9d71)  
 - [2020-09-26-【第2076期】阿里@风月：中医药大学毕业的业务女前端修炼之路](https://www.ershicimi.com/p/6054fa798c50686ff6967cd55270ec79)  
 - [2020-09-25-【第2075期】多端研发体系：可渐进迁移的提效之路](https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5)  
 - [2020-09-25-【活动】第二届「缤纷·滨江前端技术沙龙」](https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-09-27-前端周报：Flutter实现Windows支持；Windows-XP源代码泄露，微软：正在调查；苹果](https://www.ershicimi.com/p/8256320f1913e57c662b5461a900d811) ![](assets/new.png)  
 - [2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288)  
 - [2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f)  
 - [2020-09-25-字节跳动-2-2-级别的-Go-工程师究竟有多强？-|-极客大学](https://www.ershicimi.com/p/ddca157dc2a532cfceb39c7dc8021225)  
@@ -114,7 +115,6 @@
 - [2020-09-18-Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b)  
 - [2020-09-18-华为前端开发课来啦，7节课带你入门前端-|-活动推荐](https://www.ershicimi.com/p/0cf4d465b4e03ded153ee962567c2dfd)  
 - [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c)  
-- [2020-09-17-报告下载-|-数字化转型中的人才紧缺问题，有救吗？](https://www.ershicimi.com/p/fe77a140054ce64796390c0fe20ec154)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

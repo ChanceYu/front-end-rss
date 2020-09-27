@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-27 18:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -203,6 +203,7 @@
 - [【前端大全】2020-09-02-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/39ae9642876c473b1a50636386fe9663) 
 - [【前端大全】2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [【前端大全】2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) 
+- [【前端之巅】2020-09-27-前端周报：Flutter实现Windows支持；Windows-XP源代码泄露，微软：正在调查；苹果](https://www.ershicimi.com/p/8256320f1913e57c662b5461a900d811) 
 - [【前端之巅】2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288) 
 - [【前端之巅】2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f) 
 - [【前端之巅】2020-09-25-字节跳动-2-2-级别的-Go-工程师究竟有多强？-|-极客大学](https://www.ershicimi.com/p/ddca157dc2a532cfceb39c7dc8021225) 
