@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-30 12:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-01 18:00:08，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c) ![](assets/new.png)  
+- [2020-09-30-12种Flutter开发工具推荐](https://www.ershicimi.com/p/88202d3d78e334e8098e7da3a930d357) ![](assets/new.png)  
+- [2020-09-30-程序员如何挣外快？](https://www.ershicimi.com/p/24f803d7b52ae1cac392f267a8a3e530) ![](assets/new.png)  
+- [2020-09-29-PHP与.NET统治Web开发世界的八个理由](https://www.ershicimi.com/p/3541387857ff32581e5baec96ba8a239) ![](assets/new.png)  
+- [2020-09-29-如何阻止对Web应用程序发起的DoS攻击？](https://www.ershicimi.com/p/6a6e29407508a7e2e4de5f25876049cf) ![](assets/new.png)  
 - [2020-09-28-React-Hooks-还不如类？](https://www.ershicimi.com/p/c2ce523cd476365d7dac90540eac42c3)  
 - [2020-09-28-因为忽视技术债，我们差点造成几十亿美元的损失](https://www.ershicimi.com/p/13d0049dd469315b191ffce9c91e8e2f)  
 - [2020-09-28-winter自述：打造Toy-React背后的故事-|-极客大学](https://www.ershicimi.com/p/132602690a3b300ba5b2f0b639edf58b)  
@@ -110,11 +115,6 @@
 - [2020-09-22-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b)  
 - [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d)  
 - [2020-09-21-不写文档你就输了](https://www.ershicimi.com/p/57becbd5e457c97b13e79e97ed3b9f36)  
-- [2020-09-21-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/e2986f21620a7d5989a8e18c84b160e6)  
-- [2020-09-21-「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜-活动推荐](https://www.ershicimi.com/p/15a9a30e6a75ea9948037817fc22fe1a)  
-- [2020-09-20-前端周报：Vue-3.0正式发布，代号One-Piece；JS库-Moment.js-进入维护状态；](https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f)  
-- [2020-09-20-云开发引领腾讯前后端创新技术实践-|-InfoQ-公开课](https://www.ershicimi.com/p/56d304a16948ac3cfed7f52f06764306)  
-- [2020-09-18-React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html) ![](assets/new.png)  
+- [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)  
 - [2020-09-18-科技爱好者周刊（第-125-期）：数字人民币要取代谁](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html)  
 - [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)  
