@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-01 18:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-04 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -17,7 +17,7 @@
 <td><a href="#2020-07">07月</a></td>
 <td><a href="#2020-08">08月</a></td>
 <td><a href="#2020-09">09月</a></td>
-<td>10月</td>
+<td><a href="#2020-10">10月</a></td>
 <td>11月</td>
 <td>12月</td>
 </tr>
@@ -115,6 +115,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2020-10">
+ 2020-10
+</summary>
+
+
+- [【前端之巅】2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2020-09">

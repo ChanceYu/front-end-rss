@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-01 18:00:08，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-04 18:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,12 @@
 </summary>
 
 
-- [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c) ![](assets/new.png)  
-- [2020-09-30-12种Flutter开发工具推荐](https://www.ershicimi.com/p/88202d3d78e334e8098e7da3a930d357) ![](assets/new.png)  
-- [2020-09-30-程序员如何挣外快？](https://www.ershicimi.com/p/24f803d7b52ae1cac392f267a8a3e530) ![](assets/new.png)  
-- [2020-09-29-PHP与.NET统治Web开发世界的八个理由](https://www.ershicimi.com/p/3541387857ff32581e5baec96ba8a239) ![](assets/new.png)  
-- [2020-09-29-如何阻止对Web应用程序发起的DoS攻击？](https://www.ershicimi.com/p/6a6e29407508a7e2e4de5f25876049cf) ![](assets/new.png)  
+- [2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) ![](assets/new.png)  
+- [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c)  
+- [2020-09-30-12种Flutter开发工具推荐](https://www.ershicimi.com/p/88202d3d78e334e8098e7da3a930d357)  
+- [2020-09-30-程序员如何挣外快？](https://www.ershicimi.com/p/24f803d7b52ae1cac392f267a8a3e530)  
+- [2020-09-29-PHP与.NET统治Web开发世界的八个理由](https://www.ershicimi.com/p/3541387857ff32581e5baec96ba8a239)  
+- [2020-09-29-如何阻止对Web应用程序发起的DoS攻击？](https://www.ershicimi.com/p/6a6e29407508a7e2e4de5f25876049cf)  
 - [2020-09-28-React-Hooks-还不如类？](https://www.ershicimi.com/p/c2ce523cd476365d7dac90540eac42c3)  
 - [2020-09-28-因为忽视技术债，我们差点造成几十亿美元的损失](https://www.ershicimi.com/p/13d0049dd469315b191ffce9c91e8e2f)  
 - [2020-09-28-winter自述：打造Toy-React背后的故事-|-极客大学](https://www.ershicimi.com/p/132602690a3b300ba5b2f0b639edf58b)  
@@ -114,7 +115,6 @@
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff)  
 - [2020-09-22-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b)  
 - [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d)  
-- [2020-09-21-不写文档你就输了](https://www.ershicimi.com/p/57becbd5e457c97b13e79e97ed3b9f36)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
