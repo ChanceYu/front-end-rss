@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-09 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-10 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -201,6 +201,7 @@
 - [2019-03-29-前端面试知识点目录整理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556126&idx=1&sn=fac147626d1a63ba67b89ec1a52809d5#rd) 
 - [2018-11-22-百度、有赞、阿里前端面试总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=2&sn=25eb4af8005fa8ed96712debdeeb8e78#wechat_redirect) 
 - [2018-11-06-2018-大厂高级前端面试题汇总](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect) 
+- [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065) 
 - [2020-09-14-面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c) 
 - [2020-09-07-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033) 
 - [2020-07-07-2020年最常见的25个Web开发面试问题](https://www.ershicimi.com/p/80b175f84d1ceff08722c221e78cf23b) 
