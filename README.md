@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-10 18:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-11 06:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065) ![](assets/new.png)  
-- [2020-10-09-使用React-Hooks代替类的6大理由](https://www.ershicimi.com/p/4a9fdcdcc7786d03ae35afb4424b4f00) ![](assets/new.png)  
-- [2020-10-09-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/d1d2fc787dc35d6cea5136be28cb2c1c) ![](assets/new.png)  
+- [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065)  
+- [2020-10-09-使用React-Hooks代替类的6大理由](https://www.ershicimi.com/p/4a9fdcdcc7786d03ae35afb4424b4f00)  
+- [2020-10-09-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/d1d2fc787dc35d6cea5136be28cb2c1c)  
 - [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7)  
 - [2020-10-07-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/7a3ade6c9a0f7793f5d5276a0a57b0ca)  
 - [2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-10-10-Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/) ![](assets/new.png)  
 - [2020-10-06-flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)  
 - [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/)  
 - [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/)  
@@ -176,7 +177,6 @@
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
 - [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/)  
-- [2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

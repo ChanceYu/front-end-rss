@@ -16443,6 +16443,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Polyfill吊炸天的CSS attr()新语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/",
+        "date": "2020-10-10"
+      },
+      {
         "title": "flex:0 flex:1 flex:none flex:auto应该在什么场景下使用？",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/",
         "date": "2020-10-06"
