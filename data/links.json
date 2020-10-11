@@ -16443,6 +16443,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "巧借CSS var变量实现任意的CSS自定义语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/",
+        "date": "2020-10-11"
+      },
+      {
         "title": "Polyfill吊炸天的CSS attr()新语法",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/",
         "date": "2020-10-10"
