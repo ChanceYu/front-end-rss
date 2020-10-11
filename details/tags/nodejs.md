@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 22:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -31,6 +31,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2020-10-09-前端赋能业务：Node实现自动化部署平台](https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41) 
 - [2020-09-30-如何让你的-Express-飞起来？](https://www.ershicimi.com/p/37a8dbe73beffa79d283e9658452d5fb) 
 - [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971) 
 - [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45) 

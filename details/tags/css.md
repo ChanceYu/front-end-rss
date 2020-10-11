@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 22:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -132,6 +132,7 @@
 - [2018-10-23-你知道CSS实现水平垂直居中的第10种方式吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489733&idx=1&sn=bce45963d8aaf7072b1eb7adc2fd6b86#wechat_redirect) 
 - [2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward) 
 - [2020-01-19-当-SSR-遇上-Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker) 
+- [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) 
 - [2020-10-10-Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/) 
 - [2020-10-06-flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/) 
 - [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/) 

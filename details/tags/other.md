@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-11 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-11 22:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -341,6 +341,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-10-09-做了-8-年前端，看透了裁人的套路](https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0) 
 - [2020-10-07-搞不懂为啥都要去字节跳动...](https://www.ershicimi.com/p/28a4720c9b18914466fea8f56f865dbc) 
 - [2020-10-03-尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/16516e26d52339a78cc64fff251a932e) 
 - [2020-09-29-iframe-接班人-微前端框架-qiankun-在中后台系统实践](https://www.ershicimi.com/p/3bf6162476cc938e30ae86321cd46b57) 
@@ -1019,6 +1020,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
 - [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) 

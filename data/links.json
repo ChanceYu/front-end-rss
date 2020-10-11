@@ -5442,6 +5442,26 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "谁说前端不用懂，手摸手 Docker 从入门到实践",
+        "link": "https://www.ershicimi.com/p/84d7e2d4188c596461ae05729bfc2970",
+        "date": "2020-10-10"
+      },
+      {
+        "title": "做了 8 年前端，看透了裁人的套路",
+        "link": "https://www.ershicimi.com/p/8079378715a547442a61c88db5a8c6a0",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "前端赋能业务：Node实现自动化部署平台",
+        "link": "https://www.ershicimi.com/p/002211e101217aa0a657e6c2fcc88a41",
+        "date": "2020-10-09"
+      },
+      {
+        "title": "Facebook 新一代 React 状态管理库 Recoil",
+        "link": "https://www.ershicimi.com/p/26add611063d221ffcb13dc2b0ec08b6",
+        "date": "2020-10-08"
+      },
+      {
         "title": "搞不懂为啥都要去字节跳动...",
         "link": "https://www.ershicimi.com/p/28a4720c9b18914466fea8f56f865dbc",
         "date": "2020-10-07"
@@ -16442,6 +16462,16 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "HTML enterkeyhint设置iOS/Android键盘enter键",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/",
+        "date": "2020-10-11"
+      },
+      {
+        "title": "快速学习CSS Color Level 4的色值新语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/",
+        "date": "2020-10-11"
+      },
       {
         "title": "巧借CSS var变量实现任意的CSS自定义语法",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/",
