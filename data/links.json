@@ -5442,6 +5442,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "让 Vue3 Composition API 存在于你 Vue 以外的项目中",
+        "link": "https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c",
+        "date": "2020-10-13"
+      },
+      {
         "title": "20k 以上面试必问，Webpack 原理和优化",
         "link": "https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3",
         "date": "2020-10-12"
