@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-10-14 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-12-【第2084期】从生产到消费，设计基于物料的前端开发链路](https://www.ershicimi.com/p/56d13f374e8cdd98bacdb11ec7ab4fe2) 
+- [2020-10-10-【第2082期】程序员职业发展的-23-种路径](https://www.ershicimi.com/p/3c1443703d330061ef0612ad6d7daca5) 
 - [2020-09-30-【第2080期】阿里-ChatUI-开源：让对话美而简单](https://www.ershicimi.com/p/e22ddec723c66e758c4e46cfb94741e7) 
 - [2020-09-28-【第2078期】iframe-接班人-微前端框架-qiankun-在中后台系统实践](https://www.ershicimi.com/p/d59f74641ce594cc2db9705e67953997) 
 - [2020-09-27-【第2077期】过去的未来：成为用户体验设计师](https://www.ershicimi.com/p/3bdbdadf57657507091ba27bd8dd6f96) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-10-13-【第2085期】使用-babel-全家桶模块化古老的面条代码](https://www.ershicimi.com/p/dea6ae3f5af76f60dd0271ef28dd55ba) 
 - [2020-08-18-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/5f009967cba7777eba39d4014c783399) 
 - [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1) 

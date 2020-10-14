@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,9 @@
 
 
 
+- [2020-10-14-【招聘】有赞深圳研发中心招聘高级前端工程师](https://www.ershicimi.com/p/4866f119b5044a23a7225185b4edc9c8) 
+- [2020-10-12-【校招】美团2021届校园招聘前端岗位热招](https://www.ershicimi.com/p/4e164768a96b0daf1832abbc99ba9ffe) 
+- [2020-10-11-【招聘】腾讯云服务平台部招聘web前端开发](https://www.ershicimi.com/p/e6882ce8eef5fa26680e7def0e160f02) 
 - [2020-09-18-【招聘】广州网易邮件事业部前端技术组招高级、资深前端工程师](https://www.ershicimi.com/p/a272f2753c6fb766a592fed81e1a71c0) 
 - [2020-09-11-【招聘】阿里云-GTS-金融业务交付（北/上/广/深/杭/西安/成都）金融交付专家（Android、](https://www.ershicimi.com/p/da6c36b95adca2b5ed98f1473beedcbf) 
 - [2020-09-05-【招聘】阿里云GTS交付技术部在西安、成都等地的产品研发测试等岗位招聘啦](https://www.ershicimi.com/p/f79d3baa7325ace1d4b71047702a8095) 

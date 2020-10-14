@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-14 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-14 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-10-11-【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139) 
+- [2020-10-09-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
 - [2020-09-29-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038) 
 - [2020-09-22-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61) 
 - [2020-09-18-【第2068期】高级程序4：异步函数](https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47) 

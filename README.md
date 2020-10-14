@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-14 18:00:13，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-14 22:00:28，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,17 @@
 </summary>
 
 
+- [2020-10-14-【第2086期】有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/84b0a8f4a91a46762475960ef6635d3e) ![](assets/new.png)  
+- [2020-10-14-【招聘】有赞深圳研发中心招聘高级前端工程师](https://www.ershicimi.com/p/4866f119b5044a23a7225185b4edc9c8) ![](assets/new.png)  
+- [2020-10-13-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/9a4c806433a5334f1830151d83df59db) ![](assets/new.png)  
+- [2020-10-13-【第2085期】使用-babel-全家桶模块化古老的面条代码](https://www.ershicimi.com/p/dea6ae3f5af76f60dd0271ef28dd55ba) ![](assets/new.png)  
+- [2020-10-12-【第2084期】从生产到消费，设计基于物料的前端开发链路](https://www.ershicimi.com/p/56d13f374e8cdd98bacdb11ec7ab4fe2) ![](assets/new.png)  
+- [2020-10-12-【校招】美团2021届校园招聘前端岗位热招](https://www.ershicimi.com/p/4e164768a96b0daf1832abbc99ba9ffe) ![](assets/new.png)  
+- [2020-10-11-【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139) ![](assets/new.png)  
+- [2020-10-11-【招聘】腾讯云服务平台部招聘web前端开发](https://www.ershicimi.com/p/e6882ce8eef5fa26680e7def0e160f02) ![](assets/new.png)  
+- [2020-10-10-【第2082期】程序员职业发展的-23-种路径](https://www.ershicimi.com/p/3c1443703d330061ef0612ad6d7daca5) ![](assets/new.png)  
+- [2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/f70cbe658cc4f0946a62d79d616be829) ![](assets/new.png)  
+- [2020-10-09-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) ![](assets/new.png)  
 - [2020-09-30-【第2080期】阿里-ChatUI-开源：让对话美而简单](https://www.ershicimi.com/p/e22ddec723c66e758c4e46cfb94741e7)  
 - [2020-09-29-【第2079期】理解ECMAScript规范（二）](https://www.ershicimi.com/p/abbc0eba9a15dc0d04591db13d412038)  
 - [2020-09-28-【第2078期】iframe-接班人-微前端框架-qiankun-在中后台系统实践](https://www.ershicimi.com/p/d59f74641ce594cc2db9705e67953997)  
@@ -42,17 +53,6 @@
 - [2020-09-25-【第2075期】多端研发体系：可渐进迁移的提效之路](https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5)  
 - [2020-09-25-【活动】第二届「缤纷·滨江前端技术沙龙」](https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f)  
 - [2020-09-24-什么是架构师的必备技能？](https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784)  
-- [2020-09-24-【第2074期】React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/a95295177c829ec7f74e3fceb030add5)  
-- [2020-09-23-【第2073期】content-visibility:-一个可以提高渲染性能的css属性](https://www.ershicimi.com/p/76746dc2d9d8603d46fd866857261573)  
-- [2020-09-23-【活动】迎中秋国庆，2020前端早读课赠书第二次活动](https://www.ershicimi.com/p/ee0d2b713811412d4794df130ba1e41e)  
-- [2020-09-22-【第2072期】-或许这就是下一代组件库](https://www.ershicimi.com/p/876dde13179380f6a7730b2c5910df61)  
-- [2020-09-22-【活动】迎中秋国庆，2020前端早读课赠书第一次活动](https://www.ershicimi.com/p/e0ea6c9508f54681c3a8e59a1b51f93c)  
-- [2020-09-21-【第2071期】尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed)  
-- [2020-09-20-【第2070期】Vue.js-3.0-"One-Piece"-发布](https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b)  
-- [2020-09-19-【第2069期】蚂蚁金服@双扬：一个非典型前端的成长之路](https://www.ershicimi.com/p/bf0c07134366cad0e14eecc8c56d6f4a)  
-- [2020-09-18-【第2068期】高级程序4：异步函数](https://www.ershicimi.com/p/ce7f61d3280b9ae7289161c168751d47)  
-- [2020-09-18-【招聘】广州网易邮件事业部前端技术组招高级、资深前端工程师](https://www.ershicimi.com/p/a272f2753c6fb766a592fed81e1a71c0)  
-- [2020-09-17-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/4c3860218d67f28e8f9b083be2848aaa)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) ![](assets/new.png)  
-- [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75) ![](assets/new.png)  
-- [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811) ![](assets/new.png)  
-- [2020-10-13-Webpack-5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能](https://www.ershicimi.com/p/4fce59604241cf9e3d11195033539895) ![](assets/new.png)  
-- [2020-10-13-安卓手机时间突然变慢？网友：糟糕，上班迟到了](https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2) ![](assets/new.png)  
+- [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6)  
+- [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75)  
+- [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811)  
+- [2020-10-13-Webpack-5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能](https://www.ershicimi.com/p/4fce59604241cf9e3d11195033539895)  
+- [2020-10-13-安卓手机时间突然变慢？网友：糟糕，上班迟到了](https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2)  
 - [2020-10-12-73个强无敌的NPM软件包](https://www.ershicimi.com/p/bf889a259a6b587c3c7d197565d25f40)  
 - [2020-10-12-一位资深程序员的感悟：这个行业，仅靠年轻人是不够的](https://www.ershicimi.com/p/84311d0f478a7cb23118c24cbd57c1af)  
 - [2020-10-12-疫情黑天鹅到来时，那些崩溃的企业有三类特征值得注意-|-GTLC](https://www.ershicimi.com/p/2f2a0322cb463b9df732d60164354661)  
