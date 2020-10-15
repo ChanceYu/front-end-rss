@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-15 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -595,6 +595,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) 
+- [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393) 
 - [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75) 
 - [2020-10-13-安卓手机时间突然变慢？网友：糟糕，上班迟到了](https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2) 
 - [2020-10-12-一位资深程序员的感悟：这个行业，仅靠年轻人是不够的](https://www.ershicimi.com/p/84311d0f478a7cb23118c24cbd57c1af) 

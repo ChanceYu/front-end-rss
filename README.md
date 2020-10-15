@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-15 08:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-15 18:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-10-14-VUE+ElementUI-后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/a2a0ac9b5e8ee358a574a8e42879189d) ![](assets/new.png)  
-- [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5) ![](assets/new.png)  
+- [2020-10-14-VUE+ElementUI-后台管理项目经验与技巧分享，金九银十跳槽必看！](https://www.ershicimi.com/p/a2a0ac9b5e8ee358a574a8e42879189d)  
+- [2020-10-14-你需要了解的几种-JavaScript-异常类型](https://www.ershicimi.com/p/06dd75a065cf099f98747e8317f18ae5)  
 - [2020-10-13-让-Vue3-Composition-API-存在于你-Vue-以外的项目中](https://www.ershicimi.com/p/97b383dd077f6f17b0e038fec301ab8c)  
 - [2020-10-12-20k-以上面试必问，Webpack-原理和优化](https://www.ershicimi.com/p/192577e419537de3c829a2d083d33cf3)  
 - [2020-10-12-浏览器是如何调度进程和线程的？](https://www.ershicimi.com/p/bd20128029c1894104d710b9f12269f2)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) ![](assets/new.png)  
+- [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393) ![](assets/new.png)  
 - [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6)  
 - [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75)  
 - [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811)  
@@ -113,8 +115,6 @@
 - [2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6)  
 - [2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758)  
 - [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c)  
-- [2020-09-30-12种Flutter开发工具推荐](https://www.ershicimi.com/p/88202d3d78e334e8098e7da3a930d357)  
-- [2020-09-30-程序员如何挣外快？](https://www.ershicimi.com/p/24f803d7b52ae1cac392f267a8a3e530)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

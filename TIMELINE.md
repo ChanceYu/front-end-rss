@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-15 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-15 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,8 @@
 - [【前端大全】2020-10-04-代数效应与-React](https://www.ershicimi.com/p/54e853d1bad4f6efb55ab24ade58953b) 
 - [【前端大全】2020-10-03-尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/16516e26d52339a78cc64fff251a932e) 
 - [【前端大全】2020-10-02-海贼王-One-Piece，一起康康-Vue-版本号中的彩蛋](https://www.ershicimi.com/p/6dcfe30a3b83c339a2dc6ad6d8497d0a) 
+- [【前端之巅】2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) 
+- [【前端之巅】2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393) 
 - [【前端之巅】2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) 
 - [【前端之巅】2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75) 
 - [【前端之巅】2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811) 
