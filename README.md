@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 12:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-16 18:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853) ![](assets/new.png)  
+- [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad) ![](assets/new.png)  
+- [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911) ![](assets/new.png)  
 - [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409)  
 - [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393)  
 - [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6)  
@@ -112,9 +115,6 @@
 - [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7)  
 - [2020-10-07-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/7a3ade6c9a0f7793f5d5276a0a57b0ca)  
 - [2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b)  
-- [2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6)  
-- [2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758)  
-- [2020-09-30-人工智能势如破竹，开创机器人对话时代-|-活动推荐](https://www.ershicimi.com/p/4afb29d20a6d6d227c4362229bd8c44c)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html) ![](assets/new.png)  
+- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)  
 - [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)  
 - [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)  
