@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-18 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-18 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -596,6 +596,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b) 
 - [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853) 
 - [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad) 
 - [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409) 

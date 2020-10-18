@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-18 08:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 18:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-17-React-要重写文档了](https://www.ershicimi.com/p/d4e9c3cf2445f67a12bb794f67bffa2f) ![](assets/new.png)  
+- [2020-10-17-React-要重写文档了](https://www.ershicimi.com/p/d4e9c3cf2445f67a12bb794f67bffa2f)  
 - [2020-10-16-贫民窟程序员利用下班-2-小时，薪资涨到-30K](https://www.ershicimi.com/p/142acc52ea9b20e003311734ce24e750)  
 - [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a)  
 - [2020-10-15-手撕-32-个面试高频知识，轻松应对编程题](https://www.ershicimi.com/p/3062d3890a9735fafd7f92e2f0b8ab67)  
@@ -95,6 +95,8 @@
 </summary>
 
 
+- [2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1) ![](assets/new.png)  
+- [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b) ![](assets/new.png)  
 - [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853)  
 - [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad)  
 - [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911)  
@@ -113,8 +115,6 @@
 - [2020-10-09-使用React-Hooks代替类的6大理由](https://www.ershicimi.com/p/4a9fdcdcc7786d03ae35afb4424b4f00)  
 - [2020-10-09-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/d1d2fc787dc35d6cea5136be28cb2c1c)  
 - [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7)  
-- [2020-10-07-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/7a3ade6c9a0f7793f5d5276a0a57b0ca)  
-- [2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
