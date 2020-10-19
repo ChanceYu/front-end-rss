@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-19 18:00:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -158,6 +158,9 @@
 - [【前端大全】2020-10-04-代数效应与-React](https://www.ershicimi.com/p/54e853d1bad4f6efb55ab24ade58953b) 
 - [【前端大全】2020-10-03-尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/16516e26d52339a78cc64fff251a932e) 
 - [【前端大全】2020-10-02-海贼王-One-Piece，一起康康-Vue-版本号中的彩蛋](https://www.ershicimi.com/p/6dcfe30a3b83c339a2dc6ad6d8497d0a) 
+- [【前端之巅】2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24) 
+- [【前端之巅】2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329) 
+- [【前端之巅】2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea) 
 - [【前端之巅】2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1) 
 - [【前端之巅】2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b) 
 - [【前端之巅】2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853) 

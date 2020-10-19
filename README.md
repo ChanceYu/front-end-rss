@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-19 08:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-19 18:00:07，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-10-18-2-年前端-7～9-月面试经历总结](https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff) ![](assets/new.png)  
-- [2020-10-18-面向对象：秋天当更好，若有你在场](https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764) ![](assets/new.png)  
+- [2020-10-18-2-年前端-7～9-月面试经历总结](https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff)  
+- [2020-10-18-面向对象：秋天当更好，若有你在场](https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764)  
 - [2020-10-17-React-要重写文档了](https://www.ershicimi.com/p/d4e9c3cf2445f67a12bb794f67bffa2f)  
 - [2020-10-16-贫民窟程序员利用下班-2-小时，薪资涨到-30K](https://www.ershicimi.com/p/142acc52ea9b20e003311734ce24e750)  
 - [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24) ![](assets/new.png)  
+- [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329) ![](assets/new.png)  
+- [2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea) ![](assets/new.png)  
 - [2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1)  
 - [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b)  
 - [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853)  
@@ -112,9 +115,6 @@
 - [2020-10-12-疫情黑天鹅到来时，那些崩溃的企业有三类特征值得注意-|-GTLC](https://www.ershicimi.com/p/2f2a0322cb463b9df732d60164354661)  
 - [2020-10-11-前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据](https://www.ershicimi.com/p/4fce0d5bd710f2558b10a5b5e4f20188)  
 - [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065)  
-- [2020-10-09-使用React-Hooks代替类的6大理由](https://www.ershicimi.com/p/4a9fdcdcc7786d03ae35afb4424b4f00)  
-- [2020-10-09-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/d1d2fc787dc35d6cea5136be28cb2c1c)  
-- [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

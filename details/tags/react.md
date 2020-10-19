@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-19 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-19 18:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -148,6 +148,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329) 
 - [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911) 
 - [2020-10-09-使用React-Hooks代替类的6大理由](https://www.ershicimi.com/p/4a9fdcdcc7786d03ae35afb4424b4f00) 
 - [2020-09-28-React-Hooks-还不如类？](https://www.ershicimi.com/p/c2ce523cd476365d7dac90540eac42c3) 
