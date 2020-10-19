@@ -16678,6 +16678,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何让文字作为CSS背景图片显示？",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/",
+        "date": "2020-10-20"
+      },
+      {
         "title": "SVG feTurbulence滤镜深入介绍",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/",
         "date": "2020-10-17"
