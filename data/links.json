@@ -16693,6 +16693,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "ES6模板字符串在HTML模板渲染中的应用",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/",
+        "date": "2020-10-22"
+      },
+      {
         "title": "如何让文字作为CSS背景图片显示？",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/",
         "date": "2020-10-20"
