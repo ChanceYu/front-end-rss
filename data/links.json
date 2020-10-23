@@ -5497,6 +5497,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "这次彻底搞懂 Promise(手写源码多注释篇)",
+        "link": "https://www.ershicimi.com/p/814fbc1a795cc38bd40f424945e12feb",
+        "date": "2020-10-22"
+      },
+      {
         "title": "私藏！React 硬核涨薪指南",
         "link": "https://www.ershicimi.com/p/48a56aee2780f75b799dff32cf35f5d0",
         "date": "2020-10-21"
@@ -17429,6 +17434,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 130 期）：低龄化的互联网",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html",
+        "date": "2020-10-23"
+      },
       {
         "title": "科技爱好者周刊（第 129 期）：创业的凸函数和凹函数",
         "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html",
