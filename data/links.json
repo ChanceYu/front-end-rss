@@ -16718,6 +16718,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "图片加载失败后CSS样式处理最佳实践",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/",
+        "date": "2020-10-24"
+      },
+      {
         "title": "ES6模板字符串在HTML模板渲染中的应用",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/",
         "date": "2020-10-22"
