@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-26 06:00:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-10-25-【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5) 
+- [【前端早读课】2020-10-25-【招聘】小米招聘前端开发工程师【北京、武汉】](https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464) 
 - [【前端早读课】2020-10-24-【第2096期】前端技术未来三年前瞻性思考](https://www.ershicimi.com/p/21d89f4d1d7f12bbe54eb5761d656b8a) 
 - [【前端早读课】2020-10-24-【活动】官宣！前端热爱，技术无界，第十五届-D2-前端技术论坛，我们云端相聚！](https://www.ershicimi.com/p/895e74967cdf7c9311d3ced134ac1c9a) 
 - [【前端早读课】2020-10-23-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/128a57ce5cafdfda37cad08a5a7d42a0) 
@@ -151,6 +153,7 @@
 - [【前端早读课】2020-10-10-【第2082期】程序员职业发展的-23-种路径](https://www.ershicimi.com/p/3c1443703d330061ef0612ad6d7daca5) 
 - [【前端早读课】2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/f70cbe658cc4f0946a62d79d616be829) 
 - [【前端早读课】2020-10-09-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
+- [【前端大全】2020-10-25-聊聊-Axios-中值得学习的核心知识点](https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6) 
 - [【前端大全】2020-10-24-104道-CSS-面试题，助你查漏补缺（上）](https://www.ershicimi.com/p/3db62b714668217568415be867dc57cc) 
 - [【前端大全】2020-10-23-80%-前端开发者都会有这样的错觉…](https://www.ershicimi.com/p/e1f1e89b7365c4b9ea6df0d993620db2) 
 - [【前端大全】2020-10-23-Chrome-86-新功能解读](https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6) 
@@ -212,6 +215,7 @@
 - [【前端之巅】2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b) 
 - [【前端之巅】2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6) 
 - [【前端之巅】2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) 
+- [【张鑫旭-鑫空间-鑫生活】2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-22-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-20-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/) 

@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2097期】表情包的魔幻之旅",
+        "link": "https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5",
+        "date": "2020-10-25"
+      },
+      {
+        "title": "【招聘】小米招聘前端开发工程师【北京、武汉】",
+        "link": "https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464",
+        "date": "2020-10-25"
+      },
+      {
         "title": "【第2096期】前端技术未来三年前瞻性思考",
         "link": "https://www.ershicimi.com/p/21d89f4d1d7f12bbe54eb5761d656b8a",
         "date": "2020-10-24"
@@ -5586,6 +5596,11 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "聊聊 Axios 中值得学习的核心知识点",
+        "link": "https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6",
+        "date": "2020-10-25"
+      },
       {
         "title": "104道 CSS 面试题，助你查漏补缺（上）",
         "link": "https://www.ershicimi.com/p/3db62b714668217568415be867dc57cc",
@@ -16812,6 +16827,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "细说iOS Safari下focus的行为",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/",
+        "date": "2020-10-26"
+      },
       {
         "title": "图片加载失败后CSS样式处理最佳实践",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/",

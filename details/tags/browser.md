@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-25 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-26 06:00:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -201,6 +201,7 @@
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
 - [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse) 
 - [2019-08-15-VSCode原理解析---断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/) 
+- [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/) 
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/) 
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html) 
