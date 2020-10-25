@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-10-16-【第2088期】前端中台化，把格局做大——NodeJS-和测试服务探索](https://www.ershicimi.com/p/baa890992490b238913e0594c4008ee7) 
+- [2020-10-15-【第2087期】Promise-V8-源码分析一](https://www.ershicimi.com/p/5db3e76d00682a67114059d440bc6c22) 
 - [2020-08-21-【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](https://www.ershicimi.com/p/4d066ebfc0e5df2c0e1d9f1468fb35ce) 
 - [2020-07-16-【第2004期】弄明白Deno与node的区别](https://www.ershicimi.com/p/365284240177804dce981aaaaf9251c1) 
 - [2020-06-23-【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621) 

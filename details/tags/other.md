@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-10-24 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-10-24-【第2096期】前端技术未来三年前瞻性思考](https://www.ershicimi.com/p/21d89f4d1d7f12bbe54eb5761d656b8a) 
+- [2020-10-24-【活动】官宣！前端热爱，技术无界，第十五届-D2-前端技术论坛，我们云端相聚！](https://www.ershicimi.com/p/895e74967cdf7c9311d3ced134ac1c9a) 
+- [2020-10-23-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/128a57ce5cafdfda37cad08a5a7d42a0) 
+- [2020-10-22-【第2094期】水波图实现原理](https://www.ershicimi.com/p/2c2906ba6c80e9cd94889152c01fb6ee) 
+- [2020-10-20-同为前端人，为什么别人工资那么高？](https://www.ershicimi.com/p/1fb6b3700d3b0cd01495e2a7320b3c38) 
+- [2020-10-17-【活动】第三届前端艺术家沙龙-"前端职业成长"-专场（深圳）](https://www.ershicimi.com/p/82480951dbdc1cf67ec4c480cf3d41ef) 
+- [2020-10-16-【图书】前端开发核心知识进阶：从夯实基础到突破瓶颈](https://www.ershicimi.com/p/acd63ed122eacce69fe54e9e116f28d2) 
 - [2020-10-12-【第2084期】从生产到消费，设计基于物料的前端开发链路](https://www.ershicimi.com/p/56d13f374e8cdd98bacdb11ec7ab4fe2) 
 - [2020-10-10-【第2082期】程序员职业发展的-23-种路径](https://www.ershicimi.com/p/3c1443703d330061ef0612ad6d7daca5) 
 - [2020-09-30-【第2080期】阿里-ChatUI-开源：让对话美而简单](https://www.ershicimi.com/p/e22ddec723c66e758c4e46cfb94741e7) 

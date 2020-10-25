@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-10-17-【第2089期】从编译过程，理解-Vue3-静态节点提升过程](https://www.ershicimi.com/p/6fcff7e08e12a4bb29479bb98ac2e6e6) 
 - [2020-10-13-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/9a4c806433a5334f1830151d83df59db) 
 - [2020-09-21-【第2071期】尤雨溪：Vue3.0全球发布会](https://www.ershicimi.com/p/1ac307a88c7a465b67aea4dd13061bed) 
 - [2020-09-20-【第2070期】Vue.js-3.0-"One-Piece"-发布](https://www.ershicimi.com/p/0f314ec9f744c5742dc8dfcb3169443b) 

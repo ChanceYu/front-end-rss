@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-24 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-25 08:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-10-22-【招聘】杭州小影科技招前端开发工程师](https://www.ershicimi.com/p/3505ea7f73fce3f32600b4fb5deab0c9) 
+- [2020-10-21-【招聘】字节跳动PaaS-toB前端团队招前端（中、高级）工程师](https://www.ershicimi.com/p/562444bf8242b915ac45c6a81f86368a) 
 - [2020-10-14-【招聘】有赞深圳研发中心招聘高级前端工程师](https://www.ershicimi.com/p/4866f119b5044a23a7225185b4edc9c8) 
 - [2020-10-12-【校招】美团2021届校园招聘前端岗位热招](https://www.ershicimi.com/p/4e164768a96b0daf1832abbc99ba9ffe) 
 - [2020-10-11-【招聘】腾讯云服务平台部招聘web前端开发](https://www.ershicimi.com/p/e6882ce8eef5fa26680e7def0e160f02) 
