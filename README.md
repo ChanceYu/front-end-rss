@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-26 06:00:06，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-26 12:00:06，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-10-25-【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5) ![](assets/new.png)  
-- [2020-10-25-【招聘】小米招聘前端开发工程师【北京、武汉】](https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464) ![](assets/new.png)  
+- [2020-10-25-【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5)  
+- [2020-10-25-【招聘】小米招聘前端开发工程师【北京、武汉】](https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464)  
 - [2020-10-24-【第2096期】前端技术未来三年前瞻性思考](https://www.ershicimi.com/p/21d89f4d1d7f12bbe54eb5761d656b8a)  
 - [2020-10-24-【活动】官宣！前端热爱，技术无界，第十五届-D2-前端技术论坛，我们云端相聚！](https://www.ershicimi.com/p/895e74967cdf7c9311d3ced134ac1c9a)  
 - [2020-10-23-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/128a57ce5cafdfda37cad08a5a7d42a0)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-25-聊聊-Axios-中值得学习的核心知识点](https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6) ![](assets/new.png)  
+- [2020-10-25-聊聊-Axios-中值得学习的核心知识点](https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6)  
 - [2020-10-24-104道-CSS-面试题，助你查漏补缺（上）](https://www.ershicimi.com/p/3db62b714668217568415be867dc57cc)  
 - [2020-10-23-80%-前端开发者都会有这样的错觉…](https://www.ershicimi.com/p/e1f1e89b7365c4b9ea6df0d993620db2)  
 - [2020-10-23-Chrome-86-新功能解读](https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6)  
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) ![](assets/new.png)  
+- [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)  
 - [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)  
 - [2020-10-22-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)  
 - [2020-10-20-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html) ![](assets/new.png)  
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)  
 - [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)  
 - [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)  
@@ -207,7 +208,6 @@
 - [2020-08-07-科技爱好者周刊（第-119-期）：降雨量和保险博弈-](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html)  
 - [2020-07-31-科技爱好者周刊（第-118-期）：高考志愿怎么填](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html)  
 - [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)  
-- [2020-07-22-苹果放弃英特尔芯片，为什么会打击美国计算机产业？](http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
