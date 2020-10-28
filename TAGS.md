@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-10-28 06:00:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 06:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,11 +125,11 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】TypeScript：-请停止使用-any](https://www.ershicimi.com/p/2b67055df70b1fab0a36876b8a80a73a)
 - [【前端大全】TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170)
 - [【前端大全】TypeScript-4.0-来了，有什么新的关注点？](https://www.ershicimi.com/p/f7eae2089b96a795d540ca01c6da9fe1)
 - [【前端大全】TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887)
 - [【前端大全】Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e)
-- [【前端大全】通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第2100期】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/550bcbd28ec5eb56aa68c7c210631376)
 - [【前端早读课】【第2093期】权威指南：Serverless-未来十年发展解读（下）](https://www.ershicimi.com/p/bc4302e3edee1ebe024dc40ae993d568)
 - [【前端早读课】【第2092期】权威指南：Serverless-未来十年发展解读（上）](https://www.ershicimi.com/p/9f8301daf2f63233efc3db0009425313)
 - [【前端早读课】【第2073期】content-visibility:-一个可以提高渲染性能的css属性](https://www.ershicimi.com/p/76746dc2d9d8603d46fd866857261573)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第1776期】2019年，是否可以抛弃-CSS-预处理器？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=1&sn=f49fef16e18cf4dfcc8c8a3650f220db&chksm=bd4978db8a3ef1cd6493ffe0bcd670d0b3623597e98a2693d7f9701c525e8c43f0d95b6789be&scene=27#wechat_redirect)
 - [【前端早读课】【第1758期】面向传统，Serverless-进化之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234368&idx=1&sn=17cfe5170431c3ac2994c48bfcf996bf&chksm=bd4979c48a3ef0d25ec0222ee5464315f3dd1c4e9152ffb238f47a651a358663d64bcab197dd&scene=27#wechat_redirect)
 - [【前端早读课】【第1734期】Serverless—前端的3.0时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=1&sn=8b85cdbd88b126d6e78b0383eae29eaa&chksm=bd4947338a3ece250628345cb7598855d934bfbb984064bd78347c697a1828284016e1c69e19&scene=27#wechat_redirect)
-- [【前端早读课】【图书】CSS选择器世界](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233961&idx=2&sn=b86d57c8d3f6dd6fec23f307ca46b534&chksm=bd49472d8a3ece3b543fa24c890b04077a72cab40e9d647ea22c596e23ddc6a47c9aaab213a4&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05)
 - [【前端早读课】【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb)
 - [【前端早读课】【图书】研发质量保障与工程效率](https://www.ershicimi.com/p/a38809d265fd7b43cc47a7c36c7afaf1)
 - [【前端早读课】【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2076期】阿里@风月：中医药大学毕业的业务女前端修炼之路](https://www.ershicimi.com/p/6054fa798c50686ff6967cd55270ec79)
 - [【前端早读课】【第2075期】多端研发体系：可渐进迁移的提效之路](https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5)
 - [【前端早读课】【活动】第二届「缤纷·滨江前端技术沙龙」](https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f)
-- [【前端早读课】什么是架构师的必备技能？](https://www.ershicimi.com/p/2e8561a3db5894b24adaa073a0581784)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-28 06:00:07，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-29 06:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,8 +33,10 @@
 </summary>
 
 
-- [2020-10-27-【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb) ![](assets/new.png)  
-- [2020-10-27-【招聘】字节跳动Data-广告研发团队招前端（校社招）](https://www.ershicimi.com/p/bd5c13f61d0f5cf526b60782162b3a9d) ![](assets/new.png)  
+- [2020-10-28-这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05) ![](assets/new.png)  
+- [2020-10-28-【第2100期】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/550bcbd28ec5eb56aa68c7c210631376) ![](assets/new.png)  
+- [2020-10-27-【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb)  
+- [2020-10-27-【招聘】字节跳动Data-广告研发团队招前端（校社招）](https://www.ershicimi.com/p/bd5c13f61d0f5cf526b60782162b3a9d)  
 - [2020-10-26-【第2098期】Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](https://www.ershicimi.com/p/733e94b8467f8da46133cf064d6bfe56)  
 - [2020-10-26-【图书】研发质量保障与工程效率](https://www.ershicimi.com/p/a38809d265fd7b43cc47a7c36c7afaf1)  
 - [2020-10-25-【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5)  
@@ -51,8 +53,6 @@
 - [2020-10-20-【第2092期】权威指南：Serverless-未来十年发展解读（上）](https://www.ershicimi.com/p/9f8301daf2f63233efc3db0009425313)  
 - [2020-10-19-【第2091期】前端模块化的十年征程](https://www.ershicimi.com/p/efb68a1575dee0ceff0ce0c3594506f5)  
 - [2020-10-18-【第2090期】webpack-5-正式发布了](https://www.ershicimi.com/p/14e349407bb8b328876673328fb9c1cc)  
-- [2020-10-17-【第2089期】从编译过程，理解-Vue3-静态节点提升过程](https://www.ershicimi.com/p/6fcff7e08e12a4bb29479bb98ac2e6e6)  
-- [2020-10-17-【活动】第三届前端艺术家沙龙-"前端职业成长"-专场（深圳）](https://www.ershicimi.com/p/82480951dbdc1cf67ec4c480cf3d41ef)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,8 +64,10 @@
 </summary>
 
 
-- [2020-10-27-104道-CSS-面试题，助你查漏补缺（下）](https://www.ershicimi.com/p/6e493a6963d693e3eb60eeb8f8996dc9) ![](assets/new.png)  
-- [2020-10-27-面向对象：我会以最佳状态等待你和爱情的到来](https://www.ershicimi.com/p/ffd600d24b961422b345e660adc219b1) ![](assets/new.png)  
+- [2020-10-28-@前端人，这里有个保障涨薪33%的机会，你来吗？](https://www.ershicimi.com/p/8355cd6d19e2d2dc34252cef963c71c6) ![](assets/new.png)  
+- [2020-10-28-TypeScript：-请停止使用-any](https://www.ershicimi.com/p/2b67055df70b1fab0a36876b8a80a73a) ![](assets/new.png)  
+- [2020-10-27-104道-CSS-面试题，助你查漏补缺（下）](https://www.ershicimi.com/p/6e493a6963d693e3eb60eeb8f8996dc9)  
+- [2020-10-27-面向对象：我会以最佳状态等待你和爱情的到来](https://www.ershicimi.com/p/ffd600d24b961422b345e660adc219b1)  
 - [2020-10-26-为什么要使用-Node.js？这几点你必须知道！](https://www.ershicimi.com/p/7846e9cba8274a58ecd0d7e869dec4d7)  
 - [2020-10-26-React-组件到底什么时候-render-啊](https://www.ershicimi.com/p/0c4dbccf27efec6ba8b34b21646c3bd4)  
 - [2020-10-25-聊聊-Axios-中值得学习的核心知识点](https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6)  
@@ -82,8 +84,6 @@
 - [2020-10-18-面向对象：秋天当更好，若有你在场](https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764)  
 - [2020-10-17-React-要重写文档了](https://www.ershicimi.com/p/d4e9c3cf2445f67a12bb794f67bffa2f)  
 - [2020-10-16-贫民窟程序员利用下班-2-小时，薪资涨到-30K](https://www.ershicimi.com/p/142acc52ea9b20e003311734ce24e750)  
-- [2020-10-16-前端如何优雅的处理类数组对象？](https://www.ershicimi.com/p/ff68d432c6aa930c231ca20ef17d903a)  
-- [2020-10-15-手撕-32-个面试高频知识，轻松应对编程题](https://www.ershicimi.com/p/3062d3890a9735fafd7f92e2f0b8ab67)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
