@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-29 12:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-29 18:00:09，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,19 @@
 </summary>
 
 
+- [2020-10-28-我希望我从未学过编程](https://www.ershicimi.com/p/c1140e3ad15ad0c18c0ac2c85b05b8ce) ![](assets/new.png)  
+- [2020-10-28-每位前端开发者都应该知道的方法论：JavaScript-中的-DILOS-原则](https://www.ershicimi.com/p/11348a26b7e681b971618c0fdfd24d2b) ![](assets/new.png)  
+- [2020-10-28-API生态的发展与机遇：从5000组数据看中国API生态与开发者现状-|-活动推荐](https://www.ershicimi.com/p/ef2650a9b43453e2d2d459d8cbd0425a) ![](assets/new.png)  
+- [2020-10-26-2020年：前端开发的痛苦与快乐](https://www.ershicimi.com/p/6765ba46ee73fe33a50db03db4dfceb5) ![](assets/new.png)  
+- [2020-10-26-分享几个我日常使用的VS-Code插件](https://www.ershicimi.com/p/186f034124a606b2ab10cd1cfdce83e2) ![](assets/new.png)  
+- [2020-10-26-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/b93fcb3192866260c208504bc17c1627) ![](assets/new.png)  
+- [2020-10-25-前端周报：微软为IE加入禁用JScript选项；马云：我最大的经验就是没怎么成功过；《我的世界》强制](https://www.ershicimi.com/p/d8b98891d062bc08da551f8900841525) ![](assets/new.png)  
+- [2020-10-25-中国程序员人口普查：原来你是这样的程序员-|-活动推荐](https://www.ershicimi.com/p/f621fa75440a34332b3c40cd031b3da8) ![](assets/new.png)  
+- [2020-10-23-NPM-移除-4-个恶意软件包：泄露用户数据已有数月，4-个包分工明确](https://www.ershicimi.com/p/c68dcf2815ac0465ae22cfcfae5e68c9) ![](assets/new.png)  
+- [2020-10-23-解决实际问题的24个ES6代码段](https://www.ershicimi.com/p/c9c69f1eda71beaa1d2044890b850d4b) ![](assets/new.png)  
+- [2020-10-21-Node.js-15-正式发布：加入新工具类，附带-npm-7，支持-QUIC-协议](https://www.ershicimi.com/p/1ae735ff3738883e65d73c3fbb24e1a4) ![](assets/new.png)  
+- [2020-10-21-我是如何为-Angular-Components-做出贡献的](https://www.ershicimi.com/p/1523a3386b5725d7770b5bed98ab4e83) ![](assets/new.png)  
+- [2020-10-21-做下一个互联网时代的“水电公司”——融云的通信云视野与蓝图-|-活动推荐](https://www.ershicimi.com/p/bb9bc970ba2c26d75e79164151249067) ![](assets/new.png)  
 - [2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24)  
 - [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329)  
 - [2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea)  
@@ -102,19 +115,6 @@
 - [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b)  
 - [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853)  
 - [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad)  
-- [2020-10-16-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/98f4a3ae33489b4d3367e56f6471a911)  
-- [2020-10-15-用了VS-Code、IDEA等十几款编辑器后，我总结出优秀编辑器的特质](https://www.ershicimi.com/p/3473ace1ffa310078e61e88e9b6b8409)  
-- [2020-10-15-Android-Studio-4.1发布：可直接运行安卓模拟器、支持Dagger导航和TensorF](https://www.ershicimi.com/p/c76fd68ab86dc37cd9c25ff7185ff393)  
-- [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6)  
-- [2020-10-14-对微前端的11个错误认识](https://www.ershicimi.com/p/3aba955c6b41e1cdebb47e3b7d3c5b75)  
-- [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811)  
-- [2020-10-13-Webpack-5.0正式发布：更好的持久化缓存算法、提高Web平台的兼容性、带来Node生态新功能](https://www.ershicimi.com/p/4fce59604241cf9e3d11195033539895)  
-- [2020-10-13-安卓手机时间突然变慢？网友：糟糕，上班迟到了](https://www.ershicimi.com/p/dbd06ec6129a8f64325ca2d20c7561a2)  
-- [2020-10-12-73个强无敌的NPM软件包](https://www.ershicimi.com/p/bf889a259a6b587c3c7d197565d25f40)  
-- [2020-10-12-一位资深程序员的感悟：这个行业，仅靠年轻人是不够的](https://www.ershicimi.com/p/84311d0f478a7cb23118c24cbd57c1af)  
-- [2020-10-12-疫情黑天鹅到来时，那些崩溃的企业有三类特征值得注意-|-GTLC](https://www.ershicimi.com/p/2f2a0322cb463b9df732d60164354661)  
-- [2020-10-11-前端周报：恶意npm软件包收集用户隐私信息并在GitHub传播；传迅雷前CEO曾派司机进机房盗取数据](https://www.ershicimi.com/p/4fce0d5bd710f2558b10a5b5e4f20188)  
-- [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html) ![](assets/new.png)  
+- [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)  
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)  
 - [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)  
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)  

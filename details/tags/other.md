@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-29 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -611,6 +611,12 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-10-28-我希望我从未学过编程](https://www.ershicimi.com/p/c1140e3ad15ad0c18c0ac2c85b05b8ce) 
+- [2020-10-28-API生态的发展与机遇：从5000组数据看中国API生态与开发者现状-|-活动推荐](https://www.ershicimi.com/p/ef2650a9b43453e2d2d459d8cbd0425a) 
+- [2020-10-26-2020年：前端开发的痛苦与快乐](https://www.ershicimi.com/p/6765ba46ee73fe33a50db03db4dfceb5) 
+- [2020-10-26-分享几个我日常使用的VS-Code插件](https://www.ershicimi.com/p/186f034124a606b2ab10cd1cfdce83e2) 
+- [2020-10-25-中国程序员人口普查：原来你是这样的程序员-|-活动推荐](https://www.ershicimi.com/p/f621fa75440a34332b3c40cd031b3da8) 
+- [2020-10-21-做下一个互联网时代的“水电公司”——融云的通信云视野与蓝图-|-活动推荐](https://www.ershicimi.com/p/bb9bc970ba2c26d75e79164151249067) 
 - [2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24) 
 - [2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea) 
 - [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b) 
