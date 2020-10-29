@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-29 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-10-30 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 面向对象❤️
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-10-29-面向对象：喜欢文学、热爱生活的妹子](https://www.ershicimi.com/p/26b9e9f3287809e4e23cd687b0782f83) 
 - [2020-10-27-面向对象：我会以最佳状态等待你和爱情的到来](https://www.ershicimi.com/p/ffd600d24b961422b345e660adc219b1) 
 - [2020-10-18-面向对象：秋天当更好，若有你在场](https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764) 
 - [2020-10-15-面向对象：希望你和我一样可静可动，携手探索这个世界的美好](https://www.ershicimi.com/p/517f2a17f305cccf1cf56789ecd65461) 
