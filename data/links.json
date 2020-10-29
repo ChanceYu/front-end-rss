@@ -17625,6 +17625,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "微信小程序入门教程之三：脚本编程",
+        "link": "http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html",
+        "date": "2020-10-29"
+      },
+      {
         "title": "微信小程序入门教程之二：页面样式",
         "link": "http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html",
         "date": "2020-10-27"
