@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-30 12:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-31 06:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2020-10-30-【第2102期】Vue-SSR-性能优化实践](https://www.ershicimi.com/p/6508025af5f13e0ac5cdf4223e7ed341) ![](assets/new.png)  
 - [2020-10-29-【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55)  
 - [2020-10-28-这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05)  
 - [2020-10-28-【第2100期】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/550bcbd28ec5eb56aa68c7c210631376)  
@@ -52,7 +53,6 @@
 - [2020-10-21-【招聘】字节跳动PaaS-toB前端团队招前端（中、高级）工程师](https://www.ershicimi.com/p/562444bf8242b915ac45c6a81f86368a)  
 - [2020-10-20-同为前端人，为什么别人工资那么高？](https://www.ershicimi.com/p/1fb6b3700d3b0cd01495e2a7320b3c38)  
 - [2020-10-20-【第2092期】权威指南：Serverless-未来十年发展解读（上）](https://www.ershicimi.com/p/9f8301daf2f63233efc3db0009425313)  
-- [2020-10-19-【第2091期】前端模块化的十年征程](https://www.ershicimi.com/p/efb68a1575dee0ceff0ce0c3594506f5)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-10-30-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/a6d549d7ac51f0f45636028d8518c2d3) ![](assets/new.png)  
+- [2020-10-30-npm-v7.0.0-发布：-带来数个重大更新](https://www.ershicimi.com/p/ce28c6cf9ebe0530242f4c1a43d48695) ![](assets/new.png)  
 - [2020-10-29-浏览器是如何工作的：Chrome-V8让你更懂JavaScript](https://www.ershicimi.com/p/030a8d7a5ff0705f028f151f2d39f06a)  
 - [2020-10-29-面向对象：喜欢文学、热爱生活的妹子](https://www.ershicimi.com/p/26b9e9f3287809e4e23cd687b0782f83)  
 - [2020-10-28-@前端人，这里有个保障涨薪33%的机会，你来吗？](https://www.ershicimi.com/p/8355cd6d19e2d2dc34252cef963c71c6)  
@@ -82,8 +84,6 @@
 - [2020-10-20-ES11新增的这9个新特性，你都掌握了吗？](https://www.ershicimi.com/p/f65773915b3db9636aa2f04e270eea9d)  
 - [2020-10-19-一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？](https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7)  
 - [2020-10-19-Vue-中-Axios-的封装和-API-接口的管理](https://www.ershicimi.com/p/40440035451f28d499a0a4e120fc77f9)  
-- [2020-10-18-2-年前端-7～9-月面试经历总结](https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff)  
-- [2020-10-18-面向对象：秋天当更好，若有你在场](https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html) ![](assets/new.png)  
+- [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)  
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)  
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)  
 - [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)  
