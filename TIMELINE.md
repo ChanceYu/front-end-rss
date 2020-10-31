@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-31 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-01 06:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -161,6 +161,7 @@
 - [【前端早读课】2020-10-10-【第2082期】程序员职业发展的-23-种路径](https://www.ershicimi.com/p/3c1443703d330061ef0612ad6d7daca5) 
 - [【前端早读课】2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/f70cbe658cc4f0946a62d79d616be829) 
 - [【前端早读课】2020-10-09-【第2081期】理解ECMAScript规范（三）](https://www.ershicimi.com/p/4d21600e1f652edfd01e993e17f27f0f) 
+- [【前端大全】2020-10-31-微软将不兼容-IE-的网站重定向至-Edge](https://www.ershicimi.com/p/152bd39728de08696f72a5d6bb24713c) 
 - [【前端大全】2020-10-30-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/a6d549d7ac51f0f45636028d8518c2d3) 
 - [【前端大全】2020-10-30-npm-v7.0.0-发布：-带来数个重大更新](https://www.ershicimi.com/p/ce28c6cf9ebe0530242f4c1a43d48695) 
 - [【前端大全】2020-10-29-浏览器是如何工作的：Chrome-V8让你更懂JavaScript](https://www.ershicimi.com/p/030a8d7a5ff0705f028f151f2d39f06a) 
