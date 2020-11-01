@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -612,6 +612,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-10-31-票选你最喜欢的编程语言（前端篇）-|-投票送书](https://www.ershicimi.com/p/ee1306f714d675c02ea2db1f70a7bcd3) 
+- [2020-10-30-来，微软带你一起上天，肩并肩“看云”喽-|-活动推荐](https://www.ershicimi.com/p/1bdefcdd5b058bd0448601b0c1260375) 
 - [2020-10-28-我希望我从未学过编程](https://www.ershicimi.com/p/c1140e3ad15ad0c18c0ac2c85b05b8ce) 
 - [2020-10-28-API生态的发展与机遇：从5000组数据看中国API生态与开发者现状-|-活动推荐](https://www.ershicimi.com/p/ef2650a9b43453e2d2d459d8cbd0425a) 
 - [2020-10-26-2020年：前端开发的痛苦与快乐](https://www.ershicimi.com/p/6765ba46ee73fe33a50db03db4dfceb5) 

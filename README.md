@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-01 06:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-01 18:00:11，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-10-31-微软将不兼容-IE-的网站重定向至-Edge](https://www.ershicimi.com/p/152bd39728de08696f72a5d6bb24713c) ![](assets/new.png)  
+- [2020-10-31-微软将不兼容-IE-的网站重定向至-Edge](https://www.ershicimi.com/p/152bd39728de08696f72a5d6bb24713c)  
 - [2020-10-30-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/a6d549d7ac51f0f45636028d8518c2d3)  
 - [2020-10-30-npm-v7.0.0-发布：-带来数个重大更新](https://www.ershicimi.com/p/ce28c6cf9ebe0530242f4c1a43d48695)  
 - [2020-10-29-浏览器是如何工作的：Chrome-V8让你更懂JavaScript](https://www.ershicimi.com/p/030a8d7a5ff0705f028f151f2d39f06a)  
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2020-10-31-票选你最喜欢的编程语言（前端篇）-|-投票送书](https://www.ershicimi.com/p/ee1306f714d675c02ea2db1f70a7bcd3) ![](assets/new.png)  
+- [2020-10-30-JavaScript-ES2021最值得期待的新特性解析](https://www.ershicimi.com/p/b4e31d87f72f4e8dfa4e0a56368f6e91) ![](assets/new.png)  
+- [2020-10-30-Next.js-10-正式发布：带来诸多新特性](https://www.ershicimi.com/p/6e5c1bed1e35ed6432f8529742dacf9d) ![](assets/new.png)  
+- [2020-10-30-来，微软带你一起上天，肩并肩“看云”喽-|-活动推荐](https://www.ershicimi.com/p/1bdefcdd5b058bd0448601b0c1260375) ![](assets/new.png)  
 - [2020-10-28-我希望我从未学过编程](https://www.ershicimi.com/p/c1140e3ad15ad0c18c0ac2c85b05b8ce)  
 - [2020-10-28-每位前端开发者都应该知道的方法论：JavaScript-中的-DILOS-原则](https://www.ershicimi.com/p/11348a26b7e681b971618c0fdfd24d2b)  
 - [2020-10-28-API生态的发展与机遇：从5000组数据看中国API生态与开发者现状-|-活动推荐](https://www.ershicimi.com/p/ef2650a9b43453e2d2d459d8cbd0425a)  
@@ -111,10 +115,6 @@
 - [2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24)  
 - [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329)  
 - [2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea)  
-- [2020-10-18-前端周报：创业公司名中带droid遭谷歌起诉；谷歌或被迫出售Chrome和部分广告业务；微软将在Wi](https://www.ershicimi.com/p/13067a9e6e82413658aa509cb05bc2d1)  
-- [2020-10-18-CEO首次分享：极客邦13年成长复盘-｜-极客时间](https://www.ershicimi.com/p/dc4363828f4a8109e6672928d3f05e7b)  
-- [2020-10-16-你必须知道的11个微前端框架](https://www.ershicimi.com/p/97d9ad05b7def6c98b3818ec1aae0853)  
-- [2020-10-16-Linux-开发过程那么麻烦，是否值得？](https://www.ershicimi.com/p/46165449dd2ae6935105657412ea71ad)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

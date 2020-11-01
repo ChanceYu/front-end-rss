@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 06:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-01 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -207,6 +207,10 @@
 - [【前端大全】2020-10-04-代数效应与-React](https://www.ershicimi.com/p/54e853d1bad4f6efb55ab24ade58953b) 
 - [【前端大全】2020-10-03-尤雨溪全职做开源年薪百万，网友：不愧是前端尤大神](https://www.ershicimi.com/p/16516e26d52339a78cc64fff251a932e) 
 - [【前端大全】2020-10-02-海贼王-One-Piece，一起康康-Vue-版本号中的彩蛋](https://www.ershicimi.com/p/6dcfe30a3b83c339a2dc6ad6d8497d0a) 
+- [【前端之巅】2020-10-31-票选你最喜欢的编程语言（前端篇）-|-投票送书](https://www.ershicimi.com/p/ee1306f714d675c02ea2db1f70a7bcd3) 
+- [【前端之巅】2020-10-30-JavaScript-ES2021最值得期待的新特性解析](https://www.ershicimi.com/p/b4e31d87f72f4e8dfa4e0a56368f6e91) 
+- [【前端之巅】2020-10-30-Next.js-10-正式发布：带来诸多新特性](https://www.ershicimi.com/p/6e5c1bed1e35ed6432f8529742dacf9d) 
+- [【前端之巅】2020-10-30-来，微软带你一起上天，肩并肩“看云”喽-|-活动推荐](https://www.ershicimi.com/p/1bdefcdd5b058bd0448601b0c1260375) 
 - [【前端之巅】2020-10-28-我希望我从未学过编程](https://www.ershicimi.com/p/c1140e3ad15ad0c18c0ac2c85b05b8ce) 
 - [【前端之巅】2020-10-28-每位前端开发者都应该知道的方法论：JavaScript-中的-DILOS-原则](https://www.ershicimi.com/p/11348a26b7e681b971618c0fdfd24d2b) 
 - [【前端之巅】2020-10-28-API生态的发展与机遇：从5000组数据看中国API生态与开发者现状-|-活动推荐](https://www.ershicimi.com/p/ef2650a9b43453e2d2d459d8cbd0425a) 

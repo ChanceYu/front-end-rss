@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-01 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -309,6 +309,8 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2020-10-30-JavaScript-ES2021最值得期待的新特性解析](https://www.ershicimi.com/p/b4e31d87f72f4e8dfa4e0a56368f6e91) 
+- [2020-10-30-Next.js-10-正式发布：带来诸多新特性](https://www.ershicimi.com/p/6e5c1bed1e35ed6432f8529742dacf9d) 
 - [2020-10-28-每位前端开发者都应该知道的方法论：JavaScript-中的-DILOS-原则](https://www.ershicimi.com/p/11348a26b7e681b971618c0fdfd24d2b) 
 - [2020-10-25-前端周报：微软为IE加入禁用JScript选项；马云：我最大的经验就是没怎么成功过；《我的世界》强制](https://www.ershicimi.com/p/d8b98891d062bc08da551f8900841525) 
 - [2020-10-23-解决实际问题的24个ES6代码段](https://www.ershicimi.com/p/c9c69f1eda71beaa1d2044890b850d4b) 
