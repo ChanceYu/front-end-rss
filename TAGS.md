@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-01 18:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-02 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323)
 - [【前端早读课】【第2100期】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/550bcbd28ec5eb56aa68c7c210631376)
 - [【前端早读课】【第2093期】权威指南：Serverless-未来十年发展解读（下）](https://www.ershicimi.com/p/bc4302e3edee1ebe024dc40ae993d568)
 - [【前端早读课】【第2092期】权威指南：Serverless-未来十年发展解读（上）](https://www.ershicimi.com/p/9f8301daf2f63233efc3db0009425313)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第1816期】巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235323&idx=1&sn=4e8ad0692de3ed6d041a340d5cb176bc&chksm=bd497a7f8a3ef369278c433ae1443af30a9ec6ba7202cdb244f1b265eddd8e254d075153ef4b&scene=27#wechat_redirect)
 - [【前端早读课】【第1776期】2019年，是否可以抛弃-CSS-预处理器？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234655&idx=1&sn=f49fef16e18cf4dfcc8c8a3650f220db&chksm=bd4978db8a3ef1cd6493ffe0bcd670d0b3623597e98a2693d7f9701c525e8c43f0d95b6789be&scene=27#wechat_redirect)
 - [【前端早读课】【第1758期】面向传统，Serverless-进化之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234368&idx=1&sn=17cfe5170431c3ac2994c48bfcf996bf&chksm=bd4979c48a3ef0d25ec0222ee5464315f3dd1c4e9152ffb238f47a651a358663d64bcab197dd&scene=27#wechat_redirect)
-- [【前端早读课】【第1734期】Serverless—前端的3.0时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233975&idx=1&sn=8b85cdbd88b126d6e78b0383eae29eaa&chksm=bd4947338a3ece250628345cb7598855d934bfbb984064bd78347c697a1828284016e1c69e19&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -398,6 +398,7 @@
 
 
 
+- [【前端早读课】【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5)
 - [【前端早读课】【第2095期】用Canvas实现一个动态甜甜圈图表](https://www.ershicimi.com/p/71cf6084eeec6304b455d334030e9439)
 - [【前端早读课】【第2036期】如何将Canvas绘制过程转为视频](https://www.ershicimi.com/p/727e24fa191cab2b75d598dda8a41335)
 - [【前端早读课】【第2031期】APNG-那些事](https://www.ershicimi.com/p/0b91f049f1eac1c08cfd70c761b36127)
@@ -417,7 +418,6 @@
 - [【前端大全】PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd)
 - [【前端大全】canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect)
 - [【前端之巅】亿级前端项目中的3D技术：支付宝2020年新春活动的背后](https://www.ershicimi.com/p/619bea0d1092c5620efa859ace4b92b1)
-- [【前端之巅】搞定复杂-GUI！西安交大提出前端设计图自动转代码新方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489854&idx=1&sn=4828d5d36c3becdf8b1f46490b5ce708#wechat_redirect)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -686,6 +686,7 @@
 
 
 
+- [【前端大全】面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200)
 - [【前端大全】面向对象：喜欢文学、热爱生活的妹子](https://www.ershicimi.com/p/26b9e9f3287809e4e23cd687b0782f83)
 - [【前端大全】面向对象：我会以最佳状态等待你和爱情的到来](https://www.ershicimi.com/p/ffd600d24b961422b345e660adc219b1)
 - [【前端大全】面向对象：秋天当更好，若有你在场](https://www.ershicimi.com/p/df8c8b0dfd3855037ab15073ff057764)
@@ -705,7 +706,6 @@
 - [【前端大全】面向对象：不需要轰轰烈烈的爱情，期待可以平淡中相守](https://www.ershicimi.com/p/87ac912b943cb1132120c1d403800520)
 - [【前端大全】面向对象：让我们相互陪伴，一起终结孤单](https://www.ershicimi.com/p/7f19340267c1e56ba75fd36e12539d14)
 - [【前端大全】面向对象：让我们相互陪伴，一起终结孤单](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557953&idx=2&sn=696a80d8da01cbf46da8dcfb1b6ae0ac&chksm=80254780b752ce9610bc6cecd9077995834e657c67d9d0ee9d85567e231589fec20f0b402f7d&scene=27#wechat_redirect)
-- [【前端大全】面向对象：一个人走可以很快，两个人携手可以走得更远，希望有缘遇见](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=2&sn=f3a0f12a8d608f246754d2fa7c7cd17c&chksm=8025587db752d16b538859b605f862e619d93305c68413d468e4277a357216876df8a7304499&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/oop.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec)
 - [【前端早读课】这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05)
 - [【前端早读课】【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb)
 - [【前端早读课】【图书】研发质量保障与工程效率](https://www.ershicimi.com/p/a38809d265fd7b43cc47a7c36c7afaf1)
@@ -739,7 +740,6 @@
 - [【前端早读课】【活动】2020前端早读课锦鲤，独宠你一人](https://www.ershicimi.com/p/0472851c9b81b18fcfac43bfe60f9d71)
 - [【前端早读课】【第2076期】阿里@风月：中医药大学毕业的业务女前端修炼之路](https://www.ershicimi.com/p/6054fa798c50686ff6967cd55270ec79)
 - [【前端早读课】【第2075期】多端研发体系：可渐进迁移的提效之路](https://www.ershicimi.com/p/43d705078787a07898196fbbcc3b6da5)
-- [【前端早读课】【活动】第二届「缤纷·滨江前端技术沙龙」](https://www.ershicimi.com/p/9fadff08ef74f9fa1dfd35abe7a9098f)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-01 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-02 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -18,7 +18,7 @@
 <td><a href="#2020-08">08月</a></td>
 <td><a href="#2020-09">09月</a></td>
 <td><a href="#2020-10">10月</a></td>
-<td>11月</td>
+<td><a href="#2020-11">11月</a></td>
 <td>12月</td>
 </tr>
 
@@ -117,11 +117,26 @@
 ## 文章链接
 
 <details open>
+<summary id="2020-11">
+ 2020-11
+</summary>
+
+
+- [【前端早读课】2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) 
+- [【前端早读课】2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) 
+- [【前端大全】2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7) 
+- [【前端大全】2020-11-01-面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
 <summary id="2020-10">
  2020-10
 </summary>
 
 
+- [【前端早读课】2020-10-31-【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec) 
 - [【前端早读课】2020-10-30-【第2102期】Vue-SSR-性能优化实践](https://www.ershicimi.com/p/6508025af5f13e0ac5cdf4223e7ed341) 
 - [【前端早读课】2020-10-29-【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55) 
 - [【前端早读课】2020-10-28-这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05) 
