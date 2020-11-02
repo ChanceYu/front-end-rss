@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-02 22:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-03 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -470,6 +470,7 @@
 
 
 
+- [【前端早读课】【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b)
 - [【前端早读课】【招聘】字节跳动杭州-Data-广告系统-展现优化招前端开发工程师（校招+社招）](https://www.ershicimi.com/p/062d9435803e76ddcbc362c09914370f)
 - [【前端早读课】【第2010期】QQ音乐Android客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/60282b2dfda54fde4c15cef6d0f05e50)
 - [【前端早读课】【第1996期】前端性能优化：当页面渲染遇上边缘计算](https://www.ershicimi.com/p/5149fe900b8f1c8252f460b48d48e6c6)
@@ -489,7 +490,6 @@
 - [【前端早读课】【第1613期】项目优化却体现不出自己的价值？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232292&idx=1&sn=8f399163cc2cebdfb633267161d5a434#rd)
 - [【前端早读课】【第1609期】Chrome运行时性能瓶颈分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232248&idx=1&sn=9551177f482d4cdb664592ad15e499b6#rd)
 - [【前端早读课】【英】网页的图片延迟加载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232063&idx=2&sn=1fc9bc9f27fc4057d76f9a58b5a0a01b#rd)
-- [【前端早读课】【第1519期】2019-前端性能优化年度总结-—-第二部分](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231288&idx=1&sn=0b079525cbeed6313d7446f8e311fc4f#wechat_redirect)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

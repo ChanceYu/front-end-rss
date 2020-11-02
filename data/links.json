@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2105期】云音乐前端体验优化实践",
+        "link": "https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b",
+        "date": "2020-11-02"
+      },
+      {
         "title": "【第2104期】如何1人5天开发完3D数据可视化大屏之一",
         "link": "https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5",
         "date": "2020-11-01"
@@ -5651,6 +5656,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "我写 React 的常用套路",
+        "link": "https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0",
+        "date": "2020-11-02"
+      },
+      {
+        "title": "聊聊如何设计组件",
+        "link": "https://www.ershicimi.com/p/d231355438610f1c4ae1aac8312f243c",
+        "date": "2020-11-02"
+      },
       {
         "title": "彻底搞懂 Node.js 中的 Require 机制",
         "link": "https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7",
