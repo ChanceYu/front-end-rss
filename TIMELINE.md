@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-02 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-02 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -126,6 +126,7 @@
 - [【前端早读课】2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) 
 - [【前端大全】2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7) 
 - [【前端大全】2020-11-01-面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200) 
+- [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

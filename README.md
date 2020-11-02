@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-02 06:00:24，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-02 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) ![](assets/new.png)  
-- [2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) ![](assets/new.png)  
-- [2020-10-31-【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec) ![](assets/new.png)  
+- [2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5)  
+- [2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323)  
+- [2020-10-31-【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec)  
 - [2020-10-30-【第2102期】Vue-SSR-性能优化实践](https://www.ershicimi.com/p/6508025af5f13e0ac5cdf4223e7ed341)  
 - [2020-10-29-【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55)  
 - [2020-10-28-这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7) ![](assets/new.png)  
-- [2020-11-01-面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200) ![](assets/new.png)  
+- [2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7)  
+- [2020-11-01-面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200)  
 - [2020-10-31-微软将不兼容-IE-的网站重定向至-Edge](https://www.ershicimi.com/p/152bd39728de08696f72a5d6bb24713c)  
 - [2020-10-30-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/a6d549d7ac51f0f45636028d8518c2d3)  
 - [2020-10-30-npm-v7.0.0-发布：-带来数个重大更新](https://www.ershicimi.com/p/ce28c6cf9ebe0530242f4c1a43d48695)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) ![](assets/new.png)  
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)  
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)  
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)  
@@ -207,7 +208,6 @@
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)  
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)  
 - [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html)  
-- [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

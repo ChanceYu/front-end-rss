@@ -17775,6 +17775,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "微信小程序入门教程之四：API 使用",
+        "link": "http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html",
+        "date": "2020-11-02"
+      },
+      {
         "title": "科技爱好者周刊（第 131 期）：你的头脑是二值逻辑，还是三值逻辑？",
         "link": "http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html",
         "date": "2020-10-30"
