@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-04 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,9 +122,13 @@
 </summary>
 
 
+- [【前端早读课】2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef) 
+- [【前端早读课】2020-11-03-【第2106期】小程序依赖分析实践](https://www.ershicimi.com/p/e7742bb8d7091acee05b2760011f970b) 
 - [【前端早读课】2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b) 
 - [【前端早读课】2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) 
 - [【前端早读课】2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) 
+- [【前端大全】2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132) 
+- [【前端大全】2020-11-03-面向对象：内心渴望一份美好的情感，可以一起看日出日落携手共度一生](https://www.ershicimi.com/p/44275d93b6f87e0aa0a5d685d6f3b140) 
 - [【前端大全】2020-11-02-我写-React-的常用套路](https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0) 
 - [【前端大全】2020-11-02-聊聊如何设计组件](https://www.ershicimi.com/p/d231355438610f1c4ae1aac8312f243c) 
 - [【前端大全】2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-03 06:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-04 06:00:08，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,7 +33,9 @@
 </summary>
 
 
-- [2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b) ![](assets/new.png)  
+- [2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef) ![](assets/new.png)  
+- [2020-11-03-【第2106期】小程序依赖分析实践](https://www.ershicimi.com/p/e7742bb8d7091acee05b2760011f970b) ![](assets/new.png)  
+- [2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b)  
 - [2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5)  
 - [2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323)  
 - [2020-10-31-【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec)  
@@ -51,8 +53,6 @@
 - [2020-10-24-【活动】官宣！前端热爱，技术无界，第十五届-D2-前端技术论坛，我们云端相聚！](https://www.ershicimi.com/p/895e74967cdf7c9311d3ced134ac1c9a)  
 - [2020-10-23-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/128a57ce5cafdfda37cad08a5a7d42a0)  
 - [2020-10-23-【第2095期】用Canvas实现一个动态甜甜圈图表](https://www.ershicimi.com/p/71cf6084eeec6304b455d334030e9439)  
-- [2020-10-22-【第2094期】水波图实现原理](https://www.ershicimi.com/p/2c2906ba6c80e9cd94889152c01fb6ee)  
-- [2020-10-22-【招聘】杭州小影科技招前端开发工程师](https://www.ershicimi.com/p/3505ea7f73fce3f32600b4fb5deab0c9)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,8 +64,10 @@
 </summary>
 
 
-- [2020-11-02-我写-React-的常用套路](https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0) ![](assets/new.png)  
-- [2020-11-02-聊聊如何设计组件](https://www.ershicimi.com/p/d231355438610f1c4ae1aac8312f243c) ![](assets/new.png)  
+- [2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132) ![](assets/new.png)  
+- [2020-11-03-面向对象：内心渴望一份美好的情感，可以一起看日出日落携手共度一生](https://www.ershicimi.com/p/44275d93b6f87e0aa0a5d685d6f3b140) ![](assets/new.png)  
+- [2020-11-02-我写-React-的常用套路](https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0)  
+- [2020-11-02-聊聊如何设计组件](https://www.ershicimi.com/p/d231355438610f1c4ae1aac8312f243c)  
 - [2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7)  
 - [2020-11-01-面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200)  
 - [2020-10-31-微软将不兼容-IE-的网站重定向至-Edge](https://www.ershicimi.com/p/152bd39728de08696f72a5d6bb24713c)  
@@ -82,8 +84,6 @@
 - [2020-10-25-聊聊-Axios-中值得学习的核心知识点](https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6)  
 - [2020-10-24-104道-CSS-面试题，助你查漏补缺（上）](https://www.ershicimi.com/p/3db62b714668217568415be867dc57cc)  
 - [2020-10-23-80%-前端开发者都会有这样的错觉…](https://www.ershicimi.com/p/e1f1e89b7365c4b9ea6df0d993620db2)  
-- [2020-10-23-Chrome-86-新功能解读](https://www.ershicimi.com/p/8a19e5941cf3dcf9d81b365ca7aaa4d6)  
-- [2020-10-22-这次彻底搞懂-Promise手写源码多注释篇](https://www.ershicimi.com/p/814fbc1a795cc38bd40f424945e12feb)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

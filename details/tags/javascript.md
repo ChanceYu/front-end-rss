@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-03 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-04 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -134,6 +134,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132) 
 - [2020-11-02-聊聊如何设计组件](https://www.ershicimi.com/p/d231355438610f1c4ae1aac8312f243c) 
 - [2020-10-22-这次彻底搞懂-Promise手写源码多注释篇](https://www.ershicimi.com/p/814fbc1a795cc38bd40f424945e12feb) 
 - [2020-10-21-Map-和-Set-两种数据结构在-ES6-的作用](https://www.ershicimi.com/p/b9519a1c74b56abc7f810c9597f63f3f) 
