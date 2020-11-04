@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-04 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-05 06:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,11 +122,15 @@
 </summary>
 
 
+- [【前端早读课】2020-11-04-【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625) 
+- [【前端早读课】2020-11-04-【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae) 
 - [【前端早读课】2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef) 
 - [【前端早读课】2020-11-03-【第2106期】小程序依赖分析实践](https://www.ershicimi.com/p/e7742bb8d7091acee05b2760011f970b) 
 - [【前端早读课】2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b) 
 - [【前端早读课】2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) 
 - [【前端早读课】2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) 
+- [【前端大全】2020-11-04-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/39b43fedd38a41e2d1c496f66b5bf7eb) 
+- [【前端大全】2020-11-04-纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e) 
 - [【前端大全】2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132) 
 - [【前端大全】2020-11-03-面向对象：内心渴望一份美好的情感，可以一起看日出日落携手共度一生](https://www.ershicimi.com/p/44275d93b6f87e0aa0a5d685d6f3b140) 
 - [【前端大全】2020-11-02-我写-React-的常用套路](https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0) 
