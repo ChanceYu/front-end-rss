@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 06:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-05 08:00:26，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-11-04-【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625) ![](assets/new.png)  
-- [2020-11-04-【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae) ![](assets/new.png)  
+- [2020-11-04-【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625)  
+- [2020-11-04-【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae)  
 - [2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef)  
 - [2020-11-03-【第2106期】小程序依赖分析实践](https://www.ershicimi.com/p/e7742bb8d7091acee05b2760011f970b)  
 - [2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-11-04-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/39b43fedd38a41e2d1c496f66b5bf7eb) ![](assets/new.png)  
-- [2020-11-04-纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e) ![](assets/new.png)  
+- [2020-11-04-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/39b43fedd38a41e2d1c496f66b5bf7eb)  
+- [2020-11-04-纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e)  
 - [2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132)  
 - [2020-11-03-面向对象：内心渴望一份美好的情感，可以一起看日出日落携手共度一生](https://www.ershicimi.com/p/44275d93b6f87e0aa0a5d685d6f3b140)  
 - [2020-11-02-我写-React-的常用套路](https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0)  
@@ -95,6 +95,13 @@
 </summary>
 
 
+- [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf) ![](assets/new.png)  
+- [2020-11-04-如何用-Angular-实现深色模式](https://www.ershicimi.com/p/7972501d76ad733a52a0c1e3d381ecdc) ![](assets/new.png)  
+- [2020-11-04-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/fefc02ebbc58f12b93c0eb0890a58f60) ![](assets/new.png)  
+- [2020-11-02-Netflix-是如何实现-Android-与-iOS-共用一套代码？](https://www.ershicimi.com/p/50954c7b6629eaa1de4f6758d9e4bfab) ![](assets/new.png)  
+- [2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a) ![](assets/new.png)  
+- [2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6) ![](assets/new.png)  
+- [2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879) ![](assets/new.png)  
 - [2020-10-31-票选你最喜欢的编程语言（前端篇）-|-投票送书](https://www.ershicimi.com/p/ee1306f714d675c02ea2db1f70a7bcd3)  
 - [2020-10-30-JavaScript-ES2021最值得期待的新特性解析](https://www.ershicimi.com/p/b4e31d87f72f4e8dfa4e0a56368f6e91)  
 - [2020-10-30-Next.js-10-正式发布：带来诸多新特性](https://www.ershicimi.com/p/6e5c1bed1e35ed6432f8529742dacf9d)  
@@ -108,13 +115,6 @@
 - [2020-10-25-前端周报：微软为IE加入禁用JScript选项；马云：我最大的经验就是没怎么成功过；《我的世界》强制](https://www.ershicimi.com/p/d8b98891d062bc08da551f8900841525)  
 - [2020-10-25-中国程序员人口普查：原来你是这样的程序员-|-活动推荐](https://www.ershicimi.com/p/f621fa75440a34332b3c40cd031b3da8)  
 - [2020-10-23-NPM-移除-4-个恶意软件包：泄露用户数据已有数月，4-个包分工明确](https://www.ershicimi.com/p/c68dcf2815ac0465ae22cfcfae5e68c9)  
-- [2020-10-23-解决实际问题的24个ES6代码段](https://www.ershicimi.com/p/c9c69f1eda71beaa1d2044890b850d4b)  
-- [2020-10-21-Node.js-15-正式发布：加入新工具类，附带-npm-7，支持-QUIC-协议](https://www.ershicimi.com/p/1ae735ff3738883e65d73c3fbb24e1a4)  
-- [2020-10-21-我是如何为-Angular-Components-做出贡献的](https://www.ershicimi.com/p/1523a3386b5725d7770b5bed98ab4e83)  
-- [2020-10-21-做下一个互联网时代的“水电公司”——融云的通信云视野与蓝图-|-活动推荐](https://www.ershicimi.com/p/bb9bc970ba2c26d75e79164151249067)  
-- [2020-10-19-前端开发者们值得了解的-11-项前端技巧](https://www.ershicimi.com/p/f6a313d2d1fd18d2548c2d4930b53d24)  
-- [2020-10-19-从-Angular-转到-React，网易严选的前端工程化实践](https://www.ershicimi.com/p/21db946587cffaa9189b0166e8a9c329)  
-- [2020-10-19-华为云“对话机器人”成长指南已送达-|-活动推荐](https://www.ershicimi.com/p/e76cf59693e12ce1d068668b0ebd76ea)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

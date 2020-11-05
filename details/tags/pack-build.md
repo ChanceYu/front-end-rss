@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-05 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-05 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -70,6 +70,7 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf) 
 - [2020-10-23-NPM-移除-4-个恶意软件包：泄露用户数据已有数月，4-个包分工明确](https://www.ershicimi.com/p/c68dcf2815ac0465ae22cfcfae5e68c9) 
 - [2020-10-21-Node.js-15-正式发布：加入新工具类，附带-npm-7，支持-QUIC-协议](https://www.ershicimi.com/p/1ae735ff3738883e65d73c3fbb24e1a4) 
 - [2020-10-14-如何使用-WebAssembly-和-JS-构建高性能应用程序](https://www.ershicimi.com/p/ee374a761c57098369214012d76de0a6) 
