@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-06 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-11-05-【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d) 
 - [2020-11-04-【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625) 
 - [2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef) 
 - [2020-10-31-【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec) 
@@ -357,6 +358,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-11-06-知乎热议：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/ccfbe1bca8eaf3e5cd32e8018608ba44) 
+- [2020-11-06-如何更好地理解中间件和洋葱模型](https://www.ershicimi.com/p/e3f806f23e3b05739534ff40c1d71bb4) 
 - [2020-10-30-前端程序员现状：不突破瓶颈很难生存！](https://www.ershicimi.com/p/a6d549d7ac51f0f45636028d8518c2d3) 
 - [2020-10-28-@前端人，这里有个保障涨薪33%的机会，你来吗？](https://www.ershicimi.com/p/8355cd6d19e2d2dc34252cef963c71c6) 
 - [2020-10-25-聊聊-Axios-中值得学习的核心知识点](https://www.ershicimi.com/p/65c5c7bd4d857cde793b833eadf97fa6) 

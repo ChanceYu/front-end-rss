@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-06 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-07 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-06-React-开发者该如何更好地修炼内功？](https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb) 
 - [2020-10-09-能读React源码的人，很吃香！](https://www.ershicimi.com/p/f70cbe658cc4f0946a62d79d616be829) 
 - [2020-09-24-【第2074期】React-17.0.0-rc.2-版本发布，引入全新的-JSX-转换](https://www.ershicimi.com/p/a95295177c829ec7f74e3fceb030add5) 
 - [2020-09-02-React谁都会，你的优势在哪里？](https://www.ershicimi.com/p/adff9b42befe5d8c81e4095e4dab9f68) 

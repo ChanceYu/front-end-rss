@@ -5,6 +5,21 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "React 开发者该如何更好地修炼内功？",
+        "link": "https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "【第2109期】CodeSandbox是如何让npm上的模块直接在浏览器端运行的",
+        "link": "https://www.ershicimi.com/p/05734aa61e3cd87ee8adbfbcb1a2bd25",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "【第2108期】开源富文本编辑器技术的演进",
+        "link": "https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d",
+        "date": "2020-11-05"
+      },
+      {
         "title": "【第2107期】在Ant Design 4.0里，我们如何追求快乐的工作？",
         "link": "https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625",
         "date": "2020-11-04"
@@ -5676,6 +5691,21 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "知乎热议：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？",
+        "link": "https://www.ershicimi.com/p/ccfbe1bca8eaf3e5cd32e8018608ba44",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "如何更好地理解中间件和洋葱模型",
+        "link": "https://www.ershicimi.com/p/e3f806f23e3b05739534ff40c1d71bb4",
+        "date": "2020-11-06"
+      },
+      {
+        "title": "浏览器渲染原理",
+        "link": "https://www.ershicimi.com/p/b02f3f5b6a3a82b1e3a0f0d3f703c9d1",
+        "date": "2020-11-05"
+      },
       {
         "title": "手把手带你从零打造Vue SSR，清晰易懂！",
         "link": "https://www.ershicimi.com/p/39b43fedd38a41e2d1c496f66b5bf7eb",
