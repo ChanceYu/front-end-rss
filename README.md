@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-05 08:00:26，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-06 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,13 +95,13 @@
 </summary>
 
 
-- [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf) ![](assets/new.png)  
-- [2020-11-04-如何用-Angular-实现深色模式](https://www.ershicimi.com/p/7972501d76ad733a52a0c1e3d381ecdc) ![](assets/new.png)  
-- [2020-11-04-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/fefc02ebbc58f12b93c0eb0890a58f60) ![](assets/new.png)  
-- [2020-11-02-Netflix-是如何实现-Android-与-iOS-共用一套代码？](https://www.ershicimi.com/p/50954c7b6629eaa1de4f6758d9e4bfab) ![](assets/new.png)  
-- [2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a) ![](assets/new.png)  
-- [2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6) ![](assets/new.png)  
-- [2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879) ![](assets/new.png)  
+- [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf)  
+- [2020-11-04-如何用-Angular-实现深色模式](https://www.ershicimi.com/p/7972501d76ad733a52a0c1e3d381ecdc)  
+- [2020-11-04-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/fefc02ebbc58f12b93c0eb0890a58f60)  
+- [2020-11-02-Netflix-是如何实现-Android-与-iOS-共用一套代码？](https://www.ershicimi.com/p/50954c7b6629eaa1de4f6758d9e4bfab)  
+- [2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a)  
+- [2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6)  
+- [2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879)  
 - [2020-10-31-票选你最喜欢的编程语言（前端篇）-|-投票送书](https://www.ershicimi.com/p/ee1306f714d675c02ea2db1f70a7bcd3)  
 - [2020-10-30-JavaScript-ES2021最值得期待的新特性解析](https://www.ershicimi.com/p/b4e31d87f72f4e8dfa4e0a56368f6e91)  
 - [2020-10-30-Next.js-10-正式发布：带来诸多新特性](https://www.ershicimi.com/p/6e5c1bed1e35ed6432f8529742dacf9d)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) ![](assets/new.png)  
 - [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)  
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)  
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)  
@@ -207,7 +208,6 @@
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)  
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)  
-- [2020-08-12-勒索软件产业化的感想](http://www.ruanyifeng.com/blog/2020/08/ransomware.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
