@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-07 06:00:25，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 06:00:08，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,9 +33,11 @@
 </summary>
 
 
-- [2020-11-06-React-开发者该如何更好地修炼内功？](https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb) ![](assets/new.png)  
-- [2020-11-06-【第2109期】CodeSandbox是如何让npm上的模块直接在浏览器端运行的](https://www.ershicimi.com/p/05734aa61e3cd87ee8adbfbcb1a2bd25) ![](assets/new.png)  
-- [2020-11-05-【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d) ![](assets/new.png)  
+- [2020-11-07-【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff) ![](assets/new.png)  
+- [2020-11-07-【招聘】抖音招前端工程师（安全方向）](https://www.ershicimi.com/p/3039e410a23fbab68198b40b37a37219) ![](assets/new.png)  
+- [2020-11-06-React-开发者该如何更好地修炼内功？](https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb)  
+- [2020-11-06-【第2109期】CodeSandbox是如何让npm上的模块直接在浏览器端运行的](https://www.ershicimi.com/p/05734aa61e3cd87ee8adbfbcb1a2bd25)  
+- [2020-11-05-【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d)  
 - [2020-11-04-【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625)  
 - [2020-11-04-【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae)  
 - [2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef)  
@@ -51,8 +53,6 @@
 - [2020-10-27-【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb)  
 - [2020-10-27-【招聘】字节跳动Data-广告研发团队招前端（校社招）](https://www.ershicimi.com/p/bd5c13f61d0f5cf526b60782162b3a9d)  
 - [2020-10-26-【第2098期】Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](https://www.ershicimi.com/p/733e94b8467f8da46133cf064d6bfe56)  
-- [2020-10-26-【图书】研发质量保障与工程效率](https://www.ershicimi.com/p/a38809d265fd7b43cc47a7c36c7afaf1)  
-- [2020-10-25-【第2097期】表情包的魔幻之旅](https://www.ershicimi.com/p/1b3e4d844ce7755e3a5604122b7fddb5)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,11 @@
 </summary>
 
 
-- [2020-11-06-知乎热议：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/ccfbe1bca8eaf3e5cd32e8018608ba44) ![](assets/new.png)  
-- [2020-11-06-如何更好地理解中间件和洋葱模型](https://www.ershicimi.com/p/e3f806f23e3b05739534ff40c1d71bb4) ![](assets/new.png)  
-- [2020-11-05-浏览器渲染原理](https://www.ershicimi.com/p/b02f3f5b6a3a82b1e3a0f0d3f703c9d1) ![](assets/new.png)  
+- [2020-11-07-前端-api-请求缓存方案](https://www.ershicimi.com/p/1d22bcaf410020b5670cfc0ab5c8bed7) ![](assets/new.png)  
+- [2020-11-07-面向对象：希望找到一个志同道合，简单温暖的小哥哥](https://www.ershicimi.com/p/9249e81b31459c9f2c775f4fa2d589ec) ![](assets/new.png)  
+- [2020-11-06-知乎热议：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/ccfbe1bca8eaf3e5cd32e8018608ba44)  
+- [2020-11-06-如何更好地理解中间件和洋葱模型](https://www.ershicimi.com/p/e3f806f23e3b05739534ff40c1d71bb4)  
+- [2020-11-05-浏览器渲染原理](https://www.ershicimi.com/p/b02f3f5b6a3a82b1e3a0f0d3f703c9d1)  
 - [2020-11-04-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/39b43fedd38a41e2d1c496f66b5bf7eb)  
 - [2020-11-04-纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e)  
 - [2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132)  
@@ -82,8 +84,6 @@
 - [2020-10-29-面向对象：喜欢文学、热爱生活的妹子](https://www.ershicimi.com/p/26b9e9f3287809e4e23cd687b0782f83)  
 - [2020-10-28-@前端人，这里有个保障涨薪33%的机会，你来吗？](https://www.ershicimi.com/p/8355cd6d19e2d2dc34252cef963c71c6)  
 - [2020-10-28-TypeScript：-请停止使用-any](https://www.ershicimi.com/p/2b67055df70b1fab0a36876b8a80a73a)  
-- [2020-10-27-104道-CSS-面试题，助你查漏补缺（下）](https://www.ershicimi.com/p/6e493a6963d693e3eb60eeb8f8996dc9)  
-- [2020-10-27-面向对象：我会以最佳状态等待你和爱情的到来](https://www.ershicimi.com/p/ffd600d24b961422b345e660adc219b1)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
