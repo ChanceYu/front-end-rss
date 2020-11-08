@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 08:00:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-08-【招聘】深圳思维巡航招聘前端工程师、前端架构师](https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571) 
 - [2020-10-27-【招聘】字节跳动Data-广告研发团队招前端（校社招）](https://www.ershicimi.com/p/bd5c13f61d0f5cf526b60782162b3a9d) 
 - [2020-10-25-【招聘】小米招聘前端开发工程师【北京、武汉】](https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464) 
 - [2020-10-22-【招聘】杭州小影科技招前端开发工程师](https://www.ershicimi.com/p/3505ea7f73fce3f32600b4fb5deab0c9) 

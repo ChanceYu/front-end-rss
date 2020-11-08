@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-08 08:00:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-09 06:00:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -34,6 +34,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2020-11-08-被创造者嫌弃，Node.js-如何应对来自-Deno-的挑战](https://www.ershicimi.com/p/c6cf72c0bb806cb45190e947dca2f010) 
 - [2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7) 
 - [2020-10-29-浏览器是如何工作的：Chrome-V8让你更懂JavaScript](https://www.ershicimi.com/p/030a8d7a5ff0705f028f151f2d39f06a) 
 - [2020-10-26-为什么要使用-Node.js？这几点你必须知道！](https://www.ershicimi.com/p/7846e9cba8274a58ecd0d7e869dec4d7) 

@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2111期】知乎部署系统演进",
+        "link": "https://www.ershicimi.com/p/b511a6f4c44cfb53f89e9f4c2c97c90d",
+        "date": "2020-11-08"
+      },
+      {
+        "title": "【招聘】深圳思维巡航招聘前端工程师、前端架构师",
+        "link": "https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571",
+        "date": "2020-11-08"
+      },
+      {
         "title": "【第2110期】企业级数据可视化应用有哪些机遇与挑战？",
         "link": "https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff",
         "date": "2020-11-07"
@@ -5701,6 +5711,11 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "被创造者嫌弃，Node.js 如何应对来自 Deno 的挑战",
+        "link": "https://www.ershicimi.com/p/c6cf72c0bb806cb45190e947dca2f010",
+        "date": "2020-11-08"
+      },
       {
         "title": "前端 api 请求缓存方案",
         "link": "https://www.ershicimi.com/p/1d22bcaf410020b5670cfc0ab5c8bed7",
