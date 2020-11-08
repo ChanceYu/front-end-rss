@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-08 06:00:08，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-08 08:00:06，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-11-07-【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff) ![](assets/new.png)  
-- [2020-11-07-【招聘】抖音招前端工程师（安全方向）](https://www.ershicimi.com/p/3039e410a23fbab68198b40b37a37219) ![](assets/new.png)  
+- [2020-11-07-【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff)  
+- [2020-11-07-【招聘】抖音招前端工程师（安全方向）](https://www.ershicimi.com/p/3039e410a23fbab68198b40b37a37219)  
 - [2020-11-06-React-开发者该如何更好地修炼内功？](https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb)  
 - [2020-11-06-【第2109期】CodeSandbox是如何让npm上的模块直接在浏览器端运行的](https://www.ershicimi.com/p/05734aa61e3cd87ee8adbfbcb1a2bd25)  
 - [2020-11-05-【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-11-07-前端-api-请求缓存方案](https://www.ershicimi.com/p/1d22bcaf410020b5670cfc0ab5c8bed7) ![](assets/new.png)  
-- [2020-11-07-面向对象：希望找到一个志同道合，简单温暖的小哥哥](https://www.ershicimi.com/p/9249e81b31459c9f2c775f4fa2d589ec) ![](assets/new.png)  
+- [2020-11-07-前端-api-请求缓存方案](https://www.ershicimi.com/p/1d22bcaf410020b5670cfc0ab5c8bed7)  
+- [2020-11-07-面向对象：希望找到一个志同道合，简单温暖的小哥哥](https://www.ershicimi.com/p/9249e81b31459c9f2c775f4fa2d589ec)  
 - [2020-11-06-知乎热议：美团21届应届生薪资严重倒挂老人，这是逼老人离职吗？](https://www.ershicimi.com/p/ccfbe1bca8eaf3e5cd32e8018608ba44)  
 - [2020-11-06-如何更好地理解中间件和洋葱模型](https://www.ershicimi.com/p/e3f806f23e3b05739534ff40c1d71bb4)  
 - [2020-11-05-浏览器渲染原理](https://www.ershicimi.com/p/b02f3f5b6a3a82b1e3a0f0d3f703c9d1)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2020-11-06-为什么说Flutter可能不是下一件大事？](https://www.ershicimi.com/p/a32c25e2f4ec69b97a643aa71f61dde5) ![](assets/new.png)  
+- [2020-11-06-滴滴DoKit-Android核心原理揭秘之AOP字节码实现](https://www.ershicimi.com/p/2b36b798bb8c581ec518d2b18f3be428) ![](assets/new.png)  
+- [2020-11-06-除了-Vue，你还需要掌握前端工程化-|-极客大学](https://www.ershicimi.com/p/9bfebf7dac3b900842c7b067dd22a66e) ![](assets/new.png)  
 - [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf)  
 - [2020-11-04-如何用-Angular-实现深色模式](https://www.ershicimi.com/p/7972501d76ad733a52a0c1e3d381ecdc)  
 - [2020-11-04-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/fefc02ebbc58f12b93c0eb0890a58f60)  
@@ -112,9 +115,6 @@
 - [2020-10-26-2020年：前端开发的痛苦与快乐](https://www.ershicimi.com/p/6765ba46ee73fe33a50db03db4dfceb5)  
 - [2020-10-26-分享几个我日常使用的VS-Code插件](https://www.ershicimi.com/p/186f034124a606b2ab10cd1cfdce83e2)  
 - [2020-10-26-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/b93fcb3192866260c208504bc17c1627)  
-- [2020-10-25-前端周报：微软为IE加入禁用JScript选项；马云：我最大的经验就是没怎么成功过；《我的世界》强制](https://www.ershicimi.com/p/d8b98891d062bc08da551f8900841525)  
-- [2020-10-25-中国程序员人口普查：原来你是这样的程序员-|-活动推荐](https://www.ershicimi.com/p/f621fa75440a34332b3c40cd031b3da8)  
-- [2020-10-23-NPM-移除-4-个恶意软件包：泄露用户数据已有数月，4-个包分工明确](https://www.ershicimi.com/p/c68dcf2815ac0465ae22cfcfae5e68c9)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
