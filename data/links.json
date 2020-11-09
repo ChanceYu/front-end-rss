@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2112期】 import { reactive } from 'vue'",
+        "link": "https://www.ershicimi.com/p/e0b04274e3f80a376286730bd4f28904",
+        "date": "2020-11-09"
+      },
+      {
         "title": "【第2111期】知乎部署系统演进",
         "link": "https://www.ershicimi.com/p/b511a6f4c44cfb53f89e9f4c2c97c90d",
         "date": "2020-11-08"
@@ -5711,6 +5716,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "React 凭什么成为前端开发必备神器？",
+        "link": "https://www.ershicimi.com/p/09a0b7c6cee79b6be6e22ac58e6f1d57",
+        "date": "2020-11-09"
+      },
+      {
+        "title": "使用这些思路与技巧，我读懂了多个优秀的开源项目",
+        "link": "https://www.ershicimi.com/p/30242a92c5488cae2cc0e1b26007aa7d",
+        "date": "2020-11-09"
+      },
       {
         "title": "被创造者嫌弃，Node.js 如何应对来自 Deno 的挑战",
         "link": "https://www.ershicimi.com/p/c6cf72c0bb806cb45190e947dca2f010",
