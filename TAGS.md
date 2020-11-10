@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-10 06:00:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-11 06:00:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【前端早读课】【第2113期】使用-React-Hooks-声明-setInterval](https://www.ershicimi.com/p/57e196eb8d95cea6fc59aefb1ad5beb0)
 - [【前端早读课】【第2112期】-import-{-reactive-}-from-'vue'](https://www.ershicimi.com/p/e0b04274e3f80a376286730bd4f28904)
 - [【前端早读课】React-开发者该如何更好地修炼内功？](https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb)
 - [【前端早读课】能读React源码的人，很吃香！](https://www.ershicimi.com/p/f70cbe658cc4f0946a62d79d616be829)
@@ -57,7 +58,6 @@
 - [【前端早读课】【第1872期】React-Hooks的体系设计之三---什么是ref](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=1&sn=92f88f355e5bb2cbbd00e7cfff9475ce&chksm=bd497c7e8a3ef568586ac7d0dd245fcd451f9e698c11f9a5345d1f2aba01c018ed3784026017&scene=27#wechat_redirect)
 - [【前端早读课】【第1866期】React-Hooks的体系设计之二---状态粒度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=1&sn=c56010d3e91b0c2993872c2511f820d0&chksm=bd497c328a3ef524c18cc82fd04e9d59f1b0a66bf925da32eaf6029d56162bd03f7f6b84329e&scene=27#wechat_redirect)
 - [【前端早读课】【第1859期】React-Hooks的体系设计之一---分层](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235720&idx=1&sn=23d82cbf1230c230da4f756ef881f9da&chksm=bd497c0c8a3ef51a5b47c79f70238f8d9cb85e21649aaa1345935abe43a79c5e57c2899bafdd&scene=27#wechat_redirect)
-- [【前端早读课】【第1836期】Remax---使用-React-开发小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235473&idx=1&sn=43f3b7b908cbfabe5c608b00282a0a56&chksm=bd497d158a3ef40373115d34d5b67f5c6e2f55adc893ff631fd743e7a96fe982ad4c6c48825e&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/65e3f178707655ad2a516bb0c65ac83b)
 - [【前端早读课】【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae)
 - [【前端早读课】【第2091期】前端模块化的十年征程](https://www.ershicimi.com/p/efb68a1575dee0ceff0ce0c3594506f5)
 - [【前端早读课】【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d)
 - [【前端早读课】【第1999期】深入源码剖析componentWillXXX为什么UNSAFE](https://www.ershicimi.com/p/5fde5d90c7525f88083782635daad3d1)
 - [【前端早读课】【早读】如何在-JavaScript-中更好地使用数组](https://www.ershicimi.com/p/5c55a749773acb604b44ad534dd2d37c)
-- [【前端早读课】【第1997期】NutUI-Picker组件的设计与实现](https://www.ershicimi.com/p/288f58c55d16388814a93c21661ff825)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
