@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-12 06:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 06:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -38,6 +38,7 @@
 
 
 
+- [【前端早读课】【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178)
 - [【前端早读课】【第2113期】使用-React-Hooks-声明-setInterval](https://www.ershicimi.com/p/57e196eb8d95cea6fc59aefb1ad5beb0)
 - [【前端早读课】【第2112期】-import-{-reactive-}-from-'vue'](https://www.ershicimi.com/p/e0b04274e3f80a376286730bd4f28904)
 - [【前端早读课】React-开发者该如何更好地修炼内功？](https://www.ershicimi.com/p/c67157370722f048199529aff5acf0eb)
@@ -57,7 +58,6 @@
 - [【前端早读课】【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)
 - [【前端早读课】【第1872期】React-Hooks的体系设计之三---什么是ref](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235834&idx=1&sn=92f88f355e5bb2cbbd00e7cfff9475ce&chksm=bd497c7e8a3ef568586ac7d0dd245fcd451f9e698c11f9a5345d1f2aba01c018ed3784026017&scene=27#wechat_redirect)
 - [【前端早读课】【第1866期】React-Hooks的体系设计之二---状态粒度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=1&sn=c56010d3e91b0c2993872c2511f820d0&chksm=bd497c328a3ef524c18cc82fd04e9d59f1b0a66bf925da32eaf6029d56162bd03f7f6b84329e&scene=27#wechat_redirect)
-- [【前端早读课】【第1859期】React-Hooks的体系设计之一---分层](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235720&idx=1&sn=23d82cbf1230c230da4f756ef881f9da&chksm=bd497c0c8a3ef51a5b47c79f70238f8d9cb85e21649aaa1345935abe43a79c5e57c2899bafdd&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c)
 - [【前端早读课】【招聘】深圳思维巡航招聘前端工程师、前端架构师](https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571)
 - [【前端早读课】【招聘】字节跳动Data-广告研发团队招前端（校社招）](https://www.ershicimi.com/p/bd5c13f61d0f5cf526b60782162b3a9d)
 - [【前端早读课】【招聘】小米招聘前端开发工程师【北京、武汉】](https://www.ershicimi.com/p/f09be646f6b677ed9cf9690866ea9464)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】字节跳动广州EI团队招前端开发Leader以及高级前端工程师](https://www.ershicimi.com/p/01b3208db8c27d26d1fe73f2f499dd88)
 - [【前端早读课】【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584)
 - [【前端早读课】【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c)
-- [【前端早读课】【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
