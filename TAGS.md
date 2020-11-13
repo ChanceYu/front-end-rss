@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-13 12:00:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02)
 - [【前端早读课】【第2102期】Vue-SSR-性能优化实践](https://www.ershicimi.com/p/6508025af5f13e0ac5cdf4223e7ed341)
 - [【前端早读课】【第2089期】从编译过程，理解-Vue3-静态节点提升过程](https://www.ershicimi.com/p/6fcff7e08e12a4bb29479bb98ac2e6e6)
 - [【前端早读课】手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/9a4c806433a5334f1830151d83df59db)
@@ -93,7 +94,6 @@
 - [【前端早读课】【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)
 - [【前端早读课】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)
 - [【前端早读课】【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect)
-- [【前端早读课】80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f)
 - [【前端早读课】【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c)
 - [【前端早读课】【招聘】深圳思维巡航招聘前端工程师、前端架构师](https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571)
 - [【前端早读课】【招聘】字节跳动Data-广告研发团队招前端（校社招）](https://www.ershicimi.com/p/bd5c13f61d0f5cf526b60782162b3a9d)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】北京猎聘多面中心招高级前端开发工程师](https://www.ershicimi.com/p/8051d6fde1f84fe20c31249ee0701e70)
 - [【前端早读课】【招聘】字节跳动广州EI团队招前端开发Leader以及高级前端工程师](https://www.ershicimi.com/p/01b3208db8c27d26d1fe73f2f499dd88)
 - [【前端早读课】【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584)
-- [【前端早读课】【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
