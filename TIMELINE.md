@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-13 12:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -174,6 +174,7 @@
 - [【前端之巅】2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a) 
 - [【前端之巅】2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6) 
 - [【前端之巅】2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879) 
+- [【阮一峰的网络日志】2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) 
 - [【阮一峰的网络日志】2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) 
 - [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 

@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-13 06:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-13 12:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-11-12-【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178) ![](assets/new.png)  
-- [2020-11-12-【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c) ![](assets/new.png)  
+- [2020-11-12-【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178)  
+- [2020-11-12-【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c)  
 - [2020-11-11-【第2114期】浏览器环境下的JavaScript-Event-Loop](https://www.ershicimi.com/p/546d5077d3d5dc4e5e4d0837f595bd59)  
 - [2020-11-11-Sass：LibSass已被废弃](https://www.ershicimi.com/p/3f416ac980a98a985c9a5454d14a9cec)  
 - [2020-11-10-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/65e3f178707655ad2a516bb0c65ac83b)  
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-11-12-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/6e9f471f35c165694469a0c096502d82) ![](assets/new.png)  
+- [2020-11-12-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/6e9f471f35c165694469a0c096502d82)  
 - [2020-11-11-能读-React-源码的人，很吃香！](https://www.ershicimi.com/p/8c63d9b6f5c1885e1e800ebc64bab6fe)  
 - [2020-11-11-12-道腾讯前端面试真题及答案整理](https://www.ershicimi.com/p/f85d01fac293858c5e5686caf45be1a6)  
 - [2020-11-10-今年双11，前端开发者别漏了这几样](https://www.ershicimi.com/p/ebebadb04fd4467b3e8b8634d5621d9c)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) ![](assets/new.png)  
 - [2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html)  
 - [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)  
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)  
@@ -207,7 +208,6 @@
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html)  
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)  
-- [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
