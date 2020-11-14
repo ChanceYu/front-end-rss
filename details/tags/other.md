@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-14 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-14 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -623,6 +623,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-11-11-用了10年Windows后，我最终转向Linux](https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6) 
+- [2020-11-11-作为前端工程师的你在深入研究哪些领域？-|-极客大学](https://www.ershicimi.com/p/9c87ce69bcc4b617cca8e07aaa4e7076) 
+- [2020-11-09-Web-开发人员应避免的-5-个错误](https://www.ershicimi.com/p/bdeb7f200c6f838c2a7e23f883d22913) 
+- [2020-11-09-开源项目正式集结完毕，百万开发者正在投票-|-活动推荐](https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9) 
 - [2020-11-06-滴滴DoKit-Android核心原理揭秘之AOP字节码实现](https://www.ershicimi.com/p/2b36b798bb8c581ec518d2b18f3be428) 
 - [2020-11-04-如何用-Angular-实现深色模式](https://www.ershicimi.com/p/7972501d76ad733a52a0c1e3d381ecdc) 
 - [2020-11-04-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/fefc02ebbc58f12b93c0eb0890a58f60) 

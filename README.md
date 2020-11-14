@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 06:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-14 18:00:12，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-11-13-【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02) ![](assets/new.png)  
-- [2020-11-13-【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f) ![](assets/new.png)  
+- [2020-11-13-【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02)  
+- [2020-11-13-【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f)  
 - [2020-11-12-【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178)  
 - [2020-11-12-【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c)  
 - [2020-11-11-【第2114期】浏览器环境下的JavaScript-Event-Loop](https://www.ershicimi.com/p/546d5077d3d5dc4e5e4d0837f595bd59)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-11-13-行业怪象：前端总是被鄙视，但又十分抢手](https://www.ershicimi.com/p/fd836d5071511bf6a668500581ebc932) ![](assets/new.png)  
-- [2020-11-13-缩减-SCSS-50%样式代码的-14-条实战经验](https://www.ershicimi.com/p/03d4c0d2b58fea1d47f472036d3d8213) ![](assets/new.png)  
+- [2020-11-13-行业怪象：前端总是被鄙视，但又十分抢手](https://www.ershicimi.com/p/fd836d5071511bf6a668500581ebc932)  
+- [2020-11-13-缩减-SCSS-50%样式代码的-14-条实战经验](https://www.ershicimi.com/p/03d4c0d2b58fea1d47f472036d3d8213)  
 - [2020-11-12-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/6e9f471f35c165694469a0c096502d82)  
 - [2020-11-11-能读-React-源码的人，很吃香！](https://www.ershicimi.com/p/8c63d9b6f5c1885e1e800ebc64bab6fe)  
 - [2020-11-11-12-道腾讯前端面试真题及答案整理](https://www.ershicimi.com/p/f85d01fac293858c5e5686caf45be1a6)  
@@ -95,6 +95,16 @@
 </summary>
 
 
+- [2020-11-13-6个React-Hook最佳实践技巧](https://www.ershicimi.com/p/fe26294e5c036dec44057cb05d834751) ![](assets/new.png)  
+- [2020-11-13-Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782) ![](assets/new.png)  
+- [2020-11-11-用了10年Windows后，我最终转向Linux](https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6) ![](assets/new.png)  
+- [2020-11-11-使用-PRPL-模式加快-Web-应用加载](https://www.ershicimi.com/p/39ac19b4d2ab80aad56c8751340146a9) ![](assets/new.png)  
+- [2020-11-11-作为前端工程师的你在深入研究哪些领域？-|-极客大学](https://www.ershicimi.com/p/9c87ce69bcc4b617cca8e07aaa4e7076) ![](assets/new.png)  
+- [2020-11-09-Web-开发人员应避免的-5-个错误](https://www.ershicimi.com/p/bdeb7f200c6f838c2a7e23f883d22913) ![](assets/new.png)  
+- [2020-11-09-TypeScript-4.1-RC-版本发布：带来了令人兴奋的新特性](https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4) ![](assets/new.png)  
+- [2020-11-09-开源项目正式集结完毕，百万开发者正在投票-|-活动推荐](https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9) ![](assets/new.png)  
+- [2020-11-08-前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae) ![](assets/new.png)  
+- [2020-11-08-微众银行React-Native-App自动化质量工具的探索实践|-InfoQ-公开课](https://www.ershicimi.com/p/4c525c0b8b65eca31a7aa61acf78d222) ![](assets/new.png)  
 - [2020-11-06-为什么说Flutter可能不是下一件大事？](https://www.ershicimi.com/p/a32c25e2f4ec69b97a643aa71f61dde5)  
 - [2020-11-06-滴滴DoKit-Android核心原理揭秘之AOP字节码实现](https://www.ershicimi.com/p/2b36b798bb8c581ec518d2b18f3be428)  
 - [2020-11-06-除了-Vue，你还需要掌握前端工程化-|-极客大学](https://www.ershicimi.com/p/9bfebf7dac3b900842c7b067dd22a66e)  
@@ -105,16 +115,6 @@
 - [2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a)  
 - [2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6)  
 - [2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879)  
-- [2020-10-31-票选你最喜欢的编程语言（前端篇）-|-投票送书](https://www.ershicimi.com/p/ee1306f714d675c02ea2db1f70a7bcd3)  
-- [2020-10-30-JavaScript-ES2021最值得期待的新特性解析](https://www.ershicimi.com/p/b4e31d87f72f4e8dfa4e0a56368f6e91)  
-- [2020-10-30-Next.js-10-正式发布：带来诸多新特性](https://www.ershicimi.com/p/6e5c1bed1e35ed6432f8529742dacf9d)  
-- [2020-10-30-来，微软带你一起上天，肩并肩“看云”喽-|-活动推荐](https://www.ershicimi.com/p/1bdefcdd5b058bd0448601b0c1260375)  
-- [2020-10-28-我希望我从未学过编程](https://www.ershicimi.com/p/c1140e3ad15ad0c18c0ac2c85b05b8ce)  
-- [2020-10-28-每位前端开发者都应该知道的方法论：JavaScript-中的-DILOS-原则](https://www.ershicimi.com/p/11348a26b7e681b971618c0fdfd24d2b)  
-- [2020-10-28-API生态的发展与机遇：从5000组数据看中国API生态与开发者现状-|-活动推荐](https://www.ershicimi.com/p/ef2650a9b43453e2d2d459d8cbd0425a)  
-- [2020-10-26-2020年：前端开发的痛苦与快乐](https://www.ershicimi.com/p/6765ba46ee73fe33a50db03db4dfceb5)  
-- [2020-10-26-分享几个我日常使用的VS-Code插件](https://www.ershicimi.com/p/186f034124a606b2ab10cd1cfdce83e2)  
-- [2020-10-26-前端渣渣的我再也不敢说我会写React了-|-极客大学](https://www.ershicimi.com/p/b93fcb3192866260c208504bc17c1627)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
