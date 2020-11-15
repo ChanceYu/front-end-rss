@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 22:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-16 06:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【前端早读课】2020-11-15-【第2118期】前端安全生产在ICBU的探索与落地](https://www.ershicimi.com/p/fd4423b37a6489d2603a8c8aff88b2a9) 
+- [【前端早读课】2020-11-15-【招聘】阿里巴巴国际站大前端招聘](https://www.ershicimi.com/p/ea575319e87c0916150c858848946fc0) 
+- [【前端早读课】2020-11-14-【第2117期】如何删除电脑上所有的Node_Modules文件夹？](https://www.ershicimi.com/p/0b145f901a3628f0e0e1bb4973baf459) 
 - [【前端早读课】2020-11-13-【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02) 
 - [【前端早读课】2020-11-13-【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f) 
 - [【前端早读课】2020-11-12-【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178) 
@@ -145,6 +148,8 @@
 - [【前端早读课】2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b) 
 - [【前端早读课】2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) 
 - [【前端早读课】2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) 
+- [【前端大全】2020-11-15-纯-CSS-实现吸附效果](https://www.ershicimi.com/p/89a03d0d9ce2c1d671a76b4b945a19cd) 
+- [【前端大全】2020-11-14-化繁为简，简括浏览器渲染机制](https://www.ershicimi.com/p/30af1d88e12861f62367c62514e7eeff) 
 - [【前端大全】2020-11-13-行业怪象：前端总是被鄙视，但又十分抢手](https://www.ershicimi.com/p/fd836d5071511bf6a668500581ebc932) 
 - [【前端大全】2020-11-13-缩减-SCSS-50%样式代码的-14-条实战经验](https://www.ershicimi.com/p/03d4c0d2b58fea1d47f472036d3d8213) 
 - [【前端大全】2020-11-12-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/6e9f471f35c165694469a0c096502d82) 

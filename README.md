@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-15 22:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-16 06:00:09，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,6 +33,9 @@
 </summary>
 
 
+- [2020-11-15-【第2118期】前端安全生产在ICBU的探索与落地](https://www.ershicimi.com/p/fd4423b37a6489d2603a8c8aff88b2a9) ![](assets/new.png)  
+- [2020-11-15-【招聘】阿里巴巴国际站大前端招聘](https://www.ershicimi.com/p/ea575319e87c0916150c858848946fc0) ![](assets/new.png)  
+- [2020-11-14-【第2117期】如何删除电脑上所有的Node_Modules文件夹？](https://www.ershicimi.com/p/0b145f901a3628f0e0e1bb4973baf459) ![](assets/new.png)  
 - [2020-11-13-【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02)  
 - [2020-11-13-【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f)  
 - [2020-11-12-【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178)  
@@ -50,9 +53,6 @@
 - [2020-11-06-【第2109期】CodeSandbox是如何让npm上的模块直接在浏览器端运行的](https://www.ershicimi.com/p/05734aa61e3cd87ee8adbfbcb1a2bd25)  
 - [2020-11-05-【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d)  
 - [2020-11-04-【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625)  
-- [2020-11-04-【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae)  
-- [2020-11-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef)  
-- [2020-11-03-【第2106期】小程序依赖分析实践](https://www.ershicimi.com/p/e7742bb8d7091acee05b2760011f970b)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-11-15-纯-CSS-实现吸附效果](https://www.ershicimi.com/p/89a03d0d9ce2c1d671a76b4b945a19cd) ![](assets/new.png)  
+- [2020-11-14-化繁为简，简括浏览器渲染机制](https://www.ershicimi.com/p/30af1d88e12861f62367c62514e7eeff) ![](assets/new.png)  
 - [2020-11-13-行业怪象：前端总是被鄙视，但又十分抢手](https://www.ershicimi.com/p/fd836d5071511bf6a668500581ebc932)  
 - [2020-11-13-缩减-SCSS-50%样式代码的-14-条实战经验](https://www.ershicimi.com/p/03d4c0d2b58fea1d47f472036d3d8213)  
 - [2020-11-12-Facebook-新一代-React-状态管理库-Recoil](https://www.ershicimi.com/p/6e9f471f35c165694469a0c096502d82)  
@@ -82,8 +84,6 @@
 - [2020-11-04-手把手带你从零打造Vue-SSR，清晰易懂！](https://www.ershicimi.com/p/39b43fedd38a41e2d1c496f66b5bf7eb)  
 - [2020-11-04-纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e)  
 - [2020-11-03-JavaScript-ES12-新特性抢先体验](https://www.ershicimi.com/p/52c75f82153defa55e5ae92c9930d132)  
-- [2020-11-03-面向对象：内心渴望一份美好的情感，可以一起看日出日落携手共度一生](https://www.ershicimi.com/p/44275d93b6f87e0aa0a5d685d6f3b140)  
-- [2020-11-02-我写-React-的常用套路](https://www.ershicimi.com/p/5ac6910684eb55390c1830116ba9f7a0)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
+- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)  
 - [2020-10-30-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)  
 - [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)  
 - [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)  

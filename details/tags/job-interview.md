@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-15 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-16 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-15-【招聘】阿里巴巴国际站大前端招聘](https://www.ershicimi.com/p/ea575319e87c0916150c858848946fc0) 
 - [2020-11-13-【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f) 
 - [2020-11-12-【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c) 
 - [2020-11-08-【招聘】深圳思维巡航招聘前端工程师、前端架构师](https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571) 
