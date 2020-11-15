@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-14 18:00:12，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-15 22:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,16 +95,16 @@
 </summary>
 
 
-- [2020-11-13-6个React-Hook最佳实践技巧](https://www.ershicimi.com/p/fe26294e5c036dec44057cb05d834751) ![](assets/new.png)  
-- [2020-11-13-Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782) ![](assets/new.png)  
-- [2020-11-11-用了10年Windows后，我最终转向Linux](https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6) ![](assets/new.png)  
-- [2020-11-11-使用-PRPL-模式加快-Web-应用加载](https://www.ershicimi.com/p/39ac19b4d2ab80aad56c8751340146a9) ![](assets/new.png)  
-- [2020-11-11-作为前端工程师的你在深入研究哪些领域？-|-极客大学](https://www.ershicimi.com/p/9c87ce69bcc4b617cca8e07aaa4e7076) ![](assets/new.png)  
-- [2020-11-09-Web-开发人员应避免的-5-个错误](https://www.ershicimi.com/p/bdeb7f200c6f838c2a7e23f883d22913) ![](assets/new.png)  
-- [2020-11-09-TypeScript-4.1-RC-版本发布：带来了令人兴奋的新特性](https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4) ![](assets/new.png)  
-- [2020-11-09-开源项目正式集结完毕，百万开发者正在投票-|-活动推荐](https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9) ![](assets/new.png)  
-- [2020-11-08-前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae) ![](assets/new.png)  
-- [2020-11-08-微众银行React-Native-App自动化质量工具的探索实践|-InfoQ-公开课](https://www.ershicimi.com/p/4c525c0b8b65eca31a7aa61acf78d222) ![](assets/new.png)  
+- [2020-11-13-6个React-Hook最佳实践技巧](https://www.ershicimi.com/p/fe26294e5c036dec44057cb05d834751)  
+- [2020-11-13-Swift-发布路线图：更便捷，更高效且更安全](https://www.ershicimi.com/p/6092141198f4a44bf9845c3188f4d782)  
+- [2020-11-11-用了10年Windows后，我最终转向Linux](https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6)  
+- [2020-11-11-使用-PRPL-模式加快-Web-应用加载](https://www.ershicimi.com/p/39ac19b4d2ab80aad56c8751340146a9)  
+- [2020-11-11-作为前端工程师的你在深入研究哪些领域？-|-极客大学](https://www.ershicimi.com/p/9c87ce69bcc4b617cca8e07aaa4e7076)  
+- [2020-11-09-Web-开发人员应避免的-5-个错误](https://www.ershicimi.com/p/bdeb7f200c6f838c2a7e23f883d22913)  
+- [2020-11-09-TypeScript-4.1-RC-版本发布：带来了令人兴奋的新特性](https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4)  
+- [2020-11-09-开源项目正式集结完毕，百万开发者正在投票-|-活动推荐](https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9)  
+- [2020-11-08-前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae)  
+- [2020-11-08-微众银行React-Native-App自动化质量工具的探索实践|-InfoQ-公开课](https://www.ershicimi.com/p/4c525c0b8b65eca31a7aa61acf78d222)  
 - [2020-11-06-为什么说Flutter可能不是下一件大事？](https://www.ershicimi.com/p/a32c25e2f4ec69b97a643aa71f61dde5)  
 - [2020-11-06-滴滴DoKit-Android核心原理揭秘之AOP字节码实现](https://www.ershicimi.com/p/2b36b798bb8c581ec518d2b18f3be428)  
 - [2020-11-06-除了-Vue，你还需要掌握前端工程化-|-极客大学](https://www.ershicimi.com/p/9bfebf7dac3b900842c7b067dd22a66e)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) ![](assets/new.png)  
 - [2020-10-30-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)  
 - [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/)  
 - [2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/)  
@@ -176,7 +177,6 @@
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/)  
 - [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)  
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  
-- [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

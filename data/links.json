@@ -17343,6 +17343,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "HTML中无标签文本的CSS变色技巧",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/",
+        "date": "2020-11-15"
+      },
+      {
         "title": "介绍一种全新的clipPath Sprites小图标技术",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/",
         "date": "2020-10-30"
