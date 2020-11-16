@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-16 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-17 06:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-16-【第2119期】浏览器端录制技术的探索与实践](https://www.ershicimi.com/p/e3bb687ee8a39f8541ad227b33f77a32) 
 - [2020-11-15-【第2118期】前端安全生产在ICBU的探索与落地](https://www.ershicimi.com/p/fd4423b37a6489d2603a8c8aff88b2a9) 
 - [2020-11-07-【招聘】抖音招前端工程师（安全方向）](https://www.ershicimi.com/p/3039e410a23fbab68198b40b37a37219) 
 - [2020-10-14-【第2086期】有赞美业前端：-持续标准化-Code-Review](https://www.ershicimi.com/p/84b0a8f4a91a46762475960ef6635d3e) 
