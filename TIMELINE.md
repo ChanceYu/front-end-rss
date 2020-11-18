@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-18 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -205,6 +205,7 @@
 - [【前端之巅】2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a) 
 - [【前端之巅】2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6) 
 - [【前端之巅】2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879) 
+- [【Taobao-FED-|-淘宝前端团队】2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e) 
 - [【张鑫旭-鑫空间-鑫生活】2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/) 
 - [【阮一峰的网络日志】2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html) 
 - [【阮一峰的网络日志】2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html) 
@@ -349,6 +350,7 @@
 - [【前端之巅】2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b) 
 - [【前端之巅】2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6) 
 - [【前端之巅】2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) 
+- [【Taobao-FED-|-淘宝前端团队】2020-10-20-智能UI：面向未来的UI开发技术](https://fed.taobao.org/blog/taofed/do71ct/tb7t0w) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-30-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-24-图片加载失败后CSS样式处理最佳实践](https://www.zhangxinxu.com/wordpress/2020/10/css-style-image-load-fail/) 
@@ -531,6 +533,7 @@
 - [【前端之巅】2020-09-02-产业互联网时代不想掉队？鹅厂的这个会你不能错过！-|-活动推荐](https://www.ershicimi.com/p/5cc6b3989df99b55e93436a1b34a631e) 
 - [【前端之巅】2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) 
 - [【前端之巅】2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
+- [【Taobao-FED-|-淘宝前端团队】2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 
 - [【Taobao-FED-|-淘宝前端团队】2020-09-09-10-个你可能还不知道-VS-Code-使用技巧](https://fed.taobao.org/blog/taofed/do71ct/eonv5x) 
 - [【Taobao-FED-|-淘宝前端团队】2020-09-04-我的前端成长之路：-在阿里七年，我的成长和迷茫](https://fed.taobao.org/blog/taofed/do71ct/ttpk5r) 
 - [【Taobao-FED-|-淘宝前端团队】2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la) 
