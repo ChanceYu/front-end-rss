@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-19 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【前端早读课】2020-11-19-【第2122期】4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4) 
+- [【前端早读课】2020-11-19-【招聘】北京字节跳动幸福里团队招前端工程师（社招）](https://www.ershicimi.com/p/216fbfc50241bfd7d2db43418239bc6e) 
+- [【前端早读课】2020-11-18-【第2121期】斗鱼关注人数爬取-──-字体反爬的攻与防](https://www.ershicimi.com/p/ece4aea9104abc89f969de223ba7ef39) 
+- [【前端早读课】2020-11-18-重学webpack4之loader开发](https://www.ershicimi.com/p/d8b6eb7b4f58e27247ba799557c6ada9) 
 - [【前端早读课】2020-11-17-前端人，你其实可以利用技术“躺赚”-这个？](https://www.ershicimi.com/p/eaf63272f02811941adca79dc20eea2a) 
 - [【前端早读课】2020-11-17-【第2120期】如何1人5天开发完3D数据可视化大屏之二](https://www.ershicimi.com/p/7359c69ca87ac88be153de00f1900edd) 
 - [【前端早读课】2020-11-17-重学webpack4之基础篇](https://www.ershicimi.com/p/8148d9bca04f8985373551e0e82c35f4) 

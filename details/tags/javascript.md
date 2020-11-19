@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-18 08:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-19 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-19-【第2122期】4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4) 
 - [2020-11-11-【第2114期】浏览器环境下的JavaScript-Event-Loop](https://www.ershicimi.com/p/546d5077d3d5dc4e5e4d0837f595bd59) 
 - [2020-11-10-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/65e3f178707655ad2a516bb0c65ac83b) 
 - [2020-11-04-【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae) 

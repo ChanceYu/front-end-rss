@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-18 08:00:07，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-19 12:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -33,6 +33,10 @@
 </summary>
 
 
+- [2020-11-19-【第2122期】4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4) ![](assets/new.png)  
+- [2020-11-19-【招聘】北京字节跳动幸福里团队招前端工程师（社招）](https://www.ershicimi.com/p/216fbfc50241bfd7d2db43418239bc6e) ![](assets/new.png)  
+- [2020-11-18-【第2121期】斗鱼关注人数爬取-──-字体反爬的攻与防](https://www.ershicimi.com/p/ece4aea9104abc89f969de223ba7ef39) ![](assets/new.png)  
+- [2020-11-18-重学webpack4之loader开发](https://www.ershicimi.com/p/d8b6eb7b4f58e27247ba799557c6ada9) ![](assets/new.png)  
 - [2020-11-17-前端人，你其实可以利用技术“躺赚”-这个？](https://www.ershicimi.com/p/eaf63272f02811941adca79dc20eea2a)  
 - [2020-11-17-【第2120期】如何1人5天开发完3D数据可视化大屏之二](https://www.ershicimi.com/p/7359c69ca87ac88be153de00f1900edd)  
 - [2020-11-17-重学webpack4之基础篇](https://www.ershicimi.com/p/8148d9bca04f8985373551e0e82c35f4)  
@@ -49,10 +53,6 @@
 - [2020-11-11-【第2114期】浏览器环境下的JavaScript-Event-Loop](https://www.ershicimi.com/p/546d5077d3d5dc4e5e4d0837f595bd59)  
 - [2020-11-11-Sass：LibSass已被废弃](https://www.ershicimi.com/p/3f416ac980a98a985c9a5454d14a9cec)  
 - [2020-11-10-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/65e3f178707655ad2a516bb0c65ac83b)  
-- [2020-11-10-【第2113期】使用-React-Hooks-声明-setInterval](https://www.ershicimi.com/p/57e196eb8d95cea6fc59aefb1ad5beb0)  
-- [2020-11-09-【第2112期】-import-{-reactive-}-from-'vue'](https://www.ershicimi.com/p/e0b04274e3f80a376286730bd4f28904)  
-- [2020-11-08-【第2111期】知乎部署系统演进](https://www.ershicimi.com/p/b511a6f4c44cfb53f89e9f4c2c97c90d)  
-- [2020-11-08-【招聘】深圳思维巡航招聘前端工程师、前端架构师](https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -126,9 +126,9 @@
 </summary>
 
 
-- [2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e) ![](assets/new.png)  
-- [2020-10-20-智能UI：面向未来的UI开发技术](https://fed.taobao.org/blog/taofed/do71ct/tb7t0w) ![](assets/new.png)  
-- [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) ![](assets/new.png)  
+- [2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e)  
+- [2020-10-20-智能UI：面向未来的UI开发技术](https://fed.taobao.org/blog/taofed/do71ct/tb7t0w)  
+- [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)  
 - [2020-09-09-10-个你可能还不知道-VS-Code-使用技巧](https://fed.taobao.org/blog/taofed/do71ct/eonv5x)  
 - [2020-09-04-我的前端成长之路：-在阿里七年，我的成长和迷茫](https://fed.taobao.org/blog/taofed/do71ct/ttpk5r)  
 - [2020-09-01-JavaScript-深度学习---Hello-World](https://fed.taobao.org/blog/taofed/do71ct/er55la)  
