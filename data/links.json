@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2123期】隐藏字符加密",
+        "link": "https://www.ershicimi.com/p/43aa8e0b74ae25927987f837c391a4c5",
+        "date": "2020-11-20"
+      },
+      {
+        "title": "【招聘】字节跳动头条/西瓜/小说业务架构前端团队招聘",
+        "link": "https://www.ershicimi.com/p/9c6293d3a07360cba5372cdc5d07c693",
+        "date": "2020-11-20"
+      },
+      {
         "title": "【第2122期】4个未听说过的强大JavaScript操作符",
         "link": "https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4",
         "date": "2020-11-19"
@@ -5821,6 +5831,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "算法根基不稳，还能进大厂么？",
+        "link": "https://www.ershicimi.com/p/86a3c25d96a15d645240f09f337e19ba",
+        "date": "2020-11-19"
+      },
+      {
+        "title": "AST 实现函数错误自动上报",
+        "link": "https://www.ershicimi.com/p/f461120022beb78d455119b2b0ee9ade",
+        "date": "2020-11-19"
+      },
       {
         "title": "图片懒加载从简单到复杂",
         "link": "https://www.ershicimi.com/p/859eb7bdb58f8fe59dcfe4d956629aba",
@@ -18209,6 +18229,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍",
+        "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html",
+        "date": "2020-11-20"
+      },
       {
         "title": "科技爱好者周刊（第 133 期）：贵州变瑞士，有没有可能？",
         "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html",
