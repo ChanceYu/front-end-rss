@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -629,6 +629,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-11-20-技术是泛娱乐的基础推动力，看腾讯云怎么玩？-|-活动推荐](https://www.ershicimi.com/p/2126746ec74153d8be7f9331e0d4575b) 
+- [2020-11-18-2020中国技术力量年度榜单盛典：四大奖项花落谁家，将见分晓-|-InfoQ](https://www.ershicimi.com/p/80b6f23a93849bb0413181875b3501d7) 
 - [2020-11-16-专注力对程序员来说意味着什么？](https://www.ershicimi.com/p/3b2c96bb0f17815c583e4f15118fc748) 
 - [2020-11-15-前端周报：苹果发布macOS-Big-Sur，可运行原生iOS应用；Python放弃退休；前微软员工](https://www.ershicimi.com/p/27d140404c92cd6871f38e997d967c94) 
 - [2020-11-11-用了10年Windows后，我最终转向Linux](https://www.ershicimi.com/p/06f490ec21dfd23026c76323ad6dccf6) 

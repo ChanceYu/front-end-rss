@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-21 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -194,6 +194,14 @@
 - [【前端大全】2020-11-02-聊聊如何设计组件](https://www.ershicimi.com/p/d231355438610f1c4ae1aac8312f243c) 
 - [【前端大全】2020-11-01-彻底搞懂-Node.js-中的-Require-机制](https://www.ershicimi.com/p/b62aecd657739ddc4508319927debfd7) 
 - [【前端大全】2020-11-01-面向对象：喜欢真诚乐观的男生，希望找个有共同目标的人一同前行](https://www.ershicimi.com/p/9b649f40d52b9878bf3118e1a9001200) 
+- [【前端之巅】2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) 
+- [【前端之巅】2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) 
+- [【前端之巅】2020-11-20-技术是泛娱乐的基础推动力，看腾讯云怎么玩？-|-活动推荐](https://www.ershicimi.com/p/2126746ec74153d8be7f9331e0d4575b) 
+- [【前端之巅】2020-11-19-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c) 
+- [【前端之巅】2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) 
+- [【前端之巅】2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0) 
+- [【前端之巅】2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44) 
+- [【前端之巅】2020-11-18-2020中国技术力量年度榜单盛典：四大奖项花落谁家，将见分晓-|-InfoQ](https://www.ershicimi.com/p/80b6f23a93849bb0413181875b3501d7) 
 - [【前端之巅】2020-11-16-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5) 
 - [【前端之巅】2020-11-16-专注力对程序员来说意味着什么？](https://www.ershicimi.com/p/3b2c96bb0f17815c583e4f15118fc748) 
 - [【前端之巅】2020-11-15-前端周报：苹果发布macOS-Big-Sur，可运行原生iOS应用；Python放弃退休；前微软员工](https://www.ershicimi.com/p/27d140404c92cd6871f38e997d967c94) 

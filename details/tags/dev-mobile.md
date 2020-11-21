@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -19,6 +19,7 @@
 - [2020-10-19-一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？](https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7) 
 - [2020-07-06-Flutter-不火，天理难容！](https://www.ershicimi.com/p/cc4d8c2c94ce6982017097256f2e5d07) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2020-11-19-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c) 
 - [2020-11-16-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5) 
 - [2020-11-06-为什么说Flutter可能不是下一件大事？](https://www.ershicimi.com/p/a32c25e2f4ec69b97a643aa71f61dde5) 
 - [2020-10-14-一套代码、多端运行，Flutter是如何实现的？-|-极客时间](https://www.ershicimi.com/p/6a48dbd8726ee675678cac3fefad5811) 

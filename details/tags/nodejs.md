@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -74,6 +74,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) 
 - [2020-10-08-.NET-Core-vs-Node.js：你应该选择哪个？](https://www.ershicimi.com/p/b8db56cd39ed4b9876e48a55cb7cbdb7) 
 - [2020-09-18-Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b) 
 - [2020-09-07-五分钟了解-Node.js-Shebang](https://www.ershicimi.com/p/55ff6d0a01c1f059f114915151b165ce) 

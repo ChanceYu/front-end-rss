@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-21 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-21 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -60,6 +60,7 @@
 - [2018-12-20-从入门到上线一个天气小程序](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555558&idx=1&sn=165d4180f900090cd995bb169fc53a23#wechat_redirect) 
 - [2018-11-27-微信小程序-自定义下拉刷新](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555416&idx=1&sn=286be8e682ceb309ab721f51fcdca6db#wechat_redirect) 
 - [2018-10-09-健壮高效的小程序登录方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555053&idx=1&sn=f4c5d004562a806cb62435fe28560674#wechat_redirect) 
+- [2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44) 
 - [2020-09-04-滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba) 
 - [2020-06-23-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79) 
 - [2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516) 

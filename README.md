@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 12:00:08，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-21 18:00:26，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f) ![](assets/new.png)  
-- [2020-11-21-【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c) ![](assets/new.png)  
+- [2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f)  
+- [2020-11-21-【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c)  
 - [2020-11-20-【第2123期】隐藏字符加密](https://www.ershicimi.com/p/43aa8e0b74ae25927987f837c391a4c5)  
 - [2020-11-20-【招聘】字节跳动头条/西瓜/小说业务架构前端团队招聘](https://www.ershicimi.com/p/9c6293d3a07360cba5372cdc5d07c693)  
 - [2020-11-19-【第2122期】4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-11-20-看到程序员11月平均工资后，第一反应：这是假的吧！](https://www.ershicimi.com/p/a77d9e18346a037095e50005f1a00fc9) ![](assets/new.png)  
-- [2020-11-20-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/955949abbe229af737f7f13a21de541a) ![](assets/new.png)  
+- [2020-11-20-看到程序员11月平均工资后，第一反应：这是假的吧！](https://www.ershicimi.com/p/a77d9e18346a037095e50005f1a00fc9)  
+- [2020-11-20-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/955949abbe229af737f7f13a21de541a)  
 - [2020-11-19-算法根基不稳，还能进大厂么？](https://www.ershicimi.com/p/86a3c25d96a15d645240f09f337e19ba)  
 - [2020-11-19-AST-实现函数错误自动上报](https://www.ershicimi.com/p/f461120022beb78d455119b2b0ee9ade)  
 - [2020-11-17-图片懒加载从简单到复杂](https://www.ershicimi.com/p/859eb7bdb58f8fe59dcfe4d956629aba)  
@@ -95,6 +95,14 @@
 </summary>
 
 
+- [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) ![](assets/new.png)  
+- [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) ![](assets/new.png)  
+- [2020-11-20-技术是泛娱乐的基础推动力，看腾讯云怎么玩？-|-活动推荐](https://www.ershicimi.com/p/2126746ec74153d8be7f9331e0d4575b) ![](assets/new.png)  
+- [2020-11-19-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c) ![](assets/new.png)  
+- [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) ![](assets/new.png)  
+- [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0) ![](assets/new.png)  
+- [2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44) ![](assets/new.png)  
+- [2020-11-18-2020中国技术力量年度榜单盛典：四大奖项花落谁家，将见分晓-|-InfoQ](https://www.ershicimi.com/p/80b6f23a93849bb0413181875b3501d7) ![](assets/new.png)  
 - [2020-11-16-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5)  
 - [2020-11-16-专注力对程序员来说意味着什么？](https://www.ershicimi.com/p/3b2c96bb0f17815c583e4f15118fc748)  
 - [2020-11-15-前端周报：苹果发布macOS-Big-Sur，可运行原生iOS应用；Python放弃退休；前微软员工](https://www.ershicimi.com/p/27d140404c92cd6871f38e997d967c94)  
@@ -107,14 +115,6 @@
 - [2020-11-09-TypeScript-4.1-RC-版本发布：带来了令人兴奋的新特性](https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4)  
 - [2020-11-09-开源项目正式集结完毕，百万开发者正在投票-|-活动推荐](https://www.ershicimi.com/p/869c5aa6f0129cad0cf7bddd34c6adb9)  
 - [2020-11-08-前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae)  
-- [2020-11-08-微众银行React-Native-App自动化质量工具的探索实践|-InfoQ-公开课](https://www.ershicimi.com/p/4c525c0b8b65eca31a7aa61acf78d222)  
-- [2020-11-06-为什么说Flutter可能不是下一件大事？](https://www.ershicimi.com/p/a32c25e2f4ec69b97a643aa71f61dde5)  
-- [2020-11-06-滴滴DoKit-Android核心原理揭秘之AOP字节码实现](https://www.ershicimi.com/p/2b36b798bb8c581ec518d2b18f3be428)  
-- [2020-11-06-除了-Vue，你还需要掌握前端工程化-|-极客大学](https://www.ershicimi.com/p/9bfebf7dac3b900842c7b067dd22a66e)  
-- [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf)  
-- [2020-11-04-如何用-Angular-实现深色模式](https://www.ershicimi.com/p/7972501d76ad733a52a0c1e3d381ecdc)  
-- [2020-11-04-搞不懂为啥都要去字节跳动。。。-|-极客大学](https://www.ershicimi.com/p/fefc02ebbc58f12b93c0eb0890a58f60)  
-- [2020-11-02-Netflix-是如何实现-Android-与-iOS-共用一套代码？](https://www.ershicimi.com/p/50954c7b6629eaa1de4f6758d9e4bfab)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
