@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-21 18:00:26，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-22 12:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0) ![](assets/new.png)  
+- [2020-11-22-【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f) ![](assets/new.png)  
 - [2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f)  
 - [2020-11-21-【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c)  
 - [2020-11-20-【第2123期】隐藏字符加密](https://www.ershicimi.com/p/43aa8e0b74ae25927987f837c391a4c5)  
@@ -51,8 +53,6 @@
 - [2020-11-15-【招聘】阿里巴巴国际站大前端招聘](https://www.ershicimi.com/p/ea575319e87c0916150c858848946fc0)  
 - [2020-11-14-【第2117期】如何删除电脑上所有的Node_Modules文件夹？](https://www.ershicimi.com/p/0b145f901a3628f0e0e1bb4973baf459)  
 - [2020-11-13-【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02)  
-- [2020-11-13-【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f)  
-- [2020-11-12-【第2115期】React-Native-新架构分析](https://www.ershicimi.com/p/18d77ee5c55c0bc9703c7df010c1c178)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,6 +64,8 @@
 </summary>
 
 
+- [2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9) ![](assets/new.png)  
+- [2020-11-21-2.8-万-Star！生成虚假内容的神器：faker.js](https://www.ershicimi.com/p/d841030d7bd90ef4f381345dda8975df) ![](assets/new.png)  
 - [2020-11-20-看到程序员11月平均工资后，第一反应：这是假的吧！](https://www.ershicimi.com/p/a77d9e18346a037095e50005f1a00fc9)  
 - [2020-11-20-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/955949abbe229af737f7f13a21de541a)  
 - [2020-11-19-算法根基不稳，还能进大厂么？](https://www.ershicimi.com/p/86a3c25d96a15d645240f09f337e19ba)  
@@ -82,8 +84,6 @@
 - [2020-11-10-从前端性能优化引申出来的-5-道经典面试题](https://www.ershicimi.com/p/cfcc5fe47ba25a531017b3a7f5ab162c)  
 - [2020-11-09-React-凭什么成为前端开发必备神器？](https://www.ershicimi.com/p/09a0b7c6cee79b6be6e22ac58e6f1d57)  
 - [2020-11-09-使用这些思路与技巧，我读懂了多个优秀的开源项目](https://www.ershicimi.com/p/30242a92c5488cae2cc0e1b26007aa7d)  
-- [2020-11-08-被创造者嫌弃，Node.js-如何应对来自-Deno-的挑战](https://www.ershicimi.com/p/c6cf72c0bb806cb45190e947dca2f010)  
-- [2020-11-07-前端-api-请求缓存方案](https://www.ershicimi.com/p/1d22bcaf410020b5670cfc0ab5c8bed7)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,14 +95,14 @@
 </summary>
 
 
-- [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) ![](assets/new.png)  
-- [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4) ![](assets/new.png)  
-- [2020-11-20-技术是泛娱乐的基础推动力，看腾讯云怎么玩？-|-活动推荐](https://www.ershicimi.com/p/2126746ec74153d8be7f9331e0d4575b) ![](assets/new.png)  
-- [2020-11-19-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c) ![](assets/new.png)  
-- [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441) ![](assets/new.png)  
-- [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0) ![](assets/new.png)  
-- [2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44) ![](assets/new.png)  
-- [2020-11-18-2020中国技术力量年度榜单盛典：四大奖项花落谁家，将见分晓-|-InfoQ](https://www.ershicimi.com/p/80b6f23a93849bb0413181875b3501d7) ![](assets/new.png)  
+- [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23)  
+- [2020-11-20-从0开始快速上手WebAssembly：打造基于WASM的高性能安全沙盒](https://www.ershicimi.com/p/f685041d75bc49c89f432c79377d79e4)  
+- [2020-11-20-技术是泛娱乐的基础推动力，看腾讯云怎么玩？-|-活动推荐](https://www.ershicimi.com/p/2126746ec74153d8be7f9331e0d4575b)  
+- [2020-11-19-Flutter-的新功能、Dart-开发工具以及一行神奇的-CSS-代码-|-Google-开发者大](https://www.ershicimi.com/p/5483cd860f06ab512105bd635bd4e75c)  
+- [2020-11-19-怎样从Express-API发送一致的错误响应](https://www.ershicimi.com/p/f2dc7a4fd3838dfa92c7cda398fd4441)  
+- [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0)  
+- [2020-11-18-小程序大商机，低门槛hold全栈开发怎么做？-|-活动推荐](https://www.ershicimi.com/p/13f06abcc1bcb7e459dba8ff576bba44)  
+- [2020-11-18-2020中国技术力量年度榜单盛典：四大奖项花落谁家，将见分晓-|-InfoQ](https://www.ershicimi.com/p/80b6f23a93849bb0413181875b3501d7)  
 - [2020-11-16-2020-Google-开发者大会：Android-和-Flutter-有哪些更新？](https://www.ershicimi.com/p/c486b9ef916ed065f5768e34fe9b94c5)  
 - [2020-11-16-专注力对程序员来说意味着什么？](https://www.ershicimi.com/p/3b2c96bb0f17815c583e4f15118fc748)  
 - [2020-11-15-前端周报：苹果发布macOS-Big-Sur，可运行原生iOS应用；Python放弃退休；前微软员工](https://www.ershicimi.com/p/27d140404c92cd6871f38e997d967c94)  
