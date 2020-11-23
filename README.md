@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-22 12:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-23 12:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,8 +33,10 @@
 </summary>
 
 
-- [2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0) ![](assets/new.png)  
-- [2020-11-22-【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f) ![](assets/new.png)  
+- [2020-11-23-【第2126期】每个开发者都应该知道的-SOLID-原则](https://www.ershicimi.com/p/3657c04101789b3275c80464759ec5ad) ![](assets/new.png)  
+- [2020-11-23-【招聘】杭州网易严选---高级/资深前端工程师招聘【商城方向、可视化方向】](https://www.ershicimi.com/p/4a2ac3d0302ddc0ab63d35b7520b86ba) ![](assets/new.png)  
+- [2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0)  
+- [2020-11-22-【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f)  
 - [2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f)  
 - [2020-11-21-【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c)  
 - [2020-11-20-【第2123期】隐藏字符加密](https://www.ershicimi.com/p/43aa8e0b74ae25927987f837c391a4c5)  
@@ -51,8 +53,6 @@
 - [2020-11-16-重学webpack4之原理分析](https://www.ershicimi.com/p/c3cef49a255d7a655c14cc37b2cbc7b3)  
 - [2020-11-15-【第2118期】前端安全生产在ICBU的探索与落地](https://www.ershicimi.com/p/fd4423b37a6489d2603a8c8aff88b2a9)  
 - [2020-11-15-【招聘】阿里巴巴国际站大前端招聘](https://www.ershicimi.com/p/ea575319e87c0916150c858848946fc0)  
-- [2020-11-14-【第2117期】如何删除电脑上所有的Node_Modules文件夹？](https://www.ershicimi.com/p/0b145f901a3628f0e0e1bb4973baf459)  
-- [2020-11-13-【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,8 +64,10 @@
 </summary>
 
 
-- [2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9) ![](assets/new.png)  
-- [2020-11-21-2.8-万-Star！生成虚假内容的神器：faker.js](https://www.ershicimi.com/p/d841030d7bd90ef4f381345dda8975df) ![](assets/new.png)  
+- [2020-11-22-VUE-新语法糖魔改-JavaScript-引争议](https://www.ershicimi.com/p/7ed2dc110370693b5130563666fe0bb0) ![](assets/new.png)  
+- [2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9) ![](assets/new.png)  
+- [2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9)  
+- [2020-11-21-2.8-万-Star！生成虚假内容的神器：faker.js](https://www.ershicimi.com/p/d841030d7bd90ef4f381345dda8975df)  
 - [2020-11-20-看到程序员11月平均工资后，第一反应：这是假的吧！](https://www.ershicimi.com/p/a77d9e18346a037095e50005f1a00fc9)  
 - [2020-11-20-Angular-11正式发布：加入webpack-5，升级至TS-4.0，不再支持IE-9-和10](https://www.ershicimi.com/p/955949abbe229af737f7f13a21de541a)  
 - [2020-11-19-算法根基不稳，还能进大厂么？](https://www.ershicimi.com/p/86a3c25d96a15d645240f09f337e19ba)  
@@ -82,8 +84,6 @@
 - [2020-11-11-12-道腾讯前端面试真题及答案整理](https://www.ershicimi.com/p/f85d01fac293858c5e5686caf45be1a6)  
 - [2020-11-10-今年双11，前端开发者别漏了这几样](https://www.ershicimi.com/p/ebebadb04fd4467b3e8b8634d5621d9c)  
 - [2020-11-10-从前端性能优化引申出来的-5-道经典面试题](https://www.ershicimi.com/p/cfcc5fe47ba25a531017b3a7f5ab162c)  
-- [2020-11-09-React-凭什么成为前端开发必备神器？](https://www.ershicimi.com/p/09a0b7c6cee79b6be6e22ac58e6f1d57)  
-- [2020-11-09-使用这些思路与技巧，我读懂了多个优秀的开源项目](https://www.ershicimi.com/p/30242a92c5488cae2cc0e1b26007aa7d)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

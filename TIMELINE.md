@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-23 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-11-23-【第2126期】每个开发者都应该知道的-SOLID-原则](https://www.ershicimi.com/p/3657c04101789b3275c80464759ec5ad) 
+- [【前端早读课】2020-11-23-【招聘】杭州网易严选---高级/资深前端工程师招聘【商城方向、可视化方向】](https://www.ershicimi.com/p/4a2ac3d0302ddc0ab63d35b7520b86ba) 
 - [【前端早读课】2020-11-22-【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0) 
 - [【前端早读课】2020-11-22-【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f) 
 - [【前端早读课】2020-11-21-【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f) 
@@ -164,6 +166,8 @@
 - [【前端早读课】2020-11-02-【第2105期】云音乐前端体验优化实践](https://www.ershicimi.com/p/593bb5082a8310f9f55cadc12fa6d40b) 
 - [【前端早读课】2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) 
 - [【前端早读课】2020-11-01-阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323) 
+- [【前端大全】2020-11-22-VUE-新语法糖魔改-JavaScript-引争议](https://www.ershicimi.com/p/7ed2dc110370693b5130563666fe0bb0) 
+- [【前端大全】2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9) 
 - [【前端大全】2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9) 
 - [【前端大全】2020-11-21-2.8-万-Star！生成虚假内容的神器：faker.js](https://www.ershicimi.com/p/d841030d7bd90ef4f381345dda8975df) 
 - [【前端大全】2020-11-20-看到程序员11月平均工资后，第一反应：这是假的吧！](https://www.ershicimi.com/p/a77d9e18346a037095e50005f1a00fc9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-22 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-23 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-23-【招聘】杭州网易严选---高级/资深前端工程师招聘【商城方向、可视化方向】](https://www.ershicimi.com/p/4a2ac3d0302ddc0ab63d35b7520b86ba) 
 - [2020-11-22-【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f) 
 - [2020-11-21-【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c) 
 - [2020-11-20-【招聘】字节跳动头条/西瓜/小说业务架构前端团队招聘](https://www.ershicimi.com/p/9c6293d3a07360cba5372cdc5d07c693) 
