@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-23 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 12:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,7 @@
 
 
 
+- [【前端早读课】【招聘】字节跳动财经前端团队招前端/全栈工程师](https://www.ershicimi.com/p/848461468681df984ffbd7ae756078d6)
 - [【前端早读课】前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a)
 - [【前端早读课】【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)
 - [【前端早读课】【招聘】蚂蚁金服语雀团队招全栈、编辑器、移动端应用研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=3&sn=97bf45a793df83e668851bf5cb644bda&chksm=bd497c708a3ef566112c1970fa20fd4aac6a75738a778688c5343502b5dc80a7fde81aa159ed&scene=27#wechat_redirect)
@@ -561,7 +562,6 @@
 - [【前端早读课】前端面试对算法要求不高？！我被打脸了......](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=1&sn=fb5c15499e6fc4f3615edb9cab8d7177#wechat_redirect)
 - [【前端早读课】【第1490期】-HTTP/2的优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=1&sn=06fc9e6ccfd0d0bb6fe02dca51e48477#wechat_redirect)
 - [【前端早读课】【第1482期】基于用户投票的排名算法：威尔逊区间](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=1&sn=ea4dff492702321a3097ef5a26a47186#wechat_redirect)
-- [【前端早读课】【第1474期】HTTP/3-要点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230683&idx=1&sn=d473e8deb7f50d83d2cd22fccb6a0d5d#wechat_redirect)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】前端人必备：前端与图形学](https://www.ershicimi.com/p/a6013b233ee04efeb3505b1308ef7802)
+- [【前端早读课】【第2127期】程序设计法则](https://www.ershicimi.com/p/d9401bbc52d43d4abf65ec915e4e3975)
 - [【前端早读课】【第2126期】每个开发者都应该知道的-SOLID-原则](https://www.ershicimi.com/p/3657c04101789b3275c80464759ec5ad)
 - [【前端早读课】【第2123期】隐藏字符加密](https://www.ershicimi.com/p/43aa8e0b74ae25927987f837c391a4c5)
 - [【前端早读课】【第2121期】斗鱼关注人数爬取-──-字体反爬的攻与防](https://www.ershicimi.com/p/ece4aea9104abc89f969de223ba7ef39)
@@ -738,8 +740,6 @@
 - [【前端早读课】【活动】官宣！前端热爱，技术无界，第十五届-D2-前端技术论坛，我们云端相聚！](https://www.ershicimi.com/p/895e74967cdf7c9311d3ced134ac1c9a)
 - [【前端早读课】如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/128a57ce5cafdfda37cad08a5a7d42a0)
 - [【前端早读课】【第2094期】水波图实现原理](https://www.ershicimi.com/p/2c2906ba6c80e9cd94889152c01fb6ee)
-- [【前端早读课】同为前端人，为什么别人工资那么高？](https://www.ershicimi.com/p/1fb6b3700d3b0cd01495e2a7320b3c38)
-- [【前端早读课】【活动】第三届前端艺术家沙龙-"前端职业成长"-专场（深圳）](https://www.ershicimi.com/p/82480951dbdc1cf67ec4c480cf3d41ef)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

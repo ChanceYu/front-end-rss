@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-23 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-24 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-24-【招聘】字节跳动财经前端团队招前端/全栈工程师](https://www.ershicimi.com/p/848461468681df984ffbd7ae756078d6) 
 - [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) 
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) 
 - [2020-03-01-【招聘】蚂蚁金服语雀团队招全栈、编辑器、移动端应用研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235828&idx=3&sn=97bf45a793df83e668851bf5cb644bda&chksm=bd497c708a3ef566112c1970fa20fd4aac6a75738a778688c5343502b5dc80a7fde81aa159ed&scene=27#wechat_redirect) 
