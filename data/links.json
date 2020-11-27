@@ -5,6 +5,21 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "可视化：前端人的未来",
+        "link": "https://www.ershicimi.com/p/cec686a68e9593e429439da892a38387",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "【第2130期】前端元编程——使用注解加速你的前端开发",
+        "link": "https://www.ershicimi.com/p/57c2b9af369d7372a17f9e1cfddadbea",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "【招聘】深圳大疆DJI 前端团队招高级前端工程师",
+        "link": "https://www.ershicimi.com/p/8605d2d0efd20d22e42d714c627ce245",
+        "date": "2020-11-27"
+      },
+      {
         "title": "【第2129期】探讨浏览器指纹",
         "link": "https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4",
         "date": "2020-11-26"
@@ -5901,6 +5916,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "一文带你快速上手 Rollup",
+        "link": "https://www.ershicimi.com/p/25e4cb6db8b4e736672d787432ff42b0",
+        "date": "2020-11-26"
+      },
+      {
+        "title": "让你爱不释手的 HTTP API 工具：Postman",
+        "link": "https://www.ershicimi.com/p/87cd1614290b8c113b4203e3d1bbc99f",
+        "date": "2020-11-26"
+      },
       {
         "title": "做了这个 Vue3.0 实战项目，大厂三面都过了，涨薪55%！（附项目全过程）",
         "link": "https://www.ershicimi.com/p/e13ebe90aaece6a01235f7d5cfcf84b1",
