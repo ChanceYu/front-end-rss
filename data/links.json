@@ -11599,6 +11599,56 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "PHP 8.0重大版本更新正式发布：支持JIT编译器，性能提升高达3倍",
+        "link": "https://www.ershicimi.com/p/fde617f4de8741e04807c67be11b156b",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "Flutter状态State的5种应对方法",
+        "link": "https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "145亿美元背后，困扰 IT 决策者基础性难题是？ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/3f02f08dd1057f5d2869b4d70846cde0",
+        "date": "2020-11-27"
+      },
+      {
+        "title": "场景构造难，编译很耗时？看小程序业务如何提高效研发",
+        "link": "https://www.ershicimi.com/p/9b7cbb4fcfbacff8537b77efb5a0295b",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "Electron 11 正式发布：支持苹果 M1 芯片",
+        "link": "https://www.ershicimi.com/p/ccf56db0949f80eed83e17e1545b4262",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "为应用开发提供强大支撑：AppGallery Connect Serverless全面解析 | 活动",
+        "link": "https://www.ershicimi.com/p/9736011c4e88644a2839e0589fbc8960",
+        "date": "2020-11-25"
+      },
+      {
+        "title": "Vue 新语法糖引争议，网友：魔改 JavaScript，这是想挑战标准？",
+        "link": "https://www.ershicimi.com/p/29285e860acb655c954465312314399e",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "React Portals 简述及其用例",
+        "link": "https://www.ershicimi.com/p/1f75618d912196c687c9531ba913685a",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "还在用分库分表？看TiDB如何解决海量数据无感扩容难题 ｜ 活动推荐",
+        "link": "https://www.ershicimi.com/p/723c01735b4c9c3ee64660456a9343d6",
+        "date": "2020-11-23"
+      },
+      {
+        "title": "前端周报：苹果芯成开发者噩梦，多款软件无法正常运行；2020谷歌开发者大会正式举行；苹果回应iPho",
+        "link": "https://www.ershicimi.com/p/15d6f1da4538a04d440a0469bc90893b",
+        "date": "2020-11-22"
+      },
+      {
         "title": "将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解",
         "link": "https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23",
         "date": "2020-11-20"
@@ -18429,6 +18479,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 135 期）：什么行业适合创业？",
+        "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html",
+        "date": "2020-11-27"
+      },
       {
         "title": "科技爱好者周刊（第 134 期）：未来的游戏业比现在大100倍",
         "link": "http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html",

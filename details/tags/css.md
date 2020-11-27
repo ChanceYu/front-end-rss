@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-27 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-27 18:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -107,6 +107,7 @@
 - [2018-10-03-你所不知道的-CSS-滤镜技巧与细节](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555025&idx=1&sn=3b4f9dfea7bc50e849cfe1c21424d881#wechat_redirect) 
 - [2018-10-01-不可思议的纯CSS导航栏下划线跟随效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555023&idx=1&sn=8b96a0c9204f1c08a64c246570b0b93c#wechat_redirect) 
 - [2018-09-24-CSS-Grid中的陷阱和绊脚石](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=2&sn=ee90576be3685434345f9f23b66ea29f#wechat_redirect) 
+- [2020-11-25-为应用开发提供强大支撑：AppGallery-Connect-Serverless全面解析-|-活动](https://www.ershicimi.com/p/9736011c4e88644a2839e0589fbc8960) 
 - [2020-09-16-Serverless：我还是一个大孩子](https://www.ershicimi.com/p/9fdab7e1908c34c0f6af750611276467) 
 - [2020-07-21-我们为什么不使用-CSS-框架](https://www.ershicimi.com/p/73afb72024dc37c773a179b9cfcf727c) 
 - [2020-07-09-阿里自研开源框架-Midway-Serverless-，如何让前端提效-50%？](https://www.ershicimi.com/p/a5d2c05bd08b6fcfb0d29fb163578523) 
