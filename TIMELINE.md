@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-28 06:00:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-28 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -262,6 +262,7 @@
 - [【前端之巅】2020-11-02-5-分钟搞定一个-React-组件](https://www.ershicimi.com/p/56dbb79ed090304e21077aeeb557110a) 
 - [【前端之巅】2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](https://www.ershicimi.com/p/3b7fc2b282622ed651cc3d6239cb3fd6) 
 - [【前端之巅】2020-11-01-前端周报：GitHub下架7.2万Star项目引不满；微软将强行用Edge打开部分网站；索尼在嵌入式](https://www.ershicimi.com/p/edabf3f500279131437f8f6b8bfbc879) 
+- [【Taobao-FED-|-淘宝前端团队】2020-11-27-Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0) 
 - [【Taobao-FED-|-淘宝前端团队】2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e) 
 - [【张鑫旭-鑫空间-鑫生活】2020-11-28-低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-11-26-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/) 

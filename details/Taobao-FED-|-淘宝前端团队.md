@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-11-18 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-28 08:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Taobao-FED-|-淘宝前端团队
 
 
 
 
+- [2020-11-27-Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0) 
 - [2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e) 
 - [2020-10-20-智能UI：面向未来的UI开发技术](https://fed.taobao.org/blog/taofed/do71ct/tb7t0w) 
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el) 

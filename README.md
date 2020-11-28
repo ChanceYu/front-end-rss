@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-28 06:00:06，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-11-28 08:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -126,6 +126,7 @@
 </summary>
 
 
+- [2020-11-27-Pick-阿里巴巴前端练习生计划，成为专业前端人！](https://fed.taobao.org/blog/taofed/do71ct/fiayw0) ![](assets/new.png)  
 - [2020-11-16-4982亿背后的前端技术—2020天猫双11前端体系大揭秘](https://fed.taobao.org/blog/taofed/do71ct/egg54e)  
 - [2020-10-20-智能UI：面向未来的UI开发技术](https://fed.taobao.org/blog/taofed/do71ct/tb7t0w)  
 - [2020-09-11-淘系前端互动引擎EVAJS架构与生态实现](https://fed.taobao.org/blog/taofed/do71ct/pg45el)  
@@ -145,7 +146,6 @@
 - [2020-07-06-P2C---需求智能出码的思考|618淘系前端技术分享](https://fed.taobao.org/blog/taofed/do71ct/kwa7d7)  
 - [2020-07-03-资损防控-—-代码扫描技术揭秘](https://fed.taobao.org/blog/taofed/do71ct/qo1n4r)  
 - [2020-08-20-什么是人工智能自动编程？它只是一个噱头吗？](https://fed.taobao.org/blog/taofed/do71ct/clcgcc)  
-- [2020-08-16-淘系运营工作台前端体系](https://fed.taobao.org/blog/taofed/do71ct/oyf9hm)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2020-11-28-低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/) ![](assets/new.png)  
+- [2020-11-28-低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/)  
 - [2020-11-26-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/)  
 - [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)  
 - [2020-10-30-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/)  
