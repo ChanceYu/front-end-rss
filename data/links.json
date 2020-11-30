@@ -17788,6 +17788,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "尝试使用JS IntersectionObserver让标题和导航联动",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/",
+        "date": "2020-12-01"
+      },
+      {
         "title": "低成本深色模式CSS实现技术探索与拓展",
         "link": "https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/",
         "date": "2020-11-28"

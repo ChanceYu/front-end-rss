@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-11-30 12:00:11，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-01 06:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2020-11-30-【第2133期】如何搭建一套-“无痕埋点”-体系？](https://www.ershicimi.com/p/33f140b8594bc71d21a7952b9520f208) ![](assets/new.png)  
-- [2020-11-30-【招聘】北京新东方招前端高级工程师](https://www.ershicimi.com/p/6d33c06550990f9ac6567b17c1fdbbd0) ![](assets/new.png)  
+- [2020-11-30-【第2133期】如何搭建一套-“无痕埋点”-体系？](https://www.ershicimi.com/p/33f140b8594bc71d21a7952b9520f208)  
+- [2020-11-30-【招聘】北京新东方招前端高级工程师](https://www.ershicimi.com/p/6d33c06550990f9ac6567b17c1fdbbd0)  
 - [2020-11-29-【第2132期】揭密可视化专家配色秘笈，你在乎的颜色远远不够](https://www.ershicimi.com/p/8396f6ffc38ab39e32deea7b34052eb8)  
 - [2020-11-29-【招聘】北京腾讯新闻招前端工程师](https://www.ershicimi.com/p/477fa49258655b641aa150ee8f21d415)  
 - [2020-11-28-【第2131期】网络应用如何工作：HTTP和服务器](https://www.ershicimi.com/p/956821e6956083787a1fe167ae794462)  
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-11-29-为什么程序员怕改需求？看完这些神解释我笑了](https://www.ershicimi.com/p/f299d25a9d91aeed97ea8efa3c4f40d7) ![](assets/new.png)  
-- [2020-11-29-1.5-万-Star！大大提升终端体验的好工具：Rich](https://www.ershicimi.com/p/897637ba5b6346a454a044e08c21c42d) ![](assets/new.png)  
+- [2020-11-29-为什么程序员怕改需求？看完这些神解释我笑了](https://www.ershicimi.com/p/f299d25a9d91aeed97ea8efa3c4f40d7)  
+- [2020-11-29-1.5-万-Star！大大提升终端体验的好工具：Rich](https://www.ershicimi.com/p/897637ba5b6346a454a044e08c21c42d)  
 - [2020-11-28-你会用到的-15-个前端小知识](https://www.ershicimi.com/p/624faa090a222f551d38f71f95e56e76)  
 - [2020-11-27-几乎所有前端简历上都会标配-Vue.js-，那你该如何脱颖而出？](https://www.ershicimi.com/p/479fc3458dbb39696a64fd032ee9ae9b)  
 - [2020-11-27-postMessage-还能这样玩](https://www.ershicimi.com/p/70f958586b400b907f7570edd6169298)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) ![](assets/new.png)  
 - [2020-11-28-低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/)  
 - [2020-11-26-突发奇想，同步单复选框checked态岂不点击通杀？](https://www.zhangxinxu.com/wordpress/2020/11/label-sync-radio-checkbox-checked/)  
 - [2020-11-15-HTML中无标签文本的CSS变色技巧](https://www.zhangxinxu.com/wordpress/2020/11/html-anonymous-text-color-change/)  
@@ -176,7 +177,6 @@
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/)  
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/)  
 - [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)  
-- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
