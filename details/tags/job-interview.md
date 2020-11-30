@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-29 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-30 12:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-11-30-【招聘】北京新东方招前端高级工程师](https://www.ershicimi.com/p/6d33c06550990f9ac6567b17c1fdbbd0) 
 - [2020-11-29-【招聘】北京腾讯新闻招前端工程师](https://www.ershicimi.com/p/477fa49258655b641aa150ee8f21d415) 
 - [2020-11-28-【招聘】字节跳动广告系统-飞鱼线索营销平台招高级前端研发工程师](https://www.ershicimi.com/p/42af36c62e2998a983359e58cbc491fc) 
 - [2020-11-27-【招聘】深圳大疆DJI-前端团队招高级前端工程师](https://www.ershicimi.com/p/8605d2d0efd20d22e42d714c627ce245) 
