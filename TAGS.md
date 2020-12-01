@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-01 06:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-01 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -74,6 +74,7 @@
 
 
 
+- [【前端早读课】一次就将VueSSR讲通透！](https://www.ershicimi.com/p/790e7718e1440de52964aefceab949c6)
 - [【前端早读课】【第2116期】Vue-3.0-Ref-sugar-提案真的是自寻死路吗？](https://www.ershicimi.com/p/83672b2873a895cf51b596964784ae02)
 - [【前端早读课】【第2102期】Vue-SSR-性能优化实践](https://www.ershicimi.com/p/6508025af5f13e0ac5cdf4223e7ed341)
 - [【前端早读课】【第2089期】从编译过程，理解-Vue3-静态节点提升过程](https://www.ershicimi.com/p/6fcff7e08e12a4bb29479bb98ac2e6e6)
@@ -93,7 +94,6 @@
 - [【前端早读课】Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)
 - [【前端早读课】【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)
 - [【前端早读课】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)
-- [【前端早读课】【视频】Vue.js纪录片](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235796&idx=1&sn=98f3eee7552d287b9f94d3928a6b8953&chksm=bd497c508a3ef546f8acaa25a35530d212ed9582ce2bf13ff53426411678c335e08812238556&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c)
 - [【前端早读课】【第2133期】如何搭建一套-“无痕埋点”-体系？](https://www.ershicimi.com/p/33f140b8594bc71d21a7952b9520f208)
 - [【前端早读课】【第2132期】揭密可视化专家配色秘笈，你在乎的颜色远远不够](https://www.ershicimi.com/p/8396f6ffc38ab39e32deea7b34052eb8)
 - [【前端早读课】可视化：前端人的未来](https://www.ershicimi.com/p/cec686a68e9593e429439da892a38387)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec)
 - [【前端早读课】这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05)
 - [【前端早读课】【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb)
-- [【前端早读课】【图书】研发质量保障与工程效率](https://www.ershicimi.com/p/a38809d265fd7b43cc47a7c36c7afaf1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
