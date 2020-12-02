@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-01 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-02 12:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,7 @@
 
 
 
+- [【前端早读课】【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644)
 - [【前端早读课】【第2131期】网络应用如何工作：HTTP和服务器](https://www.ershicimi.com/p/956821e6956083787a1fe167ae794462)
 - [【前端早读课】【招聘】字节跳动财经前端团队招前端/全栈工程师](https://www.ershicimi.com/p/848461468681df984ffbd7ae756078d6)
 - [【前端早读课】前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a)
@@ -561,7 +562,6 @@
 - [【前端早读课】【招聘】上海AdMaster招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231532&idx=2&sn=835acbb1ef083107d6486e75091a84e6#wechat_redirect)
 - [【前端早读课】【英】关于如何成为全栈开发者的6个基本技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231411&idx=3&sn=e77bb4cb6f268343c63497826624dfb3#wechat_redirect)
 - [【前端早读课】前端面试对算法要求不高？！我被打脸了......](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=1&sn=fb5c15499e6fc4f3615edb9cab8d7177#wechat_redirect)
-- [【前端早读课】【第1490期】-HTTP/2的优先级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230822&idx=1&sn=06fc9e6ccfd0d0bb6fe02dca51e48477#wechat_redirect)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b)
 - [【前端早读课】【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c)
 - [【前端早读课】【第2133期】如何搭建一套-“无痕埋点”-体系？](https://www.ershicimi.com/p/33f140b8594bc71d21a7952b9520f208)
 - [【前端早读课】【第2132期】揭密可视化专家配色秘笈，你在乎的颜色远远不够](https://www.ershicimi.com/p/8396f6ffc38ab39e32deea7b34052eb8)
@@ -739,7 +740,6 @@
 - [【前端早读课】前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef)
 - [【前端早读课】【第2103期】阿里@铁军：保持成长动力，与技术、业务、团队共成长](https://www.ershicimi.com/p/37ca56412be8f05a97179d39255d8aec)
 - [【前端早读课】这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/2ef447728bcfe70e1d76dedb7c3fdf05)
-- [【前端早读课】【第2099期】可视化库的设计空间](https://www.ershicimi.com/p/e441545414ea0adeca7500eb00288ceb)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

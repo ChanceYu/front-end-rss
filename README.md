@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-01 12:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-02 12:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,8 +33,10 @@
 </summary>
 
 
-- [2020-12-01-一次就将VueSSR讲通透！](https://www.ershicimi.com/p/790e7718e1440de52964aefceab949c6) ![](assets/new.png)  
-- [2020-12-01-【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c) ![](assets/new.png)  
+- [2020-12-02-【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b) ![](assets/new.png)  
+- [2020-12-02-【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644) ![](assets/new.png)  
+- [2020-12-01-一次就将VueSSR讲通透！](https://www.ershicimi.com/p/790e7718e1440de52964aefceab949c6)  
+- [2020-12-01-【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c)  
 - [2020-11-30-【第2133期】如何搭建一套-“无痕埋点”-体系？](https://www.ershicimi.com/p/33f140b8594bc71d21a7952b9520f208)  
 - [2020-11-30-【招聘】北京新东方招前端高级工程师](https://www.ershicimi.com/p/6d33c06550990f9ac6567b17c1fdbbd0)  
 - [2020-11-29-【第2132期】揭密可视化专家配色秘笈，你在乎的颜色远远不够](https://www.ershicimi.com/p/8396f6ffc38ab39e32deea7b34052eb8)  
@@ -51,8 +53,6 @@
 - [2020-11-25-【招聘】阿里云-GTS-GCC招聘前端-P6、P7](https://www.ershicimi.com/p/0406a754367319de3419bf65b084ef51)  
 - [2020-11-24-前端人必备：前端与图形学](https://www.ershicimi.com/p/a6013b233ee04efeb3505b1308ef7802)  
 - [2020-11-24-【第2127期】程序设计法则](https://www.ershicimi.com/p/d9401bbc52d43d4abf65ec915e4e3975)  
-- [2020-11-24-【招聘】字节跳动财经前端团队招前端/全栈工程师](https://www.ershicimi.com/p/848461468681df984ffbd7ae756078d6)  
-- [2020-11-23-【第2126期】每个开发者都应该知道的-SOLID-原则](https://www.ershicimi.com/p/3657c04101789b3275c80464759ec5ad)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,8 +64,10 @@
 </summary>
 
 
-- [2020-11-30-前端人必备：前端与图形学](https://www.ershicimi.com/p/179b61a9c04f34eb27ecb34366cfe655) ![](assets/new.png)  
-- [2020-11-30-精选VS-Code高频插件，让你多陪陪npy！](https://www.ershicimi.com/p/4e70673df70a4c2eb0788e7791b39bb8) ![](assets/new.png)  
+- [2020-12-01-用了-5-年-React，我不喜欢-Vue.js-的地方有这些](https://www.ershicimi.com/p/440b599f3e98cb372435f73db84d6d80) ![](assets/new.png)  
+- [2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) ![](assets/new.png)  
+- [2020-11-30-前端人必备：前端与图形学](https://www.ershicimi.com/p/179b61a9c04f34eb27ecb34366cfe655)  
+- [2020-11-30-精选VS-Code高频插件，让你多陪陪npy！](https://www.ershicimi.com/p/4e70673df70a4c2eb0788e7791b39bb8)  
 - [2020-11-29-为什么程序员怕改需求？看完这些神解释我笑了](https://www.ershicimi.com/p/f299d25a9d91aeed97ea8efa3c4f40d7)  
 - [2020-11-29-1.5-万-Star！大大提升终端体验的好工具：Rich](https://www.ershicimi.com/p/897637ba5b6346a454a044e08c21c42d)  
 - [2020-11-28-你会用到的-15-个前端小知识](https://www.ershicimi.com/p/624faa090a222f551d38f71f95e56e76)  
@@ -82,8 +84,6 @@
 - [2020-11-22-VUE-新语法糖魔改-JavaScript-引争议](https://www.ershicimi.com/p/7ed2dc110370693b5130563666fe0bb0)  
 - [2020-11-22-对标-Postman！2.5-万-Star-的挑战者：Hoppscotch](https://www.ershicimi.com/p/f7a2a73ddabf044866e678c8cfef75b9)  
 - [2020-11-21-Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9)  
-- [2020-11-21-2.8-万-Star！生成虚假内容的神器：faker.js](https://www.ershicimi.com/p/d841030d7bd90ef4f381345dda8975df)  
-- [2020-11-20-看到程序员11月平均工资后，第一反应：这是假的吧！](https://www.ershicimi.com/p/a77d9e18346a037095e50005f1a00fc9)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

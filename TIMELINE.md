@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-01 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-02 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,8 +122,12 @@
 </summary>
 
 
+- [【前端早读课】2020-12-02-【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b) 
+- [【前端早读课】2020-12-02-【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644) 
 - [【前端早读课】2020-12-01-一次就将VueSSR讲通透！](https://www.ershicimi.com/p/790e7718e1440de52964aefceab949c6) 
 - [【前端早读课】2020-12-01-【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c) 
+- [【前端大全】2020-12-01-用了-5-年-React，我不喜欢-Vue.js-的地方有这些](https://www.ershicimi.com/p/440b599f3e98cb372435f73db84d6d80) 
+- [【前端大全】2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
