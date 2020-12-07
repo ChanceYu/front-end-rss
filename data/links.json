@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2140期】2020 CSS 现状调查",
+        "link": "https://www.ershicimi.com/p/f83943b690f9b73b3fef35a0ba49ac1e",
+        "date": "2020-12-07"
+      },
+      {
         "title": "【第2139期】Web应用程序如何工作：客户端开发和部署",
         "link": "https://www.ershicimi.com/p/84c383d413c0b8c0229c468a37b6b440",
         "date": "2020-12-06"
@@ -11783,6 +11788,46 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "纯 Dart 的挑战：美团外卖 Flutter 动态化实践",
+        "link": "https://www.ershicimi.com/p/a500006868d6e35166629cba5d567825",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "基于Vite搭建Electron+Vue3的开发环境",
+        "link": "https://www.ershicimi.com/p/af51be56741ab415afb7ad1418a4e7b4",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来 | 活动推荐",
+        "link": "https://www.ershicimi.com/p/65a5a86e9c0c7774cce3aac13f30bac9",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "前端人，咱别盲目追求新技术 | 直播推荐",
+        "link": "https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "前端周报：Element UI for Vue 3.0来了；Win 10 或将于明年原生支持安卓应用",
+        "link": "https://www.ershicimi.com/p/e85420f822a61bf6157caf1738584730",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "GraphQL是API的未来，但它并非银弹",
+        "link": "https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c",
+        "date": "2020-12-04"
+      },
+      {
+        "title": "解密智联招聘的大前端架构 Ada",
+        "link": "https://www.ershicimi.com/p/2b4dc0ef765cb25ad951d63d2fe54fc6",
+        "date": "2020-12-04"
+      },
+      {
+        "title": "竟然还用“土方法”学前端，怪不得你写不出来！ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/442c496471e623c7340d3444ec44f043",
+        "date": "2020-12-04"
+      },
       {
         "title": "NPM 7：这才算是真正的更新",
         "link": "https://www.ershicimi.com/p/2b8c09b383367819c9ceff69417a3412",
