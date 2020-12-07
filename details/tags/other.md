@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-06 12:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-07 12:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -375,6 +375,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-12-06-网页骨架屏自动生成方案分享](https://www.ershicimi.com/p/8194978da6ad597af50424dff8847655) 
+- [2020-12-05-程序员用-M1-MacBook-当主力开发机​是什么体验？](https://www.ershicimi.com/p/b436415a52fee3b6f61e5f0f46d788dd) 
+- [2020-12-05-「新拟物化」过时了！此刻你最应该拥抱的是「玻璃拟物化」](https://www.ershicimi.com/p/5d4d009d7eaa741763d06fd7e8eb7901) 
+- [2020-12-04-知乎热榜：找工作时普遍要求35岁以下，网友吐槽：35岁招谁惹谁了！](https://www.ershicimi.com/p/e07b5898c0bd4ef736ea6f400fc86c0d) 
 - [2020-12-03-微信第-1-行代码曝光！](https://www.ershicimi.com/p/820b95de74db6c6536478f0307cd77f5) 
 - [2020-12-03-再招一万人！工资25k+，疯了。。。](https://www.ershicimi.com/p/702a7e27d4fc10d0010ec47f4737e8f8) 
 - [2020-12-02-“别更新了学不动了”-开发者千万别有这样的心态](https://www.ershicimi.com/p/774119879a3357abec6a73d2bea97eb4) 
