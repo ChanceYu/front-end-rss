@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 12:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-08 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-12-08-【第2141期】Promise-V8-源码分析二](https://www.ershicimi.com/p/7dab4075c6535021907bdfbfef5b280b) 
 - [2020-11-14-【第2117期】如何删除电脑上所有的Node_Modules文件夹？](https://www.ershicimi.com/p/0b145f901a3628f0e0e1bb4973baf459) 
 - [2020-10-26-【第2098期】Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](https://www.ershicimi.com/p/733e94b8467f8da46133cf064d6bfe56) 
 - [2020-10-16-【第2088期】前端中台化，把格局做大——NodeJS-和测试服务探索](https://www.ershicimi.com/p/baa890992490b238913e0594c4008ee7) 
