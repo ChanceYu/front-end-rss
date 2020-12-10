@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -63,6 +63,7 @@
 - [2018-11-08-【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect) 
 - [2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
 - [2018-10-15-【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect) 
+- [2020-12-08-用-CSS-实现一个抽奖转盘附详细代码+思路](https://www.ershicimi.com/p/ad4df4b70d3898d0e6d64c188e8b89e6) 
 - [2020-11-15-纯-CSS-实现吸附效果](https://www.ershicimi.com/p/89a03d0d9ce2c1d671a76b4b945a19cd) 
 - [2020-11-13-缩减-SCSS-50%样式代码的-14-条实战经验](https://www.ershicimi.com/p/03d4c0d2b58fea1d47f472036d3d8213) 
 - [2020-10-27-104道-CSS-面试题，助你查漏补缺（下）](https://www.ershicimi.com/p/6e493a6963d693e3eb60eeb8f8996dc9) 

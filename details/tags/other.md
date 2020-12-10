@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-10 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -375,6 +375,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-12-09-灵感-|-高效工作必备的任务管理网页设计](https://www.ershicimi.com/p/b3444615a0c75fc9782af8ce527d3217) 
+- [2020-12-08-灵感-|-12组投资APP界面设计](https://www.ershicimi.com/p/afa289c9112313b393c9a91a8ef0e0b1) 
 - [2020-12-06-网页骨架屏自动生成方案分享](https://www.ershicimi.com/p/8194978da6ad597af50424dff8847655) 
 - [2020-12-05-程序员用-M1-MacBook-当主力开发机​是什么体验？](https://www.ershicimi.com/p/b436415a52fee3b6f61e5f0f46d788dd) 
 - [2020-12-05-「新拟物化」过时了！此刻你最应该拥抱的是「玻璃拟物化」](https://www.ershicimi.com/p/5d4d009d7eaa741763d06fd7e8eb7901) 
