@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-11 18:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-12 18:00:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第2145期】JavaScript诞生25周年](https://www.ershicimi.com/p/5cc1fc552be9631d266a853cf609600f)
 - [【前端早读课】WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db)
 - [【前端早读课】【第2143期】CSS变量对JS交互组件开发带来的提升与变革](https://www.ershicimi.com/p/b8f3eb90594a1b38ab5485fbc44ef473)
 - [【前端早读课】【第2138期】JavaScript代理的惊人力量](https://www.ershicimi.com/p/c85c191270e8ed254d00b9d1fd3cb61d)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3)
 - [【前端早读课】【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249)
 - [【前端早读课】【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979)
-- [【前端早读课】【第2030期】JavaScript-启动性能瓶颈分析与解决方案](https://www.ershicimi.com/p/b5d928c5a5bb527a841b3c254803bc72)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823)
 - [【前端早读课】【第2139期】Web应用程序如何工作：客户端开发和部署](https://www.ershicimi.com/p/84c383d413c0b8c0229c468a37b6b440)
 - [【前端早读课】【第2037期】深入了解页面生命周期API](https://www.ershicimi.com/p/7ec9fefd1cf65b17b4303757b3e17167)
 - [【前端早读课】【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff)
 - [【前端早读课】【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d)
 - [【前端早读课】【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625)
-- [【前端早读课】前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd8829a210816779b55da761501d75ef)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
