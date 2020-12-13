@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -34,6 +34,7 @@
 - [2019-11-04-Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect) 
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd) 
 - [2019-09-03-增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd) 
+- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](https://www.ershicimi.com/p/6016c0f7080a129bf39ed7417be0953b) 
 - [2020-11-20-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/48571c2bce08388e0d99c56b20ecbd23) 
 - [2020-11-09-TypeScript-4.1-RC-版本发布：带来了令人兴奋的新特性](https://www.ershicimi.com/p/826d60864e4f62b2e591c5628b75f2a4) 
 - [2020-09-22-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b) 

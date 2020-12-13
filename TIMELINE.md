@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-13 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-12-13-【第2146期】如何让你的代码评审人喜欢上你？](https://www.ershicimi.com/p/ea9bdefe1a55c8e3a7cc0252ad653ec7) 
+- [【前端早读课】2020-12-13-【招聘】美团快驴终端招募：和优秀的人一起并肩作战](https://www.ershicimi.com/p/ba99b78f490ad4932ee58422805eb68e) 
 - [【前端早读课】2020-12-12-【第2145期】JavaScript诞生25周年](https://www.ershicimi.com/p/5cc1fc552be9631d266a853cf609600f) 
 - [【前端早读课】2020-12-12-前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823) 
 - [【前端早读课】2020-12-11-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db) 
@@ -173,6 +175,10 @@
 - [【前端大全】2020-12-02-Webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/1370f499953370a92a305a888916d7b0) 
 - [【前端大全】2020-12-01-用了-5-年-React，我不喜欢-Vue.js-的地方有这些](https://www.ershicimi.com/p/440b599f3e98cb372435f73db84d6d80) 
 - [【前端大全】2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
+- [【前端之巅】2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) 
+- [【前端之巅】2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](https://www.ershicimi.com/p/6016c0f7080a129bf39ed7417be0953b) 
+- [【前端之巅】2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8) 
+- [【前端之巅】2020-12-11-你的企业还在为AI落地头疼吗？华为云ModelArts-Pro助你一臂之力｜活动推荐](https://www.ershicimi.com/p/a849acb31e70fa4e16aa52804379322b) 
 - [【前端之巅】2020-12-09-要么改进要么消亡：我想跨平台应用程序快要终结了](https://www.ershicimi.com/p/5534d52bb89bb0a6e6b6d381ddb31735) 
 - [【前端之巅】2020-12-09-颤抖吧，App！苹果或于明年下架窃取用户隐私的-App](https://www.ershicimi.com/p/cbe9e22ea75055011bc3aebf025127bb) 
 - [【前端之巅】2020-12-09-Microsoft-云采用框架，助力企业快速完成云迁移-|-活动推荐](https://www.ershicimi.com/p/c8fb46f75c33691d44b42154486daad4) 

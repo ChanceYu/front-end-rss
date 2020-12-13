@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-13 12:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 18:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】美团快驴终端招募：和优秀的人一起并肩作战](https://www.ershicimi.com/p/ba99b78f490ad4932ee58422805eb68e)
 - [【前端早读课】【招聘】同程艺龙北京研发中台招聘高级前端工程师](https://www.ershicimi.com/p/b6dbd62061a91dd3811aada50d3a6290)
 - [【前端早读课】【招聘】蚂蚁RichLab招聘高级前端工程师](https://www.ershicimi.com/p/9f4c13cc568d7bddfcadda57b67f074a)
 - [【前端早读课】【招聘】大地量子前端团队招前端专家、资深前端工程师](https://www.ershicimi.com/p/4f6c51ed2f972693602ac155af51b0b0)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】阿里巴巴国际站大前端招聘](https://www.ershicimi.com/p/ea575319e87c0916150c858848946fc0)
 - [【前端早读课】【招聘】阿里盒马体验技术招聘高级前端工程师（专家）](https://www.ershicimi.com/p/4381ff00cde3215cb1fef38744f32f9f)
 - [【前端早读课】【招聘】网易云音乐大前端招聘](https://www.ershicimi.com/p/054f50cfb0b9315a6a08ad4718f96a1c)
-- [【前端早读课】【招聘】深圳思维巡航招聘前端工程师、前端架构师](https://www.ershicimi.com/p/e98af1b34b76940a839f34857a59b571)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2146期】如何让你的代码评审人喜欢上你？](https://www.ershicimi.com/p/ea9bdefe1a55c8e3a7cc0252ad653ec7)
 - [【前端早读课】前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823)
 - [【前端早读课】【第2139期】Web应用程序如何工作：客户端开发和部署](https://www.ershicimi.com/p/84c383d413c0b8c0229c468a37b6b440)
 - [【前端早读课】【第2037期】深入了解页面生命周期API](https://www.ershicimi.com/p/7ec9fefd1cf65b17b4303757b3e17167)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2111期】知乎部署系统演进](https://www.ershicimi.com/p/b511a6f4c44cfb53f89e9f4c2c97c90d)
 - [【前端早读课】【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff)
 - [【前端早读课】【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d)
-- [【前端早读课】【第2107期】在Ant-Design-4.0里，我们如何追求快乐的工作？](https://www.ershicimi.com/p/0758eba48b22ea1a9f48b403c42d0625)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

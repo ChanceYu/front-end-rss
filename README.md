@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-13 12:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-13 18:00:11，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2020-12-13-【第2146期】如何让你的代码评审人喜欢上你？](https://www.ershicimi.com/p/ea9bdefe1a55c8e3a7cc0252ad653ec7) ![](assets/new.png)  
+- [2020-12-13-【招聘】美团快驴终端招募：和优秀的人一起并肩作战](https://www.ershicimi.com/p/ba99b78f490ad4932ee58422805eb68e) ![](assets/new.png)  
 - [2020-12-12-【第2145期】JavaScript诞生25周年](https://www.ershicimi.com/p/5cc1fc552be9631d266a853cf609600f)  
 - [2020-12-12-前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823)  
 - [2020-12-11-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db)  
@@ -51,8 +53,6 @@
 - [2020-12-04-【招聘】大地量子前端团队招前端专家、资深前端工程师](https://www.ershicimi.com/p/4f6c51ed2f972693602ac155af51b0b0)  
 - [2020-12-03-【第2035期】边缘渲染在首屏性能优化上的尝试与突破](https://www.ershicimi.com/p/bb8d351c9ca8d03b89bee068a1522578)  
 - [2020-12-03-【招聘】阿里CBU体验技术团队招前端技术专家](https://www.ershicimi.com/p/75596f39539887f432bf70524872a9a4)  
-- [2020-12-02-【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b)  
-- [2020-12-02-【招聘】微信对话开放平台招全栈前端工程师](https://www.ershicimi.com/p/465309510c4c6aef0847cb22f3f17644)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,8 +64,8 @@
 </summary>
 
 
-- [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0) ![](assets/new.png)  
-- [2020-12-12-1-万-Star-！自称“最牛叉的”负载测试工具](https://www.ershicimi.com/p/82b29b2a86e48cd0cc4cf480a28109b6) ![](assets/new.png)  
+- [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0)  
+- [2020-12-12-1-万-Star-！自称“最牛叉的”负载测试工具](https://www.ershicimi.com/p/82b29b2a86e48cd0cc4cf480a28109b6)  
 - [2020-12-11-为什么程序员互相之间不能透露薪水？是怕“凡尔赛”吗？](https://www.ershicimi.com/p/0be73d690b5f7d9e590a42f0e1c80125)  
 - [2020-12-11-「科普」前端工程师简史](https://www.ershicimi.com/p/d5b6c5ad1437db530955cbda8d5a417a)  
 - [2020-12-11-你不能错过的超赞色彩组合！设计师的配色宝典](https://www.ershicimi.com/p/0dca022f64204a29932d5b20f28681a5)  
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) ![](assets/new.png)  
+- [2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](https://www.ershicimi.com/p/6016c0f7080a129bf39ed7417be0953b) ![](assets/new.png)  
+- [2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8) ![](assets/new.png)  
+- [2020-12-11-你的企业还在为AI落地头疼吗？华为云ModelArts-Pro助你一臂之力｜活动推荐](https://www.ershicimi.com/p/a849acb31e70fa4e16aa52804379322b) ![](assets/new.png)  
 - [2020-12-09-要么改进要么消亡：我想跨平台应用程序快要终结了](https://www.ershicimi.com/p/5534d52bb89bb0a6e6b6d381ddb31735)  
 - [2020-12-09-颤抖吧，App！苹果或于明年下架窃取用户隐私的-App](https://www.ershicimi.com/p/cbe9e22ea75055011bc3aebf025127bb)  
 - [2020-12-09-Microsoft-云采用框架，助力企业快速完成云迁移-|-活动推荐](https://www.ershicimi.com/p/c8fb46f75c33691d44b42154486daad4)  
@@ -111,10 +115,6 @@
 - [2020-12-02-飞算、ONES、华为都在怎样提升高效研发？来QCon大会给你答案-|-活动推荐](https://www.ershicimi.com/p/5911f57f9bc7c604a950bbefc66ec7fb)  
 - [2020-12-01-无人维护？官方打脸：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/5a7f95490940f11145c39ea4d085874f)  
 - [2020-12-01-使用简单代码在Android-Jetpack-Compose中开发绘图应用](https://www.ershicimi.com/p/a0b1762ce8f1adbec89dd8de49756e3e)  
-- [2020-11-30-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/6b8b236e7590540836c7997b516e944e)  
-- [2020-11-30-前端开发者正在被迫成为全栈开发人员](https://www.ershicimi.com/p/2249d2d3f3b9bd8ac9346fd90673ecc1)  
-- [2020-11-30-F=ma，如何使创新具备加速度？-|-活动推荐](https://www.ershicimi.com/p/74f91978e941e68c27baa2f726a2cdd3)  
-- [2020-11-29-前端周报：Vue-新语法糖引争议；VSCode-现内存泄漏-BUG，官方置若罔闻引不满；百度应用收集](https://www.ershicimi.com/p/dee69a1edc9a0536206e2127d3ac3c20)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

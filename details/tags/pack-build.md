@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -78,6 +78,7 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8) 
 - [2020-12-02-NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/2b8c09b383367819c9ceff69417a3412) 
 - [2020-11-18-Angular-11-正式发布：加入-webpack-5，升级至-TS-4.0，不再支持-IE-9](https://www.ershicimi.com/p/4b777bfc7d41a8326518985898c3e6a0) 
 - [2020-11-04-发布当天就被发现？npm-删除伪装成-Twilio-相关库的恶意库](https://www.ershicimi.com/p/54b30d7fe811c0fc5f148b9b88b47aaf) 
