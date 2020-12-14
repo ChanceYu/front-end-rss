@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-13 22:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -625,6 +625,7 @@
 - [【前端早读课】【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect)
 - [【前端早读课】【英】Github-宣布-GitHub-Free-以及-GitHub-Enterprise](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=3&sn=8b9b78ecad6457e9a4522b040532c14b#wechat_redirect)
 - [【前端早读课】【英】Removing-jQuery-from-GitHub.com-frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect)
+- [【前端大全】GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/fb97b4e9fd1455e1a5424deb7acbad8e)
 - [【前端大全】GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/2ed6fb21af2fe1544662cd80763a7974)
 - [【前端大全】GitHub-霸榜！比-ping-强大的-gping-一天拿下-2.5k-Star](https://www.ershicimi.com/p/3a8777a872152084656e7e409eb5fbdf)
 - [【前端大全】这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e)
@@ -633,7 +634,6 @@
 - [【前端大全】你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)
 - [【前端之巅】前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae)
 - [【前端之巅】你的-Git-代码已成功入驻北极圈，至少保存-1000-年](https://www.ershicimi.com/p/979a8a983c6864c47db35df607dcd223)
-- [【前端之巅】开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
