@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-14 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 18:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2147期】交互导入模式](https://www.ershicimi.com/p/001a8de7c0e549e2299f0dacd0a9a5b9)
 - [【前端早读课】【第2146期】如何让你的代码评审人喜欢上你？](https://www.ershicimi.com/p/ea9bdefe1a55c8e3a7cc0252ad653ec7)
 - [【前端早读课】前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823)
 - [【前端早读课】【第2139期】Web应用程序如何工作：客户端开发和部署](https://www.ershicimi.com/p/84c383d413c0b8c0229c468a37b6b440)
@@ -739,7 +740,6 @@
 - [【前端早读课】前端人，你其实可以利用技术“躺赚”-这个？](https://www.ershicimi.com/p/eaf63272f02811941adca79dc20eea2a)
 - [【前端早读课】【第2111期】知乎部署系统演进](https://www.ershicimi.com/p/b511a6f4c44cfb53f89e9f4c2c97c90d)
 - [【前端早读课】【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff)
-- [【前端早读课】【第2108期】开源富文本编辑器技术的演进](https://www.ershicimi.com/p/dedc37530e6127207a47940e3065061d)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
