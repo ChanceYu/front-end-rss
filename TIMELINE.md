@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 18:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-16 22:00:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -191,6 +191,11 @@
 - [【前端大全】2020-12-02-Webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/1370f499953370a92a305a888916d7b0) 
 - [【前端大全】2020-12-01-用了-5-年-React，我不喜欢-Vue.js-的地方有这些](https://www.ershicimi.com/p/440b599f3e98cb372435f73db84d6d80) 
 - [【前端大全】2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
+- [【前端之巅】2020-12-16-美团：高速发展下如何做好移动端持续交付](https://www.ershicimi.com/p/333c8c83ed278616b8d021ebe66240e7) 
+- [【前端之巅】2020-12-16-大龄程序员必须得转行吗？-|-活动推荐](https://www.ershicimi.com/p/e4133808e178b1469bec3a3d096ca2c9) 
+- [【前端之巅】2020-12-14-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/06af08880240e0908248ba052a0e73d8) 
+- [【前端之巅】2020-12-14-调用-Express-API时出现奇怪的CORS错误该怎么办？](https://www.ershicimi.com/p/e671bc7c42f514605d51da84bdb5fb88) 
+- [【前端之巅】2020-12-14-数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-活动推荐](https://www.ershicimi.com/p/762d2c286dfdc6d5efe024984f208a71) 
 - [【前端之巅】2020-12-13-前端周报：JS-诞生-25-周年；微软将强行升级部分旧版本Win-10用户；将编程纳入中小学课程，程](https://www.ershicimi.com/p/8f15bc65ae313923ec2405b52d2ee580) 
 - [【前端之巅】2020-12-11-Deno-1.6正式发布！支持将TypeScript编译成单个可执行文件，苹果M1可原生运行](https://www.ershicimi.com/p/6016c0f7080a129bf39ed7417be0953b) 
 - [【前端之巅】2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8) 
