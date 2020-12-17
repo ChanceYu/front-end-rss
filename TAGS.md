@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-16 22:00:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-17 18:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第2150期】JavaScript的面向切面编程](https://www.ershicimi.com/p/d662be52f1d3ff530947c79bd02faa95)
 - [【前端早读课】【第2145期】JavaScript诞生25周年](https://www.ershicimi.com/p/5cc1fc552be9631d266a853cf609600f)
 - [【前端早读课】WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db)
 - [【前端早读课】【第2143期】CSS变量对JS交互组件开发带来的提升与变革](https://www.ershicimi.com/p/b8f3eb90594a1b38ab5485fbc44ef473)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第2063期】如何进行表单体验优化-中台系统](https://www.ershicimi.com/p/cbfdb8df7884184d75e415555dbbee81)
 - [【前端早读课】【第2055期】如何用JavaScript检测空闲的浏览器标签](https://www.ershicimi.com/p/c32e4b47cdc9760e316fc3ad69997cf3)
 - [【前端早读课】【图书】JavaScript-经典「红宝书」，几代前端人的选择](https://www.ershicimi.com/p/0670af4c43a69b00c705bafb864ad249)
-- [【前端早读课】【第2038期】使用滚动特效的最佳实践](https://www.ershicimi.com/p/f101c6e7a2e764911b2c8c10c82bb979)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【1/121】从元素中添加或删除类](https://www.ershicimi.com/p/549de61bf5206827f544c79dbbd02080)
 - [【前端早读课】【第2147期】交互导入模式](https://www.ershicimi.com/p/001a8de7c0e549e2299f0dacd0a9a5b9)
 - [【前端早读课】【第2146期】如何让你的代码评审人喜欢上你？](https://www.ershicimi.com/p/ea9bdefe1a55c8e3a7cc0252ad653ec7)
 - [【前端早读课】前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2121期】斗鱼关注人数爬取-──-字体反爬的攻与防](https://www.ershicimi.com/p/ece4aea9104abc89f969de223ba7ef39)
 - [【前端早读课】前端人，你其实可以利用技术“躺赚”-这个？](https://www.ershicimi.com/p/eaf63272f02811941adca79dc20eea2a)
 - [【前端早读课】【第2111期】知乎部署系统演进](https://www.ershicimi.com/p/b511a6f4c44cfb53f89e9f4c2c97c90d)
-- [【前端早读课】【第2110期】企业级数据可视化应用有哪些机遇与挑战？](https://www.ershicimi.com/p/7ba2a20c94f5c9e64ed27735ef6805ff)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
