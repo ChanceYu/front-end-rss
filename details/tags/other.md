@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -382,6 +382,11 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a) 
+- [2020-12-18-3-年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/90d017b2fb577282a430260ab4039d8e) 
+- [2020-12-18-8.7k-Star！不剁手-Mac-也能用-macOS](https://www.ershicimi.com/p/2f5af5bcf3973770b212bddff5932476) 
+- [2020-12-17-MongoDB-首席前端工程师的技术栈（2020版）](https://www.ershicimi.com/p/0fb5419c112c5af013be04e9f9d6711c) 
+- [2020-12-17-设计灵感-|-夜间模式网页界面如何设计？](https://www.ershicimi.com/p/0d83e17624105b64d8d72814c619262b) 
 - [2020-12-15-1.2-万-Star！Monica-为你的人际交往助力！](https://www.ershicimi.com/p/88df8ddb841f275f19fa1c003ef9fda4) 
 - [2020-12-13-灵感-|-大火的夜间模式APP界面如何设计？](https://www.ershicimi.com/p/51a7ffc340e295343a5dc93fd1f59d04) 
 - [2020-12-12-1-万-Star-！自称“最牛叉的”负载测试工具](https://www.ershicimi.com/p/82b29b2a86e48cd0cc4cf480a28109b6) 

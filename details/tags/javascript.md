@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-20 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -144,6 +144,9 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002) 
+- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3) 
+- [2020-12-18-这个-29.7-K-的剪贴板-JS-库有点东西！](https://www.ershicimi.com/p/e60add1d8543af886933de01b434b95e) 
 - [2020-12-14-H5-基于-canvas-实现电子签名并生成PDF文档](https://www.ershicimi.com/p/5e07da7d12634131928d104f2003af50) 
 - [2020-12-09-两小时搞定-ES6：原理讲解+项目实战](https://www.ershicimi.com/p/b65c475eb70c0c89a1fe92a3a0898706) 
 - [2020-12-09-Math.random-还能这样玩？](https://www.ershicimi.com/p/17094de760f17b56b7ef284d8013c55d) 
