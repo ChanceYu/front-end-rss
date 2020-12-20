@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 12:00:09，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-20 18:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2020-12-20-【第2153期】如何自己开发一款力导向图？](https://www.ershicimi.com/p/e04bcc479670e65e98b502613f3e14fc) ![](assets/new.png)  
+- [2020-12-20-【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3) ![](assets/new.png)  
 - [2020-12-19-【第2152期】一个有趣的内存泄漏案例](https://www.ershicimi.com/p/0f52d05d6449d3f8dcf2db4462f154d7)  
 - [2020-12-19-【3/121】附加到一个元素](https://www.ershicimi.com/p/08ab99b3de2ed69b762415c6170c9e3b)  
 - [2020-12-18-【第2151期】当我们谈前端性能的时候，我们谈的是什么](https://www.ershicimi.com/p/3e94acf908844a3d66b9acfe3c0229d4)  
@@ -51,8 +53,6 @@
 - [2020-12-11-WebAssembly-如何提升-JavaScript-的性能？](https://www.ershicimi.com/p/d598d3b947b55e4c4d623fa9831712db)  
 - [2020-12-11-【第2144期】只使用-CSS-进行用户追踪](https://www.ershicimi.com/p/47b3db94b2d3eff344d0dd7ba40e2ebf)  
 - [2020-12-11-【招聘】同程艺龙北京研发中台招聘高级前端工程师](https://www.ershicimi.com/p/b6dbd62061a91dd3811aada50d3a6290)  
-- [2020-12-10-【第2143期】CSS变量对JS交互组件开发带来的提升与变革](https://www.ershicimi.com/p/b8f3eb90594a1b38ab5485fbc44ef473)  
-- [2020-12-09-【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,15 +64,15 @@
 </summary>
 
 
-- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002) ![](assets/new.png)  
-- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3) ![](assets/new.png)  
-- [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a) ![](assets/new.png)  
-- [2020-12-18-3-年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/90d017b2fb577282a430260ab4039d8e) ![](assets/new.png)  
-- [2020-12-18-这个-29.7-K-的剪贴板-JS-库有点东西！](https://www.ershicimi.com/p/e60add1d8543af886933de01b434b95e) ![](assets/new.png)  
-- [2020-12-18-8.7k-Star！不剁手-Mac-也能用-macOS](https://www.ershicimi.com/p/2f5af5bcf3973770b212bddff5932476) ![](assets/new.png)  
-- [2020-12-17-MongoDB-首席前端工程师的技术栈（2020版）](https://www.ershicimi.com/p/0fb5419c112c5af013be04e9f9d6711c) ![](assets/new.png)  
-- [2020-12-17-Chrome-录屏神器！自称“最强大”的屏幕录制和注释工具！](https://www.ershicimi.com/p/fe24d92ebe99875cec2313cbcdbbcafa) ![](assets/new.png)  
-- [2020-12-17-设计灵感-|-夜间模式网页界面如何设计？](https://www.ershicimi.com/p/0d83e17624105b64d8d72814c619262b) ![](assets/new.png)  
+- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002)  
+- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3)  
+- [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a)  
+- [2020-12-18-3-年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/90d017b2fb577282a430260ab4039d8e)  
+- [2020-12-18-这个-29.7-K-的剪贴板-JS-库有点东西！](https://www.ershicimi.com/p/e60add1d8543af886933de01b434b95e)  
+- [2020-12-18-8.7k-Star！不剁手-Mac-也能用-macOS](https://www.ershicimi.com/p/2f5af5bcf3973770b212bddff5932476)  
+- [2020-12-17-MongoDB-首席前端工程师的技术栈（2020版）](https://www.ershicimi.com/p/0fb5419c112c5af013be04e9f9d6711c)  
+- [2020-12-17-Chrome-录屏神器！自称“最强大”的屏幕录制和注释工具！](https://www.ershicimi.com/p/fe24d92ebe99875cec2313cbcdbbcafa)  
+- [2020-12-17-设计灵感-|-夜间模式网页界面如何设计？](https://www.ershicimi.com/p/0d83e17624105b64d8d72814c619262b)  
 - [2020-12-16-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/22192dc16df677b659d8ee42082d829d)  
 - [2020-12-16-跟着官方文档能学懂-Hooks-就怪了](https://www.ershicimi.com/p/27406fa6ccc4854dace2dc090d879dd3)  
 - [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](https://www.ershicimi.com/p/b4f8c624ebceabf1805fbb1c46a83719)  
