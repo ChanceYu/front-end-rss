@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-21 18:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端早读课】2020-12-21-【第2154期】EMP微前端解决方案](https://www.ershicimi.com/p/28e3628c40cd5c3156e06beb614266a0) 
 - [【前端早读课】2020-12-20-【第2153期】如何自己开发一款力导向图？](https://www.ershicimi.com/p/e04bcc479670e65e98b502613f3e14fc) 
 - [【前端早读课】2020-12-20-【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3) 
 - [【前端早读课】2020-12-19-【第2152期】一个有趣的内存泄漏案例](https://www.ershicimi.com/p/0f52d05d6449d3f8dcf2db4462f154d7) 
