@@ -18548,6 +18548,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "几个常见功能重合DOM API的细节差异",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/",
+        "date": "2020-12-25"
+      },
+      {
         "title": "纯CSS实现微信列表左滑显示按钮的交互效果",
         "link": "https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/",
         "date": "2020-12-13"
