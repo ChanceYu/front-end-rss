@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-25 18:00:17，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-26 18:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,8 +33,10 @@
 </summary>
 
 
-- [2020-12-25-【第2158期】22条设计登录&注册的规则](https://www.ershicimi.com/p/7518e367de805cf881ce9da54c4b0bea) ![](assets/new.png)  
-- [2020-12-25-【招聘】抖音电商招聘前端开发工程师](https://www.ershicimi.com/p/be105fc11c8c8aa8d8855a4cc0946d7a) ![](assets/new.png)  
+- [2020-12-26-【第2159期】使用Lottie-快速开发动画](https://www.ershicimi.com/p/893cdd90fd9d173fbdfa08b849a71962) ![](assets/new.png)  
+- [2020-12-26-【招聘】北京百度自动驾驶基础架构部招聘前端开发工程师（社招）](https://www.ershicimi.com/p/8166e656bbc071d9271b5a18521473e3) ![](assets/new.png)  
+- [2020-12-25-【第2158期】22条设计登录&注册的规则](https://www.ershicimi.com/p/7518e367de805cf881ce9da54c4b0bea)  
+- [2020-12-25-【招聘】抖音电商招聘前端开发工程师](https://www.ershicimi.com/p/be105fc11c8c8aa8d8855a4cc0946d7a)  
 - [2020-12-24-【第2157期】聊聊知乎小程序引擎](https://www.ershicimi.com/p/df54b81f25406faea08b88b2236a89a0)  
 - [2020-12-24-【招聘】字节跳动番茄小说招前端工程师/Leader（社招/校招/实习）](https://www.ershicimi.com/p/7aaa2d7f9ee062974a5822db3db44f50)  
 - [2020-12-23-【第2156期】2020年大前端技术趋势解读](https://www.ershicimi.com/p/06394198c2627ad9b4712159460cb56f)  
@@ -51,8 +53,6 @@
 - [2020-12-17-【第2150期】JavaScript的面向切面编程](https://www.ershicimi.com/p/d662be52f1d3ff530947c79bd02faa95)  
 - [2020-12-17-【1/121】从元素中添加或删除类](https://www.ershicimi.com/p/549de61bf5206827f544c79dbbd02080)  
 - [2020-12-16-【第2149期】V8中的快属性](https://www.ershicimi.com/p/6c9c9fbf140b8acd7931300dda24d992)  
-- [2020-12-15-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7e8f65c02e6424a888374cb792a659e3)  
-- [2020-12-15-【第2148期】Figma-+-Gitlab-CI-一键交付-SVG-多色图标库](https://www.ershicimi.com/p/dfda52ab7a0718d6dee20f6d532842ee)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2020-12-25-程序员也被“内卷”？网友：前景一片昏暗！-但真的是这样吗？](https://www.ershicimi.com/p/aafdb6625afbee114f0d372d2efed47d) ![](assets/new.png)  
-- [2020-12-25-初级前端如何突破瓶颈？做了-3-年组长，我有这些体会](https://www.ershicimi.com/p/5874986a9786a611e8115fcdf86cd221) ![](assets/new.png)  
-- [2020-12-25-设计灵感：一眼就吸引人的网页着陆页长什么样？](https://www.ershicimi.com/p/c1dd0584588bfad433e80996a5015e60) ![](assets/new.png)  
-- [2020-12-25-每天学点-JS-编码规范（3）：Arrays-和-Destructuring](https://www.ershicimi.com/p/c625d1f91a10aa0e2b350813cdc77b84) ![](assets/new.png)  
+- [2020-12-25-程序员也被“内卷”？网友：前景一片昏暗！-但真的是这样吗？](https://www.ershicimi.com/p/aafdb6625afbee114f0d372d2efed47d)  
+- [2020-12-25-初级前端如何突破瓶颈？做了-3-年组长，我有这些体会](https://www.ershicimi.com/p/5874986a9786a611e8115fcdf86cd221)  
+- [2020-12-25-设计灵感：一眼就吸引人的网页着陆页长什么样？](https://www.ershicimi.com/p/c1dd0584588bfad433e80996a5015e60)  
+- [2020-12-25-每天学点-JS-编码规范（3）：Arrays-和-Destructuring](https://www.ershicimi.com/p/c625d1f91a10aa0e2b350813cdc77b84)  
 - [2020-12-24-基于-Vue-的前端架构，我做了这-15-点](https://www.ershicimi.com/p/49a31310b2bfb7159222739f70eb6a7a)  
 - [2020-12-24-华为要承包前端开发者整年需求？](https://www.ershicimi.com/p/433e70c12df1ec9cb53f53815429b6fb)  
 - [2020-12-24-设计灵感：数据可视化！12-个仪表盘网页界面设计](https://www.ershicimi.com/p/e0e783d59dd8af201f7bdde9d03a49bb)  

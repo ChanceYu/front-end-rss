@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-12-25 18:00:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-26 18:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第2159期】使用Lottie-快速开发动画](https://www.ershicimi.com/p/893cdd90fd9d173fbdfa08b849a71962)
 - [【前端早读课】【第2144期】只使用-CSS-进行用户追踪](https://www.ershicimi.com/p/47b3db94b2d3eff344d0dd7ba40e2ebf)
 - [【前端早读课】【第2140期】2020-CSS-现状调查](https://www.ershicimi.com/p/f83943b690f9b73b3fef35a0ba49ac1e)
 - [【前端早读课】Sass：LibSass已被废弃](https://www.ershicimi.com/p/3f416ac980a98a985c9a5454d14a9cec)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第1861期】千万级流量业务的Serverless实践，看FaaS给前端带来的变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=1&sn=faf9eeac40a831985b1ccfa46a39aa4a&chksm=bd497c118a3ef507a01968253be536584d4c38db382e08469f757e2016f94d4690294d84b387&scene=27#wechat_redirect)
 - [【前端早读课】命令行中的加载动画，spinner-的艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235696&idx=2&sn=12494c61b15b6f73d8a795bd7f9fc76e&chksm=bd497cf48a3ef5e2c4380eeade2e09375c1bbee8c65213a0f6aff0c0877432cf2f82fe800d62&scene=27#wechat_redirect)
 - [【前端早读课】【第1854期】CSS-故障艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235682&idx=1&sn=bed5d7ba67135f150f2d734e239361d0&chksm=bd497ce68a3ef5f0c68fac180996cfb8db62986099131884e595bf686f1fdcd6e8846b90dc38&scene=27#wechat_redirect)
-- [【前端早读课】【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】北京百度自动驾驶基础架构部招聘前端开发工程师（社招）](https://www.ershicimi.com/p/8166e656bbc071d9271b5a18521473e3)
 - [【前端早读课】【招聘】抖音电商招聘前端开发工程师](https://www.ershicimi.com/p/be105fc11c8c8aa8d8855a4cc0946d7a)
 - [【前端早读课】【招聘】字节跳动番茄小说招前端工程师/Leader（社招/校招/实习）](https://www.ershicimi.com/p/7aaa2d7f9ee062974a5822db3db44f50)
 - [【前端早读课】【招聘】有赞·教育前端团队急招前端开发工程师](https://www.ershicimi.com/p/b3d402b88891ec1b88506a7bb25f631d)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】阿里巴巴-CRO-技术部大前端团队招聘](https://www.ershicimi.com/p/01966a1f35772b00075760089c06878c)
 - [【前端早读课】【招聘】字节跳动头条/西瓜/小说业务架构前端团队招聘](https://www.ershicimi.com/p/9c6293d3a07360cba5372cdc5d07c693)
 - [【前端早读课】【招聘】北京字节跳动幸福里团队招前端工程师（社招）](https://www.ershicimi.com/p/216fbfc50241bfd7d2db43418239bc6e)
-- [【前端早读课】【招聘】北京美团大象招前端工程师](https://www.ershicimi.com/p/4d821d951ce8fb3b75dcd932f0d10a8d)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
