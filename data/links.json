@@ -19420,6 +19420,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "Fetch API 教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html",
+        "date": "2020-12-28"
+      },
+      {
         "title": "科技爱好者周刊（第 139 期）：生物学的可怕进展",
         "link": "http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html",
         "date": "2020-12-25"
