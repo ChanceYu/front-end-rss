@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-12-30 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-12-29-【第2162期】如何基于心智模型打造更棒的用户体验](https://www.ershicimi.com/p/c2cce4a737f0356e32df2c4510d36127) 
 - [2020-12-27-【第2160期】钉钉表格，从零到一打造在线-Excel](https://www.ershicimi.com/p/d7764e03ce7765c3f5cd06b38424efc1) 
 - [2020-12-25-【第2158期】22条设计登录&注册的规则](https://www.ershicimi.com/p/7518e367de805cf881ce9da54c4b0bea) 
 - [2020-12-23-【第2156期】2020年大前端技术趋势解读](https://www.ershicimi.com/p/06394198c2627ad9b4712159460cb56f) 
@@ -388,6 +389,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-12-29-设计灵感：12-个手机钱包-UI-设计案例](https://www.ershicimi.com/p/be8f9aa277a2f9e7543af816cfbe85f7) 
 - [2020-12-28-设计灵感：12-个投资理财仪表盘界面设计](https://www.ershicimi.com/p/7c33c2d58a6f6a359e0529346a6b4b24) 
 - [2020-12-27-备战2021：vite-工程化实践，建议收藏](https://www.ershicimi.com/p/e6f7f32592acc8bfef3ddd3376536a2a) 
 - [2020-12-27-设计灵感：App-数据图表的-12-种展示方式](https://www.ershicimi.com/p/12abf3c3d77df5fc1b26ea01edb9e0be) 
