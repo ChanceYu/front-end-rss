@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-31 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -314,6 +314,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-12-13-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-06-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
+- [【阮一峰的网络日志】2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html) 
 - [【阮一峰的网络日志】2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html) 
 - [【阮一峰的网络日志】2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) 
 - [【阮一峰的网络日志】2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html) 
