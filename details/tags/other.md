@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-01 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-01 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -389,6 +389,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-12-31-这些高阶的函数技术，你掌握了么](https://www.ershicimi.com/p/5c2ada55a6d37914b2bba452d7900c0a) 
+- [2020-12-31-设计灵感：12-组智能家居-APP-界面设计](https://www.ershicimi.com/p/485104833b74b9e5e95464ead9f8f90f) 
 - [2020-12-30-冬天到了，女朋友想让我的网站也下雪，我立马打开电脑撸代码…](https://www.ershicimi.com/p/b16a7e1a05363da8ebc2321ae375c558) 
 - [2020-12-30-设计灵感：12-组优质的手机银行界面设计](https://www.ershicimi.com/p/97962c13c0b31c8f78d544ded684340d) 
 - [2020-12-29-设计灵感：12-个手机钱包-UI-设计案例](https://www.ershicimi.com/p/be8f9aa277a2f9e7543af816cfbe85f7) 
