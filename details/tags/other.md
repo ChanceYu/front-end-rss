@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-04 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -389,6 +389,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-01-04-设计灵感：12-款仪表盘界面设计](https://www.ershicimi.com/p/eb19bf96b7908147ea013d29bd6ae919) 
+- [2021-01-03-年轻人不讲武德，居然在简历中藏木马！](https://www.ershicimi.com/p/7c5a0a7a73a5e5aff6d82131b115ab58) 
+- [2021-01-03-前端开发必读经典书籍第一季（文末送书）](https://www.ershicimi.com/p/7bcea097e8ede810d47e45495c99ed65) 
+- [2021-01-03-设计灵感：12-组书籍阅读-APP-界面设计](https://www.ershicimi.com/p/6d6fa5739519e2aca33527cdae1d64d3) 
 - [2021-01-01-设计灵感：12-组投资-APP-界面设计](https://www.ershicimi.com/p/0466cf017c87343793ffe08e12f34c96) 
 - [2020-12-31-这些高阶的函数技术，你掌握了么](https://www.ershicimi.com/p/5c2ada55a6d37914b2bba452d7900c0a) 
 - [2020-12-31-设计灵感：12-组智能家居-APP-界面设计](https://www.ershicimi.com/p/485104833b74b9e5e95464ead9f8f90f) 
