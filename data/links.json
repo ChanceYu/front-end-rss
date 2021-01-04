@@ -12484,6 +12484,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "你应该了解的25个JS技巧",
+        "link": "https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f",
+        "date": "2021-01-04"
+      },
+      {
+        "title": "30个编程领域的趣图",
+        "link": "https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff",
+        "date": "2021-01-04"
+      },
+      {
+        "title": "产品经理训练营有偿招募兼职助教 | 助教招募",
+        "link": "https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7",
+        "date": "2021-01-04"
+      },
+      {
+        "title": "前端周报：开发者向开源项目提交 issue 表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机",
+        "link": "https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21",
+        "date": "2021-01-03"
+      },
+      {
         "title": "Thresh 今天正式开源，有望成为替代 RN 的一种长期方案",
         "link": "https://www.ershicimi.com/p/1556263b759a915fcc4a1e92c9e877b3",
         "date": "2020-12-31"
@@ -18912,6 +18932,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "告别JS keyCode",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/",
+        "date": "2021-01-04"
+      },
       {
         "title": "几个常见功能重合DOM API的细节差异",
         "link": "https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/",
