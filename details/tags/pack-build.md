@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -42,6 +42,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2021-01-05-如何发布-npm-包](https://www.ershicimi.com/p/52ea7f596d82c09a678411e0868a0495) 
 - [2021-01-04-你必须知道的-webpack-插件原理分析](https://www.ershicimi.com/p/43589c91b21883103f700a8639d86939) 
 - [2020-12-02-Webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/1370f499953370a92a305a888916d7b0) 
 - [2020-11-26-一文带你快速上手-Rollup](https://www.ershicimi.com/p/25e4cb6db8b4e736672d787432ff42b0) 

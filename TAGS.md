@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-05 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-06 18:00:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,11 +125,11 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】Typescript-代码整洁之道](https://www.ershicimi.com/p/d34429a7721f63a8146a338759744470)
 - [【前端大全】一份不可多得的-TypeScript-学习指南](https://www.ershicimi.com/p/ec7efd2ceaeea5cd42756e9e4dff96c7)
 - [【前端大全】大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0)
 - [【前端大全】TypeScript：-请停止使用-any](https://www.ershicimi.com/p/2b67055df70b1fab0a36876b8a80a73a)
 - [【前端大全】TypeScript之父：JS不是竞争对手](https://www.ershicimi.com/p/976c7799431e66fc0c808a55d9768170)
-- [【前端大全】TypeScript-4.0-来了，有什么新的关注点？](https://www.ershicimi.com/p/f7eae2089b96a795d540ca01c6da9fe1)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
