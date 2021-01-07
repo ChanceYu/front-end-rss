@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-07 18:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-08 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -167,6 +167,9 @@
 - [【前端大全】2021-01-01-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/903c07a14be084ea16836e588ddaf093) 
 - [【前端大全】2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b) 
 - [【前端大全】2021-01-01-设计灵感：12-组投资-APP-界面设计](https://www.ershicimi.com/p/0466cf017c87343793ffe08e12f34c96) 
+- [【前端之巅】2021-01-06-2021年Web开发的7大趋势](https://www.ershicimi.com/p/3b9804fbd88d2e1d5928c9eecc6d1db0) 
+- [【前端之巅】2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73) 
+- [【前端之巅】2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) 
 - [【前端之巅】2021-01-04-你应该了解的25个JS技巧](https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f) 
 - [【前端之巅】2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) 
 - [【前端之巅】2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 

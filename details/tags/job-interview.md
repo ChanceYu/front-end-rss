@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-07 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-08 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -240,6 +240,7 @@
 - [2019-03-29-前端面试知识点目录整理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556126&idx=1&sn=fac147626d1a63ba67b89ec1a52809d5#rd) 
 - [2018-11-22-百度、有赞、阿里前端面试总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=2&sn=25eb4af8005fa8ed96712debdeeb8e78#wechat_redirect) 
 - [2018-11-06-2018-大厂高级前端面试题汇总](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect) 
+- [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) 
 - [2020-12-25-已拿Offer！2021-最强大厂面试攻略-|-活动推荐](https://www.ershicimi.com/p/3e917cb4ec1a150f142a91bd03b6eed2) 
 - [2020-12-04-解密智联招聘的大前端架构-Ada](https://www.ershicimi.com/p/2b4dc0ef765cb25ad951d63d2fe54fc6) 
 - [2020-10-09-面试造核弹：细数那些有毒的开发岗位描述](https://www.ershicimi.com/p/be2c70677456a36b2b7d281c4e2a4065) 
