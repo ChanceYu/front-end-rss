@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-08 12:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-08 18:00:14，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,6 +64,9 @@
 </summary>
 
 
+- [2021-01-08-“2020-年度程序员收入报告”来袭，字节排第-7](https://www.ershicimi.com/p/9cf93f07f619bc6b8c4ffa875671059d) ![](assets/new.png)  
+- [2021-01-08-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/59d66f9e7bb730c9eb71d0dc81b4efd1) ![](assets/new.png)  
+- [2021-01-08-设计灵感-：12-组证券理财数据图表网页界面设计](https://www.ershicimi.com/p/3495c8cdfdf22fa1084f93fa0aa27dd3) ![](assets/new.png)  
 - [2021-01-07-如何开发一款-H5-小程序直播？](https://www.ershicimi.com/p/dc8cf96ef89297f729a8c24b030c6098)  
 - [2021-01-07-「一次写过瘾」手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/2e70c183d3569a0f8d06c23ce6db3a47)  
 - [2021-01-07-设计灵感：博客类-App-如何设计？](https://www.ershicimi.com/p/94548bc2fe89f9feb4d85eadb95f179a)  
@@ -81,9 +84,6 @@
 - [2021-01-03-前端开发必读经典书籍第一季（文末送书）](https://www.ershicimi.com/p/7bcea097e8ede810d47e45495c99ed65)  
 - [2021-01-03-第一个-React-项目做完了，谈谈自己对-hooks-的思考](https://www.ershicimi.com/p/ae917d54609ba38ee8860b85443e1fa6)  
 - [2021-01-03-设计灵感：12-组书籍阅读-APP-界面设计](https://www.ershicimi.com/p/6d6fa5739519e2aca33527cdae1d64d3)  
-- [2021-01-01-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/903c07a14be084ea16836e588ddaf093)  
-- [2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b)  
-- [2021-01-01-设计灵感：12-组投资-APP-界面设计](https://www.ershicimi.com/p/0466cf017c87343793ffe08e12f34c96)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html) ![](assets/new.png)  
+- [2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)  
 - [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)  
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)  
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)  

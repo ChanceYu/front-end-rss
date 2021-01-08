@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-08 12:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-08 18:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -390,6 +390,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-01-08-“2020-年度程序员收入报告”来袭，字节排第-7](https://www.ershicimi.com/p/9cf93f07f619bc6b8c4ffa875671059d) 
+- [2021-01-08-设计灵感-：12-组证券理财数据图表网页界面设计](https://www.ershicimi.com/p/3495c8cdfdf22fa1084f93fa0aa27dd3) 
 - [2021-01-07-设计灵感：博客类-App-如何设计？](https://www.ershicimi.com/p/94548bc2fe89f9feb4d85eadb95f179a) 
 - [2021-01-06-前端-mock-完美解决方案实战](https://www.ershicimi.com/p/7b7c1a92d20327028d21394410fbd19a) 
 - [2021-01-05-设计灵感：12组银行金融类App界面设计](https://www.ershicimi.com/p/b9b431202b1d319ba4dc8fe787783517) 
