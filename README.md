@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-08 06:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-08 12:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2021-01-06-2021年Web开发的7大趋势](https://www.ershicimi.com/p/3b9804fbd88d2e1d5928c9eecc6d1db0) ![](assets/new.png)  
-- [2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73) ![](assets/new.png)  
-- [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) ![](assets/new.png)  
+- [2021-01-06-2021年Web开发的7大趋势](https://www.ershicimi.com/p/3b9804fbd88d2e1d5928c9eecc6d1db0)  
+- [2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73)  
+- [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96)  
 - [2021-01-04-你应该了解的25个JS技巧](https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f)  
 - [2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff)  
 - [2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html) ![](assets/new.png)  
 - [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)  
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)  
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)  
@@ -207,7 +208,6 @@
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)  
 - [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)  
 - [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)  
-- [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
