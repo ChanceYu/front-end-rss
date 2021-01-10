@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-08 18:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-10 18:00:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,6 +362,8 @@
 
 
 
+- [【前端早读课】2020年Serverless对初创企业的好处](https://www.ershicimi.com/p/f4abdd8bb825067464abf3102ae9d8ed)
+- [【前端早读课】【第2171期】一行-CSS-代码的魅力](https://www.ershicimi.com/p/f21bdfd418ef74386d824a0a9e9e74ad)
 - [【前端早读课】【第2165期】CSS现状和如何学习](https://www.ershicimi.com/p/4058ac4b87f1b89211a1cea55d6e851c)
 - [【前端早读课】Serverless-如何落地？揭秘阿里核心业务大规模落地实现](https://www.ershicimi.com/p/3274ce79882173e88174d39ade4d35df)
 - [【前端早读课】【第2159期】使用Lottie-快速开发动画](https://www.ershicimi.com/p/893cdd90fd9d173fbdfa08b849a71962)
@@ -380,8 +382,6 @@
 - [【前端早读课】【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f)
 - [【前端早读课】【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)
 - [【前端早读课】【第1869期】CSS-工具类和“关注点分离”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235802&idx=1&sn=3dc78beaade65cb52558ba0d5531e9d6&chksm=bd497c5e8a3ef5484d74a6a95a99ff1e53e1d669837c8198fbb01a336c878c5692643459e961&scene=27#wechat_redirect)
-- [【前端早读课】关于《CSS选择器世界》这本书](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235740&idx=2&sn=af91d7f01552428ebd2bccaf7ae06dec&chksm=bd497c188a3ef50ee13c0b84f0dda72ea4e52736783b7b5f060d77873d1f02a4f002e06dff3b&scene=27#wechat_redirect)
-- [【前端早读课】【第1861期】千万级流量业务的Serverless实践，看FaaS给前端带来的变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235733&idx=1&sn=faf9eeac40a831985b1ccfa46a39aa4a&chksm=bd497c118a3ef507a01968253be536584d4c38db382e08469f757e2016f94d4690294d84b387&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第2170期】在Web应用中减少CORS预检时间的4种方法](https://www.ershicimi.com/p/f46bbe08cb788f93de000136e14979e2)
 - [【前端早读课】【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa)
 - [【前端早读课】【第2129期】探讨浏览器指纹](https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4)
 - [【前端早读课】【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6)
 - [【前端早读课】【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)
 - [【前端早读课】【第1857期】Cookie-的-SameSite-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235702&idx=1&sn=af5e022b2ba0651b7716108cfb2fb01a&chksm=bd497cf28a3ef5e401144a3ec61174757e79a8a57b074f363e84cd8c19da294dffe6ffeed052&scene=27#wechat_redirect)
-- [【前端早读课】【第1829期】复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=2&sn=2060afefc3458a631337b532e82f78cb&chksm=bd497dd28a3ef4c46ac51bd8d1d16598b8794349fddbda4856ceadc4accf62f06dfedb94dcb4&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2172期】自适应布局最佳实践](https://www.ershicimi.com/p/52dffdf2dfc850d2b8c08497585113d0)
 - [【前端早读课】【第2169期】盒马中后台跨端方案探索](https://www.ershicimi.com/p/8669b025c140e0bdc7096b7e3ade7eb5)
 - [【前端早读课】【第2162期】如何基于心智模型打造更棒的用户体验](https://www.ershicimi.com/p/c2cce4a737f0356e32df2c4510d36127)
 - [【前端早读课】【第2160期】钉钉表格，从零到一打造在线-Excel](https://www.ershicimi.com/p/d7764e03ce7765c3f5cd06b38424efc1)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2037期】深入了解页面生命周期API](https://www.ershicimi.com/p/7ec9fefd1cf65b17b4303757b3e17167)
 - [【前端早读课】【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b)
 - [【前端早读课】【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c)
-- [【前端早读课】【第2133期】如何搭建一套-“无痕埋点”-体系？](https://www.ershicimi.com/p/33f140b8594bc71d21a7952b9520f208)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
