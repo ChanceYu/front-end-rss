@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-10 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -21,6 +21,7 @@
 - [2020-10-19-一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？](https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7) 
 - [2020-07-06-Flutter-不火，天理难容！](https://www.ershicimi.com/p/cc4d8c2c94ce6982017097256f2e5d07) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2021-01-11-Flutter-的性能分析、工程架构与细节处理](https://www.ershicimi.com/p/9853a03827d044f44972d09c9e8450f1) 
 - [2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73) 
 - [2020-12-31-如何在Flutter和JavaScript之间创建通信桥](https://www.ershicimi.com/p/afee8aac2c23114983a99f5b8a432781) 
 - [2020-12-25-Flutter真香！2020大事件全纪录](https://www.ershicimi.com/p/42f09af6139c9aad7691a9fa45efb30f) 
