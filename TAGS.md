@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-13 06:00:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-14 06:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -125,11 +125,11 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】实现一个-async/await-（typescript-版）](https://www.ershicimi.com/p/b7b6789577ea91e60c246e2f754d148c)
 - [【前端大全】实现一个符合-Promise/A+规范的-Promise（typescript-版）](https://www.ershicimi.com/p/52ed63978a959692e905b61019d2b97a)
 - [【前端大全】Typescript-代码整洁之道](https://www.ershicimi.com/p/d34429a7721f63a8146a338759744470)
 - [【前端大全】一份不可多得的-TypeScript-学习指南](https://www.ershicimi.com/p/ec7efd2ceaeea5cd42756e9e4dff96c7)
 - [【前端大全】大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0)
-- [【前端大全】TypeScript：-请停止使用-any](https://www.ershicimi.com/p/2b67055df70b1fab0a36876b8a80a73a)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】上海字节跳动商业变现上海前端布谷团队招前端工程师](https://www.ershicimi.com/p/5eb41071634ff9086cc1dda52edb9c50)
 - [【前端早读课】【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387)
 - [【前端早读课】【招聘】北京京东物流招聘4~5年前端工程师](https://www.ershicimi.com/p/487ef57d1694920c67a9a3c3e321022c)
 - [【前端早读课】【招聘】淘宝事业群淘宝特价版前端团队招聘前端开发工程师](https://www.ershicimi.com/p/dc057cb14f59c3aa510fbf3d9be1c253)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】北京好大夫在线招前端开发工程师](https://www.ershicimi.com/p/467a4ceb2d0492ae1adbfef607ec1ce9)
 - [【前端早读课】【招聘】阿里云-GTS-GCC招聘前端-P6、P7](https://www.ershicimi.com/p/0406a754367319de3419bf65b084ef51)
 - [【前端早读课】【招聘】杭州网易严选---高级/资深前端工程师招聘【商城方向、可视化方向】](https://www.ershicimi.com/p/4a2ac3d0302ddc0ab63d35b7520b86ba)
-- [【前端早读课】【招聘】蚂蚁集团研发效能部代码服务与-CloudIDE-团队招聘工程师/专家](https://www.ershicimi.com/p/c41b1aeccb62044bfb7e94e969308d9f)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2175期】我在阿里云做前端智能化（Dumbo）--介绍](https://www.ershicimi.com/p/26a728007a4e3d42fce2baa0a4c93ec2)
 - [【前端早读课】【第2172期】自适应布局最佳实践](https://www.ershicimi.com/p/52dffdf2dfc850d2b8c08497585113d0)
 - [【前端早读课】【第2169期】盒马中后台跨端方案探索](https://www.ershicimi.com/p/8669b025c140e0bdc7096b7e3ade7eb5)
 - [【前端早读课】【第2162期】如何基于心智模型打造更棒的用户体验](https://www.ershicimi.com/p/c2cce4a737f0356e32df2c4510d36127)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2139期】Web应用程序如何工作：客户端开发和部署](https://www.ershicimi.com/p/84c383d413c0b8c0229c468a37b6b440)
 - [【前端早读课】【第2037期】深入了解页面生命周期API](https://www.ershicimi.com/p/7ec9fefd1cf65b17b4303757b3e17167)
 - [【前端早读课】【第2136期】Angular富文本编辑器之路的探索](https://www.ershicimi.com/p/612630f0b98fc14d14f341057b6e273b)
-- [【前端早读课】【第2134期】前端工程师是如何做“资损防控”的？](https://www.ershicimi.com/p/8c1c31d0831f98fa418653fe4068282c)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
