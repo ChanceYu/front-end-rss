@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-15 12:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-16 06:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第2177期】2020-前端技术发展回顾](https://www.ershicimi.com/p/12ccd0302ba228bcc4dadcee3b00f0d6)
+- [【前端早读课】【活动】迟到但不缺席，第八届-IMWeb-Conf-杀到！](https://www.ershicimi.com/p/20a513f04d9f55115a0d92d011a5cbf9)
 - [【前端早读课】【第2176期】我在阿里云做前端智能化（Dumbo）--智能识别](https://www.ershicimi.com/p/68b70185ce1dcc130e8d9d14410006b5)
 - [【前端早读课】【第2175期】我在阿里云做前端智能化（Dumbo）--介绍](https://www.ershicimi.com/p/26a728007a4e3d42fce2baa0a4c93ec2)
 - [【前端早读课】【第2172期】自适应布局最佳实践](https://www.ershicimi.com/p/52dffdf2dfc850d2b8c08497585113d0)
@@ -738,8 +740,6 @@
 - [【前端早读课】【第2147期】交互导入模式](https://www.ershicimi.com/p/001a8de7c0e549e2299f0dacd0a9a5b9)
 - [【前端早读课】【第2146期】如何让你的代码评审人喜欢上你？](https://www.ershicimi.com/p/ea9bdefe1a55c8e3a7cc0252ad653ec7)
 - [【前端早读课】前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/8f5b3112871c4bb83bd14deb06cfc823)
-- [【前端早读课】【第2139期】Web应用程序如何工作：客户端开发和部署](https://www.ershicimi.com/p/84c383d413c0b8c0229c468a37b6b440)
-- [【前端早读课】【第2037期】深入了解页面生命周期API](https://www.ershicimi.com/p/7ec9fefd1cf65b17b4303757b3e17167)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

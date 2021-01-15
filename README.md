@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-15 12:00:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-16 06:00:12，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2021-01-15-【第2177期】2020-前端技术发展回顾](https://www.ershicimi.com/p/12ccd0302ba228bcc4dadcee3b00f0d6) ![](assets/new.png)  
+- [2021-01-15-【活动】迟到但不缺席，第八届-IMWeb-Conf-杀到！](https://www.ershicimi.com/p/20a513f04d9f55115a0d92d011a5cbf9) ![](assets/new.png)  
 - [2021-01-14-【第2176期】我在阿里云做前端智能化（Dumbo）--智能识别](https://www.ershicimi.com/p/68b70185ce1dcc130e8d9d14410006b5)  
 - [2021-01-14-【招聘】钉钉宜搭生产力平台部招P6~P7前端工程师](https://www.ershicimi.com/p/46eebaa27971e168c435d056f646554f)  
 - [2021-01-13-【第2175期】我在阿里云做前端智能化（Dumbo）--介绍](https://www.ershicimi.com/p/26a728007a4e3d42fce2baa0a4c93ec2)  
@@ -51,8 +53,6 @@
 - [2021-01-04-【第2166期】满帮动态化Flutter框架-—-Thresh开源啦~~](https://www.ershicimi.com/p/4c5d5427da8f20c75f83d5478f29291e)  
 - [2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387)  
 - [2021-01-01-【第2165期】CSS现状和如何学习](https://www.ershicimi.com/p/4058ac4b87f1b89211a1cea55d6e851c)  
-- [2020-12-31-【第2164期】在-Node.js-中避免内存泄漏：性能最佳实践](https://www.ershicimi.com/p/25f59f18c2f3cabe5bcb26eed7632105)  
-- [2020-12-30-【第2163期】增量-DOM-与虚拟-DOM-的对比使用](https://www.ershicimi.com/p/ac8532bf0851e1a69e57c07a1b4f6fdb)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,6 +64,9 @@
 </summary>
 
 
+- [2021-01-15-做前端4年，就能够对标阿里-P7-级别的？](https://www.ershicimi.com/p/1d4ac1b1d668849dd87c95b13320c80e) ![](assets/new.png)  
+- [2021-01-15-大前端进击之路一：函数式编程](https://www.ershicimi.com/p/474ed810e029d9711ffe2f1960f793d9) ![](assets/new.png)  
+- [2021-01-15-设计灵感-：12组文件管理App界面设计灵感](https://www.ershicimi.com/p/a22a150d5b096ba5825af57bc2f1f3e0) ![](assets/new.png)  
 - [2021-01-14-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://www.ershicimi.com/p/9b29ed68d8235b521238f3ed6ea150b3)  
 - [2021-01-14-面向对象：跟相互喜欢的小哥哥，长长的路慢慢走](https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9)  
 - [2021-01-14-node_modules-困境](https://www.ershicimi.com/p/89df5e23ecf1b88417922a14a73fe0c7)  
@@ -81,9 +84,6 @@
 - [2021-01-09-33-个提高前端工作效率的-VSCode-实用插件](https://www.ershicimi.com/p/8705e66fbee9c95a19dbcd6c2e782511)  
 - [2021-01-09-如丝般顺滑！4-行代码就能创建一个数据流工具！](https://www.ershicimi.com/p/ac7af71f5a083ffd8244ef8c50ef49e5)  
 - [2021-01-09-从-5-个维度来讲-Vue-3-变化](https://www.ershicimi.com/p/43e852b0c0ba47cbf581142a3d14f0cc)  
-- [2021-01-09-设计灵感：12-组医药-APP-界面设计](https://www.ershicimi.com/p/0b1b8e0611b81bee8852c748c5f355bb)  
-- [2021-01-08-“2020-年度程序员收入报告”来袭，字节排第-7](https://www.ershicimi.com/p/9cf93f07f619bc6b8c4ffa875671059d)  
-- [2021-01-08-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/59d66f9e7bb730c9eb71d0dc81b4efd1)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html) ![](assets/new.png)  
+- [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)  
 - [2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)  
 - [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)  
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)  

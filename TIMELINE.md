@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 12:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-16 06:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,8 @@
 </summary>
 
 
+- [【前端早读课】2021-01-15-【第2177期】2020-前端技术发展回顾](https://www.ershicimi.com/p/12ccd0302ba228bcc4dadcee3b00f0d6) 
+- [【前端早读课】2021-01-15-【活动】迟到但不缺席，第八届-IMWeb-Conf-杀到！](https://www.ershicimi.com/p/20a513f04d9f55115a0d92d011a5cbf9) 
 - [【前端早读课】2021-01-14-【第2176期】我在阿里云做前端智能化（Dumbo）--智能识别](https://www.ershicimi.com/p/68b70185ce1dcc130e8d9d14410006b5) 
 - [【前端早读课】2021-01-14-【招聘】钉钉宜搭生产力平台部招P6~P7前端工程师](https://www.ershicimi.com/p/46eebaa27971e168c435d056f646554f) 
 - [【前端早读课】2021-01-13-【第2175期】我在阿里云做前端智能化（Dumbo）--介绍](https://www.ershicimi.com/p/26a728007a4e3d42fce2baa0a4c93ec2) 
@@ -158,6 +160,9 @@
 - [【前端早读课】2021-01-04-【第2166期】满帮动态化Flutter框架-—-Thresh开源啦~~](https://www.ershicimi.com/p/4c5d5427da8f20c75f83d5478f29291e) 
 - [【前端早读课】2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387) 
 - [【前端早读课】2021-01-01-【第2165期】CSS现状和如何学习](https://www.ershicimi.com/p/4058ac4b87f1b89211a1cea55d6e851c) 
+- [【前端大全】2021-01-15-做前端4年，就能够对标阿里-P7-级别的？](https://www.ershicimi.com/p/1d4ac1b1d668849dd87c95b13320c80e) 
+- [【前端大全】2021-01-15-大前端进击之路一：函数式编程](https://www.ershicimi.com/p/474ed810e029d9711ffe2f1960f793d9) 
+- [【前端大全】2021-01-15-设计灵感-：12组文件管理App界面设计灵感](https://www.ershicimi.com/p/a22a150d5b096ba5825af57bc2f1f3e0) 
 - [【前端大全】2021-01-14-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://www.ershicimi.com/p/9b29ed68d8235b521238f3ed6ea150b3) 
 - [【前端大全】2021-01-14-面向对象：跟相互喜欢的小哥哥，长长的路慢慢走](https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9) 
 - [【前端大全】2021-01-14-node_modules-困境](https://www.ershicimi.com/p/89df5e23ecf1b88417922a14a73fe0c7) 
