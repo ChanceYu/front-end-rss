@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-16 06:00:12，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-17 06:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-01-15-【第2177期】2020-前端技术发展回顾](https://www.ershicimi.com/p/12ccd0302ba228bcc4dadcee3b00f0d6) ![](assets/new.png)  
-- [2021-01-15-【活动】迟到但不缺席，第八届-IMWeb-Conf-杀到！](https://www.ershicimi.com/p/20a513f04d9f55115a0d92d011a5cbf9) ![](assets/new.png)  
+- [2021-01-15-【第2177期】2020-前端技术发展回顾](https://www.ershicimi.com/p/12ccd0302ba228bcc4dadcee3b00f0d6)  
+- [2021-01-15-【活动】迟到但不缺席，第八届-IMWeb-Conf-杀到！](https://www.ershicimi.com/p/20a513f04d9f55115a0d92d011a5cbf9)  
 - [2021-01-14-【第2176期】我在阿里云做前端智能化（Dumbo）--智能识别](https://www.ershicimi.com/p/68b70185ce1dcc130e8d9d14410006b5)  
 - [2021-01-14-【招聘】钉钉宜搭生产力平台部招P6~P7前端工程师](https://www.ershicimi.com/p/46eebaa27971e168c435d056f646554f)  
 - [2021-01-13-【第2175期】我在阿里云做前端智能化（Dumbo）--介绍](https://www.ershicimi.com/p/26a728007a4e3d42fce2baa0a4c93ec2)  
@@ -64,9 +64,11 @@
 </summary>
 
 
-- [2021-01-15-做前端4年，就能够对标阿里-P7-级别的？](https://www.ershicimi.com/p/1d4ac1b1d668849dd87c95b13320c80e) ![](assets/new.png)  
-- [2021-01-15-大前端进击之路一：函数式编程](https://www.ershicimi.com/p/474ed810e029d9711ffe2f1960f793d9) ![](assets/new.png)  
-- [2021-01-15-设计灵感-：12组文件管理App界面设计灵感](https://www.ershicimi.com/p/a22a150d5b096ba5825af57bc2f1f3e0) ![](assets/new.png)  
+- [2021-01-16-iPhone-12-页面卷动逐行滑入效果](https://www.ershicimi.com/p/f2f1df17ff1445ee44ea3dcfb046cc71) ![](assets/new.png)  
+- [2021-01-16-大前端进击之路二：JavaScript异步编程](https://www.ershicimi.com/p/8f1da5856a11c367157fd26deab9923d) ![](assets/new.png)  
+- [2021-01-15-做前端4年，就能够对标阿里-P7-级别的？](https://www.ershicimi.com/p/1d4ac1b1d668849dd87c95b13320c80e)  
+- [2021-01-15-大前端进击之路一：函数式编程](https://www.ershicimi.com/p/474ed810e029d9711ffe2f1960f793d9)  
+- [2021-01-15-设计灵感-：12组文件管理App界面设计灵感](https://www.ershicimi.com/p/a22a150d5b096ba5825af57bc2f1f3e0)  
 - [2021-01-14-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://www.ershicimi.com/p/9b29ed68d8235b521238f3ed6ea150b3)  
 - [2021-01-14-面向对象：跟相互喜欢的小哥哥，长长的路慢慢走](https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9)  
 - [2021-01-14-node_modules-困境](https://www.ershicimi.com/p/89df5e23ecf1b88417922a14a73fe0c7)  
@@ -82,8 +84,6 @@
 - [2021-01-10-速度提高几百倍，记一次数据结构在实际工作中的运用](https://www.ershicimi.com/p/7014ae0dcd3d6b8c0a4fc85658a3c885)  
 - [2021-01-10-设计灵感：一组C4D在APP界面中的应用](https://www.ershicimi.com/p/110fc52053812cce7826d4d02b6fef7b)  
 - [2021-01-09-33-个提高前端工作效率的-VSCode-实用插件](https://www.ershicimi.com/p/8705e66fbee9c95a19dbcd6c2e782511)  
-- [2021-01-09-如丝般顺滑！4-行代码就能创建一个数据流工具！](https://www.ershicimi.com/p/ac7af71f5a083ffd8244ef8c50ef49e5)  
-- [2021-01-09-从-5-个维度来讲-Vue-3-变化](https://www.ershicimi.com/p/43e852b0c0ba47cbf581142a3d14f0cc)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
