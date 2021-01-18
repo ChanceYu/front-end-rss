@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-18 06:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 06:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,8 @@
 
 
 
+- [2021-01-17-【招聘】欢聚集团用户体验中心招前端工程师](https://www.ershicimi.com/p/e4f4fa4dfce1e312ee259881d24a1bed) 
+- [2021-01-16-【招聘】阿里淘系互动团队招实习生、P6~8前端工程师](https://www.ershicimi.com/p/2ad3d7d41c8f717c6c7e6e45c4dd1395) 
 - [2021-01-14-【招聘】钉钉宜搭生产力平台部招P6~P7前端工程师](https://www.ershicimi.com/p/46eebaa27971e168c435d056f646554f) 
 - [2021-01-13-【招聘】上海字节跳动商业变现上海前端布谷团队招前端工程师](https://www.ershicimi.com/p/5eb41071634ff9086cc1dda52edb9c50) 
 - [2021-01-04-【招聘】上海浪起互联网科技招前端工程师](https://www.ershicimi.com/p/d93777c94ff1eebb51f03687e751d387) 

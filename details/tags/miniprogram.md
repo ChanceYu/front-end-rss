@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-18 06:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 06:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-18-【招聘】百度智能小程序研发部招Web前端研发工程师（高级、21届校招、实习）](https://www.ershicimi.com/p/c05416bfa3b2ca1b2d62b0ce805704af) 
 - [2020-12-24-【第2157期】聊聊知乎小程序引擎](https://www.ershicimi.com/p/df54b81f25406faea08b88b2236a89a0) 
 - [2020-11-25-【第2128期】大型小程序如何研发提效](https://www.ershicimi.com/p/40178f0b49f5e0f940de4d003371b5b4) 
 - [2020-11-03-【第2106期】小程序依赖分析实践](https://www.ershicimi.com/p/e7742bb8d7091acee05b2760011f970b) 
