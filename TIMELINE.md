@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-19 06:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-20 06:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,9 @@
 </summary>
 
 
+- [【前端早读课】2021-01-19-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c) 
+- [【前端早读课】2021-01-19-【第2181期】我在阿里云做前端智能化（Dumbo）--页面布局分析](https://www.ershicimi.com/p/c41eef549bc6ddcc999b7bec14de2595) 
+- [【前端早读课】2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4) 
 - [【前端早读课】2021-01-18-【第2180期】Ant-Design-设计工程化](https://www.ershicimi.com/p/584cb0161ff974934bf4101ae8228030) 
 - [【前端早读课】2021-01-18-【招聘】百度智能小程序研发部招Web前端研发工程师（高级、21届校招、实习）](https://www.ershicimi.com/p/c05416bfa3b2ca1b2d62b0ce805704af) 
 - [【前端早读课】2021-01-18-【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b) 
