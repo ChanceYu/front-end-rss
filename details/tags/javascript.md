@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-20 18:00:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -491,6 +491,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](https://fed.taobao.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](https://fed.taobao.org/blog/2017/12/07/machine-learning/) 
+- [2021-01-21-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [2020-12-25-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) 
 - [2020-12-06-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 

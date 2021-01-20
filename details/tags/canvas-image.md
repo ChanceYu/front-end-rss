@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-20 18:00:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-20-【第2182期】揭秘3D互动技术在蚂蚁数字金融的应用实战](https://www.ershicimi.com/p/92a6054e6f93f924bb1d5052bc1955e8) 
 - [2020-12-15-【第2148期】Figma-+-Gitlab-CI-一键交付-SVG-多色图标库](https://www.ershicimi.com/p/dfda52ab7a0718d6dee20f6d532842ee) 
 - [2020-11-17-【第2120期】如何1人5天开发完3D数据可视化大屏之二](https://www.ershicimi.com/p/7359c69ca87ac88be153de00f1900edd) 
 - [2020-11-01-【第2104期】如何1人5天开发完3D数据可视化大屏之一](https://www.ershicimi.com/p/6124fd81aa553750c83cfc32a8d4a6d5) 
