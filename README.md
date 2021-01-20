@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-20 06:00:30，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-20 18:00:32，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2021-01-19-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c) ![](assets/new.png)  
-- [2021-01-19-【第2181期】我在阿里云做前端智能化（Dumbo）--页面布局分析](https://www.ershicimi.com/p/c41eef549bc6ddcc999b7bec14de2595) ![](assets/new.png)  
-- [2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4) ![](assets/new.png)  
+- [2021-01-19-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c)  
+- [2021-01-19-【第2181期】我在阿里云做前端智能化（Dumbo）--页面布局分析](https://www.ershicimi.com/p/c41eef549bc6ddcc999b7bec14de2595)  
+- [2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4)  
 - [2021-01-18-【第2180期】Ant-Design-设计工程化](https://www.ershicimi.com/p/584cb0161ff974934bf4101ae8228030)  
 - [2021-01-18-【招聘】百度智能小程序研发部招Web前端研发工程师（高级、21届校招、实习）](https://www.ershicimi.com/p/c05416bfa3b2ca1b2d62b0ce805704af)  
 - [2021-01-18-【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html) ![](assets/new.png)  
 - [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)  
 - [2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)  
 - [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)  
@@ -207,7 +208,6 @@
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)  
 - [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)  
 - [2020-10-23-科技爱好者周刊（第-130-期）：低龄化的互联网](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-130.html)  
-- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
