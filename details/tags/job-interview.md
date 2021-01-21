@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 06:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-21-【招聘】京东零售平台业务中心招前端工程师](https://www.ershicimi.com/p/f56e26b33207172b056c14d5365ea1ce) 
 - [2021-01-20-【招聘】阿里云流量产品事业部前端技术团队招P6~P7](https://www.ershicimi.com/p/f8b8b892f7350a5858b3b3d71289138a) 
 - [2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4) 
 - [2021-01-17-【招聘】欢聚集团用户体验中心招前端工程师](https://www.ershicimi.com/p/e4f4fa4dfce1e312ee259881d24a1bed) 

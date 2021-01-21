@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 06:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) 
 - [2021-01-18-【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b) 
 - [2021-01-11-【第2173期】JavaScript元编程](https://www.ershicimi.com/p/b27f540b884f155d6529e8b9ab9e5646) 
 - [2021-01-05-两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/0f02749522e52c03ddf87b7d335a0493) 
@@ -150,6 +151,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2021-01-19-深拷贝-浅拷贝](https://www.ershicimi.com/p/15c7654014ef8a7171c7f2e19b4a9e59) 
 - [2021-01-17-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/09fd671e6a4f65957eda5434113dc906) 
 - [2021-01-16-大前端进击之路二：JavaScript异步编程](https://www.ershicimi.com/p/8f1da5856a11c367157fd26deab9923d) 
 - [2021-01-15-大前端进击之路一：函数式编程](https://www.ershicimi.com/p/474ed810e029d9711ffe2f1960f793d9) 
