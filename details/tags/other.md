@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-23 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -399,6 +399,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-01-22-2021-年-1-月程序员工资新出炉，你猜涨了多少？](https://www.ershicimi.com/p/a6b9c12d51f2986987b406917745d3b0) 
+- [2021-01-22-前端每日一题-#02](https://www.ershicimi.com/p/590f15cd3990f0c911a54f835f327ac5) 
 - [2021-01-21-前端每日一题-#01](https://www.ershicimi.com/p/1502cc6307b3948e669c6a70ad278841) 
 - [2021-01-21-设计灵感：12-款旅行类-App-界面设计](https://www.ershicimi.com/p/bb9bab60710d33d5bd579ab61edac043) 
 - [2021-01-20-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/72585ae7b8a1dda8c3d63cc779f36e20) 
