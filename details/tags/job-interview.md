@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-24-【招聘】阿里业务平台体验技术部招前端技术专家](https://www.ershicimi.com/p/3434a39f3aecfcb16f88d71367b10b22) 
 - [2021-01-23-【招聘】网易严选招资深前端开发工程师数据可视化](https://www.ershicimi.com/p/432aa217e1ed3ebe6b60d860c169de45) 
 - [2021-01-22-【招聘】十年磨一剑，百年-DataV，邀你同路](https://www.ershicimi.com/p/ca0f3f1ca4589cecc895704a16068215) 
 - [2021-01-21-【招聘】京东零售平台业务中心招前端工程师](https://www.ershicimi.com/p/f56e26b33207172b056c14d5365ea1ce) 
