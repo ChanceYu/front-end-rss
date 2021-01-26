@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 08:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -28,6 +28,7 @@
 - [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806) 
 - [2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961) 
+- [2021-01-25-日常使用Git，这些问题你遇到过吗？|-活动推荐](https://www.ershicimi.com/p/9142801871399e4e1d00288938ab6201) 
 - [2021-01-22-程序员必备的10大GitHub仓库](https://www.ershicimi.com/p/4527c2aca097748967284fd029ed8607) 
 - [2020-12-27-前端周报：VS-Code的Issue列表被黑产“攻陷”；国产开源软件“购买”GitHub星标被批评；](https://www.ershicimi.com/p/514b20007ed8b002fdaa40f940dbb77b) 
 - [2020-11-08-前端周报：GitHub疑似源代码泄露；蚂蚁集团上市将推迟半年以上，官方致歉；苹果11.11再次召开发](https://www.ershicimi.com/p/c16f43363835bfd6c002e1c156331fae) 

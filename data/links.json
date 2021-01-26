@@ -5,6 +5,31 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "你不知道的Vue3.0 和React 17的异同点",
+        "link": "https://www.ershicimi.com/p/25f83304c015190c36ce9f721341a8a4",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "【第2188期】使用JavaScript跟踪Web应用程序的性能",
+        "link": "https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师",
+        "link": "https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "【第2187期】AntV图可视分析解决方案 - 设计篇",
+        "link": "https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "【招聘】腾讯CSIG教育部门招前端工程师",
+        "link": "https://www.ershicimi.com/p/12f6135314350d7681977a4558f4a093",
+        "date": "2021-01-25"
+      },
+      {
         "title": "【第2186期】使用浏览器开发工具测试网站可访问性的七种方法",
         "link": "https://www.ershicimi.com/p/8b50b5781261719062d5a13246a1fed5",
         "date": "2021-01-24"
@@ -12974,6 +12999,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "JS框架性能对比：Soild 高居榜首，Vue、React 和 Angular 竟纷纷跌出前十",
+        "link": "https://www.ershicimi.com/p/6f6ee81610578200a4edbee69d2ca53e",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "每个程序员都应该尝试的项目",
+        "link": "https://www.ershicimi.com/p/1fc0b2c54c0f99cd7544f816af102565",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "日常使用Git，这些问题你遇到过吗？| 活动推荐",
+        "link": "https://www.ershicimi.com/p/9142801871399e4e1d00288938ab6201",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "“熊孩子”乱敲键盘攻破Linux桌面；Win10漏洞：访问特定本地设备会使系统崩溃；Objectiv",
+        "link": "https://www.ershicimi.com/p/8930082573eb1a00dc10ce48e9d8b8c0",
+        "date": "2021-01-24"
+      },
+      {
         "title": "飞猪Flutter技术演进及业务改造实践",
         "link": "https://www.ershicimi.com/p/490b7750dcf084e3f1867ec6437797c4",
         "date": "2021-01-22"
@@ -19557,6 +19602,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "一行CSS实现全站中文简繁转换",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/",
+        "date": "2021-01-27"
+      },
       {
         "title": "巧用DOM API实现HTML字符的转义和反转义",
         "link": "https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/",
