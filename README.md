@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 08:00:11，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 12:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,13 +64,13 @@
 </summary>
 
 
-- [2021-01-26-前端框架-Vue-和-React，你用对了么？](https://www.ershicimi.com/p/c00f63b9bac72f76ed4757e07a7d37bd) ![](assets/new.png)  
-- [2021-01-26-「多图预警」那些年，被blob虐过的程序猿觉醒了！](https://www.ershicimi.com/p/3eb4426328fc2d388d110085fa466a75) ![](assets/new.png)  
-- [2021-01-26-前端每日一题-#06](https://www.ershicimi.com/p/e6a6ace1f8b5df899f808e37be71f2c2) ![](assets/new.png)  
-- [2021-01-25-Facebook-重构：抛弃-Sass-/-Less-，迎接原子化-CSS-时代](https://www.ershicimi.com/p/796f4ce2a92123bf3ed4043dcc51676c) ![](assets/new.png)  
-- [2021-01-25-ES-2021-新特性提前知，附案例](https://www.ershicimi.com/p/023c5e56a656b40ab74b9794bd3143f7) ![](assets/new.png)  
-- [2021-01-25-前端每日一题-#05](https://www.ershicimi.com/p/107cc74ad2aea3b88cca972ca5311d15) ![](assets/new.png)  
-- [2021-01-25-设计灵感：外卖APP如何设计能有效留住用户？](https://www.ershicimi.com/p/6d210dceff17aa8362c37516c55af4e2) ![](assets/new.png)  
+- [2021-01-26-前端框架-Vue-和-React，你用对了么？](https://www.ershicimi.com/p/c00f63b9bac72f76ed4757e07a7d37bd)  
+- [2021-01-26-「多图预警」那些年，被blob虐过的程序猿觉醒了！](https://www.ershicimi.com/p/3eb4426328fc2d388d110085fa466a75)  
+- [2021-01-26-前端每日一题-#06](https://www.ershicimi.com/p/e6a6ace1f8b5df899f808e37be71f2c2)  
+- [2021-01-25-Facebook-重构：抛弃-Sass-/-Less-，迎接原子化-CSS-时代](https://www.ershicimi.com/p/796f4ce2a92123bf3ed4043dcc51676c)  
+- [2021-01-25-ES-2021-新特性提前知，附案例](https://www.ershicimi.com/p/023c5e56a656b40ab74b9794bd3143f7)  
+- [2021-01-25-前端每日一题-#05](https://www.ershicimi.com/p/107cc74ad2aea3b88cca972ca5311d15)  
+- [2021-01-25-设计灵感：外卖APP如何设计能有效留住用户？](https://www.ershicimi.com/p/6d210dceff17aa8362c37516c55af4e2)  
 - [2021-01-24-可视化拖拽组件库一些技术要点原理分析（二）](https://www.ershicimi.com/p/966196d7e978fc496c00c8f86f700d5c)  
 - [2021-01-24-为什么-Vue3-选择了-CSS-变量](https://www.ershicimi.com/p/2ae6b8a6e36cbdeb653fbb759b944ecb)  
 - [2021-01-24-前端每日一题-#04](https://www.ershicimi.com/p/53af1e8705ea61ddbb86a0d0b774bc2d)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html) ![](assets/new.png)  
 - [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)  
 - [2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html)  
 - [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)  
@@ -207,7 +208,6 @@
 - [2020-10-30-科技爱好者周刊（第-131-期）：你的头脑是二值逻辑，还是三值逻辑？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-131.html)  
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html)  
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html)  
-- [2020-10-26-微信小程序入门教程之一：初次上手](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-one.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
