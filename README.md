@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-29 12:00:30，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-30 06:00:29，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,12 @@
 </summary>
 
 
+- [2021-01-29-【第2191期】ECMAScript2021新特征](https://www.ershicimi.com/p/71c74c4fd274468c3e5748d149cea744) ![](assets/new.png)  
+- [2021-01-29-【招聘】淘系用户增长前端团队，寻找同路人](https://www.ershicimi.com/p/8df02914595f6ec33a751ac3387cbf5b) ![](assets/new.png)  
+- [2021-01-28-【第2190期】如何实现一个前端监控回放系统](https://www.ershicimi.com/p/f9b82c8e4c4723140a57b185323b119f) ![](assets/new.png)  
+- [2021-01-28-【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9) ![](assets/new.png)  
+- [2021-01-27-【第2189期】2020-Javascript明星项目](https://www.ershicimi.com/p/47c293ed7f9f63ad5bdea4695b2d4a73) ![](assets/new.png)  
+- [2021-01-27-【直播】Apache-ECharts-5-震撼发布：五大模块，十五项新特性全面升级！](https://www.ershicimi.com/p/48005642c9bef5bd8f750fc5d754c3c7) ![](assets/new.png)  
 - [2021-01-26-你不知道的Vue3.0-和React-17的异同点](https://www.ershicimi.com/p/25f83304c015190c36ce9f721341a8a4)  
 - [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1)  
 - [2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c)  
@@ -47,12 +53,6 @@
 - [2021-01-21-3个概念，入门-Vue-组件开发](https://www.ershicimi.com/p/b2f561a0bb3d7618cb8005b69d33e121)  
 - [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117)  
 - [2021-01-21-【招聘】京东零售平台业务中心招前端工程师](https://www.ershicimi.com/p/f56e26b33207172b056c14d5365ea1ce)  
-- [2021-01-20-【第2182期】揭秘3D互动技术在蚂蚁数字金融的应用实战](https://www.ershicimi.com/p/92a6054e6f93f924bb1d5052bc1955e8)  
-- [2021-01-20-【招聘】阿里云流量产品事业部前端技术团队招P6~P7](https://www.ershicimi.com/p/f8b8b892f7350a5858b3b3d71289138a)  
-- [2021-01-20-【视频】-你在使用React、Vue还是jQuery？](https://www.ershicimi.com/p/3ac822959e16d4ad522be895f8b6ed6c)  
-- [2021-01-19-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c)  
-- [2021-01-19-【第2181期】我在阿里云做前端智能化（Dumbo）--页面布局分析](https://www.ershicimi.com/p/c41eef549bc6ddcc999b7bec14de2595)  
-- [2021-01-19-【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html) ![](assets/new.png)  
+- [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)  
 - [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html)  
 - [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)  
 - [2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html)  

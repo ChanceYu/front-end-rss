@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 12:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-30 06:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,12 @@
 </summary>
 
 
+- [【前端早读课】2021-01-29-【第2191期】ECMAScript2021新特征](https://www.ershicimi.com/p/71c74c4fd274468c3e5748d149cea744) 
+- [【前端早读课】2021-01-29-【招聘】淘系用户增长前端团队，寻找同路人](https://www.ershicimi.com/p/8df02914595f6ec33a751ac3387cbf5b) 
+- [【前端早读课】2021-01-28-【第2190期】如何实现一个前端监控回放系统](https://www.ershicimi.com/p/f9b82c8e4c4723140a57b185323b119f) 
+- [【前端早读课】2021-01-28-【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9) 
+- [【前端早读课】2021-01-27-【第2189期】2020-Javascript明星项目](https://www.ershicimi.com/p/47c293ed7f9f63ad5bdea4695b2d4a73) 
+- [【前端早读课】2021-01-27-【直播】Apache-ECharts-5-震撼发布：五大模块，十五项新特性全面升级！](https://www.ershicimi.com/p/48005642c9bef5bd8f750fc5d754c3c7) 
 - [【前端早读课】2021-01-26-你不知道的Vue3.0-和React-17的异同点](https://www.ershicimi.com/p/25f83304c015190c36ce9f721341a8a4) 
 - [【前端早读课】2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) 
 - [【前端早读课】2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c) 

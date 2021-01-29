@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-29 12:00:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 06:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -290,6 +290,7 @@
 
 
 
+- [【前端早读课】【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9)
 - [【前端早读课】【第2155期】搅动H5游戏世界的鲶鱼——Cocos](https://www.ershicimi.com/p/dd623f9a7c50755407473f28c32a8460)
 - [【前端早读课】【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55)
 - [【前端早读课】【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603)
@@ -309,7 +310,6 @@
 - [【前端大全】玩游戏一样学-Git-分支，这个-GitHub-热门别再错过了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=1&sn=cc20ac2fe8e0230a4a0a21a811a96a0a#wechat_redirect)
 - [【前端大全】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect)
 - [【前端之巅】Google-Cloud-和-网易游戏一起震荡，让一部分游戏先出海](https://www.ershicimi.com/p/eef87d57ea569774c438ac5367add281)
-- [【前端之巅】如何打造出超“音”“速”的游戏体验？技术专家带你实战解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=3&sn=40da212281a70ae26b9ceb3104b9b502&chksm=f9525184ce25d892d1b808f60be2165015e852ffc02fcafafbe796e838c0599359dc666d1b66&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,8 @@
 
 
 
+- [【前端早读课】【第2191期】ECMAScript2021新特征](https://www.ershicimi.com/p/71c74c4fd274468c3e5748d149cea744)
+- [【前端早读课】【第2189期】2020-Javascript明星项目](https://www.ershicimi.com/p/47c293ed7f9f63ad5bdea4695b2d4a73)
 - [【前端早读课】【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1)
 - [【前端早读课】【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117)
 - [【前端早读课】【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b)
@@ -344,8 +346,6 @@
 - [【前端早读课】【第2114期】浏览器环境下的JavaScript-Event-Loop](https://www.ershicimi.com/p/546d5077d3d5dc4e5e4d0837f595bd59)
 - [【前端早读课】基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/65e3f178707655ad2a516bb0c65ac83b)
 - [【前端早读课】【图书】JavaScript重难点实例精讲](https://www.ershicimi.com/p/95d52b3fc5c78ecb71efb59778d134ae)
-- [【前端早读课】【第2091期】前端模块化的十年征程](https://www.ershicimi.com/p/efb68a1575dee0ceff0ce0c3594506f5)
-- [【前端早读课】【第2083期】理解ECMAScript规范（四）](https://www.ershicimi.com/p/50fc7dc101fdaff3adb7483b87326139)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -434,6 +434,7 @@
 
 
 
+- [【前端早读课】【直播】Apache-ECharts-5-震撼发布：五大模块，十五项新特性全面升级！](https://www.ershicimi.com/p/48005642c9bef5bd8f750fc5d754c3c7)
 - [【前端早读课】【第2178期】我在阿里云做前端智能化（Dumbo）--图像分析](https://www.ershicimi.com/p/bcf4a12e174219de46785e439bb4a96d)
 - [【前端早读课】【招聘】DAU破6亿，快上车！抖音直播招中高级前端开发工程师](https://www.ershicimi.com/p/98c69e730c4f7ee94786a9689c5249d1)
 - [【前端早读课】【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53)
@@ -453,7 +454,6 @@
 - [【前端早读课】【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd)
 - [【前端早读课】【第1673期】-图像优化自动化实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=1&sn=417830af15edcbe44de8e5af7ceb00d1&chksm=bd4942c58a3ecbd39a05feb6fbff36ceb7f8f41cc0c9185f204ff45bac7eb00643cba6a98a2a&scene=27#wechat_redirect)
 - [【前端早读课】【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd)
-- [【前端早读课】【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】淘系用户增长前端团队，寻找同路人](https://www.ershicimi.com/p/8df02914595f6ec33a751ac3387cbf5b)
 - [【前端早读课】【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c)
 - [【前端早读课】【招聘】腾讯CSIG教育部门招前端工程师](https://www.ershicimi.com/p/12f6135314350d7681977a4558f4a093)
 - [【前端早读课】【招聘】阿里业务平台体验技术部招前端技术专家](https://www.ershicimi.com/p/3434a39f3aecfcb16f88d71367b10b22)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】抖音电商招聘前端开发工程师](https://www.ershicimi.com/p/be105fc11c8c8aa8d8855a4cc0946d7a)
 - [【前端早读课】【招聘】字节跳动番茄小说招前端工程师/Leader（社招/校招/实习）](https://www.ershicimi.com/p/7aaa2d7f9ee062974a5822db3db44f50)
 - [【前端早读课】【招聘】有赞·教育前端团队急招前端开发工程师](https://www.ershicimi.com/p/b3d402b88891ec1b88506a7bb25f631d)
-- [【前端早读课】【招聘】美团快驴终端招募：和优秀的人一起并肩作战](https://www.ershicimi.com/p/ba99b78f490ad4932ee58422805eb68e)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2190期】如何实现一个前端监控回放系统](https://www.ershicimi.com/p/f9b82c8e4c4723140a57b185323b119f)
 - [【前端早读课】【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3)
 - [【前端早读课】【第2185期】我在阿里云做前端智能化（Dumbo）--智能代码生成](https://www.ershicimi.com/p/f3d188395feec261bd15cf44414eae6d)
 - [【前端早读课】《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c)
@@ -739,7 +740,6 @@
 - [【前端早读课】【活动】SEE-Conf-2021支付宝体验科技大会](https://www.ershicimi.com/p/1c3f66cdd41d4dcc3a4e85a291bd4fa6)
 - [【前端早读课】【第2154期】EMP微前端解决方案](https://www.ershicimi.com/p/28e3628c40cd5c3156e06beb614266a0)
 - [【前端早读课】【第2153期】如何自己开发一款力导向图？](https://www.ershicimi.com/p/e04bcc479670e65e98b502613f3e14fc)
-- [【前端早读课】【第2152期】一个有趣的内存泄漏案例](https://www.ershicimi.com/p/0f52d05d6449d3f8dcf2db4462f154d7)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

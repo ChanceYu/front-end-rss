@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 12:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 06:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2021-01-29-【第2191期】ECMAScript2021新特征](https://www.ershicimi.com/p/71c74c4fd274468c3e5748d149cea744) 
+- [2021-01-27-【第2189期】2020-Javascript明星项目](https://www.ershicimi.com/p/47c293ed7f9f63ad5bdea4695b2d4a73) 
 - [2021-01-26-【第2188期】使用JavaScript跟踪Web应用程序的性能](https://www.ershicimi.com/p/53b8722972f3fbf804b9b5e5ec14fcc1) 
 - [2021-01-21-【第2183期】Promise原理&宏微任务](https://www.ershicimi.com/p/da1f0849cfdefa3d3b67e63a76177117) 
 - [2021-01-18-【视频】JS年度报告完整解读！](https://www.ershicimi.com/p/b70f1a56496b4d539fff6a62fbfec95b) 

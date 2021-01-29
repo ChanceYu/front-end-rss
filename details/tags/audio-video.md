@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 12:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 06:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-01-27-【直播】Apache-ECharts-5-震撼发布：五大模块，十五项新特性全面升级！](https://www.ershicimi.com/p/48005642c9bef5bd8f750fc5d754c3c7) 
 - [2021-01-16-【第2178期】我在阿里云做前端智能化（Dumbo）--图像分析](https://www.ershicimi.com/p/bcf4a12e174219de46785e439bb4a96d) 
 - [2020-10-15-【招聘】DAU破6亿，快上车！抖音直播招中高级前端开发工程师](https://www.ershicimi.com/p/98c69e730c4f7ee94786a9689c5249d1) 
 - [2020-08-28-【第2047期】如何使用AVIF：新一代图像压缩格式](https://www.ershicimi.com/p/edc4f3203015c81dafe6bd7ce3f3be53) 
