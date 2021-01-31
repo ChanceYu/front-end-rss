@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-31 06:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-01 06:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -362,6 +362,8 @@
 
 
 
+- [【前端早读课】【第2193期】7个你可能不认识的CSS单位](https://www.ershicimi.com/p/0c740c4c6ea9ea53eb92196585c0e616)
+- [【前端早读课】代码零改动Serverless架构升级？](https://www.ershicimi.com/p/9df620130e5050f47bdb834affb741a0)
 - [【前端早读课】【第2184期】CSS-奇思妙想边框动画](https://www.ershicimi.com/p/b0bf2d7fe6f90dc145287e8295420baa)
 - [【前端早读课】2020年Serverless对初创企业的好处](https://www.ershicimi.com/p/f4abdd8bb825067464abf3102ae9d8ed)
 - [【前端早读课】【第2171期】一行-CSS-代码的魅力](https://www.ershicimi.com/p/f21bdfd418ef74386d824a0a9e9e74ad)
@@ -380,8 +382,6 @@
 - [【前端早读课】【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)
 - [【前端早读课】【第2000期】奇妙的-CSS-MASK](https://www.ershicimi.com/p/e328a76d14fb6c8ad236c97ae091d454)
 - [【前端早读课】【早读】使用-CSS-来做素数的判定与筛选](https://www.ershicimi.com/p/6271dbe23c1f116a8c50312b6c692359)
-- [【前端早读课】【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f)
-- [【前端早读课】【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2192期】所见即所得!-iMove-在线执行代码探索](https://www.ershicimi.com/p/e0055884c5fe22ae9083552ca136fdb0)
 - [【前端早读课】【第2190期】如何实现一个前端监控回放系统](https://www.ershicimi.com/p/f9b82c8e4c4723140a57b185323b119f)
 - [【前端早读课】【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3)
 - [【前端早读课】【第2185期】我在阿里云做前端智能化（Dumbo）--智能代码生成](https://www.ershicimi.com/p/f3d188395feec261bd15cf44414eae6d)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2156期】2020年大前端技术趋势解读](https://www.ershicimi.com/p/06394198c2627ad9b4712159460cb56f)
 - [【前端早读课】【活动】SEE-Conf-2021支付宝体验科技大会](https://www.ershicimi.com/p/1c3f66cdd41d4dcc3a4e85a291bd4fa6)
 - [【前端早读课】【第2154期】EMP微前端解决方案](https://www.ershicimi.com/p/28e3628c40cd5c3156e06beb614266a0)
-- [【前端早读课】【第2153期】如何自己开发一款力导向图？](https://www.ershicimi.com/p/e04bcc479670e65e98b502613f3e14fc)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
