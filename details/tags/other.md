@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-02-03 12:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-03 18:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-02-03-【第2196期】shader风格化---热成像](https://www.ershicimi.com/p/705625cac6e53ee423cc617d2f005284) 
+- [2021-02-02-【第2195期】对互联网/智能产品“适老化”的思考](https://www.ershicimi.com/p/bf63577b057f6dc78b3473839d905c8e) 
 - [2021-01-30-【第2192期】所见即所得!-iMove-在线执行代码探索](https://www.ershicimi.com/p/e0055884c5fe22ae9083552ca136fdb0) 
 - [2021-01-28-【第2190期】如何实现一个前端监控回放系统](https://www.ershicimi.com/p/f9b82c8e4c4723140a57b185323b119f) 
 - [2021-01-25-【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3) 
