@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 06:00:10，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 18:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2021-02-04-【第2197期】如何为多元化的产品场景选择完美的色彩组合？](https://www.ershicimi.com/p/fe2eed7f108c6c6407a5576e25e5d9f2) ![](assets/new.png)  
+- [2021-02-04-【招聘】UCloud优刻得招聘前端工程师](https://www.ershicimi.com/p/9c4958428d5b916fd12e4c85f41c81d7) ![](assets/new.png)  
 - [2021-02-03-来一起手写Vue3核心源码，掌握大厂面试必备知识](https://www.ershicimi.com/p/936b5ae0f1ebc5a4b16382ecf6a3d6ea)  
 - [2021-02-03-【第2196期】shader风格化---热成像](https://www.ershicimi.com/p/705625cac6e53ee423cc617d2f005284)  
 - [2021-02-02-【第2195期】对互联网/智能产品“适老化”的思考](https://www.ershicimi.com/p/bf63577b057f6dc78b3473839d905c8e)  
@@ -51,8 +53,6 @@
 - [2021-01-26-【招聘】阿里巴巴考拉海购体验技术部招P6～P8前端工程师](https://www.ershicimi.com/p/3c1ab7f50c252c05cb6392f52e99839c)  
 - [2021-01-25-【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3)  
 - [2021-01-25-【招聘】腾讯CSIG教育部门招前端工程师](https://www.ershicimi.com/p/12f6135314350d7681977a4558f4a093)  
-- [2021-01-24-【第2186期】使用浏览器开发工具测试网站可访问性的七种方法](https://www.ershicimi.com/p/8b50b5781261719062d5a13246a1fed5)  
-- [2021-01-24-【招聘】阿里业务平台体验技术部招前端技术专家](https://www.ershicimi.com/p/3434a39f3aecfcb16f88d71367b10b22)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2021-02-03-重磅！贝索斯宣告即将卸任亚马逊CEO](https://www.ershicimi.com/p/48bdcd0aaed76f3226fb6d451a196039) ![](assets/new.png)  
-- [2021-02-03-API请求失败后发生了什么？](https://www.ershicimi.com/p/cf521555b6f7d2c0d0fcca507baa1769) ![](assets/new.png)  
-- [2021-02-01-2021年前端发展预测](https://www.ershicimi.com/p/91c03d55d7f05840ee44e416377a2382) ![](assets/new.png)  
-- [2021-02-01-12-个顶级-Bug-跟踪工具](https://www.ershicimi.com/p/176f68b448f3e45791ae78bc019cbeee) ![](assets/new.png)  
-- [2021-01-31-Angular-发布新调试指南；谷歌正在研发“新”安卓系统；Twitter-为-iOS-开发者开源文](https://www.ershicimi.com/p/aca4a8d40096cc5688675b58d8bfda73) ![](assets/new.png)  
+- [2021-02-03-重磅！贝索斯宣告即将卸任亚马逊CEO](https://www.ershicimi.com/p/48bdcd0aaed76f3226fb6d451a196039)  
+- [2021-02-03-API请求失败后发生了什么？](https://www.ershicimi.com/p/cf521555b6f7d2c0d0fcca507baa1769)  
+- [2021-02-01-2021年前端发展预测](https://www.ershicimi.com/p/91c03d55d7f05840ee44e416377a2382)  
+- [2021-02-01-12-个顶级-Bug-跟踪工具](https://www.ershicimi.com/p/176f68b448f3e45791ae78bc019cbeee)  
+- [2021-01-31-Angular-发布新调试指南；谷歌正在研发“新”安卓系统；Twitter-为-iOS-开发者开源文](https://www.ershicimi.com/p/aca4a8d40096cc5688675b58d8bfda73)  
 - [2021-01-29-Rust不适合开发Web-API](https://www.ershicimi.com/p/5433220786e252b6bb6e0c869ef5c6a8)  
 - [2021-01-29-如何培养成长型-IT-团队？华为、海尔、银联等企业值得学习-|-极客时间](https://www.ershicimi.com/p/05179cbacc33b70b0f248768577f1a5b)  
 - [2021-01-29-最火的前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/de927adbfec0f460639a889f9f22be58)  
