@@ -19868,6 +19868,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用::part伪元素改变Shadow DOM的CSS样式",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/",
+        "date": "2021-02-06"
+      },
+      {
         "title": "一行CSS实现全站中文简繁转换",
         "link": "https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/",
         "date": "2021-01-27"
