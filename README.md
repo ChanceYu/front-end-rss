@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-09 18:00:14，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-12 06:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-02-07-【第2200期】Chrome-88-重要更新解读](https://www.ershicimi.com/p/ac897bb426d46eb7b6ecc93f2ae7b5a2) ![](assets/new.png)  
-- [2021-02-07-【视频】剖析三个常见的API调试工具](https://www.ershicimi.com/p/05ac9db4cb0f6d1a6a8f41bbf5828061) ![](assets/new.png)  
+- [2021-02-07-【第2200期】Chrome-88-重要更新解读](https://www.ershicimi.com/p/ac897bb426d46eb7b6ecc93f2ae7b5a2)  
+- [2021-02-07-【视频】剖析三个常见的API调试工具](https://www.ershicimi.com/p/05ac9db4cb0f6d1a6a8f41bbf5828061)  
 - [2021-02-06-【第2199期】如何在WebGL中实现短视频卡点动效](https://www.ershicimi.com/p/7b6c7d30b8c160461a5762264628b852)  
 - [2021-02-06-【招聘】阿里云云安全前端团队招资深前端工程师、数据可视化工程师](https://www.ershicimi.com/p/65506e62cb1dfa61f94281b8063e1939)  
 - [2021-02-05-【第2198期】前端图片主题色提取](https://www.ershicimi.com/p/aa71ae81cce728ea78a6de913c500c14)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-02-11-巧用两个type=range-input实现区域范围选择](https://www.zhangxinxu.com/wordpress/2021/02/range-input/) ![](assets/new.png)  
 - [2021-02-06-使用::part伪元素改变Shadow-DOM的CSS样式](https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/)  
 - [2021-01-27-一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/)  
 - [2021-01-21-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/)  
@@ -176,7 +177,6 @@
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)  
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)  
 - [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)  
-- [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
