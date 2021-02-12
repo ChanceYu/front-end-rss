@@ -19898,6 +19898,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用grid-area等Grid布局属性轻松实现元素层叠效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/grid-area-absolute-cover/",
+        "date": "2021-02-12"
+      },
+      {
         "title": "巧用两个type=range input实现区域范围选择",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/range-input/",
         "date": "2021-02-11"
