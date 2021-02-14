@@ -19898,6 +19898,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "了解CSS revert全局关键字",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-revert/",
+        "date": "2021-02-14"
+      },
+      {
         "title": "Web Components中引入外部CSS的3种方法",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/",
         "date": "2021-02-13"
