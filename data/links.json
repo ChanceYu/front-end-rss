@@ -19898,6 +19898,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何使用JS检测用户是否缩放了页面？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/",
+        "date": "2021-02-15"
+      },
+      {
         "title": "直线等图形从中间穿过元素或文字的CSS实现",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/",
         "date": "2021-02-14"
