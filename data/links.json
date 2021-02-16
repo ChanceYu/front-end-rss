@@ -19898,6 +19898,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS ::marker伪元素简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/",
+        "date": "2021-02-16"
+      },
+      {
         "title": "盘点HTML字符串转DOM的各种方法及细节",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/",
         "date": "2021-02-16"
