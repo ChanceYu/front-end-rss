@@ -19898,6 +19898,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Chrome 88已经支持aspect-ratio属性了，学起来",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/",
+        "date": "2021-02-17"
+      },
+      {
         "title": "好消息，CSS text-underline-offset可以用起来了",
         "link": "https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/",
         "date": "2021-02-17"
