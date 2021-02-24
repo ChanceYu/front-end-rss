@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-23 08:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-24 08:00:12，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -126,7 +126,10 @@
 </summary>
 
 
-- [2020-12-10-舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9) ![](assets/new.png)  
+- [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7) ![](assets/new.png)  
+- [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q) ![](assets/new.png)  
+- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) ![](assets/new.png)  
+- [2020-12-10-舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)  
 - [2020-12-31-前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)  
 - [2020-12-09-从需求生成代码？D2-最具争议的分享，你值得来瞄一眼](https://fed.taobao.org/blog/taofed/do71ct/gm3a57)  
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag)  
@@ -143,9 +146,6 @@
 - [2020-08-01-可折叠Web可能会给我们带来的变化](https://fed.taobao.org/blog/taofed/do71ct/zbxacs)  
 - [2020-07-31-2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q)  
 - [2020-07-21-现在开始：用你的Mac训练和部署一个图片分类模型](https://fed.taobao.org/blog/taofed/do71ct/gwrk8n)  
-- [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)  
-- [2020-07-15-基于-React-打造高自由度的-IDE-布局系统](https://fed.taobao.org/blog/taofed/do71ct/hlxur7)  
-- [2020-07-09-频道业务黑科技--行业魔方](https://fed.taobao.org/blog/taofed/do71ct/qsv9lg)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

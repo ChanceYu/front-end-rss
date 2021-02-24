@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-23 08:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-24 08:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -402,6 +402,8 @@
 - [【前端之巅】2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) 
 - [【前端之巅】2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 
 - [【前端之巅】2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) 
+- [【Taobao-FED-|-淘宝前端团队】2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7) 
+- [【Taobao-FED-|-淘宝前端团队】2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q) 
 - [【张鑫旭-鑫空间-鑫生活】2021-01-27-一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-01-21-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
@@ -955,6 +957,7 @@
 - [【前端之巅】2020-10-06-一行代码实现黑暗模式](https://www.ershicimi.com/p/95249e6cf46dfeeb1f7c2d834b987e2b) 
 - [【前端之巅】2020-10-04-前端周报：Vue.js-3官方中文文档上线；腾讯奖励万名员工每人一台华为折叠屏手机；多款Chrome](https://www.ershicimi.com/p/10ded176def12aba5c5da03e531f16e6) 
 - [【前端之巅】2020-10-02-成为最差前端开发的10个建议](https://www.ershicimi.com/p/5ca83119ec9b1b72fc6317ecbbcf7758) 
+- [【Taobao-FED-|-淘宝前端团队】2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) 
 - [【Taobao-FED-|-淘宝前端团队】2020-10-20-智能UI：面向未来的UI开发技术](https://fed.taobao.org/blog/taofed/do71ct/tb7t0w) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-30-介绍一种全新的clipPath-Sprites小图标技术](https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
