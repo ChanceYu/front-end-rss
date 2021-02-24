@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-24 08:00:12，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-24 22:00:36，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -33,6 +33,11 @@
 </summary>
 
 
+- [2021-02-24-自学前端的高效学习路线.avi](https://www.ershicimi.com/p/d83d6a7473fd4a0a3bdec26682618bd6) ![](assets/new.png)  
+- [2021-02-24-【第2207期】为git仓库自动生成changelog-html页面](https://www.ershicimi.com/p/8feb48aeb38ffbfed8281570cfa85b29) ![](assets/new.png)  
+- [2021-02-23-【第2206期】奇怪的知识——位掩码](https://www.ershicimi.com/p/2ec17624f1a7f00aabb76802db37adad) ![](assets/new.png)  
+- [2021-02-22-【第2205期】有道云笔记新版编辑器架构设计（下）](https://www.ershicimi.com/p/2c178eb89e94252fcc167f5cc712f829) ![](assets/new.png)  
+- [2021-02-21-【第2204期】Vite-2.0-发布了](https://www.ershicimi.com/p/1fd80f713a4ae991b82a072cca5feaed) ![](assets/new.png)  
 - [2021-02-20-【第2203期】有道云笔记新版编辑器架构设计（上）](https://www.ershicimi.com/p/42af60f19232dfaa199d98f6f81d5093)  
 - [2021-02-20-【活动】🧨🧨带走你的新年愿望，共同开启热力新年](https://www.ershicimi.com/p/94fbe98bba6c5f122fd43467525f6cf8)  
 - [2021-02-19-【第2202期】在Web平台上构建一个专业的设计工具](https://www.ershicimi.com/p/5738f1fb6aff36389fff9a3ff17ace30)  
@@ -48,11 +53,6 @@
 - [2021-02-04-【招聘】UCloud优刻得招聘前端工程师](https://www.ershicimi.com/p/9c4958428d5b916fd12e4c85f41c81d7)  
 - [2021-02-03-来一起手写Vue3核心源码，掌握大厂面试必备知识](https://www.ershicimi.com/p/936b5ae0f1ebc5a4b16382ecf6a3d6ea)  
 - [2021-02-03-【第2196期】shader风格化---热成像](https://www.ershicimi.com/p/705625cac6e53ee423cc617d2f005284)  
-- [2021-02-02-【第2195期】对互联网/智能产品“适老化”的思考](https://www.ershicimi.com/p/bf63577b057f6dc78b3473839d905c8e)  
-- [2021-02-01-【第2194期】SPA-路由三部曲之核心原理](https://www.ershicimi.com/p/72e90fa35080ac31a5b06c8f13504ffe)  
-- [2021-01-31-【第2193期】7个你可能不认识的CSS单位](https://www.ershicimi.com/p/0c740c4c6ea9ea53eb92196585c0e616)  
-- [2021-01-30-【第2192期】所见即所得!-iMove-在线执行代码探索](https://www.ershicimi.com/p/e0055884c5fe22ae9083552ca136fdb0)  
-- [2021-01-30-代码零改动Serverless架构升级？](https://www.ershicimi.com/p/9df620130e5050f47bdb834affb741a0)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -126,9 +126,9 @@
 </summary>
 
 
-- [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7) ![](assets/new.png)  
-- [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q) ![](assets/new.png)  
-- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) ![](assets/new.png)  
+- [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7)  
+- [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q)  
+- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)  
 - [2020-12-10-舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)  
 - [2020-12-31-前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)  
 - [2020-12-09-从需求生成代码？D2-最具争议的分享，你值得来瞄一眼](https://fed.taobao.org/blog/taofed/do71ct/gm3a57)  
