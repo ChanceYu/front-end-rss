@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-02-24 22:00:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 22:00:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第2208期】SPA-路由三部曲之实战演练](https://www.ershicimi.com/p/668af225837fa310f075396798eb2043)
 - [【前端早读课】【第2194期】SPA-路由三部曲之核心原理](https://www.ershicimi.com/p/72e90fa35080ac31a5b06c8f13504ffe)
 - [【前端早读课】【第2191期】ECMAScript2021新特征](https://www.ershicimi.com/p/71c74c4fd274468c3e5748d149cea744)
 - [【前端早读课】【第2189期】2020-Javascript明星项目](https://www.ershicimi.com/p/47c293ed7f9f63ad5bdea4695b2d4a73)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第2124期】CommonJS-是如何导致打包后体积增大的？](https://www.ershicimi.com/p/aee79a43444c27e0bb17190a70b3b02f)
 - [【前端早读课】【第2122期】4个未听说过的强大JavaScript操作符](https://www.ershicimi.com/p/ac58563aace344f9fdc005f519387db4)
 - [【前端早读课】【第2114期】浏览器环境下的JavaScript-Event-Loop](https://www.ershicimi.com/p/546d5077d3d5dc4e5e4d0837f595bd59)
-- [【前端早读课】基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/65e3f178707655ad2a516bb0c65ac83b)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】北京用友BIP云平台招聘中高级前端开发](https://www.ershicimi.com/p/f6ac98bcf128f6a5584df1a463cd51f8)
 - [【前端早读课】【招聘】万兴科技招高级前端开发工程师](https://www.ershicimi.com/p/1ca9d15c9629dfd45b39c3b69d0d46cd)
 - [【前端早读课】【招聘】UCloud优刻得招聘前端工程师](https://www.ershicimi.com/p/9c4958428d5b916fd12e4c85f41c81d7)
 - [【前端早读课】【招聘】淘系用户增长前端团队，寻找同路人](https://www.ershicimi.com/p/8df02914595f6ec33a751ac3387cbf5b)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】北京京东物流招聘4~5年前端工程师](https://www.ershicimi.com/p/487ef57d1694920c67a9a3c3e321022c)
 - [【前端早读课】【招聘】淘宝事业群淘宝特价版前端团队招聘前端开发工程师](https://www.ershicimi.com/p/dc057cb14f59c3aa510fbf3d9be1c253)
 - [【前端早读课】【招聘】北京百度自动驾驶基础架构部招聘前端开发工程师（社招）](https://www.ershicimi.com/p/8166e656bbc071d9271b5a18521473e3)
-- [【前端早读课】【招聘】抖音电商招聘前端开发工程师](https://www.ershicimi.com/p/be105fc11c8c8aa8d8855a4cc0946d7a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

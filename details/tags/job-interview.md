@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 22:00:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 22:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-02-25-【招聘】北京用友BIP云平台招聘中高级前端开发](https://www.ershicimi.com/p/f6ac98bcf128f6a5584df1a463cd51f8) 
 - [2021-02-19-【招聘】万兴科技招高级前端开发工程师](https://www.ershicimi.com/p/1ca9d15c9629dfd45b39c3b69d0d46cd) 
 - [2021-02-04-【招聘】UCloud优刻得招聘前端工程师](https://www.ershicimi.com/p/9c4958428d5b916fd12e4c85f41c81d7) 
 - [2021-01-29-【招聘】淘系用户增长前端团队，寻找同路人](https://www.ershicimi.com/p/8df02914595f6ec33a751ac3387cbf5b) 
@@ -217,6 +218,7 @@
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) 
 - [2018-09-27-【招聘】天猫-IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
+- [2021-02-25-大厂技术面试，到底考什么内容？](https://www.ershicimi.com/p/b62b001934d62c1a247e73fc1f0a8426) 
 - [2020-12-22-这两道阿里面试题，难住了-90%-的面试者](https://www.ershicimi.com/p/e2f46037fd98a182332e7a759a6df73b) 
 - [2020-11-11-12-道腾讯前端面试真题及答案整理](https://www.ershicimi.com/p/f85d01fac293858c5e5686caf45be1a6) 
 - [2020-10-18-2-年前端-7～9-月面试经历总结](https://www.ershicimi.com/p/7d3519991b02fa7e8a86b2c4ea6d53ff) 

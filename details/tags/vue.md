@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-24 22:00:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-25 22:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -85,6 +85,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2021-02-24-华为宣布：免费培养-2000-名-VUE&H5-开发者！](https://www.ershicimi.com/p/2ba522fb7221f84089bd6d425ac8f68a) 
 - [2021-02-02-Vue实现原理+前端性能优化](https://www.ershicimi.com/p/f47c9259b60e957c3ea0255c82667515) 
 - [2021-01-24-为什么-Vue3-选择了-CSS-变量](https://www.ershicimi.com/p/2ae6b8a6e36cbdeb653fbb759b944ecb) 
 - [2021-01-23-Vue-仿探探拖拽卡片的效果](https://www.ershicimi.com/p/2bf8f64b3bd2dfa7a9f1ecd87500e45a) 
