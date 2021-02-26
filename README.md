@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-25 22:00:37，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-26 12:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-02-25-【第2208期】SPA-路由三部曲之实战演练](https://www.ershicimi.com/p/668af225837fa310f075396798eb2043) ![](assets/new.png)  
-- [2021-02-25-【招聘】北京用友BIP云平台招聘中高级前端开发](https://www.ershicimi.com/p/f6ac98bcf128f6a5584df1a463cd51f8) ![](assets/new.png)  
+- [2021-02-25-【第2208期】SPA-路由三部曲之实战演练](https://www.ershicimi.com/p/668af225837fa310f075396798eb2043)  
+- [2021-02-25-【招聘】北京用友BIP云平台招聘中高级前端开发](https://www.ershicimi.com/p/f6ac98bcf128f6a5584df1a463cd51f8)  
 - [2021-02-24-自学前端的高效学习路线.avi](https://www.ershicimi.com/p/d83d6a7473fd4a0a3bdec26682618bd6)  
 - [2021-02-24-【第2207期】为git仓库自动生成changelog-html页面](https://www.ershicimi.com/p/8feb48aeb38ffbfed8281570cfa85b29)  
 - [2021-02-23-【第2206期】奇怪的知识——位掩码](https://www.ershicimi.com/p/2ec17624f1a7f00aabb76802db37adad)  
@@ -64,24 +64,24 @@
 </summary>
 
 
-- [2021-02-25-大厂技术面试，到底考什么内容？](https://www.ershicimi.com/p/b62b001934d62c1a247e73fc1f0a8426) ![](assets/new.png)  
-- [2021-02-25-Javascript-中数据类型那些可能会中招的细节](https://www.ershicimi.com/p/3bf41b2b3b1ade5d39e121ba1631d275) ![](assets/new.png)  
-- [2021-02-25-前端每日一题-#30](https://www.ershicimi.com/p/0feb44e778d50549e23cd9f093012dc1) ![](assets/new.png)  
-- [2021-02-24-实时监测手部运动的-JS-库，可以实现很多有趣功能](https://www.ershicimi.com/p/c141ed7b22df70ad210c86cbd8999d1b) ![](assets/new.png)  
-- [2021-02-24-华为宣布：免费培养-2000-名-VUE&H5-开发者！](https://www.ershicimi.com/p/2ba522fb7221f84089bd6d425ac8f68a) ![](assets/new.png)  
-- [2021-02-24-前端每日一题-#29](https://www.ershicimi.com/p/21c8919a41e25ee353668b0796bb4b47) ![](assets/new.png)  
-- [2021-02-24-设计灵感：12-组天气预报界面设计灵感](https://www.ershicimi.com/p/faa54692a9564cc62e74311be414d5ab) ![](assets/new.png)  
-- [2021-02-23-二月，不要跳槽！](https://www.ershicimi.com/p/388060ddf56e70f6664b1b3540469898) ![](assets/new.png)  
-- [2021-02-23-对跨域的最后一战](https://www.ershicimi.com/p/a579c8dda984a633b806aea59a0c87b3) ![](assets/new.png)  
-- [2021-02-23-前端每日一题-#28](https://www.ershicimi.com/p/44499f4cccf4c4483be42f1f6925a6c6) ![](assets/new.png)  
-- [2021-02-23-设计灵感：12-个人物插画风格闪屏设计](https://www.ershicimi.com/p/f36e2363bb558f7a27eb26bcc8476f02) ![](assets/new.png)  
-- [2021-02-22-前端小白如何快速上手jQuery、Swiper、Flex？](https://www.ershicimi.com/p/9aa30dc9cd512441d81ded1c900c82df) ![](assets/new.png)  
-- [2021-02-22-一篇搞懂TCP、HTTP、Socket、Socket连接池](https://www.ershicimi.com/p/96e1d378f46c668e38529577b3a7d0fd) ![](assets/new.png)  
-- [2021-02-22-前端每日一题-#27](https://www.ershicimi.com/p/b76707c53ab9b7c184dba58c420a7e91) ![](assets/new.png)  
-- [2021-02-22-设计灵感：12-个视频播放器界面设计](https://www.ershicimi.com/p/ec908c826b43785416499fbf5bdcb505) ![](assets/new.png)  
-- [2021-02-21-手摸手教你写一个命令行终端electron实战](https://www.ershicimi.com/p/fcf797795291819912fba892ecb69c15) ![](assets/new.png)  
-- [2021-02-21-前端每日一题-#26](https://www.ershicimi.com/p/6fff1568e4327172cdf1bdea607eacc0) ![](assets/new.png)  
-- [2021-02-21-设计灵感：12-组旅行类-App-界面设计](https://www.ershicimi.com/p/cb2e6bfa4c87c166d5d162aabb0c6dcc) ![](assets/new.png)  
+- [2021-02-25-大厂技术面试，到底考什么内容？](https://www.ershicimi.com/p/b62b001934d62c1a247e73fc1f0a8426)  
+- [2021-02-25-Javascript-中数据类型那些可能会中招的细节](https://www.ershicimi.com/p/3bf41b2b3b1ade5d39e121ba1631d275)  
+- [2021-02-25-前端每日一题-#30](https://www.ershicimi.com/p/0feb44e778d50549e23cd9f093012dc1)  
+- [2021-02-24-实时监测手部运动的-JS-库，可以实现很多有趣功能](https://www.ershicimi.com/p/c141ed7b22df70ad210c86cbd8999d1b)  
+- [2021-02-24-华为宣布：免费培养-2000-名-VUE&H5-开发者！](https://www.ershicimi.com/p/2ba522fb7221f84089bd6d425ac8f68a)  
+- [2021-02-24-前端每日一题-#29](https://www.ershicimi.com/p/21c8919a41e25ee353668b0796bb4b47)  
+- [2021-02-24-设计灵感：12-组天气预报界面设计灵感](https://www.ershicimi.com/p/faa54692a9564cc62e74311be414d5ab)  
+- [2021-02-23-二月，不要跳槽！](https://www.ershicimi.com/p/388060ddf56e70f6664b1b3540469898)  
+- [2021-02-23-对跨域的最后一战](https://www.ershicimi.com/p/a579c8dda984a633b806aea59a0c87b3)  
+- [2021-02-23-前端每日一题-#28](https://www.ershicimi.com/p/44499f4cccf4c4483be42f1f6925a6c6)  
+- [2021-02-23-设计灵感：12-个人物插画风格闪屏设计](https://www.ershicimi.com/p/f36e2363bb558f7a27eb26bcc8476f02)  
+- [2021-02-22-前端小白如何快速上手jQuery、Swiper、Flex？](https://www.ershicimi.com/p/9aa30dc9cd512441d81ded1c900c82df)  
+- [2021-02-22-一篇搞懂TCP、HTTP、Socket、Socket连接池](https://www.ershicimi.com/p/96e1d378f46c668e38529577b3a7d0fd)  
+- [2021-02-22-前端每日一题-#27](https://www.ershicimi.com/p/b76707c53ab9b7c184dba58c420a7e91)  
+- [2021-02-22-设计灵感：12-个视频播放器界面设计](https://www.ershicimi.com/p/ec908c826b43785416499fbf5bdcb505)  
+- [2021-02-21-手摸手教你写一个命令行终端electron实战](https://www.ershicimi.com/p/fcf797795291819912fba892ecb69c15)  
+- [2021-02-21-前端每日一题-#26](https://www.ershicimi.com/p/6fff1568e4327172cdf1bdea607eacc0)  
+- [2021-02-21-设计灵感：12-组旅行类-App-界面设计](https://www.ershicimi.com/p/cb2e6bfa4c87c166d5d162aabb0c6dcc)  
 - [2021-02-20-深入浅出前端本地储存](https://www.ershicimi.com/p/85d23147bb0c9526fcbb614288c164f0)  
 - [2021-02-20-看完这篇-“原型”-&-“this”，就两字“通透了”](https://www.ershicimi.com/p/93503a1c6569972673286366b94b9542)  
 - [......【查看更多】......](./details/前端大全.md)
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-02-26-科技爱好者周刊（第-147-期）：寻找你愿意忍受的痛苦](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html) ![](assets/new.png)  
 - [2021-02-19-科技爱好者周刊（第-146-期）：网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html)  
 - [2021-02-05-科技爱好者周刊（第-145-期）：大家不出门，经济怎么办？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html)  
 - [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)  
@@ -207,7 +208,6 @@
 - [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)  
 - [2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html)  
 - [2020-11-06-科技爱好者周刊（第-132-期）：快能力和慢能力](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-132.html)  
-- [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
