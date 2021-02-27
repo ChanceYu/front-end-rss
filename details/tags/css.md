@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-28 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -72,6 +72,7 @@
 - [2018-11-08-【第1440期】你所不知道的-CSS-阴影技巧与细节](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651230249&idx=2&sn=bb59361e30542922290b8f491f305d5f&scene=0#wechat_redirect) 
 - [2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
 - [2018-10-15-【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect) 
+- [2021-02-27-十分钟教你用svg做出精美的动画！](https://www.ershicimi.com/p/2a6228c63170a5aa5320f7863cb987b4) 
 - [2021-02-22-前端小白如何快速上手jQuery、Swiper、Flex？](https://www.ershicimi.com/p/9aa30dc9cd512441d81ded1c900c82df) 
 - [2021-02-01-CSS-奇思妙想边框动画](https://www.ershicimi.com/p/0c1ecc3ccecc4aa87cd90510a8a6d32e) 
 - [2021-01-29-一行-CSS-代码的魅力](https://www.ershicimi.com/p/35e92dc0c501ff8706ef6ea13af81b47) 

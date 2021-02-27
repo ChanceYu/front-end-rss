@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-28 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -413,6 +413,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-02-27-前端每日一题-#32](https://www.ershicimi.com/p/9d49d343da7a3b840e06fc5c33f9a7e6) 
+- [2021-02-27-设计灵感：12个注册登录页面设计](https://www.ershicimi.com/p/fff670cbc8de3f9df2bda2b893ea19b9) 
 - [2021-02-26-老生常谈：脱贫和脱单哪个重要，他的经历给出了答案](https://www.ershicimi.com/p/5e7fec11d96ada716aad04fab7d57e4d) 
 - [2021-02-26-前端每日一题-#31](https://www.ershicimi.com/p/14d618a62221c7c2b86550ed3dadd5c9) 
 - [2021-02-25-前端每日一题-#30](https://www.ershicimi.com/p/0feb44e778d50549e23cd9f093012dc1) 
@@ -797,6 +799,15 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-02-26-容易被忽略的5个HTML技巧](https://www.ershicimi.com/p/1f83a76f975a4ba7eff24e632b67ea41) 
+- [2021-02-24-InfoQ出品：《数字化浪潮中的组织变革与人才突围》研究报告（附下载）](https://www.ershicimi.com/p/baf5a4919dc1dff520a78e973d58376d) 
+- [2021-02-24-前端之巅——技术人员不学架构又怎样？-|-活动推荐](https://www.ershicimi.com/p/7c24103069d7d2c86c77863ce2a47e9f) 
+- [2021-02-22-Android-12-首个开发者版本发布：带来更好的用户体验工具](https://www.ershicimi.com/p/1973aae413ca8fc5dbd28a3e8d2679b4) 
+- [2021-02-22-Deno-现在能够编译为独立的自包含二进制文件](https://www.ershicimi.com/p/0685d26c4ea4952e9d4cea1f0759a0bc) 
+- [2021-02-19-新晋-CTO-的工作总结：我在第一年学到了-14-个经验教训](https://www.ershicimi.com/p/ff3c6221fe17ad879c630666adcc3372) 
+- [2021-02-17-每一位程序员都应该学习的优秀代码](https://www.ershicimi.com/p/a4da773dc193915ac14c7277985240bd) 
+- [2021-02-15-Deno-2020-大事记](https://www.ershicimi.com/p/10521ed7e05e51471e4ba94c9d7c622e) 
+- [2021-02-11-喜迎春节，给你的网站加点“年味”](https://www.ershicimi.com/p/871193c0e19a3b3cf78f7a88507b84a8) 
 - [2021-02-03-重磅！贝索斯宣告即将卸任亚马逊CEO](https://www.ershicimi.com/p/48bdcd0aaed76f3226fb6d451a196039) 
 - [2021-02-01-2021年前端发展预测](https://www.ershicimi.com/p/91c03d55d7f05840ee44e416377a2382) 
 - [2021-02-01-12-个顶级-Bug-跟踪工具](https://www.ershicimi.com/p/176f68b448f3e45791ae78bc019cbeee) 
