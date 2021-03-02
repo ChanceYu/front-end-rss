@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-02 06:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-02 12:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -38,6 +38,7 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2021-03-01-Nodejs-14-大版本中新增特性总结](https://www.ershicimi.com/p/55cf24d4c1aabf3f833e01716feb7c27) 
 - [2021-02-21-手摸手教你写一个命令行终端electron实战](https://www.ershicimi.com/p/fcf797795291819912fba892ecb69c15) 
 - [2021-01-30-深入理解Chrome-V8垃圾回收机制](https://www.ershicimi.com/p/ff0b9c190d4054cf3a6fedf798d3ff1b) 
 - [2021-01-21-使用-Node.js-对文本内容分词和关键词抽取](https://www.ershicimi.com/p/b9e4d788a3e9bf902daf4ca3b9651ae2) 
