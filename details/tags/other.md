@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-05 18:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -416,6 +416,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-03-05-前端行业内幕：“打工人”的真实写照！](https://www.ershicimi.com/p/17d289d2911a9d6ce4d9dc972739a7bc) 
+- [2021-03-05-仙女也编程：明明可以靠颜值，却选择了靠实力](https://www.ershicimi.com/p/0553cc59f01410e9c8045c2e822fed0c) 
+- [2021-03-05-前端每日一题-#38](https://www.ershicimi.com/p/d5a18adac7a19c745fe779a4ca1ab634) 
+- [2021-03-05-设计灵感：12-个实用的任务管理-App-设计](https://www.ershicimi.com/p/05992ed0adb52d9aaac1180275ea3f23) 
 - [2021-03-04-用代码说话的地方，也会产生内卷吗？](https://www.ershicimi.com/p/7bfa8c8669f8dd20c59b2b46348ba084) 
 - [2021-03-04-前端每日一题-#37](https://www.ershicimi.com/p/9f68119445888ae65546487fe275ddde) 
 - [2021-03-04-设计灵感：12-组有关仪表盘的-APP-界面设计](https://www.ershicimi.com/p/f00d9bd046cd45229228f94028f36734) 
