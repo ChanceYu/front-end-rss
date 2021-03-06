@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-06 22:00:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -417,6 +417,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-03-06-base64-格式的数据是如何实现的](https://www.ershicimi.com/p/e6ede292017cb1acd9c6965efdf4be64) 
+- [2021-03-06-前端每日一题-#39](https://www.ershicimi.com/p/b2063ececf200168f9b6eb7411fce105) 
 - [2021-03-05-前端行业内幕：“打工人”的真实写照！](https://www.ershicimi.com/p/17d289d2911a9d6ce4d9dc972739a7bc) 
 - [2021-03-05-仙女也编程：明明可以靠颜值，却选择了靠实力](https://www.ershicimi.com/p/0553cc59f01410e9c8045c2e822fed0c) 
 - [2021-03-05-前端每日一题-#38](https://www.ershicimi.com/p/d5a18adac7a19c745fe779a4ca1ab634) 
