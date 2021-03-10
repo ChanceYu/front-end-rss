@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-09 22:01:15，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-10 18:00:43，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) ![](assets/new.png)  
-- [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) ![](assets/new.png)  
-- [2021-03-09-【招聘】阿里AliExpress前端团队2022春招开始了！](https://www.ershicimi.com/p/a896c62ab6c27ddd67f5db110c8426c5) ![](assets/new.png)  
+- [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810)  
+- [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c)  
+- [2021-03-09-【招聘】阿里AliExpress前端团队2022春招开始了！](https://www.ershicimi.com/p/a896c62ab6c27ddd67f5db110c8426c5)  
 - [2021-03-08-【第2219期】我在阿里云做云开发平台](https://www.ershicimi.com/p/c5bafdccd665c3f6c6693772055cf298)  
 - [2021-03-08-【招聘】在蚂蚁的前端工程团队工作是怎样一种体验](https://www.ershicimi.com/p/bc2cf72e01313a2f620f55d7d2f52863)  
 - [2021-03-07-【第2218期】Google发布Flutter-2.0正式版，支持全平台程序构建](https://www.ershicimi.com/p/507170e2623875fee971ce56d7c5ada6)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-03-09-小程序开发项目中各种痛点问题及解决方案](https://www.ershicimi.com/p/b88e9d5a9ca48717377184bad439645f) ![](assets/new.png)  
-- [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39) ![](assets/new.png)  
-- [2021-03-09-前端每日一题-#42](https://www.ershicimi.com/p/946d81d35e68588a63ea27537ffe5f4c) ![](assets/new.png)  
-- [2021-03-09-设计灵感：12-组创意-ICON-设计](https://www.ershicimi.com/p/7105152985ee50ede16b28bd1fed38e8) ![](assets/new.png)  
+- [2021-03-09-小程序开发项目中各种痛点问题及解决方案](https://www.ershicimi.com/p/b88e9d5a9ca48717377184bad439645f)  
+- [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39)  
+- [2021-03-09-前端每日一题-#42](https://www.ershicimi.com/p/946d81d35e68588a63ea27537ffe5f4c)  
+- [2021-03-09-设计灵感：12-组创意-ICON-设计](https://www.ershicimi.com/p/7105152985ee50ede16b28bd1fed38e8)  
 - [2021-03-08-我从-Vuejs-中学到了什么](https://www.ershicimi.com/p/76380e1a7d8af519708e2cb74e0705bb)  
 - [2021-03-08-什么是JavaScript的作用域](https://www.ershicimi.com/p/91057db27f837e895944b6f121ef2589)  
 - [2021-03-08-前端每日一题-#41](https://www.ershicimi.com/p/978517e290a61600c8e44f50e00e3869)  
@@ -126,6 +126,7 @@
 </summary>
 
 
+- [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw) ![](assets/new.png)  
 - [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7)  
 - [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q)  
 - [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)  
@@ -145,7 +146,6 @@
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym)  
 - [2020-08-01-可折叠Web可能会给我们带来的变化](https://fed.taobao.org/blog/taofed/do71ct/zbxacs)  
 - [2020-07-31-2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q)  
-- [2020-07-21-现在开始：用你的Mac训练和部署一个图片分类模型](https://fed.taobao.org/blog/taofed/do71ct/gwrk8n)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
