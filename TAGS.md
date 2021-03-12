@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-12 12:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 06:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】蚂蚁金服体验技术部地平线招聘p5~p8前端](https://www.ershicimi.com/p/3c64b714fe791757274ed726ab2e74af)
 - [【前端早读课】【招聘】蘑菇街-锐鲨科技招前端开发工程师](https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc)
 - [【前端早读课】【招聘】北京齐蚁科技招前端开发工程师](https://www.ershicimi.com/p/17802834cf9ac0c879b9e7aa516820f4)
 - [【前端早读课】【招聘】在蚂蚁的前端工程团队工作是怎样一种体验](https://www.ershicimi.com/p/bc2cf72e01313a2f620f55d7d2f52863)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】阿里云流量产品事业部前端技术团队招P6~P7](https://www.ershicimi.com/p/f8b8b892f7350a5858b3b3d71289138a)
 - [【前端早读课】【招聘】阿里1688体验技术团队招前端工程师](https://www.ershicimi.com/p/55af2a5ad442e9778f7f622ae7d46ae4)
 - [【前端早读课】【招聘】欢聚集团用户体验中心招前端工程师](https://www.ershicimi.com/p/e4f4fa4dfce1e312ee259881d24a1bed)
-- [【前端早读课】【招聘】阿里淘系互动团队招实习生、P6~8前端工程师](https://www.ershicimi.com/p/2ad3d7d41c8f717c6c7e6e45c4dd1395)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2223期】探索微前端的场景极限](https://www.ershicimi.com/p/5fdaef89d16ff96ab8a024d9abab647e)
 - [【前端早读课】【第2219期】我在阿里云做云开发平台](https://www.ershicimi.com/p/c5bafdccd665c3f6c6693772055cf298)
 - [【前端早读课】成为前端工程师，我仅仅用了一年！](https://www.ershicimi.com/p/9090d30ca1594d195a9f82263ad3a290)
 - [【前端早读课】【第2215期】Web-用户体验设计提升指南](https://www.ershicimi.com/p/3cb41b246ab955785833f54ac7f63c27)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2190期】如何实现一个前端监控回放系统](https://www.ershicimi.com/p/f9b82c8e4c4723140a57b185323b119f)
 - [【前端早读课】【第2187期】AntV图可视分析解决方案---设计篇](https://www.ershicimi.com/p/e44935d55edeb62a9156cbe2766e5be3)
 - [【前端早读课】【第2185期】我在阿里云做前端智能化（Dumbo）--智能代码生成](https://www.ershicimi.com/p/f3d188395feec261bd15cf44414eae6d)
-- [【前端早读课】《前端中文入门手册》.pdf](https://www.ershicimi.com/p/5ebaaf53a3427eda2d9045d1daf1ed0c)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
