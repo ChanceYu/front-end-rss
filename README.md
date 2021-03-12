@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-12 06:00:08，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-12 12:00:29，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,11 +33,11 @@
 </summary>
 
 
-- [2021-03-11-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/988697b23628473999c5b366dfeda1fd) ![](assets/new.png)  
-- [2021-03-11-【第2222期】下一代前端构建工具-ViteJS-技术解读](https://www.ershicimi.com/p/548c42b015268d12fff530b4774415a7) ![](assets/new.png)  
-- [2021-03-11-【招聘】蘑菇街-锐鲨科技招前端开发工程师](https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc) ![](assets/new.png)  
-- [2021-03-10-【第2221期】和-Node.js-创始人-Ryan-Dahl-的对话](https://www.ershicimi.com/p/49aeddfcb36ecfa2242257adfab9cf3e) ![](assets/new.png)  
-- [2021-03-10-【招聘】北京齐蚁科技招前端开发工程师](https://www.ershicimi.com/p/17802834cf9ac0c879b9e7aa516820f4) ![](assets/new.png)  
+- [2021-03-11-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/988697b23628473999c5b366dfeda1fd)  
+- [2021-03-11-【第2222期】下一代前端构建工具-ViteJS-技术解读](https://www.ershicimi.com/p/548c42b015268d12fff530b4774415a7)  
+- [2021-03-11-【招聘】蘑菇街-锐鲨科技招前端开发工程师](https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc)  
+- [2021-03-10-【第2221期】和-Node.js-创始人-Ryan-Dahl-的对话](https://www.ershicimi.com/p/49aeddfcb36ecfa2242257adfab9cf3e)  
+- [2021-03-10-【招聘】北京齐蚁科技招前端开发工程师](https://www.ershicimi.com/p/17802834cf9ac0c879b9e7aa516820f4)  
 - [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810)  
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c)  
 - [2021-03-09-【招聘】阿里AliExpress前端团队2022春招开始了！](https://www.ershicimi.com/p/a896c62ab6c27ddd67f5db110c8426c5)  
@@ -64,14 +64,14 @@
 </summary>
 
 
-- [2021-03-11-非科班前端人的一道送命题：0.1+0.2-等于-0.3-吗？](https://www.ershicimi.com/p/4524153de252f0d06a01997339c45d7d) ![](assets/new.png)  
-- [2021-03-11-你真的了解-ES6-中的函数特性么？](https://www.ershicimi.com/p/7d566c598c5ad4a1b96e2fcfda42016e) ![](assets/new.png)  
-- [2021-03-11-前端每日一题-#44](https://www.ershicimi.com/p/10e3daddd4c15e0acaab258094100012) ![](assets/new.png)  
-- [2021-03-11-设计灵感：网页里的3D插画！立体风格的创意表达](https://www.ershicimi.com/p/75c98705a38d8b34d0711152a5effd49) ![](assets/new.png)  
-- [2021-03-10-Vue-3.0-PK-React-17-，谁胜?](https://www.ershicimi.com/p/3cc2c608279567356e961877bf10d68f) ![](assets/new.png)  
-- [2021-03-10-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/738f1283ae4640bccf5d7fd5daf02d46) ![](assets/new.png)  
-- [2021-03-10-前端每日一题-#43](https://www.ershicimi.com/p/ddb24fd0750673aa5914f03e7049d587) ![](assets/new.png)  
-- [2021-03-10-设计灵感：12-组对话框-UI-设计](https://www.ershicimi.com/p/a254c4694c2c03ecda642522141c85d7) ![](assets/new.png)  
+- [2021-03-11-非科班前端人的一道送命题：0.1+0.2-等于-0.3-吗？](https://www.ershicimi.com/p/4524153de252f0d06a01997339c45d7d)  
+- [2021-03-11-你真的了解-ES6-中的函数特性么？](https://www.ershicimi.com/p/7d566c598c5ad4a1b96e2fcfda42016e)  
+- [2021-03-11-前端每日一题-#44](https://www.ershicimi.com/p/10e3daddd4c15e0acaab258094100012)  
+- [2021-03-11-设计灵感：网页里的3D插画！立体风格的创意表达](https://www.ershicimi.com/p/75c98705a38d8b34d0711152a5effd49)  
+- [2021-03-10-Vue-3.0-PK-React-17-，谁胜?](https://www.ershicimi.com/p/3cc2c608279567356e961877bf10d68f)  
+- [2021-03-10-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/738f1283ae4640bccf5d7fd5daf02d46)  
+- [2021-03-10-前端每日一题-#43](https://www.ershicimi.com/p/ddb24fd0750673aa5914f03e7049d587)  
+- [2021-03-10-设计灵感：12-组对话框-UI-设计](https://www.ershicimi.com/p/a254c4694c2c03ecda642522141c85d7)  
 - [2021-03-09-小程序开发项目中各种痛点问题及解决方案](https://www.ershicimi.com/p/b88e9d5a9ca48717377184bad439645f)  
 - [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39)  
 - [2021-03-09-前端每日一题-#42](https://www.ershicimi.com/p/946d81d35e68588a63ea27537ffe5f4c)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) ![](assets/new.png)  
 - [2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html)  
 - [2021-02-26-科技爱好者周刊（第-147-期）：寻找你愿意忍受的痛苦](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html)  
 - [2021-02-19-科技爱好者周刊（第-146-期）：网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html)  
@@ -207,7 +208,6 @@
 - [2020-12-04-科技爱好者周刊（第-136-期）：利特伍德奇迹定律](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html)  
 - [2020-11-27-科技爱好者周刊（第-135-期）：什么行业适合创业？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html)  
 - [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)  
-- [2020-11-13-科技爱好者周刊（第-133-期）：贵州变瑞士，有没有可能？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-133.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
