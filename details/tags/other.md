@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-16 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -841,6 +841,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-03-15-前端开发者必备的12个工具](https://www.ershicimi.com/p/3885f01ef5e406fb892c633b218f1ba6) 
+- [2021-03-15-面对不断增长的业务规模，如何打破前端效率瓶颈？|-GMTC](https://www.ershicimi.com/p/36dc5dd520b5ab8d49f675e0cdf309f8) 
+- [2021-03-12-盘点世界上-6-种奇怪的编程语言](https://www.ershicimi.com/p/a24709a9d86d0ffa38954de586b9ac65) 
 - [2021-03-08-15+人团队的前端体系架构应该如何管理？](https://www.ershicimi.com/p/dd2e103a8940ff8103895864f0af346f) 
 - [2021-03-03-Deno-1.8-正式发布：附带完整的-ICU-支持；deno-lsp-和导入映射均已稳定](https://www.ershicimi.com/p/a6b62bbcb7c6586c2c5031c80f15b8f0) 
 - [2021-03-03-为什么要用-picture-标签代替-img-标签？](https://www.ershicimi.com/p/bb4e8b09847e1d97c14f80aac0490adc) 

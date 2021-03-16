@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-16 06:00:09，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-16 18:00:25，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,10 +33,10 @@
 </summary>
 
 
-- [2021-03-15-【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec) ![](assets/new.png)  
-- [2021-03-15-【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1) ![](assets/new.png)  
-- [2021-03-14-【第2225期】开发者如何缓解焦虑提升效率？来自心理学研究者的建议](https://www.ershicimi.com/p/9df7db498d7a2eba3a5c6d719ca5c684) ![](assets/new.png)  
-- [2021-03-14-【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e) ![](assets/new.png)  
+- [2021-03-15-【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec)  
+- [2021-03-15-【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1)  
+- [2021-03-14-【第2225期】开发者如何缓解焦虑提升效率？来自心理学研究者的建议](https://www.ershicimi.com/p/9df7db498d7a2eba3a5c6d719ca5c684)  
+- [2021-03-14-【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e)  
 - [2021-03-13-【第2224期】CORS-完全手册之如何解决CORS-问题？](https://www.ershicimi.com/p/09c2ff8db9089698491ea785feae67c5)  
 - [2021-03-13-【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师](https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44)  
 - [2021-03-12-【第2223期】探索微前端的场景极限](https://www.ershicimi.com/p/5fdaef89d16ff96ab8a024d9abab647e)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-03-15-「React缓存页面」从需求到开源（我是怎么样让产品小姐姐刮目相看的](https://www.ershicimi.com/p/cf47dd4071e1e93628d81fbb3d6071ea) ![](assets/new.png)  
-- [2021-03-15-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa) ![](assets/new.png)  
-- [2021-03-15-前端每日一题-#47](https://www.ershicimi.com/p/210949458b71453a5b8876de51ab1764) ![](assets/new.png)  
-- [2021-03-15-设计灵感：12组存储空间APP界面设计](https://www.ershicimi.com/p/8313717c704ed7e59b39bcf4678a3000) ![](assets/new.png)  
+- [2021-03-15-「React缓存页面」从需求到开源（我是怎么样让产品小姐姐刮目相看的](https://www.ershicimi.com/p/cf47dd4071e1e93628d81fbb3d6071ea)  
+- [2021-03-15-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa)  
+- [2021-03-15-前端每日一题-#47](https://www.ershicimi.com/p/210949458b71453a5b8876de51ab1764)  
+- [2021-03-15-设计灵感：12组存储空间APP界面设计](https://www.ershicimi.com/p/8313717c704ed7e59b39bcf4678a3000)  
 - [2021-03-13-「前端工程化」从0-1搭建-React，TS-脚手架](https://www.ershicimi.com/p/5d54a84fd539a4df498050109bd0e196)  
 - [2021-03-13-Chrome-89-新功能一览，性能提升明显，大量-DevTools-新特性！](https://www.ershicimi.com/p/ae968d313b06723a82c785b190ce71f3)  
 - [2021-03-13-前端每日一题-#46](https://www.ershicimi.com/p/92e1d8f45a5af4f54e90b3301ed10f43)  
@@ -95,6 +95,15 @@
 </summary>
 
 
+- [2021-03-15-前端开发者必备的12个工具](https://www.ershicimi.com/p/3885f01ef5e406fb892c633b218f1ba6) ![](assets/new.png)  
+- [2021-03-15-面对不断增长的业务规模，如何打破前端效率瓶颈？|-GMTC](https://www.ershicimi.com/p/36dc5dd520b5ab8d49f675e0cdf309f8) ![](assets/new.png)  
+- [2021-03-14-TypeScript-手册重写发布；阿里内网离职帖引热议，员工吐槽人不如驴；联想-CEO-支持反对](https://www.ershicimi.com/p/73f64139ac2d21e4ae53a24a6e78ad9d) ![](assets/new.png)  
+- [2021-03-12-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/694a33cfabc274ce682aa6f917ea8920) ![](assets/new.png)  
+- [2021-03-12-盘点世界上-6-种奇怪的编程语言](https://www.ershicimi.com/p/a24709a9d86d0ffa38954de586b9ac65) ![](assets/new.png)  
+- [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105) ![](assets/new.png)  
+- [2021-03-10-2021年，原生永不为奴还是PWA绝地反击？](https://www.ershicimi.com/p/1e7e4ea046c0553192cfe52031db6ee0) ![](assets/new.png)  
+- [2021-03-10-要改掉的-10-种-TypeScript-坏习惯](https://www.ershicimi.com/p/83e9c39c5ff0b715a59a113dec4a873d) ![](assets/new.png)  
+- [2021-03-10-70%-的程序员，不懂数据结构和算法！-|-活动推荐](https://www.ershicimi.com/p/55c59ed6e86319917281fe4c624595d6) ![](assets/new.png)  
 - [2021-03-08-Flutter-将成为未来-Ubuntu-应用程序的默认选择](https://www.ershicimi.com/p/2b93867f922445c33c3ab0014483a176)  
 - [2021-03-08-15+人团队的前端体系架构应该如何管理？](https://www.ershicimi.com/p/dd2e103a8940ff8103895864f0af346f)  
 - [2021-03-08-一套代码、多端运行，Flutter是如何实现的？|-极客时间](https://www.ershicimi.com/p/1320ac378693b34f3e16d99b17fb0dea)  
@@ -106,15 +115,6 @@
 - [2021-03-01-2021年Node.js开发人员学习路线图](https://www.ershicimi.com/p/26ac4d14019e4dc1a88e36e4b97dc8ee)  
 - [2021-03-01-为什么说开发者指标是不可靠的？](https://www.ershicimi.com/p/b455355be1003bd2cd7ec643dc9897dd)  
 - [2021-03-01-你每天都在使用的HTTP协议，到底是什么鬼？-|-活动推荐](https://www.ershicimi.com/p/7aca27fefd0e28c3fa0e825e404e1e4c)  
-- [2021-02-28-华为再申请-“仓颉语言”商标；Flutter-2.0-或于-3-月-3-日发布；美国将建立“无中国大](https://www.ershicimi.com/p/be61252d454d468df61c6425cc0f74cd)  
-- [2021-02-26-React的未来：服务端组件](https://www.ershicimi.com/p/62264364f8951523d70c75f9e6b43e97)  
-- [2021-02-26-容易被忽略的5个HTML技巧](https://www.ershicimi.com/p/1f83a76f975a4ba7eff24e632b67ea41)  
-- [2021-02-26-VUCA时代，打造-10-倍速-IT-团队的优化调整法则-|-活动推荐](https://www.ershicimi.com/p/b709e7053c2a5710bd4f0da64320bbaa)  
-- [2021-02-24-TypeScript-4.2-正式发布：更智能的类型别名保留，声明缺失的帮助函数，还有许多破坏性更新](https://www.ershicimi.com/p/ad79db14a083297ac3bb1fb71c10a1c1)  
-- [2021-02-24-InfoQ出品：《数字化浪潮中的组织变革与人才突围》研究报告（附下载）](https://www.ershicimi.com/p/baf5a4919dc1dff520a78e973d58376d)  
-- [2021-02-24-前端之巅——技术人员不学架构又怎样？-|-活动推荐](https://www.ershicimi.com/p/7c24103069d7d2c86c77863ce2a47e9f)  
-- [2021-02-22-Android-12-首个开发者版本发布：带来更好的用户体验工具](https://www.ershicimi.com/p/1973aae413ca8fc5dbd28a3e8d2679b4)  
-- [2021-02-22-Deno-现在能够编译为独立的自包含二进制文件](https://www.ershicimi.com/p/0685d26c4ea4952e9d4cea1f0759a0bc)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
