@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-17 06:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-18 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-17-【第2228期】CORS-完全手册之CORS-详解](https://www.ershicimi.com/p/175215b495283b4a68ef95a567811a27) 
 - [2021-03-13-【第2224期】CORS-完全手册之如何解决CORS-问题？](https://www.ershicimi.com/p/09c2ff8db9089698491ea785feae67c5) 
 - [2021-03-05-【第2216期】CORS-完全手册之为什么会发生CORS-错误？](https://www.ershicimi.com/p/6cbf45be18a23d82257923256f8303a3) 
 - [2021-02-18-【第2201期】在Chromium、Safari预览版和Firefox-Nightly中支持新的宽高](https://www.ershicimi.com/p/47c8320572a6ae8faa26ca1501f22367) 
