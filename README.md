@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-19 06:00:13，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-19 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/000b4cfdbcb79218ddd80dd60a4e2c34) ![](assets/new.png)  
-- [2021-03-18-【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f) ![](assets/new.png)  
-- [2021-03-18-【招聘】苏州知犀思维导图招聘高级前端开发工程师](https://www.ershicimi.com/p/f10acfcfa1b64e1cc9aa922785d19dcb) ![](assets/new.png)  
+- [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/000b4cfdbcb79218ddd80dd60a4e2c34)  
+- [2021-03-18-【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f)  
+- [2021-03-18-【招聘】苏州知犀思维导图招聘高级前端开发工程师](https://www.ershicimi.com/p/f10acfcfa1b64e1cc9aa922785d19dcb)  
 - [2021-03-17-【第2228期】CORS-完全手册之CORS-详解](https://www.ershicimi.com/p/175215b495283b4a68ef95a567811a27)  
 - [2021-03-17-【招聘】北京天眼查招聘高级前端研发工程师](https://www.ershicimi.com/p/19225740b719a89c764f7d948d8f9eef)  
 - [2021-03-16-前端可视化进阶全路径](https://www.ershicimi.com/p/66fbf0810abfca415db4876e9d86ffb2)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-03-18-内容非常详细！领略-Eslint-代码检查的四种姿势](https://www.ershicimi.com/p/9347764b3e962205c7fd6218391ee5df) ![](assets/new.png)  
-- [2021-03-18-华为官方：寻找VUE&H5&小程序开发者！](https://www.ershicimi.com/p/a875d97cde39c58a2055fe7aeab5c07f) ![](assets/new.png)  
-- [2021-03-18-前端每日一题-#50](https://www.ershicimi.com/p/e44f69768183fdb52e30fa8a9b24bd67) ![](assets/new.png)  
-- [2021-03-18-设计灵感：聊天对话界面如何设计？](https://www.ershicimi.com/p/b89e3faa88ad6862fb1bcb8cb466c72c) ![](assets/new.png)  
+- [2021-03-18-内容非常详细！领略-Eslint-代码检查的四种姿势](https://www.ershicimi.com/p/9347764b3e962205c7fd6218391ee5df)  
+- [2021-03-18-华为官方：寻找VUE&H5&小程序开发者！](https://www.ershicimi.com/p/a875d97cde39c58a2055fe7aeab5c07f)  
+- [2021-03-18-前端每日一题-#50](https://www.ershicimi.com/p/e44f69768183fdb52e30fa8a9b24bd67)  
+- [2021-03-18-设计灵感：聊天对话界面如何设计？](https://www.ershicimi.com/p/b89e3faa88ad6862fb1bcb8cb466c72c)  
 - [2021-03-17-对比了React17和Vue3后，总结了这些面试可用的亮点](https://www.ershicimi.com/p/2449835c5e13b3aa6c0837c5aceb1ab1)  
 - [2021-03-17-你不知道的-Proxy](https://www.ershicimi.com/p/925871f3fc77f899a1e1ce9a55c03519)  
 - [2021-03-17-前端每日一题-#49](https://www.ershicimi.com/p/6971b3c5242e94c45b39aa3017547ccb)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) ![](assets/new.png)  
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)  
 - [2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html)  
 - [2021-02-26-科技爱好者周刊（第-147-期）：寻找你愿意忍受的痛苦](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html)  
@@ -207,7 +208,6 @@
 - [2020-12-11-科技爱好者周刊（第-137-期）：Slack-被收购，以及企业的技术选型](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)  
 - [2020-12-04-科技爱好者周刊（第-136-期）：利特伍德奇迹定律](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html)  
 - [2020-11-27-科技爱好者周刊（第-135-期）：什么行业适合创业？](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-135.html)  
-- [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
