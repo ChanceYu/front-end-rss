@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-03-21 06:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 18:00:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-03-20-【第2231期】活文档：核心原则](https://www.ershicimi.com/p/7edfa11b71918b761922ef3a68fa8bed) 
+- [2021-03-20-【图书】活文档：与代码共同演进](https://www.ershicimi.com/p/97ab30bce7cf0a5c6da975cd5a25fe43) 
 - [2021-03-16-前端可视化进阶全路径](https://www.ershicimi.com/p/66fbf0810abfca415db4876e9d86ffb2) 
 - [2021-03-16-【第2227期】逻辑编排在优酷可视化搭建中的实践之下](https://www.ershicimi.com/p/963b179428c83fc5f2d9d8e9c0a27f64) 
 - [2021-03-15-【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec) 
@@ -423,6 +425,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-03-20-x³+y³+z³=3第三组整数解是多少，这个58年难题被40万台电脑算出来了](https://www.ershicimi.com/p/25caae37e63e45288b99754f96d8ae57) 
+- [2021-03-20-前端每日一题-#52](https://www.ershicimi.com/p/2ff7ac11cdc6d61cff2a1523d1846125) 
 - [2021-03-19-三月，不要跳槽！](https://www.ershicimi.com/p/82b8e5736bf2b5ec930e07b5fae90152) 
 - [2021-03-19-前端每日一题-#51](https://www.ershicimi.com/p/8ec105f47c3fee3ea23e9bfc634252fc) 
 - [2021-03-18-前端每日一题-#50](https://www.ershicimi.com/p/e44f69768183fdb52e30fa8a9b24bd67) 
