@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 18:00:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 12:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,8 @@
 
 
 
+- [2021-03-22-【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f) 
+- [2021-03-22-【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa) 
 - [2021-03-18-【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f) 
 - [2021-03-09-【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810) 
 - [2021-03-09-【图书】前端函数式演进](https://www.ershicimi.com/p/2bef2a76d5e2d630bb606029e881b52c) 
@@ -161,6 +163,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2021-03-21-终于理解了-JavaScript-闭包](https://www.ershicimi.com/p/a749750a892f2003f2ef5f4da92e4cea) 
 - [2021-03-11-你真的了解-ES6-中的函数特性么？](https://www.ershicimi.com/p/7d566c598c5ad4a1b96e2fcfda42016e) 
 - [2021-03-10-常用的前端JavaScript方法封装](https://www.ershicimi.com/p/738f1283ae4640bccf5d7fd5daf02d46) 
 - [2021-03-09-使用顶层-await-简化-JS-代码](https://www.ershicimi.com/p/381f871279592786dff7b95c261fea39) 
