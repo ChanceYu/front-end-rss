@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 12:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -857,6 +857,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-03-22-程序员调查：哪种编程语言的起薪最高？](https://www.ershicimi.com/p/b92639d2c64134fd782a17ced0810d3b) 
+- [2021-03-21-下一个时代？谷歌将发布Fuchsia开发者预览版；英特尔发布一系列广告嘲笑苹果；拼多多超越阿里，成国](https://www.ershicimi.com/p/7be0e4609963edd1a3ee9721e70ffcd1) 
+- [2021-03-19-小公司应该避免的十大技术策略和应该遵循的五大建议](https://www.ershicimi.com/p/002b9dadf91ca2064f26191ef46aa528) 
 - [2021-03-17-软件开发管理的11条真理](https://www.ershicimi.com/p/1d7d22ce8bcfa7afd3765cb011f93045) 
 - [2021-03-17-老旧的API，你应该如何处理？](https://www.ershicimi.com/p/9127522a845a0ca3bfedf8c4af6c11a5) 
 - [2021-03-15-前端开发者必备的12个工具](https://www.ershicimi.com/p/3885f01ef5e406fb892c633b218f1ba6) 
