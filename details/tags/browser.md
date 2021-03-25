@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-25-【第2236期】CORS完全手册之收官篇](https://www.ershicimi.com/p/de6cd0154cf17a7354a47f1fc0a2dae4) 
 - [2021-03-24-【第2235期】CORS完全手冊之跨来源的安全性问题](https://www.ershicimi.com/p/966945a80f968595dd7608bd297c1bde) 
 - [2021-03-19-【第2230期】CORS完全手册之一起看规范](https://www.ershicimi.com/p/dab781d96f7171f8825abc296a6eea3b) 
 - [2021-03-17-【第2228期】CORS-完全手册之CORS-详解](https://www.ershicimi.com/p/175215b495283b4a68ef95a567811a27) 
