@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2238期】我在阿里云做前端智能化（Dumbo）-  前端度量",
+        "link": "https://www.ershicimi.com/p/4c56cdfcc6a5788ff0fd164fecfc877c",
+        "date": "2021-03-27"
+      },
+      {
+        "title": "【招聘】美团平台 App 技术部招聘前端开发工程师",
+        "link": "https://www.ershicimi.com/p/f683b3cc499560e2e59ba681b61b76c7",
+        "date": "2021-03-27"
+      },
+      {
         "title": "【第2237期】我在阿里云做前端智能化（Dumbo）-  VSCode插件",
         "link": "https://www.ershicimi.com/p/91ae89587eab33500ce5d76b86b60c4a",
         "date": "2021-03-26"
@@ -6961,6 +6971,26 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "『前端优化』—— Vue中避免滥用this去读取data中数据",
+        "link": "https://www.ershicimi.com/p/c15b5c6e5dba897ee5a1ff21396753c1",
+        "date": "2021-03-27"
+      },
+      {
+        "title": "面向对象：希望找个我喜欢的，和喜欢我的小哥哥",
+        "link": "https://www.ershicimi.com/p/ae47a9c6f23f3b107f170991c2cf1d3f",
+        "date": "2021-03-27"
+      },
+      {
+        "title": "美团面试官：你可以手写Vue3的响应式原理吗？",
+        "link": "https://www.ershicimi.com/p/c3766f8c0eaf47afea0eb9f4a45458bd",
+        "date": "2021-03-27"
+      },
+      {
+        "title": "前端每日一题 #59",
+        "link": "https://www.ershicimi.com/p/5da408164af9c79c1693b408e6395102",
+        "date": "2021-03-27"
+      },
       {
         "title": "字节、百度面试真题，不会可能要凉凉了（内附答案）",
         "link": "https://www.ershicimi.com/p/bdf7ee0070a6fcf2a4e28f946186bfc3",
@@ -14343,6 +14373,21 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "自由软件之父回归，遭近2500人联合签名抵制，红帽表示不再资助FSF",
+        "link": "https://www.ershicimi.com/p/42a48f695a5914c5b4aee31ef31d2f48",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "BFF模式：微服务前端数据加载的最佳实践？",
+        "link": "https://www.ershicimi.com/p/bd1eeb255ae2709f93adde2775fa195b",
+        "date": "2021-03-26"
+      },
+      {
+        "title": "@程序员，如何轻松实现数据可视化？ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/b7a6b241be76ddcecb7fe41be0eabe64",
+        "date": "2021-03-26"
+      },
       {
         "title": "斗胆，谈谈我对Flutter的理解",
         "link": "https://www.ershicimi.com/p/4b7e192cbcdfb18c6abf18bd03a96f2a",
