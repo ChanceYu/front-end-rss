@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2239期】前端还有机会吗？这是蚂蚁前端的答案",
+        "link": "https://www.ershicimi.com/p/b745f22cca70c1d705f10e62aed84f4b",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "【活动】铃盛X美团前端线上分享会",
+        "link": "https://www.ershicimi.com/p/935dcd60f8a515043c457d3cd1d99eee",
+        "date": "2021-03-28"
+      },
+      {
         "title": "【第2238期】我在阿里云做前端智能化（Dumbo）-  前端度量",
         "link": "https://www.ershicimi.com/p/4c56cdfcc6a5788ff0fd164fecfc877c",
         "date": "2021-03-27"
@@ -6971,6 +6981,21 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "反直觉！浏览器到底是如何下载资源的",
+        "link": "https://www.ershicimi.com/p/1e8aa155aa1013fb7a508fa19dbabecb",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "字节跳动面试官：请用JS实现Ajax并发请求控制",
+        "link": "https://www.ershicimi.com/p/bc9d527e7e3582c83ed5862fdf4c4a47",
+        "date": "2021-03-28"
+      },
+      {
+        "title": "前端每日一题 #60",
+        "link": "https://www.ershicimi.com/p/b4a9f18ce7474dae6200c94da653f78b",
+        "date": "2021-03-28"
+      },
       {
         "title": "『前端优化』—— Vue中避免滥用this去读取data中数据",
         "link": "https://www.ershicimi.com/p/c15b5c6e5dba897ee5a1ff21396753c1",
@@ -14373,6 +14398,11 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "Vue.js 2021最新报告出炉；WebView组件更新致数百款安卓应用崩溃；京东程序员回应“被猝",
+        "link": "https://www.ershicimi.com/p/8e4ce029dc6df9797801616cf0b41abf",
+        "date": "2021-03-28"
+      },
       {
         "title": "自由软件之父回归，遭近2500人联合签名抵制，红帽表示不再资助FSF",
         "link": "https://www.ershicimi.com/p/42a48f695a5914c5b4aee31ef31d2f48",
