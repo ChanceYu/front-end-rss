@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-29 22:00:14，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-30 22:00:11，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,9 @@
 </summary>
 
 
-- [2021-03-29-【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1) ![](assets/new.png)  
-- [2021-03-29-【招聘】阿里云企业IT治理工作台团队招聘前端开发工程师](https://www.ershicimi.com/p/7291fd28dc6523d8960198523a37d9a5) ![](assets/new.png)  
+- [2021-03-30-【第2241期】TypeScript类型编写指南之上篇](https://www.ershicimi.com/p/13d4a37e1b5a91a8b846896cafeac31e) ![](assets/new.png)  
+- [2021-03-29-【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1)  
+- [2021-03-29-【招聘】阿里云企业IT治理工作台团队招聘前端开发工程师](https://www.ershicimi.com/p/7291fd28dc6523d8960198523a37d9a5)  
 - [2021-03-28-【第2239期】前端还有机会吗？这是蚂蚁前端的答案](https://www.ershicimi.com/p/b745f22cca70c1d705f10e62aed84f4b)  
 - [2021-03-28-【活动】铃盛X美团前端线上分享会](https://www.ershicimi.com/p/935dcd60f8a515043c457d3cd1d99eee)  
 - [2021-03-27-【第2238期】我在阿里云做前端智能化（Dumbo）--前端度量](https://www.ershicimi.com/p/4c56cdfcc6a5788ff0fd164fecfc877c)  
@@ -52,7 +53,6 @@
 - [2021-03-22-【招聘】腾讯cmweb团队招聘Web前端高级开发工程师、前端实习生](https://www.ershicimi.com/p/d31100e6256c8c0c66c52bcc53a2f782)  
 - [2021-03-22-【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa)  
 - [2021-03-21-【第2232期】深入理解React-Router：Context、Hooks、Refs、Memo特性](https://www.ershicimi.com/p/6ead33d2c9c2ab3a576a6411accebbad)  
-- [2021-03-21-【图书】深入理解React-Router：从原理到实践](https://www.ershicimi.com/p/b345cd2322d093486a1acd076ba65584)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,12 @@
 </summary>
 
 
-- [2021-03-29-面试官：“说一下从-url-输入到返回请求的过程”](https://www.ershicimi.com/p/bffa0f4d837b8b08d223fb1db2e475df) ![](assets/new.png)  
-- [2021-03-29-Charts.css：一个数据可视化开源神器](https://www.ershicimi.com/p/3f0a9cc51ac186fac290d61cd8120c5c) ![](assets/new.png)  
-- [2021-03-29-前端每日一题-#61](https://www.ershicimi.com/p/e6d427c7fd6cd13b6b70ce04a4899a5e) ![](assets/new.png)  
+- [2021-03-30-P7砖家：对不起，我要跑路了！](https://www.ershicimi.com/p/ab319ba4e3e15a84719594df74c4ac33) ![](assets/new.png)  
+- [2021-03-30-TypeScript-4.2-有哪些新特性？](https://www.ershicimi.com/p/023ed2eeb4bc48db809bf07ec284ab4f) ![](assets/new.png)  
+- [2021-03-30-前端每日一题-#62](https://www.ershicimi.com/p/9bf492b9b7bf43af950f8ab2600f7035) ![](assets/new.png)  
+- [2021-03-29-面试官：“说一下从-url-输入到返回请求的过程”](https://www.ershicimi.com/p/bffa0f4d837b8b08d223fb1db2e475df)  
+- [2021-03-29-Charts.css：一个数据可视化开源神器](https://www.ershicimi.com/p/3f0a9cc51ac186fac290d61cd8120c5c)  
+- [2021-03-29-前端每日一题-#61](https://www.ershicimi.com/p/e6d427c7fd6cd13b6b70ce04a4899a5e)  
 - [2021-03-28-反直觉！浏览器到底是如何下载资源的](https://www.ershicimi.com/p/1e8aa155aa1013fb7a508fa19dbabecb)  
 - [2021-03-28-字节跳动面试官：请用JS实现Ajax并发请求控制](https://www.ershicimi.com/p/bc9d527e7e3582c83ed5862fdf4c4a47)  
 - [2021-03-28-前端每日一题-#60](https://www.ershicimi.com/p/b4a9f18ce7474dae6200c94da653f78b)  
@@ -81,9 +84,6 @@
 - [2021-03-25-铃盛X美团前端线上分享会，火速报名中!](https://www.ershicimi.com/p/25b56965601f9a17c4011423adea2345)  
 - [2021-03-25-从-0-到-1-讲解如何从前后端有效防范点击劫持攻击](https://www.ershicimi.com/p/20ce4447fbc174d080b2910dff1f8a0f)  
 - [2021-03-25-前端每日一题-#57](https://www.ershicimi.com/p/af65e67d38ea84331cf01fb52ed29046)  
-- [2021-03-25-设计灵感：12组好看实用的购票App设计](https://www.ershicimi.com/p/c592a85a5d326d32334603a7b99ffc1b)  
-- [2021-03-24-终于有人把-Vite2-讲明白了！](https://www.ershicimi.com/p/8575285c4e10b5b22c0593c2ebeb260a)  
-- [2021-03-24-如何优雅地加载-Fonts](https://www.ershicimi.com/p/9d11a08fa5d97af9269a10307d1b0202)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,8 +95,8 @@
 </summary>
 
 
-- [2021-03-29-一个前端智能化从业者眼中的低代码/无代码](https://www.ershicimi.com/p/c50e383eeb4ce804057b3a3cb029851e) ![](assets/new.png)  
-- [2021-03-29-十六年全栈开发者的Android开发踩坑实录](https://www.ershicimi.com/p/fc78e8903460597c7ab7d1d77c3afe07) ![](assets/new.png)  
+- [2021-03-29-一个前端智能化从业者眼中的低代码/无代码](https://www.ershicimi.com/p/c50e383eeb4ce804057b3a3cb029851e)  
+- [2021-03-29-十六年全栈开发者的Android开发踩坑实录](https://www.ershicimi.com/p/fc78e8903460597c7ab7d1d77c3afe07)  
 - [2021-03-28-Vue.js-2021最新报告出炉；WebView组件更新致数百款安卓应用崩溃；京东程序员回应“被猝](https://www.ershicimi.com/p/8e4ce029dc6df9797801616cf0b41abf)  
 - [2021-03-26-自由软件之父回归，遭近2500人联合签名抵制，红帽表示不再资助FSF](https://www.ershicimi.com/p/42a48f695a5914c5b4aee31ef31d2f48)  
 - [2021-03-26-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/bd1eeb255ae2709f93adde2775fa195b)  
