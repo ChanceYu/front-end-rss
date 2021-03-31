@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-31 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-31 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-03-31-【第2242期】TypeScript类型编写指南之下篇](https://www.ershicimi.com/p/39bcb8d3da8089a4641df45c74466341) 
 - [2021-03-30-【第2241期】TypeScript类型编写指南之上篇](https://www.ershicimi.com/p/13d4a37e1b5a91a8b846896cafeac31e) 
 - [2021-03-06-【第2217期】typescript4.2新特性](https://www.ershicimi.com/p/7e21d3d93d6819a84ed27aacecf34a1e) 
 - [2020-07-14-【早读】JavaScript和TypeScript中的void](https://www.ershicimi.com/p/2d7ff12b1021ab0ed638b390b6a1f411) 
