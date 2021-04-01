@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "URL输入后按回车，浏览器内部究竟发生了什么？",
+        "link": "https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8",
+        "date": "2021-04-01"
+      },
+      {
+        "title": "【第2243期】从零开始:Webpack 优化实践",
+        "link": "https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533",
+        "date": "2021-04-01"
+      },
+      {
         "title": "【第2242期】TypeScript类型编写指南之下篇",
         "link": "https://www.ershicimi.com/p/39bcb8d3da8089a4641df45c74466341",
         "date": "2021-03-31"
@@ -7001,6 +7011,21 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "Vue3.0 新特性以及使用经验总结",
+        "link": "https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb",
+        "date": "2021-04-01"
+      },
+      {
+        "title": "万字总结，体系化带你全面认识 Nginx ！",
+        "link": "https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae",
+        "date": "2021-04-01"
+      },
+      {
+        "title": "前端每日一题 #64",
+        "link": "https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b",
+        "date": "2021-04-01"
+      },
       {
         "title": "宁愿高薪招新人，也不给老员工涨工资，怎么办？",
         "link": "https://www.ershicimi.com/p/23ec31651cdc6f18137f927f1395909e",
