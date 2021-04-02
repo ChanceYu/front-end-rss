@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-01 22:00:37，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-02 12:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8) ![](assets/new.png)  
-- [2021-04-01-【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533) ![](assets/new.png)  
+- [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8)  
+- [2021-04-01-【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533)  
 - [2021-03-31-【第2242期】TypeScript类型编写指南之下篇](https://www.ershicimi.com/p/39bcb8d3da8089a4641df45c74466341)  
 - [2021-03-30-【第2241期】TypeScript类型编写指南之上篇](https://www.ershicimi.com/p/13d4a37e1b5a91a8b846896cafeac31e)  
 - [2021-03-29-【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1)  
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) ![](assets/new.png)  
-- [2021-04-01-万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae) ![](assets/new.png)  
-- [2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b) ![](assets/new.png)  
+- [2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb)  
+- [2021-04-01-万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae)  
+- [2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b)  
 - [2021-03-31-宁愿高薪招新人，也不给老员工涨工资，怎么办？](https://www.ershicimi.com/p/23ec31651cdc6f18137f927f1395909e)  
 - [2021-03-31-浅谈-nodejs-中间层](https://www.ershicimi.com/p/e7de9a5b495810e48cf76e63918922c0)  
 - [2021-03-31-前端每日一题-#63](https://www.ershicimi.com/p/8f4ec14dab2fd06fc05011b686e827a5)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) ![](assets/new.png)  
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)  
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)  
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)  
@@ -207,7 +208,6 @@
 - [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)  
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html)  
 - [2020-12-11-科技爱好者周刊（第-137-期）：Slack-被收购，以及企业的技术选型](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)  
-- [2020-12-04-科技爱好者周刊（第-136-期）：利特伍德奇迹定律](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

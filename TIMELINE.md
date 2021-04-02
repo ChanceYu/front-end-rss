@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 22:00:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-02 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,6 +145,7 @@
 - [【前端大全】2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) 
 - [【前端大全】2021-04-01-万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae) 
 - [【前端大全】2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b) 
+- [【阮一峰的网络日志】2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
