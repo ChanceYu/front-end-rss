@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-02 22:00:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -43,6 +43,7 @@
 - [2019-11-04-Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect) 
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd) 
 - [2019-09-03-增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd) 
+- [2021-04-02-TypeScript-4.3-beta-版本正式发布：新增import语句补全，对模板字符串类型进行](https://www.ershicimi.com/p/b7740c3ceaba7a164806fee9a1bcfa79) 
 - [2021-03-14-TypeScript-手册重写发布；阿里内网离职帖引热议，员工吐槽人不如驴；联想-CEO-支持反对](https://www.ershicimi.com/p/73f64139ac2d21e4ae53a24a6e78ad9d) 
 - [2021-03-10-要改掉的-10-种-TypeScript-坏习惯](https://www.ershicimi.com/p/83e9c39c5ff0b715a59a113dec4a873d) 
 - [2021-02-24-TypeScript-4.2-正式发布：更智能的类型别名保留，声明缺失的帮助函数，还有许多破坏性更新](https://www.ershicimi.com/p/ad79db14a083297ac3bb1fb71c10a1c1) 

@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-02 22:00:48，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-03 06:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2021-04-02-【第2244期】百家号在线视频编辑器的技术演进](https://www.ershicimi.com/p/fe99b7c024c36f8c58011cdf1afeecea) ![](assets/new.png)  
-- [2021-04-02-【招聘】美团民宿业务部招前端开发工程师](https://www.ershicimi.com/p/92e4cbb05abbc0c27b661d8e48695689) ![](assets/new.png)  
-- [2021-04-02-【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1) ![](assets/new.png)  
+- [2021-04-02-【第2244期】百家号在线视频编辑器的技术演进](https://www.ershicimi.com/p/fe99b7c024c36f8c58011cdf1afeecea)  
+- [2021-04-02-【招聘】美团民宿业务部招前端开发工程师](https://www.ershicimi.com/p/92e4cbb05abbc0c27b661d8e48695689)  
+- [2021-04-02-【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1)  
 - [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8)  
 - [2021-04-01-【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533)  
 - [2021-03-31-【第2242期】TypeScript类型编写指南之下篇](https://www.ershicimi.com/p/39bcb8d3da8089a4641df45c74466341)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2021-04-02-TypeScript-4.3-beta-版本正式发布：新增import语句补全，对模板字符串类型进行](https://www.ershicimi.com/p/b7740c3ceaba7a164806fee9a1bcfa79) ![](assets/new.png)  
+- [2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa) ![](assets/new.png)  
+- [2021-04-02-玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea) ![](assets/new.png)  
 - [2021-03-31-Deno-成立公司，获得-490-万美元种子资金](https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca)  
 - [2021-03-31-怎样写出可读性高的代码？](https://www.ershicimi.com/p/1d572936e8d1a468486dd013e1b2db4a)  
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653)  
@@ -112,9 +115,6 @@
 - [2021-03-22-程序员调查：哪种编程语言的起薪最高？](https://www.ershicimi.com/p/b92639d2c64134fd782a17ced0810d3b)  
 - [2021-03-22-字节跳动最爱考的前端面试题：Node.js-基础-|-极客时间](https://www.ershicimi.com/p/077e66c4ca0505e7b1ec505821d0a83a)  
 - [2021-03-21-下一个时代？谷歌将发布Fuchsia开发者预览版；英特尔发布一系列广告嘲笑苹果；拼多多超越阿里，成国](https://www.ershicimi.com/p/7be0e4609963edd1a3ee9721e70ffcd1)  
-- [2021-03-19-Flutter-正在被悄悄放弃吗？](https://www.ershicimi.com/p/c327a401b5f2a5e98616f511ea779779)  
-- [2021-03-19-小公司应该避免的十大技术策略和应该遵循的五大建议](https://www.ershicimi.com/p/002b9dadf91ca2064f26191ef46aa528)  
-- [2021-03-19-最火的-Vue-前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/ba321703f359703d3ad8b63021050229)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

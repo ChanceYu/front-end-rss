@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-02 22:00:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-03 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -885,6 +885,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa) 
 - [2021-03-31-Deno-成立公司，获得-490-万美元种子资金](https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca) 
 - [2021-03-31-怎样写出可读性高的代码？](https://www.ershicimi.com/p/1d572936e8d1a468486dd013e1b2db4a) 
 - [2021-03-29-一个前端智能化从业者眼中的低代码/无代码](https://www.ershicimi.com/p/c50e383eeb4ce804057b3a3cb029851e) 
