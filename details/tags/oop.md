@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 面向对象❤️
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-04-03-面向对象：真心想找一位有缘人！两人三餐四季，共度余生！](https://www.ershicimi.com/p/c585d6d12b0da8007db62f0d63d524c0) 
 - [2021-03-27-面向对象：希望找个我喜欢的，和喜欢我的小哥哥](https://www.ershicimi.com/p/ae47a9c6f23f3b107f170991c2cf1d3f) 
 - [2021-01-14-面向对象：跟相互喜欢的小哥哥，长长的路慢慢走](https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9) 
 - [2020-12-29-面向对象：希望未来的他有责任心、自信，遇到问题愿意一起解决](https://www.ershicimi.com/p/d6a97825e5c86a1f7996cfb38b43819b) 
