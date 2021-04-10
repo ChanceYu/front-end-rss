@@ -21653,6 +21653,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用navigator.connection.downlink前端测网速",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/",
+        "date": "2021-04-10"
+      },
+      {
         "title": "分享下input time输入框的细节知识",
         "link": "https://www.zhangxinxu.com/wordpress/2021/03/input-time/",
         "date": "2021-03-31"

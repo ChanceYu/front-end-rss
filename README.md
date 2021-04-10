@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-09 12:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-10 18:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) ![](assets/new.png)  
 - [2021-03-31-分享下input-time输入框的细节知识](https://www.zhangxinxu.com/wordpress/2021/03/input-time/)  
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/)  
 - [2021-03-14-CSS-line-height-step属性简介](https://www.zhangxinxu.com/wordpress/2021/03/css-line-height-step/)  
@@ -176,7 +177,6 @@
 - [2021-02-06-使用::part伪元素改变Shadow-DOM的CSS样式](https://www.zhangxinxu.com/wordpress/2021/02/css-part-shadow-dom/)  
 - [2021-01-27-一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/)  
 - [2021-01-21-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/)  
-- [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html) ![](assets/new.png)  
+- [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)  
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)  
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)  
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)  
