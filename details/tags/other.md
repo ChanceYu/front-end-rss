@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-12 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-13 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -913,6 +913,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-04-12-这-40-多家科技企业，你最想加入哪一家？](https://www.ershicimi.com/p/58c9d322620820fa32b1e858f0e0da56) 
+- [2021-04-12-如何用-1-年获得大厂-3-年实战经验？-|-活动推荐](https://www.ershicimi.com/p/e1bc54ec154a0bf2f91d616656fbfb5c) 
 - [2021-04-11-阿里因“二选一”垄断行为被罚182亿；京东等10家平台承诺不用大数据杀熟；Android加入了对Ru](https://www.ershicimi.com/p/a2e2179e61c40d28c8e70bcc4790e8ef) 
 - [2021-04-10-哥们，这年头，咱客户端工程师还有前途吗？](https://www.ershicimi.com/p/c7cac79ce5fa3884523fc40fcf32a096) 
 - [2021-04-09-InfoQ独家报告《制造业数字化发展模式的先进探索》|免费下载](https://www.ershicimi.com/p/fb278db5b8401b09b2a603ac6f2824fe) 
