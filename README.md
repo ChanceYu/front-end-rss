@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-13 22:00:13，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-15 06:00:15，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,13 @@
 </summary>
 
 
+- [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62) ![](assets/new.png)  
+- [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826) ![](assets/new.png)  
+- [2021-04-13-【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d) ![](assets/new.png)  
+- [2021-04-13-【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985) ![](assets/new.png)  
+- [2021-04-12-【第2251期】Matomo-从了解到落地——页面流量统计与分析最佳实践](https://www.ershicimi.com/p/be4ed0c6160ee2585ecaf8ff804ca77a) ![](assets/new.png)  
+- [2021-04-12-【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae) ![](assets/new.png)  
+- [2021-04-11-【第2250期】如何提高CSS性能](https://www.ershicimi.com/p/e00d808318968d96a09806096ae45584) ![](assets/new.png)  
 - [2021-04-10-【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44)  
 - [2021-04-10-【招聘】广州微信读书团队招聘前端工程师和-IOS-客户端（专家）工程师](https://www.ershicimi.com/p/d07660c2ef7fad8f3b5ca7f1eac72850)  
 - [2021-04-09-是谁说大厂招人只看学历的？](https://www.ershicimi.com/p/9c0f175474d0fda5bbcfc11af9fd50e1)  
@@ -46,13 +53,6 @@
 - [2021-04-06-【开源】京东-vue3-组件库震撼升级，如约而至！](https://www.ershicimi.com/p/44695e45fe9fc46bcc00e12398401c7c)  
 - [2021-04-02-【第2244期】百家号在线视频编辑器的技术演进](https://www.ershicimi.com/p/fe99b7c024c36f8c58011cdf1afeecea)  
 - [2021-04-02-【招聘】美团民宿业务部招前端开发工程师](https://www.ershicimi.com/p/92e4cbb05abbc0c27b661d8e48695689)  
-- [2021-04-02-【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1)  
-- [2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8)  
-- [2021-04-01-【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533)  
-- [2021-03-31-【第2242期】TypeScript类型编写指南之下篇](https://www.ershicimi.com/p/39bcb8d3da8089a4641df45c74466341)  
-- [2021-03-30-【第2241期】TypeScript类型编写指南之上篇](https://www.ershicimi.com/p/13d4a37e1b5a91a8b846896cafeac31e)  
-- [2021-03-29-【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1)  
-- [2021-03-29-【招聘】阿里云企业IT治理工作台团队招聘前端开发工程师](https://www.ershicimi.com/p/7291fd28dc6523d8960198523a37d9a5)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-04-13-955-+-在家办公，是一种什么体验？](https://www.ershicimi.com/p/1f8b9b434e5e91adbe6f0b880e9c5b84) ![](assets/new.png)  
-- [2021-04-13-揭示-useCallback-的问题和隐患并给出解决方案](https://www.ershicimi.com/p/225d073b2529611cb073a1ac3acf2ddc) ![](assets/new.png)  
-- [2021-04-13-前端每日一题-#76](https://www.ershicimi.com/p/73f0b8df70a52715018584be38dcbfbc) ![](assets/new.png)  
-- [2021-04-13-设计灵感：-12组家具App界面设计](https://www.ershicimi.com/p/ac0d903eb13478179e4ae73f88225242) ![](assets/new.png)  
+- [2021-04-13-955-+-在家办公，是一种什么体验？](https://www.ershicimi.com/p/1f8b9b434e5e91adbe6f0b880e9c5b84)  
+- [2021-04-13-揭示-useCallback-的问题和隐患并给出解决方案](https://www.ershicimi.com/p/225d073b2529611cb073a1ac3acf2ddc)  
+- [2021-04-13-前端每日一题-#76](https://www.ershicimi.com/p/73f0b8df70a52715018584be38dcbfbc)  
+- [2021-04-13-设计灵感：-12组家具App界面设计](https://www.ershicimi.com/p/ac0d903eb13478179e4ae73f88225242)  
 - [2021-04-12-大厂面试常问的-Vue-和-React-源码怎么学？](https://www.ershicimi.com/p/ab7a2611a8882f791def356f03503362)  
 - [2021-04-12-金三银四的前端社招面经](https://www.ershicimi.com/p/f51645c5e3ee7a5a9cda42961c6cade4)  
 - [2021-04-12-前端每日一题-#75](https://www.ershicimi.com/p/b0a35193a2cfcfe2b3a3d1a867be7c30)  
