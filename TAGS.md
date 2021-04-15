@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-15 06:00:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-15 08:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -470,6 +470,7 @@
 
 
 
+- [【前端早读课】【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741)
 - [【前端早读课】【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44)
 - [【前端早读课】【第2161期】2020-Web-Almanac网络年鉴之性能](https://www.ershicimi.com/p/3b80d87a7ca9e79dfd4cc2ac3c3632d8)
 - [【前端早读课】【第2151期】当我们谈前端性能的时候，我们谈的是什么](https://www.ershicimi.com/p/3e94acf908844a3d66b9acfe3c0229d4)
@@ -489,7 +490,6 @@
 - [【前端早读课】【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)
 - [【前端早读课】【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)
 - [【前端早读课】【第1874期】阿里国际-redirect性能优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235857&idx=2&sn=e278848b05354f81319bc94fd87472f5&chksm=bd497f958a3ef683625e73bc486908b6a9a75aef2abc4a317ba444ea1badf6d995362b7e226c&scene=27#wechat_redirect)
-- [【前端早读课】【第1851期】Web性能领域常见的专业术语](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235661&idx=1&sn=fb3d528c5259fbc388fab7ab683fd07d&chksm=bd497cc98a3ef5dff3ac41a89cb25d0395cbdb638eaca0aa62a041c131d34e27cfbd07c8ba27&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5)
 - [【前端早读课】【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d)
 - [【前端早读课】【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985)
 - [【前端早读课】【第2251期】Matomo-从了解到落地——页面流量统计与分析最佳实践](https://www.ershicimi.com/p/be4ed0c6160ee2585ecaf8ff804ca77a)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2227期】逻辑编排在优酷可视化搭建中的实践之下](https://www.ershicimi.com/p/963b179428c83fc5f2d9d8e9c0a27f64)
 - [【前端早读课】【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec)
 - [【前端早读课】【第2225期】开发者如何缓解焦虑提升效率？来自心理学研究者的建议](https://www.ershicimi.com/p/9df7db498d7a2eba3a5c6d719ca5c684)
-- [【前端早读课】【第2223期】探索微前端的场景极限](https://www.ershicimi.com/p/5fdaef89d16ff96ab8a024d9abab647e)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
