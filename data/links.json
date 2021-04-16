@@ -14854,6 +14854,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "深度解读便利蜂 React Native 多版本共存的平滑升级实践",
+        "link": "https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "程序开发人员缺乏经验的7种表现",
+        "link": "https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2",
+        "date": "2021-04-14"
+      },
+      {
+        "title": "Web 加速，协议先行！ | 极客时间",
+        "link": "https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47",
+        "date": "2021-04-14"
+      },
+      {
         "title": "2021年，Flutter 与 React Native该如何选择？",
         "link": "https://www.ershicimi.com/p/34bb685a09420346000384454a71b0c1",
         "date": "2021-04-12"
@@ -22809,6 +22824,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",
+        "date": "2021-04-16"
+      },
       {
         "title": "科技爱好者周刊（第 153 期）：机器翻译是对译者的侮辱吗？",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html",

@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-15 22:00:32，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-16 12:00:12，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,13 +64,13 @@
 </summary>
 
 
-- [2021-04-15-密：美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/5656b14a68e1d9d36077602a8870d8f8) ![](assets/new.png)  
-- [2021-04-15-1.5-万字-CSS-基础拾遗](https://www.ershicimi.com/p/2c0b812a994a764b9789cb871b942c1b) ![](assets/new.png)  
-- [2021-04-15-前端每日一题-#78](https://www.ershicimi.com/p/0a0ab8cb836548cdba801541aa5d08a1) ![](assets/new.png)  
-- [2021-04-14-当面试官问Webpack的时候他想知道什么](https://www.ershicimi.com/p/ae06371ac0b3bb389e69dfdacfa22113) ![](assets/new.png)  
-- [2021-04-14-用-react-query-解决你一半的状态管理问题](https://www.ershicimi.com/p/ce56796435163d8a7ab0a0ca5480aa98) ![](assets/new.png)  
-- [2021-04-14-前端每日一题-#77](https://www.ershicimi.com/p/fcca2b33fff24b88dcb3f3192a021669) ![](assets/new.png)  
-- [2021-04-14-设计灵感：12组微拟物风格的音乐App设计](https://www.ershicimi.com/p/e63bbf3cc13c1bf24d438343f49f8d34) ![](assets/new.png)  
+- [2021-04-15-密：美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/5656b14a68e1d9d36077602a8870d8f8)  
+- [2021-04-15-1.5-万字-CSS-基础拾遗](https://www.ershicimi.com/p/2c0b812a994a764b9789cb871b942c1b)  
+- [2021-04-15-前端每日一题-#78](https://www.ershicimi.com/p/0a0ab8cb836548cdba801541aa5d08a1)  
+- [2021-04-14-当面试官问Webpack的时候他想知道什么](https://www.ershicimi.com/p/ae06371ac0b3bb389e69dfdacfa22113)  
+- [2021-04-14-用-react-query-解决你一半的状态管理问题](https://www.ershicimi.com/p/ce56796435163d8a7ab0a0ca5480aa98)  
+- [2021-04-14-前端每日一题-#77](https://www.ershicimi.com/p/fcca2b33fff24b88dcb3f3192a021669)  
+- [2021-04-14-设计灵感：12组微拟物风格的音乐App设计](https://www.ershicimi.com/p/e63bbf3cc13c1bf24d438343f49f8d34)  
 - [2021-04-13-955-+-在家办公，是一种什么体验？](https://www.ershicimi.com/p/1f8b9b434e5e91adbe6f0b880e9c5b84)  
 - [2021-04-13-揭示-useCallback-的问题和隐患并给出解决方案](https://www.ershicimi.com/p/225d073b2529611cb073a1ac3acf2ddc)  
 - [2021-04-13-前端每日一题-#76](https://www.ershicimi.com/p/73f0b8df70a52715018584be38dcbfbc)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955) ![](assets/new.png)  
+- [2021-04-14-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2) ![](assets/new.png)  
+- [2021-04-14-Web-加速，协议先行！-|-极客时间](https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47) ![](assets/new.png)  
 - [2021-04-12-2021年，Flutter-与-React-Native该如何选择？](https://www.ershicimi.com/p/34bb685a09420346000384454a71b0c1)  
 - [2021-04-12-这-40-多家科技企业，你最想加入哪一家？](https://www.ershicimi.com/p/58c9d322620820fa32b1e858f0e0da56)  
 - [2021-04-12-如何用-1-年获得大厂-3-年实战经验？-|-活动推荐](https://www.ershicimi.com/p/e1bc54ec154a0bf2f91d616656fbfb5c)  
@@ -112,9 +115,6 @@
 - [2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa)  
 - [2021-04-02-玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea)  
 - [2021-03-31-Deno-成立公司，获得-490-万美元种子资金](https://www.ershicimi.com/p/dbfd3ebecc480e00c7bf1cd8a42314ca)  
-- [2021-03-31-怎样写出可读性高的代码？](https://www.ershicimi.com/p/1d572936e8d1a468486dd013e1b2db4a)  
-- [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653)  
-- [2021-03-29-一个前端智能化从业者眼中的低代码/无代码](https://www.ershicimi.com/p/c50e383eeb4ce804057b3a3cb029851e)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) ![](assets/new.png)  
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)  
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)  
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)  
@@ -207,7 +208,6 @@
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)  
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)  
 - [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)  
-- [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
