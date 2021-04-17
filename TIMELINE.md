@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-16 12:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-17 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,10 @@
 </summary>
 
 
+- [【前端早读课】2021-04-17-【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0) 
+- [【前端早读课】2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610) 
+- [【前端早读课】2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362) 
+- [【前端早读课】2021-04-16-【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c) 
 - [【前端早读课】2021-04-15-【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741) 
 - [【前端早读课】2021-04-15-美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5) 
 - [【前端早读课】2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62) 

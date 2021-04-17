@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-16 12:00:12，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-17 08:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,10 @@
 </summary>
 
 
+- [2021-04-17-【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0) ![](assets/new.png)  
+- [2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610) ![](assets/new.png)  
+- [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362) ![](assets/new.png)  
+- [2021-04-16-【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c) ![](assets/new.png)  
 - [2021-04-15-【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741)  
 - [2021-04-15-美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5)  
 - [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62)  
@@ -49,10 +53,6 @@
 - [2021-04-09-【活动】高德技术开放日---聊聊技术与成长那些事，锁定4月10日](https://www.ershicimi.com/p/a663b9d082c8005bd6c417132d9e6b33)  
 - [2021-04-08-【第2247期】99%-开发者没弄明白的-babel-知识](https://www.ershicimi.com/p/f5fd8781c4dd9af41774714dff65dda6)  
 - [2021-04-07-【第2246期】多端复用框架的原理与实践](https://www.ershicimi.com/p/a109c112224263c73bae31be617feaed)  
-- [2021-04-07-【招聘】深圳orRemote-XMind招聘按时下班/远程办公的践行者](https://www.ershicimi.com/p/704cdc32876424fc551584d2a8a0929e)  
-- [2021-04-06-Vue-和-React-深度区别分析](https://www.ershicimi.com/p/b1fa2d93745a6f0274f0be35a3f5872f)  
-- [2021-04-06-【第2245期】Worktile-前端工程化之路](https://www.ershicimi.com/p/60f6981990916ddcb7d974692d14f498)  
-- [2021-04-06-【开源】京东-vue3-组件库震撼升级，如约而至！](https://www.ershicimi.com/p/44695e45fe9fc46bcc00e12398401c7c)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,9 +95,9 @@
 </summary>
 
 
-- [2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955) ![](assets/new.png)  
-- [2021-04-14-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2) ![](assets/new.png)  
-- [2021-04-14-Web-加速，协议先行！-|-极客时间](https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47) ![](assets/new.png)  
+- [2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955)  
+- [2021-04-14-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2)  
+- [2021-04-14-Web-加速，协议先行！-|-极客时间](https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47)  
 - [2021-04-12-2021年，Flutter-与-React-Native该如何选择？](https://www.ershicimi.com/p/34bb685a09420346000384454a71b0c1)  
 - [2021-04-12-这-40-多家科技企业，你最想加入哪一家？](https://www.ershicimi.com/p/58c9d322620820fa32b1e858f0e0da56)  
 - [2021-04-12-如何用-1-年获得大厂-3-年实战经验？-|-活动推荐](https://www.ershicimi.com/p/e1bc54ec154a0bf2f91d616656fbfb5c)  
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html) ![](assets/new.png)  
+- [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)  
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)  
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)  
 - [2021-03-26-科技爱好者周刊（第-151-期）：NFT-是什么，听说能赚钱](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html)  

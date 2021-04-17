@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-16 12:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-17 08:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362)
 - [【前端早读课】【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f)
 - [【前端早读课】【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa)
 - [【前端早读课】【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第2167期】埋点自动收集方案-路由依赖分析](https://www.ershicimi.com/p/37f3a1fea04ee65d0e70d747db49c693)
 - [【前端早读课】【第2163期】增量-DOM-与虚拟-DOM-的对比使用](https://www.ershicimi.com/p/ac8532bf0851e1a69e57c07a1b4f6fdb)
 - [【前端早读课】【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3)
-- [【前端早读课】【第2150期】JavaScript的面向切面编程](https://www.ershicimi.com/p/d662be52f1d3ff530947c79bd02faa95)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c)
 - [【前端早读课】【第2250期】如何提高CSS性能](https://www.ershicimi.com/p/e00d808318968d96a09806096ae45584)
 - [【前端早读课】【第2211期】Tailwind-CSS-（可能）是名过其实的](https://www.ershicimi.com/p/3437a9f350db5a080007e98b86056234)
 - [【前端早读课】【第2210期】使用-CSS-创造艺术](https://www.ershicimi.com/p/45d6962e9a4007e158acaba5bf276ceb)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第2100期】2020年你不应该错过的CSS新特性](https://www.ershicimi.com/p/550bcbd28ec5eb56aa68c7c210631376)
 - [【前端早读课】【第2093期】权威指南：Serverless-未来十年发展解读（下）](https://www.ershicimi.com/p/bc4302e3edee1ebe024dc40ae993d568)
 - [【前端早读课】【第2092期】权威指南：Serverless-未来十年发展解读（上）](https://www.ershicimi.com/p/9f8301daf2f63233efc3db0009425313)
-- [【前端早读课】【第2073期】content-visibility:-一个可以提高渲染性能的css属性](https://www.ershicimi.com/p/76746dc2d9d8603d46fd866857261573)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 
 
 
+- [【前端早读课】【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610)
 - [【前端早读课】【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae)
 - [【前端早读课】【招聘】广州微信读书团队招聘前端工程师和-IOS-客户端（专家）工程师](https://www.ershicimi.com/p/d07660c2ef7fad8f3b5ca7f1eac72850)
 - [【前端早读课】【招聘】深圳orRemote-XMind招聘按时下班/远程办公的践行者](https://www.ershicimi.com/p/704cdc32876424fc551584d2a8a0929e)
@@ -669,7 +670,6 @@
 - [【前端早读课】【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e)
 - [【前端早读课】【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师](https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44)
 - [【前端早读课】【招聘】蚂蚁金服体验技术部地平线招聘p5~p8前端](https://www.ershicimi.com/p/3c64b714fe791757274ed726ab2e74af)
-- [【前端早读课】【招聘】蘑菇街-锐鲨科技招前端开发工程师](https://www.ershicimi.com/p/c133a31506f6852705cd275f0d5389cc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0)
 - [【前端早读课】美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5)
 - [【前端早读课】【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d)
 - [【前端早读课】【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985)
@@ -739,7 +740,6 @@
 - [【前端早读课】前端可视化进阶全路径](https://www.ershicimi.com/p/66fbf0810abfca415db4876e9d86ffb2)
 - [【前端早读课】【第2227期】逻辑编排在优酷可视化搭建中的实践之下](https://www.ershicimi.com/p/963b179428c83fc5f2d9d8e9c0a27f64)
 - [【前端早读课】【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec)
-- [【前端早读课】【第2225期】开发者如何缓解焦虑提升效率？来自心理学研究者的建议](https://www.ershicimi.com/p/9df7db498d7a2eba3a5c6d719ca5c684)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
