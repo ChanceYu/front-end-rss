@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-17 22:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-18 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -229,6 +229,9 @@
 - [【前端大全】2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) 
 - [【前端大全】2021-04-01-万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae) 
 - [【前端大全】2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b) 
+- [【前端之巅】2021-04-16-FreeWheel-图表可视化测试的实践](https://www.ershicimi.com/p/1547e446ec00e31a33da0691197fabb8) 
+- [【前端之巅】2021-04-16-IDEA-2021年首个新版本发布，重要更新速览](https://www.ershicimi.com/p/1fd3c08ba3e8f79ece14d98eecfcba29) 
+- [【前端之巅】2021-04-16-TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0) 
 - [【前端之巅】2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955) 
 - [【前端之巅】2021-04-14-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2) 
 - [【前端之巅】2021-04-14-Web-加速，协议先行！-|-极客时间](https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47) 
