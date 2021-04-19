@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 22:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -164,6 +164,8 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2021-04-19-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/4b58f39773d43c770aad7b9fbe351e78) 
+- [2021-04-18-帮你彻底搞懂-JS-中的-prototype、__proto__与constructor（图解）](https://www.ershicimi.com/p/f9feebb1b55f9a0a107b0e293af00938) 
 - [2021-04-16-中高级前端必须注意的-40-条移动端-H5-坑位指南-|-网易三年实践](https://www.ershicimi.com/p/56a3f307793d15c7d4a89c782fe3ebbc) 
 - [2021-04-11-JS-语法-ES6、ES7、ES8、ES9、ES10、ES11、ES12新特性](https://www.ershicimi.com/p/d9b63b1a413fbf70acfd83874e26a0a3) 
 - [2021-04-08-字节跳动最爱考的前端面试题：JavaScript-基础](https://www.ershicimi.com/p/ff23a154f7f91e60a473d165fb55fa31) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-18 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-19 22:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -440,6 +440,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-04-19-7-个实战技巧帮你提升前端技术水平](https://www.ershicimi.com/p/38ea9176a7e01449bcdb9c7a1c5fa4e8) 
+- [2021-04-19-前端每日一题-#82](https://www.ershicimi.com/p/9382fe2e5041f87e57de95a06bcd058e) 
+- [2021-04-19-设计灵感：12组充满个性的404网页设计](https://www.ershicimi.com/p/ef625df69a2087d5f93d8890bbe5bf8c) 
+- [2021-04-18-前端每日一题-#81](https://www.ershicimi.com/p/6cd8825c4a089969ed0cc22db24662f9) 
 - [2021-04-17-万字长文：Proxy-和-Reflect](https://www.ershicimi.com/p/1635166b2485bcf5a703acb57e280445) 
 - [2021-04-17-前端每日一题-#80](https://www.ershicimi.com/p/3fd870307e331b38e2eb83442b7092d8) 
 - [2021-04-16-放弃-996-后，竟给涨薪-30%.....](https://www.ershicimi.com/p/7fe22299166a9fbdc438361a925767b3) 
