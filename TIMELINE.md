@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-19 22:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-20 08:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,12 @@
 </summary>
 
 
+- [【前端早读课】2021-04-20-【第2259期】深入理解web协议：http-包体传输](https://www.ershicimi.com/p/b0f07714cf86316ff069f1a244d82909) 
+- [【前端早读课】2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) 
+- [【前端早读课】2021-04-19-【第2258期】新一代构建工具对比](https://www.ershicimi.com/p/f615ac506625b9ce04ad31a89c055a02) 
+- [【前端早读课】2021-04-19-【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3) 
+- [【前端早读课】2021-04-18-【第2257期】单元测试最佳实践](https://www.ershicimi.com/p/940aaf1e1e2452a220dfc638ba39cee4) 
+- [【前端早读课】2021-04-18-【招聘】北京好未来-学而思网校-增长研发团队招高级/资深/专家前端开发工程师](https://www.ershicimi.com/p/0b647eec93405792800638d9784dac81) 
 - [【前端早读课】2021-04-17-【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0) 
 - [【前端早读课】2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610) 
 - [【前端早读课】2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362) 

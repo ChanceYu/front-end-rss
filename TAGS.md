@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-19 22:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-20 08:00:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -146,6 +146,7 @@
 
 
 
+- [【前端早读课】【第2258期】新一代构建工具对比](https://www.ershicimi.com/p/f615ac506625b9ce04ad31a89c055a02)
 - [【前端早读课】【第2247期】99%-开发者没弄明白的-babel-知识](https://www.ershicimi.com/p/f5fd8781c4dd9af41774714dff65dda6)
 - [【前端早读课】【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533)
 - [【前端早读课】【第2222期】下一代前端构建工具-ViteJS-技术解读](https://www.ershicimi.com/p/548c42b015268d12fff530b4774415a7)
@@ -165,7 +166,6 @@
 - [【前端早读课】前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd)
 - [【前端早读课】【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect)
 - [【前端早读课】【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd)
-- [【前端早读课】【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297)
 - [【前端早读课】【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362)
 - [【前端早读课】【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f)
 - [【前端早读课】【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa)
@@ -345,7 +346,6 @@
 - [【前端早读课】两小时搞定ES6：原理讲解+项目实战](https://www.ershicimi.com/p/0f02749522e52c03ddf87b7d335a0493)
 - [【前端早读课】【第2167期】埋点自动收集方案-路由依赖分析](https://www.ershicimi.com/p/37f3a1fea04ee65d0e70d747db49c693)
 - [【前端早读课】【第2163期】增量-DOM-与虚拟-DOM-的对比使用](https://www.ershicimi.com/p/ac8532bf0851e1a69e57c07a1b4f6fdb)
-- [【前端早读课】【4/121】在其他处理程序中附加事件处理程序](https://www.ershicimi.com/p/afff6fd88b87579fd5066ae69c2194f3)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -542,6 +542,7 @@
 
 
 
+- [【前端早读课】【第2259期】深入理解web协议：http-包体传输](https://www.ershicimi.com/p/b0f07714cf86316ff069f1a244d82909)
 - [【前端早读课】【招聘】SmartX招web前端、web全栈](https://www.ershicimi.com/p/9242afeaf525d42c0b067129bb88ed65)
 - [【前端早读课】【招聘】元气森林创新事业部招全栈工程师](https://www.ershicimi.com/p/8c47797f57fbca0d634cb964780f486c)
 - [【前端早读课】每天都在使用的-HTTP-协议，到底是什么](https://www.ershicimi.com/p/d0a5387da49b930125a64dca71462a92)
@@ -561,7 +562,6 @@
 - [【前端早读课】【第1730期】把网站升级到http/2](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233885&idx=1&sn=9625c3f1f913816b17a4f18499e6d8e0&chksm=bd4947d98a3ececfc3537b8699d1f08cabc7acaebeb014e84a9a72a4976e7248ca12328544c2#rd)
 - [【前端早读课】【第1712期】HTTP协议理解及服务端与客户端的设计实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233590&idx=1&sn=73d7fe9a02252b0c73494f5618f5ad62&chksm=bd4944b28a3ecda49ffcc366c6309862a7fe3be35f6e9921c237a5be60641e66ea6a7df1eb5d&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】硅谷AI外企Hiretual招互联网全栈研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233330&idx=2&sn=91859ed99e9bbbdd3c3e4ed5efb06a03&chksm=bd4945b68a3ecca0bbb937c12df2093a9b859a746ec628d6819085a12edf24028af3ddd6af12#rd)
-- [【前端早读课】【第1595期】可能是最被误用的-HTTP-响应头之一-Cache-Control:-must-revalidate](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232110&idx=1&sn=3eeebd3724b3ba68c05e224a0b414026#rd)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -650,6 +650,8 @@
 
 
 
+- [【前端早读课】【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3)
+- [【前端早读课】【招聘】北京好未来-学而思网校-增长研发团队招高级/资深/专家前端开发工程师](https://www.ershicimi.com/p/0b647eec93405792800638d9784dac81)
 - [【前端早读课】【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610)
 - [【前端早读课】【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae)
 - [【前端早读课】【招聘】广州微信读书团队招聘前端工程师和-IOS-客户端（专家）工程师](https://www.ershicimi.com/p/d07660c2ef7fad8f3b5ca7f1eac72850)
@@ -668,8 +670,6 @@
 - [【前端早读课】【招聘】美团到店事业群-住宿门票研发团队招高级/资深前端工程师](https://www.ershicimi.com/p/bb5885d815874793a4d63fcb6832e1c7)
 - [【前端早读课】【招聘】阿里大文娱招高级前端开发/技术专家](https://www.ershicimi.com/p/86233692af31dc54f76f460672fde0e1)
 - [【前端早读课】【招聘】字节飞书增长与平台团队招高级、资深前后端工程师](https://www.ershicimi.com/p/9919493d554ee89586cf8c4cd131056e)
-- [【前端早读课】【招聘】腾讯VTeam技术团队招前端、应用、后台开发工程师](https://www.ershicimi.com/p/92a79306c4c3ecbda8929a18a6b35a44)
-- [【前端早读课】【招聘】蚂蚁金服体验技术部地平线招聘p5~p8前端](https://www.ershicimi.com/p/3c64b714fe791757274ed726ab2e74af)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2257期】单元测试最佳实践](https://www.ershicimi.com/p/940aaf1e1e2452a220dfc638ba39cee4)
 - [【前端早读课】【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0)
 - [【前端早读课】美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5)
 - [【前端早读课】【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d)
@@ -739,7 +740,6 @@
 - [【前端早读课】【图书】活文档：与代码共同演进](https://www.ershicimi.com/p/97ab30bce7cf0a5c6da975cd5a25fe43)
 - [【前端早读课】前端可视化进阶全路径](https://www.ershicimi.com/p/66fbf0810abfca415db4876e9d86ffb2)
 - [【前端早读课】【第2227期】逻辑编排在优酷可视化搭建中的实践之下](https://www.ershicimi.com/p/963b179428c83fc5f2d9d8e9c0a27f64)
-- [【前端早读课】【第2226期】逻辑编排在优酷可视化搭建中的实践之上](https://www.ershicimi.com/p/da6e696030786ed65bc3c67fac1cdaec)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-19 22:00:18，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-20 08:00:10，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,12 @@
 </summary>
 
 
+- [2021-04-20-【第2259期】深入理解web协议：http-包体传输](https://www.ershicimi.com/p/b0f07714cf86316ff069f1a244d82909) ![](assets/new.png)  
+- [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) ![](assets/new.png)  
+- [2021-04-19-【第2258期】新一代构建工具对比](https://www.ershicimi.com/p/f615ac506625b9ce04ad31a89c055a02) ![](assets/new.png)  
+- [2021-04-19-【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3) ![](assets/new.png)  
+- [2021-04-18-【第2257期】单元测试最佳实践](https://www.ershicimi.com/p/940aaf1e1e2452a220dfc638ba39cee4) ![](assets/new.png)  
+- [2021-04-18-【招聘】北京好未来-学而思网校-增长研发团队招高级/资深/专家前端开发工程师](https://www.ershicimi.com/p/0b647eec93405792800638d9784dac81) ![](assets/new.png)  
 - [2021-04-17-【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0)  
 - [2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610)  
 - [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362)  
@@ -47,12 +53,6 @@
 - [2021-04-12-【招聘】深圳在线教育领军企业荔枝微课招高级前端啦！](https://www.ershicimi.com/p/9a89fc18f25e9662413e576276a222ae)  
 - [2021-04-11-【第2250期】如何提高CSS性能](https://www.ershicimi.com/p/e00d808318968d96a09806096ae45584)  
 - [2021-04-10-【第2249期】美团民宿性能优化实践](https://www.ershicimi.com/p/050c3b96cb505971bf5d55d4944c6d44)  
-- [2021-04-10-【招聘】广州微信读书团队招聘前端工程师和-IOS-客户端（专家）工程师](https://www.ershicimi.com/p/d07660c2ef7fad8f3b5ca7f1eac72850)  
-- [2021-04-09-是谁说大厂招人只看学历的？](https://www.ershicimi.com/p/9c0f175474d0fda5bbcfc11af9fd50e1)  
-- [2021-04-09-【第2248期】安全背后:-浏览器是如何校验证书的](https://www.ershicimi.com/p/a317d7a755c0441175e56fc615802364)  
-- [2021-04-09-【活动】高德技术开放日---聊聊技术与成长那些事，锁定4月10日](https://www.ershicimi.com/p/a663b9d082c8005bd6c417132d9e6b33)  
-- [2021-04-08-【第2247期】99%-开发者没弄明白的-babel-知识](https://www.ershicimi.com/p/f5fd8781c4dd9af41774714dff65dda6)  
-- [2021-04-07-【第2246期】多端复用框架的原理与实践](https://www.ershicimi.com/p/a109c112224263c73bae31be617feaed)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,13 +64,13 @@
 </summary>
 
 
-- [2021-04-19-7-个实战技巧帮你提升前端技术水平](https://www.ershicimi.com/p/38ea9176a7e01449bcdb9c7a1c5fa4e8) ![](assets/new.png)  
-- [2021-04-19-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/4b58f39773d43c770aad7b9fbe351e78) ![](assets/new.png)  
-- [2021-04-19-前端每日一题-#82](https://www.ershicimi.com/p/9382fe2e5041f87e57de95a06bcd058e) ![](assets/new.png)  
-- [2021-04-19-设计灵感：12组充满个性的404网页设计](https://www.ershicimi.com/p/ef625df69a2087d5f93d8890bbe5bf8c) ![](assets/new.png)  
-- [2021-04-18-帮你彻底搞懂-JS-中的-prototype、__proto__与constructor（图解）](https://www.ershicimi.com/p/f9feebb1b55f9a0a107b0e293af00938) ![](assets/new.png)  
-- [2021-04-18-一份关于-vue-cli3-项目常用项配置](https://www.ershicimi.com/p/d2f9c21789e4fcf8ffc817559ff80a78) ![](assets/new.png)  
-- [2021-04-18-前端每日一题-#81](https://www.ershicimi.com/p/6cd8825c4a089969ed0cc22db24662f9) ![](assets/new.png)  
+- [2021-04-19-7-个实战技巧帮你提升前端技术水平](https://www.ershicimi.com/p/38ea9176a7e01449bcdb9c7a1c5fa4e8)  
+- [2021-04-19-这样入门-js-抽象语法树AST，从此我来到了一个新世界](https://www.ershicimi.com/p/4b58f39773d43c770aad7b9fbe351e78)  
+- [2021-04-19-前端每日一题-#82](https://www.ershicimi.com/p/9382fe2e5041f87e57de95a06bcd058e)  
+- [2021-04-19-设计灵感：12组充满个性的404网页设计](https://www.ershicimi.com/p/ef625df69a2087d5f93d8890bbe5bf8c)  
+- [2021-04-18-帮你彻底搞懂-JS-中的-prototype、__proto__与constructor（图解）](https://www.ershicimi.com/p/f9feebb1b55f9a0a107b0e293af00938)  
+- [2021-04-18-一份关于-vue-cli3-项目常用项配置](https://www.ershicimi.com/p/d2f9c21789e4fcf8ffc817559ff80a78)  
+- [2021-04-18-前端每日一题-#81](https://www.ershicimi.com/p/6cd8825c4a089969ed0cc22db24662f9)  
 - [2021-04-17-万字长文：Proxy-和-Reflect](https://www.ershicimi.com/p/1635166b2485bcf5a703acb57e280445)  
 - [2021-04-17-聊聊-Webpack-热更新以及原理](https://www.ershicimi.com/p/6f59e6a2d8d1f1dc738e238731d91aba)  
 - [2021-04-17-前端每日一题-#80](https://www.ershicimi.com/p/3fd870307e331b38e2eb83442b7092d8)  
