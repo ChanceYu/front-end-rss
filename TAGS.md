@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-22 12:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-22 18:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -128,8 +128,8 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】TypeScript-高级用法](https://www.ershicimi.com/p/14c1a35098cf256e72feff582fe67e30)
 - [【前端大全】TypeScript-4.2-有哪些新特性？](https://www.ershicimi.com/p/023ed2eeb4bc48db809bf07ec284ab4f)
-- [【前端大全】Node.js-+-typescript-写一个命令批处理辅助工具](https://www.ershicimi.com/p/652dcb6fc7c7d6760508a372d05bef0f)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -686,6 +686,7 @@
 
 
 
+- [【前端大全】面向对象：牵牢我的手，你会发现，生活就是一个万花筒，五彩缤纷，刺激又有趣哟](https://www.ershicimi.com/p/c7be43d3cb9107d0094b3b11e59684ac)
 - [【前端大全】面向对象：真心想找一位有缘人！两人三餐四季，共度余生！](https://www.ershicimi.com/p/c585d6d12b0da8007db62f0d63d524c0)
 - [【前端大全】面向对象：希望找个我喜欢的，和喜欢我的小哥哥](https://www.ershicimi.com/p/ae47a9c6f23f3b107f170991c2cf1d3f)
 - [【前端大全】面向对象：跟相互喜欢的小哥哥，长长的路慢慢走](https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9)
@@ -705,7 +706,6 @@
 - [【前端大全】面向对象：一个不矫情造作的南方妹子，希望遇到一个乐观的人](https://www.ershicimi.com/p/0f74231e4f68123928128251fc78abeb)
 - [【前端大全】面向对象：希望遇到低调温和，正能量的你](https://www.ershicimi.com/p/faecd62d37031547f503300d206a9ef5)
 - [【前端大全】面向对象：带点文艺的理工女，寻找真诚上进的你](https://www.ershicimi.com/p/a99c242ab5083719dbd0afed684885d0)
-- [【前端大全】面向对象：不太爱运动的女孩，需要有个人带哦](https://www.ershicimi.com/p/123edbd1acc88db9f988b4c0fa1cef59)
 - [......【查看更多】......](./details/tags/oop.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
