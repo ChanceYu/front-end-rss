@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-21 18:00:10，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-22 12:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b) ![](assets/new.png)  
 - [2021-04-21-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89)  
 - [2021-04-21-【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699)  
 - [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6)  
@@ -52,7 +53,6 @@
 - [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826)  
 - [2021-04-13-【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d)  
 - [2021-04-13-【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985)  
-- [2021-04-12-【第2251期】Matomo-从了解到落地——页面流量统计与分析最佳实践](https://www.ershicimi.com/p/be4ed0c6160ee2585ecaf8ff804ca77a)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-04-21-前端工程化实战指南，进阶必备](https://www.ershicimi.com/p/5d7719a0ac8402059df523413c169c76) ![](assets/new.png)  
-- [2021-04-21-Streams-权威指南](https://www.ershicimi.com/p/b5a963adcf4183577f8c1582e08ebba6) ![](assets/new.png)  
-- [2021-04-21-前端每日一题-#84](https://www.ershicimi.com/p/327bb3f6bdc6e2e810b672e86144f18a) ![](assets/new.png)  
-- [2021-04-21-设计灵感：12组手机银行App界面设计](https://www.ershicimi.com/p/f912da9ec165e8f7c192509227bc6534) ![](assets/new.png)  
+- [2021-04-21-前端工程化实战指南，进阶必备](https://www.ershicimi.com/p/5d7719a0ac8402059df523413c169c76)  
+- [2021-04-21-Streams-权威指南](https://www.ershicimi.com/p/b5a963adcf4183577f8c1582e08ebba6)  
+- [2021-04-21-前端每日一题-#84](https://www.ershicimi.com/p/327bb3f6bdc6e2e810b672e86144f18a)  
+- [2021-04-21-设计灵感：12组手机银行App界面设计](https://www.ershicimi.com/p/f912da9ec165e8f7c192509227bc6534)  
 - [2021-04-20-手写一个-webpack，看看-AST-怎么用](https://www.ershicimi.com/p/8b6a701b1fc7fde77a121868407d6651)  
 - [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](https://www.ershicimi.com/p/158769aa3fe41cbce92bdbdc146dad38)  
 - [2021-04-20-前端每日一题-#83](https://www.ershicimi.com/p/d1bb270fbf99956d0e7d400b87a6cea2)  
