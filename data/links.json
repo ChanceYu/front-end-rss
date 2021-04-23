@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "大厂面试常问的前端工程化学习指南，进阶必备",
+        "link": "https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e",
+        "date": "2021-04-23"
+      },
+      {
+        "title": "【第2262期】Web 性能优化：使用 CSS font-display 控制字体加载和替换",
+        "link": "https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37",
+        "date": "2021-04-23"
+      },
+      {
         "title": "【第2261期】高级程序4：函数",
         "link": "https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b",
         "date": "2021-04-22"
@@ -23054,6 +23064,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 155 期）：数字货币是打破美元霸权的武器吗？",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html",
+        "date": "2021-04-23"
+      },
       {
         "title": "科技爱好者周刊（第 154 期）：1982年的信息社会预言",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html",

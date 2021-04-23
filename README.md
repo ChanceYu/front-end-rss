@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-22 18:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-23 12:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2021-04-23-大厂面试常问的前端工程化学习指南，进阶必备](https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e) ![](assets/new.png)  
+- [2021-04-23-【第2262期】Web-性能优化：使用-CSS-font-display-控制字体加载和替换](https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37) ![](assets/new.png)  
 - [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b)  
 - [2021-04-21-为什么大多数前端程序员选择React？](https://www.ershicimi.com/p/e929dd6bc363b435a24dc13530f87b89)  
 - [2021-04-21-【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699)  
@@ -51,8 +53,6 @@
 - [2021-04-15-美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5)  
 - [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62)  
 - [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826)  
-- [2021-04-13-【第2252期】前端质量保证体系建设](https://www.ershicimi.com/p/59c4483d3fd72147124054fad6b11f8d)  
-- [2021-04-13-【活动】掘力计划创作者训练营第二期，火热来袭！](https://www.ershicimi.com/p/51f433a9d681a0b6020546105b6b0985)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-04-22-字节跳动最爱考的前端面试题：CSS-基础](https://www.ershicimi.com/p/358385d50da1e4dea72afd33142f32b9) ![](assets/new.png)  
-- [2021-04-22-面向对象：牵牢我的手，你会发现，生活就是一个万花筒，五彩缤纷，刺激又有趣哟](https://www.ershicimi.com/p/c7be43d3cb9107d0094b3b11e59684ac) ![](assets/new.png)  
-- [2021-04-22-TypeScript-高级用法](https://www.ershicimi.com/p/14c1a35098cf256e72feff582fe67e30) ![](assets/new.png)  
-- [2021-04-22-前端每日一题-#85](https://www.ershicimi.com/p/9f6081662157151e3c48df34338561e6) ![](assets/new.png)  
+- [2021-04-22-字节跳动最爱考的前端面试题：CSS-基础](https://www.ershicimi.com/p/358385d50da1e4dea72afd33142f32b9)  
+- [2021-04-22-面向对象：牵牢我的手，你会发现，生活就是一个万花筒，五彩缤纷，刺激又有趣哟](https://www.ershicimi.com/p/c7be43d3cb9107d0094b3b11e59684ac)  
+- [2021-04-22-TypeScript-高级用法](https://www.ershicimi.com/p/14c1a35098cf256e72feff582fe67e30)  
+- [2021-04-22-前端每日一题-#85](https://www.ershicimi.com/p/9f6081662157151e3c48df34338561e6)  
 - [2021-04-21-前端工程化实战指南，进阶必备](https://www.ershicimi.com/p/5d7719a0ac8402059df523413c169c76)  
 - [2021-04-21-Streams-权威指南](https://www.ershicimi.com/p/b5a963adcf4183577f8c1582e08ebba6)  
 - [2021-04-21-前端每日一题-#84](https://www.ershicimi.com/p/327bb3f6bdc6e2e810b672e86144f18a)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-04-23-科技爱好者周刊（第-155-期）：数字货币是打破美元霸权的武器吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-155.html) ![](assets/new.png)  
 - [2021-04-16-科技爱好者周刊（第-154-期）：1982年的信息社会预言](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-154.html)  
 - [2021-04-09-科技爱好者周刊（第-153-期）：机器翻译是对译者的侮辱吗？](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-153.html)  
 - [2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html)  
@@ -207,7 +208,6 @@
 - [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)  
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)  
 - [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)  
-- [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
