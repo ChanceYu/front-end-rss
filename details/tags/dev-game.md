@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-23 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-23 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -21,6 +21,7 @@
 - [2018-12-05-【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect) 
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [2018-09-20-【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect) 
+- [2021-04-23-用three.js写一个下雨动画](https://www.ershicimi.com/p/a2ae173f068c0ba6949b8ba230acb1b9) 
 - [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](https://www.ershicimi.com/p/158769aa3fe41cbce92bdbdc146dad38) 
 - [2021-03-15-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa) 
 - [2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b) 
