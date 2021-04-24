@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-24 18:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 22:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076)
+- [【前端早读课】【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1)
 - [【前端早读课】【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b)
 - [【前端早读课】【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699)
 - [【前端早读课】【第2257期】单元测试最佳实践](https://www.ershicimi.com/p/940aaf1e1e2452a220dfc638ba39cee4)
@@ -738,8 +740,6 @@
 - [【前端早读课】【活动】铃盛X美团前端线上分享会](https://www.ershicimi.com/p/935dcd60f8a515043c457d3cd1d99eee)
 - [【前端早读课】【第2238期】我在阿里云做前端智能化（Dumbo）--前端度量](https://www.ershicimi.com/p/4c56cdfcc6a5788ff0fd164fecfc877c)
 - [【前端早读课】【第2237期】我在阿里云做前端智能化（Dumbo）--VSCode插件](https://www.ershicimi.com/p/91ae89587eab33500ce5d76b86b60c4a)
-- [【前端早读课】【第2231期】活文档：核心原则](https://www.ershicimi.com/p/7edfa11b71918b761922ef3a68fa8bed)
-- [【前端早读课】【图书】活文档：与代码共同演进](https://www.ershicimi.com/p/97ab30bce7cf0a5c6da975cd5a25fe43)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

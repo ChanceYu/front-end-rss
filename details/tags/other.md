@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-24 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-24 22:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-04-24-【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076) 
+- [2021-04-24-【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1) 
 - [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b) 
 - [2021-04-21-【第2260期】ToB-前端-CI/CD-建设实践](https://www.ershicimi.com/p/a82b07a8609ab38627120ad92efaf699) 
 - [2021-04-18-【第2257期】单元测试最佳实践](https://www.ershicimi.com/p/940aaf1e1e2452a220dfc638ba39cee4) 

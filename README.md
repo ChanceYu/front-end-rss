@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-24 18:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-24 22:00:11，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2021-04-24-【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076) ![](assets/new.png)  
+- [2021-04-24-【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1) ![](assets/new.png)  
 - [2021-04-23-大厂面试常问的前端工程化学习指南，进阶必备](https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e)  
 - [2021-04-23-【第2262期】Web-性能优化：使用-CSS-font-display-控制字体加载和替换](https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37)  
 - [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b)  
@@ -51,8 +53,6 @@
 - [2021-04-16-【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c)  
 - [2021-04-15-【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741)  
 - [2021-04-15-美团春招岗位命中率前七名曝光！](https://www.ershicimi.com/p/d23d00ccfd56e7248e2066324e8763a5)  
-- [2021-04-14-Vue-和-React源码大PK，看这篇就够了](https://www.ershicimi.com/p/e1bf71751403059875c1cf228d420a62)  
-- [2021-04-14-【第2253期】React状态管理库及如何选择？](https://www.ershicimi.com/p/45273e60f71700d03acc798ca28f0826)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2021-04-24-不要再用vue2的思维写vue3了](https://www.ershicimi.com/p/dbc8fe9b1984f846d69849ce6ec58e1d) ![](assets/new.png)  
-- [2021-04-24-字节跳动最爱考的前端面试题：计算机网络基础](https://www.ershicimi.com/p/1a38e49cc467a3ceaa6b61ca98e82ee0) ![](assets/new.png)  
-- [2021-04-24-前端每日一题-#87](https://www.ershicimi.com/p/267298bda24fe685f513bf492fc5b7b0) ![](assets/new.png)  
+- [2021-04-24-不要再用vue2的思维写vue3了](https://www.ershicimi.com/p/dbc8fe9b1984f846d69849ce6ec58e1d)  
+- [2021-04-24-字节跳动最爱考的前端面试题：计算机网络基础](https://www.ershicimi.com/p/1a38e49cc467a3ceaa6b61ca98e82ee0)  
+- [2021-04-24-前端每日一题-#87](https://www.ershicimi.com/p/267298bda24fe685f513bf492fc5b7b0)  
 - [2021-04-23-30岁的前端程序员，后来都去哪儿了？](https://www.ershicimi.com/p/b892375ec9f9dec07e935ecf73b7bb4a)  
 - [2021-04-23-用three.js写一个下雨动画](https://www.ershicimi.com/p/a2ae173f068c0ba6949b8ba230acb1b9)  
 - [2021-04-23-前端每日一题-#86](https://www.ershicimi.com/p/2df5d3c9e26e941847b0f05cfec8b11f)  
