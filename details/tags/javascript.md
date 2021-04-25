@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-25 22:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-26 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-04-25-【第2264期】JavaScript中延迟加载属性模式](https://www.ershicimi.com/p/7a6431747bbbca1edaff0f97454c2290) 
 - [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) 
 - [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362) 
 - [2021-03-22-【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f) 
