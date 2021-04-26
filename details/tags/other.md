@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-04-26 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-27 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-04-26-【第2265期】前端录制回放系统初体验](https://www.ershicimi.com/p/067ffe5f55529ddafca0fdbb3d1f4423) 
+- [2021-04-26-【活动】声网RTE-2021编程挑战赛，它终于来了！](https://www.ershicimi.com/p/1c055ca7097cdc40206313f919e1fef6) 
 - [2021-04-24-【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076) 
 - [2021-04-24-【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1) 
 - [2021-04-22-【第2261期】高级程序4：函数](https://www.ershicimi.com/p/6cf592fa16468f5abc63cfc3e388656b) 

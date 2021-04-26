@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-26 22:00:13，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-27 06:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2021-04-26-【第2265期】前端录制回放系统初体验](https://www.ershicimi.com/p/067ffe5f55529ddafca0fdbb3d1f4423) ![](assets/new.png)  
+- [2021-04-26-【活动】声网RTE-2021编程挑战赛，它终于来了！](https://www.ershicimi.com/p/1c055ca7097cdc40206313f919e1fef6) ![](assets/new.png)  
 - [2021-04-25-【第2264期】JavaScript中延迟加载属性模式](https://www.ershicimi.com/p/7a6431747bbbca1edaff0f97454c2290)  
 - [2021-04-24-【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076)  
 - [2021-04-24-【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1)  
@@ -51,8 +53,6 @@
 - [2021-04-17-【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0)  
 - [2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610)  
 - [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362)  
-- [2021-04-16-【活动】阿里云-Serverless-Developer-Meetup-开放报名！](https://www.ershicimi.com/p/18016e4360e3f0d5e4ee0d938b9acc5c)  
-- [2021-04-15-【第2254期】前端性能优化](https://www.ershicimi.com/p/b4822e75e2ce8e957c1f9b9427a06741)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2021-04-26-即将发布的-ES2021-中有哪些有趣的功能](https://www.ershicimi.com/p/5013c94535330aa0b2fc4b87c49b94a0) ![](assets/new.png)  
-- [2021-04-26-10个写TypeScript代码的坏习惯](https://www.ershicimi.com/p/7ee7d2eba9ae29e7436132f8c87e2afc) ![](assets/new.png)  
-- [2021-04-26-前端每日一题-#89](https://www.ershicimi.com/p/cdc0aa8ebfc3b949233609c5dbde50c4) ![](assets/new.png)  
+- [2021-04-26-即将发布的-ES2021-中有哪些有趣的功能](https://www.ershicimi.com/p/5013c94535330aa0b2fc4b87c49b94a0)  
+- [2021-04-26-10个写TypeScript代码的坏习惯](https://www.ershicimi.com/p/7ee7d2eba9ae29e7436132f8c87e2afc)  
+- [2021-04-26-前端每日一题-#89](https://www.ershicimi.com/p/cdc0aa8ebfc3b949233609c5dbde50c4)  
 - [2021-04-25-2021-大厂面试高频-100-题最新汇总（附答案详解）](https://www.ershicimi.com/p/819cee3e64a99422b46b89a73b40da21)  
 - [2021-04-25-手把手教你写一个Vue组件发布到npm且可外链引入使用](https://www.ershicimi.com/p/923da21ee942093c34ec639965209fb4)  
 - [2021-04-25-前端每日一题-#88](https://www.ershicimi.com/p/310e9959670b1d0d1bd52d59b00cb576)  
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) ![](assets/new.png)  
+- [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)  
 - [2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/)  
 - [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/)  
 - [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/)  
