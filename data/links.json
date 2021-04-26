@@ -7222,6 +7222,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "即将发布的 ES2021 中有哪些有趣的功能",
+        "link": "https://www.ershicimi.com/p/5013c94535330aa0b2fc4b87c49b94a0",
+        "date": "2021-04-26"
+      },
+      {
+        "title": "10个写TypeScript代码的坏习惯",
+        "link": "https://www.ershicimi.com/p/7ee7d2eba9ae29e7436132f8c87e2afc",
+        "date": "2021-04-26"
+      },
+      {
+        "title": "前端每日一题 #89",
+        "link": "https://www.ershicimi.com/p/cdc0aa8ebfc3b949233609c5dbde50c4",
+        "date": "2021-04-26"
+      },
+      {
         "title": "2021 大厂面试高频 100 题最新汇总（附答案详解）",
         "link": "https://www.ershicimi.com/p/819cee3e64a99422b46b89a73b40da21",
         "date": "2021-04-25"
@@ -22272,6 +22287,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "Safari不支持build-in自定义元素的兼容处理",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/",
+        "date": "2021-04-26"
+      },
       {
         "title": "JS视频解码JSMpeg和Broadway开箱测评",
         "link": "https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/",

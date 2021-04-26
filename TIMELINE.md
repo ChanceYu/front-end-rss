@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-26 06:00:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-26 22:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -184,6 +184,9 @@
 - [【前端早读课】2021-04-02-【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1) 
 - [【前端早读课】2021-04-01-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/0f7831329d88ca1193fc9a243e19e7f8) 
 - [【前端早读课】2021-04-01-【第2243期】从零开始:Webpack-优化实践](https://www.ershicimi.com/p/7c43e53cf142b0856e32f87e4e8f4533) 
+- [【前端大全】2021-04-26-即将发布的-ES2021-中有哪些有趣的功能](https://www.ershicimi.com/p/5013c94535330aa0b2fc4b87c49b94a0) 
+- [【前端大全】2021-04-26-10个写TypeScript代码的坏习惯](https://www.ershicimi.com/p/7ee7d2eba9ae29e7436132f8c87e2afc) 
+- [【前端大全】2021-04-26-前端每日一题-#89](https://www.ershicimi.com/p/cdc0aa8ebfc3b949233609c5dbde50c4) 
 - [【前端大全】2021-04-25-2021-大厂面试高频-100-题最新汇总（附答案详解）](https://www.ershicimi.com/p/819cee3e64a99422b46b89a73b40da21) 
 - [【前端大全】2021-04-25-手把手教你写一个Vue组件发布到npm且可外链引入使用](https://www.ershicimi.com/p/923da21ee942093c34ec639965209fb4) 
 - [【前端大全】2021-04-25-前端每日一题-#88](https://www.ershicimi.com/p/310e9959670b1d0d1bd52d59b00cb576) 
@@ -303,6 +306,7 @@
 - [【前端之巅】2021-04-02-TypeScript-4.3-beta-版本正式发布：新增import语句补全，对模板字符串类型进行](https://www.ershicimi.com/p/b7740c3ceaba7a164806fee9a1bcfa79) 
 - [【前端之巅】2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa) 
 - [【前端之巅】2021-04-02-玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea) 
+- [【张鑫旭-鑫空间-鑫生活】2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-26 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-26 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -25,6 +25,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2021-04-26-10个写TypeScript代码的坏习惯](https://www.ershicimi.com/p/7ee7d2eba9ae29e7436132f8c87e2afc) 
 - [2021-04-22-TypeScript-高级用法](https://www.ershicimi.com/p/14c1a35098cf256e72feff582fe67e30) 
 - [2021-03-30-TypeScript-4.2-有哪些新特性？](https://www.ershicimi.com/p/023ed2eeb4bc48db809bf07ec284ab4f) 
 - [2021-02-28-Node.js-+-typescript-写一个命令批处理辅助工具](https://www.ershicimi.com/p/652dcb6fc7c7d6760508a372d05bef0f) 
