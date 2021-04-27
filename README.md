@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-27 06:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-28 06:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,8 +33,10 @@
 </summary>
 
 
-- [2021-04-26-【第2265期】前端录制回放系统初体验](https://www.ershicimi.com/p/067ffe5f55529ddafca0fdbb3d1f4423) ![](assets/new.png)  
-- [2021-04-26-【活动】声网RTE-2021编程挑战赛，它终于来了！](https://www.ershicimi.com/p/1c055ca7097cdc40206313f919e1fef6) ![](assets/new.png)  
+- [2021-04-27-【第2266期】WeGame暗色模式实践总结](https://www.ershicimi.com/p/4306fb937b7983d147734859ab857c25) ![](assets/new.png)  
+- [2021-04-27-【活动】2021哈啰技术沙龙-大前端技术探索与实践](https://www.ershicimi.com/p/916ab3d4bdff44ef5501745d497a19f3) ![](assets/new.png)  
+- [2021-04-26-【第2265期】前端录制回放系统初体验](https://www.ershicimi.com/p/067ffe5f55529ddafca0fdbb3d1f4423)  
+- [2021-04-26-【活动】声网RTE-2021编程挑战赛，它终于来了！](https://www.ershicimi.com/p/1c055ca7097cdc40206313f919e1fef6)  
 - [2021-04-25-【第2264期】JavaScript中延迟加载属性模式](https://www.ershicimi.com/p/7a6431747bbbca1edaff0f97454c2290)  
 - [2021-04-24-【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076)  
 - [2021-04-24-【内推】北京幂律智能招前端研发工程师](https://www.ershicimi.com/p/92a296355caa57bc9392d077de5598c1)  
@@ -51,8 +53,6 @@
 - [2021-04-18-【第2257期】单元测试最佳实践](https://www.ershicimi.com/p/940aaf1e1e2452a220dfc638ba39cee4)  
 - [2021-04-18-【招聘】北京好未来-学而思网校-增长研发团队招高级/资深/专家前端开发工程师](https://www.ershicimi.com/p/0b647eec93405792800638d9784dac81)  
 - [2021-04-17-【第2256期】跨端体验度量的思考与实现](https://www.ershicimi.com/p/362d136856ffd5c7258fe4b0bae30ba0)  
-- [2021-04-17-【招聘】上海拼多多招聘前端开发工程师（社交方向）-社招/2021届校招/2022届实习生](https://www.ershicimi.com/p/9d859068d20922fed20db4b32d7d7610)  
-- [2021-04-16-【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-27 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-28 06:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,8 @@
 
 
 
+- [【前端早读课】【第2266期】WeGame暗色模式实践总结](https://www.ershicimi.com/p/4306fb937b7983d147734859ab857c25)
+- [【前端早读课】【活动】2021哈啰技术沙龙-大前端技术探索与实践](https://www.ershicimi.com/p/916ab3d4bdff44ef5501745d497a19f3)
 - [【前端早读课】【第2265期】前端录制回放系统初体验](https://www.ershicimi.com/p/067ffe5f55529ddafca0fdbb3d1f4423)
 - [【前端早读课】【活动】声网RTE-2021编程挑战赛，它终于来了！](https://www.ershicimi.com/p/1c055ca7097cdc40206313f919e1fef6)
 - [【前端早读课】【第2263期】工业聚：一起聊聊技术与写作](https://www.ershicimi.com/p/f66aac9863e04205873eb6756256a076)
@@ -738,8 +740,6 @@
 - [【前端早读课】【第2245期】Worktile-前端工程化之路](https://www.ershicimi.com/p/60f6981990916ddcb7d974692d14f498)
 - [【前端早读课】【图书】FFmpeg从入门到精通](https://www.ershicimi.com/p/cc855643ff3db6a5e83ee7a3dc91fca1)
 - [【前端早读课】【第2240期】大话年货节](https://www.ershicimi.com/p/bc9487ccc38dcdcfd73538eb8ff63fb1)
-- [【前端早读课】【第2239期】前端还有机会吗？这是蚂蚁前端的答案](https://www.ershicimi.com/p/b745f22cca70c1d705f10e62aed84f4b)
-- [【前端早读课】【活动】铃盛X美团前端线上分享会](https://www.ershicimi.com/p/935dcd60f8a515043c457d3cd1d99eee)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
