@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-29 06:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-29 22:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -91,6 +91,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2021-04-29-快速使用-Vue3-最新的-15-个常用-API](https://www.ershicimi.com/p/ccd7dfd6856c4d4d6e5c1e99d108accc) 
 - [2021-04-28-前端面试亮点必杀器：Vue-3核心原理解析](https://www.ershicimi.com/p/cdf332664dc7c8ac4a1c693279f930ce) 
 - [2021-04-25-手把手教你写一个Vue组件发布到npm且可外链引入使用](https://www.ershicimi.com/p/923da21ee942093c34ec639965209fb4) 
 - [2021-04-24-不要再用vue2的思维写vue3了](https://www.ershicimi.com/p/dbc8fe9b1984f846d69849ce6ec58e1d) 
