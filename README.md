@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-30 22:00:14，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-02 18:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-04-30-掌握设计原则，你就是光！（这-25-个问题，你会几个？）](https://www.ershicimi.com/p/441d2f4f6604890237278ce89b026843) ![](assets/new.png)  
-- [2021-04-30-摸鱼社区炒饭前端开源，大家快来-GitHub-Star-一波呀](https://www.ershicimi.com/p/b1ea8039be31b88cdefb8054c3b46ff9) ![](assets/new.png)  
-- [2021-04-30-前端每日一题-#93](https://www.ershicimi.com/p/f5b85f9ebe16416d2a71668112de4f22) ![](assets/new.png)  
-- [2021-04-30-设计灵感：12-组可视化数据仪表页面设计](https://www.ershicimi.com/p/671f659108a88b5cb6576cc2b3b4dc29) ![](assets/new.png)  
+- [2021-04-30-掌握设计原则，你就是光！（这-25-个问题，你会几个？）](https://www.ershicimi.com/p/441d2f4f6604890237278ce89b026843)  
+- [2021-04-30-摸鱼社区炒饭前端开源，大家快来-GitHub-Star-一波呀](https://www.ershicimi.com/p/b1ea8039be31b88cdefb8054c3b46ff9)  
+- [2021-04-30-前端每日一题-#93](https://www.ershicimi.com/p/f5b85f9ebe16416d2a71668112de4f22)  
+- [2021-04-30-设计灵感：12-组可视化数据仪表页面设计](https://www.ershicimi.com/p/671f659108a88b5cb6576cc2b3b4dc29)  
 - [2021-04-29-「React进阶」-React-全部-api-解读+基础实践大全](https://www.ershicimi.com/p/ab79549605f8c597d52b7c5486b995c2)  
 - [2021-04-29-快速使用-Vue3-最新的-15-个常用-API](https://www.ershicimi.com/p/ccd7dfd6856c4d4d6e5c1e99d108accc)  
 - [2021-04-29-前端每日一题-#92](https://www.ershicimi.com/p/6fe99aa70fd234230ea0a23594b83448)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614) ![](assets/new.png)  
+- [2021-04-30-开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/3be0db52c60aa8706541b98d0a5d256d) ![](assets/new.png)  
+- [2021-04-30-解决「崩溃」只是第一步：怎样的-Android-应用才算「好应用」？-|-极客时间](https://www.ershicimi.com/p/760c059ab6625a76a5d498a5a2f82d50) ![](assets/new.png)  
 - [2021-04-28-美团做-React-Native-性能优化的三个关键点](https://www.ershicimi.com/p/c34e679e6afe09423aab9a7e63d60662)  
 - [2021-04-28-低代码平台和社区开发者的崛起：更多解决方案还是更多问题？](https://www.ershicimi.com/p/589da0aed2a0a8cb55948188738ef391)  
 - [2021-04-28-中科院一博士论文走红：读书能带给我们什么-|-极客时间](https://www.ershicimi.com/p/1bd77cad8892aed7c216b1ce8b6cbbc6)  
@@ -112,9 +115,6 @@
 - [2021-04-16-FreeWheel-图表可视化测试的实践](https://www.ershicimi.com/p/1547e446ec00e31a33da0691197fabb8)  
 - [2021-04-16-IDEA-2021年首个新版本发布，重要更新速览](https://www.ershicimi.com/p/1fd3c08ba3e8f79ece14d98eecfcba29)  
 - [2021-04-16-TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0)  
-- [2021-04-14-深度解读便利蜂-React-Native-多版本共存的平滑升级实践](https://www.ershicimi.com/p/1b903e47c678e2fd22cf7e98177a2955)  
-- [2021-04-14-程序开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/975f71f5875c31fd8d60d861fd686ff2)  
-- [2021-04-14-Web-加速，协议先行！-|-极客时间](https://www.ershicimi.com/p/3296c06efe76d7f7ec3690860aaf2f47)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

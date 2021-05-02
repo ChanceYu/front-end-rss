@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-30 22:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-02 18:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -300,6 +300,9 @@
 - [【前端大全】2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) 
 - [【前端大全】2021-04-01-万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae) 
 - [【前端大全】2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b) 
+- [【前端之巅】2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614) 
+- [【前端之巅】2021-04-30-开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/3be0db52c60aa8706541b98d0a5d256d) 
+- [【前端之巅】2021-04-30-解决「崩溃」只是第一步：怎样的-Android-应用才算「好应用」？-|-极客时间](https://www.ershicimi.com/p/760c059ab6625a76a5d498a5a2f82d50) 
 - [【前端之巅】2021-04-28-美团做-React-Native-性能优化的三个关键点](https://www.ershicimi.com/p/c34e679e6afe09423aab9a7e63d60662) 
 - [【前端之巅】2021-04-28-低代码平台和社区开发者的崛起：更多解决方案还是更多问题？](https://www.ershicimi.com/p/589da0aed2a0a8cb55948188738ef391) 
 - [【前端之巅】2021-04-28-中科院一博士论文走红：读书能带给我们什么-|-极客时间](https://www.ershicimi.com/p/1bd77cad8892aed7c216b1ce8b6cbbc6) 
