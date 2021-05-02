@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-02 22:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-03 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -154,6 +154,9 @@
 </summary>
 
 
+- [【前端早读课】2021-04-30-【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce) 
+- [【前端早读课】2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1) 
+- [【前端早读课】2021-04-30-【内推】字节跳动互娱前端架构基础工程招人啦（北|杭|深）](https://www.ershicimi.com/p/101cf9f1345ab155011aa08b058b183e) 
 - [【前端早读课】2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578) 
 - [【前端早读课】2021-04-29-【图书】WebRTC技术详解](https://www.ershicimi.com/p/a9b6b7e0b8375a3df33f66da2934033f) 
 - [【前端早读课】2021-04-28-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/c3b246fc3c296f1534d4d9bd321b7e6b) 
