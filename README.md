@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-03 06:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-05 18:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,9 +33,9 @@
 </summary>
 
 
-- [2021-04-30-【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce) ![](assets/new.png)  
-- [2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1) ![](assets/new.png)  
-- [2021-04-30-【内推】字节跳动互娱前端架构基础工程招人啦（北|杭|深）](https://www.ershicimi.com/p/101cf9f1345ab155011aa08b058b183e) ![](assets/new.png)  
+- [2021-04-30-【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce)  
+- [2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1)  
+- [2021-04-30-【内推】字节跳动互娱前端架构基础工程招人啦（北|杭|深）](https://www.ershicimi.com/p/101cf9f1345ab155011aa08b058b183e)  
 - [2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578)  
 - [2021-04-29-【图书】WebRTC技术详解](https://www.ershicimi.com/p/a9b6b7e0b8375a3df33f66da2934033f)  
 - [2021-04-28-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/c3b246fc3c296f1534d4d9bd321b7e6b)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2021-05-05-微软加入字节码联盟，参与推进WebAssembly发展](https://www.ershicimi.com/p/8a49b080b64a50f0851142c50d20387d) ![](assets/new.png)  
+- [2021-05-04-大前端领域，什么样的人最吃香？|-InfoQ编程语言4月排行榜](https://www.ershicimi.com/p/18c32469a589b4bb1cfc2b8a1bdffa17) ![](assets/new.png)  
+- [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](https://www.ershicimi.com/p/29d45e1fd8c7e880891bd6782287be18) ![](assets/new.png)  
 - [2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614)  
 - [2021-04-30-开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/3be0db52c60aa8706541b98d0a5d256d)  
 - [2021-04-30-解决「崩溃」只是第一步：怎样的-Android-应用才算「好应用」？-|-极客时间](https://www.ershicimi.com/p/760c059ab6625a76a5d498a5a2f82d50)  
@@ -112,9 +115,6 @@
 - [2021-04-19-从14s到4s，我如何将-MacOS上的-Rust-增量编译时间减少70％？](https://www.ershicimi.com/p/eb44f5f6093c62f8be6c935c97c93cd3)  
 - [2021-04-19-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/9544b1d6b3bdc6d7d1b050557904fb6e)  
 - [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367)  
-- [2021-04-16-FreeWheel-图表可视化测试的实践](https://www.ershicimi.com/p/1547e446ec00e31a33da0691197fabb8)  
-- [2021-04-16-IDEA-2021年首个新版本发布，重要更新速览](https://www.ershicimi.com/p/1fd3c08ba3e8f79ece14d98eecfcba29)  
-- [2021-04-16-TypeScript-因为什么特性成为了你的“刚需”？|-极客时间](https://www.ershicimi.com/p/2688e18a2f3603621be20590593671f0)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
