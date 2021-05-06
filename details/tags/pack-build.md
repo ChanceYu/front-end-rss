@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-06 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -48,6 +48,8 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2021-05-06-手写一个-mini-webpack-后，再也不怕面试官问-webpack-原理了！](https://www.ershicimi.com/p/9fb841ae72b5642315bbd22e6be729bc) 
+- [2021-05-05-万字总结-一文吃透-Webpack-核心原理](https://www.ershicimi.com/p/52299a11b5621f176d73cc5463d95977) 
 - [2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3) 
 - [2021-04-27-让我告诉你一些强无敌的-NPM-软件包](https://www.ershicimi.com/p/be22088b65ad4a5b4408379f93828bd7) 
 - [2021-04-20-手写一个-webpack，看看-AST-怎么用](https://www.ershicimi.com/p/8b6a701b1fc7fde77a121868407d6651) 
