@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-05-07 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-08 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-05-08-【第2272期】大前端领域Middleware有几种实现方式？](https://www.ershicimi.com/p/e5715d38e4fbbda4387454a2c1c5781a) 
+- [2021-05-08-【内推】杭州江小白招前端工程师](https://www.ershicimi.com/p/6712c7696354021374cd9bd0862c1def) 
+- [2021-05-06-【第2270期】手把手教你打造前端智能图标识别工具](https://www.ershicimi.com/p/a3c6e792888112ffaab26a7da71cff2e) 
 - [2021-04-30-【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce) 
 - [2021-04-30-【内推】字节跳动互娱前端架构基础工程招人啦（北|杭|深）](https://www.ershicimi.com/p/101cf9f1345ab155011aa08b058b183e) 
 - [2021-04-27-【第2266期】WeGame暗色模式实践总结](https://www.ershicimi.com/p/4306fb937b7983d147734859ab857c25) 
