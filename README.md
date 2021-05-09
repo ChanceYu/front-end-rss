@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-09 22:00:10，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-10 06:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-05-09-面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://www.ershicimi.com/p/3ee3232c0f037540d620f75d9f754e48) ![](assets/new.png)  
-- [2021-05-09-17-个提升用户体验图像特效库](https://www.ershicimi.com/p/ae9fe84c40e1ab734817539c580a8b6b) ![](assets/new.png)  
-- [2021-05-09-程序员在家远程办公，妈妈：“你天天坐电脑前怎么办公？”](https://www.ershicimi.com/p/26e23f3e9ece224223a2f8ab8e64b88c) ![](assets/new.png)  
-- [2021-05-09-前端每日一题-#101](https://www.ershicimi.com/p/2acffffbf1d3213be7c65c4117f48c96) ![](assets/new.png)  
+- [2021-05-09-面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://www.ershicimi.com/p/3ee3232c0f037540d620f75d9f754e48)  
+- [2021-05-09-17-个提升用户体验图像特效库](https://www.ershicimi.com/p/ae9fe84c40e1ab734817539c580a8b6b)  
+- [2021-05-09-程序员在家远程办公，妈妈：“你天天坐电脑前怎么办公？”](https://www.ershicimi.com/p/26e23f3e9ece224223a2f8ab8e64b88c)  
+- [2021-05-09-前端每日一题-#101](https://www.ershicimi.com/p/2acffffbf1d3213be7c65c4117f48c96)  
 - [2021-05-08-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/8e907c66067df03795a3104ef8f87efc)  
 - [2021-05-08-中小型前端团队代码规范工程化最佳实践：ESLint](https://www.ershicimi.com/p/26b9072a6055bb2760e8bf9b20f9abd9)  
 - [2021-05-08-前端每日一题-#100](https://www.ershicimi.com/p/bb4992954b4e218d3c83d1d01f5e96c8)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-05-09-Promise.all、race和any方法都是什么意思？](https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/) ![](assets/new.png)  
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)  
 - [2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/)  
 - [2021-04-18-腾讯开源的酷炫动画播放解决方案Vap初体验](https://www.zhangxinxu.com/wordpress/2021/04/tencent-vap-%e8%a7%86%e9%a2%91%e5%8a%a8%e7%94%bb/)  
@@ -176,7 +177,6 @@
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/)  
 - [2021-02-13-water.css项目简介](https://www.zhangxinxu.com/wordpress/2021/02/water-css/)  
 - [2021-02-12-使用grid-area等Grid布局属性轻松实现元素层叠效果](https://www.zhangxinxu.com/wordpress/2021/02/grid-area-absolute-cover/)  
-- [2021-02-11-巧用两个type=range-input实现区域范围选择](https://www.zhangxinxu.com/wordpress/2021/02/range-input/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

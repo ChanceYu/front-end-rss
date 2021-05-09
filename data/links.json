@@ -22663,6 +22663,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "Promise.all、race和any方法都是什么意思？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/",
+        "date": "2021-05-09"
+      },
+      {
         "title": "Safari不支持build-in自定义元素的兼容处理",
         "link": "https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/",
         "date": "2021-04-26"
