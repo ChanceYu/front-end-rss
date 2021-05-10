@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-10 06:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-10 18:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -180,6 +180,7 @@
 - [【前端之巅】2021-05-04-大前端领域，什么样的人最吃香？|-InfoQ编程语言4月排行榜](https://www.ershicimi.com/p/18c32469a589b4bb1cfc2b8a1bdffa17) 
 - [【前端之巅】2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](https://www.ershicimi.com/p/29d45e1fd8c7e880891bd6782287be18) 
 - [【张鑫旭-鑫空间-鑫生活】2021-05-09-Promise.all、race和any方法都是什么意思？](https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/) 
+- [【阮一峰的网络日志】2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html) 
 - [【阮一峰的网络日志】2021-05-07-科技爱好者周刊（第-157-期）：KK-给年轻人的建议](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
