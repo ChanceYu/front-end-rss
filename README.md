@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-12 06:00:08，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-12 18:00:09，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,13 +64,13 @@
 </summary>
 
 
-- [2021-05-11-JavaScript-中哪一种循环最快呢？](https://www.ershicimi.com/p/df4fc6d08a821c7085768ae4ec730a58) ![](assets/new.png)  
-- [2021-05-11-记一次高级前端开发工程师面经](https://www.ershicimi.com/p/902e035a5441fc0cc23430324a14f28d) ![](assets/new.png)  
-- [2021-05-11-前端每日一题-#103](https://www.ershicimi.com/p/6f0e2340ce1b7fd5b40717766abd7fca) ![](assets/new.png)  
-- [2021-05-10-这些-Vue-实战技巧你学会了吗？](https://www.ershicimi.com/p/635697ac6d4b98a2d8d6a24e947d0e39) ![](assets/new.png)  
-- [2021-05-10-没有-UI-团队怎么办？分享-6-款能为独立网页开发者提效的免费工具](https://www.ershicimi.com/p/e41b5bba41dbe07570fca4c9d2876cb2) ![](assets/new.png)  
-- [2021-05-10-前端每日一题-#102](https://www.ershicimi.com/p/d7df582d065d4c44d18589c3e7584f99) ![](assets/new.png)  
-- [2021-05-10-设计灵感：12组风格鲜明的登录页设计](https://www.ershicimi.com/p/c4daa151d8c4a1615f12c5e22db3acb2) ![](assets/new.png)  
+- [2021-05-11-JavaScript-中哪一种循环最快呢？](https://www.ershicimi.com/p/df4fc6d08a821c7085768ae4ec730a58)  
+- [2021-05-11-记一次高级前端开发工程师面经](https://www.ershicimi.com/p/902e035a5441fc0cc23430324a14f28d)  
+- [2021-05-11-前端每日一题-#103](https://www.ershicimi.com/p/6f0e2340ce1b7fd5b40717766abd7fca)  
+- [2021-05-10-这些-Vue-实战技巧你学会了吗？](https://www.ershicimi.com/p/635697ac6d4b98a2d8d6a24e947d0e39)  
+- [2021-05-10-没有-UI-团队怎么办？分享-6-款能为独立网页开发者提效的免费工具](https://www.ershicimi.com/p/e41b5bba41dbe07570fca4c9d2876cb2)  
+- [2021-05-10-前端每日一题-#102](https://www.ershicimi.com/p/d7df582d065d4c44d18589c3e7584f99)  
+- [2021-05-10-设计灵感：12组风格鲜明的登录页设计](https://www.ershicimi.com/p/c4daa151d8c4a1615f12c5e22db3acb2)  
 - [2021-05-09-面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://www.ershicimi.com/p/3ee3232c0f037540d620f75d9f754e48)  
 - [2021-05-09-17-个提升用户体验图像特效库](https://www.ershicimi.com/p/ae9fe84c40e1ab734817539c580a8b6b)  
 - [2021-05-09-程序员在家远程办公，妈妈：“你天天坐电脑前怎么办公？”](https://www.ershicimi.com/p/26e23f3e9ece224223a2f8ab8e64b88c)  
@@ -95,6 +95,14 @@
 </summary>
 
 
+- [2021-05-12-Kotlin-1.5-稳定版发布，2021年第一个大版本更新有何亮点？](https://www.ershicimi.com/p/42daff3413805476d5ca31d5b776fd28) ![](assets/new.png)  
+- [2021-05-12-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://www.ershicimi.com/p/de1bb8748c5a9ffd42ef62951d045a2d) ![](assets/new.png)  
+- [2021-05-12-比带薪休假更吸引人的，是高效工作-|-极客时间](https://www.ershicimi.com/p/99e1c34bfc08525298c6557a448e4c4c) ![](assets/new.png)  
+- [2021-05-10-UML-怎么就真“挂”了？](https://www.ershicimi.com/p/1c9090b3159356dc5e849e9dbb1448a3) ![](assets/new.png)  
+- [2021-05-10-为什么我使用-GraphQL-而放弃-REST-API？](https://www.ershicimi.com/p/b4fa10fe32eae0ec53d479000942e20b) ![](assets/new.png)  
+- [2021-05-10-如何循序渐进、有效地学习-JavaScript？-|-极客时间](https://www.ershicimi.com/p/24f33cdece7ed89f386e46f799cc8125) ![](assets/new.png)  
+- [2021-05-09-今晚9点，连麦尤雨溪，和你聊聊Vue](https://www.ershicimi.com/p/9e2af7b52750af7a0c2b3f46bd72f2bf) ![](assets/new.png)  
+- [2021-05-08-微软将在-Windows-中强制删除-Flash；华为或最快于-6-月正式推送鸿蒙OS；IBM制造出](https://www.ershicimi.com/p/803ce435452959787d1db47f1e94a044) ![](assets/new.png)  
 - [2021-05-06-看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://www.ershicimi.com/p/238f68f49c1adfb71909fadc1c1643b8)  
 - [2021-05-05-微软加入字节码联盟，参与推进WebAssembly发展](https://www.ershicimi.com/p/8a49b080b64a50f0851142c50d20387d)  
 - [2021-05-04-大前端领域，什么样的人最吃香？|-InfoQ编程语言4月排行榜](https://www.ershicimi.com/p/18c32469a589b4bb1cfc2b8a1bdffa17)  
@@ -107,14 +115,6 @@
 - [2021-04-28-中科院一博士论文走红：读书能带给我们什么-|-极客时间](https://www.ershicimi.com/p/1bd77cad8892aed7c216b1ce8b6cbbc6)  
 - [2021-04-26-Deno-1.9-发布，重要更新速览](https://www.ershicimi.com/p/123624ba63045ed0f156a69c34b81f8b)  
 - [2021-04-26-2021-年，Java-开发者最值得学习的-14-项技能](https://www.ershicimi.com/p/d90ed5e793be9ba0ff4eddd4a547a61b)  
-- [2021-04-25-微软统一所有平台的Edge代码库；大学教授向Linux提交漏洞代码致学校被拉黑；苹果M1版Mac的销](https://www.ershicimi.com/p/56be00c860ff77b83518590ecee6f20b)  
-- [2021-04-23-闲鱼正在悄悄放弃-Flutter-吗？](https://www.ershicimi.com/p/6a5eec9c3474716924a503b1edca50f3)  
-- [2021-04-23-迈向-64-位时代，Visual-Studio-2022-要来啦！](https://www.ershicimi.com/p/c70b2cb1f7ffc8de0372d0d9960aacaf)  
-- [2021-04-23-桌面应用开发利器：Electron-|-极客时间](https://www.ershicimi.com/p/0f8015a46e5bcf69811b6ff9d333851f)  
-- [2021-04-21-2021年哪些编程语言的薪酬最高？](https://www.ershicimi.com/p/11808f17871b04afd93854540db5a953)  
-- [2021-04-21-为什么-React-的发展前景更被看好呢？-|-极客时间](https://www.ershicimi.com/p/e1401fff6ed3d3827c393eb3489e1ab0)  
-- [2021-04-19-从14s到4s，我如何将-MacOS上的-Rust-增量编译时间减少70％？](https://www.ershicimi.com/p/eb44f5f6093c62f8be6c935c97c93cd3)  
-- [2021-04-19-你在大前端领域最常用的编程语言是？|-InfoQ-编程语言-4-月排行榜](https://www.ershicimi.com/p/9544b1d6b3bdc6d7d1b050557904fb6e)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
