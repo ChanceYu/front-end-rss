@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-12 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-13 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-05-10-【图书】JavaScript深度学习](https://www.ershicimi.com/p/c249d922d214cf418315dc528f7a5abc) 
 - [2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578) 
 - [2021-04-25-【第2264期】JavaScript中延迟加载属性模式](https://www.ershicimi.com/p/7a6431747bbbca1edaff0f97454c2290) 
 - [2021-04-20-【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-12 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-13 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -92,6 +92,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2021-05-12-前端进阶必备：Vue-3源码学习指南+简历包装](https://www.ershicimi.com/p/ed1b420fcf2c4b5a623c23f8d10ba58b) 
 - [2021-05-10-这些-Vue-实战技巧你学会了吗？](https://www.ershicimi.com/p/635697ac6d4b98a2d8d6a24e947d0e39) 
 - [2021-05-07-从-0-开始手把手带你搭建一套规范的-Vue3.x-项目工程环境](https://www.ershicimi.com/p/63a36cc69d4503588ee460bd929df0f6) 
 - [2021-05-05-Vue-源码解读（1）——-前言](https://www.ershicimi.com/p/a8b8cc515e51649cf5cdd444e04e983e) 
