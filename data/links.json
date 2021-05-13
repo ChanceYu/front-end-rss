@@ -22793,6 +22793,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "输入框value属性赋值触发js change事件的实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/",
+        "date": "2021-05-13"
+      },
+      {
         "title": "Promise.all、race和any方法都是什么意思？",
         "link": "https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/",
         "date": "2021-05-09"
