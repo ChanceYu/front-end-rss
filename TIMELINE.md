@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-13 22:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-14 06:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,7 @@
 </summary>
 
 
+- [【前端早读课】2021-05-13-【第2277期】Cross-Origin-Read-Blocking-CORB](https://www.ershicimi.com/p/a49740a76b30be3b1967e4c25b708077) 
 - [【前端早读课】2021-05-12-【第2276期】UX设计师在敏捷团队的因应之道](https://www.ershicimi.com/p/6230bedc414db4a5b3116cc2a8b00377) 
 - [【前端早读课】2021-05-12-【活动】第三届科技无障碍发展大会（TADC）要来啦！](https://www.ershicimi.com/p/334cc59c7196f6eee3a3c0599ad7a63c) 
 - [【前端早读课】2021-05-11-【第2275期】CSS提取图片主题色功能探索](https://www.ershicimi.com/p/fd89ce95ff821092869a8ac5dcec13cb) 
