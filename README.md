@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-14 12:00:10，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-14 18:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,9 @@
 </summary>
 
 
+- [2021-05-14-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/d97f4e2b847fb0917c235b2c8355ee4b) ![](assets/new.png)  
+- [2021-05-14-我们如何将-Pinterest-的-iOS-应用大小减少-30%-以上](https://www.ershicimi.com/p/220f20ab2f504b53fc54b28f012bcbd0) ![](assets/new.png)  
+- [2021-05-14-从传统行业甚至非科班小白，成长为前端专家，我是怎么做到的？|-极客时间](https://www.ershicimi.com/p/b2455c3305e8369bb871d397560053a4) ![](assets/new.png)  
 - [2021-05-12-Kotlin-1.5-稳定版发布，2021年第一个大版本更新有何亮点？](https://www.ershicimi.com/p/42daff3413805476d5ca31d5b776fd28)  
 - [2021-05-12-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://www.ershicimi.com/p/de1bb8748c5a9ffd42ef62951d045a2d)  
 - [2021-05-12-比带薪休假更吸引人的，是高效工作-|-极客时间](https://www.ershicimi.com/p/99e1c34bfc08525298c6557a448e4c4c)  
@@ -112,9 +115,6 @@
 - [2021-04-30-解决「崩溃」只是第一步：怎样的-Android-应用才算「好应用」？-|-极客时间](https://www.ershicimi.com/p/760c059ab6625a76a5d498a5a2f82d50)  
 - [2021-04-28-美团做-React-Native-性能优化的三个关键点](https://www.ershicimi.com/p/c34e679e6afe09423aab9a7e63d60662)  
 - [2021-04-28-低代码平台和社区开发者的崛起：更多解决方案还是更多问题？](https://www.ershicimi.com/p/589da0aed2a0a8cb55948188738ef391)  
-- [2021-04-28-中科院一博士论文走红：读书能带给我们什么-|-极客时间](https://www.ershicimi.com/p/1bd77cad8892aed7c216b1ce8b6cbbc6)  
-- [2021-04-26-Deno-1.9-发布，重要更新速览](https://www.ershicimi.com/p/123624ba63045ed0f156a69c34b81f8b)  
-- [2021-04-26-2021-年，Java-开发者最值得学习的-14-项技能](https://www.ershicimi.com/p/d90ed5e793be9ba0ff4eddd4a547a61b)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html) ![](assets/new.png)  
+- [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)  
 - [2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)  
 - [2021-05-07-科技爱好者周刊（第-157-期）：KK-给年轻人的建议](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html)  
 - [2021-04-30-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)  

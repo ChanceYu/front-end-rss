@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-14 12:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-14 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -26,6 +26,7 @@
 - [2019-03-27-面试加分项之-Nginx-反向代理与负载均衡](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556116&idx=1&sn=cfca7b893bf20faf3f1808c592928487#rd) 
 - [2019-02-15-nginx-反向代理和负载均衡策略实战案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555878&idx=1&sn=dffbd69d17c0ff126acd2d9d5f5123bd#wechat_redirect) 
 - [2018-12-29-GraphQL-前端开发的利剑与桥梁](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555621&idx=1&sn=961a4d8c643c486f1e457f2a6d58da65#wechat_redirect) 
+- [2021-05-14-我们如何将-Pinterest-的-iOS-应用大小减少-30%-以上](https://www.ershicimi.com/p/220f20ab2f504b53fc54b28f012bcbd0) 
 - [2021-05-10-为什么我使用-GraphQL-而放弃-REST-API？](https://www.ershicimi.com/p/b4fa10fe32eae0ec53d479000942e20b) 
 - [2020-12-04-GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c) 
 - [2020-07-17-GraphQL两年实战避坑经验](https://www.ershicimi.com/p/8cd1fd56ca1b648c041939dfc35d970c) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-14 12:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-14 18:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -194,6 +194,9 @@
 - [【前端大全】2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3) 
 - [【前端大全】2021-05-01-前端每日一题-#94](https://www.ershicimi.com/p/29dbb542d1b4874378e8f00937cf016c) 
 - [【前端大全】2021-05-01-设计灵感：12组暖色系食谱App界面设计](https://www.ershicimi.com/p/d18cb7b195696225feee712ba89925bb) 
+- [【前端之巅】2021-05-14-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/d97f4e2b847fb0917c235b2c8355ee4b) 
+- [【前端之巅】2021-05-14-我们如何将-Pinterest-的-iOS-应用大小减少-30%-以上](https://www.ershicimi.com/p/220f20ab2f504b53fc54b28f012bcbd0) 
+- [【前端之巅】2021-05-14-从传统行业甚至非科班小白，成长为前端专家，我是怎么做到的？|-极客时间](https://www.ershicimi.com/p/b2455c3305e8369bb871d397560053a4) 
 - [【前端之巅】2021-05-12-Kotlin-1.5-稳定版发布，2021年第一个大版本更新有何亮点？](https://www.ershicimi.com/p/42daff3413805476d5ca31d5b776fd28) 
 - [【前端之巅】2021-05-12-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://www.ershicimi.com/p/de1bb8748c5a9ffd42ef62951d045a2d) 
 - [【前端之巅】2021-05-12-比带薪休假更吸引人的，是高效工作-|-极客时间](https://www.ershicimi.com/p/99e1c34bfc08525298c6557a448e4c4c) 
