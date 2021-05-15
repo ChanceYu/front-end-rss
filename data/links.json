@@ -22351,6 +22351,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "All in one：项目级 monorepo 策略最佳实践",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/uihagy",
+        "date": "2021-05-15"
+      },
+      {
         "title": "业务系统的稳定性建设",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/fc3cy0",
         "date": "2021-03-09"

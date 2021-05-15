@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-15 06:00:09，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-15 08:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-05-14-分享一个源码学习技巧](https://www.ershicimi.com/p/64085e91a1a7608ec213fcad2a26e583) ![](assets/new.png)  
-- [2021-05-14-【第2278期】腾讯文档无障碍化开发：亲近更体贴用户](https://www.ershicimi.com/p/b4034e016129821418436f37df912e96) ![](assets/new.png)  
+- [2021-05-14-分享一个源码学习技巧](https://www.ershicimi.com/p/64085e91a1a7608ec213fcad2a26e583)  
+- [2021-05-14-【第2278期】腾讯文档无障碍化开发：亲近更体贴用户](https://www.ershicimi.com/p/b4034e016129821418436f37df912e96)  
 - [2021-05-13-【第2277期】Cross-Origin-Read-Blocking-CORB](https://www.ershicimi.com/p/a49740a76b30be3b1967e4c25b708077)  
 - [2021-05-12-【第2276期】UX设计师在敏捷团队的因应之道](https://www.ershicimi.com/p/6230bedc414db4a5b3116cc2a8b00377)  
 - [2021-05-12-【活动】第三届科技无障碍发展大会（TADC）要来啦！](https://www.ershicimi.com/p/334cc59c7196f6eee3a3c0599ad7a63c)  
@@ -64,14 +64,14 @@
 </summary>
 
 
-- [2021-05-14-重磅！百度开源-JavaScript-深度学习库](https://www.ershicimi.com/p/02eb6f8032cd17fca4af9a572e093a80) ![](assets/new.png)  
-- [2021-05-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/5671c03db8358fd1689a9c78a60c33e4) ![](assets/new.png)  
-- [2021-05-14-前端每日一题-#106](https://www.ershicimi.com/p/fe01e1ea28126a488ba3a295c4694ace) ![](assets/new.png)  
-- [2021-05-14-设计灵感：12组手机计算器App设计](https://www.ershicimi.com/p/56f2416a76991a433fbe78f9e9bcafda) ![](assets/new.png)  
-- [2021-05-13-前端都是手写-ECharts-?](https://www.ershicimi.com/p/93730f2ccda5b916b37d378e7c0ae8e4) ![](assets/new.png)  
-- [2021-05-13-陌陌、狼人杀等这些爆火的应用，都是啥技术搞得？](https://www.ershicimi.com/p/ce2b33cb113a607c1be71667daf73086) ![](assets/new.png)  
-- [2021-05-13-Vue3-+-TypeScript-复盘总结](https://www.ershicimi.com/p/10d4a72407e7f70dc725ffd7bf1108ef) ![](assets/new.png)  
-- [2021-05-13-前端每日一题-#105](https://www.ershicimi.com/p/ae289d4a3b21540c66b907538ff98833) ![](assets/new.png)  
+- [2021-05-14-重磅！百度开源-JavaScript-深度学习库](https://www.ershicimi.com/p/02eb6f8032cd17fca4af9a572e093a80)  
+- [2021-05-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/5671c03db8358fd1689a9c78a60c33e4)  
+- [2021-05-14-前端每日一题-#106](https://www.ershicimi.com/p/fe01e1ea28126a488ba3a295c4694ace)  
+- [2021-05-14-设计灵感：12组手机计算器App设计](https://www.ershicimi.com/p/56f2416a76991a433fbe78f9e9bcafda)  
+- [2021-05-13-前端都是手写-ECharts-?](https://www.ershicimi.com/p/93730f2ccda5b916b37d378e7c0ae8e4)  
+- [2021-05-13-陌陌、狼人杀等这些爆火的应用，都是啥技术搞得？](https://www.ershicimi.com/p/ce2b33cb113a607c1be71667daf73086)  
+- [2021-05-13-Vue3-+-TypeScript-复盘总结](https://www.ershicimi.com/p/10d4a72407e7f70dc725ffd7bf1108ef)  
+- [2021-05-13-前端每日一题-#105](https://www.ershicimi.com/p/ae289d4a3b21540c66b907538ff98833)  
 - [2021-05-12-前端进阶必备：Vue-3源码学习指南+简历包装](https://www.ershicimi.com/p/ed1b420fcf2c4b5a623c23f8d10ba58b)  
 - [2021-05-12-React-的操作系统梦，任重道远](https://www.ershicimi.com/p/8cb7c6db76d98eeb4a5e9a7f990edbdd)  
 - [2021-05-12-前端每日一题-#104](https://www.ershicimi.com/p/0ec931266817ecc4398aefcfa897dd4c)  
@@ -126,6 +126,7 @@
 </summary>
 
 
+- [2021-05-15-All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy) ![](assets/new.png)  
 - [2021-03-09-业务系统的稳定性建设](https://fed.taobao.org/blog/taofed/do71ct/fc3cy0)  
 - [2021-03-09-Midway-Serverless-发布-2.0，一体化让前端研发再次提效](https://fed.taobao.org/blog/taofed/do71ct/mvd9lw)  
 - [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7)  
@@ -145,7 +146,6 @@
 - [2020-08-27-入职一年多的一些思考](https://fed.taobao.org/blog/taofed/do71ct/sxz5ap)  
 - [2020-08-25-如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3)  
 - [2020-08-21-阿里实习-90-天：从实习生的视角谈谈个人成长](https://fed.taobao.org/blog/taofed/do71ct/acbnym)  
-- [2020-08-01-可折叠Web可能会给我们带来的变化](https://fed.taobao.org/blog/taofed/do71ct/zbxacs)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
