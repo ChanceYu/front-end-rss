@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-15 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-16 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -92,6 +92,7 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2021-05-15-Vue2-彻底从-Flow-重构为-TypeScript，焕然一新！](https://www.ershicimi.com/p/3a910e26c59b00a24c7cf3f3875cd4ca) 
 - [2021-05-13-Vue3-+-TypeScript-复盘总结](https://www.ershicimi.com/p/10d4a72407e7f70dc725ffd7bf1108ef) 
 - [2021-05-12-前端进阶必备：Vue-3源码学习指南+简历包装](https://www.ershicimi.com/p/ed1b420fcf2c4b5a623c23f8d10ba58b) 
 - [2021-05-10-这些-Vue-实战技巧你学会了吗？](https://www.ershicimi.com/p/635697ac6d4b98a2d8d6a24e947d0e39) 
