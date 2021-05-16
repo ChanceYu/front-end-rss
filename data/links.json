@@ -22883,6 +22883,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "使用CSS revert全局关键字还原display显示元素",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/",
+        "date": "2021-05-16"
+      },
+      {
         "title": "输入框value属性赋值触发js change事件的实现",
         "link": "https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/",
         "date": "2021-05-13"
