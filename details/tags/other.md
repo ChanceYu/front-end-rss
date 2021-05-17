@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-16 22:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-17 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-05-17-坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者](https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193) 
+- [2021-05-17-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/bba46d4cdc8b172ad02fd0d28c48e7c0) 
 - [2021-05-14-从传统行业甚至非科班小白，成长为前端专家，我是怎么做到的？|-极客时间](https://www.ershicimi.com/p/b2455c3305e8369bb871d397560053a4) 
 - [2021-05-12-Kotlin-1.5-稳定版发布，2021年第一个大版本更新有何亮点？](https://www.ershicimi.com/p/42daff3413805476d5ca31d5b776fd28) 
 - [2021-05-12-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://www.ershicimi.com/p/de1bb8748c5a9ffd42ef62951d045a2d) 

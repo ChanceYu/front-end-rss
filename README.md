@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-16 22:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-17 18:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2021-05-17-坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者](https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193) ![](assets/new.png)  
+- [2021-05-17-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/bba46d4cdc8b172ad02fd0d28c48e7c0) ![](assets/new.png)  
+- [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288) ![](assets/new.png)  
+- [2021-05-16-Babel陷入财务困境，尤雨溪力挺负责人；玩家反向编译《罪恶都市》，T2要求删除失败；工信部下架90](https://www.ershicimi.com/p/556e0db41fb97243908019057848e5ee) ![](assets/new.png)  
 - [2021-05-14-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/d97f4e2b847fb0917c235b2c8355ee4b)  
 - [2021-05-14-我们如何将-Pinterest-的-iOS-应用大小减少-30%-以上](https://www.ershicimi.com/p/220f20ab2f504b53fc54b28f012bcbd0)  
 - [2021-05-14-从传统行业甚至非科班小白，成长为前端专家，我是怎么做到的？|-极客时间](https://www.ershicimi.com/p/b2455c3305e8369bb871d397560053a4)  
@@ -111,10 +115,6 @@
 - [2021-05-04-大前端领域，什么样的人最吃香？|-InfoQ编程语言4月排行榜](https://www.ershicimi.com/p/18c32469a589b4bb1cfc2b8a1bdffa17)  
 - [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](https://www.ershicimi.com/p/29d45e1fd8c7e880891bd6782287be18)  
 - [2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614)  
-- [2021-04-30-开发人员缺乏经验的7种表现](https://www.ershicimi.com/p/3be0db52c60aa8706541b98d0a5d256d)  
-- [2021-04-30-解决「崩溃」只是第一步：怎样的-Android-应用才算「好应用」？-|-极客时间](https://www.ershicimi.com/p/760c059ab6625a76a5d498a5a2f82d50)  
-- [2021-04-28-美团做-React-Native-性能优化的三个关键点](https://www.ershicimi.com/p/c34e679e6afe09423aab9a7e63d60662)  
-- [2021-04-28-低代码平台和社区开发者的崛起：更多解决方案还是更多问题？](https://www.ershicimi.com/p/589da0aed2a0a8cb55948188738ef391)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2021-05-16-使用CSS-revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/) ![](assets/new.png)  
+- [2021-05-16-使用CSS-revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)  
 - [2021-05-13-输入框value属性赋值触发js-change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/)  
 - [2021-05-09-Promise.all、race和any方法都是什么意思？](https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/)  
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/)  
