@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-17 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-18 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,9 @@
 
 
 
+- [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d) 
+- [2021-05-17-【招聘】快手商业化招前端、客户端工程师](https://www.ershicimi.com/p/f3857a6dc061f049621b40ccec8bda7a) 
+- [2021-05-15-【招聘】上海平安好学前端团队招高级前端开发工程师](https://www.ershicimi.com/p/a90b8cbb023bcf50f9f3691b91a95560) 
 - [2021-04-23-大厂面试常问的前端工程化学习指南，进阶必备](https://www.ershicimi.com/p/1731d475024fc5dcd466e243cff9a05e) 
 - [2021-04-21-【招聘】深圳阿卡索外教网招高级前端开发工程师](https://www.ershicimi.com/p/1ce358a1f02cbe784dd909436ed5d5b6) 
 - [2021-04-19-【招聘】淘系前端智能化团队！社招&校招同步进行中！](https://www.ershicimi.com/p/09395998a9cba582f4971a54c7b03cf3) 

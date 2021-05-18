@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-17 18:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-18 12:00:09，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,13 @@
 </summary>
 
 
+- [2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d) ![](assets/new.png)  
+- [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d) ![](assets/new.png)  
+- [2021-05-17-【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1) ![](assets/new.png)  
+- [2021-05-17-【招聘】快手商业化招前端、客户端工程师](https://www.ershicimi.com/p/f3857a6dc061f049621b40ccec8bda7a) ![](assets/new.png)  
+- [2021-05-16-【第2280期】突破web-应用研发效能的叹息之墙](https://www.ershicimi.com/p/db31f4f14848000906776670361c4133) ![](assets/new.png)  
+- [2021-05-15-【第2279期】Oasis-引擎渲染管线的优化之路](https://www.ershicimi.com/p/b161063d7032697fd83076ac231d2be2) ![](assets/new.png)  
+- [2021-05-15-【招聘】上海平安好学前端团队招高级前端开发工程师](https://www.ershicimi.com/p/a90b8cbb023bcf50f9f3691b91a95560) ![](assets/new.png)  
 - [2021-05-14-分享一个源码学习技巧](https://www.ershicimi.com/p/64085e91a1a7608ec213fcad2a26e583)  
 - [2021-05-14-【第2278期】腾讯文档无障碍化开发：亲近更体贴用户](https://www.ershicimi.com/p/b4034e016129821418436f37df912e96)  
 - [2021-05-13-【第2277期】Cross-Origin-Read-Blocking-CORB](https://www.ershicimi.com/p/a49740a76b30be3b1967e4c25b708077)  
@@ -46,13 +53,6 @@
 - [2021-05-08-【第2272期】大前端领域Middleware有几种实现方式？](https://www.ershicimi.com/p/e5715d38e4fbbda4387454a2c1c5781a)  
 - [2021-05-08-【内推】杭州江小白招前端工程师](https://www.ershicimi.com/p/6712c7696354021374cd9bd0862c1def)  
 - [2021-05-07-手写一个mini-webpack后，再也不怕面试官问我webpack原理了！](https://www.ershicimi.com/p/71c02b69b9ef576f965a66a4cad79229)  
-- [2021-05-07-【第2271期】如何1人5天开发完3D数据可视化大屏之四](https://www.ershicimi.com/p/a66c7135a98749d36210ac7c464bbe19)  
-- [2021-05-06-【第2270期】手把手教你打造前端智能图标识别工具](https://www.ershicimi.com/p/a3c6e792888112ffaab26a7da71cff2e)  
-- [2021-04-30-【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce)  
-- [2021-04-30-【活动】VueConf-2021正式启动](https://www.ershicimi.com/p/26c4e0907355f9f25b1c6a4b43d928e1)  
-- [2021-04-30-【内推】字节跳动互娱前端架构基础工程招人啦（北|杭|深）](https://www.ershicimi.com/p/101cf9f1345ab155011aa08b058b183e)  
-- [2021-04-29-【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](https://www.ershicimi.com/p/27a287e7597a0817af5d506f52b54578)  
-- [2021-04-29-【图书】WebRTC技术详解](https://www.ershicimi.com/p/a9b6b7e0b8375a3df33f66da2934033f)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,10 +95,10 @@
 </summary>
 
 
-- [2021-05-17-坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者](https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193) ![](assets/new.png)  
-- [2021-05-17-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/bba46d4cdc8b172ad02fd0d28c48e7c0) ![](assets/new.png)  
-- [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288) ![](assets/new.png)  
-- [2021-05-16-Babel陷入财务困境，尤雨溪力挺负责人；玩家反向编译《罪恶都市》，T2要求删除失败；工信部下架90](https://www.ershicimi.com/p/556e0db41fb97243908019057848e5ee) ![](assets/new.png)  
+- [2021-05-17-坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者](https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193)  
+- [2021-05-17-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/bba46d4cdc8b172ad02fd0d28c48e7c0)  
+- [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288)  
+- [2021-05-16-Babel陷入财务困境，尤雨溪力挺负责人；玩家反向编译《罪恶都市》，T2要求删除失败；工信部下架90](https://www.ershicimi.com/p/556e0db41fb97243908019057848e5ee)  
 - [2021-05-14-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/d97f4e2b847fb0917c235b2c8355ee4b)  
 - [2021-05-14-我们如何将-Pinterest-的-iOS-应用大小减少-30%-以上](https://www.ershicimi.com/p/220f20ab2f504b53fc54b28f012bcbd0)  
 - [2021-05-14-从传统行业甚至非科班小白，成长为前端专家，我是怎么做到的？|-极客时间](https://www.ershicimi.com/p/b2455c3305e8369bb871d397560053a4)  
