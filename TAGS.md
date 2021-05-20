@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-20 06:00:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-20 08:00:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -290,6 +290,7 @@
 
 
 
+- [【前端早读课】【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999)
 - [【前端早读课】【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9)
 - [【前端早读课】【第2155期】搅动H5游戏世界的鲶鱼——Cocos](https://www.ershicimi.com/p/dd623f9a7c50755407473f28c32a8460)
 - [【前端早读课】【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55)
@@ -309,7 +310,6 @@
 - [【前端大全】three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa)
 - [【前端大全】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b)
 - [【前端大全】纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e)
-- [【前端大全】二营长，快掏个CSS出来给我画个井字棋游戏](https://www.ershicimi.com/p/a82d171041eec23def230bac40a1f709)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -362,6 +362,7 @@
 
 
 
+- [【前端早读课】【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c)
 - [【前端早读课】【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1)
 - [【前端早读课】【第2275期】CSS提取图片主题色功能探索](https://www.ershicimi.com/p/fd89ce95ff821092869a8ac5dcec13cb)
 - [【前端早读课】【第2262期】Web-性能优化：使用-CSS-font-display-控制字体加载和替换](https://www.ershicimi.com/p/98a738b1cbcd8da2272d2d511ea2ee37)
@@ -381,7 +382,6 @@
 - [【前端早读课】【第2144期】只使用-CSS-进行用户追踪](https://www.ershicimi.com/p/47b3db94b2d3eff344d0dd7ba40e2ebf)
 - [【前端早读课】【第2140期】2020-CSS-现状调查](https://www.ershicimi.com/p/f83943b690f9b73b3fef35a0ba49ac1e)
 - [【前端早读课】Sass：LibSass已被废弃](https://www.ershicimi.com/p/3f416ac980a98a985c9a5454d14a9cec)
-- [【前端早读课】阿里开源首个-Serverless-开发者平台-Serverless-Devs](https://www.ershicimi.com/p/fe94614740c34bd1f6e7de5f9dc59323)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

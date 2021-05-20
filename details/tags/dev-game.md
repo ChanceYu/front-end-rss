@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-20 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-20 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999) 
 - [2021-01-28-【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9) 
 - [2020-12-22-【第2155期】搅动H5游戏世界的鲶鱼——Cocos](https://www.ershicimi.com/p/dd623f9a7c50755407473f28c32a8460) 
 - [2020-10-29-【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55) 

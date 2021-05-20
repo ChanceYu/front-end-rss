@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-20 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-20 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,8 @@
 </summary>
 
 
+- [【前端早读课】2021-05-19-【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c) 
+- [【前端早读课】2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999) 
 - [【前端早读课】2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d) 
 - [【前端早读课】2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d) 
 - [【前端早读课】2021-05-17-【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1) 
