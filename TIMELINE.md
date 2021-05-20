@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-20 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-21 06:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -164,6 +164,10 @@
 - [【前端早读课】2021-05-07-手写一个mini-webpack后，再也不怕面试官问我webpack原理了！](https://www.ershicimi.com/p/71c02b69b9ef576f965a66a4cad79229) 
 - [【前端早读课】2021-05-07-【第2271期】如何1人5天开发完3D数据可视化大屏之四](https://www.ershicimi.com/p/a66c7135a98749d36210ac7c464bbe19) 
 - [【前端早读课】2021-05-06-【第2270期】手把手教你打造前端智能图标识别工具](https://www.ershicimi.com/p/a3c6e792888112ffaab26a7da71cff2e) 
+- [【前端大全】2021-05-20-手写一个基于-Proxy-的缓存库](https://www.ershicimi.com/p/707d3ac1de4ac146588190b6c4382cfc) 
+- [【前端大全】2021-05-20-Axios-如何取消重复请求？](https://www.ershicimi.com/p/5fdacbd0d1fdffeed9d9231414b511fa) 
+- [【前端大全】2021-05-20-前端每日一题-#112](https://www.ershicimi.com/p/9348979259d886cf970d72a86fd66493) 
+- [【前端大全】2021-05-20-设计灵感：游戏类APP如何吸引人们的兴趣？](https://www.ershicimi.com/p/107a2f27dd37bb71a235613c18a654fa) 
 - [【前端大全】2021-05-19-Vue-3源码剖析，一次搞定](https://www.ershicimi.com/p/db87b37c773478022f3283f8101edd07) 
 - [【前端大全】2021-05-19-前端录制回放系统初体验](https://www.ershicimi.com/p/d8e051c89aa28dc937595c726539e744) 
 - [【前端大全】2021-05-19-前端每日一题-#111](https://www.ershicimi.com/p/2f81b36dbb0d8a68c3b7f097a6b091a1) 

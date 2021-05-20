@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-20 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-21 06:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -22,6 +22,7 @@
 - [2018-12-05-【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect) 
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [2018-09-20-【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect) 
+- [2021-05-20-设计灵感：游戏类APP如何吸引人们的兴趣？](https://www.ershicimi.com/p/107a2f27dd37bb71a235613c18a654fa) 
 - [2021-04-23-用three.js写一个下雨动画](https://www.ershicimi.com/p/a2ae173f068c0ba6949b8ba230acb1b9) 
 - [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](https://www.ershicimi.com/p/158769aa3fe41cbce92bdbdc146dad38) 
 - [2021-03-15-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa) 

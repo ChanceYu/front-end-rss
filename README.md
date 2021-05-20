@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-20 08:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-21 06:00:17，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-05-19-【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c) ![](assets/new.png)  
-- [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999) ![](assets/new.png)  
+- [2021-05-19-【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c)  
+- [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999)  
 - [2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d)  
 - [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d)  
 - [2021-05-17-【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1)  
@@ -64,6 +64,10 @@
 </summary>
 
 
+- [2021-05-20-手写一个基于-Proxy-的缓存库](https://www.ershicimi.com/p/707d3ac1de4ac146588190b6c4382cfc) ![](assets/new.png)  
+- [2021-05-20-Axios-如何取消重复请求？](https://www.ershicimi.com/p/5fdacbd0d1fdffeed9d9231414b511fa) ![](assets/new.png)  
+- [2021-05-20-前端每日一题-#112](https://www.ershicimi.com/p/9348979259d886cf970d72a86fd66493) ![](assets/new.png)  
+- [2021-05-20-设计灵感：游戏类APP如何吸引人们的兴趣？](https://www.ershicimi.com/p/107a2f27dd37bb71a235613c18a654fa) ![](assets/new.png)  
 - [2021-05-19-Vue-3源码剖析，一次搞定](https://www.ershicimi.com/p/db87b37c773478022f3283f8101edd07)  
 - [2021-05-19-前端录制回放系统初体验](https://www.ershicimi.com/p/d8e051c89aa28dc937595c726539e744)  
 - [2021-05-19-前端每日一题-#111](https://www.ershicimi.com/p/2f81b36dbb0d8a68c3b7f097a6b091a1)  
@@ -80,10 +84,6 @@
 - [2021-05-16-前端每日一题-#108](https://www.ershicimi.com/p/56640c42455176bec3accb555f11fb97)  
 - [2021-05-16-设计灵感：-12张运动健身类网页设计](https://www.ershicimi.com/p/e4231c995668403abbc19144cd068344)  
 - [2021-05-15-用户数百万、月下载超-1-亿，著名开源项目-Babel-却说自己快没钱维护了](https://www.ershicimi.com/p/6ea68c7c7e86fef04fdce717da0402bb)  
-- [2021-05-15-Vue2-彻底从-Flow-重构为-TypeScript，焕然一新！](https://www.ershicimi.com/p/3a910e26c59b00a24c7cf3f3875cd4ca)  
-- [2021-05-15-前端每日一题-#107](https://www.ershicimi.com/p/f3c2cb5877141041df4e9c404144299d)  
-- [2021-05-14-重磅！百度开源-JavaScript-深度学习库](https://www.ershicimi.com/p/02eb6f8032cd17fca4af9a572e093a80)  
-- [2021-05-14-代码简洁之道：编写干净的-React-Components-&-JSX](https://www.ershicimi.com/p/5671c03db8358fd1689a9c78a60c33e4)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
