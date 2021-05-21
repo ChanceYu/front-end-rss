@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-21 06:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-21 08:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-05-20-【招聘】北京百信银行招前端开发工程师](https://www.ershicimi.com/p/56c3643870fe50f96be348fbb596400f) 
 - [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d) 
 - [2021-05-17-【招聘】快手商业化招前端、客户端工程师](https://www.ershicimi.com/p/f3857a6dc061f049621b40ccec8bda7a) 
 - [2021-05-15-【招聘】上海平安好学前端团队招高级前端开发工程师](https://www.ershicimi.com/p/a90b8cbb023bcf50f9f3691b91a95560) 
