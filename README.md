@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-21 12:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-21 18:00:09，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,12 @@
 </summary>
 
 
+- [2021-05-21-历时-2-年、投入-100+-工程师，Coinbase-全面迁移到-React-Native](https://www.ershicimi.com/p/bc0441bd6fab0de715e1634f4b207132) ![](assets/new.png)  
+- [2021-05-21-Wix-如何通过改进基础架构提升网站性能？](https://www.ershicimi.com/p/3586be87aff0f103e36ec9f1d8f220fe) ![](assets/new.png)  
+- [2021-05-21-在网易，是怎样做项目管理的？|-极客时间](https://www.ershicimi.com/p/c04ddbd685abe9f03aa26ba3443f3206) ![](assets/new.png)  
+- [2021-05-19-沉淀组件300+、节约人力成本10000+小时，看去哪儿网低代码平台实践思路](https://www.ershicimi.com/p/0730d421cdbe1e85418126382a714153) ![](assets/new.png)  
+- [2021-05-19-我用-JavaScript-来学习机器学习](https://www.ershicimi.com/p/a59257e131ef33b5b243f5183503b0b0) ![](assets/new.png)  
+- [2021-05-19-声网、新东方、伴鱼英语的音视频技术解读-|-InfoQ](https://www.ershicimi.com/p/1b2de5b79c1d5a0aa7e8d0f5a2762fc5) ![](assets/new.png)  
 - [2021-05-17-坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者](https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193)  
 - [2021-05-17-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/bba46d4cdc8b172ad02fd0d28c48e7c0)  
 - [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288)  
@@ -109,12 +115,6 @@
 - [2021-05-10-为什么我使用-GraphQL-而放弃-REST-API？](https://www.ershicimi.com/p/b4fa10fe32eae0ec53d479000942e20b)  
 - [2021-05-10-如何循序渐进、有效地学习-JavaScript？-|-极客时间](https://www.ershicimi.com/p/24f33cdece7ed89f386e46f799cc8125)  
 - [2021-05-09-今晚9点，连麦尤雨溪，和你聊聊Vue](https://www.ershicimi.com/p/9e2af7b52750af7a0c2b3f46bd72f2bf)  
-- [2021-05-08-微软将在-Windows-中强制删除-Flash；华为或最快于-6-月正式推送鸿蒙OS；IBM制造出](https://www.ershicimi.com/p/803ce435452959787d1db47f1e94a044)  
-- [2021-05-06-看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://www.ershicimi.com/p/238f68f49c1adfb71909fadc1c1643b8)  
-- [2021-05-05-微软加入字节码联盟，参与推进WebAssembly发展](https://www.ershicimi.com/p/8a49b080b64a50f0851142c50d20387d)  
-- [2021-05-04-大前端领域，什么样的人最吃香？|-InfoQ编程语言4月排行榜](https://www.ershicimi.com/p/18c32469a589b4bb1cfc2b8a1bdffa17)  
-- [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](https://www.ershicimi.com/p/29d45e1fd8c7e880891bd6782287be18)  
-- [2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html) ![](assets/new.png)  
+- [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)  
 - [2021-05-19-中国经济的数字逻辑](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html)  
 - [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)  
 - [2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)  
