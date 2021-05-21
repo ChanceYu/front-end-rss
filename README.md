@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-21 08:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-21 12:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-05-20-【第2284期】让-Instagram.com-变得更快：Part-1](https://www.ershicimi.com/p/aad17810fffd59e1c364a5aede5934b9) ![](assets/new.png)  
-- [2021-05-20-【招聘】北京百信银行招前端开发工程师](https://www.ershicimi.com/p/56c3643870fe50f96be348fbb596400f) ![](assets/new.png)  
+- [2021-05-20-【第2284期】让-Instagram.com-变得更快：Part-1](https://www.ershicimi.com/p/aad17810fffd59e1c364a5aede5934b9)  
+- [2021-05-20-【招聘】北京百信银行招前端开发工程师](https://www.ershicimi.com/p/56c3643870fe50f96be348fbb596400f)  
 - [2021-05-19-【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c)  
 - [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999)  
 - [2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html) ![](assets/new.png)  
 - [2021-05-19-中国经济的数字逻辑](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html)  
 - [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)  
 - [2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)  
@@ -207,7 +208,6 @@
 - [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)  
 - [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html)  
 - [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)  
-- [2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

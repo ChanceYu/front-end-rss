@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-21 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-21 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -260,6 +260,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-05-16-使用CSS-revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-05-13-输入框value属性赋值触发js-change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-05-09-Promise.all、race和any方法都是什么意思？](https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/) 
+- [【阮一峰的网络日志】2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html) 
 - [【阮一峰的网络日志】2021-05-19-中国经济的数字逻辑](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html) 
 - [【阮一峰的网络日志】2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html) 
 - [【阮一峰的网络日志】2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html) 
