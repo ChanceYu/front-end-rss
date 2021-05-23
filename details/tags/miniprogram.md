@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-23 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-23 08:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-05-21-【活动】前端充电站武汉专场！Flutter、智能化、小程序等硬核技术等你来~~](https://www.ershicimi.com/p/b3a5d98d282f938e97529f06e2d796df) 
 - [2021-01-18-【招聘】百度智能小程序研发部招Web前端研发工程师（高级、21届校招、实习）](https://www.ershicimi.com/p/c05416bfa3b2ca1b2d62b0ce805704af) 
 - [2020-12-24-【第2157期】聊聊知乎小程序引擎](https://www.ershicimi.com/p/df54b81f25406faea08b88b2236a89a0) 
 - [2020-11-25-【第2128期】大型小程序如何研发提效](https://www.ershicimi.com/p/40178f0b49f5e0f940de4d003371b5b4) 
