@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-24 06:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-24 08:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-05-24-【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113) 
 - [2021-05-22-【图书】JavaScript二十年](https://www.ershicimi.com/p/d564a0108104711f932c715701ef7454) 
 - [2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d) 
 - [2021-05-10-【图书】JavaScript深度学习](https://www.ershicimi.com/p/c249d922d214cf418315dc528f7a5abc) 
