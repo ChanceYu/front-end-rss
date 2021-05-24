@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-24 08:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-25 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -464,6 +464,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-05-24-前端每日一题-#116](https://www.ershicimi.com/p/e07004c3f08ab62372e95461660b71a6) 
+- [2021-05-24-设计灵感-:12组简洁精致的导航栏设计方案](https://www.ershicimi.com/p/da130a879ceac6d5ec7d32a38729cb9d) 
 - [2021-05-23-一切前端概念，都是纸老虎](https://www.ershicimi.com/p/dcdbc7ba3f2642d4c7efe43df5711679) 
 - [2021-05-23-前端每日一题-#115](https://www.ershicimi.com/p/3a58594ef7ffa8fa690039df71a73630) 
 - [2021-05-22-前端每日一题-#114](https://www.ershicimi.com/p/3017a97ba3b27f8d1994e61ed7640796) 
