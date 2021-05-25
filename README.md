@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-25 08:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-25 18:00:08，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,8 +33,8 @@
 </summary>
 
 
-- [2021-05-25-【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019) ![](assets/new.png)  
-- [2021-05-25-微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951) ![](assets/new.png)  
+- [2021-05-25-【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019)  
+- [2021-05-25-微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951)  
 - [2021-05-24-【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113)  
 - [2021-05-24-【招聘】北京字节跳DATA-EDU招前端工程师/架构师](https://www.ershicimi.com/p/ae4677391d45c0b247334f8d70f4f599)  
 - [2021-05-23-【第2287期】让-Instagram.com-变得更快:-缓存优先](https://www.ershicimi.com/p/da7b964a9948534fac5f431936a6b856)  
@@ -95,6 +95,10 @@
 </summary>
 
 
+- [2021-05-24-停止使用-IE-11，微软将用-Edge-全面替换-IE](https://www.ershicimi.com/p/d16b1bc7a172be2eebaace3128d49160) ![](assets/new.png)  
+- [2021-05-24-2021-年-10-大流行软件测试工具](https://www.ershicimi.com/p/2bb55d4a147726c58aa6719af11c6bed) ![](assets/new.png)  
+- [2021-05-24-面试的作用，绝不仅限于跳槽-|-极客时间](https://www.ershicimi.com/p/5da14e5a67c3e8a4b7433555f69908dd) ![](assets/new.png)  
+- [2021-05-23-微软：Windows-10X已死；七年来最大更新：Android-12-Beta版本发布；微信“炸一](https://www.ershicimi.com/p/8e1d874db24c83f51e4b3c26be4a7b9b) ![](assets/new.png)  
 - [2021-05-21-历时-2-年、投入-100+-工程师，Coinbase-全面迁移到-React-Native](https://www.ershicimi.com/p/bc0441bd6fab0de715e1634f4b207132)  
 - [2021-05-21-Wix-如何通过改进基础架构提升网站性能？](https://www.ershicimi.com/p/3586be87aff0f103e36ec9f1d8f220fe)  
 - [2021-05-21-在网易，是怎样做项目管理的？|-极客时间](https://www.ershicimi.com/p/c04ddbd685abe9f03aa26ba3443f3206)  
@@ -111,10 +115,6 @@
 - [2021-05-12-Kotlin-1.5-稳定版发布，2021年第一个大版本更新有何亮点？](https://www.ershicimi.com/p/42daff3413805476d5ca31d5b776fd28)  
 - [2021-05-12-苹果的反跟踪新功能大受欢迎，你更新了吗？](https://www.ershicimi.com/p/de1bb8748c5a9ffd42ef62951d045a2d)  
 - [2021-05-12-比带薪休假更吸引人的，是高效工作-|-极客时间](https://www.ershicimi.com/p/99e1c34bfc08525298c6557a448e4c4c)  
-- [2021-05-10-UML-怎么就真“挂”了？](https://www.ershicimi.com/p/1c9090b3159356dc5e849e9dbb1448a3)  
-- [2021-05-10-为什么我使用-GraphQL-而放弃-REST-API？](https://www.ershicimi.com/p/b4fa10fe32eae0ec53d479000942e20b)  
-- [2021-05-10-如何循序渐进、有效地学习-JavaScript？-|-极客时间](https://www.ershicimi.com/p/24f33cdece7ed89f386e46f799cc8125)  
-- [2021-05-09-今晚9点，连麦尤雨溪，和你聊聊Vue](https://www.ershicimi.com/p/9e2af7b52750af7a0c2b3f46bd72f2bf)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
