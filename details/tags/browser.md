@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-25 06:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-25 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-05-25-微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951) 
 - [2021-05-23-【第2287期】让-Instagram.com-变得更快:-缓存优先](https://www.ershicimi.com/p/da7b964a9948534fac5f431936a6b856) 
 - [2021-05-10-【第2274期】target=_blank和target=blank的区别](https://www.ershicimi.com/p/94c4ce2b219370d5e8f884ad87b310e8) 
 - [2021-04-09-【第2248期】安全背后:-浏览器是如何校验证书的](https://www.ershicimi.com/p/a317d7a755c0441175e56fc615802364) 

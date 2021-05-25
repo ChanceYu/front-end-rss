@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-25 06:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-25 08:00:08，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,8 @@
 </summary>
 
 
+- [2021-05-25-【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019) ![](assets/new.png)  
+- [2021-05-25-微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951) ![](assets/new.png)  
 - [2021-05-24-【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113)  
 - [2021-05-24-【招聘】北京字节跳DATA-EDU招前端工程师/架构师](https://www.ershicimi.com/p/ae4677391d45c0b247334f8d70f4f599)  
 - [2021-05-23-【第2287期】让-Instagram.com-变得更快:-缓存优先](https://www.ershicimi.com/p/da7b964a9948534fac5f431936a6b856)  
@@ -51,8 +53,6 @@
 - [2021-05-17-【招聘】快手商业化招前端、客户端工程师](https://www.ershicimi.com/p/f3857a6dc061f049621b40ccec8bda7a)  
 - [2021-05-16-【第2280期】突破web-应用研发效能的叹息之墙](https://www.ershicimi.com/p/db31f4f14848000906776670361c4133)  
 - [2021-05-15-【第2279期】Oasis-引擎渲染管线的优化之路](https://www.ershicimi.com/p/b161063d7032697fd83076ac231d2be2)  
-- [2021-05-15-【招聘】上海平安好学前端团队招高级前端开发工程师](https://www.ershicimi.com/p/a90b8cbb023bcf50f9f3691b91a95560)  
-- [2021-05-14-分享一个源码学习技巧](https://www.ershicimi.com/p/64085e91a1a7608ec213fcad2a26e583)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-05-24-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/e5cde846e0e90c07f80d84812c89e3f0) ![](assets/new.png)  
-- [2021-05-24-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/a96cf0e8c69b9fd0dd252a4bfdb84c1e) ![](assets/new.png)  
-- [2021-05-24-前端每日一题-#116](https://www.ershicimi.com/p/e07004c3f08ab62372e95461660b71a6) ![](assets/new.png)  
-- [2021-05-24-设计灵感-:12组简洁精致的导航栏设计方案](https://www.ershicimi.com/p/da130a879ceac6d5ec7d32a38729cb9d) ![](assets/new.png)  
+- [2021-05-24-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/e5cde846e0e90c07f80d84812c89e3f0)  
+- [2021-05-24-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/a96cf0e8c69b9fd0dd252a4bfdb84c1e)  
+- [2021-05-24-前端每日一题-#116](https://www.ershicimi.com/p/e07004c3f08ab62372e95461660b71a6)  
+- [2021-05-24-设计灵感-:12组简洁精致的导航栏设计方案](https://www.ershicimi.com/p/da130a879ceac6d5ec7d32a38729cb9d)  
 - [2021-05-23-一切前端概念，都是纸老虎](https://www.ershicimi.com/p/dcdbc7ba3f2642d4c7efe43df5711679)  
 - [2021-05-23-Node.js-16-发布，V8-升级至-9.0！](https://www.ershicimi.com/p/a062da762d049641f1360b458d0d2470)  
 - [2021-05-23-前端每日一题-#115](https://www.ershicimi.com/p/3a58594ef7ffa8fa690039df71a73630)  
