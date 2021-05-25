@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-25 18:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-26 06:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -52,6 +52,7 @@
 - [2018-09-23-【第1402期】云开发初探-——-更简便的小程序开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229939&idx=1&sn=7da77cc15457721951a82477d68a6263#wechat_redirect) 
 - [2018-09-21-【第1400期】小程序的全栈开发新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=1&sn=c4da922ac376114079b5f54abc3c6eaa#wechat_redirect) 
 - [2018-09-21-多端统一开发框架-Taro-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=2&sn=8815ff5cc983fb9021a988c3f46fa7b6#wechat_redirect) 
+- [2021-05-25-小程序用户登录架构设计](https://www.ershicimi.com/p/f97042f1ebbcb2b6ffb0cc5f2e2e28af) 
 - [2021-05-21-小程序静默登录方案设计](https://www.ershicimi.com/p/09659c25790d31ab7e27831a08b62bac) 
 - [2021-03-09-小程序开发项目中各种痛点问题及解决方案](https://www.ershicimi.com/p/b88e9d5a9ca48717377184bad439645f) 
 - [2021-03-06-百度智能小程序框架性能优化实践](https://www.ershicimi.com/p/94190db828e72ed80460a8001ba5c72f) 
