@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-05-26 06:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-26 08:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -506,6 +506,7 @@
 
 
 
+- [【前端早读课】【第2290期】深入理解-CORS：发展史、工作原理和最佳实践](https://www.ershicimi.com/p/f3afe535398ca6744e9be18c6d8498f9)
 - [【前端早读课】微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951)
 - [【前端早读课】【第2287期】让-Instagram.com-变得更快:-缓存优先](https://www.ershicimi.com/p/da7b964a9948534fac5f431936a6b856)
 - [【前端早读课】【第2274期】target=_blank和target=blank的区别](https://www.ershicimi.com/p/94c4ce2b219370d5e8f884ad87b310e8)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第2142期】Chrome浏览器Referrer-Policy默认值变更](https://www.ershicimi.com/p/a1e5f72d1817a22d47e452fe88172faa)
 - [【前端早读课】【第2129期】探讨浏览器指纹](https://www.ershicimi.com/p/f790744c16a1f32b7d4cdddb45515ca4)
 - [【前端早读课】【第2125期】解决-Web-应用与浏览器快捷键冲突的一条野路子](https://www.ershicimi.com/p/c74c8072ce54da5c94ff129d36f5efd0)
-- [【前端早读课】【第2119期】浏览器端录制技术的探索与实践](https://www.ershicimi.com/p/e3bb687ee8a39f8541ad227b33f77a32)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

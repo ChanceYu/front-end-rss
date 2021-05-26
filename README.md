@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-26 06:00:11，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-26 08:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2021-05-26-【第2290期】深入理解-CORS：发展史、工作原理和最佳实践](https://www.ershicimi.com/p/f3afe535398ca6744e9be18c6d8498f9) ![](assets/new.png)  
 - [2021-05-25-【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019)  
 - [2021-05-25-微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951)  
 - [2021-05-24-【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113)  
@@ -52,7 +53,6 @@
 - [2021-05-17-【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1)  
 - [2021-05-17-【招聘】快手商业化招前端、客户端工程师](https://www.ershicimi.com/p/f3857a6dc061f049621b40ccec8bda7a)  
 - [2021-05-16-【第2280期】突破web-应用研发效能的叹息之墙](https://www.ershicimi.com/p/db31f4f14848000906776670361c4133)  
-- [2021-05-15-【第2279期】Oasis-引擎渲染管线的优化之路](https://www.ershicimi.com/p/b161063d7032697fd83076ac231d2be2)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2021-05-25-终于有人把内卷和囚徒困境讲明白了](https://www.ershicimi.com/p/e690c7b1acf52e2fafb3e33f7f90a566) ![](assets/new.png)  
-- [2021-05-25-小程序用户登录架构设计](https://www.ershicimi.com/p/f97042f1ebbcb2b6ffb0cc5f2e2e28af) ![](assets/new.png)  
-- [2021-05-25-前端每日一题-#117](https://www.ershicimi.com/p/917f5bbf27165e98f4788313e4a3d9e5) ![](assets/new.png)  
+- [2021-05-25-终于有人把内卷和囚徒困境讲明白了](https://www.ershicimi.com/p/e690c7b1acf52e2fafb3e33f7f90a566)  
+- [2021-05-25-小程序用户登录架构设计](https://www.ershicimi.com/p/f97042f1ebbcb2b6ffb0cc5f2e2e28af)  
+- [2021-05-25-前端每日一题-#117](https://www.ershicimi.com/p/917f5bbf27165e98f4788313e4a3d9e5)  
 - [2021-05-24-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/e5cde846e0e90c07f80d84812c89e3f0)  
 - [2021-05-24-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/a96cf0e8c69b9fd0dd252a4bfdb84c1e)  
 - [2021-05-24-前端每日一题-#116](https://www.ershicimi.com/p/e07004c3f08ab62372e95461660b71a6)  
