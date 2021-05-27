@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-26 08:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-27 12:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,7 +33,8 @@
 </summary>
 
 
-- [2021-05-26-【第2290期】深入理解-CORS：发展史、工作原理和最佳实践](https://www.ershicimi.com/p/f3afe535398ca6744e9be18c6d8498f9) ![](assets/new.png)  
+- [2021-05-27-【第2291期】探秘CSS光影效果](https://www.ershicimi.com/p/b8a1b1494b4dd6f31dd1583b0e493670) ![](assets/new.png)  
+- [2021-05-26-【第2290期】深入理解-CORS：发展史、工作原理和最佳实践](https://www.ershicimi.com/p/f3afe535398ca6744e9be18c6d8498f9)  
 - [2021-05-25-【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019)  
 - [2021-05-25-微软终于要在2022年让ie浏览器退役了](https://www.ershicimi.com/p/f47178e04905dbaa669d4e6f9b456951)  
 - [2021-05-24-【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113)  
@@ -52,7 +53,6 @@
 - [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d)  
 - [2021-05-17-【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1)  
 - [2021-05-17-【招聘】快手商业化招前端、客户端工程师](https://www.ershicimi.com/p/f3857a6dc061f049621b40ccec8bda7a)  
-- [2021-05-16-【第2280期】突破web-应用研发效能的叹息之墙](https://www.ershicimi.com/p/db31f4f14848000906776670361c4133)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
