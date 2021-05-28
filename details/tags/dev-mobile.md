@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-28 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-28 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -21,6 +21,7 @@
 - [2020-10-19-一套代码、多端运行，大前端时代，如何用Flutter制霸全平台？](https://www.ershicimi.com/p/c357dbc391ed67d45ea04c46b28e04d7) 
 - [2020-07-06-Flutter-不火，天理难容！](https://www.ershicimi.com/p/cc4d8c2c94ce6982017097256f2e5d07) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2021-05-26-是迄今为止最优秀的-Flutter-版本：Flutter-2.2-正式发布](https://www.ershicimi.com/p/40fa94571c50af1b4d332e141c0e35cc) 
 - [2021-04-23-闲鱼正在悄悄放弃-Flutter-吗？](https://www.ershicimi.com/p/6a5eec9c3474716924a503b1edca50f3) 
 - [2021-03-25-斗胆，谈谈我对Flutter的理解](https://www.ershicimi.com/p/4b7e192cbcdfb18c6abf18bd03a96f2a) 
 - [2021-03-19-Flutter-正在被悄悄放弃吗？](https://www.ershicimi.com/p/c327a401b5f2a5e98616f511ea779779) 

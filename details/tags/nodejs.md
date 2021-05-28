@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-28 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-28 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -96,6 +96,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2) 
 - [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288) 
 - [2021-04-23-桌面应用开发利器：Electron-|-极客时间](https://www.ershicimi.com/p/0f8015a46e5bcf69811b6ff9d333851f) 
 - [2021-03-22-字节跳动最爱考的前端面试题：Node.js-基础-|-极客时间](https://www.ershicimi.com/p/077e66c4ca0505e7b1ec505821d0a83a) 

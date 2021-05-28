@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-28 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-28 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1036,6 +1036,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf) 
+- [2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7) 
+- [2021-05-26-逆风飞翔？决定要做前端中台的时候，我们十分冷静](https://www.ershicimi.com/p/ccde9f493335ce54007af556c5cc3220) 
 - [2021-05-24-2021-年-10-大流行软件测试工具](https://www.ershicimi.com/p/2bb55d4a147726c58aa6719af11c6bed) 
 - [2021-05-23-微软：Windows-10X已死；七年来最大更新：Android-12-Beta版本发布；微信“炸一](https://www.ershicimi.com/p/8e1d874db24c83f51e4b3c26be4a7b9b) 
 - [2021-05-21-在网易，是怎样做项目管理的？|-极客时间](https://www.ershicimi.com/p/c04ddbd685abe9f03aa26ba3443f3206) 
