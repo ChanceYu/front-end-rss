@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "一文搞定大厂常考Vue 和 React 面试题",
+        "link": "https://www.ershicimi.com/p/3089de00508685432d64b9126c8dc53c",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "【第2292期】 @尤雨溪：Vue3 生态进展和计划",
+        "link": "https://www.ershicimi.com/p/cdede277c73d213053fb137787f422df",
+        "date": "2021-05-28"
+      },
+      {
         "title": "【第2291期】探秘CSS光影效果",
         "link": "https://www.ershicimi.com/p/b8a1b1494b4dd6f31dd1583b0e493670",
         "date": "2021-05-27"
@@ -7466,6 +7476,41 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "假如今天让你写一个可自由拖拽的组件",
+        "link": "https://www.ershicimi.com/p/ac999982d0facf81b88f93301401abe1",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "前端工程师的一大神器：puppeteer",
+        "link": "https://www.ershicimi.com/p/49bd664e96f15afc176f884a9b634d9e",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "前端每日一题 #119",
+        "link": "https://www.ershicimi.com/p/d712ffa9b3456b06e68fdc02aef9fc4b",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "看完这篇 React Hooks，跟面试官扯皮就没问题了",
+        "link": "https://www.ershicimi.com/p/5d389cdb504241d823857e6291c89dd9",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "有意思！CSS 文字装饰还能这样玩~",
+        "link": "https://www.ershicimi.com/p/d75b601e27cf11be4fdc97609c542ed8",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "前端每日一题 #118",
+        "link": "https://www.ershicimi.com/p/b793a9f4d2a86129892821ec47f40313",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "设计灵感：12组深色模式财务仪表设计",
+        "link": "https://www.ershicimi.com/p/96831c519d0fbb4a7c0358b41dc49d78",
+        "date": "2021-05-26"
+      },
       {
         "title": "终于有人把内卷和囚徒困境讲明白了",
         "link": "https://www.ershicimi.com/p/e690c7b1acf52e2fafb3e33f7f90a566",
@@ -24164,6 +24209,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 160 期）：中年码农的困境",
+        "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
+        "date": "2021-05-28"
+      },
       {
         "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪",
         "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",

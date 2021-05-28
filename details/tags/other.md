@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-27 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-28 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -465,6 +465,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-05-27-前端工程师的一大神器：puppeteer](https://www.ershicimi.com/p/49bd664e96f15afc176f884a9b634d9e) 
+- [2021-05-27-前端每日一题-#119](https://www.ershicimi.com/p/d712ffa9b3456b06e68fdc02aef9fc4b) 
+- [2021-05-26-前端每日一题-#118](https://www.ershicimi.com/p/b793a9f4d2a86129892821ec47f40313) 
+- [2021-05-26-设计灵感：12组深色模式财务仪表设计](https://www.ershicimi.com/p/96831c519d0fbb4a7c0358b41dc49d78) 
 - [2021-05-25-终于有人把内卷和囚徒困境讲明白了](https://www.ershicimi.com/p/e690c7b1acf52e2fafb3e33f7f90a566) 
 - [2021-05-25-前端每日一题-#117](https://www.ershicimi.com/p/917f5bbf27165e98f4788313e4a3d9e5) 
 - [2021-05-24-前端每日一题-#116](https://www.ershicimi.com/p/e07004c3f08ab62372e95461660b71a6) 
@@ -1635,6 +1639,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html) 
 - [2021-05-19-中国经济的数字逻辑](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html) 
 - [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html) 
 - [2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html) 
