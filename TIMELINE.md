@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-29 08:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-05-29 18:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -277,6 +277,7 @@
 - [【前端大全】2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3) 
 - [【前端大全】2021-05-01-前端每日一题-#94](https://www.ershicimi.com/p/29dbb542d1b4874378e8f00937cf016c) 
 - [【前端大全】2021-05-01-设计灵感：12组暖色系食谱App界面设计](https://www.ershicimi.com/p/d18cb7b195696225feee712ba89925bb) 
+- [【前端之巅】2021-05-29-尤雨溪：做技术哪有什么两全之策，都是取舍和平衡](https://www.ershicimi.com/p/b6d73a9da9d017af48e17126ad5363b5) 
 - [【前端之巅】2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf) 
 - [【前端之巅】2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2) 
 - [【前端之巅】2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7) 

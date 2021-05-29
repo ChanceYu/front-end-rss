@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-29 08:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-29 18:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,7 +33,7 @@
 </summary>
 
 
-- [2021-05-29-【第2293期】@Anthony-Fu：可组合的-Vue](https://www.ershicimi.com/p/d2425e7bf554d19d68da11144b2b582b) ![](assets/new.png)  
+- [2021-05-29-【第2293期】@Anthony-Fu：可组合的-Vue](https://www.ershicimi.com/p/d2425e7bf554d19d68da11144b2b582b)  
 - [2021-05-28-一文搞定大厂常考Vue-和-React-面试题](https://www.ershicimi.com/p/3089de00508685432d64b9126c8dc53c)  
 - [2021-05-28-【第2292期】-@尤雨溪：Vue3-生态进展和计划](https://www.ershicimi.com/p/cdede277c73d213053fb137787f422df)  
 - [2021-05-27-【第2291期】探秘CSS光影效果](https://www.ershicimi.com/p/b8a1b1494b4dd6f31dd1583b0e493670)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2021-05-29-尤雨溪：做技术哪有什么两全之策，都是取舍和平衡](https://www.ershicimi.com/p/b6d73a9da9d017af48e17126ad5363b5) ![](assets/new.png)  
 - [2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf)  
 - [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2)  
 - [2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7)  
@@ -114,7 +115,6 @@
 - [2021-05-17-坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者](https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193)  
 - [2021-05-17-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/bba46d4cdc8b172ad02fd0d28c48e7c0)  
 - [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288)  
-- [2021-05-16-Babel陷入财务困境，尤雨溪力挺负责人；玩家反向编译《罪恶都市》，T2要求删除失败；工信部下架90](https://www.ershicimi.com/p/556e0db41fb97243908019057848e5ee)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
