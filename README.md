@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-28 18:00:10，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-29 08:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2021-05-29-【第2293期】@Anthony-Fu：可组合的-Vue](https://www.ershicimi.com/p/d2425e7bf554d19d68da11144b2b582b) ![](assets/new.png)  
 - [2021-05-28-一文搞定大厂常考Vue-和-React-面试题](https://www.ershicimi.com/p/3089de00508685432d64b9126c8dc53c)  
 - [2021-05-28-【第2292期】-@尤雨溪：Vue3-生态进展和计划](https://www.ershicimi.com/p/cdede277c73d213053fb137787f422df)  
 - [2021-05-27-【第2291期】探秘CSS光影效果](https://www.ershicimi.com/p/b8a1b1494b4dd6f31dd1583b0e493670)  
@@ -52,7 +53,6 @@
 - [2021-05-19-【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c)  
 - [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999)  
 - [2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d)  
-- [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](https://www.ershicimi.com/p/8e53893c99b802aeacc4a6c4b9c5652d)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,12 +95,12 @@
 </summary>
 
 
-- [2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf) ![](assets/new.png)  
-- [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2) ![](assets/new.png)  
-- [2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7) ![](assets/new.png)  
-- [2021-05-26-逆风飞翔？决定要做前端中台的时候，我们十分冷静](https://www.ershicimi.com/p/ccde9f493335ce54007af556c5cc3220) ![](assets/new.png)  
-- [2021-05-26-是迄今为止最优秀的-Flutter-版本：Flutter-2.2-正式发布](https://www.ershicimi.com/p/40fa94571c50af1b4d332e141c0e35cc) ![](assets/new.png)  
-- [2021-05-26-这几天，快被-React-Hooks-搞疯了-|-极客时间](https://www.ershicimi.com/p/a594dc715a577085b29430c7d95e2a76) ![](assets/new.png)  
+- [2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf)  
+- [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2)  
+- [2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7)  
+- [2021-05-26-逆风飞翔？决定要做前端中台的时候，我们十分冷静](https://www.ershicimi.com/p/ccde9f493335ce54007af556c5cc3220)  
+- [2021-05-26-是迄今为止最优秀的-Flutter-版本：Flutter-2.2-正式发布](https://www.ershicimi.com/p/40fa94571c50af1b4d332e141c0e35cc)  
+- [2021-05-26-这几天，快被-React-Hooks-搞疯了-|-极客时间](https://www.ershicimi.com/p/a594dc715a577085b29430c7d95e2a76)  
 - [2021-05-24-停止使用-IE-11，微软将用-Edge-全面替换-IE](https://www.ershicimi.com/p/d16b1bc7a172be2eebaace3128d49160)  
 - [2021-05-24-2021-年-10-大流行软件测试工具](https://www.ershicimi.com/p/2bb55d4a147726c58aa6719af11c6bed)  
 - [2021-05-24-面试的作用，绝不仅限于跳槽-|-极客时间](https://www.ershicimi.com/p/5da14e5a67c3e8a4b7433555f69908dd)  
