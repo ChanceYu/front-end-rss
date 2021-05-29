@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-05-29 18:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-05-30 06:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,7 +95,7 @@
 </summary>
 
 
-- [2021-05-29-尤雨溪：做技术哪有什么两全之策，都是取舍和平衡](https://www.ershicimi.com/p/b6d73a9da9d017af48e17126ad5363b5) ![](assets/new.png)  
+- [2021-05-29-尤雨溪：做技术哪有什么两全之策，都是取舍和平衡](https://www.ershicimi.com/p/b6d73a9da9d017af48e17126ad5363b5)  
 - [2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf)  
 - [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2)  
 - [2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/) ![](assets/new.png)  
 - [2021-05-16-使用CSS-revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)  
 - [2021-05-13-输入框value属性赋值触发js-change事件的实现](https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/)  
 - [2021-05-09-Promise.all、race和any方法都是什么意思？](https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/)  
@@ -176,7 +177,6 @@
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/)  
 - [2021-02-14-直线等图形从中间穿过元素或文字的CSS实现](https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/)  
 - [2021-02-14-了解CSS-revert全局关键字](https://www.zhangxinxu.com/wordpress/2021/02/css-revert/)  
-- [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
