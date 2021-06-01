@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-31 12:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-06-01 08:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -13,7 +13,7 @@
 <td><a href="#2021-03">03月</a></td>
 <td><a href="#2021-04">04月</a></td>
 <td><a href="#2021-05">05月</a></td>
-<td>06月</td>
+<td><a href="#2021-06">06月</a></td>
 <td>07月</td>
 <td>08月</td>
 <td>09月</td>
@@ -135,11 +135,25 @@
 ## 文章链接
 
 <details open>
+<summary id="2021-06">
+ 2021-06
+</summary>
+
+
+- [【前端早读课】2021-06-01-【第2296期】让instagram.com更快：代码大小和执行的优化](https://www.ershicimi.com/p/f5526d59353876f84fa8e4b3ba7ce878) 
+- [【前端早读课】2021-06-01-【招聘】上海美团餐饮SaaS招前端工程师/架构师](https://www.ershicimi.com/p/df43c4e6d175d4af9b7240dc7676825d) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
 <summary id="2021-05">
  2021-05
 </summary>
 
 
+- [【前端早读课】2021-05-31-【第2295期】@HcySunYang：Vue3-在编译优化方面做的努力](https://www.ershicimi.com/p/6e10a5e98ff637944a45cf82b2753e09) 
+- [【前端早读课】2021-05-31-【招聘】北京转转招web前端工程师、高级Web前端工程师架构方向](https://www.ershicimi.com/p/c9376a910645898e8557d785760ca884) 
 - [【前端早读课】2021-05-30-【第2294期】Gitpod-—-Online-IDE-For-GitHub](https://www.ershicimi.com/p/2642a12991ac1da289956081b173004c) 
 - [【前端早读课】2021-05-29-【第2293期】@Anthony-Fu：可组合的-Vue](https://www.ershicimi.com/p/d2425e7bf554d19d68da11144b2b582b) 
 - [【前端早读课】2021-05-28-一文搞定大厂常考Vue-和-React-面试题](https://www.ershicimi.com/p/3089de00508685432d64b9126c8dc53c) 
