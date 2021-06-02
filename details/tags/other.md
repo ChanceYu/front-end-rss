@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-02 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-02 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -465,6 +465,13 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-06-02-玉伯、尤雨溪、于冰……他们眼中的大前端趋势](https://www.ershicimi.com/p/5a82280c8743b5fc3a876a9e492b4c16) 
+- [2021-06-02-前端每日一题-#125](https://www.ershicimi.com/p/df1bc5e95bb9287da343ca5d832cbd8c) 
+- [2021-06-02-设计灵感-：12-组购物-App-界面设计](https://www.ershicimi.com/p/61a387d034a95d10a85a53e7050d90a5) 
+- [2021-06-01-领导：“我们没有加班费，都是自愿加班的！”](https://www.ershicimi.com/p/8be705858af2dc57d17c0155a334dfac) 
+- [2021-06-01-“这个需求做不了！”](https://www.ershicimi.com/p/c5ccf839246d81de6e3e1cce068145cf) 
+- [2021-06-01-前端每日一题-#124](https://www.ershicimi.com/p/91a30316da7227faea9b6bd523cd6ae4) 
+- [2021-06-01-设计灵感：-12款深色系金融类界面设计](https://www.ershicimi.com/p/80d76ae81e221869ca70151af96ded7e) 
 - [2021-05-31-前端每日一题-#123](https://www.ershicimi.com/p/20361e8e58cbd5ed234a637933fe7138) 
 - [2021-05-31-设计灵感：12款耳机产品网页设计](https://www.ershicimi.com/p/664b272afea9b737399ab39cd6803ba2) 
 - [2021-05-30-前端每日一题-#122](https://www.ershicimi.com/p/ce7949ecff997848a2c56c990470fe64) 
@@ -1043,6 +1050,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-06-02-Apache-ECharts-团队：ASF-顶级项目是怎么炼成的？](https://www.ershicimi.com/p/658b25d599451681e3d9e39c2de60884) 
+- [2021-06-02-Dropbox-如何解决-Android-App-的内存泄漏问题？](https://www.ershicimi.com/p/46233d49f85f8709e5bc0a38386694b8) 
+- [2021-06-02-技术转管理？这些坑你要注意了-｜-极客时间](https://www.ershicimi.com/p/5698e16ae75f043461e9eb6c60d127d0) 
 - [2021-05-31-我们4个人做了一款年入百万美元的邮件客户端](https://www.ershicimi.com/p/9fa0134d727fecf8f0936a9e211ed728) 
 - [2021-05-31-近-30-年的开源项目被“夺权”，员工集体离职后成立新项目抗衡](https://www.ershicimi.com/p/f964a3dcd5cff90cbe5aa56c9090bc47) 
 - [2021-05-30-“雷军称年轻人入职半年内不要提意见”引热议；Google-正式推出-Fuchsia-OS；华为将正式](https://www.ershicimi.com/p/e272e89720447b6259bcbf5f5b7402e8) 
