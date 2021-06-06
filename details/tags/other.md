@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-04 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-06 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -467,6 +467,12 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-06-06-漫画：前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/a53283a16d26587e31d88142d2d035b7) 
+- [2021-06-06-苹果程序员发出了-“求救信号”](https://www.ershicimi.com/p/76cdf1948f7f897b1f13544a477acd7c) 
+- [2021-06-06-前端每日一题-#129](https://www.ershicimi.com/p/d731e20692946e36206e1e3f0964ad72) 
+- [2021-06-05-我是如何突围传统行业的？](https://www.ershicimi.com/p/d77b77ad6f67cefac893eae63fccaed5) 
+- [2021-06-05-前端每日一题-#128](https://www.ershicimi.com/p/affafed25c1863aa28233a0cafdae4a9) 
+- [2021-06-05-设计灵感：如何设计一个好看的财务仪表呢？](https://www.ershicimi.com/p/c735234eb42869d0b08e72d2a3ea078b) 
 - [2021-06-04-大厂程序员凡尔赛的一天](https://www.ershicimi.com/p/cad6e97d48be12e1fd2d2ddbcee81ee3) 
 - [2021-06-04-前端每日一题-#127](https://www.ershicimi.com/p/ab91a654d394b6ef1fb9ebdaa7e7c480) 
 - [2021-06-03-这个进阶前端技能的“外挂”，绝了！（限时福利）](https://www.ershicimi.com/p/c1fd60be76225c702a48fdf5b7526855) 
@@ -1057,6 +1063,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-06-04-服务-24-亿级用户-App-的大前端实践](https://www.ershicimi.com/p/affbc2bc9baab0f9052485d0a0cec5d4) 
+- [2021-06-04-前端助教有偿招募-|-成长最好的方式，就是教别人](https://www.ershicimi.com/p/865cdfd985a68916593dc517921733c9) 
 - [2021-06-02-Apache-ECharts-团队：ASF-顶级项目是怎么炼成的？](https://www.ershicimi.com/p/658b25d599451681e3d9e39c2de60884) 
 - [2021-06-02-Dropbox-如何解决-Android-App-的内存泄漏问题？](https://www.ershicimi.com/p/46233d49f85f8709e5bc0a38386694b8) 
 - [2021-06-02-技术转管理？这些坑你要注意了-｜-极客时间](https://www.ershicimi.com/p/5698e16ae75f043461e9eb6c60d127d0) 
