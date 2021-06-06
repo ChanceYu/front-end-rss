@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2021-06-06 18:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-07 06:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-06-05-【第2300期】@underfin：Vite，下一代Web工具](https://www.ershicimi.com/p/898c96010fc8fd2260608b8263bfe549) 
+- [2021-06-05-谷歌AMP已死!-AMP页面在谷歌搜索中不再得到优惠待遇](https://www.ershicimi.com/p/43e7d4470576b1b43e50af12fc1d33c1) 
 - [2021-06-04-【第2299期】iconfont支持全新的彩色字体图标](https://www.ershicimi.com/p/af94329a15c25b4facd5ee6f354d3389) 
 - [2021-06-03-【第2298期】云凤蝶低代码之路](https://www.ershicimi.com/p/8f35b4f7d8e816d6145edc331f10d606) 
 - [2021-05-25-【第2289期】Emoji的奥秘](https://www.ershicimi.com/p/f12f06786b9ea93917e37edbaf3b9019) 
