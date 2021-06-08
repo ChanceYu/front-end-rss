@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-08 06:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-08 08:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,7 +33,8 @@
 </summary>
 
 
-- [2021-06-07-【第2302期】三维相机入门](https://www.ershicimi.com/p/42bb75be66db32823eaa48ccb97af286) ![](assets/new.png)  
+- [2021-06-08-【第2303期】如何从流程上设计可持续维护的组件](https://www.ershicimi.com/p/e84026a5f3b182ac88fadb2bb055da33) ![](assets/new.png)  
+- [2021-06-07-【第2302期】三维相机入门](https://www.ershicimi.com/p/42bb75be66db32823eaa48ccb97af286)  
 - [2021-06-06-【第2301期】@蒋豪群：面向新一代构建工具优化代码](https://www.ershicimi.com/p/0df1e19cfe17a717a35f9a258df5fa41)  
 - [2021-06-05-【第2300期】@underfin：Vite，下一代Web工具](https://www.ershicimi.com/p/898c96010fc8fd2260608b8263bfe549)  
 - [2021-06-05-谷歌AMP已死!-AMP页面在谷歌搜索中不再得到优惠待遇](https://www.ershicimi.com/p/43e7d4470576b1b43e50af12fc1d33c1)  
@@ -52,7 +53,6 @@
 - [2021-05-28-一文搞定大厂常考Vue-和-React-面试题](https://www.ershicimi.com/p/3089de00508685432d64b9126c8dc53c)  
 - [2021-05-28-【第2292期】-@尤雨溪：Vue3-生态进展和计划](https://www.ershicimi.com/p/cdede277c73d213053fb137787f422df)  
 - [2021-05-27-【第2291期】探秘CSS光影效果](https://www.ershicimi.com/p/b8a1b1494b4dd6f31dd1583b0e493670)  
-- [2021-05-26-【第2290期】深入理解-CORS：发展史、工作原理和最佳实践](https://www.ershicimi.com/p/f3afe535398ca6744e9be18c6d8498f9)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-08 06:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-06-08 08:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,7 @@
 </summary>
 
 
+- [【前端早读课】2021-06-08-【第2303期】如何从流程上设计可持续维护的组件](https://www.ershicimi.com/p/e84026a5f3b182ac88fadb2bb055da33) 
 - [【前端早读课】2021-06-07-【第2302期】三维相机入门](https://www.ershicimi.com/p/42bb75be66db32823eaa48ccb97af286) 
 - [【前端早读课】2021-06-06-【第2301期】@蒋豪群：面向新一代构建工具优化代码](https://www.ershicimi.com/p/0df1e19cfe17a717a35f9a258df5fa41) 
 - [【前端早读课】2021-06-05-【第2300期】@underfin：Vite，下一代Web工具](https://www.ershicimi.com/p/898c96010fc8fd2260608b8263bfe549) 

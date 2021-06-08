@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-08 06:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-08 08:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-06-08-【第2303期】如何从流程上设计可持续维护的组件](https://www.ershicimi.com/p/e84026a5f3b182ac88fadb2bb055da33) 
 - [2021-05-24-【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113) 
 - [2021-05-22-【图书】JavaScript二十年](https://www.ershicimi.com/p/d564a0108104711f932c715701ef7454) 
 - [2021-05-18-【第2282期】向现代-Javascript-转型](https://www.ershicimi.com/p/cbf65ab10c61114e7b8cbd894c04d07d) 
