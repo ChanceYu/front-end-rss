@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-09 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-09 18:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1073,6 +1073,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-06-08-成长不是走斜坡，而是上台阶（私藏干货）](https://www.ershicimi.com/p/e6ce57a4968499e7e3df60bb10665cb2) 
+- [2021-06-07-因错误配置第三方服务，已有过亿用户数据遭到泄露](https://www.ershicimi.com/p/ac97c2643771e17a96d1cf302d18df24) 
+- [2021-06-07-阿里-P9-揭秘职场晋升：为什么你没有被提拔？|-极客时间](https://www.ershicimi.com/p/f4feff24b9d62de0c8b51c98b865e434) 
+- [2021-06-06-字节跳动与腾讯隔空骂战；46%-的开源项目维护者根本没有获得报酬；百度造车新进展：定价-20-万元以](https://www.ershicimi.com/p/a2ccb796c41ccbaa51b471926d49cc98) 
 - [2021-06-04-服务-24-亿级用户-App-的大前端实践](https://www.ershicimi.com/p/affbc2bc9baab0f9052485d0a0cec5d4) 
 - [2021-06-04-前端助教有偿招募-|-成长最好的方式，就是教别人](https://www.ershicimi.com/p/865cdfd985a68916593dc517921733c9) 
 - [2021-06-02-Apache-ECharts-团队：ASF-顶级项目是怎么炼成的？](https://www.ershicimi.com/p/658b25d599451681e3d9e39c2de60884) 

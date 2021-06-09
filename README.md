@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-09 12:00:12，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-09 18:00:14，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-06-09-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/76387cd2dbf7e049cc83da65926b34a5) ![](assets/new.png)  
-- [2021-06-09-有点难的-webpack-知识点：Dependency-Graph-深度解析](https://www.ershicimi.com/p/ea6e392456cdd5a9dc7b182167b35d6c) ![](assets/new.png)  
-- [2021-06-09-前端每日一题-#132](https://www.ershicimi.com/p/82a79407183552849eaf3b9129fbaeff) ![](assets/new.png)  
-- [2021-06-09-设计灵感-：12款磨砂玻璃材质在APP设计中的应用](https://www.ershicimi.com/p/006d824d6e7b4f220372155cc1a4f5b7) ![](assets/new.png)  
+- [2021-06-09-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/76387cd2dbf7e049cc83da65926b34a5)  
+- [2021-06-09-有点难的-webpack-知识点：Dependency-Graph-深度解析](https://www.ershicimi.com/p/ea6e392456cdd5a9dc7b182167b35d6c)  
+- [2021-06-09-前端每日一题-#132](https://www.ershicimi.com/p/82a79407183552849eaf3b9129fbaeff)  
+- [2021-06-09-设计灵感-：12款磨砂玻璃材质在APP设计中的应用](https://www.ershicimi.com/p/006d824d6e7b4f220372155cc1a4f5b7)  
 - [2021-06-08-代码自动化重构利器——-jscodeshift-初探](https://www.ershicimi.com/p/e31f2da2f0be4b72ea282d6c26d452a7)  
 - [2021-06-08-一年半经验的前端面经总结](https://www.ershicimi.com/p/0a115dbb2232082eef74bfe0dcdd7123)  
 - [2021-06-08-前端每日一题-#131](https://www.ershicimi.com/p/c274a3ad0b3848bc002469c0bc63b239)  
@@ -95,6 +95,14 @@
 </summary>
 
 
+- [2021-06-09-2021-年最佳-JavaScript-框架](https://www.ershicimi.com/p/49a0fb2d461eaacbe3840026df55ca33) ![](assets/new.png)  
+- [2021-06-09-我终于逃离了-Node](https://www.ershicimi.com/p/9de9612cda14faa33f984b50d1e47240) ![](assets/new.png)  
+- [2021-06-09-让微软参与推进发展的WebAssembly，究竟有何魔力？-|-极客时间](https://www.ershicimi.com/p/e2fc43c42a5613da3ed245aac01a2b1d) ![](assets/new.png)  
+- [2021-06-08-成长不是走斜坡，而是上台阶（私藏干货）](https://www.ershicimi.com/p/e6ce57a4968499e7e3df60bb10665cb2) ![](assets/new.png)  
+- [2021-06-07-使用率激增250%，这份报告再次将-Serverless-推向幕前](https://www.ershicimi.com/p/8108d90ddcac53adc641cdc17adbd520) ![](assets/new.png)  
+- [2021-06-07-因错误配置第三方服务，已有过亿用户数据遭到泄露](https://www.ershicimi.com/p/ac97c2643771e17a96d1cf302d18df24) ![](assets/new.png)  
+- [2021-06-07-阿里-P9-揭秘职场晋升：为什么你没有被提拔？|-极客时间](https://www.ershicimi.com/p/f4feff24b9d62de0c8b51c98b865e434) ![](assets/new.png)  
+- [2021-06-06-字节跳动与腾讯隔空骂战；46%-的开源项目维护者根本没有获得报酬；百度造车新进展：定价-20-万元以](https://www.ershicimi.com/p/a2ccb796c41ccbaa51b471926d49cc98) ![](assets/new.png)  
 - [2021-06-04-服务-24-亿级用户-App-的大前端实践](https://www.ershicimi.com/p/affbc2bc9baab0f9052485d0a0cec5d4)  
 - [2021-06-04-我们为什么从-Webpack-转向-Vite](https://www.ershicimi.com/p/ad2090bc8da5ae85131db35de955e5af)  
 - [2021-06-04-前端助教有偿招募-|-成长最好的方式，就是教别人](https://www.ershicimi.com/p/865cdfd985a68916593dc517921733c9)  
@@ -107,14 +115,6 @@
 - [2021-05-30-“雷军称年轻人入职半年内不要提意见”引热议；Google-正式推出-Fuchsia-OS；华为将正式](https://www.ershicimi.com/p/e272e89720447b6259bcbf5f5b7402e8)  
 - [2021-05-29-尤雨溪：做技术哪有什么两全之策，都是取舍和平衡](https://www.ershicimi.com/p/b6d73a9da9d017af48e17126ad5363b5)  
 - [2021-05-28-Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf)  
-- [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2)  
-- [2021-05-28-2021，客户端应用开发该何去何从？|-ArchSummit](https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7)  
-- [2021-05-26-逆风飞翔？决定要做前端中台的时候，我们十分冷静](https://www.ershicimi.com/p/ccde9f493335ce54007af556c5cc3220)  
-- [2021-05-26-是迄今为止最优秀的-Flutter-版本：Flutter-2.2-正式发布](https://www.ershicimi.com/p/40fa94571c50af1b4d332e141c0e35cc)  
-- [2021-05-26-这几天，快被-React-Hooks-搞疯了-|-极客时间](https://www.ershicimi.com/p/a594dc715a577085b29430c7d95e2a76)  
-- [2021-05-24-停止使用-IE-11，微软将用-Edge-全面替换-IE](https://www.ershicimi.com/p/d16b1bc7a172be2eebaace3128d49160)  
-- [2021-05-24-2021-年-10-大流行软件测试工具](https://www.ershicimi.com/p/2bb55d4a147726c58aa6719af11c6bed)  
-- [2021-05-24-面试的作用，绝不仅限于跳槽-|-极客时间](https://www.ershicimi.com/p/5da14e5a67c3e8a4b7433555f69908dd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
