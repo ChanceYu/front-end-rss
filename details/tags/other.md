@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-06-08 12:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-09 08:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2021-06-09-【第2304期】如何在CI流水线统计web前端FPS的？](https://www.ershicimi.com/p/4ef23e65dca06a787b019d5cf85afa32) 
 - [2021-06-07-【第2302期】三维相机入门](https://www.ershicimi.com/p/42bb75be66db32823eaa48ccb97af286) 
 - [2021-06-05-【第2300期】@underfin：Vite，下一代Web工具](https://www.ershicimi.com/p/898c96010fc8fd2260608b8263bfe549) 
 - [2021-06-05-谷歌AMP已死!-AMP页面在谷歌搜索中不再得到优惠待遇](https://www.ershicimi.com/p/43e7d4470576b1b43e50af12fc1d33c1) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-06-08 12:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-09 08:00:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【前端早读课】【第2304期】如何在CI流水线统计web前端FPS的？](https://www.ershicimi.com/p/4ef23e65dca06a787b019d5cf85afa32)
 - [【前端早读课】【第2302期】三维相机入门](https://www.ershicimi.com/p/42bb75be66db32823eaa48ccb97af286)
 - [【前端早读课】【第2300期】@underfin：Vite，下一代Web工具](https://www.ershicimi.com/p/898c96010fc8fd2260608b8263bfe549)
 - [【前端早读课】谷歌AMP已死!-AMP页面在谷歌搜索中不再得到优惠待遇](https://www.ershicimi.com/p/43e7d4470576b1b43e50af12fc1d33c1)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2272期】大前端领域Middleware有几种实现方式？](https://www.ershicimi.com/p/e5715d38e4fbbda4387454a2c1c5781a)
 - [【前端早读课】【内推】杭州江小白招前端工程师](https://www.ershicimi.com/p/6712c7696354021374cd9bd0862c1def)
 - [【前端早读课】【第2270期】手把手教你打造前端智能图标识别工具](https://www.ershicimi.com/p/a3c6e792888112ffaab26a7da71cff2e)
-- [【前端早读课】【第2269期】「表现-领域-数据」分层](https://www.ershicimi.com/p/eca76ba886350d16f47a2f07c5fb25ce)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
