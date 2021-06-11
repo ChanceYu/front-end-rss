@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-10 18:00:12，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-11 08:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,7 @@
 </summary>
 
 
+- [2021-06-11-【第2306期】JavaScript代码整洁之道-异常处理篇](https://www.ershicimi.com/p/5ac6d579fdb7ef31ee83e2982eecb1ba) ![](assets/new.png)  
 - [2021-06-10-Webpack-PK-Vite，2021谁是下一代的前端构建工具](https://www.ershicimi.com/p/877719bc9244c9ea128e38493a16dc49)  
 - [2021-06-10-【第2305期】@崔红保：基于-Vue-3.0-开发多端应用](https://www.ershicimi.com/p/ca20dfadd77c3f9c1c7b824870fac05e)  
 - [2021-06-10-React-18-发布计划](https://www.ershicimi.com/p/703996798af232ae71ff3ab6229ff9a9)  
@@ -52,7 +53,6 @@
 - [2021-06-01-【招聘】上海美团餐饮SaaS招前端工程师/架构师](https://www.ershicimi.com/p/df43c4e6d175d4af9b7240dc7676825d)  
 - [2021-05-31-【第2295期】@HcySunYang：Vue3-在编译优化方面做的努力](https://www.ershicimi.com/p/6e10a5e98ff637944a45cf82b2753e09)  
 - [2021-05-31-【招聘】北京转转招web前端工程师、高级Web前端工程师架构方向](https://www.ershicimi.com/p/c9376a910645898e8557d785760ca884)  
-- [2021-05-30-【第2294期】Gitpod-—-Online-IDE-For-GitHub](https://www.ershicimi.com/p/2642a12991ac1da289956081b173004c)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,9 +64,9 @@
 </summary>
 
 
-- [2021-06-10-一行可以让项目启动快-70%-以上的代码](https://www.ershicimi.com/p/523911e3f6675eb70d26a32aeb7a5115) ![](assets/new.png)  
-- [2021-06-10-几天狂增-1.1-万-Star！谷歌这个脚本工具必须推荐一波](https://www.ershicimi.com/p/bd3fbd51122bbb00eac1f7a7270659f9) ![](assets/new.png)  
-- [2021-06-10-前端每日一题-#133](https://www.ershicimi.com/p/f437ed8fbe8350174a45deda8a799fa0) ![](assets/new.png)  
+- [2021-06-10-一行可以让项目启动快-70%-以上的代码](https://www.ershicimi.com/p/523911e3f6675eb70d26a32aeb7a5115)  
+- [2021-06-10-几天狂增-1.1-万-Star！谷歌这个脚本工具必须推荐一波](https://www.ershicimi.com/p/bd3fbd51122bbb00eac1f7a7270659f9)  
+- [2021-06-10-前端每日一题-#133](https://www.ershicimi.com/p/f437ed8fbe8350174a45deda8a799fa0)  
 - [2021-06-09-这些一行-JS-实现功能的代码，让你看起来像一个前端专家](https://www.ershicimi.com/p/76387cd2dbf7e049cc83da65926b34a5)  
 - [2021-06-09-有点难的-webpack-知识点：Dependency-Graph-深度解析](https://www.ershicimi.com/p/ea6e392456cdd5a9dc7b182167b35d6c)  
 - [2021-06-09-前端每日一题-#132](https://www.ershicimi.com/p/82a79407183552849eaf3b9129fbaeff)  

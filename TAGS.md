@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-06-10 18:00:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-11 08:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【前端早读课】【第2306期】JavaScript代码整洁之道-异常处理篇](https://www.ershicimi.com/p/5ac6d579fdb7ef31ee83e2982eecb1ba)
 - [【前端早读课】【第2303期】如何从流程上设计可持续维护的组件](https://www.ershicimi.com/p/e84026a5f3b182ac88fadb2bb055da33)
 - [【前端早读课】【第2288期】2021年保护JavaScript的7个步骤](https://www.ershicimi.com/p/b9cb2851a71eacb99b85964c24a1e113)
 - [【前端早读课】【图书】JavaScript二十年](https://www.ershicimi.com/p/d564a0108104711f932c715701ef7454)
@@ -345,7 +346,6 @@
 - [【前端早读课】【第2208期】SPA-路由三部曲之实战演练](https://www.ershicimi.com/p/668af225837fa310f075396798eb2043)
 - [【前端早读课】【第2194期】SPA-路由三部曲之核心原理](https://www.ershicimi.com/p/72e90fa35080ac31a5b06c8f13504ffe)
 - [【前端早读课】【第2191期】ECMAScript2021新特征](https://www.ershicimi.com/p/71c74c4fd274468c3e5748d149cea744)
-- [【前端早读课】【第2189期】2020-Javascript明星项目](https://www.ershicimi.com/p/47c293ed7f9f63ad5bdea4695b2d4a73)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
