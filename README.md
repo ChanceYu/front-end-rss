@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-11 12:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-12 18:00:11，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,6 +64,13 @@
 </summary>
 
 
+- [2021-06-12-一个前端妹子的阿里-p7-成长之路](https://www.ershicimi.com/p/b4766d83849926e763ad62bf716b0aaa) ![](assets/new.png)  
+- [2021-06-12-不一样的-JavaScript](https://www.ershicimi.com/p/b41a5d656b44ab65c4a60a09ce494a87) ![](assets/new.png)  
+- [2021-06-12-前端每日一题-#135](https://www.ershicimi.com/p/9781d4fa91de0c424a624fc81e11e5be) ![](assets/new.png)  
+- [2021-06-11-Vite-2自学指南，2021必备！](https://www.ershicimi.com/p/ba9fbf3b55f92b0c23ba335ce7d1ee5b) ![](assets/new.png)  
+- [2021-06-11-明明有了-promise-，为啥还需要-async-await-？](https://www.ershicimi.com/p/1604a7767a6d269568b9053c4b516698) ![](assets/new.png)  
+- [2021-06-11-前端每日一题-#134](https://www.ershicimi.com/p/23bc2e54fd30c09f9e29a726216d362a) ![](assets/new.png)  
+- [2021-06-11-设计灵感-：12组鲜艳可爱的金融APP设计](https://www.ershicimi.com/p/30be2787f430cbde10dfd15ac13befb7) ![](assets/new.png)  
 - [2021-06-10-一行可以让项目启动快-70%-以上的代码](https://www.ershicimi.com/p/523911e3f6675eb70d26a32aeb7a5115)  
 - [2021-06-10-几天狂增-1.1-万-Star！谷歌这个脚本工具必须推荐一波](https://www.ershicimi.com/p/bd3fbd51122bbb00eac1f7a7270659f9)  
 - [2021-06-10-前端每日一题-#133](https://www.ershicimi.com/p/f437ed8fbe8350174a45deda8a799fa0)  
@@ -77,13 +84,6 @@
 - [2021-06-07-前端高薪必备，通过-Node.js-开发一个-CLI-工具](https://www.ershicimi.com/p/e8c03d8207e3b34eeaa142a27420a3d4)  
 - [2021-06-07-CSS-@property，让不可能变可能](https://www.ershicimi.com/p/fcbd6b9f523c5e6f8fa806870149b711)  
 - [2021-06-07-前端每日一题-#130](https://www.ershicimi.com/p/a00570ded9baa18d77008cdfe857d43a)  
-- [2021-06-07-设计灵感：12组简洁的日历App界面设计](https://www.ershicimi.com/p/ecaf4104c92d462e9776aa8d9993f7c3)  
-- [2021-06-06-漫画：前端发展史的江湖恩怨情仇](https://www.ershicimi.com/p/a53283a16d26587e31d88142d2d035b7)  
-- [2021-06-06-苹果程序员发出了-“求救信号”](https://www.ershicimi.com/p/76cdf1948f7f897b1f13544a477acd7c)  
-- [2021-06-06-CSS-新特性-contain-，控制页面的重绘与重排](https://www.ershicimi.com/p/3fcf4649c6263d1f6c0ee7d4048d5a9a)  
-- [2021-06-06-前端每日一题-#129](https://www.ershicimi.com/p/d731e20692946e36206e1e3f0964ad72)  
-- [2021-06-05-报告老板，我们的-H5-页面在-iOS11-系统上白屏了！](https://www.ershicimi.com/p/15dfedcb751b4cd8a9511cf8f49fe313)  
-- [2021-06-05-我是如何突围传统行业的？](https://www.ershicimi.com/p/d77b77ad6f67cefac893eae63fccaed5)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html) ![](assets/new.png)  
+- [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)  
 - [2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)  
 - [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)  
 - [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)  
