@@ -23848,6 +23848,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯CSS实现标题栏、表格头水平滚动垂直不滚动",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/",
+        "date": "2021-06-14"
+      },
+      {
         "title": "如何使用CSS禁止元素拖拽？",
         "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/",
         "date": "2021-05-30"

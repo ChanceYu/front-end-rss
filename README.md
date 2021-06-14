@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-14 06:00:12，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-14 22:00:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-06-13-公司到底能不能监控到微信聊天？](https://www.ershicimi.com/p/9a2e4b59d92d3705614b531a126064a8) ![](assets/new.png)  
-- [2021-06-13-这两个尴尬的编程场景，没遇过的都是假程序员](https://www.ershicimi.com/p/5a7f05872305b3066d78c36f0060f08b) ![](assets/new.png)  
-- [2021-06-13-前端每日一题-#136](https://www.ershicimi.com/p/502a40aeb3b2e690f3016a6f019d2f35) ![](assets/new.png)  
-- [2021-06-13-设计灵感：对话框如何设计才能让用户使用更舒适？](https://www.ershicimi.com/p/c0904ef2a628ea34b1f0c0dad0594d6b) ![](assets/new.png)  
+- [2021-06-13-公司到底能不能监控到微信聊天？](https://www.ershicimi.com/p/9a2e4b59d92d3705614b531a126064a8)  
+- [2021-06-13-这两个尴尬的编程场景，没遇过的都是假程序员](https://www.ershicimi.com/p/5a7f05872305b3066d78c36f0060f08b)  
+- [2021-06-13-前端每日一题-#136](https://www.ershicimi.com/p/502a40aeb3b2e690f3016a6f019d2f35)  
+- [2021-06-13-设计灵感：对话框如何设计才能让用户使用更舒适？](https://www.ershicimi.com/p/c0904ef2a628ea34b1f0c0dad0594d6b)  
 - [2021-06-12-一个前端妹子的阿里-p7-成长之路](https://www.ershicimi.com/p/b4766d83849926e763ad62bf716b0aaa)  
 - [2021-06-12-不一样的-JavaScript](https://www.ershicimi.com/p/b41a5d656b44ab65c4a60a09ce494a87)  
 - [2021-06-12-前端每日一题-#135](https://www.ershicimi.com/p/9781d4fa91de0c424a624fc81e11e5be)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-06-14-纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/) ![](assets/new.png)  
 - [2021-05-30-如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/)  
 - [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/)  
 - [2021-05-16-使用CSS-revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)  
@@ -176,7 +177,6 @@
 - [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/)  
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/)  
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/)  
-- [2021-02-14-直线等图形从中间穿过元素或文字的CSS实现](https://www.zhangxinxu.com/wordpress/2021/02/css-3d-through/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
