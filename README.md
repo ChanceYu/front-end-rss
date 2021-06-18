@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-18 12:00:09，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-18 18:00:11，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,6 +64,18 @@
 </summary>
 
 
+- [2021-06-18-React-18自学指南，高级前端必备](https://www.ershicimi.com/p/ca7044ab60a4c6c4c2dbb941172b9eab) ![](assets/new.png)  
+- [2021-06-18-Vue-Router-10-条高级技巧](https://www.ershicimi.com/p/bad68ef9c6976b5c192148ce5b63aa24) ![](assets/new.png)  
+- [2021-06-18-前端每日一题-#141](https://www.ershicimi.com/p/28561514f7fd77d609b8970812b9c1fb) ![](assets/new.png)  
+- [2021-06-18-设计灵感：-12组果汁饮料类网页设计](https://www.ershicimi.com/p/52386d7df331a42c642db3c1a7fd919b) ![](assets/new.png)  
+- [2021-06-17-6月阿里更新了200+前端岗位，平均薪资45K！](https://www.ershicimi.com/p/78405a4741a05923c15655d9ae98d30c) ![](assets/new.png)  
+- [2021-06-17-WebView-上软键盘的兼容方案](https://www.ershicimi.com/p/e0047e7214f5bef833a8bae588d2e789) ![](assets/new.png)  
+- [2021-06-17-前端每日一题-#140](https://www.ershicimi.com/p/172e2f525ffc35acb54f418840d16264) ![](assets/new.png)  
+- [2021-06-17-设计灵感：-12组暗色系网页设计](https://www.ershicimi.com/p/8d9f643b62a0c09c8eb9bbc1a0c2b134) ![](assets/new.png)  
+- [2021-06-16-2021下半年前端面试必考知识点梳理.PDF（限时福利）](https://www.ershicimi.com/p/f54933297cfd1f5ac04f2ca21938f7fd) ![](assets/new.png)  
+- [2021-06-16-如何让你的代码更优雅](https://www.ershicimi.com/p/f71159cd0a8cc43e0a6071d76aa64347) ![](assets/new.png)  
+- [2021-06-16-前端每日一题-#139](https://www.ershicimi.com/p/468ffcca8e7d7faeb9259afbc5e108ae) ![](assets/new.png)  
+- [2021-06-16-设计灵感：引导页要如何设计才更加吸引人？](https://www.ershicimi.com/p/5c859a093a755b46c986015ba5c6c0b2) ![](assets/new.png)  
 - [2021-06-15-自动生成组件代码——-Vue-CLI-插件开发实战](https://www.ershicimi.com/p/002a73de2bce9d908bb1d16ac0745fc8)  
 - [2021-06-15-React-性能优化-：包括原理、技巧、Demo、工具使用](https://www.ershicimi.com/p/5802e89d8c845a7c2d0ac45399b390ca)  
 - [2021-06-15-前端每日一题-#138](https://www.ershicimi.com/p/efdfee849054a58438df07a226e65f3d)  
@@ -72,18 +84,6 @@
 - [2021-06-14-Event-Loop-和-JS-引擎、渲染引擎的关系](https://www.ershicimi.com/p/204f2bef30b5a94adc50e44c2c5ad8b9)  
 - [2021-06-14-前端每日一题-#137](https://www.ershicimi.com/p/fde7c14d552fe81bd1fc4cdaeaebdb77)  
 - [2021-06-14-设计灵感：12-组插画风登录页面设计灵感](https://www.ershicimi.com/p/c9e69c8cf12f00b9c3c74fca3b8c474e)  
-- [2021-06-13-公司到底能不能监控到微信聊天？](https://www.ershicimi.com/p/9a2e4b59d92d3705614b531a126064a8)  
-- [2021-06-13-这两个尴尬的编程场景，没遇过的都是假程序员](https://www.ershicimi.com/p/5a7f05872305b3066d78c36f0060f08b)  
-- [2021-06-13-前端每日一题-#136](https://www.ershicimi.com/p/502a40aeb3b2e690f3016a6f019d2f35)  
-- [2021-06-13-设计灵感：对话框如何设计才能让用户使用更舒适？](https://www.ershicimi.com/p/c0904ef2a628ea34b1f0c0dad0594d6b)  
-- [2021-06-12-一个前端妹子的阿里-p7-成长之路](https://www.ershicimi.com/p/b4766d83849926e763ad62bf716b0aaa)  
-- [2021-06-12-不一样的-JavaScript](https://www.ershicimi.com/p/b41a5d656b44ab65c4a60a09ce494a87)  
-- [2021-06-12-前端每日一题-#135](https://www.ershicimi.com/p/9781d4fa91de0c424a624fc81e11e5be)  
-- [2021-06-11-Vite-2自学指南，2021必备！](https://www.ershicimi.com/p/ba9fbf3b55f92b0c23ba335ce7d1ee5b)  
-- [2021-06-11-明明有了-promise-，为啥还需要-async-await-？](https://www.ershicimi.com/p/1604a7767a6d269568b9053c4b516698)  
-- [2021-06-11-前端每日一题-#134](https://www.ershicimi.com/p/23bc2e54fd30c09f9e29a726216d362a)  
-- [2021-06-11-设计灵感-：12组鲜艳可爱的金融APP设计](https://www.ershicimi.com/p/30be2787f430cbde10dfd15ac13befb7)  
-- [2021-06-10-一行可以让项目启动快-70%-以上的代码](https://www.ershicimi.com/p/523911e3f6675eb70d26a32aeb7a5115)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-06-18-科技爱好者周刊（第-163-期）：你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html) ![](assets/new.png)  
+- [2021-06-18-科技爱好者周刊（第-163-期）：你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)  
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)  
 - [2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)  
 - [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)  

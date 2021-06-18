@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-18 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-18 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -255,6 +255,7 @@
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) 
 - [2018-09-27-【招聘】天猫-IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
+- [2021-06-16-2021下半年前端面试必考知识点梳理.PDF（限时福利）](https://www.ershicimi.com/p/f54933297cfd1f5ac04f2ca21938f7fd) 
 - [2021-06-14-前端内卷，面试被拒？网易面试官告诉你原因](https://www.ershicimi.com/p/438b1955d62658d37faa177dfc2b2834) 
 - [2021-05-28-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/3b443f73ee58c97f9e6d66137670f303) 
 - [2021-05-09-面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://www.ershicimi.com/p/3ee3232c0f037540d620f75d9f754e48) 
