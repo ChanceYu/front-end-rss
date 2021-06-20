@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-18 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-20 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -42,6 +42,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2021-06-20-性能优化到底应该如何做](https://www.ershicimi.com/p/96db751cd991e491d771bc6a17c5c16e) 
 - [2021-05-18-从-10-多秒到-1.05-秒！前端性能优化实践](https://www.ershicimi.com/p/bc61f3deda1a5ada052fa1609d65ef32) 
 - [2021-03-24-如何优雅地加载-Fonts](https://www.ershicimi.com/p/9d11a08fa5d97af9269a10307d1b0202) 
 - [2021-03-16-前端性能优化-24-条建议](https://www.ershicimi.com/p/64b30bdd8d7b97e76e641e9f974f1554) 
