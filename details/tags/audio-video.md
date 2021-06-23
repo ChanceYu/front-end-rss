@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-23 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-23 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -40,6 +40,7 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2021-06-23-设计灵感：12-组收音机播放器-APP-设计](https://www.ershicimi.com/p/efdcf951648f6bf0e2a48f6504772c4f) 
 - [2021-06-20-设计灵感：12组音乐播放器界面设计](https://www.ershicimi.com/p/55aaf508577c5298d23ffd470df11c74) 
 - [2021-05-23-设计灵感-：-12款暗色系音乐播放器页面](https://www.ershicimi.com/p/c030099fcd241b8198fdc3ec5ff20ac7) 
 - [2021-05-09-17-个提升用户体验图像特效库](https://www.ershicimi.com/p/ae9fe84c40e1ab734817539c580a8b6b) 
