@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-25 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-27 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -41,6 +41,8 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](https://www.ershicimi.com/p/614ea68ee96fbf5b62a8f956df8f2201) 
+- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](https://www.ershicimi.com/p/ed931c93bcb872b03dd60ad90e89cb6f) 
 - [2021-06-07-前端高薪必备，通过-Node.js-开发一个-CLI-工具](https://www.ershicimi.com/p/e8c03d8207e3b34eeaa142a27420a3d4) 
 - [2021-05-23-Node.js-16-发布，V8-升级至-9.0！](https://www.ershicimi.com/p/a062da762d049641f1360b458d0d2470) 
 - [2021-05-22-写-Node.js-代码，从学会调试开始](https://www.ershicimi.com/p/b7add0dd512968f493cc4998edf7a59d) 

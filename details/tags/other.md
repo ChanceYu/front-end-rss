@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-25 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-27 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -476,6 +476,13 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-06-26-自学转行-3-年经验，终入职阿里！](https://www.ershicimi.com/p/89c699cb5d3ce1286f6b5b4d24ef4b98) 
+- [2021-06-26-前端每日一题-#149](https://www.ershicimi.com/p/84836911abf84b48021a1f04f21d0c65) 
+- [2021-06-25-学会使用-Jenkins-自动部署你的项目实战](https://www.ershicimi.com/p/b2febf5a8b9cf38a449f3c41e02dd03b) 
+- [2021-06-25-前端每日一题-#148](https://www.ershicimi.com/p/9daa8406cbd68593d32d6caefdec7675) 
+- [2021-06-25-设计灵感：12组书籍阅读APP界面设计](https://www.ershicimi.com/p/3d086209aab1845029e4c2d4c239f85e) 
+- [2021-06-24-前端每日一题-#147](https://www.ershicimi.com/p/1020cee4afc08a3f789e66a9c900b158) 
+- [2021-06-24-设计灵感：12-组音乐-APP-界面设计](https://www.ershicimi.com/p/42633eeb9ec067c9259f0158eee8e5ce) 
 - [2021-06-23-前端每日一题-#146](https://www.ershicimi.com/p/341f7d6d6c570ccbaca1d02835318e7d) 
 - [2021-06-22-全网首次拆解前端简历，合格的简历长这样...](https://www.ershicimi.com/p/351521de43cebd2b8b8abe8ad2345ed2) 
 - [2021-06-22-移动端那些戳中你痛点的软键盘问题及解决方法](https://www.ershicimi.com/p/869267829eab9a7bd51b533b674f12e6) 

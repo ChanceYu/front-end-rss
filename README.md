@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-25 12:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-27 06:00:25，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -64,6 +64,17 @@
 </summary>
 
 
+- [2021-06-26-自学转行-3-年经验，终入职阿里！](https://www.ershicimi.com/p/89c699cb5d3ce1286f6b5b4d24ef4b98) ![](assets/new.png)  
+- [2021-06-26-面向对象：希望找到一个能双向奔赴、彼此陪伴的男人](https://www.ershicimi.com/p/8d51d17686f7b2d9f6964f22dfbdf133) ![](assets/new.png)  
+- [2021-06-26-前端每日一题-#149](https://www.ershicimi.com/p/84836911abf84b48021a1f04f21d0c65) ![](assets/new.png)  
+- [2021-06-25-一名-Vue-程序员总结的-React-基础](https://www.ershicimi.com/p/a22ecda73a91419cda84396c66c32ca1) ![](assets/new.png)  
+- [2021-06-25-学会使用-Jenkins-自动部署你的项目实战](https://www.ershicimi.com/p/b2febf5a8b9cf38a449f3c41e02dd03b) ![](assets/new.png)  
+- [2021-06-25-前端每日一题-#148](https://www.ershicimi.com/p/9daa8406cbd68593d32d6caefdec7675) ![](assets/new.png)  
+- [2021-06-25-设计灵感：12组书籍阅读APP界面设计](https://www.ershicimi.com/p/3d086209aab1845029e4c2d4c239f85e) ![](assets/new.png)  
+- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](https://www.ershicimi.com/p/614ea68ee96fbf5b62a8f956df8f2201) ![](assets/new.png)  
+- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](https://www.ershicimi.com/p/ed931c93bcb872b03dd60ad90e89cb6f) ![](assets/new.png)  
+- [2021-06-24-前端每日一题-#147](https://www.ershicimi.com/p/1020cee4afc08a3f789e66a9c900b158) ![](assets/new.png)  
+- [2021-06-24-设计灵感：12-组音乐-APP-界面设计](https://www.ershicimi.com/p/42633eeb9ec067c9259f0158eee8e5ce) ![](assets/new.png)  
 - [2021-06-23-Webpack-PK-Vite，2021谁是下一代的前端构建工具](https://www.ershicimi.com/p/7503dcaa60f3c2da65b75d056ac1eb53)  
 - [2021-06-23-JS-简洁代码编写与技巧指北](https://www.ershicimi.com/p/17790b4056a6b8508d17576cc695fe50)  
 - [2021-06-23-前端每日一题-#146](https://www.ershicimi.com/p/341f7d6d6c570ccbaca1d02835318e7d)  
@@ -73,17 +84,6 @@
 - [2021-06-22-前端每日一题-#145](https://www.ershicimi.com/p/f8a0f876def7671f9cdc1c444cb8eace)  
 - [2021-06-22-设计灵感-：12款健康类App界面设计](https://www.ershicimi.com/p/bac04d8ac87781ac58384d48fd936d89)  
 - [2021-06-21-让我在面试官面前结巴的-24-个-XX-和-XX-的区别！](https://www.ershicimi.com/p/567ea0a57123195f0d7b944873bd875b)  
-- [2021-06-21-iOS-键盘难题与可见视口（VisualViewport）API](https://www.ershicimi.com/p/f45ea967d4db8411fa1467b0304d5250)  
-- [2021-06-21-前端每日一题-#144](https://www.ershicimi.com/p/b0726ad1c8e5d9cbd55991c292426be0)  
-- [2021-06-21-设计灵感-：简洁的ICON如何设计才能更吸引人？](https://www.ershicimi.com/p/b91f6f1bc5ee55b870a6f4a3cfb6a6d3)  
-- [2021-06-20-前端应该学习的-Token-登录认证知识](https://www.ershicimi.com/p/2b88e818270537aa86cfba4df9c27115)  
-- [2021-06-20-性能优化到底应该如何做](https://www.ershicimi.com/p/96db751cd991e491d771bc6a17c5c16e)  
-- [2021-06-20-前端每日一题-#143](https://www.ershicimi.com/p/2c1eb0828c976979f4e27eee0500e2f3)  
-- [2021-06-20-设计灵感：12组音乐播放器界面设计](https://www.ershicimi.com/p/55aaf508577c5298d23ffd470df11c74)  
-- [2021-06-19-提交代码前，你是否也这样想过？](https://www.ershicimi.com/p/6fee3dba80f2a1e3ac483fc0f914d337)  
-- [2021-06-19-CSS-变量由浅入深，提升效率必备知识！](https://www.ershicimi.com/p/39072f23717eb05e6ba945dd36ef2bc3)  
-- [2021-06-19-前端每日一题-#142](https://www.ershicimi.com/p/ce787c9348914dc92e01b16000d49616)  
-- [2021-06-19-设计灵感：对话框如何设计才能让用户使用更舒适？](https://www.ershicimi.com/p/b7211756c1e2db13f5aafdc2ad609439)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-06-25-科技爱好者周刊（第-164-期）：培训班-vs-大学，求职成功率比较](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html) ![](assets/new.png)  
+- [2021-06-25-科技爱好者周刊（第-164-期）：培训班-vs-大学，求职成功率比较](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html)  
 - [2021-06-18-科技爱好者周刊（第-163-期）：你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)  
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)  
 - [2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)  
