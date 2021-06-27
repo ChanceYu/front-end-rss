@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-27 06:00:25，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-27 08:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -33,6 +33,10 @@
 </summary>
 
 
+- [2021-06-26-【第2318期】业务中的前端组件化体系](https://www.ershicimi.com/p/627ed3b21b699f1a98823f80ce719ac3) ![](assets/new.png)  
+- [2021-06-26-【开源】京东-Vue3-组件库支持小程序开发啦！](https://www.ershicimi.com/p/182add925acb6ea4075db4ba5d3baf34) ![](assets/new.png)  
+- [2021-06-25-一篇文章带你了解-Vite-2项目工程化](https://www.ershicimi.com/p/520d43f8faef1e1b7e5db7f3205d76be) ![](assets/new.png)  
+- [2021-06-25-【第2317期】Docgeni，开箱即用的-Angular-组件文档工具](https://www.ershicimi.com/p/0d08c65b74b57a7cb517270a05bf29d7) ![](assets/new.png)  
 - [2021-06-24-【第2316期】中后台领域低代码搭建设计与实践](https://www.ershicimi.com/p/dc487ecdfe813b4595a20256320eeff1)  
 - [2021-06-23-【第2315期】JavaScript代码整洁之道-变量篇](https://www.ershicimi.com/p/053976c57c182648a393f79f0e63f59f)  
 - [2021-06-22-【第2314期】Vue-vs-Svelte:-两者实现机制有何不同？](https://www.ershicimi.com/p/c517f2535b9e942ff2539e18bcbaee43)  
@@ -49,10 +53,6 @@
 - [2021-06-11-【第2306期】JavaScript代码整洁之道-异常处理篇](https://www.ershicimi.com/p/5ac6d579fdb7ef31ee83e2982eecb1ba)  
 - [2021-06-10-Webpack-PK-Vite，2021谁是下一代的前端构建工具](https://www.ershicimi.com/p/877719bc9244c9ea128e38493a16dc49)  
 - [2021-06-10-【第2305期】@崔红保：基于-Vue-3.0-开发多端应用](https://www.ershicimi.com/p/ca20dfadd77c3f9c1c7b824870fac05e)  
-- [2021-06-10-React-18-发布计划](https://www.ershicimi.com/p/703996798af232ae71ff3ab6229ff9a9)  
-- [2021-06-09-【第2304期】如何在CI流水线统计web前端FPS的？](https://www.ershicimi.com/p/4ef23e65dca06a787b019d5cf85afa32)  
-- [2021-06-08-【第2303期】如何从流程上设计可持续维护的组件](https://www.ershicimi.com/p/e84026a5f3b182ac88fadb2bb055da33)  
-- [2021-06-07-【第2302期】三维相机入门](https://www.ershicimi.com/p/42bb75be66db32823eaa48ccb97af286)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -64,17 +64,17 @@
 </summary>
 
 
-- [2021-06-26-自学转行-3-年经验，终入职阿里！](https://www.ershicimi.com/p/89c699cb5d3ce1286f6b5b4d24ef4b98) ![](assets/new.png)  
-- [2021-06-26-面向对象：希望找到一个能双向奔赴、彼此陪伴的男人](https://www.ershicimi.com/p/8d51d17686f7b2d9f6964f22dfbdf133) ![](assets/new.png)  
-- [2021-06-26-前端每日一题-#149](https://www.ershicimi.com/p/84836911abf84b48021a1f04f21d0c65) ![](assets/new.png)  
-- [2021-06-25-一名-Vue-程序员总结的-React-基础](https://www.ershicimi.com/p/a22ecda73a91419cda84396c66c32ca1) ![](assets/new.png)  
-- [2021-06-25-学会使用-Jenkins-自动部署你的项目实战](https://www.ershicimi.com/p/b2febf5a8b9cf38a449f3c41e02dd03b) ![](assets/new.png)  
-- [2021-06-25-前端每日一题-#148](https://www.ershicimi.com/p/9daa8406cbd68593d32d6caefdec7675) ![](assets/new.png)  
-- [2021-06-25-设计灵感：12组书籍阅读APP界面设计](https://www.ershicimi.com/p/3d086209aab1845029e4c2d4c239f85e) ![](assets/new.png)  
-- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](https://www.ershicimi.com/p/614ea68ee96fbf5b62a8f956df8f2201) ![](assets/new.png)  
-- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](https://www.ershicimi.com/p/ed931c93bcb872b03dd60ad90e89cb6f) ![](assets/new.png)  
-- [2021-06-24-前端每日一题-#147](https://www.ershicimi.com/p/1020cee4afc08a3f789e66a9c900b158) ![](assets/new.png)  
-- [2021-06-24-设计灵感：12-组音乐-APP-界面设计](https://www.ershicimi.com/p/42633eeb9ec067c9259f0158eee8e5ce) ![](assets/new.png)  
+- [2021-06-26-自学转行-3-年经验，终入职阿里！](https://www.ershicimi.com/p/89c699cb5d3ce1286f6b5b4d24ef4b98)  
+- [2021-06-26-面向对象：希望找到一个能双向奔赴、彼此陪伴的男人](https://www.ershicimi.com/p/8d51d17686f7b2d9f6964f22dfbdf133)  
+- [2021-06-26-前端每日一题-#149](https://www.ershicimi.com/p/84836911abf84b48021a1f04f21d0c65)  
+- [2021-06-25-一名-Vue-程序员总结的-React-基础](https://www.ershicimi.com/p/a22ecda73a91419cda84396c66c32ca1)  
+- [2021-06-25-学会使用-Jenkins-自动部署你的项目实战](https://www.ershicimi.com/p/b2febf5a8b9cf38a449f3c41e02dd03b)  
+- [2021-06-25-前端每日一题-#148](https://www.ershicimi.com/p/9daa8406cbd68593d32d6caefdec7675)  
+- [2021-06-25-设计灵感：12组书籍阅读APP界面设计](https://www.ershicimi.com/p/3d086209aab1845029e4c2d4c239f85e)  
+- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](https://www.ershicimi.com/p/614ea68ee96fbf5b62a8f956df8f2201)  
+- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](https://www.ershicimi.com/p/ed931c93bcb872b03dd60ad90e89cb6f)  
+- [2021-06-24-前端每日一题-#147](https://www.ershicimi.com/p/1020cee4afc08a3f789e66a9c900b158)  
+- [2021-06-24-设计灵感：12-组音乐-APP-界面设计](https://www.ershicimi.com/p/42633eeb9ec067c9259f0158eee8e5ce)  
 - [2021-06-23-Webpack-PK-Vite，2021谁是下一代的前端构建工具](https://www.ershicimi.com/p/7503dcaa60f3c2da65b75d056ac1eb53)  
 - [2021-06-23-JS-简洁代码编写与技巧指北](https://www.ershicimi.com/p/17790b4056a6b8508d17576cc695fe50)  
 - [2021-06-23-前端每日一题-#146](https://www.ershicimi.com/p/341f7d6d6c570ccbaca1d02835318e7d)  
