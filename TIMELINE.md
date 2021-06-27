@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-27 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-06-28 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -274,6 +274,11 @@
 - [【前端大全】2021-06-01-“这个需求做不了！”](https://www.ershicimi.com/p/c5ccf839246d81de6e3e1cce068145cf) 
 - [【前端大全】2021-06-01-前端每日一题-#124](https://www.ershicimi.com/p/91a30316da7227faea9b6bd523cd6ae4) 
 - [【前端大全】2021-06-01-设计灵感：-12款深色系金融类界面设计](https://www.ershicimi.com/p/80d76ae81e221869ca70151af96ded7e) 
+- [【前端之巅】2021-06-27-Windows-11官宣；字节跳动突发P0级事故：并非实习生删库跑路；腾讯新全球总部开建：内网征名第](https://www.ershicimi.com/p/649d5e06bd8c8d831eefdf04629b8805) 
+- [【前端之巅】2021-06-25-我觉得吧，这么学JavaScript，你才能通](https://www.ershicimi.com/p/68781da3aa935b4deb118f888b9042b0) 
+- [【前端之巅】2021-06-23-Reddit-每日千亿请求背后的故事](https://www.ershicimi.com/p/227efa1f1ce3b0a14e449093c2db0d46) 
+- [【前端之巅】2021-06-23-税务网站上线首日就宕机，财政部长怒喷印度第二大-IT-公司](https://www.ershicimi.com/p/63fd20964acdd53eef7fdf4dbfd452b5) 
+- [【前端之巅】2021-06-23-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](https://www.ershicimi.com/p/166d38fc30794e2ced3b721a17fc3780) 
 - [【前端之巅】2021-06-21-工作之余加班加点开发的项目被-MD5“夺走”，两年诉讼终失败](https://www.ershicimi.com/p/dfb7cd07f57e16734e20fefda4b5dfb8) 
 - [【前端之巅】2021-06-21-什么样的开发者找工作最吃香？](https://www.ershicimi.com/p/f1accbc0dee200620464c17e48d68a91) 
 - [【前端之巅】2021-06-21-腾讯高级研究员博士论文走红：成就高的人，跟普通人的区别在哪？|-极客时间](https://www.ershicimi.com/p/84273e8cc32f5e552f00fb388001a82d) 

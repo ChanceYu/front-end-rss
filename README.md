@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-27 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-28 06:00:25，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2021-06-27-Windows-11官宣；字节跳动突发P0级事故：并非实习生删库跑路；腾讯新全球总部开建：内网征名第](https://www.ershicimi.com/p/649d5e06bd8c8d831eefdf04629b8805) ![](assets/new.png)  
+- [2021-06-25-我觉得吧，这么学JavaScript，你才能通](https://www.ershicimi.com/p/68781da3aa935b4deb118f888b9042b0) ![](assets/new.png)  
+- [2021-06-23-Reddit-每日千亿请求背后的故事](https://www.ershicimi.com/p/227efa1f1ce3b0a14e449093c2db0d46) ![](assets/new.png)  
+- [2021-06-23-税务网站上线首日就宕机，财政部长怒喷印度第二大-IT-公司](https://www.ershicimi.com/p/63fd20964acdd53eef7fdf4dbfd452b5) ![](assets/new.png)  
+- [2021-06-23-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](https://www.ershicimi.com/p/166d38fc30794e2ced3b721a17fc3780) ![](assets/new.png)  
 - [2021-06-21-工作之余加班加点开发的项目被-MD5“夺走”，两年诉讼终失败](https://www.ershicimi.com/p/dfb7cd07f57e16734e20fefda4b5dfb8)  
 - [2021-06-21-什么样的开发者找工作最吃香？](https://www.ershicimi.com/p/f1accbc0dee200620464c17e48d68a91)  
 - [2021-06-21-腾讯高级研究员博士论文走红：成就高的人，跟普通人的区别在哪？|-极客时间](https://www.ershicimi.com/p/84273e8cc32f5e552f00fb388001a82d)  
@@ -110,11 +115,6 @@
 - [2021-06-13-鸿蒙系统升级用户一周破千万；WWDC：Swift已内置对并发的支持；拜登撤销对微信、TikTok-和](https://www.ershicimi.com/p/92a9e384f8485e13f4ee1176dd0e896b)  
 - [2021-06-09-2021-年最佳-JavaScript-框架](https://www.ershicimi.com/p/49a0fb2d461eaacbe3840026df55ca33)  
 - [2021-06-09-我终于逃离了-Node](https://www.ershicimi.com/p/9de9612cda14faa33f984b50d1e47240)  
-- [2021-06-09-让微软参与推进发展的WebAssembly，究竟有何魔力？-|-极客时间](https://www.ershicimi.com/p/e2fc43c42a5613da3ed245aac01a2b1d)  
-- [2021-06-08-成长不是走斜坡，而是上台阶（私藏干货）](https://www.ershicimi.com/p/e6ce57a4968499e7e3df60bb10665cb2)  
-- [2021-06-07-使用率激增250%，这份报告再次将-Serverless-推向幕前](https://www.ershicimi.com/p/8108d90ddcac53adc641cdc17adbd520)  
-- [2021-06-07-因错误配置第三方服务，已有过亿用户数据遭到泄露](https://www.ershicimi.com/p/ac97c2643771e17a96d1cf302d18df24)  
-- [2021-06-07-阿里-P9-揭秘职场晋升：为什么你没有被提拔？|-极客时间](https://www.ershicimi.com/p/f4feff24b9d62de0c8b51c98b865e434)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2021-06-27-JS判断图像背景颜色单一还是丰富](https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/) ![](assets/new.png)  
+- [2021-06-27-JS判断图像背景颜色单一还是丰富](https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/)  
 - [2021-06-14-纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/)  
 - [2021-05-30-如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/)  
 - [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/)  
