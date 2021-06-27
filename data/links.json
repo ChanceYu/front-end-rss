@@ -24253,6 +24253,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS判断图像背景颜色单一还是丰富",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/",
+        "date": "2021-06-27"
+      },
+      {
         "title": "纯CSS实现标题栏、表格头水平滚动垂直不滚动",
         "link": "https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/",
         "date": "2021-06-14"

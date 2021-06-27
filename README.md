@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-27 08:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-27 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -33,10 +33,10 @@
 </summary>
 
 
-- [2021-06-26-【第2318期】业务中的前端组件化体系](https://www.ershicimi.com/p/627ed3b21b699f1a98823f80ce719ac3) ![](assets/new.png)  
-- [2021-06-26-【开源】京东-Vue3-组件库支持小程序开发啦！](https://www.ershicimi.com/p/182add925acb6ea4075db4ba5d3baf34) ![](assets/new.png)  
-- [2021-06-25-一篇文章带你了解-Vite-2项目工程化](https://www.ershicimi.com/p/520d43f8faef1e1b7e5db7f3205d76be) ![](assets/new.png)  
-- [2021-06-25-【第2317期】Docgeni，开箱即用的-Angular-组件文档工具](https://www.ershicimi.com/p/0d08c65b74b57a7cb517270a05bf29d7) ![](assets/new.png)  
+- [2021-06-26-【第2318期】业务中的前端组件化体系](https://www.ershicimi.com/p/627ed3b21b699f1a98823f80ce719ac3)  
+- [2021-06-26-【开源】京东-Vue3-组件库支持小程序开发啦！](https://www.ershicimi.com/p/182add925acb6ea4075db4ba5d3baf34)  
+- [2021-06-25-一篇文章带你了解-Vite-2项目工程化](https://www.ershicimi.com/p/520d43f8faef1e1b7e5db7f3205d76be)  
+- [2021-06-25-【第2317期】Docgeni，开箱即用的-Angular-组件文档工具](https://www.ershicimi.com/p/0d08c65b74b57a7cb517270a05bf29d7)  
 - [2021-06-24-【第2316期】中后台领域低代码搭建设计与实践](https://www.ershicimi.com/p/dc487ecdfe813b4595a20256320eeff1)  
 - [2021-06-23-【第2315期】JavaScript代码整洁之道-变量篇](https://www.ershicimi.com/p/053976c57c182648a393f79f0e63f59f)  
 - [2021-06-22-【第2314期】Vue-vs-Svelte:-两者实现机制有何不同？](https://www.ershicimi.com/p/c517f2535b9e942ff2539e18bcbaee43)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-06-27-JS判断图像背景颜色单一还是丰富](https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/) ![](assets/new.png)  
 - [2021-06-14-纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/)  
 - [2021-05-30-如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/)  
 - [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/)  
@@ -176,7 +177,6 @@
 - [2021-02-17-好消息，CSS-text-underline-offset可以用起来了](https://www.zhangxinxu.com/wordpress/2021/02/css-text-underline-offset/)  
 - [2021-02-16-CSS-::marker伪元素简介](https://www.zhangxinxu.com/wordpress/2021/02/css-marker-pseudo-element/)  
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/)  
-- [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
