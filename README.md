@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-28 06:00:25，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-28 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2021-06-27-Windows-11官宣；字节跳动突发P0级事故：并非实习生删库跑路；腾讯新全球总部开建：内网征名第](https://www.ershicimi.com/p/649d5e06bd8c8d831eefdf04629b8805) ![](assets/new.png)  
-- [2021-06-25-我觉得吧，这么学JavaScript，你才能通](https://www.ershicimi.com/p/68781da3aa935b4deb118f888b9042b0) ![](assets/new.png)  
-- [2021-06-23-Reddit-每日千亿请求背后的故事](https://www.ershicimi.com/p/227efa1f1ce3b0a14e449093c2db0d46) ![](assets/new.png)  
-- [2021-06-23-税务网站上线首日就宕机，财政部长怒喷印度第二大-IT-公司](https://www.ershicimi.com/p/63fd20964acdd53eef7fdf4dbfd452b5) ![](assets/new.png)  
-- [2021-06-23-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](https://www.ershicimi.com/p/166d38fc30794e2ced3b721a17fc3780) ![](assets/new.png)  
+- [2021-06-27-Windows-11官宣；字节跳动突发P0级事故：并非实习生删库跑路；腾讯新全球总部开建：内网征名第](https://www.ershicimi.com/p/649d5e06bd8c8d831eefdf04629b8805)  
+- [2021-06-25-我觉得吧，这么学JavaScript，你才能通](https://www.ershicimi.com/p/68781da3aa935b4deb118f888b9042b0)  
+- [2021-06-23-Reddit-每日千亿请求背后的故事](https://www.ershicimi.com/p/227efa1f1ce3b0a14e449093c2db0d46)  
+- [2021-06-23-税务网站上线首日就宕机，财政部长怒喷印度第二大-IT-公司](https://www.ershicimi.com/p/63fd20964acdd53eef7fdf4dbfd452b5)  
+- [2021-06-23-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](https://www.ershicimi.com/p/166d38fc30794e2ced3b721a17fc3780)  
 - [2021-06-21-工作之余加班加点开发的项目被-MD5“夺走”，两年诉讼终失败](https://www.ershicimi.com/p/dfb7cd07f57e16734e20fefda4b5dfb8)  
 - [2021-06-21-什么样的开发者找工作最吃香？](https://www.ershicimi.com/p/f1accbc0dee200620464c17e48d68a91)  
 - [2021-06-21-腾讯高级研究员博士论文走红：成就高的人，跟普通人的区别在哪？|-极客时间](https://www.ershicimi.com/p/84273e8cc32f5e552f00fb388001a82d)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-06-28-程序员的酒后真言](http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html) ![](assets/new.png)  
 - [2021-06-25-科技爱好者周刊（第-164-期）：培训班-vs-大学，求职成功率比较](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html)  
 - [2021-06-18-科技爱好者周刊（第-163-期）：你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)  
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)  
@@ -207,7 +208,6 @@
 - [2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html)  
 - [2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html)  
 - [2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html)  
-- [2021-02-26-科技爱好者周刊（第-147-期）：寻找你愿意忍受的痛苦](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
