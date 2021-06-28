@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-28 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-28 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1126,6 +1126,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-06-28-Windows-11-支持安卓应用，这事你怎么看？](https://www.ershicimi.com/p/83f5805fb51c2d73b297c5bfcd52bbcf) 
+- [2021-06-28-降低系统复杂性，开发团队必知的一种简单方法](https://www.ershicimi.com/p/a106e9cd12ab097a6012f0a828097c39) 
+- [2021-06-28-中国技术开放日长沙站圆满落幕｜探讨技术人如何更好地把控自己的职业](https://www.ershicimi.com/p/4625a20de9de9128a4b433d51691f294) 
 - [2021-06-27-Windows-11官宣；字节跳动突发P0级事故：并非实习生删库跑路；腾讯新全球总部开建：内网征名第](https://www.ershicimi.com/p/649d5e06bd8c8d831eefdf04629b8805) 
 - [2021-06-23-税务网站上线首日就宕机，财政部长怒喷印度第二大-IT-公司](https://www.ershicimi.com/p/63fd20964acdd53eef7fdf4dbfd452b5) 
 - [2021-06-21-工作之余加班加点开发的项目被-MD5“夺走”，两年诉讼终失败](https://www.ershicimi.com/p/dfb7cd07f57e16734e20fefda4b5dfb8) 
