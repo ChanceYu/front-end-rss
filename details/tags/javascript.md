@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-28 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-30 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -178,6 +178,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2021-06-29-微信-H5-页面前端开发，大多数人都会遇到的几个兼容性坑](https://www.ershicimi.com/p/efdb3dea2c523a1ca25c583242e9660d) 
 - [2021-06-28-7-个关于-"this"-面试题，你能回答上来吗？](https://www.ershicimi.com/p/a852fe769b45ec33c495f808e953e812) 
 - [2021-06-23-JS-简洁代码编写与技巧指北](https://www.ershicimi.com/p/17790b4056a6b8508d17576cc695fe50) 
 - [2021-06-19-CSS-变量由浅入深，提升效率必备知识！](https://www.ershicimi.com/p/39072f23717eb05e6ba945dd36ef2bc3) 
