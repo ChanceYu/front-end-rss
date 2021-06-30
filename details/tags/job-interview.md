@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-30 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-30 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-06-28-【招聘】腾讯蓝鲸招web前端高级工程师](https://www.ershicimi.com/p/88d3a2df9d6b7a114126355b22f1e3c2) 
 - [2021-06-01-【招聘】上海美团餐饮SaaS招前端工程师/架构师](https://www.ershicimi.com/p/df43c4e6d175d4af9b7240dc7676825d) 
 - [2021-05-31-【招聘】北京转转招web前端工程师、高级Web前端工程师架构方向](https://www.ershicimi.com/p/c9376a910645898e8557d785760ca884) 
 - [2021-05-24-【招聘】北京字节跳DATA-EDU招前端工程师/架构师](https://www.ershicimi.com/p/ae4677391d45c0b247334f8d70f4f599) 
