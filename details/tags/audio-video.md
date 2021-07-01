@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-01 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-07-01 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -50,6 +50,7 @@
 - [2020-08-19-前端音视频的那些术语](https://www.ershicimi.com/p/3d3ff1bd4e9793540adf8258bbd84ab9) 
 - [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) 
 - [2020-01-26-Web-视频播放前前后后那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557793&idx=1&sn=a70ce12286324dfd0dc3ce1f3bb0b971&chksm=80255860b752d1764fc9f7413aa5d14c61fd58782fa0c175a53a9c46993f84c2274efad68083&scene=27#wechat_redirect) 
+- [2021-07-01-GMTC-直播来了，别错过近60位技术专家带来的满满干货](https://www.ershicimi.com/p/3ef1ef8b98b15b8cdfb06f8f24538bd7) 
 - [2021-05-31-如何抓住社交风口下的音视频直播技术-|-极客时间](https://www.ershicimi.com/p/168e1a11cfc1a1f4bc0b2004d8634949) 
 - [2021-05-19-声网、新东方、伴鱼英语的音视频技术解读-|-InfoQ](https://www.ershicimi.com/p/1b2de5b79c1d5a0aa7e8d0f5a2762fc5) 
 - [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105) 

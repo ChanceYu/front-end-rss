@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-07-01 12:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-07-01 18:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -64,10 +64,10 @@
 </summary>
 
 
-- [2021-06-30-前端工程化，让你的项目启动提速70%](https://www.ershicimi.com/p/926fe8dfd58167835d502d1931e69f0a) ![](assets/new.png)  
-- [2021-06-30-前端水印实现方案](https://www.ershicimi.com/p/40f15ec8bf26bc1791fd0c0566d6f6da) ![](assets/new.png)  
-- [2021-06-30-前端每日一题-#153](https://www.ershicimi.com/p/711cc6a794ab9e81db09ffa426e5867c) ![](assets/new.png)  
-- [2021-06-30-设计灵感：12组黄色调APP界面设计](https://www.ershicimi.com/p/7aec6631d58c47147ba374573e023fb9) ![](assets/new.png)  
+- [2021-06-30-前端工程化，让你的项目启动提速70%](https://www.ershicimi.com/p/926fe8dfd58167835d502d1931e69f0a)  
+- [2021-06-30-前端水印实现方案](https://www.ershicimi.com/p/40f15ec8bf26bc1791fd0c0566d6f6da)  
+- [2021-06-30-前端每日一题-#153](https://www.ershicimi.com/p/711cc6a794ab9e81db09ffa426e5867c)  
+- [2021-06-30-设计灵感：12组黄色调APP界面设计](https://www.ershicimi.com/p/7aec6631d58c47147ba374573e023fb9)  
 - [2021-06-29-为什么-setTimeout-有最小时延-4ms-?](https://www.ershicimi.com/p/e404be1ae5a657c2f024c532f2838813)  
 - [2021-06-29-微信-H5-页面前端开发，大多数人都会遇到的几个兼容性坑](https://www.ershicimi.com/p/efdb3dea2c523a1ca25c583242e9660d)  
 - [2021-06-29-前端每日一题-#152](https://www.ershicimi.com/p/ee2d5bca5f9e9a1262f9b9780e894833)  
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2021-07-01-GMTC-直播来了，别错过近60位技术专家带来的满满干货](https://www.ershicimi.com/p/3ef1ef8b98b15b8cdfb06f8f24538bd7) ![](assets/new.png)  
 - [2021-06-28-Windows-11-支持安卓应用，这事你怎么看？](https://www.ershicimi.com/p/83f5805fb51c2d73b297c5bfcd52bbcf)  
 - [2021-06-28-降低系统复杂性，开发团队必知的一种简单方法](https://www.ershicimi.com/p/a106e9cd12ab097a6012f0a828097c39)  
 - [2021-06-28-中国技术开放日长沙站圆满落幕｜探讨技术人如何更好地把控自己的职业](https://www.ershicimi.com/p/4625a20de9de9128a4b433d51691f294)  
@@ -114,7 +115,6 @@
 - [2021-06-16-为什么-Web-应用程序比独立应用程序更受欢迎](https://www.ershicimi.com/p/d632098d678eb5245af5bbf6672d2f0e)  
 - [2021-06-16-产品创新越来越难做，下一步应该怎么走？｜-PCon](https://www.ershicimi.com/p/52248cb721ab750ecd83316496e6685a)  
 - [2021-06-14-深度解读58本地服务Flutter落地实践：两点优化建议，四个避坑经验](https://www.ershicimi.com/p/27554fa946a7de607127414990bcd709)  
-- [2021-06-14-维护开源项目，我太难了](https://www.ershicimi.com/p/9a7af389c093773befde93b1c1561ae1)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
