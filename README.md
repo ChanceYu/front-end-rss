@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-07-02 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-07-03 08:00:25，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2021-07-01-32-条关于软件开发的建议和教训](https://www.ershicimi.com/p/5c1445963e60d81fdf88258a9bc1ed2f) ![](assets/new.png)  
+- [2021-07-01-20k-以上面试必问，Webpack-原理和优化-|-极客时间](https://www.ershicimi.com/p/dbfe030e14ac39199e452ef98dcca62f) ![](assets/new.png)  
+- [2021-06-30-项目延期半年，我被软件外包坑惨了！](https://www.ershicimi.com/p/3e897c1f8592c5cc2c1ae0fc73c5adde) ![](assets/new.png)  
+- [2021-06-30-只是工具？这是对低代码最大的误解](https://www.ershicimi.com/p/b87312c486c6141273f690077eeeb168) ![](assets/new.png)  
+- [2021-06-30-Kotlin-能追赶上-Java-的步伐吗？-|-极客时间](https://www.ershicimi.com/p/b2b0f18fb0074c1996c09fbdf9b0ed36) ![](assets/new.png)  
 - [2021-07-01-GMTC-直播来了，别错过近60位技术专家带来的满满干货](https://www.ershicimi.com/p/3ef1ef8b98b15b8cdfb06f8f24538bd7)  
 - [2021-06-28-Windows-11-支持安卓应用，这事你怎么看？](https://www.ershicimi.com/p/83f5805fb51c2d73b297c5bfcd52bbcf)  
 - [2021-06-28-降低系统复杂性，开发团队必知的一种简单方法](https://www.ershicimi.com/p/a106e9cd12ab097a6012f0a828097c39)  
@@ -110,11 +115,6 @@
 - [2021-06-20-淘宝大量用户信息泄露；微软自曝Windows-11系统；iOS又出Bug：特殊热点名称会致无线链接功](https://www.ershicimi.com/p/19b75dd01418d6ce03a56db4325a08c9)  
 - [2021-06-18-价值或超-4.5-亿？改变世界的-9555-行原始代码，正被万维网之父作为-NFT-拍卖](https://www.ershicimi.com/p/51476ac0a2c59be30f0c156d9cd85799)  
 - [2021-06-18-技术人：“别跟我谈梦想，谈，就是鸡汤”-？|-推荐](https://www.ershicimi.com/p/35b390380b6ffdaa01eb2b4a2c37ac66)  
-- [2021-06-18-为什么说程序员一定要懂些-HTTP-知识？|-极客时间](https://www.ershicimi.com/p/b0c7526cf23b9a72004440d3cd59d857)  
-- [2021-06-16-揭秘2021年美国公司都在使用哪个版本的Vue.js？](https://www.ershicimi.com/p/5ab3482016cefab309846da0703cbfc3)  
-- [2021-06-16-为什么-Web-应用程序比独立应用程序更受欢迎](https://www.ershicimi.com/p/d632098d678eb5245af5bbf6672d2f0e)  
-- [2021-06-16-产品创新越来越难做，下一步应该怎么走？｜-PCon](https://www.ershicimi.com/p/52248cb721ab750ecd83316496e6685a)  
-- [2021-06-14-深度解读58本地服务Flutter落地实践：两点优化建议，四个避坑经验](https://www.ershicimi.com/p/27554fa946a7de607127414990bcd709)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-07-02-科技爱好者周刊（第-165-期）：全端-App-的时代](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html) ![](assets/new.png)  
+- [2021-07-02-科技爱好者周刊（第-165-期）：全端-App-的时代](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html)  
 - [2021-06-28-程序员的酒后真言](http://www.ruanyifeng.com/blog/2021/06/drunk-post-of-a-programmer.html)  
 - [2021-06-25-科技爱好者周刊（第-164-期）：培训班-vs-大学，求职成功率比较](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-164.html)  
 - [2021-06-18-科技爱好者周刊（第-163-期）：你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)  

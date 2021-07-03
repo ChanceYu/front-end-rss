@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-02 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-07-03 08:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,8 @@
 </summary>
 
 
+- [【前端之巅】2021-07-01-32-条关于软件开发的建议和教训](https://www.ershicimi.com/p/5c1445963e60d81fdf88258a9bc1ed2f) 
+- [【前端之巅】2021-07-01-20k-以上面试必问，Webpack-原理和优化-|-极客时间](https://www.ershicimi.com/p/dbfe030e14ac39199e452ef98dcca62f) 
 - [【前端之巅】2021-07-01-GMTC-直播来了，别错过近60位技术专家带来的满满干货](https://www.ershicimi.com/p/3ef1ef8b98b15b8cdfb06f8f24538bd7) 
 - [【张鑫旭-鑫空间-鑫生活】2021-07-01-Proxy是代理，Reflect是干嘛用的？](https://www.zhangxinxu.com/wordpress/2021/07/js-proxy-reflect/) 
 - [【阮一峰的网络日志】2021-07-02-科技爱好者周刊（第-165-期）：全端-App-的时代](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-165.html) 
@@ -308,6 +310,9 @@
 - [【前端大全】2021-06-01-“这个需求做不了！”](https://www.ershicimi.com/p/c5ccf839246d81de6e3e1cce068145cf) 
 - [【前端大全】2021-06-01-前端每日一题-#124](https://www.ershicimi.com/p/91a30316da7227faea9b6bd523cd6ae4) 
 - [【前端大全】2021-06-01-设计灵感：-12款深色系金融类界面设计](https://www.ershicimi.com/p/80d76ae81e221869ca70151af96ded7e) 
+- [【前端之巅】2021-06-30-项目延期半年，我被软件外包坑惨了！](https://www.ershicimi.com/p/3e897c1f8592c5cc2c1ae0fc73c5adde) 
+- [【前端之巅】2021-06-30-只是工具？这是对低代码最大的误解](https://www.ershicimi.com/p/b87312c486c6141273f690077eeeb168) 
+- [【前端之巅】2021-06-30-Kotlin-能追赶上-Java-的步伐吗？-|-极客时间](https://www.ershicimi.com/p/b2b0f18fb0074c1996c09fbdf9b0ed36) 
 - [【前端之巅】2021-06-28-Windows-11-支持安卓应用，这事你怎么看？](https://www.ershicimi.com/p/83f5805fb51c2d73b297c5bfcd52bbcf) 
 - [【前端之巅】2021-06-28-降低系统复杂性，开发团队必知的一种简单方法](https://www.ershicimi.com/p/a106e9cd12ab097a6012f0a828097c39) 
 - [【前端之巅】2021-06-28-中国技术开放日长沙站圆满落幕｜探讨技术人如何更好地把控自己的职业](https://www.ershicimi.com/p/4625a20de9de9128a4b433d51691f294) 
