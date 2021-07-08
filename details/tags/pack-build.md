@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-03 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-07-08 18:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -156,6 +156,7 @@
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
 - [2017-04-27-使用-ES-decorators-构建一致性-API](https://fed.taobao.org/blog/2017/04/27/building-consistent-api-with-es-decorators/) 
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
+- [2020-06-21-18款-Webpack-插件，总会有你想要的！](http://www.yyyweb.com/5380.html) 
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
