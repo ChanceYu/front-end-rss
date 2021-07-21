@@ -24428,6 +24428,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "利用废弃的html rel import实现页面include功能",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/html-rel-import-include/",
+        "date": "2021-07-22"
+      },
+      {
         "title": "借助SVG滤镜实现CSS无法实现的阴影和模糊效果",
         "link": "https://www.zhangxinxu.com/wordpress/2021/07/svg-filter-shadow-css-blur/",
         "date": "2021-07-11"
