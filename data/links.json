@@ -24428,6 +24428,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "为什么white-space:nowrap可以让文字一行显示？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/css-white-space-nowrap/",
+        "date": "2021-07-26"
+      },
+      {
         "title": "使用ogv.js在Android浏览器解析webM视频",
         "link": "https://www.zhangxinxu.com/wordpress/2021/07/ogv-js-android-webm-video/",
         "date": "2021-07-24"
