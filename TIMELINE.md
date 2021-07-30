@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-28 08:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-07-30 12:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,6 +149,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-07-22-利用废弃的html-rel-import实现页面include功能](https://www.zhangxinxu.com/wordpress/2021/07/html-rel-import-include/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-07-11-借助SVG滤镜实现CSS无法实现的阴影和模糊效果](https://www.zhangxinxu.com/wordpress/2021/07/svg-filter-shadow-css-blur/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-07-01-Proxy是代理，Reflect是干嘛用的？](https://www.zhangxinxu.com/wordpress/2021/07/js-proxy-reflect/) 
+- [【阮一峰的网络日志】2021-07-30-科技爱好者周刊（第-169-期）：五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html) 
 - [【阮一峰的网络日志】2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html) 
 - [【阮一峰的网络日志】2021-07-16-科技爱好者周刊（第-167-期）：广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html) 
 - [【阮一峰的网络日志】2021-07-09-科技爱好者周刊（第-166-期）：视频学习胜过读书吗？](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html) 
