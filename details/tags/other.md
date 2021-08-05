@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-30 12:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-08-06 06:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1975,6 +1975,7 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [2021-03-05-LogicFlow：专注流程可视化的前端框架](http://www.yyyweb.com/5399.html) 
 - [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html) 
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html) 

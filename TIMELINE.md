@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-07-30 12:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-08-06 06:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -15,7 +15,7 @@
 <td><a href="#2021-05">05月</a></td>
 <td><a href="#2021-06">06月</a></td>
 <td><a href="#2021-07">07月</a></td>
-<td>08月</td>
+<td><a href="#2021-08">08月</a></td>
 <td>09月</td>
 <td>10月</td>
 <td>11月</td>
@@ -133,6 +133,18 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2021-08">
+ 2021-08
+</summary>
+
+
+- [【前端里】2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
+- [【前端里】2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2021-07">
