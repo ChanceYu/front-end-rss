@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-06 06:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-08-06 08:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,7 @@
 </summary>
 
 
+- [【Taobao-FED-|-淘宝前端团队】2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
 - [【前端里】2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [【前端里】2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html) 
 
