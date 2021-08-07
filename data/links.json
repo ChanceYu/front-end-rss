@@ -24443,6 +24443,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "SVG任意基本图形转path路径",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/",
+        "date": "2021-08-07"
+      },
+      {
         "title": "为什么HTML <picture>元素很少见人使用？",
         "link": "https://www.zhangxinxu.com/wordpress/2021/07/html-picture/",
         "date": "2021-07-26"

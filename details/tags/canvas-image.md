@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-06 12:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-08-08 06:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -45,6 +45,7 @@
 - [2018-12-17-WebGL-纹理详解](https://fed.taobao.org/blog/2018/12/17/webgl-texture/) 
 - [2018-03-05-G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](https://fed.taobao.org/blog/2018/03/05/intro-to-g3d/) 
 - [2017-07-27-GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/) 
+- [2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/) 
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/) 
