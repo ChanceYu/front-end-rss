@@ -24443,6 +24443,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "polyfill、ponyfill、prollyfill傻傻分不清楚",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/",
+        "date": "2021-08-08"
+      },
+      {
         "title": "SVG任意基本图形转path路径",
         "link": "https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/",
         "date": "2021-08-07"
