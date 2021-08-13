@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-08 18:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-08-13 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,7 @@
 - [【Taobao-FED-|-淘宝前端团队】2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/) 
+- [【阮一峰的网络日志】2021-08-13-科技爱好者周刊（第-171-期）：云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html) 
 - [【阮一峰的网络日志】2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html) 
 - [【前端里】2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [【前端里】2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html) 
