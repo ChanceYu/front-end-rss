@@ -24443,6 +24443,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS WeakMap应该什么时候使用",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/",
+        "date": "2021-08-15"
+      },
+      {
         "title": "polyfill、ponyfill、prollyfill傻傻分不清楚",
         "link": "https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/",
         "date": "2021-08-08"
