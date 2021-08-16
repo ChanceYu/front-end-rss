@@ -24443,6 +24443,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "关于《CSS新世界》这本书",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/",
+        "date": "2021-08-17"
+      },
+      {
         "title": "JS WeakMap应该什么时候使用",
         "link": "https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/",
         "date": "2021-08-15"

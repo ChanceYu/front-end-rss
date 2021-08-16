@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-15 18:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-08-17 06:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -141,6 +141,7 @@
 
 
 - [【Taobao-FED-|-淘宝前端团队】2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
+- [【张鑫旭-鑫空间-鑫生活】2021-08-17-关于《CSS新世界》这本书](https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-15-JS-WeakMap应该什么时候使用](https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/) 
