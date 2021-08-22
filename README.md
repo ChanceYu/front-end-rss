@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-08-22 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-08-23 06:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,9 +19,9 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2021-08-22-不使用file类型input也能触发文件上传](https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/) ![](assets/new.png)  
+- [2021-08-22-不使用file类型input也能触发文件上传](https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/)  
 - [2021-08-17-关于《CSS新世界》这本书](https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/)  
 - [2021-08-15-JS-WeakMap应该什么时候使用](https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/)  
 - [2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/)  
@@ -219,6 +219,8 @@
 </summary>
 
 
+- [2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html) ![](assets/new.png)  
+- [2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html) ![](assets/new.png)  
 - [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html)  
 - [2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html)  
 - [2021-03-05-LogicFlow：专注流程可视化的前端框架](http://www.yyyweb.com/5399.html)  
@@ -237,8 +239,6 @@
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html)  
 - [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html)  
 - [2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html)  
-- [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html)  
-- [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-22 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-08-23 06:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -269,6 +269,7 @@
 - [2019-09-09-Cookie-的-SameSite-属性](http://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html) 
 - [2019-09-05-curl-的用法指南](http://www.ruanyifeng.com/blog/2019/09/curl-reference.html) 
 - [2019-06-26-远程调试-Android-设备网页](http://www.ruanyifeng.com/blog/2019/06/android-remote-debugging.html) 
+- [2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html) 
 - [2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html) 
 - [2020-08-08-「查缺补漏」18道浏览器面试题解析](http://www.yyyweb.com/5389.html) 
 - [2019-10-27-你真的了解重绘和重排（回流）吗？](http://www.yyyweb.com/5317.html) 
