@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-08-23 06:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-08-26 12:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,8 +20,8 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-08-26-最适合程序员的笔记软件](http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html) ![](assets/new.png)  
 - [2021-08-20-科技爱好者周刊（第-172-期）：我们会死于气候灾难吗？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)  
 - [2021-08-13-科技爱好者周刊（第-171-期）：云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html)  
 - [2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html)  
@@ -207,7 +208,6 @@
 - [2021-05-14-科技爱好者周刊（第-158-期）：内容渠道的贬值](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html)  
 - [2021-05-10-软件工程的最大难题](http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html)  
 - [2021-05-07-科技爱好者周刊（第-157-期）：KK-给年轻人的建议](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html)  
-- [2021-04-30-科技爱好者周刊（第-156-期）：显卡缺货与异业竞争](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,8 +219,8 @@
 </summary>
 
 
-- [2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html) ![](assets/new.png)  
-- [2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html) ![](assets/new.png)  
+- [2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html)  
+- [2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html)  
 - [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html)  
 - [2021-08-05-推荐常用的六个插件武装你的-Chrome](http://www.yyyweb.com/5403.html)  
 - [2021-03-05-LogicFlow：专注流程可视化的前端框架](http://www.yyyweb.com/5399.html)  
