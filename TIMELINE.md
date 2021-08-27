@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-26 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-08-27 12:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,6 +146,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-08-15-JS-WeakMap应该什么时候使用](https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/) 
+- [【阮一峰的网络日志】2021-08-27-科技爱好者周刊（第-173-期）：网络收音机的设计](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html) 
 - [【阮一峰的网络日志】2021-08-26-最适合程序员的笔记软件](http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html) 
 - [【阮一峰的网络日志】2021-08-20-科技爱好者周刊（第-172-期）：我们会死于气候灾难吗？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html) 
 - [【阮一峰的网络日志】2021-08-13-科技爱好者周刊（第-171-期）：云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html) 
