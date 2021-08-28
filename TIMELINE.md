@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-27 12:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-08-28 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,7 @@
 - [【阮一峰的网络日志】2021-08-20-科技爱好者周刊（第-172-期）：我们会死于气候灾难吗？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html) 
 - [【阮一峰的网络日志】2021-08-13-科技爱好者周刊（第-171-期）：云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html) 
 - [【阮一峰的网络日志】2021-08-06-科技爱好者周刊（第-170-期）：软件订阅制的胜利](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-170.html) 
+- [【前端里】2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html) 
 - [【前端里】2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html) 
 - [【前端里】2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html) 
 - [【前端里】2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
