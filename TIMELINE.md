@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-08-28 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-09-03 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -16,7 +16,7 @@
 <td><a href="#2021-06">06月</a></td>
 <td><a href="#2021-07">07月</a></td>
 <td><a href="#2021-08">08月</a></td>
-<td>09月</td>
+<td><a href="#2021-09">09月</a></td>
 <td>10月</td>
 <td>11月</td>
 <td>12月</td>
@@ -133,6 +133,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2021-09">
+ 2021-09
+</summary>
+
+
+- [【阮一峰的网络日志】2021-09-03-科技爱好者周刊（第-174-期）：全能程序员-vs-特长程序员](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2021-08">
