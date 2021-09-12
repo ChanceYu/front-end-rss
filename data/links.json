@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "APNG在线制作、兼容、播放和暂停",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/",
+        "date": "2021-09-12"
+      },
+      {
         "title": "不使用file类型input也能触发文件上传",
         "link": "https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/",
         "date": "2021-08-22"
