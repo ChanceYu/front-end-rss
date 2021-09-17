@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-09-14 18:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-09-17 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/) ![](assets/new.png)  
+- [2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/)  
 - [2021-09-12-APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/)  
 - [2021-08-22-不使用file类型input也能触发文件上传](https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/)  
 - [2021-08-17-关于《CSS新世界》这本书](https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-09-17-科技爱好者周刊（第-176-期）：中国法院承认-GPL-吗？](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html) ![](assets/new.png)  
 - [2021-09-10-科技爱好者周刊（第-175-期）：知识广度-vs-知识深度](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html)  
 - [2021-09-07-《C-语言入门教程》发布了](http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html)  
 - [2021-09-03-科技爱好者周刊（第-174-期）：全能程序员-vs-特长程序员](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html)  
@@ -207,7 +208,6 @@
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)  
 - [2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)  
 - [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)  
-- [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

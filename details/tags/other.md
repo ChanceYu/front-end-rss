@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-09-14 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-09-17 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1780,6 +1780,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2021-09-17-科技爱好者周刊（第-176-期）：中国法院承认-GPL-吗？](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html) 
 - [2021-09-10-科技爱好者周刊（第-175-期）：知识广度-vs-知识深度](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html) 
 - [2021-09-07-《C-语言入门教程》发布了](http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html) 
 - [2021-09-03-科技爱好者周刊（第-174-期）：全能程序员-vs-特长程序员](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html) 
