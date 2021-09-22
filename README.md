@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-09-17 12:00:28，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-09-22 12:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -188,7 +188,8 @@
 </summary>
 
 
-- [2021-09-17-科技爱好者周刊（第-176-期）：中国法院承认-GPL-吗？](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html) ![](assets/new.png)  
+- [2021-09-22-俄罗斯总理的几何题](http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html) ![](assets/new.png)  
+- [2021-09-17-科技爱好者周刊（第-176-期）：中国法院承认-GPL-吗？](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html)  
 - [2021-09-10-科技爱好者周刊（第-175-期）：知识广度-vs-知识深度](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html)  
 - [2021-09-07-《C-语言入门教程》发布了](http://www.ruanyifeng.com/blog/2021/09/c-language-tutorial.html)  
 - [2021-09-03-科技爱好者周刊（第-174-期）：全能程序员-vs-特长程序员](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-174.html)  
@@ -207,7 +208,6 @@
 - [2021-06-18-科技爱好者周刊（第-163-期）：你的城市有多少张病床？](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-163.html)  
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html)  
 - [2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html)  
-- [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
