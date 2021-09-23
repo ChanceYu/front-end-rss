@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "HTML slot 插槽元素深入",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/",
+        "date": "2021-09-24"
+      },
+      {
         "title": "借助HTML ping属性实现数据上报",
         "link": "https://www.zhangxinxu.com/wordpress/2021/09/html-ping/",
         "date": "2021-09-14"
