@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-09-24 06:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-09-24 12:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -144,6 +144,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-09-24-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-09-12-APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/) 
+- [【阮一峰的网络日志】2021-09-24-科技爱好者周刊（第-177-期）：iPad-的真正用途](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html) 
 - [【阮一峰的网络日志】2021-09-22-俄罗斯总理的几何题](http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html) 
 - [【阮一峰的网络日志】2021-09-17-科技爱好者周刊（第-176-期）：中国法院承认-GPL-吗？](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html) 
 - [【阮一峰的网络日志】2021-09-10-科技爱好者周刊（第-175-期）：知识广度-vs-知识深度](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-175.html) 
