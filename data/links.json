@@ -25450,6 +25450,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "JavaScript 侦测手机浏览器的五种方法",
+        "link": "http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html",
+        "date": "2021-09-29"
+      },
+      {
         "title": "科技爱好者周刊（第 177 期）：iPad 的真正用途",
         "link": "http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html",
         "date": "2021-09-24"
