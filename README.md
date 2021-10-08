@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-10-08 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-10-08 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) ![](assets/new.png)  
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)  
 - [2021-09-24-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/)  
 - [2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/)  
@@ -176,7 +177,6 @@
 - [2021-06-14-纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/)  
 - [2021-05-30-如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/)  
 - [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/)  
-- [2021-05-16-使用CSS-revert全局关键字还原display显示元素](https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html) ![](assets/new.png)  
+- [2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)  
 - [2021-09-29-JavaScript-侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)  
 - [2021-09-24-科技爱好者周刊（第-177-期）：iPad-的真正用途](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html)  
 - [2021-09-22-俄罗斯总理的几何题](http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html)  
