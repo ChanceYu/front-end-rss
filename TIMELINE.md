@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-10-01 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-10-08 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -17,7 +17,7 @@
 <td><a href="#2021-07">07月</a></td>
 <td><a href="#2021-08">08月</a></td>
 <td><a href="#2021-09">09月</a></td>
-<td>10月</td>
+<td><a href="#2021-10">10月</a></td>
 <td>11月</td>
 <td>12月</td>
 </tr>
@@ -133,6 +133,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2021-10">
+ 2021-10
+</summary>
+
+
+- [【阮一峰的网络日志】2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2021-09">
