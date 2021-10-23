@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-10-22 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-10-24 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,8 +20,8 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html) ![](assets/new.png)  
+- [2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)  
 - [2021-10-15-科技爱好者周刊（第-179-期）：AR-技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)  
 - [2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)  
 - [2021-09-29-JavaScript-侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)  
@@ -219,6 +219,7 @@
 </summary>
 
 
+- [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html) ![](assets/new.png)  
 - [2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html)  
 - [2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html)  
 - [2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html)  
@@ -238,7 +239,6 @@
 - [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html)  
 - [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html)  
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html)  
-- [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
