@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-10-24 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-10-25 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,9 +19,9 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-10-25-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) ![](assets/new.png)  
 - [2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/)  
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)  
 - [2021-09-24-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/)  
@@ -176,7 +177,6 @@
 - [2021-06-27-JS判断图像背景颜色单一还是丰富](https://www.zhangxinxu.com/wordpress/2021/06/js-image-colorful-or-pure/)  
 - [2021-06-14-纯CSS实现标题栏、表格头水平滚动垂直不滚动](https://www.zhangxinxu.com/wordpress/2021/06/css-scroll-sticky/)  
 - [2021-05-30-如何使用CSS禁止元素拖拽？](https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/)  
-- [2021-05-30-666，看hr标签实现分隔线如何玩出花](https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html) ![](assets/new.png)  
+- [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html)  
 - [2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html)  
 - [2021-08-22-35+精选chrome插件，含15+前端插件](http://www.yyyweb.com/5414.html)  
 - [2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html)  

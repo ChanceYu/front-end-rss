@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS @counter-style规则详细介绍",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/",
+        "date": "2021-10-25"
+      },
+      {
         "title": "CSS content新的替换元素规范行为解读",
         "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/",
         "date": "2021-10-08"
