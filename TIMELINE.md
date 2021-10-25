@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-10-25 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-10-26 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,6 +145,7 @@
 - [【阮一峰的网络日志】2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html) 
 - [【阮一峰的网络日志】2021-10-15-科技爱好者周刊（第-179-期）：AR-技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html) 
 - [【阮一峰的网络日志】2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html) 
+- [【前端里】2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html) 
 - [【前端里】2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
