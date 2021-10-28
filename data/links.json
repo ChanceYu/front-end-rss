@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS复制文字到剪切板的极简实现及扩展",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/",
+        "date": "2021-10-28"
+      },
+      {
         "title": "CSS @counter-style规则详细介绍",
         "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/",
         "date": "2021-10-25"
