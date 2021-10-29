@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-10-28 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-10-29 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-10-25-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) 
+- [【阮一峰的网络日志】2021-10-29-科技爱好者周刊（第-181-期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html) 
 - [【阮一峰的网络日志】2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html) 
 - [【阮一峰的网络日志】2021-10-15-科技爱好者周刊（第-179-期）：AR-技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html) 
 - [【阮一峰的网络日志】2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html) 
