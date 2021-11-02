@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-10-29 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-11-03 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -18,7 +18,7 @@
 <td><a href="#2021-08">08月</a></td>
 <td><a href="#2021-09">09月</a></td>
 <td><a href="#2021-10">10月</a></td>
-<td>11月</td>
+<td><a href="#2021-11">11月</a></td>
 <td>12月</td>
 </tr>
 
@@ -133,6 +133,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2021-11">
+ 2021-11
+</summary>
+
+
+- [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2021-10">

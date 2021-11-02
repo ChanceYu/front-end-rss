@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "见多识广，介绍Web开发中current开头的一些API属性",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/",
+        "date": "2021-11-02"
+      },
+      {
         "title": "JS复制文字到剪切板的极简实现及扩展",
         "link": "https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/",
         "date": "2021-10-28"
