@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-11-03 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-11-05 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -157,7 +157,7 @@
 </summary>
 
 
-- [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) ![](assets/new.png)  
+- [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/)  
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)  
 - [2021-10-25-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/)  
 - [2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/)  
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-11-05-科技爱好者周刊（第-182-期）：新人优惠的风险](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-182.html) ![](assets/new.png)  
 - [2021-10-29-科技爱好者周刊（第-181-期）：移动支付应该怎么设计？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-181.html)  
 - [2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)  
 - [2021-10-15-科技爱好者周刊（第-179-期）：AR-技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)  
@@ -207,7 +208,6 @@
 - [2021-07-30-科技爱好者周刊（第-169-期）：五菱汽车的产品设计](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-169.html)  
 - [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html)  
 - [2021-07-16-科技爱好者周刊（第-167-期）：广告拦截器太过分了](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html)  
-- [2021-07-09-科技爱好者周刊（第-166-期）：视频学习胜过读书吗？](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
