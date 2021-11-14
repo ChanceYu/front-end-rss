@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "密码强度效果最佳实现一定是HTML meter元素",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/",
+        "date": "2021-11-14"
+      },
+      {
         "title": "见多识广，介绍Web开发中current开头的一些API属性",
         "link": "https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/",
         "date": "2021-11-02"
