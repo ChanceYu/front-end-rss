@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "从js visibilitychange Safari下无效说开去",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/",
+        "date": "2021-11-24"
+      },
+      {
         "title": "密码强度效果最佳实现一定是HTML meter元素",
         "link": "https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/",
         "date": "2021-11-14"
