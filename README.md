@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-03 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-05 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,8 +20,8 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -188,7 +188,7 @@
 </summary>
 
 
-- [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) ![](assets/new.png)  
+- [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)  
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html)  
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)  
 - [2021-11-12-科技爱好者周刊（第-183-期）：腾讯的员工退休福利](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-183.html)  
@@ -219,6 +219,7 @@
 </summary>
 
 
+- [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html) ![](assets/new.png)  
 - [2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html)  
 - [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html)  
 - [2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html)  
@@ -238,7 +239,6 @@
 - [2020-04-19-Flutter-VS-React-Native-VS-Native-性能PK](http://www.yyyweb.com/5360.html)  
 - [2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html)  
 - [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html)  
-- [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

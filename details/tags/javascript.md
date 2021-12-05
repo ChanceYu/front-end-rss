@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-03 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-05 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -648,6 +648,7 @@
 - [2019-08-06-Web-Components-入门实例教程](http://www.ruanyifeng.com/blog/2019/08/web_components.html) 
 - [2018-12-12-异步-API-的设计](http://www.ruanyifeng.com/blog/2018/12/async-api-design.html) 
 - [2018-10-18-Flexbox-布局的最简单表单](http://www.ruanyifeng.com/blog/2018/10/flexbox-form.html) 
+- [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html) 
 - [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html) 
 - [2020-11-18-不可思议，纯-CSS-实现图片滚动](http://www.yyyweb.com/5392.html) 
 - [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html) 
