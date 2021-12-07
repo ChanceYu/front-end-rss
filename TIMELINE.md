@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-05 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-07 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,7 @@
 </summary>
 
 
+- [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
 - [【阮一峰的网络日志】2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html) 
 - [【前端里】2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html) 
 

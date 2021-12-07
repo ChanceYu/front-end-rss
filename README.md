@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-05 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-07 18:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,8 +20,8 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -188,6 +188,7 @@
 </summary>
 
 
+- [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) ![](assets/new.png)  
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)  
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html)  
 - [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)  
@@ -207,7 +208,6 @@
 - [2021-08-27-科技爱好者周刊（第-173-期）：网络收音机的设计](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-173.html)  
 - [2021-08-26-最适合程序员的笔记软件](http://www.ruanyifeng.com/blog/2021/08/best-note-taking-software-for-programmers.html)  
 - [2021-08-20-科技爱好者周刊（第-172-期）：我们会死于气候灾难吗？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-172.html)  
-- [2021-08-13-科技爱好者周刊（第-171-期）：云服务流量有多贵？](http://www.ruanyifeng.com/blog/2021/08/weekly-issue-171.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html) ![](assets/new.png)  
+- [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html)  
 - [2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html)  
 - [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html)  
 - [2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html)  
