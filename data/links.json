@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "深入JS getRandomValue和Math.random方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/",
+        "date": "2021-12-20"
+      },
+      {
         "title": "你不知道的CSS media查询与用户体验",
         "link": "https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/",
         "date": "2021-12-13"
