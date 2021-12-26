@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-26 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2005,6 +2005,7 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html) 
 - [2021-12-11-对混沌工程的五个常见的误解](http://www.yyyweb.com/5428.html) 
 - [2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html) 
 - [2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html) 
