@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-26 18:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-30 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,9 +19,9 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -157,6 +157,7 @@
 </summary>
 
 
+- [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) ![](assets/new.png)  
 - [2021-12-20-深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)  
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/)  
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)  
@@ -176,7 +177,6 @@
 - [2021-08-08-polyfill、ponyfill、prollyfill傻傻分不清楚](https://www.zhangxinxu.com/wordpress/2021/08/polyfill-ponyfill-prollyfill/)  
 - [2021-08-07-SVG任意基本图形转path路径](https://www.zhangxinxu.com/wordpress/2021/08/svg-shape-to-path/)  
 - [2021-07-26-为什么HTML-<picture>元素很少见人使用？](https://www.zhangxinxu.com/wordpress/2021/07/html-picture/)  
-- [2021-07-26-为什么white-space:nowrap可以让文字一行显示？](https://www.zhangxinxu.com/wordpress/2021/07/css-white-space-nowrap/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html) ![](assets/new.png)  
+- [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html)  
 - [2021-12-11-对混沌工程的五个常见的误解](http://www.yyyweb.com/5428.html)  
 - [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html)  
 - [2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html)  

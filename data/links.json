@@ -24448,6 +24448,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS 标签模板（Tagged templates）什么时候使用？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/",
+        "date": "2021-12-29"
+      },
+      {
         "title": "深入JS getRandomValue和Math.random方法",
         "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/",
         "date": "2021-12-20"
