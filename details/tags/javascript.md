@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-31 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,9 @@
 
 
 
+- [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) 
+- [2021-12-10-Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568) 
+- [2021-12-03-Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567) 
 - [2021-06-28-【第2320期】JavaScript代码整洁之道-复杂判断](https://www.ershicimi.com/p/fee01a30514191d70b0fc6d9ddf58fc0) 
 - [2021-06-26-【第2318期】业务中的前端组件化体系](https://www.ershicimi.com/p/627ed3b21b699f1a98823f80ce719ac3) 
 - [2021-06-25-【第2317期】Docgeni，开箱即用的-Angular-组件文档工具](https://www.ershicimi.com/p/0d08c65b74b57a7cb517270a05bf29d7) 

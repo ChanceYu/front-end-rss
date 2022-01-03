@@ -11,21 +11,53 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-31 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 00:59:16，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
+
+<details open>
+<summary id="node-weekly">
+ Node-Weekly
+</summary>
+
+
+- [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)  
+- [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418)  
+- [2021-12-09-Security](https://nodeweekly.com/issues/417)  
+- [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416)  
+- [......【查看更多】......](./details/Node-Weekly.md)
+
+<div align="right"><a href="#来源分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="javascript-weekly">
+ JavaScript-Weekly
+</summary>
+
+
+- [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) ![](assets/new.png)  
+- [2021-12-17-Array.prototype.groupBy](https://javascriptweekly.com/issues/569) ![](assets/new.png)  
+- [2021-12-10-Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568) ![](assets/new.png)  
+- [2021-12-03-Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567) ![](assets/new.png)  
+- [......【查看更多】......](./details/JavaScript-Weekly.md)
+
+<div align="right"><a href="#来源分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="前端早读课">
@@ -188,7 +220,7 @@
 </summary>
 
 
-- [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) ![](assets/new.png)  
+- [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)  
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html)  
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)  
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)  

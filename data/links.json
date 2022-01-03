@@ -1,5 +1,59 @@
 [
   {
+    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml",
+    "title": "Node-Weekly",
+    "link": "https://nodeweekly.com/",
+    "items": [
+      {
+        "title": "Looking back at Node.js in 2021",
+        "link": "https://nodeweekly.com/issues/419",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "Shell scripting in Node with zx",
+        "link": "https://nodeweekly.com/issues/418",
+        "date": "2021-12-16"
+      },
+      {
+        "title": "Security",
+        "link": "https://nodeweekly.com/issues/417",
+        "date": "2021-12-09"
+      },
+      {
+        "title": "One dev's journey from Node to Rust",
+        "link": "https://nodeweekly.com/issues/416",
+        "date": "2021-12-02"
+      }
+    ]
+  },
+  {
+    "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml",
+    "title": "JavaScript-Weekly",
+    "link": "https://javascriptweekly.com/",
+    "items": [
+      {
+        "title": "The JavaScript 2021 megamix",
+        "link": "https://javascriptweekly.com/issues/570",
+        "date": "2021-12-24"
+      },
+      {
+        "title": "Array.prototype.groupBy",
+        "link": "https://javascriptweekly.com/issues/569",
+        "date": "2021-12-17"
+      },
+      {
+        "title": "Cutting down on JavaScript",
+        "link": "https://javascriptweekly.com/issues/568",
+        "date": "2021-12-10"
+      },
+      {
+        "title": "Happy 26th birthday to JavaScript",
+        "link": "https://javascriptweekly.com/issues/567",
+        "date": "2021-12-03"
+      }
+    ]
+  },
+  {
     "rss": "https://rsshub.app/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",

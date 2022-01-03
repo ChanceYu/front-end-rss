@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-31 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,6 +7,9 @@
 
 
 
+- [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
+- [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
+- [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
 - [2021-06-02-【第2297期】WebContainers简介：在你的浏览器中运行Node.js](https://www.ershicimi.com/p/e03617dee0b47876f6dd1009db6e24ec) 
 - [2021-03-10-【第2221期】和-Node.js-创始人-Ryan-Dahl-的对话](https://www.ershicimi.com/p/49aeddfcb36ecfa2242257adfab9cf3e) 
 - [2021-03-09-【招聘】阿里AliExpress前端团队2022春招开始了！](https://www.ershicimi.com/p/a896c62ab6c27ddd67f5db110c8426c5) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-31 12:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,6 +182,9 @@
 
 
 
+- [【Node-Weekly】Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)
+- [【Node-Weekly】Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418)
+- [【Node-Weekly】One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416)
 - [【前端早读课】【第2297期】WebContainers简介：在你的浏览器中运行Node.js](https://www.ershicimi.com/p/e03617dee0b47876f6dd1009db6e24ec)
 - [【前端早读课】【第2221期】和-Node.js-创始人-Ryan-Dahl-的对话](https://www.ershicimi.com/p/49aeddfcb36ecfa2242257adfab9cf3e)
 - [【前端早读课】【招聘】阿里AliExpress前端团队2022春招开始了！](https://www.ershicimi.com/p/a896c62ab6c27ddd67f5db110c8426c5)
@@ -199,9 +202,6 @@
 - [【前端早读课】【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)
 - [【前端早读课】【第1867期】Node.js-CLI-工具最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235774&idx=2&sn=66c5f809811ddc7477d49509231490b8&chksm=bd497c3a8a3ef52c1664210e27863711cd74246ae27ec9a0f39a320676621b2936ce2be3c635&scene=27#wechat_redirect)
 - [【前端早读课】【第1835期】llhttp是如何使Node.js性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235471&idx=1&sn=0bee2ebaf7234b54e0782455bbc3ae6f&chksm=bd497d0b8a3ef41d888e082669654713c975a67d8935145aba141372107ae908ea383a10bde2&scene=27#wechat_redirect)
-- [【前端早读课】Electron-开发指南：前端人的最佳跨平台解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=1&sn=d804721aada935a97a124fec6e7f32e8&chksm=bd497de08a3ef4f694d48f527aec9c449c1b562e45e57eb0013205b84411e0dedb448c0c5d84&scene=27#wechat_redirect)
-- [【前端早读课】【图书】狼书（卷2）：Node.js-Web应用开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect)
-- [【前端早读课】【第1808期】2019年终云时代的Node-FaaS技术展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235185&idx=1&sn=dcc37bb62921e5ca5de8bdf2bfc1dfeb&chksm=bd497af58a3ef3e3697f261cdccc476051fc63f5f12bc2cd3769701cfab455c262bbc6d632f4&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +326,9 @@
 
 
 
+- [【JavaScript-Weekly】The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570)
+- [【JavaScript-Weekly】Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568)
+- [【JavaScript-Weekly】Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567)
 - [【前端早读课】【第2320期】JavaScript代码整洁之道-复杂判断](https://www.ershicimi.com/p/fee01a30514191d70b0fc6d9ddf58fc0)
 - [【前端早读课】【第2318期】业务中的前端组件化体系](https://www.ershicimi.com/p/627ed3b21b699f1a98823f80ce719ac3)
 - [【前端早读课】【第2317期】Docgeni，开箱即用的-Angular-组件文档工具](https://www.ershicimi.com/p/0d08c65b74b57a7cb517270a05bf29d7)
@@ -343,9 +346,6 @@
 - [【前端早读课】【开源】企鹅电竞高性能动画组件---VAP](https://www.ershicimi.com/p/e48f5d3f35a644c3fe7fe121cde36297)
 - [【前端早读课】【第2255期】Service-Worker-实践指南](https://www.ershicimi.com/p/86749c5a6a449ebc7a0173fa6c052362)
 - [【前端早读课】【第2233期】Javascript权威指南：迭代器和生成器](https://www.ershicimi.com/p/595720f87218226f8d6aa8e76220391f)
-- [【前端早读课】【图书】JavaScript权威指南第7版](https://www.ershicimi.com/p/94e899c34c9587effafda212e9f613fa)
-- [【前端早读课】【第2229期】百度前端工程化之H5性能优化篇](https://www.ershicimi.com/p/089f432672b4dc5866d93743adf7f40f)
-- [【前端早读课】【第2220期】前端函数式演进之函数式思维和前端特征](https://www.ershicimi.com/p/d38736095776f458e4dd2c01b96ff810)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -720,6 +720,8 @@
 
 
 
+- [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】Array.prototype.groupBy](https://javascriptweekly.com/issues/569)
 - [【前端早读课】一篇文章带你了解-Vite-2项目工程化](https://www.ershicimi.com/p/520d43f8faef1e1b7e5db7f3205d76be)
 - [【前端早读课】【第2316期】中后台领域低代码搭建设计与实践](https://www.ershicimi.com/p/dc487ecdfe813b4595a20256320eeff1)
 - [【前端早读课】【第2311期】@玉伯：开源有带给我什么](https://www.ershicimi.com/p/eec4b2d92346c047cc94a2bfdf070fc4)
@@ -738,8 +740,6 @@
 - [【前端早读课】【第2284期】让-Instagram.com-变得更快：Part-1](https://www.ershicimi.com/p/aad17810fffd59e1c364a5aede5934b9)
 - [【前端早读课】【第2280期】突破web-应用研发效能的叹息之墙](https://www.ershicimi.com/p/db31f4f14848000906776670361c4133)
 - [【前端早读课】分享一个源码学习技巧](https://www.ershicimi.com/p/64085e91a1a7608ec213fcad2a26e583)
-- [【前端早读课】【第2278期】腾讯文档无障碍化开发：亲近更体贴用户](https://www.ershicimi.com/p/b4034e016129821418436f37df912e96)
-- [【前端早读课】【第2277期】Cross-Origin-Read-Blocking-CORB](https://www.ershicimi.com/p/a49740a76b30be3b1967e4c25b708077)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

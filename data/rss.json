@@ -1,7 +1,16 @@
 [
   {
+    "title": "Node-Weekly",
+    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
+  },
+  {
+    "title": "JavaScript-Weekly",
+    "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+  },
+  {
     "title": "前端早读课",
     "rss": [
+      "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
       "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
       "https://rsshub.app/wechat/ershicimi/5760"
     ]
@@ -9,6 +18,7 @@
   {
     "title": "前端大全",
     "rss": [
+      "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
       "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
       "https://rsshub.app/wechat/ershicimi/65"
     ]
@@ -16,6 +26,7 @@
   {
     "title": "前端之巅",
     "rss": [
+      "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
       "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
       "https://rsshub.app/wechat/ershicimi/154"
     ]

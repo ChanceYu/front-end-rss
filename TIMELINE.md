@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-31 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,14 @@
 </summary>
 
 
+- [【Node-Weekly】2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
+- [【Node-Weekly】2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
+- [【Node-Weekly】2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [【Node-Weekly】2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
+- [【JavaScript-Weekly】2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) 
+- [【JavaScript-Weekly】2021-12-17-Array.prototype.groupBy](https://javascriptweekly.com/issues/569) 
+- [【JavaScript-Weekly】2021-12-10-Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568) 
+- [【JavaScript-Weekly】2021-12-03-Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567) 
 - [【张鑫旭-鑫空间-鑫生活】2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-12-20-深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) 
