@@ -62,6 +62,8 @@ function handlerCommit(){
  * 处理订阅源
  */
 function handlerFeed(){
+  delete require.cache[require.resolve(RSS_PATH)]
+  delete require.cache[require.resolve(LINKS_PATH)]
   rssJson = require(RSS_PATH)
   linksJson = require(LINKS_PATH)
 

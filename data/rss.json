@@ -8,6 +8,7 @@
     "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
   },
   {
+    "id": "FeZaoDuKe",
     "title": "前端早读课",
     "rss": [
       "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
@@ -16,6 +17,7 @@
     ]
   },
   {
+    "id": "FrontDev",
     "title": "前端大全",
     "rss": [
       "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
@@ -24,11 +26,26 @@
     ]
   },
   {
+    "id": "frontshow",
     "title": "前端之巅",
     "rss": [
       "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
       "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
       "https://rsshub.app/wechat/ershicimi/154"
+    ]
+  },
+  {
+    "id": "iwebfe",
+    "title": "前端技术优选",
+    "rss": [
+      "https://rsshub.app/wechat/wemp/0ae31766-8e50-45be-9a7d-5d5bbdc03165"
+    ]
+  },
+  {
+    "id": "coder_growth",
+    "title": "程序员成长指北",
+    "rss": [
+      "https://rsshub.app/wechat/wemp/de57e5f9-30db-45d1-8597-0ec472f45aaf"
     ]
   },
   {

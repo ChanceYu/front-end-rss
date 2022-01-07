@@ -5,6 +5,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "clone-deep": "^4.0.0",
+    "dotenv": "^10.0.0",
     "later": "^1.2.0",
     "moment": "^2.22.2",
     "query-string": "^6.8.1",

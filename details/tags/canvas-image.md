@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 20:33:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -34,8 +34,10 @@
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd) 
 - [2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
 - [2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
+- [2021-12-20-从WebGL到WebGPU，网页图形的全新时代](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512172&idx=1&sn=7527199067c4f022fd10d2f0f14a528c&chksm=f952052fce258c392f707f840b11f1c14a50b1c8869d656421e734c7b5796bd9a7248d6815bb#rd) 
 - [2020-03-24-亿级前端项目中的3D技术：支付宝2020年新春活动的背后](https://www.ershicimi.com/p/619bea0d1092c5620efa859ace4b92b1) 
 - [2018-11-13-搞定复杂-GUI！西安交大提出前端设计图自动转代码新方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489854&idx=1&sn=4828d5d36c3becdf8b1f46490b5ce708#wechat_redirect) 
+- [2022-01-05-吐血推荐一大波让你直呼哇塞的Canvas库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=3&sn=e2bb7ff7e7a5dab1082dd529be30b34d&chksm=f992cc9bcee5458d41cfa52a6effa529220cb0e08cd5de3b354c604c549e1f471d1571dd4c68#rd) 
 - [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
 - [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) 
 - [2020-08-13-一起来玩玩WebGL--第二弹](https://fed.taobao.org/blog/taofed/do71ct/ghlebo) 

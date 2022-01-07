@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 00:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 20:33:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2021-12-27-【第2496期】现代Web应用应该是Bundless的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651251861&idx=1&sn=b1f12799af502d01613a31a047e61368&chksm=bd493d118a3eb407e6dfeabb9d8b912fbf82d4c221800193b0bb3d7263e0fd2bb78ca9c0d9c4#rd) 
 - [2021-05-27-【第2291期】探秘CSS光影效果](https://www.ershicimi.com/p/b8a1b1494b4dd6f31dd1583b0e493670) 
 - [2021-05-19-【第2283期】网页动画的十二原则](https://www.ershicimi.com/p/ca71a567459fb4fc9046c61330e2db9c) 
 - [2021-05-17-【第2281期】CSS-新特性-contain，控制页面的重绘与重排](https://www.ershicimi.com/p/2ba753769b2d7c08513290e93ead48c1) 

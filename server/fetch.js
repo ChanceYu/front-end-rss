@@ -4,12 +4,19 @@ const moment = require('moment')
 
 const utils = require('./utils')
 
+require('dotenv').config()
+
 const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssItem, cb){
+  const envLink = process.env['RSS_' + rssItem.id];
   let rssArray = rssItem.rss
   let done = false;
 
   if(typeof rssArray === 'string'){
     rssArray = [ rssArray ]
+  }
+
+  if (envLink) {
+    rssArray.unshift(envLink)
   }
 
   while(!done){
@@ -59,9 +66,10 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
           console.log(utils.getNowDate() + ' - 失败 RSS: ' + rss);
           feed = {};
           feed.title = jsonItem.title
-          feed.link = jsonItem.link
           feed.items = []
         }
+    
+        feed.title = rssItem.title
     
         feed.items.forEach(el => {
           let exist = false
@@ -99,14 +107,12 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
             
             items.push(itemObject)
     
-            newData.rss[rss] = true
+            newData.rss[feed.title] = true
             newData.links[el.link] = true
 
             done = true;
           }
         });
-    
-        feed.title = rssItem.title
     
         if(items.length){
           newData.titles.push(feed.title)
@@ -114,9 +120,7 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
     
         newData.length += items.length
     
-        jsonItem.rss = rss
         jsonItem.title = feed.title
-        jsonItem.link = feed.link
         jsonItem.items = items.concat(_items)
     
         linksJson[linksJsonIndex] = jsonItem
