@@ -143,7 +143,7 @@ function handlerDetails(newData){
   let compiled = _.template(content);
 
   allLinks.forEach((source) => {
-    if (source.rss in newData.rss){
+    if (source.title in newData.rss){
       source.currentDate = utils.getNowDate()
       source.formatTitle = utils.formatTitle
   

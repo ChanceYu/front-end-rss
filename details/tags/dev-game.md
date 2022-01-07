@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-07 20:33:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 01:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,11 +7,11 @@
 
 
 
-- [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](https://www.ershicimi.com/p/e973bc85003eda96330c1516110dc999) 
-- [2021-01-28-【招聘】腾讯游戏流量中台招前端开发工程师](https://www.ershicimi.com/p/29a523d80c925512b18aebe0de7429e9) 
-- [2020-12-22-【第2155期】搅动H5游戏世界的鲶鱼——Cocos](https://www.ershicimi.com/p/dd623f9a7c50755407473f28c32a8460) 
-- [2020-10-29-【第2101期】纯CSS实现密室逃脱游戏](https://www.ershicimi.com/p/a40e1317fe4fddd2a6ea4c2281754e55) 
-- [2020-09-04-【招聘】字节跳动杭州游戏平台招前端开发实习+社招](https://www.ershicimi.com/p/08b5c48d6117cf5fd86562c555815603) 
+- [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246110&idx=2&sn=d8a0d3acae6398b99e904704617468aa&chksm=bd49179a8a3e9e8c383b110112ed00b0e534af4ffda48ae40f114234bd91fc286c7f578fdb24&scene=27#wechat_redirect) 
+- [2021-01-28-【招聘】腾讯游戏流量中台招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243702&idx=2&sn=36c7e47c53773df8308da8a6c034dba7&chksm=bd491d328a3e9424f698544779a73163a3eef52b2826d6197ae8842171732cb75f08b59b9e16&scene=27#wechat_redirect) 
+- [2020-12-22-【第2155期】搅动H5游戏世界的鲶鱼——Cocos](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242640&idx=2&sn=dfb00ebea24f9ffe0cc669d69f032344&chksm=bd4919148a3e9002e251408acb562443a526fcf8f33189f9a96e15f21686e379434d628e24a2&scene=27#wechat_redirect) 
+- [2020-10-29-【第2101期】纯CSS实现密室逃脱游戏](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240728&idx=1&sn=a9c3005236c654dd665e1fa32afbb664&chksm=bd49609c8a3ee98a52de868d0079c9b60f1acfcc113d11d4b82d0d957698435eaaa355deee8a&scene=27#wechat_redirect) 
+- [2020-09-04-【招聘】字节跳动杭州游戏平台招前端开发实习+社招](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239387&idx=2&sn=042bc04329f19dbb8bc076a67a68f917&chksm=bd496a5f8a3ee3496966e09e4ad809e6e5468dff625c9af9129166520fa0eb336e6c48eb37c9&scene=27#wechat_redirect) 
 - [2019-09-18-【招聘】厦门4399游戏2020届校园招聘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233769&idx=2&sn=ecd1cdf9b212793e8f42d58bfbb9ecc7&chksm=bd49446d8a3ecd7b6a4a172c776d7e7521c8c4d2302042df76bc871cb7092a30888ec8b08f8d#rd) 
 - [2019-08-31-【第1713期】腾讯TGideas@花叔：我的小游戏开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233654&idx=1&sn=7e7ece4561d6375fa191e2f54a73b830&chksm=bd4944f28a3ecde48887243240958b873fd26ae5ac9cd668d1f772bf6934eeca5a2b219bf461#rd) 
 - [2019-08-21-W3C-Web-游戏技术研讨会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=3&sn=0f0582994ef74a7ee2014109680a0f20&chksm=bd4945448a3ecc5288f06bc515f8f02fd7f868f1e270c48c091d806afda31364abbbe5a82796#rd) 
@@ -22,16 +22,16 @@
 - [2018-12-05-【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect) 
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [2018-09-20-【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect) 
-- [2021-05-20-设计灵感：游戏类APP如何吸引人们的兴趣？](https://www.ershicimi.com/p/107a2f27dd37bb71a235613c18a654fa) 
-- [2021-04-23-用three.js写一个下雨动画](https://www.ershicimi.com/p/a2ae173f068c0ba6949b8ba230acb1b9) 
-- [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](https://www.ershicimi.com/p/158769aa3fe41cbce92bdbdc146dad38) 
-- [2021-03-15-three.js-实现露珠滴落动画](https://www.ershicimi.com/p/b38da6ab54e127ade7c0efa8c1c31caa) 
-- [2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b) 
-- [2020-11-04-纯-CSS-实现密室逃脱游戏](https://www.ershicimi.com/p/00951fee8e465623a2e05f3a7137f48e) 
-- [2020-04-05-二营长，快掏个CSS出来给我画个井字棋游戏](https://www.ershicimi.com/p/a82d171041eec23def230bac40a1f709) 
+- [2021-05-20-设计灵感：游戏类APP如何吸引人们的兴趣？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576212&idx=4&sn=7c419b2674063737dfa6e322bdbecaed&chksm=80250055b752894396ea784cf59a7aaecb6d8d4534560ad49469047b4aa85df6d3fc06ae14e2&scene=27#wechat_redirect) 
+- [2021-04-23-用three.js写一个下雨动画](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574231&idx=2&sn=cbf8d400cec5b16d52855b9dfd85b1ed&chksm=80251816b7529100cc472f75d44f98ec8d6ea59cd97825a0bf09890c920556010237651fce9d&scene=27#wechat_redirect) 
+- [2021-04-20-关于从入门-three.js-到做出-3d-地球这件事通俗易懂的入门](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574123&idx=2&sn=52a2852d0105d69e69b3027f90f34b42&chksm=802518aab75291bc237a2b0ea3dfa3e2d36def01fc200ceedc65f79c63f50622b6bced485f74&scene=27#wechat_redirect) 
+- [2021-03-15-three.js-实现露珠滴落动画](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651572586&idx=2&sn=e78859314bd92c8c08f3d09729587677&chksm=80251eabb75297bdbb3c761e61220dd00a03ab0d90846663092456aa56a9ccd9a3f640482af1&scene=27#wechat_redirect) 
+- [2021-01-01-Chrome-的小恐龙游戏，被我破解了...](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566181&idx=2&sn=fe35eaf0f37a55456990d20dec571815&chksm=802567a4b752eeb2179bf91aec89c9609097497fcc11ef42ccc6ef74fafbbacc3ef06b44b7f4&scene=27#wechat_redirect) 
+- [2020-11-04-纯-CSS-实现密室逃脱游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563480&idx=2&sn=626e3192f89a0c2653f5ad75d99857af&chksm=80257219b752fb0f3e1760437d59f81924b05604d1a8c9f2443f0bbbbdc142861f033441f3ca&scene=27#wechat_redirect) 
+- [2020-04-05-二营长，快掏个CSS出来给我画个井字棋游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558133&idx=1&sn=480b69d284b0c507d36d1c77b0607dca&chksm=80254734b752ce224c5b5d940710578686989d6f0ce838c30770ab3d9a87da28c596c2720990&scene=27#wechat_redirect) 
 - [2019-01-15-玩游戏一样学-Git-分支，这个-GitHub-热门别再错过了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=1&sn=cc20ac2fe8e0230a4a0a21a811a96a0a#wechat_redirect) 
 - [2018-09-20-一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect) 
-- [2020-03-27-Google-Cloud-和-网易游戏一起震荡，让一部分游戏先出海](https://www.ershicimi.com/p/eef87d57ea569774c438ac5367add281) 
+- [2020-03-27-Google-Cloud-和-网易游戏一起震荡，让一部分游戏先出海](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494078&idx=3&sn=74a5f4028fde90d257ddceeae4a49271&chksm=f9525cfdce25d5ebc34ba556dc7ba1d186d7ec73d235c0cadfb9aca2e9b905e227a22acca5d6&scene=27#wechat_redirect) 
 - [2019-10-16-如何打造出超“音”“速”的游戏体验？技术专家带你实战解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=3&sn=40da212281a70ae26b9ceb3104b9b502&chksm=f9525184ce25d892d1b808f60be2165015e852ffc02fcafafbe796e838c0599359dc666d1b66&scene=27#wechat_redirect) 
 - [2019-08-22-从0到1，深度解读小游戏开发技术奥秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=3&sn=b0b031ffa8f6740eab0d08cb098b0400&chksm=f95257cfce25ded92623afa8f1779931c723e3d306b8f690dcc86c923b077b2dc8633514bf92#rd) 
 - [2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 

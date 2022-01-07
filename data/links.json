@@ -28,6 +28,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The rising stars of JS in 2021",
+        "link": "https://javascriptweekly.com/issues/571",
+        "date": "2022-01-07"
+      },
+      {
         "title": "The JavaScript 2021 megamix",
         "link": "https://javascriptweekly.com/issues/570",
         "date": "2021-12-24"
@@ -24152,6 +24157,21 @@
   {
     "title": "程序员成长指北",
     "items": [
+      {
+        "title": "字节面试被虐后，是时候搞懂 DNS 了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=3&sn=78055cba5703fe72d2b868b9e058943c&chksm=f992ccb8cee545aeb31ea7c0ec57c3931533501784e094cb069419af74fa92c54be773338866#rd",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "localStorage灵魂五问。 5M空间？？ 10M !!!",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=2&sn=52501860ddf8f5f0a5ca208c9c98ea83&chksm=f992ccb8cee545ae21efb781dd995ffc3aa5f4d69a4e2681a5e316755e320526e3ac90a54800#rd",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "警惕 webpack 这个打包陷阱。。",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=1&sn=e24082ddaf52d731a91265515347eeb0&chksm=f992ccb8cee545ae736955befb979d1c48ced7cd51b3777085ff13b66eaa9640513658333abd#rd",
+        "date": "2022-01-07"
+      },
       {
         "title": "Node.js 诊断指南 第一弹",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=2&sn=8b22e1d071c321a4e66c4709756a0cae&chksm=f992cc88cee5459e999c97ebd0c065545d3618a8c8d66a7fca2bc916d68d47167e81b0889803#rd",
