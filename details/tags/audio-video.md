@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 08:00:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 15:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -27,9 +27,9 @@
 - [2019-09-30-【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect) 
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect) 
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd) 
-- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
-- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
+- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
+- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
 - [2019-07-19-【第1673期】-图像优化自动化实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=1&sn=417830af15edcbe44de8e5af7ceb00d1&chksm=bd4942c58a3ecbd39a05feb6fbff36ceb7f8f41cc0c9185f204ff45bac7eb00643cba6a98a2a&scene=27#wechat_redirect) 
 - [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) 
 - [2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd) 
@@ -76,10 +76,10 @@
 - [2019-07-26-腾讯Now直播前端工程化的实践之路](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491938&idx=2&sn=42eec8f2490b98028a62f8b18f35a8d8&chksm=f9525421ce25dd3779fd04ceca0844a1ea84ba40f2f36c4b696857a8b2f18815b2c77a1a717b&scene=27#wechat_redirect) 
 - [2018-11-17-你不知道的WebRTC-弱网模拟测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489898&idx=1&sn=9eb83f0d9883913918cacc5d9b467aa3#wechat_redirect) 
 - [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan) 
-- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) 
-- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265) 
 - [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/2019/11/13/wawo2faas/) 
+- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) 
 - [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/) 
+- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2019-07-07-HTML-audio基础API完全使用指南](https://www.zhangxinxu.com/wordpress/2019/07/html-audio-api-guide/) 
 - [2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/) 

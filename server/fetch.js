@@ -121,7 +121,9 @@ const Fetch = async function(newData, linksJson, linksJsonIndex, jsonItem, rssIt
         newData.length += items.length
     
         jsonItem.title = feed.title
-        jsonItem.items = items.concat(_items)
+        jsonItem.items = items.concat(_items).sort(function (a, b){
+          return a.date < b.date ? 1 : -1
+        });
     
         linksJson[linksJsonIndex] = jsonItem
         
