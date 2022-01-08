@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 01:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 08:00:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -168,6 +168,7 @@
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2022-01-01-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=3&sn=3ee0c658dd84a6e481bb3cc14e502a04&chksm=87c42134b0b3a822122a78b3bb676d122c0fbcd280dc9facd0c19e7cbe4b638ab09b283c590d#rd) 
 - [2022-01-06-Node.js-诊断指南-第一弹](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=2&sn=8b22e1d071c321a4e66c4709756a0cae&chksm=f992cc88cee5459e999c97ebd0c065545d3618a8c8d66a7fca2bc916d68d47167e81b0889803#rd) 
 - [2022-01-04-基于-Node.js-实现的跨平台-Web-抓包调试工具-Whistle-原理分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=2&sn=a76475a2ec1cdd63cf6e261c61972e02&chksm=f992ccedcee545fb914bba1bc29c1ad5a65eae3ae84efa2c8521c303b3b57c36beaca04fc185#rd) 
 - [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time) 
