@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 06:00:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 12:00:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-01-09-【第2506期】JavaScript-包管理器简史（npm/yarn/pnpm）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252081&idx=1&sn=f88298129fa96dea91b85a2d6b6e1b6d&chksm=bd493cf58a3eb5e39ecdb85a92cdef7174b4d3c13cb612786202b312f07e0ae7733325158dd4#rd) 
 - [2021-06-29-再见！Webpack！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247318&idx=1&sn=461ac7af25b3fa37e0e05ea6559eebdd&chksm=bd490b528a3e824429b0b8fa5799fcdc91661b4e70cf013c4c6aebb7d3a7e490d97b027d34a9&scene=27#wechat_redirect) 
 - [2021-06-10-Webpack-PK-Vite，2021谁是下一代的前端构建工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246989&idx=1&sn=e48996cbe92180d349998ee8faa69870&chksm=bd4908098a3e811f9d6a80fba25168f2e6ddaf4d76866dda40ab1f64519dec71b3611f69bf25&scene=27#wechat_redirect) 
 - [2021-06-06-【第2301期】@蒋豪群：面向新一代构建工具优化代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246798&idx=1&sn=c5dfc4e6c6f7f7a98b4871c8384defd5&chksm=bd49094a8a3e805c086286532ae7937249d4e793379ccc2f62b5ca51b28d50b8a8876f2de79d&scene=27#wechat_redirect) 
@@ -51,8 +52,8 @@
 - [2018-12-22-【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect) 
 - [2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect) 
 - [2018-12-02-【第1464期】babel7使用手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230594&idx=1&sn=85776d694c8c389c1a529a0f7c13ed70#wechat_redirect) 
-- [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
+- [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
 - [2021-06-23-Webpack-PK-Vite，2021谁是下一代的前端构建工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578080&idx=1&sn=25fc6897639fc8601e9dbdd95ac0482c&chksm=80250921b7528037031a7f0d3d69d2219625ac8d263778ce097a035d3db033d497013fb29d71&scene=27#wechat_redirect) 
 - [2021-06-09-有点难的-webpack-知识点：Dependency-Graph-深度解析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577309&idx=2&sn=718c1ce5654738f10ce9ad7989d91afc&chksm=80250c1cb752850ae606eceaed65d3dbf8c71aaf4259bfd32918dfba036be6cb80e3beb6254a&scene=27#wechat_redirect) 
