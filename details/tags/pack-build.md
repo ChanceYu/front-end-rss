@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 12:00:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 17:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -157,6 +157,7 @@
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
 - [2022-01-07-警惕-webpack-这个打包陷阱。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=1&sn=e24082ddaf52d731a91265515347eeb0&chksm=f992ccb8cee545ae736955befb979d1c48ced7cd51b3777085ff13b66eaa9640513658333abd#rd) 
 - [2022-01-02-2天，我把Webpack的核心原理、babel、性能优化撸干净了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=1&sn=762e523e60f5f24da7429554692db36b&chksm=f992cf6dcee5467b8633fa9bc1327f711a6d9ccf7b18833969fc21a5d01034c39b49a4d44da7#rd) 
+- [2022-01-05-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495020&idx=1&sn=a8a45ff6ff893ce4b0a22712970b6b42&chksm=ec47a6afdb302fb9a07f69eedbd8e242887c52bc00238aae3a7e3f76f257528374332a55e56d#rd) 
 - [2017-04-27-使用-ES-decorators-构建一致性-API](https://fed.taobao.org/blog/2017/04/27/building-consistent-api-with-es-decorators/) 
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
 - [2020-06-21-18款-Webpack-插件，总会有你想要的！](http://www.yyyweb.com/5380.html) 
@@ -164,6 +165,7 @@
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
 - [2018-08-10-Webpack打包实用优化方案](https://jdc.jd.com/archives/212653) 
+- [2021-12-23-技术期刊-·-路尘终见泰山平-|-微前端及插件化架构在-Wix-的实践;编辑器架构的第二路径;业务中的前端组件化体系;构建网……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=2&sn=80de465249ad82c9674f1a5c45f9e827&chksm=8c5fa2afbb282bb92e340c3dfbccdd9260fcd21727d8bf8f7dd33a86baea3d7cc1791907ce17#rd) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 

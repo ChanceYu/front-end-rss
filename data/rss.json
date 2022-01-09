@@ -49,7 +49,8 @@
     ]
   },
   {
-    "title": "Taobao-FED-|-淘宝前端团队",
+    "id": "taobaofed",
+    "title": "淘系前端团队",
     "rss": "https://fed.taobao.org/atom.xml"
   },
   {
@@ -69,6 +70,7 @@
     "rss": "http://jdc.jd.com/feed"
   },
   {
+    "id": "AOTULabs",
     "title": "Aotu-|-凹凸实验室",
     "rss": "https://aotu.io/atom.xml"
   }

@@ -1,11 +1,7 @@
-const fs = require('fs')
-const path = require('path')
+const fs = require('fs-extra')
 const async = require('async')
 const moment = require('moment')
-const Parser = require('rss-parser')
 const Git = require('simple-git')
-const _ = require('underscore')
-const cloneDeep = require('clone-deep')
 
 const utils = require('./utils')
 const writemd = require('./writemd')
@@ -15,13 +11,6 @@ const {
   RESP_PATH,
   RSS_PATH,
   LINKS_PATH,
-  TAGS_PATH,
-  README_PATH,
-  README_TEMPLATE_PATH,
-  TAGS_MD_PATH,
-  TAGS_TEMPLATE_PATH,
-  TIMELINE_MD_PATH,
-  TIMELINE_TEMPLATE_PATH,
 } = utils.PATH
 
 let rssJson = []
@@ -39,33 +28,31 @@ let newData = {
  * 更新 git 仓库
  */
 function handlerUpdate(){
-  console.log(utils.getNowDate() + ' - 开始更新抓取');
-
+  utils.log('开始更新抓取')
+  
   Git(RESP_PATH)
      .pull()
-     .exec(handlerFeed);
+     .exec(handlerFeed)
 }
 
 /**
  * 提交修改到 git 仓库
  */
 function handlerCommit(){
-  console.log(utils.getNowDate() + ' - 完成抓取，即将上传');
+  utils.log('完成抓取，即将上传')
 
   Git(RESP_PATH)
      .add('./*')
      .commit('更新: ' + newData.titles.join('、'))
-     .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
+     .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
 }
 
 /**
  * 处理订阅源
  */
 function handlerFeed(){
-  delete require.cache[require.resolve(RSS_PATH)]
-  delete require.cache[require.resolve(LINKS_PATH)]
-  rssJson = require(RSS_PATH)
-  linksJson = require(LINKS_PATH)
+  rssJson = fs.readJsonSync(RSS_PATH)
+  linksJson = fs.readJsonSync(LINKS_PATH)
 
   newData = {
     length: 0,
@@ -74,23 +61,57 @@ function handlerFeed(){
     links: {}
   }
 
-  let parallels = []
+  const tasks = rssJson.map((rssItem, rssIndex) => ((callback) => {
+    fetch(rssItem, (feed) => {
+      if (feed) {
+        const items = linksJson[rssIndex].items || []
+        const newItems = feed.items.reduce((prev, curr) => {
+          const exist = items.find((el) => utils.isSameLink(el.link, curr.link))
+          if (exist) {
+            return prev
+          } else {
+            let date = moment().format('YYYY-MM-DD')
+    
+            try{
+              date = moment(curr.isoDate).format('YYYY-MM-DD')
+            }catch(e){
+            }
 
-  rssJson.forEach((item, index) => {
-    let jsonItem = linksJson[index] || {}
+            newData.rss[rssItem.title] = true
+            newData.links[curr.link] = true
 
-    parallels.push(function(cb){
-      fetch(newData, linksJson, index, jsonItem, item, cb);
+            return [...prev, {
+              title: curr.title,
+              link: curr.link,
+              date
+            }]
+          }
+        }, [])
+    
+        if(newItems.length){
+          utils.logSuccess('更新 RSS: ' + rssItem.title)
+          newData.titles.push(rssItem.title)
+          newData.length += newItems.length
+          rssItem.items = newItems.concat(items).sort(function (a, b){
+            return a.date < b.date ? 1 : -1
+          })
+          linksJson[rssIndex] = {
+            title: rssItem.title,
+            items: rssItem.items
+          }
+        }
+      }
+      callback(null)
     })
-  })
+  }))
 
-  async.parallel(parallels, (err, result) => {
+  async.series(tasks, () => {
     if(newData.length){
-      fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
-      writemd(newData)
+      fs.outputJsonSync(LINKS_PATH, linksJson, { spaces: 2 })
+      writemd(newData, linksJson)
       handlerCommit()
     }else{
-      console.log(utils.getNowDate() + ' - 无需更新');
+      utils.logSuccess('无需更新')
     }
   })
 }
