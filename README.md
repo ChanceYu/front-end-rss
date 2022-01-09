@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-09 17:09:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
-- [淘系前端团队](#淘系前端团队)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
 ## 文章链接
 
@@ -99,8 +99,8 @@
 </summary>
 
 
-- [2022-01-09-在腾讯看点做前端外包的这两年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594138&idx=1&sn=06f9d46b36aa284a203f745fdecec905&chksm=8022ca5bb755434d4dc65f41cbcd6fc438c65a40984cc70deb2ce9ef52fd823287adf9fc11fe#rd) ![](assets/new.png)  
-- [2022-01-09-如何理解-css---BFC](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594138&idx=2&sn=cc79a1457a849756e600fa75b0b94361&chksm=8022ca5bb755434d74410ffa45378c41b378783039f2176511bf8046193dd7b8dcc77c629eb6#rd) ![](assets/new.png)  
+- [2022-01-09-在腾讯看点做前端外包的这两年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594138&idx=1&sn=06f9d46b36aa284a203f745fdecec905&chksm=8022ca5bb755434d4dc65f41cbcd6fc438c65a40984cc70deb2ce9ef52fd823287adf9fc11fe#rd)  
+- [2022-01-09-如何理解-css---BFC](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594138&idx=2&sn=cc79a1457a849756e600fa75b0b94361&chksm=8022ca5bb755434d74410ffa45378c41b378783039f2176511bf8046193dd7b8dcc77c629eb6#rd)  
 - [2022-01-08-JS-的-6-种打断点的方式，你用过几种？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593980&idx=1&sn=abe0e847976c2fa170c2dc24ac87e68f&chksm=8022cb3db755422b70fd7723921644cf7ad1ef0a691a9d09c51c56e4bab799c18f165f15ec22#rd)  
 - [2022-01-08-Node.js-的底层原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593980&idx=2&sn=fc45de2abce1f7c1788828817199aa6b&chksm=8022cb3db755422b0f0b8a0e6aa37111c73a2313dda406f610d8459ed47c019f864621985143#rd)  
 - [2022-01-07-Canvas-渲染会取代-DOM-吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593975&idx=2&sn=6fe0562e39f93983acfcb6339ac159f7&chksm=8022cb36b7554220ead3680c64f9b50ed5ef62c479b41f1d8bd6939600ea00b57185a2e26153#rd)  
@@ -191,21 +191,23 @@
 </summary>
 
 
-- [2022-01-08-大专生的大厂之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502455&idx=2&sn=e14a6d624996e2a5e04b6e5fa215e430&chksm=f992cca6cee545b046e5fb6f646dc7418b2e4972ebf56fc57d2f18917b620fb19de9f6640aa2#rd)  
+- [2022-01-09-如果你还不会用-git-回滚代码，那你一定要来看看](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502488&idx=1&sn=c663ce5e11a0434fc051d2b0bf3312d2&chksm=f992cc49cee5455f6d17c6c5349f5c347a1444cfb4c2eda4757d65773ea5513ea828b27eabbe#rd) ![](assets/new.png)  
+- [2022-01-09-基于微前端的大型中台项目融合方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502488&idx=2&sn=112146a58842258ab83e2ba2a2bbbd43&chksm=f992cc49cee5455fc8078ec330c68377b4308ed074eec5471b579cc405f2a30d19dc5cad80e5#rd) ![](assets/new.png)  
 - [2022-01-08-保姆级指南：jekins+docker构建部署react项目实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502455&idx=1&sn=8f2ef18b2b2aa12901b8af352d30a9e6&chksm=f992cca6cee545b0db7185c1097f85dac1c30ba1e96d1616cd02e683ba6d0c9250688f5adf37#rd)  
-- [2022-01-07-警惕-webpack-这个打包陷阱。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=1&sn=e24082ddaf52d731a91265515347eeb0&chksm=f992ccb8cee545ae736955befb979d1c48ced7cd51b3777085ff13b66eaa9640513658333abd#rd)  
-- [2022-01-07-字节面试被虐后，是时候搞懂-DNS-了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=3&sn=78055cba5703fe72d2b868b9e058943c&chksm=f992ccb8cee545aeb31ea7c0ec57c3931533501784e094cb069419af74fa92c54be773338866#rd)  
+- [2022-01-08-大专生的大厂之路](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502455&idx=2&sn=e14a6d624996e2a5e04b6e5fa215e430&chksm=f992cca6cee545b046e5fb6f646dc7418b2e4972ebf56fc57d2f18917b620fb19de9f6640aa2#rd)  
 - [2022-01-07-localStorage灵魂五问。-5M空间？？-10M-!!!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=2&sn=52501860ddf8f5f0a5ca208c9c98ea83&chksm=f992ccb8cee545ae21efb781dd995ffc3aa5f4d69a4e2681a5e316755e320526e3ac90a54800#rd)  
-- [2022-01-06-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=1&sn=b3db5be1293d1993291c5bcc1d2f61f9&chksm=f992cc88cee5459e11a628626405c8928558a03726430846e2b30d6853068061dfb1be22586e#rd)  
+- [2022-01-07-字节面试被虐后，是时候搞懂-DNS-了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=3&sn=78055cba5703fe72d2b868b9e058943c&chksm=f992ccb8cee545aeb31ea7c0ec57c3931533501784e094cb069419af74fa92c54be773338866#rd)  
+- [2022-01-07-警惕-webpack-这个打包陷阱。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=1&sn=e24082ddaf52d731a91265515347eeb0&chksm=f992ccb8cee545ae736955befb979d1c48ced7cd51b3777085ff13b66eaa9640513658333abd#rd)  
 - [2022-01-06-Node.js-诊断指南-第一弹](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=2&sn=8b22e1d071c321a4e66c4709756a0cae&chksm=f992cc88cee5459e999c97ebd0c065545d3618a8c8d66a7fca2bc916d68d47167e81b0889803#rd)  
-- [2022-01-05-那些在家啃书自学的人，最后都找到工作了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=1&sn=b09a789d370bd1d2a09e519a521815e3&chksm=f992cc9bcee5458d391afaa1116a78e22b8190fb2e017841eee0c014fc35679933b629c09710#rd)  
-- [2022-01-05-吐血推荐一大波让你直呼哇塞的Canvas库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=3&sn=e2bb7ff7e7a5dab1082dd529be30b34d&chksm=f992cc9bcee5458d41cfa52a6effa529220cb0e08cd5de3b354c604c549e1f471d1571dd4c68#rd)  
+- [2022-01-06-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=1&sn=b3db5be1293d1993291c5bcc1d2f61f9&chksm=f992cc88cee5459e11a628626405c8928558a03726430846e2b30d6853068061dfb1be22586e#rd)  
 - [2022-01-05-service-worker轻度探索---解决运营活动需求中的图片加载问题?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=2&sn=70f581a1e44e812be80b4d51f129ee87&chksm=f992cc9bcee5458dfe5ed29a98e129998b4e71cab1114c19c6b392e348747fe2ad5bf84f894f#rd)  
-- [2022-01-04-老板：你来弄一个团队代码规范！？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=1&sn=b7aef3e6628812f2f38d86406edf231d&chksm=f992ccedcee545fbd78ed7d07689ceb3217f4f8712c224018e427998d5af3d9f0ac24c3222df#rd)  
+- [2022-01-05-吐血推荐一大波让你直呼哇塞的Canvas库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=3&sn=e2bb7ff7e7a5dab1082dd529be30b34d&chksm=f992cc9bcee5458d41cfa52a6effa529220cb0e08cd5de3b354c604c549e1f471d1571dd4c68#rd)  
+- [2022-01-05-那些在家啃书自学的人，最后都找到工作了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=1&sn=b09a789d370bd1d2a09e519a521815e3&chksm=f992cc9bcee5458d391afaa1116a78e22b8190fb2e017841eee0c014fc35679933b629c09710#rd)  
 - [2022-01-04-基于-Node.js-实现的跨平台-Web-抓包调试工具-Whistle-原理分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=2&sn=a76475a2ec1cdd63cf6e261c61972e02&chksm=f992ccedcee545fb914bba1bc29c1ad5a65eae3ae84efa2c8521c303b3b57c36beaca04fc185#rd)  
-- [2022-01-02-2天，我把Webpack的核心原理、babel、性能优化撸干净了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=1&sn=762e523e60f5f24da7429554692db36b&chksm=f992cf6dcee5467b8633fa9bc1327f711a6d9ccf7b18833969fc21a5d01034c39b49a4d44da7#rd)  
-- [2022-01-02-做好这-16-个方向，逐步搭建出团队的-vue3-前端架构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=2&sn=a4cbe9408e4a895a9a9dc194b01f4921&chksm=f992cf6dcee5467bc922560b4575241d45a804c8a4e8e72aed71aafc6c2d9b5af6351640a2fb#rd)  
+- [2022-01-04-老板：你来弄一个团队代码规范！？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=1&sn=b7aef3e6628812f2f38d86406edf231d&chksm=f992ccedcee545fbd78ed7d07689ceb3217f4f8712c224018e427998d5af3d9f0ac24c3222df#rd)  
 - [2022-01-02-Vue.js源码中的几个精妙方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=3&sn=4989c0e5d5a1c0684e663777d4c11acd&chksm=f992cf6dcee5467bf76bac5642455866d8563be9ec09502284441d30d43c72edf34f34e05f2a#rd)  
+- [2022-01-02-做好这-16-个方向，逐步搭建出团队的-vue3-前端架构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=2&sn=a4cbe9408e4a895a9a9dc194b01f4921&chksm=f992cf6dcee5467bc922560b4575241d45a804c8a4e8e72aed71aafc6c2d9b5af6351640a2fb#rd)  
+- [2022-01-02-2天，我把Webpack的核心原理、babel、性能优化撸干净了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=1&sn=762e523e60f5f24da7429554692db36b&chksm=f992cf6dcee5467b8633fa9bc1327f711a6d9ccf7b18833969fc21a5d01034c39b49a4d44da7#rd)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -217,14 +219,14 @@
 </summary>
 
 
-- [2022-01-06-ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495110&idx=1&sn=bd638c3cd97a39e0919f6e2ba3fbdf26&chksm=ec47a605db302f138cdf5aaf7a2782255fb7d833105654722931f3ea2b533ccfb547c6058223#rd) ![](assets/new.png)  
-- [2022-01-05-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495020&idx=1&sn=a8a45ff6ff893ce4b0a22712970b6b42&chksm=ec47a6afdb302fb9a07f69eedbd8e242887c52bc00238aae3a7e3f76f257528374332a55e56d#rd) ![](assets/new.png)  
-- [2022-01-04-2021-Web-Components-技术趋势解读](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495018&idx=1&sn=dd95b8cee63e58675d2ef3b62366432b&chksm=ec47a6a9db302fbf122c30cfb4ffb3121f790620b128bd037e95c3abd21ff4c4055b80e4a038#rd) ![](assets/new.png)  
-- [2022-01-03-淘系前端架构---周刊---220103-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495016&idx=1&sn=7afc269ecad0e3d5da792e5c183f91f7&chksm=ec47a6abdb302fbd584d949dd36a33a202e6506a8e3b4a3c8906c3ecf208fe22962bbd822b1a#rd) ![](assets/new.png)  
-- [2021-12-21-如何提升前端线上问题发现率？我们是这样做的](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494969&idx=1&sn=83ab5495a96abe0a6abb0bc6a7961334&chksm=ec47a6fadb302fec270b95c7249c9ab41d392e4333bb5d3c9a4de462682d569af0e6790ffffe#rd) ![](assets/new.png)  
-- [2021-12-20-淘系前端架构---周刊---211220-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494952&idx=1&sn=f0faeba878fdb5693f2faa1d15ccf08d&chksm=ec47a6ebdb302ffd04fbd6154e94733fdb14f6171dc37dd7c7c1e45d1692fea82f9cf1b258b1#rd) ![](assets/new.png)  
-- [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd) ![](assets/new.png)  
-- [2021-12-16-前端工程师做“业务研发”或“基础技术”哪个更有前途？-|-D2-之夜辩论赛火热来袭啦！](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=2&sn=485db44ead6c294b23c1de3137fcfe46&chksm=ec47a6dedb302fc8b01105b7b084a9577db928b4a36f7d98fd04f39d1e49170a1b071fc62428#rd) ![](assets/new.png)  
+- [2022-01-06-ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495110&idx=1&sn=bd638c3cd97a39e0919f6e2ba3fbdf26&chksm=ec47a605db302f138cdf5aaf7a2782255fb7d833105654722931f3ea2b533ccfb547c6058223#rd)  
+- [2022-01-05-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495020&idx=1&sn=a8a45ff6ff893ce4b0a22712970b6b42&chksm=ec47a6afdb302fb9a07f69eedbd8e242887c52bc00238aae3a7e3f76f257528374332a55e56d#rd)  
+- [2022-01-04-2021-Web-Components-技术趋势解读](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495018&idx=1&sn=dd95b8cee63e58675d2ef3b62366432b&chksm=ec47a6a9db302fbf122c30cfb4ffb3121f790620b128bd037e95c3abd21ff4c4055b80e4a038#rd)  
+- [2022-01-03-淘系前端架构---周刊---220103-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495016&idx=1&sn=7afc269ecad0e3d5da792e5c183f91f7&chksm=ec47a6abdb302fbd584d949dd36a33a202e6506a8e3b4a3c8906c3ecf208fe22962bbd822b1a#rd)  
+- [2021-12-21-如何提升前端线上问题发现率？我们是这样做的](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494969&idx=1&sn=83ab5495a96abe0a6abb0bc6a7961334&chksm=ec47a6fadb302fec270b95c7249c9ab41d392e4333bb5d3c9a4de462682d569af0e6790ffffe#rd)  
+- [2021-12-20-淘系前端架构---周刊---211220-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494952&idx=1&sn=f0faeba878fdb5693f2faa1d15ccf08d&chksm=ec47a6ebdb302ffd04fbd6154e94733fdb14f6171dc37dd7c7c1e45d1692fea82f9cf1b258b1#rd)  
+- [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd)  
+- [2021-12-16-前端工程师做“业务研发”或“基础技术”哪个更有前途？-|-D2-之夜辩论赛火热来袭啦！](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=2&sn=485db44ead6c294b23c1de3137fcfe46&chksm=ec47a6dedb302fc8b01105b7b084a9577db928b4a36f7d98fd04f39d1e49170a1b071fc62428#rd)  
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10)  
 - [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh)  
 - [2021-06-22-淘系前端研发工具-AppWorks-正式发布](https://fed.taobao.org/blog/taofed/do71ct/drggiq)  
@@ -372,14 +374,14 @@
 </summary>
 
 
-- [2021-12-23-低代码工具浅析](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=1&sn=abcf11e321be034ae3f9d23711171f1c&chksm=8c5fa2afbb282bb9bb414afce68f36c5e6a6966a0189d54740e1fd20f5c7d5aa6f72c312f6b2#rd) ![](assets/new.png)  
-- [2021-12-23-技术期刊-·-路尘终见泰山平-|-微前端及插件化架构在-Wix-的实践;编辑器架构的第二路径;业务中的前端组件化体系;构建网……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=2&sn=80de465249ad82c9674f1a5c45f9e827&chksm=8c5fa2afbb282bb92e340c3dfbccdd9260fcd21727d8bf8f7dd33a86baea3d7cc1791907ce17#rd) ![](assets/new.png)  
-- [2021-12-16-Deco-编辑器开放性技术架构解析](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898009&idx=1&sn=7c7f13fac5dcdc0acb68d17c80bc7b18&chksm=8c5fa2d7bb282bc147238c0733c866b8a2f9589bc425b68e8744e65a7ea7b895b115658937a6#rd) ![](assets/new.png)  
-- [2021-12-09-Taro-3.5-canary-发布：支持适配-鸿蒙](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897971&idx=1&sn=426dc390427f9420f6408ef245371b1f&chksm=8c5fa23dbb282b2bf41c3e95f0fd1899787a3bb6d7b772d23a8e7eedf973148251b8a1fe3bbf#rd) ![](assets/new.png)  
-- [2021-12-02-超基础的机器学习入门-原理篇](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897887&idx=1&sn=a0ce664475cfaa68156374a0e79003b1&chksm=8c5fa251bb282b47ce8b762eaff1b2bb0b56801cabe21cd38ba265edcda6c52bd2b13c5d664a#rd) ![](assets/new.png)  
-- [2021-11-25-Taro-3.4-beta-发布：-支持-Preact-为应用开辟更多体积空间](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=1&sn=64e941a34cbc724fb16c768ea8765eb3&chksm=8c5fdd88bb28549e5e07a12e3a2add2433a8a693d94a0637c3a20488f2d60d5b856693a7543a#rd) ![](assets/new.png)  
-- [2021-11-25-技术期刊-·-河海不择细流-|-从根本上了解异步编程体系;Prefresh,-Fast-refresh-for-Preact……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=2&sn=d3e06bbd0328cec47ca77f7bac362924&chksm=8c5fdd88bb28549e6b41197aa710da3b14be1d19c4a14e6fe4cceff0d95fd180ee8894e62e09#rd) ![](assets/new.png)  
-- [2021-11-25-【机会来啦】京东凹凸实验室-2022-校招来啦！](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=3&sn=52d3b4cb76fedddc6ee3cef6279aa9c2&chksm=8c5fdd88bb28549ee17944ea44102c8abe98d1b1790dde826ad9e8df372cc16b26864011c782#rd) ![](assets/new.png)  
+- [2021-12-23-低代码工具浅析](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=1&sn=abcf11e321be034ae3f9d23711171f1c&chksm=8c5fa2afbb282bb9bb414afce68f36c5e6a6966a0189d54740e1fd20f5c7d5aa6f72c312f6b2#rd)  
+- [2021-12-23-技术期刊-·-路尘终见泰山平-|-微前端及插件化架构在-Wix-的实践;编辑器架构的第二路径;业务中的前端组件化体系;构建网……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=2&sn=80de465249ad82c9674f1a5c45f9e827&chksm=8c5fa2afbb282bb92e340c3dfbccdd9260fcd21727d8bf8f7dd33a86baea3d7cc1791907ce17#rd)  
+- [2021-12-16-Deco-编辑器开放性技术架构解析](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898009&idx=1&sn=7c7f13fac5dcdc0acb68d17c80bc7b18&chksm=8c5fa2d7bb282bc147238c0733c866b8a2f9589bc425b68e8744e65a7ea7b895b115658937a6#rd)  
+- [2021-12-09-Taro-3.5-canary-发布：支持适配-鸿蒙](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897971&idx=1&sn=426dc390427f9420f6408ef245371b1f&chksm=8c5fa23dbb282b2bf41c3e95f0fd1899787a3bb6d7b772d23a8e7eedf973148251b8a1fe3bbf#rd)  
+- [2021-12-02-超基础的机器学习入门-原理篇](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897887&idx=1&sn=a0ce664475cfaa68156374a0e79003b1&chksm=8c5fa251bb282b47ce8b762eaff1b2bb0b56801cabe21cd38ba265edcda6c52bd2b13c5d664a#rd)  
+- [2021-11-25-Taro-3.4-beta-发布：-支持-Preact-为应用开辟更多体积空间](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=1&sn=64e941a34cbc724fb16c768ea8765eb3&chksm=8c5fdd88bb28549e5e07a12e3a2add2433a8a693d94a0637c3a20488f2d60d5b856693a7543a#rd)  
+- [2021-11-25-技术期刊-·-河海不择细流-|-从根本上了解异步编程体系;Prefresh,-Fast-refresh-for-Preact……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=2&sn=d3e06bbd0328cec47ca77f7bac362924&chksm=8c5fdd88bb28549e6b41197aa710da3b14be1d19c4a14e6fe4cceff0d95fd180ee8894e62e09#rd)  
+- [2021-11-25-【机会来啦】京东凹凸实验室-2022-校招来啦！](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=3&sn=52d3b4cb76fedddc6ee3cef6279aa9c2&chksm=8c5fdd88bb28549ee17944ea44102c8abe98d1b1790dde826ad9e8df372cc16b26864011c782#rd)  
 - [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)  
 - [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)  
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/)  
