@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-10 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-10 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## TypeScript
 
@@ -79,5 +79,6 @@
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect) 
 - [2019-01-16-我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect) 
 - [2018-12-17-别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect) 
+- [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
