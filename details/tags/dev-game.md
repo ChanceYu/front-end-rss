@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-11 06:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-11 08:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 游戏开发
 
@@ -37,8 +37,8 @@
 - [2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 
 - [2019-05-17-框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd) 
 - [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd) 
-- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame) 
 - [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/) 
+- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame) 
 - [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html) 
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html) 
 - [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html) 
