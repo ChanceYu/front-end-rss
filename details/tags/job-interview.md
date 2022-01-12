@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-12 18:00:39。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-12 22:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 招聘面试
 
@@ -328,6 +328,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2022-01-12-面试分享：三年工作经验成功面试字节、阿里-P6-总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060808&idx=1&sn=4ad4b235e2662b4fd40b854bd640eaa8&chksm=87c42158b0b3a84eb2d39bdca8c3e379951070e42415caf58b6ec96d6bc6fd435793d556ec16#rd) 
 - [2022-01-11-万字长文干货，从面试官角度再看招聘](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060807&idx=2&sn=91f7315bf578026a9707eab067965bb4&chksm=87c42157b0b3a8415ac14c789473425cca60e0d1aec57a6b7b1ba7939b8e6d16f5a8299eff51#rd) 
 - [2022-01-07-秋招必备的几道经典前端面试题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=1&sn=70cd851583d14f93afcd0a7f0a536be4&chksm=87c42153b0b3a8453d98d9922965e5cbe389431aebdef846bffd6123e63d11a6f839c4b7c257#rd) 
 - [2022-01-10-网易前端进阶特训营，邀你免费入营！一举解决面试晋升难题！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502495&idx=1&sn=fb1e96f3c598ec4649cd0e37e0e4955e&chksm=f992cc4ecee545582275ba6a5da301844e5d54f1a12cd44206cec053475ddd5737960c8e4070#rd) 
