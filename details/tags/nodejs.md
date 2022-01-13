@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-13 12:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## NodeJS
 
@@ -35,8 +35,8 @@
 - [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) 
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd) 
 - [2019-06-26-【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) 
-- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
 - [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
+- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) 
 - [2019-03-23-【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd) 
 - [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
