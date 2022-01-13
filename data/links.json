@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "📦 Broken packages",
+        "link": "https://nodeweekly.com/issues/420",
+        "date": "2022-01-13"
+      },
+      {
         "title": "Looking back at Node.js in 2021",
         "link": "https://nodeweekly.com/issues/419",
         "date": "2021-12-23"

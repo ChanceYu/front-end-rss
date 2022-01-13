@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 18:00:40，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 06:00:30，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -37,6 +37,7 @@
 </summary>
 
 
+- [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) ![](assets/new.png)  
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)  
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418)  
 - [2021-12-09-Security](https://nodeweekly.com/issues/417)  
@@ -99,8 +100,8 @@
 </summary>
 
 
-- [2022-01-13-暴力拒绝白嫖，faker.js-作者“删库跑路”，数千个应用程序无限输出乱码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594956&idx=1&sn=f169791f26877e60f0f031c56cef5eb6&chksm=8022f70db7557e1b9acf43adfb9ab0d0d5d58e9caf0e3888be53ed12e12deb9f46e8f4fb542b#rd) ![](assets/new.png)  
-- [2022-01-13-产品经理又给出难题了——图片插件开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594956&idx=2&sn=d32c511b55da447a1d6b1817a0c865dc&chksm=8022f70db7557e1b27bf954d6e0c7712aa8aa39d3f41ad840d05634ac7016a2926986bfb6187#rd) ![](assets/new.png)  
+- [2022-01-13-暴力拒绝白嫖，faker.js-作者“删库跑路”，数千个应用程序无限输出乱码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594956&idx=1&sn=f169791f26877e60f0f031c56cef5eb6&chksm=8022f70db7557e1b9acf43adfb9ab0d0d5d58e9caf0e3888be53ed12e12deb9f46e8f4fb542b#rd)  
+- [2022-01-13-产品经理又给出难题了——图片插件开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594956&idx=2&sn=d32c511b55da447a1d6b1817a0c865dc&chksm=8022f70db7557e1b27bf954d6e0c7712aa8aa39d3f41ad840d05634ac7016a2926986bfb6187#rd)  
 - [2022-01-12-56-个-JavaScript-实用工具函数助你提升开发效率！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594830&idx=2&sn=332c2b98a15ee2ae6421adec9bdd7a2d&chksm=8022f78fb7557e99c60fd5c546e51b72a2fe608a284bdb339e3a61decce143fbb0f7b3f092eb#rd)  
 - [2022-01-12-现代-Web-开发困局](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594830&idx=1&sn=ac3c92607f2dbb599bf56b1e5070e55a&chksm=8022f78fb7557e99352c15ff7bf75d88e479fc434ecadebcfe9eeb60cffc545151d6a8d57cf3#rd)  
 - [2022-01-11-快速搭建一个代码在线编辑预览工具实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594738&idx=1&sn=945c73afba42d3bd215d505247a89883&chksm=8022c833b75541257fd0be2e28adea1015283fda4ff5009cac85ccb064ceeaccffc8f7932346#rd)  
@@ -130,7 +131,7 @@
 </summary>
 
 
-- [2022-01-13-2022-年排名前十的-JavaScript-框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512596&idx=1&sn=a5ba54e53ebc1ca9499e05b6fa44c24e&chksm=f9520757ce258e41409097ea1e14838512ddc5ffec98f5be0f5268a8089e75b5d21054b30bbb#rd) ![](assets/new.png)  
+- [2022-01-13-2022-年排名前十的-JavaScript-框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512596&idx=1&sn=a5ba54e53ebc1ca9499e05b6fa44c24e&chksm=f9520757ce258e41409097ea1e14838512ddc5ffec98f5be0f5268a8089e75b5d21054b30bbb#rd)  
 - [2022-01-11-下载量和-Vue-一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512566&idx=1&sn=c18874092bed22347cdd31309b9dc4e1&chksm=f95204b5ce258da3b4b478b605afe4a6e85f74d3f7c6d73c65270385995100939bb6e9a89dbf#rd)  
 - [2022-01-10-所谓“现代Web开发”，都是些什么妖魔鬼怪？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512553&idx=1&sn=18bc6d8e72917fc3fb5db9bc7ccd115c&chksm=f95204aace258dbc2b1c57c178afd72aa6db1d86d5358280911b62d9d577bcc9d1d8f71779f3#rd)  
 - [2022-01-05-GMTC-最新分享：不用-WebAssembly-也能实现-Web-虚拟机保护](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512544&idx=1&sn=48e4e8cc58afd2e726a484d2c2cffa07&chksm=f95204a3ce258db5b8dd207ac1f39d2ead5776f386983f7748f2fafa2afbed0911903390633c#rd)  
@@ -192,8 +193,8 @@
 </summary>
 
 
-- [2022-01-13-Vite-的好与坏分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502604&idx=1&sn=8a0b80180c34ad6985ab052541a1effd&chksm=f992cdddcee544cb0e20820a485c4319224813088b4cce7c3448e4f4e4fb00897a249c185e96#rd) ![](assets/new.png)  
-- [2022-01-13-推荐几个还在疯狂输出的前端大佬](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502604&idx=2&sn=f4d1a37c9a0cd77745540d4c4fbd7176&chksm=f992cdddcee544cb21faaaa5379a3b8cc64040374c219d6991f9c65d2a9cbc0e0201ef214407#rd) ![](assets/new.png)  
+- [2022-01-13-Vite-的好与坏分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502604&idx=1&sn=8a0b80180c34ad6985ab052541a1effd&chksm=f992cdddcee544cb0e20820a485c4319224813088b4cce7c3448e4f4e4fb00897a249c185e96#rd)  
+- [2022-01-13-推荐几个还在疯狂输出的前端大佬](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502604&idx=2&sn=f4d1a37c9a0cd77745540d4c4fbd7176&chksm=f992cdddcee544cb21faaaa5379a3b8cc64040374c219d6991f9c65d2a9cbc0e0201ef214407#rd)  
 - [2022-01-12-记一次搭建业务平台组件库的过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502598&idx=2&sn=dfd5149c3dafd9f2aeca6f39592b7875&chksm=f992cdd7cee544c13450e25e41d015be6337422a2953fe4f9c3b43ee034dc89fe0b89fb922bd#rd)  
 - [2022-01-12-组长：写一个快速创建项目的CLI工具，不难吧？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502598&idx=1&sn=69a0cdc1d4931d978136010a1cfbf339&chksm=f992cdd7cee544c16a4167621fd9cf611513a8ecef743def2c10947290f3520aa51526dfd51a#rd)  
 - [2022-01-11-从实现原理看低代码](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502585&idx=1&sn=52dbf7d1e31e5a48cbc31b7912da227b&chksm=f992cc28cee5453e2c2f0a3bd8b68431bf2cebd1a4ae670724cea5486c681af6933a54dc8143#rd)  
