@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 18:01:02。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-15 06:00:51。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-01-14-Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572) 
 - [2022-01-07-The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571) 
 - [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) 
 - [2021-12-10-Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568) 
@@ -583,6 +584,8 @@
 - [2022-01-09-面试一定会问到的-js事件循环](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=3&sn=8bcd26f0783093ce8a04479d5fe44225&chksm=87c42155b0b3a84323abf490ce41d2d0ab76eb1ca71a5b955b6acbb9ccf8a74815f57e2cb028#rd) 
 - [2022-01-09-手撕代码之Promise的实现（附源码）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=1&sn=a605ffce2ce81223e555afed03e4a092&chksm=87c42155b0b3a843a2f058eb1c8178bbc1b061449ecefbaa3c072653959c4c735bad0385feec#rd) 
 - [2022-01-01-JavaScript-深度学习---Hello-World](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=2&sn=46c6a5435fb75d462afe74bfbffd58a8&chksm=87c42134b0b3a8222c471c7f808ca08b545e6f1c9133b905d8a33249a35c23dcdcb92c1c277e#rd) 
+- [2022-01-14-深入JS异步阻塞、事件循环、Promise实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502619&idx=1&sn=7fad46c3f887943ecdb9c2989b700af3&chksm=f992cdcacee544dc861c806b06498e2480501243af82393c918d111b6da4747017db96f8eadd#rd) 
+- [2022-01-14-原生JavaScript灵魂拷问，你能答上多少](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502619&idx=3&sn=d36c8373069f2e9ee998885d616eb849&chksm=f992cdcacee544dc9441140f09f222842a5e818ff5afe94e2a35dba7d296492ba0c9f4304a76#rd) 
 - [2022-01-12-记一次搭建业务平台组件库的过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502598&idx=2&sn=dfd5149c3dafd9f2aeca6f39592b7875&chksm=f992cdd7cee544c13450e25e41d015be6337422a2953fe4f9c3b43ee034dc89fe0b89fb922bd#rd) 
 - [2022-01-05-service-worker轻度探索---解决运营活动需求中的图片加载问题?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=2&sn=70f581a1e44e812be80b4d51f129ee87&chksm=f992cc9bcee5458dfe5ed29a98e129998b4e71cab1114c19c6b392e348747fe2ad5bf84f894f#rd) 
 - [2022-01-06-ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495110&idx=1&sn=bd638c3cd97a39e0919f6e2ba3fbdf26&chksm=ec47a605db302f138cdf5aaf7a2782255fb7d833105654722931f3ea2b533ccfb547c6058223#rd) 
@@ -655,8 +658,8 @@
 - [2019-04-05-如何disabled禁用所有表单input输入框元素](https://www.zhangxinxu.com/wordpress/2019/04/disabled-all-form-elements/) 
 - [2019-03-02-DOM小测28期-–-DOM节点文档前后位置判断](https://www.zhangxinxu.com/wordpress/2019/03/dom-contains-comparedocumentposition/) 
 - [2019-02-22-使用document.scrollingElement控制窗体滚动高度](https://www.zhangxinxu.com/wordpress/2019/02/document-scrollingelement/) 
-- [2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/) 
 - [2019-01-26-CSS-var变量的局部作用域特性](https://www.zhangxinxu.com/wordpress/2019/01/css-var-%e5%8f%98%e9%87%8f-%e5%b1%80%e9%83%a8/) 
+- [2019-01-26-DOM基础小测27期答疑文字版-窗体滚动二三事](https://www.zhangxinxu.com/wordpress/2019/01/dom-quiz-27-window-scroll/) 
 - [2019-01-20-粉丝群第27期JS基础小测答疑文字版](https://www.zhangxinxu.com/wordpress/2019/01/js-quiz-27/) 
 - [2018-12-09-使用wavesurfer.js显示mp3-audio音频的波形图](https://www.zhangxinxu.com/wordpress/2018/12/wavesurfer-js-mp3-audio-wave/) 
 - [2018-12-02-HTML5-video视频播放Picture-in-Picture画中画技术](https://www.zhangxinxu.com/wordpress/2018/12/html5-video-play-picture-in-picture/) 

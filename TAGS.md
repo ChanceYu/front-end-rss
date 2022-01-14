@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-14 18:01:02。[来源分类](./README.md)
+:alarm_clock: 更新时间: 2022-01-15 06:00:51。[来源分类](./README.md)
 
 ## 标签分类
 
@@ -326,6 +326,7 @@
 
 
 
+- [【JavaScript-Weekly】Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572)
 - [【JavaScript-Weekly】The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571)
 - [【JavaScript-Weekly】The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570)
 - [【JavaScript-Weekly】Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568)
@@ -345,7 +346,6 @@
 - [【前端早读课】【图书】JavaScript二十年](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246146&idx=2&sn=bbf0c7869b8a4a7676e495b4c1a687ee&chksm=bd4917c68a3e9ed0620b22f8cac9a0330900b3d4ecdbc2d7758c7dd36cf41f5d3c4e20c7b759&scene=27#wechat_redirect)
 - [【前端早读课】【第2282期】向现代-Javascript-转型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246091&idx=1&sn=26af642d26abcd4996f28047d4b64429&chksm=bd49178f8a3e9e99e5c8151925a397a0377518c4f63c0971a296357c59038d27ff7b2275ecb1&scene=27#wechat_redirect)
 - [【前端早读课】【图书】JavaScript深度学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245892&idx=2&sn=0ef0e9b52daa894cc6fb7f8aa4495d3f&chksm=bd4914c08a3e9dd6b351ac236719638de2c8be57f42e5713d1731f26e1cea544c3676a0bd6c7&scene=27#wechat_redirect)
-- [【前端早读课】【第2268期】Javascript-非同步&-Event-Loop！10-分钟轻松图解学习！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245783&idx=1&sn=5a7c1299c3269be9e2e33fc718fa295e&chksm=bd4915538a3e9c454db651797bfb3a72574d47760547aee3831f1f215ffeaf46b535a41795a3&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
