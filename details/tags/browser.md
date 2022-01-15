@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 22:00:39。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-16 06:00:35。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 浏览器相关
 
@@ -261,6 +261,7 @@
 - [2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
 - [2018-11-16-图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect) 
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
+- [2022-01-15-减少重复的请求，也许这个库能帮到你](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502633&idx=1&sn=0bfda06111adf6cbceadc04b05605e57&chksm=f992cdf8cee544ee1cc854c8a0c2ae807d2c1835aea936f201e911a04e34d6d4278874c2c0fc#rd) 
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
 - [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse) 
 - [2019-08-15-VSCode原理解析---断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/) 
