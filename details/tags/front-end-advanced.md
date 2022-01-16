@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-16 12:00:39。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-16 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 前端进阶相关
 
@@ -47,8 +47,8 @@
 - [2021-01-06-算法不过关，我直接被刷掉了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566497&idx=1&sn=0a7bd421f29e88ee30708e47c8dac25c&chksm=80256660b752ef76bf783a84f0a5969db047a8c98a26b728fd6498a7ec9fb011599c21a20525&scene=27#wechat_redirect) 
 - [2020-12-28-4.2-万-Star！开发-Web-和移动端应用的全栈平台](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651565822&idx=3&sn=d894f7298e23adf2a55164babe00f3fd&chksm=8025793fb752f029207da39ed121d758e91e8ebc694ccf2cf3cb33ddf7e6d777c41b5c9537b2&scene=27#wechat_redirect) 
 - [2020-12-20-1.5-万-Star！Vim-党不能缺少的-IDE：SpaceVim](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564852&idx=3&sn=8bca3a3c81bcad87c48041272e90bf21&chksm=80257cf5b752f5e3b57cdee974ce0868bd1a7251ff06f312bc9c207e3ded83c1dd5c233c28b9&scene=27#wechat_redirect) 
-- [2020-11-19-算法根基不稳，还能进大厂么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563870&idx=1&sn=8c34ad1f80aa74ec5f402e8495684981&chksm=8025709fb752f989061ddf9642921268e6a41104301b26cd8cf29e97ba707312c706062e3ff3&scene=27#wechat_redirect) 
 - [2020-11-19-AST-实现函数错误自动上报](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563870&idx=2&sn=6a48d63f02e8c3c36b7ee1db0b98c609&chksm=8025709fb752f989d4d15458dc2be648bc28911d15cd76b0f4e31f857f40ec282960d973f46f&scene=27#wechat_redirect) 
+- [2020-11-19-算法根基不稳，还能进大厂么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563870&idx=1&sn=8c34ad1f80aa74ec5f402e8495684981&chksm=8025709fb752f989061ddf9642921268e6a41104301b26cd8cf29e97ba707312c706062e3ff3&scene=27#wechat_redirect) 
 - [2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562281&idx=1&sn=db382c91430a16e89dbced382f6a78e8&chksm=802576e8b752fffe50b5c6cb7074004b60108eb7561026a95a9790383c5dee985ef5a4b249c2&scene=27#wechat_redirect) 
 - [2020-09-16-WebAssembly-被誉为第-4-种-web-语言？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562168&idx=1&sn=7fed0944f199d356ad0f7daa835a687a&chksm=80257779b752fe6f7d4a1f5b439874c8091a808ecd42e6f0fe8b317dd089e00a298b8c5e745c&scene=27#wechat_redirect) 
 - [2020-08-17-JavaScrpit-AST-实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651561579&idx=2&sn=4d69a2b3cc84d2009da7f37f4e9b1daa&chksm=802549aab752c0bc4dd076bc8d0b3feb56f17d35e3b86dd7c8e75871578f7484a62b128dba5b&scene=27#wechat_redirect) 
@@ -117,6 +117,7 @@
 - [2019-05-26-WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd) 
 - [2019-04-12-我们用WebAssembly将Web-App速度提升了20倍！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490951&idx=1&sn=76139005000b6ac1d3f0282e36abf8c6#rd) 
 - [2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
+- [2022-01-16-「全栈-Web-开发」在字节跳动的实践](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060887&idx=1&sn=5a2e2eccce4c57568e5dfca1db49f702&chksm=87c42187b0b3a89107e7b8d98286aad5278c1af80de51704fb1442deda13db67969ba244aa0b#rd) 
 - [2022-01-02-半小时搞懂-HTTP、HTTPS和HTTP2](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=2&sn=0a196abcd9d5b9673603cd68e5514ad0&chksm=87c42135b0b3a82393e7be25147f07ab858c3e397a42dbe7f2c30e4d4fcb6d115f0089e58b21#rd) 
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html) 
 - [2018-09-16-Vim-配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html) 
