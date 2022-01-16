@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-16 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-17 06:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## NodeJS
 
@@ -104,6 +104,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2022-01-16-Node.js-开发者-2021-报告；AngularJS-生命周期结束；马化腾称腾讯只是家普通公司；-|-前端周报](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512620&idx=1&sn=67f62832efd84c90fbc078e5998ad063&chksm=f952076fce258e7949682143266890876a94bdac422294bef3549495a01bc59b804602aac74e#rd) 
 - [2021-06-23-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510271&idx=3&sn=8db07313f05471337a0aeeb38db81fa3&chksm=f9521dbcce2594aa764b0026ea6fe6b61f5f0a034b336d2038a5ad07e6eb5c1e770490a016f4&scene=27#wechat_redirect) 
 - [2021-06-09-我终于逃离了-Node](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247509944&idx=2&sn=6246cfdd820d235e577faeaf3606a2d1&chksm=f95212fbce259bed8e6be14d95fc760863e857c13ba19115e938228d655aae8f3b274db48fec&scene=27#wechat_redirect) 
 - [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247509605&idx=2&sn=b3669996a79343baea145da30b5b36ab&chksm=f9521326ce259a302ef84bce9fd47f2ff41bb36775e8e78debaee9a89ece3babe4f6874b9d8e&scene=27#wechat_redirect) 
