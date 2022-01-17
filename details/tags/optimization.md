@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-17 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-17 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 性能优化
 
@@ -125,6 +125,7 @@
 - [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect) 
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
+- [2022-01-17-性能优化，有时候是件体力活](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495141&idx=1&sn=fe00c09a0887589271e62927dfc40ccb&chksm=ec47a626db302f30e0fa923ee6881f08c3fcd12bfab3f6a8e272a03ea0f87c3e3f231c0f024c#rd) 
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
