@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 18:00:45，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 06:00:46，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -101,8 +101,8 @@
 </summary>
 
 
-- [2022-01-18-2022-前端技术领域这些新变化，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595429&idx=1&sn=3d0a596e62d1bc5c7be76a313f9f896b&chksm=8022f564b7557c72959bb1b5e19bb079bbc1d0de1e5322653f21ca21a405c65bcb2d1d65abd7#rd) ![](assets/new.png)  
-- [2022-01-18-美业微前端的落地](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595429&idx=2&sn=68f1947728dcb6793aa30594ca0fc3a7&chksm=8022f564b7557c722e08e27b1b4ebde916b7590e86ea42408e76fa0648ed69c5f7eb16cf4c2a#rd) ![](assets/new.png)  
+- [2022-01-18-2022-前端技术领域这些新变化，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595429&idx=1&sn=3d0a596e62d1bc5c7be76a313f9f896b&chksm=8022f564b7557c72959bb1b5e19bb079bbc1d0de1e5322653f21ca21a405c65bcb2d1d65abd7#rd)  
+- [2022-01-18-美业微前端的落地](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595429&idx=2&sn=68f1947728dcb6793aa30594ca0fc3a7&chksm=8022f564b7557c722e08e27b1b4ebde916b7590e86ea42408e76fa0648ed69c5f7eb16cf4c2a#rd)  
 - [2022-01-17-24-个-JavaScript-循环遍历方法，你都知道吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595210&idx=3&sn=f5a371ffc8ff4ad2e7614bfbe66ce354&chksm=8022f60bb7557f1d096aa352bf4709e3bc5bb1ac415e3a4d07a64027148d49433ff675a4564d#rd)  
 - [2022-01-17-localStorage灵魂五问。-5M？？-10M-!!!](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595210&idx=2&sn=9eaf779403390a8dfacb023e5e862edb&chksm=8022f60bb7557f1d9285bee17780ccdcecc24ee9fabb12e3262f9f77ba43f165afd1959ca3a8#rd)  
 - [2022-01-17-技术题已经问腻了，现在大厂面试前端都问这些...](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595210&idx=1&sn=c9b20b3bc4fbbec4e78f7656534a15b9&chksm=8022f60bb7557f1d466fbcfde2af03b0c0afff7f3e9242cd143f4568340fced0c19618f25839#rd)  
@@ -132,6 +132,7 @@
 </summary>
 
 
+- [2022-01-18-前端开发者应该关注的十个技术趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512683&idx=1&sn=29b5ff91fd9d67c2592e03464b582315&chksm=f9520728ce258e3e4fa9692884c00cdbcdef843062bb59bab25fb607d79bede36d23f1582815#rd) ![](assets/new.png)  
 - [2022-01-16-Node.js-开发者-2021-报告；AngularJS-生命周期结束；马化腾称腾讯只是家普通公司；-|-前端周报](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512620&idx=1&sn=67f62832efd84c90fbc078e5998ad063&chksm=f952076fce258e7949682143266890876a94bdac422294bef3549495a01bc59b804602aac74e#rd)  
 - [2022-01-13-2022-年排名前十的-JavaScript-框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512596&idx=1&sn=a5ba54e53ebc1ca9499e05b6fa44c24e&chksm=f9520757ce258e41409097ea1e14838512ddc5ffec98f5be0f5268a8089e75b5d21054b30bbb#rd)  
 - [2022-01-11-下载量和-Vue-一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512566&idx=1&sn=c18874092bed22347cdd31309b9dc4e1&chksm=f95204b5ce258da3b4b478b605afe4a6e85f74d3f7c6d73c65270385995100939bb6e9a89dbf#rd)  
@@ -141,17 +142,16 @@
 - [2021-12-27-TDesign正式开源发布，腾讯设计云布局重要能力拼图！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512430&idx=1&sn=cc286ec3fe13edaec779f8339011bd9b&chksm=f952042dce258d3b9de758bb7eb2dbc95969274ddb5a520b9e8876a5ea0a323e94384bed1225#rd)  
 - [2021-12-26-React-Native-新架构是如何工作的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512408&idx=1&sn=e9315cdbb59339a399ed1a9eb6e5ecbc&chksm=f952041bce258d0d5fa2fb2acdd4f3fae6696e38bc31cbd6e35ebd8706a6058147f5ddd38cd0#rd)  
 - [2021-12-24-万字长文：从产品设计到发布的全链路智能化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512352&idx=1&sn=6334e7d402847326f9ed1fcf1459474f&chksm=f9520463ce258d7505e147e3a5869409afe851e616ff1211b6a87fabafb79efb5f90570c9c74#rd)  
-- [2021-12-22-语雀：在线富文本编辑器的架构设计及实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512265&idx=1&sn=548f13996a81ce39ada241ff9dba3674&chksm=f952058ace258c9c841abc20993cbb1446f9a78106b93a48171349374ab18a24d9b4f877c7a4#rd)  
 - [2021-12-22-15分钟，华为AppGallery-Connect云数据库从入门到精通](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512265&idx=2&sn=85b1587494a42933d43488183919086a&chksm=f952058ace258c9c552bc608a51b0590812de58cdaa703e1b36da451c4597f22df1105c4b61b#rd)  
+- [2021-12-22-语雀：在线富文本编辑器的架构设计及实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512265&idx=1&sn=548f13996a81ce39ada241ff9dba3674&chksm=f952058ace258c9c841abc20993cbb1446f9a78106b93a48171349374ab18a24d9b4f877c7a4#rd)  
 - [2021-12-20-从WebGL到WebGPU，网页图形的全新时代](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512172&idx=1&sn=7527199067c4f022fd10d2f0f14a528c&chksm=f952052fce258c392f707f840b11f1c14a50b1c8869d656421e734c7b5796bd9a7248d6815bb#rd)  
-- [2021-07-01-20k-以上面试必问，Webpack-原理和优化-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510431&idx=3&sn=a08c0039653daf2f25130eeb5e988e19&chksm=f9521cdcce2595ca96b4ea242df573698c975fed7d3fc21dbd9f7183341edcc64581cc1eb265&scene=27#wechat_redirect)  
 - [2021-07-01-32-条关于软件开发的建议和教训](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510431&idx=2&sn=2b7a8117d903e9a1b9c96aa7fc4ca106&chksm=f9521cdcce2595cad2df744bd03fa16ee0f801c2ace9451fd61d00dbf34203599b74647b6db8&scene=27#wechat_redirect)  
-- [2021-06-30-Kotlin-能追赶上-Java-的步伐吗？-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510404&idx=3&sn=facae2a7795a1e7d0a046e16d4c6ccef&chksm=f9521cc7ce2595d106e1138caef9b0540fac19c44a01cbc74b17d43d2ec7f39cab071547a6db&scene=27#wechat_redirect)  
-- [2021-06-30-只是工具？这是对低代码最大的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510404&idx=2&sn=be1e52e472ef9597829fb8cd0fefd518&chksm=f9521cc7ce2595d1d6840f4ce7783c373bc8c93020f5ef6f936c6cfe061fae2180e410614c99&scene=27#wechat_redirect)  
+- [2021-07-01-20k-以上面试必问，Webpack-原理和优化-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510431&idx=3&sn=a08c0039653daf2f25130eeb5e988e19&chksm=f9521cdcce2595ca96b4ea242df573698c975fed7d3fc21dbd9f7183341edcc64581cc1eb265&scene=27#wechat_redirect)  
 - [2021-06-30-项目延期半年，我被软件外包坑惨了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510404&idx=1&sn=b250d6215d0acf525fca073151ea1d5f&chksm=f9521cc7ce2595d1d103bec2b076d893ef796d292d3fd2e1e3821fe9bf053628efd42d7fffec&scene=27#wechat_redirect)  
-- [2021-06-28-中国技术开放日长沙站圆满落幕｜探讨技术人如何更好地把控自己的职业](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510366&idx=3&sn=57f34ca0e87bcef90377bb82ead2db75&chksm=f9521c1dce25950befb06bda63795828f8bad3dfa6a2c02996c652d11e13e6062934aee8c52e&scene=27#wechat_redirect)  
-- [2021-06-28-降低系统复杂性，开发团队必知的一种简单方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510366&idx=2&sn=4fd0898343f293b9a2de1e3f3d02b40e&chksm=f9521c1dce25950b55244ec4a9d68abe33eeb7860d12c952f461f8c1a2e1d87f68a7110a1c71&scene=27#wechat_redirect)  
+- [2021-06-30-只是工具？这是对低代码最大的误解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510404&idx=2&sn=be1e52e472ef9597829fb8cd0fefd518&chksm=f9521cc7ce2595d1d6840f4ce7783c373bc8c93020f5ef6f936c6cfe061fae2180e410614c99&scene=27#wechat_redirect)  
+- [2021-06-30-Kotlin-能追赶上-Java-的步伐吗？-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510404&idx=3&sn=facae2a7795a1e7d0a046e16d4c6ccef&chksm=f9521cc7ce2595d106e1138caef9b0540fac19c44a01cbc74b17d43d2ec7f39cab071547a6db&scene=27#wechat_redirect)  
 - [2021-06-28-Windows-11-支持安卓应用，这事你怎么看？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510366&idx=1&sn=a2b1056d08603d28cb9e0fec71a08d5d&chksm=f9521c1dce25950b38c112237dd617d6273f7ba6209f848d2989392ad5cfa9aba4d26ac61f3d&scene=27#wechat_redirect)  
+- [2021-06-28-降低系统复杂性，开发团队必知的一种简单方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247510366&idx=2&sn=4fd0898343f293b9a2de1e3f3d02b40e&chksm=f9521c1dce25950b55244ec4a9d68abe33eeb7860d12c952f461f8c1a2e1d87f68a7110a1c71&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
