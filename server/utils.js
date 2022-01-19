@@ -31,7 +31,7 @@ module.exports = {
   },
 
   getLogPrefix() {
-    return this.getNowDate() + ' - ';
+    return this.getNowDate() + ' - '
   },
 
   log(msg) {
@@ -53,14 +53,14 @@ module.exports = {
   /**
    * 格式化标题
    */
-  formatTitle(title){
+  formatTitle(title) {
     return title.replace('<![CDATA[', '').replace(']]>', '').replace(/[\[\]\(\)]/g, '').replace(/\s+/g, '-')
   },
 
   /**
    * 格式化时间
    */
-  getNowDate(){
+  getNowDate() {
     return moment().format('YYYY-MM-DD HH:mm:ss')
   },
 
@@ -69,17 +69,17 @@ module.exports = {
    * @param link 
    * @param compare 
    */
-  isSameLink(link, compare){
+  isSameLink(link, compare) {
     link = link.replace(/&amp/g, '&')
     compare = compare.replace(/&amp/g, '&')
-  
+
     const oLink = queryString.parseUrl(link)
     const oCompare = queryString.parseUrl(compare)
     const reWx = /mp\.weixin\.qq\.com/
-  
-    if(reWx.test(oLink.url) && reWx.test(oCompare.url)){
+
+    if (reWx.test(oLink.url) && reWx.test(oCompare.url)) {
       return oLink.query.sn === oCompare.query.sn && oLink.query.mid === oCompare.query.mid
-    }else{
+    } else {
       return link === compare
     }
   }

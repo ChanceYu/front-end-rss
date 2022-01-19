@@ -17,51 +17,44 @@ const {
 /**
  * 渲染 README.md 文件
  */
-function handlerREADME(newData, linksJson){
-  newData = newData || {
-    length: 0,
-    titles: [],
-    rss: {},
-    links: {}
-  }
+function handleREADME(newData, linksJson) {
+  let content = fs.readFileSync(README_TEMPLATE_PATH)
 
-  let content = fs.readFileSync(README_TEMPLATE_PATH);
-
-  let compiled = _.template(content.toString());
-  const currentDate = utils.getNowDate();
+  let compiled = _.template(content.toString())
+  const currentDate = utils.getNowDate()
 
   content = compiled({
     newData,
     linksJson,
     currentDate,
     formatTitle: utils.formatTitle,
-  });
+  })
 
-  fs.writeFileSync(README_PATH, content, 'utf-8');
+  fs.writeFileSync(README_PATH, content, 'utf-8')
 }
 
 /**
  * 渲染 TAGS.md 文件
  */
-function handlerTags(newData, linksJson){
+function handleTags(newData, linksJson) {
   const currentDate = utils.getNowDate()
-  let tags = require(TAGS_PATH);
+  let tags = require(TAGS_PATH)
 
   tags.forEach((tag, i) => {
-    tags[i].items = [];
-    
+    tags[i].items = []
+
     linksJson.forEach((o) => {
       o.items.forEach((item) => {
-        if(!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)){
-          item.rssTitle = o.title;
-          tags[i].items.push(item);
+        if (!item.rssTitle && (new RegExp(tag.keywords, 'gi')).test(item.title)) {
+          item.rssTitle = o.title
+          tags[i].items.push(item)
         }
-      });
-    });
+      })
+    })
 
     // details/tags/file.md
-    let detailTpl = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString();
-    let detailCompiled = _.template(detailTpl);
+    let detailTpl = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString()
+    let detailCompiled = _.template(detailTpl)
     const filename = tag.filename + '.md'
 
     const detailContent = detailCompiled({
@@ -70,55 +63,49 @@ function handlerTags(newData, linksJson){
       title: tags[i].tag,
       keywords: tags[i].keywords,
       items: tags[i].items
-    });
+    })
 
-    fs.writeFileSync(path.join(RESP_PATH, 'details/tags/', filename), detailContent, 'utf-8');
-    
-  });
+    fs.writeFileSync(path.join(RESP_PATH, 'details/tags/', filename), detailContent, 'utf-8')
 
-  let content = fs.readFileSync(TAGS_TEMPLATE_PATH);
-  let compiled = _.template(content.toString());
+  })
+
+  let content = fs.readFileSync(TAGS_TEMPLATE_PATH)
+  let compiled = _.template(content.toString())
 
   content = compiled({
     currentDate,
     formatTitle: utils.formatTitle,
     tags
-  });
+  })
 
-  fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8');
+  fs.writeFileSync(TAGS_MD_PATH, content, 'utf-8')
 }
 
 /**
  * 生成每个详情页面
  */
-function handlerDetails(newData, linksJson){
-  newData = newData || {
-    length: 0,
-    titles: [],
-    rss: {},
-    links: {}
-  }
+function handleDetails(newData, linksJson) {
   const currentDate = utils.getNowDate()
-  let content = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString();
-  let compiled = _.template(content);
+  let content = fs.readFileSync(DETAILS_TEMPLATE_PATH).toString()
+  let compiled = _.template(content)
 
   linksJson.forEach((source) => {
-    if (source.title in newData.rss){
+    if (source.title in newData.rss) {
       source.currentDate = currentDate
       source.formatTitle = utils.formatTitle
-  
-      content = compiled(source);
-  
+
+      content = compiled(source)
+
       let filename = source.title.replace(/[\\\/]/g, '')
       filename += '.md'
-  
-      fs.writeFileSync(path.join(RESP_PATH, 'details', filename), content, 'utf-8');
+
+      fs.writeFileSync(path.join(RESP_PATH, 'details', filename), content, 'utf-8')
     }
   })
 }
 
-module.exports = function(newData, linksJson){
-  handlerREADME(newData, linksJson)
-  handlerTags(newData, linksJson)
-  handlerDetails(newData, linksJson)
+module.exports = function (newData, linksJson) {
+  handleREADME(newData, linksJson)
+  handleTags(newData, linksJson)
+  handleDetails(newData, linksJson)
 }

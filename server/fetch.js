@@ -18,19 +18,18 @@ async function fetchFeed(rss) {
       utils.logSuccess('成功 RSS: ' + rss)
       return feed
     }
-  } catch (e) {
-  }
+  } catch (e) {}
 
   utils.logWarn('失败 RSS: ' + rss)
   return true
 }
 
-async function initFetch(rssItem, onFinish){
+async function initFetch(rssItem, onFinish) {
   const envRss = process.env['RSS_' + rssItem.id]
   let rssArray = rssItem.rss
 
-  if(typeof rssArray === 'string'){
-    rssArray = [ rssArray ]
+  if (typeof rssArray === 'string') {
+    rssArray = [rssArray]
   }
 
   if (envRss) {
@@ -51,9 +50,11 @@ async function initFetch(rssItem, onFinish){
 
   utils.log('开始 RSS: ' + rssItem.title)
 
-  Async.tryEach(tasks, (err, res) => {
-    utils.log('完成 RSS: ' + rssItem.title)
-    onFinish(err ? null : res)
+  return new Promise((resolve) => {
+    Async.tryEach(tasks, (err, res) => {
+      utils.log('完成 RSS: ' + rssItem.title)
+      resolve(err ? null : res)
+    })
   })
 }
 
