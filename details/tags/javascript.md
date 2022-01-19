@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-19 08:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-19 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## JavaScript
 
@@ -581,10 +581,11 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
-- [2022-01-10-面试官让我解释什么是前端模块化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060806&idx=1&sn=e9016a691685ffd7fc3cebc5d0e3427e&chksm=87c42156b0b3a8407802b5aded7e82e749ff02395dd1519bc309e9350746b0552b2901d1a5fb#rd) 
+- [2022-01-19-2021-年需要了解的-34-个-JavaScript-优化技巧](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=2&sn=782cbb808d97973819c2593e418768f2&chksm=87c421afb0b3a8b9581ce342983a6d2977330123efff1cae52224f6de9cbdc6fdc85df9ede8d#rd) 
 - [2022-01-10-面试必备：夯实-JS-主要知识点](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060806&idx=2&sn=26740615f759656ce3f58bb6d36b23c7&chksm=87c42156b0b3a84035a633ef609eed635551e99ae13d2da845eabdb1232df6f7d45563e1aeba#rd) 
-- [2022-01-09-面试一定会问到的-js事件循环](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=3&sn=8bcd26f0783093ce8a04479d5fe44225&chksm=87c42155b0b3a84323abf490ce41d2d0ab76eb1ca71a5b955b6acbb9ccf8a74815f57e2cb028#rd) 
+- [2022-01-10-面试官让我解释什么是前端模块化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060806&idx=1&sn=e9016a691685ffd7fc3cebc5d0e3427e&chksm=87c42156b0b3a8407802b5aded7e82e749ff02395dd1519bc309e9350746b0552b2901d1a5fb#rd) 
 - [2022-01-09-手撕代码之Promise的实现（附源码）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=1&sn=a605ffce2ce81223e555afed03e4a092&chksm=87c42155b0b3a843a2f058eb1c8178bbc1b061449ecefbaa3c072653959c4c735bad0385feec#rd) 
+- [2022-01-09-面试一定会问到的-js事件循环](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=3&sn=8bcd26f0783093ce8a04479d5fe44225&chksm=87c42155b0b3a84323abf490ce41d2d0ab76eb1ca71a5b955b6acbb9ccf8a74815f57e2cb028#rd) 
 - [2022-01-01-JavaScript-深度学习---Hello-World](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=2&sn=46c6a5435fb75d462afe74bfbffd58a8&chksm=87c42134b0b3a8222c471c7f808ca08b545e6f1c9133b905d8a33249a35c23dcdcb92c1c277e#rd) 
 - [2022-01-18-前端推荐!阿里高性能表单解决方案——Formily](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502680&idx=1&sn=49aad1c1b42b9c63c3e23e0ef79de065&chksm=f992cd89cee5449f822e9a40182d642284b80b7c114e5a717b35d2cf975cd44baaa2ae34b15e#rd) 
 - [2022-01-17-JS-社区臭名昭著的一个问题](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502668&idx=2&sn=879efe3ab9e40633af5b687c85a7c87f&chksm=f992cd9dcee5448b53a1f372895b1d53486c626a3defd424a4b0e695e594711f99fa0d466450#rd) 
