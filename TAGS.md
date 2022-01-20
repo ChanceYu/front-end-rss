@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-20 22:00:57。[来源分类](./README.md)
+:alarm_clock: 更新时间: 2022-01-21 06:00:44。[来源分类](./README.md)
 
 ## 标签分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
 - [【JavaScript-Weekly】Array.prototype.groupBy](https://javascriptweekly.com/issues/569)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2311期】@玉伯：开源有带给我什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247128&idx=1&sn=809b4390f56e76f911ee61e5c755ccbe&chksm=bd490b9c8a3e828ab851d61bbdd75adac54081df18b04faed619dd3370ca8ca9aecba00063fa&scene=27#wechat_redirect)
 - [【前端早读课】【第2309期】包容性设计原则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247058&idx=1&sn=c786902d6e7a22b79f8fc250533cbf74&chksm=bd4908568a3e814047c676c9a78ddfcf984a7da33a3a8fbda9d398b5cfc5dc472203333c309d&scene=27#wechat_redirect)
 - [【前端早读课】【活动】618别只顾剁手,免费领智能跳绳活动别错过~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247058&idx=2&sn=134e6cbc11021bd753c56713225722fb&chksm=bd4908568a3e8140dc9b12ed171ad9e4c54971ee1fb55d47e8dc96e875f9af08ba1072efb12b&scene=27#wechat_redirect)
-- [【前端早读课】【活动】美团技术沙龙第61期：微前端架构设计和实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247011&idx=2&sn=d9979e2eff8ba63f1d7bf30f0128ad3d&chksm=bd4908278a3e8131fbc364474945978961e090fd5d53b5507106bce07f2ce56d52556973b40b&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

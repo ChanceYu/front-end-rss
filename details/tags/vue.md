@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-20 22:00:57。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-21 06:00:44。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## Vue
 
@@ -319,6 +319,7 @@
 - [2022-01-11-下载量和Vue一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502585&idx=2&sn=54d20f6fe3565a4570cf3d8387f3a523&chksm=f992cc28cee5453e7d6121cb551165b485f022ed73ef56eaad4150f9a92f34a9770011e0cc79#rd) 
 - [2022-01-02-Vue.js源码中的几个精妙方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=3&sn=4989c0e5d5a1c0684e663777d4c11acd&chksm=f992cf6dcee5467bf76bac5642455866d8563be9ec09502284441d30d43c72edf34f34e05f2a#rd) 
 - [2022-01-02-做好这-16-个方向，逐步搭建出团队的-vue3-前端架构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=2&sn=a4cbe9408e4a895a9a9dc194b01f4921&chksm=f992cf6dcee5467bc922560b4575241d45a804c8a4e8e72aed71aafc6c2d9b5af6351640a2fb#rd) 
+- [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html) 
 - [2020-12-05-🎉-Element-UI-for-Vue-3.0-来了！](http://www.yyyweb.com/5398.html) 
 - [2020-09-20-Vue-3.0-正式发布【附全球发布会视频】](http://www.yyyweb.com/5391.html) 
 - [2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html) 
