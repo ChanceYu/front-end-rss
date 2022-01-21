@@ -11,21 +11,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 06:00:44，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 08:00:33，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [Node-Weekly](#node-weekly)![](assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端技术优选](#前端技术优选)![](assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [淘系前端团队](#淘系前端团队)![](assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 
@@ -37,7 +37,7 @@
 </summary>
 
 
-- [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) ![](assets/new.png)  
+- [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421)  
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420)  
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)  
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418)  
@@ -71,26 +71,26 @@
 </summary>
 
 
-- [2022-01-20-【第2517期】2021-Web-Components技术趋势解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252410&idx=1&sn=f58cd34c3b3e31193674dd2d8c1b29e7&chksm=bd493f3e8a3eb62862183af368e3189c59cf56975357577d5434880dc279fe4695cc8aa312b5#rd)  
+- [2022-01-21-【第2518期】2022年2月7日，Vue-3-将成为新的默认版本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252415&idx=1&sn=4bb482ea04dd3f38fc5ad081a65abe1c&chksm=bd493f3b8a3eb62d65bce93b72b15338e8d9d4c7aa34f949e944429847db71365c7d2898f837#rd) ![](assets/new.png)  
+- [2022-01-21-【招聘】一起来做最好的-DesignOps-工具，腾讯CDC招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252415&idx=2&sn=d538d104be0eb69351a00b941f8044ca&chksm=bd493f3b8a3eb62d2e76c6a36784d88b42f6f6ec4796d97b2489fc767a0e8acf824ce16c8eef#rd) ![](assets/new.png)  
 - [2022-01-20-【开源】腾讯-PAG-动画组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252410&idx=2&sn=8b33b8c610de166332203b6463f21e21&chksm=bd493f3e8a3eb6286c169f6396955e41bb0037e3d81cb20b1d719c1943ec8b14ce47e9ddd552#rd)  
-- [2022-01-19-【开源】袋鼠云Molecule：一个轻量的-Web-IDE-UI-框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252333&idx=2&sn=74e1e059299d6585e265d5fba7b1fde9&chksm=bd493fe98a3eb6ff1df5636fdbee76a4c3adf19870b496d30d17751d601b7b3ee4ad6b45fcda#rd)  
+- [2022-01-20-【第2517期】2021-Web-Components技术趋势解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252410&idx=1&sn=f58cd34c3b3e31193674dd2d8c1b29e7&chksm=bd493f3e8a3eb62862183af368e3189c59cf56975357577d5434880dc279fe4695cc8aa312b5#rd)  
 - [2022-01-19-【第2516期】编写防御性-CSS-实践-Part-Ⅳ](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252333&idx=1&sn=a31e812310d860d8ff4f4fef5a35ba23&chksm=bd493fe98a3eb6ff8560ce01009e798093f59fe7934dfe1fc6ff6ba7949a84bee3dd80a70598#rd)  
+- [2022-01-19-【开源】袋鼠云Molecule：一个轻量的-Web-IDE-UI-框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252333&idx=2&sn=74e1e059299d6585e265d5fba7b1fde9&chksm=bd493fe98a3eb6ff1df5636fdbee76a4c3adf19870b496d30d17751d601b7b3ee4ad6b45fcda#rd)  
 - [2022-01-18-【第2515期】深入浅出-CSS-动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252311&idx=1&sn=09347e94a00f9d221ba9d646c14dcba2&chksm=bd493fd38a3eb6c537319356bfa1255de6ac3f9f3e91486a6400e0a245b15f5282f510046e50#rd)  
 - [2022-01-17-【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd)  
-- [2022-01-16-【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd)  
 - [2022-01-16-工作/生活平衡会让你成为一个更好的软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=2&sn=921b5d032605609f234d1395e1d9a8f6&chksm=bd493fa98a3eb6bf9d8ff8e0b1d9eb9ab4920a31705c434f049097f01c96dffd9b9110e8ca73#rd)  
-- [2022-01-15-【PPT】蚂蚁集团@零弌：一种秒级安装-npm-的黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=2&sn=d0606543afeb50b0ce6cf855270b8f84&chksm=bd493fad8a3eb6bb22a6d0c75c2b7bcb150cbd82ed3215a42d8b357a88f7bdb10323508405d6#rd)  
+- [2022-01-16-【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd)  
 - [2022-01-15-【第2512期】编写防御性-CSS-实践-Part-Ⅲ](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=1&sn=7fea79b4ee540634a13ca5532bee7141&chksm=bd493fad8a3eb6bbe544cfd544af4b90ea957ae98259a8e69547ef703cfc845ac51aa2328108#rd)  
+- [2022-01-15-【PPT】蚂蚁集团@零弌：一种秒级安装-npm-的黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=2&sn=d0606543afeb50b0ce6cf855270b8f84&chksm=bd493fad8a3eb6bb22a6d0c75c2b7bcb150cbd82ed3215a42d8b357a88f7bdb10323508405d6#rd)  
 - [2022-01-14-【第2511期】2021年JavaScript明星项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252195&idx=1&sn=23c3ae3fc22b98e2db0afdfbec632d5e&chksm=bd493c678a3eb571e7acd8b4410fc89173cdb745581088bf54860f5deb094f36656465f312e4#rd)  
-- [2022-01-13-【图书】活动中台：揭秘vivo的千万级DAU活动中台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252176&idx=2&sn=528a1def47e2dd7df99dd4e8bac0a0c6&chksm=bd493c548a3eb542025d0f16dd4eb929fa59b57c2410e2590ef8804d7f263161b94a72871264#rd)  
 - [2022-01-13-【第2510期】不优雅的-React-Hooks](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252176&idx=1&sn=4b7d1d7e5031cd5e6ff4eb38e3b82b6b&chksm=bd493c548a3eb54222b91398e7b31ee9e6edb94a3e546daa7f4a2f8353177dd896d8eaef6215#rd)  
-- [2022-01-12-【第2509期】编写防御性-CSS-实践-Part-Ⅱ](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252162&idx=1&sn=a5759c59ffcb85f329cd46e3e0eaf2e8&chksm=bd493c468a3eb550c2f85adf3fc11e47030722ebef1921dff7e7535865a37d7a34f8cbba9f46#rd)  
+- [2022-01-13-【图书】活动中台：揭秘vivo的千万级DAU活动中台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252176&idx=2&sn=528a1def47e2dd7df99dd4e8bac0a0c6&chksm=bd493c548a3eb542025d0f16dd4eb929fa59b57c2410e2590ef8804d7f263161b94a72871264#rd)  
 - [2022-01-12-在想什么：在家工作](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252162&idx=2&sn=f3e3618d320cd136272179c1d8d1b479&chksm=bd493c468a3eb55054dfe8af9f133dcfe4d4cf823bad7adf7602906b54d1dd1571c42e9402ab#rd)  
-- [2022-01-11-【PPT】百度@吴多益：高工的个人发展规划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252147&idx=2&sn=4071cca260d0bcca3690b34f6dac8f85&chksm=bd493c378a3eb52193640f86951f186d06210ecd081cae2ee57457453b91313d21ea7fffaa85#rd)  
+- [2022-01-12-【第2509期】编写防御性-CSS-实践-Part-Ⅱ](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252162&idx=1&sn=a5759c59ffcb85f329cd46e3e0eaf2e8&chksm=bd493c468a3eb550c2f85adf3fc11e47030722ebef1921dff7e7535865a37d7a34f8cbba9f46#rd)  
 - [2022-01-11-【第2508期】Chrome-97-DevTools-新功能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252147&idx=1&sn=360aba2b6ed3f1f5c31d6bb89e3febeb&chksm=bd493c378a3eb52157c1506f6e8efa004b020cb9fdd491b8296f69cb594986f0653eb3529a78#rd)  
-- [2022-01-10-【第2507期】编写防御性-CSS-实践-Part-I](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252082&idx=1&sn=c146e162621ce73b6f18a2122a89879d&chksm=bd493cf68a3eb5e0d3847aae2825fff9a01f5d3cd45edcd86097cfca7b1fa3180e7814c433d4#rd)  
+- [2022-01-11-【PPT】百度@吴多益：高工的个人发展规划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252147&idx=2&sn=4071cca260d0bcca3690b34f6dac8f85&chksm=bd493c378a3eb52193640f86951f186d06210ecd081cae2ee57457453b91313d21ea7fffaa85#rd)  
 - [2022-01-10-【开源】京东移动端组件库-React-版如约而来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252082&idx=2&sn=7e964d04c2cc708236ec677d2f99beff&chksm=bd493cf68a3eb5e0d05f7c1e03334580818c3814d40c52104c65239a05d689b23d8cd47ab222#rd)  
-- [2022-01-09-【第2506期】JavaScript-包管理器简史（npm/yarn/pnpm）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252081&idx=1&sn=f88298129fa96dea91b85a2d6b6e1b6d&chksm=bd493cf58a3eb5e39ecdb85a92cdef7174b4d3c13cb612786202b312f07e0ae7733325158dd4#rd)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -164,8 +164,8 @@
 </summary>
 
 
-- [2022-01-20-玉伯：开源有带给我什么](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=1&sn=021130571e7cff25f60291c30c6b475d&chksm=87c421d0b0b3a8c62bbaed3e9fa9a55366267bc13a5386781bcb6f41b508c4976a6350c2c933#rd) ![](assets/new.png)  
-- [2022-01-20-前端也要懂编译：Babel-全景上手指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=2&sn=60165136873388cdffae3a2e947054c6&chksm=87c421d0b0b3a8c61896dd405aef1ee5416c7f8f7678b6dd08ac0e62be6dd20cb27def918dcd#rd) ![](assets/new.png)  
+- [2022-01-20-玉伯：开源有带给我什么](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=1&sn=021130571e7cff25f60291c30c6b475d&chksm=87c421d0b0b3a8c62bbaed3e9fa9a55366267bc13a5386781bcb6f41b508c4976a6350c2c933#rd)  
+- [2022-01-20-前端也要懂编译：Babel-全景上手指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=2&sn=60165136873388cdffae3a2e947054c6&chksm=87c421d0b0b3a8c61896dd405aef1ee5416c7f8f7678b6dd08ac0e62be6dd20cb27def918dcd#rd)  
 - [2022-01-19-成为自信的node.js开发者（二）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=4&sn=507703ac15c0b4df778affc9292094eb&chksm=87c421afb0b3a8b9051b10055c9100734571559fee389554ec617cbb22ba85447edbc052cae2#rd)  
 - [2022-01-19-成为自信的node.js开发者（一）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=3&sn=f9633a5ff2b7fcd9b436bc3b5d2ae029&chksm=87c421afb0b3a8b93f94a14ed5a3c91fdd9d9f90ce1d050b3c96e2324788b22434eea6cdedb3#rd)  
 - [2022-01-19-2021-年需要了解的-34-个-JavaScript-优化技巧](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=2&sn=782cbb808d97973819c2593e418768f2&chksm=87c421afb0b3a8b9581ce342983a6d2977330123efff1cae52224f6de9cbdc6fdc85df9ede8d#rd)  
@@ -226,7 +226,7 @@
 </summary>
 
 
-- [2022-01-20-自己动手写符合自己业务需求的-eslint-规则](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495217&idx=1&sn=f5c99bd0d97a90282b2c8aa3b6c9fc0b&chksm=ec47a5f2db302ce489d71e5f046cd10d78380828d19dba5fec72c1fd556eb2711d52b12e69f2#rd) ![](assets/new.png)  
+- [2022-01-20-自己动手写符合自己业务需求的-eslint-规则](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495217&idx=1&sn=f5c99bd0d97a90282b2c8aa3b6c9fc0b&chksm=ec47a5f2db302ce489d71e5f046cd10d78380828d19dba5fec72c1fd556eb2711d52b12e69f2#rd)  
 - [2022-01-17-性能优化，有时候是件体力活](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495141&idx=1&sn=fe00c09a0887589271e62927dfc40ccb&chksm=ec47a626db302f30e0fa923ee6881f08c3fcd12bfab3f6a8e272a03ea0f87c3e3f231c0f024c#rd)  
 - [2022-01-12-Node.js-2021年开发者报告解读：健康稳步的发展中](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495139&idx=1&sn=ac3cd2becc106cf38091778403f2c598&chksm=ec47a620db302f368ecd87a64efbf2ba311efef4c57632a1dd37eb2172046c851cef9d0395d8#rd)  
 - [2022-01-10-淘系前端架构---周刊---220110-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495127&idx=1&sn=176a6cd4ac4059ad40abb2bc0aed56ca&chksm=ec47a614db302f02c5e69f4b922525577dd0f98601518d86cfe6d361cfe9d186495ea406fd93#rd)  
@@ -319,7 +319,7 @@
 </summary>
 
 
-- [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html) ![](assets/new.png)  
+- [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html)  
 - [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html)  
 - [2021-12-11-对混沌工程的五个常见的误解](http://www.yyyweb.com/5428.html)  
 - [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html)  
