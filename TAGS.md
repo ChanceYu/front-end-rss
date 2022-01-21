@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-21 22:00:25。[来源分类](./README.md)
+:alarm_clock: 更新时间: 2022-01-22 06:00:39。[来源分类](./README.md)
 
 ## 标签分类
 
@@ -723,6 +723,7 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)
 - [【JavaScript-Weekly】Array.prototype.groupBy](https://javascriptweekly.com/issues/569)
 - [【前端早读课】【开源】袋鼠云Molecule：一个轻量的-Web-IDE-UI-框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252333&idx=2&sn=74e1e059299d6585e265d5fba7b1fde9&chksm=bd493fe98a3eb6ff1df5636fdbee76a4c3adf19870b496d30d17751d601b7b3ee4ad6b45fcda#rd)
 - [【前端早读课】工作/生活平衡会让你成为一个更好的软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=2&sn=921b5d032605609f234d1395e1d9a8f6&chksm=bd493fa98a3eb6bf9d8ff8e0b1d9eb9ab4920a31705c434f049097f01c96dffd9b9110e8ca73#rd)
@@ -739,7 +740,6 @@
 - [【前端早读课】【第2316期】中后台领域低代码搭建设计与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247209&idx=1&sn=c054d6a8ac4b94c861f18b9ad118db6c&chksm=bd490bed8a3e82fb6892c98ea078281e188b6611c0f09226916dc6a87afcfc6f1ba556ef07c7&scene=27#wechat_redirect)
 - [【前端早读课】【第2311期】@玉伯：开源有带给我什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247128&idx=1&sn=809b4390f56e76f911ee61e5c755ccbe&chksm=bd490b9c8a3e828ab851d61bbdd75adac54081df18b04faed619dd3370ca8ca9aecba00063fa&scene=27#wechat_redirect)
 - [【前端早读课】【活动】618别只顾剁手,免费领智能跳绳活动别错过~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247058&idx=2&sn=134e6cbc11021bd753c56713225722fb&chksm=bd4908568a3e8140dc9b12ed171ad9e4c54971ee1fb55d47e8dc96e875f9af08ba1072efb12b&scene=27#wechat_redirect)
-- [【前端早读课】【第2309期】包容性设计原则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247058&idx=1&sn=c786902d6e7a22b79f8fc250533cbf74&chksm=bd4908568a3e814047c676c9a78ddfcf984a7da33a3a8fbda9d398b5cfc5dc472203333c309d&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

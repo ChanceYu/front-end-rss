@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 22:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-22 06:00:39，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端技术优选](#前端技术优选)![](assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [淘系前端团队](#淘系前端团队)![](assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -54,6 +54,7 @@
 </summary>
 
 
+- [2022-01-21-NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573) ![](assets/new.png)  
 - [2022-01-14-Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572)  
 - [2022-01-07-The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571)  
 - [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570)  
@@ -102,8 +103,8 @@
 </summary>
 
 
-- [2022-01-21-前端高效开发必备的-js-库梳理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595811&idx=1&sn=ed117f2d9b549eaeed462b0217411f93&chksm=8022f3e2b7557af4325e227b4e4d9fb8084eb010d525f658ef787c968c36ab5f69ca6614cc9f#rd) ![](assets/new.png)  
-- [2022-01-21-TypeScript-中的泛型你真搞懂了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595811&idx=2&sn=92b55478e9646d68dc4cbf988fd2b8cd&chksm=8022f3e2b7557af434f362b9991ba8a4d9e5fc712bb0f33c116aebce7d0937a25e50072047eb#rd) ![](assets/new.png)  
+- [2022-01-21-前端高效开发必备的-js-库梳理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595811&idx=1&sn=ed117f2d9b549eaeed462b0217411f93&chksm=8022f3e2b7557af4325e227b4e4d9fb8084eb010d525f658ef787c968c36ab5f69ca6614cc9f#rd)  
+- [2022-01-21-TypeScript-中的泛型你真搞懂了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595811&idx=2&sn=92b55478e9646d68dc4cbf988fd2b8cd&chksm=8022f3e2b7557af434f362b9991ba8a4d9e5fc712bb0f33c116aebce7d0937a25e50072047eb#rd)  
 - [2022-01-20-《Node.js-开发者-2021-报告》发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595617&idx=2&sn=30369cb3af26957c31ced9125f58440a&chksm=8022f4a0b7557db68fe066573908c185be9eed06364b2ef60e1b284800ae02dd2dffa034bce6#rd)  
 - [2022-01-20-太卷了！浏览器也支持原生的深拷贝-API-了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595617&idx=1&sn=c8390a23ccbc94ba968476c9f30a4be4&chksm=8022f4a0b7557db6e6457305dcb939c07cc39cb9ee850f0a0ce69e9ff86d6635be96b675331a#rd)  
 - [2022-01-19-原开发者出局，Faker.js-已被社区控制](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595451&idx=1&sn=4efe0d23c6d4a8aaaeb6bc569e69ba14&chksm=8022f57ab7557c6cd5a3e19b52355354a6073ac4e4a0912bfaea94b66dd1a7e96d7810046acb#rd)  
@@ -164,7 +165,7 @@
 </summary>
 
 
-- [2022-01-21-Vue-3-将成为新的默认版本](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060934&idx=1&sn=84a45d8367744693c12632b096175fff&chksm=87c421d6b0b3a8c077f9126aa6bd8fa95f57738694999264722eafe2c1c304539ff78e745062#rd) ![](assets/new.png)  
+- [2022-01-21-Vue-3-将成为新的默认版本](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060934&idx=1&sn=84a45d8367744693c12632b096175fff&chksm=87c421d6b0b3a8c077f9126aa6bd8fa95f57738694999264722eafe2c1c304539ff78e745062#rd)  
 - [2022-01-20-前端也要懂编译：Babel-全景上手指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=2&sn=60165136873388cdffae3a2e947054c6&chksm=87c421d0b0b3a8c61896dd405aef1ee5416c7f8f7678b6dd08ac0e62be6dd20cb27def918dcd#rd)  
 - [2022-01-20-玉伯：开源有带给我什么](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=1&sn=021130571e7cff25f60291c30c6b475d&chksm=87c421d0b0b3a8c62bbaed3e9fa9a55366267bc13a5386781bcb6f41b508c4976a6350c2c933#rd)  
 - [2022-01-19-Chrome-DevTools:-修改User-Agent，定制个性化UA](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=1&sn=14f8cc7eb94db6cb06351782681c4875&chksm=87c421afb0b3a8b9a843999348abbef6bc0271530370b7c4c5f3c1a7ca2eea253fdf72e55c10#rd)  
@@ -226,7 +227,7 @@
 </summary>
 
 
-- [2022-01-21-北海（Kraken）v0.10.0-发布---支持-Flutter-Widget-混合渲染](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495233&idx=1&sn=af3904c308527c447a50982e7c7b826b&chksm=ec47a582db302c944e41648e5e6cb31025ff365974fd9d9b2feb46af17293aaf77778095b539#rd) ![](assets/new.png)  
+- [2022-01-21-北海（Kraken）v0.10.0-发布---支持-Flutter-Widget-混合渲染](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495233&idx=1&sn=af3904c308527c447a50982e7c7b826b&chksm=ec47a582db302c944e41648e5e6cb31025ff365974fd9d9b2feb46af17293aaf77778095b539#rd)  
 - [2022-01-20-自己动手写符合自己业务需求的-eslint-规则](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495217&idx=1&sn=f5c99bd0d97a90282b2c8aa3b6c9fc0b&chksm=ec47a5f2db302ce489d71e5f046cd10d78380828d19dba5fec72c1fd556eb2711d52b12e69f2#rd)  
 - [2022-01-17-性能优化，有时候是件体力活](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495141&idx=1&sn=fe00c09a0887589271e62927dfc40ccb&chksm=ec47a626db302f30e0fa923ee6881f08c3fcd12bfab3f6a8e272a03ea0f87c3e3f231c0f024c#rd)  
 - [2022-01-12-Node.js-2021年开发者报告解读：健康稳步的发展中](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495139&idx=1&sn=ac3cd2becc106cf38091778403f2c598&chksm=ec47a620db302f368ecd87a64efbf2ba311efef4c57632a1dd37eb2172046c851cef9d0395d8#rd)  

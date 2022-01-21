@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-21 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-22 06:00:39。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 其它
 
@@ -8,6 +8,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2022-01-21-NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573) 
 - [2021-12-17-Array.prototype.groupBy](https://javascriptweekly.com/issues/569) 
 - [2022-01-19-【开源】袋鼠云Molecule：一个轻量的-Web-IDE-UI-框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252333&idx=2&sn=74e1e059299d6585e265d5fba7b1fde9&chksm=bd493fe98a3eb6ff1df5636fdbee76a4c3adf19870b496d30d17751d601b7b3ee4ad6b45fcda#rd) 
 - [2022-01-16-工作/生活平衡会让你成为一个更好的软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=2&sn=921b5d032605609f234d1395e1d9a8f6&chksm=bd493fa98a3eb6bf9d8ff8e0b1d9eb9ab4920a31705c434f049097f01c96dffd9b9110e8ca73#rd) 

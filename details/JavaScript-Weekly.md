@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-15 06:00:52。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-22 06:00:39。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-01-21-NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573) 
 - [2022-01-14-Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572) 
 - [2022-01-07-The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571) 
 - [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) 

@@ -38,6 +38,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "NaNNaNNaNNaN Batman",
+        "link": "https://javascriptweekly.com/issues/573",
+        "date": "2022-01-21"
+      },
+      {
         "title": "Parcel.js 2.2 and Eleventy 1.0",
         "link": "https://javascriptweekly.com/issues/572",
         "date": "2022-01-14"
