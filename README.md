@@ -11,20 +11,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 08:00:33，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 12:00:32，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -71,8 +71,8 @@
 </summary>
 
 
-- [2022-01-21-【第2518期】2022年2月7日，Vue-3-将成为新的默认版本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252415&idx=1&sn=4bb482ea04dd3f38fc5ad081a65abe1c&chksm=bd493f3b8a3eb62d65bce93b72b15338e8d9d4c7aa34f949e944429847db71365c7d2898f837#rd) ![](assets/new.png)  
-- [2022-01-21-【招聘】一起来做最好的-DesignOps-工具，腾讯CDC招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252415&idx=2&sn=d538d104be0eb69351a00b941f8044ca&chksm=bd493f3b8a3eb62d2e76c6a36784d88b42f6f6ec4796d97b2489fc767a0e8acf824ce16c8eef#rd) ![](assets/new.png)  
+- [2022-01-21-【第2518期】2022年2月7日，Vue-3-将成为新的默认版本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252415&idx=1&sn=4bb482ea04dd3f38fc5ad081a65abe1c&chksm=bd493f3b8a3eb62d65bce93b72b15338e8d9d4c7aa34f949e944429847db71365c7d2898f837#rd)  
+- [2022-01-21-【招聘】一起来做最好的-DesignOps-工具，腾讯CDC招前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252415&idx=2&sn=d538d104be0eb69351a00b941f8044ca&chksm=bd493f3b8a3eb62d2e76c6a36784d88b42f6f6ec4796d97b2489fc767a0e8acf824ce16c8eef#rd)  
 - [2022-01-20-【开源】腾讯-PAG-动画组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252410&idx=2&sn=8b33b8c610de166332203b6463f21e21&chksm=bd493f3e8a3eb6286c169f6396955e41bb0037e3d81cb20b1d719c1943ec8b14ce47e9ddd552#rd)  
 - [2022-01-20-【第2517期】2021-Web-Components技术趋势解读](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252410&idx=1&sn=f58cd34c3b3e31193674dd2d8c1b29e7&chksm=bd493f3e8a3eb62862183af368e3189c59cf56975357577d5434880dc279fe4695cc8aa312b5#rd)  
 - [2022-01-19-【第2516期】编写防御性-CSS-实践-Part-Ⅳ](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252333&idx=1&sn=a31e812310d860d8ff4f4fef5a35ba23&chksm=bd493fe98a3eb6ff8560ce01009e798093f59fe7934dfe1fc6ff6ba7949a84bee3dd80a70598#rd)  
@@ -288,6 +288,7 @@
 </summary>
 
 
+- [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) ![](assets/new.png)  
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)  
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)  
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)  
@@ -307,7 +308,6 @@
 - [2021-09-29-JavaScript-侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)  
 - [2021-09-24-科技爱好者周刊（第-177-期）：iPad-的真正用途](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-177.html)  
 - [2021-09-22-俄罗斯总理的几何题](http://www.ruanyifeng.com/blog/2021/09/geometry-puzzle.html)  
-- [2021-09-17-科技爱好者周刊（第-176-期）：中国法院承认-GPL-吗？](http://www.ruanyifeng.com/blog/2021/09/weekly-issue-176.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
