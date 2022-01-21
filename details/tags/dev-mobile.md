@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-21 18:03:49。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-21 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -100,5 +100,6 @@
 - [2019-01-21-使用Flutter一年后，这是我得到的经验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490316&idx=1&sn=7e5f81004e944e16f25621aaf7493b22#wechat_redirect) 
 - [2018-12-05-Flutter-1.0重磅发布，它还想做桌面和Web开发](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490048&idx=1&sn=7fc792cccb4182ce2a4f0106658c6fb6#wechat_redirect) 
 - [2018-10-17-Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect) 
+- [2022-01-21-北海（Kraken）v0.10.0-发布---支持-Flutter-Widget-混合渲染](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495233&idx=1&sn=af3904c308527c447a50982e7c7b826b&chksm=ec47a582db302c944e41648e5e6cb31025ff365974fd9d9b2feb46af17293aaf77778095b539#rd) 
 - [2018-08-17-Hello-PWA](https://jdc.jd.com/archives/212666) 
 - [2018-08-10-【译】使用-Flutter-实现跨平台移动端开发](https://jdc.jd.com/archives/212644) 

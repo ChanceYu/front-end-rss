@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-21 18:03:49。[来源分类](./README.md)
+:alarm_clock: 更新时间: 2022-01-21 22:00:25。[来源分类](./README.md)
 
 ## 标签分类
 
@@ -128,8 +128,8 @@
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
 - [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
+- [【前端大全】TypeScript-中的泛型你真搞懂了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595811&idx=2&sn=92b55478e9646d68dc4cbf988fd2b8cd&chksm=8022f3e2b7557af434f362b9991ba8a4d9e5fc712bb0f33c116aebce7d0937a25e50072047eb#rd)
 - [【前端大全】10个写TypeScript代码的坏习惯](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574541&idx=2&sn=4fff61cc4dfcde8c962317b808f51969&chksm=802506ccb7528fda13badcf5877ffebff7271e079b4ca782dfa6c882b87a0f29377619b9d5f6&scene=27#wechat_redirect)
-- [【前端大全】TypeScript-高级用法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574217&idx=3&sn=04d450fadccc3109040061859311d588&chksm=80251808b752911e2316d2919c4d893c1990905eb4862deaf6403674d00ab2a013350af58485&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
