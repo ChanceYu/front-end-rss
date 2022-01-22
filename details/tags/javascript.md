@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 08:00:48。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-23 06:00:31。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## JavaScript
 
@@ -724,8 +724,8 @@
 - [2016-06-24-神奇的Shadow-DOM](https://aotu.io/notes/2016/06/24/Shadow-DOM/) 
 - [2016-06-22-让console充满情怀](https://aotu.io/notes/2016/06/22/An-interesting-experience-on-console/) 
 - [2016-04-21-如何用ArrayBuffer构造一个form请求](https://aotu.io/notes/2016/04/21/form-request/) 
-- [2016-04-14-JavaScript中Math.random的种子设定方法](https://aotu.io/notes/2016/04/14/math-random/) 
 - [2016-04-14-JavaScript中reduce方法不完全指南](https://aotu.io/notes/2016/04/14/js-reduce/) 
+- [2016-04-14-JavaScript中Math.random的种子设定方法](https://aotu.io/notes/2016/04/14/math-random/) 
 - [2016-03-04-图片资源Base64化在H5页面里有用武之地吗？](https://aotu.io/notes/2016/03/04/can-we-use-base64-in-h5-webapps/) 
 - [2016-01-08-Promise-实战](https://aotu.io/notes/2016/01/08/promise/) 
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
