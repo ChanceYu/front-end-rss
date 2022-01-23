@@ -256,13 +256,32 @@ export default {
           arr = tagsMap[matchValue]
         } else {
           results.forEach((item) => {
+            let reg = null
+            try {
             // eslint-disable-next-line
-            const reg = new RegExp('(' + value.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
-            if (reg.test(item.title)) {
+              reg = new RegExp('(' + value.replace(/([?\[\]])/g, '\\$1') + ')', 'gi')
+            } catch (e) {}
+
+            const matchSplit = (val) => {
+              const exist = item.title.split(val)
+
+              if (exist.length > 1) {
+                arr.push({
+                  ...item,
+                  sotitle: exist.join(`<span class="red">${val}</span>`)
+                })
+                return true
+              }
+            }
+
+            if (reg && reg.test(item.title)) {
               arr.push({
                 ...item,
                 sotitle: item.title.replace(reg, `<span class="red">$1</span>`)
               })
+            } else if (matchSplit(value)) {
+            } else if (matchSplit(value.toLowerCase())) {
+            } else if (matchSplit(value.toUpperCase())) {
             }
           })
         }
