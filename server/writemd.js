@@ -38,7 +38,7 @@ function handleREADME(newData, linksJson) {
  */
 function handleTags(newData, linksJson) {
   const currentDate = utils.getNowDate()
-  let tags = require(TAGS_PATH)
+  let tags = fs.readJsonSync(TAGS_PATH)
 
   tags.forEach((tag, i) => {
     tags[i].items = []
