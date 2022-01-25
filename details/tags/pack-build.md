@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 18:01:40。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-26 00:51:11。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -193,7 +193,6 @@
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
-- [2018-08-10-Webpack打包实用优化方案](https://jdc.jd.com/archives/212653) 
 - [2021-12-23-技术期刊-·-路尘终见泰山平-|-微前端及插件化架构在-Wix-的实践;编辑器架构的第二路径;业务中的前端组件化体系;构建网……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=2&sn=80de465249ad82c9674f1a5c45f9e827&chksm=8c5fa2afbb282bb92e340c3dfbccdd9260fcd21727d8bf8f7dd33a86baea3d7cc1791907ce17#rd) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 

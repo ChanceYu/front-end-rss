@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 18:01:40。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-26 00:51:11。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 服务端相关
 
@@ -81,7 +81,6 @@
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
 - [2021-08-05-SSR、SSG、ISR、DPR-有什么区别？](http://www.yyyweb.com/5407.html) 
 - [2018-09-06-Apollo-GraphQL-在-Web-APP-中应用的思考](http://www.yyyweb.com/5151.html) 
-- [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690) 
 - [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 

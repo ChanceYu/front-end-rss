@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 18:01:40。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-26 00:51:11。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## React
 
@@ -362,8 +362,6 @@
 - [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html) 
 - [2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html) 
 - [2019-10-06-Remax-–-使用真正的-React-构建小程序](http://www.yyyweb.com/5309.html) 
-- [2018-08-31-【译】React-优化：虚拟-DOM-详解](https://jdc.jd.com/archives/212685) 
-- [2018-07-26-【译】使用React和HTML5表单验证API处理表单元素](https://jdc.jd.com/archives/212629) 
 - [2022-01-20-Taro-正式发布-3.4-版本:-全面支持-Preact-&-Vue-3.2](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898209&idx=1&sn=fe5b257476a2b6361e33111d65a79806&chksm=8c5fa32fbb282a396bcc8a03bc41eb82f6ad16ecd4881306594d6f19741b82b01df038e59788#rd) 
 - [2021-11-25-Taro-3.4-beta-发布：-支持-Preact-为应用开辟更多体积空间](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=1&sn=64e941a34cbc724fb16c768ea8765eb3&chksm=8c5fdd88bb28549e5e07a12e3a2add2433a8a693d94a0637c3a20488f2d60d5b856693a7543a#rd) 
 - [2021-11-25-技术期刊-·-河海不择细流-|-从根本上了解异步编程体系;Prefresh,-Fast-refresh-for-Preact……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=2&sn=d3e06bbd0328cec47ca77f7bac362924&chksm=8c5fdd88bb28549e6b41197aa710da3b14be1d19c4a14e6fe4cceff0d95fd180ee8894e62e09#rd) 

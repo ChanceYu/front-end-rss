@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 18:01:40。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-26 00:51:11。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 性能优化
 
@@ -133,10 +133,6 @@
 - [2022-01-17-性能优化，有时候是件体力活](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495141&idx=1&sn=fe00c09a0887589271e62927dfc40ccb&chksm=ec47a626db302f30e0fa923ee6881f08c3fcd12bfab3f6a8e272a03ea0f87c3e3f231c0f024c#rd) 
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
 - [2019-09-30-浏览器IMG图片原生懒加载loading=”lazy”实践指南](https://www.zhangxinxu.com/wordpress/2019/09/native-img-loading-lazy/) 
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
-- [2018-11-05-利用交叉观察器解锁懒加载新姿势](https://jdc.jd.com/archives/212784) 
-- [2018-10-19-利用prerender-spa-plugin提升单页面应用的体验](https://jdc.jd.com/archives/212768) 
 - [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
 - [2016-04-12-前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/) 

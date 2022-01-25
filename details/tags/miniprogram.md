@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 18:01:40。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-26 00:51:11。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 小程序
 
@@ -123,9 +123,6 @@
 - [2018-12-20-Taro-1.2：将微信小程序转换为多端应用](http://www.yyyweb.com/5227.html) 
 - [2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html) 
 - [2018-11-07-多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html) 
-- [2018-11-09-微信小程序·云开发初体验](https://jdc.jd.com/archives/212791) 
-- [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779) 
-- [2018-09-07-小程序实战总结](https://jdc.jd.com/archives/212697) 
 - [2021-12-09-Taro-3.5-canary-发布：支持适配-鸿蒙](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897971&idx=1&sn=426dc390427f9420f6408ef245371b1f&chksm=8c5fa23dbb282b2bf41c3e95f0fd1899787a3bb6d7b772d23a8e7eedf973148251b8a1fe3bbf#rd) 
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) 
 - [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) 
