@@ -35,6 +35,11 @@
     ]
   },
   {
+    "id": "gh_086869a8f05b",
+    "title": "前端之神",
+    "rss": "https://rsshub.app/wechat/csm/huxiu_com"
+  },
+  {
     "id": "iwebfe",
     "title": "前端技术优选",
     "rss": [
@@ -66,12 +71,8 @@
     "rss": "http://www.yyyweb.com/feed"
   },
   {
-    "title": "JDC-|-京东设计中心",
-    "rss": "http://jdc.jd.com/feed"
-  },
-  {
     "id": "AOTULabs",
-    "title": "Aotu-|-凹凸实验室",
+    "title": "凹凸实验室",
     "rss": "https://aotu.io/atom.xml"
   }
 ]
