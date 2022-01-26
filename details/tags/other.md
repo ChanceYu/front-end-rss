@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-26 18:02:10。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-27 06:00:48。[来源分类](/README.md)、[标签分类](/TAGS.md)
 
 ## 其它
 
@@ -1814,6 +1814,7 @@
 - [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html) 
 - [2018-09-26-基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html) 
 - [2018-08-07-玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html) 
+- [2022-01-26-Deco-智能代码体验版正式上线啦，快来体验设计稿一键生成代码~](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898253&idx=1&sn=9bf55fa76d65197a89c896c6f8c692b5&chksm=8c5fa3c3bb282ad50c9986f58a620f5832a78ff246dd814e24231272fdca71c1803bdd1b9e8b#rd) 
 - [2022-01-13-探索-Design-Token](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898108&idx=1&sn=50274af7447974879154508409bc2be2&chksm=8c5fa2b2bb282ba470ba6611071b6685a1cb681466f0950ee6258d5ffe36f1f33f5ed5d22ab5#rd) 
 - [2021-11-25-【机会来啦】京东凹凸实验室-2022-校招来啦！](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897798&idx=3&sn=52d3b4cb76fedddc6ee3cef6279aa9c2&chksm=8c5fdd88bb28549ee17944ea44102c8abe98d1b1790dde826ad9e8df372cc16b26864011c782#rd) 
 - [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 

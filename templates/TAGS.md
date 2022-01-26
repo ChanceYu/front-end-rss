@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: <%= obj.currentDate %>。[来源分类](./README.md)
+:alarm_clock: 更新时间: <%= obj.currentDate %>。[来源分类](/README.md)
 
 ## 标签分类
 <% _.each(obj.tags, function(e){ %>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-26 18:02:10。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-27 06:00:48。[来源分类](/README.md)、[标签分类](/TAGS.md)
 
 ## 小程序
 
@@ -124,8 +124,8 @@
 - [2018-11-17-Taro-1.1-发布，全面支持微信/百度/支付宝小程序](http://www.yyyweb.com/5207.html) 
 - [2018-11-07-多端统一开发框架-Taro-1.0-正式发布](http://www.yyyweb.com/5197.html) 
 - [2021-12-09-Taro-3.5-canary-发布：支持适配-鸿蒙](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897971&idx=1&sn=426dc390427f9420f6408ef245371b1f&chksm=8c5fa23dbb282b2bf41c3e95f0fd1899787a3bb6d7b772d23a8e7eedf973148251b8a1fe3bbf#rd) 
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) 
 - [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) 
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) 
 - [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) 
 - [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
