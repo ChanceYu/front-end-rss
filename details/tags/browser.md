@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-26 12:00:45。[来源分类](../README.md)、[标签分类](../TAGS.md)
+:alarm_clock: 更新时间: 2022-01-26 18:02:10。[来源分类](../README.md)、[标签分类](../TAGS.md)
 
 ## 浏览器相关
 
@@ -81,6 +81,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2022-01-26-面试官：如何中断已发出去的请求？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595916&idx=1&sn=5672fee1ce2c0b987ef0c3fa72029e15&chksm=8022f34db7557a5b76579754ecbe30aac06593128224d280dc2ead080b93d43988f4fc6b880e#rd) 
 - [2022-01-23-三方-Cookie-替代品-—-隐私沙盒的最新进展](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595907&idx=2&sn=3f0a7a767340d84be78f2e5093d92224&chksm=8022f342b7557a5451e15370106061756d6bbf05706a348f822578c380ae8b75030560c146a4#rd) 
 - [2022-01-17-localStorage灵魂五问。-5M？？-10M-!!!](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595210&idx=2&sn=9eaf779403390a8dfacb023e5e862edb&chksm=8022f60bb7557f1d9285bee17780ccdcecc24ee9fabb12e3262f9f77ba43f165afd1959ca3a8#rd) 
 - [2022-01-03-输入-URL-开始建立前端知识体系](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593813&idx=1&sn=ce4c48e1108e1f320087a4b023a4b70b&chksm=8022cb94b75542824d5c601b8e251f17c1fd6f795f586901f75931c794b31f2cbc194e8c3a41#rd) 
