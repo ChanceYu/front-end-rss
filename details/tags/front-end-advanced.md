@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-27 18:01:14。[来源分类](/README.md)、[标签分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -322,11 +322,11 @@
 - [2021-12-23-低代码工具浅析](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=1&sn=abcf11e321be034ae3f9d23711171f1c&chksm=8c5fa2afbb282bb9bb414afce68f36c5e6a6966a0189d54740e1fd20f5c7d5aa6f72c312f6b2#rd) 
 - [2021-12-16-Deco-编辑器开放性技术架构解析](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898009&idx=1&sn=7c7f13fac5dcdc0acb68d17c80bc7b18&chksm=8c5fa2d7bb282bc147238c0733c866b8a2f9589bc425b68e8744e65a7ea7b895b115658937a6#rd) 
 - [2021-12-02-超基础的机器学习入门-原理篇](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897887&idx=1&sn=a0ce664475cfaa68156374a0e79003b1&chksm=8c5fa251bb282b47ce8b762eaff1b2bb0b56801cabe21cd38ba265edcda6c52bd2b13c5d664a#rd) 
-- [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
-- [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
-- [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
-- [2016-08-16-Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/) 
-- [2016-07-19-我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/) 
-- [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
-- [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
-- [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2018-01-11-波动均分算法](https://jelly.jd.com/article/6006b1055b6c6a01506c8803) 
+- [2017-04-11-GPU加速是什么](https://jelly.jd.com/article/6006b1045b6c6a01506c87e2) 
+- [2016-12-08-vim给代码行尾加分号的几种方法](https://jelly.jd.com/article/6006b1045b6c6a01506c87ce) 
+- [2016-08-16-Nginx-配置-HTTPS-服务器](https://jelly.jd.com/article/6006b1045b6c6a01506c87b5) 
+- [2016-07-19-我们是如何做好前端工程化和静态资源管理](https://jelly.jd.com/article/6006b1045b6c6a01506c87b0) 
+- [2016-06-14-假如HTTP/2已经普及](https://jelly.jd.com/article/6006b1035b6c6a01506c87aa) 
+- [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://jelly.jd.com/article/6006b1035b6c6a01506c879b) 
+- [2015-10-16-我的vim二三事](https://jelly.jd.com/article/6006b1025b6c6a01506c8774) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-27 18:01:14。[来源分类](/README.md)、[标签分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -53,12 +53,12 @@
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/) 
-- [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/) 
-- [2017-01-16-聊聊-SVG-基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/) 
-- [2016-11-22-三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/) 
-- [2016-11-07-APNG-那些事](https://aotu.io/notes/2016/11/07/apng/) 
-- [2016-09-28-在网页上实现-3D-Touch-效果](https://aotu.io/notes/2016/09/28/3d-touch/) 
-- [2016-07-09-拥抱Web设计新趋势：SVG-Sprites实践应用](https://aotu.io/notes/2016/07/09/SVG-Symbol-component-practice/) 
-- [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
-- [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
-- [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://jelly.jd.com/article/6006b1045b6c6a01506c87e6) 
+- [2017-01-16-聊聊-SVG-基本形状转换那些事](https://jelly.jd.com/article/6006b1045b6c6a01506c87d6) 
+- [2016-11-22-三看-SVG-Web-动效](https://jelly.jd.com/article/6006b1045b6c6a01506c87c9) 
+- [2016-11-07-APNG-那些事](https://jelly.jd.com/article/6006b1045b6c6a01506c87be) 
+- [2016-09-28-在网页上实现-3D-Touch-效果](https://jelly.jd.com/article/6006b1045b6c6a01506c87b8) 
+- [2016-07-09-拥抱Web设计新趋势：SVG-Sprites实践应用](https://jelly.jd.com/article/6006b1045b6c6a01506c87af) 
+- [2016-06-23-探究WebP一些事儿](https://jelly.jd.com/article/6006b1035b6c6a01506c87a9) 
+- [2016-04-13-Canvas虹膜消除转场](https://jelly.jd.com/article/6006b1035b6c6a01506c87a0) 
+- [2015-11-20-SVG-I-Know](https://jelly.jd.com/article/6006b1025b6c6a01506c877d) 

@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Doing the opposite of Jim Cramer with Node",
+        "link": "https://nodeweekly.com/issues/422",
+        "date": "2022-01-27"
+      },
+      {
         "title": "Eleventy 1.0",
         "link": "https://nodeweekly.com/issues/421",
         "date": "2022-01-20"

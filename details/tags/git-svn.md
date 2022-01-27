@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-27 18:01:14。[来源分类](/README.md)、[标签分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -47,5 +47,5 @@
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) 
 - [2019-09-12-GitHub-Actions-入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html) 
 - [2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) 
-- [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
-- [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
+- [2017-04-10-用-Git-钩子进行简单自动部署](https://jelly.jd.com/article/6006b1045b6c6a01506c87e1) 
+- [2015-11-17-Git常用操作总结](https://jelly.jd.com/article/6006b1025b6c6a01506c877c) 

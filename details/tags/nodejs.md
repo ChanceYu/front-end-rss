@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-27 18:01:14。[来源分类](/README.md)、[标签分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422) 
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
 - [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
@@ -217,9 +218,9 @@
 - [2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
 - [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
-- [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
-- [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
-- [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 
-- [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
-- [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
-- [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
+- [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://jelly.jd.com/article/5edde472c27b86015c5016e0) 
+- [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://jelly.jd.com/article/6030a305239b6e014a19fc0e) 
+- [2016-08-09-跟着老司机玩转Node命令行](https://jelly.jd.com/article/6006b1045b6c6a01506c87b4) 
+- [2016-04-07-Node读写Excel文件探究实践](https://jelly.jd.com/article/6006b1035b6c6a01506c879e) 
+- [2016-02-24-Node-生产环境调试](https://jelly.jd.com/article/6006b1035b6c6a01506c8793) 
+- [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://jelly.jd.com/article/6006b1025b6c6a01506c8785) 

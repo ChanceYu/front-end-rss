@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-27 18:01:14。[来源分类](/README.md)、[标签分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -339,8 +339,8 @@
 - [2018-11-17-Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html) 
 - [2018-11-06-Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html) 
 - [2018-08-13-Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html) 
-- [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
-- [2016-12-28-一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/) 
-- [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
-- [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
-- [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
+- [2017-07-17-Vue-探索与实践](https://jelly.jd.com/article/6006b1045b6c6a01506c87ec) 
+- [2016-12-28-一个栗子实践vue2.0与1.0的区别](https://jelly.jd.com/article/6006b1045b6c6a01506c87d0) 
+- [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://jelly.jd.com/article/6030a20b239b6e014a19fc07) 
+- [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://jelly.jd.com/article/6030864b63dc65014d6fb75c) 
+- [2016-07-25-Vue实战－邮箱签名设计项目](https://jelly.jd.com/article/6006b1045b6c6a01506c87b1) 
