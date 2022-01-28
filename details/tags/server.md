@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-28 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 12:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -66,6 +66,7 @@
 - [2019-01-03-开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect) 
 - [2018-11-07-Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect) 
 - [2018-10-25-gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect) 
+- [2022-01-28-命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html) 
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) 
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 

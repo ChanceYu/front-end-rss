@@ -26813,6 +26813,11 @@
     "title": "阮一峰的网络日志",
     "items": [
       {
+        "title": "命令行常用工具的替代品",
+        "link": "http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html",
+        "date": "2022-01-28"
+      },
+      {
         "title": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？",
         "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
         "date": "2022-01-21"
