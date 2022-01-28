@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-28 22:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-29 06:00:26，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -54,6 +54,7 @@
 </summary>
 
 
+- [2022-01-28-Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574) ![](/assets/new.png)  
 - [2022-01-21-NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)  
 - [2022-01-14-Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572)  
 - [2022-01-07-The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571)  
@@ -134,7 +135,7 @@
 </summary>
 
 
-- [2022-01-28-用了五年-VS-Code-，我决定换成-JetBrains...](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512983&idx=1&sn=0e8f1d5e91f6eeb95354b945062a1796&chksm=f95206d4ce258fc2a004d4a34ca0ec6ddae16aab95cb96d8581ed9e68266c1e23f079e670bbd#rd) ![](/assets/new.png)  
+- [2022-01-28-用了五年-VS-Code-，我决定换成-JetBrains...](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512983&idx=1&sn=0e8f1d5e91f6eeb95354b945062a1796&chksm=f95206d4ce258fc2a004d4a34ca0ec6ddae16aab95cb96d8581ed9e68266c1e23f079e670bbd#rd)  
 - [2022-01-27-Vue涉及国家安全漏洞？尤雨溪回应：前端框架没有渗透功能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512891&idx=1&sn=ce2bd9e0ab8aa95e81e6a6dc942913f4&chksm=f9520678ce258f6e9257e326672541f1d2cf4f9992f761a0e9df18b9ca51399c425963e188eb#rd)  
 - [2022-01-24-跨云-&-跨端：小程序云开发一体化方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512880&idx=1&sn=aafd0c66f0276dc242868f9b282338e0&chksm=f9520673ce258f65a2b97ecdd3319fd6b4d6abd23300408d96aefc700cb18373718173da4eb7#rd)  
 - [2022-01-23-尤雨溪：Vue-3将成为新的默认版本；微软-Edge-浏览器搞大动作；Nginx-之父离职；抖音推出-PC-版客户端|前端周报](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512773&idx=1&sn=0f2dde50622e5bd059fcf4c5bdccfcfc&chksm=f9520786ce258e90ea8054010e4966bf14572797cb53faba2b14fe8c820b547a2abc6fa6a51c#rd)  
@@ -165,6 +166,9 @@
 </summary>
 
 
+- [2022-01-28-2年经验跳槽字节跳动系的公司，好像很稳啊！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485272&idx=1&sn=a40f0b6c03421b8e3f44308b07bf62b2&chksm=ce4612c9f9319bdf66fdae3cff2cad041c75ddbc22322f6d66a26c148906e629d7d76700077e#rd) ![](/assets/new.png)  
+- [2022-01-28-2022年如何学习前沿技术，推荐关注这些10年左右的大佬](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485272&idx=2&sn=d8a0fcea0d17e97d78dd78f0e140ca8a&chksm=ce4612c9f9319bdf339a22067847880fa9a5bbfa5f2692536524b18cb6c6e6793af7a59b3870#rd) ![](/assets/new.png)  
+- [2022-01-27-React中的TS类型过滤原来是这么做的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485235&idx=1&sn=083d3023494ceb1cbb90ccc2ae80cf36&chksm=ce4612a2f9319bb4859f53d2d78de7bc42b86cc9cd5d1f6961114aacaa9f0f0e2749cd056d3d#rd) ![](/assets/new.png)  
 - [2022-01-26-想进阶Canvas吗？我熬夜写了3个有趣的小游戏！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485230&idx=1&sn=fbca66fb8092089d61edbb41e94e4b02&chksm=ce4612bff9319ba9c52c3773f9baf81418399235a579ea3fc5276aa282ba24b36b3f10a4f9bd#rd)  
 - [2022-01-25-我是如何在项目中实现大文件分片上传，暂停续传的](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485115&idx=1&sn=620b1462e8d81f22006febb1411a60ab&chksm=ce46132af9319a3cbdb30f8d0bfdd5f0f936a950a6631ead6ccc1638e28c6c53aec11017ce9f#rd)  
 - [2022-01-24-来聊聊Vue中使用Render函数和JSX](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485101&idx=1&sn=536d05267ff890b9e961ed310c2f1093&chksm=ce46133cf9319a2ae4bac892f4ff65097cfc9686849b2c5a94e958045aa9f2489d01bf058d06#rd)  
