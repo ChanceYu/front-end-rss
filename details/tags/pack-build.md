@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-28 12:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-28 18:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -62,6 +62,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2022-01-28-JavaScript-新一代构建工具对比](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595931&idx=1&sn=1e011edd392d4f7b66c1a43331e0d2c7&chksm=8022f35ab7557a4cf399aa0f15bd1dadadd4487f5ac43649dbc0e02d93ba9eeb5f10e57fdcd9#rd) 
 - [2022-01-16-升级-Yarn-2，大规模瘦身-node_modules](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595189&idx=2&sn=f8666830ba7485bd3126bd0f87610e12&chksm=8022f674b7557f620e05122c2490475f0182ecc82965ff31ebbf546bba0b1dec508d8e36dd23#rd) 
 - [2022-01-10-警惕-webpack-这个打包陷阱。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651594139&idx=1&sn=4ec2ce48350d49d095524d287f3c56a7&chksm=8022ca5ab755434c29a034afe8685853bf6752b2b83cc5030bcd396ef6a3391cf06250bddefc#rd) 
 - [2021-06-25-学会使用-Jenkins-自动部署你的项目实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578123&idx=2&sn=4bfa68022998eab01c9337ffc5c58011&chksm=802508cab75281dcc0145b4069489a555beeecb1f42ab47b9e996c711cc6e6f521c622ca1fb4&scene=27#wechat_redirect) 
