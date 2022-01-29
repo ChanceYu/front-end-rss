@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-29 22:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-01-30 06:00:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -129,6 +129,7 @@
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
+- [2022-01-29-如何让网站加载速度变快](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502834&idx=2&sn=43b4aa8dd40cb02505a89d8f7a9941de&chksm=f992cd23cee54435f2f43eaaaa01bd30f3b141f62c38b18f8c78d5bb07ce2684f41d5a8f68a6#rd) 
 - [2022-01-19-如何做好前端性能监控？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502715&idx=2&sn=68a9804bc5feb5b599e4e7cd6ec2f927&chksm=f992cdaacee544bc3d1746beae717e66ad4da65d1793a97863f1ade308a29bb0ba8457501ac5#rd) 
 - [2022-01-17-性能优化，有时候是件体力活](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495141&idx=1&sn=fe00c09a0887589271e62927dfc40ccb&chksm=ec47a626db302f30e0fa923ee6881f08c3fcd12bfab3f6a8e272a03ea0f87c3e3f231c0f024c#rd) 
 - [2021-09-08-VS-Code-是如何优化启动性能的？](https://fed.taobao.org/blog/taofed/do71ct/wpsf10) 
