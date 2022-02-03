@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-03 22:00:23。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-02-04 06:00:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -327,6 +327,7 @@
 
 
 
+- [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
 - [【JavaScript-Weekly】Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572)
 - [【JavaScript-Weekly】The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571)
 - [【JavaScript-Weekly】The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570)
@@ -346,7 +347,6 @@
 - [【前端早读课】【第2307期】JavaScript代码整洁之道-注释篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247011&idx=1&sn=b49b1248a6aab4c422e9626742c562ec&chksm=bd4908278a3e8131e62c7545c58cb311fe36498349f26cce054fdfab28a238647dbc37f76f0a&scene=27#wechat_redirect)
 - [【前端早读课】【第2306期】JavaScript代码整洁之道-异常处理篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246995&idx=1&sn=643bbb95346fb47b7433338a39a5e82b&chksm=bd4908178a3e810188b525908a996a5a448bac95bad9d789549bd5033c99a3a61a8ac683d052&scene=27#wechat_redirect)
 - [【前端早读课】【第2303期】如何从流程上设计可持续维护的组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246903&idx=1&sn=a0bf0bd229d44f4d2281be8ef1a9f286&chksm=bd4908b38a3e81a5952f3b4f72a2cff8ecdba5b0af5228a45f46ccf43faeb9fcff0ecc882707&scene=27#wechat_redirect)
-- [【前端早读课】【第2288期】2021年保护JavaScript的7个步骤](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246217&idx=1&sn=8d276eef4cb6039db68a68d8c65d2088&chksm=bd49170d8a3e9e1bdb679531db172da8aa59748d84d53eff979b0f4ce5d7dd1662645d59fcd3&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

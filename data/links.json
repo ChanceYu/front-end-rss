@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "That's so fetch",
+        "link": "https://nodeweekly.com/issues/423",
+        "date": "2022-02-03"
+      },
+      {
         "title": "Doing the opposite of Jim Cramer with Node",
         "link": "https://nodeweekly.com/issues/422",
         "date": "2022-01-27"

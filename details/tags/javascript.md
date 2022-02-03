@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 22:00:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 06:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
 - [2022-01-14-Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572) 
 - [2022-01-07-The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571) 
 - [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570) 

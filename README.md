@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-03 22:00:23，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 06:00:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) ![](/assets/new.png)  
 - [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)  
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421)  
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420)  
@@ -225,8 +226,8 @@
 </summary>
 
 
-- [2022-02-03-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=1&sn=f55e5a45c03675aa314f686c3b2990b3&chksm=f992ca07cee543111add51c18d8ac90c2b85ffea5ac9f74650d643891cc0ca575f7ae7fa51d1#rd) ![](/assets/new.png)  
-- [2022-02-03-10-个-JS-解构赋值相关的知识点](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=2&sn=d91f4638fcde81ac67078f889784f2b3&chksm=f992ca07cee54311dbd646e633ae10847b655198d361c78f73857e0d3fafd06b19472479edb6#rd) ![](/assets/new.png)  
+- [2022-02-03-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=1&sn=f55e5a45c03675aa314f686c3b2990b3&chksm=f992ca07cee543111add51c18d8ac90c2b85ffea5ac9f74650d643891cc0ca575f7ae7fa51d1#rd)  
+- [2022-02-03-10-个-JS-解构赋值相关的知识点](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=2&sn=d91f4638fcde81ac67078f889784f2b3&chksm=f992ca07cee54311dbd646e633ae10847b655198d361c78f73857e0d3fafd06b19472479edb6#rd)  
 - [2022-01-30-速抢虎年限量超萌动态红包封面！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503055&idx=1&sn=d375a2ca3645b90b8b5e4e64cba3014f&chksm=f992ca1ecee5430838744d3b8a6c222fd3ad0a152abc642fea5da295cb73f30e2ca807a00cd5#rd)  
 - [2022-01-29-如何用低代码搞垮一家公司？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502834&idx=1&sn=94ed3d3e160ddb653a26fd43b1528521&chksm=f992cd23cee54435c3bec5a36120bd462b9168474784df285bb206116ea740c0cdb32a78f3f3#rd)  
 - [2022-01-29-如何让网站加载速度变快](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502834&idx=2&sn=43b4aa8dd40cb02505a89d8f7a9941de&chksm=f992cd23cee54435f2f43eaaaa01bd30f3b141f62c38b18f8c78d5bb07ce2684f41d5a8f68a6#rd)  
