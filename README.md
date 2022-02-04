@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 12:00:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 18:00:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,8 +23,8 @@
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -288,6 +288,7 @@
 </summary>
 
 
+- [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) ![](/assets/new.png)  
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/)  
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)  
 - [2022-01-12-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)  
@@ -307,7 +308,6 @@
 - [2021-09-12-APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/)  
 - [2021-08-22-不使用file类型input也能触发文件上传](https://www.zhangxinxu.com/wordpress/2021/08/file-system-access-api/)  
 - [2021-08-17-关于《CSS新世界》这本书](https://www.zhangxinxu.com/wordpress/2021/08/css%e6%96%b0%e4%b8%96%e7%95%8c/)  
-- [2021-08-15-JS-WeakMap应该什么时候使用](https://www.zhangxinxu.com/wordpress/2021/08/js-weakmap-es6/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -319,7 +319,7 @@
 </summary>
 
 
-- [2022-02-04-万兆家庭网络的时代](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html) ![](/assets/new.png)  
+- [2022-02-04-万兆家庭网络的时代](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)  
 - [2022-01-28-命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)  
 - [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)  
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)  

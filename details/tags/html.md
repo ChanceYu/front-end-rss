@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 12:00:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 18:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -15,6 +15,7 @@
 - [2021-02-26-容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect) 
 - [2019-08-26-HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd) 
 - [2022-01-05-为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=1&sn=ae23a10a1f0dfb3983bbca0c666f5e07&chksm=87c42138b0b3a82e5fe52bcfd5a68be0bbf3d0a2815c9fdf433448d686adc4f4528505eaacb0#rd) 
+- [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-09-24-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/) 
 - [2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/) 
