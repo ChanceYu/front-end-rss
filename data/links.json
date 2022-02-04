@@ -48,6 +48,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Get decorating with Babel 7.17.0",
+        "link": "https://javascriptweekly.com/issues/575",
+        "date": "2022-02-04"
+      },
+      {
         "title": "Etsy moved from React to Preact",
         "link": "https://javascriptweekly.com/issues/574",
         "date": "2022-01-28"

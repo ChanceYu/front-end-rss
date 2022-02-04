@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 18:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 06:00:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
 - [2022-01-17-【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd) 
 - [2022-01-16-【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd) 
 - [2022-01-15-【PPT】蚂蚁集团@零弌：一种秒级安装-npm-的黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=2&sn=d0606543afeb50b0ce6cf855270b8f84&chksm=bd493fad8a3eb6bb22a6d0c75c2b7bcb150cbd82ed3215a42d8b357a88f7bdb10323508405d6#rd) 

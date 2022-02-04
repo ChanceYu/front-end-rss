@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-04 18:00:36。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-02-05 06:00:24。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -147,6 +147,7 @@
 
 
 
+- [【JavaScript-Weekly】Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)
 - [【前端早读课】【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd)
 - [【前端早读课】【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd)
 - [【前端早读课】【PPT】蚂蚁集团@零弌：一种秒级安装-npm-的黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=2&sn=d0606543afeb50b0ce6cf855270b8f84&chksm=bd493fad8a3eb6bb22a6d0c75c2b7bcb150cbd82ed3215a42d8b357a88f7bdb10323508405d6#rd)
@@ -166,7 +167,6 @@
 - [【前端早读课】【第2218期】Google发布Flutter-2.0正式版，支持全平台程序构建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244411&idx=1&sn=6580d2bdfd5b304672c21d173d55ff7a&chksm=bd491eff8a3e97e952ce8cd44a5233581e04eaa5e1ee4ac7833a46c6557a9378fc458826d258&scene=27#wechat_redirect)
 - [【前端早读课】【第2204期】Vite-2.0-发布了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244056&idx=1&sn=480795a19ce6d10adf48363920f798b0&chksm=bd491f9c8a3e968afeefb7dc39926538c5f7683e7eb50d71dc5aaf433584d8752633c688c659&scene=27#wechat_redirect)
 - [【前端早读课】【第2202期】在Web平台上构建一个专业的设计工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244017&idx=1&sn=e9e10decc20e5c8395998abbd11f3f57&chksm=bd491c758a3e9563142bccf8b6181be206bd2ffbcf18537c07ca7e7018dcb312a1fd9b53ada1&scene=27#wechat_redirect)
-- [【前端早读课】工程化构建工具webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241667&idx=2&sn=2d66691f66db2ec190fa1e16fa9d0478&chksm=bd4965478a3eec5183f0c938ebbbe68981d7a8453f663a7f7e47ec3ae73f4c8c531391b5f89a&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

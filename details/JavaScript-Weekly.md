@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-29 06:00:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 06:00:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
 - [2022-01-28-Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574) 
 - [2022-01-21-NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573) 
 - [2022-01-14-Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572) 
