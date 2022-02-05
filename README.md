@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 12:00:21，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 06:00:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,10 +18,10 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -137,6 +137,7 @@
 </summary>
 
 
+- [2022-02-05-沦落到“删库讨薪”，为什么程序员找到对的工作这么难？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513173&idx=1&sn=9892374f992ca4c3fcd648c3683707e5&chksm=f9520116ce25880077b840cf350d6fc17d58bc8fe90f80b939d3510abd254e7d6fd050996db6#rd) ![](/assets/new.png)  
 - [2022-02-03-别把话筒给科技大佬们，你根本不知道他们会说什么](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513151&idx=1&sn=1debffce0e8a3d32d76d8938ea1f746a&chksm=f952017cce25886ae36394dcc8fe4eff8ae7a161fd8cb6206d985990bb120d62b1112694ee5a#rd)  
 - [2022-02-02-WebAssembly-2021-年回顾与-2022-年展望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513131&idx=1&sn=8f3c2e5f31aa5ea7e7bd9c9b75136294&chksm=f9520168ce25887e6c5947f92328090a4d398b67afcf3bccd558b205ef2da3e4a72efcd90601#rd)  
 - [2022-01-30-Deno-2021回顾；腾讯应届生怒怼领导；cURL作者“回怼”财富500-强公司的“白嫖”要求；iOS-15.4支持戴口罩解锁](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513130&idx=1&sn=408df60de38980ad25f54f6429155041&chksm=f9520169ce25887f68b3ced58c6ed4962a2058ebb91aa7fe9c5e19eec6afd410b64dbe19c787#rd)  
@@ -156,7 +157,6 @@
 - [2021-12-27-TDesign正式开源发布，腾讯设计云布局重要能力拼图！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512430&idx=1&sn=cc286ec3fe13edaec779f8339011bd9b&chksm=f952042dce258d3b9de758bb7eb2dbc95969274ddb5a520b9e8876a5ea0a323e94384bed1225#rd)  
 - [2021-12-26-React-Native-新架构是如何工作的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512408&idx=1&sn=e9315cdbb59339a399ed1a9eb6e5ecbc&chksm=f952041bce258d0d5fa2fb2acdd4f3fae6696e38bc31cbd6e35ebd8706a6058147f5ddd38cd0#rd)  
 - [2021-12-24-万字长文：从产品设计到发布的全链路智能化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512352&idx=1&sn=6334e7d402847326f9ed1fcf1459474f&chksm=f9520463ce258d7505e147e3a5869409afe851e616ff1211b6a87fabafb79efb5f90570c9c74#rd)  
-- [2021-12-22-15分钟，华为AppGallery-Connect云数据库从入门到精通](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512265&idx=2&sn=85b1587494a42933d43488183919086a&chksm=f952058ace258c9c552bc608a51b0590812de58cdaa703e1b36da451c4597f22df1105c4b61b#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -168,13 +168,14 @@
 </summary>
 
 
+- [2022-02-05-当年我校招时被这题难倒了！打包的3种hash值你知道吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485404&idx=1&sn=7579b6f7f82d6b125c0637a07b20ebf6&chksm=ce46124df9319b5b8f388d98d21732a41544832f9ee48cb521f600ae5a15d854f6c5e32221eb#rd) ![](/assets/new.png)  
 - [2022-02-02-回老家做前端程序员？这薪资水平你们觉得咋样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485378&idx=1&sn=17c87043df68aeb4fc6388695172fc85&chksm=ce461253f9319b45f817a1c413e70677f2cd467ee19b44b9d89ce588b7775bce2f0acff6e7f8#rd)  
 - [2022-02-01-Web-Worker：为啥大厂这么喜欢问这玩意呢？有啥用？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485371&idx=1&sn=a6904ff82af7b16d4ece3a7187ea0d68&chksm=ce46122af9319b3c5d2e47a26af9a64d34da4d4511dbb8ea2cf994827ea1efdf00c5bf18adfe#rd)  
 - [2022-01-31-出这道题，故意刁难我是吧？我给你一拳你信不信？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485321&idx=1&sn=3a6316eb46c6a0cdbb39031dfa357090&chksm=ce461218f9319b0eb47c1935c3f19cf27e61f2af6ea90dcb8e46ba14f1bab366a521825f00f0#rd)  
 - [2022-01-30-过年七天学习计划，我一定要变强！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485317&idx=1&sn=b6d129667c20aa27e2b3112071c7ec25&chksm=ce461214f9319b02a1b52ebdda752fabbe6222c1ec18dada17bd89c5e66c63a862b40f4a1507#rd)  
 - [2022-01-29-春节走亲戚不知道该怎么称呼？”亲戚关系计算器“你值得拥有！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485301&idx=1&sn=19f4d57fbf9d5a79697a29e2440ce14c&chksm=ce4612e4f9319bf28e6c95ec6cdd8c7e5ea9eb1930411a78583dd8b3624c01ca5f32c0e2a1c1#rd)  
-- [2022-01-28-2022年如何学习前沿技术，推荐关注这些10年左右的大佬](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485272&idx=2&sn=d8a0fcea0d17e97d78dd78f0e140ca8a&chksm=ce4612c9f9319bdf339a22067847880fa9a5bbfa5f2692536524b18cb6c6e6793af7a59b3870#rd)  
 - [2022-01-28-2年经验跳槽字节跳动系的公司，好像很稳啊！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485272&idx=1&sn=a40f0b6c03421b8e3f44308b07bf62b2&chksm=ce4612c9f9319bdf66fdae3cff2cad041c75ddbc22322f6d66a26c148906e629d7d76700077e#rd)  
+- [2022-01-28-2022年如何学习前沿技术，推荐关注这些10年左右的大佬](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485272&idx=2&sn=d8a0fcea0d17e97d78dd78f0e140ca8a&chksm=ce4612c9f9319bdf339a22067847880fa9a5bbfa5f2692536524b18cb6c6e6793af7a59b3870#rd)  
 - [2022-01-27-React中的TS类型过滤原来是这么做的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485235&idx=1&sn=083d3023494ceb1cbb90ccc2ae80cf36&chksm=ce4612a2f9319bb4859f53d2d78de7bc42b86cc9cd5d1f6961114aacaa9f0f0e2749cd056d3d#rd)  
 - [2022-01-26-想进阶Canvas吗？我熬夜写了3个有趣的小游戏！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485230&idx=1&sn=fbca66fb8092089d61edbb41e94e4b02&chksm=ce4612bff9319ba9c52c3773f9baf81418399235a579ea3fc5276aa282ba24b36b3f10a4f9bd#rd)  
 - [2022-01-25-我是如何在项目中实现大文件分片上传，暂停续传的](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485115&idx=1&sn=620b1462e8d81f22006febb1411a60ab&chksm=ce46132af9319a3cbdb30f8d0bfdd5f0f936a950a6631ead6ccc1638e28c6c53aec11017ce9f#rd)  
@@ -227,8 +228,8 @@
 </summary>
 
 
-- [2022-02-04-和-loading-界面说-ByeBye](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503068&idx=1&sn=b86e4c23b44c1c3b8d3fa8bdd915c600&chksm=f992ca0dcee5431bed06d208e03b38c119820eb4c7f4461e6b7c1793a82098bc91052f3a28b9#rd) ![](/assets/new.png)  
-- [2022-02-04-这些前端公众号大佬值得你学习！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503068&idx=2&sn=50308348c25e02ac1d907fd05658526d&chksm=f992ca0dcee5431bd63c32e2943c582c6f3598c3f0b9022212116a498188901cf0e56d1693dd#rd) ![](/assets/new.png)  
+- [2022-02-04-和-loading-界面说-ByeBye](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503068&idx=1&sn=b86e4c23b44c1c3b8d3fa8bdd915c600&chksm=f992ca0dcee5431bed06d208e03b38c119820eb4c7f4461e6b7c1793a82098bc91052f3a28b9#rd)  
+- [2022-02-04-这些前端公众号大佬值得你学习！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503068&idx=2&sn=50308348c25e02ac1d907fd05658526d&chksm=f992ca0dcee5431bd63c32e2943c582c6f3598c3f0b9022212116a498188901cf0e56d1693dd#rd)  
 - [2022-02-03-10-个-JS-解构赋值相关的知识点](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=2&sn=d91f4638fcde81ac67078f889784f2b3&chksm=f992ca07cee54311dbd646e633ae10847b655198d361c78f73857e0d3fafd06b19472479edb6#rd)  
 - [2022-02-03-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=1&sn=f55e5a45c03675aa314f686c3b2990b3&chksm=f992ca07cee543111add51c18d8ac90c2b85ffea5ac9f74650d643891cc0ca575f7ae7fa51d1#rd)  
 - [2022-01-30-速抢虎年限量超萌动态红包封面！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503055&idx=1&sn=d375a2ca3645b90b8b5e4e64cba3014f&chksm=f992ca1ecee5430838744d3b8a6c222fd3ad0a152abc642fea5da295cb73f30e2ca807a00cd5#rd)  
