@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 08:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-08 12:00:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -197,6 +197,7 @@
 - [2022-01-19-成为自信的node.js开发者（一）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=3&sn=f9633a5ff2b7fcd9b436bc3b5d2ae029&chksm=87c421afb0b3a8b93f94a14ed5a3c91fdd9d9f90ce1d050b3c96e2324788b22434eea6cdedb3#rd) 
 - [2022-01-16-简析-Node.js-特点与应用场景让你更了解它](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060887&idx=3&sn=6dd52cfdc127cb03dcf630949a27658d&chksm=87c42187b0b3a89195b0d7c6f0029f5a61af3636a6a195da8edd3d0f289049809f59b065e2c5#rd) 
 - [2022-01-01-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=3&sn=3ee0c658dd84a6e481bb3cc14e502a04&chksm=87c42134b0b3a822122a78b3bb676d122c0fbcd280dc9facd0c19e7cbe4b638ab09b283c590d#rd) 
+- [2022-02-08-原生-fetch-进-Node.js](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503100&idx=2&sn=d1af279eb0d9d3a72971358294fa86ac&chksm=f992ca2dcee5433bcc14196137f4e4b42786038b37a0493e11acc9ed2041c8862dcd673c3595#rd) 
 - [2022-01-21-腾讯云十亿级-Node.js-网关的架构设计与工程实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502740&idx=1&sn=76d36340db8a8399c7701731f4bcc26b&chksm=f992cd45cee544535a527c76851edd96f4b30e3457126fd416425d10967682d0bd6f2a846a96#rd) 
 - [2022-01-18-NVS-——-js-实现的node版本管理工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502680&idx=2&sn=787ec94e95be9691cd8faa0e7670bd57&chksm=f992cd89cee5449fff99ae3c57feb6f7f8b5617186aa9716fdb65a52f8093a68749b804040ad#rd) 
 - [2022-01-16-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502647&idx=2&sn=25e2103d8df79ea4e3b982e347e1a244&chksm=f992cde6cee544f060618cf9a52e70efb8808fee6838194dcf3376e4cbac34f71ca794fa48f1#rd) 
