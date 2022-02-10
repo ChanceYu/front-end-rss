@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-04 06:00:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 06:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
 - [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422) 
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 

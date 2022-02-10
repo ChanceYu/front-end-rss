@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 18:00:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 06:00:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) ![](/assets/new.png)  
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423)  
 - [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)  
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421)  
@@ -106,26 +107,26 @@
 </summary>
 
 
-- [2022-02-09-阿里二面被问-Promise-原理，10:03进去的，10:08就出来了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=1&sn=acb056209f5395a9e326a53289ecea56&chksm=8022fff7b75576e1485243765313f7eff6c46da619ea04405046aa5e9442521bd8fdac4669d0#rd)  
-- [2022-02-09-时隔一年半，我，一个卑微的前端菜鸡，又来写面经了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=2&sn=176bee26225cb7672a3127e0081e6faa&chksm=8022fff7b75576e1501c3cd7b0244d50598eba84fa4b70c8488b56962a8856dd9a1adf2de5ff#rd)  
+- [2022-02-10-谈谈我这些年对前端框架的理解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597129&idx=1&sn=c2c75df669f44b656d16f44d2643d3fa&chksm=8022fe88b755779eaf1265cec463bcde809d01940f4a79f2c8531d025a0d423a88f328c1a88f#rd) ![](/assets/new.png)  
+- [2022-02-10-使用-Rust-编写更快的-React-组件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597129&idx=2&sn=d79e0a131ca9eef79cb53a23d07c6c40&chksm=8022fe88b755779e99cdbcb2d339e6bc7ee333152d4eb4f82ff5d799d01157a00cebb7bf8488#rd) ![](/assets/new.png)  
 - [2022-02-09-使用-Jenkins-部署微前端方案实践总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=3&sn=b3946026bb0cf99d08234305f4eba0f5&chksm=8022fff7b75576e16710154485be2c1e1ec4074ffea7b9918b1b63df3c48d2e7ed37a4991a1e#rd)  
-- [2022-02-08-深入聊聊-JavaScript-框架](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596847&idx=3&sn=53578159940df68d58dcd7b5f82ad435&chksm=8022ffeeb75576f80ef5d42b9fc9390b2c0bdb6100949259bbd2209ff3d7b4afedb72d673234#rd)  
-- [2022-02-08-Wasm-为-Web-开发带来无限可能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596847&idx=2&sn=9f51450f890a0460c4a157dc9723a677&chksm=8022ffeeb75576f8da56eed9b46584adc6744bcc407459da649e50705bbe13a9d41c368cee37#rd)  
+- [2022-02-09-时隔一年半，我，一个卑微的前端菜鸡，又来写面经了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=2&sn=176bee26225cb7672a3127e0081e6faa&chksm=8022fff7b75576e1501c3cd7b0244d50598eba84fa4b70c8488b56962a8856dd9a1adf2de5ff#rd)  
+- [2022-02-09-阿里二面被问-Promise-原理，10:03进去的，10:08就出来了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=1&sn=acb056209f5395a9e326a53289ecea56&chksm=8022fff7b75576e1485243765313f7eff6c46da619ea04405046aa5e9442521bd8fdac4669d0#rd)  
 - [2022-02-08-想进大厂做前端，代码质量和项目经验需要到这个程度才行...](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596847&idx=1&sn=adb1f4ce2a293ab10c3cae390692c0b2&chksm=8022ffeeb75576f8b408705a1610839dabfc08d108cb828995d9f1ab5eed767aba6a06d16058#rd)  
-- [2022-02-07-给年薪不到58w的前端提个醒！！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596797&idx=1&sn=debca80e8c450f0da30bd3f3f8cb084a&chksm=8022f03cb755792a4319eb65b45f02c988c3233da4bb8b359c7529767497a16b76de2e3dbd54#rd)  
-- [2022-02-07-前端高效开发必备的-js-库梳理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596797&idx=2&sn=1a6be444c3ef04b07db5b9e8cdacb779&chksm=8022f03cb755792a1324c4f746af18459cd24a65aa0e614593c4311350565f6cdf9399effcef#rd)  
+- [2022-02-08-Wasm-为-Web-开发带来无限可能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596847&idx=2&sn=9f51450f890a0460c4a157dc9723a677&chksm=8022ffeeb75576f8da56eed9b46584adc6744bcc407459da649e50705bbe13a9d41c368cee37#rd)  
+- [2022-02-08-深入聊聊-JavaScript-框架](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596847&idx=3&sn=53578159940df68d58dcd7b5f82ad435&chksm=8022ffeeb75576f80ef5d42b9fc9390b2c0bdb6100949259bbd2209ff3d7b4afedb72d673234#rd)  
 - [2022-02-07-我写-CSS-的常用套路](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596797&idx=3&sn=086e4687201fea7f1cfd6de2a6d07b5e&chksm=8022f03cb755792ae18b33cb3ec8014f31fcc90230365f013e5e4adddd51a1d5b545bf430de5#rd)  
-- [2022-02-06-网页动画的十二原则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596052&idx=2&sn=4218b734ec39c4183bbf43a3b67601ea&chksm=8022f2d5b7557bc37b5958ec6f2ad433f427f6717c39fc6ef4abfd76c5f1188f73e4e6c1ff36#rd)  
+- [2022-02-07-前端高效开发必备的-js-库梳理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596797&idx=2&sn=1a6be444c3ef04b07db5b9e8cdacb779&chksm=8022f03cb755792a1324c4f746af18459cd24a65aa0e614593c4311350565f6cdf9399effcef#rd)  
+- [2022-02-07-给年薪不到58w的前端提个醒！！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596797&idx=1&sn=debca80e8c450f0da30bd3f3f8cb084a&chksm=8022f03cb755792a4319eb65b45f02c988c3233da4bb8b359c7529767497a16b76de2e3dbd54#rd)  
 - [2022-02-06-用了这么久的-Chrome，你不会还没掌握这个功能吧？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596052&idx=1&sn=7cd500ce711fee3a78a1334a76bd3ad0&chksm=8022f2d5b7557bc3e728bda832667e34cf208d729c01dc316c6cc0bef1833226885fc0d94292#rd)  
-- [2022-01-29-Vue-项目前端多语言方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595947&idx=1&sn=bdf57b8a33162e421cbdbaa4a1565dc7&chksm=8022f36ab7557a7c6c6e4dc8e6462f88a19b88f9729e6210b39e76dcfbbf7f2734214255fe93#rd)  
+- [2022-02-06-网页动画的十二原则](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596052&idx=2&sn=4218b734ec39c4183bbf43a3b67601ea&chksm=8022f2d5b7557bc37b5958ec6f2ad433f427f6717c39fc6ef4abfd76c5f1188f73e4e6c1ff36#rd)  
 - [2022-01-29-如何像导入-JS-模块一样导入-CSS？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595947&idx=2&sn=d1a7546efc5271b42aa2bcb77f74929e&chksm=8022f36ab7557a7c7760fe02217bca1cb8dca505c0c269841a735d604687b1e5ced02780687a#rd)  
-- [2022-01-28-前端领域如何实现请求中断](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595931&idx=2&sn=cfffa76eb9d5e809ed8f3d2cdf5cc3c1&chksm=8022f35ab7557a4cec321f8c5fd599d8444e4d3a79114342df4eb9aea5cf649fc9f72c453b4e#rd)  
+- [2022-01-29-Vue-项目前端多语言方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595947&idx=1&sn=bdf57b8a33162e421cbdbaa4a1565dc7&chksm=8022f36ab7557a7c6c6e4dc8e6462f88a19b88f9729e6210b39e76dcfbbf7f2734214255fe93#rd)  
 - [2022-01-28-JavaScript-新一代构建工具对比](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595931&idx=1&sn=1e011edd392d4f7b66c1a43331e0d2c7&chksm=8022f35ab7557a4cf399aa0f15bd1dadadd4487f5ac43649dbc0e02d93ba9eeb5f10e57fdcd9#rd)  
-- [2022-01-27-Vue-涉及国家安全漏洞？尤雨溪亲自回应](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595928&idx=1&sn=dd0e94fa4049ab862294588821a2fefe&chksm=8022f359b7557a4f5b09b2e67855178ddbaf9652f6b4827c91589745cda3acfe1f523e098cfc#rd)  
+- [2022-01-28-前端领域如何实现请求中断](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595931&idx=2&sn=cfffa76eb9d5e809ed8f3d2cdf5cc3c1&chksm=8022f35ab7557a4cec321f8c5fd599d8444e4d3a79114342df4eb9aea5cf649fc9f72c453b4e#rd)  
 - [2022-01-27-基于-TypeScript/Node-从-0-到-1-搭建一款爬虫工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595928&idx=2&sn=eb1a27b7d649a45606896519b75c0cea&chksm=8022f359b7557a4f5895541b650f1b48a87445a64a4012ead472bd1f1e1bbcd791def2c99527#rd)  
-- [2022-01-26-你需要知道的-19-个-console-实用调试技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595916&idx=2&sn=5b9a3efe8e0c9dc27645d76c67dcbed8&chksm=8022f34db7557a5b23153dd408f73929a6a4afc5e9f239d6298ef771eb1e20211aca21fb8b0b#rd)  
+- [2022-01-27-Vue-涉及国家安全漏洞？尤雨溪亲自回应](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595928&idx=1&sn=dd0e94fa4049ab862294588821a2fefe&chksm=8022f359b7557a4f5b09b2e67855178ddbaf9652f6b4827c91589745cda3acfe1f523e098cfc#rd)  
 - [2022-01-26-面试官：如何中断已发出去的请求？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595916&idx=1&sn=5672fee1ce2c0b987ef0c3fa72029e15&chksm=8022f34db7557a5b76579754ecbe30aac06593128224d280dc2ead080b93d43988f4fc6b880e#rd)  
-- [2022-01-25-15-张图，20-分钟吃透-Diff-算法核心原理，我说的！！！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595915&idx=1&sn=8c535a7225fce4f0017b459f52558458&chksm=8022f34ab7557a5c8a0b19f2bbb39add296f1e7ade133dde7b9aa69070397c8aafdef5851a4c#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -230,8 +231,8 @@
 </summary>
 
 
-- [2022-02-10-字节跳动的微组件和代码共享实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503125&idx=1&sn=c6282149589a4204f4f9e541dab04e3a&chksm=f992cbc4cee542d2144d4117c34beaa0d47c256f99c3c416358d0cf773255f541a09ef083234#rd) ![](/assets/new.png)  
-- [2022-02-10-你可能并不需要微前端](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503125&idx=2&sn=a6df9b17d8c899d3c5448838225cd9ea&chksm=f992cbc4cee542d25b0533fa614a619f745018709790ac349ec8473f22a1b5882f2359153cc3#rd) ![](/assets/new.png)  
+- [2022-02-10-字节跳动的微组件和代码共享实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503125&idx=1&sn=c6282149589a4204f4f9e541dab04e3a&chksm=f992cbc4cee542d2144d4117c34beaa0d47c256f99c3c416358d0cf773255f541a09ef083234#rd)  
+- [2022-02-10-你可能并不需要微前端](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503125&idx=2&sn=a6df9b17d8c899d3c5448838225cd9ea&chksm=f992cbc4cee542d25b0533fa614a619f745018709790ac349ec8473f22a1b5882f2359153cc3#rd)  
 - [2022-02-09-点赞动画还可以做得那么飘逸！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503115&idx=3&sn=a6677331aa92715f1a50ac43615e5980&chksm=f992cbdacee542cc010f268734cab45697b156b2ba665e93400701f701e7380135332aff0299#rd)  
 - [2022-02-09-2022-年最新前端-Vue-项目重构总结](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503115&idx=2&sn=79be94f67ac9e059c1fa8b93e54d0da6&chksm=f992cbdacee542cc4f1c9712800e0aca3ae90ee6731e87ef027c098e1d8f6718eab2fca3d456#rd)  
 - [2022-02-09-又到金三银四，还敢不重视-Webpack-打包原理吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503115&idx=1&sn=b90225ce9e2ad2ec0a51200e6829404a&chksm=f992cbdacee542cc61eb21096cac7fe35ee146f7c9d15e2974e936d85ca1f3e111d8cf995fe4#rd)  
