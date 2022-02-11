@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 06:00:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 12:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) ![](/assets/new.png)  
+- [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)  
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423)  
 - [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)  
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421)  
@@ -107,8 +107,8 @@
 </summary>
 
 
-- [2022-02-10-谈谈我这些年对前端框架的理解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597129&idx=1&sn=c2c75df669f44b656d16f44d2643d3fa&chksm=8022fe88b755779eaf1265cec463bcde809d01940f4a79f2c8531d025a0d423a88f328c1a88f#rd) ![](/assets/new.png)  
-- [2022-02-10-使用-Rust-编写更快的-React-组件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597129&idx=2&sn=d79e0a131ca9eef79cb53a23d07c6c40&chksm=8022fe88b755779e99cdbcb2d339e6bc7ee333152d4eb4f82ff5d799d01157a00cebb7bf8488#rd) ![](/assets/new.png)  
+- [2022-02-10-谈谈我这些年对前端框架的理解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597129&idx=1&sn=c2c75df669f44b656d16f44d2643d3fa&chksm=8022fe88b755779eaf1265cec463bcde809d01940f4a79f2c8531d025a0d423a88f328c1a88f#rd)  
+- [2022-02-10-使用-Rust-编写更快的-React-组件](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597129&idx=2&sn=d79e0a131ca9eef79cb53a23d07c6c40&chksm=8022fe88b755779e99cdbcb2d339e6bc7ee333152d4eb4f82ff5d799d01157a00cebb7bf8488#rd)  
 - [2022-02-09-使用-Jenkins-部署微前端方案实践总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=3&sn=b3946026bb0cf99d08234305f4eba0f5&chksm=8022fff7b75576e16710154485be2c1e1ec4074ffea7b9918b1b63df3c48d2e7ed37a4991a1e#rd)  
 - [2022-02-09-时隔一年半，我，一个卑微的前端菜鸡，又来写面经了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=2&sn=176bee26225cb7672a3127e0081e6faa&chksm=8022fff7b75576e1501c3cd7b0244d50598eba84fa4b70c8488b56962a8856dd9a1adf2de5ff#rd)  
 - [2022-02-09-阿里二面被问-Promise-原理，10:03进去的，10:08就出来了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596854&idx=1&sn=acb056209f5395a9e326a53289ecea56&chksm=8022fff7b75576e1485243765313f7eff6c46da619ea04405046aa5e9442521bd8fdac4669d0#rd)  
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2022-02-11-科技爱好者周刊（第-194-期）：悲观者正确，乐观者成功](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html) ![](/assets/new.png)  
 - [2022-02-04-万兆家庭网络的时代](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)  
 - [2022-01-28-命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)  
 - [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html)  
@@ -343,7 +344,6 @@
 - [2021-10-22-科技爱好者周刊（第-180-期）：你想住在中国哪里？](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html)  
 - [2021-10-15-科技爱好者周刊（第-179-期）：AR-技术的打开方式](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html)  
 - [2021-10-08-科技爱好者周刊（第-178-期）：家庭太阳能发电的春天](http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html)  
-- [2021-09-29-JavaScript-侦测手机浏览器的五种方法](http://www.ruanyifeng.com/blog/2021/09/detecting-mobile-browser.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
