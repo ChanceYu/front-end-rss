@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 06:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-15 08:02:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -38,8 +38,8 @@
 - [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) 
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd) 
 - [2019-06-26-【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) 
-- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
 - [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
+- [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) 
 - [2019-03-23-【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd) 
 - [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
@@ -200,6 +200,7 @@
 - [2022-01-19-成为自信的node.js开发者（一）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=3&sn=f9633a5ff2b7fcd9b436bc3b5d2ae029&chksm=87c421afb0b3a8b93f94a14ed5a3c91fdd9d9f90ce1d050b3c96e2324788b22434eea6cdedb3#rd) 
 - [2022-01-16-简析-Node.js-特点与应用场景让你更了解它](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060887&idx=3&sn=6dd52cfdc127cb03dcf630949a27658d&chksm=87c42187b0b3a89195b0d7c6f0029f5a61af3636a6a195da8edd3d0f289049809f59b065e2c5#rd) 
 - [2022-01-01-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=3&sn=3ee0c658dd84a6e481bb3cc14e502a04&chksm=87c42134b0b3a822122a78b3bb676d122c0fbcd280dc9facd0c19e7cbe4b638ab09b283c590d#rd) 
+- [2022-02-14-为什么说-Node.js-是实时应用程序开发的绝佳选择](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503214&idx=2&sn=5581a5b0876f1ada7e80ebef2647f968&chksm=f992cbbfcee542a9b3f30d2b5f485b95e61837e48456d631d37dc33a911a2b89879df4868cec#rd) 
 - [2022-02-08-原生-fetch-进-Node.js](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503100&idx=2&sn=d1af279eb0d9d3a72971358294fa86ac&chksm=f992ca2dcee5433bcc14196137f4e4b42786038b37a0493e11acc9ed2041c8862dcd673c3595#rd) 
 - [2022-01-21-腾讯云十亿级-Node.js-网关的架构设计与工程实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502740&idx=1&sn=76d36340db8a8399c7701731f4bcc26b&chksm=f992cd45cee544535a527c76851edd96f4b30e3457126fd416425d10967682d0bd6f2a846a96#rd) 
 - [2022-01-18-NVS-——-js-实现的node版本管理工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502680&idx=2&sn=787ec94e95be9691cd8faa0e7670bd57&chksm=f992cd89cee5449fff99ae3c57feb6f7f8b5617186aa9716fdb65a52f8093a68749b804040ad#rd) 

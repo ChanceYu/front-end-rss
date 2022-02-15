@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 06:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-15 08:02:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,6 +8,7 @@
 
 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
+- [2022-02-15-【第2529期】Mpx2.7版本正式发布，大幅提升编译构建速度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252617&idx=1&sn=a35567cc6d74706f93077ed30149987e&chksm=bd493e0d8a3eb71b925118adca134fa67c7ecaa318f49953a9f7b8678fd9e8bcdfd8fa5de8b9#rd) 
 - [2022-01-17-【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd) 
 - [2022-01-16-【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd) 
 - [2022-01-15-【PPT】蚂蚁集团@零弌：一种秒级安装-npm-的黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=2&sn=d0606543afeb50b0ce6cf855270b8f84&chksm=bd493fad8a3eb6bb22a6d0c75c2b7bcb150cbd82ed3215a42d8b357a88f7bdb10323508405d6#rd) 
@@ -37,8 +38,8 @@
 - [2020-08-18-20k以上面试必问，Webpack原理和优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238975&idx=1&sn=e45e03236d319d7ea1fa81bffa7861a7&chksm=bd496bbb8a3ee2add515e4b4ad3bdc16b986b82740fcde91386381dd6061587af0b673fa0793&scene=27#wechat_redirect) 
 - [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238188&idx=1&sn=9095586f9e2be4727a868b9fab746221&chksm=bd4976a88a3effbe4d38d46410518a58ba250673ff93e637c8b76ad5efa908dd1bf62fc4e99d&scene=27#wechat_redirect) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237597&idx=1&sn=29d7c2d32920e575ec256a020ebc209c&chksm=bd4975598a3efc4f9bfe19ea8bbf7b57e5c9cd44d6ad184d68bce399b2400897b4e7ac264263&scene=27#wechat_redirect) 
-- [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
 - [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd) 
+- [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
 - [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect) 
 - [2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd) 
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect) 
@@ -60,8 +61,8 @@
 - [2018-12-22-【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect) 
 - [2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect) 
 - [2018-12-02-【第1464期】babel7使用手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230594&idx=1&sn=85776d694c8c389c1a529a0f7c13ed70#wechat_redirect) 
-- [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
+- [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
 - [2022-02-14-又到金三银四，还敢不重视-Webpack-打包原理吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597308&idx=1&sn=9d4e4678355e43e0e59958eb6d847f35&chksm=8022fe3db755772be00e1e6591652124b143c42600ceaf2735752b0bb8a253be9d8513487bf0#rd) 
 - [2022-02-13-Webpack5-核心打包原理全流程解析，看这一篇就够了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597307&idx=2&sn=827d6d56272789b92e69e05f6f78ead1&chksm=8022fe3ab755772c1a09cacab690b3245cdea13a560bd02a479799bbd44236e5676eac7ea975#rd) 
@@ -184,6 +185,8 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2022-02-13-手写一个webpack，看看AST怎么用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503188&idx=3&sn=0cc3e6a49efcc5c13a29bcdcef8097f9&chksm=f992cb85cee54293c848955c386aa5d13c1429e6bca7b4bd7f0d3842e8d758feba20475ceace#rd) 
+- [2022-02-12-当webpack有了vite的速度你会喜欢吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503175&idx=2&sn=a8aaf510590d924c7e8a42a0d4bc55bf&chksm=f992cb96cee54280da8ec61cc1a981aff0d999bc7f53d36fd701eaf82a173a9c7f88058f6c22#rd) 
 - [2022-02-09-又到金三银四，还敢不重视-Webpack-打包原理吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503115&idx=1&sn=b90225ce9e2ad2ec0a51200e6829404a&chksm=f992cbdacee542cc61eb21096cac7fe35ee146f7c9d15e2974e936d85ca1f3e111d8cf995fe4#rd) 
 - [2022-02-03-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503062&idx=1&sn=f55e5a45c03675aa314f686c3b2990b3&chksm=f992ca07cee543111add51c18d8ac90c2b85ffea5ac9f74650d643891cc0ca575f7ae7fa51d1#rd) 
 - [2022-01-25-一文彻底读懂ESLint](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502771&idx=1&sn=160962347281b92b7bf47016a8d2027d&chksm=f992cd62cee5447497d75055eed9bac85175c480d43caf5ed98d1972a1ab31b5f54f5b7e44f9#rd) 
