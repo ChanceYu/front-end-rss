@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-16 12:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-16 18:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -82,6 +82,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2022-02-15-肝完《浏览器基本原理与实践》后，我总结了这-36-点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597486&idx=2&sn=de54224daa31b7ff58e1c5bdc01314ca&chksm=8022fd6fb75574796d3dfd79ce652786bdbf94d17d85f1ded316697826e2b1115d444ccb5329#rd) 
 - [2022-02-06-用了这么久的-Chrome，你不会还没掌握这个功能吧？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651596052&idx=1&sn=7cd500ce711fee3a78a1334a76bd3ad0&chksm=8022f2d5b7557bc3e728bda832667e34cf208d729c01dc316c6cc0bef1833226885fc0d94292#rd) 
 - [2022-01-28-前端领域如何实现请求中断](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595931&idx=2&sn=cfffa76eb9d5e809ed8f3d2cdf5cc3c1&chksm=8022f35ab7557a4cec321f8c5fd599d8444e4d3a79114342df4eb9aea5cf649fc9f72c453b4e#rd) 
 - [2022-01-26-面试官：如何中断已发出去的请求？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595916&idx=1&sn=5672fee1ce2c0b987ef0c3fa72029e15&chksm=8022f34db7557a5b76579754ecbe30aac06593128224d280dc2ead080b93d43988f4fc6b880e#rd) 
@@ -267,6 +268,7 @@
 - [2018-11-16-图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect) 
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
 - [2022-01-19-Chrome-DevTools:-修改User-Agent，定制个性化UA](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=1&sn=14f8cc7eb94db6cb06351782681c4875&chksm=87c421afb0b3a8b9a843999348abbef6bc0271530370b7c4c5f3c1a7ca2eea253fdf72e55c10#rd) 
+- [2022-02-15-学会这篇就够了，彻底弄懂前端缓存](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503223&idx=2&sn=6528635d4ebf2cc98808343de1e285be&chksm=f992cba6cee542b0ea704dcce501b2bfbc7811587040da4446190a6bbf90c185c615418fe715#rd) 
 - [2022-02-06-石墨文档是如何通过-WebSocket-实现百万长连接的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503082&idx=1&sn=d2f9370fea9684cd6b33cfc4f9bededf&chksm=f992ca3bcee5432dd62f4630f24deffd1f0d153a2d616d617bb55ae8eadd2470d7d90b0f9211#rd) 
 - [2022-01-28-干货！移动端真机调试指南，对调试说easy](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502821&idx=2&sn=ff1046e41eba9a32359339318a1630fc&chksm=f992cd34cee54422bc4aa5b767c830cffa4c60a698da1a27f35bcf5177873d1cd4191fbfee61#rd) 
 - [2022-01-26-换一种风格理解-Chrome-浏览器渲染全过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502811&idx=1&sn=f4fc4f4c522625a1fa2f9554557a668d&chksm=f992cd0acee5441c4e191ce4c6e2f92a3b6af1f4831d449bf46a5adeb6aa7274bce66ec684fd#rd) 
