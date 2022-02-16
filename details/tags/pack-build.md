@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-16 18:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-17 06:00:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -179,6 +179,7 @@
 - [2019-01-12-你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect) 
 - [2018-12-10-NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2022-02-16-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061208&idx=3&sn=74725ced9ee0c945be8a350fdf2248ee&chksm=87c420c8b0b3a9ded8ad5ccee87bc9fd7a4cb3e5bf474ae7e7e2db4824b1e2952593a663f4d5#rd) 
 - [2022-02-12-前端工程师需要了解的-Babel-知识](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061051&idx=3&sn=df98f335fbe95810ae299daab8cb18c9&chksm=87c4202bb0b3a93d1d9797b41292eb104b762758262ec58b3f68039913a150ec3707c19d56b1#rd) 
 - [2022-01-22-一文精通-Webpack-构建流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060935&idx=2&sn=3351595ab8ac1dad314e0efda7adb0a2&chksm=87c421d7b0b3a8c1d19300c510cf3cac2255797b9db722bb9d263ae288d7c55c3143c49e5f1f#rd) 
 - [2022-01-20-前端也要懂编译：Babel-全景上手指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060928&idx=2&sn=60165136873388cdffae3a2e947054c6&chksm=87c421d0b0b3a8c61896dd405aef1ee5416c7f8f7678b6dd08ac0e62be6dd20cb27def918dcd#rd) 
