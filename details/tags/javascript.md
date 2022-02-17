@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-17 18:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-17 22:00:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -620,6 +620,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-02-17-阿里二面被问-Promise-原理，10:03进去的，10:08就出来了…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485539&idx=1&sn=b8eb9181ddc5b8da1a44d4568d2debcb&chksm=ce461df2f93194e48d9ae40315851527620eb85ed3a0baef7f45f0792827e01ad5ca31741726#rd) 
 - [2022-02-15-Promise.all-的异常处理，我希望大家一定要了解一下！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485479&idx=1&sn=a30b59699d463954426ccda4b07f67f7&chksm=ce461db6f93194a0f1efe74b3684b055d9c76c079819ade4685b0bc164d9fe4da7d3ec6f43c7#rd) 
 - [2022-02-10-async/await-你是会用，但是你知道怎么处理错误吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485436&idx=1&sn=af6407899904bf64fde33f7606ed0d03&chksm=ce46126df9319b7b8367b27d5250b02b43015b4d4564925fe4a175fb30d0b415cbc745e9d8dc#rd) 
 - [2022-02-09-70%的人不知道-package-lock.json-这个文件有啥用](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485429&idx=1&sn=185e1221cde3769458bb3919b40941e2&chksm=ce461264f9319b727b29c1acd4dec17987c182f0be2bb38c8deb1c4dba815f32644c433b1b0d#rd) 
