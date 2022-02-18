@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-18 22:00:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-02-19 06:00:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577)
 - [【JavaScript-Weekly】The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576)
 - [【JavaScript-Weekly】Parcel.js-2.2-and-Eleventy-1.0](https://javascriptweekly.com/issues/572)
 - [【JavaScript-Weekly】The-rising-stars-of-JS-in-2021](https://javascriptweekly.com/issues/571)
@@ -346,7 +347,6 @@
 - [【前端早读课】【第2315期】JavaScript代码整洁之道-变量篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247181&idx=1&sn=bc7e4e1156ed020de8627708d0ce466a&chksm=bd490bc98a3e82df53860d6dd0dd20a7179ac1d57eaaa4c4c5e436743f427e66310a3c0ab5ba&scene=27#wechat_redirect)
 - [【前端早读课】【第2313期】JavaScript-代码整洁之道---重构篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247157&idx=1&sn=3ce01f9766e7bcf8229b847378854717&chksm=bd490bb18a3e82a73d19aeb559aa23b70f858091292a7619161248fb64d953560c80f2a7895e&scene=27#wechat_redirect)
 - [【前端早读课】【第2307期】JavaScript代码整洁之道-注释篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247011&idx=1&sn=b49b1248a6aab4c422e9626742c562ec&chksm=bd4908278a3e8131e62c7545c58cb311fe36498349f26cce054fdfab28a238647dbc37f76f0a&scene=27#wechat_redirect)
-- [【前端早读课】【第2306期】JavaScript代码整洁之道-异常处理篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246995&idx=1&sn=643bbb95346fb47b7433338a39a5e82b&chksm=bd4908178a3e810188b525908a996a5a448bac95bad9d789549bd5033c99a3a61a8ac683d052&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
