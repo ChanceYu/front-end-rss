@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-21 08:00:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-21 18:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -186,6 +186,7 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2022-02-21-从零开始发布自己的NPM包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503420&idx=3&sn=04b434d32742e4639cc9f37153abcf58&chksm=f992c8edcee541fb02a108a285bcf8db5a0da6cd79bb35fbcf9878ef2f4c57b870273bbbb100#rd) 
 - [2022-02-13-手写一个webpack，看看AST怎么用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503188&idx=3&sn=0cc3e6a49efcc5c13a29bcdcef8097f9&chksm=f992cb85cee54293c848955c386aa5d13c1429e6bca7b4bd7f0d3842e8d758feba20475ceace#rd) 
 - [2022-02-12-当webpack有了vite的速度你会喜欢吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503175&idx=2&sn=a8aaf510590d924c7e8a42a0d4bc55bf&chksm=f992cb96cee54280da8ec61cc1a981aff0d999bc7f53d36fd701eaf82a173a9c7f88058f6c22#rd) 
 - [2022-02-09-又到金三银四，还敢不重视-Webpack-打包原理吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503115&idx=1&sn=b90225ce9e2ad2ec0a51200e6829404a&chksm=f992cbdacee542cc61eb21096cac7fe35ee146f7c9d15e2974e936d85ca1f3e111d8cf995fe4#rd) 
