@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 22:00:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-23 06:00:22，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,10 +19,10 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -172,26 +172,26 @@
 </summary>
 
 
+- [2022-02-22-一年经验面试字节抖音电商，分享下面经！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485593&idx=1&sn=0c9c180a1d27f487a91158cc4cbf696c&chksm=ce461d08f931941e6d57f76c31cff23f7dddef7d89282888fe5bf1be28721658d41e817125fe#rd) ![](/assets/new.png)  
 - [2022-02-21-金三银四想跳槽的，要抓紧时间补补了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485589&idx=1&sn=a5e8907d0d912184141d4716404010c3&chksm=ce461d04f93194122f568b741591429c2376d2c4b2ff30746c77a2a87445454526bfd9bec961#rd)  
 - [2022-02-19-根据设计稿，计算出网页REM的大小，有那么难吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485588&idx=1&sn=c6a794e0effba3d13c351c7d1eff49fb&chksm=ce461d05f9319413d256b7fbadb91c3415497f1fe40cfe6382ed9aaa0808704c66345400f700#rd)  
 - [2022-02-18-不废话，代码实践带你掌握-强缓存、协商缓存！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485559&idx=1&sn=7b7bf150c0458f463410655b085d5cbe&chksm=ce461de6f93194f04c3e17f49225e09167cf83f0d51d540afac058f50ff825b767475160b6b3#rd)  
-- [2022-02-17-研究大佬写的倒计时组件Vue，学到了不少东西](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485539&idx=2&sn=69b52d35e34803cf3eb570ea5f871a8d&chksm=ce461df2f93194e4bbf2f2fb9ea94067fd9d4b743898d54133051755195299c3ffdfd14bee02#rd)  
 - [2022-02-17-阿里二面被问-Promise-原理，10:03进去的，10:08就出来了…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485539&idx=1&sn=b8eb9181ddc5b8da1a44d4568d2debcb&chksm=ce461df2f93194e48d9ae40315851527620eb85ed3a0baef7f45f0792827e01ad5ca31741726#rd)  
-- [2022-02-16-超全面的前端切图技巧！读这篇就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485495&idx=1&sn=ca8bea46f5657b7eff75f8bc4d5c9266&chksm=ce461da6f93194b0e12bc407c35ec6244ccbb3efbf6065a14a9a4431a810acfa5e0a4481e690#rd)  
+- [2022-02-17-研究大佬写的倒计时组件Vue，学到了不少东西](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485539&idx=2&sn=69b52d35e34803cf3eb570ea5f871a8d&chksm=ce461df2f93194e4bbf2f2fb9ea94067fd9d4b743898d54133051755195299c3ffdfd14bee02#rd)  
 - [2022-02-16-使用-React-hooks-监听系统的暗黑模式](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485495&idx=2&sn=d5a963f032ce071cb4d11e5b58ca10a3&chksm=ce461da6f93194b04733d97e83985f2a1795696194f0244fab3caad90836ef09c1bfa1b8abed#rd)  
-- [2022-02-15-分享一下这段时间认识的10位前端大佬](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485479&idx=2&sn=847475ad4a07274ca40c27eb051550b2&chksm=ce461db6f93194a08bcf032146cbc5d66682fc1a39bfcbc0a63e131073140c36d65fe65631c2#rd)  
+- [2022-02-16-超全面的前端切图技巧！读这篇就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485495&idx=1&sn=ca8bea46f5657b7eff75f8bc4d5c9266&chksm=ce461da6f93194b0e12bc407c35ec6244ccbb3efbf6065a14a9a4431a810acfa5e0a4481e690#rd)  
 - [2022-02-15-Promise.all-的异常处理，我希望大家一定要了解一下！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485479&idx=1&sn=a30b59699d463954426ccda4b07f67f7&chksm=ce461db6f93194a0f1efe74b3684b055d9c76c079819ade4685b0bc164d9fe4da7d3ec6f43c7#rd)  
+- [2022-02-15-分享一下这段时间认识的10位前端大佬](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485479&idx=2&sn=847475ad4a07274ca40c27eb051550b2&chksm=ce461db6f93194a08bcf032146cbc5d66682fc1a39bfcbc0a63e131073140c36d65fe65631c2#rd)  
 - [2022-02-14-首屏时间，你说你优化了，那你倒是计算出给给我看啊！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485467&idx=1&sn=deff9324c356ace275c2dbc4e6232e42&chksm=ce461d8af931949c2fa57375fa6c37556c3b8f551286e330b40159cd0819faf2ffc8c2a4a80f#rd)  
 - [2022-02-11-奇怪！生成网页水印，为啥总扯到-MutationObserver？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485447&idx=1&sn=309c2a7c185beba5c6c5b191564c24c5&chksm=ce461d96f9319480fcf4ccf1a3476970e199286624f64f745d6d9b5e2d21f39875c61bc54e63#rd)  
-- [2022-02-10-async/await-你是会用，但是你知道怎么处理错误吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485436&idx=1&sn=af6407899904bf64fde33f7606ed0d03&chksm=ce46126df9319b7b8367b27d5250b02b43015b4d4564925fe4a175fb30d0b415cbc745e9d8dc#rd)  
 - [2022-02-10-推荐几个高质量的前端大佬给大家](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485436&idx=2&sn=445f972ee9b343313113518b3382a75a&chksm=ce46126df9319b7b381596f7f486f41404f3c3f4e96ff13fe75dbd859ed5e9e4e37e0e1820b9#rd)  
+- [2022-02-10-async/await-你是会用，但是你知道怎么处理错误吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485436&idx=1&sn=af6407899904bf64fde33f7606ed0d03&chksm=ce46126df9319b7b8367b27d5250b02b43015b4d4564925fe4a175fb30d0b415cbc745e9d8dc#rd)  
 - [2022-02-09-70%的人不知道-package-lock.json-这个文件有啥用](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485429&idx=1&sn=185e1221cde3769458bb3919b40941e2&chksm=ce461264f9319b727b29c1acd4dec17987c182f0be2bb38c8deb1c4dba815f32644c433b1b0d#rd)  
 - [2022-02-08-月薪没到30k的前端开发注意了！这个消息跟你们息息相关...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485428&idx=1&sn=f5f49651bc7bf07dadf5e9f5f212cf46&chksm=ce461265f9319b7340fcfae7cda659aa32197c6fa32275a1146b2acc1d0f59d24ff976948c95#rd)  
 - [2022-02-07-大厂喜欢问的TreeShaking到底是啥？好在哪呢？5分钟弄懂！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485419&idx=1&sn=66b2bca3c9aa094e28d76dd497e0c751&chksm=ce46127af9319b6cbeb5b4cf05aa965b4003fb4682d1e3478bd10338a510364fd1062f70e9d1#rd)  
 - [2022-02-06-2年经验前端面试网易灵犀！太注重工程化了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485411&idx=1&sn=c0b0007921e1278d3f7b88bb5851274a&chksm=ce461272f9319b644bc81d5fcb8774fa38db5011ef98eb06290fbd028151ba86ea057be7e31f#rd)  
 - [2022-02-05-当年我校招时被这题难倒了！打包的3种hash值你知道吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485404&idx=1&sn=7579b6f7f82d6b125c0637a07b20ebf6&chksm=ce46124df9319b5b8f388d98d21732a41544832f9ee48cb521f600ae5a15d854f6c5e32221eb#rd)  
 - [2022-02-02-回老家做前端程序员？这薪资水平你们觉得咋样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485378&idx=1&sn=17c87043df68aeb4fc6388695172fc85&chksm=ce461253f9319b45f817a1c413e70677f2cd467ee19b44b9d89ce588b7775bce2f0acff6e7f8#rd)  
-- [2022-02-01-Web-Worker：为啥大厂这么喜欢问这玩意呢？有啥用？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485371&idx=1&sn=a6904ff82af7b16d4ece3a7187ea0d68&chksm=ce46122af9319b3c5d2e47a26af9a64d34da4d4511dbb8ea2cf994827ea1efdf00c5bf18adfe#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -203,8 +203,8 @@
 </summary>
 
 
-- [2022-02-22-优化-JS-程序的一个小方法](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061305&idx=1&sn=5e8bf98be4ffc22aa956fdbeabef1c03&chksm=87c42329b0b3aa3fdaf28bdb3ff9d5123b917f81a42201b36192f1fa88d027deed10e3f4db9b#rd) ![](/assets/new.png)  
-- [2022-02-22-你需要了解的有关-Node.js-的所有信息](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061305&idx=2&sn=92e9c889bc9f89e9263c8d8008f835c9&chksm=87c42329b0b3aa3f50ffea598bc539bf0f8ba8cd9e2c7b5948f3cb54ec36eb1a25f9fa6ae1b3#rd) ![](/assets/new.png)  
+- [2022-02-22-优化-JS-程序的一个小方法](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061305&idx=1&sn=5e8bf98be4ffc22aa956fdbeabef1c03&chksm=87c42329b0b3aa3fdaf28bdb3ff9d5123b917f81a42201b36192f1fa88d027deed10e3f4db9b#rd)  
+- [2022-02-22-你需要了解的有关-Node.js-的所有信息](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061305&idx=2&sn=92e9c889bc9f89e9263c8d8008f835c9&chksm=87c42329b0b3aa3f50ffea598bc539bf0f8ba8cd9e2c7b5948f3cb54ec36eb1a25f9fa6ae1b3#rd)  
 - [2022-02-21-金三银四想跳槽的，要抓紧时间补补了！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061267&idx=1&sn=56f1c62c57c5a6f5ac5e3502bd00af1d&chksm=87c42303b0b3aa1598e16d70b54c10f768ebb785396991f6a803e32bf204ab0d45f2492e7f88#rd)  
 - [2022-02-18-FlutterWeb性能优化探索与实践](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061240&idx=1&sn=2ec665f9c5ee70227066e7e976278e70&chksm=87c420e8b0b3a9fedebbed48ccbc74f2439504c84903cbf437ee50c6784b45688b6a41e2e5e2#rd)  
 - [2022-02-18-面试一定会问到的-js事件循环](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061240&idx=2&sn=ff4eabc155f52f4f8cc805cb307f4c43&chksm=87c420e8b0b3a9fe706453de4e77bff47c20c7c884c59accd4764816740ad9d1b529d38b0d0e#rd)  
@@ -265,6 +265,7 @@
 </summary>
 
 
+- [2022-02-22-谈谈性能优化---从用户体验聊起](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495366&idx=1&sn=41f2849f52833604e3eaee140450633c&chksm=ec47a505db302c13cdd878931907fed5d718e826e8bb883a3d5801d78c180971501cd730d77b#rd) ![](/assets/new.png)  
 - [2022-02-21-淘系前端架构---周刊---220221-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495365&idx=1&sn=4afd3eb191687efac64adaa350fe2bb3&chksm=ec47a506db302c10ce5b9adda29c90e4cb25be4bfbf26f8a959f4929d5bddf817810f7730248#rd)  
 - [2022-02-18-优化-JS-程序的一个小方法](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495318&idx=1&sn=c73fe92d195d90fd6db316f962bc9c41&chksm=ec47a555db302c435b6ec4caf08fce8064b3adb07feefe0d87eadb4db30150870a17e8888dd3#rd)  
 - [2022-02-17-浅谈-TS-标称类型介绍及社区实现](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495315&idx=1&sn=afc625022edda66f868c5a777b94fb2c&chksm=ec47a550db302c46c749c677da93f3ecc3ff7048d22b17a20d801453b0562c1710a80e1e94a1#rd)  
@@ -283,7 +284,6 @@
 - [2022-01-03-淘系前端架构---周刊---220103-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495016&idx=1&sn=7afc269ecad0e3d5da792e5c183f91f7&chksm=ec47a6abdb302fbd584d949dd36a33a202e6506a8e3b4a3c8906c3ecf208fe22962bbd822b1a#rd)  
 - [2021-12-21-如何提升前端线上问题发现率？我们是这样做的](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494969&idx=1&sn=83ab5495a96abe0a6abb0bc6a7961334&chksm=ec47a6fadb302fec270b95c7249c9ab41d392e4333bb5d3c9a4de462682d569af0e6790ffffe#rd)  
 - [2021-12-20-淘系前端架构---周刊---211220-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494952&idx=1&sn=f0faeba878fdb5693f2faa1d15ccf08d&chksm=ec47a6ebdb302ffd04fbd6154e94733fdb14f6171dc37dd7c7c1e45d1692fea82f9cf1b258b1#rd)  
-- [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd)  
 - [2021-12-16-前端工程师做“业务研发”或“基础技术”哪个更有前途？-|-D2-之夜辩论赛火热来袭啦！](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=2&sn=485db44ead6c294b23c1de3137fcfe46&chksm=ec47a6dedb302fc8b01105b7b084a9577db928b4a36f7d98fd04f39d1e49170a1b071fc62428#rd)  
 - [......【查看更多】......](/details/淘系前端团队.md)
 
