@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-24 12:00:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-02-25 06:00:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426)
 - [【Node-Weekly】Express-5-now-in-beta](https://nodeweekly.com/issues/425)
 - [【Node-Weekly】Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)
 - [【Node-Weekly】Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)
@@ -202,7 +203,6 @@
 - [【前端早读课】【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239050&idx=1&sn=50fd7836df43f54a8120898a1fa5f982&chksm=bd496b0e8a3ee21873e438fb49c9df1d5f018064caf3f5c5521e964a394d97eeccfc788805ea&scene=27#wechat_redirect)
 - [【前端早读课】【第2013期】用-puppeteer-实现网站自动分页截取的趣事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238356&idx=1&sn=eff8ca2ecb0479e17a840b0af57cb09c&chksm=bd4976508a3eff460675acf43f500c39cfd70fcea6af2e743548981a04ee7bf26294dad1fa1b&scene=27#wechat_redirect)
 - [【前端早读课】【第2004期】弄明白Deno与node的区别](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238071&idx=1&sn=4eac9506724407262c3d324f460d787a&chksm=bd4977338a3efe2562175c3bb5b1f49a17d3bd12e101f50fbb1a55db6c31c6798fa8e7043044&scene=27#wechat_redirect)
-- [【前端早读课】【第1984期】浅析-NodeJs-的几种文件路径](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237571&idx=2&sn=229fae8d1a2a52af2bcfdf8a1ff17596&chksm=bd4975478a3efc51f93047e24c96ddf8a9f1a4cf29deb0a564f1cd2eb3f463434829d994a98b&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
