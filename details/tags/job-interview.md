@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-24 08:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-24 12:00:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -324,6 +324,7 @@
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2022-02-22-一年经验面试字节抖音电商，分享下面经！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485593&idx=1&sn=0c9c180a1d27f487a91158cc4cbf696c&chksm=ce461d08f931941e6d57f76c31cff23f7dddef7d89282888fe5bf1be28721658d41e817125fe#rd) 
+- [2022-02-24-前端技术优选五群招人啦](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061308&idx=2&sn=f97210bf9525677464ec64622e7c687c&chksm=87c4232cb0b3aa3a48889969793612ed897e6a48dc59600327e308010e76ddcec2b973d6ee35#rd) 
 - [2022-02-12-字节跳动最爱考的前端面试题：计算机网络基础](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061051&idx=2&sn=ce6d24f920342971e87d9c9e6e5e48c4&chksm=87c4202bb0b3a93d92fa467662760803a13360b400abd65f3415bfa4a5f84a8eb4ffb2b060e7#rd) 
 - [2022-01-25-三年工作经验成功面试字节、阿里-P6-总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060937&idx=1&sn=39b613d35f3cddbf90cf0817b24a2860&chksm=87c421d9b0b3a8cf82522f7534bb86fd296bba7c9261999c52ef3c1d2cfa654feea5c9180bf3#rd) 
 - [2022-01-12-面试分享：三年工作经验成功面试字节、阿里-P6-总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060808&idx=1&sn=4ad4b235e2662b4fd40b854bd640eaa8&chksm=87c42158b0b3a84eb2d39bdca8c3e379951070e42415caf58b6ec96d6bc6fd435793d556ec16#rd) 
