@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 12:00:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-25 22:01:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,8 +23,8 @@
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -297,6 +297,7 @@
 </summary>
 
 
+- [2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/) ![](/assets/new.png)  
 - [2022-02-21-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/)  
 - [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/)  
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)  
@@ -316,7 +317,6 @@
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)  
 - [2021-09-24-HTML-slot-插槽元素深入](https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/)  
 - [2021-09-14-借助HTML-ping属性实现数据上报](https://www.zhangxinxu.com/wordpress/2021/09/html-ping/)  
-- [2021-09-12-APNG在线制作、兼容、播放和暂停](https://www.zhangxinxu.com/wordpress/2021/09/apng-maker-pause-play-ie/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -328,7 +328,7 @@
 </summary>
 
 
-- [2022-02-25-科技爱好者周刊（第-196-期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html) ![](/assets/new.png)  
+- [2022-02-25-科技爱好者周刊（第-196-期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)  
 - [2022-02-18-科技爱好者周刊（第-195-期）：你做过不在乎结果的项目吗？](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)  
 - [2022-02-11-科技爱好者周刊（第-194-期）：悲观者正确，乐观者成功](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)  
 - [2022-02-04-万兆家庭网络的时代](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)  
