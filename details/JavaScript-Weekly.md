@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-19 06:00:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-02-26 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-02-25-How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578) 
 - [2022-02-18-The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577) 
 - [2022-02-11-The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
