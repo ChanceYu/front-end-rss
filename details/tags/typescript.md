@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-01 22:02:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-02 06:03:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -92,3 +92,4 @@
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
 - [2022-01-20-基于pnpm-+-lerna-+-typescript的最佳项目实践---理论篇](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=1&sn=21c012b5ef9f3414479e5857596706f1&chksm=f992cd59cee5444f1bc9f4773c1d6fe07ce3a8efb380b262dc4822ed4c4b6abb4cbf3600dabf#rd) 
+- [2022-03-01-淘宝店铺-TypeScript-研发规约落地实践](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495461&idx=1&sn=ad1efbe8eba81569aae9914d58dd2cbe&chksm=ec47a4e6db302df032a900ce47032b429b5e85c6e2fb027434ddd1f9ef16d5c19304190c5990#rd) 
