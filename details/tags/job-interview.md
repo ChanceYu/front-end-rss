@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-02 22:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-03 06:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -327,6 +327,7 @@
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2022-02-22-一年经验面试字节抖音电商，分享下面经！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485593&idx=1&sn=0c9c180a1d27f487a91158cc4cbf696c&chksm=ce461d08f931941e6d57f76c31cff23f7dddef7d89282888fe5bf1be28721658d41e817125fe#rd) 
+- [2022-03-02-拼多多和酷家乐面试总结已拿offer](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061385&idx=1&sn=1b66b0d3fcf6a239dbcee9a6c31e1ea2&chksm=87c42399b0b3aa8f5c50d57844fafa2ff44120cf6ad23110ff0fda3c3fae0d5cd58c987215b0#rd) 
 - [2022-02-27-前端技术优选六群招人啦](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061347&idx=2&sn=b8af51dcad6a17d1300aaefbecaf6219&chksm=87c42373b0b3aa653bbbfbed29852fbaba3bd1eecb1c17f938436f7fa794ba59de4170f31909#rd) 
 - [2022-02-26-12-道腾讯前端面试真题及答案整理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061345&idx=1&sn=c8e871f3c14f4316566502918cf837a4&chksm=87c42371b0b3aa67e053a479271595b56ab2de1c575ab21fbac1737e7a0efb9978df49dde3aa#rd) 
 - [2022-02-24-前端技术优选五群招人啦](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061308&idx=2&sn=f97210bf9525677464ec64622e7c687c&chksm=87c4232cb0b3aa3a48889969793612ed897e6a48dc59600327e308010e76ddcec2b973d6ee35#rd) 
