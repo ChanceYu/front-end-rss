@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-04 22:01:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-03-05 06:01:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -112,6 +112,7 @@
 
 
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】TypeScript-2.6-released](https://javascriptweekly.com/issues/579)
 - [【前端早读课】【第2522期】TypeScript-中的类型控制流分析演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252522&idx=1&sn=afeaddd006ebfa85cfa09d45f8fab7da&chksm=bd493eae8a3eb7b865ac056f0a8994164fbbe50f775672943143268246304a131a943abb3c79#rd)
 - [【前端早读课】【第2242期】TypeScript类型编写指南之下篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244827&idx=1&sn=1612a3595ab0324e4ffa0abf7858d9a7&chksm=bd49109f8a3e998946777f156c7d7a5aee7b3f4ab94337d4430025953caf98559289038316e2&scene=27#wechat_redirect)
 - [【前端早读课】【第2241期】TypeScript类型编写指南之上篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244823&idx=1&sn=d7e101a48267b56b18c27ebf971cbbef&chksm=bd4910938a3e9985581c8e669d67621a65539d3b8c4e0ed32da02a96e22baa5ea48036ec18ce&scene=27#wechat_redirect)
@@ -130,7 +131,6 @@
 - [【前端早读课】【第1593期】TypeScript---一种思维方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232096&idx=1&sn=6e22f1a84d33f34eafd07ca6521d108b#rd)
 - [【前端早读课】【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd)
 - [【前端早读课】【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd)
-- [【前端早读课】【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
