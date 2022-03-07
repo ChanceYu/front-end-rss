@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-07 22:02:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-08 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -329,6 +329,7 @@
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2022-02-22-一年经验面试字节抖音电商，分享下面经！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485593&idx=1&sn=0c9c180a1d27f487a91158cc4cbf696c&chksm=ce461d08f931941e6d57f76c31cff23f7dddef7d89282888fe5bf1be28721658d41e817125fe#rd) 
+- [2022-03-07-技术题已经问腻了，现在大厂面试前端都问这些...](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061570&idx=1&sn=1acbf85535f211354154b1679583cf7e&chksm=87c42252b0b3ab440f1ca9b4100d8d5f340ebf731baaa1db979653d5d4316d0dd7879f8f79cd#rd) 
 - [2022-03-05-面试分享：三年工作经验成功面试字节、阿里-P6-总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061400&idx=1&sn=b55d929899032eda6489d475f8ac62a6&chksm=87c42388b0b3aa9ed999b88079abee0d2fa6a0d7a7cfdfe1751622ea82a34fd95ecbd7b20c56#rd) 
 - [2022-03-02-拼多多和酷家乐面试总结已拿offer](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061385&idx=1&sn=1b66b0d3fcf6a239dbcee9a6c31e1ea2&chksm=87c42399b0b3aa8f5c50d57844fafa2ff44120cf6ad23110ff0fda3c3fae0d5cd58c987215b0#rd) 
 - [2022-02-27-前端技术优选六群招人啦](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061347&idx=2&sn=b8af51dcad6a17d1300aaefbecaf6219&chksm=87c42373b0b3aa653bbbfbed29852fbaba3bd1eecb1c17f938436f7fa794ba59de4170f31909#rd) 
