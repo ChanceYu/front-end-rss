@@ -10,17 +10,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-11 22:00:52，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-12 06:00:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -60,6 +60,7 @@
 </summary>
 
 
+- [2022-03-11-Bringing-static-type-syntax-into-JavaScript-itself](https://javascriptweekly.com/issues/580) ![](/assets/new.png)  
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579)  
 - [2022-02-25-How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578)  
 - [2022-02-18-The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577)  
@@ -115,9 +116,9 @@
 </summary>
 
 
-- [2022-03-11-减少重复的请求，也许这个库能帮到你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600321&idx=1&sn=58f86efd3a955b4d3c3a6be8d094a94b&chksm=8022e200b7556b16f806568c03ea85830d2ea5401141bf1e24afab7d76af57d38b2f1848f60b#rd) ![](/assets/new.png)  
-- [2022-03-11-面向对象：爱好很多的我希望和你一起遛狗，夕阳下散步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600321&idx=2&sn=84a039b41de6e2b5711667e11efd008e&chksm=8022e200b7556b16b9a7255d285b1e82207f9a46ffc621f833eced6f94d984506446120e2058#rd) ![](/assets/new.png)  
-- [2022-03-11-手把手学会-VS-Code-"任务"神技，成为项目组最靓的崽！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600321&idx=3&sn=fffb284fa04dc3e5e72029ec37c4856a&chksm=8022e200b7556b163c83ccfa20961a55bc00f24a1663dee1e71ac718cddaa91d13b867d7acec#rd) ![](/assets/new.png)  
+- [2022-03-11-减少重复的请求，也许这个库能帮到你](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600321&idx=1&sn=58f86efd3a955b4d3c3a6be8d094a94b&chksm=8022e200b7556b16f806568c03ea85830d2ea5401141bf1e24afab7d76af57d38b2f1848f60b#rd)  
+- [2022-03-11-面向对象：爱好很多的我希望和你一起遛狗，夕阳下散步](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600321&idx=2&sn=84a039b41de6e2b5711667e11efd008e&chksm=8022e200b7556b16b9a7255d285b1e82207f9a46ffc621f833eced6f94d984506446120e2058#rd)  
+- [2022-03-11-手把手学会-VS-Code-"任务"神技，成为项目组最靓的崽！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600321&idx=3&sn=fffb284fa04dc3e5e72029ec37c4856a&chksm=8022e200b7556b163c83ccfa20961a55bc00f24a1663dee1e71ac718cddaa91d13b867d7acec#rd)  
 - [2022-03-10-Chrome：听说你们滥用-UA?-废了它！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600258&idx=2&sn=9545dd4509e91c1ab6079944aa2197e2&chksm=8022e243b7556b55702a8ece456188df1c074d851b8e6901bd55e85e4899b00eb675012ac3e3#rd)  
 - [2022-03-10-如果美国把根域名服务器封了，中国会从网络上消失吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600258&idx=1&sn=4cc92bab1d5c773a8b40eb973f61a2ab&chksm=8022e243b7556b551d697f4aeceee2bb00ddc12134ae5dbe503a391a948af997cd7fa5dbfca4#rd)  
 - [2022-03-09-2天，我把微前端的子应用拆分、CSS隔离、JS沙箱撸干净了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600199&idx=1&sn=143010da51324dc2ca3f244b82166dcd&chksm=8022e286b7556b9089f120d298f1b2b8f3b6287cb450b25049406f91af5c941204b72c4f1e3a#rd)  
@@ -208,8 +209,8 @@
 </summary>
 
 
-- [2022-03-11-聊聊纯-CSS-图标](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061613&idx=1&sn=274388b252ec881d431947eb7f5a9e05&chksm=87c4227db0b3ab6ba34dc5ae7fe315efe0f02076b4ca8958c615f53dc5508bd85fe0d69cb1f9#rd) ![](/assets/new.png)  
-- [2022-03-11-学会这些CSS，休想让我切图！！！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061613&idx=2&sn=b67ccf79d55ae742b946092ebdee7f65&chksm=87c4227db0b3ab6be378fcb775c30ac6dd71d6d26bb1ae08e9836c40fd75bda2c57715e5a6d4#rd) ![](/assets/new.png)  
+- [2022-03-11-聊聊纯-CSS-图标](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061613&idx=1&sn=274388b252ec881d431947eb7f5a9e05&chksm=87c4227db0b3ab6ba34dc5ae7fe315efe0f02076b4ca8958c615f53dc5508bd85fe0d69cb1f9#rd)  
+- [2022-03-11-学会这些CSS，休想让我切图！！！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061613&idx=2&sn=b67ccf79d55ae742b946092ebdee7f65&chksm=87c4227db0b3ab6be378fcb775c30ac6dd71d6d26bb1ae08e9836c40fd75bda2c57715e5a6d4#rd)  
 - [2022-03-10-半小时搞懂-HTTP、HTTPS和HTTP2](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061601&idx=2&sn=86ebe36724a670ae6ab212823454af9b&chksm=87c42271b0b3ab671d5ba95eab05725a297132c8afe7f5460ff36a54e035d27605f13db52abb#rd)  
 - [2022-03-10-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061601&idx=1&sn=36045de4a1a40651402018e7a41a7cca&chksm=87c42271b0b3ab6731c659e795ddae1cd87927eb21e20ff827386bb4a6895d3810f6a7c5c36d#rd)  
 - [2022-03-09-玉伯：开源有带给我什么](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061599&idx=1&sn=cc48e3ad54421f34dd394951c2020c24&chksm=87c4224fb0b3ab5981c7c2d5a815e1ae35bf37d42813d4ce2e24ab214b9faf15e4b658d07189#rd)  

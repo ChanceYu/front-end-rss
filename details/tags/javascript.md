@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-11 22:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-12 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -8,6 +8,7 @@
 
 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2022-03-11-Bringing-static-type-syntax-into-JavaScript-itself](https://javascriptweekly.com/issues/580) 
 - [2022-02-25-How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578) 
 - [2022-02-18-The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577) 
 - [2022-02-11-The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576) 

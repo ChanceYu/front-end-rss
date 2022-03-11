@@ -73,6 +73,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Bringing static type syntax into JavaScript itself",
+        "link": "https://javascriptweekly.com/issues/580",
+        "date": "2022-03-11"
+      },
+      {
         "title": "TypeScript 2.6 released",
         "link": "https://javascriptweekly.com/issues/579",
         "date": "2022-03-04"

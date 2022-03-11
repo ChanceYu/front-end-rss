@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-11 22:00:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-03-12 06:00:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Bringing-static-type-syntax-into-JavaScript-itself](https://javascriptweekly.com/issues/580)
 - [【JavaScript-Weekly】How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578)
 - [【JavaScript-Weekly】The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577)
 - [【JavaScript-Weekly】The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576)
@@ -346,7 +347,6 @@
 - [【前端早读课】【第2511期】2021年JavaScript明星项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252195&idx=1&sn=23c3ae3fc22b98e2db0afdfbec632d5e&chksm=bd493c678a3eb571e7acd8b4410fc89173cdb745581088bf54860f5deb094f36656465f312e4#rd)
 - [【前端早读课】【第2505期】ES6-以上版本代码要不要转码成-ES5?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=1&sn=89d2bd490fc5de73c317d3f4a1caeafb&chksm=bd493cf48a3eb5e266b1edb2d81a38897fc9412dc0784a7dd4c4f710dbcb460275ed2f4a84e5#rd)
 - [【前端早读课】【开源】北汽华夏出行自研组件库《Essential》开源啦！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252008&idx=2&sn=b322f1c82aba92bba8c40fdcb946bb6f&chksm=bd493cac8a3eb5ba3520d49b6d5940fe69f2e5d1a3ccc99ce68a746f64745c9bde23439a81a9#rd)
-- [【前端早读课】【第2320期】JavaScript代码整洁之道-复杂判断](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247297&idx=1&sn=24e904607b224e954c7d0d130e792890&chksm=bd490b458a3e82532504bef31d5dacb0148515d3bf59bfa90117d97869d5fa2090299ff56af2&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
