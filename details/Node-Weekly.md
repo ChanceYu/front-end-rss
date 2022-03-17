@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-11 06:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-18 06:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-03-17-Damage-caused-by-package-based-protest](https://nodeweekly.com/issues/429) 
 - [2022-03-10-What-hides-in-your-node_modules?](https://nodeweekly.com/issues/428) 
 - [2022-03-03-Using-'execa'-to-run-other-processes](https://nodeweekly.com/issues/427) 
 - [2022-02-24-Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426) 
