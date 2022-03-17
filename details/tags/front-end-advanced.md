@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-17 08:01:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-17 12:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -317,6 +317,7 @@
 - [2022-01-08-Github-趋势榜:-不可错过的最热门的-10-大前端项目](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=1&sn=99b5fef5201e19a05db00e519d9e10d7&chksm=87c42154b0b3a8426531c84cea2e49b788dd2fab72ad944b0badde408abdee4ccbf680c5c398#rd) 
 - [2022-01-07-从Git设计原理到业务系统设计与开发](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=2&sn=e74b7a405ec0a50346b2be9f9fdb8908&chksm=87c42153b0b3a8454a0f929b902eb4deb209df683483418d0c7744e19bd0bf342afd9376fbc2#rd) 
 - [2022-01-02-半小时搞懂-HTTP、HTTPS和HTTP2](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=2&sn=0a196abcd9d5b9673603cd68e5514ad0&chksm=87c42135b0b3a82393e7be25147f07ab858c3e397a42dbe7f2c30e4d4fcb6d115f0089e58b21#rd) 
+- [2022-03-17-微前端qiankun+docker+nginx配合gitlab-ci/cd的自动化部署的实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504311&idx=1&sn=7ff2f21947180037565ddb36f29975d9&chksm=f992d766cee55e708b50bdc5ddf93be2629b22fe002b4d601215be3dbcb5802d74df594b5f25#rd) 
 - [2022-03-11-去大厂面试，究竟要怎么刷算法！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504090&idx=1&sn=ae158e4b00b6d511f49f137791b10ebc&chksm=f992d60bcee55f1dc50bb2fca701d436cd1bc5047aec78946c56e66b0f68c9c8f7a2668784be#rd) 
 - [2022-03-09-字节三面被问微前端，出来后一身冷汗。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503945&idx=1&sn=db8156459083ebdf70e79286319b6a63&chksm=f992d698cee55f8e999aeb56da73ea83c6543d09e34c9247074b062bd99252d3c4686b031d7d#rd) 
 - [2022-03-05-页面可视化搭建工具前生今世](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503827&idx=1&sn=e6a9db6e1b3d1a6218f61b475c8d773f&chksm=f992c902cee54014cd1fdbe6984ad1aff57ba916f03c9fc3727966ddecb4dbe21e23922ee58e#rd) 
