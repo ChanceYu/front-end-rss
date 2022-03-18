@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-18 22:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-19 06:00:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -129,6 +129,7 @@
 - [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect) 
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
+- [2022-03-17-10个代码编写小习惯！提升可读性、可维护性、性能](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485910&idx=1&sn=31737e5cc9f831ce274b261de1258951&chksm=ce461c47f9319551ad2f39e6578797dc1910fce95faa7092f92efab83f9ac32ef489eaa3e7c0#rd) 
 - [2022-02-14-首屏时间，你说你优化了，那你倒是计算出给给我看啊！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485467&idx=1&sn=deff9324c356ace275c2dbc4e6232e42&chksm=ce461d8af931949c2fa57375fa6c37556c3b8f551286e330b40159cd0819faf2ffc8c2a4a80f#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
