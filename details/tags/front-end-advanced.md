@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-18 06:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-18 12:12:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -338,6 +338,7 @@
 - [2021-12-20-淘系前端架构---周刊---211220-期](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494952&idx=1&sn=f0faeba878fdb5693f2faa1d15ccf08d&chksm=ec47a6ebdb302ffd04fbd6154e94733fdb14f6171dc37dd7c7c1e45d1692fea82f9cf1b258b1#rd) 
 - [2020-08-25-如何在应用架构中设计微前端方案---icestark](https://fed.taobao.org/blog/taofed/do71ct/xgmaz3) 
 - [2020-04-27-前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) 
+- [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html) 
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html) 
 - [2018-10-10-Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html) 
 - [2018-09-16-Vim-配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html) 
