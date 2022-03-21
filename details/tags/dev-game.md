@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-21 08:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-21 18:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -52,6 +52,7 @@
 - [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html) 
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) 
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html) 
+- [2022-03-17-不懂物理的前端不是好的游戏开发者（二）——-物理引擎的学习之路](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898432&idx=1&sn=440e5e334de3982f9555156a357df1c2&chksm=8c5fa00ebb2829181355527ac447f3976c3059bed01e371560f593eb49dd1a9782bd026d7a09#rd) 
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://jelly.jd.com/article/5c3411efd7aa2c0055d09a85) 
 - [2018-10-18-3D-物理世界---Three.js-与-Cannon.js-介绍与使用](https://jelly.jd.com/article/5c3409fed7aa2c0055d09a75) 
 - [2018-01-28-H5游戏开发：FC小蜜蜂](https://jelly.jd.com/article/6006b1055b6c6a01506c8805) 
