@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-21 18:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-22 06:01:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -183,6 +183,7 @@
 - [2019-01-12-你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect) 
 - [2018-12-10-NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2022-03-19-在微前端qiankun中使用Vite你踩坑了吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485915&idx=1&sn=1e3d11e454c14e56768e559d2c77ec7b&chksm=ce461c4af931955c2c28b92f7e3c453384414c617999bf401cd51043f9410161b7ba31317964#rd) 
 - [2022-03-13-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061645&idx=2&sn=457bbc2af028e8d83025c5d9251450fd&chksm=87c4229db0b3ab8bca53f9ab4e7c5ac2321d34ec786ae089c3edd2dfbfedb36604b76d67581c#rd) 
 - [2022-03-12-一文精通-Webpack-构建流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061634&idx=3&sn=375f643def31736a516ba151d954abfd&chksm=87c42292b0b3ab848044aae85fafc0cbd870568d2688ffe5cd5fdd6a7f8de47dfadec3981fb9#rd) 
 - [2022-03-10-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061601&idx=1&sn=36045de4a1a40651402018e7a41a7cca&chksm=87c42271b0b3ab6731c659e795ddae1cd87927eb21e20ff827386bb4a6895d3810f6a7c5c36d#rd) 
