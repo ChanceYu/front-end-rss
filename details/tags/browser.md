@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-22 08:00:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-22 18:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -286,6 +286,7 @@
 - [2022-02-18-不废话，代码实践带你掌握-强缓存、协商缓存！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485559&idx=1&sn=7b7bf150c0458f463410655b085d5cbe&chksm=ce461de6f93194f04c3e17f49225e09167cf83f0d51d540afac058f50ff825b767475160b6b3#rd) 
 - [2022-02-28-Chrome-DevTools:-可视化代码覆盖率](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061363&idx=1&sn=f7b3d62f117b376e769c69913337bc47&chksm=87c42363b0b3aa7517c5adf51956dc0c022a1da378ef52fd183908323ec53dc437bf5d52a6e4#rd) 
 - [2022-01-19-Chrome-DevTools:-修改User-Agent，定制个性化UA](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=1&sn=14f8cc7eb94db6cb06351782681c4875&chksm=87c421afb0b3a8b9a843999348abbef6bc0271530370b7c4c5f3c1a7ca2eea253fdf72e55c10#rd) 
+- [2022-03-19-Figma封禁中国企业，下一个会是Postman吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504350&idx=1&sn=fdbb3c956a3534f18ccf36001f1408dc&chksm=f992d70fcee55e190043f2e177eca134d15eb424139ec2840b7f43a67acf6958c57b79546bfc#rd) 
 - [2022-03-11-超详细的前端缓存，都是知识点](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504090&idx=3&sn=4c07182700c292b13efae0c744ce34b8&chksm=f992d60bcee55f1dedd7b3ebd0fa5279d7af99daac65fcfd3ea8bdd56c9d4e3c4074db716fc1#rd) 
 - [2022-03-10-面试官----跨域请求如何携带cookie?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504030&idx=1&sn=24eb870b681bafc3ec7344853af9392c&chksm=f992d64fcee55f592dbd78bf13d75bdc0221a485142095ddba622858aa66c9672d09a88acfc5#rd) 
 - [2022-02-24-替代-Postman-+-Swagger！Apifox-才是-YYDS！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503531&idx=1&sn=61f8e92b7c96cf374fa7d9194a23ab4d&chksm=f992c87acee5416cca697ca735b1396929724fee820450d03ea6c5febff1bb664b7c007f4ac2#rd) 

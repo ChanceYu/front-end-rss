@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-22 08:00:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-22 18:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -70,6 +70,7 @@
 - [2022-03-21-不懂SSR做什么高级前端开发？3天搞定面试加分项！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485935&idx=1&sn=af9624501f717ae74280d782aae56942&chksm=ce461c7ef931956853990414386c01602bbec70f978bb4e30ff6711b3e79a4404852deafe45f#rd) 
 - [2022-02-23-下一个五年什么最火？Rust-可以一战！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485607&idx=1&sn=95accedd5382e831f35428eb78e779e3&chksm=ce461d36f931942000331d095bb64dc2ffc0e31771e2acc019f0dd8e09519959a9fc40f23d02#rd) 
 - [2022-02-11-奇怪！生成网页水印，为啥总扯到-MutationObserver？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485447&idx=1&sn=309c2a7c185beba5c6c5b191564c24c5&chksm=ce461d96f9319480fcf4ccf1a3476970e199286624f64f745d6d9b5e2d21f39875c61bc54e63#rd) 
+- [2022-03-22-Git不要只会pull和push，学学这5条提高效率的命令](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504460&idx=1&sn=92f79b1fe622c6f1e22c5a106e471716&chksm=f992d49dcee55d8b248a14417049a430969621ac531d3331480c2f141d2a8035a3897d8b606f#rd) 
 - [2022-01-28-命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html) 
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) 
