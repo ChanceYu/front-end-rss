@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-24 12:00:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-03-25 06:01:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】A-collection-of-proficient-Node.js-dev-practices](https://nodeweekly.com/issues/430)
 - [【Node-Weekly】What-hides-in-your-node_modules?](https://nodeweekly.com/issues/428)
 - [【Node-Weekly】Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426)
 - [【Node-Weekly】Express-5-now-in-beta](https://nodeweekly.com/issues/425)
@@ -202,7 +203,6 @@
 - [【前端早读课】【第2098期】Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240497&idx=1&sn=e2571b500e1d24d7483aef0eb020f05a&chksm=bd4961b58a3ee8a376eb0c47183e5ae5944a48ec9bcb6af87861feba98bd01054465eadbb7a9&scene=27#wechat_redirect)
 - [【前端早读课】【第2088期】前端中台化，把格局做大——NodeJS-和测试服务探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240227&idx=1&sn=f55efacc4f13a0abad8dd4bd9e6216c2&chksm=bd496ea78a3ee7b198064277df56bf9e892ecafd1595c053ee8f52d9729e1d8406173db307aa&scene=27#wechat_redirect)
 - [【前端早读课】【第2087期】Promise-V8-源码分析一](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240199&idx=1&sn=85483c1b8a0119ee009869f8b99403b3&chksm=bd496e838a3ee79535fc8d6fa921a38a2f275935be7a3ff4a65e8908f034855e5b38b9631de9&scene=27#wechat_redirect)
-- [【前端早读课】【第2040期】Node-模块化之争：为什么-CommonJS-和-ES-Modules-无法相互协](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239050&idx=1&sn=50fd7836df43f54a8120898a1fa5f982&chksm=bd496b0e8a3ee21873e438fb49c9df1d5f018064caf3f5c5521e964a394d97eeccfc788805ea&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
