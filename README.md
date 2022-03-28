@@ -10,19 +10,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-28 22:02:03，:rocket: 更新条数: +14， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-29 06:02:23，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -120,11 +120,11 @@
 </summary>
 
 
-- [2022-03-27-通过几行-JS-就可以读取电脑上的所有数据？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601058&idx=1&sn=826dd8a6c9c4dc16603a787f8262d7cd&chksm=8022ef63b7556675ba98ced16af0f2ff0b4f935dbe6216b1b8d6c8e53c7133540ee86460d818#rd) ![](/assets/new.png)  
-- [2022-03-27-正确介绍自己的项目，终于不用害怕面试了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601058&idx=2&sn=f634b21c95c8c96ab196210a53565731&chksm=8022ef63b7556675a0e9261751b74f72680b2dc24d60e06c7c7bdd93550f0f343d7289bcfcc1#rd) ![](/assets/new.png)  
-- [2022-03-26-艰难环境下，面腾讯、美团、商汤科技等七家大厂前端有感](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601055&idx=1&sn=e4220c7b77afec61d65e8001bb57ee08&chksm=8022ef5eb755664838ce04d6fb4bc7eba2c6b1edf9be8c65d52ef3f487831e41f126d7202eef#rd) ![](/assets/new.png)  
-- [2022-03-25-页面可视化搭建工具前生今世](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601013&idx=1&sn=d00dc1539045f340eb4d49e24c82c2e1&chksm=8022efb4b75566a23dc201017efeae9ff453aa07646f1ef82763923a993f1ea7eb6bbb542238#rd) ![](/assets/new.png)  
-- [2022-03-25-在-Node.js-中引入-Golang-，会让它更快吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601013&idx=2&sn=dda893abfb8a15681c31c55314897f71&chksm=8022efb4b75566a241774fab76002358ea7d6196b2ff441f821e1cf7b592f87390c0ab9439fd#rd) ![](/assets/new.png)  
+- [2022-03-27-通过几行-JS-就可以读取电脑上的所有数据？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601058&idx=1&sn=826dd8a6c9c4dc16603a787f8262d7cd&chksm=8022ef63b7556675ba98ced16af0f2ff0b4f935dbe6216b1b8d6c8e53c7133540ee86460d818#rd)  
+- [2022-03-27-正确介绍自己的项目，终于不用害怕面试了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601058&idx=2&sn=f634b21c95c8c96ab196210a53565731&chksm=8022ef63b7556675a0e9261751b74f72680b2dc24d60e06c7c7bdd93550f0f343d7289bcfcc1#rd)  
+- [2022-03-26-艰难环境下，面腾讯、美团、商汤科技等七家大厂前端有感](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601055&idx=1&sn=e4220c7b77afec61d65e8001bb57ee08&chksm=8022ef5eb755664838ce04d6fb4bc7eba2c6b1edf9be8c65d52ef3f487831e41f126d7202eef#rd)  
+- [2022-03-25-页面可视化搭建工具前生今世](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601013&idx=1&sn=d00dc1539045f340eb4d49e24c82c2e1&chksm=8022efb4b75566a23dc201017efeae9ff453aa07646f1ef82763923a993f1ea7eb6bbb542238#rd)  
+- [2022-03-25-在-Node.js-中引入-Golang-，会让它更快吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601013&idx=2&sn=dda893abfb8a15681c31c55314897f71&chksm=8022efb4b75566a241774fab76002358ea7d6196b2ff441f821e1cf7b592f87390c0ab9439fd#rd)  
 - [2022-03-24-前端资源请求速度优化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600940&idx=2&sn=7a7aa858f887bd332fa76e368034a4d4&chksm=8022efedb75566fbca552265a3c223d68162040e8009cc7d51fe3b2ba98c4f35300a06d6e901#rd)  
 - [2022-03-24-离开页面时，你知道如何可靠地发送一个-HTTP-请求吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600940&idx=1&sn=0a1506e666ca5ddb0b721707d65d724e&chksm=8022efedb75566fbc44d049c29a11127d4aeaffec487b433511c6fdf1b3d101556d93bcb082e#rd)  
 - [2022-03-23-7000-字前端性能优化总结-|-干货建议收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600933&idx=2&sn=f276e8034df21cda716a8cd838fe88f1&chksm=8022efe4b75566f2139261717b41a2d83ae75b0a5fbb2fe2cad1702ca86aa9d42cbe82b51dd0#rd)  
@@ -151,6 +151,9 @@
 </summary>
 
 
+- [2022-03-28-不用任何框架开发-Web-应用程序，可能吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514103&idx=1&sn=35063717ae2061ce5a93ccc5239e5699&chksm=f95202b4ce258ba2b4352a50532cc771aba4633e43ba3d235c03606eff5f13b4d76ee39577a7#rd) ![](/assets/new.png)  
+- [2022-03-27-Firefox拉黑中国用户；VS-Code-新-Bug；俄封锁“谷歌新闻”；起家于俄罗斯的Nginx宣布禁俄；GIF-之父去世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514036&idx=1&sn=6ace668a81aab0ec724178231debab69&chksm=f95202f7ce258be12e4f3a9988ebefdb554b97d17c846fee070be40e7912c2b36ab23df8c316#rd) ![](/assets/new.png)  
+- [2022-03-25-兼容-VS-Code-插件！阿里&蚂蚁联合开源国内首个强定制-IDE-研发框架-OpenSumi](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514011&idx=1&sn=99bbeb816db016c983a4420d5f619a55&chksm=f95202d8ce258bcef57a9d63157086d9989139f8d8d0e8ff6e64afd4bb71c55ae0b048dec02b#rd) ![](/assets/new.png)  
 - [2022-03-23-WebGL-动画工业化探索与实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513991&idx=1&sn=2e5e60be087ce551165e33eb6dbcd67f&chksm=f95202c4ce258bd28f1d475447c5a0faeb9ff665986e7b0757ba0ca63ace4843c7e85e29860e#rd)  
 - [2022-03-21-我不认为Flutter比React-Native好](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513926&idx=1&sn=4816938c1706d5c499c7f6dc8e4c63f3&chksm=f9520205ce258b133caaf0ad062f7a0818ff5103e5d649a5c25b33ef71e4059738e3fe4e805f#rd)  
 - [2022-03-18-国产引擎-Cocos-的跨平台渲染器架构与实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513885&idx=1&sn=d27645a186d544d31621f1ef05dc41a0&chksm=f952025ece258b4868b08dcb42d70f683debc19f2933aacda1964edc4526ffe309e1039e390d#rd)  
@@ -168,9 +171,6 @@
 - [2022-02-25-淘宝店铺是如何全面拥抱-TypeScript-的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513531&idx=1&sn=1c0b3b500ac7d21bf2f9d5fbc4c83a37&chksm=f95200f8ce2589ee15861bae32019590ff2fc45bb979b3a35cb37580f55a99c6214020e2d5ce#rd)  
 - [2022-02-24-一文详解-Svelte](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513508&idx=1&sn=b465b86dd47970f6d819c611d960c150&chksm=f95200e7ce2589f11e908c00c34d3d0d2d63867395f21bdb5a50ce2c2ea37f418150caf92c93#rd)  
 - [2022-02-22-转转智能代码平台神笔马良的研发与实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513458&idx=1&sn=0e637b6bc607165d73a9295dca4a1a2f&chksm=f9520031ce258927148541aa5eed25291b640004c9eb45b74c2b2cd09360a178c09446901f9b#rd)  
-- [2022-02-18-和祖传代码战斗到底：代码重构在阿里妈妈的落地实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513330&idx=1&sn=ac08140c1ebd4488da7b5736f2903e28&chksm=f95201b1ce2588a7f848a3806d443ae03d1597f8633e4b0f79ba67ce169e89f09475245d8533#rd)  
-- [2022-02-15-Remix-究竟比-Next.js-强在哪儿？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513305&idx=1&sn=8b8b7de9db260c319aaaf5a552f12313&chksm=f952019ace25888ca6330ab39c1129e608e0143c92bf71d3684ea44ce6c5c3ebcbf2c761ffb9#rd)  
-- [2022-02-13-被升级整疯了，Etsy-放弃-React](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513244&idx=1&sn=4b7b681271a75ef4f0f4444f468c249e&chksm=f95201dfce2588c99a62d08cd105f5295fc0fe6b93778ec16f8b1abff7694759d7e7f2fe9277#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -213,14 +213,14 @@
 </summary>
 
 
-- [2022-03-28-通过几行-JS-就可以读取电脑上的所有数据？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062213&idx=1&sn=b4292d4e0cd421d461bea007d88b7027&chksm=87c424d5b0b3adc3e9529aec7ffcc211d98d57da3a381e462de71866b813734795d55b847f81#rd) ![](/assets/new.png)  
-- [2022-03-28-作为前端，我对业务的一点理解](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062213&idx=2&sn=22857d1489ce2b1ce0489c04fed70525&chksm=87c424d5b0b3adc3c2cb699703c9b0561abbd13ea3a7687745adcbd6bd717cf6a754cfd6eda4#rd) ![](/assets/new.png)  
-- [2022-03-27-阿里一面：熟悉事件循环？那谈谈为什么会分为宏任务和微任务。](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062183&idx=1&sn=711745ef8c0e0829b613361a7be2e11d&chksm=87c424b7b0b3ada146107821054346a9737a61f413dfc9443a39ea35d352924397ed2efbe226#rd) ![](/assets/new.png)  
-- [2022-03-27-可能是目前最易理解的手写promise](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062183&idx=2&sn=79e98e9b3a437be9630dad07cd6e1fe4&chksm=87c424b7b0b3ada143a002616fd48a60899a6f40f6d952d64b60420ff8306e0414931c83ab3e#rd) ![](/assets/new.png)  
-- [2022-03-27-面试官：Vue-和-React-对于组件的更新粒度有什么区别？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062183&idx=3&sn=bb7e7b9a7b8fbf0a97daa3aae65269ae&chksm=87c424b7b0b3ada1f2121ec948e45065f97971b19eb2bb5fa92167b373f176f9558d11712bec#rd) ![](/assets/new.png)  
-- [2022-03-26-TypeScript-类型系统：分布式条件类型全解](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062158&idx=1&sn=a0170853f4feffa030bf55c5f2be9559&chksm=87c4249eb0b3ad880808e3600e2af0ddff3da71fd2e22d16353371175a40fc6c5b98ebd52433#rd) ![](/assets/new.png)  
-- [2022-03-26-开发-React-和-Rax-样式用这款-VS-Code-插件就够了](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062158&idx=2&sn=c16183ec707ac70dc37ea78b80cea30c&chksm=87c4249eb0b3ad88c2dc26a48c5ed3fae36f74991db3cfde2eb9066ab0f86a77177a16943d4b#rd) ![](/assets/new.png)  
-- [2022-03-25-前端数据结构与算法入门](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062128&idx=2&sn=7778a1b78744f31a2f777b15cd09f11a&chksm=87c42460b0b3ad763eaedcac259045327776d106c43ce6e7da037f04cb1b5a679359ddd0b6e5#rd) ![](/assets/new.png)  
+- [2022-03-28-通过几行-JS-就可以读取电脑上的所有数据？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062213&idx=1&sn=b4292d4e0cd421d461bea007d88b7027&chksm=87c424d5b0b3adc3e9529aec7ffcc211d98d57da3a381e462de71866b813734795d55b847f81#rd)  
+- [2022-03-28-作为前端，我对业务的一点理解](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062213&idx=2&sn=22857d1489ce2b1ce0489c04fed70525&chksm=87c424d5b0b3adc3c2cb699703c9b0561abbd13ea3a7687745adcbd6bd717cf6a754cfd6eda4#rd)  
+- [2022-03-27-阿里一面：熟悉事件循环？那谈谈为什么会分为宏任务和微任务。](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062183&idx=1&sn=711745ef8c0e0829b613361a7be2e11d&chksm=87c424b7b0b3ada146107821054346a9737a61f413dfc9443a39ea35d352924397ed2efbe226#rd)  
+- [2022-03-27-可能是目前最易理解的手写promise](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062183&idx=2&sn=79e98e9b3a437be9630dad07cd6e1fe4&chksm=87c424b7b0b3ada143a002616fd48a60899a6f40f6d952d64b60420ff8306e0414931c83ab3e#rd)  
+- [2022-03-27-面试官：Vue-和-React-对于组件的更新粒度有什么区别？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062183&idx=3&sn=bb7e7b9a7b8fbf0a97daa3aae65269ae&chksm=87c424b7b0b3ada1f2121ec948e45065f97971b19eb2bb5fa92167b373f176f9558d11712bec#rd)  
+- [2022-03-26-TypeScript-类型系统：分布式条件类型全解](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062158&idx=1&sn=a0170853f4feffa030bf55c5f2be9559&chksm=87c4249eb0b3ad880808e3600e2af0ddff3da71fd2e22d16353371175a40fc6c5b98ebd52433#rd)  
+- [2022-03-26-开发-React-和-Rax-样式用这款-VS-Code-插件就够了](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062158&idx=2&sn=c16183ec707ac70dc37ea78b80cea30c&chksm=87c4249eb0b3ad88c2dc26a48c5ed3fae36f74991db3cfde2eb9066ab0f86a77177a16943d4b#rd)  
+- [2022-03-25-前端数据结构与算法入门](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062128&idx=2&sn=7778a1b78744f31a2f777b15cd09f11a&chksm=87c42460b0b3ad763eaedcac259045327776d106c43ce6e7da037f04cb1b5a679359ddd0b6e5#rd)  
 - [2022-03-24-平均年薪50.8万，Python工程师拿下这个证书有多吃香？！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062096&idx=1&sn=9119e1e985127a46d31a15a1be27bf87&chksm=87c42440b0b3ad56b5a406d56d41806e1edc761a4ce4b8d2bc3d90cdf1b457ffa4110a48e768#rd)  
 - [2022-03-23-Web3.0-称霸下一代互联网？TA到底是个啥？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062064&idx=1&sn=140dcc10310174d92481eb71771fa43e&chksm=87c42420b0b3ad368e20ecc2149faa4918b449171f88710dfa19139634186c059f7bdfc9a5b5#rd)  
 - [2022-03-22-阿里一面：熟悉事件循环？那谈谈为什么会分为宏任务和微任务。](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061984&idx=1&sn=ea17874368467a06617ab6c60401227e&chksm=87c425f0b0b3ace6032a4395a7f8bee740d155a78d482be0d0aa3498cfc0cc9ca83b56ddb702#rd)  
@@ -275,7 +275,7 @@
 </summary>
 
 
-- [2022-03-25-Node.js-Web-框架再进化---面向前端与未来标准](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495520&idx=1&sn=b9041886373d4abbf9887126f27188f8&chksm=ec47a4a3db302db538f25fa88f87cb5f053aa5712072b902da53512bc1bd84c5ec885cdc2f75#rd) ![](/assets/new.png)  
+- [2022-03-25-Node.js-Web-框架再进化---面向前端与未来标准](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495520&idx=1&sn=b9041886373d4abbf9887126f27188f8&chksm=ec47a4a3db302db538f25fa88f87cb5f053aa5712072b902da53512bc1bd84c5ec885cdc2f75#rd)  
 - [2022-03-17-大淘宝中后台页面无代码生产新模式探索](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495517&idx=1&sn=67a09c2f7cebfd4a24e498def2faa20d&chksm=ec47a49edb302d882f85ab6feef46707350ef3ff933061757561f0d41fdf80a0994b74ae67c9#rd)  
 - [2022-03-16-TypeScript-中的类型控制流分析演进](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495503&idx=1&sn=7f5a63645e5b90d222865204df3afc2c&chksm=ec47a48cdb302d9aa0523361551dc7d839508832187f6330911695ce86c518d7c758c552635e#rd)  
 - [2022-03-10-关于依赖管理的真相-—-前端包管理器探究](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495463&idx=1&sn=591c5b3bfcf78f10c718153fe2dc8228&chksm=ec47a4e4db302df22cb84a2509977368763f577ce6139f9fb7639f034396c889c5dc701c3d43#rd)  
