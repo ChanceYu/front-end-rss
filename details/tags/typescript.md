@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-29 08:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-03-29 18:02:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -86,6 +86,7 @@
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect) 
 - [2019-01-16-我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect) 
 - [2018-12-17-别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect) 
+- [2022-03-28-聊聊TypeScript中枚举对象（Enum）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486023&idx=1&sn=261be54b07e7767a9b0ee52954221091&chksm=ce461fd6f93196c049f997d098f0af4aad32babc471d7f8d293dab286ea51fc82b2deaa3ea73#rd) 
 - [2022-03-26-TypeScript-类型系统：分布式条件类型全解](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062158&idx=1&sn=a0170853f4feffa030bf55c5f2be9559&chksm=87c4249eb0b3ad880808e3600e2af0ddff3da71fd2e22d16353371175a40fc6c5b98ebd52433#rd) 
 - [2022-03-14-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061672&idx=2&sn=d18b4237491f2a949908aad21720e713&chksm=87c422b8b0b3abaecac416b983f231a097263fafbf9bb8e34acdd6049e222f21ce50c2c4926f#rd) 
 - [2022-03-08-为什么我对-TypeScript-黑转粉？一个-JS-开发者的深情自白](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061597&idx=2&sn=d1bffacdcfffdf49665112a5605d12f9&chksm=87c4224db0b3ab5b2b52eb36abf4dffb18cb6fe32fc823c97e640900cfa50aeb3991b9abba66#rd) 
