@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-01 08:01:06，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-01 12:01:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-03-31-A-roundup-of-what's-new-in-Node.js-core](https://nodeweekly.com/issues/431) ![](/assets/new.png)  
+- [2022-03-31-A-roundup-of-what's-new-in-Node.js-core](https://nodeweekly.com/issues/431)  
 - [2022-03-24-A-collection-of-proficient-Node.js-dev-practices](https://nodeweekly.com/issues/430)  
 - [2022-03-17-Damage-caused-by-package-based-protest](https://nodeweekly.com/issues/429)  
 - [2022-03-10-What-hides-in-your-node_modules?](https://nodeweekly.com/issues/428)  
@@ -90,8 +90,8 @@
 </summary>
 
 
-- [2022-04-01-【第2574期】CSS画图之阿狸](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253499&idx=1&sn=0caed1b542f0656edd5ff4295a18040d&chksm=bd49337f8a3eba6942be015cafb6ce0ba3025ecf85149ba926f92f7377b77be002877b8b6c1d#rd) ![](/assets/new.png)  
-- [2022-04-01-【活动】带你学-RTC-开发，新一期开发者漫游指南即将启航](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253499&idx=2&sn=2eee8f8317afa189d144014d5a7abad2&chksm=bd49337f8a3eba69b8ad0a35d65abc98632cfe945cbf59e88046227534ca70ea08039eb6907f#rd) ![](/assets/new.png)  
+- [2022-04-01-【第2574期】CSS画图之阿狸](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253499&idx=1&sn=0caed1b542f0656edd5ff4295a18040d&chksm=bd49337f8a3eba6942be015cafb6ce0ba3025ecf85149ba926f92f7377b77be002877b8b6c1d#rd)  
+- [2022-04-01-【活动】带你学-RTC-开发，新一期开发者漫游指南即将启航](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253499&idx=2&sn=2eee8f8317afa189d144014d5a7abad2&chksm=bd49337f8a3eba69b8ad0a35d65abc98632cfe945cbf59e88046227534ca70ea08039eb6907f#rd)  
 - [2022-03-30-【第2572期】如何升级到React-18-RC版本](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253472&idx=1&sn=ebd4818a18d769eec3b5b221fdaeefa0&chksm=bd4933648a3eba72912c3a2b039ec4af8b4dfbe51616fcca944260045b66e0531977c9dbcb20#rd)  
 - [2022-03-29-【第2571期】提升组件库通用能力---NutUI-在线主题定制功能探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253468&idx=1&sn=028fc73bd43ecc35ce7f0e1513117c16&chksm=bd4933588a3eba4e0551e7bd0da4601c6fe6fe921fe5046e6de90397a2822e94cc755ab5a505#rd)  
 - [2022-03-28-【招聘】字节跳动国际化电商运营平台前端团队招前端实习生、前端（含高级）工程师、前端架构师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253464&idx=2&sn=2607e7d6b7687f5097af93bbf5c56fa4&chksm=bd49335c8a3eba4a9b0899f2cacd94e34989f09736bff69ee2ef4b2413cafb4693457ae57796#rd)  
@@ -338,6 +338,7 @@
 </summary>
 
 
+- [2022-04-01-科技爱好者周刊（第-201-期）：中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html) ![](/assets/new.png)  
 - [2022-03-25-科技爱好者周刊（第-200-期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)  
 - [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)  
 - [2022-03-11-科技爱好者周刊（第-198-期）：美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)  
@@ -357,7 +358,6 @@
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html)  
 - [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)  
 - [2021-11-26-科技爱好者周刊（第-185-期）：美国宪法拍卖，一个区块链案例](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-185.html)  
-- [2021-11-19-科技爱好者周刊（第-184-期）：政府的存储需求有多大？](http://www.ruanyifeng.com/blog/2021/11/weekly-issue-184.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
