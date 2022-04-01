@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-01 12:01:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-02 06:02:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583) 
 - [2022-02-21-【第2535期】浏览器的5种Observer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252773&idx=1&sn=168ba97ba069bc99d0946bd32d559bfe&chksm=bd4931a18a3eb8b7569912dd35958220e10e44406c6fa5b2bda5e5fac5a7d57c9d9d5769e570#rd) 
 - [2022-02-18-【第2532期】Chrome-98-DevTools-新功能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252696&idx=1&sn=ae2c23b0fd430bbf9ae98e0972732aac&chksm=bd493e5c8a3eb74a0fcba90651ec25bc8674a0915d9b7be1629fcf4943ab2d148964343a2728#rd) 
 - [2022-02-08-【招聘】字节跳动互娱前端安全团队招高级前端工程师、Web安全工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252522&idx=2&sn=78e3e857779bba9c884f10891a1c2bb6&chksm=bd493eae8a3eb7b8ac5874ab1fdbf34476db04852592363152cec48558244d35e35fb1eac6d3#rd) 

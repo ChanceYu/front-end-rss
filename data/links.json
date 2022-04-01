@@ -88,6 +88,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Time to get decorating",
+        "link": "https://javascriptweekly.com/issues/583",
+        "date": "2022-04-01"
+      },
+      {
         "title": "React 18 due any day now..",
         "link": "https://javascriptweekly.com/issues/582",
         "date": "2022-03-25"
