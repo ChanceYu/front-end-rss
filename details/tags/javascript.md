@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 12:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-07 06:00:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -851,8 +851,8 @@
 - [2016-06-24-神奇的Shadow-DOM](https://jelly.jd.com/article/6006b1045b6c6a01506c87ac) 
 - [2016-06-22-让console充满情怀](https://jelly.jd.com/article/5c2ddb0117b02c0047331467) 
 - [2016-04-21-如何用ArrayBuffer构造一个form请求](https://jelly.jd.com/article/6006b1035b6c6a01506c87a3) 
-- [2016-04-14-JavaScript中reduce方法不完全指南](https://jelly.jd.com/article/6006b1035b6c6a01506c87a1) 
 - [2016-04-14-JavaScript中Math.random的种子设定方法](https://jelly.jd.com/article/6006b1035b6c6a01506c87a2) 
+- [2016-04-14-JavaScript中reduce方法不完全指南](https://jelly.jd.com/article/6006b1035b6c6a01506c87a1) 
 - [2016-03-04-图片资源Base64化在H5页面里有用武之地吗？](https://jelly.jd.com/article/6006b1035b6c6a01506c8797) 
 - [2016-01-08-Promise-实战](https://jelly.jd.com/article/6006b1025b6c6a01506c878c) 
 - [2015-12-09-【译】介绍Sass-Maps：用法跟例子](https://jelly.jd.com/article/6006b1025b6c6a01506c8783) 
