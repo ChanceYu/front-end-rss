@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-07 18:01:25。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-04-07 22:01:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -757,6 +757,7 @@
 
 
 
+- [【Node-Weekly】The-one-with-the-epic-code-and-tools-section](https://nodeweekly.com/issues/432)
 - [【Node-Weekly】Damage-caused-by-package-based-protest](https://nodeweekly.com/issues/429)
 - [【Node-Weekly】Using-'execa'-to-run-other-processes](https://nodeweekly.com/issues/427)
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
@@ -776,7 +777,6 @@
 - [【前端早读课】【第2551期】@宝玉：5条做技术决策原则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253122&idx=1&sn=b5ca024092bd7404980825aec3088561&chksm=bd4930068a3eb910c0c30f6ea976186f6cb81feeb9f6b31f546a610ec12bdcea7783b95efe23#rd)
 - [【前端早读课】【图书】善工利器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253122&idx=2&sn=94f63c9acba0470b0f9b2966e01a3c32&chksm=bd4930068a3eb910b89518c4bc6d31eddfaf7b8af58abc46793a2248e2eed5a36ff04cf857ee#rd)
 - [【前端早读课】【第2549期】用DDD领域驱动设计和ADT代数数据类型提升代码质量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253091&idx=1&sn=472b12ecd8059749307f8dbaa2d4a928&chksm=bd4930e78a3eb9f1701aefa4d2f4a07eb270313a64592db89595696a2eb548600c812fa94e26#rd)
-- [【前端早读课】首届「支付宝前锋营」进阶班正式启动](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253083&idx=2&sn=d75b30e1724d0d8bf0f4ec895ecf48fb&chksm=bd4930df8a3eb9c954ba8c3368d89cd94e060311f4fe4ba225dbaaff6d8ac319b0ff5378b5b4#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

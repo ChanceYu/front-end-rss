@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-07 18:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-07 22:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2022-04-07-The-one-with-the-epic-code-and-tools-section](https://nodeweekly.com/issues/432) 
 - [2022-03-17-Damage-caused-by-package-based-protest](https://nodeweekly.com/issues/429) 
 - [2022-03-03-Using-'execa'-to-run-other-processes](https://nodeweekly.com/issues/427) 
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 

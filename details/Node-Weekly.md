@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-01 08:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-07 22:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-04-07-The-one-with-the-epic-code-and-tools-section](https://nodeweekly.com/issues/432) 
 - [2022-03-31-A-roundup-of-what's-new-in-Node.js-core](https://nodeweekly.com/issues/431) 
 - [2022-03-24-A-collection-of-proficient-Node.js-dev-practices](https://nodeweekly.com/issues/430) 
 - [2022-03-17-Damage-caused-by-package-based-protest](https://nodeweekly.com/issues/429) 

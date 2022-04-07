@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "The one with the epic code and tools section",
+        "link": "https://nodeweekly.com/issues/432",
+        "date": "2022-04-07"
+      },
+      {
         "title": "A roundup of what's new in Node.js core",
         "link": "https://nodeweekly.com/issues/431",
         "date": "2022-03-31"
