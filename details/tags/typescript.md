@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-07 22:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-08 06:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -29,6 +29,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2022-04-05-真实案例说明-TypeScript-类型体操的意义](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601526&idx=1&sn=f5f429fd71f95817f69a100cbffc61cc&chksm=8022edb7b75564a18aa0698dcb564e92030cd01ea7e00b6cafdb72238648ac37fcbfccedf5e0#rd) 
 - [2022-01-27-基于-TypeScript/Node-从-0-到-1-搭建一款爬虫工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595928&idx=2&sn=eb1a27b7d649a45606896519b75c0cea&chksm=8022f359b7557a4f5895541b650f1b48a87445a64a4012ead472bd1f1e1bbcd791def2c99527#rd) 
 - [2022-01-21-TypeScript-中的泛型你真搞懂了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595811&idx=2&sn=92b55478e9646d68dc4cbf988fd2b8cd&chksm=8022f3e2b7557af434f362b9991ba8a4d9e5fc712bb0f33c116aebce7d0937a25e50072047eb#rd) 
 - [2021-04-26-10个写TypeScript代码的坏习惯](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574541&idx=2&sn=4fff61cc4dfcde8c962317b808f51969&chksm=802506ccb7528fda13badcf5877ffebff7271e079b4ca782dfa6c882b87a0f29377619b9d5f6&scene=27#wechat_redirect) 
