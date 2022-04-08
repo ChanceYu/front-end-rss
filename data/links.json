@@ -93,6 +93,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Format JavaScript as the Romans do?",
+        "link": "https://javascriptweekly.com/issues/584",
+        "date": "2022-04-08"
+      },
+      {
         "title": "Time to get decorating",
         "link": "https://javascriptweekly.com/issues/583",
         "date": "2022-04-01"

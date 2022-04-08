@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-08 18:01:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-04-09 06:01:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)
 - [【JavaScript-Weekly】Getting-creative-with-JavaScript](https://javascriptweekly.com/issues/581)
 - [【JavaScript-Weekly】Bringing-static-type-syntax-into-JavaScript-itself](https://javascriptweekly.com/issues/580)
 - [【JavaScript-Weekly】How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578)
@@ -346,7 +347,6 @@
 - [【前端早读课】【第2562期】聊一个-RxJS-的内卷案例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253317&idx=1&sn=17cb4446df594815aa60c29354be6818&chksm=bd4933c18a3ebad7e3e2385bf1cd8159b15aa12c71d88c6cbe978d346e2535cbe5a061078a9f#rd)
 - [【前端早读课】【第2557期】浅析JavaScript沙箱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253249&idx=1&sn=a9ccd2d3a68a984d6cc482e5e04cf3a5&chksm=bd4933858a3eba934e89f5d6024d3842ec8a99a0b2bcdd920fe3c758d9eb4b48dca7eff55ee3#rd)
 - [【前端早读课】【第2555期】如何制作一个媲美原生体验的选择器组件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253236&idx=1&sn=871b57af4ae6662762da4163da31cc22&chksm=bd4930708a3eb96698992ce3144c3270767654e114286f1be046a5306448907e5306a6986057#rd)
-- [【前端早读课】【第2553期】广发移动端统一组件库GFDesign来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253157&idx=1&sn=fd7dae69de7304b1f817f607513237b2&chksm=bd4930218a3eb9377e28aa2504884abae0ab0731be965b0b211c534ab2c6396342af6345b153#rd)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
