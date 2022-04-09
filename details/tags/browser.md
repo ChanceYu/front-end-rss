@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 18:02:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-09 22:01:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -85,6 +85,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2022-04-08-【干货】Chrome-插件扩展开发全攻略](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601685&idx=2&sn=2057f71f88468b5b9b4a6ef69d70190e&chksm=8022ecd4b75565c2610a3e262cbecf4310f1a691f5ac7474d557c5b1b96b40c72350096edea0#rd) 
 - [2022-03-24-离开页面时，你知道如何可靠地发送一个-HTTP-请求吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600940&idx=1&sn=0a1506e666ca5ddb0b721707d65d724e&chksm=8022efedb75566fbc44d049c29a11127d4aeaffec487b433511c6fdf1b3d101556d93bcb082e#rd) 
 - [2022-03-22-你可能不知道的-Chrome-Devtools-的功能](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600858&idx=2&sn=80a4b0cc31b103f3c702a147880b8781&chksm=8022e01bb755690d808eeb1c3db660c48b376cb9573f53bdd64bd4d07375540b096695042bb0#rd) 
 - [2022-03-20-利好前端开发！Chrome-/-Edge-/-Firefox-/Safari-决定合力解决-Web-兼容性问题-！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651600699&idx=2&sn=8f6bf644d4cabcacc73453818137f78b&chksm=8022e0fab75569eca0a18a5b7b01b76daff0eeb81f5b0375471f18e113f1762a5917730db606#rd) 
