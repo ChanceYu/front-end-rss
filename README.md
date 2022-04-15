@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 08:01:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-15 12:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2022-04-15-【第2588期】转转智能代码平台神笔马良的研发与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253855&idx=1&sn=a23fb8cf40a3c29c703e8ce0b2599cd5&chksm=bd4935db8a3ebccd365285043d4656b6b1207bcc7466d4066ea7fe9d21eb84932097c9198dc5#rd) ![](/assets/new.png)  
+- [2022-04-15-【第2588期】转转智能代码平台神笔马良的研发与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253855&idx=1&sn=a23fb8cf40a3c29c703e8ce0b2599cd5&chksm=bd4935db8a3ebccd365285043d4656b6b1207bcc7466d4066ea7fe9d21eb84932097c9198dc5#rd)  
 - [2022-04-14-【PPT】腾讯Web无障碍化解决方案与腾讯文档实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253806&idx=2&sn=fc35ee0819797b556846cb5ab2ab8ada&chksm=bd4935aa8a3ebcbcfb09deaddbc768949be14790f9d70758356547276a41890701900a38a3fd#rd)  
 - [2022-04-14-【第2587期】共置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253806&idx=1&sn=e87ad1d385ad36704310128951e918aa&chksm=bd4935aa8a3ebcbc31ca4516d9e79ce2089a7d5ea3ed60389428e525f19034a8f4fc7b69f541#rd)  
 - [2022-04-13-【第2586期】JavaScript-中的-SOLID-原则：“O”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253762&idx=1&sn=54a2c27a99199496a872e2c04e41660f&chksm=bd4935868a3ebc90fd8044f8db4f963b8ea8808da0316384299378f48c391744051795103dd0#rd)  
@@ -342,6 +342,7 @@
 </summary>
 
 
+- [2022-04-15-科技爱好者周刊（第-203-期）：英国的名校签证，伯克利的计算机教育](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html) ![](/assets/new.png)  
 - [2022-04-08-科技爱好者周刊（第-202-期）：三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)  
 - [2022-04-01-科技爱好者周刊（第-201-期）：中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)  
 - [2022-03-25-科技爱好者周刊（第-200-期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)  
@@ -361,7 +362,6 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html)  
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html)  
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html)  
-- [2021-12-03-科技爱好者周刊（第-186-期）：低纬度，高海拔，气候优势](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
