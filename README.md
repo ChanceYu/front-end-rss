@@ -10,14 +10,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 22:02:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-16 06:01:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585) ![](/assets/new.png)  
 - [2022-04-08-Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)  
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583)  
 - [2022-03-25-React-18-due-any-day-now..](https://javascriptweekly.com/issues/582)  
@@ -125,8 +126,8 @@
 </summary>
 
 
-- [2022-04-15-突然发现，得考个研究生了-。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602059&idx=1&sn=5e1a523fc3d498ecfb05489b882204b2&chksm=8022eb4ab755625c6196b2ad2c27e52e47f2b8fcf6e407ab780485d09b40a7d60013434ae42f#rd) ![](/assets/new.png)  
-- [2022-04-15-虚拟列表：你有勇气给我-10-万，我就有本事展示给你看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602059&idx=2&sn=dc60a2ec06d896856a9aee422bbddf2f&chksm=8022eb4ab755625c2ebf2df02c7d0fcb9f63d0b8230d0bf00e4bb410215711825d4d7e847c13#rd) ![](/assets/new.png)  
+- [2022-04-15-突然发现，得考个研究生了-。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602059&idx=1&sn=5e1a523fc3d498ecfb05489b882204b2&chksm=8022eb4ab755625c6196b2ad2c27e52e47f2b8fcf6e407ab780485d09b40a7d60013434ae42f#rd)  
+- [2022-04-15-虚拟列表：你有勇气给我-10-万，我就有本事展示给你看](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602059&idx=2&sn=dc60a2ec06d896856a9aee422bbddf2f&chksm=8022eb4ab755625c2ebf2df02c7d0fcb9f63d0b8230d0bf00e4bb410215711825d4d7e847c13#rd)  
 - [2022-04-14-CSS-状态管理，玩出花了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602024&idx=2&sn=fb86fbcafc330de4755366b642056f0d&chksm=8022eba9b75562bf4198fa26164e4eab8588e5565ee56f3313ec156805fc05b3b003e3ce363c#rd)  
 - [2022-04-14-“低代码”将干掉-70%-的软件开发工作？！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602024&idx=1&sn=63b5e56ea1d3df865aa2be0456f9a933&chksm=8022eba9b75562bf0cc4b6905bc2ea924aec58fedebbd69d06d9a120ba4aa1b94085d54f97ba#rd)  
 - [2022-04-13-限时领取！2022字节内部前端开发手册](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602010&idx=1&sn=832ced4d8f29d3a09f2918f0ddfc76ea&chksm=8022eb9bb755628db7d16618ada702b5708d5f4cf65d498ea1897ab531cf54f7c6351725e252#rd)  

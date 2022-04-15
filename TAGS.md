@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-15 22:02:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-04-16 06:01:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)
 - [【JavaScript-Weekly】Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)
 - [【JavaScript-Weekly】Getting-creative-with-JavaScript](https://javascriptweekly.com/issues/581)
 - [【JavaScript-Weekly】Bringing-static-type-syntax-into-JavaScript-itself](https://javascriptweekly.com/issues/580)
@@ -346,7 +347,6 @@
 - [【前端早读课】【第2583期】JavaScript-黑历史---那些只有-1%-的人知道的特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253738&idx=1&sn=c0ecb33f1bf7bc2d9dda8e350813f008&chksm=bd49326e8a3ebb78409361127f50b5a8167a6c523eca3d617df4180e0442507a6152a72e363e#rd)
 - [【前端早读课】【第2581期】如何用JavaScript实现一门编程语言---写一个解析器（Parser）、字符流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253673&idx=1&sn=0617f62963acbfdfcc646bde0bb58e85&chksm=bd49322d8a3ebb3bac221ce5f58b77003b3cf5218525e2cd3b9f795ad812a80822058dd5a277#rd)
 - [【前端早读课】【第2576期】如何用JavaScript实现一门编程语言---前言、λanguage描述](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253552&idx=1&sn=c49e5a2678922009dc6825c34e4f3c15&chksm=bd4932b48a3ebba2393af9db24b1990b9504e4c893643bdceeaaa2d8181c71b5c324a595cc1c#rd)
-- [【前端早读课】【第2575期】苹果官网iPad-mini滚动动画实现原理探究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253531&idx=1&sn=71cecb6e969d33573045c46f035a781d&chksm=bd49329f8a3ebb89a35ba8c946615a2a9334a1cdb51a978d91e433df390339cdd76ed7b1cdb9#rd)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

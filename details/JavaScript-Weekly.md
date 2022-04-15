@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-09 06:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-16 06:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585) 
 - [2022-04-08-Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584) 
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583) 
 - [2022-03-25-React-18-due-any-day-now..](https://javascriptweekly.com/issues/582) 

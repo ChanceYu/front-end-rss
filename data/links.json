@@ -98,6 +98,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "On function composition in JavaScript",
+        "link": "https://javascriptweekly.com/issues/585",
+        "date": "2022-04-15"
+      },
+      {
         "title": "Format JavaScript as the Romans do?",
         "link": "https://javascriptweekly.com/issues/584",
         "date": "2022-04-08"
