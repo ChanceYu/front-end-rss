@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 06:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-16 18:01:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -39,8 +39,8 @@
 - [2020-08-18-20k以上面试必问，Webpack原理和优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238975&idx=1&sn=e45e03236d319d7ea1fa81bffa7861a7&chksm=bd496bbb8a3ee2add515e4b4ad3bdc16b986b82740fcde91386381dd6061587af0b673fa0793&scene=27#wechat_redirect) 
 - [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238188&idx=1&sn=9095586f9e2be4727a868b9fab746221&chksm=bd4976a88a3effbe4d38d46410518a58ba250673ff93e637c8b76ad5efa908dd1bf62fc4e99d&scene=27#wechat_redirect) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237597&idx=1&sn=29d7c2d32920e575ec256a020ebc209c&chksm=bd4975598a3efc4f9bfe19ea8bbf7b57e5c9cd44d6ad184d68bce399b2400897b4e7ac264263&scene=27#wechat_redirect) 
-- [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd) 
 - [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
+- [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd) 
 - [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect) 
 - [2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd) 
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect) 
@@ -62,8 +62,8 @@
 - [2018-12-22-【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect) 
 - [2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect) 
 - [2018-12-02-【第1464期】babel7使用手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230594&idx=1&sn=85776d694c8c389c1a529a0f7c13ed70#wechat_redirect) 
-- [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
+- [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
 - [2022-02-25-前端开发者应该知道的-Centos-/-Docker-/-Nginx-/-Node-/-Jenkins-操作长文，建议收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651599407&idx=3&sn=f253a672a6719e8c5dd7087bc46d8070&chksm=8022e5eeb7556cf84246730ee997c237bf7ab3668a0d3c90055cd9e03ff7dead6eab3141b42a#rd) 
 - [2022-02-24-彻底搞懂-npm、yarn-与-pnpm-依赖管理逻辑](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651598708&idx=2&sn=a3c0973dd52844d51840db440cb5f5c4&chksm=8022f8b5b75571a359ce0878d0532898ba5614ea4a27e106f4bca25e98e2e9845996ca64233d#rd) 
@@ -199,6 +199,7 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2022-04-15-JavaScript-新一代构建工具对比](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505177&idx=2&sn=59ff7b510a5f0fca8eb4198f335c745e&chksm=f992d3c8cee55adefbfbf419c6f822a50802aa02c0bbf70b05f07dccc6a59127fbfb5084cfe7#rd) 
 - [2022-04-05-手摸手教你docker+jenkins+gitlab部署你的前端项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505035&idx=1&sn=b4053ac60fa18971111bb378d1d60958&chksm=f992d25acee55b4cb147eb75625e21ae866be8e747b0a265052355ae491898761365b687582a#rd) 
 - [2022-03-20-【包真】我的第一次webpack优化，首屏渲染从9s到1s](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247504389&idx=1&sn=be7716d8437c18307fd20fff5dadaed0&chksm=f992d4d4cee55dc2c79ea0cb923228cd6e038bb975e3e3962c64d026f031d85082e29dd8fec2#rd) 
 - [2022-03-09-下一代前端开发利器——Vite（原理源码解析）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503945&idx=3&sn=6b5961de4ab5bac797bad9c533ef876a&chksm=f992d698cee55f8e34554d668d8c33396588e5f48cb9721be81abd4441dabd310b9736645bd6#rd) 
