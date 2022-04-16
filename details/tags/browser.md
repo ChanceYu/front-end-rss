@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 18:01:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-17 06:03:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -288,6 +288,7 @@
 - [2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
 - [2018-11-16-图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect) 
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
+- [2022-04-15-离开页面时，你知道如何可靠地发送一个-HTTP-请求吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486093&idx=1&sn=d28fd3caddea90e92c85b2420674e1c9&chksm=ce461f1cf931960acebe664b423225dd9c70a489c779ed9438ca7ad72f44e3671d220601eebb#rd) 
 - [2022-03-11-复习一下18个「计网-浏览器」知识点，金三银四冲！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485855&idx=1&sn=fa4775a2a554da513d27456d9c1501fd&chksm=ce461c0ef931951830e2637a690b4a1dcbb9f42e0e9fedfdb354381c540a4bf89514971799a9#rd) 
 - [2022-02-28-e.target-和-e.currentTarget-的区别？你到底知不知道？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485676&idx=1&sn=457d5c900d9c4ce20a7685c57669f626&chksm=ce461d7df931946bae794365fb0e011a531b7ab86c067ace580ea5a6bc3cb0b20fc7ffde08c3#rd) 
 - [2022-02-18-不废话，代码实践带你掌握-强缓存、协商缓存！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485559&idx=1&sn=7b7bf150c0458f463410655b085d5cbe&chksm=ce461de6f93194f04c3e17f49225e09167cf83f0d51d540afac058f50ff825b767475160b6b3#rd) 
