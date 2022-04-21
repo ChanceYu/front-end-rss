@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node.js 18 released",
+        "link": "https://nodeweekly.com/issues/434",
+        "date": "2022-04-21"
+      },
+      {
         "title": "Wild wild property access",
         "link": "https://nodeweekly.com/issues/433",
         "date": "2022-04-14"
