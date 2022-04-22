@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-22 18:04:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-04-23 06:01:05。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -193,6 +193,7 @@
 - [【Node-Weekly】Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)
 - [【Node-Weekly】Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418)
 - [【Node-Weekly】One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416)
+- [【JavaScript-Weekly】Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)
 - [【前端早读课】【招聘】字节跳动飞书文档Node中台团队前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253108&idx=2&sn=443526fde1dac28e457fddb13055e2fe&chksm=bd4930f08a3eb9e6c66c0f0b2c7e672b42bbbb0d1cc59a0fad1c2c2e671d97c65c75a570b114#rd)
 - [【前端早读课】【第2520期】为什么你应该考虑将-node_modules-上传到远程仓库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252508&idx=1&sn=50b5adf24f9007a13e7471aefd480e85&chksm=bd493e988a3eb78e965b39b2d06c7715ce601f0e5d44fb89820239fc959a3f9293b4b7bd5d5a#rd)
 - [【前端早读课】【第2297期】WebContainers简介：在你的浏览器中运行Node.js](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=2&sn=af9d08bfa3990a4790a321ba70546331&chksm=bd49164a8a3e9f5c511de4a39454990902bc236d01bc2a01cbdf29c842af8c36e60ba0fc2674&scene=27#wechat_redirect)
@@ -202,7 +203,6 @@
 - [【前端早读课】【第2149期】V8中的快属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242010&idx=1&sn=3b92da9b6705e8cd703bdbfb443cba7e&chksm=bd49679e8a3eee888df5733465ad4ac96e12edb275b510c6e45ce9f365a8e864781634a251ae&scene=27#wechat_redirect)
 - [【前端早读课】【第2141期】Promise-V8-源码分析二](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241836&idx=2&sn=9a5b90a7601f98b38adbcf09db772ea9&chksm=bd4964e88a3eedfe9a7635f33b73a2fcc80a25d35bb9622312172e2d2ef89a37b17c04fe4ddf&scene=27#wechat_redirect)
 - [【前端早读课】【第2117期】如何删除电脑上所有的Node_Modules文件夹？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241067&idx=1&sn=dffa2d6ff5fe074b51a034adbc3e6186&chksm=bd4963ef8a3eeaf90f7e3ee061bade1de78e6296326459db15f89d5997ff5ae47f916393825e&scene=27#wechat_redirect)
-- [【前端早读课】【第2098期】Redis-+-NodeJS-实现一个能处理海量数据的异步任务队列系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240497&idx=1&sn=e2571b500e1d24d7483aef0eb020f05a&chksm=bd4961b58a3ee8a376eb0c47183e5ae5944a48ec9bcb6af87861feba98bd01054465eadbb7a9&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

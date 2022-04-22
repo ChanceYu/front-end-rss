@@ -103,6 +103,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Node.js 18, WebAssembly 2.0, and Ember 4.3",
+        "link": "https://javascriptweekly.com/issues/586",
+        "date": "2022-04-22"
+      },
+      {
         "title": "On function composition in JavaScript",
         "link": "https://javascriptweekly.com/issues/585",
         "date": "2022-04-15"
