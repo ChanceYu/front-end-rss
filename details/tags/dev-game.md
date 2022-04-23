@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-23 08:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-23 18:01:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -53,6 +53,7 @@
 - [2020-11-20-科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html) 
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) 
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html) 
+- [2022-04-21-3D-沙盒游戏之人物的点击行走移动](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898761&idx=1&sn=6fcde395b029bb1c296aac20548da406&chksm=8c5fa1c7bb2828d16aef5a3d6db684f5809e91b64d7ca2b5046394303cd13b7339d33aa4b458#rd) 
 - [2022-04-14-3D-沙盒游戏之地面网格设计](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898657&idx=1&sn=bd184fc9b31a0365d78dfb7c455ef766&chksm=8c5fa16fbb282879a337e041f79417f53630a170f75527e0bf3a121e7f8d59789a9d20e66043#rd) 
 - [2022-03-24-3D-沙盒游戏之避障踩坑和实现之旅](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898496&idx=1&sn=c05d785975af2053616db32622a39024&chksm=8c5fa0cebb2829d8bac7d70b006fd82b92de8d20a3dcf31041e8c12566a9f1a205127e3b8f64#rd) 
 - [2022-03-17-不懂物理的前端不是好的游戏开发者（二）——-物理引擎的学习之路](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898432&idx=1&sn=440e5e334de3982f9555156a357df1c2&chksm=8c5fa00ebb2829181355527ac447f3976c3059bed01e371560f593eb49dd1a9782bd026d7a09#rd) 
