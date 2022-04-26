@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-25 18:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-26 08:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -46,8 +46,8 @@
 - [2019-07-07-【第1661期】-Node.js环境性能监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232981&idx=1&sn=a48d2243fb88f7e2a4677b87a22aaaa7#rd) 
 - [2019-06-27-【第1651期】如何分析-Node.js-中的内存泄漏](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232816&idx=2&sn=949c22914887fe5b639f6ac7b9ec59c2#rd) 
 - [2019-06-26-【图书】狼书（卷1）：更了不起的Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232801&idx=2&sn=cb47a5978f35475f19ae1403988f65d6#rd) 
-- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
 - [2019-05-10-【英】Node.js-12介绍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=2&sn=f4ca255b5af0c8fcf8a4d79610399e6b#rd) 
+- [2019-05-10-【第1605期】Node-EE方案----Rockerjs在微店的建设与发展](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232216&idx=1&sn=94ab557e72567fa1f0f19821d0e4e2cc#rd) 
 - [2019-04-14-【第1582期】为什么-Node-是小菜前端团队的核心技术栈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232007&idx=1&sn=88daa4c124f87e96c20a5d9bd8b1315f#rd) 
 - [2019-03-23-【招聘】天猫技术部招2020届Web前端,Node.js,数据可视化方向实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231803&idx=2&sn=5455d9be2ba40774a77c775cc179107a#rd) 
 - [2019-02-11-【第1523期】Node.js-中的依赖管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231340&idx=1&sn=6c733e435b8a54fffd1ed5dd2888e1db#wechat_redirect) 
@@ -121,6 +121,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2022-04-24-Node.js-18发布；一公司要求员工下班前先发手机电量截图；小红书：裁员只是正常汰换；Java-之父：别再坚守-Java-8](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514437&idx=1&sn=b408a2ed9bed3c1c8eeaeeaae16326be&chksm=f9520c06ce25851031af387f0f4da470f69021324e25bdbbdd9a9f3139e904aa9d0db39f8ab5#rd) 
 - [2022-03-17-以反战为名，百万周下载量node-ipc包作者进行供应链投毒](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513841&idx=1&sn=608b7c3a8750b9b7c076e31e3d3c91bc&chksm=f95203b2ce258aa47c0a7d426a08cfde999e636eb86780becf84896819fe637384d146a0f270#rd) 
 - [2022-02-09-Deno-2021-回顾：优化内核、兼容-Node.js](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513212&idx=1&sn=d6d3f9816e92a5318dfaddad803904e8&chksm=f952013fce25882935cfec8dfeb835fcd2546f3f20707a9e39dfcb8cd0dfcf01fd7099dc52bf#rd) 
 - [2022-02-06-Flutter-2.10发布；Electron-17.0.0发布；百度:北京冬奥会史上最火；扎克伯格“流泪”回应-Meta-暴跌](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513196&idx=1&sn=cd68071f7a485bf934e36359e34d8457&chksm=f952012fce258839bc42790d8e1fa1dd131bd9f9e83f1cacca13223104538c38b6d32c6e531a#rd) 
