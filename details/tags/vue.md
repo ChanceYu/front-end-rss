@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-27 18:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-27 22:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -344,6 +344,7 @@
 - [2022-01-24-来聊聊Vue中使用Render函数和JSX](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485101&idx=1&sn=536d05267ff890b9e961ed310c2f1093&chksm=ce46133cf9319a2ae4bac892f4ff65097cfc9686849b2c5a94e958045aa9f2489d01bf058d06#rd) 
 - [2022-01-23-我准备学习这5个东西，应对Vue3默认版本！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485092&idx=1&sn=8735a83b77e2db0894c8497e4e51fbb6&chksm=ce461335f9319a23615e7a8a40f299745987ae496e0080aa0f8dd1b736d26261b58f1be95580#rd) 
 - [2022-01-22-VUE开发者必须知道的实用技术点！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485084&idx=1&sn=a184081b5ba8ad9b14b5a0e9a090b030&chksm=ce46130df9319a1bdafe8e4301d66c1e6e0e87247a20103805814f3fde45c6e9d0d0ab32a3b5#rd) 
+- [2022-04-27-高级前端开发者必会的-34-道-Vue-面试题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062851&idx=3&sn=fbffb1363bdcc4a64b9b3dba1bf8ff59&chksm=87c45953b0b3d045262aac764ebfcc005a9cb506138b3b1966fb3f29260b3f626121cea732d5#rd) 
 - [2022-04-19-构建Vue-CLI插件的基本流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062623&idx=2&sn=0ae98f702ff4cd59978c7e23b7bace75&chksm=87c4264fb0b3af59adc1bbc0c521d3edd1ebcb55b4f9cade0e4856680ce497877c583bae305c#rd) 
 - [2022-04-18-在-Vue-中为什么不推荐用-index-做-key](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062612&idx=1&sn=3046b76628d1d449cde90c7d0b4fd2f8&chksm=87c42644b0b3af528361cbebfc1aaf1f59ddafb5811363547189e48d92821e8ac18a79ba088c#rd) 
 - [2022-04-11-深入解析-Vue-的热更新原理，尤大是如何巧用源码中的细节？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062460&idx=2&sn=313f7e20ef59008506127c29b946d749&chksm=87c427acb0b3aeba5a2b54c3ad04c46586549c0f3c546f413f4d36e5761756b36c88abc4fb89#rd) 
@@ -373,8 +374,8 @@
 - [2022-01-21-尤雨溪:-Vue-3-将成为新的默认版本](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502740&idx=2&sn=aa54cca32eade755826564de2e532b2f&chksm=f992cd45cee54453f52f1ce30cf5e465fe11428ad50b36f3055e39c5d28176df9036434b22d6#rd) 
 - [2022-01-20-为什么-vue-源码以及生态仓库要迁移-pnpm?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=2&sn=cb5aa2698fd2b7fa70711a9f0f2d0b0b&chksm=f992cd59cee5444f97cb6524b52557f71c587a677efe066f56dde4791e31c588f7a911660527#rd) 
 - [2022-01-11-下载量和Vue一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502585&idx=2&sn=54d20f6fe3565a4570cf3d8387f3a523&chksm=f992cc28cee5453e7d6121cb551165b485f022ed73ef56eaad4150f9a92f34a9770011e0cc79#rd) 
-- [2022-01-02-Vue.js源码中的几个精妙方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=3&sn=4989c0e5d5a1c0684e663777d4c11acd&chksm=f992cf6dcee5467bf76bac5642455866d8563be9ec09502284441d30d43c72edf34f34e05f2a#rd) 
 - [2022-01-02-做好这-16-个方向，逐步搭建出团队的-vue3-前端架构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=2&sn=a4cbe9408e4a895a9a9dc194b01f4921&chksm=f992cf6dcee5467bc922560b4575241d45a804c8a4e8e72aed71aafc6c2d9b5af6351640a2fb#rd) 
+- [2022-01-02-Vue.js源码中的几个精妙方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=3&sn=4989c0e5d5a1c0684e663777d4c11acd&chksm=f992cf6dcee5467bf76bac5642455866d8563be9ec09502284441d30d43c72edf34f34e05f2a#rd) 
 - [2022-03-29-Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](http://www.yyyweb.com/5448.html) 
 - [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html) 
 - [2020-12-05-🎉-Element-UI-for-Vue-3.0-来了！](http://www.yyyweb.com/5398.html) 
