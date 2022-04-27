@@ -10,17 +10,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 06:00:24，:rocket: 更新条数: +12， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-27 08:00:26，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -97,26 +97,26 @@
 </summary>
 
 
-- [2022-04-26-【第2599期】如何用JavaScript实现一门编程语言---解析器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254022&idx=1&sn=043e451f807ac35fa78605c80196e71c&chksm=bd4934828a3ebd9443876fee321f416866ba65b955ecef879778e7d979dc4232d0d5f799b237#rd)  
+- [2022-04-27-【第2600期】如何用JavaScript实现一门编程语言---简单的解释器（Interpreter）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254038&idx=1&sn=781a1e4eca14705c67ae4ef036eadeeb&chksm=bd4934928a3ebd84f3b42c83c0496ab97b18adde760844a3b163b9ab61fdd2c0c5a319201d79#rd) ![](/assets/new.png)  
+- [2022-04-27-【图书】Docker实战派---容器入门七步法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254038&idx=2&sn=bc3af86be1c17c27873da39dc82c9d46&chksm=bd4934928a3ebd845481515612c52fd0957f1daeb3c9024715739ad332766a82a03469201ca6#rd) ![](/assets/new.png)  
 - [2022-04-26-现在Axios封装和api接口都这样做了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254022&idx=2&sn=36c81b87efaf7a08c958e33419f26a7d&chksm=bd4934828a3ebd94501a6109fa007018ea37c9d76a347e174449850e94acc2287f2ae672e7e9#rd)  
+- [2022-04-26-【第2599期】如何用JavaScript实现一门编程语言---解析器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254022&idx=1&sn=043e451f807ac35fa78605c80196e71c&chksm=bd4934828a3ebd9443876fee321f416866ba65b955ecef879778e7d979dc4232d0d5f799b237#rd)  
 - [2022-04-25-【第2598期】ServiceWorker-缓存与-HTTP-缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253998&idx=1&sn=7c651385a6ced1969b912aa4590faa31&chksm=bd49356a8a3ebc7c741f8f99d3d30ee68b31c8a9f37766a2e1872d92bacaebb25b7aa646d50b#rd)  
 - [2022-04-24-【第2597期】如何用JavaScript实现一门编程语言---AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253983&idx=1&sn=db880f1fe0b2f69b7b118ed427c93a50&chksm=bd49355b8a3ebc4d157bd7adbbca7f4cfcec8d598f79780ffdd2fe1a680ca48a94e3d53c2881#rd)  
-- [2022-04-23-【图书】4.23-读书节书单](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253966&idx=2&sn=1a23bb3084942bc7237d1f4e1dfc4aca&chksm=bd49354a8a3ebc5cd87ca77faa45d7d4856350d836034983d92dd16edb1fb94223cfe3dfbcb5#rd)  
 - [2022-04-23-【第2596期】如何构建可控,可靠,可扩展的-PWA-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253966&idx=1&sn=6b6b595832f04ce84b2117b772afacb1&chksm=bd49354a8a3ebc5ce658c1579f1a43f63badba75b1f1a67888b397fd06ee2d99e562da4af008#rd)  
+- [2022-04-23-【图书】4.23-读书节书单](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253966&idx=2&sn=1a23bb3084942bc7237d1f4e1dfc4aca&chksm=bd49354a8a3ebc5cd87ca77faa45d7d4856350d836034983d92dd16edb1fb94223cfe3dfbcb5#rd)  
 - [2022-04-22-【第2595期】花椒低代码可视化编辑平台的设计与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253929&idx=1&sn=5a332bf0912f593f0720e1c043cefc2d&chksm=bd49352d8a3ebc3bdb0fb26cfeff3cc1505811bed9e17b33c1cfa9641d2cb1ede0af25c919b6#rd)  
 - [2022-04-21-【第2594期】CSS-绘制一个时钟](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253917&idx=1&sn=ec762584d84327d59c23d0b8f8cc9a20&chksm=bd4935198a3ebc0fefd92974521065b609746d9b400df29d306e523c7f70d575d7e873f39df9#rd)  
 - [2022-04-20-【第2593期】NutUI移动端日历组件设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253893&idx=1&sn=aeac033f593d175034306d6838333132&chksm=bd4935018a3ebc17c9717fbd3395986d7cf69041a0ba13db87d0676dab0709a67774650f9d6b#rd)  
 - [2022-04-19-【第2592期】JavaScript-中的-SOLID-原则：“D”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253877&idx=1&sn=88df5d98fad97ccd4d043080c097fd1c&chksm=bd4935f18a3ebce725bb71ed998c60f195fb35d6d761d4dfed2cef08ea4b7bfdf2697e16486f#rd)  
-- [2022-04-18-【第2591期】JavaScript-中的-SOLID-原则：“I”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253870&idx=1&sn=7df981d1b75963abd49aefaac38ca138&chksm=bd4935ea8a3ebcfcc53e15a30ef64f3f3d5d62b8465179db522e309eee4e3636713a59a4e2bb#rd)  
 - [2022-04-18-【图书】智能前端技术与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253870&idx=2&sn=4a5592f1d2029d001f1b099ab36cbf1e&chksm=bd4935ea8a3ebcfc9193c947d3c775e644964a5f0814988849177dead25de4d75240a9329fea#rd)  
+- [2022-04-18-【第2591期】JavaScript-中的-SOLID-原则：“I”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253870&idx=1&sn=7df981d1b75963abd49aefaac38ca138&chksm=bd4935ea8a3ebcfcc53e15a30ef64f3f3d5d62b8465179db522e309eee4e3636713a59a4e2bb#rd)  
 - [2022-04-17-【第2590期】基于Vite的electron开发构建工具：electron-vite](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253861&idx=1&sn=e7da0973fcec4cd48f5eaed8007e11b0&chksm=bd4935e18a3ebcf7e2dde70b870676e4dc1a32555d095847f57c6a5161db109e24fa47edbfaa#rd)  
 - [2022-04-16-【第2589期】JavaScript-中的-SOLID-原则：“L”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253856&idx=1&sn=eebab55a0d9f2ff4628f6cb2210b0539&chksm=bd4935e48a3ebcf2e0c3583d518834631a4d0b7098ae744ee753e84a862945b5d9426a512aff#rd)  
 - [2022-04-15-【第2588期】转转智能代码平台神笔马良的研发与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253855&idx=1&sn=a23fb8cf40a3c29c703e8ce0b2599cd5&chksm=bd4935db8a3ebccd365285043d4656b6b1207bcc7466d4066ea7fe9d21eb84932097c9198dc5#rd)  
-- [2022-04-14-【第2587期】共置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253806&idx=1&sn=e87ad1d385ad36704310128951e918aa&chksm=bd4935aa8a3ebcbc31ca4516d9e79ce2089a7d5ea3ed60389428e525f19034a8f4fc7b69f541#rd)  
 - [2022-04-14-【PPT】腾讯Web无障碍化解决方案与腾讯文档实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253806&idx=2&sn=fc35ee0819797b556846cb5ab2ab8ada&chksm=bd4935aa8a3ebcbcfb09deaddbc768949be14790f9d70758356547276a41890701900a38a3fd#rd)  
+- [2022-04-14-【第2587期】共置](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253806&idx=1&sn=e87ad1d385ad36704310128951e918aa&chksm=bd4935aa8a3ebcbc31ca4516d9e79ce2089a7d5ea3ed60389428e525f19034a8f4fc7b69f541#rd)  
 - [2022-04-13-【第2586期】JavaScript-中的-SOLID-原则：“O”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253762&idx=1&sn=54a2c27a99199496a872e2c04e41660f&chksm=bd4935868a3ebc90fd8044f8db4f963b8ea8808da0316384299378f48c391744051795103dd0#rd)  
-- [2022-04-12-【第2585期】如何用JavaScript实现一门编程语言---Token流](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253757&idx=1&sn=6b64bb461c593cdb9fe1488f3a3f61ee&chksm=bd4932798a3ebb6feac522be71d8d620d68b394bc765f836ed6d86fdfd6b6827991198be2386#rd)  
-- [2022-04-12-5-大-Vue3-开发中的误区](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253757&idx=2&sn=75f97e44af897a12d3f61fa3eabad808&chksm=bd4932798a3ebb6f7cbb2b254f85b9d807b11486183b317cf5dec71c2e3224c6690dfa07318f#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -128,10 +128,10 @@
 </summary>
 
 
-- [2022-04-25-实战篇-Vue-+-Node.js-从-0-到-1-实现自动化部署工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602410&idx=1&sn=252f796fcbf458a6d6972a5b65b5612c&chksm=8022ea2bb755633df7375634b2077c174cb8de3b7d7effebb32de8a6053fec1a809b49ec7ae9#rd) ![](/assets/new.png)  
-- [2022-04-25-手写-JS-引擎来解释一道赋值面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602410&idx=2&sn=6a41ac0f61a81488702d250de888d3fd&chksm=8022ea2bb755633d46cbb73f06cdd5527f10e5566b66c4d9cc683c9e3940f38fbce4bd702f3c#rd) ![](/assets/new.png)  
-- [2022-04-24-e.target-和-e.currentTarget-的区别？你到底知不知道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=1&sn=7858871bd021d3c1a5c9101f91559386&chksm=8022ea26b7556330e03422da87594d2827c12daefb2a9a3ea9be79d6b372e7a902e163a6dd4b#rd) ![](/assets/new.png)  
-- [2022-04-24-不记得-Git-命令？-懒人版-Git-值得拥有！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=2&sn=833ffb029cb5e90cd6e21fca4a005bbf&chksm=8022ea26b7556330c2ea0174e83766f4153c4ca77ab26e6794698e8a271803d15c6fb27e0230#rd) ![](/assets/new.png)  
+- [2022-04-25-实战篇-Vue-+-Node.js-从-0-到-1-实现自动化部署工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602410&idx=1&sn=252f796fcbf458a6d6972a5b65b5612c&chksm=8022ea2bb755633df7375634b2077c174cb8de3b7d7effebb32de8a6053fec1a809b49ec7ae9#rd)  
+- [2022-04-25-手写-JS-引擎来解释一道赋值面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602410&idx=2&sn=6a41ac0f61a81488702d250de888d3fd&chksm=8022ea2bb755633d46cbb73f06cdd5527f10e5566b66c4d9cc683c9e3940f38fbce4bd702f3c#rd)  
+- [2022-04-24-e.target-和-e.currentTarget-的区别？你到底知不知道？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=1&sn=7858871bd021d3c1a5c9101f91559386&chksm=8022ea26b7556330e03422da87594d2827c12daefb2a9a3ea9be79d6b372e7a902e163a6dd4b#rd)  
+- [2022-04-24-不记得-Git-命令？-懒人版-Git-值得拥有！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=2&sn=833ffb029cb5e90cd6e21fca4a005bbf&chksm=8022ea26b7556330c2ea0174e83766f4153c4ca77ab26e6794698e8a271803d15c6fb27e0230#rd)  
 - [2022-04-22-JS-烧脑面试题大赏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602352&idx=2&sn=f9673f450ed2495880d9f302ed472f0d&chksm=8022ea71b7556367196a2905fd25a7287b49feb8b56337c8f7964688804176ff768da299a87c#rd)  
 - [2022-04-22-金三银四你还在刷面试题吗？网易前端大神带你3天搞定](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602352&idx=1&sn=8e4f905b145dc0c9e087eaaa511945ad&chksm=8022ea71b7556367d0dcb995fbcc7f3e3233cf3b047441c5c63641278a2a33cba45b19bf84ff#rd)  
 - [2022-04-21-一文彻底搞懂前端实现文件预览（word、excel、pdf、ppt、mp4、图片、文本）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602345&idx=1&sn=12734e48f9cf79c1b231dad3406078ce&chksm=8022ea68b755637ee2218e30d8d06e8dac2877b3d0e16273e291d7e0b9fd1f8d46218f1788be#rd)  
@@ -221,14 +221,14 @@
 </summary>
 
 
-- [2022-04-26-阿里低代码引擎-LowCodeEngine-正式开源！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=1&sn=13693dad80cd53e5a53ac5a90fd228b4&chksm=87c45930b0b3d026b1df55d5d0e0cdad5018821816cfbb90f0ecb0a784d8a0397ea343084f8a#rd) ![](/assets/new.png)  
-- [2022-04-26-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=2&sn=2c3cf75b0f0b61a0faa8df72f39ce8fe&chksm=87c45930b0b3d026c181b71387d6cb0fa1e1fc133fa45cc4223180993b1237b25fae0eeef629#rd) ![](/assets/new.png)  
-- [2022-04-26-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=3&sn=77259a2a9b15b7568eb5f9dab9248e9c&chksm=87c45930b0b3d026abe3bf160375b1eb49fcf842ca5b5f4edc6b1938e7dc6af27b074f9af5b4#rd) ![](/assets/new.png)  
-- [2022-04-25-React-中的一些-Router-必备知识点](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062799&idx=1&sn=1e2d34e13f315e7dd9aadeed40f310b8&chksm=87c4591fb0b3d00917912fbe835d94934c2649e0c8e46f463ee7dbe92a5dc3b238409a8a26f1#rd) ![](/assets/new.png)  
-- [2022-04-25-你不知道的-TypeScript-泛型（万字长文，建议收藏）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062799&idx=2&sn=786f1e5ce10690340a639dca93a3eaf8&chksm=87c4591fb0b3d0091d810bd52ef0ae686a9bf54ac86e2509c88d16be196d65e622ea45e5f8ef#rd) ![](/assets/new.png)  
-- [2022-04-24-React-18-全览](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=1&sn=a6b5444a1bfd67032a7d2c005bda179e&chksm=87c45915b0b3d0030b3479eb41358a9353d8c066ed13c8c0b4d0c47d5270af3fafbce214ce32#rd) ![](/assets/new.png)  
-- [2022-04-24-Vite-特性和部分源码解析](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=2&sn=987aef89d03c98f181c4523e8f15b346&chksm=87c45915b0b3d00302538f78e26a3731cc2c855ec5bea5f8788305033c2d7b032c46ee0c91d3#rd) ![](/assets/new.png)  
-- [2022-04-24-写给前端的算法进阶指南，我是如何两个月零基础刷200题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=3&sn=d56e0686aa9809d9d6de48153aa9a012&chksm=87c45915b0b3d003008092e7bf3816e19a57c0d8c62918c52149f40ec3c0853bd85ed62f65fd#rd) ![](/assets/new.png)  
+- [2022-04-26-阿里低代码引擎-LowCodeEngine-正式开源！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=1&sn=13693dad80cd53e5a53ac5a90fd228b4&chksm=87c45930b0b3d026b1df55d5d0e0cdad5018821816cfbb90f0ecb0a784d8a0397ea343084f8a#rd)  
+- [2022-04-26-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=2&sn=2c3cf75b0f0b61a0faa8df72f39ce8fe&chksm=87c45930b0b3d026c181b71387d6cb0fa1e1fc133fa45cc4223180993b1237b25fae0eeef629#rd)  
+- [2022-04-26-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=3&sn=77259a2a9b15b7568eb5f9dab9248e9c&chksm=87c45930b0b3d026abe3bf160375b1eb49fcf842ca5b5f4edc6b1938e7dc6af27b074f9af5b4#rd)  
+- [2022-04-25-React-中的一些-Router-必备知识点](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062799&idx=1&sn=1e2d34e13f315e7dd9aadeed40f310b8&chksm=87c4591fb0b3d00917912fbe835d94934c2649e0c8e46f463ee7dbe92a5dc3b238409a8a26f1#rd)  
+- [2022-04-25-你不知道的-TypeScript-泛型（万字长文，建议收藏）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062799&idx=2&sn=786f1e5ce10690340a639dca93a3eaf8&chksm=87c4591fb0b3d0091d810bd52ef0ae686a9bf54ac86e2509c88d16be196d65e622ea45e5f8ef#rd)  
+- [2022-04-24-React-18-全览](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=1&sn=a6b5444a1bfd67032a7d2c005bda179e&chksm=87c45915b0b3d0030b3479eb41358a9353d8c066ed13c8c0b4d0c47d5270af3fafbce214ce32#rd)  
+- [2022-04-24-Vite-特性和部分源码解析](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=2&sn=987aef89d03c98f181c4523e8f15b346&chksm=87c45915b0b3d00302538f78e26a3731cc2c855ec5bea5f8788305033c2d7b032c46ee0c91d3#rd)  
+- [2022-04-24-写给前端的算法进阶指南，我是如何两个月零基础刷200题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=3&sn=d56e0686aa9809d9d6de48153aa9a012&chksm=87c45915b0b3d003008092e7bf3816e19a57c0d8c62918c52149f40ec3c0853bd85ed62f65fd#rd)  
 - [2022-04-22-ES7、ES8、ES9、ES10新特性大盘点](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062747&idx=4&sn=086c6b62742a7ad0722da95cab353720&chksm=87c426cbb0b3afdd9edcd253c6455abf53424c79fea7f211dc111bbbc688e0ef0c02ebe2385f#rd)  
 - [2022-04-22-万字长文干货，从面试官角度再看招聘](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062747&idx=3&sn=bd234d42c7a80a6959917506f4f82aff&chksm=87c426cbb0b3afdd080c16e1b6f5cede5dd832bf2e303720bcc6f63d7864a6f4f1039fc7d7e5#rd)  
 - [2022-04-22-我的前端成长之路：在阿里七年，我的成长和迷茫](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062747&idx=2&sn=5ffae9faa40b2530500e2be67ae3cfb6&chksm=87c426cbb0b3afddbbf2fcbac84f8e4f5fabb39bc0074b1c3ae0845d51fc82b2bae1ddc61829#rd)  
