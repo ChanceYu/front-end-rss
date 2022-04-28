@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-28 12:00:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-28 22:01:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -121,6 +121,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2022-04-28-为遗留-Node.js-后端编写自动化测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514485&idx=1&sn=166ea63336aa775632233940f7ac6af5&chksm=f9520c36ce258520ace997be5017d49c3fc3dc9f58ca4e917150c02a80cedf7fdc27fdf9cfa2#rd) 
 - [2022-04-24-Node.js-18发布；一公司要求员工下班前先发手机电量截图；小红书：裁员只是正常汰换；Java-之父：别再坚守-Java-8](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514437&idx=1&sn=b408a2ed9bed3c1c8eeaeeaae16326be&chksm=f9520c06ce25851031af387f0f4da470f69021324e25bdbbdd9a9f3139e904aa9d0db39f8ab5#rd) 
 - [2022-03-17-以反战为名，百万周下载量node-ipc包作者进行供应链投毒](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513841&idx=1&sn=608b7c3a8750b9b7c076e31e3d3c91bc&chksm=f95203b2ce258aa47c0a7d426a08cfde999e636eb86780becf84896819fe637384d146a0f270#rd) 
 - [2022-02-09-Deno-2021-回顾：优化内核、兼容-Node.js](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247513212&idx=1&sn=d6d3f9816e92a5318dfaddad803904e8&chksm=f952013fce25882935cfec8dfeb835fcd2546f3f20707a9e39dfcb8cd0dfcf01fd7099dc52bf#rd) 
