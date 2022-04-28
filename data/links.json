@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Now Node 16 gets the Fetch API too",
+        "link": "https://nodeweekly.com/issues/435",
+        "date": "2022-04-28"
+      },
+      {
         "title": "Node.js 18 released",
         "link": "https://nodeweekly.com/issues/434",
         "date": "2022-04-21"

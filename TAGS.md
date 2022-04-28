@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-28 22:01:32。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-04-29 06:12:48。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435)
 - [【Node-Weekly】Node.js-18-released](https://nodeweekly.com/issues/434)
 - [【Node-Weekly】A-roundup-of-what's-new-in-Node.js-core](https://nodeweekly.com/issues/431)
 - [【Node-Weekly】A-collection-of-proficient-Node.js-dev-practices](https://nodeweekly.com/issues/430)
@@ -202,7 +203,6 @@
 - [【前端早读课】【第2164期】在-Node.js-中避免内存泄漏：性能最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242819&idx=1&sn=630fe01c63aa877790f9e0a339de5c19&chksm=bd4918c78a3e91d19a5df56701eafdd44e4ce5d64386bb2f87359700a2d7190f20b7c93202cc&scene=27#wechat_redirect)
 - [【前端早读课】【第2149期】V8中的快属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242010&idx=1&sn=3b92da9b6705e8cd703bdbfb443cba7e&chksm=bd49679e8a3eee888df5733465ad4ac96e12edb275b510c6e45ce9f365a8e864781634a251ae&scene=27#wechat_redirect)
 - [【前端早读课】【第2141期】Promise-V8-源码分析二](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241836&idx=2&sn=9a5b90a7601f98b38adbcf09db772ea9&chksm=bd4964e88a3eedfe9a7635f33b73a2fcc80a25d35bb9622312172e2d2ef89a37b17c04fe4ddf&scene=27#wechat_redirect)
-- [【前端早读课】【第2117期】如何删除电脑上所有的Node_Modules文件夹？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241067&idx=1&sn=dffa2d6ff5fe074b51a034adbc3e6186&chksm=bd4963ef8a3eeaf90f7e3ee061bade1de78e6296326459db15f89d5997ff5ae47f916393825e&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

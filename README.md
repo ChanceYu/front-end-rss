@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-28 22:01:32，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-29 06:12:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-04-28-Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435) ![](/assets/new.png)  
 - [2022-04-21-Node.js-18-released](https://nodeweekly.com/issues/434)  
 - [2022-04-14-Wild-wild-property-access](https://nodeweekly.com/issues/433)  
 - [2022-04-07-The-one-with-the-epic-code-and-tools-section](https://nodeweekly.com/issues/432)  
@@ -159,7 +160,7 @@
 </summary>
 
 
-- [2022-04-28-为遗留-Node.js-后端编写自动化测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514485&idx=1&sn=166ea63336aa775632233940f7ac6af5&chksm=f9520c36ce258520ace997be5017d49c3fc3dc9f58ca4e917150c02a80cedf7fdc27fdf9cfa2#rd) ![](/assets/new.png)  
+- [2022-04-28-为遗留-Node.js-后端编写自动化测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514485&idx=1&sn=166ea63336aa775632233940f7ac6af5&chksm=f9520c36ce258520ace997be5017d49c3fc3dc9f58ca4e917150c02a80cedf7fdc27fdf9cfa2#rd)  
 - [2022-04-26-Ajax-之战：XMLHttpRequest-与-Fetch-API](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514462&idx=1&sn=37bd9011865f2ca873ee0cebdb1917e1&chksm=f9520c1dce25850baa732fc52894b4fc066723c3f7c67ec84c645773d6809d8b52f80433596a#rd)  
 - [2022-04-24-Node.js-18发布；一公司要求员工下班前先发手机电量截图；小红书：裁员只是正常汰换；Java-之父：别再坚守-Java-8](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514437&idx=1&sn=b408a2ed9bed3c1c8eeaeeaae16326be&chksm=f9520c06ce25851031af387f0f4da470f69021324e25bdbbdd9a9f3139e904aa9d0db39f8ab5#rd)  
 - [2022-04-22-超越库和框架的技术创新](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514373&idx=1&sn=633ba26edcdfcdc1e0dd939e95c06094&chksm=f9520c46ce25855018194f8705f6d8c66c9291bbbfa0648e9f52a71f849e1ff42c74f946923a#rd)  
@@ -252,8 +253,8 @@
 </summary>
 
 
-- [2022-04-28-一个小厂前端-Leader-如何筛选候选人？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=1&sn=2d8ab71b6d98a8536c883a18e4b2af28&chksm=f992df25cee556332126750fffa7db35bf735696a4f6711b1060944b0f3d7b7f1f8380ae8bea#rd) ![](/assets/new.png)  
-- [2022-04-28-面试官:-你了解过Babel吗？写过Babel插件吗?-答:-没有。卒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=2&sn=b42adfbaf380943ae5b79a4a20bf6aee&chksm=f992df25cee556331c74367d82ca4b4faea1da651e65df8725183b95c06ee3f0942b24a875b9#rd) ![](/assets/new.png)  
+- [2022-04-28-一个小厂前端-Leader-如何筛选候选人？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=1&sn=2d8ab71b6d98a8536c883a18e4b2af28&chksm=f992df25cee556332126750fffa7db35bf735696a4f6711b1060944b0f3d7b7f1f8380ae8bea#rd)  
+- [2022-04-28-面试官:-你了解过Babel吗？写过Babel插件吗?-答:-没有。卒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=2&sn=b42adfbaf380943ae5b79a4a20bf6aee&chksm=f992df25cee556331c74367d82ca4b4faea1da651e65df8725183b95c06ee3f0942b24a875b9#rd)  
 - [2022-04-27-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506405&idx=2&sn=b4ccc352f72de0d2557143516ea728dd&chksm=f992df34cee55622128bf1eaeac87c2829470c922d1c0eb5dcb132450f7783594c7338120216#rd)  
 - [2022-04-27-前端鉴权必须了解的-5-个兄弟：cookie、session、token、jwt、单点登录](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506405&idx=1&sn=20b3f7b358e6f887a771b8487ef7fa17&chksm=f992df34cee55622ea4b8594a19aeda5b893fba252dd7ebb794cff4b0ea5a5ae2022b3ecfa61#rd)  
 - [2022-04-26-拿到月薪20k的前端工程师简历是什么样的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506349&idx=1&sn=0e6d8779feaf36bf60f5e6c971e74c0d&chksm=f992df7ccee5566ab5ddfd7f77760641a368f50584483c080c80c3795ca30e33dfd10bd5ebb7#rd)  
