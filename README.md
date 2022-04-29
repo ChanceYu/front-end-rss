@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-29 22:00:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-30 06:00:35，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587) ![](/assets/new.png)  
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)  
 - [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)  
 - [2022-04-08-Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)  
@@ -86,7 +87,6 @@
 - [2021-12-24-The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570)  
 - [2021-12-17-Array.prototype.groupBy](https://javascriptweekly.com/issues/569)  
 - [2021-12-10-Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568)  
-- [2021-12-03-Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2022-04-29-深扒阿里开源微前端架构-icestark：前端又要变革了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514502&idx=1&sn=28d2cd3682c7e4e5301383c8a5e01606&chksm=f9520cc5ce2585d36d325f58b2f701b41b42af4c8d1ad6c0fed6e26dab2c2f6fdee1d7bbfb26#rd) ![](/assets/new.png)  
+- [2022-04-29-深扒阿里开源微前端架构-icestark：前端又要变革了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514502&idx=1&sn=28d2cd3682c7e4e5301383c8a5e01606&chksm=f9520cc5ce2585d36d325f58b2f701b41b42af4c8d1ad6c0fed6e26dab2c2f6fdee1d7bbfb26#rd)  
 - [2022-04-28-为遗留-Node.js-后端编写自动化测试](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514485&idx=1&sn=166ea63336aa775632233940f7ac6af5&chksm=f9520c36ce258520ace997be5017d49c3fc3dc9f58ca4e917150c02a80cedf7fdc27fdf9cfa2#rd)  
 - [2022-04-26-Ajax-之战：XMLHttpRequest-与-Fetch-API](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514462&idx=1&sn=37bd9011865f2ca873ee0cebdb1917e1&chksm=f9520c1dce25850baa732fc52894b4fc066723c3f7c67ec84c645773d6809d8b52f80433596a#rd)  
 - [2022-04-24-Node.js-18发布；一公司要求员工下班前先发手机电量截图；小红书：裁员只是正常汰换；Java-之父：别再坚守-Java-8](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514437&idx=1&sn=b408a2ed9bed3c1c8eeaeeaae16326be&chksm=f9520c06ce25851031af387f0f4da470f69021324e25bdbbdd9a9f3139e904aa9d0db39f8ab5#rd)  
@@ -253,26 +253,26 @@
 </summary>
 
 
-- [2022-04-28-一个小厂前端-Leader-如何筛选候选人？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=1&sn=2d8ab71b6d98a8536c883a18e4b2af28&chksm=f992df25cee556332126750fffa7db35bf735696a4f6711b1060944b0f3d7b7f1f8380ae8bea#rd)  
+- [2022-04-29-一篇让你完全够用TS的指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506508&idx=1&sn=460e46ff2b380ae6624134f6dfac4f1a&chksm=f992dc9dcee5558b8f0eb50783d8f93547bede64304e17244c764dbd20ffc2fa32d264a78bf3#rd) ![](/assets/new.png)  
+- [2022-04-29-为什么要使用flex布局?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506508&idx=2&sn=4098065f336a42e4c335697576c8b6bd&chksm=f992dc9dcee5558b126a5c7df4cd2361e60d6a6102b1ed3f3cb3b1d20260056bddb8f2f14303#rd) ![](/assets/new.png)  
 - [2022-04-28-面试官:-你了解过Babel吗？写过Babel插件吗?-答:-没有。卒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=2&sn=b42adfbaf380943ae5b79a4a20bf6aee&chksm=f992df25cee556331c74367d82ca4b4faea1da651e65df8725183b95c06ee3f0942b24a875b9#rd)  
-- [2022-04-27-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506405&idx=2&sn=b4ccc352f72de0d2557143516ea728dd&chksm=f992df34cee55622128bf1eaeac87c2829470c922d1c0eb5dcb132450f7783594c7338120216#rd)  
+- [2022-04-28-一个小厂前端-Leader-如何筛选候选人？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=1&sn=2d8ab71b6d98a8536c883a18e4b2af28&chksm=f992df25cee556332126750fffa7db35bf735696a4f6711b1060944b0f3d7b7f1f8380ae8bea#rd)  
 - [2022-04-27-前端鉴权必须了解的-5-个兄弟：cookie、session、token、jwt、单点登录](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506405&idx=1&sn=20b3f7b358e6f887a771b8487ef7fa17&chksm=f992df34cee55622ea4b8594a19aeda5b893fba252dd7ebb794cff4b0ea5a5ae2022b3ecfa61#rd)  
-- [2022-04-26-拿到月薪20k的前端工程师简历是什么样的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506349&idx=1&sn=0e6d8779feaf36bf60f5e6c971e74c0d&chksm=f992df7ccee5566ab5ddfd7f77760641a368f50584483c080c80c3795ca30e33dfd10bd5ebb7#rd)  
-- [2022-04-26-如何用油猴提升前端开发效率](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506349&idx=2&sn=ef85b1c411715db891ccb40639ffdaa8&chksm=f992df7ccee5566ac2d9052f3c2be9a359d2350dce799eb9389421dc606f593c1db43a663093#rd)  
+- [2022-04-27-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506405&idx=2&sn=b4ccc352f72de0d2557143516ea728dd&chksm=f992df34cee55622128bf1eaeac87c2829470c922d1c0eb5dcb132450f7783594c7338120216#rd)  
 - [2022-04-26-详解JS的四种异步解决方案：回调函数、Promise、Generator、async/await（干货满满）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506349&idx=3&sn=bc63089c9d6efbd606f310d1206f0f0d&chksm=f992df7ccee5566aa5e9b81648431ce614f8131001255d713c0542275c8fe40aad438ee396a1#rd)  
-- [2022-04-25-「6.1K-Star-项目推荐」github主页”快速装修“神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506335&idx=1&sn=10371a613870bf32fdb6b1fc4f04b6e0&chksm=f992df4ecee5565881b65cc9d70ea81931e41ee4aaa6048ffc02e6a93e0e22463a2af15c05ac#rd)  
+- [2022-04-26-如何用油猴提升前端开发效率](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506349&idx=2&sn=ef85b1c411715db891ccb40639ffdaa8&chksm=f992df7ccee5566ac2d9052f3c2be9a359d2350dce799eb9389421dc606f593c1db43a663093#rd)  
+- [2022-04-26-拿到月薪20k的前端工程师简历是什么样的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506349&idx=1&sn=0e6d8779feaf36bf60f5e6c971e74c0d&chksm=f992df7ccee5566ab5ddfd7f77760641a368f50584483c080c80c3795ca30e33dfd10bd5ebb7#rd)  
 - [2022-04-25-2022-年值得推荐的-React-库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506335&idx=2&sn=aad66c877c4933cb3a858e41feb82bc6&chksm=f992df4ecee556587b0b08c2038af5327a78f16d8b8505d85e4473b2e9af433d846cf16cd309#rd)  
-- [2022-04-24-看完就懂的前端拖拽那些事](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506292&idx=1&sn=034dbe02c506f875f8e405f0bac77c9f&chksm=f992dfa5cee556b33667aeba96e3d1b80411e37d55a1643e4e7ad588256267ef4bd8c2bc7bf8#rd)  
+- [2022-04-25-「6.1K-Star-项目推荐」github主页”快速装修“神器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506335&idx=1&sn=10371a613870bf32fdb6b1fc4f04b6e0&chksm=f992df4ecee5565881b65cc9d70ea81931e41ee4aaa6048ffc02e6a93e0e22463a2af15c05ac#rd)  
 - [2022-04-24-题目改成Node18-新特性解读](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506292&idx=2&sn=517b0f2c45cfed000ca342e55b78e35d&chksm=f992dfa5cee556b3893074b7e22177a8e10cd894270bd6452e0371724cbf02051ce79bbbc440#rd)  
-- [2022-04-23-Websocket-被玩出了多种花样！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506242&idx=1&sn=e686abd813f7cc7450346a5346e1578b&chksm=f992df93cee556854ef6a80bc4e42ac6dac7d3a6cafab18d3bcd1b79a0e67830073629c94b78#rd)  
+- [2022-04-24-看完就懂的前端拖拽那些事](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506292&idx=1&sn=034dbe02c506f875f8e405f0bac77c9f&chksm=f992dfa5cee556b33667aeba96e3d1b80411e37d55a1643e4e7ad588256267ef4bd8c2bc7bf8#rd)  
 - [2022-04-23-vue3中可以帮助你早点下班的9个开发技巧！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506242&idx=2&sn=3d043bfffd5d362127ed9c43cdde7f74&chksm=f992df93cee5568523cbec5261b8fee739341411db1b4cfda6bb9c645eda455bd813d491b8e8#rd)  
-- [2022-04-22-Vue组件库设计-|-Vue3组件在线交互解释器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506234&idx=3&sn=558f7a4191280137c02d261d9ea40bdb&chksm=f992dfebcee556fd8b422e28ca4900d15f5623299da8a6acaf7d40b7612baa0fa81f704d00a5#rd)  
-- [2022-04-22-86张脑图，一口气看完-React](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506234&idx=2&sn=a1c60f787167521adc4e784c2759195f&chksm=f992dfebcee556fdf61cd336f547b6dcbca0760131bf48adaef0145ed907357a985cd7d6de1f#rd)  
+- [2022-04-23-Websocket-被玩出了多种花样！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506242&idx=1&sn=e686abd813f7cc7450346a5346e1578b&chksm=f992df93cee556854ef6a80bc4e42ac6dac7d3a6cafab18d3bcd1b79a0e67830073629c94b78#rd)  
 - [2022-04-22-如何靠K8s为自己的面试加高分，附198道K8s/Docker/DevOps面试真题+答案详解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506234&idx=1&sn=729c331d1695a84616d528975652832d&chksm=f992dfebcee556fd9057924263a2965dfa84bc556421833aa12dfb28ef452b0901b8c8de6ea5#rd)  
-- [2022-04-21-过度使用懒加载对-Web-性能的影响](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505324&idx=2&sn=e390d5cfac1c4a7988bb0f700833eb4c&chksm=f992d37dcee55a6bb3673b5bf1bc14d07e8e3527d17163721730db0c0bdae1bedf7bac0f03db#rd)  
+- [2022-04-22-86张脑图，一口气看完-React](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506234&idx=2&sn=a1c60f787167521adc4e784c2759195f&chksm=f992dfebcee556fdf61cd336f547b6dcbca0760131bf48adaef0145ed907357a985cd7d6de1f#rd)  
+- [2022-04-22-Vue组件库设计-|-Vue3组件在线交互解释器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506234&idx=3&sn=558f7a4191280137c02d261d9ea40bdb&chksm=f992dfebcee556fd8b422e28ca4900d15f5623299da8a6acaf7d40b7612baa0fa81f704d00a5#rd)  
 - [2022-04-21-Web-中的“选区”和“光标”需求实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505324&idx=1&sn=a5d4f015d28f05a31b952167f70d0076&chksm=f992d37dcee55a6b2da67017e1ee4b71486a7b81d3bf70a96020608e3ddf6a791be1db9defd2#rd)  
-- [2022-04-20-前端开发必备工具，图片问题一网打尽](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505253&idx=1&sn=d310b59c5033ed14cc5c00990a67edfe&chksm=f992d3b4cee55aa2081dbc634c33ab907e603649f65910fb32b2d3a4fd3312a6a56550904cab#rd)  
-- [2022-04-20-精读《不再需要-JS-做的-5-件事》](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505253&idx=2&sn=ed1a1e9d656816669834f12c6525c981&chksm=f992d3b4cee55aa2b3eaa8d9a08b8be900aac6989199bdcf36d63d8d7513ce6c8431daea19f5#rd)  
+- [2022-04-21-过度使用懒加载对-Web-性能的影响](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505324&idx=2&sn=e390d5cfac1c4a7988bb0f700833eb4c&chksm=f992d37dcee55a6bb3673b5bf1bc14d07e8e3527d17163721730db0c0bdae1bedf7bac0f03db#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-29 22:00:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-04-30 06:00:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)
 - [【JavaScript-Weekly】On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)
 - [【JavaScript-Weekly】Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)
 - [【JavaScript-Weekly】Getting-creative-with-JavaScript](https://javascriptweekly.com/issues/581)
@@ -346,7 +347,6 @@
 - [【前端早读课】【第2598期】ServiceWorker-缓存与-HTTP-缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253998&idx=1&sn=7c651385a6ced1969b912aa4590faa31&chksm=bd49356a8a3ebc7c741f8f99d3d30ee68b31c8a9f37766a2e1872d92bacaebb25b7aa646d50b#rd)
 - [【前端早读课】【第2597期】如何用JavaScript实现一门编程语言---AST](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253983&idx=1&sn=db880f1fe0b2f69b7b118ed427c93a50&chksm=bd49355b8a3ebc4d157bd7adbbca7f4cfcec8d598f79780ffdd2fe1a680ca48a94e3d53c2881#rd)
 - [【前端早读课】【第2593期】NutUI移动端日历组件设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253893&idx=1&sn=aeac033f593d175034306d6838333132&chksm=bd4935018a3ebc17c9717fbd3395986d7cf69041a0ba13db87d0676dab0709a67774650f9d6b#rd)
-- [【前端早读课】【第2592期】JavaScript-中的-SOLID-原则：“D”代表什么](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253877&idx=1&sn=88df5d98fad97ccd4d043080c097fd1c&chksm=bd4935f18a3ebce725bb71ed998c60f195fb35d6d761d4dfed2cef08ea4b7bfdf2697e16486f#rd)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
