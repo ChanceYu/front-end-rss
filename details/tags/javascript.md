@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-30 06:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-30 12:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -673,6 +673,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-04-29-67行JS代码实现队列取代数组，面试官刮目相看](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=1&sn=90042d6fa3a28815cf0c8685743e3f2d&chksm=ce461f77f9319661908620871a2ccab882029b43f25d51cddcc64d33076b077853ccacd90c18#rd) 
 - [2022-04-25-写好-JavaScript-异步代码的几个推荐做法](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486151&idx=1&sn=406acaa044a887e776c3d0b470798c5d&chksm=ce461f56f9319640acb6e7065444ab194c015a922b0c190dc47a6f3c5b76596922e555ab8909#rd) 
 - [2022-04-20-通过JS获取你当前的网络状况？建议大家学一学~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486141&idx=1&sn=98cdc595adca5a3ffb9adc911606b2c7&chksm=ce461f2cf931963af50c1b3d846bd7c96b625a102baaa1f2d8e30b2d3bdd55cafe85791ededa#rd) 
 - [2022-04-01-关于-HTML5-LocalStorage-的-5-个不为人知的事实](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486046&idx=1&sn=ca181a7ef81f59cd7ab5a96847b4a2b3&chksm=ce461fcff93196d92c94c1bc49d9b934af835016235c659b76a696a7125144efddda20d1a508#rd) 

@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-30 06:00:35，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-04-30 12:00:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587) ![](/assets/new.png)  
+- [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)  
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)  
 - [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)  
 - [2022-04-08-Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)  
@@ -191,6 +191,8 @@
 </summary>
 
 
+- [2022-04-29-67行JS代码实现队列取代数组，面试官刮目相看](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=1&sn=90042d6fa3a28815cf0c8685743e3f2d&chksm=ce461f77f9319661908620871a2ccab882029b43f25d51cddcc64d33076b077853ccacd90c18#rd) ![](/assets/new.png)  
+- [2022-04-29-几个贼吓人的前端顶梁柱，各个硬核](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=2&sn=9e60c01b541cb9167ef0ea6f3802d40b&chksm=ce461f77f93196613715c55cf414d692e08e3375ecdc521fd0ee48642ffd7738d261b8d2f75b#rd) ![](/assets/new.png)  
 - [2022-04-28-这几个好玩又有趣的API，你用过了吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486177&idx=1&sn=01d377f8625bd638e6b51b2b0b0134f2&chksm=ce461f70f9319666161c876d33cd5e8f5a1881eafc04346f2c1c59c64399c1601122d6a35616#rd)  
 - [2022-04-27-那些年我面过的「六年经验」的初级工程师](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486175&idx=1&sn=d0b746484bd8a599158ad4c87ac0ffd2&chksm=ce461f4ef931965828874c7e2f5b704e930090963c1411dc566bd38894220e3ffe4d8207da46#rd)  
 - [2022-04-26-拿到月薪20k的前端工程师简历是什么样的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486157&idx=1&sn=b04da2b03a2dca0c467c4bbc7b6db387&chksm=ce461f5cf931964a89c98b45b0a755bf333a2b203b559d0da0a8f0bc8240abca5620a8d28b03#rd)  
@@ -209,8 +211,6 @@
 - [2022-04-09-三心给大家分享一个阅读Github项目代码的小技巧~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486076&idx=1&sn=46ae2cd78ca5803765ec848724558317&chksm=ce461fedf93196fb4ce8ed281f42b490859c4d288e977c71940369a7365f4bf270b4a353b3d4#rd)  
 - [2022-04-08-铜三铁四，前端找工作行情怎么样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486067&idx=1&sn=d23d919a703e2351513632f329ba9b1d&chksm=ce461fe2f93196f47d0e824e315b592732cafa679bcfa580a3c608f3e3328697a39413150c95#rd)  
 - [2022-04-07-如何满足一个前端对-Mock-的全部幻想](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486064&idx=1&sn=38b421ea5ccb289eb76edd592a1204c5&chksm=ce461fe1f93196f755d476a809f4ca86fadf1e71fca81c54fbf58d22fd331877e7b16be26278#rd)  
-- [2022-04-06-大专毕业的我，用了6年拿到年薪50W](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486062&idx=1&sn=da19b9c1bb4f517ad5f30778cc078522&chksm=ce461ffff93196e9f3a72a4da10a228bed118c157a99d960881d8b0166703b880c4f5156a717#rd)  
-- [2022-04-04-关于我模拟面试只收取其他人的-5%-这件事，我觉得没必要~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486061&idx=1&sn=9a7ac95568542074b0747425a3207244&chksm=ce461ffcf93196ea812876dc306dba1eb64fef8f9117b05138ab21a4f117195b04747c31b8cb#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2022-04-29-一篇让你完全够用TS的指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506508&idx=1&sn=460e46ff2b380ae6624134f6dfac4f1a&chksm=f992dc9dcee5558b8f0eb50783d8f93547bede64304e17244c764dbd20ffc2fa32d264a78bf3#rd) ![](/assets/new.png)  
-- [2022-04-29-为什么要使用flex布局?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506508&idx=2&sn=4098065f336a42e4c335697576c8b6bd&chksm=f992dc9dcee5558b126a5c7df4cd2361e60d6a6102b1ed3f3cb3b1d20260056bddb8f2f14303#rd) ![](/assets/new.png)  
+- [2022-04-29-一篇让你完全够用TS的指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506508&idx=1&sn=460e46ff2b380ae6624134f6dfac4f1a&chksm=f992dc9dcee5558b8f0eb50783d8f93547bede64304e17244c764dbd20ffc2fa32d264a78bf3#rd)  
+- [2022-04-29-为什么要使用flex布局?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506508&idx=2&sn=4098065f336a42e4c335697576c8b6bd&chksm=f992dc9dcee5558b126a5c7df4cd2361e60d6a6102b1ed3f3cb3b1d20260056bddb8f2f14303#rd)  
 - [2022-04-28-面试官:-你了解过Babel吗？写过Babel插件吗?-答:-没有。卒](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=2&sn=b42adfbaf380943ae5b79a4a20bf6aee&chksm=f992df25cee556331c74367d82ca4b4faea1da651e65df8725183b95c06ee3f0942b24a875b9#rd)  
 - [2022-04-28-一个小厂前端-Leader-如何筛选候选人？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506420&idx=1&sn=2d8ab71b6d98a8536c883a18e4b2af28&chksm=f992df25cee556332126750fffa7db35bf735696a4f6711b1060944b0f3d7b7f1f8380ae8bea#rd)  
 - [2022-04-27-前端鉴权必须了解的-5-个兄弟：cookie、session、token、jwt、单点登录](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506405&idx=1&sn=20b3f7b358e6f887a771b8487ef7fa17&chksm=f992df34cee55622ea4b8594a19aeda5b893fba252dd7ebb794cff4b0ea5a5ae2022b3ecfa61#rd)  
