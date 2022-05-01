@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-01 22:02:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-02 06:01:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -44,6 +44,7 @@
 - [2022-04-26-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=3&sn=77259a2a9b15b7568eb5f9dab9248e9c&chksm=87c45930b0b3d026abe3bf160375b1eb49fcf842ca5b5f4edc6b1938e7dc6af27b074f9af5b4#rd) 
 - [2022-03-13-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061645&idx=3&sn=09aea7d6b1c9db0dd9cd7e608fb0c728&chksm=87c4229db0b3ab8b6b17745d5a182f8c8f269e8533bb58e09df7f198f65851b2e192a9c8efeb#rd) 
 - [2022-02-27-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061347&idx=3&sn=585cb7f75ff968542733b542cbf855fa&chksm=87c42373b0b3aa65e751633354a1c94727ac95af1e28c5585a08c433f0f7ff61c275ab9c0af1#rd) 
+- [2022-05-01-Three.js实现跳一跳在线玩](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506519&idx=1&sn=f4b1019fdb09cd331426461b45015147&chksm=f992dc86cee55590593d58e24c488bd9c189dee9d2843950f4abb21564e09e8f7e642a380a22#rd) 
 - [2022-02-27-Three.js---实现地图边界炫光路径效果](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503624&idx=2&sn=f44d189dfbed48ed0762ae21d10613aa&chksm=f992c9d9cee540cf9faa22e441750b26e37ec44ed704869dd773c416b6f2eb254a6d7ace5fce#rd) 
 - [2022-02-07-Three.js-实现-2022-冬奥主题-3D-冰墩墩-趣味页面](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503089&idx=2&sn=36f5c5f151d1fc6d758ddb93c702f95c&chksm=f992ca20cee543363b08f6fbed1970d34efa4070a509b32c6d8669679e3336f8514b97cd7c1c#rd) 
 - [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd) 
