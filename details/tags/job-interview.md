@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 22:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-06 06:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -333,6 +333,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2022-05-05-两个月前，我面试富途的面试题，大家可以看看~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486202&idx=1&sn=295b9386246f1ee31f70cb89f6e259d1&chksm=ce461f6bf931967d424c94b613dcb15092f6941f871f35096ea94ed53e952251624e51b6f9d2#rd) 
 - [2022-04-04-关于我模拟面试只收取其他人的-5%-这件事，我觉得没必要~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486061&idx=1&sn=9a7ac95568542074b0747425a3207244&chksm=ce461ffcf93196ea812876dc306dba1eb64fef8f9117b05138ab21a4f117195b04747c31b8cb#rd) 
 - [2022-03-20-一道面试题牵出12个前端硬核知识点，你知道几个？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485934&idx=1&sn=fccbf36ca660530f793311c1b93dac7d&chksm=ce461c7ff931956900535dd2dfe0b0fd7c5fe3ac8cf1a5a5f0f95d7935ce257ad2ea7479040c#rd) 
 - [2022-03-08-技术题已经问腻了，现在大厂面试前端都问这些...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485807&idx=1&sn=717e753863f73ef897301611604f9f49&chksm=ce461cfef93195e89f0c2dd1596d050ffd3836836d93435108be72f0169956e12d25ed15ddc7#rd) 
