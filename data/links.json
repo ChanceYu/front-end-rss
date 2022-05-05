@@ -31073,6 +31073,11 @@
     "title": "阮一峰的网络日志",
     "items": [
       {
+        "title": "打包工具 rollup.js 入门教程",
+        "link": "http://www.ruanyifeng.com/blog/2022/05/rollup.html",
+        "date": "2022-05-05"
+      },
+      {
         "title": "微服务是什么？",
         "link": "http://www.ruanyifeng.com/blog/2022/04/microservice.html",
         "date": "2022-04-29"
