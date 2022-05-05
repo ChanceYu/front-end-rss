@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-05 12:01:13。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-05-05 18:01:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -627,6 +627,7 @@
 - [【前端早读课】【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect)
 - [【前端早读课】【招聘】富途证券诚招前端开发-和-PHP开发（14k~28k）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=3&sn=f0c1e814148ea709f88d79976ecd136a#wechat_redirect)
 - [【前端早读课】【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect)
+- [【前端大全】Git-不要只会-pull-和-push，学学这-5-条提高效率的命令](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602996&idx=1&sn=22514ea9ee0473cca264da61e0fcdea1&chksm=802297f5b7551ee31a2f8d878b88978b420325942557cd7f07fd7824817f69b3e76931c40c7b#rd)
 - [【前端大全】不记得-Git-命令？-懒人版-Git-值得拥有！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=2&sn=833ffb029cb5e90cd6e21fca4a005bbf&chksm=8022ea26b7556330c2ea0174e83766f4153c4ca77ab26e6794698e8a271803d15c6fb27e0230#rd)
 - [【前端大全】万字总结，体系化带你全面认识-Nginx-！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651573081&idx=2&sn=e3541ba364f1d40384b292704896452b&chksm=80251c98b752958e1cfc60b78546fa76160e229a27efac3cd22adb7645d868436daf2c6e1a9c&scene=27#wechat_redirect)
 - [【前端大全】GraphQL-实战篇之前端+后端](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651570722&idx=2&sn=73a791e6dc29666a74d4763579ce4983&chksm=802515e3b7529cf532e28013a553b0249748e89d09b1189ecaed28c216ded4036e34b691a993&scene=27#wechat_redirect)
@@ -634,7 +635,6 @@
 - [【前端大全】MongoDB-首席前端工程师的技术栈（2020版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564638&idx=1&sn=a5881543ceee0f5a434b6dae4ce9b81e&chksm=80257d9fb752f48994f3cdfd97e7c3767f14ec526cd9036f2a4c9e3062f4cf2b21002d6a25ac&scene=27#wechat_redirect)
 - [【前端大全】谁说前端不用懂，手摸手-Docker-从入门到实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562919&idx=1&sn=e104ff4e6d1f4ea88f419244bb9da608&chksm=80257466b752fd70be127c910e1d7ef8e36b573e9e4a96f3371d4f890c6e49b9e53699b9c59c&scene=27#wechat_redirect)
 - [【前端大全】搞懂-JWT-这个知识点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562281&idx=2&sn=daa857f0b3eec99a1f73059c39bcc260&chksm=802576e8b752fffee4b630aa80349fe996bb6f770db60fd28656d66b14837b1c0699c3296f2d&scene=27#wechat_redirect)
-- [【前端大全】前端工程师不可不知的-Nginx-知识](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651561785&idx=1&sn=52fdaf96dd905de633fb2b30fc9a9cb5&chksm=802548f8b752c1eedab8cb867913637dd1297d1cd54b54f6581f2ef23febc56c872ec43df921&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
