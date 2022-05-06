@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-30 06:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-07 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-05-06-A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588) 
 - [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587) 
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586) 
 - [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585) 
