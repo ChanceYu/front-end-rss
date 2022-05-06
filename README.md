@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 08:01:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-06 12:01:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-05-06-【第2604期】前后端接口规范---RESTful-版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254080&idx=1&sn=3ab86ecf19551ab696ee4d3f19da4f52&chksm=bd4934c48a3ebdd2070fdaf9880bb22cac6b344ad234b337153516d7d0df6899f4c67ffe9837#rd) ![](/assets/new.png)  
+- [2022-05-06-【第2604期】前后端接口规范---RESTful-版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254080&idx=1&sn=3ab86ecf19551ab696ee4d3f19da4f52&chksm=bd4934c48a3ebdd2070fdaf9880bb22cac6b344ad234b337153516d7d0df6899f4c67ffe9837#rd)  
 - [2022-05-05-【招聘】杭州Teamind招前端开发工程师（P5/P6/P7）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254075&idx=2&sn=8fba9cd7c3baba1f2a5e960e4f141ea7&chksm=bd4934bf8a3ebda9ff49dec3e0e4cfcee7200d4b4347681b39dbf901f7051c3b37383a60be94#rd)  
 - [2022-05-05-【第2603期】Web-可访问性与无障碍最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254075&idx=1&sn=7a2d42ad18f7f6c91801c7c8dcd38df4&chksm=bd4934bf8a3ebda9c1a91831a3c583a97edf2a3c1cfabdd4709396856928800faaf04821e334#rd)  
 - [2022-04-29-【第2602期】设置-NPM-Registry-的-4-种姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254065&idx=1&sn=b48d14ad326f021e80cc183460aab2f2&chksm=bd4934b58a3ebda36513c83e72e7b944f33ca3433344bcdbe6d3a8de68889b19c5f1be387f85#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-05-06-科技爱好者周刊（第-205-期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html) ![](/assets/new.png)  
 - [2022-05-05-打包工具-rollup.js-入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html)  
 - [2022-04-29-微服务是什么？](http://www.ruanyifeng.com/blog/2022/04/microservice.html)  
 - [2022-04-22-科技爱好者周刊（第-204-期）：如何度过疫情、裁员、还有战争](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)  
@@ -365,7 +366,6 @@
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html)  
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html)  
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html)  
-- [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
