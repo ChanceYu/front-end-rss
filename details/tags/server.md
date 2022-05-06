@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-06 06:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-06 08:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-05-06-【第2604期】前后端接口规范---RESTful-版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254080&idx=1&sn=3ab86ecf19551ab696ee4d3f19da4f52&chksm=bd4934c48a3ebdd2070fdaf9880bb22cac6b344ad234b337153516d7d0df6899f4c67ffe9837#rd) 
 - [2022-04-27-【图书】Docker实战派---容器入门七步法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254038&idx=2&sn=bc3af86be1c17c27873da39dc82c9d46&chksm=bd4934928a3ebd845481515612c52fd0957f1daeb3c9024715739ad332766a82a03469201ca6#rd) 
 - [2022-03-06-【第2548期】前端SSR的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253087&idx=1&sn=9e473d6df3fbe964e53659211a57346c&chksm=bd4930db8a3eb9cd8acb0e2209218ea2861d037a21ad6bc6d1c2c9d607898ea4f43b18eac637#rd) 
 - [2021-05-18-【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246091&idx=2&sn=e3e52d08ae828c5d27deb98d1d09d85b&chksm=bd49178f8a3e9e99ba902c8be73bcd624f7745f5a5d7fbcd11afc814af98d012e9c039790ea4&scene=27#wechat_redirect) 
