@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-07 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-07 08:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -9,6 +9,7 @@
 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579) 
+- [2022-05-07-【第2605期】如何学习错误的-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254092&idx=1&sn=53b3bbd3a5ba540208da4d2f7a1b1f74&chksm=bd4934c88a3ebddefacfbb2ebf473a5bb33ab822c7678ffc9e268a60f6c75af7c6c412653dea#rd) 
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253083&idx=1&sn=486750d90e7350f30c822eb2327132cf&chksm=bd4930df8a3eb9c919a130a39321b649720d7f71ccc1bd425de376d864b681fc536669ad3cc2#rd) 
 - [2022-02-08-【第2522期】TypeScript-中的类型控制流分析演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252522&idx=1&sn=afeaddd006ebfa85cfa09d45f8fab7da&chksm=bd493eae8a3eb7b865ac056f0a8994164fbbe50f775672943143268246304a131a943abb3c79#rd) 
 - [2021-03-31-【第2242期】TypeScript类型编写指南之下篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244827&idx=1&sn=1612a3595ab0324e4ffa0abf7858d9a7&chksm=bd49109f8a3e998946777f156c7d7a5aee7b3f4ab94337d4430025953caf98559289038316e2&scene=27#wechat_redirect) 
