@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-09 22:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-10 06:02:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -54,6 +54,7 @@
 - [2018-09-23-【第1402期】云开发初探-——-更简便的小程序开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229939&idx=1&sn=7da77cc15457721951a82477d68a6263#wechat_redirect) 
 - [2018-09-21-多端统一开发框架-Taro-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=2&sn=8815ff5cc983fb9021a988c3f46fa7b6#wechat_redirect) 
 - [2018-09-21-【第1400期】小程序的全栈开发新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=1&sn=c4da922ac376114079b5f54abc3c6eaa#wechat_redirect) 
+- [2022-05-09-小程序的鼻祖在国内就这么消亡了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603077&idx=1&sn=3f9345b363a5132f16c5da114b19a2ba&chksm=80229744b7551e52b48204b02bbafe6a2e2e58b0cb3b683b6471b417f20f67de3496f7d89345#rd) 
 - [2021-05-25-小程序用户登录架构设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576520&idx=2&sn=12948bb053be950a5e242b2b6b915f25&chksm=80250f09b752861fea6fe9071103d1a74d8c5b951ee275392fb92d874640345aa4f8e356030e&scene=27#wechat_redirect) 
 - [2021-05-21-小程序静默登录方案设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576237&idx=2&sn=2c27e57b7f02d028203590552317d9f9&chksm=8025006cb752897a353c7075051d0191c1b350d960eb7ebda36bfd94237ab1d926a420355e48&scene=27#wechat_redirect) 
 - [2021-03-09-小程序开发项目中各种痛点问题及解决方案](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651572387&idx=1&sn=a48dc905cf19bf6f478615a3fc33a313&chksm=80251f62b7529674e797466c7b731112d8745ce3f3317acb1ec399a9f938bb55d3f9ab66f6e1&scene=27#wechat_redirect) 
