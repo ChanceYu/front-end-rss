@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-10 08:02:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-10 18:01:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -193,6 +193,7 @@
 - [2022-03-24-简单实现一套Webpack的代码规范？适合广大前端程序员~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485977&idx=1&sn=45135aeaaf6b3f61adc56f5b0d5a3af7&chksm=ce461f88f931969e44afad8adfadf5a9012554ea7d869c71c82dea6fe311a1e29a6a01ddc32b#rd) 
 - [2022-03-22-15个-Webpack-优化点，速度提升70%，体积减小80%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485938&idx=1&sn=a7d1a7a0f4dffd44242f5eb8fac4097e&chksm=ce461c63f9319575372331fe7a8373fed34e0993260523c2ce4aea6cf20437a255f44aaac25f#rd) 
 - [2022-03-19-在微前端qiankun中使用Vite你踩坑了吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485915&idx=1&sn=1e3d11e454c14e56768e559d2c77ec7b&chksm=ce461c4af931955c2c28b92f7e3c453384414c617999bf401cd51043f9410161b7ba31317964#rd) 
+- [2022-05-10-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062932&idx=3&sn=29ac1cf0ebb0bb70d0c54e8c400438cd&chksm=87c45984b0b3d09273485cd40536a7a3a8b4db064e5e4c7cdf92fda0e7d4142a7cf16918e90e#rd) 
 - [2022-04-26-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062816&idx=2&sn=2c3cf75b0f0b61a0faa8df72f39ce8fe&chksm=87c45930b0b3d026c181b71387d6cb0fa1e1fc133fa45cc4223180993b1237b25fae0eeef629#rd) 
 - [2022-04-24-Vite-特性和部分源码解析](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062789&idx=2&sn=987aef89d03c98f181c4523e8f15b346&chksm=87c45915b0b3d00302538f78e26a3731cc2c855ec5bea5f8788305033c2d7b032c46ee0c91d3#rd) 
 - [2022-03-13-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061645&idx=2&sn=457bbc2af028e8d83025c5d9251450fd&chksm=87c4229db0b3ab8bca53f9ab4e7c5ac2321d34ec786ae089c3edd2dfbfedb36604b76d67581c#rd) 
