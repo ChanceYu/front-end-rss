@@ -10,20 +10,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-11 22:01:28，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-12 06:01:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -129,26 +129,26 @@
 </summary>
 
 
-- [2022-05-09-小程序的鼻祖在国内就这么消亡了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603077&idx=1&sn=3f9345b363a5132f16c5da114b19a2ba&chksm=80229744b7551e52b48204b02bbafe6a2e2e58b0cb3b683b6471b417f20f67de3496f7d89345#rd)  
+- [2022-05-11-JavaScript-数组新增-4-个非破坏性方法！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603100&idx=1&sn=8a044f6db78c9177e682f1ce30ddb362&chksm=8022975db7551e4b9285757b938bc49415bfbab6fec8335a8d0dc393fc32b6b71a41bd71b485#rd) ![](/assets/new.png)  
+- [2022-05-11-React-18-带给我们的惊喜](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603100&idx=2&sn=45188020b1ffda98bb0b422df9f049c0&chksm=8022975db7551e4b6b2468288d2bb7c5cf3d95e9506982fc2441c13708fcf4bb1291514e1b6e#rd) ![](/assets/new.png)  
 - [2022-05-09-微前端究竟是什么？微前端核心技术揭秘！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603077&idx=2&sn=e153331415ee05efe639a744974661fe&chksm=80229744b7551e52b6f3a8015bf6b59aa70e0b4e827dc425491bd65907403eedcabf4b9809df#rd)  
-- [2022-05-08-一文搞懂-Vue3.0-为什么采用-Proxy](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603061&idx=1&sn=4a26cb6df32a1abad0789d82a41bcb87&chksm=802297b4b7551ea2d5c6c32305ca242e97b274e20f653726512de129a2dfed2cc50877c3fcb1#rd)  
+- [2022-05-09-小程序的鼻祖在国内就这么消亡了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603077&idx=1&sn=3f9345b363a5132f16c5da114b19a2ba&chksm=80229744b7551e52b48204b02bbafe6a2e2e58b0cb3b683b6471b417f20f67de3496f7d89345#rd)  
 - [2022-05-08-框架究竟解决了啥问题？我们可以脱离它们吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603061&idx=2&sn=54c367d3ca9b8a108a8cf2292890ff75&chksm=802297b4b7551ea248cbc99d068414bd63d2f9919bf18c85aa122b4dbd05c7687cb75562f785#rd)  
-- [2022-05-06-RxJS-之于异步，就像-JQuery-之于-dom](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603048&idx=2&sn=c37679fa4f86c0bf029ebd002ca1d7a6&chksm=802297a9b7551ebf25845090f50e12d300b2f579b554f38a703f823f4d5154be2786f4660fca#rd)  
+- [2022-05-08-一文搞懂-Vue3.0-为什么采用-Proxy](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603061&idx=1&sn=4a26cb6df32a1abad0789d82a41bcb87&chksm=802297b4b7551ea2d5c6c32305ca242e97b274e20f653726512de129a2dfed2cc50877c3fcb1#rd)  
 - [2022-05-06-还在使用定时器吗？有点离谱的-CSS-电子时钟](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603048&idx=1&sn=a457fb0881e9185e5dab61aeac35efc9&chksm=802297a9b7551ebf644fd706f571b12955cf5665eda4c2ebf13b93de0ec52337d88ad562735e#rd)  
-- [2022-05-05-现在-Axios-封装和-api-接口都这样做了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603008&idx=1&sn=94f948b1a44a399818e3a869b80c1260&chksm=80229781b7551e97283814766c040fe45c6cd3267fe8920daf02f8f4f3272b1e978ef8773b2a#rd)  
+- [2022-05-06-RxJS-之于异步，就像-JQuery-之于-dom](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603048&idx=2&sn=c37679fa4f86c0bf029ebd002ca1d7a6&chksm=802297a9b7551ebf25845090f50e12d300b2f579b554f38a703f823f4d5154be2786f4660fca#rd)  
 - [2022-05-05-HTTP-缓存别再乱用了！推荐一个缓存设置的最佳姿势！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603008&idx=2&sn=5d0ca0c8026cfc3de7acb48098111b6b&chksm=80229781b7551e974c6aa1c7892d891dff09523e0e17ea1dab812dc9e465055673f1526f1aa2#rd)  
-- [2022-05-04-Git-不要只会-pull-和-push，学学这-5-条提高效率的命令](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602996&idx=1&sn=22514ea9ee0473cca264da61e0fcdea1&chksm=802297f5b7551ee31a2f8d878b88978b420325942557cd7f07fd7824817f69b3e76931c40c7b#rd)  
+- [2022-05-05-现在-Axios-封装和-api-接口都这样做了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603008&idx=1&sn=94f948b1a44a399818e3a869b80c1260&chksm=80229781b7551e97283814766c040fe45c6cd3267fe8920daf02f8f4f3272b1e978ef8773b2a#rd)  
 - [2022-05-04-跨域，不止-CORS](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602996&idx=2&sn=bef67740c15438fc4cc5a99ec6028950&chksm=802297f5b7551ee3917e7a21129c78592a4da5da2c83dc2c4a719e6ea03ff129aa3989fb9b35#rd)  
-- [2022-05-03-不废话，代码实践带你掌握强缓存、协商缓存！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602907&idx=2&sn=8475b02c1044aece1f4ecfa48b352daa&chksm=8022e81ab755610c544c6e73745be0af3d4556cec50ea11cb24dc5c8ff5d5765c555bec28e05#rd)  
+- [2022-05-04-Git-不要只会-pull-和-push，学学这-5-条提高效率的命令](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602996&idx=1&sn=22514ea9ee0473cca264da61e0fcdea1&chksm=802297f5b7551ee31a2f8d878b88978b420325942557cd7f07fd7824817f69b3e76931c40c7b#rd)  
 - [2022-05-03-面试官：6-种数组扁平化实现方式，看看你能说几种？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602907&idx=1&sn=bd3b9d8adac09c49b6f482d22f1ba6aa&chksm=8022e81ab755610c4527abe0470435035af5b6a297e22d0623768dcba98c1743d11ce595e3d3#rd)  
-- [2022-05-01-15K-Star！Github-上最火的低代码开发平台！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602818&idx=1&sn=0c0698b0ad4c13b6e55e01e737ba8081&chksm=8022e843b7556155f30ca45b17d247aea1f49a2058ba5eed6368db96e3e4ae6310769a269a4e#rd)  
+- [2022-05-03-不废话，代码实践带你掌握强缓存、协商缓存！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602907&idx=2&sn=8475b02c1044aece1f4ecfa48b352daa&chksm=8022e81ab755610c544c6e73745be0af3d4556cec50ea11cb24dc5c8ff5d5765c555bec28e05#rd)  
 - [2022-05-01-一文彻底解决新手对-webpack-的恐惧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602818&idx=2&sn=89df1351c0962ce571ab4bbdecdbd93e&chksm=8022e843b75561551347b13559d62758e4af2a12ec52e68006f4fd39ecbfa6449e94a0b4c44d#rd)  
-- [2022-04-29-让人眼前一亮的-10-大-TS-项目，学起来！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602570&idx=3&sn=79ffb0705fddc47111ea0bbd4e70ca56&chksm=8022e94bb755605d75b624b5a4682b3e89743039d241d4a71517775244683a951a63c2427fef#rd)  
-- [2022-04-29-面向对象：独立、安静、性格柔和的慢热平面设计师](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602570&idx=2&sn=8ad1ffe6d9473a763aa65911a1d07f52&chksm=8022e94bb755605d14267cd3a9c4d5d76c62f6820e33d7f17a45f2d476d63434555bde20c720#rd)  
+- [2022-05-01-15K-Star！Github-上最火的低代码开发平台！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602818&idx=1&sn=0c0698b0ad4c13b6e55e01e737ba8081&chksm=8022e843b7556155f30ca45b17d247aea1f49a2058ba5eed6368db96e3e4ae6310769a269a4e#rd)  
 - [2022-04-29-简历包装被公司查出来了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602570&idx=1&sn=42a41e3081863858127f12e7f479cc94&chksm=8022e94bb755605d77431c6d22831e4b71728d8707098ab530e7a41c3b42075f9e4dcc942093#rd)  
-- [2022-04-27-你知道如何提升-JSON.stringify-的性能吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602489&idx=1&sn=b67d09cc4d8c636a1d5c718816978a17&chksm=8022e9f8b75560ee73a8434522adc6ba7c5aeef6327635a964842ad085a396fc750410a74784#rd)  
+- [2022-04-29-面向对象：独立、安静、性格柔和的慢热平面设计师](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602570&idx=2&sn=8ad1ffe6d9473a763aa65911a1d07f52&chksm=8022e94bb755605d14267cd3a9c4d5d76c62f6820e33d7f17a45f2d476d63434555bde20c720#rd)  
+- [2022-04-29-让人眼前一亮的-10-大-TS-项目，学起来！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602570&idx=3&sn=79ffb0705fddc47111ea0bbd4e70ca56&chksm=8022e94bb755605d75b624b5a4682b3e89743039d241d4a71517775244683a951a63c2427fef#rd)  
 - [2022-04-27-常见垃圾回收算法与-JS-GC-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602489&idx=2&sn=ac959a4933ed53c7e07471193d88a478&chksm=8022e9f8b75560ee40b7d6a026acce508a470907e1feba6e6bab060b188f55cf677472c823de#rd)  
-- [2022-04-25-手写-JS-引擎来解释一道赋值面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602410&idx=2&sn=6a41ac0f61a81488702d250de888d3fd&chksm=8022ea2bb755633d46cbb73f06cdd5527f10e5566b66c4d9cc683c9e3940f38fbce4bd702f3c#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -253,11 +253,11 @@
 </summary>
 
 
-- [2022-05-11-戴尔小企业月开启，今年有啥福利？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506741&idx=1&sn=f388ef268ae7e0da840e287dcf4e9e5f&chksm=f992dde4cee554f2c2c2e9e31db8aaa6dfbe4463611477305edacf0d43cbef72b6275891357a#rd) ![](/assets/new.png)  
-- [2022-05-11-vue项目你一定会用到的性能优化！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506741&idx=2&sn=0bcfd6bc16a99ed10126be51a8f8e45e&chksm=f992dde4cee554f29a0d1928afac7e584c9b0f2efe8fa8722b3ea002adeb6b74057c0f334ba4#rd) ![](/assets/new.png)  
-- [2022-05-11-我们即将和-API-告别？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506741&idx=3&sn=2ee3c72dbbdcb93fa218c64bbe4bdf97&chksm=f992dde4cee554f2392680ec285d485b65f8b80fa2f3eb89fbe8fe0bdedead9771242d3842eb#rd) ![](/assets/new.png)  
-- [2022-05-10-Git-各指令的本质，真是通俗易懂啊](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506726&idx=1&sn=2d28fac0728a15939fe823aeb76a0342&chksm=f992ddf7cee554e1a43c3d4d0ffc7d62e019e99c1919546741e5646aad90e50df2f201357006#rd) ![](/assets/new.png)  
-- [2022-05-10-常用的前端JavaScript方法封装](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506726&idx=2&sn=29787a8db8db92ed7e4fd3e178b72d59&chksm=f992ddf7cee554e1d12796cb8ddf6cf6b852a3a80fb778a58f9946f80101588505e53242f05f#rd) ![](/assets/new.png)  
+- [2022-05-11-戴尔小企业月开启，今年有啥福利？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506741&idx=1&sn=f388ef268ae7e0da840e287dcf4e9e5f&chksm=f992dde4cee554f2c2c2e9e31db8aaa6dfbe4463611477305edacf0d43cbef72b6275891357a#rd)  
+- [2022-05-11-vue项目你一定会用到的性能优化！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506741&idx=2&sn=0bcfd6bc16a99ed10126be51a8f8e45e&chksm=f992dde4cee554f29a0d1928afac7e584c9b0f2efe8fa8722b3ea002adeb6b74057c0f334ba4#rd)  
+- [2022-05-11-我们即将和-API-告别？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506741&idx=3&sn=2ee3c72dbbdcb93fa218c64bbe4bdf97&chksm=f992dde4cee554f2392680ec285d485b65f8b80fa2f3eb89fbe8fe0bdedead9771242d3842eb#rd)  
+- [2022-05-10-Git-各指令的本质，真是通俗易懂啊](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506726&idx=1&sn=2d28fac0728a15939fe823aeb76a0342&chksm=f992ddf7cee554e1a43c3d4d0ffc7d62e019e99c1919546741e5646aad90e50df2f201357006#rd)  
+- [2022-05-10-常用的前端JavaScript方法封装](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506726&idx=2&sn=29787a8db8db92ed7e4fd3e178b72d59&chksm=f992ddf7cee554e1d12796cb8ddf6cf6b852a3a80fb778a58f9946f80101588505e53242f05f#rd)  
 - [2022-05-09-CSS-国际化指南](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506713&idx=2&sn=dbe0bdf29027ff0a7395f31a87294da0&chksm=f992ddc8cee554dedb995d966ff533f0a1db418b689611a234d0b58f0c64835074a5cd252732#rd)  
 - [2022-05-09-刷算法题常用的-JS-基础扫盲](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506713&idx=1&sn=79797223530d79cb42e16b49eac51480&chksm=f992ddc8cee554de9929c6c90a56fde6cd9932e0eea3cc5f9ef1ba103142eff422945da5f2f0#rd)  
 - [2022-05-07-基础巩固-你最少用几行代码实现深拷贝？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506676&idx=1&sn=d7dfe5907bac5889d2e353e9485afa8d&chksm=f992dc25cee5553397879f55e5f1a766ebc8d99e724d74f9368c3680007f452ce709b15a4d6d#rd)  
@@ -315,6 +315,7 @@
 </summary>
 
 
+- [2022-05-12-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) ![](/assets/new.png)  
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)  
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)  
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)  
@@ -334,7 +335,6 @@
 - [2021-12-20-深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)  
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/)  
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)  
-- [2021-11-24-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
