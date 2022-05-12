@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 08:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-12 22:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
 - [2022-04-29-【第2602期】设置-NPM-Registry-的-4-种姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254065&idx=1&sn=b48d14ad326f021e80cc183460aab2f2&chksm=bd4934b58a3ebda36513c83e72e7b944f33ca3433344bcdbe6d3a8de68889b19c5f1be387f85#rd) 
 - [2022-04-23-【第2596期】如何构建可控,可靠,可扩展的-PWA-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253966&idx=1&sn=6b6b595832f04ce84b2117b772afacb1&chksm=bd49354a8a3ebc5ce658c1579f1a43f63badba75b1f1a67888b397fd06ee2d99e562da4af008#rd) 

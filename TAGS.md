@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-12 08:00:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-05-12 22:01:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -147,6 +147,7 @@
 
 
 
+- [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
 - [【JavaScript-Weekly】Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)
 - [【前端早读课】【第2602期】设置-NPM-Registry-的-4-种姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254065&idx=1&sn=b48d14ad326f021e80cc183460aab2f2&chksm=bd4934b58a3ebda36513c83e72e7b944f33ca3433344bcdbe6d3a8de68889b19c5f1be387f85#rd)
 - [【前端早读课】【第2596期】如何构建可控,可靠,可扩展的-PWA-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253966&idx=1&sn=6b6b595832f04ce84b2117b772afacb1&chksm=bd49354a8a3ebc5ce658c1579f1a43f63badba75b1f1a67888b397fd06ee2d99e562da4af008#rd)
@@ -166,7 +167,6 @@
 - [【前端早读课】前端进阶高薪必看：Webpack原理剖析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246144&idx=1&sn=dbb186b98ea664b06db685f148bff3ed&chksm=bd4917c48a3e9ed21242d80c4f9d2c7f505b71cf37c0c61fb9cf49eeb3a112bedcf68db65e25&scene=27#wechat_redirect)
 - [【前端早读课】手写一个mini-webpack后，再也不怕面试官问我webpack原理了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245850&idx=1&sn=4506a3533edf9b44a1625f68860f8154&chksm=bd49149e8a3e9d884a36ea7c4d6783c8e4de018c766030f231942f197cae8d9346d56024c1b5&scene=27#wechat_redirect)
 - [【前端早读课】【第2258期】新一代构建工具对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245476&idx=1&sn=ac27a11f4a695b31c2581fc40b85b652&chksm=bd4912208a3e9b364c47f9b0ad7eccf80f8ea194833877d1b69dd34b51692ebb6bdb28c67562&scene=27#wechat_redirect)
-- [【前端早读课】【第2247期】99%-开发者没弄明白的-babel-知识](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245054&idx=1&sn=673a17ac7de1b4ab36dba28fdf54df71&chksm=bd49107a8a3e996c31eb8353aeedfcf94623d397a049708a20cc15b3f9a3caaa86390f7e06fa&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
