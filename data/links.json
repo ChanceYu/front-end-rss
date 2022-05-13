@@ -118,6 +118,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "19 hours of D3.js??",
+        "link": "https://javascriptweekly.com/issues/589",
+        "date": "2022-05-13"
+      },
+      {
         "title": "A 2022 take on TodoMVC in plain JS",
         "link": "https://javascriptweekly.com/issues/588",
         "date": "2022-05-06"
