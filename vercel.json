@@ -3,11 +3,11 @@
   "builds": [
     {
       "src": "site/api/*.js",
-      "use": "@now/node"
+      "use": "@vercel/node"
     },
     {
       "src": "site/package.json",
-      "use": "@now/static-build"
+      "use": "@vercel/static-build"
     }
   ],
   "routes": [
