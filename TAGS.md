@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-20 12:01:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-05-21 06:00:40。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -543,6 +543,7 @@
 
 
 
+- [【JavaScript-Weekly】Getting-animated](https://javascriptweekly.com/issues/590)
 - [【JavaScript-Weekly】Time-to-get-decorating](https://javascriptweekly.com/issues/583)
 - [【前端早读课】【第2607期】Chrome插件：云音乐听歌识曲](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254124&idx=1&sn=2d09e33c2d9d8dc2d0213f2ec7a9aeb6&chksm=bd4934e88a3ebdfe8bf51585437bab74dcafc484d00f3c2b571ad3dd04a16d13940f3c3d51b8#rd)
 - [【前端早读课】【第2535期】浏览器的5种Observer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252773&idx=1&sn=168ba97ba069bc99d0946bd32d559bfe&chksm=bd4931a18a3eb8b7569912dd35958220e10e44406c6fa5b2bda5e5fac5a7d57c9d9d5769e570#rd)
@@ -562,7 +563,6 @@
 - [【前端早读课】【第2235期】CORS完全手冊之跨来源的安全性问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244734&idx=1&sn=308c17870d46c51b869b301123a8a9c0&chksm=bd49113a8a3e982c136280f877a790e4e8b3a05dae9a5b98f0ae7fc236c3fac2c22fb764db42&scene=27#wechat_redirect)
 - [【前端早读课】【第2230期】CORS完全手册之一起看规范](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244664&idx=1&sn=a200a7bddb7b644ad196f8fb0f6b706b&chksm=bd4911fc8a3e98eae9a617afb62ff7c814d5d72e644e4a8354dc0a6e970770c92c571cbff70f&scene=27#wechat_redirect)
 - [【前端早读课】【第2228期】CORS-完全手册之CORS-详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244621&idx=1&sn=b8296a3ab2bba179496a8b7e2ddfc8b6&chksm=bd4911c98a3e98dfed7b04256fcb6c95f843fdecde71e02b8d4e48ac07e3e6ed36fca0bf0c30&scene=27#wechat_redirect)
-- [【前端早读课】【第2224期】CORS-完全手册之如何解决CORS-问题？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244567&idx=1&sn=36808791a6ea43b26128ab3441b9a1fa&chksm=bd4911938a3e9885102faf69039260570ee7163f7c11c0af009d51c95458135fbadb12174fc8&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-20 12:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-21 06:00:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590) 
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583) 
 - [2022-05-09-【第2607期】Chrome插件：云音乐听歌识曲](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254124&idx=1&sn=2d09e33c2d9d8dc2d0213f2ec7a9aeb6&chksm=bd4934e88a3ebdfe8bf51585437bab74dcafc484d00f3c2b571ad3dd04a16d13940f3c3d51b8#rd) 
 - [2022-02-21-【第2535期】浏览器的5种Observer](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252773&idx=1&sn=168ba97ba069bc99d0946bd32d559bfe&chksm=bd4931a18a3eb8b7569912dd35958220e10e44406c6fa5b2bda5e5fac5a7d57c9d9d5769e570#rd) 
