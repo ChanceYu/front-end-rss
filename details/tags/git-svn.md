@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-23 06:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-23 08:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -32,6 +32,7 @@
 - [2020-06-02-Github系列，是道全选题么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=2&sn=c7ce511ae2f9762579aa932b6701a7bd&chksm=802543b8b752caae44fabab1c892ceeae30efe067b1ebe63832610f805eba0331b8c34fb7d50&scene=27#wechat_redirect) 
 - [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=1&sn=7cb2b0d10d3306c689707acaa64d7d0e&chksm=802543b8b752caaec8923f4d4f8edbf61aeeacf62f4fabf67d569cbdec28c2bc7a1c461f5622&scene=27#wechat_redirect) 
 - [2020-05-11-你可能已经忽略的-git-commit-规范](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558392&idx=2&sn=44aef758d7538a00e48ebb0ed2751dc9&chksm=80254639b752cf2fcfb0b6e3bc5bcabb07a26d322a031a74a3c317a1db59b9c17103121e5b3d&scene=27#wechat_redirect) 
+- [2022-05-22-jQuery已“死”？Gitee关闭部分开源仓库；微软宣布为员工加薪应对通胀；蔚来又上市了；小鹏回应解约应届生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514799&idx=1&sn=d41eee6fa0003633218c783cf5136f44&chksm=f9520fecce2586fa340d5649a74f4d0f2f3aced661634165967469664283128793d6d15137b6#rd) 
 - [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247508985&idx=1&sn=1e021e7bd352729a6876c76b5d3bf9bc&chksm=f95216bace259fac06c37f9c54d68928b46d97fee4183e1badea992a78c98820ee2ec581dc0c&scene=27#wechat_redirect) 
 - [2021-01-25-日常使用Git，这些问题你遇到过吗？|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505990&idx=3&sn=4b3a8b9c7d4bd91a5026153ad071f28b&chksm=f9526d05ce25e413c9a2dfb4e8f214fbcf558a4c0bfc90e9e4d4631d76f4c061f3cea7c4a8a4&scene=27#wechat_redirect) 
 - [2021-01-22-程序员必备的10大GitHub仓库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247505884&idx=2&sn=3f9d54196fa337a8a0ea082d8f099d95&chksm=f952629fce25eb89c7a02c24084df2d61d5b7cfd46e06539ea6fb2fb03c6cc44cbb80d075ca9&scene=27#wechat_redirect) 
