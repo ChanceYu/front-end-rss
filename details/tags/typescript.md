@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-24 18:01:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-24 22:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 

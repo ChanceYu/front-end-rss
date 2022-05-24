@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-24 18:01:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-24 22:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -336,6 +336,7 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-10-15-Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
 - [2018-10-02-重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect) 
+- [2022-05-24-5-大-Vue3-开发中的误区，你中招了吗](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486261&idx=1&sn=cfa960c2bbfe29968a2ac5996e5b6a41&chksm=ce461ea4f93197b204d816297a93cecb83f0523e8ea45b244a352e7ea46fa487886c1eeb1d71#rd) 
 - [2022-04-22-字节一面，面试官问我Vue3源码，我说……](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486144&idx=1&sn=eb4fcebcc59337a608b5111fc39fef55&chksm=ce461f51f93196478ef28768b367f8bc93f30827c38776471b21ca0a91aefd3b017d20ae34aa#rd) 
 - [2022-04-03-学Vue3+Typescript！一个简单项目能学10个知识点！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486055&idx=1&sn=445766f5efc3fbd448b353f34bdbf870&chksm=ce461ff6f93196e02415c88a9b7d81b58d737393a6cbf9534b4dfe553f2a2061054c59e98fc6#rd) 
 - [2022-03-15-Webpack来了！三心教你实现一个Vue-Cli的「基础搭建」](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485902&idx=1&sn=14e0e68cc79573b9c8660646423354c3&chksm=ce461c5ff931954901fb4029cfd0b3eefc4ebaaded854cbf2ad51295b6fc1089775d3621f083#rd) 
