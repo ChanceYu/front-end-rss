@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 22:01:05，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-27 06:00:28，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
-- [程序员成长指北](#程序员成长指北)  
+- [前端技术优选](#前端技术优选)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) ![](/assets/new.png)  
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438)  
 - [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)  
 - [2022-05-05-Node's-new-CLI-test-runner](https://nodeweekly.com/issues/436)  
@@ -55,7 +56,6 @@
 - [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)  
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421)  
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420)  
-- [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,9 +98,9 @@
 </summary>
 
 
-- [2022-05-26-【第2624期】Fastify-如何实现更快的-JSON-序列化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254454&idx=1&sn=be9e049e8a0d789a3fee91fc137298c2&chksm=bd4937328a3ebe24a3d6a1a9de7d3ae2a7ac70437ce27233f6aa063104969e513ef9e5241b3b#rd) ![](/assets/new.png)  
-- [2022-05-25-【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd) ![](/assets/new.png)  
-- [2022-05-25-【图书】软件研发效能提升实践：助力提升研发效能的“黄金三角”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=2&sn=fcb0c839e921cf357f9fa16da4edbb31&chksm=bd4937268a3ebe301ca8a89a979bdec2c6f095b0d0c27c8fc3dbdfd20a36560bc69e9a2fad1d#rd) ![](/assets/new.png)  
+- [2022-05-26-【第2624期】Fastify-如何实现更快的-JSON-序列化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254454&idx=1&sn=be9e049e8a0d789a3fee91fc137298c2&chksm=bd4937328a3ebe24a3d6a1a9de7d3ae2a7ac70437ce27233f6aa063104969e513ef9e5241b3b#rd)  
+- [2022-05-25-【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd)  
+- [2022-05-25-【图书】软件研发效能提升实践：助力提升研发效能的“黄金三角”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=2&sn=fcb0c839e921cf357f9fa16da4edbb31&chksm=bd4937268a3ebe301ca8a89a979bdec2c6f095b0d0c27c8fc3dbdfd20a36560bc69e9a2fad1d#rd)  
 - [2022-05-24-【招聘】抖音直播大前端团队招前端工程师、前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=2&sn=d6979e56a189fbec7311cb439578374c&chksm=bd4937178a3ebe01a221d3a76509fe637018e091406db9ac6a4b043984ad11ef314948d72599#rd)  
 - [2022-05-24-【第2622期】从零开始搞监控系统-——-存储和分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=1&sn=bd834b4a3a98c265ae2b7c8de1fe3f8a&chksm=bd4937178a3ebe0107cb13ce152ad304611f4ec67a7f5c578623d7e628dd0d7367bc73f2c9e3#rd)  
 - [2022-05-23-【第2621期】从零开始搞监控系统-——-SDK](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254397&idx=1&sn=3a83295aac66ec9509823b0b4fbe08c9&chksm=bd4937f98a3ebeef6659cb0077decdab11f16b52176e3def7857a94ba65f399f2f2e43babbba#rd)  
@@ -222,9 +222,9 @@
 </summary>
 
 
-- [2022-05-26-【逃离一线】被裁后的面经与感慨](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063176&idx=1&sn=fba9216ef1c982f52b036221c38e128f&chksm=87c45898b0b3d18e0edf0d418750f57513f47bfeba77e63331ced316f901e6d06424c5c0314f#rd) ![](/assets/new.png)  
-- [2022-05-26-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063176&idx=2&sn=504dd0dc0fcf427f763653ced97ea941&chksm=87c45898b0b3d18ef840ea6fe4b379e6b44d679383988c04b4d66cf1dd9199dbe9e0fbc2951d#rd) ![](/assets/new.png)  
-- [2022-05-26-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063176&idx=3&sn=f8d9c07480a62c7c06e61a7cb3b0d0f8&chksm=87c45898b0b3d18e6f4fcc9df14f9f5f6e1cf457b0ad7b47b804cf33e7d3f10b862ed142d2b3#rd) ![](/assets/new.png)  
+- [2022-05-26-【逃离一线】被裁后的面经与感慨](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063176&idx=1&sn=fba9216ef1c982f52b036221c38e128f&chksm=87c45898b0b3d18e0edf0d418750f57513f47bfeba77e63331ced316f901e6d06424c5c0314f#rd)  
+- [2022-05-26-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063176&idx=2&sn=504dd0dc0fcf427f763653ced97ea941&chksm=87c45898b0b3d18ef840ea6fe4b379e6b44d679383988c04b4d66cf1dd9199dbe9e0fbc2951d#rd)  
+- [2022-05-26-Canvas在超级玛丽游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063176&idx=3&sn=f8d9c07480a62c7c06e61a7cb3b0d0f8&chksm=87c45898b0b3d18e6f4fcc9df14f9f5f6e1cf457b0ad7b47b804cf33e7d3f10b862ed142d2b3#rd)  
 - [2022-05-24-阿里跨端框架的标准化研发模式](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063152&idx=3&sn=c0ecd424fe1d63f152fdfef04f7de471&chksm=87c45860b0b3d176a43f5a24d9c6d9b9370e1674395c8f048bbf29c52e142069980d822c6be7#rd)  
 - [2022-05-24-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063152&idx=2&sn=4e9ba3ea05a3fa31476fac031feb2b46&chksm=87c45860b0b3d176b28975b46b6dc65306ca8d7814c2cc8cd808c775bf13b8ceed604b67f47f#rd)  
 - [2022-05-24-React-18-超全升级指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063152&idx=1&sn=cc865b942ba116ead5ae5583559e3f89&chksm=87c45860b0b3d176b48250fff1ee691736aeb4de7e28dbb08c74e12106b689ce683a1eaee97f#rd)  
@@ -253,26 +253,26 @@
 </summary>
 
 
-- [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507152&idx=1&sn=ce9dcae03860fde90770375a77237453&chksm=f992da01cee55317a1984eb461579ac56ba80719970913a682c9b8724d745cf17241f90a5639#rd)  
+- [2022-05-26-现在Axios封装和api接口都这样做了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507166&idx=1&sn=4c54573628604912af75d13ed6bad7eb&chksm=f992da0fcee553191d4af2c1da6612279cfc31ce6bf668517c4cecb13d57e727494c2690b5be#rd) ![](/assets/new.png)  
+- [2022-05-26-前端模块依赖复杂度太高，一团乱麻了怎么办](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507166&idx=2&sn=2eaf9edacd248c5f0c84c38033b3c6b1&chksm=f992da0fcee5531932e6561b1ced153cdf5983282a92a962835fc5ff35c4c929e5c70d5a688d#rd) ![](/assets/new.png)  
+- [2022-05-26-不错的-SCSS-使用技巧总结（1w字）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507166&idx=3&sn=9b7d4cc146ffde56fc5215755000cf8b&chksm=f992da0fcee553198d6e53810a7674c991938129dc4dbdadcd49059ea83235c2c954547eb0a8#rd) ![](/assets/new.png)  
 - [2022-05-25-前端要会打组合拳，复盘30+技术点打出的功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507152&idx=2&sn=078d70b218eb57b841d2d327fb476893&chksm=f992da01cee5531728d4ed5068b352f2b5d2220fda7b9bdbb34e0d112255d07987ce76091218#rd)  
-- [2022-05-24-HTTP缓存协议实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507123&idx=3&sn=8ebbaeaef3d405780e467e3b868d22a4&chksm=f992da62cee5537443b140ecd9824aeb5ff6d13444f3a54064a22bb0cfdb39656ade6622d01e#rd)  
-- [2022-05-24-看了9个开源的-Vue3-组件库，学到了这些前端的流行趋势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507123&idx=2&sn=4e78a2f77ce931403250f7784504e6fc&chksm=f992da62cee55374de3f07b8bce1b3fb8b6973ecceb8018f6b4db81aef6d4d7c6ac6da219c8c#rd)  
+- [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507152&idx=1&sn=ce9dcae03860fde90770375a77237453&chksm=f992da01cee55317a1984eb461579ac56ba80719970913a682c9b8724d745cf17241f90a5639#rd)  
 - [2022-05-24-太赞了！2022最新华为内部前端开发手册（完整版）开放下载！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507123&idx=1&sn=c57015d6bc70211aaa9931089864a646&chksm=f992da62cee55374bbc41e9f0be2d778306f854353a6c16911f9fc0a1bc46770da07b368d6cf#rd)  
-- [2022-05-23-Tree-shaking问题排查指南来啦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507091&idx=2&sn=aa82b39b932da49e74b0509af8f3d5e9&chksm=f992da42cee553540cd7b7b6cf40d2d15ce614cc58e188e6191c4b09c21d2794946a4a31b025#rd)  
+- [2022-05-24-看了9个开源的-Vue3-组件库，学到了这些前端的流行趋势](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507123&idx=2&sn=4e78a2f77ce931403250f7784504e6fc&chksm=f992da62cee55374de3f07b8bce1b3fb8b6973ecceb8018f6b4db81aef6d4d7c6ac6da219c8c#rd)  
+- [2022-05-24-HTTP缓存协议实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507123&idx=3&sn=8ebbaeaef3d405780e467e3b868d22a4&chksm=f992da62cee5537443b140ecd9824aeb5ff6d13444f3a54064a22bb0cfdb39656ade6622d01e#rd)  
 - [2022-05-23-leetcode-最常见的150道前端面试题（简单题下）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507091&idx=1&sn=bc02cca6040a00d53a448304bf91bb18&chksm=f992da42cee55354ef59145c1f10c7349fc177a2e520bf146c659844c43a71d87000645c877b#rd)  
-- [2022-05-22-前端数据流选型](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507080&idx=2&sn=1882a8993f2e762182f2cbba61bba61e&chksm=f992da59cee5534f2f458591672649972065a3894a78d2b485694d36ba4336ed6f3fc17249a6#rd)  
+- [2022-05-23-Tree-shaking问题排查指南来啦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507091&idx=2&sn=aa82b39b932da49e74b0509af8f3d5e9&chksm=f992da42cee553540cd7b7b6cf40d2d15ce614cc58e188e6191c4b09c21d2794946a4a31b025#rd)  
 - [2022-05-22-为什么会存在1px问题？怎么解决？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507080&idx=1&sn=4cd9e4e554d734a88bb1ade5c684872b&chksm=f992da59cee5534f444f78a01f73e66057c9ac11e0deb2a84186d5ba7742270f48f33ec2236c#rd)  
-- [2022-05-21-2022-年的-React-生态](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507014&idx=1&sn=7c766f297e234cfd8e9a575d891875ae&chksm=f992da97cee553816c218215b101db7b949875189ed8727f283a9f5f14864e420bc32dcf570a#rd)  
+- [2022-05-22-前端数据流选型](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507080&idx=2&sn=1882a8993f2e762182f2cbba61bba61e&chksm=f992da59cee5534f2f458591672649972065a3894a78d2b485694d36ba4336ed6f3fc17249a6#rd)  
 - [2022-05-21-手把手学会-VS-Code-"快捷任务"神技，成为项目组最靓的崽！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507014&idx=2&sn=eaeceba7c6680c7034dd8285e0582ae5&chksm=f992da97cee55381d7d55fea64eb95305fb64e5f715708f2aa10eb386552fef62bce8327a8a6#rd)  
-- [2022-05-20-艰难环境下，面腾讯、美团、天眼查等七家大厂前端有感](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506963&idx=1&sn=c484c1b962c551756a0052920504ef0d&chksm=f992dac2cee553d4a74da7da5f92636c91955af5cccffcc02bb8960c3d1c11809089c122e1bb#rd)  
+- [2022-05-21-2022-年的-React-生态](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507014&idx=1&sn=7c766f297e234cfd8e9a575d891875ae&chksm=f992da97cee553816c218215b101db7b949875189ed8727f283a9f5f14864e420bc32dcf570a#rd)  
 - [2022-05-20-淦，为什么-"𠮷𠮷𠮷".length-!==-3](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506963&idx=2&sn=f1b548c29b62bb8bc3b97f514e3159ea&chksm=f992dac2cee553d4ec58c9a0f3f866e772484b999f78ed52a7e7abe8f62da0c67b6f39505d1a#rd)  
-- [2022-05-19-如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506957&idx=2&sn=02966fa0aa9884da75a2c7b8b1bcd85e&chksm=f992dadccee553ca93b5bd77bd4223afb74a9dce1cfdca7396986a453debd32f7ab1a2cefa27#rd)  
+- [2022-05-20-艰难环境下，面腾讯、美团、天眼查等七家大厂前端有感](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506963&idx=1&sn=c484c1b962c551756a0052920504ef0d&chksm=f992dac2cee553d4a74da7da5f92636c91955af5cccffcc02bb8960c3d1c11809089c122e1bb#rd)  
 - [2022-05-19-我是如何参与到-5.9k-star-的-Node.js-开源项目中的【经验帖】](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506957&idx=1&sn=360f50eaa5d946bd5cfb6548b9fd757f&chksm=f992dadccee553ca50e9c9d5bbab34f8565c7e515fa828f8d0edc8e86c93a4426c19bcc60df9#rd)  
-- [2022-05-18-平均年薪60.8万，这个证书！真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506917&idx=1&sn=e7dcab08d811b8980750014654fb5504&chksm=f992dd34cee554226de8beb219131572d87eddbc48146d9a6f923f510e8f3542fa027f9fcbf5#rd)  
-- [2022-05-18-手把手-从-0-到-1-搞定官网开发](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506917&idx=2&sn=de7a5048c87df841f059c009abcfda49&chksm=f992dd34cee554225562841499597d39a8dd586a65c88f1e1d5a6608765e999f7f46eaeb8603#rd)  
+- [2022-05-19-如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506957&idx=2&sn=02966fa0aa9884da75a2c7b8b1bcd85e&chksm=f992dadccee553ca93b5bd77bd4223afb74a9dce1cfdca7396986a453debd32f7ab1a2cefa27#rd)  
 - [2022-05-18-解决前端常见问题：竞态条件](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506917&idx=3&sn=e84149de3d2125c8bd234b45cc48f345&chksm=f992dd34cee55422e09003068293483db2b0878047f40cd03baea38cf4f798cf50104dce3faa#rd)  
-- [2022-05-17-前端代码的三种设计模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506902&idx=2&sn=812ad73ce7eedac85a078d6d44e13317&chksm=f992dd07cee55411ed067152faea1ff7d12fda7f0d07761a5f242545edea667184910b9c53ca#rd)  
-- [2022-05-17-前端监控SDK开发分享](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506902&idx=1&sn=b147e372527c7c71f0cf991106651f75&chksm=f992dd07cee55411daa203f77002401180695a34429b39cf51ac0f2dfd9afcc6f1824567e60f#rd)  
+- [2022-05-18-手把手-从-0-到-1-搞定官网开发](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506917&idx=2&sn=de7a5048c87df841f059c009abcfda49&chksm=f992dd34cee554225562841499597d39a8dd586a65c88f1e1d5a6608765e999f7f46eaeb8603#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
