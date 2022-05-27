@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-21 06:00:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-28 06:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-05-27-Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591) 
 - [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590) 
 - [2022-05-13-19-hours-of-D3.js??](https://javascriptweekly.com/issues/589) 
 - [2022-05-06-A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588) 
