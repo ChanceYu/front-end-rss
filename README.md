@@ -10,20 +10,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-28 22:04:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-05-29 06:02:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -98,26 +98,26 @@
 </summary>
 
 
+- [2022-05-28-【第2626期】Web-应用开发进化论](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254601&idx=1&sn=349776e363088f414a4d4de67061769f&chksm=bd4936cd8a3ebfdb4abdcd2f2e5c21bc867fbd43b0d4957a40cb4ee75b378ebf08eb5c0661d5#rd) ![](/assets/new.png)  
 - [2022-05-27-【第2625期】从一次富文本编辑器升级探索React元素渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254479&idx=1&sn=fa0357226c0d22388c8d6661570abfa4&chksm=bd49374b8a3ebe5d9e9a30758a0dc6bd099a056323a6da3f4c28c3dd7660d3ba53aa32b9f722#rd)  
 - [2022-05-26-【第2624期】Fastify-如何实现更快的-JSON-序列化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254454&idx=1&sn=be9e049e8a0d789a3fee91fc137298c2&chksm=bd4937328a3ebe24a3d6a1a9de7d3ae2a7ac70437ce27233f6aa063104969e513ef9e5241b3b#rd)  
-- [2022-05-25-【图书】软件研发效能提升实践：助力提升研发效能的“黄金三角”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=2&sn=fcb0c839e921cf357f9fa16da4edbb31&chksm=bd4937268a3ebe301ca8a89a979bdec2c6f095b0d0c27c8fc3dbdfd20a36560bc69e9a2fad1d#rd)  
 - [2022-05-25-【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd)  
-- [2022-05-24-【第2622期】从零开始搞监控系统-——-存储和分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=1&sn=bd834b4a3a98c265ae2b7c8de1fe3f8a&chksm=bd4937178a3ebe0107cb13ce152ad304611f4ec67a7f5c578623d7e628dd0d7367bc73f2c9e3#rd)  
+- [2022-05-25-【图书】软件研发效能提升实践：助力提升研发效能的“黄金三角”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=2&sn=fcb0c839e921cf357f9fa16da4edbb31&chksm=bd4937268a3ebe301ca8a89a979bdec2c6f095b0d0c27c8fc3dbdfd20a36560bc69e9a2fad1d#rd)  
 - [2022-05-24-【招聘】抖音直播大前端团队招前端工程师、前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=2&sn=d6979e56a189fbec7311cb439578374c&chksm=bd4937178a3ebe01a221d3a76509fe637018e091406db9ac6a4b043984ad11ef314948d72599#rd)  
+- [2022-05-24-【第2622期】从零开始搞监控系统-——-存储和分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=1&sn=bd834b4a3a98c265ae2b7c8de1fe3f8a&chksm=bd4937178a3ebe0107cb13ce152ad304611f4ec67a7f5c578623d7e628dd0d7367bc73f2c9e3#rd)  
 - [2022-05-23-【第2621期】从零开始搞监控系统-——-SDK](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254397&idx=1&sn=3a83295aac66ec9509823b0b4fbe08c9&chksm=bd4937f98a3ebeef6659cb0077decdab11f16b52176e3def7857a94ba65f399f2f2e43babbba#rd)  
 - [2022-05-22-【第2620期】点击浏览器的前进后退按钮时，页面的缓存机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254393&idx=1&sn=d04bcd95c6c1afdc47c412d8740da8bd&chksm=bd4937fd8a3ebeeb08e148ee104a5089b0aba65dd7c45d9ad1d00ffccaaa0be75349b67346f9#rd)  
 - [2022-05-21-【第2619期】Google-I/O-2022-CSS-全览](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254389&idx=1&sn=a58b6ec5595302bf7d0e174791e3a863&chksm=bd4937f18a3ebee770367197370fda7b86cc5be0e1ba4553e4cf176341f6aacf63be4627a809#rd)  
-- [2022-05-20-【第2618期】手把手教你定制一套适合团队的微前端体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=1&sn=20bac990754e7ef0f793c5f8131d8a5b&chksm=bd4937c48a3ebed2a8cc98c3472e61ce115ad5bc9fc06924f10b06f89f4dee2b26e3212c9af0#rd)  
 - [2022-05-20-【书单】520，跟”书“在一起](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=2&sn=9cf5e745d02fb6300ad4dcc323bff760&chksm=bd4937c48a3ebed212af095e912cf888ea0162c830c8d7d6ed9d50df0c5754f87e2d93fcc1c8#rd)  
+- [2022-05-20-【第2618期】手把手教你定制一套适合团队的微前端体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=1&sn=20bac990754e7ef0f793c5f8131d8a5b&chksm=bd4937c48a3ebed2a8cc98c3472e61ce115ad5bc9fc06924f10b06f89f4dee2b26e3212c9af0#rd)  
 - [2022-05-19-【第2617期】React-组件库-CSS-样式方案分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254320&idx=1&sn=0f5d4a33ae84936825d875a2c649c7dd&chksm=bd4937b48a3ebea2570501772634bc0efd868fbd3693d98915b1aeb8596756788796c85242fb#rd)  
-- [2022-05-18-【第2616期】解释JavaScript的内存管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254313&idx=1&sn=2bac26427918de1afd1a2487c44d8d02&chksm=bd4937ad8a3ebebb410215f82377a12c3055f9cdfafe5985d00a23e047f6bae0052d80006331#rd)  
 - [2022-05-18-【活动】第一期支付宝体验科技沙龙·数金荟](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254313&idx=2&sn=5449ee839731dfb4eebf74984396a880&chksm=bd4937ad8a3ebebb0ce65d6a43ec7359c28c8511ef33eb66c45059cb3c1b3ce4dad58846a7d4#rd)  
-- [2022-05-17-【招聘】字节跳动广州基础架构前端团队招前端开发（高级）工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254298&idx=2&sn=452dcd19c8b132a02ebf37c639d05530&chksm=bd49379e8a3ebe88aa0556c05c710997087b3b172214fe1e3eb02cb2c6b74c1eb366ddf58553#rd)  
+- [2022-05-18-【第2616期】解释JavaScript的内存管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254313&idx=1&sn=2bac26427918de1afd1a2487c44d8d02&chksm=bd4937ad8a3ebebb410215f82377a12c3055f9cdfafe5985d00a23e047f6bae0052d80006331#rd)  
 - [2022-05-17-【第2615期】The-Gap-—-开发和设计之间的鸿沟](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254298&idx=1&sn=fd6b679bfdd3350029f0b3d42a0140ed&chksm=bd49379e8a3ebe88727d655179dd8e0cc5e97c7acee2eb49407fe221d1d440bc012cb3c60371#rd)  
-- [2022-05-16-【第2614期】CSS！从表盘刻度到艺术剪纸](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254283&idx=1&sn=9b52924d51f34a73020f91a1d92b5295&chksm=bd49378f8a3ebe9920c82f00beabcb686392a138bb0fbe5c3a4e74caa4bc4a5dc12766a512ed#rd)  
+- [2022-05-17-【招聘】字节跳动广州基础架构前端团队招前端开发（高级）工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254298&idx=2&sn=452dcd19c8b132a02ebf37c639d05530&chksm=bd49379e8a3ebe88aa0556c05c710997087b3b172214fe1e3eb02cb2c6b74c1eb366ddf58553#rd)  
 - [2022-05-16-【图书】匠艺整洁之道：程序员的职业修养](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254283&idx=2&sn=314433fc11fbd383228dbb1f2ce11ca7&chksm=bd49378f8a3ebe9937c4915a2340940574579e8b264f7a356540ae808b21307cef2ea1306cc0#rd)  
+- [2022-05-16-【第2614期】CSS！从表盘刻度到艺术剪纸](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254283&idx=1&sn=9b52924d51f34a73020f91a1d92b5295&chksm=bd49378f8a3ebe9920c82f00beabcb686392a138bb0fbe5c3a4e74caa4bc4a5dc12766a512ed#rd)  
 - [2022-05-15-【第2613期】从数据集中随机抽取一定数量的数据](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254282&idx=1&sn=f918f992f7752a3724cd9f51e1e1be1f&chksm=bd49378e8a3ebe98cea19c28fd0af2f0e36cffa6384d1dead0e70e325aeaa458c1b2b746b933#rd)  
-- [2022-05-14-【第2612期】UI组件系列---按钮设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254270&idx=1&sn=13e655727fb72319d85f748d5a9b04f3&chksm=bd49347a8a3ebd6c82be2b15d4630f97e3c58d714269a78aa5edf9abbc99cf8bc32efa6ba3ef#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -315,7 +315,7 @@
 </summary>
 
 
-- [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) ![](/assets/new.png)  
+- [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)  
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)  
 - [2022-05-12-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)  
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)  
