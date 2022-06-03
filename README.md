@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 08:02:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-03 12:01:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,12 +19,12 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-06-02-【逃离一线】被裁后的面经与感慨](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486326&idx=1&sn=932b58d6544ad0ad3837672af852b70b&chksm=ce461ee7f93197f12d771f6daee867bac8c559c06e4fb846406592a93c6e1eafc96dd4026fc3#rd) ![](/assets/new.png)  
 - [2022-05-31-ES6异步处理解决方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486322&idx=1&sn=1be212be510894442fdd8198f653b4c0&chksm=ce461ee3f93197f5f9d9b8d299012e93189ab3aaa721e05ab109d782e63c20cf810fe8ebdcfd#rd)  
 - [2022-05-30-牛逼！这款-API-文档-的设计太超前啦！前无古人~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486318&idx=1&sn=c98b0f82cbaf8967ec9ec2147514e7e1&chksm=ce461efff93197e929a4e6fc2a5c375be91474cbc5d8571e2395f35348b106ee1858c5f661d6#rd)  
 - [2022-05-26-现在Axios封装和api接口都这样做了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486269&idx=1&sn=d125d1c7af8d61028c268c26a120320c&chksm=ce461eacf93197ba083d81f37d5779b21d3ffb5df7ca06096fe0e5edc8cdc82c86e54cc804ea#rd)  
@@ -207,10 +208,9 @@
 - [2022-05-05-两个月前，我面试富途的面试题，大家可以看看~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486202&idx=1&sn=295b9386246f1ee31f70cb89f6e259d1&chksm=ce461f6bf931967d424c94b613dcb15092f6941f871f35096ea94ed53e952251624e51b6f9d2#rd)  
 - [2022-05-03-所以，你是知道怎么监听LocalStorage的变化的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486195&idx=1&sn=39d84450ef1da1a52b432c72fe641fd0&chksm=ce461f62f93196746816397ff89718290f0964184aafe0b01c329a5b098d53c6253c29ba7101#rd)  
 - [2022-05-02-有意思的面试题：统计页面出现次数前三的标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486188&idx=1&sn=f330456718f5bba6d772a11ed78149b1&chksm=ce461f7df931966bc21360053c727ef11bc8e850eb2566c041db661c9a509916bb30167e2540#rd)  
-- [2022-04-29-几个贼吓人的前端顶梁柱，各个硬核](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=2&sn=9e60c01b541cb9167ef0ea6f3802d40b&chksm=ce461f77f93196613715c55cf414d692e08e3375ecdc521fd0ee48642ffd7738d261b8d2f75b#rd)  
 - [2022-04-29-67行JS代码实现队列取代数组，面试官刮目相看](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=1&sn=90042d6fa3a28815cf0c8685743e3f2d&chksm=ce461f77f9319661908620871a2ccab882029b43f25d51cddcc64d33076b077853ccacd90c18#rd)  
+- [2022-04-29-几个贼吓人的前端顶梁柱，各个硬核](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=2&sn=9e60c01b541cb9167ef0ea6f3802d40b&chksm=ce461f77f93196613715c55cf414d692e08e3375ecdc521fd0ee48642ffd7738d261b8d2f75b#rd)  
 - [2022-04-28-这几个好玩又有趣的API，你用过了吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486177&idx=1&sn=01d377f8625bd638e6b51b2b0b0134f2&chksm=ce461f70f9319666161c876d33cd5e8f5a1881eafc04346f2c1c59c64399c1601122d6a35616#rd)  
-- [2022-04-27-那些年我面过的「六年经验」的初级工程师](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486175&idx=1&sn=d0b746484bd8a599158ad4c87ac0ffd2&chksm=ce461f4ef931965828874c7e2f5b704e930090963c1411dc566bd38894220e3ffe4d8207da46#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-06-03-字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html) ![](/assets/new.png)  
+- [2022-06-03-字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)  
 - [2022-05-27-科技爱好者周刊（第-208-期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)  
 - [2022-05-20-科技爱好者周刊（第-207-期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)  
 - [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)  
