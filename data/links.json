@@ -32248,6 +32248,11 @@
     "title": "阮一峰的网络日志",
     "items": [
       {
+        "title": "字节序探析：大端与小端的比较",
+        "link": "http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html",
+        "date": "2022-06-03"
+      },
+      {
         "title": "科技爱好者周刊（第 208 期）：晋升制度的问题",
         "link": "http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html",
         "date": "2022-05-27"
