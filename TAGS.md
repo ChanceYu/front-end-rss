@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-03 22:00:52。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-06-04 06:00:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)
 - [【JavaScript-Weekly】Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)
 - [【JavaScript-Weekly】19-hours-of-D3.js??](https://javascriptweekly.com/issues/589)
 - [【JavaScript-Weekly】A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588)
@@ -346,7 +347,6 @@
 - [【JavaScript-Weekly】Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568)
 - [【JavaScript-Weekly】Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567)
 - [【前端早读课】【开源】微众Fes.js-升级为企业级通用前端应用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=2&sn=762d78b3b160cecdfafd96a30cee97e0&chksm=bd4936078a3ebf118b01083c614deac80df10b227d00446868872e3b3cf8f10d6d0e835c2a47#rd)
-- [【前端早读课】【第2630期】javascript中的依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=1&sn=100950939574a04103aded9bd79bad45&chksm=bd4936e98a3ebfff12d3ff905deb5b84388a2cfcce9256cdb21e1821705786a78dfbd00e3f0f#rd)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
