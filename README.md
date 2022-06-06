@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 12:01:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-06 08:00:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -25,7 +25,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2022-06-02-【第2631期】浅谈-Atomic-CSS-的发展背景与-Tailwind-CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=1&sn=4011996124e10ca860736d8acc8172f9&chksm=bd4936078a3ebf1155fefbb2183eea0d74d4c5689f832f4f6e2287d21ea7984921664fa3aabf#rd)  
+- [2022-06-06-【第2632期】微前端框架-Satum-的性能优化策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=1&sn=5bc0d6e640a49c8ecb91647209cf053d&chksm=bd4936138a3ebf05080679284f4fdd6820901039f0fbfabf01ff7f0022f7bd27e82b28b9234a#rd) ![](/assets/new.png)  
+- [2022-06-06-【活动】AntV-新品发布会，6-月-6-日见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=2&sn=7a1e04fa46ae16a73aea311236bbf666&chksm=bd4936138a3ebf05ca77d08f2bb9b2472fe60a950f5947ef81abb803630a852cb7ab853e6922#rd) ![](/assets/new.png)  
 - [2022-06-02-【开源】微众Fes.js-升级为企业级通用前端应用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=2&sn=762d78b3b160cecdfafd96a30cee97e0&chksm=bd4936078a3ebf118b01083c614deac80df10b227d00446868872e3b3cf8f10d6d0e835c2a47#rd)  
-- [2022-06-01-浅谈控制反转与依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=2&sn=7986c5660535a34d59c2f4e2f2ea881c&chksm=bd4936e98a3ebfff431fb7a9797515fc409258f85d58ccfdcf263120d3f7d580b12109f8af1c#rd)  
+- [2022-06-02-【第2631期】浅谈-Atomic-CSS-的发展背景与-Tailwind-CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=1&sn=4011996124e10ca860736d8acc8172f9&chksm=bd4936078a3ebf1155fefbb2183eea0d74d4c5689f832f4f6e2287d21ea7984921664fa3aabf#rd)  
 - [2022-06-01-【第2630期】javascript中的依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=1&sn=100950939574a04103aded9bd79bad45&chksm=bd4936e98a3ebfff12d3ff905deb5b84388a2cfcce9256cdb21e1821705786a78dfbd00e3f0f#rd)  
-- [2022-05-31-【第2629期】中后台-CSS-Modules-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254627&idx=1&sn=6b69ea6a0ff4fae2bd3d01c6387d405f&chksm=bd4936e78a3ebff1e7dffd604cfa3b55d5836771debb8d47ec60af8525cce30e4b67386f739a#rd)  
+- [2022-06-01-浅谈控制反转与依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=2&sn=7986c5660535a34d59c2f4e2f2ea881c&chksm=bd4936e98a3ebfff431fb7a9797515fc409258f85d58ccfdcf263120d3f7d580b12109f8af1c#rd)  
 - [2022-05-31-掘金出会员了，1元预售进行中…](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254627&idx=2&sn=2050748ab71de647ecdaaf3e3cc7f241&chksm=bd4936e78a3ebff1737ab2c02e08078eb1146d27cddca2ac02e14b3bb02827745613058f40fc#rd)  
+- [2022-05-31-【第2629期】中后台-CSS-Modules-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254627&idx=1&sn=6b69ea6a0ff4fae2bd3d01c6387d405f&chksm=bd4936e78a3ebff1e7dffd604cfa3b55d5836771debb8d47ec60af8525cce30e4b67386f739a#rd)  
 - [2022-05-30-【第2628期】基于设计稿识别的可视化低代码系统实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254609&idx=1&sn=0167196620b61d8fcfa406688a57c80f&chksm=bd4936d58a3ebfc31b3ea41ac52ba40d3fbf4d09549b392aac5d6f081d93c73ca90523b7de59#rd)  
 - [2022-05-29-【第2627期】2022年Web平台的新动态](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254605&idx=1&sn=3834e307f1ddd87142097c51400f7f46&chksm=bd4936c98a3ebfdf757533d49dc725132e0ec5e2592fd56f815993e737c2cd7757c0428eb81a#rd)  
 - [2022-05-28-【第2626期】Web-应用开发进化论](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254601&idx=1&sn=349776e363088f414a4d4de67061769f&chksm=bd4936cd8a3ebfdb4abdcd2f2e5c21bc867fbd43b0d4957a40cb4ee75b378ebf08eb5c0661d5#rd)  
 - [2022-05-27-【第2625期】从一次富文本编辑器升级探索React元素渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254479&idx=1&sn=fa0357226c0d22388c8d6661570abfa4&chksm=bd49374b8a3ebe5d9e9a30758a0dc6bd099a056323a6da3f4c28c3dd7660d3ba53aa32b9f722#rd)  
 - [2022-05-26-【第2624期】Fastify-如何实现更快的-JSON-序列化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254454&idx=1&sn=be9e049e8a0d789a3fee91fc137298c2&chksm=bd4937328a3ebe24a3d6a1a9de7d3ae2a7ac70437ce27233f6aa063104969e513ef9e5241b3b#rd)  
-- [2022-05-25-【图书】软件研发效能提升实践：助力提升研发效能的“黄金三角”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=2&sn=fcb0c839e921cf357f9fa16da4edbb31&chksm=bd4937268a3ebe301ca8a89a979bdec2c6f095b0d0c27c8fc3dbdfd20a36560bc69e9a2fad1d#rd)  
 - [2022-05-25-【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd)  
-- [2022-05-24-【第2622期】从零开始搞监控系统-——-存储和分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=1&sn=bd834b4a3a98c265ae2b7c8de1fe3f8a&chksm=bd4937178a3ebe0107cb13ce152ad304611f4ec67a7f5c578623d7e628dd0d7367bc73f2c9e3#rd)  
+- [2022-05-25-【图书】软件研发效能提升实践：助力提升研发效能的“黄金三角”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=2&sn=fcb0c839e921cf357f9fa16da4edbb31&chksm=bd4937268a3ebe301ca8a89a979bdec2c6f095b0d0c27c8fc3dbdfd20a36560bc69e9a2fad1d#rd)  
 - [2022-05-24-【招聘】抖音直播大前端团队招前端工程师、前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=2&sn=d6979e56a189fbec7311cb439578374c&chksm=bd4937178a3ebe01a221d3a76509fe637018e091406db9ac6a4b043984ad11ef314948d72599#rd)  
+- [2022-05-24-【第2622期】从零开始搞监控系统-——-存储和分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=1&sn=bd834b4a3a98c265ae2b7c8de1fe3f8a&chksm=bd4937178a3ebe0107cb13ce152ad304611f4ec67a7f5c578623d7e628dd0d7367bc73f2c9e3#rd)  
 - [2022-05-23-【第2621期】从零开始搞监控系统-——-SDK](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254397&idx=1&sn=3a83295aac66ec9509823b0b4fbe08c9&chksm=bd4937f98a3ebeef6659cb0077decdab11f16b52176e3def7857a94ba65f399f2f2e43babbba#rd)  
 - [2022-05-22-【第2620期】点击浏览器的前进后退按钮时，页面的缓存机制](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254393&idx=1&sn=d04bcd95c6c1afdc47c412d8740da8bd&chksm=bd4937fd8a3ebeeb08e148ee104a5089b0aba65dd7c45d9ad1d00ffccaaa0be75349b67346f9#rd)  
 - [2022-05-21-【第2619期】Google-I/O-2022-CSS-全览](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254389&idx=1&sn=a58b6ec5595302bf7d0e174791e3a863&chksm=bd4937f18a3ebee770367197370fda7b86cc5be0e1ba4553e4cf176341f6aacf63be4627a809#rd)  
-- [2022-05-20-【第2618期】手把手教你定制一套适合团队的微前端体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=1&sn=20bac990754e7ef0f793c5f8131d8a5b&chksm=bd4937c48a3ebed2a8cc98c3472e61ce115ad5bc9fc06924f10b06f89f4dee2b26e3212c9af0#rd)  
-- [2022-05-20-【书单】520，跟”书“在一起](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=2&sn=9cf5e745d02fb6300ad4dcc323bff760&chksm=bd4937c48a3ebed212af095e912cf888ea0162c830c8d7d6ed9d50df0c5754f87e2d93fcc1c8#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -377,7 +377,7 @@
 </summary>
 
 
-- [2022-06-05-10-分钟搞懂-Vite-devServer，速来围观！](http://www.yyyweb.com/5459.html) ![](/assets/new.png)  
+- [2022-06-05-10-分钟搞懂-Vite-devServer，速来围观！](http://www.yyyweb.com/5459.html)  
 - [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html)  
 - [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html)  
 - [2022-03-29-Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](http://www.yyyweb.com/5448.html)  
