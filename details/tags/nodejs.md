@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 06:03:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 18:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -212,6 +212,7 @@
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2022-06-06-我在Nodejs里使用了sync方法，被CTO骂了一顿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486336&idx=1&sn=2611c8f6f7903677bc6676a95cfc45e4&chksm=ce461e11f93197078ff2c08ca458b12b2b522eec7ef256f263d4411bb8da2e8c57d36a1fb0f1#rd) 
 - [2022-06-05-JavaScript-事件循环：从起源到浏览器再到-Node.js](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063362&idx=2&sn=38f34da44960322965de2dba48853695&chksm=87c45b52b0b3d2444505675e8e66e685fe4d9c2360fc8f311309c01b4a0bee271dca43a33433#rd) 
 - [2022-05-22-读-koa2-源码后的一些思考与实践](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063113&idx=3&sn=303e5ad30b4cd36c160a6b6fee788d01&chksm=87c45859b0b3d14f2d0c5f285d0455e57808424acebbad4ce4878b3da585277c726bb2d0cd25#rd) 
 - [2022-05-17-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063075&idx=4&sn=0c33d9d2960343b1dbeb4c5aefd70791&chksm=87c45833b0b3d125d50b6f0169e1eb407a2ca87c95d4cc613be8996e53d16ab0aaebf5102095#rd) 

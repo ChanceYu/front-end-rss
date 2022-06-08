@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 06:03:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 18:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -300,6 +300,7 @@
 - [2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
 - [2018-11-16-图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect) 
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
+- [2022-06-07-分享我在项目中做的一个取消请求小需求，能学到一点东西~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486345&idx=1&sn=8d1b81dbdd8a969407db84f00836804a&chksm=ce461e18f931970e669cf6006aef57b7299c3a565b35e3124277cb7768d96953362c0d6c4465#rd) 
 - [2022-05-18-code-review时，我被指出的7个小错误，防微杜渐有必要！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486239&idx=1&sn=dcad17a08a1202e9e7c03d13b85dee5d&chksm=ce461e8ef931979823c768e74de5ec311eab5e6ff3bd351bd449568c56580e0ffe80a86dfc93#rd) 
 - [2022-05-03-所以，你是知道怎么监听LocalStorage的变化的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486195&idx=1&sn=39d84450ef1da1a52b432c72fe641fd0&chksm=ce461f62f93196746816397ff89718290f0964184aafe0b01c329a5b098d53c6253c29ba7101#rd) 
 - [2022-04-15-离开页面时，你知道如何可靠地发送一个-HTTP-请求吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486093&idx=1&sn=d28fd3caddea90e92c85b2420674e1c9&chksm=ce461f1cf931960acebe664b423225dd9c70a489c779ed9438ca7ad72f44e3671d220601eebb#rd) 
