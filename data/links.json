@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "A big week for Fastify",
+        "link": "https://nodeweekly.com/issues/441",
+        "date": "2022-06-09"
+      },
+      {
         "title": "util.parseArgs arrives in Node 18.3",
         "link": "https://nodeweekly.com/issues/440",
         "date": "2022-06-02"

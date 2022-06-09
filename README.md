@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-09 22:00:44，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-10 06:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) ![](/assets/new.png)  
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)  
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)  
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438)  
@@ -55,7 +56,6 @@
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)  
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423)  
 - [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)  
-- [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,10 +98,10 @@
 </summary>
 
 
-- [2022-06-09-【第2635期】10-个CSS小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=1&sn=e0f8834fc47b42be00042f3b59e367e3&chksm=bd4936448a3ebf52b8cae1cb9cef2549ce7308a3bc207f61bc966a2f1cbd77ff22c68342f1e5#rd) ![](/assets/new.png)  
-- [2022-06-09-在想什么：可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=2&sn=1227af93ca59fed9b04bae54b36bb739&chksm=bd4936448a3ebf528f8e9e6207b8f2600c11ffc01eb6f1d19a75780acf2601ceaded4408afe8#rd) ![](/assets/new.png)  
-- [2022-06-08-【第2634期】Firefox-Manifest-V3：进展及下一步计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=1&sn=d2e31f3f296e625c269b25340ad7faf3&chksm=bd49362f8a3ebf39f01addc8a7d74bb70be6ffae2e0ded61cd787d2124729f9ea7948c11430b#rd) ![](/assets/new.png)  
-- [2022-06-08-【招聘】TikTok-国际化招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=2&sn=a300bcbd25da2c890a5fc9f4f9342a91&chksm=bd49362f8a3ebf397b36d64b75805a5f51dd8aac0ca52a01acce6e487bbe88b27eb3e8388e45#rd) ![](/assets/new.png)  
+- [2022-06-09-【第2635期】10-个CSS小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=1&sn=e0f8834fc47b42be00042f3b59e367e3&chksm=bd4936448a3ebf52b8cae1cb9cef2549ce7308a3bc207f61bc966a2f1cbd77ff22c68342f1e5#rd)  
+- [2022-06-09-在想什么：可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=2&sn=1227af93ca59fed9b04bae54b36bb739&chksm=bd4936448a3ebf528f8e9e6207b8f2600c11ffc01eb6f1d19a75780acf2601ceaded4408afe8#rd)  
+- [2022-06-08-【第2634期】Firefox-Manifest-V3：进展及下一步计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=1&sn=d2e31f3f296e625c269b25340ad7faf3&chksm=bd49362f8a3ebf39f01addc8a7d74bb70be6ffae2e0ded61cd787d2124729f9ea7948c11430b#rd)  
+- [2022-06-08-【招聘】TikTok-国际化招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=2&sn=a300bcbd25da2c890a5fc9f4f9342a91&chksm=bd49362f8a3ebf397b36d64b75805a5f51dd8aac0ca52a01acce6e487bbe88b27eb3e8388e45#rd)  
 - [2022-06-07-【招聘】广州Shein招聘高级、资深前端，前端负责人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254690&idx=2&sn=8d993842227cbb42670cf638c2eba0af&chksm=bd4936268a3ebf30eb863c3c578ce9bd7ffb52b2b7a79d4c317ef6cb6fabc66659155e6588a8#rd)  
 - [2022-06-07-【第2633期】JavaScript运行时环境和标准](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254690&idx=1&sn=6243da1da6cb920ce139a8010343cd41&chksm=bd4936268a3ebf300b67451deb33aa43baa006b953cffabc67cc7a3103707f64015924737eeb#rd)  
 - [2022-06-06-【第2632期】微前端框架-Satum-的性能优化策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=1&sn=5bc0d6e640a49c8ecb91647209cf053d&chksm=bd4936138a3ebf05080679284f4fdd6820901039f0fbfabf01ff7f0022f7bd27e82b28b9234a#rd)  

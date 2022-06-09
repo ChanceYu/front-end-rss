@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-09 22:00:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-06-10 06:00:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -579,6 +579,7 @@
 
 
 
+- [【Node-Weekly】A-big-week-for-Fastify](https://nodeweekly.com/issues/441)
 - [【前端早读课】【第2628期】基于设计稿识别的可视化低代码系统实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254609&idx=1&sn=0167196620b61d8fcfa406688a57c80f&chksm=bd4936d58a3ebfc31b3ea41ac52ba40d3fbf4d09549b392aac5d6f081d93c73ca90523b7de59#rd)
 - [【前端早读课】【第2618期】手把手教你定制一套适合团队的微前端体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=1&sn=20bac990754e7ef0f793c5f8131d8a5b&chksm=bd4937c48a3ebed2a8cc98c3472e61ce115ad5bc9fc06924f10b06f89f4dee2b26e3212c9af0#rd)
 - [【前端早读课】【第2601期】vivo-商品中台的可视化微前端实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254060&idx=1&sn=138e7f681068b3ac59fe75c92cb408ed&chksm=bd4934a88a3ebdbe7abbaa71b73ed683f054d8bb1837f3ba064e88b7f3148f22f66960680971#rd)
@@ -598,7 +599,6 @@
 - [【前端早读课】【第2501期】从实现原理看低代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651251979&idx=1&sn=4ce194b3db6e56a6c928d472ca9fbb8a&chksm=bd493c8f8a3eb5995cc2f2a8519b7cb4cda95aeaf947ba8d63a8216bf926a6e57688ca4dff93#rd)
 - [【前端早读课】【招聘】元气森林创新事业部招贤纳士全栈工程师（偏前端）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247361&idx=2&sn=2c28e7002f7e70fdb013acf8580c3e96&chksm=bd490a858a3e83937d080f5fbb5d83376679b415722fa2ee68fcc38680e7e6d239a02207c2b7&scene=27#wechat_redirect)
 - [【前端早读课】【第2316期】中后台领域低代码搭建设计与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247209&idx=1&sn=c054d6a8ac4b94c861f18b9ad118db6c&chksm=bd490bed8a3e82fb6892c98ea078281e188b6611c0f09226916dc6a87afcfc6f1ba556ef07c7&scene=27#wechat_redirect)
-- [【前端早读课】【活动】美团技术沙龙第61期：微前端架构设计和实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247011&idx=2&sn=d9979e2eff8ba63f1d7bf30f0128ad3d&chksm=bd4908278a3e8131fbc364474945978961e090fd5d53b5507106bce07f2ce56d52556973b40b&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

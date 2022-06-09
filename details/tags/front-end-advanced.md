@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-09 22:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-10 06:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
 - [2022-05-30-【第2628期】基于设计稿识别的可视化低代码系统实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254609&idx=1&sn=0167196620b61d8fcfa406688a57c80f&chksm=bd4936d58a3ebfc31b3ea41ac52ba40d3fbf4d09549b392aac5d6f081d93c73ca90523b7de59#rd) 
 - [2022-05-20-【第2618期】手把手教你定制一套适合团队的微前端体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=1&sn=20bac990754e7ef0f793c5f8131d8a5b&chksm=bd4937c48a3ebed2a8cc98c3472e61ce115ad5bc9fc06924f10b06f89f4dee2b26e3212c9af0#rd) 
 - [2022-04-28-【第2601期】vivo-商品中台的可视化微前端实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254060&idx=1&sn=138e7f681068b3ac59fe75c92cb408ed&chksm=bd4934a88a3ebdbe7abbaa71b73ed683f054d8bb1837f3ba064e88b7f3148f22f66960680971#rd) 

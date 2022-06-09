@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-03 06:03:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-10 06:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440) 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438) 
