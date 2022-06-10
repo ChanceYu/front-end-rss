@@ -32468,6 +32468,11 @@
     "title": "阮一峰的网络日志",
     "items": [
       {
+        "title": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
+        "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html",
+        "date": "2022-06-10"
+      },
+      {
         "title": "字节序探析：大端与小端的比较",
         "link": "http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html",
         "date": "2022-06-03"

@@ -10,11 +10,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 06:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-10 12:01:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) ![](/assets/new.png)  
+- [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441)  
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)  
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)  
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-06-10-科技爱好者周刊（第-209-期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) ![](/assets/new.png)  
 - [2022-06-03-字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)  
 - [2022-05-27-科技爱好者周刊（第-208-期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)  
 - [2022-05-20-科技爱好者周刊（第-207-期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)  
@@ -365,7 +366,6 @@
 - [2022-02-18-科技爱好者周刊（第-195-期）：你做过不在乎结果的项目吗？](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-195.html)  
 - [2022-02-11-科技爱好者周刊（第-194-期）：悲观者正确，乐观者成功](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-194.html)  
 - [2022-02-04-万兆家庭网络的时代](http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html)  
-- [2022-01-28-命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
