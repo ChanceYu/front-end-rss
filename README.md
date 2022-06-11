@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-11 22:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-12 06:02:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,11 +19,11 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-06-11-VUE开发者必须知道的实用技术点！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486365&idx=1&sn=59d787e2bacd3d88bdca0b959a092da5&chksm=ce461e0cf931971a25ea96a64f5b41d8ecd3753a61cce8db9cf06a9dcaa065ec24a091ffa0b3#rd) ![](/assets/new.png)  
+- [2022-06-11-VUE开发者必须知道的实用技术点！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486365&idx=1&sn=59d787e2bacd3d88bdca0b959a092da5&chksm=ce461e0cf931971a25ea96a64f5b41d8ecd3753a61cce8db9cf06a9dcaa065ec24a091ffa0b3#rd)  
 - [2022-06-09-人均月薪7W还不加班，互联网大厂，不卷了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486361&idx=1&sn=d7625c835e7623ba7aad4015031d6fcd&chksm=ce461e08f931971ed28d7f899d528c570ad97c4da04ef7fe7a6860dfb3f82ca8950f54368c57#rd)  
 - [2022-06-08-大佬们，这两种文章类型你们喜欢哪一种呢~嘿嘿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486355&idx=1&sn=1a1d0db9fbb0dca694085a6da14f6488&chksm=ce461e02f931971433bc95b0545cc7bf225e178ccb0f8d5cf2e4b82ca273be0b1ece2a04e6b9#rd)  
 - [2022-06-07-分享我在项目中做的一个取消请求小需求，能学到一点东西~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486345&idx=1&sn=8d1b81dbdd8a969407db84f00836804a&chksm=ce461e18f931970e669cf6006aef57b7299c3a565b35e3124277cb7768d96953362c0d6c4465#rd)  
@@ -315,6 +315,7 @@
 </summary>
 
 
+- [2022-06-12-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) ![](/assets/new.png)  
 - [2022-05-30-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)  
 - [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)  
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)  
@@ -334,7 +335,6 @@
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/)  
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)  
 - [2022-01-12-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)  
-- [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
