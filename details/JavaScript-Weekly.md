@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-04 06:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-11 08:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593) 
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592) 
 - [2022-05-27-Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591) 
 - [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590) 

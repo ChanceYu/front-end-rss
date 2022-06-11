@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 22:01:19，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-11 08:01:10，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593) ![](/assets/new.png)  
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)  
 - [2022-05-27-Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)  
 - [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590)  
@@ -86,7 +87,6 @@
 - [2022-02-11-The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576)  
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)  
 - [2022-01-28-Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574)  
-- [2022-01-21-NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2022-06-10-【第2636期】从"微前端"到“微模块”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=1&sn=4efb1f6a22fbef075cdc1cfb03e2f27d&chksm=bd4936508a3ebf46ac8158da4119e2acf113645981329c156922860a24bb8781cedffbb54b31#rd) ![](/assets/new.png)  
-- [2022-06-10-【图书】高性能MVVM框架的设计与实现-San](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=2&sn=763f9a49fee33d32b30c981d1ac72d45&chksm=bd4936508a3ebf469e8283f2d4c517ca493d86b050788607870c3e6403d6299f6cce29747a37#rd) ![](/assets/new.png)  
-- [2022-06-09-在想什么：可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=2&sn=1227af93ca59fed9b04bae54b36bb739&chksm=bd4936448a3ebf528f8e9e6207b8f2600c11ffc01eb6f1d19a75780acf2601ceaded4408afe8#rd)  
+- [2022-06-11-【第2637期】让组件库井井有条](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254915&idx=1&sn=9ac91bd090c097ceffd6ac85df9c4c76&chksm=bd4929078a3ea011cd176350bbd82b55bdd624f36e0cf40c3e7955b7a265f62add83bfa1a7a1#rd) ![](/assets/new.png)  
+- [2022-06-10-【图书】高性能MVVM框架的设计与实现-San](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=2&sn=763f9a49fee33d32b30c981d1ac72d45&chksm=bd4936508a3ebf469e8283f2d4c517ca493d86b050788607870c3e6403d6299f6cce29747a37#rd)  
+- [2022-06-10-【第2636期】从"微前端"到“微模块”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=1&sn=4efb1f6a22fbef075cdc1cfb03e2f27d&chksm=bd4936508a3ebf46ac8158da4119e2acf113645981329c156922860a24bb8781cedffbb54b31#rd)  
 - [2022-06-09-【第2635期】10-个CSS小技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=1&sn=e0f8834fc47b42be00042f3b59e367e3&chksm=bd4936448a3ebf52b8cae1cb9cef2549ce7308a3bc207f61bc966a2f1cbd77ff22c68342f1e5#rd)  
-- [2022-06-08-【招聘】TikTok-国际化招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=2&sn=a300bcbd25da2c890a5fc9f4f9342a91&chksm=bd49362f8a3ebf397b36d64b75805a5f51dd8aac0ca52a01acce6e487bbe88b27eb3e8388e45#rd)  
+- [2022-06-09-在想什么：可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=2&sn=1227af93ca59fed9b04bae54b36bb739&chksm=bd4936448a3ebf528f8e9e6207b8f2600c11ffc01eb6f1d19a75780acf2601ceaded4408afe8#rd)  
 - [2022-06-08-【第2634期】Firefox-Manifest-V3：进展及下一步计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=1&sn=d2e31f3f296e625c269b25340ad7faf3&chksm=bd49362f8a3ebf39f01addc8a7d74bb70be6ffae2e0ded61cd787d2124729f9ea7948c11430b#rd)  
-- [2022-06-07-【第2633期】JavaScript运行时环境和标准](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254690&idx=1&sn=6243da1da6cb920ce139a8010343cd41&chksm=bd4936268a3ebf300b67451deb33aa43baa006b953cffabc67cc7a3103707f64015924737eeb#rd)  
+- [2022-06-08-【招聘】TikTok-国际化招前端研发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254699&idx=2&sn=a300bcbd25da2c890a5fc9f4f9342a91&chksm=bd49362f8a3ebf397b36d64b75805a5f51dd8aac0ca52a01acce6e487bbe88b27eb3e8388e45#rd)  
 - [2022-06-07-【招聘】广州Shein招聘高级、资深前端，前端负责人](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254690&idx=2&sn=8d993842227cbb42670cf638c2eba0af&chksm=bd4936268a3ebf30eb863c3c578ce9bd7ffb52b2b7a79d4c317ef6cb6fabc66659155e6588a8#rd)  
-- [2022-06-06-【活动】AntV-新品发布会，6-月-6-日见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=2&sn=7a1e04fa46ae16a73aea311236bbf666&chksm=bd4936138a3ebf05ca77d08f2bb9b2472fe60a950f5947ef81abb803630a852cb7ab853e6922#rd)  
+- [2022-06-07-【第2633期】JavaScript运行时环境和标准](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254690&idx=1&sn=6243da1da6cb920ce139a8010343cd41&chksm=bd4936268a3ebf300b67451deb33aa43baa006b953cffabc67cc7a3103707f64015924737eeb#rd)  
 - [2022-06-06-【第2632期】微前端框架-Satum-的性能优化策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=1&sn=5bc0d6e640a49c8ecb91647209cf053d&chksm=bd4936138a3ebf05080679284f4fdd6820901039f0fbfabf01ff7f0022f7bd27e82b28b9234a#rd)  
-- [2022-06-02-【第2631期】浅谈-Atomic-CSS-的发展背景与-Tailwind-CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=1&sn=4011996124e10ca860736d8acc8172f9&chksm=bd4936078a3ebf1155fefbb2183eea0d74d4c5689f832f4f6e2287d21ea7984921664fa3aabf#rd)  
+- [2022-06-06-【活动】AntV-新品发布会，6-月-6-日见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=2&sn=7a1e04fa46ae16a73aea311236bbf666&chksm=bd4936138a3ebf05ca77d08f2bb9b2472fe60a950f5947ef81abb803630a852cb7ab853e6922#rd)  
 - [2022-06-02-【开源】微众Fes.js-升级为企业级通用前端应用解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=2&sn=762d78b3b160cecdfafd96a30cee97e0&chksm=bd4936078a3ebf118b01083c614deac80df10b227d00446868872e3b3cf8f10d6d0e835c2a47#rd)  
-- [2022-06-01-浅谈控制反转与依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=2&sn=7986c5660535a34d59c2f4e2f2ea881c&chksm=bd4936e98a3ebfff431fb7a9797515fc409258f85d58ccfdcf263120d3f7d580b12109f8af1c#rd)  
+- [2022-06-02-【第2631期】浅谈-Atomic-CSS-的发展背景与-Tailwind-CSS](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254659&idx=1&sn=4011996124e10ca860736d8acc8172f9&chksm=bd4936078a3ebf1155fefbb2183eea0d74d4c5689f832f4f6e2287d21ea7984921664fa3aabf#rd)  
 - [2022-06-01-【第2630期】javascript中的依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=1&sn=100950939574a04103aded9bd79bad45&chksm=bd4936e98a3ebfff12d3ff905deb5b84388a2cfcce9256cdb21e1821705786a78dfbd00e3f0f#rd)  
-- [2022-05-31-【第2629期】中后台-CSS-Modules-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254627&idx=1&sn=6b69ea6a0ff4fae2bd3d01c6387d405f&chksm=bd4936e78a3ebff1e7dffd604cfa3b55d5836771debb8d47ec60af8525cce30e4b67386f739a#rd)  
+- [2022-06-01-浅谈控制反转与依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=2&sn=7986c5660535a34d59c2f4e2f2ea881c&chksm=bd4936e98a3ebfff431fb7a9797515fc409258f85d58ccfdcf263120d3f7d580b12109f8af1c#rd)  
 - [2022-05-31-掘金出会员了，1元预售进行中…](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254627&idx=2&sn=2050748ab71de647ecdaaf3e3cc7f241&chksm=bd4936e78a3ebff1737ab2c02e08078eb1146d27cddca2ac02e14b3bb02827745613058f40fc#rd)  
+- [2022-05-31-【第2629期】中后台-CSS-Modules-最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254627&idx=1&sn=6b69ea6a0ff4fae2bd3d01c6387d405f&chksm=bd4936e78a3ebff1e7dffd604cfa3b55d5836771debb8d47ec60af8525cce30e4b67386f739a#rd)  
 - [2022-05-30-【第2628期】基于设计稿识别的可视化低代码系统实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254609&idx=1&sn=0167196620b61d8fcfa406688a57c80f&chksm=bd4936d58a3ebfc31b3ea41ac52ba40d3fbf4d09549b392aac5d6f081d93c73ca90523b7de59#rd)  
 - [2022-05-29-【第2627期】2022年Web平台的新动态](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254605&idx=1&sn=3834e307f1ddd87142097c51400f7f46&chksm=bd4936c98a3ebfdf757533d49dc725132e0ec5e2592fd56f815993e737c2cd7757c0428eb81a#rd)  
 - [2022-05-28-【第2626期】Web-应用开发进化论](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254601&idx=1&sn=349776e363088f414a4d4de67061769f&chksm=bd4936cd8a3ebfdb4abdcd2f2e5c21bc867fbd43b0d4957a40cb4ee75b378ebf08eb5c0661d5#rd)  
-- [2022-05-27-【第2625期】从一次富文本编辑器升级探索React元素渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254479&idx=1&sn=fa0357226c0d22388c8d6661570abfa4&chksm=bd49374b8a3ebe5d9e9a30758a0dc6bd099a056323a6da3f4c28c3dd7660d3ba53aa32b9f722#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,8 +129,8 @@
 </summary>
 
 
-- [2022-06-09-13次面试拿下字节前端岗offer，揭露实战真相！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604237&idx=1&sn=6cba1d07f39687651edc27a4c8bf238f&chksm=802292ccb7551bda1e90cca6fcc9d00ba554e8834853a4448df19f67833778757ccaee14e0f2#rd) ![](/assets/new.png)  
-- [2022-06-09-未来不再会有-React-全家桶](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604237&idx=2&sn=ebee1cc867389f3ebd8c42a2bf328643&chksm=802292ccb7551bda8a20760e3464084146c81ef2ee965e602e285c90a579fe960ee287e1fcd3#rd) ![](/assets/new.png)  
+- [2022-06-09-13次面试拿下字节前端岗offer，揭露实战真相！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604237&idx=1&sn=6cba1d07f39687651edc27a4c8bf238f&chksm=802292ccb7551bda1e90cca6fcc9d00ba554e8834853a4448df19f67833778757ccaee14e0f2#rd)  
+- [2022-06-09-未来不再会有-React-全家桶](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604237&idx=2&sn=ebee1cc867389f3ebd8c42a2bf328643&chksm=802292ccb7551bda8a20760e3464084146c81ef2ee965e602e285c90a579fe960ee287e1fcd3#rd)  
 - [2022-06-08-2-种方式！带你快速实现前端截图](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604204&idx=2&sn=6426f51cd2f11f70f8926dfef5620a8b&chksm=8022932db7551a3b3edddf67da7b06ace5e04f9fe79d11bf4da5c534f64b9c1fb1883f42e667#rd)  
 - [2022-06-08-Web3.0-开发入门](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604204&idx=1&sn=21977da23f366d1f3b1023813a516848&chksm=8022932db7551a3b397f0354d6aa0fbd24fe774d1a00019c00211a4908f55ffc3f9e7e4bd6ca#rd)  
 - [2022-06-06-过度使用懒加载对-Web-性能的影响](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651604129&idx=1&sn=0206ebdec1c8540e76a2bd51eb3735e8&chksm=80229360b7551a763950cf017fcc2f0c9879954cbea020ed7df1b067eac23e96a2b787e81427#rd)  
@@ -160,7 +160,8 @@
 </summary>
 
 
-- [2022-06-09-GitHub官宣“报废”Atom编辑器，创始团队不甘心表示正用Rust重写](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515185&idx=1&sn=34cf4c15b2f8f40204379558493233ee&chksm=f9520972ce258064c0628ce27a50a9f70e89bfa802f538c8147e6b19d3d7dd63fb49b9b8be08#rd) ![](/assets/new.png)  
+- [2022-06-10-PyScript：让-Python-在-Web-中跑起来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515246&idx=1&sn=603440ed780da2ed245599c5cc243e0c&chksm=f952092dce25803b83e3f8502801129c65ab2e1f241bd4c5d6e915da7e490019799600461cb3#rd) ![](/assets/new.png)  
+- [2022-06-09-GitHub官宣“报废”Atom编辑器，创始团队不甘心表示正用Rust重写](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515185&idx=1&sn=34cf4c15b2f8f40204379558493233ee&chksm=f9520972ce258064c0628ce27a50a9f70e89bfa802f538c8147e6b19d3d7dd63fb49b9b8be08#rd)  
 - [2022-06-08-为什么在关于“开发者生产力”的讨论中，却很少听到开发者的声音？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515170&idx=1&sn=483a8029a6fa226b0a12083bdd81a29b&chksm=f9520961ce258077541a7fe707439d2e996a45728f72693f114878f87e4a5818759df7ce4cd3#rd)  
 - [2022-06-05-TS或超JS成Web开发主要解决方案;Safari用户超10亿;腾讯薪酬调整：晋升不再直接调薪;全球科技公司5月裁员创两年来纪录](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515102&idx=1&sn=a1df5cbe86197fdd61f522229dbab08a&chksm=f9520e9dce25878b647630025968f93a0339cb4c7df5bce56ce31e51eee3b7897170711ecaf1#rd)  
 - [2022-06-03-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515057&idx=1&sn=d3f9525e5a0efb9ba594774526474a8e&chksm=f9520ef2ce2587e43eae65090d87abb566cf5c83319971d4cd6fa19d9b41cc715856a98bf4e9#rd)  
@@ -179,7 +180,6 @@
 - [2022-05-11-WinterCG-社区正式成立，前端代码终于可以运行在后端了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514638&idx=1&sn=12e1e3dd52258d3cb634941f7d0a1a19&chksm=f9520f4dce25865b1fd84a439985fdfd4b4bacece8a6c4bfa5d2e3a25e97877a811498d07951#rd)  
 - [2022-05-09-我的-JavaScript-比你的-Rust-更快](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514622&idx=1&sn=9ea7578c1f02051f42267b78c5b9d23f&chksm=f9520cbdce2585ab86beb54859834989ed295a66ecca7c58e003b57792089567091f59d24334#rd)  
 - [2022-05-08-Edge成桌面端第二大浏览器；TikTok美国员工抱怨压力大；WhatsApp前高管：后悔卖给脸书；苹果员工对回办公室工作不满](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514601&idx=1&sn=4c4c254aea56c726cd78f12301d555c4&chksm=f9520caace2585bc1a0c402d39919e083c54ff2379c9198992d73974b80688547802eded99de#rd)  
-- [2022-05-07-我们如何使用-Webpack-将启动时间减少-80%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514575&idx=1&sn=e8b7adf258ab9f163664bd92a3b86e9d&chksm=f9520c8cce25859afc9b932d9b4844836505030f2e2a8225efe917d7a1bb61532646b61b6a8e#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-06-09-人均月薪7W还不加班，互联网大厂，不卷了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486361&idx=1&sn=d7625c835e7623ba7aad4015031d6fcd&chksm=ce461e08f931971ed28d7f899d528c570ad97c4da04ef7fe7a6860dfb3f82ca8950f54368c57#rd) ![](/assets/new.png)  
+- [2022-06-09-人均月薪7W还不加班，互联网大厂，不卷了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486361&idx=1&sn=d7625c835e7623ba7aad4015031d6fcd&chksm=ce461e08f931971ed28d7f899d528c570ad97c4da04ef7fe7a6860dfb3f82ca8950f54368c57#rd)  
 - [2022-06-08-大佬们，这两种文章类型你们喜欢哪一种呢~嘿嘿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486355&idx=1&sn=1a1d0db9fbb0dca694085a6da14f6488&chksm=ce461e02f931971433bc95b0545cc7bf225e178ccb0f8d5cf2e4b82ca273be0b1ece2a04e6b9#rd)  
 - [2022-06-07-分享我在项目中做的一个取消请求小需求，能学到一点东西~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486345&idx=1&sn=8d1b81dbdd8a969407db84f00836804a&chksm=ce461e18f931970e669cf6006aef57b7299c3a565b35e3124277cb7768d96953362c0d6c4465#rd)  
 - [2022-06-06-我在Nodejs里使用了sync方法，被CTO骂了一顿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486336&idx=1&sn=2611c8f6f7903677bc6676a95cfc45e4&chksm=ce461e11f93197078ff2c08ca458b12b2b522eec7ef256f263d4411bb8da2e8c57d36a1fb0f1#rd)  
