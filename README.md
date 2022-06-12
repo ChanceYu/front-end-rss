@@ -10,20 +10,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 12:03:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-13 06:02:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-06-12-【第2638期】前端安全之-CSRF-攻击原理和防护方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254916&idx=1&sn=6cb133e7a5c3b8270cd87fde7abf71d5&chksm=bd4929008a3ea0162604c53e21cda5a3420a618ef367a6f064961e5732a6344dd1ec9b0ac1b5#rd) ![](/assets/new.png)  
+- [2022-06-12-【第2638期】前端安全之-CSRF-攻击原理和防护方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254916&idx=1&sn=6cb133e7a5c3b8270cd87fde7abf71d5&chksm=bd4929008a3ea0162604c53e21cda5a3420a618ef367a6f064961e5732a6344dd1ec9b0ac1b5#rd)  
 - [2022-06-11-【第2637期】让组件库井井有条](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254915&idx=1&sn=9ac91bd090c097ceffd6ac85df9c4c76&chksm=bd4929078a3ea011cd176350bbd82b55bdd624f36e0cf40c3e7955b7a265f62add83bfa1a7a1#rd)  
 - [2022-06-10-【第2636期】从"微前端"到“微模块”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=1&sn=4efb1f6a22fbef075cdc1cfb03e2f27d&chksm=bd4936508a3ebf46ac8158da4119e2acf113645981329c156922860a24bb8781cedffbb54b31#rd)  
 - [2022-06-10-【图书】高性能MVVM框架的设计与实现-San](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=2&sn=763f9a49fee33d32b30c981d1ac72d45&chksm=bd4936508a3ebf469e8283f2d4c517ca493d86b050788607870c3e6403d6299f6cce29747a37#rd)  
@@ -160,6 +160,7 @@
 </summary>
 
 
+- [2022-06-12-百度员工删改数据库被判刑；TikTok-英国站员工因工作条件恶劣集体辞职；谷歌：macOS-版谷歌浏览器3个月提速20%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515287&idx=1&sn=471e4ed1549c5f30428965994a1799e9&chksm=f95209d4ce2580c21135bb279cd183d5503b21d51b5613298aa206d384c3c643ae46928c145f#rd) ![](/assets/new.png)  
 - [2022-06-10-PyScript：让-Python-在-Web-中跑起来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515246&idx=1&sn=603440ed780da2ed245599c5cc243e0c&chksm=f952092dce25803b83e3f8502801129c65ab2e1f241bd4c5d6e915da7e490019799600461cb3#rd)  
 - [2022-06-09-GitHub官宣“报废”Atom编辑器，创始团队不甘心表示正用Rust重写](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515185&idx=1&sn=34cf4c15b2f8f40204379558493233ee&chksm=f9520972ce258064c0628ce27a50a9f70e89bfa802f538c8147e6b19d3d7dd63fb49b9b8be08#rd)  
 - [2022-06-08-为什么在关于“开发者生产力”的讨论中，却很少听到开发者的声音？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515170&idx=1&sn=483a8029a6fa226b0a12083bdd81a29b&chksm=f9520961ce258077541a7fe707439d2e996a45728f72693f114878f87e4a5818759df7ce4cd3#rd)  
@@ -179,7 +180,6 @@
 - [2022-05-13-忍受不了糟糕的工作氛围，我退出了-Google-WebAssembly-团队](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514650&idx=1&sn=324501e411b7211712cec2513556f2ca&chksm=f9520f59ce25864fa20bda3766d0fde5bca81646abb30860832aee9b83307c747dc1539e28dd#rd)  
 - [2022-05-11-WinterCG-社区正式成立，前端代码终于可以运行在后端了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514638&idx=1&sn=12e1e3dd52258d3cb634941f7d0a1a19&chksm=f9520f4dce25865b1fd84a439985fdfd4b4bacece8a6c4bfa5d2e3a25e97877a811498d07951#rd)  
 - [2022-05-09-我的-JavaScript-比你的-Rust-更快](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514622&idx=1&sn=9ea7578c1f02051f42267b78c5b9d23f&chksm=f9520cbdce2585ab86beb54859834989ed295a66ecca7c58e003b57792089567091f59d24334#rd)  
-- [2022-05-08-Edge成桌面端第二大浏览器；TikTok美国员工抱怨压力大；WhatsApp前高管：后悔卖给脸书；苹果员工对回办公室工作不满](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514601&idx=1&sn=4c4c254aea56c726cd78f12301d555c4&chksm=f9520caace2585bc1a0c402d39919e083c54ff2379c9198992d73974b80688547802eded99de#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -316,6 +316,7 @@
 
 
 - [2022-06-12-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)  
+- [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](/assets/new.png)  
 - [2022-05-30-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)  
 - [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)  
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)  
@@ -334,7 +335,6 @@
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)  
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/)  
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)  
-- [2022-01-12-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

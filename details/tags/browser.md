@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 12:03:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-13 06:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -229,6 +229,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2022-06-12-百度员工删改数据库被判刑；TikTok-英国站员工因工作条件恶劣集体辞职；谷歌：macOS-版谷歌浏览器3个月提速20%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515287&idx=1&sn=471e4ed1549c5f30428965994a1799e9&chksm=f95209d4ce2580c21135bb279cd183d5503b21d51b5613298aa206d384c3c643ae46928c145f#rd) 
 - [2022-05-08-Edge成桌面端第二大浏览器；TikTok美国员工抱怨压力大；WhatsApp前高管：后悔卖给脸书；苹果员工对回办公室工作不满](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514601&idx=1&sn=4c4c254aea56c726cd78f12301d555c4&chksm=f9520caace2585bc1a0c402d39919e083c54ff2379c9198992d73974b80688547802eded99de#rd) 
 - [2022-05-01-Firefox-承诺不卖富豪；58同城回应员工申请爱心基金被裁员；知网哭穷赔不起-1200-亿，网友：可笑；脸书工程师文件泄露](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514529&idx=1&sn=86aa549d42f643bd4e3d064a63cc4f41&chksm=f9520ce2ce2585f4c0c9f499984756c0aa6a678f1a600ac6425a96b14661cbb916790655ff86#rd) 
 - [2022-03-27-Firefox拉黑中国用户；VS-Code-新-Bug；俄封锁“谷歌新闻”；起家于俄罗斯的Nginx宣布禁俄；GIF-之父去世](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514036&idx=1&sn=6ace668a81aab0ec724178231debab69&chksm=f95202f7ce258be12e4f3a9988ebefdb554b97d17c846fee070be40e7912c2b36ab23df8c316#rd) 
@@ -336,6 +337,7 @@
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
 - [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse) 
 - [2019-08-15-VSCode原理解析---断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/) 
+- [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/) 
 - [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-04-10-使用navigator.connection.downlink前端测网速](https://www.zhangxinxu.com/wordpress/2021/04/navigator-connection-downlink/) 
