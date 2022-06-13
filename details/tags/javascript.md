@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 18:02:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-14 06:02:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -707,6 +707,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-06-13-es6你用过哪些惊艳的写法](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486369&idx=1&sn=3da2667ed5b05ae4e0ef3ecce625b0c2&chksm=ce461e30f93197267f4a660be69fa65c9b2d9d8b89dbc562d7b389f2e4bd9103243b5984219d#rd) 
 - [2022-05-31-ES6异步处理解决方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486322&idx=1&sn=1be212be510894442fdd8198f653b4c0&chksm=ce461ee3f93197f5f9d9b8d299012e93189ab3aaa721e05ab109d782e63c20cf810fe8ebdcfd#rd) 
 - [2022-05-16-Axios取消请求你会，但是Fetch取消请求你就不会了吧？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486225&idx=1&sn=20e103288ef6f717200b7b68137c7a9b&chksm=ce461e80f9319796fa0636bb5b49e0196dd1a9af3a79dcdad4e9a0a822ae07108b4e86d24c20#rd) 
 - [2022-04-29-67行JS代码实现队列取代数组，面试官刮目相看](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486182&idx=1&sn=90042d6fa3a28815cf0c8685743e3f2d&chksm=ce461f77f9319661908620871a2ccab882029b43f25d51cddcc64d33076b077853ccacd90c18#rd) 
