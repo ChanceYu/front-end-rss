@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-16 08:01:03。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-06-16 22:00:52。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)
 - [【Node-Weekly】util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)
 - [【Node-Weekly】Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438)
 - [【Node-Weekly】Node's-new-CLI-test-runner](https://nodeweekly.com/issues/436)
@@ -202,7 +203,6 @@
 - [【前端早读课】【第2520期】为什么你应该考虑将-node_modules-上传到远程仓库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252508&idx=1&sn=50b5adf24f9007a13e7471aefd480e85&chksm=bd493e988a3eb78e965b39b2d06c7715ce601f0e5d44fb89820239fc959a3f9293b4b7bd5d5a#rd)
 - [【前端早读课】【第2297期】WebContainers简介：在你的浏览器中运行Node.js](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=2&sn=af9d08bfa3990a4790a321ba70546331&chksm=bd49164a8a3e9f5c511de4a39454990902bc236d01bc2a01cbdf29c842af8c36e60ba0fc2674&scene=27#wechat_redirect)
 - [【前端早读课】【第2221期】和-Node.js-创始人-Ryan-Dahl-的对话](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244474&idx=1&sn=fe2c729ab3d2d9f6aaf5a065140a44b3&chksm=bd491e3e8a3e972892f8dda3c32b138dcfdf5e87c4c23c159dbe147cb75a351bb9ecf3260cdd&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】阿里AliExpress前端团队2022春招开始了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244465&idx=3&sn=0aafbc7e47864de34c12d37291cc6808&chksm=bd491e358a3e97230b2903652c9be281009a64f995825416b7251196e974c8f0d4615af96061&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

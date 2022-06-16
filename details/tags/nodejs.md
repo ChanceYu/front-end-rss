@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 08:01:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-16 22:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-06-16-Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442) 
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440) 
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438) 
 - [2022-05-05-Node's-new-CLI-test-runner](https://nodeweekly.com/issues/436) 

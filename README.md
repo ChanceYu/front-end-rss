@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-16 08:01:03，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-16 22:00:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-06-16-Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442) ![](/assets/new.png)  
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441)  
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)  
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)  
@@ -55,7 +56,6 @@
 - [2022-02-17-Express-5-now-in-beta](https://nodeweekly.com/issues/425)  
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)  
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423)  
-- [2022-01-27-Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-06-16-【第2642期】基于-Serverless-的业务轻研发模式探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255108&idx=1&sn=a2b497d9f9e5847f27890530515d227b&chksm=bd4928c08a3ea1d64121abaf54be5f3cc75cece7b83f652defad1332d5080a3f41f6793c26ae#rd) ![](/assets/new.png)  
-- [2022-06-16-前端开发技术与业务的思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255108&idx=2&sn=2cb5c35ac71e38d22cf692aae3d39312&chksm=bd4928c08a3ea1d63d79bfbb41bf84bda49001becbf4ce915b1061a45eaba6f07aa7365e3e48#rd) ![](/assets/new.png)  
+- [2022-06-16-【第2642期】基于-Serverless-的业务轻研发模式探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255108&idx=1&sn=a2b497d9f9e5847f27890530515d227b&chksm=bd4928c08a3ea1d64121abaf54be5f3cc75cece7b83f652defad1332d5080a3f41f6793c26ae#rd)  
+- [2022-06-16-前端开发技术与业务的思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255108&idx=2&sn=2cb5c35ac71e38d22cf692aae3d39312&chksm=bd4928c08a3ea1d63d79bfbb41bf84bda49001becbf4ce915b1061a45eaba6f07aa7365e3e48#rd)  
 - [2022-06-15-【招聘】青岛远度云招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255017&idx=2&sn=1a93d2c94b79f3255cfd7341fb984fad&chksm=bd49296d8a3ea07b5270d4c60bdae75a836e0bf01550a3721106e54efaf6a6ea93b76c492113#rd)  
 - [2022-06-15-【第2641期】最长公共子序列LCS算法在重新排序项目中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255017&idx=1&sn=d3024510e62e5b28e46af04314e7dc21&chksm=bd49296d8a3ea07b364df3c83989908c5aea43ef89c820877bb52ed3a81d820931f2aad439c3#rd)  
 - [2022-06-14-【第2640期】如何在代码中起有意义的名字](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255008&idx=1&sn=ddc41510b21cdd7d53e37fec583bf74a&chksm=bd4929648a3ea0720380157cce392d03920bfe9d10b27cd5a464cece392e166bc309e3abdd40#rd)  

@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Node 16 to duck out early in September 2023",
+        "link": "https://nodeweekly.com/issues/442",
+        "date": "2022-06-16"
+      },
+      {
         "title": "A big week for Fastify",
         "link": "https://nodeweekly.com/issues/441",
         "date": "2022-06-09"
