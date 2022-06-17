@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 22:00:58，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-18 06:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594) ![](/assets/new.png)  
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)  
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)  
 - [2022-05-27-Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)  
@@ -86,7 +87,6 @@
 - [2022-02-18-The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577)  
 - [2022-02-11-The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576)  
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)  
-- [2022-01-28-Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-06-17-【第2643期】认识下浏览器的-5-种观察器-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255217&idx=1&sn=5edf1ae861fd34b735c3473c7e97aa42&chksm=bd4928358a3ea1230cf1a89786bd4ed81dfa5b811ad7ea348eefaa59abdd9b0c7a0543c2d9dc#rd) ![](/assets/new.png)  
-- [2022-06-17-【PPT】基于-Serverless-的业务轻研发模式探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255217&idx=2&sn=a855ee7ada2e81724a55fdb9244ece8c&chksm=bd4928358a3ea123e84a5ebcdac7f8d547a5e4eec656afbb82bd63ec8ea42f21a6d03dfc031a#rd) ![](/assets/new.png)  
+- [2022-06-17-【第2643期】认识下浏览器的-5-种观察器-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255217&idx=1&sn=5edf1ae861fd34b735c3473c7e97aa42&chksm=bd4928358a3ea1230cf1a89786bd4ed81dfa5b811ad7ea348eefaa59abdd9b0c7a0543c2d9dc#rd)  
+- [2022-06-17-【PPT】基于-Serverless-的业务轻研发模式探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255217&idx=2&sn=a855ee7ada2e81724a55fdb9244ece8c&chksm=bd4928358a3ea123e84a5ebcdac7f8d547a5e4eec656afbb82bd63ec8ea42f21a6d03dfc031a#rd)  
 - [2022-06-16-前端开发技术与业务的思考](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255108&idx=2&sn=2cb5c35ac71e38d22cf692aae3d39312&chksm=bd4928c08a3ea1d63d79bfbb41bf84bda49001becbf4ce915b1061a45eaba6f07aa7365e3e48#rd)  
 - [2022-06-16-【第2642期】基于-Serverless-的业务轻研发模式探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255108&idx=1&sn=a2b497d9f9e5847f27890530515d227b&chksm=bd4928c08a3ea1d64121abaf54be5f3cc75cece7b83f652defad1332d5080a3f41f6793c26ae#rd)  
 - [2022-06-15-【第2641期】最长公共子序列LCS算法在重新排序项目中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255017&idx=1&sn=d3024510e62e5b28e46af04314e7dc21&chksm=bd49296d8a3ea07b364df3c83989908c5aea43ef89c820877bb52ed3a81d820931f2aad439c3#rd)  

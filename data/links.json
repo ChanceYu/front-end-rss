@@ -143,6 +143,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "AbortController, your newest friend",
+        "link": "https://javascriptweekly.com/issues/594",
+        "date": "2022-06-17"
+      },
+      {
         "title": "Mathematics is the music of reason.",
         "link": "https://javascriptweekly.com/issues/593",
         "date": "2022-06-10"
