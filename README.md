@@ -10,20 +10,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-19 08:01:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-20 06:01:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-06-19-【第2645期】善用-Git-的-sparse-checkout-跟-shallow-clone/pull-來提高工作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255278&idx=1&sn=c5552cd167f7653b36ae05f211885fc6&chksm=bd49286a8a3ea17c659022c7e7c4c40fb3c651e108c4b7a1997168520b090adee79f29d8d1e9#rd) ![](/assets/new.png)  
+- [2022-06-19-【第2645期】善用-Git-的-sparse-checkout-跟-shallow-clone/pull-來提高工作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255278&idx=1&sn=c5552cd167f7653b36ae05f211885fc6&chksm=bd49286a8a3ea17c659022c7e7c4c40fb3c651e108c4b7a1997168520b090adee79f29d8d1e9#rd)  
 - [2022-06-18-【PPT】微众银行无障碍建设案例分享](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=2&sn=57d6cfe8aeac42c67eebb6de7c5af61f&chksm=bd4928698a3ea17f05cb22ef3c20d29721fc8ade59b36d68d6f3b6b28a2e66745129e56026cc#rd)  
 - [2022-06-18-【第2644期】Semi-Design-中的无障碍设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255277&idx=1&sn=cf007eb761d20da68fc7d90500c1d7bd&chksm=bd4928698a3ea17fb97181b0015e6cc0a7d503c102fc777b318c929a1480b7892a9c4a0ef380#rd)  
 - [2022-06-17-【第2643期】认识下浏览器的-5-种观察器-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255217&idx=1&sn=5edf1ae861fd34b735c3473c7e97aa42&chksm=bd4928358a3ea1230cf1a89786bd4ed81dfa5b811ad7ea348eefaa59abdd9b0c7a0543c2d9dc#rd)  
@@ -315,8 +315,9 @@
 </summary>
 
 
-- [2022-06-12-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)  
+- [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) ![](/assets/new.png)  
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)  
+- [2022-06-12-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)  
 - [2022-05-30-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)  
 - [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)  
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)  
@@ -334,7 +335,6 @@
 - [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/)  
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)  
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/)  
-- [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
