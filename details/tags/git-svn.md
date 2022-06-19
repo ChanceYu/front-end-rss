@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-18 08:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-19 08:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-06-19-【第2645期】善用-Git-的-sparse-checkout-跟-shallow-clone/pull-來提高工作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255278&idx=1&sn=c5552cd167f7653b36ae05f211885fc6&chksm=bd49286a8a3ea17c659022c7e7c4c40fb3c651e108c4b7a1997168520b090adee79f29d8d1e9#rd) 
 - [2022-02-14-【第2528期】如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252607&idx=1&sn=008e47a16385a9b9654aff413a5d145a&chksm=bd493efb8a3eb7edb457f25bdee3363b2191a3211fd41fa8f7ddb659bd85630388d6550461f4#rd) 
 - [2021-05-30-【第2294期】Gitpod-—-Online-IDE-For-GitHub](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246445&idx=1&sn=ea83fa3157d15e94b8fd6780ce5a64fe&chksm=bd4916e98a3e9fff1bc706ae8ba1a58fcb5c93d71ae7a08acc3fd0ce4a1a8904e9eb8bc7eac9&scene=27#wechat_redirect) 
 - [2021-01-06-【第2168期】如何建立GitHub地球仪的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243098&idx=1&sn=cba498cc985feff2a0fdd1c2bc5af7e9&chksm=bd491bde8a3e92c828f3ebafa22e57d4af18fc99936b2cc17f723d9596226a9827901ae66d15&scene=27#wechat_redirect) 
