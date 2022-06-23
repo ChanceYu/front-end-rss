@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-21 06:01:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-23 08:03:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-06-23-【活动】全面揭秘！大前端工程实践与性能优化实操案例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255770&idx=1&sn=bc9798e2cefba75f70926353bfb03683&chksm=bd492a5e8a3ea348f943204fdc9d5f94b9af409b9bb25867ef008ebe5b7f01a60809fa617e8e#rd) 
 - [2022-06-10-【图书】高性能MVVM框架的设计与实现-San](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=2&sn=763f9a49fee33d32b30c981d1ac72d45&chksm=bd4936508a3ebf469e8283f2d4c517ca493d86b050788607870c3e6403d6299f6cce29747a37#rd) 
 - [2022-06-06-【第2632期】微前端框架-Satum-的性能优化策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=1&sn=5bc0d6e640a49c8ecb91647209cf053d&chksm=bd4936138a3ebf05080679284f4fdd6820901039f0fbfabf01ff7f0022f7bd27e82b28b9234a#rd) 
 - [2022-05-10-【第2608期】Web页面全链路性能优化指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254156&idx=1&sn=57588840d6d503f45337c852d2935a94&chksm=bd4934088a3ebd1e275f62d9c69c65d77288b49e4c062fdaccfa56caf3f107b139a7a5d258a8#rd) 
