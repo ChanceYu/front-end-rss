@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-24 12:03:44，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-25 06:03:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,8 +24,8 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [前端里](#前端里)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-06-23-Node.js-in-the-stream.](https://nodeweekly.com/issues/443) ![](/assets/new.png)  
+- [2022-06-23-Node.js-in-the-stream.](https://nodeweekly.com/issues/443)  
 - [2022-06-16-Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)  
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441)  
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595) ![](/assets/new.png)  
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)  
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)  
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)  
@@ -86,7 +87,6 @@
 - [2022-02-25-How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578)  
 - [2022-02-18-The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577)  
 - [2022-02-11-The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576)  
-- [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-06-24-【第2650期】研发同学应该如何负责好一个项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255820&idx=1&sn=70cf87c90c87a748d491c719bfa4b216&chksm=bd492d888a3ea49ec08899e3cb0e4e069216fc698939b61558b2c75550767b2953957b78db62#rd) ![](/assets/new.png)  
+- [2022-06-24-【第2650期】研发同学应该如何负责好一个项目](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255820&idx=1&sn=70cf87c90c87a748d491c719bfa4b216&chksm=bd492d888a3ea49ec08899e3cb0e4e069216fc698939b61558b2c75550767b2953957b78db62#rd)  
 - [2022-06-23-【第2649期】Umi-4-发布啦](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255770&idx=2&sn=5a7d67f1df6a3f55e54c4d0cc2a7891a&chksm=bd492a5e8a3ea348b5b0104221651777eb0751a34785581979260d9e8609cf53009b0752d5ba#rd)  
 - [2022-06-23-【活动】全面揭秘！大前端工程实践与性能优化实操案例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255770&idx=1&sn=bc9798e2cefba75f70926353bfb03683&chksm=bd492a5e8a3ea348f943204fdc9d5f94b9af409b9bb25867ef008ebe5b7f01a60809fa617e8e#rd)  
 - [2022-06-21-【第2647期】初识图片裁切-object-view-box-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255420&idx=1&sn=0294c024efe88e6baee75055c081e2f5&chksm=bd492bf88a3ea2eee2330af858fbd8070de02be440ff18cf604dbfbb2ae8445960eca8edb909#rd)  
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-06-24-科技爱好者周刊（第-211-期）：虚拟商品可以拉动-GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) ![](/assets/new.png)  
+- [2022-06-24-科技爱好者周刊（第-211-期）：虚拟商品可以拉动-GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)  
 - [2022-06-17-科技爱好者周刊（第-210-期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)  
 - [2022-06-10-科技爱好者周刊（第-209-期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html)  
 - [2022-06-03-字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)  
@@ -377,7 +377,7 @@
 </summary>
 
 
-- [2022-06-23-HTTP史记-–-从HTTP/1到HTTP/3](http://www.yyyweb.com/5463.html) ![](/assets/new.png)  
+- [2022-06-23-HTTP史记-–-从HTTP/1到HTTP/3](http://www.yyyweb.com/5463.html)  
 - [2022-06-05-10-分钟搞懂-Vite-devServer，速来围观！](http://www.yyyweb.com/5459.html)  
 - [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html)  
 - [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html)  

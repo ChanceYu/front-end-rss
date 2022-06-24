@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-24 12:03:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-06-25 06:03:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595)
 - [【JavaScript-Weekly】Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)
 - [【JavaScript-Weekly】Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)
 - [【JavaScript-Weekly】19-hours-of-D3.js??](https://javascriptweekly.com/issues/589)
@@ -346,7 +347,6 @@
 - [【JavaScript-Weekly】Array.prototype.groupBy](https://javascriptweekly.com/issues/569)
 - [【JavaScript-Weekly】Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568)
 - [【JavaScript-Weekly】Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567)
-- [【前端早读课】【第2647期】初识图片裁切-object-view-box-属性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255420&idx=1&sn=0294c024efe88e6baee75055c081e2f5&chksm=bd492bf88a3ea2eee2330af858fbd8070de02be440ff18cf604dbfbb2ae8445960eca8edb909#rd)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -148,6 +148,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "What's new in ECMAScript 2022?",
+        "link": "https://javascriptweekly.com/issues/595",
+        "date": "2022-06-24"
+      },
+      {
         "title": "AbortController, your newest friend",
         "link": "https://javascriptweekly.com/issues/594",
         "date": "2022-06-17"

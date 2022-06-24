@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-18 06:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-25 06:03:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595) 
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594) 
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593) 
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592) 
