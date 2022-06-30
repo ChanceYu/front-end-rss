@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Should Node.js support Web Workers?",
+        "link": "https://nodeweekly.com/issues/444",
+        "date": "2022-06-30"
+      },
+      {
         "title": "Node.js in the stream.",
         "link": "https://nodeweekly.com/issues/443",
         "date": "2022-06-23"

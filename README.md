@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-30 18:01:15，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-30 22:00:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-06-30-Should-Node.js-support-Web-Workers?](https://nodeweekly.com/issues/444) ![](/assets/new.png)  
 - [2022-06-23-Node.js-in-the-stream.](https://nodeweekly.com/issues/443)  
 - [2022-06-16-Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)  
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441)  
@@ -55,7 +56,6 @@
 - [2022-03-03-Using-'execa'-to-run-other-processes](https://nodeweekly.com/issues/427)  
 - [2022-02-24-Node-gains-HTTPS-module-import-support](https://nodeweekly.com/issues/426)  
 - [2022-02-17-Express-5-now-in-beta](https://nodeweekly.com/issues/425)  
-- [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,14 +160,14 @@
 </summary>
 
 
-- [2022-06-29-TypeScript-项目实践：四步走高效改造现有的-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515861&idx=1&sn=c332335513af0eb33cab1dae10b24dde&chksm=f9520b96ce258280491aa3df208fd8b98cf0ff535ff6d61dcdb316b4c2d38fbc112ed6c19611#rd) ![](/assets/new.png)  
-- [2022-06-28-Electron-在作业帮直播课-PC-学生端的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515769&idx=1&sn=dfb78b7ec41bb4b563dd04ac3e7d1498&chksm=f9520b3ace25822c133cb22a3e77fa13203754ba01c463b401d4dfa90aa1175c3a38e96e0aa0#rd) ![](/assets/new.png)  
-- [2022-06-26-Deno完成2100万美元融资；EcmaScript-2022-发布；学习通回应被曝用户信息；Rust即将出现在Linux内核中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515712&idx=1&sn=9a8c6438f4a656fb1576720492b87405&chksm=f9520b03ce258215933282a290b82049f2e982dd6615e4243479e5330dd565343e34ffb6cb70#rd) ![](/assets/new.png)  
-- [2022-06-24-作业帮直播间性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515665&idx=1&sn=4521fb2f22e2ee0292a2eaaccd981cf4&chksm=f9520b52ce25824471374f704208c5ecd236d2190777aa6a601823e7d36f9cbf88fce4a1cb58#rd) ![](/assets/new.png)  
-- [2022-06-22-操作系统封闭、后台保守，为什么前端仍能一路狂奔？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515577&idx=1&sn=fca2b63552628fb05492e494149810e8&chksm=f95208face2581ec10c6d8e16ab99d7c4e15016670de7205b04bba3ec9d288a607af383b64c9#rd) ![](/assets/new.png)  
-- [2022-06-20-爱奇艺海外-App-网络优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515552&idx=1&sn=358bd5f2480bc9ed06fce48e55518b77&chksm=f95208e3ce2581f503ba079f4b06ba7edfc28b5df8be14dcf75de310c59ac567b90a3fe42cc9#rd) ![](/assets/new.png)  
-- [2022-06-18-IE-浏览器已“死”，一个时代的终结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515430&idx=1&sn=9227806b5f9d5e391c4f4d92ceef880f&chksm=f9520865ce2581739e6dd6017ff4ee60aeb437dbf3537373d481857e7b5e5fb65ac0f0e62810#rd) ![](/assets/new.png)  
-- [2022-06-17-作业帮直播间前端架构优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515432&idx=1&sn=f1d81a879fbb698639ee5bc006f38c3c&chksm=f952086bce25817d4de523f5913f444d877539f5e841ccf3150f5759069adaa16c3d5113cfd6#rd) ![](/assets/new.png)  
+- [2022-06-29-TypeScript-项目实践：四步走高效改造现有的-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515861&idx=1&sn=c332335513af0eb33cab1dae10b24dde&chksm=f9520b96ce258280491aa3df208fd8b98cf0ff535ff6d61dcdb316b4c2d38fbc112ed6c19611#rd)  
+- [2022-06-28-Electron-在作业帮直播课-PC-学生端的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515769&idx=1&sn=dfb78b7ec41bb4b563dd04ac3e7d1498&chksm=f9520b3ace25822c133cb22a3e77fa13203754ba01c463b401d4dfa90aa1175c3a38e96e0aa0#rd)  
+- [2022-06-26-Deno完成2100万美元融资；EcmaScript-2022-发布；学习通回应被曝用户信息；Rust即将出现在Linux内核中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515712&idx=1&sn=9a8c6438f4a656fb1576720492b87405&chksm=f9520b03ce258215933282a290b82049f2e982dd6615e4243479e5330dd565343e34ffb6cb70#rd)  
+- [2022-06-24-作业帮直播间性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515665&idx=1&sn=4521fb2f22e2ee0292a2eaaccd981cf4&chksm=f9520b52ce25824471374f704208c5ecd236d2190777aa6a601823e7d36f9cbf88fce4a1cb58#rd)  
+- [2022-06-22-操作系统封闭、后台保守，为什么前端仍能一路狂奔？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515577&idx=1&sn=fca2b63552628fb05492e494149810e8&chksm=f95208face2581ec10c6d8e16ab99d7c4e15016670de7205b04bba3ec9d288a607af383b64c9#rd)  
+- [2022-06-20-爱奇艺海外-App-网络优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515552&idx=1&sn=358bd5f2480bc9ed06fce48e55518b77&chksm=f95208e3ce2581f503ba079f4b06ba7edfc28b5df8be14dcf75de310c59ac567b90a3fe42cc9#rd)  
+- [2022-06-18-IE-浏览器已“死”，一个时代的终结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515430&idx=1&sn=9227806b5f9d5e391c4f4d92ceef880f&chksm=f9520865ce2581739e6dd6017ff4ee60aeb437dbf3537373d481857e7b5e5fb65ac0f0e62810#rd)  
+- [2022-06-17-作业帮直播间前端架构优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515432&idx=1&sn=f1d81a879fbb698639ee5bc006f38c3c&chksm=f952086bce25817d4de523f5913f444d877539f5e841ccf3150f5759069adaa16c3d5113cfd6#rd)  
 - [2022-06-14-深入浅出V8里的优化（1）--Smi和HeapNumber](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515334&idx=1&sn=60ec3127394a5b63278637a373278deb&chksm=f9520985ce2580934c90966928ab03678a4013d230734ad5b907f26f0433377bdfc14d082bbf#rd)  
 - [2022-06-12-百度员工删改数据库被判刑；TikTok-英国站员工因工作条件恶劣集体辞职；谷歌：macOS-版谷歌浏览器3个月提速20%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515287&idx=1&sn=471e4ed1549c5f30428965994a1799e9&chksm=f95209d4ce2580c21135bb279cd183d5503b21d51b5613298aa206d384c3c643ae46928c145f#rd)  
 - [2022-06-10-PyScript：让-Python-在-Web-中跑起来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515246&idx=1&sn=603440ed780da2ed245599c5cc243e0c&chksm=f952092dce25803b83e3f8502801129c65ab2e1f241bd4c5d6e915da7e490019799600461cb3#rd)  
