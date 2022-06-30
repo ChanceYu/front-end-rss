@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-30 08:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-06-30 18:01:15，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-06-30-【第2656期】使用-React-Testing-Library-的-15-个常见错误](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255987&idx=1&sn=32b604269d8df274b04a53c156827f9d&chksm=bd492d378a3ea42155454fd500e21a5205168b9c2cf0aa0bfbcdb322c17d85950e022bf08eba#rd) ![](/assets/new.png)  
+- [2022-06-30-【第2656期】使用-React-Testing-Library-的-15-个常见错误](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255987&idx=1&sn=32b604269d8df274b04a53c156827f9d&chksm=bd492d378a3ea42155454fd500e21a5205168b9c2cf0aa0bfbcdb322c17d85950e022bf08eba#rd)  
 - [2022-06-29-【第2655期】携程基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=2&sn=b194a771eba95537896ff441a411c9d7&chksm=bd492d2b8a3ea43d6b6d1057320b41196add6c18b93fb863ffb3d425fdb4ea1bd8519d16eb79#rd)  
 - [2022-06-29-【活动】停止空谈低代码，聊点技术实践的干货！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=1&sn=43373b3c4893015142ee3b4acd11966a&chksm=bd492d2b8a3ea43daab13ef9e7bea76e7d794c4b383555bdcd86282249cc4158a1e908137852#rd)  
 - [2022-06-28-【第2654期】京东NutUI：折叠面板组件的设计与实现](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255883&idx=1&sn=c87d4c382ea054634d9c7459669e8f36&chksm=bd492dcf8a3ea4d93d87cc1ebee01244996632c60a9f0a67de1fd8f6e63b2448a5775d94d4c5#rd)  
@@ -160,6 +160,14 @@
 </summary>
 
 
+- [2022-06-29-TypeScript-项目实践：四步走高效改造现有的-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515861&idx=1&sn=c332335513af0eb33cab1dae10b24dde&chksm=f9520b96ce258280491aa3df208fd8b98cf0ff535ff6d61dcdb316b4c2d38fbc112ed6c19611#rd) ![](/assets/new.png)  
+- [2022-06-28-Electron-在作业帮直播课-PC-学生端的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515769&idx=1&sn=dfb78b7ec41bb4b563dd04ac3e7d1498&chksm=f9520b3ace25822c133cb22a3e77fa13203754ba01c463b401d4dfa90aa1175c3a38e96e0aa0#rd) ![](/assets/new.png)  
+- [2022-06-26-Deno完成2100万美元融资；EcmaScript-2022-发布；学习通回应被曝用户信息；Rust即将出现在Linux内核中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515712&idx=1&sn=9a8c6438f4a656fb1576720492b87405&chksm=f9520b03ce258215933282a290b82049f2e982dd6615e4243479e5330dd565343e34ffb6cb70#rd) ![](/assets/new.png)  
+- [2022-06-24-作业帮直播间性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515665&idx=1&sn=4521fb2f22e2ee0292a2eaaccd981cf4&chksm=f9520b52ce25824471374f704208c5ecd236d2190777aa6a601823e7d36f9cbf88fce4a1cb58#rd) ![](/assets/new.png)  
+- [2022-06-22-操作系统封闭、后台保守，为什么前端仍能一路狂奔？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515577&idx=1&sn=fca2b63552628fb05492e494149810e8&chksm=f95208face2581ec10c6d8e16ab99d7c4e15016670de7205b04bba3ec9d288a607af383b64c9#rd) ![](/assets/new.png)  
+- [2022-06-20-爱奇艺海外-App-网络优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515552&idx=1&sn=358bd5f2480bc9ed06fce48e55518b77&chksm=f95208e3ce2581f503ba079f4b06ba7edfc28b5df8be14dcf75de310c59ac567b90a3fe42cc9#rd) ![](/assets/new.png)  
+- [2022-06-18-IE-浏览器已“死”，一个时代的终结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515430&idx=1&sn=9227806b5f9d5e391c4f4d92ceef880f&chksm=f9520865ce2581739e6dd6017ff4ee60aeb437dbf3537373d481857e7b5e5fb65ac0f0e62810#rd) ![](/assets/new.png)  
+- [2022-06-17-作业帮直播间前端架构优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515432&idx=1&sn=f1d81a879fbb698639ee5bc006f38c3c&chksm=f952086bce25817d4de523f5913f444d877539f5e841ccf3150f5759069adaa16c3d5113cfd6#rd) ![](/assets/new.png)  
 - [2022-06-14-深入浅出V8里的优化（1）--Smi和HeapNumber](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515334&idx=1&sn=60ec3127394a5b63278637a373278deb&chksm=f9520985ce2580934c90966928ab03678a4013d230734ad5b907f26f0433377bdfc14d082bbf#rd)  
 - [2022-06-12-百度员工删改数据库被判刑；TikTok-英国站员工因工作条件恶劣集体辞职；谷歌：macOS-版谷歌浏览器3个月提速20%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515287&idx=1&sn=471e4ed1549c5f30428965994a1799e9&chksm=f95209d4ce2580c21135bb279cd183d5503b21d51b5613298aa206d384c3c643ae46928c145f#rd)  
 - [2022-06-10-PyScript：让-Python-在-Web-中跑起来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515246&idx=1&sn=603440ed780da2ed245599c5cc243e0c&chksm=f952092dce25803b83e3f8502801129c65ab2e1f241bd4c5d6e915da7e490019799600461cb3#rd)  
@@ -172,14 +180,6 @@
 - [2022-05-29-Twitter被罚1.5亿美元；尤雨溪：Vue新文档性能优于React；GitLab新版本发布；搜狐遭诈骗](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514879&idx=1&sn=e2a73ead1e9ca03be1615c8c12b29c56&chksm=f9520fbcce2586aac1985475ac172e3d0a433fd0840a56488951c3955cfc31bc5fcf55117f08#rd)  
 - [2022-05-27-不再支持-IE，React-新特性详细解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514854&idx=1&sn=8d463cd46a77170a705ff490fcb6be58&chksm=f9520fa5ce2586b347ff88cc937a771195c8e95288d7ae32ca60817aac199db7103679cced9f#rd)  
 - [2022-05-24-Remix作者怒指Next.js抄袭，Next.js回应：这功能我早就有了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514837&idx=1&sn=e2443f4551559dfdc77a7a1e8e2df8d7&chksm=f9520f96ce2586804d7a34f29f73718371bc0591e14a9f8c0b0460aa987980ae6f635b82c7dc#rd)  
-- [2022-05-23-我用一个跨平台-Web-应用替换了原生-iOS-应用，竟没人发现](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514821&idx=1&sn=94ac272fdcae81e7187aeeb5495f7024&chksm=f9520f86ce2586909e54235e4f4cd33d982ea71d109a45ec8314a5c957d65fee06cd2b3857bb#rd)  
-- [2022-05-22-jQuery已“死”？Gitee关闭部分开源仓库；微软宣布为员工加薪应对通胀；蔚来又上市了；小鹏回应解约应届生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514799&idx=1&sn=d41eee6fa0003633218c783cf5136f44&chksm=f9520fecce2586fa340d5649a74f4d0f2f3aced661634165967469664283128793d6d15137b6#rd)  
-- [2022-05-20-为什么-NodeJS-是构建微服务的最佳选择？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514769&idx=1&sn=76362f66c5e8f216898cd91d975a5372&chksm=f9520fd2ce2586c45eb6a8bee87cd9ee2683c5f188c44f90982bd8a5f17dbd7f4664f845eca4#rd)  
-- [2022-05-19-如何使用-Google-CrUX-分析和比较-JS-框架的性能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514738&idx=1&sn=a1857d5f7dd35845bc1f0efdfd4b53f3&chksm=f9520f31ce25862766f74d6ad5c8ccdb7fefd659972b0d6cf58abc41ff210960637eddfd1642#rd)  
-- [2022-05-17-对打Angular，Blazor赢在哪里？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514713&idx=1&sn=91f36141c6a2e194bb0193cee800737c&chksm=f9520f1ace25860c6af2abe7a21b414012646a6b47e6ce62ff743cb06d80300243ef9a4191e8#rd)  
-- [2022-05-15-Android-13-即将推出；Flutter-3.0-来了；马斯克：Twitter-员工的工作量将达到“极端水平”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514696&idx=1&sn=2c7a2695a3e39a0e80af0bf913430ffe&chksm=f9520f0bce25861df72cdab6e5375c54c86664a50fe7f078c05cc51e7626b843c08982489660#rd)  
-- [2022-05-13-忍受不了糟糕的工作氛围，我退出了-Google-WebAssembly-团队](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514650&idx=1&sn=324501e411b7211712cec2513556f2ca&chksm=f9520f59ce25864fa20bda3766d0fde5bca81646abb30860832aee9b83307c747dc1539e28dd#rd)  
-- [2022-05-11-WinterCG-社区正式成立，前端代码终于可以运行在后端了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514638&idx=1&sn=12e1e3dd52258d3cb634941f7d0a1a19&chksm=f9520f4dce25865b1fd84a439985fdfd4b4bacece8a6c4bfa5d2e3a25e97877a811498d07951#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
