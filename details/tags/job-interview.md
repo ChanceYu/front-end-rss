@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 12:02:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 18:06:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -346,6 +346,7 @@
 - [2022-03-20-一道面试题牵出12个前端硬核知识点，你知道几个？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485934&idx=1&sn=fccbf36ca660530f793311c1b93dac7d&chksm=ce461c7ff931956900535dd2dfe0b0fd7c5fe3ac8cf1a5a5f0f95d7935ce257ad2ea7479040c#rd) 
 - [2022-03-08-技术题已经问腻了，现在大厂面试前端都问这些...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485807&idx=1&sn=717e753863f73ef897301611604f9f49&chksm=ce461cfef93195e89f0c2dd1596d050ffd3836836d93435108be72f0169956e12d25ed15ddc7#rd) 
 - [2022-02-22-一年经验面试字节抖音电商，分享下面经！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485593&idx=1&sn=0c9c180a1d27f487a91158cc4cbf696c&chksm=ce461d08f931941e6d57f76c31cff23f7dddef7d89282888fe5bf1be28721658d41e817125fe#rd) 
+- [2022-06-27-12-道腾讯前端面试真题及答案整理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=2&sn=66b9cb23c0816a1cf4769ee1839daa49&chksm=87c45bc8b0b3d2de44ca427461a0184a7134873b96c32b9ee506984042097c146458981e7a8b#rd) 
 - [2022-06-07-这儿有20道大厂面试题等你查收](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063444&idx=2&sn=c7f1d7f3c0224706301dcd519f9ec866&chksm=87c45b84b0b3d2926e7eb28c0cd4b6d4c14751d4f860a9da4a66aeb92600f35dad03c509df54#rd) 
 - [2022-05-30-两年前端头条面试记](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063195&idx=3&sn=253630499b0b6eece9f059ee52462e82&chksm=87c4588bb0b3d19d0db06b0f9eb084bcd37f61c7dd262b0e0757ecfb219384d2b526ae071625#rd) 
 - [2022-05-22-两年前端-9-~-10月面经（已拿阿里，头条，pdd，快手-offer）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063113&idx=2&sn=393f41c8c74e0da79ca1b605ecbaec1c&chksm=87c45859b0b3d14faf7de033d1b780da849d11ce9ab468d91b94d2ae6c1bfe6857f977b4a445#rd) 
