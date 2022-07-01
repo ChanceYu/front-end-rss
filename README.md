@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 08:02:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 12:02:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-07-01-【第2657期】前端JS攻防对抗](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256028&idx=1&sn=365f05084dfe1ed1bf4cec15f2a86cf8&chksm=bd492d588a3ea44e85fa35e9230fbcf571ae6dd6a35f6987bac7c49b10e39cdf5fbc6abeeb7d#rd) ![](/assets/new.png)  
-- [2022-07-01-【活动】大前端时代的业务架构和跨端实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256028&idx=2&sn=5fb0b6e90a4e959cc8ee2390580775ec&chksm=bd492d588a3ea44e85df11d9c985b6d704a863c4f3d5ab31afa4fbfef8191e463ba07647690e#rd) ![](/assets/new.png)  
+- [2022-07-01-【第2657期】前端JS攻防对抗](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256028&idx=1&sn=365f05084dfe1ed1bf4cec15f2a86cf8&chksm=bd492d588a3ea44e85fa35e9230fbcf571ae6dd6a35f6987bac7c49b10e39cdf5fbc6abeeb7d#rd)  
+- [2022-07-01-【活动】大前端时代的业务架构和跨端实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256028&idx=2&sn=5fb0b6e90a4e959cc8ee2390580775ec&chksm=bd492d588a3ea44e85df11d9c985b6d704a863c4f3d5ab31afa4fbfef8191e463ba07647690e#rd)  
 - [2022-06-30-【第2656期】使用-React-Testing-Library-的-15-个常见错误](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255987&idx=1&sn=32b604269d8df274b04a53c156827f9d&chksm=bd492d378a3ea42155454fd500e21a5205168b9c2cf0aa0bfbcdb322c17d85950e022bf08eba#rd)  
 - [2022-06-29-【活动】停止空谈低代码，聊点技术实践的干货！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=1&sn=43373b3c4893015142ee3b4acd11966a&chksm=bd492d2b8a3ea43daab13ef9e7bea76e7d794c4b383555bdcd86282249cc4158a1e908137852#rd)  
 - [2022-06-29-【第2655期】携程基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=2&sn=b194a771eba95537896ff441a411c9d7&chksm=bd492d2b8a3ea43d6b6d1057320b41196add6c18b93fb863ffb3d425fdb4ea1bd8519d16eb79#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) ![](/assets/new.png)  
 - [2022-06-29-云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)  
 - [2022-06-24-科技爱好者周刊（第-211-期）：虚拟商品可以拉动-GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)  
 - [2022-06-17-科技爱好者周刊（第-210-期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)  
@@ -365,7 +366,6 @@
 - [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)  
 - [2022-03-11-科技爱好者周刊（第-198-期）：美国制造是否可能](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html)  
 - [2022-03-04-科技爱好者周刊（第-197-期）：如果这个世界有快乐机](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-197.html)  
-- [2022-02-25-科技爱好者周刊（第-196-期）：掌机的未来](http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

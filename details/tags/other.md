@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 08:02:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 12:02:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -1933,6 +1933,7 @@
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/) 
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html) 
 - [2022-06-29-云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) 
 - [2022-06-24-科技爱好者周刊（第-211-期）：虚拟商品可以拉动-GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) 
 - [2022-06-17-科技爱好者周刊（第-210-期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) 
