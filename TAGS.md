@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-01 18:06:18。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-07-02 06:02:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -764,6 +764,7 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】Celebrating-Svelte](https://javascriptweekly.com/issues/596)
 - [【JavaScript-Weekly】Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)
 - [【JavaScript-Weekly】NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)
 - [【前端早读课】【杂志】新程序员之48位技术大牛，48个传奇人生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255845&idx=2&sn=e3d327e5600f22179d3ba22728dc51de&chksm=bd492da18a3ea4b735df0d4bc7414c835b861efa12e59bdc49e84b83dacbdecb4510f6ccccd9#rd)
@@ -776,7 +777,6 @@
 - [【前端早读课】【第2640期】如何在代码中起有意义的名字](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255008&idx=1&sn=ddc41510b21cdd7d53e37fec583bf74a&chksm=bd4929648a3ea0720380157cce392d03920bfe9d10b27cd5a464cece392e166bc309e3abdd40#rd)
 - [【前端早读课】在想什么：可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254720&idx=2&sn=1227af93ca59fed9b04bae54b36bb739&chksm=bd4936448a3ebf528f8e9e6207b8f2600c11ffc01eb6f1d19a75780acf2601ceaded4408afe8#rd)
 - [【前端早读课】【活动】AntV-新品发布会，6-月-6-日见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=2&sn=7a1e04fa46ae16a73aea311236bbf666&chksm=bd4936138a3ebf05ca77d08f2bb9b2472fe60a950f5947ef81abb803630a852cb7ab853e6922#rd)
-- [【前端早读课】浅谈控制反转与依赖注入](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254637&idx=2&sn=7986c5660535a34d59c2f4e2f2ea881c&chksm=bd4936e98a3ebfff431fb7a9797515fc409258f85d58ccfdcf263120d3f7d580b12109f8af1c#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

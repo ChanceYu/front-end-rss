@@ -153,6 +153,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Celebrating Svelte",
+        "link": "https://javascriptweekly.com/issues/596",
+        "date": "2022-07-01"
+      },
+      {
         "title": "What's new in ECMAScript 2022?",
         "link": "https://javascriptweekly.com/issues/595",
         "date": "2022-06-24"

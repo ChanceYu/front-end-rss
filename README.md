@@ -10,17 +10,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 18:06:18，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 06:02:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-07-01-Celebrating-Svelte](https://javascriptweekly.com/issues/596) ![](/assets/new.png)  
 - [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595)  
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)  
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)  
@@ -86,7 +87,6 @@
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579)  
 - [2022-02-25-How-to-read-the-spec-behind-JavaScript](https://javascriptweekly.com/issues/578)  
 - [2022-02-18-The-State-of-JS-results-are-in](https://javascriptweekly.com/issues/577)  
-- [2022-02-11-The-seven-figure-JavaScript-app](https://javascriptweekly.com/issues/576)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -222,12 +222,12 @@
 </summary>
 
 
-- [2022-06-29-深入浅出前端埋点&监控](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=1&sn=b9bf68d0f21ed49570bb49d29200408f&chksm=87c45bcfb0b3d2d914349d58b07484fd5ac20b4d55734afeea7d1d54945ff86abdb6ced47a52#rd) ![](/assets/new.png)  
-- [2022-06-29-如何自己动手搭建一个完美的组件库？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=2&sn=1d0320d2c4f25adbb47b6c39152b13e2&chksm=87c45bcfb0b3d2d918f9a87794deb2e4913c756d8a3e8b0360729cc69c86627f85870d987120#rd) ![](/assets/new.png)  
-- [2022-06-29-Vue-项目一些常见问题的解决方案](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=3&sn=6c31295027be53da775acf8f3dd20c22&chksm=87c45bcfb0b3d2d9cbfff6f8de3e0a0ecf4c8bb3b786135edca76a3b22a755d135747c8487d3#rd) ![](/assets/new.png)  
-- [2022-06-27-万字长文：分享前端性能优化知识体系](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=1&sn=63be7ce21babbf99bafea3cf9a70010c&chksm=87c45bc8b0b3d2de898db8d4f0006f7004406f514f4d0e6a80c8338cf2e8c56d8c40169caf9c#rd) ![](/assets/new.png)  
-- [2022-06-27-12-道腾讯前端面试真题及答案整理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=2&sn=66b9cb23c0816a1cf4769ee1839daa49&chksm=87c45bc8b0b3d2de44ca427461a0184a7134873b96c32b9ee506984042097c146458981e7a8b#rd) ![](/assets/new.png)  
-- [2022-06-27-15个简单的JS编码标准让你的代码更整洁](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=3&sn=e37d018ce1110b41b872f858b7f45890&chksm=87c45bc8b0b3d2def2b3d842f2ada5572cae4137002bc74d4414a830682f49d4d558afd3c07c#rd) ![](/assets/new.png)  
+- [2022-06-29-深入浅出前端埋点&监控](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=1&sn=b9bf68d0f21ed49570bb49d29200408f&chksm=87c45bcfb0b3d2d914349d58b07484fd5ac20b4d55734afeea7d1d54945ff86abdb6ced47a52#rd)  
+- [2022-06-29-如何自己动手搭建一个完美的组件库？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=2&sn=1d0320d2c4f25adbb47b6c39152b13e2&chksm=87c45bcfb0b3d2d918f9a87794deb2e4913c756d8a3e8b0360729cc69c86627f85870d987120#rd)  
+- [2022-06-29-Vue-项目一些常见问题的解决方案](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=3&sn=6c31295027be53da775acf8f3dd20c22&chksm=87c45bcfb0b3d2d9cbfff6f8de3e0a0ecf4c8bb3b786135edca76a3b22a755d135747c8487d3#rd)  
+- [2022-06-27-万字长文：分享前端性能优化知识体系](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=1&sn=63be7ce21babbf99bafea3cf9a70010c&chksm=87c45bc8b0b3d2de898db8d4f0006f7004406f514f4d0e6a80c8338cf2e8c56d8c40169caf9c#rd)  
+- [2022-06-27-12-道腾讯前端面试真题及答案整理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=2&sn=66b9cb23c0816a1cf4769ee1839daa49&chksm=87c45bc8b0b3d2de44ca427461a0184a7134873b96c32b9ee506984042097c146458981e7a8b#rd)  
+- [2022-06-27-15个简单的JS编码标准让你的代码更整洁](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063512&idx=3&sn=e37d018ce1110b41b872f858b7f45890&chksm=87c45bc8b0b3d2def2b3d842f2ada5572cae4137002bc74d4414a830682f49d4d558afd3c07c#rd)  
 - [2022-06-07-这儿有20道大厂面试题等你查收](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063444&idx=2&sn=c7f1d7f3c0224706301dcd519f9ec866&chksm=87c45b84b0b3d2926e7eb28c0cd4b6d4c14751d4f860a9da4a66aeb92600f35dad03c509df54#rd)  
 - [2022-06-07-React-useEffect-详解](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063444&idx=1&sn=6088d99e84269968b5afc9c6b32c5d09&chksm=87c45b84b0b3d29263476a70c9a3fc5df2445111517035081747880f6b388d8425183484983f#rd)  
 - [2022-06-06-TypeScript真香系列——接口篇](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063425&idx=3&sn=2308f6de7ed1b5957d9ff424261f5598&chksm=87c45b91b0b3d287c21d7790057f819eb1c0e064a4984f044cd3d78864ec8bc4791c995f5b00#rd)  
