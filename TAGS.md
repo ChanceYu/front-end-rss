@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-08 12:00:36。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-07-09 06:00:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -328,6 +328,7 @@
 
 
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597)
 - [【JavaScript-Weekly】What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595)
 - [【JavaScript-Weekly】Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)
 - [【JavaScript-Weekly】Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)
@@ -346,7 +347,6 @@
 - [【JavaScript-Weekly】The-JavaScript-2021-megamix](https://javascriptweekly.com/issues/570)
 - [【JavaScript-Weekly】Array.prototype.groupBy](https://javascriptweekly.com/issues/569)
 - [【JavaScript-Weekly】Cutting-down-on-JavaScript](https://javascriptweekly.com/issues/568)
-- [【JavaScript-Weekly】Happy-26th-birthday-to-JavaScript](https://javascriptweekly.com/issues/567)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

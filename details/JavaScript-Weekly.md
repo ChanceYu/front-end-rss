@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-02 06:02:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-09 06:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597) 
 - [2022-07-01-Celebrating-Svelte](https://javascriptweekly.com/issues/596) 
 - [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595) 
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594) 
