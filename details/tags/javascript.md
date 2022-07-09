@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 12:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-09 18:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -718,6 +718,8 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-07-03-一道js笔试题，-刷新了我对map方法函数的认知，你做对了吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486464&idx=1&sn=9d87fe9dd22e7e996252bb27dfe8b352&chksm=ce461991f93190878a68e42cb3bf51aee50cd280cb87c888e661e474996f19fb8d3ebc759b43#rd) 
+- [2022-07-02-你见过js中的逗号表达式吗？这道逗号表达式的面试题，你能做对吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486448&idx=1&sn=32177d91bf10890c6553c70931e38c52&chksm=ce461e61f93197772450fd85398439325de7f04130c86314742d2eaa7bd156c67b24a19b686c#rd) 
 - [2022-06-13-es6你用过哪些惊艳的写法](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486369&idx=1&sn=3da2667ed5b05ae4e0ef3ecce625b0c2&chksm=ce461e30f93197267f4a660be69fa65c9b2d9d8b89dbc562d7b389f2e4bd9103243b5984219d#rd) 
 - [2022-05-31-ES6异步处理解决方案](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486322&idx=1&sn=1be212be510894442fdd8198f653b4c0&chksm=ce461ee3f93197f5f9d9b8d299012e93189ab3aaa721e05ab109d782e63c20cf810fe8ebdcfd#rd) 
 - [2022-05-16-Axios取消请求你会，但是Fetch取消请求你就不会了吧？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486225&idx=1&sn=20e103288ef6f717200b7b68137c7a9b&chksm=ce461e80f9319796fa0636bb5b49e0196dd1a9af3a79dcdad4e9a0a822ae07108b4e86d24c20#rd) 
