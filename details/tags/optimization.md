@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 18:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-12 12:00:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -152,6 +152,7 @@
 - [2022-03-19-如何做一次前端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061950&idx=1&sn=e850b7e09dba1d9337ee13050f29c399&chksm=87c425aeb0b3acb8a8eb0ddd51d4bcdc704cfbccab26aece78b24e8d2416accd764222f37372#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
+- [2022-07-11-富文本关键字搜索高亮，解决方法及优化（收藏！）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509659&idx=2&sn=0210301f2242b4e0f9989bd77dc65d07&chksm=f992a04acee5295c74af94c4a4cdba9d60604d50e8ae0f2fc43d0c9999f2c1f27d7fbe3e4be2#rd) 
 - [2022-06-08-性能优化之全面图片改造方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507955&idx=1&sn=3d2e34e07c277546d0ffc9f2e5d853ec&chksm=f992d922cee550348bd6dec7638f8ea46193779ee1ea59b8393c1d1e8cda41eb9994f6cfb1b6#rd) 
 - [2022-04-21-过度使用懒加载对-Web-性能的影响](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505324&idx=2&sn=e390d5cfac1c4a7988bb0f700833eb4c&chksm=f992d37dcee55a6bb3673b5bf1bc14d07e8e3527d17163721730db0c0bdae1bedf7bac0f03db#rd) 
 - [2022-04-11-大前端性能体系建设，记住这几条tips](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247505121&idx=1&sn=f7f41a7bacfafcc422273e7d7b209cb7&chksm=f992d230cee55b260a83adf42948792edbff1b49ae3de305f264c35ebef0f7ce2102d3acec9b#rd) 
