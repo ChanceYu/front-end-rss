@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-14 12:00:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-07-15 06:00:29。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Node-18.6-and-custom-ESM-loaders](https://nodeweekly.com/issues/446)
 - [【Node-Weekly】Should-Node.js-support-Web-Workers?](https://nodeweekly.com/issues/444)
 - [【Node-Weekly】Node.js-in-the-stream.](https://nodeweekly.com/issues/443)
 - [【Node-Weekly】Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)
@@ -202,7 +203,6 @@
 - [【Node-Weekly】One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416)
 - [【JavaScript-Weekly】Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)
 - [【前端早读课】【招聘】字节跳动飞书文档Node中台团队前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253108&idx=2&sn=443526fde1dac28e457fddb13055e2fe&chksm=bd4930f08a3eb9e6c66c0f0b2c7e672b42bbbb0d1cc59a0fad1c2c2e671d97c65c75a570b114#rd)
-- [【前端早读课】【第2520期】为什么你应该考虑将-node_modules-上传到远程仓库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252508&idx=1&sn=50b5adf24f9007a13e7471aefd480e85&chksm=bd493e988a3eb78e965b39b2d06c7715ce601f0e5d44fb89820239fc959a3f9293b4b7bd5d5a#rd)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
