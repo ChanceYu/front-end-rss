@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 08:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-15 22:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -22,6 +22,7 @@
 - [2018-12-05-【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect) 
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [2018-09-20-【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect) 
+- [2022-07-15-使用-Three.js-实现跳一跳游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607548&idx=2&sn=614be89b0ca6ef450947e3e13c31ffd0&chksm=8022863db7550f2b3c6da334e167dc41b9dad493bd82e9be13d1bbaba055da42013a22378671#rd) 
 - [2022-04-10-一看就懂---从零开始的游戏开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601868&idx=2&sn=1153039359303240b60969da6cac6e4b&chksm=8022ec0db755651b5f99cb7fc72e9dd3e7e08566e02bfe44ac6db6f6476fdf65331480f5a4f1#rd) 
 - [2022-03-04-通过漫天花雨来入门-Three.js](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651599995&idx=2&sn=1448e707e2850d6525f2f8e00e8287df&chksm=8022e3bab7556aac40eebe7c3bf2911db690efd38280641b0b2068d57dfdf3071db534e9fc46#rd) 
 - [2022-02-12-Three.js-实现-2022-冬奥主题-3D-趣味页面](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651597221&idx=1&sn=c497dc8da369ae8e470c85d3ba8e4bbc&chksm=8022fe64b7557772b85b7107f14622e29783ffe5b14b8c13a89265baf1a00a0f84cadab5b7dd#rd) 
@@ -49,8 +50,8 @@
 - [2022-02-27-Three.js---实现地图边界炫光路径效果](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503624&idx=2&sn=f44d189dfbed48ed0762ae21d10613aa&chksm=f992c9d9cee540cf9faa22e441750b26e37ec44ed704869dd773c416b6f2eb254a6d7ace5fce#rd) 
 - [2022-02-07-Three.js-实现-2022-冬奥主题-3D-冰墩墩-趣味页面](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503089&idx=2&sn=36f5c5f151d1fc6d758ddb93c702f95c&chksm=f992ca20cee543363b08f6fbed1970d34efa4070a509b32c6d8669679e3336f8514b97cd7c1c#rd) 
 - [2021-12-16-新兴活跃在直播和游戏等各行业中的虚拟角色，你了解过了没？](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247494941&idx=1&sn=a6c86f0de01a8ab2d1c9dc5ffb78616c&chksm=ec47a6dedb302fc81e6c7c83529b82baded0ae568a396614c19887bc945c57e8b1786898bb52#rd) 
-- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame) 
 - [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/) 
+- [2019-08-08-Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame) 
 - [2021-07-23-科技爱好者周刊（第-168-期）：游戏《底特律：变人》](http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html) 
 - [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html) 
 - [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html) 
