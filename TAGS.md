@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-15 22:00:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-07-16 06:00:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -148,6 +148,7 @@
 
 
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)
 - [【JavaScript-Weekly】Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)
 - [【前端早读课】【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd)
 - [【前端早读课】【第2602期】设置-NPM-Registry-的-4-种姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254065&idx=1&sn=b48d14ad326f021e80cc183460aab2f2&chksm=bd4934b58a3ebda36513c83e72e7b944f33ca3433344bcdbe6d3a8de68889b19c5f1be387f85#rd)
@@ -166,7 +167,6 @@
 - [【前端早读课】【第2300期】@underfin：Vite，下一代Web工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246670&idx=1&sn=a72fde861b4b8acc6bd9cbc01227f989&chksm=bd4909ca8a3e80dcc7acafc84606d83878871ac633f798cce749547d0c87d14840d30d24e5fb&scene=27#wechat_redirect)
 - [【前端早读课】从-0-到-1-掌握Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246542&idx=1&sn=ba3c1060f812a65bc6db39d31457799f&chksm=bd49164a8a3e9f5ca1205152e684e0b91550a3e9a3953ab9669946382842f7e7749681ec77a1&scene=27#wechat_redirect)
 - [【前端早读课】前端进阶高薪必看：Webpack原理剖析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246144&idx=1&sn=dbb186b98ea664b06db685f148bff3ed&chksm=bd4917c48a3e9ed21242d80c4f9d2c7f505b71cf37c0c61fb9cf49eeb3a112bedcf68db65e25&scene=27#wechat_redirect)
-- [【前端早读课】手写一个mini-webpack后，再也不怕面试官问我webpack原理了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245850&idx=1&sn=4506a3533edf9b44a1625f68860f8154&chksm=bd49149e8a3e9d884a36ea7c4d6783c8e4de018c766030f231942f197cae8d9346d56024c1b5&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

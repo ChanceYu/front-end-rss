@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-09 06:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-16 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597) 
 - [2022-07-01-Celebrating-Svelte](https://javascriptweekly.com/issues/596) 
 - [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595) 

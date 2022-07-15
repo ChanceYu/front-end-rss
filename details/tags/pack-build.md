@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 22:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-16 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,6 +8,7 @@
 
 
 - [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437) 
+- [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
 - [2022-05-25-【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd) 
 - [2022-04-29-【第2602期】设置-NPM-Registry-的-4-种姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254065&idx=1&sn=b48d14ad326f021e80cc183460aab2f2&chksm=bd4934b58a3ebda36513c83e72e7b944f33ca3433344bcdbe6d3a8de68889b19c5f1be387f85#rd) 
