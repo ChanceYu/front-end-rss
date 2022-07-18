@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 18:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 06:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -723,6 +723,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-07-17-如何实现比-setTimeout-快-80-倍的定时器？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486537&idx=1&sn=a64f9618b4ce8b658aa9d3260f302ce4&chksm=ce4619d8f93190ce8ae396985db430b98ff94d81ae385bcb444bd913771383f36cbed542eb19#rd) 
 - [2022-07-14-Element使用的async-validator表单校验库源码超详细解析](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486515&idx=1&sn=a0a28c692e40e43ed3ef948a88b78e6d&chksm=ce4619a2f93190b4967de848c231b4f67e9ba36fc569ff436f33ffe6abdbcba6c8ac0597ffdb#rd) 
 - [2022-07-13-JavaScript中9种遍历对象的方法](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486511&idx=1&sn=dbc7288fefd11570ea92ff139d2b5ed9&chksm=ce4619bef93190a8ef766b9f537f89389de5473ac0aafeb11938b1058f7cc7d8515ded9eba27#rd) 
 - [2022-07-03-一道js笔试题，-刷新了我对map方法函数的认知，你做对了吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486464&idx=1&sn=9d87fe9dd22e7e996252bb27dfe8b352&chksm=ce461991f93190878a68e42cb3bf51aee50cd280cb87c888e661e474996f19fb8d3ebc759b43#rd) 
