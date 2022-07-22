@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-22 08:01:01，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-22 12:17:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-07-22-9点开播！尤雨溪谈Web前端生态趋势，4-大前端分论坛免费观看丨-XDC-2022](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256553&idx=1&sn=39a7cde24272a8cf5ee1a9fc05a9a445&chksm=bd492f6d8a3ea67b524b50ed37f781913b74205a987e72892d27f4fc050803373f147617156a#rd) ![](/assets/new.png)  
-- [2022-07-22-【第2678期】何时应该使用TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256553&idx=2&sn=101641d9a58055ed5b40b0496a197ee6&chksm=bd492f6d8a3ea67b810dbdddff343d925a6063b7dde3326f8f503079497149615cfa5d37612f#rd) ![](/assets/new.png)  
+- [2022-07-22-9点开播！尤雨溪谈Web前端生态趋势，4-大前端分论坛免费观看丨-XDC-2022](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256553&idx=1&sn=39a7cde24272a8cf5ee1a9fc05a9a445&chksm=bd492f6d8a3ea67b524b50ed37f781913b74205a987e72892d27f4fc050803373f147617156a#rd)  
+- [2022-07-22-【第2678期】何时应该使用TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256553&idx=2&sn=101641d9a58055ed5b40b0496a197ee6&chksm=bd492f6d8a3ea67b810dbdddff343d925a6063b7dde3326f8f503079497149615cfa5d37612f#rd)  
 - [2022-07-21-【图书】工程师世界的原则---卓有成效的工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256533&idx=2&sn=af71cc2a5aa35a24764c73a6238d5769&chksm=bd492f518a3ea647c9655edb18030708aef39cdfc8492696bbc8bc77707870525bfe8f643645#rd)  
 - [2022-07-21-【第2677期】如何在React中应用SOLID原则？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256533&idx=1&sn=5eff09a9e4dfc93218128edbeafedd8b&chksm=bd492f518a3ea647d6784deb6baff67846718a55b1fe811afbdd4e0a7a927ebef0033f88db0b#rd)  
 - [2022-07-20-【第2676期】一个-Safari-的小-Bug，探索出了-fetch-和-xhr的新玩法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256522&idx=1&sn=38953eed3ccceea7b225bb86c2185666&chksm=bd492f4e8a3ea658a4c4e821610fe4ba23ad1dfe49266eeced2bbfa74a3af6c0b433192771ec#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) ![](/assets/new.png)  
 - [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)  
 - [2022-07-08-科技爱好者周刊（第-213-期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)  
 - [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)  
@@ -365,7 +366,6 @@
 - [2022-04-08-科技爱好者周刊（第-202-期）：三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)  
 - [2022-04-01-科技爱好者周刊（第-201-期）：中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)  
 - [2022-03-25-科技爱好者周刊（第-200-期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)  
-- [2022-03-18-科技爱好者周刊（第-199-期）：俄罗斯的-HTTPS-证书问题](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
