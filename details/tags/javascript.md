@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 22:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-23 06:19:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -8,6 +8,7 @@
 
 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599) 
 - [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597) 
 - [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595) 
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592) 

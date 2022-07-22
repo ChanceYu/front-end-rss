@@ -168,6 +168,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Common JavaScript issues developers face",
+        "link": "https://javascriptweekly.com/issues/599",
+        "date": "2022-07-22"
+      },
+      {
         "title": "Vite 3, or in French: quick, quick, quick.",
         "link": "https://javascriptweekly.com/issues/598",
         "date": "2022-07-15"

@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-22 22:00:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-23 06:19:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599) ![](/assets/new.png)  
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)  
 - [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597)  
 - [2022-07-01-Celebrating-Svelte](https://javascriptweekly.com/issues/596)  
@@ -86,7 +87,6 @@
 - [2022-03-25-React-18-due-any-day-now..](https://javascriptweekly.com/issues/582)  
 - [2022-03-18-Getting-creative-with-JavaScript](https://javascriptweekly.com/issues/581)  
 - [2022-03-11-Bringing-static-type-syntax-into-JavaScript-itself](https://javascriptweekly.com/issues/580)  
-- [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,8 +191,8 @@
 </summary>
 
 
-- [2022-07-22-面试官:你觉得你最大的缺点是什么?](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486577&idx=1&sn=480e0c65d5b71fb71694e3971ac64546&chksm=ce4619e0f93190f6c4ccaa67c6c4b0cbba8292407e7e7fb6947f423f2f6cd56c90390ab31f24#rd) ![](/assets/new.png)  
-- [2022-07-21-春季招聘后前端工程师的就业指南](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486573&idx=1&sn=2036af30d51778b3ecc6d3b893ea8e2b&chksm=ce4619fcf93190ea224a15cd98a3cb90888626569750e293fe377a8851980f82556be4226166#rd) ![](/assets/new.png)  
+- [2022-07-22-面试官:你觉得你最大的缺点是什么?](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486577&idx=1&sn=480e0c65d5b71fb71694e3971ac64546&chksm=ce4619e0f93190f6c4ccaa67c6c4b0cbba8292407e7e7fb6947f423f2f6cd56c90390ab31f24#rd)  
+- [2022-07-21-春季招聘后前端工程师的就业指南](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486573&idx=1&sn=2036af30d51778b3ecc6d3b893ea8e2b&chksm=ce4619fcf93190ea224a15cd98a3cb90888626569750e293fe377a8851980f82556be4226166#rd)  
 - [2022-07-20-简单带大家实践一下pnpm，也就几分钟的事情~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486572&idx=1&sn=eea8ef8faa73682c2bbe834627870ff9&chksm=ce4619fdf93190eb19d3b1ec840dfd200387e9e55ad426373895289ec42acb590240a4284a26#rd)  
 - [2022-07-19-如何封装一个计算容器高度宽度的hook？Vue/React道理相通~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486553&idx=1&sn=c32c801974064bbcdc90e3e8d8bacad5&chksm=ce4619c8f93190dec098675c067cbc57d991e12d8bc9dfabc40543e03d3c9f99fe891cfbd92d#rd)  
 - [2022-07-18-初级、中级、高级到底区别在哪里？我说说我的看法吧~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486542&idx=1&sn=5f850071d19fd5edf58b085cd029973b&chksm=ce4619dff93190c9410f14fa61e5d7150b953b5c9a6cc021e15d1e77b794e5bc62f745bbc983#rd)  
