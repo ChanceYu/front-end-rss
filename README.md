@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 08:02:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-27 12:02:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-07-27-【第2683期】@尤雨溪：2022前端生态趋势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256738&idx=1&sn=ac51743e1f1b7c389c0391bdfdd75522&chksm=bd492e268a3ea730d26d7f10f371f0845ac0a5839cf98026a347de9f63a0c505d721aba860e6#rd) ![](/assets/new.png)  
+- [2022-07-27-【第2683期】@尤雨溪：2022前端生态趋势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256738&idx=1&sn=ac51743e1f1b7c389c0391bdfdd75522&chksm=bd492e268a3ea730d26d7f10f371f0845ac0a5839cf98026a347de9f63a0c505d721aba860e6#rd)  
 - [2022-07-26-关于今年的-RTE-创新编程大赛，陈运营有话说](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256672&idx=2&sn=a62eb02c591d650cc5ab67129f7d49a4&chksm=bd492ee48a3ea7f2497f6678a0602df2ba887e9590c195e0e2fc4f0df05502d127a45ad8b9c3#rd)  
 - [2022-07-26-【第2682期】前端场景下请求的Race-Conditions](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256672&idx=1&sn=953ebc40827edb56655382ae9a750f07&chksm=bd492ee48a3ea7f26bf1ed5136b896e1114d74a9779649cc3cb02c2e428a40e5db750a7633eb#rd)  
 - [2022-07-25-【第2681期】主流移动端组件库的对比和分析---知己知彼，全方位提升NutUI能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256610&idx=1&sn=e3c8f0129ee5f7f15b76ccd08ad37778&chksm=bd492ea68a3ea7b0b7f619260000e77b0885b4240be3d1bcb02eb6fa40339f1e3fba54f0d440#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) ![](/assets/new.png)  
 - [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)  
 - [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)  
 - [2022-07-08-科技爱好者周刊（第-213-期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)  
@@ -365,7 +366,6 @@
 - [2022-04-15-科技爱好者周刊（第-203-期）：英国的名校签证，伯克利的计算机教育](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)  
 - [2022-04-08-科技爱好者周刊（第-202-期）：三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)  
 - [2022-04-01-科技爱好者周刊（第-201-期）：中国需要成立半导体部](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-201.html)  
-- [2022-03-25-科技爱好者周刊（第-200-期）：低期望，多尝试](http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
