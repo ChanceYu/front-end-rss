@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Using Rust to build Node modules",
+        "link": "https://nodeweekly.com/issues/448",
+        "date": "2022-07-28"
+      },
+      {
         "title": "cd /home/nodejs/news",
         "link": "https://nodeweekly.com/issues/447",
         "date": "2022-07-21"
