@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-23 06:19:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-30 06:02:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600) 
 - [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599) 
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597) 
