@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 08:02:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-07-29 12:02:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -1983,6 +1983,7 @@
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/) 
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2022-07-29-科技爱好者周刊（第-216-期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html) 
 - [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html) 
 - [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html) 
 - [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html) 
