@@ -33993,6 +33993,11 @@
     "title": "阮一峰的网络日志",
     "items": [
       {
+        "title": "DNS 查询原理详解",
+        "link": "http://www.ruanyifeng.com/blog/2022/08/dns-query.html",
+        "date": "2022-08-02"
+      },
+      {
         "title": "科技爱好者周刊（第 216 期）：极简主义的胜利",
         "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html",
         "date": "2022-07-29"

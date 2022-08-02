@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 18:02:25，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-02 22:02:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -20,11 +20,11 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
-- [前端技术优选](#前端技术优选)![](/assets/dot.png)   
+- [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -222,8 +222,8 @@
 </summary>
 
 
-- [2022-08-01-我在-Shopee-工作这两年](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063811&idx=1&sn=0235ba29eb67b105b23d5c9a6e9fed9b&chksm=87c45d13b0b3d405a754490206e5dbd6f7abef49b38cbff00af55c837158b1ff950590a42147#rd) ![](/assets/new.png)  
-- [2022-08-01-「一劳永逸」由浅入深配置webpack](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063811&idx=2&sn=084205c3565eebf453cf86b7b8d7eff1&chksm=87c45d13b0b3d405bfb35dad380a0aa2f0178bef4b086bedd28cd22e505b587fd57c9fa9234c#rd) ![](/assets/new.png)  
+- [2022-08-01-我在-Shopee-工作这两年](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063811&idx=1&sn=0235ba29eb67b105b23d5c9a6e9fed9b&chksm=87c45d13b0b3d405a754490206e5dbd6f7abef49b38cbff00af55c837158b1ff950590a42147#rd)  
+- [2022-08-01-「一劳永逸」由浅入深配置webpack](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063811&idx=2&sn=084205c3565eebf453cf86b7b8d7eff1&chksm=87c45d13b0b3d405bfb35dad380a0aa2f0178bef4b086bedd28cd22e505b587fd57c9fa9234c#rd)  
 - [2022-07-31-一文精通-Webpack-构建流程](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063800&idx=3&sn=1d6d498fff9f98020db1b851a348c6d9&chksm=87c45ae8b0b3d3feeb4a64a1774eea0c4021b3fd1f41e35bbd04d20473499d573203ede24145#rd)  
 - [2022-07-31-Vue转React不完全指北](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063800&idx=2&sn=ed484cf3ed487a12c2cf5f0679072209&chksm=87c45ae8b0b3d3fe8ef2c569ec6cfdc5ad82ef50dd8b136e4e6dbc7482885fbf989c1e8cd701#rd)  
 - [2022-07-31-探秘react，一文弄懂react的基本使用和高级特性](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063800&idx=1&sn=dcfb7bb7f61891e1cd09ba8421f2fbff&chksm=87c45ae8b0b3d3fea4e2b082b6a14898428d1e72565fdb66e9d117839f9f0dbe40b87b96aaae#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-08-02-DNS-查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html) ![](/assets/new.png)  
 - [2022-07-29-科技爱好者周刊（第-216-期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)  
 - [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)  
 - [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)  
@@ -365,7 +366,6 @@
 - [2022-04-29-微服务是什么？](http://www.ruanyifeng.com/blog/2022/04/microservice.html)  
 - [2022-04-22-科技爱好者周刊（第-204-期）：如何度过疫情、裁员、还有战争](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-204.html)  
 - [2022-04-15-科技爱好者周刊（第-203-期）：英国的名校签证，伯克利的计算机教育](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html)  
-- [2022-04-08-科技爱好者周刊（第-202-期）：三个有启发的学习方法](http://www.ruanyifeng.com/blog/2022/04/weekly-issue-202.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
