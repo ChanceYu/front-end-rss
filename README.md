@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-06 08:02:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-06 12:02:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,8 +18,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -160,9 +160,10 @@
 </summary>
 
 
+- [2022-08-05-试图颠覆-JavaScript-生态？亲身试用新-JS-运行时-Bun-后，我觉得未来可期](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516765&idx=1&sn=b899b050ea9125222ed283bbe76acc85&chksm=f952371ece25be08bcf259c6cd8a1a9fbd6fe5b5f75e9c9512f1f75799adacbc046aebdeb741#rd) ![](/assets/new.png)  
 - [2022-08-03-爱奇艺海外版HTTPS效率是如何提升的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516692&idx=1&sn=dcbdee01f1ca61e300ef702c82be1295&chksm=f9523757ce25be41d6e5c671d52f9e06479dffda046660019d7e3c5a957fb4054c7815c83da3#rd)  
-- [2022-08-01-一场为期-2-天的技术之旅，XDC-2022-圆满收官！|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516651&idx=2&sn=cbf0fac7bf53d5bc5ba633ce2615bc92&chksm=f95234a8ce25bdbe2efff340a0c439005ee3993155fc979a31c1a4a783295d129dd5fa15afb4#rd)  
 - [2022-08-01-JetBrains首席语言设计师：我们将如何让Kotlin再活几十年](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516651&idx=1&sn=6b1bc2d3cadb27abed8ab727ac0015bf&chksm=f95234a8ce25bdbecda61926e063b9f8cadea7572990cc2218a0313c4cd069524e7cf66ab708#rd)  
+- [2022-08-01-一场为期-2-天的技术之旅，XDC-2022-圆满收官！|-Q推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516651&idx=2&sn=cbf0fac7bf53d5bc5ba633ce2615bc92&chksm=f95234a8ce25bdbe2efff340a0c439005ee3993155fc979a31c1a4a783295d129dd5fa15afb4#rd)  
 - [2022-07-31-cookie替代计划再推迟；每日优鲜曾寻求政策支持；库克：官网打折不是为了清库存；ins用户拒绝抖音化；俄罗斯直接开发6G](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516604&idx=1&sn=8587a89911c7889d9ebea6b0e85b6860&chksm=f95234ffce25bde929e796c3f279b0047177847aaa4fd4eb2b79f326564b159a48e7a82fa0ed#rd)  
 - [2022-07-29-被“嫌弃”的PHP：未来仍光明](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516561&idx=1&sn=ae1b1af5a2b1e4aa8f291671e08190d9&chksm=f95234d2ce25bdc41cee780f7564e8d52cec387ef81a9d3119c4dd95d1ed3fe01a702e7d7671#rd)  
 - [2022-07-27-搞不定移动端性能，全球爆火的Notion从Hybrid转向了Native](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516544&idx=1&sn=e7d334012d918890cffa9d847f456bc1&chksm=f95234c3ce25bdd5f63ff4421cbe643ed997ce819fba2e497f23d254a29752aecc642480e40b#rd)  
@@ -172,14 +173,13 @@
 - [2022-07-21-Bun-会是-Webpack-之后的下一件大事吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516386&idx=1&sn=94bed4b16790a46359e19cf8c759949c&chksm=f95235a1ce25bcb7531410a4fa25f0ab3e6de659d6189fb765a4de40eb2faa009a438824edbb#rd)  
 - [2022-07-18-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516347&idx=1&sn=da833f8fb74589ffe5e6e27432e0b651&chksm=f95235f8ce25bceea9d53c3da870264f4b166acac1fbd183c4599f63bb817cf38b8b9bff2889#rd)  
 - [2022-07-17-越来越多的网站不支持火狐；Vite-3.0-发布；WPS回应删除用户本地文件：纯属误导；消息称字节跳动或准备自研芯片；Bun火了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516316&idx=1&sn=a4cadec94c5fcbe6c4ecafb6ea35a368&chksm=f95235dfce25bcc9b4c099b799862d335c764f46018bfe41a81163ad4a877756ca4f50c7be94#rd)  
-- [2022-07-15-为什么V8的字符串能这么高效？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516273&idx=1&sn=c4ac9545118f9c67cba1fb149b578bb5&chksm=f9523532ce25bc24a5c2424aa1385c380b5f6b838a75b7c5451bdacdc0a57e3ac7d66662fd13#rd)  
 - [2022-07-15-聊聊新晋顶流「Web3-」：海水与火焰｜直播预约](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516273&idx=2&sn=b67b15c8b5b584fcfcc3aa48327f281e&chksm=f9523532ce25bc243f2efd5628a536ed6011913ad6947f340281c78d341d7c0c5b6d7c03bc1d#rd)  
+- [2022-07-15-为什么V8的字符串能这么高效？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516273&idx=1&sn=c4ac9545118f9c67cba1fb149b578bb5&chksm=f9523532ce25bc24a5c2424aa1385c380b5f6b838a75b7c5451bdacdc0a57e3ac7d66662fd13#rd)  
 - [2022-07-13-从-JavaScript-到-TypeScript：上手试试才知道答案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516191&idx=1&sn=ae6771b9c4d2e9dc48a1b4aba55e4692&chksm=f952355cce25bc4a50e2eb864a6455c6221c15611031244125cbb33e1e107d4197b3c5a7c37f#rd)  
 - [2022-07-12-多领域试水，WebAssembly-距离大规模应用还有多远？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516165&idx=1&sn=b2868bcbc403262756459a4b8bb805dd&chksm=f9523546ce25bc506a066c0032aa40b18732996c788986133b3f50a97191dfb9804a88e7a5a0#rd)  
 - [2022-07-10-各国开发者工资：中国排第-19；微软挖来红帽-15-年老将；苏宁易购回应破产清算；虚拟货币不可支付拖欠工资；微信内测大小号功能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516143&idx=1&sn=e5c4d719b70484aef6bf400b814562d2&chksm=f9520aacce2583badbf8b3c2a642857a70df75ac4b078bd18b4bf2b56c1caea1ca8eefb9d211#rd)  
 - [2022-07-08-前端基础设施怎么搞？看腾讯TDesign跨技术栈组件库的最佳实践！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515999&idx=1&sn=5bab2af475e442ad529e7c821e857a54&chksm=f9520a1cce25830ab750e6ac8934c485a3c25954c92ad7530972445e52918bdecc24cb771e18#rd)  
 - [2022-07-07-跨境支付平台-XTransfer-的低代码实践：如何与其他中台融合是核心](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515962&idx=1&sn=b78087fa0231528f7a8b626732f20e05&chksm=f9520a79ce25836ff7d8f84b2c3120e01c959845c0fac36dffecc704c1e02717b4ece7df9d9e#rd)  
-- [2022-07-04-干了十年-Android-开发，为什么我再也不想继续了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515940&idx=1&sn=c04b1b442557ca5070c94a4521e7edbc&chksm=f9520a67ce2583718a74fc3fb10593116822b8ed09ea99b507a03d8eb241aeb4a2dce0024e89#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-08-05-模拟面试，我问的五年前端的面试题，大佬们看一看~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486633&idx=1&sn=1f7bc4d687e0bd6a268e0792bc8a3c9f&chksm=ce461938f931902eeeef8052c00391a5acbd9d7cda3d9e737f3ebc715c034f122c7a605be061#rd) ![](/assets/new.png)  
+- [2022-08-05-模拟面试，我问的五年前端的面试题，大佬们看一看~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486633&idx=1&sn=1f7bc4d687e0bd6a268e0792bc8a3c9f&chksm=ce461938f931902eeeef8052c00391a5acbd9d7cda3d9e737f3ebc715c034f122c7a605be061#rd)  
 - [2022-08-04-我要去哪里？--写在我的-30-岁](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486627&idx=1&sn=2b13883f5220c847a82cc0edae590563&chksm=ce461932f931902416ede6efc7c5e9805a58c7bd3b61fd3bcc414924ad219873d995ce6c03c6#rd)  
 - [2022-08-03-一文搞懂ES6的Map，Map和Object如何选择](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486625&idx=1&sn=96d40b14d349e7ab207da81f6925916d&chksm=ce461930f9319026afde2136f2cad1821adb01595f151247089753ccf6fe0d6982e23fd4fe0f#rd)  
 - [2022-08-02-如何设计一个缓存函数](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486623&idx=1&sn=cec6c3a606a873b4d2900a5b1b147129&chksm=ce46190ef93190181b9b3ec56e645b7267994844da963603dc07ce7868441fc6e7b981d87155#rd)  
