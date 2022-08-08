@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 12:02:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-08 18:02:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -115,6 +115,7 @@
 - [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
+- [2022-08-07-2022-年了，我才开始学-TypeScript-，晚吗？（7.5k字总结）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510194&idx=1&sn=e2c701826214bc79a3f7f2a059b382dd&chksm=f992ae63cee527751a43005d2fb4081ffb7229226d2740f242cf0fa679223f1b971002a21515#rd) 
 - [2022-05-16-会写-TypeScript-但你真的会-TS-编译配置吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506883&idx=2&sn=e15c74fe111f6d5f1fc3779a735d219e&chksm=f992dd12cee55404e98c9100490588e3867ed0773a1fff209824e6e805794f8fd5f99a3c2b4e#rd) 
 - [2022-05-14-TypeScript-高级类型及用法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506818&idx=2&sn=32632acbf6321de0157649743c477128&chksm=f992dd53cee554452b108b68197aff0e56d071e1bb961be2a184fd8938d9ba9a22c5dad861d4#rd) 
 - [2022-03-09-TypeScript-应该尽量避免的语法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503945&idx=2&sn=dcb3f8699e4b0b27037a529c943d6edd&chksm=f992d698cee55f8ee497843e6cf99633632bccb505e9f027c84e4aba9ab9fd27093d477ed8df#rd) 
