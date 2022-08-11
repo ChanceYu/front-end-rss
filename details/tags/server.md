@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 08:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-11 12:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -81,6 +81,7 @@
 - [2022-04-06-深层次业务场景打造属于自己的命令行编译工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062366&idx=2&sn=8255fbd8cd20b5ee0e329f5ebddd7e87&chksm=87c4274eb0b3ae58ca468e0a58012d408fb622f0817280d78980080f0530fa95b0df5c2111ed#rd) 
 - [2022-03-24-平均年薪50.8万，Python工程师拿下这个证书有多吃香？！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062096&idx=1&sn=9119e1e985127a46d31a15a1be27bf87&chksm=87c42440b0b3ad56b5a406d56d41806e1edc761a4ce4b8d2bc3d90cdf1b457ffa4110a48e768#rd) 
 - [2022-03-21-不懂SSR做什么高级前端开发？3天搞定面试加分项！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061958&idx=1&sn=aa6920f7f9bf8cbcdae9a60cd5d1d40e&chksm=87c425d6b0b3acc06a1e561cc1989f5bb6ae52eeae9a6bd553a9dd67b2e63358a5b540ed289a#rd) 
+- [2022-08-10-干货-|-基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510215&idx=1&sn=4517099b1afd565c4df6ad6f2aee2e15&chksm=f992ae16cee5270033a58de8ea65032de97d900b76fda49802cd9d5146f77fd41ea3c36819db#rd) 
 - [2022-07-14-前端到底用Nginx来做啥](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509731&idx=2&sn=ea11f898040077dfaa924286a5222173&chksm=f992a032cee529242facb42229c3af95c27f2ad9ab4cb86e33805d8344b53f7809dba7f78368#rd) 
 - [2022-06-09-不懂SSR做什么高级前端开发？3天搞定面试加分项！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507972&idx=1&sn=d125536f923427e04dd446ad96d58b7e&chksm=f992a6d5cee52fc3dc0f66826512bd932626778fa7ed6dc94747a4103f09bb1d5e98977897c9#rd) 
 - [2022-04-22-如何靠K8s为自己的面试加高分，附198道K8s/Docker/DevOps面试真题+答案详解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506234&idx=1&sn=729c331d1695a84616d528975652832d&chksm=f992dfebcee556fd9057924263a2965dfa84bc556421833aa12dfb28ef452b0901b8c8de6ea5#rd) 
