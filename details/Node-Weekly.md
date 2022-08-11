@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-05 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-12 06:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449) 
 - [2022-07-28-Using-Rust-to-build-Node-modules](https://nodeweekly.com/issues/448) 
 - [2022-07-21-cd-/home/nodejs/news](https://nodeweekly.com/issues/447) 
