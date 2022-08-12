@@ -183,6 +183,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "A way to automatically generate regexes from examples",
+        "link": "https://javascriptweekly.com/issues/602",
+        "date": "2022-08-12"
+      },
+      {
         "title": "Genius misuse of WOFF 2 and Brotli to win a JavaScript contest.",
         "link": "https://javascriptweekly.com/issues/601",
         "date": "2022-08-05"

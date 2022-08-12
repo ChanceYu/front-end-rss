@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-12 18:01:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-08-13 06:00:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -765,6 +765,7 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)
 - [【JavaScript-Weekly】Celebrating-Svelte](https://javascriptweekly.com/issues/596)
 - [【JavaScript-Weekly】Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)
 - [【JavaScript-Weekly】NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)
@@ -776,7 +777,6 @@
 - [【前端早读课】关于今年的-RTE-创新编程大赛，陈运营有话说](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256672&idx=2&sn=a62eb02c591d650cc5ab67129f7d49a4&chksm=bd492ee48a3ea7f2497f6678a0602df2ba887e9590c195e0e2fc4f0df05502d127a45ad8b9c3#rd)
 - [【前端早读课】【图书】工程师世界的原则---卓有成效的工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256533&idx=2&sn=af71cc2a5aa35a24764c73a6238d5769&chksm=bd492f518a3ea647c9655edb18030708aef39cdfc8492696bbc8bc77707870525bfe8f643645#rd)
 - [【前端早读课】【第2673期】前端工程师都在忙些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256497&idx=1&sn=93e03f09f662712735032250497eaea3&chksm=bd492f358a3ea62324f0b42234a7561d47df4f7807fc3d0316999cdaf6def2d0a9db4eb06089#rd)
-- [【前端早读课】【第2669期】前端开发中的流程自动化与提效实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256407&idx=1&sn=e50c51b41c248f8b7e4951c92ed8ab72&chksm=bd492fd38a3ea6c5112df624e411262ea40a698e5064ceffe0f6660e673ce2ec0f0b72de1262#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

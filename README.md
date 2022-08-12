@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 18:01:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 06:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602) ![](/assets/new.png)  
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601)  
 - [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600)  
 - [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599)  
@@ -86,7 +87,6 @@
 - [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)  
 - [2022-04-08-Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)  
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583)  
-- [2022-03-25-React-18-due-any-day-now..](https://javascriptweekly.com/issues/582)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2022-08-11-疫情之下，这届打工人如何与面试官谈钱](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=1&sn=4ba568ae977541621646ea358ba59e64&chksm=f992ae03cee527151b512e5e073153c1c3ccd27d637922972878e06125997779e5be40b00832#rd) ![](/assets/new.png)  
-- [2022-08-11-Hooks时代，如何写出高质量的React和Vue组件？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=2&sn=7e2245e082faecbbcf1403166459f63f&chksm=f992ae03cee527158d7892e8f717a634cfc651274cf6131226de284006cf4e8397aaf9b2bd3e#rd) ![](/assets/new.png)  
+- [2022-08-11-疫情之下，这届打工人如何与面试官谈钱](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=1&sn=4ba568ae977541621646ea358ba59e64&chksm=f992ae03cee527151b512e5e073153c1c3ccd27d637922972878e06125997779e5be40b00832#rd)  
+- [2022-08-11-Hooks时代，如何写出高质量的React和Vue组件？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=2&sn=7e2245e082faecbbcf1403166459f63f&chksm=f992ae03cee527158d7892e8f717a634cfc651274cf6131226de284006cf4e8397aaf9b2bd3e#rd)  
 - [2022-08-10-超大体量项目，微前端落地方案，看完后悔来找我](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510215&idx=2&sn=cc91b93e3f689c96fbfb102b26ff6996&chksm=f992ae16cee527005ab8092841902cc8fd646c4aee7c1f30614914f72d5c0c2e215c05d081d2#rd)  
 - [2022-08-10-干货-|-基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510215&idx=1&sn=4517099b1afd565c4df6ad6f2aee2e15&chksm=f992ae16cee5270033a58de8ea65032de97d900b76fda49802cd9d5146f77fd41ea3c36819db#rd)  
 - [2022-08-09-面试官：用-JS-解析一下这个-HTML-内容](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510208&idx=1&sn=2d57713e85064225345ac2a2b6479a0f&chksm=f992ae11cee5270725380508990d5232f5b2cc89e6bd0d1835581c1a969b48f1434d89f43bff#rd)  

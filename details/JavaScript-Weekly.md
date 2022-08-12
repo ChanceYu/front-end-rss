@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-06 06:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602) 
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601) 
 - [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600) 
 - [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599) 
