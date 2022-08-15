@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 08:02:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-15 12:02:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -277,6 +277,7 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2022-08-14-尤雨溪：新版Vue-3中文文档上线；谷歌开发者工具迎来大更新；英伟达CEO：不裁员，还加薪；谷歌怒指苹果阻碍跨平台交流](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516867&idx=1&sn=7c5fb2df04f2b03e2001719e30f542a7&chksm=f9523780ce25be96051b0aa76c99f74001ffb53376a142cf5782c6f4eaec091338e0ad65a531#rd) 
 - [2022-01-27-Vue涉及国家安全漏洞？尤雨溪回应：前端框架没有渗透功能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512891&idx=1&sn=ce2bd9e0ab8aa95e81e6a6dc942913f4&chksm=f9520678ce258f6e9257e326672541f1d2cf4f9992f761a0e9df18b9ca51399c425963e188eb#rd) 
 - [2022-01-23-尤雨溪：Vue-3将成为新的默认版本；微软-Edge-浏览器搞大动作；Nginx-之父离职；抖音推出-PC-版客户端|前端周报](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512773&idx=1&sn=0f2dde50622e5bd059fcf4c5bdccfcfc&chksm=f9520786ce258e90ea8054010e4966bf14572797cb53faba2b14fe8c820b547a2abc6fa6a51c#rd) 
 - [2022-01-11-下载量和-Vue-一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512566&idx=1&sn=c18874092bed22347cdd31309b9dc4e1&chksm=f95204b5ce258da3b4b478b605afe4a6e85f74d3f7c6d73c65270385995100939bb6e9a89dbf#rd) 
