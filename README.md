@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 06:00:36，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-19 12:00:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-08-19-【第2706期】详聊前端异常原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=1&sn=de016f7d1474321d0258af4337319528&chksm=bd4923168a3eaa00fb77f98570654ccc83eed36e57edef2fd26b294922c159cb77b6ba0a88c8#rd) ![](/assets/new.png)  
-- [2022-08-19-【图书】软技能：代码之外的生存指南-第2版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=2&sn=5ff513388b20fc7b7c190f61cf7858fa&chksm=bd4923168a3eaa00d46b65071f022a0bca3cbd1ca6b9b07e73ac2e9b402882fbbdc5599036ef#rd) ![](/assets/new.png)  
+- [2022-08-19-【第2706期】详聊前端异常原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=1&sn=de016f7d1474321d0258af4337319528&chksm=bd4923168a3eaa00fb77f98570654ccc83eed36e57edef2fd26b294922c159cb77b6ba0a88c8#rd)  
+- [2022-08-19-【图书】软技能：代码之外的生存指南-第2版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=2&sn=5ff513388b20fc7b7c190f61cf7858fa&chksm=bd4923168a3eaa00d46b65071f022a0bca3cbd1ca6b9b07e73ac2e9b402882fbbdc5599036ef#rd)  
 - [2022-08-18-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257354&idx=1&sn=8703599ae0430f7c664af416c374f165&chksm=bd49238e8a3eaa98c9d4edbce10de174bf5766f1a25bcb966d084f22ff7215cdb3b971a8ee34#rd)  
 - [2022-08-17-【第2704期】网易严选多端组件库OSSA正式开源](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257312&idx=1&sn=1f33c2f80856a22c17e29471c0c65cae&chksm=bd4920648a3ea97260a6905213f90fda197223678f685787470f4c68fba64876097450f100e8#rd)  
 - [2022-08-16-【第2703期】软件架构手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257294&idx=1&sn=97ecd62d516bbc6fce722caf685b74f0&chksm=bd49204a8a3ea95cd9c4dea553ca86cb37c0458e03c8cfe8621dcf2bf9f05ef688d0fdc3410d#rd)  
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2022-08-18-Node.js之父着急宣布：Deno将迎来重大变革，更好地兼容Node和npm包](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516937&idx=1&sn=71552ab80117536516d08eb9d251b055&chksm=f952364ace25bf5cb76d14aff613a1d070348c9d1e842e80de9001383263eb06c813a084bc33#rd) ![](/assets/new.png)  
+- [2022-08-18-Node.js之父着急宣布：Deno将迎来重大变革，更好地兼容Node和npm包](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516937&idx=1&sn=71552ab80117536516d08eb9d251b055&chksm=f952364ace25bf5cb76d14aff613a1d070348c9d1e842e80de9001383263eb06c813a084bc33#rd)  
 - [2022-08-15-这-6-年，蚂蚁终端如何应对-App-安全和风控难题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516906&idx=1&sn=392931832fc73d3804c41981ab6656b8&chksm=f95237a9ce25bebf4083125d586ad26f37a32155b5b767bb11b36a72e20c72c57fed7c2b560a#rd)  
 - [2022-08-14-尤雨溪：新版Vue-3中文文档上线；谷歌开发者工具迎来大更新；英伟达CEO：不裁员，还加薪；谷歌怒指苹果阻碍跨平台交流](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516867&idx=1&sn=7c5fb2df04f2b03e2001719e30f542a7&chksm=f9523780ce25be96051b0aa76c99f74001ffb53376a142cf5782c6f4eaec091338e0ad65a531#rd)  
 - [2022-08-12-为什么我不会错过React](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516826&idx=1&sn=cedd810ee4b5cd8f5b5f7204516c1575&chksm=f95237d9ce25becfd3da0d834fdcbbdf93d09033d2073187ade42f9222f1287a075d75170d63#rd)  
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2022-08-18-API-请求慢？这次锅真不在后端](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=1&sn=a8fc3871681ff679b6c6ef2cea150b47&chksm=f992afd1cee526c71389260d0ea11d94d086262e357b92f788d6c124eb7fb168682167c78bd0#rd) ![](/assets/new.png)  
-- [2022-08-18-浏览器-DevTools-你真的会用吗?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=2&sn=94fe14806525bc1fe75ddb8261dd0dfd&chksm=f992afd1cee526c7331a6feba34aeaaa1863428b798b46224bbc615e7e46ed5021899902a9a8#rd) ![](/assets/new.png)  
+- [2022-08-18-API-请求慢？这次锅真不在后端](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=1&sn=a8fc3871681ff679b6c6ef2cea150b47&chksm=f992afd1cee526c71389260d0ea11d94d086262e357b92f788d6c124eb7fb168682167c78bd0#rd)  
+- [2022-08-18-浏览器-DevTools-你真的会用吗?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=2&sn=94fe14806525bc1fe75ddb8261dd0dfd&chksm=f992afd1cee526c7331a6feba34aeaaa1863428b798b46224bbc615e7e46ed5021899902a9a8#rd)  
 - [2022-08-17-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510264&idx=2&sn=23b57263c102be9f33ca97258b4eee41&chksm=f992ae29cee5273f0d03ea16a0de8a8cfb58562d78b45325b9c09b37f8ab9772f1bbd07d80f1#rd)  
 - [2022-08-17-深入浅出-package.json，目测大多数人不了解它](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510264&idx=1&sn=b94e4404b73250a3de6806df3e86639a&chksm=f992ae29cee5273f4db4d09f10eea52b8c2ace309c7b46a9bbb22434a28beb0a7df42d182ec1#rd)  
 - [2022-08-16-前端必备-|-3分钟白嫖我压箱底的免费效率工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510256&idx=1&sn=29118ce4357ab2e8b5a6b2c48dbe6945&chksm=f992ae21cee52737c8165bff9772ba067dc1a7f788b736ba05e3173db070debfa4e7a5c0f74d#rd)  
@@ -284,7 +284,7 @@
 </summary>
 
 
-- [2022-08-18-在阿里做前端程序员，我是这样规划的](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496115&idx=1&sn=53a564622e4570aff9c411eafe88012e&chksm=ec47ba70db303366df935d34ff3cfcd66c0475793818be85364eb5e5e77f1823aa653327b9f2#rd) ![](/assets/new.png)  
+- [2022-08-18-在阿里做前端程序员，我是这样规划的](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496115&idx=1&sn=53a564622e4570aff9c411eafe88012e&chksm=ec47ba70db303366df935d34ff3cfcd66c0475793818be85364eb5e5e77f1823aa653327b9f2#rd)  
 - [2022-07-05-Tubes响应性数据系统的设计与原理](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496113&idx=1&sn=5afb6c56a0963f82f41e206001709319&chksm=ec47ba72db303364e98be4f9919540af636cf81d99c8a3419f5f6912d6c53655421f9fa9fb21#rd)  
 - [2022-06-27-大前端播放器-VideoX-如何回应业务诉求](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496052&idx=1&sn=a799a96e01d4b75fd3ae3891a54db80b&chksm=ec47bab7db3033a18dc07f55449893976f280324c8ed5d44699eb640cc65525ce06082d60295#rd)  
 - [2022-06-23-ECMAScript-双月报告：findLast-提案成功进入到-Stage-4](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495560&idx=1&sn=04f21efcad7eca2227b392281159edeb&chksm=ec47a44bdb302d5d5b0c601ebf12aeef755bd9dbbbe599aaaf6b9002146e5c74c113380f2a1c#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-08-19-科技爱好者周刊（第-219-期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html) ![](/assets/new.png)  
 - [2022-08-12-科技爱好者周刊（第-218-期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)  
 - [2022-08-05-科技爱好者周刊（第-217-期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)  
 - [2022-08-02-DNS-查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)  
@@ -365,7 +366,6 @@
 - [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)  
 - [2022-05-06-科技爱好者周刊（第-205-期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)  
 - [2022-05-05-打包工具-rollup.js-入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html)  
-- [2022-04-29-微服务是什么？](http://www.ruanyifeng.com/blog/2022/04/microservice.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
