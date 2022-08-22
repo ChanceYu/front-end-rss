@@ -10,20 +10,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-21 18:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-22 18:01:22，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -98,8 +98,12 @@
 </summary>
 
 
-- [2022-08-19-【第2706期】详聊前端异常原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=1&sn=de016f7d1474321d0258af4337319528&chksm=bd4923168a3eaa00fb77f98570654ccc83eed36e57edef2fd26b294922c159cb77b6ba0a88c8#rd)  
+- [2022-08-22-【第2709期】一份详尽的-React-re-render-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257502&idx=1&sn=88e7dbe3cbb1ebe9ff8521a40711c1ba&chksm=bd49231a8a3eaa0c95d352fa3297a139d3c20696d0d07cb72843d954a83ebbddb1d4500a00f8#rd) ![](/assets/new.png)  
+- [2022-08-22-【图书】前端架构师：基础建设与架构设计思想](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257502&idx=2&sn=31aff233e6f005dc86887e90b2aa7195&chksm=bd49231a8a3eaa0c652be0d27fc15b3c88b2047ca34cbe7b0c357a33a91859162b1097b0455a#rd) ![](/assets/new.png)  
+- [2022-08-21-【第2708期】企业级包管理服务-cnpmcore](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257498&idx=1&sn=3618873947da1e8a1765cca39dd2a4fe&chksm=bd49231e8a3eaa0883ff59dbaaf2efdc3ec22d82bb81e96885b17f644929399dec211c26b30a#rd) ![](/assets/new.png)  
+- [2022-08-20-【第2707期】由-esbuild-JavaScript-API-看跨语言调用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257494&idx=1&sn=621cbc0783057c1198f022bf5065988f&chksm=bd4923128a3eaa04c4ed2d61bac0826672611e19d8b3afc28ef693b3ffa0712c95538678ab95#rd) ![](/assets/new.png)  
 - [2022-08-19-【图书】软技能：代码之外的生存指南-第2版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=2&sn=5ff513388b20fc7b7c190f61cf7858fa&chksm=bd4923168a3eaa00d46b65071f022a0bca3cbd1ca6b9b07e73ac2e9b402882fbbdc5599036ef#rd)  
+- [2022-08-19-【第2706期】详聊前端异常原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=1&sn=de016f7d1474321d0258af4337319528&chksm=bd4923168a3eaa00fb77f98570654ccc83eed36e57edef2fd26b294922c159cb77b6ba0a88c8#rd)  
 - [2022-08-18-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257354&idx=1&sn=8703599ae0430f7c664af416c374f165&chksm=bd49238e8a3eaa98c9d4edbce10de174bf5766f1a25bcb966d084f22ff7215cdb3b971a8ee34#rd)  
 - [2022-08-17-【第2704期】网易严选多端组件库OSSA正式开源](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257312&idx=1&sn=1f33c2f80856a22c17e29471c0c65cae&chksm=bd4920648a3ea97260a6905213f90fda197223678f685787470f4c68fba64876097450f100e8#rd)  
 - [2022-08-16-【第2703期】软件架构手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257294&idx=1&sn=97ecd62d516bbc6fce722caf685b74f0&chksm=bd49204a8a3ea95cd9c4dea553ca86cb37c0458e03c8cfe8621dcf2bf9f05ef688d0fdc3410d#rd)  
@@ -114,10 +118,6 @@
 - [2022-08-08-【第2695期】基于微前端qiankun的多页签缓存方案实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257116&idx=1&sn=fd02b21a3189447cfd1da40deb2f4e4b&chksm=bd4920988a3ea98e3bae65ab038a8a26c93e6f2f1c98cd0cdee0c2fb36e2837de63c5f86b3bc#rd)  
 - [2022-08-08-【第2695期】基于微前端qiankun的多页签缓存方案实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257116&idx=1&sn=fd02b21a3189447cfd1da40deb2f4e4b&chksm=bd4920988a3ea98e3bae65ab038a8a26c93e6f2f1c98cd0cdee0c2fb36e2837de63c5f86b3bc#rd)  
 - [2022-08-08-【第2695期】基于微前端qiankun的多页签缓存方案实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257116&idx=1&sn=fd02b21a3189447cfd1da40deb2f4e4b&chksm=bd4920988a3ea98e3bae65ab038a8a26c93e6f2f1c98cd0cdee0c2fb36e2837de63c5f86b3bc#rd)  
-- [2022-08-08-【第2695期】基于微前端qiankun的多页签缓存方案实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257116&idx=1&sn=fd02b21a3189447cfd1da40deb2f4e4b&chksm=bd4920988a3ea98e3bae65ab038a8a26c93e6f2f1c98cd0cdee0c2fb36e2837de63c5f86b3bc#rd)  
-- [2022-08-08-【第2695期】基于微前端qiankun的多页签缓存方案实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257116&idx=1&sn=fd02b21a3189447cfd1da40deb2f4e4b&chksm=bd4920988a3ea98e3bae65ab038a8a26c93e6f2f1c98cd0cdee0c2fb36e2837de63c5f86b3bc#rd)  
-- [2022-08-08-【第2695期】基于微前端qiankun的多页签缓存方案实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257116&idx=1&sn=fd02b21a3189447cfd1da40deb2f4e4b&chksm=bd4920988a3ea98e3bae65ab038a8a26c93e6f2f1c98cd0cdee0c2fb36e2837de63c5f86b3bc#rd)  
-- [2022-08-07-【第2694期】在复杂应用中设计空状态：3条准则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257112&idx=1&sn=6d4bec1fc52d46c68d6d471b7a744474&chksm=bd49209c8a3ea98ad9e143379188571b8a83af5e302d7166c6ef115e91b787355c56cadb8a1e#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -315,7 +315,7 @@
 </summary>
 
 
-- [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) ![](/assets/new.png)  
+- [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)  
 - [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/)  
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)  
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)  
