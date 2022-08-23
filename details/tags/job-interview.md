@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-22 18:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-23 18:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -359,6 +359,7 @@
 - [2022-03-20-一道面试题牵出12个前端硬核知识点，你知道几个？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485934&idx=1&sn=fccbf36ca660530f793311c1b93dac7d&chksm=ce461c7ff931956900535dd2dfe0b0fd7c5fe3ac8cf1a5a5f0f95d7935ce257ad2ea7479040c#rd) 
 - [2022-03-08-技术题已经问腻了，现在大厂面试前端都问这些...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485807&idx=1&sn=717e753863f73ef897301611604f9f49&chksm=ce461cfef93195e89f0c2dd1596d050ffd3836836d93435108be72f0169956e12d25ed15ddc7#rd) 
 - [2022-02-22-一年经验面试字节抖音电商，分享下面经！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485593&idx=1&sn=0c9c180a1d27f487a91158cc4cbf696c&chksm=ce461d08f931941e6d57f76c31cff23f7dddef7d89282888fe5bf1be28721658d41e817125fe#rd) 
+- [2022-08-23-三年工作经验成功面试字节、阿里-P6-总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063950&idx=1&sn=cae7839c2af81a61a982bf71f6bdb2b3&chksm=87c45d9eb0b3d48895c89afc7be44634a6607cd4e9cdd52f4a715124be0b5b807fb27060a07e#rd) 
 - [2022-08-10-拼多多和酷家乐面试总结已拿offer](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063914&idx=4&sn=cabb3c2700a05941a024a428c0de691a&chksm=87c45d7ab0b3d46c10683f808e2c75778bbf4a8a7467b932fb10011a0d156b84a893d3f6bc04#rd) 
 - [2022-08-05-深度讲解阿里-1688-在面试中如何考察候选人的能力与潜力](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063815&idx=1&sn=87eb94eed6fcf98b7992d27a60bdaca9&chksm=87c45d17b0b3d4013366c5621522371dd51c21b8595dbd2a45561c1ec262d55e3d06683f0e5d#rd) 
 - [2022-08-04-万字长文干货，从面试官角度再看招聘](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063813&idx=2&sn=302a3d66c6bd0d8a19d3403f503b1f85&chksm=87c45d15b0b3d4038c5faada5cd16dbc69b0dc69dd4cdb36a714f526903fd936dbbf60461c8f#rd) 
