@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-24 06:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-25 06:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -60,6 +60,7 @@
 - [2019-11-04-Typescript-严格模式有多严格？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557337&idx=1&sn=dec544745885316859373d94898c5df1&chksm=80255a18b752d30e817a272e561b5f0a50467ea7728678ae4c48cf93599bdb3cb95bd8dfe95e&scene=27#wechat_redirect) 
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd) 
 - [2019-09-03-增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd) 
+- [2022-08-24-TypeScript遭库开发者嫌弃：类型简直是万恶之源](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517277&idx=1&sn=9218e4906ad37eda40d7c3cad9b256e6&chksm=f952311ece25b80876fc60fe27b33e96449da03be24d20c82386cd97230ac9069c7b006ea1bf#rd) 
 - [2022-07-13-从-JavaScript-到-TypeScript：上手试试才知道答案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516191&idx=1&sn=ae6771b9c4d2e9dc48a1b4aba55e4692&chksm=f952355cce25bc4a50e2eb864a6455c6221c15611031244125cbb33e1e107d4197b3c5a7c37f#rd) 
 - [2022-06-29-TypeScript-项目实践：四步走高效改造现有的-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515861&idx=1&sn=c332335513af0eb33cab1dae10b24dde&chksm=f9520b96ce258280491aa3df208fd8b98cf0ff535ff6d61dcdb316b4c2d38fbc112ed6c19611#rd) 
 - [2022-06-03-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515057&idx=1&sn=d3f9525e5a0efb9ba594774526474a8e&chksm=f9520ef2ce2587e43eae65090d87abb566cf5c83319971d4cd6fa19d9b41cc715856a98bf4e9#rd) 
@@ -100,10 +101,10 @@
 - [2019-01-16-我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect) 
 - [2018-12-17-别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect) 
 - [2022-03-28-聊聊TypeScript中枚举对象（Enum）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486023&idx=1&sn=261be54b07e7767a9b0ee52954221091&chksm=ce461fd6f93196c049f997d098f0af4aad32babc471d7f8d293dab286ea51fc82b2deaa3ea73#rd) 
-- [2022-08-21-TypeScript-之-Class（上）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063947&idx=3&sn=059d06547cdbabed64d643d4c1d723a4&chksm=87c45d9bb0b3d48d1f4905cb628b71feb138854e69111b69047f302c7097b8e9c9183af2f5c4#rd) 
 - [2022-08-21-TypeScript-之-Class（下）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063947&idx=4&sn=5404ed47abd4a8b4dffe535df00718cc&chksm=87c45d9bb0b3d48db48935f20a0f3b0f3ff9af8d3c8f7398a8d7e39580860b12ed3fe5293247#rd) 
-- [2022-08-15-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=2&sn=7274084a93e6977b1416ef09905644ea&chksm=87c45d60b0b3d47604f55efa6bdac9886ea068c33c3aa468e9a1ad80eec676d01a390a85b964#rd) 
+- [2022-08-21-TypeScript-之-Class（上）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063947&idx=3&sn=059d06547cdbabed64d643d4c1d723a4&chksm=87c45d9bb0b3d48d1f4905cb628b71feb138854e69111b69047f302c7097b8e9c9183af2f5c4#rd) 
 - [2022-08-15-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=3&sn=4b9df971e15927c6042b599d1f49ad74&chksm=87c45d60b0b3d476ccb174acb22d3f898a3c2993e2bd7f28d7f7655fc9a6228c3a3ee73d8a5b#rd) 
+- [2022-08-15-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=2&sn=7274084a93e6977b1416ef09905644ea&chksm=87c45d60b0b3d47604f55efa6bdac9886ea068c33c3aa468e9a1ad80eec676d01a390a85b964#rd) 
 - [2022-06-06-TypeScript真香系列——接口篇](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063425&idx=3&sn=2308f6de7ed1b5957d9ff424261f5598&chksm=87c45b91b0b3d287c21d7790057f819eb1c0e064a4984f044cd3d78864ec8bc4791c995f5b00#rd) 
 - [2022-06-01-Typescript-高级技巧](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063341&idx=2&sn=0190577193653c865b1055c4f7349d6a&chksm=87c45b3db0b3d22b245cdaf742c0736e837986d2122c126e79b2b90abec1684d91abbf42377f#rd) 
 - [2022-05-24-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063152&idx=2&sn=4e9ba3ea05a3fa31476fac031feb2b46&chksm=87c45860b0b3d176b28975b46b6dc65306ca8d7814c2cc8cd808c775bf13b8ceed604b67f47f#rd) 
@@ -114,8 +115,8 @@
 - [2022-03-08-为什么我对-TypeScript-黑转粉？一个-JS-开发者的深情自白](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061597&idx=2&sn=d1bffacdcfffdf49665112a5605d12f9&chksm=87c4224db0b3ab5b2b52eb36abf4dffb18cb6fe32fc823c97e640900cfa50aeb3991b9abba66#rd) 
 - [2022-03-03-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061387&idx=2&sn=535073b222368c4e1ec1e0a39595e744&chksm=87c4239bb0b3aa8d0ad2d5d20edac21899c0a3190a80db3eeaa44d2bab4418ed930020bea2d9#rd) 
 - [2022-02-18-走进-Midway：初识-TypeScript-装饰器与-IoC-机制](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061240&idx=3&sn=b3ff263eb0e934dc7f551648789e3f9d&chksm=87c420e8b0b3a9fe7efefbbafb8f359a6b1fd3f67d0d141a4cd847e22ddfba34584344e11fe0#rd) 
-- [2022-02-14-TypeScript-之-Class（上）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061138&idx=1&sn=0cf9df99afd6c96c64717efda38a8950&chksm=87c42082b0b3a99456ce9e15cfaa112dcc8465da6ba73614543c860351e4aa881b2c37884399#rd) 
 - [2022-02-14-TypeScript-之-Class（下）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061138&idx=2&sn=08816aa8f153a8b8cb3d1e9911dcd195&chksm=87c42082b0b3a994d5f1d987ab0cd6ba54048f5843fe2719585bad83231c8c213eb639383b1a#rd) 
+- [2022-02-14-TypeScript-之-Class（上）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061138&idx=1&sn=0cf9df99afd6c96c64717efda38a8950&chksm=87c42082b0b3a99456ce9e15cfaa112dcc8465da6ba73614543c860351e4aa881b2c37884399#rd) 
 - [2022-02-11-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=2&sn=54b6201fe4fe73f8a0b2ce97ec0a53e9&chksm=87c4201eb0b3a90895f545170ca23e2609f08256875c64c36facb47f3672ea31681fc0577ad7#rd) 
 - [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
