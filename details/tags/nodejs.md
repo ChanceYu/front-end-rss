@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-25 12:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-26 06:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451) 
 - [2022-07-28-Using-Rust-to-build-Node-modules](https://nodeweekly.com/issues/448) 
 - [2022-07-21-cd-/home/nodejs/news](https://nodeweekly.com/issues/447) 
 - [2022-07-14-Node-18.6-and-custom-ESM-loaders](https://nodeweekly.com/issues/446) 

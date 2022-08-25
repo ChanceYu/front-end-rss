@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-25 12:00:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-08-26 06:00:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451)
 - [【Node-Weekly】Using-Rust-to-build-Node-modules](https://nodeweekly.com/issues/448)
 - [【Node-Weekly】cd-/home/nodejs/news](https://nodeweekly.com/issues/447)
 - [【Node-Weekly】Node-18.6-and-custom-ESM-loaders](https://nodeweekly.com/issues/446)
@@ -202,7 +203,6 @@
 - [【Node-Weekly】Doing-the-opposite-of-Jim-Cramer-with-Node](https://nodeweekly.com/issues/422)
 - [【Node-Weekly】Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419)
 - [【Node-Weekly】Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418)
-- [【Node-Weekly】One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

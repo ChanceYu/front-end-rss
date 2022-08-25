@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Popular Node.js practices to reconsider",
+        "link": "https://nodeweekly.com/issues/451",
+        "date": "2022-08-25"
+      },
+      {
         "title": "Native modules become 'built-ins'",
         "link": "https://nodeweekly.com/issues/450",
         "date": "2022-08-11"
