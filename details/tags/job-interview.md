@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-26 12:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-26 18:00:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -310,8 +310,8 @@
 - [2020-05-07-「面试心理学」面试前的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558307&idx=1&sn=958b663d10ab51b919e676e3360cf4ab&chksm=80254662b752cf7400a356f87a27edc4c727fcec6855e6698d8bce43a660d63d273193fe7971&scene=27#wechat_redirect) 
 - [2020-05-01-高频前端面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558273&idx=1&sn=0ad197e3c89520ecc635c2d3f1d21360&chksm=80254640b752cf56105618b585e95364690b639b6d64a9c168bae705b2fab03abf1de4570294&scene=27#wechat_redirect) 
 - [2020-03-08-如何轻松拿到淘宝前端-offer](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557993&idx=1&sn=a95adcca9ff6c7c45cee8c41ac13f194&chksm=802547a8b752cebe50145f67e6f6e317ced23cc5e647044e950c29e1c9eb3f0c3e0612e131b8&scene=27#wechat_redirect) 
-- [2020-02-26-招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=1&sn=446126bd1625c3ad1bd8f872674819b1&chksm=802547efb752cef98048cdcb4d9777311a407818b4ed272d063df6c24b47795213bc60aa4107&scene=27#wechat_redirect) 
 - [2020-02-26-三年大厂面试官：二面题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=2&sn=ab8948496371ed0293128dba5df83f71&chksm=802547efb752cef9eb0057700150dba49059a6cf61dffe28a6a832ad55893235bf02672e5fc7&scene=27#wechat_redirect) 
+- [2020-02-26-招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=1&sn=446126bd1625c3ad1bd8f872674819b1&chksm=802547efb752cef98048cdcb4d9777311a407818b4ed272d063df6c24b47795213bc60aa4107&scene=27#wechat_redirect) 
 - [2020-02-10-还闲在家？年后必考的面试题都准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557846&idx=1&sn=bf39b948b818beb197f3042af79175d2&chksm=80255817b752d101f3398c47addee5de1315eb81b69712c7f25af66aad283eac5682314d9f9c&scene=27#wechat_redirect) 
 - [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect) 
 - [2020-01-14-面试常考手写代码学习技巧总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=2&sn=252c3f2a20d0a72019e7883554e399d0&chksm=802558a3b752d1b5345df71b30464b3b649c003e2c4e09718ab1c747d546b2e2df23e68378f2&scene=27#wechat_redirect) 
@@ -387,6 +387,7 @@
 - [2022-01-11-万字长文干货，从面试官角度再看招聘](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060807&idx=2&sn=91f7315bf578026a9707eab067965bb4&chksm=87c42157b0b3a8415ac14c789473425cca60e0d1aec57a6b7b1ba7939b8e6d16f5a8299eff51#rd) 
 - [2022-01-07-秋招必备的几道经典前端面试题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=1&sn=70cd851583d14f93afcd0a7f0a536be4&chksm=87c42153b0b3a8453d98d9922965e5cbe389431aebdef846bffd6123e63d11a6f839c4b7c257#rd) 
 - [2022-01-03-阿里笔试题：链式调用、对象比较以及对象是否存在循环引用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=1&sn=f3946d6c5f0061ef2ea6afab879d8a72&chksm=87c42136b0b3a820bc86eaae29db859bf13e3b70051376aa77facc11a7f9e977644b020478dd#rd) 
+- [2022-08-26-最新前端面试上岸手册！该提升下逼格了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=1&sn=1d270e7d35c2dce0eda03d605fd8b9e0&chksm=f992af80cee52696f9845c2b0055444fe2abeb29fe7c1d9f0f0cb033caf5ed4a489b62b9b283#rd) 
 - [2022-08-11-疫情之下，这届打工人如何与面试官谈钱](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=1&sn=4ba568ae977541621646ea358ba59e64&chksm=f992ae03cee527151b512e5e073153c1c3ccd27d637922972878e06125997779e5be40b00832#rd) 
 - [2022-08-05-我捡到宝了！2022版前端面试上岸手册，最新最细致！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510185&idx=1&sn=8ae4279b6c029169d4327e57b2f51918&chksm=f992ae78cee5276ee97887c5a05876c36d78591bee255b46e621a364aef71013c0a7ccd5a77b#rd) 
 - [2022-07-20-现在前端面试都问什么「字节、蚂蚁、美团、滴滴面试小记」](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509798&idx=1&sn=1dde93a4052d8e3ca1f42a3e2f23a425&chksm=f992a1f7cee528e1a7885ef484f3e40a99a58702d64f36ca8fc0a84109ce532e772ee683e4f2#rd) 
