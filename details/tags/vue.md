@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 06:00:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-28 06:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -346,6 +346,7 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-10-15-Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
 - [2018-10-02-重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect) 
+- [2022-08-26-上手-Vue-新的状态管理-Pinia，一篇文章就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486903&idx=1&sn=6bf5791099f36e86b6b0dfc1c34c3999&chksm=ce461826f93191300b77341505d769ff3784422895f9cddb4719fb3bbddb9dd9d2454d13f578#rd) 
 - [2022-08-11-VUE3.0和VUE2.0语法上的不同](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486651&idx=1&sn=52b519be08a551e6559407409c79d6ba&chksm=ce46192af931903c018372a591dc4805541755a5caf0c0bd25e9bf855cbbb73071a0f186e928#rd) 
 - [2022-07-08-来聊聊Vue中使用Render函数和JSX](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486492&idx=1&sn=481dbfc79230d8429a5f3d75bf50d8be&chksm=ce46198df931909b697012531f80f4b89258243db87731d02ddac041d01f40095725976ffbc3#rd) 
 - [2022-07-07-用最简的方式学Vuex](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486488&idx=1&sn=dfa5feea80e1db6c9de6d01c8078dd4a&chksm=ce461989f931909ff9b25d1b63a2bc5ef38539bd58817eef2f56caef520ee8613fb3305c7fbc#rd) 

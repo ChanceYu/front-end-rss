@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 06:00:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-28 06:00:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603) ![](/assets/new.png)  
+- [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)  
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)  
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601)  
 - [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600)  
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-08-26-【第2713期】工程化思维：主题切换架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257588&idx=1&sn=51531c48c85480f6e1e53812e2cbb374&chksm=bd4923708a3eaa668a60ce1d24482bfffc4fa8071f46dab17d77ea43dd1d71516d8730762a61#rd) ![](/assets/new.png)  
+- [2022-08-26-【第2713期】工程化思维：主题切换架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257588&idx=1&sn=51531c48c85480f6e1e53812e2cbb374&chksm=bd4923708a3eaa668a60ce1d24482bfffc4fa8071f46dab17d77ea43dd1d71516d8730762a61#rd)  
 - [2022-08-25-【第2712期】日期选择器设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=2&sn=c7772cd7a7c2ccf28f422d63fbdcaa15&chksm=bd49236d8a3eaa7bde762f55753ca169b8f5bf1a0ae9a1f3aa626945c873e424913861f611c3#rd)  
 - [2022-08-25-稀土开发者大会讲师-PPT精华送上，通关全靠你自己了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=1&sn=db529334697cf171498f250893dfd7d4&chksm=bd49236d8a3eaa7bfb73758ab07ce2f9dfbf08730748b3866c8f9704e6290ba18f1cd9275373#rd)  
 - [2022-08-24-太强了！有了这个-GitHub-热门工具，15-分钟把微信小程序搬进自有App！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257534&idx=2&sn=78d2d169963db1a4329db2482b5410ab&chksm=bd49233a8a3eaa2c430e4dbf0ef6c55175456dbdb507ef8e95ccdbf55945f6b3660f1d92b5e3#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-08-26-上手-Vue-新的状态管理-Pinia，一篇文章就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486903&idx=1&sn=6bf5791099f36e86b6b0dfc1c34c3999&chksm=ce461826f93191300b77341505d769ff3784422895f9cddb4719fb3bbddb9dd9d2454d13f578#rd) ![](/assets/new.png)  
 - [2022-08-25-迷失中的this指向，看完这篇就会了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486901&idx=1&sn=3520978459cb258fab2d74b51077ec64&chksm=ce461824f9319132a715265db39dd3b243a745bfbd08b3a88a5b56f4e478c191f73d031b2957#rd)  
 - [2022-08-24-直接修改node_modules里的代码？你是真的菜啊兄弟！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486899&idx=1&sn=1a5873a812ca8a445baa8f0243818acc&chksm=ce461822f9319134622282c1cefc08b8a7ce206d5750e46c88271a9bb2a9b23edf7e73eb386d#rd)  
 - [2022-08-23-我服了！JS怎么交换两个变量的值，又不使用第三个变量？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486893&idx=1&sn=66d9e011172361064ff2b316a5c2eaa6&chksm=ce46183cf931912a419561d52346045964d99a3bdd9f67a34aac8563dd06b7ad07072b4aa28f#rd)  
@@ -210,7 +211,6 @@
 - [2022-08-08-一个CSS样式居然能让整个页面文本都变大写？我直接膜拜~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486641&idx=1&sn=2c174eb994e56b5d0fdeb09f2d710e8c&chksm=ce461920f93190365964d241bbd31c0f645a4c0822a717396bf51ada361833d829e7096f8f8c#rd)  
 - [2022-08-06-程序员是坚守阵地？还是追求全栈？三个思考维度解决犹豫不决](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486635&idx=1&sn=19108eef8a0421e58a97da7a0e391587&chksm=ce46193af931902cbcc056b7edf1e1bb47e9a24d252cbdeeba136bba68161a7eed74afb481c1#rd)  
 - [2022-08-05-模拟面试，我问的五年前端的面试题，大佬们看一看~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486633&idx=1&sn=1f7bc4d687e0bd6a268e0792bc8a3c9f&chksm=ce461938f931902eeeef8052c00391a5acbd9d7cda3d9e737f3ebc715c034f122c7a605be061#rd)  
-- [2022-08-04-我要去哪里？--写在我的-30-岁](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486627&idx=1&sn=2b13883f5220c847a82cc0edae590563&chksm=ce461932f931902416ede6efc7c5e9805a58c7bd3b61fd3bcc414924ad219873d995ce6c03c6#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
