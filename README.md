@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-28 06:00:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-28 08:00:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,9 +19,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-08-26-上手-Vue-新的状态管理-Pinia，一篇文章就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486903&idx=1&sn=6bf5791099f36e86b6b0dfc1c34c3999&chksm=ce461826f93191300b77341505d769ff3784422895f9cddb4719fb3bbddb9dd9d2454d13f578#rd) ![](/assets/new.png)  
+- [2022-08-26-上手-Vue-新的状态管理-Pinia，一篇文章就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486903&idx=1&sn=6bf5791099f36e86b6b0dfc1c34c3999&chksm=ce461826f93191300b77341505d769ff3784422895f9cddb4719fb3bbddb9dd9d2454d13f578#rd)  
 - [2022-08-25-迷失中的this指向，看完这篇就会了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486901&idx=1&sn=3520978459cb258fab2d74b51077ec64&chksm=ce461824f9319132a715265db39dd3b243a745bfbd08b3a88a5b56f4e478c191f73d031b2957#rd)  
 - [2022-08-24-直接修改node_modules里的代码？你是真的菜啊兄弟！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486899&idx=1&sn=1a5873a812ca8a445baa8f0243818acc&chksm=ce461822f9319134622282c1cefc08b8a7ce206d5750e46c88271a9bb2a9b23edf7e73eb386d#rd)  
 - [2022-08-23-我服了！JS怎么交换两个变量的值，又不使用第三个变量？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486893&idx=1&sn=66d9e011172361064ff2b316a5c2eaa6&chksm=ce46183cf931912a419561d52346045964d99a3bdd9f67a34aac8563dd06b7ad07072b4aa28f#rd)  
@@ -253,26 +253,26 @@
 </summary>
 
 
-- [2022-08-26-最新前端面试上岸手册！该提升下逼格了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=1&sn=1d270e7d35c2dce0eda03d605fd8b9e0&chksm=f992af80cee52696f9845c2b0055444fe2abeb29fe7c1d9f0f0cb033caf5ed4a489b62b9b283#rd)  
+- [2022-08-27-前端工程化思维：主题切换架构实现（文末赠书第19期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=1&sn=e8ab5ad12a21c03155895f2f771aadf2&chksm=f992af49cee5265f69ad9eb3e92e2cd60fd88eb49a1aeb85abc25347a993ec5d372facb5db94#rd) ![](/assets/new.png)  
+- [2022-08-27-中高级前端工程师都需要熟悉的技能--前端缓存](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=2&sn=8e033870659e706661ec4318bc918324&chksm=f992af49cee5265f418672c92ba533ec236542289a602012a26246db3f25b609a009c4cd16f7#rd) ![](/assets/new.png)  
 - [2022-08-26-精读《-pnpm》篇，还没用它的在等什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=2&sn=f51f5da0d6740a8863e586748f9cb8e8&chksm=f992af80cee52696cb8c8618338cda6f8a59ea4fb313cda0eced4d984933f9f1cb645717b818#rd)  
-- [2022-08-25-将微前端做到极致-无界方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510341&idx=1&sn=9d47341e6423ce8ee69dac69819ee7bf&chksm=f992af94cee526823b6fa12928763cb088ed08d8ef4721ed2494f287afed5b28a316c97e43f0#rd)  
+- [2022-08-26-最新前端面试上岸手册！该提升下逼格了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=1&sn=1d270e7d35c2dce0eda03d605fd8b9e0&chksm=f992af80cee52696f9845c2b0055444fe2abeb29fe7c1d9f0f0cb033caf5ed4a489b62b9b283#rd)  
 - [2022-08-25-花点时间，带你完全掌握分片渲染和虚拟列表](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510341&idx=2&sn=c6322365f23e50fa8ca354201a4e7452&chksm=f992af94cee5268202c6a44fd4febf9b686002796c56d77cc7d6acd90075cfff065f4a72c1f5#rd)  
-- [2022-08-24-【基础复盘】消灭异步回调，还得是-async-await](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510329&idx=2&sn=bc1c1105f3cb893a545b4bb77dd194b2&chksm=f992afe8cee526fe75a2965ed78c189f041f9d23bb6b7dea844278a8962a67bf0d131ca9bdeb#rd)  
+- [2022-08-25-将微前端做到极致-无界方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510341&idx=1&sn=9d47341e6423ce8ee69dac69819ee7bf&chksm=f992af94cee526823b6fa12928763cb088ed08d8ef4721ed2494f287afed5b28a316c97e43f0#rd)  
 - [2022-08-24-Scroll，你玩明白了嘛？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510329&idx=1&sn=57a01c5fcb0bf278098ff0f4840492da&chksm=f992afe8cee526fed618ebcd478f67ca33f78bb99d441adfe48f12e2624db573e82d4b5b9718#rd)  
-- [2022-08-23-React-Web-开发这样学，才能独当一面](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510321&idx=1&sn=03deb11242b96a90233624d4b9d07587&chksm=f992afe0cee526f6a5de3b723d0d5ab97f2c8740f3ff071649cae006ea2e6e5bd55cd736c409#rd)  
+- [2022-08-24-【基础复盘】消灭异步回调，还得是-async-await](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510329&idx=2&sn=bc1c1105f3cb893a545b4bb77dd194b2&chksm=f992afe8cee526fe75a2965ed78c189f041f9d23bb6b7dea844278a8962a67bf0d131ca9bdeb#rd)  
 - [2022-08-23-electron-应用开发优秀实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510321&idx=2&sn=64f90a1c91d258d04a1c45b7825849ab&chksm=f992afe0cee526f69be6bcb2b5452106fcd1e41c72faee8fe76ced4f3bb4bebe2ace9571b713#rd)  
-- [2022-08-22-为什么大厂不能直接用-Vite？Bundle-less-的思考和实践分享](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510306&idx=1&sn=7654a39698d3d9c1d2fc47d6f1cb498c&chksm=f992aff3cee526e5b9ce5073b59c808ac77ed81bc4a64b80b699bf0fbc2fe63add6980081659#rd)  
+- [2022-08-23-React-Web-开发这样学，才能独当一面](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510321&idx=1&sn=03deb11242b96a90233624d4b9d07587&chksm=f992afe0cee526f6a5de3b723d0d5ab97f2c8740f3ff071649cae006ea2e6e5bd55cd736c409#rd)  
 - [2022-08-22-JavaScript框架的四个时代](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510306&idx=2&sn=0d86768ce35e0bbe37c512682fde0551&chksm=f992aff3cee526e57bbdf76be5298016b34486131c4014caddd1b8faf6c1e08eceeb147bfded#rd)  
-- [2022-08-19-国产开发工具的天花板，用来撸项目真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510295&idx=1&sn=85f97ea6f68fb0d7008d1e93aaf71902&chksm=f992afc6cee526d0b424f92d1ff45ec753c21de3838e036f9ade034526bf6dff560426835091#rd)  
+- [2022-08-22-为什么大厂不能直接用-Vite？Bundle-less-的思考和实践分享](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510306&idx=1&sn=7654a39698d3d9c1d2fc47d6f1cb498c&chksm=f992aff3cee526e5b9ce5073b59c808ac77ed81bc4a64b80b699bf0fbc2fe63add6980081659#rd)  
 - [2022-08-19-面试官:-后端一次返回过多数据，前端应该如何优化处理？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510295&idx=2&sn=c05187126bf3c698df0905bbd11ae71d&chksm=f992afc6cee526d063889722a48984a14d1def01f4b2d12a8c5c3ab739e541ace95bceaf1e4b#rd)  
-- [2022-08-18-浏览器-DevTools-你真的会用吗?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=2&sn=94fe14806525bc1fe75ddb8261dd0dfd&chksm=f992afd1cee526c7331a6feba34aeaaa1863428b798b46224bbc615e7e46ed5021899902a9a8#rd)  
+- [2022-08-19-国产开发工具的天花板，用来撸项目真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510295&idx=1&sn=85f97ea6f68fb0d7008d1e93aaf71902&chksm=f992afc6cee526d0b424f92d1ff45ec753c21de3838e036f9ade034526bf6dff560426835091#rd)  
 - [2022-08-18-API-请求慢？这次锅真不在后端](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=1&sn=a8fc3871681ff679b6c6ef2cea150b47&chksm=f992afd1cee526c71389260d0ea11d94d086262e357b92f788d6c124eb7fb168682167c78bd0#rd)  
-- [2022-08-17-深入浅出-package.json，目测大多数人不了解它](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510264&idx=1&sn=b94e4404b73250a3de6806df3e86639a&chksm=f992ae29cee5273f4db4d09f10eea52b8c2ace309c7b46a9bbb22434a28beb0a7df42d182ec1#rd)  
+- [2022-08-18-浏览器-DevTools-你真的会用吗?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510272&idx=2&sn=94fe14806525bc1fe75ddb8261dd0dfd&chksm=f992afd1cee526c7331a6feba34aeaaa1863428b798b46224bbc615e7e46ed5021899902a9a8#rd)  
 - [2022-08-17-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510264&idx=2&sn=23b57263c102be9f33ca97258b4eee41&chksm=f992ae29cee5273f0d03ea16a0de8a8cfb58562d78b45325b9c09b37f8ab9772f1bbd07d80f1#rd)  
-- [2022-08-16-两个真实线上升级故障让你彻底搞懂package.json中的脱字符^](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510256&idx=2&sn=de8d1e623591dc883ffa8f743fd5a1f0&chksm=f992ae21cee527370907eb686ca70ec20a6856579c4740e70ad52deb7d58b3933e7776d8b794#rd)  
+- [2022-08-17-深入浅出-package.json，目测大多数人不了解它](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510264&idx=1&sn=b94e4404b73250a3de6806df3e86639a&chksm=f992ae29cee5273f4db4d09f10eea52b8c2ace309c7b46a9bbb22434a28beb0a7df42d182ec1#rd)  
 - [2022-08-16-前端必备-|-3分钟白嫖我压箱底的免费效率工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510256&idx=1&sn=29118ce4357ab2e8b5a6b2c48dbe6945&chksm=f992ae21cee52737c8165bff9772ba067dc1a7f788b736ba05e3173db070debfa4e7a5c0f74d#rd)  
-- [2022-08-15-太强了！有了这个-GitHub-热门工具，15-分钟内把微信小程序搬进-App！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510252&idx=1&sn=107cfb7ee193a1428beae44278809b96&chksm=f992ae3dcee5272bb7b26234806ff4ae648c87f6e0b618e47be1c31402fd639308880bfd7f84#rd)  
-- [2022-08-15-从零开始搭建一个属于你自己的组件库！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510252&idx=2&sn=38e19e4322e2feb7186c7803328ad974&chksm=f992ae3dcee5272b5f29e16ba8ce76232a11489ed64b207dc60432a8c7b34480892c2d936b19#rd)  
+- [2022-08-16-两个真实线上升级故障让你彻底搞懂package.json中的脱字符^](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510256&idx=2&sn=de8d1e623591dc883ffa8f743fd5a1f0&chksm=f992ae21cee527370907eb686ca70ec20a6856579c4740e70ad52deb7d58b3933e7776d8b794#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
