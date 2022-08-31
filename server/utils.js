@@ -2,6 +2,9 @@ const path = require('path')
 const moment = require('moment')
 const chalk = require('chalk')
 const queryString = require('query-string')
+const { Octokit } = require('@octokit/core')
+
+require('dotenv').config()
 
 const RESP_ROOT = '../'
 const RESP_PATH              = path.join(RESP_ROOT)
@@ -82,5 +85,20 @@ module.exports = {
     } else {
       return link === compare
     }
+  },
+  async getHomePage() {
+    const octokit = new Octokit({
+      auth: process.env.GITHUB_TOKEN
+    })
+    
+    const res = await octokit.request('GET /repos/ChanceYu/front-end-rss', {
+      owner: 'ChanceYu',
+      repo: 'front-end-rss'
+    })
+
+    if (res && res.data && res.data.homepage) {
+      return res.data.homepage
+    }
+    return 'https://front-end-rss.vercel.app'
   }
 }

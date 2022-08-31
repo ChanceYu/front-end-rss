@@ -17,13 +17,15 @@ const {
 /**
  * 渲染 README.md 文件
  */
-function handleREADME(newData, linksJson) {
+async function handleREADME(newData, linksJson) {
   let content = fs.readFileSync(README_TEMPLATE_PATH)
 
   let compiled = _.template(content.toString())
   const currentDate = utils.getNowDate()
+  const homePage = await utils.getHomePage()
 
   content = compiled({
+    homePage,
     newData,
     linksJson,
     currentDate,
@@ -104,8 +106,8 @@ function handleDetails(newData, linksJson) {
   })
 }
 
-module.exports = function (newData, linksJson) {
-  handleREADME(newData, linksJson)
+module.exports = async function (newData, linksJson) {
+  await handleREADME(newData, linksJson)
   handleTags(newData, linksJson)
   handleDetails(newData, linksJson)
 }

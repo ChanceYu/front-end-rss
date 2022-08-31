@@ -96,12 +96,12 @@ function handleFeed() {
     })())
   }))
 
-  Async.series(tasks, () => {
+  Async.series(tasks, async () => {
     if (newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson, {
         spaces: 2
       })
-      writemd(newData, linksJson)
+      await writemd(newData, linksJson)
       handleCommit()
     } else {
       utils.logSuccess('无需更新')
