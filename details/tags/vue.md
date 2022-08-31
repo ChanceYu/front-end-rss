@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-31 08:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -110,6 +110,8 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2022-08-29-一文解析-Pinia-和-Vuex-，带你全面理解这两个-Vue-状态管理模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608471&idx=1&sn=37512a1bb198f67a7c36cdeddeca9313&chksm=80228256b7550b40917a07ccff8aecddf8a136462d5a83609745e4875e0de23093838aedb9a4#rd) 
+- [2022-08-21-新版-Vue-3-中文文档上线](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608211&idx=2&sn=d57d5fbe64a2d136068e81f6dcb0dfe2&chksm=80228352b7550a44a252d3103284ed7ef8a9d80baeb02d0ad92e7e7d419ff6edef27e2edcd82#rd) 
 - [2022-08-04-基于-Vue3-和-TypeScript-项目大量实践后的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607955&idx=1&sn=6c827621edca30a6638ba822d5c249fa&chksm=80228452b7550d4436bca7258caeee6c0553b0945c474417b56d68edcb4c601db6ea6f2b2959#rd) 
 - [2022-08-03-一文掌握-vue3.2-setup-语法糖](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607950&idx=1&sn=d5ae7e8cc94bf35c208fb4c206f7ff2b&chksm=8022844fb7550d598888cb07ac4d96185486767e7cb326560deefea344a4abce7643d900d2d4#rd) 
 - [2022-07-29-Vue2-升级到-Vue3-到底是不是一个正确的选择？尤雨溪亲自回复解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607846&idx=1&sn=47b7276bd7bfdfa569be64ecdf8de7aa&chksm=802284e7b7550df14ab74cea21fcf1e314392edc1f4ef61544a61c38aa9f16e91bce79f81678#rd) 
@@ -345,6 +347,7 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-10-15-Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
 - [2018-10-02-重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect) 
+- [2022-08-26-上手-Vue-新的状态管理-Pinia，一篇文章就够了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486903&idx=1&sn=6bf5791099f36e86b6b0dfc1c34c3999&chksm=ce461826f93191300b77341505d769ff3784422895f9cddb4719fb3bbddb9dd9d2454d13f578#rd) 
 - [2022-08-11-VUE3.0和VUE2.0语法上的不同](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486651&idx=1&sn=52b519be08a551e6559407409c79d6ba&chksm=ce46192af931903c018372a591dc4805541755a5caf0c0bd25e9bf855cbbb73071a0f186e928#rd) 
 - [2022-07-08-来聊聊Vue中使用Render函数和JSX](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486492&idx=1&sn=481dbfc79230d8429a5f3d75bf50d8be&chksm=ce46198df931909b697012531f80f4b89258243db87731d02ddac041d01f40095725976ffbc3#rd) 
 - [2022-07-07-用最简的方式学Vuex](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486488&idx=1&sn=dfa5feea80e1db6c9de6d01c8078dd4a&chksm=ce461989f931909ff9b25d1b63a2bc5ef38539bd58817eef2f56caef520ee8613fb3305c7fbc#rd) 

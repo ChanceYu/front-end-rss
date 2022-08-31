@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-31 08:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-08-29-【第2716期】雪球正文页排版演进及体验优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257645&idx=1&sn=7205c9c6fe69cea66dffee19c446da7f&chksm=bd4922a98a3eabbfe439c358f12f8556ae9a6d8224bc9bd9296a7100a26db7a1f02841aab3c4#rd) 
 - [2022-06-23-【活动】全面揭秘！大前端工程实践与性能优化实操案例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255770&idx=1&sn=bc9798e2cefba75f70926353bfb03683&chksm=bd492a5e8a3ea348f943204fdc9d5f94b9af409b9bb25867ef008ebe5b7f01a60809fa617e8e#rd) 
 - [2022-06-10-【图书】高性能MVVM框架的设计与实现-San](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=2&sn=763f9a49fee33d32b30c981d1ac72d45&chksm=bd4936508a3ebf469e8283f2d4c517ca493d86b050788607870c3e6403d6299f6cce29747a37#rd) 
 - [2022-06-06-【第2632期】微前端框架-Satum-的性能优化策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254679&idx=1&sn=5bc0d6e640a49c8ecb91647209cf053d&chksm=bd4936138a3ebf05080679284f4fdd6820901039f0fbfabf01ff7f0022f7bd27e82b28b9234a#rd) 
@@ -100,6 +101,7 @@
 - [2018-10-25-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect) 
 - [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect) 
 - [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect) 
+- [2022-08-29-去掉jQuery后，我们的网站性能起飞，速度快了17%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517426&idx=1&sn=6494010bd2bfccfc46bc1aac653ebfe1&chksm=f95231b1ce25b8a76e869ff98e7984af1543a705f0c19e5f7b3ae032c328aa52beb7bb9e7ff1#rd) 
 - [2022-07-27-搞不定移动端性能，全球爆火的Notion从Hybrid转向了Native](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516544&idx=1&sn=e7d334012d918890cffa9d847f456bc1&chksm=f95234c3ce25bdd5f63ff4421cbe643ed997ce819fba2e497f23d254a29752aecc642480e40b#rd) 
 - [2022-06-20-爱奇艺海外-App-网络优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515552&idx=1&sn=358bd5f2480bc9ed06fce48e55518b77&chksm=f95208e3ce2581f503ba079f4b06ba7edfc28b5df8be14dcf75de310c59ac567b90a3fe42cc9#rd) 
 - [2021-05-21-Wix-如何通过改进基础架构提升网站性能？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247509379&idx=2&sn=ff3b9775b97f7acebeb8baa960daadaa&chksm=f95210c0ce2599d6676b79fb130b09a3e93bf67a030d2d56cf6d6a7bde4155f20b5f1070d144&scene=27#wechat_redirect) 
@@ -155,6 +157,7 @@
 - [2022-03-19-如何做一次前端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061950&idx=1&sn=e850b7e09dba1d9337ee13050f29c399&chksm=87c425aeb0b3acb8a8eb0ddd51d4bcdc704cfbccab26aece78b24e8d2416accd764222f37372#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
+- [2022-08-19-面试官:-后端一次返回过多数据，前端应该如何优化处理？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510295&idx=2&sn=c05187126bf3c698df0905bbd11ae71d&chksm=f992afc6cee526d063889722a48984a14d1def01f4b2d12a8c5c3ab739e541ace95bceaf1e4b#rd) 
 - [2022-08-03-老板让你做性能优化，第一步如何定义指标？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510147&idx=2&sn=f134cd820b91f99db5b44350f60b4024&chksm=f992ae52cee527443eabf7fbd3fcb6ca68280c24d984526bf6a625cb968dce542c61897bf73d#rd) 
 - [2022-07-11-富文本关键字搜索高亮，解决方法及优化（收藏！）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509659&idx=2&sn=0210301f2242b4e0f9989bd77dc65d07&chksm=f992a04acee5295c74af94c4a4cdba9d60604d50e8ae0f2fc43d0c9999f2c1f27d7fbe3e4be2#rd) 
 - [2022-06-08-性能优化之全面图片改造方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247507955&idx=1&sn=3d2e34e07c277546d0ffc9f2e5d853ec&chksm=f992d922cee550348bd6dec7638f8ea46193779ee1ea59b8393c1d1e8cda41eb9994f6cfb1b6#rd) 

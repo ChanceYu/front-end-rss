@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-31 08:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-08-31-《快手增长团队的前端工程化思考》PPT、视频回放已准备好，来看！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=1&sn=0d65bd2522507ee6f1a54ae0f5917201&chksm=bd4922db8a3eabcd32561794e0b4b7ab3c85fe7d533aac28b07358612c4ad9702565569257d2#rd) 
 - [2022-06-13-【直播】和Shopee前端技术专家聊聊前端高性能计算](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254947&idx=2&sn=e75e021c842308e1f0845b514a2475e7&chksm=bd4929278a3ea0316e4ee1df61d8083904fb4d927783d009543208fdf5e61653df3e7a79ab53#rd) 
 - [2022-05-24-【招聘】抖音直播大前端团队招前端工程师、前端专家](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254419&idx=2&sn=d6979e56a189fbec7311cb439578374c&chksm=bd4937178a3ebe01a221d3a76509fe637018e091406db9ac6a4b043984ad11ef314948d72599#rd) 
 - [2022-03-26-【第2568期】Web端短视频编辑器的设计与实现---像做PPT一样做视频](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253441&idx=1&sn=6fcc8a93d912b1c559ac6a999f604745&chksm=bd4933458a3eba533acafa511d46610d439e62b3df5abcdb092bbe585693f0cc68e1eebf96d6#rd) 

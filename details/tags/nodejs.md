@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-31 08:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451) 
 - [2022-07-28-Using-Rust-to-build-Node-modules](https://nodeweekly.com/issues/448) 
 - [2022-07-21-cd-/home/nodejs/news](https://nodeweekly.com/issues/447) 
 - [2022-07-14-Node-18.6-and-custom-ESM-loaders](https://nodeweekly.com/issues/446) 
@@ -139,6 +140,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2022-08-21-JWST太空望远镜使用JS；微软员工看不上公司加薪；Android13-正式发布；百度网盘否认人工审核照片；Deno将迎重大变革](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517028&idx=1&sn=5d6552eec83daf745c36d33cce047726&chksm=f9523627ce25bf31142ca309f30899d077ee3557b801d21df3a01c30a4b494b1bc733a674233#rd) 
 - [2022-07-15-为什么V8的字符串能这么高效？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516273&idx=1&sn=c4ac9545118f9c67cba1fb149b578bb5&chksm=f9523532ce25bc24a5c2424aa1385c380b5f6b838a75b7c5451bdacdc0a57e3ac7d66662fd13#rd) 
 - [2022-06-28-Electron-在作业帮直播课-PC-学生端的实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515769&idx=1&sn=dfb78b7ec41bb4b563dd04ac3e7d1498&chksm=f9520b3ace25822c133cb22a3e77fa13203754ba01c463b401d4dfa90aa1175c3a38e96e0aa0#rd) 
 - [2022-06-26-Deno完成2100万美元融资；EcmaScript-2022-发布；学习通回应被曝用户信息；Rust即将出现在Linux内核中](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515712&idx=1&sn=9a8c6438f4a656fb1576720492b87405&chksm=f9520b03ce258215933282a290b82049f2e982dd6615e4243479e5330dd565343e34ffb6cb70#rd) 
@@ -229,7 +231,9 @@
 - [2018-10-24-Node.js-11-发布，Node-10正式进入LTS](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489741&idx=1&sn=66fef72ecf1233bdc48ad44345183b4d#wechat_redirect) 
 - [2018-10-22-如何创建高性能、可扩展的Node.js应用？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489726&idx=1&sn=01f914f1f9daba3a9bc116ac7d06dd50#wechat_redirect) 
 - [2018-09-23-Electron-3.0正式版发布，新特性详解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489563&idx=1&sn=143a32f20520df0a25651099e14e870c#wechat_redirect) 
+- [2022-08-24-直接修改node_modules里的代码？你是真的菜啊兄弟！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486899&idx=1&sn=1a5873a812ca8a445baa8f0243818acc&chksm=ce461822f9319134622282c1cefc08b8a7ce206d5750e46c88271a9bb2a9b23edf7e73eb386d#rd) 
 - [2022-06-06-我在Nodejs里使用了sync方法，被CTO骂了一顿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486336&idx=1&sn=2611c8f6f7903677bc6676a95cfc45e4&chksm=ce461e11f93197078ff2c08ca458b12b2b522eec7ef256f263d4411bb8da2e8c57d36a1fb0f1#rd) 
+- [2022-08-23-你需要了解的有关-Node.js-的所有信息](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063950&idx=2&sn=49bdb10f88f002ad2dfe552c9082f99b&chksm=87c45d9eb0b3d4888f0117cf74adb8f0624f26c792e72c85250f212fddca1e969423c096ea60#rd) 
 - [2022-08-16-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063922&idx=2&sn=2af2e06fe521286829f5c75b94d04574&chksm=87c45d62b0b3d4746ae10e8dddba94b9898b5908b19c4653cf8e457040fd7b9cd5c5d416786e#rd) 
 - [2022-06-05-JavaScript-事件循环：从起源到浏览器再到-Node.js](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063362&idx=2&sn=38f34da44960322965de2dba48853695&chksm=87c45b52b0b3d2444505675e8e66e685fe4d9c2360fc8f311309c01b4a0bee271dca43a33433#rd) 
 - [2022-05-22-读-koa2-源码后的一些思考与实践](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063113&idx=3&sn=303e5ad30b4cd36c160a6b6fee788d01&chksm=87c45859b0b3d14f2d0c5f285d0455e57808424acebbad4ce4878b3da585277c726bb2d0cd25#rd) 
@@ -248,6 +252,7 @@
 - [2022-01-19-成为自信的node.js开发者（一）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=3&sn=f9633a5ff2b7fcd9b436bc3b5d2ae029&chksm=87c421afb0b3a8b93f94a14ed5a3c91fdd9d9f90ce1d050b3c96e2324788b22434eea6cdedb3#rd) 
 - [2022-01-16-简析-Node.js-特点与应用场景让你更了解它](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060887&idx=3&sn=6dd52cfdc127cb03dcf630949a27658d&chksm=87c42187b0b3a89195b0d7c6f0029f5a61af3636a6a195da8edd3d0f289049809f59b065e2c5#rd) 
 - [2022-01-01-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=3&sn=3ee0c658dd84a6e481bb3cc14e502a04&chksm=87c42134b0b3a822122a78b3bb676d122c0fbcd280dc9facd0c19e7cbe4b638ab09b283c590d#rd) 
+- [2022-08-23-electron-应用开发优秀实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510321&idx=2&sn=64f90a1c91d258d04a1c45b7825849ab&chksm=f992afe0cee526f69be6bcb2b5452106fcd1e41c72faee8fe76ced4f3bb4bebe2ace9571b713#rd) 
 - [2022-08-17-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510264&idx=2&sn=23b57263c102be9f33ca97258b4eee41&chksm=f992ae29cee5273f0d03ea16a0de8a8cfb58562d78b45325b9c09b37f8ab9772f1bbd07d80f1#rd) 
 - [2022-07-31-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510056&idx=2&sn=ccbabe45b7e249d5052bf959852a65c9&chksm=f992aef9cee527efb7dfdb0ed90904c6793cc7d19045d0bcae8c2e83e0a014c68a00f5278469#rd) 
 - [2022-07-21-大前端，你说不会koa？我已经把核心思想应用到项目了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509810&idx=1&sn=003d6ecfd0dff9ed32fad1b6b8f30f42&chksm=f992a1e3cee528f5187936686faa6b6d8a0ee8121eb1805045f1d29dd6d9d7cd64aa68b34333#rd) 
@@ -280,6 +285,7 @@
 - [2022-01-16-你可能需要一个优质-前端-Node-交流群](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502647&idx=2&sn=25e2103d8df79ea4e3b982e347e1a244&chksm=f992cde6cee544f060618cf9a52e70efb8808fee6838194dcf3376e4cbac34f71ca794fa48f1#rd) 
 - [2022-01-06-Node.js-诊断指南-第一弹](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=2&sn=8b22e1d071c321a4e66c4709756a0cae&chksm=f992cc88cee5459e999c97ebd0c065545d3618a8c8d66a7fca2bc916d68d47167e81b0889803#rd) 
 - [2022-01-04-基于-Node.js-实现的跨平台-Web-抓包调试工具-Whistle-原理分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=2&sn=a76475a2ec1cdd63cf6e261c61972e02&chksm=f992ccedcee545fb914bba1bc29c1ad5a65eae3ae84efa2c8521c303b3b57c36beaca04fc185#rd) 
+- [2022-08-25-【ECMAScript-新消息速递】🎉-恭喜阿里巴巴昭朗同学负责的-proposal-array-grouping-提案代码实现成功-Landing-V8！这意味着在不久的将来，大家就能用上-`.group-`-的新语法了。](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496127&idx=1&sn=0a3f97097cf6dfa846709b445f06f2f3&chksm=ec47ba7cdb30336adb3f37a73616bcae7a41707488c23712b755fb98efc04cc216aac9f352d1#rd) 
 - [2022-03-25-Node.js-Web-框架再进化---面向前端与未来标准](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495520&idx=1&sn=b9041886373d4abbf9887126f27188f8&chksm=ec47a4a3db302db538f25fa88f87cb5f053aa5712072b902da53512bc1bd84c5ec885cdc2f75#rd) 
 - [2022-01-12-Node.js-2021年开发者报告解读：健康稳步的发展中](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495139&idx=1&sn=ac3cd2becc106cf38091778403f2c598&chksm=ec47a620db302f368ecd87a64efbf2ba311efef4c57632a1dd37eb2172046c851cef9d0395d8#rd) 
 - [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-08-31 08:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -8,6 +8,8 @@
 
 
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
+- [2022-08-26-【第2713期】工程化思维：主题切换架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257588&idx=1&sn=51531c48c85480f6e1e53812e2cbb374&chksm=bd4923708a3eaa668a60ce1d24482bfffc4fa8071f46dab17d77ea43dd1d71516d8730762a61#rd) 
+- [2022-08-22-【图书】前端架构师：基础建设与架构设计思想](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257502&idx=2&sn=31aff233e6f005dc86887e90b2aa7195&chksm=bd49231a8a3eaa0c652be0d27fc15b3c88b2047ca34cbe7b0c357a33a91859162b1097b0455a#rd) 
 - [2022-08-19-【第2706期】详聊前端异常原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=1&sn=de016f7d1474321d0258af4337319528&chksm=bd4923168a3eaa00fb77f98570654ccc83eed36e57edef2fd26b294922c159cb77b6ba0a88c8#rd) 
 - [2022-08-12-【第2699期】Sunmao：一个真正可扩展的低代码-UI-框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257172&idx=1&sn=4fed9810d3d884c2ee350f356e51d42b&chksm=bd4920d08a3ea9c6a50bcda402121d421782363421a701daeaeab31c299d69d799bb296c31ae#rd) 
 - [2022-08-02-【第2689期】将微前端做到极致-无界方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256967&idx=1&sn=8c3cc87ca55d41848acf3d4124f21339&chksm=bd4921038a3ea81537cc3a12d4743b8846f10f0cb6b0344b5216e674faac6170ff1f1407ab8f#rd) 
@@ -238,6 +240,7 @@
 - [2018-10-27-微前端---将微服务理念延伸到前端开发中](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=1&sn=9961957377d10d7361e1ed7d127fa036#wechat_redirect) 
 - [2018-10-27-关于-Http-协议，你必须要知道的](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555193&idx=2&sn=c85c8267719651eee412c3a960cfee7d#wechat_redirect) 
 - [2018-10-26-WebAssembly-的未来：将逐渐解锁整个“技能树”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555178&idx=1&sn=50cbae0d391e26411715e0d6fd1f965f#wechat_redirect) 
+- [2022-08-26-工业软件云化突围战，Webassembly如何成为重要一环？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517299&idx=1&sn=3fe4fdd0b3f141c5c8913d95d265478b&chksm=f9523130ce25b826505b276a4563a663a882fea40f8c28f00207f8f2160bc78d587b6902d52a#rd) 
 - [2022-08-03-爱奇艺海外版HTTPS效率是如何提升的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516692&idx=1&sn=dcbdee01f1ca61e300ef702c82be1295&chksm=f9523757ce25be41d6e5c671d52f9e06479dffda046660019d7e3c5a957fb4054c7815c83da3#rd) 
 - [2022-07-25-为什么我不是Vim的狂热粉丝？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516515&idx=1&sn=6be08dc91f0f10e5feca0ef42186dd8c&chksm=f9523420ce25bd369a110af9c6a883950c5c7a03ed94f5a361baf9615026bc9a235f35ccf1eb#rd) 
 - [2022-07-12-多领域试水，WebAssembly-距离大规模应用还有多远？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516165&idx=1&sn=b2868bcbc403262756459a4b8bb805dd&chksm=f9523546ce25bc506a066c0032aa40b18732996c788986133b3f50a97191dfb9804a88e7a5a0#rd) 
@@ -348,11 +351,14 @@
 - [2019-01-08-携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect) 
 - [2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
 - [2018-12-18-Netflix：我们为什么要将GraphQL引入前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490124&idx=1&sn=c00ac4b281b3343221f57fcba6bd4d74#wechat_redirect) 
+- [2022-08-20-别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486883&idx=1&sn=f38fe3d5983633f56fb82d345fad4661&chksm=ce461832f93191244ec02f8d5ac6bc5a08dd1f0eb4c23ac73a69df024f3e7eab77bdcf03cee6#rd) 
 - [2022-08-06-程序员是坚守阵地？还是追求全栈？三个思考维度解决犹豫不决](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486635&idx=1&sn=19108eef8a0421e58a97da7a0e391587&chksm=ce46193af931902cbcc056b7edf1e1bb47e9a24d252cbdeeba136bba68161a7eed74afb481c1#rd) 
 - [2022-06-29-停止空谈低代码，聊点技术实践的干货！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486437&idx=1&sn=adbdcdeaa75964b6f5e9631bf14379f5&chksm=ce461e74f9319762b5d92c92a466498bc1ff2ee281236ceab920d0f8e7b64892e72965bfd790#rd) 
 - [2022-03-31-axios源码中的10多个工具函数，值得一学~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486042&idx=1&sn=4061f722a5ba1ffc313a70f0d277601c&chksm=ce461fcbf93196dd4d788331a55d2ef7bb1121c39a73a4d41342054207ac4ba4f64afbfb5218#rd) 
 - [2022-03-09-给3月要跳槽的前端提个醒！不了解微前端就别去面试了……](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485829&idx=1&sn=b094cd010d886a667fd07c4e0bf725b5&chksm=ce461c14f9319502f9f47d7c8a883a02ceb404a76d3d43d51f0522fcfe4da343391ceb0451e2#rd) 
 - [2022-02-06-2年经验前端面试网易灵犀！太注重工程化了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485411&idx=1&sn=c0b0007921e1278d3f7b88bb5851274a&chksm=ce461272f9319b644bc81d5fcb8774fa38db5011ef98eb06290fbd028151ba86ea057be7e31f#rd) 
+- [2022-08-24-写给前端的算法进阶指南，我是如何两个月零基础刷200题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063952&idx=2&sn=92823b7b1e3c035df8e256a058b5479c&chksm=87c45d80b0b3d496e368511261d80fbbc8455d6f96d1b4aa13c366d30616d6b591ddd07a1469#rd) 
+- [2022-08-23-如何设计实现微前端框架-qiankun](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063950&idx=3&sn=32a9aed605b56e1697808352e40598fa&chksm=87c45d9eb0b3d4887d74a8e77724430f831ffb84663c88bd0bddce7100dd7e5792774e46824f#rd) 
 - [2022-08-14-深入了解前端监控原理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063918&idx=2&sn=35e8b12954187bf85feda0fd3b274497&chksm=87c45d7eb0b3d46815bf38e4c1a1f7539d239b565b0366ae05ffb35db9a50976695f6879caf9#rd) 
 - [2022-08-14-一文深入了解-Hybrid-的实现原理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063918&idx=4&sn=f6326d7dd747ac3a36f43e92f7fa1c5c&chksm=87c45d7eb0b3d4688a44e1a5ce84ad224f57f7d3f87679b25c42956b11ba1278ec53a8f79967#rd) 
 - [2022-08-11-Github-趋势榜:-不可错过的最热门的-10-大前端项目](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063916&idx=1&sn=716166ec1b6fa8699480bafc6028b464&chksm=87c45d7cb0b3d46a0d4c249cd8ca40b21e3e35eb513a14be503425b02efe699a49c338b3a4b2#rd) 
@@ -372,6 +378,8 @@
 - [2022-01-08-Github-趋势榜:-不可错过的最热门的-10-大前端项目](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=1&sn=99b5fef5201e19a05db00e519d9e10d7&chksm=87c42154b0b3a8426531c84cea2e49b788dd2fab72ad944b0badde408abdee4ccbf680c5c398#rd) 
 - [2022-01-07-从Git设计原理到业务系统设计与开发](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=2&sn=e74b7a405ec0a50346b2be9f9fdb8908&chksm=87c42153b0b3a8454a0f929b902eb4deb209df683483418d0c7744e19bd0bf342afd9376fbc2#rd) 
 - [2022-01-02-半小时搞懂-HTTP、HTTPS和HTTP2](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=2&sn=0a196abcd9d5b9673603cd68e5514ad0&chksm=87c42135b0b3a82393e7be25147f07ab858c3e397a42dbe7f2c30e4d4fcb6d115f0089e58b21#rd) 
+- [2022-08-27-前端工程化思维：主题切换架构实现（文末赠书第19期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=1&sn=e8ab5ad12a21c03155895f2f771aadf2&chksm=f992af49cee5265f69ad9eb3e92e2cd60fd88eb49a1aeb85abc25347a993ec5d372facb5db94#rd) 
+- [2022-08-25-将微前端做到极致-无界方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510341&idx=1&sn=9d47341e6423ce8ee69dac69819ee7bf&chksm=f992af94cee526823b6fa12928763cb088ed08d8ef4721ed2494f287afed5b28a316c97e43f0#rd) 
 - [2022-08-10-超大体量项目，微前端落地方案，看完后悔来找我](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510215&idx=2&sn=cc91b93e3f689c96fbfb102b26ff6996&chksm=f992ae16cee527005ab8092841902cc8fd646c4aee7c1f30614914f72d5c0c2e215c05d081d2#rd) 
 - [2022-08-08-大前端技术的边界在哪里？｜GMTC](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510200&idx=1&sn=7b7790089c4fa1cd0990c39c75e73d9c&chksm=f992ae69cee5277f0f2e2bf8df9b4a9eb7fcbdf88074ca03be3fbf3bd9dec6db7986d82ae4f1#rd) 
 - [2022-07-25-干货-|-携程活动搭建低代码平台的前端“开放性”建设探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509982&idx=1&sn=47e4f0c3a76d4848bd32b45fea31a331&chksm=f992a10fcee5281999b2e1f2025003b4145e3f1a2d87e364a02d21ad8fd2fcd77f3ae639c5a1#rd) 
