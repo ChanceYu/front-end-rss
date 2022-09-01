@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 22:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-02 06:02:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -343,6 +343,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2022-08-31-前端offer收割机](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486924&idx=1&sn=3043ced6a2aef69b49dc83b5a7d6cd23&chksm=ce46185df931914b48c77f1c6f423e7c2b3780132b8c515bb4c9c1911dc934027b6210d38728#rd) 
 - [2022-08-12-我捡到宝了！2022版前端面试上岸手册，最新最细致！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486652&idx=1&sn=b50e2291ab121de7c853d0f6ba938fcf&chksm=ce46192df931903b58dcbe5e49bb382a3f9ec4b9ef1f1d6bd71135aee0a4616b27f6c12499f4#rd) 
 - [2022-08-05-模拟面试，我问的五年前端的面试题，大佬们看一看~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486633&idx=1&sn=1f7bc4d687e0bd6a268e0792bc8a3c9f&chksm=ce461938f931902eeeef8052c00391a5acbd9d7cda3d9e737f3ebc715c034f122c7a605be061#rd) 
 - [2022-07-26-一道面试题牵出12个前端硬核知识点，你知道几个？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486593&idx=1&sn=105c5683eb0e7d728227f575083bc5f6&chksm=ce461910f93190061e48104bec569151788d4b05e780abccbea05777540bfb724e15883861a9#rd) 
