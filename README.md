@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-01 18:02:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-01 22:02:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452) ![](/assets/new.png)  
 - [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451)  
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)  
 - [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)  
@@ -55,7 +56,6 @@
 - [2022-04-28-Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435)  
 - [2022-04-21-Node.js-18-released](https://nodeweekly.com/issues/434)  
 - [2022-04-14-Wild-wild-property-access](https://nodeweekly.com/issues/433)  
-- [2022-04-07-The-one-with-the-epic-code-and-tools-section](https://nodeweekly.com/issues/432)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2022-09-01-我们常听到的-Web-3.0，究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=1&sn=e97899e1c5df3c60a0f254c0e6e8c420&chksm=f992af1ccee5260a2b27d543049c89c11cdfa6d93df4eb7802fb88d0dbaec74f043feded1ca8#rd) ![](/assets/new.png)  
-- [2022-09-01-对前端架构的理解---分层与抽象](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=2&sn=943632e83ed48889fdaa2e793b47bbae&chksm=f992af1ccee5260a30a11725710cd865e02a02d04a3da013de39940717576ec7591c375b184e#rd) ![](/assets/new.png)  
+- [2022-09-01-我们常听到的-Web-3.0，究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=1&sn=e97899e1c5df3c60a0f254c0e6e8c420&chksm=f992af1ccee5260a2b27d543049c89c11cdfa6d93df4eb7802fb88d0dbaec74f043feded1ca8#rd)  
+- [2022-09-01-对前端架构的理解---分层与抽象](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=2&sn=943632e83ed48889fdaa2e793b47bbae&chksm=f992af1ccee5260a30a11725710cd865e02a02d04a3da013de39940717576ec7591c375b184e#rd)  
 - [2022-08-27-中高级前端工程师都需要熟悉的技能--前端缓存](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=2&sn=8e033870659e706661ec4318bc918324&chksm=f992af49cee5265f418672c92ba533ec236542289a602012a26246db3f25b609a009c4cd16f7#rd)  
 - [2022-08-27-前端工程化思维：主题切换架构实现（文末赠书第19期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=1&sn=e8ab5ad12a21c03155895f2f771aadf2&chksm=f992af49cee5265f69ad9eb3e92e2cd60fd88eb49a1aeb85abc25347a993ec5d372facb5db94#rd)  
 - [2022-08-26-最新前端面试上岸手册！该提升下逼格了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=1&sn=1d270e7d35c2dce0eda03d605fd8b9e0&chksm=f992af80cee52696f9845c2b0055444fe2abeb29fe7c1d9f0f0cb033caf5ed4a489b62b9b283#rd)  

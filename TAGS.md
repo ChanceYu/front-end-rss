@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-01 18:02:30。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-09-01 22:02:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -757,6 +757,7 @@
 
 
 
+- [【Node-Weekly】The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)
 - [【Node-Weekly】All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)
 - [【Node-Weekly】Wild-wild-property-access](https://nodeweekly.com/issues/433)
 - [【Node-Weekly】The-one-with-the-epic-code-and-tools-section](https://nodeweekly.com/issues/432)
@@ -776,7 +777,6 @@
 - [【前端早读课】【图书】软技能：代码之外的生存指南-第2版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=2&sn=5ff513388b20fc7b7c190f61cf7858fa&chksm=bd4923168a3eaa00d46b65071f022a0bca3cbd1ca6b9b07e73ac2e9b402882fbbdc5599036ef#rd)
 - [【前端早读课】【第2703期】软件架构手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257294&idx=1&sn=97ecd62d516bbc6fce722caf685b74f0&chksm=bd49204a8a3ea95cd9c4dea553ca86cb37c0458e03c8cfe8621dcf2bf9f05ef688d0fdc3410d#rd)
 - [【前端早读课】【第2701期】技术Leader如何创造业务价值？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257286&idx=1&sn=8515c5e66b40d78dac3be5d1736058f3&chksm=bd4920428a3ea954dd9680750cbffabe1e0d09dba45105b59fabcacace6f42267a5bd2e6fa54#rd)
-- [【前端早读课】【第2694期】在复杂应用中设计空状态：3条准则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257112&idx=1&sn=6d4bec1fc52d46c68d6d471b7a744474&chksm=bd49209c8a3ea98ad9e143379188571b8a83af5e302d7166c6ef115e91b787355c56cadb8a1e#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

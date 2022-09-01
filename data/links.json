@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "The ins and outs of 'bin' scripts",
+        "link": "https://nodeweekly.com/issues/452",
+        "date": "2022-09-01"
+      },
+      {
         "title": "Popular Node.js practices to reconsider",
         "link": "https://nodeweekly.com/issues/451",
         "date": "2022-08-25"
