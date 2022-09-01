@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 08:02:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-01 18:02:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -379,6 +379,7 @@
 - [2022-01-08-Github-趋势榜:-不可错过的最热门的-10-大前端项目](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=1&sn=99b5fef5201e19a05db00e519d9e10d7&chksm=87c42154b0b3a8426531c84cea2e49b788dd2fab72ad944b0badde408abdee4ccbf680c5c398#rd) 
 - [2022-01-07-从Git设计原理到业务系统设计与开发](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=2&sn=e74b7a405ec0a50346b2be9f9fdb8908&chksm=87c42153b0b3a8454a0f929b902eb4deb209df683483418d0c7744e19bd0bf342afd9376fbc2#rd) 
 - [2022-01-02-半小时搞懂-HTTP、HTTPS和HTTP2](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=2&sn=0a196abcd9d5b9673603cd68e5514ad0&chksm=87c42135b0b3a82393e7be25147f07ab858c3e397a42dbe7f2c30e4d4fcb6d115f0089e58b21#rd) 
+- [2022-09-01-对前端架构的理解---分层与抽象](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=2&sn=943632e83ed48889fdaa2e793b47bbae&chksm=f992af1ccee5260a30a11725710cd865e02a02d04a3da013de39940717576ec7591c375b184e#rd) 
 - [2022-08-27-前端工程化思维：主题切换架构实现（文末赠书第19期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=1&sn=e8ab5ad12a21c03155895f2f771aadf2&chksm=f992af49cee5265f69ad9eb3e92e2cd60fd88eb49a1aeb85abc25347a993ec5d372facb5db94#rd) 
 - [2022-08-25-将微前端做到极致-无界方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510341&idx=1&sn=9d47341e6423ce8ee69dac69819ee7bf&chksm=f992af94cee526823b6fa12928763cb088ed08d8ef4721ed2494f287afed5b28a316c97e43f0#rd) 
 - [2022-08-10-超大体量项目，微前端落地方案，看完后悔来找我](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510215&idx=2&sn=cc91b93e3f689c96fbfb102b26ff6996&chksm=f992ae16cee527005ab8092841902cc8fd646c4aee7c1f30614914f72d5c0c2e215c05d081d2#rd) 
