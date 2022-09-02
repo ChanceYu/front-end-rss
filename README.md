@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 08:02:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-02 12:11:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-09-02-【第2720期】高级异步模式---Promise-单例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257709&idx=1&sn=dc3249e33bb5c421884ec9b42fa345d7&chksm=bd4922e98a3eabff23510fe6a72cfbd91a046c81832f067c663b3167ecd8a74a259de286200c#rd) ![](/assets/new.png)  
+- [2022-09-02-【第2720期】高级异步模式---Promise-单例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257709&idx=1&sn=dc3249e33bb5c421884ec9b42fa345d7&chksm=bd4922e98a3eabff23510fe6a72cfbd91a046c81832f067c663b3167ecd8a74a259de286200c#rd)  
 - [2022-09-01-【第2719期】如何使用-HTTPS-进行本地开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257705&idx=1&sn=142c0cbcc75e43cdb9a218d8cd883d38&chksm=bd4922ed8a3eabfb317a18e71be17e85360ad9a1fe337667cc6f9bc634213955a384ba0a733a#rd)  
 - [2022-08-31-《快手增长团队的前端工程化思考》PPT、视频回放已准备好，来看！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=1&sn=0d65bd2522507ee6f1a54ae0f5917201&chksm=bd4922db8a3eabcd32561794e0b4b7ab3c85fe7d533aac28b07358612c4ad9702565569257d2#rd)  
 - [2022-08-31-【第2718期】React-Query-的数据转换](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=2&sn=30436342ff2e94e279d017e3aa1bc95e&chksm=bd4922db8a3eabcd31c9e93c18bfaea9c6445770ede20aa72cd52b8816872ff7c8587ede3d3d#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-09-02-科技爱好者周刊（第-221-期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html) ![](/assets/new.png)  
 - [2022-08-26-科技爱好者周刊（第-220-期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)  
 - [2022-08-19-科技爱好者周刊（第-219-期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)  
 - [2022-08-12-科技爱好者周刊（第-218-期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)  
@@ -365,7 +366,6 @@
 - [2022-05-27-科技爱好者周刊（第-208-期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)  
 - [2022-05-20-科技爱好者周刊（第-207-期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)  
 - [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)  
-- [2022-05-06-科技爱好者周刊（第-205-期）：互联网风口过去了吗？](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-205.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
