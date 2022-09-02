@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 18:01:44，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-03 06:01:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604) ![](/assets/new.png)  
 - [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)  
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)  
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601)  
@@ -86,7 +87,6 @@
 - [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)  
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)  
 - [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)  
-- [2022-04-08-Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2022-09-02-完成第一个-Vue3.2-项目后，这是我的技术总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608483&idx=1&sn=303780c3574a769c1f9f5de2acb714dd&chksm=80228262b7550b7488f4771336d748dc6ec61b81cc063f3b2ddc3787bb5922d464f1fc707729#rd) ![](/assets/new.png)  
+- [2022-09-02-完成第一个-Vue3.2-项目后，这是我的技术总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608483&idx=1&sn=303780c3574a769c1f9f5de2acb714dd&chksm=80228262b7550b7488f4771336d748dc6ec61b81cc063f3b2ddc3787bb5922d464f1fc707729#rd)  
 - [2022-08-29-CSS-一步一步实现烟花动画](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608471&idx=2&sn=a2eaee155d6f3fffbdf77b13d77fb874&chksm=80228256b7550b4034dc44170db93bb4cbfdb2e732ad76b74957651621d96d65597ee9630cc7#rd)  
 - [2022-08-29-一文解析-Pinia-和-Vuex-，带你全面理解这两个-Vue-状态管理模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608471&idx=1&sn=37512a1bb198f67a7c36cdeddeca9313&chksm=80228256b7550b40917a07ccff8aecddf8a136462d5a83609745e4875e0de23093838aedb9a4#rd)  
 - [2022-08-28-编译-ts-代码用-tsc-还是-babel？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608468&idx=2&sn=7414322b0400af125f491d4724b0010d&chksm=80228255b7550b43d1490a45a214b71a59b2d32259a431ba6b7f539f599d778f159caf4e0c38#rd)  
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2022-09-02-JavaScript-代码优化之道](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510487&idx=1&sn=2d10b1e32316035b1b5aad6976d804f4&chksm=f992af06cee52610a0fcf10300d4b487b2dd80728421f8eac48e4dcc1672c0173da214d05b79#rd) ![](/assets/new.png)  
-- [2022-09-02-一文解析-Pinia-和-Vuex，带你全面理解这两个-Vue-状态管理模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510487&idx=2&sn=595cff663d0422811e4d12fc7a6c8d2b&chksm=f992af06cee52610f0ada7470777ecb1d9d1a9fda3382bf72ce5f3f9d706fd540cf9f1810938#rd) ![](/assets/new.png)  
+- [2022-09-02-JavaScript-代码优化之道](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510487&idx=1&sn=2d10b1e32316035b1b5aad6976d804f4&chksm=f992af06cee52610a0fcf10300d4b487b2dd80728421f8eac48e4dcc1672c0173da214d05b79#rd)  
+- [2022-09-02-一文解析-Pinia-和-Vuex，带你全面理解这两个-Vue-状态管理模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510487&idx=2&sn=595cff663d0422811e4d12fc7a6c8d2b&chksm=f992af06cee52610f0ada7470777ecb1d9d1a9fda3382bf72ce5f3f9d706fd540cf9f1810938#rd)  
 - [2022-09-01-对前端架构的理解---分层与抽象](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=2&sn=943632e83ed48889fdaa2e793b47bbae&chksm=f992af1ccee5260a30a11725710cd865e02a02d04a3da013de39940717576ec7591c375b184e#rd)  
 - [2022-09-01-我们常听到的-Web-3.0，究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=1&sn=e97899e1c5df3c60a0f254c0e6e8c420&chksm=f992af1ccee5260a2b27d543049c89c11cdfa6d93df4eb7802fb88d0dbaec74f043feded1ca8#rd)  
 - [2022-08-27-前端工程化思维：主题切换架构实现（文末赠书第19期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=1&sn=e8ab5ad12a21c03155895f2f771aadf2&chksm=f992af49cee5265f69ad9eb3e92e2cd60fd88eb49a1aeb85abc25347a993ec5d372facb5db94#rd)  

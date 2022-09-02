@@ -193,6 +193,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "David's handy JS debugging tip",
+        "link": "https://javascriptweekly.com/issues/604",
+        "date": "2022-09-02"
+      },
+      {
         "title": "The future JavaScript features at TC39",
         "link": "https://javascriptweekly.com/issues/603",
         "date": "2022-08-26"
