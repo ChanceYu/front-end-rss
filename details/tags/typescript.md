@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 18:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-04 22:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -34,6 +34,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2022-09-04-一看就会的-TypeScript-小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608631&idx=2&sn=8e61d2bb4f0f9ce2edd12f6623557bfb&chksm=802281f6b75508e09fcb6748e1b5c4f3f77ef06b73b8d8a02c348c5e77f6b6fcf5ac7ca16e9e#rd) 
 - [2022-07-27-2022-年，Babel-vs-TypeScript，谁更适合代码编译](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607771&idx=2&sn=56969ce59ee9a45909f9e9ab9562cac5&chksm=8022851ab7550c0c1c327752d991a6676e1ffead74e7419de76cac0b1146533fbe95a2c7bef1#rd) 
 - [2022-07-22-TypeScript-终极初学者指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607689&idx=2&sn=52049adcc45d9e3e1d8fd466b4aa6912&chksm=80228548b7550c5e1fb2ee0fc9a10ccb2e6f4e74b639da68555d8483813146fade27dab4ff60#rd) 
 - [2022-05-30-如何进阶-TypeScript-功底？一文带你理解-TS-中各种高级语法](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603763&idx=2&sn=2512fbeef734184be187ef51c4e49d22&chksm=802294f2b7551de405a2c226603f53c117b67126060cd91ea828ca7e32793356c5633bf59b2b#rd) 
