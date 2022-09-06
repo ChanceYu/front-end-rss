@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 08:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-06 12:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -268,6 +268,7 @@
 - [2022-02-23-CSS最全的新特性介绍，文末免费送书](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061306&idx=1&sn=60fb8ef11f30fa2b6a8c3783a34fe408&chksm=87c4232ab0b3aa3c907b89048266e47dc8a027e078b136b56247e863d732932a9fa6fc653fe0#rd) 
 - [2022-02-16-改善-CSS-的-10-个最佳实践](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061208&idx=2&sn=a29b6914bab012ebbccee92aa3a778ff&chksm=87c420c8b0b3a9de2ee8edff29b4cdcb4482e0f94b9b97b99e3244fa7e73a9cbc3f02796ac64#rd) 
 - [2022-01-15-挑战一轮大厂后的面试总结---css-篇](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060811&idx=2&sn=df0ba4f4631676733846a96b32e09122&chksm=87c4215bb0b3a84d33918c46246d6d287e85baa958b8e53245eae98faa184442c68b3a5b2f83#rd) 
+- [2022-09-06-网页动画的十二原则](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510540&idx=1&sn=98c096258932f92f105786e2017b904a&chksm=f992acddcee525cbc675198adb37c6f627f845ef45b07203e4d96172e8124ae8a8172a67572f#rd) 
 - [2022-07-15-如何用一行-CSS-实现-10-种现代布局](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509745&idx=1&sn=e1752dbbc80d802a8b7e89f6067b40fb&chksm=f992a020cee529366e7f03711c205d237e2145acc08e286ecbeb12c330277ce63cfab416f958#rd) 
 - [2022-07-13-使用CSS自定义属性实现骨架屏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509719&idx=2&sn=d4f3d0e6fb49e490987e0f8ff2bd8dde&chksm=f992a006cee5291042765156babaca1ffe88a56422e3a2ae5d4138b631f4a17e57fdc181c133#rd) 
 - [2022-07-04-CSS-垂直居中的正确打开方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509500&idx=2&sn=cf4d132c0b6b79e92d5c8e124017e939&chksm=f992a32dcee52a3b6a5af4d1e3b6ef146a970bab41d15abe32a680af50a260a9525b39576354#rd) 
