@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-06 18:00:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-09-07 06:00:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -235,8 +235,8 @@
 - [【前端早读课】别再纠结前端了，小程序开发这么做](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236713&idx=1&sn=75785ffd0cb200a05361c0a65d5b21a4&chksm=bd4970ed8a3ef9fb941120b0009949bb993aaa9cb3742ba472ef879e7d5b451db13fde180f4a&scene=27#wechat_redirect)
 - [【前端早读课】【kbone-ui】打通-H5/微信小程序，多端UI库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235766&idx=2&sn=2c7cf3b478196a2cf3af438f83f146e6&chksm=bd497c328a3ef524baa9a814ff8367449206839abc62aad183cd005cae27ee2439455815bbf3&scene=27#wechat_redirect)
 - [【前端早读课】【第1839期】微保大型小程序的工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect)
-- [【前端早读课】Taro-2.0：拥抱社区，拥抱变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=2&sn=072fd65d3b2c68d7f1726fae004afbe1&chksm=bd497d018a3ef417684044c69a17d88fc106ba6112fda36de774f7f1b27266882b0998913567&scene=27#wechat_redirect)
 - [【前端早读课】【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect)
+- [【前端早读课】Taro-2.0：拥抱社区，拥抱变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=2&sn=072fd65d3b2c68d7f1726fae004afbe1&chksm=bd497d018a3ef417684044c69a17d88fc106ba6112fda36de774f7f1b27266882b0998913567&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】百度智能小程序大前端部门招聘大量Web前端工程师，社招岗位及实习岗位均开放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=2&sn=14a8d454069f0a3dcfd0046f0f74eb9a&chksm=bd497df38a3ef4e5ec09f87bd28bde737f636490ff4649b85677fb759f006a576e0f083af34a&scene=27#wechat_redirect)
 - [【前端早读课】【第1827期】小程序跨框架开发的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235399&idx=1&sn=6f5bd648ae382994102aae7d1fa965c0&chksm=bd497dc38a3ef4d5e5db335955cd8108da4ec1f176e364666f771e097c8ab8051937f6be202a&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/miniprogram.md)
@@ -261,8 +261,8 @@
 - [【前端早读课】【图书】PWA入门与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236564&idx=2&sn=2ab8b984f59e66be74e39d605c8b179b&chksm=bd4971508a3ef846ca847ff5ba5e4d82c7d310456e23aa12c7c7f2fbd04d58e54770a8197073&scene=27#wechat_redirect)
 - [【前端早读课】一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd)
 - [【前端早读课】【第1557期】带你走进PWA在业务中的实践方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=1&sn=e55c2f9905606a4930e4961ec4917f44#rd)
-- [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 - [【前端早读课】【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)
+- [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】Flutter-开发资源大全来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607689&idx=1&sn=d63c0c9b85b181801c385494ae881bb9&chksm=80228548b7550c5e270985590042f72f7f459fdb4e5a5336fc6e339cf14f02ce3eade971f9af#rd)
@@ -580,6 +580,7 @@
 
 
 - [【Node-Weekly】A-big-week-for-Fastify](https://nodeweekly.com/issues/441)
+- [【前端早读课】【第2725期】伊斯坦布尔测试覆盖率的实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257851&idx=1&sn=f623b800f2eb783d8b93298bc60b5848&chksm=bd49227f8a3eab69b7ced8648ead1dd15031657653145e6a52729832fcc97e431c9842d1b5da#rd)
 - [【前端早读课】【活动】美团在跨端和低代码方向的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=2&sn=d8b15f4bde244300ca4f90ccd809fb0c&chksm=bd4922758a3eab638291aea917c359fd9116f1eef9065e7f0083a211e19d306290a1203d2497#rd)
 - [【前端早读课】【第2719期】如何使用-HTTPS-进行本地开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257705&idx=1&sn=142c0cbcc75e43cdb9a218d8cd883d38&chksm=bd4922ed8a3eabfb317a18e71be17e85360ad9a1fe337667cc6f9bc634213955a384ba0a733a#rd)
 - [【前端早读课】【第2713期】工程化思维：主题切换架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257588&idx=1&sn=51531c48c85480f6e1e53812e2cbb374&chksm=bd4923708a3eaa668a60ce1d24482bfffc4fa8071f46dab17d77ea43dd1d71516d8730762a61#rd)
@@ -598,7 +599,6 @@
 - [【前端早读课】【第2636期】从"微前端"到“微模块”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254740&idx=1&sn=4efb1f6a22fbef075cdc1cfb03e2f27d&chksm=bd4936508a3ebf46ac8158da4119e2acf113645981329c156922860a24bb8781cedffbb54b31#rd)
 - [【前端早读课】【第2628期】基于设计稿识别的可视化低代码系统实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254609&idx=1&sn=0167196620b61d8fcfa406688a57c80f&chksm=bd4936d58a3ebfc31b3ea41ac52ba40d3fbf4d09549b392aac5d6f081d93c73ca90523b7de59#rd)
 - [【前端早读课】【第2618期】手把手教你定制一套适合团队的微前端体系](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254336&idx=1&sn=20bac990754e7ef0f793c5f8131d8a5b&chksm=bd4937c48a3ebed2a8cc98c3472e61ce115ad5bc9fc06924f10b06f89f4dee2b26e3212c9af0#rd)
-- [【前端早读课】【第2601期】vivo-商品中台的可视化微前端实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254060&idx=1&sn=138e7f681068b3ac59fe75c92cb408ed&chksm=bd4934a88a3ebdbe7abbaa71b73ed683f054d8bb1837f3ba064e88b7f3148f22f66960680971#rd)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -773,8 +773,8 @@
 - [【前端早读课】【第2724期】前后端数据接口协作提效实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=1&sn=39c900e60f5441c7328355878b273636&chksm=bd4922758a3eab637f6cc0d4e9e7e3123e800b00620e846a036d7fe048a0e00d16fe507183da#rd)
 - [【前端早读课】【第2717期】如何冲破设计系统的界限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257680&idx=1&sn=47537ce43d8475b9e25520c6a23ef6b7&chksm=bd4922d48a3eabc230b388ee4bc44f117d6167d8d70cbe21a7aa330b95a1d38a2b7e1e039eb7#rd)
 - [【前端早读课】【第2715期】精读《设计完美的日期选择器》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257641&idx=1&sn=9db6b4eafb72b229dbafe25e9d51b09f&chksm=bd4922ad8a3eabbb9bf52a0dfcbbf0c91d361d691d95043d3552a83d862d30760dd36650373a#rd)
-- [【前端早读课】【第2712期】日期选择器设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=2&sn=c7772cd7a7c2ccf28f422d63fbdcaa15&chksm=bd49236d8a3eaa7bde762f55753ca169b8f5bf1a0ae9a1f3aa626945c873e424913861f611c3#rd)
 - [【前端早读课】稀土开发者大会讲师-PPT精华送上，通关全靠你自己了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=1&sn=db529334697cf171498f250893dfd7d4&chksm=bd49236d8a3eaa7bfb73758ab07ce2f9dfbf08730748b3866c8f9704e6290ba18f1cd9275373#rd)
+- [【前端早读课】【第2712期】日期选择器设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=2&sn=c7772cd7a7c2ccf28f422d63fbdcaa15&chksm=bd49236d8a3eaa7bde762f55753ca169b8f5bf1a0ae9a1f3aa626945c873e424913861f611c3#rd)
 - [【前端早读课】【图书】软技能：代码之外的生存指南-第2版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257490&idx=2&sn=5ff513388b20fc7b7c190f61cf7858fa&chksm=bd4923168a3eaa00d46b65071f022a0bca3cbd1ca6b9b07e73ac2e9b402882fbbdc5599036ef#rd)
 - [【前端早读课】【第2703期】软件架构手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257294&idx=1&sn=97ecd62d516bbc6fce722caf685b74f0&chksm=bd49204a8a3ea95cd9c4dea553ca86cb37c0458e03c8cfe8621dcf2bf9f05ef688d0fdc3410d#rd)
 - [......【查看更多】......](/details/tags/other.md)
