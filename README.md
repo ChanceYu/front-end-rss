@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-08 22:00:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-09 06:00:38，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-09-08-Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453) ![](/assets/new.png)  
 - [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)  
 - [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451)  
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)  
@@ -55,7 +56,6 @@
 - [2022-05-05-Node's-new-CLI-test-runner](https://nodeweekly.com/issues/436)  
 - [2022-04-28-Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435)  
 - [2022-04-21-Node.js-18-released](https://nodeweekly.com/issues/434)  
-- [2022-04-14-Wild-wild-property-access](https://nodeweekly.com/issues/433)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,25 +98,25 @@
 </summary>
 
 
+- [2022-09-09-【第2727期】基于-iframe-的微前端框架-——-擎天](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257881&idx=1&sn=0087e67468cc1f9f9cdf865f9a02fe95&chksm=bd49259d8a3eac8bbf8c53dadb674705b59f6dd965d71dbfa509fc223d312d6ac8ddce56b527#rd) ![](/assets/new.png)  
 - [2022-09-08-【第2726期】开发模式-"Development-Mode"-是如何工作的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257857&idx=1&sn=6a72ce43ea240cbfe476479dcd4924e9&chksm=bd4925858a3eac93b179d289d49ac789356984d44fe2b23d0ae02f2dd0bfa52c4947a40a554b#rd)  
 - [2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257851&idx=1&sn=f623b800f2eb783d8b93298bc60b5848&chksm=bd49227f8a3eab69b7ced8648ead1dd15031657653145e6a52729832fcc97e431c9842d1b5da#rd)  
-- [2022-09-06-【第2724期】前后端数据接口协作提效实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=1&sn=39c900e60f5441c7328355878b273636&chksm=bd4922758a3eab637f6cc0d4e9e7e3123e800b00620e846a036d7fe048a0e00d16fe507183da#rd)  
 - [2022-09-06-【活动】美团在跨端和低代码方向的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=2&sn=d8b15f4bde244300ca4f90ccd809fb0c&chksm=bd4922758a3eab638291aea917c359fd9116f1eef9065e7f0083a211e19d306290a1203d2497#rd)  
+- [2022-09-06-【第2724期】前后端数据接口协作提效实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=1&sn=39c900e60f5441c7328355878b273636&chksm=bd4922758a3eab637f6cc0d4e9e7e3123e800b00620e846a036d7fe048a0e00d16fe507183da#rd)  
 - [2022-09-05-【第2723期】高级-Promise-模式：Promise缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257804&idx=1&sn=68724760b8b4c60a575f6db711bd0f4c&chksm=bd4922488a3eab5e3dda84964431225a5ba64785f0bb97ef865137a3dd5c8dbcc9fd39ded872#rd)  
 - [2022-09-04-【第2722期】腾讯医药微信小程序性能优化：从0.9秒到0.5秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257800&idx=1&sn=557cd44a960a9ed3fd2ad852190f376a&chksm=bd49224c8a3eab5a18f19a8959a5b737a1035354180ff3d34336b00dd34105cd5d9470db42d0#rd)  
 - [2022-09-03-【第2721期】React-Query的优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257796&idx=1&sn=aa320a242cb842a53a41cfa42cc097b6&chksm=bd4922408a3eab562f47cc12213e49cb3bb6891b8d5760e8a27bcd3f2798ff86f6086d166def#rd)  
 - [2022-09-02-【第2720期】高级异步模式---Promise-单例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257709&idx=1&sn=dc3249e33bb5c421884ec9b42fa345d7&chksm=bd4922e98a3eabff23510fe6a72cfbd91a046c81832f067c663b3167ecd8a74a259de286200c#rd)  
 - [2022-09-01-【第2719期】如何使用-HTTPS-进行本地开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257705&idx=1&sn=142c0cbcc75e43cdb9a218d8cd883d38&chksm=bd4922ed8a3eabfb317a18e71be17e85360ad9a1fe337667cc6f9bc634213955a384ba0a733a#rd)  
-- [2022-08-31-《快手增长团队的前端工程化思考》PPT、视频回放已准备好，来看！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=1&sn=0d65bd2522507ee6f1a54ae0f5917201&chksm=bd4922db8a3eabcd32561794e0b4b7ab3c85fe7d533aac28b07358612c4ad9702565569257d2#rd)  
 - [2022-08-31-【第2718期】React-Query-的数据转换](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=2&sn=30436342ff2e94e279d017e3aa1bc95e&chksm=bd4922db8a3eabcd31c9e93c18bfaea9c6445770ede20aa72cd52b8816872ff7c8587ede3d3d#rd)  
+- [2022-08-31-《快手增长团队的前端工程化思考》PPT、视频回放已准备好，来看！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=1&sn=0d65bd2522507ee6f1a54ae0f5917201&chksm=bd4922db8a3eabcd32561794e0b4b7ab3c85fe7d533aac28b07358612c4ad9702565569257d2#rd)  
 - [2022-08-30-【第2717期】如何冲破设计系统的界限](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257680&idx=1&sn=47537ce43d8475b9e25520c6a23ef6b7&chksm=bd4922d48a3eabc230b388ee4bc44f117d6167d8d70cbe21a7aa330b95a1d38a2b7e1e039eb7#rd)  
 - [2022-08-29-【第2716期】雪球正文页排版演进及体验优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257645&idx=1&sn=7205c9c6fe69cea66dffee19c446da7f&chksm=bd4922a98a3eabbfe439c358f12f8556ae9a6d8224bc9bd9296a7100a26db7a1f02841aab3c4#rd)  
 - [2022-08-28-【第2715期】精读《设计完美的日期选择器》](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257641&idx=1&sn=9db6b4eafb72b229dbafe25e9d51b09f&chksm=bd4922ad8a3eabbb9bf52a0dfcbbf0c91d361d691d95043d3552a83d862d30760dd36650373a#rd)  
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257637&idx=1&sn=fb6d13f9be7af72f2e5aef5e934b64cc&chksm=bd4922a18a3eabb7058e4567659e69f910f00547069c96907d27eb4047cf0e94e4ff2b356421#rd)  
 - [2022-08-26-【第2713期】工程化思维：主题切换架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257588&idx=1&sn=51531c48c85480f6e1e53812e2cbb374&chksm=bd4923708a3eaa668a60ce1d24482bfffc4fa8071f46dab17d77ea43dd1d71516d8730762a61#rd)  
-- [2022-08-25-【第2712期】日期选择器设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=2&sn=c7772cd7a7c2ccf28f422d63fbdcaa15&chksm=bd49236d8a3eaa7bde762f55753ca169b8f5bf1a0ae9a1f3aa626945c873e424913861f611c3#rd)  
 - [2022-08-25-稀土开发者大会讲师-PPT精华送上，通关全靠你自己了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=1&sn=db529334697cf171498f250893dfd7d4&chksm=bd49236d8a3eaa7bfb73758ab07ce2f9dfbf08730748b3866c8f9704e6290ba18f1cd9275373#rd)  
-- [2022-08-24-太强了！有了这个-GitHub-热门工具，15-分钟把微信小程序搬进自有App！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257534&idx=2&sn=78d2d169963db1a4329db2482b5410ab&chksm=bd49233a8a3eaa2c430e4dbf0ef6c55175456dbdb507ef8e95ccdbf55945f6b3660f1d92b5e3#rd)  
+- [2022-08-25-【第2712期】日期选择器设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257577&idx=2&sn=c7772cd7a7c2ccf28f422d63fbdcaa15&chksm=bd49236d8a3eaa7bde762f55753ca169b8f5bf1a0ae9a1f3aa626945c873e424913861f611c3#rd)  
 - [2022-08-24-【第2711期】利用CSS实现超长内容滚动播放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257534&idx=1&sn=6d3f01c392de56033af40b3ab48f9162&chksm=bd49233a8a3eaa2c919e5b8c236096a9af012b418a91ab00ab562a81a1750ccd0fed1edf6170#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
@@ -129,7 +129,7 @@
 </summary>
 
 
-- [2022-09-07-捡到宝了！2022版前端面试上岸手册，爆肝整理！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608699&idx=1&sn=85f12d2237895d0e763969315b700a27&chksm=802281bab75508acb05e08c8d865af06b37aa483e0ee11a004035cda27e9191d8bba5c7c54ee#rd) ![](/assets/new.png)  
+- [2022-09-07-捡到宝了！2022版前端面试上岸手册，爆肝整理！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608699&idx=1&sn=85f12d2237895d0e763969315b700a27&chksm=802281bab75508acb05e08c8d865af06b37aa483e0ee11a004035cda27e9191d8bba5c7c54ee#rd)  
 - [2022-09-06-面试官：请使用-JS-完成一个-LRU-缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608658&idx=2&sn=955805950e9a8143bb1b80fee9f1860b&chksm=80228193b755088511dbfe7323e8508c50261602ca5c7b48408264816df5c18613cae9033d10#rd)  
 - [2022-09-06-众多Mock工具，你选对了吗](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608658&idx=1&sn=95faf378ca6de2c7e5382355a4ab8128&chksm=80228193b7550885d7270a768de0bf212b1e605b2dd02b4b036a4d18ba39fceb98636633722c#rd)  
 - [2022-09-04-不用跑项目，组件效果所见即所得，绝了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608631&idx=1&sn=9a6f2766c08f67e47b0a4332fc66ed34&chksm=802281f6b75508e062e0e833da861fbd52cf4785eef5ae5fe620603da5ec6eda26dac57511d6#rd)  
@@ -253,7 +253,7 @@
 </summary>
 
 
-- [2022-09-08-从两个前端的小公司，直接跳进当时几乎国内最强的前端团队！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510554&idx=1&sn=169fe32a045ade176deccd31ceb7d251&chksm=f992accbcee525dd6c0eb55605573b2ce8122e8f8c0b445007aa969ac21fc50a32ffabcc9089#rd) ![](/assets/new.png)  
+- [2022-09-08-从两个前端的小公司，直接跳进当时几乎国内最强的前端团队！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510554&idx=1&sn=169fe32a045ade176deccd31ceb7d251&chksm=f992accbcee525dd6c0eb55605573b2ce8122e8f8c0b445007aa969ac21fc50a32ffabcc9089#rd)  
 - [2022-09-06-网页动画的十二原则](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510540&idx=1&sn=98c096258932f92f105786e2017b904a&chksm=f992acddcee525cbc675198adb37c6f627f845ef45b07203e4d96172e8124ae8a8172a67572f#rd)  
 - [2022-09-02-JavaScript-代码优化之道](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510487&idx=1&sn=2d10b1e32316035b1b5aad6976d804f4&chksm=f992af06cee52610a0fcf10300d4b487b2dd80728421f8eac48e4dcc1672c0173da214d05b79#rd)  
 - [2022-09-02-一文解析-Pinia-和-Vuex，带你全面理解这两个-Vue-状态管理模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510487&idx=2&sn=595cff663d0422811e4d12fc7a6c8d2b&chksm=f992af06cee52610f0ada7470777ecb1d9d1a9fda3382bf72ce5f3f9d706fd540cf9f1810938#rd)  
