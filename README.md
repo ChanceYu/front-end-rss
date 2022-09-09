@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-09 08:01:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-09 12:00:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,12 +19,12 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-09-08-你们觉得，这些做法能培养「解决问题的能力」吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486964&idx=1&sn=98cc9fcef1bf1ae7f4b47d41dd350a1c&chksm=ce461865f93191730024781447c722ac8d3d55e805572fd30c365ce784a50c837e037e25780d#rd) ![](/assets/new.png)  
+- [2022-09-08-你们觉得，这些做法能培养「解决问题的能力」吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486964&idx=1&sn=98cc9fcef1bf1ae7f4b47d41dd350a1c&chksm=ce461865f93191730024781447c722ac8d3d55e805572fd30c365ce784a50c837e037e25780d#rd)  
 - [2022-09-07-TypeScript的实用方法！大家一定要学会啊~一定！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486955&idx=1&sn=4a5b05ce7bcb7d6b144eca994ae7c8ad&chksm=ce46187af931916ceeec262aa2ba18aa8aa63f1c6b8dac894fccb4f0b6c430c23eb51e730e2d#rd)  
 - [2022-09-06-我捡到宝了！2022版前端面试上岸手册，最新最细致！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486949&idx=1&sn=4ba648783c66d0070d4419905f304302&chksm=ce461874f931916284bb0228747ab6718f07215fac6829081feedbe835d034ba096fef88c067#rd)  
 - [2022-09-05-【3分钟学会】单元测试的基本原理~以后可以装逼了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486945&idx=1&sn=73d37b4b2aa80a77667d3088a6d2537d&chksm=ce461870f93191663f30c0888e0612a9a3f12be6094cff922ba58b82d6170922676fb60fc996#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-09-09-科技爱好者周刊（第-222-期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html) ![](/assets/new.png)  
 - [2022-09-02-科技爱好者周刊（第-221-期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)  
 - [2022-08-26-科技爱好者周刊（第-220-期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)  
 - [2022-08-19-科技爱好者周刊（第-219-期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)  
@@ -365,7 +366,6 @@
 - [2022-06-03-字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html)  
 - [2022-05-27-科技爱好者周刊（第-208-期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html)  
 - [2022-05-20-科技爱好者周刊（第-207-期）：汽车行业的顶峰可能过去了](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-207.html)  
-- [2022-05-13-科技爱好者周刊（第-206-期）：如何走出失望和怀疑](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
