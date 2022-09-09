@@ -198,6 +198,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Anyone know Larry Ellison?",
+        "link": "https://javascriptweekly.com/issues/605",
+        "date": "2022-09-09"
+      },
+      {
         "title": "David's handy JS debugging tip",
         "link": "https://javascriptweekly.com/issues/604",
         "date": "2022-09-02"

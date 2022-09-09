@@ -10,12 +10,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-09 12:00:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-10 06:01:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605) ![](/assets/new.png)  
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)  
 - [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)  
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)  
@@ -86,7 +87,6 @@
 - [2022-05-06-A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588)  
 - [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)  
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)  
-- [2022-04-15-On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-09-09-科技爱好者周刊（第-222-期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html) ![](/assets/new.png)  
+- [2022-09-09-科技爱好者周刊（第-222-期）：四十年编程感想](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-222.html)  
 - [2022-09-02-科技爱好者周刊（第-221-期）：全世界最繁荣的行业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-221.html)  
 - [2022-08-26-科技爱好者周刊（第-220-期）：人工智能的机会在哪里](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-220.html)  
 - [2022-08-19-科技爱好者周刊（第-219-期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)  

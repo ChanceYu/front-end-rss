@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-09 12:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-10 06:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -15,6 +15,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605) 
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602) 
 - [2022-07-01-Celebrating-Svelte](https://javascriptweekly.com/issues/596) 
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593) 

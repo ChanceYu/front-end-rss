@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-03 06:01:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-10 06:01:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605) 
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604) 
 - [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603) 
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602) 
