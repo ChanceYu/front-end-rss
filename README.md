@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-10 06:01:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-10 12:00:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605) ![](/assets/new.png)  
+- [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)  
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)  
 - [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)  
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)  
@@ -160,11 +160,12 @@
 </summary>
 
 
+- [2022-09-09-React-老矣，我建议大家用用别的框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517809&idx=1&sn=cb16d78bf9d1ea4557d12840cb48858d&chksm=f9523332ce25ba247fb3695ed2f0c4114031736b4846501e102936f0670ca154aa7d4d2fad91#rd) ![](/assets/new.png)  
 - [2022-09-07-我庆幸果断放弃了SwiftUI：它还不够成熟](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517793&idx=1&sn=3ae2ca68b6324f0943fbf3d801b1b8a9&chksm=f9523322ce25ba3401626f2861bf37212611d1a1c2648f28c1a02a284e3a758012ba4e4c6c3c#rd)  
 - [2022-09-05-Node之父：Oracle，请交出JavaScript的商标](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517765&idx=1&sn=0cf854719110542fcf77a57de0c2b030&chksm=f9523306ce25ba10a12b18a41bc5c8b99eab6ca62ae1ce10c91a22e4fe0b542150ffb5458490#rd)  
 - [2022-09-04-东软集团回应成都核酸系统异常；GitHub即将下线Trending功能；Flutter-3.3发布；英伟达披露芯片事件最新进展](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517754&idx=1&sn=d1c6cb20aae550bb810c05f881d557e9&chksm=f9523379ce25ba6f2c48a428c59e54bde179b79884b7297348173d63fe31b81275083380959a#rd)  
-- [2022-09-02-字节、腾讯地图、斑马、Cocos-对大前端边界的探索-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517578&idx=2&sn=c54f9cf1f305e7c7fabe501d8c268f5f&chksm=f95230c9ce25b9df51168fa93e846ff426e009f27c8bcc8e14293781cba23d17affd9b93ca20#rd)  
 - [2022-09-02-网易云音乐的前端基础设施是如何优雅地走向统一的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517578&idx=1&sn=e4ea22588309629b9551e213564225fe&chksm=f95230c9ce25b9df243e248a184e34f3f6b7f9ec3f1a3a30939ac96a98aca9190c6a2a46f306#rd)  
+- [2022-09-02-字节、腾讯地图、斑马、Cocos-对大前端边界的探索-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517578&idx=2&sn=c54f9cf1f305e7c7fabe501d8c268f5f&chksm=f95230c9ce25b9df51168fa93e846ff426e009f27c8bcc8e14293781cba23d17affd9b93ca20#rd)  
 - [2022-08-31-JavaScript框架大战已结束，赢家只有一个](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517457&idx=1&sn=433321f934cbb68e9974826800bc88c6&chksm=f9523052ce25b9441c242f862a259be0fe44564fef1bcc01ee641899c7ebe81e6eb883d5c7b4#rd)  
 - [2022-08-29-去掉jQuery后，我们的网站性能起飞，速度快了17%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517426&idx=1&sn=6494010bd2bfccfc46bc1aac653ebfe1&chksm=f95231b1ce25b8a76e869ff98e7984af1543a705f0c19e5f7b3ae032c328aa52beb7bb9e7ff1#rd)  
 - [2022-08-28-Bun获700万美元成立公司；TypeScript4.8-发布；80岁Unix大神还在修复AWK代码；华为把活下来作为主要纲领](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517395&idx=1&sn=fc3ee493e0c1770624c2a07f38095abb&chksm=f9523190ce25b886a13d18b4fabb943f80c534910684cbc31372649305cd4fdde1ce72131fdc#rd)  
@@ -178,7 +179,6 @@
 - [2022-08-14-尤雨溪：新版Vue-3中文文档上线；谷歌开发者工具迎来大更新；英伟达CEO：不裁员，还加薪；谷歌怒指苹果阻碍跨平台交流](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516867&idx=1&sn=7c5fb2df04f2b03e2001719e30f542a7&chksm=f9523780ce25be96051b0aa76c99f74001ffb53376a142cf5782c6f4eaec091338e0ad65a531#rd)  
 - [2022-08-12-为什么我不会错过React](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516826&idx=1&sn=cedd810ee4b5cd8f5b5f7204516c1575&chksm=f95237d9ce25becfd3da0d834fdcbbdf93d09033d2073187ade42f9222f1287a075d75170d63#rd)  
 - [2022-08-11-React开发者们的Solid.js快速入门教程](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516803&idx=1&sn=f584917f8afe2f7bb10f8686acb040cf&chksm=f95237c0ce25bed6980bdc34c630cbda97d0325a489663440b4c904499ca81da31729d476476#rd)  
-- [2022-08-08-JSON之父：JavaScript已非常复杂，我们能做的最好的事情就是让它退役](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516790&idx=1&sn=cfd2eea5f378aebf91ac5f23c0253875&chksm=f9523735ce25be23c458cd9632fa4eedc04d0ffceaf58dbe3658b7d40ab056b248b4561c154f#rd)  
 - [2022-08-08-JSON之父：JavaScript已非常复杂，我们能做的最好的事情就是让它退役](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516790&idx=1&sn=cfd2eea5f378aebf91ac5f23c0253875&chksm=f9523735ce25be23c458cd9632fa4eedc04d0ffceaf58dbe3658b7d40ab056b248b4561c154f#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
