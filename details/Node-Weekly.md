@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-09 06:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-16 06:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454) 
 - [2022-09-08-Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453) 
 - [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452) 
 - [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451) 

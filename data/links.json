@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Creating an npm package in 2022",
+        "link": "https://nodeweekly.com/issues/454",
+        "date": "2022-09-15"
+      },
+      {
         "title": "Using ML to rewrite a test suite to Playwright",
         "link": "https://nodeweekly.com/issues/453",
         "date": "2022-09-08"

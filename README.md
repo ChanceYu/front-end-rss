@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-15 12:02:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-16 06:01:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454) ![](/assets/new.png)  
 - [2022-09-08-Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)  
 - [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)  
 - [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451)  
@@ -55,7 +56,6 @@
 - [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)  
 - [2022-05-05-Node's-new-CLI-test-runner](https://nodeweekly.com/issues/436)  
 - [2022-04-28-Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435)  
-- [2022-04-21-Node.js-18-released](https://nodeweekly.com/issues/434)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-09-15-【直播】T-Chat-第十期「-我在字节做前端-」9-月-15-日晚-8-点开播](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257944&idx=2&sn=10e13711949a7da7a537baf27578a1af&chksm=bd4925dc8a3eacca6d096fe1deba31a40e56b39554b4eb444016d0f17592baa3a0493a2d77f4#rd) ![](/assets/new.png)  
+- [2022-09-15-【直播】T-Chat-第十期「-我在字节做前端-」9-月-15-日晚-8-点开播](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257944&idx=2&sn=10e13711949a7da7a537baf27578a1af&chksm=bd4925dc8a3eacca6d096fe1deba31a40e56b39554b4eb444016d0f17592baa3a0493a2d77f4#rd)  
 - [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257898&idx=1&sn=b413ed2627e8de12fea5e2d23cfa5568&chksm=bd4925ae8a3eacb819564f2fb06670435ffec6947e449eba86e93534c60a9022f0a45437b769#rd)  
 - [2022-09-09-【第2727期】基于-iframe-的微前端框架-——-擎天](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257881&idx=1&sn=0087e67468cc1f9f9cdf865f9a02fe95&chksm=bd49259d8a3eac8bbf8c53dadb674705b59f6dd965d71dbfa509fc223d312d6ac8ddce56b527#rd)  
 - [2022-09-08-【第2726期】开发模式-"Development-Mode"-是如何工作的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257857&idx=1&sn=6a72ce43ea240cbfe476479dcd4924e9&chksm=bd4925858a3eac93b179d289d49ac789356984d44fe2b23d0ae02f2dd0bfa52c4947a40a554b#rd)  
