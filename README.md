@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-16 22:02:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-17 06:02:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606) ![](/assets/new.png)  
 - [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)  
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)  
 - [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)  
@@ -86,7 +87,6 @@
 - [2022-05-13-19-hours-of-D3.js??](https://javascriptweekly.com/issues/589)  
 - [2022-05-06-A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588)  
 - [2022-04-29-Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)  
-- [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd) ![](/assets/new.png)  
+- [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd)  
 - [2022-09-14-从零开始的新跨平台浏览器：Ladybird-正式起飞](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517904&idx=1&sn=8fdf5ae4b8bd46fd5487dbbb66985ce1&chksm=f9523393ce25ba85907eca003fe0958087090ef087807cf55a81298c487529fb310f0d074df7#rd)  
 - [2022-09-13-京东零售平台：前端组件资源共享与中心化管理实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517881&idx=1&sn=90a9ae4663188e4da1a5961e8ac3b013&chksm=f95233face25baec3975677e3b7d71f19ed48bc2c060f8c02da30477f8dbf03b51eead8ba051#rd)  
 - [2022-09-11-微软为Vue.js推出Power-BI组件；谷歌CEO暗示将裁员；微信输入法体积524MB；React-Native-0.7发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517833&idx=1&sn=272e06098519b6ca55e5ee31ed9fad6e&chksm=f95233cace25badcbbfb11cb6e076fb1b06ce74c7140bfd8016e68e34e2694b09993e9be0fdc#rd)  

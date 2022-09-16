@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-16 22:02:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-17 06:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -9,6 +9,7 @@
 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606) 
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604) 
 - [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603) 
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601) 

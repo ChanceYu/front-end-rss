@@ -203,6 +203,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Seven weird ways to call a JavaScript function",
+        "link": "https://javascriptweekly.com/issues/606",
+        "date": "2022-09-16"
+      },
+      {
         "title": "Anyone know Larry Ellison?",
         "link": "https://javascriptweekly.com/issues/605",
         "date": "2022-09-09"
