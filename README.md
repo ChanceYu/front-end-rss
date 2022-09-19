@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-19 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-19 08:02:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -98,26 +98,26 @@
 </summary>
 
 
+- [2022-09-19-【第2734期】JavaScript-&-Node.js-的测试最佳实践---第二章：后端测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257980&idx=1&sn=f39c7c5770c4e19e02f4f2e78830e0ed&chksm=bd4925f88a3eacee35c60ec32e4506c7b6afd00b5065d45ee6e80da8ff941bd5dcc944c881aa#rd) ![](/assets/new.png)  
 - [2022-09-18-【第2733期】如何优化-Node.js-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257976&idx=1&sn=e2affd0e0ac9c9436e5feff963ffb6b9&chksm=bd4925fc8a3eaceaa8d60da6de86f7ed15df3d5fef43f8c9fa12aadc3f751d9dffcf1b23e9cf#rd)  
 - [2022-09-17-【第2732期】JavaScript-&-Node.js-的测试最佳实践---第一章:-测试剖析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257972&idx=1&sn=cdbb6190c73ff3e99309b629001e26e1&chksm=bd4925f08a3eace6374abd34526a0bda55ce48c30c0b70d968699c1511aae43761fe0f36146e#rd)  
-- [2022-09-16-【图书】Vue.js技术内幕](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257956&idx=2&sn=cff751e813e1608edeb30a7e631a8482&chksm=bd4925e08a3eacf6b28675f40bcc200f90d18a0190098833820c5f57055604a9ed43ebc22b62#rd)  
 - [2022-09-16-【第2731期】如何检测-JavaScript-原生函数-是否被打过“猴子补丁”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257956&idx=1&sn=f057795e4a72f336e31e650aaebe6441&chksm=bd4925e08a3eacf61a3db68a2f3c52ac87c762c7a22c117d42058808b8a366388cb079bb9d06#rd)  
-- [2022-09-15-【直播】T-Chat-第十期「-我在字节做前端-」9-月-15-日晚-8-点开播](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257944&idx=2&sn=10e13711949a7da7a537baf27578a1af&chksm=bd4925dc8a3eacca6d096fe1deba31a40e56b39554b4eb444016d0f17592baa3a0493a2d77f4#rd)  
+- [2022-09-16-【图书】Vue.js技术内幕](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257956&idx=2&sn=cff751e813e1608edeb30a7e631a8482&chksm=bd4925e08a3eacf6b28675f40bcc200f90d18a0190098833820c5f57055604a9ed43ebc22b62#rd)  
 - [2022-09-15-【第2730期】你想知道的前后端协作规范都在这](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257944&idx=1&sn=22a2e2d998b8f63a318eb7b7982743ca&chksm=bd4925dc8a3eaccacf46a87684f4dcdf6c5cceb067a742e7b585ae7cec74f93c8e76b121f23a#rd)  
-- [2022-09-14-【第2729期】如何让CSS计数器支持小数的动态变化？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257932&idx=1&sn=063d87368d3d173bd6743fed0c561a85&chksm=bd4925c88a3eacdec9ba5ea5f4cdc1ba4165a6c285ce168564f034d2405d15875581c885ac3d#rd)  
+- [2022-09-15-【直播】T-Chat-第十期「-我在字节做前端-」9-月-15-日晚-8-点开播](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257944&idx=2&sn=10e13711949a7da7a537baf27578a1af&chksm=bd4925dc8a3eacca6d096fe1deba31a40e56b39554b4eb444016d0f17592baa3a0493a2d77f4#rd)  
 - [2022-09-14-【图书】程序员的底层思维](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257932&idx=2&sn=eb158cb00e8bfaef19c432e8efdc30a7&chksm=bd4925c88a3eacde94e1db8361472296f2ca8ce57c015f65aab02cc91f2a7e49a3d0adaf99dd#rd)  
+- [2022-09-14-【第2729期】如何让CSS计数器支持小数的动态变化？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257932&idx=1&sn=063d87368d3d173bd6743fed0c561a85&chksm=bd4925c88a3eacdec9ba5ea5f4cdc1ba4165a6c285ce168564f034d2405d15875581c885ac3d#rd)  
 - [2022-09-13-【第2728期】网易云音乐的前端基础设施是如何优雅地走向统一的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257898&idx=1&sn=b413ed2627e8de12fea5e2d23cfa5568&chksm=bd4925ae8a3eacb819564f2fb06670435ffec6947e449eba86e93534c60a9022f0a45437b769#rd)  
 - [2022-09-09-【第2727期】基于-iframe-的微前端框架-——-擎天](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257881&idx=1&sn=0087e67468cc1f9f9cdf865f9a02fe95&chksm=bd49259d8a3eac8bbf8c53dadb674705b59f6dd965d71dbfa509fc223d312d6ac8ddce56b527#rd)  
 - [2022-09-08-【第2726期】开发模式-"Development-Mode"-是如何工作的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257857&idx=1&sn=6a72ce43ea240cbfe476479dcd4924e9&chksm=bd4925858a3eac93b179d289d49ac789356984d44fe2b23d0ae02f2dd0bfa52c4947a40a554b#rd)  
 - [2022-09-07-【第2725期】伊斯坦布尔测试覆盖率的实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257851&idx=1&sn=f623b800f2eb783d8b93298bc60b5848&chksm=bd49227f8a3eab69b7ced8648ead1dd15031657653145e6a52729832fcc97e431c9842d1b5da#rd)  
-- [2022-09-06-【活动】美团在跨端和低代码方向的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=2&sn=d8b15f4bde244300ca4f90ccd809fb0c&chksm=bd4922758a3eab638291aea917c359fd9116f1eef9065e7f0083a211e19d306290a1203d2497#rd)  
 - [2022-09-06-【第2724期】前后端数据接口协作提效实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=1&sn=39c900e60f5441c7328355878b273636&chksm=bd4922758a3eab637f6cc0d4e9e7e3123e800b00620e846a036d7fe048a0e00d16fe507183da#rd)  
+- [2022-09-06-【活动】美团在跨端和低代码方向的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257841&idx=2&sn=d8b15f4bde244300ca4f90ccd809fb0c&chksm=bd4922758a3eab638291aea917c359fd9116f1eef9065e7f0083a211e19d306290a1203d2497#rd)  
 - [2022-09-05-【第2723期】高级-Promise-模式：Promise缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257804&idx=1&sn=68724760b8b4c60a575f6db711bd0f4c&chksm=bd4922488a3eab5e3dda84964431225a5ba64785f0bb97ef865137a3dd5c8dbcc9fd39ded872#rd)  
 - [2022-09-04-【第2722期】腾讯医药微信小程序性能优化：从0.9秒到0.5秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257800&idx=1&sn=557cd44a960a9ed3fd2ad852190f376a&chksm=bd49224c8a3eab5a18f19a8959a5b737a1035354180ff3d34336b00dd34105cd5d9470db42d0#rd)  
 - [2022-09-03-【第2721期】React-Query的优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257796&idx=1&sn=aa320a242cb842a53a41cfa42cc097b6&chksm=bd4922408a3eab562f47cc12213e49cb3bb6891b8d5760e8a27bcd3f2798ff86f6086d166def#rd)  
 - [2022-09-02-【第2720期】高级异步模式---Promise-单例](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257709&idx=1&sn=dc3249e33bb5c421884ec9b42fa345d7&chksm=bd4922e98a3eabff23510fe6a72cfbd91a046c81832f067c663b3167ecd8a74a259de286200c#rd)  
 - [2022-09-01-【第2719期】如何使用-HTTPS-进行本地开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257705&idx=1&sn=142c0cbcc75e43cdb9a218d8cd883d38&chksm=bd4922ed8a3eabfb317a18e71be17e85360ad9a1fe337667cc6f9bc634213955a384ba0a733a#rd)  
-- [2022-08-31-【第2718期】React-Query-的数据转换](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257695&idx=2&sn=30436342ff2e94e279d017e3aa1bc95e&chksm=bd4922db8a3eabcd31c9e93c18bfaea9c6445770ede20aa72cd52b8816872ff7c8587ede3d3d#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd) ![](/assets/new.png)  
+- [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd)  
 - [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd)  
 - [2022-09-14-从零开始的新跨平台浏览器：Ladybird-正式起飞](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517904&idx=1&sn=8fdf5ae4b8bd46fd5487dbbb66985ce1&chksm=f9523393ce25ba85907eca003fe0958087090ef087807cf55a81298c487529fb310f0d074df7#rd)  
 - [2022-09-13-京东零售平台：前端组件资源共享与中心化管理实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517881&idx=1&sn=90a9ae4663188e4da1a5961e8ac3b013&chksm=f95233face25baec3975677e3b7d71f19ed48bc2c060f8c02da30477f8dbf03b51eead8ba051#rd)  
