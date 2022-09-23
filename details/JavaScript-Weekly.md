@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-17 06:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-09-24 06:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-09-23-Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607) 
 - [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606) 
 - [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605) 
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604) 
