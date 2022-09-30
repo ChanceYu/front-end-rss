@@ -213,6 +213,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "How TypeScript 4.9 satisfies",
+        "link": "https://javascriptweekly.com/issues/608",
+        "date": "2022-09-30"
+      },
+      {
         "title": "Extractors for ECMAScript",
         "link": "https://javascriptweekly.com/issues/607",
         "date": "2022-09-23"
