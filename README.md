@@ -10,11 +10,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-03 18:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -25,7 +25,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457) ![](/assets/new.png)  
 - [2022-09-29-Keep-calm-and-carry-on-using-Node](https://nodeweekly.com/issues/456)  
 - [2022-09-22-The-Node-testing-framework-we-were-sleeping-on](https://nodeweekly.com/issues/455)  
 - [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)  
@@ -55,7 +56,6 @@
 - [2022-06-02-util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)  
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)  
 - [2022-05-19-Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438)  
-- [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -377,7 +377,7 @@
 </summary>
 
 
-- [2022-09-30-Vue-2-系统如何快速迁移-Vite-作为开发工具](http://www.yyyweb.com/5470.html) ![](/assets/new.png)  
+- [2022-09-30-Vue-2-系统如何快速迁移-Vite-作为开发工具](http://www.yyyweb.com/5470.html)  
 - [2022-08-28-10-个你可能没见过的-VsCode-的高效开源神器](http://www.yyyweb.com/5469.html)  
 - [2022-07-23-做一个-WebRTC-视频通话给自己用吧](http://www.yyyweb.com/5466.html)  
 - [2022-07-01-Vue-2.7-正式发布，代号为-Naruto](http://www.yyyweb.com/5464.html)  

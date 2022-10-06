@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-03 18:00:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-10-07 06:00:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -147,6 +147,7 @@
 
 
 
+- [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
 - [【JavaScript-Weekly】Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)
@@ -166,7 +167,6 @@
 - [【前端早读课】【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd)
 - [【前端早读课】【PPT】蚂蚁集团@零弌：一种秒级安装-npm-的黑科技](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252265&idx=2&sn=d0606543afeb50b0ce6cf855270b8f84&chksm=bd493fad8a3eb6bb22a6d0c75c2b7bcb150cbd82ed3215a42d8b357a88f7bdb10323508405d6#rd)
 - [【前端早读课】【第2506期】JavaScript-包管理器简史（npm/yarn/pnpm）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252081&idx=1&sn=f88298129fa96dea91b85a2d6b6e1b6d&chksm=bd493cf58a3eb5e39ecdb85a92cdef7174b4d3c13cb612786202b312f07e0ae7733325158dd4#rd)
-- [【前端早读课】再见！Webpack！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651247318&idx=1&sn=461ac7af25b3fa37e0e05ea6559eebdd&chksm=bd490b528a3e824429b0b8fa5799fcdc91661b4e70cf013c4c6aebb7d3a7e490d97b027d34a9&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
