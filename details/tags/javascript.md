@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-07 08:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -768,6 +768,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-10-06-一文搞懂ES6的Map，Map和Object如何选择](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487009&idx=1&sn=6c3f39bdeb857f5402b6ae749117936f&chksm=ce461bb0f93192a6f288be2d308c405876ce83479153e9ea3b16a03a51e9f6534e9a37c6d0d0#rd) 
 - [2022-09-22-手把手教你实现一个常用的-antd-form-组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486989&idx=1&sn=822baa1dae710220dbfa2b428f3e3554&chksm=ce461b9cf931928a28ad28bae35f5a2e98bba90e7f3785aa2be5c8b9adb3e4f387cd243c2261#rd) 
 - [2022-09-21-慎用-JSON.stringify！！！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486987&idx=1&sn=913a5deb56a520259a96d069f50e5e3d&chksm=ce461b9af931928c2f72880806acd32a67bf04fd3f5d2e44167c140261127fb89579705e70fb#rd) 
 - [2022-08-25-迷失中的this指向，看完这篇就会了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486901&idx=1&sn=3520978459cb258fab2d74b51077ec64&chksm=ce461824f9319132a715265db39dd3b243a745bfbd08b3a88a5b56f4e478c191f73d031b2957#rd) 
