@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-01 06:02:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609) 
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608) 
 - [2022-09-23-Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607) 
 - [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606) 

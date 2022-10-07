@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-07 08:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-08 06:00:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -9,6 +9,7 @@
 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
+- [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609) 
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608) 
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579) 
 - [2022-08-11-【第2698期】浅谈-TypeScript-类型系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257150&idx=1&sn=0ccc089da5435ef91cff262b051f8b66&chksm=bd4920ba8a3ea9ac4a0a484281f61d25ca618a70e5ecb4f929f53cb94f73d34a6451e3f74355#rd) 
