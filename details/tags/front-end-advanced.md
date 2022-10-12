@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-11 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-12 18:02:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -357,6 +357,7 @@
 - [2019-01-08-携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect) 
 - [2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
 - [2018-12-18-Netflix：我们为什么要将GraphQL引入前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490124&idx=1&sn=c00ac4b281b3343221f57fcba6bd4d74#wechat_redirect) 
+- [2022-10-12-前端工程化那些事](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487019&idx=1&sn=731fe0fd8598b3008b4b44245da93dff&chksm=ce461bbaf93192ac5e84612e51d6da806d99660b85fdc8fc32f81032a56bcd8e5a5e76a50c5d#rd) 
 - [2022-09-23-前端必备的-HTTP-知识！看这篇就够了！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486991&idx=1&sn=d778ea79070680545de70cd711494988&chksm=ce461b9ef9319288932ef6c7bdf9cf499bd0b964912f53e7d8c0d3312a57c3a73d23340e4128#rd) 
 - [2022-09-05-【3分钟学会】单元测试的基本原理~以后可以装逼了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486945&idx=1&sn=73d37b4b2aa80a77667d3088a6d2537d&chksm=ce461870f93191663f30c0888e0612a9a3f12be6094cff922ba58b82d6170922676fb60fc996#rd) 
 - [2022-08-20-别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486883&idx=1&sn=f38fe3d5983633f56fb82d345fad4661&chksm=ce461832f93191244ec02f8d5ac6bc5a08dd1f0eb4c23ac73a69df024f3e7eab77bdcf03cee6#rd) 
