@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-13 12:02:43。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-10-13 22:02:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -757,6 +757,7 @@
 
 
 
+- [【Node-Weekly】✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)
 - [【Node-Weekly】Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)
 - [【Node-Weekly】The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)
 - [【Node-Weekly】All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)
@@ -776,7 +777,6 @@
 - [【前端早读课】【第2748期】ToB产品化前端团队技术之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258285&idx=1&sn=fcaecfacd3edb3bdb72fafb4ea9947b3&chksm=bd4924298a3ead3f320903c009e54e51b7ce869040c15284c5231a4e9d04989631425336bdc7#rd)
 - [【前端早读课】【第2747期】Islands-Architecture（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258270&idx=1&sn=ccec1124ba35dc19b03cfb510e573196&chksm=bd49241a8a3ead0cc142c0b0e82b4822bc09cb417337c4936bbafd507899fad01d208dc505ff#rd)
 - [【前端早读课】【第2746期】聊一聊前端的「插件」](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258263&idx=1&sn=52a1d2787d28566634ca5bf12052f78e&chksm=bd4924138a3ead05835126dfdd4dbbcfad897163fef4e06a8676d09f53f8c8167995ce91632d#rd)
-- [【前端早读课】【图书】互联网大厂晋升指南：从P5到P9的升级攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258249&idx=2&sn=0fc7a58d01b7b67c80306234d7a5374d&chksm=bd49240d8a3ead1b1564368602752f7933c7a3e84553cfe81f5f47705f3e2c21a7664a5290b2#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
