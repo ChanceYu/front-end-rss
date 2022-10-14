@@ -223,6 +223,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Node to keep an eye on your code",
+        "link": "https://javascriptweekly.com/issues/610",
+        "date": "2022-10-14"
+      },
+      {
         "title": "Axios turns 1.0; TypeScript turns 10",
         "link": "https://javascriptweekly.com/issues/609",
         "date": "2022-10-07"

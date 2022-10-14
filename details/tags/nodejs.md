@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-14 12:02:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-15 06:00:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -30,6 +30,7 @@
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
 - [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
+- [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610) 
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586) 
 - [2022-09-26-【第2741期】JavaScript-&-Node.js-的测试最佳实践---第五章：持续集成（CI）以及其他质量度量手段](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258068&idx=1&sn=9f93214ddb3da45789d3cf0d463f4c98&chksm=bd4925508a3eac4658f5aef4c11029f4f4bb75f26945cb349fef8363107052b55fcc3536f3db#rd) 
 - [2022-09-24-【第2739期】JavaScript-&-Node.js-的测试最佳实践---第四章：度量测试效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258060&idx=1&sn=08b3c54c8b79198c79f0ee5bf4689128&chksm=bd4925488a3eac5e1cb63173702695198b3021a38c0e7984ae38040c8fd4a2a26bb43fbc4eff#rd) 
