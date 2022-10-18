@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-18 12:00:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-18 18:00:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2022-10-18-【第2756期】CSS-也能自动补全字符串？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258405&idx=1&sn=0b152199cccbf20c836963df6a768b69&chksm=bd4927a18a3eaeb72ed83b4f1af6d17f653e8e2e94df7716786e35308a36bb5df33535271c2c#rd) ![](/assets/new.png)  
+- [2022-10-18-【第2756期】CSS-也能自动补全字符串？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258405&idx=1&sn=0b152199cccbf20c836963df6a768b69&chksm=bd4927a18a3eaeb72ed83b4f1af6d17f653e8e2e94df7716786e35308a36bb5df33535271c2c#rd)  
 - [2022-10-17-【第2755期】-一个检测-JS-内存泄漏的神器---MemLab](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258387&idx=1&sn=70dcc0763f9ab68bbade22b8358fede0&chksm=bd4927978a3eae81f12459b16eeab8131dadb96ecd83e16f65d2346acd0c6ec266e368c5c549#rd)  
 - [2022-10-16-【第2754期】从-Signals-看响应式状态管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258383&idx=1&sn=a4006638a07c1709ffeafa102eab0606&chksm=bd49278b8a3eae9d9dd99cfdab7debe32de078474ee13af4adce8f864570e3a472e1b8edd9a2#rd)  
 - [2022-10-14-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258353&idx=2&sn=d90b181317df3791a7170ca1ab3d5954&chksm=bd4924758a3ead6396e33bc668c090dd6502363ed99a8f3ec2ea120db6b8843c73eca8fe1c46#rd)  
@@ -160,14 +160,15 @@
 </summary>
 
 
+- [2022-10-17-你不需要Next.js（和SSR）](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518234&idx=1&sn=e4663099cd695e8835db34c1ff83c4a2&chksm=f9523d59ce25b44f5d4ce468b3da97301349350c2d7f30acf9806667cd616a337c610092de7a#rd) ![](/assets/new.png)  
 - [2022-10-13-React：我爱你，但是你越来越让我失望了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518165&idx=1&sn=1055dc0466d94383824674e68eb4cc67&chksm=f9523296ce25bb80ba4fe69066fc548a4404a960fe0a29f37d88b23b0d61d494bf9172140839#rd)  
 - [2022-10-10-基于Deno的新交互框架：Fresh如何改善用户体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518164&idx=1&sn=c9e5e7f6919f3a250ced2a7a36a48daf&chksm=f9523297ce25bb81fc6f2ceb2ed72971308f1eeaa05b05a2a9d6f338dfaee39eeff3170528e3#rd)  
 - [2022-09-30-跨过四个时代，JavaScript框架终于可以与原生应用SDK竞争了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518116&idx=1&sn=74da7a01805480d6e0bb7f08c0f5ea13&chksm=f95232e7ce25bbf16539c1ef807dfc132e9d72610dbe3d149dbda2db58f2f71163fb1ca6d21f#rd)  
 - [2022-09-28-我是如何开发和部署一个Chrome扩展程序的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518103&idx=1&sn=ae18b1ca5a783a30b7edfb058e624466&chksm=f95232d4ce25bbc2717096d4cb333fc33ad53c059589ae97d6ede3cb545f7b8b6248cf67c250#rd)  
 - [2022-09-25-Mozilla控诉苹果谷歌微软搞垄断；Shopee-中国宣布裁员上热搜；钉钉总裁称非常讨厌红点和DING消息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518064&idx=1&sn=1aabc4ccf8ed1b8b569a464f343e6fc4&chksm=f9523233ce25bb25c742739f18f14b003711653ccad6887d17c118133d54004fd52d7d17f66b#rd)  
 - [2022-09-23-人人都用Bootstrap的年代过去了，如今我很难向开发者们推荐Bootstrap-5](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518041&idx=1&sn=3c76a116c971fa96afb56b61eaccd746&chksm=f952321ace25bb0c8b2f010c3a76d32bbc0c5eb267c4e1293241a054f9f72debf79e0d27b4d8#rd)  
-- [2022-09-21-如何用-JavaScript-打造自己的知识体系？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=1&sn=a28c6faf1eaab9849ad666464dd24e21&chksm=f952327dce25bb6bd47b512b61a13932082b70ac72eda03f290704b636662abcfa5bf4711366#rd)  
 - [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
+- [2022-09-21-如何用-JavaScript-打造自己的知识体系？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=1&sn=a28c6faf1eaab9849ad666464dd24e21&chksm=f952327dce25bb6bd47b512b61a13932082b70ac72eda03f290704b636662abcfa5bf4711366#rd)  
 - [2022-09-19-Meta开源MemLab：轻松解决JavaScript内存泄漏，有效减少50%的系统崩溃](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517984&idx=1&sn=ca9ee5fe833aea911f8ffe8efc7087b5&chksm=f9523263ce25bb75243354b9cc67880d031fb317a4fa3b01f974fb4c96a8b1c885a6dc1117fc#rd)  
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd)  
 - [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd)  
@@ -178,7 +179,6 @@
 - [2022-09-07-我庆幸果断放弃了SwiftUI：它还不够成熟](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517793&idx=1&sn=3ae2ca68b6324f0943fbf3d801b1b8a9&chksm=f9523322ce25ba3401626f2861bf37212611d1a1c2648f28c1a02a284e3a758012ba4e4c6c3c#rd)  
 - [2022-09-05-Node之父：Oracle，请交出JavaScript的商标](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517765&idx=1&sn=0cf854719110542fcf77a57de0c2b030&chksm=f9523306ce25ba10a12b18a41bc5c8b99eab6ca62ae1ce10c91a22e4fe0b542150ffb5458490#rd)  
 - [2022-09-04-东软集团回应成都核酸系统异常；GitHub即将下线Trending功能；Flutter-3.3发布；英伟达披露芯片事件最新进展](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517754&idx=1&sn=d1c6cb20aae550bb810c05f881d557e9&chksm=f9523379ce25ba6f2c48a428c59e54bde179b79884b7297348173d63fe31b81275083380959a#rd)  
-- [2022-09-02-字节、腾讯地图、斑马、Cocos-对大前端边界的探索-|-GMTC](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517578&idx=2&sn=c54f9cf1f305e7c7fabe501d8c268f5f&chksm=f95230c9ce25b9df51168fa93e846ff426e009f27c8bcc8e14293781cba23d17affd9b93ca20#rd)  
 - [2022-09-02-网易云音乐的前端基础设施是如何优雅地走向统一的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517578&idx=1&sn=e4ea22588309629b9551e213564225fe&chksm=f95230c9ce25b9df243e248a184e34f3f6b7f9ec3f1a3a30939ac96a98aca9190c6a2a46f306#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-10-18-真给力！字节跳动内部前端开发手册（完整版）开放下载！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487053&idx=1&sn=ce7064e3b47495d487140170c0fd2b58&chksm=ce461bdcf93192cae2f558194d5202d40e5111e3ce37baf84ebd37c3f97fddf5fea1b8c8c9c8#rd) ![](/assets/new.png)  
 - [2022-10-16-你不知道的React-18-新特性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487048&idx=1&sn=aa6685f4b6160666a1f1d3ecb54ce195&chksm=ce461bd9f93192cf784596acf0b326951889f85d7696f88236dc9742259472ace04e7cdfd8dc#rd)  
 - [2022-10-15-深入理解New操作符](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487046&idx=1&sn=a0bd664d48a9df95af3ce53a89321703&chksm=ce461bd7f93192c1650680cf4ce0e8bec039cbb6413ce362164c5464df3efb618332d846361f#rd)  
 - [2022-10-13-保姆级-Vue3+React+Webpack……大厂面试真题实战教程！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487044&idx=1&sn=d82d4f8149686b6d78d97a000933876a&chksm=ce461bd5f93192c3601df545de96b86fdb38c2e019b3204776edd9f90f3bd2ebcc98232f8fd2#rd)  
@@ -210,7 +211,6 @@
 - [2022-09-22-手把手教你实现一个常用的-antd-form-组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486989&idx=1&sn=822baa1dae710220dbfa2b428f3e3554&chksm=ce461b9cf931928a28ad28bae35f5a2e98bba90e7f3785aa2be5c8b9adb3e4f387cd243c2261#rd)  
 - [2022-09-21-慎用-JSON.stringify！！！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486987&idx=1&sn=913a5deb56a520259a96d069f50e5e3d&chksm=ce461b9af931928c2f72880806acd32a67bf04fd3f5d2e44167c140261127fb89579705e70fb#rd)  
 - [2022-09-20-既然Vue3这么火，那还需要学Vue2吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486985&idx=1&sn=caf90627f4850c6c98148b46ac083fec&chksm=ce461b98f931928e354eace6a3a81ebe5b95e563297b3b782c1a3afeb893c6ddaf9703541c63#rd)  
-- [2022-09-19-羊了个羊，我用-Apifox-自动通关-10000-次，终于为广东羊争光了](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486980&idx=1&sn=b03b451f3ba0bf11c8cc62832cd0d87d&chksm=ce461b95f9319283d4c0e5fd8a21e598ee73d852eb0f6231ba54f7136cfc90c950716c697dd4#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
