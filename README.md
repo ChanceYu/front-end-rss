@@ -10,11 +10,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 06:00:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 12:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -23,8 +23,8 @@
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459) ![](/assets/new.png)  
+- [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459)  
 - [2022-10-13-✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)  
 - [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)  
 - [2022-09-29-Keep-calm-and-carry-on-using-Node](https://nodeweekly.com/issues/456)  
@@ -315,7 +315,7 @@
 </summary>
 
 
-- [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/) ![](/assets/new.png)  
+- [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)  
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)  
 - [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)  
 - [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) ![](/assets/new.png)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
 - [2022-09-30-科技爱好者周刊（第-225-期）：NPC-演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)  
 - [2022-09-23-科技爱好者周刊（第-224-期）：Figma-为什么赢了-Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)  
@@ -365,7 +366,6 @@
 - [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)  
 - [2022-06-29-云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)  
 - [2022-06-24-科技爱好者周刊（第-211-期）：虚拟商品可以拉动-GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)  
-- [2022-06-17-科技爱好者周刊（第-210-期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
