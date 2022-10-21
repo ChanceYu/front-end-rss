@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-21 18:00:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-10-22 06:00:34。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -768,6 +768,7 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611)
 - [【JavaScript-Weekly】Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)
 - [【JavaScript-Weekly】A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)
 - [【JavaScript-Weekly】Celebrating-Svelte](https://javascriptweekly.com/issues/596)
@@ -776,7 +777,6 @@
 - [【前端早读课】【早说】不说一定没机会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=2&sn=4cf5a8ad6a98669c53600e4e9c6deba0&chksm=bd4927db8a3eaecde46b9f7326933077a858d95e2cc690b3ce71c15d93ff052cb14fd2ae9643#rd)
 - [【前端早读课】超级访谈：对话玉伯](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=2&sn=38bbde56426f84c39b9d8bd53224e712&chksm=bd4927aa8a3eaebc6c525ecff9f6ad1492c71f508703dbc84e0a3149b12db94cade94a1e773c#rd)
 - [【前端早读课】【第2757期】软件架构的23个基本原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=1&sn=056f647e7ce691d20acfac11cb5fe736&chksm=bd4927aa8a3eaebc2a016c772cc4c5012ac00d10a6c1168d9d2dd033c035e29efac9bb8c4c7c#rd)
-- [【前端早读课】【第2754期】从-Signals-看响应式状态管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258383&idx=1&sn=a4006638a07c1709ffeafa102eab0606&chksm=bd49278b8a3eae9d9dd99cfdab7debe32de078474ee13af4adce8f864570e3a472e1b8edd9a2#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

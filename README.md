@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 18:00:36，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-22 06:00:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-10-21-🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611) ![](/assets/new.png)  
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610)  
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)  
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)  
@@ -86,7 +87,6 @@
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)  
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)  
 - [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)  
-- [2022-05-27-Airbnb's-uncommon-route-to-faster-JS-builds](https://javascriptweekly.com/issues/591)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-10-21-【第2759期】异步分片计算在腾讯文档的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=1&sn=d29f5c16683582fc511885aaf8146ec7&chksm=bd4927db8a3eaecdfac32f1ccffc3c62c7902da98be4222b1081c8c55c120c5db1801d535359#rd) ![](/assets/new.png)  
-- [2022-10-21-【早说】不说一定没机会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=2&sn=4cf5a8ad6a98669c53600e4e9c6deba0&chksm=bd4927db8a3eaecde46b9f7326933077a858d95e2cc690b3ce71c15d93ff052cb14fd2ae9643#rd) ![](/assets/new.png)  
+- [2022-10-21-【第2759期】异步分片计算在腾讯文档的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=1&sn=d29f5c16683582fc511885aaf8146ec7&chksm=bd4927db8a3eaecdfac32f1ccffc3c62c7902da98be4222b1081c8c55c120c5db1801d535359#rd)  
+- [2022-10-21-【早说】不说一定没机会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=2&sn=4cf5a8ad6a98669c53600e4e9c6deba0&chksm=bd4927db8a3eaecde46b9f7326933077a858d95e2cc690b3ce71c15d93ff052cb14fd2ae9643#rd)  
 - [2022-10-19-超级访谈：对话玉伯](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=2&sn=38bbde56426f84c39b9d8bd53224e712&chksm=bd4927aa8a3eaebc6c525ecff9f6ad1492c71f508703dbc84e0a3149b12db94cade94a1e773c#rd)  
 - [2022-10-19-【第2757期】软件架构的23个基本原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=1&sn=056f647e7ce691d20acfac11cb5fe736&chksm=bd4927aa8a3eaebc2a016c772cc4c5012ac00d10a6c1168d9d2dd033c035e29efac9bb8c4c7c#rd)  
 - [2022-10-18-【第2756期】CSS-也能自动补全字符串？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258405&idx=1&sn=0b152199cccbf20c836963df6a768b69&chksm=bd4927a18a3eaeb72ed83b4f1af6d17f653e8e2e94df7716786e35308a36bb5df33535271c2c#rd)  
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2022-10-19-玉伯：聊聊我在阿里做前端的这-12-年](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518245&idx=1&sn=adb9d7c8c817e174bb75f9261986703f&chksm=f9523d66ce25b470763ef85f8ec2ba0bd2e326edf809ba92efd4c0c3436c46f11dfe622cb1a4#rd) ![](/assets/new.png)  
+- [2022-10-19-玉伯：聊聊我在阿里做前端的这-12-年](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518245&idx=1&sn=adb9d7c8c817e174bb75f9261986703f&chksm=f9523d66ce25b470763ef85f8ec2ba0bd2e326edf809ba92efd4c0c3436c46f11dfe622cb1a4#rd)  
 - [2022-10-17-你不需要Next.js（和SSR）](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518234&idx=1&sn=e4663099cd695e8835db34c1ff83c4a2&chksm=f9523d59ce25b44f5d4ce468b3da97301349350c2d7f30acf9806667cd616a337c610092de7a#rd)  
 - [2022-10-13-React：我爱你，但是你越来越让我失望了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518165&idx=1&sn=1055dc0466d94383824674e68eb4cc67&chksm=f9523296ce25bb80ba4fe69066fc548a4404a960fe0a29f37d88b23b0d61d494bf9172140839#rd)  
 - [2022-10-10-基于Deno的新交互框架：Fresh如何改善用户体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518164&idx=1&sn=c9e5e7f6919f3a250ced2a7a36a48daf&chksm=f9523297ce25bb81fc6f2ceb2ed72971308f1eeaa05b05a2a9d6f338dfaee39eeff3170528e3#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-10-20-你可能不知道的-npm-实用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487057&idx=1&sn=259c850708b4f970823b67e7f063e877&chksm=ce461bc0f93192d6db96eea47cde6dfe6b1a3ca96c3fa842ec85a19ba6e2fbce6892429b5791#rd) ![](/assets/new.png)  
 - [2022-10-19-构建-webpack5-知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487055&idx=1&sn=2ee65c91cfb69f0fe8bb2ddc4b192a2e&chksm=ce461bdef93192c8b4ef71a94b692b33c8764cd8c9f3bcbac88fec06a6c4c3d0769109819bc3#rd)  
 - [2022-10-18-真给力！字节跳动内部前端开发手册（完整版）开放下载！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487053&idx=1&sn=ce7064e3b47495d487140170c0fd2b58&chksm=ce461bdcf93192cae2f558194d5202d40e5111e3ce37baf84ebd37c3f97fddf5fea1b8c8c9c8#rd)  
 - [2022-10-16-你不知道的React-18-新特性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487048&idx=1&sn=aa6685f4b6160666a1f1d3ecb54ce195&chksm=ce461bd9f93192cf784596acf0b326951889f85d7696f88236dc9742259472ace04e7cdfd8dc#rd)  
@@ -210,7 +211,6 @@
 - [2022-09-25-前端工程师是做什么的？前景怎么样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486995&idx=1&sn=98be79706835e4a1498928b7a371571e&chksm=ce461b82f93192942cd28ee9ce4d75636cf29ce4f14ee3a4031ed6ea66932b29c6b5eb21cf65#rd)  
 - [2022-09-23-前端必备的-HTTP-知识！看这篇就够了！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486991&idx=1&sn=d778ea79070680545de70cd711494988&chksm=ce461b9ef9319288932ef6c7bdf9cf499bd0b964912f53e7d8c0d3312a57c3a73d23340e4128#rd)  
 - [2022-09-22-手把手教你实现一个常用的-antd-form-组件](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486989&idx=1&sn=822baa1dae710220dbfa2b428f3e3554&chksm=ce461b9cf931928a28ad28bae35f5a2e98bba90e7f3785aa2be5c8b9adb3e4f387cd243c2261#rd)  
-- [2022-09-21-慎用-JSON.stringify！！！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486987&idx=1&sn=913a5deb56a520259a96d069f50e5e3d&chksm=ce461b9af931928c2f72880806acd32a67bf04fd3f5d2e44167c140261127fb89579705e70fb#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
