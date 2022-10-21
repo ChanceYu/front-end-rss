@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-21 12:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-21 18:00:36，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2022-10-19-【第2757期】软件架构的23个基本原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=1&sn=056f647e7ce691d20acfac11cb5fe736&chksm=bd4927aa8a3eaebc2a016c772cc4c5012ac00d10a6c1168d9d2dd033c035e29efac9bb8c4c7c#rd)  
+- [2022-10-21-【第2759期】异步分片计算在腾讯文档的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=1&sn=d29f5c16683582fc511885aaf8146ec7&chksm=bd4927db8a3eaecdfac32f1ccffc3c62c7902da98be4222b1081c8c55c120c5db1801d535359#rd) ![](/assets/new.png)  
+- [2022-10-21-【早说】不说一定没机会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=2&sn=4cf5a8ad6a98669c53600e4e9c6deba0&chksm=bd4927db8a3eaecde46b9f7326933077a858d95e2cc690b3ce71c15d93ff052cb14fd2ae9643#rd) ![](/assets/new.png)  
 - [2022-10-19-超级访谈：对话玉伯](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=2&sn=38bbde56426f84c39b9d8bd53224e712&chksm=bd4927aa8a3eaebc6c525ecff9f6ad1492c71f508703dbc84e0a3149b12db94cade94a1e773c#rd)  
+- [2022-10-19-【第2757期】软件架构的23个基本原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=1&sn=056f647e7ce691d20acfac11cb5fe736&chksm=bd4927aa8a3eaebc2a016c772cc4c5012ac00d10a6c1168d9d2dd033c035e29efac9bb8c4c7c#rd)  
 - [2022-10-18-【第2756期】CSS-也能自动补全字符串？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258405&idx=1&sn=0b152199cccbf20c836963df6a768b69&chksm=bd4927a18a3eaeb72ed83b4f1af6d17f653e8e2e94df7716786e35308a36bb5df33535271c2c#rd)  
 - [2022-10-17-【第2755期】-一个检测-JS-内存泄漏的神器---MemLab](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258387&idx=1&sn=70dcc0763f9ab68bbade22b8358fede0&chksm=bd4927978a3eae81f12459b16eeab8131dadb96ecd83e16f65d2346acd0c6ec266e368c5c549#rd)  
 - [2022-10-16-【第2754期】从-Signals-看响应式状态管理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258383&idx=1&sn=a4006638a07c1709ffeafa102eab0606&chksm=bd49278b8a3eae9d9dd99cfdab7debe32de078474ee13af4adce8f864570e3a472e1b8edd9a2#rd)  
-- [2022-10-14-【第2752期】CSS-有了:has伪类可以做些什么？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258353&idx=1&sn=06f308223da3a2b40caff23c21d7fae1&chksm=bd4924758a3ead6372ed0d96ce3a16897755c884d0c1fa8330cfae807c1226829741c71e0123#rd)  
 - [2022-10-14-【开源】Mpx2.8-版本正式发布，使用组合式-API-开发小程序](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258353&idx=2&sn=d90b181317df3791a7170ca1ab3d5954&chksm=bd4924758a3ead6396e33bc668c090dd6502363ed99a8f3ec2ea120db6b8843c73eca8fe1c46#rd)  
-- [2022-10-13-【图书】前端性能揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258318&idx=2&sn=7550ac7cbae5d4fe907ccc4802b094dd&chksm=bd49244a8a3ead5c92c4c5ae985f363bd19a668964c291409bb2bfef268e5266216b45e43c20#rd)  
+- [2022-10-14-【第2752期】CSS-有了:has伪类可以做些什么？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258353&idx=1&sn=06f308223da3a2b40caff23c21d7fae1&chksm=bd4924758a3ead6372ed0d96ce3a16897755c884d0c1fa8330cfae807c1226829741c71e0123#rd)  
 - [2022-10-13-【第2751期】用-CSS-来偷数据---CSS-injection（下）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258318&idx=1&sn=3db51b75ea787c4f44f631187e1f0539&chksm=bd49244a8a3ead5cdfd4a199860b78f2ac0798a4f92dfd3a02d1f88ef751275d9989bf3056f7#rd)  
+- [2022-10-13-【图书】前端性能揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258318&idx=2&sn=7550ac7cbae5d4fe907ccc4802b094dd&chksm=bd49244a8a3ead5c92c4c5ae985f363bd19a668964c291409bb2bfef268e5266216b45e43c20#rd)  
 - [2022-10-11-【第2749期】-Islands-Architecture（下）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258294&idx=1&sn=4f924f555a68fba44fcb6ea224de7609&chksm=bd4924328a3ead24f366e0030ac3945d351ead80e7906709de4048785292d81ff6334b3a8a2e#rd)  
 - [2022-10-10-【第2748期】ToB产品化前端团队技术之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258285&idx=1&sn=fcaecfacd3edb3bdb72fafb4ea9947b3&chksm=bd4924298a3ead3f320903c009e54e51b7ce869040c15284c5231a4e9d04989631425336bdc7#rd)  
 - [2022-10-09-【第2747期】Islands-Architecture（上）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258270&idx=1&sn=ccec1124ba35dc19b03cfb510e573196&chksm=bd49241a8a3ead0cc142c0b0e82b4822bc09cb417337c4936bbafd507899fad01d208dc505ff#rd)  
 - [2022-10-08-【第2746期】聊一聊前端的「插件」](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258263&idx=1&sn=52a1d2787d28566634ca5bf12052f78e&chksm=bd4924138a3ead05835126dfdd4dbbcfad897163fef4e06a8676d09f53f8c8167995ce91632d#rd)  
 - [2022-09-30-【第2745期】React-可组合-API-的设计原则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258254&idx=1&sn=c6484be60f0be9723e44d35639fab27b&chksm=bd49240a8a3ead1c7b5c402696b7d2400b523979878a3d8ae7e301a5cb2a90536902454b351d#rd)  
-- [2022-09-29-【图书】互联网大厂晋升指南：从P5到P9的升级攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258249&idx=2&sn=0fc7a58d01b7b67c80306234d7a5374d&chksm=bd49240d8a3ead1b1564368602752f7933c7a3e84553cfe81f5f47705f3e2c21a7664a5290b2#rd)  
 - [2022-09-29-【第2744期】更好的-React-SSR](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258249&idx=1&sn=8aa83200dc0c1ffaf85702131ee03536&chksm=bd49240d8a3ead1b96dbe193eeb33601ac99a02d806f7e115e82ae6c567175087c5121e9cc4d#rd)  
+- [2022-09-29-【图书】互联网大厂晋升指南：从P5到P9的升级攻略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258249&idx=2&sn=0fc7a58d01b7b67c80306234d7a5374d&chksm=bd49240d8a3ead1b1564368602752f7933c7a3e84553cfe81f5f47705f3e2c21a7664a5290b2#rd)  
 - [2022-09-28-【第2743期】Lath纯前端容器打造页面间的无缝平滑连接体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258220&idx=1&sn=1554e43c08d9fcdc4d873c77589855fc&chksm=bd4924e88a3eadfe4824994f1ee9db84c32f69deaabc1dd8892d069a7819d32aa7321d1a32ba#rd)  
-- [2022-09-27-京东NutUI-邀您共建](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258150&idx=2&sn=ded11e0e8ab6e73c7198217fbd862220&chksm=bd4924a28a3eadb481671b105fd6826d89f5cfc27a937144879b5dc69522b2e2e20afa529edb#rd)  
 - [2022-09-27-【第2742期】Remesh-介绍：用以开发大型复杂-Web-App-的-DDD-框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258150&idx=1&sn=a60a44afe05c0d10cdfa47d92310e8a2&chksm=bd4924a28a3eadb4f8f75a34a21a055d3c6e584ddd087ba3a9e35b1798b563e15eba54a0a48c#rd)  
-- [2022-09-26-【第2741期】JavaScript-&-Node.js-的测试最佳实践---第五章：持续集成（CI）以及其他质量度量手段](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258068&idx=1&sn=9f93214ddb3da45789d3cf0d463f4c98&chksm=bd4925508a3eac4658f5aef4c11029f4f4bb75f26945cb349fef8363107052b55fcc3536f3db#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,6 +160,7 @@
 </summary>
 
 
+- [2022-10-19-玉伯：聊聊我在阿里做前端的这-12-年](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518245&idx=1&sn=adb9d7c8c817e174bb75f9261986703f&chksm=f9523d66ce25b470763ef85f8ec2ba0bd2e326edf809ba92efd4c0c3436c46f11dfe622cb1a4#rd) ![](/assets/new.png)  
 - [2022-10-17-你不需要Next.js（和SSR）](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518234&idx=1&sn=e4663099cd695e8835db34c1ff83c4a2&chksm=f9523d59ce25b44f5d4ce468b3da97301349350c2d7f30acf9806667cd616a337c610092de7a#rd)  
 - [2022-10-13-React：我爱你，但是你越来越让我失望了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518165&idx=1&sn=1055dc0466d94383824674e68eb4cc67&chksm=f9523296ce25bb80ba4fe69066fc548a4404a960fe0a29f37d88b23b0d61d494bf9172140839#rd)  
 - [2022-10-10-基于Deno的新交互框架：Fresh如何改善用户体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518164&idx=1&sn=c9e5e7f6919f3a250ced2a7a36a48daf&chksm=f9523297ce25bb81fc6f2ceb2ed72971308f1eeaa05b05a2a9d6f338dfaee39eeff3170528e3#rd)  
@@ -167,8 +168,8 @@
 - [2022-09-28-我是如何开发和部署一个Chrome扩展程序的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518103&idx=1&sn=ae18b1ca5a783a30b7edfb058e624466&chksm=f95232d4ce25bbc2717096d4cb333fc33ad53c059589ae97d6ede3cb545f7b8b6248cf67c250#rd)  
 - [2022-09-25-Mozilla控诉苹果谷歌微软搞垄断；Shopee-中国宣布裁员上热搜；钉钉总裁称非常讨厌红点和DING消息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518064&idx=1&sn=1aabc4ccf8ed1b8b569a464f343e6fc4&chksm=f9523233ce25bb25c742739f18f14b003711653ccad6887d17c118133d54004fd52d7d17f66b#rd)  
 - [2022-09-23-人人都用Bootstrap的年代过去了，如今我很难向开发者们推荐Bootstrap-5](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518041&idx=1&sn=3c76a116c971fa96afb56b61eaccd746&chksm=f952321ace25bb0c8b2f010c3a76d32bbc0c5eb267c4e1293241a054f9f72debf79e0d27b4d8#rd)  
-- [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
 - [2022-09-21-如何用-JavaScript-打造自己的知识体系？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=1&sn=a28c6faf1eaab9849ad666464dd24e21&chksm=f952327dce25bb6bd47b512b61a13932082b70ac72eda03f290704b636662abcfa5bf4711366#rd)  
+- [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
 - [2022-09-19-Meta开源MemLab：轻松解决JavaScript内存泄漏，有效减少50%的系统崩溃](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517984&idx=1&sn=ca9ee5fe833aea911f8ffe8efc7087b5&chksm=f9523263ce25bb75243354b9cc67880d031fb317a4fa3b01f974fb4c96a8b1c885a6dc1117fc#rd)  
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd)  
 - [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd)  
@@ -179,7 +180,6 @@
 - [2022-09-07-我庆幸果断放弃了SwiftUI：它还不够成熟](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517793&idx=1&sn=3ae2ca68b6324f0943fbf3d801b1b8a9&chksm=f9523322ce25ba3401626f2861bf37212611d1a1c2648f28c1a02a284e3a758012ba4e4c6c3c#rd)  
 - [2022-09-05-Node之父：Oracle，请交出JavaScript的商标](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517765&idx=1&sn=0cf854719110542fcf77a57de0c2b030&chksm=f9523306ce25ba10a12b18a41bc5c8b99eab6ca62ae1ce10c91a22e4fe0b542150ffb5458490#rd)  
 - [2022-09-04-东软集团回应成都核酸系统异常；GitHub即将下线Trending功能；Flutter-3.3发布；英伟达披露芯片事件最新进展](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517754&idx=1&sn=d1c6cb20aae550bb810c05f881d557e9&chksm=f9523379ce25ba6f2c48a428c59e54bde179b79884b7297348173d63fe31b81275083380959a#rd)  
-- [2022-09-02-网易云音乐的前端基础设施是如何优雅地走向统一的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517578&idx=1&sn=e4ea22588309629b9551e213564225fe&chksm=f95230c9ce25b9df243e248a184e34f3f6b7f9ec3f1a3a30939ac96a98aca9190c6a2a46f306#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html) ![](/assets/new.png)  
+- [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
 - [2022-09-30-科技爱好者周刊（第-225-期）：NPC-演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)  
 - [2022-09-23-科技爱好者周刊（第-224-期）：Figma-为什么赢了-Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)  
