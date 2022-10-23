@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-23 22:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-24 06:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -12,6 +12,7 @@
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609) 
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608) 
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579) 
+- [2022-10-23-【第2761期】TypeScript-这十年](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258504&idx=1&sn=3c786819819c5d8cab84c25b77b7f839&chksm=bd49270c8a3eae1aff357af3e1bad3a09ec2744d9eef370ad790d6c82c4dd6613d085ceaa653#rd) 
 - [2022-08-11-【第2698期】浅谈-TypeScript-类型系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257150&idx=1&sn=0ccc089da5435ef91cff262b051f8b66&chksm=bd4920ba8a3ea9ac4a0a484281f61d25ca618a70e5ecb4f929f53cb94f73d34a6451e3f74355#rd) 
 - [2022-07-24-【第2680期】使用“const”优化-TypeScript-中的枚举](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256606&idx=1&sn=cb5c5cfc4de4043f70b02da99fe9286f&chksm=bd492e9a8a3ea78cd891653b4d939a128dcdb5d800ab66012262b902d57f42ba4a23da8facbe#rd) 
 - [2022-07-22-【第2678期】何时应该使用TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256553&idx=2&sn=101641d9a58055ed5b40b0496a197ee6&chksm=bd492f6d8a3ea67b810dbdddff343d925a6063b7dde3326f8f503079497149615cfa5d37612f#rd) 
