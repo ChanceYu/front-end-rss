@@ -35948,6 +35948,11 @@
     "title": "阮一峰的网络日志",
     "items": [
       {
+        "title": "最简单的 Git 服务器",
+        "link": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
+        "date": "2022-10-23"
+      },
+      {
         "title": "科技爱好者周刊（第 227 期）：脸书的公司入职教育",
         "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html",
         "date": "2022-10-21"

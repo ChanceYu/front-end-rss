@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-22 18:00:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-23 22:00:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-10-22-【第2760期】JavaScript-Web-框架的“新浪潮”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258497&idx=1&sn=5b8d29c3d9d509c9e3acacdb0fe4718a&chksm=bd4927058a3eae1335063e051505987bc1e2c3713c3b5a697bf9d4b4524173bf251a71034aa5#rd) ![](/assets/new.png)  
-- [2022-10-22-【早说】万事无他,唯手熟尔](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258497&idx=2&sn=2c1f48fd622428d99a76f566dcf7a015&chksm=bd4927058a3eae139cd02dcca7c3f9d4235d24c408eb37c8ec1babc077c42b7f088823d00921#rd) ![](/assets/new.png)  
+- [2022-10-22-【第2760期】JavaScript-Web-框架的“新浪潮”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258497&idx=1&sn=5b8d29c3d9d509c9e3acacdb0fe4718a&chksm=bd4927058a3eae1335063e051505987bc1e2c3713c3b5a697bf9d4b4524173bf251a71034aa5#rd)  
+- [2022-10-22-【早说】万事无他,唯手熟尔](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258497&idx=2&sn=2c1f48fd622428d99a76f566dcf7a015&chksm=bd4927058a3eae139cd02dcca7c3f9d4235d24c408eb37c8ec1babc077c42b7f088823d00921#rd)  
 - [2022-10-21-【早说】不说一定没机会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=2&sn=4cf5a8ad6a98669c53600e4e9c6deba0&chksm=bd4927db8a3eaecde46b9f7326933077a858d95e2cc690b3ce71c15d93ff052cb14fd2ae9643#rd)  
 - [2022-10-21-【第2759期】异步分片计算在腾讯文档的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258463&idx=1&sn=d29f5c16683582fc511885aaf8146ec7&chksm=bd4927db8a3eaecdfac32f1ccffc3c62c7902da98be4222b1081c8c55c120c5db1801d535359#rd)  
 - [2022-10-19-【第2757期】软件架构的23个基本原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258414&idx=1&sn=056f647e7ce691d20acfac11cb5fe736&chksm=bd4927aa8a3eaebc2a016c772cc4c5012ac00d10a6c1168d9d2dd033c035e29efac9bb8c4c7c#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) ![](/assets/new.png)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
 - [2022-09-30-科技爱好者周刊（第-225-期）：NPC-演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)  
@@ -365,7 +366,6 @@
 - [2022-07-08-科技爱好者周刊（第-213-期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)  
 - [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)  
 - [2022-06-29-云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)  
-- [2022-06-24-科技爱好者周刊（第-211-期）：虚拟商品可以拉动-GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

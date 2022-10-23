@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-22 18:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-23 22:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -52,6 +52,7 @@
 - [2022-01-09-如果你还不会用-git-回滚代码，那你一定要来看看](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502488&idx=1&sn=c663ce5e11a0434fc051d2b0bf3312d2&chksm=f992cc49cee5455f6d17c6c5349f5c347a1444cfb4c2eda4757d65773ea5513ea828b27eabbe#rd) 
 - [2017-05-18-如何实现一个-Git-Diff-解析器](https://fed.taobao.org/blog/2017/05/18/how-to-display-git-diff/) 
 - [2022-08-31-gitee上撸了个类似飞书OKR输入框的@提及项目](https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/) 
+- [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html) 
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) 
 - [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html) 
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) 
