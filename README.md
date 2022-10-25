@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 08:00:29，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-25 12:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-10-25-【第2763期】接入成本最低微前端框架：京东零售micro-app](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258549&idx=1&sn=105a7003d2f20fcf8c90b55b8c6a4a9a&chksm=bd4927318a3eae272c0aaa6ba0171b28ee097c2e6202842e774a98c23299b97a8407d753ff0d#rd) ![](/assets/new.png)  
-- [2022-10-25-【早说】有效沟通：What、Why、How](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258549&idx=2&sn=9549fde2aeaf94b3512942a48b16846f&chksm=bd4927318a3eae2736869d1a59c5e3ce2f49612d193e54185ee2bc8dae6d06fa702401ad11d2#rd) ![](/assets/new.png)  
+- [2022-10-25-【第2763期】接入成本最低微前端框架：京东零售micro-app](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258549&idx=1&sn=105a7003d2f20fcf8c90b55b8c6a4a9a&chksm=bd4927318a3eae272c0aaa6ba0171b28ee097c2e6202842e774a98c23299b97a8407d753ff0d#rd)  
+- [2022-10-25-【早说】有效沟通：What、Why、How](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258549&idx=2&sn=9549fde2aeaf94b3512942a48b16846f&chksm=bd4927318a3eae2736869d1a59c5e3ce2f49612d193e54185ee2bc8dae6d06fa702401ad11d2#rd)  
 - [2022-10-24-【课程】深入浅出-Vite](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=3&sn=bbf1284034da9070774b163c5e81cacd&chksm=bd4927188a3eae0e3433134e35cc5c2dd8b8d2dc6d56d2a15e65a9a77df9349625d5b2b2510a#rd)  
 - [2022-10-24-【早说】边界，让过来了吗？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=2&sn=673c2daa25ab077a0dee91a3006596de&chksm=bd4927188a3eae0e338beb9a88476f69e8abeaa761e879815c66e355b5ab512b652c3063827a#rd)  
 - [2022-10-24-【第2762期】ViteConf-2022回顾：Vite是如何诞生的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=1&sn=0b4819ecf73d4a9dd0d36431b494d6a5&chksm=bd4927188a3eae0ebebcd055ba22c73f0b2ede66f052a154a64747122762987deda63f4829a8#rd)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-10-24-看源码的第一步，我猜很多人搞错了~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487059&idx=1&sn=615ac44a2e087a9b66224865772b0b88&chksm=ce461bc2f93192d4ddf7d6442b4f8b0df00b7629d615b8f8742ac75e669a6bc523b511160ff4#rd) ![](/assets/new.png)  
+- [2022-10-24-看源码的第一步，我猜很多人搞错了~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487059&idx=1&sn=615ac44a2e087a9b66224865772b0b88&chksm=ce461bc2f93192d4ddf7d6442b4f8b0df00b7629d615b8f8742ac75e669a6bc523b511160ff4#rd)  
 - [2022-10-20-你可能不知道的-npm-实用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487057&idx=1&sn=259c850708b4f970823b67e7f063e877&chksm=ce461bc0f93192d6db96eea47cde6dfe6b1a3ca96c3fa842ec85a19ba6e2fbce6892429b5791#rd)  
 - [2022-10-19-构建-webpack5-知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487055&idx=1&sn=2ee65c91cfb69f0fe8bb2ddc4b192a2e&chksm=ce461bdef93192c8b4ef71a94b692b33c8764cd8c9f3bcbac88fec06a6c4c3d0769109819bc3#rd)  
 - [2022-10-18-真给力！字节跳动内部前端开发手册（完整版）开放下载！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487053&idx=1&sn=ce7064e3b47495d487140170c0fd2b58&chksm=ce461bdcf93192cae2f558194d5202d40e5111e3ce37baf84ebd37c3f97fddf5fea1b8c8c9c8#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) ![](/assets/new.png)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
@@ -365,7 +366,6 @@
 - [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)  
 - [2022-07-08-科技爱好者周刊（第-213-期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)  
 - [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)  
-- [2022-06-29-云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
