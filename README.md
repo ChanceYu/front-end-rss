@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-25 12:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-25 22:01:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,13 +18,13 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -160,6 +160,7 @@
 </summary>
 
 
+- [2022-10-24-当“增加人员”不足以解决问题，你就该考虑应用“微前端”了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518305&idx=1&sn=d05b9e6527070847d6d08288eedb6cd3&chksm=f9523d22ce25b4342b8eb2992772b96ea64aa15ae17fa0b22a5f912e29e5ea7af7e25c8283ab#rd) ![](/assets/new.png)  
 - [2022-10-21-WebAssembly的核心语言特性与未来发展](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518281&idx=1&sn=810556aae932ed4fe70925bea32a168f&chksm=f9523d0ace25b41ce7fdcf4d5e7fdbf2d1aef4600ba622f19d36df95b0302b90c84388a5dae7#rd)  
 - [2022-10-19-玉伯：聊聊我在阿里做前端的这-12-年](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518245&idx=1&sn=adb9d7c8c817e174bb75f9261986703f&chksm=f9523d66ce25b470763ef85f8ec2ba0bd2e326edf809ba92efd4c0c3436c46f11dfe622cb1a4#rd)  
 - [2022-10-17-你不需要Next.js（和SSR）](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518234&idx=1&sn=e4663099cd695e8835db34c1ff83c4a2&chksm=f9523d59ce25b44f5d4ce468b3da97301349350c2d7f30acf9806667cd616a337c610092de7a#rd)  
@@ -169,8 +170,8 @@
 - [2022-09-28-我是如何开发和部署一个Chrome扩展程序的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518103&idx=1&sn=ae18b1ca5a783a30b7edfb058e624466&chksm=f95232d4ce25bbc2717096d4cb333fc33ad53c059589ae97d6ede3cb545f7b8b6248cf67c250#rd)  
 - [2022-09-25-Mozilla控诉苹果谷歌微软搞垄断；Shopee-中国宣布裁员上热搜；钉钉总裁称非常讨厌红点和DING消息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518064&idx=1&sn=1aabc4ccf8ed1b8b569a464f343e6fc4&chksm=f9523233ce25bb25c742739f18f14b003711653ccad6887d17c118133d54004fd52d7d17f66b#rd)  
 - [2022-09-23-人人都用Bootstrap的年代过去了，如今我很难向开发者们推荐Bootstrap-5](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518041&idx=1&sn=3c76a116c971fa96afb56b61eaccd746&chksm=f952321ace25bb0c8b2f010c3a76d32bbc0c5eb267c4e1293241a054f9f72debf79e0d27b4d8#rd)  
-- [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
 - [2022-09-21-如何用-JavaScript-打造自己的知识体系？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=1&sn=a28c6faf1eaab9849ad666464dd24e21&chksm=f952327dce25bb6bd47b512b61a13932082b70ac72eda03f290704b636662abcfa5bf4711366#rd)  
+- [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
 - [2022-09-19-Meta开源MemLab：轻松解决JavaScript内存泄漏，有效减少50%的系统崩溃](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517984&idx=1&sn=ca9ee5fe833aea911f8ffe8efc7087b5&chksm=f9523263ce25bb75243354b9cc67880d031fb317a4fa3b01f974fb4c96a8b1c885a6dc1117fc#rd)  
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd)  
 - [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd)  
@@ -179,7 +180,6 @@
 - [2022-09-11-微软为Vue.js推出Power-BI组件；谷歌CEO暗示将裁员；微信输入法体积524MB；React-Native-0.7发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517833&idx=1&sn=272e06098519b6ca55e5ee31ed9fad6e&chksm=f95233cace25badcbbfb11cb6e076fb1b06ce74c7140bfd8016e68e34e2694b09993e9be0fdc#rd)  
 - [2022-09-09-React-老矣，我建议大家用用别的框架](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517809&idx=1&sn=cb16d78bf9d1ea4557d12840cb48858d&chksm=f9523332ce25ba247fb3695ed2f0c4114031736b4846501e102936f0670ca154aa7d4d2fad91#rd)  
 - [2022-09-07-我庆幸果断放弃了SwiftUI：它还不够成熟](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517793&idx=1&sn=3ae2ca68b6324f0943fbf3d801b1b8a9&chksm=f9523322ce25ba3401626f2861bf37212611d1a1c2648f28c1a02a284e3a758012ba4e4c6c3c#rd)  
-- [2022-09-05-Node之父：Oracle，请交出JavaScript的商标](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517765&idx=1&sn=0cf854719110542fcf77a57de0c2b030&chksm=f9523306ce25ba10a12b18a41bc5c8b99eab6ca62ae1ce10c91a22e4fe0b542150ffb5458490#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html) ![](/assets/new.png)  
+- [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
