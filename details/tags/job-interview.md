@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-27 06:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-27 18:01:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -345,6 +345,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2022-10-27-七万奖金，字节Offer，iPhone-14-Pro-等惊喜奖品，四大赛题，邀你码上掘金！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487098&idx=1&sn=01ee03a1d29af9479d3506037e2f7b3e&chksm=ce461bebf93192fdb65c33cc498ebbc8bbdef288d516e2ca830138a82e048e5d2633deaf09ae#rd) 
 - [2022-09-29-面试题分享，修改数据无法更新UI](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487005&idx=1&sn=f87e7b470fbc6c192946f2cc8f9a5760&chksm=ce461b8cf931929a68f900aa7365e4b8a8ec1639e6c2831b5448d0ca22134b137501b0365937#rd) 
 - [2022-09-06-我捡到宝了！2022版前端面试上岸手册，最新最细致！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486949&idx=1&sn=4ba648783c66d0070d4419905f304302&chksm=ce461874f931916284bb0228747ab6718f07215fac6829081feedbe835d034ba096fef88c067#rd) 
 - [2022-08-31-前端offer收割机](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486924&idx=1&sn=3043ced6a2aef69b49dc83b5a7d6cd23&chksm=ce46185df931914b48c77f1c6f423e7c2b3780132b8c515bb4c9c1911dc934027b6210d38728#rd) 
