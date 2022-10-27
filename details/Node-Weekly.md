@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-10-21 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-27 22:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460) 
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459) 
 - [2022-10-13-✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458) 
 - [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457) 

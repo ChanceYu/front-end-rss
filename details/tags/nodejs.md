@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-10-27 18:01:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-27 22:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460) 
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459) 
 - [2022-09-29-Keep-calm-and-carry-on-using-Node](https://nodeweekly.com/issues/456) 
 - [2022-09-22-The-Node-testing-framework-we-were-sleeping-on](https://nodeweekly.com/issues/455) 
