@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 08:00:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-28 12:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-10-28-【第2766期】InnerEye低代码大屏：响应式布局实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258588&idx=1&sn=40e2f93f28e6808d620a9a0310c4bb80&chksm=bd4927588a3eae4ec483d54be9a05dbcf0ced787763fde627ed8b6ada03698c36ca16e1ed59c#rd) ![](/assets/new.png)  
-- [2022-10-28-【早说】最真实的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258588&idx=2&sn=b79f43699668937ebf1640c89e8f00d7&chksm=bd4927588a3eae4ec182330cc8218d0bc6c5114632e9b3513af6fd935ec65537806ee587f176#rd) ![](/assets/new.png)  
+- [2022-10-28-【第2766期】InnerEye低代码大屏：响应式布局实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258588&idx=1&sn=40e2f93f28e6808d620a9a0310c4bb80&chksm=bd4927588a3eae4ec483d54be9a05dbcf0ced787763fde627ed8b6ada03698c36ca16e1ed59c#rd)  
+- [2022-10-28-【早说】最真实的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258588&idx=2&sn=b79f43699668937ebf1640c89e8f00d7&chksm=bd4927588a3eae4ec182330cc8218d0bc6c5114632e9b3513af6fd935ec65537806ee587f176#rd)  
 - [2022-10-27-【早说】写简历：全都是优点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258568&idx=3&sn=5e5e54dd82359dcce91180d69e0d1a98&chksm=bd49274c8a3eae5aaea9cf753338374526f8ce66f8093b4aeb3dcdf2f70d14bb85cc3d8806d8#rd)  
 - [2022-10-27-【招聘】苏州同程艺龙招前端开发工程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258568&idx=2&sn=c64e0d794de816f1422e8a5ffd65301d&chksm=bd49274c8a3eae5ac3af60a5b1e75f4ae8a11d3709d4eafdf9d90dff7c3c2fe2fb0a7fda9c5c#rd)  
 - [2022-10-27-【第2765期】switch-有四样写法你知道么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258568&idx=1&sn=c0f0c7c5c3a0a356f9eb7e1fdb6631ee&chksm=bd49274c8a3eae5a149fc25d970bce1e37ae33a16ce1fb7cac0578de4013a144064e4f03cea6#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) ![](/assets/new.png)  
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
@@ -365,7 +366,6 @@
 - [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)  
 - [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)  
 - [2022-07-08-科技爱好者周刊（第-213-期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)  
-- [2022-07-01-科技爱好者周刊（第-212-期）：人生不短](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
