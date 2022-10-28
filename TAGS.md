@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-10-28 12:00:32。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-10-29 06:00:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -615,6 +615,7 @@
 
 
 
+- [【JavaScript-Weekly】Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612)
 - [【前端早读课】【第2655期】携程基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=2&sn=b194a771eba95537896ff441a411c9d7&chksm=bd492d2b8a3ea43d6b6d1057320b41196add6c18b93fb863ffb3d425fdb4ea1bd8519d16eb79#rd)
 - [【前端早读课】【第2604期】前后端接口规范---RESTful-版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254080&idx=1&sn=3ab86ecf19551ab696ee4d3f19da4f52&chksm=bd4934c48a3ebdd2070fdaf9880bb22cac6b344ad234b337153516d7d0df6899f4c67ffe9837#rd)
 - [【前端早读课】【图书】Docker实战派---容器入门七步法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254038&idx=2&sn=bc3af86be1c17c27873da39dc82c9d46&chksm=bd4934928a3ebd845481515612c52fd0957f1daeb3c9024715739ad332766a82a03469201ca6#rd)
@@ -634,7 +635,6 @@
 - [【前端大全】不记得-Git-命令？-懒人版-Git-值得拥有！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=2&sn=833ffb029cb5e90cd6e21fca4a005bbf&chksm=8022ea26b7556330c2ea0174e83766f4153c4ca77ab26e6794698e8a271803d15c6fb27e0230#rd)
 - [【前端大全】万字总结，体系化带你全面认识-Nginx-！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651573081&idx=2&sn=e3541ba364f1d40384b292704896452b&chksm=80251c98b752958e1cfc60b78546fa76160e229a27efac3cd22adb7645d868436daf2c6e1a9c&scene=27#wechat_redirect)
 - [【前端大全】GraphQL-实战篇之前端+后端](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651570722&idx=2&sn=73a791e6dc29666a74d4763579ce4983&chksm=802515e3b7529cf532e28013a553b0249748e89d09b1189ecaed28c216ded4036e34b691a993&scene=27#wechat_redirect)
-- [【前端大全】我为什么要放弃-RESTful，选择拥抱-GraphQL](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651569116&idx=1&sn=030d3748f6b62a61640952648fa042f1&chksm=80256c1db752e50b3d6dce522dc7f0ce51463039fd89ae7633627273b6069e6a577fe7a62260&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

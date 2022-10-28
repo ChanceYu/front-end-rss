@@ -233,6 +233,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Turbo-charged incremental bundling au Rust",
+        "link": "https://javascriptweekly.com/issues/612",
+        "date": "2022-10-28"
+      },
+      {
         "title": "🪜 Decorating with Dr. Axel",
         "link": "https://javascriptweekly.com/issues/611",
         "date": "2022-10-21"

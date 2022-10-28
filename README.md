@@ -10,12 +10,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-10-28 12:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-10-29 06:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) ![](/assets/new.png)  
 - [2022-10-21-🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611)  
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610)  
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)  
@@ -86,7 +87,6 @@
 - [2022-06-24-What's-new-in-ECMAScript-2022?](https://javascriptweekly.com/issues/595)  
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)  
 - [2022-06-10-Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)  
-- [2022-06-03-Sure,-you-can-make-games-in-Word-with-JavaScript-now.](https://javascriptweekly.com/issues/592)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html) ![](/assets/new.png)  
+- [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
