@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-03 22:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 06:00:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461) ![](/assets/new.png)  
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460)  
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459)  
 - [2022-10-13-✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)  
@@ -55,7 +56,6 @@
 - [2022-06-30-Should-Node.js-support-Web-Workers?](https://nodeweekly.com/issues/444)  
 - [2022-06-23-Node.js-in-the-stream.](https://nodeweekly.com/issues/443)  
 - [2022-06-16-Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)  
-- [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-11-03-某大厂一面：讲一下void-0是个啥？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487171&idx=1&sn=d125d4a70c020137698fc7756c82aeb6&chksm=ce461b52f9319244e31fae8cefe609cc308d1df959e279fb05ca23718012383e5a8558720a70#rd) ![](/assets/new.png)  
+- [2022-11-03-某大厂一面：讲一下void-0是个啥？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487171&idx=1&sn=d125d4a70c020137698fc7756c82aeb6&chksm=ce461b52f9319244e31fae8cefe609cc308d1df959e279fb05ca23718012383e5a8558720a70#rd)  
 - [2022-11-02-《-关于我用拓展运算符把项目搞崩这件事-》](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487169&idx=1&sn=e9b97e7b993e0cd66f635b34026cef0d&chksm=ce461b50f931924675c93b9d98500290249eb4931fdc2ff5c0a4d78eb24c740cacdea4739fe2#rd)  
 - [2022-11-01-今天就给大家分享我的几位前端朋友吧~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487167&idx=1&sn=7f8ba5baf716bc1735b713efdd3bb515&chksm=ce461b2ef9319238f4b922b127342d6f3324cb9a3c0814b630b0aef90260cfb51dd614e43e03#rd)  
 - [2022-10-31-万恶的-eval-？很少人去了解它~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487163&idx=1&sn=2161014462f8a23d77393a39e0b1c1ea&chksm=ce461b2af931923c06e6fc5f50bb27fa70207303a3c7e431b15b5f5ab3bcf36e8f541aea33de#rd)  

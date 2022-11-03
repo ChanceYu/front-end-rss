@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Getting Rusty with Node, but in a good way",
+        "link": "https://nodeweekly.com/issues/461",
+        "date": "2022-11-03"
+      },
+      {
         "title": "Node 18 goes LTS",
         "link": "https://nodeweekly.com/issues/460",
         "date": "2022-10-27"
