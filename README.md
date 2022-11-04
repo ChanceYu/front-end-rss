@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 12:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 18:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,12 +19,12 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-11-04-刚入职的程序员做不好哪些事情容易被开除？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487173&idx=1&sn=d2ffc6b6ffdabe45bdfa2267bd5b12c6&chksm=ce461b54f93192427f46d68e1dde2f109ae3159171072ab2c011219bb57ef6b1c0ae0c8f0d72#rd) ![](/assets/new.png)  
 - [2022-11-03-某大厂一面：讲一下void-0是个啥？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487171&idx=1&sn=d125d4a70c020137698fc7756c82aeb6&chksm=ce461b52f9319244e31fae8cefe609cc308d1df959e279fb05ca23718012383e5a8558720a70#rd)  
 - [2022-11-02-《-关于我用拓展运算符把项目搞崩这件事-》](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487169&idx=1&sn=e9b97e7b993e0cd66f635b34026cef0d&chksm=ce461b50f931924675c93b9d98500290249eb4931fdc2ff5c0a4d78eb24c740cacdea4739fe2#rd)  
 - [2022-11-01-今天就给大家分享我的几位前端朋友吧~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487167&idx=1&sn=7f8ba5baf716bc1735b713efdd3bb515&chksm=ce461b2ef9319238f4b922b127342d6f3324cb9a3c0814b630b0aef90260cfb51dd614e43e03#rd)  
@@ -210,7 +211,6 @@
 - [2022-10-12-前端工程化那些事](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487019&idx=1&sn=731fe0fd8598b3008b4b44245da93dff&chksm=ce461bbaf93192ac5e84612e51d6da806d99660b85fdc8fc32f81032a56bcd8e5a5e76a50c5d#rd)  
 - [2022-10-10-彻底搞懂-JavaScript-执行机制](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487017&idx=1&sn=57703ad7c3e92f784bf5514c55da5d37&chksm=ce461bb8f93192aed0de2fec75168794ec48e62c3f8dc8882eb349ccb49747bdcd79f0593e4d#rd)  
 - [2022-10-09-你可能没有听说过-js中的-DOM操作还有这个:-HTMLCollection-和-NodeList](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487015&idx=1&sn=0cf5de5b845ff4045013e503c04b1c89&chksm=ce461bb6f93192a0db56856c1ca3adfa1585b0415d90b5fe42f6b677c687c9012b163cb2df8c#rd)  
-- [2022-10-08-12个可能你没见过，但非常实用的-HTML-标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487013&idx=1&sn=ebd90df4ce332dbb290d0c96bf8af0cb&chksm=ce461bb4f93192a21482decdda861ca3c15d26782827c00b01c2bf040a3bed22e01dd985ac9a#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) ![](/assets/new.png)  
+- [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
 - [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
