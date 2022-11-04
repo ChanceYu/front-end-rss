@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-04 08:00:28，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-04 12:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,9 +98,9 @@
 </summary>
 
 
-- [2022-11-04-【第2773期】全新的-React-组件设计理念-Headless-UI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=1&sn=b44187bbbf04ea8039929f71aa7ff1df&chksm=bd49262d8a3eaf3b109b7b26fead3cb2ff966b9df0466dda0fc6e8e1ed46f4d44209e3428864#rd) ![](/assets/new.png)  
-- [2022-11-04-【活动】第十七届-D2-技术大会，前端「聚变」而来！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=2&sn=ce801e9b0fc37b813e64e0b3c4151363&chksm=bd49262d8a3eaf3b8c5d4ba594dd1cbf5a45aeaf2bbdd71012eb39e84686b047efab6cb04050#rd) ![](/assets/new.png)  
-- [2022-11-04-【早说】工作模型：卡路里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=3&sn=ff6ad12d6cc41a6f3800b22ff608958d&chksm=bd49262d8a3eaf3b2dfe31c089b61bfa12f3c811585fb81643f5937da0f7d9ba45dcf442feba#rd) ![](/assets/new.png)  
+- [2022-11-04-【第2773期】全新的-React-组件设计理念-Headless-UI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=1&sn=b44187bbbf04ea8039929f71aa7ff1df&chksm=bd49262d8a3eaf3b109b7b26fead3cb2ff966b9df0466dda0fc6e8e1ed46f4d44209e3428864#rd)  
+- [2022-11-04-【活动】第十七届-D2-技术大会，前端「聚变」而来！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=2&sn=ce801e9b0fc37b813e64e0b3c4151363&chksm=bd49262d8a3eaf3b8c5d4ba594dd1cbf5a45aeaf2bbdd71012eb39e84686b047efab6cb04050#rd)  
+- [2022-11-04-【早说】工作模型：卡路里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=3&sn=ff6ad12d6cc41a6f3800b22ff608958d&chksm=bd49262d8a3eaf3b2dfe31c089b61bfa12f3c811585fb81643f5937da0f7d9ba45dcf442feba#rd)  
 - [2022-11-03-【早说】谁掌握标准制定权](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=4&sn=9d0f97917c7ebdb0b464c6458d34ec80&chksm=bd4926e88a3eaffe4d99a4d1657894dbeb75ee7e248ee57537c6efbdfe1acecba2edb755985e#rd)  
 - [2022-11-03-【图书】图灵教育：前端篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=3&sn=703d0c7310c69f99e19b3a4987d9ccd4&chksm=bd4926e88a3eaffea1c4883041e35556a26128789b1f37eee50294ea8029163aac1a31fdcf51#rd)  
 - [2022-11-03-【第2772期】单标签实现复杂的棋盘布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=2&sn=8995e972fd6e8f60f1f38acb9745adc9&chksm=bd4926e88a3eaffe41714ea4eb81b7ae2321ad2198087789d8d6246ca6c30a77acd84410853a#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html) ![](/assets/new.png)  
 - [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
@@ -365,7 +366,6 @@
 - [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)  
 - [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)  
 - [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)  
-- [2022-07-08-科技爱好者周刊（第-213-期）：知识孤岛，知识软件](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
