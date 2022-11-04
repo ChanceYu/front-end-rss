@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-04 18:00:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-11-05 06:00:28。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -150,6 +150,7 @@
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613)
 - [【JavaScript-Weekly】Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)
 - [【JavaScript-Weekly】Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)
 - [【前端早读课】【课程】深入浅出-Vite](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=3&sn=bbf1284034da9070774b163c5e81cacd&chksm=bd4927188a3eae0e3433134e35cc5c2dd8b8d2dc6d56d2a15e65a9a77df9349625d5b2b2510a#rd)
@@ -166,7 +167,6 @@
 - [【前端早读课】【第2543期】基于-Observable-构建前端防腐策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252937&idx=1&sn=b6ae12be3664898f026b15b869a0bf11&chksm=bd49314d8a3eb85bd706a4bb3fc55268f8ecb9dedcfc3c4b42494a95910436a501dd1b3213a7#rd)
 - [【前端早读课】【第2529期】Mpx2.7版本正式发布，大幅提升编译构建速度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252617&idx=1&sn=a35567cc6d74706f93077ed30149987e&chksm=bd493e0d8a3eb71b925118adca134fa67c7ecaa318f49953a9f7b8678fd9e8bcdfd8fa5de8b9#rd)
 - [【前端早读课】【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd)
-- [【前端早读课】【第2513期】pnpm-vs-Yarn:-monorepo-node_modules](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252269&idx=1&sn=8ee65f070f0487e5e1f409cc4aed8c3c&chksm=bd493fa98a3eb6bfaede703361b9579fdcaa2d2d150c95d15adef86c37ab9b545ba13cb56bc6#rd)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

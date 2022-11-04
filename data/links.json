@@ -238,6 +238,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Is Turbopack really 10x faster than Vite?",
+        "link": "https://javascriptweekly.com/issues/613",
+        "date": "2022-11-04"
+      },
+      {
         "title": "Turbo-charged incremental bundling au Rust",
         "link": "https://javascriptweekly.com/issues/612",
         "date": "2022-10-28"

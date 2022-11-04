@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-04 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-05 06:00:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -10,6 +10,7 @@
 - [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457) 
 - [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454) 
 - [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437) 
+- [2022-11-04-Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613) 
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
 - [2022-10-24-【课程】深入浅出-Vite](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=3&sn=bbf1284034da9070774b163c5e81cacd&chksm=bd4927188a3eae0e3433134e35cc5c2dd8b8d2dc6d56d2a15e65a9a77df9349625d5b2b2510a#rd) 
