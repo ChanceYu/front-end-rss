@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-06 18:00:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-07 06:00:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,12 +18,12 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -160,6 +160,8 @@
 </summary>
 
 
+- [2022-11-04-Htmx意外走红，我们从React“退回去”后：代码行数减少-67%，JS-依赖项从-255-下降到-9](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=1&sn=5d14ec38cfe720ae061e1e8a6dbd4c4b&chksm=f9523d86ce25b490b0b2610a0eddb1aadadef27141f93018d263dbc7e5b646e80d2b5b50fe83#rd) ![](/assets/new.png)  
+- [2022-11-04-自己动手搭建一个-React-项目，真香](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=2&sn=e8c46d566d364091584b715cfcb14161&chksm=f9523d86ce25b49047345325eb2f015d2368c035d89f33c015176c734ff1c35f5f8f67aca612#rd) ![](/assets/new.png)  
 - [2022-11-02-哈啰跨技术栈前端组件库-Quark-最新实现与成果展示](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518378&idx=1&sn=a5df52b7f2f9ed1a70e8d196b9e14748&chksm=f9523de9ce25b4ffceb394daeee2a2c25e06e985a6faf206a92b1adcc3f61692215146dc82e0#rd)  
 - [2022-10-31-基于Angular的微前端理念与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518363&idx=1&sn=45086e7eac79243213e57d614c96b27c&chksm=f9523dd8ce25b4cede62e7f1cce62d9d7edb23dd876fb40b7663a95ca297d82a21cf7b3fb860#rd)  
 - [2022-10-27-Webpack-创始人推出比-Webpack“快-700-倍”的-Turbopack，基于-Rust-编写](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518351&idx=1&sn=71b9ddea0a5e75ef2568542d5a70fb92&chksm=f9523dccce25b4dacd84ccbe0a5364f0f1705751333098fa2d03cf66b56c63e90a0ce13d6eb9#rd)  
@@ -173,13 +175,11 @@
 - [2022-09-28-我是如何开发和部署一个Chrome扩展程序的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518103&idx=1&sn=ae18b1ca5a783a30b7edfb058e624466&chksm=f95232d4ce25bbc2717096d4cb333fc33ad53c059589ae97d6ede3cb545f7b8b6248cf67c250#rd)  
 - [2022-09-25-Mozilla控诉苹果谷歌微软搞垄断；Shopee-中国宣布裁员上热搜；钉钉总裁称非常讨厌红点和DING消息](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518064&idx=1&sn=1aabc4ccf8ed1b8b569a464f343e6fc4&chksm=f9523233ce25bb25c742739f18f14b003711653ccad6887d17c118133d54004fd52d7d17f66b#rd)  
 - [2022-09-23-人人都用Bootstrap的年代过去了，如今我很难向开发者们推荐Bootstrap-5](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518041&idx=1&sn=3c76a116c971fa96afb56b61eaccd746&chksm=f952321ace25bb0c8b2f010c3a76d32bbc0c5eb267c4e1293241a054f9f72debf79e0d27b4d8#rd)  
-- [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
 - [2022-09-21-如何用-JavaScript-打造自己的知识体系？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=1&sn=a28c6faf1eaab9849ad666464dd24e21&chksm=f952327dce25bb6bd47b512b61a13932082b70ac72eda03f290704b636662abcfa5bf4711366#rd)  
+- [2022-09-21-Wasmtime-1.0发布，官方曾透露高性能的秘密](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518014&idx=2&sn=c437fb7eb008e7a6981ded7f2ea43d77&chksm=f952327dce25bb6b8d4b5d5b7d27192bf754619568975b42f0e47e7d64e81b945ec9b818d983#rd)  
 - [2022-09-19-Meta开源MemLab：轻松解决JavaScript内存泄漏，有效减少50%的系统崩溃](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517984&idx=1&sn=ca9ee5fe833aea911f8ffe8efc7087b5&chksm=f9523263ce25bb75243354b9cc67880d031fb317a4fa3b01f974fb4c96a8b1c885a6dc1117fc#rd)  
 - [2022-09-18-Adobe收购Figma；易联购预售iPhone卷款跑路；脉脉以旷工为由辞退员工，被判赔24万；Meta开源MemLab](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517964&idx=1&sn=fd812c4578cf63ba2924f7d0e5c8b48e&chksm=f952324fce25bb598f78f8a710d2fee125012a6ec4860e1e980b9308631c962c694fe5ab313d#rd)  
 - [2022-09-16-用于VS-Code的Edge开发工具扩展太强了，因此我放弃了Chrome](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517939&idx=1&sn=38058c7f90f2f0651c783a2fe57329fd&chksm=f95233b0ce25baa63cfc50eb48c26872730c9e6aa1f2ccd1cbfb815de1195239b0b28c05f4a3#rd)  
-- [2022-09-14-从零开始的新跨平台浏览器：Ladybird-正式起飞](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517904&idx=1&sn=8fdf5ae4b8bd46fd5487dbbb66985ce1&chksm=f9523393ce25ba85907eca003fe0958087090ef087807cf55a81298c487529fb310f0d074df7#rd)  
-- [2022-09-13-京东零售平台：前端组件资源共享与中心化管理实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247517881&idx=1&sn=90a9ae4663188e4da1a5961e8ac3b013&chksm=f95233face25baec3975677e3b7d71f19ed48bc2c060f8c02da30477f8dbf03b51eead8ba051#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -315,7 +315,7 @@
 </summary>
 
 
-- [2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) ![](/assets/new.png)  
+- [2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/)  
 - [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/)  
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)  
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)  
