@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-04 06:00:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 06:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462) 
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461) 
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460) 
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459) 

@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-10 18:00:32，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 06:00:30，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462) ![](/assets/new.png)  
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)  
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460)  
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459)  
@@ -55,7 +56,6 @@
 - [2022-07-07-All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)  
 - [2022-06-30-Should-Node.js-support-Web-Workers?](https://nodeweekly.com/issues/444)  
 - [2022-06-23-Node.js-in-the-stream.](https://nodeweekly.com/issues/443)  
-- [2022-06-16-Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2022-11-10-【第2777期】React最新提出了一个名为use的Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=1&sn=2dcaffbf6f9134cbdf60e9dafedb1fbf&chksm=bd49267a8a3eaf6cfb7b5fdb85a866de0c12d0dfc3695c2d4bd258c5c02a0a84d9ff822fbb4b#rd) ![](/assets/new.png)  
-- [2022-11-10-【活动】@于航：在-PayPal-做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=2&sn=5ee4d286f58e29fe07f431f37f85434a&chksm=bd49267a8a3eaf6c66ab12494d50838064deeb7e9529f98e96682ff3d2f142a1c99c01c5919c#rd) ![](/assets/new.png)  
-- [2022-11-10-【早说】自我吹嘘的人](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=3&sn=f3496af49b22bb66186022a9d0299c95&chksm=bd49267a8a3eaf6cf0c9e0cb51a4a4d6c4e53194d3f315b876f3f8136e0e362376cf6716c6a6#rd) ![](/assets/new.png)  
-- [2022-11-07-【早说】容易高估自己的实力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258867&idx=3&sn=3d9d180c9321a7941064aa9e6cbe31b2&chksm=bd4926778a3eaf618fbf0f394c498da3af5a081011b557111d1bb00ec0ec8fa2295abd8ec5e3#rd)  
-- [2022-11-07-【活动】vivo开发者大会：前端创新实践---自研编译器助力小程序架构升级](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258867&idx=2&sn=8b77d80160a05033cead8efacdbfd9ef&chksm=bd4926778a3eaf613d19785f89b033527ca088e64d0990344f851b12afdd983eb5a74982eb06#rd)  
+- [2022-11-11-【第2778期】CSS-实现自适应文本的头像](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=1&sn=33c982cd11155c89a0a971553e397e3d&chksm=bd48d9a78a3f50b18e220ef0a8b7f5cf8891a428176169f6f2795365099455c4b2a86a6adf48#rd) ![](/assets/new.png)  
+- [2022-11-11-【招聘】抖音电商运营赋能团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=2&sn=d523d1a1a21869771a89b3e136e1c11a&chksm=bd48d9a78a3f50b1379981e050e97760544095c4163f7f6ff6c992da3aa50bc1a5f66a47e4b4#rd) ![](/assets/new.png)  
+- [2022-11-11-【图书】图灵宇宙：原初纪元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=3&sn=e625275bbfc25a30cd72f19a91e8b1d0&chksm=bd48d9a78a3f50b14b9e78b754c2e12ce0f6d8cb95e7123954e8b3d56a723a388a284b458270#rd) ![](/assets/new.png)  
+- [2022-11-11-【早说】拆解工作的四个层次](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=4&sn=41c79624c8bcd24cb6ec9ee52175bf59&chksm=bd48d9a78a3f50b14aeeef603daf1f309aaeb03c471dbff71368746cbde7d35719cf9978d589#rd) ![](/assets/new.png)  
+- [2022-11-10-【早说】自我吹嘘的人](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=3&sn=f3496af49b22bb66186022a9d0299c95&chksm=bd49267a8a3eaf6cf0c9e0cb51a4a4d6c4e53194d3f315b876f3f8136e0e362376cf6716c6a6#rd)  
+- [2022-11-10-【活动】@于航：在-PayPal-做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=2&sn=5ee4d286f58e29fe07f431f37f85434a&chksm=bd49267a8a3eaf6c66ab12494d50838064deeb7e9529f98e96682ff3d2f142a1c99c01c5919c#rd)  
+- [2022-11-10-【第2777期】React最新提出了一个名为use的Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=1&sn=2dcaffbf6f9134cbdf60e9dafedb1fbf&chksm=bd49267a8a3eaf6cfb7b5fdb85a866de0c12d0dfc3695c2d4bd258c5c02a0a84d9ff822fbb4b#rd)  
 - [2022-11-07-【第2776期】WebGL-实战之绘制圆角矩形](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258867&idx=1&sn=8e9afd6876cc09b504f2fdfbf28cc5a5&chksm=bd4926778a3eaf61d3f69e183743d12bdf4df0686c82b03e747b95c45aa76b97961d6e0d36b8#rd)  
-- [2022-11-06-【第2775期】微前端如何做样式隔离？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258863&idx=1&sn=b57db1c89cbd605ba3fcbc54134f29c4&chksm=bd49266b8a3eaf7d08dae82e4dea9e5943b28f558711f6a4cd93bc3226a9a82533404246d5a6#rd)  
+- [2022-11-07-【活动】vivo开发者大会：前端创新实践---自研编译器助力小程序架构升级](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258867&idx=2&sn=8b77d80160a05033cead8efacdbfd9ef&chksm=bd4926778a3eaf613d19785f89b033527ca088e64d0990344f851b12afdd983eb5a74982eb06#rd)  
+- [2022-11-07-【早说】容易高估自己的实力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258867&idx=3&sn=3d9d180c9321a7941064aa9e6cbe31b2&chksm=bd4926778a3eaf618fbf0f394c498da3af5a081011b557111d1bb00ec0ec8fa2295abd8ec5e3#rd)  
 - [2022-11-06-【早说】寻找自己的甜蜜区](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258863&idx=2&sn=abc9916a036d4fea0475d0ab7d8144e8&chksm=bd49266b8a3eaf7d6dc02adfb7ff33e2875f17d532a6eedb55a758a28ebc753735a3806ae254#rd)  
-- [2022-11-04-【早说】工作模型：卡路里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=3&sn=ff6ad12d6cc41a6f3800b22ff608958d&chksm=bd49262d8a3eaf3b2dfe31c089b61bfa12f3c811585fb81643f5937da0f7d9ba45dcf442feba#rd)  
-- [2022-11-04-【活动】第十七届-D2-技术大会，前端「聚变」而来！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=2&sn=ce801e9b0fc37b813e64e0b3c4151363&chksm=bd49262d8a3eaf3b8c5d4ba594dd1cbf5a45aeaf2bbdd71012eb39e84686b047efab6cb04050#rd)  
+- [2022-11-06-【第2775期】微前端如何做样式隔离？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258863&idx=1&sn=b57db1c89cbd605ba3fcbc54134f29c4&chksm=bd49266b8a3eaf7d08dae82e4dea9e5943b28f558711f6a4cd93bc3226a9a82533404246d5a6#rd)  
 - [2022-11-04-【第2773期】全新的-React-组件设计理念-Headless-UI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=1&sn=b44187bbbf04ea8039929f71aa7ff1df&chksm=bd49262d8a3eaf3b109b7b26fead3cb2ff966b9df0466dda0fc6e8e1ed46f4d44209e3428864#rd)  
-- [2022-11-03-【活动】掘金未来大会前瞻：掌握核心技术的程序员，会对行业市场带来什么影响？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=1&sn=df441d0bbbc55eec08ff048de8a3fbbe&chksm=bd4926e88a3eaffe7913c11c99d7a7068252dbdfad1a2e2fe292bdc544c4e9144f856432f574#rd)  
-- [2022-11-03-【第2772期】单标签实现复杂的棋盘布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=2&sn=8995e972fd6e8f60f1f38acb9745adc9&chksm=bd4926e88a3eaffe41714ea4eb81b7ae2321ad2198087789d8d6246ca6c30a77acd84410853a#rd)  
-- [2022-11-03-【图书】图灵教育：前端篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=3&sn=703d0c7310c69f99e19b3a4987d9ccd4&chksm=bd4926e88a3eaffea1c4883041e35556a26128789b1f37eee50294ea8029163aac1a31fdcf51#rd)  
+- [2022-11-04-【活动】第十七届-D2-技术大会，前端「聚变」而来！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=2&sn=ce801e9b0fc37b813e64e0b3c4151363&chksm=bd49262d8a3eaf3b8c5d4ba594dd1cbf5a45aeaf2bbdd71012eb39e84686b047efab6cb04050#rd)  
+- [2022-11-04-【早说】工作模型：卡路里](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258793&idx=3&sn=ff6ad12d6cc41a6f3800b22ff608958d&chksm=bd49262d8a3eaf3b2dfe31c089b61bfa12f3c811585fb81643f5937da0f7d9ba45dcf442feba#rd)  
 - [2022-11-03-【早说】谁掌握标准制定权](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=4&sn=9d0f97917c7ebdb0b464c6458d34ec80&chksm=bd4926e88a3eaffe4d99a4d1657894dbeb75ee7e248ee57537c6efbdfe1acecba2edb755985e#rd)  
-- [2022-11-02-【早说】解耦：中间层的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258703&idx=2&sn=bf9648e50d1633184931b36460993c91&chksm=bd4926cb8a3eafddca6bea76cca2eb9e24093164835f9dd078e9793ef635ee368a5b37a8149e#rd)  
+- [2022-11-03-【图书】图灵教育：前端篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=3&sn=703d0c7310c69f99e19b3a4987d9ccd4&chksm=bd4926e88a3eaffea1c4883041e35556a26128789b1f37eee50294ea8029163aac1a31fdcf51#rd)  
+- [2022-11-03-【第2772期】单标签实现复杂的棋盘布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=2&sn=8995e972fd6e8f60f1f38acb9745adc9&chksm=bd4926e88a3eaffe41714ea4eb81b7ae2321ad2198087789d8d6246ca6c30a77acd84410853a#rd)  
+- [2022-11-03-【活动】掘金未来大会前瞻：掌握核心技术的程序员，会对行业市场带来什么影响？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258732&idx=1&sn=df441d0bbbc55eec08ff048de8a3fbbe&chksm=bd4926e88a3eaffe7913c11c99d7a7068252dbdfad1a2e2fe292bdc544c4e9144f856432f574#rd)  
 - [2022-11-02-【第2771期】浅谈-DOM-Clobbering-的原理及应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258703&idx=1&sn=0892bf8982c5c71e048fd7c87b0e28a6&chksm=bd4926cb8a3eafddec1d2bb11286064112b5e764bc520a00fd851ee5765c44fd32781bbbf02a#rd)  
-- [2022-11-01-【第2770期】携程度假零成本微前端框架：零界](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258673&idx=1&sn=a972242b3448c5e9e37fd754e2d858b9&chksm=bd4926b58a3eafa3ab92d16e51e2455e3cdef7c04b5cdebe566783052dd17a61e94f4c27d358#rd)  
-- [2022-11-01-【活动】React-Native-to-Web-在-Shopee-的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258673&idx=2&sn=6f8cdca3b02a58e175e526253db7fc49&chksm=bd4926b58a3eafa3fa32398ddcf813d6b0ca38af25a86323c7a212a27120a0a49e4166b573f7#rd)  
-- [2022-11-01-【早说】解决方案中立](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258673&idx=3&sn=2348855d661d77e1dbeee93185d30de8&chksm=bd4926b58a3eafa355dc5db8fa9bcd706e07dd08ebeb059e16bd2c8dc1091fabfb657f9c7a82#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,8 +160,8 @@
 </summary>
 
 
-- [2022-11-09-Node.js中的关注点分离](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=1&sn=bfbf08e43cf252f1cecb431c172b446f&chksm=f9523dbbce25b4ad92e2c2f8cc037528ac9c2f54e6c02215b557bf7755d9bf8fcd6116017712#rd) ![](/assets/new.png)  
-- [2022-11-09-Vue3-现在学算晚么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=2&sn=097247dc441f35b9f2b4998f7d859f1c&chksm=f9523dbbce25b4ad52f336b572a98dad11c0455b5eb69425a38ae000b2c5af7c6ba1bc378052#rd) ![](/assets/new.png)  
+- [2022-11-09-Node.js中的关注点分离](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=1&sn=bfbf08e43cf252f1cecb431c172b446f&chksm=f9523dbbce25b4ad92e2c2f8cc037528ac9c2f54e6c02215b557bf7755d9bf8fcd6116017712#rd)  
+- [2022-11-09-Vue3-现在学算晚么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=2&sn=097247dc441f35b9f2b4998f7d859f1c&chksm=f9523dbbce25b4ad52f336b572a98dad11c0455b5eb69425a38ae000b2c5af7c6ba1bc378052#rd)  
 - [2022-11-07-前端又开撕了：用Rust写的Turbopack，比Vite快10倍？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518410&idx=1&sn=64989ffd7904548416483106cd5a4eeb&chksm=f9523d89ce25b49f9a61c2d50c11d1d4770be5c0ae6cd90c3afa8a12766a885663a0c7cea122#rd)  
 - [2022-11-04-Htmx意外走红，我们从React“退回去”后：代码行数减少-67%，JS-依赖项从-255-下降到-9](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=1&sn=5d14ec38cfe720ae061e1e8a6dbd4c4b&chksm=f9523d86ce25b490b0b2610a0eddb1aadadef27141f93018d263dbc7e5b646e80d2b5b50fe83#rd)  
 - [2022-11-04-自己动手搭建一个-React-项目，真香](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=2&sn=e8c46d566d364091584b715cfcb14161&chksm=f9523d86ce25b49047345325eb2f015d2368c035d89f33c015176c734ff1c35f5f8f67aca612#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-11-10-一件小事，让我更加确信TypeScript的重要性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487334&idx=1&sn=7b2ad4d842607682f6feda5b2f568c9f&chksm=ce461af7f93193e1d9b1ed702d311183bb61a4f935aba86666be10eebc5126b31512e2963055#rd) ![](/assets/new.png)  
 - [2022-11-09-花了一天的时间，地板式扫盲了vue3中所有API盲点](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487328&idx=1&sn=461b09ddbffc4aa7919e3fbaaf3a746d&chksm=ce461af1f93193e748564b0dfb4436ddc057bd0afbe722594bee22650895b36c1fdd333b8aad#rd)  
 - [2022-11-08-狂肝半月！2022前端高频面试题汇总，收藏过冬！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487210&idx=1&sn=f812f9d1821c6eac6d56bfaa3c569567&chksm=ce461b7bf931926d14f667520780d39d482a3932bda9627e35577eeb43efe6b314dd0ad3d388#rd)  
 - [2022-11-07-面试官：你对es6很了解？那实现一个Set吧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487177&idx=1&sn=69250c0fde274ec09c895d8f50f0093a&chksm=ce461b58f931924eec54a264cd6e69806eaa80e78857f7b2bbfa936ab09a1201ca4a35cd4a86#rd)  
@@ -210,7 +211,6 @@
 - [2022-10-19-构建-webpack5-知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487055&idx=1&sn=2ee65c91cfb69f0fe8bb2ddc4b192a2e&chksm=ce461bdef93192c8b4ef71a94b692b33c8764cd8c9f3bcbac88fec06a6c4c3d0769109819bc3#rd)  
 - [2022-10-18-真给力！字节跳动内部前端开发手册（完整版）开放下载！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487053&idx=1&sn=ce7064e3b47495d487140170c0fd2b58&chksm=ce461bdcf93192cae2f558194d5202d40e5111e3ce37baf84ebd37c3f97fddf5fea1b8c8c9c8#rd)  
 - [2022-10-16-你不知道的React-18-新特性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487048&idx=1&sn=aa6685f4b6160666a1f1d3ecb54ce195&chksm=ce461bd9f93192cf784596acf0b326951889f85d7696f88236dc9742259472ace04e7cdfd8dc#rd)  
-- [2022-10-15-深入理解New操作符](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487046&idx=1&sn=a0bd664d48a9df95af3ce53a89321703&chksm=ce461bd7f93192c1650680cf4ce0e8bec039cbb6413ce362164c5464df3efb618332d846361f#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
