@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-09 18:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-10 12:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -42,6 +42,7 @@
 - [2020-03-24-亿级前端项目中的3D技术：支付宝2020年新春活动的背后](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494022&idx=1&sn=9bf1eaf5e07c287ea59b7046096aa3fe&chksm=f9525cc5ce25d5d377f6caf5365741026423552955859781aabd04062d94a8b2fc1135b935ff&scene=27#wechat_redirect) 
 - [2018-11-13-搞定复杂-GUI！西安交大提出前端设计图自动转代码新方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489854&idx=1&sn=4828d5d36c3becdf8b1f46490b5ce708#wechat_redirect) 
 - [2022-01-19-为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485045&idx=1&sn=2c09e9c441a099add7942e9e156a5ecf&chksm=ce4613e4f9319af289f53c01b36c74c10fbc1751cb3a8aead72ac583ced797cd40ff10653a2a#rd) 
+- [2022-11-02-超酷炫的-3D-视差-Hover-动效实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247511264&idx=2&sn=05c8ec58386c456519935ca0a787cfb7&chksm=f992aa31cee5232747abf7b9195710f0b81f8bcba30454a26b944e0b81a2bddac9f6d2158bde#rd) 
 - [2022-08-03-Canvas-从入门到劝朋友放弃（图解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510147&idx=1&sn=c0ae499ff96f730cbb1448479d6ad379&chksm=f992ae52cee52744eb4f0e3124bbf566fffc253793e74149041408cf1d706e3cbb09edb56bef#rd) 
 - [2022-07-28-从一个-bug-中延伸出-canvas-最大内存限制和浏览器渲染原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510014&idx=2&sn=18b5e648d299ff205ce8f021cdf54696&chksm=f992a12fcee5283949ffe4ddeb181c72c6ff679bcb5c19273a5e38662dfeeade889d6d472710#rd) 
 - [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=2&sn=73720ec990ed648ceeacf7aff2065e9f&chksm=f992a125cee52833779749d8f2920a4b386a02b1acadf30be20d4fa840562ee038ebe3765e29#rd) 
