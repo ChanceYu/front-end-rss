@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-11 06:00:30，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-11 12:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462) ![](/assets/new.png)  
+- [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)  
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460)  
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459)  
@@ -98,10 +98,10 @@
 </summary>
 
 
-- [2022-11-11-【第2778期】CSS-实现自适应文本的头像](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=1&sn=33c982cd11155c89a0a971553e397e3d&chksm=bd48d9a78a3f50b18e220ef0a8b7f5cf8891a428176169f6f2795365099455c4b2a86a6adf48#rd) ![](/assets/new.png)  
-- [2022-11-11-【招聘】抖音电商运营赋能团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=2&sn=d523d1a1a21869771a89b3e136e1c11a&chksm=bd48d9a78a3f50b1379981e050e97760544095c4163f7f6ff6c992da3aa50bc1a5f66a47e4b4#rd) ![](/assets/new.png)  
-- [2022-11-11-【图书】图灵宇宙：原初纪元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=3&sn=e625275bbfc25a30cd72f19a91e8b1d0&chksm=bd48d9a78a3f50b14b9e78b754c2e12ce0f6d8cb95e7123954e8b3d56a723a388a284b458270#rd) ![](/assets/new.png)  
-- [2022-11-11-【早说】拆解工作的四个层次](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=4&sn=41c79624c8bcd24cb6ec9ee52175bf59&chksm=bd48d9a78a3f50b14aeeef603daf1f309aaeb03c471dbff71368746cbde7d35719cf9978d589#rd) ![](/assets/new.png)  
+- [2022-11-11-【第2778期】CSS-实现自适应文本的头像](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=1&sn=33c982cd11155c89a0a971553e397e3d&chksm=bd48d9a78a3f50b18e220ef0a8b7f5cf8891a428176169f6f2795365099455c4b2a86a6adf48#rd)  
+- [2022-11-11-【招聘】抖音电商运营赋能团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=2&sn=d523d1a1a21869771a89b3e136e1c11a&chksm=bd48d9a78a3f50b1379981e050e97760544095c4163f7f6ff6c992da3aa50bc1a5f66a47e4b4#rd)  
+- [2022-11-11-【图书】图灵宇宙：原初纪元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=3&sn=e625275bbfc25a30cd72f19a91e8b1d0&chksm=bd48d9a78a3f50b14b9e78b754c2e12ce0f6d8cb95e7123954e8b3d56a723a388a284b458270#rd)  
+- [2022-11-11-【早说】拆解工作的四个层次](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=4&sn=41c79624c8bcd24cb6ec9ee52175bf59&chksm=bd48d9a78a3f50b14aeeef603daf1f309aaeb03c471dbff71368746cbde7d35719cf9978d589#rd)  
 - [2022-11-10-【早说】自我吹嘘的人](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=3&sn=f3496af49b22bb66186022a9d0299c95&chksm=bd49267a8a3eaf6cf0c9e0cb51a4a4d6c4e53194d3f315b876f3f8136e0e362376cf6716c6a6#rd)  
 - [2022-11-10-【活动】@于航：在-PayPal-做前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=2&sn=5ee4d286f58e29fe07f431f37f85434a&chksm=bd49267a8a3eaf6c66ab12494d50838064deeb7e9529f98e96682ff3d2f142a1c99c01c5919c#rd)  
 - [2022-11-10-【第2777期】React最新提出了一个名为use的Hook](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258878&idx=1&sn=2dcaffbf6f9134cbdf60e9dafedb1fbf&chksm=bd49267a8a3eaf6cfb7b5fdb85a866de0c12d0dfc3695c2d4bd258c5c02a0a84d9ff822fbb4b#rd)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-11-10-一件小事，让我更加确信TypeScript的重要性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487334&idx=1&sn=7b2ad4d842607682f6feda5b2f568c9f&chksm=ce461af7f93193e1d9b1ed702d311183bb61a4f935aba86666be10eebc5126b31512e2963055#rd) ![](/assets/new.png)  
+- [2022-11-10-一件小事，让我更加确信TypeScript的重要性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487334&idx=1&sn=7b2ad4d842607682f6feda5b2f568c9f&chksm=ce461af7f93193e1d9b1ed702d311183bb61a4f935aba86666be10eebc5126b31512e2963055#rd)  
 - [2022-11-09-花了一天的时间，地板式扫盲了vue3中所有API盲点](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487328&idx=1&sn=461b09ddbffc4aa7919e3fbaaf3a746d&chksm=ce461af1f93193e748564b0dfb4436ddc057bd0afbe722594bee22650895b36c1fdd333b8aad#rd)  
 - [2022-11-08-狂肝半月！2022前端高频面试题汇总，收藏过冬！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487210&idx=1&sn=f812f9d1821c6eac6d56bfaa3c569567&chksm=ce461b7bf931926d14f667520780d39d482a3932bda9627e35577eeb43efe6b314dd0ad3d388#rd)  
 - [2022-11-07-面试官：你对es6很了解？那实现一个Set吧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487177&idx=1&sn=69250c0fde274ec09c895d8f50f0093a&chksm=ce461b58f931924eec54a264cd6e69806eaa80e78857f7b2bbfa936ab09a1201ca4a35cd4a86#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html) ![](/assets/new.png)  
 - [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
 - [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
@@ -365,7 +366,6 @@
 - [2022-07-29-科技爱好者周刊（第-216-期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)  
 - [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)  
 - [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)  
-- [2022-07-15-科技爱好者周刊（第-214-期）：你的地图是错的](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-214.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
