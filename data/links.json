@@ -243,6 +243,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Rome wasn't rewritten in a day",
+        "link": "https://javascriptweekly.com/issues/614",
+        "date": "2022-11-11"
+      },
+      {
         "title": "Is Turbopack really 10x faster than Vite?",
         "link": "https://javascriptweekly.com/issues/613",
         "date": "2022-11-04"

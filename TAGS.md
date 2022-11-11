@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-11 22:01:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-11-12 06:00:31。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -769,6 +769,7 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)
 - [【JavaScript-Weekly】🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611)
 - [【JavaScript-Weekly】Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)
 - [【JavaScript-Weekly】A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)
@@ -776,7 +777,6 @@
 - [【JavaScript-Weekly】Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)
 - [【JavaScript-Weekly】NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)
 - [【前端早读课】【图书】图灵宇宙：原初纪元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=3&sn=e625275bbfc25a30cd72f19a91e8b1d0&chksm=bd48d9a78a3f50b14b9e78b754c2e12ce0f6d8cb95e7123954e8b3d56a723a388a284b458270#rd)
-- [【前端早读课】【早说】拆解工作的四个层次](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=4&sn=41c79624c8bcd24cb6ec9ee52175bf59&chksm=bd48d9a78a3f50b14aeeef603daf1f309aaeb03c471dbff71368746cbde7d35719cf9978d589#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
