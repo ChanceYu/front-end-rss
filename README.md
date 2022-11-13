@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-12 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-13 22:01:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2022-11-11-Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614) ![](/assets/new.png)  
+- [2022-11-11-Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)  
 - [2022-11-04-Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613)  
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612)  
 - [2022-10-21-🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-11-12-快用上PerformanceObserver，别再手动计算首屏时间了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487346&idx=1&sn=0d830534b6d346e839799f05404a0f92&chksm=ce461ae3f93193f5f340c6a9928bc904c585e076230aa447c0e71af92462e3ede3c71d2b09ef#rd) ![](/assets/new.png)  
 - [2022-11-11-「offer来了」浅谈前端面试中开发环境常考知识点](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487336&idx=1&sn=4e0f51e8f59c9e86b984fc5987c59198&chksm=ce461af9f93193ef6d563389ef9ae93251080b5278e28818ee84fb8635518d5365c36a002d82#rd)  
 - [2022-11-10-一件小事，让我更加确信TypeScript的重要性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487334&idx=1&sn=7b2ad4d842607682f6feda5b2f568c9f&chksm=ce461af7f93193e1d9b1ed702d311183bb61a4f935aba86666be10eebc5126b31512e2963055#rd)  
 - [2022-11-09-花了一天的时间，地板式扫盲了vue3中所有API盲点](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487328&idx=1&sn=461b09ddbffc4aa7919e3fbaaf3a746d&chksm=ce461af1f93193e748564b0dfb4436ddc057bd0afbe722594bee22650895b36c1fdd333b8aad#rd)  
@@ -210,7 +211,6 @@
 - [2022-10-24-看源码的第一步，我猜很多人搞错了~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487059&idx=1&sn=615ac44a2e087a9b66224865772b0b88&chksm=ce461bc2f93192d4ddf7d6442b4f8b0df00b7629d615b8f8742ac75e669a6bc523b511160ff4#rd)  
 - [2022-10-20-你可能不知道的-npm-实用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487057&idx=1&sn=259c850708b4f970823b67e7f063e877&chksm=ce461bc0f93192d6db96eea47cde6dfe6b1a3ca96c3fa842ec85a19ba6e2fbce6892429b5791#rd)  
 - [2022-10-19-构建-webpack5-知识体系【近万字总结】](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487055&idx=1&sn=2ee65c91cfb69f0fe8bb2ddc4b192a2e&chksm=ce461bdef93192c8b4ef71a94b692b33c8764cd8c9f3bcbac88fec06a6c4c3d0769109819bc3#rd)  
-- [2022-10-18-真给力！字节跳动内部前端开发手册（完整版）开放下载！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487053&idx=1&sn=ce7064e3b47495d487140170c0fd2b58&chksm=ce461bdcf93192cae2f558194d5202d40e5111e3ce37baf84ebd37c3f97fddf5fea1b8c8c9c8#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
