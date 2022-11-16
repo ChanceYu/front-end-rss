@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-16 08:00:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-17 06:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -779,6 +779,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2022-11-16-新手学javascript重点应该学什么？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487422&idx=1&sn=e5b62b01b0b5edc2a9c2892e26740731&chksm=ce461a2ff93193397835785ffa26fc4a0cfce0d8342f61b28436de9d87681f9136dc73c6a87c#rd) 
 - [2022-11-07-面试官：你对es6很了解？那实现一个Set吧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487177&idx=1&sn=69250c0fde274ec09c895d8f50f0093a&chksm=ce461b58f931924eec54a264cd6e69806eaa80e78857f7b2bbfa936ab09a1201ca4a35cd4a86#rd) 
 - [2022-10-10-彻底搞懂-JavaScript-执行机制](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487017&idx=1&sn=57703ad7c3e92f784bf5514c55da5d37&chksm=ce461bb8f93192aed0de2fec75168794ec48e62c3f8dc8882eb349ccb49747bdcd79f0593e4d#rd) 
 - [2022-10-07-细说浅拷贝与深拷贝](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487011&idx=1&sn=3a49eb668bc1cd96dd1ec85b976c168b&chksm=ce461bb2f93192a432443c60102b9db5639437c1faf40c6e4a2f5fb03914386ddea6af82f474#rd) 
