@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Now npm fans can walk the Deno-saur",
+        "link": "https://nodeweekly.com/issues/463",
+        "date": "2022-11-17"
+      },
+      {
         "title": "It's all about security",
         "link": "https://nodeweekly.com/issues/462",
         "date": "2022-11-10"

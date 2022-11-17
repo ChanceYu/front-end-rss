@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-11-17 12:01:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-11-18 06:00:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -147,6 +147,7 @@
 
 
 
+- [【Node-Weekly】Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
@@ -166,7 +167,6 @@
 - [【前端早读课】【第2590期】基于Vite的electron开发构建工具：electron-vite](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253861&idx=1&sn=e7da0973fcec4cd48f5eaed8007e11b0&chksm=bd4935e18a3ebcf7e2dde70b870676e4dc1a32555d095847f57c6a5161db109e24fa47edbfaa#rd)
 - [【前端早读课】【第2543期】基于-Observable-构建前端防腐策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252937&idx=1&sn=b6ae12be3664898f026b15b869a0bf11&chksm=bd49314d8a3eb85bd706a4bb3fc55268f8ecb9dedcfc3c4b42494a95910436a501dd1b3213a7#rd)
 - [【前端早读课】【第2529期】Mpx2.7版本正式发布，大幅提升编译构建速度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252617&idx=1&sn=a35567cc6d74706f93077ed30149987e&chksm=bd493e0d8a3eb71b925118adca134fa67c7ecaa318f49953a9f7b8678fd9e8bcdfd8fa5de8b9#rd)
-- [【前端早读课】【第2514期】深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252270&idx=1&sn=16fc30a50bf6cbf529a70bb6f9baa021&chksm=bd493faa8a3eb6bc72c747e686f60c4833a48c42aea8d83ee950da8f959b1f91c4e8f5fa8a6c#rd)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
