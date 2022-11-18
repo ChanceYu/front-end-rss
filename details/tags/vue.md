@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-18 12:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 22:02:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -422,6 +422,7 @@
 - [2022-01-11-下载量和Vue一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502585&idx=2&sn=54d20f6fe3565a4570cf3d8387f3a523&chksm=f992cc28cee5453e7d6121cb551165b485f022ed73ef56eaad4150f9a92f34a9770011e0cc79#rd) 
 - [2022-01-02-Vue.js源码中的几个精妙方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=3&sn=4989c0e5d5a1c0684e663777d4c11acd&chksm=f992cf6dcee5467bf76bac5642455866d8563be9ec09502284441d30d43c72edf34f34e05f2a#rd) 
 - [2022-01-02-做好这-16-个方向，逐步搭建出团队的-vue3-前端架构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=2&sn=a4cbe9408e4a895a9a9dc194b01f4921&chksm=f992cf6dcee5467bc922560b4575241d45a804c8a4e8e72aed71aafc6c2d9b5af6351640a2fb#rd) 
+- [2022-11-18-VueConf-2022-将于12月10日正式开启](http://www.yyyweb.com/5473.html) 
 - [2022-09-30-Vue-2-系统如何快速迁移-Vite-作为开发工具](http://www.yyyweb.com/5470.html) 
 - [2022-07-01-Vue-2.7-正式发布，代号为-Naruto](http://www.yyyweb.com/5464.html) 
 - [2022-03-29-Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](http://www.yyyweb.com/5448.html) 

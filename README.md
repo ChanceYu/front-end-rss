@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 12:00:48，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 22:01:59，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,13 +19,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-11-17-前端必备-|-3分钟白嫖我压箱底的免费效率工具](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487423&idx=1&sn=5918668cbd64f605f330a7dc90294e82&chksm=ce461a2ef931933893df6bf8bfba5bd338371b4308bfc8ab98f7b2365765257f373ff232785f#rd) ![](/assets/new.png)  
+- [2022-11-17-前端必备-|-3分钟白嫖我压箱底的免费效率工具](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487423&idx=1&sn=5918668cbd64f605f330a7dc90294e82&chksm=ce461a2ef931933893df6bf8bfba5bd338371b4308bfc8ab98f7b2365765257f373ff232785f#rd)  
 - [2022-11-16-新手学javascript重点应该学什么？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487422&idx=1&sn=e5b62b01b0b5edc2a9c2892e26740731&chksm=ce461a2ff93193397835785ffa26fc4a0cfce0d8342f61b28436de9d87681f9136dc73c6a87c#rd)  
 - [2022-11-15-华为的前端面试题全集，全刷完，不怕找不到工作！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487420&idx=1&sn=b935cca567d8ee5285a33e07532da3d6&chksm=ce461a2df931933be7699c1f357f26919982f5650225f867b2a380268a9cd381840d3f52b727#rd)  
 - [2022-11-14-UI酷炫！最新开源的Vue3.2移动电商实战（源码+文档分享）](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487411&idx=1&sn=c957ea37270590753999828d5491c893&chksm=ce461a22f9319334247d9cb925297cdee6ad4306c645b2458372333629f986f7ad6617d5493d#rd)  
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html) ![](/assets/new.png)  
+- [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
 - [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)  
 - [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
 - [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
@@ -377,17 +377,19 @@
 </summary>
 
 
+- [2022-11-18-VueConf-2022-将于12月10日正式开启](http://www.yyyweb.com/5473.html) ![](/assets/new.png)  
+- [2022-11-18-美团基于-Serverless-的前端研发体系建设和业务实践](http://www.yyyweb.com/5476.html) ![](/assets/new.png)  
 - [2022-09-30-Vue-2-系统如何快速迁移-Vite-作为开发工具](http://www.yyyweb.com/5470.html)  
 - [2022-08-28-10-个你可能没见过的-VsCode-的高效开源神器](http://www.yyyweb.com/5469.html)  
 - [2022-07-23-做一个-WebRTC-视频通话给自己用吧](http://www.yyyweb.com/5466.html)  
 - [2022-07-01-Vue-2.7-正式发布，代号为-Naruto](http://www.yyyweb.com/5464.html)  
 - [2022-06-23-HTTP史记-–-从HTTP/1到HTTP/3](http://www.yyyweb.com/5463.html)  
 - [2022-06-05-10-分钟搞懂-Vite-devServer，速来围观！](http://www.yyyweb.com/5459.html)  
-- [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html)  
 - [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html)  
+- [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html)  
 - [2022-03-29-Pinia与Vuex的对比：Pinia是Vuex的良好替代品吗？](http://www.yyyweb.com/5448.html)  
-- [2022-03-06-淘宝-npm-域名切换-&&-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html)  
 - [2022-03-06-2022，前端工具链十年盘点](http://www.yyyweb.com/5445.html)  
+- [2022-03-06-淘宝-npm-域名切换-&&-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html)  
 - [2022-02-13-人生的破局点：马斯洛层次需求「倒序实现」理论](http://www.yyyweb.com/5440.html)  
 - [2022-01-21-Vue-3-正式出道！将成为新的默认版本](http://www.yyyweb.com/5439.html)  
 - [2021-12-26-聊聊我关于-Web-未来发展趋势的看法](http://www.yyyweb.com/5436.html)  
@@ -395,8 +397,6 @@
 - [2021-12-05-ECMAScript-2021-通过，写入-ECMAScript-标准](http://www.yyyweb.com/5426.html)  
 - [2021-10-25-如何用研发效能搞垮一个团队](http://www.yyyweb.com/5423.html)  
 - [2021-10-23-18-个杀手级-JavaScript-单行代码](http://www.yyyweb.com/5419.html)  
-- [2021-08-28-前端40+精选VSCode插件，你值得拥有！](http://www.yyyweb.com/5416.html)  
-- [2021-08-22-PM入门：你需要知道的项目管理知识](http://www.yyyweb.com/5411.html)  
 - [......【查看更多】......](/details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
