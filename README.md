@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-18 06:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-18 12:00:48，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463) ![](/assets/new.png)  
+- [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)  
 - [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)  
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-11-17-前端必备-|-3分钟白嫖我压箱底的免费效率工具](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487423&idx=1&sn=5918668cbd64f605f330a7dc90294e82&chksm=ce461a2ef931933893df6bf8bfba5bd338371b4308bfc8ab98f7b2365765257f373ff232785f#rd) ![](/assets/new.png)  
 - [2022-11-16-新手学javascript重点应该学什么？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487422&idx=1&sn=e5b62b01b0b5edc2a9c2892e26740731&chksm=ce461a2ff93193397835785ffa26fc4a0cfce0d8342f61b28436de9d87681f9136dc73c6a87c#rd)  
 - [2022-11-15-华为的前端面试题全集，全刷完，不怕找不到工作！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487420&idx=1&sn=b935cca567d8ee5285a33e07532da3d6&chksm=ce461a2df931933be7699c1f357f26919982f5650225f867b2a380268a9cd381840d3f52b727#rd)  
 - [2022-11-14-UI酷炫！最新开源的Vue3.2移动电商实战（源码+文档分享）](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487411&idx=1&sn=c957ea37270590753999828d5491c893&chksm=ce461a22f9319334247d9cb925297cdee6ad4306c645b2458372333629f986f7ad6617d5493d#rd)  
@@ -210,7 +211,6 @@
 - [2022-10-29-我因为工作，从Vue转到React之后的一点感想~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487161&idx=1&sn=f4e1aa5c3feb553fd77abc3f77c940b1&chksm=ce461b28f931923e0e3c81b90433a27e2357bd3bb72df738a541fe5eafaa985251435ea1dea1#rd)  
 - [2022-10-28-最新前端面试上岸手册！该提升下逼格了！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487160&idx=1&sn=d79b6cb8529b5c1fcd23dbe939176f7d&chksm=ce461b29f931923f3bcd5d36a4e03da4405cbe62bf98793c30a5492eb354a47c8b9871859d77#rd)  
 - [2022-10-27-七万奖金，字节Offer，iPhone-14-Pro-等惊喜奖品，四大赛题，邀你码上掘金！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487098&idx=1&sn=01ee03a1d29af9479d3506037e2f7b3e&chksm=ce461bebf93192fdb65c33cc498ebbc8bbdef288d516e2ca830138a82e048e5d2633deaf09ae#rd)  
-- [2022-10-26-我只会-Vue，能面试-React-岗位吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487092&idx=1&sn=4582ece2c15ae49bd11613916a03715c&chksm=ce461be5f93192f3e22ed0b4c2867466b729498a973a8a7e6b846412f3bdc9ebaca0b7c78d13#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html) ![](/assets/new.png)  
 - [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)  
 - [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
 - [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
@@ -365,7 +366,6 @@
 - [2022-08-02-DNS-查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)  
 - [2022-07-29-科技爱好者周刊（第-216-期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)  
 - [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)  
-- [2022-07-22-科技爱好者周刊（第-215-期）：互联网最喜欢的行为模式](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
