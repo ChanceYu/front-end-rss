@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-18 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-25 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464) 
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463) 
 - [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462) 
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461) 

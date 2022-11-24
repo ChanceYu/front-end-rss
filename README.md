@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-24 18:00:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-25 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464) ![](/assets/new.png)  
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)  
 - [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)  
@@ -55,7 +56,6 @@
 - [2022-07-21-cd-/home/nodejs/news](https://nodeweekly.com/issues/447)  
 - [2022-07-14-Node-18.6-and-custom-ESM-loaders](https://nodeweekly.com/issues/446)  
 - [2022-07-07-All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)  
-- [2022-06-30-Should-Node.js-support-Web-Workers?](https://nodeweekly.com/issues/444)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-11-24-【第2791期】可扩展-CSS-的演变](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=1&sn=1fbb17ca013f32fe86d46750843d4922&chksm=bd48d8038a3f511565f351048fe733da4cc94cdea980e5e905d750fab1f059041c750d53dc9d#rd) ![](/assets/new.png)  
-- [2022-11-24-【早说】吹风的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=2&sn=045e95214dd02fa49263febc4656c31c&chksm=bd48d8038a3f51159c9aeec3819a4e5ea15dd06a7f3da4e59675a89deec9d66fd561f8b3092c#rd) ![](/assets/new.png)  
+- [2022-11-24-【第2791期】可扩展-CSS-的演变](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=1&sn=1fbb17ca013f32fe86d46750843d4922&chksm=bd48d8038a3f511565f351048fe733da4cc94cdea980e5e905d750fab1f059041c750d53dc9d#rd)  
+- [2022-11-24-【早说】吹风的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=2&sn=045e95214dd02fa49263febc4656c31c&chksm=bd48d8038a3f51159c9aeec3819a4e5ea15dd06a7f3da4e59675a89deec9d66fd561f8b3092c#rd)  
 - [2022-11-23-【早说】边界感的本质](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259265&idx=2&sn=f2681224b9d46b855d359936e2e34395&chksm=bd48d8058a3f51138718e164a4e43b490b3abef0f625820aec3391366f4c01dd9c4df1ce80a3#rd)  
 - [2022-11-23-【第2790期】InnerEye低代码大屏：低代码思源与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259265&idx=1&sn=50cd93f871d7f85929421850a73fddbc&chksm=bd48d8058a3f5113780c5ed09419182887f4eafe582ad28f4528b0c9eb39b63b2d63e68e3b5a#rd)  
 - [2022-11-22-【第2789期】长安汽车移动应用前端架构探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259239&idx=1&sn=63028db6a2b35a2744bd3294eaa4a6ee&chksm=bd48d8e38a3f51f554d6c71bdeef8492a7006b15b59aea31de335bb4ad5afd5fa49d6ee4eb26#rd)  
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2022-11-23-Next.js-13新的实验性特性，实现App“动态无限制”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518763&idx=1&sn=edb0024df90c498dcf5dd05336557519&chksm=f9523f68ce25b67ec675e8a006cea8489cabf4f8ccb2f9172bf2db86e2798c6a4b4d39312c3a#rd) ![](/assets/new.png)  
+- [2022-11-23-Next.js-13新的实验性特性，实现App“动态无限制”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518763&idx=1&sn=edb0024df90c498dcf5dd05336557519&chksm=f9523f68ce25b67ec675e8a006cea8489cabf4f8ccb2f9172bf2db86e2798c6a4b4d39312c3a#rd)  
 - [2022-11-21-2022年生态大会现开启报名｜四大亮点全面解析！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518751&idx=2&sn=e62a11134db48803a92d65ec7faf68cf&chksm=f9523f5cce25b64acd42e11925c0ffcb1e79fe223503ae57d4bd9aa9cce915fb1d2f65829ba5#rd)  
 - [2022-11-21-全新JavaScript框架Qwik：以独特的可恢复性方式提速网页应用](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518751&idx=1&sn=d748509f92827bd26a9c37ce036c4e6c&chksm=f9523f5cce25b64a5cd5642fd02556f9c4b8d8d9a04c947d016fe2167d091313c5aedce971e2#rd)  
 - [2022-11-18-美团基于-Serverless-的前端研发体系建设和业务实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518699&idx=1&sn=b73ed265b45972548bb33c3fd83499f3&chksm=f9523ca8ce25b5be93a163a92401abed5663520f789db2aea782461a353e54e4086df1ee6535#rd)  

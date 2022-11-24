@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "An npm package naming pitfall",
+        "link": "https://nodeweekly.com/issues/464",
+        "date": "2022-11-24"
+      },
+      {
         "title": "Now npm fans can walk the Deno-saur",
         "link": "https://nodeweekly.com/issues/463",
         "date": "2022-11-17"
