@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-25 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-25 12:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -8,6 +8,7 @@
 
 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
+- [2022-11-25-【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd) 
 - [2022-06-29-【第2655期】携程基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=2&sn=b194a771eba95537896ff441a411c9d7&chksm=bd492d2b8a3ea43d6b6d1057320b41196add6c18b93fb863ffb3d425fdb4ea1bd8519d16eb79#rd) 
 - [2022-05-06-【第2604期】前后端接口规范---RESTful-版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254080&idx=1&sn=3ab86ecf19551ab696ee4d3f19da4f52&chksm=bd4934c48a3ebdd2070fdaf9880bb22cac6b344ad234b337153516d7d0df6899f4c67ffe9837#rd) 
 - [2022-04-27-【图书】Docker实战派---容器入门七步法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254038&idx=2&sn=bc3af86be1c17c27873da39dc82c9d46&chksm=bd4934928a3ebd845481515612c52fd0957f1daeb3c9024715739ad332766a82a03469201ca6#rd) 

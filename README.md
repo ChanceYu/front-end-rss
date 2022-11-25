@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-25 12:00:35，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464) ![](/assets/new.png)  
+- [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464)  
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)  
 - [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)  
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2022-11-24-【第2791期】可扩展-CSS-的演变](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=1&sn=1fbb17ca013f32fe86d46750843d4922&chksm=bd48d8038a3f511565f351048fe733da4cc94cdea980e5e905d750fab1f059041c750d53dc9d#rd)  
+- [2022-11-25-【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd) ![](/assets/new.png)  
+- [2022-11-25-【早说】处理好情绪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=2&sn=65b684967999ed181c6efe43348d2cdf&chksm=bd48d8528a3f51443ff93f11b2983a0897454375d7c0b502b486c7e995dc731ce70195d12e67#rd) ![](/assets/new.png)  
 - [2022-11-24-【早说】吹风的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=2&sn=045e95214dd02fa49263febc4656c31c&chksm=bd48d8038a3f51159c9aeec3819a4e5ea15dd06a7f3da4e59675a89deec9d66fd561f8b3092c#rd)  
-- [2022-11-23-【早说】边界感的本质](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259265&idx=2&sn=f2681224b9d46b855d359936e2e34395&chksm=bd48d8058a3f51138718e164a4e43b490b3abef0f625820aec3391366f4c01dd9c4df1ce80a3#rd)  
+- [2022-11-24-【第2791期】可扩展-CSS-的演变](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=1&sn=1fbb17ca013f32fe86d46750843d4922&chksm=bd48d8038a3f511565f351048fe733da4cc94cdea980e5e905d750fab1f059041c750d53dc9d#rd)  
 - [2022-11-23-【第2790期】InnerEye低代码大屏：低代码思源与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259265&idx=1&sn=50cd93f871d7f85929421850a73fddbc&chksm=bd48d8058a3f5113780c5ed09419182887f4eafe582ad28f4528b0c9eb39b63b2d63e68e3b5a#rd)  
-- [2022-11-22-【第2789期】长安汽车移动应用前端架构探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259239&idx=1&sn=63028db6a2b35a2744bd3294eaa4a6ee&chksm=bd48d8e38a3f51f554d6c71bdeef8492a7006b15b59aea31de335bb4ad5afd5fa49d6ee4eb26#rd)  
-- [2022-11-22-【活动】2022第四届天津前端开发者大会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259239&idx=2&sn=de564644adf4ca12b8379f5b67214a6b&chksm=bd48d8e38a3f51f558fc61b76ef41a0cf99e10602817df299bbfd12f300a7cd9f8ab9d332e70#rd)  
+- [2022-11-23-【早说】边界感的本质](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259265&idx=2&sn=f2681224b9d46b855d359936e2e34395&chksm=bd48d8058a3f51138718e164a4e43b490b3abef0f625820aec3391366f4c01dd9c4df1ce80a3#rd)  
 - [2022-11-22-【早说】记录生活日志](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259239&idx=3&sn=4ddf14a3135fdf632f976446533248ee&chksm=bd48d8e38a3f51f5157742f0023c2ea34b82499e7a78cea30cc27fe6bcde0ac268d87e4603f5#rd)  
-- [2022-11-20-【早说】结构化倾听](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259174&idx=2&sn=d8ea76395e2a9e0ea3a2a0530daaf03d&chksm=bd48d8a28a3f51b4e6f07915484657ac79342ba69079f288c070da142c872c54a9c31df8303b#rd)  
+- [2022-11-22-【活动】2022第四届天津前端开发者大会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259239&idx=2&sn=de564644adf4ca12b8379f5b67214a6b&chksm=bd48d8e38a3f51f558fc61b76ef41a0cf99e10602817df299bbfd12f300a7cd9f8ab9d332e70#rd)  
+- [2022-11-22-【第2789期】长安汽车移动应用前端架构探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259239&idx=1&sn=63028db6a2b35a2744bd3294eaa4a6ee&chksm=bd48d8e38a3f51f554d6c71bdeef8492a7006b15b59aea31de335bb4ad5afd5fa49d6ee4eb26#rd)  
 - [2022-11-20-【第2787期】NutUI-京东小程序发布了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259174&idx=1&sn=c4359b009fc582b4dffd8f78f2baf397&chksm=bd48d8a28a3f51b40283863411c9c583b8863ae83e87e94e9838a7b8d3fed42c5db2eac0979c#rd)  
-- [2022-11-17-【第2784期】从cdnjs-的漏洞来看前端的供应链攻击与防御](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259060&idx=1&sn=58c1ed166831da720b06153949b25438&chksm=bd48d9308a3f50262de9a88b5385b914ae55c88897b4caa3272c976116a4724da52a9d9e73fa#rd)  
+- [2022-11-20-【早说】结构化倾听](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259174&idx=2&sn=d8ea76395e2a9e0ea3a2a0530daaf03d&chksm=bd48d8a28a3f51b4e6f07915484657ac79342ba69079f288c070da142c872c54a9c31df8303b#rd)  
 - [2022-11-17-【早说】工具化的步骤](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259060&idx=2&sn=518b0de7609019b1acbad9de28d191dc&chksm=bd48d9308a3f5026428edce37d73aa8aaf9e33725da94009f925b895de3102584ac5f3174d80#rd)  
-- [2022-11-16-【早说】信息架构](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259056&idx=2&sn=0ff0fa7ff28f110ff8d8072ced42f837&chksm=bd48d9348a3f5022ca0b35e3229bfcb22ba5fad0669e456fe675aaa1d4221ea00e0643fa9502#rd)  
+- [2022-11-17-【第2784期】从cdnjs-的漏洞来看前端的供应链攻击与防御](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259060&idx=1&sn=58c1ed166831da720b06153949b25438&chksm=bd48d9308a3f50262de9a88b5385b914ae55c88897b4caa3272c976116a4724da52a9d9e73fa#rd)  
 - [2022-11-16-【第2783期】2022-年前端状态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259056&idx=1&sn=8426cbb436e6a39d15db9e3319afb4db&chksm=bd48d9348a3f502236b9fea34598db4c342545a5f6ff730d6928a5e094412547641a61725491#rd)  
-- [2022-11-15-【早说】“懒”的三个境界](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258996&idx=2&sn=730eb44fd3cbd1e14ff4ed3a8a87124a&chksm=bd48d9f08a3f50e615d96e6a95ac9a04d1fb4097712f3bbee353ecec42c933d316e21c2062b5#rd)  
+- [2022-11-16-【早说】信息架构](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259056&idx=2&sn=0ff0fa7ff28f110ff8d8072ced42f837&chksm=bd48d9348a3f5022ca0b35e3229bfcb22ba5fad0669e456fe675aaa1d4221ea00e0643fa9502#rd)  
 - [2022-11-15-【第2782期】得物API一站式协作平台探索与落地](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258996&idx=1&sn=284dd45b5ccc80bd30d46f73f4da39da&chksm=bd48d9f08a3f50e6686dc04b51b2fd2ed27a578bb7223173f7966fc2433e3965a9508d8f5467#rd)  
-- [2022-11-14-【第2781期】React-渲染的未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258972&idx=1&sn=0c7934b8acf324ea4de6370cea6265de&chksm=bd48d9d88a3f50ce7b620376c0ae68023867e5757290baaf3974bc3e8b7922ffc2509dba6df0#rd)  
+- [2022-11-15-【早说】“懒”的三个境界](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258996&idx=2&sn=730eb44fd3cbd1e14ff4ed3a8a87124a&chksm=bd48d9f08a3f50e615d96e6a95ac9a04d1fb4097712f3bbee353ecec42c933d316e21c2062b5#rd)  
 - [2022-11-14-【早说】好的认知](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258972&idx=2&sn=216614f9c11f74cac588e1d4d91de650&chksm=bd48d9d88a3f50ce4d3caf5636a316260dd151200fe1073fd5bd23f7a20d3b0f2e1d63d3448a#rd)  
-- [2022-11-13-【早说】盯着KPI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258968&idx=2&sn=2406384fda9a42d7b08c34438c0ba50d&chksm=bd48d9dc8a3f50ca07ea5dbb5ae13184e74d4d27f5f72d6b15e11b5b01fa48b6120fc83b1118#rd)  
+- [2022-11-14-【第2781期】React-渲染的未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258972&idx=1&sn=0c7934b8acf324ea4de6370cea6265de&chksm=bd48d9d88a3f50ce7b620376c0ae68023867e5757290baaf3974bc3e8b7922ffc2509dba6df0#rd)  
 - [2022-11-13-【第2780期】如何用油猴提升前端开发效率](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258968&idx=1&sn=6ecca6b2f04526072defaba62ab13111&chksm=bd48d9dc8a3f50cae559607585a93107abc824a19cd3729f8241f993e7af1dd33d4679d7d1a4#rd)  
-- [2022-11-11-【第2778期】CSS-实现自适应文本的头像](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258915&idx=1&sn=33c982cd11155c89a0a971553e397e3d&chksm=bd48d9a78a3f50b18e220ef0a8b7f5cf8891a428176169f6f2795365099455c4b2a86a6adf48#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html) ![](/assets/new.png)  
 - [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
 - [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)  
 - [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
@@ -365,7 +366,6 @@
 - [2022-08-05-科技爱好者周刊（第-217-期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)  
 - [2022-08-02-DNS-查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)  
 - [2022-07-29-科技爱好者周刊（第-216-期）：极简主义的胜利](http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html)  
-- [2022-07-27-能源的极限](http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
