@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-11-25 12:00:35，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-11-26 06:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616) ![](/assets/new.png)  
 - [2022-11-18-Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)  
 - [2022-11-11-Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)  
 - [2022-11-04-Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613)  
@@ -86,7 +87,6 @@
 - [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599)  
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)  
 - [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597)  
-- [2022-07-01-Celebrating-Svelte](https://javascriptweekly.com/issues/596)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-11-25-【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd) ![](/assets/new.png)  
-- [2022-11-25-【早说】处理好情绪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=2&sn=65b684967999ed181c6efe43348d2cdf&chksm=bd48d8528a3f51443ff93f11b2983a0897454375d7c0b502b486c7e995dc731ce70195d12e67#rd) ![](/assets/new.png)  
+- [2022-11-25-【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd)  
+- [2022-11-25-【早说】处理好情绪](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=2&sn=65b684967999ed181c6efe43348d2cdf&chksm=bd48d8528a3f51443ff93f11b2983a0897454375d7c0b502b486c7e995dc731ce70195d12e67#rd)  
 - [2022-11-24-【早说】吹风的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=2&sn=045e95214dd02fa49263febc4656c31c&chksm=bd48d8038a3f51159c9aeec3819a4e5ea15dd06a7f3da4e59675a89deec9d66fd561f8b3092c#rd)  
 - [2022-11-24-【第2791期】可扩展-CSS-的演变](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259271&idx=1&sn=1fbb17ca013f32fe86d46750843d4922&chksm=bd48d8038a3f511565f351048fe733da4cc94cdea980e5e905d750fab1f059041c750d53dc9d#rd)  
 - [2022-11-23-【第2790期】InnerEye低代码大屏：低代码思源与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259265&idx=1&sn=50cd93f871d7f85929421850a73fddbc&chksm=bd48d8058a3f5113780c5ed09419182887f4eafe582ad28f4528b0c9eb39b63b2d63e68e3b5a#rd)  
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html) ![](/assets/new.png)  
+- [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)  
 - [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
 - [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)  
 - [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
