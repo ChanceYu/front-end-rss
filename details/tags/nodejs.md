@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-11-30 18:04:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-01 06:02:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -313,6 +313,7 @@
 - [2017-12-19-Pandora.js-的-Service-机制](https://fed.taobao.org/blog/2017/12/19/pandora-service/) 
 - [2017-12-13-管理-Node.js-进程从未如此优雅](https://fed.taobao.org/blog/2017/12/13/pandora/) 
 - [2017-08-31-深入理解-Node.js-Stream-内部机制](https://fed.taobao.org/blog/2017/08/31/nodejs-stream/) 
+- [2022-11-30-从今天开始，请叫我Node文本节点处理大师](https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/) 
 - [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html) 
 - [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html) 
