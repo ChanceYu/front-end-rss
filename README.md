@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-01 18:02:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-02 06:05:25，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2022-12-01-Lots-of-Electron-news](https://nodeweekly.com/issues/465) ![](/assets/new.png)  
 - [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464)  
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)  
 - [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
@@ -55,7 +56,6 @@
 - [2022-07-28-Using-Rust-to-build-Node-modules](https://nodeweekly.com/issues/448)  
 - [2022-07-21-cd-/home/nodejs/news](https://nodeweekly.com/issues/447)  
 - [2022-07-14-Node-18.6-and-custom-ESM-loaders](https://nodeweekly.com/issues/446)  
-- [2022-07-07-All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,26 +160,26 @@
 </summary>
 
 
+- [2022-11-30-后Kubernetes时代的未来？Wasmer-3.0-发布，可在浏览器外运行-WebAssembly](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518873&idx=1&sn=4cdbd549daea8b00e69780e1ba01cf02&chksm=f9523fdace25b6cc7999ad752aabc71ef84818b34c2531ac0bab1d18b0fb9aba2eecef10002c#rd) ![](/assets/new.png)  
 - [2022-11-28-智能化与低码化在兴盛优选的应用与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518857&idx=1&sn=ac1b341bbe11bfac5f9cef305200bd16&chksm=f9523fcace25b6dcbb1885966e2850a0798941a6409db63e6583bb986362cbc3abdc94520ecf#rd)  
 - [2022-11-25-与60多位专家相约，了解企业最新研发实践-|-ArchSummit](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518778&idx=1&sn=6c12902d00d49c1e94bad8d3b6c1d463&chksm=f9523f79ce25b66f730ad4a0914df862d873d052d608cef234cee5131457751ac462a2f010ed#rd)  
 - [2022-11-23-Next.js-13新的实验性特性，实现App“动态无限制”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518763&idx=1&sn=edb0024df90c498dcf5dd05336557519&chksm=f9523f68ce25b67ec675e8a006cea8489cabf4f8ccb2f9172bf2db86e2798c6a4b4d39312c3a#rd)  
-- [2022-11-21-2022年生态大会现开启报名｜四大亮点全面解析！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518751&idx=2&sn=e62a11134db48803a92d65ec7faf68cf&chksm=f9523f5cce25b64acd42e11925c0ffcb1e79fe223503ae57d4bd9aa9cce915fb1d2f65829ba5#rd)  
 - [2022-11-21-全新JavaScript框架Qwik：以独特的可恢复性方式提速网页应用](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518751&idx=1&sn=d748509f92827bd26a9c37ce036c4e6c&chksm=f9523f5cce25b64a5cd5642fd02556f9c4b8d8d9a04c947d016fe2167d091313c5aedce971e2#rd)  
+- [2022-11-21-2022年生态大会现开启报名｜四大亮点全面解析！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518751&idx=2&sn=e62a11134db48803a92d65ec7faf68cf&chksm=f9523f5cce25b64acd42e11925c0ffcb1e79fe223503ae57d4bd9aa9cce915fb1d2f65829ba5#rd)  
 - [2022-11-18-美团基于-Serverless-的前端研发体系建设和业务实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518699&idx=1&sn=b73ed265b45972548bb33c3fd83499f3&chksm=f9523ca8ce25b5be93a163a92401abed5663520f789db2aea782461a353e54e4086df1ee6535#rd)  
-- [2022-11-16-如何从0开始画出一张优秀的架构图](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518668&idx=2&sn=fddbe3968ef49a8e4328dd7e579bd0b6&chksm=f9523c8fce25b5996db91676016488b613f803549913fe7ba9e48bd8a2f428974405cd44ed94#rd)  
 - [2022-11-16-华为云官网-Web3D-和动效技术的应用与探索](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518668&idx=1&sn=f0cfb4d37105b7ecc2ce2ca1e64baa77&chksm=f9523c8fce25b599c89cee6dccde57dd7e5fcc7e7d0cb7c17a9b68f01a0a71f1e1e6bac4d0d8#rd)  
+- [2022-11-16-如何从0开始画出一张优秀的架构图](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518668&idx=2&sn=fddbe3968ef49a8e4328dd7e579bd0b6&chksm=f9523c8fce25b5996db91676016488b613f803549913fe7ba9e48bd8a2f428974405cd44ed94#rd)  
 - [2022-11-14-如何提高Web可访问性，让残障人士拥有更好的体验？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518575&idx=1&sn=8f6619ad453f8e5349c3f8d5f3c62edd&chksm=f9523c2cce25b53a987d8b13274acf5153a675446ca5fb4bfd177815b16a5384e034ebbae39a#rd)  
-- [2022-11-11-前端工程师学到什么程度，才算是有了技术壁垒？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518494&idx=2&sn=0c73f3732f70ceb11e56cc08252de303&chksm=f9523c5dce25b54b4125aa61184975ab6fb3fedd0382c9ea2bd7c22331e7e33bd7b38cbf357c#rd)  
 - [2022-11-11-Emotion库维护者解释为什么Spot公司不再使用运行时CSS-in-JS](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518494&idx=1&sn=25264296c53894cae68a512d9f7e8c79&chksm=f9523c5dce25b54b561e12c1eb1d99cb75b5767014ed0944c8c1ab9d67c9550fa35848d68f8b#rd)  
-- [2022-11-09-Node.js中的关注点分离](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=1&sn=bfbf08e43cf252f1cecb431c172b446f&chksm=f9523dbbce25b4ad92e2c2f8cc037528ac9c2f54e6c02215b557bf7755d9bf8fcd6116017712#rd)  
+- [2022-11-11-前端工程师学到什么程度，才算是有了技术壁垒？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518494&idx=2&sn=0c73f3732f70ceb11e56cc08252de303&chksm=f9523c5dce25b54b4125aa61184975ab6fb3fedd0382c9ea2bd7c22331e7e33bd7b38cbf357c#rd)  
 - [2022-11-09-Vue3-现在学算晚么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=2&sn=097247dc441f35b9f2b4998f7d859f1c&chksm=f9523dbbce25b4ad52f336b572a98dad11c0455b5eb69425a38ae000b2c5af7c6ba1bc378052#rd)  
+- [2022-11-09-Node.js中的关注点分离](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=1&sn=bfbf08e43cf252f1cecb431c172b446f&chksm=f9523dbbce25b4ad92e2c2f8cc037528ac9c2f54e6c02215b557bf7755d9bf8fcd6116017712#rd)  
 - [2022-11-07-前端又开撕了：用Rust写的Turbopack，比Vite快10倍？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518410&idx=1&sn=64989ffd7904548416483106cd5a4eeb&chksm=f9523d89ce25b49f9a61c2d50c11d1d4770be5c0ae6cd90c3afa8a12766a885663a0c7cea122#rd)  
-- [2022-11-04-Htmx意外走红，我们从React“退回去”后：代码行数减少-67%，JS-依赖项从-255-下降到-9](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=1&sn=5d14ec38cfe720ae061e1e8a6dbd4c4b&chksm=f9523d86ce25b490b0b2610a0eddb1aadadef27141f93018d263dbc7e5b646e80d2b5b50fe83#rd)  
 - [2022-11-04-自己动手搭建一个-React-项目，真香](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=2&sn=e8c46d566d364091584b715cfcb14161&chksm=f9523d86ce25b49047345325eb2f015d2368c035d89f33c015176c734ff1c35f5f8f67aca612#rd)  
+- [2022-11-04-Htmx意外走红，我们从React“退回去”后：代码行数减少-67%，JS-依赖项从-255-下降到-9](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518405&idx=1&sn=5d14ec38cfe720ae061e1e8a6dbd4c4b&chksm=f9523d86ce25b490b0b2610a0eddb1aadadef27141f93018d263dbc7e5b646e80d2b5b50fe83#rd)  
 - [2022-11-02-哈啰跨技术栈前端组件库-Quark-最新实现与成果展示](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518378&idx=1&sn=a5df52b7f2f9ed1a70e8d196b9e14748&chksm=f9523de9ce25b4ffceb394daeee2a2c25e06e985a6faf206a92b1adcc3f61692215146dc82e0#rd)  
 - [2022-10-31-基于Angular的微前端理念与实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518363&idx=1&sn=45086e7eac79243213e57d614c96b27c&chksm=f9523dd8ce25b4cede62e7f1cce62d9d7edb23dd876fb40b7663a95ca297d82a21cf7b3fb860#rd)  
 - [2022-10-27-Webpack-创始人推出比-Webpack“快-700-倍”的-Turbopack，基于-Rust-编写](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518351&idx=1&sn=71b9ddea0a5e75ef2568542d5a70fb92&chksm=f9523dccce25b4dacd84ccbe0a5364f0f1705751333098fa2d03cf66b56c63e90a0ce13d6eb9#rd)  
-- [2022-10-24-当“增加人员”不足以解决问题，你就该考虑应用“微前端”了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518305&idx=1&sn=d05b9e6527070847d6d08288eedb6cd3&chksm=f9523d22ce25b4342b8eb2992772b96ea64aa15ae17fa0b22a5f912e29e5ea7af7e25c8283ab#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2022-11-30-面试官：你答出来了，我就不可以挂你吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487457&idx=1&sn=403e59a16d8602dcf42fd542a54c5bed&chksm=ce461a70f9319366b6bf944031f9becfb112a4a2b81d5f81fbc089d196288241415063917d13#rd) ![](/assets/new.png)  
+- [2022-11-30-面试官：你答出来了，我就不可以挂你吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487457&idx=1&sn=403e59a16d8602dcf42fd542a54c5bed&chksm=ce461a70f9319366b6bf944031f9becfb112a4a2b81d5f81fbc089d196288241415063917d13#rd)  
 - [2022-11-29-开个新坑，手摸手解析63道JS手写面试题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487455&idx=1&sn=1ebcfcba6dcf7cf21e5d2ec66905d989&chksm=ce461a4ef93193585c4089a48481027998c8892564e4eb1aa8a040032da56a4a2a17389cac6a#rd)  
 - [2022-11-28-因为实现不了Promise.all，一场面试凉凉了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487453&idx=1&sn=a7b9b73289ecde253bf9b4f9af3579f9&chksm=ce461a4cf931935adf4c1881123983ea96c41f559dfd54c9b871852c21c77be2d8cc983da29b#rd)  
 - [2022-11-26-vue如何二次封装一个高频可复用的组件](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487451&idx=1&sn=e19d1005111b89c73b60f36d72cb71ec&chksm=ce461a4af931935c63e72054f4ccd95ff4665ddb498b910dd20d65cc259209d34fdc860eb9ef#rd)  
