@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-11-26 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-03 06:02:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617) 
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616) 
 - [2022-11-18-Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615) 
 - [2022-11-11-Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614) 

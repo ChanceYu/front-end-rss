@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-02 18:02:21，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-03 06:02:18，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617) ![](/assets/new.png)  
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)  
 - [2022-11-18-Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)  
 - [2022-11-11-Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)  
@@ -86,7 +87,6 @@
 - [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600)  
 - [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599)  
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)  
-- [2022-07-08-An-all-in-Bun-JavaScript-runtime.](https://javascriptweekly.com/issues/597)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,9 +98,9 @@
 </summary>
 
 
-- [2022-12-02-【第2799期】小心你复制的内容：使用零宽字符将用户名不可见的插入文本中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=1&sn=63c728dffc42dd65e5b785ae3141434f&chksm=bd48db248a3f52322720afec1f9791747e48772a6cf1882165499fb2727947ca9e06a4ed12b1#rd) ![](/assets/new.png)  
-- [2022-12-02-【活动】VueConf-2022-来了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=2&sn=200aa05ecf83a15ba83c93ece9044149&chksm=bd48db248a3f523260f00262c3dd59ad66de41273445443a1da606a4d6252cbb790dfd82b14e#rd) ![](/assets/new.png)  
-- [2022-12-02-【早说】如何让技术好奇心与公司业务发展一致呢？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=3&sn=bea5069671a7873e92429afb585fc76c&chksm=bd48db248a3f5232fb39872dc4adea570544df84063fccc3b26f694e9f89298721b3aed132e6#rd) ![](/assets/new.png)  
+- [2022-12-02-【第2799期】小心你复制的内容：使用零宽字符将用户名不可见的插入文本中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=1&sn=63c728dffc42dd65e5b785ae3141434f&chksm=bd48db248a3f52322720afec1f9791747e48772a6cf1882165499fb2727947ca9e06a4ed12b1#rd)  
+- [2022-12-02-【活动】VueConf-2022-来了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=2&sn=200aa05ecf83a15ba83c93ece9044149&chksm=bd48db248a3f523260f00262c3dd59ad66de41273445443a1da606a4d6252cbb790dfd82b14e#rd)  
+- [2022-12-02-【早说】如何让技术好奇心与公司业务发展一致呢？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=3&sn=bea5069671a7873e92429afb585fc76c&chksm=bd48db248a3f5232fb39872dc4adea570544df84063fccc3b26f694e9f89298721b3aed132e6#rd)  
 - [2022-12-01-【早说】想法多过时间的时候，怎么做？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259529&idx=3&sn=780ce29218cc8ea9f54cca5c7043226c&chksm=bd48db0d8a3f521bf1ec30221ff1d97236ff97376656b22cdaac284073e7f73f577c6a3f0ba2#rd)  
 - [2022-12-01-【课程】@大漠带你精通-Web-布局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259529&idx=2&sn=e3abc7e10a47597ca6bc43fc98dde8a1&chksm=bd48db0d8a3f521b4b29d7fd67814080f0916ce5cf32f72cea920eb69e700ae78915d345cf99#rd)  
 - [2022-12-01-【第2798期】CSS-容器查询与单元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259529&idx=1&sn=f0d5672f4771d07ef52f57e7617d55a8&chksm=bd48db0d8a3f521b22893852df41646b700b0053577d8b11487141f3fa606a66f9c7fd6c0db4#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-12-02-万字长文：分享前端性能优化知识体系](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487459&idx=1&sn=bd09a49654a700063fa118d0966f5961&chksm=ce461a72f931936433c89e16010e009279985e77fe653b8951eca73ff58aae63d7c58dd6f012#rd) ![](/assets/new.png)  
 - [2022-11-30-面试官：你答出来了，我就不可以挂你吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487457&idx=1&sn=403e59a16d8602dcf42fd542a54c5bed&chksm=ce461a70f9319366b6bf944031f9becfb112a4a2b81d5f81fbc089d196288241415063917d13#rd)  
 - [2022-11-29-开个新坑，手摸手解析63道JS手写面试题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487455&idx=1&sn=1ebcfcba6dcf7cf21e5d2ec66905d989&chksm=ce461a4ef93193585c4089a48481027998c8892564e4eb1aa8a040032da56a4a2a17389cac6a#rd)  
 - [2022-11-28-因为实现不了Promise.all，一场面试凉凉了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487453&idx=1&sn=a7b9b73289ecde253bf9b4f9af3579f9&chksm=ce461a4cf931935adf4c1881123983ea96c41f559dfd54c9b871852c21c77be2d8cc983da29b#rd)  
@@ -210,7 +211,6 @@
 - [2022-11-10-一件小事，让我更加确信TypeScript的重要性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487334&idx=1&sn=7b2ad4d842607682f6feda5b2f568c9f&chksm=ce461af7f93193e1d9b1ed702d311183bb61a4f935aba86666be10eebc5126b31512e2963055#rd)  
 - [2022-11-09-花了一天的时间，地板式扫盲了vue3中所有API盲点](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487328&idx=1&sn=461b09ddbffc4aa7919e3fbaaf3a746d&chksm=ce461af1f93193e748564b0dfb4436ddc057bd0afbe722594bee22650895b36c1fdd333b8aad#rd)  
 - [2022-11-08-狂肝半月！2022前端高频面试题汇总，收藏过冬！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487210&idx=1&sn=f812f9d1821c6eac6d56bfaa3c569567&chksm=ce461b7bf931926d14f667520780d39d482a3932bda9627e35577eeb43efe6b314dd0ad3d388#rd)  
-- [2022-11-07-面试官：你对es6很了解？那实现一个Set吧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487177&idx=1&sn=69250c0fde274ec09c895d8f50f0093a&chksm=ce461b58f931924eec54a264cd6e69806eaa80e78857f7b2bbfa936ab09a1201ca4a35cd4a86#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

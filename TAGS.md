@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-12-02 18:02:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-12-03 06:02:18。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -769,6 +769,7 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617)
 - [【JavaScript-Weekly】Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)
 - [【JavaScript-Weekly】🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611)
 - [【JavaScript-Weekly】Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)
@@ -776,7 +777,6 @@
 - [【JavaScript-Weekly】Celebrating-Svelte](https://javascriptweekly.com/issues/596)
 - [【JavaScript-Weekly】Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)
 - [【JavaScript-Weekly】NaNNaNNaNNaN-Batman](https://javascriptweekly.com/issues/573)
-- [【前端早读课】【第2799期】小心你复制的内容：使用零宽字符将用户名不可见的插入文本中](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259552&idx=1&sn=63c728dffc42dd65e5b785ae3141434f&chksm=bd48db248a3f52322720afec1f9791747e48772a6cf1882165499fb2727947ca9e06a4ed12b1#rd)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
