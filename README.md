@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-09 08:00:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-09 12:00:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-12-09-【第2806期】从Lint工具窥探前端的clean-code](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259669&idx=1&sn=8e3f99bff120a597890e240e9993f672&chksm=bd48da918a3f53872e14ef1d4a96162f106069bef5a9d02871175282ff2d8dc8a32b4c137f8e#rd) ![](/assets/new.png)  
-- [2022-12-09-【早说】提问的艺术：怎么问？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259669&idx=2&sn=c78de5691ccc9909d492edee149a8bc8&chksm=bd48da918a3f5387ebeb313118e74d234dba8bc62c3d56354cd277167d7efbb98785540c4e1c#rd) ![](/assets/new.png)  
+- [2022-12-09-【第2806期】从Lint工具窥探前端的clean-code](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259669&idx=1&sn=8e3f99bff120a597890e240e9993f672&chksm=bd48da918a3f53872e14ef1d4a96162f106069bef5a9d02871175282ff2d8dc8a32b4c137f8e#rd)  
+- [2022-12-09-【早说】提问的艺术：怎么问？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259669&idx=2&sn=c78de5691ccc9909d492edee149a8bc8&chksm=bd48da918a3f5387ebeb313118e74d234dba8bc62c3d56354cd277167d7efbb98785540c4e1c#rd)  
 - [2022-12-08-【早说】提问的艺术：问什么？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259659&idx=2&sn=c5cbd9e89a7bb1e74120f2486dbe1a5d&chksm=bd48da8f8a3f53994ae461cfe324ca0aeaa23ea41dc2ac91294efd40c6493215499f74513181#rd)  
 - [2022-12-08-【第2805期】React-数据获取与性能优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259659&idx=1&sn=722b759e00c9c9078ddb8dadd5232eaf&chksm=bd48da8f8a3f5399bdc33dcc7994ecd99f721f44af37411adbe36d443d88d6d6139cf417a578#rd)  
 - [2022-12-07-【第2804期】Islands-架构原理和实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259645&idx=1&sn=66e8725f7e48618820ca3bde2df6db64&chksm=bd48db798a3f526f9a6acc94b2b93c6241508d3375610b1359f0d920c2e15c8f3bfd90d948e7#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html) ![](/assets/new.png)  
 - [2022-12-02-科技爱好者周刊（第-233-期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)  
 - [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)  
 - [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
@@ -365,7 +366,6 @@
 - [2022-08-19-科技爱好者周刊（第-219-期）：如何防止帐号被黑](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html)  
 - [2022-08-12-科技爱好者周刊（第-218-期）：葡萄酒，樱花，全球变暖](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-218.html)  
 - [2022-08-05-科技爱好者周刊（第-217-期）：沙特的新未来城](http://www.ruanyifeng.com/blog/2022/08/weekly-issue-217.html)  
-- [2022-08-02-DNS-查询原理详解](http://www.ruanyifeng.com/blog/2022/08/dns-query.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
