@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2022-12-09 12:00:36。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2022-12-10 06:00:27。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -153,6 +153,7 @@
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】Vite-4.0-released](https://javascriptweekly.com/issues/618)
 - [【JavaScript-Weekly】Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613)
 - [【JavaScript-Weekly】Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)
 - [【JavaScript-Weekly】Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575)
@@ -166,7 +167,6 @@
 - [【前端早读课】【第2672期】浅析ESLint原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256493&idx=1&sn=29485dfff7edeed6e8d1f32eb2d35b15&chksm=bd492f298a3ea63fb2a52cb725e9fbe08708605ea43b7bc424e3cb8ddd2241396872fc191454#rd)
 - [【前端早读课】【第2623期】如何在-Monorepo-通过-Git-的-Sparse-Checkout-取得部分-Repo-內容](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254434&idx=1&sn=9f33699c41d3f047d4e72526d5b061ed&chksm=bd4937268a3ebe30f3d4fe049fb63e1fa988d49e0dabeb994fe8eef41064cc9e8c70ad620257#rd)
 - [【前端早读课】【第2602期】设置-NPM-Registry-的-4-种姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254065&idx=1&sn=b48d14ad326f021e80cc183460aab2f2&chksm=bd4934b58a3ebda36513c83e72e7b944f33ca3433344bcdbe6d3a8de68889b19c5f1be387f85#rd)
-- [【前端早读课】【第2596期】如何构建可控,可靠,可扩展的-PWA-应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253966&idx=1&sn=6b6b595832f04ce84b2117b772afacb1&chksm=bd49354a8a3ebc5ce658c1579f1a43f63badba75b1f1a67888b397fd06ee2d99e562da4af008#rd)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

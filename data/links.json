@@ -263,6 +263,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Vite 4.0 released",
+        "link": "https://javascriptweekly.com/issues/618",
+        "date": "2022-12-09"
+      },
+      {
         "title": "Splitting up sentences with Intl.Segmenter",
         "link": "https://javascriptweekly.com/issues/617",
         "date": "2022-12-02"

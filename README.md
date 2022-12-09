@@ -10,12 +10,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-09 12:00:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-10 06:00:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-12-09-Vite-4.0-released](https://javascriptweekly.com/issues/618) ![](/assets/new.png)  
 - [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617)  
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)  
 - [2022-11-18-Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)  
@@ -86,7 +87,6 @@
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601)  
 - [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600)  
 - [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599)  
-- [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html) ![](/assets/new.png)  
+- [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)  
 - [2022-12-02-科技爱好者周刊（第-233-期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)  
 - [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)  
 - [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
