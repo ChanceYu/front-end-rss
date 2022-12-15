@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-14 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-16 06:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-12-15-The-best-of-Node-Weekly-in-2022](https://nodeweekly.com/issues/467) 
 - [2022-12-01-Lots-of-Electron-news](https://nodeweekly.com/issues/465) 
 - [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461) 
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460) 
