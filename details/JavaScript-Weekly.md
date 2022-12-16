@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-12-10 06:00:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-17 06:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2022-12-16-A-new-jQuery-release-for-Xmas](https://javascriptweekly.com/issues/619) 
 - [2022-12-09-Vite-4.0-released](https://javascriptweekly.com/issues/618) 
 - [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617) 
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616) 

@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-16 12:00:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-17 06:00:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2022-12-16-A-new-jQuery-release-for-Xmas](https://javascriptweekly.com/issues/619) ![](/assets/new.png)  
 - [2022-12-09-Vite-4.0-released](https://javascriptweekly.com/issues/618)  
 - [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617)  
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)  
@@ -86,7 +87,6 @@
 - [2022-08-12-A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)  
 - [2022-08-05-Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601)  
 - [2022-07-29-Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600)  
-- [2022-07-22-Common-JavaScript-issues-developers-face](https://javascriptweekly.com/issues/599)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2022-12-16-【第2813期】网易严选APP端上H5容器化建设](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259787&idx=1&sn=b0b1266303be70ad1a5334fc1ac1056f&chksm=bd48da0f8a3f53198c040a95e7f21c1333aab1dfbecda223083e9831226b1f392088985cf44b#rd) ![](/assets/new.png)  
-- [2022-12-16-【早说】技术如何赋能业务？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259787&idx=2&sn=66c6903a284ce75d1562580f9c7b6da0&chksm=bd48da0f8a3f531958028cebe20963615bb797ae6b1617f923c5631693f33888b363697674c5#rd) ![](/assets/new.png)  
+- [2022-12-16-【第2813期】网易严选APP端上H5容器化建设](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259787&idx=1&sn=b0b1266303be70ad1a5334fc1ac1056f&chksm=bd48da0f8a3f53198c040a95e7f21c1333aab1dfbecda223083e9831226b1f392088985cf44b#rd)  
+- [2022-12-16-【早说】技术如何赋能业务？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259787&idx=2&sn=66c6903a284ce75d1562580f9c7b6da0&chksm=bd48da0f8a3f531958028cebe20963615bb797ae6b1617f923c5631693f33888b363697674c5#rd)  
 - [2022-12-13-【早说】把时间拉长](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259735&idx=2&sn=4dc5282ec732cc032fea42e2595942c9&chksm=bd48dad38a3f53c505cb61d92b711630b3fa7b86b942886f29b045357188e9912c91489f3583#rd)  
 - [2022-12-13-【第2810期】JavaScript-深拷贝性能分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259735&idx=1&sn=dd758a64e2f0ea7ad713043f32cf2d55&chksm=bd48dad38a3f53c55c5f96c4e60b1dad77ab1201e36d9d8ca556c319c67f4aadfdbe0765d210#rd)  
 - [2022-12-12-【第2809期】大型会场活动线上保障方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259731&idx=1&sn=0a726e43b4299d38c4636d78c5f8062e&chksm=bd48dad78a3f53c104e85c0ed6d616e4335d18d673afbd772d4c095a2ed2c4ddaa641ca004c8#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-12-16-节后换工作，这100道前端面试题，可以很大帮助到你！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487538&idx=1&sn=1b3be69fdb4ca95d74dda7f802f345e3&chksm=ce4605a3f9318cb57ffce4e27a7b47265e55d570aa2216322a22834a241b20acf1a07f03735a#rd) ![](/assets/new.png)  
 - [2022-12-15-Vue-+-sentry-实现生产环境前端代码错误监控](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487522&idx=1&sn=37ce935f597e3061336ddb9f76268a30&chksm=ce4605b3f9318ca5d75c0bd6c2e7982046932b77839527e63aa01dc0e4b0ca722c72441aa97d#rd)  
 - [2022-12-13-Vue-上传文件组件如何封装？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487487&idx=1&sn=35bd59a23b8b4ccd0e396178ebfae10c&chksm=ce461a6ef9319378d9a35089bbbb5bdcb86ba3f971f1d3e9137e15d548a894b78efb035d2838#rd)  
 - [2022-12-10-性能优化面试官想听的是什么？别再说那些老掉牙的性能优化了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487485&idx=1&sn=a02a172618cd66d72ef45553a471c889&chksm=ce461a6cf931937a9412a001181a7db3f2c26bb30b90ef93afb084ee6eb16be2cba513859d8a#rd)  
@@ -210,7 +211,6 @@
 - [2022-11-18-工作中如何使用-Git](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487425&idx=1&sn=c522a7efd73837e02f5c2fb6e6560484&chksm=ce461a50f93193465f097f6e95810bfaef66da69eb262b763bb66288eb11d15a05717cefd38d#rd)  
 - [2022-11-17-前端必备-|-3分钟白嫖我压箱底的免费效率工具](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487423&idx=1&sn=5918668cbd64f605f330a7dc90294e82&chksm=ce461a2ef931933893df6bf8bfba5bd338371b4308bfc8ab98f7b2365765257f373ff232785f#rd)  
 - [2022-11-16-新手学javascript重点应该学什么？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487422&idx=1&sn=e5b62b01b0b5edc2a9c2892e26740731&chksm=ce461a2ff93193397835785ffa26fc4a0cfce0d8342f61b28436de9d87681f9136dc73c6a87c#rd)  
-- [2022-11-15-华为的前端面试题全集，全刷完，不怕找不到工作！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487420&idx=1&sn=b935cca567d8ee5285a33e07532da3d6&chksm=ce461a2df931933be7699c1f357f26919982f5650225f867b2a380268a9cd381840d3f52b727#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-12-16-科技爱好者周刊（第-235-期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html) ![](/assets/new.png)  
+- [2022-12-16-科技爱好者周刊（第-235-期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)  
 - [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)  
 - [2022-12-02-科技爱好者周刊（第-233-期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)  
 - [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)  
