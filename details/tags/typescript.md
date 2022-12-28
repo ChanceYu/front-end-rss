@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-28 18:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-28 22:04:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -132,11 +132,13 @@
 - [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
+- [2022-12-27-如何在-TypeScript-中使用命名空间](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512309&idx=2&sn=babf2ec8ebb4993fea1a3ab2d964aaf1&chksm=f992b624cee53f32f556dc5f104a95ea6ab3229f05ba538e8949584e932eabd46214761edccf#rd) 
 - [2022-11-02-写-TypeScript-时，很多人可能会犯的几个小错误！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247511264&idx=1&sn=15be1e7f4c0f6f72fa6f7d42458618c4&chksm=f992aa31cee52327d2c59ddf52cbe3b0df376b85314408eb32bf56bd6e8a9de88790db17664c#rd) 
 - [2022-08-07-2022-年了，我才开始学-TypeScript-，晚吗？（7.5k字总结）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510194&idx=1&sn=e2c701826214bc79a3f7f2a059b382dd&chksm=f992ae63cee527751a43005d2fb4081ffb7229226d2740f242cf0fa679223f1b971002a21515#rd) 
 - [2022-05-16-会写-TypeScript-但你真的会-TS-编译配置吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506883&idx=2&sn=e15c74fe111f6d5f1fc3779a735d219e&chksm=f992dd12cee55404e98c9100490588e3867ed0773a1fff209824e6e805794f8fd5f99a3c2b4e#rd) 
 - [2022-05-14-TypeScript-高级类型及用法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506818&idx=2&sn=32632acbf6321de0157649743c477128&chksm=f992dd53cee554452b108b68197aff0e56d071e1bb961be2a184fd8938d9ba9a22c5dad861d4#rd) 
 - [2022-03-09-TypeScript-应该尽量避免的语法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503945&idx=2&sn=dcb3f8699e4b0b27037a529c943d6edd&chksm=f992d698cee55f8ee497843e6cf99633632bccb505e9f027c84e4aba9ab9fd27093d477ed8df#rd) 
 - [2022-01-20-基于pnpm-+-lerna-+-typescript的最佳项目实践---理论篇](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=1&sn=21c012b5ef9f3414479e5857596706f1&chksm=f992cd59cee5444f1bc9f4773c1d6fe07ce3a8efb380b262dc4822ed4c4b6abb4cbf3600dabf#rd) 
+- [2022-09-27-TypeScript-4.9-beta-发布：鸽置的-ES-装饰器、satisfies-操作符、类型收窄增强、单文件级别配置等](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496329&idx=1&sn=e0ca704b51890a9d400c0f155244ad41&chksm=ec47b94adb30305c79c3af5df585fca27b7fbdf683411c43e944e0d82607a38b45b4f0162e75#rd) 
 - [2022-03-16-TypeScript-中的类型控制流分析演进](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495503&idx=1&sn=7f5a63645e5b90d222865204df3afc2c&chksm=ec47a48cdb302d9aa0523361551dc7d839508832187f6330911695ce86c518d7c758c552635e#rd) 
 - [2022-03-01-淘宝店铺-TypeScript-研发规约落地实践](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495461&idx=1&sn=ad1efbe8eba81569aae9914d58dd2cbe&chksm=ec47a4e6db302df032a900ce47032b429b5e85c6e2fb027434ddd1f9ef16d5c19304190c5990#rd) 
