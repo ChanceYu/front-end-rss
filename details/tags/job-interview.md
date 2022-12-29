@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-12-29 22:02:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-30 06:02:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -347,6 +347,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2022-12-29-大三的小白同学是如何拿到字节offer的，经验分享](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487551&idx=1&sn=9e10f8ba278eb594de31b4ffcb02dcd8&chksm=ce4605aef9318cb8f11f505ecd0afd07d3435b70d2ab93d89066a390239cc56f9a1d556e865f#rd) 
 - [2022-12-16-节后换工作，这100道前端面试题，可以很大帮助到你！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487538&idx=1&sn=1b3be69fdb4ca95d74dda7f802f345e3&chksm=ce4605a3f9318cb57ffce4e27a7b47265e55d570aa2216322a22834a241b20acf1a07f03735a#rd) 
 - [2022-12-05-前端面试题还是挺重要的！春节前后找工作还得看面试题啊~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487465&idx=1&sn=0d341cafa6ae3b36e97fe842b859f645&chksm=ce461a78f931936e299734972ae5a7f831d146abcf4b288b6cb4b37088e28ae7db936f9d6db1#rd) 
 - [2022-11-30-面试官：你答出来了，我就不可以挂你吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487457&idx=1&sn=403e59a16d8602dcf42fd542a54c5bed&chksm=ce461a70f9319366b6bf944031f9becfb112a4a2b81d5f81fbc089d196288241415063917d13#rd) 

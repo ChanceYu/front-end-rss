@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-29 22:02:45，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-30 06:02:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,8 +18,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -160,14 +160,14 @@
 </summary>
 
 
-- [2022-12-29-职场老兵的管理方法：给目标，敢放手，且有长期性约束-|-ArchSummit](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519409&idx=1&sn=49d19588872de725ec47eaeda48255b6&chksm=f95239f2ce25b0e42d962c772ab548ce482148a72483304250d146d7c8b97b74658cb4127b1c#rd) ![](/assets/new.png)  
-- [2022-12-28-字节跳动Serverless-高密度部署与-Web-interoperable-Runtime实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519399&idx=1&sn=9fbb1b60cd8b21dd9d4926e70f8829f1&chksm=f95239e4ce25b0f2971ca173f8461aa53c8094630dc0ef605f372884e4b22f126effddda61f8#rd) ![](/assets/new.png)  
+- [2022-12-29-职场老兵的管理方法：给目标，敢放手，且有长期性约束-|-ArchSummit](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519409&idx=1&sn=49d19588872de725ec47eaeda48255b6&chksm=f95239f2ce25b0e42d962c772ab548ce482148a72483304250d146d7c8b97b74658cb4127b1c#rd)  
+- [2022-12-28-字节跳动Serverless-高密度部署与-Web-interoperable-Runtime实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519399&idx=1&sn=9fbb1b60cd8b21dd9d4926e70f8829f1&chksm=f95239e4ce25b0f2971ca173f8461aa53c8094630dc0ef605f372884e4b22f126effddda61f8#rd)  
 - [2022-12-26-PyScript：让Python在Web中跑起来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519350&idx=1&sn=ca4f0fb89b4415165a9b179efcccbc35&chksm=f9523935ce25b02337421ec24c2dce5abb7eafa6571d265dba47bc15d6fc602742236d87536d#rd)  
 - [2022-12-22-多数据中心的分布式架构该怎么建设？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519320&idx=1&sn=475a5362d68c2aee451ba3596cc8cda7&chksm=f952391bce25b00dac3da544ed582dd3077ed8b05425ec61c901774336926809b3ade3d962fa#rd)  
 - [2022-12-21-Swift-2023：所有权、宏和C++互操作](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519265&idx=1&sn=84ca8f072ab94425e4e2bb6b752db5b6&chksm=f9523962ce25b074237cc5a1962727ccfbacdb1d139ec534d47ed7f146e0b377d0229499417b#rd)  
-- [2022-12-19-你的Flutter应用该考虑迁移代码了：Dart-3将在2023年成为100%健全的空安全语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519255&idx=1&sn=56f16cb02781337aaa431b3cde0fec93&chksm=f9523954ce25b042e9ddc8f53d672cd1be4b873b323bc316ae6bad7345232cd7849622430b63#rd) ![](/assets/new.png)  
-- [2022-12-16-Slack的移动开发经验谈：如何让开发者随时顺畅工作](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519244&idx=1&sn=8846dedc643edc13b21f96ffa8415116&chksm=f952394fce25b05987d035f12e1531688bee99af81847ce72b2176e32c93f5b92f7bbd9d4e15#rd) ![](/assets/new.png)  
-- [2022-12-14-React将死：看看这些更好的代餐吧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519191&idx=1&sn=d954c6013770a4af66a5ccaafa9e5dc4&chksm=f9523e94ce25b7821bb40426388eba48f1dd5755f16fc785a240020818a0849decc83a4c8c73#rd) ![](/assets/new.png)  
+- [2022-12-19-你的Flutter应用该考虑迁移代码了：Dart-3将在2023年成为100%健全的空安全语言](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519255&idx=1&sn=56f16cb02781337aaa431b3cde0fec93&chksm=f9523954ce25b042e9ddc8f53d672cd1be4b873b323bc316ae6bad7345232cd7849622430b63#rd)  
+- [2022-12-16-Slack的移动开发经验谈：如何让开发者随时顺畅工作](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519244&idx=1&sn=8846dedc643edc13b21f96ffa8415116&chksm=f952394fce25b05987d035f12e1531688bee99af81847ce72b2176e32c93f5b92f7bbd9d4e15#rd)  
+- [2022-12-14-React将死：看看这些更好的代餐吧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519191&idx=1&sn=d954c6013770a4af66a5ccaafa9e5dc4&chksm=f9523e94ce25b7821bb40426388eba48f1dd5755f16fc785a240020818a0849decc83a4c8c73#rd)  
 - [2022-12-12-Vue-3是最佳选择吗?-耗时两周从Vue-2迁移到Svelte后：代码执行更快、体验更佳](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519131&idx=1&sn=3ed7528047e35d441ad018308b80c97d&chksm=f9523ed8ce25b7ce188478f7009ae5961564695e678d67b746c679c2f9a8cfe4e7f5e5011be4#rd)  
 - [2022-12-12-60+开源项目、50+技术团队巅峰之战，谁才是数字时代的王者？｜Q推荐](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519131&idx=2&sn=5453183d13cbad148144fa13282e883b&chksm=f9523ed8ce25b7ce20c03ee23aa8a782656e6872d990cf2862e7a3f9ffedcf9936bb4c98c746#rd)  
 - [2022-12-09-如何成为一名优秀的架构师-|-ArchSummit](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519102&idx=1&sn=e416872d8f3441e5b4faf759ceebd5e5&chksm=f9523e3dce25b72b707271954758bccfa05e17a0e5b720b67d3c9f937d1b4d77817ca7a42a54#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-12-29-大三的小白同学是如何拿到字节offer的，经验分享](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487551&idx=1&sn=9e10f8ba278eb594de31b4ffcb02dcd8&chksm=ce4605aef9318cb8f11f505ecd0afd07d3435b70d2ab93d89066a390239cc56f9a1d556e865f#rd) ![](/assets/new.png)  
 - [2022-12-28-前端工程师可以分成-4-种，你属于哪一种？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487549&idx=1&sn=2b50802499cc7340ff9dfb1812d6437b&chksm=ce4605acf9318cbaad0fb18b422a20d94a8fdc72a0fe91e607bac5b90c74eef61b1c8f75da56#rd)  
 - [2022-12-27-连夜爆肝只为将它送到你的面前，快速转TypeScript手册](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487547&idx=1&sn=1c4fd0d819b2f29f2a6620a6128afd38&chksm=ce4605aaf9318cbcf22a43a84e8f70e9b69b157f281ae16dfbadcaec69ce876a049d89065bd5#rd)  
 - [2022-12-23-昨天学会了正则表达式，今天又摸了一天鱼](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487545&idx=1&sn=744f2ac8c97918eb7954fbc92c86d6e5&chksm=ce4605a8f9318cbe6cfeff77592ccb9abb780f4c72c6ad581fbea654874689d8e930457d2be6#rd)  
@@ -210,7 +211,6 @@
 - [2022-11-29-开个新坑，手摸手解析63道JS手写面试题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487455&idx=1&sn=1ebcfcba6dcf7cf21e5d2ec66905d989&chksm=ce461a4ef93193585c4089a48481027998c8892564e4eb1aa8a040032da56a4a2a17389cac6a#rd)  
 - [2022-11-28-因为实现不了Promise.all，一场面试凉凉了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487453&idx=1&sn=a7b9b73289ecde253bf9b4f9af3579f9&chksm=ce461a4cf931935adf4c1881123983ea96c41f559dfd54c9b871852c21c77be2d8cc983da29b#rd)  
 - [2022-11-26-vue如何二次封装一个高频可复用的组件](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487451&idx=1&sn=e19d1005111b89c73b60f36d72cb71ec&chksm=ce461a4af931935c63e72054f4ccd95ff4665ddb498b910dd20d65cc259209d34fdc860eb9ef#rd)  
-- [2022-11-23-学了就忘？看我是怎么解决的](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487446&idx=1&sn=06cb373e52c991d253fc3d7baa4e6851&chksm=ce461a47f9319351cef91f97ca9c342c3b2cbb6ef36ed444c1111fcaf93838dcec64b61052d8#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
