@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-12-30 12:02:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2022-12-31 12:02:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,12 +19,12 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2022-12-30-一位字节跳动的前端，他的面试笔记长什么子？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487555&idx=1&sn=0400bceb99a78a630d263b2fdb0d58a4&chksm=ce4605d2f9318cc4f51ee0b45cbe488e8a387e9c2a59b935ad99edea1e8f1004d361fb644915#rd) ![](/assets/new.png)  
 - [2022-12-29-大三的小白同学是如何拿到字节offer的，经验分享](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487551&idx=1&sn=9e10f8ba278eb594de31b4ffcb02dcd8&chksm=ce4605aef9318cb8f11f505ecd0afd07d3435b70d2ab93d89066a390239cc56f9a1d556e865f#rd)  
 - [2022-12-28-前端工程师可以分成-4-种，你属于哪一种？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487549&idx=1&sn=2b50802499cc7340ff9dfb1812d6437b&chksm=ce4605acf9318cbaad0fb18b422a20d94a8fdc72a0fe91e607bac5b90c74eef61b1c8f75da56#rd)  
 - [2022-12-27-连夜爆肝只为将它送到你的面前，快速转TypeScript手册](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487547&idx=1&sn=1c4fd0d819b2f29f2a6620a6128afd38&chksm=ce4605aaf9318cbcf22a43a84e8f70e9b69b157f281ae16dfbadcaec69ce876a049d89065bd5#rd)  
@@ -210,7 +211,6 @@
 - [2022-11-30-面试官：你答出来了，我就不可以挂你吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487457&idx=1&sn=403e59a16d8602dcf42fd542a54c5bed&chksm=ce461a70f9319366b6bf944031f9becfb112a4a2b81d5f81fbc089d196288241415063917d13#rd)  
 - [2022-11-29-开个新坑，手摸手解析63道JS手写面试题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487455&idx=1&sn=1ebcfcba6dcf7cf21e5d2ec66905d989&chksm=ce461a4ef93193585c4089a48481027998c8892564e4eb1aa8a040032da56a4a2a17389cac6a#rd)  
 - [2022-11-28-因为实现不了Promise.all，一场面试凉凉了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487453&idx=1&sn=a7b9b73289ecde253bf9b4f9af3579f9&chksm=ce461a4cf931935adf4c1881123983ea96c41f559dfd54c9b871852c21c77be2d8cc983da29b#rd)  
-- [2022-11-26-vue如何二次封装一个高频可复用的组件](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487451&idx=1&sn=e19d1005111b89c73b60f36d72cb71ec&chksm=ce461a4af931935c63e72054f4ccd95ff4665ddb498b910dd20d65cc259209d34fdc860eb9ef#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html) ![](/assets/new.png)  
+- [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)  
 - [2022-12-23-科技爱好者周刊（第-236-期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)  
 - [2022-12-16-科技爱好者周刊（第-235-期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)  
 - [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)  
