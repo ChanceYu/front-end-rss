@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-01-05 18:00:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-01-05 22:01:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -757,6 +757,7 @@
 
 
 
+- [【Node-Weekly】Music-to-our-ears](https://nodeweekly.com/issues/468)
 - [【Node-Weekly】It's-all-about-security](https://nodeweekly.com/issues/462)
 - [【Node-Weekly】✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)
 - [【Node-Weekly】Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)
@@ -776,7 +777,6 @@
 - [【JavaScript-Weekly】Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)
 - [【JavaScript-Weekly】A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)
 - [【JavaScript-Weekly】Celebrating-Svelte](https://javascriptweekly.com/issues/596)
-- [【JavaScript-Weekly】Mathematics-is-the-music-of-reason.](https://javascriptweekly.com/issues/593)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
