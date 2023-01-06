@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-01-06 18:00:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-01-07 06:00:43。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -770,13 +770,13 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620)
 - [【JavaScript-Weekly】A-new-jQuery-release-for-Xmas](https://javascriptweekly.com/issues/619)
 - [【JavaScript-Weekly】Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617)
 - [【JavaScript-Weekly】Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)
 - [【JavaScript-Weekly】🪜-Decorating-with-Dr.-Axel](https://javascriptweekly.com/issues/611)
 - [【JavaScript-Weekly】Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)
 - [【JavaScript-Weekly】A-way-to-automatically-generate-regexes-from-examples](https://javascriptweekly.com/issues/602)
-- [【JavaScript-Weekly】Celebrating-Svelte](https://javascriptweekly.com/issues/596)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
