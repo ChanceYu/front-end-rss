@@ -10,20 +10,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-01-07 08:00:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-07 22:00:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-01-07-【第2830期】产研协同：低代码如何打通上下游](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=1&sn=103606b6ce7f333365d6f66805c78b49&chksm=bd48dcce8a3f55d83a2aad6b8e382cd4a3d8052b3be0fb5e5064f47dd4c7778b42b789ece8b1#rd) ![](/assets/new.png)  
-- [2023-01-07-【早说】企业生态网](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=2&sn=ee5cd29f8b22ff8b5446650fb2687c4d&chksm=bd48dcce8a3f55d8fc7506c2c509b2dee25b50543440ecd8a3ebd1bf2378856bbfa4186daf96#rd) ![](/assets/new.png)  
+- [2023-01-07-【第2830期】产研协同：低代码如何打通上下游](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=1&sn=103606b6ce7f333365d6f66805c78b49&chksm=bd48dcce8a3f55d83a2aad6b8e382cd4a3d8052b3be0fb5e5064f47dd4c7778b42b789ece8b1#rd)  
+- [2023-01-07-【早说】企业生态网](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=2&sn=ee5cd29f8b22ff8b5446650fb2687c4d&chksm=bd48dcce8a3f55d8fc7506c2c509b2dee25b50543440ecd8a3ebd1bf2378856bbfa4186daf96#rd)  
 - [2023-01-06-【第2829期】Monorepo-下-Git-工作流的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=1&sn=aa8055a7b6a253fe95e638b314932d8d&chksm=bd48dc918a3f5587cba4b8905834eae7ab1228441c0d24b50616e581ef077432fc465f2cab2d#rd)  
 - [2023-01-06-【图书】现代JavaScript库开发：原理、技术与实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=2&sn=de84bd4e441dc42b04a1fe6062b6b402&chksm=bd48dc918a3f558763ef73a65982e6a560a381a7b892c4926ea8e2535fb14411cde9e3662da3#rd)  
 - [2023-01-06-【早说】多看开源软件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=3&sn=83d60c8ec6a57257ab22391cb69fb0eb&chksm=bd48dc918a3f55877407254e15fb974574f2a17f8682fc0be1d1d862aee800e5a29f631419a3#rd)  
@@ -315,6 +315,7 @@
 </summary>
 
 
+- [2023-01-07-前端原生API实现条形码二维码的JS解析识别](https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/) ![](/assets/new.png)  
 - [2022-12-28-JS数组的copyWithin语法我看了好几遍才懂](https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/)  
 - [2022-12-18-Tips:-使用CSS逻辑属性简化我们的书写](https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/)  
 - [2022-11-30-从今天开始，请叫我Node文本节点处理大师](https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/)  
@@ -323,8 +324,8 @@
 - [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/)  
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)  
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)  
-- [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)  
 - [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)  
+- [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)  
 - [2022-09-27-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)  
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/)  
 - [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/)  
@@ -334,7 +335,6 @@
 - [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/)  
 - [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/)  
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)  
-- [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
