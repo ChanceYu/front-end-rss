@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-01-08 08:00:31，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-09 12:01:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2023-01-08-【第2831期】低代码技术在研发团队的应用模式探讨](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260238&idx=1&sn=fe230df71052b2533dab42ad3d982d1e&chksm=bd48dcca8a3f55dcb44a100928f8239e2f59d3c26c0a60cb11475646bfee11f53d5d87b07332#rd) ![](/assets/new.png)  
-- [2023-01-08-【早说】习惯了一种模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260238&idx=2&sn=756d65c137e9897c232574659b82b2d2&chksm=bd48dcca8a3f55dc943fed02e6d10feb579edb2455ab15f5d95cace10e6edd217a4157933451#rd) ![](/assets/new.png)  
-- [2023-01-07-【早说】企业生态网](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=2&sn=ee5cd29f8b22ff8b5446650fb2687c4d&chksm=bd48dcce8a3f55d8fc7506c2c509b2dee25b50543440ecd8a3ebd1bf2378856bbfa4186daf96#rd)  
+- [2023-01-09-【第2832期】V8-执行-JavaScript-的过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260242&idx=1&sn=0af150839f121d7ecedc5ced0ee242f3&chksm=bd48dcd68a3f55c08aa51432404ccaac68ed84a6e53b8b827bfe9f0cebd9b9b6efbe98f1c6b0#rd) ![](/assets/new.png)  
+- [2023-01-09-【早说】正确地做事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260242&idx=2&sn=5feef76a65c757f989cfb42223d93049&chksm=bd48dcd68a3f55c06b8971210b802580b65cb85258ddf13089361a806dde7eacac6d1cefc0e7#rd) ![](/assets/new.png)  
+- [2023-01-08-【早说】习惯了一种模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260238&idx=2&sn=756d65c137e9897c232574659b82b2d2&chksm=bd48dcca8a3f55dc943fed02e6d10feb579edb2455ab15f5d95cace10e6edd217a4157933451#rd)  
+- [2023-01-08-【第2831期】低代码技术在研发团队的应用模式探讨](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260238&idx=1&sn=fe230df71052b2533dab42ad3d982d1e&chksm=bd48dcca8a3f55dcb44a100928f8239e2f59d3c26c0a60cb11475646bfee11f53d5d87b07332#rd)  
 - [2023-01-07-【第2830期】产研协同：低代码如何打通上下游](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=1&sn=103606b6ce7f333365d6f66805c78b49&chksm=bd48dcce8a3f55d83a2aad6b8e382cd4a3d8052b3be0fb5e5064f47dd4c7778b42b789ece8b1#rd)  
-- [2023-01-06-【早说】多看开源软件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=3&sn=83d60c8ec6a57257ab22391cb69fb0eb&chksm=bd48dc918a3f55877407254e15fb974574f2a17f8682fc0be1d1d862aee800e5a29f631419a3#rd)  
-- [2023-01-06-【图书】现代JavaScript库开发：原理、技术与实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=2&sn=de84bd4e441dc42b04a1fe6062b6b402&chksm=bd48dc918a3f558763ef73a65982e6a560a381a7b892c4926ea8e2535fb14411cde9e3662da3#rd)  
+- [2023-01-07-【早说】企业生态网](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260234&idx=2&sn=ee5cd29f8b22ff8b5446650fb2687c4d&chksm=bd48dcce8a3f55d8fc7506c2c509b2dee25b50543440ecd8a3ebd1bf2378856bbfa4186daf96#rd)  
 - [2023-01-06-【第2829期】Monorepo-下-Git-工作流的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=1&sn=aa8055a7b6a253fe95e638b314932d8d&chksm=bd48dc918a3f5587cba4b8905834eae7ab1228441c0d24b50616e581ef077432fc465f2cab2d#rd)  
-- [2023-01-05-【第2828期】vivo-低代码平台【后羿】的探索与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260154&idx=1&sn=1f7d2d8788e02dc158be52bb70446930&chksm=bd48dd7e8a3f546825e18193ea8723f5f0af52153343b779a1f58edeec9b8b45ba812de74897#rd)  
-- [2023-01-05-【开源】使用-WebAuthn-告别密码：在线身份保护的未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260154&idx=2&sn=f0e9887335cadc7a81b31f7c4a4e0978&chksm=bd48dd7e8a3f5468e2552e4f6e3a9858c17e09d4a27c16f32f0cbcd175099585219e9ff21173#rd)  
+- [2023-01-06-【图书】现代JavaScript库开发：原理、技术与实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=2&sn=de84bd4e441dc42b04a1fe6062b6b402&chksm=bd48dc918a3f558763ef73a65982e6a560a381a7b892c4926ea8e2535fb14411cde9e3662da3#rd)  
+- [2023-01-06-【早说】多看开源软件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=3&sn=83d60c8ec6a57257ab22391cb69fb0eb&chksm=bd48dc918a3f55877407254e15fb974574f2a17f8682fc0be1d1d862aee800e5a29f631419a3#rd)  
 - [2023-01-05-【早说】评审功能的一个习惯](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260154&idx=3&sn=ff9b0a635383e24a285031b6163a6cea&chksm=bd48dd7e8a3f5468f819b45403f6b1210ba8d0e6d727700dc4c22fe6ba49cba392836a3565c9#rd)  
-- [2023-01-04-【早说】真正懂得沟通的人](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=3&sn=dfe984665d1ca6589c4444d8a60c9f2c&chksm=bd48dd438a3f5455d46f1a7704cead3475281a5d639046aa862b748a5f875c889d69428c0330#rd)  
-- [2023-01-04-【开源回顾】2022倒带NutUI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=2&sn=14e21273302db318061b4a2364459642&chksm=bd48dd438a3f54557adbf62d578d9297565ce6e39b97bfca6c6e59fb782a90301a5045a9d374#rd)  
+- [2023-01-05-【开源】使用-WebAuthn-告别密码：在线身份保护的未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260154&idx=2&sn=f0e9887335cadc7a81b31f7c4a4e0978&chksm=bd48dd7e8a3f5468e2552e4f6e3a9858c17e09d4a27c16f32f0cbcd175099585219e9ff21173#rd)  
+- [2023-01-05-【第2828期】vivo-低代码平台【后羿】的探索与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260154&idx=1&sn=1f7d2d8788e02dc158be52bb70446930&chksm=bd48dd7e8a3f546825e18193ea8723f5f0af52153343b779a1f58edeec9b8b45ba812de74897#rd)  
 - [2023-01-04-【第2827期】基于-GraphQL-的云音乐-BFF-建设实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=1&sn=a8f7b282ef1297f4b26388ff9430d195&chksm=bd48dd438a3f54554cfe9a628c14d74b7578bf5d244b227b595e6550d78c044f5c315d0d0d31#rd)  
-- [2023-01-03-【第2826期】2022-年回顾：Web-性能有哪些新变化？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260064&idx=1&sn=1fde43770ecfc3b71a81aeed68f1ad7b&chksm=bd48dd248a3f54327380b72c7f8c4a3d1e79117c4d6a520ec9156dda0e86f720f24b99be60ed#rd)  
+- [2023-01-04-【开源回顾】2022倒带NutUI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=2&sn=14e21273302db318061b4a2364459642&chksm=bd48dd438a3f54557adbf62d578d9297565ce6e39b97bfca6c6e59fb782a90301a5045a9d374#rd)  
+- [2023-01-04-【早说】真正懂得沟通的人](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=3&sn=dfe984665d1ca6589c4444d8a60c9f2c&chksm=bd48dd438a3f5455d46f1a7704cead3475281a5d639046aa862b748a5f875c889d69428c0330#rd)  
 - [2023-01-03-【早说】说话中间要有“停顿”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260064&idx=2&sn=ed4c4aad4d6efce5d5ed05c1001a7546&chksm=bd48dd248a3f5432dd194e8f024a936050b332c001c22d36f4a6787e30414afdec2d37e87cb7#rd)  
+- [2023-01-03-【第2826期】2022-年回顾：Web-性能有哪些新变化？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260064&idx=1&sn=1fde43770ecfc3b71a81aeed68f1ad7b&chksm=bd48dd248a3f54327380b72c7f8c4a3d1e79117c4d6a520ec9156dda0e86f720f24b99be60ed#rd)  
 - [2023-01-01-【早说】在平淡生活中做时间的主人](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260060&idx=1&sn=ffda02689e891156716d64d24e999a0a&chksm=bd48dd188a3f540e5b338d4f2fafe8acfa107ea0f8e78eb954a4e2aa251b8c12fa9f9fdf0fa6#rd)  
-- [2022-12-30-【第2825期】如何评估交互成本并改善用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260031&idx=1&sn=1b6831e815cdd032bb05ebce4c12cdf1&chksm=bd48ddfb8a3f54edb4d8a00b0795cba3916501daa343e4f5deed1361e31c55b97bd0334a87c0#rd)  
-- [2022-12-30-了不起的程序员2023](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260031&idx=2&sn=c875e2401c08e6cc57bd358a8dcfc08b&chksm=bd48ddfb8a3f54ed5e7a82f2091030b11a5a1a78e0c8bda10705a768ee887d69aa896a75691b#rd)  
 - [2022-12-30-【早说】NO不原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260031&idx=3&sn=284b643f0023e86c3d71c46d98597736&chksm=bd48ddfb8a3f54ed407cb4b4dc1aa41f1c74fadeb3622c0bbc2fb43f4435fa46b4a868a726ee#rd)  
-- [2022-12-29-【早说】自我中心主义者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259985&idx=2&sn=c9551649073f3a501b6a7785d50b632d&chksm=bd48ddd58a3f54c32fe87b14a8494c9644ab9251cb8b8b5d7338785cf18423bb818619ac3c3a#rd)  
+- [2022-12-30-了不起的程序员2023](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260031&idx=2&sn=c875e2401c08e6cc57bd358a8dcfc08b&chksm=bd48ddfb8a3f54ed5e7a82f2091030b11a5a1a78e0c8bda10705a768ee887d69aa896a75691b#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
