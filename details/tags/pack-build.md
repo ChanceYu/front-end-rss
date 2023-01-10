@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-01-10 08:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-10 22:01:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -266,6 +266,7 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2023-01-10-vite项目为什么可以直接使用NODE_ENV？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512627&idx=2&sn=28bf4e25ca1136b38091cd764dad0e40&chksm=f992b4e2cee53df4d49f8f611af0ff7ac66c632927eed23981b2b82781da1567a065808033d4#rd) 
 - [2023-01-03-我所知道的webpack5那些不太一样的改变](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512488&idx=2&sn=f4de199610f72c9f6f74fa9a296cd850&chksm=f992b779cee53e6fd1624b60774c9f9cb49271f16e167e8056c28ffb909ee1deea84d82aeb8d#rd) 
 - [2022-12-30-加-3-行代码减少-80%-构建时间](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512432&idx=1&sn=777f6966b613703b65e4df71c0248ae3&chksm=f992b7a1cee53eb71dc3f86bfaffeb9387cee5aa088b082de7676f93f7ee27c7e2140983c663#rd) 
 - [2022-08-26-精读《-pnpm》篇，还没用它的在等什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=2&sn=f51f5da0d6740a8863e586748f9cb8e8&chksm=f992af80cee52696cb8c8618338cda6f8a59ea4fb313cda0eced4d984933f9f1cb645717b818#rd) 
