@@ -10,18 +10,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-01-12 18:00:41，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-13 06:03:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-01-12-Comparing-Node.js-job-schedulers](https://nodeweekly.com/issues/469) ![](/assets/new.png)  
 - [2023-01-05-Music-to-our-ears](https://nodeweekly.com/issues/468)  
 - [2022-12-15-The-best-of-Node-Weekly-in-2022](https://nodeweekly.com/issues/467)  
 - [2022-12-08-The-official-npm-site-gets-a-code-explorer](https://nodeweekly.com/issues/466)  
@@ -55,7 +56,6 @@
 - [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)  
 - [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451)  
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)  
-- [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-01-12-【第2835期】来自StateOfJS调查：2022年JavaScript生态圈趋势报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260410&idx=1&sn=5afddeabbda3ce33b438b3fb9caa2562&chksm=bd48dc7e8a3f5568547064c5523cbb7b874169912d10de512a69d8bc80c2469fe8648ed7f739#rd) ![](/assets/new.png)  
-- [2023-01-12-【早说】Javascript的设计初衷](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260410&idx=2&sn=b28c8c711889282851aa355970ef112d&chksm=bd48dc7e8a3f55687d777e7df0fe3f5567461ce196eee718e0db1074593aaea6052595c0cbc0#rd) ![](/assets/new.png)  
+- [2023-01-12-【第2835期】来自StateOfJS调查：2022年JavaScript生态圈趋势报告](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260410&idx=1&sn=5afddeabbda3ce33b438b3fb9caa2562&chksm=bd48dc7e8a3f5568547064c5523cbb7b874169912d10de512a69d8bc80c2469fe8648ed7f739#rd)  
+- [2023-01-12-【早说】Javascript的设计初衷](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260410&idx=2&sn=b28c8c711889282851aa355970ef112d&chksm=bd48dc7e8a3f55687d777e7df0fe3f5567461ce196eee718e0db1074593aaea6052595c0cbc0#rd)  
 - [2023-01-11-【早说】练兵千日，用兵一时](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260295&idx=3&sn=93e2517edf52934aab554cf724492c82&chksm=bd48dc038a3f5515ea89e3572a9bd2ee7994995604f75178d5b9eca282b409bb718956804a6d#rd)  
 - [2023-01-11-【图书】React设计原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260295&idx=2&sn=1be285247833248c691a1bde26849547&chksm=bd48dc038a3f55154ee15536b18cbf61bed786a057a2b6a64c70f84fe4dbc1f0cd6d4f6dce3d#rd)  
 - [2023-01-11-【第2834期】Pull-Requests的艺术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260295&idx=1&sn=f10589793cce0238eb6f19bc0e3be989&chksm=bd48dc038a3f55154be0cefe9dec99c2e1a0a0ecb9824d22004e9588328329368fefeaf19017#rd)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-01-12-前端水印实现方案](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487587&idx=1&sn=c66c929cda55bf6379e9dcd786860a41&chksm=ce4605f2f9318ce432cc9a7aec7740e4cd1823057773915971654db02e1dab8ba8338459bbc7#rd) ![](/assets/new.png)  
+- [2023-01-12-前端水印实现方案](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487587&idx=1&sn=c66c929cda55bf6379e9dcd786860a41&chksm=ce4605f2f9318ce432cc9a7aec7740e4cd1823057773915971654db02e1dab8ba8338459bbc7#rd)  
 - [2023-01-11-当聊到前端性能优化时，我们会关注什么？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487585&idx=1&sn=b642ed9a9d20af0def41b876a914ba72&chksm=ce4605f0f9318ce68fd13965ab2bc238a6db53bec37f6e24043b7d126186950aba6d0ed42942#rd)  
 - [2023-01-10-工作中可能会使用到的数据结构和算法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487583&idx=1&sn=f5a952e9ca07b0cc427b06cd065eadc7&chksm=ce4605cef9318cd805da52def54229ee98aa9c17eb2deec14c312855055b449b17906869b0ad#rd)  
 - [2023-01-09-基于-Node-环境的终端-cli-翻译工具](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487581&idx=1&sn=a40088000155a56edafacd85de95bb8c&chksm=ce4605ccf9318cdac7c11d59beec02e1e039d2179ddc0a00571e1759f09ab70e5de507fad608#rd)  
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2023-01-12-开发一个自己的-JS-库，都需要哪些知识？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512655&idx=1&sn=87c5bb26806589b24e942e8461d79464&chksm=f992b49ecee53d88a2981167ca5a140d1ebe65cae6ab1d758e9736cebc656fe2e305d791516f#rd) ![](/assets/new.png)  
-- [2023-01-12-一次令人窒息的百度面试](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512655&idx=2&sn=aee88386e91023515dc5020211966dd4&chksm=f992b49ecee53d885e684ebebfc4347d901591ff30e4aa6596b3543f42de28f77ae1ac87f7cb#rd) ![](/assets/new.png)  
+- [2023-01-12-开发一个自己的-JS-库，都需要哪些知识？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512655&idx=1&sn=87c5bb26806589b24e942e8461d79464&chksm=f992b49ecee53d88a2981167ca5a140d1ebe65cae6ab1d758e9736cebc656fe2e305d791516f#rd)  
+- [2023-01-12-一次令人窒息的百度面试](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512655&idx=2&sn=aee88386e91023515dc5020211966dd4&chksm=f992b49ecee53d885e684ebebfc4347d901591ff30e4aa6596b3543f42de28f77ae1ac87f7cb#rd)  
 - [2023-01-11-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512633&idx=2&sn=e4a90cf120313fe58773706cb5270b3a&chksm=f992b4e8cee53dfe183e504db545668ee50391c23be9382358986b55ef2c0860f5a741351d3c#rd)  
 - [2023-01-11-Vue3.2-+-Element-Plus-二次封装-el-table（Pro版）](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512633&idx=1&sn=0a541e4783e03f50e552438e5d568533&chksm=f992b4e8cee53dfe32d041c285b287f239ec273ae44db156e8b4d720c0d602f3c93ffb165555#rd)  
 - [2023-01-10-有用的内置-Node.js-APIs-总结（适合前端开发者）](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512627&idx=1&sn=5c20c34b09ea7e93eabf7dc167889495&chksm=f992b4e2cee53df4074f76d096a0c23ec448c825b9f0d9069f100396a8502b56fa70c7a0c637#rd)  
