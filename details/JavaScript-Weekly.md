@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-01-07 06:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-14 06:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2023-01-06-Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620) 
 - [2022-12-16-A-new-jQuery-release-for-Xmas](https://javascriptweekly.com/issues/619) 
 - [2022-12-09-Vite-4.0-released](https://javascriptweekly.com/issues/618) 
