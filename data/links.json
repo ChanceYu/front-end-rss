@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "We're going on a memory leak hunt",
+        "link": "https://nodeweekly.com/issues/470",
+        "date": "2023-01-19"
+      },
+      {
         "title": "Comparing Node.js job schedulers",
         "link": "https://nodeweekly.com/issues/469",
         "date": "2023-01-12"
