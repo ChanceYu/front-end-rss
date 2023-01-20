@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-01-20 06:12:54。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-01-21 06:00:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Why-document.write-is-bad](https://javascriptweekly.com/issues/622)
 - [【JavaScript-Weekly】JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)
 - [【JavaScript-Weekly】Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607)
 - [【JavaScript-Weekly】Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606)
@@ -346,7 +347,6 @@
 - [【JavaScript-Weekly】Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)
 - [【JavaScript-Weekly】On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)
 - [【JavaScript-Weekly】Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)
-- [【JavaScript-Weekly】Getting-creative-with-JavaScript](https://javascriptweekly.com/issues/581)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
