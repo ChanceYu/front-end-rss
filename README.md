@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-01-21 06:00:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-22 06:00:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622) ![](/assets/new.png)  
+- [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622)  
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621)  
 - [2023-01-06-Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620)  
 - [2022-12-16-A-new-jQuery-release-for-Xmas](https://javascriptweekly.com/issues/619)  
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2023-01-20-从大前端“穿越”到终端，开发者应该必备什么技能？-|-解读终端的-2022](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519695&idx=1&sn=dff6a3475f4616f17e931afe6bf1e564&chksm=f952388cce25b19a47fae1c54c1185af1b45b99612d4c8103d55c28884d9d9917269853f4fbf#rd) ![](/assets/new.png)  
+- [2023-01-20-从大前端“穿越”到终端，开发者应该必备什么技能？-|-解读终端的-2022](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519695&idx=1&sn=dff6a3475f4616f17e931afe6bf1e564&chksm=f952388cce25b19a47fae1c54c1185af1b45b99612d4c8103d55c28884d9d9917269853f4fbf#rd)  
 - [2023-01-18-Vite-4发布，用更快的SWC替换了Babel](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519637&idx=1&sn=48fb29854c8e1c418275100e1eea746a&chksm=f95238d6ce25b1c00914a8451d63b2fd55bf9cb5c91ddfaa1f3b5cd627210686fa38b51fde8e#rd)  
 - [2023-01-16-为什么谷歌和苹果都要杀死移动Web？资深工程师揭秘大厂从吹捧到扼杀“内幕”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519612&idx=1&sn=66ff60f25017f5c3df5633297fee5684&chksm=f952383fce25b129ac535652397cb5b987338c0a166938fba85d62d903c134ad7d400782ff08#rd)  
 - [2023-01-13-InfoQ技术大会年底储值享钜惠，单张门票最高省3240元！-|-Q推荐](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=2&sn=1671ec31211a71a08aa9d578e42fa576&chksm=f9523821ce25b137dc17dc251014dd1b0ba7a66199ee08c1a83b685213b9016b28d2eb905361#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2023-01-21-程序员是坚守阵地？还是追求全栈？三个思考维度解决犹豫不决](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487628&idx=1&sn=64286c948d9e78dd7ea440e1d7766872&chksm=ce46051df9318c0b82ce0fb88d6aa7c2682528d23d5ae9485f9e97219b995e74e4d9563265b7#rd) ![](/assets/new.png)  
 - [2023-01-19-如何使用-VS-Code-调试-Vue.js-项目？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487623&idx=1&sn=67d6b84d8034086812f9872e557591a7&chksm=ce460516f9318c0004326d0099995f6d23a5ff399a1bd115240e97188b9820e879104f485e4b#rd)  
 - [2023-01-18-一名合格前端工程师必备素质：代码整洁之道](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487603&idx=1&sn=13d3eee4e3995ecb851fb930de768537&chksm=ce4605e2f9318cf4cf2ae2aa0ed2021c3b1b595394acbdd3a25a36717aefdbb775eeb519464a#rd)  
 - [2023-01-17-TS泛型进阶](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487601&idx=1&sn=64748cb8c6297fa35877a43c932d2959&chksm=ce4605e0f9318cf62b85e14b75fb363c848ba851fb8099a7d50c371daf3fd590a1ecb2d0d130#rd)  
@@ -210,7 +211,6 @@
 - [2022-12-27-连夜爆肝只为将它送到你的面前，快速转TypeScript手册](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487547&idx=1&sn=1c4fd0d819b2f29f2a6620a6128afd38&chksm=ce4605aaf9318cbcf22a43a84e8f70e9b69b157f281ae16dfbadcaec69ce876a049d89065bd5#rd)  
 - [2022-12-23-昨天学会了正则表达式，今天又摸了一天鱼](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487545&idx=1&sn=744f2ac8c97918eb7954fbc92c86d6e5&chksm=ce4605a8f9318cbe6cfeff77592ccb9abb780f4c72c6ad581fbea654874689d8e930457d2be6#rd)  
 - [2022-12-22-前端程序员真的是在鄙视链底端吗？前端算程序员吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487543&idx=1&sn=822e35f3389235400e31322c4ad46115&chksm=ce4605a6f9318cb05a9e9970f2f4de1e8faaee19a94288c96d22dc3ee1e991068af78ba2c666#rd)  
-- [2022-12-19-无代码开发小程序只需要一天就搞定前后端和部署！为啥不学？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487541&idx=1&sn=8680c8e3fbedab348d4649299c6d0e7e&chksm=ce4605a4f9318cb273f7da498824332077b3532f3b2090eefcf13e3b806da5694ad835c26ee4#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
