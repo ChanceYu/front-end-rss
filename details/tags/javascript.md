@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-01-26 06:02:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-26 18:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -802,6 +802,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2023-01-26-es6你用过哪些惊艳的写法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487638&idx=1&sn=8531d1f1b7369621cf6026cfc8f9d7da&chksm=ce460507f9318c11e718a48404d722f489d5282fe6a7510a3e76992fd9ba44668c10d393937f#rd) 
 - [2023-01-23-前端面试都爱问深拷贝，那到底为啥要做深拷贝啊？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487632&idx=1&sn=3d6491cb01f907cc28e98a2def4f706b&chksm=ce460501f9318c17df676b5a2b8f6046b93be481e36d83d9b8b9cad272b32c736e714acd28f0#rd) 
 - [2023-01-13-这一次，彻底弄懂-JavaScript-函数执行机制](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487599&idx=1&sn=b91bdd2d25e621171a043e564ce830f9&chksm=ce4605fef9318ce8cb8658f6b38b47eb8c5ba77272531b770edd147ec58d8136d7dbf3342a71#rd) 
 - [2022-12-23-昨天学会了正则表达式，今天又摸了一天鱼](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487545&idx=1&sn=744f2ac8c97918eb7954fbc92c86d6e5&chksm=ce4605a8f9318cbe6cfeff77592ccb9abb780f4c72c6ad581fbea654874689d8e930457d2be6#rd) 
