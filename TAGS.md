@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-01-26 18:00:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-01-27 06:00:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471)
 - [【Node-Weekly】Comparing-Node.js-job-schedulers](https://nodeweekly.com/issues/469)
 - [【Node-Weekly】The-best-of-Node-Weekly-in-2022](https://nodeweekly.com/issues/467)
 - [【Node-Weekly】Lots-of-Electron-news](https://nodeweekly.com/issues/465)
@@ -202,7 +203,6 @@
 - [【Node-Weekly】Node-16-LTS-now-on-AWS-Lambda](https://nodeweekly.com/issues/438)
 - [【Node-Weekly】Node's-new-CLI-test-runner](https://nodeweekly.com/issues/436)
 - [【Node-Weekly】Now-Node-16-gets-the-Fetch-API-too](https://nodeweekly.com/issues/435)
-- [【Node-Weekly】Node.js-18-released](https://nodeweekly.com/issues/434)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

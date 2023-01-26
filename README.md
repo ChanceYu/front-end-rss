@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-01-26 18:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-27 06:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471) ![](/assets/new.png)  
 - [2023-01-19-We're-going-on-a-memory-leak-hunt](https://nodeweekly.com/issues/470)  
 - [2023-01-12-Comparing-Node.js-job-schedulers](https://nodeweekly.com/issues/469)  
 - [2023-01-05-Music-to-our-ears](https://nodeweekly.com/issues/468)  
@@ -55,7 +56,6 @@
 - [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)  
 - [2022-09-08-Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)  
 - [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)  
-- [2022-08-25-Popular-Node.js-practices-to-reconsider](https://nodeweekly.com/issues/451)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-01-26-es6你用过哪些惊艳的写法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487638&idx=1&sn=8531d1f1b7369621cf6026cfc8f9d7da&chksm=ce460507f9318c11e718a48404d722f489d5282fe6a7510a3e76992fd9ba44668c10d393937f#rd) ![](/assets/new.png)  
+- [2023-01-26-es6你用过哪些惊艳的写法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487638&idx=1&sn=8531d1f1b7369621cf6026cfc8f9d7da&chksm=ce460507f9318c11e718a48404d722f489d5282fe6a7510a3e76992fd9ba44668c10d393937f#rd)  
 - [2023-01-25-做为前端面试官，春招跳槽建议你把这20个vue题目搞懂](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487636&idx=1&sn=044215c91f85353be6af6f7ad16651ef&chksm=ce460505f9318c13b4518964ec7629aaa66ac2e7972941a89c5401e6bd4f1a4fac7e66925c96#rd)  
 - [2023-01-24-定制一个-Vue-3-模板---集成-Vite,-Pinia,-Vue-Router-与-Tailwind-CSS](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487634&idx=1&sn=0050748e82805b6fd8e7e90188f1bc56&chksm=ce460503f9318c15b74c0c669d3001a94776d726f05168bae8050520187b9f55b44b9e56c9ab#rd)  
 - [2023-01-23-前端面试都爱问深拷贝，那到底为啥要做深拷贝啊？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487632&idx=1&sn=3d6491cb01f907cc28e98a2def4f706b&chksm=ce460501f9318c17df676b5a2b8f6046b93be481e36d83d9b8b9cad272b32c736e714acd28f0#rd)  
