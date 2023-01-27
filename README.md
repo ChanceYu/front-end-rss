@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-01-27 22:02:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-01-28 06:01:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-01-27-Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623) ![](/assets/new.png)  
 - [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622)  
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621)  
 - [2023-01-06-Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620)  
@@ -86,7 +87,6 @@
 - [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606)  
 - [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)  
 - [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)  
-- [2022-08-26-The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-01-27-代码太多if-else？教你优化代码，老大对你刮目相看！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487642&idx=1&sn=fa492a7f368a098ac63f11c3cfa7b9bc&chksm=ce46050bf9318c1d077db0513ea1a9cea5ab63f45ccae2643c8338494566eef25d9f135259ca#rd) ![](/assets/new.png)  
+- [2023-01-27-代码太多if-else？教你优化代码，老大对你刮目相看！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487642&idx=1&sn=fa492a7f368a098ac63f11c3cfa7b9bc&chksm=ce46050bf9318c1d077db0513ea1a9cea5ab63f45ccae2643c8338494566eef25d9f135259ca#rd)  
 - [2023-01-26-es6你用过哪些惊艳的写法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487638&idx=1&sn=8531d1f1b7369621cf6026cfc8f9d7da&chksm=ce460507f9318c11e718a48404d722f489d5282fe6a7510a3e76992fd9ba44668c10d393937f#rd)  
 - [2023-01-25-做为前端面试官，春招跳槽建议你把这20个vue题目搞懂](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487636&idx=1&sn=044215c91f85353be6af6f7ad16651ef&chksm=ce460505f9318c13b4518964ec7629aaa66ac2e7972941a89c5401e6bd4f1a4fac7e66925c96#rd)  
 - [2023-01-24-定制一个-Vue-3-模板---集成-Vite,-Pinia,-Vue-Router-与-Tailwind-CSS](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487634&idx=1&sn=0050748e82805b6fd8e7e90188f1bc56&chksm=ce460503f9318c15b74c0c669d3001a94776d726f05168bae8050520187b9f55b44b9e56c9ab#rd)  

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-01-27 22:02:26。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-01-28 06:01:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -113,6 +113,7 @@
 
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)
 - [【JavaScript-Weekly】Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)
 - [【JavaScript-Weekly】Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)
 - [【JavaScript-Weekly】How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)
@@ -130,7 +131,6 @@
 - [【前端早读课】【早读】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=3&sn=18aa22c106f92b97f3db7b29b1156e19&chksm=bd4977278a3efe31bd2896fd2f8a3d52e443f5f14741debc462cd27366ee9e477ad4312b7877&scene=27#wechat_redirect)
 - [【前端早读课】【第1838期】TypeScript-3.8-Beta](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect)
 - [【前端早读课】【第1837期】未来可期的TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect)
-- [【前端早读课】【第1779期】使用TypeScript两年后,值得吗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234669&idx=1&sn=ce960d1dd78c71574d5207c31af986b8&chksm=bd4978e98a3ef1ffc458e54fcd1e66a769f1ede138de9cdd70c9173e507b84eb1ee286b76eaf&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

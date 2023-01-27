@@ -288,6 +288,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Astro 2.0 and TypeScript 5.0 beta",
+        "link": "https://javascriptweekly.com/issues/623",
+        "date": "2023-01-27"
+      },
+      {
         "title": "Why document.write() is bad",
         "link": "https://javascriptweekly.com/issues/622",
         "date": "2023-01-20"
