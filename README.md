@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-02 22:03:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-03 06:00:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) ![](/assets/new.png)  
 - [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471)  
 - [2023-01-19-We're-going-on-a-memory-leak-hunt](https://nodeweekly.com/issues/470)  
 - [2023-01-12-Comparing-Node.js-job-schedulers](https://nodeweekly.com/issues/469)  
@@ -55,7 +56,6 @@
 - [2022-09-22-The-Node-testing-framework-we-were-sleeping-on](https://nodeweekly.com/issues/455)  
 - [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)  
 - [2022-09-08-Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)  
-- [2022-09-01-The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-02-01-百度某部门面试原题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487696&idx=1&sn=2d0d30e0584145200fa37c0fbee0db20&chksm=ce460541f9318c57d4ab293291a6b88e68286c72a1305304461d95250d18ce961ae7e5e5621b#rd) ![](/assets/new.png)  
+- [2023-02-01-百度某部门面试原题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487696&idx=1&sn=2d0d30e0584145200fa37c0fbee0db20&chksm=ce460541f9318c57d4ab293291a6b88e68286c72a1305304461d95250d18ce961ae7e5e5621b#rd)  
 - [2023-01-31-在Vue中操作DOM？不会还有人不知道怎么做吧？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487694&idx=1&sn=af39eb58373733de8fee3b45d7e370ac&chksm=ce46055ff9318c4998f42cc3a71d7a2f09dea40c29de512622f69ac5afc4618879f4736a91bc#rd)  
 - [2023-01-30-【CSS】好奇，使我学到了一个超级实用的CSS3样式功能！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487683&idx=1&sn=82a35e77ad0f13078b8621d062a87983&chksm=ce460552f9318c44c91c378e35f17568589d6e158a0841e7f00f0b4f234890b73b9fd2d5544f#rd)  
 - [2023-01-29-Vue3的响应式原理？一篇文章，八张图，三心为你解密~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487666&idx=1&sn=eeb84d739949af3544673f2713f0c504&chksm=ce460523f9318c351b15699534de9c2e3dcc12f54ec5bfbbc7fc9a8e71f9c194127204d7c00c#rd)  

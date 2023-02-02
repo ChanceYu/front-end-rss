@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "SQL in your JavaScript",
+        "link": "https://nodeweekly.com/issues/472",
+        "date": "2023-02-02"
+      },
+      {
         "title": "Automating the desktop with Node",
         "link": "https://nodeweekly.com/issues/471",
         "date": "2023-01-26"

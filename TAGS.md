@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-02-02 22:03:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-02-03 06:00:28。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -327,6 +327,7 @@
 
 
 
+- [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
 - [【JavaScript-Weekly】Why-document.write-is-bad](https://javascriptweekly.com/issues/622)
@@ -346,7 +347,6 @@
 - [【JavaScript-Weekly】A-2022-take-on-TodoMVC-in-plain-JS](https://javascriptweekly.com/issues/588)
 - [【JavaScript-Weekly】Let's-build-a-JavaScript-bundler](https://javascriptweekly.com/issues/587)
 - [【JavaScript-Weekly】On-function-composition-in-JavaScript](https://javascriptweekly.com/issues/585)
-- [【JavaScript-Weekly】Format-JavaScript-as-the-Romans-do?](https://javascriptweekly.com/issues/584)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
