@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-03 12:00:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-04 06:12:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624) ![](/assets/new.png)  
 - [2023-01-27-Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)  
 - [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622)  
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621)  
@@ -86,7 +87,6 @@
 - [2022-09-23-Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607)  
 - [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606)  
 - [2022-09-09-Anyone-know-Larry-Ellison?](https://javascriptweekly.com/issues/605)  
-- [2022-09-02-David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,7 +160,7 @@
 </summary>
 
 
-- [2023-02-01-调查：React-仍然是使用最广泛的前端框架，TypeScript-是优先选项](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519749&idx=1&sn=5fba60e56549eb150d541bea75b09961&chksm=f9523b46ce25b2501a4433ba615d9294f38b53db17c89f8235221a2238f5865f86d81842253c#rd) ![](/assets/new.png)  
+- [2023-02-01-调查：React-仍然是使用最广泛的前端框架，TypeScript-是优先选项](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519749&idx=1&sn=5fba60e56549eb150d541bea75b09961&chksm=f9523b46ce25b2501a4433ba615d9294f38b53db17c89f8235221a2238f5865f86d81842253c#rd)  
 - [2023-01-30-从-JS-到全生态，云原生时代下的前端成长演进之路-｜展望前端工程师的-2023](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519726&idx=1&sn=8cffa7bc0a1de277c8f389bdbfb41ba9&chksm=f95238adce25b1bb7b10a15dc10748dbeef323b2b2eaa04b35bb7891302a2e9692eb921e307c#rd)  
 - [2023-01-20-从大前端“穿越”到终端，开发者应该必备什么技能？-|-解读终端的-2022](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519695&idx=1&sn=dff6a3475f4616f17e931afe6bf1e564&chksm=f952388cce25b19a47fae1c54c1185af1b45b99612d4c8103d55c28884d9d9917269853f4fbf#rd)  
 - [2023-01-18-Vite-4发布，用更快的SWC替换了Babel](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519637&idx=1&sn=48fb29854c8e1c418275100e1eea746a&chksm=f95238d6ce25b1c00914a8451d63b2fd55bf9cb5c91ddfaa1f3b5cd627210686fa38b51fde8e#rd)  
@@ -346,7 +346,7 @@
 </summary>
 
 
-- [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html) ![](/assets/new.png)  
+- [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
 - [2023-01-13-科技爱好者周刊（第-239-期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)  
 - [2023-01-06-科技爱好者周刊（第-238-期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)  
 - [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)  

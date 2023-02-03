@@ -293,6 +293,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Ways to remove event listeners",
+        "link": "https://javascriptweekly.com/issues/624",
+        "date": "2023-02-03"
+      },
+      {
         "title": "Astro 2.0 and TypeScript 5.0 beta",
         "link": "https://javascriptweekly.com/issues/623",
         "date": "2023-01-27"
