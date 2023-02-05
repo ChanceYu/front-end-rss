@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-02-05 08:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-05 18:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -37,6 +37,7 @@
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd) 
 - [2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
 - [2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
+- [2023-02-03-Web-3D-圈摸爬滚打十多年的老兵热血自述：立志做中国跨时代-Web-渲染引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=1&sn=e05160e245e4164bf9906f81f0fb18ed&chksm=f9523b62ce25b274b86af2a22c7d147baf27af42723a1f272bad910b3fbef50ea099290ef6a5#rd) 
 - [2022-11-16-华为云官网-Web3D-和动效技术的应用与探索](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518668&idx=1&sn=f0cfb4d37105b7ecc2ce2ca1e64baa77&chksm=f9523c8fce25b599c89cee6dccde57dd7e5fcc7e7d0cb7c17a9b68f01a0a71f1e1e6bac4d0d8#rd) 
 - [2022-06-01-前端3D渲染实战：从零开始用WebGL编写卡通风格着色器](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515038&idx=1&sn=f90b309b2fc3e7b08fb3c18647b157dd&chksm=f9520eddce2587cbf72d1574dbf6f2844aebc999771553e6178b1151001c1bfd20161d4a449b#rd) 
 - [2021-12-20-从WebGL到WebGPU，网页图形的全新时代](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247512172&idx=1&sn=7527199067c4f022fd10d2f0f14a528c&chksm=f952052fce258c392f707f840b11f1c14a50b1c8869d656421e734c7b5796bd9a7248d6815bb#rd) 
