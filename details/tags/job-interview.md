@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-02-05 06:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-05 08:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -349,6 +349,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-02-04-分享一个中型公司面试原题，卷起来~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487700&idx=1&sn=076c5a3e1e50309f2f1c9a12e040d2f4&chksm=ce460545f9318c53fffb90c860937bbbf647cdaee7d2f6383deb4c758a4cf207de34e9088b4e#rd) 
 - [2023-02-01-百度某部门面试原题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487696&idx=1&sn=2d0d30e0584145200fa37c0fbee0db20&chksm=ce460541f9318c57d4ab293291a6b88e68286c72a1305304461d95250d18ce961ae7e5e5621b#rd) 
 - [2022-12-30-一位字节跳动的前端，他的面试笔记长什么子？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487555&idx=1&sn=0400bceb99a78a630d263b2fdb0d58a4&chksm=ce4605d2f9318cc4f51ee0b45cbe488e8a387e9c2a59b935ad99edea1e8f1004d361fb644915#rd) 
 - [2022-12-29-大三的小白同学是如何拿到字节offer的，经验分享](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487551&idx=1&sn=9e10f8ba278eb594de31b4ffcb02dcd8&chksm=ce4605aef9318cb8f11f505ecd0afd07d3435b70d2ab93d89066a390239cc56f9a1d556e865f#rd) 
