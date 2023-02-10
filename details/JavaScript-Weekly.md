@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-02-04 06:12:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-11 06:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-02-10-Bringing-JavaScript-to-WebAssembly](https://javascriptweekly.com/issues/625) 
 - [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624) 
 - [2023-01-27-Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623) 
 - [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622) 
