@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-10 08:00:31，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-10 12:00:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,9 +98,9 @@
 </summary>
 
 
-- [2023-02-10-【第2852期】技术文档沉淀的思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=1&sn=fb5c36ab7b46b99f8f44d8ddebdd4fb0&chksm=bd48decc8a3f57da8a8bdc201ff2ea156907490c49662988b0cd982865401dfab1384b9af0bb#rd) ![](/assets/new.png)  
-- [2023-02-10-【招聘】烟台欣和集团招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=2&sn=9f504e5f9c60a6bc498327fed22a60ff&chksm=bd48decc8a3f57dae8cd434683ea80bc616ed8bbf2642379597e1bb64ae6fd3872dd8ef38aac#rd) ![](/assets/new.png)  
-- [2023-02-10-【早说】保留文档修改痕迹](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=3&sn=2feb911658d752f29b2b8750d4e05e1d&chksm=bd48decc8a3f57da009700767aa0d8e425406bcad6a2a806d3f9f316c8483e4640c0392d6a7e#rd) ![](/assets/new.png)  
+- [2023-02-10-【第2852期】技术文档沉淀的思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=1&sn=fb5c36ab7b46b99f8f44d8ddebdd4fb0&chksm=bd48decc8a3f57da8a8bdc201ff2ea156907490c49662988b0cd982865401dfab1384b9af0bb#rd)  
+- [2023-02-10-【招聘】烟台欣和集团招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=2&sn=9f504e5f9c60a6bc498327fed22a60ff&chksm=bd48decc8a3f57dae8cd434683ea80bc616ed8bbf2642379597e1bb64ae6fd3872dd8ef38aac#rd)  
+- [2023-02-10-【早说】保留文档修改痕迹](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=3&sn=2feb911658d752f29b2b8750d4e05e1d&chksm=bd48decc8a3f57da009700767aa0d8e425406bcad6a2a806d3f9f316c8483e4640c0392d6a7e#rd)  
 - [2023-02-09-【早说】职场盘点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260732&idx=3&sn=6720980cf2525ce1d39f1d3c8ca08fd1&chksm=bd48deb88a3f57ae9ab86e1e015432f8e69a7bae4fc230779c5cab67a7bd803b0bdf716b6583#rd)  
 - [2023-02-09-【早知】component-party：一个比较不同框架的语法网站](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260732&idx=2&sn=41b33657949e7f8d1493ae5a7376ae09&chksm=bd48deb88a3f57ae96c76fa9e79275ea1f90a2ba5634b688db5bda400526d2099090763293e0#rd)  
 - [2023-02-09-【第2851期】2022大前端总结和2023就业分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260732&idx=1&sn=5fcefc6507f9c27f079fcb66b19145ae&chksm=bd48deb88a3f57aef6d9a9626d5be5a7abb26758b84c3f349efeae1018b01220f3606a4c080f#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-02-10-科技爱好者周刊（第-241-期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html) ![](/assets/new.png)  
 - [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
 - [2023-01-13-科技爱好者周刊（第-239-期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)  
 - [2023-01-06-科技爱好者周刊（第-238-期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)  
@@ -365,7 +366,6 @@
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
 - [2022-09-30-科技爱好者周刊（第-225-期）：NPC-演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)  
 - [2022-09-23-科技爱好者周刊（第-224-期）：Figma-为什么赢了-Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)  
-- [2022-09-16-科技爱好者周刊（第-223-期）：程序员需要担心裁员吗？](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-223.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
