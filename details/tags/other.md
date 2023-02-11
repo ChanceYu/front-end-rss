@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-02-11 18:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-11 22:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -2530,6 +2530,7 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html) 
+- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html) 
 - [2022-08-28-10-个你可能没见过的-VsCode-的高效开源神器](http://www.yyyweb.com/5469.html) 
 - [2022-03-06-2022，前端工具链十年盘点](http://www.yyyweb.com/5445.html) 
 - [2022-02-13-人生的破局点：马斯洛层次需求「倒序实现」理论](http://www.yyyweb.com/5440.html) 
