@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-13 18:00:34，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-14 06:02:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-02-13-【第2855期】用户行为分析模型实践-——-H5通用分析模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260800&idx=1&sn=63fefd45fc828cdcc3b0e51c34efe5a7&chksm=bd48de048a3f571266d977fe74615faa2a47fa388c4c6f67cc5feb1a2a988b62e2c6d1483cc6#rd) ![](/assets/new.png)  
-- [2023-02-13-【早说】数据运营大致流程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260800&idx=2&sn=e83d08054880070f87874dfd1a9512d1&chksm=bd48de048a3f5712231743d4bf82bf11662a534ddf0824e4d7632cf9505ff6051500ed4896e9#rd) ![](/assets/new.png)  
+- [2023-02-13-【第2855期】用户行为分析模型实践-——-H5通用分析模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260800&idx=1&sn=63fefd45fc828cdcc3b0e51c34efe5a7&chksm=bd48de048a3f571266d977fe74615faa2a47fa388c4c6f67cc5feb1a2a988b62e2c6d1483cc6#rd)  
+- [2023-02-13-【早说】数据运营大致流程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260800&idx=2&sn=e83d08054880070f87874dfd1a9512d1&chksm=bd48de048a3f5712231743d4bf82bf11662a534ddf0824e4d7632cf9505ff6051500ed4896e9#rd)  
 - [2023-02-11-【第2853期】CSS-transition-小技巧！如何保留-hover-的状态？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260792&idx=1&sn=c530081f16058a9e7e2e100185752849&chksm=bd48defc8a3f57ea2b53ffc43b86259dec5b44fdafc7af139dfac225b699402b652728d82d45#rd)  
 - [2023-02-10-【第2852期】技术文档沉淀的思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=1&sn=fb5c36ab7b46b99f8f44d8ddebdd4fb0&chksm=bd48decc8a3f57da8a8bdc201ff2ea156907490c49662988b0cd982865401dfab1384b9af0bb#rd)  
 - [2023-02-10-【招聘】烟台欣和集团招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260744&idx=2&sn=9f504e5f9c60a6bc498327fed22a60ff&chksm=bd48decc8a3f57dae8cd434683ea80bc616ed8bbf2642379597e1bb64ae6fd3872dd8ef38aac#rd)  
@@ -160,26 +160,26 @@
 </summary>
 
 
+- [2023-02-13-为什么说Next.js-13是一个颠覆性版本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519871&idx=1&sn=c32ac244871c9f16fb2184a38b0beae3&chksm=f9523b3cce25b22a05c4c74d7d8c71598456f73001e8e62ee75db46170598b596129aa3dad59#rd) ![](/assets/new.png)  
 - [2023-02-10-在Angular中实现自定义独立API的模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519852&idx=1&sn=f67213449694ddb8ade52e784bec2f73&chksm=f9523b2fce25b239a68db0dea8168dc6d14a9271dd9981adb47509eb382714cf192a1eaa514b#rd)  
 - [2023-02-08-2023年前端十大Web发展趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519805&idx=1&sn=04e5f66a4fcc336155346298d0ccd0e1&chksm=f9523b7ece25b268f5efc4847f8ee246e4857f67f102272c3a6dc19b8aa6aee9634eb4466b60#rd)  
 - [2023-02-06-2023年构建前端应用时应考虑的10项基础领域](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519779&idx=1&sn=23f43bb3e88159eb18da61ea29a1405e&chksm=f9523b60ce25b276af7d24ea9aec67c6e8033d809506a834d0048c219d552278d5e07c098618#rd)  
-- [2023-02-03-看大前端的定位与价值、前沿技术选型思考｜GMTC北京站完整日程](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=2&sn=ca29f4a3ab60f23f374bf191287691ee&chksm=f9523b62ce25b2749eff7e4e4b4946812ed46bd0b3be3a4ed06a27cb5f5e62b3a0c76e449e30#rd)  
 - [2023-02-03-Web-3D-圈摸爬滚打十多年的老兵热血自述：立志做中国跨时代-Web-渲染引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=1&sn=e05160e245e4164bf9906f81f0fb18ed&chksm=f9523b62ce25b274b86af2a22c7d147baf27af42723a1f272bad910b3fbef50ea099290ef6a5#rd)  
+- [2023-02-03-看大前端的定位与价值、前沿技术选型思考｜GMTC北京站完整日程](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=2&sn=ca29f4a3ab60f23f374bf191287691ee&chksm=f9523b62ce25b2749eff7e4e4b4946812ed46bd0b3be3a4ed06a27cb5f5e62b3a0c76e449e30#rd)  
 - [2023-02-01-调查：React-仍然是使用最广泛的前端框架，TypeScript-是优先选项](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519749&idx=1&sn=5fba60e56549eb150d541bea75b09961&chksm=f9523b46ce25b2501a4433ba615d9294f38b53db17c89f8235221a2238f5865f86d81842253c#rd)  
 - [2023-01-30-从-JS-到全生态，云原生时代下的前端成长演进之路-｜展望前端工程师的-2023](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519726&idx=1&sn=8cffa7bc0a1de277c8f389bdbfb41ba9&chksm=f95238adce25b1bb7b10a15dc10748dbeef323b2b2eaa04b35bb7891302a2e9692eb921e307c#rd)  
 - [2023-01-20-从大前端“穿越”到终端，开发者应该必备什么技能？-|-解读终端的-2022](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519695&idx=1&sn=dff6a3475f4616f17e931afe6bf1e564&chksm=f952388cce25b19a47fae1c54c1185af1b45b99612d4c8103d55c28884d9d9917269853f4fbf#rd)  
 - [2023-01-18-Vite-4发布，用更快的SWC替换了Babel](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519637&idx=1&sn=48fb29854c8e1c418275100e1eea746a&chksm=f95238d6ce25b1c00914a8451d63b2fd55bf9cb5c91ddfaa1f3b5cd627210686fa38b51fde8e#rd)  
 - [2023-01-16-为什么谷歌和苹果都要杀死移动Web？资深工程师揭秘大厂从吹捧到扼杀“内幕”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519612&idx=1&sn=66ff60f25017f5c3df5633297fee5684&chksm=f952383fce25b129ac535652397cb5b987338c0a166938fba85d62d903c134ad7d400782ff08#rd)  
-- [2023-01-13-InfoQ技术大会年底储值享钜惠，单张门票最高省3240元！-|-Q推荐](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=2&sn=1671ec31211a71a08aa9d578e42fa576&chksm=f9523821ce25b137dc17dc251014dd1b0ba7a66199ee08c1a83b685213b9016b28d2eb905361#rd)  
 - [2023-01-13-React-18：新玩具、新陷阱以及新可能性](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=1&sn=321c949c6a6e478ca57cf0a70e438ec3&chksm=f9523821ce25b137651f2e0e00b9d7edff31225a59fbb3c8eae8b143747f9280ef771fb95364#rd)  
+- [2023-01-13-InfoQ技术大会年底储值享钜惠，单张门票最高省3240元！-|-Q推荐](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=2&sn=1671ec31211a71a08aa9d578e42fa576&chksm=f9523821ce25b137dc17dc251014dd1b0ba7a66199ee08c1a83b685213b9016b28d2eb905361#rd)  
 - [2023-01-11-五年后，谷歌还在全力以赴发展-Kotlin](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519567&idx=1&sn=1871c77db8763a0e1ea4285eee033a29&chksm=f952380cce25b11ae2d694844aad9fe2eb44b81b5dee71fe786408c1b692a2db9ae0b9efe1a3#rd)  
 - [2023-01-09-下一代前端语言之争，JavaScript-要被新语言反超？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519565&idx=1&sn=9ca2c2183502b3109f7412334a219b73&chksm=f952380ece25b11801fba3b062000aebccf937f8bdaf73fdac8d5ee77d9f0b3cb8cc3a59f090#rd)  
-- [2023-01-05-2023年，这9个项目助你成为前端高手](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519501&idx=1&sn=611d63f68c69a736a66882d8d205768b&chksm=f952384ece25b158445d923734d5fa08495d426983f5acf7e91dd5e9994b315b57e21474388a#rd)  
 - [2023-01-05-见过技术圈过去一整年的热闹和纷争，2023年我们该如何选择发展路线？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519501&idx=2&sn=daccabd4980970bf421cd77476d93cc0&chksm=f952384ece25b158192b9a0a2d618b354c222d4932a7cb816126a3acfd1690e9c18ad5c2adf4#rd)  
+- [2023-01-05-2023年，这9个项目助你成为前端高手](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519501&idx=1&sn=611d63f68c69a736a66882d8d205768b&chksm=f952384ece25b158445d923734d5fa08495d426983f5acf7e91dd5e9994b315b57e21474388a#rd)  
 - [2023-01-03-Angular-v15发布：可以脱离-NgModules-构建组件了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519432&idx=1&sn=767e865815ab6e83c8f42e685754d2f2&chksm=f952398bce25b09d814e1be50de7872af497085a43c485ba7bdebf426979b9ab3f108c956ce7#rd)  
 - [2022-12-29-职场老兵的管理方法：给目标，敢放手，且有长期性约束-|-ArchSummit](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519409&idx=1&sn=49d19588872de725ec47eaeda48255b6&chksm=f95239f2ce25b0e42d962c772ab548ce482148a72483304250d146d7c8b97b74658cb4127b1c#rd)  
 - [2022-12-28-字节跳动Serverless-高密度部署与-Web-interoperable-Runtime实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519399&idx=1&sn=9fbb1b60cd8b21dd9d4926e70f8829f1&chksm=f95239e4ce25b0f2971ca173f8461aa53c8094630dc0ef605f372884e4b22f126effddda61f8#rd)  
-- [2022-12-26-PyScript：让Python在Web中跑起来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519350&idx=1&sn=ca4f0fb89b4415165a9b179efcccbc35&chksm=f9523935ce25b02337421ec24c2dce5abb7eafa6571d265dba47bc15d6fc602742236d87536d#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-02-13-用最少的代码，写一个完整移动电商（vite3+vue3.2+pinia+axios）](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487732&idx=1&sn=24837690df8ecff641129474908436ff&chksm=ce460565f9318c73f941c30ccda72f933cb1c22378aa51653f47aa6df773cc1923fd8d0104aa#rd) ![](/assets/new.png)  
+- [2023-02-13-用最少的代码，写一个完整移动电商（vite3+vue3.2+pinia+axios）](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487732&idx=1&sn=24837690df8ecff641129474908436ff&chksm=ce460565f9318c73f941c30ccda72f933cb1c22378aa51653f47aa6df773cc1923fd8d0104aa#rd)  
 - [2023-02-11-【推荐】1408--分享-6-个-Vue3-开发必备的-VSCode-插件](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487728&idx=1&sn=2c3aab6abcf3eb547ca7f3bfe47d2721&chksm=ce460561f9318c778118d9c5e32654b192cb0cf0ccc566fd83a3efc2d718e65af5860623a0c4#rd)  
 - [2023-02-10-11-个需要避免的-React-错误用法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487726&idx=1&sn=38d6bb97c84419bedfb222878324ace0&chksm=ce46057ff9318c69d0113515d164d72deeb3c311e409d7c742a3fea334211595669ca8100745#rd)  
 - [2023-02-09-分享一个JSON.stringify小技巧，让你老大，面试官眼前一亮~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487724&idx=1&sn=5bc625c487b783ae941d62c189188f06&chksm=ce46057df9318c6b116fbf642e8f7ff71fe52bfad2bc26586d76d807b75fcdec375670dad418#rd)  
