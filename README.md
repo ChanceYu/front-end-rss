@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-16 22:02:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-17 06:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474) ![](/assets/new.png)  
 - [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)  
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)  
 - [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471)  
@@ -55,7 +56,6 @@
 - [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)  
 - [2022-09-29-Keep-calm-and-carry-on-using-Node](https://nodeweekly.com/issues/456)  
 - [2022-09-22-The-Node-testing-framework-we-were-sleeping-on](https://nodeweekly.com/issues/455)  
-- [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-02-16-如何在Vue3中优雅使用Typescript？我总结出8个点~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487764&idx=1&sn=81737d867b9d7d9eff2b63c64a4a16fa&chksm=ce460485f9318d93f85596e0515d3cb35e82b7a877f18572bcf43e608e8395d856b7ddcbc131#rd) ![](/assets/new.png)  
+- [2023-02-16-如何在Vue3中优雅使用Typescript？我总结出8个点~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487764&idx=1&sn=81737d867b9d7d9eff2b63c64a4a16fa&chksm=ce460485f9318d93f85596e0515d3cb35e82b7a877f18572bcf43e608e8395d856b7ddcbc131#rd)  
 - [2023-02-15-最直白的Vue3教程，5分钟就看完了~不带任何废话！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487747&idx=1&sn=7b47ca9c96ac8ce0e2c1e90ab63ee617&chksm=ce460492f9318d848c4ec1ec6948676039512036be7d45fb479b99f20d33102a5ea7231d2628#rd)  
 - [2023-02-14-分享当前教新的30道Vue的面试题！学起来！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487740&idx=1&sn=f174aecc3daba7f2452214bed0459666&chksm=ce46056df9318c7b9b06816e852b16e39a2f713c3021f284c22d3a2418f93635b2ad7d4ce4a1#rd)  
 - [2023-02-13-用最少的代码，写一个完整移动电商（vite3+vue3.2+pinia+axios）](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487732&idx=1&sn=24837690df8ecff641129474908436ff&chksm=ce460565f9318c73f941c30ccda72f933cb1c22378aa51653f47aa6df773cc1923fd8d0104aa#rd)  
