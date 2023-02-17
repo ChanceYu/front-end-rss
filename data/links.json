@@ -303,6 +303,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "JavaScript sans build systems?",
+        "link": "https://javascriptweekly.com/issues/626",
+        "date": "2023-02-17"
+      },
+      {
         "title": "Bringing JavaScript to WebAssembly",
         "link": "https://javascriptweekly.com/issues/625",
         "date": "2023-02-10"

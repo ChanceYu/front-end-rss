@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-17 22:01:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-18 06:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-02-17-JavaScript-sans-build-systems?](https://javascriptweekly.com/issues/626) ![](/assets/new.png)  
 - [2023-02-10-Bringing-JavaScript-to-WebAssembly](https://javascriptweekly.com/issues/625)  
 - [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624)  
 - [2023-01-27-Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)  
@@ -86,7 +87,6 @@
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)  
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)  
 - [2022-09-23-Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607)  
-- [2022-09-16-Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -160,8 +160,8 @@
 </summary>
 
 
-- [2023-02-17-从-polyrepo-到-monorepo，前端代码仓库改造工程实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=1&sn=cfa1a05c4a89e534788211254d782687&chksm=f9523a4ece25b358bf4ccc1e09dc5b168a9e132ed4c92e18d3e45f97d3c1a9315ddc32f85a7e#rd) ![](/assets/new.png)  
-- [2023-02-17-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=2&sn=c017a9fd794d19f14c2fbd4ad74d6eba&chksm=f9523a4ece25b358ada3728dce608a19e9028f9a5e2ea8937b7236f55a34592e5eabee804ec9#rd) ![](/assets/new.png)  
+- [2023-02-17-从-polyrepo-到-monorepo，前端代码仓库改造工程实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=1&sn=cfa1a05c4a89e534788211254d782687&chksm=f9523a4ece25b358bf4ccc1e09dc5b168a9e132ed4c92e18d3e45f97d3c1a9315ddc32f85a7e#rd)  
+- [2023-02-17-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=2&sn=c017a9fd794d19f14c2fbd4ad74d6eba&chksm=f9523a4ece25b358ada3728dce608a19e9028f9a5e2ea8937b7236f55a34592e5eabee804ec9#rd)  
 - [2023-02-15-热门方向Top4：大前端监控、移动端性能与效率优化、团队可持续发展、低代码｜GMTC-北京站圆满落幕](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519953&idx=1&sn=9b25604ea51dcf25a9275ef344d5083a&chksm=f9523b92ce25b2841f0e96542fcc45737aaa7c62b90da56f92803d70f8f78788aa48543a2426#rd)  
 - [2023-02-13-为什么说Next.js-13是一个颠覆性版本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519871&idx=1&sn=c32ac244871c9f16fb2184a38b0beae3&chksm=f9523b3cce25b22a05c4c74d7d8c71598456f73001e8e62ee75db46170598b596129aa3dad59#rd)  
 - [2023-02-10-在Angular中实现自定义独立API的模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519852&idx=1&sn=f67213449694ddb8ade52e784bec2f73&chksm=f9523b2fce25b239a68db0dea8168dc6d14a9271dd9981adb47509eb382714cf192a1eaa514b#rd)  
