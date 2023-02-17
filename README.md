@@ -10,11 +10,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-17 06:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-17 08:20:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474) ![](/assets/new.png)  
+- [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)  
 - [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)  
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)  
 - [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-02-17-科技爱好者周刊（第-242-期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html) ![](/assets/new.png)  
 - [2023-02-10-科技爱好者周刊（第-241-期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)  
 - [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
 - [2023-01-13-科技爱好者周刊（第-239-期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)  
@@ -365,7 +366,6 @@
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
 - [2022-09-30-科技爱好者周刊（第-225-期）：NPC-演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)  
-- [2022-09-23-科技爱好者周刊（第-224-期）：Figma-为什么赢了-Sketch](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
