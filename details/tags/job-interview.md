@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-02-20 18:02:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-20 22:01:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -353,6 +353,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-02-20-【面经】分享我朋友年后被吊打的一次面试~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487784&idx=1&sn=1e7d241bda649c17cf96e3c1e2e7a5ea&chksm=ce4604b9f9318daf729708fbec8fa76f1691e6694a45dd3d5c0e219718030f2e058644dadcea#rd) 
 - [2023-02-07-金三银四，这套面试题，帮你成为offer收割机~加油！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487710&idx=1&sn=e0ff3fa05826a1daedbfc08baeef1041&chksm=ce46054ff9318c59bcc56a0196e13825acc094f4c23636cfa887b492dc65a4b0c284d1e0023d#rd) 
 - [2023-02-04-分享一个中型公司面试原题，卷起来~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487700&idx=1&sn=076c5a3e1e50309f2f1c9a12e040d2f4&chksm=ce460545f9318c53fffb90c860937bbbf647cdaee7d2f6383deb4c758a4cf207de34e9088b4e#rd) 
 - [2023-02-01-百度某部门面试原题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487696&idx=1&sn=2d0d30e0584145200fa37c0fbee0db20&chksm=ce460541f9318c57d4ab293291a6b88e68286c72a1305304461d95250d18ce961ae7e5e5621b#rd) 
