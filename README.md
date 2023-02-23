@@ -10,16 +10,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-23 18:00:31，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-24 06:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475) ![](/assets/new.png)  
 - [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)  
 - [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)  
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)  
@@ -55,7 +56,6 @@
 - [2022-10-13-✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)  
 - [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)  
 - [2022-09-29-Keep-calm-and-carry-on-using-Node](https://nodeweekly.com/issues/456)  
-- [2022-09-22-The-Node-testing-framework-we-were-sleeping-on](https://nodeweekly.com/issues/455)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2023-02-23-【第2865期】通过-JS-分类即时加速移动网页](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=1&sn=be58472cbc5aebd7c3a5736aba7a5275&chksm=bd48d18c8a3f589a728933e3d149eaefa7f41389db397fcc3e35a6187def1afc645af511b0f2#rd) ![](/assets/new.png)  
+- [2023-02-23-【第2865期】通过-JS-分类即时加速移动网页](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=1&sn=be58472cbc5aebd7c3a5736aba7a5275&chksm=bd48d18c8a3f589a728933e3d149eaefa7f41389db397fcc3e35a6187def1afc645af511b0f2#rd)  
 - [2023-02-22-【早说】逆向时间规划法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=2&sn=29d67b6a1ed236e9db287b70a33d6d03&chksm=bd48de718a3f5767580b556f58f1bcad921213380970894e661b503e270f27bbcead4faf8cfa#rd)  
 - [2023-02-22-【第2864期】一个全新的-JavaScript-事件：Scrollend](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=1&sn=8f05d855023faa07c1e995d1dedb070f&chksm=bd48de718a3f5767411f415ed95343ff076ed8d504d5a1958d20918c4abfac7abd69ce45b630#rd)  
 - [2023-02-21-【第2863期】使用文件路径组织-MSW-handlers](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260908&idx=1&sn=a8446aadc58e64149a2c90fcbb0ffe4d&chksm=bd48de688a3f577e5b57e083214ff316b41014bb5011b78234c8bd4c5760ff7a88d5dc656665#rd)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-02-23-分享7-个VUE项目超级好用的库，看源码都能学习很多！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487805&idx=1&sn=7b2af94ab5bb601afaacbe5a8b062788&chksm=ce4604acf9318dba4a3eb50f17f88d44d79fc480493366c74f7682180a63139c0b1a2d7cde17#rd) ![](/assets/new.png)  
+- [2023-02-23-分享7-个VUE项目超级好用的库，看源码都能学习很多！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487805&idx=1&sn=7b2af94ab5bb601afaacbe5a8b062788&chksm=ce4604acf9318dba4a3eb50f17f88d44d79fc480493366c74f7682180a63139c0b1a2d7cde17#rd)  
 - [2023-02-22-【设计模式】面试中被问的最频繁的「策略模式」](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487796&idx=1&sn=95c5bdb534b2a1dfc6005474f08a4a94&chksm=ce4604a5f9318db3bc5ba322f598300f5af82390f3e35e04eebed37a2ed4f915ff420ccabc9e#rd)  
 - [2023-02-21-Vue3-Table-性能优化，减少-85%-渲染耗时，牛！！！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487787&idx=1&sn=f2648c4f9aeba1858abaa4f33309348e&chksm=ce4604baf9318dac8c13a85b28ed5222e6c18e2d62dce46b7982717714fae6f01a3e3abf18e1#rd)  
 - [2023-02-20-【面经】分享我朋友年后被吊打的一次面试~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487784&idx=1&sn=1e7d241bda649c17cf96e3c1e2e7a5ea&chksm=ce4604b9f9318daf729708fbec8fa76f1691e6694a45dd3d5c0e219718030f2e058644dadcea#rd)  

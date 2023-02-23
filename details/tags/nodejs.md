@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-02-23 18:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-24 06:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475) 
 - [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474) 
 - [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473) 
 - [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471) 

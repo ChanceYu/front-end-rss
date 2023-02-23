@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Single executable apps come to Node core",
+        "link": "https://nodeweekly.com/issues/475",
+        "date": "2023-02-23"
+      },
+      {
         "title": "Automatic integration tests for Express apps",
         "link": "https://nodeweekly.com/issues/474",
         "date": "2023-02-16"
