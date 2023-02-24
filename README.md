@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-24 06:00:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-24 08:00:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475) ![](/assets/new.png)  
+- [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475)  
 - [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)  
 - [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)  
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)  
@@ -98,26 +98,26 @@
 </summary>
 
 
+- [2023-02-24-【第2866期】加快JavaScript生态系统的速度--一次一个库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=1&sn=d22f5a8586a7257ac7366a04485e4f7a&chksm=bd48d1c48a3f58d2964333803a259c4b16f590465b4b50a7b748425a40bcb858455a2b4cd7fa#rd) ![](/assets/new.png)  
+- [2023-02-24-【早说】真OKR标准：CLASSIC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=2&sn=7d1584087d59a6d2c41f0495920f79ce&chksm=bd48d1c48a3f58d2b1ba03f0ec3d00bcf8ff9261ab7996ccfc12049cb13884d0334f3ecfe26e#rd) ![](/assets/new.png)  
 - [2023-02-23-【第2865期】通过-JS-分类即时加速移动网页](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=1&sn=be58472cbc5aebd7c3a5736aba7a5275&chksm=bd48d18c8a3f589a728933e3d149eaefa7f41389db397fcc3e35a6187def1afc645af511b0f2#rd)  
-- [2023-02-22-【早说】逆向时间规划法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=2&sn=29d67b6a1ed236e9db287b70a33d6d03&chksm=bd48de718a3f5767580b556f58f1bcad921213380970894e661b503e270f27bbcead4faf8cfa#rd)  
 - [2023-02-22-【第2864期】一个全新的-JavaScript-事件：Scrollend](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=1&sn=8f05d855023faa07c1e995d1dedb070f&chksm=bd48de718a3f5767411f415ed95343ff076ed8d504d5a1958d20918c4abfac7abd69ce45b630#rd)  
-- [2023-02-21-【第2863期】使用文件路径组织-MSW-handlers](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260908&idx=1&sn=a8446aadc58e64149a2c90fcbb0ffe4d&chksm=bd48de688a3f577e5b57e083214ff316b41014bb5011b78234c8bd4c5760ff7a88d5dc656665#rd)  
+- [2023-02-22-【早说】逆向时间规划法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=2&sn=29d67b6a1ed236e9db287b70a33d6d03&chksm=bd48de718a3f5767580b556f58f1bcad921213380970894e661b503e270f27bbcead4faf8cfa#rd)  
 - [2023-02-21-【早说】看透职场发展底层逻辑](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260908&idx=2&sn=42b7b40766808145435cc0b0dc7bd359&chksm=bd48de688a3f577eb88c376d1e7cf8f9175c697c437550054acc5f3d6c400cb098f0a205ba68#rd)  
-- [2023-02-20-【早说】内在反映外在世界](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260900&idx=2&sn=db50c65b14344824bafe7d711e8d1cef&chksm=bd48de608a3f5776639c731cc4e2a1d384a6a442f5797378257d282c66731c13833a5271f115#rd)  
+- [2023-02-21-【第2863期】使用文件路径组织-MSW-handlers](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260908&idx=1&sn=a8446aadc58e64149a2c90fcbb0ffe4d&chksm=bd48de688a3f577e5b57e083214ff316b41014bb5011b78234c8bd4c5760ff7a88d5dc656665#rd)  
 - [2023-02-20-【第2862期】Vue3-性能优化之-Non-reactive-Object](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260900&idx=1&sn=3ebc2a2ffb74fe22ad1371a85304275a&chksm=bd48de608a3f5776a14aa8f2641eb96e4ca9f36689805d0bfb14e15b68fdc49009a5d27b2acf#rd)  
-- [2023-02-19-【第2861期】Vue.js-2023-年最新路线图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260896&idx=1&sn=26ba328ac47c67d2605f5e7391e386eb&chksm=bd48de648a3f57727d0e08318b9c8ffdc522fbd118833e4ec50806b55d606cf70d7cfddd8696#rd)  
+- [2023-02-20-【早说】内在反映外在世界](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260900&idx=2&sn=db50c65b14344824bafe7d711e8d1cef&chksm=bd48de608a3f5776639c731cc4e2a1d384a6a442f5797378257d282c66731c13833a5271f115#rd)  
 - [2023-02-19-【早说】让技术的好奇心和公司的业务发展路线一致的建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260896&idx=2&sn=10cc03aef9e742cf009e140f54b9f86a&chksm=bd48de648a3f57728e33170c6e846d24639f0b0f14d48d2fa147b40a632be704370e7829d60d#rd)  
-- [2023-02-18-【早说】慢熬](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260887&idx=2&sn=10af79fb5d34f71862078a483876eb7c&chksm=bd48de538a3f574556718643d0ffa2a1ac3a16eddfa2053b8b94482a527fe0152ff44e3074dc#rd)  
+- [2023-02-19-【第2861期】Vue.js-2023-年最新路线图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260896&idx=1&sn=26ba328ac47c67d2605f5e7391e386eb&chksm=bd48de648a3f57727d0e08318b9c8ffdc522fbd118833e4ec50806b55d606cf70d7cfddd8696#rd)  
 - [2023-02-18-【第2860期】多状态页面中的-mock-方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260887&idx=1&sn=561a3f515f7bbe6f186e83512e300167&chksm=bd48de538a3f5745ac2836d0c8a30a727e040032217177920943cd66c1a10ca676449ad2540e#rd)  
-- [2023-02-17-【第2859期】React-纪录片心得-—-社群驱动创新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260883&idx=1&sn=91627a411641dc51934312120834cf15&chksm=bd48de578a3f574131dd137df1f3ffb6e1c6620749a6cf68265d1c853939e90127a2f3eed66c#rd)  
+- [2023-02-18-【早说】慢熬](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260887&idx=2&sn=10af79fb5d34f71862078a483876eb7c&chksm=bd48de538a3f574556718643d0ffa2a1ac3a16eddfa2053b8b94482a527fe0152ff44e3074dc#rd)  
 - [2023-02-17-【早说】系统本身有问题，请制定规则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260883&idx=2&sn=497eb1bbd096e3a99721815dd1e12423&chksm=bd48de578a3f57416fbd238f8146e35dad19cdf5527d039e70fc813c17b6499e28df615eeb8f#rd)  
-- [2023-02-16-【早说】房树人测验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260867&idx=2&sn=b7ebd4bd6dc10c1d4464261daa9aeda0&chksm=bd48de478a3f5751a7b6b9c53d8f8a651f388a8c08afd7425892db14f5b056ae812719c89d53#rd)  
+- [2023-02-17-【第2859期】React-纪录片心得-—-社群驱动创新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260883&idx=1&sn=91627a411641dc51934312120834cf15&chksm=bd48de578a3f574131dd137df1f3ffb6e1c6620749a6cf68265d1c853939e90127a2f3eed66c#rd)  
 - [2023-02-16-【第2858期】React-纪录片心得-—-重新思考最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260867&idx=1&sn=81d1c77f7dc7788a35fbf2b38d743593&chksm=bd48de478a3f5751569b8c0bfe31b3592ead8879cbbbbabccd29ba02d5612963829445302c90#rd)  
-- [2023-02-15-【第2857期】Promise:-异步编程的理解和使用Skip-to-end-of-metadata](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260839&idx=1&sn=a95a5b9f457dce05c0468e919ca0e8a6&chksm=bd48de238a3f5735b5d339058e965d98d34c447be1589d742fb82056afa25a4659dd94224b1f#rd)  
-- [2023-02-15-【小册】趣学-Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260839&idx=2&sn=9d32306eb7d7f9861eeafb2e9e3528b1&chksm=bd48de238a3f5735560d1f935e798e64ee48c1e44a08efe6e5839d0b077bd158948886f06628#rd)  
+- [2023-02-16-【早说】房树人测验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260867&idx=2&sn=b7ebd4bd6dc10c1d4464261daa9aeda0&chksm=bd48de478a3f5751a7b6b9c53d8f8a651f388a8c08afd7425892db14f5b056ae812719c89d53#rd)  
 - [2023-02-15-【早说】大量吸收新知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260839&idx=3&sn=d68540107858859cff3b08eaaad69906&chksm=bd48de238a3f57357551ec519df8403c6ee2ff19355ea06960d99941ae4e8addb1a47e4981d8#rd)  
-- [2023-02-14-【早说】反馈给利益相关者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260813&idx=3&sn=df60e310ad9b25b25b73b1e60792ba1f&chksm=bd48de098a3f571fadd033e7632715d08cad9b94ffdd1f8e031803c1a45cbdb522caa4a2f24e#rd)  
-- [2023-02-14-【招聘】北京花房集团招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260813&idx=2&sn=6b4d28775eb94479d470a9ba447bb657&chksm=bd48de098a3f571f911ac8b7ad327ee95c5258b7f7b0dc0d1146b47691b56ff6a856efbd68d9#rd)  
+- [2023-02-15-【小册】趣学-Node.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260839&idx=2&sn=9d32306eb7d7f9861eeafb2e9e3528b1&chksm=bd48de238a3f5735560d1f935e798e64ee48c1e44a08efe6e5839d0b077bd158948886f06628#rd)  
+- [2023-02-15-【第2857期】Promise:-异步编程的理解和使用Skip-to-end-of-metadata](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260839&idx=1&sn=a95a5b9f457dce05c0468e919ca0e8a6&chksm=bd48de238a3f5735b5d339058e965d98d34c447be1589d742fb82056afa25a4659dd94224b1f#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
