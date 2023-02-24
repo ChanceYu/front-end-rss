@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-24 08:00:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-24 12:00:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-02-24-【第2866期】加快JavaScript生态系统的速度--一次一个库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=1&sn=d22f5a8586a7257ac7366a04485e4f7a&chksm=bd48d1c48a3f58d2964333803a259c4b16f590465b4b50a7b748425a40bcb858455a2b4cd7fa#rd) ![](/assets/new.png)  
-- [2023-02-24-【早说】真OKR标准：CLASSIC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=2&sn=7d1584087d59a6d2c41f0495920f79ce&chksm=bd48d1c48a3f58d2b1ba03f0ec3d00bcf8ff9261ab7996ccfc12049cb13884d0334f3ecfe26e#rd) ![](/assets/new.png)  
+- [2023-02-24-【第2866期】加快JavaScript生态系统的速度--一次一个库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=1&sn=d22f5a8586a7257ac7366a04485e4f7a&chksm=bd48d1c48a3f58d2964333803a259c4b16f590465b4b50a7b748425a40bcb858455a2b4cd7fa#rd)  
+- [2023-02-24-【早说】真OKR标准：CLASSIC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=2&sn=7d1584087d59a6d2c41f0495920f79ce&chksm=bd48d1c48a3f58d2b1ba03f0ec3d00bcf8ff9261ab7996ccfc12049cb13884d0334f3ecfe26e#rd)  
 - [2023-02-23-【第2865期】通过-JS-分类即时加速移动网页](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=1&sn=be58472cbc5aebd7c3a5736aba7a5275&chksm=bd48d18c8a3f589a728933e3d149eaefa7f41389db397fcc3e35a6187def1afc645af511b0f2#rd)  
 - [2023-02-22-【第2864期】一个全新的-JavaScript-事件：Scrollend](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=1&sn=8f05d855023faa07c1e995d1dedb070f&chksm=bd48de718a3f5767411f415ed95343ff076ed8d504d5a1958d20918c4abfac7abd69ce45b630#rd)  
 - [2023-02-22-【早说】逆向时间规划法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=2&sn=29d67b6a1ed236e9db287b70a33d6d03&chksm=bd48de718a3f5767580b556f58f1bcad921213380970894e661b503e270f27bbcead4faf8cfa#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-02-24-科技爱好者周刊（第-243-期）：与孔子-AI-聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html) ![](/assets/new.png)  
 - [2023-02-17-科技爱好者周刊（第-242-期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)  
 - [2023-02-10-科技爱好者周刊（第-241-期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)  
 - [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
@@ -365,7 +366,6 @@
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
 - [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
-- [2022-09-30-科技爱好者周刊（第-225-期）：NPC-演员也是一种职业](http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
