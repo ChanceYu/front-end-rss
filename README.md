@@ -10,15 +10,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-02-24 22:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-25 12:00:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-02-24-ECMAScript-2023-for-President](https://javascriptweekly.com/issues/627) ![](/assets/new.png)  
 - [2023-02-17-JavaScript-sans-build-systems?](https://javascriptweekly.com/issues/626)  
 - [2023-02-10-Bringing-JavaScript-to-WebAssembly](https://javascriptweekly.com/issues/625)  
 - [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624)  
@@ -86,7 +87,6 @@
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610)  
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)  
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)  
-- [2022-09-23-Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -101,7 +101,7 @@
 - [2023-02-24-【早说】真OKR标准：CLASSIC](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=2&sn=7d1584087d59a6d2c41f0495920f79ce&chksm=bd48d1c48a3f58d2b1ba03f0ec3d00bcf8ff9261ab7996ccfc12049cb13884d0334f3ecfe26e#rd)  
 - [2023-02-24-【第2866期】加快JavaScript生态系统的速度--一次一个库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260992&idx=1&sn=d22f5a8586a7257ac7366a04485e4f7a&chksm=bd48d1c48a3f58d2964333803a259c4b16f590465b4b50a7b748425a40bcb858455a2b4cd7fa#rd)  
 - [2023-02-23-【第2865期】通过-JS-分类即时加速移动网页](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=1&sn=be58472cbc5aebd7c3a5736aba7a5275&chksm=bd48d18c8a3f589a728933e3d149eaefa7f41389db397fcc3e35a6187def1afc645af511b0f2#rd)  
-- [2023-02-23-【早说】34枚金币时间管理法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=2&sn=8263b0b628d310e3bd23304203603bdc&chksm=bd48d18c8a3f589a3b6281ca127796cc94b6383c4496881c337d15e26d8b1ba414449ebee207#rd) ![](/assets/new.png)  
+- [2023-02-23-【早说】34枚金币时间管理法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260936&idx=2&sn=8263b0b628d310e3bd23304203603bdc&chksm=bd48d18c8a3f589a3b6281ca127796cc94b6383c4496881c337d15e26d8b1ba414449ebee207#rd)  
 - [2023-02-22-【早说】逆向时间规划法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=2&sn=29d67b6a1ed236e9db287b70a33d6d03&chksm=bd48de718a3f5767580b556f58f1bcad921213380970894e661b503e270f27bbcead4faf8cfa#rd)  
 - [2023-02-22-【第2864期】一个全新的-JavaScript-事件：Scrollend](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260917&idx=1&sn=8f05d855023faa07c1e995d1dedb070f&chksm=bd48de718a3f5767411f415ed95343ff076ed8d504d5a1958d20918c4abfac7abd69ce45b630#rd)  
 - [2023-02-21-【第2863期】使用文件路径组织-MSW-handlers](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260908&idx=1&sn=a8446aadc58e64149a2c90fcbb0ffe4d&chksm=bd48de688a3f577e5b57e083214ff316b41014bb5011b78234c8bd4c5760ff7a88d5dc656665#rd)  
@@ -160,26 +160,26 @@
 </summary>
 
 
+- [2023-02-24-优化React前端性能的五个技巧](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520053&idx=1&sn=7a2ed8b6f802aa30d4f900056d1a5bd9&chksm=f9523a76ce25b360d94cb3a1f0eac7c52d7152c8e411b0d23c8e14042913c5e1d61940202163#rd) ![](/assets/new.png)  
 - [2023-02-22-Spotify移动工程平台迁移：将Android和iOS代码库迁移到Bazel](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520036&idx=1&sn=4e36a61116672ba49d6e8c33dee4d6e6&chksm=f9523a67ce25b3719927e9bc493b84961e07cc9158ffa0514928dc3afbe49209c50fe327c7b4#rd)  
-- [2023-02-20-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520031&idx=2&sn=1e18c8e8008f27236eeed63152430b0b&chksm=f9523a5cce25b34ab7fa7bcb3e2777d99704394a539cbbe9ce6cadcdc60be695b97d297f8556#rd)  
 - [2023-02-20-Google-路线图：Flutter-与-JavaScript、Wasm-集成](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520031&idx=1&sn=e71c7b4492ce12c7ac813ae2ba08f922&chksm=f9523a5cce25b34a46bce68daad3638f15fc96ed02f62cf85cc6ee19b00a8c94a958252761e0#rd)  
-- [2023-02-17-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=2&sn=c017a9fd794d19f14c2fbd4ad74d6eba&chksm=f9523a4ece25b358ada3728dce608a19e9028f9a5e2ea8937b7236f55a34592e5eabee804ec9#rd)  
+- [2023-02-20-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520031&idx=2&sn=1e18c8e8008f27236eeed63152430b0b&chksm=f9523a5cce25b34ab7fa7bcb3e2777d99704394a539cbbe9ce6cadcdc60be695b97d297f8556#rd)  
 - [2023-02-17-从-polyrepo-到-monorepo，前端代码仓库改造工程实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=1&sn=cfa1a05c4a89e534788211254d782687&chksm=f9523a4ece25b358bf4ccc1e09dc5b168a9e132ed4c92e18d3e45f97d3c1a9315ddc32f85a7e#rd)  
+- [2023-02-17-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=2&sn=c017a9fd794d19f14c2fbd4ad74d6eba&chksm=f9523a4ece25b358ada3728dce608a19e9028f9a5e2ea8937b7236f55a34592e5eabee804ec9#rd)  
 - [2023-02-15-热门方向Top4：大前端监控、移动端性能与效率优化、团队可持续发展、低代码｜GMTC-北京站圆满落幕](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519953&idx=1&sn=9b25604ea51dcf25a9275ef344d5083a&chksm=f9523b92ce25b2841f0e96542fcc45737aaa7c62b90da56f92803d70f8f78788aa48543a2426#rd)  
 - [2023-02-13-为什么说Next.js-13是一个颠覆性版本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519871&idx=1&sn=c32ac244871c9f16fb2184a38b0beae3&chksm=f9523b3cce25b22a05c4c74d7d8c71598456f73001e8e62ee75db46170598b596129aa3dad59#rd)  
 - [2023-02-10-在Angular中实现自定义独立API的模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519852&idx=1&sn=f67213449694ddb8ade52e784bec2f73&chksm=f9523b2fce25b239a68db0dea8168dc6d14a9271dd9981adb47509eb382714cf192a1eaa514b#rd)  
 - [2023-02-08-2023年前端十大Web发展趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519805&idx=1&sn=04e5f66a4fcc336155346298d0ccd0e1&chksm=f9523b7ece25b268f5efc4847f8ee246e4857f67f102272c3a6dc19b8aa6aee9634eb4466b60#rd)  
 - [2023-02-06-2023年构建前端应用时应考虑的10项基础领域](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519779&idx=1&sn=23f43bb3e88159eb18da61ea29a1405e&chksm=f9523b60ce25b276af7d24ea9aec67c6e8033d809506a834d0048c219d552278d5e07c098618#rd)  
-- [2023-02-03-看大前端的定位与价值、前沿技术选型思考｜GMTC北京站完整日程](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=2&sn=ca29f4a3ab60f23f374bf191287691ee&chksm=f9523b62ce25b2749eff7e4e4b4946812ed46bd0b3be3a4ed06a27cb5f5e62b3a0c76e449e30#rd)  
 - [2023-02-03-Web-3D-圈摸爬滚打十多年的老兵热血自述：立志做中国跨时代-Web-渲染引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=1&sn=e05160e245e4164bf9906f81f0fb18ed&chksm=f9523b62ce25b274b86af2a22c7d147baf27af42723a1f272bad910b3fbef50ea099290ef6a5#rd)  
+- [2023-02-03-看大前端的定位与价值、前沿技术选型思考｜GMTC北京站完整日程](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=2&sn=ca29f4a3ab60f23f374bf191287691ee&chksm=f9523b62ce25b2749eff7e4e4b4946812ed46bd0b3be3a4ed06a27cb5f5e62b3a0c76e449e30#rd)  
 - [2023-02-01-调查：React-仍然是使用最广泛的前端框架，TypeScript-是优先选项](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519749&idx=1&sn=5fba60e56549eb150d541bea75b09961&chksm=f9523b46ce25b2501a4433ba615d9294f38b53db17c89f8235221a2238f5865f86d81842253c#rd)  
 - [2023-01-30-从-JS-到全生态，云原生时代下的前端成长演进之路-｜展望前端工程师的-2023](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519726&idx=1&sn=8cffa7bc0a1de277c8f389bdbfb41ba9&chksm=f95238adce25b1bb7b10a15dc10748dbeef323b2b2eaa04b35bb7891302a2e9692eb921e307c#rd)  
 - [2023-01-20-从大前端“穿越”到终端，开发者应该必备什么技能？-|-解读终端的-2022](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519695&idx=1&sn=dff6a3475f4616f17e931afe6bf1e564&chksm=f952388cce25b19a47fae1c54c1185af1b45b99612d4c8103d55c28884d9d9917269853f4fbf#rd)  
 - [2023-01-18-Vite-4发布，用更快的SWC替换了Babel](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519637&idx=1&sn=48fb29854c8e1c418275100e1eea746a&chksm=f95238d6ce25b1c00914a8451d63b2fd55bf9cb5c91ddfaa1f3b5cd627210686fa38b51fde8e#rd)  
 - [2023-01-16-为什么谷歌和苹果都要杀死移动Web？资深工程师揭秘大厂从吹捧到扼杀“内幕”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519612&idx=1&sn=66ff60f25017f5c3df5633297fee5684&chksm=f952383fce25b129ac535652397cb5b987338c0a166938fba85d62d903c134ad7d400782ff08#rd)  
-- [2023-01-13-InfoQ技术大会年底储值享钜惠，单张门票最高省3240元！-|-Q推荐](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=2&sn=1671ec31211a71a08aa9d578e42fa576&chksm=f9523821ce25b137dc17dc251014dd1b0ba7a66199ee08c1a83b685213b9016b28d2eb905361#rd)  
 - [2023-01-13-React-18：新玩具、新陷阱以及新可能性](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=1&sn=321c949c6a6e478ca57cf0a70e438ec3&chksm=f9523821ce25b137651f2e0e00b9d7edff31225a59fbb3c8eae8b143747f9280ef771fb95364#rd)  
-- [2023-01-11-五年后，谷歌还在全力以赴发展-Kotlin](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519567&idx=1&sn=1871c77db8763a0e1ea4285eee033a29&chksm=f952380cce25b11ae2d694844aad9fe2eb44b81b5dee71fe786408c1b692a2db9ae0b9efe1a3#rd)  
+- [2023-01-13-InfoQ技术大会年底储值享钜惠，单张门票最高省3240元！-|-Q推荐](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519586&idx=2&sn=1671ec31211a71a08aa9d578e42fa576&chksm=f9523821ce25b137dc17dc251014dd1b0ba7a66199ee08c1a83b685213b9016b28d2eb905361#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
