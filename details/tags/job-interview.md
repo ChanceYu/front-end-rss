@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-02-27 22:01:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-02-28 06:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -353,6 +353,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-02-27-你肯定用过这八种设计模式，面试官问起不要没话讲啦！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487859&idx=1&sn=3c0442c798f3ea884450e162f6eb32d1&chksm=ce4604e2f9318df48fb98b4fc00608ee4e9abdea208182a600e69843fd59ae8c2853e3ebb71a#rd) 
 - [2023-02-25-林三心：1个星期，7个前端面试邀约，我是怎么做到的~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487843&idx=1&sn=846c0cb9cb6bbfaeda1b814ce6060632&chksm=ce4604f2f9318de4ba2d6a95e8e39e3c2b03d7d2e90aaf1bf6708a44ea2f609793636c38b106#rd) 
 - [2023-02-24-如果想获得更多前端面试机会，建议多刷一些高质量面试题！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487819&idx=1&sn=39bc0777571bd63f7a29507f65bf5c78&chksm=ce4604daf9318dcc117296255358e1f3eed4aa72f26b30417f6930ee1b9e8cab6fb263f4dc16#rd) 
 - [2023-02-22-【设计模式】面试中被问的最频繁的「策略模式」](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487796&idx=1&sn=95c5bdb534b2a1dfc6005474f08a4a94&chksm=ce4604a5f9318db3bc5ba322f598300f5af82390f3e35e04eebed37a2ed4f915ff420ccabc9e#rd) 
