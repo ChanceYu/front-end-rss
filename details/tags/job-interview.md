@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-02 18:00:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-02 22:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -353,6 +353,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-03-02-铜三铁四，需要些套路面试成功率才会高](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487895&idx=1&sn=606349fedc258d2313ba9f7794bd9853&chksm=ce460406f9318d10d4cc59a948df2426df75a7af075c771306e634ad9e2686d74bbc478b41e3#rd) 
 - [2023-02-28-【三心面经】我面试一家大型软件公司的面经，以及答题思路~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487869&idx=1&sn=432d8d32922f72f0ad512f239a5fa82e&chksm=ce4604ecf9318dfaaaaabdf10636f47bf96b148507e13b0b20709bf0bb6f984ae466a7f6a3d2#rd) 
 - [2023-02-27-你肯定用过这八种设计模式，面试官问起不要没话讲啦！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487859&idx=1&sn=3c0442c798f3ea884450e162f6eb32d1&chksm=ce4604e2f9318df48fb98b4fc00608ee4e9abdea208182a600e69843fd59ae8c2853e3ebb71a#rd) 
 - [2023-02-25-林三心：1个星期，7个前端面试邀约，我是怎么做到的~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487843&idx=1&sn=846c0cb9cb6bbfaeda1b814ce6060632&chksm=ce4604f2f9318de4ba2d6a95e8e39e3c2b03d7d2e90aaf1bf6708a44ea2f609793636c38b106#rd) 
