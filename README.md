@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-03-02 22:01:05，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-03 12:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-03-02-Playing-in-the-sandbox](https://nodeweekly.com/issues/476) ![](/assets/new.png)  
+- [2023-03-02-Playing-in-the-sandbox](https://nodeweekly.com/issues/476)  
 - [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475)  
 - [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)  
 - [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-03-02-铜三铁四，需要些套路面试成功率才会高](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487895&idx=1&sn=606349fedc258d2313ba9f7794bd9853&chksm=ce460406f9318d10d4cc59a948df2426df75a7af075c771306e634ad9e2686d74bbc478b41e3#rd) ![](/assets/new.png)  
+- [2023-03-02-铜三铁四，需要些套路面试成功率才会高](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487895&idx=1&sn=606349fedc258d2313ba9f7794bd9853&chksm=ce460406f9318d10d4cc59a948df2426df75a7af075c771306e634ad9e2686d74bbc478b41e3#rd)  
 - [2023-03-01-【建议精读】怎么设计一个人见人爱的组件呢？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487885&idx=1&sn=442f3d8ebae38f6ca1b20b3d1956111a&chksm=ce46041cf9318d0aa10bfa08260b34b7ca73fb019179d91f454fe925e36e561aba379c6751ed#rd)  
 - [2023-02-28-【三心面经】我面试一家大型软件公司的面经，以及答题思路~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487869&idx=1&sn=432d8d32922f72f0ad512f239a5fa82e&chksm=ce4604ecf9318dfaaaaabdf10636f47bf96b148507e13b0b20709bf0bb6f984ae466a7f6a3d2#rd)  
 - [2023-02-27-你肯定用过这八种设计模式，面试官问起不要没话讲啦！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487859&idx=1&sn=3c0442c798f3ea884450e162f6eb32d1&chksm=ce4604e2f9318df48fb98b4fc00608ee4e9abdea208182a600e69843fd59ae8c2853e3ebb71a#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-03-03-科技爱好者周刊（第-244-期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html) ![](/assets/new.png)  
 - [2023-02-24-科技爱好者周刊（第-243-期）：与孔子-AI-聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)  
 - [2023-02-17-科技爱好者周刊（第-242-期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)  
 - [2023-02-10-科技爱好者周刊（第-241-期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)  
@@ -365,7 +366,6 @@
 - [2022-10-25-羊了个羊，如何自己实现（暨"码上掘金"编程挑战赛介绍）](http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html)  
 - [2022-10-23-最简单的-Git-服务器](http://www.ruanyifeng.com/blog/2022/10/git-server.html)  
 - [2022-10-21-科技爱好者周刊（第-227-期）：脸书的公司入职教育](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html)  
-- [2022-10-14-科技爱好者周刊（第-226-期）：谷歌出了什么问题？](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
