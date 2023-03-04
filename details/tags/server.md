@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-04 06:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-04 08:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -9,6 +9,7 @@
 
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
+- [2023-03-04-【第2874期】新时代的-SSR-框架破局者：qwik](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261123&idx=1&sn=88fd5ce78243329e3943a4ce56fe38cc&chksm=bd48d1478a3f585191d77def1b4264e2babc49db22529b23b9e27ed30fbfdee3e4908f4d3c9a#rd) 
 - [2023-01-04-【第2827期】基于-GraphQL-的云音乐-BFF-建设实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=1&sn=a8f7b282ef1297f4b26388ff9430d195&chksm=bd48dd438a3f54554cfe9a628c14d74b7578bf5d244b227b595e6550d78c044f5c315d0d0d31#rd) 
 - [2022-11-25-【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd) 
 - [2022-06-29-【第2655期】携程基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=2&sn=b194a771eba95537896ff441a411c9d7&chksm=bd492d2b8a3ea43d6b6d1057320b41196add6c18b93fb863ffb3d425fdb4ea1bd8519d16eb79#rd) 
