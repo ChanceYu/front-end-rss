@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-08 18:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-09 06:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -353,6 +353,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-03-08-我当面试官的经历总结](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487957&idx=1&sn=cd1ab3e89cfb53d7a6b90acead3e86b7&chksm=ce460444f9318d5227902bba59ec7688e7ff596a9164ff7419412a62dbc7359ccd6281d36503#rd) 
 - [2023-03-05-【面经】互联网寒冬，三年经验，前端面试~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487927&idx=1&sn=e971af6ac6f93ba2e1ac8d2de4f6ca5b&chksm=ce460426f9318d308a660f2c03b3d07b3399ac14f84e369fe95688c7ca85520401e7d790e539#rd) 
 - [2023-03-03-他这几天面试【初级前端】，面试官都问了他啥？你们会吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487906&idx=1&sn=2717d3147c25e745b8167e1e69a5aeac&chksm=ce460433f9318d255d185c024ea66405525ff46fffcb274900de019143926a87f5b4ff9d6915#rd) 
 - [2023-03-02-铜三铁四，需要些套路面试成功率才会高](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487895&idx=1&sn=606349fedc258d2313ba9f7794bd9853&chksm=ce460406f9318d10d4cc59a948df2426df75a7af075c771306e634ad9e2686d74bbc478b41e3#rd) 
