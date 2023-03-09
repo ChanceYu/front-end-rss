@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Taking flight with Feathers 5",
+        "link": "https://nodeweekly.com/issues/477",
+        "date": "2023-03-09"
+      },
+      {
         "title": "Playing in the sandbox",
         "link": "https://nodeweekly.com/issues/476",
         "date": "2023-03-02"

@@ -10,13 +10,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-03-09 08:00:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-09 22:00:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-03-09-Taking-flight-with-Feathers-5](https://nodeweekly.com/issues/477) ![](/assets/new.png)  
 - [2023-03-02-Playing-in-the-sandbox](https://nodeweekly.com/issues/476)  
 - [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475)  
 - [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)  
@@ -55,7 +56,6 @@
 - [2022-10-27-Node-18-goes-LTS](https://nodeweekly.com/issues/460)  
 - [2022-10-20-Node-19-released](https://nodeweekly.com/issues/459)  
 - [2022-10-13-✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)  
-- [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-03-09-【第2879期】Zarm-3.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261190&idx=1&sn=5e4115312aca0d7e8bca0f730f0b9242&chksm=bd48d0828a3f5994224a66e1393c12cde0686d303e01cad3c3c15a2a5e6cc63dc30c69ee98b8#rd) ![](/assets/new.png)  
-- [2023-03-09-【早说】什么是效率和效力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261190&idx=2&sn=5aad33c944cee87ba0ff7cbee6ae6d87&chksm=bd48d0828a3f59940729964874dd773a9827491ea33b8fe1cb76c4400c849dccc322512c9d7a#rd) ![](/assets/new.png)  
+- [2023-03-09-【第2879期】Zarm-3.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261190&idx=1&sn=5e4115312aca0d7e8bca0f730f0b9242&chksm=bd48d0828a3f5994224a66e1393c12cde0686d303e01cad3c3c15a2a5e6cc63dc30c69ee98b8#rd)  
+- [2023-03-09-【早说】什么是效率和效力？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261190&idx=2&sn=5aad33c944cee87ba0ff7cbee6ae6d87&chksm=bd48d0828a3f59940729964874dd773a9827491ea33b8fe1cb76c4400c849dccc322512c9d7a#rd)  
 - [2023-03-08-【早说】保持好的心态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261173&idx=3&sn=c078b3d068118a85379b4832a46dcf0b&chksm=bd48d1718a3f58675d99fb855cd716cc4f520510f9f7858e201fb7eb242803c6ebbdcc1542c2#rd)  
 - [2023-03-08-【活动】得物技术沙龙：前端中后台系统架构专场](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261173&idx=2&sn=519425cae4326105a325113f555c6296&chksm=bd48d1718a3f586757d34d113694a511a6ba3f0432559a6081801c7a8bccbe203bcda7682e8b#rd)  
 - [2023-03-08-【第2878期】前端监控稳定性数据分析实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261173&idx=1&sn=74de6eb8324ebe4fefd831ed803e98ee&chksm=bd48d1718a3f5867141754e1f8b1c0a4d71dad6b226dd28749359c5051bc44cdc2d04a601e4e#rd)  
