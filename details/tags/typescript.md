@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-10 18:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-10 22:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -134,6 +134,7 @@
 - [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
+- [2023-03-05-如何在-TypeScript-中使用泛型](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513559&idx=2&sn=011e6f1638db97599a92a0427c1458d0&chksm=f992b306cee53a10779e94cb20b267f6a99f620025f4ff65053429608b97dc4c27688abac38a#rd) 
 - [2023-01-04-DeepKit-——-赋予-TypeScript-更多可能性](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512540&idx=1&sn=02442b75d68578cb4ef0183be6c8ad9c&chksm=f992b70dcee53e1b5477fbec8871cdd95dcce5b112b609739f32029c50231606cfa6653b7060#rd) 
 - [2022-12-27-如何在-TypeScript-中使用命名空间](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512309&idx=2&sn=babf2ec8ebb4993fea1a3ab2d964aaf1&chksm=f992b624cee53f32f556dc5f104a95ea6ab3229f05ba538e8949584e932eabd46214761edccf#rd) 
 - [2022-11-02-写-TypeScript-时，很多人可能会犯的几个小错误！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247511264&idx=1&sn=15be1e7f4c0f6f72fa6f7d42458618c4&chksm=f992aa31cee52327d2c59ddf52cbe3b0df376b85314408eb32bf56bd6e8a9de88790db17664c#rd) 
