@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-10 12:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-10 18:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -56,6 +56,7 @@
 - [2020-08-19-前端音视频的那些术语](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651561609&idx=2&sn=724e0db44c9fef2473512545657a553a&chksm=80254948b752c05eaa5763fd1f4e9d3047b5a3b7600e9da3a26c51d50f3880f1a5d04cbc776e&scene=27#wechat_redirect) 
 - [2020-07-18-玩转前端-Video-播放器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651560647&idx=1&sn=6d10186c6e404de7e596cc152a34ab7a&chksm=80254d06b752c4109b23010e60aa455d3724133902790073bcc92d5f2f486aa535b73d9e6c42&scene=27#wechat_redirect) 
 - [2020-01-26-Web-视频播放前前后后那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557793&idx=1&sn=a70ce12286324dfd0dc3ce1f3bb0b971&chksm=80255860b752d1764fc9f7413aa5d14c61fd58782fa0c175a53a9c46993f84c2274efad68083&scene=27#wechat_redirect) 
+- [2023-03-10-全世界都在跟风ChatGPT，它的真正价值到底是什么？｜直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520211&idx=2&sn=c33541001146c36a8078d490e0d817f5&chksm=f9523a90ce25b3865a640aa86d1d44ece7e839db91ff4da5aaad1d60b2e0a3dd34006a021294#rd) 
 - [2023-02-20-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520031&idx=2&sn=1e18c8e8008f27236eeed63152430b0b&chksm=f9523a5cce25b34ab7fa7bcb3e2777d99704394a539cbbe9ce6cadcdc60be695b97d297f8556#rd) 
 - [2023-02-17-全球都为ChatGPT疯狂，它到底是风口还是虚火？深度解读风暴眼中的ChatGPT-|-直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520013&idx=2&sn=c017a9fd794d19f14c2fbd4ad74d6eba&chksm=f9523a4ece25b358ada3728dce608a19e9028f9a5e2ea8937b7236f55a34592e5eabee804ec9#rd) 
 - [2022-07-15-聊聊新晋顶流「Web3-」：海水与火焰｜直播预约](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516273&idx=2&sn=b67b15c8b5b584fcfcc3aa48327f281e&chksm=f9523532ce25bc243f2efd5628a536ed6011913ad6947f340281c78d341d7c0c5b6d7c03bc1d#rd) 
