@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-03-11 18:00:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-12 12:13:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,11 +19,11 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-03-11-你们喜欢用forEach吗？说说我为啥不喜欢用forEach~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487990&idx=1&sn=b7090fad160c5033b768759bdb72b9f3&chksm=ce460467f9318d7175e2e1911f964d9913d2789be3a0d8990d9b85aa7ec87f7c955d5a0ed45a#rd) ![](/assets/new.png)  
+- [2023-03-11-你们喜欢用forEach吗？说说我为啥不喜欢用forEach~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487990&idx=1&sn=b7090fad160c5033b768759bdb72b9f3&chksm=ce460467f9318d7175e2e1911f964d9913d2789be3a0d8990d9b85aa7ec87f7c955d5a0ed45a#rd)  
 - [2023-03-10-有回暖趋势！分享180道前端面试真题，做好面试准备！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487984&idx=1&sn=5b8f233403dbc020d0a96d8e4ed0fdcf&chksm=ce460461f9318d77955731f34b6fd259b612c1b82c357efd43c6a44889d0eba3a630b1c6384d#rd)  
 - [2023-03-09-两行CSS让页面提升了近7倍渲染性能！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487977&idx=1&sn=4dc7b79f732b75e895e51447df2c1e28&chksm=ce460478f9318d6e9e571309079361512026a7fc477e224f863d196dcd2aa1adb724dc820e93#rd)  
 - [2023-03-08-我当面试官的经历总结](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487957&idx=1&sn=cd1ab3e89cfb53d7a6b90acead3e86b7&chksm=ce460444f9318d5227902bba59ec7688e7ff596a9164ff7419412a62dbc7359ccd6281d36503#rd)  
@@ -315,6 +315,7 @@
 </summary>
 
 
+- [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/) ![](/assets/new.png)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
 - [2023-02-19-是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/)  
 - [2023-02-08-奇了怪了，输入法和JS-Enter回车提交冲突](https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/)  
@@ -330,11 +331,10 @@
 - [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/)  
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)  
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)  
-- [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)  
 - [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)  
+- [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)  
 - [2022-09-27-介绍2022最期待且已正式支持的CSS-container容器查询](https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/)  
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/)  
-- [2022-09-20-巧用:is或:where伪类让scoped的style依然全局匹配](https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
