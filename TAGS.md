@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-03-16 18:01:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-03-16 22:00:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -183,6 +183,7 @@
 
 
 
+- [【Node-Weekly】Shell-free-scripting-from-Node](https://nodeweekly.com/issues/478)
 - [【Node-Weekly】Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475)
 - [【Node-Weekly】Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)
 - [【Node-Weekly】Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)
@@ -202,7 +203,6 @@
 - [【Node-Weekly】Should-Node.js-support-Web-Workers?](https://nodeweekly.com/issues/444)
 - [【Node-Weekly】Node.js-in-the-stream.](https://nodeweekly.com/issues/443)
 - [【Node-Weekly】Node-16-to-duck-out-early-in-September-2023](https://nodeweekly.com/issues/442)
-- [【Node-Weekly】util.parseArgs-arrives-in-Node-18.3](https://nodeweekly.com/issues/440)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
