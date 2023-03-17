@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-17 12:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-17 18:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -39,6 +39,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2023-03-17-TypeScript-5.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613004&idx=1&sn=3fa4016776165dd3250964a6bee683ac&chksm=8022b08db755399b5e0be635291bf629aa77b3e50161ec2c4e1c9183662fc0e406d100f8b833#rd) 
 - [2023-01-09-15-种-TypeScript-最常用的实用程序类型](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651611921&idx=2&sn=58e2ce82a91193aa6f7df0fe837af537&chksm=8022b4d0b7553dc6770c1e05d46163d0567b6dea1a60c9749b6628490537e8953e7818843b7a#rd) 
 - [2022-09-21-微软宣布-TypeScript-4.8-正式发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651609056&idx=1&sn=d2e32007be89a973ba775a550dece0e9&chksm=80228021b7550937d3e02617293fd80da505c8aaf0a64298ce2837cc9b33852c70f326deba55#rd) 
 - [2022-09-04-一看就会的-TypeScript-小技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608631&idx=2&sn=8e61d2bb4f0f9ce2edd12f6623557bfb&chksm=802281f6b75508e09fcb6748e1b5c4f3f77ef06b73b8d8a02c348c5e77f6b6fcf5ac7ca16e9e#rd) 

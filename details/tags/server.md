@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-17 12:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-17 18:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -26,6 +26,7 @@
 - [2019-02-17-【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect) 
 - [2019-01-30-【招聘】富途证券诚招前端开发-和-PHP开发（14k~28k）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231323&idx=3&sn=f0c1e814148ea709f88d79976ecd136a#wechat_redirect) 
 - [2018-10-24-【招聘】深圳零一裂变招PHP、前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230137&idx=2&sn=1f7932c8da5b94de4b9a92c655a642da#wechat_redirect) 
+- [2023-03-14-Nginx-常用的基础配置（web前端相关方面）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651612897&idx=2&sn=d6952c75ee379344718f5bcf70d0cf30&chksm=8022b120b755383661995b9d7a6d58cf7fdee38417760c4986d919f48a15062949520cb69e92#rd) 
 - [2022-08-12-写给前端的-Docker-入门终极指南，别再说不会用-Docker-了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651608060&idx=1&sn=b9bb2412d49817690e83296b8732e971&chksm=8022843db7550d2b9711452de471a6c6022d1de5cdbad1bf23f1701055b6eced2a794856601c#rd) 
 - [2022-05-04-Git-不要只会-pull-和-push，学学这-5-条提高效率的命令](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602996&idx=1&sn=22514ea9ee0473cca264da61e0fcdea1&chksm=802297f5b7551ee31a2f8d878b88978b420325942557cd7f07fd7824817f69b3e76931c40c7b#rd) 
 - [2022-04-24-不记得-Git-命令？-懒人版-Git-值得拥有！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651602407&idx=2&sn=833ffb029cb5e90cd6e21fca4a005bbf&chksm=8022ea26b7556330c2ea0174e83766f4153c4ca77ab26e6794698e8a271803d15c6fb27e0230#rd) 
