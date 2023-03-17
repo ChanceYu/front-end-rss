@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-17 18:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-17 22:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -353,6 +353,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-03-17-面试官问我按钮级别权限怎么控制，我说v-if，面试官说再见](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488036&idx=1&sn=3426f1919cc6796c63cbd989a1998fa1&chksm=ce4607b5f9318ea3ec524a95d05a5960a09761b4270f54de5fd118f91857ef758ffafa43afd3#rd) 
 - [2023-03-14-高频面试题：你怎么做到Token无感知刷新的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488005&idx=1&sn=9cde95790acbaef93b51e2b2abea990d&chksm=ce460794f9318e82f303fbbe1286bf318f7438d59328add087da20a217e96cdc0aa7a0db413f#rd) 
 - [2023-03-10-有回暖趋势！分享180道前端面试真题，做好面试准备！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487984&idx=1&sn=5b8f233403dbc020d0a96d8e4ed0fdcf&chksm=ce460461f9318d77955731f34b6fd259b612c1b82c357efd43c6a44889d0eba3a630b1c6384d#rd) 
 - [2023-03-08-我当面试官的经历总结](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487957&idx=1&sn=cd1ab3e89cfb53d7a6b90acead3e86b7&chksm=ce460444f9318d5227902bba59ec7688e7ff596a9164ff7419412a62dbc7359ccd6281d36503#rd) 
