@@ -10,7 +10,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-03-18 18:01:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-19 22:01:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,11 +19,11 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-03-18-面试官：搭建【前端错误监控】不是每一位前端必备技能吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488048&idx=1&sn=016d3108a440e99ea6188ad2b3180ad2&chksm=ce4607a1f9318eb799d544e2457f1ef3b75603e87bc16c5009f2760e35fe9e79d272088957f2#rd) ![](/assets/new.png)  
+- [2023-03-18-面试官：搭建【前端错误监控】不是每一位前端必备技能吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488048&idx=1&sn=016d3108a440e99ea6188ad2b3180ad2&chksm=ce4607a1f9318eb799d544e2457f1ef3b75603e87bc16c5009f2760e35fe9e79d272088957f2#rd)  
 - [2023-03-17-面试官问我按钮级别权限怎么控制，我说v-if，面试官说再见](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488036&idx=1&sn=3426f1919cc6796c63cbd989a1998fa1&chksm=ce4607b5f9318ea3ec524a95d05a5960a09761b4270f54de5fd118f91857ef758ffafa43afd3#rd)  
 - [2023-03-16-一个机会，短视频带货搞了30万！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488030&idx=1&sn=5a184e62c77b0cf659e091ff65aaba82&chksm=ce46078ff9318e9925caf542dedcaa76f499797f3a5b64b8e62c77403c35b037f0dcec51ca43#rd)  
 - [2023-03-15-写了10个单行JavaScript代码，组长夸我太优雅了！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488027&idx=1&sn=0b696a7499aca8d3c139f79531fbb59d&chksm=ce46078af9318e9c04c25f9ad5d57fb462eefb8df328d99c5e9cfc829d5e9928d9c433310d47#rd)  
@@ -316,6 +316,7 @@
 
 
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
+- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/) ![](/assets/new.png)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
@@ -333,7 +334,6 @@
 - [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/)  
 - [2022-10-20-告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)  
 - [2022-10-16-2022年新出了哪些form表单新特性？](https://www.zhangxinxu.com/wordpress/2022/10/2022-new-form-property/)  
-- [2022-10-12-更符合书写习惯的CSS媒体查询Range语法](https://www.zhangxinxu.com/wordpress/2022/10/css-media-range-syntax/)  
 - [2022-10-12-CSS-::file-selector-button伪元素简介](https://www.zhangxinxu.com/wordpress/2022/10/css-file-selector-button/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
