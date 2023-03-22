@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-22 08:01:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-22 12:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -353,6 +353,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-03-22-面试官：你是怎么限制用户截图的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488074&idx=1&sn=ebe660fb26c4755e97cbf62a25c54982&chksm=ce4607dbf9318ecd6c084207b3d58530e003d51fdfa891a9087927ccc1230d592b59d7f65a4b#rd) 
 - [2023-03-21-前端岗位飙升！初级前端靠这套面试题，升级『中高级前端』](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488067&idx=1&sn=9b4c5ab29f088c206ce6f15d2cdf002c&chksm=ce4607d2f9318ec4fc0807a360fa021def05bb417bf6f5b114cfcaf1ddc56260a47f14773fb9#rd) 
 - [2023-03-20-【建议全会】两年半经验，独角兽公司会问你什么面试题？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488060&idx=1&sn=b2707f805f97078a444c9cae806a07fd&chksm=ce4607adf9318ebb46b0d156c048f8fe6b5165c6172558cb26e809418b280b8c35e20fea1f91#rd) 
 - [2023-03-18-面试官：搭建【前端错误监控】不是每一位前端必备技能吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488048&idx=1&sn=016d3108a440e99ea6188ad2b3180ad2&chksm=ce4607a1f9318eb799d544e2457f1ef3b75603e87bc16c5009f2760e35fe9e79d272088957f2#rd) 
