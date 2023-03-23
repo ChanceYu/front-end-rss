@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-23 12:01:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-24 06:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -169,6 +169,7 @@
 - [2022-03-19-如何做一次前端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061950&idx=1&sn=e850b7e09dba1d9337ee13050f29c399&chksm=87c425aeb0b3acb8a8eb0ddd51d4bcdc704cfbccab26aece78b24e8d2416accd764222f37372#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
+- [2023-03-23-了解一下图片加载](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513762&idx=1&sn=8b64005da92e61e1ebef246ce37985db&chksm=f992b073cee53965cb32a0917ec907c82527fd609bdbd336cb87f27cc1db72b3accec6571717#rd) 
 - [2022-08-19-面试官:-后端一次返回过多数据，前端应该如何优化处理？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510295&idx=2&sn=c05187126bf3c698df0905bbd11ae71d&chksm=f992afc6cee526d063889722a48984a14d1def01f4b2d12a8c5c3ab739e541ace95bceaf1e4b#rd) 
 - [2022-08-03-老板让你做性能优化，第一步如何定义指标？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510147&idx=2&sn=f134cd820b91f99db5b44350f60b4024&chksm=f992ae52cee527443eabf7fbd3fcb6ca68280c24d984526bf6a625cb968dce542c61897bf73d#rd) 
 - [2022-07-11-富文本关键字搜索高亮，解决方法及优化（收藏！）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509659&idx=2&sn=0210301f2242b4e0f9989bd77dc65d07&chksm=f992a04acee5295c74af94c4a4cdba9d60604d50e8ae0f2fc43d0c9999f2c1f27d7fbe3e4be2#rd) 
