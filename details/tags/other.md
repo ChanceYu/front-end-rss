@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-24 06:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-24 08:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -2337,6 +2337,7 @@
 - [2019-02-25-link-rel=alternate网站换肤功能最佳实现](https://www.zhangxinxu.com/wordpress/2019/02/link-rel-alternate-website-skin/) 
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html) 
 - [2023-03-21-运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html) 
 - [2023-03-17-科技爱好者周刊（第-246-期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html) 
 - [2023-03-10-科技爱好者周刊（第-245-期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html) 

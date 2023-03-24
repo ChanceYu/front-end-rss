@@ -10,21 +10,21 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2023-03-24 06:00:45，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-24 08:00:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -36,7 +36,7 @@
 </summary>
 
 
-- [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479) ![](/assets/new.png)  
+- [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479)  
 - [2023-03-16-Shell-free-scripting-from-Node](https://nodeweekly.com/issues/478)  
 - [2023-03-09-Taking-flight-with-Feathers-5](https://nodeweekly.com/issues/477)  
 - [2023-03-02-Playing-in-the-sandbox](https://nodeweekly.com/issues/476)  
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-03-23-有意思，小程序还可以一键生成App！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488078&idx=1&sn=b4ce1ad9199c3b6aead25f05407a6bbe&chksm=ce4607dff9318ec992cc9952d5751c2f059e5563a1f0a3d4baf1dd33bb65282c17b35321788f#rd) ![](/assets/new.png)  
+- [2023-03-23-有意思，小程序还可以一键生成App！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488078&idx=1&sn=b4ce1ad9199c3b6aead25f05407a6bbe&chksm=ce4607dff9318ec992cc9952d5751c2f059e5563a1f0a3d4baf1dd33bb65282c17b35321788f#rd)  
 - [2023-03-22-面试官：你是怎么限制用户截图的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488074&idx=1&sn=ebe660fb26c4755e97cbf62a25c54982&chksm=ce4607dbf9318ecd6c084207b3d58530e003d51fdfa891a9087927ccc1230d592b59d7f65a4b#rd)  
 - [2023-03-21-前端岗位飙升！初级前端靠这套面试题，升级『中高级前端』](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488067&idx=1&sn=9b4c5ab29f088c206ce6f15d2cdf002c&chksm=ce4607d2f9318ec4fc0807a360fa021def05bb417bf6f5b114cfcaf1ddc56260a47f14773fb9#rd)  
 - [2023-03-20-【建议全会】两年半经验，独角兽公司会问你什么面试题？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488060&idx=1&sn=b2707f805f97078a444c9cae806a07fd&chksm=ce4607adf9318ebb46b0d156c048f8fe6b5165c6172558cb26e809418b280b8c35e20fea1f91#rd)  
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2023-03-23-了解一下图片加载](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513762&idx=1&sn=8b64005da92e61e1ebef246ce37985db&chksm=f992b073cee53965cb32a0917ec907c82527fd609bdbd336cb87f27cc1db72b3accec6571717#rd) ![](/assets/new.png)  
-- [2023-03-23-探索在-JS-中，为什么要在函数前面加！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513762&idx=2&sn=c767fa4e9803c6737964e497c3cd954d&chksm=f992b073cee5396504561d550a3cc61a9590a1649321ad55a7d77c7c08f2b8d777b32481e341#rd) ![](/assets/new.png)  
+- [2023-03-23-了解一下图片加载](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513762&idx=1&sn=8b64005da92e61e1ebef246ce37985db&chksm=f992b073cee53965cb32a0917ec907c82527fd609bdbd336cb87f27cc1db72b3accec6571717#rd)  
+- [2023-03-23-探索在-JS-中，为什么要在函数前面加！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513762&idx=2&sn=c767fa4e9803c6737964e497c3cd954d&chksm=f992b073cee5396504561d550a3cc61a9590a1649321ad55a7d77c7c08f2b8d777b32481e341#rd)  
 - [2023-03-22-如何规范地发布一个现代化的-NPM-包？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513750&idx=2&sn=187f1dbf706cb278d1f21e6beb121067&chksm=f992b047cee53951c045dddff0712c029d0e5857fbe70b826c01c721cc92bf6b342450b30a57#rd)  
 - [2023-03-22-太顶了！面试率超高的前端八股文，一鸣惊人！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513750&idx=1&sn=0190d484ae4b2774cce3bbf2196559b3&chksm=f992b047cee5395125a84ac0ef2b42c089796525bf687207bdb34df8439d15c5a3201aad5d9c#rd)  
 - [2023-03-21-8-种方案机智应对后端一次性返回-10万-条数据](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513722&idx=1&sn=98adc1b9c80a38ddbff9ed15fcce1634&chksm=f992b0abcee539bda80ebe0c1396404504424f866c58e48c80db67d15a42753924ef92da033b#rd)  
@@ -315,7 +315,7 @@
 </summary>
 
 
-- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/) ![](/assets/new.png)  
+- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html) ![](/assets/new.png)  
 - [2023-03-21-运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)  
 - [2023-03-17-科技爱好者周刊（第-246-期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)  
 - [2023-03-10-科技爱好者周刊（第-245-期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)  
@@ -365,7 +366,6 @@
 - [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
 - [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)  
 - [2022-11-04-科技爱好者周刊（第-229-期）：手机充电问题的解决](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-229.html)  
-- [2022-10-28-科技爱好者周刊（第-228-期）：人类和人生的意义](http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
