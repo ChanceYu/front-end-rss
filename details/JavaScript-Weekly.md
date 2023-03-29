@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-03-18 06:00:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-30 00:04:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-03-24-Playwright-now-offers-a-UI-mode](https://javascriptweekly.com/issues/631) 
 - [2023-03-17-Transformers:-JavaScript-in-Disguise](https://javascriptweekly.com/issues/630) 
 - [2023-03-10-New-JavaScript-features-of-the-past-few-years](https://javascriptweekly.com/issues/629) 
 - [2023-03-03-Garbage-collector-experiments](https://javascriptweekly.com/issues/628) 
