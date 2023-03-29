@@ -5,6 +5,7 @@ const Git = require('simple-git')
 
 const utils = require('./utils')
 const writemd = require('./writemd')
+const createFeed = require('./feed')
 const fetch = require('./fetch')
 
 const {
@@ -102,6 +103,7 @@ function handleFeed() {
         spaces: 2
       })
       await writemd(newData, linksJson)
+      await createFeed(linksJson)
       handleCommit()
     } else {
       utils.logSuccess('无需更新')

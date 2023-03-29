@@ -118,6 +118,15 @@ const webpackConfig = merge(baseWebpackConfig, {
         to: config.build.assetsSubDirectory,
         ignore: ['.*']
       }
+    ]),
+
+    // copy feed xml
+    new CopyWebpackPlugin([
+      {
+        from: path.resolve(__dirname, '../../data/atom.xml'),
+        to: config.build.assetsRoot,
+        ignore: ['.*']
+      }
     ])
   ]
 })
@@ -126,7 +135,7 @@ if (config.build.productionGzip) {
   const CompressionWebpackPlugin = require('compression-webpack-plugin')
   const createCompression = (algorithm) => {
     const asset = `[path].${ algorithm === 'gzip' ? 'gz' : 'br' }[query]`
-    
+
     return new CompressionWebpackPlugin({
       asset,
       algorithm,

@@ -26,6 +26,7 @@ async function handleREADME(newData, linksJson) {
 
   content = compiled({
     homePage,
+    feedUrl: `${homePage}/atom.xml`,
     newData,
     linksJson,
     currentDate,

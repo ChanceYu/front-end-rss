@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1><p>点击右上角 <strong>Watch</strong> 订阅 <strong>最新前端技术文章</strong></p>
+<div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1><p>订阅最新前端技术文章</p>
 <a href="https://fed.chanceyu.com">https://fed.chanceyu.com</a>
 </div>
 
@@ -7,6 +7,7 @@
 - 项目目的：每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
 - 文章来源：RSS 订阅源
 - 抓取时间：每天的 06:00、08:00、12:00、18:00、22:00
+- Feed 订阅：[https://fed.chanceyu.com/atom.xml](https://fed.chanceyu.com/atom.xml)
 
 ## 
 
