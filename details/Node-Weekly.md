@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-03-24 06:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-30 22:10:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480) 
 - [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479) 
 - [2023-03-16-Shell-free-scripting-from-Node](https://nodeweekly.com/issues/478) 
 - [2023-03-09-Taking-flight-with-Feathers-5](https://nodeweekly.com/issues/477) 

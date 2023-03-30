@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-03-30 14:00:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-03-30 22:10:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480) 
 - [2022-12-08-The-official-npm-site-gets-a-code-explorer](https://nodeweekly.com/issues/466) 
 - [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464) 
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463) 
