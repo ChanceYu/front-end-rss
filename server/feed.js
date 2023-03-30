@@ -42,7 +42,7 @@ async function createFeed(linksJson){
     ]
   }, []).sort((a, b) => {
     return a.date < b.date ? 1 : -1
-  }).slice(0, 10).forEach((post) => {
+  }).slice(0, 20).forEach((post) => {
     feed.addItem(post)
   })
 
