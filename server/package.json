@@ -14,7 +14,7 @@
     "query-string": "^6.8.1",
     "rss-parser": "^3.4.3",
     "shelljs": "^0.8.5",
-    "simple-git": "^1.102.0",
+    "simple-git": "^3.16.0",
     "underscore": "^1.9.1"
   },
   "description": "front-end-rss",
