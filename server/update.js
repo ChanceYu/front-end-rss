@@ -1,7 +1,7 @@
 const fs = require('fs-extra')
 const Async = require('async')
 const moment = require('moment')
-const Git = require('simple-git')
+const simpleGit = require('simple-git')
 
 const utils = require('./utils')
 const writemd = require('./writemd')
@@ -14,6 +14,8 @@ const {
   LINKS_PATH,
 } = utils.PATH
 
+const git = simpleGit(RESP_PATH)
+
 let rssJson = null
 let linksJson = null
 let newData = null
@@ -24,9 +26,7 @@ let newData = null
 function handleUpdate() {
   utils.log('开始更新抓取')
 
-  Git(RESP_PATH)
-    .pull()
-    .exec(handleFeed)
+  git.pull().exec(handleFeed)
 }
 
 /**
@@ -35,8 +35,7 @@ function handleUpdate() {
 function handleCommit() {
   utils.log('完成抓取，即将上传')
 
-  Git(RESP_PATH)
-    .add('./*')
+  git.add('./*')
     .commit('更新: ' + newData.titles.join('、'))
     .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
 }

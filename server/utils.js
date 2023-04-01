@@ -6,17 +6,16 @@ const { Octokit } = require('@octokit/core')
 
 require('dotenv').config()
 
-const RESP_ROOT = '../'
-const RESP_PATH              = path.join(RESP_ROOT)
-const RSS_PATH               = path.join(RESP_ROOT + '/data/rss.json')
-const LINKS_PATH             = path.join(RESP_ROOT + '/data/links.json')
-const TAGS_PATH              = path.join(RESP_ROOT + '/data/tags.json')
-const FEED_PATH              = path.join(RESP_ROOT + '/data/atom.xml')
-const README_PATH            = path.join(RESP_ROOT + '/README.md')
-const README_TEMPLATE_PATH   = path.join(RESP_ROOT + '/templates/README.md')
-const TAGS_MD_PATH           = path.join(RESP_ROOT + '/TAGS.md')
-const TAGS_TEMPLATE_PATH     = path.join(RESP_ROOT + '/templates/TAGS.md')
-const DETAILS_TEMPLATE_PATH  = path.join(RESP_ROOT + '/templates/DETAILS.md')
+const RESP_PATH              = path.join(__dirname, '../')
+const RSS_PATH               = path.join(RESP_PATH + '/data/rss.json')
+const LINKS_PATH             = path.join(RESP_PATH + '/data/links.json')
+const TAGS_PATH              = path.join(RESP_PATH + '/data/tags.json')
+const FEED_PATH              = path.join(RESP_PATH + '/data/atom.xml')
+const README_PATH            = path.join(RESP_PATH + '/README.md')
+const README_TEMPLATE_PATH   = path.join(RESP_PATH + '/templates/README.md')
+const TAGS_MD_PATH           = path.join(RESP_PATH + '/TAGS.md')
+const TAGS_TEMPLATE_PATH     = path.join(RESP_PATH + '/templates/TAGS.md')
+const DETAILS_TEMPLATE_PATH  = path.join(RESP_PATH + '/templates/DETAILS.md')
 
 module.exports = {
   /**

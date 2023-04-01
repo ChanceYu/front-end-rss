@@ -1,15 +1,14 @@
-<div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1><p>订阅最新前端技术文章</p>
-<a href="<%= obj.homePage %>"><%= obj.homePage %></a>
+<div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1>
+每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
 </div>
 
 ## 
 
-- 项目目的：每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
-- 文章来源：RSS 订阅源
-- 抓取时间：每天的 06:00、08:00、12:00、18:00、22:00
-- Feed 订阅：[<%= obj.feedUrl %>](<%= obj.feedUrl %>)
+在线浏览：[<%= obj.homePage %>](<%= obj.homePage %>)
 
-## 
+订阅地址：[<%= obj.feedUrl %>](<%= obj.feedUrl %>) 
+
+##
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
