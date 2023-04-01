@@ -8,8 +8,6 @@ const writemd = require('./writemd')
 const createFeed = require('./feed')
 const fetch = require('./fetch')
 
-require('./ssh')
-
 const {
   RESP_PATH,
   RSS_PATH,
