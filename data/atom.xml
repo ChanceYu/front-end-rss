@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-02T07:00:33.762Z</updated>
+    <updated>2023-04-02T13:00:48.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[刚工作三天就被裁是一种怎样的体验]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488195&amp;idx=1&amp;sn=3ac220f27541c5208077a6d31aad5a8e&amp;chksm=ce460752f9318e44cdb189d58bb7922f93cba2a0049e31b01bf343a84790377c2773ea638a07#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488195&amp;idx=1&amp;sn=3ac220f27541c5208077a6d31aad5a8e&amp;chksm=ce460752f9318e44cdb189d58bb7922f93cba2a0049e31b01bf343a84790377c2773ea638a07#rd"/>
+        <updated>2023-04-01T16:00:00.000Z</updated>
+        <published>2023-04-01T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】追踪你的净值]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261597&amp;idx=2&amp;sn=c3a120da0adb5be76a4f8865a7a2c4b3&amp;chksm=bd48d3198a3f5a0fa5c602bc8cc19cfbb733d133f503158da540d84e299672e547ddd1a39e56#rd</id>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[【早说】SWOT分析]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261536&amp;idx=2&amp;sn=b2aa0d390457374c5efd2d372549e74a&amp;chksm=bd48d3e48a3f5af21c3280690a10c02f059a46d89bb5acfc0bfae34aedc45d9e330d22c4a6ae#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261536&amp;idx=2&amp;sn=b2aa0d390457374c5efd2d372549e74a&amp;chksm=bd48d3e48a3f5af21c3280690a10c02f059a46d89bb5acfc0bfae34aedc45d9e330d22c4a6ae#rd"/>
-        <updated>2023-03-29T16:00:00.000Z</updated>
-        <published>2023-03-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2900期】Psd设计稿解析之路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261536&amp;idx=1&amp;sn=cbe0d1dc45786075b5c3972333a82a37&amp;chksm=bd48d3e48a3f5af2f6abf4a5f249f8c1c11ddeb5b1edda542e77623ac41959bf57e032bff81c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261536&amp;idx=1&amp;sn=cbe0d1dc45786075b5c3972333a82a37&amp;chksm=bd48d3e48a3f5af2f6abf4a5f249f8c1c11ddeb5b1edda542e77623ac41959bf57e032bff81c#rd"/>
         <updated>2023-03-29T16:00:00.000Z</updated>
         <published>2023-03-29T16:00:00.000Z</published>
     </entry>

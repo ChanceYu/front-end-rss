@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-02 15:00:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-02 21:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-04-02-【第2903期】如何用-OpenAPI-在-Express-中构建更好的-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=1&sn=e9052b93496b2fc6fc7ba2d78bc10512&chksm=bd48d3198a3f5a0f413deafdaa249604a62acfb180532f2f0666852fd435e0869a1df2222c49#rd) ![](/assets/new.png)  
-- [2023-04-02-【早说】追踪你的净值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=2&sn=c3a120da0adb5be76a4f8865a7a2c4b3&chksm=bd48d3198a3f5a0fa5c602bc8cc19cfbb733d133f503158da540d84e299672e547ddd1a39e56#rd) ![](/assets/new.png)  
+- [2023-04-02-【第2903期】如何用-OpenAPI-在-Express-中构建更好的-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=1&sn=e9052b93496b2fc6fc7ba2d78bc10512&chksm=bd48d3198a3f5a0f413deafdaa249604a62acfb180532f2f0666852fd435e0869a1df2222c49#rd)  
+- [2023-04-02-【早说】追踪你的净值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=2&sn=c3a120da0adb5be76a4f8865a7a2c4b3&chksm=bd48d3198a3f5a0fa5c602bc8cc19cfbb733d133f503158da540d84e299672e547ddd1a39e56#rd)  
 - [2023-04-01-【早说】一个问题：为什么这么做？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261592&idx=2&sn=9ef28d9c16451d0f922fcfde9ec4d5cf&chksm=bd48d31c8a3f5a0a47f249ba5110cb7a805c7a4b15d8a4c0864a089084eed1264b54c5548fd5#rd)  
 - [2023-04-01-【第2902期】组件库单测编写](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261592&idx=1&sn=ddc4b7df999bca48e45691b982f426f5&chksm=bd48d31c8a3f5a0af354e220365baa5aec63d209de289c057f4d9f49f8adee7f7310f2782107#rd)  
 - [2023-03-31-【早说】不友好氛围，如何积极回应？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261588&idx=3&sn=1638ffdbf6766c42658ccc5f5ced27fa&chksm=bd48d3108a3f5a06327bd91a9fa74ab96d63dddbe3916de6ae42a8354dc65787928243aa3bdd#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2023-04-02-刚工作三天就被裁是一种怎样的体验](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488195&idx=1&sn=3ac220f27541c5208077a6d31aad5a8e&chksm=ce460752f9318e44cdb189d58bb7922f93cba2a0049e31b01bf343a84790377c2773ea638a07#rd) ![](/assets/new.png)  
 - [2023-04-01-async/await-到底要不要加-try-catch？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488185&idx=1&sn=67345869ea333f9b795176230a79aa58&chksm=ce460728f9318e3ecdefb018bc6ac97b5eeff34724ac0c20fc2aeb7b2285bba9c137e21a1968#rd)  
 - [2023-03-31-ChatGPT-出现后，前端真的还有机会吗？还得看你自己！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488177&idx=1&sn=1d976244afe22d9d7fe3525dc7fdbda0&chksm=ce460720f9318e3666daa08013f26997cec5c72c6cf59af0a635a59b748032def2d5c389f788#rd)  
 - [2023-03-30-通过简历初筛？不好好背背面试题，你照样过不了面试！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488156&idx=1&sn=aa075e3f67f9354f1265bae4d49a2db8&chksm=ce46070df9318e1b5c3811678e2a96440114f9e4a78a5317ab9a07deb4d75f61f76510aea627#rd)  
@@ -210,7 +211,6 @@
 - [2023-03-15-写了10个单行JavaScript代码，组长夸我太优雅了！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488027&idx=1&sn=0b696a7499aca8d3c139f79531fbb59d&chksm=ce46078af9318e9c04c25f9ad5d57fb462eefb8df328d99c5e9cfc829d5e9928d9c433310d47#rd)  
 - [2023-03-14-高频面试题：你怎么做到Token无感知刷新的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488005&idx=1&sn=9cde95790acbaef93b51e2b2abea990d&chksm=ce460794f9318e82f303fbbe1286bf318f7438d59328add087da20a217e96cdc0aa7a0db413f#rd)  
 - [2023-03-13-Vue3.2手写移动电商，被UI惊艳到了！新开源](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487999&idx=1&sn=78b472a1cb00d00e408cf3914a08ad6e&chksm=ce46046ef9318d786750c838cdf7e001055561abfb3ca87018f4e9edef2ff9fe12f9f74c923f#rd)  
-- [2023-03-12-面试官：你的Vue2迁移Vue3，如何迁移？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487996&idx=1&sn=e1dc8220eaa960fbe89e543157d5a75c&chksm=ce46046df9318d7b8bb51576bd5eae2313d101c1cf0f62e525d895532d39d3e3e62d87e99e46#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
