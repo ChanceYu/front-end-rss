@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-01 23:00:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-02 15:00:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2023-04-01-【第2902期】组件库单测编写](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261592&idx=1&sn=ddc4b7df999bca48e45691b982f426f5&chksm=bd48d31c8a3f5a0af354e220365baa5aec63d209de289c057f4d9f49f8adee7f7310f2782107#rd) ![](/assets/new.png)  
-- [2023-04-01-【早说】一个问题：为什么这么做？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261592&idx=2&sn=9ef28d9c16451d0f922fcfde9ec4d5cf&chksm=bd48d31c8a3f5a0a47f249ba5110cb7a805c7a4b15d8a4c0864a089084eed1264b54c5548fd5#rd) ![](/assets/new.png)  
-- [2023-03-31-【第2901期】细节、标准与沟通——一名前端的混合开发经验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261588&idx=1&sn=3264c1259a1fa2b42eda30fd6940042a&chksm=bd48d3108a3f5a063523dc22cefcd7ad48dbd21ee1f7b9b7e21672f661b0554b2333a46a6660#rd)  
-- [2023-03-31-【图书】软件交付通识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261588&idx=2&sn=5f0d888fbc80102f2bd9895525172a77&chksm=bd48d3108a3f5a06fde2f30b3fa7c7a980f6ef95ac14d7191ef51a250565b809283709ca6916#rd)  
+- [2023-04-02-【第2903期】如何用-OpenAPI-在-Express-中构建更好的-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=1&sn=e9052b93496b2fc6fc7ba2d78bc10512&chksm=bd48d3198a3f5a0f413deafdaa249604a62acfb180532f2f0666852fd435e0869a1df2222c49#rd) ![](/assets/new.png)  
+- [2023-04-02-【早说】追踪你的净值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=2&sn=c3a120da0adb5be76a4f8865a7a2c4b3&chksm=bd48d3198a3f5a0fa5c602bc8cc19cfbb733d133f503158da540d84e299672e547ddd1a39e56#rd) ![](/assets/new.png)  
+- [2023-04-01-【早说】一个问题：为什么这么做？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261592&idx=2&sn=9ef28d9c16451d0f922fcfde9ec4d5cf&chksm=bd48d31c8a3f5a0a47f249ba5110cb7a805c7a4b15d8a4c0864a089084eed1264b54c5548fd5#rd)  
+- [2023-04-01-【第2902期】组件库单测编写](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261592&idx=1&sn=ddc4b7df999bca48e45691b982f426f5&chksm=bd48d31c8a3f5a0af354e220365baa5aec63d209de289c057f4d9f49f8adee7f7310f2782107#rd)  
 - [2023-03-31-【早说】不友好氛围，如何积极回应？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261588&idx=3&sn=1638ffdbf6766c42658ccc5f5ced27fa&chksm=bd48d3108a3f5a06327bd91a9fa74ab96d63dddbe3916de6ae42a8354dc65787928243aa3bdd#rd)  
-- [2023-03-30-【早说】SWOT分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261536&idx=2&sn=b2aa0d390457374c5efd2d372549e74a&chksm=bd48d3e48a3f5af21c3280690a10c02f059a46d89bb5acfc0bfae34aedc45d9e330d22c4a6ae#rd)  
+- [2023-03-31-【图书】软件交付通识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261588&idx=2&sn=5f0d888fbc80102f2bd9895525172a77&chksm=bd48d3108a3f5a06fde2f30b3fa7c7a980f6ef95ac14d7191ef51a250565b809283709ca6916#rd)  
+- [2023-03-31-【第2901期】细节、标准与沟通——一名前端的混合开发经验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261588&idx=1&sn=3264c1259a1fa2b42eda30fd6940042a&chksm=bd48d3108a3f5a063523dc22cefcd7ad48dbd21ee1f7b9b7e21672f661b0554b2333a46a6660#rd)  
 - [2023-03-30-【第2900期】Psd设计稿解析之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261536&idx=1&sn=cbe0d1dc45786075b5c3972333a82a37&chksm=bd48d3e48a3f5af2f6abf4a5f249f8c1c11ddeb5b1edda542e77623ac41959bf57e032bff81c#rd)  
-- [2023-03-29-【第2899期】Cursor代码编辑器简单入门](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261532&idx=1&sn=e4c138b7a62534c32c2b1eeede7866bc&chksm=bd48d3d88a3f5ace780cd402eb04dc297a739eab9dabe101e9ae4cac36c7f201bdc0ae05c95c#rd)  
-- [2023-03-29-【图书】ChatGPT:-读懂人工智能新纪元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261532&idx=2&sn=482c1b2fa6a208906cb7c52912d1d91a&chksm=bd48d3d88a3f5ace86c875f05602810aed9069cfe8666165f3040dbd25ae2da1757011817603#rd)  
+- [2023-03-30-【早说】SWOT分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261536&idx=2&sn=b2aa0d390457374c5efd2d372549e74a&chksm=bd48d3e48a3f5af21c3280690a10c02f059a46d89bb5acfc0bfae34aedc45d9e330d22c4a6ae#rd)  
 - [2023-03-29-【早说】不空洞，有关系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261532&idx=3&sn=43674a7a8854b4e6bc32f8433f0a1205&chksm=bd48d3d88a3f5ace758c2f356985c2567ca110000fce7d63b9995b33d89341910cab79fc18f0#rd)  
-- [2023-03-28-【第2898期】3D-Bubble-Tea-created-by-GPT-4](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261493&idx=1&sn=87378871f9144a242d0163eb65ed1431&chksm=bd48d3b18a3f5aa7b97ac4620413e3ef70a0d1a48a5e7da201eadae9cb2554ce5947ee4aed85#rd)  
+- [2023-03-29-【图书】ChatGPT:-读懂人工智能新纪元](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261532&idx=2&sn=482c1b2fa6a208906cb7c52912d1d91a&chksm=bd48d3d88a3f5ace86c875f05602810aed9069cfe8666165f3040dbd25ae2da1757011817603#rd)  
+- [2023-03-29-【第2899期】Cursor代码编辑器简单入门](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261532&idx=1&sn=e4c138b7a62534c32c2b1eeede7866bc&chksm=bd48d3d88a3f5ace780cd402eb04dc297a739eab9dabe101e9ae4cac36c7f201bdc0ae05c95c#rd)  
 - [2023-03-28-【早说】​如何才能避免小题大做？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261493&idx=2&sn=ba21a5f9c7fb2227c4836efecefea0ce&chksm=bd48d3b18a3f5aa7157d1bf582bcc76e47151ff68f5ce28f93204a1866c4c918e348ca52d4bc#rd)  
-- [2023-03-27-【第2897期】ECMAScript-2023-有哪些更新？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261480&idx=1&sn=69be74a73d9e98f3382db006b0e748d3&chksm=bd48d3ac8a3f5aba5e0bc073c78d743068a90a1682e6b2fd51097fb9f47d079a40c0e5f27bc8#rd)  
-- [2023-03-27-【图书】Spring-Boot+Vue-3-大型前后端分离项目实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261480&idx=2&sn=6f2204070f3bc253a6e9e6c24a1820db&chksm=bd48d3ac8a3f5aba92f3acb00702f91b86d653693583fc48bdb5f6ae89cb7f09470cc9170558#rd)  
+- [2023-03-28-【第2898期】3D-Bubble-Tea-created-by-GPT-4](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261493&idx=1&sn=87378871f9144a242d0163eb65ed1431&chksm=bd48d3b18a3f5aa7b97ac4620413e3ef70a0d1a48a5e7da201eadae9cb2554ce5947ee4aed85#rd)  
 - [2023-03-27-【早说】找到擅长的领域](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261480&idx=3&sn=bfcdad27f29b24235626840197c29377&chksm=bd48d3ac8a3f5abafab37b01b5470c70fd93eafcc0ecf3519803489293eead8fdf84d46a0e3a#rd)  
-- [2023-03-23-【早说】不指望确定性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261388&idx=2&sn=ed593bcbe151cbd797c031fd20669292&chksm=bd48d0488a3f595ef0755811852b4719fa4e4c889bb5a29b02dbdc31a62ec8f54c2e1c7bf858#rd)  
+- [2023-03-27-【图书】Spring-Boot+Vue-3-大型前后端分离项目实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261480&idx=2&sn=6f2204070f3bc253a6e9e6c24a1820db&chksm=bd48d3ac8a3f5aba92f3acb00702f91b86d653693583fc48bdb5f6ae89cb7f09470cc9170558#rd)  
+- [2023-03-27-【第2897期】ECMAScript-2023-有哪些更新？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261480&idx=1&sn=69be74a73d9e98f3382db006b0e748d3&chksm=bd48d3ac8a3f5aba5e0bc073c78d743068a90a1682e6b2fd51097fb9f47d079a40c0e5f27bc8#rd)  
 - [2023-03-23-【第2893期】ChatGPT-提示模式：提高代码质量、重构、需求获取和软件设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261388&idx=1&sn=c0c25a2de0396cc640e5ea3875198e70&chksm=bd48d0488a3f595e26705b30e080c63ec13df37b0099ad71e233d479f8525fd43b7c7febb9f3#rd)  
-- [2023-03-22-【第2892期】用-JavaScript，五分钟将-Siri-接入-ChatGPT](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261366&idx=1&sn=589eea734c6a6778123bbf46cc0a0edd&chksm=bd48d0328a3f59242f8005bc002aebc4721303830d67d9200cafb9fee2d3438c95caaa2fc381#rd)  
+- [2023-03-23-【早说】不指望确定性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261388&idx=2&sn=ed593bcbe151cbd797c031fd20669292&chksm=bd48d0488a3f595ef0755811852b4719fa4e4c889bb5a29b02dbdc31a62ec8f54c2e1c7bf858#rd)  
 - [2023-03-22-【早说】积极暗号鼓励自己](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261366&idx=2&sn=76606d94aa95ef3729bd836cff3fc93d&chksm=bd48d0328a3f59241b38c234a44a610358aa72e05333063cb23e384dd5daa2de3bdbea26a2fb#rd)  
-- [2023-03-21-【早说】未来的时代](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261350&idx=2&sn=2c985d01e52357cab8f8546d759eb00c&chksm=bd48d0228a3f5934dac82a38df09cd957cb8abe77eb5b921ac4c331f12b5f815007c4a5e48ca#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
