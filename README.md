@@ -10,21 +10,21 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-07 08:00:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-07 10:00:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-04-07-【第2908期】现代图片性能优化及体验优化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=1&sn=ba612f0e3049fe3ab9a23068b15a2fcb&chksm=bd48d29f8a3f5b89c249582605c60e28afe824eb8526985ffd57a50efdda77d30cd65f957aef#rd) ![](/assets/new.png)  
-- [2023-04-07-【早说】机器的崛起对职业的启示](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=2&sn=fa929ec3e9e46042814dddd27db99a97&chksm=bd48d29f8a3f5b89b23d40f0f1256b6e2d75c6c303063bf02fa5815c54444caa6257526c54ba#rd) ![](/assets/new.png)  
+- [2023-04-07-【第2908期】现代图片性能优化及体验优化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=1&sn=ba612f0e3049fe3ab9a23068b15a2fcb&chksm=bd48d29f8a3f5b89c249582605c60e28afe824eb8526985ffd57a50efdda77d30cd65f957aef#rd)  
+- [2023-04-07-【早说】机器的崛起对职业的启示](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=2&sn=fa929ec3e9e46042814dddd27db99a97&chksm=bd48d29f8a3f5b89b23d40f0f1256b6e2d75c6c303063bf02fa5815c54444caa6257526c54ba#rd)  
 - [2023-04-06-【图书】开发者关系：方法与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=2&sn=91fe5afada33812ab16a50086b264624&chksm=bd48d36a8a3f5a7c4729d6b98bee7100e344c0999342a218cc20db1548c765845c287e237569#rd)  
 - [2023-04-06-【第2907期】AI+低代码的过去、现在和未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=1&sn=decb09ef6bf0c03f40ae8169fff67010&chksm=bd48d36a8a3f5a7cb85544b870ea62b54cfdf2cf123888ff80e87951d5190674bae38c70e7b4#rd)  
 - [2023-04-05-【第2906期】Prompt-Engineering:-循循善诱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261646&idx=1&sn=487ff96d81e979bf636a7d7473873bc2&chksm=bd48d34a8a3f5a5c6ee4615a5bb8463368e4ab5350613b12398abbc224614d7312e47e7862ee#rd)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2023-04-07-如何避免简历石沉大海！我提一些小建议~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488234&idx=1&sn=c355244e709c9101b0ec26bfc3df3685&chksm=ce46077bf9318e6df14550f2b7a5dacaa1e9d42f0570751e877e33cd77387e61299eff76a728#rd) ![](/assets/new.png)  
 - [2023-04-06-面了20多家公司，三心分析一下现在市面上的公司~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488225&idx=1&sn=fec18c256265c91cbf96e2ea360dc561&chksm=ce460770f9318e666bac05807de7ecfb5e2158bf43e8e718d8c99aeac8abfb08ba76745f7f55#rd)  
 - [2023-04-05-又干倒一家公司，我悟了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488219&idx=1&sn=8a2cb4efec0c3db22cc72b6f1cf75131&chksm=ce46074af9318e5c3492ec19fde9e54789f3e3c035a52ab494b1cb3cbd0f132f3855925bcbc7#rd)  
 - [2023-04-04-前端最能打的本地存储方案](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488213&idx=1&sn=96820dd771530440182677e970767f0a&chksm=ce460744f9318e52f31eac110946aae4d594bbc8e494d67c150d927be5c6a45c60b1260be6a5#rd)  
@@ -210,7 +211,6 @@
 - [2023-03-20-【建议全会】两年半经验，独角兽公司会问你什么面试题？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488060&idx=1&sn=b2707f805f97078a444c9cae806a07fd&chksm=ce4607adf9318ebb46b0d156c048f8fe6b5165c6172558cb26e809418b280b8c35e20fea1f91#rd)  
 - [2023-03-19-Vue3-与-React-全方面对比](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488054&idx=1&sn=5111e947cf13252c4e19d14c0737bcb7&chksm=ce4607a7f9318eb1da571c6bf64de9d6084a08caa0c5a4cfc53a8fc03503808e389c7d12bb7a#rd)  
 - [2023-03-18-面试官：搭建【前端错误监控】不是每一位前端必备技能吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488048&idx=1&sn=016d3108a440e99ea6188ad2b3180ad2&chksm=ce4607a1f9318eb799d544e2457f1ef3b75603e87bc16c5009f2760e35fe9e79d272088957f2#rd)  
-- [2023-03-17-面试官问我按钮级别权限怎么控制，我说v-if，面试官说再见](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488036&idx=1&sn=3426f1919cc6796c63cbd989a1998fa1&chksm=ce4607b5f9318ea3ec524a95d05a5960a09761b4270f54de5fd118f91857ef758ffafa43afd3#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-04-07-科技爱好者周刊（第-249-期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html) ![](/assets/new.png)  
 - [2023-03-31-科技爱好者周刊（第-248-期）：不要夸大-ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)  
 - [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)  
 - [2023-03-21-运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)  
@@ -365,7 +366,6 @@
 - [2022-12-02-科技爱好者周刊（第-233-期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)  
 - [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)  
 - [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
-- [2022-11-11-科技爱好者周刊（第-230-期）：电子产品的用电量](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-230.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
