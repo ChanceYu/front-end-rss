@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-08T13:00:32.280Z</updated>
+    <updated>2023-04-09T07:00:47.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[分析前端现状，还有前端未来应该学哪些技术！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488268&amp;idx=1&amp;sn=88be391fd375ee2d1610635bd15d71d4&amp;chksm=ce46069df9318f8b86c455a127ffa88dcba9c8e04fd11523e7a763667da8f4310848a57f32b4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488268&amp;idx=1&amp;sn=88be391fd375ee2d1610635bd15d71d4&amp;chksm=ce46069df9318f8b86c455a127ffa88dcba9c8e04fd11523e7a763667da8f4310848a57f32b4#rd"/>
+        <updated>2023-04-08T16:00:00.000Z</updated>
+        <published>2023-04-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我希望大家花1小时把【虚拟滚动】牢牢学在脑里！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488262&amp;idx=1&amp;sn=6bb5c9e5d203c142c313a70a3e599152&amp;chksm=ce460697f9318f815e17b96569116f9d8f2574c1de7e2f732ccee1cc83cbb51bd9edb16dbf8f#rd</id>
@@ -146,12 +153,5 @@
         <link href="https://javascriptweekly.com/issues/633"/>
         <updated>2023-04-05T16:00:00.000Z</updated>
         <published>2023-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[又干倒一家公司，我悟了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488219&amp;idx=1&amp;sn=8a2cb4efec0c3db22cc72b6f1cf75131&amp;chksm=ce46074af9318e5c3492ec19fde9e54789f3e3c035a52ab494b1cb3cbd0f132f3855925bcbc7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488219&amp;idx=1&amp;sn=8a2cb4efec0c3db22cc72b6f1cf75131&amp;chksm=ce46074af9318e5c3492ec19fde9e54789f3e3c035a52ab494b1cb3cbd0f132f3855925bcbc7#rd"/>
-        <updated>2023-04-04T16:00:00.000Z</updated>
-        <published>2023-04-04T16:00:00.000Z</published>
     </entry>
 </feed>
