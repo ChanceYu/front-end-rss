@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-09T22:00:47.976Z</updated>
+    <updated>2023-04-10T04:00:29.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 与 React 全方面对比]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=1&amp;sn=75707acf5c01a024135337ef89d93fae&amp;chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=1&amp;sn=75707acf5c01a024135337ef89d93fae&amp;chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd"/>
+        <updated>2023-04-09T16:00:00.000Z</updated>
+        <published>2023-04-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国内开通 Chat GPT Plus 保姆级教程【收藏】]]></title>
         <id>http://www.yyyweb.com/5508.html</id>
@@ -113,16 +120,16 @@
         <published>2023-04-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[强到离谱！阿里前端大佬面试全套笔记，即将删除～]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=1&amp;sn=0ce164a7bacf7d87c15f86841508d364&amp;chksm=f992bed9cee537cf5ed6d12490b52f76bfa971b8370ff5aaf2f171f5b0ae1c3892da7ade5aa2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=1&amp;sn=0ce164a7bacf7d87c15f86841508d364&amp;chksm=f992bed9cee537cf5ed6d12490b52f76bfa971b8370ff5aaf2f171f5b0ae1c3892da7ade5aa2#rd"/>
+        <title type="html"><![CDATA[Web组件构建库-Lit]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=2&amp;sn=e9ac0e00573b0e3bcb500bd081e0effa&amp;chksm=f992bed9cee537cf0b3de1d42a001073ed1513c460a08114cbac4b7b0b6184fe0860e30fac3c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=2&amp;sn=e9ac0e00573b0e3bcb500bd081e0effa&amp;chksm=f992bed9cee537cf0b3de1d42a001073ed1513c460a08114cbac4b7b0b6184fe0860e30fac3c#rd"/>
         <updated>2023-04-05T16:00:00.000Z</updated>
         <published>2023-04-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web组件构建库-Lit]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=2&amp;sn=e9ac0e00573b0e3bcb500bd081e0effa&amp;chksm=f992bed9cee537cf0b3de1d42a001073ed1513c460a08114cbac4b7b0b6184fe0860e30fac3c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=2&amp;sn=e9ac0e00573b0e3bcb500bd081e0effa&amp;chksm=f992bed9cee537cf0b3de1d42a001073ed1513c460a08114cbac4b7b0b6184fe0860e30fac3c#rd"/>
+        <title type="html"><![CDATA[强到离谱！阿里前端大佬面试全套笔记，即将删除～]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=1&amp;sn=0ce164a7bacf7d87c15f86841508d364&amp;chksm=f992bed9cee537cf5ed6d12490b52f76bfa971b8370ff5aaf2f171f5b0ae1c3892da7ade5aa2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514120&amp;idx=1&amp;sn=0ce164a7bacf7d87c15f86841508d364&amp;chksm=f992bed9cee537cf5ed6d12490b52f76bfa971b8370ff5aaf2f171f5b0ae1c3892da7ade5aa2#rd"/>
         <updated>2023-04-05T16:00:00.000Z</updated>
         <published>2023-04-05T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[【早说】品牌与口碑]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261678&amp;idx=3&amp;sn=6bbbd515671d4d92f84341a6c484b619&amp;chksm=bd48d36a8a3f5a7c6b5962273bb91f4a3ba2b114315e69d0b941f745f7e7b9e8e0cea9f9a89d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261678&amp;idx=3&amp;sn=6bbbd515671d4d92f84341a6c484b619&amp;chksm=bd48d36a8a3f5a7c6b5962273bb91f4a3ba2b114315e69d0b941f745f7e7b9e8e0cea9f9a89d#rd"/>
-        <updated>2023-04-05T16:00:00.000Z</updated>
-        <published>2023-04-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】开发者关系：方法与实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261678&amp;idx=2&amp;sn=91fe5afada33812ab16a50086b264624&amp;chksm=bd48d36a8a3f5a7c4729d6b98bee7100e344c0999342a218cc20db1548c765845c287e237569#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261678&amp;idx=2&amp;sn=91fe5afada33812ab16a50086b264624&amp;chksm=bd48d36a8a3f5a7c4729d6b98bee7100e344c0999342a218cc20db1548c765845c287e237569#rd"/>
         <updated>2023-04-05T16:00:00.000Z</updated>
         <published>2023-04-05T16:00:00.000Z</published>
     </entry>
