@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-11T13:00:34.465Z</updated>
+    <updated>2023-04-11T22:00:34.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[【第2912期】AVIF图片格式在bilibili落地]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd"/>
+        <updated>2023-04-10T16:00:00.000Z</updated>
+        <published>2023-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The state of Node.js in 2023]]></title>
+        <id>https://nodeweekly.com/issues/481</id>
+        <link href="https://nodeweekly.com/issues/481"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
@@ -146,12 +153,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261778&amp;idx=2&amp;sn=018f2c86e616480d9169a3b1a6b0349d&amp;chksm=bd48d2d68a3f5bc0cdafc83da3f900a642b994de776a096af86df2fc2d69855d1f149bd9db4e#rd"/>
         <updated>2023-04-08T16:00:00.000Z</updated>
         <published>2023-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我希望大家花1小时把【虚拟滚动】牢牢学在脑里！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488262&amp;idx=1&amp;sn=6bb5c9e5d203c142c313a70a3e599152&amp;chksm=ce460697f9318f815e17b96569116f9d8f2574c1de7e2f732ccee1cc83cbb51bd9edb16dbf8f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488262&amp;idx=1&amp;sn=6bb5c9e5d203c142c313a70a3e599152&amp;chksm=ce460697f9318f815e17b96569116f9d8f2574c1de7e2f732ccee1cc83cbb51bd9edb16dbf8f#rd"/>
-        <updated>2023-04-07T16:00:00.000Z</updated>
-        <published>2023-04-07T16:00:00.000Z</published>
     </entry>
 </feed>

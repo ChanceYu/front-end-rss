@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-11 21:00:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-12 06:00:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-04-11-The-state-of-Node.js-in-2023](https://nodeweekly.com/issues/481) ![](/assets/new.png)  
 - [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480)  
 - [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479)  
 - [2023-03-16-Shell-free-scripting-from-Node](https://nodeweekly.com/issues/478)  
@@ -55,7 +56,6 @@
 - [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464)  
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)  
 - [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
-- [2022-11-03-Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-04-11-【第2912期】AVIF图片格式在bilibili落地](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261818&idx=1&sn=07a7959b9e835d67ee1e0cf6975db459&chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd) ![](/assets/new.png)  
-- [2023-04-11-【小册】前端依赖治理：代码分析工具开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261818&idx=2&sn=e89a1897daf6fac81940984fbad6a821&chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd) ![](/assets/new.png)  
+- [2023-04-11-【第2912期】AVIF图片格式在bilibili落地](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261818&idx=1&sn=07a7959b9e835d67ee1e0cf6975db459&chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd)  
+- [2023-04-11-【小册】前端依赖治理：代码分析工具开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261818&idx=2&sn=e89a1897daf6fac81940984fbad6a821&chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd)  
 - [2023-04-10-【早说】跳出重复的工作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261782&idx=2&sn=4c71c6da35cc0c99e26a54bc0730ee57&chksm=bd48d2d28a3f5bc449e322b66e966be947c05c2b611cbff23f05ebb5bdd3b5bc3b738568339f#rd)  
 - [2023-04-10-【第2911期】揭秘OpenAI新神器：Cursor源码深度解析与应用探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261782&idx=1&sn=437cc983af1713b2c212d52b21eb1c92&chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd)  
 - [2023-04-09-【早说】改变嘴里零碎儿多的办法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261778&idx=2&sn=018f2c86e616480d9169a3b1a6b0349d&chksm=bd48d2d68a3f5bc0cdafc83da3f900a642b994de776a096af86df2fc2d69855d1f149bd9db4e#rd)  
