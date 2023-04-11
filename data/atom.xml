@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-10T22:00:32.130Z</updated>
+    <updated>2023-04-11T04:00:45.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面了一个字节出来的大佬，见识到了基础天花板！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488286&amp;idx=1&amp;sn=388fbf1f1cc28bdde17be5347ab812ae&amp;chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488286&amp;idx=1&amp;sn=388fbf1f1cc28bdde17be5347ab812ae&amp;chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd"/>
+        <updated>2023-04-10T16:00:00.000Z</updated>
+        <published>2023-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：为什么“false == []”和“false == ![]”都返回true？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=2&amp;sn=0006e029c822e069002987bc00856cf3&amp;chksm=8022bf77b755366134be4ea7c028622d8b6a87799657b03dfe9275330d122e5e586b4788c48a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=2&amp;sn=0006e029c822e069002987bc00856cf3&amp;chksm=8022bf77b755366134be4ea7c028622d8b6a87799657b03dfe9275330d122e5e586b4788c48a#rd"/>
+        <updated>2023-04-10T16:00:00.000Z</updated>
+        <published>2023-04-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面了一个阿里出来的大佬，见识到了基础天花板！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=1&amp;sn=234b43378b4c5d1c0332deca7fb1671c&amp;chksm=8022bf77b75536614d490af4a7b9ad44db808f19c3b8ea97fa134a945e0d02e65b8ded1814b1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=1&amp;sn=234b43378b4c5d1c0332deca7fb1671c&amp;chksm=8022bf77b75536614d490af4a7b9ad44db808f19c3b8ea97fa134a945e0d02e65b8ded1814b1#rd"/>
+        <updated>2023-04-10T16:00:00.000Z</updated>
+        <published>2023-04-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[几个你不知道却非常实用的JavaScript APIs]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=2&amp;sn=9a348d89e62aef9cd80ca45e1271d5d6&amp;chksm=f992bee6cee537f08d14b50b559a6987fcdebb50f99b1acf2638a846aa18337cd40aac08e5d8#rd</id>
@@ -43,16 +64,16 @@
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 拖拽排序组件库对比研究]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=2&amp;sn=8bc18866b549d195634d2838c3dc247e&amp;chksm=8022bf61b7553677d379f404a1a5551f854406b8b063c8d62c99e40adfa66c53b093607c4096#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=2&amp;sn=8bc18866b549d195634d2838c3dc247e&amp;chksm=8022bf61b7553677d379f404a1a5551f854406b8b063c8d62c99e40adfa66c53b093607c4096#rd"/>
+        <title type="html"><![CDATA[使用 File System Access API 让浏览器拥有操作本地文件的能力]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=1&amp;sn=78e2a8f78fcced3337c5f9813f2897a1&amp;chksm=8022bf61b755367766a2949c093c7c8835bea8ed6b558d7230939510f39ccec8515ca71546a3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=1&amp;sn=78e2a8f78fcced3337c5f9813f2897a1&amp;chksm=8022bf61b755367766a2949c093c7c8835bea8ed6b558d7230939510f39ccec8515ca71546a3#rd"/>
         <updated>2023-04-09T16:00:00.000Z</updated>
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 File System Access API 让浏览器拥有操作本地文件的能力]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=1&amp;sn=78e2a8f78fcced3337c5f9813f2897a1&amp;chksm=8022bf61b755367766a2949c093c7c8835bea8ed6b558d7230939510f39ccec8515ca71546a3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=1&amp;sn=78e2a8f78fcced3337c5f9813f2897a1&amp;chksm=8022bf61b755367766a2949c093c7c8835bea8ed6b558d7230939510f39ccec8515ca71546a3#rd"/>
+        <title type="html"><![CDATA[React 拖拽排序组件库对比研究]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=2&amp;sn=8bc18866b549d195634d2838c3dc247e&amp;chksm=8022bf61b7553677d379f404a1a5551f854406b8b063c8d62c99e40adfa66c53b093607c4096#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613344&amp;idx=2&amp;sn=8bc18866b549d195634d2838c3dc247e&amp;chksm=8022bf61b7553677d379f404a1a5551f854406b8b063c8d62c99e40adfa66c53b093607c4096#rd"/>
         <updated>2023-04-09T16:00:00.000Z</updated>
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
@@ -130,27 +151,6 @@
         <title type="html"><![CDATA[2023再谈前端状态管理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514143&amp;idx=1&amp;sn=d83394aa90c0828c7f71d69c20e8cfdd&amp;chksm=f992bececee537d8a8f5f90b7b5d6bdfc0423818352042ebb6b25e3c4ad61e2af12950e10093#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514143&amp;idx=1&amp;sn=d83394aa90c0828c7f71d69c20e8cfdd&amp;chksm=f992bececee537d8a8f5f90b7b5d6bdfc0423818352042ebb6b25e3c4ad61e2af12950e10093#rd"/>
-        <updated>2023-04-06T16:00:00.000Z</updated>
-        <published>2023-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何避免简历石沉大海！我提一些小建议~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488234&amp;idx=1&amp;sn=c355244e709c9101b0ec26bfc3df3685&amp;chksm=ce46077bf9318e6df14550f2b7a5dacaa1e9d42f0570751e877e33cd77387e61299eff76a728#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488234&amp;idx=1&amp;sn=c355244e709c9101b0ec26bfc3df3685&amp;chksm=ce46077bf9318e6df14550f2b7a5dacaa1e9d42f0570751e877e33cd77387e61299eff76a728#rd"/>
-        <updated>2023-04-06T16:00:00.000Z</updated>
-        <published>2023-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4预示着前端开发的终结？你准备好面对无法预测的技术挑战了吗？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520581&amp;idx=1&amp;sn=5ce23b4f4b2d720a8fb3476438abbfdd&amp;chksm=f9522406ce25ad10fe089e279e58dce34a885683fd8d234f359178d8d9bd0304dd6d4aaccba7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520581&amp;idx=1&amp;sn=5ce23b4f4b2d720a8fb3476438abbfdd&amp;chksm=f9522406ce25ad10fe089e279e58dce34a885683fd8d234f359178d8d9bd0304dd6d4aaccba7#rd"/>
-        <updated>2023-04-06T16:00:00.000Z</updated>
-        <published>2023-04-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文带你理解 React 中最“臭名昭著”的 useMemo 和 useCallback]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613284&amp;idx=1&amp;sn=b8d3083e318e981bb0c6afb9fb1489d9&amp;chksm=8022bfa5b75536b38100c2edbe108d75a0b877b8eb53ce77289363d31c37e9a1da8f9c919c5c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613284&amp;idx=1&amp;sn=b8d3083e318e981bb0c6afb9fb1489d9&amp;chksm=8022bfa5b75536b38100c2edbe108d75a0b877b8eb53ce77289363d31c37e9a1da8f9c919c5c#rd"/>
         <updated>2023-04-06T16:00:00.000Z</updated>
         <published>2023-04-06T16:00:00.000Z</published>
     </entry>
