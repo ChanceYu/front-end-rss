@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-11 15:00:56，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-11 21:00:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -98,26 +98,26 @@
 </summary>
 
 
-- [2023-04-10-【第2911期】揭秘OpenAI新神器：Cursor源码深度解析与应用探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261782&idx=1&sn=437cc983af1713b2c212d52b21eb1c92&chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd)  
+- [2023-04-11-【第2912期】AVIF图片格式在bilibili落地](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261818&idx=1&sn=07a7959b9e835d67ee1e0cf6975db459&chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd) ![](/assets/new.png)  
+- [2023-04-11-【小册】前端依赖治理：代码分析工具开发实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261818&idx=2&sn=e89a1897daf6fac81940984fbad6a821&chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd) ![](/assets/new.png)  
 - [2023-04-10-【早说】跳出重复的工作](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261782&idx=2&sn=4c71c6da35cc0c99e26a54bc0730ee57&chksm=bd48d2d28a3f5bc449e322b66e966be947c05c2b611cbff23f05ebb5bdd3b5bc3b738568339f#rd)  
-- [2023-04-09-【第2910期】前端视角下的转转客服通信过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261778&idx=1&sn=a46cb787d56851622971e7266f1f6352&chksm=bd48d2d68a3f5bc090374f46acbbd6402c47cf6253b1f19a2c4e789689c5da109e5d6b87e33f#rd)  
+- [2023-04-10-【第2911期】揭秘OpenAI新神器：Cursor源码深度解析与应用探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261782&idx=1&sn=437cc983af1713b2c212d52b21eb1c92&chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd)  
 - [2023-04-09-【早说】改变嘴里零碎儿多的办法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261778&idx=2&sn=018f2c86e616480d9169a3b1a6b0349d&chksm=bd48d2d68a3f5bc0cdafc83da3f900a642b994de776a096af86df2fc2d69855d1f149bd9db4e#rd)  
-- [2023-04-08-【早说】弱者与强者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261774&idx=2&sn=90522c32379825bd0af4ac78357f8bfe&chksm=bd48d2ca8a3f5bdcc79fb2191614533a4037e589ccb163e1ee06df5179a57c9bddaf6890aa86#rd)  
+- [2023-04-09-【第2910期】前端视角下的转转客服通信过程](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261778&idx=1&sn=a46cb787d56851622971e7266f1f6352&chksm=bd48d2d68a3f5bc090374f46acbbd6402c47cf6253b1f19a2c4e789689c5da109e5d6b87e33f#rd)  
 - [2023-04-08-【第2909期】基于FFmpeg和Wasm的Web端视频截帧方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261774&idx=1&sn=37bc5ab1ccb242f279ec2fe39fa0a62d&chksm=bd48d2ca8a3f5bdcf426212fdea8bb905835fb81ae4ea2d46783040e9a4eb837b2c59fd0217e#rd)  
-- [2023-04-07-【早说】机器的崛起对职业的启示](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=2&sn=fa929ec3e9e46042814dddd27db99a97&chksm=bd48d29f8a3f5b89b23d40f0f1256b6e2d75c6c303063bf02fa5815c54444caa6257526c54ba#rd)  
+- [2023-04-08-【早说】弱者与强者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261774&idx=2&sn=90522c32379825bd0af4ac78357f8bfe&chksm=bd48d2ca8a3f5bdcc79fb2191614533a4037e589ccb163e1ee06df5179a57c9bddaf6890aa86#rd)  
 - [2023-04-07-【第2908期】现代图片性能优化及体验优化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=1&sn=ba612f0e3049fe3ab9a23068b15a2fcb&chksm=bd48d29f8a3f5b89c249582605c60e28afe824eb8526985ffd57a50efdda77d30cd65f957aef#rd)  
-- [2023-04-06-【第2907期】AI+低代码的过去、现在和未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=1&sn=decb09ef6bf0c03f40ae8169fff67010&chksm=bd48d36a8a3f5a7cb85544b870ea62b54cfdf2cf123888ff80e87951d5190674bae38c70e7b4#rd)  
-- [2023-04-06-【图书】开发者关系：方法与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=2&sn=91fe5afada33812ab16a50086b264624&chksm=bd48d36a8a3f5a7c4729d6b98bee7100e344c0999342a218cc20db1548c765845c287e237569#rd)  
+- [2023-04-07-【早说】机器的崛起对职业的启示](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=2&sn=fa929ec3e9e46042814dddd27db99a97&chksm=bd48d29f8a3f5b89b23d40f0f1256b6e2d75c6c303063bf02fa5815c54444caa6257526c54ba#rd)  
 - [2023-04-06-【早说】品牌与口碑](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=3&sn=6bbbd515671d4d92f84341a6c484b619&chksm=bd48d36a8a3f5a7c6b5962273bb91f4a3ba2b114315e69d0b941f745f7e7b9e8e0cea9f9a89d#rd)  
-- [2023-04-05-【早说】滤除无关信息的六个步骤](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261646&idx=3&sn=369d64815cbb6ac16be55370a4002afc&chksm=bd48d34a8a3f5a5c3ffbb58376d8405f834d7c104d57f0e0243c1ff534903b4fa42d3fb47fb4#rd)  
-- [2023-04-05-【活动】T-Chat--「-谢文清---我在飞书做文档架构-」](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261646&idx=2&sn=f4b444ff0adce225d82ef630f21c70e8&chksm=bd48d34a8a3f5a5cb7e81fad31d648a4a48b01898400e6c39136abddf1c08a4749307256c918#rd)  
+- [2023-04-06-【图书】开发者关系：方法与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=2&sn=91fe5afada33812ab16a50086b264624&chksm=bd48d36a8a3f5a7c4729d6b98bee7100e344c0999342a218cc20db1548c765845c287e237569#rd)  
+- [2023-04-06-【第2907期】AI+低代码的过去、现在和未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261678&idx=1&sn=decb09ef6bf0c03f40ae8169fff67010&chksm=bd48d36a8a3f5a7cb85544b870ea62b54cfdf2cf123888ff80e87951d5190674bae38c70e7b4#rd)  
 - [2023-04-05-【第2906期】Prompt-Engineering:-循循善诱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261646&idx=1&sn=487ff96d81e979bf636a7d7473873bc2&chksm=bd48d34a8a3f5a5c6ee4615a5bb8463368e4ab5350613b12398abbc224614d7312e47e7862ee#rd)  
-- [2023-04-04-【第2905期】远程组件实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261628&idx=1&sn=12badf76eef3bc3a76eed25d5332f509&chksm=bd48d3388a3f5a2e844a4aea4ecbab4d5a062ebc2391db2e40363ac49d875213cee869b52dd0#rd)  
-- [2023-04-04-【早行】2023.3小结](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261628&idx=2&sn=f03bc3b6b2d50c158491a0096c383449&chksm=bd48d3388a3f5a2e64678c8d4fdf26c9b282de47d3632e59c4b011fe1e912d92008c66706f06#rd)  
+- [2023-04-05-【活动】T-Chat--「-谢文清---我在飞书做文档架构-」](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261646&idx=2&sn=f4b444ff0adce225d82ef630f21c70e8&chksm=bd48d34a8a3f5a5cb7e81fad31d648a4a48b01898400e6c39136abddf1c08a4749307256c918#rd)  
+- [2023-04-05-【早说】滤除无关信息的六个步骤](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261646&idx=3&sn=369d64815cbb6ac16be55370a4002afc&chksm=bd48d34a8a3f5a5c3ffbb58376d8405f834d7c104d57f0e0243c1ff534903b4fa42d3fb47fb4#rd)  
 - [2023-04-04-【早说】学习对象](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261628&idx=3&sn=af23d2ac279562fb3ab1cbfa00d85884&chksm=bd48d3388a3f5a2e622789d7cd1d86aa7f92a0dbf2f7e7a4b79c61556c1030ec246009493726#rd)  
-- [2023-04-03-【早说】如何用崭新的视点发现问题？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261619&idx=2&sn=1fb67fa7b376499bfdd19a981ec5d690&chksm=bd48d3378a3f5a21242eda56f654fea8bb2a16250af278bada1bef6d28de6a310ef3632a3717#rd)  
+- [2023-04-04-【早行】2023.3小结](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261628&idx=2&sn=f03bc3b6b2d50c158491a0096c383449&chksm=bd48d3388a3f5a2e64678c8d4fdf26c9b282de47d3632e59c4b011fe1e912d92008c66706f06#rd)  
+- [2023-04-04-【第2905期】远程组件实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261628&idx=1&sn=12badf76eef3bc3a76eed25d5332f509&chksm=bd48d3388a3f5a2e844a4aea4ecbab4d5a062ebc2391db2e40363ac49d875213cee869b52dd0#rd)  
 - [2023-04-03-【第2904期】客服IM消息列表虚拟滚动技术实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261619&idx=1&sn=af64d86ecc0d7201f3bb03dc934a472c&chksm=bd48d3378a3f5a21795402e7fef91905cb9b85c542863e9b3ab030e1bb9d7f52922c940d4e2c#rd)  
-- [2023-04-02-【第2903期】如何用-OpenAPI-在-Express-中构建更好的-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261597&idx=1&sn=e9052b93496b2fc6fc7ba2d78bc10512&chksm=bd48d3198a3f5a0f413deafdaa249604a62acfb180532f2f0666852fd435e0869a1df2222c49#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2023-04-11-终于搞懂了单进程Redis为什么可以支持10W以上qps！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514232&idx=1&sn=9d5a9ad697ee8bda310ee5afdc6852ee&chksm=f992bea9cee537bf1f5bf35d6becaf6983e548f33fd8b66dc31ce267f9b8cf12c836094d4219#rd) ![](/assets/new.png)  
-- [2023-04-11-【实战】JavaScript-写出一个彩票系统？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514232&idx=2&sn=e1fc8c8dc9733deb1143155794ca231c&chksm=f992bea9cee537bfd7073b8e7712b0444116cc701f1503579afe21e07dae653df52375dc6f2e#rd) ![](/assets/new.png)  
+- [2023-04-11-终于搞懂了单进程Redis为什么可以支持10W以上qps！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514232&idx=1&sn=9d5a9ad697ee8bda310ee5afdc6852ee&chksm=f992bea9cee537bf1f5bf35d6becaf6983e548f33fd8b66dc31ce267f9b8cf12c836094d4219#rd)  
+- [2023-04-11-【实战】JavaScript-写出一个彩票系统？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514232&idx=2&sn=e1fc8c8dc9733deb1143155794ca231c&chksm=f992bea9cee537bfd7073b8e7712b0444116cc701f1503579afe21e07dae653df52375dc6f2e#rd)  
 - [2023-04-10-几个你不知道却非常实用的JavaScript-APIs](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514167&idx=2&sn=9a348d89e62aef9cd80ca45e1271d5d6&chksm=f992bee6cee537f08d14b50b559a6987fcdebb50f99b1acf2638a846aa18337cd40aac08e5d8#rd)  
 - [2023-04-10-Vue3-与-React-全方面对比](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514167&idx=1&sn=75707acf5c01a024135337ef89d93fae&chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd)  
 - [2023-04-07-2023再谈前端状态管理](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514143&idx=1&sn=d83394aa90c0828c7f71d69c20e8cfdd&chksm=f992bececee537d8a8f5f90b7b5d6bdfc0423818352042ebb6b25e3c4ad61e2af12950e10093#rd)  
