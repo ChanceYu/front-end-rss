@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-11T22:00:34.812Z</updated>
+    <updated>2023-04-12T02:00:30.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【图书】GitLab CI/CD：从入门到实战]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd"/>
+        <updated>2023-04-11T16:00:00.000Z</updated>
+        <published>2023-04-11T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【实战】JavaScript 写出一个彩票系统？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514232&amp;idx=2&amp;sn=e1fc8c8dc9733deb1143155794ca231c&amp;chksm=f992bea9cee537bfd7073b8e7712b0444116cc701f1503579afe21e07dae653df52375dc6f2e#rd</id>
@@ -50,16 +57,16 @@
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】前端依赖治理：代码分析工具开发实战]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd"/>
+        <title type="html"><![CDATA[【第2912期】AVIF图片格式在bilibili落地]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2912期】AVIF图片格式在bilibili落地]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd"/>
+        <title type="html"><![CDATA[【小册】前端依赖治理：代码分析工具开发实战]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
@@ -113,16 +120,16 @@
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2911期】揭秘OpenAI新神器：Cursor源码深度解析与应用探索]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=1&amp;sn=437cc983af1713b2c212d52b21eb1c92&amp;chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=1&amp;sn=437cc983af1713b2c212d52b21eb1c92&amp;chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd"/>
+        <title type="html"><![CDATA[【早说】跳出重复的工作]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=2&amp;sn=4c71c6da35cc0c99e26a54bc0730ee57&amp;chksm=bd48d2d28a3f5bc449e322b66e966be947c05c2b611cbff23f05ebb5bdd3b5bc3b738568339f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=2&amp;sn=4c71c6da35cc0c99e26a54bc0730ee57&amp;chksm=bd48d2d28a3f5bc449e322b66e966be947c05c2b611cbff23f05ebb5bdd3b5bc3b738568339f#rd"/>
         <updated>2023-04-09T16:00:00.000Z</updated>
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】跳出重复的工作]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=2&amp;sn=4c71c6da35cc0c99e26a54bc0730ee57&amp;chksm=bd48d2d28a3f5bc449e322b66e966be947c05c2b611cbff23f05ebb5bdd3b5bc3b738568339f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=2&amp;sn=4c71c6da35cc0c99e26a54bc0730ee57&amp;chksm=bd48d2d28a3f5bc449e322b66e966be947c05c2b611cbff23f05ebb5bdd3b5bc3b738568339f#rd"/>
+        <title type="html"><![CDATA[【第2911期】揭秘OpenAI新神器：Cursor源码深度解析与应用探索]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=1&amp;sn=437cc983af1713b2c212d52b21eb1c92&amp;chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261782&amp;idx=1&amp;sn=437cc983af1713b2c212d52b21eb1c92&amp;chksm=bd48d2d28a3f5bc4788aecf30b8454008464002920a97e6f5d7a6e82c704bed1441c9f14ea8f#rd"/>
         <updated>2023-04-09T16:00:00.000Z</updated>
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
@@ -137,13 +144,6 @@
         <title type="html"><![CDATA[分析前端现状，还有前端未来应该学哪些技术！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488268&amp;idx=1&amp;sn=88be391fd375ee2d1610635bd15d71d4&amp;chksm=ce46069df9318f8b86c455a127ffa88dcba9c8e04fd11523e7a763667da8f4310848a57f32b4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488268&amp;idx=1&amp;sn=88be391fd375ee2d1610635bd15d71d4&amp;chksm=ce46069df9318f8b86c455a127ffa88dcba9c8e04fd11523e7a763667da8f4310848a57f32b4#rd"/>
-        <updated>2023-04-08T16:00:00.000Z</updated>
-        <published>2023-04-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2910期】前端视角下的转转客服通信过程]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261778&amp;idx=1&amp;sn=a46cb787d56851622971e7266f1f6352&amp;chksm=bd48d2d68a3f5bc090374f46acbbd6402c47cf6253b1f19a2c4e789689c5da109e5d6b87e33f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261778&amp;idx=1&amp;sn=a46cb787d56851622971e7266f1f6352&amp;chksm=bd48d2d68a3f5bc090374f46acbbd6402c47cf6253b1f19a2c4e789689c5da109e5d6b87e33f#rd"/>
         <updated>2023-04-08T16:00:00.000Z</updated>
         <published>2023-04-08T16:00:00.000Z</published>
     </entry>
