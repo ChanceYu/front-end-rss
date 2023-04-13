@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-13T04:00:34.385Z</updated>
+    <updated>2023-04-13T07:00:34.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【Node】ssh2.js+Shell一套组合拳下来，一年要花2080分钟做的工作竟然节省到52分钟]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514272&amp;idx=1&amp;sn=d5dca7a7c19db3c13c0ee18e41404d50&amp;chksm=f992be71cee53767232c5c8b429403bd1f49ed0597b6ca4318e2cff75f1290069b24e825544c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514272&amp;idx=1&amp;sn=d5dca7a7c19db3c13c0ee18e41404d50&amp;chksm=f992be71cee53767232c5c8b429403bd1f49ed0597b6ca4318e2cff75f1290069b24e825544c#rd"/>
+        <updated>2023-04-12T16:00:00.000Z</updated>
+        <published>2023-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早说】信息类型]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=2&amp;sn=38e103c1c909f105e617e2a9dd6cfd64&amp;chksm=bd48d23e8a3f5b28810c85dc422893f6de5e1d7cf69d95c2c8b8dc447039aac61e3fd4ca3be4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=2&amp;sn=38e103c1c909f105e617e2a9dd6cfd64&amp;chksm=bd48d23e8a3f5b28810c85dc422893f6de5e1d7cf69d95c2c8b8dc447039aac61e3fd4ca3be4#rd"/>
         <updated>2023-04-12T16:00:00.000Z</updated>
         <published>2023-04-12T16:00:00.000Z</published>
     </entry>
@@ -57,16 +64,16 @@
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2913期】Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd"/>
+        <title type="html"><![CDATA[【图书】GitLab CI/CD：从入门到实战]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd"/>
         <updated>2023-04-11T16:00:00.000Z</updated>
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】GitLab CI/CD：从入门到实战]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd"/>
+        <title type="html"><![CDATA[【第2913期】Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd"/>
         <updated>2023-04-11T16:00:00.000Z</updated>
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>
@@ -106,16 +113,16 @@
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】前端依赖治理：代码分析工具开发实战]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd"/>
+        <title type="html"><![CDATA[【第2912期】AVIF图片格式在bilibili落地]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2912期】AVIF图片格式在bilibili落地]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd"/>
+        <title type="html"><![CDATA[【小册】前端依赖治理：代码分析工具开发实战]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=2&amp;sn=e89a1897daf6fac81940984fbad6a821&amp;chksm=bd48d2fe8a3f5be84fb39c680ccec0eda41fb7e6b6b3b803fdbab645eb653b426bae58fa9509#rd"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[Vue3除了keep-alive，还有哪些页面缓存的实现方案]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488274&amp;idx=1&amp;sn=60de7502dc28da4868f6732a44e23ec6&amp;chksm=ce460683f9318f95b614004e74ea9f0b382efb6adab75268e593425bbe41b40fbd1f22eb6dda#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488274&amp;idx=1&amp;sn=60de7502dc28da4868f6732a44e23ec6&amp;chksm=ce460683f9318f95b614004e74ea9f0b382efb6adab75268e593425bbe41b40fbd1f22eb6dda#rd"/>
-        <updated>2023-04-09T16:00:00.000Z</updated>
-        <published>2023-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌正式发布WebGPU！90多位贡献者研发6年，浏览器终于可以利用底层硬件了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520595&amp;idx=1&amp;sn=65e7bd2341c8127350dbcf6354640127&amp;chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520595&amp;idx=1&amp;sn=65e7bd2341c8127350dbcf6354640127&amp;chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd"/>
         <updated>2023-04-09T16:00:00.000Z</updated>
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>
