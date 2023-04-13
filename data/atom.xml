@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-13T13:00:37.145Z</updated>
+    <updated>2023-04-13T22:00:33.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【早说】信息类型]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=2&amp;sn=38e103c1c909f105e617e2a9dd6cfd64&amp;chksm=bd48d23e8a3f5b28810c85dc422893f6de5e1d7cf69d95c2c8b8dc447039aac61e3fd4ca3be4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=2&amp;sn=38e103c1c909f105e617e2a9dd6cfd64&amp;chksm=bd48d23e8a3f5b28810c85dc422893f6de5e1d7cf69d95c2c8b8dc447039aac61e3fd4ca3be4#rd"/>
+        <updated>2023-04-12T16:00:00.000Z</updated>
+        <published>2023-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The return of ECMAScript 2023 (and Angular)]]></title>
+        <id>https://javascriptweekly.com/issues/634</id>
+        <link href="https://javascriptweekly.com/issues/634"/>
         <updated>2023-04-12T16:00:00.000Z</updated>
         <published>2023-04-12T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[Vue3 与 React 全方面对比]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=1&amp;sn=75707acf5c01a024135337ef89d93fae&amp;chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=1&amp;sn=75707acf5c01a024135337ef89d93fae&amp;chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd"/>
-        <updated>2023-04-09T16:00:00.000Z</updated>
-        <published>2023-04-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几个你不知道却非常实用的JavaScript APIs]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=2&amp;sn=9a348d89e62aef9cd80ca45e1271d5d6&amp;chksm=f992bee6cee537f08d14b50b559a6987fcdebb50f99b1acf2638a846aa18337cd40aac08e5d8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=2&amp;sn=9a348d89e62aef9cd80ca45e1271d5d6&amp;chksm=f992bee6cee537f08d14b50b559a6987fcdebb50f99b1acf2638a846aa18337cd40aac08e5d8#rd"/>
         <updated>2023-04-09T16:00:00.000Z</updated>
         <published>2023-04-09T16:00:00.000Z</published>
     </entry>

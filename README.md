@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-13 21:00:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-14 06:00:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634) ![](/assets/new.png)  
 - [2023-04-06-JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633)  
 - [2023-03-31-Import-maps-go-universal](https://javascriptweekly.com/issues/632)  
 - [2023-03-24-Playwright-now-offers-a-UI-mode](https://javascriptweekly.com/issues/631)  
@@ -86,7 +87,6 @@
 - [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617)  
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)  
 - [2022-11-18-Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)  
-- [2022-11-11-Rome-wasn't-rewritten-in-a-day](https://javascriptweekly.com/issues/614)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-04-13-2023年前端该看哪些面试题呢？顺应时代，方可生存！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488321&idx=1&sn=026bb77185c9e8d4d68e8ac4693323fe&chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd) ![](/assets/new.png)  
+- [2023-04-13-2023年前端该看哪些面试题呢？顺应时代，方可生存！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488321&idx=1&sn=026bb77185c9e8d4d68e8ac4693323fe&chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd)  
 - [2023-04-11-面了一个字节出来的大佬，见识到了基础天花板！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488286&idx=1&sn=388fbf1f1cc28bdde17be5347ab812ae&chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd)  
 - [2023-04-10-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488274&idx=1&sn=60de7502dc28da4868f6732a44e23ec6&chksm=ce460683f9318f95b614004e74ea9f0b382efb6adab75268e593425bbe41b40fbd1f22eb6dda#rd)  
 - [2023-04-09-分析前端现状，还有前端未来应该学哪些技术！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488268&idx=1&sn=88be391fd375ee2d1610635bd15d71d4&chksm=ce46069df9318f8b86c455a127ffa88dcba9c8e04fd11523e7a763667da8f4310848a57f32b4#rd)  

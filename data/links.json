@@ -338,6 +338,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "The return of ECMAScript 2023 (and Angular)",
+        "link": "https://javascriptweekly.com/issues/634",
+        "date": "2023-04-13"
+      },
+      {
         "title": "JavaScript on your schedule",
         "link": "https://javascriptweekly.com/issues/633",
         "date": "2023-04-06"
