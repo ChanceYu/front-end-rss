@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-14 08:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-14 10:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
-- [凹凸实验室](#凹凸实验室)![](/assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
 
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-04-14-科技爱好者周刊（第-250-期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html) ![](/assets/new.png)  
 - [2023-04-07-科技爱好者周刊（第-249-期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)  
 - [2023-03-31-科技爱好者周刊（第-248-期）：不要夸大-ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)  
 - [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)  
@@ -365,7 +366,6 @@
 - [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)  
 - [2022-12-02-科技爱好者周刊（第-233-期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)  
 - [2022-11-25-科技爱好者周刊（第-232-期）：好用的平面设计软件](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-232.html)  
-- [2022-11-18-科技爱好者周刊（第-231-期）：互联网公司需要多少员工？](http://www.ruanyifeng.com/blog/2022/11/weekly-issue-231.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2023-04-13-实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899638&idx=1&sn=5571863db55c99029f68075f72008067&chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd) ![](/assets/new.png)  
+- [2023-04-13-实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899638&idx=1&sn=5571863db55c99029f68075f72008067&chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd)  
 - [2023-03-31-多编译内核生态下的极速研发体验](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899577&idx=1&sn=320a8fb4fe66bb3391b7c95e45df30ce&chksm=8c5fa4f7bb282de1b84ab3256bee010e616741e09e1f11bba2ef3909512dc5dafb9b9539e856#rd)  
 - [2023-02-23-2023-年的-Web-Worker-项目实践](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899575&idx=1&sn=0310a88f72f7b63bfebc0835a2df291f&chksm=8c5fa4f9bb282def5a8296269ed7e874a367809aefe3a88bca262672ad6fb34932c27f97ad0a#rd)  
 - [2023-02-16-Taro-正式发布-3.6-版本：支持跨端路由、请求库，新增鸿蒙、Web-端平台插件，小程序持续集成-CI-能力升级](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899551&idx=1&sn=0d30a7d3949dc41470d0c5926d5537ef&chksm=8c5fa4d1bb282dc7b352803a0128c69863fcc4d21f9716e4aeb200ae259a750af40a84948162#rd)  
