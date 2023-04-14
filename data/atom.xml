@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-13T22:00:33.501Z</updated>
+    <updated>2023-04-14T00:00:32.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[实践指南-前端性能提升 270%]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&amp;mid=2651899638&amp;idx=1&amp;sn=5571863db55c99029f68075f72008067&amp;chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&amp;mid=2651899638&amp;idx=1&amp;sn=5571863db55c99029f68075f72008067&amp;chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd"/>
+        <updated>2023-04-12T16:00:00.000Z</updated>
+        <published>2023-04-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Node】ssh2.js+Shell一套组合拳下来，一年要花2080分钟做的工作竟然节省到52分钟]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514272&amp;idx=1&amp;sn=d5dca7a7c19db3c13c0ee18e41404d50&amp;chksm=f992be71cee53767232c5c8b429403bd1f49ed0597b6ca4318e2cff75f1290069b24e825544c#rd</id>
@@ -146,12 +153,5 @@
         <link href="https://nodeweekly.com/issues/481"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 与 React 全方面对比]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=1&amp;sn=75707acf5c01a024135337ef89d93fae&amp;chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514167&amp;idx=1&amp;sn=75707acf5c01a024135337ef89d93fae&amp;chksm=f992bee6cee537f0c303639bac6b5bb51db196732fe7b834886cf044ec62805fa5ec6c796f69#rd"/>
-        <updated>2023-04-09T16:00:00.000Z</updated>
-        <published>2023-04-09T16:00:00.000Z</published>
     </entry>
 </feed>
