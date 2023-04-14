@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-14T07:01:02.264Z</updated>
+    <updated>2023-04-14T13:01:30.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,20 @@
         <published>2023-04-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【小册】前端调试通关秘籍]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261920&amp;idx=2&amp;sn=fd65f4a159ee46005980016460a1a653&amp;chksm=bd48d2648a3f5b727a22c4304cd6a971d3e727beea006d743b9135aa05108367f657f9053f88#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261920&amp;idx=2&amp;sn=fd65f4a159ee46005980016460a1a653&amp;chksm=bd48d2648a3f5b727a22c4304cd6a971d3e727beea006d743b9135aa05108367f657f9053f88#rd"/>
+        <updated>2023-04-13T16:00:00.000Z</updated>
+        <published>2023-04-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2915期】基于 HTTP Range 实现文件分片并发下载！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261920&amp;idx=1&amp;sn=b59fe27b284425d1521f2f740c20b1f5&amp;chksm=bd48d2648a3f5b72a4ddbb58a7a1b4f42e3163023a1fcd1dc4bf1f0e80e2520ab9daf09f3275#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261920&amp;idx=1&amp;sn=b59fe27b284425d1521f2f740c20b1f5&amp;chksm=bd48d2648a3f5b72a4ddbb58a7a1b4f42e3163023a1fcd1dc4bf1f0e80e2520ab9daf09f3275#rd"/>
+        <updated>2023-04-13T16:00:00.000Z</updated>
+        <published>2023-04-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[实践指南-前端性能提升 270%]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&amp;mid=2651899638&amp;idx=1&amp;sn=5571863db55c99029f68075f72008067&amp;chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&amp;mid=2651899638&amp;idx=1&amp;sn=5571863db55c99029f68075f72008067&amp;chksm=8c5fa4b8bb282dae576cb38ff03e85dc138ac38806be06627c753ae431d6b81851a4468728b9#rd"/>
@@ -46,6 +60,13 @@
         <title type="html"><![CDATA[2023年前端该看哪些面试题呢？顺应时代，方可生存！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488321&amp;idx=1&amp;sn=026bb77185c9e8d4d68e8ac4693323fe&amp;chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488321&amp;idx=1&amp;sn=026bb77185c9e8d4d68e8ac4693323fe&amp;chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd"/>
+        <updated>2023-04-12T16:00:00.000Z</updated>
+        <published>2023-04-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2914】从Next.js 13 认识React Server Components]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=1&amp;sn=dcd8af19a06ca581829d8447a236fa91&amp;chksm=bd48d23e8a3f5b2878a1c32bd77dc84deef65d660c9e54f13fb9fbd50008143f3e2e8a57d16b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=1&amp;sn=dcd8af19a06ca581829d8447a236fa91&amp;chksm=bd48d23e8a3f5b2878a1c32bd77dc84deef65d660c9e54f13fb9fbd50008143f3e2e8a57d16b#rd"/>
         <updated>2023-04-12T16:00:00.000Z</updated>
         <published>2023-04-12T16:00:00.000Z</published>
     </entry>
@@ -99,16 +120,16 @@
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】GitLab CI/CD：从入门到实战]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd"/>
+        <title type="html"><![CDATA[【第2913期】Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd"/>
         <updated>2023-04-11T16:00:00.000Z</updated>
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2913期】Chrome 112 ：CSS 支持嵌套语法、document.domain 正式禁用！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=1&amp;sn=70ce53ed667f1850c5958f129640864d&amp;chksm=bd48d20d8a3f5b1be23a15962033f6edb190211017edf0f08da59d7d540c7e1d535a0a0f9de9#rd"/>
+        <title type="html"><![CDATA[【图书】GitLab CI/CD：从入门到实战]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261833&amp;idx=2&amp;sn=1b336341c087808e461ec82be1b4482a&amp;chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd"/>
         <updated>2023-04-11T16:00:00.000Z</updated>
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>
@@ -130,27 +151,6 @@
         <title type="html"><![CDATA[面了一个字节出来的大佬，见识到了基础天花板！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488286&amp;idx=1&amp;sn=388fbf1f1cc28bdde17be5347ab812ae&amp;chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488286&amp;idx=1&amp;sn=388fbf1f1cc28bdde17be5347ab812ae&amp;chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd"/>
-        <updated>2023-04-10T16:00:00.000Z</updated>
-        <published>2023-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面了一个阿里出来的大佬，见识到了基础天花板！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=1&amp;sn=234b43378b4c5d1c0332deca7fb1671c&amp;chksm=8022bf77b75536614d490af4a7b9ad44db808f19c3b8ea97fa134a945e0d02e65b8ded1814b1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=1&amp;sn=234b43378b4c5d1c0332deca7fb1671c&amp;chksm=8022bf77b75536614d490af4a7b9ad44db808f19c3b8ea97fa134a945e0d02e65b8ded1814b1#rd"/>
-        <updated>2023-04-10T16:00:00.000Z</updated>
-        <published>2023-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：为什么“false == []”和“false == ![]”都返回true？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=2&amp;sn=0006e029c822e069002987bc00856cf3&amp;chksm=8022bf77b755366134be4ea7c028622d8b6a87799657b03dfe9275330d122e5e586b4788c48a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613366&amp;idx=2&amp;sn=0006e029c822e069002987bc00856cf3&amp;chksm=8022bf77b755366134be4ea7c028622d8b6a87799657b03dfe9275330d122e5e586b4788c48a#rd"/>
-        <updated>2023-04-10T16:00:00.000Z</updated>
-        <published>2023-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2912期】AVIF图片格式在bilibili落地]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261818&amp;idx=1&amp;sn=07a7959b9e835d67ee1e0cf6975db459&amp;chksm=bd48d2fe8a3f5be86d45f33986dd1b4863180419150b33d3175168399ad84dafd85599ab8333#rd"/>
         <updated>2023-04-10T16:00:00.000Z</updated>
         <published>2023-04-10T16:00:00.000Z</published>
     </entry>
