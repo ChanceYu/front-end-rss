@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-15 10:00:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-15 18:00:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -258,6 +258,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2023-04-14-Web框架Astro-2.0发布，在静态和动态渲染之外提供了混合渲染能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520612&idx=1&sn=0607ae29aed553513c14f6c1e82c0812&chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd) 
 - [2023-04-10-谷歌正式发布WebGPU！90多位贡献者研发6年，浏览器终于可以利用底层硬件了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520595&idx=1&sn=65e7bd2341c8127350dbcf6354640127&chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd) 
 - [2023-03-08-和谷歌一样，Mozilla也在期待苹果终结Webkit规则](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520157&idx=1&sn=45b694e300c1f984600d5a9dd099df44&chksm=f9523adece25b3c871f42df08bd925a45ea0336d97350e81241f75744b5c2c91991475f7f7a7#rd) 
 - [2022-11-30-后Kubernetes时代的未来？Wasmer-3.0-发布，可在浏览器外运行-WebAssembly](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518873&idx=1&sn=4cdbd549daea8b00e69780e1ba01cf02&chksm=f9523fdace25b6cc7999ad752aabc71ef84818b34c2531ac0bab1d18b0fb9aba2eecef10002c#rd) 

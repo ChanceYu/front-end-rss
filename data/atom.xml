@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-15T02:00:36.737Z</updated>
+    <updated>2023-04-15T10:00:33.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue 转 React的开发者，常犯的10个错误~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488343&amp;idx=1&amp;sn=25b0e269d51fb02aab1e2b8ad5cd9ca5&amp;chksm=ce4606c6f9318fd064b2633185e9b05a42535216b782a2034bd92c70affb934e00297a070cd2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488343&amp;idx=1&amp;sn=25b0e269d51fb02aab1e2b8ad5cd9ca5&amp;chksm=ce4606c6f9318fd064b2633185e9b05a42535216b782a2034bd92c70affb934e00297a070cd2#rd"/>
+        <updated>2023-04-14T16:00:00.000Z</updated>
+        <published>2023-04-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】养成良好的行为习惯的四个方面]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261963&amp;idx=2&amp;sn=71bd32242bfb561edef3869fe2d71784&amp;chksm=bd48d58f8a3f5c998f291cf6e2419327b827c94499b5cb27d931a3ed48aabb9078f8e9ef5294#rd</id>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[面试官：如果100个请求，你怎么用Promise去控制并发？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488342&amp;idx=1&amp;sn=53e5f5e339a26646c992c2e3c8887786&amp;chksm=ce4606c7f9318fd1ac73ae911cc146ab28249e1113569de80d33eac962355e378d3794aa84d3#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488342&amp;idx=1&amp;sn=53e5f5e339a26646c992c2e3c8887786&amp;chksm=ce4606c7f9318fd1ac73ae911cc146ab28249e1113569de80d33eac962355e378d3794aa84d3#rd"/>
+        <updated>2023-04-13T16:00:00.000Z</updated>
+        <published>2023-04-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web框架Astro 2.0发布，在静态和动态渲染之外提供了混合渲染能力]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520612&amp;idx=1&amp;sn=0607ae29aed553513c14f6c1e82c0812&amp;chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520612&amp;idx=1&amp;sn=0607ae29aed553513c14f6c1e82c0812&amp;chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd"/>
         <updated>2023-04-13T16:00:00.000Z</updated>
         <published>2023-04-13T16:00:00.000Z</published>
     </entry>
@@ -137,20 +151,6 @@
         <title type="html"><![CDATA[细说 Vue 响应式原理的 10 个细节！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514253&amp;idx=2&amp;sn=88d8cc7a0fe494e610decd6f71f0ac21&amp;chksm=f992be5ccee5374aea44c9c1f05343e21ffc1cb50e4357ad559f52429a556c32630ca4a2ea5b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514253&amp;idx=2&amp;sn=88d8cc7a0fe494e610decd6f71f0ac21&amp;chksm=f992be5ccee5374aea44c9c1f05343e21ffc1cb50e4357ad559f52429a556c32630ca4a2ea5b#rd"/>
-        <updated>2023-04-11T16:00:00.000Z</updated>
-        <published>2023-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用或不使用JavaScript框架，哪种更适合 Web 开发？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520607&amp;idx=1&amp;sn=d94d011789bdf69464efdd3f73687aa3&amp;chksm=f952241cce25ad0a7edd0a17cd1b56a0a10a166c21e507c10fb7fa55ab62300b8868b1b2e435#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520607&amp;idx=1&amp;sn=d94d011789bdf69464efdd3f73687aa3&amp;chksm=f952241cce25ad0a7edd0a17cd1b56a0a10a166c21e507c10fb7fa55ab62300b8868b1b2e435#rd"/>
-        <updated>2023-04-11T16:00:00.000Z</updated>
-        <published>2023-04-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：你确定多窗口之间 sessionStorage 不能共享状态吗?]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613446&amp;idx=1&amp;sn=162485782ede84f36a65a3c3d8b333e7&amp;chksm=8022bec7b75537d1ad094f91069c6731362b4163674ddea5e1f585ac403b67ab13124a3fa425#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613446&amp;idx=1&amp;sn=162485782ede84f36a65a3c3d8b333e7&amp;chksm=8022bec7b75537d1ad094f91069c6731362b4163674ddea5e1f585ac403b67ab13124a3fa425#rd"/>
         <updated>2023-04-11T16:00:00.000Z</updated>
         <published>2023-04-11T16:00:00.000Z</published>
     </entry>

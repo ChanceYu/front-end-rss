@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-15 10:00:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-15 18:00:32，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-04-15-【第2916期】使用新的JavaScript-.at方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261963&idx=1&sn=b0e27a7ca2efecece5b78d645cefa50b&chksm=bd48d58f8a3f5c99052c2163c8bae84c49d191186f6eb0632b2097ae8e731f32857bb815d37a#rd) ![](/assets/new.png)  
-- [2023-04-15-【早说】养成良好的行为习惯的四个方面](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261963&idx=2&sn=71bd32242bfb561edef3869fe2d71784&chksm=bd48d58f8a3f5c998f291cf6e2419327b827c94499b5cb27d931a3ed48aabb9078f8e9ef5294#rd) ![](/assets/new.png)  
+- [2023-04-15-【第2916期】使用新的JavaScript-.at方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261963&idx=1&sn=b0e27a7ca2efecece5b78d645cefa50b&chksm=bd48d58f8a3f5c99052c2163c8bae84c49d191186f6eb0632b2097ae8e731f32857bb815d37a#rd)  
+- [2023-04-15-【早说】养成良好的行为习惯的四个方面](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261963&idx=2&sn=71bd32242bfb561edef3869fe2d71784&chksm=bd48d58f8a3f5c998f291cf6e2419327b827c94499b5cb27d931a3ed48aabb9078f8e9ef5294#rd)  
 - [2023-04-14-【小册】前端调试通关秘籍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261920&idx=2&sn=fd65f4a159ee46005980016460a1a653&chksm=bd48d2648a3f5b727a22c4304cd6a971d3e727beea006d743b9135aa05108367f657f9053f88#rd)  
 - [2023-04-14-【第2915期】基于-HTTP-Range-实现文件分片并发下载！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261920&idx=1&sn=b59fe27b284425d1521f2f740c20b1f5&chksm=bd48d2648a3f5b72a4ddbb58a7a1b4f42e3163023a1fcd1dc4bf1f0e80e2520ab9daf09f3275#rd)  
 - [2023-04-13-【第2914】从Next.js-13-认识React-Server-Components](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261882&idx=1&sn=dcd8af19a06ca581829d8447a236fa91&chksm=bd48d23e8a3f5b2878a1c32bd77dc84deef65d660c9e54f13fb9fbd50008143f3e2e8a57d16b#rd)  
@@ -160,6 +160,7 @@
 </summary>
 
 
+- [2023-04-14-Web框架Astro-2.0发布，在静态和动态渲染之外提供了混合渲染能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520612&idx=1&sn=0607ae29aed553513c14f6c1e82c0812&chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd) ![](/assets/new.png)  
 - [2023-04-12-使用或不使用JavaScript框架，哪种更适合-Web-开发？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520607&idx=1&sn=d94d011789bdf69464efdd3f73687aa3&chksm=f952241cce25ad0a7edd0a17cd1b56a0a10a166c21e507c10fb7fa55ab62300b8868b1b2e435#rd)  
 - [2023-04-10-谷歌正式发布WebGPU！90多位贡献者研发6年，浏览器终于可以利用底层硬件了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520595&idx=1&sn=65e7bd2341c8127350dbcf6354640127&chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd)  
 - [2023-04-07-GPT-4预示着前端开发的终结？你准备好面对无法预测的技术挑战了吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520581&idx=1&sn=5ce23b4f4b2d720a8fb3476438abbfdd&chksm=f9522406ce25ad10fe089e279e58dce34a885683fd8d234f359178d8d9bd0304dd6d4aaccba7#rd)  
@@ -174,12 +175,11 @@
 - [2023-03-17-麒麟桌面操作系统运行安卓移动应用的技术实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520284&idx=1&sn=6a370f18ae4f383614ee426388e2a4e3&chksm=f952255fce25ac496c21e92f59f06466a415b10c485716b8918a3017f8548d02f1cb647412d4#rd)  
 - [2023-03-15-Facebook-iOS版：探索移动应用10年演进之路](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520283&idx=1&sn=45e333a04d7eb7ace926f73f07da4395&chksm=f9522558ce25ac4e1f51928c9726aa4b13533314eee6aa47eac8ad2e9b10a6d0a486567d205e#rd)  
 - [2023-03-14-探讨-React-Native-的未来：它可能不再是最佳选择](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520245&idx=1&sn=812e6877050f5cf37882509d7ed3d913&chksm=f9523ab6ce25b3a09b91ccf3472d3224addbfc40ec5b1a6dfbcc8a232b01a1f4cc9d7ed5d70d#rd)  
-- [2023-03-10-全世界都在跟风ChatGPT，它的真正价值到底是什么？｜直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520211&idx=2&sn=c33541001146c36a8078d490e0d817f5&chksm=f9523a90ce25b3865a640aa86d1d44ece7e839db91ff4da5aaad1d60b2e0a3dd34006a021294#rd)  
 - [2023-03-10-前端架构设计优化：构建可扩展的低代码平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520211&idx=1&sn=cbe3c647354e1a6759e8456ba512d58d&chksm=f9523a90ce25b3860b92703534bb03344137bae4fe5208e1f9719c62e72287dc325572dbe731#rd)  
+- [2023-03-10-全世界都在跟风ChatGPT，它的真正价值到底是什么？｜直播预约](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520211&idx=2&sn=c33541001146c36a8078d490e0d817f5&chksm=f9523a90ce25b3865a640aa86d1d44ece7e839db91ff4da5aaad1d60b2e0a3dd34006a021294#rd)  
 - [2023-03-08-和谷歌一样，Mozilla也在期待苹果终结Webkit规则](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520157&idx=1&sn=45b694e300c1f984600d5a9dd099df44&chksm=f9523adece25b3c871f42df08bd925a45ea0336d97350e81241f75744b5c2c91991475f7f7a7#rd)  
 - [2023-03-06-JavaScript框架太多了？相反，是太少了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520149&idx=1&sn=fc9150001b0e4048af29de4f952abab2&chksm=f9523ad6ce25b3c0afff31dc884d00a8d1f9ce7c21a44ae5876e91dcbe61854d3c88d3141280#rd)  
 - [2023-03-03-HarmonyOS-ArkUI-框架的实现原理和落地实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520142&idx=1&sn=737128648dcf03179476a6ae967d7bec&chksm=f9523acdce25b3db75a438cf14423b4bf014af02df4e060428794f46facbe820f6370705b960#rd)  
-- [2023-03-01-探索-Android-14：首个开发者预览版的新功能与特性](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520102&idx=1&sn=32f1d84bcbf2b1866b6e6399e45f90ef&chksm=f9523a25ce25b33358b277cd00c70843afb1e4777947c99b21313c54a30a9ce3dc71c9673827#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2023-04-15-Vue-转-React的开发者，常犯的10个错误~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488343&idx=1&sn=25b0e269d51fb02aab1e2b8ad5cd9ca5&chksm=ce4606c6f9318fd064b2633185e9b05a42535216b782a2034bd92c70affb934e00297a070cd2#rd) ![](/assets/new.png)  
 - [2023-04-14-面试官：如果100个请求，你怎么用Promise去控制并发？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488342&idx=1&sn=53e5f5e339a26646c992c2e3c8887786&chksm=ce4606c7f9318fd1ac73ae911cc146ab28249e1113569de80d33eac962355e378d3794aa84d3#rd)  
 - [2023-04-13-2023年前端该看哪些面试题呢？顺应时代，方可生存！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488321&idx=1&sn=026bb77185c9e8d4d68e8ac4693323fe&chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd)  
 - [2023-04-11-面了一个字节出来的大佬，见识到了基础天花板！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488286&idx=1&sn=388fbf1f1cc28bdde17be5347ab812ae&chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd)  
@@ -210,7 +211,6 @@
 - [2023-03-27-那些拿20k的大佬在职场都是怎么沟通的](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488125&idx=1&sn=7586282afac8b3a1cf639e800473b258&chksm=ce4607ecf9318efac318da4d0a59c7a11a8a3f7b88a4e1a8bcf6b744fc79e5700f5edede263a#rd)  
 - [2023-03-26-测试妹子说我多了个Options请求，还给我提BUG?到底咋回事？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488120&idx=1&sn=756b8dfb3b329bf4d002d33daabac582&chksm=ce4607e9f9318efff6d73577b0b12f52b59222f7ec39790962faf16b2b3a5f78a37a65a929e6#rd)  
 - [2023-03-25-我帮同事优化代码，速度快了1000倍以上！！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488109&idx=1&sn=9d2b993a68126a6d723e1638283817b7&chksm=ce4607fcf9318eea7b06b52543757482bb37e53ae0861bbaa4c0498a9e55a31b870f0a778d30#rd)  
-- [2023-03-24-十个JavaScript快乐写法，建议全部看一遍，提高自身实力！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488084&idx=1&sn=dc77cafa50cb1ad3df29ae36f0317b05&chksm=ce4607c5f9318ed3772bbbeffdbf63fd65ee221a4d5d2304afdc5fe3102e9940ecd253be2908#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
