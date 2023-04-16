@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-16T10:00:34.830Z</updated>
+    <updated>2023-04-16T22:00:36.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[推荐几个还行的前端朋友]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=1&amp;sn=8131fa338aef839954a8e3ca920302eb&amp;chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=1&amp;sn=8131fa338aef839954a8e3ca920302eb&amp;chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd"/>
+        <updated>2023-04-15T16:00:00.000Z</updated>
+        <published>2023-04-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2小时面试，就因为不会计算机底层，博士把我挂了。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488349&amp;idx=1&amp;sn=b82eb9efba3deb3bccbf0cf613fd8973&amp;chksm=ce4606ccf9318fda576b204f29ab3d27be98470813bc1c2773a7413ebfbf57fb70087c3cdc7e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488349&amp;idx=1&amp;sn=b82eb9efba3deb3bccbf0cf613fd8973&amp;chksm=ce4606ccf9318fda576b204f29ab3d27be98470813bc1c2773a7413ebfbf57fb70087c3cdc7e#rd"/>
         <updated>2023-04-15T16:00:00.000Z</updated>
         <published>2023-04-15T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[2023年前端该看哪些面试题呢？顺应时代，方可生存！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488321&amp;idx=1&amp;sn=026bb77185c9e8d4d68e8ac4693323fe&amp;chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488321&amp;idx=1&amp;sn=026bb77185c9e8d4d68e8ac4693323fe&amp;chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd"/>
-        <updated>2023-04-12T16:00:00.000Z</updated>
-        <published>2023-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2914】从Next.js 13 认识React Server Components]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=1&amp;sn=dcd8af19a06ca581829d8447a236fa91&amp;chksm=bd48d23e8a3f5b2878a1c32bd77dc84deef65d660c9e54f13fb9fbd50008143f3e2e8a57d16b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261882&amp;idx=1&amp;sn=dcd8af19a06ca581829d8447a236fa91&amp;chksm=bd48d23e8a3f5b2878a1c32bd77dc84deef65d660c9e54f13fb9fbd50008143f3e2e8a57d16b#rd"/>
         <updated>2023-04-12T16:00:00.000Z</updated>
         <published>2023-04-12T16:00:00.000Z</published>
     </entry>
