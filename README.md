@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-18 15:00:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-19 06:00:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-04-18-Node-v20-released](https://nodeweekly.com/issues/482) ![](/assets/new.png)  
 - [2023-04-11-The-state-of-Node.js-in-2023](https://nodeweekly.com/issues/481)  
 - [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480)  
 - [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479)  
@@ -55,7 +56,6 @@
 - [2022-12-01-Lots-of-Electron-news](https://nodeweekly.com/issues/465)  
 - [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464)  
 - [2022-11-17-Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)  
-- [2022-11-10-It's-all-about-security](https://nodeweekly.com/issues/462)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -253,8 +253,8 @@
 </summary>
 
 
-- [2023-04-18-高级前端理解的CommonJS模块和ESM模块](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514306&idx=1&sn=870c733f331b711e599889dc3d2b931b&chksm=f992be13cee537052b92898ddf85ef38f2a45a337a4872d53c37d19545db9d03337f750c51bc#rd) ![](/assets/new.png)  
-- [2023-04-18-新开源项目（solidjs-use）随想录](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514306&idx=2&sn=6b2180484f21ed97dc136c43ba90e515&chksm=f992be13cee5370513bccb06f71dac7aefd4df14f384f6d603e39f12de1a49570d4e4cd3b7b6#rd) ![](/assets/new.png)  
+- [2023-04-18-高级前端理解的CommonJS模块和ESM模块](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514306&idx=1&sn=870c733f331b711e599889dc3d2b931b&chksm=f992be13cee537052b92898ddf85ef38f2a45a337a4872d53c37d19545db9d03337f750c51bc#rd)  
+- [2023-04-18-新开源项目（solidjs-use）随想录](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514306&idx=2&sn=6b2180484f21ed97dc136c43ba90e515&chksm=f992be13cee5370513bccb06f71dac7aefd4df14f384f6d603e39f12de1a49570d4e4cd3b7b6#rd)  
 - [2023-04-17-聊聊前端组件设计](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514300&idx=2&sn=4534264dd030c82ec170ad626261bbf5&chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd)  
 - [2023-04-17-面了一个字节出来的大佬，见识到了基础天花板！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514300&idx=1&sn=2b639c0fa890129b1f2ca527796b6002&chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd)  
 - [2023-04-16-推荐几个还行的前端朋友](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514297&idx=1&sn=8131fa338aef839954a8e3ca920302eb&chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd)  

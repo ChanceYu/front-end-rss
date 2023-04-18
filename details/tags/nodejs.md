@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-18 15:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-19 06:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-04-18-Node-v20-released](https://nodeweekly.com/issues/482) 
 - [2023-04-11-The-state-of-Node.js-in-2023](https://nodeweekly.com/issues/481) 
 - [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479) 
 - [2023-03-16-Shell-free-scripting-from-Node](https://nodeweekly.com/issues/478) 

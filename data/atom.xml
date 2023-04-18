@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-18T07:00:50.693Z</updated>
+    <updated>2023-04-18T22:00:50.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[【第2919期】Web 播放 RTSP 推流最佳方案实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262000&amp;idx=1&amp;sn=6bf414f5fd6fbf40b9d66743a2887187&amp;chksm=bd48d5b48a3f5ca299f3e3affa3391cc23cea2a86ef13b3c05a8c0525462737913ff95d095c5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262000&amp;idx=1&amp;sn=6bf414f5fd6fbf40b9d66743a2887187&amp;chksm=bd48d5b48a3f5ca299f3e3affa3391cc23cea2a86ef13b3c05a8c0525462737913ff95d095c5#rd"/>
+        <updated>2023-04-17T16:00:00.000Z</updated>
+        <published>2023-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node v20 released]]></title>
+        <id>https://nodeweekly.com/issues/482</id>
+        <link href="https://nodeweekly.com/issues/482"/>
         <updated>2023-04-17T16:00:00.000Z</updated>
         <published>2023-04-17T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[Vue 转 React的开发者，常犯的10个错误~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488343&amp;idx=1&amp;sn=25b0e269d51fb02aab1e2b8ad5cd9ca5&amp;chksm=ce4606c6f9318fd064b2633185e9b05a42535216b782a2034bd92c70affb934e00297a070cd2#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488343&amp;idx=1&amp;sn=25b0e269d51fb02aab1e2b8ad5cd9ca5&amp;chksm=ce4606c6f9318fd064b2633185e9b05a42535216b782a2034bd92c70affb934e00297a070cd2#rd"/>
-        <updated>2023-04-14T16:00:00.000Z</updated>
-        <published>2023-04-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2916期】使用新的JavaScript .at()方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261963&amp;idx=1&amp;sn=b0e27a7ca2efecece5b78d645cefa50b&amp;chksm=bd48d58f8a3f5c99052c2163c8bae84c49d191186f6eb0632b2097ae8e731f32857bb815d37a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261963&amp;idx=1&amp;sn=b0e27a7ca2efecece5b78d645cefa50b&amp;chksm=bd48d58f8a3f5c99052c2163c8bae84c49d191186f6eb0632b2097ae8e731f32857bb815d37a#rd"/>
         <updated>2023-04-14T16:00:00.000Z</updated>
         <published>2023-04-14T16:00:00.000Z</published>
     </entry>
