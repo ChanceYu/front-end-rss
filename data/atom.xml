@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-18T02:00:37.815Z</updated>
+    <updated>2023-04-18T07:00:50.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[新开源项目（solidjs-use）随想录]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514306&amp;idx=2&amp;sn=6b2180484f21ed97dc136c43ba90e515&amp;chksm=f992be13cee5370513bccb06f71dac7aefd4df14f384f6d603e39f12de1a49570d4e4cd3b7b6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514306&amp;idx=2&amp;sn=6b2180484f21ed97dc136c43ba90e515&amp;chksm=f992be13cee5370513bccb06f71dac7aefd4df14f384f6d603e39f12de1a49570d4e4cd3b7b6#rd"/>
+        <updated>2023-04-17T16:00:00.000Z</updated>
+        <published>2023-04-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高级前端理解的CommonJS模块和ESM模块]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514306&amp;idx=1&amp;sn=870c733f331b711e599889dc3d2b931b&amp;chksm=f992be13cee537052b92898ddf85ef38f2a45a337a4872d53c37d19545db9d03337f750c51bc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514306&amp;idx=1&amp;sn=870c733f331b711e599889dc3d2b931b&amp;chksm=f992be13cee537052b92898ddf85ef38f2a45a337a4872d53c37d19545db9d03337f750c51bc#rd"/>
+        <updated>2023-04-17T16:00:00.000Z</updated>
+        <published>2023-04-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[久等了，全新Vue3.2手写移动电商，开源！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488391&amp;idx=1&amp;sn=5d941f111b1479e3d7550c79c6a9644a&amp;chksm=ce460616f9318f0005d448e9402bd4c44b8cbc11e549df8f4503dd1d5a68048fbc74b5dad433#rd</id>
@@ -36,16 +50,16 @@
         <published>2023-04-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[聊聊前端组件设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=2&amp;sn=4534264dd030c82ec170ad626261bbf5&amp;chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=2&amp;sn=4534264dd030c82ec170ad626261bbf5&amp;chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd"/>
+        <title type="html"><![CDATA[面了一个字节出来的大佬，见识到了基础天花板！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=1&amp;sn=2b639c0fa890129b1f2ca527796b6002&amp;chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=1&amp;sn=2b639c0fa890129b1f2ca527796b6002&amp;chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd"/>
         <updated>2023-04-16T16:00:00.000Z</updated>
         <published>2023-04-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面了一个字节出来的大佬，见识到了基础天花板！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=1&amp;sn=2b639c0fa890129b1f2ca527796b6002&amp;chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=1&amp;sn=2b639c0fa890129b1f2ca527796b6002&amp;chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd"/>
+        <title type="html"><![CDATA[聊聊前端组件设计]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=2&amp;sn=4534264dd030c82ec170ad626261bbf5&amp;chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=2&amp;sn=4534264dd030c82ec170ad626261bbf5&amp;chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd"/>
         <updated>2023-04-16T16:00:00.000Z</updated>
         <published>2023-04-16T16:00:00.000Z</published>
     </entry>
@@ -92,16 +106,16 @@
         <published>2023-04-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[推荐几个还行的前端朋友]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=1&amp;sn=8131fa338aef839954a8e3ca920302eb&amp;chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=1&amp;sn=8131fa338aef839954a8e3ca920302eb&amp;chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd"/>
+        <title type="html"><![CDATA[10大 Node.js 库可以帮助你优化代码和简化开发]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=2&amp;sn=df0b802a4ee59112335840f51c987aa4&amp;chksm=f992be68cee5377e985ee1172bc14b022667e11f3ce4071f539da1e4ebf131ae8c83628365c9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=2&amp;sn=df0b802a4ee59112335840f51c987aa4&amp;chksm=f992be68cee5377e985ee1172bc14b022667e11f3ce4071f539da1e4ebf131ae8c83628365c9#rd"/>
         <updated>2023-04-15T16:00:00.000Z</updated>
         <published>2023-04-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10大 Node.js 库可以帮助你优化代码和简化开发]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=2&amp;sn=df0b802a4ee59112335840f51c987aa4&amp;chksm=f992be68cee5377e985ee1172bc14b022667e11f3ce4071f539da1e4ebf131ae8c83628365c9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=2&amp;sn=df0b802a4ee59112335840f51c987aa4&amp;chksm=f992be68cee5377e985ee1172bc14b022667e11f3ce4071f539da1e4ebf131ae8c83628365c9#rd"/>
+        <title type="html"><![CDATA[推荐几个还行的前端朋友]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=1&amp;sn=8131fa338aef839954a8e3ca920302eb&amp;chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514297&amp;idx=1&amp;sn=8131fa338aef839954a8e3ca920302eb&amp;chksm=f992be68cee5377e9a927b5437c6a744efef9a611073d914b1dcaf56a9640b0b0711cf0b6897#rd"/>
         <updated>2023-04-15T16:00:00.000Z</updated>
         <published>2023-04-15T16:00:00.000Z</published>
     </entry>
@@ -139,19 +153,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261963&amp;idx=1&amp;sn=b0e27a7ca2efecece5b78d645cefa50b&amp;chksm=bd48d58f8a3f5c99052c2163c8bae84c49d191186f6eb0632b2097ae8e731f32857bb815d37a#rd"/>
         <updated>2023-04-14T16:00:00.000Z</updated>
         <published>2023-04-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】养成良好的行为习惯的四个方面]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261963&amp;idx=2&amp;sn=71bd32242bfb561edef3869fe2d71784&amp;chksm=bd48d58f8a3f5c998f291cf6e2419327b827c94499b5cb27d931a3ed48aabb9078f8e9ef5294#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651261963&amp;idx=2&amp;sn=71bd32242bfb561edef3869fe2d71784&amp;chksm=bd48d58f8a3f5c998f291cf6e2419327b827c94499b5cb27d931a3ed48aabb9078f8e9ef5294#rd"/>
-        <updated>2023-04-14T16:00:00.000Z</updated>
-        <published>2023-04-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 250 期）：新技术的最大风险]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html"/>
-        <updated>2023-04-13T16:00:00.000Z</updated>
-        <published>2023-04-13T16:00:00.000Z</published>
     </entry>
 </feed>
