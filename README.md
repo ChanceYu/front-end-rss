@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-20 21:00:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-21 06:00:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -67,6 +67,7 @@
 </summary>
 
 
+- [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635) ![](/assets/new.png)  
 - [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634)  
 - [2023-04-06-JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633)  
 - [2023-03-31-Import-maps-go-universal](https://javascriptweekly.com/issues/632)  
@@ -86,7 +87,6 @@
 - [2022-12-09-Vite-4.0-released](https://javascriptweekly.com/issues/618)  
 - [2022-12-02-Splitting-up-sentences-with-Intl.Segmenter](https://javascriptweekly.com/issues/617)  
 - [2022-11-25-JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)  
-- [2022-11-18-Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -98,7 +98,7 @@
 </summary>
 
 
-- [2023-04-20-【第2921期】实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262087&idx=1&sn=a62be53ec16e21b80387510504e4b486&chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd) ![](/assets/new.png)  
+- [2023-04-20-【第2921期】实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262087&idx=1&sn=a62be53ec16e21b80387510504e4b486&chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd)  
 - [2023-04-19-【第2920期】饿了么开源自研多端框架-MorJS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262014&idx=1&sn=b61aab3e6324a01e73dfcbd691c4d0ed&chksm=bd48d5ba8a3f5cac5db32670c2d568c2e86763aa7a0c265bba69ec0ef933ef74903fe6724869#rd)  
 - [2023-04-19-【早说】默认Ta不懂、不会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262014&idx=2&sn=24457277af059251317bc10fbe246a53&chksm=bd48d5ba8a3f5cac03ecf34da50ecb833d84d98a6a17bd3e44133007ade36d71bbf488d2ce14#rd)  
 - [2023-04-18-ChatGPT-to-Help：从此告别-Copy-&-Paste，多个-tabs-之间无缝畅聊](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262000&idx=2&sn=f18ce2afd8b47e81d3c98c385fa5ab14&chksm=bd48d5b48a3f5ca2b9e5af76d166cf4ae4d00e337e98e9009587fdd055f833f2577547ab5930#rd)  
@@ -129,8 +129,8 @@
 </summary>
 
 
-- [2023-04-20-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613583&idx=1&sn=21eefe27bf73b7fea2bcde91683a1b44&chksm=8022be4eb75537586158f7fa3d5e35265982ad19b96c98ba379962588d9f600aab52951322e3#rd) ![](/assets/new.png)  
-- [2023-04-20-Vue-中的响应性语法糖已废弃](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613583&idx=2&sn=2d17a2167d3881851b315ae7100680cf&chksm=8022be4eb7553758b3664c95174cad1503099712633a4aa5445747a51479f56013356bd90a66#rd) ![](/assets/new.png)  
+- [2023-04-20-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613583&idx=1&sn=21eefe27bf73b7fea2bcde91683a1b44&chksm=8022be4eb75537586158f7fa3d5e35265982ad19b96c98ba379962588d9f600aab52951322e3#rd)  
+- [2023-04-20-Vue-中的响应性语法糖已废弃](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613583&idx=2&sn=2d17a2167d3881851b315ae7100680cf&chksm=8022be4eb7553758b3664c95174cad1503099712633a4aa5445747a51479f56013356bd90a66#rd)  
 - [2023-04-19-Vue-前端设计模式梳理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613559&idx=2&sn=af75d9a234642ebcd8d767f8beddd0f2&chksm=8022beb6b75537a0f4052e0eb66e0e893bdd1d59d644910d3fa7310fb8df042fb607acc3dd78#rd)  
 - [2023-04-19-Chrome-发布首个-WebGPU-实现](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613559&idx=1&sn=fb113ab230519314c545219d8898ee8f&chksm=8022beb6b75537a0e8ad072c5bb749d20c36fb23717237809a738d99afc91b47b3d53ea4c322#rd)  
 - [2023-04-17-一起玩转-Vue-中的-JSX：让你一次性掌握它的特性!](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613488&idx=1&sn=ecd2ed249afeb91b9102ae5d73298965&chksm=8022bef1b75537e75a84a8407ff58d20d17f734dd57efa01c7a3c865aee8f520601345131e71#rd)  

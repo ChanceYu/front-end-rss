@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-20T13:00:35.303Z</updated>
+    <updated>2023-04-20T22:00:30.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[【第2921期】实践指南-前端性能提升 270%]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262087&amp;idx=1&amp;sn=a62be53ec16e21b80387510504e4b486&amp;chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262087&amp;idx=1&amp;sn=a62be53ec16e21b80387510504e4b486&amp;chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd"/>
+        <updated>2023-04-19T16:00:00.000Z</updated>
+        <published>2023-04-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On the origin of packages]]></title>
+        <id>https://javascriptweekly.com/issues/635</id>
+        <link href="https://javascriptweekly.com/issues/635"/>
         <updated>2023-04-19T16:00:00.000Z</updated>
         <published>2023-04-19T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[面了一个字节出来的大佬，见识到了基础天花板！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=1&amp;sn=2b639c0fa890129b1f2ca527796b6002&amp;chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=1&amp;sn=2b639c0fa890129b1f2ca527796b6002&amp;chksm=f992be6dcee5377b84675edef1937848b492dc4792a7375261d840f5315f23ea93d2d92558a6#rd"/>
-        <updated>2023-04-16T16:00:00.000Z</updated>
-        <published>2023-04-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊前端组件设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=2&amp;sn=4534264dd030c82ec170ad626261bbf5&amp;chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514300&amp;idx=2&amp;sn=4534264dd030c82ec170ad626261bbf5&amp;chksm=f992be6dcee5377b842d030dec269fc42862aee7fb33a0fc64d84075c9f78b050d7b3648a10f#rd"/>
         <updated>2023-04-16T16:00:00.000Z</updated>
         <published>2023-04-16T16:00:00.000Z</published>
     </entry>

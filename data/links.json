@@ -343,6 +343,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "On the origin of packages",
+        "link": "https://javascriptweekly.com/issues/635",
+        "date": "2023-04-20"
+      },
+      {
         "title": "The return of ECMAScript 2023 (and Angular)",
         "link": "https://javascriptweekly.com/issues/634",
         "date": "2023-04-13"
