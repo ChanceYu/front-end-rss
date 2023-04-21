@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-21 15:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-22 06:00:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -118,8 +118,8 @@
 - [2022-07-25-你还在直接用-localStorage-么？该提升下了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607697&idx=1&sn=71da80bc78a2f765a869a45b2d4fba2a&chksm=80228550b7550c464dbfb452c81abbc603164ec459015c56e335dd3b8eb3dae180eb94375b7c#rd) 
 - [2022-07-17-3.5k-Star！浏览器扩展开发神器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607579&idx=1&sn=5df045643f8dd5a52ed15ce96d91193a&chksm=802285dab7550ccc0602e2e385753d5d1e3411e7cce678ee8394c613fa50e9e05862fc2b34c7#rd) 
 - [2022-07-10-深入讲解-VsCode-各场景高级调试与使用技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651606975&idx=2&sn=819b44f90b6f749d1a7364d666711ab8&chksm=8022987eb755116816b1b0796aada51eca12a9318b948fc54c742deee364453f5be842a4231d#rd) 
-- [2022-07-05-Websocket-被玩出了多种花样！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605817&idx=1&sn=b808f93caba9670436424afe41607f20&chksm=80229cf8b75515eee1ee29c4dd3a234f287b62c4f9893f04d339fe7b5a16554ca7a5a9f1ed9c#rd) 
 - [2022-07-05-某一线前端小组长的-Code-Review-分享](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605817&idx=2&sn=164df68ef8a128866edac43fe305c4b3&chksm=80229cf8b75515eeae15f8b7cd7084b2fd5bbf74a6a291a1a1599a22d413f9e95bc004565889#rd) 
+- [2022-07-05-Websocket-被玩出了多种花样！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605817&idx=1&sn=b808f93caba9670436424afe41607f20&chksm=80229cf8b75515eee1ee29c4dd3a234f287b62c4f9893f04d339fe7b5a16554ca7a5a9f1ed9c#rd) 
 - [2022-05-21-IE-正式退役！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603539&idx=2&sn=ff5bb80412735a5109ff9decc69771bb&chksm=80229592b7551c847616ffbc5f2744af4b9255059939da07d3eca3dcf66d85144b0394890b52#rd) 
 - [2022-05-19-学会这篇就够了，彻底弄懂前端缓存](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603437&idx=2&sn=6508c022bf699f0b2ce2330fa379d8b0&chksm=8022962cb7551f3a69dc03689675b36bdd3f3a25bb7ee4f9a7896c76e261772044759f724f12#rd) 
 - [2022-05-18-Python-已可在浏览器端运行，来抢前端饭碗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603430&idx=1&sn=58b218bd6ae2a67aa9104e50934fe087&chksm=80229627b7551f31b593dc846f1121946c02e743c09fd6e5c5996499d661225f9caadb0c9d73#rd) 
@@ -259,6 +259,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2023-04-21-Safari-版本更新？开发者的噩梦之旅！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520665&idx=1&sn=48755ccc3ff1a16b88cf2a1862a9dfce&chksm=f95224dace25adcc12da6402b0aa4704a472516a1aa3eca46c4f0821f3da15fe48edc7301b7e#rd) 
 - [2023-04-14-Web框架Astro-2.0发布，在静态和动态渲染之外提供了混合渲染能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520612&idx=1&sn=0607ae29aed553513c14f6c1e82c0812&chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd) 
 - [2023-04-10-谷歌正式发布WebGPU！90多位贡献者研发6年，浏览器终于可以利用底层硬件了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520595&idx=1&sn=65e7bd2341c8127350dbcf6354640127&chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd) 
 - [2023-03-08-和谷歌一样，Mozilla也在期待苹果终结Webkit规则](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520157&idx=1&sn=45b694e300c1f984600d5a9dd099df44&chksm=f9523adece25b3c871f42df08bd925a45ea0336d97350e81241f75744b5c2c91991475f7f7a7#rd) 
