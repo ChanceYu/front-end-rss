@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-21 10:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-21 12:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -848,6 +848,7 @@
 - [2018-09-30-Next.js-7.0正式发布：重新编译速度提高42％，支持WebAssembly](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489615&idx=1&sn=c98f7e6cb0bf62152c888a04f8219827#wechat_redirect) 
 - [2018-09-22-Stack-Overflow预测：Python将在五年内超越JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489558&idx=1&sn=ab8ae227e954877d5281edda5a6e8e19#wechat_redirect) 
 - [2018-09-20-你拆分JS代码的方法可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489547&idx=1&sn=63513db0896a37c26c850610bb926171#wechat_redirect) 
+- [2023-04-21-JS-中-10-个-你不知道的-try...catch-使用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488434&idx=1&sn=db3a56d8a7807a8b791e8d79f5a5c1bc&chksm=ce460623f9318f35f77f897867c602a83c5d096fe839282cd5fbe75e54b4114953d7fc30400f#rd) 
 - [2023-04-14-面试官：如果100个请求，你怎么用Promise去控制并发？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488342&idx=1&sn=53e5f5e339a26646c992c2e3c8887786&chksm=ce4606c7f9318fd1ac73ae911cc146ab28249e1113569de80d33eac962355e378d3794aa84d3#rd) 
 - [2023-04-08-我希望大家花1小时把【虚拟滚动】牢牢学在脑里！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488262&idx=1&sn=6bb5c9e5d203c142c313a70a3e599152&chksm=ce460697f9318f815e17b96569116f9d8f2574c1de7e2f732ccee1cc83cbb51bd9edb16dbf8f#rd) 
 - [2023-04-01-async/await-到底要不要加-try-catch？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488185&idx=1&sn=67345869ea333f9b795176230a79aa58&chksm=ce460728f9318e3ecdefb018bc6ac97b5eeff34724ac0c20fc2aeb7b2285bba9c137e21a1968#rd) 
