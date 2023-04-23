@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-23 23:06:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-24 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,11 +19,11 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -191,6 +191,7 @@
 </summary>
 
 
+- [2023-04-23-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488446&idx=1&sn=e1f5985949a1f41fbc1732de0ebcf78e&chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd) ![](/assets/new.png)  
 - [2023-04-21-JS-中-10-个-你不知道的-try...catch-使用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488434&idx=1&sn=db3a56d8a7807a8b791e8d79f5a5c1bc&chksm=ce460623f9318f35f77f897867c602a83c5d096fe839282cd5fbe75e54b4114953d7fc30400f#rd)  
 - [2023-04-19-接手一个五年老项目！慢慢改造，持续更新改造计划！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488404&idx=1&sn=08a3deaa1baec7282648f40853cc35b0&chksm=ce460605f9318f13c29bc0fb2ad0ba5a08c3fddac5bfd6d8c526e04cd9615fa0e8b2d517bb46#rd)  
 - [2023-04-18-久等了，全新Vue3.2手写移动电商，开源！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488391&idx=1&sn=5d941f111b1479e3d7550c79c6a9644a&chksm=ce460616f9318f0005d448e9402bd4c44b8cbc11e549df8f4503dd1d5a68048fbc74b5dad433#rd)  
@@ -210,7 +211,6 @@
 - [2023-04-03-分享十二个字节前端写的代码片段，你跟他们差在哪你知道吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488201&idx=1&sn=815f932a3c1b4dd708b60a08d21e4672&chksm=ce460758f9318e4eaabe0b2c503af07830593438dc0a8e9eae287568380e60d2aeff216191ac#rd)  
 - [2023-04-02-刚工作三天就被裁是一种怎样的体验](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488195&idx=1&sn=3ac220f27541c5208077a6d31aad5a8e&chksm=ce460752f9318e44cdb189d58bb7922f93cba2a0049e31b01bf343a84790377c2773ea638a07#rd)  
 - [2023-04-01-async/await-到底要不要加-try-catch？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488185&idx=1&sn=67345869ea333f9b795176230a79aa58&chksm=ce460728f9318e3ecdefb018bc6ac97b5eeff34724ac0c20fc2aeb7b2285bba9c137e21a1968#rd)  
-- [2023-03-31-ChatGPT-出现后，前端真的还有机会吗？还得看你自己！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488177&idx=1&sn=1d976244afe22d9d7fe3525dc7fdbda0&chksm=ce460720f9318e3666daa08013f26997cec5c72c6cf59af0a635a59b748032def2d5c389f788#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -315,7 +315,7 @@
 </summary>
 
 
-- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) ![](/assets/new.png)  
+- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  

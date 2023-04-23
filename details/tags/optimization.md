@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-23 23:06:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-24 06:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -149,6 +149,7 @@
 - [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect) 
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
+- [2023-04-23-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488446&idx=1&sn=e1f5985949a1f41fbc1732de0ebcf78e&chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd) 
 - [2023-03-25-我帮同事优化代码，速度快了1000倍以上！！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488109&idx=1&sn=9d2b993a68126a6d723e1638283817b7&chksm=ce4607fcf9318eea7b06b52543757482bb37e53ae0861bbaa4c0498a9e55a31b870f0a778d30#rd) 
 - [2023-01-27-代码太多if-else？教你优化代码，老大对你刮目相看！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487642&idx=1&sn=fa492a7f368a098ac63f11c3cfa7b9bc&chksm=ce46050bf9318c1d077db0513ea1a9cea5ab63f45ccae2643c8338494566eef25d9f135259ca#rd) 
 - [2023-01-11-当聊到前端性能优化时，我们会关注什么？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487585&idx=1&sn=b642ed9a9d20af0def41b876a914ba72&chksm=ce4605f0f9318ce68fd13965ab2bc238a6db53bec37f6e24043b7d126186950aba6d0ed42942#rd) 

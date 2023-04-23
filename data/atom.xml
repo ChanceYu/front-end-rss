@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-23T15:06:33.171Z</updated>
+    <updated>2023-04-23T22:00:31.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[前端正确处理“文字溢出”的思路]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514358&amp;idx=1&amp;sn=643a70f9090490fbf72d6906fcb6f569&amp;chksm=f992be27cee537317de6667b4049ed701052181df116820b10c8683c2bbede90817f4276a05a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514358&amp;idx=1&amp;sn=643a70f9090490fbf72d6906fcb6f569&amp;chksm=f992be27cee537317de6667b4049ed701052181df116820b10c8683c2bbede90817f4276a05a#rd"/>
+        <updated>2023-04-22T16:00:00.000Z</updated>
+        <published>2023-04-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[页面一打开就有30个重复请求，我要怎么优化？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488446&amp;idx=1&amp;sn=e1f5985949a1f41fbc1732de0ebcf78e&amp;chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488446&amp;idx=1&amp;sn=e1f5985949a1f41fbc1732de0ebcf78e&amp;chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd"/>
         <updated>2023-04-22T16:00:00.000Z</updated>
         <published>2023-04-22T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[【第2921期】实践指南-前端性能提升 270%]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262087&amp;idx=1&amp;sn=a62be53ec16e21b80387510504e4b486&amp;chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262087&amp;idx=1&amp;sn=a62be53ec16e21b80387510504e4b486&amp;chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd"/>
-        <updated>2023-04-19T16:00:00.000Z</updated>
-        <published>2023-04-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On the origin of packages]]></title>
-        <id>https://javascriptweekly.com/issues/635</id>
-        <link href="https://javascriptweekly.com/issues/635"/>
         <updated>2023-04-19T16:00:00.000Z</updated>
         <published>2023-04-19T16:00:00.000Z</published>
     </entry>
