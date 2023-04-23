@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-23 12:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-23 23:06:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -2552,6 +2552,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/) 
 - [2022-11-06-Web前端开发中的反向与倒序](https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/) 
 - [2022-11-05-关于list-style-type项目符号你应该知道的事情](https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/) 
 - [2022-09-21-划词评论与Range开发若干经验分享](https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-23T04:00:31.758Z</updated>
+    <updated>2023-04-23T15:06:33.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[AI代码辅助工具codeium和copilot在前端表现对比]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/"/>
+        <updated>2023-04-22T16:00:00.000Z</updated>
+        <published>2023-04-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端正确处理“文字溢出”的思路]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514358&amp;idx=1&amp;sn=643a70f9090490fbf72d6906fcb6f569&amp;chksm=f992be27cee537317de6667b4049ed701052181df116820b10c8683c2bbede90817f4276a05a#rd</id>
@@ -146,12 +153,5 @@
         <link href="https://javascriptweekly.com/issues/635"/>
         <updated>2023-04-19T16:00:00.000Z</updated>
         <published>2023-04-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原生 canvas 如何实现大屏?]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514345&amp;idx=1&amp;sn=e2155630359c2ef1948ce5c13ffadb18&amp;chksm=f992be38cee5372e49a8f94917f5affb53671d9672430f39a73ff94a4bc9c2123868a16a6040#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514345&amp;idx=1&amp;sn=e2155630359c2ef1948ce5c13ffadb18&amp;chksm=f992be38cee5372e49a8f94917f5affb53671d9672430f39a73ff94a4bc9c2123868a16a6040#rd"/>
-        <updated>2023-04-18T16:00:00.000Z</updated>
-        <published>2023-04-18T16:00:00.000Z</published>
     </entry>
 </feed>
