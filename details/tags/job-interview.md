@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-24 10:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-24 21:00:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -323,8 +323,8 @@
 - [2020-05-07-「面试心理学」面试前的思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558307&idx=1&sn=958b663d10ab51b919e676e3360cf4ab&chksm=80254662b752cf7400a356f87a27edc4c727fcec6855e6698d8bce43a660d63d273193fe7971&scene=27#wechat_redirect) 
 - [2020-05-01-高频前端面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558273&idx=1&sn=0ad197e3c89520ecc635c2d3f1d21360&chksm=80254640b752cf56105618b585e95364690b639b6d64a9c168bae705b2fab03abf1de4570294&scene=27#wechat_redirect) 
 - [2020-03-08-如何轻松拿到淘宝前端-offer](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557993&idx=1&sn=a95adcca9ff6c7c45cee8c41ac13f194&chksm=802547a8b752cebe50145f67e6f6e317ced23cc5e647044e950c29e1c9eb3f0c3e0612e131b8&scene=27#wechat_redirect) 
-- [2020-02-26-三年大厂面试官：二面题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=2&sn=ab8948496371ed0293128dba5df83f71&chksm=802547efb752cef9eb0057700150dba49059a6cf61dffe28a6a832ad55893235bf02672e5fc7&scene=27#wechat_redirect) 
 - [2020-02-26-招聘量骤减，70%的求职者被拒，开发者该如何突围？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=1&sn=446126bd1625c3ad1bd8f872674819b1&chksm=802547efb752cef98048cdcb4d9777311a407818b4ed272d063df6c24b47795213bc60aa4107&scene=27#wechat_redirect) 
+- [2020-02-26-三年大厂面试官：二面题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557934&idx=2&sn=ab8948496371ed0293128dba5df83f71&chksm=802547efb752cef9eb0057700150dba49059a6cf61dffe28a6a832ad55893235bf02672e5fc7&scene=27#wechat_redirect) 
 - [2020-02-10-还闲在家？年后必考的面试题都准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557846&idx=1&sn=bf39b948b818beb197f3042af79175d2&chksm=80255817b752d101f3398c47addee5de1315eb81b69712c7f25af66aad283eac5682314d9f9c&scene=27#wechat_redirect) 
 - [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect) 
 - [2020-01-14-面试常考手写代码学习技巧总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=2&sn=252c3f2a20d0a72019e7883554e399d0&chksm=802558a3b752d1b5345df71b30464b3b649c003e2c4e09718ab1c747d546b2e2df23e68378f2&scene=27#wechat_redirect) 
@@ -356,6 +356,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-04-24-阿里P8大佬：小伙子，你前端面试稳了…](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488479&idx=1&sn=c099bc0a68a6124ee8437952a4322653&chksm=ce46064ef9318f586e3875cea97737fc88b95f44d3c5305edf53db9ce94b8ad1bcf3142dcf49#rd) 
 - [2023-04-16-2小时面试，就因为不会计算机底层，博士把我挂了。。](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488349&idx=1&sn=b82eb9efba3deb3bccbf0cf613fd8973&chksm=ce4606ccf9318fda576b204f29ab3d27be98470813bc1c2773a7413ebfbf57fb70087c3cdc7e#rd) 
 - [2023-04-13-2023年前端该看哪些面试题呢？顺应时代，方可生存！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488321&idx=1&sn=026bb77185c9e8d4d68e8ac4693323fe&chksm=ce4606d0f9318fc6511771ffebccc59b85a74b9fed7eb499f28b46ac93ed46d4f05c2b5560cd#rd) 
 - [2023-03-30-通过简历初筛？不好好背背面试题，你照样过不了面试！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488156&idx=1&sn=aa075e3f67f9354f1265bae4d49a2db8&chksm=ce46070df9318e1b5c3811678e2a96440114f9e4a78a5317ab9a07deb4d75f61f76510aea627#rd) 
