@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-24T13:00:33.778Z</updated>
+    <updated>2023-04-24T15:00:39.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[肝完《浏览器基本原理与实践》后，我总结了这 36  点]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514365&amp;idx=2&amp;sn=42416bf0e68f339e71ed317414c03db0&amp;chksm=f992be2ccee5373a44b4a3dce36faa4a79c9ff116d6dd982dd53b5692d8dfb9d1d2a4fa2b290#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514365&amp;idx=2&amp;sn=42416bf0e68f339e71ed317414c03db0&amp;chksm=f992be2ccee5373a44b4a3dce36faa4a79c9ff116d6dd982dd53b5692d8dfb9d1d2a4fa2b290#rd"/>
+        <updated>2023-04-23T16:00:00.000Z</updated>
+        <published>2023-04-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里面试官：小伙子你这前端水平可以啊！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514365&amp;idx=1&amp;sn=ddd80403a23235e4f48dd98711637628&amp;chksm=f992be2ccee5373afb24ff556d774b4a9c99f1c3a13a1cdd3cd2417cf83ccb18eacc9b7ae558#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514365&amp;idx=1&amp;sn=ddd80403a23235e4f48dd98711637628&amp;chksm=f992be2ccee5373afb24ff556d774b4a9c99f1c3a13a1cdd3cd2417cf83ccb18eacc9b7ae558#rd"/>
+        <updated>2023-04-23T16:00:00.000Z</updated>
+        <published>2023-04-23T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿里P8大佬：小伙子，你前端面试稳了…]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488479&amp;idx=1&amp;sn=c099bc0a68a6124ee8437952a4322653&amp;chksm=ce46064ef9318f586e3875cea97737fc88b95f44d3c5305edf53db9ce94b8ad1bcf3142dcf49#rd</id>
@@ -137,20 +151,6 @@
         <title type="html"><![CDATA[生产上的问题你不会用 sourcemap 定位吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613834&amp;idx=2&amp;sn=d4399285dd9ac72ae7750bf45d8e395e&amp;chksm=8022bd4bb755345d6c9686e4a8e26bba520ffadcb18e3e1c0d86724a10cb4ddfabf8786c9338#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613834&amp;idx=2&amp;sn=d4399285dd9ac72ae7750bf45d8e395e&amp;chksm=8022bd4bb755345d6c9686e4a8e26bba520ffadcb18e3e1c0d86724a10cb4ddfabf8786c9338#rd"/>
-        <updated>2023-04-20T16:00:00.000Z</updated>
-        <published>2023-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Vue3 的可视化编辑器Everright-formEditor开源]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262109&amp;idx=2&amp;sn=8b6a8e776cb2356bb42605d79d801e44&amp;chksm=bd48d5198a3f5c0fd7bd7315015ad2196ba695a391460d7bb1a94e5431d3cc765d9726685c5c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262109&amp;idx=2&amp;sn=8b6a8e776cb2356bb42605d79d801e44&amp;chksm=bd48d5198a3f5c0fd7bd7315015ad2196ba695a391460d7bb1a94e5431d3cc765d9726685c5c#rd"/>
-        <updated>2023-04-20T16:00:00.000Z</updated>
-        <published>2023-04-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2922期】对于质量保障，前端职能该做些什么？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262109&amp;idx=1&amp;sn=71346ba808241e310abbeacadd8ffbaa&amp;chksm=bd48d5198a3f5c0f0a3d285ec1edb88352d4c970cf53f49f41b2de203355266c0c4de2c95290#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262109&amp;idx=1&amp;sn=71346ba808241e310abbeacadd8ffbaa&amp;chksm=bd48d5198a3f5c0f0a3d285ec1edb88352d4c970cf53f49f41b2de203355266c0c4de2c95290#rd"/>
         <updated>2023-04-20T16:00:00.000Z</updated>
         <published>2023-04-20T16:00:00.000Z</published>
     </entry>
