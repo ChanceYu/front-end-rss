@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-25T07:00:38.302Z</updated>
+    <updated>2023-04-25T13:00:59.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[【第2926期】spellcheck：使用一个 HTML5 属性检查拼写错误]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=1&amp;sn=83e9d1c01d3fb6696c8a4e3a9cdf0ade&amp;chksm=bd48d4d08a3f5dc6f7928afd0b66e0bbc47401334b43b31f51663072673300dff8098b18bd95#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=1&amp;sn=83e9d1c01d3fb6696c8a4e3a9cdf0ade&amp;chksm=bd48d4d08a3f5dc6f7928afd0b66e0bbc47401334b43b31f51663072673300dff8098b18bd95#rd"/>
+        <updated>2023-04-24T16:00:00.000Z</updated>
+        <published>2023-04-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Performance with Rust-y Node addons]]></title>
+        <id>https://nodeweekly.com/issues/483</id>
+        <link href="https://nodeweekly.com/issues/483"/>
         <updated>2023-04-24T16:00:00.000Z</updated>
         <published>2023-04-24T16:00:00.000Z</published>
     </entry>
@@ -146,12 +153,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262205&amp;idx=2&amp;sn=d265fcbaa186652fc76ed433c02e8121&amp;chksm=bd48d5798a3f5c6f73eb07836bd44d18ec7c8dcbcb17cf5bc1207325d232432005f3f624a1df#rd"/>
         <updated>2023-04-21T16:00:00.000Z</updated>
         <published>2023-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 251 期）：国产单板机值得推荐]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html"/>
-        <updated>2023-04-20T16:00:00.000Z</updated>
-        <published>2023-04-20T16:00:00.000Z</published>
     </entry>
 </feed>

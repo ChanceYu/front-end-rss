@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Performance with Rust-y Node addons",
+        "link": "https://nodeweekly.com/issues/483",
+        "date": "2023-04-25"
+      },
+      {
         "title": "Node v20 released",
         "link": "https://nodeweekly.com/issues/482",
         "date": "2023-04-18"
