@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-26T00:01:14.658Z</updated>
+    <updated>2023-04-26T07:00:31.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[三分钟，教你三种前端埋点方式！再也不怕面试被问到埋点了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488520&amp;idx=1&amp;sn=5045759223d5b03c98f9bddeafa686ed&amp;chksm=ce460199f931888f56219f1bd31e99f1f074bd11caeec1ff86ad9a1da39399e3ab84500dcbe4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488520&amp;idx=1&amp;sn=5045759223d5b03c98f9bddeafa686ed&amp;chksm=ce460199f931888f56219f1bd31e99f1f074bd11caeec1ff86ad9a1da39399e3ab84500dcbe4#rd"/>
+        <updated>2023-04-25T16:00:00.000Z</updated>
+        <published>2023-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索在 JS 中，为什么要在函数前面加！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=2&amp;sn=cac042d2e5c76db5a340b6837d41231d&amp;chksm=8022bd7ab755346c2d5c217708e2c173fbab4de833f13de4be9d1a72adbd12ff2938a52e418d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=2&amp;sn=cac042d2e5c76db5a340b6837d41231d&amp;chksm=8022bd7ab755346c2d5c217708e2c173fbab4de833f13de4be9d1a72adbd12ff2938a52e418d#rd"/>
+        <updated>2023-04-25T16:00:00.000Z</updated>
+        <published>2023-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强到离谱！阿里前端大佬面试全套笔记，带你进阶高级前端！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=1&amp;sn=d283aad61fc44eb394cd257b4fe28244&amp;chksm=8022bd7ab755346c7889a37fc05664a9b8b906755af0b37defe94c0bbd86157be16838f72c5d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=1&amp;sn=d283aad61fc44eb394cd257b4fe28244&amp;chksm=8022bd7ab755346c7889a37fc05664a9b8b906755af0b37defe94c0bbd86157be16838f72c5d#rd"/>
+        <updated>2023-04-25T16:00:00.000Z</updated>
+        <published>2023-04-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【图书】设计体系：数字产品设计的系统化方法]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262309&amp;idx=2&amp;sn=008d784064023ed2b0b4fa1af60fcef6&amp;chksm=bd48d4e18a3f5df7a4eeebbb718d80bc38863c94db212c17ad61aa4e14bfeb555dbc5d8bea8e#rd</id>
@@ -99,16 +120,16 @@
         <published>2023-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TailwindCSS 的使用，看这一篇就够了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=2&amp;sn=d2cf670013b374f136226b90dad1887e&amp;chksm=8022bd5fb7553449a9bbcafddf97f044eef459777523612ab9abb643bec6c08cedbe562f85fb#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=2&amp;sn=d2cf670013b374f136226b90dad1887e&amp;chksm=8022bd5fb7553449a9bbcafddf97f044eef459777523612ab9abb643bec6c08cedbe562f85fb#rd"/>
+        <title type="html"><![CDATA[2023 年了，还有前端人不知道 commit 规范 ？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=1&amp;sn=a19ab3e82861c8042ad9f56e2ba41955&amp;chksm=8022bd5fb755344935f0d4f629384c885ab47a2e1c4f911e3bf76745f7aa2c467ef401a94483#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=1&amp;sn=a19ab3e82861c8042ad9f56e2ba41955&amp;chksm=8022bd5fb755344935f0d4f629384c885ab47a2e1c4f911e3bf76745f7aa2c467ef401a94483#rd"/>
         <updated>2023-04-23T16:00:00.000Z</updated>
         <published>2023-04-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 年了，还有前端人不知道 commit 规范 ？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=1&amp;sn=a19ab3e82861c8042ad9f56e2ba41955&amp;chksm=8022bd5fb755344935f0d4f629384c885ab47a2e1c4f911e3bf76745f7aa2c467ef401a94483#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=1&amp;sn=a19ab3e82861c8042ad9f56e2ba41955&amp;chksm=8022bd5fb755344935f0d4f629384c885ab47a2e1c4f911e3bf76745f7aa2c467ef401a94483#rd"/>
+        <title type="html"><![CDATA[TailwindCSS 的使用，看这一篇就够了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=2&amp;sn=d2cf670013b374f136226b90dad1887e&amp;chksm=8022bd5fb7553449a9bbcafddf97f044eef459777523612ab9abb643bec6c08cedbe562f85fb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=2&amp;sn=d2cf670013b374f136226b90dad1887e&amp;chksm=8022bd5fb7553449a9bbcafddf97f044eef459777523612ab9abb643bec6c08cedbe562f85fb#rd"/>
         <updated>2023-04-23T16:00:00.000Z</updated>
         <published>2023-04-23T16:00:00.000Z</published>
     </entry>
@@ -130,27 +151,6 @@
         <title type="html"><![CDATA[AI代码辅助工具codeium和copilot在前端表现对比]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/"/>
-        <updated>2023-04-22T16:00:00.000Z</updated>
-        <published>2023-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端正确处理“文字溢出”的思路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514358&amp;idx=1&amp;sn=643a70f9090490fbf72d6906fcb6f569&amp;chksm=f992be27cee537317de6667b4049ed701052181df116820b10c8683c2bbede90817f4276a05a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514358&amp;idx=1&amp;sn=643a70f9090490fbf72d6906fcb6f569&amp;chksm=f992be27cee537317de6667b4049ed701052181df116820b10c8683c2bbede90817f4276a05a#rd"/>
-        <updated>2023-04-22T16:00:00.000Z</updated>
-        <published>2023-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[页面一打开就有30个重复请求，我要怎么优化？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488446&amp;idx=1&amp;sn=e1f5985949a1f41fbc1732de0ebcf78e&amp;chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488446&amp;idx=1&amp;sn=e1f5985949a1f41fbc1732de0ebcf78e&amp;chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd"/>
-        <updated>2023-04-22T16:00:00.000Z</updated>
-        <published>2023-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2924期】如何在 Gitlab 中使用 ChatGPT 进行 CodeReview]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262246&amp;idx=1&amp;sn=b6f736e9993625dff33696b58910edef&amp;chksm=bd48d4a28a3f5db45c7c74c93e5ce59c6b2671933e22a828b00cb659f0ec1a4b16a5d4be7559#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262246&amp;idx=1&amp;sn=b6f736e9993625dff33696b58910edef&amp;chksm=bd48d4a28a3f5db45c7c74c93e5ce59c6b2671933e22a828b00cb659f0ec1a4b16a5d4be7559#rd"/>
         <updated>2023-04-22T16:00:00.000Z</updated>
         <published>2023-04-22T16:00:00.000Z</published>
     </entry>
