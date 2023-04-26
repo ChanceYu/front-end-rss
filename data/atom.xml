@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-26T13:00:31.510Z</updated>
+    <updated>2023-04-26T22:00:30.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[三分钟，教你三种前端埋点方式！再也不怕面试被问到埋点了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488520&amp;idx=1&amp;sn=5045759223d5b03c98f9bddeafa686ed&amp;chksm=ce460199f931888f56219f1bd31e99f1f074bd11caeec1ff86ad9a1da39399e3ab84500dcbe4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488520&amp;idx=1&amp;sn=5045759223d5b03c98f9bddeafa686ed&amp;chksm=ce460199f931888f56219f1bd31e99f1f074bd11caeec1ff86ad9a1da39399e3ab84500dcbe4#rd"/>
+        <updated>2023-04-25T16:00:00.000Z</updated>
+        <published>2023-04-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从新React文档看未来Web的开发趋势]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520710&amp;idx=1&amp;sn=5d3b2e522654f9a0f1443aafe98e16f1&amp;chksm=f9522485ce25ad93eece7604787093e5e6956c4fbe86a59d18e08ac413518905398f530f57f0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520710&amp;idx=1&amp;sn=5d3b2e522654f9a0f1443aafe98e16f1&amp;chksm=f9522485ce25ad93eece7604787093e5e6956c4fbe86a59d18e08ac413518905398f530f57f0#rd"/>
         <updated>2023-04-25T16:00:00.000Z</updated>
         <published>2023-04-25T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[TailwindCSS 的使用，看这一篇就够了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=2&amp;sn=d2cf670013b374f136226b90dad1887e&amp;chksm=8022bd5fb7553449a9bbcafddf97f044eef459777523612ab9abb643bec6c08cedbe562f85fb#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613854&amp;idx=2&amp;sn=d2cf670013b374f136226b90dad1887e&amp;chksm=8022bd5fb7553449a9bbcafddf97f044eef459777523612ab9abb643bec6c08cedbe562f85fb#rd"/>
-        <updated>2023-04-23T16:00:00.000Z</updated>
-        <published>2023-04-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】上海得物招前端技术专家、资深/高级前端工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262264&amp;idx=2&amp;sn=3ac61d908c76cc33dbb76a4d48952f8f&amp;chksm=bd48d4bc8a3f5daa678a4a24931a4c2a4004718bb29ffef68c656a4301ec120544313c8be7d8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262264&amp;idx=2&amp;sn=3ac61d908c76cc33dbb76a4d48952f8f&amp;chksm=bd48d4bc8a3f5daa678a4a24931a4c2a4004718bb29ffef68c656a4301ec120544313c8be7d8#rd"/>
         <updated>2023-04-23T16:00:00.000Z</updated>
         <published>2023-04-23T16:00:00.000Z</published>
     </entry>
