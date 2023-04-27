@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-27 06:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-27 10:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -277,6 +277,7 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2023-04-27-闲来无事，摸鱼时让-chatgpt-帮忙，写了一个-console-样式增强库并发布-npm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514387&idx=2&sn=d34c92b8f56059775bd3a295577da43e&chksm=f992bfc2cee536d429411a895e99af302dd6c761f8cf18af27d5ba87dfeb2f40964ebfd0dc25#rd) 
 - [2023-04-06-Web组件构建库-Lit](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514120&idx=2&sn=e9ac0e00573b0e3bcb500bd081e0effa&chksm=f992bed9cee537cf0b3de1d42a001073ed1513c460a08114cbac4b7b0b6184fe0860e30fac3c#rd) 
 - [2023-03-22-如何规范地发布一个现代化的-NPM-包？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513750&idx=2&sn=187f1dbf706cb278d1f21e6beb121067&chksm=f992b047cee53951c045dddff0712c029d0e5857fbe70b826c01c721cc92bf6b342450b30a57#rd) 
 - [2023-03-07-gulp、webpack、rollup、vite实现原理](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513571&idx=1&sn=30c72a780a3273b5efcdecbb2a243aac&chksm=f992b332cee53a243cec00ac2da747be4bfd6254400908ed6a7c5b6ff1f954d169537e7fe94e#rd) 
