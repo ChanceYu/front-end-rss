@@ -348,6 +348,11 @@
     "title": "JavaScript-Weekly",
     "items": [
       {
+        "title": "Did you know JavaScript is trademarked?",
+        "link": "https://javascriptweekly.com/issues/636",
+        "date": "2023-04-27"
+      },
+      {
         "title": "On the origin of packages",
         "link": "https://javascriptweekly.com/issues/635",
         "date": "2023-04-20"

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-04-21 06:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-28 06:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636) 
 - [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635) 
 - [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634) 
 - [2023-04-06-JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633) 

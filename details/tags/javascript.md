@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-27 21:00:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-28 06:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -10,6 +10,7 @@
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636) 
 - [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634) 
 - [2023-04-06-JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633) 
 - [2023-03-31-Import-maps-go-universal](https://javascriptweekly.com/issues/632) 
