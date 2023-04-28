@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-28T02:00:29.773Z</updated>
+    <updated>2023-04-28T04:00:32.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 252 期）：互联网创业变难了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html"/>
+        <updated>2023-04-27T16:00:00.000Z</updated>
+        <published>2023-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十年架构重构，为多端统一，QQ 选用了 Electron]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520788&amp;idx=1&amp;sn=f7c940ba9fc1c5a5f90832c90ff5297d&amp;chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520788&amp;idx=1&amp;sn=f7c940ba9fc1c5a5f90832c90ff5297d&amp;chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd"/>
         <updated>2023-04-27T16:00:00.000Z</updated>
         <published>2023-04-27T16:00:00.000Z</published>
     </entry>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[图形编辑器vue-fabric-editor开源]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=2&amp;sn=e6b1eda09b19e30d68822d3175a6e23e&amp;chksm=bd48d4d08a3f5dc6cc2077cb5c78d6bb6d140c5707f5dfff782bd1b88dcdc4a15693c22893d4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=2&amp;sn=e6b1eda09b19e30d68822d3175a6e23e&amp;chksm=bd48d4d08a3f5dc6cc2077cb5c78d6bb6d140c5707f5dfff782bd1b88dcdc4a15693c22893d4#rd"/>
-        <updated>2023-04-24T16:00:00.000Z</updated>
-        <published>2023-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2926期】spellcheck：使用一个 HTML5 属性检查拼写错误]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=1&amp;sn=83e9d1c01d3fb6696c8a4e3a9cdf0ade&amp;chksm=bd48d4d08a3f5dc6f7928afd0b66e0bbc47401334b43b31f51663072673300dff8098b18bd95#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=1&amp;sn=83e9d1c01d3fb6696c8a4e3a9cdf0ade&amp;chksm=bd48d4d08a3f5dc6f7928afd0b66e0bbc47401334b43b31f51663072673300dff8098b18bd95#rd"/>
         <updated>2023-04-24T16:00:00.000Z</updated>
         <published>2023-04-24T16:00:00.000Z</published>
     </entry>

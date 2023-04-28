@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-04-28 10:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-28 12:00:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -169,6 +169,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2023-04-28-十年架构重构，为多端统一，QQ-选用了-Electron](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520788&idx=1&sn=f7c940ba9fc1c5a5f90832c90ff5297d&chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd) 
 - [2023-04-19-Node.js-20-正式发布，新特性一览](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520650&idx=1&sn=c3fb7a8783b1899d8b56f8d549046fdf&chksm=f95224c9ce25addf39f4ca012c599d76cf800a890f8814db184605738f9ed7a6ab73ff80ac92#rd) 
 - [2023-04-03-弃用-Electron，微软重新设计-Microsoft-Teams：速度提升-2-倍，内存减少-50%](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520562&idx=1&sn=b533cf4293733443ebe15ff4e31eb788&chksm=f9522471ce25ad67e5d427d2593484a94810e487e9f9805cd61a92b6eb2d02bcc99c329b9250#rd) 
 - [2022-11-09-Node.js中的关注点分离](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=1&sn=bfbf08e43cf252f1cecb431c172b446f&chksm=f9523dbbce25b4ad92e2c2f8cc037528ac9c2f54e6c02215b557bf7755d9bf8fcd6116017712#rd) 
