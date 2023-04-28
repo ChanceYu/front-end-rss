@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-27T22:00:50.715Z</updated>
+    <updated>2023-04-28T02:00:29.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 252 期）：互联网创业变难了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html"/>
+        <updated>2023-04-27T16:00:00.000Z</updated>
+        <published>2023-04-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闲来无事，摸鱼时让 chatgpt 帮忙，写了一个 console 样式增强库并发布 npm]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514387&amp;idx=2&amp;sn=d34c92b8f56059775bd3a295577da43e&amp;chksm=f992bfc2cee536d429411a895e99af302dd6c761f8cf18af27d5ba87dfeb2f40964ebfd0dc25#rd</id>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[【第2926期】spellcheck：使用一个 HTML5 属性检查拼写错误]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=1&amp;sn=83e9d1c01d3fb6696c8a4e3a9cdf0ade&amp;chksm=bd48d4d08a3f5dc6f7928afd0b66e0bbc47401334b43b31f51663072673300dff8098b18bd95#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262292&amp;idx=1&amp;sn=83e9d1c01d3fb6696c8a4e3a9cdf0ade&amp;chksm=bd48d4d08a3f5dc6f7928afd0b66e0bbc47401334b43b31f51663072673300dff8098b18bd95#rd"/>
-        <updated>2023-04-24T16:00:00.000Z</updated>
-        <published>2023-04-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance with Rust-y Node addons]]></title>
-        <id>https://nodeweekly.com/issues/483</id>
-        <link href="https://nodeweekly.com/issues/483"/>
         <updated>2023-04-24T16:00:00.000Z</updated>
         <published>2023-04-24T16:00:00.000Z</published>
     </entry>

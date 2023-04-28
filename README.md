@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-04-28 06:00:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-04-28 10:00:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -67,7 +67,7 @@
 </summary>
 
 
-- [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636) ![](/assets/new.png)  
+- [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)  
 - [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635)  
 - [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634)  
 - [2023-04-06-JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html) ![](/assets/new.png)  
 - [2023-04-21-科技爱好者周刊（第-251-期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)  
 - [2023-04-14-科技爱好者周刊（第-250-期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)  
 - [2023-04-07-科技爱好者周刊（第-249-期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)  
@@ -365,7 +366,6 @@
 - [2022-12-23-科技爱好者周刊（第-236-期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)  
 - [2022-12-16-科技爱好者周刊（第-235-期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)  
 - [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)  
-- [2022-12-02-科技爱好者周刊（第-233-期）：生活就像一个鱼缸](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-233.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
