@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-04-28T07:00:31.879Z</updated>
+    <updated>2023-04-28T22:00:34.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,9 +36,30 @@
         <published>2023-04-27T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一个五年前端老项目！又改造了五个地方！持续改造中！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488534&amp;idx=1&amp;sn=01fb03ef3c5d9c0c92d92fbc9cd049dd&amp;chksm=ce460187f931889192ce9df6a99fa021f6d99b9aa4f2ad5c5d871523b0ed758ec08605cc896b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488534&amp;idx=1&amp;sn=01fb03ef3c5d9c0c92d92fbc9cd049dd&amp;chksm=ce460187f931889192ce9df6a99fa021f6d99b9aa4f2ad5c5d871523b0ed758ec08605cc896b#rd"/>
+        <updated>2023-04-27T16:00:00.000Z</updated>
+        <published>2023-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[十年架构重构，为多端统一，QQ 选用了 Electron]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520788&amp;idx=1&amp;sn=f7c940ba9fc1c5a5f90832c90ff5297d&amp;chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520788&amp;idx=1&amp;sn=f7c940ba9fc1c5a5f90832c90ff5297d&amp;chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd"/>
+        <updated>2023-04-27T16:00:00.000Z</updated>
+        <published>2023-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始，一步步学习微前端]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613907&amp;idx=2&amp;sn=1dc3f6f20103fc99738e58da6df8998d&amp;chksm=8022bd12b75534042a4b9cf4da631740ae7167f290336c56e0c70e6549c79a89bb095202a53e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613907&amp;idx=2&amp;sn=1dc3f6f20103fc99738e58da6df8998d&amp;chksm=8022bd12b75534042a4b9cf4da631740ae7167f290336c56e0c70e6549c79a89bb095202a53e#rd"/>
+        <updated>2023-04-27T16:00:00.000Z</updated>
+        <published>2023-04-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：PDF 预览和下载你是怎么实现的？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613907&amp;idx=1&amp;sn=47d5446602ee6622bd058b1962022bda&amp;chksm=8022bd12b7553404f11dac59b3a97202244b2111d8fe7a0247ca586da021a47e9c524b7c71f4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613907&amp;idx=1&amp;sn=47d5446602ee6622bd058b1962022bda&amp;chksm=8022bd12b7553404f11dac59b3a97202244b2111d8fe7a0247ca586da021a47e9c524b7c71f4#rd"/>
         <updated>2023-04-27T16:00:00.000Z</updated>
         <published>2023-04-27T16:00:00.000Z</published>
     </entry>
@@ -130,27 +151,6 @@
         <title type="html"><![CDATA[从新React文档看未来Web的开发趋势]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520710&amp;idx=1&amp;sn=5d3b2e522654f9a0f1443aafe98e16f1&amp;chksm=f9522485ce25ad93eece7604787093e5e6956c4fbe86a59d18e08ac413518905398f530f57f0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520710&amp;idx=1&amp;sn=5d3b2e522654f9a0f1443aafe98e16f1&amp;chksm=f9522485ce25ad93eece7604787093e5e6956c4fbe86a59d18e08ac413518905398f530f57f0#rd"/>
-        <updated>2023-04-25T16:00:00.000Z</updated>
-        <published>2023-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索在 JS 中，为什么要在函数前面加！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=2&amp;sn=cac042d2e5c76db5a340b6837d41231d&amp;chksm=8022bd7ab755346c2d5c217708e2c173fbab4de833f13de4be9d1a72adbd12ff2938a52e418d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=2&amp;sn=cac042d2e5c76db5a340b6837d41231d&amp;chksm=8022bd7ab755346c2d5c217708e2c173fbab4de833f13de4be9d1a72adbd12ff2938a52e418d#rd"/>
-        <updated>2023-04-25T16:00:00.000Z</updated>
-        <published>2023-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强到离谱！阿里前端大佬面试全套笔记，带你进阶高级前端！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=1&amp;sn=d283aad61fc44eb394cd257b4fe28244&amp;chksm=8022bd7ab755346c7889a37fc05664a9b8b906755af0b37defe94c0bbd86157be16838f72c5d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651613883&amp;idx=1&amp;sn=d283aad61fc44eb394cd257b4fe28244&amp;chksm=8022bd7ab755346c7889a37fc05664a9b8b906755af0b37defe94c0bbd86157be16838f72c5d#rd"/>
-        <updated>2023-04-25T16:00:00.000Z</updated>
-        <published>2023-04-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】设计体系：数字产品设计的系统化方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262309&amp;idx=2&amp;sn=008d784064023ed2b0b4fa1af60fcef6&amp;chksm=bd48d4e18a3f5df7a4eeebbb718d80bc38863c94db212c17ad61aa4e14bfeb555dbc5d8bea8e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262309&amp;idx=2&amp;sn=008d784064023ed2b0b4fa1af60fcef6&amp;chksm=bd48d4e18a3f5df7a4eeebbb718d80bc38863c94db212c17ad61aa4e14bfeb555dbc5d8bea8e#rd"/>
         <updated>2023-04-25T16:00:00.000Z</updated>
         <published>2023-04-25T16:00:00.000Z</published>
     </entry>
