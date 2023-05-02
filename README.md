@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-01 06:00:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-02 18:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -191,7 +191,8 @@
 </summary>
 
 
-- [2023-05-01-1-3年经验的前端怎么去进步，分享一下一位大佬的看法~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488565&idx=1&sn=2e648925670b75126bada585bdd61e31&chksm=ce4601a4f93188b220f1e944777a39609d0b436bbdc9817b26e3c3b3fa74849ce2a568c713d6#rd) ![](/assets/new.png)  
+- [2023-05-02-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488631&idx=1&sn=39453afcf45139a60e3fcaf494ff6c78&chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd) ![](/assets/new.png)  
+- [2023-05-01-1-3年经验的前端怎么去进步，分享一下一位大佬的看法~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488565&idx=1&sn=2e648925670b75126bada585bdd61e31&chksm=ce4601a4f93188b220f1e944777a39609d0b436bbdc9817b26e3c3b3fa74849ce2a568c713d6#rd)  
 - [2023-04-30-看我如何用-Promise-解决-Vue-中父子组件的加载问题！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488555&idx=1&sn=a11d9504ebb7102c73bdd7d2dc306b21&chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd)  
 - [2023-04-28-一个五年前端老项目！又改造了五个地方！持续改造中！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488534&idx=1&sn=01fb03ef3c5d9c0c92d92fbc9cd049dd&chksm=ce460187f931889192ce9df6a99fa021f6d99b9aa4f2ad5c5d871523b0ed758ec08605cc896b#rd)  
 - [2023-04-27-顺利拿到字节抖音的Offer！他平时是怎么刷题的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488524&idx=1&sn=6ef38d688deb32bf5383a5be17acd584&chksm=ce46019df931888b8a67823609b901ed2bd3abe5a62d9d9a23ee8a5d27b205a9ccd8d004d146#rd)  
@@ -210,7 +211,6 @@
 - [2023-04-11-面了一个字节出来的大佬，见识到了基础天花板！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488286&idx=1&sn=388fbf1f1cc28bdde17be5347ab812ae&chksm=ce46068ff9318f99807c8236b05872ce7bb2447eda89b90b5795be71487a06268ba85631b124#rd)  
 - [2023-04-10-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488274&idx=1&sn=60de7502dc28da4868f6732a44e23ec6&chksm=ce460683f9318f95b614004e74ea9f0b382efb6adab75268e593425bbe41b40fbd1f22eb6dda#rd)  
 - [2023-04-09-分析前端现状，还有前端未来应该学哪些技术！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488268&idx=1&sn=88be391fd375ee2d1610635bd15d71d4&chksm=ce46069df9318f8b86c455a127ffa88dcba9c8e04fd11523e7a763667da8f4310848a57f32b4#rd)  
-- [2023-04-08-我希望大家花1小时把【虚拟滚动】牢牢学在脑里！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488262&idx=1&sn=6bb5c9e5d203c142c313a70a3e599152&chksm=ce460697f9318f815e17b96569116f9d8f2574c1de7e2f732ccee1cc83cbb51bd9edb16dbf8f#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
