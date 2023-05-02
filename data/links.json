@@ -3,6 +3,11 @@
     "title": "Node-Weekly",
     "items": [
       {
+        "title": "Running Node.js on the iPad?",
+        "link": "https://nodeweekly.com/issues/484",
+        "date": "2023-05-02"
+      },
+      {
         "title": "Performance with Rust-y Node addons",
         "link": "https://nodeweekly.com/issues/483",
         "date": "2023-04-25"

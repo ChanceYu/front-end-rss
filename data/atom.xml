@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-02T10:00:49.585Z</updated>
+    <updated>2023-05-02T15:00:34.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[每个前端都要学的【前端自动化部署】，Devops，CI/CD]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488631&amp;idx=1&amp;sn=39453afcf45139a60e3fcaf494ff6c78&amp;chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488631&amp;idx=1&amp;sn=39453afcf45139a60e3fcaf494ff6c78&amp;chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd"/>
+        <updated>2023-05-01T16:00:00.000Z</updated>
+        <published>2023-05-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Node.js on the iPad?]]></title>
+        <id>https://nodeweekly.com/issues/484</id>
+        <link href="https://nodeweekly.com/issues/484"/>
         <updated>2023-05-01T16:00:00.000Z</updated>
         <published>2023-05-01T16:00:00.000Z</published>
     </entry>
@@ -146,12 +153,5 @@
         <link href="https://javascriptweekly.com/issues/636"/>
         <updated>2023-04-26T16:00:00.000Z</updated>
         <published>2023-04-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被誉为JavaScript中最难理解的概念之一的闭包是什么鬼？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514378&amp;idx=2&amp;sn=bc173401c1603d356c92264492e428e9&amp;chksm=f992bfdbcee536cd5968046b31a27ded953226b4e37716fac10dccc941a55346f5b50e83f257#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514378&amp;idx=2&amp;sn=bc173401c1603d356c92264492e428e9&amp;chksm=f992bfdbcee536cd5968046b31a27ded953226b4e37716fac10dccc941a55346f5b50e83f257#rd"/>
-        <updated>2023-04-25T16:00:00.000Z</updated>
-        <published>2023-04-25T16:00:00.000Z</published>
     </entry>
 </feed>

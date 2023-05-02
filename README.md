@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-02 18:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-02 23:00:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
@@ -36,6 +36,7 @@
 </summary>
 
 
+- [2023-05-02-Running-Node.js-on-the-iPad?](https://nodeweekly.com/issues/484) ![](/assets/new.png)  
 - [2023-04-25-Performance-with-Rust-y-Node-addons](https://nodeweekly.com/issues/483)  
 - [2023-04-18-Node-v20-released](https://nodeweekly.com/issues/482)  
 - [2023-04-11-The-state-of-Node.js-in-2023](https://nodeweekly.com/issues/481)  
@@ -55,7 +56,6 @@
 - [2022-12-15-The-best-of-Node-Weekly-in-2022](https://nodeweekly.com/issues/467)  
 - [2022-12-08-The-official-npm-site-gets-a-code-explorer](https://nodeweekly.com/issues/466)  
 - [2022-12-01-Lots-of-Electron-news](https://nodeweekly.com/issues/465)  
-- [2022-11-24-An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -191,7 +191,7 @@
 </summary>
 
 
-- [2023-05-02-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488631&idx=1&sn=39453afcf45139a60e3fcaf494ff6c78&chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd) ![](/assets/new.png)  
+- [2023-05-02-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488631&idx=1&sn=39453afcf45139a60e3fcaf494ff6c78&chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd)  
 - [2023-05-01-1-3年经验的前端怎么去进步，分享一下一位大佬的看法~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488565&idx=1&sn=2e648925670b75126bada585bdd61e31&chksm=ce4601a4f93188b220f1e944777a39609d0b436bbdc9817b26e3c3b3fa74849ce2a568c713d6#rd)  
 - [2023-04-30-看我如何用-Promise-解决-Vue-中父子组件的加载问题！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488555&idx=1&sn=a11d9504ebb7102c73bdd7d2dc306b21&chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd)  
 - [2023-04-28-一个五年前端老项目！又改造了五个地方！持续改造中！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488534&idx=1&sn=01fb03ef3c5d9c0c92d92fbc9cd049dd&chksm=ce460187f931889192ce9df6a99fa021f6d99b9aa4f2ad5c5d871523b0ed758ec08605cc896b#rd)  
