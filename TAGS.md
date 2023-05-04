@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-05-04 15:00:29。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-05-05 06:00:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)
 - [【JavaScript-Weekly】Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)
 - [【JavaScript-Weekly】The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634)
 - [【JavaScript-Weekly】JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)
 - [【JavaScript-Weekly】The-future-JavaScript-features-at-TC39](https://javascriptweekly.com/issues/603)
 - [【JavaScript-Weekly】Genius-misuse-of-WOFF-2-and-Brotli-to-win-a-JavaScript-contest.](https://javascriptweekly.com/issues/601)
-- [【JavaScript-Weekly】Douglas-Crockford-on-'retiring'-JavaScript](https://javascriptweekly.com/issues/600)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
