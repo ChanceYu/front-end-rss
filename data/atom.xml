@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-05T10:00:32.251Z</updated>
+    <updated>2023-05-05T13:00:42.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[记录一次前端优化首屏时间70%的优化过程~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488704&amp;idx=1&amp;sn=4d7823d1050fdbc892c239f7c6ee4252&amp;chksm=ce460151f931884725ba23a78e2cc1646081d6b01b37d14056eddb6bb3a8418b3dd1a9160fed#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488704&amp;idx=1&amp;sn=4d7823d1050fdbc892c239f7c6ee4252&amp;chksm=ce460151f931884725ba23a78e2cc1646081d6b01b37d14056eddb6bb3a8418b3dd1a9160fed#rd"/>
+        <updated>2023-05-04T16:00:00.000Z</updated>
+        <published>2023-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果即将在iOS 17迎来大变化，开放第三方侧载应用商店]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520801&amp;idx=1&amp;sn=dd4b1d32f701a2f59a48e3a126dd710c&amp;chksm=f9522762ce25ae748b95503ea5cdb94e7d5d8921d6afa8b5cffcdd847be06c396f1dcd32e67f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520801&amp;idx=1&amp;sn=dd4b1d32f701a2f59a48e3a126dd710c&amp;chksm=f9522762ce25ae748b95503ea5cdb94e7d5d8921d6afa8b5cffcdd847be06c396f1dcd32e67f#rd"/>
         <updated>2023-05-04T16:00:00.000Z</updated>
         <published>2023-05-04T16:00:00.000Z</published>
     </entry>
@@ -146,12 +153,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488555&amp;idx=1&amp;sn=a11d9504ebb7102c73bdd7d2dc306b21&amp;chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd"/>
         <updated>2023-04-29T16:00:00.000Z</updated>
         <published>2023-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 252 期）：互联网创业变难了]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html"/>
-        <updated>2023-04-27T16:00:00.000Z</updated>
-        <published>2023-04-27T16:00:00.000Z</published>
     </entry>
 </feed>
