@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-05T07:00:38.554Z</updated>
+    <updated>2023-05-05T10:00:32.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 253 期）：训练材料用完之日]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html"/>
+        <updated>2023-05-04T16:00:00.000Z</updated>
+        <published>2023-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弄懂React事件机制]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514432&amp;idx=2&amp;sn=d0cc2096efb8eb4d7cee43760ec4f8bd&amp;chksm=f992bf91cee5368705bd7ca1ffca0a0d2aecfe2bf89a3c2c04d1c475a20389535813aec0b907#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514432&amp;idx=2&amp;sn=d0cc2096efb8eb4d7cee43760ec4f8bd&amp;chksm=f992bf91cee5368705bd7ca1ffca0a0d2aecfe2bf89a3c2c04d1c475a20389535813aec0b907#rd"/>
+        <updated>2023-05-04T16:00:00.000Z</updated>
+        <published>2023-05-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再也不用手动改package.json的版本号]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514432&amp;idx=1&amp;sn=54d03f227c11b98f429c2a6b2d60c820&amp;chksm=f992bf91cee53687b1fc1e2da487c7aae4bc6189f58aff02725c3a72778f717ac4d41917f091#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514432&amp;idx=1&amp;sn=54d03f227c11b98f429c2a6b2d60c820&amp;chksm=f992bf91cee53687b1fc1e2da487c7aae4bc6189f58aff02725c3a72778f717ac4d41917f091#rd"/>
         <updated>2023-05-04T16:00:00.000Z</updated>
         <published>2023-05-04T16:00:00.000Z</published>
     </entry>
@@ -43,16 +57,16 @@
         <published>2023-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端质量体系之纸上谈兵]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd"/>
+        <title type="html"><![CDATA[什么是 ”无渲染组件“ ？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=1&amp;sn=61a7dde833ff208e92a4fd7e5cd1b9ae&amp;chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=1&amp;sn=61a7dde833ff208e92a4fd7e5cd1b9ae&amp;chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[什么是 ”无渲染组件“ ？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=1&amp;sn=61a7dde833ff208e92a4fd7e5cd1b9ae&amp;chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=1&amp;sn=61a7dde833ff208e92a4fd7e5cd1b9ae&amp;chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd"/>
+        <title type="html"><![CDATA[前端质量体系之纸上谈兵]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
@@ -137,20 +151,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 252 期）：互联网创业变难了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html"/>
-        <updated>2023-04-27T16:00:00.000Z</updated>
-        <published>2023-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H5 App开发技术如何进行选型 ？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514409&amp;idx=2&amp;sn=599be8ceb103a4e6acbc4902e726c1cc&amp;chksm=f992bff8cee536ee78217b70e4c351dc84a57787210fca8af3885ed92e8466b76566c3b5232d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514409&amp;idx=2&amp;sn=599be8ceb103a4e6acbc4902e726c1cc&amp;chksm=f992bff8cee536ee78217b70e4c351dc84a57787210fca8af3885ed92e8466b76566c3b5232d#rd"/>
-        <updated>2023-04-27T16:00:00.000Z</updated>
-        <published>2023-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过实现一个简易版 react-redux ，我更理解了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514409&amp;idx=1&amp;sn=2ed5e0b6921bc3acf8a555209f3e2808&amp;chksm=f992bff8cee536eef49dfb4c572e64e57045d3cd79edeb7f660d5979f20a2017579ed6d1723d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514409&amp;idx=1&amp;sn=2ed5e0b6921bc3acf8a555209f3e2808&amp;chksm=f992bff8cee536eef49dfb4c572e64e57045d3cd79edeb7f660d5979f20a2017579ed6d1723d#rd"/>
         <updated>2023-04-27T16:00:00.000Z</updated>
         <published>2023-04-27T16:00:00.000Z</published>
     </entry>
