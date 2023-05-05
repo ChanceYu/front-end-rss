@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-05 08:00:31，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-05 10:00:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -98,8 +98,8 @@
 </summary>
 
 
-- [2023-05-05-【第2931期】2023-Web-Components-现状](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262382&idx=1&sn=119f2bc1157d6f17538c0ff0671ffd20&chksm=bd48d42a8a3f5d3cd2721dcebdf4386a59c9ec1b88556aa92d5d7716f15af4b8fe9376493ba9#rd) ![](/assets/new.png)  
-- [2023-05-05-onepoint：多位一体智能辅助工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262382&idx=2&sn=e8557ea249241f32659d1be370188962&chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd) ![](/assets/new.png)  
+- [2023-05-05-【第2931期】2023-Web-Components-现状](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262382&idx=1&sn=119f2bc1157d6f17538c0ff0671ffd20&chksm=bd48d42a8a3f5d3cd2721dcebdf4386a59c9ec1b88556aa92d5d7716f15af4b8fe9376493ba9#rd)  
+- [2023-05-05-onepoint：多位一体智能辅助工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262382&idx=2&sn=e8557ea249241f32659d1be370188962&chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd)  
 - [2023-05-04-【早说】技术进步是指数思维](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262346&idx=2&sn=2ab5a0f9c36d048a989f5217b842504c&chksm=bd48d40e8a3f5d1868d529484ee6ed3d6ebffaeaf1c85d537aba50e8b71a16415d5a439e99e4#rd)  
 - [2023-05-04-【第2930期】一窥-Copilot-设计幕后](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262346&idx=1&sn=2cbc0588823b821183dde631b2a8a97c&chksm=bd48d40e8a3f5d1806caf31ffee6a1b90e908dec72860b6d1fa47b2724fb42486face0c5c8c5#rd)  
 - [2023-04-28-【第2929期】React-Refs:-从访问-DOM-到命令式-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262335&idx=1&sn=c9b638622ea861c5fc6c34ed7712e1d0&chksm=bd48d4fb8a3f5ded6970e8cdb40aa4bcf7a83f99413d81c4584e986cb6a496d82711a71866bc#rd)  
@@ -346,6 +346,7 @@
 </summary>
 
 
+- [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html) ![](/assets/new.png)  
 - [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
 - [2023-04-21-科技爱好者周刊（第-251-期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)  
 - [2023-04-14-科技爱好者周刊（第-250-期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)  
@@ -365,7 +366,6 @@
 - [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)  
 - [2022-12-23-科技爱好者周刊（第-236-期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)  
 - [2022-12-16-科技爱好者周刊（第-235-期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)  
-- [2022-12-09-科技爱好者周刊（第-234-期）：AI-聊天有多强？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-234.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

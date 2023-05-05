@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-05T00:00:32.880Z</updated>
+    <updated>2023-05-05T02:00:36.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 253 期）：训练材料用完之日]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html"/>
+        <updated>2023-05-04T16:00:00.000Z</updated>
+        <published>2023-05-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[onepoint：多位一体智能辅助工具]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=2&amp;sn=e8557ea249241f32659d1be370188962&amp;chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd</id>
@@ -144,13 +151,6 @@
         <title type="html"><![CDATA[一个五年前端老项目！又改造了五个地方！持续改造中！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488534&amp;idx=1&amp;sn=01fb03ef3c5d9c0c92d92fbc9cd049dd&amp;chksm=ce460187f931889192ce9df6a99fa021f6d99b9aa4f2ad5c5d871523b0ed758ec08605cc896b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488534&amp;idx=1&amp;sn=01fb03ef3c5d9c0c92d92fbc9cd049dd&amp;chksm=ce460187f931889192ce9df6a99fa021f6d99b9aa4f2ad5c5d871523b0ed758ec08605cc896b#rd"/>
-        <updated>2023-04-27T16:00:00.000Z</updated>
-        <published>2023-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十年架构重构，为多端统一，QQ 选用了 Electron]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520788&amp;idx=1&amp;sn=f7c940ba9fc1c5a5f90832c90ff5297d&amp;chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520788&amp;idx=1&amp;sn=f7c940ba9fc1c5a5f90832c90ff5297d&amp;chksm=f9522757ce25ae41f93ac1f3ab7188517e07bbe4d612e45018013d8e3a237431ac73cf485d49#rd"/>
         <updated>2023-04-27T16:00:00.000Z</updated>
         <published>2023-04-27T16:00:00.000Z</published>
     </entry>
