@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-05T13:00:42.345Z</updated>
+    <updated>2023-05-06T07:00:30.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端如何快速拿offer？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488744&amp;idx=1&amp;sn=5ef64225d664f243e14e7739cf4d8116&amp;chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488744&amp;idx=1&amp;sn=5ef64225d664f243e14e7739cf4d8116&amp;chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd"/>
+        <updated>2023-05-05T16:00:00.000Z</updated>
+        <published>2023-05-05T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 253 期）：训练材料用完之日]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html</id>
@@ -146,12 +153,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488565&amp;idx=1&amp;sn=2e648925670b75126bada585bdd61e31&amp;chksm=ce4601a4f93188b220f1e944777a39609d0b436bbdc9817b26e3c3b3fa74849ce2a568c713d6#rd"/>
         <updated>2023-04-30T16:00:00.000Z</updated>
         <published>2023-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看我如何用 Promise 解决 Vue 中父子组件的加载问题！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488555&amp;idx=1&amp;sn=a11d9504ebb7102c73bdd7d2dc306b21&amp;chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488555&amp;idx=1&amp;sn=a11d9504ebb7102c73bdd7d2dc306b21&amp;chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd"/>
-        <updated>2023-04-29T16:00:00.000Z</updated>
-        <published>2023-04-29T16:00:00.000Z</published>
     </entry>
 </feed>

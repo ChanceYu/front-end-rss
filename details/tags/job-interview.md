@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-05 21:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-06 15:00:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -358,6 +358,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2023-05-06-前端如何快速拿offer？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488744&idx=1&sn=5ef64225d664f243e14e7739cf4d8116&chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd) 
 - [2023-04-27-顺利拿到字节抖音的Offer！他平时是怎么刷题的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488524&idx=1&sn=6ef38d688deb32bf5383a5be17acd584&chksm=ce46019df931888b8a67823609b901ed2bd3abe5a62d9d9a23ee8a5d27b205a9ccd8d004d146#rd) 
 - [2023-04-26-三分钟，教你三种前端埋点方式！再也不怕面试被问到埋点了！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488520&idx=1&sn=5045759223d5b03c98f9bddeafa686ed&chksm=ce460199f931888f56219f1bd31e99f1f074bd11caeec1ff86ad9a1da39399e3ab84500dcbe4#rd) 
 - [2023-04-24-阿里P8大佬：小伙子，你前端面试稳了…](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488479&idx=1&sn=c099bc0a68a6124ee8437952a4322653&chksm=ce46064ef9318f586e3875cea97737fc88b95f44d3c5305edf53db9ce94b8ad1bcf3142dcf49#rd) 
