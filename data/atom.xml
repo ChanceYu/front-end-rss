@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-06T10:00:40.733Z</updated>
+    <updated>2023-05-06T13:01:44.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,20 @@
         <title type="html"><![CDATA[前端如何快速拿offer？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488744&amp;idx=1&amp;sn=5ef64225d664f243e14e7739cf4d8116&amp;chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488744&amp;idx=1&amp;sn=5ef64225d664f243e14e7739cf4d8116&amp;chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd"/>
+        <updated>2023-05-05T16:00:00.000Z</updated>
+        <published>2023-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早行】2023.4小结]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=2&amp;sn=ebd95c6aa1f28aadc71e98292521551a&amp;chksm=bd48d4438a3f5d55e319b62028e1994f888d97a16fa9721b5fdf62d517515c33867ee442f07d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=2&amp;sn=ebd95c6aa1f28aadc71e98292521551a&amp;chksm=bd48d4438a3f5d55e319b62028e1994f888d97a16fa9721b5fdf62d517515c33867ee442f07d#rd"/>
+        <updated>2023-05-05T16:00:00.000Z</updated>
+        <published>2023-05-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2932期】基于Sentry高效治理前端异常]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=1&amp;sn=98da5f97e08a1a8e6ccbb29785945eed&amp;chksm=bd48d4438a3f5d55a4b8b222f1da323e0c66a680f7ca17510005e0934713c048780a221dfdb1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=1&amp;sn=98da5f97e08a1a8e6ccbb29785945eed&amp;chksm=bd48d4438a3f5d55a4b8b222f1da323e0c66a680f7ca17510005e0934713c048780a221dfdb1#rd"/>
         <updated>2023-05-05T16:00:00.000Z</updated>
         <published>2023-05-05T16:00:00.000Z</published>
     </entry>
@@ -64,16 +78,16 @@
         <published>2023-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[onepoint：多位一体智能辅助工具]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=2&amp;sn=e8557ea249241f32659d1be370188962&amp;chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=2&amp;sn=e8557ea249241f32659d1be370188962&amp;chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd"/>
+        <title type="html"><![CDATA[【第2931期】2023 Web Components 现状]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=1&amp;sn=119f2bc1157d6f17538c0ff0671ffd20&amp;chksm=bd48d42a8a3f5d3cd2721dcebdf4386a59c9ec1b88556aa92d5d7716f15af4b8fe9376493ba9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=1&amp;sn=119f2bc1157d6f17538c0ff0671ffd20&amp;chksm=bd48d42a8a3f5d3cd2721dcebdf4386a59c9ec1b88556aa92d5d7716f15af4b8fe9376493ba9#rd"/>
         <updated>2023-05-04T16:00:00.000Z</updated>
         <published>2023-05-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2931期】2023 Web Components 现状]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=1&amp;sn=119f2bc1157d6f17538c0ff0671ffd20&amp;chksm=bd48d42a8a3f5d3cd2721dcebdf4386a59c9ec1b88556aa92d5d7716f15af4b8fe9376493ba9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=1&amp;sn=119f2bc1157d6f17538c0ff0671ffd20&amp;chksm=bd48d42a8a3f5d3cd2721dcebdf4386a59c9ec1b88556aa92d5d7716f15af4b8fe9376493ba9#rd"/>
+        <title type="html"><![CDATA[onepoint：多位一体智能辅助工具]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=2&amp;sn=e8557ea249241f32659d1be370188962&amp;chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262382&amp;idx=2&amp;sn=e8557ea249241f32659d1be370188962&amp;chksm=bd48d42a8a3f5d3cbffb1fd33f583e4b572d55f612db13d0c02d30baf13475ffab10f56d90d4#rd"/>
         <updated>2023-05-04T16:00:00.000Z</updated>
         <published>2023-05-04T16:00:00.000Z</published>
     </entry>
@@ -113,16 +127,16 @@
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2930期】一窥 Copilot 设计幕后]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=1&amp;sn=2cbc0588823b821183dde631b2a8a97c&amp;chksm=bd48d40e8a3f5d1806caf31ffee6a1b90e908dec72860b6d1fa47b2724fb42486face0c5c8c5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=1&amp;sn=2cbc0588823b821183dde631b2a8a97c&amp;chksm=bd48d40e8a3f5d1806caf31ffee6a1b90e908dec72860b6d1fa47b2724fb42486face0c5c8c5#rd"/>
+        <title type="html"><![CDATA[【早说】技术进步是指数思维]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=2&amp;sn=2ab5a0f9c36d048a989f5217b842504c&amp;chksm=bd48d40e8a3f5d1868d529484ee6ed3d6ebffaeaf1c85d537aba50e8b71a16415d5a439e99e4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=2&amp;sn=2ab5a0f9c36d048a989f5217b842504c&amp;chksm=bd48d40e8a3f5d1868d529484ee6ed3d6ebffaeaf1c85d537aba50e8b71a16415d5a439e99e4#rd"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】技术进步是指数思维]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=2&amp;sn=2ab5a0f9c36d048a989f5217b842504c&amp;chksm=bd48d40e8a3f5d1868d529484ee6ed3d6ebffaeaf1c85d537aba50e8b71a16415d5a439e99e4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=2&amp;sn=2ab5a0f9c36d048a989f5217b842504c&amp;chksm=bd48d40e8a3f5d1868d529484ee6ed3d6ebffaeaf1c85d537aba50e8b71a16415d5a439e99e4#rd"/>
+        <title type="html"><![CDATA[【第2930期】一窥 Copilot 设计幕后]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=1&amp;sn=2cbc0588823b821183dde631b2a8a97c&amp;chksm=bd48d40e8a3f5d1806caf31ffee6a1b90e908dec72860b6d1fa47b2724fb42486face0c5c8c5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262346&amp;idx=1&amp;sn=2cbc0588823b821183dde631b2a8a97c&amp;chksm=bd48d40e8a3f5d1806caf31ffee6a1b90e908dec72860b6d1fa47b2724fb42486face0c5c8c5#rd"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
@@ -139,19 +153,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488639&amp;idx=1&amp;sn=471ab1ce5519facf757dc8b62a8baa14&amp;chksm=ce4601eef93188f8fa684c0d2dbc2fdc0ca78a45d1adb3d8c0afcd785519a83081e759c98509#rd"/>
         <updated>2023-05-02T16:00:00.000Z</updated>
         <published>2023-05-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个前端都要学的【前端自动化部署】，Devops，CI/CD]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488631&amp;idx=1&amp;sn=39453afcf45139a60e3fcaf494ff6c78&amp;chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488631&amp;idx=1&amp;sn=39453afcf45139a60e3fcaf494ff6c78&amp;chksm=ce4601e6f93188f003cf24eb541fdaddd56ea59e6271abfd9dbce6f7f8992f5e9cf6294c6f24#rd"/>
-        <updated>2023-05-01T16:00:00.000Z</updated>
-        <published>2023-05-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Node.js on the iPad?]]></title>
-        <id>https://nodeweekly.com/issues/484</id>
-        <link href="https://nodeweekly.com/issues/484"/>
-        <updated>2023-05-01T16:00:00.000Z</updated>
-        <published>2023-05-01T16:00:00.000Z</published>
     </entry>
 </feed>
