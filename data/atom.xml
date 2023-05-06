@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-06T13:01:44.883Z</updated>
+    <updated>2023-05-06T22:00:29.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[超级有趣的功能：设计一个不依赖客户端时间的倒计时函数]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488755&amp;idx=1&amp;sn=da429f4b93185b1e2e342e858022cdd4&amp;chksm=ce460162f93188742f385fe3fc38cb30ad40889f8ba9bec5576d349f5366e6c9dd7a78dfee68#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488755&amp;idx=1&amp;sn=da429f4b93185b1e2e342e858022cdd4&amp;chksm=ce460162f93188742f385fe3fc38cb30ad40889f8ba9bec5576d349f5366e6c9dd7a78dfee68#rd"/>
+        <updated>2023-05-06T16:00:00.000Z</updated>
+        <published>2023-05-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023已过半，Web前端还有机会吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514439&amp;idx=1&amp;sn=ceabd29d919b15e45ffe198beb25c094&amp;chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd</id>
@@ -146,12 +153,5 @@
         <link href="https://javascriptweekly.com/issues/637"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端工程化到底是啥？可不止Webpack哦~听听他的看法~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488639&amp;idx=1&amp;sn=471ab1ce5519facf757dc8b62a8baa14&amp;chksm=ce4601eef93188f8fa684c0d2dbc2fdc0ca78a45d1adb3d8c0afcd785519a83081e759c98509#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488639&amp;idx=1&amp;sn=471ab1ce5519facf757dc8b62a8baa14&amp;chksm=ce4601eef93188f8fa684c0d2dbc2fdc0ca78a45d1adb3d8c0afcd785519a83081e759c98509#rd"/>
-        <updated>2023-05-02T16:00:00.000Z</updated>
-        <published>2023-05-02T16:00:00.000Z</published>
     </entry>
 </feed>
