@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 00:44:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -415,6 +415,7 @@
 - [2022-01-22-VUE开发者必须知道的实用技术点！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485084&idx=1&sn=a184081b5ba8ad9b14b5a0e9a090b030&chksm=ce46130df9319a1bdafe8e4301d66c1e6e0e87247a20103805814f3fde45c6e9d0d0ab32a3b5#rd) 
 - [2022-11-10-面试官：Vue3响应式系统都不会写，还敢说精通？](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451064482&idx=1&sn=020af2c7e28b8d13624526edf2c133e4&chksm=87c45fb2b0b3d6a4bbd177f797271399f467ea555c607485da65d9630ef7ea1fa0e116152209#rd) 
 - [2022-08-19-基于-Vue-技术栈的微前端方案实践](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063926&idx=3&sn=25b3fdc4ebb0f02e2ad519a252156781&chksm=87c45d66b0b3d470f812d8737fa37b94d1b3a634248735de01bd45bf569bae6d53fd0dd848e6#rd) 
+- [2022-08-19-基于-Vue-技术栈的微前端方案实践](https://mp.weixin.qq.com/s/D0cax-k1xF82j2fH7I9tww) 
 - [2022-08-10-Vue-的生命周期之间到底做了什么事清？（源码详解）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063914&idx=3&sn=19b02b235c5aa90f3b4d6188519592d2&chksm=87c45d7ab0b3d46c54f68c53830c0b2b4f6e9f758e3bcca94472c4afd8f3e9e7c13f1c16eb35#rd) 
 - [2022-07-29-深入解析-Vue-3-基础难点](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063593&idx=1&sn=d09a2058438f453a8d66a28380c28fda&chksm=87c45a39b0b3d32f546f805b78b110cec123051dcacbfadcbbcc556d4fb9b1422ee3f57dec7d#rd) 
 - [2022-06-29-Vue-项目一些常见问题的解决方案](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063519&idx=3&sn=6c31295027be53da775acf8f3dd20c22&chksm=87c45bcfb0b3d2d9cbfff6f8de3e0a0ecf4c8bb3b786135edca76a3b22a755d135747c8487d3#rd) 
@@ -478,6 +479,7 @@
 - [2022-01-11-下载量和Vue一样大的开源软件被作者恶意破坏，数千款应用受到牵连](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502585&idx=2&sn=54d20f6fe3565a4570cf3d8387f3a523&chksm=f992cc28cee5453e7d6121cb551165b485f022ed73ef56eaad4150f9a92f34a9770011e0cc79#rd) 
 - [2022-01-02-做好这-16-个方向，逐步搭建出团队的-vue3-前端架构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=2&sn=a4cbe9408e4a895a9a9dc194b01f4921&chksm=f992cf6dcee5467bc922560b4575241d45a804c8a4e8e72aed71aafc6c2d9b5af6351640a2fb#rd) 
 - [2022-01-02-Vue.js源码中的几个精妙方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=3&sn=4989c0e5d5a1c0684e663777d4c11acd&chksm=f992cf6dcee5467bf76bac5642455866d8563be9ec09502284441d30d43c72edf34f34e05f2a#rd) 
+- [2023-04-27-Vue.js-推出官方“雅思考试”，价格还真不低，好几千块](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511446&idx=1&sn=2fd404f15e3ae17c69ab9434999665f3&chksm=eb0795efdc701cf904e9526699102646ba9762975f32877066161fe7a1dcd0cb034fe61728d8#rd) 
 - [2023-01-14-【收藏】2022-年值得推荐的那些-Vue-库！](http://www.yyyweb.com/5485.html) 
 - [2022-11-18-VueConf-2022-将于12月10日正式开启](http://www.yyyweb.com/5473.html) 
 - [2022-09-30-Vue-2-系统如何快速迁移-Vite-作为开发工具](http://www.yyyweb.com/5470.html) 
