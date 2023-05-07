@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-08 00:18:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -141,11 +141,11 @@
 - [2022-03-31-成为-Taro-社区的一员---贡献者晋级指南](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898521&idx=2&sn=8cb9c590a3865b1992990f48e07d9629&chksm=8c5fa0d7bb2829c1e821185d77f166d9f045a802757079e6102b14b1128a477c8ce5b580e4cd#rd) 
 - [2022-03-24-速来围观，你最期待的-Taro-特性正待发布](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898496&idx=3&sn=7d8983621074322ff3a4a6bfeb2015a6&chksm=8c5fa0cebb2829d850fba05c6ad51fb67d5bf082aa4974234cb8779b57901837bbf4cf58217a#rd) 
 - [2022-03-10-Taro-在多端浪潮下的选择与挑战](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898367&idx=2&sn=af0a3938cabd75f5fb6ce90371328219&chksm=8c5fa3b1bb282aa7cbae14c2f95a6cc9e49a12eaf84938a6a82729cb75a22fe5fed30535605c#rd) 
-- [2022-02-24-Taro-3-与原生小程序混合开发实践](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898341&idx=1&sn=ec948146e84c14f6e21fe2c135c5fddc&chksm=8c5fa3abbb282abd8cf05ad2c4985095fd8f8e71b09fe2c737bc3d1bd631365bf4f4aad76442#rd) 
 - [2022-02-24-如何参与大型开源项目-Taro-共建](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898341&idx=2&sn=215f37300e26837840c118245c151ec3&chksm=8c5fa3abbb282abd29478dd087e7461c4bb497f9b1ff292e31091b3c98fb6fa6067c239ceb19#rd) 
+- [2022-02-24-Taro-3-与原生小程序混合开发实践](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898341&idx=1&sn=ec948146e84c14f6e21fe2c135c5fddc&chksm=8c5fa3abbb282abd8cf05ad2c4985095fd8f8e71b09fe2c737bc3d1bd631365bf4f4aad76442#rd) 
 - [2021-12-09-Taro-3.5-canary-发布：支持适配-鸿蒙](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651897971&idx=1&sn=426dc390427f9420f6408ef245371b1f&chksm=8c5fa23dbb282b2bf41c3e95f0fd1899787a3bb6d7b772d23a8e7eedf973148251b8a1fe3bbf#rd) 
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://jelly.jd.com/article/5dd299e55e25630153788c36) 
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://jelly.jd.com/article/5dc95ebeb73b47015299a89f?tunnel=tunnel_default) 
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://jelly.jd.com/article/5dd299e55e25630153788c36) 
 - [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://jelly.jd.com/article/5fed3d8a468efc014a4e5775) 
 - [2020-03-25-如何打造高性能小程序门户](https://jelly.jd.com/article/5e71e60faffa83014908764d) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://jelly.jd.com/article/5fed407d846cc00148ae5139) 
@@ -168,4 +168,3 @@
 - [2017-01-19-微信小程序跨页面通信解决思路](https://jelly.jd.com/article/6006b1045b6c6a01506c87d8) 
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://jelly.jd.com/article/6006b1045b6c6a01506c87d4) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://jelly.jd.com/article/6006b1045b6c6a01506c87c2) 
-- [2023-02-16-Taro-正式发布-3.6-版本：支持跨端路由、请求库，新增鸿蒙、Web-端平台插件，小程序持续集成-CI-能力升级](https://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651899551&idx=1&sn=0d30a7d3949dc41470d0c5926d5537ef&chksm=8c5fa4d1bb282dc7b352803a0128c69863fcc4d21f9716e4aeb200ae259a750af40a84948162#rd) 

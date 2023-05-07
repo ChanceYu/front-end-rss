@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-08 00:18:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -79,5 +79,3 @@
 - [2016-06-23-探究WebP一些事儿](https://jelly.jd.com/article/6006b1035b6c6a01506c87a9) 
 - [2016-04-13-Canvas虹膜消除转场](https://jelly.jd.com/article/6006b1035b6c6a01506c87a0) 
 - [2015-11-20-SVG-I-Know](https://jelly.jd.com/article/6006b1025b6c6a01506c877d) 
-- [2021-08-05-服饰3D柔性渲染调研及实践](https://fed.taobao.org/blog/taofed/do71ct/fufsgh) 
-- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) 
