@@ -3,7 +3,13 @@ const Async = require('async')
 
 const utils = require('./utils')
 
-require('dotenv').config()
+require('dotenv').config({ multiline: true })
+
+let rssConfig = {}
+try {
+  rssConfig = JSON.parse(process.env.RSS_CONFIG || '{}')
+} catch (e) {
+}
 
 async function fetchFeed(rss) {
   const parser = new Parser({
@@ -25,12 +31,13 @@ async function fetchFeed(rss) {
 }
 
 async function initFetch(rssItem, onFinish) {
-  const envRss = process.env['RSS_' + rssItem.id]
   let rssArray = rssItem.rss
 
   if (typeof rssArray === 'string') {
     rssArray = [rssArray]
   }
+
+  const envRss = rssConfig[rssItem.title]
 
   if (envRss) {
     rssArray.unshift(envRss)

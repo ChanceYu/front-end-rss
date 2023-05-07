@@ -8,53 +8,59 @@
     "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
   },
   {
-    "id": "FeZaoDuKe",
     "title": "前端早读课",
     "rss": [
       "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
-      "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
-      "https://rsshub.app/wechat/ershicimi/5760"
+      "https://feed.hamibot.com/api/feeds/62823801a4ca6e10e38ecfb0"
     ]
   },
   {
-    "id": "FrontDev",
     "title": "前端大全",
     "rss": [
       "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
-      "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
-      "https://rsshub.app/wechat/ershicimi/65"
+      "https://feed.hamibot.com/api/feeds/6135d5a01269c358aa0f31d3"
     ]
   },
   {
-    "id": "frontshow",
     "title": "前端之巅",
     "rss": [
       "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
-      "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
-      "https://rsshub.app/wechat/ershicimi/154"
+      "https://feed.hamibot.com/api/feeds/621ecef7dca58a380c6e1615"
     ]
   },
   {
-    "id": "gh_086869a8f05b",
     "title": "前端之神",
-    "rss": "https://rsshub.app/wechat/csm/huxiu_com"
+    "rss": "https://feed.hamibot.com/api/feeds/621ecef7dca58a380c6e161d"
   },
   {
-    "id": "iwebfe",
     "title": "前端技术优选",
-    "rss": [
-      "https://rsshub.app/wechat/wemp/0ae31766-8e50-45be-9a7d-5d5bbdc03165"
-    ]
+    "rss": "https://feed.hamibot.com/api/feeds/624990fc109733075210a3be"
   },
   {
-    "id": "coder_growth",
     "title": "程序员成长指北",
-    "rss": [
-      "https://rsshub.app/wechat/wemp/de57e5f9-30db-45d1-8597-0ec472f45aaf"
-    ]
+    "rss": "https://feed.hamibot.com/api/feeds/6135d59c1269c358aa0f28ff"
   },
   {
-    "id": "taobaofed",
+    "title": "iCSS前端趣闻",
+    "rss": "https://feed.hamibot.com/api/feeds/621ecef5dca58a380c6e153d"
+  },
+  {
+    "title": "字节前端-ByteFE",
+    "rss": "https://feed.hamibot.com/api/feeds/61ea8211dca58a380c48fdf2"
+  },
+  {
+    "title": "前端精读评论",
+    "rss": "https://feed.hamibot.com/api/feeds/624c127d109733075212c3bc"
+  },
+  {
+    "title": "前端食堂",
+    "rss": "https://feed.hamibot.com/api/feeds/63ad9b99e1190840771616d5"
+  },
+  {
+    "title": "前端从进阶到入院",
+    "rss": "https://feed.hamibot.com/api/feeds/6135d5a01269c358aa0f31cb"
+  },
+  {
     "title": "淘系前端团队",
     "rss": "https://fed.taobao.org/atom.xml"
   },
@@ -71,7 +77,6 @@
     "rss": "http://www.yyyweb.com/feed"
   },
   {
-    "id": "AOTULabs",
     "title": "凹凸实验室",
     "rss": "https://aotu.io/atom.xml"
   }
