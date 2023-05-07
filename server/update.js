@@ -57,7 +57,7 @@ function handleFeed() {
     ((async () => {
       const feed = await fetch(rssItem)
       if (feed) {
-        const items = linksJson[rssIndex].items || []
+        const items = linksJson[rssIndex]?.items || []
         const newItems = feed.items.reduce((prev, curr) => {
           const exist = items.find((el) => utils.isSameLink(el.link, curr.link))
           if (exist) {
@@ -98,9 +98,7 @@ function handleFeed() {
 
   Async.series(tasks, async () => {
     if (newData.length) {
-      fs.outputJsonSync(LINKS_PATH, linksJson, {
-        spaces: 2
-      })
+      fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
       await createFeed(linksJson)
       handleCommit()
