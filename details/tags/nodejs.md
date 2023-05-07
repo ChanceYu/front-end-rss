@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 00:18:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -334,8 +334,8 @@
 - [2022-08-25-【ECMAScript-新消息速递】🎉-恭喜阿里巴巴昭朗同学负责的-proposal-array-grouping-提案代码实现成功-Landing-V8！这意味着在不久的将来，大家就能用上-`.group-`-的新语法了。](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496127&idx=1&sn=0a3f97097cf6dfa846709b445f06f2f3&chksm=ec47ba7cdb30336adb3f37a73616bcae7a41707488c23712b755fb98efc04cc216aac9f352d1#rd) 
 - [2022-03-25-Node.js-Web-框架再进化---面向前端与未来标准](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495520&idx=1&sn=b9041886373d4abbf9887126f27188f8&chksm=ec47a4a3db302db538f25fa88f87cb5f053aa5712072b902da53512bc1bd84c5ec885cdc2f75#rd) 
 - [2022-01-12-Node.js-2021年开发者报告解读：健康稳步的发展中](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495139&idx=1&sn=ac3cd2becc106cf38091778403f2c598&chksm=ec47a620db302f368ecd87a64efbf2ba311efef4c57632a1dd37eb2172046c851cef9d0395d8#rd) 
-- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/) 
 - [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time) 
+- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/) 
 - [2018-01-12-构筑未来数据网---Pandora.js-的信息通路](https://fed.taobao.org/blog/2018/01/12/pandora-information-channel/) 
 - [2018-01-05-跨越时代的度量衡---Pandora.js-的-Metrics-介绍](https://fed.taobao.org/blog/2018/01/05/pandora-metrics/) 
 - [2017-12-21-让进程间通信更容易---Pandora.js-的-IPC-Hub](https://fed.taobao.org/blog/2017/12/21/pandora-ipc/) 
@@ -346,6 +346,7 @@
 - [2019-03-02-深入Node.compareDocumentPosition-API](https://www.zhangxinxu.com/wordpress/2019/03/node-comparedocumentposition-api/) 
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html) 
 - [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html) 
+- [2023-04-09-前端食堂技术周刊第-78-期：WebGPU、Astro-2.2、Node.js-事件循环可视化指南、实用-Web-API-规范](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497832&idx=1&sn=d0b228c56698412a97a604a81049ac87&chksm=c2b33997f5c4b08122c5c9cc5adef9f0956f80e385663bdfd99f7e4ec4e7eeb18a589bfbb424#rd) 
 - [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html) 
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html) 
 - [2019-04-21-V8-内存管理和垃圾回收机制总结](http://www.yyyweb.com/5275.html) 

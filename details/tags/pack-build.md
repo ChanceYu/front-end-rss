@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 00:18:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -321,17 +321,20 @@
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/) 
 - [2022-05-05-打包工具-rollup.js-入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html) 
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
+- [2023-04-24-前端食堂技术周刊第-80-期：Vite-4.3、Node.js-20、TS-5.1-Beta、Windi-CSS-即将落幕](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497918&idx=1&sn=39128bcca251c8ae48f01ad488d6414d&chksm=c2b33941f5c4b057990ec1536bb8ab8978157473fbd4a4220bec3a4190bae253b5569a1505ef#rd) 
 - [2022-11-19-编译速度极致优化，一文搞定-Webpack5-升级](http://www.yyyweb.com/5484.html) 
 - [2022-06-05-10-分钟搞懂-Vite-devServer，速来围观！](http://www.yyyweb.com/5459.html) 
-- [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html) 
 - [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html) 
+- [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html) 
 - [2022-03-06-淘宝-npm-域名切换-&&-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html) 
 - [2020-06-21-18款-Webpack-插件，总会有你想要的！](http://www.yyyweb.com/5380.html) 
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
+- [2023-04-26-探究前端项目打包构建的用户故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511439&idx=2&sn=968cb09298bdec1d1cd2a67ce78a0673&chksm=eb0795f6dc701ce0518d9726ceea87631aa66f1e1b15c1e4a6fb3e8ba15d87e697677885cf3c#rd) 
 - [2021-12-23-技术期刊-·-路尘终见泰山平-|-微前端及插件化架构在-Wix-的实践;编辑器架构的第二路径;业务中的前端组件化体系;构建网……](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898081&idx=2&sn=80de465249ad82c9674f1a5c45f9e827&chksm=8c5fa2afbb282bb92e340c3dfbccdd9260fcd21727d8bf8f7dd33a86baea3d7cc1791907ce17#rd) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://jelly.jd.com/article/6006b1045b6c6a01506c87d7) 
 - [2016-11-14-Webpack-实用配置技巧](https://jelly.jd.com/article/6006b1045b6c6a01506c87c4) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://jelly.jd.com/article/6030845863dc65014d6fb71d) 
 - [2016-02-26-使用npm-scripts替代gulp](https://jelly.jd.com/article/6006b1035b6c6a01506c8794) 
+- [2021-05-15-All-in-one：项目级-monorepo-策略最佳实践](https://fed.taobao.org/blog/taofed/do71ct/uihagy) 

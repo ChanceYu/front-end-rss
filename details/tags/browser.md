@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 00:18:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -426,3 +426,4 @@
 - [2016-01-28-你所知道的3xx状态码](https://jelly.jd.com/article/6006b1035b6c6a01506c8791) 
 - [2015-12-23-Safari-9.0的新特性](https://jelly.jd.com/article/6006b1025b6c6a01506c8786) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://jelly.jd.com/article/6006b1025b6c6a01506c8776) 
+- [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 

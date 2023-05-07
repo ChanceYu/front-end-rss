@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-07 21:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 00:18:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -469,5 +469,8 @@
 - [2022-02-28-技术题已经问腻了，现在大厂面试前端都问这些...](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503634&idx=1&sn=037bcf03c829d39038134aad57339cf2&chksm=f992c9c3cee540d53ce99bf4a284bd2d180381a044d03918e623a3de25c85da591e0b6e489af#rd) 
 - [2022-01-10-网易前端进阶特训营，邀你免费入营！一举解决面试晋升难题！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502495&idx=1&sn=fb1e96f3c598ec4649cd0e37e0e4955e&chksm=f992cc4ecee545582275ba6a5da301844e5d54f1a12cd44206cec053475ddd5737960c8e4070#rd) 
 - [2022-01-07-字节面试被虐后，是时候搞懂-DNS-了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=3&sn=78055cba5703fe72d2b868b9e058943c&chksm=f992ccb8cee545aeb31ea7c0ec57c3931533501784e094cb069419af74fa92c54be773338866#rd) 
+- [2023-04-18-肝就完事了！2023前端高频面试题汇总](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495515&idx=1&sn=468624508340d011927fa8818c0276d0&chksm=ce268cadf95105bb5026ea1b8faaa4962d98fa645b847f5529e61ccaf1b31fe40c6a3b85adb8#rd) 
 - [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) 
+- [2023-05-06-我的好朋友鲨鱼呆呆给大家快速拿-offer-的一些指导](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497939&idx=1&sn=368434ffd5d7d6be3c159759383060da&chksm=c2b3392cf5c4b03a2e5cff50659149f29b1784fbfe4719af74fab3d8c1aacd5e30f991251fa0#rd) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
+- [2023-05-04-顺利拿到字节抖音的Offer！他平时是怎么刷题的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511455&idx=1&sn=25a796c993a922071cd29c5a7cc57a18&chksm=eb0795e6dc701cf0a395ec61c1ae3812dd80cd53dca4bfc6fd18df6cd4b20993c4ac779de5ba#rd) 
