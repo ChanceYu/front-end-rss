@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-08 00:44:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 10:40:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-05-08-【第2934期】利用好-git-bisect-这把利器，帮助你快速定位疑难-bug](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262437&idx=1&sn=2d3570a4e3f021792fc2f07dde2f4c7b&chksm=bd48d4618a3f5d7770409a8c3f1b756c45c002b9b0aa6c39c98bc709ae4f72411b9b7bab9377#rd) 
 - [2023-04-12-【图书】GitLab-CI/CD：从入门到实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261833&idx=2&sn=1b336341c087808e461ec82be1b4482a&chksm=bd48d20d8a3f5b1b9b653d52c32b969e0286248057db30309b05259266c3d347d202843e13a2#rd) 
 - [2022-12-20-【第2817期】git-worktree-的使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259867&idx=1&sn=12ef92b411ac90347e12f76b31fa9bd6&chksm=bd48da5f8a3f53494da73dffb6ff6d21f0e53243e082e3548c0787421c94c9d71a518927372d#rd) 
 - [2022-06-19-【第2645期】善用-Git-的-sparse-checkout-跟-shallow-clone/pull-來提高工作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255278&idx=1&sn=c5552cd167f7653b36ae05f211885fc6&chksm=bd49286a8a3ea17c659022c7e7c4c40fb3c651e108c4b7a1997168520b090adee79f29d8d1e9#rd) 
