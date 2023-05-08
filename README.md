@@ -10,21 +10,21 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-08 10:40:38，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-08 12:00:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)  
+- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
@@ -103,8 +103,8 @@
 </summary>
 
 
-- [2023-05-08-【第2934期】利用好-git-bisect-这把利器，帮助你快速定位疑难-bug](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262437&idx=1&sn=2d3570a4e3f021792fc2f07dde2f4c7b&chksm=bd48d4618a3f5d7770409a8c3f1b756c45c002b9b0aa6c39c98bc709ae4f72411b9b7bab9377#rd) ![](/assets/new.png)  
-- [2023-05-08-【图书】JavaScript算法：基本原理与代码实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262437&idx=2&sn=225d5082bcac40a92a89c57ca261fee0&chksm=bd48d4618a3f5d7751a7964b2651e9b89d251008af9fa10fbf71124613901161cf0026a997dc#rd) ![](/assets/new.png)  
+- [2023-05-08-【第2934期】利用好-git-bisect-这把利器，帮助你快速定位疑难-bug](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262437&idx=1&sn=2d3570a4e3f021792fc2f07dde2f4c7b&chksm=bd48d4618a3f5d7770409a8c3f1b756c45c002b9b0aa6c39c98bc709ae4f72411b9b7bab9377#rd)  
+- [2023-05-08-【图书】JavaScript算法：基本原理与代码实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262437&idx=2&sn=225d5082bcac40a92a89c57ca261fee0&chksm=bd48d4618a3f5d7751a7964b2651e9b89d251008af9fa10fbf71124613901161cf0026a997dc#rd)  
 - [2023-05-07-【图书】人件：项目与团队高效管理（第3版）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262433&idx=2&sn=df8ba1fd7591156385c3fe1f9aa76d1f&chksm=bd48d4658a3f5d73f8b46324ed46fa244e058a1e4402e9cdf51fd4bea72605a6da8db5701bb0#rd)  
 - [2023-05-07-【第2933期】使用-ChatGPT-和-json-server-快速实现-mock-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262433&idx=1&sn=b009525fa4ff68415d49b9538add34a0&chksm=bd48d4658a3f5d73a9b3ee00a3f9ca4afa4f0dc75ac7778539ffb3eae47d29a2aeb836892e27#rd)  
 - [2023-05-06-【第2932期】基于Sentry高效治理前端异常](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262407&idx=1&sn=98da5f97e08a1a8e6ccbb29785945eed&chksm=bd48d4438a3f5d55a4b8b222f1da323e0c66a680f7ca17510005e0934713c048780a221dfdb1#rd)  
@@ -258,7 +258,7 @@
 </summary>
 
 
-- [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd) ![](/assets/new.png)  
+- [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd)  
 - [2023-05-06-盘点那些前端项目上的规范工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=2&sn=e761a5f2c8256547a22cdcf40d9f4b71&chksm=f992bf96cee53680518372589ae684a8936acde55ef3c49c37f01e7da0fa426f95dfb4e40d3f#rd)  
 - [2023-05-06-2023已过半，Web前端还有机会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=1&sn=ceabd29d919b15e45ffe198beb25c094&chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd)  
 - [2023-05-05-弄懂React事件机制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=2&sn=d0cc2096efb8eb4d7cee43760ec4f8bd&chksm=f992bf91cee5368705bd7ca1ffca0a0d2aecfe2bf89a3c2c04d1c475a20389535813aec0b907#rd)  
@@ -327,6 +327,7 @@
 </summary>
 
 
+- [2023-05-08-ComponentLoader-与动态组件](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487055&idx=1&sn=abb5791cc6eb4cd24d13ae69fbd94e3e&chksm=fc862885cbf1a1933c20caeb22448f2588a3ed09c3b9a0c8bab2e6c79fca5bdf9697e716190e#rd) ![](/assets/new.png)  
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
 - [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
 - [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487015&idx=1&sn=02681fc1f9812ec4257faa1e9a299b51&chksm=fc8628edcbf1a1fb23c369d62a811c367c30d298da710a457b524c05ac7c41323172c57e6684#rd)  
