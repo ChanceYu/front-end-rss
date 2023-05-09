@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-09T02:00:47.709Z</updated>
+    <updated>2023-05-09T04:00:46.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 81 期：Angular 16、Next.js 13.4、Qwik 1.0、Vue 3.3 新特性前瞻]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247497958&amp;idx=1&amp;sn=2864feb9dc8bfa713b19b7aba2e23218&amp;chksm=c2b33919f5c4b00fd0a13f3aea30731d72eaa21ba68549cffc0ccd972cfdfcaaf710231be82d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247497958&amp;idx=1&amp;sn=2864feb9dc8bfa713b19b7aba2e23218&amp;chksm=c2b33919f5c4b00fd0a13f3aea30731d72eaa21ba68549cffc0ccd972cfdfcaaf710231be82d#rd"/>
+        <updated>2023-05-08T16:00:00.000Z</updated>
+        <published>2023-05-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3.2+ElementPlus手写电量智能监控系统，UI惊艳！新开源]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488798&amp;idx=1&amp;sn=738a3f6c09b8068af718658b03950fb5&amp;chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 252 期）：互联网创业变难了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html"/>
-        <updated>2023-04-27T16:00:00.000Z</updated>
-        <published>2023-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过实现一个简易版 react-redux ，我更理解了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514409&amp;idx=1&amp;sn=2ed5e0b6921bc3acf8a555209f3e2808&amp;chksm=f992bff8cee536eef49dfb4c572e64e57045d3cd79edeb7f660d5979f20a2017579ed6d1723d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514409&amp;idx=1&amp;sn=2ed5e0b6921bc3acf8a555209f3e2808&amp;chksm=f992bff8cee536eef49dfb4c572e64e57045d3cd79edeb7f660d5979f20a2017579ed6d1723d#rd"/>
         <updated>2023-04-27T16:00:00.000Z</updated>
         <published>2023-04-27T16:00:00.000Z</published>
     </entry>
