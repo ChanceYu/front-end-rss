@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-09T07:00:55.241Z</updated>
+    <updated>2023-05-09T13:01:29.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[【早说】ChatGpt的高效提问框架：CRISPE]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262450&amp;idx=2&amp;sn=d4e78d91ec2f3f22969b7e7932ca9e7d&amp;chksm=bd48d4768a3f5d60ffc715ebb03a78f9600846bfae11b540e923acc1b7096c948a8faed13e97#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262450&amp;idx=2&amp;sn=d4e78d91ec2f3f22969b7e7932ca9e7d&amp;chksm=bd48d4768a3f5d60ffc715ebb03a78f9600846bfae11b540e923acc1b7096c948a8faed13e97#rd"/>
+        <updated>2023-05-08T16:00:00.000Z</updated>
+        <published>2023-05-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting recursive with Node 20.1]]></title>
+        <id>https://nodeweekly.com/issues/485</id>
+        <link href="https://nodeweekly.com/issues/485"/>
         <updated>2023-05-08T16:00:00.000Z</updated>
         <published>2023-05-08T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488565&amp;idx=1&amp;sn=2e648925670b75126bada585bdd61e31&amp;chksm=ce4601a4f93188b220f1e944777a39609d0b436bbdc9817b26e3c3b3fa74849ce2a568c713d6#rd"/>
         <updated>2023-04-30T16:00:00.000Z</updated>
         <published>2023-04-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[看我如何用 Promise 解决 Vue 中父子组件的加载问题！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488555&amp;idx=1&amp;sn=a11d9504ebb7102c73bdd7d2dc306b21&amp;chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488555&amp;idx=1&amp;sn=a11d9504ebb7102c73bdd7d2dc306b21&amp;chksm=ce4601baf93188ac6591621be9419ba19831e7dd52553de9741fc9efad9a86a2581f7ef025b0#rd"/>
-        <updated>2023-04-29T16:00:00.000Z</updated>
-        <published>2023-04-29T16:00:00.000Z</published>
     </entry>
 </feed>
