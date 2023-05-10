@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-10T10:01:06.605Z</updated>
+    <updated>2023-05-10T13:00:41.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[今年这情况，别再背八股文了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495605&amp;idx=1&amp;sn=16393810210aa18087b3dbee4df33171&amp;chksm=ce268c43f95105554741b6d80e2fa51042c09d4616d42ca103357a00408ce18c4ea8e2dad4fe#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495605&amp;idx=1&amp;sn=16393810210aa18087b3dbee4df33171&amp;chksm=ce268c43f95105554741b6d80e2fa51042c09d4616d42ca103357a00408ce18c4ea8e2dad4fe#rd"/>
+        <updated>2023-05-09T16:00:00.000Z</updated>
+        <published>2023-05-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 个超级实用的 reduce 使用技巧]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514457&amp;idx=2&amp;sn=652a22ca367ecd316b6d388b1e362b19&amp;chksm=f992bf88cee5369ea820ca76893939cfe0bd010a5db4d976f8f4e07ea34e6fdf86527b6fdd15#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[产品：菜鸡，你快封装个vue3 hook，展示用户电池电量！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488800&amp;idx=1&amp;sn=3cec3d79c5a53f98940fa41b5bdaf261&amp;chksm=ce4600b1f93189a74d29f8da522f04af93bf4f7aa2bfe2569040435d851d242604773fd91746#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488800&amp;idx=1&amp;sn=3cec3d79c5a53f98940fa41b5bdaf261&amp;chksm=ce4600b1f93189a74d29f8da522f04af93bf4f7aa2bfe2569040435d851d242604773fd91746#rd"/>
+        <updated>2023-05-09T16:00:00.000Z</updated>
+        <published>2023-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Node到Deno：你可能还没准备好]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520851&amp;idx=1&amp;sn=57f1bec3798e9219046a8104a144b0de&amp;chksm=f9522710ce25ae065a70d818b15fef4d9a45d0eb5715bbfca29e63342ffd8f81840fb0aeffcb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520851&amp;idx=1&amp;sn=57f1bec3798e9219046a8104a144b0de&amp;chksm=f9522710ce25ae065a70d818b15fef4d9a45d0eb5715bbfca29e63342ffd8f81840fb0aeffcb#rd"/>
         <updated>2023-05-09T16:00:00.000Z</updated>
         <published>2023-05-09T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[前端质量体系之纸上谈兵]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd"/>
-        <updated>2023-05-03T16:00:00.000Z</updated>
-        <published>2023-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是 ”无渲染组件“ ？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=1&amp;sn=61a7dde833ff208e92a4fd7e5cd1b9ae&amp;chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=1&amp;sn=61a7dde833ff208e92a4fd7e5cd1b9ae&amp;chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd"/>
-        <updated>2023-05-03T16:00:00.000Z</updated>
-        <published>2023-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[节后充电！卷王必看的前端进阶指南来喽~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488703&amp;idx=1&amp;sn=1518bf4d395577ad3ad088e40cfbd7b2&amp;chksm=ce46012ef93188383395e4c543e836351dc25fdd2fe6cbc27f6be7d54f654b1036aaef754091#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488703&amp;idx=1&amp;sn=1518bf4d395577ad3ad088e40cfbd7b2&amp;chksm=ce46012ef93188383395e4c543e836351dc25fdd2fe6cbc27f6be7d54f654b1036aaef754091#rd"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
