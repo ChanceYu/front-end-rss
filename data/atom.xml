@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-10T13:00:41.986Z</updated>
+    <updated>2023-05-10T22:01:02.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[从Node到Deno：你可能还没准备好]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520851&amp;idx=1&amp;sn=57f1bec3798e9219046a8104a144b0de&amp;chksm=f9522710ce25ae065a70d818b15fef4d9a45d0eb5715bbfca29e63342ffd8f81840fb0aeffcb#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520851&amp;idx=1&amp;sn=57f1bec3798e9219046a8104a144b0de&amp;chksm=f9522710ce25ae065a70d818b15fef4d9a45d0eb5715bbfca29e63342ffd8f81840fb0aeffcb#rd"/>
+        <updated>2023-05-09T16:00:00.000Z</updated>
+        <published>2023-05-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端开发走向终结]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614378&amp;idx=1&amp;sn=1861ae907ae5f26832c6bc8a4fbe0201&amp;chksm=8022bb6bb755327dd029cf492d538bbb79f032c2764acf404d7b81a21717914a869271f72ba3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614378&amp;idx=1&amp;sn=1861ae907ae5f26832c6bc8a4fbe0201&amp;chksm=8022bb6bb755327dd029cf492d538bbb79f032c2764acf404d7b81a21717914a869271f72ba3#rd"/>
         <updated>2023-05-09T16:00:00.000Z</updated>
         <published>2023-05-09T16:00:00.000Z</published>
     </entry>
@@ -176,16 +183,16 @@
         <published>2023-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue3 与 React 全方面对比]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=1&amp;sn=13594bed5302dc07475291d1b918e9a8&amp;chksm=8022bba8b75532be1526632ce55b51bdacd0977f415b4719e58489599c09992ea334ffe3692a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=1&amp;sn=13594bed5302dc07475291d1b918e9a8&amp;chksm=8022bba8b75532be1526632ce55b51bdacd0977f415b4719e58489599c09992ea334ffe3692a#rd"/>
+        <title type="html"><![CDATA[面向对象：寻找性格稳重，上进、有责任感的他]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=2&amp;sn=533216deed634ba2b24db29788f5aad1&amp;chksm=8022bba8b75532bef6418e4dcb5c91d4eeb59814e9263b31a7d836ca75b06180215a589e005e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=2&amp;sn=533216deed634ba2b24db29788f5aad1&amp;chksm=8022bba8b75532bef6418e4dcb5c91d4eeb59814e9263b31a7d836ca75b06180215a589e005e#rd"/>
         <updated>2023-05-07T16:00:00.000Z</updated>
         <published>2023-05-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面向对象：寻找性格稳重，上进、有责任感的他]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=2&amp;sn=533216deed634ba2b24db29788f5aad1&amp;chksm=8022bba8b75532bef6418e4dcb5c91d4eeb59814e9263b31a7d836ca75b06180215a589e005e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=2&amp;sn=533216deed634ba2b24db29788f5aad1&amp;chksm=8022bba8b75532bef6418e4dcb5c91d4eeb59814e9263b31a7d836ca75b06180215a589e005e#rd"/>
+        <title type="html"><![CDATA[Vue3 与 React 全方面对比]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=1&amp;sn=13594bed5302dc07475291d1b918e9a8&amp;chksm=8022bba8b75532be1526632ce55b51bdacd0977f415b4719e58489599c09992ea334ffe3692a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614313&amp;idx=1&amp;sn=13594bed5302dc07475291d1b918e9a8&amp;chksm=8022bba8b75532be1526632ce55b51bdacd0977f415b4719e58489599c09992ea334ffe3692a#rd"/>
         <updated>2023-05-07T16:00:00.000Z</updated>
         <published>2023-05-07T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[二本逆袭腾讯，总包50W，太炸裂了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495552&amp;idx=1&amp;sn=6e86b7d7592286bce1240a9dbe792c45&amp;chksm=ce268c76f95105603e19a3855726a6d673b3138b95f12a93a9775f8e67556cae2cb76ddb84c8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495552&amp;idx=1&amp;sn=6e86b7d7592286bce1240a9dbe792c45&amp;chksm=ce268c76f95105603e19a3855726a6d673b3138b95f12a93a9775f8e67556cae2cb76ddb84c8#rd"/>
-        <updated>2023-05-03T16:00:00.000Z</updated>
-        <published>2023-05-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端质量体系之纸上谈兵]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514424&amp;idx=2&amp;sn=10e186f57bb5c4a3ded0ccf7d1717c51&amp;chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd"/>
         <updated>2023-05-03T16:00:00.000Z</updated>
         <published>2023-05-03T16:00:00.000Z</published>
     </entry>
