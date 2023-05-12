@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-12T00:01:01.087Z</updated>
+    <updated>2023-05-12T02:00:38.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 254 期）：人生是一个长板问题]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html"/>
+        <updated>2023-05-11T16:00:00.000Z</updated>
+        <published>2023-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT的打字回复效果，原理是什么？我带你们实现！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488818&amp;idx=1&amp;sn=c9852060aa75952b9fe029d58a2307c2&amp;chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488818&amp;idx=1&amp;sn=c9852060aa75952b9fe029d58a2307c2&amp;chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd"/>
+        <updated>2023-05-11T16:00:00.000Z</updated>
+        <published>2023-05-11T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【小册】防御式 CSS 精讲]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[前端如何快速拿offer？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488744&amp;idx=1&amp;sn=5ef64225d664f243e14e7739cf4d8116&amp;chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488744&amp;idx=1&amp;sn=5ef64225d664f243e14e7739cf4d8116&amp;chksm=ce460179f931886fa48504d9127ef7bca7e5b14df9b063883aaec489b37226b3d480264cf005#rd"/>
-        <updated>2023-05-05T16:00:00.000Z</updated>
-        <published>2023-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2932期】基于Sentry高效治理前端异常]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=1&amp;sn=98da5f97e08a1a8e6ccbb29785945eed&amp;chksm=bd48d4438a3f5d55a4b8b222f1da323e0c66a680f7ca17510005e0934713c048780a221dfdb1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=1&amp;sn=98da5f97e08a1a8e6ccbb29785945eed&amp;chksm=bd48d4438a3f5d55a4b8b222f1da323e0c66a680f7ca17510005e0934713c048780a221dfdb1#rd"/>
-        <updated>2023-05-05T16:00:00.000Z</updated>
-        <published>2023-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早行】2023.4小结]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=2&amp;sn=ebd95c6aa1f28aadc71e98292521551a&amp;chksm=bd48d4438a3f5d55e319b62028e1994f888d97a16fa9721b5fdf62d517515c33867ee442f07d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262407&amp;idx=2&amp;sn=ebd95c6aa1f28aadc71e98292521551a&amp;chksm=bd48d4438a3f5d55e319b62028e1994f888d97a16fa9721b5fdf62d517515c33867ee442f07d#rd"/>
         <updated>2023-05-05T16:00:00.000Z</updated>
         <published>2023-05-05T16:00:00.000Z</published>
     </entry>

@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-12 08:00:59，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-12 10:00:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -103,8 +103,8 @@
 </summary>
 
 
-- [2023-05-12-【第2938期】Tailwind-CSS-方案简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=1&sn=0fb505b05cdc05cdaaf2b52d3e4d7100&chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd) ![](/assets/new.png)  
-- [2023-05-12-【小册】防御式-CSS-精讲](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=2&sn=fc995d156c01eeb566146b8f48de4d50&chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd) ![](/assets/new.png)  
+- [2023-05-12-【第2938期】Tailwind-CSS-方案简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=1&sn=0fb505b05cdc05cdaaf2b52d3e4d7100&chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd)  
+- [2023-05-12-【小册】防御式-CSS-精讲](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=2&sn=fc995d156c01eeb566146b8f48de4d50&chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd)  
 - [2023-05-11-【图书】AIGC未来已来-迈向通用人工智能时代](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262529&idx=2&sn=8ad1ace78352d887a960bedb52c30bcd&chksm=bd48d7c58a3f5ed3cd179de583887d1cc118ba93c50265416af43e1bf90995ecb75aee738c21#rd)  
 - [2023-05-11-【第2937期】JavaScript奇技淫巧：debugger拦截](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262529&idx=1&sn=c07e5e78a80de8f4c6178054332a6598&chksm=bd48d7c58a3f5ed3d15d63ee746f1dcc9ef427c884f3a6019cc8dda99e1f5151138262c2ddde#rd)  
 - [2023-05-10-【第2936期】用GPT-从0搭建-Jest-到帮写测试用例](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262505&idx=1&sn=a6bf97de8d52ef01df6735848ca4dab1&chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd)  
@@ -196,6 +196,7 @@
 </summary>
 
 
+- [2023-05-12-ChatGPT的打字回复效果，原理是什么？我带你们实现！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488818&idx=1&sn=c9852060aa75952b9fe029d58a2307c2&chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd) ![](/assets/new.png)  
 - [2023-05-11-有点激动，谈了个高薪…](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488807&idx=1&sn=cfff807d8493541a987a5126a98c5a49&chksm=ce4600b6f93189a02674e5abdcfef8975a3dbc294fb5721a19a0af3d92e9ce7ad6cfc930f1eb#rd)  
 - [2023-05-10-产品：菜鸡，你快封装个vue3-hook，展示用户电池电量！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488800&idx=1&sn=3cec3d79c5a53f98940fa41b5bdaf261&chksm=ce4600b1f93189a74d29f8da522f04af93bf4f7aa2bfe2569040435d851d242604773fd91746#rd)  
 - [2023-05-09-Vue3.2+ElementPlus手写电量智能监控系统，UI惊艳！新开源](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488798&idx=1&sn=738a3f6c09b8068af718658b03950fb5&chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd)  
@@ -215,7 +216,6 @@
 - [2023-04-24-阿里P8大佬：小伙子，你前端面试稳了…](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488479&idx=1&sn=c099bc0a68a6124ee8437952a4322653&chksm=ce46064ef9318f586e3875cea97737fc88b95f44d3c5305edf53db9ce94b8ad1bcf3142dcf49#rd)  
 - [2023-04-23-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488446&idx=1&sn=e1f5985949a1f41fbc1732de0ebcf78e&chksm=ce46062ff9318f396f4b387e0e17795d7b286548c4e3cde7516c64a6c3069a1ff68d255654e0#rd)  
 - [2023-04-21-JS-中-10-个-你不知道的-try...catch-使用技巧](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488434&idx=1&sn=db3a56d8a7807a8b791e8d79f5a5c1bc&chksm=ce460623f9318f35f77f897867c602a83c5d096fe839282cd5fbe75e54b4114953d7fc30400f#rd)  
-- [2023-04-19-接手一个五年老项目！慢慢改造，持续更新改造计划！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488404&idx=1&sn=08a3deaa1baec7282648f40853cc35b0&chksm=ce460605f9318f13c29bc0fb2ad0ba5a08c3fddac5bfd6d8c526e04cd9615fa0e8b2d517bb46#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -454,6 +454,7 @@
 </summary>
 
 
+- [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html) ![](/assets/new.png)  
 - [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)  
 - [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
 - [2023-04-21-科技爱好者周刊（第-251-期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)  
@@ -473,7 +474,6 @@
 - [2023-01-06-科技爱好者周刊（第-238-期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)  
 - [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)  
 - [2022-12-23-科技爱好者周刊（第-236-期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)  
-- [2022-12-16-科技爱好者周刊（第-235-期）：青年失业率与选择创业](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-235.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

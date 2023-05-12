@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-12 08:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-12 10:00:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -388,6 +388,7 @@
 - [2019-01-08-携程大规模应用RN的工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490241&idx=1&sn=6e582b4a660e02b8d8427077f121bb77#wechat_redirect) 
 - [2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
 - [2018-12-18-Netflix：我们为什么要将GraphQL引入前端架构？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490124&idx=1&sn=c00ac4b281b3343221f57fcba6bd4d74#wechat_redirect) 
+- [2023-05-12-ChatGPT的打字回复效果，原理是什么？我带你们实现！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488818&idx=1&sn=c9852060aa75952b9fe029d58a2307c2&chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd) 
 - [2023-03-07-说说我所理解的【微前端】是什么~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487941&idx=1&sn=7062d07b0b4e202cc59e72c3ed1ddd77&chksm=ce460454f9318d424773e6a4319d8d78e0b54cb87d9173c9c4d3b16b7b50ad41b5670e693f44#rd) 
 - [2023-02-19-【面经】面试中遇到频率最高的23道HTTP面试题，需要全都背！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487779&idx=1&sn=824a5c22588df339f07ea0ee97bf8644&chksm=ce4604b2f9318da4a6554626c8ebb7232f16d69f5d98a7681bed4d59daf61381fcf9997f22cc#rd) 
 - [2023-01-21-程序员是坚守阵地？还是追求全栈？三个思考维度解决犹豫不决](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487628&idx=1&sn=64286c948d9e78dd7ea440e1d7766872&chksm=ce46051df9318c0b82ce0fb88d6aa7c2682528d23d5ae9485f9e97219b995e74e4d9563265b7#rd) 
