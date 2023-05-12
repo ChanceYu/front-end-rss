@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-12 10:00:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-12 15:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,9 +19,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -196,7 +196,7 @@
 </summary>
 
 
-- [2023-05-12-ChatGPT的打字回复效果，原理是什么？我带你们实现！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488818&idx=1&sn=c9852060aa75952b9fe029d58a2307c2&chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd) ![](/assets/new.png)  
+- [2023-05-12-ChatGPT的打字回复效果，原理是什么？我带你们实现！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488818&idx=1&sn=c9852060aa75952b9fe029d58a2307c2&chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd)  
 - [2023-05-11-有点激动，谈了个高薪…](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488807&idx=1&sn=cfff807d8493541a987a5126a98c5a49&chksm=ce4600b6f93189a02674e5abdcfef8975a3dbc294fb5721a19a0af3d92e9ce7ad6cfc930f1eb#rd)  
 - [2023-05-10-产品：菜鸡，你快封装个vue3-hook，展示用户电池电量！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488800&idx=1&sn=3cec3d79c5a53f98940fa41b5bdaf261&chksm=ce4600b1f93189a74d29f8da522f04af93bf4f7aa2bfe2569040435d851d242604773fd91746#rd)  
 - [2023-05-09-Vue3.2+ElementPlus手写电量智能监控系统，UI惊艳！新开源](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488798&idx=1&sn=738a3f6c09b8068af718658b03950fb5&chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd)  
@@ -258,25 +258,25 @@
 </summary>
 
 
-- [2023-05-11-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=1&sn=1ffe0b0e424105777fe35744c5b003d9&chksm=f992bfb1cee536a7b7b275d70eb40b383c64209c91b33e72b69d94dbfaa551239699f6ae2994#rd)  
+- [2023-05-12-批量任务导致页面卡死？怎么办？任务拆分？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=2&sn=495d444138378760bc3fd79805bd2f32&chksm=f992bfb9cee536af922bf048b13672215b800e8472fa29bf47045b35c59a7795c813059c8d23#rd) ![](/assets/new.png)  
 - [2023-05-11-后端架构师技术大全（69个点）](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=2&sn=e1b7ad944778c6e0c77d2bbfaba3eeca&chksm=f992bfb1cee536a70f623b22ea94cada8a1df8afefd7a3ed319331230ffa70b2d5fee348cd4e#rd)  
-- [2023-05-10-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=2&sn=652a22ca367ecd316b6d388b1e362b19&chksm=f992bf88cee5369ea820ca76893939cfe0bd010a5db4d976f8f4e07ea34e6fdf86527b6fdd15#rd)  
+- [2023-05-11-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=1&sn=1ffe0b0e424105777fe35744c5b003d9&chksm=f992bfb1cee536a7b7b275d70eb40b383c64209c91b33e72b69d94dbfaa551239699f6ae2994#rd)  
 - [2023-05-10-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=1&sn=8e6006093ca63b7796d2b27ff2668ddd&chksm=f992bf88cee5369e877796699fdbd60f87b16291390154417b6fe6ce89abaf19f9006048f0d2#rd)  
-- [2023-05-09-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=2&sn=67df8bc02773b3a663be17c4fab63dce&chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd)  
+- [2023-05-10-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=2&sn=652a22ca367ecd316b6d388b1e362b19&chksm=f992bf88cee5369ea820ca76893939cfe0bd010a5db4d976f8f4e07ea34e6fdf86527b6fdd15#rd)  
 - [2023-05-09-如何开发一个人人爱的组件?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=1&sn=318b462c6db6e2a1f2915fcf26e02305&chksm=f992bf83cee53695f1638d906c85b746ee230080c1f97564d430e40a6af55236dea28188fcaa#rd)  
-- [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd)  
+- [2023-05-09-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=2&sn=67df8bc02773b3a663be17c4fab63dce&chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd)  
 - [2023-05-08-如何实现原生-JS-的拖拽效果](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=2&sn=1032997c17fdcedacedbc831830dad8b&chksm=f992bf9dcee5368b8e15f9fe312c1d70b46ef93071985efa2cea4057b287505fc09a29e7f71d#rd)  
-- [2023-05-06-2023已过半，Web前端还有机会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=1&sn=ceabd29d919b15e45ffe198beb25c094&chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd)  
+- [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd)  
 - [2023-05-06-盘点那些前端项目上的规范工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=2&sn=e761a5f2c8256547a22cdcf40d9f4b71&chksm=f992bf96cee53680518372589ae684a8936acde55ef3c49c37f01e7da0fa426f95dfb4e40d3f#rd)  
-- [2023-05-05-再也不用手动改package.json的版本号](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=1&sn=54d03f227c11b98f429c2a6b2d60c820&chksm=f992bf91cee53687b1fc1e2da487c7aae4bc6189f58aff02725c3a72778f717ac4d41917f091#rd)  
+- [2023-05-06-2023已过半，Web前端还有机会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=1&sn=ceabd29d919b15e45ffe198beb25c094&chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd)  
 - [2023-05-05-弄懂React事件机制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=2&sn=d0cc2096efb8eb4d7cee43760ec4f8bd&chksm=f992bf91cee5368705bd7ca1ffca0a0d2aecfe2bf89a3c2c04d1c475a20389535813aec0b907#rd)  
-- [2023-05-04-前端质量体系之纸上谈兵](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514424&idx=2&sn=10e186f57bb5c4a3ded0ccf7d1717c51&chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd)  
+- [2023-05-05-再也不用手动改package.json的版本号](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=1&sn=54d03f227c11b98f429c2a6b2d60c820&chksm=f992bf91cee53687b1fc1e2da487c7aae4bc6189f58aff02725c3a72778f717ac4d41917f091#rd)  
 - [2023-05-04-什么是-”无渲染组件“-？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514424&idx=1&sn=61a7dde833ff208e92a4fd7e5cd1b9ae&chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd)  
-- [2023-04-28-H5-App开发技术如何进行选型-？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514409&idx=2&sn=599be8ceb103a4e6acbc4902e726c1cc&chksm=f992bff8cee536ee78217b70e4c351dc84a57787210fca8af3885ed92e8466b76566c3b5232d#rd)  
+- [2023-05-04-前端质量体系之纸上谈兵](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514424&idx=2&sn=10e186f57bb5c4a3ded0ccf7d1717c51&chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd)  
 - [2023-04-28-通过实现一个简易版-react-redux-，我更理解了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514409&idx=1&sn=2ed5e0b6921bc3acf8a555209f3e2808&chksm=f992bff8cee536eef49dfb4c572e64e57045d3cd79edeb7f660d5979f20a2017579ed6d1723d#rd)  
-- [2023-04-27-6-个ES13-中非常实用的新-JavaScript-特性](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514387&idx=1&sn=b96df584755a9e70a4370bfcb7cfd170&chksm=f992bfc2cee536d422c42358416c819411e2c9a89d4e57a8052a1513578f8fdffb39ac009c03#rd)  
+- [2023-04-28-H5-App开发技术如何进行选型-？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514409&idx=2&sn=599be8ceb103a4e6acbc4902e726c1cc&chksm=f992bff8cee536ee78217b70e4c351dc84a57787210fca8af3885ed92e8466b76566c3b5232d#rd)  
 - [2023-04-27-闲来无事，摸鱼时让-chatgpt-帮忙，写了一个-console-样式增强库并发布-npm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514387&idx=2&sn=d34c92b8f56059775bd3a295577da43e&chksm=f992bfc2cee536d429411a895e99af302dd6c761f8cf18af27d5ba87dfeb2f40964ebfd0dc25#rd)  
-- [2023-04-26-被誉为JavaScript中最难理解的概念之一的闭包是什么鬼？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514378&idx=2&sn=bc173401c1603d356c92264492e428e9&chksm=f992bfdbcee536cd5968046b31a27ded953226b4e37716fac10dccc941a55346f5b50e83f257#rd)  
+- [2023-04-27-6-个ES13-中非常实用的新-JavaScript-特性](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514387&idx=1&sn=b96df584755a9e70a4370bfcb7cfd170&chksm=f992bfc2cee536d422c42358416c819411e2c9a89d4e57a8052a1513578f8fdffb39ac009c03#rd)  
 - [2023-04-26-一个低代码拖拽的表单编辑器，开源咯！！！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514378&idx=1&sn=a9289930d8d0a08adbaf4ebc6a528502&chksm=f992bfdbcee536cd378e8783fcbc32c2ede21fcba8e7500073424f224417de575b46dfd6157d#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
@@ -454,7 +454,7 @@
 </summary>
 
 
-- [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html) ![](/assets/new.png)  
+- [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)  
 - [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)  
 - [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
 - [2023-04-21-科技爱好者周刊（第-251-期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)  
