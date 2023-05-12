@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-12T07:00:54.760Z</updated>
+    <updated>2023-05-12T10:00:47.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[ChatGPT的打字回复效果，原理是什么？我带你们实现！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488818&amp;idx=1&amp;sn=c9852060aa75952b9fe029d58a2307c2&amp;chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488818&amp;idx=1&amp;sn=c9852060aa75952b9fe029d58a2307c2&amp;chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd"/>
+        <updated>2023-05-11T16:00:00.000Z</updated>
+        <published>2023-05-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google IO  大会开发者要闻汇总：Android Studio、Flutter、Web……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520892&amp;idx=1&amp;sn=b449027d80de1dc38ca3deda4d2dc64d&amp;chksm=f952273fce25ae2978ea73dd765fe3070cd7fe092d947371bd732f0334fcdd6f0e87fe4447fd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520892&amp;idx=1&amp;sn=b449027d80de1dc38ca3deda4d2dc64d&amp;chksm=f952273fce25ae2978ea73dd765fe3070cd7fe092d947371bd732f0334fcdd6f0e87fe4447fd#rd"/>
         <updated>2023-05-11T16:00:00.000Z</updated>
         <published>2023-05-11T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2023已过半，Web前端还有机会吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514439&amp;idx=1&amp;sn=ceabd29d919b15e45ffe198beb25c094&amp;chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514439&amp;idx=1&amp;sn=ceabd29d919b15e45ffe198beb25c094&amp;chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd"/>
-        <updated>2023-05-05T16:00:00.000Z</updated>
-        <published>2023-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点那些前端项目上的规范工具]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514439&amp;idx=2&amp;sn=e761a5f2c8256547a22cdcf40d9f4b71&amp;chksm=f992bf96cee53680518372589ae684a8936acde55ef3c49c37f01e7da0fa426f95dfb4e40d3f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514439&amp;idx=2&amp;sn=e761a5f2c8256547a22cdcf40d9f4b71&amp;chksm=f992bf96cee53680518372589ae684a8936acde55ef3c49c37f01e7da0fa426f95dfb4e40d3f#rd"/>
         <updated>2023-05-05T16:00:00.000Z</updated>
         <published>2023-05-05T16:00:00.000Z</published>
     </entry>
