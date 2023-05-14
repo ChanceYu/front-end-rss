@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-13T10:00:41.439Z</updated>
+    <updated>2023-05-14T10:00:41.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端找工作被骗进传销，进去就挨打扇脸，逼着你转账。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511524&amp;idx=1&amp;sn=3f678e4e853963e8dfafb3269bb5d536&amp;chksm=eb07959ddc701c8b8b380ff74a841d4bfeb4e047109b4858c0e653bf62bd5754ae59e833b4da#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511524&amp;idx=1&amp;sn=3f678e4e853963e8dfafb3269bb5d536&amp;chksm=eb07959ddc701c8b8b380ff74a841d4bfeb4e047109b4858c0e653bf62bd5754ae59e833b4da#rd"/>
+        <updated>2023-05-12T16:00:00.000Z</updated>
+        <published>2023-05-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3.3发布了！带你了解一下它的新特性！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488831&amp;idx=1&amp;sn=14b5b28063ef60bbc167159cf43c5f46&amp;chksm=ce4600aef93189b8588c0759cb59bc4ec15978a6a9687ee064ec8d7f94620434171d9f11646d#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【图书】JavaScript算法：基本原理与代码实现]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262437&amp;idx=2&amp;sn=225d5082bcac40a92a89c57ca261fee0&amp;chksm=bd48d4618a3f5d7751a7964b2651e9b89d251008af9fa10fbf71124613901161cf0026a997dc#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262437&amp;idx=2&amp;sn=225d5082bcac40a92a89c57ca261fee0&amp;chksm=bd48d4618a3f5d7751a7964b2651e9b89d251008af9fa10fbf71124613901161cf0026a997dc#rd"/>
-        <updated>2023-05-07T16:00:00.000Z</updated>
-        <published>2023-05-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2934期】利用好 git bisect 这把利器，帮助你快速定位疑难 bug]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262437&amp;idx=1&amp;sn=2d3570a4e3f021792fc2f07dde2f4c7b&amp;chksm=bd48d4618a3f5d7770409a8c3f1b756c45c002b9b0aa6c39c98bc709ae4f72411b9b7bab9377#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262437&amp;idx=1&amp;sn=2d3570a4e3f021792fc2f07dde2f4c7b&amp;chksm=bd48d4618a3f5d7770409a8c3f1b756c45c002b9b0aa6c39c98bc709ae4f72411b9b7bab9377#rd"/>
         <updated>2023-05-07T16:00:00.000Z</updated>
         <published>2023-05-07T16:00:00.000Z</published>
     </entry>
