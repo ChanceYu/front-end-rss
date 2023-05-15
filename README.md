@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-15 12:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-15 15:00:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,9 +19,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -196,7 +196,7 @@
 </summary>
 
 
-- [2023-05-15-记录使用「设计模式」去解决「BUG」的经历，这感觉真妙~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488855&idx=1&sn=bf5d3dd72d35b96edbe65299955d4b03&chksm=ce4600c6f93189d0233db850e0718d8bd14680aa8944f1519a2293919508f8c48d9a91f8687d#rd) ![](/assets/new.png)  
+- [2023-05-15-记录使用「设计模式」去解决「BUG」的经历，这感觉真妙~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488855&idx=1&sn=bf5d3dd72d35b96edbe65299955d4b03&chksm=ce4600c6f93189d0233db850e0718d8bd14680aa8944f1519a2293919508f8c48d9a91f8687d#rd)  
 - [2023-05-14-19个提高工作效率的JavaScript单行代码，爱不释手啊！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488854&idx=1&sn=882fe1ace4ae7d888f6e31740e2a823c&chksm=ce4600c7f93189d1efe00efbc45d24530550bbeff3036007803141a6ad9c8f03528212b962d5#rd)  
 - [2023-05-13-Vue3.3发布了！带你了解一下它的新特性！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488831&idx=1&sn=14b5b28063ef60bbc167159cf43c5f46&chksm=ce4600aef93189b8588c0759cb59bc4ec15978a6a9687ee064ec8d7f94620434171d9f11646d#rd)  
 - [2023-05-12-ChatGPT的打字回复效果，原理是什么？我带你们实现！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488818&idx=1&sn=c9852060aa75952b9fe029d58a2307c2&chksm=ce4600a3f93189b5b4e750c0d92daa3a11cfd44e315f9e74fbd1cb02a1748823941c9fff9597#rd)  
@@ -258,25 +258,25 @@
 </summary>
 
 
-- [2023-05-12-批量任务导致页面卡死？怎么办？任务拆分？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=2&sn=495d444138378760bc3fd79805bd2f32&chksm=f992bfb9cee536af922bf048b13672215b800e8472fa29bf47045b35c59a7795c813059c8d23#rd)  
+- [2023-05-15-分享15个对Web开发人员有用的高效工具网站](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514556&idx=2&sn=d9f9bc27b0505e30a9e51ee508196e84&chksm=f992bf6dcee5367b71ee935b7a5520d7a2b46adb871aeaea61610b1b53cb2162eca4aec6310a#rd) ![](/assets/new.png)  
 - [2023-05-12-阿里面试官：小伙子你这前端水平666啊！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=1&sn=3febd2e3d982ffb0764fd15547d28f2c&chksm=f992bfb9cee536af30de2e7e9fc3f26fa7e9684e434d83c5f92cc258bc3eaa6f4914112dd7fb#rd)  
-- [2023-05-11-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=1&sn=1ffe0b0e424105777fe35744c5b003d9&chksm=f992bfb1cee536a7b7b275d70eb40b383c64209c91b33e72b69d94dbfaa551239699f6ae2994#rd)  
+- [2023-05-12-批量任务导致页面卡死？怎么办？任务拆分？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=2&sn=495d444138378760bc3fd79805bd2f32&chksm=f992bfb9cee536af922bf048b13672215b800e8472fa29bf47045b35c59a7795c813059c8d23#rd)  
 - [2023-05-11-后端架构师技术大全（69个点）](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=2&sn=e1b7ad944778c6e0c77d2bbfaba3eeca&chksm=f992bfb1cee536a70f623b22ea94cada8a1df8afefd7a3ed319331230ffa70b2d5fee348cd4e#rd)  
-- [2023-05-10-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=2&sn=652a22ca367ecd316b6d388b1e362b19&chksm=f992bf88cee5369ea820ca76893939cfe0bd010a5db4d976f8f4e07ea34e6fdf86527b6fdd15#rd)  
+- [2023-05-11-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=1&sn=1ffe0b0e424105777fe35744c5b003d9&chksm=f992bfb1cee536a7b7b275d70eb40b383c64209c91b33e72b69d94dbfaa551239699f6ae2994#rd)  
 - [2023-05-10-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=1&sn=8e6006093ca63b7796d2b27ff2668ddd&chksm=f992bf88cee5369e877796699fdbd60f87b16291390154417b6fe6ce89abaf19f9006048f0d2#rd)  
-- [2023-05-09-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=2&sn=67df8bc02773b3a663be17c4fab63dce&chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd)  
+- [2023-05-10-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=2&sn=652a22ca367ecd316b6d388b1e362b19&chksm=f992bf88cee5369ea820ca76893939cfe0bd010a5db4d976f8f4e07ea34e6fdf86527b6fdd15#rd)  
 - [2023-05-09-如何开发一个人人爱的组件?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=1&sn=318b462c6db6e2a1f2915fcf26e02305&chksm=f992bf83cee53695f1638d906c85b746ee230080c1f97564d430e40a6af55236dea28188fcaa#rd)  
-- [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd)  
+- [2023-05-09-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=2&sn=67df8bc02773b3a663be17c4fab63dce&chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd)  
 - [2023-05-08-如何实现原生-JS-的拖拽效果](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=2&sn=1032997c17fdcedacedbc831830dad8b&chksm=f992bf9dcee5368b8e15f9fe312c1d70b46ef93071985efa2cea4057b287505fc09a29e7f71d#rd)  
-- [2023-05-06-2023已过半，Web前端还有机会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=1&sn=ceabd29d919b15e45ffe198beb25c094&chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd)  
+- [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd)  
 - [2023-05-06-盘点那些前端项目上的规范工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=2&sn=e761a5f2c8256547a22cdcf40d9f4b71&chksm=f992bf96cee53680518372589ae684a8936acde55ef3c49c37f01e7da0fa426f95dfb4e40d3f#rd)  
-- [2023-05-05-再也不用手动改package.json的版本号](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=1&sn=54d03f227c11b98f429c2a6b2d60c820&chksm=f992bf91cee53687b1fc1e2da487c7aae4bc6189f58aff02725c3a72778f717ac4d41917f091#rd)  
+- [2023-05-06-2023已过半，Web前端还有机会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=1&sn=ceabd29d919b15e45ffe198beb25c094&chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd)  
 - [2023-05-05-弄懂React事件机制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=2&sn=d0cc2096efb8eb4d7cee43760ec4f8bd&chksm=f992bf91cee5368705bd7ca1ffca0a0d2aecfe2bf89a3c2c04d1c475a20389535813aec0b907#rd)  
-- [2023-05-04-前端质量体系之纸上谈兵](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514424&idx=2&sn=10e186f57bb5c4a3ded0ccf7d1717c51&chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd)  
+- [2023-05-05-再也不用手动改package.json的版本号](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514432&idx=1&sn=54d03f227c11b98f429c2a6b2d60c820&chksm=f992bf91cee53687b1fc1e2da487c7aae4bc6189f58aff02725c3a72778f717ac4d41917f091#rd)  
 - [2023-05-04-什么是-”无渲染组件“-？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514424&idx=1&sn=61a7dde833ff208e92a4fd7e5cd1b9ae&chksm=f992bfe9cee536fffaee1de2a7caa95e9c8a440e349e70253a0b0b9a1bfdc96fc5e6a0d988f2#rd)  
-- [2023-04-28-H5-App开发技术如何进行选型-？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514409&idx=2&sn=599be8ceb103a4e6acbc4902e726c1cc&chksm=f992bff8cee536ee78217b70e4c351dc84a57787210fca8af3885ed92e8466b76566c3b5232d#rd)  
+- [2023-05-04-前端质量体系之纸上谈兵](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514424&idx=2&sn=10e186f57bb5c4a3ded0ccf7d1717c51&chksm=f992bfe9cee536ff84f5fa78a3c850b2bd5055b7390fd327dadcbd70ed3190ddfa1ea838969f#rd)  
 - [2023-04-28-通过实现一个简易版-react-redux-，我更理解了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514409&idx=1&sn=2ed5e0b6921bc3acf8a555209f3e2808&chksm=f992bff8cee536eef49dfb4c572e64e57045d3cd79edeb7f660d5979f20a2017579ed6d1723d#rd)  
-- [2023-04-27-6-个ES13-中非常实用的新-JavaScript-特性](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514387&idx=1&sn=b96df584755a9e70a4370bfcb7cfd170&chksm=f992bfc2cee536d422c42358416c819411e2c9a89d4e57a8052a1513578f8fdffb39ac009c03#rd)  
+- [2023-04-28-H5-App开发技术如何进行选型-？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514409&idx=2&sn=599be8ceb103a4e6acbc4902e726c1cc&chksm=f992bff8cee536ee78217b70e4c351dc84a57787210fca8af3885ed92e8466b76566c3b5232d#rd)  
 - [2023-04-27-闲来无事，摸鱼时让-chatgpt-帮忙，写了一个-console-样式增强库并发布-npm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514387&idx=2&sn=d34c92b8f56059775bd3a295577da43e&chksm=f992bfc2cee536d429411a895e99af302dd6c761f8cf18af27d5ba87dfeb2f40964ebfd0dc25#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
