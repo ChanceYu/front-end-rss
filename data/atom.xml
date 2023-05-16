@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-16T13:01:26.425Z</updated>
+    <updated>2023-05-16T22:00:43.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[在JavaScript中 4 种创建枚举方式]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511535&amp;idx=1&amp;sn=358cf70c6fac6fdf1a379107774b5e30&amp;chksm=eb079596dc701c80fc5b7b83a111a78e6067c0fdf92786dd9d061a113b7edbddf5c38ea6e649#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511535&amp;idx=1&amp;sn=358cf70c6fac6fdf1a379107774b5e30&amp;chksm=eb079596dc701c80fc5b7b83a111a78e6067c0fdf92786dd9d061a113b7edbddf5c38ea6e649#rd"/>
+        <updated>2023-05-15T16:00:00.000Z</updated>
+        <published>2023-05-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[怪不得…最近周围的前端都在看这个！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247497984&amp;idx=1&amp;sn=125e1065136479940e05cd2f9ba752bc&amp;chksm=c2b338fff5c4b1e9dc2cb401c103ef5d0b8dddf8b6a35b2f5f99ca215cad896b85a289c9d8ae#rd</id>
@@ -62,6 +69,13 @@
         <link href="https://nodeweekly.com/issues/486"/>
         <updated>2023-05-15T16:00:00.000Z</updated>
         <published>2023-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rspack 迁移好简单，性能提升好多！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511530&amp;idx=1&amp;sn=ffc0aac34a0e5872668b130a6e080c99&amp;chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511530&amp;idx=1&amp;sn=ffc0aac34a0e5872668b130a6e080c99&amp;chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd"/>
+        <updated>2023-05-14T16:00:00.000Z</updated>
+        <published>2023-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端食堂技术周刊第 82 期：Vue3.3、Google I/O、CSS In 2023、Remix Conf 2023]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[闲来无事，摸鱼时让 chatgpt 帮忙，写了一个 console 样式增强库并发布 npm]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614378&amp;idx=2&amp;sn=a8a1ad7688a2f438cde639c3e5094600&amp;chksm=8022bb6bb755327dc673dc0c989894f5c7d7200dbd8a96b20bae7923bfc9320f38c8822236f9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614378&amp;idx=2&amp;sn=a8a1ad7688a2f438cde639c3e5094600&amp;chksm=8022bb6bb755327dc673dc0c989894f5c7d7200dbd8a96b20bae7923bfc9320f38c8822236f9#rd"/>
-        <updated>2023-05-09T16:00:00.000Z</updated>
-        <published>2023-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】肯定式探询]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=2&amp;sn=d93096fea52201f001a962e757193e9b&amp;chksm=bd48d7ad8a3f5ebb8790eb5dd0b9ad12664cddc095611e788a36cae7d41d36a297ab68585362#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=2&amp;sn=d93096fea52201f001a962e757193e9b&amp;chksm=bd48d7ad8a3f5ebb8790eb5dd0b9ad12664cddc095611e788a36cae7d41d36a297ab68585362#rd"/>
-        <updated>2023-05-09T16:00:00.000Z</updated>
-        <published>2023-05-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2936期】用GPT 从0搭建 Jest 到帮写测试用例]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=1&amp;sn=a6bf97de8d52ef01df6735848ca4dab1&amp;chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=1&amp;sn=a6bf97de8d52ef01df6735848ca4dab1&amp;chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd"/>
         <updated>2023-05-09T16:00:00.000Z</updated>
         <published>2023-05-09T16:00:00.000Z</published>
     </entry>
