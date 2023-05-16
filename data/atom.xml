@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-16T00:00:41.675Z</updated>
+    <updated>2023-05-16T02:00:47.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早说】选择权与决策权]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262585&amp;idx=2&amp;sn=fad4c175c491de6d54bf5d98d5815d60&amp;chksm=bd48d7fd8a3f5eeb2dbc8c18dad292987fbe09d84090981d6c84b418777ee27f7e95db54c944#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262585&amp;idx=2&amp;sn=fad4c175c491de6d54bf5d98d5815d60&amp;chksm=bd48d7fd8a3f5eeb2dbc8c18dad292987fbe09d84090981d6c84b418777ee27f7e95db54c944#rd"/>
+        <updated>2023-05-15T16:00:00.000Z</updated>
+        <published>2023-05-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2942期】ts-migrate：快速将JavaScript迁移到TypeScript！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262585&amp;idx=1&amp;sn=7dff14f620a9c4807f29f8eb88ae232c&amp;chksm=bd48d7fd8a3f5eebf0f093ddbf4c5e014d77e1837b1341d2e9fd6f697b807e15e768f9ab7a2c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262585&amp;idx=1&amp;sn=7dff14f620a9c4807f29f8eb88ae232c&amp;chksm=bd48d7fd8a3f5eebf0f093ddbf4c5e014d77e1837b1341d2e9fd6f697b807e15e768f9ab7a2c#rd"/>
+        <updated>2023-05-15T16:00:00.000Z</updated>
+        <published>2023-05-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端食堂技术周刊第 82 期：Vue3.3、Google I/O、CSS In 2023、Remix Conf 2023]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247497977&amp;idx=1&amp;sn=56eb2cb057dd337dce5f3e4da987e0c1&amp;chksm=c2b33906f5c4b010156bee143ea0bbc7a8b549f5ede69ffc131e7b656565a206aa17a4f449b5#rd</id>
@@ -64,16 +78,16 @@
         <published>2023-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【活动】微盟技术沙龙 - SaaS 场景下面向多端融合的新基建]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=2&amp;sn=08e4705a86ee7e66171c1e5dd29bc828&amp;chksm=bd48d7eb8a3f5efd1c1d04ba15008d93505cf73b4dc198b2e6fe45574824c8bed03908ed643b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=2&amp;sn=08e4705a86ee7e66171c1e5dd29bc828&amp;chksm=bd48d7eb8a3f5efd1c1d04ba15008d93505cf73b4dc198b2e6fe45574824c8bed03908ed643b#rd"/>
+        <title type="html"><![CDATA[【第2941期】单开网页应用利器：BroadcastChannel]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=1&amp;sn=bf535a2be4777855c5e425334514fa23&amp;chksm=bd48d7eb8a3f5efd8b0e8eb114b81a2ab56999ea6794b6795991833bf9ab4a36f8da48d0c358#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=1&amp;sn=bf535a2be4777855c5e425334514fa23&amp;chksm=bd48d7eb8a3f5efd8b0e8eb114b81a2ab56999ea6794b6795991833bf9ab4a36f8da48d0c358#rd"/>
         <updated>2023-05-14T16:00:00.000Z</updated>
         <published>2023-05-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2941期】单开网页应用利器：BroadcastChannel]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=1&amp;sn=bf535a2be4777855c5e425334514fa23&amp;chksm=bd48d7eb8a3f5efd8b0e8eb114b81a2ab56999ea6794b6795991833bf9ab4a36f8da48d0c358#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=1&amp;sn=bf535a2be4777855c5e425334514fa23&amp;chksm=bd48d7eb8a3f5efd8b0e8eb114b81a2ab56999ea6794b6795991833bf9ab4a36f8da48d0c358#rd"/>
+        <title type="html"><![CDATA[【活动】微盟技术沙龙 - SaaS 场景下面向多端融合的新基建]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=2&amp;sn=08e4705a86ee7e66171c1e5dd29bc828&amp;chksm=bd48d7eb8a3f5efd1c1d04ba15008d93505cf73b4dc198b2e6fe45574824c8bed03908ed643b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262575&amp;idx=2&amp;sn=08e4705a86ee7e66171c1e5dd29bc828&amp;chksm=bd48d7eb8a3f5efd1c1d04ba15008d93505cf73b4dc198b2e6fe45574824c8bed03908ed643b#rd"/>
         <updated>2023-05-14T16:00:00.000Z</updated>
         <published>2023-05-14T16:00:00.000Z</published>
     </entry>
@@ -169,16 +183,16 @@
         <published>2023-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2938期】Tailwind CSS 方案简介]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd"/>
+        <title type="html"><![CDATA[【小册】防御式 CSS 精讲]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd"/>
         <updated>2023-05-11T16:00:00.000Z</updated>
         <published>2023-05-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】防御式 CSS 精讲]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd"/>
+        <title type="html"><![CDATA[【第2938期】Tailwind CSS 方案简介]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd"/>
         <updated>2023-05-11T16:00:00.000Z</updated>
         <published>2023-05-11T16:00:00.000Z</published>
     </entry>
@@ -225,16 +239,16 @@
         <published>2023-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】AIGC未来已来 迈向通用人工智能时代]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=2&amp;sn=8ad1ace78352d887a960bedb52c30bcd&amp;chksm=bd48d7c58a3f5ed3cd179de583887d1cc118ba93c50265416af43e1bf90995ecb75aee738c21#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=2&amp;sn=8ad1ace78352d887a960bedb52c30bcd&amp;chksm=bd48d7c58a3f5ed3cd179de583887d1cc118ba93c50265416af43e1bf90995ecb75aee738c21#rd"/>
+        <title type="html"><![CDATA[【第2937期】JavaScript奇技淫巧：debugger拦截]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=1&amp;sn=c07e5e78a80de8f4c6178054332a6598&amp;chksm=bd48d7c58a3f5ed3d15d63ee746f1dcc9ef427c884f3a6019cc8dda99e1f5151138262c2ddde#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=1&amp;sn=c07e5e78a80de8f4c6178054332a6598&amp;chksm=bd48d7c58a3f5ed3d15d63ee746f1dcc9ef427c884f3a6019cc8dda99e1f5151138262c2ddde#rd"/>
         <updated>2023-05-10T16:00:00.000Z</updated>
         <published>2023-05-10T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2937期】JavaScript奇技淫巧：debugger拦截]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=1&amp;sn=c07e5e78a80de8f4c6178054332a6598&amp;chksm=bd48d7c58a3f5ed3d15d63ee746f1dcc9ef427c884f3a6019cc8dda99e1f5151138262c2ddde#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=1&amp;sn=c07e5e78a80de8f4c6178054332a6598&amp;chksm=bd48d7c58a3f5ed3d15d63ee746f1dcc9ef427c884f3a6019cc8dda99e1f5151138262c2ddde#rd"/>
+        <title type="html"><![CDATA[【图书】AIGC未来已来 迈向通用人工智能时代]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=2&amp;sn=8ad1ace78352d887a960bedb52c30bcd&amp;chksm=bd48d7c58a3f5ed3cd179de583887d1cc118ba93c50265416af43e1bf90995ecb75aee738c21#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262529&amp;idx=2&amp;sn=8ad1ace78352d887a960bedb52c30bcd&amp;chksm=bd48d7c58a3f5ed3cd179de583887d1cc118ba93c50265416af43e1bf90995ecb75aee738c21#rd"/>
         <updated>2023-05-10T16:00:00.000Z</updated>
         <published>2023-05-10T16:00:00.000Z</published>
     </entry>
@@ -302,16 +316,16 @@
         <published>2023-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2936期】用GPT 从0搭建 Jest 到帮写测试用例]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=1&amp;sn=a6bf97de8d52ef01df6735848ca4dab1&amp;chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=1&amp;sn=a6bf97de8d52ef01df6735848ca4dab1&amp;chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd"/>
+        <title type="html"><![CDATA[【早说】肯定式探询]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=2&amp;sn=d93096fea52201f001a962e757193e9b&amp;chksm=bd48d7ad8a3f5ebb8790eb5dd0b9ad12664cddc095611e788a36cae7d41d36a297ab68585362#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=2&amp;sn=d93096fea52201f001a962e757193e9b&amp;chksm=bd48d7ad8a3f5ebb8790eb5dd0b9ad12664cddc095611e788a36cae7d41d36a297ab68585362#rd"/>
         <updated>2023-05-09T16:00:00.000Z</updated>
         <published>2023-05-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】肯定式探询]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=2&amp;sn=d93096fea52201f001a962e757193e9b&amp;chksm=bd48d7ad8a3f5ebb8790eb5dd0b9ad12664cddc095611e788a36cae7d41d36a297ab68585362#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=2&amp;sn=d93096fea52201f001a962e757193e9b&amp;chksm=bd48d7ad8a3f5ebb8790eb5dd0b9ad12664cddc095611e788a36cae7d41d36a297ab68585362#rd"/>
+        <title type="html"><![CDATA[【第2936期】用GPT 从0搭建 Jest 到帮写测试用例]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=1&amp;sn=a6bf97de8d52ef01df6735848ca4dab1&amp;chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262505&amp;idx=1&amp;sn=a6bf97de8d52ef01df6735848ca4dab1&amp;chksm=bd48d7ad8a3f5ebbcf6a54e0bc6b6cdcd5c3627363e6daf26e4c4841cceb7f84149660901597#rd"/>
         <updated>2023-05-09T16:00:00.000Z</updated>
         <published>2023-05-09T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Vue3.2+ElementPlus手写电量智能监控系统，UI惊艳！新开源]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488798&amp;idx=1&amp;sn=738a3f6c09b8068af718658b03950fb5&amp;chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488798&amp;idx=1&amp;sn=738a3f6c09b8068af718658b03950fb5&amp;chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd"/>
-        <updated>2023-05-08T16:00:00.000Z</updated>
-        <published>2023-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2935期】10分钟打造基于ChatGPT的Markdown智能文档]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262450&amp;idx=1&amp;sn=69176ec27aedbc5abaa984485e8f6309&amp;chksm=bd48d4768a3f5d6018a4fd42355ea728ceab990dbfb5a3eabc4002098aec83bbaec05967a179#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262450&amp;idx=1&amp;sn=69176ec27aedbc5abaa984485e8f6309&amp;chksm=bd48d4768a3f5d6018a4fd42355ea728ceab990dbfb5a3eabc4002098aec83bbaec05967a179#rd"/>
-        <updated>2023-05-08T16:00:00.000Z</updated>
-        <published>2023-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】ChatGpt的高效提问框架：CRISPE]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262450&amp;idx=2&amp;sn=d4e78d91ec2f3f22969b7e7932ca9e7d&amp;chksm=bd48d4768a3f5d60ffc715ebb03a78f9600846bfae11b540e923acc1b7096c948a8faed13e97#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262450&amp;idx=2&amp;sn=d4e78d91ec2f3f22969b7e7932ca9e7d&amp;chksm=bd48d4768a3f5d60ffc715ebb03a78f9600846bfae11b540e923acc1b7096c948a8faed13e97#rd"/>
         <updated>2023-05-08T16:00:00.000Z</updated>
         <published>2023-05-08T16:00:00.000Z</published>
     </entry>
