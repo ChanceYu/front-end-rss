@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-16T02:00:47.712Z</updated>
+    <updated>2023-05-16T10:00:40.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[来公司半年了，我做了哪些优化，能让老板对我刮目相看~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488876&amp;idx=1&amp;sn=a18c7ddf896b0bbc5a56c122aa45de0f&amp;chksm=ce4600fdf93189eb61e54c15fe5d24a326984b7a3f5cc050c8f29c08df0e9b75590e3e395a9b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488876&amp;idx=1&amp;sn=a18c7ddf896b0bbc5a56c122aa45de0f&amp;chksm=ce4600fdf93189eb61e54c15fe5d24a326984b7a3f5cc050c8f29c08df0e9b75590e3e395a9b#rd"/>
+        <updated>2023-05-15T16:00:00.000Z</updated>
+        <published>2023-05-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】选择权与决策权]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262585&amp;idx=2&amp;sn=fad4c175c491de6d54bf5d98d5815d60&amp;chksm=bd48d7fd8a3f5eeb2dbc8c18dad292987fbe09d84090981d6c84b418777ee27f7e95db54c944#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3除了keep-alive，还有哪些页面缓存的实现方案]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514450&amp;idx=2&amp;sn=67df8bc02773b3a663be17c4fab63dce&amp;chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514450&amp;idx=2&amp;sn=67df8bc02773b3a663be17c4fab63dce&amp;chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd"/>
-        <updated>2023-05-08T16:00:00.000Z</updated>
-        <published>2023-05-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3.2+ElementPlus手写电量智能监控系统，UI惊艳！新开源]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488798&amp;idx=1&amp;sn=738a3f6c09b8068af718658b03950fb5&amp;chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488798&amp;idx=1&amp;sn=738a3f6c09b8068af718658b03950fb5&amp;chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd"/>
         <updated>2023-05-08T16:00:00.000Z</updated>
         <published>2023-05-08T16:00:00.000Z</published>
     </entry>
