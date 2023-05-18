@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-18T13:00:54.222Z</updated>
+    <updated>2023-05-18T15:00:43.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[妙用 background 实现花式文字效果]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495645&amp;idx=1&amp;sn=6a4fecbe4638636274512804938ee13b&amp;chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495645&amp;idx=1&amp;sn=6a4fecbe4638636274512804938ee13b&amp;chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd"/>
+        <updated>2023-05-17T16:00:00.000Z</updated>
+        <published>2023-05-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物理世界的互动之旅：Matter.js入门指南]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514641&amp;idx=2&amp;sn=2e5df23e0d1430d4bb0ff6f87cf1d859&amp;chksm=f992bcc0cee535d64eba59135bd460f0177b31c9c11e90bee78bfe72c71bcf1bd6aa3db46749#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd"/>
         <updated>2023-05-11T16:00:00.000Z</updated>
         <published>2023-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据说…1000个前端能做出1000种开源图表库]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511490&amp;idx=1&amp;sn=27a13da3dbad2a24b0ef783c7b7c3ade&amp;chksm=eb0795bbdc701cad6cfe68b2271ba904a8c2c5b041e50e4142d2fb027c00ff09b4e92fb44bd3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511490&amp;idx=1&amp;sn=27a13da3dbad2a24b0ef783c7b7c3ade&amp;chksm=eb0795bbdc701cad6cfe68b2271ba904a8c2c5b041e50e4142d2fb027c00ff09b4e92fb44bd3#rd"/>
-        <updated>2023-05-10T16:00:00.000Z</updated>
-        <published>2023-05-10T16:00:00.000Z</published>
     </entry>
 </feed>
