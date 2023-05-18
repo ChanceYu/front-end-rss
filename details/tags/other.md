@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-18 23:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-19 06:01:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -21,6 +21,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639) 
 - [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635) 
 - [2023-03-03-Garbage-collector-experiments](https://javascriptweekly.com/issues/628) 
 - [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624) 

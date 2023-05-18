@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-18T15:00:43.044Z</updated>
+    <updated>2023-05-18T22:01:08.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[新来了一个卷王，八股文 算法张口就来，太卷了~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511570&amp;idx=1&amp;sn=86b5708b1671cf0bfc4c43624f6a3ef5&amp;chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511570&amp;idx=1&amp;sn=86b5708b1671cf0bfc4c43624f6a3ef5&amp;chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd"/>
+        <updated>2023-05-17T16:00:00.000Z</updated>
+        <published>2023-05-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[妙用 background 实现花式文字效果]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495645&amp;idx=1&amp;sn=6a4fecbe4638636274512804938ee13b&amp;chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd</id>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[【第2944期】Cookie 的访问方式可能要有大变化了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262617&amp;idx=1&amp;sn=f7c7f6a13ad66e1bb4214e0ab0b7f220&amp;chksm=bd48d71d8a3f5e0b603a8b9fbe81792c84119e8f696a4a9b277922f6db920d464a2e96ba7e63#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262617&amp;idx=1&amp;sn=f7c7f6a13ad66e1bb4214e0ab0b7f220&amp;chksm=bd48d71d8a3f5e0b603a8b9fbe81792c84119e8f696a4a9b277922f6db920d464a2e96ba7e63#rd"/>
+        <updated>2023-05-17T16:00:00.000Z</updated>
+        <published>2023-05-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jQuery lives on; major changes teased]]></title>
+        <id>https://javascriptweekly.com/issues/639</id>
+        <link href="https://javascriptweekly.com/issues/639"/>
         <updated>2023-05-17T16:00:00.000Z</updated>
         <published>2023-05-17T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[阿里面试——如何用 js 实现瀑布流布局]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614444&amp;idx=2&amp;sn=8d19cf0ec8fd965ec1bc4c79eb81297e&amp;chksm=8022bb2db755323b8ecd6dc9ed2e6c3e16416e47ba0607bb0e68738352f34ae658a9249d6767#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614444&amp;idx=2&amp;sn=8d19cf0ec8fd965ec1bc4c79eb81297e&amp;chksm=8022bb2db755323b8ecd6dc9ed2e6c3e16416e47ba0607bb0e68738352f34ae658a9249d6767#rd"/>
-        <updated>2023-05-11T16:00:00.000Z</updated>
-        <published>2023-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【小册】防御式 CSS 精讲]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=2&amp;sn=fc995d156c01eeb566146b8f48de4d50&amp;chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd"/>
-        <updated>2023-05-11T16:00:00.000Z</updated>
-        <published>2023-05-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2938期】Tailwind CSS 方案简介]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262543&amp;idx=1&amp;sn=0fb505b05cdc05cdaaf2b52d3e4d7100&amp;chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd"/>
         <updated>2023-05-11T16:00:00.000Z</updated>
         <published>2023-05-11T16:00:00.000Z</published>
     </entry>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-05-18 23:00:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-05-19 06:01:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -736,10 +736,10 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)
 - [【JavaScript-Weekly】On-the-origin-of-packages](https://javascriptweekly.com/issues/635)
 - [【JavaScript-Weekly】Garbage-collector-experiments](https://javascriptweekly.com/issues/628)
 - [【JavaScript-Weekly】Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624)
-- [【JavaScript-Weekly】Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

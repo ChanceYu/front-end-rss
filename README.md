@@ -10,23 +10,23 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-18 23:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-19 06:01:06，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639) ![](/assets/new.png)  
 - [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)  
 - [2023-05-04-'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)  
 - [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)  
@@ -91,7 +92,6 @@
 - [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622)  
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621)  
 - [2023-01-06-Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620)  
-- [2022-12-16-A-new-jQuery-release-for-Xmas](https://javascriptweekly.com/issues/619)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -289,7 +289,7 @@
 </summary>
 
 
-- [2023-05-18-妙用-background-实现花式文字效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495645&idx=1&sn=6a4fecbe4638636274512804938ee13b&chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd) ![](/assets/new.png)  
+- [2023-05-18-妙用-background-实现花式文字效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495645&idx=1&sn=6a4fecbe4638636274512804938ee13b&chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd)  
 - [2023-05-16-Google-I/O-2023：最新-CSS-特性解读！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495609&idx=1&sn=87754819520541b5665abd0031391a56&chksm=ce268c4ff95105594c14ba4a4e1473984c8849aad8df43f6ec2be403f5ad1b41db67fbe110fb#rd)  
 - [2023-05-10-今年这情况，别再背八股文了。。。](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495605&idx=1&sn=16393810210aa18087b3dbee4df33171&chksm=ce268c43f95105554741b6d80e2fa51042c09d4616d42ca103357a00408ce18c4ea8e2dad4fe#rd)  
 - [2023-05-09-又来新玩意？全新的-CSS-动画合成属性-animation-composition](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495593&idx=1&sn=5073e57a18cb7e330f54702536aa7be2&chksm=ce268c5ff9510549d286a38fb8d7ce47162b9cf37205b04b2ac4763eda031e1331ab716ec25d#rd)  
@@ -375,6 +375,7 @@
 </summary>
 
 
+- [2023-05-18-新来了一个卷王，八股文-算法张口就来，太卷了~](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511570&idx=1&sn=86b5708b1671cf0bfc4c43624f6a3ef5&chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd) ![](/assets/new.png)  
 - [2023-05-17-叮~，你有几个系统级交互的React-hooks待查收](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511540&idx=1&sn=1b7a0d872581be92ea386b270851b65c&chksm=eb07958ddc701c9bf3a07e8ca50b2600b3ea52150fcff259f2f29b7737854c8cf1591cae3c64#rd)  
 - [2023-05-16-在JavaScript中-4-种创建枚举方式](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511535&idx=1&sn=358cf70c6fac6fdf1a379107774b5e30&chksm=eb079596dc701c80fc5b7b83a111a78e6067c0fdf92786dd9d061a113b7edbddf5c38ea6e649#rd)  
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd)  
@@ -384,11 +385,11 @@
 - [2023-05-10-多窗口联动神器！BroadcastChannel-API-实战运用](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511480&idx=1&sn=ac6c080242c3d2929ae247306ba6f395&chksm=eb0795c1dc701cd7c3c44d9cf145a56f14064d60fa76496445160d1ce2c1f0c0e4c93a9cbf39#rd)  
 - [2023-05-08-深拷贝别用-JSON-和-cloneDeep-了，有新方法！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511474&idx=1&sn=2fc894b0b7a0a743ac38ddc5a71ea6c7&chksm=eb0795cbdc701cddaec7a3ee55d2337f4c4d42573912fb8211c9713f82e3c3e617fd2e586749#rd)  
 - [2023-05-05-Vercel-推出前端直连数据库，回归-or-进步！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511468&idx=1&sn=3b735276f3b4ce6e4c584a2e5ac9f7f2&chksm=eb0795d5dc701cc31f69e00e2dbc4468620bba049dee8db92ed450cdbce6f317094e17c7fcc3#rd)  
-- [2023-05-04-顺利拿到字节抖音的Offer！他平时是怎么刷题的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511455&idx=1&sn=25a796c993a922071cd29c5a7cc57a18&chksm=eb0795e6dc701cf0a395ec61c1ae3812dd80cd53dca4bfc6fd18df6cd4b20993c4ac779de5ba#rd)  
 - [2023-05-04-涨姿势了，有意思的粘性气泡-Loading-效果](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511455&idx=2&sn=11803f47087dc3757a291c2315bb4faf&chksm=eb0795e6dc701cf0ed9ddd21938bc3b4413f6ece3659aea12e546fac4724d5b923d3130b8082#rd)  
+- [2023-05-04-顺利拿到字节抖音的Offer！他平时是怎么刷题的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511455&idx=1&sn=25a796c993a922071cd29c5a7cc57a18&chksm=eb0795e6dc701cf0a395ec61c1ae3812dd80cd53dca4bfc6fd18df6cd4b20993c4ac779de5ba#rd)  
 - [2023-04-27-Vue.js-推出官方“雅思考试”，价格还真不低，好几千块](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511446&idx=1&sn=2fd404f15e3ae17c69ab9434999665f3&chksm=eb0795efdc701cf904e9526699102646ba9762975f32877066161fe7a1dcd0cb034fe61728d8#rd)  
-- [2023-04-26-推荐几个不错的前端朋友！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511439&idx=1&sn=cccf25a526dca4333ea9757661156672&chksm=eb0795f6dc701ce0a5b7c9c749e13c8275acfa02b8b64f94163176962e99d494a9ecea92b758#rd)  
 - [2023-04-26-探究前端项目打包构建的用户故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511439&idx=2&sn=968cb09298bdec1d1cd2a67ce78a0673&chksm=eb0795f6dc701ce0518d9726ceea87631aa66f1e1b15c1e4a6fb3e8ba15d87e697677885cf3c#rd)  
+- [2023-04-26-推荐几个不错的前端朋友！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511439&idx=1&sn=cccf25a526dca4333ea9757661156672&chksm=eb0795f6dc701ce0a5b7c9c749e13c8275acfa02b8b64f94163176962e99d494a9ecea92b758#rd)  
 - [2023-04-25-前端开发走向终结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511435&idx=1&sn=28f0a00ad3ab39928de4f1dc838627a5&chksm=eb0795f2dc701ce4c2060ccd4310d18ecb93da4e2d6fed6e0ab92002cf00037f67fa06a6fa4a#rd)  
 - [2023-04-24-聊聊-React-中的隐藏彩蛋功能](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511419&idx=2&sn=b2cffb6d62ade3f99591c10a5dde0e2f&chksm=eb079502dc701c14d8e273baf2ad857655b603a6c9c5d47aaffeaf8423b15e88709a727f3e0d#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
