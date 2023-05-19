@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-19 08:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-19 10:00:41，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -103,7 +103,7 @@
 </summary>
 
 
-- [2023-05-19-【第2945期】JavaScript-的-Anti-Debugging-技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262622&idx=1&sn=554c6b6360c946682d81b9a9457a38f1&chksm=bd48d71a8a3f5e0c28c216dd0967b41623fd6bbd6717a4c05ebf7754c3d123f820995dc79c85#rd) ![](/assets/new.png)  
+- [2023-05-19-【第2945期】JavaScript-的-Anti-Debugging-技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262622&idx=1&sn=554c6b6360c946682d81b9a9457a38f1&chksm=bd48d71a8a3f5e0c28c216dd0967b41623fd6bbd6717a4c05ebf7754c3d123f820995dc79c85#rd)  
 - [2023-05-18-【图书】编程卓越之道](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262617&idx=2&sn=7a7373d3ec3c407b76a6baa84600bb43&chksm=bd48d71d8a3f5e0b481a96793abc0e56a9019150282a837a4496356ac137978055b9c4ed90aa#rd)  
 - [2023-05-18-【第2944期】Cookie-的访问方式可能要有大变化了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262617&idx=1&sn=f7c7f6a13ad66e1bb4214e0ab0b7f220&chksm=bd48d71d8a3f5e0b603a8b9fbe81792c84119e8f696a4a9b277922f6db920d464a2e96ba7e63#rd)  
 - [2023-05-17-【第2943期】测试中如何处理-Http-请求？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262613&idx=1&sn=d13a4fa78574c79a1860419d50c89380&chksm=bd48d7118a3f5e0743141b4349d9469a3ce65f834c90b175e55b5f879d8360e946d5220495ac#rd)  
@@ -258,26 +258,26 @@
 </summary>
 
 
-- [2023-05-18-单开网页应用利器---BroadcastChannel](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514641&idx=1&sn=b47f79fe1bb6387c05e9ceaf4f66a295&chksm=f992bcc0cee535d6becc6911598e033dc9588d00694003d5eaa777092551364bdbcb4c3d681e#rd)  
+- [2023-05-19-6-个-TypeScript-的高级技巧，帮你写出更清晰的代码](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514647&idx=1&sn=6fa669acb9401f103f870273fcf96418&chksm=f992bcc6cee535d0ef69c87e0053302b9edfe281d39fc3960363ab4c6358da5e44b36bb6ac10#rd) ![](/assets/new.png)  
+- [2023-05-19-如何使用-Promise-去控制并发请求？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514647&idx=2&sn=ec88a4ecf3cfe01ce0f00754dcb410cd&chksm=f992bcc6cee535d0bd072006c333c4ca3161f3482d1c5d7f1eca7babaf8c4816da6c0650b277#rd) ![](/assets/new.png)  
 - [2023-05-18-物理世界的互动之旅：Matter.js入门指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514641&idx=2&sn=2e5df23e0d1430d4bb0ff6f87cf1d859&chksm=f992bcc0cee535d64eba59135bd460f0177b31c9c11e90bee78bfe72c71bcf1bd6aa3db46749#rd)  
-- [2023-05-17-async/await-到底要不要加-try-catch？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514585&idx=2&sn=49c70a1803c83d5d689e390a7e938aa2&chksm=f992bf08cee5361ee933a8703ebb050ebaa64315d4011b9d54e661c833827a19a79920b7755f#rd)  
+- [2023-05-18-单开网页应用利器---BroadcastChannel](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514641&idx=1&sn=b47f79fe1bb6387c05e9ceaf4f66a295&chksm=f992bcc0cee535d6becc6911598e033dc9588d00694003d5eaa777092551364bdbcb4c3d681e#rd)  
 - [2023-05-17-今年这情况。。。多一个选择吧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514585&idx=1&sn=0de8b99b6e6cdb9fb28e3e091933a573&chksm=f992bf08cee5361e704584eb308f2a32865cbe1e887bf9c522e5e5619fa559fa28448eaffc7f#rd)  
-- [2023-05-16-你们喜欢用forEach吗？说说我为啥不喜欢用forEach~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514579&idx=1&sn=371eed66df183e25ac221e858578fc45&chksm=f992bf02cee5361470aef2d89462ab59b076aacb6b768c3d7f83ffb8765be450cd27a22370a0#rd)  
+- [2023-05-17-async/await-到底要不要加-try-catch？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514585&idx=2&sn=49c70a1803c83d5d689e390a7e938aa2&chksm=f992bf08cee5361ee933a8703ebb050ebaa64315d4011b9d54e661c833827a19a79920b7755f#rd)  
 - [2023-05-16-Vue-转-React的开发者，常犯的10个错误~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514579&idx=2&sn=0af4d9393ed331c823ac58a940e0d60c&chksm=f992bf02cee5361413698292bdcfa191dd18fa5feada49295baca2f4c1aa912f64f60d76520d#rd)  
-- [2023-05-15-前端手写并理解面试常考-code-的思路和运行过程](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514556&idx=1&sn=09a6298a799618e22ca217ba266e087c&chksm=f992bf6dcee5367bba189af72bb398f1baf41d3f48179ead5a66f419b64bd559b585afad7db6#rd)  
+- [2023-05-16-你们喜欢用forEach吗？说说我为啥不喜欢用forEach~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514579&idx=1&sn=371eed66df183e25ac221e858578fc45&chksm=f992bf02cee5361470aef2d89462ab59b076aacb6b768c3d7f83ffb8765be450cd27a22370a0#rd)  
 - [2023-05-15-分享15个对Web开发人员有用的高效工具网站](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514556&idx=2&sn=d9f9bc27b0505e30a9e51ee508196e84&chksm=f992bf6dcee5367b71ee935b7a5520d7a2b46adb871aeaea61610b1b53cb2162eca4aec6310a#rd)  
-- [2023-05-12-阿里面试官：小伙子你这前端水平666啊！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=1&sn=3febd2e3d982ffb0764fd15547d28f2c&chksm=f992bfb9cee536af30de2e7e9fc3f26fa7e9684e434d83c5f92cc258bc3eaa6f4914112dd7fb#rd)  
+- [2023-05-15-前端手写并理解面试常考-code-的思路和运行过程](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514556&idx=1&sn=09a6298a799618e22ca217ba266e087c&chksm=f992bf6dcee5367bba189af72bb398f1baf41d3f48179ead5a66f419b64bd559b585afad7db6#rd)  
 - [2023-05-12-批量任务导致页面卡死？怎么办？任务拆分？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=2&sn=495d444138378760bc3fd79805bd2f32&chksm=f992bfb9cee536af922bf048b13672215b800e8472fa29bf47045b35c59a7795c813059c8d23#rd)  
-- [2023-05-11-后端架构师技术大全（69个点）](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=2&sn=e1b7ad944778c6e0c77d2bbfaba3eeca&chksm=f992bfb1cee536a70f623b22ea94cada8a1df8afefd7a3ed319331230ffa70b2d5fee348cd4e#rd)  
+- [2023-05-12-阿里面试官：小伙子你这前端水平666啊！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514472&idx=1&sn=3febd2e3d982ffb0764fd15547d28f2c&chksm=f992bfb9cee536af30de2e7e9fc3f26fa7e9684e434d83c5f92cc258bc3eaa6f4914112dd7fb#rd)  
 - [2023-05-11-Node.js-20-正式发布！引入权限控制](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=1&sn=1ffe0b0e424105777fe35744c5b003d9&chksm=f992bfb1cee536a7b7b275d70eb40b383c64209c91b33e72b69d94dbfaa551239699f6ae2994#rd)  
-- [2023-05-10-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=1&sn=8e6006093ca63b7796d2b27ff2668ddd&chksm=f992bf88cee5369e877796699fdbd60f87b16291390154417b6fe6ce89abaf19f9006048f0d2#rd)  
+- [2023-05-11-后端架构师技术大全（69个点）](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514464&idx=2&sn=e1b7ad944778c6e0c77d2bbfaba3eeca&chksm=f992bfb1cee536a70f623b22ea94cada8a1df8afefd7a3ed319331230ffa70b2d5fee348cd4e#rd)  
 - [2023-05-10-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=2&sn=652a22ca367ecd316b6d388b1e362b19&chksm=f992bf88cee5369ea820ca76893939cfe0bd010a5db4d976f8f4e07ea34e6fdf86527b6fdd15#rd)  
-- [2023-05-09-如何开发一个人人爱的组件?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=1&sn=318b462c6db6e2a1f2915fcf26e02305&chksm=f992bf83cee53695f1638d906c85b746ee230080c1f97564d430e40a6af55236dea28188fcaa#rd)  
+- [2023-05-10-每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514457&idx=1&sn=8e6006093ca63b7796d2b27ff2668ddd&chksm=f992bf88cee5369e877796699fdbd60f87b16291390154417b6fe6ce89abaf19f9006048f0d2#rd)  
 - [2023-05-09-Vue3除了keep-alive，还有哪些页面缓存的实现方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=2&sn=67df8bc02773b3a663be17c4fab63dce&chksm=f992bf83cee5369592b55042158bac394a15e6960c7dd8abc5123493ba0188ddbff374d5561e#rd)  
-- [2023-05-08-如何实现原生-JS-的拖拽效果](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=2&sn=1032997c17fdcedacedbc831830dad8b&chksm=f992bf9dcee5368b8e15f9fe312c1d70b46ef93071985efa2cea4057b287505fc09a29e7f71d#rd)  
+- [2023-05-09-如何开发一个人人爱的组件?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514450&idx=1&sn=318b462c6db6e2a1f2915fcf26e02305&chksm=f992bf83cee53695f1638d906c85b746ee230080c1f97564d430e40a6af55236dea28188fcaa#rd)  
 - [2023-05-08-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=1&sn=c25877d092150b1df5d37408abd438c4&chksm=f992bf9dcee5368b681ebff5101de7c509d9dd5f86a249d0da488c3a3bca488bc116b77efa0b#rd)  
-- [2023-05-06-盘点那些前端项目上的规范工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=2&sn=e761a5f2c8256547a22cdcf40d9f4b71&chksm=f992bf96cee53680518372589ae684a8936acde55ef3c49c37f01e7da0fa426f95dfb4e40d3f#rd)  
-- [2023-05-06-2023已过半，Web前端还有机会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514439&idx=1&sn=ceabd29d919b15e45ffe198beb25c094&chksm=f992bf96cee53680f1648fe7a98c62368f05a65b34b87842ca28b48ca808235b9bd01d3cde8f#rd)  
+- [2023-05-08-如何实现原生-JS-的拖拽效果](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514444&idx=2&sn=1032997c17fdcedacedbc831830dad8b&chksm=f992bf9dcee5368b8e15f9fe312c1d70b46ef93071985efa2cea4057b287505fc09a29e7f71d#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -465,6 +465,7 @@
 </summary>
 
 
+- [2023-05-19-科技爱好者周刊（第-255-期）：对待-AI-的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html) ![](/assets/new.png)  
 - [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)  
 - [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)  
 - [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
@@ -484,7 +485,6 @@
 - [2023-01-13-科技爱好者周刊（第-239-期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)  
 - [2023-01-06-科技爱好者周刊（第-238-期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)  
 - [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)  
-- [2022-12-23-科技爱好者周刊（第-236-期）：中国的阳光地带](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-236.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
