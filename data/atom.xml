@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-20T04:00:57.626Z</updated>
+    <updated>2023-05-20T13:00:46.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[分享实践一些Vite的性能优化和踩过的坑，非常有用！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488952&amp;idx=1&amp;sn=0a11abb6689842a1028aecf553101ea4&amp;chksm=ce460029f931893f05815967d46e29e9a8c7bdd002f7a6f2304087ed8c7c8491c9829cbaaf27#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488952&amp;idx=1&amp;sn=0a11abb6689842a1028aecf553101ea4&amp;chksm=ce460029f931893f05815967d46e29e9a8c7bdd002f7a6f2304087ed8c7c8491c9829cbaaf27#rd"/>
+        <updated>2023-05-19T16:00:00.000Z</updated>
+        <published>2023-05-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第2946期】50+ ChatGPT 提示和策略，加速你的 Web 开发工作流程]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262669&amp;idx=1&amp;sn=ab8dfc1b9478a398e05e51aaab90d3c4&amp;chksm=bd48d7498a3f5e5ffcd1a0e82ede3d0019a0580c44036dde72721e2c1c00295e12f5c159af54#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端找工作被骗进传销，进去就挨打扇脸，逼着你转账。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511524&amp;idx=1&amp;sn=3f678e4e853963e8dfafb3269bb5d536&amp;chksm=eb07959ddc701c8b8b380ff74a841d4bfeb4e047109b4858c0e653bf62bd5754ae59e833b4da#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511524&amp;idx=1&amp;sn=3f678e4e853963e8dfafb3269bb5d536&amp;chksm=eb07959ddc701c8b8b380ff74a841d4bfeb4e047109b4858c0e653bf62bd5754ae59e833b4da#rd"/>
-        <updated>2023-05-12T16:00:00.000Z</updated>
-        <published>2023-05-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3.3发布了！带你了解一下它的新特性！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488831&amp;idx=1&amp;sn=14b5b28063ef60bbc167159cf43c5f46&amp;chksm=ce4600aef93189b8588c0759cb59bc4ec15978a6a9687ee064ec8d7f94620434171d9f11646d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247488831&amp;idx=1&amp;sn=14b5b28063ef60bbc167159cf43c5f46&amp;chksm=ce4600aef93189b8588c0759cb59bc4ec15978a6a9687ee064ec8d7f94620434171d9f11646d#rd"/>
         <updated>2023-05-12T16:00:00.000Z</updated>
         <published>2023-05-12T16:00:00.000Z</published>
     </entry>
