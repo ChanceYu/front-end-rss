@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-20T13:00:46.543Z</updated>
+    <updated>2023-05-20T22:00:59.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 255 期）：对待 AI 的正确态度]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html"/>
+        <updated>2023-05-18T16:00:00.000Z</updated>
+        <published>2023-05-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuxt 3.5.0发布了，Vue 3.3 加持！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511571&amp;idx=1&amp;sn=2a822274108bc25f82385fd256865b2a&amp;chksm=eb07966adc701f7c6622a5b79fd0290afbf08d7e0fbfd73ac2607d6f6a9d0771b0e825a8a782#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511571&amp;idx=1&amp;sn=2a822274108bc25f82385fd256865b2a&amp;chksm=eb07966adc701f7c6622a5b79fd0290afbf08d7e0fbfd73ac2607d6f6a9d0771b0e825a8a782#rd"/>
         <updated>2023-05-18T16:00:00.000Z</updated>
         <published>2023-05-18T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262571&amp;idx=1&amp;sn=6c1816800855e10599b7f93d9a32ad58&amp;chksm=bd48d7ef8a3f5ef96ca154807bd41abba32b0defb8ac519cfcc3d5cdd77d339fd3ba37d3a340#rd"/>
         <updated>2023-05-13T16:00:00.000Z</updated>
         <published>2023-05-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端找工作被骗进传销，进去就挨打扇脸，逼着你转账。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511524&amp;idx=1&amp;sn=3f678e4e853963e8dfafb3269bb5d536&amp;chksm=eb07959ddc701c8b8b380ff74a841d4bfeb4e047109b4858c0e653bf62bd5754ae59e833b4da#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511524&amp;idx=1&amp;sn=3f678e4e853963e8dfafb3269bb5d536&amp;chksm=eb07959ddc701c8b8b380ff74a841d4bfeb4e047109b4858c0e653bf62bd5754ae59e833b4da#rd"/>
-        <updated>2023-05-12T16:00:00.000Z</updated>
-        <published>2023-05-12T16:00:00.000Z</published>
     </entry>
 </feed>
