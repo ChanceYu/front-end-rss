@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-21 12:01:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-21 21:01:35。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -455,9 +455,12 @@
 - [2023-01-17-面试官：前端重新部署如何通知用户刷新网页？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512682&idx=1&sn=36059af061b59450a54dfbb5b1393e80&chksm=f992b4bbcee53dadfe721ddfe478e325d9061fc5b0923892bcd600eeee8f15b5648bca7fcf85#rd) 
 - [2023-01-12-一次令人窒息的百度面试](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512655&idx=2&sn=aee88386e91023515dc5020211966dd4&chksm=f992b49ecee53d885e684ebebfc4347d901591ff30e4aa6596b3543f42de28f77ae1ac87f7cb#rd) 
 - [2022-09-29-前方高能，2022版前端面试上岸手册，一鸣惊人！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510791&idx=1&sn=1947fd9793277277c8c1dd01225a5d35&chksm=f992add6cee524c0510e6811bdf795151c83a41abd80d59dd49f4930fe26aa811eaf88886022#rd) 
+- [2022-09-29-前方高能，2022版前端面试上岸手册，一鸣惊人！](https://mp.weixin.qq.com/s/UjK5qhxHCZ2jeSd3ndJaJA) 
 - [2022-09-21-面试官：indexOf-和-findIndex-的区别？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510717&idx=2&sn=585568cf11b17a8b51b892ef2e7b5cf0&chksm=f992ac6ccee5257a48d68ad12b3daf9f17be6773d2bd476033a870474f54a0979636b2a66622#rd) 
+- [2022-09-21-面试官：indexOf-和-findIndex-的区别？](https://mp.weixin.qq.com/s/u_ki8PWRUoeXlhTnZRt0EQ) 
 - [2022-08-26-最新前端面试上岸手册！该提升下逼格了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=1&sn=1d270e7d35c2dce0eda03d605fd8b9e0&chksm=f992af80cee52696f9845c2b0055444fe2abeb29fe7c1d9f0f0cb033caf5ed4a489b62b9b283#rd) 
 - [2022-08-11-疫情之下，这届打工人如何与面试官谈钱](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=1&sn=4ba568ae977541621646ea358ba59e64&chksm=f992ae03cee527151b512e5e073153c1c3ccd27d637922972878e06125997779e5be40b00832#rd) 
+- [2022-08-06-我捡到宝了！2022版前端面试上岸手册，最新最细致！](https://mp.weixin.qq.com/s/GnuVsrqgT05RxhldfsCvDA) 
 - [2022-08-05-我捡到宝了！2022版前端面试上岸手册，最新最细致！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510185&idx=1&sn=8ae4279b6c029169d4327e57b2f51918&chksm=f992ae78cee5276ee97887c5a05876c36d78591bee255b46e621a364aef71013c0a7ccd5a77b#rd) 
 - [2022-07-20-现在前端面试都问什么「字节、蚂蚁、美团、滴滴面试小记」](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509798&idx=1&sn=1dde93a4052d8e3ca1f42a3e2f23a425&chksm=f992a1f7cee528e1a7885ef484f3e40a99a58702d64f36ca8fc0a84109ce532e772ee683e4f2#rd) 
 - [2022-07-13-前方高能，2022版前端面试上岸手册，一鸣惊人！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247509719&idx=1&sn=52b49eed9af28d51090245db1ad51338&chksm=f992a006cee529103c3cb1d368da757ca9da5acdbc857b9bd96226a6493c80bae854f64cfede#rd) 
