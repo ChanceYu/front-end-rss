@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-22T00:00:42.190Z</updated>
+    <updated>2023-05-22T10:00:44.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[可视化搭建 - 自动批处理与冻结]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487066&amp;idx=1&amp;sn=d19cd8962c9da8dbcb95b43d88f6261c&amp;chksm=fc862890cbf1a186804f1f30178508f8c776e991363131434447bb4edaf8e74f8aea8071ce6f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487066&amp;idx=1&amp;sn=d19cd8962c9da8dbcb95b43d88f6261c&amp;chksm=fc862890cbf1a186804f1f30178508f8c776e991363131434447bb4edaf8e74f8aea8071ce6f#rd"/>
+        <updated>2023-05-21T16:00:00.000Z</updated>
+        <published>2023-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React JS广受业界认可，高级开发者年薪百万]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520936&amp;idx=1&amp;sn=22e6082f72240a6fc13e315a7712b47f&amp;chksm=f95227ebce25aefdcaec9b1fcb37f35a6f5dc6f5e1c582b0776248a1d85c3488abb44c946504#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520936&amp;idx=1&amp;sn=22e6082f72240a6fc13e315a7712b47f&amp;chksm=f95227ebce25aefdcaec9b1fcb37f35a6f5dc6f5e1c582b0776248a1d85c3488abb44c946504#rd"/>
+        <updated>2023-05-21T16:00:00.000Z</updated>
+        <published>2023-05-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[放心，前端死不了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614613&amp;idx=1&amp;sn=a4b6f0d414dda054260aed27446f2822&amp;chksm=8022ba54b75533423275e6fa32bbe8f3f9a450de20200d40a221743814b587566ffe6584f5b6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614613&amp;idx=1&amp;sn=a4b6f0d414dda054260aed27446f2822&amp;chksm=8022ba54b75533423275e6fa32bbe8f3f9a450de20200d40a221743814b587566ffe6584f5b6#rd"/>
+        <updated>2023-05-21T16:00:00.000Z</updated>
+        <published>2023-05-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【活动】美团技术沙龙：大前端研发协同效能提升与实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262677&amp;idx=2&amp;sn=45447a82b0b7fc1665ba8cd04e7d2b38&amp;chksm=bd48d7518a3f5e474393a13263aa57fcba9fb128135b8b51fd9fa763d532099aa6fe5130d77f#rd</id>
@@ -127,16 +148,16 @@
         <published>2023-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[疯了！前端45K面经，堪称涨薪天花板！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=1&amp;sn=179211f06bdd0b014a25725f0a01e340&amp;chksm=8022babfb75533a92143b3d810bbcf79c2ecc199e8e0ada0cfcb10a47c738320d514eef4aa70#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=1&amp;sn=179211f06bdd0b014a25725f0a01e340&amp;chksm=8022babfb75533a92143b3d810bbcf79c2ecc199e8e0ada0cfcb10a47c738320d514eef4aa70#rd"/>
+        <title type="html"><![CDATA[6 个 ES13 中非常实用的新 JavaScript 特性]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=2&amp;sn=765f212312d08386610e48642e30405e&amp;chksm=8022babfb75533a9e0e5bdd8a5a1e2c8e3a7e1bee95d8bc91c1a784740a8dd15dd8ad7240315#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=2&amp;sn=765f212312d08386610e48642e30405e&amp;chksm=8022babfb75533a9e0e5bdd8a5a1e2c8e3a7e1bee95d8bc91c1a784740a8dd15dd8ad7240315#rd"/>
         <updated>2023-05-18T16:00:00.000Z</updated>
         <published>2023-05-18T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6 个 ES13 中非常实用的新 JavaScript 特性]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=2&amp;sn=765f212312d08386610e48642e30405e&amp;chksm=8022babfb75533a9e0e5bdd8a5a1e2c8e3a7e1bee95d8bc91c1a784740a8dd15dd8ad7240315#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=2&amp;sn=765f212312d08386610e48642e30405e&amp;chksm=8022babfb75533a9e0e5bdd8a5a1e2c8e3a7e1bee95d8bc91c1a784740a8dd15dd8ad7240315#rd"/>
+        <title type="html"><![CDATA[疯了！前端45K面经，堪称涨薪天花板！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=1&amp;sn=179211f06bdd0b014a25725f0a01e340&amp;chksm=8022babfb75533a92143b3d810bbcf79c2ecc199e8e0ada0cfcb10a47c738320d514eef4aa70#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614590&amp;idx=1&amp;sn=179211f06bdd0b014a25725f0a01e340&amp;chksm=8022babfb75533a92143b3d810bbcf79c2ecc199e8e0ada0cfcb10a47c738320d514eef4aa70#rd"/>
         <updated>2023-05-18T16:00:00.000Z</updated>
         <published>2023-05-18T16:00:00.000Z</published>
     </entry>
@@ -246,16 +267,16 @@
         <published>2023-05-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面试官：如果 100 个请求，你怎么用 Promise 去控制并发？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=1&amp;sn=4216f71deff7a900981ddfac746aaaf7&amp;chksm=8022ba86b7553390a09ebe959462428ce7ab04c57092d5666f9d90c0902cb47bb7c7acdd8a04#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=1&amp;sn=4216f71deff7a900981ddfac746aaaf7&amp;chksm=8022ba86b7553390a09ebe959462428ce7ab04c57092d5666f9d90c0902cb47bb7c7acdd8a04#rd"/>
+        <title type="html"><![CDATA[10大 Node.js 库可以帮助你优化代码和简化开发]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=2&amp;sn=798ff47d840018f8f8aef0254ac979f9&amp;chksm=8022ba86b7553390b27849222eee2160c6acec00a80948bc8d08cd3df7ce7cce83357a3a2753#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=2&amp;sn=798ff47d840018f8f8aef0254ac979f9&amp;chksm=8022ba86b7553390b27849222eee2160c6acec00a80948bc8d08cd3df7ce7cce83357a3a2753#rd"/>
         <updated>2023-05-16T16:00:00.000Z</updated>
         <published>2023-05-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10大 Node.js 库可以帮助你优化代码和简化开发]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=2&amp;sn=798ff47d840018f8f8aef0254ac979f9&amp;chksm=8022ba86b7553390b27849222eee2160c6acec00a80948bc8d08cd3df7ce7cce83357a3a2753#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=2&amp;sn=798ff47d840018f8f8aef0254ac979f9&amp;chksm=8022ba86b7553390b27849222eee2160c6acec00a80948bc8d08cd3df7ce7cce83357a3a2753#rd"/>
+        <title type="html"><![CDATA[面试官：如果 100 个请求，你怎么用 Promise 去控制并发？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=1&amp;sn=4216f71deff7a900981ddfac746aaaf7&amp;chksm=8022ba86b7553390a09ebe959462428ce7ab04c57092d5666f9d90c0902cb47bb7c7acdd8a04#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614535&amp;idx=1&amp;sn=4216f71deff7a900981ddfac746aaaf7&amp;chksm=8022ba86b7553390a09ebe959462428ce7ab04c57092d5666f9d90c0902cb47bb7c7acdd8a04#rd"/>
         <updated>2023-05-16T16:00:00.000Z</updated>
         <published>2023-05-16T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Rspack 迁移好简单，性能提升好多！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511530&amp;idx=1&amp;sn=ffc0aac34a0e5872668b130a6e080c99&amp;chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511530&amp;idx=1&amp;sn=ffc0aac34a0e5872668b130a6e080c99&amp;chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd"/>
-        <updated>2023-05-14T16:00:00.000Z</updated>
-        <published>2023-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端食堂技术周刊第 82 期：Vue3.3、Google I/O、CSS In 2023、Remix Conf 2023]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247497977&amp;idx=1&amp;sn=56eb2cb057dd337dce5f3e4da987e0c1&amp;chksm=c2b33906f5c4b010156bee143ea0bbc7a8b549f5ede69ffc131e7b656565a206aa17a4f449b5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247497977&amp;idx=1&amp;sn=56eb2cb057dd337dce5f3e4da987e0c1&amp;chksm=c2b33906f5c4b010156bee143ea0bbc7a8b549f5ede69ffc131e7b656565a206aa17a4f449b5#rd"/>
-        <updated>2023-05-14T16:00:00.000Z</updated>
-        <published>2023-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端手写并理解面试常考 code 的思路和运行过程]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514556&amp;idx=1&amp;sn=09a6298a799618e22ca217ba266e087c&amp;chksm=f992bf6dcee5367bba189af72bb398f1baf41d3f48179ead5a66f419b64bd559b585afad7db6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514556&amp;idx=1&amp;sn=09a6298a799618e22ca217ba266e087c&amp;chksm=f992bf6dcee5367bba189af72bb398f1baf41d3f48179ead5a66f419b64bd559b585afad7db6#rd"/>
-        <updated>2023-05-14T16:00:00.000Z</updated>
-        <published>2023-05-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享15个对Web开发人员有用的高效工具网站]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514556&amp;idx=2&amp;sn=d9f9bc27b0505e30a9e51ee508196e84&amp;chksm=f992bf6dcee5367b71ee935b7a5520d7a2b46adb871aeaea61610b1b53cb2162eca4aec6310a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514556&amp;idx=2&amp;sn=d9f9bc27b0505e30a9e51ee508196e84&amp;chksm=f992bf6dcee5367b71ee935b7a5520d7a2b46adb871aeaea61610b1b53cb2162eca4aec6310a#rd"/>
         <updated>2023-05-14T16:00:00.000Z</updated>
         <published>2023-05-14T16:00:00.000Z</published>
     </entry>
