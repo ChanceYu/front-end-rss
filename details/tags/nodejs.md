@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-23 18:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-23 23:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-05-23-Node.js-20-is-faster](https://nodeweekly.com/issues/487) 
 - [2023-05-16-MS's-new-tool-for-digging-deep-into-V8](https://nodeweekly.com/issues/486) 
 - [2023-05-09-Getting-recursive-with-Node-20.1](https://nodeweekly.com/issues/485) 
 - [2023-05-02-Running-Node.js-on-the-iPad?](https://nodeweekly.com/issues/484) 

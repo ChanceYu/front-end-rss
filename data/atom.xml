@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-23T10:00:46.944Z</updated>
+    <updated>2023-05-23T15:00:55.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[【第2949期】贴吧低代码高性能规则引擎设计]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262713&amp;idx=1&amp;sn=9b9f7936f187e449cd5215487cd2f4bb&amp;chksm=bd48d77d8a3f5e6b00bfc6d4b74a2dba1df3c6b87dfe49923c2f7a471e5a0a10aedb25e0cb82#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262713&amp;idx=1&amp;sn=9b9f7936f187e449cd5215487cd2f4bb&amp;chksm=bd48d77d8a3f5e6b00bfc6d4b74a2dba1df3c6b87dfe49923c2f7a471e5a0a10aedb25e0cb82#rd"/>
+        <updated>2023-05-22T16:00:00.000Z</updated>
+        <published>2023-05-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 20 is fast(er)]]></title>
+        <id>https://nodeweekly.com/issues/487</id>
+        <link href="https://nodeweekly.com/issues/487"/>
         <updated>2023-05-22T16:00:00.000Z</updated>
         <published>2023-05-22T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【图书】CSS选择器世界第2版]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262613&amp;idx=2&amp;sn=dbb6e4cf8b42faffe36545c2daa44c6d&amp;chksm=bd48d7118a3f5e0753b735ba0acb25ede317f7991feaff3e17753e6ea20c554029daec956eb8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262613&amp;idx=2&amp;sn=dbb6e4cf8b42faffe36545c2daa44c6d&amp;chksm=bd48d7118a3f5e0753b735ba0acb25ede317f7991feaff3e17753e6ea20c554029daec956eb8#rd"/>
-        <updated>2023-05-16T16:00:00.000Z</updated>
-        <published>2023-05-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2943期】测试中如何处理 Http 请求？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262613&amp;idx=1&amp;sn=d13a4fa78574c79a1860419d50c89380&amp;chksm=bd48d7118a3f5e0743141b4349d9469a3ce65f834c90b175e55b5f879d8360e946d5220495ac#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262613&amp;idx=1&amp;sn=d13a4fa78574c79a1860419d50c89380&amp;chksm=bd48d7118a3f5e0743141b4349d9469a3ce65f834c90b175e55b5f879d8360e946d5220495ac#rd"/>
         <updated>2023-05-16T16:00:00.000Z</updated>
         <published>2023-05-16T16:00:00.000Z</published>
     </entry>
