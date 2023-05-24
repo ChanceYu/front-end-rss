@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-24 15:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-24 18:01:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -182,6 +182,7 @@
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-11-02-Web-API-持续集成：PostMan+Newman+Jenkins](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555239&idx=2&sn=28bdc705a362f1683c505a582d8cf1ca#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2023-05-24-Bun发布全新Bundler：比Webpack快220倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520968&idx=1&sn=dbf9cbfa5bb04d28e4c573f7d7d0d17c&chksm=f952278bce25ae9db107d4393bf52de9a7eb140225f8d0fc412a27aaf88d41e822001109b5cc#rd) 
 - [2023-05-19-剖析Npm恶意软件：五个软件包及其恶意安装脚本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520923&idx=1&sn=3ce74721f27a372cf4378f8d7ad63aec&chksm=f95227d8ce25aece82ff49387c93a8ca93724b900ee64c0b5eace8f1263d7c2716e8da31ad71#rd) 
 - [2023-04-24-Vite-4.3正式发布，性能提升，对抗来势汹汹的Rust](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520709&idx=1&sn=f414fc587eb0da8f4c215090eb352929&chksm=f9522486ce25ad90e3da16dc5a908388c6eb99a25cc7b3d337d73f623ae2ce52af69d8e114dc#rd) 
 - [2023-03-10-前端架构设计优化：构建可扩展的低代码平台](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520211&idx=1&sn=cbe3c647354e1a6759e8456ba512d58d&chksm=f9523a90ce25b3860b92703534bb03344137bae4fe5208e1f9719c62e72287dc325572dbe731#rd) 
@@ -234,8 +235,8 @@
 - [2019-08-25-前端周报：微软发布基于Chromium的Microsoft-Edge预览版；Nuxt发布v2.9.0；npm-发布v6.11.0](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492256&idx=1&sn=4061ae8c28267a0f091a23af61cf6f03&chksm=f95257e3ce25def555447533381ee64ef91bf034a5f212e130d5de0c9f3706df7bcd0e9567d9#rd) 
 - [2019-08-11-npm安全事故频频发生，程序员都绝望了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492121&idx=2&sn=41c31a9b1e17664513632c1d7fd6bd7c&chksm=f952575ace25de4c079e78c26e9bd01bdaeb109ce4a1abb4d8d270dad91db252175b0b967872#rd) 
 - [2019-08-09-挑选npm模块很费事？掌握这些技巧就能事半功倍！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492103&idx=1&sn=16b7d9def71aaefa5357cae7271d8c9e&chksm=f9525744ce25de520f98e916a33ba5439a0573c0b423b59d82028596177f5edc29f94cbc82da&scene=27#wechat_redirect) 
-- [2019-08-02-npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd) 
 - [2019-08-02-Webpack优化技巧，构建效率提升50%](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=2&sn=6ea74cf4d7127053996fde4ec42fa797&chksm=f95254edce25ddfb6b0335177229752434c454a41259efa9c560daaf9c929570d61cb73b6c62#rd) 
+- [2019-08-02-npm官宣：未来将支持monorepo特性，带来源码管理新姿势！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492014&idx=1&sn=65a4ee314db77deb1e1e4d21c240fc5d&chksm=f95254edce25ddfbbf75ba59f3f2bf5eda2b674250bede2cb16daa23ebc2ecbfe184e4de5400#rd) 
 - [2019-07-29-不用框架也能构建Web应用！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247491963&idx=2&sn=71ae279016919a412bbc55e9577b4d57&chksm=f9525438ce25dd2e1718cc807e4abc3a103c7d20acc7b478ec031592d34635eed23f57588562&scene=27#wechat_redirect) 
 - [2019-06-24-npm已落伍，下一代包管理器Tink正在孵化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491575&idx=1&sn=85cc01f9056e00c65c8bfc12249930a3#rd) 
 - [2019-06-15-前npm-CTO：JavaScript软件包管理未来是去除中心化](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491504&idx=1&sn=0f15ed02a3fb4613ae91142dc1af23ae#rd) 
