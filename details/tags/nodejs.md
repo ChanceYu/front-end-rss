@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-24 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-24 08:16:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -339,6 +339,7 @@
 - [2022-01-06-Node.js-诊断指南-第一弹](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=2&sn=8b22e1d071c321a4e66c4709756a0cae&chksm=f992cc88cee5459e999c97ebd0c065545d3618a8c8d66a7fca2bc916d68d47167e81b0889803#rd) 
 - [2022-01-04-基于-Node.js-实现的跨平台-Web-抓包调试工具-Whistle-原理分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=2&sn=a76475a2ec1cdd63cf6e261c61972e02&chksm=f992ccedcee545fb914bba1bc29c1ad5a65eae3ae84efa2c8521c303b3b57c36beaca04fc185#rd) 
 - [2023-04-09-前端食堂技术周刊第-78-期：WebGPU、Astro-2.2、Node.js-事件循环可视化指南、实用-Web-API-规范](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497832&idx=1&sn=d0b228c56698412a97a604a81049ac87&chksm=c2b33997f5c4b08122c5c9cc5adef9f0956f80e385663bdfd99f7e4ec4e7eeb18a589bfbb424#rd) 
+- [2023-02-14-前端食堂技术周刊第-69-期：第-94-次-TC39-会议、Interop-2023、Deno-in-2022、2023前端趋势](https://mp.weixin.qq.com/s/DTJ-3hce1k5tdfjtvkuCFw) 
 - [2023-01-17-在-Node.js-中如何通过子进程与其他语言（Go）进行-IPC-通信](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496430&idx=1&sn=096f67e92894dcc04d6b1be17bce645c&chksm=ec47b92ddb30303bf028e36a2eea0bf4d19338270e090c318a8ae0861f2d497a0e455bad6b47#rd) 
 - [2022-08-25-【ECMAScript-新消息速递】🎉-恭喜阿里巴巴昭朗同学负责的-proposal-array-grouping-提案代码实现成功-Landing-V8！这意味着在不久的将来，大家就能用上-`.group-`-的新语法了。](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496127&idx=1&sn=0a3f97097cf6dfa846709b445f06f2f3&chksm=ec47ba7cdb30336adb3f37a73616bcae7a41707488c23712b755fb98efc04cc216aac9f352d1#rd) 
 - [2022-03-25-Node.js-Web-框架再进化---面向前端与未来标准](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495520&idx=1&sn=b9041886373d4abbf9887126f27188f8&chksm=ec47a4a3db302db538f25fa88f87cb5f053aa5712072b902da53512bc1bd84c5ec885cdc2f75#rd) 
