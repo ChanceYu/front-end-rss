@@ -10,19 +10,19 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-25 21:02:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-26 06:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640) ![](/assets/new.png)  
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
 - [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)  
 - [2023-05-04-'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)  
@@ -91,7 +92,6 @@
 - [2023-01-27-Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)  
 - [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622)  
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621)  
-- [2023-01-06-Looking-at-both-2022-and-2023](https://javascriptweekly.com/issues/620)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -289,7 +289,7 @@
 </summary>
 
 
-- [2023-05-25-前端45K面经，堪称涨薪天花板~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495713&idx=1&sn=2a5fef6489a80014710ab284adeac731&chksm=ce2693d7f9511ac1aaf3b904a3697493ee00ec60e46c71ade67d748e7d1032a158a1be625260#rd) ![](/assets/new.png)  
+- [2023-05-25-前端45K面经，堪称涨薪天花板~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495713&idx=1&sn=2a5fef6489a80014710ab284adeac731&chksm=ce2693d7f9511ac1aaf3b904a3697493ee00ec60e46c71ade67d748e7d1032a158a1be625260#rd)  
 - [2023-05-24-现代-CSS-解决方案：CSS-原生支持三角函数-|-构建-Amazing-效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495701&idx=1&sn=8779fa1de1a196bc28c78fadb375d336&chksm=ce2693e3f9511af5f0fa602f406a3ec048df0b5a5c0ee5fc5148ec59da249c11ed579499e9ff#rd)  
 - [2023-05-23-巧用模糊实现文字的-3D-效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495671&idx=1&sn=8e7b84aa6ac4a453cdd84aa50af83e5b&chksm=ce268c01f95105173f9dbb766409f5b1f73f10e14cd47665f7ec3681e012eebf45799133ebeb#rd)  
 - [2023-05-22-碎片化时间学习前端，我推荐~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495661&idx=1&sn=ac3babe2eb6f2f092581b5929815e020&chksm=ce268c1bf951050d76c77927c0f33a70907b7d15e4afc519f6879ead816c858dbed648c47eb2#rd)  

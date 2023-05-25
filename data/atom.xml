@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-25T13:02:02.242Z</updated>
+    <updated>2023-05-25T22:00:39.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[【第2951期】PageSpy：一个适用于远程 Web 项目调试的工具]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262778&amp;idx=1&amp;sn=77a5ac1ff95cc9a496aa36775a0be09b&amp;chksm=bd48d6be8a3f5fa84bf64ec36b8135da8bc436cfbdb57b300edd4a4922dac773d8c1af88e3f1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262778&amp;idx=1&amp;sn=77a5ac1ff95cc9a496aa36775a0be09b&amp;chksm=bd48d6be8a3f5fa84bf64ec36b8135da8bc436cfbdb57b300edd4a4922dac773d8c1af88e3f1#rd"/>
+        <updated>2023-05-24T16:00:00.000Z</updated>
+        <published>2023-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft shrunk the TypeScript]]></title>
+        <id>https://javascriptweekly.com/issues/640</id>
+        <link href="https://javascriptweekly.com/issues/640"/>
         <updated>2023-05-24T16:00:00.000Z</updated>
         <published>2023-05-24T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[6 个 TypeScript 的高级技巧，帮你写出更清晰的代码]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514647&amp;idx=1&amp;sn=6fa669acb9401f103f870273fcf96418&amp;chksm=f992bcc6cee535d0ef69c87e0053302b9edfe281d39fc3960363ab4c6358da5e44b36bb6ac10#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514647&amp;idx=1&amp;sn=6fa669acb9401f103f870273fcf96418&amp;chksm=f992bcc6cee535d0ef69c87e0053302b9edfe281d39fc3960363ab4c6358da5e44b36bb6ac10#rd"/>
-        <updated>2023-05-18T16:00:00.000Z</updated>
-        <published>2023-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用 Promise 去控制并发请求？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514647&amp;idx=2&amp;sn=ec88a4ecf3cfe01ce0f00754dcb410cd&amp;chksm=f992bcc6cee535d0bd072006c333c4ca3161f3482d1c5d7f1eca7babaf8c4816da6c0650b277#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514647&amp;idx=2&amp;sn=ec88a4ecf3cfe01ce0f00754dcb410cd&amp;chksm=f992bcc6cee535d0bd072006c333c4ca3161f3482d1c5d7f1eca7babaf8c4816da6c0650b277#rd"/>
         <updated>2023-05-18T16:00:00.000Z</updated>
         <published>2023-05-18T16:00:00.000Z</published>
     </entry>

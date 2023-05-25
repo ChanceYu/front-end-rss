@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-05-25 21:02:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-05-26 06:00:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -112,6 +112,7 @@
 
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)
 - [【JavaScript-Weekly】Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)
 - [【JavaScript-Weekly】Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)
 - [【JavaScript-Weekly】Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)
@@ -129,7 +130,6 @@
 - [【前端早读课】【第2242期】TypeScript类型编写指南之下篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244827&idx=1&sn=1612a3595ab0324e4ffa0abf7858d9a7&chksm=bd49109f8a3e998946777f156c7d7a5aee7b3f4ab94337d4430025953caf98559289038316e2&scene=27#wechat_redirect)
 - [【前端早读课】【第2241期】TypeScript类型编写指南之上篇](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244823&idx=1&sn=d7e101a48267b56b18c27ebf971cbbef&chksm=bd4910938a3e9985581c8e669d67621a65539d3b8c4e0ed32da02a96e22baa5ea48036ec18ce&scene=27#wechat_redirect)
 - [【前端早读课】【第2217期】typescript4.2新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244409&idx=2&sn=14a179d3799e37f38312dd2dd9750497&chksm=bd491efd8a3e97eb88d671c475884b0f1ac12ad40fafafe516ac38977e877e98a0b6fa34762e&scene=27#wechat_redirect)
-- [【前端早读课】【早读】JavaScript和TypeScript中的void](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238051&idx=3&sn=18aa22c106f92b97f3db7b29b1156e19&chksm=bd4977278a3efe31bd2896fd2f8a3d52e443f5f14741debc462cd27366ee9e477ad4312b7877&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
