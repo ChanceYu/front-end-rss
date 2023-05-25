@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-24T22:01:41.180Z</updated>
+    <updated>2023-05-25T04:01:58.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[价值50W的字节工牌，面试太卷了……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511605&amp;idx=1&amp;sn=0dd586235f54282ac547f0ce17955c80&amp;chksm=eb07964cdc701f5a019f08b57a1e7f8e3cfcbc0c02546f0ff05d0a6439c5e9d4ba6cd14ca2c0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511605&amp;idx=1&amp;sn=0dd586235f54282ac547f0ce17955c80&amp;chksm=eb07964cdc701f5a019f08b57a1e7f8e3cfcbc0c02546f0ff05d0a6439c5e9d4ba6cd14ca2c0#rd"/>
+        <updated>2023-05-24T16:00:00.000Z</updated>
+        <published>2023-05-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探秘 CSS 选择器世界]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498036&amp;idx=1&amp;sn=e6a97210b1c1007e760077c07e921f82&amp;chksm=c2b338cbf5c4b1dd9fab823179ae8eb4f8897171cba9b19ae0f9c2a594688eccfc5200cad743#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498036&amp;idx=1&amp;sn=e6a97210b1c1007e760077c07e921f82&amp;chksm=c2b338cbf5c4b1dd9fab823179ae8eb4f8897171cba9b19ae0f9c2a594688eccfc5200cad743#rd"/>
+        <updated>2023-05-24T16:00:00.000Z</updated>
+        <published>2023-05-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这样写 React 代码，被同事打了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511582&amp;idx=1&amp;sn=49e642cef1710f0de9fb3a5a019467b6&amp;chksm=eb079667dc701f71bf8681ebd48d298c874da5ce1a98632b08e3cba7c7f436f4d1f51f2c23fa#rd</id>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262622&amp;idx=1&amp;sn=554c6b6360c946682d81b9a9457a38f1&amp;chksm=bd48d71a8a3f5e0c28c216dd0967b41623fd6bbd6717a4c05ebf7754c3d123f820995dc79c85#rd"/>
         <updated>2023-05-18T16:00:00.000Z</updated>
         <published>2023-05-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新来了一个卷王，八股文 算法张口就来，太卷了~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511570&amp;idx=1&amp;sn=86b5708b1671cf0bfc4c43624f6a3ef5&amp;chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511570&amp;idx=1&amp;sn=86b5708b1671cf0bfc4c43624f6a3ef5&amp;chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd"/>
-        <updated>2023-05-17T16:00:00.000Z</updated>
-        <published>2023-05-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妙用 background 实现花式文字效果]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495645&amp;idx=1&amp;sn=6a4fecbe4638636274512804938ee13b&amp;chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495645&amp;idx=1&amp;sn=6a4fecbe4638636274512804938ee13b&amp;chksm=ce268c2bf951053d568ace688ce794da4f0ba43ba6d052bcad1eb2baea3c76aac05b6e73b57a#rd"/>
-        <updated>2023-05-17T16:00:00.000Z</updated>
-        <published>2023-05-17T16:00:00.000Z</published>
     </entry>
 </feed>
