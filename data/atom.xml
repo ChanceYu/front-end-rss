@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-26T04:00:44.537Z</updated>
+    <updated>2023-05-26T07:00:49.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[不愧是阿里！！！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=1&amp;sn=99583454e1554a949c34947008dab59d&amp;chksm=c2b3383ff5c4b12904ae7a1b89f7401d35d4443608271f1be447f61fa4263f8ec83ea7498f7f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=1&amp;sn=99583454e1554a949c34947008dab59d&amp;chksm=c2b3383ff5c4b12904ae7a1b89f7401d35d4443608271f1be447f61fa4263f8ec83ea7498f7f#rd"/>
+        <updated>2023-05-25T16:00:00.000Z</updated>
+        <published>2023-05-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些面试敢要4-5w的前端都是怎么做到的？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489009&amp;idx=1&amp;sn=a89b5ea94741de15cf348c53c94588d6&amp;chksm=ce460060f931897610c2a963bb8307af7aeb34cd3c24fe5815fae6dc99450a31428f9090f7c6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489009&amp;idx=1&amp;sn=a89b5ea94741de15cf348c53c94588d6&amp;chksm=ce460060f931897610c2a963bb8307af7aeb34cd3c24fe5815fae6dc99450a31428f9090f7c6#rd"/>
         <updated>2023-05-25T16:00:00.000Z</updated>
         <published>2023-05-25T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262669&amp;idx=1&amp;sn=ab8dfc1b9478a398e05e51aaab90d3c4&amp;chksm=bd48d7498a3f5e5ffcd1a0e82ede3d0019a0580c44036dde72721e2c1c00295e12f5c159af54#rd"/>
         <updated>2023-05-19T16:00:00.000Z</updated>
         <published>2023-05-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 255 期）：对待 AI 的正确态度]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html"/>
-        <updated>2023-05-18T16:00:00.000Z</updated>
-        <published>2023-05-18T16:00:00.000Z</published>
     </entry>
 </feed>
