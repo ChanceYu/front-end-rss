@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-26 21:00:45，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-27 06:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -103,7 +103,7 @@
 </summary>
 
 
-- [2023-05-26-【第2952期】Google-I/O-2023：提升-Web-核心性能指标优化建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262810&idx=1&sn=d310df5debbee050043d6f82d0eb1e34&chksm=bd48d6de8a3f5fc8856088747fd7ece00c2517aca4ff7db8a5abcc71cc1f5413afbb0a825798#rd) ![](/assets/new.png)  
+- [2023-05-26-【第2952期】Google-I/O-2023：提升-Web-核心性能指标优化建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262810&idx=1&sn=d310df5debbee050043d6f82d0eb1e34&chksm=bd48d6de8a3f5fc8856088747fd7ece00c2517aca4ff7db8a5abcc71cc1f5413afbb0a825798#rd)  
 - [2023-05-25-【第2951期】PageSpy：一个适用于远程-Web-项目调试的工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262778&idx=1&sn=77a5ac1ff95cc9a496aa36775a0be09b&chksm=bd48d6be8a3f5fa84bf64ec36b8135da8bc436cfbdb57b300edd4a4922dac773d8c1af88e3f1#rd)  
 - [2023-05-24-【第2950期】vite-plugin-vue-devtools：写一个Vue-DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=1&sn=c47d7ee1e37c5d672e1e41f9f75f4363&chksm=bd48d6a88a3f5fbe9541b16c94f29436c0fff9bef4818064e43c9acd306de372feb9e6259ed4#rd)  
 - [2023-05-24-一行命令，安装你的TinyCLI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=2&sn=c356ac4d99a7e8ec7a440f364bb3be9c&chksm=bd48d6a88a3f5fbe665efdc480727bdb934e37c3d6470acf003ee9f819339d216c15e64c155e#rd)  
@@ -134,8 +134,8 @@
 </summary>
 
 
-- [2023-05-26-你们喜欢用-forEach-吗？说说我为啥不喜欢用-forEach~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614793&idx=1&sn=11246bdd5694d0a821f9d5c73a8fb086&chksm=8022b988b755309e91f5d4e0d1ed68f275da6242ddcf8c050110c4b04919d9cdec5342c4d076#rd) ![](/assets/new.png)  
-- [2023-05-26-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614793&idx=2&sn=9c08659f6255b0495f87cc1a0f6f977f&chksm=8022b988b755309e6481d6fc2ff09d5c75b39f302ba1ee9da799d85e861765969b035e69e17e#rd) ![](/assets/new.png)  
+- [2023-05-26-你们喜欢用-forEach-吗？说说我为啥不喜欢用-forEach~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614793&idx=1&sn=11246bdd5694d0a821f9d5c73a8fb086&chksm=8022b988b755309e91f5d4e0d1ed68f275da6242ddcf8c050110c4b04919d9cdec5342c4d076#rd)  
+- [2023-05-26-10-个超级实用的-reduce-使用技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614793&idx=2&sn=9c08659f6255b0495f87cc1a0f6f977f&chksm=8022b988b755309e6481d6fc2ff09d5c75b39f302ba1ee9da799d85e861765969b035e69e17e#rd)  
 - [2023-05-24-被誉为JavaScript中最难理解的概念之一的闭包是什么鬼？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614656&idx=2&sn=9cbad4c6da9f2b6d2b1b1ac94646fbe9&chksm=8022ba01b755331705c6dbbaf2ae4635c7b6361e239e564cc101d73515da6900597102819161#rd)  
 - [2023-05-24-new-Date-我忍你很久了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614656&idx=1&sn=f316ced563b91aeea03e870aeb80557d&chksm=8022ba01b755331726ccb0fd6bfee74b55de8dc9dff52c17deb559123605f33162f0832fc22e#rd)  
 - [2023-05-22-放心，前端死不了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614613&idx=1&sn=a4b6f0d414dda054260aed27446f2822&chksm=8022ba54b75533423275e6fa32bbe8f3f9a450de20200d40a221743814b587566ffe6584f5b6#rd)  
@@ -165,6 +165,7 @@
 </summary>
 
 
+- [2023-05-26-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520992&idx=1&sn=abceb4c02f44ef0f4f0330de477cc125&chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd) ![](/assets/new.png)  
 - [2023-05-24-Bun发布全新Bundler：比Webpack快220倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520968&idx=1&sn=dbf9cbfa5bb04d28e4c573f7d7d0d17c&chksm=f952278bce25ae9db107d4393bf52de9a7eb140225f8d0fc412a27aaf88d41e822001109b5cc#rd)  
 - [2023-05-22-React-JS广受业界认可，高级开发者年薪百万](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520936&idx=1&sn=22e6082f72240a6fc13e315a7712b47f&chksm=f95227ebce25aefdcaec9b1fcb37f35a6f5dc6f5e1c582b0776248a1d85c3488abb44c946504#rd)  
 - [2023-05-19-剖析Npm恶意软件：五个软件包及其恶意安装脚本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520923&idx=1&sn=3ce74721f27a372cf4378f8d7ad63aec&chksm=f95227d8ce25aece82ff49387c93a8ca93724b900ee64c0b5eace8f1263d7c2716e8da31ad71#rd)  
@@ -184,7 +185,6 @@
 - [2023-04-12-使用或不使用JavaScript框架，哪种更适合-Web-开发？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520607&idx=1&sn=d94d011789bdf69464efdd3f73687aa3&chksm=f952241cce25ad0a7edd0a17cd1b56a0a10a166c21e507c10fb7fa55ab62300b8868b1b2e435#rd)  
 - [2023-04-10-谷歌正式发布WebGPU！90多位贡献者研发6年，浏览器终于可以利用底层硬件了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520595&idx=1&sn=65e7bd2341c8127350dbcf6354640127&chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd)  
 - [2023-04-07-GPT-4预示着前端开发的终结？你准备好面对无法预测的技术挑战了吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520581&idx=1&sn=5ce23b4f4b2d720a8fb3476438abbfdd&chksm=f9522406ce25ad10fe089e279e58dce34a885683fd8d234f359178d8d9bd0304dd6d4aaccba7#rd)  
-- [2023-04-06-备受Vue、Angular和React青睐的Signals演进史](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520563&idx=1&sn=dd6e9145d27c2766111c6124bd53bed7&chksm=f9522470ce25ad66a9cca8601f0a943bba96711026b8ed24300be917aceadc9892392124bb79#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

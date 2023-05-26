@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-26T13:00:46.870Z</updated>
+    <updated>2023-05-26T22:00:51.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[那些面试敢要4-5w的前端都是怎么做到的？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489009&amp;idx=1&amp;sn=a89b5ea94741de15cf348c53c94588d6&amp;chksm=ce460060f931897610c2a963bb8307af7aeb34cd3c24fe5815fae6dc99450a31428f9090f7c6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489009&amp;idx=1&amp;sn=a89b5ea94741de15cf348c53c94588d6&amp;chksm=ce460060f931897610c2a963bb8307af7aeb34cd3c24fe5815fae6dc99450a31428f9090f7c6#rd"/>
+        <updated>2023-05-25T16:00:00.000Z</updated>
+        <published>2023-05-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2023：为JavaScript带来新的数组复制方法]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520992&amp;idx=1&amp;sn=abceb4c02f44ef0f4f0330de477cc125&amp;chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520992&amp;idx=1&amp;sn=abceb4c02f44ef0f4f0330de477cc125&amp;chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd"/>
         <updated>2023-05-25T16:00:00.000Z</updated>
         <published>2023-05-25T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JS audio加图片序列或canvas转webM/MP4的实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/"/>
-        <updated>2023-05-20T16:00:00.000Z</updated>
-        <published>2023-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用node写一个爬虫，超简单！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514689&amp;idx=2&amp;sn=28e165019c3ef2f924c47673ac0abe00&amp;chksm=f992bc90cee53586c3d4b49f76083d832e3c197e484addd15fac5214a52bfeb3885c0a7aca8d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514689&amp;idx=2&amp;sn=28e165019c3ef2f924c47673ac0abe00&amp;chksm=f992bc90cee53586c3d4b49f76083d832e3c197e484addd15fac5214a52bfeb3885c0a7aca8d#rd"/>
         <updated>2023-05-20T16:00:00.000Z</updated>
         <published>2023-05-20T16:00:00.000Z</published>
     </entry>
