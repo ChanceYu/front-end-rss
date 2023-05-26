@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-26 06:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-26 10:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640) ![](/assets/new.png)  
+- [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
 - [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)  
 - [2023-05-04-'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)  
@@ -500,6 +500,7 @@
 </summary>
 
 
+- [2023-05-26-科技爱好者周刊（第-256-期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html) ![](/assets/new.png)  
 - [2023-05-19-科技爱好者周刊（第-255-期）：对待-AI-的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)  
 - [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)  
 - [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)  
@@ -519,7 +520,6 @@
 - [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
 - [2023-01-13-科技爱好者周刊（第-239-期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)  
 - [2023-01-06-科技爱好者周刊（第-238-期）：停止寻找的最佳时间](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-238.html)  
-- [2022-12-30-科技爱好者周刊（第-237-期）：真实方位是如何暴露的？](http://www.ruanyifeng.com/blog/2022/12/weekly-issue-237.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
