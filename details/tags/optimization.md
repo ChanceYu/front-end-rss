@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-05-26 18:01:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-26 21:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-05-26-【第2952期】Google-I/O-2023：提升-Web-核心性能指标优化建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262810&idx=1&sn=d310df5debbee050043d6f82d0eb1e34&chksm=bd48d6de8a3f5fc8856088747fd7ece00c2517aca4ff7db8a5abcc71cc1f5413afbb0a825798#rd) 
 - [2023-05-23-【第2949期】贴吧低代码高性能规则引擎设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262713&idx=1&sn=9b9f7936f187e449cd5215487cd2f4bb&chksm=bd48d77d8a3f5e6b00bfc6d4b74a2dba1df3c6b87dfe49923c2f7a471e5a0a10aedb25e0cb82#rd) 
 - [2023-04-20-【第2921期】实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262087&idx=1&sn=a62be53ec16e21b80387510504e4b486&chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd) 
 - [2023-04-07-【第2908期】现代图片性能优化及体验优化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=1&sn=ba612f0e3049fe3ab9a23068b15a2fcb&chksm=bd48d29f8a3f5b89c249582605c60e28afe824eb8526985ffd57a50efdda77d30cd65f957aef#rd) 
