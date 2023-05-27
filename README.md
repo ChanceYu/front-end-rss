@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-27 06:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-27 21:02:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,8 +18,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -165,7 +165,7 @@
 </summary>
 
 
-- [2023-05-26-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520992&idx=1&sn=abceb4c02f44ef0f4f0330de477cc125&chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd) ![](/assets/new.png)  
+- [2023-05-26-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520992&idx=1&sn=abceb4c02f44ef0f4f0330de477cc125&chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd)  
 - [2023-05-24-Bun发布全新Bundler：比Webpack快220倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520968&idx=1&sn=dbf9cbfa5bb04d28e4c573f7d7d0d17c&chksm=f952278bce25ae9db107d4393bf52de9a7eb140225f8d0fc412a27aaf88d41e822001109b5cc#rd)  
 - [2023-05-22-React-JS广受业界认可，高级开发者年薪百万](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520936&idx=1&sn=22e6082f72240a6fc13e315a7712b47f&chksm=f95227ebce25aefdcaec9b1fcb37f35a6f5dc6f5e1c582b0776248a1d85c3488abb44c946504#rd)  
 - [2023-05-19-剖析Npm恶意软件：五个软件包及其恶意安装脚本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520923&idx=1&sn=3ce74721f27a372cf4378f8d7ad63aec&chksm=f95227d8ce25aece82ff49387c93a8ca93724b900ee64c0b5eace8f1263d7c2716e8da31ad71#rd)  
@@ -196,6 +196,7 @@
 </summary>
 
 
+- [2023-05-27-分享我一个朋友的“裸辞故事”，希望能帮助到大家~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489012&idx=1&sn=c0bb2993f94d9fa5d666d5993395d850&chksm=ce460065f9318973b26443eb03031b9e8751ed31b36bc205c91f515ba18bfbc5012bee3733e0#rd) ![](/assets/new.png)  
 - [2023-05-26-那些面试敢要4-5w的前端都是怎么做到的？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489009&idx=1&sn=a89b5ea94741de15cf348c53c94588d6&chksm=ce460060f931897610c2a963bb8307af7aeb34cd3c24fe5815fae6dc99450a31428f9090f7c6#rd)  
 - [2023-05-25-沾沾喜气！确定涨薪30%啦～](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489002&idx=1&sn=1899764b1c39e2b2b88543d981ae7f51&chksm=ce46007bf931896d0b00cec10f07bfb52506b1afee8e8131cd0a1234689b3d81776c164bee76#rd)  
 - [2023-05-24-技术岗位可能随时会失业，还是多一手准备吧！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488995&idx=1&sn=5449f698f3cea6409f7e5b12e49cabc6&chksm=ce460072f9318964ee7397580106aec0ae80337b9e7ffea9e73cf70a6b13f9cd8e71fd3751b1#rd)  
@@ -215,7 +216,6 @@
 - [2023-05-10-产品：菜鸡，你快封装个vue3-hook，展示用户电池电量！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488800&idx=1&sn=3cec3d79c5a53f98940fa41b5bdaf261&chksm=ce4600b1f93189a74d29f8da522f04af93bf4f7aa2bfe2569040435d851d242604773fd91746#rd)  
 - [2023-05-09-Vue3.2+ElementPlus手写电量智能监控系统，UI惊艳！新开源](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488798&idx=1&sn=738a3f6c09b8068af718658b03950fb5&chksm=ce46008ff9318999633228028082f991ab6894320381eedfad38a5d62621e840719b58119637#rd)  
 - [2023-05-08-前端面试完全化指南，几年心血总结出这篇八股！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488760&idx=1&sn=c58345e7941240596342b4f3a3420568&chksm=ce460169f931887fae0a275176a1e6c8c6278e4926a848943b81487b4443ec11320c1ca195f8#rd)  
-- [2023-05-07-超级有趣的功能：设计一个不依赖客户端时间的倒计时函数](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488755&idx=1&sn=da429f4b93185b1e2e342e858022cdd4&chksm=ce460162f93188742f385fe3fc38cb30ad40889f8ba9bec5576d349f5366e6c9dd7a78dfee68#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
