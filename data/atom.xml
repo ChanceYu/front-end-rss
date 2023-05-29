@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-29T15:01:48.239Z</updated>
+    <updated>2023-05-29T22:01:42.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[2023前端开发岗现状]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511607&amp;idx=1&amp;sn=6456f5595239d35325375d3e4620c495&amp;chksm=eb07964edc701f5861fe5abb9aa1a11caa6eb0fa3a30bdf8a3305fcf3f380fc4cdde3036e481#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511607&amp;idx=1&amp;sn=6456f5595239d35325375d3e4620c495&amp;chksm=eb07964edc701f5861fe5abb9aa1a11caa6eb0fa3a30bdf8a3305fcf3f380fc4cdde3036e481#rd"/>
+        <updated>2023-05-28T16:00:00.000Z</updated>
+        <published>2023-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 84 期：第 96 届 TC39 会议、Deno 五周年、JS 安全最佳实践、Node.js 性能现状]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498186&amp;idx=1&amp;sn=9055e0cca37d5dc24397fb81396022b5&amp;chksm=c2b33835f5c4b123b51723987abc2e34a82c7060c6f532e343ebe07d276f5f20849bf076733c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498186&amp;idx=1&amp;sn=9055e0cca37d5dc24397fb81396022b5&amp;chksm=c2b33835f5c4b123b51723987abc2e34a82c7060c6f532e343ebe07d276f5f20849bf076733c#rd"/>
         <updated>2023-05-28T16:00:00.000Z</updated>
         <published>2023-05-28T16:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[ikun：你能用console.log打印kunkun打球的视频吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489038&amp;idx=1&amp;sn=6cf657f88f3c2adb65b5422a7975aba7&amp;chksm=ce46039ff9318a89ca7c70bfa895f361d7dda11f98029bf6a9216848d3d469fff254040d4b5b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489038&amp;idx=1&amp;sn=6cf657f88f3c2adb65b5422a7975aba7&amp;chksm=ce46039ff9318a89ca7c70bfa895f361d7dda11f98029bf6a9216848d3d469fff254040d4b5b#rd"/>
+        <updated>2023-05-28T16:00:00.000Z</updated>
+        <published>2023-05-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端全职岗位依然坚挺，广大同志不必惊慌]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521001&amp;idx=1&amp;sn=b176e0cc6cfdbf824176b1fcb4bcfcbf&amp;chksm=f95227aace25aebcc435f85764c753c72280a53ffb809617e71deda0ed7a45ad19cc5f530987#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521001&amp;idx=1&amp;sn=b176e0cc6cfdbf824176b1fcb4bcfcbf&amp;chksm=f95227aace25aebcc435f85764c753c72280a53ffb809617e71deda0ed7a45ad19cc5f530987#rd"/>
         <updated>2023-05-28T16:00:00.000Z</updated>
         <published>2023-05-28T16:00:00.000Z</published>
     </entry>
@@ -106,16 +120,16 @@
         <published>2023-05-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google I/O 2023 — 前端开发者划重点]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=2&amp;sn=c79853248e24b38dd900b8e7e57654d4&amp;chksm=c2b3383ff5c4b12954cf4f36fc3626a609208e0e9f39e1b6c4e98fa51066016244c0d725355e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=2&amp;sn=c79853248e24b38dd900b8e7e57654d4&amp;chksm=c2b3383ff5c4b12954cf4f36fc3626a609208e0e9f39e1b6c4e98fa51066016244c0d725355e#rd"/>
+        <title type="html"><![CDATA[不愧是阿里！！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=1&amp;sn=99583454e1554a949c34947008dab59d&amp;chksm=c2b3383ff5c4b12904ae7a1b89f7401d35d4443608271f1be447f61fa4263f8ec83ea7498f7f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=1&amp;sn=99583454e1554a949c34947008dab59d&amp;chksm=c2b3383ff5c4b12904ae7a1b89f7401d35d4443608271f1be447f61fa4263f8ec83ea7498f7f#rd"/>
         <updated>2023-05-25T16:00:00.000Z</updated>
         <published>2023-05-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不愧是阿里！！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=1&amp;sn=99583454e1554a949c34947008dab59d&amp;chksm=c2b3383ff5c4b12904ae7a1b89f7401d35d4443608271f1be447f61fa4263f8ec83ea7498f7f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=1&amp;sn=99583454e1554a949c34947008dab59d&amp;chksm=c2b3383ff5c4b12904ae7a1b89f7401d35d4443608271f1be447f61fa4263f8ec83ea7498f7f#rd"/>
+        <title type="html"><![CDATA[Google I/O 2023 — 前端开发者划重点]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=2&amp;sn=c79853248e24b38dd900b8e7e57654d4&amp;chksm=c2b3383ff5c4b12954cf4f36fc3626a609208e0e9f39e1b6c4e98fa51066016244c0d725355e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498176&amp;idx=2&amp;sn=c79853248e24b38dd900b8e7e57654d4&amp;chksm=c2b3383ff5c4b12954cf4f36fc3626a609208e0e9f39e1b6c4e98fa51066016244c0d725355e#rd"/>
         <updated>2023-05-25T16:00:00.000Z</updated>
         <published>2023-05-25T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[【第2949期】贴吧低代码高性能规则引擎设计]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262713&amp;idx=1&amp;sn=9b9f7936f187e449cd5215487cd2f4bb&amp;chksm=bd48d77d8a3f5e6b00bfc6d4b74a2dba1df3c6b87dfe49923c2f7a471e5a0a10aedb25e0cb82#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262713&amp;idx=1&amp;sn=9b9f7936f187e449cd5215487cd2f4bb&amp;chksm=bd48d77d8a3f5e6b00bfc6d4b74a2dba1df3c6b87dfe49923c2f7a471e5a0a10aedb25e0cb82#rd"/>
-        <updated>2023-05-22T16:00:00.000Z</updated>
-        <published>2023-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】百度搜索前端团队招聘Web前端工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262713&amp;idx=2&amp;sn=18db7493aa62671165f098040db74c83&amp;chksm=bd48d77d8a3f5e6bee77fa1c6ab171ae6e965c47e7901ac96cf9543547de8d9b9db752c9a1ed#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262713&amp;idx=2&amp;sn=18db7493aa62671165f098040db74c83&amp;chksm=bd48d77d8a3f5e6bee77fa1c6ab171ae6e965c47e7901ac96cf9543547de8d9b9db752c9a1ed#rd"/>
-        <updated>2023-05-22T16:00:00.000Z</updated>
-        <published>2023-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 20 is fast(er)]]></title>
-        <id>https://nodeweekly.com/issues/487</id>
-        <link href="https://nodeweekly.com/issues/487"/>
         <updated>2023-05-22T16:00:00.000Z</updated>
         <published>2023-05-22T16:00:00.000Z</published>
     </entry>
