@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-05-30 21:01:45。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-05-30 23:01:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】All-the-ways-to-use-Postgres-from-Node](https://nodeweekly.com/issues/488)
 - [【Node-Weekly】Node.js-20-is-faster](https://nodeweekly.com/issues/487)
 - [【Node-Weekly】MS's-new-tool-for-digging-deep-into-V8](https://nodeweekly.com/issues/486)
 - [【Node-Weekly】Getting-recursive-with-Node-20.1](https://nodeweekly.com/issues/485)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Getting-Rusty-with-Node,-but-in-a-good-way](https://nodeweekly.com/issues/461)
 - [【Node-Weekly】Node-18-goes-LTS](https://nodeweekly.com/issues/460)
 - [【Node-Weekly】Node-19-released](https://nodeweekly.com/issues/459)
-- [【Node-Weekly】Keep-calm-and-carry-on-using-Node](https://nodeweekly.com/issues/456)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

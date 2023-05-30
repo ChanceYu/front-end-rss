@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-30T13:01:46.146Z</updated>
+    <updated>2023-05-30T15:01:47.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[把握技术风口，第三届稀土开发者大会12位出品人吹响集结号！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262844&amp;idx=1&amp;sn=52c375d5da7e594083fc04abd5db66db&amp;chksm=bd48d6f88a3f5feed9f7ed7d2e31b00efbe01270c95c1640143e86dd36285ca92a8b740b78da#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262844&amp;idx=1&amp;sn=52c375d5da7e594083fc04abd5db66db&amp;chksm=bd48d6f88a3f5feed9f7ed7d2e31b00efbe01270c95c1640143e86dd36285ca92a8b740b78da#rd"/>
+        <updated>2023-05-29T16:00:00.000Z</updated>
+        <published>2023-05-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the ways to use Postgres from Node]]></title>
+        <id>https://nodeweekly.com/issues/488</id>
+        <link href="https://nodeweekly.com/issues/488"/>
         <updated>2023-05-29T16:00:00.000Z</updated>
         <published>2023-05-29T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262764&amp;idx=2&amp;sn=c356ac4d99a7e8ec7a440f364bb3be9c&amp;chksm=bd48d6a88a3f5fbe665efdc480727bdb934e37c3d6470acf003ee9f819339d216c15e64c155e#rd"/>
         <updated>2023-05-23T16:00:00.000Z</updated>
         <published>2023-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 VSCode 源码中，我学到了绝世武功……]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511576&amp;idx=1&amp;sn=5a27f1c47f1ffb6420d333b2b1b6687c&amp;chksm=eb079661dc701f775273f93d565aaf973cebee2d25fe198c09f747e815500d25ac4a1c892cfc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511576&amp;idx=1&amp;sn=5a27f1c47f1ffb6420d333b2b1b6687c&amp;chksm=eb079661dc701f775273f93d565aaf973cebee2d25fe198c09f747e815500d25ac4a1c892cfc#rd"/>
-        <updated>2023-05-22T16:00:00.000Z</updated>
-        <published>2023-05-22T16:00:00.000Z</published>
     </entry>
 </feed>

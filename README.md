@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-30 21:01:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-05-30 23:01:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -41,6 +41,7 @@
 </summary>
 
 
+- [2023-05-30-All-the-ways-to-use-Postgres-from-Node](https://nodeweekly.com/issues/488) ![](/assets/new.png)  
 - [2023-05-23-Node.js-20-is-faster](https://nodeweekly.com/issues/487)  
 - [2023-05-16-MS's-new-tool-for-digging-deep-into-V8](https://nodeweekly.com/issues/486)  
 - [2023-05-09-Getting-recursive-with-Node-20.1](https://nodeweekly.com/issues/485)  
@@ -60,7 +61,6 @@
 - [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471)  
 - [2023-01-19-We're-going-on-a-memory-leak-hunt](https://nodeweekly.com/issues/470)  
 - [2023-01-12-Comparing-Node.js-job-schedulers](https://nodeweekly.com/issues/469)  
-- [2023-01-05-Music-to-our-ears](https://nodeweekly.com/issues/468)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -196,7 +196,7 @@
 </summary>
 
 
-- [2023-05-30-泰裤辣！Vue3.2手写智能管理平台，开源爆火！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489041&idx=1&sn=a4132d171793cce56ada3b749b033cc2&chksm=ce460380f9318a965fe6be5580591eeb978604c7976e600ffa9dc77d19b3e3178b02b85dba13#rd) ![](/assets/new.png)  
+- [2023-05-30-泰裤辣！Vue3.2手写智能管理平台，开源爆火！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489041&idx=1&sn=a4132d171793cce56ada3b749b033cc2&chksm=ce460380f9318a965fe6be5580591eeb978604c7976e600ffa9dc77d19b3e3178b02b85dba13#rd)  
 - [2023-05-29-ikun：你能用console.log打印kunkun打球的视频吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489038&idx=1&sn=6cf657f88f3c2adb65b5422a7975aba7&chksm=ce46039ff9318a89ca7c70bfa895f361d7dda11f98029bf6a9216848d3d469fff254040d4b5b#rd)  
 - [2023-05-28-面试官：你觉得Vue的响应式系统仅仅是一个Proxy？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489014&idx=1&sn=d533e42ed82c6ee1e19d96de34619586&chksm=ce460067f931897138a3f33889e42ced5df020f06346f1973f1cd520c55fb836a0b5e77010d0#rd)  
 - [2023-05-27-分享我一个朋友的“裸辞故事”，希望能帮助到大家~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489012&idx=1&sn=c0bb2993f94d9fa5d666d5993395d850&chksm=ce460065f9318973b26443eb03031b9e8751ed31b36bc205c91f515ba18bfbc5012bee3733e0#rd)  
