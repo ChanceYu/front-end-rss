@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-05-31 21:01:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-01 06:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -134,7 +134,7 @@
 </summary>
 
 
-- [2023-05-31-Vercel-推出前端直连数据库，回归-or-进步！？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614796&idx=1&sn=218360fe17f6ba934078f05f701f982f&chksm=8022b98db755309b520e90c9a11c037b36123e7f81933e93b7062129211fa786c4e9302111a5#rd) ![](/assets/new.png)  
+- [2023-05-31-Vercel-推出前端直连数据库，回归-or-进步！？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614796&idx=1&sn=218360fe17f6ba934078f05f701f982f&chksm=8022b98db755309b520e90c9a11c037b36123e7f81933e93b7062129211fa786c4e9302111a5#rd)  
 - [2023-05-29-【webpack核心库】耗时7个小时，用近50张图来学习enhance-resolve中的数据流动和插件调度机制](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614794&idx=2&sn=2cd6440d7d0e77f3a8f17a72c9481841&chksm=8022b98bb755309d2fab8a1cb966525935b34b50513840f6bc520f6d0bb8824ad29e74a2170a#rd)  
 - [2023-05-29-这个库让你轻松搞定复杂动画！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614794&idx=1&sn=740723ca8678504911ac8a7e2ab170c5&chksm=8022b98bb755309d78e85a460268fbd4be6b9fa0f4ba5c527fe20ef3da5f4523a3950edc04ad#rd)  
 - [2023-05-26-你们喜欢用-forEach-吗？说说我为啥不喜欢用-forEach~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614793&idx=1&sn=11246bdd5694d0a821f9d5c73a8fb086&chksm=8022b988b755309e91f5d4e0d1ed68f275da6242ddcf8c050110c4b04919d9cdec5342c4d076#rd)  
@@ -165,6 +165,7 @@
 </summary>
 
 
+- [2023-05-31-推动UI层现代化：聊聊取代微前端的交互式微服务](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521050&idx=1&sn=058dcb3fc891240bf08af0952a2ea9d1&chksm=f9522659ce25af4f322beea1b606a2cf53a5fadab538453350bdb983742d24ec559502ab9440#rd) ![](/assets/new.png)  
 - [2023-05-29-前端全职岗位依然坚挺，广大同志不必惊慌](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521001&idx=1&sn=b176e0cc6cfdbf824176b1fcb4bcfcbf&chksm=f95227aace25aebcc435f85764c753c72280a53ffb809617e71deda0ed7a45ad19cc5f530987#rd)  
 - [2023-05-26-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520992&idx=1&sn=abceb4c02f44ef0f4f0330de477cc125&chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd)  
 - [2023-05-24-Bun发布全新Bundler：比Webpack快220倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520968&idx=1&sn=dbf9cbfa5bb04d28e4c573f7d7d0d17c&chksm=f952278bce25ae9db107d4393bf52de9a7eb140225f8d0fc412a27aaf88d41e822001109b5cc#rd)  
@@ -184,7 +185,6 @@
 - [2023-04-17-Web-的下一个转型：单页应用？是时候换个思路了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520622&idx=1&sn=2d4f48334fb6adfaf54f10c12669da46&chksm=f952242dce25ad3b80deb5e83b161c4b7a2ec6225624452ed3f52685d17893fb40be573aea15#rd)  
 - [2023-04-14-Web框架Astro-2.0发布，在静态和动态渲染之外提供了混合渲染能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520612&idx=1&sn=0607ae29aed553513c14f6c1e82c0812&chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd)  
 - [2023-04-12-使用或不使用JavaScript框架，哪种更适合-Web-开发？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520607&idx=1&sn=d94d011789bdf69464efdd3f73687aa3&chksm=f952241cce25ad0a7edd0a17cd1b56a0a10a166c21e507c10fb7fa55ab62300b8868b1b2e435#rd)  
-- [2023-04-10-谷歌正式发布WebGPU！90多位贡献者研发6年，浏览器终于可以利用底层硬件了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520595&idx=1&sn=65e7bd2341c8127350dbcf6354640127&chksm=f9522410ce25ad0694bca62d95681195d3c055fd5f9305faeec5ebe815d41dd4756ca4032f80#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -258,8 +258,8 @@
 </summary>
 
 
-- [2023-05-31-Vue3.3发布了！带你了解一下它的新特性！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514736&idx=1&sn=21b7a9fa5269aaaa71f474c1ef801182&chksm=f992bca1cee535b708ed4dcc6dfc790b9033adea9b73f83447aa1788e3d72ed55a741f506d08#rd) ![](/assets/new.png)  
-- [2023-05-31-分享十二个字节前端写的代码片段，到底有什么不一样？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514736&idx=2&sn=cf22fcdf655111bea2f222bef5bfc91b&chksm=f992bca1cee535b76134120d3149d31e3decfd25193d683cd0668e99a674694ff6fefccd55f9#rd) ![](/assets/new.png)  
+- [2023-05-31-Vue3.3发布了！带你了解一下它的新特性！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514736&idx=1&sn=21b7a9fa5269aaaa71f474c1ef801182&chksm=f992bca1cee535b708ed4dcc6dfc790b9033adea9b73f83447aa1788e3d72ed55a741f506d08#rd)  
+- [2023-05-31-分享十二个字节前端写的代码片段，到底有什么不一样？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514736&idx=2&sn=cf22fcdf655111bea2f222bef5bfc91b&chksm=f992bca1cee535b76134120d3149d31e3decfd25193d683cd0668e99a674694ff6fefccd55f9#rd)  
 - [2023-05-30-JavaScript奇技淫巧：debugger拦截](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514730&idx=1&sn=208c1c9e5be66b9e7e58fd336b3c6c5c&chksm=f992bcbbcee535ad01eecb27b2ce3b191d1544d7cc80351d11acec2ab45b7a03d7148dbe3500#rd)  
 - [2023-05-30-因为写不出拖拽移动效果，我恶补了一下Dom中的各种距离](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514730&idx=2&sn=f83db853da765a620fc4c44afe806fda&chksm=f992bcbbcee535ada9ac8d310253a68b01922a35583d2a95c3ceacb2ef2fcbd28905802c7512#rd)  
 - [2023-05-29-new-Date-我忍你很久了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514726&idx=2&sn=53122e3b2bb7322bff0da24aacb74947&chksm=f992bcb7cee535a196d33ff828adf743714b7a243cef1f5dfefbe1ae21c56a2446a5793095f7#rd)  
