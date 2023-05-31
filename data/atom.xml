@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-05-30T22:02:16.595Z</updated>
+    <updated>2023-05-31T07:00:42.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS margin-trim属性是做什么用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/"/>
+        <updated>2023-05-30T16:00:00.000Z</updated>
+        <published>2023-05-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端到底是“技术深度”重要还是“技术广度”重要？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489047&amp;idx=1&amp;sn=eed2faaf40f4cd655e816e4d24dbb734&amp;chksm=ce460386f9318a90a1ddc91290b499c978d2c4b9444cd725ed41feeb2877f5ade97ab2667b76#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489047&amp;idx=1&amp;sn=eed2faaf40f4cd655e816e4d24dbb734&amp;chksm=ce460386f9318a90a1ddc91290b499c978d2c4b9444cd725ed41feeb2877f5ade97ab2667b76#rd"/>
         <updated>2023-05-30T16:00:00.000Z</updated>
         <published>2023-05-30T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Bun发布全新Bundler：比Webpack快220倍]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520968&amp;idx=1&amp;sn=dbf9cbfa5bb04d28e4c573f7d7d0d17c&amp;chksm=f952278bce25ae9db107d4393bf52de9a7eb140225f8d0fc412a27aaf88d41e822001109b5cc#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247520968&amp;idx=1&amp;sn=dbf9cbfa5bb04d28e4c573f7d7d0d17c&amp;chksm=f952278bce25ae9db107d4393bf52de9a7eb140225f8d0fc412a27aaf88d41e822001109b5cc#rd"/>
-        <updated>2023-05-23T16:00:00.000Z</updated>
-        <published>2023-05-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被誉为JavaScript中最难理解的概念之一的闭包是什么鬼？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614656&amp;idx=2&amp;sn=9cbad4c6da9f2b6d2b1b1ac94646fbe9&amp;chksm=8022ba01b755331705c6dbbaf2ae4635c7b6361e239e564cc101d73515da6900597102819161#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614656&amp;idx=2&amp;sn=9cbad4c6da9f2b6d2b1b1ac94646fbe9&amp;chksm=8022ba01b755331705c6dbbaf2ae4635c7b6361e239e564cc101d73515da6900597102819161#rd"/>
         <updated>2023-05-23T16:00:00.000Z</updated>
         <published>2023-05-23T16:00:00.000Z</published>
     </entry>
