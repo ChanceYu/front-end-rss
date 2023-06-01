@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-05-26 06:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-02 06:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641) 
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640) 
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639) 
 - [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638) 
