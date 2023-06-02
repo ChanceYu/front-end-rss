@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-02 18:00:44，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-02 23:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -103,8 +103,8 @@
 </summary>
 
 
-- [2023-06-02-【第2959期】一个无后端也无前端彻底无服务的网页版记事本](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262926&idx=1&sn=77d2a36fcf617a7795d8cb5d6caedb68&chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd) ![](/assets/new.png)  
-- [2023-06-02-【早行】2023.5小结](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262926&idx=2&sn=30a37127cc7ea3366dfd780e808fc7e4&chksm=bd48d64a8a3f5f5cff742e6ffe0fbbe24e7c6d7a9b2ebd4d856c47f7ad3597d3eeb2ac631315#rd) ![](/assets/new.png)  
+- [2023-06-02-【第2959期】一个无后端也无前端彻底无服务的网页版记事本](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262926&idx=1&sn=77d2a36fcf617a7795d8cb5d6caedb68&chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd)  
+- [2023-06-02-【早行】2023.5小结](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262926&idx=2&sn=30a37127cc7ea3366dfd780e808fc7e4&chksm=bd48d64a8a3f5f5cff742e6ffe0fbbe24e7c6d7a9b2ebd4d856c47f7ad3597d3eeb2ac631315#rd)  
 - [2023-06-01-【早说】告诉别人中间过程的目的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262895&idx=2&sn=50cd0a0f334aa79d03adcc3c65fe5c64&chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd)  
 - [2023-06-01-【第2958期】进度跟踪器的体验设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262895&idx=1&sn=12b635bc6a7f8528e14a14f7697ebeb1&chksm=bd48d62b8a3f5f3da9bcf047fb55a7ee952821ce330f37b0b09785edee89729fc13728aa9cb8#rd)  
 - [2023-05-31-【第2957期】解锁-PDF-文件：使用-JavaScript-和-Canvas-渲染-PDF-内容](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262872&idx=1&sn=5f8592d1947bee6804bd616c9b53b2b3&chksm=bd48d61c8a3f5f0a9429a9a408f6e4eb232807f0d1ed8f89e98aa7d19934b5e4680ee40dfb42#rd)  
@@ -165,6 +165,7 @@
 </summary>
 
 
+- [2023-06-02-Svelte使用心得：在个人项目中表现不错，但在大型企业项目中仍有待观察](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521051&idx=1&sn=14b2c8cb1d9ee197726c26b606ea24af&chksm=f9522658ce25af4e42a7e9dbef73530f2607a9e1c7fb650e30ee8389599ffc8e27592ba021cd#rd) ![](/assets/new.png)  
 - [2023-05-31-推动UI层现代化：聊聊取代微前端的交互式微服务](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521050&idx=1&sn=058dcb3fc891240bf08af0952a2ea9d1&chksm=f9522659ce25af4f322beea1b606a2cf53a5fadab538453350bdb983742d24ec559502ab9440#rd)  
 - [2023-05-29-前端全职岗位依然坚挺，广大同志不必惊慌](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521001&idx=1&sn=b176e0cc6cfdbf824176b1fcb4bcfcbf&chksm=f95227aace25aebcc435f85764c753c72280a53ffb809617e71deda0ed7a45ad19cc5f530987#rd)  
 - [2023-05-26-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520992&idx=1&sn=abceb4c02f44ef0f4f0330de477cc125&chksm=f95227a3ce25aeb57c73e9d30b43e473e26a008095d8139b4412440ba3eb3f0812b72196377d#rd)  
@@ -184,7 +185,6 @@
 - [2023-04-19-Node.js-20-正式发布，新特性一览](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520650&idx=1&sn=c3fb7a8783b1899d8b56f8d549046fdf&chksm=f95224c9ce25addf39f4ca012c599d76cf800a890f8814db184605738f9ed7a6ab73ff80ac92#rd)  
 - [2023-04-17-Web-的下一个转型：单页应用？是时候换个思路了](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520622&idx=1&sn=2d4f48334fb6adfaf54f10c12669da46&chksm=f952242dce25ad3b80deb5e83b161c4b7a2ec6225624452ed3f52685d17893fb40be573aea15#rd)  
 - [2023-04-14-Web框架Astro-2.0发布，在静态和动态渲染之外提供了混合渲染能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520612&idx=1&sn=0607ae29aed553513c14f6c1e82c0812&chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd)  
-- [2023-04-12-使用或不使用JavaScript框架，哪种更适合-Web-开发？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520607&idx=1&sn=d94d011789bdf69464efdd3f73687aa3&chksm=f952241cce25ad0a7edd0a17cd1b56a0a10a166c21e507c10fb7fa55ab62300b8868b1b2e435#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
