@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-03T02:01:04.614Z</updated>
+    <updated>2023-06-03T10:00:42.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3优雅地监听localStorage变化]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489074&amp;idx=1&amp;sn=f0fed4e06dd39d76fb28b2a29d072e1d&amp;chksm=ce4603a3f9318ab597390624f13fb6d1247cdbc24398a2cf523106950f7892e10783d1c1b7b2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489074&amp;idx=1&amp;sn=f0fed4e06dd39d76fb28b2a29d072e1d&amp;chksm=ce4603a3f9318ab597390624f13fb6d1247cdbc24398a2cf523106950f7892e10783d1c1b7b2#rd"/>
+        <updated>2023-06-02T16:00:00.000Z</updated>
+        <published>2023-06-02T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】内部交流信]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=2&amp;sn=e677ce78d62529cb941029173295ee4a&amp;chksm=bd48d66a8a3f5f7ca31afab3b09005844a4d8feaaabfb25a9c9376c8130d1e74cafd243cd4eb#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官：你觉得Vue的响应式系统仅仅是一个Proxy？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489014&amp;idx=1&amp;sn=d533e42ed82c6ee1e19d96de34619586&amp;chksm=ce460067f931897138a3f33889e42ced5df020f06346f1973f1cd520c55fb836a0b5e77010d0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489014&amp;idx=1&amp;sn=d533e42ed82c6ee1e19d96de34619586&amp;chksm=ce460067f931897138a3f33889e42ced5df020f06346f1973f1cd520c55fb836a0b5e77010d0#rd"/>
-        <updated>2023-05-27T16:00:00.000Z</updated>
-        <published>2023-05-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2954期】妙用 background 实现花式文字效果]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262818&amp;idx=1&amp;sn=0587ccb6843e38e95541f43a7cc1c3f8&amp;chksm=bd48d6e68a3f5ff07fc0083bb06cb1612bea2c3686c5cd51d497d838110e884d2a7d09e191a7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262818&amp;idx=1&amp;sn=0587ccb6843e38e95541f43a7cc1c3f8&amp;chksm=bd48d6e68a3f5ff07fc0083bb06cb1612bea2c3686c5cd51d497d838110e884d2a7d09e191a7#rd"/>
         <updated>2023-05-27T16:00:00.000Z</updated>
         <published>2023-05-27T16:00:00.000Z</published>
     </entry>
