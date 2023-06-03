@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-03 08:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-03 10:01:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1093,6 +1093,7 @@
 - [2022-01-14-深入JS异步阻塞、事件循环、Promise实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502619&idx=1&sn=7fad46c3f887943ecdb9c2989b700af3&chksm=f992cdcacee544dc861c806b06498e2480501243af82393c918d111b6da4747017db96f8eadd#rd) 
 - [2022-01-12-记一次搭建业务平台组件库的过程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502598&idx=2&sn=dfd5149c3dafd9f2aeca6f39592b7875&chksm=f992cdd7cee544c13450e25e41d015be6337422a2953fe4f9c3b43ee034dc89fe0b89fb922bd#rd) 
 - [2022-01-05-service-worker轻度探索---解决运营活动需求中的图片加载问题?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=2&sn=70f581a1e44e812be80b4d51f129ee87&chksm=f992cc9bcee5458dfe5ed29a98e129998b4e71cab1114c19c6b392e348747fe2ad5bf84f894f#rd) 
+- [2023-06-02-WebAssembly-模块化与动态链接](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503481&idx=1&sn=9bad90611cc2ba3e906608f96a6d6709&chksm=cea97978f9def06eeb990bbdce2ba79bcfbd058f0b5851d454755626520bf53fde94a96554d9#rd) 
 - [2023-04-19-九个超级好用的-Javascript-技巧](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503296&idx=1&sn=179e888549cfadbc7d928dc7439cb5f9&chksm=cea97ac1f9def3d74db33d4512539c3fd78acb468f879ca92a1e45a15a24f242e4ca37c4ce5f#rd) 
 - [2023-04-12-“以终为始，设计优先”：看-DataWind-数字孪生-3D-地图事件系统设计](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503205&idx=1&sn=697e5d4d63e91359477e0213c8ed9c4d&chksm=cea97a64f9def372d9a9c861c689a6e9392643e347f257207d0876196604f0c525bb17dd4d52#rd) 
 - [2023-01-16-技术周报·State-of-JS-2022-发布](https://mp.weixin.qq.com/s/h0WV0o5_-oxyujV61wdRJw) 
