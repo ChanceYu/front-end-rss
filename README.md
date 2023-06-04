@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-04 12:00:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-04 18:00:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,9 +26,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -408,8 +408,8 @@
 </summary>
 
 
-- [2023-06-02-今年这面试难度，面试官看了都摇头…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511678&idx=1&sn=a380c0764915c9a431e2c20cae69215d&chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd) ![](/assets/new.png)  
-- [2023-06-02-React-发布十周年！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511678&idx=2&sn=4a148f39f84c73c31924412d4409ba21&chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd) ![](/assets/new.png)  
+- [2023-06-02-今年这面试难度，面试官看了都摇头…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511678&idx=1&sn=a380c0764915c9a431e2c20cae69215d&chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd)  
+- [2023-06-02-React-发布十周年！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511678&idx=2&sn=4a148f39f84c73c31924412d4409ba21&chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd)  
 - [2023-06-01-React-Legend-State：速度碾压其他状态管理库，是传奇还是小丑？🤡](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511647&idx=1&sn=6df209ff7373e6b19b47486a26a8b522&chksm=eb079626dc701f30a1cc22590e80dbb348895fb93a2568317ce011480c593ddc354f4d55f14c#rd)  
 - [2023-05-30-Rapper-尤雨溪为什么要推出-Vapor-Mode？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511628&idx=1&sn=00f1b54296fcff023e22aaf0444eb5d5&chksm=eb079635dc701f234a86b9ac1c02e171120c6b57f782ec831594e6087d0a02d50c4270a88c8d#rd)  
 - [2023-05-29-2023前端开发岗现状](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511607&idx=1&sn=6456f5595239d35325375d3e4620c495&chksm=eb07964edc701f5861fe5abb9aa1a11caa6eb0fa3a30bdf8a3305fcf3f380fc4cdde3036e481#rd)  
@@ -470,13 +470,14 @@
 </summary>
 
 
+- [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/) ![](/assets/new.png)  
 - [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)  
 - [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)  
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
+- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
@@ -489,7 +490,6 @@
 - [2022-12-28-JS数组的copyWithin语法我看了好几遍才懂](https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/)  
 - [2022-12-18-Tips:-使用CSS逻辑属性简化我们的书写](https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/)  
 - [2022-11-30-从今天开始，请叫我Node文本节点处理大师](https://www.zhangxinxu.com/wordpress/2022/11/js-text-node-master/)  
-- [2022-11-20-JS之我用单img元素实现了图像resize拉伸效果](https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
