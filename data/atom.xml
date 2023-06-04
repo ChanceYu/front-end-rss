@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-03T10:00:42.228Z</updated>
+    <updated>2023-06-04T04:00:48.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,20 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 257 期）：黄仁勋的 Nvidia 故事]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html"/>
+        <updated>2023-06-01T16:00:00.000Z</updated>
+        <published>2023-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 发布十周年！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=2&amp;sn=4a148f39f84c73c31924412d4409ba21&amp;chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=2&amp;sn=4a148f39f84c73c31924412d4409ba21&amp;chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd"/>
+        <updated>2023-06-01T16:00:00.000Z</updated>
+        <published>2023-06-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年这面试难度，面试官看了都摇头…]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=1&amp;sn=a380c0764915c9a431e2c20cae69215d&amp;chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=1&amp;sn=a380c0764915c9a431e2c20cae69215d&amp;chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd"/>
         <updated>2023-06-01T16:00:00.000Z</updated>
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614794&amp;idx=2&amp;sn=2cd6440d7d0e77f3a8f17a72c9481841&amp;chksm=8022b98bb755309d2fab8a1cb966525935b34b50513840f6bc520f6d0bb8824ad29e74a2170a#rd"/>
         <updated>2023-05-28T16:00:00.000Z</updated>
         <published>2023-05-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2955期】OpenAI Whisper + FFmpeg + TTS：动态实现跨语言视频音频翻译]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262822&amp;idx=1&amp;sn=7efd013f9eb0573fe2819af3e3508959&amp;chksm=bd48d6e28a3f5ff40c8fe8d85b270b0c1179af832cac28a8551e71b676b87ec0ec188e64f5d4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262822&amp;idx=1&amp;sn=7efd013f9eb0573fe2819af3e3508959&amp;chksm=bd48d6e28a3f5ff40c8fe8d85b270b0c1179af832cac28a8551e71b676b87ec0ec188e64f5d4#rd"/>
-        <updated>2023-05-28T16:00:00.000Z</updated>
-        <published>2023-05-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：你觉得Vue的响应式系统仅仅是一个Proxy？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489014&amp;idx=1&amp;sn=d533e42ed82c6ee1e19d96de34619586&amp;chksm=ce460067f931897138a3f33889e42ced5df020f06346f1973f1cd520c55fb836a0b5e77010d0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489014&amp;idx=1&amp;sn=d533e42ed82c6ee1e19d96de34619586&amp;chksm=ce460067f931897138a3f33889e42ced5df020f06346f1973f1cd520c55fb836a0b5e77010d0#rd"/>
-        <updated>2023-05-27T16:00:00.000Z</updated>
-        <published>2023-05-27T16:00:00.000Z</published>
     </entry>
 </feed>

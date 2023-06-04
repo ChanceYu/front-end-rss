@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-03 18:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-04 12:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -494,6 +494,7 @@
 - [2022-01-07-字节面试被虐后，是时候搞懂-DNS-了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502441&idx=3&sn=78055cba5703fe72d2b868b9e058943c&chksm=f992ccb8cee545aeb31ea7c0ec57c3931533501784e094cb069419af74fa92c54be773338866#rd) 
 - [2023-04-18-肝就完事了！2023前端高频面试题汇总](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495515&idx=1&sn=468624508340d011927fa8818c0276d0&chksm=ce268cadf95105bb5026ea1b8faaa4962d98fa645b847f5529e61ccaf1b31fe40c6a3b85adb8#rd) 
 - [2023-05-06-我的好朋友鲨鱼呆呆给大家快速拿-offer-的一些指导](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497939&idx=1&sn=368434ffd5d7d6be3c159759383060da&chksm=c2b3392cf5c4b03a2e5cff50659149f29b1784fbfe4719af74fab3d8c1aacd5e30f991251fa0#rd) 
+- [2023-06-02-今年这面试难度，面试官看了都摇头…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511678&idx=1&sn=a380c0764915c9a431e2c20cae69215d&chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd) 
 - [2023-05-25-价值50W的字节工牌，面试太卷了……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511605&idx=1&sn=0dd586235f54282ac547f0ce17955c80&chksm=eb07964cdc701f5a019f08b57a1e7f8e3cfcbc0c02546f0ff05d0a6439c5e9d4ba6cd14ca2c0#rd) 
 - [2023-05-12-阿里面试官太强了！直接指出了今年前端求职的新重点](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511523&idx=1&sn=a74a936f18fd583eb27e8bf8db7a02db&chksm=eb07959adc701c8c4e4a8950b716ef536dcbbd9bdf0b3d7e436eec2badd05ff391074fcc1c5c#rd) 
 - [2023-05-04-顺利拿到字节抖音的Offer！他平时是怎么刷题的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511455&idx=1&sn=25a796c993a922071cd29c5a7cc57a18&chksm=eb0795e6dc701cf0a395ec61c1ae3812dd80cd53dca4bfc6fd18df6cd4b20993c4ac779de5ba#rd) 
