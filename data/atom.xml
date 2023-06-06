@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-06T15:00:46.538Z</updated>
+    <updated>2023-06-06T22:00:41.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[45K*16薪！准备跳槽的可以参考下]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511707&amp;idx=1&amp;sn=183679e062e0bfd9284ca69a6a3dc02a&amp;chksm=eb0796e2dc701ff4426df9d00cf487d17b394f9afc9cc41abb2f654cfdacb07a9cb5178b9fd2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511707&amp;idx=1&amp;sn=183679e062e0bfd9284ca69a6a3dc02a&amp;chksm=eb0796e2dc701ff4426df9d00cf487d17b394f9afc9cc41abb2f654cfdacb07a9cb5178b9fd2#rd"/>
+        <updated>2023-06-05T16:00:00.000Z</updated>
+        <published>2023-06-05T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「记录篇」我是如何一步步为公司搭建react项目脚手架的]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=2&amp;sn=b89c53fb9e665655d537dbfd4f86a6ad&amp;chksm=f992bc5dcee5354b55d00a032b58ee3638342ac77c72ec4d522869195a5b59dccff77c3c20fc#rd</id>
@@ -190,16 +197,16 @@
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[今年这面试难度，面试官看了都摇头…]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=1&amp;sn=a380c0764915c9a431e2c20cae69215d&amp;chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=1&amp;sn=a380c0764915c9a431e2c20cae69215d&amp;chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd"/>
+        <title type="html"><![CDATA[React 发布十周年！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=2&amp;sn=4a148f39f84c73c31924412d4409ba21&amp;chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=2&amp;sn=4a148f39f84c73c31924412d4409ba21&amp;chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd"/>
         <updated>2023-06-01T16:00:00.000Z</updated>
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 发布十周年！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=2&amp;sn=4a148f39f84c73c31924412d4409ba21&amp;chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=2&amp;sn=4a148f39f84c73c31924412d4409ba21&amp;chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd"/>
+        <title type="html"><![CDATA[今年这面试难度，面试官看了都摇头…]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=1&amp;sn=a380c0764915c9a431e2c20cae69215d&amp;chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511678&amp;idx=1&amp;sn=a380c0764915c9a431e2c20cae69215d&amp;chksm=eb079607dc701f11f0bffebb220f29605cfa4a938a1282148e1d2c907f271e4ab24094ff273e#rd"/>
         <updated>2023-06-01T16:00:00.000Z</updated>
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[分享十二个字节前端写的代码片段，到底有什么不一样？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514736&amp;idx=2&amp;sn=cf22fcdf655111bea2f222bef5bfc91b&amp;chksm=f992bca1cee535b76134120d3149d31e3decfd25193d683cd0668e99a674694ff6fefccd55f9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514736&amp;idx=2&amp;sn=cf22fcdf655111bea2f222bef5bfc91b&amp;chksm=f992bca1cee535b76134120d3149d31e3decfd25193d683cd0668e99a674694ff6fefccd55f9#rd"/>
-        <updated>2023-05-30T16:00:00.000Z</updated>
-        <published>2023-05-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端到底是“技术深度”重要还是“技术广度”重要？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489047&amp;idx=1&amp;sn=eed2faaf40f4cd655e816e4d24dbb734&amp;chksm=ce460386f9318a90a1ddc91290b499c978d2c4b9444cd725ed41feeb2877f5ade97ab2667b76#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489047&amp;idx=1&amp;sn=eed2faaf40f4cd655e816e4d24dbb734&amp;chksm=ce460386f9318a90a1ddc91290b499c978d2c4b9444cd725ed41feeb2877f5ade97ab2667b76#rd"/>
         <updated>2023-05-30T16:00:00.000Z</updated>
         <published>2023-05-30T16:00:00.000Z</published>
     </entry>
