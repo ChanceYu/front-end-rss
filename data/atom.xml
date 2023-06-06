@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-06T13:00:43.384Z</updated>
+    <updated>2023-06-06T15:00:46.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[ChatGPT 怎么结合前端工程化？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=1&amp;sn=3381bab4e13ba2830228d94372f726b0&amp;chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=1&amp;sn=3381bab4e13ba2830228d94372f726b0&amp;chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd"/>
+        <updated>2023-06-05T16:00:00.000Z</updated>
+        <published>2023-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands on with Node's new built-in test runner]]></title>
+        <id>https://nodeweekly.com/issues/489</id>
+        <link href="https://nodeweekly.com/issues/489"/>
         <updated>2023-06-05T16:00:00.000Z</updated>
         <published>2023-06-05T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端到底是“技术深度”重要还是“技术广度”重要？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489047&amp;idx=1&amp;sn=eed2faaf40f4cd655e816e4d24dbb734&amp;chksm=ce460386f9318a90a1ddc91290b499c978d2c4b9444cd725ed41feeb2877f5ade97ab2667b76#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489047&amp;idx=1&amp;sn=eed2faaf40f4cd655e816e4d24dbb734&amp;chksm=ce460386f9318a90a1ddc91290b499c978d2c4b9444cd725ed41feeb2877f5ade97ab2667b76#rd"/>
-        <updated>2023-05-30T16:00:00.000Z</updated>
-        <published>2023-05-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推动UI层现代化：聊聊取代微前端的交互式微服务]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521050&amp;idx=1&amp;sn=058dcb3fc891240bf08af0952a2ea9d1&amp;chksm=f9522659ce25af4f322beea1b606a2cf53a5fadab538453350bdb983742d24ec559502ab9440#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521050&amp;idx=1&amp;sn=058dcb3fc891240bf08af0952a2ea9d1&amp;chksm=f9522659ce25af4f322beea1b606a2cf53a5fadab538453350bdb983742d24ec559502ab9440#rd"/>
         <updated>2023-05-30T16:00:00.000Z</updated>
         <published>2023-05-30T16:00:00.000Z</published>
     </entry>

@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-06 21:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-06 23:00:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -41,6 +41,7 @@
 </summary>
 
 
+- [2023-06-06-Hands-on-with-Node's-new-built-in-test-runner](https://nodeweekly.com/issues/489) ![](/assets/new.png)  
 - [2023-05-30-All-the-ways-to-use-Postgres-from-Node](https://nodeweekly.com/issues/488)  
 - [2023-05-23-Node.js-20-is-faster](https://nodeweekly.com/issues/487)  
 - [2023-05-16-MS's-new-tool-for-digging-deep-into-V8](https://nodeweekly.com/issues/486)  
@@ -60,7 +61,6 @@
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)  
 - [2023-01-26-Automating-the-desktop-with-Node](https://nodeweekly.com/issues/471)  
 - [2023-01-19-We're-going-on-a-memory-leak-hunt](https://nodeweekly.com/issues/470)  
-- [2023-01-12-Comparing-Node.js-job-schedulers](https://nodeweekly.com/issues/469)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -196,7 +196,7 @@
 </summary>
 
 
-- [2023-06-06-今年下半场，前端开发如何提升自身竞争力？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489102&idx=1&sn=fbaef51a82a96e95adcf760d9d21f4b6&chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd) ![](/assets/new.png)  
+- [2023-06-06-今年下半场，前端开发如何提升自身竞争力？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489102&idx=1&sn=fbaef51a82a96e95adcf760d9d21f4b6&chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd)  
 - [2023-06-05-外包、大厂、小公司都待过的前端工程师是如何找工作的~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489096&idx=1&sn=c21b23080e22770995241be7a1da3eb4&chksm=ce4603d9f9318acff6caa941594147ca33a0d256986f95af60abc60810d29c98ac7fcfedf323#rd)  
 - [2023-06-04-【5年以上前端】Vue-和-React-的区别看这里](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489076&idx=1&sn=3f26fe101d764eff6707aa9c63c8da87&chksm=ce4603a5f9318ab31947ecf4ada5d132d8a3cc9ed9b8fed8a6342299962c3e8ee16127c9c5a8#rd)  
 - [2023-06-03-Vue3优雅地监听localStorage变化](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489074&idx=1&sn=f0fed4e06dd39d76fb28b2a29d072e1d&chksm=ce4603a3f9318ab597390624f13fb6d1247cdbc24398a2cf523106950f7892e10783d1c1b7b2#rd)  
