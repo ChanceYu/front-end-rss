@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-06 10:00:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-06 21:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,9 +19,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -196,6 +196,7 @@
 </summary>
 
 
+- [2023-06-06-今年下半场，前端开发如何提升自身竞争力？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489102&idx=1&sn=fbaef51a82a96e95adcf760d9d21f4b6&chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd) ![](/assets/new.png)  
 - [2023-06-05-外包、大厂、小公司都待过的前端工程师是如何找工作的~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489096&idx=1&sn=c21b23080e22770995241be7a1da3eb4&chksm=ce4603d9f9318acff6caa941594147ca33a0d256986f95af60abc60810d29c98ac7fcfedf323#rd)  
 - [2023-06-04-【5年以上前端】Vue-和-React-的区别看这里](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489076&idx=1&sn=3f26fe101d764eff6707aa9c63c8da87&chksm=ce4603a5f9318ab31947ecf4ada5d132d8a3cc9ed9b8fed8a6342299962c3e8ee16127c9c5a8#rd)  
 - [2023-06-03-Vue3优雅地监听localStorage变化](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489074&idx=1&sn=f0fed4e06dd39d76fb28b2a29d072e1d&chksm=ce4603a3f9318ab597390624f13fb6d1247cdbc24398a2cf523106950f7892e10783d1c1b7b2#rd)  
@@ -215,7 +216,6 @@
 - [2023-05-20-分享实践一些Vite的性能优化和踩过的坑，非常有用！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488952&idx=1&sn=0a11abb6689842a1028aecf553101ea4&chksm=ce460029f931893f05815967d46e29e9a8c7bdd002f7a6f2304087ed8c7c8491c9829cbaaf27#rd)  
 - [2023-05-19-我是怎么改造项目中的console.log的？分享给你们~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488934&idx=1&sn=ab1004963273cf5ee424feab328e077e&chksm=ce460037f93189219e469deabf9d0a0d7bd8b7ad158cc3737459f3acbf1ffc04795079af2045#rd)  
 - [2023-05-18-新来了一个卷王，八股文-算法张口就来，太卷了~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488929&idx=1&sn=a0a82dab0185040eebb6b8dc9021d798&chksm=ce460030f9318926288c6734e9df5abc416f978040082d8e5f19772834d91bafa06b586e8836#rd)  
-- [2023-05-17-前端摸鱼必备！偷偷摸鱼然后惊艳所有人！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488884&idx=1&sn=42813745dfb3475b9a0e0af786d6c74e&chksm=ce4600e5f93189f37a9f86e3bc33d622b9b7524392691092502e8bdc24b427d48864572d3f3f#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -258,8 +258,8 @@
 </summary>
 
 
-- [2023-06-06-H5页面秒开优化与实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514764&idx=1&sn=d98329bd7af554578543dd3fd325c8dc&chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd) ![](/assets/new.png)  
-- [2023-06-06-「记录篇」我是如何一步步为公司搭建react项目脚手架的](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514764&idx=2&sn=b89c53fb9e665655d537dbfd4f86a6ad&chksm=f992bc5dcee5354b55d00a032b58ee3638342ac77c72ec4d522869195a5b59dccff77c3c20fc#rd) ![](/assets/new.png)  
+- [2023-06-06-H5页面秒开优化与实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514764&idx=1&sn=d98329bd7af554578543dd3fd325c8dc&chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd)  
+- [2023-06-06-「记录篇」我是如何一步步为公司搭建react项目脚手架的](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514764&idx=2&sn=b89c53fb9e665655d537dbfd4f86a6ad&chksm=f992bc5dcee5354b55d00a032b58ee3638342ac77c72ec4d522869195a5b59dccff77c3c20fc#rd)  
 - [2023-06-05-Echarts无法实现这个曲线图，那我手写一个](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514757&idx=2&sn=6e291b43aedd80ddc8dc732c3ce82772&chksm=f992bc54cee53542eeda81556ca9c393c568f67388f449279dc80a3da8ac4a27f6e4bc5df0a4#rd)  
 - [2023-06-05-45K*16薪，进字节了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514757&idx=1&sn=e8d49d173c3116c9b013fff7e95590d2&chksm=f992bc54cee53542566cd9ddc72c2bd8823d0b406550e55c6ee31114c5b041a74ca0d68bb183#rd)  
 - [2023-06-04-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514748&idx=1&sn=f1d03aa17fcbf6227ded89afe46c1289&chksm=f992bcadcee535bb62fc9e6ec85b6ad263dfb0c6001256ecf42401f76e39abd5cc0e30c05dfe#rd)  

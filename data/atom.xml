@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-06T02:00:41.902Z</updated>
+    <updated>2023-06-06T13:00:43.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[H5页面秒开优化与实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=1&amp;sn=d98329bd7af554578543dd3fd325c8dc&amp;chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=1&amp;sn=d98329bd7af554578543dd3fd325c8dc&amp;chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd"/>
+        <updated>2023-06-05T16:00:00.000Z</updated>
+        <published>2023-06-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年下半场，前端开发如何提升自身竞争力？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489102&amp;idx=1&amp;sn=fbaef51a82a96e95adcf760d9d21f4b6&amp;chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489102&amp;idx=1&amp;sn=fbaef51a82a96e95adcf760d9d21f4b6&amp;chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd"/>
         <updated>2023-06-05T16:00:00.000Z</updated>
         <published>2023-06-05T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[推动UI层现代化：聊聊取代微前端的交互式微服务]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521050&amp;idx=1&amp;sn=058dcb3fc891240bf08af0952a2ea9d1&amp;chksm=f9522659ce25af4f322beea1b606a2cf53a5fadab538453350bdb983742d24ec559502ab9440#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521050&amp;idx=1&amp;sn=058dcb3fc891240bf08af0952a2ea9d1&amp;chksm=f9522659ce25af4f322beea1b606a2cf53a5fadab538453350bdb983742d24ec559502ab9440#rd"/>
-        <updated>2023-05-30T16:00:00.000Z</updated>
-        <published>2023-05-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盘点那些前端项目上的规范工具]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614796&amp;idx=2&amp;sn=76f166fe095d3a3fe40b266bcf24852a&amp;chksm=8022b98db755309b43283f44c188a56537bc2d9e0bdf0ff6ed828392c0b8547f790e25fd5ce1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614796&amp;idx=2&amp;sn=76f166fe095d3a3fe40b266bcf24852a&amp;chksm=8022b98db755309b43283f44c188a56537bc2d9e0bdf0ff6ed828392c0b8547f790e25fd5ce1#rd"/>
         <updated>2023-05-30T16:00:00.000Z</updated>
         <published>2023-05-30T16:00:00.000Z</published>
     </entry>
