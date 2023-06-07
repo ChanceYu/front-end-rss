@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-07T13:01:16.763Z</updated>
+    <updated>2023-06-07T15:00:47.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS 奇思妙想边框动画]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495778&amp;idx=1&amp;sn=e96c01b620815fa4e5c168d24598362e&amp;chksm=ce269394f9511a821d985eb4047ec28ce9d5e7325b2629b5fb8db3c2882c78a43dd8369619ef#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495778&amp;idx=1&amp;sn=e96c01b620815fa4e5c168d24598362e&amp;chksm=ce269394f9511a821d985eb4047ec28ce9d5e7325b2629b5fb8db3c2882c78a43dd8369619ef#rd"/>
+        <updated>2023-06-06T16:00:00.000Z</updated>
+        <published>2023-06-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发 React 组件库时，可能没注意到的小细节！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514770&amp;idx=2&amp;sn=aaba7ac4330d73824eb335ccce8aa75f&amp;chksm=f992bc43cee5355567c901cc726926c66b0a5243b2c32b8fc0a3589fbb805036e05f560f0edf#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第2958期】进度跟踪器的体验设计]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=1&amp;sn=12b635bc6a7f8528e14a14f7697ebeb1&amp;chksm=bd48d62b8a3f5f3da9bcf047fb55a7ee952821ce330f37b0b09785edee89729fc13728aa9cb8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=1&amp;sn=12b635bc6a7f8528e14a14f7697ebeb1&amp;chksm=bd48d62b8a3f5f3da9bcf047fb55a7ee952821ce330f37b0b09785edee89729fc13728aa9cb8#rd"/>
-        <updated>2023-05-31T16:00:00.000Z</updated>
-        <published>2023-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】告诉别人中间过程的目的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=2&amp;sn=50cd0a0f334aa79d03adcc3c65fe5c64&amp;chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=2&amp;sn=50cd0a0f334aa79d03adcc3c65fe5c64&amp;chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd"/>
         <updated>2023-05-31T16:00:00.000Z</updated>
         <published>2023-05-31T16:00:00.000Z</published>
     </entry>
