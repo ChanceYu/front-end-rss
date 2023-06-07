@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-07 06:00:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-07 15:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -177,6 +177,7 @@
 - [2022-03-19-如何做一次前端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061950&idx=1&sn=e850b7e09dba1d9337ee13050f29c399&chksm=87c425aeb0b3acb8a8eb0ddd51d4bcdc704cfbccab26aece78b24e8d2416accd764222f37372#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
+- [2023-06-07-原来懒加载有这些玩法，你确定不看看？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514770&idx=1&sn=39689c3618009bf06869c0126160f411&chksm=f992bc43cee5355588664e0eb888372fd7ff82d68da64a0c620a67e947879bbd55f1de11195c#rd) 
 - [2023-06-04-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514748&idx=1&sn=f1d03aa17fcbf6227ded89afe46c1289&chksm=f992bcadcee535bb62fc9e6ec85b6ad263dfb0c6001256ecf42401f76e39abd5cc0e30c05dfe#rd) 
 - [2023-03-31-面试遇到-性能优化-必答的-9-个点，加分！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513989&idx=1&sn=2526be3901b10f21d1810c614b7ec8ae&chksm=f992b154cee538420ad1ebcbed047b7acf4db3526b58f619e2fdcc6d5ccf6f00473d27d4f3cc#rd) 
 - [2023-03-23-了解一下图片加载](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513762&idx=1&sn=8b64005da92e61e1ebef246ce37985db&chksm=f992b073cee53965cb32a0917ec907c82527fd609bdbd336cb87f27cc1db72b3accec6571717#rd) 
