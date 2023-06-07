@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-07T10:00:40.985Z</updated>
+    <updated>2023-06-07T13:01:16.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,9 +29,23 @@
         <published>2023-06-06T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[苹果发布革命性的操作系统VisionOS：这是从“sudo”到“Siri”的改变]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521146&amp;idx=1&amp;sn=3325c9f7b14ff74653ec7a4865515873&amp;chksm=f9522639ce25af2fe0828ea48c704c525798ed28293ad95d9d0ccf3b512c9cd28db5e2d964c4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521146&amp;idx=1&amp;sn=3325c9f7b14ff74653ec7a4865515873&amp;chksm=f9522639ce25af2fe0828ea48c704c525798ed28293ad95d9d0ccf3b512c9cd28db5e2d964c4#rd"/>
+        <updated>2023-06-06T16:00:00.000Z</updated>
+        <published>2023-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chrome 将引入无边界模式]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614958&amp;idx=2&amp;sn=d0d87edf67462320d633eb4e76f2a8f2&amp;chksm=8022b92fb7553039a61ffd141e013e9f1c6ae36579588f424f3bc80da26192339925a0045780#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614958&amp;idx=2&amp;sn=d0d87edf67462320d633eb4e76f2a8f2&amp;chksm=8022b92fb7553039a61ffd141e013e9f1c6ae36579588f424f3bc80da26192339925a0045780#rd"/>
+        <updated>2023-06-06T16:00:00.000Z</updated>
+        <published>2023-06-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第2964期】React APIs 演进和代码复用]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263027&amp;idx=1&amp;sn=3365e59a30671ad6e94d761e01f8fdc6&amp;chksm=bd48c9b78a3f40a1621b1b884fe0e59691d32ecafa11140e2d3327b8132e1661ff1d9bdb8f21#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263027&amp;idx=1&amp;sn=3365e59a30671ad6e94d761e01f8fdc6&amp;chksm=bd48c9b78a3f40a1621b1b884fe0e59691d32ecafa11140e2d3327b8132e1661ff1d9bdb8f21#rd"/>
         <updated>2023-06-06T16:00:00.000Z</updated>
         <published>2023-06-06T16:00:00.000Z</published>
     </entry>
@@ -64,16 +78,16 @@
         <published>2023-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2963期】用纯 CSS 方式实现动态切换主题风格]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=2&amp;sn=0fd577f0dedcb60745aaa56e1ef6674d&amp;chksm=bd48c9a88a3f40be37aa4148c3e4e2429f9362d957f46edb7e7a3da37f5a49b39cf8e8d96666#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=2&amp;sn=0fd577f0dedcb60745aaa56e1ef6674d&amp;chksm=bd48c9a88a3f40be37aa4148c3e4e2429f9362d957f46edb7e7a3da37f5a49b39cf8e8d96666#rd"/>
+        <title type="html"><![CDATA[ChatGPT 怎么结合前端工程化？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=1&amp;sn=3381bab4e13ba2830228d94372f726b0&amp;chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=1&amp;sn=3381bab4e13ba2830228d94372f726b0&amp;chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd"/>
         <updated>2023-06-05T16:00:00.000Z</updated>
         <published>2023-06-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT 怎么结合前端工程化？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=1&amp;sn=3381bab4e13ba2830228d94372f726b0&amp;chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=1&amp;sn=3381bab4e13ba2830228d94372f726b0&amp;chksm=bd48c9a88a3f40be0572ad946c519037e074cae47b6c594e43756637662c931c3c3a4998b5f8#rd"/>
+        <title type="html"><![CDATA[【第2963期】用纯 CSS 方式实现动态切换主题风格]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=2&amp;sn=0fd577f0dedcb60745aaa56e1ef6674d&amp;chksm=bd48c9a88a3f40be37aa4148c3e4e2429f9362d957f46edb7e7a3da37f5a49b39cf8e8d96666#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263020&amp;idx=2&amp;sn=0fd577f0dedcb60745aaa56e1ef6674d&amp;chksm=bd48c9a88a3f40be37aa4148c3e4e2429f9362d957f46edb7e7a3da37f5a49b39cf8e8d96666#rd"/>
         <updated>2023-06-05T16:00:00.000Z</updated>
         <published>2023-06-05T16:00:00.000Z</published>
     </entry>
@@ -197,16 +211,16 @@
         <published>2023-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】内部交流信]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=2&amp;sn=e677ce78d62529cb941029173295ee4a&amp;chksm=bd48d66a8a3f5f7ca31afab3b09005844a4d8feaaabfb25a9c9376c8130d1e74cafd243cd4eb#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=2&amp;sn=e677ce78d62529cb941029173295ee4a&amp;chksm=bd48d66a8a3f5f7ca31afab3b09005844a4d8feaaabfb25a9c9376c8130d1e74cafd243cd4eb#rd"/>
+        <title type="html"><![CDATA[【第2960期】原生 popover 终于要来了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=1&amp;sn=334e71de1d03345264c1160c96fd166b&amp;chksm=bd48d66a8a3f5f7c9c2164f5ce57997e329181a70d98220ea5fb0a600eb100cba4c66d8ead08#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=1&amp;sn=334e71de1d03345264c1160c96fd166b&amp;chksm=bd48d66a8a3f5f7c9c2164f5ce57997e329181a70d98220ea5fb0a600eb100cba4c66d8ead08#rd"/>
         <updated>2023-06-02T16:00:00.000Z</updated>
         <published>2023-06-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2960期】原生 popover 终于要来了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=1&amp;sn=334e71de1d03345264c1160c96fd166b&amp;chksm=bd48d66a8a3f5f7c9c2164f5ce57997e329181a70d98220ea5fb0a600eb100cba4c66d8ead08#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=1&amp;sn=334e71de1d03345264c1160c96fd166b&amp;chksm=bd48d66a8a3f5f7c9c2164f5ce57997e329181a70d98220ea5fb0a600eb100cba4c66d8ead08#rd"/>
+        <title type="html"><![CDATA[【早说】内部交流信]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=2&amp;sn=e677ce78d62529cb941029173295ee4a&amp;chksm=bd48d66a8a3f5f7ca31afab3b09005844a4d8feaaabfb25a9c9376c8130d1e74cafd243cd4eb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262958&amp;idx=2&amp;sn=e677ce78d62529cb941029173295ee4a&amp;chksm=bd48d66a8a3f5f7ca31afab3b09005844a4d8feaaabfb25a9c9376c8130d1e74cafd243cd4eb#rd"/>
         <updated>2023-06-02T16:00:00.000Z</updated>
         <published>2023-06-02T16:00:00.000Z</published>
     </entry>
@@ -267,16 +281,16 @@
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第2959期】一个无后端也无前端彻底无服务的网页版记事本]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=1&amp;sn=77d2a36fcf617a7795d8cb5d6caedb68&amp;chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=1&amp;sn=77d2a36fcf617a7795d8cb5d6caedb68&amp;chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd"/>
+        <title type="html"><![CDATA[【早行】2023.5小结]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=2&amp;sn=30a37127cc7ea3366dfd780e808fc7e4&amp;chksm=bd48d64a8a3f5f5cff742e6ffe0fbbe24e7c6d7a9b2ebd4d856c47f7ad3597d3eeb2ac631315#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=2&amp;sn=30a37127cc7ea3366dfd780e808fc7e4&amp;chksm=bd48d64a8a3f5f5cff742e6ffe0fbbe24e7c6d7a9b2ebd4d856c47f7ad3597d3eeb2ac631315#rd"/>
         <updated>2023-06-01T16:00:00.000Z</updated>
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早行】2023.5小结]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=2&amp;sn=30a37127cc7ea3366dfd780e808fc7e4&amp;chksm=bd48d64a8a3f5f5cff742e6ffe0fbbe24e7c6d7a9b2ebd4d856c47f7ad3597d3eeb2ac631315#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=2&amp;sn=30a37127cc7ea3366dfd780e808fc7e4&amp;chksm=bd48d64a8a3f5f5cff742e6ffe0fbbe24e7c6d7a9b2ebd4d856c47f7ad3597d3eeb2ac631315#rd"/>
+        <title type="html"><![CDATA[【第2959期】一个无后端也无前端彻底无服务的网页版记事本]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=1&amp;sn=77d2a36fcf617a7795d8cb5d6caedb68&amp;chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=1&amp;sn=77d2a36fcf617a7795d8cb5d6caedb68&amp;chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd"/>
         <updated>2023-06-01T16:00:00.000Z</updated>
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
@@ -337,13 +351,6 @@
         <published>2023-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】告诉别人中间过程的目的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=2&amp;sn=50cd0a0f334aa79d03adcc3c65fe5c64&amp;chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=2&amp;sn=50cd0a0f334aa79d03adcc3c65fe5c64&amp;chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd"/>
-        <updated>2023-05-31T16:00:00.000Z</updated>
-        <published>2023-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第2958期】进度跟踪器的体验设计]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=1&amp;sn=12b635bc6a7f8528e14a14f7697ebeb1&amp;chksm=bd48d62b8a3f5f3da9bcf047fb55a7ee952821ce330f37b0b09785edee89729fc13728aa9cb8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=1&amp;sn=12b635bc6a7f8528e14a14f7697ebeb1&amp;chksm=bd48d62b8a3f5f3da9bcf047fb55a7ee952821ce330f37b0b09785edee89729fc13728aa9cb8#rd"/>
@@ -351,17 +358,10 @@
         <published>2023-05-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bundle-time macros with Bun]]></title>
-        <id>https://javascriptweekly.com/issues/641</id>
-        <link href="https://javascriptweekly.com/issues/641"/>
+        <title type="html"><![CDATA[【早说】告诉别人中间过程的目的]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=2&amp;sn=50cd0a0f334aa79d03adcc3c65fe5c64&amp;chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262895&amp;idx=2&amp;sn=50cd0a0f334aa79d03adcc3c65fe5c64&amp;chksm=bd48d62b8a3f5f3d22ff460f8f6a91912d658fc64eea5b196b363d84d2ee5d481a183b6f9871#rd"/>
         <updated>2023-05-31T16:00:00.000Z</updated>
         <published>2023-05-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS margin-trim属性是做什么用的？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/"/>
-        <updated>2023-05-30T16:00:00.000Z</updated>
-        <published>2023-05-30T16:00:00.000Z</published>
     </entry>
 </feed>
