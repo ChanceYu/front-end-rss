@@ -10,20 +10,20 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-08 21:00:48，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-09 06:00:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
+- [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642) ![](/assets/new.png)  
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
@@ -91,7 +92,6 @@
 - [2023-02-10-Bringing-JavaScript-to-WebAssembly](https://javascriptweekly.com/issues/625)  
 - [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624)  
 - [2023-01-27-Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)  
-- [2023-01-20-Why-document.write-is-bad](https://javascriptweekly.com/issues/622)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,7 +135,7 @@
 
 
 - [2023-06-07-Chrome-将引入无边界模式](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614958&idx=2&sn=d0d87edf67462320d633eb4e76f2a8f2&chksm=8022b92fb7553039a61ffd141e013e9f1c6ae36579588f424f3bc80da26192339925a0045780#rd)  
-- [2023-06-07-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614958&idx=1&sn=a57ff973f63778d8e209976fd18b1f0a&chksm=8022b92fb7553039c5d86df3ed31bb613bbc8e9b1f2b6b7c8fda96dba084fff2140d773f92e0#rd) ![](/assets/new.png)  
+- [2023-06-07-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614958&idx=1&sn=a57ff973f63778d8e209976fd18b1f0a&chksm=8022b92fb7553039c5d86df3ed31bb613bbc8e9b1f2b6b7c8fda96dba084fff2140d773f92e0#rd)  
 - [2023-06-05-十分钟，带你了解-Vue3-的新写法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614936&idx=1&sn=570d1ca8a5a53380e85ee933f855af7c&chksm=8022b919b755300f8d3907989dcc7429ff96b1c422e09d2fcacb6f89891a453f668e8e551292#rd)  
 - [2023-06-05-我是埋点SDK，看我如何让甲方爸爸的页面卡顿10s+](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614936&idx=2&sn=4ad159afb7ae26314805f4662ed596b1&chksm=8022b919b755300f94c5f036ad6610b2df2516471c8e76ab161b2d2b434b52a583c05cf45b0f#rd)  
 - [2023-06-02-27-个实用的-Visual-Studio-Code-扩展插件，让我们的工作效率翻倍](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651614892&idx=2&sn=fba9f0f1f399e7a2eb30b9d71b47b877&chksm=8022b96db755307bca0665a251cbc0d4463a146fb7ce3d7bd1da2912a2460831d2999ee1a9aa#rd)  
@@ -258,7 +258,7 @@
 </summary>
 
 
-- [2023-06-08-完美搭配，微前端与Monorepo的架构设计](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514776&idx=1&sn=229f8608f5a9407df9ae307231ebc248&chksm=f992bc49cee5355f5195f1aa061f4e7794383c1237564400298c2e7feb638eaff2af4a91f868#rd) ![](/assets/new.png)  
+- [2023-06-08-完美搭配，微前端与Monorepo的架构设计](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514776&idx=1&sn=229f8608f5a9407df9ae307231ebc248&chksm=f992bc49cee5355f5195f1aa061f4e7794383c1237564400298c2e7feb638eaff2af4a91f868#rd)  
 - [2023-06-07-开发-React-组件库时，可能没注意到的小细节！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514770&idx=2&sn=aaba7ac4330d73824eb335ccce8aa75f&chksm=f992bc43cee5355567c901cc726926c66b0a5243b2c32b8fc0a3589fbb805036e05f560f0edf#rd)  
 - [2023-06-07-原来懒加载有这些玩法，你确定不看看？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514770&idx=1&sn=39689c3618009bf06869c0126160f411&chksm=f992bc43cee5355588664e0eb888372fd7ff82d68da64a0c620a67e947879bbd55f1de11195c#rd)  
 - [2023-06-06-H5页面秒开优化与实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514764&idx=1&sn=d98329bd7af554578543dd3fd325c8dc&chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd)  
@@ -320,7 +320,7 @@
 </summary>
 
 
-- [2023-06-08-前后端免费学，字节跳动青训营-暑假专场报名启动](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503529&idx=1&sn=cea8431ede2eb27a4c60c18dab80ddc1&chksm=cea979a8f9def0be4b9c7324686ad0c5d581f53f4dc79e0918e3fe008e570180060398780a28#rd) ![](/assets/new.png)  
+- [2023-06-08-前后端免费学，字节跳动青训营-暑假专场报名启动](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503529&idx=1&sn=cea8431ede2eb27a4c60c18dab80ddc1&chksm=cea979a8f9def0be4b9c7324686ad0c5d581f53f4dc79e0918e3fe008e570180060398780a28#rd)  
 - [2023-06-02-WebAssembly-模块化与动态链接](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503481&idx=1&sn=9bad90611cc2ba3e906608f96a6d6709&chksm=cea97978f9def06eeb990bbdce2ba79bcfbd058f0b5851d454755626520bf53fde94a96554d9#rd)  
 - [2023-05-31-【线上沙龙免费报名】抖音-Android-基础技术大揭秘](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503435&idx=1&sn=689e32179021eaf29b6cf7b4cdb16300&chksm=cea9794af9def05cf6614c9a2a9731ad4895812c627bdcd9fa7dfe8baf107f0026c2aa70244b#rd)  
 - [2023-05-24-Hook-革命！浅谈-React-新-Hook-的未来与思想](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503417&idx=1&sn=f2533bdc07150c739bd21f0adda571b7&chksm=cea97938f9def02e8348b51e1f659182e072ad9c8c4700586ef8cf64e0c3047554e038cbac6e#rd)  

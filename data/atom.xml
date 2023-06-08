@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-08T13:00:49.517Z</updated>
+    <updated>2023-06-08T22:00:40.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[【第2965期】Github Copiolt：如何提升开发者的生产力和幸福感？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263037&amp;idx=1&amp;sn=c598ff09475d448d3a52b073208c1a7b&amp;chksm=bd48c9b98a3f40aff5ba4873319c8311dc38d454dded01bfcb724dd42922a702877999245894#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263037&amp;idx=1&amp;sn=c598ff09475d448d3a52b073208c1a7b&amp;chksm=bd48c9b98a3f40aff5ba4873319c8311dc38d454dded01bfcb724dd42922a702877999245894#rd"/>
+        <updated>2023-06-07T16:00:00.000Z</updated>
+        <published>2023-06-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas Crockford calls JavaScript 'smelly.']]></title>
+        <id>https://javascriptweekly.com/issues/642</id>
+        <link href="https://javascriptweekly.com/issues/642"/>
         <updated>2023-06-07T16:00:00.000Z</updated>
         <published>2023-06-07T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[27 个实用的 Visual Studio Code 扩展插件，让我们的工作效率翻倍]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614892&amp;idx=2&amp;sn=fba9f0f1f399e7a2eb30b9d71b47b877&amp;chksm=8022b96db755307bca0665a251cbc0d4463a146fb7ce3d7bd1da2912a2460831d2999ee1a9aa#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614892&amp;idx=2&amp;sn=fba9f0f1f399e7a2eb30b9d71b47b877&amp;chksm=8022b96db755307bca0665a251cbc0d4463a146fb7ce3d7bd1da2912a2460831d2999ee1a9aa#rd"/>
-        <updated>2023-06-01T16:00:00.000Z</updated>
-        <published>2023-06-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2959期】一个无后端也无前端彻底无服务的网页版记事本]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=1&amp;sn=77d2a36fcf617a7795d8cb5d6caedb68&amp;chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262926&amp;idx=1&amp;sn=77d2a36fcf617a7795d8cb5d6caedb68&amp;chksm=bd48d64a8a3f5f5c9cf0cef9475337842aa79d5f9083a4d9beb17a6811be4a6b523a40b154fe#rd"/>
         <updated>2023-06-01T16:00:00.000Z</updated>
         <published>2023-06-01T16:00:00.000Z</published>
     </entry>
