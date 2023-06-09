@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-09 06:00:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-09 10:00:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642) ![](/assets/new.png)  
+- [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
@@ -501,6 +501,7 @@
 </summary>
 
 
+- [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html) ![](/assets/new.png)  
 - [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)  
 - [2023-05-26-科技爱好者周刊（第-256-期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)  
 - [2023-05-19-科技爱好者周刊（第-255-期）：对待-AI-的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)  
@@ -520,7 +521,6 @@
 - [2023-02-17-科技爱好者周刊（第-242-期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)  
 - [2023-02-10-科技爱好者周刊（第-241-期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)  
 - [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
-- [2023-01-13-科技爱好者周刊（第-239-期）：未来两种人会增加](http://www.ruanyifeng.com/blog/2023/01/weekly-issue-239.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
