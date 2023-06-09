@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-09 12:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-09 18:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -531,6 +531,8 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2023-06-08-React-会迎来-Angular-的没落时刻吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511727&idx=1&sn=90c016c15fa30c00274269f3b157bee4&chksm=eb0796d6dc701fc0e8892e0de5aa3311375c317825bee4147df3ac25c5e2d418499cc2541ee4#rd) 
+- [2023-06-07-2023-年，创建-React-项目还在用-CRA？过时啦](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511719&idx=1&sn=7dad04bf5593054daf6a0156fabad468&chksm=eb0796dedc701fc8d18017f00c74f0c0d8cdf19dc83cd7cafaf8a9c0a1b759e3d346c88cc8f4#rd) 
 - [2023-06-02-React-发布十周年！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511678&idx=2&sn=4a148f39f84c73c31924412d4409ba21&chksm=eb079607dc701f117e182268b0a4a4e97e4ebb9afaf253c7e9820a332b7f762d2fd9e744aa14#rd) 
 - [2023-06-01-React-Legend-State：速度碾压其他状态管理库，是传奇还是小丑？🤡](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511647&idx=1&sn=6df209ff7373e6b19b47486a26a8b522&chksm=eb079626dc701f30a1cc22590e80dbb348895fb93a2568317ce011480c593ddc354f4d55f14c#rd) 
 - [2023-05-26-理解-React-18-的“并发特性”，就这么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511606&idx=1&sn=929ec7697d6f5e23d461881de0aeb641&chksm=eb07964fdc701f590830e992f4192a757daf66958eceab2c4f65f3634ef6a997d6f1f3112f8c#rd) 
