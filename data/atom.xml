@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-10T00:00:57.352Z</updated>
+    <updated>2023-06-10T13:00:42.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[如何优雅使用 Vue 的 computed 方法呢？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489145&amp;idx=1&amp;sn=cfb9b427a71760318ff52866a9937a34&amp;chksm=ce4603e8f9318afe426af7cf952c1dadb8282c57f7323e5de97171dacf2463e8a553a2270128#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489145&amp;idx=1&amp;sn=cfb9b427a71760318ff52866a9937a34&amp;chksm=ce4603e8f9318afe426af7cf952c1dadb8282c57f7323e5de97171dacf2463e8a553a2270128#rd"/>
+        <updated>2023-06-09T16:00:00.000Z</updated>
+        <published>2023-06-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第2967期】探索主流前端框架的响应式原理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263167&amp;idx=1&amp;sn=e435ab8a60c094f0698fcbe66e7ec950&amp;chksm=bd48c93b8a3f402dfb5cfff9292700232db6c728b74753a220c746da486fd6886f2b49082da6#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【5年以上前端】Vue 和 React 的区别看这里]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489076&amp;idx=1&amp;sn=3f26fe101d764eff6707aa9c63c8da87&amp;chksm=ce4603a5f9318ab31947ecf4ada5d132d8a3cc9ed9b8fed8a6342299962c3e8ee16127c9c5a8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489076&amp;idx=1&amp;sn=3f26fe101d764eff6707aa9c63c8da87&amp;chksm=ce4603a5f9318ab31947ecf4ada5d132d8a3cc9ed9b8fed8a6342299962c3e8ee16127c9c5a8#rd"/>
-        <updated>2023-06-03T16:00:00.000Z</updated>
-        <published>2023-06-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2961期】简化密码设计的三个小秘籍]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262962&amp;idx=1&amp;sn=fe95256d8f371373c1a56de670d63688&amp;chksm=bd48d6768a3f5f60811c12de9938920584eb3246962fb24c91638a8c6ca2c6e17227ba0c45ce#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651262962&amp;idx=1&amp;sn=fe95256d8f371373c1a56de670d63688&amp;chksm=bd48d6768a3f5f60811c12de9938920584eb3246962fb24c91638a8c6ca2c6e17227ba0c45ce#rd"/>
         <updated>2023-06-03T16:00:00.000Z</updated>
         <published>2023-06-03T16:00:00.000Z</published>
     </entry>
