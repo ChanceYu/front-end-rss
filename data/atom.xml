@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-10T13:00:42.731Z</updated>
+    <updated>2023-06-11T10:00:38.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[我赌 React 输了（我一点也不后悔）]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511757&amp;idx=1&amp;sn=5051306c835ebe47cd842240144763fc&amp;chksm=eb0796b4dc701fa28e7a4b774780c57e76bbe52e25f1914548b532fa593853fe9f3031538227#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511757&amp;idx=1&amp;sn=5051306c835ebe47cd842240144763fc&amp;chksm=eb0796b4dc701fa28e7a4b774780c57e76bbe52e25f1914548b532fa593853fe9f3031538227#rd"/>
+        <updated>2023-06-09T16:00:00.000Z</updated>
+        <published>2023-06-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何优雅使用 Vue 的 computed 方法呢？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489145&amp;idx=1&amp;sn=cfb9b427a71760318ff52866a9937a34&amp;chksm=ce4603e8f9318afe426af7cf952c1dadb8282c57f7323e5de97171dacf2463e8a553a2270128#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[页面一打开就有30个重复请求，我要怎么优化？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514748&amp;idx=1&amp;sn=f1d03aa17fcbf6227ded89afe46c1289&amp;chksm=f992bcadcee535bb62fc9e6ec85b6ad263dfb0c6001256ecf42401f76e39abd5cc0e30c05dfe#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514748&amp;idx=1&amp;sn=f1d03aa17fcbf6227ded89afe46c1289&amp;chksm=f992bcadcee535bb62fc9e6ec85b6ad263dfb0c6001256ecf42401f76e39abd5cc0e30c05dfe#rd"/>
-        <updated>2023-06-03T16:00:00.000Z</updated>
-        <published>2023-06-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【5年以上前端】Vue 和 React 的区别看这里]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489076&amp;idx=1&amp;sn=3f26fe101d764eff6707aa9c63c8da87&amp;chksm=ce4603a5f9318ab31947ecf4ada5d132d8a3cc9ed9b8fed8a6342299962c3e8ee16127c9c5a8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489076&amp;idx=1&amp;sn=3f26fe101d764eff6707aa9c63c8da87&amp;chksm=ce4603a5f9318ab31947ecf4ada5d132d8a3cc9ed9b8fed8a6342299962c3e8ee16127c9c5a8#rd"/>
         <updated>2023-06-03T16:00:00.000Z</updated>
         <published>2023-06-03T16:00:00.000Z</published>
     </entry>
