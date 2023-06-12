@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-12T15:00:42.699Z</updated>
+    <updated>2023-06-12T22:00:50.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[虚拟滚动的3种实现方式~学完直接写简历亮点上！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514789&amp;idx=1&amp;sn=3ced7d1189292dc2d60d30c513ff2699&amp;chksm=f992bc74cee5356200921acb867eab7c14375fa3d0841f0e6eaf27bab5aa7e7d581de3dc7732#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514789&amp;idx=1&amp;sn=3ced7d1189292dc2d60d30c513ff2699&amp;chksm=f992bc74cee5356200921acb867eab7c14375fa3d0841f0e6eaf27bab5aa7e7d581de3dc7732#rd"/>
+        <updated>2023-06-11T16:00:00.000Z</updated>
+        <published>2023-06-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代移动开发哪家强：原生还是跨平台？JetBrains专家：我选Flutter]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521194&amp;idx=1&amp;sn=29fc88be522beb893edfa3e19e44f224&amp;chksm=f95226e9ce25afff159b3b3b58378fd736a029fb6de8e6777f5078ad5c519f048237b5617570#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521194&amp;idx=1&amp;sn=29fc88be522beb893edfa3e19e44f224&amp;chksm=f95226e9ce25afff159b3b3b58378fd736a029fb6de8e6777f5078ad5c519f048237b5617570#rd"/>
         <updated>2023-06-11T16:00:00.000Z</updated>
         <published>2023-06-11T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端全职岗位依然坚挺，广大同志不必惊慌]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495732&amp;idx=1&amp;sn=5f16f3d1f6eaa3fec6459211d2f078a2&amp;chksm=ce2693c2f9511ad4a788e9e56f35f17d345e7090182bd8783c372132ca4878c5ca9228d22250#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495732&amp;idx=1&amp;sn=5f16f3d1f6eaa3fec6459211d2f078a2&amp;chksm=ce2693c2f9511ad4a788e9e56f35f17d345e7090182bd8783c372132ca4878c5ca9228d22250#rd"/>
-        <updated>2023-06-04T16:00:00.000Z</updated>
-        <published>2023-06-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45K*16薪，进字节了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514757&amp;idx=1&amp;sn=e8d49d173c3116c9b013fff7e95590d2&amp;chksm=f992bc54cee53542566cd9ddc72c2bd8823d0b406550e55c6ee31114c5b041a74ca0d68bb183#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514757&amp;idx=1&amp;sn=e8d49d173c3116c9b013fff7e95590d2&amp;chksm=f992bc54cee53542566cd9ddc72c2bd8823d0b406550e55c6ee31114c5b041a74ca0d68bb183#rd"/>
         <updated>2023-06-04T16:00:00.000Z</updated>
         <published>2023-06-04T16:00:00.000Z</published>
     </entry>
