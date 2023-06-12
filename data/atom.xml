@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-12T04:00:42.338Z</updated>
+    <updated>2023-06-12T07:00:43.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[快速让你的代码变得优雅]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514783&amp;idx=1&amp;sn=4aa884ab4df66afb5b26fa6d871e6f38&amp;chksm=f992bc4ecee53558af61fa3ba1c91fa607580e8ea6e51c36abac0167c2dd4db5e2ce27436e6c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514783&amp;idx=1&amp;sn=4aa884ab4df66afb5b26fa6d871e6f38&amp;chksm=f992bc4ecee53558af61fa3ba1c91fa607580e8ea6e51c36abac0167c2dd4db5e2ce27436e6c#rd"/>
+        <updated>2023-06-10T16:00:00.000Z</updated>
+        <published>2023-06-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一篇文章，让你全面认识微前端！谁说简历没东西写的？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489158&amp;idx=1&amp;sn=b3c5126a18888c33dac2e907b0086d01&amp;chksm=ce460317f9318a012544835b480a183f192603bd5b679c7dd537cc0662018303c75704267d58#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489158&amp;idx=1&amp;sn=b3c5126a18888c33dac2e907b0086d01&amp;chksm=ce460317f9318a012544835b480a183f192603bd5b679c7dd537cc0662018303c75704267d58#rd"/>
         <updated>2023-06-10T16:00:00.000Z</updated>
         <published>2023-06-10T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[十分钟，带你了解 Vue3 的新写法]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614936&amp;idx=1&amp;sn=570d1ca8a5a53380e85ee933f855af7c&amp;chksm=8022b919b755300f8d3907989dcc7429ff96b1c422e09d2fcacb6f89891a453f668e8e551292#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614936&amp;idx=1&amp;sn=570d1ca8a5a53380e85ee933f855af7c&amp;chksm=8022b919b755300f8d3907989dcc7429ff96b1c422e09d2fcacb6f89891a453f668e8e551292#rd"/>
-        <updated>2023-06-04T16:00:00.000Z</updated>
-        <published>2023-06-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我是埋点SDK，看我如何让甲方爸爸的页面卡顿10s+]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614936&amp;idx=2&amp;sn=4ad159afb7ae26314805f4662ed596b1&amp;chksm=8022b919b755300f94c5f036ad6610b2df2516471c8e76ab161b2d2b434b52a583c05cf45b0f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614936&amp;idx=2&amp;sn=4ad159afb7ae26314805f4662ed596b1&amp;chksm=8022b919b755300f94c5f036ad6610b2df2516471c8e76ab161b2d2b434b52a583c05cf45b0f#rd"/>
         <updated>2023-06-04T16:00:00.000Z</updated>
         <published>2023-06-04T16:00:00.000Z</published>
     </entry>
