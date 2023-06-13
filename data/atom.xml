@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-13T13:00:42.964Z</updated>
+    <updated>2023-06-13T22:00:39.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[这几个让代码清新的魔法，让领导追着给我涨薪]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511792&amp;idx=1&amp;sn=a1465be7c36188d308286548d9626e25&amp;chksm=eb079689dc701f9f98882d17e89b5d91ec8387e7b6f9a5d67d587e3f46761c00b5d28f9c8727#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511792&amp;idx=1&amp;sn=a1465be7c36188d308286548d9626e25&amp;chksm=eb079689dc701f9f98882d17e89b5d91ec8387e7b6f9a5d67d587e3f46761c00b5d28f9c8727#rd"/>
+        <updated>2023-06-12T16:00:00.000Z</updated>
+        <published>2023-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一篇文章，让你全面认识微前端！谁说简历没东西写的？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514797&amp;idx=2&amp;sn=57f243545f44f662a4e0700cda45126d&amp;chksm=f992bc7ccee5356a1e618683f93bc48126daaf4d96aedf652357fabd013867be39e389d0c288#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514797&amp;idx=2&amp;sn=57f243545f44f662a4e0700cda45126d&amp;chksm=f992bc7ccee5356a1e618683f93bc48126daaf4d96aedf652357fabd013867be39e389d0c288#rd"/>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514797&amp;idx=1&amp;sn=3f4ef006a2287eebe12ad837d3d15a00&amp;chksm=f992bc7ccee5356ab4e318953d49682bfaab5b562a551b8d02492f7ef62c83433e490aa0894b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514797&amp;idx=1&amp;sn=3f4ef006a2287eebe12ad837d3d15a00&amp;chksm=f992bc7ccee5356ab4e318953d49682bfaab5b562a551b8d02492f7ef62c83433e490aa0894b#rd"/>
+        <updated>2023-06-12T16:00:00.000Z</updated>
+        <published>2023-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489168&amp;idx=1&amp;sn=cc78cc1e81bf189ca5840b9624f09537&amp;chksm=ce460301f9318a178ab002996c7fd7d73cc1039a9c40197c68608f4b331fff1fda564c9dcb6d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489168&amp;idx=1&amp;sn=cc78cc1e81bf189ca5840b9624f09537&amp;chksm=ce460301f9318a178ab002996c7fd7d73cc1039a9c40197c68608f4b331fff1fda564c9dcb6d#rd"/>
         <updated>2023-06-12T16:00:00.000Z</updated>
         <published>2023-06-12T16:00:00.000Z</published>
     </entry>
@@ -62,6 +76,20 @@
         <link href="https://nodeweekly.com/issues/490"/>
         <updated>2023-06-12T16:00:00.000Z</updated>
         <published>2023-06-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这些 Github 项目，藏着 React 最前沿的技术]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511786&amp;idx=1&amp;sn=6d0deec19f578de151db9c18a7d85322&amp;chksm=eb079693dc701f856566bf75af5c6f8150bfe34060640e1cd2a3123cdd2401cabae7c2b350aa#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511786&amp;idx=1&amp;sn=6d0deec19f578de151db9c18a7d85322&amp;chksm=eb079693dc701f856566bf75af5c6f8150bfe34060640e1cd2a3123cdd2401cabae7c2b350aa#rd"/>
+        <updated>2023-06-11T16:00:00.000Z</updated>
+        <published>2023-06-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 86 期：Remix 拥抱 RSC、2023 React 生态系统、从 0 实现 RSC]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498211&amp;idx=1&amp;sn=aa13493f7d24f873db546f184fa4e6ec&amp;chksm=c2b3381cf5c4b10a554383e45ff1bc93619232a6260a796336b69df4fbd3b2fda0f7022377bd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498211&amp;idx=1&amp;sn=aa13493f7d24f873db546f184fa4e6ec&amp;chksm=c2b3381cf5c4b10a554383e45ff1bc93619232a6260a796336b69df4fbd3b2fda0f7022377bd#rd"/>
+        <updated>2023-06-11T16:00:00.000Z</updated>
+        <published>2023-06-11T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[虚拟滚动的3种实现方式~学完直接写简历亮点上！]]></title>
@@ -260,16 +288,16 @@
         <published>2023-06-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[主流前端框架的响应式原理]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=2&amp;sn=44b3ad72ec64cbdc9efb3e0850d023f2&amp;chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=2&amp;sn=44b3ad72ec64cbdc9efb3e0850d023f2&amp;chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd"/>
+        <title type="html"><![CDATA[传到离谱！阿里这波可以。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=1&amp;sn=8d45dc18c1aef57657ec1f28a25d86f8&amp;chksm=c2b33823f5c4b1351b84c9fd6e161f4a2612d08b235cd4e502838987d95eb6847aa631687927#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=1&amp;sn=8d45dc18c1aef57657ec1f28a25d86f8&amp;chksm=c2b33823f5c4b1351b84c9fd6e161f4a2612d08b235cd4e502838987d95eb6847aa631687927#rd"/>
         <updated>2023-06-06T16:00:00.000Z</updated>
         <published>2023-06-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[传到离谱！阿里这波可以。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=1&amp;sn=8d45dc18c1aef57657ec1f28a25d86f8&amp;chksm=c2b33823f5c4b1351b84c9fd6e161f4a2612d08b235cd4e502838987d95eb6847aa631687927#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=1&amp;sn=8d45dc18c1aef57657ec1f28a25d86f8&amp;chksm=c2b33823f5c4b1351b84c9fd6e161f4a2612d08b235cd4e502838987d95eb6847aa631687927#rd"/>
+        <title type="html"><![CDATA[主流前端框架的响应式原理]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=2&amp;sn=44b3ad72ec64cbdc9efb3e0850d023f2&amp;chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498204&amp;idx=2&amp;sn=44b3ad72ec64cbdc9efb3e0850d023f2&amp;chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd"/>
         <updated>2023-06-06T16:00:00.000Z</updated>
         <published>2023-06-06T16:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263027&amp;idx=2&amp;sn=9395c23b4392b35bb7fca28b9d433997&amp;chksm=bd48c9b78a3f40a1a5b37980b9b1be48677ba8db2d1ecacd6af4ee06ec0fcaf56430777fdae0#rd"/>
         <updated>2023-06-06T16:00:00.000Z</updated>
         <published>2023-06-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45K*16薪！准备跳槽的可以参考下]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511707&amp;idx=1&amp;sn=183679e062e0bfd9284ca69a6a3dc02a&amp;chksm=eb0796e2dc701ff4426df9d00cf487d17b394f9afc9cc41abb2f654cfdacb07a9cb5178b9fd2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511707&amp;idx=1&amp;sn=183679e062e0bfd9284ca69a6a3dc02a&amp;chksm=eb0796e2dc701ff4426df9d00cf487d17b394f9afc9cc41abb2f654cfdacb07a9cb5178b9fd2#rd"/>
-        <updated>2023-06-05T16:00:00.000Z</updated>
-        <published>2023-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H5页面秒开优化与实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=1&amp;sn=d98329bd7af554578543dd3fd325c8dc&amp;chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=1&amp;sn=d98329bd7af554578543dd3fd325c8dc&amp;chksm=f992bc5dcee5354bd283427911bac9c47f6a5d4f5d74b91e32094015ac9018690415dc23f605#rd"/>
-        <updated>2023-06-05T16:00:00.000Z</updated>
-        <published>2023-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「记录篇」我是如何一步步为公司搭建react项目脚手架的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=2&amp;sn=b89c53fb9e665655d537dbfd4f86a6ad&amp;chksm=f992bc5dcee5354b55d00a032b58ee3638342ac77c72ec4d522869195a5b59dccff77c3c20fc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514764&amp;idx=2&amp;sn=b89c53fb9e665655d537dbfd4f86a6ad&amp;chksm=f992bc5dcee5354b55d00a032b58ee3638342ac77c72ec4d522869195a5b59dccff77c3c20fc#rd"/>
-        <updated>2023-06-05T16:00:00.000Z</updated>
-        <published>2023-06-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年下半场，前端开发如何提升自身竞争力？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489102&amp;idx=1&amp;sn=fbaef51a82a96e95adcf760d9d21f4b6&amp;chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489102&amp;idx=1&amp;sn=fbaef51a82a96e95adcf760d9d21f4b6&amp;chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd"/>
-        <updated>2023-06-05T16:00:00.000Z</updated>
-        <published>2023-06-05T16:00:00.000Z</published>
     </entry>
 </feed>
