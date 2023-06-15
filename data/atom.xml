@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-15T10:00:42.506Z</updated>
+    <updated>2023-06-15T13:00:54.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,20 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Rspack 0.2 发布: 支持 Vue!]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd"/>
+        <updated>2023-06-14T16:00:00.000Z</updated>
+        <published>2023-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=1&amp;sn=167cc0db5b2d521a33c6f4ea3fcf3d3a&amp;chksm=c2b33814f5c4b102176d525d7108d021aadab950f478d0b979d39a4e33c0ef74e7a5c9c47af1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=1&amp;sn=167cc0db5b2d521a33c6f4ea3fcf3d3a&amp;chksm=c2b33814f5c4b102176d525d7108d021aadab950f478d0b979d39a4e33c0ef74e7a5c9c47af1#rd"/>
+        <updated>2023-06-14T16:00:00.000Z</updated>
+        <published>2023-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何高效编写 prompt]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503578&amp;idx=1&amp;sn=3b66639c4197f3dfd8bbd63b44517d6d&amp;chksm=cea979dbf9def0cd03582bd37b8e8c76bbe09e89ca9eb8a4d5ad8096fa11e0289bc8ce641896#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503578&amp;idx=1&amp;sn=3b66639c4197f3dfd8bbd63b44517d6d&amp;chksm=cea979dbf9def0cd03582bd37b8e8c76bbe09e89ca9eb8a4d5ad8096fa11e0289bc8ce641896#rd"/>
@@ -25,6 +39,13 @@
         <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495799&amp;idx=1&amp;sn=3e8e043b105636abff5d15e3c3853a4f&amp;chksm=ce269381f9511a97e09e234ad8654b9abdb08d3f419a6d5e8f16c4f27dedcb465a212a086915#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495799&amp;idx=1&amp;sn=3e8e043b105636abff5d15e3c3853a4f&amp;chksm=ce269381f9511a97e09e234ad8654b9abdb08d3f419a6d5e8f16c4f27dedcb465a212a086915#rd"/>
+        <updated>2023-06-14T16:00:00.000Z</updated>
+        <published>2023-06-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用前端柯里化，让你的代码更上一层楼！实战带你变强！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489183&amp;idx=1&amp;sn=ea3cd2d3028a943d904e37539dbbad11&amp;chksm=ce46030ef9318a183d379c9e41445337a27efb70051ebedaf2a8905f66a4265f5e119ce2580d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489183&amp;idx=1&amp;sn=ea3cd2d3028a943d904e37539dbbad11&amp;chksm=ce46030ef9318a183d379c9e41445337a27efb70051ebedaf2a8905f66a4265f5e119ce2580d#rd"/>
         <updated>2023-06-14T16:00:00.000Z</updated>
         <published>2023-06-14T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[React 会迎来 Angular 的没落时刻吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511727&amp;idx=1&amp;sn=90c016c15fa30c00274269f3b157bee4&amp;chksm=eb0796d6dc701fc0e8892e0de5aa3311375c317825bee4147df3ac25c5e2d418499cc2541ee4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511727&amp;idx=1&amp;sn=90c016c15fa30c00274269f3b157bee4&amp;chksm=eb0796d6dc701fc0e8892e0de5aa3311375c317825bee4147df3ac25c5e2d418499cc2541ee4#rd"/>
-        <updated>2023-06-07T16:00:00.000Z</updated>
-        <published>2023-06-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前后端免费学，字节跳动青训营-暑假专场报名启动]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503529&amp;idx=1&amp;sn=cea8431ede2eb27a4c60c18dab80ddc1&amp;chksm=cea979a8f9def0be4b9c7324686ad0c5d581f53f4dc79e0918e3fe008e570180060398780a28#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503529&amp;idx=1&amp;sn=cea8431ede2eb27a4c60c18dab80ddc1&amp;chksm=cea979a8f9def0be4b9c7324686ad0c5d581f53f4dc79e0918e3fe008e570180060398780a28#rd"/>
-        <updated>2023-06-07T16:00:00.000Z</updated>
-        <published>2023-06-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完美搭配，微前端与Monorepo的架构设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514776&amp;idx=1&amp;sn=229f8608f5a9407df9ae307231ebc248&amp;chksm=f992bc49cee5355f5195f1aa061f4e7794383c1237564400298c2e7feb638eaff2af4a91f868#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514776&amp;idx=1&amp;sn=229f8608f5a9407df9ae307231ebc248&amp;chksm=f992bc49cee5355f5195f1aa061f4e7794383c1237564400298c2e7feb638eaff2af4a91f868#rd"/>
-        <updated>2023-06-07T16:00:00.000Z</updated>
-        <published>2023-06-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「面经」大专学历，一路挺到阿里三面，最终还是挂了~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489131&amp;idx=1&amp;sn=644b7e090bb45c70cdc0970d71f4af42&amp;chksm=ce4603faf9318aec716390120aadafb756b31bfdbe84f23c22b1fa955d19511502aabbdacb90#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489131&amp;idx=1&amp;sn=644b7e090bb45c70cdc0970d71f4af42&amp;chksm=ce4603faf9318aec716390120aadafb756b31bfdbe84f23c22b1fa955d19511502aabbdacb90#rd"/>
         <updated>2023-06-07T16:00:00.000Z</updated>
         <published>2023-06-07T16:00:00.000Z</published>
     </entry>
