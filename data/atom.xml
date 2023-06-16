@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-16T13:00:46.156Z</updated>
+    <updated>2023-06-16T15:01:36.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[记录一次前端优化首屏时间70%的优化过程~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514832&amp;idx=1&amp;sn=87e297f814f3250beeb1ec1f13ba333a&amp;chksm=f992bc01cee5351784c458fd294138b1b437d2c706d3a8ba0e2335b850e599c4f3bccee7c557#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514832&amp;idx=1&amp;sn=87e297f814f3250beeb1ec1f13ba333a&amp;chksm=f992bc01cee5351784c458fd294138b1b437d2c706d3a8ba0e2335b850e599c4f3bccee7c557#rd"/>
+        <updated>2023-06-15T16:00:00.000Z</updated>
+        <published>2023-06-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7个跳槽必看的Vue实战项目！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489190&amp;idx=1&amp;sn=eb0195967fdc46f3f1008abe1fc5ca76&amp;chksm=ce460337f9318a214fc063bb5a58903c790992ae58c5a406e46897e2943fb296fc94ca68eda2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489190&amp;idx=1&amp;sn=eb0195967fdc46f3f1008abe1fc5ca76&amp;chksm=ce460337f9318a214fc063bb5a58903c790992ae58c5a406e46897e2943fb296fc94ca68eda2#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[快速让你的代码变得优雅]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514783&amp;idx=1&amp;sn=4aa884ab4df66afb5b26fa6d871e6f38&amp;chksm=f992bc4ecee53558af61fa3ba1c91fa607580e8ea6e51c36abac0167c2dd4db5e2ce27436e6c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514783&amp;idx=1&amp;sn=4aa884ab4df66afb5b26fa6d871e6f38&amp;chksm=f992bc4ecee53558af61fa3ba1c91fa607580e8ea6e51c36abac0167c2dd4db5e2ce27436e6c#rd"/>
-        <updated>2023-06-10T16:00:00.000Z</updated>
-        <published>2023-06-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一篇文章，让你全面认识微前端！谁说简历没东西写的？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489158&amp;idx=1&amp;sn=b3c5126a18888c33dac2e907b0086d01&amp;chksm=ce460317f9318a012544835b480a183f192603bd5b679c7dd537cc0662018303c75704267d58#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489158&amp;idx=1&amp;sn=b3c5126a18888c33dac2e907b0086d01&amp;chksm=ce460317f9318a012544835b480a183f192603bd5b679c7dd537cc0662018303c75704267d58#rd"/>
         <updated>2023-06-10T16:00:00.000Z</updated>
         <published>2023-06-10T16:00:00.000Z</published>
     </entry>
