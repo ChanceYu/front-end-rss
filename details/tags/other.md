@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-16 15:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-16 18:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -2625,6 +2625,7 @@
 - [2023-04-13-修复违和感！有意思的粘性气泡-Loading-效果续集](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495476&idx=1&sn=c6962b8d952ffd4d0b5b72f2c37c21b0&chksm=ce268cc2f95105d4196fb4804202a7955799903f0008ef415be984618d3610df63a2488e8113#rd) 
 - [2023-01-15-不负时光，Coco-的-2022-年终总结](https://mp.weixin.qq.com/s/3VLFVxfV2rCgNlJIqo8Wvg) 
 - [2022-12-29-Amazing!如何根据背景色自动切换黑白文字？](https://mp.weixin.qq.com/s/rp4W45Y2Sl3FrQtoRRSTnw) 
+- [2023-06-16-这个夏天-来一场破次元的狂欢！稀土掘金-x-A-SOUL-联名再度来袭！](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503584&idx=1&sn=5edc6bfabc7ffbff0b9ea1cb46206aa1&chksm=cea979e1f9def0f73f306e24d41fe986eacc3a601393d36542c33af1ddacb47d6204c6f35f8b#rd) 
 - [2023-06-15-如何高效编写-prompt](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503578&idx=1&sn=3b66639c4197f3dfd8bbd63b44517d6d&chksm=cea979dbf9def0cd03582bd37b8e8c76bbe09e89ca9eb8a4d5ad8096fa11e0289bc8ce641896#rd) 
 - [2023-06-08-前后端免费学，字节跳动青训营-暑假专场报名启动](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503529&idx=1&sn=cea8431ede2eb27a4c60c18dab80ddc1&chksm=cea979a8f9def0be4b9c7324686ad0c5d581f53f4dc79e0918e3fe008e570180060398780a28#rd) 
 - [2023-05-31-【线上沙龙免费报名】抖音-Android-基础技术大揭秘](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503435&idx=1&sn=689e32179021eaf29b6cf7b4cdb16300&chksm=cea9794af9def05cf6614c9a2a9731ad4895812c627bdcd9fa7dfe8baf107f0026c2aa70244b#rd) 

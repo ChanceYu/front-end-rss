@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-16T07:00:41.923Z</updated>
+    <updated>2023-06-16T10:00:40.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html"/>
+        <updated>2023-06-15T16:00:00.000Z</updated>
+        <published>2023-06-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这个夏天 来一场破次元的狂欢！稀土掘金 x A-SOUL 联名再度来袭！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503584&amp;idx=1&amp;sn=5edc6bfabc7ffbff0b9ea1cb46206aa1&amp;chksm=cea979e1f9def0f73f306e24d41fe986eacc3a601393d36542c33af1ddacb47d6204c6f35f8b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503584&amp;idx=1&amp;sn=5edc6bfabc7ffbff0b9ea1cb46206aa1&amp;chksm=cea979e1f9def0f73f306e24d41fe986eacc3a601393d36542c33af1ddacb47d6204c6f35f8b#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263167&amp;idx=1&amp;sn=e435ab8a60c094f0698fcbe66e7ec950&amp;chksm=bd48c93b8a3f402dfb5cfff9292700232db6c728b74753a220c746da486fd6886f2b49082da6#rd"/>
         <updated>2023-06-09T16:00:00.000Z</updated>
         <published>2023-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 258 期）：卡马克的猫]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html"/>
-        <updated>2023-06-08T16:00:00.000Z</updated>
-        <published>2023-06-08T16:00:00.000Z</published>
     </entry>
 </feed>
