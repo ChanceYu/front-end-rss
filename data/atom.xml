@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-15T22:00:51.577Z</updated>
+    <updated>2023-06-16T02:00:43.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html"/>
+        <updated>2023-06-15T16:00:00.000Z</updated>
+        <published>2023-06-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rspack 0.2 发布: 支持 Vue!]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[偏爱 console.log 的你，肯定会觉得这个插件泰裤辣！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614977&amp;idx=1&amp;sn=ee991f3ec0c51fe4e5e29da97d4c433d&amp;chksm=8022b8c0b75531d6df16a830c59ac9c81592b8f2a576dba3f87ee97b4ecb38ca239850fdf721#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614977&amp;idx=1&amp;sn=ee991f3ec0c51fe4e5e29da97d4c433d&amp;chksm=8022b8c0b75531d6df16a830c59ac9c81592b8f2a576dba3f87ee97b4ecb38ca239850fdf721#rd"/>
-        <updated>2023-06-08T16:00:00.000Z</updated>
-        <published>2023-06-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome启用全新编译器]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614977&amp;idx=2&amp;sn=898b96ad832dfd5d3d8d20c6df30601c&amp;chksm=8022b8c0b75531d6b9ed720da02615e0dab278045ada2b5304040f86013e6b1329ad0d7bc4b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651614977&amp;idx=2&amp;sn=898b96ad832dfd5d3d8d20c6df30601c&amp;chksm=8022b8c0b75531d6b9ed720da02615e0dab278045ada2b5304040f86013e6b1329ad0d7bc4b8#rd"/>
         <updated>2023-06-08T16:00:00.000Z</updated>
         <published>2023-06-08T16:00:00.000Z</published>
     </entry>

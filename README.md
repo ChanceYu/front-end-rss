@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-16 06:00:50，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-16 10:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -72,7 +72,7 @@
 </summary>
 
 
-- [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643) ![](/assets/new.png)  
+- [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
 - [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
@@ -258,8 +258,8 @@
 </summary>
 
 
-- [2023-06-15-1-3年经验的前端怎么去进步，分享一下一位大佬的看法~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514826&idx=1&sn=909ff5732b8009b3bd5416bcc611df4b&chksm=f992bc1bcee5350d18ba4b6e78845bfb1ba6229d5c33e7ec4b61d3f89fb117367b234a17a3ff#rd) ![](/assets/new.png)  
-- [2023-06-15-项目规范：让你的代码更上一层楼](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514826&idx=2&sn=3c5ad7b0362e9ee50bb0de2503d16349&chksm=f992bc1bcee5350d64851775e450858cb6ebddf9ff2e6bf759c6c284a7dcae33f7c49e026705#rd) ![](/assets/new.png)  
+- [2023-06-15-1-3年经验的前端怎么去进步，分享一下一位大佬的看法~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514826&idx=1&sn=909ff5732b8009b3bd5416bcc611df4b&chksm=f992bc1bcee5350d18ba4b6e78845bfb1ba6229d5c33e7ec4b61d3f89fb117367b234a17a3ff#rd)  
+- [2023-06-15-项目规范：让你的代码更上一层楼](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514826&idx=2&sn=3c5ad7b0362e9ee50bb0de2503d16349&chksm=f992bc1bcee5350d64851775e450858cb6ebddf9ff2e6bf759c6c284a7dcae33f7c49e026705#rd)  
 - [2023-06-14-React：我们的用法习惯可能是错误的](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514806&idx=2&sn=7d9c1fe98161998603612fa67b783a78&chksm=f992bc67cee53571dc3b5d0501fa5416e7cfc775626940033805e0f3bee17ae5503b1fdf8d65#rd)  
 - [2023-06-14-远程组件实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514806&idx=1&sn=1871b1753af5ac23e9f280e0f21985ff&chksm=f992bc67cee535718cff70cc387e5e02576d7fa2dc2f011b26ee7e75590deead84bc84ca18cb#rd)  
 - [2023-06-13-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514797&idx=1&sn=3f4ef006a2287eebe12ad837d3d15a00&chksm=f992bc7ccee5356ab4e318953d49682bfaab5b562a551b8d02492f7ef62c83433e490aa0894b#rd)  
@@ -501,6 +501,7 @@
 </summary>
 
 
+- [2023-06-16-科技爱好者周刊（第-259-期）：如何免费使用-ChatGPT](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html) ![](/assets/new.png)  
 - [2023-06-09-科技爱好者周刊（第-258-期）：卡马克的猫](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-258.html)  
 - [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)  
 - [2023-05-26-科技爱好者周刊（第-256-期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)  
@@ -520,7 +521,6 @@
 - [2023-02-24-科技爱好者周刊（第-243-期）：与孔子-AI-聊天](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-243.html)  
 - [2023-02-17-科技爱好者周刊（第-242-期）：一次尴尬的服务器被黑](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-242.html)  
 - [2023-02-10-科技爱好者周刊（第-241-期）：中国的增长动力在内陆](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-241.html)  
-- [2023-02-03-科技爱好者周刊（第-240-期）：教育年限可以缩短吗？](http://www.ruanyifeng.com/blog/2023/02/weekly-issue-240.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
