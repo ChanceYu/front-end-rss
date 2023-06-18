@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-18 12:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-18 15:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,7 +19,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -28,7 +28,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -196,7 +196,7 @@
 </summary>
 
 
-- [2023-06-18-15分钟，带你了解indexedDB，这个前端存储方案很重要！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489212&idx=1&sn=d8e8aedbd3b31eff30036094cb59d3e5&chksm=ce46032df9318a3b9e884d9b560be26b2a7e0ad3879b961eb0bdcb67a030139aec6ad5f0c680#rd) ![](/assets/new.png)  
+- [2023-06-18-15分钟，带你了解indexedDB，这个前端存储方案很重要！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489212&idx=1&sn=d8e8aedbd3b31eff30036094cb59d3e5&chksm=ce46032df9318a3b9e884d9b560be26b2a7e0ad3879b961eb0bdcb67a030139aec6ad5f0c680#rd)  
 - [2023-06-17-实践带你封装一个换肤的Hooks，简历又有亮点了~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489198&idx=1&sn=816b6ae6bd87c451cf4dff62174883b9&chksm=ce46033ff9318a29f005ebf50ea4c756d0b9a26b181a138a0f980a880a502f85ce13b958fef9#rd)  
 - [2023-06-16-7个跳槽必看的Vue实战项目！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489190&idx=1&sn=eb0195967fdc46f3f1008abe1fc5ca76&chksm=ce460337f9318a214fc063bb5a58903c790992ae58c5a406e46897e2943fb296fc94ca68eda2#rd)  
 - [2023-06-15-如何使用前端柯里化，让你的代码更上一层楼！实战带你变强！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489183&idx=1&sn=ea3cd2d3028a943d904e37539dbbad11&chksm=ce46030ef9318a183d379c9e41445337a27efb70051ebedaf2a8905f66a4265f5e119ce2580d#rd)  
@@ -470,6 +470,7 @@
 </summary>
 
 
+- [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/) ![](/assets/new.png)  
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)  
 - [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)  
@@ -477,8 +478,8 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
+- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
@@ -489,7 +490,6 @@
 - [2023-01-17-使用AbortController-abort中断原生fetch或axios请求](https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/)  
 - [2023-01-07-前端原生API实现条形码二维码的JS解析识别](https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/)  
 - [2022-12-28-JS数组的copyWithin语法我看了好几遍才懂](https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/)  
-- [2022-12-18-Tips:-使用CSS逻辑属性简化我们的书写](https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-18T04:00:44.119Z</updated>
+    <updated>2023-06-18T07:00:42.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[我使用CSS模拟个假的数字loading效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/"/>
+        <updated>2023-06-17T16:00:00.000Z</updated>
+        <published>2023-06-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15分钟，带你了解indexedDB，这个前端存储方案很重要！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489212&amp;idx=1&amp;sn=d8e8aedbd3b31eff30036094cb59d3e5&amp;chksm=ce46032df9318a3b9e884d9b560be26b2a7e0ad3879b961eb0bdcb67a030139aec6ad5f0c680#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[虚拟滚动的3种实现方式~学完直接写简历亮点上！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514789&amp;idx=1&amp;sn=3ced7d1189292dc2d60d30c513ff2699&amp;chksm=f992bc74cee5356200921acb867eab7c14375fa3d0841f0e6eaf27bab5aa7e7d581de3dc7732#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514789&amp;idx=1&amp;sn=3ced7d1189292dc2d60d30c513ff2699&amp;chksm=f992bc74cee5356200921acb867eab7c14375fa3d0841f0e6eaf27bab5aa7e7d581de3dc7732#rd"/>
-        <updated>2023-06-11T16:00:00.000Z</updated>
-        <published>2023-06-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代移动开发哪家强：原生还是跨平台？JetBrains专家：我选Flutter]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521194&amp;idx=1&amp;sn=29fc88be522beb893edfa3e19e44f224&amp;chksm=f95226e9ce25afff159b3b3b58378fd736a029fb6de8e6777f5078ad5c519f048237b5617570#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521194&amp;idx=1&amp;sn=29fc88be522beb893edfa3e19e44f224&amp;chksm=f95226e9ce25afff159b3b3b58378fd736a029fb6de8e6777f5078ad5c519f048237b5617570#rd"/>
         <updated>2023-06-11T16:00:00.000Z</updated>
         <published>2023-06-11T16:00:00.000Z</published>
     </entry>
