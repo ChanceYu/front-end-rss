@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-19T07:00:46.070Z</updated>
+    <updated>2023-06-19T10:00:42.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,27 @@
         <title type="html"><![CDATA[面试一个月，心态崩了... ...]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511869&amp;idx=1&amp;sn=7a1251c4c95afe30bbbe5a5174637465&amp;chksm=eb079744dc701e520d9e2e69966f345c4c3220f03ccbd5f4d21519e78983d058652d28b64612#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511869&amp;idx=1&amp;sn=7a1251c4c95afe30bbbe5a5174637465&amp;chksm=eb079744dc701e520d9e2e69966f345c4c3220f03ccbd5f4d21519e78983d058652d28b64612#rd"/>
+        <updated>2023-06-18T16:00:00.000Z</updated>
+        <published>2023-06-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 87 期：2023 Stackoverflow、Bun v0.6.9、Vercel AI SDK、RSC原理]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498228&amp;idx=1&amp;sn=0c685915fddb0678456a5b6e05dae659&amp;chksm=c2b3380bf5c4b11d9048da35de7b6b87dc93ca59088474875ccabc1cabd92efce6e6c111cbaa#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498228&amp;idx=1&amp;sn=0c685915fddb0678456a5b6e05dae659&amp;chksm=c2b3380bf5c4b11d9048da35de7b6b87dc93ca59088474875ccabc1cabd92efce6e6c111cbaa#rd"/>
+        <updated>2023-06-18T16:00:00.000Z</updated>
+        <published>2023-06-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精读《自由 + 磁贴混合布局》]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487087&amp;idx=1&amp;sn=51ca988ba4a50d1fe544c64d8e1b9b55&amp;chksm=fc8628a5cbf1a1b367aa0dd46ad806303fb35f59c604e92855d4068494c9f94aa3e876d59c38#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487087&amp;idx=1&amp;sn=51ca988ba4a50d1fe544c64d8e1b9b55&amp;chksm=fc8628a5cbf1a1b367aa0dd46ad806303fb35f59c604e92855d4068494c9f94aa3e876d59c38#rd"/>
+        <updated>2023-06-18T16:00:00.000Z</updated>
+        <published>2023-06-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请做好一年内随时失业的准备！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489217&amp;idx=1&amp;sn=88638a201a3ae4f89ee683812d015b3e&amp;chksm=ce460350f9318a46632bc4db87d5ea9ccdbc3124405e991650a2bde4c7d7035a06d329480839#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489217&amp;idx=1&amp;sn=88638a201a3ae4f89ee683812d015b3e&amp;chksm=ce460350f9318a46632bc4db87d5ea9ccdbc3124405e991650a2bde4c7d7035a06d329480839#rd"/>
         <updated>2023-06-18T16:00:00.000Z</updated>
         <published>2023-06-18T16:00:00.000Z</published>
     </entry>
@@ -155,16 +176,16 @@
         <published>2023-06-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rspack 0.2 发布: 支持 Vue!]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd"/>
+        <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=1&amp;sn=167cc0db5b2d521a33c6f4ea3fcf3d3a&amp;chksm=c2b33814f5c4b102176d525d7108d021aadab950f478d0b979d39a4e33c0ef74e7a5c9c47af1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=1&amp;sn=167cc0db5b2d521a33c6f4ea3fcf3d3a&amp;chksm=c2b33814f5c4b102176d525d7108d021aadab950f478d0b979d39a4e33c0ef74e7a5c9c47af1#rd"/>
         <updated>2023-06-14T16:00:00.000Z</updated>
         <published>2023-06-14T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=1&amp;sn=167cc0db5b2d521a33c6f4ea3fcf3d3a&amp;chksm=c2b33814f5c4b102176d525d7108d021aadab950f478d0b979d39a4e33c0ef74e7a5c9c47af1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=1&amp;sn=167cc0db5b2d521a33c6f4ea3fcf3d3a&amp;chksm=c2b33814f5c4b102176d525d7108d021aadab950f478d0b979d39a4e33c0ef74e7a5c9c47af1#rd"/>
+        <title type="html"><![CDATA[Rspack 0.2 发布: 支持 Vue!]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498219&amp;idx=2&amp;sn=98c1a262b33561ca22932df55d8697d9&amp;chksm=c2b33814f5c4b102e9d2a915c5316d3369e06ecfb27ca6e8481b7afdc57ef7a5b53583355c20#rd"/>
         <updated>2023-06-14T16:00:00.000Z</updated>
         <published>2023-06-14T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[面了一个阿里出来的大佬，见识到了基础天花板！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615034&amp;idx=1&amp;sn=4f70dc3e80e451fafd79f49b6ec994e4&amp;chksm=8022b8fbb75531ed80cf49f96f37b178685cd1a62f1194bc2cb6bb7ec8bbf54e209179c537f9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615034&amp;idx=1&amp;sn=4f70dc3e80e451fafd79f49b6ec994e4&amp;chksm=8022b8fbb75531ed80cf49f96f37b178685cd1a62f1194bc2cb6bb7ec8bbf54e209179c537f9#rd"/>
-        <updated>2023-06-12T16:00:00.000Z</updated>
-        <published>2023-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2970期】漫画前端的前世今生]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263213&amp;idx=2&amp;sn=980304ebfbd8b424d1ff8dc4f64c29bf&amp;chksm=bd48c9698a3f407f026a132ff29711ef27e1e71de914e84ef94d6309a93d81c3893dd5a24395#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263213&amp;idx=2&amp;sn=980304ebfbd8b424d1ff8dc4f64c29bf&amp;chksm=bd48c9698a3f407f026a132ff29711ef27e1e71de914e84ef94d6309a93d81c3893dd5a24395#rd"/>
-        <updated>2023-06-12T16:00:00.000Z</updated>
-        <published>2023-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文末有赠票福利｜最热的AIGC与大模型专场议程出炉，稀土开发者大会线下嗨聊 AIGC两整天]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263213&amp;idx=1&amp;sn=7b82a319b9a330aa606a051cf26c2109&amp;chksm=bd48c9698a3f407fe6049b788ce713a2a442eb108d5f57c0c71e825e24d1272ab25e8f3d087f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263213&amp;idx=1&amp;sn=7b82a319b9a330aa606a051cf26c2109&amp;chksm=bd48c9698a3f407fe6049b788ce713a2a442eb108d5f57c0c71e825e24d1272ab25e8f3d087f#rd"/>
-        <updated>2023-06-12T16:00:00.000Z</updated>
-        <published>2023-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's get debugging]]></title>
-        <id>https://nodeweekly.com/issues/490</id>
-        <link href="https://nodeweekly.com/issues/490"/>
         <updated>2023-06-12T16:00:00.000Z</updated>
         <published>2023-06-12T16:00:00.000Z</published>
     </entry>
