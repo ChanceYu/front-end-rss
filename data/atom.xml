@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-19T13:00:45.020Z</updated>
+    <updated>2023-06-19T22:00:55.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -43,6 +43,13 @@
         <published>2023-06-18T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[我的《CSS 技术揭秘与实战通关》上线了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495854&amp;idx=1&amp;sn=0934f355eb62865561981ed8f7b03b11&amp;chksm=ce269358f9511a4ee4f40b4518669fc53f8b4e3911ab4c99f253699ab83aadf28db6ce383b3c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495854&amp;idx=1&amp;sn=0934f355eb62865561981ed8f7b03b11&amp;chksm=ce269358f9511a4ee4f40b4518669fc53f8b4e3911ab4c99f253699ab83aadf28db6ce383b3c#rd"/>
+        <updated>2023-06-18T16:00:00.000Z</updated>
+        <published>2023-06-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[写一个Vue DevTools，让开发体验飞一会]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514838&amp;idx=2&amp;sn=e66e0082b1e259abd4fb32f66d49c257&amp;chksm=f992bc07cee53511166c3e2d639f8b25b5bfed8e064661309eed6685ae108180cd03aa9e5af1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514838&amp;idx=2&amp;sn=e66e0082b1e259abd4fb32f66d49c257&amp;chksm=f992bc07cee53511166c3e2d639f8b25b5bfed8e064661309eed6685ae108180cd03aa9e5af1#rd"/>
@@ -60,6 +67,13 @@
         <title type="html"><![CDATA[请做好一年内随时失业的准备！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489217&amp;idx=1&amp;sn=88638a201a3ae4f89ee683812d015b3e&amp;chksm=ce460350f9318a46632bc4db87d5ea9ccdbc3124405e991650a2bde4c7d7035a06d329480839#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489217&amp;idx=1&amp;sn=88638a201a3ae4f89ee683812d015b3e&amp;chksm=ce460350f9318a46632bc4db87d5ea9ccdbc3124405e991650a2bde4c7d7035a06d329480839#rd"/>
+        <updated>2023-06-18T16:00:00.000Z</updated>
+        <published>2023-06-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangChain：2023年最潮大语言模型Web开发框架]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521255&amp;idx=1&amp;sn=8e8d86e1534438985ea210fd2eee6e52&amp;chksm=f95226a4ce25afb223d2ece4e93d082eb5aa96feceb833534b6e03c328f394fbf01f575591c5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521255&amp;idx=1&amp;sn=8e8d86e1534438985ea210fd2eee6e52&amp;chksm=f95226a4ce25afb223d2ece4e93d082eb5aa96feceb833534b6e03c328f394fbf01f575591c5#rd"/>
         <updated>2023-06-18T16:00:00.000Z</updated>
         <published>2023-06-18T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263239&amp;idx=2&amp;sn=bcdbb712a0914a5d19a3bf0cb1113cf1&amp;chksm=bd48c8838a3f4195ef2a83706c5b4ec24223bff08649e06992134c2958c97895ccf0f1f341ff#rd"/>
         <updated>2023-06-13T16:00:00.000Z</updated>
         <published>2023-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这几个让代码清新的魔法，让领导追着给我涨薪]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511792&amp;idx=1&amp;sn=a1465be7c36188d308286548d9626e25&amp;chksm=eb079689dc701f9f98882d17e89b5d91ec8387e7b6f9a5d67d587e3f46761c00b5d28f9c8727#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511792&amp;idx=1&amp;sn=a1465be7c36188d308286548d9626e25&amp;chksm=eb079689dc701f9f98882d17e89b5d91ec8387e7b6f9a5d67d587e3f46761c00b5d28f9c8727#rd"/>
-        <updated>2023-06-12T16:00:00.000Z</updated>
-        <published>2023-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一篇文章，让你全面认识微前端！谁说简历没东西写的？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514797&amp;idx=2&amp;sn=57f243545f44f662a4e0700cda45126d&amp;chksm=f992bc7ccee5356a1e618683f93bc48126daaf4d96aedf652357fabd013867be39e389d0c288#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514797&amp;idx=2&amp;sn=57f243545f44f662a4e0700cda45126d&amp;chksm=f992bc7ccee5356a1e618683f93bc48126daaf4d96aedf652357fabd013867be39e389d0c288#rd"/>
-        <updated>2023-06-12T16:00:00.000Z</updated>
-        <published>2023-06-12T16:00:00.000Z</published>
     </entry>
 </feed>
