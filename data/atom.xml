@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-20T10:00:43.349Z</updated>
+    <updated>2023-06-20T13:00:44.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2023-06-19T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[6月，前端市场复苏了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489223&amp;idx=1&amp;sn=025c38881a1a4966d154310668643815&amp;chksm=ce460356f9318a4050eecef41f6bc89cb8277f2f30ab719cd5a1f7b66ac5ecbc4c43317a191c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489223&amp;idx=1&amp;sn=025c38881a1a4966d154310668643815&amp;chksm=ce460356f9318a4050eecef41f6bc89cb8277f2f30ab719cd5a1f7b66ac5ecbc4c43317a191c#rd"/>
+        <updated>2023-06-19T16:00:00.000Z</updated>
+        <published>2023-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第2977期】前端项目构建时的资源监控与分析]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263410&amp;idx=2&amp;sn=06a44ce03bb46d4a62c265962a29b788&amp;chksm=bd48c8368a3f4120a2552dca08bcbd71ad3995094f2e080add2953a5615643fb7cca57c65639#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263410&amp;idx=2&amp;sn=06a44ce03bb46d4a62c265962a29b788&amp;chksm=bd48c8368a3f4120a2552dca08bcbd71ad3995094f2e080add2953a5615643fb7cca57c65639#rd"/>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[全日程发布！60位技术嘉宾，前沿技术分享尽在2023稀土开发者大会现场]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263410&amp;idx=1&amp;sn=5bb1956cc92e3bac8abf5623b5e5f46c&amp;chksm=bd48c8368a3f41209401ffd4fca20bc1ef34d8d67cf012df779af4746a8abee0526ef71f0e35#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263410&amp;idx=1&amp;sn=5bb1956cc92e3bac8abf5623b5e5f46c&amp;chksm=bd48c8368a3f41209401ffd4fca20bc1ef34d8d67cf012df779af4746a8abee0526ef71f0e35#rd"/>
+        <updated>2023-06-19T16:00:00.000Z</updated>
+        <published>2023-06-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting under Node's skin]]></title>
+        <id>https://nodeweekly.com/issues/491</id>
+        <link href="https://nodeweekly.com/issues/491"/>
         <updated>2023-06-19T16:00:00.000Z</updated>
         <published>2023-06-19T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[2023前端开发岗现状]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489172&amp;idx=1&amp;sn=022513ad3909767d0f286a37fbe17cd8&amp;chksm=ce460305f9318a13cc7bc1dd7a6ff9cb2cb735e8c4f7cd6082934694368ccc0ee4d5622fa7dd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489172&amp;idx=1&amp;sn=022513ad3909767d0f286a37fbe17cd8&amp;chksm=ce460305f9318a13cc7bc1dd7a6ff9cb2cb735e8c4f7cd6082934694368ccc0ee4d5622fa7dd#rd"/>
-        <updated>2023-06-13T16:00:00.000Z</updated>
-        <published>2023-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单聊聊配合dialog使用popover的问题]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521216&amp;idx=1&amp;sn=fe7b45bac35734a0f306b141f82df39d&amp;chksm=f9522683ce25af95885bd14d917d1a1c4aa097d06f134dcedea58d8e1bed2251ee41a98fa75f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521216&amp;idx=1&amp;sn=fe7b45bac35734a0f306b141f82df39d&amp;chksm=f9522683ce25af95885bd14d917d1a1c4aa097d06f134dcedea58d8e1bed2251ee41a98fa75f#rd"/>
-        <updated>2023-06-13T16:00:00.000Z</updated>
-        <published>2023-06-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能把队友气死的 8 种屎山代码 (React版)]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615139&amp;idx=2&amp;sn=2fccb2ebcffd595d75c205c398b10b25&amp;chksm=8022b862b7553174322771211f0a8d5afbf135f8f718da14d38de1011ed9ca95505d48261a5e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615139&amp;idx=2&amp;sn=2fccb2ebcffd595d75c205c398b10b25&amp;chksm=8022b862b7553174322771211f0a8d5afbf135f8f718da14d38de1011ed9ca95505d48261a5e#rd"/>
         <updated>2023-06-13T16:00:00.000Z</updated>
         <published>2023-06-13T16:00:00.000Z</published>
     </entry>
