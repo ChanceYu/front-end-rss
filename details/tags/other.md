@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-21 21:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-21 23:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -2619,6 +2619,7 @@
 - [2022-01-06-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=1&sn=b3db5be1293d1993291c5bcc1d2f61f9&chksm=f992cc88cee5459e11a628626405c8928558a03726430846e2b30d6853068061dfb1be22586e#rd) 
 - [2022-01-05-那些在家啃书自学的人，最后都找到工作了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=1&sn=b09a789d370bd1d2a09e519a521815e3&chksm=f992cc9bcee5458d391afaa1116a78e22b8190fb2e017841eee0c014fc35679933b629c09710#rd) 
 - [2022-01-04-老板：你来弄一个团队代码规范！？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=1&sn=b7aef3e6628812f2f38d86406edf231d&chksm=f992ccedcee545fbd78ed7d07689ceb3217f4f8712c224018e427998d5af3d9f0ac24c3222df#rd) 
+- [2023-06-21-放心，前端不会死](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495922&idx=1&sn=97e4b38a9f838225117d7a3ef4c5b48c&chksm=ce269304f9511a12939255920e5ea671bf0e7c71fa2e332f37772bb74c70997322aa0b63df20#rd) 
 - [2023-06-05-前端全职岗位依然坚挺，广大同志不必惊慌](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495732&idx=1&sn=5f16f3d1f6eaa3fec6459211d2f078a2&chksm=ce2693c2f9511ad4a788e9e56f35f17d345e7090182bd8783c372132ca4878c5ca9228d22250#rd) 
 - [2023-06-01-有意思！原生的-popover-它来了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495720&idx=1&sn=886e4ff7d1c43dc539b7d4f8fe87e180&chksm=ce2693def9511ac852fdf309575bef96aee7eebdc0d45c7c595f95ff4ab63beb8531a876abfa#rd) 
 - [2023-05-25-前端45K面经，堪称涨薪天花板~](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495713&idx=1&sn=2a5fef6489a80014710ab284adeac731&chksm=ce2693d7f9511ac1aaf3b904a3697493ee00ec60e46c71ade67d748e7d1032a158a1be625260#rd) 

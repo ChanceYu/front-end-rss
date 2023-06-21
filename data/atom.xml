@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-21T13:00:42.876Z</updated>
+    <updated>2023-06-21T15:00:51.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[放心，前端不会死]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495922&amp;idx=1&amp;sn=97e4b38a9f838225117d7a3ef4c5b48c&amp;chksm=ce269304f9511a12939255920e5ea671bf0e7c71fa2e332f37772bb74c70997322aa0b63df20#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495922&amp;idx=1&amp;sn=97e4b38a9f838225117d7a3ef4c5b48c&amp;chksm=ce269304f9511a12939255920e5ea671bf0e7c71fa2e332f37772bb74c70997322aa0b63df20#rd"/>
+        <updated>2023-06-20T16:00:00.000Z</updated>
+        <published>2023-06-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React：我们的用法习惯可能是错误的]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514852&amp;idx=2&amp;sn=8ff3b65e78af6bd8b4e0737ae1ae52ab&amp;chksm=f992bc35cee53523fe0da1c01a6cf67859c45737b7551946f0bb557762c3c6840d3f6581d4cc#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3已成气候（超强）！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495799&amp;idx=1&amp;sn=3e8e043b105636abff5d15e3c3853a4f&amp;chksm=ce269381f9511a97e09e234ad8654b9abdb08d3f419a6d5e8f16c4f27dedcb465a212a086915#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495799&amp;idx=1&amp;sn=3e8e043b105636abff5d15e3c3853a4f&amp;chksm=ce269381f9511a97e09e234ad8654b9abdb08d3f419a6d5e8f16c4f27dedcb465a212a086915#rd"/>
-        <updated>2023-06-14T16:00:00.000Z</updated>
-        <published>2023-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[项目规范：让你的代码更上一层楼]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514826&amp;idx=2&amp;sn=3c5ad7b0362e9ee50bb0de2503d16349&amp;chksm=f992bc1bcee5350d64851775e450858cb6ebddf9ff2e6bf759c6c284a7dcae33f7c49e026705#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514826&amp;idx=2&amp;sn=3c5ad7b0362e9ee50bb0de2503d16349&amp;chksm=f992bc1bcee5350d64851775e450858cb6ebddf9ff2e6bf759c6c284a7dcae33f7c49e026705#rd"/>
         <updated>2023-06-14T16:00:00.000Z</updated>
         <published>2023-06-14T16:00:00.000Z</published>
     </entry>
