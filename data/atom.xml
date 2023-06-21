@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-21T10:01:07.121Z</updated>
+    <updated>2023-06-21T13:00:42.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[可视化大屏自适应：autofit.js 一行搞定布局]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514852&amp;idx=1&amp;sn=387d2b8bfa8a9ca2a028c25c528e4bdc&amp;chksm=f992bc35cee535232cdfe5e09c4b18f0bf236b8948339c02159c2bd5e618411d6664c6bf3fa0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514852&amp;idx=1&amp;sn=387d2b8bfa8a9ca2a028c25c528e4bdc&amp;chksm=f992bc35cee535232cdfe5e09c4b18f0bf236b8948339c02159c2bd5e618411d6664c6bf3fa0#rd"/>
+        <updated>2023-06-20T16:00:00.000Z</updated>
+        <published>2023-06-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js + Rust 革新全栈开发，Rust没那么难]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521256&amp;idx=1&amp;sn=b85f93527f3f1854c6eff1bc4bd09360&amp;chksm=f95226abce25afbdacafd83363e5e49bc3257bf8bcfc349f0dc5c9aa406d0b9616d638dc582c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521256&amp;idx=1&amp;sn=b85f93527f3f1854c6eff1bc4bd09360&amp;chksm=f95226abce25afbdacafd83363e5e49bc3257bf8bcfc349f0dc5c9aa406d0b9616d638dc582c#rd"/>
         <updated>2023-06-20T16:00:00.000Z</updated>
         <published>2023-06-20T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[项目规范：让你的代码更上一层楼]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514826&amp;idx=2&amp;sn=3c5ad7b0362e9ee50bb0de2503d16349&amp;chksm=f992bc1bcee5350d64851775e450858cb6ebddf9ff2e6bf759c6c284a7dcae33f7c49e026705#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514826&amp;idx=2&amp;sn=3c5ad7b0362e9ee50bb0de2503d16349&amp;chksm=f992bc1bcee5350d64851775e450858cb6ebddf9ff2e6bf759c6c284a7dcae33f7c49e026705#rd"/>
-        <updated>2023-06-14T16:00:00.000Z</updated>
-        <published>2023-06-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1-3年经验的前端怎么去进步，分享一下一位大佬的看法~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514826&amp;idx=1&amp;sn=909ff5732b8009b3bd5416bcc611df4b&amp;chksm=f992bc1bcee5350d18ba4b6e78845bfb1ba6229d5c33e7ec4b61d3f89fb117367b234a17a3ff#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514826&amp;idx=1&amp;sn=909ff5732b8009b3bd5416bcc611df4b&amp;chksm=f992bc1bcee5350d18ba4b6e78845bfb1ba6229d5c33e7ec4b61d3f89fb117367b234a17a3ff#rd"/>
         <updated>2023-06-14T16:00:00.000Z</updated>
         <published>2023-06-14T16:00:00.000Z</published>
     </entry>
