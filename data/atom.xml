@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-22T07:01:01.848Z</updated>
+    <updated>2023-06-22T22:00:42.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Vue的屎山代码大盘点，看有没有你的代码~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489235&amp;idx=1&amp;sn=cbe84176c270d908c0b9c16db5fd0042&amp;chksm=ce460342f9318a54486f714404d8e8d3c802a6aa45c1bc43e37ff9d122ce1d9c1bfc30884caf#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489235&amp;idx=1&amp;sn=cbe84176c270d908c0b9c16db5fd0042&amp;chksm=ce460342f9318a54486f714404d8e8d3c802a6aa45c1bc43e37ff9d122ce1d9c1bfc30884caf#rd"/>
+        <updated>2023-06-21T16:00:00.000Z</updated>
+        <published>2023-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 4 released]]></title>
+        <id>https://javascriptweekly.com/issues/644</id>
+        <link href="https://javascriptweekly.com/issues/644"/>
         <updated>2023-06-21T16:00:00.000Z</updated>
         <published>2023-06-21T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第2973期】携程Web组件在跨端场景的实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263361&amp;idx=1&amp;sn=08d45fd73bcebd6b6d4bd410c9f1438f&amp;chksm=bd48c8058a3f4113539f3281626293514bd5014074db05d43ec380fd720febd55a58167a4d5a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263361&amp;idx=1&amp;sn=08d45fd73bcebd6b6d4bd410c9f1438f&amp;chksm=bd48c8058a3f4113539f3281626293514bd5014074db05d43ec380fd720febd55a58167a4d5a#rd"/>
-        <updated>2023-06-15T16:00:00.000Z</updated>
-        <published>2023-06-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】设计优雅降级]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263361&amp;idx=2&amp;sn=fdb506e7aae61701307ad7563ffc6d17&amp;chksm=bd48c8058a3f4113c78c224648131685a1a1889d720fc0036fcb4540f12d8f8799cac16950ff#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263361&amp;idx=2&amp;sn=fdb506e7aae61701307ad7563ffc6d17&amp;chksm=bd48c8058a3f4113c78c224648131685a1a1889d720fc0036fcb4540f12d8f8799cac16950ff#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
     </entry>

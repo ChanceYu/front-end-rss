@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-22 15:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-23 06:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -21,6 +21,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) 
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641) 
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639) 
 - [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635) 

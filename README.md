@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-22 15:01:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-23 06:00:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644) ![](/assets/new.png)  
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
 - [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
@@ -91,7 +92,6 @@
 - [2023-02-24-ECMAScript-2023-for-President](https://javascriptweekly.com/issues/627)  
 - [2023-02-17-JavaScript-sans-build-systems?](https://javascriptweekly.com/issues/626)  
 - [2023-02-10-Bringing-JavaScript-to-WebAssembly](https://javascriptweekly.com/issues/625)  
-- [2023-02-03-Ways-to-remove-event-listeners](https://javascriptweekly.com/issues/624)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -196,7 +196,7 @@
 </summary>
 
 
-- [2023-06-22-Vue的屎山代码大盘点，看有没有你的代码~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489235&idx=1&sn=cbe84176c270d908c0b9c16db5fd0042&chksm=ce460342f9318a54486f714404d8e8d3c802a6aa45c1bc43e37ff9d122ce1d9c1bfc30884caf#rd) ![](/assets/new.png)  
+- [2023-06-22-Vue的屎山代码大盘点，看有没有你的代码~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489235&idx=1&sn=cbe84176c270d908c0b9c16db5fd0042&chksm=ce460342f9318a54486f714404d8e8d3c802a6aa45c1bc43e37ff9d122ce1d9c1bfc30884caf#rd)  
 - [2023-06-21-被裁3个月，昨天刚上岸......](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489227&idx=1&sn=2b9dd0fc99bdd4afb05b909683410dc2&chksm=ce46035af9318a4c2da38a4679e9ad618143155c7d553211253120c422fecf0b5f683d20ede7#rd)  
 - [2023-06-20-6月，前端市场复苏了！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489223&idx=1&sn=025c38881a1a4966d154310668643815&chksm=ce460356f9318a4050eecef41f6bc89cb8277f2f30ab719cd5a1f7b66ac5ecbc4c43317a191c#rd)  
 - [2023-06-19-请做好一年内随时失业的准备！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489217&idx=1&sn=88638a201a3ae4f89ee683812d015b3e&chksm=ce460350f9318a46632bc4db87d5ea9ccdbc3124405e991650a2bde4c7d7035a06d329480839#rd)  
