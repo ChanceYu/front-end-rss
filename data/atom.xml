@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-22T04:00:40.396Z</updated>
+    <updated>2023-06-22T07:01:01.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[小朋友，你会在 forEach 里跳出循环吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511940&amp;idx=1&amp;sn=9f76db4b6cb30179ea8c347418013f06&amp;chksm=eb0797fddc701eeb4d63577b2bb5f0e190c0ec3d9595d56dc7e1cbac2615e66568a6459d23ab#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511940&amp;idx=1&amp;sn=9f76db4b6cb30179ea8c347418013f06&amp;chksm=eb0797fddc701eeb4d63577b2bb5f0e190c0ec3d9595d56dc7e1cbac2615e66568a6459d23ab#rd"/>
+        <updated>2023-06-21T16:00:00.000Z</updated>
+        <published>2023-06-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue的屎山代码大盘点，看有没有你的代码~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489235&amp;idx=1&amp;sn=cbe84176c270d908c0b9c16db5fd0042&amp;chksm=ce460342f9318a54486f714404d8e8d3c802a6aa45c1bc43e37ff9d122ce1d9c1bfc30884caf#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489235&amp;idx=1&amp;sn=cbe84176c270d908c0b9c16db5fd0042&amp;chksm=ce460342f9318a54486f714404d8e8d3c802a6aa45c1bc43e37ff9d122ce1d9c1bfc30884caf#rd"/>
         <updated>2023-06-21T16:00:00.000Z</updated>
         <published>2023-06-21T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263361&amp;idx=2&amp;sn=fdb506e7aae61701307ad7563ffc6d17&amp;chksm=bd48c8058a3f4113c78c224648131685a1a1889d720fc0036fcb4540f12d8f8799cac16950ff#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端的车轮滚滚向前，轮子造的越来越圆，最新前端趋势播报！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511825&amp;idx=1&amp;sn=60c620d98fd53c2ed38a0828116d492a&amp;chksm=eb079768dc701e7e302ea2b632ed459b26c70559820a2c4055ff43fb0e407cb93ed74c15dc0b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511825&amp;idx=1&amp;sn=60c620d98fd53c2ed38a0828116d492a&amp;chksm=eb079768dc701e7e302ea2b632ed459b26c70559820a2c4055ff43fb0e407cb93ed74c15dc0b#rd"/>
-        <updated>2023-06-14T16:00:00.000Z</updated>
-        <published>2023-06-14T16:00:00.000Z</published>
     </entry>
 </feed>
