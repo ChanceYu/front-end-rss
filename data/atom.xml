@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-23T07:00:45.581Z</updated>
+    <updated>2023-06-23T13:00:43.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[企业级 React API 调用架构设计]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511946&amp;idx=1&amp;sn=f88c1599d8aee71b7f1b5c5aeb92383b&amp;chksm=eb0797f3dc701ee5e066e67a103599625841eb0c3692840c4faca25969394c6ba3301121f319#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511946&amp;idx=1&amp;sn=f88c1599d8aee71b7f1b5c5aeb92383b&amp;chksm=eb0797f3dc701ee5e066e67a103599625841eb0c3692840c4faca25969394c6ba3301121f319#rd"/>
+        <updated>2023-06-22T16:00:00.000Z</updated>
+        <published>2023-06-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端性能优化，我会从这几个角度去回答你！超级详细！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489243&amp;idx=1&amp;sn=a3e341f1bb41e35ecf1da8b6b56ecdc6&amp;chksm=ce46034af9318a5cb2dd1ff07f8e3c7749327b7dea99013482187f9a894ae5c511e2b4065a70#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489243&amp;idx=1&amp;sn=a3e341f1bb41e35ecf1da8b6b56ecdc6&amp;chksm=ce46034af9318a5cb2dd1ff07f8e3c7749327b7dea99013482187f9a894ae5c511e2b4065a70#rd"/>
         <updated>2023-06-22T16:00:00.000Z</updated>
         <published>2023-06-22T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【你不知道的promise】设计一个支持并发的前端接口缓存]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615145&amp;idx=2&amp;sn=1140b40b61817da7837e65356098d241&amp;chksm=8022b868b755317ef270bf18cae0082f1628202842fc893afcaadb1893679badccb212790725#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615145&amp;idx=2&amp;sn=1140b40b61817da7837e65356098d241&amp;chksm=8022b868b755317ef270bf18cae0082f1628202842fc893afcaadb1893679badccb212790725#rd"/>
-        <updated>2023-06-15T16:00:00.000Z</updated>
-        <published>2023-06-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月，前端岗位爆了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615145&amp;idx=1&amp;sn=25c9190d430e4d314e3496189c35bd4e&amp;chksm=8022b868b755317e9b6818bf1a8ff333cc8558ca604bd5f12a2693e9dc26de31351e1aa70118#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615145&amp;idx=1&amp;sn=25c9190d430e4d314e3496189c35bd4e&amp;chksm=8022b868b755317e9b6818bf1a8ff333cc8558ca604bd5f12a2693e9dc26de31351e1aa70118#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
     </entry>
