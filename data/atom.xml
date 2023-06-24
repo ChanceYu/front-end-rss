@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-24T04:01:55.708Z</updated>
+    <updated>2023-06-24T10:00:45.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[:has 语法，终于可以用了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511947&amp;idx=1&amp;sn=3b8ba8f64aac86b0f8f75230914f8849&amp;chksm=eb0797f2dc701ee41741dde8e63aba4ceba711b817266f0347fb66c2b28eaa005e4408362af1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511947&amp;idx=1&amp;sn=3b8ba8f64aac86b0f8f75230914f8849&amp;chksm=eb0797f2dc701ee41741dde8e63aba4ceba711b817266f0347fb66c2b28eaa005e4408362af1#rd"/>
+        <updated>2023-06-23T16:00:00.000Z</updated>
+        <published>2023-06-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过一个 BUG 提醒大家，不要过度依赖 Foreach ！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489244&amp;idx=1&amp;sn=901600b6db4b3faf4d6b753f8e5b0c40&amp;chksm=ce46034df9318a5bdafcafeb7eb0e316a12f826c5e3d78458a6239e498328ff06b9ad886de38#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489244&amp;idx=1&amp;sn=901600b6db4b3faf4d6b753f8e5b0c40&amp;chksm=ce46034df9318a5bdafcafeb7eb0e316a12f826c5e3d78458a6239e498328ff06b9ad886de38#rd"/>
         <updated>2023-06-23T16:00:00.000Z</updated>
         <published>2023-06-23T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[7个跳槽必看的Vue实战项目！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489190&amp;idx=1&amp;sn=eb0195967fdc46f3f1008abe1fc5ca76&amp;chksm=ce460337f9318a214fc063bb5a58903c790992ae58c5a406e46897e2943fb296fc94ca68eda2#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489190&amp;idx=1&amp;sn=eb0195967fdc46f3f1008abe1fc5ca76&amp;chksm=ce460337f9318a214fc063bb5a58903c790992ae58c5a406e46897e2943fb296fc94ca68eda2#rd"/>
-        <updated>2023-06-15T16:00:00.000Z</updated>
-        <published>2023-06-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Next.js全栈应用程序中无缝实现身份验证]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521238&amp;idx=1&amp;sn=ff3ef21e67c72597546c14bdc56da7ab&amp;chksm=f9522695ce25af839c3afede64da98ad359b0f9f39c0678ac9b5aabed6660cb36de06f7c1fc8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521238&amp;idx=1&amp;sn=ff3ef21e67c72597546c14bdc56da7ab&amp;chksm=f9522695ce25af839c3afede64da98ad359b0f9f39c0678ac9b5aabed6660cb36de06f7c1fc8#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
     </entry>
