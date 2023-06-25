@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-06-25 08:00:39。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-06-25 10:00:39。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -407,6 +407,7 @@
 - [【前端之巅】为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect)
 - [【前端之巅】容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect)
 - [【前端之巅】HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd)
+- [【前端之神】你真的会用<a>标签下载文件吗?](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489250&idx=1&sn=3d2430313abc7e5cf2784baaae102a7b&chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd)
 - [【前端之神】面试官：原生HTML怎么实现一个Dialog？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487702&idx=1&sn=38f1c979938292e053695835065bb06a&chksm=ce460547f9318c51dc05e7d6f8bea9529f6bfc485d6a2b96558a246cb78a8b23d6214e2d0480#rd)
 - [【前端之神】12个可能你没见过，但非常实用的-HTML-标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487013&idx=1&sn=ebd90df4ce332dbb290d0c96bf8af0cb&chksm=ce461bb4f93192a21482decdda861ca3c15d26782827c00b01c2bf040a3bed22e01dd985ac9a#rd)
 - [【前端之神】Input标签这么牛？居然也自带颜色选择器功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486913&idx=1&sn=eb5a63a24332c1da903b493fc370c98a&chksm=ce461850f9319146b4857125d96006c5065df8f10239d9c40ca0d92af9b2e63f84268fd82764#rd)
@@ -417,7 +418,6 @@
 - [【iCSS前端趣闻】Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd)
 - [【iCSS前端趣闻】现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g)
 - [【张鑫旭-鑫空间-鑫生活】告别pointer-events:none使用HTML-inert属性真正禁用](https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/)
-- [【张鑫旭-鑫空间-鑫生活】HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

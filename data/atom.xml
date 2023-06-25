@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-25T00:00:40.576Z</updated>
+    <updated>2023-06-25T02:00:40.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[你真的会用<a>标签下载文件吗?]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489250&amp;idx=1&amp;sn=3d2430313abc7e5cf2784baaae102a7b&amp;chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489250&amp;idx=1&amp;sn=3d2430313abc7e5cf2784baaae102a7b&amp;chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd"/>
+        <updated>2023-06-24T16:00:00.000Z</updated>
+        <published>2023-06-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】AIDA模式及如何避免]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263451&amp;idx=2&amp;sn=c5ea6c40d23657b4e95becce73eb7f7f&amp;chksm=bd48c85f8a3f4149bc9afccfb3a67c806498665c07f95b038b5f0357f630e9b6587a905aca8b#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 259 期）：如何免费使用 ChatGPT]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/06/weekly-issue-259.html"/>
-        <updated>2023-06-15T16:00:00.000Z</updated>
-        <published>2023-06-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个夏天 来一场破次元的狂欢！稀土掘金 x A-SOUL 联名再度来袭！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503584&amp;idx=1&amp;sn=5edc6bfabc7ffbff0b9ea1cb46206aa1&amp;chksm=cea979e1f9def0f73f306e24d41fe986eacc3a601393d36542c33af1ddacb47d6204c6f35f8b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503584&amp;idx=1&amp;sn=5edc6bfabc7ffbff0b9ea1cb46206aa1&amp;chksm=cea979e1f9def0f73f306e24d41fe986eacc3a601393d36542c33af1ddacb47d6204c6f35f8b#rd"/>
         <updated>2023-06-15T16:00:00.000Z</updated>
         <published>2023-06-15T16:00:00.000Z</published>
     </entry>
