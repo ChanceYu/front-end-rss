@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-26T13:00:57.511Z</updated>
+    <updated>2023-06-26T15:00:51.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[面了个阿里出来的大佬，见识到了基础的天花板]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514873&amp;idx=1&amp;sn=1a2b1bfcac8c3b1618280654f405533d&amp;chksm=f992bc28cee5353ed52752bbd1ec93ea1803be2952bb772658fb6bac6593769be822bbc8ad8e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514873&amp;idx=1&amp;sn=1a2b1bfcac8c3b1618280654f405533d&amp;chksm=f992bc28cee5353ed52752bbd1ec93ea1803be2952bb772658fb6bac6593769be822bbc8ad8e#rd"/>
+        <updated>2023-06-25T16:00:00.000Z</updated>
+        <published>2023-06-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面了个阿里出来的大佬，见识到了基础的天花板]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489257&amp;idx=1&amp;sn=5f2d5ebac6e45356d0347ac8209d3a64&amp;chksm=ce460378f9318a6e5ba6848f11264e5f637f48052488ae5b6694566ebe6224bdebc528592182#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489257&amp;idx=1&amp;sn=5f2d5ebac6e45356d0347ac8209d3a64&amp;chksm=ce460378f9318a6e5ba6848f11264e5f637f48052488ae5b6694566ebe6224bdebc528592182#rd"/>
         <updated>2023-06-25T16:00:00.000Z</updated>
         <published>2023-06-25T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[三年回顾：JavaScript与TypeScript最新特性汇总]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514838&amp;idx=1&amp;sn=58bfff0c2c33e776a2b4c60ee89ffec8&amp;chksm=f992bc07cee53511fc13e0ee98cb734d342ae206afcfe8a4d316a4cba8fafcf8bf42f9c138e4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514838&amp;idx=1&amp;sn=58bfff0c2c33e776a2b4c60ee89ffec8&amp;chksm=f992bc07cee53511fc13e0ee98cb734d342ae206afcfe8a4d316a4cba8fafcf8bf42f9c138e4#rd"/>
-        <updated>2023-06-18T16:00:00.000Z</updated>
-        <published>2023-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写一个Vue DevTools，让开发体验飞一会]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514838&amp;idx=2&amp;sn=e66e0082b1e259abd4fb32f66d49c257&amp;chksm=f992bc07cee53511166c3e2d639f8b25b5bfed8e064661309eed6685ae108180cd03aa9e5af1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514838&amp;idx=2&amp;sn=e66e0082b1e259abd4fb32f66d49c257&amp;chksm=f992bc07cee53511166c3e2d639f8b25b5bfed8e064661309eed6685ae108180cd03aa9e5af1#rd"/>
         <updated>2023-06-18T16:00:00.000Z</updated>
         <published>2023-06-18T16:00:00.000Z</published>
     </entry>

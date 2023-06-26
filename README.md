@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-26 21:00:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-26 23:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -103,7 +103,7 @@
 </summary>
 
 
-- [2023-06-26-【早说】如何讲好一个故事？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263463&idx=2&sn=8d1671375ab2eff3467f6b21b59d570e&chksm=bd48c8638a3f4175ed92f80428cbf74d72b4bb9f82874154ee2a3bb931b1447675cf7c0d0987#rd) ![](/assets/new.png)  
+- [2023-06-26-【早说】如何讲好一个故事？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263463&idx=2&sn=8d1671375ab2eff3467f6b21b59d570e&chksm=bd48c8638a3f4175ed92f80428cbf74d72b4bb9f82874154ee2a3bb931b1447675cf7c0d0987#rd)  
 - [2023-06-25-【早说】AIDA模式及如何避免](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263451&idx=2&sn=c5ea6c40d23657b4e95becce73eb7f7f&chksm=bd48c85f8a3f4149bc9afccfb3a67c806498665c07f95b038b5f0357f630e9b6587a905aca8b#rd)  
 - [2023-06-25-【第2979期】WDC2023-—-Web-开发者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263451&idx=1&sn=018f94b5b81bdadb683890cadabfadc2&chksm=bd48c85f8a3f414926653275311b16dcb116caabe6510c62b3dd23c55d4d0d3130573d65956d#rd)  
 - [2023-06-21-【第2978期】CSS中@scope的简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=1&sn=b5ae594eca60aa8705a287ce730ddec9&chksm=bd48c84c8a3f415a86e27a1cf7cd889795e54339c394b93e31aea838440b658f049d5613342f#rd)  
@@ -165,7 +165,7 @@
 </summary>
 
 
-- [2023-06-26-300毫秒分胜负：维基百科的总阻塞时间优化之道](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521278&idx=1&sn=5d5db9f3855322fa38884d3a5630737e&chksm=f95226bdce25afabba0642f6908f4480fa82e628e15854d921359c2d622a37469fd3f6427838#rd) ![](/assets/new.png)  
+- [2023-06-26-300毫秒分胜负：维基百科的总阻塞时间优化之道](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521278&idx=1&sn=5d5db9f3855322fa38884d3a5630737e&chksm=f95226bdce25afabba0642f6908f4480fa82e628e15854d921359c2d622a37469fd3f6427838#rd)  
 - [2023-06-21-Next.js-+-Rust-革新全栈开发，Rust没那么难](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521256&idx=1&sn=b85f93527f3f1854c6eff1bc4bd09360&chksm=f95226abce25afbdacafd83363e5e49bc3257bf8bcfc349f0dc5c9aa406d0b9616d638dc582c#rd)  
 - [2023-06-19-LangChain：2023年最潮大语言模型Web开发框架](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521255&idx=1&sn=8e8d86e1534438985ea210fd2eee6e52&chksm=f95226a4ce25afb223d2ece4e93d082eb5aa96feceb833534b6e03c328f394fbf01f575591c5#rd)  
 - [2023-06-16-如何在Next.js全栈应用程序中无缝实现身份验证](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521238&idx=1&sn=ff3ef21e67c72597546c14bdc56da7ab&chksm=f9522695ce25af839c3afede64da98ad359b0f9f39c0678ac9b5aabed6660cb36de06f7c1fc8#rd)  
@@ -196,6 +196,7 @@
 </summary>
 
 
+- [2023-06-26-面了个阿里出来的大佬，见识到了基础的天花板](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489257&idx=1&sn=5f2d5ebac6e45356d0347ac8209d3a64&chksm=ce460378f9318a6e5ba6848f11264e5f637f48052488ae5b6694566ebe6224bdebc528592182#rd) ![](/assets/new.png)  
 - [2023-06-25-你真的会用<a>标签下载文件吗?](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489250&idx=1&sn=3d2430313abc7e5cf2784baaae102a7b&chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd)  
 - [2023-06-24-通过一个-BUG-提醒大家，不要过度依赖-Foreach-！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489244&idx=1&sn=901600b6db4b3faf4d6b753f8e5b0c40&chksm=ce46034df9318a5bdafcafeb7eb0e316a12f826c5e3d78458a6239e498328ff06b9ad886de38#rd)  
 - [2023-06-23-前端性能优化，我会从这几个角度去回答你！超级详细！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489243&idx=1&sn=a3e341f1bb41e35ecf1da8b6b56ecdc6&chksm=ce46034af9318a5cb2dd1ff07f8e3c7749327b7dea99013482187f9a894ae5c511e2b4065a70#rd)  
@@ -215,7 +216,6 @@
 - [2023-06-08-「面经」大专学历，一路挺到阿里三面，最终还是挂了~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489131&idx=1&sn=644b7e090bb45c70cdc0970d71f4af42&chksm=ce4603faf9318aec716390120aadafb756b31bfdbe84f23c22b1fa955d19511502aabbdacb90#rd)  
 - [2023-06-07-文末有赠票福利｜「前端已死」-甚嚣尘上，未来前端还会大有作为吗？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489123&idx=1&sn=de236c548a6549f18e6c57af15492162&chksm=ce4603f2f9318ae4d40cce303999d96e23c877477d85d2cf767b8429ad8d2d9dea8976e61de7#rd)  
 - [2023-06-06-今年下半场，前端开发如何提升自身竞争力？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489102&idx=1&sn=fbaef51a82a96e95adcf760d9d21f4b6&chksm=ce4603dff9318ac95258cd5da59314d83769866206e8519e278918977881832b0bd248d85ea9#rd)  
-- [2023-06-05-外包、大厂、小公司都待过的前端工程师是如何找工作的~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489096&idx=1&sn=c21b23080e22770995241be7a1da3eb4&chksm=ce4603d9f9318acff6caa941594147ca33a0d256986f95af60abc60810d29c98ac7fcfedf323#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
