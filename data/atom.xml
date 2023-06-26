@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-25T22:00:38.207Z</updated>
+    <updated>2023-06-26T00:01:15.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[放心，前端不会死]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512006&amp;idx=1&amp;sn=918cef2e1fd20ebbdce7ccc37bab1bc8&amp;chksm=eb0797bfdc701ea9f9b3e7df2f68fe18f0c143d9fd39757a65fc37e47513901495b93675406f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512006&amp;idx=1&amp;sn=918cef2e1fd20ebbdce7ccc37bab1bc8&amp;chksm=eb0797bfdc701ea9f9b3e7df2f68fe18f0c143d9fd39757a65fc37e47513901495b93675406f#rd"/>
+        <updated>2023-06-24T16:00:00.000Z</updated>
+        <published>2023-06-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIGC 加持下的新一代文档搜索方案]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498241&amp;idx=1&amp;sn=466b56310c64a04a4126df784dc54455&amp;chksm=c2b33bfef5c4b2e889d4c068af332cc012f6f7039917dae5f7af03f02bf79d2bab59f93ea80b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498241&amp;idx=1&amp;sn=466b56310c64a04a4126df784dc54455&amp;chksm=c2b33bfef5c4b2e889d4c068af332cc012f6f7039917dae5f7af03f02bf79d2bab59f93ea80b#rd"/>
         <updated>2023-06-24T16:00:00.000Z</updated>
         <published>2023-06-24T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263402&amp;idx=1&amp;sn=79c4f151c889fb8ac0b7220c7e3730fb&amp;chksm=bd48c82e8a3f41389fa8f6679de0e998c87d449bec9a3a0723b9721beed899d9003488cd490e#rd"/>
         <updated>2023-06-18T16:00:00.000Z</updated>
         <published>2023-06-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我使用CSS模拟个假的数字loading效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/"/>
-        <updated>2023-06-17T16:00:00.000Z</updated>
-        <published>2023-06-17T16:00:00.000Z</published>
     </entry>
 </feed>
