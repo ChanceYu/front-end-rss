@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-26 15:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-26 21:00:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -103,26 +103,26 @@
 </summary>
 
 
-- [2023-06-25-【第2979期】WDC2023-—-Web-开发者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263451&idx=1&sn=018f94b5b81bdadb683890cadabfadc2&chksm=bd48c85f8a3f414926653275311b16dcb116caabe6510c62b3dd23c55d4d0d3130573d65956d#rd)  
+- [2023-06-26-【早说】如何讲好一个故事？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263463&idx=2&sn=8d1671375ab2eff3467f6b21b59d570e&chksm=bd48c8638a3f4175ed92f80428cbf74d72b4bb9f82874154ee2a3bb931b1447675cf7c0d0987#rd) ![](/assets/new.png)  
 - [2023-06-25-【早说】AIDA模式及如何避免](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263451&idx=2&sn=c5ea6c40d23657b4e95becce73eb7f7f&chksm=bd48c85f8a3f4149bc9afccfb3a67c806498665c07f95b038b5f0357f630e9b6587a905aca8b#rd)  
-- [2023-06-21-【小册】CSS-技术揭秘与实战通关](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=2&sn=c68304d9ac2fd3305f3739259397b25a&chksm=bd48c84c8a3f415a79485c1d44f3bdfbcaa206c7090ddf0deb4e32415d1f7aafbf5475789718#rd)  
+- [2023-06-25-【第2979期】WDC2023-—-Web-开发者](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263451&idx=1&sn=018f94b5b81bdadb683890cadabfadc2&chksm=bd48c85f8a3f414926653275311b16dcb116caabe6510c62b3dd23c55d4d0d3130573d65956d#rd)  
 - [2023-06-21-【第2978期】CSS中@scope的简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=1&sn=b5ae594eca60aa8705a287ce730ddec9&chksm=bd48c84c8a3f415a86e27a1cf7cd889795e54339c394b93e31aea838440b658f049d5613342f#rd)  
-- [2023-06-20-全日程发布！60位技术嘉宾，前沿技术分享尽在2023稀土开发者大会现场](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263410&idx=1&sn=5bb1956cc92e3bac8abf5623b5e5f46c&chksm=bd48c8368a3f41209401ffd4fca20bc1ef34d8d67cf012df779af4746a8abee0526ef71f0e35#rd)  
+- [2023-06-21-【小册】CSS-技术揭秘与实战通关](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=2&sn=c68304d9ac2fd3305f3739259397b25a&chksm=bd48c84c8a3f415a79485c1d44f3bdfbcaa206c7090ddf0deb4e32415d1f7aafbf5475789718#rd)  
 - [2023-06-20-【第2977期】前端项目构建时的资源监控与分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263410&idx=2&sn=06a44ce03bb46d4a62c265962a29b788&chksm=bd48c8368a3f4120a2552dca08bcbd71ad3995094f2e080add2953a5615643fb7cca57c65639#rd)  
+- [2023-06-20-全日程发布！60位技术嘉宾，前沿技术分享尽在2023稀土开发者大会现场](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263410&idx=1&sn=5bb1956cc92e3bac8abf5623b5e5f46c&chksm=bd48c8368a3f41209401ffd4fca20bc1ef34d8d67cf012df779af4746a8abee0526ef71f0e35#rd)  
 - [2023-06-19-【第2976期】前端构建工具的未来](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263402&idx=1&sn=79c4f151c889fb8ac0b7220c7e3730fb&chksm=bd48c82e8a3f41389fa8f6679de0e998c87d449bec9a3a0723b9721beed899d9003488cd490e#rd)  
 - [2023-06-18-【第2975期】JavaScript-幕后工作原理：JS-引擎和运行时](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263398&idx=1&sn=d4974def2e8a33ea40280536589e1144&chksm=bd48c8228a3f4134f4d95b10a24fd7dd2e9262d506d8fc0c1ca0a35a9ca3a1d5be815e5a3c86#rd)  
 - [2023-06-17-【第2974期】ChatGPT教用200行代码写一个简版Vue框架——OpenTiny](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263392&idx=1&sn=2841859805edaf9baea4da7c56426b2c&chksm=bd48c8248a3f4132a4d7d06ce896fa714c8c85dfae33512c10d443a98ec0a5363533ca88aefb#rd)  
-- [2023-06-16-【第2973期】携程Web组件在跨端场景的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263361&idx=1&sn=08d45fd73bcebd6b6d4bd410c9f1438f&chksm=bd48c8058a3f4113539f3281626293514bd5014074db05d43ec380fd720febd55a58167a4d5a#rd)  
 - [2023-06-16-【早说】设计优雅降级](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263361&idx=2&sn=fdb506e7aae61701307ad7563ffc6d17&chksm=bd48c8058a3f4113c78c224648131685a1a1889d720fc0036fcb4540f12d8f8799cac16950ff#rd)  
-- [2023-06-15-【早说】最简单的错误](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263348&idx=2&sn=ef35a477ec0abf622e0f8eae2b043496&chksm=bd48c8f08a3f41e6979bb8dfb0d586842cba11eac2c8599a2cdb646fe417785e804ae50942bc#rd)  
+- [2023-06-16-【第2973期】携程Web组件在跨端场景的实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263361&idx=1&sn=08d45fd73bcebd6b6d4bd410c9f1438f&chksm=bd48c8058a3f4113539f3281626293514bd5014074db05d43ec380fd720febd55a58167a4d5a#rd)  
 - [2023-06-15-【第2972期】Wukong-动态化组件能力实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263348&idx=1&sn=4e42009ac11576802aca5f14a76ab35d&chksm=bd48c8f08a3f41e625b99247881cf9175c96c486551c9c31b1c195ed407900b2bed03c6d0f94#rd)  
-- [2023-06-14-【第2971期】前端开发如何更好的避免样式冲突？级联层CSS@layer](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=1&sn=c684aa4e5b5a523999061c2f0c52de5e&chksm=bd48c8838a3f4195a4b4ed385608e341a3c96ad833172e9dbe68acb21cfc15df27bee4334338#rd)  
+- [2023-06-15-【早说】最简单的错误](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263348&idx=2&sn=ef35a477ec0abf622e0f8eae2b043496&chksm=bd48c8f08a3f41e6979bb8dfb0d586842cba11eac2c8599a2cdb646fe417785e804ae50942bc#rd)  
 - [2023-06-14-【早说】定期调整工位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=2&sn=bcdbb712a0914a5d19a3bf0cb1113cf1&chksm=bd48c8838a3f4195ef2a83706c5b4ec24223bff08649e06992134c2958c97895ccf0f1f341ff#rd)  
-- [2023-06-13-【第2970期】漫画前端的前世今生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263213&idx=2&sn=980304ebfbd8b424d1ff8dc4f64c29bf&chksm=bd48c9698a3f407f026a132ff29711ef27e1e71de914e84ef94d6309a93d81c3893dd5a24395#rd)  
+- [2023-06-14-【第2971期】前端开发如何更好的避免样式冲突？级联层CSS@layer](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=1&sn=c684aa4e5b5a523999061c2f0c52de5e&chksm=bd48c8838a3f4195a4b4ed385608e341a3c96ad833172e9dbe68acb21cfc15df27bee4334338#rd)  
 - [2023-06-13-文末有赠票福利｜最热的AIGC与大模型专场议程出炉，稀土开发者大会线下嗨聊-AIGC两整天](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263213&idx=1&sn=7b82a319b9a330aa606a051cf26c2109&chksm=bd48c9698a3f407fe6049b788ce713a2a442eb108d5f57c0c71e825e24d1272ab25e8f3d087f#rd)  
+- [2023-06-13-【第2970期】漫画前端的前世今生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263213&idx=2&sn=980304ebfbd8b424d1ff8dc4f64c29bf&chksm=bd48c9698a3f407f026a132ff29711ef27e1e71de914e84ef94d6309a93d81c3893dd5a24395#rd)  
 - [2023-06-12-【第2969期】FormRender-2.0-开箱即用表单方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263175&idx=1&sn=f40700e32e9c573c533f8221378a6f88&chksm=bd48c9438a3f405571651a9868b572e9f114bc8f3ab03b5501004a9bc5eb733173d2228f76db#rd)  
 - [2023-06-11-【第2968期】LocatorJS-源码分析](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263171&idx=1&sn=1842066e91b18e7b41c141d0189476a2&chksm=bd48c9478a3f40517f7b4266f41058978c0c74cf00d447a2dc2d1dd207a713cd032237111d08#rd)  
-- [2023-06-10-【第2967期】探索主流前端框架的响应式原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263167&idx=1&sn=e435ab8a60c094f0698fcbe66e7ec950&chksm=bd48c93b8a3f402dfb5cfff9292700232db6c728b74753a220c746da486fd6886f2b49082da6#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -134,7 +134,7 @@
 </summary>
 
 
-- [2023-06-26-用了一下-AI-代码补全工具，真爽！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615262&idx=1&sn=57000b80f7ea58a79f1cfdce37c300de&chksm=8022a7dfb7552ec97300055eab95571a1fa4d35e597056486975488eecbafc610d9ce7929f56#rd) ![](/assets/new.png)  
+- [2023-06-26-用了一下-AI-代码补全工具，真爽！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615262&idx=1&sn=57000b80f7ea58a79f1cfdce37c300de&chksm=8022a7dfb7552ec97300055eab95571a1fa4d35e597056486975488eecbafc610d9ce7929f56#rd)  
 - [2023-06-25-我放弃-Axios，改用-Alova](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615255&idx=2&sn=ece864a8781ebbfad252a64dfa81aa3e&chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd)  
 - [2023-06-25-前端-UI-框架-Svelte-4-正式发布](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615255&idx=1&sn=c460ea1eb81a7ee0407eb6f7deffc22f&chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd)  
 - [2023-06-21-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615244&idx=1&sn=bc70679b9ce2e93ff22ae311be0d6da0&chksm=8022a7cdb7552edb26c88734a0d6468bdd156c0d04f64c3f4bc99292b1ebf0f97c2a7666d66c#rd)  
@@ -165,6 +165,7 @@
 </summary>
 
 
+- [2023-06-26-300毫秒分胜负：维基百科的总阻塞时间优化之道](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521278&idx=1&sn=5d5db9f3855322fa38884d3a5630737e&chksm=f95226bdce25afabba0642f6908f4480fa82e628e15854d921359c2d622a37469fd3f6427838#rd) ![](/assets/new.png)  
 - [2023-06-21-Next.js-+-Rust-革新全栈开发，Rust没那么难](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521256&idx=1&sn=b85f93527f3f1854c6eff1bc4bd09360&chksm=f95226abce25afbdacafd83363e5e49bc3257bf8bcfc349f0dc5c9aa406d0b9616d638dc582c#rd)  
 - [2023-06-19-LangChain：2023年最潮大语言模型Web开发框架](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521255&idx=1&sn=8e8d86e1534438985ea210fd2eee6e52&chksm=f95226a4ce25afb223d2ece4e93d082eb5aa96feceb833534b6e03c328f394fbf01f575591c5#rd)  
 - [2023-06-16-如何在Next.js全栈应用程序中无缝实现身份验证](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521238&idx=1&sn=ff3ef21e67c72597546c14bdc56da7ab&chksm=f9522695ce25af839c3afede64da98ad359b0f9f39c0678ac9b5aabed6660cb36de06f7c1fc8#rd)  
@@ -184,7 +185,6 @@
 - [2023-05-15-Elm-+-React：入门容易，坚持难](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520893&idx=1&sn=8006d5a3a7b2477d947bd3e3ac883e0e&chksm=f952273ece25ae28ff682baf8934b91f6b1da9b21e810b511f6f18dc2e6a339c22085214e96c#rd)  
 - [2023-05-12-Google-IO-大会开发者要闻汇总：Android-Studio、Flutter、Web……](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520892&idx=1&sn=b449027d80de1dc38ca3deda4d2dc64d&chksm=f952273fce25ae2978ea73dd765fe3070cd7fe092d947371bd732f0334fcdd6f0e87fe4447fd#rd)  
 - [2023-05-10-从Node到Deno：你可能还没准备好](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520851&idx=1&sn=57f1bec3798e9219046a8104a144b0de&chksm=f9522710ce25ae065a70d818b15fef4d9a45d0eb5715bbfca29e63342ffd8f81840fb0aeffcb#rd)  
-- [2023-05-08-Angular-16-正式发布，抢先体验指南](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520823&idx=1&sn=d39207ceef6efcaff954a196302086db&chksm=f9522774ce25ae629a3dad248466c5b660db674a7df9a7778cb3c34ba56dbbd9e3b82b443bbb#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
