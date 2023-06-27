@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-06-27 15:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-27 18:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -327,6 +327,7 @@
 - [2022-01-02-2天，我把Webpack的核心原理、babel、性能优化撸干净了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502268&idx=1&sn=762e523e60f5f24da7429554692db36b&chksm=f992cf6dcee5467b8633fa9bc1327f711a6d9ccf7b18833969fc21a5d01034c39b49a4d44da7#rd) 
 - [2023-05-24-现代-CSS-解决方案：CSS-原生支持三角函数-|-构建-Amazing-效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495701&idx=1&sn=8779fa1de1a196bc28c78fadb375d336&chksm=ce2693e3f9511af5f0fa602f406a3ec048df0b5a5c0ee5fc5148ec59da249c11ed579499e9ff#rd) 
 - [2023-02-14-ESLint-机制分析与简单插件实践](https://mp.weixin.qq.com/s/RWwIBcYHnv0Omgi8qFCrCw) 
+- [2023-06-27-前端食堂技术周刊第-88-期：Svelte4、NestJS-10、State-of-CSS、Vitest-1.0-Roadmap](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498249&idx=1&sn=043ecf8f69614ccf77d4e594b1c6d778&chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd) 
 - [2023-04-24-前端食堂技术周刊第-80-期：Vite-4.3、Node.js-20、TS-5.1-Beta、Windi-CSS-即将落幕](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497918&idx=1&sn=39128bcca251c8ae48f01ad488d6414d&chksm=c2b33941f5c4b057990ec1536bb8ab8978157473fbd4a4220bec3a4190bae253b5569a1505ef#rd) 
 - [2023-01-17-前端食堂技术周刊第-67-期：-2022-State-of-JS、ESLint-2022、pnpm-2022、大淘宝Web端技术](https://mp.weixin.qq.com/s/yoLG2uKs7kheR9t5NLLUdg) 
 - [2023-04-26-探究前端项目打包构建的用户故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511439&idx=2&sn=968cb09298bdec1d1cd2a67ce78a0673&chksm=eb0795f6dc701ce0518d9726ceea87631aa66f1e1b15c1e4a6fb3e8ba15d87e697677885cf3c#rd) 

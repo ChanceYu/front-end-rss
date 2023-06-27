@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-27T07:00:49.239Z</updated>
+    <updated>2023-06-27T10:00:42.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 88 期：Svelte4、NestJS 10、State of CSS、Vitest 1.0 Roadmap]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498249&amp;idx=1&amp;sn=043ecf8f69614ccf77d4e594b1c6d778&amp;chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498249&amp;idx=1&amp;sn=043ecf8f69614ccf77d4e594b1c6d778&amp;chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd"/>
+        <updated>2023-06-26T16:00:00.000Z</updated>
+        <published>2023-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我的《CSS 技术揭秘与实战通关》上线了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495991&amp;idx=2&amp;sn=e1f7b6c56a357ddc9620212537848481&amp;chksm=ce2692c1f9511bd7269bdb5326435db3555000a28718900780c67979aa50f26609ceef05c0e3#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495991&amp;idx=2&amp;sn=e1f7b6c56a357ddc9620212537848481&amp;chksm=ce2692c1f9511bd7269bdb5326435db3555000a28718900780c67979aa50f26609ceef05c0e3#rd"/>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[TQL，巧用 CSS 实现动态线条 Loading 动画]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495991&amp;idx=1&amp;sn=fa13fcd2547b285cef912f8808e630ce&amp;chksm=ce2692c1f9511bd73e49442c15f7fed81d4a010851671015e1b72b9d4620a1c7b2236e1700c1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247495991&amp;idx=1&amp;sn=fa13fcd2547b285cef912f8808e630ce&amp;chksm=ce2692c1f9511bd73e49442c15f7fed81d4a010851671015e1b72b9d4620a1c7b2236e1700c1#rd"/>
+        <updated>2023-06-26T16:00:00.000Z</updated>
+        <published>2023-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从张鑫旭大佬文章中发现了我前端知识的匮乏]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489275&amp;idx=1&amp;sn=30296841565008a9a262ddecadb17a11&amp;chksm=ce46036af9318a7c712a64c41c6c6a7a4a66cfa1ff34cd083b6b880aa9085af79406b6f6d87f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489275&amp;idx=1&amp;sn=30296841565008a9a262ddecadb17a11&amp;chksm=ce46036af9318a7c712a64c41c6c6a7a4a66cfa1ff34cd083b6b880aa9085af79406b6f6d87f#rd"/>
         <updated>2023-06-26T16:00:00.000Z</updated>
         <published>2023-06-26T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[50+ 可以帮助提高前端开发效率的 ChatGPT Prompts]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514846&amp;idx=2&amp;sn=34a5d5fd965f1bd329390923d06c1adf&amp;chksm=f992bc0fcee53519c4d1ddc0f1acf00a27f528f0462f96a5cb79cd4e9e83bc191d52434210e1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514846&amp;idx=2&amp;sn=34a5d5fd965f1bd329390923d06c1adf&amp;chksm=f992bc0fcee53519c4d1ddc0f1acf00a27f528f0462f96a5cb79cd4e9e83bc191d52434210e1#rd"/>
-        <updated>2023-06-19T16:00:00.000Z</updated>
-        <published>2023-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6月，前端市场复苏了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489223&amp;idx=1&amp;sn=025c38881a1a4966d154310668643815&amp;chksm=ce460356f9318a4050eecef41f6bc89cb8277f2f30ab719cd5a1f7b66ac5ecbc4c43317a191c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489223&amp;idx=1&amp;sn=025c38881a1a4966d154310668643815&amp;chksm=ce460356f9318a4050eecef41f6bc89cb8277f2f30ab719cd5a1f7b66ac5ecbc4c43317a191c#rd"/>
-        <updated>2023-06-19T16:00:00.000Z</updated>
-        <published>2023-06-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第2977期】前端项目构建时的资源监控与分析]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263410&amp;idx=2&amp;sn=06a44ce03bb46d4a62c265962a29b788&amp;chksm=bd48c8368a3f4120a2552dca08bcbd71ad3995094f2e080add2953a5615643fb7cca57c65639#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263410&amp;idx=2&amp;sn=06a44ce03bb46d4a62c265962a29b788&amp;chksm=bd48c8368a3f4120a2552dca08bcbd71ad3995094f2e080add2953a5615643fb7cca57c65639#rd"/>
         <updated>2023-06-19T16:00:00.000Z</updated>
         <published>2023-06-19T16:00:00.000Z</published>
     </entry>
