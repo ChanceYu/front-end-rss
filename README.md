@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-06-29 21:00:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-06-30 06:01:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -28,7 +28,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -72,6 +72,7 @@
 </summary>
 
 
+- [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645) ![](/assets/new.png)  
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644)  
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
 - [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
@@ -91,7 +92,6 @@
 - [2023-03-03-Garbage-collector-experiments](https://javascriptweekly.com/issues/628)  
 - [2023-02-24-ECMAScript-2023-for-President](https://javascriptweekly.com/issues/627)  
 - [2023-02-17-JavaScript-sans-build-systems?](https://javascriptweekly.com/issues/626)  
-- [2023-02-10-Bringing-JavaScript-to-WebAssembly](https://javascriptweekly.com/issues/625)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -103,8 +103,8 @@
 </summary>
 
 
-- [2023-06-29-【第2983期】搭建自动化-Web-页面性能检测系统-——-设计篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263504&idx=1&sn=2b1cfc90aace8142e55fb1d7b58f5698&chksm=bd48cb948a3f4282921f91371bb408c190a9a642115dec080d202f0352b52d532856aa295d46#rd) ![](/assets/new.png)  
-- [2023-06-29-【早说】创业步骤](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263504&idx=2&sn=86dfa3ef5f086cc3a30de25a54653011&chksm=bd48cb948a3f42828c5cde19006408f55a49529207bd203648a57db177d8ddf5debfde24e602#rd) ![](/assets/new.png)  
+- [2023-06-29-【第2983期】搭建自动化-Web-页面性能检测系统-——-设计篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263504&idx=1&sn=2b1cfc90aace8142e55fb1d7b58f5698&chksm=bd48cb948a3f4282921f91371bb408c190a9a642115dec080d202f0352b52d532856aa295d46#rd)  
+- [2023-06-29-【早说】创业步骤](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263504&idx=2&sn=86dfa3ef5f086cc3a30de25a54653011&chksm=bd48cb948a3f42828c5cde19006408f55a49529207bd203648a57db177d8ddf5debfde24e602#rd)  
 - [2023-06-28-【早说】趣味性](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263488&idx=2&sn=970e99ac04d61b4024bc276ed651dc4b&chksm=bd48cb848a3f4292033fc144c905a964c77eff333bd80a3f1724ae630083a89dab1ae64d7a9e#rd)  
 - [2023-06-28-【第2982期】使用示例介绍Web组件](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263488&idx=1&sn=ee49835d35357175f1d6ea0271de3945&chksm=bd48cb848a3f4292421131f3df0309feb49705886d116bd1af01d29f7dfefc27f1b1e76a15d1#rd)  
 - [2023-06-27-五大亮点剧透！稀土开发者大会都有哪些新看点？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263475&idx=1&sn=bb3298d9d2a80169ddcf50a6458ae70b&chksm=bd48c8778a3f41619b485829d51f1b0156290d5316fe8a4fa71c7a1947d2f498e4dd3dbcc629#rd)  
@@ -471,6 +471,7 @@
 </summary>
 
 
+- [2023-06-30-CSS-sin/cos等数学三角函数简介与应用](https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/) ![](/assets/new.png)  
 - [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/)  
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)  
@@ -479,8 +480,8 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
+- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
@@ -490,7 +491,6 @@
 - [2023-01-30-Chrome浏览器原生支持的7种后台服务简介](https://www.zhangxinxu.com/wordpress/2023/01/js-background-services/)  
 - [2023-01-17-使用AbortController-abort中断原生fetch或axios请求](https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/)  
 - [2023-01-07-前端原生API实现条形码二维码的JS解析识别](https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/)  
-- [2022-12-28-JS数组的copyWithin语法我看了好几遍才懂](https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

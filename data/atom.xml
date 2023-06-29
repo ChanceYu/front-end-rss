@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-29T13:00:51.244Z</updated>
+    <updated>2023-06-29T22:01:21.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS sin()/cos()等数学三角函数简介与应用]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/"/>
+        <updated>2023-06-29T16:00:00.000Z</updated>
+        <published>2023-06-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端如何获取电池信息]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514911&amp;idx=2&amp;sn=8120ce1853d38c50b9dcd4ed71944edc&amp;chksm=f992bdcecee534d8ed26cb55e3006627dbcacc5d56f6ebd4cf45566abffd9f497933a2d65936#rd</id>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[【第2983期】搭建自动化 Web 页面性能检测系统 —— 设计篇]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263504&amp;idx=1&amp;sn=2b1cfc90aace8142e55fb1d7b58f5698&amp;chksm=bd48cb948a3f4282921f91371bb408c190a9a642115dec080d202f0352b52d532856aa295d46#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263504&amp;idx=1&amp;sn=2b1cfc90aace8142e55fb1d7b58f5698&amp;chksm=bd48cb948a3f4282921f91371bb408c190a9a642115dec080d202f0352b52d532856aa295d46#rd"/>
+        <updated>2023-06-28T16:00:00.000Z</updated>
+        <published>2023-06-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is a doozy of an issue]]></title>
+        <id>https://javascriptweekly.com/issues/645</id>
+        <link href="https://javascriptweekly.com/issues/645"/>
         <updated>2023-06-28T16:00:00.000Z</updated>
         <published>2023-06-28T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263451&amp;idx=1&amp;sn=018f94b5b81bdadb683890cadabfadc2&amp;chksm=bd48c85f8a3f414926653275311b16dcb116caabe6510c62b3dd23c55d4d0d3130573d65956d#rd"/>
         <updated>2023-06-24T16:00:00.000Z</updated>
         <published>2023-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[:has 语法，终于可以用了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511947&amp;idx=1&amp;sn=3b8ba8f64aac86b0f8f75230914f8849&amp;chksm=eb0797f2dc701ee41741dde8e63aba4ceba711b817266f0347fb66c2b28eaa005e4408362af1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511947&amp;idx=1&amp;sn=3b8ba8f64aac86b0f8f75230914f8849&amp;chksm=eb0797f2dc701ee41741dde8e63aba4ceba711b817266f0347fb66c2b28eaa005e4408362af1#rd"/>
-        <updated>2023-06-23T16:00:00.000Z</updated>
-        <published>2023-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT的工作原理，这篇文章说清楚了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514859&amp;idx=1&amp;sn=ecde694e29a4716098616b02236e9676&amp;chksm=f992bc3acee5352c64bb7e86f1c13c43f1dc17fd417560217aae513d57dab7d8f7a3a839f50a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514859&amp;idx=1&amp;sn=ecde694e29a4716098616b02236e9676&amp;chksm=f992bc3acee5352c64bb7e86f1c13c43f1dc17fd417560217aae513d57dab7d8f7a3a839f50a#rd"/>
-        <updated>2023-06-23T16:00:00.000Z</updated>
-        <published>2023-06-23T16:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-06-29 21:00:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-06-30 06:01:20。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [【JavaScript-Weekly】Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)
 - [【JavaScript-Weekly】'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】JavaScript-Vocoder-Puccini](https://javascriptweekly.com/issues/616)
 - [【JavaScript-Weekly】Extractors-for-ECMAScript](https://javascriptweekly.com/issues/607)
 - [【JavaScript-Weekly】Seven-weird-ways-to-call-a-JavaScript-function](https://javascriptweekly.com/issues/606)
-- [【JavaScript-Weekly】David's-handy-JS-debugging-tip](https://javascriptweekly.com/issues/604)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
