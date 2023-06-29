@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-29T02:00:44.254Z</updated>
+    <updated>2023-06-29T07:00:42.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,6 +92,13 @@
         <published>2023-06-27T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[因为一个写法，我翻烂了 vue 源码，这是 vue的问题吧，我要不要提 pr！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615328&amp;idx=1&amp;sn=fc06741e54acb1a369b1bbfc0446d29e&amp;chksm=8022a7a1b7552eb70bf711ac1e8994c873d93612a25e06efbd194012083ff4f216d4b5ed9722#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615328&amp;idx=1&amp;sn=fc06741e54acb1a369b1bbfc0446d29e&amp;chksm=8022a7a1b7552eb70bf711ac1e8994c873d93612a25e06efbd194012083ff4f216d4b5ed9722#rd"/>
+        <updated>2023-06-27T16:00:00.000Z</updated>
+        <published>2023-06-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[因为写不出拖拽移动效果，我恶补了一下 Dom 中的各种距离]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615328&amp;idx=2&amp;sn=03e3c33e9c303d548100c3a772df31b1&amp;chksm=8022a7a1b7552eb78e4176bc3b72dbc96610bebebc70aa11cb7831ae374eb37bd64f1b30d279#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615328&amp;idx=2&amp;sn=03e3c33e9c303d548100c3a772df31b1&amp;chksm=8022a7a1b7552eb78e4176bc3b72dbc96610bebebc70aa11cb7831ae374eb37bd64f1b30d279#rd"/>
@@ -162,16 +169,16 @@
         <published>2023-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[什么样的前端开发，会被公司抢着要？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=1&amp;sn=7362ac206b7f711755104f00ff2151c6&amp;chksm=8022a79eb7552e886b240ab0d96301ba1fa1d923c12526a5ac294939c98209e50a76290817ff#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=1&amp;sn=7362ac206b7f711755104f00ff2151c6&amp;chksm=8022a79eb7552e886b240ab0d96301ba1fa1d923c12526a5ac294939c98209e50a76290817ff#rd"/>
+        <title type="html"><![CDATA[原生 canvas 如何实现大屏?]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=2&amp;sn=54df4d81cc4532039649676a6aa9ea72&amp;chksm=8022a79eb7552e881f0adc22e0961c37430089b4ae2524e0283c684e68f5a4072b40a8340837#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=2&amp;sn=54df4d81cc4532039649676a6aa9ea72&amp;chksm=8022a79eb7552e881f0adc22e0961c37430089b4ae2524e0283c684e68f5a4072b40a8340837#rd"/>
         <updated>2023-06-26T16:00:00.000Z</updated>
         <published>2023-06-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[原生 canvas 如何实现大屏?]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=2&amp;sn=54df4d81cc4532039649676a6aa9ea72&amp;chksm=8022a79eb7552e881f0adc22e0961c37430089b4ae2524e0283c684e68f5a4072b40a8340837#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=2&amp;sn=54df4d81cc4532039649676a6aa9ea72&amp;chksm=8022a79eb7552e881f0adc22e0961c37430089b4ae2524e0283c684e68f5a4072b40a8340837#rd"/>
+        <title type="html"><![CDATA[什么样的前端开发，会被公司抢着要？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=1&amp;sn=7362ac206b7f711755104f00ff2151c6&amp;chksm=8022a79eb7552e886b240ab0d96301ba1fa1d923c12526a5ac294939c98209e50a76290817ff#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615327&amp;idx=1&amp;sn=7362ac206b7f711755104f00ff2151c6&amp;chksm=8022a79eb7552e886b240ab0d96301ba1fa1d923c12526a5ac294939c98209e50a76290817ff#rd"/>
         <updated>2023-06-26T16:00:00.000Z</updated>
         <published>2023-06-26T16:00:00.000Z</published>
     </entry>
@@ -232,16 +239,16 @@
         <published>2023-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端正确处理“文字溢出”的思路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=2&amp;sn=e9ca73e56772636c94f7ccfa5571b505&amp;chksm=8022a7dfb7552ec9fd817017fa856c8fd19bf05fe9f35991f9308450256a1af1ec6bd3e353c9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=2&amp;sn=e9ca73e56772636c94f7ccfa5571b505&amp;chksm=8022a7dfb7552ec9fd817017fa856c8fd19bf05fe9f35991f9308450256a1af1ec6bd3e353c9#rd"/>
+        <title type="html"><![CDATA[用了一下 AI 代码补全工具，真爽！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=1&amp;sn=57000b80f7ea58a79f1cfdce37c300de&amp;chksm=8022a7dfb7552ec97300055eab95571a1fa4d35e597056486975488eecbafc610d9ce7929f56#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=1&amp;sn=57000b80f7ea58a79f1cfdce37c300de&amp;chksm=8022a7dfb7552ec97300055eab95571a1fa4d35e597056486975488eecbafc610d9ce7929f56#rd"/>
         <updated>2023-06-25T16:00:00.000Z</updated>
         <published>2023-06-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用了一下 AI 代码补全工具，真爽！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=1&amp;sn=57000b80f7ea58a79f1cfdce37c300de&amp;chksm=8022a7dfb7552ec97300055eab95571a1fa4d35e597056486975488eecbafc610d9ce7929f56#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=1&amp;sn=57000b80f7ea58a79f1cfdce37c300de&amp;chksm=8022a7dfb7552ec97300055eab95571a1fa4d35e597056486975488eecbafc610d9ce7929f56#rd"/>
+        <title type="html"><![CDATA[前端正确处理“文字溢出”的思路]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=2&amp;sn=e9ca73e56772636c94f7ccfa5571b505&amp;chksm=8022a7dfb7552ec9fd817017fa856c8fd19bf05fe9f35991f9308450256a1af1ec6bd3e353c9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615262&amp;idx=2&amp;sn=e9ca73e56772636c94f7ccfa5571b505&amp;chksm=8022a7dfb7552ec9fd817017fa856c8fd19bf05fe9f35991f9308450256a1af1ec6bd3e353c9#rd"/>
         <updated>2023-06-25T16:00:00.000Z</updated>
         <published>2023-06-25T16:00:00.000Z</published>
     </entry>
@@ -302,16 +309,16 @@
         <published>2023-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我放弃 Axios，改用 Alova]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=2&amp;sn=ece864a8781ebbfad252a64dfa81aa3e&amp;chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=2&amp;sn=ece864a8781ebbfad252a64dfa81aa3e&amp;chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd"/>
+        <title type="html"><![CDATA[前端 UI 框架 Svelte 4 正式发布]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=1&amp;sn=c460ea1eb81a7ee0407eb6f7deffc22f&amp;chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=1&amp;sn=c460ea1eb81a7ee0407eb6f7deffc22f&amp;chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd"/>
         <updated>2023-06-24T16:00:00.000Z</updated>
         <published>2023-06-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端 UI 框架 Svelte 4 正式发布]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=1&amp;sn=c460ea1eb81a7ee0407eb6f7deffc22f&amp;chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=1&amp;sn=c460ea1eb81a7ee0407eb6f7deffc22f&amp;chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd"/>
+        <title type="html"><![CDATA[我放弃 Axios，改用 Alova]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=2&amp;sn=ece864a8781ebbfad252a64dfa81aa3e&amp;chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=2&amp;sn=ece864a8781ebbfad252a64dfa81aa3e&amp;chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd"/>
         <updated>2023-06-24T16:00:00.000Z</updated>
         <published>2023-06-24T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489244&amp;idx=1&amp;sn=901600b6db4b3faf4d6b753f8e5b0c40&amp;chksm=ce46034df9318a5bdafcafeb7eb0e316a12f826c5e3d78458a6239e498328ff06b9ad886de38#rd"/>
         <updated>2023-06-23T16:00:00.000Z</updated>
         <published>2023-06-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企业级 React API 调用架构设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511946&amp;idx=1&amp;sn=f88c1599d8aee71b7f1b5c5aeb92383b&amp;chksm=eb0797f3dc701ee5e066e67a103599625841eb0c3692840c4faca25969394c6ba3301121f319#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247511946&amp;idx=1&amp;sn=f88c1599d8aee71b7f1b5c5aeb92383b&amp;chksm=eb0797f3dc701ee5e066e67a103599625841eb0c3692840c4faca25969394c6ba3301121f319#rd"/>
-        <updated>2023-06-22T16:00:00.000Z</updated>
-        <published>2023-06-22T16:00:00.000Z</published>
     </entry>
 </feed>
