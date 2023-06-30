@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-30T02:00:39.427Z</updated>
+    <updated>2023-06-30T04:00:39.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[CSS sin()/cos()等数学三角函数简介与应用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/"/>
+        <updated>2023-06-29T16:00:00.000Z</updated>
+        <published>2023-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ByteFE 邀你观看稀土开发者大会直播啦 | 6月30日9:30]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503633&amp;idx=1&amp;sn=c61a8011b844a1fdb4988be047ecbdcf&amp;chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503633&amp;idx=1&amp;sn=c61a8011b844a1fdb4988be047ecbdcf&amp;chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd"/>
         <updated>2023-06-29T16:00:00.000Z</updated>
         <published>2023-06-29T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我放弃 Axios，改用 Alova]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=2&amp;sn=ece864a8781ebbfad252a64dfa81aa3e&amp;chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=2&amp;sn=ece864a8781ebbfad252a64dfa81aa3e&amp;chksm=8022a7d6b7552ec08d8073f0fb5bfdb06c152c895d4bb0683177e0d15e6bb2d00482d8073ad3#rd"/>
-        <updated>2023-06-24T16:00:00.000Z</updated>
-        <published>2023-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】AIDA模式及如何避免]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263451&amp;idx=2&amp;sn=c5ea6c40d23657b4e95becce73eb7f7f&amp;chksm=bd48c85f8a3f4149bc9afccfb3a67c806498665c07f95b038b5f0357f630e9b6587a905aca8b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263451&amp;idx=2&amp;sn=c5ea6c40d23657b4e95becce73eb7f7f&amp;chksm=bd48c85f8a3f4149bc9afccfb3a67c806498665c07f95b038b5f0357f630e9b6587a905aca8b#rd"/>
         <updated>2023-06-24T16:00:00.000Z</updated>
         <published>2023-06-24T16:00:00.000Z</published>
     </entry>
