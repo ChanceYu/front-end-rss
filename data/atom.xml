@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-30T07:00:41.450Z</updated>
+    <updated>2023-06-30T10:00:39.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[ByteFE 邀你观看稀土开发者大会直播啦 | 6月30日9:30]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503633&amp;idx=1&amp;sn=c61a8011b844a1fdb4988be047ecbdcf&amp;chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503633&amp;idx=1&amp;sn=c61a8011b844a1fdb4988be047ecbdcf&amp;chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd"/>
+        <updated>2023-06-29T16:00:00.000Z</updated>
+        <published>2023-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官很喜欢问的：你为什么你觉得你值 30 k ？小卢哥牛！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489283&amp;idx=1&amp;sn=e48684c598ed9e8ff9a31c5bbe50d670&amp;chksm=ce460292f9318b84baf80d889f60661364f0b89591adcbb521543be8809a597a55171d0030e6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489283&amp;idx=1&amp;sn=e48684c598ed9e8ff9a31c5bbe50d670&amp;chksm=ce460292f9318b84baf80d889f60661364f0b89591adcbb521543be8809a597a55171d0030e6#rd"/>
         <updated>2023-06-29T16:00:00.000Z</updated>
         <published>2023-06-29T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[你真的会用<a>标签下载文件吗?]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489250&amp;idx=1&amp;sn=3d2430313abc7e5cf2784baaae102a7b&amp;chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489250&amp;idx=1&amp;sn=3d2430313abc7e5cf2784baaae102a7b&amp;chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd"/>
-        <updated>2023-06-24T16:00:00.000Z</updated>
-        <published>2023-06-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端 UI 框架 Svelte 4 正式发布]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=1&amp;sn=c460ea1eb81a7ee0407eb6f7deffc22f&amp;chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615255&amp;idx=1&amp;sn=c460ea1eb81a7ee0407eb6f7deffc22f&amp;chksm=8022a7d6b7552ec0c3f72c03110cd7ce9b034f19d638585eef1ce31e9d2f741062e33e472e8d#rd"/>
         <updated>2023-06-24T16:00:00.000Z</updated>
         <published>2023-06-24T16:00:00.000Z</published>
     </entry>
