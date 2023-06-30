@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-06-30T14:53:12.126Z</updated>
+    <updated>2023-06-30T22:00:43.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[面试官很喜欢问的：你为什么你觉得你值 30 k ？小卢哥牛！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489283&amp;idx=1&amp;sn=e48684c598ed9e8ff9a31c5bbe50d670&amp;chksm=ce460292f9318b84baf80d889f60661364f0b89591adcbb521543be8809a597a55171d0030e6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489283&amp;idx=1&amp;sn=e48684c598ed9e8ff9a31c5bbe50d670&amp;chksm=ce460292f9318b84baf80d889f60661364f0b89591adcbb521543be8809a597a55171d0030e6#rd"/>
+        <updated>2023-06-29T16:00:00.000Z</updated>
+        <published>2023-06-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electron末日来了？又一应用将其抛弃！WhatsApp强制推行原生应用：速度更快、内存占用更少]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521317&amp;idx=1&amp;sn=da297c9b610966b091ee388a4d89512e&amp;chksm=f9522166ce25a8705c32aa00415d0e7fee838f8e6894d9d29a87e7ca00222d786b6075974523#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521317&amp;idx=1&amp;sn=da297c9b610966b091ee388a4d89512e&amp;chksm=f9522166ce25a8705c32aa00415d0e7fee838f8e6894d9d29a87e7ca00222d786b6075974523#rd"/>
         <updated>2023-06-29T16:00:00.000Z</updated>
         <published>2023-06-29T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263463&amp;idx=1&amp;sn=990b55b33d44c4f03ee198913796d63e&amp;chksm=bd48c8638a3f4175d761d3666bca4de4253455a16159655252e62ec41238c6156d7197079954#rd"/>
         <updated>2023-06-25T16:00:00.000Z</updated>
         <published>2023-06-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuxt 3.6 正式发布！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512006&amp;idx=2&amp;sn=c784a33c3019b9505480fe3977e4d83e&amp;chksm=eb0797bfdc701ea9a88787546bc7369cc470d0bd1968e8d222eccbf379e589672938c0756c7d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512006&amp;idx=2&amp;sn=c784a33c3019b9505480fe3977e4d83e&amp;chksm=eb0797bfdc701ea9a88787546bc7369cc470d0bd1968e8d222eccbf379e589672938c0756c7d#rd"/>
-        <updated>2023-06-24T16:00:00.000Z</updated>
-        <published>2023-06-24T16:00:00.000Z</published>
     </entry>
 </feed>
