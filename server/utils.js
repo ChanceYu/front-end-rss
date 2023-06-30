@@ -54,11 +54,22 @@ module.exports = {
     this.log(chalk.green(msg))
   },
 
+  escapeHtmlTags(html){
+    const reg = /<|>|&/g
+    const tag = {
+      '<': '&lt;',
+      '>': '&gt;',
+      '&': '&amp;'
+    }
+    return html.replace(reg, (match) => tag[match])
+  },
+
   /**
    * 格式化标题
    */
   formatTitle(title) {
-    return title.replace('<![CDATA[', '').replace(']]>', '').replace(/[\[\]\(\)]/g, '').replace(/\s+/g, '-')
+    let str = title.replace('<![CDATA[', '').replace(']]>', '').replace(/[\[\]\(\)]/g, '').replace(/\s+/g, '-')
+    return this.escapeHtmlTags(str)
   },
 
   /**

@@ -45,7 +45,8 @@ function handleCommit() {
  */
 function handleFeed() {
   rssJson = fs.readJsonSync(RSS_PATH)
-  linksJson = fs.readJsonSync(LINKS_PATH)
+  const linksExist = fs.readJsonSync(LINKS_PATH)
+  linksJson = []
   newData = {
     length: 0,
     titles: [],
@@ -56,41 +57,41 @@ function handleFeed() {
   const tasks = rssJson.map((rssItem, rssIndex) => ((callback) => {
     ((async () => {
       const feed = await fetch(rssItem)
-      if (feed) {
-        const items = linksJson[rssIndex]?.items || []
-        const newItems = feed.items.reduce((prev, curr) => {
-          const exist = items.find((el) => utils.isSameLink(el.link, curr.link))
-          if (exist) {
-            return prev
-          } else {
-            let date = moment().format('YYYY-MM-DD')
+      const items = linksExist.find((el) => el.title === rssItem.title)?.items || []
+      const newItems = (feed?.items || []).reduce((prev, curr) => {
+        const exist = items.find((el) => utils.isSameLink(el.link, curr.link))
+        if (exist) {
+          return prev
+        } else {
+          let date = moment().format('YYYY-MM-DD')
 
-            try {
-              date = moment(curr.isoDate).format('YYYY-MM-DD')
-            } catch (e) {}
+          try {
+            date = moment(curr.isoDate).format('YYYY-MM-DD')
+          } catch (e) {}
 
-            newData.rss[rssItem.title] = true
-            newData.links[curr.link] = true
+          newData.rss[rssItem.title] = true
+          newData.links[curr.link] = true
 
-            return [...prev, {
-              title: curr.title,
-              link: curr.link,
-              date
-            }]
-          }
-        }, [])
-
-        if (newItems.length) {
-          utils.logSuccess('更新 RSS: ' + rssItem.title)
-          newData.titles.push(rssItem.title)
-          newData.length += newItems.length
-          linksJson[rssIndex] = {
-            title: rssItem.title,
-            items: newItems.concat(items).sort(function (a, b) {
-              return a.date < b.date ? 1 : -1
-            })
-          }
+          return [...prev, {
+            title: curr.title,
+            link: curr.link,
+            date
+          }]
         }
+      }, [])
+
+      let allItems = items
+      if (newItems.length) {
+        utils.logSuccess('更新 RSS: ' + rssItem.title)
+        newData.titles.push(rssItem.title)
+        newData.length += newItems.length
+        allItems = newItems.concat(items).sort(function (a, b) {
+          return a.date < b.date ? 1 : -1
+        })
+      }
+      linksJson[rssIndex] = {
+        title: rssItem.title,
+        items: allItems
       }
       callback(null)
     })())
