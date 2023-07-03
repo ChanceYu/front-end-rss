@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-03T02:00:40.694Z</updated>
+    <updated>2023-07-03T07:00:46.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489301&amp;idx=1&amp;sn=ccf94cc133d6045293b090ceb9c42a0b&amp;chksm=ce460284f9318b92cda0bcc49cdce30e6919cd37d99ef8b57bc11642058fc037f0a304914137#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489301&amp;idx=1&amp;sn=ccf94cc133d6045293b090ceb9c42a0b&amp;chksm=ce460284f9318b92cda0bcc49cdce30e6919cd37d99ef8b57bc11642058fc037f0a304914137#rd"/>
+        <updated>2023-07-02T16:00:00.000Z</updated>
+        <published>2023-07-02T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】记录分享]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263561&amp;idx=2&amp;sn=65a5669578fd24e85dea05f000f5b1f9&amp;chksm=bd48cbcd8a3f42db94308dab530ff7f366287f5cdd2603c7e6e452cb047e3348753c5819dcab#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何仅使用 JavaScript 将任何 HTML 页面或表单转化为 PDF文件]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514884&amp;idx=2&amp;sn=768e4e8bd76af18d6658436ef0072caa&amp;chksm=f992bdd5cee534c3eec58ee91d323ceb6fb9b160d6e247b0aec54080fd913f9903aa59ebf558#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247514884&amp;idx=2&amp;sn=768e4e8bd76af18d6658436ef0072caa&amp;chksm=f992bdd5cee534c3eec58ee91d323ceb6fb9b160d6e247b0aec54080fd913f9903aa59ebf558#rd"/>
-        <updated>2023-06-26T16:00:00.000Z</updated>
-        <published>2023-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从张鑫旭大佬文章中发现了我前端知识的匮乏]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489275&amp;idx=1&amp;sn=30296841565008a9a262ddecadb17a11&amp;chksm=ce46036af9318a7c712a64c41c6c6a7a4a66cfa1ff34cd083b6b880aa9085af79406b6f6d87f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489275&amp;idx=1&amp;sn=30296841565008a9a262ddecadb17a11&amp;chksm=ce46036af9318a7c712a64c41c6c6a7a4a66cfa1ff34cd083b6b880aa9085af79406b6f6d87f#rd"/>
         <updated>2023-06-26T16:00:00.000Z</updated>
         <published>2023-06-26T16:00:00.000Z</published>
     </entry>
