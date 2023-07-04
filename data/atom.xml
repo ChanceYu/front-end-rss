@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-04T10:00:51.690Z</updated>
+    <updated>2023-07-04T13:00:51.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[【第2988期】Jack Franklin ：抽象, 复杂性 和 off-ramps]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263566&amp;idx=1&amp;sn=3198d5fe4678e55ed4f7448b9a406b8f&amp;chksm=bd48cbca8a3f42dcf2d1290fdf320fbffa9b9b56ad5199bd1f8f7ceefcee04e7e28adec11c15#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263566&amp;idx=1&amp;sn=3198d5fe4678e55ed4f7448b9a406b8f&amp;chksm=bd48cbca8a3f42dcf2d1290fdf320fbffa9b9b56ad5199bd1f8f7ceefcee04e7e28adec11c15#rd"/>
+        <updated>2023-07-03T16:00:00.000Z</updated>
+        <published>2023-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno wants us to ditch CommonJS]]></title>
+        <id>https://nodeweekly.com/issues/493</id>
+        <link href="https://nodeweekly.com/issues/493"/>
         <updated>2023-07-03T16:00:00.000Z</updated>
         <published>2023-07-03T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Hook 革命！浅谈 React 新 Hook 的未来与思想]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498259&amp;idx=2&amp;sn=91e7cbc63edf225b4dd91082d4879470&amp;chksm=c2b33becf5c4b2fad729000a07772b462a169f10cf44ece7d1d0eee41d3faeda804a96383a8c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498259&amp;idx=2&amp;sn=91e7cbc63edf225b4dd91082d4879470&amp;chksm=c2b33becf5c4b2fad729000a07772b462a169f10cf44ece7d1d0eee41d3faeda804a96383a8c#rd"/>
-        <updated>2023-06-27T16:00:00.000Z</updated>
-        <published>2023-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年这情况。。。多一个选择吧]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498259&amp;idx=1&amp;sn=db0ec801ae1689b3cf2f7fe222ff7982&amp;chksm=c2b33becf5c4b2fa799c044c1757761d7f69cf53ccb077476d144baadda3dc5aefe398839777#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498259&amp;idx=1&amp;sn=db0ec801ae1689b3cf2f7fe222ff7982&amp;chksm=c2b33becf5c4b2fa799c044c1757761d7f69cf53ccb077476d144baadda3dc5aefe398839777#rd"/>
         <updated>2023-06-27T16:00:00.000Z</updated>
         <published>2023-06-27T16:00:00.000Z</published>
     </entry>

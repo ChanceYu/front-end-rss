@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-04 18:00:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-04 21:00:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493) ![](/assets/new.png)  
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)  
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490)  
@@ -61,7 +62,6 @@
 - [2023-03-02-Playing-in-the-sandbox](https://nodeweekly.com/issues/476)  
 - [2023-02-23-Single-executable-apps-come-to-Node-core](https://nodeweekly.com/issues/475)  
 - [2023-02-16-Automatic-integration-tests-for-Express-apps](https://nodeweekly.com/issues/474)  
-- [2023-02-09-Node-gets-a-new-URL-parser](https://nodeweekly.com/issues/473)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-07-04-面到了一个Vue3超厉害的前端人才...](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615385&idx=1&sn=03dd6860420ea38cde35e2576a849c66&chksm=8022a758b7552e4e14f70df0a44aaa116b4a06ba18f20e4e1101f49007f9925738f4907af2b7#rd) ![](/assets/new.png)  
-- [2023-07-04-记录一次前端优化首屏时间-70%-的优化过程~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615385&idx=2&sn=c818a6e30aaac6330868ad5ad6ff6f59&chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd) ![](/assets/new.png)  
+- [2023-07-04-面到了一个Vue3超厉害的前端人才...](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615385&idx=1&sn=03dd6860420ea38cde35e2576a849c66&chksm=8022a758b7552e4e14f70df0a44aaa116b4a06ba18f20e4e1101f49007f9925738f4907af2b7#rd)  
+- [2023-07-04-记录一次前端优化首屏时间-70%-的优化过程~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615385&idx=2&sn=c818a6e30aaac6330868ad5ad6ff6f59&chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd)  
 - [2023-07-03-50+-可以帮助提高前端开发效率的-ChatGPT-Prompts](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615354&idx=2&sn=7591aa49444aa8ab10b8c8fd750654d3&chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd)  
 - [2023-07-03-2023-再谈前端状态管理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615354&idx=1&sn=1085376e5303c8e17efde9ac159d5148&chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd)  
 - [2023-06-30-Babel？No！AST！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615329&idx=2&sn=7f62321f923ac426930e3f36c9c8b7bb&chksm=8022a7a0b7552eb66e1b90aaaac48e217e73caeea583ba6acb6df28ddd617c997c1f2c579248#rd)  
