@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-04T07:01:25.550Z</updated>
+    <updated>2023-07-04T10:00:51.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,20 @@
         <title type="html"><![CDATA[这可能是我见过最好最全的JavaScript题库！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515154&amp;idx=1&amp;sn=134d86701e8a60d55892975fbc23c03e&amp;chksm=f992bac3cee533d5395ea11467b2857a56c4f3ae1931399a110dd6aa28819fab1dea2517c346#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515154&amp;idx=1&amp;sn=134d86701e8a60d55892975fbc23c03e&amp;chksm=f992bac3cee533d5395ea11467b2857a56c4f3ae1931399a110dd6aa28819fab1dea2517c346#rd"/>
+        <updated>2023-07-03T16:00:00.000Z</updated>
+        <published>2023-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录一次前端优化首屏时间 70% 的优化过程~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=2&amp;sn=c818a6e30aaac6330868ad5ad6ff6f59&amp;chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=2&amp;sn=c818a6e30aaac6330868ad5ad6ff6f59&amp;chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd"/>
+        <updated>2023-07-03T16:00:00.000Z</updated>
+        <published>2023-07-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才...]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=1&amp;sn=03dd6860420ea38cde35e2576a849c66&amp;chksm=8022a758b7552e4e14f70df0a44aaa116b4a06ba18f20e4e1101f49007f9925738f4907af2b7#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=1&amp;sn=03dd6860420ea38cde35e2576a849c66&amp;chksm=8022a758b7552e4e14f70df0a44aaa116b4a06ba18f20e4e1101f49007f9925738f4907af2b7#rd"/>
         <updated>2023-07-03T16:00:00.000Z</updated>
         <published>2023-07-03T16:00:00.000Z</published>
     </entry>
@@ -99,16 +113,16 @@
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50+ 可以帮助提高前端开发效率的 ChatGPT Prompts]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=2&amp;sn=7591aa49444aa8ab10b8c8fd750654d3&amp;chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=2&amp;sn=7591aa49444aa8ab10b8c8fd750654d3&amp;chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd"/>
+        <title type="html"><![CDATA[2023 再谈前端状态管理]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=1&amp;sn=1085376e5303c8e17efde9ac159d5148&amp;chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=1&amp;sn=1085376e5303c8e17efde9ac159d5148&amp;chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd"/>
         <updated>2023-07-02T16:00:00.000Z</updated>
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 再谈前端状态管理]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=1&amp;sn=1085376e5303c8e17efde9ac159d5148&amp;chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=1&amp;sn=1085376e5303c8e17efde9ac159d5148&amp;chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd"/>
+        <title type="html"><![CDATA[50+ 可以帮助提高前端开发效率的 ChatGPT Prompts]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=2&amp;sn=7591aa49444aa8ab10b8c8fd750654d3&amp;chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=2&amp;sn=7591aa49444aa8ab10b8c8fd750654d3&amp;chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd"/>
         <updated>2023-07-02T16:00:00.000Z</updated>
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
@@ -246,16 +260,16 @@
         <published>2023-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Babel？No！AST！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=2&amp;sn=7f62321f923ac426930e3f36c9c8b7bb&amp;chksm=8022a7a0b7552eb66e1b90aaaac48e217e73caeea583ba6acb6df28ddd617c997c1f2c579248#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=2&amp;sn=7f62321f923ac426930e3f36c9c8b7bb&amp;chksm=8022a7a0b7552eb66e1b90aaaac48e217e73caeea583ba6acb6df28ddd617c997c1f2c579248#rd"/>
+        <title type="html"><![CDATA[ssh2.js+Shell 一套组合拳下来，一年要花 2080 分钟做的工作竟然节省到 52 分钟～]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=1&amp;sn=9d86516604aebc21b6ff2844e448ef5a&amp;chksm=8022a7a0b7552eb69606620866fff1433e0aaa1f8eb6884758f024e02b5de371914aa6e6f9ef#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=1&amp;sn=9d86516604aebc21b6ff2844e448ef5a&amp;chksm=8022a7a0b7552eb69606620866fff1433e0aaa1f8eb6884758f024e02b5de371914aa6e6f9ef#rd"/>
         <updated>2023-06-29T16:00:00.000Z</updated>
         <published>2023-06-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ssh2.js+Shell 一套组合拳下来，一年要花 2080 分钟做的工作竟然节省到 52 分钟～]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=1&amp;sn=9d86516604aebc21b6ff2844e448ef5a&amp;chksm=8022a7a0b7552eb69606620866fff1433e0aaa1f8eb6884758f024e02b5de371914aa6e6f9ef#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=1&amp;sn=9d86516604aebc21b6ff2844e448ef5a&amp;chksm=8022a7a0b7552eb69606620866fff1433e0aaa1f8eb6884758f024e02b5de371914aa6e6f9ef#rd"/>
+        <title type="html"><![CDATA[Babel？No！AST！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=2&amp;sn=7f62321f923ac426930e3f36c9c8b7bb&amp;chksm=8022a7a0b7552eb66e1b90aaaac48e217e73caeea583ba6acb6df28ddd617c997c1f2c579248#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615329&amp;idx=2&amp;sn=7f62321f923ac426930e3f36c9c8b7bb&amp;chksm=8022a7a0b7552eb66e1b90aaaac48e217e73caeea583ba6acb6df28ddd617c997c1f2c579248#rd"/>
         <updated>2023-06-29T16:00:00.000Z</updated>
         <published>2023-06-29T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[今年这情况。。。多一个选择吧]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498259&amp;idx=1&amp;sn=db0ec801ae1689b3cf2f7fe222ff7982&amp;chksm=c2b33becf5c4b2fa799c044c1757761d7f69cf53ccb077476d144baadda3dc5aefe398839777#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498259&amp;idx=1&amp;sn=db0ec801ae1689b3cf2f7fe222ff7982&amp;chksm=c2b33becf5c4b2fa799c044c1757761d7f69cf53ccb077476d144baadda3dc5aefe398839777#rd"/>
-        <updated>2023-06-27T16:00:00.000Z</updated>
-        <published>2023-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能时代，前端如何抓住机会]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503627&amp;idx=1&amp;sn=4e1913e4f8d3e936fdef32d2357eaa3e&amp;chksm=cea9780af9def11cd0389fe2d3a6e6850fcfe87c072d2d2bae220a0383ff107f89a9e781294c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247503627&amp;idx=1&amp;sn=4e1913e4f8d3e936fdef32d2357eaa3e&amp;chksm=cea9780af9def11cd0389fe2d3a6e6850fcfe87c072d2d2bae220a0383ff107f89a9e781294c#rd"/>
-        <updated>2023-06-27T16:00:00.000Z</updated>
-        <published>2023-06-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496013&amp;idx=1&amp;sn=5e7eb417e3c98ccc055c76614ec35c8c&amp;chksm=ce2692bbf9511badd2a03973232cd6bb826f61ab297f94dfb575577a2c0d5bd5ebfbc03caf27#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496013&amp;idx=1&amp;sn=5e7eb417e3c98ccc055c76614ec35c8c&amp;chksm=ce2692bbf9511badd2a03973232cd6bb826f61ab297f94dfb575577a2c0d5bd5ebfbc03caf27#rd"/>
         <updated>2023-06-27T16:00:00.000Z</updated>
         <published>2023-06-27T16:00:00.000Z</published>
     </entry>
