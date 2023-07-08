@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-07T22:00:46.938Z</updated>
+    <updated>2023-07-08T02:00:46.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[带你了解并实践monorepo和pnpm，绝对干货！熬夜总结！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489392&amp;idx=1&amp;sn=00993837208ab1cc86eae2f137de02e5&amp;chksm=ce4602e1f9318bf7529f076d2e94aa183d5c952f5ebe53106631aaa50c1799c15bd756038244#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489392&amp;idx=1&amp;sn=00993837208ab1cc86eae2f137de02e5&amp;chksm=ce4602e1f9318bf7529f076d2e94aa183d5c952f5ebe53106631aaa50c1799c15bd756038244#rd"/>
+        <updated>2023-07-06T16:00:00.000Z</updated>
+        <published>2023-07-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript中的Object.keys类型为什么非要这么设计？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521347&amp;idx=1&amp;sn=f3c8c094efef227608fbc3022596039b&amp;chksm=f9522100ce25a81607ab7961f54e0b3bce51b6cce16775181705de898c514ac89b9572e7d8a9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521347&amp;idx=1&amp;sn=f3c8c094efef227608fbc3022596039b&amp;chksm=f9522100ce25a81607ab7961f54e0b3bce51b6cce16775181705de898c514ac89b9572e7d8a9#rd"/>
         <updated>2023-07-06T16:00:00.000Z</updated>
         <published>2023-07-06T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2023 再谈前端状态管理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=1&amp;sn=1085376e5303c8e17efde9ac159d5148&amp;chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=1&amp;sn=1085376e5303c8e17efde9ac159d5148&amp;chksm=8022a7bbb7552ead4b42ea53dd657514b732732c57c21d0e3ec12ae0eefa7ecc5c5275c31c45#rd"/>
-        <updated>2023-07-02T16:00:00.000Z</updated>
-        <published>2023-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50+ 可以帮助提高前端开发效率的 ChatGPT Prompts]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=2&amp;sn=7591aa49444aa8ab10b8c8fd750654d3&amp;chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615354&amp;idx=2&amp;sn=7591aa49444aa8ab10b8c8fd750654d3&amp;chksm=8022a7bbb7552ead62658d4d0463b3edebd195ad7140cc97dd3e708ff3b2a9fd0b386e59be45#rd"/>
         <updated>2023-07-02T16:00:00.000Z</updated>
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
