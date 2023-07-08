@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-08T07:01:47.141Z</updated>
+    <updated>2023-07-08T10:01:36.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[6 个 AI 工具，让你的前端代码生产力上天！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512316&amp;idx=1&amp;sn=269a67ade16f7bce4deb216b00807324&amp;chksm=eb078885dc70019384499940782f55bcd84ae48c2986eb390969df9727e53688b5cad51255a5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512316&amp;idx=1&amp;sn=269a67ade16f7bce4deb216b00807324&amp;chksm=eb078885dc70019384499940782f55bcd84ae48c2986eb390969df9727e53688b5cad51255a5#rd"/>
+        <updated>2023-07-07T16:00:00.000Z</updated>
+        <published>2023-07-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端防抖真的是万能的吗？我们花5分钟来讨论这个好问题~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489404&amp;idx=1&amp;sn=3efc7d15cd039b09e79dce744201d497&amp;chksm=ce4602edf9318bfbddb72ea95dea197334a1254719d06574a4a5d5c0b2e48ce1f70eb2cdb624#rd</id>
@@ -99,16 +106,16 @@
         <published>2023-07-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=1&amp;sn=cebbcba1674c8e192e962ead3a2f1201&amp;chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=1&amp;sn=cebbcba1674c8e192e962ead3a2f1201&amp;chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd"/>
+        <title type="html"><![CDATA[分享几个上千星的React开源库，助你玩转React]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=2&amp;sn=86255da7adeb1d0c9b5042f178fd5f3a&amp;chksm=eb0788c0dc7001d68844e00898d6859363141676c1e93401aa3578ab9ea0ee7de6d562c5d305#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=2&amp;sn=86255da7adeb1d0c9b5042f178fd5f3a&amp;chksm=eb0788c0dc7001d68844e00898d6859363141676c1e93401aa3578ab9ea0ee7de6d562c5d305#rd"/>
         <updated>2023-07-05T16:00:00.000Z</updated>
         <published>2023-07-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[分享几个上千星的React开源库，助你玩转React]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=2&amp;sn=86255da7adeb1d0c9b5042f178fd5f3a&amp;chksm=eb0788c0dc7001d68844e00898d6859363141676c1e93401aa3578ab9ea0ee7de6d562c5d305#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=2&amp;sn=86255da7adeb1d0c9b5042f178fd5f3a&amp;chksm=eb0788c0dc7001d68844e00898d6859363141676c1e93401aa3578ab9ea0ee7de6d562c5d305#rd"/>
+        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=1&amp;sn=cebbcba1674c8e192e962ead3a2f1201&amp;chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=1&amp;sn=cebbcba1674c8e192e962ead3a2f1201&amp;chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd"/>
         <updated>2023-07-05T16:00:00.000Z</updated>
         <published>2023-07-05T16:00:00.000Z</published>
     </entry>
@@ -323,16 +330,16 @@
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 又出新关键字了？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=2&amp;sn=161aad2f922c3f76823ed25019636c18&amp;chksm=eb0788e8dc7001fe1313b8bb9bd7a646ac437a1a66acdb012d898340feebdd38fd02ffa8d074#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=2&amp;sn=161aad2f922c3f76823ed25019636c18&amp;chksm=eb0788e8dc7001fe1313b8bb9bd7a646ac437a1a66acdb012d898340feebdd38fd02ffa8d074#rd"/>
+        <title type="html"><![CDATA[最近，前端岗位爆了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=1&amp;sn=d4b4cf27e64bc2ee78245614407ab088&amp;chksm=eb0788e8dc7001feed242fca7df63fcfd970a049089693286ecdf885c025a527d66f58835553#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=1&amp;sn=d4b4cf27e64bc2ee78245614407ab088&amp;chksm=eb0788e8dc7001feed242fca7df63fcfd970a049089693286ecdf885c025a527d66f58835553#rd"/>
         <updated>2023-07-02T16:00:00.000Z</updated>
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近，前端岗位爆了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=1&amp;sn=d4b4cf27e64bc2ee78245614407ab088&amp;chksm=eb0788e8dc7001feed242fca7df63fcfd970a049089693286ecdf885c025a527d66f58835553#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=1&amp;sn=d4b4cf27e64bc2ee78245614407ab088&amp;chksm=eb0788e8dc7001feed242fca7df63fcfd970a049089693286ecdf885c025a527d66f58835553#rd"/>
+        <title type="html"><![CDATA[TypeScript 又出新关键字了？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=2&amp;sn=161aad2f922c3f76823ed25019636c18&amp;chksm=eb0788e8dc7001fe1313b8bb9bd7a646ac437a1a66acdb012d898340feebdd38fd02ffa8d074#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512209&amp;idx=2&amp;sn=161aad2f922c3f76823ed25019636c18&amp;chksm=eb0788e8dc7001fe1313b8bb9bd7a646ac437a1a66acdb012d898340feebdd38fd02ffa8d074#rd"/>
         <updated>2023-07-02T16:00:00.000Z</updated>
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我用 React+TS 从 0 到 1 实现一个 Terminal 终端]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515145&amp;idx=1&amp;sn=3014f99656dc122520f5955e9e260995&amp;chksm=f992bad8cee533ce16ca95532eac84fee42a6eb0c20ef55616dc4a79277716af5e1e9f573c2c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515145&amp;idx=1&amp;sn=3014f99656dc122520f5955e9e260995&amp;chksm=f992bad8cee533ce16ca95532eac84fee42a6eb0c20ef55616dc4a79277716af5e1e9f573c2c#rd"/>
-        <updated>2023-07-02T16:00:00.000Z</updated>
-        <published>2023-07-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489301&amp;idx=1&amp;sn=ccf94cc133d6045293b090ceb9c42a0b&amp;chksm=ce460284f9318b92cda0bcc49cdce30e6919cd37d99ef8b57bc11642058fc037f0a304914137#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489301&amp;idx=1&amp;sn=ccf94cc133d6045293b090ceb9c42a0b&amp;chksm=ce460284f9318b92cda0bcc49cdce30e6919cd37d99ef8b57bc11642058fc037f0a304914137#rd"/>
         <updated>2023-07-02T16:00:00.000Z</updated>
         <published>2023-07-02T16:00:00.000Z</published>
     </entry>
