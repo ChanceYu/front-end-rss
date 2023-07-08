@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-08 10:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-08 15:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -9,6 +9,7 @@
 
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
+- [2023-07-08-【第2992期】基于-Nginx-实现一个灰度上线系统](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263717&idx=1&sn=b34dd1edd4c089102ecc683c00bf18d8&chksm=bd48cb618a3f4277d610cf290d037a4a60ab5d5b7b5af4a434c916424ee38ddcd3999df7f23c#rd) 
 - [2023-05-24-一行命令，安装你的TinyCLI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=2&sn=c356ac4d99a7e8ec7a440f364bb3be9c&chksm=bd48d6a88a3f5fbe665efdc480727bdb934e37c3d6470acf003ee9f819339d216c15e64c155e#rd) 
 - [2023-03-04-【第2874期】新时代的-SSR-框架破局者：qwik](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261123&idx=1&sn=88fd5ce78243329e3943a4ce56fe38cc&chksm=bd48d1478a3f585191d77def1b4264e2babc49db22529b23b9e27ed30fbfdee3e4908f4d3c9a#rd) 
 - [2023-01-04-【第2827期】基于-GraphQL-的云音乐-BFF-建设实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=1&sn=a8f7b282ef1297f4b26388ff9430d195&chksm=bd48dd438a3f54554cfe9a628c14d74b7578bf5d244b227b595e6550d78c044f5c315d0d0d31#rd) 
