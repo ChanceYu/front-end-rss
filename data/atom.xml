@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-10T07:00:51.902Z</updated>
+    <updated>2023-07-10T10:00:52.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,30 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[如何方便的检测React项目的性能？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=2&amp;sn=7df7adfed377416060c5d6a0e592eecb&amp;chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=2&amp;sn=7df7adfed377416060c5d6a0e592eecb&amp;chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd"/>
+        <updated>2023-07-09T16:00:00.000Z</updated>
+        <published>2023-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3在今年面试中火到离谱。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=1&amp;sn=b380ff3fcf7919a10e9e132909a1ff5a&amp;chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=1&amp;sn=b380ff3fcf7919a10e9e132909a1ff5a&amp;chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd"/>
+        <updated>2023-07-09T16:00:00.000Z</updated>
+        <published>2023-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[精读《自由布局吸附线的实现》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487094&amp;idx=1&amp;sn=cf3662f1c8e98b75eeaf826bd3465c5a&amp;chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487094&amp;idx=1&amp;sn=cf3662f1c8e98b75eeaf826bd3465c5a&amp;chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd"/>
+        <updated>2023-07-09T16:00:00.000Z</updated>
+        <published>2023-07-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端打包加个性能检测~性能不过关就发邮件告诉领导！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489448&amp;idx=1&amp;sn=4e688094c6c890b5a6875b9a7f870f78&amp;chksm=ce460239f9318b2f48ca82b4f6b1a44c2288a99076c42e0d310d02cae4647823ff002285afeb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489448&amp;idx=1&amp;sn=4e688094c6c890b5a6875b9a7f870f78&amp;chksm=ce460239f9318b2f48ca82b4f6b1a44c2288a99076c42e0d310d02cae4647823ff002285afeb#rd"/>
         <updated>2023-07-09T16:00:00.000Z</updated>
         <published>2023-07-09T16:00:00.000Z</published>
     </entry>
@@ -239,16 +260,16 @@
         <published>2023-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人工智能时代，前端如何抓住机会]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=2&amp;sn=e6d311ff2e727b9d43ed7aefeb54f92b&amp;chksm=c2b33bdcf5c4b2ca634d193e7043bc9915f381e3b8b928fa59d713ed7d3e9895279a928e8c71#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=2&amp;sn=e6d311ff2e727b9d43ed7aefeb54f92b&amp;chksm=c2b33bdcf5c4b2ca634d193e7043bc9915f381e3b8b928fa59d713ed7d3e9895279a928e8c71#rd"/>
+        <title type="html"><![CDATA[卧槽，卡上了前端面试的bug。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=1&amp;sn=c9fd02cb02be7f7fd628dd9a83575c70&amp;chksm=c2b33bdcf5c4b2cae70dd25bba2fe9b5c3dd45ba4b65d3fb4219ab45ab1bd6037af0a65c3d13#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=1&amp;sn=c9fd02cb02be7f7fd628dd9a83575c70&amp;chksm=c2b33bdcf5c4b2cae70dd25bba2fe9b5c3dd45ba4b65d3fb4219ab45ab1bd6037af0a65c3d13#rd"/>
         <updated>2023-07-04T16:00:00.000Z</updated>
         <published>2023-07-04T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[卧槽，卡上了前端面试的bug。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=1&amp;sn=c9fd02cb02be7f7fd628dd9a83575c70&amp;chksm=c2b33bdcf5c4b2cae70dd25bba2fe9b5c3dd45ba4b65d3fb4219ab45ab1bd6037af0a65c3d13#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=1&amp;sn=c9fd02cb02be7f7fd628dd9a83575c70&amp;chksm=c2b33bdcf5c4b2cae70dd25bba2fe9b5c3dd45ba4b65d3fb4219ab45ab1bd6037af0a65c3d13#rd"/>
+        <title type="html"><![CDATA[人工智能时代，前端如何抓住机会]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=2&amp;sn=e6d311ff2e727b9d43ed7aefeb54f92b&amp;chksm=c2b33bdcf5c4b2ca634d193e7043bc9915f381e3b8b928fa59d713ed7d3e9895279a928e8c71#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498275&amp;idx=2&amp;sn=e6d311ff2e727b9d43ed7aefeb54f92b&amp;chksm=c2b33bdcf5c4b2ca634d193e7043bc9915f381e3b8b928fa59d713ed7d3e9895279a928e8c71#rd"/>
         <updated>2023-07-04T16:00:00.000Z</updated>
         <published>2023-07-04T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[这可能是我见过最好最全的JavaScript题库！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515154&amp;idx=1&amp;sn=134d86701e8a60d55892975fbc23c03e&amp;chksm=f992bac3cee533d5395ea11467b2857a56c4f3ae1931399a110dd6aa28819fab1dea2517c346#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515154&amp;idx=1&amp;sn=134d86701e8a60d55892975fbc23c03e&amp;chksm=f992bac3cee533d5395ea11467b2857a56c4f3ae1931399a110dd6aa28819fab1dea2517c346#rd"/>
-        <updated>2023-07-03T16:00:00.000Z</updated>
-        <published>2023-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Nodejs中用setTimeout做定时任务？我差点酿成大祸！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489320&amp;idx=1&amp;sn=b6d1b2f1f622ff4777bcb2287f380a8b&amp;chksm=ce4602b9f9318baf12c2f774d51de55132db014d673ef66c0df8c90e2c526b7c1de959653756#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489320&amp;idx=1&amp;sn=b6d1b2f1f622ff4777bcb2287f380a8b&amp;chksm=ce4602b9f9318baf12c2f774d51de55132db014d673ef66c0df8c90e2c526b7c1de959653756#rd"/>
-        <updated>2023-07-03T16:00:00.000Z</updated>
-        <published>2023-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记录一次前端优化首屏时间 70% 的优化过程~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=2&amp;sn=c818a6e30aaac6330868ad5ad6ff6f59&amp;chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=2&amp;sn=c818a6e30aaac6330868ad5ad6ff6f59&amp;chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd"/>
-        <updated>2023-07-03T16:00:00.000Z</updated>
-        <published>2023-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才...]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=1&amp;sn=03dd6860420ea38cde35e2576a849c66&amp;chksm=8022a758b7552e4e14f70df0a44aaa116b4a06ba18f20e4e1101f49007f9925738f4907af2b7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615385&amp;idx=1&amp;sn=03dd6860420ea38cde35e2576a849c66&amp;chksm=8022a758b7552e4e14f70df0a44aaa116b4a06ba18f20e4e1101f49007f9925738f4907af2b7#rd"/>
         <updated>2023-07-03T16:00:00.000Z</updated>
         <published>2023-07-03T16:00:00.000Z</published>
     </entry>
