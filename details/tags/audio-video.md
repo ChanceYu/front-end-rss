@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-12 21:01:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-13 06:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -49,6 +49,7 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2023-07-12-Chrome-震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615864&idx=2&sn=9a2af4b2c82d36cc8289a25eaa1b33a1&chksm=8022a5b9b7552caf8c923d3f40c4638f95fd0abefe2ca8ab5131211a9aaa690971688784624b#rd) 
 - [2021-06-23-设计灵感：12-组收音机播放器-APP-设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578080&idx=4&sn=6ad38acf4eeb58f2b95a05acee38820a&chksm=80250921b75280377a1f651b5c7e8a6adaf86ae4422fac7e599440b73b5dc7db45e81ff8393a&scene=27#wechat_redirect) 
 - [2021-06-20-设计灵感：12组音乐播放器界面设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578041&idx=4&sn=b1d15fd8e70a6f657ebe1df598c83a50&chksm=80250978b752806e60a85b39a6b0bc9fd75fd182a9043a08036fa50554ef51e4ffb4f2a7aee2&scene=27#wechat_redirect) 
 - [2021-05-23-设计灵感-：-12款暗色系音乐播放器页面](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576264&idx=4&sn=0c305619d86aea8dfa59d608d15a2173&chksm=80250009b752891f7dbcceb3ca24d1ac3c3e654f21d152d640b8e07245a1ff6d2ee2fcc05dd6&scene=27#wechat_redirect) 
