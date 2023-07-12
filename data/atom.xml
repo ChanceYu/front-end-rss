@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-12T10:00:59.763Z</updated>
+    <updated>2023-07-12T13:01:19.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[Bun，打包比 webpack 快 220 倍]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512399&amp;idx=1&amp;sn=b5400c9cb91aae1981ea18dbf88b75ae&amp;chksm=eb078936dc700020311b0d723036086dbed914c4c1490de977952c64b08993c0fd80c5394f84#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512399&amp;idx=1&amp;sn=b5400c9cb91aae1981ea18dbf88b75ae&amp;chksm=eb078936dc700020311b0d723036086dbed914c4c1490de977952c64b08993c0fd80c5394f84#rd"/>
+        <updated>2023-07-10T16:00:00.000Z</updated>
+        <published>2023-07-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 90 期：Prettier 3.0、Vite 4.4.0、npm 生态系统核心问题、RSC 组件争议]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498290&amp;idx=1&amp;sn=cf3af1adf4d07e72bbc30016d13a1bf8&amp;chksm=c2b33bcdf5c4b2db83942b84c242f190ae85ce3c08b1081c9df6aea3b990c57d7c6def4eee95#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498290&amp;idx=1&amp;sn=cf3af1adf4d07e72bbc30016d13a1bf8&amp;chksm=c2b33bcdf5c4b2db83942b84c242f190ae85ce3c08b1081c9df6aea3b990c57d7c6def4eee95#rd"/>
         <updated>2023-07-10T16:00:00.000Z</updated>
         <published>2023-07-10T16:00:00.000Z</published>
     </entry>
@@ -113,16 +120,16 @@
         <published>2023-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何方便的检测React项目的性能？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=2&amp;sn=7df7adfed377416060c5d6a0e592eecb&amp;chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=2&amp;sn=7df7adfed377416060c5d6a0e592eecb&amp;chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd"/>
+        <title type="html"><![CDATA[Vue3在今年面试中火到离谱。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=1&amp;sn=b380ff3fcf7919a10e9e132909a1ff5a&amp;chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=1&amp;sn=b380ff3fcf7919a10e9e132909a1ff5a&amp;chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd"/>
         <updated>2023-07-09T16:00:00.000Z</updated>
         <published>2023-07-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue3在今年面试中火到离谱。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=1&amp;sn=b380ff3fcf7919a10e9e132909a1ff5a&amp;chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=1&amp;sn=b380ff3fcf7919a10e9e132909a1ff5a&amp;chksm=c2b33bd4f5c4b2c23755f02e54f15dd5420173172e376cbd72a2e2cfc31b2b03c1efa6ec0de9#rd"/>
+        <title type="html"><![CDATA[如何方便的检测React项目的性能？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=2&amp;sn=7df7adfed377416060c5d6a0e592eecb&amp;chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498283&amp;idx=2&amp;sn=7df7adfed377416060c5d6a0e592eecb&amp;chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd"/>
         <updated>2023-07-09T16:00:00.000Z</updated>
         <published>2023-07-09T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[公司新来了一个大佬，把Vue+React 玩的炉火纯青！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615739&amp;idx=1&amp;sn=2e15dac7fd83e19c965e6d16c60e4c92&amp;chksm=8022a63ab7552f2cfa3a67a76e1f837b60bb6d92fad23ab61005bb7b4e2ba3f5d842f02475dc#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615739&amp;idx=1&amp;sn=2e15dac7fd83e19c965e6d16c60e4c92&amp;chksm=8022a63ab7552f2cfa3a67a76e1f837b60bb6d92fad23ab61005bb7b4e2ba3f5d842f02475dc#rd"/>
-        <updated>2023-07-05T16:00:00.000Z</updated>
-        <published>2023-07-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 奇技淫巧：debugger 拦截]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615739&amp;idx=2&amp;sn=79b7e46ecf9653dcce5f9509865643f3&amp;chksm=8022a63ab7552f2cbe202571c5366ece51394c6844c3ece04f20f9df49c2e2effc3c8d7dec30#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615739&amp;idx=2&amp;sn=79b7e46ecf9653dcce5f9509865643f3&amp;chksm=8022a63ab7552f2cbe202571c5366ece51394c6844c3ece04f20f9df49c2e2effc3c8d7dec30#rd"/>
         <updated>2023-07-05T16:00:00.000Z</updated>
         <published>2023-07-05T16:00:00.000Z</published>
     </entry>
