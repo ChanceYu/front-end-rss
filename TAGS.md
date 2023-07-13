@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-07-13 21:00:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-07-14 06:00:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -737,9 +737,9 @@
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
+- [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [【JavaScript-Weekly】Svelte-4-released](https://javascriptweekly.com/issues/644)
 - [【JavaScript-Weekly】Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)
-- [【JavaScript-Weekly】jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
