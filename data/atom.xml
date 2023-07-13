@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-13T02:00:46.223Z</updated>
+    <updated>2023-07-13T07:01:15.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[CSS的will-change，为什么有时候能优化几十倍的性能？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489475&amp;idx=1&amp;sn=850f93453117c4e7bb74a8979be632cb&amp;chksm=ce460252f9318b445b5f366189b7b489c31a9098c097072b79d0ab1c0b981c41a964d1c15315#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489475&amp;idx=1&amp;sn=850f93453117c4e7bb74a8979be632cb&amp;chksm=ce460252f9318b445b5f366189b7b489c31a9098c097072b79d0ab1c0b981c41a964d1c15315#rd"/>
+        <updated>2023-07-11T16:00:00.000Z</updated>
+        <published>2023-07-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 Ruby 到 Node：重写 Shopify CLI，提升开发体验]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521401&amp;idx=1&amp;sn=44d34149e7fe31d466728a983ad6ca0c&amp;chksm=f952213ace25a82c8df4366e3ef0ad6f22961834890885418670fc94f73eb591113f62571e6f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521401&amp;idx=1&amp;sn=44d34149e7fe31d466728a983ad6ca0c&amp;chksm=f952213ace25a82c8df4366e3ef0ad6f22961834890885418670fc94f73eb591113f62571e6f#rd"/>
         <updated>2023-07-11T16:00:00.000Z</updated>
         <published>2023-07-11T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263668&amp;idx=1&amp;sn=33e2a54f9f757adf2dd4fd1c1a5945b6&amp;chksm=bd48cb308a3f4226aa3953a4506eb43f68e1e838c4c84560ce3d3ed1f2cafb44fcbb60130e33#rd"/>
         <updated>2023-07-06T16:00:00.000Z</updated>
         <published>2023-07-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=1&amp;sn=cebbcba1674c8e192e962ead3a2f1201&amp;chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512249&amp;idx=1&amp;sn=cebbcba1674c8e192e962ead3a2f1201&amp;chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd"/>
-        <updated>2023-07-05T16:00:00.000Z</updated>
-        <published>2023-07-05T16:00:00.000Z</published>
     </entry>
 </feed>
