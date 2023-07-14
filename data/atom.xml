@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-14T04:03:10.013Z</updated>
+    <updated>2023-07-14T13:01:33.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 262 期）：告别密码]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html"/>
+        <updated>2023-07-13T16:00:00.000Z</updated>
+        <published>2023-07-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端文件流、切片下载和上传：优化文件传输效率与用户体验]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489517&amp;idx=1&amp;sn=e23231ffaa67198837e944cabb481bb2&amp;chksm=ce46027cf9318b6aad201306270b4765e64e422d931f1312a3993704729a5c730fe14ae62f8d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489517&amp;idx=1&amp;sn=e23231ffaa67198837e944cabb481bb2&amp;chksm=ce46027cf9318b6aad201306270b4765e64e422d931f1312a3993704729a5c730fe14ae62f8d#rd"/>
         <updated>2023-07-13T16:00:00.000Z</updated>
         <published>2023-07-13T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何精确统计页面停留时长]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515183&amp;idx=1&amp;sn=7c4d62384333c6d3316fcbf4eb52c4cf&amp;chksm=f992bafecee533e801894a5f44902899abb256406af5ef4a6b209de859151207c4ebad682089#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515183&amp;idx=1&amp;sn=7c4d62384333c6d3316fcbf4eb52c4cf&amp;chksm=f992bafecee533e801894a5f44902899abb256406af5ef4a6b209de859151207c4ebad682089#rd"/>
-        <updated>2023-07-07T16:00:00.000Z</updated>
-        <published>2023-07-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端防抖真的是万能的吗？我们花5分钟来讨论这个好问题~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489404&amp;idx=1&amp;sn=3efc7d15cd039b09e79dce744201d497&amp;chksm=ce4602edf9318bfbddb72ea95dea197334a1254719d06574a4a5d5c0b2e48ce1f70eb2cdb624#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489404&amp;idx=1&amp;sn=3efc7d15cd039b09e79dce744201d497&amp;chksm=ce4602edf9318bfbddb72ea95dea197334a1254719d06574a4a5d5c0b2e48ce1f70eb2cdb624#rd"/>
         <updated>2023-07-07T16:00:00.000Z</updated>
         <published>2023-07-07T16:00:00.000Z</published>
     </entry>

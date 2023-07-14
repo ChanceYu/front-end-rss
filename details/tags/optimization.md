@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-14 12:03:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-14 21:01:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -157,6 +157,7 @@
 - [2019-01-24-加载时间从4.6s降到0.7s，谷歌开源quicklink](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490332&idx=1&sn=e8e097e0623bc1136102cb7b56a40f35#wechat_redirect) 
 - [2018-11-21-前端黑科技：美团网页首帧优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489935&idx=1&sn=f59537133b8548caf5a513ee95ecc1be#wechat_redirect) 
 - [2018-11-12-Netflix-网页性能优化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489850&idx=1&sn=d93f40ba6ded642073017eae63a0096f#wechat_redirect) 
+- [2023-07-14-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489517&idx=1&sn=e23231ffaa67198837e944cabb481bb2&chksm=ce46027cf9318b6aad201306270b4765e64e422d931f1312a3993704729a5c730fe14ae62f8d#rd) 
 - [2023-07-10-前端打包加个性能检测~性能不过关就发邮件告诉领导！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489448&idx=1&sn=4e688094c6c890b5a6875b9a7f870f78&chksm=ce460239f9318b2f48ca82b4f6b1a44c2288a99076c42e0d310d02cae4647823ff002285afeb#rd) 
 - [2023-06-23-前端性能优化，我会从这几个角度去回答你！超级详细！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489243&idx=1&sn=a3e341f1bb41e35ecf1da8b6b56ecdc6&chksm=ce46034af9318a5cb2dd1ff07f8e3c7749327b7dea99013482187f9a894ae5c511e2b4065a70#rd) 
 - [2023-05-16-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247488876&idx=1&sn=a18c7ddf896b0bbc5a56c122aa45de0f&chksm=ce4600fdf93189eb61e54c15fe5d24a326984b7a3f5cc050c8f29c08df0e9b75590e3e395a9b#rd) 
