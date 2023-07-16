@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-16 21:01:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-17 06:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -16,6 +16,7 @@
 - [2022-10-07-Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609) 
 - [2022-09-30-How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608) 
 - [2022-03-04-TypeScript-2.6-released](https://javascriptweekly.com/issues/579) 
+- [2023-07-16-【第3000期】TypeScript-的演进之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264004&idx=1&sn=2fad27fc70848c861570cfd2fe10823b&chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd) 
 - [2023-05-16-【第2942期】ts-migrate：快速将JavaScript迁移到TypeScript！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262585&idx=1&sn=7dff14f620a9c4807f29f8eb88ae232c&chksm=bd48d7fd8a3f5eebf0f093ddbf4c5e014d77e1837b1341d2e9fd6f697b807e15e768f9ab7a2c#rd) 
 - [2022-10-23-【第2761期】TypeScript-这十年](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258504&idx=1&sn=3c786819819c5d8cab84c25b77b7f839&chksm=bd49270c8a3eae1aff357af3e1bad3a09ec2744d9eef370ad790d6c82c4dd6613d085ceaa653#rd) 
 - [2022-08-11-【第2698期】浅谈-TypeScript-类型系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257150&idx=1&sn=0ccc089da5435ef91cff262b051f8b66&chksm=bd4920ba8a3ea9ac4a0a484281f61d25ca618a70e5ecb4f929f53cb94f73d34a6451e3f74355#rd) 
