@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-17T13:01:11.437Z</updated>
+    <updated>2023-07-17T15:01:03.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[前端已成气候！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515304&amp;idx=1&amp;sn=34d9e41a7d23634ad5825e53b3a35d78&amp;chksm=f992ba79cee5336fa10965cfb853cd37be673f83004b933864e510eb23429cd465c5fb20c432#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515304&amp;idx=1&amp;sn=34d9e41a7d23634ad5825e53b3a35d78&amp;chksm=f992ba79cee5336fa10965cfb853cd37be673f83004b933864e510eb23429cd465c5fb20c432#rd"/>
+        <updated>2023-07-16T16:00:00.000Z</updated>
+        <published>2023-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React困境与未来，何时迎来自己的“Angular.js时刻”？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521452&amp;idx=1&amp;sn=da7e553db8783abecb2f5d372e327a86&amp;chksm=f95221efce25a8f9378aaa146d65e03f6c66ef59fdaf87fd2ff3dd5af7d1b5e78edfacc8634d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521452&amp;idx=1&amp;sn=da7e553db8783abecb2f5d372e327a86&amp;chksm=f95221efce25a8f9378aaa146d65e03f6c66ef59fdaf87fd2ff3dd5af7d1b5e78edfacc8634d#rd"/>
         <updated>2023-07-16T16:00:00.000Z</updated>
         <published>2023-07-16T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[阿里面试官：你让我见识到了前端基础的天花板！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615787&amp;idx=1&amp;sn=bcc13238303a20d592e20193c46a6cac&amp;chksm=8022a5eab7552cfc07d02549daef593033008ca0f425918512a196f27c0c6e7c81c70a4c765e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615787&amp;idx=1&amp;sn=bcc13238303a20d592e20193c46a6cac&amp;chksm=8022a5eab7552cfc07d02549daef593033008ca0f425918512a196f27c0c6e7c81c70a4c765e#rd"/>
-        <updated>2023-07-10T16:00:00.000Z</updated>
-        <published>2023-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[页面一打开就有30个重复请求，我要怎么优化？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615787&amp;idx=2&amp;sn=6f1a2bba365f76957d0f09cd1fd719b6&amp;chksm=8022a5eab7552cfc8362f1387c61107824fdf9c70fc39f8cc1262f4adedb4ba3b12c03c63906#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615787&amp;idx=2&amp;sn=6f1a2bba365f76957d0f09cd1fd719b6&amp;chksm=8022a5eab7552cfc8362f1387c61107824fdf9c70fc39f8cc1262f4adedb4ba3b12c03c63906#rd"/>
         <updated>2023-07-10T16:00:00.000Z</updated>
         <published>2023-07-10T16:00:00.000Z</published>
     </entry>
