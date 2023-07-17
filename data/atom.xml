@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-17T15:01:03.999Z</updated>
+    <updated>2023-07-17T22:00:54.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[前端已成气候！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515304&amp;idx=1&amp;sn=34d9e41a7d23634ad5825e53b3a35d78&amp;chksm=f992ba79cee5336fa10965cfb853cd37be673f83004b933864e510eb23429cd465c5fb20c432#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515304&amp;idx=1&amp;sn=34d9e41a7d23634ad5825e53b3a35d78&amp;chksm=f992ba79cee5336fa10965cfb853cd37be673f83004b933864e510eb23429cd465c5fb20c432#rd"/>
+        <updated>2023-07-16T16:00:00.000Z</updated>
+        <published>2023-07-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[线上BUG引起思考：package.json 中的 ^~ 该保留吗？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489559&amp;idx=1&amp;sn=de20de7b43c85367b7b6acf56f9434a1&amp;chksm=ce460d86f93184904888ee6100ce491964af0f91bd9e11c958e51770701d9c6c0ae44d7bc3cc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489559&amp;idx=1&amp;sn=de20de7b43c85367b7b6acf56f9434a1&amp;chksm=ce460d86f93184904888ee6100ce491964af0f91bd9e11c958e51770701d9c6c0ae44d7bc3cc#rd"/>
         <updated>2023-07-16T16:00:00.000Z</updated>
         <published>2023-07-16T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面了一个26岁前端女生，真的有被震惊到！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489461&amp;idx=1&amp;sn=5e13060f9072d572e348e75631e02977&amp;chksm=ce460224f9318b328569e3f6714d273de43dfc323cdbb6057445636eadf25be5a6ea2376430f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489461&amp;idx=1&amp;sn=5e13060f9072d572e348e75631e02977&amp;chksm=ce460224f9318b328569e3f6714d273de43dfc323cdbb6057445636eadf25be5a6ea2376430f#rd"/>
-        <updated>2023-07-10T16:00:00.000Z</updated>
-        <published>2023-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里面试官：你让我见识到了前端基础的天花板！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615787&amp;idx=1&amp;sn=bcc13238303a20d592e20193c46a6cac&amp;chksm=8022a5eab7552cfc07d02549daef593033008ca0f425918512a196f27c0c6e7c81c70a4c765e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615787&amp;idx=1&amp;sn=bcc13238303a20d592e20193c46a6cac&amp;chksm=8022a5eab7552cfc07d02549daef593033008ca0f425918512a196f27c0c6e7c81c70a4c765e#rd"/>
         <updated>2023-07-10T16:00:00.000Z</updated>
         <published>2023-07-10T16:00:00.000Z</published>
     </entry>
