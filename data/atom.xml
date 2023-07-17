@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-16T22:00:42.844Z</updated>
+    <updated>2023-07-17T00:01:00.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面试官:项目有什么亮点？我:解决了JS脚本加载失败的问题！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489546&amp;idx=1&amp;sn=ab7c394597bf63e81414ac854a4c02ac&amp;chksm=ce460d9bf931848dd3910d779d4858af9182feeef5a6d639d8445f9f8d03ebc043fcf9e82e6c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489546&amp;idx=1&amp;sn=ab7c394597bf63e81414ac854a4c02ac&amp;chksm=ce460d9bf931848dd3910d779d4858af9182feeef5a6d639d8445f9f8d03ebc043fcf9e82e6c#rd"/>
+        <updated>2023-07-15T16:00:00.000Z</updated>
+        <published>2023-07-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3000期】TypeScript 的演进之路]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264004&amp;idx=1&amp;sn=2fad27fc70848c861570cfd2fe10823b&amp;chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[精读《自由布局吸附线的实现》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487094&amp;idx=1&amp;sn=cf3662f1c8e98b75eeaf826bd3465c5a&amp;chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487094&amp;idx=1&amp;sn=cf3662f1c8e98b75eeaf826bd3465c5a&amp;chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd"/>
-        <updated>2023-07-09T16:00:00.000Z</updated>
-        <published>2023-07-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tauri会是 Electron 的替代方案？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515202&amp;idx=1&amp;sn=ca214c0df64ab78d823e962ba00659ae&amp;chksm=f992ba93cee53385ffbfbfaf003d737002c9a5f934b47a7b5a093839c83fddd1d657c427598f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515202&amp;idx=1&amp;sn=ca214c0df64ab78d823e962ba00659ae&amp;chksm=f992ba93cee53385ffbfbfaf003d737002c9a5f934b47a7b5a093839c83fddd1d657c427598f#rd"/>
         <updated>2023-07-09T16:00:00.000Z</updated>
         <published>2023-07-09T16:00:00.000Z</published>
     </entry>
