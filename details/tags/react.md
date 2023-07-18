@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-18 10:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-19 06:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -540,6 +540,7 @@
 - [2023-05-24-Hook-革命！浅谈-React-新-Hook-的未来与思想](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503417&idx=1&sn=f2533bdc07150c739bd21f0adda571b7&chksm=cea97938f9def02e8348b51e1f659182e072ad9c8c4700586ef8cf64e0c3047554e038cbac6e#rd) 
 - [2023-01-12-How-to-build-your-own-React:-Didact-解析](https://mp.weixin.qq.com/s/EL3Qu6SB9pct4d_vF7XVtQ) 
 - [2022-04-15-技术周报·2022年的React生态](https://mp.weixin.qq.com/s/OhaWnLLFmP2rwsO_t6YLiA) 
+- [2023-07-18-为什么React一年不发新版了？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498357&idx=1&sn=9dadcf39d9b413de8a185bedfbc56e24&chksm=c2b33b8af5c4b29c8021bc80a08eb66f3825594c8e4580f30c3e97594c70038c251bd0325591#rd) 
 - [2023-07-10-如何方便的检测React项目的性能？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498283&idx=2&sn=7df7adfed377416060c5d6a0e592eecb&chksm=c2b33bd4f5c4b2c27b2746ae198373a3786beaf092b2a43e03c7baab524a87ffe49c919186da#rd) 
 - [2023-06-28-Hook-革命！浅谈-React-新-Hook-的未来与思想](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498259&idx=2&sn=91e7cbc63edf225b4dd91082d4879470&chksm=c2b33becf5c4b2fad729000a07772b462a169f10cf44ece7d1d0eee41d3faeda804a96383a8c#rd) 
 - [2023-06-12-前端食堂技术周刊第-86-期：Remix-拥抱-RSC、2023-React-生态系统、从-0-实现-RSC](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498211&idx=1&sn=aa13493f7d24f873db546f184fa4e6ec&chksm=c2b3381cf5c4b10a554383e45ff1bc93619232a6260a796336b69df4fbd3b2fda0f7022377bd#rd) 

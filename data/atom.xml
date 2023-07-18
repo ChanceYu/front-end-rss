@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-18T02:00:50.208Z</updated>
+    <updated>2023-07-18T22:00:54.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,30 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[为什么React一年不发新版了？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498357&amp;idx=1&amp;sn=9dadcf39d9b413de8a185bedfbc56e24&amp;chksm=c2b33b8af5c4b29c8021bc80a08eb66f3825594c8e4580f30c3e97594c70038c251bd0325591#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498357&amp;idx=1&amp;sn=9dadcf39d9b413de8a185bedfbc56e24&amp;chksm=c2b33b8af5c4b29c8021bc80a08eb66f3825594c8e4580f30c3e97594c70038c251bd0325591#rd"/>
+        <updated>2023-07-17T16:00:00.000Z</updated>
+        <published>2023-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS的will-change，为什么有时候能优化几十倍的性能？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515310&amp;idx=2&amp;sn=419b47dd4d31e1950449be146c2acccf&amp;chksm=f992ba7fcee533698c7c01da74cf62ada9f5ac2c12a70fe0676021ff32b0debaccb294ac9e75#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515310&amp;idx=2&amp;sn=419b47dd4d31e1950449be146c2acccf&amp;chksm=f992ba7fcee533698c7c01da74cf62ada9f5ac2c12a70fe0676021ff32b0debaccb294ac9e75#rd"/>
+        <updated>2023-07-17T16:00:00.000Z</updated>
+        <published>2023-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无意中发现一位26岁阿里妹子的前端资料库]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489589&amp;idx=1&amp;sn=69d4cebc24941b5f02416d3dcf35c7a3&amp;chksm=ce460da4f93184b289ba25b3605012318e84b261f69932fcf009ed388c3c3e35ba9401a172df#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489589&amp;idx=1&amp;sn=69d4cebc24941b5f02416d3dcf35c7a3&amp;chksm=ce460da4f93184b289ba25b3605012318e84b261f69932fcf009ed388c3c3e35ba9401a172df#rd"/>
+        <updated>2023-07-17T16:00:00.000Z</updated>
+        <published>2023-07-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating code updates with codemods]]></title>
+        <id>https://nodeweekly.com/issues/495</id>
+        <link href="https://nodeweekly.com/issues/495"/>
         <updated>2023-07-17T16:00:00.000Z</updated>
         <published>2023-07-17T16:00:00.000Z</published>
     </entry>
@@ -232,16 +253,16 @@
         <published>2023-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=2&amp;sn=36812c781d844c7b87dd3ed3a09331f1&amp;chksm=c2b33b8ef5c4b298e72bcc8ebca4a3b84615ccaffb544a36aedfb73fe8f359342bb9ed703bb3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=2&amp;sn=36812c781d844c7b87dd3ed3a09331f1&amp;chksm=c2b33b8ef5c4b298e72bcc8ebca4a3b84615ccaffb544a36aedfb73fe8f359342bb9ed703bb3#rd"/>
+        <title type="html"><![CDATA[今年这情况。。。多一手准备吧]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=1&amp;sn=069a2534fb9c424dc7e693fdfb28bba7&amp;chksm=c2b33b8ef5c4b298219d360dc8f6cda86680f30cdc64ab893caa1537c27cd63d54cce79b1c20#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=1&amp;sn=069a2534fb9c424dc7e693fdfb28bba7&amp;chksm=c2b33b8ef5c4b298219d360dc8f6cda86680f30cdc64ab893caa1537c27cd63d54cce79b1c20#rd"/>
         <updated>2023-07-12T16:00:00.000Z</updated>
         <published>2023-07-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[今年这情况。。。多一手准备吧]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=1&amp;sn=069a2534fb9c424dc7e693fdfb28bba7&amp;chksm=c2b33b8ef5c4b298219d360dc8f6cda86680f30cdc64ab893caa1537c27cd63d54cce79b1c20#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=1&amp;sn=069a2534fb9c424dc7e693fdfb28bba7&amp;chksm=c2b33b8ef5c4b298219d360dc8f6cda86680f30cdc64ab893caa1537c27cd63d54cce79b1c20#rd"/>
+        <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=2&amp;sn=36812c781d844c7b87dd3ed3a09331f1&amp;chksm=c2b33b8ef5c4b298e72bcc8ebca4a3b84615ccaffb544a36aedfb73fe8f359342bb9ed703bb3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498353&amp;idx=2&amp;sn=36812c781d844c7b87dd3ed3a09331f1&amp;chksm=c2b33b8ef5c4b298e72bcc8ebca4a3b84615ccaffb544a36aedfb73fe8f359342bb9ed703bb3#rd"/>
         <updated>2023-07-12T16:00:00.000Z</updated>
         <published>2023-07-12T16:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263813&amp;idx=1&amp;sn=48d7269c268dba63f4d9bc148bcbc119&amp;chksm=bd48cac18a3f43d7ee38fdaeed12965cc92c44bcfae878fd30166c9d3e05d024d1d562c2dd0c#rd"/>
         <updated>2023-07-11T16:00:00.000Z</updated>
         <published>2023-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】上海多抓鱼用户产品组招前端产品工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263813&amp;idx=2&amp;sn=b80750ad6ab023cceb5f388ffa25bec5&amp;chksm=bd48cac18a3f43d78cf9e3e243c0871048461bf29107b3fac2a902c2ce172b6d6cfa20a9d9db#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651263813&amp;idx=2&amp;sn=b80750ad6ab023cceb5f388ffa25bec5&amp;chksm=bd48cac18a3f43d78cf9e3e243c0871048461bf29107b3fac2a902c2ce172b6d6cfa20a9d9db#rd"/>
-        <updated>2023-07-11T16:00:00.000Z</updated>
-        <published>2023-07-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun，打包比 webpack 快 220 倍]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512399&amp;idx=1&amp;sn=b5400c9cb91aae1981ea18dbf88b75ae&amp;chksm=eb078936dc700020311b0d723036086dbed914c4c1490de977952c64b08993c0fd80c5394f84#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512399&amp;idx=1&amp;sn=b5400c9cb91aae1981ea18dbf88b75ae&amp;chksm=eb078936dc700020311b0d723036086dbed914c4c1490de977952c64b08993c0fd80c5394f84#rd"/>
-        <updated>2023-07-10T16:00:00.000Z</updated>
-        <published>2023-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端食堂技术周刊第 90 期：Prettier 3.0、Vite 4.4.0、npm 生态系统核心问题、RSC 组件争议]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498290&amp;idx=1&amp;sn=cf3af1adf4d07e72bbc30016d13a1bf8&amp;chksm=c2b33bcdf5c4b2db83942b84c242f190ae85ce3c08b1081c9df6aea3b990c57d7c6def4eee95#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498290&amp;idx=1&amp;sn=cf3af1adf4d07e72bbc30016d13a1bf8&amp;chksm=c2b33bcdf5c4b2db83942b84c242f190ae85ce3c08b1081c9df6aea3b990c57d7c6def4eee95#rd"/>
-        <updated>2023-07-10T16:00:00.000Z</updated>
-        <published>2023-07-10T16:00:00.000Z</published>
     </entry>
 </feed>
