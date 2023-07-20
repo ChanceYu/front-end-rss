@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-19T22:01:48.344Z</updated>
+    <updated>2023-07-20T00:01:43.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【干货】被开除前，我为公司做了15个前端基建，老板感动哭了~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489596&amp;idx=1&amp;sn=dd005616adf5e762c2893596095ae157&amp;chksm=ce460dadf93184bb69e7cb76b3e7df6b505c4eee4b4fc765c2d47e43c46523196605b1a8ff82#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489596&amp;idx=1&amp;sn=dd005616adf5e762c2893596095ae157&amp;chksm=ce460dadf93184bb69e7cb76b3e7df6b505c4eee4b4fc765c2d47e43c46523196605b1a8ff82#rd"/>
+        <updated>2023-07-18T16:00:00.000Z</updated>
+        <published>2023-07-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm前员工自曝生态内部存在严重bug | 附避坑指南]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521486&amp;idx=1&amp;sn=f0275cf2962438e1ce6da211fff3c05e&amp;chksm=f952218dce25a89b5ad24ef5756f90d320df899a0ee0006fd93c5abe88934933e7820815d854#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521486&amp;idx=1&amp;sn=f0275cf2962438e1ce6da211fff3c05e&amp;chksm=f952218dce25a89b5ad24ef5756f90d320df899a0ee0006fd93c5abe88934933e7820815d854#rd"/>
         <updated>2023-07-18T16:00:00.000Z</updated>
         <published>2023-07-18T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[双非上岸字节了！！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489508&amp;idx=1&amp;sn=7e8e8e130b327f7633b83a6b5ae2d736&amp;chksm=ce460275f9318b631412e56d4de51525064c6aa72a6d3b236dd735036aadc34b389af2fa8c2e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489508&amp;idx=1&amp;sn=7e8e8e130b327f7633b83a6b5ae2d736&amp;chksm=ce460275f9318b631412e56d4de51525064c6aa72a6d3b236dd735036aadc34b389af2fa8c2e#rd"/>
-        <updated>2023-07-12T16:00:00.000Z</updated>
-        <published>2023-07-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双非上岸字节了！！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615881&amp;idx=1&amp;sn=ea7478bb343a6393176257213404a955&amp;chksm=8022a548b7552c5e2c3887a22aa3a098e154a8e70771e0447a7a9ce4e866ac957e1f7d4d9f17#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615881&amp;idx=1&amp;sn=ea7478bb343a6393176257213404a955&amp;chksm=8022a548b7552c5e2c3887a22aa3a098e154a8e70771e0447a7a9ce4e866ac957e1f7d4d9f17#rd"/>
         <updated>2023-07-12T16:00:00.000Z</updated>
         <published>2023-07-12T16:00:00.000Z</published>
     </entry>
