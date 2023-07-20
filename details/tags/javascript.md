@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-20 23:02:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-21 06:02:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -10,6 +10,7 @@
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648) 
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646) 
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645) 
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643) 
@@ -1151,6 +1152,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2023-07-20-再见，CSS-in-JS](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512584&idx=1&sn=77c9815d34ed72711bf272d393cfa252&chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd) 
 - [2023-07-15-Nuxt-3-Data-Fetching-完全指南](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512465&idx=1&sn=ef2e802fbe6e8fd24d1853f76eb2b010&chksm=eb0789e8dc7000fe9e11589631f065bb82d5ac1446cfcaae786c9b7ec5ae7a433252ea9e62bc#rd) 
 - [2023-07-10-JavaScript-日期时间操作完整指南！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512397&idx=2&sn=9eaf7fc3d57d07cf240ca79cc0af48f7&chksm=eb078934dc7000225fae260138e420b66548a27d343dc79e7bcbfde2ea619a789995d32d7f40#rd) 
 - [2023-06-27-我的第一个-Next.js-+-ChatGPT-项目，24-小时内爆炸-10000-用户！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512032&idx=1&sn=2993b856d32b27fe0451f4cb55c2072b&chksm=eb079799dc701e8f631af649901ccc3cbc8e5e824891d9ff220250ac24bd5a171eac493bf343#rd) 

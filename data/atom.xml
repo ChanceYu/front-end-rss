@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-20T15:02:40.774Z</updated>
+    <updated>2023-07-20T22:02:24.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[CSS高宽不等图片固定比例布局的三重进化]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/"/>
+        <updated>2023-07-19T16:00:00.000Z</updated>
+        <published>2023-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见，CSS-in-JS]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512584&amp;idx=1&amp;sn=77c9815d34ed72711bf272d393cfa252&amp;chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512584&amp;idx=1&amp;sn=77c9815d34ed72711bf272d393cfa252&amp;chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd"/>
+        <updated>2023-07-19T16:00:00.000Z</updated>
+        <published>2023-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 115 有哪些值得关注的新特性？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
@@ -60,6 +74,13 @@
         <title type="html"><![CDATA[【第3004期】基于Chrome Devtools的远程调试实现]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=1&amp;sn=60bf8f28f3f81fd9969415ddefc3f01b&amp;chksm=bd48cdbe8a3f44a89cc743e6d9cd5cbf2f6cb0217eab2234cafd85b4216dae17cc441360de98#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=1&amp;sn=60bf8f28f3f81fd9969415ddefc3f01b&amp;chksm=bd48cdbe8a3f44a89cc743e6d9cd5cbf2f6cb0217eab2234cafd85b4216dae17cc441360de98#rd"/>
+        <updated>2023-07-19T16:00:00.000Z</updated>
+        <published>2023-07-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The tale of how static typing came to JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/648</id>
+        <link href="https://javascriptweekly.com/issues/648"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
@@ -204,16 +225,16 @@
         <published>2023-07-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=1&amp;sn=806cb65afcc9c21347b6266788a26eef&amp;chksm=eb0789bbdc7000adc62f924f4801d9af0456eb4432e9d4a2dc7d8f60a6ae0335dfd6b6ba79cd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=1&amp;sn=806cb65afcc9c21347b6266788a26eef&amp;chksm=eb0789bbdc7000adc62f924f4801d9af0456eb4432e9d4a2dc7d8f60a6ae0335dfd6b6ba79cd#rd"/>
+        <title type="html"><![CDATA[微前端的落地和治理实战]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=2&amp;sn=56a1c8e52f0fc4c456f3ea093ad0de70&amp;chksm=eb0789bbdc7000addeadb97d49e64333db554281ccb9bc5efec1f62bb046ebc89d9e37e525a2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=2&amp;sn=56a1c8e52f0fc4c456f3ea093ad0de70&amp;chksm=eb0789bbdc7000addeadb97d49e64333db554281ccb9bc5efec1f62bb046ebc89d9e37e525a2#rd"/>
         <updated>2023-07-16T16:00:00.000Z</updated>
         <published>2023-07-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微前端的落地和治理实战]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=2&amp;sn=56a1c8e52f0fc4c456f3ea093ad0de70&amp;chksm=eb0789bbdc7000addeadb97d49e64333db554281ccb9bc5efec1f62bb046ebc89d9e37e525a2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=2&amp;sn=56a1c8e52f0fc4c456f3ea093ad0de70&amp;chksm=eb0789bbdc7000addeadb97d49e64333db554281ccb9bc5efec1f62bb046ebc89d9e37e525a2#rd"/>
+        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=1&amp;sn=806cb65afcc9c21347b6266788a26eef&amp;chksm=eb0789bbdc7000adc62f924f4801d9af0456eb4432e9d4a2dc7d8f60a6ae0335dfd6b6ba79cd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=1&amp;sn=806cb65afcc9c21347b6266788a26eef&amp;chksm=eb0789bbdc7000adc62f924f4801d9af0456eb4432e9d4a2dc7d8f60a6ae0335dfd6b6ba79cd#rd"/>
         <updated>2023-07-16T16:00:00.000Z</updated>
         <published>2023-07-16T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Storybook 7 来了：迄今为止最大的更新]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512459&amp;idx=1&amp;sn=d2fcc179054f72c31941f7b720aaf48a&amp;chksm=eb0789f2dc7000e415bd40f10dc1b0e2cc50af9ec2a77b44b54e242fb0fca7c28b01b92a5e6e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512459&amp;idx=1&amp;sn=d2fcc179054f72c31941f7b720aaf48a&amp;chksm=eb0789f2dc7000e415bd40f10dc1b0e2cc50af9ec2a77b44b54e242fb0fca7c28b01b92a5e6e#rd"/>
-        <updated>2023-07-13T16:00:00.000Z</updated>
-        <published>2023-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带你了解并实践monorepo和pnpm，绝对干货！熬夜总结！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515283&amp;idx=2&amp;sn=50578ac60c4a1fc8b057ee52540f263a&amp;chksm=f992ba42cee53354bc28d6ec575a96aa343a5b6e1a5dbf2fad9bb42d920124436b4d20d50a73#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515283&amp;idx=2&amp;sn=50578ac60c4a1fc8b057ee52540f263a&amp;chksm=f992ba42cee53354bc28d6ec575a96aa343a5b6e1a5dbf2fad9bb42d920124436b4d20d50a73#rd"/>
-        <updated>2023-07-13T16:00:00.000Z</updated>
-        <published>2023-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群友问我用过 SWR 吗？一个新的请求数据思路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515283&amp;idx=1&amp;sn=af310c1d0a3ef3ba2ce155d4dec8f3bc&amp;chksm=f992ba42cee53354b4f13c2b08eb2b88c77d9d024e3ab89256b9b435fc4f1972d4859f2b1752#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515283&amp;idx=1&amp;sn=af310c1d0a3ef3ba2ce155d4dec8f3bc&amp;chksm=f992ba42cee53354b4f13c2b08eb2b88c77d9d024e3ab89256b9b435fc4f1972d4859f2b1752#rd"/>
-        <updated>2023-07-13T16:00:00.000Z</updated>
-        <published>2023-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端文件流、切片下载和上传：优化文件传输效率与用户体验]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489517&amp;idx=1&amp;sn=e23231ffaa67198837e944cabb481bb2&amp;chksm=ce46027cf9318b6aad201306270b4765e64e422d931f1312a3993704729a5c730fe14ae62f8d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489517&amp;idx=1&amp;sn=e23231ffaa67198837e944cabb481bb2&amp;chksm=ce46027cf9318b6aad201306270b4765e64e422d931f1312a3993704729a5c730fe14ae62f8d#rd"/>
         <updated>2023-07-13T16:00:00.000Z</updated>
         <published>2023-07-13T16:00:00.000Z</published>
     </entry>
