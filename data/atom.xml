@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-20T22:02:24.069Z</updated>
+    <updated>2023-07-21T02:02:11.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 263 期）：开源软件如何赚钱？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html"/>
+        <updated>2023-07-20T16:00:00.000Z</updated>
+        <published>2023-07-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS高宽不等图片固定比例布局的三重进化]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 262 期）：告别密码]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html"/>
-        <updated>2023-07-13T16:00:00.000Z</updated>
-        <published>2023-07-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storybook 7 来了：迄今为止最大的更新]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512459&amp;idx=1&amp;sn=d2fcc179054f72c31941f7b720aaf48a&amp;chksm=eb0789f2dc7000e415bd40f10dc1b0e2cc50af9ec2a77b44b54e242fb0fca7c28b01b92a5e6e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512459&amp;idx=1&amp;sn=d2fcc179054f72c31941f7b720aaf48a&amp;chksm=eb0789f2dc7000e415bd40f10dc1b0e2cc50af9ec2a77b44b54e242fb0fca7c28b01b92a5e6e#rd"/>
         <updated>2023-07-13T16:00:00.000Z</updated>
         <published>2023-07-13T16:00:00.000Z</published>
     </entry>

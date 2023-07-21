@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-21 06:02:22，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-21 10:02:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -25,12 +25,12 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648) ![](/assets/new.png)  
+- [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)  
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)  
@@ -380,7 +380,7 @@
 </summary>
 
 
-- [2023-07-20-Chrome-115-有哪些值得关注的新特性？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498365&idx=2&sn=4ca60b3841c66d05f9ccd90e9826f101&chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd) ![](/assets/new.png)  
+- [2023-07-20-Chrome-115-有哪些值得关注的新特性？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498365&idx=2&sn=4ca60b3841c66d05f9ccd90e9826f101&chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd)  
 - [2023-07-19-Vue-Conf-2023-精彩回顾，新语法草案助-Vue-继续封神](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498376&idx=1&sn=86ac1582b5ad398d3b6b9facac388bde&chksm=c2b33b77f5c4b261dbe6b3a93481e6e336da756b87cfb1ee9050b6b35c06f191deb873c694eb#rd)  
 - [2023-07-18-为什么React一年不发新版了？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498357&idx=1&sn=9dadcf39d9b413de8a185bedfbc56e24&chksm=c2b33b8af5c4b29c8021bc80a08eb66f3825594c8e4580f30c3e97594c70038c251bd0325591#rd)  
 - [2023-07-13-次世代前端视图框架都在卷啥？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498353&idx=2&sn=36812c781d844c7b87dd3ed3a09331f1&chksm=c2b33b8ef5c4b298e72bcc8ebca4a3b84615ccaffb544a36aedfb73fe8f359342bb9ed703bb3#rd)  
@@ -411,7 +411,7 @@
 </summary>
 
 
-- [2023-07-20-再见，CSS-in-JS](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512584&idx=1&sn=77c9815d34ed72711bf272d393cfa252&chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd) ![](/assets/new.png)  
+- [2023-07-20-再见，CSS-in-JS](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512584&idx=1&sn=77c9815d34ed72711bf272d393cfa252&chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd)  
 - [2023-07-19-架构师对于-Vue-响应式编程的思路梳理，从-RxJS-身上学到这么多…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512553&idx=1&sn=92331e089c330889da5afdc3dc0a24f2&chksm=eb078990dc70008611d0a9b2b1dfee91324accc28d5ea6ddeaa4acbf8db4cdc945bfb90441f7#rd)  
 - [2023-07-18-Vue-Conf-2023-精彩回顾，新语法草案助-Vue-继续封神](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512543&idx=1&sn=78855733faeda8fe86e5876c9ccb9467&chksm=eb0789a6dc7000b044d1d0a5d4d5a371fa0adeaa79cfe3c582b770c171c31d52d375545c27b5#rd)  
 - [2023-07-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512514&idx=1&sn=806cb65afcc9c21347b6266788a26eef&chksm=eb0789bbdc7000adc62f924f4801d9af0456eb4432e9d4a2dc7d8f60a6ae0335dfd6b6ba79cd#rd)  
@@ -524,6 +524,7 @@
 </summary>
 
 
+- [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html) ![](/assets/new.png)  
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
 - [2023-06-30-科技爱好者周刊（第-260-期）：你的旅程不会停在-Day-1](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-260.html)  
@@ -543,7 +544,6 @@
 - [2023-03-21-运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)  
 - [2023-03-17-科技爱好者周刊（第-246-期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)  
 - [2023-03-10-科技爱好者周刊（第-245-期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)  
-- [2023-03-03-科技爱好者周刊（第-244-期）：大数据已死](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-244.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
