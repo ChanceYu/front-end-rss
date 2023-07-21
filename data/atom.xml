@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-21T10:00:59.891Z</updated>
+    <updated>2023-07-21T13:01:03.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[React、Vue3、Svelte 写法大 PK]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515351&amp;idx=1&amp;sn=df73803d1394ef4d7a6863008d681109&amp;chksm=f992ba06cee5331073177ba4cbec29ac6e11b2e8bd138524e272072de9f8171ae3314e284c22#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515351&amp;idx=1&amp;sn=df73803d1394ef4d7a6863008d681109&amp;chksm=f992ba06cee5331073177ba4cbec29ac6e11b2e8bd138524e272072de9f8171ae3314e284c22#rd"/>
+        <updated>2023-07-20T16:00:00.000Z</updated>
+        <published>2023-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我眼中的CSS革命：新特性潜力无限]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521494&amp;idx=1&amp;sn=cd0bc459952272aacf692177fbaf27d3&amp;chksm=f9522195ce25a883dfff3290be146a49fff55b37f96ec21a2dc950d442b254ece5f4f34200ef#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521494&amp;idx=1&amp;sn=cd0bc459952272aacf692177fbaf27d3&amp;chksm=f9522195ce25a883dfff3290be146a49fff55b37f96ec21a2dc950d442b254ece5f4f34200ef#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官:项目有什么亮点？我:解决了JS脚本加载失败的问题！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489546&amp;idx=1&amp;sn=ab7c394597bf63e81414ac854a4c02ac&amp;chksm=ce460d9bf931848dd3910d779d4858af9182feeef5a6d639d8445f9f8d03ebc043fcf9e82e6c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489546&amp;idx=1&amp;sn=ab7c394597bf63e81414ac854a4c02ac&amp;chksm=ce460d9bf931848dd3910d779d4858af9182feeef5a6d639d8445f9f8d03ebc043fcf9e82e6c#rd"/>
-        <updated>2023-07-15T16:00:00.000Z</updated>
-        <published>2023-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3000期】TypeScript 的演进之路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264004&amp;idx=1&amp;sn=2fad27fc70848c861570cfd2fe10823b&amp;chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264004&amp;idx=1&amp;sn=2fad27fc70848c861570cfd2fe10823b&amp;chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd"/>
         <updated>2023-07-15T16:00:00.000Z</updated>
         <published>2023-07-15T16:00:00.000Z</published>
     </entry>
