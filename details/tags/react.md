@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-22 15:01:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-23 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -550,6 +550,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2023-07-22-官宣离职！React-核心开发者-Dan-Abramov：“苦乐参半，我要辞去-Meta-的工作”](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512630&idx=1&sn=32f2815cce981921812c06b42ba5484a&chksm=eb078a4fdc700359a9c0363fa37d1023a2c6833d338b06b80771bd2bb5a6a3524227cae22018#rd) 
 - [2023-07-07-老板说，给我把这个-JS-React-项目迁移到-TypeScript](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512256&idx=1&sn=06d2777d86a2956576b0a72d1047ed1b&chksm=eb0788b9dc7001af1b49747d86704af120e8d651aee77068ae4525f03da08a638d1d4afe0774#rd) 
 - [2023-07-06-分享几个上千星的React开源库，助你玩转React](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512249&idx=2&sn=86255da7adeb1d0c9b5042f178fd5f3a&chksm=eb0788c0dc7001d68844e00898d6859363141676c1e93401aa3578ab9ea0ee7de6d562c5d305#rd) 
 - [2023-07-04-不用-React-框架，同事就要打架！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512232&idx=1&sn=e613b91eb674cf746703d4ae14843d77&chksm=eb0788d1dc7001c749d9ba22e03981c9ea702fda9df84d46a3ec96c4558cf7244bd39a0be003#rd) 
