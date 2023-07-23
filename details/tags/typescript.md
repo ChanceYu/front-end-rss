@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-23 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-23 08:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -43,6 +43,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2023-07-22-TypeScript-之父也搞大模型：推出-TypeChat](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616021&idx=1&sn=d8dda8b0ca2c589027dc8c10ad276ac8&chksm=8022a4d4b7552dc2c1c466acbe7bd8cff64de31b7e34f968605e54f906ef348a4bbe4395b2e9#rd) 
 - [2023-07-17-6-个-TypeScript-的高级技巧，帮你写出更清晰的代码](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615891&idx=2&sn=3c60d7a436f26b5354bb700b3db580b5&chksm=8022a552b7552c4464530e7431a54e353f40b36c7602dfd628a1b4c251cd907d0b8b79c98ef0#rd) 
 - [2023-06-12-前端框架Svelte放弃TypeScript，JS赢！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615004&idx=2&sn=293453a75e2c091da599da3850216bc7&chksm=8022b8ddb75531cbb982737ec71d1018adb51527f55d4034e2fbe0f0fca242e77af48c2d4798#rd) 
 - [2023-03-29-如何在-TypeScript-中使用泛型](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651613100&idx=2&sn=c089d4758d12bbb28b6f446993170f9e&chksm=8022b06db755397ba38b537d67767668ff9f0d30ff3e584df0405973c848f0f8a6e85c7ea931#rd) 
