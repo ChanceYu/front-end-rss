@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-23T04:00:56.834Z</updated>
+    <updated>2023-07-23T10:01:31.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[React 你是真的骚啊，一个组件就有这么多个设计模式]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489641&amp;idx=1&amp;sn=c1c4a335095b778c339d31c912571ab2&amp;chksm=ce460df8f93184ee064d1acf708bd173ae1950c16c0c93526015047da8ffe2c9c189de97427e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489641&amp;idx=1&amp;sn=c1c4a335095b778c339d31c912571ab2&amp;chksm=ce460df8f93184ee064d1acf708bd173ae1950c16c0c93526015047da8ffe2c9c189de97427e#rd"/>
+        <updated>2023-07-22T16:00:00.000Z</updated>
+        <published>2023-07-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3007期】通过调试技术，理清了视频播放很快的原理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264143&amp;idx=1&amp;sn=1bfb4206cac11e3b27082fd6694da25b&amp;chksm=bd48cd0b8a3f441d877d45646d2c287e49a58876e11bdce0ef8c80c0336989cc561d31aad643#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515371&amp;idx=2&amp;sn=d1807a66a2635a5fa894caea5c57ffeb&amp;chksm=f992ba3acee5332cd0e4946b37d04e7cc502d763143605243f4411caa6316f42e4bf265aacf6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515371&amp;idx=2&amp;sn=d1807a66a2635a5fa894caea5c57ffeb&amp;chksm=f992ba3acee5332cd0e4946b37d04e7cc502d763143605243f4411caa6316f42e4bf265aacf6#rd"/>
+        <updated>2023-07-21T16:00:00.000Z</updated>
+        <published>2023-07-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：如何判断一个对象存在"循环引用"?]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489608&amp;idx=1&amp;sn=e8f79a954ddceaac3f2d8628f6d8706d&amp;chksm=ce460dd9f93184cf856126765edf6d10b84dfda52e81aa0dacd1b8801999b8cbbc285f0307b8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489608&amp;idx=1&amp;sn=e8f79a954ddceaac3f2d8628f6d8706d&amp;chksm=ce460dd9f93184cf856126765edf6d10b84dfda52e81aa0dacd1b8801999b8cbbc285f0307b8#rd"/>
         <updated>2023-07-21T16:00:00.000Z</updated>
         <published>2023-07-21T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264026&amp;idx=1&amp;sn=2cdb4f5cbb838b1f89dbc0e2a88ee256&amp;chksm=bd48cd9e8a3f448813e4fd74325a77f8fbc5497ee796e853249fb7c29cd0e46a9fd65d2fcce7#rd"/>
         <updated>2023-07-17T16:00:00.000Z</updated>
         <published>2023-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating code updates with codemods]]></title>
-        <id>https://nodeweekly.com/issues/495</id>
-        <link href="https://nodeweekly.com/issues/495"/>
-        <updated>2023-07-17T16:00:00.000Z</updated>
-        <published>2023-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微前端的落地和治理实战]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=2&amp;sn=56a1c8e52f0fc4c456f3ea093ad0de70&amp;chksm=eb0789bbdc7000addeadb97d49e64333db554281ccb9bc5efec1f62bb046ebc89d9e37e525a2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512514&amp;idx=2&amp;sn=56a1c8e52f0fc4c456f3ea093ad0de70&amp;chksm=eb0789bbdc7000addeadb97d49e64333db554281ccb9bc5efec1f62bb046ebc89d9e37e525a2#rd"/>
-        <updated>2023-07-16T16:00:00.000Z</updated>
-        <published>2023-07-16T16:00:00.000Z</published>
     </entry>
 </feed>
