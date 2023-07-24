@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-24T07:00:49.017Z</updated>
+    <updated>2023-07-24T10:00:43.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,20 @@
         <title type="html"><![CDATA[刚面完一个阿里出来的大佬，堪称基础天花板！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616044&amp;idx=1&amp;sn=088ddbce866f2e0ae412d92e2bc238ec&amp;chksm=8022a4edb7552dfb28cea53e93f05efefe1faa1374069f0df15f0dc81feb60e2cd11cb7919f1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616044&amp;idx=1&amp;sn=088ddbce866f2e0ae412d92e2bc238ec&amp;chksm=8022a4edb7552dfb28cea53e93f05efefe1faa1374069f0df15f0dc81feb60e2cd11cb7919f1#rd"/>
+        <updated>2023-07-23T16:00:00.000Z</updated>
+        <published>2023-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【活动】VueConf & ViteConf 2023。8月26日，苏州见。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=2&amp;sn=8722e592e3dbbe5d11e7412d1207ba47&amp;chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=2&amp;sn=8722e592e3dbbe5d11e7412d1207ba47&amp;chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd"/>
+        <updated>2023-07-23T16:00:00.000Z</updated>
+        <published>2023-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3008期】VueConf US 2023：State of the Vuenion]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=1&amp;sn=0aca047a6425734aa61f5ab095a0300b&amp;chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=1&amp;sn=0aca047a6425734aa61f5ab095a0300b&amp;chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
@@ -197,16 +211,16 @@
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】技术代言]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd"/>
+        <title type="html"><![CDATA[【第3005期】前端简洁架构]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3005期】前端简洁架构]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd"/>
+        <title type="html"><![CDATA[【早说】技术代言]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
@@ -274,16 +288,16 @@
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3004期】基于Chrome Devtools的远程调试实现]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=1&amp;sn=60bf8f28f3f81fd9969415ddefc3f01b&amp;chksm=bd48cdbe8a3f44a89cc743e6d9cd5cbf2f6cb0217eab2234cafd85b4216dae17cc441360de98#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=1&amp;sn=60bf8f28f3f81fd9969415ddefc3f01b&amp;chksm=bd48cdbe8a3f44a89cc743e6d9cd5cbf2f6cb0217eab2234cafd85b4216dae17cc441360de98#rd"/>
+        <title type="html"><![CDATA[【早说】用智力而不是蛮力]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=2&amp;sn=125be042557345e6b29b88e3261a5b1b&amp;chksm=bd48cdbe8a3f44a8343078c3ee7c3d754a797806ca9d579e9542b46b0c1edb1e6f91da2df92e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=2&amp;sn=125be042557345e6b29b88e3261a5b1b&amp;chksm=bd48cdbe8a3f44a8343078c3ee7c3d754a797806ca9d579e9542b46b0c1edb1e6f91da2df92e#rd"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】用智力而不是蛮力]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=2&amp;sn=125be042557345e6b29b88e3261a5b1b&amp;chksm=bd48cdbe8a3f44a8343078c3ee7c3d754a797806ca9d579e9542b46b0c1edb1e6f91da2df92e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=2&amp;sn=125be042557345e6b29b88e3261a5b1b&amp;chksm=bd48cdbe8a3f44a8343078c3ee7c3d754a797806ca9d579e9542b46b0c1edb1e6f91da2df92e#rd"/>
+        <title type="html"><![CDATA[【第3004期】基于Chrome Devtools的远程调试实现]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=1&amp;sn=60bf8f28f3f81fd9969415ddefc3f01b&amp;chksm=bd48cdbe8a3f44a89cc743e6d9cd5cbf2f6cb0217eab2234cafd85b4216dae17cc441360de98#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264058&amp;idx=1&amp;sn=60bf8f28f3f81fd9969415ddefc3f01b&amp;chksm=bd48cdbe8a3f44a89cc743e6d9cd5cbf2f6cb0217eab2234cafd85b4216dae17cc441360de98#rd"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[想要开发组件库？那你一定要提前了解一下这个神器]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615942&amp;idx=1&amp;sn=313407700ea709028e2bb9bb85df158a&amp;chksm=8022a507b7552c1130344493c220986eaf5089472def5a0a93d00a7b18eadeb6da5c144af190#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615942&amp;idx=1&amp;sn=313407700ea709028e2bb9bb85df158a&amp;chksm=8022a507b7552c1130344493c220986eaf5089472def5a0a93d00a7b18eadeb6da5c144af190#rd"/>
-        <updated>2023-07-18T16:00:00.000Z</updated>
-        <published>2023-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】好的，这样的话。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264040&amp;idx=2&amp;sn=c2a42af9ecdfa7d2623d5dfe7b43ef13&amp;chksm=bd48cdac8a3f44babafaf02a8d44abd68e944573190af2b3560ae77dbebbc871ddc4fe0896e1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264040&amp;idx=2&amp;sn=c2a42af9ecdfa7d2623d5dfe7b43ef13&amp;chksm=bd48cdac8a3f44babafaf02a8d44abd68e944573190af2b3560ae77dbebbc871ddc4fe0896e1#rd"/>
-        <updated>2023-07-18T16:00:00.000Z</updated>
-        <published>2023-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3003期】擎天柱与CSS变换切换]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264040&amp;idx=1&amp;sn=608fb0e71157e38c9ce5fc82ad6e2c33&amp;chksm=bd48cdac8a3f44ba70524056bc2288adbe91d80a190d02a4ed56193382ec7d92baf58b481a56#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264040&amp;idx=1&amp;sn=608fb0e71157e38c9ce5fc82ad6e2c33&amp;chksm=bd48cdac8a3f44ba70524056bc2288adbe91d80a190d02a4ed56193382ec7d92baf58b481a56#rd"/>
         <updated>2023-07-18T16:00:00.000Z</updated>
         <published>2023-07-18T16:00:00.000Z</published>
     </entry>
