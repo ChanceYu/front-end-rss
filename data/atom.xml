@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-24T10:00:43.437Z</updated>
+    <updated>2023-07-24T13:00:48.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[作为前端的你 Symbol 还没用过，有点" Low"了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=1&amp;sn=34b061819334c86cf45a328a9c84b784&amp;chksm=f992ba28cee5333efdecc00f9a5a692450ffbdeaaab60b87e27d93ff5de1fc656293546ed4b7#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=1&amp;sn=34b061819334c86cf45a328a9c84b784&amp;chksm=f992ba28cee5333efdecc00f9a5a692450ffbdeaaab60b87e27d93ff5de1fc656293546ed4b7#rd"/>
+        <updated>2023-07-23T16:00:00.000Z</updated>
+        <published>2023-07-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于Node.js调试，你需要了解的一切]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521532&amp;idx=1&amp;sn=d22bdce20b54e4ae11151fa4a34c195d&amp;chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521532&amp;idx=1&amp;sn=d22bdce20b54e4ae11151fa4a34c195d&amp;chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[中高级前端必须掌握的 package.json 最新最全指南]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615942&amp;idx=2&amp;sn=4b3fbfadca48aaf5dd1cc911126b84da&amp;chksm=8022a507b7552c11f77dca8fac5569f335964df81c8f9f55958791f6b97f8b32c82d744f52f5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615942&amp;idx=2&amp;sn=4b3fbfadca48aaf5dd1cc911126b84da&amp;chksm=8022a507b7552c11f77dca8fac5569f335964df81c8f9f55958791f6b97f8b32c82d744f52f5#rd"/>
-        <updated>2023-07-18T16:00:00.000Z</updated>
-        <published>2023-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想要开发组件库？那你一定要提前了解一下这个神器]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615942&amp;idx=1&amp;sn=313407700ea709028e2bb9bb85df158a&amp;chksm=8022a507b7552c1130344493c220986eaf5089472def5a0a93d00a7b18eadeb6da5c144af190#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615942&amp;idx=1&amp;sn=313407700ea709028e2bb9bb85df158a&amp;chksm=8022a507b7552c1130344493c220986eaf5089472def5a0a93d00a7b18eadeb6da5c144af190#rd"/>
         <updated>2023-07-18T16:00:00.000Z</updated>
         <published>2023-07-18T16:00:00.000Z</published>
     </entry>

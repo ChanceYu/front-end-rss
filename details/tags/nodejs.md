@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-24 18:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-24 21:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -181,6 +181,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2023-07-24-关于Node.js调试，你需要了解的一切](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521532&idx=1&sn=d22bdce20b54e4ae11151fa4a34c195d&chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd) 
 - [2023-07-12-从-Ruby-到-Node：重写-Shopify-CLI，提升开发体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521401&idx=1&sn=44d34149e7fe31d466728a983ad6ca0c&chksm=f952213ace25a82c8df4366e3ef0ad6f22961834890885418670fc94f73eb591113f62571e6f#rd) 
 - [2023-06-30-Electron末日来了？又一应用将其抛弃！WhatsApp强制推行原生应用：速度更快、内存占用更少](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521317&idx=1&sn=da297c9b610966b091ee388a4d89512e&chksm=f9522166ce25a8705c32aa00415d0e7fee838f8e6894d9d29a87e7ca00222d786b6075974523#rd) 
 - [2023-05-10-从Node到Deno：你可能还没准备好](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520851&idx=1&sn=57f1bec3798e9219046a8104a144b0de&chksm=f9522710ce25ae065a70d818b15fef4d9a45d0eb5715bbfca29e63342ffd8f81840fb0aeffcb#rd) 
