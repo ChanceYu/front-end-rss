@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-25T15:01:28.720Z</updated>
+    <updated>2023-07-25T22:00:48.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[5分钟快速了解text-wrap:balance的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <published>2023-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年LLM如何入门？请看这篇综述！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <published>2023-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近，前端岗位爆了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=1&amp;sn=c29fc7b16da444e7218e42e04d9e18a3&amp;chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=1&amp;sn=c29fc7b16da444e7218e42e04d9e18a3&amp;chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
@@ -337,13 +351,6 @@
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 115 有哪些值得关注的新特性？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[面了一个26岁前端女生，真的有被震惊到！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=1&amp;sn=3a56a594398ae8a1396beeb6752dd520&amp;chksm=c2b33b82f5c4b294b4bf5deed4955963a4954e569b531cae32f67ceda4fc6f0d6a3cade701b6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=1&amp;sn=3a56a594398ae8a1396beeb6752dd520&amp;chksm=c2b33b82f5c4b294b4bf5deed4955963a4954e569b531cae32f67ceda4fc6f0d6a3cade701b6#rd"/>
@@ -351,16 +358,9 @@
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[被字节拷打了，基础还是太重要了。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515345&amp;idx=1&amp;sn=a3f88b3c45bed10da1d0f5dad6f54d8e&amp;chksm=f992ba00cee53316fdd68a5d67adddce8c6fdc8bb56116676da4ee1f5d5171ab022840cfa534#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515345&amp;idx=1&amp;sn=a3f88b3c45bed10da1d0f5dad6f54d8e&amp;chksm=f992ba00cee53316fdd68a5d67adddce8c6fdc8bb56116676da4ee1f5d5171ab022840cfa534#rd"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[线上BUG引起思考：package.json 中的 ^~ 该保留吗？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515345&amp;idx=2&amp;sn=b81b276c2854bcb299a0546beef6ce28&amp;chksm=f992ba00cee5331648ecfe524a233a47a76e3686b48605384258ed323dbf614656d8ee661b4a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515345&amp;idx=2&amp;sn=b81b276c2854bcb299a0546beef6ce28&amp;chksm=f992ba00cee5331648ecfe524a233a47a76e3686b48605384258ed323dbf614656d8ee661b4a#rd"/>
+        <title type="html"><![CDATA[Chrome 115 有哪些值得关注的新特性？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
