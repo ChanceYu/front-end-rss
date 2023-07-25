@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-24T15:01:28.302Z</updated>
+    <updated>2023-07-25T04:00:44.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端终于要破局了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489656&amp;idx=1&amp;sn=000582998a6e7b570c252eda6ee6b683&amp;chksm=ce460de9f93184ff076d32100bbfb119b59cf821219576b80ab887e09f7410cfe09cc5baaf45#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489656&amp;idx=1&amp;sn=000582998a6e7b570c252eda6ee6b683&amp;chksm=ce460de9f93184ff076d32100bbfb119b59cf821219576b80ab887e09f7410cfe09cc5baaf45#rd"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <published>2023-07-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[架构师对于 Vue 响应式编程的思路梳理，从 RxJS 身上学到这么多…]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512553&amp;idx=1&amp;sn=92331e089c330889da5afdc3dc0a24f2&amp;chksm=eb078990dc70008611d0a9b2b1dfee91324accc28d5ea6ddeaa4acbf8db4cdc945bfb90441f7#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512553&amp;idx=1&amp;sn=92331e089c330889da5afdc3dc0a24f2&amp;chksm=eb078990dc70008611d0a9b2b1dfee91324accc28d5ea6ddeaa4acbf8db4cdc945bfb90441f7#rd"/>
-        <updated>2023-07-18T16:00:00.000Z</updated>
-        <published>2023-07-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue Conf 2023 精彩回顾，新语法草案助 Vue 继续封神]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498376&amp;idx=1&amp;sn=86ac1582b5ad398d3b6b9facac388bde&amp;chksm=c2b33b77f5c4b261dbe6b3a93481e6e336da756b87cfb1ee9050b6b35c06f191deb873c694eb#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498376&amp;idx=1&amp;sn=86ac1582b5ad398d3b6b9facac388bde&amp;chksm=c2b33b77f5c4b261dbe6b3a93481e6e336da756b87cfb1ee9050b6b35c06f191deb873c694eb#rd"/>
         <updated>2023-07-18T16:00:00.000Z</updated>
         <published>2023-07-18T16:00:00.000Z</published>
     </entry>
