@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-25T10:00:45.412Z</updated>
+    <updated>2023-07-25T13:01:08.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[吹一波！30 分钟把微信小程序搬进自有 APP]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616201&amp;idx=1&amp;sn=9300b712b07ba1f7c1fa60a08f7dc477&amp;chksm=8022a408b7552d1ed4e69116dc4ead30d333a55657e94bcccf1f9152e858b9737e94153de5b8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616201&amp;idx=1&amp;sn=9300b712b07ba1f7c1fa60a08f7dc477&amp;chksm=8022a408b7552d1ed4e69116dc4ead30d333a55657e94bcccf1f9152e858b9737e94153de5b8#rd"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <published>2023-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Node.js best practices list gets a 2023 update]]></title>
+        <id>https://nodeweekly.com/issues/496</id>
+        <link href="https://nodeweekly.com/issues/496"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3使用hook封装媒体查询和事件监听，让开发更加丝滑]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489598&amp;idx=1&amp;sn=ab14f3b635cdbba9823d4783a61fb1b8&amp;chksm=ce460daff93184b9746709a1852c89d6f5acac9b5e1dfc3550c968ed4d323899c244e6e2f230#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489598&amp;idx=1&amp;sn=ab14f3b635cdbba9823d4783a61fb1b8&amp;chksm=ce460daff93184b9746709a1852c89d6f5acac9b5e1dfc3550c968ed4d323899c244e6e2f230#rd"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端终于要破局了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615948&amp;idx=1&amp;sn=e8ac02e762d3daec2d7a2dcf4263bbbf&amp;chksm=8022a50db7552c1bc867519e17e3180466fe6169c79d2f84e506aee1acadeca19d509bf4ae80#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651615948&amp;idx=1&amp;sn=e8ac02e762d3daec2d7a2dcf4263bbbf&amp;chksm=8022a50db7552c1bc867519e17e3180466fe6169c79d2f84e506aee1acadeca19d509bf4ae80#rd"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
