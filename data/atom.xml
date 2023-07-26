@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-26T07:00:48.320Z</updated>
+    <updated>2023-07-26T13:00:48.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端面试一个半月，经历 PUA，自我怀疑，深夜痛苦……我入职了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512697&amp;idx=1&amp;sn=4786d869ef9911464fb80a2520484df1&amp;chksm=eb078a00dc70031661d0bd06763562cab1fb2416314986e421eae001384fa15af25c43b5074a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512697&amp;idx=1&amp;sn=4786d869ef9911464fb80a2520484df1&amp;chksm=eb078a00dc70031661d0bd06763562cab1fb2416314986e421eae001384fa15af25c43b5074a#rd"/>
+        <updated>2023-07-25T16:00:00.000Z</updated>
+        <published>2023-07-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】保持开放的心态]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264206&amp;idx=2&amp;sn=169f0425562331a375c90e858d3e9b95&amp;chksm=bd48cd4a8a3f445cbb5e1fe85b8e55fccacf63a4a1faca608be11e4925e9360be2bd93496593#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[5分钟快速了解text-wrap:balance的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <published>2023-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React18 最佳实践]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512695&amp;idx=2&amp;sn=3a49d99c33f824cfd393f82c56bb013f&amp;chksm=eb078a0edc7003187f55d51ad37335037046ff30ed3b25b0324bfbd03600d6baa342d60ffe3f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512695&amp;idx=2&amp;sn=3a49d99c33f824cfd393f82c56bb013f&amp;chksm=eb078a0edc7003187f55d51ad37335037046ff30ed3b25b0324bfbd03600d6baa342d60ffe3f#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
@@ -106,16 +120,16 @@
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd"/>
+        <title type="html"><![CDATA[阿里面试官：小伙子你这前端水平可以啊！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿里面试官：小伙子你这前端水平可以啊！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd"/>
+        <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
@@ -288,16 +302,16 @@
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中后台项目的升级实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=2&amp;sn=3ca579138cb07a0e94b8cb7527736621&amp;chksm=eb078a5cdc70034a733b9978b84eaac265337df51cbcab72f5adff732f111d9c2f8782ee8a3c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=2&amp;sn=3ca579138cb07a0e94b8cb7527736621&amp;chksm=eb078a5cdc70034a733b9978b84eaac265337df51cbcab72f5adff732f111d9c2f8782ee8a3c#rd"/>
+        <title type="html"><![CDATA[Vue3面试全攻略，看这篇让你省时又省力]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=1&amp;sn=8a8922df0ef5bb444d73738c21e187ca&amp;chksm=eb078a5cdc70034a822d262c764086b76bb9547b4ae4a01a12ae6224240e84c15dcd5e79fe68#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=1&amp;sn=8a8922df0ef5bb444d73738c21e187ca&amp;chksm=eb078a5cdc70034a822d262c764086b76bb9547b4ae4a01a12ae6224240e84c15dcd5e79fe68#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue3面试全攻略，看这篇让你省时又省力]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=1&amp;sn=8a8922df0ef5bb444d73738c21e187ca&amp;chksm=eb078a5cdc70034a822d262c764086b76bb9547b4ae4a01a12ae6224240e84c15dcd5e79fe68#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=1&amp;sn=8a8922df0ef5bb444d73738c21e187ca&amp;chksm=eb078a5cdc70034a822d262c764086b76bb9547b4ae4a01a12ae6224240e84c15dcd5e79fe68#rd"/>
+        <title type="html"><![CDATA[中后台项目的升级实践]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=2&amp;sn=3ca579138cb07a0e94b8cb7527736621&amp;chksm=eb078a5cdc70034a733b9978b84eaac265337df51cbcab72f5adff732f111d9c2f8782ee8a3c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512613&amp;idx=2&amp;sn=3ca579138cb07a0e94b8cb7527736621&amp;chksm=eb078a5cdc70034a733b9978b84eaac265337df51cbcab72f5adff732f111d9c2f8782ee8a3c#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】技术代言]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd"/>
-        <updated>2023-07-20T16:00:00.000Z</updated>
-        <published>2023-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS高宽不等图片固定比例布局的三重进化]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
     </entry>
 </feed>
