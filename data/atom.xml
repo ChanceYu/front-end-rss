@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-25T22:00:48.019Z</updated>
+    <updated>2023-07-26T07:00:48.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早说】保持开放的心态]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264206&amp;idx=2&amp;sn=169f0425562331a375c90e858d3e9b95&amp;chksm=bd48cd4a8a3f445cbb5e1fe85b8e55fccacf63a4a1faca608be11e4925e9360be2bd93496593#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264206&amp;idx=2&amp;sn=169f0425562331a375c90e858d3e9b95&amp;chksm=bd48cd4a8a3f445cbb5e1fe85b8e55fccacf63a4a1faca608be11e4925e9360be2bd93496593#rd"/>
+        <updated>2023-07-25T16:00:00.000Z</updated>
+        <published>2023-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3010期】leaferjs，全新的 Canvas 渲染引擎]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264206&amp;idx=1&amp;sn=bcab81f0644e0bcdbf1bdc41e9431d51&amp;chksm=bd48cd4a8a3f445c7b117613be4f65609926794e431e87b1104583e406945d67ff3ea5e9274f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264206&amp;idx=1&amp;sn=bcab81f0644e0bcdbf1bdc41e9431d51&amp;chksm=bd48cd4a8a3f445c7b117613be4f65609926794e431e87b1104583e406945d67ff3ea5e9274f#rd"/>
+        <updated>2023-07-25T16:00:00.000Z</updated>
+        <published>2023-07-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5分钟快速了解text-wrap:balance的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/</id>
@@ -67,6 +81,13 @@
         <title type="html"><![CDATA[吹一波！30 分钟把微信小程序搬进自有 APP]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616201&amp;idx=1&amp;sn=9300b712b07ba1f7c1fa60a08f7dc477&amp;chksm=8022a408b7552d1ed4e69116dc4ead30d333a55657e94bcccf1f9152e858b9737e94153de5b8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616201&amp;idx=1&amp;sn=9300b712b07ba1f7c1fa60a08f7dc477&amp;chksm=8022a408b7552d1ed4e69116dc4ead30d333a55657e94bcccf1f9152e858b9737e94153de5b8#rd"/>
+        <updated>2023-07-24T16:00:00.000Z</updated>
+        <published>2023-07-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早说】关注和理解业务]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264174&amp;idx=2&amp;sn=ae4c979c9ee2548d0262109891686e7f&amp;chksm=bd48cd2a8a3f443c99dc591cdd29c6cf9e0f1c67e4eaf96c301fd53e58c22ac70c5bb4061a12#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264174&amp;idx=2&amp;sn=ae4c979c9ee2548d0262109891686e7f&amp;chksm=bd48cd2a8a3f443c99dc591cdd29c6cf9e0f1c67e4eaf96c301fd53e58c22ac70c5bb4061a12#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
@@ -148,16 +169,16 @@
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3008期】VueConf US 2023：State of the Vuenion]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=1&amp;sn=0aca047a6425734aa61f5ab095a0300b&amp;chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=1&amp;sn=0aca047a6425734aa61f5ab095a0300b&amp;chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd"/>
+        <title type="html"><![CDATA[【活动】VueConf & ViteConf 2023。8月26日，苏州见。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=2&amp;sn=8722e592e3dbbe5d11e7412d1207ba47&amp;chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=2&amp;sn=8722e592e3dbbe5d11e7412d1207ba47&amp;chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【活动】VueConf & ViteConf 2023。8月26日，苏州见。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=2&amp;sn=8722e592e3dbbe5d11e7412d1207ba47&amp;chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=2&amp;sn=8722e592e3dbbe5d11e7412d1207ba47&amp;chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd"/>
+        <title type="html"><![CDATA[【第3008期】VueConf US 2023：State of the Vuenion]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=1&amp;sn=0aca047a6425734aa61f5ab095a0300b&amp;chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264147&amp;idx=1&amp;sn=0aca047a6425734aa61f5ab095a0300b&amp;chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
@@ -323,13 +344,6 @@
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】技术代言]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd"/>
-        <updated>2023-07-20T16:00:00.000Z</updated>
-        <published>2023-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【第3005期】前端简洁架构]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=1&amp;sn=2812dacd2e57b69729b6e7648c3dcc17&amp;chksm=bd48cdca8a3f44dc6c0116c034b89be9c6a6f1b18f11bb577f602fcff313e3b7576133b64391#rd"/>
@@ -337,30 +351,16 @@
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【早说】技术代言]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264078&amp;idx=2&amp;sn=7ce7c7bf42c44316de82faf5532195d8&amp;chksm=bd48cdca8a3f44dc34014abf42e3b3023784cd2479a0d6fb8b38c133fb9d6bd4eb441e5702e4#rd"/>
+        <updated>2023-07-20T16:00:00.000Z</updated>
+        <published>2023-07-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS高宽不等图片固定比例布局的三重进化]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/07/css-image-aspect-ratio-layout/"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见，CSS-in-JS]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512584&amp;idx=1&amp;sn=77c9815d34ed72711bf272d393cfa252&amp;chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512584&amp;idx=1&amp;sn=77c9815d34ed72711bf272d393cfa252&amp;chksm=eb078a71dc70036748ce782dd57c4ecd6c1b96238e438269ae71f9ae92e8517a36715c5c72c8#rd"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面了一个26岁前端女生，真的有被震惊到！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=1&amp;sn=3a56a594398ae8a1396beeb6752dd520&amp;chksm=c2b33b82f5c4b294b4bf5deed4955963a4954e569b531cae32f67ceda4fc6f0d6a3cade701b6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=1&amp;sn=3a56a594398ae8a1396beeb6752dd520&amp;chksm=c2b33b82f5c4b294b4bf5deed4955963a4954e569b531cae32f67ceda4fc6f0d6a3cade701b6#rd"/>
-        <updated>2023-07-19T16:00:00.000Z</updated>
-        <published>2023-07-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 115 有哪些值得关注的新特性？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498365&amp;idx=2&amp;sn=4ca60b3841c66d05f9ccd90e9826f101&amp;chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd"/>
         <updated>2023-07-19T16:00:00.000Z</updated>
         <published>2023-07-19T16:00:00.000Z</published>
     </entry>
