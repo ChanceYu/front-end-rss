@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-27 21:00:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-28 06:01:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) ![](/assets/new.png)  
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)  
@@ -92,7 +93,6 @@
 - [2023-03-31-Import-maps-go-universal](https://javascriptweekly.com/issues/632)  
 - [2023-03-24-Playwright-now-offers-a-UI-mode](https://javascriptweekly.com/issues/631)  
 - [2023-03-17-Transformers:-JavaScript-in-Disguise](https://javascriptweekly.com/issues/630)  
-- [2023-03-10-New-JavaScript-features-of-the-past-few-years](https://javascriptweekly.com/issues/629)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-07-27-【第3011期】构建设计系统和组件库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264218&idx=1&sn=0c3ff6c207c2261007cbdc9b816f58bd&chksm=bd48cd5e8a3f444807ce1bb8169b16f2007c3fc763ad137ab7c3709c23756b7489adbb6baeae#rd) ![](/assets/new.png)  
-- [2023-07-27-【早说】审视问题现状](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264218&idx=2&sn=f7689de7923f97a0004c9ee7fb98cf14&chksm=bd48cd5e8a3f4448db06c217bea193bfc57ec8ee83d2fa02d3cbba4c08a1021ec3c556f4840d#rd) ![](/assets/new.png)  
+- [2023-07-27-【第3011期】构建设计系统和组件库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264218&idx=1&sn=0c3ff6c207c2261007cbdc9b816f58bd&chksm=bd48cd5e8a3f444807ce1bb8169b16f2007c3fc763ad137ab7c3709c23756b7489adbb6baeae#rd)  
+- [2023-07-27-【早说】审视问题现状](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264218&idx=2&sn=f7689de7923f97a0004c9ee7fb98cf14&chksm=bd48cd5e8a3f4448db06c217bea193bfc57ec8ee83d2fa02d3cbba4c08a1021ec3c556f4840d#rd)  
 - [2023-07-26-【早说】保持开放的心态](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264206&idx=2&sn=169f0425562331a375c90e858d3e9b95&chksm=bd48cd4a8a3f445cbb5e1fe85b8e55fccacf63a4a1faca608be11e4925e9360be2bd93496593#rd)  
 - [2023-07-26-【第3010期】leaferjs，全新的-Canvas-渲染引擎](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264206&idx=1&sn=bcab81f0644e0bcdbf1bdc41e9431d51&chksm=bd48cd4a8a3f445c7b117613be4f65609926794e431e87b1104583e406945d67ff3ea5e9274f#rd)  
 - [2023-07-25-【早说】关注和理解业务](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264174&idx=2&sn=ae4c979c9ee2548d0262109891686e7f&chksm=bd48cd2a8a3f443c99dc591cdd29c6cf9e0f1c67e4eaf96c301fd53e58c22ac70c5bb4061a12#rd)  

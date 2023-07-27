@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-27T13:00:50.525Z</updated>
+    <updated>2023-07-27T22:01:13.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[【第3011期】构建设计系统和组件库]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264218&amp;idx=1&amp;sn=0c3ff6c207c2261007cbdc9b816f58bd&amp;chksm=bd48cd5e8a3f444807ce1bb8169b16f2007c3fc763ad137ab7c3709c23756b7489adbb6baeae#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264218&amp;idx=1&amp;sn=0c3ff6c207c2261007cbdc9b816f58bd&amp;chksm=bd48cd5e8a3f444807ce1bb8169b16f2007c3fc763ad137ab7c3709c23756b7489adbb6baeae#rd"/>
+        <updated>2023-07-26T16:00:00.000Z</updated>
+        <published>2023-07-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Name mangling]]></title>
+        <id>https://javascriptweekly.com/issues/649</id>
+        <link href="https://javascriptweekly.com/issues/649"/>
         <updated>2023-07-26T16:00:00.000Z</updated>
         <published>2023-07-26T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官：如何判断一个对象存在"循环引用"?]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489608&amp;idx=1&amp;sn=e8f79a954ddceaac3f2d8628f6d8706d&amp;chksm=ce460dd9f93184cf856126765edf6d10b84dfda52e81aa0dacd1b8801999b8cbbc285f0307b8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489608&amp;idx=1&amp;sn=e8f79a954ddceaac3f2d8628f6d8706d&amp;chksm=ce460dd9f93184cf856126765edf6d10b84dfda52e81aa0dacd1b8801999b8cbbc285f0307b8#rd"/>
-        <updated>2023-07-21T16:00:00.000Z</updated>
-        <published>2023-07-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 之父也搞大模型：推出 TypeChat]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616021&amp;idx=1&amp;sn=d8dda8b0ca2c589027dc8c10ad276ac8&amp;chksm=8022a4d4b7552dc2c1c466acbe7bd8cff64de31b7e34f968605e54f906ef348a4bbe4395b2e9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616021&amp;idx=1&amp;sn=d8dda8b0ca2c589027dc8c10ad276ac8&amp;chksm=8022a4d4b7552dc2c1c466acbe7bd8cff64de31b7e34f968605e54f906ef348a4bbe4395b2e9#rd"/>
         <updated>2023-07-21T16:00:00.000Z</updated>
         <published>2023-07-21T16:00:00.000Z</published>
     </entry>
