@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-26T22:01:18.687Z</updated>
+    <updated>2023-07-27T00:00:47.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[wangEditor开源库作者：教你如何写出眼前一亮 简历]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515407&amp;idx=1&amp;sn=e4aeaec0fa44263565e434a8eb0ca3fd&amp;chksm=f992bbdecee532c8d7006a3d6efc6b14701314479bbe38f6489e28a8efb1ba25a1215dfd185e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515407&amp;idx=1&amp;sn=e4aeaec0fa44263565e434a8eb0ca3fd&amp;chksm=f992bbdecee532c8d7006a3d6efc6b14701314479bbe38f6489e28a8efb1ba25a1215dfd185e#rd"/>
+        <updated>2023-07-25T16:00:00.000Z</updated>
+        <published>2023-07-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# 和 TypeScript 之父亲自带队开源 TypeChat，又一 AI 技术瓶颈被攻破？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521543&amp;idx=1&amp;sn=544ff2ecfc6e620273c939dd9d6c8f58&amp;chksm=f9522044ce25a9527515c7911eea47ef2e0047540054397e4ffe153664aa6c536a37a2780a00#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521543&amp;idx=1&amp;sn=544ff2ecfc6e620273c939dd9d6c8f58&amp;chksm=f9522044ce25a9527515c7911eea47ef2e0047540054397e4ffe153664aa6c536a37a2780a00#rd"/>
         <updated>2023-07-25T16:00:00.000Z</updated>
         <published>2023-07-25T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[10w单元格滚动卡顿如何解决？腾讯文档的7个秘笈]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515351&amp;idx=2&amp;sn=37f843127994c5a3f2d98226c135bd85&amp;chksm=f992ba06cee533105bd9f05e60be057f707867065c6317623b82c74452c3af5c02f8e383eeab#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515351&amp;idx=2&amp;sn=37f843127994c5a3f2d98226c135bd85&amp;chksm=f992ba06cee533105bd9f05e60be057f707867065c6317623b82c74452c3af5c02f8e383eeab#rd"/>
-        <updated>2023-07-20T16:00:00.000Z</updated>
-        <published>2023-07-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面了一个Vue3超强的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489605&amp;idx=1&amp;sn=b98851695f1ce1ea0d3c965da28797d9&amp;chksm=ce460dd4f93184c253917c1c8bc40bf5fb4c6d85f24478c98c9ddbf4f2bf58463b8609710c22#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489605&amp;idx=1&amp;sn=b98851695f1ce1ea0d3c965da28797d9&amp;chksm=ce460dd4f93184c253917c1c8bc40bf5fb4c6d85f24478c98c9ddbf4f2bf58463b8609710c22#rd"/>
         <updated>2023-07-20T16:00:00.000Z</updated>
         <published>2023-07-20T16:00:00.000Z</published>
     </entry>
