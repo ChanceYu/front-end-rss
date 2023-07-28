@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-07-28 06:01:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-28 10:01:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) ![](/assets/new.png)  
+- [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)  
@@ -524,6 +524,7 @@
 </summary>
 
 
+- [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html) ![](/assets/new.png)  
 - [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)  
 - [2023-07-14-科技爱好者周刊（第-262-期）：告别密码](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-262.html)  
 - [2023-07-07-科技爱好者周刊（第-261-期）：黑客马拉松的正确方式](http://www.ruanyifeng.com/blog/2023/07/weely-issue-261.html)  
@@ -543,7 +544,6 @@
 - [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)  
 - [2023-03-21-运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)  
 - [2023-03-17-科技爱好者周刊（第-246-期）：永不丢失的网络身份](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-246.html)  
-- [2023-03-10-科技爱好者周刊（第-245-期）：摩天大楼是反人类的](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-245.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

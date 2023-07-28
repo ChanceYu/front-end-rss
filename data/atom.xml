@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-27T22:01:13.330Z</updated>
+    <updated>2023-07-28T02:01:04.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 264 期）：Elasticsearch 的启示]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这 18 个JS优化技巧，可以解决 90% 的屎山代码！！！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515416&amp;idx=2&amp;sn=7871dfbb74677150ccde7a1d33cbd8a2&amp;chksm=f992bbc9cee532df360a542e151a8123059a1f15a51fedb4e65ac24fafc9e45822e8ae7dfcf8#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515371&amp;idx=2&amp;sn=d1807a66a2635a5fa894caea5c57ffeb&amp;chksm=f992ba3acee5332cd0e4946b37d04e7cc502d763143605243f4411caa6316f42e4bf265aacf6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515371&amp;idx=2&amp;sn=d1807a66a2635a5fa894caea5c57ffeb&amp;chksm=f992ba3acee5332cd0e4946b37d04e7cc502d763143605243f4411caa6316f42e4bf265aacf6#rd"/>
-        <updated>2023-07-21T16:00:00.000Z</updated>
-        <published>2023-07-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：如何判断一个对象存在"循环引用"?]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489608&amp;idx=1&amp;sn=e8f79a954ddceaac3f2d8628f6d8706d&amp;chksm=ce460dd9f93184cf856126765edf6d10b84dfda52e81aa0dacd1b8801999b8cbbc285f0307b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489608&amp;idx=1&amp;sn=e8f79a954ddceaac3f2d8628f6d8706d&amp;chksm=ce460dd9f93184cf856126765edf6d10b84dfda52e81aa0dacd1b8801999b8cbbc285f0307b8#rd"/>
         <updated>2023-07-21T16:00:00.000Z</updated>
         <published>2023-07-21T16:00:00.000Z</published>
     </entry>
