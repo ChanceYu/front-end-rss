@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-28T04:01:15.567Z</updated>
+    <updated>2023-07-28T10:01:16.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,27 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 264 期）：Elasticsearch 的启示]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TS 之父带队的新项目 TypeChat，预示着前端的未来]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一套被严重低估的 Web 面试题库！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=1&amp;sn=2922057e09801520bb55117743bd3f4c&amp;chksm=c2b33b56f5c4b24021f3090cbfb93af7b5c593b8fec5fd64bd806492b3aad19de97559fbc86b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=1&amp;sn=2922057e09801520bb55117743bd3f4c&amp;chksm=c2b33b56f5c4b24021f3090cbfb93af7b5c593b8fec5fd64bd806492b3aad19de97559fbc86b#rd"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[45K*16薪，9月准备跳槽的可以看看]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489704&amp;idx=1&amp;sn=707837c7283871c9ec6ba85f4978c898&amp;chksm=ce460d39f931842f93f0d8a78cded08eaa3f976c48b807c227dc7d12994ae56fffc8eec25654#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489704&amp;idx=1&amp;sn=707837c7283871c9ec6ba85f4978c898&amp;chksm=ce460d39f931842f93f0d8a78cded08eaa3f976c48b807c227dc7d12994ae56fffc8eec25654#rd"/>
         <updated>2023-07-27T16:00:00.000Z</updated>
         <published>2023-07-27T16:00:00.000Z</published>
     </entry>
@@ -162,16 +183,16 @@
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023年LLM如何入门？请看这篇综述！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd"/>
+        <title type="html"><![CDATA[最近，前端岗位爆了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=1&amp;sn=c29fc7b16da444e7218e42e04d9e18a3&amp;chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=1&amp;sn=c29fc7b16da444e7218e42e04d9e18a3&amp;chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近，前端岗位爆了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=1&amp;sn=c29fc7b16da444e7218e42e04d9e18a3&amp;chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=1&amp;sn=c29fc7b16da444e7218e42e04d9e18a3&amp;chksm=c2b33b70f5c4b26693467b9a561a2a78411da2dd8f3a6c8c3e2ae09ff8b60aa33ce94dab098c#rd"/>
+        <title type="html"><![CDATA[2023年LLM如何入门？请看这篇综述！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616037&amp;idx=2&amp;sn=6ac3a9831402e70694d557dce2c920d5&amp;chksm=8022a4e4b7552df2573355af1088ea97195dc4556933afd66ae775b5d3771a4c4d84d32a1bf1#rd"/>
         <updated>2023-07-22T16:00:00.000Z</updated>
         <published>2023-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官宣离职！React 核心开发者 Dan Abramov：“苦乐参半，我要辞去 Meta 的工作”]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616037&amp;idx=1&amp;sn=011dc4071fc8e0bf840027f143434fbe&amp;chksm=8022a4e4b7552df297a58394d854c9549e427b0dba1b73b811a3a0187d8c7aa4a551d9b11a0f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616037&amp;idx=1&amp;sn=011dc4071fc8e0bf840027f143434fbe&amp;chksm=8022a4e4b7552df297a58394d854c9549e427b0dba1b73b811a3a0187d8c7aa4a551d9b11a0f#rd"/>
-        <updated>2023-07-22T16:00:00.000Z</updated>
-        <published>2023-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3007期】通过调试技术，理清了视频播放很快的原理]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264143&amp;idx=1&amp;sn=1bfb4206cac11e3b27082fd6694da25b&amp;chksm=bd48cd0b8a3f441d877d45646d2c287e49a58876e11bdce0ef8c80c0336989cc561d31aad643#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264143&amp;idx=1&amp;sn=1bfb4206cac11e3b27082fd6694da25b&amp;chksm=bd48cd0b8a3f441d877d45646d2c287e49a58876e11bdce0ef8c80c0336989cc561d31aad643#rd"/>
-        <updated>2023-07-22T16:00:00.000Z</updated>
-        <published>2023-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[官宣离职！React 核心开发者 Dan Abramov：“苦乐参半，我要辞去 Meta 的工作”]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512630&amp;idx=1&amp;sn=32f2815cce981921812c06b42ba5484a&amp;chksm=eb078a4fdc700359a9c0363fa37d1023a2c6833d338b06b80771bd2bb5a6a3524227cae22018#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512630&amp;idx=1&amp;sn=32f2815cce981921812c06b42ba5484a&amp;chksm=eb078a4fdc700359a9c0363fa37d1023a2c6833d338b06b80771bd2bb5a6a3524227cae22018#rd"/>
-        <updated>2023-07-21T16:00:00.000Z</updated>
-        <published>2023-07-21T16:00:00.000Z</published>
     </entry>
 </feed>
