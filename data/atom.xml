@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-28T15:01:12.991Z</updated>
+    <updated>2023-07-28T22:00:46.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[45K*16薪，9月准备跳槽的可以看看]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489704&amp;idx=1&amp;sn=707837c7283871c9ec6ba85f4978c898&amp;chksm=ce460d39f931842f93f0d8a78cded08eaa3f976c48b807c227dc7d12994ae56fffc8eec25654#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489704&amp;idx=1&amp;sn=707837c7283871c9ec6ba85f4978c898&amp;chksm=ce460d39f931842f93f0d8a78cded08eaa3f976c48b807c227dc7d12994ae56fffc8eec25654#rd"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun原生JavaScript打包器登场，引入宏]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521551&amp;idx=1&amp;sn=8b03cbf1232e102d4b6898394d356745&amp;chksm=f952204cce25a95a56a91d086921277ebd480af6a93216f353784f14ff9856e7936d56ec3f95#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521551&amp;idx=1&amp;sn=8b03cbf1232e102d4b6898394d356745&amp;chksm=f952204cce25a95a56a91d086921277ebd480af6a93216f353784f14ff9856e7936d56ec3f95#rd"/>
         <updated>2023-07-27T16:00:00.000Z</updated>
         <published>2023-07-27T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[假如前端一夜间失业，天会塌下来吗？来看看老前辈程序员的历史……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512633&amp;idx=1&amp;sn=00d19e277849703188b529d0d14495b0&amp;chksm=eb078a40dc70035689c062da799e661fde07a6b03346fe0062138308d4662ce96e8ccc921353#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512633&amp;idx=1&amp;sn=00d19e277849703188b529d0d14495b0&amp;chksm=eb078a40dc70035689c062da799e661fde07a6b03346fe0062138308d4662ce96e8ccc921353#rd"/>
-        <updated>2023-07-22T16:00:00.000Z</updated>
-        <published>2023-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实践带你封装一个换肤的Hooks]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515380&amp;idx=2&amp;sn=cb31aa3bb6771a3e6d362b5f87b982b0&amp;chksm=f992ba25cee5333366d6219c992b9b585b9c834aa43b47609d440833447d70f2c45dd4848125#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515380&amp;idx=2&amp;sn=cb31aa3bb6771a3e6d362b5f87b982b0&amp;chksm=f992ba25cee5333366d6219c992b9b585b9c834aa43b47609d440833447d70f2c45dd4848125#rd"/>
         <updated>2023-07-22T16:00:00.000Z</updated>
         <published>2023-07-22T16:00:00.000Z</published>
     </entry>
