@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-29T07:01:18.009Z</updated>
+    <updated>2023-07-29T10:01:02.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[基于 Electron + Vue3 搭建一个桌面应用]]></title>
+        <id>http://www.yyyweb.com/5512.html</id>
+        <link href="http://www.yyyweb.com/5512.html"/>
+        <updated>2023-07-28T16:00:00.000Z</updated>
+        <published>2023-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无法成为野兽的前端们，几乎做不了 CTO 这事儿……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512814&amp;idx=1&amp;sn=2c08550c986ff34527fb242711726955&amp;chksm=eb078a97dc7003815335b28b27ff56eafa2e778f8cf7f73f0fd486afdae1621307c98363293d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512814&amp;idx=1&amp;sn=2c08550c986ff34527fb242711726955&amp;chksm=eb078a97dc7003815335b28b27ff56eafa2e778f8cf7f73f0fd486afdae1621307c98363293d#rd"/>
+        <updated>2023-07-28T16:00:00.000Z</updated>
+        <published>2023-07-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React、Vue3、Svelte 写法大 PK]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616238&amp;idx=2&amp;sn=2aef9fd671856956b82dc4986ec08b76&amp;chksm=8022a42fb7552d390b62dee4dc52cad8605670acb2b52dc2825f94d4f10d7cdfc741cf7f44f9#rd</id>
@@ -32,6 +46,20 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 264 期）：Elasticsearch 的启示]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TS之父的新项目typechat预示着前端的未来]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=2&amp;sn=e43c308cc61a218496931f91acd2ad4f&amp;chksm=eb078ac9dc7003dfdf2557af803d677ea9b842815072deeb938bd3f2f47d167601ee912b53e6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=2&amp;sn=e43c308cc61a218496931f91acd2ad4f&amp;chksm=eb078ac9dc7003dfdf2557af803d677ea9b842815072deeb938bd3f2f47d167601ee912b53e6#rd"/>
+        <updated>2023-07-27T16:00:00.000Z</updated>
+        <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊了一个26岁前端女生，真的有被震惊到！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=1&amp;sn=9d215319753a93bc64a0e0abfc59871a&amp;chksm=eb078ac9dc7003dfb0192dd4217dac3576910e0b0e28c36d62a10f6d0f68c0d4d111c3ba99d5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=1&amp;sn=9d215319753a93bc64a0e0abfc59871a&amp;chksm=eb078ac9dc7003dfb0192dd4217dac3576910e0b0e28c36d62a10f6d0f68c0d4d111c3ba99d5#rd"/>
         <updated>2023-07-27T16:00:00.000Z</updated>
         <published>2023-07-27T16:00:00.000Z</published>
     </entry>
@@ -104,6 +132,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264236&amp;idx=1&amp;sn=2e8fdc237c1fb2222b713e021c8d920a&amp;chksm=bd48cd688a3f447e8208c24337efc243b024a71ea92e3ce37094cde6a597164d682825cfa80f#rd"/>
         <updated>2023-07-27T16:00:00.000Z</updated>
         <published>2023-07-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[和最年轻的 Vue core 三咲智子，聊聊前端学习、参与开源和 Vue 3.3]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512732&amp;idx=1&amp;sn=cd4e515a4dcb7347d6d0f803d3930f86&amp;chksm=eb078ae5dc7003f36d74f36c7a74725446f52b6dd6a6a540da342b8ff016c373af8d0f442062#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512732&amp;idx=1&amp;sn=cd4e515a4dcb7347d6d0f803d3930f86&amp;chksm=eb078ae5dc7003f36d74f36c7a74725446f52b6dd6a6a540da342b8ff016c373af8d0f442062#rd"/>
+        <updated>2023-07-26T16:00:00.000Z</updated>
+        <published>2023-07-26T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[45K*16薪，9月准备跳槽的可以看看]]></title>
@@ -302,16 +337,16 @@
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[阿里面试官：小伙子你这前端水平可以啊！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd"/>
+        <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[次世代前端视图框架都在卷啥？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=2&amp;sn=d2f7a54971d9649dd29c8db99a820c8e&amp;chksm=eb078a18dc70030e9082b923b9a8fb277d24b78f6ca3c53043ba0241ea60dd263fe82ad06b27#rd"/>
+        <title type="html"><![CDATA[阿里面试官：小伙子你这前端水平可以啊！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512673&amp;idx=1&amp;sn=8ce13d5d4c94ffc3327de194be776605&amp;chksm=eb078a18dc70030ee8d3633e1d82fd87fc61be306b6258d9f8964655afc63027dd81c13dc147#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
@@ -326,41 +361,6 @@
         <title type="html"><![CDATA[Vue和React对比学习之路由角色权限]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=2&amp;sn=331b95638b53589285c06e945638cb1d&amp;chksm=f992ba28cee5333ef920eab81f88d9012a440668e2b5ad977e82d10669f39598adc034bf710e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=2&amp;sn=331b95638b53589285c06e945638cb1d&amp;chksm=f992ba28cee5333ef920eab81f88d9012a440668e2b5ad977e82d10669f39598adc034bf710e#rd"/>
-        <updated>2023-07-23T16:00:00.000Z</updated>
-        <published>2023-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为前端的你 Symbol 还没用过，有点" Low"了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=1&amp;sn=34b061819334c86cf45a328a9c84b784&amp;chksm=f992ba28cee5333efdecc00f9a5a692450ffbdeaaab60b87e27d93ff5de1fc656293546ed4b7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=1&amp;sn=34b061819334c86cf45a328a9c84b784&amp;chksm=f992ba28cee5333efdecc00f9a5a692450ffbdeaaab60b87e27d93ff5de1fc656293546ed4b7#rd"/>
-        <updated>2023-07-23T16:00:00.000Z</updated>
-        <published>2023-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[竟然可以在react中使用vue指令，快来看看吧]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489649&amp;idx=1&amp;sn=276409509a7df5f799d3f5473a1e11e0&amp;chksm=ce460de0f93184f6d2908bd0f2b1cf99087c6bdd0152c7eb5c37e65c4079af8609edcb6a4fa7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489649&amp;idx=1&amp;sn=276409509a7df5f799d3f5473a1e11e0&amp;chksm=ce460de0f93184f6d2908bd0f2b1cf99087c6bdd0152c7eb5c37e65c4079af8609edcb6a4fa7#rd"/>
-        <updated>2023-07-23T16:00:00.000Z</updated>
-        <published>2023-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于Node.js调试，你需要了解的一切]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521532&amp;idx=1&amp;sn=d22bdce20b54e4ae11151fa4a34c195d&amp;chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521532&amp;idx=1&amp;sn=d22bdce20b54e4ae11151fa4a34c195d&amp;chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd"/>
-        <updated>2023-07-23T16:00:00.000Z</updated>
-        <published>2023-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚面完一个阿里出来的大佬，堪称基础天花板！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616044&amp;idx=1&amp;sn=088ddbce866f2e0ae412d92e2bc238ec&amp;chksm=8022a4edb7552dfb28cea53e93f05efefe1faa1374069f0df15f0dc81feb60e2cd11cb7919f1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616044&amp;idx=1&amp;sn=088ddbce866f2e0ae412d92e2bc238ec&amp;chksm=8022a4edb7552dfb28cea53e93f05efefe1faa1374069f0df15f0dc81feb60e2cd11cb7919f1#rd"/>
-        <updated>2023-07-23T16:00:00.000Z</updated>
-        <published>2023-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 + Vite 调试神器，彻底抛弃 Vue Devtools]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616044&amp;idx=2&amp;sn=2a195604e30d2c40a92c31ae50ec6346&amp;chksm=8022a4edb7552dfbd75b99168f289d5a7f217b35746ce101e43f638949cbbcbc9ac8503c6afb#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616044&amp;idx=2&amp;sn=2a195604e30d2c40a92c31ae50ec6346&amp;chksm=8022a4edb7552dfbd75b99168f289d5a7f217b35746ce101e43f638949cbbcbc9ac8503c6afb#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
