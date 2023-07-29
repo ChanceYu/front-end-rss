@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-29T10:01:02.795Z</updated>
+    <updated>2023-07-29T22:01:34.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[无法成为野兽的前端们，几乎做不了 CTO 这事儿……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512814&amp;idx=1&amp;sn=2c08550c986ff34527fb242711726955&amp;chksm=eb078a97dc7003815335b28b27ff56eafa2e778f8cf7f73f0fd486afdae1621307c98363293d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512814&amp;idx=1&amp;sn=2c08550c986ff34527fb242711726955&amp;chksm=eb078a97dc7003815335b28b27ff56eafa2e778f8cf7f73f0fd486afdae1621307c98363293d#rd"/>
+        <updated>2023-07-28T16:00:00.000Z</updated>
+        <published>2023-07-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在创业公司做前端一年，学到了别人好几年的经验~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489734&amp;idx=1&amp;sn=d8698e66f3ed0a2b0fa68d0ae2892508&amp;chksm=ce460d57f93184416b242a3dcc4a3c983d1097e3f5d393f1c9e49d47af2618fa803919673f07#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489734&amp;idx=1&amp;sn=d8698e66f3ed0a2b0fa68d0ae2892508&amp;chksm=ce460d57f93184416b242a3dcc4a3c983d1097e3f5d393f1c9e49d47af2618fa803919673f07#rd"/>
         <updated>2023-07-28T16:00:00.000Z</updated>
         <published>2023-07-28T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端食堂技术周刊第 91 期：2023 npm 状态、TC39会议回顾、浏览器中的Sass、React 18如何提高应用程序性能]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498396&amp;idx=1&amp;sn=09e7d28e34b0452a1113a6579d5a0f1c&amp;chksm=c2b33b63f5c4b275a6620a7a830e0cf488cf252f6506e9350eb28d87ec6eebb75a0ca8a5a273#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498396&amp;idx=1&amp;sn=09e7d28e34b0452a1113a6579d5a0f1c&amp;chksm=c2b33b63f5c4b275a6620a7a830e0cf488cf252f6506e9350eb28d87ec6eebb75a0ca8a5a273#rd"/>
-        <updated>2023-07-23T16:00:00.000Z</updated>
-        <published>2023-07-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue和React对比学习之路由角色权限]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=2&amp;sn=331b95638b53589285c06e945638cb1d&amp;chksm=f992ba28cee5333ef920eab81f88d9012a440668e2b5ad977e82d10669f39598adc034bf710e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515385&amp;idx=2&amp;sn=331b95638b53589285c06e945638cb1d&amp;chksm=f992ba28cee5333ef920eab81f88d9012a440668e2b5ad977e82d10669f39598adc034bf710e#rd"/>
         <updated>2023-07-23T16:00:00.000Z</updated>
         <published>2023-07-23T16:00:00.000Z</published>
     </entry>
