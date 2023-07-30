@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-30T15:00:54.021Z</updated>
+    <updated>2023-07-30T22:00:50.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端试用期改祖传屎山是一种怎么样的体验]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489777&amp;idx=1&amp;sn=7a45a4376a7cf5926f670cd748487991&amp;chksm=ce460d60f9318476fbc8c0b47b52e0df98b2d520e5303fdcf3259b6f6e047ccf0af07ba24f99#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489777&amp;idx=1&amp;sn=7a45a4376a7cf5926f670cd748487991&amp;chksm=ce460d60f9318476fbc8c0b47b52e0df98b2d520e5303fdcf3259b6f6e047ccf0af07ba24f99#rd"/>
+        <updated>2023-07-29T16:00:00.000Z</updated>
+        <published>2023-07-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 个你不知道的 CSS 伪元素]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616249&amp;idx=2&amp;sn=f392ab3920f9a2e664fcde610267c9af&amp;chksm=8022a438b7552d2e64c06fa8f0074ba81f01f594010577e019df20567e78c9000db8119f55fd#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我用 React+TS 从 0 到 1 实现一个 Terminal 终端]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616201&amp;idx=2&amp;sn=b5e6cdd0a26058e4847faea1b0dd3c5c&amp;chksm=8022a408b7552d1ea588bf9b96896f1ef4f65554c0123105ba72986215c3810a980cf687e0a0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616201&amp;idx=2&amp;sn=b5e6cdd0a26058e4847faea1b0dd3c5c&amp;chksm=8022a408b7552d1ea588bf9b96896f1ef4f65554c0123105ba72986215c3810a980cf687e0a0#rd"/>
-        <updated>2023-07-24T16:00:00.000Z</updated>
-        <published>2023-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】关注和理解业务]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264174&amp;idx=2&amp;sn=ae4c979c9ee2548d0262109891686e7f&amp;chksm=bd48cd2a8a3f443c99dc591cdd29c6cf9e0f1c67e4eaf96c301fd53e58c22ac70c5bb4061a12#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264174&amp;idx=2&amp;sn=ae4c979c9ee2548d0262109891686e7f&amp;chksm=bd48cd2a8a3f443c99dc591cdd29c6cf9e0f1c67e4eaf96c301fd53e58c22ac70c5bb4061a12#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
