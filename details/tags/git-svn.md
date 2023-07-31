@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-07-31 12:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-07-31 18:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -48,6 +48,7 @@
 - [2020-05-15-开源项目被-GitHub-要求下架：上游项目闭源了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494738&idx=2&sn=daaac9cedd50a63d5c804746505036c9&chksm=f9525911ce25d0076915eed31e53fccbbc9b1d6f28c9b896bbff00bae2c9b60b7f641c020aa0&scene=27#wechat_redirect) 
 - [2020-02-10-中国开源前端为王？GitHub-5.4亿条日志背后的数据故事](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493720&idx=1&sn=10bb747764cb1e1cec2ab9ee279bfd3d&chksm=f9525d1bce25d40ddfffe101f59612538a5e95dcdf38e70545dbeb23a83a57c8f80afc037b88&scene=27#wechat_redirect) 
 - [2018-11-09-GitHub-仓库数量破亿了！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489835&idx=1&sn=9f5a5364a107102847380bfcd29f5395#wechat_redirect) 
+- [2023-07-31-10分钟带你体验github-actions，以后简历可以写-CI/CD-了~亮点！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489814&idx=1&sn=c4e11cac6d52fa01604a9c385af134e9&chksm=ce460c87f931859137ac93b0b2bb308895c251f5e84198d2fb00df208fef51d8d035e0f96956#rd) 
 - [2023-07-05-这个前端应用在GitHub7.7K-Star，竟是AI编程做出来的](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489327&idx=1&sn=39f18d52f6d67514c5767cb441422de0&chksm=ce4602bef9318ba8f7b7ffae11ef1d201e5a14b684269ec70ab3d3ea48a19bc04bad98837283#rd) 
 - [2022-11-18-工作中如何使用-Git](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487425&idx=1&sn=c522a7efd73837e02f5c2fb6e6560484&chksm=ce461a50f93193465f097f6e95810bfaef66da69eb262b763bb66288eb11d15a05717cefd38d#rd) 
 - [2022-04-09-三心给大家分享一个阅读Github项目代码的小技巧~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486076&idx=1&sn=46ae2cd78ca5803765ec848724558317&chksm=ce461fedf93196fb4ce8ed281f42b490859c4d288e977c71940369a7365f4bf270b4a353b3d4#rd) 

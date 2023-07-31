@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-07-31T04:01:16.395Z</updated>
+    <updated>2023-07-31T10:00:51.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[精读《算法题 - 通配符匹配》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487109&amp;idx=1&amp;sn=bfd7fd72f3ba87b06667e529b2410385&amp;chksm=fc86284fcbf1a159f500829d380a12b34f736ba5e9ef12836416bd74780dde0f3325f4418473#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487109&amp;idx=1&amp;sn=bfd7fd72f3ba87b06667e529b2410385&amp;chksm=fc86284fcbf1a159f500829d380a12b34f736ba5e9ef12836416bd74780dde0f3325f4418473#rd"/>
+        <updated>2023-07-30T16:00:00.000Z</updated>
+        <published>2023-07-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10分钟带你体验github actions，以后简历可以写 CI/CD 了~亮点！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489814&amp;idx=1&amp;sn=c4e11cac6d52fa01604a9c385af134e9&amp;chksm=ce460c87f931859137ac93b0b2bb308895c251f5e84198d2fb00df208fef51d8d035e0f96956#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489814&amp;idx=1&amp;sn=c4e11cac6d52fa01604a9c385af134e9&amp;chksm=ce460c87f931859137ac93b0b2bb308895c251f5e84198d2fb00df208fef51d8d035e0f96956#rd"/>
         <updated>2023-07-30T16:00:00.000Z</updated>
         <published>2023-07-30T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2023年LLM如何入门？请看这篇综述！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498383&amp;idx=2&amp;sn=1290c17f6ebb8dd7e74d6b88df699d17&amp;chksm=c2b33b70f5c4b266e055a7f0e078e38af1968b284058e0e5c91bc2cb4757c6b18f35b24fed03#rd"/>
-        <updated>2023-07-24T16:00:00.000Z</updated>
-        <published>2023-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[leaferjs，全新的 Canvas 渲染引擎]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515390&amp;idx=2&amp;sn=b5e187d303869a0f58a0c776ec7a4b83&amp;chksm=f992ba2fcee533399652859b2f74f102d95e9d917f26a40a0799fb71cc0cc1249bb811be7ccc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515390&amp;idx=2&amp;sn=b5e187d303869a0f58a0c776ec7a4b83&amp;chksm=f992ba2fcee533399652859b2f74f102d95e9d917f26a40a0799fb71cc0cc1249bb811be7ccc#rd"/>
         <updated>2023-07-24T16:00:00.000Z</updated>
         <published>2023-07-24T16:00:00.000Z</published>
     </entry>
