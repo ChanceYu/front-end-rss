@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-01T10:00:46.891Z</updated>
+    <updated>2023-08-01T15:00:56.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 92 期：VueConf 2023、TypeChat、向量数据库、Nuxt 服务器组件指南]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498415&amp;idx=1&amp;sn=124f79204b62faf229387a6f118a3e33&amp;chksm=c2b33b50f5c4b24687eff993ed5ed67cb7258b2a85c2522b412bd5782af64a822e3aeae184c8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498415&amp;idx=1&amp;sn=124f79204b62faf229387a6f118a3e33&amp;chksm=c2b33b50f5c4b24687eff993ed5ed67cb7258b2a85c2522b412bd5782af64a822e3aeae184c8#rd"/>
+        <updated>2023-07-31T16:00:00.000Z</updated>
+        <published>2023-07-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手撕面试官，看这一篇足够！！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489821&amp;idx=1&amp;sn=fab9bdaf7520c50517dbd3323bd786c3&amp;chksm=ce460c8cf931859a52297a4a39daf060e9e266d31b30b6f08660f5a1e6278c558572e1595c9b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489821&amp;idx=1&amp;sn=fab9bdaf7520c50517dbd3323bd786c3&amp;chksm=ce460c8cf931859a52297a4a39daf060e9e266d31b30b6f08660f5a1e6278c558572e1595c9b#rd"/>
+        <updated>2023-07-31T16:00:00.000Z</updated>
+        <published>2023-07-31T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[项目提交按钮没防抖，差点影响了验收]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616266&amp;idx=2&amp;sn=141dc82c6c7337b966b7abb92ede92fe&amp;chksm=8022a3cbb7552add2898056f8a2acb6238438778d63e050c5c8b81f2c01b44d9aa417a1266b9#rd</id>
@@ -232,16 +246,16 @@
         <published>2023-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TS 之父带队的新项目 TypeChat，预示着前端的未来]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd"/>
+        <title type="html"><![CDATA[一套被严重低估的 Web 面试题库！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=1&amp;sn=2922057e09801520bb55117743bd3f4c&amp;chksm=c2b33b56f5c4b24021f3090cbfb93af7b5c593b8fec5fd64bd806492b3aad19de97559fbc86b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=1&amp;sn=2922057e09801520bb55117743bd3f4c&amp;chksm=c2b33b56f5c4b24021f3090cbfb93af7b5c593b8fec5fd64bd806492b3aad19de97559fbc86b#rd"/>
         <updated>2023-07-27T16:00:00.000Z</updated>
         <published>2023-07-27T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一套被严重低估的 Web 面试题库！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=1&amp;sn=2922057e09801520bb55117743bd3f4c&amp;chksm=c2b33b56f5c4b24021f3090cbfb93af7b5c593b8fec5fd64bd806492b3aad19de97559fbc86b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=1&amp;sn=2922057e09801520bb55117743bd3f4c&amp;chksm=c2b33b56f5c4b24021f3090cbfb93af7b5c593b8fec5fd64bd806492b3aad19de97559fbc86b#rd"/>
+        <title type="html"><![CDATA[TS 之父带队的新项目 TypeChat，预示着前端的未来]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd"/>
         <updated>2023-07-27T16:00:00.000Z</updated>
         <published>2023-07-27T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264218&amp;idx=1&amp;sn=0c3ff6c207c2261007cbdc9b816f58bd&amp;chksm=bd48cd5e8a3f444807ce1bb8169b16f2007c3fc763ad137ab7c3709c23756b7489adbb6baeae#rd"/>
         <updated>2023-07-26T16:00:00.000Z</updated>
         <published>2023-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Name mangling]]></title>
-        <id>https://javascriptweekly.com/issues/649</id>
-        <link href="https://javascriptweekly.com/issues/649"/>
-        <updated>2023-07-26T16:00:00.000Z</updated>
-        <published>2023-07-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试一个半月，经历 PUA，自我怀疑，深夜痛苦……我入职了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512697&amp;idx=1&amp;sn=4786d869ef9911464fb80a2520484df1&amp;chksm=eb078a00dc70031661d0bd06763562cab1fb2416314986e421eae001384fa15af25c43b5074a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512697&amp;idx=1&amp;sn=4786d869ef9911464fb80a2520484df1&amp;chksm=eb078a00dc70031661d0bd06763562cab1fb2416314986e421eae001384fa15af25c43b5074a#rd"/>
-        <updated>2023-07-25T16:00:00.000Z</updated>
-        <published>2023-07-25T16:00:00.000Z</published>
     </entry>
 </feed>
