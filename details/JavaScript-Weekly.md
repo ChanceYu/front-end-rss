@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-07-28 06:01:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-04 06:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650) 
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649) 
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648) 
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647) 

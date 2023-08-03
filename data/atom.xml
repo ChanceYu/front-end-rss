@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-03T00:00:49.754Z</updated>
+    <updated>2023-08-03T22:01:12.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[你可能并不需要 TypeScript]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512854&amp;idx=1&amp;sn=f9ddf34db2fb2ad746053e731b7669d0&amp;chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512854&amp;idx=1&amp;sn=f9ddf34db2fb2ad746053e731b7669d0&amp;chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd"/>
+        <updated>2023-08-02T16:00:00.000Z</updated>
+        <published>2023-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 年的 Node.js 生态系统]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498427&amp;idx=1&amp;sn=6faa40aff1e5200874aac6f6de4914d9&amp;chksm=c2b33b44f5c4b252730cab54432a85f54e1ce20e280d9c997133fbe3012158e356fdc82da3be#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498427&amp;idx=1&amp;sn=6faa40aff1e5200874aac6f6de4914d9&amp;chksm=c2b33b44f5c4b252730cab54432a85f54e1ce20e280d9c997133fbe3012158e356fdc82da3be#rd"/>
+        <updated>2023-08-02T16:00:00.000Z</updated>
+        <published>2023-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5分钟带你了解【前端装饰器】，“高大上”的“基础知识”]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489829&amp;idx=1&amp;sn=0dda6600df205b7e2a3c5ac2a6cb2e31&amp;chksm=ce460cb4f93185a29aa2147c8bebf63ef8743b7b287b87a119c9dea650f0fee79212e834f604#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489829&amp;idx=1&amp;sn=0dda6600df205b7e2a3c5ac2a6cb2e31&amp;chksm=ce460cb4f93185a29aa2147c8bebf63ef8743b7b287b87a119c9dea650f0fee79212e834f604#rd"/>
+        <updated>2023-08-02T16:00:00.000Z</updated>
+        <published>2023-08-02T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】寻找普适性模式]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264406&amp;idx=2&amp;sn=b5946509acd27d85b955d840eef607f2&amp;chksm=bd48cc128a3f450473edf858012b4440b7925aace32727ca320f625351970f33ba5bf21e5348#rd</id>
@@ -29,9 +50,23 @@
         <published>2023-08-02T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泰裤辣！号称可替代Chrome的Arc浏览器发布 1.0 版本]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd"/>
+        <title type="html"><![CDATA[Taking JavaScript into Python]]></title>
+        <id>https://javascriptweekly.com/issues/650</id>
+        <link href="https://javascriptweekly.com/issues/650"/>
+        <updated>2023-08-02T16:00:00.000Z</updated>
+        <published>2023-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 浏览器运行原理你了解多少？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512851&amp;idx=2&amp;sn=2eea54ef5f9cc1ba584352defc388a67&amp;chksm=eb078b6adc70027cc0c829ec347eccbb0a7fb9fdebc82a0b852a176ba42c5eb9e4952ed9029f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512851&amp;idx=2&amp;sn=2eea54ef5f9cc1ba584352defc388a67&amp;chksm=eb078b6adc70027cc0c829ec347eccbb0a7fb9fdebc82a0b852a176ba42c5eb9e4952ed9029f#rd"/>
+        <updated>2023-08-01T16:00:00.000Z</updated>
+        <published>2023-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近，前端岗位开始复苏了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512851&amp;idx=1&amp;sn=76e2b9784bf9c061ad48c2c839256ce7&amp;chksm=eb078b6adc70027c7564db84a7b365233a8dd38ac068d4076fa5ffa1158146df1818711f93e2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512851&amp;idx=1&amp;sn=76e2b9784bf9c061ad48c2c839256ce7&amp;chksm=eb078b6adc70027c7564db84a7b365233a8dd38ac068d4076fa5ffa1158146df1818711f93e2#rd"/>
         <updated>2023-08-01T16:00:00.000Z</updated>
         <published>2023-08-01T16:00:00.000Z</published>
     </entry>
@@ -39,6 +74,13 @@
         <title type="html"><![CDATA[认识了一个Vue3超厉害的前端女生。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=1&amp;sn=7ada65da6ef4d02662fe8d05dd1ce63e&amp;chksm=c2b33b46f5c4b2508963bb723e39b54537dbadf71e59f248683c39dfb94b2392c2541b44087b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=1&amp;sn=7ada65da6ef4d02662fe8d05dd1ce63e&amp;chksm=c2b33b46f5c4b2508963bb723e39b54537dbadf71e59f248683c39dfb94b2392c2541b44087b#rd"/>
+        <updated>2023-08-01T16:00:00.000Z</updated>
+        <published>2023-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰裤辣！号称可替代Chrome的Arc浏览器发布 1.0 版本]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd"/>
         <updated>2023-08-01T16:00:00.000Z</updated>
         <published>2023-08-01T16:00:00.000Z</published>
     </entry>
@@ -97,6 +139,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264388&amp;idx=1&amp;sn=01194c9d3f7c0b032232d8887f6849a8&amp;chksm=bd48cc008a3f451642f9882344c37c6096534989d5693efefa7d11a20a2126ce0e9e505180e0#rd"/>
         <updated>2023-08-01T16:00:00.000Z</updated>
         <published>2023-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[油管性能拉跨，Chrome 团队出手相助…]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512840&amp;idx=1&amp;sn=3aebfaf8a644cf5cb16ba4461247ee54&amp;chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512840&amp;idx=1&amp;sn=3aebfaf8a644cf5cb16ba4461247ee54&amp;chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd"/>
+        <updated>2023-07-31T16:00:00.000Z</updated>
+        <published>2023-07-31T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端食堂技术周刊第 92 期：VueConf 2023、TypeChat、向量数据库、Nuxt 服务器组件指南]]></title>
@@ -314,54 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616238&amp;idx=2&amp;sn=2aef9fd671856956b82dc4986ec08b76&amp;chksm=8022a42fb7552d390b62dee4dc52cad8605670acb2b52dc2825f94d4f10d7cdfc741cf7f44f9#rd"/>
         <updated>2023-07-28T16:00:00.000Z</updated>
         <published>2023-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埋点还可以这么做？这也太简单了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616238&amp;idx=1&amp;sn=e8682c6da54aff291ce8bbfad1dc45c0&amp;chksm=8022a42fb7552d39c9ad551bead17f02efce808afa0ab6f449f34a039c2ce09162988a3469e1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616238&amp;idx=1&amp;sn=e8682c6da54aff291ce8bbfad1dc45c0&amp;chksm=8022a42fb7552d39c9ad551bead17f02efce808afa0ab6f449f34a039c2ce09162988a3469e1#rd"/>
-        <updated>2023-07-28T16:00:00.000Z</updated>
-        <published>2023-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3013期】如何帮助开发同学快速定位前端应用的运行问题的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264337&amp;idx=1&amp;sn=d7d9126578c74c912e1f0d42cb5629da&amp;chksm=bd48ccd58a3f45c3f2cbc7d7b732c820b9e7cd6b547c06acc8170b233710b5fb5ed62f5fd94d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264337&amp;idx=1&amp;sn=d7d9126578c74c912e1f0d42cb5629da&amp;chksm=bd48ccd58a3f45c3f2cbc7d7b732c820b9e7cd6b547c06acc8170b233710b5fb5ed62f5fd94d#rd"/>
-        <updated>2023-07-28T16:00:00.000Z</updated>
-        <published>2023-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】简练易懂]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264337&amp;idx=2&amp;sn=581cbe0fc2f33a44028e75f41b531f8e&amp;chksm=bd48ccd58a3f45c3462894d6b28696acba3038ec6d60f95e42b4dda5cf9990c949013d34765d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264337&amp;idx=2&amp;sn=581cbe0fc2f33a44028e75f41b531f8e&amp;chksm=bd48ccd58a3f45c3462894d6b28696acba3038ec6d60f95e42b4dda5cf9990c949013d34765d#rd"/>
-        <updated>2023-07-28T16:00:00.000Z</updated>
-        <published>2023-07-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 264 期）：Elasticsearch 的启示]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html"/>
-        <updated>2023-07-27T16:00:00.000Z</updated>
-        <published>2023-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊了一个26岁前端女生，真的有被震惊到！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=1&amp;sn=9d215319753a93bc64a0e0abfc59871a&amp;chksm=eb078ac9dc7003dfb0192dd4217dac3576910e0b0e28c36d62a10f6d0f68c0d4d111c3ba99d5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=1&amp;sn=9d215319753a93bc64a0e0abfc59871a&amp;chksm=eb078ac9dc7003dfb0192dd4217dac3576910e0b0e28c36d62a10f6d0f68c0d4d111c3ba99d5#rd"/>
-        <updated>2023-07-27T16:00:00.000Z</updated>
-        <published>2023-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TS之父的新项目typechat预示着前端的未来]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=2&amp;sn=e43c308cc61a218496931f91acd2ad4f&amp;chksm=eb078ac9dc7003dfdf2557af803d677ea9b842815072deeb938bd3f2f47d167601ee912b53e6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512752&amp;idx=2&amp;sn=e43c308cc61a218496931f91acd2ad4f&amp;chksm=eb078ac9dc7003dfdf2557af803d677ea9b842815072deeb938bd3f2f47d167601ee912b53e6#rd"/>
-        <updated>2023-07-27T16:00:00.000Z</updated>
-        <published>2023-07-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TS 之父带队的新项目 TypeChat，预示着前端的未来]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498409&amp;idx=2&amp;sn=e1e1e738e504a0e86d7c83f8775a8c6f&amp;chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd"/>
-        <updated>2023-07-27T16:00:00.000Z</updated>
-        <published>2023-07-27T16:00:00.000Z</published>
     </entry>
 </feed>
