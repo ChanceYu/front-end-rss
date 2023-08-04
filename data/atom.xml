@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-04T02:00:48.103Z</updated>
+    <updated>2023-08-04T10:01:10.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 265 期）：WiFi 的后面是 LiFi]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html"/>
+        <updated>2023-08-03T16:00:00.000Z</updated>
+        <published>2023-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年前端如何快速涨薪？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489831&amp;idx=1&amp;sn=dcef3b79becad5fdc28f8bc128b7930c&amp;chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489831&amp;idx=1&amp;sn=dcef3b79becad5fdc28f8bc128b7930c&amp;chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd"/>
         <updated>2023-08-03T16:00:00.000Z</updated>
         <published>2023-08-03T16:00:00.000Z</published>
     </entry>
@@ -83,6 +90,13 @@
         <link href="https://javascriptweekly.com/issues/650"/>
         <updated>2023-08-02T16:00:00.000Z</updated>
         <published>2023-08-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 实现的蠕动小虫]]></title>
+        <id>https://mp.weixin.qq.com/s?t=pages%2Fimage_detail&amp;scene=1&amp;__biz=MzIyMDc1NTYxNg%3D%3D&amp;mid=2247487802&amp;idx=1&amp;sn=64e68c2f63d86167e10e042383fe4fb6%23wechat_redirect</id>
+        <link href="https://mp.weixin.qq.com/s?t=pages%2Fimage_detail&amp;scene=1&amp;__biz=MzIyMDc1NTYxNg%3D%3D&amp;mid=2247487802&amp;idx=1&amp;sn=64e68c2f63d86167e10e042383fe4fb6%23wechat_redirect"/>
+        <updated>2023-08-01T16:00:00.000Z</updated>
+        <published>2023-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chrome 浏览器运行原理你了解多少？]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[9 个你不知道的 CSS 伪元素]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616249&amp;idx=2&amp;sn=f392ab3920f9a2e664fcde610267c9af&amp;chksm=8022a438b7552d2e64c06fa8f0074ba81f01f594010577e019df20567e78c9000db8119f55fd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616249&amp;idx=2&amp;sn=f392ab3920f9a2e664fcde610267c9af&amp;chksm=8022a438b7552d2e64c06fa8f0074ba81f01f594010577e019df20567e78c9000db8119f55fd#rd"/>
-        <updated>2023-07-29T16:00:00.000Z</updated>
-        <published>2023-07-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[async/await 函数到底要不要加 try catch ?]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616249&amp;idx=1&amp;sn=e486e191ce576f577fc151e334486a55&amp;chksm=8022a438b7552d2e09d8e7e9eab79d0a372605f82a4bb9f6ac1c96e7b7a9a8ce4cb617f59864#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616249&amp;idx=1&amp;sn=e486e191ce576f577fc151e334486a55&amp;chksm=8022a438b7552d2e09d8e7e9eab79d0a372605f82a4bb9f6ac1c96e7b7a9a8ce4cb617f59864#rd"/>
-        <updated>2023-07-29T16:00:00.000Z</updated>
-        <published>2023-07-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3014期】使用设计规则来进行 UI 设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264341&amp;idx=1&amp;sn=34337bb1c9db543903f18d4af8957081&amp;chksm=bd48ccd18a3f45c72dcbdc8b83f90f0c24bc33a792c03fcb8fe9d6c9fa77e24a089fe2157d0d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264341&amp;idx=1&amp;sn=34337bb1c9db543903f18d4af8957081&amp;chksm=bd48ccd18a3f45c72dcbdc8b83f90f0c24bc33a792c03fcb8fe9d6c9fa77e24a089fe2157d0d#rd"/>
         <updated>2023-07-29T16:00:00.000Z</updated>
         <published>2023-07-29T16:00:00.000Z</published>
     </entry>
