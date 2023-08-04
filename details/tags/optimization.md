@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-04 18:01:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-04 23:01:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -63,6 +63,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2023-08-04-为什么各大网站都选择骨架屏？谈谈骨架屏对网站的优化的重要性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=2&sn=5133180707a366de7023dda11d150fb4&chksm=8022a3e7b7552af19170304ae273a6180db8a86bea8e8c0734df51756f99adf08b7d01fdcc4b#rd) 
 - [2023-07-11-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615787&idx=2&sn=6f1a2bba365f76957d0f09cd1fd719b6&chksm=8022a5eab7552cfc8362f1387c61107824fdf9c70fc39f8cc1262f4adedb4ba3b12c03c63906#rd) 
 - [2023-07-04-记录一次前端优化首屏时间-70%-的优化过程~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615385&idx=2&sn=c818a6e30aaac6330868ad5ad6ff6f59&chksm=8022a758b7552e4e3dacc84085a15db744416fe7cfba1b9d534222876c7ba7b0ced2640bfdc1#rd) 
 - [2023-06-12-前端加载超大图片100M以上实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615004&idx=1&sn=1633b08b739e729eb85b90dc82e27238&chksm=8022b8ddb75531cb06f4fc1a61ac314ebeff326a638fa0e0a337df175833fb11d6b1b873705c#rd) 
@@ -188,6 +189,7 @@
 - [2022-03-19-如何做一次前端性能优化](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061950&idx=1&sn=e850b7e09dba1d9337ee13050f29c399&chksm=87c425aeb0b3acb8a8eb0ddd51d4bcdc704cfbccab26aece78b24e8d2416accd764222f37372#rd) 
 - [2022-03-04-2022-年-Web-核心性能指标是什么？谷歌工程师告诉你，FMP-过时啦！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061398&idx=2&sn=530181512fe854ceac140752c205a679&chksm=87c42386b0b3aa908490fc6901296caba51482fee8bd244d6ddeb06aa56f8a52ca2df6589a31#rd) 
 - [2022-01-18-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060916&idx=2&sn=af699c8d2ddbc01b1390774c966a5b70&chksm=87c421a4b0b3a8b2fc7ef9808b8632e6100a6409920412cbcc7435163c990d81a4507578ca93#rd) 
+- [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd) 
 - [2023-07-30-前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515466&idx=1&sn=bffbe78643381468764ff013e85cb54a&chksm=f992bb9bcee5328dc49eaf3d9f054ec732bfecb871bc9f4a4d6d887291ec76d4bace6358b201#rd) 
 - [2023-07-19-前端打包加个性能插件检测~性能不过关就发邮件告诉领导！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515325&idx=1&sn=ceccd4f7d62a92309e9db73cf0547e4c&chksm=f992ba6ccee5337adea2c6a754f493ce2f15d9b7a3c04ed98aa83d09f84b26ffa952b428c2bb#rd) 
 - [2023-07-16-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515296&idx=1&sn=a03194e8c985b344bd1cb192eae373ea&chksm=f992ba71cee533678ca21203b582a3e0cc0ab4396c3d32fa97264ee3c6188fe0c039855c8432#rd) 
