@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-04T15:01:28.399Z</updated>
+    <updated>2023-08-04T22:01:16.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[今年前端如何快速涨薪？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489831&amp;idx=1&amp;sn=dcef3b79becad5fdc28f8bc128b7930c&amp;chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489831&amp;idx=1&amp;sn=dcef3b79becad5fdc28f8bc128b7930c&amp;chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd"/>
+        <updated>2023-08-03T16:00:00.000Z</updated>
+        <published>2023-08-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移动端性能挖掘：字节跳动iOS与安卓性能归因实践]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521624&amp;idx=1&amp;sn=23b20ce73e554c1c5686c478835bfe49&amp;chksm=f952201bce25a90d99ad72c17a827090ffdee65747ea364dd9076a9668280063b3f62c1e75f6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521624&amp;idx=1&amp;sn=23b20ce73e554c1c5686c478835bfe49&amp;chksm=f952201bce25a90d99ad72c17a827090ffdee65747ea364dd9076a9668280063b3f62c1e75f6#rd"/>
         <updated>2023-08-03T16:00:00.000Z</updated>
         <published>2023-08-03T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[最近，前端岗位复苏了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616250&amp;idx=1&amp;sn=8d9cd3f77a4c51c1560159d85fadd836&amp;chksm=8022a43bb7552d2d237dc7c9252e1e4272b6b0453a38b55c408e5397d586d359dfe8f0c1bd52#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616250&amp;idx=1&amp;sn=8d9cd3f77a4c51c1560159d85fadd836&amp;chksm=8022a43bb7552d2d237dc7c9252e1e4272b6b0453a38b55c408e5397d586d359dfe8f0c1bd52#rd"/>
-        <updated>2023-07-30T16:00:00.000Z</updated>
-        <published>2023-07-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】时常设想最坏情况的发生]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264348&amp;idx=2&amp;sn=16e4f817166562d3106687be60dc0b92&amp;chksm=bd48ccd88a3f45ce786e97d2f74d57a7c7570c9d3031b586763b3a2c506f30fd298d50bbf39a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264348&amp;idx=2&amp;sn=16e4f817166562d3106687be60dc0b92&amp;chksm=bd48ccd88a3f45ce786e97d2f74d57a7c7570c9d3031b586763b3a2c506f30fd298d50bbf39a#rd"/>
         <updated>2023-07-30T16:00:00.000Z</updated>
         <published>2023-07-30T16:00:00.000Z</published>
     </entry>

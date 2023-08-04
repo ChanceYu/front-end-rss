@@ -10,24 +10,24 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-04 23:01:26，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-05 06:01:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -135,10 +135,10 @@
 </summary>
 
 
-- [2023-08-04-不会这-10-个-Web-API，你还好意思说你是前端开发者？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=1&sn=00d5fc2cad61a0457aea81b8787d4d67&chksm=8022a3e7b7552af17853c493d010552bb82dca91d7b4c85ca7877df1a5d4ff329a277f9e8275#rd) ![](/assets/new.png)  
-- [2023-08-04-为什么各大网站都选择骨架屏？谈谈骨架屏对网站的优化的重要性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=2&sn=5133180707a366de7023dda11d150fb4&chksm=8022a3e7b7552af19170304ae273a6180db8a86bea8e8c0734df51756f99adf08b7d01fdcc4b#rd) ![](/assets/new.png)  
+- [2023-08-04-不会这-10-个-Web-API，你还好意思说你是前端开发者？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=1&sn=00d5fc2cad61a0457aea81b8787d4d67&chksm=8022a3e7b7552af17853c493d010552bb82dca91d7b4c85ca7877df1a5d4ff329a277f9e8275#rd)  
+- [2023-08-04-为什么各大网站都选择骨架屏？谈谈骨架屏对网站的优化的重要性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=2&sn=5133180707a366de7023dda11d150fb4&chksm=8022a3e7b7552af19170304ae273a6180db8a86bea8e8c0734df51756f99adf08b7d01fdcc4b#rd)  
 - [2023-08-03-面试官偷偷给到45k*16薪，堪称面试风向标！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616284&idx=1&sn=d10fce8fb63a5d6173ee8fc6f92caf51&chksm=8022a3ddb7552acbb054ed5a0a7464bddbb1766ca28bea5191c999510b865813475e64897ee9#rd)  
-- [2023-08-03-JS-运行机制最全面的一次梳理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616284&idx=2&sn=342c32b3780b9abca8264106dec38f4e&chksm=8022a3ddb7552acbf2c6b659c2467bbe7c403d988f5a97a3c0b715f1a234c725d6ab5382ef49#rd) ![](/assets/new.png)  
+- [2023-08-03-JS-运行机制最全面的一次梳理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616284&idx=2&sn=342c32b3780b9abca8264106dec38f4e&chksm=8022a3ddb7552acbf2c6b659c2467bbe7c403d988f5a97a3c0b715f1a234c725d6ab5382ef49#rd)  
 - [2023-08-02-有人做小众应用就月入数万，为什么多数程序员都不做个人开发来赚钱呢？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616275&idx=1&sn=2b782cb339e08729f91ae731170d6428&chksm=8022a3d2b7552ac44c139a3dba9e6db06286ec3b5f2810c71f319456702fe8dda4c36f41eee8#rd)  
 - [2023-08-02-5-种在-Vue-3-中定义组件的方法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616275&idx=2&sn=cdf67379736517db306fe9026f9438a5&chksm=8022a3d2b7552ac45af8cf758fd9ee9b03412444aaf0953381cce2843c9da052884153506ecf#rd)  
 - [2023-08-01-项目提交按钮没防抖，差点影响了验收](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616266&idx=2&sn=141dc82c6c7337b966b7abb92ede92fe&chksm=8022a3cbb7552add2898056f8a2acb6238438778d63e050c5c8b81f2c01b44d9aa417a1266b9#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-08-04-移动端性能挖掘：字节跳动iOS与安卓性能归因实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521624&idx=1&sn=23b20ce73e554c1c5686c478835bfe49&chksm=f952201bce25a90d99ad72c17a827090ffdee65747ea364dd9076a9668280063b3f62c1e75f6#rd) ![](/assets/new.png)  
 - [2023-08-02-Kotlin-1.9.0-发布：带来多项新的语言特性，改进Multiplatform/Native支持](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521575&idx=1&sn=b20ae882c84cac84b35a349168080c99&chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd)  
 - [2023-07-31-Web-开放性或遭重大打击！谷歌四名工程师推出-WEI-方案，可让广告拦截变成历史](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521568&idx=1&sn=bb5c70ef97a252c3628c65601fddefbe&chksm=f9522063ce25a97526ca50fcf9fc22d96690863db087786e8b7fdbb69ce9dbee7852b6c28d43#rd)  
 - [2023-07-28-Bun原生JavaScript打包器登场，引入宏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521551&idx=1&sn=8b03cbf1232e102d4b6898394d356745&chksm=f952204cce25a95a56a91d086921277ebd480af6a93216f353784f14ff9856e7936d56ec3f95#rd)  
@@ -185,7 +186,6 @@
 - [2023-06-26-300毫秒分胜负：维基百科的总阻塞时间优化之道](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521278&idx=1&sn=5d5db9f3855322fa38884d3a5630737e&chksm=f95226bdce25afabba0642f6908f4480fa82e628e15854d921359c2d622a37469fd3f6427838#rd)  
 - [2023-06-21-Next.js-+-Rust-革新全栈开发，Rust没那么难](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521256&idx=1&sn=b85f93527f3f1854c6eff1bc4bd09360&chksm=f95226abce25afbdacafd83363e5e49bc3257bf8bcfc349f0dc5c9aa406d0b9616d638dc582c#rd)  
 - [2023-06-19-LangChain：2023年最潮大语言模型Web开发框架](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521255&idx=1&sn=8e8d86e1534438985ea210fd2eee6e52&chksm=f95226a4ce25afb223d2ece4e93d082eb5aa96feceb833534b6e03c328f394fbf01f575591c5#rd)  
-- [2023-06-16-如何在Next.js全栈应用程序中无缝实现身份验证](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521238&idx=1&sn=ff3ef21e67c72597546c14bdc56da7ab&chksm=f9522695ce25af839c3afede64da98ad359b0f9f39c0678ac9b5aabed6660cb36de06f7c1fc8#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd) ![](/assets/new.png)  
-- [2023-08-04-TypeScript之父也搞大模型：推出TypeChat](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=2&sn=ba69e728e3afa69dd3c64cb6c5d87ed1&chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd) ![](/assets/new.png)  
+- [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd)  
+- [2023-08-04-TypeScript之父也搞大模型：推出TypeChat](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=2&sn=ba69e728e3afa69dd3c64cb6c5d87ed1&chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd)  
 - [2023-08-03-在高德地图中实现降雨图层](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515515&idx=2&sn=0048ecb023e534a66eb5934a5c3bb3ed&chksm=f992bbaacee532bcfe88008bf858677679746c569b36cbe8c669842ea461550585d61ce70744#rd)  
 - [2023-08-03-前端跨平台框架对比分析，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515515&idx=1&sn=9168e21cb0d07503947f605d9d52842b&chksm=f992bbaacee532bc12dcda1e1e1484f26405b585ef405504ae4c59cfdd1967fb9bfbce454402#rd)  
 - [2023-08-02-认识了一个Vue3超厉害的前端女生。。。](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515498&idx=1&sn=c31c744bd30cd721146c6945d5834d01&chksm=f992bbbbcee532ad6716d2663a9f5b400b4ebe2c8bfaa995200558ed4a415d3499b34ae5ec0a#rd)  
@@ -444,11 +444,11 @@
 
 
 - [2023-08-02-CSS-实现的蠕动小虫](https://mp.weixin.qq.com/s?t=pages%2Fimage_detail&scene=1&__biz=MzIyMDc1NTYxNg%3D%3D&mid=2247487802&idx=1&sn=64e68c2f63d86167e10e042383fe4fb6%23wechat_redirect)  
-- [2023-07-31-借助-input-range-实现图片对比功能](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487792&idx=1&sn=2d568d3fc4390eb270e7be6fdcd7a114&chksm=97c672ffa0b1fbe9139dae3e25abf3348a7d243783a563324507bffc15f2ea2be8d3b3657fbc#rd) ![](/assets/new.png)  
-- [2023-07-27-我的第一个群](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487791&idx=1&sn=7b33d283a5f68a933ae0da6357fa1069&chksm=97c672e0a0b1fbf6966995cb67f7f6499026d1670b195ebd5f03bcb5830b851dc4172d90759c#rd) ![](/assets/new.png)  
-- [2023-07-26-CSS-响应式根字号生成工具](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487785&idx=1&sn=00f5822cb69df333880304da088ab0f1&chksm=97c672e6a0b1fbf05063e2f226d099812b3486fcdd38e40aad99650c3385648adbbcb985b057#rd) ![](/assets/new.png)  
-- [2023-07-24-CSS-滚动驱动动画终于正式支持了~](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487775&idx=1&sn=54d09243e36c7d5470982d4237bf8303&chksm=97c672d0a0b1fbc6676ce29a16e13f186689e253d0d7c1454fb95c8d9530b7d443468b94ad4b#rd) ![](/assets/new.png)  
-- [2023-07-21-CSS-实现的火焰效果🔥](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487738&idx=1&sn=b06742afa692d100678805c9126ad194&chksm=97c67335a0b1fa23727af2328d6e2badc03b6735f264448c4ef07823845033e7f9a3ff8cf74c#rd) ![](/assets/new.png)  
+- [2023-07-31-借助-input-range-实现图片对比功能](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487792&idx=1&sn=2d568d3fc4390eb270e7be6fdcd7a114&chksm=97c672ffa0b1fbe9139dae3e25abf3348a7d243783a563324507bffc15f2ea2be8d3b3657fbc#rd)  
+- [2023-07-27-我的第一个群](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487791&idx=1&sn=7b33d283a5f68a933ae0da6357fa1069&chksm=97c672e0a0b1fbf6966995cb67f7f6499026d1670b195ebd5f03bcb5830b851dc4172d90759c#rd)  
+- [2023-07-26-CSS-响应式根字号生成工具](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487785&idx=1&sn=00f5822cb69df333880304da088ab0f1&chksm=97c672e6a0b1fbf05063e2f226d099812b3486fcdd38e40aad99650c3385648adbbcb985b057#rd)  
+- [2023-07-24-CSS-滚动驱动动画终于正式支持了~](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487775&idx=1&sn=54d09243e36c7d5470982d4237bf8303&chksm=97c672d0a0b1fbc6676ce29a16e13f186689e253d0d7c1454fb95c8d9530b7d443468b94ad4b#rd)  
+- [2023-07-21-CSS-实现的火焰效果🔥](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487738&idx=1&sn=b06742afa692d100678805c9126ad194&chksm=97c67335a0b1fa23727af2328d6e2badc03b6735f264448c4ef07823845033e7f9a3ff8cf74c#rd)  
 - [2023-07-03-纯-CSS-实现带连接线的树形组件](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487628&idx=1&sn=3e2030964d901a4514b932f5ce2d9bcb&chksm=97c67343a0b1fa553dc3be570d450baec10202932c9c938fde476e0cf3a9978e77b781fc2e3e#rd)  
 - [2023-06-28-CSS-TIPS!-单标签实现丝带角标](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487590&idx=1&sn=6e3bea6be5cc5211d80c66ef52a59aa2&chksm=97c673a9a0b1fabfa422dbb3e60f2ed7a360d7bfb9160a47772ef480bb4e0ae1dd6ca62bd0d3#rd)  
 - [2023-06-26-深入了解CSS颜色混合函数color-mix](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247487583&idx=1&sn=60c41f0037007fee817b9eeca535aab1&chksm=97c67390a0b1fa8635e8c332c294a1b3cfba6f6908c21d4aafd35cd021b5401028885472e9a3#rd)  
