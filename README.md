@@ -10,21 +10,21 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-07 06:01:41，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-07 12:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)  
+- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
@@ -136,7 +136,7 @@
 
 
 - [2023-08-06-美团面试官：那你讲一讲-Vuex-吧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616342&idx=1&sn=c2c5065f4b144e8a74943a87203a0bcb&chksm=8022a397b7552a81da6da4fa5b9c686f7d028261a67118b21763ec25d3511a4231ae4c4aba1e#rd)  
-- [2023-08-06-hippo---提升我们团队工程效率的工具](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616342&idx=2&sn=b5dfcb36d7eb846a8ca148776609bdad&chksm=8022a397b7552a81f4defa54e1afd9a37a50196982ed6914869f6fc10ade730b03a50a12fb49#rd) ![](/assets/new.png)  
+- [2023-08-06-hippo---提升我们团队工程效率的工具](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616342&idx=2&sn=b5dfcb36d7eb846a8ca148776609bdad&chksm=8022a397b7552a81f4defa54e1afd9a37a50196982ed6914869f6fc10ade730b03a50a12fb49#rd)  
 - [2023-08-05-完美搭配，微前端与-Monorepo-的架构设计](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616336&idx=1&sn=118c800d17a6dc34fb504f5d2f297ead&chksm=8022a391b7552a87cccb06288771740421c0e3e82722fe94867d4daa4a7139b72ae3123a0ea4#rd)  
 - [2023-08-05-谈谈你对-vite-的了解](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616336&idx=2&sn=d9c6ba3318e9cf59bc294e6ca0b53d80&chksm=8022a391b7552a87101c23345f0b0c4c3d48771bb7e7e4a3405b6bbcf7ea22ec89edcd03a4fe#rd)  
 - [2023-08-04-为什么各大网站都选择骨架屏？谈谈骨架屏对网站的优化的重要性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=2&sn=5133180707a366de7023dda11d150fb4&chksm=8022a3e7b7552af19170304ae273a6180db8a86bea8e8c0734df51756f99adf08b7d01fdcc4b#rd)  
@@ -197,7 +197,7 @@
 </summary>
 
 
-- [2023-08-06-一个小公司的前端技术开发心酸事](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489845&idx=1&sn=5def7c5a53dea887204a5c1d41cfc72a&chksm=ce460ca4f93185b2a899b6e693fc713067e014e9cff0f5aa2880bb6662956234eeb1e3637c35#rd) ![](/assets/new.png)  
+- [2023-08-06-一个小公司的前端技术开发心酸事](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489845&idx=1&sn=5def7c5a53dea887204a5c1d41cfc72a&chksm=ce460ca4f93185b2a899b6e693fc713067e014e9cff0f5aa2880bb6662956234eeb1e3637c35#rd)  
 - [2023-08-05-JS高级用法：像大神一样玩转JavaScript](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489838&idx=1&sn=31303dd0a0426e68f437aaf72d09051c&chksm=ce460cbff93185a9fb1a474bee9048dedef704db48b1849bf11b437a605bf3a97fefa1dcf89a#rd)  
 - [2023-08-04-今年前端如何快速涨薪？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489831&idx=1&sn=dcef3b79becad5fdc28f8bc128b7930c&chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd)  
 - [2023-08-03-5分钟带你了解【前端装饰器】，“高大上”的“基础知识”](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489829&idx=1&sn=0dda6600df205b7e2a3c5ac2a6cb2e31&chksm=ce460cb4f93185a29aa2147c8bebf63ef8743b7b287b87a119c9dea650f0fee79212e834f604#rd)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-08-06-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=1&sn=6048e4158c64c1e24b9b68766ed31d9e&chksm=f992bb15cee53203f84d5f2d2a74133283869b84db0569fb53025de7479643859336955c1370#rd) ![](/assets/new.png)  
-- [2023-08-06-了解并实践-Monorepo-和-pnpm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=2&sn=2ab4efdf58aa44d8d94c924c78c53e2b&chksm=f992bb15cee532037ca21435b7dc14dc7f6ca538f93c24f739de1d217735f4663307fc0ddfcb#rd) ![](/assets/new.png)  
+- [2023-08-06-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=1&sn=6048e4158c64c1e24b9b68766ed31d9e&chksm=f992bb15cee53203f84d5f2d2a74133283869b84db0569fb53025de7479643859336955c1370#rd)  
+- [2023-08-06-了解并实践-Monorepo-和-pnpm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=2&sn=2ab4efdf58aa44d8d94c924c78c53e2b&chksm=f992bb15cee532037ca21435b7dc14dc7f6ca538f93c24f739de1d217735f4663307fc0ddfcb#rd)  
 - [2023-08-04-TypeScript之父也搞大模型：推出TypeChat](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=2&sn=ba69e728e3afa69dd3c64cb6c5d87ed1&chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd)  
 - [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd)  
 - [2023-08-03-前端跨平台框架对比分析，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515515&idx=1&sn=9168e21cb0d07503947f605d9d52842b&chksm=f992bbaacee532bc12dcda1e1e1484f26405b585ef405504ae4c59cfdd1967fb9bfbce454402#rd)  
@@ -352,20 +352,21 @@
 </summary>
 
 
+- [2023-08-07-精读《算法题---统计可以被-K-整除的下标对数目》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487119&idx=1&sn=2c82baddcc55217e27a2bbfc0c227c60&chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd) ![](/assets/new.png)  
 - [2023-07-31-精读《算法题---通配符匹配》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487109&idx=1&sn=bfd7fd72f3ba87b06667e529b2410385&chksm=fc86284fcbf1a159f500829d380a12b34f736ba5e9ef12836416bd74780dde0f3325f4418473#rd)  
 - [2023-07-10-精读《自由布局吸附线的实现》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487094&idx=1&sn=cf3662f1c8e98b75eeaf826bd3465c5a&chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd)  
 - [2023-06-19-精读《自由-+-磁贴混合布局》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487087&idx=1&sn=51ca988ba4a50d1fe544c64d8e1b9b55&chksm=fc8628a5cbf1a1b367aa0dd46ad806303fb35f59c604e92855d4068494c9f94aa3e876d59c38#rd)  
 - [2023-05-29-可视化搭建---场景实战](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487080&idx=1&sn=5a7cec0d958434c282691c9e3cba30fa&chksm=fc8628a2cbf1a1b444bbb8158fdfb60bddfd8ea553c65b080bca453f98d692c9b905009d0e82#rd)  
 - [2023-05-22-可视化搭建---自动批处理与冻结](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487066&idx=1&sn=d19cd8962c9da8dbcb95b43d88f6261c&chksm=fc862890cbf1a186804f1f30178508f8c776e991363131434447bb4edaf8e74f8aea8071ce6f#rd)  
 - [2023-05-08-ComponentLoader-与动态组件](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487055&idx=1&sn=abb5791cc6eb4cd24d13ae69fbd94e3e&chksm=fc862885cbf1a1933c20caeb22448f2588a3ed09c3b9a0c8bab2e6c79fca5bdf9697e716190e#rd)  
-- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw)  
-- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
+- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
 - [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s/1fYO__dfUy2MIjHi3IJrmg)  
-- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487015&idx=1&sn=02681fc1f9812ec4257faa1e9a299b51&chksm=fc8628edcbf1a1fb23c369d62a811c367c30d298da710a457b524c05ac7c41323172c57e6684#rd)  
+- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
 - [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s/0jHFnqGGCVIknst0tRczvw)  
-- [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487002&idx=1&sn=3c110690a1af986a15a4cd26ea4b6c9c&chksm=fc8628d0cbf1a1c646167fd2e2665d29454a3b79460a18a1d10a283fcd4edb3cfaf64bb1560a#rd)  
+- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487015&idx=1&sn=02681fc1f9812ec4257faa1e9a299b51&chksm=fc8628edcbf1a1fb23c369d62a811c367c30d298da710a457b524c05ac7c41323172c57e6684#rd)  
 - [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s/gNCxpxuPRp7R7qna5U4aJg)  
+- [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487002&idx=1&sn=3c110690a1af986a15a4cd26ea4b6c9c&chksm=fc8628d0cbf1a1c646167fd2e2665d29454a3b79460a18a1d10a283fcd4edb3cfaf64bb1560a#rd)  
 - [2023-02-27-可视化搭建---组件值与联动](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486990&idx=1&sn=6b0896fc593b55941cabe86d28c2fd11&chksm=fc8628c4cbf1a1d2a39ef6502652f7f7ea479d13f1f1a21a0a1a725b899d78499a9f0f6ff620#rd)  
 - [2023-02-20-可视化搭建---容器组件设计](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486977&idx=1&sn=2dd54d4963d3eaa7d4030050e023b525&chksm=fc8628cbcbf1a1ddcb965bf43a94c49f82b4f874d619a42823e06d0a85153ac0d035cb52a866#rd)  
 - [2023-02-13-可视化搭建内置-API](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486965&idx=1&sn=7873bf82e38620d53beb626eb75b4c49&chksm=fc862b3fcbf1a229d4982c53c8785ce9ef4f4fdc9170eb52808514f5935358b7d16e57033043#rd)  

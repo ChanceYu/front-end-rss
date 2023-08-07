@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-06T22:01:43.360Z</updated>
+    <updated>2023-08-07T04:00:48.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[精读《算法题 - 统计可以被 K 整除的下标对数目》]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487119&amp;idx=1&amp;sn=2c82baddcc55217e27a2bbfc0c227c60&amp;chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487119&amp;idx=1&amp;sn=2c82baddcc55217e27a2bbfc0c227c60&amp;chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd"/>
+        <updated>2023-08-06T16:00:00.000Z</updated>
+        <published>2023-08-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[了解并实践 Monorepo 和 pnpm]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515588&amp;idx=2&amp;sn=2ab4efdf58aa44d8d94c924c78c53e2b&amp;chksm=f992bb15cee532037ca21435b7dc14dc7f6ca538f93c24f739de1d217735f4663307fc0ddfcb#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3016期】得物工单域前端的变革及类端能力的探索]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264372&amp;idx=1&amp;sn=3d2035843688bb8b291d049f637ca4e0&amp;chksm=bd48ccf08a3f45e6a1ed9901dded8cc7f8030636d7700abdd1a6529efdbd617ada710efa1f4f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264372&amp;idx=1&amp;sn=3d2035843688bb8b291d049f637ca4e0&amp;chksm=bd48ccf08a3f45e6a1ed9901dded8cc7f8030636d7700abdd1a6529efdbd617ada710efa1f4f#rd"/>
-        <updated>2023-07-31T16:00:00.000Z</updated>
-        <published>2023-07-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】趣话计算机底层技术]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264372&amp;idx=2&amp;sn=82331ca4ae65856ac38c8b1df3e9cf4a&amp;chksm=bd48ccf08a3f45e66f809d1d42a9f02284351136daca78b995f35c286fb966851bccb16feedf#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264372&amp;idx=2&amp;sn=82331ca4ae65856ac38c8b1df3e9cf4a&amp;chksm=bd48ccf08a3f45e66f809d1d42a9f02284351136daca78b995f35c286fb966851bccb16feedf#rd"/>
         <updated>2023-07-31T16:00:00.000Z</updated>
         <published>2023-07-31T16:00:00.000Z</published>
     </entry>
