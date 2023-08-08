@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-07T22:00:52.969Z</updated>
+    <updated>2023-08-08T04:01:03.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[《TypeScript 教程》发布了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html"/>
+        <updated>2023-08-07T16:00:00.000Z</updated>
+        <published>2023-08-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS 渐变中的颜色空间和色相插值]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487883&amp;idx=1&amp;sn=e7dfcdb9bff00063e935d83f0a70edf8&amp;chksm=97c67244a0b1fb52e476e6947530feae1c088a0889b47feb136626e146c6c58409cec8442869#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Kotlin 1.9.0 发布：带来多项新的语言特性，改进Multiplatform/Native支持]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521575&amp;idx=1&amp;sn=b20ae882c84cac84b35a349168080c99&amp;chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521575&amp;idx=1&amp;sn=b20ae882c84cac84b35a349168080c99&amp;chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd"/>
-        <updated>2023-08-01T16:00:00.000Z</updated>
-        <published>2023-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 种在 Vue 3 中定义组件的方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616275&amp;idx=2&amp;sn=cdf67379736517db306fe9026f9438a5&amp;chksm=8022a3d2b7552ac45af8cf758fd9ee9b03412444aaf0953381cce2843c9da052884153506ecf#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616275&amp;idx=2&amp;sn=cdf67379736517db306fe9026f9438a5&amp;chksm=8022a3d2b7552ac45af8cf758fd9ee9b03412444aaf0953381cce2843c9da052884153506ecf#rd"/>
         <updated>2023-08-01T16:00:00.000Z</updated>
         <published>2023-08-01T16:00:00.000Z</published>
     </entry>

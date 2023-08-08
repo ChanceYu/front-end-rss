@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-08 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-08 12:01:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -168,3 +168,4 @@
 - [2022-09-27-TypeScript-4.9-beta-发布：鸽置的-ES-装饰器、satisfies-操作符、类型收窄增强、单文件级别配置等](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496329&idx=1&sn=e0ca704b51890a9d400c0f155244ad41&chksm=ec47b94adb30305c79c3af5df585fca27b7fbdf683411c43e944e0d82607a38b45b4f0162e75#rd) 
 - [2022-03-16-TypeScript-中的类型控制流分析演进](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495503&idx=1&sn=7f5a63645e5b90d222865204df3afc2c&chksm=ec47a48cdb302d9aa0523361551dc7d839508832187f6330911695ce86c518d7c758c552635e#rd) 
 - [2022-03-01-淘宝店铺-TypeScript-研发规约落地实践](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495461&idx=1&sn=ad1efbe8eba81569aae9914d58dd2cbe&chksm=ec47a4e6db302df032a900ce47032b429b5e85c6e2fb027434ddd1f9ef16d5c19304190c5990#rd) 
+- [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) 

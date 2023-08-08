@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-08 06:00:51，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-08 12:01:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +18,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-08-07-曝光：Android恶意应用巧妙伪装，谷歌紧急出手修复漏洞](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521665&idx=1&sn=e659f998af30439cc16358f34c86a0b6&chksm=f95220c2ce25a9d4ca1f590a5bb13203ea2dc1d0cf5e092c4b1a8a61ece3d84a226acefff1a7#rd) ![](/assets/new.png)  
+- [2023-08-07-曝光：Android恶意应用巧妙伪装，谷歌紧急出手修复漏洞](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521665&idx=1&sn=e659f998af30439cc16358f34c86a0b6&chksm=f95220c2ce25a9d4ca1f590a5bb13203ea2dc1d0cf5e092c4b1a8a61ece3d84a226acefff1a7#rd)  
 - [2023-08-04-移动端性能挖掘：字节跳动iOS与安卓性能归因实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521624&idx=1&sn=23b20ce73e554c1c5686c478835bfe49&chksm=f952201bce25a90d99ad72c17a827090ffdee65747ea364dd9076a9668280063b3f62c1e75f6#rd)  
 - [2023-08-02-Kotlin-1.9.0-发布：带来多项新的语言特性，改进Multiplatform/Native支持](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521575&idx=1&sn=b20ae882c84cac84b35a349168080c99&chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd)  
 - [2023-07-31-Web-开放性或遭重大打击！谷歌四名工程师推出-WEI-方案，可让广告拦截变成历史](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521568&idx=1&sn=bb5c70ef97a252c3628c65601fddefbe&chksm=f9522063ce25a97526ca50fcf9fc22d96690863db087786e8b7fdbb69ce9dbee7852b6c28d43#rd)  
@@ -413,8 +413,8 @@
 </summary>
 
 
-- [2023-08-07-认识了一个Vue3超厉害的前端女生。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=1&sn=9e41846da26965fbea6880e886a71367&chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd) ![](/assets/new.png)  
-- [2023-08-07-写了一个-vscode-插件：自动添加可选链](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=2&sn=8eb02491eb5e809f568cc3c68c3857da&chksm=eb078cc4dc7005d2fd2fc7668031f255cf35691bb53f90ca055ab3af6e0a2785a6d2fa830a53#rd) ![](/assets/new.png)  
+- [2023-08-07-认识了一个Vue3超厉害的前端女生。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=1&sn=9e41846da26965fbea6880e886a71367&chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd)  
+- [2023-08-07-写了一个-vscode-插件：自动添加可选链](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=2&sn=8eb02491eb5e809f568cc3c68c3857da&chksm=eb078cc4dc7005d2fd2fc7668031f255cf35691bb53f90ca055ab3af6e0a2785a6d2fa830a53#rd)  
 - [2023-08-05-代码之外的尤雨溪：在新加坡的生活，以及如何面对黑粉。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512903&idx=1&sn=eb80093c66231dad5870741a8bdd8d44&chksm=eb078b3edc7002289c082d840cf7e1a69eb0346b8399809a460235505231fbfb59dde3353ee7#rd)  
 - [2023-08-04-我还是选择了-MobX…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512859&idx=1&sn=7dc741937f8e69c975fb6e5be8bde590&chksm=eb078b62dc700274e66f9bc3c488c6fd63c1b93907ecaac7d8b7e3b97be2bbc64d9d672703b7#rd)  
 - [2023-08-03-你可能并不需要-TypeScript](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512854&idx=1&sn=f9ddf34db2fb2ad746053e731b7669d0&chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd)  
@@ -534,6 +534,7 @@
 </summary>
 
 
+- [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html) ![](/assets/new.png)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  
 - [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)  
 - [2023-07-21-科技爱好者周刊（第-263-期）：开源软件如何赚钱？](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-263.html)  
@@ -553,7 +554,6 @@
 - [2023-04-07-科技爱好者周刊（第-249-期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)  
 - [2023-03-31-科技爱好者周刊（第-248-期）：不要夸大-ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)  
 - [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)  
-- [2023-03-21-运维的未来是平台工程](http://www.ruanyifeng.com/blog/2023/03/platform-engineering.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
