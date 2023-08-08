@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-08-02 06:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-08 21:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) 
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497) 
 - [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496) 
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495) 

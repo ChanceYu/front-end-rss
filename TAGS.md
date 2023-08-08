@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-08-08 12:01:02。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-08-08 21:00:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
 - [【Node-Weekly】Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)
 - [【Node-Weekly】Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)
 - [【Node-Weekly】Taking-flight-with-Feathers-5](https://nodeweekly.com/issues/477)
@@ -739,7 +740,6 @@
 - [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [【Node-Weekly】Security](https://nodeweekly.com/issues/417)
 - [【JavaScript-Weekly】Name-mangling](https://javascriptweekly.com/issues/649)
-- [【JavaScript-Weekly】htmx-in-100-seconds](https://javascriptweekly.com/issues/647)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

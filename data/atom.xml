@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-08T04:01:03.270Z</updated>
+    <updated>2023-08-08T13:00:47.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,27 @@
         <title type="html"><![CDATA[《TypeScript 教程》发布了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html"/>
+        <updated>2023-08-07T16:00:00.000Z</updated>
+        <published>2023-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端食堂技术周刊第 93 期：7 月登陆 Web 平台的新功能、Node.js 工具箱、Nuxt3 开发技巧、MF 重构方案]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498445&amp;idx=1&amp;sn=84fa044e23f72affdd235f64353bac11&amp;chksm=c2b33b32f5c4b22417d490eec2da5aed8918ab3096d4667dd711b6dc7c48393df899e3b11ecd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498445&amp;idx=1&amp;sn=84fa044e23f72affdd235f64353bac11&amp;chksm=c2b33b32f5c4b22417d490eec2da5aed8918ab3096d4667dd711b6dc7c48393df899e3b11ecd#rd"/>
+        <updated>2023-08-07T16:00:00.000Z</updated>
+        <published>2023-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489866&amp;idx=1&amp;sn=9099c5378bbfecc58a5c1fe0fe6e7fb3&amp;chksm=ce460cdbf93185cdca156467cb42ba15f9d5c642741bf58e4e2649b87f0ac14d976888f38698#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489866&amp;idx=1&amp;sn=9099c5378bbfecc58a5c1fe0fe6e7fb3&amp;chksm=ce460cdbf93185cdca156467cb42ba15f9d5c642741bf58e4e2649b87f0ac14d976888f38698#rd"/>
+        <updated>2023-08-07T16:00:00.000Z</updated>
+        <published>2023-08-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's create some dependency graphs]]></title>
+        <id>https://nodeweekly.com/issues/498</id>
+        <link href="https://nodeweekly.com/issues/498"/>
         <updated>2023-08-07T16:00:00.000Z</updated>
         <published>2023-08-07T16:00:00.000Z</published>
     </entry>
@@ -43,16 +64,16 @@
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一文读懂 Nuxt.js 服务端组件]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd"/>
+        <title type="html"><![CDATA[面试官偷偷给到45k*16薪，堪称面试风向标！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=1&amp;sn=c7a96bc33f6c3755d6ff9f3a7557eec9&amp;chksm=c2b33b3af5c4b22c7f2eae6cdb758781c0fe963511f6e0d904f0d66bf54d0f0a9676fa098340#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=1&amp;sn=c7a96bc33f6c3755d6ff9f3a7557eec9&amp;chksm=c2b33b3af5c4b22c7f2eae6cdb758781c0fe963511f6e0d904f0d66bf54d0f0a9676fa098340#rd"/>
         <updated>2023-08-06T16:00:00.000Z</updated>
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面试官偷偷给到45k*16薪，堪称面试风向标！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=1&amp;sn=c7a96bc33f6c3755d6ff9f3a7557eec9&amp;chksm=c2b33b3af5c4b22c7f2eae6cdb758781c0fe963511f6e0d904f0d66bf54d0f0a9676fa098340#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=1&amp;sn=c7a96bc33f6c3755d6ff9f3a7557eec9&amp;chksm=c2b33b3af5c4b22c7f2eae6cdb758781c0fe963511f6e0d904f0d66bf54d0f0a9676fa098340#rd"/>
+        <title type="html"><![CDATA[一文读懂 Nuxt.js 服务端组件]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd"/>
         <updated>2023-08-06T16:00:00.000Z</updated>
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
@@ -323,13 +344,6 @@
         <published>2023-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泰裤辣！号称可替代Chrome的Arc浏览器发布 1.0 版本]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd"/>
-        <updated>2023-08-01T16:00:00.000Z</updated>
-        <published>2023-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[认识了一个Vue3超厉害的前端女生。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=1&amp;sn=7ada65da6ef4d02662fe8d05dd1ce63e&amp;chksm=c2b33b46f5c4b2508963bb723e39b54537dbadf71e59f248683c39dfb94b2392c2541b44087b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=1&amp;sn=7ada65da6ef4d02662fe8d05dd1ce63e&amp;chksm=c2b33b46f5c4b2508963bb723e39b54537dbadf71e59f248683c39dfb94b2392c2541b44087b#rd"/>
@@ -337,30 +351,16 @@
         <published>2023-08-01T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[泰裤辣！号称可替代Chrome的Arc浏览器发布 1.0 版本]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498425&amp;idx=2&amp;sn=7b172ff94d37d2307a81f204cb0dc27f&amp;chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd"/>
+        <updated>2023-08-01T16:00:00.000Z</updated>
+        <published>2023-08-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端怎么监听手机键盘是否弹起]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515498&amp;idx=2&amp;sn=5bc83325064759049d1df858af663b16&amp;chksm=f992bbbbcee532ad2f658937f455d4328f816411606da7e9f8079ea516946d5c4cf128fa8286#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515498&amp;idx=2&amp;sn=5bc83325064759049d1df858af663b16&amp;chksm=f992bbbbcee532ad2f658937f455d4328f816411606da7e9f8079ea516946d5c4cf128fa8286#rd"/>
-        <updated>2023-08-01T16:00:00.000Z</updated>
-        <published>2023-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[认识了一个Vue3超厉害的前端女生。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515498&amp;idx=1&amp;sn=c31c744bd30cd721146c6945d5834d01&amp;chksm=f992bbbbcee532ad6716d2663a9f5b400b4ebe2c8bfaa995200558ed4a415d3499b34ae5ec0a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515498&amp;idx=1&amp;sn=c31c744bd30cd721146c6945d5834d01&amp;chksm=f992bbbbcee532ad6716d2663a9f5b400b4ebe2c8bfaa995200558ed4a415d3499b34ae5ec0a#rd"/>
-        <updated>2023-08-01T16:00:00.000Z</updated>
-        <published>2023-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作中学到三个CSS伪类，直接少些几百行CSS代码~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489822&amp;idx=1&amp;sn=43e10598d2635bfef7b17131d42c6100&amp;chksm=ce460c8ff93185996b6bbcb5502e1e1335aadf2be975c3eab75b5f7f4e7d49adb7a6e11ea9ea#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489822&amp;idx=1&amp;sn=43e10598d2635bfef7b17131d42c6100&amp;chksm=ce460c8ff93185996b6bbcb5502e1e1335aadf2be975c3eab75b5f7f4e7d49adb7a6e11ea9ea#rd"/>
-        <updated>2023-08-01T16:00:00.000Z</updated>
-        <published>2023-08-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotlin 1.9.0 发布：带来多项新的语言特性，改进Multiplatform/Native支持]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521575&amp;idx=1&amp;sn=b20ae882c84cac84b35a349168080c99&amp;chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521575&amp;idx=1&amp;sn=b20ae882c84cac84b35a349168080c99&amp;chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd"/>
         <updated>2023-08-01T16:00:00.000Z</updated>
         <published>2023-08-01T16:00:00.000Z</published>
     </entry>
