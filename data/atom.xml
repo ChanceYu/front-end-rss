@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-09T13:00:54.746Z</updated>
+    <updated>2023-08-09T15:01:12.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[建议收藏！总结了 42 种前端常用布局方案]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515611&amp;idx=2&amp;sn=5202854b7b090d2d2e3dde42c4c4dca1&amp;chksm=f992bb0acee5321cef61532049c984363c244e5d2766a7319e28d97526ac64f14d88258dbb5e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515611&amp;idx=2&amp;sn=5202854b7b090d2d2e3dde42c4c4dca1&amp;chksm=f992bb0acee5321cef61532049c984363c244e5d2766a7319e28d97526ac64f14d88258dbb5e#rd"/>
+        <updated>2023-08-08T16:00:00.000Z</updated>
+        <published>2023-08-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
+        <updated>2023-08-08T16:00:00.000Z</updated>
+        <published>2023-08-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[你可能并不需要 TypeScript]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512854&amp;idx=1&amp;sn=f9ddf34db2fb2ad746053e731b7669d0&amp;chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247512854&amp;idx=1&amp;sn=f9ddf34db2fb2ad746053e731b7669d0&amp;chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd"/>
-        <updated>2023-08-02T16:00:00.000Z</updated>
-        <published>2023-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年的 Node.js 生态系统]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498427&amp;idx=1&amp;sn=6faa40aff1e5200874aac6f6de4914d9&amp;chksm=c2b33b44f5c4b252730cab54432a85f54e1ce20e280d9c997133fbe3012158e356fdc82da3be#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498427&amp;idx=1&amp;sn=6faa40aff1e5200874aac6f6de4914d9&amp;chksm=c2b33b44f5c4b252730cab54432a85f54e1ce20e280d9c997133fbe3012158e356fdc82da3be#rd"/>
-        <updated>2023-08-02T16:00:00.000Z</updated>
-        <published>2023-08-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端跨平台框架对比分析，看这篇就够了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515515&amp;idx=1&amp;sn=9168e21cb0d07503947f605d9d52842b&amp;chksm=f992bbaacee532bc12dcda1e1e1484f26405b585ef405504ae4c59cfdd1967fb9bfbce454402#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515515&amp;idx=1&amp;sn=9168e21cb0d07503947f605d9d52842b&amp;chksm=f992bbaacee532bc12dcda1e1e1484f26405b585ef405504ae4c59cfdd1967fb9bfbce454402#rd"/>
         <updated>2023-08-02T16:00:00.000Z</updated>
         <published>2023-08-02T16:00:00.000Z</published>
     </entry>
