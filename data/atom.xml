@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-10T10:01:36.119Z</updated>
+    <updated>2023-08-10T22:00:47.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[查漏补缺，我仍未知道的HTML nonce和popover属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/"/>
+        <updated>2023-08-09T16:00:00.000Z</updated>
+        <published>2023-08-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写给5年前端妹子的三万字脚手架教程]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515617&amp;idx=2&amp;sn=38291f3ec1ab5099c604e50af93b4c73&amp;chksm=f992bb30cee532262d9e1fb0c106880363faae0878ffbe6758edfee8ef564210ef357926af4a#rd</id>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[【第3023期】哈啰Dora：深度解析Taro多业务线小程序协作构建工具与前端协作流]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264559&amp;idx=1&amp;sn=83c7fab008b86418951ec6dd014b7e26&amp;chksm=bd48cfab8a3f46bd43ef8c9971a9b8c53c93ba8cd108020cc3121f10a693ee757c19ee4e45a0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264559&amp;idx=1&amp;sn=83c7fab008b86418951ec6dd014b7e26&amp;chksm=bd48cfab8a3f46bd43ef8c9971a9b8c53c93ba8cd108020cc3121f10a693ee757c19ee4e45a0#rd"/>
+        <updated>2023-08-09T16:00:00.000Z</updated>
+        <published>2023-08-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 5 is going to be radical]]></title>
+        <id>https://javascriptweekly.com/issues/651</id>
+        <link href="https://javascriptweekly.com/issues/651"/>
         <updated>2023-08-09T16:00:00.000Z</updated>
         <published>2023-08-09T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[JS高级用法：像大神一样玩转JavaScript]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489838&amp;idx=1&amp;sn=31303dd0a0426e68f437aaf72d09051c&amp;chksm=ce460cbff93185a9fb1a474bee9048dedef704db48b1849bf11b437a605bf3a97fefa1dcf89a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489838&amp;idx=1&amp;sn=31303dd0a0426e68f437aaf72d09051c&amp;chksm=ce460cbff93185a9fb1a474bee9048dedef704db48b1849bf11b437a605bf3a97fefa1dcf89a#rd"/>
-        <updated>2023-08-04T16:00:00.000Z</updated>
-        <published>2023-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈谈你对 vite 的了解]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616336&amp;idx=2&amp;sn=d9c6ba3318e9cf59bc294e6ca0b53d80&amp;chksm=8022a391b7552a87101c23345f0b0c4c3d48771bb7e7e4a3405b6bbcf7ea22ec89edcd03a4fe#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616336&amp;idx=2&amp;sn=d9c6ba3318e9cf59bc294e6ca0b53d80&amp;chksm=8022a391b7552a87101c23345f0b0c4c3d48771bb7e7e4a3405b6bbcf7ea22ec89edcd03a4fe#rd"/>
-        <updated>2023-08-04T16:00:00.000Z</updated>
-        <published>2023-08-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完美搭配，微前端与 Monorepo 的架构设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616336&amp;idx=1&amp;sn=118c800d17a6dc34fb504f5d2f297ead&amp;chksm=8022a391b7552a87cccb06288771740421c0e3e82722fe94867d4daa4a7139b72ae3123a0ea4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616336&amp;idx=1&amp;sn=118c800d17a6dc34fb504f5d2f297ead&amp;chksm=8022a391b7552a87cccb06288771740421c0e3e82722fe94867d4daa4a7139b72ae3123a0ea4#rd"/>
         <updated>2023-08-04T16:00:00.000Z</updated>
         <published>2023-08-04T16:00:00.000Z</published>
     </entry>
