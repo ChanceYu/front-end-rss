@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-09T22:00:47.391Z</updated>
+    <updated>2023-08-10T04:00:46.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[卧槽，又一个前端神器来了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489887&amp;idx=1&amp;sn=c9cf2654bf4bda4384bcf138198da20a&amp;chksm=ce460ccef93185d88cfc174336997ae7ee8d6a4cf73e1fa970162b0f505806bb5c5a0f87824e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489887&amp;idx=1&amp;sn=c9cf2654bf4bda4384bcf138198da20a&amp;chksm=ce460ccef93185d88cfc174336997ae7ee8d6a4cf73e1fa970162b0f505806bb5c5a0f87824e#rd"/>
+        <updated>2023-08-09T16:00:00.000Z</updated>
+        <published>2023-08-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS TIP !🤙嵌套的圆角]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487894&amp;idx=1&amp;sn=d4b55dbb9cd81220c8d3aad8fb53177f&amp;chksm=97c67259a0b1fb4fc0aa55f2642b27ceb1e6473f7553eab226145ace98e9580fa813cd1457d2#rd</id>
@@ -43,16 +50,16 @@
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
+        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
+        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TypeScript之父也搞大模型：推出TypeChat]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515531&amp;idx=2&amp;sn=ba69e728e3afa69dd3c64cb6c5d87ed1&amp;chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515531&amp;idx=2&amp;sn=ba69e728e3afa69dd3c64cb6c5d87ed1&amp;chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd"/>
-        <updated>2023-08-03T16:00:00.000Z</updated>
-        <published>2023-08-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年前端如何快速涨薪？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489831&amp;idx=1&amp;sn=dcef3b79becad5fdc28f8bc128b7930c&amp;chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489831&amp;idx=1&amp;sn=dcef3b79becad5fdc28f8bc128b7930c&amp;chksm=ce460cb6f93185a0aeb50c4ea9717b520f156606e356c6c869ae221749e1b15411a371f458f5#rd"/>
         <updated>2023-08-03T16:00:00.000Z</updated>
         <published>2023-08-03T16:00:00.000Z</published>
     </entry>
