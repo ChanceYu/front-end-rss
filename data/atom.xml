@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-11T00:00:45.758Z</updated>
+    <updated>2023-08-11T02:03:07.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 266 期）：自己做双语 EPUB 电子书]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html"/>
+        <updated>2023-08-10T16:00:00.000Z</updated>
+        <published>2023-08-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查漏补缺，我仍未知道的HTML nonce和popover属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[美团面试官：那你讲一讲 Vuex 吧]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616342&amp;idx=1&amp;sn=c2c5065f4b144e8a74943a87203a0bcb&amp;chksm=8022a397b7552a81da6da4fa5b9c686f7d028261a67118b21763ec25d3511a4231ae4c4aba1e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616342&amp;idx=1&amp;sn=c2c5065f4b144e8a74943a87203a0bcb&amp;chksm=8022a397b7552a81da6da4fa5b9c686f7d028261a67118b21763ec25d3511a4231ae4c4aba1e#rd"/>
-        <updated>2023-08-05T16:00:00.000Z</updated>
-        <published>2023-08-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hippo - 提升我们团队工程效率的工具]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616342&amp;idx=2&amp;sn=b5dfcb36d7eb846a8ca148776609bdad&amp;chksm=8022a397b7552a81f4defa54e1afd9a37a50196982ed6914869f6fc10ade730b03a50a12fb49#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616342&amp;idx=2&amp;sn=b5dfcb36d7eb846a8ca148776609bdad&amp;chksm=8022a397b7552a81f4defa54e1afd9a37a50196982ed6914869f6fc10ade730b03a50a12fb49#rd"/>
         <updated>2023-08-05T16:00:00.000Z</updated>
         <published>2023-08-05T16:00:00.000Z</published>
     </entry>

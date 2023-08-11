@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-11 08:00:44，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-11 10:03:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -136,7 +136,7 @@
 
 
 - [2023-08-10-为什么你非常不适应-TypeScript](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616449&idx=1&sn=94690b33a5d655d7f945c8ddce84e8de&chksm=8022a300b7552a16fdf65146a9984b164cfc8ae3abde5916039ecb73429bc8d6c0c78eaf1549#rd)  
-- [2023-08-10-2023-年了，为什么还不用-SWR-？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616449&idx=2&sn=da83d62795aa0c2417db281a98da2f6a&chksm=8022a300b7552a16ea0f378fdfe353bd3ee2af2757b5ad81472611afc465ba0be11ccd6ba049#rd) ![](/assets/new.png)  
+- [2023-08-10-2023-年了，为什么还不用-SWR-？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616449&idx=2&sn=da83d62795aa0c2417db281a98da2f6a&chksm=8022a300b7552a16ea0f378fdfe353bd3ee2af2757b5ad81472611afc465ba0be11ccd6ba049#rd)  
 - [2023-08-09-JS-高级用法：像大神一样玩转-JavaScript](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616446&idx=1&sn=1236382ba91ae93ebf7daf84b1b914bd&chksm=8022a37fb7552a69a1b590eeeaaed6b9d49790d3132947b593ccc93334b13d21d8427e03bcfa#rd)  
 - [2023-08-09-如何完成一个完全不依赖客户端时间的倒计时](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616446&idx=2&sn=c5c39139d7cfa0bea52ef06bfb51cea5&chksm=8022a37fb7552a697d3d8052655b7ccdc09ee382c88101e0eaccb12bcb6af4d8fdfdc79699b9#rd)  
 - [2023-08-08-你不知道的-JS-高级方法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616420&idx=2&sn=5228bbeb2660f29d077e9e633157f714&chksm=8022a365b7552a732705a54d8ec17b7ca9d437633b81a56eaedf0046ea8f376cd831419fef75#rd)  
@@ -260,7 +260,7 @@
 
 
 - [2023-08-10-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=2&sn=38291f3ec1ab5099c604e50af93b4c73&chksm=f992bb30cee532262d9e1fb0c106880363faae0878ffbe6758edfee8ef564210ef357926af4a#rd)  
-- [2023-08-10-基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=1&sn=a600d7d4c025e52cbde401434cf6d90f&chksm=f992bb30cee53226febadbb767d8549efdba50f6adbe72f7eda4f952e4f941edd28766d7754a#rd) ![](/assets/new.png)  
+- [2023-08-10-基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=1&sn=a600d7d4c025e52cbde401434cf6d90f&chksm=f992bb30cee53226febadbb767d8549efdba50f6adbe72f7eda4f952e4f941edd28766d7754a#rd)  
 - [2023-08-09-建议收藏！总结了-42-种前端常用布局方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515611&idx=2&sn=5202854b7b090d2d2e3dde42c4c4dca1&chksm=f992bb0acee5321cef61532049c984363c244e5d2766a7319e28d97526ac64f14d88258dbb5e#rd)  
 - [2023-08-09-基于Chrome-Devtools的远程调试实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515611&idx=1&sn=0e7a967251ccedb22e97c77a37384298&chksm=f992bb0acee5321cd1509dd8f2d8e12da544a144009b3d5e6ccc0fd3ac7c9a00b8e0217e7d61#rd)  
 - [2023-08-08-这可能是我见过最好最全的JavaScript题库！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515603&idx=1&sn=76114a85077d971ed2e184ca2ac96431&chksm=f992bb02cee53214aedca99e799ac785e13c992423428f9d16fdba34f20ed16df93c617ff029#rd)  
@@ -535,6 +535,7 @@
 </summary>
 
 
+- [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html) ![](/assets/new.png)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  
 - [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)  
@@ -554,7 +555,6 @@
 - [2023-04-14-科技爱好者周刊（第-250-期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)  
 - [2023-04-07-科技爱好者周刊（第-249-期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)  
 - [2023-03-31-科技爱好者周刊（第-248-期）：不要夸大-ChatGPT](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-248.html)  
-- [2023-03-24-科技爱好者周刊（第-247-期）：扎克伯格的裁员信](http://www.ruanyifeng.com/blog/2023/03/weekly-issue-247.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
