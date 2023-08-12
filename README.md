@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-12 10:00:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-12 12:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-08-12-【第3025期】技术负责人如何应对工作中的频频被打断](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=1&sn=7cb430859caeac6e05674b78a80cfb37&chksm=bd48cf218a3f46376c851a680a8434db73d763b8cfbf0ebda24ab40615b97856c736f022dbab#rd) ![](/assets/new.png)  
-- [2023-08-12-【早说】三不](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=2&sn=333ccd4d4ea7c3d4a575523d9a7d714f&chksm=bd48cf218a3f4637944408c49c4ccad11e4c3e24628ba8553b8ec2164df870900afdc6a8e0f2#rd) ![](/assets/new.png)  
+- [2023-08-12-【第3025期】技术负责人如何应对工作中的频频被打断](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=1&sn=7cb430859caeac6e05674b78a80cfb37&chksm=bd48cf218a3f46376c851a680a8434db73d763b8cfbf0ebda24ab40615b97856c736f022dbab#rd)  
+- [2023-08-12-【早说】三不](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=2&sn=333ccd4d4ea7c3d4a575523d9a7d714f&chksm=bd48cf218a3f4637944408c49c4ccad11e4c3e24628ba8553b8ec2164df870900afdc6a8e0f2#rd)  
 - [2023-08-11-【第3024期】Pake：利用-Rust-轻松构建轻量级应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264600&idx=1&sn=6ee9fa26144664ef377292e34b56491b&chksm=bd48cfdc8a3f46ca71f80d4f20ae33542b31c5c0a37e397cb4834d9f96ba8fb3b8da8bde6c4d#rd)  
 - [2023-08-10-【第3023期】哈啰Dora：深度解析Taro多业务线小程序协作构建工具与前端协作流](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264559&idx=1&sn=83c7fab008b86418951ec6dd014b7e26&chksm=bd48cfab8a3f46bd43ef8c9971a9b8c53c93ba8cd108020cc3121f10a693ee757c19ee4e45a0#rd)  
 - [2023-08-10-【早说】历史终结错觉](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264559&idx=2&sn=29d820ea24ca0107a6e46b09a270700d&chksm=bd48cfab8a3f46bdfca4b49d25960d91d846d91d3cf1f912be7bdb74921e8ca2ba17d85cf3b1#rd)  
@@ -260,25 +260,25 @@
 
 
 - [2023-08-11-字节跳动的前端工程化实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515673&idx=2&sn=f40e6f44b55c394103fefc156d80dd03&chksm=f992b8c8cee531deb27013f273b99114cc55af390f6d18c2471fad6f012c582d4c464b4cc294#rd)  
-- [2023-08-10-基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=1&sn=a600d7d4c025e52cbde401434cf6d90f&chksm=f992bb30cee53226febadbb767d8549efdba50f6adbe72f7eda4f952e4f941edd28766d7754a#rd)  
+- [2023-08-11-2023前端开发岗位现状](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515673&idx=1&sn=542927d0fbda808262c95685f2a63a9e&chksm=f992b8c8cee531de8a31588cceeb7b823ee663ef343017a3c1828a01fe192402182acfafffef#rd) ![](/assets/new.png)  
 - [2023-08-10-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=2&sn=38291f3ec1ab5099c604e50af93b4c73&chksm=f992bb30cee532262d9e1fb0c106880363faae0878ffbe6758edfee8ef564210ef357926af4a#rd)  
-- [2023-08-09-基于Chrome-Devtools的远程调试实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515611&idx=1&sn=0e7a967251ccedb22e97c77a37384298&chksm=f992bb0acee5321cd1509dd8f2d8e12da544a144009b3d5e6ccc0fd3ac7c9a00b8e0217e7d61#rd)  
+- [2023-08-10-基于vue3+threejs实现可视化大屏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515617&idx=1&sn=a600d7d4c025e52cbde401434cf6d90f&chksm=f992bb30cee53226febadbb767d8549efdba50f6adbe72f7eda4f952e4f941edd28766d7754a#rd)  
 - [2023-08-09-建议收藏！总结了-42-种前端常用布局方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515611&idx=2&sn=5202854b7b090d2d2e3dde42c4c4dca1&chksm=f992bb0acee5321cef61532049c984363c244e5d2766a7319e28d97526ac64f14d88258dbb5e#rd)  
-- [2023-08-08-我使用前端技术破解了掘金滑块验证码功能](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515603&idx=2&sn=211db0c8fd25d169d1ea1796e176bcf7&chksm=f992bb02cee532143566f0f86308054d4485d4c9d691e0a803768bed03f5c9c39279cb6b5c46#rd)  
+- [2023-08-09-基于Chrome-Devtools的远程调试实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515611&idx=1&sn=0e7a967251ccedb22e97c77a37384298&chksm=f992bb0acee5321cd1509dd8f2d8e12da544a144009b3d5e6ccc0fd3ac7c9a00b8e0217e7d61#rd)  
 - [2023-08-08-这可能是我见过最好最全的JavaScript题库！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515603&idx=1&sn=76114a85077d971ed2e184ca2ac96431&chksm=f992bb02cee53214aedca99e799ac785e13c992423428f9d16fdba34f20ed16df93c617ff029#rd)  
-- [2023-08-07-你的代码过度设计了吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515594&idx=2&sn=4c05a836497e7738047e8afe2603dfcb&chksm=f992bb1bcee5320d32c1e1d6f5e030fda14b9fdfffab8d07ccb0e033f80aeb2cb19680d84016#rd)  
+- [2023-08-08-我使用前端技术破解了掘金滑块验证码功能](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515603&idx=2&sn=211db0c8fd25d169d1ea1796e176bcf7&chksm=f992bb02cee532143566f0f86308054d4485d4c9d691e0a803768bed03f5c9c39279cb6b5c46#rd)  
 - [2023-08-07-JavaScript-中常用简写技巧总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515594&idx=1&sn=c6c1d5e6310ae468d76cc487819edfec&chksm=f992bb1bcee5320d5bab90e898cfe40248b0adc932935a9f0fcc0b8d760c55f967240823ee4f#rd)  
-- [2023-08-06-了解并实践-Monorepo-和-pnpm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=2&sn=2ab4efdf58aa44d8d94c924c78c53e2b&chksm=f992bb15cee532037ca21435b7dc14dc7f6ca538f93c24f739de1d217735f4663307fc0ddfcb#rd)  
+- [2023-08-07-你的代码过度设计了吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515594&idx=2&sn=4c05a836497e7738047e8afe2603dfcb&chksm=f992bb1bcee5320d32c1e1d6f5e030fda14b9fdfffab8d07ccb0e033f80aeb2cb19680d84016#rd)  
 - [2023-08-06-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=1&sn=6048e4158c64c1e24b9b68766ed31d9e&chksm=f992bb15cee53203f84d5f2d2a74133283869b84db0569fb53025de7479643859336955c1370#rd)  
-- [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd)  
+- [2023-08-06-了解并实践-Monorepo-和-pnpm](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515588&idx=2&sn=2ab4efdf58aa44d8d94c924c78c53e2b&chksm=f992bb15cee532037ca21435b7dc14dc7f6ca538f93c24f739de1d217735f4663307fc0ddfcb#rd)  
 - [2023-08-04-TypeScript之父也搞大模型：推出TypeChat](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=2&sn=ba69e728e3afa69dd3c64cb6c5d87ed1&chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd)  
-- [2023-08-03-在高德地图中实现降雨图层](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515515&idx=2&sn=0048ecb023e534a66eb5934a5c3bb3ed&chksm=f992bbaacee532bcfe88008bf858677679746c569b36cbe8c669842ea461550585d61ce70744#rd)  
+- [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd)  
 - [2023-08-03-前端跨平台框架对比分析，看这篇就够了](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515515&idx=1&sn=9168e21cb0d07503947f605d9d52842b&chksm=f992bbaacee532bc12dcda1e1e1484f26405b585ef405504ae4c59cfdd1967fb9bfbce454402#rd)  
-- [2023-08-02-认识了一个Vue3超厉害的前端女生。。。](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515498&idx=1&sn=c31c744bd30cd721146c6945d5834d01&chksm=f992bbbbcee532ad6716d2663a9f5b400b4ebe2c8bfaa995200558ed4a415d3499b34ae5ec0a#rd)  
+- [2023-08-03-在高德地图中实现降雨图层](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515515&idx=2&sn=0048ecb023e534a66eb5934a5c3bb3ed&chksm=f992bbaacee532bcfe88008bf858677679746c569b36cbe8c669842ea461550585d61ce70744#rd)  
 - [2023-08-02-前端怎么监听手机键盘是否弹起](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515498&idx=2&sn=5bc83325064759049d1df858af663b16&chksm=f992bbbbcee532ad2f658937f455d4328f816411606da7e9f8079ea516946d5c4cf128fa8286#rd)  
-- [2023-08-01-JS-Bridge-通信原理](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515490&idx=1&sn=3731ba58378cfdd5bb2ac2bf6cd9c0d5&chksm=f992bbb3cee532a50e442a49dc3c31a792e6a9b00b332f128962ef77ee546dbb8c4107b0bce8#rd)  
+- [2023-08-02-认识了一个Vue3超厉害的前端女生。。。](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515498&idx=1&sn=c31c744bd30cd721146c6945d5834d01&chksm=f992bbbbcee532ad6716d2663a9f5b400b4ebe2c8bfaa995200558ed4a415d3499b34ae5ec0a#rd)  
 - [2023-08-01-看我如何用-Promise-解决-Vue-中父子组件的加载问题！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515490&idx=2&sn=8ac3b84b5f575c897b4654fba063ad3b&chksm=f992bbb3cee532a53c0a484aad0040e6a3a49501a533ee2068091ace90c39e08a86dfcdc3b96#rd)  
-- [2023-07-31-Vue3写了hook三天，治好了我的组件封装强迫症](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515472&idx=1&sn=a7a5be882415cf4404b6b722a2946ddb&chksm=f992bb81cee53297afb93e86877f2d85370a38221208ffc9d80f23a5a52c0f1e376c0115a789#rd)  
+- [2023-08-01-JS-Bridge-通信原理](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515490&idx=1&sn=3731ba58378cfdd5bb2ac2bf6cd9c0d5&chksm=f992bbb3cee532a50e442a49dc3c31a792e6a9b00b332f128962ef77ee546dbb8c4107b0bce8#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
