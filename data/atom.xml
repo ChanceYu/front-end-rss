@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-12T04:00:58.322Z</updated>
+    <updated>2023-08-12T07:00:46.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[让前端码农生产力狂降的这 7 件破事儿……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513402&amp;idx=1&amp;sn=f8ef82edce313af8f918ae5c17284575&amp;chksm=eb078d43dc70045535bf47971535c6f2577167cdd8d4162b8ce4c870f874497f0cf847442952#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513402&amp;idx=1&amp;sn=f8ef82edce313af8f918ae5c17284575&amp;chksm=eb078d43dc70045535bf47971535c6f2577167cdd8d4162b8ce4c870f874497f0cf847442952#rd"/>
+        <updated>2023-08-11T16:00:00.000Z</updated>
+        <published>2023-08-11T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】三不]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264677&amp;idx=2&amp;sn=333ccd4d4ea7c3d4a575523d9a7d714f&amp;chksm=bd48cf218a3f4637944408c49c4ccad11e4c3e24628ba8553b8ec2164df870900afdc6a8e0f2#rd</id>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[一个手绘风格的 svg 素材库]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487906&amp;idx=1&amp;sn=6d904206addd5866aa1dae943d0ec8bd&amp;chksm=97c6726da0b1fb7b1bbb4e8801b908bb456f3c408f5ce26153fe13386656847caf40dc96d609#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487906&amp;idx=1&amp;sn=6d904206addd5866aa1dae943d0ec8bd&amp;chksm=97c6726da0b1fb7b1bbb4e8801b908bb456f3c408f5ce26153fe13386656847caf40dc96d609#rd"/>
+        <updated>2023-08-10T16:00:00.000Z</updated>
+        <published>2023-08-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这回，前端面试稳了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513352&amp;idx=1&amp;sn=d5d0413aeeec36f5754efd35354976e9&amp;chksm=eb078d71dc700467aff1166c06c03476c2bf9425b10deb9c2956d81f03b10a6d7f518f2659a0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513352&amp;idx=1&amp;sn=d5d0413aeeec36f5754efd35354976e9&amp;chksm=eb078d71dc700467aff1166c06c03476c2bf9425b10deb9c2956d81f03b10a6d7f518f2659a0#rd"/>
         <updated>2023-08-10T16:00:00.000Z</updated>
         <published>2023-08-10T16:00:00.000Z</published>
     </entry>
@@ -330,13 +344,6 @@
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[认识了一个Vue3超厉害的前端女生。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=1&amp;sn=9e41846da26965fbea6880e886a71367&amp;chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=1&amp;sn=9e41846da26965fbea6880e886a71367&amp;chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd"/>
-        <updated>2023-08-06T16:00:00.000Z</updated>
-        <published>2023-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[写了一个 vscode 插件：自动添加可选链]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=2&amp;sn=8eb02491eb5e809f568cc3c68c3857da&amp;chksm=eb078cc4dc7005d2fd2fc7668031f255cf35691bb53f90ca055ab3af6e0a2785a6d2fa830a53#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=2&amp;sn=8eb02491eb5e809f568cc3c68c3857da&amp;chksm=eb078cc4dc7005d2fd2fc7668031f255cf35691bb53f90ca055ab3af6e0a2785a6d2fa830a53#rd"/>
@@ -344,23 +351,16 @@
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[认识了一个Vue3超厉害的前端女生。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=1&amp;sn=9e41846da26965fbea6880e886a71367&amp;chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=1&amp;sn=9e41846da26965fbea6880e886a71367&amp;chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd"/>
+        <updated>2023-08-06T16:00:00.000Z</updated>
+        <published>2023-08-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一文读懂 Nuxt.js 服务端组件]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd"/>
-        <updated>2023-08-06T16:00:00.000Z</updated>
-        <published>2023-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官偷偷给到45k*16薪，堪称面试风向标！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=1&amp;sn=c7a96bc33f6c3755d6ff9f3a7557eec9&amp;chksm=c2b33b3af5c4b22c7f2eae6cdb758781c0fe963511f6e0d904f0d66bf54d0f0a9676fa098340#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=1&amp;sn=c7a96bc33f6c3755d6ff9f3a7557eec9&amp;chksm=c2b33b3af5c4b22c7f2eae6cdb758781c0fe963511f6e0d904f0d66bf54d0f0a9676fa098340#rd"/>
-        <updated>2023-08-06T16:00:00.000Z</updated>
-        <published>2023-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[精读《算法题 - 统计可以被 K 整除的下标对数目》]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487119&amp;idx=1&amp;sn=2c82baddcc55217e27a2bbfc0c227c60&amp;chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487119&amp;idx=1&amp;sn=2c82baddcc55217e27a2bbfc0c227c60&amp;chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd"/>
         <updated>2023-08-06T16:00:00.000Z</updated>
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
