@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-12T07:00:46.778Z</updated>
+    <updated>2023-08-12T13:01:14.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[让前端码农生产力狂降的这 7 件破事儿……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513402&amp;idx=1&amp;sn=f8ef82edce313af8f918ae5c17284575&amp;chksm=eb078d43dc70045535bf47971535c6f2577167cdd8d4162b8ce4c870f874497f0cf847442952#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513402&amp;idx=1&amp;sn=f8ef82edce313af8f918ae5c17284575&amp;chksm=eb078d43dc70045535bf47971535c6f2577167cdd8d4162b8ce4c870f874497f0cf847442952#rd"/>
+        <updated>2023-08-11T16:00:00.000Z</updated>
+        <published>2023-08-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS数组的十三个遍历方法，一定要全部了解才行！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489956&amp;idx=1&amp;sn=12221df0200e101d39d4dca73fafd14e&amp;chksm=ce460c35f9318523de9c16abf35f6027e9e94abe90b1d90ead41f99d3f1ff91ce254ea343484#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489956&amp;idx=1&amp;sn=12221df0200e101d39d4dca73fafd14e&amp;chksm=ce460c35f9318523de9c16abf35f6027e9e94abe90b1d90ead41f99d3f1ff91ce254ea343484#rd"/>
         <updated>2023-08-11T16:00:00.000Z</updated>
         <published>2023-08-11T16:00:00.000Z</published>
     </entry>
@@ -211,16 +218,16 @@
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
+        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
+        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[认识了一个Vue3超厉害的前端女生。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=1&amp;sn=9e41846da26965fbea6880e886a71367&amp;chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513277&amp;idx=1&amp;sn=9e41846da26965fbea6880e886a71367&amp;chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd"/>
-        <updated>2023-08-06T16:00:00.000Z</updated>
-        <published>2023-08-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文读懂 Nuxt.js 服务端组件]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498437&amp;idx=2&amp;sn=d3173416caa93eb5def1d0b1cd22bde9&amp;chksm=c2b33b3af5c4b22c3bada81bc71ae55021bc15b9f1bc12bb32c85821271aea4c256f1ccf793b#rd"/>
         <updated>2023-08-06T16:00:00.000Z</updated>
         <published>2023-08-06T16:00:00.000Z</published>
     </entry>
