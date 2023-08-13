@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-13T04:00:44.735Z</updated>
+    <updated>2023-08-13T13:00:44.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端取个对象值导致生产环境系统崩溃！咋回事老弟？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489963&amp;idx=1&amp;sn=79befd3359bb134652d03debc9824764&amp;chksm=ce460c3af931852c506e0888a4455172dc7999aadc5e89258143db4ef5864ae688ca718335f5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489963&amp;idx=1&amp;sn=79befd3359bb134652d03debc9824764&amp;chksm=ce460c3af931852c506e0888a4455172dc7999aadc5e89258143db4ef5864ae688ca718335f5#rd"/>
+        <updated>2023-08-12T16:00:00.000Z</updated>
+        <published>2023-08-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3026期】React 还是 Vue？@𝖈𝖆𝖑𝖎对 Web 前端现状的看法]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264685&amp;idx=1&amp;sn=abd482257802b379e17fd5175e11d9c6&amp;chksm=bd48cf298a3f463f411f6f2f785b20c921c30d12b9bf90763ca01bf98ca36fe741f8a4cefd6e#rd</id>
@@ -260,16 +267,16 @@
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
+        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[招聘前端相关人员！正式编！六险二金！提供住宿！| 附岗位要求]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=2&amp;sn=6b2733d2beaadc22b39e44bd3b396215&amp;chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd"/>
+        <title type="html"><![CDATA[为什么要拥抱Vue3 Hooks？你别不服，听我把话说完！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489878&amp;idx=1&amp;sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&amp;chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <published>2023-08-08T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[QQ技术团队分享：新QQ NT桌面版内存优化探索之路]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616420&amp;idx=1&amp;sn=834101bf49d61c7172851a992a8f7cba&amp;chksm=8022a365b7552a732342be97f041de3464929dbb4d6ad84b54a1bca2dcadb4b1f988b5645051#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616420&amp;idx=1&amp;sn=834101bf49d61c7172851a992a8f7cba&amp;chksm=8022a365b7552a732342be97f041de3464929dbb4d6ad84b54a1bca2dcadb4b1f988b5645051#rd"/>
-        <updated>2023-08-07T16:00:00.000Z</updated>
-        <published>2023-08-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你不知道的 JS 高级方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616420&amp;idx=2&amp;sn=5228bbeb2660f29d077e9e633157f714&amp;chksm=8022a365b7552a732705a54d8ec17b7ca9d437633b81a56eaedf0046ea8f376cd831419fef75#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616420&amp;idx=2&amp;sn=5228bbeb2660f29d077e9e633157f714&amp;chksm=8022a365b7552a732705a54d8ec17b7ca9d437633b81a56eaedf0046ea8f376cd831419fef75#rd"/>
         <updated>2023-08-07T16:00:00.000Z</updated>
         <published>2023-08-07T16:00:00.000Z</published>
     </entry>
