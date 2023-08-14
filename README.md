@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-14 12:00:44，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-14 21:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,15 +18,15 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
+- [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd) ![](/assets/new.png)  
 - [2023-08-11-桌面-QQ-重构，探寻跨平台开发挑战与-Electron-内存优化突破](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521764&idx=1&sn=8f46b5a1cfbef6106da6b3e829876b32&chksm=f95220a7ce25a9b141be11bbff959acf82daa966cec6a25f50e848bf2244420de6c71fc139a6#rd)  
 - [2023-08-09-Threads-横空出世，通过解析App，我发现了这些CSS小秘密](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521669&idx=1&sn=637e0484b5ad40a140578bafcaebb7e5&chksm=f95220c6ce25a9d0e01787ae9e8f8036a4f6a0d8fda94850f82b3a136eeed12e275f7cf03768#rd)  
 - [2023-08-07-曝光：Android恶意应用巧妙伪装，谷歌紧急出手修复漏洞](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521665&idx=1&sn=e659f998af30439cc16358f34c86a0b6&chksm=f95220c2ce25a9d4ca1f590a5bb13203ea2dc1d0cf5e092c4b1a8a61ece3d84a226acefff1a7#rd)  
@@ -185,7 +186,6 @@
 - [2023-07-05-前端容易出神话？从高中辍学到价值-10-亿美元的初创公司](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521338&idx=1&sn=2b0335e33cb52476ea3f6a3f94f5b2ef&chksm=f9522179ce25a86f9b14fc8fce1acac3d955182658db9254e97a48763f48e3a02e3ade9c7a4a#rd)  
 - [2023-07-03-写给开发者的Vision-Pro评测：易上手，但UI设计不够“革命”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521323&idx=1&sn=800fcf6fa9f3bdc68fb086b9f66328a8&chksm=f9522168ce25a87ed0542916e276fb67f7b8b5d66c3b36cabe840c65f96a73dd1e174117a181#rd)  
 - [2023-06-30-Electron末日来了？又一应用将其抛弃！WhatsApp强制推行原生应用：速度更快、内存占用更少](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521317&idx=1&sn=da297c9b610966b091ee388a4d89512e&chksm=f9522166ce25a8705c32aa00415d0e7fee838f8e6894d9d29a87e7ca00222d786b6075974523#rd)  
-- [2023-06-28-AI浏览器扩展：一场新的安全噩梦](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521291&idx=1&sn=6f97a01884243583bf246ad1f2579264&chksm=f9522148ce25a85e772f37f883060cc82249e3ff79c77b733ffdebf982c85c0ca84ee2b8b004#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-08-14-用-TypeScript-编写一个-2D-格斗游戏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=1&sn=8becfa07c86f988b7c1cbc6af81f854f&chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd) ![](/assets/new.png)  
-- [2023-08-14-curl-上手指南，前端实用工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=2&sn=27e932dc3ba9061fadebc06a248d6b59&chksm=f992b890cee5318605ba875e41f2ae886a504b77eb444039481483a959afc4a976642e244a14#rd) ![](/assets/new.png)  
+- [2023-08-14-用-TypeScript-编写一个-2D-格斗游戏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=1&sn=8becfa07c86f988b7c1cbc6af81f854f&chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd)  
+- [2023-08-14-curl-上手指南，前端实用工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=2&sn=27e932dc3ba9061fadebc06a248d6b59&chksm=f992b890cee5318605ba875e41f2ae886a504b77eb444039481483a959afc4a976642e244a14#rd)  
 - [2023-08-12-【复盘】20个常考的前端算法题，你全都会吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515679&idx=1&sn=dbfef2c71b11b435d0c27dedf700698d&chksm=f992b8cecee531d81702c6e576e9250c282e3b6015fa34516dc211f63bf73f9fbdbe6a774c27#rd)  
 - [2023-08-12-什么！一个项目给了8个字体包？？？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515679&idx=2&sn=ac72e08820d44ec2b088c97c65aa2e9d&chksm=f992b8cecee531d8d12af4f9a9fe53482a09334adaf856ce340350230fbecf6d0db3f982de9d#rd)  
 - [2023-08-11-2023前端开发岗位现状](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515673&idx=1&sn=542927d0fbda808262c95685f2a63a9e&chksm=f992b8c8cee531de8a31588cceeb7b823ee663ef343017a3c1828a01fe192402182acfafffef#rd)  
@@ -352,7 +352,7 @@
 </summary>
 
 
-- [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd) ![](/assets/new.png)  
+- [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd)  
 - [2023-08-07-精读《算法题---统计可以被-K-整除的下标对数目》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487119&idx=1&sn=2c82baddcc55217e27a2bbfc0c227c60&chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd)  
 - [2023-07-31-精读《算法题---通配符匹配》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487109&idx=1&sn=bfd7fd72f3ba87b06667e529b2410385&chksm=fc86284fcbf1a159f500829d380a12b34f736ba5e9ef12836416bd74780dde0f3325f4418473#rd)  
 - [2023-07-10-精读《自由布局吸附线的实现》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487094&idx=1&sn=cf3662f1c8e98b75eeaf826bd3465c5a&chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd)  
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-08-13-2022年5月毕业润美转码，还有50天失业期就要被迫回国……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513408&idx=1&sn=d06afdac585a4b04900bb230d100c7bf&chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd) ![](/assets/new.png)  
+- [2023-08-13-2022年5月毕业润美转码，还有50天失业期就要被迫回国……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513408&idx=1&sn=d06afdac585a4b04900bb230d100c7bf&chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd)  
 - [2023-08-12-让前端码农生产力狂降的这-7-件破事儿……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513402&idx=1&sn=f8ef82edce313af8f918ae5c17284575&chksm=eb078d43dc70045535bf47971535c6f2577167cdd8d4162b8ce4c870f874497f0cf847442952#rd)  
 - [2023-08-11-这回，前端面试稳了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513352&idx=1&sn=d5d0413aeeec36f5754efd35354976e9&chksm=eb078d71dc700467aff1166c06c03476c2bf9425b10deb9c2956d81f03b10a6d7f518f2659a0#rd)  
 - [2023-08-09-中型前端应用，就别折腾什么微前端、DDD、六边形架构了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513283&idx=1&sn=bc484055ca436929954fdcc9db5b5974&chksm=eb078cbadc7005acabfc0f2ef18523b04bc9f150c734db05afc4a977d88ccfe62861171336d3#rd)  

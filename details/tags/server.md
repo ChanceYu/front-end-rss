@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-14 12:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-14 21:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -50,6 +50,7 @@
 - [2019-03-27-面试加分项之-Nginx-反向代理与负载均衡](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556116&idx=1&sn=cfca7b893bf20faf3f1808c592928487#rd) 
 - [2019-02-15-nginx-反向代理和负载均衡策略实战案例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555878&idx=1&sn=dffbd69d17c0ff126acd2d9d5f5123bd#wechat_redirect) 
 - [2018-12-29-GraphQL-前端开发的利剑与桥梁](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555621&idx=1&sn=961a4d8c643c486f1e457f2a6d58da65#wechat_redirect) 
+- [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd) 
 - [2022-12-26-PyScript：让Python在Web中跑起来](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519350&idx=1&sn=ca4f0fb89b4415165a9b179efcccbc35&chksm=f9523935ce25b02337421ec24c2dce5abb7eafa6571d265dba47bc15d6fc602742236d87536d#rd) 
 - [2022-07-29-被“嫌弃”的PHP：未来仍光明](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247516561&idx=1&sn=ae1b1af5a2b1e4aa8f291671e08190d9&chksm=f95234d2ce25bdc41cee780f7564e8d52cec387ef81a9d3119c4dd95d1ed3fe01a702e7d7671#rd) 
 - [2022-06-10-PyScript：让-Python-在-Web-中跑起来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515246&idx=1&sn=603440ed780da2ed245599c5cc243e0c&chksm=f952092dce25803b83e3f8502801129c65ab2e1f241bd4c5d6e915da7e490019799600461cb3#rd) 
@@ -64,8 +65,8 @@
 - [2020-11-15-前端周报：苹果发布macOS-Big-Sur，可运行原生iOS应用；Python放弃退休；前微软员工](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247503358&idx=1&sn=aead9013256f0977c38ec1927bf814eb&chksm=f95278bdce25f1ab05b9f303360acb37fa74a7cca321c702f6e37b65049b18cf5adc6618a9c6&scene=27#wechat_redirect) 
 - [2020-11-02-推荐-7-个-Python-上手实战项目-|-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247503090&idx=3&sn=1825225124d599ace2e635639a68ef6d&chksm=f95279b1ce25f0a789422f66351a1b419f0074eb109e4d18bbf5298eb368e1255ed6b0574eea&scene=27#wechat_redirect) 
 - [2020-09-29-PHP与.NET统治Web开发世界的八个理由](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247501380&idx=1&sn=3f4617ef6cdcc4367cb7ba396b191b6c&chksm=f9527307ce25fa119f1e0a44f06b7ba6f14eb4bd355bbf26fa063c325b3550933449d8f86be1&scene=27#wechat_redirect) 
-- [2020-09-21-「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247501140&idx=3&sn=c5ce4c4a2a3a87481aabcd24d0de3d38&chksm=f9527017ce25f901fad8a892b625f8591e972a259835ca65540219bd3458485687ab43977ede&scene=27#wechat_redirect) 
 - [2020-09-21-那些害死Haskell的，也会害死Rust](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247501140&idx=2&sn=0e9140d2fbd4d4af828baa533e6cf27a&chksm=f9527017ce25f9015659622d340e5d4df572d7c6ba80a92129afbe0602d971e98c4ab4ffe26d&scene=27#wechat_redirect) 
+- [2020-09-21-「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜-活动推荐](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247501140&idx=3&sn=c5ce4c4a2a3a87481aabcd24d0de3d38&chksm=f9527017ce25f901fad8a892b625f8591e972a259835ca65540219bd3458485687ab43977ede&scene=27#wechat_redirect) 
 - [2020-08-25-写Java代码时会踩哪些坑？2.2-万字干货总结](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247499909&idx=2&sn=2ad363408c10e6ade269924ab229dc07&chksm=f95275c6ce25fcd07e52220d9b2da970a4c3876e66afdfa13ab7eca481da2bb6af5819bcdb2b&scene=27#wechat_redirect) 
 - [2020-08-17-Java的新未来：逐渐“Kotlin化”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247499455&idx=2&sn=e94009574738b767226c7859899c2e38&chksm=f9524bfcce25c2ea0004dbde43a7e25bebd8894c626fc25d71762ce15e6f4cac2ff88b31a485&scene=27#wechat_redirect) 
 - [2020-07-17-GraphQL两年实战避坑经验](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247497990&idx=1&sn=ee7d71a3a868dbe8a8ade60ac7eb8c90&chksm=f9524c45ce25c553cb581015574da14b0bbae9d422abdfeb25dc8f585ece889efaebabfe48ac&scene=27#wechat_redirect) 
