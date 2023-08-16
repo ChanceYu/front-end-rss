@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-16T15:00:55.899Z</updated>
+    <updated>2023-08-16T22:00:41.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS TIPS!单 img 标签实现的缩放效果]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487932&amp;idx=1&amp;sn=1b39067b182926a9024ba2cc78515467&amp;chksm=97c67273a0b1fb651fe47c58c21889657f15fd05d378891ff52dbfd3d0a1ee288d41f9f300c7#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487932&amp;idx=1&amp;sn=1b39067b182926a9024ba2cc78515467&amp;chksm=97c67273a0b1fb651fe47c58c21889657f15fd05d378891ff52dbfd3d0a1ee288d41f9f300c7#rd"/>
+        <updated>2023-08-15T16:00:00.000Z</updated>
+        <published>2023-08-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19 个实用的 ES6 代码片段，解决常见的 JavaScript 问题]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513451&amp;idx=2&amp;sn=9786df020c4b8665b1f52055bcaa7670&amp;chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2023前端开发岗位现状]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515673&amp;idx=1&amp;sn=542927d0fbda808262c95685f2a63a9e&amp;chksm=f992b8c8cee531de8a31588cceeb7b823ee663ef343017a3c1828a01fe192402182acfafffef#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515673&amp;idx=1&amp;sn=542927d0fbda808262c95685f2a63a9e&amp;chksm=f992b8c8cee531de8a31588cceeb7b823ee663ef343017a3c1828a01fe192402182acfafffef#rd"/>
-        <updated>2023-08-10T16:00:00.000Z</updated>
-        <published>2023-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动的前端工程化实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515673&amp;idx=2&amp;sn=f40e6f44b55c394103fefc156d80dd03&amp;chksm=f992b8c8cee531deb27013f273b99114cc55af390f6d18c2471fad6f012c582d4c464b4cc294#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515673&amp;idx=2&amp;sn=f40e6f44b55c394103fefc156d80dd03&amp;chksm=f992b8c8cee531deb27013f273b99114cc55af390f6d18c2471fad6f012c582d4c464b4cc294#rd"/>
         <updated>2023-08-10T16:00:00.000Z</updated>
         <published>2023-08-10T16:00:00.000Z</published>
     </entry>
