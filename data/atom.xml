@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-16T10:00:53.970Z</updated>
+    <updated>2023-08-16T15:00:55.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[如何让你的网页，能【朗读】内容给领导听~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489992&amp;idx=1&amp;sn=0dc5b52f040c3267caceff8a7ba43bcf&amp;chksm=ce460c59f931854fb3971beff6b1ef524908efa25ed526aa81d179256685975ce8bec3e06c92#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489992&amp;idx=1&amp;sn=0dc5b52f040c3267caceff8a7ba43bcf&amp;chksm=ce460c59f931854fb3971beff6b1ef524908efa25ed526aa81d179256685975ce8bec3e06c92#rd"/>
+        <updated>2023-08-15T16:00:00.000Z</updated>
+        <published>2023-08-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521802&amp;idx=1&amp;sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&amp;chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521802&amp;idx=1&amp;sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&amp;chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd"/>
         <updated>2023-08-15T16:00:00.000Z</updated>
         <published>2023-08-15T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[字节跳动的前端工程化实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515673&amp;idx=2&amp;sn=f40e6f44b55c394103fefc156d80dd03&amp;chksm=f992b8c8cee531deb27013f273b99114cc55af390f6d18c2471fad6f012c582d4c464b4cc294#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515673&amp;idx=2&amp;sn=f40e6f44b55c394103fefc156d80dd03&amp;chksm=f992b8c8cee531deb27013f273b99114cc55af390f6d18c2471fad6f012c582d4c464b4cc294#rd"/>
-        <updated>2023-08-10T16:00:00.000Z</updated>
-        <published>2023-08-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最笨的方法解决vxe-table白屏问题，优化用户体验~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489944&amp;idx=1&amp;sn=9370e1898205f53eed0f4f031eaf23bb&amp;chksm=ce460c09f931851f98e92eb4363878f663f9c9ad9cb28f54350d35d25b0ca1e65c911ecf7a2b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489944&amp;idx=1&amp;sn=9370e1898205f53eed0f4f031eaf23bb&amp;chksm=ce460c09f931851f98e92eb4363878f663f9c9ad9cb28f54350d35d25b0ca1e65c911ecf7a2b#rd"/>
         <updated>2023-08-10T16:00:00.000Z</updated>
         <published>2023-08-10T16:00:00.000Z</published>
     </entry>

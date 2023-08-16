@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-16 18:00:52，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-16 23:00:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-08-16-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616549&idx=1&sn=4c5c21edaf6f0129bb6adc7b55e9055a&chksm=8022a2e4b7552bf2af5e95a6beff4547e2c397ea0c25a9e118dcfd26df522191b4f738e61c3a#rd) ![](/assets/new.png)  
-- [2023-08-16-什么！一个项目给了8个字体包？？？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616549&idx=2&sn=30e8c609f85c74c9f8e0e3f7f892aa4a&chksm=8022a2e4b7552bf21ef067aada550d17bfd314f21f1ec45b6a445bccc04e86632fb9cd53b5b8#rd) ![](/assets/new.png)  
+- [2023-08-16-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616549&idx=1&sn=4c5c21edaf6f0129bb6adc7b55e9055a&chksm=8022a2e4b7552bf2af5e95a6beff4547e2c397ea0c25a9e118dcfd26df522191b4f738e61c3a#rd)  
+- [2023-08-16-什么！一个项目给了8个字体包？？？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616549&idx=2&sn=30e8c609f85c74c9f8e0e3f7f892aa4a&chksm=8022a2e4b7552bf21ef067aada550d17bfd314f21f1ec45b6a445bccc04e86632fb9cd53b5b8#rd)  
 - [2023-08-15-看我如何用-Promise-解决-Vue-中父子组件的加载问题！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616523&idx=2&sn=52ed9cc16ee6e680a3bcad1b2a96dde0&chksm=8022a2cab7552bdcf47e3f13c79b7be3a443e10d2e530b82f69184f30d61f5307240b4f05088#rd)  
 - [2023-08-15-字节都在用的代码自动生成](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616523&idx=1&sn=229f71063c5b82e8f7f5a9bdfb88d7f2&chksm=8022a2cab7552bdc60af0e0178592a3a342c2b4da206f38b8608d26b74360a8e92069e4b841f#rd)  
 - [2023-08-14-JavaScript-中常用简写技巧总结](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616518&idx=2&sn=7a826e69aa798b0f5af99bf1598358a9&chksm=8022a2c7b7552bd17cbb56113949faa7de6b9c418ded8e9a3f7d6714282c392d75127a55a407#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-08-16-AI-工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521802&idx=1&sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd) ![](/assets/new.png)  
 - [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd)  
 - [2023-08-11-桌面-QQ-重构，探寻跨平台开发挑战与-Electron-内存优化突破](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521764&idx=1&sn=8f46b5a1cfbef6106da6b3e829876b32&chksm=f95220a7ce25a9b141be11bbff959acf82daa966cec6a25f50e848bf2244420de6c71fc139a6#rd)  
 - [2023-08-09-Threads-横空出世，通过解析App，我发现了这些CSS小秘密](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521669&idx=1&sn=637e0484b5ad40a140578bafcaebb7e5&chksm=f95220c6ce25a9d0e01787ae9e8f8036a4f6a0d8fda94850f82b3a136eeed12e275f7cf03768#rd)  
@@ -185,7 +186,6 @@
 - [2023-07-07-TypeScript中的Object.keys类型为什么非要这么设计？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521347&idx=1&sn=f3c8c094efef227608fbc3022596039b&chksm=f9522100ce25a81607ab7961f54e0b3bce51b6cce16775181705de898c514ac89b9572e7d8a9#rd)  
 - [2023-07-05-前端容易出神话？从高中辍学到价值-10-亿美元的初创公司](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521338&idx=1&sn=2b0335e33cb52476ea3f6a3f94f5b2ef&chksm=f9522179ce25a86f9b14fc8fce1acac3d955182658db9254e97a48763f48e3a02e3ade9c7a4a#rd)  
 - [2023-07-03-写给开发者的Vision-Pro评测：易上手，但UI设计不够“革命”](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521323&idx=1&sn=800fcf6fa9f3bdc68fb086b9f66328a8&chksm=f9522168ce25a87ed0542916e276fb67f7b8b5d66c3b36cabe840c65f96a73dd1e174117a181#rd)  
-- [2023-06-30-Electron末日来了？又一应用将其抛弃！WhatsApp强制推行原生应用：速度更快、内存占用更少](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521317&idx=1&sn=da297c9b610966b091ee388a4d89512e&chksm=f9522166ce25a8705c32aa00415d0e7fee838f8e6894d9d29a87e7ca00222d786b6075974523#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-08-16-前端中-JS-发起的请求可以暂停吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=1&sn=98981df575d835344c6b62eaa61e3d3d&chksm=f992b89fcee53189f80452d9dc55e3404da8e7e147f4863a49823fbabbff9e1bc30e12382dec#rd) ![](/assets/new.png)  
-- [2023-08-16-作为一名前端给自己做一个算命转盘不过分吧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=2&sn=f7445a6f530b5155efc61c026111a495&chksm=f992b89fcee53189d35f368ba5efcc3e3875118b7e9eb484d407c7e9eb38b1b419ef8783e40c#rd) ![](/assets/new.png)  
+- [2023-08-16-前端中-JS-发起的请求可以暂停吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=1&sn=98981df575d835344c6b62eaa61e3d3d&chksm=f992b89fcee53189f80452d9dc55e3404da8e7e147f4863a49823fbabbff9e1bc30e12382dec#rd)  
+- [2023-08-16-作为一名前端给自己做一个算命转盘不过分吧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=2&sn=f7445a6f530b5155efc61c026111a495&chksm=f992b89fcee53189d35f368ba5efcc3e3875118b7e9eb484d407c7e9eb38b1b419ef8783e40c#rd)  
 - [2023-08-15-全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515720&idx=1&sn=2a16f93db15a1103978672517c4bd3db&chksm=f992b899cee5318f4a53cca3c9afbd05b8c7890fd42c816bc2f67650cf869cb7916188ae67b3#rd)  
 - [2023-08-15-深入浅出-Source-Map](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515720&idx=2&sn=fc400df77fc517749bbf37cf1b89c9c0&chksm=f992b899cee5318f8afb727a9328a30338283814a0213cd2fbc5d1cf1618bec66620d9aa359e#rd)  
 - [2023-08-14-curl-上手指南，前端实用工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=2&sn=27e932dc3ba9061fadebc06a248d6b59&chksm=f992b890cee5318605ba875e41f2ae886a504b77eb444039481483a959afc4a976642e244a14#rd)  
