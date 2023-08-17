@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-17 21:00:45，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-18 06:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652) ![](/assets/new.png)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
@@ -92,7 +93,6 @@
 - [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635)  
 - [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634)  
 - [2023-04-06-JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633)  
-- [2023-03-31-Import-maps-go-universal](https://javascriptweekly.com/issues/632)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-08-17-团队把图标方案从-iconfont-换成-iconify-了，说说我们的思考](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616550&idx=1&sn=5e28764e0a261e04354b76e19ef89fb4&chksm=8022a2e7b7552bf1d7d26e702a841364bb28d077efdccbf309171046560a536ad09c8a3da39e#rd) ![](/assets/new.png)  
-- [2023-08-17-5-种高级-NodeJS-技术](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616550&idx=2&sn=fed0c44d18b0dde22d116b685c5be850&chksm=8022a2e7b7552bf1ec96679e0cf9740f4bd4255fe527f20b6eba3ac137de940ee9cc9eb7b322#rd) ![](/assets/new.png)  
+- [2023-08-17-团队把图标方案从-iconfont-换成-iconify-了，说说我们的思考](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616550&idx=1&sn=5e28764e0a261e04354b76e19ef89fb4&chksm=8022a2e7b7552bf1d7d26e702a841364bb28d077efdccbf309171046560a536ad09c8a3da39e#rd)  
+- [2023-08-17-5-种高级-NodeJS-技术](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616550&idx=2&sn=fed0c44d18b0dde22d116b685c5be850&chksm=8022a2e7b7552bf1ec96679e0cf9740f4bd4255fe527f20b6eba3ac137de940ee9cc9eb7b322#rd)  
 - [2023-08-16-什么！一个项目给了8个字体包？？？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616549&idx=2&sn=30e8c609f85c74c9f8e0e3f7f892aa4a&chksm=8022a2e4b7552bf21ef067aada550d17bfd314f21f1ec45b6a445bccc04e86632fb9cd53b5b8#rd)  
 - [2023-08-16-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616549&idx=1&sn=4c5c21edaf6f0129bb6adc7b55e9055a&chksm=8022a2e4b7552bf2af5e95a6beff4547e2c397ea0c25a9e118dcfd26df522191b4f738e61c3a#rd)  
 - [2023-08-15-字节都在用的代码自动生成](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616523&idx=1&sn=229f71063c5b82e8f7f5a9bdfb88d7f2&chksm=8022a2cab7552bdc60af0e0178592a3a342c2b4da206f38b8608d26b74360a8e92069e4b841f#rd)  
@@ -259,7 +259,7 @@
 </summary>
 
 
-- [2023-08-17-这招可以搞定-console-狂魔！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515733&idx=1&sn=829db52b73b5e2df57929896a7bea60b&chksm=f992b884cee531928ffe714e101f2c7c02b4362ea96159b9f7d73d47c88648cee51e1570b8d1#rd) ![](/assets/new.png)  
+- [2023-08-17-这招可以搞定-console-狂魔！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515733&idx=1&sn=829db52b73b5e2df57929896a7bea60b&chksm=f992b884cee531928ffe714e101f2c7c02b4362ea96159b9f7d73d47c88648cee51e1570b8d1#rd)  
 - [2023-08-16-作为一名前端给自己做一个算命转盘不过分吧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=2&sn=f7445a6f530b5155efc61c026111a495&chksm=f992b89fcee53189d35f368ba5efcc3e3875118b7e9eb484d407c7e9eb38b1b419ef8783e40c#rd)  
 - [2023-08-16-前端中-JS-发起的请求可以暂停吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=1&sn=98981df575d835344c6b62eaa61e3d3d&chksm=f992b89fcee53189f80452d9dc55e3404da8e7e147f4863a49823fbabbff9e1bc30e12382dec#rd)  
 - [2023-08-15-深入浅出-Source-Map](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515720&idx=2&sn=fc400df77fc517749bbf37cf1b89c9c0&chksm=f992b899cee5318f8afb727a9328a30338283814a0213cd2fbc5d1cf1618bec66620d9aa359e#rd)  

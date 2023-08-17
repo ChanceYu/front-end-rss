@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-17T13:00:46.583Z</updated>
+    <updated>2023-08-17T22:00:46.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -67,6 +67,13 @@
         <title type="html"><![CDATA[【第3030期】从集合论的角度理解 TypeScript]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264982&amp;idx=1&amp;sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&amp;chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264982&amp;idx=1&amp;sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&amp;chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd"/>
+        <updated>2023-08-16T16:00:00.000Z</updated>
+        <published>2023-08-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're taking a few weeks off, but..]]></title>
+        <id>https://javascriptweekly.com/issues/652</id>
+        <link href="https://javascriptweekly.com/issues/652"/>
         <updated>2023-08-16T16:00:00.000Z</updated>
         <published>2023-08-16T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[字节前端架构组工程化代码片段]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616467&amp;idx=2&amp;sn=766484db9bdeefd73e94769d2374249c&amp;chksm=8022a312b7552a048a08c55257e7a72b3d63171b1f778154b1caf99d8d02b2be9de39681ff31#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616467&amp;idx=2&amp;sn=766484db9bdeefd73e94769d2374249c&amp;chksm=8022a312b7552a048a08c55257e7a72b3d63171b1f778154b1caf99d8d02b2be9de39681ff31#rd"/>
-        <updated>2023-08-11T16:00:00.000Z</updated>
-        <published>2023-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离谱！一边裁员，一边100K*24薪招人！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616467&amp;idx=1&amp;sn=4677a9ca89357970cfc886591861eb67&amp;chksm=8022a312b7552a04de5596443c4266d11b4cef58d5ec9773aaf5dc5d461b19b34fe4e43d840a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616467&amp;idx=1&amp;sn=4677a9ca89357970cfc886591861eb67&amp;chksm=8022a312b7552a04de5596443c4266d11b4cef58d5ec9773aaf5dc5d461b19b34fe4e43d840a#rd"/>
         <updated>2023-08-11T16:00:00.000Z</updated>
         <published>2023-08-11T16:00:00.000Z</published>
     </entry>
