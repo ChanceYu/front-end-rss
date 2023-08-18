@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-18 10:00:43，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-18 18:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -19,9 +19,9 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -197,6 +197,7 @@
 </summary>
 
 
+- [2023-08-18-30行代码，高大上解决Promise的多并发问题](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490018&idx=1&sn=9ea2a74cb96e7e63a0629fdf4e33246b&chksm=ce460c73f931856552b7192471b35f187191e8004c6b2a0401636657127401a6c30aaef57302#rd) ![](/assets/new.png)  
 - [2023-08-17-用十个Vue的场景，带你轻松学习超级火的框架Svelte](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490006&idx=1&sn=dfcb539facd62a2b200b1d6142bb8ea7&chksm=ce460c47f93185518d12048e84acc92fd764b8982cab703a4b93fb7f00220cc1fe87432ded66#rd)  
 - [2023-08-16-如何让你的网页，能【朗读】内容给领导听~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489992&idx=1&sn=0dc5b52f040c3267caceff8a7ba43bcf&chksm=ce460c59f931854fb3971beff6b1ef524908efa25ed526aa81d179256685975ce8bec3e06c92#rd)  
 - [2023-08-15-全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489981&idx=1&sn=de513713ad3046f923fea84846bf7598&chksm=ce460c2cf931853a881de9e81599e930a9a14f7d8e00a649f2293cf93498be909e0c8116954a#rd)  
@@ -205,8 +206,8 @@
 - [2023-08-12-JS数组的十三个遍历方法，一定要全部了解才行！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489956&idx=1&sn=12221df0200e101d39d4dca73fafd14e&chksm=ce460c35f9318523de9c16abf35f6027e9e94abe90b1d90ead41f99d3f1ff91ce254ea343484#rd)  
 - [2023-08-11-最笨的方法解决vxe-table白屏问题，优化用户体验~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489944&idx=1&sn=9370e1898205f53eed0f4f031eaf23bb&chksm=ce460c09f931851f98e92eb4363878f663f9c9ad9cb28f54350d35d25b0ca1e65c911ecf7a2b#rd)  
 - [2023-08-10-卧槽，又一个前端神器来了！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489887&idx=1&sn=c9cf2654bf4bda4384bcf138198da20a&chksm=ce460ccef93185d88cfc174336997ae7ee8d6a4cf73e1fa970162b0f505806bb5c5a0f87824e#rd)  
-- [2023-08-09-为什么要拥抱Vue3-Hooks？你别不服，听我把话说完！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489878&idx=1&sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd)  
 - [2023-08-09-招聘前端相关人员！正式编！六险二金！提供住宿！|-附岗位要求](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489878&idx=2&sn=6b2733d2beaadc22b39e44bd3b396215&chksm=ce460cc7f93185d1ee4d11d1ff58fa4045c80c3896eebac077d430240c4af025332c9a4512b8#rd)  
+- [2023-08-09-为什么要拥抱Vue3-Hooks？你别不服，听我把话说完！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489878&idx=1&sn=1cc2d3ffed6d67bcf58e96d09b54f4a1&chksm=ce460cc7f93185d1d6ee8e1992282b7b7079b171e7b2063a14642890d5be456979effee535cc#rd)  
 - [2023-08-08-全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489866&idx=1&sn=9099c5378bbfecc58a5c1fe0fe6e7fb3&chksm=ce460cdbf93185cdca156467cb42ba15f9d5c642741bf58e4e2649b87f0ac14d976888f38698#rd)  
 - [2023-08-07-如何使用Rollup开发一个npm包并发布](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489860&idx=1&sn=bbd1d556051a9157a1a2729e60afac68&chksm=ce460cd5f93185c39f8118658367b473c81aec2b550240b0ecf4621110303908811fa3208b91#rd)  
 - [2023-08-06-一个小公司的前端技术开发心酸事](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489845&idx=1&sn=5def7c5a53dea887204a5c1d41cfc72a&chksm=ce460ca4f93185b2a899b6e693fc713067e014e9cff0f5aa2880bb6662956234eeb1e3637c35#rd)  
@@ -216,7 +217,6 @@
 - [2023-08-02-工作中学到三个CSS伪类，直接少些几百行CSS代码~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489822&idx=1&sn=43e10598d2635bfef7b17131d42c6100&chksm=ce460c8ff93185996b6bbcb5502e1e1335aadf2be975c3eab75b5f7f4e7d49adb7a6e11ea9ea#rd)  
 - [2023-08-01-手撕面试官，看这一篇足够！！！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489821&idx=1&sn=fab9bdaf7520c50517dbd3323bd786c3&chksm=ce460c8cf931859a52297a4a39daf060e9e266d31b30b6f08660f5a1e6278c558572e1595c9b#rd)  
 - [2023-07-31-10分钟带你体验github-actions，以后简历可以写-CI/CD-了~亮点！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489814&idx=1&sn=c4e11cac6d52fa01604a9c385af134e9&chksm=ce460c87f931859137ac93b0b2bb308895c251f5e84198d2fb00df208fef51d8d035e0f96956#rd)  
-- [2023-07-30-前端试用期改祖传屎山是一种怎么样的体验](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489777&idx=1&sn=7a45a4376a7cf5926f670cd748487991&chksm=ce460d60f9318476fbc8c0b47b52e0df98b2d520e5303fdcf3259b6f6e047ccf0af07ba24f99#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -260,7 +260,7 @@
 
 
 - [2023-08-17-这招可以搞定-console-狂魔！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515733&idx=1&sn=829db52b73b5e2df57929896a7bea60b&chksm=f992b884cee531928ffe714e101f2c7c02b4362ea96159b9f7d73d47c88648cee51e1570b8d1#rd)  
-- [2023-08-17-【基础复盘】JavaScript中难理解的概念之一的闭包是什么鬼？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515733&idx=2&sn=344d26451c882cf2326e2d25c47442ae&chksm=f992b884cee531929a0dfd1b2a9cd16d305393be67202a30157f33f8c1ca9308abeb3aeb3bde#rd) ![](/assets/new.png)  
+- [2023-08-17-【基础复盘】JavaScript中难理解的概念之一的闭包是什么鬼？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515733&idx=2&sn=344d26451c882cf2326e2d25c47442ae&chksm=f992b884cee531929a0dfd1b2a9cd16d305393be67202a30157f33f8c1ca9308abeb3aeb3bde#rd)  
 - [2023-08-16-前端中-JS-发起的请求可以暂停吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=1&sn=98981df575d835344c6b62eaa61e3d3d&chksm=f992b89fcee53189f80452d9dc55e3404da8e7e147f4863a49823fbabbff9e1bc30e12382dec#rd)  
 - [2023-08-16-作为一名前端给自己做一个算命转盘不过分吧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515726&idx=2&sn=f7445a6f530b5155efc61c026111a495&chksm=f992b89fcee53189d35f368ba5efcc3e3875118b7e9eb484d407c7e9eb38b1b419ef8783e40c#rd)  
 - [2023-08-15-全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515720&idx=1&sn=2a16f93db15a1103978672517c4bd3db&chksm=f992b899cee5318f4a53cca3c9afbd05b8c7890fd42c816bc2f67650cf869cb7916188ae67b3#rd)  
@@ -538,7 +538,7 @@
 </summary>
 
 
-- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html) ![](/assets/new.png)  
+- [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  

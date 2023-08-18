@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-18T02:00:45.012Z</updated>
+    <updated>2023-08-18T10:00:43.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 267 期）：5G 的春天要来了]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html"/>
+        <updated>2023-08-17T16:00:00.000Z</updated>
+        <published>2023-08-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30行代码，高大上解决Promise的多并发问题]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490018&amp;idx=1&amp;sn=9ea2a74cb96e7e63a0629fdf4e33246b&amp;chksm=ce460c73f931856552b7192471b35f187191e8004c6b2a0401636657127401a6c30aaef57302#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490018&amp;idx=1&amp;sn=9ea2a74cb96e7e63a0629fdf4e33246b&amp;chksm=ce460c73f931856552b7192471b35f187191e8004c6b2a0401636657127401a6c30aaef57302#rd"/>
         <updated>2023-08-17T16:00:00.000Z</updated>
         <published>2023-08-17T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【复盘】20个常考的前端算法题，你全都会吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515679&amp;idx=1&amp;sn=dbfef2c71b11b435d0c27dedf700698d&amp;chksm=f992b8cecee531d81702c6e576e9250c282e3b6015fa34516dc211f63bf73f9fbdbe6a774c27#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515679&amp;idx=1&amp;sn=dbfef2c71b11b435d0c27dedf700698d&amp;chksm=f992b8cecee531d81702c6e576e9250c282e3b6015fa34516dc211f63bf73f9fbdbe6a774c27#rd"/>
-        <updated>2023-08-11T16:00:00.000Z</updated>
-        <published>2023-08-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么！一个项目给了8个字体包？？？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515679&amp;idx=2&amp;sn=ac72e08820d44ec2b088c97c65aa2e9d&amp;chksm=f992b8cecee531d8d12af4f9a9fe53482a09334adaf856ce340350230fbecf6d0db3f982de9d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515679&amp;idx=2&amp;sn=ac72e08820d44ec2b088c97c65aa2e9d&amp;chksm=f992b8cecee531d8d12af4f9a9fe53482a09334adaf856ce340350230fbecf6d0db3f982de9d#rd"/>
         <updated>2023-08-11T16:00:00.000Z</updated>
         <published>2023-08-11T16:00:00.000Z</published>
     </entry>
