@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-18T15:00:48.046Z</updated>
+    <updated>2023-08-18T22:00:46.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[30行代码，高大上解决Promise的多并发问题]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490018&amp;idx=1&amp;sn=9ea2a74cb96e7e63a0629fdf4e33246b&amp;chksm=ce460c73f931856552b7192471b35f187191e8004c6b2a0401636657127401a6c30aaef57302#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490018&amp;idx=1&amp;sn=9ea2a74cb96e7e63a0629fdf4e33246b&amp;chksm=ce460c73f931856552b7192471b35f187191e8004c6b2a0401636657127401a6c30aaef57302#rd"/>
+        <updated>2023-08-17T16:00:00.000Z</updated>
+        <published>2023-08-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript前景展望：值得期待的那些新功能]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521832&amp;idx=1&amp;sn=2b0d5c6696ecece319b902ff633e3178&amp;chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521832&amp;idx=1&amp;sn=2b0d5c6696ecece319b902ff633e3178&amp;chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd"/>
         <updated>2023-08-17T16:00:00.000Z</updated>
         <published>2023-08-17T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2022年5月毕业润美转码，还有50天失业期就要被迫回国……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513408&amp;idx=1&amp;sn=d06afdac585a4b04900bb230d100c7bf&amp;chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513408&amp;idx=1&amp;sn=d06afdac585a4b04900bb230d100c7bf&amp;chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd"/>
-        <updated>2023-08-12T16:00:00.000Z</updated>
-        <published>2023-08-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端取个对象值导致生产环境系统崩溃！咋回事老弟？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489963&amp;idx=1&amp;sn=79befd3359bb134652d03debc9824764&amp;chksm=ce460c3af931852c506e0888a4455172dc7999aadc5e89258143db4ef5864ae688ca718335f5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489963&amp;idx=1&amp;sn=79befd3359bb134652d03debc9824764&amp;chksm=ce460c3af931852c506e0888a4455172dc7999aadc5e89258143db4ef5864ae688ca718335f5#rd"/>
         <updated>2023-08-12T16:00:00.000Z</updated>
         <published>2023-08-12T16:00:00.000Z</published>
     </entry>
