@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-19 06:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-19 10:00:39，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -104,26 +104,26 @@
 </summary>
 
 
+- [2023-08-19-【第3032期】CSS新特性,超强的-Anchor-Positioning-锚点定位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=1&sn=c3c1d35bdcc1a58ff6168a2b98a7f2c8&chksm=bd48c12b8a3f483d59d579285c9b800af98fe5f7fde3a56efb0b8c7ae289a7b163519699e7c0#rd) ![](/assets/new.png)  
+- [2023-08-19-【早说】建立协作机制助力职场妈妈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=2&sn=ac4a7ba26ac822fd84d9a8da27ea51a2&chksm=bd48c12b8a3f483d97f231ceb2c9ab51d87a280b73bd23d716dfbd27350e29b595e196c793fb#rd) ![](/assets/new.png)  
 - [2023-08-18-【第3031期】-零代码新思路，基于LogicFlow的页面逻辑编排](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265015&idx=1&sn=46bba2095badf2d7509b6925cead6369&chksm=bd48ce738a3f4765ca4dfbe40a2b444ff717e0c2327076095e8c9c175801e7fbe1f0494653fd#rd)  
-- [2023-08-17-【早说】利用"ECRS"消除无用功](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=2&sn=508f693289f3123c3129651005702c00&chksm=bd48ce528a3f4744d0eafc17e2c5c8aeba204522e9226aa36befed0edc146e20d995c3e2c3f2#rd)  
+- [2023-08-18-【早说】先说结论的表达方法“PREP法”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265015&idx=2&sn=694fc4e66b7f0b5b0b8b4e0331d0ba3a&chksm=bd48ce738a3f47651b8fe41b937d610170f5c3451fe1c7233401cc7f25a9d645718d0cec8f1a#rd) ![](/assets/new.png)  
 - [2023-08-17-【第3030期】从集合论的角度理解-TypeScript](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=1&sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd)  
-- [2023-08-16-【第3029期】CSS-如何改变网格布局偶数行的排序？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=1&sn=712227e9148da99c52f75205888bfe37&chksm=bd48cf4a8a3f465c51f441f9af73fb697abc58d60b9c1b35dcf580ecb06a5cbf381c6f3c1828#rd)  
+- [2023-08-17-【早说】利用"ECRS"消除无用功](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=2&sn=508f693289f3123c3129651005702c00&chksm=bd48ce528a3f4744d0eafc17e2c5c8aeba204522e9226aa36befed0edc146e20d995c3e2c3f2#rd)  
 - [2023-08-16-【小册】现代CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=2&sn=7e6963f2c5e197362f40acd67f12d041&chksm=bd48cf4a8a3f465c9d14120b3b78d9e0f7817260e6f9806d62219ca729f21cfde6cdfb65406b#rd)  
+- [2023-08-16-【第3029期】CSS-如何改变网格布局偶数行的排序？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=1&sn=712227e9148da99c52f75205888bfe37&chksm=bd48cf4a8a3f465c51f441f9af73fb697abc58d60b9c1b35dcf580ecb06a5cbf381c6f3c1828#rd)  
 - [2023-08-15-【第3028期】-TLS-证书简化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264694&idx=1&sn=5f635889dd077b724aa251899b8ee971&chksm=bd48cf328a3f462438a41edda05314254516dfbe701ace6a2ba45195dfb4925bd62f2669e6bf#rd)  
-- [2023-08-14-【第3027期】Semi-D2C-设计稿转代码的演进之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264690&idx=1&sn=f42746a744c71ac97fe3e3485c5b9694&chksm=bd48cf368a3f46203daf8f094c2d58dd1849b1dfd8c239378d2d8b3e5cfc91b621a9ae781391#rd)  
 - [2023-08-14-【早说】尝试挑战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264690&idx=2&sn=48150502b6cb6192a38e526ef5988873&chksm=bd48cf368a3f46208c7b612022c2762c52017075b2521cca675659109cb81f4b1e778848778a#rd)  
+- [2023-08-14-【第3027期】Semi-D2C-设计稿转代码的演进之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264690&idx=1&sn=f42746a744c71ac97fe3e3485c5b9694&chksm=bd48cf368a3f46203daf8f094c2d58dd1849b1dfd8c239378d2d8b3e5cfc91b621a9ae781391#rd)  
 - [2023-08-13-【第3026期】React-还是-Vue？@𝖈𝖆𝖑𝖎对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264685&idx=1&sn=abd482257802b379e17fd5175e11d9c6&chksm=bd48cf298a3f463f411f6f2f785b20c921c30d12b9bf90763ca01bf98ca36fe741f8a4cefd6e#rd)  
-- [2023-08-12-【早说】三不](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=2&sn=333ccd4d4ea7c3d4a575523d9a7d714f&chksm=bd48cf218a3f4637944408c49c4ccad11e4c3e24628ba8553b8ec2164df870900afdc6a8e0f2#rd)  
 - [2023-08-12-【第3025期】技术负责人如何应对工作中的频频被打断](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=1&sn=7cb430859caeac6e05674b78a80cfb37&chksm=bd48cf218a3f46376c851a680a8434db73d763b8cfbf0ebda24ab40615b97856c736f022dbab#rd)  
-- [2023-08-11-【第3024期】Pake：利用-Rust-轻松构建轻量级应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264600&idx=1&sn=6ee9fa26144664ef377292e34b56491b&chksm=bd48cfdc8a3f46ca71f80d4f20ae33542b31c5c0a37e397cb4834d9f96ba8fb3b8da8bde6c4d#rd)  
+- [2023-08-12-【早说】三不](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264677&idx=2&sn=333ccd4d4ea7c3d4a575523d9a7d714f&chksm=bd48cf218a3f4637944408c49c4ccad11e4c3e24628ba8553b8ec2164df870900afdc6a8e0f2#rd)  
 - [2023-08-11-【早说】填补认知的盲点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264600&idx=2&sn=b4c9384d70541ec4d362687387f4b47d&chksm=bd48cfdc8a3f46cafcf23802a9c093aa03d628806646a7f7d3c1c54cbb59f0efb96780fb6090#rd)  
-- [2023-08-10-【早说】历史终结错觉](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264559&idx=2&sn=29d820ea24ca0107a6e46b09a270700d&chksm=bd48cfab8a3f46bdfca4b49d25960d91d846d91d3cf1f912be7bdb74921e8ca2ba17d85cf3b1#rd)  
+- [2023-08-11-【第3024期】Pake：利用-Rust-轻松构建轻量级应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264600&idx=1&sn=6ee9fa26144664ef377292e34b56491b&chksm=bd48cfdc8a3f46ca71f80d4f20ae33542b31c5c0a37e397cb4834d9f96ba8fb3b8da8bde6c4d#rd)  
 - [2023-08-10-【第3023期】哈啰Dora：深度解析Taro多业务线小程序协作构建工具与前端协作流](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264559&idx=1&sn=83c7fab008b86418951ec6dd014b7e26&chksm=bd48cfab8a3f46bd43ef8c9971a9b8c53c93ba8cd108020cc3121f10a693ee757c19ee4e45a0#rd)  
-- [2023-08-09-【早行】2023.7小结](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264546&idx=2&sn=786328604a263da97d78459fd61dfc75&chksm=bd48cfa68a3f46b03c3e985088c71334fd82da90f9aa986447ec42a3a66b571e40e4767a3778#rd)  
+- [2023-08-10-【早说】历史终结错觉](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264559&idx=2&sn=29d820ea24ca0107a6e46b09a270700d&chksm=bd48cfab8a3f46bdfca4b49d25960d91d846d91d3cf1f912be7bdb74921e8ca2ba17d85cf3b1#rd)  
 - [2023-08-09-【第3022期】虚拟键盘-API-的妙用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264546&idx=1&sn=180a31d9b47b64c43f0266cabb5f262e&chksm=bd48cfa68a3f46b0cc102215af942c8692f258fa479d778a1f8e7a7d167452a253ba8cef6acd#rd)  
-- [2023-08-08-【第3021期】MiniApp-标准化的海外视角](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264538&idx=2&sn=8e007cc98a4b6a33b462a4da28020d28&chksm=bd48cf9e8a3f46889cc7a298e052d6c365dd76c491d5e872c3b5e44a4f978a7b6dd82403b223#rd)  
-- [2023-08-08-万字分享：新QQ-NT桌面版的内存优化探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264538&idx=1&sn=4d0012b55a61c4a627b43ade460a0223&chksm=bd48cf9e8a3f46883ea49c5fe969c2ae7fb4b23e0649c183da85624055945c7f05c3674aa57d#rd)  
-- [2023-08-07-【早说】幸福最强大的公分母](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264485&idx=2&sn=25fb5d01234613856cdc4bffde349749&chksm=bd48cc618a3f4577fd41775c3aa49eae83dc8fc6ee2378e1a99867316503d8321adce5edb4f8#rd)  
+- [2023-08-09-【早行】2023.7小结](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264546&idx=2&sn=786328604a263da97d78459fd61dfc75&chksm=bd48cfa68a3f46b03c3e985088c71334fd82da90f9aa986447ec42a3a66b571e40e4767a3778#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-08-18-JavaScript前景展望：值得期待的那些新功能](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521832&idx=1&sn=2b0d5c6696ecece319b902ff633e3178&chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd) ![](/assets/new.png)  
+- [2023-08-18-JavaScript前景展望：值得期待的那些新功能](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521832&idx=1&sn=2b0d5c6696ecece319b902ff633e3178&chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd)  
 - [2023-08-16-AI-工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521802&idx=1&sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd)  
 - [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd)  
 - [2023-08-11-桌面-QQ-重构，探寻跨平台开发挑战与-Electron-内存优化突破](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521764&idx=1&sn=8f46b5a1cfbef6106da6b3e829876b32&chksm=f95220a7ce25a9b141be11bbff959acf82daa966cec6a25f50e848bf2244420de6c71fc139a6#rd)  
