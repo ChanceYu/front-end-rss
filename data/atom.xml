@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-19T04:01:16.165Z</updated>
+    <updated>2023-08-19T10:01:09.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Mac 环境快速安装 Homebrew & Nginx 教程]]></title>
+        <id>http://www.yyyweb.com/5518.html</id>
+        <link href="http://www.yyyweb.com/5518.html"/>
+        <updated>2023-08-18T16:00:00.000Z</updated>
+        <published>2023-08-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我是一个垃圾程序员，这是我的人生]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513488&amp;idx=1&amp;sn=1722da1f7004c14be4544994350553c0&amp;chksm=eb078de9dc7004ff1503986f1c55136b4c80531c684d1ed157e80c4c597222704adb484b2595#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[用 TypeScript 编写一个 2D 格斗游戏]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515713&amp;idx=1&amp;sn=8becfa07c86f988b7c1cbc6af81f854f&amp;chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515713&amp;idx=1&amp;sn=8becfa07c86f988b7c1cbc6af81f854f&amp;chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd"/>
-        <updated>2023-08-13T16:00:00.000Z</updated>
-        <published>2023-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开发一个babel插件，自动解决前端精度丢失问题！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489975&amp;idx=1&amp;sn=09e734e7d2c0abcea19cbb79a93f2c52&amp;chksm=ce460c26f9318530052e7786bcd75d73d1c03fee9ff084c1821064fd1b5b4e7ed9a3e501c3a8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489975&amp;idx=1&amp;sn=09e734e7d2c0abcea19cbb79a93f2c52&amp;chksm=ce460c26f9318530052e7786bcd75d73d1c03fee9ff084c1821064fd1b5b4e7ed9a3e501c3a8#rd"/>
         <updated>2023-08-13T16:00:00.000Z</updated>
         <published>2023-08-13T16:00:00.000Z</published>
     </entry>
