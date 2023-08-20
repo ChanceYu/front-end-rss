@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-19T22:00:45.388Z</updated>
+    <updated>2023-08-20T10:01:52.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[9个你会喜欢的 JavaScript 菜单实现方案]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490022&amp;idx=1&amp;sn=1ee241e1709ac717eb973bab4817c901&amp;chksm=ce460c77f93185617cb2242bcd0f6594e70c72c2bbe40bf92a002cc34637cee79d6612a9b36a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490022&amp;idx=1&amp;sn=1ee241e1709ac717eb973bab4817c901&amp;chksm=ce460c77f93185617cb2242bcd0f6594e70c72c2bbe40bf92a002cc34637cee79d6612a9b36a#rd"/>
+        <updated>2023-08-19T16:00:00.000Z</updated>
+        <published>2023-08-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac 环境快速安装 Homebrew & Nginx 教程]]></title>
         <id>http://www.yyyweb.com/5518.html</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[注意，这个 JavaScript 事件即将弃用！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513409&amp;idx=2&amp;sn=26fa5b0ebf859e5444cc5484cf4b3749&amp;chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513409&amp;idx=2&amp;sn=26fa5b0ebf859e5444cc5484cf4b3749&amp;chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd"/>
-        <updated>2023-08-13T16:00:00.000Z</updated>
-        <published>2023-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端食堂技术周刊第 94 期：TS 5.2 RC、从零实现 RSC、Redux 迁移至 ESM 之旅、HTML 满汉全席]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498460&amp;idx=1&amp;sn=3f589c613a2a318a62b2e785129ec7e9&amp;chksm=c2b33b23f5c4b235c7826453f70890327adbddb51b6d9af8d24c801ddc6b3c60a9ae82c41481#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498460&amp;idx=1&amp;sn=3f589c613a2a318a62b2e785129ec7e9&amp;chksm=c2b33b23f5c4b235c7826453f70890327adbddb51b6d9af8d24c801ddc6b3c60a9ae82c41481#rd"/>
         <updated>2023-08-13T16:00:00.000Z</updated>
         <published>2023-08-13T16:00:00.000Z</published>
     </entry>
