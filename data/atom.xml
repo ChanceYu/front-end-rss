@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-20T13:00:58.509Z</updated>
+    <updated>2023-08-20T22:00:55.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[彻底搞懂 package.json 中的 exports, main, module, type]]></title>
+        <id>http://www.yyyweb.com/5522.html</id>
+        <link href="http://www.yyyweb.com/5522.html"/>
+        <updated>2023-08-19T16:00:00.000Z</updated>
+        <published>2023-08-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9个你会喜欢的 JavaScript 菜单实现方案]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490022&amp;idx=1&amp;sn=1ee241e1709ac717eb973bab4817c901&amp;chksm=ce460c77f93185617cb2242bcd0f6594e70c72c2bbe40bf92a002cc34637cee79d6612a9b36a#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS 如何改变网格布局偶数行的排序？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487920&amp;idx=1&amp;sn=f445edbf4d1a19448fcb7e5d93bb3ee8&amp;chksm=97c6727fa0b1fb69df270aedd295e97931958fd34d08e36c00ea67fc1ccb9eb2bffa4a5d22b2#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247487920&amp;idx=1&amp;sn=f445edbf4d1a19448fcb7e5d93bb3ee8&amp;chksm=97c6727fa0b1fb69df270aedd295e97931958fd34d08e36c00ea67fc1ccb9eb2bffa4a5d22b2#rd"/>
-        <updated>2023-08-13T16:00:00.000Z</updated>
-        <published>2023-08-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年薪拿不到25w全额退｜算法工程师培养计划]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513409&amp;idx=1&amp;sn=4230ea913de75c7837ffb2136f8479c6&amp;chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513409&amp;idx=1&amp;sn=4230ea913de75c7837ffb2136f8479c6&amp;chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd"/>
         <updated>2023-08-13T16:00:00.000Z</updated>
         <published>2023-08-13T16:00:00.000Z</published>
     </entry>

@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-20 21:00:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-21 06:00:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -104,7 +104,7 @@
 </summary>
 
 
-- [2023-08-20-【第3033期】@钟正楷：基于微模块构建大型-Web-前端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265203&idx=1&sn=8cd854c83aea58eb1e56134932f4911c&chksm=bd48c1378a3f4821462ce62f4a9ec55cb6b1a791adcd66e7d79038852e73e4c1a79efff0940f#rd) ![](/assets/new.png)  
+- [2023-08-20-【第3033期】@钟正楷：基于微模块构建大型-Web-前端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265203&idx=1&sn=8cd854c83aea58eb1e56134932f4911c&chksm=bd48c1378a3f4821462ce62f4a9ec55cb6b1a791adcd66e7d79038852e73e4c1a79efff0940f#rd)  
 - [2023-08-19-【早说】建立协作机制助力职场妈妈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=2&sn=ac4a7ba26ac822fd84d9a8da27ea51a2&chksm=bd48c12b8a3f483d97f231ceb2c9ab51d87a280b73bd23d716dfbd27350e29b595e196c793fb#rd)  
 - [2023-08-19-【第3032期】CSS新特性,超强的-Anchor-Positioning-锚点定位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=1&sn=c3c1d35bdcc1a58ff6168a2b98a7f2c8&chksm=bd48c12b8a3f483d59d579285c9b800af98fe5f7fde3a56efb0b8c7ae289a7b163519699e7c0#rd)  
 - [2023-08-18-【早说】先说结论的表达方法“PREP法”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265015&idx=2&sn=694fc4e66b7f0b5b0b8b4e0331d0ba3a&chksm=bd48ce738a3f47651b8fe41b937d610170f5c3451fe1c7233401cc7f25a9d645718d0cec8f1a#rd)  
@@ -569,6 +569,7 @@
 </summary>
 
 
+- [2023-08-20-彻底搞懂-package.json-中的-exports,-main,-module,-type](http://www.yyyweb.com/5522.html) ![](/assets/new.png)  
 - [2023-08-19-Mac-环境快速安装-Homebrew-&amp;-Nginx-教程](http://www.yyyweb.com/5518.html)  
 - [2023-07-29-基于-Electron-+-Vue3-搭建一个桌面应用](http://www.yyyweb.com/5512.html)  
 - [2023-07-05-如何免费使用-ChatGPT？无需花钱，尽情探索！](http://www.yyyweb.com/5515.html)  
@@ -577,18 +578,17 @@
 - [2023-02-26-最全的-“文本溢出截断省略”-CSS-&amp;-JS-方案](http://www.yyyweb.com/5506.html)  
 - [2023-02-11-8个-CSS-&amp;-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html)  
 - [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html)  
-- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html)  
-- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html)  
 - [2023-02-06-Web-Components-入门教程【实例】](http://www.yyyweb.com/5491.html)  
+- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html)  
+- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html)  
 - [2023-02-04-什么是比较好的低代码产品？](http://www.yyyweb.com/5487.html)  
 - [2023-01-14-【收藏】2022-年值得推荐的那些-Vue-库！](http://www.yyyweb.com/5485.html)  
 - [2022-12-03-手把手教你从0到1打造一个-WebRTC-应用](http://www.yyyweb.com/5480.html)  
 - [2022-11-21-如何基于-WebComponents-封装-UI-组件库](http://www.yyyweb.com/5483.html)  
 - [2022-11-19-编译速度极致优化，一文搞定-Webpack5-升级](http://www.yyyweb.com/5484.html)  
-- [2022-11-18-VueConf-2022-将于12月10日正式开启](http://www.yyyweb.com/5473.html)  
 - [2022-11-18-美团基于-Serverless-的前端研发体系建设和业务实践](http://www.yyyweb.com/5476.html)  
+- [2022-11-18-VueConf-2022-将于12月10日正式开启](http://www.yyyweb.com/5473.html)  
 - [2022-09-30-Vue-2-系统如何快速迁移-Vite-作为开发工具](http://www.yyyweb.com/5470.html)  
-- [2022-08-28-10-个你可能没见过的-VsCode-的高效开源神器](http://www.yyyweb.com/5469.html)  
 - [......【查看更多】......](/details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
