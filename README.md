@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-23 18:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-23 21:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +18,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-08-21-抽风预测五年后的Web发展，却被现实啪啪打脸](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521881&idx=1&sn=6e759f0acb0d7d039baa849b9f757573&chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd) ![](/assets/new.png)  
+- [2023-08-21-抽风预测五年后的Web发展，却被现实啪啪打脸](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521881&idx=1&sn=6e759f0acb0d7d039baa849b9f757573&chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd)  
 - [2023-08-18-JavaScript前景展望：值得期待的那些新功能](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521832&idx=1&sn=2b0d5c6696ecece319b902ff633e3178&chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd)  
 - [2023-08-16-AI-工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521802&idx=1&sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd)  
 - [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd)  
@@ -414,25 +414,25 @@
 </summary>
 
 
+- [2023-08-21-离谱！金九银十已开始？面了10次的试水报告。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513512&idx=1&sn=38610f68e9e0436a4742ca24e6cfb786&chksm=eb078dd1dc7004c77502edb4b28aa5a2b0b3559c18097fc35aa3361cfea4a89d96ae2251dcd3#rd) ![](/assets/new.png)  
 - [2023-08-19-我是一个垃圾程序员，这是我的人生](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513488&idx=1&sn=1722da1f7004c14be4544994350553c0&chksm=eb078de9dc7004ff1503986f1c55136b4c80531c684d1ed157e80c4c597222704adb484b2595#rd)  
 - [2023-08-18-现代-React-开发必备的-13-个神库，路由、UI-组件库、拖拽、虚拟列表都齐了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513470&idx=1&sn=764eea76048a9c5635abfbed8141a3b0&chksm=eb078d07dc7004116b33d3b07cdab020df3da525db0db82e2f36f01ee49e363a1eafbdd6fb18#rd)  
 - [2023-08-17-手写玩具版浏览器渲染引擎，彻底搞懂原理](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513452&idx=1&sn=6ea003d056892fc916fc376e542ff79d&chksm=eb078d15dc7004035b323647292c3033e940e59cecfc5e18f99c2de524c20539a7430af1f09b#rd)  
-- [2023-08-16-19-个实用的-ES6-代码片段，解决常见的-JavaScript-问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=2&sn=9786df020c4b8665b1f52055bcaa7670&chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd)  
 - [2023-08-16-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=1&sn=8f16ad21013b0852d9775408deb27331&chksm=eb078d12dc700404682a3cb50561e3a87adbe0b52cc393867b43df00ceee44a30d69e081954a#rd)  
+- [2023-08-16-19-个实用的-ES6-代码片段，解决常见的-JavaScript-问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=2&sn=9786df020c4b8665b1f52055bcaa7670&chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd)  
 - [2023-08-15-会读ReadFlow：前端知识信息流管理神器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513425&idx=1&sn=bc113c2fd70b7b734555c258f90dd163&chksm=eb078d28dc70043ede141fc283ff856987135ae2175e7c5158a404c82aeb0950e92f38f10da0#rd)  
-- [2023-08-14-注意，这个-JavaScript-事件即将弃用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=2&sn=26fa5b0ebf859e5444cc5484cf4b3749&chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd)  
 - [2023-08-14-年薪拿不到25w全额退｜算法工程师培养计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=1&sn=4230ea913de75c7837ffb2136f8479c6&chksm=eb078d38dc70042e0b9fd0e628e527c3efb4a5be7cbeed1e8c73b44987dcdf64fc0983d0d204#rd)  
+- [2023-08-14-注意，这个-JavaScript-事件即将弃用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513409&idx=2&sn=26fa5b0ebf859e5444cc5484cf4b3749&chksm=eb078d38dc70042ed619ffa33cfcecbeb434da2f3c0fc185938e8876d5f900d07de288ef3f69#rd)  
 - [2023-08-13-2022年5月毕业润美转码，还有50天失业期就要被迫回国……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513408&idx=1&sn=d06afdac585a4b04900bb230d100c7bf&chksm=eb078d39dc70042f8350128d9f6d3412886ffc6628e208b3104630890cc8c3ce6b61e1a51c1b#rd)  
 - [2023-08-12-让前端码农生产力狂降的这-7-件破事儿……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513402&idx=1&sn=f8ef82edce313af8f918ae5c17284575&chksm=eb078d43dc70045535bf47971535c6f2577167cdd8d4162b8ce4c870f874497f0cf847442952#rd)  
 - [2023-08-11-这回，前端面试稳了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513352&idx=1&sn=d5d0413aeeec36f5754efd35354976e9&chksm=eb078d71dc700467aff1166c06c03476c2bf9425b10deb9c2956d81f03b10a6d7f518f2659a0#rd)  
 - [2023-08-09-中型前端应用，就别折腾什么微前端、DDD、六边形架构了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513283&idx=1&sn=bc484055ca436929954fdcc9db5b5974&chksm=eb078cbadc7005acabfc0f2ef18523b04bc9f150c734db05afc4a977d88ccfe62861171336d3#rd)  
 - [2023-08-08-美团前端研发套件-Rome，太顶了……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513278&idx=1&sn=ca4d0dd5478134293c5e2c2db8d0c02b&chksm=eb078cc7dc7005d1487e324a7b0dc0bd82305c19609eabe631feef81348663a9546e530bb317#rd)  
-- [2023-08-07-写了一个-vscode-插件：自动添加可选链](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=2&sn=8eb02491eb5e809f568cc3c68c3857da&chksm=eb078cc4dc7005d2fd2fc7668031f255cf35691bb53f90ca055ab3af6e0a2785a6d2fa830a53#rd)  
 - [2023-08-07-认识了一个Vue3超厉害的前端女生。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=1&sn=9e41846da26965fbea6880e886a71367&chksm=eb078cc4dc7005d2294d91197e3660f10a00fd4a93a830ceb15f32c825deed611a256cf88844#rd)  
+- [2023-08-07-写了一个-vscode-插件：自动添加可选链](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513277&idx=2&sn=8eb02491eb5e809f568cc3c68c3857da&chksm=eb078cc4dc7005d2fd2fc7668031f255cf35691bb53f90ca055ab3af6e0a2785a6d2fa830a53#rd)  
 - [2023-08-05-代码之外的尤雨溪：在新加坡的生活，以及如何面对黑粉。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512903&idx=1&sn=eb80093c66231dad5870741a8bdd8d44&chksm=eb078b3edc7002289c082d840cf7e1a69eb0346b8399809a460235505231fbfb59dde3353ee7#rd)  
 - [2023-08-04-我还是选择了-MobX…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512859&idx=1&sn=7dc741937f8e69c975fb6e5be8bde590&chksm=eb078b62dc700274e66f9bc3c488c6fd63c1b93907ecaac7d8b7e3b97be2bbc64d9d672703b7#rd)  
 - [2023-08-03-你可能并不需要-TypeScript](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512854&idx=1&sn=f9ddf34db2fb2ad746053e731b7669d0&chksm=eb078b6fdc70027911aa7576d3e5a247ca5f71a6935a83debbfba9b6bdf2cc2e0e01acf1eb56#rd)  
-- [2023-08-02-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512851&idx=2&sn=2eea54ef5f9cc1ba584352defc388a67&chksm=eb078b6adc70027cc0c829ec347eccbb0a7fb9fdebc82a0b852a176ba42c5eb9e4952ed9029f#rd)  
 - [2023-08-02-最近，前端岗位开始复苏了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512851&idx=1&sn=76e2b9784bf9c061ad48c2c839256ce7&chksm=eb078b6adc70027c7564db84a7b365233a8dd38ac068d4076fa5ffa1158146df1818711f93e2#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
