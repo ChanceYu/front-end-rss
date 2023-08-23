@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-22T22:02:30.999Z</updated>
+    <updated>2023-08-23T02:01:25.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[UI酷炫！Vue3.2手写阅读APP，开源爆火！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490031&amp;idx=1&amp;sn=d1b95d56a553b02114b965f5ea3b82ec&amp;chksm=ce460c7ef9318568d9631d8ee216408dbb1207c83586b1de8f5474ee660099f4abee4026299f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490031&amp;idx=1&amp;sn=d1b95d56a553b02114b965f5ea3b82ec&amp;chksm=ce460c7ef9318568d9631d8ee216408dbb1207c83586b1de8f5474ee660099f4abee4026299f#rd"/>
+        <updated>2023-08-20T16:00:00.000Z</updated>
+        <published>2023-08-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【招聘】TikTok客服平台招前端研发工程师]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265207&amp;idx=2&amp;sn=05848c1c337621f447de68256f070314&amp;chksm=bd48c1338a3f4825f47a0c3db694fab4a5995116a5aff9e804f40346a9eea478f1e469782e74#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515720&amp;idx=1&amp;sn=2a16f93db15a1103978672517c4bd3db&amp;chksm=f992b899cee5318f4a53cca3c9afbd05b8c7890fd42c816bc2f67650cf869cb7916188ae67b3#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515720&amp;idx=1&amp;sn=2a16f93db15a1103978672517c4bd3db&amp;chksm=f992b899cee5318f4a53cca3c9afbd05b8c7890fd42c816bc2f67650cf869cb7916188ae67b3#rd"/>
-        <updated>2023-08-14T16:00:00.000Z</updated>
-        <published>2023-08-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全部开源啦！Vue3.2手写阅读APP，大厂前端也爱抄！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489981&amp;idx=1&amp;sn=de513713ad3046f923fea84846bf7598&amp;chksm=ce460c2cf931853a881de9e81599e930a9a14f7d8e00a649f2293cf93498be909e0c8116954a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247489981&amp;idx=1&amp;sn=de513713ad3046f923fea84846bf7598&amp;chksm=ce460c2cf931853a881de9e81599e930a9a14f7d8e00a649f2293cf93498be909e0c8116954a#rd"/>
         <updated>2023-08-14T16:00:00.000Z</updated>
         <published>2023-08-14T16:00:00.000Z</published>
     </entry>
