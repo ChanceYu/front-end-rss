@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-23T07:01:01.075Z</updated>
+    <updated>2023-08-23T10:00:51.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[UI酷炫！Vue3.2手写阅读APP，开源爆火！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490031&amp;idx=1&amp;sn=d1b95d56a553b02114b965f5ea3b82ec&amp;chksm=ce460c7ef9318568d9631d8ee216408dbb1207c83586b1de8f5474ee660099f4abee4026299f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490031&amp;idx=1&amp;sn=d1b95d56a553b02114b965f5ea3b82ec&amp;chksm=ce460c7ef9318568d9631d8ee216408dbb1207c83586b1de8f5474ee660099f4abee4026299f#rd"/>
+        <updated>2023-08-20T16:00:00.000Z</updated>
+        <published>2023-08-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽风预测五年后的Web发展，却被现实啪啪打脸]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521881&amp;idx=1&amp;sn=6e759f0acb0d7d039baa849b9f757573&amp;chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521881&amp;idx=1&amp;sn=6e759f0acb0d7d039baa849b9f757573&amp;chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd"/>
         <updated>2023-08-20T16:00:00.000Z</updated>
         <published>2023-08-20T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[AI 工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521802&amp;idx=1&amp;sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&amp;chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521802&amp;idx=1&amp;sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&amp;chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd"/>
-        <updated>2023-08-15T16:00:00.000Z</updated>
-        <published>2023-08-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么！一个项目给了8个字体包？？？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616549&amp;idx=2&amp;sn=30e8c609f85c74c9f8e0e3f7f892aa4a&amp;chksm=8022a2e4b7552bf21ef067aada550d17bfd314f21f1ec45b6a445bccc04e86632fb9cd53b5b8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616549&amp;idx=2&amp;sn=30e8c609f85c74c9f8e0e3f7f892aa4a&amp;chksm=8022a2e4b7552bf21ef067aada550d17bfd314f21f1ec45b6a445bccc04e86632fb9cd53b5b8#rd"/>
         <updated>2023-08-15T16:00:00.000Z</updated>
         <published>2023-08-15T16:00:00.000Z</published>
     </entry>
