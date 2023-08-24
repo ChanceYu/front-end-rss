@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-24 21:01:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-25 06:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -64,6 +64,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd) 
 - [2023-08-08-QQ技术团队分享：新QQ-NT桌面版内存优化探索之路](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616420&idx=1&sn=834101bf49d61c7172851a992a8f7cba&chksm=8022a365b7552a732342be97f041de3464929dbb4d6ad84b54a1bca2dcadb4b1f988b5645051#rd) 
 - [2023-08-04-为什么各大网站都选择骨架屏？谈谈骨架屏对网站的优化的重要性](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616294&idx=2&sn=5133180707a366de7023dda11d150fb4&chksm=8022a3e7b7552af19170304ae273a6180db8a86bea8e8c0734df51756f99adf08b7d01fdcc4b#rd) 
 - [2023-07-11-页面一打开就有30个重复请求，我要怎么优化？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615787&idx=2&sn=6f1a2bba365f76957d0f09cd1fd719b6&chksm=8022a5eab7552cfc8362f1387c61107824fdf9c70fc39f8cc1262f4adedb4ba3b12c03c63906#rd) 
