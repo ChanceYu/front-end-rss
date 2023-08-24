@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-23T22:00:49.617Z</updated>
+    <updated>2023-08-24T02:00:54.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[支持20+ App、100+业务场景，淘宝端计算平台架构设计与业务实践]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522050&amp;idx=1&amp;sn=b1a085e193d2d1c056e2b7b05282df6d&amp;chksm=f9522241ce25ab575e9bf102cc655bc5fd5a4d978c843a9081a46835ab0c75034a4b36c9360a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522050&amp;idx=1&amp;sn=b1a085e193d2d1c056e2b7b05282df6d&amp;chksm=f9522241ce25ab575e9bf102cc655bc5fd5a4d978c843a9081a46835ab0c75034a4b36c9360a#rd"/>
+        <updated>2023-08-22T16:00:00.000Z</updated>
+        <published>2023-08-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[揭秘 JavaScript 代码整洁技巧，让你的项目更出众]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515818&amp;idx=2&amp;sn=3ac0a8fe707d0b0604aa3b5dbb87f00b&amp;chksm=f992b87bcee5316d808c246b0243f44d2534ba9ec4fec5da7317f410cd31aec808a6ddd5d9dc#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3030期】从集合论的角度理解 TypeScript]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264982&amp;idx=1&amp;sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&amp;chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264982&amp;idx=1&amp;sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&amp;chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd"/>
-        <updated>2023-08-16T16:00:00.000Z</updated>
-        <published>2023-08-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】利用"ECRS"消除无用功]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264982&amp;idx=2&amp;sn=508f693289f3123c3129651005702c00&amp;chksm=bd48ce528a3f4744d0eafc17e2c5c8aeba204522e9226aa36befed0edc146e20d995c3e2c3f2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651264982&amp;idx=2&amp;sn=508f693289f3123c3129651005702c00&amp;chksm=bd48ce528a3f4744d0eafc17e2c5c8aeba204522e9226aa36befed0edc146e20d995c3e2c3f2#rd"/>
         <updated>2023-08-16T16:00:00.000Z</updated>
         <published>2023-08-16T16:00:00.000Z</published>
     </entry>
