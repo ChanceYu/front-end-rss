@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-25 06:00:50，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-25 10:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -135,9 +135,9 @@
 </summary>
 
 
-- [2023-08-24-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=1&sn=4814cd8a07c580e06200e6a6e308fb96&chksm=8022a2b0b7552ba62f2af94483438d4c40c0ba58f1320f9451e0b14e78f08d19d73e75e8c30a#rd) ![](/assets/new.png)  
-- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd) ![](/assets/new.png)  
-- [2023-08-23-作为前端-leader，怎么快速搭建多环境-CICD-自动化部署？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=1&sn=93bb5150102f5cdb3dd0c2c31456212c&chksm=8022a2a7b7552bb17e31dc8101dbe1d40d854957aa410d9b4fe679bf2444a49e1cdf2c557af7#rd) ![](/assets/new.png)  
+- [2023-08-24-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=1&sn=4814cd8a07c580e06200e6a6e308fb96&chksm=8022a2b0b7552ba62f2af94483438d4c40c0ba58f1320f9451e0b14e78f08d19d73e75e8c30a#rd)  
+- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd)  
+- [2023-08-23-作为前端-leader，怎么快速搭建多环境-CICD-自动化部署？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=1&sn=93bb5150102f5cdb3dd0c2c31456212c&chksm=8022a2a7b7552bb17e31dc8101dbe1d40d854957aa410d9b4fe679bf2444a49e1cdf2c557af7#rd)  
 - [2023-08-22-可拖拽、缩放、旋转组件之---生成辅助线和撤销回退功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=2&sn=0717ba7c92a2fd7292d7e6428c078931&chksm=8022a2a1b7552bb7ea9f8447ea6bdd583b14c1a4ce85f9d39a8c0ad768513b738ec1e28fbce6#rd)  
 - [2023-08-22-CSS的will-change，为什么有时候能优化几十倍的性能？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=1&sn=c7e5c24e7b1260a7f79695c82ffa318b&chksm=8022a2a1b7552bb736f17ee3a47277374535ae5686e1af4214bacace078ffb7bddd674bf59e7#rd)  
 - [2023-08-21-3个优秀的-Vue-开源项目，写在简历上直接框框加分](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616604&idx=1&sn=908cb6c5c8f44922a7d693915fcd96b2&chksm=8022a29db7552b8b999adeebea1d887d5621eea5c1ab447cb4380abdd4bc756d1781c7681e9d#rd)  
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-08-22-2017---2023-的JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513518&idx=1&sn=3c1624839858cc808eccf22027c28605&chksm=eb078dd7dc7004c101dc11881e1a77ddc376cbe0529953f659619f40f05b88ccca55c038a1e4#rd) ![](/assets/new.png)  
+- [2023-08-22-2017---2023-的JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513518&idx=1&sn=3c1624839858cc808eccf22027c28605&chksm=eb078dd7dc7004c101dc11881e1a77ddc376cbe0529953f659619f40f05b88ccca55c038a1e4#rd)  
 - [2023-08-21-离谱！金九银十已开始？面了10次的试水报告。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513512&idx=1&sn=38610f68e9e0436a4742ca24e6cfb786&chksm=eb078dd1dc7004c77502edb4b28aa5a2b0b3559c18097fc35aa3361cfea4a89d96ae2251dcd3#rd)  
 - [2023-08-20-28-岁退休的字节跳动程序员郭宇，现在过的怎么样了？谈谈投资、生活、财富自由、苦恼](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513495&idx=1&sn=b555d37988ea5c02a7d6c8591e40f7cf&chksm=eb078deedc7004f839273169a71d4f3379933dee1a0ebd49960d585b067099c2dffa7c7bd6b9#rd)  
 - [2023-08-19-我是一个垃圾程序员，这是我的人生](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513488&idx=1&sn=1722da1f7004c14be4544994350553c0&chksm=eb078de9dc7004ff1503986f1c55136b4c80531c684d1ed157e80c4c597222704adb484b2595#rd)  
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html) ![](/assets/new.png)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
@@ -557,7 +558,6 @@
 - [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
 - [2023-04-21-科技爱好者周刊（第-251-期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)  
 - [2023-04-14-科技爱好者周刊（第-250-期）：新技术的最大风险](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-250.html)  
-- [2023-04-07-科技爱好者周刊（第-249-期）：最成功的软件企业家](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-249.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
