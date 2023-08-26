@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-26 18:00:48，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-26 23:01:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -135,13 +135,13 @@
 </summary>
 
 
-- [2023-08-26-分析前端业务团队如何进行技术建设](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=2&sn=da17ea38a5c752a355ee0c2a7be9bf5f&chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd) ![](/assets/new.png)  
-- [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd) ![](/assets/new.png)  
-- [2023-08-25-spa-如何达到-ssr-的秒开技术方案——预渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=2&sn=993ee981323fc1d91bd0b86bea9a44a9&chksm=8022a2b3b7552ba5d7d6beefb9e8d2c7f3bd89115c1063407e3542e36a4a692f1a8b0ec95da4#rd) ![](/assets/new.png)  
+- [2023-08-26-分析前端业务团队如何进行技术建设](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=2&sn=da17ea38a5c752a355ee0c2a7be9bf5f&chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd)  
+- [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd)  
+- [2023-08-25-spa-如何达到-ssr-的秒开技术方案——预渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=2&sn=993ee981323fc1d91bd0b86bea9a44a9&chksm=8022a2b3b7552ba5d7d6beefb9e8d2c7f3bd89115c1063407e3542e36a4a692f1a8b0ec95da4#rd)  
 - [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd)  
 - [2023-08-24-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=1&sn=4814cd8a07c580e06200e6a6e308fb96&chksm=8022a2b0b7552ba62f2af94483438d4c40c0ba58f1320f9451e0b14e78f08d19d73e75e8c30a#rd)  
 - [2023-08-23-作为前端-leader，怎么快速搭建多环境-CICD-自动化部署？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=1&sn=93bb5150102f5cdb3dd0c2c31456212c&chksm=8022a2a7b7552bb17e31dc8101dbe1d40d854957aa410d9b4fe679bf2444a49e1cdf2c557af7#rd)  
-- [2023-08-23-深入浅出-Source-Map](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=2&sn=d4ffaa4b43517bb3d909fb9585c00379&chksm=8022a2a7b7552bb1d40bbbdba23fbd1c8280067659a695d67e85ac2fdb6dbfa96768c2930e72#rd) ![](/assets/new.png)  
+- [2023-08-23-深入浅出-Source-Map](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=2&sn=d4ffaa4b43517bb3d909fb9585c00379&chksm=8022a2a7b7552bb1d40bbbdba23fbd1c8280067659a695d67e85ac2fdb6dbfa96768c2930e72#rd)  
 - [2023-08-22-CSS的will-change，为什么有时候能优化几十倍的性能？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=1&sn=c7e5c24e7b1260a7f79695c82ffa318b&chksm=8022a2a1b7552bb736f17ee3a47277374535ae5686e1af4214bacace078ffb7bddd674bf59e7#rd)  
 - [2023-08-22-可拖拽、缩放、旋转组件之---生成辅助线和撤销回退功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=2&sn=0717ba7c92a2fd7292d7e6428c078931&chksm=8022a2a1b7552bb7ea9f8447ea6bdd583b14c1a4ce85f9d39a8c0ad768513b738ec1e28fbce6#rd)  
 - [2023-08-21-在创业公司做前端一年，这些经验到底值不值？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616604&idx=2&sn=4ae195eceb2891792d41098d24237b48&chksm=8022a29db7552b8b7c3620d8dfda5a5c3b1c83e533df7682834050b34789ba68af075b3754a8#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-08-25-2023年最受开发者欢迎的五大前端与后端技术](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522053&idx=1&sn=1b35c2409538b3eb1339a31206125776&chksm=f9522246ce25ab500b06f40a0969aeecc029ae3a79791d542e489cb3a8f61c15d7046f9755ef#rd) ![](/assets/new.png)  
 - [2023-08-23-支持20+-App、100+业务场景，淘宝端计算平台架构设计与业务实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522050&idx=1&sn=b1a085e193d2d1c056e2b7b05282df6d&chksm=f9522241ce25ab575e9bf102cc655bc5fd5a4d978c843a9081a46835ab0c75034a4b36c9360a#rd)  
 - [2023-08-21-抽风预测五年后的Web发展，却被现实啪啪打脸](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521881&idx=1&sn=6e759f0acb0d7d039baa849b9f757573&chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd)  
 - [2023-08-18-JavaScript前景展望：值得期待的那些新功能](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521832&idx=1&sn=2b0d5c6696ecece319b902ff633e3178&chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd)  
@@ -185,7 +186,6 @@
 - [2023-07-17-React困境与未来，何时迎来自己的“Angular.js时刻”？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521452&idx=1&sn=da7e553db8783abecb2f5d372e327a86&chksm=f95221efce25a8f9378aaa146d65e03f6c66ef59fdaf87fd2ff3dd5af7d1b5e78edfacc8634d#rd)  
 - [2023-07-14-小白大挑战：24小时内用ChatGPT和Next.js开发开源项目，吸引上万用户！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521436&idx=1&sn=e4c311225275ab8e56660b9097360c33&chksm=f95221dfce25a8c9a80b41a5ad5cb339a6c2580972bb2da924924108aacd4ff4d24a868daf5c#rd)  
 - [2023-07-12-从-Ruby-到-Node：重写-Shopify-CLI，提升开发体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521401&idx=1&sn=44d34149e7fe31d466728a983ad6ca0c&chksm=f952213ace25a82c8df4366e3ef0ad6f22961834890885418670fc94f73eb591113f62571e6f#rd)  
-- [2023-07-10-CSS-选择器的一场革命，:has高级使用指南](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521383&idx=1&sn=8b5a72cd95e26614435cd5635b350285&chksm=f9522124ce25a83206d1cc2a6377b4cbc02439d02111c3dc52ee57a94496a35bb7ae1ca4e641#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

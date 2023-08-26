@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-26T10:00:49.688Z</updated>
+    <updated>2023-08-26T15:01:02.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -67,6 +67,13 @@
         <title type="html"><![CDATA[让你监听页面所有点击事件，你会怎么做？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd"/>
+        <updated>2023-08-24T16:00:00.000Z</updated>
+        <published>2023-08-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年最受开发者欢迎的五大前端与后端技术]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522053&amp;idx=1&amp;sn=1b35c2409538b3eb1339a31206125776&amp;chksm=f9522246ce25ab500b06f40a0969aeecc029ae3a79791d542e489cb3a8f61c15d7046f9755ef#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522053&amp;idx=1&amp;sn=1b35c2409538b3eb1339a31206125776&amp;chksm=f9522246ce25ab500b06f40a0969aeecc029ae3a79791d542e489cb3a8f61c15d7046f9755ef#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265207&amp;idx=2&amp;sn=05848c1c337621f447de68256f070314&amp;chksm=bd48c1338a3f4825f47a0c3db694fab4a5995116a5aff9e804f40346a9eea478f1e469782e74#rd"/>
         <updated>2023-08-20T16:00:00.000Z</updated>
         <published>2023-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彻底搞懂 package.json 中的 exports, main, module, type]]></title>
-        <id>http://www.yyyweb.com/5522.html</id>
-        <link href="http://www.yyyweb.com/5522.html"/>
-        <updated>2023-08-19T16:00:00.000Z</updated>
-        <published>2023-08-19T16:00:00.000Z</published>
     </entry>
 </feed>
