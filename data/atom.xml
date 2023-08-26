@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-26T15:01:02.168Z</updated>
+    <updated>2023-08-26T22:01:45.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[这些天，我们前端组一起处理的项目优化]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490119&amp;idx=1&amp;sn=6a6094cb61234160d5430cc6245b5211&amp;chksm=ce460fd6f93186c0e5c696b33cfe0ae739ad077139eabcc263bf4742b9f0289c1a4cce5da4ce#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490119&amp;idx=1&amp;sn=6a6094cb61234160d5430cc6245b5211&amp;chksm=ce460fd6f93186c0e5c696b33cfe0ae739ad077139eabcc263bf4742b9f0289c1a4cce5da4ce#rd"/>
+        <updated>2023-08-25T16:00:00.000Z</updated>
+        <published>2023-08-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分析前端业务团队如何进行技术建设]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616629&amp;idx=2&amp;sn=da17ea38a5c752a355ee0c2a7be9bf5f&amp;chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd</id>
@@ -57,16 +64,16 @@
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[推荐一个免费的代码生成、补全、纠错、解释、单元测试生成的平台~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd"/>
+        <title type="html"><![CDATA[让你监听页面所有点击事件，你会怎么做？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让你监听页面所有点击事件，你会怎么做？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd"/>
+        <title type="html"><![CDATA[推荐一个免费的代码生成、补全、纠错、解释、单元测试生成的平台~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3034期】为何技术老人这样想那样做？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265207&amp;idx=1&amp;sn=3af9ac65bbb16dab4085644585388ce7&amp;chksm=bd48c1338a3f4825542a3bdbc54212403f176cae8f16909d0c8ca1fe3a6d043d0f388db85280#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265207&amp;idx=1&amp;sn=3af9ac65bbb16dab4085644585388ce7&amp;chksm=bd48c1338a3f4825542a3bdbc54212403f176cae8f16909d0c8ca1fe3a6d043d0f388db85280#rd"/>
-        <updated>2023-08-20T16:00:00.000Z</updated>
-        <published>2023-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】TikTok客服平台招前端研发工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265207&amp;idx=2&amp;sn=05848c1c337621f447de68256f070314&amp;chksm=bd48c1338a3f4825f47a0c3db694fab4a5995116a5aff9e804f40346a9eea478f1e469782e74#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265207&amp;idx=2&amp;sn=05848c1c337621f447de68256f070314&amp;chksm=bd48c1338a3f4825f47a0c3db694fab4a5995116a5aff9e804f40346a9eea478f1e469782e74#rd"/>
         <updated>2023-08-20T16:00:00.000Z</updated>
         <published>2023-08-20T16:00:00.000Z</published>
     </entry>
