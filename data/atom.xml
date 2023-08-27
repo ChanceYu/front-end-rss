@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-27T10:00:56.691Z</updated>
+    <updated>2023-08-27T15:00:59.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[狠狠地研究了下 PerformanceObserver API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/"/>
+        <updated>2023-08-26T16:00:00.000Z</updated>
+        <published>2023-08-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推荐几个不错的前端朋友！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490123&amp;idx=1&amp;sn=1f1ffad588fd8f5771654ccfb07035b2&amp;chksm=ce460fdaf93186cca3eee368dd5c9b97f703983c17e3f556a597ab951aa8bf23e728b52f26d2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490123&amp;idx=1&amp;sn=1f1ffad588fd8f5771654ccfb07035b2&amp;chksm=ce460fdaf93186cca3eee368dd5c9b97f703983c17e3f556a597ab951aa8bf23e728b52f26d2#rd"/>
         <updated>2023-08-26T16:00:00.000Z</updated>
         <published>2023-08-26T16:00:00.000Z</published>
     </entry>
@@ -78,16 +85,16 @@
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让你监听页面所有点击事件，你会怎么做？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd"/>
+        <title type="html"><![CDATA[推荐一个免费的代码生成、补全、纠错、解释、单元测试生成的平台~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[推荐一个免费的代码生成、补全、纠错、解释、单元测试生成的平台~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=2&amp;sn=df405fde488617fde4b035b154edac4d&amp;chksm=ce460fb6f93186a0267942be52c0dddd2b09b537400a8f284ad0e50e1dab79d9c594e591c276#rd"/>
+        <title type="html"><![CDATA[让你监听页面所有点击事件，你会怎么做？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490087&amp;idx=1&amp;sn=c17ded01ea607ccbdd48f1e7e7af5a9b&amp;chksm=ce460fb6f93186a013e9f396d3af995252af7fc2826fb0823db3b69d9b3385dbb68b7757fb64#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[抽风预测五年后的Web发展，却被现实啪啪打脸]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521881&amp;idx=1&amp;sn=6e759f0acb0d7d039baa849b9f757573&amp;chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247521881&amp;idx=1&amp;sn=6e759f0acb0d7d039baa849b9f757573&amp;chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd"/>
-        <updated>2023-08-20T16:00:00.000Z</updated>
-        <published>2023-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3个优秀的 Vue 开源项目，写在简历上直接框框加分]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616604&amp;idx=1&amp;sn=908cb6c5c8f44922a7d693915fcd96b2&amp;chksm=8022a29db7552b8b999adeebea1d887d5621eea5c1ab447cb4380abdd4bc756d1781c7681e9d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616604&amp;idx=1&amp;sn=908cb6c5c8f44922a7d693915fcd96b2&amp;chksm=8022a29db7552b8b999adeebea1d887d5621eea5c1ab447cb4380abdd4bc756d1781c7681e9d#rd"/>
         <updated>2023-08-20T16:00:00.000Z</updated>
         <published>2023-08-20T16:00:00.000Z</published>
     </entry>
