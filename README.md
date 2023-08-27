@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-27 10:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-27 18:00:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -104,7 +104,7 @@
 </summary>
 
 
-- [2023-08-27-【第3040期】提问的智慧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265348&idx=1&sn=f4313687c1ec282ee8727e06605fd738&chksm=bd48c0c08a3f49d698b16be4419426c6f0d3a55e7aef23172ebfbd1930a00857cbf82863775c#rd) ![](/assets/new.png)  
+- [2023-08-27-【第3040期】提问的智慧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265348&idx=1&sn=f4313687c1ec282ee8727e06605fd738&chksm=bd48c0c08a3f49d698b16be4419426c6f0d3a55e7aef23172ebfbd1930a00857cbf82863775c#rd)  
 - [2023-08-26-【第3039期】如何有效地报告-Bug](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265344&idx=1&sn=a39f052e339731dbd422189959209bc4&chksm=bd48c0c48a3f49d2fc3c3a9cd32f63e7f0c26fae110409d8f3bfac21f64ef0ab09628b2bfe3c#rd)  
 - [2023-08-25-【早说】不做”看花人“](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265338&idx=2&sn=97dda7eaf5240c1391fd5f7af7752bea&chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd)  
 - [2023-08-25-【第3038期】前端水印技术全解析（含盲水印）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265338&idx=1&sn=b1a5f5e87882a737529cb8deb7797b14&chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/) ![](/assets/new.png)  
 - [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)  
 - [2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)  
 - [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/)  
@@ -520,13 +521,12 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
+- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
 - [2023-02-19-是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/)  
-- [2023-02-08-奇了怪了，输入法和JS-Enter回车提交冲突](https://www.zhangxinxu.com/wordpress/2023/02/js-enter-submit-compositionupdate/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
