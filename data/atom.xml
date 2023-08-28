@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-27T22:00:42.130Z</updated>
+    <updated>2023-08-28T02:00:43.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3041期】深入思考 Next.js App Directory 架构]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265368&amp;idx=1&amp;sn=3d7c13a444ce3054c1e733a194f11433&amp;chksm=bd48c0dc8a3f49ca297c59aae30032ea8059ddd73895f6ea160d40ba35281b247c50dceb9e25#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265368&amp;idx=1&amp;sn=3d7c13a444ce3054c1e733a194f11433&amp;chksm=bd48c0dc8a3f49ca297c59aae30032ea8059ddd73895f6ea160d40ba35281b247c50dceb9e25#rd"/>
+        <updated>2023-08-27T16:00:00.000Z</updated>
+        <published>2023-08-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狠狠地研究了下 PerformanceObserver API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/</id>
@@ -141,16 +148,16 @@
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3038期】前端水印技术全解析（含盲水印）]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=1&amp;sn=b1a5f5e87882a737529cb8deb7797b14&amp;chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=1&amp;sn=b1a5f5e87882a737529cb8deb7797b14&amp;chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd"/>
+        <title type="html"><![CDATA[【早说】不做”看花人“]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=2&amp;sn=97dda7eaf5240c1391fd5f7af7752bea&amp;chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=2&amp;sn=97dda7eaf5240c1391fd5f7af7752bea&amp;chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】不做”看花人“]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=2&amp;sn=97dda7eaf5240c1391fd5f7af7752bea&amp;chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=2&amp;sn=97dda7eaf5240c1391fd5f7af7752bea&amp;chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd"/>
+        <title type="html"><![CDATA[【第3038期】前端水印技术全解析（含盲水印）]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=1&amp;sn=b1a5f5e87882a737529cb8deb7797b14&amp;chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=1&amp;sn=b1a5f5e87882a737529cb8deb7797b14&amp;chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
     </entry>
@@ -197,16 +204,16 @@
         <published>2023-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【招聘】得物商家&国际前端团队招聘资深前端工程师和技术专家]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=2&amp;sn=40ae2d667a7cb687ecc084f2f5365fbd&amp;chksm=bd48c0b08a3f49a645e2bcb5c06188208e5baac18e99234b51fb5e3e32a496a8c4bf10e578e7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=2&amp;sn=40ae2d667a7cb687ecc084f2f5365fbd&amp;chksm=bd48c0b08a3f49a645e2bcb5c06188208e5baac18e99234b51fb5e3e32a496a8c4bf10e578e7#rd"/>
+        <title type="html"><![CDATA[【第3037期】Microcopy：简短的小提醒造成巨大的影响]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=1&amp;sn=9526a91f61f09b15a6b55f77d2bb6007&amp;chksm=bd48c0b08a3f49a6a33914ebc598dee1cd106b2a09ac07dad5793e7f77096c8c9be4f648d54f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=1&amp;sn=9526a91f61f09b15a6b55f77d2bb6007&amp;chksm=bd48c0b08a3f49a6a33914ebc598dee1cd106b2a09ac07dad5793e7f77096c8c9be4f648d54f#rd"/>
         <updated>2023-08-23T16:00:00.000Z</updated>
         <published>2023-08-23T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3037期】Microcopy：简短的小提醒造成巨大的影响]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=1&amp;sn=9526a91f61f09b15a6b55f77d2bb6007&amp;chksm=bd48c0b08a3f49a6a33914ebc598dee1cd106b2a09ac07dad5793e7f77096c8c9be4f648d54f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=1&amp;sn=9526a91f61f09b15a6b55f77d2bb6007&amp;chksm=bd48c0b08a3f49a6a33914ebc598dee1cd106b2a09ac07dad5793e7f77096c8c9be4f648d54f#rd"/>
+        <title type="html"><![CDATA[【招聘】得物商家&国际前端团队招聘资深前端工程师和技术专家]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=2&amp;sn=40ae2d667a7cb687ecc084f2f5365fbd&amp;chksm=bd48c0b08a3f49a645e2bcb5c06188208e5baac18e99234b51fb5e3e32a496a8c4bf10e578e7#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265332&amp;idx=2&amp;sn=40ae2d667a7cb687ecc084f2f5365fbd&amp;chksm=bd48c0b08a3f49a645e2bcb5c06188208e5baac18e99234b51fb5e3e32a496a8c4bf10e578e7#rd"/>
         <updated>2023-08-23T16:00:00.000Z</updated>
         <published>2023-08-23T16:00:00.000Z</published>
     </entry>
@@ -267,16 +274,16 @@
         <published>2023-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【招聘】深圳AfterShip招前端工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=2&amp;sn=0bbe9903222be0639145f0598ae63916&amp;chksm=bd48c1738a3f4865e920f1ea9fd1a324a1dd8f6dc96f29eb0e02cc1505129578723c67374aca#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=2&amp;sn=0bbe9903222be0639145f0598ae63916&amp;chksm=bd48c1738a3f4865e920f1ea9fd1a324a1dd8f6dc96f29eb0e02cc1505129578723c67374aca#rd"/>
+        <title type="html"><![CDATA[【第3036期】Fetch Priority 和优化LCP]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=1&amp;sn=c9a9887578ea0008abdcee64cae2ebeb&amp;chksm=bd48c1738a3f4865d26cad539afe3b92b3e0343ab2d4271301bcba13d9e3f49268f68671464d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=1&amp;sn=c9a9887578ea0008abdcee64cae2ebeb&amp;chksm=bd48c1738a3f4865d26cad539afe3b92b3e0343ab2d4271301bcba13d9e3f49268f68671464d#rd"/>
         <updated>2023-08-22T16:00:00.000Z</updated>
         <published>2023-08-22T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3036期】Fetch Priority 和优化LCP]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=1&amp;sn=c9a9887578ea0008abdcee64cae2ebeb&amp;chksm=bd48c1738a3f4865d26cad539afe3b92b3e0343ab2d4271301bcba13d9e3f49268f68671464d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=1&amp;sn=c9a9887578ea0008abdcee64cae2ebeb&amp;chksm=bd48c1738a3f4865d26cad539afe3b92b3e0343ab2d4271301bcba13d9e3f49268f68671464d#rd"/>
+        <title type="html"><![CDATA[【招聘】深圳AfterShip招前端工程师]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=2&amp;sn=0bbe9903222be0639145f0598ae63916&amp;chksm=bd48c1738a3f4865e920f1ea9fd1a324a1dd8f6dc96f29eb0e02cc1505129578723c67374aca#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265271&amp;idx=2&amp;sn=0bbe9903222be0639145f0598ae63916&amp;chksm=bd48c1738a3f4865e920f1ea9fd1a324a1dd8f6dc96f29eb0e02cc1505129578723c67374aca#rd"/>
         <updated>2023-08-22T16:00:00.000Z</updated>
         <published>2023-08-22T16:00:00.000Z</published>
     </entry>
@@ -323,16 +330,16 @@
         <published>2023-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】白帽子讲Web安全第2版]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=2&amp;sn=a786f8e3549621ed1d29c644f53b9648&amp;chksm=bd48c1588a3f484eb6cb77723dfd85758eee80c45ac4cd68ef0a3dcc1c13438ed8e002846ea0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=2&amp;sn=a786f8e3549621ed1d29c644f53b9648&amp;chksm=bd48c1588a3f484eb6cb77723dfd85758eee80c45ac4cd68ef0a3dcc1c13438ed8e002846ea0#rd"/>
+        <title type="html"><![CDATA[【第3035期】得物效率前端微应用推进过程与思考]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=1&amp;sn=7cd55b82f28b3827b58e366bd0beaf7b&amp;chksm=bd48c1588a3f484e23ae89eb583a6567eb2bb910f1ac5a94deb896c0665c8c83bde44ea57cb6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=1&amp;sn=7cd55b82f28b3827b58e366bd0beaf7b&amp;chksm=bd48c1588a3f484e23ae89eb583a6567eb2bb910f1ac5a94deb896c0665c8c83bde44ea57cb6#rd"/>
         <updated>2023-08-21T16:00:00.000Z</updated>
         <published>2023-08-21T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3035期】得物效率前端微应用推进过程与思考]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=1&amp;sn=7cd55b82f28b3827b58e366bd0beaf7b&amp;chksm=bd48c1588a3f484e23ae89eb583a6567eb2bb910f1ac5a94deb896c0665c8c83bde44ea57cb6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=1&amp;sn=7cd55b82f28b3827b58e366bd0beaf7b&amp;chksm=bd48c1588a3f484e23ae89eb583a6567eb2bb910f1ac5a94deb896c0665c8c83bde44ea57cb6#rd"/>
+        <title type="html"><![CDATA[【图书】白帽子讲Web安全第2版]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=2&amp;sn=a786f8e3549621ed1d29c644f53b9648&amp;chksm=bd48c1588a3f484eb6cb77723dfd85758eee80c45ac4cd68ef0a3dcc1c13438ed8e002846ea0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265244&amp;idx=2&amp;sn=a786f8e3549621ed1d29c644f53b9648&amp;chksm=bd48c1588a3f484eb6cb77723dfd85758eee80c45ac4cd68ef0a3dcc1c13438ed8e002846ea0#rd"/>
         <updated>2023-08-21T16:00:00.000Z</updated>
         <published>2023-08-21T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端食堂技术周刊第 95 期：Fresh 1.4、Rollup 迁移至 SWC计划、RSC Devtools、AI 帮你讲论文]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498473&amp;idx=1&amp;sn=eac461bbff6be7226071ab7a7d62dada&amp;chksm=c2b33b16f5c4b2008074199081c82d2fd5731db3655871383584755574bf0a559c8372180dab#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247498473&amp;idx=1&amp;sn=eac461bbff6be7226071ab7a7d62dada&amp;chksm=c2b33b16f5c4b2008074199081c82d2fd5731db3655871383584755574bf0a559c8372180dab#rd"/>
-        <updated>2023-08-20T16:00:00.000Z</updated>
-        <published>2023-08-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讲讲我做低代码平台这一年]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515810&amp;idx=2&amp;sn=65b86383aea145e2a92e0d211e7d5d40&amp;chksm=f992b873cee53165be17087c45eeeedc0ab39ba97a7c22bf65dcfbeef64f23df8db9ccad201a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515810&amp;idx=2&amp;sn=65b86383aea145e2a92e0d211e7d5d40&amp;chksm=f992b873cee53165be17087c45eeeedc0ab39ba97a7c22bf65dcfbeef64f23df8db9ccad201a#rd"/>
         <updated>2023-08-20T16:00:00.000Z</updated>
         <published>2023-08-20T16:00:00.000Z</published>
     </entry>
