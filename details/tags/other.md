@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-28 12:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-28 15:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -2834,8 +2834,8 @@
 - [2022-02-11-技术周报·来自未来，2022年的前端人都在做什么](https://mp.weixin.qq.com/s/pk0PGlxfPe09q9n6E3MCiA) 
 - [2022-02-10-来自未来，2022-年的前端人都在做什么?](https://mp.weixin.qq.com/s/triP_hXILSWq37DIGz4VNg) 
 - [2022-01-24-如果你想知道什么是-NFT，看这篇就够了](https://mp.weixin.qq.com/s/yfVz-pKJN0ifwOXNDAfhlA) 
-- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd) 
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw) 
+- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd) 
 - [2023-08-23-听说了一些小道消息…](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498484&idx=1&sn=2b144affe619ab2a318120bb19cf8e4e&chksm=c2b33b0bf5c4b21dec00a43e8a0972ae1667c8c0ee3ddfe33ea2d3faa413e625cc031b7fc601#rd) 
 - [2023-08-11-面了一个阿里出来的大佬，见识到了基础天花板！](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498452&idx=1&sn=e27fcff6bd5ad58afc01d1bcb286a638&chksm=c2b33b2bf5c4b23d50cff51acccf6b96e0eb9710de598ede35a58e763f626212740516cd2982#rd) 
 - [2023-07-28-TS-之父带队的新项目-TypeChat，预示着前端的未来](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498409&idx=2&sn=e1e1e738e504a0e86d7c83f8775a8c6f&chksm=c2b33b56f5c4b240b1322455e083fd799f8003652510aa904ae9b93dfbe27fab6989bd58e4fe#rd) 
