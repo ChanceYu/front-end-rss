@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-08-29 23:01:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-08-30 06:00:41，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499) ![](/assets/new.png)  
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)  
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)  
 - [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
@@ -61,7 +62,6 @@
 - [2023-04-18-Node-v20-released](https://nodeweekly.com/issues/482)  
 - [2023-04-11-The-state-of-Node.js-in-2023](https://nodeweekly.com/issues/481)  
 - [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480)  
-- [2023-03-23-Node.js-challengers-gaining-ground](https://nodeweekly.com/issues/479)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,26 +135,26 @@
 </summary>
 
 
-- [2023-08-28-每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616652&idx=1&sn=a65f32ff289466be592b58fb7074cf0d&chksm=8022a24db7552b5b4d71faa30ae340114e5089d2ef07e0919c49ff90c62a3f7a8e94342c6eec#rd)  
+- [2023-08-29-前端中-JS-发起的请求可以暂停吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616670&idx=1&sn=2f19574a03772689ae7d21fe6348a8c4&chksm=8022a25fb7552b4993a0e34d06fabbb78299065b41f66c5714470ccdd220189d0358666c3afe#rd) ![](/assets/new.png)  
+- [2023-08-29-前端简洁架构](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616670&idx=2&sn=7dd210c4aad135d4d0b1b3d500a6bb60&chksm=8022a25fb7552b491df0123c0c6bec162897df42f9f50f74ce425505b30b3d6455ee20939066#rd) ![](/assets/new.png)  
 - [2023-08-28-极致舒适的-Vue-高性能列表](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616652&idx=2&sn=f4a52e40cd113d0e66cc44362cd5e943&chksm=8022a24db7552b5b77c1fa0b8e47a93d98441b6ab89ff1d44a7e7ac868b625e5548a6c8c13ab#rd)  
-- [2023-08-26-请用-TS-写出-20-个数组方法的声明](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=1&sn=3a6cacea02ca4a394f15f160676e4aa9&chksm=8022a2b4b7552ba2d1cca5f765806de6e68160de067a3b373eea7887e95a7dba8bd446635d05#rd)  
+- [2023-08-28-每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616652&idx=1&sn=a65f32ff289466be592b58fb7074cf0d&chksm=8022a24db7552b5b4d71faa30ae340114e5089d2ef07e0919c49ff90c62a3f7a8e94342c6eec#rd)  
 - [2023-08-26-分析前端业务团队如何进行技术建设](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=2&sn=da17ea38a5c752a355ee0c2a7be9bf5f&chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd)  
-- [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd)  
+- [2023-08-26-请用-TS-写出-20-个数组方法的声明](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=1&sn=3a6cacea02ca4a394f15f160676e4aa9&chksm=8022a2b4b7552ba2d1cca5f765806de6e68160de067a3b373eea7887e95a7dba8bd446635d05#rd)  
 - [2023-08-25-spa-如何达到-ssr-的秒开技术方案——预渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=2&sn=993ee981323fc1d91bd0b86bea9a44a9&chksm=8022a2b3b7552ba5d7d6beefb9e8d2c7f3bd89115c1063407e3542e36a4a692f1a8b0ec95da4#rd)  
-- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd)  
+- [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd)  
 - [2023-08-24-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=1&sn=4814cd8a07c580e06200e6a6e308fb96&chksm=8022a2b0b7552ba62f2af94483438d4c40c0ba58f1320f9451e0b14e78f08d19d73e75e8c30a#rd)  
-- [2023-08-23-作为前端-leader，怎么快速搭建多环境-CICD-自动化部署？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=1&sn=93bb5150102f5cdb3dd0c2c31456212c&chksm=8022a2a7b7552bb17e31dc8101dbe1d40d854957aa410d9b4fe679bf2444a49e1cdf2c557af7#rd)  
+- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd)  
 - [2023-08-23-深入浅出-Source-Map](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=2&sn=d4ffaa4b43517bb3d909fb9585c00379&chksm=8022a2a7b7552bb1d40bbbdba23fbd1c8280067659a695d67e85ac2fdb6dbfa96768c2930e72#rd)  
-- [2023-08-22-CSS的will-change，为什么有时候能优化几十倍的性能？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=1&sn=c7e5c24e7b1260a7f79695c82ffa318b&chksm=8022a2a1b7552bb736f17ee3a47277374535ae5686e1af4214bacace078ffb7bddd674bf59e7#rd)  
+- [2023-08-23-作为前端-leader，怎么快速搭建多环境-CICD-自动化部署？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=1&sn=93bb5150102f5cdb3dd0c2c31456212c&chksm=8022a2a7b7552bb17e31dc8101dbe1d40d854957aa410d9b4fe679bf2444a49e1cdf2c557af7#rd)  
 - [2023-08-22-可拖拽、缩放、旋转组件之---生成辅助线和撤销回退功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=2&sn=0717ba7c92a2fd7292d7e6428c078931&chksm=8022a2a1b7552bb7ea9f8447ea6bdd583b14c1a4ce85f9d39a8c0ad768513b738ec1e28fbce6#rd)  
-- [2023-08-21-在创业公司做前端一年，这些经验到底值不值？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616604&idx=2&sn=4ae195eceb2891792d41098d24237b48&chksm=8022a29db7552b8b7c3620d8dfda5a5c3b1c83e533df7682834050b34789ba68af075b3754a8#rd)  
+- [2023-08-22-CSS的will-change，为什么有时候能优化几十倍的性能？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616608&idx=1&sn=c7e5c24e7b1260a7f79695c82ffa318b&chksm=8022a2a1b7552bb736f17ee3a47277374535ae5686e1af4214bacace078ffb7bddd674bf59e7#rd)  
 - [2023-08-21-3个优秀的-Vue-开源项目，写在简历上直接框框加分](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616604&idx=1&sn=908cb6c5c8f44922a7d693915fcd96b2&chksm=8022a29db7552b8b999adeebea1d887d5621eea5c1ab447cb4380abdd4bc756d1781c7681e9d#rd)  
-- [2023-08-19-Web-前端工程师生存攻略](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616582&idx=1&sn=25445e56c291be27a607bd86a69fb8b0&chksm=8022a287b7552b91fcb8799af6b864a097175a37bee9650175e3e1d6ff539ad611c778740aa9#rd)  
+- [2023-08-21-在创业公司做前端一年，这些经验到底值不值？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616604&idx=2&sn=4ae195eceb2891792d41098d24237b48&chksm=8022a29db7552b8b7c3620d8dfda5a5c3b1c83e533df7682834050b34789ba68af075b3754a8#rd)  
 - [2023-08-19-极致舒适的-Vue-弹窗使用方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616582&idx=2&sn=fc827038874bf5a46cb93d475d2dfe24&chksm=8022a287b7552b919f5f00c096a4951c0141c1ffcc15f3e0f9ce0ccf5a18d776a962c1f3e278#rd)  
-- [2023-08-18-Vue2-屎山代码大盘点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616556&idx=2&sn=a62cf4b25df6fbae8bd1861f152f1478&chksm=8022a2edb7552bfba45a7202f5728e5aa84fb0f348a7612e2481d5e5eb8d0a9c2b895e3a1514#rd)  
+- [2023-08-19-Web-前端工程师生存攻略](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616582&idx=1&sn=25445e56c291be27a607bd86a69fb8b0&chksm=8022a287b7552b91fcb8799af6b864a097175a37bee9650175e3e1d6ff539ad611c778740aa9#rd)  
 - [2023-08-18-不是吧？async/await-异常捕获还在用-try-catch～](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616556&idx=1&sn=2bd12d8ba412824f6bd2c19435be3564&chksm=8022a2edb7552bfb3bd6cfc10b5c3a5b20aeb7999f3450a83e97791dae3135560864eeddd9dc#rd)  
-- [2023-08-17-团队把图标方案从-iconfont-换成-iconify-了，说说我们的思考](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616550&idx=1&sn=5e28764e0a261e04354b76e19ef89fb4&chksm=8022a2e7b7552bf1d7d26e702a841364bb28d077efdccbf309171046560a536ad09c8a3da39e#rd)  
-- [2023-08-17-5-种高级-NodeJS-技术](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616550&idx=2&sn=fed0c44d18b0dde22d116b685c5be850&chksm=8022a2e7b7552bf1ec96679e0cf9740f4bd4255fe527f20b6eba3ac137de940ee9cc9eb7b322#rd)  
+- [2023-08-18-Vue2-屎山代码大盘点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616556&idx=2&sn=a62cf4b25df6fbae8bd1861f152f1478&chksm=8022a2edb7552bfba45a7202f5728e5aa84fb0f348a7612e2481d5e5eb8d0a9c2b895e3a1514#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-08-29-3个优秀的-Vue-开源项目，每个前端人都应该看看](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515899&idx=1&sn=5cd89fce4af225cf9e6b6f6ac483d402&chksm=f992b82acee5313c8d7434a8c28d1f11644e3d02602b5b2f34eaf339f6efd6237dbb234cf93f#rd) ![](/assets/new.png)  
-- [2023-08-29-来一瓶-Web-Component-魔法药水](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515899&idx=2&sn=1d73cffb232c4b4872def9aa49f04b04&chksm=f992b82acee5313cc5ce304ef17aaffc3022365bfb7c95ce22c59d0186511f83ba79486293df#rd) ![](/assets/new.png)  
+- [2023-08-29-3个优秀的-Vue-开源项目，每个前端人都应该看看](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515899&idx=1&sn=5cd89fce4af225cf9e6b6f6ac483d402&chksm=f992b82acee5313c8d7434a8c28d1f11644e3d02602b5b2f34eaf339f6efd6237dbb234cf93f#rd)  
+- [2023-08-29-来一瓶-Web-Component-魔法药水](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515899&idx=2&sn=1d73cffb232c4b4872def9aa49f04b04&chksm=f992b82acee5313cc5ce304ef17aaffc3022365bfb7c95ce22c59d0186511f83ba79486293df#rd)  
 - [2023-08-28-可拖拽、缩放、旋转组件之---生成辅助线和撤销回退功能](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515892&idx=2&sn=4903c918d598d1d0c9bd1cbacb02f5ca&chksm=f992b825cee5313356a14e1847517051665e75e3429cb4f692b5727630d6284ed897f5f87900#rd)  
 - [2023-08-28-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515892&idx=1&sn=024451416cf1812bb32984b811577d21&chksm=f992b825cee53133c2c695390065f30643187783ff84cee24c93d27b08debb3daedbec0468ad#rd)  
 - [2023-08-27-听说你还没用过AI-辅助编码的工具，快来看看这几个？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515883&idx=2&sn=80a2b9be8eb65442fce19a11b5ed3f25&chksm=f992b83acee5312c9d8afef92bd3823bc3762dfb655fd589c8a60d13bb379416f2846118c641#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/) ![](/assets/new.png)  
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
 - [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)  
 - [2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)  
@@ -521,12 +522,11 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
+- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
 - [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [2023-02-27-任意两个点的曲线连接JS算法](https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/)  
-- [2023-02-19-是时候介绍这几个全新的CSS颜色函数了](https://www.zhangxinxu.com/wordpress/2023/02/css-color-function/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
