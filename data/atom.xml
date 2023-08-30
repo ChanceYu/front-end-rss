@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-30T15:00:45.000Z</updated>
+    <updated>2023-08-30T22:00:46.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[你应该立即停止使用 lodash-webpack-plugin]]></title>
         <id>http://www.yyyweb.com/5525.html</id>
         <link href="http://www.yyyweb.com/5525.html"/>
+        <updated>2023-08-29T16:00:00.000Z</updated>
+        <published>2023-08-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一言难尽的registerProtocolHandler()方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/"/>
         <updated>2023-08-29T16:00:00.000Z</updated>
         <published>2023-08-29T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265338&amp;idx=1&amp;sn=b1a5f5e87882a737529cb8deb7797b14&amp;chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd"/>
         <updated>2023-08-24T16:00:00.000Z</updated>
         <published>2023-08-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端架构思考，Vue or React？领域设计、文件结构、数据管理、主题替换]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513523&amp;idx=1&amp;sn=c18fbb404d44cf61249ea438395fece5&amp;chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513523&amp;idx=1&amp;sn=c18fbb404d44cf61249ea438395fece5&amp;chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd"/>
-        <updated>2023-08-23T16:00:00.000Z</updated>
-        <published>2023-08-23T16:00:00.000Z</published>
     </entry>
 </feed>
