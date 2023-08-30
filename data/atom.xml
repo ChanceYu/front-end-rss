@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-30T02:00:48.199Z</updated>
+    <updated>2023-08-30T15:00:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[你应该立即停止使用 lodash-webpack-plugin]]></title>
+        <id>http://www.yyyweb.com/5525.html</id>
+        <link href="http://www.yyyweb.com/5525.html"/>
+        <updated>2023-08-29T16:00:00.000Z</updated>
+        <published>2023-08-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[突发：苹果官宣9月13日发布会，iPhone15要来啦]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjQ4MA==&amp;mid=2650463469&amp;idx=1&amp;sn=3fa35e7293a10d469877910da92263c8&amp;chksm=bedf4fc289a8c6d443693fec151f076372a3d426c16183b201c25b50e341bd8ef4d55820f2d9#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端架构思考，Vue or React？领域设计、文件结构、数据管理、主题替换]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513523&amp;idx=1&amp;sn=c18fbb404d44cf61249ea438395fece5&amp;chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513523&amp;idx=1&amp;sn=c18fbb404d44cf61249ea438395fece5&amp;chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd"/>
-        <updated>2023-08-23T16:00:00.000Z</updated>
-        <published>2023-08-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx反向代理技巧]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515835&amp;idx=2&amp;sn=3780669074e2b70e4fa693430a5a4fae&amp;chksm=f992b86acee5317c4b9d9afbe6c4b61c08f3496af58caa246b96e464001ef1f146ac4d676bff#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247515835&amp;idx=2&amp;sn=3780669074e2b70e4fa693430a5a4fae&amp;chksm=f992b86acee5317c4b9d9afbe6c4b61c08f3496af58caa246b96e464001ef1f146ac4d676bff#rd"/>
         <updated>2023-08-23T16:00:00.000Z</updated>
         <published>2023-08-23T16:00:00.000Z</published>
     </entry>
