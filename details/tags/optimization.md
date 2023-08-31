@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-08-31 23:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-01 06:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-08-30-【第3043期】不一样的"代码拆分"+"预加载"实现应用性能及体验兼得](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265447&idx=1&sn=b5037fb086454a75bf778e7f53c316e5&chksm=bd48c0238a3f493501f3fc00c07ccf87fcfcb7a590061e3867071670d1399532f974b7a2f9e3#rd) 
 - [2023-08-08-万字分享：新QQ-NT桌面版的内存优化探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264538&idx=1&sn=4d0012b55a61c4a627b43ade460a0223&chksm=bd48cf9e8a3f46883ea49c5fe969c2ae7fb4b23e0649c183da85624055945c7f05c3674aa57d#rd) 
 - [2023-07-22-【第3006期】前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264139&idx=1&sn=ed94183928f0ab6d29c00d2642bf2dbd&chksm=bd48cd0f8a3f44190f7af9e3234f0cb3f911ba36a257685b06a9423aff51c3f7eeafbea263b7#rd) 
 - [2023-07-18-【第3002期】前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264026&idx=1&sn=2cdb4f5cbb838b1f89dbc0e2a88ee256&chksm=bd48cd9e8a3f448813e4fd74325a77f8fbc5497ee796e853249fb7c29cd0e46a9fd65d2fcce7#rd) 
