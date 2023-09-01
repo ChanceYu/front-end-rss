@@ -10,16 +10,16 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-01 15:00:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-01 18:00:43，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2023-08-31-【第3044期】详解Module-Federation的实现原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265489&idx=1&sn=fe5cf6cb8e628522b2b4656979368a6d&chksm=bd48c0558a3f49431fb089c2bf2bc72ae645095273e6f844c98aaadffdd43c56fcd3684093c5#rd)  
+- [2023-09-01-【第3045期】基于模块联邦与大仓模式的商家巨石应用拆分实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265502&idx=1&sn=7b4ddd995bb0979e7c7a8189f3f371c4&chksm=bd48c05a8a3f494c9512a9b60698ec0c020ba55ff8e961efa4fd81a1894672041bfbfd55faa9#rd) ![](/assets/new.png)  
+- [2023-09-01-【图书】JavaScript-核心原理：规范、逻辑与设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265502&idx=2&sn=fa40817c6286a79be8b1183ca9982a57&chksm=bd48c05a8a3f494c04a3d9d6c9f74fa788cdfdb58e2714f0957d18e1da6256d837ae46f87109#rd) ![](/assets/new.png)  
 - [2023-08-31-【图书】人人都是提示工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265489&idx=2&sn=3219de39fd9e1d1ad109e70d1a0d4698&chksm=bd48c0558a3f49433c48ecb3367642a41db7897e2088dc4a2b7a0f36d498c5e1d1ad9213a202#rd)  
-- [2023-08-30-【早说】如何点化生活中的灵感](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265447&idx=2&sn=b24e8a46cac7b9eba41d0873a2c83595&chksm=bd48c0238a3f49350c68e56cc52e19544965f57e5db6030f207d01548e251da9c1aed9f27743#rd)  
+- [2023-08-31-【第3044期】详解Module-Federation的实现原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265489&idx=1&sn=fe5cf6cb8e628522b2b4656979368a6d&chksm=bd48c0558a3f49431fb089c2bf2bc72ae645095273e6f844c98aaadffdd43c56fcd3684093c5#rd)  
 - [2023-08-30-【第3043期】不一样的"代码拆分"+"预加载"实现应用性能及体验兼得](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265447&idx=1&sn=b5037fb086454a75bf778e7f53c316e5&chksm=bd48c0238a3f493501f3fc00c07ccf87fcfcb7a590061e3867071670d1399532f974b7a2f9e3#rd)  
-- [2023-08-29-【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)  
+- [2023-08-30-【早说】如何点化生活中的灵感](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265447&idx=2&sn=b24e8a46cac7b9eba41d0873a2c83595&chksm=bd48c0238a3f49350c68e56cc52e19544965f57e5db6030f207d01548e251da9c1aed9f27743#rd)  
 - [2023-08-29-【图书】AI魔法绘画：用Stable-Diffusion挑战无限可能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=2&sn=066a0dbc04f9899a9c2e324fb832cb7c&chksm=bd48c01a8a3f490ceecba821b86bc1a35488418159682313fa297f092d5474efa4b9f724da6d#rd)  
-- [2023-08-28-【第3041期】深入思考-Next.js-App-Directory-架构](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265368&idx=1&sn=3d7c13a444ce3054c1e733a194f11433&chksm=bd48c0dc8a3f49ca297c59aae30032ea8059ddd73895f6ea160d40ba35281b247c50dceb9e25#rd)  
+- [2023-08-29-【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)  
 - [2023-08-28-【开源】基于Canvas的开源版"创客贴"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265368&idx=2&sn=56b7df80b9519c042e4d79db428d5f28&chksm=bd48c0dc8a3f49cace55388ef292880161b5cc97954a7f3147531ccf99381f9754e6d2f4199b#rd)  
+- [2023-08-28-【第3041期】深入思考-Next.js-App-Directory-架构](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265368&idx=1&sn=3d7c13a444ce3054c1e733a194f11433&chksm=bd48c0dc8a3f49ca297c59aae30032ea8059ddd73895f6ea160d40ba35281b247c50dceb9e25#rd)  
 - [2023-08-27-【第3040期】提问的智慧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265348&idx=1&sn=f4313687c1ec282ee8727e06605fd738&chksm=bd48c0c08a3f49d698b16be4419426c6f0d3a55e7aef23172ebfbd1930a00857cbf82863775c#rd)  
 - [2023-08-26-【第3039期】如何有效地报告-Bug](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265344&idx=1&sn=a39f052e339731dbd422189959209bc4&chksm=bd48c0c48a3f49d2fc3c3a9cd32f63e7f0c26fae110409d8f3bfac21f64ef0ab09628b2bfe3c#rd)  
-- [2023-08-25-【早说】不做”看花人“](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265338&idx=2&sn=97dda7eaf5240c1391fd5f7af7752bea&chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd)  
 - [2023-08-25-【第3038期】前端水印技术全解析（含盲水印）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265338&idx=1&sn=b1a5f5e87882a737529cb8deb7797b14&chksm=bd48c0be8a3f49a851adb6692570487c10b8794614d89a347323ada490d72c4f4fb78f27e297#rd)  
-- [2023-08-24-【第3037期】Microcopy：简短的小提醒造成巨大的影响](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265332&idx=1&sn=9526a91f61f09b15a6b55f77d2bb6007&chksm=bd48c0b08a3f49a6a33914ebc598dee1cd106b2a09ac07dad5793e7f77096c8c9be4f648d54f#rd)  
+- [2023-08-25-【早说】不做”看花人“](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265338&idx=2&sn=97dda7eaf5240c1391fd5f7af7752bea&chksm=bd48c0be8a3f49a865cb7769a4212c7e6dc1de535935e0178f7854db5ab81ff43cdeb3b094c2#rd)  
 - [2023-08-24-【招聘】得物商家&amp;国际前端团队招聘资深前端工程师和技术专家](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265332&idx=2&sn=40ae2d667a7cb687ecc084f2f5365fbd&chksm=bd48c0b08a3f49a645e2bcb5c06188208e5baac18e99234b51fb5e3e32a496a8c4bf10e578e7#rd)  
-- [2023-08-23-【第3036期】Fetch-Priority-和优化LCP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265271&idx=1&sn=c9a9887578ea0008abdcee64cae2ebeb&chksm=bd48c1738a3f4865d26cad539afe3b92b3e0343ab2d4271301bcba13d9e3f49268f68671464d#rd)  
+- [2023-08-24-【第3037期】Microcopy：简短的小提醒造成巨大的影响](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265332&idx=1&sn=9526a91f61f09b15a6b55f77d2bb6007&chksm=bd48c0b08a3f49a6a33914ebc598dee1cd106b2a09ac07dad5793e7f77096c8c9be4f648d54f#rd)  
 - [2023-08-23-【招聘】深圳AfterShip招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265271&idx=2&sn=0bbe9903222be0639145f0598ae63916&chksm=bd48c1738a3f4865e920f1ea9fd1a324a1dd8f6dc96f29eb0e02cc1505129578723c67374aca#rd)  
-- [2023-08-22-【第3035期】得物效率前端微应用推进过程与思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265244&idx=1&sn=7cd55b82f28b3827b58e366bd0beaf7b&chksm=bd48c1588a3f484e23ae89eb583a6567eb2bb910f1ac5a94deb896c0665c8c83bde44ea57cb6#rd)  
+- [2023-08-23-【第3036期】Fetch-Priority-和优化LCP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265271&idx=1&sn=c9a9887578ea0008abdcee64cae2ebeb&chksm=bd48c1738a3f4865d26cad539afe3b92b3e0343ab2d4271301bcba13d9e3f49268f68671464d#rd)  
 - [2023-08-22-【图书】白帽子讲Web安全第2版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265244&idx=2&sn=a786f8e3549621ed1d29c644f53b9648&chksm=bd48c1588a3f484eb6cb77723dfd85758eee80c45ac4cd68ef0a3dcc1c13438ed8e002846ea0#rd)  
-- [2023-08-21-【第3034期】为何技术老人这样想那样做？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265207&idx=1&sn=3af9ac65bbb16dab4085644585388ce7&chksm=bd48c1338a3f4825542a3bdbc54212403f176cae8f16909d0c8ca1fe3a6d043d0f388db85280#rd)  
-- [2023-08-21-【招聘】TikTok客服平台招前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265207&idx=2&sn=05848c1c337621f447de68256f070314&chksm=bd48c1338a3f4825f47a0c3db694fab4a5995116a5aff9e804f40346a9eea478f1e469782e74#rd)  
+- [2023-08-22-【第3035期】得物效率前端微应用推进过程与思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265244&idx=1&sn=7cd55b82f28b3827b58e366bd0beaf7b&chksm=bd48c1588a3f484e23ae89eb583a6567eb2bb910f1ac5a94deb896c0665c8c83bde44ea57cb6#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -197,11 +197,11 @@
 </summary>
 
 
-- [2023-09-01-实现打破浏览器次元壁的取色器！顺便把他封装成hooks~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490185&idx=1&sn=a8a031a64e22882d93603b219178bb23&chksm=ce460f18f931860ecc2d64c78bc7e93f33fdc9aff54684bf6179b840b376f7ddb69bb9b690b5#rd) ![](/assets/new.png)  
+- [2023-09-01-实现打破浏览器次元壁的取色器！顺便把他封装成hooks~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490185&idx=1&sn=a8a031a64e22882d93603b219178bb23&chksm=ce460f18f931860ecc2d64c78bc7e93f33fdc9aff54684bf6179b840b376f7ddb69bb9b690b5#rd)  
 - [2023-08-31-又新学到了一个JavaScript知识点Import-Maps](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490167&idx=2&sn=668573560c4aebcae9cbca91e11fbc65&chksm=ce460fe6f93186f06ea50df7a28ee6d44bb38d580fa8db3de937f0cb1dd27383b045bcd619af#rd)  
 - [2023-08-31-像这样的前端女生，真的会被公司抢着要！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490167&idx=1&sn=d5a0820ab2c100c60e68ba856b4a22b5&chksm=ce460fe6f93186f0c6fc33089e49c648e86a18bf39c8a2157d83acc057aaee5b209926713042#rd)  
 - [2023-08-30-看完-Koa-源码我把核心思想应用到了公司项目](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490143&idx=2&sn=1c3d74d50706e33009ae4dc03c99e2c4&chksm=ce460fcef93186d8439408b7a028bdc48733431fe5632da19595c180dc9337234fc59c04516e#rd)  
-- [2023-08-30-科大讯飞，彻底爆了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490143&idx=1&sn=4dc31c76ff7b0c37cd81ab974c77b420&chksm=ce460fcef93186d8666c53be73249f2b62da1d895ffa55f0938f910e3afec4f84a99e0fbd8ef#rd) ![](/assets/new.png)  
+- [2023-08-30-科大讯飞，彻底爆了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490143&idx=1&sn=4dc31c76ff7b0c37cd81ab974c77b420&chksm=ce460fcef93186d8666c53be73249f2b62da1d895ffa55f0938f910e3afec4f84a99e0fbd8ef#rd)  
 - [2023-08-29-20行代码实现【洋葱模型】，其实没那么难理解~](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490139&idx=1&sn=ca35ae773e209c666fc97511d6d1cb1c&chksm=ce460fcaf93186dca6e6e0e6377aa8231c71be76985693c389a4a033d04f848b0bca516fbe75#rd)  
 - [2023-08-28-3个优秀的-Vue-开源项目，每个前端人都应该看看](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490129&idx=1&sn=ec5b1e5088f0a2b323dd848005997bd7&chksm=ce460fc0f93186d6609e337823192564f907bdc9175b8b2c2671c73f4381122c0d92b60b81da#rd)  
 - [2023-08-27-推荐几个不错的前端朋友！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490123&idx=1&sn=1f1ffad588fd8f5771654ccfb07035b2&chksm=ce460fdaf93186cca3eee368dd5c9b97f703983c17e3f556a597ab951aa8bf23e728b52f26d2#rd)  
