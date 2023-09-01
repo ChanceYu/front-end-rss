@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-08-31T22:00:52.015Z</updated>
+    <updated>2023-09-01T02:00:49.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 269 期）：为什么英雄不使用炸药]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html"/>
+        <updated>2023-08-31T16:00:00.000Z</updated>
+        <published>2023-08-31T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513879&amp;idx=1&amp;sn=916cfdb2b0946778a17a5b4347fb1583&amp;chksm=eb078f6edc7006787cefbcd2cd01f794cb2ee7da518d296b6886b07a953b4f9062c8eb140ddd#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[这些天，我们前端组一起处理的项目优化]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490119&amp;idx=1&amp;sn=6a6094cb61234160d5430cc6245b5211&amp;chksm=ce460fd6f93186c0e5c696b33cfe0ae739ad077139eabcc263bf4742b9f0289c1a4cce5da4ce#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490119&amp;idx=1&amp;sn=6a6094cb61234160d5430cc6245b5211&amp;chksm=ce460fd6f93186c0e5c696b33cfe0ae739ad077139eabcc263bf4742b9f0289c1a4cce5da4ce#rd"/>
-        <updated>2023-08-25T16:00:00.000Z</updated>
-        <published>2023-08-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析前端业务团队如何进行技术建设]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616629&amp;idx=2&amp;sn=da17ea38a5c752a355ee0c2a7be9bf5f&amp;chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616629&amp;idx=2&amp;sn=da17ea38a5c752a355ee0c2a7be9bf5f&amp;chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd"/>
         <updated>2023-08-25T16:00:00.000Z</updated>
         <published>2023-08-25T16:00:00.000Z</published>
     </entry>
