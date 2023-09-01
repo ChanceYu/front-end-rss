@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-01T13:00:50.884Z</updated>
+    <updated>2023-09-01T22:00:51.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[实现打破浏览器次元壁的取色器！顺便把他封装成hooks~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490185&amp;idx=1&amp;sn=a8a031a64e22882d93603b219178bb23&amp;chksm=ce460f18f931860ecc2d64c78bc7e93f33fdc9aff54684bf6179b840b376f7ddb69bb9b690b5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490185&amp;idx=1&amp;sn=a8a031a64e22882d93603b219178bb23&amp;chksm=ce460f18f931860ecc2d64c78bc7e93f33fdc9aff54684bf6179b840b376f7ddb69bb9b690b5#rd"/>
+        <updated>2023-08-31T16:00:00.000Z</updated>
+        <published>2023-08-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我从“过时”的 React 开发中汲取经验教训]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522110&amp;idx=1&amp;sn=6954030dbfcec1dd631a71e598dca9de&amp;chksm=f952227dce25ab6b4eb71c41bbcef37fe2416b08142e594e017891054b2af259be749440846c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522110&amp;idx=1&amp;sn=6954030dbfcec1dd631a71e598dca9de&amp;chksm=f952227dce25ab6b4eb71c41bbcef37fe2416b08142e594e017891054b2af259be749440846c#rd"/>
         <updated>2023-08-31T16:00:00.000Z</updated>
         <published>2023-08-31T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3041期】深入思考 Next.js App Directory 架构]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265368&amp;idx=1&amp;sn=3d7c13a444ce3054c1e733a194f11433&amp;chksm=bd48c0dc8a3f49ca297c59aae30032ea8059ddd73895f6ea160d40ba35281b247c50dceb9e25#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265368&amp;idx=1&amp;sn=3d7c13a444ce3054c1e733a194f11433&amp;chksm=bd48c0dc8a3f49ca297c59aae30032ea8059ddd73895f6ea160d40ba35281b247c50dceb9e25#rd"/>
-        <updated>2023-08-27T16:00:00.000Z</updated>
-        <published>2023-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【开源】基于Canvas的开源版"创客贴"]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265368&amp;idx=2&amp;sn=56b7df80b9519c042e4d79db428d5f28&amp;chksm=bd48c0dc8a3f49cace55388ef292880161b5cc97954a7f3147531ccf99381f9754e6d2f4199b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265368&amp;idx=2&amp;sn=56b7df80b9519c042e4d79db428d5f28&amp;chksm=bd48c0dc8a3f49cace55388ef292880161b5cc97954a7f3147531ccf99381f9754e6d2f4199b#rd"/>
         <updated>2023-08-27T16:00:00.000Z</updated>
         <published>2023-08-27T16:00:00.000Z</published>
     </entry>
