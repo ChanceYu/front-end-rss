@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-02T00:00:44.167Z</updated>
+    <updated>2023-09-02T04:00:41.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 侦测手机浏览器的五种方法]]></title>
+        <id>http://www.yyyweb.com/5528.html</id>
+        <link href="http://www.yyyweb.com/5528.html"/>
+        <updated>2023-09-01T16:00:00.000Z</updated>
+        <published>2023-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪这两天微博募捐，开源如何赚大钱？]]></title>
+        <id>http://www.yyyweb.com/5527.html</id>
+        <link href="http://www.yyyweb.com/5527.html"/>
+        <updated>2023-09-01T16:00:00.000Z</updated>
+        <published>2023-09-01T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 269 期）：为什么英雄不使用炸药]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[React 18深度解析：应用性能提升之道]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522071&amp;idx=1&amp;sn=da2f23ba6cff2c04f6f1baf1ca2e3980&amp;chksm=f9522254ce25ab428fe3148162b128d7b4412d300ba154d35569ddfb04d93e1f6ea9587a8a2b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522071&amp;idx=1&amp;sn=da2f23ba6cff2c04f6f1baf1ca2e3980&amp;chksm=f9522254ce25ab428fe3148162b128d7b4412d300ba154d35569ddfb04d93e1f6ea9587a8a2b#rd"/>
-        <updated>2023-08-27T16:00:00.000Z</updated>
-        <published>2023-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个前端人都应该看看的Vue3开源项目]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616652&amp;idx=1&amp;sn=a65f32ff289466be592b58fb7074cf0d&amp;chksm=8022a24db7552b5b4d71faa30ae340114e5089d2ef07e0919c49ff90c62a3f7a8e94342c6eec#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616652&amp;idx=1&amp;sn=a65f32ff289466be592b58fb7074cf0d&amp;chksm=8022a24db7552b5b4d71faa30ae340114e5089d2ef07e0919c49ff90c62a3f7a8e94342c6eec#rd"/>
-        <updated>2023-08-27T16:00:00.000Z</updated>
-        <published>2023-08-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极致舒适的 Vue 高性能列表]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616652&amp;idx=2&amp;sn=f4a52e40cd113d0e66cc44362cd5e943&amp;chksm=8022a24db7552b5b77c1fa0b8e47a93d98441b6ab89ff1d44a7e7ac868b625e5548a6c8c13ab#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616652&amp;idx=2&amp;sn=f4a52e40cd113d0e66cc44362cd5e943&amp;chksm=8022a24db7552b5b77c1fa0b8e47a93d98441b6ab89ff1d44a7e7ac868b625e5548a6c8c13ab#rd"/>
         <updated>2023-08-27T16:00:00.000Z</updated>
         <published>2023-08-27T16:00:00.000Z</published>
     </entry>
