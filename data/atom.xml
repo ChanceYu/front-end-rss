@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-03T10:00:44.218Z</updated>
+    <updated>2023-09-03T13:00:59.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[JavaScript 侦测手机浏览器的五种方法]]></title>
         <id>http://www.yyyweb.com/5528.html</id>
         <link href="http://www.yyyweb.com/5528.html"/>
+        <updated>2023-09-01T16:00:00.000Z</updated>
+        <published>2023-09-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[htmx：我们已经有了超文本，让 JavaScript 走人吧]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513887&amp;idx=1&amp;sn=d93b9a52f59ff34585e2578f33fc3d9b&amp;chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513887&amp;idx=1&amp;sn=d93b9a52f59ff34585e2578f33fc3d9b&amp;chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd"/>
         <updated>2023-09-01T16:00:00.000Z</updated>
         <published>2023-09-01T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端中 JS 发起的请求可以暂停吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616670&amp;idx=1&amp;sn=2f19574a03772689ae7d21fe6348a8c4&amp;chksm=8022a25fb7552b4993a0e34d06fabbb78299065b41f66c5714470ccdd220189d0358666c3afe#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616670&amp;idx=1&amp;sn=2f19574a03772689ae7d21fe6348a8c4&amp;chksm=8022a25fb7552b4993a0e34d06fabbb78299065b41f66c5714470ccdd220189d0358666c3afe#rd"/>
-        <updated>2023-08-28T16:00:00.000Z</updated>
-        <published>2023-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端简洁架构]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616670&amp;idx=2&amp;sn=7dd210c4aad135d4d0b1b3d500a6bb60&amp;chksm=8022a25fb7552b491df0123c0c6bec162897df42f9f50f74ce425505b30b3d6455ee20939066#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616670&amp;idx=2&amp;sn=7dd210c4aad135d4d0b1b3d500a6bb60&amp;chksm=8022a25fb7552b491df0123c0c6bec162897df42f9f50f74ce425505b30b3d6455ee20939066#rd"/>
         <updated>2023-08-28T16:00:00.000Z</updated>
         <published>2023-08-28T16:00:00.000Z</published>
     </entry>

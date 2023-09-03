@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-03 18:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-03 21:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1205,6 +1205,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2023-09-02-htmx：我们已经有了超文本，让-JavaScript-走人吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513887&idx=1&sn=d93b9a52f59ff34585e2578f33fc3d9b&chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd) 
 - [2023-08-28-前端首屏优化-|-借助客户端能力提升-H5-首屏的-8-个手段](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513844&idx=1&sn=4e6e5e3f1fea79c3c8f2b69446dbd5eb&chksm=eb078e8ddc70079b1054a379849f78e49ffd49c15f62a5c9c60e88a7d99a32ae304d11000433#rd) 
 - [2023-08-22-2017---2023-的JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513518&idx=1&sn=3c1624839858cc808eccf22027c28605&chksm=eb078dd7dc7004c101dc11881e1a77ddc376cbe0529953f659619f40f05b88ccca55c038a1e4#rd) 
 - [2023-08-16-19-个实用的-ES6-代码片段，解决常见的-JavaScript-问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513451&idx=2&sn=9786df020c4b8665b1f52055bcaa7670&chksm=eb078d12dc700404ef1eb2d3d39010a78b51fcd9b279e7119f8bf359cf435663a2f12e3380e1#rd) 
