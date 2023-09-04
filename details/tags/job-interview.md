@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-04 21:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-04 23:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -478,6 +478,7 @@
 - [2022-01-11-万字长文干货，从面试官角度再看招聘](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060807&idx=2&sn=91f7315bf578026a9707eab067965bb4&chksm=87c42157b0b3a8415ac14c789473425cca60e0d1aec57a6b7b1ba7939b8e6d16f5a8299eff51#rd) 
 - [2022-01-07-秋招必备的几道经典前端面试题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=1&sn=70cd851583d14f93afcd0a7f0a536be4&chksm=87c42153b0b3a8453d98d9922965e5cbe389431aebdef846bffd6123e63d11a6f839c4b7c257#rd) 
 - [2022-01-03-阿里笔试题：链式调用、对象比较以及对象是否存在循环引用](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=1&sn=f3946d6c5f0061ef2ea6afab879d8a72&chksm=87c42136b0b3a820bc86eaae29db859bf13e3b70051376aa77facc11a7f9e977644b020478dd#rd) 
+- [2023-09-04-面试官：如何实现-PDF-预览和下载？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516025&idx=1&sn=40cb18ba15ade687896fcd433aed6a5b&chksm=f992b9a8cee530be6dc5efb9631c4af51288cad3798b67bcf2aec884fbd42414d263bddaa828#rd) 
 - [2023-08-24-这回，前端面试稳了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515835&idx=1&sn=070d59ed691719a36c5749bc36baa861&chksm=f992b86acee5317c96885cf5e63099f0a5b9bd278f3b4618b1a73c43d0032726353d9befe722#rd) 
 - [2023-05-23-面试官：你们是如何解决多端海报图片生成问题的？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514696&idx=1&sn=f12144d59c1ebb931d9cda29586b2214&chksm=f992bc99cee5358ffd1d1f20fe897fd5bc4ed4095dbdfacba469fe2dfbbd0e1ee704259dcc0a#rd) 
 - [2023-05-15-前端手写并理解面试常考-code-的思路和运行过程](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514556&idx=1&sn=09a6298a799618e22ca217ba266e087c&chksm=f992bf6dcee5367bba189af72bb398f1baf41d3f48179ead5a66f419b64bd559b585afad7db6#rd) 
@@ -489,10 +490,10 @@
 - [2023-03-09-强到离谱！阿里P8前端面试全套笔记，即将删除～](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513623&idx=1&sn=ccfe66c244e13577470f60af75a41edd&chksm=f992b0c6cee539d0583a2807333c5cb5a5ebd26e61248ed610f12d3e10c2c7b630395e240669#rd) 
 - [2023-01-17-面试官：前端重新部署如何通知用户刷新网页？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512682&idx=1&sn=36059af061b59450a54dfbb5b1393e80&chksm=f992b4bbcee53dadfe721ddfe478e325d9061fc5b0923892bcd600eeee8f15b5648bca7fcf85#rd) 
 - [2023-01-12-一次令人窒息的百度面试](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512655&idx=2&sn=aee88386e91023515dc5020211966dd4&chksm=f992b49ecee53d885e684ebebfc4347d901591ff30e4aa6596b3543f42de28f77ae1ac87f7cb#rd) 
-- [2022-09-29-前方高能，2022版前端面试上岸手册，一鸣惊人！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510791&idx=1&sn=1947fd9793277277c8c1dd01225a5d35&chksm=f992add6cee524c0510e6811bdf795151c83a41abd80d59dd49f4930fe26aa811eaf88886022#rd) 
 - [2022-09-29-前方高能，2022版前端面试上岸手册，一鸣惊人！](https://mp.weixin.qq.com/s/UjK5qhxHCZ2jeSd3ndJaJA) 
-- [2022-09-21-面试官：indexOf-和-findIndex-的区别？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510717&idx=2&sn=585568cf11b17a8b51b892ef2e7b5cf0&chksm=f992ac6ccee5257a48d68ad12b3daf9f17be6773d2bd476033a870474f54a0979636b2a66622#rd) 
+- [2022-09-29-前方高能，2022版前端面试上岸手册，一鸣惊人！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510791&idx=1&sn=1947fd9793277277c8c1dd01225a5d35&chksm=f992add6cee524c0510e6811bdf795151c83a41abd80d59dd49f4930fe26aa811eaf88886022#rd) 
 - [2022-09-21-面试官：indexOf-和-findIndex-的区别？](https://mp.weixin.qq.com/s/u_ki8PWRUoeXlhTnZRt0EQ) 
+- [2022-09-21-面试官：indexOf-和-findIndex-的区别？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510717&idx=2&sn=585568cf11b17a8b51b892ef2e7b5cf0&chksm=f992ac6ccee5257a48d68ad12b3daf9f17be6773d2bd476033a870474f54a0979636b2a66622#rd) 
 - [2022-08-26-最新前端面试上岸手册！该提升下逼格了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=1&sn=1d270e7d35c2dce0eda03d605fd8b9e0&chksm=f992af80cee52696f9845c2b0055444fe2abeb29fe7c1d9f0f0cb033caf5ed4a489b62b9b283#rd) 
 - [2022-08-11-疫情之下，这届打工人如何与面试官谈钱](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510226&idx=1&sn=4ba568ae977541621646ea358ba59e64&chksm=f992ae03cee527151b512e5e073153c1c3ccd27d637922972878e06125997779e5be40b00832#rd) 
 - [2022-08-06-我捡到宝了！2022版前端面试上岸手册，最新最细致！](https://mp.weixin.qq.com/s/GnuVsrqgT05RxhldfsCvDA) 
