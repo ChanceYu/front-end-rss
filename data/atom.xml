@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-03T13:00:59.405Z</updated>
+    <updated>2023-09-04T10:00:49.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[打爆React泡沫，重新审视前端技术选择]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522113&amp;idx=1&amp;sn=0b13867f1d52f08b554103be998b6435&amp;chksm=f9522202ce25ab14d174a61003dfe538ed3dec66b33cc095064868bb4350b588527822a11648#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522113&amp;idx=1&amp;sn=0b13867f1d52f08b554103be998b6435&amp;chksm=f9522202ce25ab14d174a61003dfe538ed3dec66b33cc095064868bb4350b588527822a11648#rd"/>
+        <updated>2023-09-03T16:00:00.000Z</updated>
+        <published>2023-09-03T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vue3 如何将页面生成 pdf 导出]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490217&amp;idx=1&amp;sn=5568f396c58c2c3a102c87d0734cf86d&amp;chksm=ce460f38f931862e7238ffb2cf7bc899ea0614bf289b4503176a5d343f35a451c8c80244ff5e#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[20行代码实现【洋葱模型】，其实没那么难理解~]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490139&amp;idx=1&amp;sn=ca35ae773e209c666fc97511d6d1cb1c&amp;chksm=ce460fcaf93186dca6e6e0e6377aa8231c71be76985693c389a4a033d04f848b0bca516fbe75#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490139&amp;idx=1&amp;sn=ca35ae773e209c666fc97511d6d1cb1c&amp;chksm=ce460fcaf93186dca6e6e0e6377aa8231c71be76985693c389a4a033d04f848b0bca516fbe75#rd"/>
-        <updated>2023-08-28T16:00:00.000Z</updated>
-        <published>2023-08-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端中 JS 发起的请求可以暂停吗？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616670&amp;idx=1&amp;sn=2f19574a03772689ae7d21fe6348a8c4&amp;chksm=8022a25fb7552b4993a0e34d06fabbb78299065b41f66c5714470ccdd220189d0358666c3afe#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616670&amp;idx=1&amp;sn=2f19574a03772689ae7d21fe6348a8c4&amp;chksm=8022a25fb7552b4993a0e34d06fabbb78299065b41f66c5714470ccdd220189d0358666c3afe#rd"/>
         <updated>2023-08-28T16:00:00.000Z</updated>
         <published>2023-08-28T16:00:00.000Z</published>
     </entry>

@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-03 21:00:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-04 18:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +18,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-09-04-打爆React泡沫，重新审视前端技术选择](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522113&idx=1&sn=0b13867f1d52f08b554103be998b6435&chksm=f9522202ce25ab14d174a61003dfe538ed3dec66b33cc095064868bb4350b588527822a11648#rd) ![](/assets/new.png)  
 - [2023-09-01-我从“过时”的-React-开发中汲取经验教训](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522110&idx=1&sn=6954030dbfcec1dd631a71e598dca9de&chksm=f952227dce25ab6b4eb71c41bbcef37fe2416b08142e594e017891054b2af259be749440846c#rd)  
 - [2023-08-30-准备好抛弃-HTML-了吗？Dart-3.1-和-Flutter-3.13-发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522078&idx=1&sn=34f33faddc1868becc53e8e7019aec35&chksm=f952225dce25ab4b3679de3fa7dca5a2c151646478f7b9358564fbcaead2c4e65e0eb8bedf8b#rd)  
 - [2023-08-28-React-18深度解析：应用性能提升之道](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522071&idx=1&sn=da2f23ba6cff2c04f6f1baf1ca2e3980&chksm=f9522254ce25ab428fe3148162b128d7b4412d300ba154d35569ddfb04d93e1f6ea9587a8a2b#rd)  
@@ -185,7 +186,6 @@
 - [2023-07-26-C#-和-TypeScript-之父亲自带队开源-TypeChat，又一-AI-技术瓶颈被攻破？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521543&idx=1&sn=544ff2ecfc6e620273c939dd9d6c8f58&chksm=f9522044ce25a9527515c7911eea47ef2e0047540054397e4ffe153664aa6c536a37a2780a00#rd)  
 - [2023-07-24-关于Node.js调试，你需要了解的一切](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521532&idx=1&sn=d22bdce20b54e4ae11151fa4a34c195d&chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd)  
 - [2023-07-21-我眼中的CSS革命：新特性潜力无限](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521494&idx=1&sn=cd0bc459952272aacf692177fbaf27d3&chksm=f9522195ce25a883dfff3290be146a49fff55b37f96ec21a2dc950d442b254ece5f4f34200ef#rd)  
-- [2023-07-19-npm前员工自曝生态内部存在严重bug-|-附避坑指南](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521486&idx=1&sn=f0275cf2962438e1ce6da211fff3c05e&chksm=f952218dce25a89b5ad24ef5756f90d320df899a0ee0006fd93c5abe88934933e7820815d854#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-09-02-htmx：我们已经有了超文本，让-JavaScript-走人吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513887&idx=1&sn=d93b9a52f59ff34585e2578f33fc3d9b&chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd) ![](/assets/new.png)  
+- [2023-09-02-htmx：我们已经有了超文本，让-JavaScript-走人吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513887&idx=1&sn=d93b9a52f59ff34585e2578f33fc3d9b&chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd)  
 - [2023-09-01-十多年程序员差点被骗十多万](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513882&idx=1&sn=a721291d4c6aa94b009626023e1b2380&chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd)  
 - [2023-08-31-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513879&idx=1&sn=916cfdb2b0946778a17a5b4347fb1583&chksm=eb078f6edc7006787cefbcd2cd01f794cb2ee7da518d296b6886b07a953b4f9062c8eb140ddd#rd)  
 - [2023-08-28-前端首屏优化-|-借助客户端能力提升-H5-首屏的-8-个手段](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513844&idx=1&sn=4e6e5e3f1fea79c3c8f2b69446dbd5eb&chksm=eb078e8ddc70079b1054a379849f78e49ffd49c15f62a5c9c60e88a7d99a32ae304d11000433#rd)  
