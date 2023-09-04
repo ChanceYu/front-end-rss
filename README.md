@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-04 23:00:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-05 06:01:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -135,25 +135,25 @@
 </summary>
 
 
-- [2023-09-02-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=1&sn=e5b812c4a490b8dd02b3cbb8ae3f1853&chksm=8022a27bb7552b6df77ecc38a0db72583fa4fadc5dd2daaa63d4c3badac18271da9d52554787#rd)  
+- [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=1&sn=6cc65280a5afcde6823b14a2fa4fe792&chksm=8022a20db7552b1b96ca676165f5b0221d9cec98689f77f8319ae943bd8f13ebdf982624ca17#rd) ![](/assets/new.png)  
 - [2023-09-02-一文彻底搞懂前端实现文件预览（word、excel、pdf、ppt、mp4、图片、文本）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=2&sn=ba6eb8cb443f969d321dce9c2466d2a9&chksm=8022a27bb7552b6d94847d28b16d15890b2309006d897d5bc0d44ad65184ce958d850130c408#rd)  
-- [2023-09-01-迄今为止最全的前端监控体系搭建篇长文预警](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616695&idx=2&sn=7a48398d59ec2fdba3772637a9e53163&chksm=8022a276b7552b603b572c5346e02ef04a3d2a57c0e3b010d39679178714b35aeb68eabeee13#rd)  
+- [2023-09-02-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=1&sn=e5b812c4a490b8dd02b3cbb8ae3f1853&chksm=8022a27bb7552b6df77ecc38a0db72583fa4fadc5dd2daaa63d4c3badac18271da9d52554787#rd)  
 - [2023-09-01-如何精确统计页面停留时长](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616695&idx=1&sn=172d358a69105b6d418f62679c8d4fd4&chksm=8022a276b7552b603ff3a9b3182a80ca6a2c07a9d0e2cd9e2778b909486511fb6ac1690e1e4d#rd)  
-- [2023-08-31-像这样的前端女生，真的会被公司抢着要！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616689&idx=1&sn=e71d8fda4fa7662db60706ed254094fc&chksm=8022a270b7552b66ff91697e5fbdbe6214ef519bba8844e8ecba2bc16c68eb1f0ebabc25cd07#rd)  
+- [2023-09-01-迄今为止最全的前端监控体系搭建篇长文预警](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616695&idx=2&sn=7a48398d59ec2fdba3772637a9e53163&chksm=8022a276b7552b603b572c5346e02ef04a3d2a57c0e3b010d39679178714b35aeb68eabeee13#rd)  
 - [2023-08-31-8-个很棒的-Vue-开发技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616689&idx=2&sn=202a5763e19419c3c12268677e5d3810&chksm=8022a270b7552b66897a632544f1c123358797f63e04d55a0dd1350c8aa17e475c51f4497428#rd)  
-- [2023-08-30-前端程序员终于要崛起了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616671&idx=1&sn=d14e258278a5106c9e569391c988c507&chksm=8022a25eb7552b48cb5e171450fd270b84d76cb269759101ca4034a081c1c5ac1cf8ac61eb95#rd)  
+- [2023-08-31-像这样的前端女生，真的会被公司抢着要！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616689&idx=1&sn=e71d8fda4fa7662db60706ed254094fc&chksm=8022a270b7552b66ff91697e5fbdbe6214ef519bba8844e8ecba2bc16c68eb1f0ebabc25cd07#rd)  
 - [2023-08-30-60-个-Vue-常见问题汇总及解决方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616671&idx=2&sn=d158d6f2257c8f7bcf0763b4b8ad7504&chksm=8022a25eb7552b48366f3019135a717c244b01308a5924b2a421b120ed5eb3fa2ef7e9b65c87#rd)  
-- [2023-08-29-前端简洁架构](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616670&idx=2&sn=7dd210c4aad135d4d0b1b3d500a6bb60&chksm=8022a25fb7552b491df0123c0c6bec162897df42f9f50f74ce425505b30b3d6455ee20939066#rd)  
+- [2023-08-30-前端程序员终于要崛起了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616671&idx=1&sn=d14e258278a5106c9e569391c988c507&chksm=8022a25eb7552b48cb5e171450fd270b84d76cb269759101ca4034a081c1c5ac1cf8ac61eb95#rd)  
 - [2023-08-29-前端中-JS-发起的请求可以暂停吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616670&idx=1&sn=2f19574a03772689ae7d21fe6348a8c4&chksm=8022a25fb7552b4993a0e34d06fabbb78299065b41f66c5714470ccdd220189d0358666c3afe#rd)  
-- [2023-08-28-每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616652&idx=1&sn=a65f32ff289466be592b58fb7074cf0d&chksm=8022a24db7552b5b4d71faa30ae340114e5089d2ef07e0919c49ff90c62a3f7a8e94342c6eec#rd)  
+- [2023-08-29-前端简洁架构](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616670&idx=2&sn=7dd210c4aad135d4d0b1b3d500a6bb60&chksm=8022a25fb7552b491df0123c0c6bec162897df42f9f50f74ce425505b30b3d6455ee20939066#rd)  
 - [2023-08-28-极致舒适的-Vue-高性能列表](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616652&idx=2&sn=f4a52e40cd113d0e66cc44362cd5e943&chksm=8022a24db7552b5b77c1fa0b8e47a93d98441b6ab89ff1d44a7e7ac868b625e5548a6c8c13ab#rd)  
-- [2023-08-26-请用-TS-写出-20-个数组方法的声明](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=1&sn=3a6cacea02ca4a394f15f160676e4aa9&chksm=8022a2b4b7552ba2d1cca5f765806de6e68160de067a3b373eea7887e95a7dba8bd446635d05#rd)  
+- [2023-08-28-每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616652&idx=1&sn=a65f32ff289466be592b58fb7074cf0d&chksm=8022a24db7552b5b4d71faa30ae340114e5089d2ef07e0919c49ff90c62a3f7a8e94342c6eec#rd)  
 - [2023-08-26-分析前端业务团队如何进行技术建设](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=2&sn=da17ea38a5c752a355ee0c2a7be9bf5f&chksm=8022a2b4b7552ba20c2d42a9b934cdf97076bb1282cf203e82cc937bb25d7995e6918dca7b79#rd)  
-- [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd)  
+- [2023-08-26-请用-TS-写出-20-个数组方法的声明](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616629&idx=1&sn=3a6cacea02ca4a394f15f160676e4aa9&chksm=8022a2b4b7552ba2d1cca5f765806de6e68160de067a3b373eea7887e95a7dba8bd446635d05#rd)  
 - [2023-08-25-spa-如何达到-ssr-的秒开技术方案——预渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=2&sn=993ee981323fc1d91bd0b86bea9a44a9&chksm=8022a2b3b7552ba5d7d6beefb9e8d2c7f3bd89115c1063407e3542e36a4a692f1a8b0ec95da4#rd)  
-- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd)  
+- [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd)  
 - [2023-08-24-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=1&sn=4814cd8a07c580e06200e6a6e308fb96&chksm=8022a2b0b7552ba62f2af94483438d4c40c0ba58f1320f9451e0b14e78f08d19d73e75e8c30a#rd)  
-- [2023-08-23-作为前端-leader，怎么快速搭建多环境-CICD-自动化部署？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=1&sn=93bb5150102f5cdb3dd0c2c31456212c&chksm=8022a2a7b7552bb17e31dc8101dbe1d40d854957aa410d9b4fe679bf2444a49e1cdf2c557af7#rd)  
+- [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd)  
 - [2023-08-23-深入浅出-Source-Map](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616614&idx=2&sn=d4ffaa4b43517bb3d909fb9585c00379&chksm=8022a2a7b7552bb1d40bbbdba23fbd1c8280067659a695d67e85ac2fdb6dbfa96768c2930e72#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
@@ -259,7 +259,7 @@
 </summary>
 
 
-- [2023-09-04-面试官：如何实现-PDF-预览和下载？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516025&idx=1&sn=40cb18ba15ade687896fcd433aed6a5b&chksm=f992b9a8cee530be6dc5efb9631c4af51288cad3798b67bcf2aec884fbd42414d263bddaa828#rd) ![](/assets/new.png)  
+- [2023-09-04-面试官：如何实现-PDF-预览和下载？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516025&idx=1&sn=40cb18ba15ade687896fcd433aed6a5b&chksm=f992b9a8cee530be6dc5efb9631c4af51288cad3798b67bcf2aec884fbd42414d263bddaa828#rd)  
 - [2023-09-02-一个指令实现左右拖动改变布局，附详细代码](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516018&idx=2&sn=3d5c4c63bcf98680c71d57bd64890828&chksm=f992b9a3cee530b54d2bd408a019e5dcb89346ab6afafd0b79abb74f097bfd987fdd661f913f#rd)  
 - [2023-09-02-htmx-使HTML更强大，-不错！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516018&idx=1&sn=b8b7df5d66192e933149a6e9b317101e&chksm=f992b9a3cee530b5352bcb0753e9e058011f44e333635da2364af7dee885fdb1140c8c361c9f#rd)  
 - [2023-09-01-芜湖，前端这波起飞！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516013&idx=1&sn=b43a6cb8c4cd542584d4566eb50a1162&chksm=f992b9bccee530aa36e85438a4e5b643d17e3e70eea9183d8ace44014c0964857cd9ad15daa6#rd)  
