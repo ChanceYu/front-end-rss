@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-05 23:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-06 06:00:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500) ![](/assets/new.png)  
 - [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499)  
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)  
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)  
@@ -61,7 +62,6 @@
 - [2023-04-25-Performance-with-Rust-y-Node-addons](https://nodeweekly.com/issues/483)  
 - [2023-04-18-Node-v20-released](https://nodeweekly.com/issues/482)  
 - [2023-04-11-The-state-of-Node.js-in-2023](https://nodeweekly.com/issues/481)  
-- [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -507,7 +507,7 @@
 </summary>
 
 
-- [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) ![](/assets/new.png)  
+- [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  

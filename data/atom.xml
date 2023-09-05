@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-05T15:00:51.510Z</updated>
+    <updated>2023-09-05T22:00:44.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[【第3049期】网易云音乐 Tango 低代码引擎正式开源！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265629&amp;idx=1&amp;sn=891574c0f734adc2c22b8046e923ca2f&amp;chksm=bd48c3d98a3f4acf01986a82245d557acf86b267484d0d30eb063f94ef8ee170ddfd71dbedba#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265629&amp;idx=1&amp;sn=891574c0f734adc2c22b8046e923ca2f&amp;chksm=bd48c3d98a3f4acf01986a82245d557acf86b267484d0d30eb063f94ef8ee170ddfd71dbedba#rd"/>
+        <updated>2023-09-04T16:00:00.000Z</updated>
+        <published>2023-09-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node v20.6.0 released with .env support]]></title>
+        <id>https://nodeweekly.com/issues/500</id>
+        <link href="https://nodeweekly.com/issues/500"/>
         <updated>2023-09-04T16:00:00.000Z</updated>
         <published>2023-09-04T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[像这样的前端女生，真的会被公司抢着要！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616689&amp;idx=1&amp;sn=e71d8fda4fa7662db60706ed254094fc&amp;chksm=8022a270b7552b66ff91697e5fbdbe6214ef519bba8844e8ecba2bc16c68eb1f0ebabc25cd07#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616689&amp;idx=1&amp;sn=e71d8fda4fa7662db60706ed254094fc&amp;chksm=8022a270b7552b66ff91697e5fbdbe6214ef519bba8844e8ecba2bc16c68eb1f0ebabc25cd07#rd"/>
-        <updated>2023-08-30T16:00:00.000Z</updated>
-        <published>2023-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3044期】详解Module Federation的实现原理]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265489&amp;idx=1&amp;sn=fe5cf6cb8e628522b2b4656979368a6d&amp;chksm=bd48c0558a3f49431fb089c2bf2bc72ae645095273e6f844c98aaadffdd43c56fcd3684093c5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265489&amp;idx=1&amp;sn=fe5cf6cb8e628522b2b4656979368a6d&amp;chksm=bd48c0558a3f49431fb089c2bf2bc72ae645095273e6f844c98aaadffdd43c56fcd3684093c5#rd"/>
         <updated>2023-08-30T16:00:00.000Z</updated>
         <published>2023-08-30T16:00:00.000Z</published>
     </entry>

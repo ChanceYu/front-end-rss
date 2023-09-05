@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-08-30 06:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-06 06:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500) 
 - [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499) 
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) 
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497) 
