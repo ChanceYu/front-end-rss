@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-05T13:00:49.338Z</updated>
+    <updated>2023-09-05T15:00:51.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/"/>
+        <updated>2023-09-04T16:00:00.000Z</updated>
+        <published>2023-09-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在美团三年的前端工程化实践回顾]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513909&amp;idx=1&amp;sn=8e1c8e838015bf10e9114c30c6d18d52&amp;chksm=eb078f4cdc70065a37db4636a3969434f1f263beb11212f085abc05aa7e3617cfa6bb7837cf0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3044期】详解Module Federation的实现原理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265489&amp;idx=1&amp;sn=fe5cf6cb8e628522b2b4656979368a6d&amp;chksm=bd48c0558a3f49431fb089c2bf2bc72ae645095273e6f844c98aaadffdd43c56fcd3684093c5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265489&amp;idx=1&amp;sn=fe5cf6cb8e628522b2b4656979368a6d&amp;chksm=bd48c0558a3f49431fb089c2bf2bc72ae645095273e6f844c98aaadffdd43c56fcd3684093c5#rd"/>
-        <updated>2023-08-30T16:00:00.000Z</updated>
-        <published>2023-08-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】人人都是提示工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265489&amp;idx=2&amp;sn=3219de39fd9e1d1ad109e70d1a0d4698&amp;chksm=bd48c0558a3f49433c48ecb3367642a41db7897e2088dc4a2b7a0f36d498c5e1d1ad9213a202#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265489&amp;idx=2&amp;sn=3219de39fd9e1d1ad109e70d1a0d4698&amp;chksm=bd48c0558a3f49433c48ecb3367642a41db7897e2088dc4a2b7a0f36d498c5e1d1ad9213a202#rd"/>
         <updated>2023-08-30T16:00:00.000Z</updated>
         <published>2023-08-30T16:00:00.000Z</published>
     </entry>

@@ -10,26 +10,26 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-05 21:00:47，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-05 23:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-09-05-前端程序员终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=1&sn=9bda841fdfddf92e29543a59bd12425f&chksm=8022a211b7552b07dc5034908063ffa17795b3a2c9c4638870bdf8a352539e241c0dfcbf59d5#rd) ![](/assets/new.png)  
-- [2023-09-05-这几个高级前端常用的-API，你用到了吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=2&sn=4b985cc43426b608745d046eff10f8b8&chksm=8022a211b7552b07365565145522433ef30e1abf1e348c3d5d2c310316a1f8c46ddb90e61c32#rd) ![](/assets/new.png)  
+- [2023-09-05-前端程序员终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=1&sn=9bda841fdfddf92e29543a59bd12425f&chksm=8022a211b7552b07dc5034908063ffa17795b3a2c9c4638870bdf8a352539e241c0dfcbf59d5#rd)  
+- [2023-09-05-这几个高级前端常用的-API，你用到了吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=2&sn=4b985cc43426b608745d046eff10f8b8&chksm=8022a211b7552b07365565145522433ef30e1abf1e348c3d5d2c310316a1f8c46ddb90e61c32#rd)  
 - [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=1&sn=6cc65280a5afcde6823b14a2fa4fe792&chksm=8022a20db7552b1b96ca676165f5b0221d9cec98689f77f8319ae943bd8f13ebdf982624ca17#rd)  
 - [2023-09-02-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=1&sn=e5b812c4a490b8dd02b3cbb8ae3f1853&chksm=8022a27bb7552b6df77ecc38a0db72583fa4fadc5dd2daaa63d4c3badac18271da9d52554787#rd)  
 - [2023-09-02-一文彻底搞懂前端实现文件预览（word、excel、pdf、ppt、mp4、图片、文本）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=2&sn=ba6eb8cb443f969d321dce9c2466d2a9&chksm=8022a27bb7552b6d94847d28b16d15890b2309006d897d5bc0d44ad65184ce958d850130c408#rd)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-09-05-最近，前端面试真疯了。。。](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516036&idx=1&sn=d61a57879317b24f4671cffb466f8a91&chksm=f992b955cee53043fbe250e809063148700c13a7665095c43cc60d9b4f7e9f3e6ca6242d60a1#rd) ![](/assets/new.png)  
-- [2023-09-05-开发-React-组件库时，可能没注意到的小细节！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516036&idx=2&sn=44ccc627d2e6931d85690626c5645c62&chksm=f992b955cee5304362bba37df0ae35f1116f6286c4080a9a3f6fc6462cdf5a83abf28a096927#rd) ![](/assets/new.png)  
+- [2023-09-05-最近，前端面试真疯了。。。](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516036&idx=1&sn=d61a57879317b24f4671cffb466f8a91&chksm=f992b955cee53043fbe250e809063148700c13a7665095c43cc60d9b4f7e9f3e6ca6242d60a1#rd)  
+- [2023-09-05-开发-React-组件库时，可能没注意到的小细节！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516036&idx=2&sn=44ccc627d2e6931d85690626c5645c62&chksm=f992b955cee5304362bba37df0ae35f1116f6286c4080a9a3f6fc6462cdf5a83abf28a096927#rd)  
 - [2023-09-04-解析Node.js镜像原理，轻松构建高效CI/CD流程](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516025&idx=2&sn=583898ad07d89833d5309416d0f222f0&chksm=f992b9a8cee530be6d1cbce1e264edad40dd29c1ab122e085e233e171ce604cf034052e742e4#rd)  
 - [2023-09-04-面试官：如何实现-PDF-预览和下载？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516025&idx=1&sn=40cb18ba15ade687896fcd433aed6a5b&chksm=f992b9a8cee530be6dc5efb9631c4af51288cad3798b67bcf2aec884fbd42414d263bddaa828#rd)  
 - [2023-09-02-一个指令实现左右拖动改变布局，附详细代码](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516018&idx=2&sn=3d5c4c63bcf98680c71d57bd64890828&chksm=f992b9a3cee530b54d2bd408a019e5dcb89346ab6afafd0b79abb74f097bfd987fdd661f913f#rd)  
@@ -414,8 +414,8 @@
 </summary>
 
 
-- [2023-09-05-我在美团三年的前端工程化实践回顾](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513909&idx=1&sn=8e1c8e838015bf10e9114c30c6d18d52&chksm=eb078f4cdc70065a37db4636a3969434f1f263beb11212f085abc05aa7e3617cfa6bb7837cf0#rd) ![](/assets/new.png)  
-- [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513905&idx=1&sn=a30832f8ed306f04f99fe828d365f872&chksm=eb078f48dc70065e5686fe7db39fa7c544f458c92a22ad8c81bd4bc5599eee3ff209c7489ecf#rd) ![](/assets/new.png)  
+- [2023-09-05-我在美团三年的前端工程化实践回顾](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513909&idx=1&sn=8e1c8e838015bf10e9114c30c6d18d52&chksm=eb078f4cdc70065a37db4636a3969434f1f263beb11212f085abc05aa7e3617cfa6bb7837cf0#rd)  
+- [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513905&idx=1&sn=a30832f8ed306f04f99fe828d365f872&chksm=eb078f48dc70065e5686fe7db39fa7c544f458c92a22ad8c81bd4bc5599eee3ff209c7489ecf#rd)  
 - [2023-09-02-htmx：我们已经有了超文本，让-JavaScript-走人吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513887&idx=1&sn=d93b9a52f59ff34585e2578f33fc3d9b&chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd)  
 - [2023-09-01-十多年程序员差点被骗十多万](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513882&idx=1&sn=a721291d4c6aa94b009626023e1b2380&chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd)  
 - [2023-08-31-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513879&idx=1&sn=916cfdb2b0946778a17a5b4347fb1583&chksm=eb078f6edc7006787cefbcd2cd01f794cb2ee7da518d296b6886b07a953b4f9062c8eb140ddd#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) ![](/assets/new.png)  
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
@@ -523,10 +524,9 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
+- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-15-又发现一种无需绝对定位就可以元素重叠的CSS技巧](https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/)  
-- [2023-03-12-一万年了，CSS-text-align-last终于可以用了](https://www.zhangxinxu.com/wordpress/2023/03/css-text-align-last/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
