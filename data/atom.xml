@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-06T13:00:50.646Z</updated>
+    <updated>2023-09-06T22:01:49.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[我面试最喜欢问的开放题：如何严谨二次封装 localStorage？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490246&amp;idx=1&amp;sn=29661b8c8ddebe163ccbb1f469d5592e&amp;chksm=ce460f57f9318641f5dc690e59e414cd5aebc2697c7255bbc781ad038693a2710bcfedc201c6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247490246&amp;idx=1&amp;sn=29661b8c8ddebe163ccbb1f469d5592e&amp;chksm=ce460f57f9318641f5dc690e59e414cd5aebc2697c7255bbc781ad038693a2710bcfedc201c6#rd"/>
+        <updated>2023-09-05T16:00:00.000Z</updated>
+        <published>2023-09-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个潮流的终结？推出仅 3 年后，亚马逊宣布终止低代码 Honeycode 服务，前员工爆料：长期没有顾客！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522168&amp;idx=1&amp;sn=b9e67d73d8fffc4dfef3b2671c1b0ed5&amp;chksm=f952223bce25ab2d31af5dc34eba4e9ec9f76623d6afd57977292c981963b0296ab54d1066ec#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522168&amp;idx=1&amp;sn=b9e67d73d8fffc4dfef3b2671c1b0ed5&amp;chksm=f952223bce25ab2d31af5dc34eba4e9ec9f76623d6afd57977292c981963b0296ab54d1066ec#rd"/>
         <updated>2023-09-05T16:00:00.000Z</updated>
         <published>2023-09-05T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3045期】基于模块联邦与大仓模式的商家巨石应用拆分实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265502&amp;idx=1&amp;sn=7b4ddd995bb0979e7c7a8189f3f371c4&amp;chksm=bd48c05a8a3f494c9512a9b60698ec0c020ba55ff8e961efa4fd81a1894672041bfbfd55faa9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265502&amp;idx=1&amp;sn=7b4ddd995bb0979e7c7a8189f3f371c4&amp;chksm=bd48c05a8a3f494c9512a9b60698ec0c020ba55ff8e961efa4fd81a1894672041bfbfd55faa9#rd"/>
-        <updated>2023-08-31T16:00:00.000Z</updated>
-        <published>2023-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】JavaScript 核心原理：规范、逻辑与设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265502&amp;idx=2&amp;sn=fa40817c6286a79be8b1183ca9982a57&amp;chksm=bd48c05a8a3f494c04a3d9d6c9f74fa788cdfdb58e2714f0957d18e1da6256d837ae46f87109#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265502&amp;idx=2&amp;sn=fa40817c6286a79be8b1183ca9982a57&amp;chksm=bd48c05a8a3f494c04a3d9d6c9f74fa788cdfdb58e2714f0957d18e1da6256d837ae46f87109#rd"/>
         <updated>2023-08-31T16:00:00.000Z</updated>
         <published>2023-08-31T16:00:00.000Z</published>
     </entry>

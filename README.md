@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-06 21:00:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-07 06:01:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -135,11 +135,11 @@
 </summary>
 
 
-- [2023-09-06-禁止别人调试自己的前端页面代码](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616731&idx=1&sn=80a64070e774a2f198f81599dc85f459&chksm=8022a21ab7552b0c9294d774fc982f5365e7c3c592774eda61336d89e39aad7915f0179c9e04#rd) ![](/assets/new.png)  
+- [2023-09-06-禁止别人调试自己的前端页面代码](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616731&idx=1&sn=80a64070e774a2f198f81599dc85f459&chksm=8022a21ab7552b0c9294d774fc982f5365e7c3c592774eda61336d89e39aad7915f0179c9e04#rd)  
 - [2023-09-05-这几个高级前端常用的-API，你用到了吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=2&sn=4b985cc43426b608745d046eff10f8b8&chksm=8022a211b7552b07365565145522433ef30e1abf1e348c3d5d2c310316a1f8c46ddb90e61c32#rd)  
 - [2023-09-05-前端程序员终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=1&sn=9bda841fdfddf92e29543a59bd12425f&chksm=8022a211b7552b07dc5034908063ffa17795b3a2c9c4638870bdf8a352539e241c0dfcbf59d5#rd)  
 - [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=1&sn=6cc65280a5afcde6823b14a2fa4fe792&chksm=8022a20db7552b1b96ca676165f5b0221d9cec98689f77f8319ae943bd8f13ebdf982624ca17#rd)  
-- [2023-09-04-Async-是如何被-JavaScript-实现的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=2&sn=3ea8760a2dd52a584f32270d56a77286&chksm=8022a20db7552b1b0e74ffdcfd01cd2aea767096f2dfc1eca8de03ee9a42cf5677993bff28b8#rd) ![](/assets/new.png)  
+- [2023-09-04-Async-是如何被-JavaScript-实现的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=2&sn=3ea8760a2dd52a584f32270d56a77286&chksm=8022a20db7552b1b0e74ffdcfd01cd2aea767096f2dfc1eca8de03ee9a42cf5677993bff28b8#rd)  
 - [2023-09-02-一文彻底搞懂前端实现文件预览（word、excel、pdf、ppt、mp4、图片、文本）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=2&sn=ba6eb8cb443f969d321dce9c2466d2a9&chksm=8022a27bb7552b6d94847d28b16d15890b2309006d897d5bc0d44ad65184ce958d850130c408#rd)  
 - [2023-09-02-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=1&sn=e5b812c4a490b8dd02b3cbb8ae3f1853&chksm=8022a27bb7552b6df77ecc38a0db72583fa4fadc5dd2daaa63d4c3badac18271da9d52554787#rd)  
 - [2023-09-01-如何精确统计页面停留时长](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616695&idx=1&sn=172d358a69105b6d418f62679c8d4fd4&chksm=8022a276b7552b603ff3a9b3182a80ca6a2c07a9d0e2cd9e2778b909486511fb6ac1690e1e4d#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-09-06-一个潮流的终结？推出仅-3-年后，亚马逊宣布终止低代码-Honeycode-服务，前员工爆料：长期没有顾客！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522168&idx=1&sn=b9e67d73d8fffc4dfef3b2671c1b0ed5&chksm=f952223bce25ab2d31af5dc34eba4e9ec9f76623d6afd57977292c981963b0296ab54d1066ec#rd) ![](/assets/new.png)  
 - [2023-09-04-打爆React泡沫，重新审视前端技术选择](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522113&idx=1&sn=0b13867f1d52f08b554103be998b6435&chksm=f9522202ce25ab14d174a61003dfe538ed3dec66b33cc095064868bb4350b588527822a11648#rd)  
 - [2023-09-01-我从“过时”的-React-开发中汲取经验教训](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522110&idx=1&sn=6954030dbfcec1dd631a71e598dca9de&chksm=f952227dce25ab6b4eb71c41bbcef37fe2416b08142e594e017891054b2af259be749440846c#rd)  
 - [2023-08-30-准备好抛弃-HTML-了吗？Dart-3.1-和-Flutter-3.13-发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522078&idx=1&sn=34f33faddc1868becc53e8e7019aec35&chksm=f952225dce25ab4b3679de3fa7dca5a2c151646478f7b9358564fbcaead2c4e65e0eb8bedf8b#rd)  
@@ -185,7 +186,6 @@
 - [2023-07-28-Bun原生JavaScript打包器登场，引入宏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521551&idx=1&sn=8b03cbf1232e102d4b6898394d356745&chksm=f952204cce25a95a56a91d086921277ebd480af6a93216f353784f14ff9856e7936d56ec3f95#rd)  
 - [2023-07-26-C#-和-TypeScript-之父亲自带队开源-TypeChat，又一-AI-技术瓶颈被攻破？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521543&idx=1&sn=544ff2ecfc6e620273c939dd9d6c8f58&chksm=f9522044ce25a9527515c7911eea47ef2e0047540054397e4ffe153664aa6c536a37a2780a00#rd)  
 - [2023-07-24-关于Node.js调试，你需要了解的一切](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521532&idx=1&sn=d22bdce20b54e4ae11151fa4a34c195d&chksm=f95221bfce25a8a9a4ab098d461fd3b128aa5775a8599974550794fd5d13bc7bf49e88e5614d#rd)  
-- [2023-07-21-我眼中的CSS革命：新特性潜力无限](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521494&idx=1&sn=cd0bc459952272aacf692177fbaf27d3&chksm=f9522195ce25a883dfff3290be146a49fff55b37f96ec21a2dc950d442b254ece5f4f34200ef#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
