@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-07T15:00:48.875Z</updated>
+    <updated>2023-09-07T22:00:48.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -55,6 +55,20 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265683&amp;idx=1&amp;sn=c3c895fc9d30dde4227b6dbf2f3da051&amp;chksm=bd48c3178a3f4a0120724da4e9b0296f5b249a9987d80b6350346a5643e6ebde8492ac91203f#rd"/>
         <updated>2023-09-06T16:00:00.000Z</updated>
         <published>2023-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 5.2, Node 20.6, and Astro 3.0]]></title>
+        <id>https://javascriptweekly.com/issues/653</id>
+        <link href="https://javascriptweekly.com/issues/653"/>
+        <updated>2023-09-06T16:00:00.000Z</updated>
+        <published>2023-09-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开启高效前端规范开发之旅！ESLint + Prettier + husky +Commitizen]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513914&amp;idx=1&amp;sn=584d5ecbd7deac7243be1ab8cdc01d49&amp;chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513914&amp;idx=1&amp;sn=584d5ecbd7deac7243be1ab8cdc01d49&amp;chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd"/>
+        <updated>2023-09-05T16:00:00.000Z</updated>
+        <published>2023-09-05T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Express+Mongodb+Vue实现增删改查-全栈之路]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 269 期）：为什么英雄不使用炸药]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html"/>
-        <updated>2023-08-31T16:00:00.000Z</updated>
-        <published>2023-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十多年程序员差点被骗十多万]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513882&amp;idx=1&amp;sn=a721291d4c6aa94b009626023e1b2380&amp;chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513882&amp;idx=1&amp;sn=a721291d4c6aa94b009626023e1b2380&amp;chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd"/>
-        <updated>2023-08-31T16:00:00.000Z</updated>
-        <published>2023-08-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入理解函数式编程（上）]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516013&amp;idx=2&amp;sn=19520c7e09dbb9dd3ef43cd351417ec1&amp;chksm=f992b9bccee530aac1cfd85e2d9504f29ed49ba96c80515ddf84b0fb52854981973c42e09b5d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516013&amp;idx=2&amp;sn=19520c7e09dbb9dd3ef43cd351417ec1&amp;chksm=f992b9bccee530aac1cfd85e2d9504f29ed49ba96c80515ddf84b0fb52854981973c42e09b5d#rd"/>
         <updated>2023-08-31T16:00:00.000Z</updated>
         <published>2023-08-31T16:00:00.000Z</published>
     </entry>
