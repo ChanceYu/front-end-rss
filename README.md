@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-08 06:00:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-08 08:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653) ![](/assets/new.png)  
+- [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-09-06-开启高效前端规范开发之旅！ESLint-+-Prettier-+-husky-+Commitizen](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513914&idx=1&sn=584d5ecbd7deac7243be1ab8cdc01d49&chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd) ![](/assets/new.png)  
+- [2023-09-06-开启高效前端规范开发之旅！ESLint-+-Prettier-+-husky-+Commitizen](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513914&idx=1&sn=584d5ecbd7deac7243be1ab8cdc01d49&chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd)  
 - [2023-09-05-我在美团三年的前端工程化实践回顾](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513909&idx=1&sn=8e1c8e838015bf10e9114c30c6d18d52&chksm=eb078f4cdc70065a37db4636a3969434f1f263beb11212f085abc05aa7e3617cfa6bb7837cf0#rd)  
 - [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513905&idx=1&sn=a30832f8ed306f04f99fe828d365f872&chksm=eb078f48dc70065e5686fe7db39fa7c544f458c92a22ad8c81bd4bc5599eee3ff209c7489ecf#rd)  
 - [2023-09-02-htmx：我们已经有了超文本，让-JavaScript-走人吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513887&idx=1&sn=d93b9a52f59ff34585e2578f33fc3d9b&chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd)  
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html) ![](/assets/new.png)  
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
@@ -557,7 +558,6 @@
 - [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)  
 - [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)  
 - [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
-- [2023-04-21-科技爱好者周刊（第-251-期）：国产单板机值得推荐](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-251.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

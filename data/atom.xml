@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-07T22:00:48.750Z</updated>
+    <updated>2023-09-08T00:00:50.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 270 期）："精益开发"的精益是什么？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html"/>
+        <updated>2023-09-07T16:00:00.000Z</updated>
+        <published>2023-09-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手写玩具版浏览器渲染引擎，彻底搞懂原理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516079&amp;idx=2&amp;sn=49f08113bab74e522924e2bfe1bccad5&amp;chksm=f992b97ecee53068e50cb3edf5fd77e858deeb3b17113b7b1db9d2d5ca29499d9fbf14d6c5db#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265606&amp;idx=2&amp;sn=62e5762470134da28e6a9bc6edbf5c51&amp;chksm=bd48c3c28a3f4ad449a71e4a6568000802f8cecd08930b102ec07907a58b26a0ebef0c72b1d1#rd"/>
         <updated>2023-09-01T16:00:00.000Z</updated>
         <published>2023-09-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 269 期）：为什么英雄不使用炸药]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html"/>
-        <updated>2023-08-31T16:00:00.000Z</updated>
-        <published>2023-08-31T16:00:00.000Z</published>
     </entry>
 </feed>
