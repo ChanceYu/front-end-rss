@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-09T10:00:46.980Z</updated>
+    <updated>2023-09-09T13:00:54.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 270 期）："精益开发"的精益是什么？]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html"/>
+        <updated>2023-09-07T16:00:00.000Z</updated>
+        <published>2023-09-07T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[某大厂面试官：你这个算法水平有待提升哈]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513927&amp;idx=1&amp;sn=852f84d4aca6e29576cb2590f8f4fba4&amp;chksm=eb078f3edc7006286866a953f27dc0be7210ea83b720818fc423054c7aa68e0222e5aa5c81ff#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513927&amp;idx=1&amp;sn=852f84d4aca6e29576cb2590f8f4fba4&amp;chksm=eb078f3edc7006286866a953f27dc0be7210ea83b720818fc423054c7aa68e0222e5aa5c81ff#rd"/>
         <updated>2023-09-07T16:00:00.000Z</updated>
         <published>2023-09-07T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3048期】CSS 也能实现碰撞检测？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265614&amp;idx=1&amp;sn=0e4eaacba002d352a557b73517eb605c&amp;chksm=bd48c3ca8a3f4adcb9e56520f9b1f5a8a97b54f38150fb615fe86dca632ece62acf695959d9b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265614&amp;idx=1&amp;sn=0e4eaacba002d352a557b73517eb605c&amp;chksm=bd48c3ca8a3f4adcb9e56520f9b1f5a8a97b54f38150fb615fe86dca632ece62acf695959d9b#rd"/>
-        <updated>2023-09-03T16:00:00.000Z</updated>
-        <published>2023-09-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】UI智能化与前端智能化：工程技术、实现方法和编程思想]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265614&amp;idx=2&amp;sn=31a045e1d1f92f72eab06d287d372557&amp;chksm=bd48c3ca8a3f4adce0d8a26e4fdabac5a944f417cb29b10cca202091553a8e627f40cefc0d71#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265614&amp;idx=2&amp;sn=31a045e1d1f92f72eab06d287d372557&amp;chksm=bd48c3ca8a3f4adce0d8a26e4fdabac5a944f417cb29b10cca202091553a8e627f40cefc0d71#rd"/>
         <updated>2023-09-03T16:00:00.000Z</updated>
         <published>2023-09-03T16:00:00.000Z</published>
     </entry>
