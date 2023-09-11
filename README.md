@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-11 21:02:21，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-12 06:00:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,15 +18,15 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-09-11-Ruby-on-Rails的创始人将TypeScript从Turbo框架中移除，引起社区不满](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522183&idx=1&sn=153672445b5286bcfead32e10a1c57de&chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd) ![](/assets/new.png)  
 - [2023-09-08-前端遗留技术与现代功能的对抗，邮件开发注定是件苦差事](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522171&idx=1&sn=de9b86695e2fa3e7fd8e9e731d17f7d2&chksm=f9522238ce25ab2e3ec51736cc59c46c7776a272bad7ffda26a107e6203cb8c834fcf7eb6470#rd)  
 - [2023-09-06-一个潮流的终结？推出仅-3-年后，亚马逊宣布终止低代码-Honeycode-服务，前员工爆料：长期没有顾客！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522168&idx=1&sn=b9e67d73d8fffc4dfef3b2671c1b0ed5&chksm=f952223bce25ab2d31af5dc34eba4e9ec9f76623d6afd57977292c981963b0296ab54d1066ec#rd)  
 - [2023-09-04-打爆React泡沫，重新审视前端技术选择](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522113&idx=1&sn=0b13867f1d52f08b554103be998b6435&chksm=f9522202ce25ab14d174a61003dfe538ed3dec66b33cc095064868bb4350b588527822a11648#rd)  
@@ -185,7 +186,6 @@
 - [2023-08-02-Kotlin-1.9.0-发布：带来多项新的语言特性，改进Multiplatform/Native支持](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521575&idx=1&sn=b20ae882c84cac84b35a349168080c99&chksm=f9522064ce25a972c9c22b70b8b101b33eecc3b19acdd16f90ba1133e01a50beb030508de538#rd)  
 - [2023-07-31-Web-开放性或遭重大打击！谷歌四名工程师推出-WEI-方案，可让广告拦截变成历史](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521568&idx=1&sn=bb5c70ef97a252c3628c65601fddefbe&chksm=f9522063ce25a97526ca50fcf9fc22d96690863db087786e8b7fdbb69ce9dbee7852b6c28d43#rd)  
 - [2023-07-28-Bun原生JavaScript打包器登场，引入宏](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521551&idx=1&sn=8b03cbf1232e102d4b6898394d356745&chksm=f952204cce25a95a56a91d086921277ebd480af6a93216f353784f14ff9856e7936d56ec3f95#rd)  
-- [2023-07-26-C#-和-TypeScript-之父亲自带队开源-TypeChat，又一-AI-技术瓶颈被攻破？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521543&idx=1&sn=544ff2ecfc6e620273c939dd9d6c8f58&chksm=f9522044ce25a9527515c7911eea47ef2e0047540054397e4ffe153664aa6c536a37a2780a00#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-09-11-阿里大佬整理的-Vue3-全套面试笔记-PDF，真香！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516170&idx=1&sn=9282f8ac3aca8fbd0b06668ad6c4a0ed&chksm=f99286dbcee50fcdc4af2e26022b011b2df040a5a212a90e3cb7acb4501ed2926cfc93edcf53#rd) ![](/assets/new.png)  
-- [2023-09-11-前端项目负责人需要具有的能力](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516170&idx=2&sn=4242f7ab92936685076b185e072c64d3&chksm=f99286dbcee50fcd483b26ea95cb84ed15be8e572d651886f585e6cd5db6b107e32f454708fd#rd) ![](/assets/new.png)  
+- [2023-09-11-阿里大佬整理的-Vue3-全套面试笔记-PDF，真香！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516170&idx=1&sn=9282f8ac3aca8fbd0b06668ad6c4a0ed&chksm=f99286dbcee50fcdc4af2e26022b011b2df040a5a212a90e3cb7acb4501ed2926cfc93edcf53#rd)  
+- [2023-09-11-前端项目负责人需要具有的能力](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516170&idx=2&sn=4242f7ab92936685076b185e072c64d3&chksm=f99286dbcee50fcd483b26ea95cb84ed15be8e572d651886f585e6cd5db6b107e32f454708fd#rd)  
 - [2023-09-10-React-还是-Vue？我对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516116&idx=2&sn=00081aaca6d64ecc996873d398eb0f49&chksm=f992b905cee53013f91085c063854f3302dad9659bc261942c68b17179d03c58c19c8e15abcf#rd)  
 - [2023-09-10-大厂为啥都要用Node去写中间层BFF呢？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516116&idx=1&sn=83b8de1a8ec12f55dea6c980a43f9d92&chksm=f992b905cee53013f5fe6966519d0775da802d651549bd654b94b2be4f72d66c13cd6a19b5cf#rd)  
 - [2023-09-09-Chrome-117-发布：新-Web-开发调试技巧都在这了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516094&idx=1&sn=a5a890924f5979e99b8c9c07de7d3505&chksm=f992b96fcee53079c932735b823d572de920b1a36400abc57bcbf901968aec91ff5bc807a691#rd)  
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-09-11-2行代码让JS加载耗时减少67%-|-文末福利](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513936&idx=1&sn=7293c9a1f95631a647ef910000ba188a&chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd) ![](/assets/new.png)  
+- [2023-09-11-2行代码让JS加载耗时减少67%-|-文末福利](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513936&idx=1&sn=7293c9a1f95631a647ef910000ba188a&chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd)  
 - [2023-09-08-某大厂面试官：你这个算法水平有待提升哈](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513927&idx=1&sn=852f84d4aca6e29576cb2590f8f4fba4&chksm=eb078f3edc7006286866a953f27dc0be7210ea83b720818fc423054c7aa68e0222e5aa5c81ff#rd)  
 - [2023-09-06-开启高效前端规范开发之旅！ESLint-+-Prettier-+-husky-+Commitizen](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513914&idx=1&sn=584d5ecbd7deac7243be1ab8cdc01d49&chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd)  
 - [2023-09-05-我在美团三年的前端工程化实践回顾](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513909&idx=1&sn=8e1c8e838015bf10e9114c30c6d18d52&chksm=eb078f4cdc70065a37db4636a3969434f1f263beb11212f085abc05aa7e3617cfa6bb7837cf0#rd)  
