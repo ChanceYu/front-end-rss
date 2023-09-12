@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-12 15:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-12 21:02:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -46,6 +46,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2023-09-12-“再见了，TypeScript！”，Ruby-on-Rails-之父-DHH-也因“类型”遭劝退](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616776&idx=1&sn=5ed3fa271af25201def15253b2d80b09&chksm=8022a1c9b75528df222a49d30f53007b24c9d99c3272c889ccdf858410f161c6dd9cddd77812#rd) 
 - [2023-09-06-如何进阶-TypeScript-功底？一文带你理解-TS-中各种高级语法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616731&idx=2&sn=8413df491dd43ff9c3a6e9985cf114bf&chksm=8022a21ab7552b0c88377695b6dadb0041bdd2d17d17df38aa47b72d832f0edf44e63df5968b#rd) 
 - [2023-08-10-为什么你非常不适应-TypeScript](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616449&idx=1&sn=94690b33a5d655d7f945c8ddce84e8de&chksm=8022a300b7552a16fdf65146a9984b164cfc8ae3abde5916039ecb73429bc8d6c0c78eaf1549#rd) 
 - [2023-07-22-TypeScript-之父也搞大模型：推出-TypeChat](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616021&idx=1&sn=d8dda8b0ca2c589027dc8c10ad276ac8&chksm=8022a4d4b7552dc2c1c466acbe7bd8cff64de31b7e34f968605e54f906ef348a4bbe4395b2e9#rd) 
