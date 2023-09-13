@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-13T10:00:49.277Z</updated>
+    <updated>2023-09-13T15:00:58.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[粉丝妹子分享给我的前端面试卡bug神器。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513967&amp;idx=1&amp;sn=a72fa40f0c3116a257d82395941742dc&amp;chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513967&amp;idx=1&amp;sn=a72fa40f0c3116a257d82395941742dc&amp;chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd"/>
+        <updated>2023-09-12T16:00:00.000Z</updated>
+        <published>2023-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一文搞懂前端各种调试方法的原理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516325&amp;idx=2&amp;sn=feee2d0275a2ec629c827fcf08db2f46&amp;chksm=f9928674cee50f62bde544221a1268dbb9815c13d1c6eb4dd6aabdd29aa564c5fefa98f95a16#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516325&amp;idx=2&amp;sn=feee2d0275a2ec629c827fcf08db2f46&amp;chksm=f9928674cee50f62bde544221a1268dbb9815c13d1c6eb4dd6aabdd29aa564c5fefa98f95a16#rd"/>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[Vue3.2手写贝壳找房App，开源爆火，可直接复用！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516325&amp;idx=1&amp;sn=644832e7e69c92a95a501289d5932e45&amp;chksm=f9928674cee50f62ca93223b12434f3d88268334ab37fc1d511cf5b046ed341bdca8a949f8f0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516325&amp;idx=1&amp;sn=644832e7e69c92a95a501289d5932e45&amp;chksm=f9928674cee50f62ca93223b12434f3d88268334ab37fc1d511cf5b046ed341bdca8a949f8f0#rd"/>
+        <updated>2023-09-12T16:00:00.000Z</updated>
+        <published>2023-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[速度提升30%！Astro 3.0正式发布，第一个支持 View Transitions API 的框架]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522208&amp;idx=1&amp;sn=9fa59ecfcc340e7d6805c62cfa831c5b&amp;chksm=f95222e3ce25abf5609cbf630af3366307abc2cbfbcf479fb3ef6732eaf6c35f41df6e6159f6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522208&amp;idx=1&amp;sn=9fa59ecfcc340e7d6805c62cfa831c5b&amp;chksm=f95222e3ce25abf5609cbf630af3366307abc2cbfbcf479fb3ef6732eaf6c35f41df6e6159f6#rd"/>
         <updated>2023-09-12T16:00:00.000Z</updated>
         <published>2023-09-12T16:00:00.000Z</published>
     </entry>
@@ -60,6 +74,13 @@
         <title type="html"><![CDATA[Tips：form元素reset后input不触发change事件处理]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/"/>
+        <updated>2023-09-11T16:00:00.000Z</updated>
+        <published>2023-09-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 5.3，带来这些小惊喜]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513945&amp;idx=1&amp;sn=d100ae9b5e5a838632927851aa8832ec&amp;chksm=eb078f20dc7006368fb2b8a28a9b38c3ae2fd49533be60c2b356f4a1de29df5adbbf30d6247d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513945&amp;idx=1&amp;sn=d100ae9b5e5a838632927851aa8832ec&amp;chksm=eb078f20dc7006368fb2b8a28a9b38c3ae2fd49533be60c2b356f4a1de29df5adbbf30d6247d#rd"/>
         <updated>2023-09-11T16:00:00.000Z</updated>
         <published>2023-09-11T16:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://javascriptweekly.com/issues/653"/>
         <updated>2023-09-06T16:00:00.000Z</updated>
         <published>2023-09-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开启高效前端规范开发之旅！ESLint + Prettier + husky +Commitizen]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513914&amp;idx=1&amp;sn=584d5ecbd7deac7243be1ab8cdc01d49&amp;chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513914&amp;idx=1&amp;sn=584d5ecbd7deac7243be1ab8cdc01d49&amp;chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd"/>
-        <updated>2023-09-05T16:00:00.000Z</updated>
-        <published>2023-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极致舒适的 Vue3【Provide/Inject】食用指南]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516069&amp;idx=2&amp;sn=d2ab24c7d758b43bb82c887865b61bab&amp;chksm=f992b974cee530623182d295a3b905bbc307cc5b037f365c04542040aaf8e0fd70bed4ed6daa#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516069&amp;idx=2&amp;sn=d2ab24c7d758b43bb82c887865b61bab&amp;chksm=f992b974cee530623182d295a3b905bbc307cc5b037f365c04542040aaf8e0fd70bed4ed6daa#rd"/>
-        <updated>2023-09-05T16:00:00.000Z</updated>
-        <published>2023-09-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Express+Mongodb+Vue实现增删改查-全栈之路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516069&amp;idx=1&amp;sn=a52b6ebcd2f450e079e39ae32dc8125e&amp;chksm=f992b974cee53062eb004e49aa11af37fe76d287b29f7147622209308de5a3d83bfad3820d38#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516069&amp;idx=1&amp;sn=a52b6ebcd2f450e079e39ae32dc8125e&amp;chksm=f992b974cee53062eb004e49aa11af37fe76d287b29f7147622209308de5a3d83bfad3820d38#rd"/>
-        <updated>2023-09-05T16:00:00.000Z</updated>
-        <published>2023-09-05T16:00:00.000Z</published>
     </entry>
 </feed>
