@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-09-08 06:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-15 06:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654) 
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653) 
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652) 
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651) 

@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-14 15:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-15 06:01:16，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654) ![](/assets/new.png)  
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
@@ -92,7 +93,6 @@
 - [2023-05-04-'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)  
 - [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)  
 - [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635)  
-- [2023-04-13-The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -104,7 +104,7 @@
 </summary>
 
 
-- [2023-09-14-【图书】漫画ChatGPT：小灰的AI之旅](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265795&idx=2&sn=c870914515de370c6569fa8996b970cd&chksm=bd48c2878a3f4b91273770cdcb6edd29a2d3310749fb2be70ae8435f19223ef36478dc8043b6#rd) ![](/assets/new.png)  
+- [2023-09-14-【图书】漫画ChatGPT：小灰的AI之旅](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265795&idx=2&sn=c870914515de370c6569fa8996b970cd&chksm=bd48c2878a3f4b91273770cdcb6edd29a2d3310749fb2be70ae8435f19223ef36478dc8043b6#rd)  
 - [2023-09-13-【早说】简单就好,不要把事情想复杂](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265766&idx=2&sn=80bc69a3e79ca4b84e9da1869ff39a7c&chksm=bd48c3628a3f4a74a2cd104538f4016da1c4d536339ec84ea4391c9ac80cd7a18c7bf8ce7eb9#rd)  
 - [2023-09-13-【第3057期】elementFromPoint：获取页面上特定点的元素](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265766&idx=1&sn=3db4c6945b0e3b30816cf36321f615d9&chksm=bd48c3628a3f4a74da749071caaa755f308b4366d09442f3ce65b9258619af537a2a2850ed80#rd)  
 - [2023-09-12-【早说】不断迭代知识体系，持续成长](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265757&idx=2&sn=1bf3a486b3de9563fc38259fe12cd783&chksm=bd48c3598a3f4a4f848b7332479d9bcf540254aad92e001dbc7411c1a0c456253979285a71e9#rd)  
@@ -135,26 +135,26 @@
 </summary>
 
 
-- [2023-09-13-前端最能打的本地存储方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616780&idx=1&sn=03394dec153e9bf6eedc2aed87d99d25&chksm=8022a1cdb75528dbf3ce356c6c0b61d77afb8ba450a135475c0a6c0049c96d43f5c55e89cbde#rd)  
+- [2023-09-14-Vue3-写了-hook-三天，治好了我的组件封装强迫症](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616784&idx=1&sn=709fa9cbbf8111ac4bde0d622165cfce&chksm=8022a1d1b75528c7e98f43b8c49a236314c6a6ef4873b54d782080a5c24f17743046cb09f654#rd) ![](/assets/new.png)  
+- [2023-09-14-Bun发布1.0正式版本，Zig编写的高性能-“全家桶”JavaScript运行时](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616784&idx=2&sn=7c8d213737f81219569af6e2bfe7408a&chksm=8022a1d1b75528c798bfb78dbb15d3d2b228d79ffa217e6f09959d70a1251ffae66c8c9d60de#rd) ![](/assets/new.png)  
 - [2023-09-13-js-从原型链到继承——图解来龙去脉](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616780&idx=2&sn=952dd3f12447a04a5eb0b3b02040e346&chksm=8022a1cdb75528db08308f2575463be0f69021a652cfeab21c99878cc9b0da5c172246f0a6a8#rd)  
-- [2023-09-12-“再见了，TypeScript！”，Ruby-on-Rails-之父-DHH-也因“类型”遭劝退](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616776&idx=1&sn=5ed3fa271af25201def15253b2d80b09&chksm=8022a1c9b75528df222a49d30f53007b24c9d99c3272c889ccdf858410f161c6dd9cddd77812#rd)  
+- [2023-09-13-前端最能打的本地存储方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616780&idx=1&sn=03394dec153e9bf6eedc2aed87d99d25&chksm=8022a1cdb75528dbf3ce356c6c0b61d77afb8ba450a135475c0a6c0049c96d43f5c55e89cbde#rd)  
 - [2023-09-12-「-NodeJs-进阶」超全面的-Node.js-性能优化相关知识梳理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616776&idx=2&sn=0527fcbf3b75e99ff24d9ed89b131b40&chksm=8022a1c9b75528df22ba71eea3534529cfa396ed6ab56ed0dcaf8498d8c9f56513eb50a89e81#rd)  
-- [2023-09-11-又一个前端神器来了！效率提升200%](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616772&idx=1&sn=1e2ffa3ed8f0ead0defa5b16fcd88b63&chksm=8022a1c5b75528d37e1558fa2717e291dbb8d19f548e1ffc56f4a6b94c3148afc622ad1bfd1a#rd)  
+- [2023-09-12-“再见了，TypeScript！”，Ruby-on-Rails-之父-DHH-也因“类型”遭劝退](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616776&idx=1&sn=5ed3fa271af25201def15253b2d80b09&chksm=8022a1c9b75528df222a49d30f53007b24c9d99c3272c889ccdf858410f161c6dd9cddd77812#rd)  
 - [2023-09-11-大文件怎样实现快速上传？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616772&idx=2&sn=215c52b8c93766ddc170f78a7d3c0338&chksm=8022a1c5b75528d33445bc7a1e5346ae8d7726f6ccb12ffbfac31cefada95ce9f64ad32f2bd0#rd)  
-- [2023-09-09-浏览器也拥有了原生的-“时间切片”-能力！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616762&idx=2&sn=67e5cdb14419c0b7350adc95a05f882b&chksm=8022a23bb7552b2d43533256a12baa7b74a9a283c16c5ef0f04decf3394df8f135050a4673b1#rd)  
+- [2023-09-11-又一个前端神器来了！效率提升200%](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616772&idx=1&sn=1e2ffa3ed8f0ead0defa5b16fcd88b63&chksm=8022a1c5b75528d37e1558fa2717e291dbb8d19f548e1ffc56f4a6b94c3148afc622ad1bfd1a#rd)  
 - [2023-09-09-写给-5-年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616762&idx=1&sn=6c9ce58177c0125247a43b003a994d60&chksm=8022a23bb7552b2ddcde24362c8a6c047dc15a6040a5e94bfa9d28d45396208080ef6d527ef2#rd)  
-- [2023-09-08-最近面试好激烈。。。](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616752&idx=1&sn=0eca33605313fa856a8bdf2527512f1f&chksm=8022a231b7552b274eb9603670a6b56ca51128a0de5c29228c22c1764d932465b0326007f9f7#rd)  
+- [2023-09-09-浏览器也拥有了原生的-“时间切片”-能力！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616762&idx=2&sn=67e5cdb14419c0b7350adc95a05f882b&chksm=8022a23bb7552b2d43533256a12baa7b74a9a283c16c5ef0f04decf3394df8f135050a4673b1#rd)  
 - [2023-09-08-这篇手写-Promise-你一定要康康](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616752&idx=2&sn=461c4ce86d76b927690e4881ede3f2d0&chksm=8022a231b7552b2759d86ab1239088e2a553b8797fb4d2ad83e4c18f0ee3e315b851cbf4d55f#rd)  
-- [2023-09-07-如何用一行-CSS-实现-10-种现代布局](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616733&idx=2&sn=cbe17bed69b25f580ba97c5978c495e8&chksm=8022a21cb7552b0a3bd29c89f42d7daf9f1f337cefb377fc4e60e9c5ddfb22a8c71db44d0f58#rd)  
+- [2023-09-08-最近面试好激烈。。。](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616752&idx=1&sn=0eca33605313fa856a8bdf2527512f1f&chksm=8022a231b7552b274eb9603670a6b56ca51128a0de5c29228c22c1764d932465b0326007f9f7#rd)  
 - [2023-09-07-被裁员前，我为公司做的15个前端基建分享~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616733&idx=1&sn=aff2722409a8481d7d9901e25168a19d&chksm=8022a21cb7552b0a1b6d08a6d0d1e5174c2d6aacb4b3ab0f165b713cb7c7dba78ebce5c342e6#rd)  
-- [2023-09-06-如何进阶-TypeScript-功底？一文带你理解-TS-中各种高级语法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616731&idx=2&sn=8413df491dd43ff9c3a6e9985cf114bf&chksm=8022a21ab7552b0c88377695b6dadb0041bdd2d17d17df38aa47b72d832f0edf44e63df5968b#rd)  
+- [2023-09-07-如何用一行-CSS-实现-10-种现代布局](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616733&idx=2&sn=cbe17bed69b25f580ba97c5978c495e8&chksm=8022a21cb7552b0a3bd29c89f42d7daf9f1f337cefb377fc4e60e9c5ddfb22a8c71db44d0f58#rd)  
 - [2023-09-06-禁止别人调试自己的前端页面代码](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616731&idx=1&sn=80a64070e774a2f198f81599dc85f459&chksm=8022a21ab7552b0c9294d774fc982f5365e7c3c592774eda61336d89e39aad7915f0179c9e04#rd)  
-- [2023-09-05-前端程序员终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=1&sn=9bda841fdfddf92e29543a59bd12425f&chksm=8022a211b7552b07dc5034908063ffa17795b3a2c9c4638870bdf8a352539e241c0dfcbf59d5#rd)  
+- [2023-09-06-如何进阶-TypeScript-功底？一文带你理解-TS-中各种高级语法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616731&idx=2&sn=8413df491dd43ff9c3a6e9985cf114bf&chksm=8022a21ab7552b0c88377695b6dadb0041bdd2d17d17df38aa47b72d832f0edf44e63df5968b#rd)  
 - [2023-09-05-这几个高级前端常用的-API，你用到了吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=2&sn=4b985cc43426b608745d046eff10f8b8&chksm=8022a211b7552b07365565145522433ef30e1abf1e348c3d5d2c310316a1f8c46ddb90e61c32#rd)  
-- [2023-09-04-Async-是如何被-JavaScript-实现的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=2&sn=3ea8760a2dd52a584f32270d56a77286&chksm=8022a20db7552b1b0e74ffdcfd01cd2aea767096f2dfc1eca8de03ee9a42cf5677993bff28b8#rd)  
+- [2023-09-05-前端程序员终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616720&idx=1&sn=9bda841fdfddf92e29543a59bd12425f&chksm=8022a211b7552b07dc5034908063ffa17795b3a2c9c4638870bdf8a352539e241c0dfcbf59d5#rd)  
 - [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=1&sn=6cc65280a5afcde6823b14a2fa4fe792&chksm=8022a20db7552b1b96ca676165f5b0221d9cec98689f77f8319ae943bd8f13ebdf982624ca17#rd)  
-- [2023-09-02-Vue3+Pinia+Koa+Three.js-全栈电商项目总结复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=1&sn=e5b812c4a490b8dd02b3cbb8ae3f1853&chksm=8022a27bb7552b6df77ecc38a0db72583fa4fadc5dd2daaa63d4c3badac18271da9d52554787#rd)  
-- [2023-09-02-一文彻底搞懂前端实现文件预览（word、excel、pdf、ppt、mp4、图片、文本）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616698&idx=2&sn=ba6eb8cb443f969d321dce9c2466d2a9&chksm=8022a27bb7552b6d94847d28b16d15890b2309006d897d5bc0d44ad65184ce958d850130c408#rd)  
+- [2023-09-04-Async-是如何被-JavaScript-实现的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616716&idx=2&sn=3ea8760a2dd52a584f32270d56a77286&chksm=8022a20db7552b1b0e74ffdcfd01cd2aea767096f2dfc1eca8de03ee9a42cf5677993bff28b8#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
