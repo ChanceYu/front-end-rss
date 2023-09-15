@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-15 18:00:47，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-16 06:00:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-09-15-阿里大佬整理的-Vue3-全套面试笔记-PDF，真香！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616820&idx=1&sn=b2cd16420bfda0f39f5cfdcc0cb24680&chksm=8022a1f5b75528e37500726a664e44211022e51f9cf82d8eaad46c991e0157f8e8bce91ed51c#rd) ![](/assets/new.png)  
-- [2023-09-15-TypeScript-终极初学者指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616820&idx=2&sn=035155b53a042a8725497a9cb792c865&chksm=8022a1f5b75528e3f3582af74976a50d899bb0de6775aebd7d1039c46406bbd3de1709a3ad6c#rd) ![](/assets/new.png)  
+- [2023-09-15-阿里大佬整理的-Vue3-全套面试笔记-PDF，真香！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616820&idx=1&sn=b2cd16420bfda0f39f5cfdcc0cb24680&chksm=8022a1f5b75528e37500726a664e44211022e51f9cf82d8eaad46c991e0157f8e8bce91ed51c#rd)  
+- [2023-09-15-TypeScript-终极初学者指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616820&idx=2&sn=035155b53a042a8725497a9cb792c865&chksm=8022a1f5b75528e3f3582af74976a50d899bb0de6775aebd7d1039c46406bbd3de1709a3ad6c#rd)  
 - [2023-09-14-Bun发布1.0正式版本，Zig编写的高性能-“全家桶”JavaScript运行时](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616784&idx=2&sn=7c8d213737f81219569af6e2bfe7408a&chksm=8022a1d1b75528c798bfb78dbb15d3d2b228d79ffa217e6f09959d70a1251ffae66c8c9d60de#rd)  
 - [2023-09-14-Vue3-写了-hook-三天，治好了我的组件封装强迫症](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616784&idx=1&sn=709fa9cbbf8111ac4bde0d622165cfce&chksm=8022a1d1b75528c7e98f43b8c49a236314c6a6ef4873b54d782080a5c24f17743046cb09f654#rd)  
 - [2023-09-13-前端最能打的本地存储方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616780&idx=1&sn=03394dec153e9bf6eedc2aed87d99d25&chksm=8022a1cdb75528dbf3ce356c6c0b61d77afb8ba450a135475c0a6c0049c96d43f5c55e89cbde#rd)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-09-15-这些天，我们前端组一起处理的项目优化点](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=1&sn=1b89b54ffe5f25860fce8e1e2af1251b&chksm=f9928663cee50f7593fe8d95fbecf1fedea23488b9dfed66632ce70fb4159c5d504c509b4dd6#rd) ![](/assets/new.png)  
-- [2023-09-15-腾讯QQ-桌面版的内存优化探索与总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=2&sn=a201247bed3646cddf92d6376a83544f&chksm=f9928663cee50f75ea5138d5985bde09d541d29f9a273d1c823ef99ae6e94f5645f11fef082d#rd) ![](/assets/new.png)  
+- [2023-09-15-这些天，我们前端组一起处理的项目优化点](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=1&sn=1b89b54ffe5f25860fce8e1e2af1251b&chksm=f9928663cee50f7593fe8d95fbecf1fedea23488b9dfed66632ce70fb4159c5d504c509b4dd6#rd)  
+- [2023-09-15-腾讯QQ-桌面版的内存优化探索与总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=2&sn=a201247bed3646cddf92d6376a83544f&chksm=f9928663cee50f75ea5138d5985bde09d541d29f9a273d1c823ef99ae6e94f5645f11fef082d#rd)  
 - [2023-09-14-9个你会喜欢的-JavaScript-菜单实现方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516330&idx=2&sn=5c66811502825b05d44c529b705430c1&chksm=f992867bcee50f6d2b669b7ad8a43313a68309ac414a3992c954b8623a107deffc9c13f3511f#rd)  
 - [2023-09-14-原子CSS引擎——unocss](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516330&idx=1&sn=9f3036a0b6bfd18d17a21ce93d73406d&chksm=f992867bcee50f6d81dbb692e203cd624da55a2efcf25ff25762d86c5ee35fa3216d91d8d383#rd)  
 - [2023-09-13-Vue3.2手写贝壳找房App，开源爆火，可直接复用！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516325&idx=1&sn=644832e7e69c92a95a501289d5932e45&chksm=f9928674cee50f62ca93223b12434f3d88268334ab37fc1d511cf5b046ed341bdca8a949f8f0#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/) ![](/assets/new.png)  
 - [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  
 - [2023-08-30-一言难尽的registerProtocolHandler方法](https://www.zhangxinxu.com/wordpress/2023/08/js-registerprotocolhandler/)  
@@ -525,7 +526,6 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-好奇心驱使下试验了chatGPT写CSS代码的能力](https://www.zhangxinxu.com/wordpress/2023/03/chatgpt-write-css/)  
 - [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
