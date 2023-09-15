@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-15 08:00:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-15 10:00:52，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-09-15-【第3059期】浅尝IM方案在H5活动场景中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265816&idx=1&sn=dcae2a021b844eaebd93fa681bf27fe7&chksm=bd48c29c8a3f4b8a5513ad6c52ba3f02b33786f9a1d29cbb0f44a9a25621a17e2f16a8b58bcb#rd) ![](/assets/new.png)  
-- [2023-09-15-【早说】开发者的触角要长,用户痛点永无止境](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265816&idx=2&sn=f8e1ce0dbffa0055827417d3758c2d44&chksm=bd48c29c8a3f4b8a6e3581b6acd33bb78726f0fe5a27ab4a75120b3eb2a1b64db54e24045499#rd) ![](/assets/new.png)  
+- [2023-09-15-【第3059期】浅尝IM方案在H5活动场景中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265816&idx=1&sn=dcae2a021b844eaebd93fa681bf27fe7&chksm=bd48c29c8a3f4b8a5513ad6c52ba3f02b33786f9a1d29cbb0f44a9a25621a17e2f16a8b58bcb#rd)  
+- [2023-09-15-【早说】开发者的触角要长,用户痛点永无止境](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265816&idx=2&sn=f8e1ce0dbffa0055827417d3758c2d44&chksm=bd48c29c8a3f4b8a6e3581b6acd33bb78726f0fe5a27ab4a75120b3eb2a1b64db54e24045499#rd)  
 - [2023-09-14-【图书】漫画ChatGPT：小灰的AI之旅](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265795&idx=2&sn=c870914515de370c6569fa8996b970cd&chksm=bd48c2878a3f4b91273770cdcb6edd29a2d3310749fb2be70ae8435f19223ef36478dc8043b6#rd)  
 - [2023-09-13-【第3057期】elementFromPoint：获取页面上特定点的元素](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265766&idx=1&sn=3db4c6945b0e3b30816cf36321f615d9&chksm=bd48c3628a3f4a74da749071caaa755f308b4366d09442f3ce65b9258619af537a2a2850ed80#rd)  
 - [2023-09-13-【早说】简单就好,不要把事情想复杂](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265766&idx=2&sn=80bc69a3e79ca4b84e9da1869ff39a7c&chksm=bd48c3628a3f4a74a2cd104538f4016da1c4d536339ec84ea4391c9ac80cd7a18c7bf8ce7eb9#rd)  
@@ -414,6 +414,8 @@
 </summary>
 
 
+- [2023-09-15-React-4-年老手！总结企业级应用玩法，文件架构、原则、样式、状态管理、国际化……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513972&idx=1&sn=1a3721bdc61b424b7f46d85229386031&chksm=eb078f0ddc70061b15c79c998c9c95ba0fb2940336e93dd2c9d97a41e2b98731c0880c358f16#rd) ![](/assets/new.png)  
+- [2023-09-14-G6-5.0-Beta-闪亮登场-🥳](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513971&idx=1&sn=04751d08741dc1a9ba3b5efcbcd63943&chksm=eb078f0adc70061c288e882f424e055a0cf4938fea8fa19ecbeedc4203d33b8a0386f20e29c5#rd) ![](/assets/new.png)  
 - [2023-09-13-粉丝妹子分享给我的前端面试卡bug神器。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513967&idx=1&sn=a72fa40f0c3116a257d82395941742dc&chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd)  
 - [2023-09-12-TypeScript-5.3，带来这些小惊喜](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513945&idx=1&sn=d100ae9b5e5a838632927851aa8832ec&chksm=eb078f20dc7006368fb2b8a28a9b38c3ae2fd49533be60c2b356f4a1de29df5adbbf30d6247d#rd)  
 - [2023-09-11-2行代码让JS加载耗时减少67%-|-文末福利](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513936&idx=1&sn=7293c9a1f95631a647ef910000ba188a&chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd)  
@@ -425,15 +427,13 @@
 - [2023-09-01-十多年程序员差点被骗十多万](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513882&idx=1&sn=a721291d4c6aa94b009626023e1b2380&chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd)  
 - [2023-08-31-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513879&idx=1&sn=916cfdb2b0946778a17a5b4347fb1583&chksm=eb078f6edc7006787cefbcd2cd01f794cb2ee7da518d296b6886b07a953b4f9062c8eb140ddd#rd)  
 - [2023-08-28-前端首屏优化-|-借助客户端能力提升-H5-首屏的-8-个手段](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513844&idx=1&sn=4e6e5e3f1fea79c3c8f2b69446dbd5eb&chksm=eb078e8ddc70079b1054a379849f78e49ffd49c15f62a5c9c60e88a7d99a32ae304d11000433#rd)  
-- [2023-08-27-今年这情况......我劝大家还是多留一手准备吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=1&sn=17f77c64372d6f43d23b0e9fdbd47342&chksm=eb078e96dc70078013f9ca2a7f5376c7d15664e2e4b5c2456cfb42b5c717b6d65522b2c53eee#rd)  
 - [2023-08-27-一个-Github-Star-值多少钱？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=2&sn=44977e1d7885409d9dee031942e811c5&chksm=eb078e96dc70078065e0eef70ef67588bde4bca66ffb8f38f5ad556ea7445982fcdeb429dc57#rd)  
+- [2023-08-27-今年这情况......我劝大家还是多留一手准备吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=1&sn=17f77c64372d6f43d23b0e9fdbd47342&chksm=eb078e96dc70078013f9ca2a7f5376c7d15664e2e4b5c2456cfb42b5c717b6d65522b2c53eee#rd)  
 - [2023-08-25-3个优秀的-Vue-开源项目，每个前端人都应该看看](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513539&idx=1&sn=8d6e0565827a93f21bf8c7065cb2bd7b&chksm=eb078dbadc7004acb09e9060f4cb6f87e1b19ada946dbdacc92ff0b58d057b2a582e50720fea#rd)  
 - [2023-08-24-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513523&idx=1&sn=c18fbb404d44cf61249ea438395fece5&chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd)  
 - [2023-08-22-2017---2023-的JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513518&idx=1&sn=3c1624839858cc808eccf22027c28605&chksm=eb078dd7dc7004c101dc11881e1a77ddc376cbe0529953f659619f40f05b88ccca55c038a1e4#rd)  
 - [2023-08-21-离谱！金九银十已开始？面了10次的试水报告。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513512&idx=1&sn=38610f68e9e0436a4742ca24e6cfb786&chksm=eb078dd1dc7004c77502edb4b28aa5a2b0b3559c18097fc35aa3361cfea4a89d96ae2251dcd3#rd)  
 - [2023-08-20-28-岁退休的字节跳动程序员郭宇，现在过的怎么样了？谈谈投资、生活、财富自由、苦恼](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513495&idx=1&sn=b555d37988ea5c02a7d6c8591e40f7cf&chksm=eb078deedc7004f839273169a71d4f3379933dee1a0ebd49960d585b067099c2dffa7c7bd6b9#rd)  
-- [2023-08-19-我是一个垃圾程序员，这是我的人生](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513488&idx=1&sn=1722da1f7004c14be4544994350553c0&chksm=eb078de9dc7004ff1503986f1c55136b4c80531c684d1ed157e80c4c597222704adb484b2595#rd)  
-- [2023-08-18-现代-React-开发必备的-13-个神库，路由、UI-组件库、拖拽、虚拟列表都齐了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513470&idx=1&sn=764eea76048a9c5635abfbed8141a3b0&chksm=eb078d07dc7004116b33d3b07cdab020df3da525db0db82e2f36f01ee49e363a1eafbdd6fb18#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html) ![](/assets/new.png)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
@@ -557,7 +558,6 @@
 - [2023-05-19-科技爱好者周刊（第-255-期）：对待-AI-的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)  
 - [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)  
 - [2023-05-05-科技爱好者周刊（第-253-期）：训练材料用完之日](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-253.html)  
-- [2023-04-28-科技爱好者周刊（第-252-期）：互联网创业变难了](http://www.ruanyifeng.com/blog/2023/04/weekly-issue-252.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

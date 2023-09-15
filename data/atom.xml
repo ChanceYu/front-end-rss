@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-15T00:00:47.840Z</updated>
+    <updated>2023-09-15T02:00:53.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 271 期）：非线性的世界，线性的你]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html"/>
+        <updated>2023-09-14T16:00:00.000Z</updated>
+        <published>2023-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 4 年老手！总结企业级应用玩法，文件架构、原则、样式、状态管理、国际化……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513972&amp;idx=1&amp;sn=1a3721bdc61b424b7f46d85229386031&amp;chksm=eb078f0ddc70061b15c79c998c9c95ba0fb2940336e93dd2c9d97a41e2b98731c0880c358f16#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513972&amp;idx=1&amp;sn=1a3721bdc61b424b7f46d85229386031&amp;chksm=eb078f0ddc70061b15c79c998c9c95ba0fb2940336e93dd2c9d97a41e2b98731c0880c358f16#rd"/>
+        <updated>2023-09-14T16:00:00.000Z</updated>
+        <published>2023-09-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】开发者的触角要长,用户痛点永无止境]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265816&amp;idx=2&amp;sn=f8e1ce0dbffa0055827417d3758c2d44&amp;chksm=bd48c29c8a3f4b8a6e3581b6acd33bb78726f0fe5a27ab4a75120b3eb2a1b64db54e24045499#rd</id>
@@ -27,6 +41,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265816&amp;idx=1&amp;sn=dcae2a021b844eaebd93fa681bf27fe7&amp;chksm=bd48c29c8a3f4b8a5513ad6c52ba3f02b33786f9a1d29cbb0f44a9a25621a17e2f16a8b58bcb#rd"/>
         <updated>2023-09-14T16:00:00.000Z</updated>
         <published>2023-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G6 5.0-Beta 闪亮登场 🥳]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513971&amp;idx=1&amp;sn=04751d08741dc1a9ba3b5efcbcd63943&amp;chksm=eb078f0adc70061c288e882f424e055a0cf4938fea8fa19ecbeedc4203d33b8a0386f20e29c5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513971&amp;idx=1&amp;sn=04751d08741dc1a9ba3b5efcbcd63943&amp;chksm=eb078f0adc70061c288e882f424e055a0cf4938fea8fa19ecbeedc4203d33b8a0386f20e29c5#rd"/>
+        <updated>2023-09-13T16:00:00.000Z</updated>
+        <published>2023-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[9个你会喜欢的 JavaScript 菜单实现方案]]></title>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[前端遗留技术与现代功能的对抗，邮件开发注定是件苦差事]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522171&amp;idx=1&amp;sn=de9b86695e2fa3e7fd8e9e731d17f7d2&amp;chksm=f9522238ce25ab2e3ec51736cc59c46c7776a272bad7ffda26a107e6203cb8c834fcf7eb6470#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522171&amp;idx=1&amp;sn=de9b86695e2fa3e7fd8e9e731d17f7d2&amp;chksm=f9522238ce25ab2e3ec51736cc59c46c7776a272bad7ffda26a107e6203cb8c834fcf7eb6470#rd"/>
-        <updated>2023-09-07T16:00:00.000Z</updated>
-        <published>2023-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近面试好激烈。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616752&amp;idx=1&amp;sn=0eca33605313fa856a8bdf2527512f1f&amp;chksm=8022a231b7552b274eb9603670a6b56ca51128a0de5c29228c22c1764d932465b0326007f9f7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616752&amp;idx=1&amp;sn=0eca33605313fa856a8bdf2527512f1f&amp;chksm=8022a231b7552b274eb9603670a6b56ca51128a0de5c29228c22c1764d932465b0326007f9f7#rd"/>
-        <updated>2023-09-07T16:00:00.000Z</updated>
-        <published>2023-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这篇手写 Promise 你一定要康康]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616752&amp;idx=2&amp;sn=461c4ce86d76b927690e4881ede3f2d0&amp;chksm=8022a231b7552b2759d86ab1239088e2a553b8797fb4d2ad83e4c18f0ee3e315b851cbf4d55f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616752&amp;idx=2&amp;sn=461c4ce86d76b927690e4881ede3f2d0&amp;chksm=8022a231b7552b2759d86ab1239088e2a553b8797fb4d2ad83e4c18f0ee3e315b851cbf4d55f#rd"/>
-        <updated>2023-09-07T16:00:00.000Z</updated>
-        <published>2023-09-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3052期】微盟WEB端设计系统KleinDesign上线]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265689&amp;idx=1&amp;sn=c8d996363100e0fd01ab468b2e908688&amp;chksm=bd48c31d8a3f4a0bbf13584ede1220a3b4a0b01f383e922392ff472fa1ca95f36ee76b9b7298#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265689&amp;idx=1&amp;sn=c8d996363100e0fd01ab468b2e908688&amp;chksm=bd48c31d8a3f4a0bbf13584ede1220a3b4a0b01f383e922392ff472fa1ca95f36ee76b9b7298#rd"/>
         <updated>2023-09-07T16:00:00.000Z</updated>
         <published>2023-09-07T16:00:00.000Z</published>
     </entry>
