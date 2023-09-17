@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-17 15:01:57，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-17 18:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-09-17-【第3061期】新一代-Web-预渲染技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265900&idx=1&sn=c4b9bbe03ea1beeef282994a87db08cc&chksm=bd48c2e88a3f4bfed2737ec4574a8a6e84a08dafeb6c2c248ad45327ab63d65b398e6709d0b3#rd) ![](/assets/new.png)  
-- [2023-09-17-【早说】寻找生命意义,远离空虚与抑郁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265900&idx=2&sn=52ff7c31a316a72b1a0a0a1b3713163d&chksm=bd48c2e88a3f4bfef10dac936dcf2139b3c7cb04fef80035825d696100ad4784eb9f77c4c31f#rd) ![](/assets/new.png)  
+- [2023-09-17-【第3061期】新一代-Web-预渲染技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265900&idx=1&sn=c4b9bbe03ea1beeef282994a87db08cc&chksm=bd48c2e88a3f4bfed2737ec4574a8a6e84a08dafeb6c2c248ad45327ab63d65b398e6709d0b3#rd)  
+- [2023-09-17-【早说】寻找生命意义,远离空虚与抑郁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265900&idx=2&sn=52ff7c31a316a72b1a0a0a1b3713163d&chksm=bd48c2e88a3f4bfef10dac936dcf2139b3c7cb04fef80035825d696100ad4784eb9f77c4c31f#rd)  
 - [2023-09-16-【早说】工作倦怠,一个不可忽视的职场警示灯](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265893&idx=2&sn=74fa5407948b7a25097979282b5e70ad&chksm=bd48c2e18a3f4bf739997da9cd04c50be600a7d97fc6fa9dfd3c14df44456a657be2173bd6a9#rd)  
 - [2023-09-16-【第3060期】图解-60-个-CSS-选择器](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265893&idx=1&sn=c664b580d51bc7efac26c64e94212619&chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd)  
 - [2023-09-15-【第3059期】浅尝IM方案在H5活动场景中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265816&idx=1&sn=dcae2a021b844eaebd93fa681bf27fe7&chksm=bd48c29c8a3f4b8a5513ad6c52ba3f02b33786f9a1d29cbb0f44a9a25621a17e2f16a8b58bcb#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/) ![](/assets/new.png)  
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  
 - [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  
@@ -526,7 +527,6 @@
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
 - [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
-- [2023-03-17-瞎折腾，使用JS让中文内容莫名其妙、狗屁不通](https://www.zhangxinxu.com/wordpress/2023/03/js-disorder-chinese/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

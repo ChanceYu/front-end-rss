@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-17T07:01:58.598Z</updated>
+    <updated>2023-09-17T10:00:58.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[又get到了，JS复制图片到剪切板]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/"/>
+        <updated>2023-09-16T16:00:00.000Z</updated>
+        <published>2023-09-16T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】寻找生命意义,远离空虚与抑郁]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265900&amp;idx=2&amp;sn=52ff7c31a316a72b1a0a0a1b3713163d&amp;chksm=bd48c2e88a3f4bfef10dac936dcf2139b3c7cb04fef80035825d696100ad4784eb9f77c4c31f#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React 还是 Vue？我对 Web 前端现状的看法]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516116&amp;idx=2&amp;sn=00081aaca6d64ecc996873d398eb0f49&amp;chksm=f992b905cee53013f91085c063854f3302dad9659bc261942c68b17179d03c58c19c8e15abcf#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516116&amp;idx=2&amp;sn=00081aaca6d64ecc996873d398eb0f49&amp;chksm=f992b905cee53013f91085c063854f3302dad9659bc261942c68b17179d03c58c19c8e15abcf#rd"/>
-        <updated>2023-09-09T16:00:00.000Z</updated>
-        <published>2023-09-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大厂为啥都要用Node去写中间层(BFF)呢？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516116&amp;idx=1&amp;sn=83b8de1a8ec12f55dea6c980a43f9d92&amp;chksm=f992b905cee53013f5fe6966519d0775da802d651549bd654b94b2be4f72d66c13cd6a19b5cf#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516116&amp;idx=1&amp;sn=83b8de1a8ec12f55dea6c980a43f9d92&amp;chksm=f992b905cee53013f5fe6966519d0775da802d651549bd654b94b2be4f72d66c13cd6a19b5cf#rd"/>
         <updated>2023-09-09T16:00:00.000Z</updated>
         <published>2023-09-09T16:00:00.000Z</published>
     </entry>
