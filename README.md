@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-17 18:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-18 21:00:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,10 +26,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -414,6 +414,8 @@
 </summary>
 
 
+- [2023-09-18-复盘前端岗位现状之后-，有点想开了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514071&idx=1&sn=9a4caee92f6773bb06d420484127dcf2&chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd) ![](/assets/new.png)  
+- [2023-09-16-被裁员半年了，谈谈感想](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513976&idx=1&sn=26a8734766432dd88697ae507ec86b6f&chksm=eb078f01dc70061766ec02c1ab3b762b64542932e475fac67685aaa643ce4fcd50525ca72327#rd) ![](/assets/new.png)  
 - [2023-09-15-React-4-年老手！总结企业级应用玩法，文件架构、原则、样式、状态管理、国际化……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513972&idx=1&sn=1a3721bdc61b424b7f46d85229386031&chksm=eb078f0ddc70061b15c79c998c9c95ba0fb2940336e93dd2c9d97a41e2b98731c0880c358f16#rd)  
 - [2023-09-14-G6-5.0-Beta-闪亮登场-🥳](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513971&idx=1&sn=04751d08741dc1a9ba3b5efcbcd63943&chksm=eb078f0adc70061c288e882f424e055a0cf4938fea8fa19ecbeedc4203d33b8a0386f20e29c5#rd)  
 - [2023-09-13-粉丝妹子分享给我的前端面试卡bug神器。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513967&idx=1&sn=a72fa40f0c3116a257d82395941742dc&chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd)  
@@ -427,13 +429,11 @@
 - [2023-09-01-十多年程序员差点被骗十多万](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513882&idx=1&sn=a721291d4c6aa94b009626023e1b2380&chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd)  
 - [2023-08-31-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513879&idx=1&sn=916cfdb2b0946778a17a5b4347fb1583&chksm=eb078f6edc7006787cefbcd2cd01f794cb2ee7da518d296b6886b07a953b4f9062c8eb140ddd#rd)  
 - [2023-08-28-前端首屏优化-|-借助客户端能力提升-H5-首屏的-8-个手段](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513844&idx=1&sn=4e6e5e3f1fea79c3c8f2b69446dbd5eb&chksm=eb078e8ddc70079b1054a379849f78e49ffd49c15f62a5c9c60e88a7d99a32ae304d11000433#rd)  
-- [2023-08-27-一个-Github-Star-值多少钱？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=2&sn=44977e1d7885409d9dee031942e811c5&chksm=eb078e96dc70078065e0eef70ef67588bde4bca66ffb8f38f5ad556ea7445982fcdeb429dc57#rd)  
 - [2023-08-27-今年这情况......我劝大家还是多留一手准备吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=1&sn=17f77c64372d6f43d23b0e9fdbd47342&chksm=eb078e96dc70078013f9ca2a7f5376c7d15664e2e4b5c2456cfb42b5c717b6d65522b2c53eee#rd)  
+- [2023-08-27-一个-Github-Star-值多少钱？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513839&idx=2&sn=44977e1d7885409d9dee031942e811c5&chksm=eb078e96dc70078065e0eef70ef67588bde4bca66ffb8f38f5ad556ea7445982fcdeb429dc57#rd)  
 - [2023-08-25-3个优秀的-Vue-开源项目，每个前端人都应该看看](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513539&idx=1&sn=8d6e0565827a93f21bf8c7065cb2bd7b&chksm=eb078dbadc7004acb09e9060f4cb6f87e1b19ada946dbdacc92ff0b58d057b2a582e50720fea#rd)  
 - [2023-08-24-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513523&idx=1&sn=c18fbb404d44cf61249ea438395fece5&chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd)  
 - [2023-08-22-2017---2023-的JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513518&idx=1&sn=3c1624839858cc808eccf22027c28605&chksm=eb078dd7dc7004c101dc11881e1a77ddc376cbe0529953f659619f40f05b88ccca55c038a1e4#rd)  
-- [2023-08-21-离谱！金九银十已开始？面了10次的试水报告。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513512&idx=1&sn=38610f68e9e0436a4742ca24e6cfb786&chksm=eb078dd1dc7004c77502edb4b28aa5a2b0b3559c18097fc35aa3361cfea4a89d96ae2251dcd3#rd)  
-- [2023-08-20-28-岁退休的字节跳动程序员郭宇，现在过的怎么样了？谈谈投资、生活、财富自由、苦恼](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513495&idx=1&sn=b555d37988ea5c02a7d6c8591e40f7cf&chksm=eb078deedc7004f839273169a71d4f3379933dee1a0ebd49960d585b067099c2dffa7c7bd6b9#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -507,7 +507,7 @@
 </summary>
 
 
-- [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/) ![](/assets/new.png)  
+- [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)  
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  
 - [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  

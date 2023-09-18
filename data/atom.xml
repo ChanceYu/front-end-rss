@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-17T10:00:58.062Z</updated>
+    <updated>2023-09-18T13:00:53.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd"/>
+        <updated>2023-09-17T16:00:00.000Z</updated>
+        <published>2023-09-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[又get到了，JS复制图片到剪切板]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/</id>
@@ -34,6 +41,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265900&amp;idx=1&amp;sn=c4b9bbe03ea1beeef282994a87db08cc&amp;chksm=bd48c2e88a3f4bfed2737ec4574a8a6e84a08dafeb6c2c248ad45327ab63d65b398e6709d0b3#rd"/>
         <updated>2023-09-16T16:00:00.000Z</updated>
         <published>2023-09-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被裁员半年了，谈谈感想]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513976&amp;idx=1&amp;sn=26a8734766432dd88697ae507ec86b6f&amp;chksm=eb078f01dc70061766ec02c1ab3b762b64542932e475fac67685aaa643ce4fcd50525ca72327#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513976&amp;idx=1&amp;sn=26a8734766432dd88697ae507ec86b6f&amp;chksm=eb078f01dc70061766ec02c1ab3b762b64542932e475fac67685aaa643ce4fcd50525ca72327#rd"/>
+        <updated>2023-09-15T16:00:00.000Z</updated>
+        <published>2023-09-15T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个前端非侵入式骨架屏自动生成方案]]></title>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=1&amp;sn=1e2ffa3ed8f0ead0defa5b16fcd88b63&amp;chksm=8022a1c5b75528d37e1558fa2717e291dbb8d19f548e1ffc56f4a6b94c3148afc622ad1bfd1a#rd"/>
         <updated>2023-09-10T16:00:00.000Z</updated>
         <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3055期】JS也能做图像处理 - 会员卡主题色提取的方案解析]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265749&amp;idx=1&amp;sn=2263fe0a120a15ed2d6b80cbcb158c28&amp;chksm=bd48c3518a3f4a47fdf062f2041cfce8c3be04a792ddfeadc5391963dfd769dee38d2d2e56a0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265749&amp;idx=1&amp;sn=2263fe0a120a15ed2d6b80cbcb158c28&amp;chksm=bd48c3518a3f4a47fdf062f2041cfce8c3be04a792ddfeadc5391963dfd769dee38d2d2e56a0#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 还是 Vue？我对 Web 前端现状的看法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516116&amp;idx=2&amp;sn=00081aaca6d64ecc996873d398eb0f49&amp;chksm=f992b905cee53013f91085c063854f3302dad9659bc261942c68b17179d03c58c19c8e15abcf#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516116&amp;idx=2&amp;sn=00081aaca6d64ecc996873d398eb0f49&amp;chksm=f992b905cee53013f91085c063854f3302dad9659bc261942c68b17179d03c58c19c8e15abcf#rd"/>
-        <updated>2023-09-09T16:00:00.000Z</updated>
-        <published>2023-09-09T16:00:00.000Z</published>
     </entry>
 </feed>
