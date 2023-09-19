@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-18 21:00:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-19 23:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502) ![](/assets/new.png)  
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
 - [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500)  
 - [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499)  
@@ -61,7 +62,6 @@
 - [2023-05-09-Getting-recursive-with-Node-20.1](https://nodeweekly.com/issues/485)  
 - [2023-05-02-Running-Node.js-on-the-iPad?](https://nodeweekly.com/issues/484)  
 - [2023-04-25-Performance-with-Rust-y-Node-addons](https://nodeweekly.com/issues/483)  
-- [2023-04-18-Node-v20-released](https://nodeweekly.com/issues/482)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,8 +414,8 @@
 </summary>
 
 
-- [2023-09-18-复盘前端岗位现状之后-，有点想开了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514071&idx=1&sn=9a4caee92f6773bb06d420484127dcf2&chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd) ![](/assets/new.png)  
-- [2023-09-16-被裁员半年了，谈谈感想](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513976&idx=1&sn=26a8734766432dd88697ae507ec86b6f&chksm=eb078f01dc70061766ec02c1ab3b762b64542932e475fac67685aaa643ce4fcd50525ca72327#rd) ![](/assets/new.png)  
+- [2023-09-18-复盘前端岗位现状之后-，有点想开了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514071&idx=1&sn=9a4caee92f6773bb06d420484127dcf2&chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd)  
+- [2023-09-16-被裁员半年了，谈谈感想](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513976&idx=1&sn=26a8734766432dd88697ae507ec86b6f&chksm=eb078f01dc70061766ec02c1ab3b762b64542932e475fac67685aaa643ce4fcd50525ca72327#rd)  
 - [2023-09-15-React-4-年老手！总结企业级应用玩法，文件架构、原则、样式、状态管理、国际化……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513972&idx=1&sn=1a3721bdc61b424b7f46d85229386031&chksm=eb078f0ddc70061b15c79c998c9c95ba0fb2940336e93dd2c9d97a41e2b98731c0880c358f16#rd)  
 - [2023-09-14-G6-5.0-Beta-闪亮登场-🥳](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513971&idx=1&sn=04751d08741dc1a9ba3b5efcbcd63943&chksm=eb078f0adc70061c288e882f424e055a0cf4938fea8fa19ecbeedc4203d33b8a0386f20e29c5#rd)  
 - [2023-09-13-粉丝妹子分享给我的前端面试卡bug神器。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513967&idx=1&sn=a72fa40f0c3116a257d82395941742dc&chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd)  

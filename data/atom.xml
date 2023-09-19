@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-18T13:00:53.873Z</updated>
+    <updated>2023-09-19T15:00:45.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Does Node need a mascot of its own?]]></title>
+        <id>https://nodeweekly.com/issues/502</id>
+        <link href="https://nodeweekly.com/issues/502"/>
+        <updated>2023-09-18T16:00:00.000Z</updated>
+        <published>2023-09-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[大文件怎样实现快速上传？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=2&amp;sn=215c52b8c93766ddc170f78a7d3c0338&amp;chksm=8022a1c5b75528d33445bc7a1e5346ae8d7726f6ccb12ffbfac31cefada95ce9f64ad32f2bd0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=2&amp;sn=215c52b8c93766ddc170f78a7d3c0338&amp;chksm=8022a1c5b75528d33445bc7a1e5346ae8d7726f6ccb12ffbfac31cefada95ce9f64ad32f2bd0#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[又一个前端神器来了！效率提升200%]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=1&amp;sn=1e2ffa3ed8f0ead0defa5b16fcd88b63&amp;chksm=8022a1c5b75528d37e1558fa2717e291dbb8d19f548e1ffc56f4a6b94c3148afc622ad1bfd1a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=1&amp;sn=1e2ffa3ed8f0ead0defa5b16fcd88b63&amp;chksm=8022a1c5b75528d37e1558fa2717e291dbb8d19f548e1ffc56f4a6b94c3148afc622ad1bfd1a#rd"/>
         <updated>2023-09-10T16:00:00.000Z</updated>
         <published>2023-09-10T16:00:00.000Z</published>
     </entry>
