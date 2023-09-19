@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-19T15:00:45.800Z</updated>
+    <updated>2023-09-19T22:00:44.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Next.js，到底为什么这样对我？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514078&amp;idx=1&amp;sn=12acb16da3f4ef5591f422bd3dea3710&amp;chksm=eb078fa7dc7006b1e71d3f35cceed4f3fc9721952b11428338060e634f204213bb860db737bc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514078&amp;idx=1&amp;sn=12acb16da3f4ef5591f422bd3dea3710&amp;chksm=eb078fa7dc7006b1e71d3f35cceed4f3fc9721952b11428338060e634f204213bb860db737bc#rd"/>
+        <updated>2023-09-18T16:00:00.000Z</updated>
+        <published>2023-09-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does Node need a mascot of its own?]]></title>
         <id>https://nodeweekly.com/issues/502</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Ruby on Rails的创始人将TypeScript从Turbo框架中移除，引起社区不满]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522183&amp;idx=1&amp;sn=153672445b5286bcfead32e10a1c57de&amp;chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522183&amp;idx=1&amp;sn=153672445b5286bcfead32e10a1c57de&amp;chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大文件怎样实现快速上传？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=2&amp;sn=215c52b8c93766ddc170f78a7d3c0338&amp;chksm=8022a1c5b75528d33445bc7a1e5346ae8d7726f6ccb12ffbfac31cefada95ce9f64ad32f2bd0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616772&amp;idx=2&amp;sn=215c52b8c93766ddc170f78a7d3c0338&amp;chksm=8022a1c5b75528d33445bc7a1e5346ae8d7726f6ccb12ffbfac31cefada95ce9f64ad32f2bd0#rd"/>
         <updated>2023-09-10T16:00:00.000Z</updated>
         <published>2023-09-10T16:00:00.000Z</published>
     </entry>
