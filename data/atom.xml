@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-19T22:00:44.809Z</updated>
+    <updated>2023-09-20T10:00:49.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[你真的需要试试 Astro……]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514084&amp;idx=1&amp;sn=4d3a89c8e4dff8dcdfd3ea3ad415e5d0&amp;chksm=eb078f9ddc70068bb4a5f98d6d5341fd34a0509a7a90feaa740720c048635c897986beb9f02f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514084&amp;idx=1&amp;sn=4d3a89c8e4dff8dcdfd3ea3ad415e5d0&amp;chksm=eb078f9ddc70068bb4a5f98d6d5341fd34a0509a7a90feaa740720c048635c897986beb9f02f#rd"/>
+        <updated>2023-09-19T16:00:00.000Z</updated>
+        <published>2023-09-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js，到底为什么这样对我？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514078&amp;idx=1&amp;sn=12acb16da3f4ef5591f422bd3dea3710&amp;chksm=eb078fa7dc7006b1e71d3f35cceed4f3fc9721952b11428338060e634f204213bb860db737bc#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd"/>
+        <updated>2023-09-17T16:00:00.000Z</updated>
+        <published>2023-09-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox 瘦身攻略：我们如何把JavaScript包缩小三分之一]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522254&amp;idx=1&amp;sn=36bea9941d12d43ceca77de145227a5b&amp;chksm=f952228dce25ab9bad89fc1d6589d54093983798fca38f7f46826f8bc7d7404a27fed2093be0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522254&amp;idx=1&amp;sn=36bea9941d12d43ceca77de145227a5b&amp;chksm=f952228dce25ab9bad89fc1d6589d54093983798fca38f7f46826f8bc7d7404a27fed2093be0#rd"/>
         <updated>2023-09-17T16:00:00.000Z</updated>
         <published>2023-09-17T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[阿里大佬整理的 Vue3 全套面试笔记 PDF，真香！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516170&amp;idx=1&amp;sn=9282f8ac3aca8fbd0b06668ad6c4a0ed&amp;chksm=f99286dbcee50fcdc4af2e26022b011b2df040a5a212a90e3cb7acb4501ed2926cfc93edcf53#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516170&amp;idx=1&amp;sn=9282f8ac3aca8fbd0b06668ad6c4a0ed&amp;chksm=f99286dbcee50fcdc4af2e26022b011b2df040a5a212a90e3cb7acb4501ed2926cfc93edcf53#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端项目负责人需要具有的能力]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516170&amp;idx=2&amp;sn=4242f7ab92936685076b185e072c64d3&amp;chksm=f99286dbcee50fcd483b26ea95cb84ed15be8e572d651886f585e6cd5db6b107e32f454708fd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516170&amp;idx=2&amp;sn=4242f7ab92936685076b185e072c64d3&amp;chksm=f99286dbcee50fcd483b26ea95cb84ed15be8e572d651886f585e6cd5db6b107e32f454708fd#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby on Rails的创始人将TypeScript从Turbo框架中移除，引起社区不满]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522183&amp;idx=1&amp;sn=153672445b5286bcfead32e10a1c57de&amp;chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522183&amp;idx=1&amp;sn=153672445b5286bcfead32e10a1c57de&amp;chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd"/>
         <updated>2023-09-10T16:00:00.000Z</updated>
         <published>2023-09-10T16:00:00.000Z</published>
     </entry>
