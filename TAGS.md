@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-20 18:00:48。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-22 06:01:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -112,6 +112,7 @@
 
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)
 - [【JavaScript-Weekly】TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)
 - [【JavaScript-Weekly】Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)
 - [【JavaScript-Weekly】Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)
@@ -129,7 +130,6 @@
 - [【前端早读课】【第2680期】使用“const”优化-TypeScript-中的枚举](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256606&idx=1&sn=cb5c5cfc4de4043f70b02da99fe9286f&chksm=bd492e9a8a3ea78cd891653b4d939a128dcdb5d800ab66012262b902d57f42ba4a23da8facbe#rd)
 - [【前端早读课】【第2678期】何时应该使用TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651256553&idx=2&sn=101641d9a58055ed5b40b0496a197ee6&chksm=bd492f6d8a3ea67b810dbdddff343d925a6063b7dde3326f8f503079497149615cfa5d37612f#rd)
 - [【前端早读课】【第2605期】如何学习错误的-TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254092&idx=1&sn=53b3bbd3a5ba540208da4d2f7a1b1f74&chksm=bd4934c88a3ebddefacfbb2ebf473a5bb33ab822c7678ffc9e268a60f6c75af7c6c412653dea#rd)
-- [【前端早读课】【第2547期】TypeScript-4.6-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253083&idx=1&sn=486750d90e7350f30c822eb2327132cf&chksm=bd4930df8a3eb9c919a130a39321b649720d7f71ccc1bd425de376d864b681fc536669ad3cc2#rd)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

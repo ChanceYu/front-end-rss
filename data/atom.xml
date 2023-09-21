@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-20T10:00:49.213Z</updated>
+    <updated>2023-09-21T22:01:06.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Microsoft spills the tea on TypeScript]]></title>
+        <id>https://javascriptweekly.com/issues/655</id>
+        <link href="https://javascriptweekly.com/issues/655"/>
+        <updated>2023-09-20T16:00:00.000Z</updated>
+        <published>2023-09-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你真的需要试试 Astro……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514084&amp;idx=1&amp;sn=4d3a89c8e4dff8dcdfd3ea3ad415e5d0&amp;chksm=eb078f9ddc70068bb4a5f98d6d5341fd34a0509a7a90feaa740720c048635c897986beb9f02f#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2行代码让JS加载耗时减少67% | 文末福利]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513936&amp;idx=1&amp;sn=7293c9a1f95631a647ef910000ba188a&amp;chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513936&amp;idx=1&amp;sn=7293c9a1f95631a647ef910000ba188a&amp;chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里大佬整理的 Vue3 全套面试笔记 PDF，真香！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516170&amp;idx=1&amp;sn=9282f8ac3aca8fbd0b06668ad6c4a0ed&amp;chksm=f99286dbcee50fcdc4af2e26022b011b2df040a5a212a90e3cb7acb4501ed2926cfc93edcf53#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516170&amp;idx=1&amp;sn=9282f8ac3aca8fbd0b06668ad6c4a0ed&amp;chksm=f99286dbcee50fcdc4af2e26022b011b2df040a5a212a90e3cb7acb4501ed2926cfc93edcf53#rd"/>
         <updated>2023-09-10T16:00:00.000Z</updated>
         <published>2023-09-10T16:00:00.000Z</published>
     </entry>

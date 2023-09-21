@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-20 18:00:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-22 06:01:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655) ![](/assets/new.png)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
@@ -92,7 +93,6 @@
 - [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)  
 - [2023-05-04-'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)  
 - [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)  
-- [2023-04-20-On-the-origin-of-packages](https://javascriptweekly.com/issues/635)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-09-18-Dropbox-瘦身攻略：我们如何把JavaScript包缩小三分之一](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522254&idx=1&sn=36bea9941d12d43ceca77de145227a5b&chksm=f952228dce25ab9bad89fc1d6589d54093983798fca38f7f46826f8bc7d7404a27fed2093be0#rd) ![](/assets/new.png)  
+- [2023-09-18-Dropbox-瘦身攻略：我们如何把JavaScript包缩小三分之一](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522254&idx=1&sn=36bea9941d12d43ceca77de145227a5b&chksm=f952228dce25ab9bad89fc1d6589d54093983798fca38f7f46826f8bc7d7404a27fed2093be0#rd)  
 - [2023-09-15-和Node.js配置地狱说拜拜！Deno-零配置解决方案](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522229&idx=1&sn=d6d90ca9c233e41ce546b2b79670ca07&chksm=f95222f6ce25abe0b324de8ea0dd14d567e22497e415f73703fffeab112990b2fb8f48058975#rd)  
 - [2023-09-13-速度提升30%！Astro-3.0正式发布，第一个支持-View-Transitions-API-的框架](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522208&idx=1&sn=9fa59ecfcc340e7d6805c62cfa831c5b&chksm=f95222e3ce25abf5609cbf630af3366307abc2cbfbcf479fb3ef6732eaf6c35f41df6e6159f6#rd)  
 - [2023-09-11-Ruby-on-Rails的创始人将TypeScript从Turbo框架中移除，引起社区不满](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522183&idx=1&sn=153672445b5286bcfead32e10a1c57de&chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd)  
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-09-20-你真的需要试试-Astro……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514084&idx=1&sn=4d3a89c8e4dff8dcdfd3ea3ad415e5d0&chksm=eb078f9ddc70068bb4a5f98d6d5341fd34a0509a7a90feaa740720c048635c897986beb9f02f#rd) ![](/assets/new.png)  
+- [2023-09-20-你真的需要试试-Astro……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514084&idx=1&sn=4d3a89c8e4dff8dcdfd3ea3ad415e5d0&chksm=eb078f9ddc70068bb4a5f98d6d5341fd34a0509a7a90feaa740720c048635c897986beb9f02f#rd)  
 - [2023-09-19-Next.js，到底为什么这样对我？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514078&idx=1&sn=12acb16da3f4ef5591f422bd3dea3710&chksm=eb078fa7dc7006b1e71d3f35cceed4f3fc9721952b11428338060e634f204213bb860db737bc#rd)  
 - [2023-09-18-复盘前端岗位现状之后-，有点想开了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514071&idx=1&sn=9a4caee92f6773bb06d420484127dcf2&chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd)  
 - [2023-09-16-被裁员半年了，谈谈感想](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513976&idx=1&sn=26a8734766432dd88697ae507ec86b6f&chksm=eb078f01dc70061766ec02c1ab3b762b64542932e475fac67685aaa643ce4fcd50525ca72327#rd)  
