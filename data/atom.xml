@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-21T22:01:06.900Z</updated>
+    <updated>2023-09-22T02:01:03.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html"/>
+        <updated>2023-09-21T16:00:00.000Z</updated>
+        <published>2023-09-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft spills the tea on TypeScript]]></title>
         <id>https://javascriptweekly.com/issues/655</id>
@@ -41,6 +48,13 @@
         <link href="https://nodeweekly.com/issues/502"/>
         <updated>2023-09-18T16:00:00.000Z</updated>
         <published>2023-09-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新学习 scrollIntoview]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488195&amp;idx=1&amp;sn=8331b33e5734f851e42b0a70581fee62&amp;chksm=97c6710ca0b1f81ac3b805ee8fae1360111c96bdda80acff5139b86f3ff9c04cb82dc4349ee1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488195&amp;idx=1&amp;sn=8331b33e5734f851e42b0a70581fee62&amp;chksm=97c6710ca0b1f81ac3b805ee8fae1360111c96bdda80acff5139b86f3ff9c04cb82dc4349ee1#rd"/>
+        <updated>2023-09-17T16:00:00.000Z</updated>
+        <published>2023-09-17T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了。。。]]></title>
@@ -123,6 +137,13 @@
         <title type="html"><![CDATA[HTML elementtiming属性初体验记录]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/"/>
+        <updated>2023-09-14T16:00:00.000Z</updated>
+        <published>2023-09-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 2023开发者大会简单回顾 - Web 平台新动向]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488165&amp;idx=1&amp;sn=26f04ed8b7585538fec79da3747047bd&amp;chksm=97c6716aa0b1f87cab836fe0db4c572baaa03d22467937c6cfab245dab0bc645a0cce07bed54#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488165&amp;idx=1&amp;sn=26f04ed8b7585538fec79da3747047bd&amp;chksm=97c6716aa0b1f87cab836fe0db4c572baaa03d22467937c6cfab245dab0bc645a0cce07bed54#rd"/>
         <updated>2023-09-14T16:00:00.000Z</updated>
         <published>2023-09-14T16:00:00.000Z</published>
     </entry>
@@ -232,6 +253,13 @@
         <published>2023-09-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一个富有“弹性”的按钮]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488125&amp;idx=1&amp;sn=bcf22cc87e9eb792c2ac4cf7db14543f&amp;chksm=97c671b2a0b1f8a44a34b307062dc412758cafc23afd4cf4bd63d21d356483e0b7afad12d4b7#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488125&amp;idx=1&amp;sn=bcf22cc87e9eb792c2ac4cf7db14543f&amp;chksm=97c671b2a0b1f8a44a34b307062dc412758cafc23afd4cf4bd63d21d356483e0b7afad12d4b7#rd"/>
+        <updated>2023-09-12T16:00:00.000Z</updated>
+        <published>2023-09-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[粉丝妹子分享给我的前端面试卡bug神器。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513967&amp;idx=1&amp;sn=a72fa40f0c3116a257d82395941742dc&amp;chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513967&amp;idx=1&amp;sn=a72fa40f0c3116a257d82395941742dc&amp;chksm=eb078f16dc700600c517b600c0a4507a3abf0c9a9dad9ac4a0147b4374ccfaa6091f17d3c624#rd"/>
@@ -335,33 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616776&amp;idx=1&amp;sn=5ed3fa271af25201def15253b2d80b09&amp;chksm=8022a1c9b75528df222a49d30f53007b24c9d99c3272c889ccdf858410f161c6dd9cddd77812#rd"/>
         <updated>2023-09-11T16:00:00.000Z</updated>
         <published>2023-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】不断迭代知识体系，持续成长]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265757&amp;idx=2&amp;sn=1bf3a486b3de9563fc38259fe12cd783&amp;chksm=bd48c3598a3f4a4f848b7332479d9bcf540254aad92e001dbc7411c1a0c456253979285a71e9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265757&amp;idx=2&amp;sn=1bf3a486b3de9563fc38259fe12cd783&amp;chksm=bd48c3598a3f4a4f848b7332479d9bcf540254aad92e001dbc7411c1a0c456253979285a71e9#rd"/>
-        <updated>2023-09-11T16:00:00.000Z</updated>
-        <published>2023-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3056期】什么叫JSON-RPC?]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265757&amp;idx=1&amp;sn=1d4a19ae0f19b50cda824b545540cdd7&amp;chksm=bd48c3598a3f4a4f8e718dc16507a196fae869cb3785eb32b80e9fca4924a13776970956e25f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265757&amp;idx=1&amp;sn=1d4a19ae0f19b50cda824b545540cdd7&amp;chksm=bd48c3598a3f4a4f8e718dc16507a196fae869cb3785eb32b80e9fca4924a13776970956e25f#rd"/>
-        <updated>2023-09-11T16:00:00.000Z</updated>
-        <published>2023-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can run GitHub Gists with npx]]></title>
-        <id>https://nodeweekly.com/issues/501</id>
-        <link href="https://nodeweekly.com/issues/501"/>
-        <updated>2023-09-11T16:00:00.000Z</updated>
-        <published>2023-09-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2行代码让JS加载耗时减少67% | 文末福利]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513936&amp;idx=1&amp;sn=7293c9a1f95631a647ef910000ba188a&amp;chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247513936&amp;idx=1&amp;sn=7293c9a1f95631a647ef910000ba188a&amp;chksm=eb078f29dc70063fca7c09f0c6651de6ddc9a0b98efc79bfb1136417eeb6b1047c930f143dd7#rd"/>
-        <updated>2023-09-10T16:00:00.000Z</updated>
-        <published>2023-09-10T16:00:00.000Z</published>
     </entry>
 </feed>
