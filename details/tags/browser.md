@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-25 15:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-25 21:01:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -279,6 +279,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2023-09-22-Chrome-117-Beta发布：15岁生日庆祝与新功能一览](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522317&idx=1&sn=742f89ddb878950c7f93a282229c4931&chksm=f9522d4ece25a4589435621c5f685632de55bbea5d65f47af7ed1d8c67cc21143ab493e8a2ab#rd) 
 - [2023-06-28-AI浏览器扩展：一场新的安全噩梦](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521291&idx=1&sn=6f97a01884243583bf246ad1f2579264&chksm=f9522148ce25a85e772f37f883060cc82249e3ff79c77b733ffdebf982c85c0ca84ee2b8b004#rd) 
 - [2023-04-21-Safari-版本更新？开发者的噩梦之旅！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520665&idx=1&sn=48755ccc3ff1a16b88cf2a1862a9dfce&chksm=f95224dace25adcc12da6402b0aa4704a472516a1aa3eca46c4f0821f3da15fe48edc7301b7e#rd) 
 - [2023-04-14-Web框架Astro-2.0发布，在静态和动态渲染之外提供了混合渲染能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520612&idx=1&sn=0607ae29aed553513c14f6c1e82c0812&chksm=f9522427ce25ad312d1ed0ac123170402993d35bed6035a028d9fc3538a66a2b4b70092f7ebb#rd) 

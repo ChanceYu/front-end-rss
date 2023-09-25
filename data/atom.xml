@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-25T07:00:54.735Z</updated>
+    <updated>2023-09-25T13:01:56.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 272 期）：Unity 的安装费，游戏业的缩影]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html"/>
+        <updated>2023-09-21T16:00:00.000Z</updated>
+        <published>2023-09-21T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 117 Beta发布：15岁生日庆祝与新功能一览]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522317&amp;idx=1&amp;sn=742f89ddb878950c7f93a282229c4931&amp;chksm=f9522d4ece25a4589435621c5f685632de55bbea5d65f47af7ed1d8c67cc21143ab493e8a2ab#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522317&amp;idx=1&amp;sn=742f89ddb878950c7f93a282229c4931&amp;chksm=f9522d4ece25a4589435621c5f685632de55bbea5d65f47af7ed1d8c67cc21143ab493e8a2ab#rd"/>
         <updated>2023-09-21T16:00:00.000Z</updated>
         <published>2023-09-21T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TypeScript 终极初学者指南]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616820&amp;idx=2&amp;sn=035155b53a042a8725497a9cb792c865&amp;chksm=8022a1f5b75528e3f3582af74976a50d899bb0de6775aebd7d1039c46406bbd3de1709a3ad6c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616820&amp;idx=2&amp;sn=035155b53a042a8725497a9cb792c865&amp;chksm=8022a1f5b75528e3f3582af74976a50d899bb0de6775aebd7d1039c46406bbd3de1709a3ad6c#rd"/>
-        <updated>2023-09-14T16:00:00.000Z</updated>
-        <published>2023-09-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3059期】浅尝IM方案在H5活动场景中的应用]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265816&amp;idx=1&amp;sn=dcae2a021b844eaebd93fa681bf27fe7&amp;chksm=bd48c29c8a3f4b8a5513ad6c52ba3f02b33786f9a1d29cbb0f44a9a25621a17e2f16a8b58bcb#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265816&amp;idx=1&amp;sn=dcae2a021b844eaebd93fa681bf27fe7&amp;chksm=bd48c29c8a3f4b8a5513ad6c52ba3f02b33786f9a1d29cbb0f44a9a25621a17e2f16a8b58bcb#rd"/>
         <updated>2023-09-14T16:00:00.000Z</updated>
         <published>2023-09-14T16:00:00.000Z</published>
     </entry>
