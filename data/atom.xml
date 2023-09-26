@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-25T22:01:17.155Z</updated>
+    <updated>2023-09-26T02:01:42.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -151,6 +151,13 @@
         <title type="html"><![CDATA[浏览器也拥有了原生的 “时间切片” 能力！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516412&amp;idx=2&amp;sn=6a872efd08d940a050c980be98be25f7&amp;chksm=f992862dcee50f3bb3b9f37d79abdea5e850eef89575a8cd2023e01cb1067029b1499f64d25d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516412&amp;idx=2&amp;sn=6a872efd08d940a050c980be98be25f7&amp;chksm=f992862dcee50f3bb3b9f37d79abdea5e850eef89575a8cd2023e01cb1067029b1499f64d25d#rd"/>
+        <updated>2023-09-19T16:00:00.000Z</updated>
+        <published>2023-09-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun 1.0 JavaScript运行时发布，附带Windows“实验”版]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522310&amp;idx=1&amp;sn=c579dc2898cbc154979e9a7e260b31d2&amp;chksm=f9522d45ce25a45361709e2d1901cf462b9fbe8a93e952b02b20ed3e3833b55abb8e0dd79108#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522310&amp;idx=1&amp;sn=c579dc2898cbc154979e9a7e260b31d2&amp;chksm=f9522d45ce25a45361709e2d1901cf462b9fbe8a93e952b02b20ed3e3833b55abb8e0dd79108#rd"/>
         <updated>2023-09-19T16:00:00.000Z</updated>
         <published>2023-09-19T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3060期】图解 60 个 CSS 选择器]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265893&amp;idx=1&amp;sn=c664b580d51bc7efac26c64e94212619&amp;chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265893&amp;idx=1&amp;sn=c664b580d51bc7efac26c64e94212619&amp;chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd"/>
-        <updated>2023-09-15T16:00:00.000Z</updated>
-        <published>2023-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】工作倦怠,一个不可忽视的职场警示灯]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265893&amp;idx=2&amp;sn=74fa5407948b7a25097979282b5e70ad&amp;chksm=bd48c2e18a3f4bf739997da9cd04c50be600a7d97fc6fa9dfd3c14df44456a657be2173bd6a9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265893&amp;idx=2&amp;sn=74fa5407948b7a25097979282b5e70ad&amp;chksm=bd48c2e18a3f4bf739997da9cd04c50be600a7d97fc6fa9dfd3c14df44456a657be2173bd6a9#rd"/>
         <updated>2023-09-15T16:00:00.000Z</updated>
         <published>2023-09-15T16:00:00.000Z</published>
     </entry>
