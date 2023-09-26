@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-26T02:01:42.363Z</updated>
+    <updated>2023-09-26T15:00:44.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Polyfills gone rogue]]></title>
+        <id>https://nodeweekly.com/issues/503</id>
+        <link href="https://nodeweekly.com/issues/503"/>
+        <updated>2023-09-25T16:00:00.000Z</updated>
+        <published>2023-09-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早说】培养成为公司的腰部力量,提升自身贡献者的能力]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266009&amp;idx=2&amp;sn=61e8059734f9e1993e21420f49f9a0c7&amp;chksm=bd48c25d8a3f4b4ba8e95101482990fc78ef71af257f64c3589f871805c62d50f9106bc86c19#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[推荐几个不错的前端朋友！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516381&amp;idx=1&amp;sn=e07e2225557e0d267a624871655a2668&amp;chksm=f992860ccee50f1abb76c26fbd75d3adbd6ab7fd5af14bdca1873eb8674e72c0885d64694a0b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516381&amp;idx=1&amp;sn=e07e2225557e0d267a624871655a2668&amp;chksm=f992860ccee50f1abb76c26fbd75d3adbd6ab7fd5af14bdca1873eb8674e72c0885d64694a0b#rd"/>
-        <updated>2023-09-15T16:00:00.000Z</updated>
-        <published>2023-09-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3060期】图解 60 个 CSS 选择器]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265893&amp;idx=1&amp;sn=c664b580d51bc7efac26c64e94212619&amp;chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265893&amp;idx=1&amp;sn=c664b580d51bc7efac26c64e94212619&amp;chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd"/>
         <updated>2023-09-15T16:00:00.000Z</updated>
         <published>2023-09-15T16:00:00.000Z</published>
     </entry>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-09-19 23:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-26 23:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503) 
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502) 
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501) 
 - [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500) 
