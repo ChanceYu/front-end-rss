@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-27 12:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-27 23:00:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -65,6 +65,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2023-09-25-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=1&sn=07fab9ce5f18e86f798cdfd68628a710&chksm=8022a19ab755288c79c87c2f2bd4b8de2986bb83132c01a0dc9b1d49b986c737f49b1b4d192c#rd) 
 - [2023-08-25-前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616626&idx=1&sn=17e3b9a3d767f080c025478660697225&chksm=8022a2b3b7552ba5e5449585547aeebd847d4799060afa72f30219fddb775661e163bc8f6933#rd) 
 - [2023-08-24-性能击败-Chrome，Firefox-太拼了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616625&idx=2&sn=0e561ae3c6c121ecbf6403c53ab9238f&chksm=8022a2b0b7552ba6be0bd240c4fb774e36205dc6128ec72cba6b7089e9f381ae4e241569bd8e#rd) 
 - [2023-08-08-QQ技术团队分享：新QQ-NT桌面版内存优化探索之路](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616420&idx=1&sn=834101bf49d61c7172851a992a8f7cba&chksm=8022a365b7552a732342be97f041de3464929dbb4d6ad84b54a1bca2dcadb4b1f988b5645051#rd) 
