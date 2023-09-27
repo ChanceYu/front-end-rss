@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-27 23:00:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-28 06:00:55。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -40,6 +40,7 @@
 
 - [【JavaScript-Weekly】React-18-due-any-day-now..](https://javascriptweekly.com/issues/582)
 - [【JavaScript-Weekly】Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574)
+- [【前端早读课】【第3069期】如何在-React-中逃离闭包陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266017&idx=1&sn=da1a295ac76992c9e67038b6c6af9037&chksm=bd48c2658a3f4b7375f4aac91e352264d703c3cefa0989d71efa5f515edf57a2be7a745ae1cb#rd)
 - [【前端早读课】【第3026期】React-还是-Vue？@𝖈𝖆𝖑𝖎对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264685&idx=1&sn=abd482257802b379e17fd5175e11d9c6&chksm=bd48cf298a3f463f411f6f2f785b20c921c30d12b9bf90763ca01bf98ca36fe741f8a4cefd6e#rd)
 - [【前端早读课】【第3009期】React-18-如何提高应用程序性能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264174&idx=1&sn=e7d6a7c0e03f6d00cb21d91e6447134f&chksm=bd48cd2a8a3f443cb89c92ae843f5407bf659dc55e1b781cd8f555f839791246c20f774e5ab2#rd)
 - [【前端早读课】【第2994期】如意设计助手：Figma-Dev-Mode下生成React代码](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263725&idx=1&sn=62841a341b2a2a93b2c9b43d0425843a&chksm=bd48cb698a3f427fc27dcabe370cef1880e4ea4d922c40b0ce43698d6522c186d694c376c29a#rd)
@@ -57,7 +58,6 @@
 - [【前端早读课】【第2842期】-React-Query-中的状态检查](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260559&idx=1&sn=7e08bf53a7d6d32004430fd0426752c8&chksm=bd48df0b8a3f561d83b8467a8ebb87b836b8c405b3965be3e2e2695b8881ac0f6c54814680b8#rd)
 - [【前端早读课】【第2841期】为你的-React-应用添加音乐播放器](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260551&idx=1&sn=e00a545341744694188c65cd1392fa17&chksm=bd48df038a3f561538a92f394a346ebec61ae76f2d4b955f265626bbe6b7d4d3f8a72bfd835d#rd)
 - [【前端早读课】【图书】React设计原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260295&idx=2&sn=1be285247833248c691a1bde26849547&chksm=bd48dc038a3f55154ee15536b18cbf61bed786a057a2b6a64c70f84fe4dbc1f0cd6d4f6dce3d#rd)
-- [【前端早读课】【第2819期】京东-React-组件库支持小程序开发](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259930&idx=1&sn=fbcbc45f03cc9b13e2b4348b99393c73&chksm=bd48dd9e8a3f5488d44d863e2454485a922af055b88a133d0a357936980ddccc9e13f28cff3f#rd)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -75,8 +75,8 @@
 
 
 - [【前端早读课】【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)
-- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [【前端早读课】【活动】VueConf-&amp;-ViteConf-2023。8月26日，苏州见。](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=2&sn=8722e592e3dbbe5d11e7412d1207ba47&chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd)
+- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [【前端早读课】【第2991期】从自研走向开源的-TinyVue-组件库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263668&idx=1&sn=33e2a54f9f757adf2dd4fd1c1a5945b6&chksm=bd48cb308a3f4226aa3953a4506eb43f68e1e838c4c84560ce3d3ed1f2cafb44fcbb60130e33#rd)
 - [【前端早读课】【第2974期】ChatGPT教用200行代码写一个简版Vue框架——OpenTiny](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263392&idx=1&sn=2841859805edaf9baea4da7c56426b2c&chksm=bd48c8248a3f4132a4d7d06ce896fa714c8c85dfae33512c10d443a98ec0a5363533ca88aefb#rd)
 - [【前端早读课】【第2950期】vite-plugin-vue-devtools：写一个Vue-DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=1&sn=c47d7ee1e37c5d672e1e41f9f75f4363&chksm=bd48d6a88a3f5fbe9541b16c94f29436c0fff9bef4818064e43c9acd306de372feb9e6259ed4#rd)
@@ -260,8 +260,8 @@
 - [【前端早读课】【图书】PWA入门与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236564&idx=2&sn=2ab8b984f59e66be74e39d605c8b179b&chksm=bd4971508a3ef846ca847ff5ba5e4d82c7d310456e23aa12c7c7f2fbd04d58e54770a8197073&scene=27#wechat_redirect)
 - [【前端早读课】一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd)
 - [【前端早读课】【第1557期】带你走进PWA在业务中的实践方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=1&sn=e55c2f9905606a4930e4961ec4917f44#rd)
-- [【前端早读课】【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)
 - [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
+- [【前端早读课】【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】Flutter-开发资源大全来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607689&idx=1&sn=d63c0c9b85b181801c385494ae881bb9&chksm=80228548b7550c5e270985590042f72f7f459fdb4e5a5336fc6e339cf14f02ce3eade971f9af#rd)
@@ -365,21 +365,21 @@
 - [【前端早读课】【第3060期】图解-60-个-CSS-选择器](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265893&idx=1&sn=c664b580d51bc7efac26c64e94212619&chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd)
 - [【前端早读课】【第3048期】CSS-也能实现碰撞检测？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265614&idx=1&sn=0e4eaacba002d352a557b73517eb605c&chksm=bd48c3ca8a3f4adcb9e56520f9b1f5a8a97b54f38150fb615fe86dca632ece62acf695959d9b#rd)
 - [【前端早读课】【第3032期】CSS新特性,超强的-Anchor-Positioning-锚点定位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=1&sn=c3c1d35bdcc1a58ff6168a2b98a7f2c8&chksm=bd48c12b8a3f483d59d579285c9b800af98fe5f7fde3a56efb0b8c7ae289a7b163519699e7c0#rd)
-- [【前端早读课】【小册】现代CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=2&sn=7e6963f2c5e197362f40acd67f12d041&chksm=bd48cf4a8a3f465c9d14120b3b78d9e0f7817260e6f9806d62219ca729f21cfde6cdfb65406b#rd)
 - [【前端早读课】【第3029期】CSS-如何改变网格布局偶数行的排序？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=1&sn=712227e9148da99c52f75205888bfe37&chksm=bd48cf4a8a3f465c51f441f9af73fb697abc58d60b9c1b35dcf580ecb06a5cbf381c6f3c1828#rd)
+- [【前端早读课】【小册】现代CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=2&sn=7e6963f2c5e197362f40acd67f12d041&chksm=bd48cf4a8a3f465c9d14120b3b78d9e0f7817260e6f9806d62219ca729f21cfde6cdfb65406b#rd)
 - [【前端早读课】【第3003期】擎天柱与CSS变换切换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264040&idx=1&sn=608fb0e71157e38c9ce5fc82ad6e2c33&chksm=bd48cdac8a3f44ba70524056bc2288adbe91d80a190d02a4ed56193382ec7d92baf58b481a56#rd)
 - [【前端早读课】【第2996期】WWDC2023---CSS有什么新东西](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263813&idx=1&sn=48d7269c268dba63f4d9bc148bcbc119&chksm=bd48cac18a3f43d7ee38fdaeed12965cc92c44bcfae878fd30166c9d3e05d024d1d562c2dd0c#rd)
 - [【前端早读课】【第2986期】携程火车票7个优化动画性能的方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263554&idx=1&sn=c1de47bf8d2e670e5215cfc543490740&chksm=bd48cbc68a3f42d06d04a73b5408d19d40c1cc298e9b00d2a0cabe0a4e877c6495aacd748aca#rd)
-- [【前端早读课】【第2978期】CSS中@scope的简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=1&sn=b5ae594eca60aa8705a287ce730ddec9&chksm=bd48c84c8a3f415a86e27a1cf7cd889795e54339c394b93e31aea838440b658f049d5613342f#rd)
 - [【前端早读课】【小册】CSS-技术揭秘与实战通关](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=2&sn=c68304d9ac2fd3305f3739259397b25a&chksm=bd48c84c8a3f415a79485c1d44f3bdfbcaa206c7090ddf0deb4e32415d1f7aafbf5475789718#rd)
+- [【前端早读课】【第2978期】CSS中@scope的简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=1&sn=b5ae594eca60aa8705a287ce730ddec9&chksm=bd48c84c8a3f415a86e27a1cf7cd889795e54339c394b93e31aea838440b658f049d5613342f#rd)
 - [【前端早读课】【第2971期】前端开发如何更好的避免样式冲突？级联层CSS@layer](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=1&sn=c684aa4e5b5a523999061c2f0c52de5e&chksm=bd48c8838a3f4195a4b4ed385608e341a3c96ad833172e9dbe68acb21cfc15df27bee4334338#rd)
 - [【前端早读课】【第2963期】用纯-CSS-方式实现动态切换主题风格](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263020&idx=2&sn=0fd577f0dedcb60745aaa56e1ef6674d&chksm=bd48c9a88a3f40be37aa4148c3e4e2429f9362d957f46edb7e7a3da37f5a49b39cf8e8d96666#rd)
 - [【前端早读课】【活动】字节跳动云原生系列Meetup第1期：Serverless无服务器架构](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262872&idx=2&sn=a63274dc7a257796fa00db7087801b08&chksm=bd48d61c8a3f5f0a3e025dc2f836df14b1375432541c62d9ca6d69a5223d52898b8c51a1a531#rd)
 - [【前端早读课】【第2954期】妙用-background-实现花式文字效果](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262818&idx=1&sn=0587ccb6843e38e95541f43a7cc1c3f8&chksm=bd48d6e68a3f5ff07fc0083bb06cb1612bea2c3686c5cd51d497d838110e884d2a7d09e191a7#rd)
 - [【前端早读课】【图书】CSS选择器世界第2版](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262613&idx=2&sn=dbb6e4cf8b42faffe36545c2daa44c6d&chksm=bd48d7118a3f5e0753b735ba0acb25ede317f7991feaff3e17753e6ea20c554029daec956eb8#rd)
 - [【前端早读课】【第2940期】了解一下全新的CSS动画合成属性animation-composition](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262571&idx=1&sn=6c1816800855e10599b7f93d9a32ad58&chksm=bd48d7ef8a3f5ef96ca154807bd41abba32b0defb8ac519cfcc3d5cdd77d339fd3ba37d3a340#rd)
-- [【前端早读课】【第2938期】Tailwind-CSS-方案简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=1&sn=0fb505b05cdc05cdaaf2b52d3e4d7100&chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd)
 - [【前端早读课】【小册】防御式-CSS-精讲](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=2&sn=fc995d156c01eeb566146b8f48de4d50&chksm=bd48d7cb8a3f5eddab85780145377ded05ad4489ea9a4e75999d4ec535b3288d62cc6f6eb3c3#rd)
+- [【前端早读课】【第2938期】Tailwind-CSS-方案简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262543&idx=1&sn=0fb505b05cdc05cdaaf2b52d3e4d7100&chksm=bd48d7cb8a3f5eddb26070648379b8eac1975cc29348298d07220cddbefc02d8903051643c58#rd)
 - [【前端早读课】【第2925期】纯-CSS-实现一个计时器](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262264&idx=1&sn=74b7fa53664ff640d88184cac353653e&chksm=bd48d4bc8a3f5daa5b50b72ed807894c23df55af543eb5e1011317714816ec6cc410b56740bc#rd)
 - [【前端早读课】【第2883期】原生-CSS-Custom-Highlight-终于来了~](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261251&idx=1&sn=9cfb7b2fbf341bd33add27762a60fae1&chksm=bd48d0c78a3f59d175b4bd8e1b61ba5cdcfdbde7b551b5fb1f676a95174c81ad85dc2a493ace#rd)
 - [......【查看更多】......](/details/tags/css.md)
@@ -547,6 +547,7 @@
 - [【JavaScript-Weekly】AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)
 - [【JavaScript-Weekly】Getting-animated](https://javascriptweekly.com/issues/590)
 - [【JavaScript-Weekly】Time-to-get-decorating](https://javascriptweekly.com/issues/583)
+- [【前端早读课】【早说】避免无谓会议,做有效果的review](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266013&idx=2&sn=1bcc2b82aad1d9262373355c733c31e1&chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd)
 - [【前端早读课】【第3067期】Chrome-117-DevTools新功能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=1&sn=ab9d2c0aa36b2346f71f0b1acdbebf94&chksm=bd48c25d8a3f4b4b19245fe4c7b39e9843ecad41a47067aa031a59482783d78fd4225780d29b#rd)
 - [【前端早读课】【第3061期】新一代-Web-预渲染技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265900&idx=1&sn=c4b9bbe03ea1beeef282994a87db08cc&chksm=bd48c2e88a3f4bfed2737ec4574a8a6e84a08dafeb6c2c248ad45327ab63d65b398e6709d0b3#rd)
 - [【前端早读课】【第3051期】浏览器也拥有了原生的-“时间切片”-能力！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265683&idx=1&sn=c3c895fc9d30dde4227b6dbf2f3da051&chksm=bd48c3178a3f4a0120724da4e9b0296f5b249a9987d80b6350346a5643e6ebde8492ac91203f#rd)
@@ -561,7 +562,6 @@
 - [【前端早读课】【第2924期】如何在-Gitlab-中使用-ChatGPT-进行-CodeReview](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262246&idx=1&sn=b6f736e9993625dff33696b58910edef&chksm=bd48d4a28a3f5db45c7c74c93e5ce59c6b2671933e22a828b00cb659f0ec1a4b16a5d4be7559#rd)
 - [【前端早读课】【小册】前端调试通关秘籍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261920&idx=2&sn=fd65f4a159ee46005980016460a1a653&chksm=bd48d2648a3f5b727a22c4304cd6a971d3e727beea006d743b9135aa05108367f657f9053f88#rd)
 - [【前端早读课】【第2856期】腾讯文档智能表格渲染层-Feature-设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260813&idx=1&sn=c667b55990a63fd901ca7ec0a3d18375&chksm=bd48de098a3f571f7061408cdcd17953c2bbaaf1f27f47c8726e8b7c40222d9452e453539786#rd)
-- [【前端早读课】【第2824期】图解浏览器的多进程渲染机制](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259985&idx=1&sn=30f64ce130025016adb00a72913a99fc&chksm=bd48ddd58a3f54c3d3b516386616cf43da38360deae049b30117fc6beefb7a40d0b018cc75a7#rd)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
