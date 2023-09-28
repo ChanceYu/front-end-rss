@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-09-28 21:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-29 06:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,7 @@
 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
 - [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449) 
+- [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594) 
 - [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590) 
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583) 

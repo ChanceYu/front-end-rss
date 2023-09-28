@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-09-28 21:01:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-09-29 06:00:43。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -544,6 +544,7 @@
 
 - [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
+- [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【JavaScript-Weekly】AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)
 - [【JavaScript-Weekly】Getting-animated](https://javascriptweekly.com/issues/590)
 - [【JavaScript-Weekly】Time-to-get-decorating](https://javascriptweekly.com/issues/583)
@@ -561,7 +562,6 @@
 - [【前端早读课】【第2939期】Chrome插件：切图压缩工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262568&idx=1&sn=d6a8b6a782ec15ccf874f8dac3a96ad1&chksm=bd48d7ec8a3f5efa0f116dcfd236a19f2be63d65ce7ae34d7d43caae1fd2f4247b16cd0c8305#rd)
 - [【前端早读课】【第2924期】如何在-Gitlab-中使用-ChatGPT-进行-CodeReview](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262246&idx=1&sn=b6f736e9993625dff33696b58910edef&chksm=bd48d4a28a3f5db45c7c74c93e5ce59c6b2671933e22a828b00cb659f0ec1a4b16a5d4be7559#rd)
 - [【前端早读课】【小册】前端调试通关秘籍](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261920&idx=2&sn=fd65f4a159ee46005980016460a1a653&chksm=bd48d2648a3f5b727a22c4304cd6a971d3e727beea006d743b9135aa05108367f657f9053f88#rd)
-- [【前端早读课】【第2856期】腾讯文档智能表格渲染层-Feature-设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260813&idx=1&sn=c667b55990a63fd901ca7ec0a3d18375&chksm=bd48de098a3f571f7061408cdcd17953c2bbaaf1f27f47c8726e8b7c40222d9452e453539786#rd)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

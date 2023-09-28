@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-28 21:01:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-29 06:00:42，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) ![](/assets/new.png)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
@@ -92,7 +93,6 @@
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
 - [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)  
 - [2023-05-04-'It's-a-miracle-anything-about-this-ecosystem-works-at-all.'](https://javascriptweekly.com/issues/637)  
-- [2023-04-27-Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,7 +135,7 @@
 </summary>
 
 
-- [2023-09-26-一步步从-CSS-Modules-切换到-Tailwind-CSS](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616860&idx=1&sn=c5c1499a3ce510cfc6aee4863459daf0&chksm=8022a19db755288bb323e93185c19770bdc7ca65e024c8274dbe97585385f8fb3f65f8297a6e#rd) ![](/assets/new.png)  
+- [2023-09-26-一步步从-CSS-Modules-切换到-Tailwind-CSS](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616860&idx=1&sn=c5c1499a3ce510cfc6aee4863459daf0&chksm=8022a19db755288bb323e93185c19770bdc7ca65e024c8274dbe97585385f8fb3f65f8297a6e#rd)  
 - [2023-09-25-也许跟大家不太一样,我是这么用TypeScript来写前端的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=2&sn=441e5bfd7fefe09e46396b4ec99529a5&chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd)  
 - [2023-09-25-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=1&sn=07fab9ce5f18e86f798cdfd68628a710&chksm=8022a19ab755288c79c87c2f2bd4b8de2986bb83132c01a0dc9b1d49b986c737f49b1b4d192c#rd)  
 - [2023-09-22-每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616856&idx=1&sn=d0f7f304b1ae9412d63028a7d62b8d96&chksm=8022a199b755288f2b8d7da0586cef79dfe94d31786795f44848e0958eae19cab30edff89ff1#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-09-27-Node.js-2023-版本发布：加速-JavaScript-开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522384&idx=1&sn=9a73d6a43e0377e0b0efd4bdfb717a4b&chksm=f9522d13ce25a4057ea0a47f2c1d29ba40a1b2ef7720a33eecda248037defb5ddd531bef9d11#rd) ![](/assets/new.png)  
 - [2023-09-25-取代-Vue-和-React？25-年码龄程序员不满-Web-开发现状创建新框架-Nue-JS，能减少-90%-代码量！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522377&idx=1&sn=b44b807face3cabadecc49b80f5b35a1&chksm=f9522d0ace25a41c3747a80dc4002f2f887ca0f261a3d48609d901a8cba388d4b40b0c000bff#rd)  
 - [2023-09-22-Chrome-117-Beta发布：15岁生日庆祝与新功能一览](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522317&idx=1&sn=742f89ddb878950c7f93a282229c4931&chksm=f9522d4ece25a4589435621c5f685632de55bbea5d65f47af7ed1d8c67cc21143ab493e8a2ab#rd)  
 - [2023-09-20-Bun-1.0-JavaScript运行时发布，附带Windows“实验”版](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522310&idx=1&sn=c579dc2898cbc154979e9a7e260b31d2&chksm=f9522d45ce25a45361709e2d1901cf462b9fbe8a93e952b02b20ed3e3833b55abb8e0dd79108#rd)  
@@ -185,7 +186,6 @@
 - [2023-08-18-JavaScript前景展望：值得期待的那些新功能](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521832&idx=1&sn=2b0d5c6696ecece319b902ff633e3178&chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd)  
 - [2023-08-16-AI-工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521802&idx=1&sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd)  
 - [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd)  
-- [2023-08-11-桌面-QQ-重构，探寻跨平台开发挑战与-Electron-内存优化突破](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521764&idx=1&sn=8f46b5a1cfbef6106da6b3e829876b32&chksm=f95220a7ce25a9b141be11bbff959acf82daa966cec6a25f50e848bf2244420de6c71fc139a6#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

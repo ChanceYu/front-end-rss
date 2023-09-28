@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-28T13:01:06.914Z</updated>
+    <updated>2023-09-28T22:00:43.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Getting some closure]]></title>
+        <id>https://javascriptweekly.com/issues/656</id>
+        <link href="https://javascriptweekly.com/issues/656"/>
+        <updated>2023-09-27T16:00:00.000Z</updated>
+        <published>2023-09-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 2023 版本发布：加速 JavaScript 开发]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522384&amp;idx=1&amp;sn=9a73d6a43e0377e0b0efd4bdfb717a4b&amp;chksm=f9522d13ce25a4057ea0a47f2c1d29ba40a1b2ef7720a33eecda248037defb5ddd531bef9d11#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522384&amp;idx=1&amp;sn=9a73d6a43e0377e0b0efd4bdfb717a4b&amp;chksm=f9522d13ce25a4057ea0a47f2c1d29ba40a1b2ef7720a33eecda248037defb5ddd531bef9d11#rd"/>
+        <updated>2023-09-26T16:00:00.000Z</updated>
+        <published>2023-09-26T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3071期】TypeScript纪录片 - 开创微软的开源之路]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266067&amp;idx=1&amp;sn=efd469afca51169b6a565a920b931585&amp;chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd</id>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/502"/>
         <updated>2023-09-18T16:00:00.000Z</updated>
         <published>2023-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新学习 scrollIntoview]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488195&amp;idx=1&amp;sn=8331b33e5734f851e42b0a70581fee62&amp;chksm=97c6710ca0b1f81ac3b805ee8fae1360111c96bdda80acff5139b86f3ff9c04cb82dc4349ee1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488195&amp;idx=1&amp;sn=8331b33e5734f851e42b0a70581fee62&amp;chksm=97c6710ca0b1f81ac3b805ee8fae1360111c96bdda80acff5139b86f3ff9c04cb82dc4349ee1#rd"/>
-        <updated>2023-09-17T16:00:00.000Z</updated>
-        <published>2023-09-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514071&amp;idx=1&amp;sn=9a4caee92f6773bb06d420484127dcf2&amp;chksm=eb078faedc7006b89bcf69ef12a4e2476b1c4c20bc0b1a8bb4d4e3a15b6e0c4c48baf806614d#rd"/>
-        <updated>2023-09-17T16:00:00.000Z</updated>
-        <published>2023-09-17T16:00:00.000Z</published>
     </entry>
 </feed>
