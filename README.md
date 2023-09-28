@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-09-28 06:00:55，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-09-28 10:04:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -106,8 +106,8 @@
 
 - [2023-09-27-【早说】前台提要,中台铺零,共创价值魔方](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=2&sn=e233a9263cae9f9c2c8525491a7693bc&chksm=bd48c5978a3f4c81e7227d75dabc4c600a447f88a6daf2359cd197c937479828f1a6b4a4b9fa#rd)  
 - [2023-09-27-【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)  
-- [2023-09-25-【第3069期】如何在-React-中逃离闭包陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266017&idx=1&sn=da1a295ac76992c9e67038b6c6af9037&chksm=bd48c2658a3f4b7375f4aac91e352264d703c3cefa0989d71efa5f515edf57a2be7a745ae1cb#rd) ![](/assets/new.png)  
-- [2023-09-24-【早说】避免无谓会议,做有效果的review](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266013&idx=2&sn=1bcc2b82aad1d9262373355c733c31e1&chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd) ![](/assets/new.png)  
+- [2023-09-25-【第3069期】如何在-React-中逃离闭包陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266017&idx=1&sn=da1a295ac76992c9e67038b6c6af9037&chksm=bd48c2658a3f4b7375f4aac91e352264d703c3cefa0989d71efa5f515edf57a2be7a745ae1cb#rd)  
+- [2023-09-24-【早说】避免无谓会议,做有效果的review](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266013&idx=2&sn=1bcc2b82aad1d9262373355c733c31e1&chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd)  
 - [2023-09-23-【第3067期】Chrome-117-DevTools新功能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=1&sn=ab9d2c0aa36b2346f71f0b1acdbebf94&chksm=bd48c25d8a3f4b4b19245fe4c7b39e9843ecad41a47067aa031a59482783d78fd4225780d29b#rd)  
 - [2023-09-23-【早说】培养成为公司的腰部力量,提升自身贡献者的能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=2&sn=61e8059734f9e1993e21420f49f9a0c7&chksm=bd48c25d8a3f4b4ba8e95101482990fc78ef71af257f64c3589f871805c62d50f9106bc86c19#rd)  
 - [2023-09-22-【招聘】北京美团金服支付商家前端团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266000&idx=2&sn=2dee1c6421c45859ecef19b3688da863&chksm=bd48c2548a3f4b420cf5786db28db97c777caaa4db5db40570ba4517f4a5a448012c806f821e#rd)  
@@ -136,7 +136,7 @@
 
 
 - [2023-09-25-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=1&sn=07fab9ce5f18e86f798cdfd68628a710&chksm=8022a19ab755288c79c87c2f2bd4b8de2986bb83132c01a0dc9b1d49b986c737f49b1b4d192c#rd)  
-- [2023-09-25-也许跟大家不太一样,我是这么用TypeScript来写前端的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=2&sn=441e5bfd7fefe09e46396b4ec99529a5&chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd) ![](/assets/new.png)  
+- [2023-09-25-也许跟大家不太一样,我是这么用TypeScript来写前端的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=2&sn=441e5bfd7fefe09e46396b4ec99529a5&chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd)  
 - [2023-09-22-深入讲解-VsCode-各场景高级调试与使用技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616856&idx=2&sn=572537db94fb75aca71c2cc762753e80&chksm=8022a199b755288fc7673b593c6502dff0433e23a119fe198c80cc1fcc9ea576e214745aabea#rd)  
 - [2023-09-22-每个前端人都应该看看的Vue3开源项目](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616856&idx=1&sn=d0f7f304b1ae9412d63028a7d62b8d96&chksm=8022a199b755288f2b8d7da0586cef79dfe94d31786795f44848e0958eae19cab30edff89ff1#rd)  
 - [2023-09-21-屏幕适配的两种方案，超详细！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616844&idx=2&sn=1fbd62e7a1ac7d467a6a9f78a5b07a41&chksm=8022a18db755289bbb38fde151b982ea765d3e45fd220f0ba154de2dd1060c53f646dd6ca545#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-09-25-取代-Vue-和-React？25-年码龄程序员不满-Web-开发现状创建新框架-Nue-JS，能减少-90%-代码量！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522377&idx=1&sn=b44b807face3cabadecc49b80f5b35a1&chksm=f9522d0ace25a41c3747a80dc4002f2f887ca0f261a3d48609d901a8cba388d4b40b0c000bff#rd) ![](/assets/new.png)  
 - [2023-09-22-Chrome-117-Beta发布：15岁生日庆祝与新功能一览](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522317&idx=1&sn=742f89ddb878950c7f93a282229c4931&chksm=f9522d4ece25a4589435621c5f685632de55bbea5d65f47af7ed1d8c67cc21143ab493e8a2ab#rd)  
 - [2023-09-20-Bun-1.0-JavaScript运行时发布，附带Windows“实验”版](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522310&idx=1&sn=c579dc2898cbc154979e9a7e260b31d2&chksm=f9522d45ce25a45361709e2d1901cf462b9fbe8a93e952b02b20ed3e3833b55abb8e0dd79108#rd)  
 - [2023-09-18-Dropbox-瘦身攻略：我们如何把JavaScript包缩小三分之一](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522254&idx=1&sn=36bea9941d12d43ceca77de145227a5b&chksm=f952228dce25ab9bad89fc1d6589d54093983798fca38f7f46826f8bc7d7404a27fed2093be0#rd)  
@@ -185,7 +186,6 @@
 - [2023-08-16-AI-工具将替代低附加值工作？一文带你洞察中国前端开源领域现状与趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521802&idx=1&sn=b4d33b373e4c1ca2fc16ec3a41fb6fa2&chksm=f9522349ce25aa5f08e9c856ffbb58c6960449cf7aaa633747b20b5e4164439c926ac33c6cbb#rd)  
 - [2023-08-14-用Rust编写，已有10万行代码：顶级黑客组织出手，将推出新的反数据收集开源框架Veilid](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521772&idx=1&sn=b5053892f4d86d4376ed4cd73e844a0f&chksm=f95220afce25a9b9f420bd7a4bc6d5c89ce1c40e603f00e55ff6e86f7bac09ead04deaac8aa0#rd)  
 - [2023-08-11-桌面-QQ-重构，探寻跨平台开发挑战与-Electron-内存优化突破](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521764&idx=1&sn=8f46b5a1cfbef6106da6b3e829876b32&chksm=f95220a7ce25a9b141be11bbff959acf82daa966cec6a25f50e848bf2244420de6c71fc139a6#rd)  
-- [2023-08-09-Threads-横空出世，通过解析App，我发现了这些CSS小秘密](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521669&idx=1&sn=637e0484b5ad40a140578bafcaebb7e5&chksm=f95220c6ce25a9d0e01787ae9e8f8036a4f6a0d8fda94850f82b3a136eeed12e275f7cf03768#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
