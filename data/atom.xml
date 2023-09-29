@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-28T22:00:43.831Z</updated>
+    <updated>2023-09-29T10:00:43.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -125,6 +125,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266013&amp;idx=2&amp;sn=1bcc2b82aad1d9262373355c733c31e1&amp;chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd"/>
         <updated>2023-09-23T16:00:00.000Z</updated>
         <published>2023-09-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从文科生到前端程序媛，从大厂到远程，感谢过去的自己。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514115&amp;idx=1&amp;sn=c75585921081222b717675dfa37e1e7d&amp;chksm=eb07807adc70096c13031c2ca80e4675a4a4c70c1ca7490c8769f1bc5f2f4e8a3ec7c3f9ba9a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514115&amp;idx=1&amp;sn=c75585921081222b717675dfa37e1e7d&amp;chksm=eb07807adc70096c13031c2ca80e4675a4a4c70c1ca7490c8769f1bc5f2f4e8a3ec7c3f9ba9a#rd"/>
+        <updated>2023-09-22T16:00:00.000Z</updated>
+        <published>2023-09-22T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【早说】培养成为公司的腰部力量,提升自身贡献者的能力]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【早说】AI工具与策略的平衡]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265911&amp;idx=2&amp;sn=35068e553818bdd66ef6730447572b04&amp;chksm=bd48c2f38a3f4be5e7071df1a7bdf20941e4010c682276d5687f891e17db4d865e7cb29dedd9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265911&amp;idx=2&amp;sn=35068e553818bdd66ef6730447572b04&amp;chksm=bd48c2f38a3f4be5e7071df1a7bdf20941e4010c682276d5687f891e17db4d865e7cb29dedd9#rd"/>
-        <updated>2023-09-18T16:00:00.000Z</updated>
-        <published>2023-09-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Node need a mascot of its own?]]></title>
-        <id>https://nodeweekly.com/issues/502</id>
-        <link href="https://nodeweekly.com/issues/502"/>
         <updated>2023-09-18T16:00:00.000Z</updated>
         <published>2023-09-18T16:00:00.000Z</published>
     </entry>
