@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-09-29T22:00:43.448Z</updated>
+    <updated>2023-09-30T15:00:46.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -146,6 +146,13 @@
         <link href="https://nodeweekly.com/issues/503"/>
         <updated>2023-09-25T16:00:00.000Z</updated>
         <published>2023-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太顶了！还得是前端…]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514130&amp;idx=1&amp;sn=69996e0f5b0cf0b81651e400d4a80f50&amp;chksm=eb07806bdc70097d423c9cf1ad266d684d2bc1036f2b8ff57cedc024c2a29d708ee77de04cec#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514130&amp;idx=1&amp;sn=69996e0f5b0cf0b81651e400d4a80f50&amp;chksm=eb07806bdc70097d423c9cf1ad266d684d2bc1036f2b8ff57cedc024c2a29d708ee77de04cec#rd"/>
+        <updated>2023-09-24T16:00:00.000Z</updated>
+        <published>2023-09-24T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 20 为啥要搞个权限模型？到底有啥用？]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[浏览器也拥有了原生的 “时间切片” 能力！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516412&amp;idx=2&amp;sn=6a872efd08d940a050c980be98be25f7&amp;chksm=f992862dcee50f3bb3b9f37d79abdea5e850eef89575a8cd2023e01cb1067029b1499f64d25d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516412&amp;idx=2&amp;sn=6a872efd08d940a050c980be98be25f7&amp;chksm=f992862dcee50f3bb3b9f37d79abdea5e850eef89575a8cd2023e01cb1067029b1499f64d25d#rd"/>
-        <updated>2023-09-19T16:00:00.000Z</updated>
-        <published>2023-09-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 RPC 和 TypeScript 的 BFF 设计与实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516412&amp;idx=1&amp;sn=20bfc1ee98c899ec9d6f88c4cd6d1ea3&amp;chksm=f992862dcee50f3ba419571f33e0b8c9372c18668ba3465052d9f21e5a5e61e7c99b55b3aac3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516412&amp;idx=1&amp;sn=20bfc1ee98c899ec9d6f88c4cd6d1ea3&amp;chksm=f992862dcee50f3ba419571f33e0b8c9372c18668ba3465052d9f21e5a5e61e7c99b55b3aac3#rd"/>
         <updated>2023-09-19T16:00:00.000Z</updated>
         <published>2023-09-19T16:00:00.000Z</published>
     </entry>
