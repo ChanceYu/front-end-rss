@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-01T07:00:38.091Z</updated>
+    <updated>2023-10-01T10:00:45.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzA3MzU2ODQzMQ==&amp;mid=2651794340&amp;idx=2&amp;sn=35857fc108e2a8c55512ce34d73bd146&amp;chksm=84f69264b3811b72e7e433399855254e78f047bbebeda886103e64ba8614cb001e92e48ba61a#rd"/>
         <updated>2023-09-28T16:00:00.000Z</updated>
         <published>2023-09-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue.js 和 Vite 之父：Evan You从谷歌工程师到开源先锋的故事]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514146&amp;idx=1&amp;sn=4441fbba6e2daef11cb85f427f81ea7d&amp;chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514146&amp;idx=1&amp;sn=4441fbba6e2daef11cb85f427f81ea7d&amp;chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd"/>
+        <updated>2023-09-27T16:00:00.000Z</updated>
+        <published>2023-09-27T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[取代 Vue 和 React？25 年码龄程序员不满 Web 现状创建新框架 Nue JS，能将代码量减少 10 倍！]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【招聘】北京京东科技招前端工程师]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265970&amp;idx=2&amp;sn=928cca814220bbc127610973655e51e9&amp;chksm=bd48c2368a3f4b2084e82287e7e798c7da446f80f77c35a51da21ce3007c0adcf088c44e522e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265970&amp;idx=2&amp;sn=928cca814220bbc127610973655e51e9&amp;chksm=bd48c2368a3f4b2084e82287e7e798c7da446f80f77c35a51da21ce3007c0adcf088c44e522e#rd"/>
-        <updated>2023-09-20T16:00:00.000Z</updated>
-        <published>2023-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3065期】让你的 VitePress 文档站支持 AI 对话能力]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265970&amp;idx=1&amp;sn=92b206620316f74d8160bd92694efdd5&amp;chksm=bd48c2368a3f4b2073d5d0b21284b177beb1bb0ad760d7739b8d42bc6f3263cf1755a6cb9e72#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651265970&amp;idx=1&amp;sn=92b206620316f74d8160bd92694efdd5&amp;chksm=bd48c2368a3f4b2073d5d0b21284b177beb1bb0ad760d7739b8d42bc6f3263cf1755a6cb9e72#rd"/>
         <updated>2023-09-20T16:00:00.000Z</updated>
         <published>2023-09-20T16:00:00.000Z</published>
     </entry>
