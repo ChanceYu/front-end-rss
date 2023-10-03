@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-01 18:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-03 23:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504) ![](/assets/new.png)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
@@ -61,7 +62,6 @@
 - [2023-05-23-Node.js-20-is-faster](https://nodeweekly.com/issues/487)  
 - [2023-05-16-MS's-new-tool-for-digging-deep-into-V8](https://nodeweekly.com/issues/486)  
 - [2023-05-09-Getting-recursive-with-Node-20.1](https://nodeweekly.com/issues/485)  
-- [2023-05-02-Running-Node.js-on-the-iPad?](https://nodeweekly.com/issues/484)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-09-28-Vue.js-和-Vite-之父：Evan-You从谷歌工程师到开源先锋的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514146&idx=1&sn=4441fbba6e2daef11cb85f427f81ea7d&chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd) ![](/assets/new.png)  
+- [2023-09-28-Vue.js-和-Vite-之父：Evan-You从谷歌工程师到开源先锋的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514146&idx=1&sn=4441fbba6e2daef11cb85f427f81ea7d&chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd)  
 - [2023-09-27-启动-React-APP-后，源码中经历了哪些过程？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514137&idx=1&sn=7b17b1d0e61942f45f3a2d6c0a26b754&chksm=eb078060dc700976d95796b1d7dc16cff2f181d38e8635fc0d4730aadf162c2c4bfc2582d0d9#rd)  
 - [2023-09-26-编写跨运行时的-JavaScript-程序](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514131&idx=1&sn=41772b16dd7cbfdc6a7a453c86065f30&chksm=eb07806adc70097c4f2d7342a844261a55c50f94e04e31cceb402fef545a52fe4d465ba83577#rd)  
 - [2023-09-25-太顶了！还得是前端…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514130&idx=1&sn=69996e0f5b0cf0b81651e400d4a80f50&chksm=eb07806bdc70097d423c9cf1ad266d684d2bc1036f2b8ff57cedc024c2a29d708ee77de04cec#rd)  
