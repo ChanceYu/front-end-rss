@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-03T15:00:42.879Z</updated>
+    <updated>2023-10-05T22:00:41.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Comparing test assertion styles in JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/657</id>
+        <link href="https://javascriptweekly.com/issues/657"/>
+        <updated>2023-10-04T16:00:00.000Z</updated>
+        <published>2023-10-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 20 gets faster, approaches LTS status]]></title>
         <id>https://nodeweekly.com/issues/504</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[屏幕适配的两种方案，超详细！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616844&amp;idx=2&amp;sn=1fbd62e7a1ac7d467a6a9f78a5b07a41&amp;chksm=8022a18db755289bbb38fde151b982ea765d3e45fd220f0ba154de2dd1060c53f646dd6ca545#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616844&amp;idx=2&amp;sn=1fbd62e7a1ac7d467a6a9f78a5b07a41&amp;chksm=8022a18db755289bbb38fde151b982ea765d3e45fd220f0ba154de2dd1060c53f646dd6ca545#rd"/>
-        <updated>2023-09-20T16:00:00.000Z</updated>
-        <published>2023-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每个前端都要学的【前端自动化部署】，Devops，CI/CD]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616844&amp;idx=1&amp;sn=97e0d4d1627e02bcc054437e633e6fa0&amp;chksm=8022a18db755289b34c566bcd157cbac7a4a042cb1670fe639f1be3e26e45596ffe420da8875#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616844&amp;idx=1&amp;sn=97e0d4d1627e02bcc054437e633e6fa0&amp;chksm=8022a18db755289b34c566bcd157cbac7a4a042cb1670fe639f1be3e26e45596ffe420da8875#rd"/>
         <updated>2023-09-20T16:00:00.000Z</updated>
         <published>2023-09-20T16:00:00.000Z</published>
     </entry>
