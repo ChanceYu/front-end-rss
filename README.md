@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-06 06:00:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-06 18:00:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657) ![](/assets/new.png)  
+- [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
@@ -569,11 +569,12 @@
 </summary>
 
 
+- [2023-10-06-8个实现网站滚动效果的-CSS-&amp;-JavaScript-代码](http://www.yyyweb.com/5540.html) ![](/assets/new.png)  
 - [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html)  
 - [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
-- [2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html)  
-- [2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html)  
 - [2023-09-02-10-个图像悬停效果-CSS-&amp;-JavaScript-代码片段](http://www.yyyweb.com/5531.html)  
+- [2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html)  
+- [2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html)  
 - [2023-08-30-你应该立即停止使用-lodash-webpack-plugin](http://www.yyyweb.com/5525.html)  
 - [2023-08-20-彻底搞懂-package.json-中的-exports,-main,-module,-type](http://www.yyyweb.com/5522.html)  
 - [2023-08-19-Mac-环境快速安装-Homebrew-&amp;-Nginx-教程](http://www.yyyweb.com/5518.html)  
@@ -584,11 +585,10 @@
 - [2023-02-26-最全的-“文本溢出截断省略”-CSS-&amp;-JS-方案](http://www.yyyweb.com/5506.html)  
 - [2023-02-11-8个-CSS-&amp;-JavaScript-实现的相册特效](http://www.yyyweb.com/5504.html)  
 - [2023-02-07-【火爆全网】OpenAI-ChatGPT-账号注册攻略！](http://www.yyyweb.com/5494.html)  
-- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html)  
-- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html)  
 - [2023-02-06-Web-Components-入门教程【实例】](http://www.yyyweb.com/5491.html)  
+- [2023-02-06-如何基于-Web-Components-开发-UI-组件库](http://www.yyyweb.com/5492.html)  
+- [2023-02-06-15款用于设计数字的最佳数字字体](http://www.yyyweb.com/5502.html)  
 - [2023-02-04-什么是比较好的低代码产品？](http://www.yyyweb.com/5487.html)  
-- [2023-01-14-【收藏】2022-年值得推荐的那些-Vue-库！](http://www.yyyweb.com/5485.html)  
 - [......【查看更多】......](/details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

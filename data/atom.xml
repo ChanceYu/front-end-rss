@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-05T22:00:41.566Z</updated>
+    <updated>2023-10-06T10:00:36.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[8个实现网站滚动效果的 CSS & JavaScript 代码]]></title>
+        <id>http://www.yyyweb.com/5540.html</id>
+        <link href="http://www.yyyweb.com/5540.html"/>
+        <updated>2023-10-05T16:00:00.000Z</updated>
+        <published>2023-10-05T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing test assertion styles in JavaScript]]></title>
         <id>https://javascriptweekly.com/issues/657</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[推荐11个yyds微信小程序开源项目]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=2&amp;sn=2a455c4292c37cb468d95ad63ec9949b&amp;chksm=f99287f0cee50ee61abae116012c7caf329459595d03b18f40a02b9b0feff0ccd91df9eb91c6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=2&amp;sn=2a455c4292c37cb468d95ad63ec9949b&amp;chksm=f99287f0cee50ee61abae116012c7caf329459595d03b18f40a02b9b0feff0ccd91df9eb91c6#rd"/>
-        <updated>2023-09-20T16:00:00.000Z</updated>
-        <published>2023-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏幕适配的两种方案，超详细！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616844&amp;idx=2&amp;sn=1fbd62e7a1ac7d467a6a9f78a5b07a41&amp;chksm=8022a18db755289bbb38fde151b982ea765d3e45fd220f0ba154de2dd1060c53f646dd6ca545#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616844&amp;idx=2&amp;sn=1fbd62e7a1ac7d467a6a9f78a5b07a41&amp;chksm=8022a18db755289bbb38fde151b982ea765d3e45fd220f0ba154de2dd1060c53f646dd6ca545#rd"/>
         <updated>2023-09-20T16:00:00.000Z</updated>
         <published>2023-09-20T16:00:00.000Z</published>
     </entry>
