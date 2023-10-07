@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-06 18:00:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-08 06:00:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,12 +26,12 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -414,6 +414,7 @@
 </summary>
 
 
+- [2023-10-06-尤雨溪：Vite-的现状与未来展望](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514149&idx=1&sn=63ebe98ecc06a297df6253a307481471&chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd) ![](/assets/new.png)  
 - [2023-09-28-Vue.js-和-Vite-之父：Evan-You从谷歌工程师到开源先锋的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514146&idx=1&sn=4441fbba6e2daef11cb85f427f81ea7d&chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd)  
 - [2023-09-27-启动-React-APP-后，源码中经历了哪些过程？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514137&idx=1&sn=7b17b1d0e61942f45f3a2d6c0a26b754&chksm=eb078060dc700976d95796b1d7dc16cff2f181d38e8635fc0d4730aadf162c2c4bfc2582d0d9#rd)  
 - [2023-09-26-编写跨运行时的-JavaScript-程序](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514131&idx=1&sn=41772b16dd7cbfdc6a7a453c86065f30&chksm=eb07806adc70097c4f2d7342a844261a55c50f94e04e31cceb402fef545a52fe4d465ba83577#rd)  
@@ -433,7 +434,6 @@
 - [2023-09-05-我在美团三年的前端工程化实践回顾](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513909&idx=1&sn=8e1c8e838015bf10e9114c30c6d18d52&chksm=eb078f4cdc70065a37db4636a3969434f1f263beb11212f085abc05aa7e3617cfa6bb7837cf0#rd)  
 - [2023-09-04-9月准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513905&idx=1&sn=a30832f8ed306f04f99fe828d365f872&chksm=eb078f48dc70065e5686fe7db39fa7c544f458c92a22ad8c81bd4bc5599eee3ff209c7489ecf#rd)  
 - [2023-09-02-htmx：我们已经有了超文本，让-JavaScript-走人吧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513887&idx=1&sn=d93b9a52f59ff34585e2578f33fc3d9b&chksm=eb078f66dc700670738d2979e2ace6a622647d86af6131bef024c095a3dbb6c56441664f6507#rd)  
-- [2023-09-01-十多年程序员差点被骗十多万](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513882&idx=1&sn=a721291d4c6aa94b009626023e1b2380&chksm=eb078f63dc700675bf2d97646061815152ae58a89efee2eb48b726282e3a95962054a1742570#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -569,7 +569,7 @@
 </summary>
 
 
-- [2023-10-06-8个实现网站滚动效果的-CSS-&amp;-JavaScript-代码](http://www.yyyweb.com/5540.html) ![](/assets/new.png)  
+- [2023-10-06-8个实现网站滚动效果的-CSS-&amp;-JavaScript-代码](http://www.yyyweb.com/5540.html)  
 - [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html)  
 - [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
 - [2023-09-02-10-个图像悬停效果-CSS-&amp;-JavaScript-代码片段](http://www.yyyweb.com/5531.html)  

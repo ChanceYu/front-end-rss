@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-06T10:00:36.911Z</updated>
+    <updated>2023-10-07T22:00:56.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[8个实现网站滚动效果的 CSS & JavaScript 代码]]></title>
         <id>http://www.yyyweb.com/5540.html</id>
         <link href="http://www.yyyweb.com/5540.html"/>
+        <updated>2023-10-05T16:00:00.000Z</updated>
+        <published>2023-10-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：Vite 的现状与未来展望]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514149&amp;idx=1&amp;sn=63ebe98ecc06a297df6253a307481471&amp;chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514149&amp;idx=1&amp;sn=63ebe98ecc06a297df6253a307481471&amp;chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd"/>
         <updated>2023-10-05T16:00:00.000Z</updated>
         <published>2023-10-05T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[这可能是我见过最好最全的JavaScript题库！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=1&amp;sn=94b17fbb4b9c17789be53092523015b0&amp;chksm=f99287f0cee50ee63c2a10e7c10e619f34b4c21a8003b23780eb0533b8bc74a826cacf15b044#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=1&amp;sn=94b17fbb4b9c17789be53092523015b0&amp;chksm=f99287f0cee50ee63c2a10e7c10e619f34b4c21a8003b23780eb0533b8bc74a826cacf15b044#rd"/>
-        <updated>2023-09-20T16:00:00.000Z</updated>
-        <published>2023-09-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推荐11个yyds微信小程序开源项目]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=2&amp;sn=2a455c4292c37cb468d95ad63ec9949b&amp;chksm=f99287f0cee50ee61abae116012c7caf329459595d03b18f40a02b9b0feff0ccd91df9eb91c6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=2&amp;sn=2a455c4292c37cb468d95ad63ec9949b&amp;chksm=f99287f0cee50ee61abae116012c7caf329459595d03b18f40a02b9b0feff0ccd91df9eb91c6#rd"/>
         <updated>2023-09-20T16:00:00.000Z</updated>
         <published>2023-09-20T16:00:00.000Z</published>
     </entry>
