@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-07T22:00:56.464Z</updated>
+    <updated>2023-10-08T22:00:38.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[八股文背烂也没用，面试官早改套路了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514164&amp;idx=1&amp;sn=95956bf1f2ffbf8906a0d84661da2b99&amp;chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514164&amp;idx=1&amp;sn=95956bf1f2ffbf8906a0d84661da2b99&amp;chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd"/>
+        <updated>2023-10-07T16:00:00.000Z</updated>
+        <published>2023-10-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8个实现网站滚动效果的 CSS & JavaScript 代码]]></title>
         <id>http://www.yyyweb.com/5540.html</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266000&amp;idx=1&amp;sn=3b08d726add972108d673d440ed9697a&amp;chksm=bd48c2548a3f4b42ee00b6d5dfb34ccf579ceab7ae5513a18d322da113f1285f8e4e3350a420#rd"/>
         <updated>2023-09-21T16:00:00.000Z</updated>
         <published>2023-09-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这可能是我见过最好最全的JavaScript题库！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=1&amp;sn=94b17fbb4b9c17789be53092523015b0&amp;chksm=f99287f0cee50ee63c2a10e7c10e619f34b4c21a8003b23780eb0533b8bc74a826cacf15b044#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516449&amp;idx=1&amp;sn=94b17fbb4b9c17789be53092523015b0&amp;chksm=f99287f0cee50ee63c2a10e7c10e619f34b4c21a8003b23780eb0533b8bc74a826cacf15b044#rd"/>
-        <updated>2023-09-20T16:00:00.000Z</updated>
-        <published>2023-09-20T16:00:00.000Z</published>
     </entry>
 </feed>
