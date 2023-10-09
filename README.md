@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-09 06:00:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-09 23:06:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,10 +26,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-10-08-八股文背烂也没用，面试官早改套路了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514164&idx=1&sn=95956bf1f2ffbf8906a0d84661da2b99&chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd) ![](/assets/new.png)  
+- [2023-10-08-八股文背烂也没用，面试官早改套路了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514164&idx=1&sn=95956bf1f2ffbf8906a0d84661da2b99&chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd)  
 - [2023-10-06-尤雨溪：Vite-的现状与未来展望](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514149&idx=1&sn=63ebe98ecc06a297df6253a307481471&chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd)  
 - [2023-09-28-Vue.js-和-Vite-之父：Evan-You从谷歌工程师到开源先锋的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514146&idx=1&sn=4441fbba6e2daef11cb85f427f81ea7d&chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd)  
 - [2023-09-27-启动-React-APP-后，源码中经历了哪些过程？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514137&idx=1&sn=7b17b1d0e61942f45f3a2d6c0a26b754&chksm=eb078060dc700976d95796b1d7dc16cff2f181d38e8635fc0d4730aadf162c2c4bfc2582d0d9#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/) ![](/assets/new.png)  
 - [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)  
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  
 - [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
@@ -526,7 +527,6 @@
 - [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)  
 - [2023-05-07-使用ImageDecoder-API让GIF图片暂停播放](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/)  
 - [2023-04-23-AI代码辅助工具codeium和copilot在前端表现对比](https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/)  
-- [2023-03-24-CSS又出了个revert-layer全局关键字😂](https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
