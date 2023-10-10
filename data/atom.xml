@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-10T15:01:32.046Z</updated>
+    <updated>2023-10-10T22:01:02.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -97,6 +97,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616900&amp;idx=1&amp;sn=5de08cdeed22d3d1b7d20caaea543be8&amp;chksm=8022a145b7552853fa452d091f4eb81371e2779df989438c08573db3fbd61b07804e38687795#rd"/>
         <updated>2023-10-08T16:00:00.000Z</updated>
         <published>2023-10-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 进度条]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488264&amp;idx=1&amp;sn=4d35538a8ff2566aa121933f2c4773ea&amp;chksm=97c670c7a0b1f9d161fdef6dd0b0b45cc9dab7fd2083b60d1e84e4006355cf452b6b5aa7d895#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488264&amp;idx=1&amp;sn=4d35538a8ff2566aa121933f2c4773ea&amp;chksm=97c670c7a0b1f9d161fdef6dd0b0b45cc9dab7fd2083b60d1e84e4006355cf452b6b5aa7d895#rd"/>
+        <updated>2023-10-07T16:00:00.000Z</updated>
+        <published>2023-10-07T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[八股文背烂也没用，面试官早改套路了。。。]]></title>
@@ -330,6 +337,13 @@
         <published>2023-09-25T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CSS mask 与 切图艺术]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488249&amp;idx=1&amp;sn=07a9d393a70b7907d37758261d50def3&amp;chksm=97c67136a0b1f8201db669d07559e68c1191a625937baf43f7d5ba21c3de3b706aa546ab0442#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488249&amp;idx=1&amp;sn=07a9d393a70b7907d37758261d50def3&amp;chksm=97c67136a0b1f8201db669d07559e68c1191a625937baf43f7d5ba21c3de3b706aa546ab0442#rd"/>
+        <updated>2023-09-24T16:00:00.000Z</updated>
+        <published>2023-09-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[太顶了！还得是前端…]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514130&amp;idx=1&amp;sn=69996e0f5b0cf0b81651e400d4a80f50&amp;chksm=eb07806bdc70097d423c9cf1ad266d684d2bc1036f2b8ff57cedc024c2a29d708ee77de04cec#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514130&amp;idx=1&amp;sn=69996e0f5b0cf0b81651e400d4a80f50&amp;chksm=eb07806bdc70097d423c9cf1ad266d684d2bc1036f2b8ff57cedc024c2a29d708ee77de04cec#rd"/>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[45k*15薪，字节小姐姐的超强前端面经曝光！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516470&amp;idx=1&amp;sn=c232c621126b196b32068ae2d1697727&amp;chksm=f99287e7cee50ef19d5fb894853850ca3adf05ffbf7a9aa7387c59304ae867a953f5534b2df2#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516470&amp;idx=1&amp;sn=c232c621126b196b32068ae2d1697727&amp;chksm=f99287e7cee50ef19d5fb894853850ca3adf05ffbf7a9aa7387c59304ae867a953f5534b2df2#rd"/>
-        <updated>2023-09-24T16:00:00.000Z</updated>
-        <published>2023-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取代 Vue 和 React？25 年码龄程序员不满 Web 开发现状创建新框架 Nue JS，能减少 90% 代码量！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522377&amp;idx=1&amp;sn=b44b807face3cabadecc49b80f5b35a1&amp;chksm=f9522d0ace25a41c3747a80dc4002f2f887ca0f261a3d48609d901a8cba388d4b40b0c000bff#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522377&amp;idx=1&amp;sn=b44b807face3cabadecc49b80f5b35a1&amp;chksm=f9522d0ace25a41c3747a80dc4002f2f887ca0f261a3d48609d901a8cba388d4b40b0c000bff#rd"/>
-        <updated>2023-09-24T16:00:00.000Z</updated>
-        <published>2023-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[也许跟大家不太一样,我是这么用TypeScript来写前端的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616859&amp;idx=2&amp;sn=441e5bfd7fefe09e46396b4ec99529a5&amp;chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616859&amp;idx=2&amp;sn=441e5bfd7fefe09e46396b4ec99529a5&amp;chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd"/>
         <updated>2023-09-24T16:00:00.000Z</updated>
         <published>2023-09-24T16:00:00.000Z</published>
     </entry>
