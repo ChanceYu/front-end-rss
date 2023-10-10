@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-10T13:01:03.470Z</updated>
+    <updated>2023-10-10T15:01:32.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[纯JS实现多个音频的拼接或者合并]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/"/>
+        <updated>2023-10-09T16:00:00.000Z</updated>
+        <published>2023-10-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 类型系统中一个巧妙的设计]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[也许跟大家不太一样,我是这么用TypeScript来写前端的]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616859&amp;idx=2&amp;sn=441e5bfd7fefe09e46396b4ec99529a5&amp;chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616859&amp;idx=2&amp;sn=441e5bfd7fefe09e46396b4ec99529a5&amp;chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd"/>
-        <updated>2023-09-24T16:00:00.000Z</updated>
-        <published>2023-09-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来公司半年了，我做了哪些优化，能让老板对我刮目相看~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616859&amp;idx=1&amp;sn=07fab9ce5f18e86f798cdfd68628a710&amp;chksm=8022a19ab755288c79c87c2f2bd4b8de2986bb83132c01a0dc9b1d49b986c737f49b1b4d192c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616859&amp;idx=1&amp;sn=07fab9ce5f18e86f798cdfd68628a710&amp;chksm=8022a19ab755288c79c87c2f2bd4b8de2986bb83132c01a0dc9b1d49b986c737f49b1b4d192c#rd"/>
         <updated>2023-09-24T16:00:00.000Z</updated>
         <published>2023-09-24T16:00:00.000Z</published>
     </entry>
