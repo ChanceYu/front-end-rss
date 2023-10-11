@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-11T15:01:22.303Z</updated>
+    <updated>2023-10-11T22:01:04.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS 实现一个高光按钮]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488279&amp;idx=1&amp;sn=d9ecf0cd4d8ff0c6c24111cba0ae93f8&amp;chksm=97c670d8a0b1f9ce388acc5ab16eb3af5e9c65dfb9bd94d12c579240c50b94c1782106df2d17#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488279&amp;idx=1&amp;sn=d9ecf0cd4d8ff0c6c24111cba0ae93f8&amp;chksm=97c670d8a0b1f9ce388acc5ab16eb3af5e9c65dfb9bd94d12c579240c50b94c1782106df2d17#rd"/>
+        <updated>2023-10-10T16:00:00.000Z</updated>
+        <published>2023-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源前端框架 NanUI 作者转行卖钢材：“很遗憾，项目将暂停开发”]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514192&amp;idx=1&amp;sn=015d61e3029fb3aad6b43739855f2b83&amp;chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514192&amp;idx=1&amp;sn=015d61e3029fb3aad6b43739855f2b83&amp;chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd"/>
         <updated>2023-10-10T16:00:00.000Z</updated>
         <published>2023-10-10T16:00:00.000Z</published>
     </entry>
@@ -71,16 +78,16 @@
         <published>2023-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 类型系统中一个巧妙的设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd"/>
+        <title type="html"><![CDATA[yyds！懂行的前端人都开始用AI搞钱了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd"/>
         <updated>2023-10-09T16:00:00.000Z</updated>
         <published>2023-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[yyds！懂行的前端人都开始用AI搞钱了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd"/>
+        <title type="html"><![CDATA[TypeScript 类型系统中一个巧妙的设计]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd"/>
         <updated>2023-10-09T16:00:00.000Z</updated>
         <published>2023-10-09T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[解决import导入顺序杂乱无章的问题]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516513&amp;idx=1&amp;sn=54cb1fa096a8c6d0e6974a3df44608a4&amp;chksm=f99287b0cee50ea64b3b95554ee90a771c9c2d0de48ada5c5d912bfca89d1ea6f8ec4da2d328#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516513&amp;idx=1&amp;sn=54cb1fa096a8c6d0e6974a3df44608a4&amp;chksm=f99287b0cee50ea64b3b95554ee90a771c9c2d0de48ada5c5d912bfca89d1ea6f8ec4da2d328#rd"/>
-        <updated>2023-09-26T16:00:00.000Z</updated>
-        <published>2023-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 2023 版本发布：加速 JavaScript 开发]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522384&amp;idx=1&amp;sn=9a73d6a43e0377e0b0efd4bdfb717a4b&amp;chksm=f9522d13ce25a4057ea0a47f2c1d29ba40a1b2ef7720a33eecda248037defb5ddd531bef9d11#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522384&amp;idx=1&amp;sn=9a73d6a43e0377e0b0efd4bdfb717a4b&amp;chksm=f9522d13ce25a4057ea0a47f2c1d29ba40a1b2ef7720a33eecda248037defb5ddd531bef9d11#rd"/>
         <updated>2023-09-26T16:00:00.000Z</updated>
         <published>2023-09-26T16:00:00.000Z</published>
     </entry>
