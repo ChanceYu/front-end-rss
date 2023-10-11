@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-11T07:01:34.276Z</updated>
+    <updated>2023-10-11T13:00:41.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[详解 Module Federation 的实现原理]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516565&amp;idx=2&amp;sn=31505c66c008ecede036ae0165af5d76&amp;chksm=f9928744cee50e52d715d3f62a58c1206bc270b4776f99b2b117c44f3b92019483e972dee50e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516565&amp;idx=2&amp;sn=31505c66c008ecede036ae0165af5d76&amp;chksm=f9928744cee50e52d715d3f62a58c1206bc270b4776f99b2b117c44f3b92019483e972dee50e#rd"/>
+        <updated>2023-10-10T16:00:00.000Z</updated>
+        <published>2023-10-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为云开源低代码引擎 TinyEngine 正式发布]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522455&amp;idx=1&amp;sn=c3f50f90332f970c73ab5888e7394c64&amp;chksm=f9522dd4ce25a4c2fd1cdb151e098780544061ef40909f1ba3c649f81e739849a0e95c0c0429#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522455&amp;idx=1&amp;sn=c3f50f90332f970c73ab5888e7394c64&amp;chksm=f9522dd4ce25a4c2fd1cdb151e098780544061ef40909f1ba3c649f81e739849a0e95c0c0429#rd"/>
         <updated>2023-10-10T16:00:00.000Z</updated>
         <published>2023-10-10T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[太顶了！还得是前端…]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616870&amp;idx=1&amp;sn=7aad922e70a43c5ed3b8617f5054a6fc&amp;chksm=8022a1a7b75528b194fe6066bab4f71800ddab4d8eabad8508c32137740d14dba4247c030e53#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616870&amp;idx=1&amp;sn=7aad922e70a43c5ed3b8617f5054a6fc&amp;chksm=8022a1a7b75528b194fe6066bab4f71800ddab4d8eabad8508c32137740d14dba4247c030e53#rd"/>
-        <updated>2023-09-26T16:00:00.000Z</updated>
-        <published>2023-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 个杀手级的 JS 一行代码]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616870&amp;idx=2&amp;sn=941fbaf48443f68e4454d3f735e43441&amp;chksm=8022a1a7b75528b13fe47c974af57561d715ede12945abd8483cae814a08582c8db80a440353#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616870&amp;idx=2&amp;sn=941fbaf48443f68e4454d3f735e43441&amp;chksm=8022a1a7b75528b13fe47c974af57561d715ede12945abd8483cae814a08582c8db80a440353#rd"/>
         <updated>2023-09-26T16:00:00.000Z</updated>
         <published>2023-09-26T16:00:00.000Z</published>
     </entry>
