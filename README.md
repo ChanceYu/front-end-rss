@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-12 06:01:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-12 21:02:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658) ![](/assets/new.png)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
@@ -92,7 +93,6 @@
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
 - [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
-- [2023-05-11-Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-10-11-开源前端框架-NanUI-作者转行卖钢材：“很遗憾，项目将暂停开发”](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514192&idx=1&sn=015d61e3029fb3aad6b43739855f2b83&chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd) ![](/assets/new.png)  
+- [2023-10-11-开源前端框架-NanUI-作者转行卖钢材：“很遗憾，项目将暂停开发”](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514192&idx=1&sn=015d61e3029fb3aad6b43739855f2b83&chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd)  
 - [2023-10-10-TypeScript-类型系统中一个巧妙的设计](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514179&idx=2&sn=787d38bf8325b916959422d188d80fb2&chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd)  
 - [2023-10-10-yyds！懂行的前端人都开始用AI搞钱了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514179&idx=1&sn=a9d65192089b01d5c26d4e95021c3550&chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd)  
 - [2023-10-09-网易云音乐-Tango-低代码引擎实现揭秘](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514167&idx=1&sn=89d779430cc35ea8978a2d7330705954&chksm=eb07804edc7009588310abf2163c1df48542fcfe1a17f446b85deb0114d12c8faa27e31e057d#rd)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-10-06 06:00:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-12 21:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658) 
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655) 

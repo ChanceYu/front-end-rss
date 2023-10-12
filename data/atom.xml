@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-11T22:01:04.045Z</updated>
+    <updated>2023-10-12T13:02:13.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Fluid simulation in JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/658</id>
+        <link href="https://javascriptweekly.com/issues/658"/>
+        <updated>2023-10-11T16:00:00.000Z</updated>
+        <published>2023-10-11T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS 实现一个高光按钮]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488279&amp;idx=1&amp;sn=d9ecf0cd4d8ff0c6c24111cba0ae93f8&amp;chksm=97c670d8a0b1f9ce388acc5ab16eb3af5e9c65dfb9bd94d12c579240c50b94c1782106df2d17#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Async 是如何被 JavaScript 实现的]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516513&amp;idx=2&amp;sn=1561b772fddd6ff626a65490c222f980&amp;chksm=f99287b0cee50ea629ec1f128a04e5883efcc7a23530e7ad684d21cf75a7b75b2428bec76d97#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516513&amp;idx=2&amp;sn=1561b772fddd6ff626a65490c222f980&amp;chksm=f99287b0cee50ea629ec1f128a04e5883efcc7a23530e7ad684d21cf75a7b75b2428bec76d97#rd"/>
-        <updated>2023-09-26T16:00:00.000Z</updated>
-        <published>2023-09-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决import导入顺序杂乱无章的问题]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516513&amp;idx=1&amp;sn=54cb1fa096a8c6d0e6974a3df44608a4&amp;chksm=f99287b0cee50ea64b3b95554ee90a771c9c2d0de48ada5c5d912bfca89d1ea6f8ec4da2d328#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516513&amp;idx=1&amp;sn=54cb1fa096a8c6d0e6974a3df44608a4&amp;chksm=f99287b0cee50ea64b3b95554ee90a771c9c2d0de48ada5c5d912bfca89d1ea6f8ec4da2d328#rd"/>
         <updated>2023-09-26T16:00:00.000Z</updated>
         <published>2023-09-26T16:00:00.000Z</published>
     </entry>
