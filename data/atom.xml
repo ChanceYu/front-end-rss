@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-13T10:00:44.424Z</updated>
+    <updated>2023-10-13T15:00:43.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 273 期）：任正非的三篇最新谈话]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html"/>
+        <updated>2023-10-12T16:00:00.000Z</updated>
+        <published>2023-10-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面了一个26岁前端女生，真的有被震惊到！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496852&amp;idx=1&amp;sn=fdc3c9c1abf4f8313563a8a5a6cfd5c8&amp;chksm=ce269762f9511e7475437a07621336e63df447c763de0ccd4c565acee002528c575780fb6421#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496852&amp;idx=1&amp;sn=fdc3c9c1abf4f8313563a8a5a6cfd5c8&amp;chksm=ce269762f9511e7475437a07621336e63df447c763de0ccd4c565acee002528c575780fb6421#rd"/>
         <updated>2023-10-12T16:00:00.000Z</updated>
         <published>2023-10-12T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：Vite 的现状与未来展望]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514149&amp;idx=1&amp;sn=63ebe98ecc06a297df6253a307481471&amp;chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514149&amp;idx=1&amp;sn=63ebe98ecc06a297df6253a307481471&amp;chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd"/>
-        <updated>2023-10-05T16:00:00.000Z</updated>
-        <published>2023-10-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 和 Vue 全方位对比总结]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516529&amp;idx=1&amp;sn=1157f6ced87cb0d159bf92884478ff5b&amp;chksm=f99287a0cee50eb6d06069b22e8faa8375e6593bc7fc17712548dd1b5433cc50301418d20ba4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516529&amp;idx=1&amp;sn=1157f6ced87cb0d159bf92884478ff5b&amp;chksm=f99287a0cee50eb6d06069b22e8faa8375e6593bc7fc17712548dd1b5433cc50301418d20ba4#rd"/>
         <updated>2023-10-05T16:00:00.000Z</updated>
         <published>2023-10-05T16:00:00.000Z</published>
     </entry>
