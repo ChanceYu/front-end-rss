@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-13T00:00:43.930Z</updated>
+    <updated>2023-10-13T02:00:44.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 273 期）：任正非的三篇最新谈话]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html"/>
+        <updated>2023-10-12T16:00:00.000Z</updated>
+        <published>2023-10-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue.js 和 Vite 之父：Evan You从谷歌工程师到开源先锋的故事]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514146&amp;idx=1&amp;sn=4441fbba6e2daef11cb85f427f81ea7d&amp;chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514146&amp;idx=1&amp;sn=4441fbba6e2daef11cb85f427f81ea7d&amp;chksm=eb07805bdc70094d4d669a5540a110931bee36da90bbf15eb93b3b45dd3af5881a7087389dda#rd"/>
-        <updated>2023-09-27T16:00:00.000Z</updated>
-        <published>2023-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte造了个“新轮子”，Vue：是懂对标的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616876&amp;idx=2&amp;sn=b2646821709dcbf46cf657f7757c7643&amp;chksm=8022a1adb75528bbb8cffc465807edfa8697126d28cd0861873eea2873b2f3865748a5960b15#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616876&amp;idx=2&amp;sn=b2646821709dcbf46cf657f7757c7643&amp;chksm=8022a1adb75528bbb8cffc465807edfa8697126d28cd0861873eea2873b2f3865748a5960b15#rd"/>
         <updated>2023-09-27T16:00:00.000Z</updated>
         <published>2023-09-27T16:00:00.000Z</published>
     </entry>

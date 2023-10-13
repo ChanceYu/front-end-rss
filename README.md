@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-13 08:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-13 10:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,7 +22,7 @@
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -290,7 +290,7 @@
 </summary>
 
 
-- [2023-10-12-让-CSS-官方后悔的一些决定](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496828&idx=1&sn=c1164608f35c24671f3b1a1613b6887e&chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd) ![](/assets/new.png)  
+- [2023-10-12-让-CSS-官方后悔的一些决定](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496828&idx=1&sn=c1164608f35c24671f3b1a1613b6887e&chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd)  
 - [2023-10-11-2023年前端开发岗现状](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496825&idx=1&sn=1361f8898be0f169d2c967bb0b292e4d&chksm=ce26978ff9511e99794f5f354f8d6670b7ddf50ace7e33a530201370465a5c707bf34ac6775c#rd)  
 - [2023-10-09-【动画进阶】神奇的背景，生化危机4日食Loading动画还原](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496813&idx=1&sn=c252a5ffe1708a9eb401dce303b887da&chksm=ce26979bf9511e8d2132908c3ac800d4402bff55e3c7497c9a7aedd6ec71e152aa454573a9d6#rd)  
 - [2023-10-07-Vite-的现状与未来展望](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496763&idx=1&sn=a7956d6447cf2abec401dcf7bc3d426b&chksm=ce2697cdf9511edbbbc00bbd6fb9f04134ccdd087c41246476d51f80a3668cd59963bd482b48#rd)  
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2023-10-13-科技爱好者周刊（第-273-期）：任正非的三篇最新谈话](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html) ![](/assets/new.png)  
 - [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
@@ -557,7 +558,6 @@
 - [2023-06-02-科技爱好者周刊（第-257-期）：黄仁勋的-Nvidia-故事](http://www.ruanyifeng.com/blog/2023/06/weekly-issue-257.html)  
 - [2023-05-26-科技爱好者周刊（第-256-期）：最酷的乐高作品](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-256.html)  
 - [2023-05-19-科技爱好者周刊（第-255-期）：对待-AI-的正确态度](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-255.html)  
-- [2023-05-12-科技爱好者周刊（第-254-期）：人生是一个长板问题](http://www.ruanyifeng.com/blog/2023/05/weekly-issue-254.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
