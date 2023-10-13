@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-12T22:01:45.378Z</updated>
+    <updated>2023-10-13T00:00:43.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd"/>
+        <updated>2023-10-11T16:00:00.000Z</updated>
+        <published>2023-10-11T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让 CSS 官方后悔的一些决定]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496828&amp;idx=1&amp;sn=c1164608f35c24671f3b1a1613b6887e&amp;chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496828&amp;idx=1&amp;sn=c1164608f35c24671f3b1a1613b6887e&amp;chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd"/>
         <updated>2023-10-11T16:00:00.000Z</updated>
         <published>2023-10-11T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Svelte造了个“新轮子”，Vue：是懂对标的]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616876&amp;idx=2&amp;sn=b2646821709dcbf46cf657f7757c7643&amp;chksm=8022a1adb75528bbb8cffc465807edfa8697126d28cd0861873eea2873b2f3865748a5960b15#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616876&amp;idx=2&amp;sn=b2646821709dcbf46cf657f7757c7643&amp;chksm=8022a1adb75528bbb8cffc465807edfa8697126d28cd0861873eea2873b2f3865748a5960b15#rd"/>
-        <updated>2023-09-27T16:00:00.000Z</updated>
-        <published>2023-09-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[取代 Vue 和 React？25 年码龄程序员不满 Web 现状创建新框架 Nue JS，能将代码量减少 10 倍！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616876&amp;idx=1&amp;sn=9d9e2e6f401512763c08713d64110263&amp;chksm=8022a1adb75528bb2ee3dcedc85ea7cf6d4d7bec880d0955d32a406a8ea444e630c8798c11ac#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616876&amp;idx=1&amp;sn=9d9e2e6f401512763c08713d64110263&amp;chksm=8022a1adb75528bb2ee3dcedc85ea7cf6d4d7bec880d0955d32a406a8ea444e630c8798c11ac#rd"/>
         <updated>2023-09-27T16:00:00.000Z</updated>
         <published>2023-09-27T16:00:00.000Z</published>
     </entry>
