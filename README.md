@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-14 06:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-14 08:00:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +18,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-10-13-放弃-React-改用-Web-组件，微软这次重构让开发者不解：没有任何意义](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522532&idx=1&sn=6152093826eb90a6d7f94ab92423a689&chksm=f9522da7ce25a4b15917fc243ff77fbf8a8d405f084e2868126f0a91342955cd48e3f474243a#rd) ![](/assets/new.png)  
 - [2023-10-11-华为云开源低代码引擎-TinyEngine-正式发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522455&idx=1&sn=c3f50f90332f970c73ab5888e7394c64&chksm=f9522dd4ce25a4c2fd1cdb151e098780544061ef40909f1ba3c649f81e739849a0e95c0c0429#rd)  
 - [2023-10-09-惊现十级漏洞！Electron中招，到底是谁的锅？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522453&idx=1&sn=a31dea01d1e76fe03e88c7f1a6d6bd41&chksm=f9522dd6ce25a4c03879a12f11b0817d7bf034cc00dee270ce5666801f39acd1bbadb5602ddd#rd)  
 - [2023-09-27-Node.js-2023-版本发布：加速-JavaScript-开发](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522384&idx=1&sn=9a73d6a43e0377e0b0efd4bdfb717a4b&chksm=f9522d13ce25a4057ea0a47f2c1d29ba40a1b2ef7720a33eecda248037defb5ddd531bef9d11#rd)  
@@ -185,7 +186,6 @@
 - [2023-08-25-2023年最受开发者欢迎的五大前端与后端技术](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522053&idx=1&sn=1b35c2409538b3eb1339a31206125776&chksm=f9522246ce25ab500b06f40a0969aeecc029ae3a79791d542e489cb3a8f61c15d7046f9755ef#rd)  
 - [2023-08-23-支持20+-App、100+业务场景，淘宝端计算平台架构设计与业务实践](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522050&idx=1&sn=b1a085e193d2d1c056e2b7b05282df6d&chksm=f9522241ce25ab575e9bf102cc655bc5fd5a4d978c843a9081a46835ab0c75034a4b36c9360a#rd)  
 - [2023-08-21-抽风预测五年后的Web发展，却被现实啪啪打脸](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521881&idx=1&sn=6e759f0acb0d7d039baa849b9f757573&chksm=f952231ace25aa0c617e0d7353d532258e5dd0dd9bedad9ba2d6e004b5460f968fa3abe15263#rd)  
-- [2023-08-18-JavaScript前景展望：值得期待的那些新功能](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521832&idx=1&sn=2b0d5c6696ecece319b902ff633e3178&chksm=f952236bce25aa7d635ed91cc1ae74a3531dad86125e15ab3123b4437fc27a951c53bd8b1ed7#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -570,7 +570,7 @@
 
 
 - [2023-10-06-8个实现网站滚动效果的-CSS-&amp;-JavaScript-代码](http://www.yyyweb.com/5540.html)  
-- [2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html) ![](/assets/new.png)  
+- [2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html)  
 - [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html)  
 - [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
 - [2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html)  
