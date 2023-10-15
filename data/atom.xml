@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-14T00:00:47.036Z</updated>
+    <updated>2023-10-15T22:00:48.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[我真的理解vue3的diff 了！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514218&amp;idx=1&amp;sn=3a023db4a84c863cff4ced21f36d99bb&amp;chksm=eb078013dc70090588ccc61c74bc0666c5f47540e8fcd4d7f9fb8a28bfef82bd5e966f4b855b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514218&amp;idx=1&amp;sn=3a023db4a84c863cff4ced21f36d99bb&amp;chksm=eb078013dc70090588ccc61c74bc0666c5f47540e8fcd4d7f9fb8a28bfef82bd5e966f4b855b#rd"/>
+        <updated>2023-10-14T16:00:00.000Z</updated>
+        <published>2023-10-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 273 期）：任正非的三篇最新谈话]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-273.html</id>
@@ -176,16 +183,16 @@
         <published>2023-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 类型系统中一个巧妙的设计]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd"/>
+        <title type="html"><![CDATA[yyds！懂行的前端人都开始用AI搞钱了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd"/>
         <updated>2023-10-09T16:00:00.000Z</updated>
         <published>2023-10-09T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[yyds！懂行的前端人都开始用AI搞钱了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=1&amp;sn=a9d65192089b01d5c26d4e95021c3550&amp;chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd"/>
+        <title type="html"><![CDATA[TypeScript 类型系统中一个巧妙的设计]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514179&amp;idx=2&amp;sn=787d38bf8325b916959422d188d80fb2&amp;chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd"/>
         <updated>2023-10-09T16:00:00.000Z</updated>
         <published>2023-10-09T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616887&amp;idx=2&amp;sn=3421cdded1db1b647b77c89248ca979c&amp;chksm=8022a1b6b75528a06deb869cacae034cfbbf8197e215ff17bd6dc95a29784fc1a9337fb72d0e#rd"/>
         <updated>2023-10-06T16:00:00.000Z</updated>
         <published>2023-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8个实现网站滚动效果的 CSS & JavaScript 代码]]></title>
-        <id>http://www.yyyweb.com/5540.html</id>
-        <link href="http://www.yyyweb.com/5540.html"/>
-        <updated>2023-10-05T16:00:00.000Z</updated>
-        <published>2023-10-05T16:00:00.000Z</published>
     </entry>
 </feed>
