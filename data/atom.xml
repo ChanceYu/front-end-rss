@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-16T02:00:50.591Z</updated>
+    <updated>2023-10-16T04:01:00.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS魔法！如何将任意CSS类型转换为数值？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488310&amp;idx=1&amp;sn=7f0359a4201e817598f3df5a56bb976d&amp;chksm=97c670f9a0b1f9effe031b07059b01450d78cb9b90769eb04fad00e630091987c26f7b110552#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488310&amp;idx=1&amp;sn=7f0359a4201e817598f3df5a56bb976d&amp;chksm=97c670f9a0b1f9effe031b07059b01450d78cb9b90769eb04fad00e630091987c26f7b110552#rd"/>
+        <updated>2023-10-15T16:00:00.000Z</updated>
+        <published>2023-10-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我真的理解vue3的diff 了！！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514218&amp;idx=1&amp;sn=3a023db4a84c863cff4ced21f36d99bb&amp;chksm=eb078013dc70090588ccc61c74bc0666c5f47540e8fcd4d7f9fb8a28bfef82bd5e966f4b855b#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3如何优雅的加载图片]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516539&amp;idx=2&amp;sn=ed2d575ed9138eb4624d77ecfc74af3f&amp;chksm=f99287aacee50ebc7b2c3b516b55066716ca97df519aac7b334d1608eda1df565025c5a5b831#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516539&amp;idx=2&amp;sn=ed2d575ed9138eb4624d77ecfc74af3f&amp;chksm=f99287aacee50ebc7b2c3b516b55066716ca97df519aac7b334d1608eda1df565025c5a5b831#rd"/>
-        <updated>2023-10-06T16:00:00.000Z</updated>
-        <published>2023-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3个超强的 Vue 项目终于开源了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516539&amp;idx=1&amp;sn=16e2c9cafa4091ab62a63a9d46fce316&amp;chksm=f99287aacee50ebc7c2f97c09d1c57c0a878951b86a17b6043f44451ee0996fc6c1bdf353f77#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516539&amp;idx=1&amp;sn=16e2c9cafa4091ab62a63a9d46fce316&amp;chksm=f99287aacee50ebc7c2f97c09d1c57c0a878951b86a17b6043f44451ee0996fc6c1bdf353f77#rd"/>
         <updated>2023-10-06T16:00:00.000Z</updated>
         <published>2023-10-06T16:00:00.000Z</published>
     </entry>
