@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-16T04:01:00.670Z</updated>
+    <updated>2023-10-16T07:00:41.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS魔法！如何将任意CSS类型转换为数值？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488310&amp;idx=1&amp;sn=7f0359a4201e817598f3df5a56bb976d&amp;chksm=97c670f9a0b1f9effe031b07059b01450d78cb9b90769eb04fad00e630091987c26f7b110552#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488310&amp;idx=1&amp;sn=7f0359a4201e817598f3df5a56bb976d&amp;chksm=97c670f9a0b1f9effe031b07059b01450d78cb9b90769eb04fad00e630091987c26f7b110552#rd"/>
+        <updated>2023-10-15T16:00:00.000Z</updated>
+        <published>2023-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精读《VisActor 数据可视化工具》]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487154&amp;idx=1&amp;sn=0439632d0d071f62a02b93d45c535927&amp;chksm=fc862878cbf1a16e491acb2f67139ac6016fbdb924f0c6b464f2cf3d6869e07ba2ea0a55d302#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487154&amp;idx=1&amp;sn=0439632d0d071f62a02b93d45c535927&amp;chksm=fc862878cbf1a16e491acb2f67139ac6016fbdb924f0c6b464f2cf3d6869e07ba2ea0a55d302#rd"/>
         <updated>2023-10-15T16:00:00.000Z</updated>
         <published>2023-10-15T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vite 的现状与未来展望]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496763&amp;idx=1&amp;sn=a7956d6447cf2abec401dcf7bc3d426b&amp;chksm=ce2697cdf9511edbbbc00bbd6fb9f04134ccdd087c41246476d51f80a3668cd59963bd482b48#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496763&amp;idx=1&amp;sn=a7956d6447cf2abec401dcf7bc3d426b&amp;chksm=ce2697cdf9511edbbbc00bbd6fb9f04134ccdd087c41246476d51f80a3668cd59963bd482b48#rd"/>
-        <updated>2023-10-06T16:00:00.000Z</updated>
-        <published>2023-10-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3如何优雅的加载图片]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516539&amp;idx=2&amp;sn=ed2d575ed9138eb4624d77ecfc74af3f&amp;chksm=f99287aacee50ebc7b2c3b516b55066716ca97df519aac7b334d1608eda1df565025c5a5b831#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516539&amp;idx=2&amp;sn=ed2d575ed9138eb4624d77ecfc74af3f&amp;chksm=f99287aacee50ebc7b2c3b516b55066716ca97df519aac7b334d1608eda1df565025c5a5b831#rd"/>
         <updated>2023-10-06T16:00:00.000Z</updated>
         <published>2023-10-06T16:00:00.000Z</published>
     </entry>

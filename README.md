@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-16 12:00:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-16 15:00:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)  
+- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -352,6 +352,7 @@
 </summary>
 
 
+- [2023-10-16-精读《VisActor-数据可视化工具》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487154&idx=1&sn=0439632d0d071f62a02b93d45c535927&chksm=fc862878cbf1a16e491acb2f67139ac6016fbdb924f0c6b464f2cf3d6869e07ba2ea0a55d302#rd) ![](/assets/new.png)  
 - [2023-08-28-精读《算法题---地下城游戏》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487140&idx=1&sn=5d852d38970d2bc8b85e36766e1069ec&chksm=fc86286ecbf1a178797d43b1038227095d67f1c82ffde95d0ab140aaa9583b1d8433741d2d55#rd)  
 - [2023-08-14-精读《算法题---最小覆盖子串》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487127&idx=1&sn=0aa1d42f299d150748e6981f597e2835&chksm=fc86285dcbf1a14bbf31eece2ac4e3bd2af2a41cb04c1c79ead23292a24a80c2fcdc0fea320c#rd)  
 - [2023-08-07-精读《算法题---统计可以被-K-整除的下标对数目》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487119&idx=1&sn=2c82baddcc55217e27a2bbfc0c227c60&chksm=fc862845cbf1a153de6301f5cecd42bf7c3db31acde004c9edc7f6281be7f6048f8211df778c#rd)  
@@ -361,17 +362,16 @@
 - [2023-05-29-可视化搭建---场景实战](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487080&idx=1&sn=5a7cec0d958434c282691c9e3cba30fa&chksm=fc8628a2cbf1a1b444bbb8158fdfb60bddfd8ea553c65b080bca453f98d692c9b905009d0e82#rd)  
 - [2023-05-22-可视化搭建---自动批处理与冻结](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487066&idx=1&sn=d19cd8962c9da8dbcb95b43d88f6261c&chksm=fc862890cbf1a186804f1f30178508f8c776e991363131434447bb4edaf8e74f8aea8071ce6f#rd)  
 - [2023-05-08-ComponentLoader-与动态组件](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487055&idx=1&sn=abb5791cc6eb4cd24d13ae69fbd94e3e&chksm=fc862885cbf1a1933c20caeb22448f2588a3ed09c3b9a0c8bab2e6c79fca5bdf9697e716190e#rd)  
-- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw)  
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
-- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s/1fYO__dfUy2MIjHi3IJrmg)  
+- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw)  
 - [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
-- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s/0jHFnqGGCVIknst0tRczvw)  
+- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s/1fYO__dfUy2MIjHi3IJrmg)  
 - [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487015&idx=1&sn=02681fc1f9812ec4257faa1e9a299b51&chksm=fc8628edcbf1a1fb23c369d62a811c367c30d298da710a457b524c05ac7c41323172c57e6684#rd)  
-- [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s/gNCxpxuPRp7R7qna5U4aJg)  
+- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s/0jHFnqGGCVIknst0tRczvw)  
 - [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487002&idx=1&sn=3c110690a1af986a15a4cd26ea4b6c9c&chksm=fc8628d0cbf1a1c646167fd2e2665d29454a3b79460a18a1d10a283fcd4edb3cfaf64bb1560a#rd)  
+- [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s/gNCxpxuPRp7R7qna5U4aJg)  
 - [2023-02-27-可视化搭建---组件值与联动](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486990&idx=1&sn=6b0896fc593b55941cabe86d28c2fd11&chksm=fc8628c4cbf1a1d2a39ef6502652f7f7ea479d13f1f1a21a0a1a725b899d78499a9f0f6ff620#rd)  
 - [2023-02-20-可视化搭建---容器组件设计](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486977&idx=1&sn=2dd54d4963d3eaa7d4030050e023b525&chksm=fc8628cbcbf1a1ddcb965bf43a94c49f82b4f874d619a42823e06d0a85153ac0d035cb52a866#rd)  
-- [2023-02-13-可视化搭建内置-API](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486965&idx=1&sn=7873bf82e38620d53beb626eb75b4c49&chksm=fc862b3fcbf1a229d4982c53c8785ce9ef4f4fdc9170eb52808514f5935358b7d16e57033043#rd)  
 - [......【查看更多】......](/details/前端精读评论.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -445,7 +445,7 @@
 </summary>
 
 
-- [2023-10-16-CSS魔法！如何将任意CSS类型转换为数值？](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488310&idx=1&sn=7f0359a4201e817598f3df5a56bb976d&chksm=97c670f9a0b1f9effe031b07059b01450d78cb9b90769eb04fad00e630091987c26f7b110552#rd) ![](/assets/new.png)  
+- [2023-10-16-CSS魔法！如何将任意CSS类型转换为数值？](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488310&idx=1&sn=7f0359a4201e817598f3df5a56bb976d&chksm=97c670f9a0b1f9effe031b07059b01450d78cb9b90769eb04fad00e630091987c26f7b110552#rd)  
 - [2023-10-11-CSS-实现一个高光按钮](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488279&idx=1&sn=d9ecf0cd4d8ff0c6c24111cba0ae93f8&chksm=97c670d8a0b1f9ce388acc5ab16eb3af5e9c65dfb9bd94d12c579240c50b94c1782106df2d17#rd)  
 - [2023-10-08-CSS-进度条](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488264&idx=1&sn=4d35538a8ff2566aa121933f2c4773ea&chksm=97c670c7a0b1f9d161fdef6dd0b0b45cc9dab7fd2083b60d1e84e4006355cf452b6b5aa7d895#rd)  
 - [2023-09-25-CSS-mask-与-切图艺术](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488249&idx=1&sn=07a9d393a70b7907d37758261d50def3&chksm=97c67136a0b1f8201db669d07559e68c1191a625937baf43f7d5ba21c3de3b706aa546ab0442#rd)  
