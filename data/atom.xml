@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-16T22:00:42.097Z</updated>
+    <updated>2023-10-17T00:01:52.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[精读《VisActor 数据可视化工具》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487154&amp;idx=1&amp;sn=0439632d0d071f62a02b93d45c535927&amp;chksm=fc862878cbf1a16e491acb2f67139ac6016fbdb924f0c6b464f2cf3d6869e07ba2ea0a55d302#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487154&amp;idx=1&amp;sn=0439632d0d071f62a02b93d45c535927&amp;chksm=fc862878cbf1a16e491acb2f67139ac6016fbdb924f0c6b464f2cf3d6869e07ba2ea0a55d302#rd"/>
+        <updated>2023-10-15T16:00:00.000Z</updated>
+        <published>2023-10-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS魔法！如何将任意CSS类型转换为数值？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496861&amp;idx=1&amp;sn=41c5fc63a61963d2b3f00f2a7bcf82fb&amp;chksm=ce26976bf9511e7d6be4fbb5d05d2c41d65186191418ab9ca5c676884e277704c4a8c92e380e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496861&amp;idx=1&amp;sn=41c5fc63a61963d2b3f00f2a7bcf82fb&amp;chksm=ce26976bf9511e7d6be4fbb5d05d2c41d65186191418ab9ca5c676884e277704c4a8c92e380e#rd"/>
         <updated>2023-10-15T16:00:00.000Z</updated>
         <published>2023-10-15T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS 进度条]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488264&amp;idx=1&amp;sn=4d35538a8ff2566aa121933f2c4773ea&amp;chksm=97c670c7a0b1f9d161fdef6dd0b0b45cc9dab7fd2083b60d1e84e4006355cf452b6b5aa7d895#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488264&amp;idx=1&amp;sn=4d35538a8ff2566aa121933f2c4773ea&amp;chksm=97c670c7a0b1f9d161fdef6dd0b0b45cc9dab7fd2083b60d1e84e4006355cf452b6b5aa7d895#rd"/>
-        <updated>2023-10-07T16:00:00.000Z</updated>
-        <published>2023-10-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[八股文背烂也没用，面试官早改套路了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514164&amp;idx=1&amp;sn=95956bf1f2ffbf8906a0d84661da2b99&amp;chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514164&amp;idx=1&amp;sn=95956bf1f2ffbf8906a0d84661da2b99&amp;chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd"/>
         <updated>2023-10-07T16:00:00.000Z</updated>
         <published>2023-10-07T16:00:00.000Z</published>
     </entry>
