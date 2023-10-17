@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-17 21:01:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 06:00:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506) ![](/assets/new.png)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
@@ -61,7 +62,6 @@
 - [2023-06-06-Hands-on-with-Node's-new-built-in-test-runner](https://nodeweekly.com/issues/489)  
 - [2023-05-30-All-the-ways-to-use-Postgres-from-Node](https://nodeweekly.com/issues/488)  
 - [2023-05-23-Node.js-20-is-faster](https://nodeweekly.com/issues/487)  
-- [2023-05-16-MS's-new-tool-for-digging-deep-into-V8](https://nodeweekly.com/issues/486)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-10-17-像这样的前端女生，真的会被公司抢着要！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514234&idx=1&sn=7a55fd3922161d0ff51c408b4cea1516&chksm=eb078003dc700915e85e81e2f029f70a7ad3df0dcd04fcf72bcda537c90cad0fbe3d69032e75#rd) ![](/assets/new.png)  
+- [2023-10-17-像这样的前端女生，真的会被公司抢着要！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514234&idx=1&sn=7a55fd3922161d0ff51c408b4cea1516&chksm=eb078003dc700915e85e81e2f029f70a7ad3df0dcd04fcf72bcda537c90cad0fbe3d69032e75#rd)  
 - [2023-10-15-我真的理解vue3的diff-了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514218&idx=1&sn=3a023db4a84c863cff4ced21f36d99bb&chksm=eb078013dc70090588ccc61c74bc0666c5f47540e8fcd4d7f9fb8a28bfef82bd5e966f4b855b#rd)  
 - [2023-10-12-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514211&idx=1&sn=7105b00ad3f7c2425b10c5fa117ac6fe&chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd)  
 - [2023-10-11-开源前端框架-NanUI-作者转行卖钢材：“很遗憾，项目将暂停开发”](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514192&idx=1&sn=015d61e3029fb3aad6b43739855f2b83&chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd)  

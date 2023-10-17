@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-17T13:01:43.443Z</updated>
+    <updated>2023-10-17T22:01:00.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[良心提醒：这些你常用的vscode 扩展，应该卸载啦!]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=1&amp;sn=056bdd08e7ac8daf3aca6c2ede9b4718&amp;chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=1&amp;sn=056bdd08e7ac8daf3aca6c2ede9b4718&amp;chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd"/>
+        <updated>2023-10-16T16:00:00.000Z</updated>
+        <published>2023-10-16T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 21 released]]></title>
+        <id>https://nodeweekly.com/issues/506</id>
+        <link href="https://nodeweekly.com/issues/506"/>
         <updated>2023-10-16T16:00:00.000Z</updated>
         <published>2023-10-16T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[惊现十级漏洞！Electron中招，到底是谁的锅？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522453&amp;idx=1&amp;sn=a31dea01d1e76fe03e88c7f1a6d6bd41&amp;chksm=f9522dd6ce25a4c03879a12f11b0817d7bf034cc00dee270ce5666801f39acd1bbadb5602ddd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522453&amp;idx=1&amp;sn=a31dea01d1e76fe03e88c7f1a6d6bd41&amp;chksm=f9522dd6ce25a4c03879a12f11b0817d7bf034cc00dee270ce5666801f39acd1bbadb5602ddd#rd"/>
-        <updated>2023-10-08T16:00:00.000Z</updated>
-        <published>2023-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最近，前端面试真疯了。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616900&amp;idx=1&amp;sn=5de08cdeed22d3d1b7d20caaea543be8&amp;chksm=8022a145b7552853fa452d091f4eb81371e2779df989438c08573db3fbd61b07804e38687795#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651616900&amp;idx=1&amp;sn=5de08cdeed22d3d1b7d20caaea543be8&amp;chksm=8022a145b7552853fa452d091f4eb81371e2779df989438c08573db3fbd61b07804e38687795#rd"/>
         <updated>2023-10-08T16:00:00.000Z</updated>
         <published>2023-10-08T16:00:00.000Z</published>
     </entry>
