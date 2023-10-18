@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-18 06:00:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-18 08:01:11，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -42,7 +42,7 @@
 </summary>
 
 
-- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506) ![](/assets/new.png)  
+- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
@@ -104,26 +104,26 @@
 </summary>
 
 
+- [2023-10-18-【第3084期】大模型在低代码平台中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266384&idx=1&sn=fc57c6009697277b9eefb35b75ba38ef&chksm=bd48c4d48a3f4dc2c3a308e2e62379c98842ce75c71438cb50d84bf98248cd55654b493795ac#rd) ![](/assets/new.png)  
+- [2023-10-18-【招聘】TikTok国际电商-商业平台招聘前端工程师/前端Leader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266384&idx=2&sn=903707079ef69b8d69c55032813c9c90&chksm=bd48c4d48a3f4dc2f67ec9521796ceca3a6988090207c320acb44eec12342c8e4cf94b1c26db#rd) ![](/assets/new.png)  
 - [2023-09-29-聚焦汽车工业-城市摄影队走进车谷](https://mp.weixin.qq.com/s?__biz=MzA3MzU2ODQzMQ==&mid=2651794340&idx=2&sn=35857fc108e2a8c55512ce34d73bd146&chksm=84f69264b3811b72e7e433399855254e78f047bbebeda886103e64ba8614cb001e92e48ba61a#rd)  
-- [2023-09-28-【第3072期】利用前端基础设施为前端应用打造稳健且高效率的开发体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266100&idx=1&sn=0a1fa88e7b5132c6d4cf3e685696ec27&chksm=bd48c5b08a3f4ca65972b53a2bcde72645640743a1c18466ff1c29cefe25c3603e9d2772da0f#rd)  
 - [2023-09-28-【图书】这就是-ChatGPT](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266100&idx=2&sn=727b34a9a68f57643a9d5173f76a6122&chksm=bd48c5b08a3f4ca6accbf0858b34f783742dff83b1025538c1004303b4ee2d0604b4fe95eb5d#rd)  
-- [2023-09-27-【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)  
+- [2023-09-28-【第3072期】利用前端基础设施为前端应用打造稳健且高效率的开发体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266100&idx=1&sn=0a1fa88e7b5132c6d4cf3e685696ec27&chksm=bd48c5b08a3f4ca65972b53a2bcde72645640743a1c18466ff1c29cefe25c3603e9d2772da0f#rd)  
 - [2023-09-27-【早说】前台提要,中台铺零,共创价值魔方](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=2&sn=e233a9263cae9f9c2c8525491a7693bc&chksm=bd48c5978a3f4c81e7227d75dabc4c600a447f88a6daf2359cd197c937479828f1a6b4a4b9fa#rd)  
-- [2023-09-26-【第3070期】低代码引擎-TinyEngine-正式发布！！！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266039&idx=1&sn=04cf0bb1062675bef8b362c48fae443a&chksm=bd48c2738a3f4b65c79e9ddfeba6f781d8104674e2bb71285ba43a64566bac95ed9c69d9ac42#rd)  
+- [2023-09-27-【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)  
 - [2023-09-26-【招聘】北京美团金服业务平台前端团队招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266039&idx=2&sn=095f93aa9a50e8267398d579aa22ed7f&chksm=bd48c2738a3f4b65e0385ad89b50776535bfc3fd645ba1884472cc6d11ab64badf87b03088d4#rd)  
-- [2023-09-25-【第3069期】如何在-React-中逃离闭包陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266017&idx=1&sn=da1a295ac76992c9e67038b6c6af9037&chksm=bd48c2658a3f4b7375f4aac91e352264d703c3cefa0989d71efa5f515edf57a2be7a745ae1cb#rd)  
+- [2023-09-26-【第3070期】低代码引擎-TinyEngine-正式发布！！！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266039&idx=1&sn=04cf0bb1062675bef8b362c48fae443a&chksm=bd48c2738a3f4b65c79e9ddfeba6f781d8104674e2bb71285ba43a64566bac95ed9c69d9ac42#rd)  
 - [2023-09-25-【早说】软件工程师必学!用“拆解思维”完成难题](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266017&idx=2&sn=e6e059b71004f52edc44aa19af8c81f4&chksm=bd48c2658a3f4b73c98586c33ded48fa37790417101c2f0620e4147a38d1e673653e8ef8b92b#rd)  
+- [2023-09-25-【第3069期】如何在-React-中逃离闭包陷阱](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266017&idx=1&sn=da1a295ac76992c9e67038b6c6af9037&chksm=bd48c2658a3f4b7375f4aac91e352264d703c3cefa0989d71efa5f515edf57a2be7a745ae1cb#rd)  
 - [2023-09-24-【早说】避免无谓会议,做有效果的review](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266013&idx=2&sn=1bcc2b82aad1d9262373355c733c31e1&chksm=bd48c2598a3f4b4fef42933f5aa721f339c316708af871d8845a5fa9b9c0024f15f12c33e764#rd)  
-- [2023-09-23-【早说】培养成为公司的腰部力量,提升自身贡献者的能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=2&sn=61e8059734f9e1993e21420f49f9a0c7&chksm=bd48c25d8a3f4b4ba8e95101482990fc78ef71af257f64c3589f871805c62d50f9106bc86c19#rd)  
 - [2023-09-23-【第3067期】Chrome-117-DevTools新功能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=1&sn=ab9d2c0aa36b2346f71f0b1acdbebf94&chksm=bd48c25d8a3f4b4b19245fe4c7b39e9843ecad41a47067aa031a59482783d78fd4225780d29b#rd)  
-- [2023-09-22-【第3066期】@Malte-Ubl-：扩展前端应用开发的原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266000&idx=1&sn=3b08d726add972108d673d440ed9697a&chksm=bd48c2548a3f4b42ee00b6d5dfb34ccf579ceab7ae5513a18d322da113f1285f8e4e3350a420#rd)  
+- [2023-09-23-【早说】培养成为公司的腰部力量,提升自身贡献者的能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266009&idx=2&sn=61e8059734f9e1993e21420f49f9a0c7&chksm=bd48c25d8a3f4b4ba8e95101482990fc78ef71af257f64c3589f871805c62d50f9106bc86c19#rd)  
 - [2023-09-22-【招聘】北京美团金服支付商家前端团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266000&idx=2&sn=2dee1c6421c45859ecef19b3688da863&chksm=bd48c2548a3f4b420cf5786db28db97c777caaa4db5db40570ba4517f4a5a448012c806f821e#rd)  
-- [2023-09-21-【第3065期】让你的-VitePress-文档站支持-AI-对话能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265970&idx=1&sn=92b206620316f74d8160bd92694efdd5&chksm=bd48c2368a3f4b2073d5d0b21284b177beb1bb0ad760d7739b8d42bc6f3263cf1755a6cb9e72#rd)  
+- [2023-09-22-【第3066期】@Malte-Ubl-：扩展前端应用开发的原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266000&idx=1&sn=3b08d726add972108d673d440ed9697a&chksm=bd48c2548a3f4b42ee00b6d5dfb34ccf579ceab7ae5513a18d322da113f1285f8e4e3350a420#rd)  
 - [2023-09-21-【招聘】北京京东科技招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265970&idx=2&sn=928cca814220bbc127610973655e51e9&chksm=bd48c2368a3f4b2084e82287e7e798c7da446f80f77c35a51da21ce3007c0adcf088c44e522e#rd)  
-- [2023-09-20-嗨，前端早读课邀你一起重塑开发者世界！丨附限量福利](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265925&idx=2&sn=ee194075c6090ec19008ac6ca415468d&chksm=bd48c2018a3f4b174d311c2cccc9fcd1cca274c7ba0705f85079c2082f4db92542ffe247c2ab#rd)  
+- [2023-09-21-【第3065期】让你的-VitePress-文档站支持-AI-对话能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265970&idx=1&sn=92b206620316f74d8160bd92694efdd5&chksm=bd48c2368a3f4b2073d5d0b21284b177beb1bb0ad760d7739b8d42bc6f3263cf1755a6cb9e72#rd)  
 - [2023-09-20-【第3064期】解读：StreamSaver.js](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265925&idx=1&sn=bc641894c56e7d2290dc03931f56ac47&chksm=bd48c2018a3f4b17c01f707de60730dfeab36a665c7b36838fb84a5995dbd6383754d8b8691f#rd)  
-- [2023-09-19-【第3063期】JavaScript打包下载最佳实践：StreamSaver.js+zip-stream.js流式下载](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265911&idx=1&sn=0fe1b4020e46dae8165462be41b3b04c&chksm=bd48c2f38a3f4be5085ff2d800ca1b2e59ce05a08b16788cfbb0e2505261e63ff83cebbf9738#rd)  
-- [2023-09-19-【早说】AI工具与策略的平衡](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265911&idx=2&sn=35068e553818bdd66ef6730447572b04&chksm=bd48c2f38a3f4be5e7071df1a7bdf20941e4010c682276d5687f891e17db4d865e7cb29dedd9#rd)  
+- [2023-09-20-嗨，前端早读课邀你一起重塑开发者世界！丨附限量福利](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265925&idx=2&sn=ee194075c6090ec19008ac6ca415468d&chksm=bd48c2018a3f4b174d311c2cccc9fcd1cca274c7ba0705f85079c2082f4db92542ffe247c2ab#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

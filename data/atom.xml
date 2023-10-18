@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-17T22:01:00.329Z</updated>
+    <updated>2023-10-18T00:01:13.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【招聘】TikTok国际电商-商业平台招聘前端工程师/前端Leader]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266384&amp;idx=2&amp;sn=903707079ef69b8d69c55032813c9c90&amp;chksm=bd48c4d48a3f4dc2f67ec9521796ceca3a6988090207c320acb44eec12342c8e4cf94b1c26db#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266384&amp;idx=2&amp;sn=903707079ef69b8d69c55032813c9c90&amp;chksm=bd48c4d48a3f4dc2f67ec9521796ceca3a6988090207c320acb44eec12342c8e4cf94b1c26db#rd"/>
+        <updated>2023-10-17T16:00:00.000Z</updated>
+        <published>2023-10-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3084期】大模型在低代码平台中的应用]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266384&amp;idx=1&amp;sn=fc57c6009697277b9eefb35b75ba38ef&amp;chksm=bd48c4d48a3f4dc2c3a308e2e62379c98842ce75c71438cb50d84bf98248cd55654b493795ac#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266384&amp;idx=1&amp;sn=fc57c6009697277b9eefb35b75ba38ef&amp;chksm=bd48c4d48a3f4dc2c3a308e2e62379c98842ce75c71438cb50d84bf98248cd55654b493795ac#rd"/>
+        <updated>2023-10-17T16:00:00.000Z</updated>
+        <published>2023-10-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像这样的前端女生，真的会被公司抢着要！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514234&amp;idx=1&amp;sn=7a55fd3922161d0ff51c408b4cea1516&amp;chksm=eb078003dc700915e85e81e2f029f70a7ad3df0dcd04fcf72bcda537c90cad0fbe3d69032e75#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[前端组件化开发思考]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516550&amp;idx=1&amp;sn=92e2b9f90c2bc128d090a182d0730914&amp;chksm=f9928757cee50e411d50b5c49b26906d82a449997a9a578f143af6d353ee9aa35c5e676e688a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516550&amp;idx=1&amp;sn=92e2b9f90c2bc128d090a182d0730914&amp;chksm=f9928757cee50e411d50b5c49b26906d82a449997a9a578f143af6d353ee9aa35c5e676e688a#rd"/>
-        <updated>2023-10-08T16:00:00.000Z</updated>
-        <published>2023-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性能优化，前端时间分片渲染简单做法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516550&amp;idx=2&amp;sn=4180035a059da3055ad07414cf27c72a&amp;chksm=f9928757cee50e418f768c5a5276a8fe012fb833d68cf1f099040bd5b98f623fe8a0126266dd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516550&amp;idx=2&amp;sn=4180035a059da3055ad07414cf27c72a&amp;chksm=f9928757cee50e418f768c5a5276a8fe012fb833d68cf1f099040bd5b98f623fe8a0126266dd#rd"/>
-        <updated>2023-10-08T16:00:00.000Z</updated>
-        <published>2023-10-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惊现十级漏洞！Electron中招，到底是谁的锅？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522453&amp;idx=1&amp;sn=a31dea01d1e76fe03e88c7f1a6d6bd41&amp;chksm=f9522dd6ce25a4c03879a12f11b0817d7bf034cc00dee270ce5666801f39acd1bbadb5602ddd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522453&amp;idx=1&amp;sn=a31dea01d1e76fe03e88c7f1a6d6bd41&amp;chksm=f9522dd6ce25a4c03879a12f11b0817d7bf034cc00dee270ce5666801f39acd1bbadb5602ddd#rd"/>
         <updated>2023-10-08T16:00:00.000Z</updated>
         <published>2023-10-08T16:00:00.000Z</published>
     </entry>
