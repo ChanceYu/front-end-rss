@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-19 08:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-19 12:01:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -581,6 +581,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2023-10-19-让你精通-React-的-7-个-Github-仓库](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514253&idx=1&sn=0a0ca5afe3472e05266217db50de1a84&chksm=eb0780f4dc7009e2c6850e295ad340bc0dbe0320c5f0ed3260639e5426668cbc123f45b02bf3#rd) 
 - [2023-09-27-启动-React-APP-后，源码中经历了哪些过程？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514137&idx=1&sn=7b17b1d0e61942f45f3a2d6c0a26b754&chksm=eb078060dc700976d95796b1d7dc16cff2f181d38e8635fc0d4730aadf162c2c4bfc2582d0d9#rd) 
 - [2023-09-15-React-4-年老手！总结企业级应用玩法，文件架构、原则、样式、状态管理、国际化……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513972&idx=1&sn=1a3721bdc61b424b7f46d85229386031&chksm=eb078f0ddc70061b15c79c998c9c95ba0fb2940336e93dd2c9d97a41e2b98731c0880c358f16#rd) 
 - [2023-08-24-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513523&idx=1&sn=c18fbb404d44cf61249ea438395fece5&chksm=eb078dcadc7004dc560d8c7b5b37d8622d5a8b6a25258d03d7ba15462ae81dbd953b3c388971#rd) 

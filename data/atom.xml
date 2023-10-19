@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-19T00:00:59.618Z</updated>
+    <updated>2023-10-19T04:01:08.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[让你精通 React 的 7 个 Github 仓库]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514253&amp;idx=1&amp;sn=0a0ca5afe3472e05266217db50de1a84&amp;chksm=eb0780f4dc7009e2c6850e295ad340bc0dbe0320c5f0ed3260639e5426668cbc123f45b02bf3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514253&amp;idx=1&amp;sn=0a0ca5afe3472e05266217db50de1a84&amp;chksm=eb0780f4dc7009e2c6850e295ad340bc0dbe0320c5f0ed3260639e5426668cbc123f45b02bf3#rd"/>
+        <updated>2023-10-18T16:00:00.000Z</updated>
+        <published>2023-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Amazing】还原拉斯维加斯球数字动画]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496921&amp;idx=1&amp;sn=e2522177ce1785b0b9efeec706f18b1c&amp;chksm=ce26972ff9511e3995665fae4ad66458a8a669cad977a7d93a0bd8e5e68879a3a26b1370bb79#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496921&amp;idx=1&amp;sn=e2522177ce1785b0b9efeec706f18b1c&amp;chksm=ce26972ff9511e3995665fae4ad66458a8a669cad977a7d93a0bd8e5e68879a3a26b1370bb79#rd"/>
+        <updated>2023-10-18T16:00:00.000Z</updated>
+        <published>2023-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun 炒作的太火了，不过是另一个 yarn 的故事？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514240&amp;idx=1&amp;sn=ba638f871b67a59a54a169933a45a98b&amp;chksm=eb0780f9dc7009ef5926dde199861e9f8e62cc4b66efdd5deedad4039b9fb1b3f3162f3ee812#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514240&amp;idx=1&amp;sn=ba638f871b67a59a54a169933a45a98b&amp;chksm=eb0780f9dc7009ef5926dde199861e9f8e62cc4b66efdd5deedad4039b9fb1b3f3162f3ee812#rd"/>
+        <updated>2023-10-17T16:00:00.000Z</updated>
+        <published>2023-10-17T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496876&amp;idx=1&amp;sn=0cef6dc54e99573f596a40a88b700f41&amp;chksm=ce26975af9511e4c268b6300e1f96b4631cf9cd1e806ebbfaf9f1337b81e26ffac92c765c268#rd</id>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[CSS 实现一个高光按钮]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488279&amp;idx=1&amp;sn=d9ecf0cd4d8ff0c6c24111cba0ae93f8&amp;chksm=97c670d8a0b1f9ce388acc5ab16eb3af5e9c65dfb9bd94d12c579240c50b94c1782106df2d17#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488279&amp;idx=1&amp;sn=d9ecf0cd4d8ff0c6c24111cba0ae93f8&amp;chksm=97c670d8a0b1f9ce388acc5ab16eb3af5e9c65dfb9bd94d12c579240c50b94c1782106df2d17#rd"/>
-        <updated>2023-10-10T16:00:00.000Z</updated>
-        <published>2023-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源前端框架 NanUI 作者转行卖钢材：“很遗憾，项目将暂停开发”]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514192&amp;idx=1&amp;sn=015d61e3029fb3aad6b43739855f2b83&amp;chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514192&amp;idx=1&amp;sn=015d61e3029fb3aad6b43739855f2b83&amp;chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd"/>
-        <updated>2023-10-10T16:00:00.000Z</updated>
-        <published>2023-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年前端开发岗现状]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496825&amp;idx=1&amp;sn=1361f8898be0f169d2c967bb0b292e4d&amp;chksm=ce26978ff9511e99794f5f354f8d6670b7ddf50ace7e33a530201370465a5c707bf34ac6775c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496825&amp;idx=1&amp;sn=1361f8898be0f169d2c967bb0b292e4d&amp;chksm=ce26978ff9511e99794f5f354f8d6670b7ddf50ace7e33a530201370465a5c707bf34ac6775c#rd"/>
-        <updated>2023-10-10T16:00:00.000Z</updated>
-        <published>2023-10-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端程序员是怎么做物联网开发的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516565&amp;idx=1&amp;sn=f704aa251d34e6c105ca8c066f344542&amp;chksm=f9928744cee50e52e1e3d86f22db6c9df51d3622a35380c1d7eaf880221c0f099e0ea2ff4e29#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516565&amp;idx=1&amp;sn=f704aa251d34e6c105ca8c066f344542&amp;chksm=f9928744cee50e52e1e3d86f22db6c9df51d3622a35380c1d7eaf880221c0f099e0ea2ff4e29#rd"/>
         <updated>2023-10-10T16:00:00.000Z</updated>
         <published>2023-10-10T16:00:00.000Z</published>
     </entry>

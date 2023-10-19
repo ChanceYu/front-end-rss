@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-19 08:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-19 12:01:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -358,6 +358,7 @@
 - [2023-06-27-前端食堂技术周刊第-88-期：Svelte4、NestJS-10、State-of-CSS、Vitest-1.0-Roadmap](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498249&idx=1&sn=043ecf8f69614ccf77d4e594b1c6d778&chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd) 
 - [2023-04-24-前端食堂技术周刊第-80-期：Vite-4.3、Node.js-20、TS-5.1-Beta、Windi-CSS-即将落幕](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497918&idx=1&sn=39128bcca251c8ae48f01ad488d6414d&chksm=c2b33941f5c4b057990ec1536bb8ab8978157473fbd4a4220bec3a4190bae253b5569a1505ef#rd) 
 - [2023-01-17-前端食堂技术周刊第-67-期：-2022-State-of-JS、ESLint-2022、pnpm-2022、大淘宝Web端技术](https://mp.weixin.qq.com/s/yoLG2uKs7kheR9t5NLLUdg) 
+- [2023-10-18-Bun-炒作的太火了，不过是另一个-yarn-的故事？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514240&idx=1&sn=ba638f871b67a59a54a169933a45a98b&chksm=eb0780f9dc7009ef5926dde199861e9f8e62cc4b66efdd5deedad4039b9fb1b3f3162f3ee812#rd) 
 - [2023-10-06-尤雨溪：Vite-的现状与未来展望](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514149&idx=1&sn=63ebe98ecc06a297df6253a307481471&chksm=eb07805cdc70094a268f7189353634af9a5cea70f75bc862cb9961bb9e58cd6fea6c6d427446#rd) 
 - [2023-09-06-开启高效前端规范开发之旅！ESLint-+-Prettier-+-husky-+Commitizen](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513914&idx=1&sn=584d5ecbd7deac7243be1ab8cdc01d49&chksm=eb078f43dc700655d130ff79dc2545417a861a3ff7905280196edbb95564c603f4b9f9626cc4#rd) 
 - [2023-07-11-Bun，打包比-webpack-快-220-倍](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512399&idx=1&sn=b5400c9cb91aae1981ea18dbf88b75ae&chksm=eb078936dc700020311b0d723036086dbed914c4c1490de977952c64b08993c0fd80c5394f84#rd) 
