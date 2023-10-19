@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-19 21:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-20 06:00:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -10,6 +10,7 @@
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 
+- [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659) 
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658) 
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657) 
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654) 

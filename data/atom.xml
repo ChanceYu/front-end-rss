@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-19T13:00:48.594Z</updated>
+    <updated>2023-10-19T22:00:51.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[【第3085期】File System Access API 入门]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266406&amp;idx=1&amp;sn=11349e6c0a21facdb7e90135c20721ab&amp;chksm=bd48c4e28a3f4df4a753a8261f52059aeab3ca415a78c13b62e640b66957ee7975f553b2ca6e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266406&amp;idx=1&amp;sn=11349e6c0a21facdb7e90135c20721ab&amp;chksm=bd48c4e28a3f4df4a753a8261f52059aeab3ca415a78c13b62e640b66957ee7975f553b2ca6e#rd"/>
+        <updated>2023-10-18T16:00:00.000Z</updated>
+        <published>2023-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ways to serve up less JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/659</id>
+        <link href="https://javascriptweekly.com/issues/659"/>
         <updated>2023-10-18T16:00:00.000Z</updated>
         <published>2023-10-18T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd"/>
-        <updated>2023-10-11T16:00:00.000Z</updated>
-        <published>2023-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让 CSS 官方后悔的一些决定]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496828&amp;idx=1&amp;sn=c1164608f35c24671f3b1a1613b6887e&amp;chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496828&amp;idx=1&amp;sn=c1164608f35c24671f3b1a1613b6887e&amp;chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd"/>
         <updated>2023-10-11T16:00:00.000Z</updated>
         <published>2023-10-11T16:00:00.000Z</published>
     </entry>

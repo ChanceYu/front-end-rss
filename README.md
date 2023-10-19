@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-19 21:00:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-20 06:00:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659) ![](/assets/new.png)  
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
@@ -92,7 +93,6 @@
 - [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
-- [2023-05-18-jQuery-lives-on;-major-changes-teased](https://javascriptweekly.com/issues/639)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-10-19-复盘前端岗位现状之后-，有点想开了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=1&sn=9589a079d33e42db3adb42e6ff460a29&chksm=8022a0d8b75529ce6e97efbee615bd910240af432daf94299a7e568e1596681498068869e8c9#rd) ![](/assets/new.png)  
-- [2023-10-19-深度剖析-Vite-配置文件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=2&sn=2476675828c70c22035eb3ac1f66ec1d&chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd) ![](/assets/new.png)  
+- [2023-10-19-复盘前端岗位现状之后-，有点想开了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=1&sn=9589a079d33e42db3adb42e6ff460a29&chksm=8022a0d8b75529ce6e97efbee615bd910240af432daf94299a7e568e1596681498068869e8c9#rd)  
+- [2023-10-19-深度剖析-Vite-配置文件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=2&sn=2476675828c70c22035eb3ac1f66ec1d&chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd)  
 - [2023-10-18-React-还是-Vue？我对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617035&idx=1&sn=0742f0c2255fa28cf34995c05fe323b5&chksm=8022a0cab75529dcaab15cdee25b3020981e9bc3b447234ace9af533ce3ca974d615edff35a4#rd)  
 - [2023-10-18-前端时间分片渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617035&idx=2&sn=a331075d2a04bd0417e46ee2033c4c78&chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd)  
 - [2023-10-17-良心提醒：这些你常用的vscode-扩展，应该卸载啦!](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617025&idx=1&sn=056bdd08e7ac8daf3aca6c2ede9b4718&chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd)  
