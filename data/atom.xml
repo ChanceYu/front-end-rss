@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-19T10:00:50.658Z</updated>
+    <updated>2023-10-19T13:00:48.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,20 @@
         <title type="html"><![CDATA[阿里内部首发前端开发手册，完整版开放下载了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516680&amp;idx=1&amp;sn=4cced86441010616e54b00a350144974&amp;chksm=f99284d9cee50dcf2f0df6a65ea3cd86ba0fa45805ad0895f53cf23de2e8552169bebdb3de0c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516680&amp;idx=1&amp;sn=4cced86441010616e54b00a350144974&amp;chksm=f99284d9cee50dcf2f0df6a65ea3cd86ba0fa45805ad0895f53cf23de2e8552169bebdb3de0c#rd"/>
+        <updated>2023-10-18T16:00:00.000Z</updated>
+        <published>2023-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度剖析 Vite 配置文件]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617049&amp;idx=2&amp;sn=2476675828c70c22035eb3ac1f66ec1d&amp;chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617049&amp;idx=2&amp;sn=2476675828c70c22035eb3ac1f66ec1d&amp;chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd"/>
+        <updated>2023-10-18T16:00:00.000Z</updated>
+        <published>2023-10-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617049&amp;idx=1&amp;sn=9589a079d33e42db3adb42e6ff460a29&amp;chksm=8022a0d8b75529ce6e97efbee615bd910240af432daf94299a7e568e1596681498068869e8c9#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617049&amp;idx=1&amp;sn=9589a079d33e42db3adb42e6ff460a29&amp;chksm=8022a0d8b75529ce6e97efbee615bd910240af432daf94299a7e568e1596681498068869e8c9#rd"/>
         <updated>2023-10-18T16:00:00.000Z</updated>
         <published>2023-10-18T16:00:00.000Z</published>
     </entry>
@@ -85,16 +99,16 @@
         <published>2023-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 还是 Vue？我对 Web 前端现状的看法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=1&amp;sn=0742f0c2255fa28cf34995c05fe323b5&amp;chksm=8022a0cab75529dcaab15cdee25b3020981e9bc3b447234ace9af533ce3ca974d615edff35a4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=1&amp;sn=0742f0c2255fa28cf34995c05fe323b5&amp;chksm=8022a0cab75529dcaab15cdee25b3020981e9bc3b447234ace9af533ce3ca974d615edff35a4#rd"/>
+        <title type="html"><![CDATA[前端时间分片渲染]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=2&amp;sn=a331075d2a04bd0417e46ee2033c4c78&amp;chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=2&amp;sn=a331075d2a04bd0417e46ee2033c4c78&amp;chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd"/>
         <updated>2023-10-17T16:00:00.000Z</updated>
         <published>2023-10-17T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端时间分片渲染]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=2&amp;sn=a331075d2a04bd0417e46ee2033c4c78&amp;chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=2&amp;sn=a331075d2a04bd0417e46ee2033c4c78&amp;chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd"/>
+        <title type="html"><![CDATA[React 还是 Vue？我对 Web 前端现状的看法]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=1&amp;sn=0742f0c2255fa28cf34995c05fe323b5&amp;chksm=8022a0cab75529dcaab15cdee25b3020981e9bc3b447234ace9af533ce3ca974d615edff35a4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617035&amp;idx=1&amp;sn=0742f0c2255fa28cf34995c05fe323b5&amp;chksm=8022a0cab75529dcaab15cdee25b3020981e9bc3b447234ace9af533ce3ca974d615edff35a4#rd"/>
         <updated>2023-10-17T16:00:00.000Z</updated>
         <published>2023-10-17T16:00:00.000Z</published>
     </entry>
@@ -134,16 +148,16 @@
         <published>2023-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[良心提醒：这些你常用的vscode 扩展，应该卸载啦!]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=1&amp;sn=056bdd08e7ac8daf3aca6c2ede9b4718&amp;chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=1&amp;sn=056bdd08e7ac8daf3aca6c2ede9b4718&amp;chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd"/>
+        <title type="html"><![CDATA[DHH锐评 “打包工具”：前端根本不需要构建 (No Build)]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=2&amp;sn=b684f1a353b88dca95e4a636654b8aa9&amp;chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=2&amp;sn=b684f1a353b88dca95e4a636654b8aa9&amp;chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd"/>
         <updated>2023-10-16T16:00:00.000Z</updated>
         <published>2023-10-16T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DHH锐评 “打包工具”：前端根本不需要构建 (No Build)]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=2&amp;sn=b684f1a353b88dca95e4a636654b8aa9&amp;chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=2&amp;sn=b684f1a353b88dca95e4a636654b8aa9&amp;chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd"/>
+        <title type="html"><![CDATA[良心提醒：这些你常用的vscode 扩展，应该卸载啦!]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=1&amp;sn=056bdd08e7ac8daf3aca6c2ede9b4718&amp;chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617025&amp;idx=1&amp;sn=056bdd08e7ac8daf3aca6c2ede9b4718&amp;chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd"/>
         <updated>2023-10-16T16:00:00.000Z</updated>
         <published>2023-10-16T16:00:00.000Z</published>
     </entry>
@@ -211,16 +225,16 @@
         <published>2023-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[终于等到！3个超强的 Vue 项目开源了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=1&amp;sn=1e57509e44856bdfc628d69db6b6b40c&amp;chksm=8022a13db755282b534d58b2391ee6e78726cd2310a5c5506c78d18c9861afc81c2afd7b8fe3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=1&amp;sn=1e57509e44856bdfc628d69db6b6b40c&amp;chksm=8022a13db755282b534d58b2391ee6e78726cd2310a5c5506c78d18c9861afc81c2afd7b8fe3#rd"/>
+        <title type="html"><![CDATA[前端新特性：Compute Pressure API！！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=2&amp;sn=1787910ff5d9f5db2d2765d64905577c&amp;chksm=8022a13db755282b99745963842e871f5a8c0c90b8b08333774b4d170b07d63f9a735e600528#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=2&amp;sn=1787910ff5d9f5db2d2765d64905577c&amp;chksm=8022a13db755282b99745963842e871f5a8c0c90b8b08333774b4d170b07d63f9a735e600528#rd"/>
         <updated>2023-10-15T16:00:00.000Z</updated>
         <published>2023-10-15T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端新特性：Compute Pressure API！！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=2&amp;sn=1787910ff5d9f5db2d2765d64905577c&amp;chksm=8022a13db755282b99745963842e871f5a8c0c90b8b08333774b4d170b07d63f9a735e600528#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=2&amp;sn=1787910ff5d9f5db2d2765d64905577c&amp;chksm=8022a13db755282b99745963842e871f5a8c0c90b8b08333774b4d170b07d63f9a735e600528#rd"/>
+        <title type="html"><![CDATA[终于等到！3个超强的 Vue 项目开源了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=1&amp;sn=1e57509e44856bdfc628d69db6b6b40c&amp;chksm=8022a13db755282b534d58b2391ee6e78726cd2310a5c5506c78d18c9861afc81c2afd7b8fe3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617020&amp;idx=1&amp;sn=1e57509e44856bdfc628d69db6b6b40c&amp;chksm=8022a13db755282b534d58b2391ee6e78726cd2310a5c5506c78d18c9861afc81c2afd7b8fe3#rd"/>
         <updated>2023-10-15T16:00:00.000Z</updated>
         <published>2023-10-15T16:00:00.000Z</published>
     </entry>
@@ -323,16 +337,16 @@
         <published>2023-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React 和 Vue 全方位对比总结]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=2&amp;sn=43da2e28d4b8aa7892381ffe8af7d679&amp;chksm=8022a133b7552825120e672d435f0d2d65670e1fd633bd5a7c9630b6638f189099561dde6218#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=2&amp;sn=43da2e28d4b8aa7892381ffe8af7d679&amp;chksm=8022a133b7552825120e672d435f0d2d65670e1fd633bd5a7c9630b6638f189099561dde6218#rd"/>
+        <title type="html"><![CDATA[23岁博士生修复Firefox中的22年 “幽灵老Bug”]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=1&amp;sn=1a27bf7fa7ac33ddbfe8a9f23e71c62e&amp;chksm=8022a133b7552825ad0301bd850d1ea64972407f27d1d6be98007df946b33265ef01cac85d4f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=1&amp;sn=1a27bf7fa7ac33ddbfe8a9f23e71c62e&amp;chksm=8022a133b7552825ad0301bd850d1ea64972407f27d1d6be98007df946b33265ef01cac85d4f#rd"/>
         <updated>2023-10-12T16:00:00.000Z</updated>
         <published>2023-10-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23岁博士生修复Firefox中的22年 “幽灵老Bug”]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=1&amp;sn=1a27bf7fa7ac33ddbfe8a9f23e71c62e&amp;chksm=8022a133b7552825ad0301bd850d1ea64972407f27d1d6be98007df946b33265ef01cac85d4f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=1&amp;sn=1a27bf7fa7ac33ddbfe8a9f23e71c62e&amp;chksm=8022a133b7552825ad0301bd850d1ea64972407f27d1d6be98007df946b33265ef01cac85d4f#rd"/>
+        <title type="html"><![CDATA[React 和 Vue 全方位对比总结]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=2&amp;sn=43da2e28d4b8aa7892381ffe8af7d679&amp;chksm=8022a133b7552825120e672d435f0d2d65670e1fd633bd5a7c9630b6638f189099561dde6218#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=2&amp;sn=43da2e28d4b8aa7892381ffe8af7d679&amp;chksm=8022a133b7552825120e672d435f0d2d65670e1fd633bd5a7c9630b6638f189099561dde6218#rd"/>
         <updated>2023-10-12T16:00:00.000Z</updated>
         <published>2023-10-12T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[让 CSS 官方后悔的一些决定]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496828&amp;idx=1&amp;sn=c1164608f35c24671f3b1a1613b6887e&amp;chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496828&amp;idx=1&amp;sn=c1164608f35c24671f3b1a1613b6887e&amp;chksm=ce26978af9511e9ca74ee13d08015d06d635142034fc689235af557306c33721d945869372b1#rd"/>
-        <updated>2023-10-11T16:00:00.000Z</updated>
-        <published>2023-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为啥面试官总喜欢问computed是咋实现的？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516573&amp;idx=2&amp;sn=9967876c71e356a3220fda1cfe77aa2d&amp;chksm=f992874ccee50e5affb6fe8d1daa514a873b20f1d448ca8a7ef36454b8e6a33e964e8f13d7a8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516573&amp;idx=2&amp;sn=9967876c71e356a3220fda1cfe77aa2d&amp;chksm=f992874ccee50e5affb6fe8d1daa514a873b20f1d448ca8a7ef36454b8e6a33e964e8f13d7a8#rd"/>
-        <updated>2023-10-11T16:00:00.000Z</updated>
-        <published>2023-10-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终于等到！2023最强Web面试题库开源！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516573&amp;idx=1&amp;sn=22bebf8bb187168542f32d9c647a9ed5&amp;chksm=f992874ccee50e5a1407e375666b19e694db8f12c9bccb42b0747b70eb8096fc0974490257a8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516573&amp;idx=1&amp;sn=22bebf8bb187168542f32d9c647a9ed5&amp;chksm=f992874ccee50e5a1407e375666b19e694db8f12c9bccb42b0747b70eb8096fc0974490257a8#rd"/>
         <updated>2023-10-11T16:00:00.000Z</updated>
         <published>2023-10-11T16:00:00.000Z</published>
     </entry>

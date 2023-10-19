@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-19 18:00:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-19 21:00:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -135,26 +135,26 @@
 </summary>
 
 
-- [2023-10-18-前端时间分片渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617035&idx=2&sn=a331075d2a04bd0417e46ee2033c4c78&chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd)  
+- [2023-10-19-复盘前端岗位现状之后-，有点想开了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=1&sn=9589a079d33e42db3adb42e6ff460a29&chksm=8022a0d8b75529ce6e97efbee615bd910240af432daf94299a7e568e1596681498068869e8c9#rd) ![](/assets/new.png)  
+- [2023-10-19-深度剖析-Vite-配置文件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=2&sn=2476675828c70c22035eb3ac1f66ec1d&chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd) ![](/assets/new.png)  
 - [2023-10-18-React-还是-Vue？我对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617035&idx=1&sn=0742f0c2255fa28cf34995c05fe323b5&chksm=8022a0cab75529dcaab15cdee25b3020981e9bc3b447234ace9af533ce3ca974d615edff35a4#rd)  
-- [2023-10-17-DHH锐评-“打包工具”：前端根本不需要构建-No-Build](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617025&idx=2&sn=b684f1a353b88dca95e4a636654b8aa9&chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd)  
+- [2023-10-18-前端时间分片渲染](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617035&idx=2&sn=a331075d2a04bd0417e46ee2033c4c78&chksm=8022a0cab75529dc73673f3539bc0f3f7774479cad06ee2baf42114e98442610a3172bc49f53#rd)  
 - [2023-10-17-良心提醒：这些你常用的vscode-扩展，应该卸载啦!](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617025&idx=1&sn=056bdd08e7ac8daf3aca6c2ede9b4718&chksm=8022a0c0b75529d6b295a6d7fbb18dfa9980dec23a8d6acedea45685186efdfa2ca1cf75ea95#rd)  
-- [2023-10-16-前端新特性：Compute-Pressure-API！！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617020&idx=2&sn=1787910ff5d9f5db2d2765d64905577c&chksm=8022a13db755282b99745963842e871f5a8c0c90b8b08333774b4d170b07d63f9a735e600528#rd)  
+- [2023-10-17-DHH锐评-“打包工具”：前端根本不需要构建-No-Build](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617025&idx=2&sn=b684f1a353b88dca95e4a636654b8aa9&chksm=8022a0c0b75529d6293d7a3cabdc6d5e7b78460469b05a91136098f0940dee4f470826bf319f#rd)  
 - [2023-10-16-终于等到！3个超强的-Vue-项目开源了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617020&idx=1&sn=1e57509e44856bdfc628d69db6b6b40c&chksm=8022a13db755282b534d58b2391ee6e78726cd2310a5c5506c78d18c9861afc81c2afd7b8fe3#rd)  
-- [2023-10-13-23岁博士生修复Firefox中的22年-“幽灵老Bug”](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617010&idx=1&sn=1a27bf7fa7ac33ddbfe8a9f23e71c62e&chksm=8022a133b7552825ad0301bd850d1ea64972407f27d1d6be98007df946b33265ef01cac85d4f#rd)  
+- [2023-10-16-前端新特性：Compute-Pressure-API！！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617020&idx=2&sn=1787910ff5d9f5db2d2765d64905577c&chksm=8022a13db755282b99745963842e871f5a8c0c90b8b08333774b4d170b07d63f9a735e600528#rd)  
 - [2023-10-13-React-和-Vue-全方位对比总结](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617010&idx=2&sn=43da2e28d4b8aa7892381ffe8af7d679&chksm=8022a133b7552825120e672d435f0d2d65670e1fd633bd5a7c9630b6638f189099561dde6218#rd)  
-- [2023-10-12-JavaScript-中几个优雅的运算符使用技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616982&idx=2&sn=851d18371cb8a67191149d56e2454c7f&chksm=8022a117b75528014f8ef131019e7b03c987191fa14ff500cf2035589e8eea14081bba684c09#rd)  
+- [2023-10-13-23岁博士生修复Firefox中的22年-“幽灵老Bug”](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617010&idx=1&sn=1a27bf7fa7ac33ddbfe8a9f23e71c62e&chksm=8022a133b7552825ad0301bd850d1ea64972407f27d1d6be98007df946b33265ef01cac85d4f#rd)  
 - [2023-10-12-项目中前端如何实现无感刷新-token！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616982&idx=1&sn=7f91c8b130369ac1e185aa9081745bda&chksm=8022a117b755280113acd382fa41ae1ad8c47c3140d6666ec052a3eacf9c266baa68e7daa61f#rd)  
-- [2023-10-11-前端已成气候](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616980&idx=1&sn=578a9bc388e4b0ddbad4180f92881d37&chksm=8022a115b7552803adc74887098f3bb86df06614e164a670a8b405fac95ced586a0ffa840dae#rd)  
+- [2023-10-12-JavaScript-中几个优雅的运算符使用技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616982&idx=2&sn=851d18371cb8a67191149d56e2454c7f&chksm=8022a117b75528014f8ef131019e7b03c987191fa14ff500cf2035589e8eea14081bba684c09#rd)  
 - [2023-10-11-如何写一个属于自己的vue3组件库](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616980&idx=2&sn=843cb503e402688583245a2921fa49c7&chksm=8022a115b7552803debb83bd6472e00ff7f131f30bcb9f85cef891bc3ddd2af7b6b565316f06#rd)  
-- [2023-10-10-express+mongodb+vue-实现增删改查-全栈之路](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616928&idx=2&sn=1fda98b94ea356655dad874659817e1d&chksm=8022a161b7552877266a63aff94007c864d8f63422a29634eb75407146e018ea8fa4c78bc539#rd)  
+- [2023-10-11-前端已成气候](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616980&idx=1&sn=578a9bc388e4b0ddbad4180f92881d37&chksm=8022a115b7552803adc74887098f3bb86df06614e164a670a8b405fac95ced586a0ffa840dae#rd)  
 - [2023-10-10-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616928&idx=1&sn=99d2d19176b734104b20b49948107a90&chksm=8022a161b7552877c2b6c7686caea4f73ca9cdc0d893c3cf81a34955c411e4e26f4235412ae5#rd)  
-- [2023-10-09-vue-项目你一定会用到的性能优化！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616900&idx=2&sn=1d57f1b0fc26871e404b76d8a5fa257a&chksm=8022a145b7552853c5f9143962c29a3ae148dabc6807beaf710c82ea0be2c64cbb497fc8ff8e#rd)  
+- [2023-10-10-express+mongodb+vue-实现增删改查-全栈之路](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616928&idx=2&sn=1fda98b94ea356655dad874659817e1d&chksm=8022a161b7552877266a63aff94007c864d8f63422a29634eb75407146e018ea8fa4c78bc539#rd)  
 - [2023-10-09-最近，前端面试真疯了。。。](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616900&idx=1&sn=5de08cdeed22d3d1b7d20caaea543be8&chksm=8022a145b7552853fa452d091f4eb81371e2779df989438c08573db3fbd61b07804e38687795#rd)  
-- [2023-10-08-原子CSS引擎——unocss](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616894&idx=2&sn=67793ea8cc98d8bb1eb4e907d4713ed7&chksm=8022a1bfb75528a99a2101772e0d8a8fd41e3e206d1afdaf44f9372095743ff2d207526898f3#rd)  
+- [2023-10-09-vue-项目你一定会用到的性能优化！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616900&idx=2&sn=1d57f1b0fc26871e404b76d8a5fa257a&chksm=8022a145b7552853c5f9143962c29a3ae148dabc6807beaf710c82ea0be2c64cbb497fc8ff8e#rd)  
 - [2023-10-08-对不起-localStorage，现在我爱上-localForage了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616894&idx=1&sn=aabceebde9f760465c3b99a8b158c760&chksm=8022a1bfb75528a941ac4339884d590e39a211d71cd7f7b9bae0ab2eba796117081090e31063#rd)  
-- [2023-10-07-开发-React-组件库时，可能没注意到的小细节！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616887&idx=2&sn=3421cdded1db1b647b77c89248ca979c&chksm=8022a1b6b75528a06deb869cacae034cfbbf8197e215ff17bd6dc95a29784fc1a9337fb72d0e#rd)  
-- [2023-10-07-Angular-重磅回归](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616887&idx=1&sn=e787ff5ae27e0b97430a9bbf5b415cb7&chksm=8022a1b6b75528a0ecd257c68e3aa7a76b97095f608a835f5da969497d4183fc07d2fe89dbc6#rd)  
+- [2023-10-08-原子CSS引擎——unocss](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616894&idx=2&sn=67793ea8cc98d8bb1eb4e907d4713ed7&chksm=8022a1bfb75528a99a2101772e0d8a8fd41e3e206d1afdaf44f9372095743ff2d207526898f3#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,7 +259,7 @@
 </summary>
 
 
-- [2023-10-19-阿里内部首发前端开发手册，完整版开放下载了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516680&idx=1&sn=4cced86441010616e54b00a350144974&chksm=f99284d9cee50dcf2f0df6a65ea3cd86ba0fa45805ad0895f53cf23de2e8552169bebdb3de0c#rd) ![](/assets/new.png)  
+- [2023-10-19-阿里内部首发前端开发手册，完整版开放下载了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516680&idx=1&sn=4cced86441010616e54b00a350144974&chksm=f99284d9cee50dcf2f0df6a65ea3cd86ba0fa45805ad0895f53cf23de2e8552169bebdb3de0c#rd)  
 - [2023-10-18-Vite3+Vue3+ts+pinia+NaiveUI项目实战--国际化配置](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516673&idx=2&sn=35b021eefe3edd9a018569bfbc516fdd&chksm=f99284d0cee50dc6d5c0eb60436639d8f3fe92e605e4fde01cf1ff0f330d7137dddb78146232#rd)  
 - [2023-10-18-一文揭秘Vue3组件库的优雅打包与细节](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516673&idx=1&sn=feae1cb7db06bb08635c1c87d95a8a42&chksm=f99284d0cee50dc61cb53fec7d267ff832c772ca59f96a63d12190d79cc0c16860ccf0ebe1a8#rd)  
 - [2023-10-17-前端页面秒开的关键---小白也能看懂的同构渲染原理和实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516597&idx=1&sn=d61f948574af525f837dbde7d16af67d&chksm=f9928764cee50e72154acc462f9716b032724c0419cf4c7257079c05465861408314f77ebd1f#rd)  
