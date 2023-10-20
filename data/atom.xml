@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-19T22:00:51.707Z</updated>
+    <updated>2023-10-20T02:00:50.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 274 期）：加密通信的最后一块拼图]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-274.html"/>
+        <updated>2023-10-19T16:00:00.000Z</updated>
+        <published>2023-10-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让你精通 React 的 7 个 Github 仓库]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514253&amp;idx=1&amp;sn=0a0ca5afe3472e05266217db50de1a84&amp;chksm=eb0780f4dc7009e2c6850e295ad340bc0dbe0320c5f0ed3260639e5426668cbc123f45b02bf3#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617010&amp;idx=2&amp;sn=43da2e28d4b8aa7892381ffe8af7d679&amp;chksm=8022a133b7552825120e672d435f0d2d65670e1fd633bd5a7c9630b6638f189099561dde6218#rd"/>
         <updated>2023-10-12T16:00:00.000Z</updated>
         <published>2023-10-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514211&amp;idx=1&amp;sn=7105b00ad3f7c2425b10c5fa117ac6fe&amp;chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd"/>
-        <updated>2023-10-11T16:00:00.000Z</updated>
-        <published>2023-10-11T16:00:00.000Z</published>
     </entry>
 </feed>
