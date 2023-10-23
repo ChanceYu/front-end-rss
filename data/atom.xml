@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-23T15:00:43.510Z</updated>
+    <updated>2023-10-23T22:01:02.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[精读《算法题 - 编辑距离》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487161&amp;idx=1&amp;sn=eeaec682d0a496df7d1b4e18d3182361&amp;chksm=fc862873cbf1a16552d67f7db255c8e303478ee4f65f87717915dd3cdf86830f6ccd67c18a28#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487161&amp;idx=1&amp;sn=eeaec682d0a496df7d1b4e18d3182361&amp;chksm=fc862873cbf1a16552d67f7db255c8e303478ee4f65f87717915dd3cdf86830f6ccd67c18a28#rd"/>
+        <updated>2023-10-22T16:00:00.000Z</updated>
+        <published>2023-10-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小技巧 | 渐变消失遮罩的多种实现方式]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496941&amp;idx=1&amp;sn=c3f322cd8e4b2565233c8c9939cce702&amp;chksm=ce26971bf9511e0d16cadc8c44e84fe5301f233866f5d26827ca32fadd3c8a0cbed540224dc8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496941&amp;idx=1&amp;sn=c3f322cd8e4b2565233c8c9939cce702&amp;chksm=ce26971bf9511e0d16cadc8c44e84fe5301f233866f5d26827ca32fadd3c8a0cbed540224dc8#rd"/>
         <updated>2023-10-22T16:00:00.000Z</updated>
         <published>2023-10-22T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3083期】使用Intl segmenter API]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266348&amp;idx=1&amp;sn=37cc698a0d8ffbf7dee6ed09cbd6d24b&amp;chksm=bd48c4a88a3f4dbe7c6177aa46f8f3697641403ab429466a182cb0abee4789d3fe4c58f0e0f5#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266348&amp;idx=1&amp;sn=37cc698a0d8ffbf7dee6ed09cbd6d24b&amp;chksm=bd48c4a88a3f4dbe7c6177aa46f8f3697641403ab429466a182cb0abee4789d3fe4c58f0e0f5#rd"/>
-        <updated>2023-10-16T16:00:00.000Z</updated>
-        <published>2023-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】labuladong 的算法笔记]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266348&amp;idx=2&amp;sn=8c70e0bee21c132adc3cc4b91d74ba33&amp;chksm=bd48c4a88a3f4dbe8c87d94562d415fd7bf7250d1986addb481c5ca18ae6dfa25a760a67088f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266348&amp;idx=2&amp;sn=8c70e0bee21c132adc3cc4b91d74ba33&amp;chksm=bd48c4a88a3f4dbe8c87d94562d415fd7bf7250d1986addb481c5ca18ae6dfa25a760a67088f#rd"/>
         <updated>2023-10-16T16:00:00.000Z</updated>
         <published>2023-10-16T16:00:00.000Z</published>
     </entry>
