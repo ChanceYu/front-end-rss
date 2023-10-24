@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-24T10:00:49.866Z</updated>
+    <updated>2023-10-24T15:01:07.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[最近，前端面试真疯了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496953&amp;idx=1&amp;sn=4c7a76a65a3bb711201b5f23a116c3cb&amp;chksm=ce26970ff9511e19e9d31a25ac054b4e2d1b93941b322fb954ec2d1102fbfbbdcc5bafcb7bc6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496953&amp;idx=1&amp;sn=4c7a76a65a3bb711201b5f23a116c3cb&amp;chksm=ce26970ff9511e19e9d31a25ac054b4e2d1b93941b322fb954ec2d1102fbfbbdcc5bafcb7bc6#rd"/>
+        <updated>2023-10-23T16:00:00.000Z</updated>
+        <published>2023-10-23T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从小白到大白 — 如何开发 VSCode 插件]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617171&amp;idx=2&amp;sn=d2c3609e5a1d5f10caabf90c9d38bac0&amp;chksm=8022a052b7552944714e7e0e6d8101f162d56350a0dc298af4bf1a6b9009f25f3562800706e1#rd</id>
@@ -39,6 +46,13 @@
         <title type="html"><![CDATA[【第3090期】云音乐如何「搭」出新首页]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266489&amp;idx=1&amp;sn=45aac71c448bf9cc387e54ca451d8eb0&amp;chksm=bd48c43d8a3f4d2b7ad85c68abdb6435aa1571b79258960205e0b92156f0ae6f05a00b5000b9#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266489&amp;idx=1&amp;sn=45aac71c448bf9cc387e54ca451d8eb0&amp;chksm=bd48c43d8a3f4d2b7ad85c68abdb6435aa1571b79258960205e0b92156f0ae6f05a00b5000b9#rd"/>
+        <updated>2023-10-23T16:00:00.000Z</updated>
+        <published>2023-10-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking Node to the JVM]]></title>
+        <id>https://nodeweekly.com/issues/507</id>
+        <link href="https://nodeweekly.com/issues/507"/>
         <updated>2023-10-23T16:00:00.000Z</updated>
         <published>2023-10-23T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266384&amp;idx=2&amp;sn=903707079ef69b8d69c55032813c9c90&amp;chksm=bd48c4d48a3f4dc2f67ec9521796ceca3a6988090207c320acb44eec12342c8e4cf94b1c26db#rd"/>
         <updated>2023-10-17T16:00:00.000Z</updated>
         <published>2023-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像这样的前端女生，真的会被公司抢着要！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514234&amp;idx=1&amp;sn=7a55fd3922161d0ff51c408b4cea1516&amp;chksm=eb078003dc700915e85e81e2f029f70a7ad3df0dcd04fcf72bcda537c90cad0fbe3d69032e75#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514234&amp;idx=1&amp;sn=7a55fd3922161d0ff51c408b4cea1516&amp;chksm=eb078003dc700915e85e81e2f029f70a7ad3df0dcd04fcf72bcda537c90cad0fbe3d69032e75#rd"/>
-        <updated>2023-10-16T16:00:00.000Z</updated>
-        <published>2023-10-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端页面秒开的关键 - 小白也能看懂的同构渲染原理和实现]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516597&amp;idx=1&amp;sn=d61f948574af525f837dbde7d16af67d&amp;chksm=f9928764cee50e72154acc462f9716b032724c0419cf4c7257079c05465861408314f77ebd1f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516597&amp;idx=1&amp;sn=d61f948574af525f837dbde7d16af67d&amp;chksm=f9928764cee50e72154acc462f9716b032724c0419cf4c7257079c05465861408314f77ebd1f#rd"/>
-        <updated>2023-10-16T16:00:00.000Z</updated>
-        <published>2023-10-16T16:00:00.000Z</published>
     </entry>
 </feed>
