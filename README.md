@@ -10,19 +10,19 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-24 06:01:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-24 08:00:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2023-10-23-【第3089期】从Web-版-Photoshop中找到的CSS信息](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266471&idx=1&sn=9ca012fb1359298b77da35f5b112ec6c&chksm=bd48c4238a3f4d35c47591b123c81c091859a3596c6e6ae037285d65b10458111c06d94be709#rd)  
+- [2023-10-24-【第3090期】云音乐如何「搭」出新首页](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266489&idx=1&sn=45aac71c448bf9cc387e54ca451d8eb0&chksm=bd48c43d8a3f4d2b7ad85c68abdb6435aa1571b79258960205e0b92156f0ae6f05a00b5000b9#rd) ![](/assets/new.png)  
+- [2023-10-24-【早说】如何“演”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266489&idx=2&sn=343413d0dd7215eb1569a5662f8c76b4&chksm=bd48c43d8a3f4d2b2a242dde69a2a76b3746c74872279ed96ad32265ed4e03aaccef6577457f#rd) ![](/assets/new.png)  
 - [2023-10-23-【早说】做了，理解了](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266471&idx=2&sn=3cfb9dd6c63496b9c7d912b4717a41fa&chksm=bd48c4238a3f4d35981c8252baf261ee9c070439c313c4562df46ba56a1c1c3a80ffc32ce2ce#rd)  
-- [2023-10-22-【第3088期】Visual-Copilot-一键生成：用AI-将Figma-设计稿直接生成可维护的代码](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266467&idx=1&sn=b5a23b811f11c7d058bd667c494586a6&chksm=bd48c4278a3f4d3187058805400e08a8490d46913f2538bbacb91666dad73e55151f31dd82a3#rd)  
+- [2023-10-23-【第3089期】从Web-版-Photoshop中找到的CSS信息](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266471&idx=1&sn=9ca012fb1359298b77da35f5b112ec6c&chksm=bd48c4238a3f4d35c47591b123c81c091859a3596c6e6ae037285d65b10458111c06d94be709#rd)  
 - [2023-10-22-【早说】为“知识”理性消费](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266467&idx=2&sn=0dfc37655acc90e5c28bd0a66b7a563f&chksm=bd48c4278a3f4d3188fac3253f37f1474674efa257da51f0cd7ad5ca3931fed3848b00325ac2#rd)  
-- [2023-10-21-【早说】奥德赛计划](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266463&idx=2&sn=fc3aa89d7ce4c2091ad38715274a2adc&chksm=bd48c41b8a3f4d0d70c980d350fbff15f769978455ef202eec87d0c2a9f0675963b7c2bf5b6a#rd)  
+- [2023-10-22-【第3088期】Visual-Copilot-一键生成：用AI-将Figma-设计稿直接生成可维护的代码](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266467&idx=1&sn=b5a23b811f11c7d058bd667c494586a6&chksm=bd48c4278a3f4d3187058805400e08a8490d46913f2538bbacb91666dad73e55151f31dd82a3#rd)  
 - [2023-10-21-【第3087期】前端代码重复度检测](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266463&idx=1&sn=71a13dfa3df868d09627caf277f20b37&chksm=bd48c41b8a3f4d0de51fe248096e7a5f767432c99a5b19ae4cce14a958931059be5020d3ca45#rd)  
-- [2023-10-20-【早说】揪头发](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266459&idx=2&sn=6f3a100d1d4e6c6d5b1ace5e8d8b658e&chksm=bd48c41f8a3f4d095b1bd0519d38871693ddf222b8d60b26c2d0409d8702256f9d3a8866aae8#rd)  
+- [2023-10-21-【早说】奥德赛计划](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266463&idx=2&sn=fc3aa89d7ce4c2091ad38715274a2adc&chksm=bd48c41b8a3f4d0d70c980d350fbff15f769978455ef202eec87d0c2a9f0675963b7c2bf5b6a#rd)  
 - [2023-10-20-【第3086期】微前端框架MicroApp-1.0正式发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266459&idx=1&sn=10a46d29b008f0b8a38145c3f1d4bee6&chksm=bd48c41f8a3f4d09e3e6bbd035f4589d7c4c416738a69a59acb639c0300444a350e41e97ad3c#rd)  
-- [2023-10-19-【第3085期】File-System-Access-API-入门](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266406&idx=1&sn=11349e6c0a21facdb7e90135c20721ab&chksm=bd48c4e28a3f4df4a753a8261f52059aeab3ca415a78c13b62e640b66957ee7975f553b2ca6e#rd)  
+- [2023-10-20-【早说】揪头发](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266459&idx=2&sn=6f3a100d1d4e6c6d5b1ace5e8d8b658e&chksm=bd48c41f8a3f4d095b1bd0519d38871693ddf222b8d60b26c2d0409d8702256f9d3a8866aae8#rd)  
 - [2023-10-19-【早说】设计与工程思维](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266406&idx=2&sn=5fc6a2c496e938f82cea481fcdde57c0&chksm=bd48c4e28a3f4df4fdc0163a39c990cc1c1ff963c55e9b05ed67de2a2b3877281d20ded99f85#rd)  
-- [2023-10-18-【第3084期】大模型在低代码平台中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266384&idx=1&sn=fc57c6009697277b9eefb35b75ba38ef&chksm=bd48c4d48a3f4dc2c3a308e2e62379c98842ce75c71438cb50d84bf98248cd55654b493795ac#rd)  
+- [2023-10-19-【第3085期】File-System-Access-API-入门](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266406&idx=1&sn=11349e6c0a21facdb7e90135c20721ab&chksm=bd48c4e28a3f4df4a753a8261f52059aeab3ca415a78c13b62e640b66957ee7975f553b2ca6e#rd)  
 - [2023-10-18-【招聘】TikTok国际电商-商业平台招聘前端工程师/前端Leader](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266384&idx=2&sn=903707079ef69b8d69c55032813c9c90&chksm=bd48c4d48a3f4dc2f67ec9521796ceca3a6988090207c320acb44eec12342c8e4cf94b1c26db#rd)  
-- [2023-10-17-【图书】labuladong-的算法笔记](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266348&idx=2&sn=8c70e0bee21c132adc3cc4b91d74ba33&chksm=bd48c4a88a3f4dbe8c87d94562d415fd7bf7250d1986addb481c5ca18ae6dfa25a760a67088f#rd)  
+- [2023-10-18-【第3084期】大模型在低代码平台中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266384&idx=1&sn=fc57c6009697277b9eefb35b75ba38ef&chksm=bd48c4d48a3f4dc2c3a308e2e62379c98842ce75c71438cb50d84bf98248cd55654b493795ac#rd)  
 - [2023-10-17-【第3083期】使用Intl-segmenter-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266348&idx=1&sn=37cc698a0d8ffbf7dee6ed09cbd6d24b&chksm=bd48c4a88a3f4dbe7c6177aa46f8f3697641403ab429466a182cb0abee4789d3fe4c58f0e0f5#rd)  
-- [2023-10-16-【活动】第六届-FEDAY-来啦，11-月-18-日，杭州见！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266333&idx=2&sn=37cf581be35bfcb540c28eb8f11ca37b&chksm=bd48c4998a3f4d8f6428e84b5de5d36aa58342693b0c41edc950565af3578c1005093857512c#rd)  
+- [2023-10-17-【图书】labuladong-的算法笔记](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266348&idx=2&sn=8c70e0bee21c132adc3cc4b91d74ba33&chksm=bd48c4a88a3f4dbe8c87d94562d415fd7bf7250d1986addb481c5ca18ae6dfa25a760a67088f#rd)  
 - [2023-10-16-【第3082期】网易云音乐-Tango-低代码引擎实现揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266333&idx=1&sn=f86383ed3a789a15b5f9199c7a69e0f1&chksm=bd48c4998a3f4d8f421122da41d7fa0296bf9a6000475a4141bed5cb024e8c35ddd51972d692#rd)  
-- [2023-10-15-【早说】计划的颗粒度不要太粗](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266329&idx=2&sn=09a98ca10608b06a9c8fff9af32de026&chksm=bd48c49d8a3f4d8b2a3961601a558cef0d598ea182f1b60499ad432003f6cf6d3222a9272e9a#rd)  
+- [2023-10-16-【活动】第六届-FEDAY-来啦，11-月-18-日，杭州见！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266333&idx=2&sn=37cf581be35bfcb540c28eb8f11ca37b&chksm=bd48c4998a3f4d8f6428e84b5de5d36aa58342693b0c41edc950565af3578c1005093857512c#rd)  
 - [2023-10-15-【第3081期】职场方向:“黏合剂”角色,值得被看见](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266329&idx=1&sn=067a5dede4798704014f7cd11b6b236e&chksm=bd48c49d8a3f4d8b384ae61038e49dfde323dc60ae6add0f41eca310802ecfe733338a695669#rd)  
-- [2023-10-14-【第3080期】认识的“最糟糕”的程序员](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266325&idx=1&sn=d3bad3037fed0d3ea44d353f5969b28e&chksm=bd48c4918a3f4d879a05099922e721c5e62e416c34cb0d6be3e6495782d87287e3ffed8375d3#rd)  
-- [2023-09-29-聚焦汽车工业-城市摄影队走进车谷](https://mp.weixin.qq.com/s?__biz=MzA3MzU2ODQzMQ==&mid=2651794340&idx=2&sn=35857fc108e2a8c55512ce34d73bd146&chksm=84f69264b3811b72e7e433399855254e78f047bbebeda886103e64ba8614cb001e92e48ba61a#rd)  
+- [2023-10-15-【早说】计划的颗粒度不要太粗](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266329&idx=2&sn=09a98ca10608b06a9c8fff9af32de026&chksm=bd48c49d8a3f4d8b2a3961601a558cef0d598ea182f1b60499ad432003f6cf6d3222a9272e9a#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -290,7 +290,7 @@
 </summary>
 
 
-- [2023-10-23-小技巧-|-渐变消失遮罩的多种实现方式](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496941&idx=1&sn=c3f322cd8e4b2565233c8c9939cce702&chksm=ce26971bf9511e0d16cadc8c44e84fe5301f233866f5d26827ca32fadd3c8a0cbed540224dc8#rd) ![](/assets/new.png)  
+- [2023-10-23-小技巧-|-渐变消失遮罩的多种实现方式](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496941&idx=1&sn=c3f322cd8e4b2565233c8c9939cce702&chksm=ce26971bf9511e0d16cadc8c44e84fe5301f233866f5d26827ca32fadd3c8a0cbed540224dc8#rd)  
 - [2023-10-19-【Amazing】还原拉斯维加斯球数字动画](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496921&idx=1&sn=e2522177ce1785b0b9efeec706f18b1c&chksm=ce26972ff9511e3995665fae4ad66458a8a669cad977a7d93a0bd8e5e68879a3a26b1370bb79#rd)  
 - [2023-10-18-复盘前端岗位现状之后-，有点想开了](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496876&idx=1&sn=0cef6dc54e99573f596a40a88b700f41&chksm=ce26975af9511e4c268b6300e1f96b4631cf9cd1e806ebbfaf9f1337b81e26ffac92c765c268#rd)  
 - [2023-10-16-CSS魔法！如何将任意CSS类型转换为数值？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247496861&idx=1&sn=41c5fc63a61963d2b3f00f2a7bcf82fb&chksm=ce26976bf9511e7d6be4fbb5d05d2c41d65186191418ab9ca5c676884e277704c4a8c92e380e#rd)  
