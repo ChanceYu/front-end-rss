@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-25T10:01:03.342Z</updated>
+    <updated>2023-10-25T15:00:56.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[我的 《CSS 技术揭秘与实战通关》 限时 5 折！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497141&amp;idx=2&amp;sn=243ff28556b61e04899ff23b4a6004bd&amp;chksm=ce269643f9511f552c61b6537ad00d2f7c230681c67ab88a226ddab93c2fa9ce22bf0d5c1c9b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497141&amp;idx=2&amp;sn=243ff28556b61e04899ff23b4a6004bd&amp;chksm=ce269643f9511f552c61b6537ad00d2f7c230681c67ab88a226ddab93c2fa9ce22bf0d5c1c9b#rd"/>
+        <updated>2023-10-24T16:00:00.000Z</updated>
+        <published>2023-10-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【动画进阶】单标签下多色块随机文字随机颜色动画]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497141&amp;idx=1&amp;sn=43432acb9742cd607fca2e4d607b8c33&amp;chksm=ce269643f9511f555086463e7d9efe015e658b69dfc41cd6654e2c4bc43e3100de8563849dfe#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497141&amp;idx=1&amp;sn=43432acb9742cd607fca2e4d607b8c33&amp;chksm=ce269643f9511f555086463e7d9efe015e658b69dfc41cd6654e2c4bc43e3100de8563849dfe#rd"/>
+        <updated>2023-10-24T16:00:00.000Z</updated>
+        <published>2023-10-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Webpack】动态import原理及源码分析]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[复盘前端岗位现状之后 ，有点想开了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496876&amp;idx=1&amp;sn=0cef6dc54e99573f596a40a88b700f41&amp;chksm=ce26975af9511e4c268b6300e1f96b4631cf9cd1e806ebbfaf9f1337b81e26ffac92c765c268#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496876&amp;idx=1&amp;sn=0cef6dc54e99573f596a40a88b700f41&amp;chksm=ce26975af9511e4c268b6300e1f96b4631cf9cd1e806ebbfaf9f1337b81e26ffac92c765c268#rd"/>
-        <updated>2023-10-17T16:00:00.000Z</updated>
-        <published>2023-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文揭秘Vue3组件库的优雅打包与细节]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516673&amp;idx=1&amp;sn=feae1cb7db06bb08635c1c87d95a8a42&amp;chksm=f99284d0cee50dc61cb53fec7d267ff832c772ca59f96a63d12190d79cc0c16860ccf0ebe1a8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516673&amp;idx=1&amp;sn=feae1cb7db06bb08635c1c87d95a8a42&amp;chksm=f99284d0cee50dc61cb53fec7d267ff832c772ca59f96a63d12190d79cc0c16860ccf0ebe1a8#rd"/>
-        <updated>2023-10-17T16:00:00.000Z</updated>
-        <published>2023-10-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite3+Vue3+ts+pinia+NaiveUI项目实战--国际化配置]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516673&amp;idx=2&amp;sn=35b021eefe3edd9a018569bfbc516fdd&amp;chksm=f99284d0cee50dc6d5c0eb60436639d8f3fe92e605e4fde01cf1ff0f330d7137dddb78146232#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516673&amp;idx=2&amp;sn=35b021eefe3edd9a018569bfbc516fdd&amp;chksm=f99284d0cee50dc6d5c0eb60436639d8f3fe92e605e4fde01cf1ff0f330d7137dddb78146232#rd"/>
         <updated>2023-10-17T16:00:00.000Z</updated>
         <published>2023-10-17T16:00:00.000Z</published>
     </entry>
