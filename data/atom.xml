@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-26T15:03:32.516Z</updated>
+    <updated>2023-10-26T22:00:56.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[【第3092期】本地优先软件 Local-first software]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266619&amp;idx=1&amp;sn=146f24a5a2a4be86a4fc263e60484bbf&amp;chksm=bd48c7bf8a3f4ea980ae7bba8d00ed7c4dacfd05762dbf830eedd5fe2e8fc43b0ec7b578d4d4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266619&amp;idx=1&amp;sn=146f24a5a2a4be86a4fc263e60484bbf&amp;chksm=bd48c7bf8a3f4ea980ae7bba8d00ed7c4dacfd05762dbf830eedd5fe2e8fc43b0ec7b578d4d4#rd"/>
+        <updated>2023-10-25T16:00:00.000Z</updated>
+        <published>2023-10-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Components forever?]]></title>
+        <id>https://javascriptweekly.com/issues/660</id>
+        <link href="https://javascriptweekly.com/issues/660"/>
         <updated>2023-10-25T16:00:00.000Z</updated>
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3086期】微前端框架MicroApp 1.0正式发布]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266459&amp;idx=1&amp;sn=10a46d29b008f0b8a38145c3f1d4bee6&amp;chksm=bd48c41f8a3f4d09e3e6bbd035f4589d7c4c416738a69a59acb639c0300444a350e41e97ad3c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266459&amp;idx=1&amp;sn=10a46d29b008f0b8a38145c3f1d4bee6&amp;chksm=bd48c41f8a3f4d09e3e6bbd035f4589d7c4c416738a69a59acb639c0300444a350e41e97ad3c#rd"/>
-        <updated>2023-10-19T16:00:00.000Z</updated>
-        <published>2023-10-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】揪头发]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266459&amp;idx=2&amp;sn=6f3a100d1d4e6c6d5b1ace5e8d8b658e&amp;chksm=bd48c41f8a3f4d095b1bd0519d38871693ddf222b8d60b26c2d0409d8702256f9d3a8866aae8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266459&amp;idx=2&amp;sn=6f3a100d1d4e6c6d5b1ace5e8d8b658e&amp;chksm=bd48c41f8a3f4d095b1bd0519d38871693ddf222b8d60b26c2d0409d8702256f9d3a8866aae8#rd"/>
         <updated>2023-10-19T16:00:00.000Z</updated>
         <published>2023-10-19T16:00:00.000Z</published>
     </entry>

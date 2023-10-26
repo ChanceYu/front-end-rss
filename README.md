@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-26 23:03:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-27 06:00:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-10-26-Web-Components-forever?](https://javascriptweekly.com/issues/660) ![](/assets/new.png)  
 - [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)  
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
@@ -92,7 +93,6 @@
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
 - [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
 - [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
-- [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -105,7 +105,7 @@
 
 
 - [2023-10-26-【第3092期】本地优先软件-Local-first-software](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266619&idx=1&sn=146f24a5a2a4be86a4fc263e60484bbf&chksm=bd48c7bf8a3f4ea980ae7bba8d00ed7c4dacfd05762dbf830eedd5fe2e8fc43b0ec7b578d4d4#rd)  
-- [2023-10-26-【早说】478呼吸法3步帮你快速入睡](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266619&idx=2&sn=d3ce2fa24c99a56597ff1b3ee4fb6464&chksm=bd48c7bf8a3f4ea980b45c49c0a6e0f544a3d25ed45be141fccdd1d613d663ad9a7419ab48da#rd) ![](/assets/new.png)  
+- [2023-10-26-【早说】478呼吸法3步帮你快速入睡](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266619&idx=2&sn=d3ce2fa24c99a56597ff1b3ee4fb6464&chksm=bd48c7bf8a3f4ea980b45c49c0a6e0f544a3d25ed45be141fccdd1d613d663ad9a7419ab48da#rd)  
 - [2023-10-25-【第3091期】携程机票定制代码生成器实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266522&idx=1&sn=13d117a29e0a29156b6351210b0942f3&chksm=bd48c45e8a3f4d485eed90967bce7ed34ea1b784350f5b56710795138f7b0c9a9306b203b2e4#rd)  
 - [2023-10-25-【招聘】厦门作业帮招大前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266522&idx=2&sn=76caccfc4fb6b0b8038bd225aad5514d&chksm=bd48c45e8a3f4d489ab966e197fb700a5086140cd8d1e77f2a50baca1a34a9cc008738efc40c#rd)  
 - [2023-10-24-【早说】如何“演”](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266489&idx=2&sn=343413d0dd7215eb1569a5662f8c76b4&chksm=bd48c43d8a3f4d2b2a242dde69a2a76b3746c74872279ed96ad32265ed4e03aaccef6577457f#rd)  
