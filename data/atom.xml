@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-26T22:00:56.700Z</updated>
+    <updated>2023-10-27T02:01:08.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 275 期）：彼得·蒂尔的实验]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html"/>
+        <updated>2023-10-26T16:00:00.000Z</updated>
+        <published>2023-10-26T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端已成气候]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497155&amp;idx=1&amp;sn=860614b532d046a728efa67f93837e20&amp;chksm=ce269635f9511f23be05a4f1f2f74df8a98b54df493939b1fb736a0ec732021ea147cb1b0114#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[还原现场前端录制用户行为技术方案]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617107&amp;idx=2&amp;sn=bf62295998e68bb7014a2b3494bd1134&amp;chksm=8022a092b75529842913d01eecd2b4b669ec6df1efae11185bcbd609d69014d7bac16050e311#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617107&amp;idx=2&amp;sn=bf62295998e68bb7014a2b3494bd1134&amp;chksm=8022a092b75529842913d01eecd2b4b669ec6df1efae11185bcbd609d69014d7bac16050e311#rd"/>
-        <updated>2023-10-19T16:00:00.000Z</updated>
-        <published>2023-10-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3086期】微前端框架MicroApp 1.0正式发布]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266459&amp;idx=1&amp;sn=10a46d29b008f0b8a38145c3f1d4bee6&amp;chksm=bd48c41f8a3f4d09e3e6bbd035f4589d7c4c416738a69a59acb639c0300444a350e41e97ad3c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266459&amp;idx=1&amp;sn=10a46d29b008f0b8a38145c3f1d4bee6&amp;chksm=bd48c41f8a3f4d09e3e6bbd035f4589d7c4c416738a69a59acb639c0300444a350e41e97ad3c#rd"/>
         <updated>2023-10-19T16:00:00.000Z</updated>
         <published>2023-10-19T16:00:00.000Z</published>
     </entry>
