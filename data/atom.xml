@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-30T07:01:06.471Z</updated>
+    <updated>2023-10-30T13:00:55.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,27 @@
         <title type="html"><![CDATA[Vue 3.3.6 发布，得益于 WeakMap，它更快了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497158&amp;idx=1&amp;sn=b416866ba0571097fd8a0c5da1ef06e3&amp;chksm=ce269630f9511f26bc35185199458236e7c5f9a953f4fd2524b6066e9b09f33c9eab5259065e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497158&amp;idx=1&amp;sn=b416866ba0571097fd8a0c5da1ef06e3&amp;chksm=ce269630f9511f26bc35185199458236e7c5f9a953f4fd2524b6066e9b09f33c9eab5259065e#rd"/>
+        <updated>2023-10-29T16:00:00.000Z</updated>
+        <published>2023-10-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太丝滑了！了解一下原生的视图转换动画 View Transitions API]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516786&amp;idx=2&amp;sn=4d881fe66e6f9ae3774f2f68d5940bfc&amp;chksm=f99284a3cee50db52fa1a270cc9865796ed66f0e9a07dd93f36ba5ab6faeb4d4db58edabb180#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516786&amp;idx=2&amp;sn=4d881fe66e6f9ae3774f2f68d5940bfc&amp;chksm=f99284a3cee50db52fa1a270cc9865796ed66f0e9a07dd93f36ba5ab6faeb4d4db58edabb180#rd"/>
+        <updated>2023-10-29T16:00:00.000Z</updated>
+        <published>2023-10-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516786&amp;idx=1&amp;sn=35b8475e3930ce08aa7afbcd65281f23&amp;chksm=f99284a3cee50db584c388198f88caf87745ab9b7edd2823bdfa83ccf9d3cdf4f153bb425b85#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516786&amp;idx=1&amp;sn=35b8475e3930ce08aa7afbcd65281f23&amp;chksm=f99284a3cee50db584c388198f88caf87745ab9b7edd2823bdfa83ccf9d3cdf4f153bb425b85#rd"/>
+        <updated>2023-10-29T16:00:00.000Z</updated>
+        <published>2023-10-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端所有主流框架，其实都是在自欺欺人]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522743&amp;idx=1&amp;sn=e261bc9fac1bc39aaa32e574e5976e50&amp;chksm=f9522cf4ce25a5e24c61d2d1c24dad275ca5185446a9ff3ebb774a826553ae0383e7ae2c53c7#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522743&amp;idx=1&amp;sn=e261bc9fac1bc39aaa32e574e5976e50&amp;chksm=f9522cf4ce25a5e24c61d2d1c24dad275ca5185446a9ff3ebb774a826553ae0383e7ae2c53c7#rd"/>
         <updated>2023-10-29T16:00:00.000Z</updated>
         <published>2023-10-29T16:00:00.000Z</published>
     </entry>
@@ -64,16 +85,16 @@
         <published>2023-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[让 web 再次伟大：用 CanvasKit 实现超级丝滑的原神地图（已开源）！！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=1&amp;sn=d190cd16d004b44943d0331892d72969&amp;chksm=f99284bacee50dac8ffaf1c900943038549bcb0a79773d85f804b7e5dc4a9785c783194b6062#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=1&amp;sn=d190cd16d004b44943d0331892d72969&amp;chksm=f99284bacee50dac8ffaf1c900943038549bcb0a79773d85f804b7e5dc4a9785c783194b6062#rd"/>
+        <title type="html"><![CDATA[如何设计一个支持并发的前端缓存接口？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=2&amp;sn=d3e3b13537ccb6b7d66275b030651f2c&amp;chksm=f99284bacee50daca28a4a1fcf3a6ed81c74e79c850545433d1190a09f133bc93639f3577f03#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=2&amp;sn=d3e3b13537ccb6b7d66275b030651f2c&amp;chksm=f99284bacee50daca28a4a1fcf3a6ed81c74e79c850545433d1190a09f133bc93639f3577f03#rd"/>
         <updated>2023-10-28T16:00:00.000Z</updated>
         <published>2023-10-28T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何设计一个支持并发的前端缓存接口？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=2&amp;sn=d3e3b13537ccb6b7d66275b030651f2c&amp;chksm=f99284bacee50daca28a4a1fcf3a6ed81c74e79c850545433d1190a09f133bc93639f3577f03#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=2&amp;sn=d3e3b13537ccb6b7d66275b030651f2c&amp;chksm=f99284bacee50daca28a4a1fcf3a6ed81c74e79c850545433d1190a09f133bc93639f3577f03#rd"/>
+        <title type="html"><![CDATA[让 web 再次伟大：用 CanvasKit 实现超级丝滑的原神地图（已开源）！！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=1&amp;sn=d190cd16d004b44943d0331892d72969&amp;chksm=f99284bacee50dac8ffaf1c900943038549bcb0a79773d85f804b7e5dc4a9785c783194b6062#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516779&amp;idx=1&amp;sn=d190cd16d004b44943d0331892d72969&amp;chksm=f99284bacee50dac8ffaf1c900943038549bcb0a79773d85f804b7e5dc4a9785c783194b6062#rd"/>
         <updated>2023-10-28T16:00:00.000Z</updated>
         <published>2023-10-28T16:00:00.000Z</published>
     </entry>
@@ -127,16 +148,16 @@
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[53道常见NodeJS基础面试题（附答案）]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=2&amp;sn=6f27c5714351e275684de10b8d426872&amp;chksm=f99284b4cee50da24a3f564b1d71df3d4310d6f7494d16eb6ef9a59d899f8b16a789a8458bf5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=2&amp;sn=6f27c5714351e275684de10b8d426872&amp;chksm=f99284b4cee50da24a3f564b1d71df3d4310d6f7494d16eb6ef9a59d899f8b16a789a8458bf5#rd"/>
+        <title type="html"><![CDATA[写一个VSCode插件：小幅提升使用TS时的幸福感]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=1&amp;sn=481d051c5b28f93078707c3cf1657807&amp;chksm=f99284b4cee50da2ad098dfad4765bddd4ae02c49773ea1776956ac3d7365f8268377cbc1028#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=1&amp;sn=481d051c5b28f93078707c3cf1657807&amp;chksm=f99284b4cee50da2ad098dfad4765bddd4ae02c49773ea1776956ac3d7365f8268377cbc1028#rd"/>
         <updated>2023-10-26T16:00:00.000Z</updated>
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[写一个VSCode插件：小幅提升使用TS时的幸福感]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=1&amp;sn=481d051c5b28f93078707c3cf1657807&amp;chksm=f99284b4cee50da2ad098dfad4765bddd4ae02c49773ea1776956ac3d7365f8268377cbc1028#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=1&amp;sn=481d051c5b28f93078707c3cf1657807&amp;chksm=f99284b4cee50da2ad098dfad4765bddd4ae02c49773ea1776956ac3d7365f8268377cbc1028#rd"/>
+        <title type="html"><![CDATA[53道常见NodeJS基础面试题（附答案）]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=2&amp;sn=6f27c5714351e275684de10b8d426872&amp;chksm=f99284b4cee50da24a3f564b1d71df3d4310d6f7494d16eb6ef9a59d899f8b16a789a8458bf5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=2&amp;sn=6f27c5714351e275684de10b8d426872&amp;chksm=f99284b4cee50da24a3f564b1d71df3d4310d6f7494d16eb6ef9a59d899f8b16a789a8458bf5#rd"/>
         <updated>2023-10-26T16:00:00.000Z</updated>
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
@@ -197,16 +218,16 @@
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不满意网上的Token无感知刷新方案，自己琢磨了个解决方案~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=1&amp;sn=b1ee5aaed64d4ef7ca94ff49bffb5067&amp;chksm=f992848ccee50d9a3f6f68d14f775b7c94b83972b750af752d971e16baa91d78930abdfc58c1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=1&amp;sn=b1ee5aaed64d4ef7ca94ff49bffb5067&amp;chksm=f992848ccee50d9a3f6f68d14f775b7c94b83972b750af752d971e16baa91d78930abdfc58c1#rd"/>
+        <title type="html"><![CDATA[想成为优秀前端，你需要知道这些！（基本素养、代码规范、开发技巧）]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=2&amp;sn=d741e4bdf7a7c12a18a40093bb1d4fb4&amp;chksm=f992848ccee50d9a6cce44686de70b80cb0397d518cab6593c2cc41218edcdcca0424c784439#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=2&amp;sn=d741e4bdf7a7c12a18a40093bb1d4fb4&amp;chksm=f992848ccee50d9a6cce44686de70b80cb0397d518cab6593c2cc41218edcdcca0424c784439#rd"/>
         <updated>2023-10-25T16:00:00.000Z</updated>
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[想成为优秀前端，你需要知道这些！（基本素养、代码规范、开发技巧）]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=2&amp;sn=d741e4bdf7a7c12a18a40093bb1d4fb4&amp;chksm=f992848ccee50d9a6cce44686de70b80cb0397d518cab6593c2cc41218edcdcca0424c784439#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=2&amp;sn=d741e4bdf7a7c12a18a40093bb1d4fb4&amp;chksm=f992848ccee50d9a6cce44686de70b80cb0397d518cab6593c2cc41218edcdcca0424c784439#rd"/>
+        <title type="html"><![CDATA[不满意网上的Token无感知刷新方案，自己琢磨了个解决方案~]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=1&amp;sn=b1ee5aaed64d4ef7ca94ff49bffb5067&amp;chksm=f992848ccee50d9a3f6f68d14f775b7c94b83972b750af752d971e16baa91d78930abdfc58c1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516765&amp;idx=1&amp;sn=b1ee5aaed64d4ef7ca94ff49bffb5067&amp;chksm=f992848ccee50d9a3f6f68d14f775b7c94b83972b750af752d971e16baa91d78930abdfc58c1#rd"/>
         <updated>2023-10-25T16:00:00.000Z</updated>
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
@@ -267,16 +288,16 @@
         <published>2023-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[写给高级前端的 Nginx 知识，一网打尽！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=1&amp;sn=1156876ebec45c1a0777b95460444505&amp;chksm=f9928486cee50d904d64778618ed94ed7b4eb4f614f863174e82b7fde2e61ce3a68c284c6ba6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=1&amp;sn=1156876ebec45c1a0777b95460444505&amp;chksm=f9928486cee50d904d64778618ed94ed7b4eb4f614f863174e82b7fde2e61ce3a68c284c6ba6#rd"/>
+        <title type="html"><![CDATA[【Webpack】动态import原理及源码分析]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd"/>
         <updated>2023-10-24T16:00:00.000Z</updated>
         <published>2023-10-24T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【Webpack】动态import原理及源码分析]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd"/>
+        <title type="html"><![CDATA[写给高级前端的 Nginx 知识，一网打尽！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=1&amp;sn=1156876ebec45c1a0777b95460444505&amp;chksm=f9928486cee50d904d64778618ed94ed7b4eb4f614f863174e82b7fde2e61ce3a68c284c6ba6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=1&amp;sn=1156876ebec45c1a0777b95460444505&amp;chksm=f9928486cee50d904d64778618ed94ed7b4eb4f614f863174e82b7fde2e61ce3a68c284c6ba6#rd"/>
         <updated>2023-10-24T16:00:00.000Z</updated>
         <published>2023-10-24T16:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[从小白到大白 — 如何开发 VSCode 插件]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617171&amp;idx=2&amp;sn=d2c3609e5a1d5f10caabf90c9d38bac0&amp;chksm=8022a052b7552944714e7e0e6d8101f162d56350a0dc298af4bf1a6b9009f25f3562800706e1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617171&amp;idx=2&amp;sn=d2c3609e5a1d5f10caabf90c9d38bac0&amp;chksm=8022a052b7552944714e7e0e6d8101f162d56350a0dc298af4bf1a6b9009f25f3562800706e1#rd"/>
-        <updated>2023-10-23T16:00:00.000Z</updated>
-        <published>2023-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】如何“演”]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266489&amp;idx=2&amp;sn=343413d0dd7215eb1569a5662f8c76b4&amp;chksm=bd48c43d8a3f4d2b2a242dde69a2a76b3746c74872279ed96ad32265ed4e03aaccef6577457f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266489&amp;idx=2&amp;sn=343413d0dd7215eb1569a5662f8c76b4&amp;chksm=bd48c43d8a3f4d2b2a242dde69a2a76b3746c74872279ed96ad32265ed4e03aaccef6577457f#rd"/>
-        <updated>2023-10-23T16:00:00.000Z</updated>
-        <published>2023-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3090期】云音乐如何「搭」出新首页]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266489&amp;idx=1&amp;sn=45aac71c448bf9cc387e54ca451d8eb0&amp;chksm=bd48c43d8a3f4d2b7ad85c68abdb6435aa1571b79258960205e0b92156f0ae6f05a00b5000b9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266489&amp;idx=1&amp;sn=45aac71c448bf9cc387e54ca451d8eb0&amp;chksm=bd48c43d8a3f4d2b7ad85c68abdb6435aa1571b79258960205e0b92156f0ae6f05a00b5000b9#rd"/>
-        <updated>2023-10-23T16:00:00.000Z</updated>
-        <published>2023-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking Node to the JVM]]></title>
-        <id>https://nodeweekly.com/issues/507</id>
-        <link href="https://nodeweekly.com/issues/507"/>
         <updated>2023-10-23T16:00:00.000Z</updated>
         <published>2023-10-23T16:00:00.000Z</published>
     </entry>
