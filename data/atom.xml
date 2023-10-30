@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-30T15:00:55.797Z</updated>
+    <updated>2023-10-30T22:00:48.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[使用 CSS columns 布局来实现自动分组布局]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488390&amp;idx=1&amp;sn=978c7eee04b644a82d7d7c880075f29c&amp;chksm=97c67049a0b1f95f6375bfcca7e5983a1ed95311312c7ff3b0dc6bb0db7e61f6de0f9ce08b4b#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488390&amp;idx=1&amp;sn=978c7eee04b644a82d7d7c880075f29c&amp;chksm=97c67049a0b1f95f6375bfcca7e5983a1ed95311312c7ff3b0dc6bb0db7e61f6de0f9ce08b4b#rd"/>
+        <updated>2023-10-29T16:00:00.000Z</updated>
+        <published>2023-10-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么样的前端开发，会被公司抢着要？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514373&amp;idx=1&amp;sn=c65af25b83565893b54654a00a68998d&amp;chksm=eb07817cdc70086a059086b7da95449d38a452f9f80b720fa145585221b76e582f3d307d9964#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514373&amp;idx=1&amp;sn=c65af25b83565893b54654a00a68998d&amp;chksm=eb07817cdc70086a059086b7da95449d38a452f9f80b720fa145585221b76e582f3d307d9964#rd"/>
         <updated>2023-10-29T16:00:00.000Z</updated>
         <published>2023-10-29T16:00:00.000Z</published>
     </entry>
@@ -204,16 +211,16 @@
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[（此文价值极大）ChatGPT 搞钱来了，抓紧进！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=1&amp;sn=36f12514b064d58ca13ea0a8756043c1&amp;chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=1&amp;sn=36f12514b064d58ca13ea0a8756043c1&amp;chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd"/>
+        <title type="html"><![CDATA[原子化真的是现代前端 CSS 的救星吗]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=2&amp;sn=d8b380701e42077edeb39cae5d861b4b&amp;chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=2&amp;sn=d8b380701e42077edeb39cae5d861b4b&amp;chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd"/>
         <updated>2023-10-25T16:00:00.000Z</updated>
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[原子化真的是现代前端 CSS 的救星吗]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=2&amp;sn=d8b380701e42077edeb39cae5d861b4b&amp;chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=2&amp;sn=d8b380701e42077edeb39cae5d861b4b&amp;chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd"/>
+        <title type="html"><![CDATA[（此文价值极大）ChatGPT 搞钱来了，抓紧进！！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=1&amp;sn=36f12514b064d58ca13ea0a8756043c1&amp;chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514305&amp;idx=1&amp;sn=36f12514b064d58ca13ea0a8756043c1&amp;chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd"/>
         <updated>2023-10-25T16:00:00.000Z</updated>
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[最近，前端面试真疯了。。。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496953&amp;idx=1&amp;sn=4c7a76a65a3bb711201b5f23a116c3cb&amp;chksm=ce26970ff9511e19e9d31a25ac054b4e2d1b93941b322fb954ec2d1102fbfbbdcc5bafcb7bc6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247496953&amp;idx=1&amp;sn=4c7a76a65a3bb711201b5f23a116c3cb&amp;chksm=ce26970ff9511e19e9d31a25ac054b4e2d1b93941b322fb954ec2d1102fbfbbdcc5bafcb7bc6#rd"/>
-        <updated>2023-10-23T16:00:00.000Z</updated>
-        <published>2023-10-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决import导入顺序杂乱无章的问题]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617171&amp;idx=1&amp;sn=7f768d469e0719d869d8199b925202a0&amp;chksm=8022a052b75529449c51d800de995b7110d60b1958fbc6a6ebb832689a45a62ca69729b2d6d3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617171&amp;idx=1&amp;sn=7f768d469e0719d869d8199b925202a0&amp;chksm=8022a052b75529449c51d800de995b7110d60b1958fbc6a6ebb832689a45a62ca69729b2d6d3#rd"/>
         <updated>2023-10-23T16:00:00.000Z</updated>
         <published>2023-10-23T16:00:00.000Z</published>
     </entry>

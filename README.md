@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-30 23:00:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-31 06:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -105,7 +105,7 @@
 
 
 - [2023-10-30-【早说】交付后如何关注运营与迭代](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266757&idx=2&sn=8cd25d5ce5aa900ddc667bad9d8a5767&chksm=bd48c7418a3f4e57549f21187aee8cd3897eb04c7afdc31d381413e97ca19daa8487b29373bd#rd)  
-- [2023-10-30-【第3096期】当字体回退时发生了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266757&idx=1&sn=4bde26e28c7033188fc2970a8681a33c&chksm=bd48c7418a3f4e57f86aa460bc904f2b508519a9ad863e27ac42af29c923c387480f0f734213#rd) ![](/assets/new.png)  
+- [2023-10-30-【第3096期】当字体回退时发生了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266757&idx=1&sn=4bde26e28c7033188fc2970a8681a33c&chksm=bd48c7418a3f4e57f86aa460bc904f2b508519a9ad863e27ac42af29c923c387480f0f734213#rd)  
 - [2023-10-29-【第3095期】JavaScript-令人惊讶的一点：对于空数组every方法返回true](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266751&idx=1&sn=f96894a519f24c79f54044362ffa2de9&chksm=bd48c73b8a3f4e2dc0323edc9e9be9a2a990fa19735fab97eb6447835676ad4d58c84f44801f#rd)  
 - [2023-10-28-【第3094期】Nicholas-C.-Zakas：对代码深度探索的思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266744&idx=1&sn=eef62ae48ecd973ffb8e66fabb2eae2b&chksm=bd48c73c8a3f4e2a42c6fb17787267f1d36d7a5379bbb511e371e8d9773d2c1d653247192b78#rd)  
 - [2023-10-28-【早说】工作适应理论](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266744&idx=2&sn=fb02bd8242ffca55f0043c157e6fca77&chksm=bd48c73c8a3f4e2a02dce4363a216cd35590f12697570529a6755d3709f94c5e805b865dfe9b#rd)  
@@ -414,11 +414,12 @@
 </summary>
 
 
+- [2023-10-30-什么样的前端开发，会被公司抢着要？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514373&idx=1&sn=c65af25b83565893b54654a00a68998d&chksm=eb07817cdc70086a059086b7da95449d38a452f9f80b720fa145585221b76e582f3d307d9964#rd) ![](/assets/new.png)  
 - [2023-10-29-记录一下27岁的前端，从二本到澳洲🦘的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514359&idx=1&sn=2e260cfc2f48f5a17fb1402f7be8003d&chksm=eb07808edc700998c118dfc055c133f4d80ed2e9c8498c3c1d5e216255be8557be28094fb770#rd)  
 - [2023-10-28-Next.js-14-正式发布，更快、更强、更可靠！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514313&idx=1&sn=9e1b1eecdfa120e6ee098c61d17e832b&chksm=eb0780b0dc7009a650076e2bb414cb7a24afa472156eed0d646241e315236c4e462425be38cc#rd)  
 - [2023-10-27-产品：请给我实现一个在web端截屏的功能！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514310&idx=1&sn=7c10c20371ca202c3ed7e23ff007b8cd&chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd)  
-- [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd)  
 - [2023-10-26-（此文价值极大）ChatGPT-搞钱来了，抓紧进！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=1&sn=36f12514b064d58ca13ea0a8756043c1&chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd)  
+- [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd)  
 - [2023-10-25-React-2024-生态系统：路由、状态管理、调试、测试、组件库、文档……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514288&idx=1&sn=fd4b8f93fe2d3a50ddfa97a17c010935&chksm=eb0780c9dc7009dfd61a642648725661f89653019a2310f0203a248699862a10774fe84b49c2#rd)  
 - [2023-10-24-1024程序员节！分享几套大厂前端题库！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514281&idx=1&sn=1468033241c77ae8b69abd3ecb190f1c&chksm=eb0780d0dc7009c67e73f58808cebdc476a8cb2702ebaeda2816bceff79c6dc6f05f2597fd18#rd)  
 - [2023-10-23-Remix-决定用-vite-代替-esbuild](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514267&idx=1&sn=86c6a5ff2b2b7ab4254e0d332ecc6c83&chksm=eb0780e2dc7009f46b2d801afd1a900aafc990248b9beb721076a217ca6943f87b797aec721f#rd)  
@@ -430,10 +431,9 @@
 - [2023-10-15-我真的理解vue3的diff-了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514218&idx=1&sn=3a023db4a84c863cff4ced21f36d99bb&chksm=eb078013dc70090588ccc61c74bc0666c5f47540e8fcd4d7f9fb8a28bfef82bd5e966f4b855b#rd)  
 - [2023-10-12-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514211&idx=1&sn=7105b00ad3f7c2425b10c5fa117ac6fe&chksm=eb07801adc70090ceb2cb3bad01b8e8fc5c0f2403646c756468b37b44443b1a3e917b3004553#rd)  
 - [2023-10-11-开源前端框架-NanUI-作者转行卖钢材：“很遗憾，项目将暂停开发”](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514192&idx=1&sn=015d61e3029fb3aad6b43739855f2b83&chksm=eb078029dc70093f35668dbab05241f8aea1211083cd77f08b12051780f2f24fb3b151da0a47#rd)  
-- [2023-10-10-yyds！懂行的前端人都开始用AI搞钱了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514179&idx=1&sn=a9d65192089b01d5c26d4e95021c3550&chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd)  
 - [2023-10-10-TypeScript-类型系统中一个巧妙的设计](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514179&idx=2&sn=787d38bf8325b916959422d188d80fb2&chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd)  
+- [2023-10-10-yyds！懂行的前端人都开始用AI搞钱了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514179&idx=1&sn=a9d65192089b01d5c26d4e95021c3550&chksm=eb07803adc70092cfe71f90967e42fb0aecbf1d590052f68f5731e4b304f216ccfbd32f1f2cd#rd)  
 - [2023-10-09-网易云音乐-Tango-低代码引擎实现揭秘](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514167&idx=1&sn=89d779430cc35ea8978a2d7330705954&chksm=eb07804edc7009588310abf2163c1df48542fcfe1a17f446b85deb0114d12c8faa27e31e057d#rd)  
-- [2023-10-08-八股文背烂也没用，面试官早改套路了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514164&idx=1&sn=95956bf1f2ffbf8906a0d84661da2b99&chksm=eb07804ddc70095bc743675d188fe19bb055c699415d295e14a37e182e5412f002d37f76b88f#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
