@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-10-30 06:01:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-10-30 12:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -49,13 +49,14 @@
 - [2020-03-24-亿级前端项目中的3D技术：支付宝2020年新春活动的背后](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247494022&idx=1&sn=9bf1eaf5e07c287ea59b7046096aa3fe&chksm=f9525cc5ce25d5d377f6caf5365741026423552955859781aabd04062d94a8b2fc1135b935ff&scene=27#wechat_redirect) 
 - [2018-11-13-搞定复杂-GUI！西安交大提出前端设计图自动转代码新方法](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489854&idx=1&sn=4828d5d36c3becdf8b1f46490b5ce708#wechat_redirect) 
 - [2022-01-19-为了让她10分钟入门canvas，我熬夜写了3个小项目和这篇文章！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485045&idx=1&sn=2c09e9c441a099add7942e9e156a5ecf&chksm=ce4613e4f9319af289f53c01b36c74c10fbc1751cb3a8aead72ac583ced797cd40ff10653a2a#rd) 
+- [2023-10-29-让-web-再次伟大：用-CanvasKit-实现超级丝滑的原神地图（已开源）！！！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516779&idx=1&sn=d190cd16d004b44943d0331892d72969&chksm=f99284bacee50dac8ffaf1c900943038549bcb0a79773d85f804b7e5dc4a9785c783194b6062#rd) 
 - [2023-04-19-原生-canvas-如何实现大屏?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247514345&idx=1&sn=e2155630359c2ef1948ce5c13ffadb18&chksm=f992be38cee5372e49a8f94917f5affb53671d9672430f39a73ff94a4bc9c2123868a16a6040#rd) 
 - [2023-03-17-浅谈-Canvas-渲染引擎设计](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247513707&idx=1&sn=7f1641b97f4d366a2c1f92d765dabb8e&chksm=f992b0bacee539ac54f7a220054819f303ee0a82987f4f7228a4ac7214105d5be06dd10eedc1#rd) 
 - [2022-11-02-超酷炫的-3D-视差-Hover-动效实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247511264&idx=2&sn=05c8ec58386c456519935ca0a787cfb7&chksm=f992aa31cee5232747abf7b9195710f0b81f8bcba30454a26b944e0b81a2bddac9f6d2158bde#rd) 
 - [2022-08-03-Canvas-从入门到劝朋友放弃（图解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510147&idx=1&sn=c0ae499ff96f730cbb1448479d6ad379&chksm=f992ae52cee52744eb4f0e3124bbf566fffc253793e74149041408cf1d706e3cbb09edb56bef#rd) 
 - [2022-07-28-从一个-bug-中延伸出-canvas-最大内存限制和浏览器渲染原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510014&idx=2&sn=18b5e648d299ff205ce8f021cdf54696&chksm=f992a12fcee5283949ffe4ddeb181c72c6ff679bcb5c19273a5e38662dfeeade889d6d472710#rd) 
-- [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](https://mp.weixin.qq.com/s/jfr1vMzjZGje1vpe7CSX6A) 
 - [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=2&sn=73720ec990ed648ceeacf7aff2065e9f&chksm=f992a125cee52833779749d8f2920a4b386a02b1acadf30be20d4fa840562ee038ebe3765e29#rd) 
+- [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](https://mp.weixin.qq.com/s/jfr1vMzjZGje1vpe7CSX6A) 
 - [2022-01-05-吐血推荐一大波让你直呼哇塞的Canvas库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=3&sn=e2bb7ff7e7a5dab1082dd529be30b34d&chksm=f992cc9bcee5458d41cfa52a6effa529220cb0e08cd5de3b354c604c549e1f471d1571dd4c68#rd) 
 - [2023-05-23-巧用模糊实现文字的-3D-效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495671&idx=1&sn=8e7b84aa6ac4a453cdd84aa50af83e5b&chksm=ce268c01f95105173f9dbb766409f5b1f73f10e14cd47665f7ec3681e012eebf45799133ebeb#rd) 
 - [2023-07-19-WebAssembly-在-3D-模型解码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=5&sn=18d563bb5736501f74c641cc196034e4&chksm=cea967c0f9deeed6df32fde66f0fc0aea448c7f6807f96d15fc26b722f76e4a118df26e68a9b#rd) 
