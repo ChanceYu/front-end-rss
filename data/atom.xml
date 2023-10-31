@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-10-31T10:00:46.921Z</updated>
+    <updated>2023-10-31T22:00:45.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[【第3097期】VisualViewport 实现 Mac 触控板的缩放检测]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266777&amp;idx=1&amp;sn=582eb98257e0826fc6a6cc28daba1b9d&amp;chksm=bd48c75d8a3f4e4b611ce5c49d999d34b9b6e97e4b0233221b992d1cb5154b35b810df707007#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266777&amp;idx=1&amp;sn=582eb98257e0826fc6a6cc28daba1b9d&amp;chksm=bd48c75d8a3f4e4b611ce5c49d999d34b9b6e97e4b0233221b992d1cb5154b35b810df707007#rd"/>
+        <updated>2023-10-30T16:00:00.000Z</updated>
+        <published>2023-10-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ES module autodetection coming to Node]]></title>
+        <id>https://nodeweekly.com/issues/508</id>
+        <link href="https://nodeweekly.com/issues/508"/>
         <updated>2023-10-30T16:00:00.000Z</updated>
         <published>2023-10-30T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【Webpack】动态import原理及源码分析]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516759&amp;idx=2&amp;sn=4b5a6e8df27bff9464053b40c9be6476&amp;chksm=f9928486cee50d90fc688096b23b2b9c1139837701f5ef9ab487843a23ccd1b6b47760aff5cd#rd"/>
-        <updated>2023-10-24T16:00:00.000Z</updated>
-        <published>2023-10-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue.js组件的复用性：真正可复用还是伪装的可复用？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522641&amp;idx=1&amp;sn=f1b7584bbd22a95284e7939ca1da2440&amp;chksm=f9522c12ce25a5048327ca9ada315a75adffa42a5601b6d896dee6fe08f9539f2721af30b9d8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522641&amp;idx=1&amp;sn=f1b7584bbd22a95284e7939ca1da2440&amp;chksm=f9522c12ce25a5048327ca9ada315a75adffa42a5601b6d896dee6fe08f9539f2721af30b9d8#rd"/>
         <updated>2023-10-24T16:00:00.000Z</updated>
         <published>2023-10-24T16:00:00.000Z</published>
     </entry>

@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-10-31 18:00:45，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-01 06:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508) ![](/assets/new.png)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
 - [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
@@ -61,7 +62,6 @@
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490)  
 - [2023-06-06-Hands-on-with-Node's-new-built-in-test-runner](https://nodeweekly.com/issues/489)  
-- [2023-05-30-All-the-ways-to-use-Postgres-from-Node](https://nodeweekly.com/issues/488)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-10-31-这些天，我们前端组一起处理的项目优化](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617386&idx=1&sn=d3ef410baee45ee82be55d3eeaee5f2d&chksm=8022afabb75526bd4db8e33749910b6c1b0e14f29656979bd9416d6f835fd5fc405c54a38285#rd) ![](/assets/new.png)  
-- [2023-10-31-用代码聊聊我们跟目前主流前端编程不一样的地方](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617386&idx=2&sn=93a3ef6fa22435507bf0b274f489c327&chksm=8022afabb75526bdcf2f424450f8b059676b65e2cf27a3718ab0f72a8c9844eb09a5304103f2#rd) ![](/assets/new.png)  
+- [2023-10-31-这些天，我们前端组一起处理的项目优化](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617386&idx=1&sn=d3ef410baee45ee82be55d3eeaee5f2d&chksm=8022afabb75526bd4db8e33749910b6c1b0e14f29656979bd9416d6f835fd5fc405c54a38285#rd)  
+- [2023-10-31-用代码聊聊我们跟目前主流前端编程不一样的地方](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617386&idx=2&sn=93a3ef6fa22435507bf0b274f489c327&chksm=8022afabb75526bdcf2f424450f8b059676b65e2cf27a3718ab0f72a8c9844eb09a5304103f2#rd)  
 - [2023-10-30-三分钟，教你3种前端埋点方式！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617384&idx=2&sn=cdd0c3f979f710b493fe44da87ce73b3&chksm=8022afa9b75526bf496283af19a89fd2acb6423e72f55d559f56ef8d58c0ef5f756709cd12b3#rd)  
 - [2023-10-30-什么样的前端开发，会被公司抢着要？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617384&idx=1&sn=2eccade1d224d899bff515c10eaeed2e&chksm=8022afa9b75526bf1b8e10a177cb5bf51d94e95cd80d1d20372d1740c1dd6cfe31e0b6e44507#rd)  
 - [2023-10-27-超详细讲解H5移动端适配](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617371&idx=1&sn=34564262f123bbc0535f5a3f20fff63e&chksm=8022af9ab755268c8b7af210c6684161b56a77fe3a35ec0ea2c1bc58cff452a771be7e36ad8e#rd)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-10-31-在腾讯-13-年，我所总结的Code-Review终极大法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516793&idx=1&sn=0143991ab0ced0ea6e450eb756f4ea3d&chksm=f99284a8cee50dbe47aaf03a5d3d43a652d2f4890be54ffa4b163b34bd41834b7954ab64409e#rd) ![](/assets/new.png)  
-- [2023-10-31-chrome-升级-117后可能会导致你的网站无法访问](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516793&idx=2&sn=f4ab1b6dda55c12b7c8111ab44c62c35&chksm=f99284a8cee50dbeb670a0ab2ba6ab19a864162d4bcde14a4df1ec58fd2c685e6ab76b89b24d#rd) ![](/assets/new.png)  
+- [2023-10-31-在腾讯-13-年，我所总结的Code-Review终极大法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516793&idx=1&sn=0143991ab0ced0ea6e450eb756f4ea3d&chksm=f99284a8cee50dbe47aaf03a5d3d43a652d2f4890be54ffa4b163b34bd41834b7954ab64409e#rd)  
+- [2023-10-31-chrome-升级-117后可能会导致你的网站无法访问](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516793&idx=2&sn=f4ab1b6dda55c12b7c8111ab44c62c35&chksm=f99284a8cee50dbeb670a0ab2ba6ab19a864162d4bcde14a4df1ec58fd2c685e6ab76b89b24d#rd)  
 - [2023-10-30-太丝滑了！了解一下原生的视图转换动画-View-Transitions-API](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516786&idx=2&sn=4d881fe66e6f9ae3774f2f68d5940bfc&chksm=f99284a3cee50db52fa1a270cc9865796ed66f0e9a07dd93f36ba5ab6faeb4d4db58edabb180#rd)  
 - [2023-10-30-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516786&idx=1&sn=35b8475e3930ce08aa7afbcd65281f23&chksm=f99284a3cee50db584c388198f88caf87745ab9b7edd2823bdfa83ccf9d3cdf4f153bb425b85#rd)  
 - [2023-10-29-如何设计一个支持并发的前端缓存接口？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516779&idx=2&sn=d3e3b13537ccb6b7d66275b030651f2c&chksm=f99284bacee50daca28a4a1fcf3a6ed81c74e79c850545433d1190a09f133bc93639f3577f03#rd)  
