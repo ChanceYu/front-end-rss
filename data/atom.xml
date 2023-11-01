@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-01T07:00:54.076Z</updated>
+    <updated>2023-11-01T15:00:52.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[教你如何构建自己的依赖注入工具]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516814&amp;idx=1&amp;sn=45f8d7de379a30976332f58e56cbe608&amp;chksm=f992845fcee50d4993c5568c58c6499bccf46efb5739fe179b1218df9701ac01d9effbd302da#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516814&amp;idx=1&amp;sn=45f8d7de379a30976332f58e56cbe608&amp;chksm=f992845fcee50d4993c5568c58c6499bccf46efb5739fe179b1218df9701ac01d9effbd302da#rd"/>
+        <updated>2023-10-31T16:00:00.000Z</updated>
+        <published>2023-10-31T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[术业有所专攻，Web组件也是一样]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522744&amp;idx=1&amp;sn=abd6ebf6f47d80294b3ac66cbeb38672&amp;chksm=f9522cfbce25a5edb08941770295e291278a959de734cbb946c11d854deafa5f75c1416495d1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522744&amp;idx=1&amp;sn=abd6ebf6f47d80294b3ac66cbeb38672&amp;chksm=f9522cfbce25a5edb08941770295e291278a959de734cbb946c11d854deafa5f75c1416495d1#rd"/>
         <updated>2023-10-31T16:00:00.000Z</updated>
         <published>2023-10-31T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【早说】478呼吸法3步帮你快速入睡]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266619&amp;idx=2&amp;sn=d3ce2fa24c99a56597ff1b3ee4fb6464&amp;chksm=bd48c7bf8a3f4ea980b45c49c0a6e0f544a3d25ed45be141fccdd1d613d663ad9a7419ab48da#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266619&amp;idx=2&amp;sn=d3ce2fa24c99a56597ff1b3ee4fb6464&amp;chksm=bd48c7bf8a3f4ea980b45c49c0a6e0f544a3d25ed45be141fccdd1d613d663ad9a7419ab48da#rd"/>
-        <updated>2023-10-25T16:00:00.000Z</updated>
-        <published>2023-10-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3092期】本地优先软件 Local-first software]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266619&amp;idx=1&amp;sn=146f24a5a2a4be86a4fc263e60484bbf&amp;chksm=bd48c7bf8a3f4ea980ae7bba8d00ed7c4dacfd05762dbf830eedd5fe2e8fc43b0ec7b578d4d4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266619&amp;idx=1&amp;sn=146f24a5a2a4be86a4fc263e60484bbf&amp;chksm=bd48c7bf8a3f4ea980ae7bba8d00ed7c4dacfd05762dbf830eedd5fe2e8fc43b0ec7b578d4d4#rd"/>
         <updated>2023-10-25T16:00:00.000Z</updated>
         <published>2023-10-25T16:00:00.000Z</published>
     </entry>
