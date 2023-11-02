@@ -10,19 +10,19 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-02 21:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-03 06:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661) ![](/assets/new.png)  
 - [2023-10-26-Web-Components-forever?](https://javascriptweekly.com/issues/660)  
 - [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)  
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
@@ -92,7 +93,6 @@
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644)  
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
 - [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
-- [2023-06-01-Bundle-time-macros-with-Bun](https://javascriptweekly.com/issues/641)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -290,7 +290,7 @@
 </summary>
 
 
-- [2023-11-02-Chrome-118：CSS-@scope-规则-来了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497175&idx=1&sn=0185510abce5c9854cec9245782bc7c4&chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd) ![](/assets/new.png)  
+- [2023-11-02-Chrome-118：CSS-@scope-规则-来了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497175&idx=1&sn=0185510abce5c9854cec9245782bc7c4&chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd)  
 - [2023-10-31-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497172&idx=1&sn=6840d906464e15b6be6ae88ada5f874b&chksm=ce269622f9511f34cc2b8bfbba45674c627c1534c21725a711836c00b3aebcff7bcf0d99be1c#rd)  
 - [2023-10-30-Vue-3.3.6-发布，得益于-WeakMap，它更快了](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497158&idx=1&sn=b416866ba0571097fd8a0c5da1ef06e3&chksm=ce269630f9511f26bc35185199458236e7c5f9a953f4fd2524b6066e9b09f33c9eab5259065e#rd)  
 - [2023-10-26-前端已成气候](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497155&idx=1&sn=860614b532d046a728efa67f93837e20&chksm=ce269635f9511f23be05a4f1f2f74df8a98b54df493939b1fb736a0ec732021ea147cb1b0114#rd)  
