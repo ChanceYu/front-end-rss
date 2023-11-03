@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-03T04:01:00.151Z</updated>
+    <updated>2023-11-03T07:00:49.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 276 期）：内容行业的衰落]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html"/>
+        <updated>2023-11-02T16:00:00.000Z</updated>
+        <published>2023-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一套被严重低估的 Web 面试题库！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497188&amp;idx=1&amp;sn=6002b5a353c92ae300ecd39bda442bc7&amp;chksm=ce269612f9511f04611c3a30edb03a654b149b4e1eb410a0e0e4c6c7ba30d84da3f8422b6706#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497188&amp;idx=1&amp;sn=6002b5a353c92ae300ecd39bda442bc7&amp;chksm=ce269612f9511f04611c3a30edb03a654b149b4e1eb410a0e0e4c6c7ba30d84da3f8422b6706#rd"/>
         <updated>2023-11-02T16:00:00.000Z</updated>
         <published>2023-11-02T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[产品：请给我实现一个在web端截屏的功能！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514310&amp;idx=1&amp;sn=7c10c20371ca202c3ed7e23ff007b8cd&amp;chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514310&amp;idx=1&amp;sn=7c10c20371ca202c3ed7e23ff007b8cd&amp;chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd"/>
-        <updated>2023-10-26T16:00:00.000Z</updated>
-        <published>2023-10-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写一个VSCode插件：小幅提升使用TS时的幸福感]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=1&amp;sn=481d051c5b28f93078707c3cf1657807&amp;chksm=f99284b4cee50da2ad098dfad4765bddd4ae02c49773ea1776956ac3d7365f8268377cbc1028#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516773&amp;idx=1&amp;sn=481d051c5b28f93078707c3cf1657807&amp;chksm=f99284b4cee50da2ad098dfad4765bddd4ae02c49773ea1776956ac3d7365f8268377cbc1028#rd"/>
         <updated>2023-10-26T16:00:00.000Z</updated>
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
