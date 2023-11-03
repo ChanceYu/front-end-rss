@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-03T07:00:49.389Z</updated>
+    <updated>2023-11-03T10:00:48.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 276 期）：内容行业的衰落]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html"/>
+        <updated>2023-11-02T16:00:00.000Z</updated>
+        <published>2023-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单标签CSS绘制合集]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488430&amp;idx=1&amp;sn=e1f21493aaaa6cf1621b4d7787f3de3e&amp;chksm=97c67061a0b1f97753678d844636742a10648da0e224223fc891d9f9082f5c06792772d6c0f5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488430&amp;idx=1&amp;sn=e1f21493aaaa6cf1621b4d7787f3de3e&amp;chksm=97c67061a0b1f97753678d844636742a10648da0e224223fc891d9f9082f5c06792772d6c0f5#rd"/>
         <updated>2023-11-02T16:00:00.000Z</updated>
         <published>2023-11-02T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[使用CSS伪元素来生成分隔符]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488372&amp;idx=1&amp;sn=4e05d16bd6a241ab7b882ae9895e815f&amp;chksm=97c670bba0b1f9ad62e2fc61ddf106d394351300ce0994596e4e05b30aa51df64c723e579ca8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488372&amp;idx=1&amp;sn=4e05d16bd6a241ab7b882ae9895e815f&amp;chksm=97c670bba0b1f9ad62e2fc61ddf106d394351300ce0994596e4e05b30aa51df64c723e579ca8#rd"/>
-        <updated>2023-10-26T16:00:00.000Z</updated>
-        <published>2023-10-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[产品：请给我实现一个在web端截屏的功能！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514310&amp;idx=1&amp;sn=7c10c20371ca202c3ed7e23ff007b8cd&amp;chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514310&amp;idx=1&amp;sn=7c10c20371ca202c3ed7e23ff007b8cd&amp;chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd"/>
         <updated>2023-10-26T16:00:00.000Z</updated>
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
