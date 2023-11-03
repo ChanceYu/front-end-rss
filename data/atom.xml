@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-02T22:00:43.302Z</updated>
+    <updated>2023-11-03T02:01:23.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 276 期）：内容行业的衰落]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html"/>
+        <updated>2023-11-02T16:00:00.000Z</updated>
+        <published>2023-11-02T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 终于崛起了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514393&amp;idx=1&amp;sn=25cc650ab8ead9554790a1e19440e192&amp;chksm=eb078160dc700876635cb2b9b69b040c18837bf2720a188b3c5f31a79205fd05f4ff05a3bfb4#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[超详细讲解H5移动端适配]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617371&amp;idx=1&amp;sn=34564262f123bbc0535f5a3f20fff63e&amp;chksm=8022af9ab755268c8b7af210c6684161b56a77fe3a35ec0ea2c1bc58cff452a771be7e36ad8e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617371&amp;idx=1&amp;sn=34564262f123bbc0535f5a3f20fff63e&amp;chksm=8022af9ab755268c8b7af210c6684161b56a77fe3a35ec0ea2c1bc58cff452a771be7e36ad8e#rd"/>
-        <updated>2023-10-26T16:00:00.000Z</updated>
-        <published>2023-10-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】深入理解FFmpeg]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266641&amp;idx=2&amp;sn=ede72f7a04c215932b0a59ae212d2471&amp;chksm=bd48c7d58a3f4ec31c11489dae161c1b733d1d2f0b21c90bcfe228c9c498c86f082dd1270cee#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266641&amp;idx=2&amp;sn=ede72f7a04c215932b0a59ae212d2471&amp;chksm=bd48c7d58a3f4ec31c11489dae161c1b733d1d2f0b21c90bcfe228c9c498c86f082dd1270cee#rd"/>
         <updated>2023-10-26T16:00:00.000Z</updated>
         <published>2023-10-26T16:00:00.000Z</published>
     </entry>
