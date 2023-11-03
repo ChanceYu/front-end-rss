@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-03T10:00:48.772Z</updated>
+    <updated>2023-11-03T13:01:23.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,6 +50,20 @@
         <published>2023-11-02T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[​反面教材：搞砸Web开发的15种方法]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522756&amp;idx=1&amp;sn=7d7a381fc37b6bdbff64ae6614160dbc&amp;chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522756&amp;idx=1&amp;sn=7d7a381fc37b6bdbff64ae6614160dbc&amp;chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd"/>
+        <updated>2023-11-02T16:00:00.000Z</updated>
+        <published>2023-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你知道前端水印功能是怎么实现的吗？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617415&amp;idx=2&amp;sn=3358fe713c1ce699dcb72591a9bc2619&amp;chksm=8022af46b7552650e41d2dd0b9067c69d250ee2bfe272f1cfabfe23952f03ba1ed3ea4c06991#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617415&amp;idx=2&amp;sn=3358fe713c1ce699dcb72591a9bc2619&amp;chksm=8022af46b7552650e41d2dd0b9067c69d250ee2bfe272f1cfabfe23952f03ba1ed3ea4c06991#rd"/>
+        <updated>2023-11-02T16:00:00.000Z</updated>
+        <published>2023-11-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【活动】线下D2，邀你12.16一起技术会友！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266863&amp;idx=2&amp;sn=892309ac753a14fe74feaad429b1cb0d&amp;chksm=bd48c6ab8a3f4fbdddd9017c216afe716deea345a53c238ba8401c4261c46014d258e3401488#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266863&amp;idx=2&amp;sn=892309ac753a14fe74feaad429b1cb0d&amp;chksm=bd48c6ab8a3f4fbdddd9017c216afe716deea345a53c238ba8401c4261c46014d258e3401488#rd"/>
@@ -92,16 +106,16 @@
         <published>2023-11-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js支持在前端代码中写SQL，开倒车还是遥遥领先？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=2&amp;sn=dd7bb3cc025bb0d589239764f5ab9985&amp;chksm=8022af42b75526542f5a2c8646e4161b02307b043467b1c9c93eb7e7889fd1adc7411f608348#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=2&amp;sn=dd7bb3cc025bb0d589239764f5ab9985&amp;chksm=8022af42b75526542f5a2c8646e4161b02307b043467b1c9c93eb7e7889fd1adc7411f608348#rd"/>
+        <title type="html"><![CDATA[最近，前端岗位爆了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=1&amp;sn=119513041e355355bbacbabc35db1ea1&amp;chksm=8022af42b75526548bbcf2d0eb7ce5831928b8043bc411f031d7655ed2642954cd93451b67db#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=1&amp;sn=119513041e355355bbacbabc35db1ea1&amp;chksm=8022af42b75526548bbcf2d0eb7ce5831928b8043bc411f031d7655ed2642954cd93451b67db#rd"/>
         <updated>2023-11-01T16:00:00.000Z</updated>
         <published>2023-11-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近，前端岗位爆了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=1&amp;sn=119513041e355355bbacbabc35db1ea1&amp;chksm=8022af42b75526548bbcf2d0eb7ce5831928b8043bc411f031d7655ed2642954cd93451b67db#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=1&amp;sn=119513041e355355bbacbabc35db1ea1&amp;chksm=8022af42b75526548bbcf2d0eb7ce5831928b8043bc411f031d7655ed2642954cd93451b67db#rd"/>
+        <title type="html"><![CDATA[Next.js支持在前端代码中写SQL，开倒车还是遥遥领先？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=2&amp;sn=dd7bb3cc025bb0d589239764f5ab9985&amp;chksm=8022af42b75526542f5a2c8646e4161b02307b043467b1c9c93eb7e7889fd1adc7411f608348#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617411&amp;idx=2&amp;sn=dd7bb3cc025bb0d589239764f5ab9985&amp;chksm=8022af42b75526542f5a2c8646e4161b02307b043467b1c9c93eb7e7889fd1adc7411f608348#rd"/>
         <updated>2023-11-01T16:00:00.000Z</updated>
         <published>2023-11-01T16:00:00.000Z</published>
     </entry>
@@ -148,16 +162,16 @@
         <published>2023-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端流程图插件对比选型]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd"/>
+        <title type="html"><![CDATA[从0到1实现一个前端监控系统（附源码）]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=2&amp;sn=67308d587b0957efe95befcbfeae7c3c&amp;chksm=8022afb3b75526a5175c1fb2949ef16ab6e830ee94881de5d8e99d12681d763769372cc3ef09#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=2&amp;sn=67308d587b0957efe95befcbfeae7c3c&amp;chksm=8022afb3b75526a5175c1fb2949ef16ab6e830ee94881de5d8e99d12681d763769372cc3ef09#rd"/>
         <updated>2023-10-31T16:00:00.000Z</updated>
         <published>2023-10-31T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从0到1实现一个前端监控系统（附源码）]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=2&amp;sn=67308d587b0957efe95befcbfeae7c3c&amp;chksm=8022afb3b75526a5175c1fb2949ef16ab6e830ee94881de5d8e99d12681d763769372cc3ef09#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=2&amp;sn=67308d587b0957efe95befcbfeae7c3c&amp;chksm=8022afb3b75526a5175c1fb2949ef16ab6e830ee94881de5d8e99d12681d763769372cc3ef09#rd"/>
+        <title type="html"><![CDATA[前端流程图插件对比选型]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd"/>
         <updated>2023-10-31T16:00:00.000Z</updated>
         <published>2023-10-31T16:00:00.000Z</published>
     </entry>
@@ -197,16 +211,16 @@
         <published>2023-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用代码聊聊我们跟目前主流前端编程不一样的地方]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=2&amp;sn=93a3ef6fa22435507bf0b274f489c327&amp;chksm=8022afabb75526bdcf2f424450f8b059676b65e2cf27a3718ab0f72a8c9844eb09a5304103f2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=2&amp;sn=93a3ef6fa22435507bf0b274f489c327&amp;chksm=8022afabb75526bdcf2f424450f8b059676b65e2cf27a3718ab0f72a8c9844eb09a5304103f2#rd"/>
+        <title type="html"><![CDATA[这些天，我们前端组一起处理的项目优化]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=1&amp;sn=d3ef410baee45ee82be55d3eeaee5f2d&amp;chksm=8022afabb75526bd4db8e33749910b6c1b0e14f29656979bd9416d6f835fd5fc405c54a38285#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=1&amp;sn=d3ef410baee45ee82be55d3eeaee5f2d&amp;chksm=8022afabb75526bd4db8e33749910b6c1b0e14f29656979bd9416d6f835fd5fc405c54a38285#rd"/>
         <updated>2023-10-30T16:00:00.000Z</updated>
         <published>2023-10-30T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这些天，我们前端组一起处理的项目优化]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=1&amp;sn=d3ef410baee45ee82be55d3eeaee5f2d&amp;chksm=8022afabb75526bd4db8e33749910b6c1b0e14f29656979bd9416d6f835fd5fc405c54a38285#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=1&amp;sn=d3ef410baee45ee82be55d3eeaee5f2d&amp;chksm=8022afabb75526bd4db8e33749910b6c1b0e14f29656979bd9416d6f835fd5fc405c54a38285#rd"/>
+        <title type="html"><![CDATA[用代码聊聊我们跟目前主流前端编程不一样的地方]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=2&amp;sn=93a3ef6fa22435507bf0b274f489c327&amp;chksm=8022afabb75526bdcf2f424450f8b059676b65e2cf27a3718ab0f72a8c9844eb09a5304103f2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617386&amp;idx=2&amp;sn=93a3ef6fa22435507bf0b274f489c327&amp;chksm=8022afabb75526bdcf2f424450f8b059676b65e2cf27a3718ab0f72a8c9844eb09a5304103f2#rd"/>
         <updated>2023-10-30T16:00:00.000Z</updated>
         <published>2023-10-30T16:00:00.000Z</published>
     </entry>
@@ -267,16 +281,16 @@
         <published>2023-10-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[什么样的前端开发，会被公司抢着要？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=1&amp;sn=2eccade1d224d899bff515c10eaeed2e&amp;chksm=8022afa9b75526bf1b8e10a177cb5bf51d94e95cd80d1d20372d1740c1dd6cfe31e0b6e44507#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=1&amp;sn=2eccade1d224d899bff515c10eaeed2e&amp;chksm=8022afa9b75526bf1b8e10a177cb5bf51d94e95cd80d1d20372d1740c1dd6cfe31e0b6e44507#rd"/>
+        <title type="html"><![CDATA[三分钟，教你3种前端埋点方式！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=2&amp;sn=cdd0c3f979f710b493fe44da87ce73b3&amp;chksm=8022afa9b75526bf496283af19a89fd2acb6423e72f55d559f56ef8d58c0ef5f756709cd12b3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=2&amp;sn=cdd0c3f979f710b493fe44da87ce73b3&amp;chksm=8022afa9b75526bf496283af19a89fd2acb6423e72f55d559f56ef8d58c0ef5f756709cd12b3#rd"/>
         <updated>2023-10-29T16:00:00.000Z</updated>
         <published>2023-10-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三分钟，教你3种前端埋点方式！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=2&amp;sn=cdd0c3f979f710b493fe44da87ce73b3&amp;chksm=8022afa9b75526bf496283af19a89fd2acb6423e72f55d559f56ef8d58c0ef5f756709cd12b3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=2&amp;sn=cdd0c3f979f710b493fe44da87ce73b3&amp;chksm=8022afa9b75526bf496283af19a89fd2acb6423e72f55d559f56ef8d58c0ef5f756709cd12b3#rd"/>
+        <title type="html"><![CDATA[什么样的前端开发，会被公司抢着要？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=1&amp;sn=2eccade1d224d899bff515c10eaeed2e&amp;chksm=8022afa9b75526bf1b8e10a177cb5bf51d94e95cd80d1d20372d1740c1dd6cfe31e0b6e44507#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617384&amp;idx=1&amp;sn=2eccade1d224d899bff515c10eaeed2e&amp;chksm=8022afa9b75526bf1b8e10a177cb5bf51d94e95cd80d1d20372d1740c1dd6cfe31e0b6e44507#rd"/>
         <updated>2023-10-29T16:00:00.000Z</updated>
         <published>2023-10-29T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266744&amp;idx=1&amp;sn=eef62ae48ecd973ffb8e66fabb2eae2b&amp;chksm=bd48c73c8a3f4e2a42c6fb17787267f1d36d7a5379bbb511e371e8d9773d2c1d653247192b78#rd"/>
         <updated>2023-10-27T16:00:00.000Z</updated>
         <published>2023-10-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 275 期）：彼得·蒂尔的实验]]></title>
-        <id>http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html"/>
-        <updated>2023-10-26T16:00:00.000Z</updated>
-        <published>2023-10-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用CSS伪元素来生成分隔符]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488372&amp;idx=1&amp;sn=4e05d16bd6a241ab7b882ae9895e815f&amp;chksm=97c670bba0b1f9ad62e2fc61ddf106d394351300ce0994596e4e05b30aa51df64c723e579ca8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488372&amp;idx=1&amp;sn=4e05d16bd6a241ab7b882ae9895e815f&amp;chksm=97c670bba0b1f9ad62e2fc61ddf106d394351300ce0994596e4e05b30aa51df64c723e579ca8#rd"/>
-        <updated>2023-10-26T16:00:00.000Z</updated>
-        <published>2023-10-26T16:00:00.000Z</published>
     </entry>
 </feed>
