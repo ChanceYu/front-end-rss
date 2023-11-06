@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-06T13:00:45.995Z</updated>
+    <updated>2023-11-06T22:01:43.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,9 +22,23 @@
         <published>2023-11-05T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[推荐13款常用的Vscode插件，提高前端日常开发效率]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514434&amp;idx=1&amp;sn=f3116715e8afc4b9a4627eea7be3d2c8&amp;chksm=eb07813bdc70082d43a30e81f0acf9cce1cf5ca6641a313d9be5f658052723f5ec6a070c8973#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514434&amp;idx=1&amp;sn=f3116715e8afc4b9a4627eea7be3d2c8&amp;chksm=eb07813bdc70082d43a30e81f0acf9cce1cf5ca6641a313d9be5f658052723f5ec6a070c8973#rd"/>
+        <updated>2023-11-05T16:00:00.000Z</updated>
+        <published>2023-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[精读《算法题 - 二叉树中的最大路径和》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487175&amp;idx=1&amp;sn=f49d1556d5be9b49487bf564a1861536&amp;chksm=fc86280dcbf1a11b620f84dd288988886a0a70184c377cd19216ee7823ee38c72e5df275a8db#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&amp;mid=2247487175&amp;idx=1&amp;sn=f49d1556d5be9b49487bf564a1861536&amp;chksm=fc86280dcbf1a11b620f84dd288988886a0a70184c377cd19216ee7823ee38c72e5df275a8db#rd"/>
+        <updated>2023-11-05T16:00:00.000Z</updated>
+        <published>2023-11-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语雀是如何防止前端数据被异常篡改并且复原数据的？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497207&amp;idx=1&amp;sn=ad0b6ce106aff6f76d0a063617b7193e&amp;chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497207&amp;idx=1&amp;sn=ad0b6ce106aff6f76d0a063617b7193e&amp;chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd"/>
         <updated>2023-11-05T16:00:00.000Z</updated>
         <published>2023-11-05T16:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266777&amp;idx=1&amp;sn=582eb98257e0826fc6a6cc28daba1b9d&amp;chksm=bd48c75d8a3f4e4b611ce5c49d999d34b9b6e97e4b0233221b992d1cb5154b35b810df707007#rd"/>
         <updated>2023-10-30T16:00:00.000Z</updated>
         <published>2023-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES module autodetection coming to Node]]></title>
-        <id>https://nodeweekly.com/issues/508</id>
-        <link href="https://nodeweekly.com/issues/508"/>
-        <updated>2023-10-30T16:00:00.000Z</updated>
-        <published>2023-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 CSS columns 布局来实现自动分组布局]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488390&amp;idx=1&amp;sn=978c7eee04b644a82d7d7c880075f29c&amp;chksm=97c67049a0b1f95f6375bfcca7e5983a1ed95311312c7ff3b0dc6bb0db7e61f6de0f9ce08b4b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488390&amp;idx=1&amp;sn=978c7eee04b644a82d7d7c880075f29c&amp;chksm=97c67049a0b1f95f6375bfcca7e5983a1ed95311312c7ff3b0dc6bb0db7e61f6de0f9ce08b4b#rd"/>
-        <updated>2023-10-29T16:00:00.000Z</updated>
-        <published>2023-10-29T16:00:00.000Z</published>
     </entry>
 </feed>
