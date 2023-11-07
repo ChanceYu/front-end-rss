@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-07 23:01:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-08 06:01:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509) ![](/assets/new.png)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
 - [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
@@ -61,7 +62,6 @@
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)  
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490)  
-- [2023-06-06-Hands-on-with-Node's-new-built-in-test-runner](https://nodeweekly.com/issues/489)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2023-11-07-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514409&idx=1&sn=4fe36a9e39b38a1ef34fa52d337654c5&chksm=eb078150dc700846a50fe638b90c270bdce41877037d606e6460cab66f00be8851e184a66bfe#rd) ![](/assets/new.png)  
+- [2023-11-07-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514409&idx=1&sn=4fe36a9e39b38a1ef34fa52d337654c5&chksm=eb078150dc700846a50fe638b90c270bdce41877037d606e6460cab66f00be8851e184a66bfe#rd)  
 - [2023-11-06-推荐13款常用的Vscode插件，提高前端日常开发效率](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514434&idx=1&sn=f3116715e8afc4b9a4627eea7be3d2c8&chksm=eb07813bdc70082d43a30e81f0acf9cce1cf5ca6641a313d9be5f658052723f5ec6a070c8973#rd)  
 - [2023-11-02-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514393&idx=1&sn=25cc650ab8ead9554790a1e19440e192&chksm=eb078160dc700876635cb2b9b69b040c18837bf2720a188b3c5f31a79205fd05f4ff05a3bfb4#rd)  
 - [2023-11-01-前端版本过低引导弹窗方案分享](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514378&idx=1&sn=047d0d6ded978ccddb4ad9b975b3e364&chksm=eb078173dc70086519466df63ccf8a5594fc0919a578ae007c70dc1420a13fd3f8a38544fcee#rd)  

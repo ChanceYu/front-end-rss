@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-07T15:01:51.134Z</updated>
+    <updated>2023-11-07T22:01:43.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[【第3104期】前端埋点质量量化与优化]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=1&amp;sn=ce1dc5bd28d946ba83a94c88365da5fe&amp;chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=1&amp;sn=ce1dc5bd28d946ba83a94c88365da5fe&amp;chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd"/>
+        <updated>2023-11-06T16:00:00.000Z</updated>
+        <published>2023-11-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sizing up your images with Sindre]]></title>
+        <id>https://nodeweekly.com/issues/509</id>
+        <link href="https://nodeweekly.com/issues/509"/>
         <updated>2023-11-06T16:00:00.000Z</updated>
         <published>2023-11-06T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[从0到1实现一个前端监控系统（附源码）]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=2&amp;sn=67308d587b0957efe95befcbfeae7c3c&amp;chksm=8022afb3b75526a5175c1fb2949ef16ab6e830ee94881de5d8e99d12681d763769372cc3ef09#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=2&amp;sn=67308d587b0957efe95befcbfeae7c3c&amp;chksm=8022afb3b75526a5175c1fb2949ef16ab6e830ee94881de5d8e99d12681d763769372cc3ef09#rd"/>
-        <updated>2023-10-31T16:00:00.000Z</updated>
-        <published>2023-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端流程图插件对比选型]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd"/>
         <updated>2023-10-31T16:00:00.000Z</updated>
         <published>2023-10-31T16:00:00.000Z</published>
     </entry>
