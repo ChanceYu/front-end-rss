@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-07T10:01:41.430Z</updated>
+    <updated>2023-11-07T15:01:51.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[最近，前端岗位爆了]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514409&amp;idx=1&amp;sn=4fe36a9e39b38a1ef34fa52d337654c5&amp;chksm=eb078150dc700846a50fe638b90c270bdce41877037d606e6460cab66f00be8851e184a66bfe#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514409&amp;idx=1&amp;sn=4fe36a9e39b38a1ef34fa52d337654c5&amp;chksm=eb078150dc700846a50fe638b90c270bdce41877037d606e6460cab66f00be8851e184a66bfe#rd"/>
+        <updated>2023-11-06T16:00:00.000Z</updated>
+        <published>2023-11-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我用 ChatGPT 干的 18 件事！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516916&amp;idx=2&amp;sn=aabaae0db0f4defa7083b472fe74965e&amp;chksm=f9928425cee50d33268542fc379a74894a7d433937b7af705303035121270e8af38ecbbf3d81#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端流程图插件对比选型]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617394&amp;idx=1&amp;sn=55979e109fafab1c0e613dd47f34bae9&amp;chksm=8022afb3b75526a5a9316e58292656e806ffa396b61b8ebdee5754ac2512889a5d6d81946275#rd"/>
-        <updated>2023-10-31T16:00:00.000Z</updated>
-        <published>2023-10-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3098期】VisActor——面向叙事的智能可视化解决方案]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266808&amp;idx=1&amp;sn=0aa8cf7ffcc813bceecbd40261e593ba&amp;chksm=bd48c77c8a3f4e6a6e73fcc0e00f4dd966b2dbb267eae70864186766bae4b6991ea0eede30ed#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651266808&amp;idx=1&amp;sn=0aa8cf7ffcc813bceecbd40261e593ba&amp;chksm=bd48c77c8a3f4e6a6e73fcc0e00f4dd966b2dbb267eae70864186766bae4b6991ea0eede30ed#rd"/>
         <updated>2023-10-31T16:00:00.000Z</updated>
         <published>2023-10-31T16:00:00.000Z</published>
     </entry>
