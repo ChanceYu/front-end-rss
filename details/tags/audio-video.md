@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-08 06:01:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-08 18:01:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -37,9 +37,9 @@
 - [2019-09-30-【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect) 
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect) 
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd) 
-- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
-- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
+- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
+- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
 - [2019-07-19-【第1673期】-图像优化自动化实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=1&sn=417830af15edcbe44de8e5af7ceb00d1&chksm=bd4942c58a3ecbd39a05feb6fbff36ceb7f8f41cc0c9185f204ff45bac7eb00643cba6a98a2a&scene=27#wechat_redirect) 
 - [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) 
 - [2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd) 
@@ -50,6 +50,7 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2023-11-08-纯前端实现录屏并保存视频到本地，如此简单](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617433&idx=2&sn=b1513fac494ec755356027109a8789a4&chksm=8022af58b755264ecf0d2e3f31bf6cf36b73fe92a1cba7c8e29f4ea9bda6c2f01bf3e0684db0#rd) 
 - [2023-07-12-Chrome-震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651615864&idx=2&sn=9a2af4b2c82d36cc8289a25eaa1b33a1&chksm=8022a5b9b7552caf8c923d3f40c4638f95fd0abefe2ca8ab5131211a9aaa690971688784624b#rd) 
 - [2021-06-23-设计灵感：12-组收音机播放器-APP-设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578080&idx=4&sn=6ad38acf4eeb58f2b95a05acee38820a&chksm=80250921b75280377a1f651b5c7e8a6adaf86ae4422fac7e599440b73b5dc7db45e81ff8393a&scene=27#wechat_redirect) 
 - [2021-06-20-设计灵感：12组音乐播放器界面设计](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578041&idx=4&sn=b1d15fd8e70a6f657ebe1df598c83a50&chksm=80250978b752806e60a85b39a6b0bc9fd75fd182a9043a08036fa50554ef51e4ffb4f2a7aee2&scene=27#wechat_redirect) 
