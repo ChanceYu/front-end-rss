@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-09T02:01:44.225Z</updated>
+    <updated>2023-11-09T04:01:43.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[14年开始工作的老前端, 今天第一天送外卖, 时薪比自己估计少很多]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514437&amp;idx=1&amp;sn=f676f6f407c9d926ea4493888866ff28&amp;chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514437&amp;idx=1&amp;sn=f676f6f407c9d926ea4493888866ff28&amp;chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd"/>
+        <updated>2023-11-08T16:00:00.000Z</updated>
+        <published>2023-11-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【图书】Vue.js 3+TypeScript完全指南]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=2&amp;sn=d464389d42d609a51f8d65b7685b2c17&amp;chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd</id>
@@ -27,6 +34,13 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd"/>
         <updated>2023-11-08T16:00:00.000Z</updated>
         <published>2023-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加速 JavaScript 生态系统 - Tailwind CSS]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514436&amp;idx=1&amp;sn=44ab84440adc27ae15a2eaa28dfb7156&amp;chksm=eb07813ddc70082b1890053f33b5678c60f68d11b54a26c4d4db7e250aa38e42772948ccf765#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514436&amp;idx=1&amp;sn=44ab84440adc27ae15a2eaa28dfb7156&amp;chksm=eb07813ddc70082b1890053f33b5678c60f68d11b54a26c4d4db7e250aa38e42772948ccf765#rd"/>
+        <updated>2023-11-07T16:00:00.000Z</updated>
+        <published>2023-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[学会这几个常用功能，给你的 vue3 项目加点餐！]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Chrome 118：CSS @scope 规则 来了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497175&amp;idx=1&amp;sn=0185510abce5c9854cec9245782bc7c4&amp;chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497175&amp;idx=1&amp;sn=0185510abce5c9854cec9245782bc7c4&amp;chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd"/>
-        <updated>2023-11-01T16:00:00.000Z</updated>
-        <published>2023-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ES6~ES13-ES7~ES12必学知识点~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516821&amp;idx=2&amp;sn=12422866e1e16109bf1d65dcae280927&amp;chksm=f9928444cee50d52b9479d9ca3c11fd5736228f1c1ec723b144f227dde2738f38c0a410e37b4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516821&amp;idx=2&amp;sn=12422866e1e16109bf1d65dcae280927&amp;chksm=f9928444cee50d52b9479d9ca3c11fd5736228f1c1ec723b144f227dde2738f38c0a410e37b4#rd"/>
-        <updated>2023-11-01T16:00:00.000Z</updated>
-        <published>2023-11-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么样的开发，会被公司抢着要？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516821&amp;idx=1&amp;sn=663c8cf7b5887102c098bf50af967623&amp;chksm=f9928444cee50d529caf7b482aa51071dcd6d3f8ce77881e15d4f081470816b23c71ee304794#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516821&amp;idx=1&amp;sn=663c8cf7b5887102c098bf50af967623&amp;chksm=f9928444cee50d529caf7b482aa51071dcd6d3f8ce77881e15d4f081470816b23c71ee304794#rd"/>
         <updated>2023-11-01T16:00:00.000Z</updated>
         <published>2023-11-01T16:00:00.000Z</published>
     </entry>
