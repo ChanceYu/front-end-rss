@@ -10,19 +10,19 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-09 21:00:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-10 06:00:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662) ![](/assets/new.png)  
 - [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
 - [2023-10-26-Web-Components-forever?](https://javascriptweekly.com/issues/660)  
 - [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)  
@@ -92,7 +93,6 @@
 - [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)  
 - [2023-06-22-Svelte-4-released](https://javascriptweekly.com/issues/644)  
 - [2023-06-15-11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)  
-- [2023-06-08-Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -290,8 +290,8 @@
 </summary>
 
 
-- [2023-11-09-太强了！看看人家小姐姐整理的面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497222&idx=1&sn=24bc9c1a110b2b44fd317f582f244853&chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd) ![](/assets/new.png)  
-- [2023-11-09-下周开课！21天短知识打卡课，报名进行中。速度耐力专题](https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&mid=2653624698&idx=2&sn=bc899f0c5cd37a664ec3afa026bf39c5&chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd) ![](/assets/new.png)  
+- [2023-11-09-太强了！看看人家小姐姐整理的面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497222&idx=1&sn=24bc9c1a110b2b44fd317f582f244853&chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd)  
+- [2023-11-09-下周开课！21天短知识打卡课，报名进行中。速度耐力专题](https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&mid=2653624698&idx=2&sn=bc899f0c5cd37a664ec3afa026bf39c5&chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd)  
 - [2023-11-06-语雀是如何防止前端数据被异常篡改并且复原数据的？](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497207&idx=1&sn=ad0b6ce106aff6f76d0a063617b7193e&chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd)  
 - [2023-11-03-一套被严重低估的-Web-面试题库！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497188&idx=1&sn=6002b5a353c92ae300ecd39bda442bc7&chksm=ce269612f9511f04611c3a30edb03a654b149b4e1eb410a0e0e4c6c7ba30d84da3f8422b6706#rd)  
 - [2023-11-02-Chrome-118：CSS-@scope-规则-来了！](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247497175&idx=1&sn=0185510abce5c9854cec9245782bc7c4&chksm=ce269621f9511f375e60c0774e3d0955ceb284d700a9cf79b8e6ea1b35848585cd6ba8602045#rd)  

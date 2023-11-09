@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-09T13:00:43.413Z</updated>
+    <updated>2023-11-09T22:00:45.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[【第3106期】新一代前端发展的困境与破局]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd"/>
+        <updated>2023-11-08T16:00:00.000Z</updated>
+        <published>2023-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular is back]]></title>
+        <id>https://javascriptweekly.com/issues/662</id>
+        <link href="https://javascriptweekly.com/issues/662"/>
         <updated>2023-11-08T16:00:00.000Z</updated>
         <published>2023-11-08T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[从零到一建立前端规范]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516851&amp;idx=1&amp;sn=b8f9f8597967df8d721f2e86e4a89f1c&amp;chksm=f9928462cee50d74866e59eb44ba2209424aac0fc306fa84aca78321401cf8510f4b37e11ca1#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516851&amp;idx=1&amp;sn=b8f9f8597967df8d721f2e86e4a89f1c&amp;chksm=f9928462cee50d74866e59eb44ba2209424aac0fc306fa84aca78321401cf8510f4b37e11ca1#rd"/>
-        <updated>2023-11-02T16:00:00.000Z</updated>
-        <published>2023-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​反面教材：搞砸Web开发的15种方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522756&amp;idx=1&amp;sn=7d7a381fc37b6bdbff64ae6614160dbc&amp;chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522756&amp;idx=1&amp;sn=7d7a381fc37b6bdbff64ae6614160dbc&amp;chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd"/>
         <updated>2023-11-02T16:00:00.000Z</updated>
         <published>2023-11-02T16:00:00.000Z</published>
     </entry>
