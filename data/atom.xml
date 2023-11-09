@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-09T10:02:18.963Z</updated>
+    <updated>2023-11-09T13:00:43.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[14年开始工作的老前端, 今天第一天送外卖, 时薪比自己估计少很多]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514437&amp;idx=1&amp;sn=f676f6f407c9d926ea4493888866ff28&amp;chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514437&amp;idx=1&amp;sn=f676f6f407c9d926ea4493888866ff28&amp;chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd"/>
+        <updated>2023-11-08T16:00:00.000Z</updated>
+        <published>2023-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下周开课！21天短知识打卡课，报名进行中。速度耐力专题]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&amp;mid=2653624698&amp;idx=2&amp;sn=bc899f0c5cd37a664ec3afa026bf39c5&amp;chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&amp;mid=2653624698&amp;idx=2&amp;sn=bc899f0c5cd37a664ec3afa026bf39c5&amp;chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd"/>
+        <updated>2023-11-08T16:00:00.000Z</updated>
+        <published>2023-11-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[太强了！看看人家小姐姐整理的面试题库！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497222&amp;idx=1&amp;sn=24bc9c1a110b2b44fd317f582f244853&amp;chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497222&amp;idx=1&amp;sn=24bc9c1a110b2b44fd317f582f244853&amp;chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd"/>
         <updated>2023-11-08T16:00:00.000Z</updated>
         <published>2023-11-08T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[​反面教材：搞砸Web开发的15种方法]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522756&amp;idx=1&amp;sn=7d7a381fc37b6bdbff64ae6614160dbc&amp;chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522756&amp;idx=1&amp;sn=7d7a381fc37b6bdbff64ae6614160dbc&amp;chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd"/>
-        <updated>2023-11-02T16:00:00.000Z</updated>
-        <published>2023-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道前端水印功能是怎么实现的吗？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617415&amp;idx=2&amp;sn=3358fe713c1ce699dcb72591a9bc2619&amp;chksm=8022af46b7552650e41d2dd0b9067c69d250ee2bfe272f1cfabfe23952f03ba1ed3ea4c06991#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617415&amp;idx=2&amp;sn=3358fe713c1ce699dcb72591a9bc2619&amp;chksm=8022af46b7552650e41d2dd0b9067c69d250ee2bfe272f1cfabfe23952f03ba1ed3ea4c06991#rd"/>
-        <updated>2023-11-02T16:00:00.000Z</updated>
-        <published>2023-11-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jQuery 4.0，开发进度已完成99%]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617415&amp;idx=1&amp;sn=3dab858983cc55cc292fdcb98bcf058d&amp;chksm=8022af46b75526503f6c8a909f3990072ce3be77612b591ec24402c2d726a62d387d160a4470#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617415&amp;idx=1&amp;sn=3dab858983cc55cc292fdcb98bcf058d&amp;chksm=8022af46b75526503f6c8a909f3990072ce3be77612b591ec24402c2d726a62d387d160a4470#rd"/>
         <updated>2023-11-02T16:00:00.000Z</updated>
         <published>2023-11-02T16:00:00.000Z</published>
     </entry>
