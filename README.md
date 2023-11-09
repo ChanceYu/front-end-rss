@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-09 06:01:42，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-09 10:01:42，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2023-11-08-【第3105期】OMI-响应式WebComponents和OmiElements来袭](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=1&sn=f68253681298b5391c0474ad12d2d863&chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd)  
+- [2023-11-09-【第3106期】新一代前端发展的困境与破局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=1&sn=8fb5e4b7e6e64bc72aafddc451b258e7&chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd) ![](/assets/new.png)  
+- [2023-11-09-【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd) ![](/assets/new.png)  
 - [2023-11-08-【早说】笔记摘抄方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=2&sn=6ddec9c7d7f2ca1f092effb3dd020de3&chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd)  
-- [2023-11-07-【早说】做笔记的目的:快速重新找到未来可能用到的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=2&sn=e938fac7b541c85d72fd3a15eb347146&chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd)  
+- [2023-11-08-【第3105期】OMI-响应式WebComponents和OmiElements来袭](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=1&sn=f68253681298b5391c0474ad12d2d863&chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd)  
 - [2023-11-07-【第3104期】前端埋点质量量化与优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=1&sn=ce1dc5bd28d946ba83a94c88365da5fe&chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd)  
-- [2023-11-06-【第3103期】转转Hybrid体系建设-客户端视角](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267110&idx=1&sn=548dcf9e7452e7b60df79dfd9e8ee6ca&chksm=bd48f9a28a3f70b4dd6d37a274e4512a2ffb68ce07f766b92a64ca7a8524d5be6f7cb928e2a0#rd)  
+- [2023-11-07-【早说】做笔记的目的:快速重新找到未来可能用到的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=2&sn=e938fac7b541c85d72fd3a15eb347146&chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd)  
 - [2023-11-06-【招聘】北京马上消费金融（安逸花）招资深前端工程师/架构师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267110&idx=2&sn=4a17890c6e707800d17cae8525c95467&chksm=bd48f9a28a3f70b4e868c52cf63c7f7268da64e0b1f03282a4030d560d0ac8a5d728cac84f28#rd)  
-- [2023-11-05-【第3102期】一个npm包的自述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267105&idx=1&sn=1e31ba061dc39d20c420636b896f60ff&chksm=bd48f9a58a3f70b3076ead016a6c08d72a993cf4e815eb5669e57015c5f8fe1ac2324e050088#rd)  
+- [2023-11-06-【第3103期】转转Hybrid体系建设-客户端视角](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267110&idx=1&sn=548dcf9e7452e7b60df79dfd9e8ee6ca&chksm=bd48f9a28a3f70b4dd6d37a274e4512a2ffb68ce07f766b92a64ca7a8524d5be6f7cb928e2a0#rd)  
 - [2023-11-05-【招聘】深圳软牛科技招高级前端开发](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267105&idx=2&sn=c280f29284c39c2331d9abe430b10416&chksm=bd48f9a58a3f70b3d03d2dd51bd284f6503f35e9286574f77ab0e437fde3893f4f6da7a1d9e4#rd)  
-- [2023-11-03-【第3100期】JavaScript-支持原生数组分组了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266863&idx=1&sn=3984c51e0b5f41ef88b3c6fcf755d488&chksm=bd48c6ab8a3f4fbd56ccb8148c5a20ada0034cab4eb042b18389dfafec8d5362e5229bf14d6f#rd)  
+- [2023-11-05-【第3102期】一个npm包的自述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267105&idx=1&sn=1e31ba061dc39d20c420636b896f60ff&chksm=bd48f9a58a3f70b3076ead016a6c08d72a993cf4e815eb5669e57015c5f8fe1ac2324e050088#rd)  
 - [2023-11-03-【活动】线下D2，邀你12.16一起技术会友！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266863&idx=2&sn=892309ac753a14fe74feaad429b1cb0d&chksm=bd48c6ab8a3f4fbdddd9017c216afe716deea345a53c238ba8401c4261c46014d258e3401488#rd)  
+- [2023-11-03-【第3100期】JavaScript-支持原生数组分组了！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266863&idx=1&sn=3984c51e0b5f41ef88b3c6fcf755d488&chksm=bd48c6ab8a3f4fbd56ccb8148c5a20ada0034cab4eb042b18389dfafec8d5362e5229bf14d6f#rd)  
 - [2023-11-02-【第3099期】如何实现在-Web-中渲染-Word-文档](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266840&idx=1&sn=50a10f27e42fe8fa66a1226e6dec7514&chksm=bd48c69c8a3f4f8a28f4fc90d303d1b96371dfe7bff07f2a41501119b70202664627028bd294#rd)  
-- [2023-11-01-【第3098期】VisActor——面向叙事的智能可视化解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266808&idx=1&sn=0aa8cf7ffcc813bceecbd40261e593ba&chksm=bd48c77c8a3f4e6a6e73fcc0e00f4dd966b2dbb267eae70864186766bae4b6991ea0eede30ed#rd)  
 - [2023-11-01-【招聘】深圳腾讯文档招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266808&idx=2&sn=149123d8d8dd2fb9f0f0594510b3bdd4&chksm=bd48c77c8a3f4e6a8be13c2ef2a7ef8008877638c6ec6570c0a9e31f940a47844dbdea2114ba#rd)  
+- [2023-11-01-【第3098期】VisActor——面向叙事的智能可视化解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266808&idx=1&sn=0aa8cf7ffcc813bceecbd40261e593ba&chksm=bd48c77c8a3f4e6a6e73fcc0e00f4dd966b2dbb267eae70864186766bae4b6991ea0eede30ed#rd)  
 - [2023-10-31-【第3097期】VisualViewport-实现-Mac-触控板的缩放检测](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266777&idx=1&sn=582eb98257e0826fc6a6cc28daba1b9d&chksm=bd48c75d8a3f4e4b611ce5c49d999d34b9b6e97e4b0233221b992d1cb5154b35b810df707007#rd)  
-- [2023-10-30-【早说】交付后如何关注运营与迭代](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266757&idx=2&sn=8cd25d5ce5aa900ddc667bad9d8a5767&chksm=bd48c7418a3f4e57549f21187aee8cd3897eb04c7afdc31d381413e97ca19daa8487b29373bd#rd)  
 - [2023-10-30-【第3096期】当字体回退时发生了什么](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266757&idx=1&sn=4bde26e28c7033188fc2970a8681a33c&chksm=bd48c7418a3f4e57f86aa460bc904f2b508519a9ad863e27ac42af29c923c387480f0f734213#rd)  
+- [2023-10-30-【早说】交付后如何关注运营与迭代](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266757&idx=2&sn=8cd25d5ce5aa900ddc667bad9d8a5767&chksm=bd48c7418a3f4e57549f21187aee8cd3897eb04c7afdc31d381413e97ca19daa8487b29373bd#rd)  
 - [2023-10-29-【第3095期】JavaScript-令人惊讶的一点：对于空数组every方法返回true](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266751&idx=1&sn=f96894a519f24c79f54044362ffa2de9&chksm=bd48c73b8a3f4e2dc0323edc9e9be9a2a990fa19735fab97eb6447835676ad4d58c84f44801f#rd)  
-- [2023-10-28-【第3094期】Nicholas-C.-Zakas：对代码深度探索的思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266744&idx=1&sn=eef62ae48ecd973ffb8e66fabb2eae2b&chksm=bd48c73c8a3f4e2a42c6fb17787267f1d36d7a5379bbb511e371e8d9773d2c1d653247192b78#rd)  
 - [2023-10-28-【早说】工作适应理论](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266744&idx=2&sn=fb02bd8242ffca55f0043c157e6fca77&chksm=bd48c73c8a3f4e2a02dce4363a216cd35590f12697570529a6755d3709f94c5e805b865dfe9b#rd)  
-- [2023-10-27-【图书】深入理解FFmpeg](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266641&idx=2&sn=ede72f7a04c215932b0a59ae212d2471&chksm=bd48c7d58a3f4ec31c11489dae161c1b733d1d2f0b21c90bcfe228c9c498c86f082dd1270cee#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-11-08-Next.js-14：虽无新API，但不乏重大变更](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522795&idx=1&sn=943a77af169823929c3fce4b76b44915&chksm=f9522ca8ce25a5bebb9a71c400daa0083fc5fa82a6acb5a824c36699ef4a4307b13403e974a0#rd) ![](/assets/new.png)  
+- [2023-11-08-Next.js-14：虽无新API，但不乏重大变更](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522795&idx=1&sn=943a77af169823929c3fce4b76b44915&chksm=f9522ca8ce25a5bebb9a71c400daa0083fc5fa82a6acb5a824c36699ef4a4307b13403e974a0#rd)  
 - [2023-11-06-HTTP/3为什么正迅速吞噬世界？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522769&idx=1&sn=2022a209dc557761f84deb81d4dbfaa7&chksm=f9522c92ce25a584e94844561795a9fe25fadf45b7afa57aee72a7ad6614021ddb81d39141af#rd)  
 - [2023-11-03-​反面教材：搞砸Web开发的15种方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522756&idx=1&sn=7d7a381fc37b6bdbff64ae6614160dbc&chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd)  
 - [2023-11-01-术业有所专攻，Web组件也是一样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522744&idx=1&sn=abd6ebf6f47d80294b3ac66cbeb38672&chksm=f9522cfbce25a5edb08941770295e291278a959de734cbb946c11d854deafa5f75c1416495d1#rd)  
@@ -260,7 +260,7 @@
 
 
 - [2023-11-08-Vue3+NodeJS-接入文心一言，-发布一个-VSCode-大模型问答插件](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516945&idx=1&sn=3bd418af163eadff3f6ade7589d80af5&chksm=f99285c0cee50cd6b461e8b95c768f337946e3af8de9af4ec0dc20e304dad21c53f6b937651e#rd)  
-- [2023-11-08-学会这几个常用功能，给你的-vue3-项目加点餐！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516945&idx=2&sn=55bbfe33ecb674fcaa437974057a71cb&chksm=f99285c0cee50cd6709b0ec33e9b1fcc15c8c5f36895dd1558608a68011b9c17e96749cbf264#rd) ![](/assets/new.png)  
+- [2023-11-08-学会这几个常用功能，给你的-vue3-项目加点餐！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516945&idx=2&sn=55bbfe33ecb674fcaa437974057a71cb&chksm=f99285c0cee50cd6709b0ec33e9b1fcc15c8c5f36895dd1558608a68011b9c17e96749cbf264#rd)  
 - [2023-11-07-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516916&idx=1&sn=7782c82291309b2ac2547ef3a0d44b97&chksm=f9928425cee50d330066778339a4a488ebce33da251afe05e0bef56b97c3e5bb11bbf38ae766#rd)  
 - [2023-11-07-我用-ChatGPT-干的-18-件事！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516916&idx=2&sn=aabaae0db0f4defa7083b472fe74965e&chksm=f9928425cee50d33268542fc379a74894a7d433937b7af705303035121270e8af38ecbbf3d81#rd)  
 - [2023-11-06-45K*16薪，最近准备跳槽的可以看看](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516910&idx=1&sn=8b70839ee0a0caca31a64bc353b43dc3&chksm=f992843fcee50d29d25ac45dab074807e2852d8df5677ddc10aeca702ba3915e06e2098fc29f#rd)  
