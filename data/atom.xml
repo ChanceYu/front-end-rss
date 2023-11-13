@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-13T02:00:43.910Z</updated>
+    <updated>2023-11-13T04:00:44.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[原生“跨组件”通信方式]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488519&amp;idx=1&amp;sn=05bb09964923d82d5d6a8d6375ff9093&amp;chksm=97c677c8a0b1fede2691a34be452eebbb48f5058ed174da69db2d018da9dc7c34d0eec18abeb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488519&amp;idx=1&amp;sn=05bb09964923d82d5d6a8d6375ff9093&amp;chksm=97c677c8a0b1fede2691a34be452eebbb48f5058ed174da69db2d018da9dc7c34d0eec18abeb#rd"/>
+        <updated>2023-11-12T16:00:00.000Z</updated>
+        <published>2023-11-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3110期】快速了解CSS 相对颜色]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267270&amp;idx=1&amp;sn=75f59e15741537f44599bbac5d7f87ae&amp;chksm=bd48f9428a3f7054bea9d6ce43424948da753ad66f5e9210bb42370844ff18e43e808aad7a9f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267270&amp;idx=1&amp;sn=75f59e15741537f44599bbac5d7f87ae&amp;chksm=bd48f9428a3f7054bea9d6ce43424948da753ad66f5e9210bb42370844ff18e43e808aad7a9f#rd"/>
+        <updated>2023-11-12T16:00:00.000Z</updated>
+        <published>2023-11-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 年面试环境太差，今年没有金九银十……]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514447&amp;idx=1&amp;sn=90c2af37eebb2cbcad8dd24d5e777f52&amp;chksm=eb078136dc7008204dee737145cc1e061ee8c316dbfbc5d161b94c6d5ea47ac80c739a8e6d6a#rd</id>
@@ -190,16 +204,16 @@
         <published>2023-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3106期】新一代前端发展的困境与破局]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd"/>
+        <title type="html"><![CDATA[【图书】Vue.js 3+TypeScript完全指南]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=2&amp;sn=d464389d42d609a51f8d65b7685b2c17&amp;chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=2&amp;sn=d464389d42d609a51f8d65b7685b2c17&amp;chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd"/>
         <updated>2023-11-08T16:00:00.000Z</updated>
         <published>2023-11-08T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】Vue.js 3+TypeScript完全指南]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=2&amp;sn=d464389d42d609a51f8d65b7685b2c17&amp;chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=2&amp;sn=d464389d42d609a51f8d65b7685b2c17&amp;chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd"/>
+        <title type="html"><![CDATA[【第3106期】新一代前端发展的困境与破局]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267187&amp;idx=1&amp;sn=8fb5e4b7e6e64bc72aafddc451b258e7&amp;chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd"/>
         <updated>2023-11-08T16:00:00.000Z</updated>
         <published>2023-11-08T16:00:00.000Z</published>
     </entry>
@@ -253,16 +267,16 @@
         <published>2023-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】笔记摘抄方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=2&amp;sn=6ddec9c7d7f2ca1f092effb3dd020de3&amp;chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=2&amp;sn=6ddec9c7d7f2ca1f092effb3dd020de3&amp;chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd"/>
+        <title type="html"><![CDATA[【第3105期】OMI 响应式WebComponents和OmiElements来袭]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=1&amp;sn=f68253681298b5391c0474ad12d2d863&amp;chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=1&amp;sn=f68253681298b5391c0474ad12d2d863&amp;chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd"/>
         <updated>2023-11-07T16:00:00.000Z</updated>
         <published>2023-11-07T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3105期】OMI 响应式WebComponents和OmiElements来袭]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=1&amp;sn=f68253681298b5391c0474ad12d2d863&amp;chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=1&amp;sn=f68253681298b5391c0474ad12d2d863&amp;chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd"/>
+        <title type="html"><![CDATA[【早说】笔记摘抄方法]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=2&amp;sn=6ddec9c7d7f2ca1f092effb3dd020de3&amp;chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=2&amp;sn=6ddec9c7d7f2ca1f092effb3dd020de3&amp;chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd"/>
         <updated>2023-11-07T16:00:00.000Z</updated>
         <published>2023-11-07T16:00:00.000Z</published>
     </entry>
@@ -302,16 +316,16 @@
         <published>2023-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3104期】前端埋点质量量化与优化]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=1&amp;sn=ce1dc5bd28d946ba83a94c88365da5fe&amp;chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=1&amp;sn=ce1dc5bd28d946ba83a94c88365da5fe&amp;chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd"/>
+        <title type="html"><![CDATA[【早说】做笔记的目的:快速重新找到未来可能用到的知识]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=2&amp;sn=e938fac7b541c85d72fd3a15eb347146&amp;chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=2&amp;sn=e938fac7b541c85d72fd3a15eb347146&amp;chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd"/>
         <updated>2023-11-06T16:00:00.000Z</updated>
         <published>2023-11-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早说】做笔记的目的:快速重新找到未来可能用到的知识]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=2&amp;sn=e938fac7b541c85d72fd3a15eb347146&amp;chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=2&amp;sn=e938fac7b541c85d72fd3a15eb347146&amp;chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd"/>
+        <title type="html"><![CDATA[【第3104期】前端埋点质量量化与优化]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=1&amp;sn=ce1dc5bd28d946ba83a94c88365da5fe&amp;chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267122&amp;idx=1&amp;sn=ce1dc5bd28d946ba83a94c88365da5fe&amp;chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd"/>
         <updated>2023-11-06T16:00:00.000Z</updated>
         <published>2023-11-06T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[语雀是如何防止前端数据被异常篡改并且复原数据的？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497207&amp;idx=1&amp;sn=ad0b6ce106aff6f76d0a063617b7193e&amp;chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497207&amp;idx=1&amp;sn=ad0b6ce106aff6f76d0a063617b7193e&amp;chksm=ce269601f9511f176d70d6184e9b99c6cca394e14c8bca1f40ff19c214d8a42e156dff47477d#rd"/>
-        <updated>2023-11-05T16:00:00.000Z</updated>
-        <published>2023-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45K*16薪，最近准备跳槽的可以看看]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516910&amp;idx=1&amp;sn=8b70839ee0a0caca31a64bc353b43dc3&amp;chksm=f992843fcee50d29d25ac45dab074807e2852d8df5677ddc10aeca702ba3915e06e2098fc29f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516910&amp;idx=1&amp;sn=8b70839ee0a0caca31a64bc353b43dc3&amp;chksm=f992843fcee50d29d25ac45dab074807e2852d8df5677ddc10aeca702ba3915e06e2098fc29f#rd"/>
-        <updated>2023-11-05T16:00:00.000Z</updated>
-        <published>2023-11-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 是如何处理请求的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516910&amp;idx=2&amp;sn=62ad2c26fb7ff36a69c64e79b9ca4c88&amp;chksm=f992843fcee50d295518dd146f61731900c56219f97971432190503439813cf6ee9e9b117c02#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247516910&amp;idx=2&amp;sn=62ad2c26fb7ff36a69c64e79b9ca4c88&amp;chksm=f992843fcee50d295518dd146f61731900c56219f97971432190503439813cf6ee9e9b117c02#rd"/>
         <updated>2023-11-05T16:00:00.000Z</updated>
         <published>2023-11-05T16:00:00.000Z</published>
     </entry>
