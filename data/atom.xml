@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-14T15:00:52.409Z</updated>
+    <updated>2023-11-14T22:00:57.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[mp4box.js加WebCodecs 解码MP4视频帧并渲染]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/"/>
+        <updated>2023-11-14T16:00:00.000Z</updated>
+        <published>2023-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514461&amp;idx=1&amp;sn=899d8073269d6fbbfef867d093b928c0&amp;chksm=eb078124dc700832b85a81b77104eb9b92440c4ce84dcb0989b1036054ee25667e16956f4e17#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514461&amp;idx=1&amp;sn=899d8073269d6fbbfef867d093b928c0&amp;chksm=eb078124dc700832b85a81b77104eb9b92440c4ce84dcb0989b1036054ee25667e16956f4e17#rd"/>
+        <updated>2023-11-13T16:00:00.000Z</updated>
+        <published>2023-11-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你知道 XHR 和 Fetch 的区别吗？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=2&amp;sn=74f964e1d985ac7707e69b27c0e2e876&amp;chksm=f99283d0cee50ac66bdf35730ec707649cd1b2057ac2b44cf55b56beea68572e845ba7c91775#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[纯前端实现录屏并保存视频到本地，如此简单]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617433&amp;idx=2&amp;sn=b1513fac494ec755356027109a8789a4&amp;chksm=8022af58b755264ecf0d2e3f31bf6cf36b73fe92a1cba7c8e29f4ea9bda6c2f01bf3e0684db0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617433&amp;idx=2&amp;sn=b1513fac494ec755356027109a8789a4&amp;chksm=8022af58b755264ecf0d2e3f31bf6cf36b73fe92a1cba7c8e29f4ea9bda6c2f01bf3e0684db0#rd"/>
-        <updated>2023-11-07T16:00:00.000Z</updated>
-        <published>2023-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早说】笔记摘抄方法]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=2&amp;sn=6ddec9c7d7f2ca1f092effb3dd020de3&amp;chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=2&amp;sn=6ddec9c7d7f2ca1f092effb3dd020de3&amp;chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd"/>
-        <updated>2023-11-07T16:00:00.000Z</updated>
-        <published>2023-11-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3105期】OMI 响应式WebComponents和OmiElements来袭]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=1&amp;sn=f68253681298b5391c0474ad12d2d863&amp;chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267152&amp;idx=1&amp;sn=f68253681298b5391c0474ad12d2d863&amp;chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd"/>
         <updated>2023-11-07T16:00:00.000Z</updated>
         <published>2023-11-07T16:00:00.000Z</published>
     </entry>

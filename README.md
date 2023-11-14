@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-14 23:00:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-15 06:00:56，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,15 +21,15 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-11-14-前端实现微信扫一扫的思路](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517441&idx=1&sn=58aeaa33301017107cfeace78d947779&chksm=f99283d0cee50ac6ee791c7428a847972e904f466a1510e3f2fd15b94dd7306d2588da697f52#rd) ![](/assets/new.png)  
-- [2023-11-14-你知道-XHR-和-Fetch-的区别吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517441&idx=2&sn=74f964e1d985ac7707e69b27c0e2e876&chksm=f99283d0cee50ac66bdf35730ec707649cd1b2057ac2b44cf55b56beea68572e845ba7c91775#rd) ![](/assets/new.png)  
+- [2023-11-14-前端实现微信扫一扫的思路](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517441&idx=1&sn=58aeaa33301017107cfeace78d947779&chksm=f99283d0cee50ac6ee791c7428a847972e904f466a1510e3f2fd15b94dd7306d2588da697f52#rd)  
+- [2023-11-14-你知道-XHR-和-Fetch-的区别吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517441&idx=2&sn=74f964e1d985ac7707e69b27c0e2e876&chksm=f99283d0cee50ac66bdf35730ec707649cd1b2057ac2b44cf55b56beea68572e845ba7c91775#rd)  
 - [2023-11-13-【附源码】数字孪生-系统中常用-Three.js-效果的实现原理！！！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517309&idx=2&sn=c703e4f49edb3ab21cb2c7cc30eac535&chksm=f99282accee50bba857aa72b269b967c30fbc2271b06fd71608f4844f343c73e291fea8a9215#rd)  
 - [2023-11-13-这回，前端面试稳了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517309&idx=1&sn=56ea57abe58ff38562b1d7839fb7a888&chksm=f99282accee50bba846b7645ee906a426f2b5c78e2b02abf0f4a9e548a9a437053ae657ee743#rd)  
 - [2023-11-12-一次前端性能优化——性能得分从56到96](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517303&idx=2&sn=982bea3f0b74270a2f8549095095b0f4&chksm=f99282a6cee50bb0f519f74f7acde0c2349b8b773b19909cf02a0d0b254cf88cb768c351554a#rd)  
@@ -414,6 +414,7 @@
 </summary>
 
 
+- [2023-11-14-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514461&idx=1&sn=899d8073269d6fbbfef867d093b928c0&chksm=eb078124dc700832b85a81b77104eb9b92440c4ce84dcb0989b1036054ee25667e16956f4e17#rd) ![](/assets/new.png)  
 - [2023-11-12-2023-年面试环境太差，今年没有金九银十……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514447&idx=1&sn=90c2af37eebb2cbcad8dd24d5e777f52&chksm=eb078136dc7008204dee737145cc1e061ee8c316dbfbc5d161b94c6d5ea47ac80c739a8e6d6a#rd)  
 - [2023-11-11-2023云栖大会的新鲜事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514440&idx=1&sn=e913f3ba5ab16065ed13ea58d6b1fe7f&chksm=eb078131dc70082747dccb97b334f1f2ddf574a4ed27b0fefa116fbacdf9145e77969daec650#rd)  
 - [2023-11-09-14年开始工作的老前端,-今天第一天送外卖,-时薪比自己估计少很多](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514437&idx=1&sn=f676f6f407c9d926ea4493888866ff28&chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd)  
@@ -426,14 +427,13 @@
 - [2023-10-29-记录一下27岁的前端，从二本到澳洲🦘的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514359&idx=1&sn=2e260cfc2f48f5a17fb1402f7be8003d&chksm=eb07808edc700998c118dfc055c133f4d80ed2e9c8498c3c1d5e216255be8557be28094fb770#rd)  
 - [2023-10-28-Next.js-14-正式发布，更快、更强、更可靠！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514313&idx=1&sn=9e1b1eecdfa120e6ee098c61d17e832b&chksm=eb0780b0dc7009a650076e2bb414cb7a24afa472156eed0d646241e315236c4e462425be38cc#rd)  
 - [2023-10-27-产品：请给我实现一个在web端截屏的功能！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514310&idx=1&sn=7c10c20371ca202c3ed7e23ff007b8cd&chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd)  
-- [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd)  
 - [2023-10-26-（此文价值极大）ChatGPT-搞钱来了，抓紧进！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=1&sn=36f12514b064d58ca13ea0a8756043c1&chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd)  
+- [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd)  
 - [2023-10-25-React-2024-生态系统：路由、状态管理、调试、测试、组件库、文档……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514288&idx=1&sn=fd4b8f93fe2d3a50ddfa97a17c010935&chksm=eb0780c9dc7009dfd61a642648725661f89653019a2310f0203a248699862a10774fe84b49c2#rd)  
 - [2023-10-24-1024程序员节！分享几套大厂前端题库！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514281&idx=1&sn=1468033241c77ae8b69abd3ecb190f1c&chksm=eb0780d0dc7009c67e73f58808cebdc476a8cb2702ebaeda2816bceff79c6dc6f05f2597fd18#rd)  
 - [2023-10-23-Remix-决定用-vite-代替-esbuild](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514267&idx=1&sn=86c6a5ff2b2b7ab4254e0d332ecc6c83&chksm=eb0780e2dc7009f46b2d801afd1a900aafc990248b9beb721076a217ca6943f87b797aec721f#rd)  
 - [2023-10-21-七年前端，四年远程，挣美元花的感觉起飞了……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514261&idx=1&sn=0dff3956da85a6120680a727b6f02488&chksm=eb0780ecdc7009facd0f5e827dca38ab70d6db3d341e372f5c9e0d655aac9b2925095e52ee67#rd)  
 - [2023-10-20-周爱民：告前端同学书](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514258&idx=1&sn=15da5081f310fbb1302e098ea68c0706&chksm=eb0780ebdc7009fd458befdd75280dfd3560aa4d6f8c382b45d2429c3ff7cfab944d3240e8b8#rd)  
-- [2023-10-19-让你精通-React-的-7-个-Github-仓库](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514253&idx=1&sn=0a0ca5afe3472e05266217db50de1a84&chksm=eb0780f4dc7009e2c6850e295ad340bc0dbe0320c5f0ed3260639e5426668cbc123f45b02bf3#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/) ![](/assets/new.png)  
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)  
 - [2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/)  
 - [2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/)  
@@ -526,7 +527,6 @@
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)  
 - [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)  
-- [2023-05-21-JS-audio加图片序列或canvas转webM/MP4的实现](https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
