@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-15 18:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-15 21:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -131,6 +131,7 @@
 - [2022-12-19-无代码开发小程序只需要一天就搞定前后端和部署！为啥不学？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487541&idx=1&sn=8680c8e3fbedab348d4649299c6d0e7e&chksm=ce4605a4f9318cb273f7da498824332077b3532f3b2090eefcf13e3b806da5694ad835c26ee4#rd) 
 - [2022-07-25-小程序能在八大平台中运行？太强大了吧~这不是梦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486589&idx=1&sn=6a7bfe060e3ac282df436b674ae1d69c&chksm=ce4619ecf93190faf7543aa87e30a460ff29edcdfe4a8bcaa500f0897faee6084868b0b72a7c#rd) 
 - [2022-05-30-小程序开发入门及多端开发浅析](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063195&idx=1&sn=28d56adce1df4aebdf3f966ddd6aeb9d&chksm=87c4588bb0b3d19d98d7057febd5a0ae3b667b0aa3300ee6fb20384844287d52919af3425446#rd) 
+- [2023-11-15-空间小程序：Web-开发者的下一个增长曲线？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517527&idx=2&sn=9cb2a42e80b1462bd9c2862836cff5a6&chksm=f9928386cee50a90703e39f24477e56fa3b452974842021e4ea6de39bd24f3045464155162c6#rd) 
 - [2023-09-21-推荐11个yyds微信小程序开源项目](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516449&idx=2&sn=2a455c4292c37cb468d95ad63ec9949b&chksm=f99287f0cee50ee61abae116012c7caf329459595d03b18f40a02b9b0feff0ccd91df9eb91c6#rd) 
 - [2022-08-15-太强了！有了这个-GitHub-热门工具，15-分钟内把微信小程序搬进-App！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510252&idx=1&sn=107cfb7ee193a1428beae44278809b96&chksm=f992ae3dcee5272bb7b26234806ff4ae648c87f6e0b618e47be1c31402fd639308880bfd7f84#rd) 
 - [2020-07-31-2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q) 
