@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-11-16 15:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-16 18:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -35,8 +35,8 @@
 - [2020-12-13-GitHub-月榜第-3，微软的老照片修复工具火了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564551&idx=2&sn=33a732e8f1a2b61406611da250e0b64e&chksm=80257dc6b752f4d0368924c9ba496a19ee67451e06901db36be8671f0dc3b9984d7aa9bc520b&scene=27#wechat_redirect) 
 - [2020-12-08-GitHub-月榜第-3，微软的老照片修复工具火了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564352&idx=2&sn=fce66dc465f2f210170146cb5c0d7893&chksm=80257e81b752f797696aeac85e849f022cc1fdd21e61475ffa8c5ae9efe265a1cc7ca3292036&scene=27#wechat_redirect) 
 - [2020-11-24-GitHub-霸榜！比-ping-强大的-gping-一天拿下-2.5k-Star](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563906&idx=2&sn=aff0aa804ddf824c79d362ec4755c8bc&chksm=80257043b752f955b3d195635f037d5f43c8b4b70f69bc2a7fc335d127da93c70b4983fc0088&scene=27#wechat_redirect) 
-- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=1&sn=7cb2b0d10d3306c689707acaa64d7d0e&chksm=802543b8b752caaec8923f4d4f8edbf61aeeacf62f4fabf67d569cbdec28c2bc7a1c461f5622&scene=27#wechat_redirect) 
 - [2020-06-02-Github系列，是道全选题么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=2&sn=c7ce511ae2f9762579aa932b6701a7bd&chksm=802543b8b752caae44fabab1c892ceeae30efe067b1ebe63832610f805eba0331b8c34fb7d50&scene=27#wechat_redirect) 
+- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651559033&idx=1&sn=7cb2b0d10d3306c689707acaa64d7d0e&chksm=802543b8b752caaec8923f4d4f8edbf61aeeacf62f4fabf67d569cbdec28c2bc7a1c461f5622&scene=27#wechat_redirect) 
 - [2020-05-11-你可能已经忽略的-git-commit-规范](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651558392&idx=2&sn=44aef758d7538a00e48ebb0ed2751dc9&chksm=80254639b752cf2fcfb0b6e3bc5bcabb07a26d322a031a74a3c317a1db59b9c17103121e5b3d&scene=27#wechat_redirect) 
 - [2022-05-22-jQuery已“死”？Gitee关闭部分开源仓库；微软宣布为员工加薪应对通胀；蔚来又上市了；小鹏回应解约应届生](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247514799&idx=1&sn=d41eee6fa0003633218c783cf5136f44&chksm=f9520fecce2586fa340d5649a74f4d0f2f3aced661634165967469664283128793d6d15137b6#rd) 
 - [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247508985&idx=1&sn=1e021e7bd352729a6876c76b5d3bf9bc&chksm=f95216bace259fac06c37f9c54d68928b46d97fee4183e1badea992a78c98820ee2ec581dc0c&scene=27#wechat_redirect) 
@@ -53,6 +53,7 @@
 - [2022-11-18-工作中如何使用-Git](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487425&idx=1&sn=c522a7efd73837e02f5c2fb6e6560484&chksm=ce461a50f93193465f097f6e95810bfaef66da69eb262b763bb66288eb11d15a05717cefd38d#rd) 
 - [2022-04-09-三心给大家分享一个阅读Github项目代码的小技巧~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486076&idx=1&sn=46ae2cd78ca5803765ec848724558317&chksm=ce461fedf93196fb4ce8ed281f42b490859c4d288e977c71940369a7365f4bf270b4a353b3d4#rd) 
 - [2022-11-15-Git-是如何工作的](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451064549&idx=1&sn=3922357763a2ef0c346cb4c792f1f523&chksm=87c45ff5b0b3d6e3491a22c1e0c6acab926ad5c7f2457967a81973e67e96c6bdf150c1dd9de5#rd) 
+- [2023-11-16-git-面试字节时，老师问：合并分支中rebase和merge的区别](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=1&sn=a4486a878f99eebb54a7d0bef0ea93f8&chksm=f992838ccee50a9a641e398e3d3f2173e4f0510b8f35c2deb01e037803981e1ad47d8fdfe3e9#rd) 
 - [2022-05-19-如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506957&idx=2&sn=02966fa0aa9884da75a2c7b8b1bcd85e&chksm=f992dadccee553ca93b5bd77bd4223afb74a9dce1cfdca7396986a453debd32f7ab1a2cefa27#rd) 
 - [2022-05-10-Git-各指令的本质，真是通俗易懂啊](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506726&idx=1&sn=2d28fac0728a15939fe823aeb76a0342&chksm=f992ddf7cee554e1a43c3d4d0ffc7d62e019e99c1919546741e5646aad90e50df2f201357006#rd) 
 - [2022-05-05-Github访问速度慢的解决方案总汇](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506577&idx=2&sn=98fde3b095ddc656d98f345c200848c9&chksm=f992dc40cee55556e8fd58ca1ebfce81406fd17b61da197c9ec37c0230fac7d733781c419f72#rd) 
