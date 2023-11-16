@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-16T15:00:43.228Z</updated>
+    <updated>2023-11-16T22:00:45.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Monorepo 仓库代码质量提升实践]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514469&amp;idx=1&amp;sn=2597848019f60f37973a313791173f54&amp;chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514469&amp;idx=1&amp;sn=2597848019f60f37973a313791173f54&amp;chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd"/>
+        <updated>2023-11-15T16:00:00.000Z</updated>
+        <published>2023-11-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精读《维护好一个复杂项目》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517533&amp;idx=2&amp;sn=cd8828513b8f159810530ab6472fbb89&amp;chksm=f992838ccee50a9ac05f00eebae1df9f042cb83ad6776bb833eafcf8c8ba1dfa7106ed687654#rd</id>
@@ -57,9 +64,23 @@
         <published>2023-11-15T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Digging into explicit resource management]]></title>
+        <id>https://javascriptweekly.com/issues/663</id>
+        <link href="https://javascriptweekly.com/issues/663"/>
+        <updated>2023-11-15T16:00:00.000Z</updated>
+        <published>2023-11-15T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[mp4box.js加WebCodecs 解码MP4视频帧并渲染]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/"/>
+        <updated>2023-11-14T16:00:00.000Z</updated>
+        <published>2023-11-14T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webpack 性能优化 二次编译速度提升3倍！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514464&amp;idx=1&amp;sn=e838cf9490daacfc3e9ecd02f10b4d2e&amp;chksm=eb078119dc70080f649f74e33318797e531842131cfdb12e222e342d9bb15ac0e1832df8cc2c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514464&amp;idx=1&amp;sn=e838cf9490daacfc3e9ecd02f10b4d2e&amp;chksm=eb078119dc70080f649f74e33318797e531842131cfdb12e222e342d9bb15ac0e1832df8cc2c#rd"/>
         <updated>2023-11-14T16:00:00.000Z</updated>
         <published>2023-11-14T16:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617493&amp;idx=2&amp;sn=9a2d9d0dbdfc63c7325d04fa1f98a1f9&amp;chksm=8022af14b7552602964c6dbff0c8e0f9083d87573b42612024426a7ae21ab6a25379ecd69f13#rd"/>
         <updated>2023-11-09T16:00:00.000Z</updated>
         <published>2023-11-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3107期】古茗打印机技术的演进]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267217&amp;idx=1&amp;sn=d6e6b4d02407e393f01dce1fb85574f4&amp;chksm=bd48f9158a3f7003279501184ec9ef2eceb2b6935b14c64da2ee319656bfc3da3328527f8584#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267217&amp;idx=1&amp;sn=d6e6b4d02407e393f01dce1fb85574f4&amp;chksm=bd48f9158a3f7003279501184ec9ef2eceb2b6935b14c64da2ee319656bfc3da3328527f8584#rd"/>
-        <updated>2023-11-09T16:00:00.000Z</updated>
-        <published>2023-11-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14年开始工作的老前端, 今天第一天送外卖, 时薪比自己估计少很多]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514437&amp;idx=1&amp;sn=f676f6f407c9d926ea4493888866ff28&amp;chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514437&amp;idx=1&amp;sn=f676f6f407c9d926ea4493888866ff28&amp;chksm=eb07813cdc70082a609083443afb76c739d517d0b562ea98d7864e8917ae58e7801d577b06ea#rd"/>
-        <updated>2023-11-08T16:00:00.000Z</updated>
-        <published>2023-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下周开课！21天短知识打卡课，报名进行中。速度耐力专题]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&amp;mid=2653624698&amp;idx=2&amp;sn=bc899f0c5cd37a664ec3afa026bf39c5&amp;chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&amp;mid=2653624698&amp;idx=2&amp;sn=bc899f0c5cd37a664ec3afa026bf39c5&amp;chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd"/>
-        <updated>2023-11-08T16:00:00.000Z</updated>
-        <published>2023-11-08T16:00:00.000Z</published>
     </entry>
 </feed>
