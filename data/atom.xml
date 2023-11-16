@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-16T10:00:46.331Z</updated>
+    <updated>2023-11-16T15:00:43.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -158,6 +158,13 @@
         <title type="html"><![CDATA[【招聘】杭州星喆科技招高级前端开发工程师]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267319&amp;idx=2&amp;sn=8819da834a21e82799c854e93a135f8e&amp;chksm=bd48f9738a3f70651a44938c94596f233f507df1d14cb9404a2194fa34cb74c291a1b360f648#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267319&amp;idx=2&amp;sn=8819da834a21e82799c854e93a135f8e&amp;chksm=bd48f9738a3f70651a44938c94596f233f507df1d14cb9404a2194fa34cb74c291a1b360f648#rd"/>
+        <updated>2023-11-13T16:00:00.000Z</updated>
+        <published>2023-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milo: A new HTTP parser for Node?]]></title>
+        <id>https://nodeweekly.com/issues/510</id>
+        <link href="https://nodeweekly.com/issues/510"/>
         <updated>2023-11-13T16:00:00.000Z</updated>
         <published>2023-11-13T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[下周开课！21天短知识打卡课，报名进行中。速度耐力专题]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&amp;mid=2653624698&amp;idx=2&amp;sn=bc899f0c5cd37a664ec3afa026bf39c5&amp;chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&amp;mid=2653624698&amp;idx=2&amp;sn=bc899f0c5cd37a664ec3afa026bf39c5&amp;chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd"/>
-        <updated>2023-11-08T16:00:00.000Z</updated>
-        <published>2023-11-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太强了！看看人家小姐姐整理的面试题库！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497222&amp;idx=1&amp;sn=24bc9c1a110b2b44fd317f582f244853&amp;chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247497222&amp;idx=1&amp;sn=24bc9c1a110b2b44fd317f582f244853&amp;chksm=ce2695f0f9511ce6e3527b11d84ca4efc3011017d25ad7f84c586b1af60569c88da836c84f49#rd"/>
         <updated>2023-11-08T16:00:00.000Z</updated>
         <published>2023-11-08T16:00:00.000Z</published>
     </entry>

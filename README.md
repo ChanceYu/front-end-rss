@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-16 18:00:44，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-16 23:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510) ![](/assets/new.png)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
@@ -61,7 +62,6 @@
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)  
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)  
 - [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
-- [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-11-16-想成为优秀前端，你需要知道这些！（基本素养、代码规范、开发技巧）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=1&sn=04212b337306cf540db4fbd65af88407&chksm=8022aed1b75527c7552adaf1f60e76331785fccd4744d662609cd3f7798ba48c54ac8c035f49#rd) ![](/assets/new.png)  
-- [2023-11-16-99%的时间里只使用这-14-个-Git-命令就够了！！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=2&sn=73cfcd5356552e7d311959953337de2f&chksm=8022aed1b75527c7b3ec572ad4c7822d555bb7ae55e97123a3e7fee96084e249daf23a0bc544#rd) ![](/assets/new.png)  
+- [2023-11-16-想成为优秀前端，你需要知道这些！（基本素养、代码规范、开发技巧）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=1&sn=04212b337306cf540db4fbd65af88407&chksm=8022aed1b75527c7552adaf1f60e76331785fccd4744d662609cd3f7798ba48c54ac8c035f49#rd)  
+- [2023-11-16-99%的时间里只使用这-14-个-Git-命令就够了！！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=2&sn=73cfcd5356552e7d311959953337de2f&chksm=8022aed1b75527c7b3ec572ad4c7822d555bb7ae55e97123a3e7fee96084e249daf23a0bc544#rd)  
 - [2023-11-15-你真的懂HTTP缓存吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617548&idx=2&sn=63a7f0770ba2818a40696ebc95278d8b&chksm=8022aecdb75527dbeaa3a2ca43128de795f79b461a0f559cf400e81726a2f4ab8d65a643b472#rd)  
 - [2023-11-15-写给高级前端的-Nginx-知识，一网打尽！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617548&idx=1&sn=b38dbe7f19394009aba1b989660cb52b&chksm=8022aecdb75527db60b92d7af3f472eba98b4ff803488547c74d2e56b6aac4654e76d4a3825d#rd)  
 - [2023-11-14-不要再滥用可选链运算符?.啦！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617544&idx=1&sn=2d1c9149820f9772b1f9ce8bcb38e9dd&chksm=8022aec9b75527dfdd23efb8b1cc2b9aa540bbeca7f2fd5795cf631803140f3d6d0ba9005e6e#rd)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-11-16-git-面试字节时，老师问：合并分支中rebase和merge的区别](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=1&sn=a4486a878f99eebb54a7d0bef0ea93f8&chksm=f992838ccee50a9a641e398e3d3f2173e4f0510b8f35c2deb01e037803981e1ad47d8fdfe3e9#rd) ![](/assets/new.png)  
-- [2023-11-16-精读《维护好一个复杂项目》](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=2&sn=cd8828513b8f159810530ab6472fbb89&chksm=f992838ccee50a9ac05f00eebae1df9f042cb83ad6776bb833eafcf8c8ba1dfa7106ed687654#rd) ![](/assets/new.png)  
+- [2023-11-16-git-面试字节时，老师问：合并分支中rebase和merge的区别](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=1&sn=a4486a878f99eebb54a7d0bef0ea93f8&chksm=f992838ccee50a9a641e398e3d3f2173e4f0510b8f35c2deb01e037803981e1ad47d8fdfe3e9#rd)  
+- [2023-11-16-精读《维护好一个复杂项目》](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=2&sn=cd8828513b8f159810530ab6472fbb89&chksm=f992838ccee50a9ac05f00eebae1df9f042cb83ad6776bb833eafcf8c8ba1dfa7106ed687654#rd)  
 - [2023-11-15-空间小程序：Web-开发者的下一个增长曲线？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517527&idx=2&sn=9cb2a42e80b1462bd9c2862836cff5a6&chksm=f9928386cee50a90703e39f24477e56fa3b452974842021e4ea6de39bd24f3045464155162c6#rd)  
 - [2023-11-15-前端调取摄像头并实现拍照功能](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517527&idx=1&sn=1273f59e154cd11a7ecd2277af2c4c8f&chksm=f9928386cee50a908db3fdb5fdc431e5eb9dc49685170e61d24e52e7870e92a374d41e6e2736#rd)  
 - [2023-11-14-你知道-XHR-和-Fetch-的区别吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517441&idx=2&sn=74f964e1d985ac7707e69b27c0e2e876&chksm=f99283d0cee50ac66bdf35730ec707649cd1b2057ac2b44cf55b56beea68572e845ba7c91775#rd)  
