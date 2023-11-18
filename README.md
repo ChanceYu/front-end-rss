@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-17 23:00:49，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-18 12:01:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -104,26 +104,26 @@
 </summary>
 
 
+- [2023-11-18-【第3115期】基于数据驱动的前端研发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=1&sn=bded6972886a1dd7722fa2ab757d78b3&chksm=bd48f8ea8a3f71fcd3862aba391ff81b9fd2ae35cc0c1d4216e3a46f4029a52b8ea348216083#rd) ![](/assets/new.png)  
+- [2023-11-18-【早说】PPT的案例编写与良好水平的特点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=2&sn=2b5009f86e7bde480f8962c7f654a8b0&chksm=bd48f8ea8a3f71fccebdc7bba49e3e279f739dd097c5dac654a3809d2e2b834f1a64d32ac5a9#rd) ![](/assets/new.png)  
 - [2023-11-17-【第3114期】BI-数据可视化平台建设：交叉表组件演变实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267427&idx=1&sn=134222bed01a15b7825f799529f7461d&chksm=bd48f8e78a3f71f15c5123765fbe575cdd9ec35a22b6b550e1cd93ee256a935b1f9f2fbbd442#rd)  
-- [2023-11-16-【招聘】字节飞书人事招高级/资深前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=2&sn=e501703d0de491af942c4dd27a934663&chksm=bd48f8898a3f719f52c02e6243706027c57738c5537f13cd12b48f7907562b741df894c4a4a4#rd)  
 - [2023-11-16-【第3113期】一文搞懂得物前端监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=1&sn=4fc26152f3438612e7055ba2fabccf5c&chksm=bd48f8898a3f719f6bf57ce455fd70c62f1d00f83f57b2a6ada0d16e9f3eee255c79695afb49#rd)  
-- [2023-11-15-【招聘】天翼云科技有限公司招高级前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=2&sn=5f34566d6d4665935dc040947e970e78&chksm=bd48f97f8a3f7069ee1fa034fdbc3992872fca0c7d676b6a60fbfea950a73d2c9a6b50d0e314#rd)  
+- [2023-11-16-【招聘】字节飞书人事招高级/资深前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=2&sn=e501703d0de491af942c4dd27a934663&chksm=bd48f8898a3f719f52c02e6243706027c57738c5537f13cd12b48f7907562b741df894c4a4a4#rd)  
 - [2023-11-15-【第3112期】携程后台低代码平台的探究与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=1&sn=abc63803663f881e1c4c1d6763bd18bc&chksm=bd48f97f8a3f70690e3cf44b7d9ecdabcf4572e23a3b6ba2c4c5ab885e989cd7c14ac260742e#rd)  
-- [2023-11-14-【第3111期】如何优雅的控制网页请求的优先级？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=1&sn=eadbd36f91aec135f458936efdd0ac6e&chksm=bd48f9738a3f7065107c7a89bd729726acd9bf350dcd9357ec58552b6554846dd52a286be801#rd)  
+- [2023-11-15-【招聘】天翼云科技有限公司招高级前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=2&sn=5f34566d6d4665935dc040947e970e78&chksm=bd48f97f8a3f7069ee1fa034fdbc3992872fca0c7d676b6a60fbfea950a73d2c9a6b50d0e314#rd)  
 - [2023-11-14-【招聘】杭州星喆科技招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=2&sn=8819da834a21e82799c854e93a135f8e&chksm=bd48f9738a3f70651a44938c94596f233f507df1d14cb9404a2194fa34cb74c291a1b360f648#rd)  
+- [2023-11-14-【第3111期】如何优雅的控制网页请求的优先级？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=1&sn=eadbd36f91aec135f458936efdd0ac6e&chksm=bd48f9738a3f7065107c7a89bd729726acd9bf350dcd9357ec58552b6554846dd52a286be801#rd)  
 - [2023-11-13-【第3110期】快速了解CSS-相对颜色](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=1&sn=75f59e15741537f44599bbac5d7f87ae&chksm=bd48f9428a3f7054bea9d6ce43424948da753ad66f5e9210bb42370844ff18e43e808aad7a9f#rd)  
 - [2023-11-12-【第3109期】微盟小程序-UI-自动化截图对比实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267263&idx=1&sn=935678fb37ae62a6aba82fd6c666d52c&chksm=bd48f93b8a3f702d2f900626cd076ed33718630b1b03a5ca675eb0403dc0084157928b1399ec#rd)  
 - [2023-11-11-【第3108期】Bundler-的设计取舍：为什么要开发-Rspack?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267259&idx=1&sn=ea02671a769f9c138f6addc50df7d3cb&chksm=bd48f93f8a3f7029e73478e35a0b87399d0f52885a8e5abb5cfd6ad718f95ec01860be332b82#rd)  
 - [2023-11-10-【第3107期】古茗打印机技术的演进](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267217&idx=1&sn=d6e6b4d02407e393f01dce1fb85574f4&chksm=bd48f9158a3f7003279501184ec9ef2eceb2b6935b14c64da2ee319656bfc3da3328527f8584#rd)  
-- [2023-11-09-【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)  
 - [2023-11-09-【第3106期】新一代前端发展的困境与破局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=1&sn=8fb5e4b7e6e64bc72aafddc451b258e7&chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd)  
-- [2023-11-08-【第3105期】OMI-响应式WebComponents和OmiElements来袭](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=1&sn=f68253681298b5391c0474ad12d2d863&chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd)  
+- [2023-11-09-【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)  
 - [2023-11-08-【早说】笔记摘抄方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=2&sn=6ddec9c7d7f2ca1f092effb3dd020de3&chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd)  
-- [2023-11-07-【早说】做笔记的目的:快速重新找到未来可能用到的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=2&sn=e938fac7b541c85d72fd3a15eb347146&chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd)  
+- [2023-11-08-【第3105期】OMI-响应式WebComponents和OmiElements来袭](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=1&sn=f68253681298b5391c0474ad12d2d863&chksm=bd48f9d48a3f70c259ad982b6be659e85d6b14bc096aab73772a5057e68e5fab7ea2f0d58f41#rd)  
 - [2023-11-07-【第3104期】前端埋点质量量化与优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=1&sn=ce1dc5bd28d946ba83a94c88365da5fe&chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd)  
-- [2023-11-06-【第3103期】转转Hybrid体系建设-客户端视角](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267110&idx=1&sn=548dcf9e7452e7b60df79dfd9e8ee6ca&chksm=bd48f9a28a3f70b4dd6d37a274e4512a2ffb68ce07f766b92a64ca7a8524d5be6f7cb928e2a0#rd)  
+- [2023-11-07-【早说】做笔记的目的:快速重新找到未来可能用到的知识](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=2&sn=e938fac7b541c85d72fd3a15eb347146&chksm=bd48f9b68a3f70a04be6c253d6e54741297548f157bfff41d68f93128677719e7ae1b5efc683#rd)  
 - [2023-11-06-【招聘】北京马上消费金融（安逸花）招资深前端工程师/架构师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267110&idx=2&sn=4a17890c6e707800d17cae8525c95467&chksm=bd48f9a28a3f70b4e868c52cf63c7f7268da64e0b1f03282a4030d560d0ac8a5d728cac84f28#rd)  
-- [2023-11-05-【第3102期】一个npm包的自述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267105&idx=1&sn=1e31ba061dc39d20c420636b896f60ff&chksm=bd48f9a58a3f70b3076ead016a6c08d72a993cf4e815eb5669e57015c5f8fe1ac2324e050088#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -136,7 +136,7 @@
 
 
 - [2023-11-17-阿里面试官：你让我见识到了前端基础的天花板！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617558&idx=1&sn=ccd81c0068b4b2acde1207fa10645af6&chksm=8022aed7b75527c14c1f6cec583d7b7439265a94af7b764b743e6be39ce4f0691f9c502c70b5#rd)  
-- [2023-11-17-53道常见NodeJS基础面试题（附答案）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617558&idx=2&sn=f02bbbff2038ca3098d7888145dd8ba6&chksm=8022aed7b75527c192fa452db54606fb4ca8167c8a1a030405eab0738c55d381ba091d6c1434#rd) ![](/assets/new.png)  
+- [2023-11-17-53道常见NodeJS基础面试题（附答案）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617558&idx=2&sn=f02bbbff2038ca3098d7888145dd8ba6&chksm=8022aed7b75527c192fa452db54606fb4ca8167c8a1a030405eab0738c55d381ba091d6c1434#rd)  
 - [2023-11-16-想成为优秀前端，你需要知道这些！（基本素养、代码规范、开发技巧）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=1&sn=04212b337306cf540db4fbd65af88407&chksm=8022aed1b75527c7552adaf1f60e76331785fccd4744d662609cd3f7798ba48c54ac8c035f49#rd)  
 - [2023-11-16-99%的时间里只使用这-14-个-Git-命令就够了！！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=2&sn=73cfcd5356552e7d311959953337de2f&chksm=8022aed1b75527c7b3ec572ad4c7822d555bb7ae55e97123a3e7fee96084e249daf23a0bc544#rd)  
 - [2023-11-15-你真的懂HTTP缓存吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617548&idx=2&sn=63a7f0770ba2818a40696ebc95278d8b&chksm=8022aecdb75527dbeaa3a2ca43128de795f79b461a0f559cf400e81726a2f4ab8d65a643b472#rd)  
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-11-17-AIGC在前端Web开发中的应用：响应式设计和Tailwind配置的完美搭档](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522943&idx=1&sn=f19932af004df166b53cb32ecf880cab&chksm=f9522f3cce25a62afb5d7df97dd716151b299e6110ba43f2c3a6b7675c4b9219f555196c682b#rd) ![](/assets/new.png)  
+- [2023-11-17-AIGC在前端Web开发中的应用：响应式设计和Tailwind配置的完美搭档](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522943&idx=1&sn=f19932af004df166b53cb32ecf880cab&chksm=f9522f3cce25a62afb5d7df97dd716151b299e6110ba43f2c3a6b7675c4b9219f555196c682b#rd)  
 - [2023-11-15-Angular-v17亮点解读：全新功能提升开发者体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522907&idx=1&sn=0a830826240b10d1aca00dd19aa3d684&chksm=f9522f18ce25a60e5c54301a967bbf0f57bb3dd308d3a5ac58f3dfd644bdc0bcc1fa60a23b99#rd)  
 - [2023-11-13-JavaScript全栈解决方案比较：Angular、React、Vue.js的对比](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522815&idx=1&sn=c9deab05e436924ee574cacb064af66a&chksm=f9522cbcce25a5aaf9944f400a802dc2b44852d4ab23647bec35ecb2148689b06e94a21e59b9#rd)  
 - [2023-11-10-JetBrains发布了Kotlin-Multiplatform的首个稳定版本](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522812&idx=1&sn=723051216286a91044b2c8bcba9cc0ed&chksm=f9522cbfce25a5a9cbed093c95f628bb9f0e772f5934798769266cf0280bf8314fa2ba1fc613#rd)  
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-11-17-面试官：跨页面通信的方式有哪些？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517619&idx=1&sn=4d3b6a18a64fdc91f8a7c7b4b33ff4d0&chksm=f9928362cee50a744cc90ef4352d1a909e53846cff12fdb1226d771280b31bfbcdc3ba52cdb2#rd) ![](/assets/new.png)  
-- [2023-11-17-Web版Photoshop来了，用到了哪些前端技术？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517619&idx=2&sn=8a00ecb13f10563d6ce966a02ccf1212&chksm=f9928362cee50a74ef35a0216eb2fcb8016fd14b472146087a669546461acae01ccf0358278e#rd) ![](/assets/new.png)  
+- [2023-11-17-面试官：跨页面通信的方式有哪些？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517619&idx=1&sn=4d3b6a18a64fdc91f8a7c7b4b33ff4d0&chksm=f9928362cee50a744cc90ef4352d1a909e53846cff12fdb1226d771280b31bfbcdc3ba52cdb2#rd)  
+- [2023-11-17-Web版Photoshop来了，用到了哪些前端技术？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517619&idx=2&sn=8a00ecb13f10563d6ce966a02ccf1212&chksm=f9928362cee50a74ef35a0216eb2fcb8016fd14b472146087a669546461acae01ccf0358278e#rd)  
 - [2023-11-16-精读《维护好一个复杂项目》](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=2&sn=cd8828513b8f159810530ab6472fbb89&chksm=f992838ccee50a9ac05f00eebae1df9f042cb83ad6776bb833eafcf8c8ba1dfa7106ed687654#rd)  
 - [2023-11-16-git-面试字节时，老师问：合并分支中rebase和merge的区别](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517533&idx=1&sn=a4486a878f99eebb54a7d0bef0ea93f8&chksm=f992838ccee50a9a641e398e3d3f2173e4f0510b8f35c2deb01e037803981e1ad47d8fdfe3e9#rd)  
 - [2023-11-15-前端调取摄像头并实现拍照功能](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517527&idx=1&sn=1273f59e154cd11a7ecd2277af2c4c8f&chksm=f9928386cee50a908db3fdb5fdc431e5eb9dc49685170e61d24e52e7870e92a374d41e6e2736#rd)  
@@ -569,7 +569,7 @@
 </summary>
 
 
-- [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html) ![](/assets/new.png)  
+- [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html)  
 - [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html)  
 - [2023-11-04-ssh-rsa-问题：No-matching-host-key-type-found.](http://www.yyyweb.com/5548.html)  
 - [2023-10-15-抓包神器-Charles-的安装、配置及使用](http://www.yyyweb.com/5546.html)  
