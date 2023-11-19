@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-19 12:01:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-20 06:08:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-11-19-【第3116期】React-新文档中的九个最佳建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=1&sn=4b1f80efb37419092e761d5daf50d8c5&chksm=bd48f8f18a3f71e7bc77e5c89a24f79b8c4bc91c77a11831a2e3d4b0b7bcad5c263a1d4a9781#rd) ![](/assets/new.png)  
-- [2023-11-19-【图书】程序员超强大脑](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=2&sn=6bfa4ee794374e44a9fc990c8aa1f864&chksm=bd48f8f18a3f71e76769cbe90123f5d12899fb3c688b6424f1f6178e5e6514369c4072154391#rd) ![](/assets/new.png)  
+- [2023-11-19-【第3116期】React-新文档中的九个最佳建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=1&sn=4b1f80efb37419092e761d5daf50d8c5&chksm=bd48f8f18a3f71e7bc77e5c89a24f79b8c4bc91c77a11831a2e3d4b0b7bcad5c263a1d4a9781#rd)  
+- [2023-11-19-【图书】程序员超强大脑](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=2&sn=6bfa4ee794374e44a9fc990c8aa1f864&chksm=bd48f8f18a3f71e76769cbe90123f5d12899fb3c688b6424f1f6178e5e6514369c4072154391#rd)  
 - [2023-11-18-【早说】PPT的案例编写与良好水平的特点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=2&sn=2b5009f86e7bde480f8962c7f654a8b0&chksm=bd48f8ea8a3f71fccebdc7bba49e3e279f739dd097c5dac654a3809d2e2b834f1a64d32ac5a9#rd)  
 - [2023-11-18-【第3115期】基于数据驱动的前端研发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=1&sn=bded6972886a1dd7722fa2ab757d78b3&chksm=bd48f8ea8a3f71fcd3862aba391ff81b9fd2ae35cc0c1d4216e3a46f4029a52b8ea348216083#rd)  
 - [2023-11-17-【第3114期】BI-数据可视化平台建设：交叉表组件演变实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267427&idx=1&sn=134222bed01a15b7825f799529f7461d&chksm=bd48f8e78a3f71f15c5123765fbe575cdd9ec35a22b6b550e1cd93ee256a935b1f9f2fbbd442#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/) ![](/assets/new.png)  
 - [2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/)  
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)  
 - [2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/)  
@@ -526,7 +527,6 @@
 - [2023-06-18-我使用CSS模拟个假的数字loading效果](https://www.zhangxinxu.com/wordpress/2023/06/css-text-number-loading/)  
 - [2023-06-05-使用纯CSS实现噪点效果](https://www.zhangxinxu.com/wordpress/2023/06/css-noise/)  
 - [2023-06-04-使用jsPDF导出PDF文件实践分享](https://www.zhangxinxu.com/wordpress/2023/06/js-canvas-jspdf-export-pdf/)  
-- [2023-05-31-CSS-margin-trim属性是做什么用的？](https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

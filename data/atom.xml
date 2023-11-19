@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-19T04:01:21.439Z</updated>
+    <updated>2023-11-19T22:08:28.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[剪映APP的视频特效如何在Web中JS实现]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/"/>
+        <updated>2023-11-18T16:00:00.000Z</updated>
+        <published>2023-11-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【图书】程序员超强大脑]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267445&amp;idx=2&amp;sn=6bfa4ee794374e44a9fc990c8aa1f864&amp;chksm=bd48f8f18a3f71e76769cbe90123f5d12899fb3c688b6424f1f6178e5e6514369c4072154391#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[古茗前端打印机技术的演进]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517303&amp;idx=1&amp;sn=2aa377e56d446178bf6174117b6acb3b&amp;chksm=f99282a6cee50bb0ae8683fb2a533ab423fa9cb42c0fb5c8db7e19228a00e8cf5f192574330c#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517303&amp;idx=1&amp;sn=2aa377e56d446178bf6174117b6acb3b&amp;chksm=f99282a6cee50bb0ae8683fb2a533ab423fa9cb42c0fb5c8db7e19228a00e8cf5f192574330c#rd"/>
-        <updated>2023-11-11T16:00:00.000Z</updated>
-        <published>2023-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码是上午写的，人是下午被开除的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617524&amp;idx=1&amp;sn=a1a7d90b8d5d89c70a847017d87cd9d5&amp;chksm=8022af35b755262348b5d0fd5a0566894f368e422784ae06a0592a83c4b08b070526ae467dde#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617524&amp;idx=1&amp;sn=a1a7d90b8d5d89c70a847017d87cd9d5&amp;chksm=8022af35b755262348b5d0fd5a0566894f368e422784ae06a0592a83c4b08b070526ae467dde#rd"/>
         <updated>2023-11-11T16:00:00.000Z</updated>
         <published>2023-11-11T16:00:00.000Z</published>
     </entry>
