@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-19T22:08:28.215Z</updated>
+    <updated>2023-11-20T04:00:46.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[快速了解 CSS @starting-style 规则]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488558&amp;idx=1&amp;sn=2632480a9d3efcc54f6d2091f3848801&amp;chksm=97c677e1a0b1fef7a107f45a8c6681211661440bb0a8de811e85991d01f78cf10b3008d0bcf5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488558&amp;idx=1&amp;sn=2632480a9d3efcc54f6d2091f3848801&amp;chksm=97c677e1a0b1fef7a107f45a8c6681211661440bb0a8de811e85991d01f78cf10b3008d0bcf5#rd"/>
+        <updated>2023-11-19T16:00:00.000Z</updated>
+        <published>2023-11-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剪映APP的视频特效如何在Web中JS实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一次前端性能优化——性能得分从56到96]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517303&amp;idx=2&amp;sn=982bea3f0b74270a2f8549095095b0f4&amp;chksm=f99282a6cee50bb0f519f74f7acde0c2349b8b773b19909cf02a0d0b254cf88cb768c351554a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517303&amp;idx=2&amp;sn=982bea3f0b74270a2f8549095095b0f4&amp;chksm=f99282a6cee50bb0f519f74f7acde0c2349b8b773b19909cf02a0d0b254cf88cb768c351554a#rd"/>
-        <updated>2023-11-11T16:00:00.000Z</updated>
-        <published>2023-11-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古茗前端打印机技术的演进]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517303&amp;idx=1&amp;sn=2aa377e56d446178bf6174117b6acb3b&amp;chksm=f99282a6cee50bb0ae8683fb2a533ab423fa9cb42c0fb5c8db7e19228a00e8cf5f192574330c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517303&amp;idx=1&amp;sn=2aa377e56d446178bf6174117b6acb3b&amp;chksm=f99282a6cee50bb0ae8683fb2a533ab423fa9cb42c0fb5c8db7e19228a00e8cf5f192574330c#rd"/>
         <updated>2023-11-11T16:00:00.000Z</updated>
         <published>2023-11-11T16:00:00.000Z</published>
     </entry>
