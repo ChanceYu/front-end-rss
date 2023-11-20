@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-20T10:00:43.895Z</updated>
+    <updated>2023-11-20T13:00:55.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[前端组长应该如何管理前端团队]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517717&amp;idx=1&amp;sn=d6fa327f7d4dcbbedb25b8a33da59bc7&amp;chksm=f99280c4cee509d21c395ffa37f3c78599765114cabe55bae7fb67e60c4a8ff223e6f8f03fba#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517717&amp;idx=1&amp;sn=d6fa327f7d4dcbbedb25b8a33da59bc7&amp;chksm=f99280c4cee509d21c395ffa37f3c78599765114cabe55bae7fb67e60c4a8ff223e6f8f03fba#rd"/>
+        <updated>2023-11-19T16:00:00.000Z</updated>
+        <published>2023-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端面试通关宝典：解析44道React测试题（上）]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522973&amp;idx=1&amp;sn=e062ff0072dabf146bf66de44cdb78bb&amp;chksm=f9522fdece25a6c81da0f2218410ef5fa7368b2d1ad481eb758788341a1a035eed1f6d9271f0#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522973&amp;idx=1&amp;sn=e062ff0072dabf146bf66de44cdb78bb&amp;chksm=f9522fdece25a6c81da0f2218410ef5fa7368b2d1ad481eb758788341a1a035eed1f6d9271f0#rd"/>
         <updated>2023-11-19T16:00:00.000Z</updated>
         <published>2023-11-19T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【附源码】数字孪生 系统中常用 Three.js 效果的实现原理！！！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517309&amp;idx=2&amp;sn=c703e4f49edb3ab21cb2c7cc30eac535&amp;chksm=f99282accee50bba857aa72b269b967c30fbc2271b06fd71608f4844f343c73e291fea8a9215#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517309&amp;idx=2&amp;sn=c703e4f49edb3ab21cb2c7cc30eac535&amp;chksm=f99282accee50bba857aa72b269b967c30fbc2271b06fd71608f4844f343c73e291fea8a9215#rd"/>
-        <updated>2023-11-12T16:00:00.000Z</updated>
-        <published>2023-11-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript全栈解决方案比较：Angular、React、Vue.js的对比]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522815&amp;idx=1&amp;sn=c9deab05e436924ee574cacb064af66a&amp;chksm=f9522cbcce25a5aaf9944f400a802dc2b44852d4ab23647bec35ecb2148689b06e94a21e59b9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522815&amp;idx=1&amp;sn=c9deab05e436924ee574cacb064af66a&amp;chksm=f9522cbcce25a5aaf9944f400a802dc2b44852d4ab23647bec35ecb2148689b06e94a21e59b9#rd"/>
         <updated>2023-11-12T16:00:00.000Z</updated>
         <published>2023-11-12T16:00:00.000Z</published>
     </entry>
