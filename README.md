@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-20 23:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-21 10:00:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2023-11-20-【第3117期】BI-数据可视化平台建设：筛选器组件升级实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267449&idx=1&sn=ae3b171ee1a74e38d632f0123caeb7e3&chksm=bd48f8fd8a3f71ebee2d6ab2ddaa00a0f2d885d67dfffa9b02daea23e98671b4e6119f05c691#rd)  
+- [2023-11-21-【第3118期】原生“跨组件”通信方式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267456&idx=1&sn=bee55552133614ec7a3497746c52ae37&chksm=bd48f8048a3f7112070e9fe174607763596bae21604cd2c01c5226230f1a65d58c3233f92b2d#rd) ![](/assets/new.png)  
+- [2023-11-21-【招聘】抖音生活服务招高级/资深前端研发工程师、校招、日常实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267456&idx=2&sn=615f012441792739156e1101338ee9c6&chksm=bd48f8048a3f7112d454384fa59c7a65092e57f57ed9e0e1129a965ccf02508b1cd4a279f947#rd) ![](/assets/new.png)  
 - [2023-11-20-【招聘】字节跳动云计算部门招高级/资深前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267449&idx=2&sn=5f8e26d47ba5f808ec3cfb9d4202455f&chksm=bd48f8fd8a3f71eb303aef98deb17cbe8e2124b113d83cc53c908e7742148a9b7fa13fb895f8#rd)  
-- [2023-11-19-【图书】程序员超强大脑](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=2&sn=6bfa4ee794374e44a9fc990c8aa1f864&chksm=bd48f8f18a3f71e76769cbe90123f5d12899fb3c688b6424f1f6178e5e6514369c4072154391#rd)  
+- [2023-11-20-【第3117期】BI-数据可视化平台建设：筛选器组件升级实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267449&idx=1&sn=ae3b171ee1a74e38d632f0123caeb7e3&chksm=bd48f8fd8a3f71ebee2d6ab2ddaa00a0f2d885d67dfffa9b02daea23e98671b4e6119f05c691#rd)  
 - [2023-11-19-【第3116期】React-新文档中的九个最佳建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=1&sn=4b1f80efb37419092e761d5daf50d8c5&chksm=bd48f8f18a3f71e7bc77e5c89a24f79b8c4bc91c77a11831a2e3d4b0b7bcad5c263a1d4a9781#rd)  
-- [2023-11-18-【第3115期】基于数据驱动的前端研发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=1&sn=bded6972886a1dd7722fa2ab757d78b3&chksm=bd48f8ea8a3f71fcd3862aba391ff81b9fd2ae35cc0c1d4216e3a46f4029a52b8ea348216083#rd)  
+- [2023-11-19-【图书】程序员超强大脑](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267445&idx=2&sn=6bfa4ee794374e44a9fc990c8aa1f864&chksm=bd48f8f18a3f71e76769cbe90123f5d12899fb3c688b6424f1f6178e5e6514369c4072154391#rd)  
 - [2023-11-18-【早说】PPT的案例编写与良好水平的特点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=2&sn=2b5009f86e7bde480f8962c7f654a8b0&chksm=bd48f8ea8a3f71fccebdc7bba49e3e279f739dd097c5dac654a3809d2e2b834f1a64d32ac5a9#rd)  
+- [2023-11-18-【第3115期】基于数据驱动的前端研发模式](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267438&idx=1&sn=bded6972886a1dd7722fa2ab757d78b3&chksm=bd48f8ea8a3f71fcd3862aba391ff81b9fd2ae35cc0c1d4216e3a46f4029a52b8ea348216083#rd)  
 - [2023-11-17-【第3114期】BI-数据可视化平台建设：交叉表组件演变实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267427&idx=1&sn=134222bed01a15b7825f799529f7461d&chksm=bd48f8e78a3f71f15c5123765fbe575cdd9ec35a22b6b550e1cd93ee256a935b1f9f2fbbd442#rd)  
-- [2023-11-16-【第3113期】一文搞懂得物前端监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=1&sn=4fc26152f3438612e7055ba2fabccf5c&chksm=bd48f8898a3f719f6bf57ce455fd70c62f1d00f83f57b2a6ada0d16e9f3eee255c79695afb49#rd)  
 - [2023-11-16-【招聘】字节飞书人事招高级/资深前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=2&sn=e501703d0de491af942c4dd27a934663&chksm=bd48f8898a3f719f52c02e6243706027c57738c5537f13cd12b48f7907562b741df894c4a4a4#rd)  
-- [2023-11-15-【第3112期】携程后台低代码平台的探究与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=1&sn=abc63803663f881e1c4c1d6763bd18bc&chksm=bd48f97f8a3f70690e3cf44b7d9ecdabcf4572e23a3b6ba2c4c5ab885e989cd7c14ac260742e#rd)  
+- [2023-11-16-【第3113期】一文搞懂得物前端监控](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=1&sn=4fc26152f3438612e7055ba2fabccf5c&chksm=bd48f8898a3f719f6bf57ce455fd70c62f1d00f83f57b2a6ada0d16e9f3eee255c79695afb49#rd)  
 - [2023-11-15-【招聘】天翼云科技有限公司招高级前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=2&sn=5f34566d6d4665935dc040947e970e78&chksm=bd48f97f8a3f7069ee1fa034fdbc3992872fca0c7d676b6a60fbfea950a73d2c9a6b50d0e314#rd)  
-- [2023-11-14-【招聘】杭州星喆科技招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=2&sn=8819da834a21e82799c854e93a135f8e&chksm=bd48f9738a3f70651a44938c94596f233f507df1d14cb9404a2194fa34cb74c291a1b360f648#rd)  
+- [2023-11-15-【第3112期】携程后台低代码平台的探究与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=1&sn=abc63803663f881e1c4c1d6763bd18bc&chksm=bd48f97f8a3f70690e3cf44b7d9ecdabcf4572e23a3b6ba2c4c5ab885e989cd7c14ac260742e#rd)  
 - [2023-11-14-【第3111期】如何优雅的控制网页请求的优先级？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=1&sn=eadbd36f91aec135f458936efdd0ac6e&chksm=bd48f9738a3f7065107c7a89bd729726acd9bf350dcd9357ec58552b6554846dd52a286be801#rd)  
+- [2023-11-14-【招聘】杭州星喆科技招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=2&sn=8819da834a21e82799c854e93a135f8e&chksm=bd48f9738a3f70651a44938c94596f233f507df1d14cb9404a2194fa34cb74c291a1b360f648#rd)  
 - [2023-11-13-【第3110期】快速了解CSS-相对颜色](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=1&sn=75f59e15741537f44599bbac5d7f87ae&chksm=bd48f9428a3f7054bea9d6ce43424948da753ad66f5e9210bb42370844ff18e43e808aad7a9f#rd)  
 - [2023-11-12-【第3109期】微盟小程序-UI-自动化截图对比实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267263&idx=1&sn=935678fb37ae62a6aba82fd6c666d52c&chksm=bd48f93b8a3f702d2f900626cd076ed33718630b1b03a5ca675eb0403dc0084157928b1399ec#rd)  
 - [2023-11-11-【第3108期】Bundler-的设计取舍：为什么要开发-Rspack?](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267259&idx=1&sn=ea02671a769f9c138f6addc50df7d3cb&chksm=bd48f93f8a3f7029e73478e35a0b87399d0f52885a8e5abb5cfd6ad718f95ec01860be332b82#rd)  
 - [2023-11-10-【第3107期】古茗打印机技术的演进](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267217&idx=1&sn=d6e6b4d02407e393f01dce1fb85574f4&chksm=bd48f9158a3f7003279501184ec9ef2eceb2b6935b14c64da2ee319656bfc3da3328527f8584#rd)  
-- [2023-11-09-【第3106期】新一代前端发展的困境与破局](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=1&sn=8fb5e4b7e6e64bc72aafddc451b258e7&chksm=bd48f9f78a3f70e1034692a1f874c59ac8b21cee798ebba9100f7707261b93bd4952a9a2d8cb#rd)  
 - [2023-11-09-【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)  
-- [2023-11-08-【早说】笔记摘抄方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267152&idx=2&sn=6ddec9c7d7f2ca1f092effb3dd020de3&chksm=bd48f9d48a3f70c26be49c9542fc0d9c3365f6cd8fd50a37db7f03e4a95962c1abe9215105d2#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -136,7 +136,7 @@
 
 
 - [2023-11-20-这篇手写-Promise-你一定要康康](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617563&idx=2&sn=a54ccf1510bf83141e7c2537e79a376f&chksm=8022aedab75527cc7db3a178e8a46ad82f1342a4a196af772ae25868c6e53b64ef2de334fbc7#rd)  
-- [2023-11-20-27岁的前端，从二本run到澳洲🦘的故事分享](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617563&idx=1&sn=07c7c7c12920121285b57b1fab24b25e&chksm=8022aedab75527ccd9fc0a0a0df97944291ae54fef296e7b181ad6fe52ec966b987d3c73a436#rd) ![](/assets/new.png)  
+- [2023-11-20-27岁的前端，从二本run到澳洲🦘的故事分享](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617563&idx=1&sn=07c7c7c12920121285b57b1fab24b25e&chksm=8022aedab75527ccd9fc0a0a0df97944291ae54fef296e7b181ad6fe52ec966b987d3c73a436#rd)  
 - [2023-11-17-阿里面试官：你让我见识到了前端基础的天花板！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617558&idx=1&sn=ccd81c0068b4b2acde1207fa10645af6&chksm=8022aed7b75527c14c1f6cec583d7b7439265a94af7b764b743e6be39ce4f0691f9c502c70b5#rd)  
 - [2023-11-17-53道常见NodeJS基础面试题（附答案）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617558&idx=2&sn=f02bbbff2038ca3098d7888145dd8ba6&chksm=8022aed7b75527c192fa452db54606fb4ca8167c8a1a030405eab0738c55d381ba091d6c1434#rd)  
 - [2023-11-16-想成为优秀前端，你需要知道这些！（基本素养、代码规范、开发技巧）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617552&idx=1&sn=04212b337306cf540db4fbd65af88407&chksm=8022aed1b75527c7552adaf1f60e76331785fccd4744d662609cd3f7798ba48c54ac8c035f49#rd)  
