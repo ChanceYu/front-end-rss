@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-21T15:01:20.296Z</updated>
+    <updated>2023-11-21T22:00:42.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/"/>
+        <updated>2023-11-21T16:00:00.000Z</updated>
+        <published>2023-11-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[双向绑定与单向数据流之争，Solid会取代React吗]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514474&amp;idx=1&amp;sn=35c7713ce5caa587b2e52437ff7ba971&amp;chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[这回，再也不用为前端工作发愁了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514461&amp;idx=1&amp;sn=899d8073269d6fbbfef867d093b928c0&amp;chksm=eb078124dc700832b85a81b77104eb9b92440c4ce84dcb0989b1036054ee25667e16956f4e17#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514461&amp;idx=1&amp;sn=899d8073269d6fbbfef867d093b928c0&amp;chksm=eb078124dc700832b85a81b77104eb9b92440c4ce84dcb0989b1036054ee25667e16956f4e17#rd"/>
-        <updated>2023-11-13T16:00:00.000Z</updated>
-        <published>2023-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端实现微信扫一扫的思路]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=1&amp;sn=58aeaa33301017107cfeace78d947779&amp;chksm=f99283d0cee50ac6ee791c7428a847972e904f466a1510e3f2fd15b94dd7306d2588da697f52#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=1&amp;sn=58aeaa33301017107cfeace78d947779&amp;chksm=f99283d0cee50ac6ee791c7428a847972e904f466a1510e3f2fd15b94dd7306d2588da697f52#rd"/>
         <updated>2023-11-13T16:00:00.000Z</updated>
         <published>2023-11-13T16:00:00.000Z</published>
     </entry>
