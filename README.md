@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-21 18:00:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-21 23:01:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511) ![](/assets/new.png)  
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
@@ -61,7 +62,6 @@
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)  
 - [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)  
 - [2023-06-27-Why-Node-permissions-are-experimental-for-now](https://nodeweekly.com/issues/492)  
-- [2023-06-20-Getting-under-Node's-skin](https://nodeweekly.com/issues/491)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -136,7 +136,7 @@
 
 
 - [2023-11-21-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617573&idx=1&sn=2c3313d25bdd10d4209f546caedba941&chksm=8022aee4b75527f236a4473c41a3406d6368e43d845765406a3ffc34fd45ba3e6f44aecf820a#rd)  
-- [2023-11-21-前端程序员是怎么做物联网开发的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617573&idx=2&sn=6edec9393c8413d21fa9192f67ace953&chksm=8022aee4b75527f28ffefb8b105cbf89206453c4d6de329b95abc7d037403a6df3153a1b6cc1#rd) ![](/assets/new.png)  
+- [2023-11-21-前端程序员是怎么做物联网开发的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617573&idx=2&sn=6edec9393c8413d21fa9192f67ace953&chksm=8022aee4b75527f28ffefb8b105cbf89206453c4d6de329b95abc7d037403a6df3153a1b6cc1#rd)  
 - [2023-11-20-这篇手写-Promise-你一定要康康](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617563&idx=2&sn=a54ccf1510bf83141e7c2537e79a376f&chksm=8022aedab75527cc7db3a178e8a46ad82f1342a4a196af772ae25868c6e53b64ef2de334fbc7#rd)  
 - [2023-11-20-27岁的前端，从二本run到澳洲🦘的故事分享](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617563&idx=1&sn=07c7c7c12920121285b57b1fab24b25e&chksm=8022aedab75527ccd9fc0a0a0df97944291ae54fef296e7b181ad6fe52ec966b987d3c73a436#rd)  
 - [2023-11-17-阿里面试官：你让我见识到了前端基础的天花板！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617558&idx=1&sn=ccd81c0068b4b2acde1207fa10645af6&chksm=8022aed7b75527c14c1f6cec583d7b7439265a94af7b764b743e6be39ce4f0691f9c502c70b5#rd)  

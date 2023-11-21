@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-21T10:00:51.109Z</updated>
+    <updated>2023-11-21T15:01:20.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[【第3118期】原生“跨组件”通信方式]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267456&amp;idx=1&amp;sn=bee55552133614ec7a3497746c52ae37&amp;chksm=bd48f8048a3f7112070e9fe174607763596bae21604cd2c01c5226230f1a65d58c3233f92b2d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267456&amp;idx=1&amp;sn=bee55552133614ec7a3497746c52ae37&amp;chksm=bd48f8048a3f7112070e9fe174607763596bae21604cd2c01c5226230f1a65d58c3233f92b2d#rd"/>
+        <updated>2023-11-20T16:00:00.000Z</updated>
+        <published>2023-11-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Lambda gets a Node 20 LTS runtime]]></title>
+        <id>https://nodeweekly.com/issues/511</id>
+        <link href="https://nodeweekly.com/issues/511"/>
         <updated>2023-11-20T16:00:00.000Z</updated>
         <published>2023-11-20T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端实现微信扫一扫的思路]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=1&amp;sn=58aeaa33301017107cfeace78d947779&amp;chksm=f99283d0cee50ac6ee791c7428a847972e904f466a1510e3f2fd15b94dd7306d2588da697f52#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=1&amp;sn=58aeaa33301017107cfeace78d947779&amp;chksm=f99283d0cee50ac6ee791c7428a847972e904f466a1510e3f2fd15b94dd7306d2588da697f52#rd"/>
-        <updated>2023-11-13T16:00:00.000Z</updated>
-        <published>2023-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道 XHR 和 Fetch 的区别吗？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=2&amp;sn=74f964e1d985ac7707e69b27c0e2e876&amp;chksm=f99283d0cee50ac66bdf35730ec707649cd1b2057ac2b44cf55b56beea68572e845ba7c91775#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517441&amp;idx=2&amp;sn=74f964e1d985ac7707e69b27c0e2e876&amp;chksm=f99283d0cee50ac66bdf35730ec707649cd1b2057ac2b44cf55b56beea68572e845ba7c91775#rd"/>
         <updated>2023-11-13T16:00:00.000Z</updated>
         <published>2023-11-13T16:00:00.000Z</published>
     </entry>
