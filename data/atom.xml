@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-21T04:00:58.932Z</updated>
+    <updated>2023-11-21T07:00:50.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[双向绑定与单向数据流之争，Solid会取代React吗]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514474&amp;idx=1&amp;sn=35c7713ce5caa587b2e52437ff7ba971&amp;chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514474&amp;idx=1&amp;sn=35c7713ce5caa587b2e52437ff7ba971&amp;chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd"/>
+        <updated>2023-11-20T16:00:00.000Z</updated>
+        <published>2023-11-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[看看这些年 HTTP 算法的进化]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=2&amp;sn=61763f6457463730d7bbe30767137186&amp;chksm=f99280cfcee509d9c3113cb8767f5cd074d6621250ba2b9386f260a2437ee87f897271764afd#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[不要再滥用可选链运算符(?.)啦！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617544&amp;idx=1&amp;sn=2d1c9149820f9772b1f9ce8bcb38e9dd&amp;chksm=8022aec9b75527dfdd23efb8b1cc2b9aa540bbeca7f2fd5795cf631803140f3d6d0ba9005e6e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617544&amp;idx=1&amp;sn=2d1c9149820f9772b1f9ce8bcb38e9dd&amp;chksm=8022aec9b75527dfdd23efb8b1cc2b9aa540bbeca7f2fd5795cf631803140f3d6d0ba9005e6e#rd"/>
-        <updated>2023-11-13T16:00:00.000Z</updated>
-        <published>2023-11-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学会这几个常用功能，给你的 vue3 项目加点餐！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617544&amp;idx=2&amp;sn=a900dc9f0fe52c7c060a87450373391d&amp;chksm=8022aec9b75527df1a82ec1f3013fd2f0bd8f4b41b6ba0a7921c9a0decaeb39060c62457b9d3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617544&amp;idx=2&amp;sn=a900dc9f0fe52c7c060a87450373391d&amp;chksm=8022aec9b75527df1a82ec1f3013fd2f0bd8f4b41b6ba0a7921c9a0decaeb39060c62457b9d3#rd"/>
         <updated>2023-11-13T16:00:00.000Z</updated>
         <published>2023-11-13T16:00:00.000Z</published>
     </entry>
