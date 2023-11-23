@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-23T07:00:47.059Z</updated>
+    <updated>2023-11-23T22:00:46.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[【第3120期】低代码在云音乐数据业务中的落地实践与思考]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267492&amp;idx=1&amp;sn=cb18fe37616bc371518083557313e68d&amp;chksm=bd48f8208a3f7136a0b157386ca174103b66f049b1fbe0612f7d3aabe5c90deb2adb211f9813#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267492&amp;idx=1&amp;sn=cb18fe37616bc371518083557313e68d&amp;chksm=bd48f8208a3f7136a0b157386ca174103b66f049b1fbe0612f7d3aabe5c90deb2adb211f9813#rd"/>
+        <updated>2023-11-22T16:00:00.000Z</updated>
+        <published>2023-11-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The unbearable weight of massive JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/664</id>
+        <link href="https://javascriptweekly.com/issues/664"/>
         <updated>2023-11-22T16:00:00.000Z</updated>
         <published>2023-11-22T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[精读《维护好一个复杂项目》]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517533&amp;idx=2&amp;sn=cd8828513b8f159810530ab6472fbb89&amp;chksm=f992838ccee50a9ac05f00eebae1df9f042cb83ad6776bb833eafcf8c8ba1dfa7106ed687654#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517533&amp;idx=2&amp;sn=cd8828513b8f159810530ab6472fbb89&amp;chksm=f992838ccee50a9ac05f00eebae1df9f042cb83ad6776bb833eafcf8c8ba1dfa7106ed687654#rd"/>
-        <updated>2023-11-15T16:00:00.000Z</updated>
-        <published>2023-11-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[99%的时间里只使用这 14 个 Git 命令就够了！！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617552&amp;idx=2&amp;sn=73cfcd5356552e7d311959953337de2f&amp;chksm=8022aed1b75527c7b3ec572ad4c7822d555bb7ae55e97123a3e7fee96084e249daf23a0bc544#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617552&amp;idx=2&amp;sn=73cfcd5356552e7d311959953337de2f&amp;chksm=8022aed1b75527c7b3ec572ad4c7822d555bb7ae55e97123a3e7fee96084e249daf23a0bc544#rd"/>
         <updated>2023-11-15T16:00:00.000Z</updated>
         <published>2023-11-15T16:00:00.000Z</published>
     </entry>

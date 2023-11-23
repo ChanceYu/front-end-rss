@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2023-11-23 15:00:46。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2023-11-24 06:00:45。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)
 - [【JavaScript-Weekly】Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)
 - [【JavaScript-Weekly】Web-Components-forever?](https://javascriptweekly.com/issues/660)
 - [【JavaScript-Weekly】Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Did-you-know-JavaScript-is-trademarked?](https://javascriptweekly.com/issues/636)
 - [【JavaScript-Weekly】The-return-of-ECMAScript-2023-and-Angular](https://javascriptweekly.com/issues/634)
 - [【JavaScript-Weekly】JavaScript-on-your-schedule](https://javascriptweekly.com/issues/633)
-- [【JavaScript-Weekly】Import-maps-go-universal](https://javascriptweekly.com/issues/632)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
