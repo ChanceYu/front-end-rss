@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-24 06:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-24 08:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664) ![](/assets/new.png)  
+- [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
 - [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
@@ -414,6 +414,7 @@
 </summary>
 
 
+- [2023-11-23-三年初心，前端之路：从实习到负责人，我的成长与探索](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514494&idx=1&sn=b3bfb6886998d088c23d4cbb56a2b622&chksm=eb078107dc7008113349041ab72e9d73331e6a1aa09357d1ebbb7fdd57bbacb5d6acb72537ea#rd) ![](/assets/new.png)  
 - [2023-11-22-12万字！肝了一套Web前端面试干货](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514488&idx=1&sn=e7067df54b394ca98d8bf923e542aab7&chksm=eb078101dc700817e62ea81bcacdfd3a296296e0af4fa6aec4d558c9101ecd86f35b6993a7c1#rd)  
 - [2023-11-21-双向绑定与单向数据流之争，Solid会取代React吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514474&idx=1&sn=35c7713ce5caa587b2e52437ff7ba971&chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd)  
 - [2023-11-16-Monorepo-仓库代码质量提升实践](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514469&idx=1&sn=2597848019f60f37973a313791173f54&chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd)  
@@ -431,9 +432,8 @@
 - [2023-10-29-记录一下27岁的前端，从二本到澳洲🦘的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514359&idx=1&sn=2e260cfc2f48f5a17fb1402f7be8003d&chksm=eb07808edc700998c118dfc055c133f4d80ed2e9c8498c3c1d5e216255be8557be28094fb770#rd)  
 - [2023-10-28-Next.js-14-正式发布，更快、更强、更可靠！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514313&idx=1&sn=9e1b1eecdfa120e6ee098c61d17e832b&chksm=eb0780b0dc7009a650076e2bb414cb7a24afa472156eed0d646241e315236c4e462425be38cc#rd)  
 - [2023-10-27-产品：请给我实现一个在web端截屏的功能！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514310&idx=1&sn=7c10c20371ca202c3ed7e23ff007b8cd&chksm=eb0780bfdc7009a9ef533200180f25d1284a77bc3d6422e233db176ffab091d7942134335b43#rd)  
-- [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd)  
 - [2023-10-26-（此文价值极大）ChatGPT-搞钱来了，抓紧进！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=1&sn=36f12514b064d58ca13ea0a8756043c1&chksm=eb0780b8dc7009ae0c69ca340c90704926b61675a853ba76274aa4f7b17d5feef02fb51dce75#rd)  
-- [2023-10-25-React-2024-生态系统：路由、状态管理、调试、测试、组件库、文档……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514288&idx=1&sn=fd4b8f93fe2d3a50ddfa97a17c010935&chksm=eb0780c9dc7009dfd61a642648725661f89653019a2310f0203a248699862a10774fe84b49c2#rd)  
+- [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
