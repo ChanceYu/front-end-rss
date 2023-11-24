@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-24T07:01:02.488Z</updated>
+    <updated>2023-11-24T13:00:48.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[前端传参如果参数过多你还会拼接在URL上嘛？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517750&amp;idx=2&amp;sn=67bd72f6b08dbc01f963d21ab2b4f4c9&amp;chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517750&amp;idx=2&amp;sn=67bd72f6b08dbc01f963d21ab2b4f4c9&amp;chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd"/>
+        <updated>2023-11-23T16:00:00.000Z</updated>
+        <published>2023-11-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js能处理5000个页面吗？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523101&amp;idx=1&amp;sn=fea8bd5b1fc5a73c1be39929e989702b&amp;chksm=f9522e5ece25a7485479cd58e8d482d744db1405806c5c8a2c87cc846382c4d7db4c3f64c43b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523101&amp;idx=1&amp;sn=fea8bd5b1fc5a73c1be39929e989702b&amp;chksm=f9522e5ece25a7485479cd58e8d482d744db1405806c5c8a2c87cc846382c4d7db4c3f64c43b#rd"/>
         <updated>2023-11-23T16:00:00.000Z</updated>
         <published>2023-11-23T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官：跨页面通信的方式有哪些？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517619&amp;idx=1&amp;sn=4d3b6a18a64fdc91f8a7c7b4b33ff4d0&amp;chksm=f9928362cee50a744cc90ef4352d1a909e53846cff12fdb1226d771280b31bfbcdc3ba52cdb2#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517619&amp;idx=1&amp;sn=4d3b6a18a64fdc91f8a7c7b4b33ff4d0&amp;chksm=f9928362cee50a744cc90ef4352d1a909e53846cff12fdb1226d771280b31bfbcdc3ba52cdb2#rd"/>
-        <updated>2023-11-16T16:00:00.000Z</updated>
-        <published>2023-11-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web版Photoshop来了，用到了哪些前端技术？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517619&amp;idx=2&amp;sn=8a00ecb13f10563d6ce966a02ccf1212&amp;chksm=f9928362cee50a74ef35a0216eb2fcb8016fd14b472146087a669546461acae01ccf0358278e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517619&amp;idx=2&amp;sn=8a00ecb13f10563d6ce966a02ccf1212&amp;chksm=f9928362cee50a74ef35a0216eb2fcb8016fd14b472146087a669546461acae01ccf0358278e#rd"/>
         <updated>2023-11-16T16:00:00.000Z</updated>
         <published>2023-11-16T16:00:00.000Z</published>
     </entry>

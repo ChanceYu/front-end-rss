@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-24 15:01:00，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-24 21:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-11-24-【第3121期】效率前端微应用推进之微前端研发提效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=1&sn=10a6093c015c3147e497fb251e2c08ae&chksm=bd48f8458a3f71534090392cc0860dfd0f376998a4737ba68dc78b97d5736ac0550687447e92#rd) ![](/assets/new.png)  
-- [2023-11-24-【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=2&sn=5e308ce28582913d20900138d616ea72&chksm=bd48f8458a3f71537a25b6f1055d7059fb207bf0a9b09d7f116e03c4cd43548cdba15faac74e#rd) ![](/assets/new.png)  
+- [2023-11-24-【第3121期】效率前端微应用推进之微前端研发提效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=1&sn=10a6093c015c3147e497fb251e2c08ae&chksm=bd48f8458a3f71534090392cc0860dfd0f376998a4737ba68dc78b97d5736ac0550687447e92#rd)  
+- [2023-11-24-【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=2&sn=5e308ce28582913d20900138d616ea72&chksm=bd48f8458a3f71537a25b6f1055d7059fb207bf0a9b09d7f116e03c4cd43548cdba15faac74e#rd)  
 - [2023-11-23-【招聘】西瓜视频招前端研发高级工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267492&idx=2&sn=5626cc853b8a2857352fcedaeb3d7b8a&chksm=bd48f8208a3f71360be2eb2f7ab504986c0b79ace9ce4157bf4beb42c0c36f0c6ce9799b3d47#rd)  
 - [2023-11-23-【第3120期】低代码在云音乐数据业务中的落地实践与思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267492&idx=1&sn=cb18fe37616bc371518083557313e68d&chksm=bd48f8208a3f7136a0b157386ca174103b66f049b1fbe0612f7d3aabe5c90deb2adb211f9813#rd)  
 - [2023-11-22-【活动】微盟技术沙龙之页面可视化的技术实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267471&idx=2&sn=b8a46bd1439c3f23fbdd7d38b34c39b7&chksm=bd48f80b8a3f711d1eb2327b4836b62b467d9deef15ce81f5a3961fc43513dc2c85902770bd9#rd)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-11-24-面试官：做过性能优化？我：任务切片！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617589&idx=1&sn=12406bbbe9d2cf7b6a8d46fa15db7957&chksm=8022aef4b75527e2534e75a91e8db677a3e0a1a8491ee4aef8f4f1802c34d9c5c3b1fe560bad#rd) ![](/assets/new.png)  
-- [2023-11-24-你知道-XHR-和-Fetch-的区别吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617589&idx=2&sn=ec789da73be8d5943b350417dd213e5f&chksm=8022aef4b75527e27c15b2fd0fb140e107340a98549c4d6b60b4bb4d728c3b88e392cacc45c2#rd) ![](/assets/new.png)  
+- [2023-11-24-面试官：做过性能优化？我：任务切片！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617589&idx=1&sn=12406bbbe9d2cf7b6a8d46fa15db7957&chksm=8022aef4b75527e2534e75a91e8db677a3e0a1a8491ee4aef8f4f1802c34d9c5c3b1fe560bad#rd)  
+- [2023-11-24-你知道-XHR-和-Fetch-的区别吗？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617589&idx=2&sn=ec789da73be8d5943b350417dd213e5f&chksm=8022aef4b75527e27c15b2fd0fb140e107340a98549c4d6b60b4bb4d728c3b88e392cacc45c2#rd)  
 - [2023-11-23-面试官：跨页面通信的方式有哪些？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617588&idx=2&sn=f229d9166a0e39283712c9d42c67368b&chksm=8022aef5b75527e3f5772aae5def5ccdb0ec853cdd294c4dca0c452a939cc85eec3ea9926a9a#rd)  
 - [2023-11-23-Vue3+NodeJS-接入文心一言，-发布一个-VSCode-大模型问答插件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617588&idx=1&sn=ca7f68cb0db98fb7fd706061fc7f5732&chksm=8022aef5b75527e375d6e75fc81180d985f1277eb3f6bb3d1f2cc5ad30f8f183b83149733f33#rd)  
 - [2023-11-22-ECMAScript-2023：为JavaScript带来新的数组复制方法](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617587&idx=1&sn=f7f83d4ea5f29b46757e91934b8f3780&chksm=8022aef2b75527e45c65b1197e0bbab2a487dff240292dde5864d2bb2eab21d8a3035e00f939#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-11-24-Next.js能处理5000个页面吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523101&idx=1&sn=fea8bd5b1fc5a73c1be39929e989702b&chksm=f9522e5ece25a7485479cd58e8d482d744db1405806c5c8a2c87cc846382c4d7db4c3f64c43b#rd) ![](/assets/new.png)  
 - [2023-11-22-前端面试通关宝典：解析44道React测试题（下）](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522979&idx=1&sn=6aef2586cf9000b6f504ea3f687be4e9&chksm=f9522fe0ce25a6f671b05404a2d46710d9f4c23d0d425cf437e52dac0bb134e2408704e05141#rd)  
 - [2023-11-20-前端面试通关宝典：解析44道React测试题（上）](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522973&idx=1&sn=e062ff0072dabf146bf66de44cdb78bb&chksm=f9522fdece25a6c81da0f2218410ef5fa7368b2d1ad481eb758788341a1a035eed1f6d9271f0#rd)  
 - [2023-11-17-AIGC在前端Web开发中的应用：响应式设计和Tailwind配置的完美搭档](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522943&idx=1&sn=f19932af004df166b53cb32ecf880cab&chksm=f9522f3cce25a62afb5d7df97dd716151b299e6110ba43f2c3a6b7675c4b9219f555196c682b#rd)  
@@ -185,7 +186,6 @@
 - [2023-10-16-Angular-重磅回归](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522537&idx=1&sn=4992c797317e6b8c63161bfdbd88986c&chksm=f9522daace25a4bcdf47c4373848f1e66e1dc589611ac0328868c9e708472dad3dad44e1384b#rd)  
 - [2023-10-13-放弃-React-改用-Web-组件，微软这次重构让开发者不解：没有任何意义](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522532&idx=1&sn=6152093826eb90a6d7f94ab92423a689&chksm=f9522da7ce25a4b15917fc243ff77fbf8a8d405f084e2868126f0a91342955cd48e3f474243a#rd)  
 - [2023-10-11-华为云开源低代码引擎-TinyEngine-正式发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522455&idx=1&sn=c3f50f90332f970c73ab5888e7394c64&chksm=f9522dd4ce25a4c2fd1cdb151e098780544061ef40909f1ba3c649f81e739849a0e95c0c0429#rd)  
-- [2023-10-09-惊现十级漏洞！Electron中招，到底是谁的锅？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522453&idx=1&sn=a31dea01d1e76fe03e88c7f1a6d6bd41&chksm=f9522dd6ce25a4c03879a12f11b0817d7bf034cc00dee270ce5666801f39acd1bbadb5602ddd#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,7 +259,7 @@
 </summary>
 
 
-- [2023-11-24-前端传参如果参数过多你还会拼接在URL上嘛？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517750&idx=2&sn=67bd72f6b08dbc01f963d21ab2b4f4c9&chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd) ![](/assets/new.png)  
+- [2023-11-24-前端传参如果参数过多你还会拼接在URL上嘛？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517750&idx=2&sn=67bd72f6b08dbc01f963d21ab2b4f4c9&chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd)  
 - [2023-11-23-详解-Module-Federation-的实现原理](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517743&idx=2&sn=9f0df9b0d31309c1e6e1736bf6520ba5&chksm=f99280fecee509e81eb10c55d195b463f3ca49d03f775af1a0d64a1db12086731295134b7db5#rd)  
 - [2023-11-23-alova来袭，你还在固守着axios吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517743&idx=1&sn=4eeb313b02c8c17e09f62db0a36ad7f6&chksm=f99280fecee509e8598bc0e4e39091682a3f93cab7199d3297c84da7b25402a15c6fd2862ddd#rd)  
 - [2023-11-22-12万字！肝了一套Web前端面试干货](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517734&idx=1&sn=525360dd66bf150e634a9f53f09feab8&chksm=f99280f7cee509e1aa162c9bd0c10a57ec0302a2eb8e290ca22de077220f233fd24eba6ab5ae#rd)  
