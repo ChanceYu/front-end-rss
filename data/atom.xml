@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-27T10:01:09.414Z</updated>
+    <updated>2023-11-27T22:00:44.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2023-11-26T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[三年前端还不会配置Nginx，被老板打了，今天一口气学完]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514525&amp;idx=1&amp;sn=05af371135d3f899e642b2cc38a2b0ed&amp;chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514525&amp;idx=1&amp;sn=05af371135d3f899e642b2cc38a2b0ed&amp;chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd"/>
+        <updated>2023-11-26T16:00:00.000Z</updated>
+        <published>2023-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微前端时代：打造高效、灵活的前端开发体系]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517778&amp;idx=2&amp;sn=30b4546a87b5c2c030e9cbcaddfc0623&amp;chksm=f9928083cee509954d484b89efbfd36aa33df0618da438a06a44afd7b92dcf31d6c34046bf30#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517778&amp;idx=2&amp;sn=30b4546a87b5c2c030e9cbcaddfc0623&amp;chksm=f9928083cee509954d484b89efbfd36aa33df0618da438a06a44afd7b92dcf31d6c34046bf30#rd"/>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[尝试实现了国外大佬用Web做出来跨窗口渲染动画效果]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517778&amp;idx=1&amp;sn=fccbdf3d8296570530dcb4100a1e5dfe&amp;chksm=f9928083cee50995e610ec3d4cfcbbcb5288dd3645bce1baa4f1b8269b2d1440c2eb1ca9cf30#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517778&amp;idx=1&amp;sn=fccbdf3d8296570530dcb4100a1e5dfe&amp;chksm=f9928083cee50995e610ec3d4cfcbbcb5288dd3645bce1baa4f1b8269b2d1440c2eb1ca9cf30#rd"/>
+        <updated>2023-11-26T16:00:00.000Z</updated>
+        <published>2023-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手把手教你在JavaScript中使用LangChain，解锁AI应用能力]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523115&amp;idx=1&amp;sn=51684f3928e8f5566376bb615f55e469&amp;chksm=f9522e68ce25a77e586275a27f9e364c031df727482eb10f225d43aeac3cb251e44fe52a39d1#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523115&amp;idx=1&amp;sn=51684f3928e8f5566376bb615f55e469&amp;chksm=f9522e68ce25a77e586275a27f9e364c031df727482eb10f225d43aeac3cb251e44fe52a39d1#rd"/>
         <updated>2023-11-26T16:00:00.000Z</updated>
         <published>2023-11-26T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[前端组长应该如何管理前端团队]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517717&amp;idx=1&amp;sn=d6fa327f7d4dcbbedb25b8a33da59bc7&amp;chksm=f99280c4cee509d21c395ffa37f3c78599765114cabe55bae7fb67e60c4a8ff223e6f8f03fba#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517717&amp;idx=1&amp;sn=d6fa327f7d4dcbbedb25b8a33da59bc7&amp;chksm=f99280c4cee509d21c395ffa37f3c78599765114cabe55bae7fb67e60c4a8ff223e6f8f03fba#rd"/>
-        <updated>2023-11-19T16:00:00.000Z</updated>
-        <published>2023-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试通关宝典：解析44道React测试题（上）]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522973&amp;idx=1&amp;sn=e062ff0072dabf146bf66de44cdb78bb&amp;chksm=f9522fdece25a6c81da0f2218410ef5fa7368b2d1ad481eb758788341a1a035eed1f6d9271f0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247522973&amp;idx=1&amp;sn=e062ff0072dabf146bf66de44cdb78bb&amp;chksm=f9522fdece25a6c81da0f2218410ef5fa7368b2d1ad481eb758788341a1a035eed1f6d9271f0#rd"/>
-        <updated>2023-11-19T16:00:00.000Z</updated>
-        <published>2023-11-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27岁的前端，从二本run到澳洲🦘的故事分享]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617563&amp;idx=1&amp;sn=07c7c7c12920121285b57b1fab24b25e&amp;chksm=8022aedab75527ccd9fc0a0a0df97944291ae54fef296e7b181ad6fe52ec966b987d3c73a436#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617563&amp;idx=1&amp;sn=07c7c7c12920121285b57b1fab24b25e&amp;chksm=8022aedab75527ccd9fc0a0a0df97944291ae54fef296e7b181ad6fe52ec966b987d3c73a436#rd"/>
         <updated>2023-11-19T16:00:00.000Z</updated>
         <published>2023-11-19T16:00:00.000Z</published>
     </entry>
