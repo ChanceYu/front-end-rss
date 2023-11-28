@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-11-28 18:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-29 06:01:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512) 
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509) 
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498) 
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495) 

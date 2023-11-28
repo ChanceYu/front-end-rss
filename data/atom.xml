@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-28T10:00:44.792Z</updated>
+    <updated>2023-11-28T22:01:15.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[本地MP3封面图、时长等信息的JS读取]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/"/>
+        <updated>2023-11-28T16:00:00.000Z</updated>
+        <published>2023-11-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嘿，vue中keep-alive有个「大坑」你可能还不知道]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517793&amp;idx=2&amp;sn=751e0ad44f36a0c0d9688fd8ebb477bd&amp;chksm=f99280b0cee509a69e02edf3adbb304da06ae464de449a02fb87ff03c8f776560660e66cd828#rd</id>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[【第3125期】谈谈刷屏的量子纠缠效果]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267675&amp;idx=1&amp;sn=64399010d09e5da360d276542cb66c6e&amp;chksm=bd48fbdf8a3f72c934ac596a2e423fb25414ef05d28665a896cfb0c2a2f21c457d082eea4492#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267675&amp;idx=1&amp;sn=64399010d09e5da360d276542cb66c6e&amp;chksm=bd48fbdf8a3f72c934ac596a2e423fb25414ef05d28665a896cfb0c2a2f21c457d082eea4492#rd"/>
+        <updated>2023-11-27T16:00:00.000Z</updated>
+        <published>2023-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Issue 2 to the power of 9]]></title>
+        <id>https://nodeweekly.com/issues/512</id>
+        <link href="https://nodeweekly.com/issues/512"/>
         <updated>2023-11-27T16:00:00.000Z</updated>
         <published>2023-11-27T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[前端又又出新框架，这次没有打包了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=1&amp;sn=8a9ce87e3ecc88771a7e649b4aa2a406&amp;chksm=f99280cfcee509d92133d21f77b1719647bdba260ce3b0dfa6238a642156d79afa61cf916002#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=1&amp;sn=8a9ce87e3ecc88771a7e649b4aa2a406&amp;chksm=f99280cfcee509d92133d21f77b1719647bdba260ce3b0dfa6238a642156d79afa61cf916002#rd"/>
-        <updated>2023-11-20T16:00:00.000Z</updated>
-        <published>2023-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617573&amp;idx=1&amp;sn=2c3313d25bdd10d4209f546caedba941&amp;chksm=8022aee4b75527f236a4473c41a3406d6368e43d845765406a3ffc34fd45ba3e6f44aecf820a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617573&amp;idx=1&amp;sn=2c3313d25bdd10d4209f546caedba941&amp;chksm=8022aee4b75527f236a4473c41a3406d6368e43d845765406a3ffc34fd45ba3e6f44aecf820a#rd"/>
-        <updated>2023-11-20T16:00:00.000Z</updated>
-        <published>2023-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端程序员是怎么做物联网开发的]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617573&amp;idx=2&amp;sn=6edec9393c8413d21fa9192f67ace953&amp;chksm=8022aee4b75527f28ffefb8b105cbf89206453c4d6de329b95abc7d037403a6df3153a1b6cc1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617573&amp;idx=2&amp;sn=6edec9393c8413d21fa9192f67ace953&amp;chksm=8022aee4b75527f28ffefb8b105cbf89206453c4d6de329b95abc7d037403a6df3153a1b6cc1#rd"/>
         <updated>2023-11-20T16:00:00.000Z</updated>
         <published>2023-11-20T16:00:00.000Z</published>
     </entry>
