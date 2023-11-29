@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-29 06:01:14，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-11-29 08:00:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,10 +26,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -42,7 +42,7 @@
 </summary>
 
 
-- [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512) ![](/assets/new.png)  
+- [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512)  
 - [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)  
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
@@ -414,6 +414,7 @@
 </summary>
 
 
+- [2023-11-28-八股文背烂也没用，面试官早改套路了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514548&idx=1&sn=9eb2e893f96509843253d919e4d2781b&chksm=eb0781cddc7008dbf724745f8b119f096bb98821377acccb37f73bed09e8c89e19a60f975a2c#rd) ![](/assets/new.png)  
 - [2023-11-27-三年前端还不会配置Nginx，被老板打了，今天一口气学完](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514525&idx=1&sn=05af371135d3f899e642b2cc38a2b0ed&chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd)  
 - [2023-11-26-爆了！强烈安利几个大厂前端的高质量公众号](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514523&idx=1&sn=0ca3f90329fac936df2fc62fb4920ab6&chksm=eb0781e2dc7008f472770280ee9ef7ef3f386546808ccdac46f48cf43d71eed5d8f3da6b4ac7#rd)  
 - [2023-11-25-理性聊聊-GPT-4-Turbo-发布后对程序员失业的影响](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514505&idx=1&sn=897e5d953e3af0ceb07db918318c67a2&chksm=eb0781f0dc7008e6157d694f3407d474f9a47c18ed61e133359a2301c11d2e9d4c39ce38c7c9#rd)  
@@ -433,7 +434,6 @@
 - [2023-11-01-前端版本过低引导弹窗方案分享](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514378&idx=1&sn=047d0d6ded978ccddb4ad9b975b3e364&chksm=eb078173dc70086519466df63ccf8a5594fc0919a578ae007c70dc1420a13fd3f8a38544fcee#rd)  
 - [2023-10-30-什么样的前端开发，会被公司抢着要？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514373&idx=1&sn=c65af25b83565893b54654a00a68998d&chksm=eb07817cdc70086a059086b7da95449d38a452f9f80b720fa145585221b76e582f3d307d9964#rd)  
 - [2023-10-29-记录一下27岁的前端，从二本到澳洲🦘的故事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514359&idx=1&sn=2e260cfc2f48f5a17fb1402f7be8003d&chksm=eb07808edc700998c118dfc055c133f4d80ed2e9c8498c3c1d5e216255be8557be28094fb770#rd)  
-- [2023-10-28-Next.js-14-正式发布，更快、更强、更可靠！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514313&idx=1&sn=9e1b1eecdfa120e6ee098c61d17e832b&chksm=eb0780b0dc7009a650076e2bb414cb7a24afa472156eed0d646241e315236c4e462425be38cc#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -507,7 +507,7 @@
 </summary>
 
 
-- [2023-11-29-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/) ![](/assets/new.png)  
+- [2023-11-29-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/)  
 - [2023-11-22-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)  
 - [2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)  
 - [2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/)  

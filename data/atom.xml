@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-28T22:01:15.680Z</updated>
+    <updated>2023-11-29T00:00:47.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/"/>
         <updated>2023-11-28T16:00:00.000Z</updated>
         <published>2023-11-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[八股文背烂也没用，面试官早改套路了。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514548&amp;idx=1&amp;sn=9eb2e893f96509843253d919e4d2781b&amp;chksm=eb0781cddc7008dbf724745f8b119f096bb98821377acccb37f73bed09e8c89e19a60f975a2c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514548&amp;idx=1&amp;sn=9eb2e893f96509843253d919e4d2781b&amp;chksm=eb0781cddc7008dbf724745f8b119f096bb98821377acccb37f73bed09e8c89e19a60f975a2c#rd"/>
+        <updated>2023-11-27T16:00:00.000Z</updated>
+        <published>2023-11-27T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[嘿，vue中keep-alive有个「大坑」你可能还不知道]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[看看这些年 HTTP 算法的进化]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=2&amp;sn=61763f6457463730d7bbe30767137186&amp;chksm=f99280cfcee509d9c3113cb8767f5cd074d6621250ba2b9386f260a2437ee87f897271764afd#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=2&amp;sn=61763f6457463730d7bbe30767137186&amp;chksm=f99280cfcee509d9c3113cb8767f5cd074d6621250ba2b9386f260a2437ee87f897271764afd#rd"/>
-        <updated>2023-11-20T16:00:00.000Z</updated>
-        <published>2023-11-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端又又出新框架，这次没有打包了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=1&amp;sn=8a9ce87e3ecc88771a7e649b4aa2a406&amp;chksm=f99280cfcee509d92133d21f77b1719647bdba260ce3b0dfa6238a642156d79afa61cf916002#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517726&amp;idx=1&amp;sn=8a9ce87e3ecc88771a7e649b4aa2a406&amp;chksm=f99280cfcee509d92133d21f77b1719647bdba260ce3b0dfa6238a642156d79afa61cf916002#rd"/>
         <updated>2023-11-20T16:00:00.000Z</updated>
         <published>2023-11-20T16:00:00.000Z</published>
     </entry>
