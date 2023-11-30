@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-11-30 21:01:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-01 06:00:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665) ![](/assets/new.png)  
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
@@ -92,7 +93,6 @@
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
 - [2023-07-06-CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)  
-- [2023-06-29-This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -136,7 +136,7 @@
 
 
 - [2023-11-30-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=1&sn=10b7bcab8e5a670a01f39f9dc688654d&chksm=8022ae93b75527854f278bb945167e562ebb6126c43b64df9557f5b577f68adb181fb09e61d8#rd)  
-- [2023-11-30-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=2&sn=b259e1eae08e28ac75f2f1b724a95485&chksm=8022ae93b75527852be0c15e3fcea1b19e7f3c0a3a3edacd4a252eaee1ca68aef1be333649a1#rd) ![](/assets/new.png)  
+- [2023-11-30-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=2&sn=b259e1eae08e28ac75f2f1b724a95485&chksm=8022ae93b75527852be0c15e3fcea1b19e7f3c0a3a3edacd4a252eaee1ca68aef1be333649a1#rd)  
 - [2023-11-29-前端调取摄像头并实现拍照功能](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617607&idx=1&sn=38d988f806c4532d7d15c21d4a3f71dd&chksm=8022ae86b7552790857fd12bfeb9b9a4c7c2e9c55af0523cbaf99205fa4e35299074950553a7#rd)  
 - [2023-11-29-前端传参如果参数过多你还会拼接在URL上嘛？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617607&idx=2&sn=8a48dc38c4e27f99a0cfb5cec9c72aff&chksm=8022ae86b7552790cc4695a262087fc233cfe9745b04342e8bf9990204ba480d409eb43cc991#rd)  
 - [2023-11-28-自由职业者，一年空窗期后我是如何准备面试的？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617603&idx=2&sn=4e7905ffba00cb500eeec98de357a535&chksm=8022ae82b75527947abdf35394953cc8622d60a37ea0385b3b9b193ec5dc7ecd6b9fdc1c15e7#rd)  
@@ -414,6 +414,7 @@
 </summary>
 
 
+- [2023-11-30-老板让做前端埋点数据可视化，不会咋整！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514554&idx=1&sn=e0b13e4cd85bcfd5caaa40d6c4920360&chksm=eb0781c3dc7008d5310b72c55eb7a74c952148871b87c5ea39a7bd3bcf86f002fcc8d5759291#rd) ![](/assets/new.png)  
 - [2023-11-29-优-雅-被-裁](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514549&idx=1&sn=3c3f9a482514ee4d84b2e21078dbfcfb&chksm=eb0781ccdc7008da9895ddf88a45e2995e4e1fe37dc0f881363daaca480b58308bfa59bef608#rd)  
 - [2023-11-28-八股文背烂也没用，面试官早改套路了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514548&idx=1&sn=9eb2e893f96509843253d919e4d2781b&chksm=eb0781cddc7008dbf724745f8b119f096bb98821377acccb37f73bed09e8c89e19a60f975a2c#rd)  
 - [2023-11-27-三年前端还不会配置Nginx，被老板打了，今天一口气学完](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514525&idx=1&sn=05af371135d3f899e642b2cc38a2b0ed&chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd)  
@@ -433,7 +434,6 @@
 - [2023-11-06-推荐13款常用的Vscode插件，提高前端日常开发效率](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514434&idx=1&sn=f3116715e8afc4b9a4627eea7be3d2c8&chksm=eb07813bdc70082d43a30e81f0acf9cce1cf5ca6641a313d9be5f658052723f5ec6a070c8973#rd)  
 - [2023-11-02-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514393&idx=1&sn=25cc650ab8ead9554790a1e19440e192&chksm=eb078160dc700876635cb2b9b69b040c18837bf2720a188b3c5f31a79205fd05f4ff05a3bfb4#rd)  
 - [2023-11-01-前端版本过低引导弹窗方案分享](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514378&idx=1&sn=047d0d6ded978ccddb4ad9b975b3e364&chksm=eb078173dc70086519466df63ccf8a5594fc0919a578ae007c70dc1420a13fd3f8a38544fcee#rd)  
-- [2023-10-30-什么样的前端开发，会被公司抢着要？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514373&idx=1&sn=c65af25b83565893b54654a00a68998d&chksm=eb07817cdc70086a059086b7da95449d38a452f9f80b720fa145585221b76e582f3d307d9964#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-11-24 06:00:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-01 06:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665) 
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664) 
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663) 
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662) 

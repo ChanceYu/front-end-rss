@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-11-30T13:01:10.528Z</updated>
+    <updated>2023-11-30T22:00:42.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[老板让做前端埋点数据可视化，不会咋整！？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514554&amp;idx=1&amp;sn=e0b13e4cd85bcfd5caaa40d6c4920360&amp;chksm=eb0781c3dc7008d5310b72c55eb7a74c952148871b87c5ea39a7bd3bcf86f002fcc8d5759291#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514554&amp;idx=1&amp;sn=e0b13e4cd85bcfd5caaa40d6c4920360&amp;chksm=eb0781c3dc7008d5310b72c55eb7a74c952148871b87c5ea39a7bd3bcf86f002fcc8d5759291#rd"/>
+        <updated>2023-11-29T16:00:00.000Z</updated>
+        <published>2023-11-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端:从零到一, 轻松把自己的网站部署到服务器]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517848&amp;idx=2&amp;sn=e6f3bfc59732ba0127ebd68f1bf2e35b&amp;chksm=f9928049cee5095fdbabdb17a75b55ff7fb659b4e3189241196267a11b8eeff5699cdaafb82c#rd</id>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[【第3127期】浏览器跨 Tab 窗口通信原理及应用实践]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267721&amp;idx=1&amp;sn=e04f2e8a9ba7ea8781fc37b96482b9f7&amp;chksm=bd48fb0d8a3f721b0cef2e27067ea8f743799c1b89f4ac928a4511c4e2d74a50cd02db64ab14#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267721&amp;idx=1&amp;sn=e04f2e8a9ba7ea8781fc37b96482b9f7&amp;chksm=bd48fb0d8a3f721b0cef2e27067ea8f743799c1b89f4ac928a4511c4e2d74a50cd02db64ab14#rd"/>
+        <updated>2023-11-29T16:00:00.000Z</updated>
+        <published>2023-11-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every Framework Everywhere All at Once]]></title>
+        <id>https://javascriptweekly.com/issues/665</id>
+        <link href="https://javascriptweekly.com/issues/665"/>
         <updated>2023-11-29T16:00:00.000Z</updated>
         <published>2023-11-29T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[面试官：跨页面通信的方式有哪些？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617588&amp;idx=2&amp;sn=f229d9166a0e39283712c9d42c67368b&amp;chksm=8022aef5b75527e3f5772aae5def5ccdb0ec853cdd294c4dca0c452a939cc85eec3ea9926a9a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617588&amp;idx=2&amp;sn=f229d9166a0e39283712c9d42c67368b&amp;chksm=8022aef5b75527e3f5772aae5def5ccdb0ec853cdd294c4dca0c452a939cc85eec3ea9926a9a#rd"/>
-        <updated>2023-11-22T16:00:00.000Z</updated>
-        <published>2023-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3+NodeJS 接入文心一言， 发布一个 VSCode 大模型问答插件]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617588&amp;idx=1&amp;sn=ca7f68cb0db98fb7fd706061fc7f5732&amp;chksm=8022aef5b75527e375d6e75fc81180d985f1277eb3f6bb3d1f2cc5ad30f8f183b83149733f33#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617588&amp;idx=1&amp;sn=ca7f68cb0db98fb7fd706061fc7f5732&amp;chksm=8022aef5b75527e375d6e75fc81180d985f1277eb3f6bb3d1f2cc5ad30f8f183b83149733f33#rd"/>
-        <updated>2023-11-22T16:00:00.000Z</updated>
-        <published>2023-11-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】西瓜视频招前端研发高级工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267492&amp;idx=2&amp;sn=5626cc853b8a2857352fcedaeb3d7b8a&amp;chksm=bd48f8208a3f71360be2eb2f7ab504986c0b79ace9ce4157bf4beb42c0c36f0c6ce9799b3d47#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267492&amp;idx=2&amp;sn=5626cc853b8a2857352fcedaeb3d7b8a&amp;chksm=bd48f8208a3f71360be2eb2f7ab504986c0b79ace9ce4157bf4beb42c0c36f0c6ce9799b3d47#rd"/>
         <updated>2023-11-22T16:00:00.000Z</updated>
         <published>2023-11-22T16:00:00.000Z</published>
     </entry>
