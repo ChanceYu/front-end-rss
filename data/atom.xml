@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-01T07:01:23.677Z</updated>
+    <updated>2023-12-01T13:00:48.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 280 期）：机器点餐与宅文化]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html</id>
         <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html"/>
+        <updated>2023-11-30T16:00:00.000Z</updated>
+        <published>2023-11-30T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌推出创新性Web开发工具 Project IDX，助力开发者构建强大应用]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523147&amp;idx=1&amp;sn=c4d22b2a0e5296c15b1d4edcc6a0d3d9&amp;chksm=f9522e08ce25a71e8eb2dcb1538bd94385d618afea20c77d5d72626069af11237c3c783f84cf#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523147&amp;idx=1&amp;sn=c4d22b2a0e5296c15b1d4edcc6a0d3d9&amp;chksm=f9522e08ce25a71e8eb2dcb1538bd94385d618afea20c77d5d72626069af11237c3c783f84cf#rd"/>
         <updated>2023-11-30T16:00:00.000Z</updated>
         <published>2023-11-30T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官：做过性能优化？我：任务切片！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617589&amp;idx=1&amp;sn=12406bbbe9d2cf7b6a8d46fa15db7957&amp;chksm=8022aef4b75527e2534e75a91e8db677a3e0a1a8491ee4aef8f4f1802c34d9c5c3b1fe560bad#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617589&amp;idx=1&amp;sn=12406bbbe9d2cf7b6a8d46fa15db7957&amp;chksm=8022aef4b75527e2534e75a91e8db677a3e0a1a8491ee4aef8f4f1802c34d9c5c3b1fe560bad#rd"/>
-        <updated>2023-11-23T16:00:00.000Z</updated>
-        <published>2023-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267521&amp;idx=2&amp;sn=5e308ce28582913d20900138d616ea72&amp;chksm=bd48f8458a3f71537a25b6f1055d7059fb207bf0a9b09d7f116e03c4cd43548cdba15faac74e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267521&amp;idx=2&amp;sn=5e308ce28582913d20900138d616ea72&amp;chksm=bd48f8458a3f71537a25b6f1055d7059fb207bf0a9b09d7f116e03c4cd43548cdba15faac74e#rd"/>
         <updated>2023-11-23T16:00:00.000Z</updated>
         <published>2023-11-23T16:00:00.000Z</published>
     </entry>

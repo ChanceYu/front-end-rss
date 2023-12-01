@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-01 15:01:22，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-01 21:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-12-01-尝试实现了国外大佬用Web做出来跨窗口渲染动画效果](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=1&sn=57260e7bd95deed566fe9a99e4601a10&chksm=8022aeabb75527bdf794af9de9bc310dc43fbab7e9d9a2fbef96b94f3eb31aeade8d18a9c00a#rd) ![](/assets/new.png)  
-- [2023-12-01-一个前端非侵入式骨架屏自动生成方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=2&sn=5447319714bd27744553430c296c111c&chksm=8022aeabb75527bd1b8cc295008d8cfd7874d679d799eb22bc3ff3e961b18b10929d1b8cc127#rd) ![](/assets/new.png)  
+- [2023-12-01-尝试实现了国外大佬用Web做出来跨窗口渲染动画效果](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=1&sn=57260e7bd95deed566fe9a99e4601a10&chksm=8022aeabb75527bdf794af9de9bc310dc43fbab7e9d9a2fbef96b94f3eb31aeade8d18a9c00a#rd)  
+- [2023-12-01-一个前端非侵入式骨架屏自动生成方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=2&sn=5447319714bd27744553430c296c111c&chksm=8022aeabb75527bd1b8cc295008d8cfd7874d679d799eb22bc3ff3e961b18b10929d1b8cc127#rd)  
 - [2023-11-30-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=2&sn=b259e1eae08e28ac75f2f1b724a95485&chksm=8022ae93b75527852be0c15e3fcea1b19e7f3c0a3a3edacd4a252eaee1ca68aef1be333649a1#rd)  
 - [2023-11-30-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=1&sn=10b7bcab8e5a670a01f39f9dc688654d&chksm=8022ae93b75527854f278bb945167e562ebb6126c43b64df9557f5b577f68adb181fb09e61d8#rd)  
 - [2023-11-29-前端传参如果参数过多你还会拼接在URL上嘛？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617607&idx=2&sn=8a48dc38c4e27f99a0cfb5cec9c72aff&chksm=8022ae86b7552790cc4695a262087fc233cfe9745b04342e8bf9990204ba480d409eb43cc991#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-12-01-谷歌推出创新性Web开发工具-Project-IDX，助力开发者构建强大应用](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523147&idx=1&sn=c4d22b2a0e5296c15b1d4edcc6a0d3d9&chksm=f9522e08ce25a71e8eb2dcb1538bd94385d618afea20c77d5d72626069af11237c3c783f84cf#rd) ![](/assets/new.png)  
 - [2023-11-29-移动开发界囚徒现身说法，审查困境与控制权探讨](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523118&idx=1&sn=0733cee10bf7d80e428b6faf488529db&chksm=f9522e6dce25a77bb638f85c85fb0bfbb652d579863ba7ae52b46bf26bcc2ec50c96c1a0bc9c#rd)  
 - [2023-11-27-手把手教你在JavaScript中使用LangChain，解锁AI应用能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523115&idx=1&sn=51684f3928e8f5566376bb615f55e469&chksm=f9522e68ce25a77e586275a27f9e364c031df727482eb10f225d43aeac3cb251e44fe52a39d1#rd)  
 - [2023-11-24-Next.js能处理5000个页面吗？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523101&idx=1&sn=fea8bd5b1fc5a73c1be39929e989702b&chksm=f9522e5ece25a7485479cd58e8d482d744db1405806c5c8a2c87cc846382c4d7db4c3f64c43b#rd)  
@@ -185,7 +186,6 @@
 - [2023-10-23-前端根本不需要构建！“技术邪教”-Ruby-on-Rails-之父再出激进言论引争议](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522638&idx=1&sn=d4e6936f3c00929d8f889e2486659c93&chksm=f9522c0dce25a51b363dc246b528c29970f78f78c52d2a6fde7e57f3df6f9680489afd7aefa0#rd)  
 - [2023-10-20-空间小程序:-Web-开发者的下一个增长曲线？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522637&idx=1&sn=008f5e97abbf8e41739ed392963d4800&chksm=f9522c0ece25a518edc1a0c21eb5613e9d35f0d659fbc71f8758c4a69a5ca24b717da78970f0#rd)  
 - [2023-10-18-前端“秀肌肉”，云端-Photoshop-亮相](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522620&idx=1&sn=c476526e5ddcf06db3bf667700d02791&chksm=f9522c7fce25a569396229ea46b4cf7f774561aa8073faf9bbcbdb3b4e97aed786230754213c#rd)  
-- [2023-10-16-Angular-重磅回归](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522537&idx=1&sn=4992c797317e6b8c63161bfdbd88986c&chksm=f9522daace25a4bcdf47c4373848f1e66e1dc589611ac0328868c9e708472dad3dad44e1384b#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
