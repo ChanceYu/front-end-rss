@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-02T10:00:50.439Z</updated>
+    <updated>2023-12-03T10:00:58.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[强烈安利9个高质量大厂前端公众号]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514569&amp;idx=1&amp;sn=580d817df7b9ba3cda694fbc44be4d7a&amp;chksm=eb0781b0dc7008a67791ce9fc597f2ab116da0e7ddd7d72d88ab0953097d2221c8fada2db0df#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514569&amp;idx=1&amp;sn=580d817df7b9ba3cda694fbc44be4d7a&amp;chksm=eb0781b0dc7008a67791ce9fc597f2ab116da0e7ddd7d72d88ab0953097d2221c8fada2db0df#rd"/>
+        <updated>2023-12-01T16:00:00.000Z</updated>
+        <published>2023-12-01T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3129期】音乐可视化渲染：前端开发中的艺术与技术]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267760&amp;idx=1&amp;sn=efec5fa793fe484505948341735794fb&amp;chksm=bd48fb348a3f722208efcfe8ea9219686d5ae75d19b506620a558c2cdd984b9293901da4b805#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端传参如果参数过多你还会拼接在URL上嘛？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517750&amp;idx=2&amp;sn=67bd72f6b08dbc01f963d21ab2b4f4c9&amp;chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517750&amp;idx=2&amp;sn=67bd72f6b08dbc01f963d21ab2b4f4c9&amp;chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd"/>
-        <updated>2023-11-23T16:00:00.000Z</updated>
-        <published>2023-11-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端开发，实现B站首页动态banner]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517750&amp;idx=1&amp;sn=31c6502b8e6947021dcc503c11349c06&amp;chksm=f99280e7cee509f101707b82a557069a3454e3482ac1878d8d3635998f60581d9fb76ce1bcf9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517750&amp;idx=1&amp;sn=31c6502b8e6947021dcc503c11349c06&amp;chksm=f99280e7cee509f101707b82a557069a3454e3482ac1878d8d3635998f60581d9fb76ce1bcf9#rd"/>
         <updated>2023-11-23T16:00:00.000Z</updated>
         <published>2023-11-23T16:00:00.000Z</published>
     </entry>
