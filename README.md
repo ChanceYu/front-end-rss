@@ -10,24 +10,24 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-04 15:00:42，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-04 18:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -105,7 +105,7 @@
 
 
 - [2023-12-04-【招聘】钉钉文档招前后端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267777&idx=2&sn=429b2bb651f54197b891c9cf6c7bfa6d&chksm=bd48fb458a3f7253128f3affb5853e697d10fac248a151de7c4b93e852c58f9703d2585cb1e4#rd)  
-- [2023-12-04-【第3131期】装饰器的10年历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267777&idx=1&sn=4dce2ead37554d3353527f43615f070e&chksm=bd48fb458a3f725332739c1dd4dfb65da42577ee8c0a44ec0fc2a5ca20b38dfa12e3705a47ab#rd) ![](/assets/new.png)  
+- [2023-12-04-【第3131期】装饰器的10年历史](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267777&idx=1&sn=4dce2ead37554d3353527f43615f070e&chksm=bd48fb458a3f725332739c1dd4dfb65da42577ee8c0a44ec0fc2a5ca20b38dfa12e3705a47ab#rd)  
 - [2023-12-03-【第3130期】Taro高性能小程序的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267773&idx=1&sn=04338bb73efcb48a7a2eca2d23245cef&chksm=bd48fb398a3f722f5fb3341be0895c067351cff54d18e59fb48fd7857aa30810ea74271b8a1f#rd)  
 - [2023-12-03-【图书】程序员的README](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267773&idx=2&sn=504abde125d154586458d106b0c2b0ff&chksm=bd48fb398a3f722f5d1877dc1aa01a590f9c030463df0b0f67c456d265d6e312fb37f5e8bd1d#rd)  
 - [2023-12-02-【第3129期】音乐可视化渲染：前端开发中的艺术与技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267760&idx=1&sn=efec5fa793fe484505948341735794fb&chksm=bd48fb348a3f722208efcfe8ea9219686d5ae75d19b506620a558c2cdd984b9293901da4b805#rd)  
@@ -135,10 +135,10 @@
 </summary>
 
 
-- [2023-12-04-留给谷歌的时间不多了：18年老员工辞职炮轰领导层](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617653&idx=1&sn=09aaf9fe2595427c54bdbdcf341d9f06&chksm=8022aeb4b75527a241a83684ea9cff1a10f36bfb60cbf71a5b41cff32bd90891b2be4fd4df9f#rd) ![](/assets/new.png)  
-- [2023-12-04-详解-Module-Federation-的实现原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617653&idx=2&sn=fdc3cd0abdb1080c70727494f23e2053&chksm=8022aeb4b75527a226d9297c75d4592848f658226bc36d74b3f404538b210032969c80f2bd93#rd) ![](/assets/new.png)  
+- [2023-12-04-留给谷歌的时间不多了：18年老员工辞职炮轰领导层](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617653&idx=1&sn=09aaf9fe2595427c54bdbdcf341d9f06&chksm=8022aeb4b75527a241a83684ea9cff1a10f36bfb60cbf71a5b41cff32bd90891b2be4fd4df9f#rd)  
+- [2023-12-04-详解-Module-Federation-的实现原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617653&idx=2&sn=fdc3cd0abdb1080c70727494f23e2053&chksm=8022aeb4b75527a226d9297c75d4592848f658226bc36d74b3f404538b210032969c80f2bd93#rd)  
 - [2023-12-03-卧槽！！这薪资，直接封神！！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617649&idx=1&sn=9b2099c66d7041a39cd88796fe185bee&chksm=8022aeb0b75527a64dfca735dbcb69b2b293a88563252fa2a9734eaedb7af3654c417758c876#rd)  
-- [2023-12-03-嘿，vue中keep-alive有个「大坑」你可能还不知道](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617649&idx=2&sn=75b26782088ca7f0e35cde4152dab95f&chksm=8022aeb0b75527a60155af1426c9e634a998b09ad2878aa8f3fc74712e48d07e7349cb4102e8#rd) ![](/assets/new.png)  
+- [2023-12-03-嘿，vue中keep-alive有个「大坑」你可能还不知道](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617649&idx=2&sn=75b26782088ca7f0e35cde4152dab95f&chksm=8022aeb0b75527a60155af1426c9e634a998b09ad2878aa8f3fc74712e48d07e7349cb4102e8#rd)  
 - [2023-12-01-尝试实现了国外大佬用Web做出来跨窗口渲染动画效果](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=1&sn=57260e7bd95deed566fe9a99e4601a10&chksm=8022aeabb75527bdf794af9de9bc310dc43fbab7e9d9a2fbef96b94f3eb31aeade8d18a9c00a#rd)  
 - [2023-12-01-一个前端非侵入式骨架屏自动生成方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=2&sn=5447319714bd27744553430c296c111c&chksm=8022aeabb75527bd1b8cc295008d8cfd7874d679d799eb22bc3ff3e961b18b10929d1b8cc127#rd)  
 - [2023-11-30-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=2&sn=b259e1eae08e28ac75f2f1b724a95485&chksm=8022ae93b75527852be0c15e3fcea1b19e7f3c0a3a3edacd4a252eaee1ca68aef1be333649a1#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-12-04-Astro-+-Svelte对阵SvelteKit：优劣详解](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523150&idx=1&sn=989a7e799631ce871fefc2f14e951da3&chksm=f9522e0dce25a71b78f7e154bbae751e52cd739a04bc07c715304f36892390daf21c9c233688#rd) ![](/assets/new.png)  
 - [2023-12-01-谷歌推出创新性Web开发工具-Project-IDX，助力开发者构建强大应用](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523147&idx=1&sn=c4d22b2a0e5296c15b1d4edcc6a0d3d9&chksm=f9522e08ce25a71e8eb2dcb1538bd94385d618afea20c77d5d72626069af11237c3c783f84cf#rd)  
 - [2023-11-29-移动开发界囚徒现身说法，审查困境与控制权探讨](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523118&idx=1&sn=0733cee10bf7d80e428b6faf488529db&chksm=f9522e6dce25a77bb638f85c85fb0bfbb652d579863ba7ae52b46bf26bcc2ec50c96c1a0bc9c#rd)  
 - [2023-11-27-手把手教你在JavaScript中使用LangChain，解锁AI应用能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523115&idx=1&sn=51684f3928e8f5566376bb615f55e469&chksm=f9522e68ce25a77e586275a27f9e364c031df727482eb10f225d43aeac3cb251e44fe52a39d1#rd)  
@@ -185,7 +186,6 @@
 - [2023-10-25-Vue.js组件的复用性：真正可复用还是伪装的可复用？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522641&idx=1&sn=f1b7584bbd22a95284e7939ca1da2440&chksm=f9522c12ce25a5048327ca9ada315a75adffa42a5601b6d896dee6fe08f9539f2721af30b9d8#rd)  
 - [2023-10-23-前端根本不需要构建！“技术邪教”-Ruby-on-Rails-之父再出激进言论引争议](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522638&idx=1&sn=d4e6936f3c00929d8f889e2486659c93&chksm=f9522c0dce25a51b363dc246b528c29970f78f78c52d2a6fde7e57f3df6f9680489afd7aefa0#rd)  
 - [2023-10-20-空间小程序:-Web-开发者的下一个增长曲线？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522637&idx=1&sn=008f5e97abbf8e41739ed392963d4800&chksm=f9522c0ece25a518edc1a0c21eb5613e9d35f0d659fbc71f8758c4a69a5ca24b717da78970f0#rd)  
-- [2023-10-18-前端“秀肌肉”，云端-Photoshop-亮相](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522620&idx=1&sn=c476526e5ddcf06db3bf667700d02791&chksm=f9522c7fce25a569396229ea46b4cf7f774561aa8073faf9bbcbdb3b4e97aed786230754213c#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -259,8 +259,8 @@
 </summary>
 
 
-- [2023-12-04-Nginx-简单入门指北不指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=1&sn=6445f0334f5ecd741524ecfe050e8de3&chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd) ![](/assets/new.png)  
-- [2023-12-04-前端文艺复兴：真的需要Pinia吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=2&sn=8b897099c2457fedd589cfd514a3ac9e&chksm=f9928004cee50912157e5dec24758e63342214acdf23ffc85a10aac9d620070caaf3fd11190b#rd) ![](/assets/new.png)  
+- [2023-12-04-Nginx-简单入门指北不指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=1&sn=6445f0334f5ecd741524ecfe050e8de3&chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd)  
+- [2023-12-04-前端文艺复兴：真的需要Pinia吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=2&sn=8b897099c2457fedd589cfd514a3ac9e&chksm=f9928004cee50912157e5dec24758e63342214acdf23ffc85a10aac9d620070caaf3fd11190b#rd)  
 - [2023-12-03-基于Promise.resolve实现Koa请求队列中间件](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517900&idx=2&sn=6937d9d6315c792df0cfbb9de6a95df1&chksm=f992801dcee5090bed854b1438d5e8a7aaeda3a0f9d0de7565f2a8521fbc6376536f5be25db2#rd)  
 - [2023-12-03-代码这样写，谁还敢裁你](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517900&idx=1&sn=24b2b9c74f7aaa8cf22502b2945007ed&chksm=f992801dcee5090bdd24175e8ca9ca2e8fe68443d20526fcea5737542f1ea3f4be1cac9201a6#rd)  
 - [2023-12-01-Vue3-+-Three.js-+-antvG2-实战智慧城市](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517891&idx=1&sn=c90b9b8fbc2cfdad8cb9952226b30c0f&chksm=f9928012cee5090476de64b366085cfc23c41faca27fd104361df2ed83602c747f9b2737f594#rd)  
@@ -445,7 +445,7 @@
 </summary>
 
 
-- [2023-12-04-CSS-实现弧形卡片的-3-种方式](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488631&idx=1&sn=d503326caa0fcc1279fc21f4bef6c4c7&chksm=97c677b8a0b1feae3545e4afecc95a78c6060409a27941fb01b6766b44a57b3a252a4fd6dbe1#rd) ![](/assets/new.png)  
+- [2023-12-04-CSS-实现弧形卡片的-3-种方式](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488631&idx=1&sn=d503326caa0fcc1279fc21f4bef6c4c7&chksm=97c677b8a0b1feae3545e4afecc95a78c6060409a27941fb01b6766b44a57b3a252a4fd6dbe1#rd)  
 - [2023-11-27-CSS-中-rgb-与-rgba-的进化史](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488597&idx=1&sn=2bd54cd093b2b3e2e744ccb00bf62ee4&chksm=97c6779aa0b1fe8c1233c379caebb4fdbe8bdbd4bf3667f0b7d0c7963a0bd9216261a526e6d8#rd)  
 - [2023-11-20-快速了解-CSS-@starting-style-规则](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488558&idx=1&sn=2632480a9d3efcc54f6d2091f3848801&chksm=97c677e1a0b1fef7a107f45a8c6681211661440bb0a8de811e85991d01f78cf10b3008d0bcf5#rd)  
 - [2023-11-13-原生“跨组件”通信方式](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488519&idx=1&sn=05bb09964923d82d5d6a8d6375ff9093&chksm=97c677c8a0b1fede2691a34be452eebbb48f5058ed174da69db2d018da9dc7c34d0eec18abeb#rd)  

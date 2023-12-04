@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-04T07:00:44.522Z</updated>
+    <updated>2023-12-04T10:00:43.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[Nginx 简单入门指北不指南]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517909&amp;idx=1&amp;sn=6445f0334f5ecd741524ecfe050e8de3&amp;chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517909&amp;idx=1&amp;sn=6445f0334f5ecd741524ecfe050e8de3&amp;chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd"/>
+        <updated>2023-12-03T16:00:00.000Z</updated>
+        <published>2023-12-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro + Svelte对阵SvelteKit：优劣详解]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523150&amp;idx=1&amp;sn=989a7e799631ce871fefc2f14e951da3&amp;chksm=f9522e0dce25a71b78f7e154bbae751e52cd739a04bc07c715304f36892390daf21c9c233688#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523150&amp;idx=1&amp;sn=989a7e799631ce871fefc2f14e951da3&amp;chksm=f9522e0dce25a71b78f7e154bbae751e52cd739a04bc07c715304f36892390daf21c9c233688#rd"/>
         <updated>2023-12-03T16:00:00.000Z</updated>
         <published>2023-12-03T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[三年前端还不会配置Nginx，被老板打了，今天一口气学完]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514525&amp;idx=1&amp;sn=05af371135d3f899e642b2cc38a2b0ed&amp;chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514525&amp;idx=1&amp;sn=05af371135d3f899e642b2cc38a2b0ed&amp;chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd"/>
-        <updated>2023-11-26T16:00:00.000Z</updated>
-        <published>2023-11-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尝试实现了国外大佬用Web做出来跨窗口渲染动画效果]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517778&amp;idx=1&amp;sn=fccbdf3d8296570530dcb4100a1e5dfe&amp;chksm=f9928083cee50995e610ec3d4cfcbbcb5288dd3645bce1baa4f1b8269b2d1440c2eb1ca9cf30#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517778&amp;idx=1&amp;sn=fccbdf3d8296570530dcb4100a1e5dfe&amp;chksm=f9928083cee50995e610ec3d4cfcbbcb5288dd3645bce1baa4f1b8269b2d1440c2eb1ca9cf30#rd"/>
         <updated>2023-11-26T16:00:00.000Z</updated>
         <published>2023-11-26T16:00:00.000Z</published>
     </entry>
