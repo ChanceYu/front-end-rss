@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-04 18:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-05 06:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1276,6 +1276,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2023-12-04-2024年了，虚拟DOM该何去何从，会灭亡吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514579&idx=1&sn=e29ceae148db8ac80871f1498f98a868&chksm=eb0781aadc7008bc1df2b653513cc671671fe1a0b9aef739f5fa846e0beb7155188701eabf05#rd) 
 - [2023-11-08-加速-JavaScript-生态系统---Tailwind-CSS](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514436&idx=1&sn=44ab84440adc27ae15a2eaa28dfb7156&chksm=eb07813ddc70082b1890053f33b5678c60f68d11b54a26c4d4db7e250aa38e42772948ccf765#rd) 
 - [2023-10-28-Next.js-14-正式发布，更快、更强、更可靠！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514313&idx=1&sn=9e1b1eecdfa120e6ee098c61d17e832b&chksm=eb0780b0dc7009a650076e2bb414cb7a24afa472156eed0d646241e315236c4e462425be38cc#rd) 
 - [2023-09-26-编写跨运行时的-JavaScript-程序](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514131&idx=1&sn=41772b16dd7cbfdc6a7a453c86065f30&chksm=eb07806adc70097c4f2d7342a844261a55c50f94e04e31cceb402fef545a52fe4d465ba83577#rd) 

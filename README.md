@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-04 18:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-05 06:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +18,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-12-04-Astro-+-Svelte对阵SvelteKit：优劣详解](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523150&idx=1&sn=989a7e799631ce871fefc2f14e951da3&chksm=f9522e0dce25a71b78f7e154bbae751e52cd739a04bc07c715304f36892390daf21c9c233688#rd) ![](/assets/new.png)  
+- [2023-12-04-Astro-+-Svelte对阵SvelteKit：优劣详解](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523150&idx=1&sn=989a7e799631ce871fefc2f14e951da3&chksm=f9522e0dce25a71b78f7e154bbae751e52cd739a04bc07c715304f36892390daf21c9c233688#rd)  
 - [2023-12-01-谷歌推出创新性Web开发工具-Project-IDX，助力开发者构建强大应用](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523147&idx=1&sn=c4d22b2a0e5296c15b1d4edcc6a0d3d9&chksm=f9522e08ce25a71e8eb2dcb1538bd94385d618afea20c77d5d72626069af11237c3c783f84cf#rd)  
 - [2023-11-29-移动开发界囚徒现身说法，审查困境与控制权探讨](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523118&idx=1&sn=0733cee10bf7d80e428b6faf488529db&chksm=f9522e6dce25a77bb638f85c85fb0bfbb652d579863ba7ae52b46bf26bcc2ec50c96c1a0bc9c#rd)  
 - [2023-11-27-手把手教你在JavaScript中使用LangChain，解锁AI应用能力](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523115&idx=1&sn=51684f3928e8f5566376bb615f55e469&chksm=f9522e68ce25a77e586275a27f9e364c031df727482eb10f225d43aeac3cb251e44fe52a39d1#rd)  
@@ -414,6 +414,7 @@
 </summary>
 
 
+- [2023-12-04-2024年了，虚拟DOM该何去何从，会灭亡吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514579&idx=1&sn=e29ceae148db8ac80871f1498f98a868&chksm=eb0781aadc7008bc1df2b653513cc671671fe1a0b9aef739f5fa846e0beb7155188701eabf05#rd) ![](/assets/new.png)  
 - [2023-12-02-强烈安利9个高质量大厂前端公众号](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514569&idx=1&sn=580d817df7b9ba3cda694fbc44be4d7a&chksm=eb0781b0dc7008a67791ce9fc597f2ab116da0e7ddd7d72d88ab0953097d2221c8fada2db0df#rd)  
 - [2023-11-30-老板让做前端埋点数据可视化，不会咋整！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514554&idx=1&sn=e0b13e4cd85bcfd5caaa40d6c4920360&chksm=eb0781c3dc7008d5310b72c55eb7a74c952148871b87c5ea39a7bd3bcf86f002fcc8d5759291#rd)  
 - [2023-11-29-优-雅-被-裁](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514549&idx=1&sn=3c3f9a482514ee4d84b2e21078dbfcfb&chksm=eb0781ccdc7008da9895ddf88a45e2995e4e1fe37dc0f881363daaca480b58308bfa59bef608#rd)  
@@ -433,7 +434,6 @@
 - [2023-11-08-加速-JavaScript-生态系统---Tailwind-CSS](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514436&idx=1&sn=44ab84440adc27ae15a2eaa28dfb7156&chksm=eb07813ddc70082b1890053f33b5678c60f68d11b54a26c4d4db7e250aa38e42772948ccf765#rd)  
 - [2023-11-07-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514409&idx=1&sn=4fe36a9e39b38a1ef34fa52d337654c5&chksm=eb078150dc700846a50fe638b90c270bdce41877037d606e6460cab66f00be8851e184a66bfe#rd)  
 - [2023-11-06-推荐13款常用的Vscode插件，提高前端日常开发效率](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514434&idx=1&sn=f3116715e8afc4b9a4627eea7be3d2c8&chksm=eb07813bdc70082d43a30e81f0acf9cce1cf5ca6641a313d9be5f658052723f5ec6a070c8973#rd)  
-- [2023-11-02-Vue3-终于崛起了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514393&idx=1&sn=25cc650ab8ead9554790a1e19440e192&chksm=eb078160dc700876635cb2b9b69b040c18837bf2720a188b3c5f31a79205fd05f4ff05a3bfb4#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
