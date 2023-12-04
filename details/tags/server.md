@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-04 12:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-04 15:00:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -97,6 +97,7 @@
 - [2022-04-06-深层次业务场景打造属于自己的命令行编译工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062366&idx=2&sn=8255fbd8cd20b5ee0e329f5ebddd7e87&chksm=87c4274eb0b3ae58ca468e0a58012d408fb622f0817280d78980080f0530fa95b0df5c2111ed#rd) 
 - [2022-03-24-平均年薪50.8万，Python工程师拿下这个证书有多吃香？！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062096&idx=1&sn=9119e1e985127a46d31a15a1be27bf87&chksm=87c42440b0b3ad56b5a406d56d41806e1edc761a4ce4b8d2bc3d90cdf1b457ffa4110a48e768#rd) 
 - [2022-03-21-不懂SSR做什么高级前端开发？3天搞定面试加分项！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061958&idx=1&sn=aa6920f7f9bf8cbcdae9a60cd5d1d40e&chksm=87c425d6b0b3acc06a1e561cc1989f5bb6ae52eeae9a6bd553a9dd67b2e63358a5b540ed289a#rd) 
+- [2023-12-04-Nginx-简单入门指北不指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=1&sn=6445f0334f5ecd741524ecfe050e8de3&chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd) 
 - [2023-11-11-99%的时间里只使用这-14-个-Git-命令就够了！！！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517292&idx=2&sn=0749c13d92d103b6fab819b073d86700&chksm=f99282bdcee50bab23f82b11a02bc9cfcb2b46e8b43508c0aa63fd2b78c9cecec92bc90285b7#rd) 
 - [2023-10-25-写给高级前端的-Nginx-知识，一网打尽！！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516759&idx=1&sn=1156876ebec45c1a0777b95460444505&chksm=f9928486cee50d904d64778618ed94ed7b4eb4f614f863174e82b7fde2e61ce3a68c284c6ba6#rd) 
 - [2023-08-24-Nginx反向代理技巧](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515835&idx=2&sn=3780669074e2b70e4fa693430a5a4fae&chksm=f992b86acee5317c4b9d9afbe6c4b61c08f3496af58caa246b96e464001ef1f146ac4d676bff#rd) 
