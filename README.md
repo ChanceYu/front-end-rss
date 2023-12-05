@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-05 18:00:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-05 23:08:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513) ![](/assets/new.png)  
 - [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512)  
 - [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)  
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
@@ -61,7 +62,6 @@
 - [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)  
 - [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)  
-- [2023-07-04-Deno-wants-us-to-ditch-CommonJS](https://nodeweekly.com/issues/493)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-12-05-前端终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617665&idx=1&sn=301de4f221d320f60a469ae86924310c&chksm=8022ae40b755275642c2823e8018a7826b0a24c31c51f1e762c02ae76e4b6d21193a8f1a89cf#rd) ![](/assets/new.png)  
-- [2023-12-05-JavaScript新数组方法介绍，不更改原数据的数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617665&idx=2&sn=03ccb83e99ac6b3501f400f574d9f2dd&chksm=8022ae40b75527566faaa7ee0767798ac6b8075e319e3188e2e75275c323869438ded092ecc1#rd) ![](/assets/new.png)  
+- [2023-12-05-前端终于要破局了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617665&idx=1&sn=301de4f221d320f60a469ae86924310c&chksm=8022ae40b755275642c2823e8018a7826b0a24c31c51f1e762c02ae76e4b6d21193a8f1a89cf#rd)  
+- [2023-12-05-JavaScript新数组方法介绍，不更改原数据的数](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617665&idx=2&sn=03ccb83e99ac6b3501f400f574d9f2dd&chksm=8022ae40b75527566faaa7ee0767798ac6b8075e319e3188e2e75275c323869438ded092ecc1#rd)  
 - [2023-12-04-详解-Module-Federation-的实现原理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617653&idx=2&sn=fdc3cd0abdb1080c70727494f23e2053&chksm=8022aeb4b75527a226d9297c75d4592848f658226bc36d74b3f404538b210032969c80f2bd93#rd)  
 - [2023-12-04-留给谷歌的时间不多了：18年老员工辞职炮轰领导层](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617653&idx=1&sn=09aaf9fe2595427c54bdbdcf341d9f06&chksm=8022aeb4b75527a241a83684ea9cff1a10f36bfb60cbf71a5b41cff32bd90891b2be4fd4df9f#rd)  
 - [2023-12-03-嘿，vue中keep-alive有个「大坑」你可能还不知道](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617649&idx=2&sn=75b26782088ca7f0e35cde4152dab95f&chksm=8022aeb0b75527a60155af1426c9e634a998b09ad2878aa8f3fc74712e48d07e7349cb4102e8#rd)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-05T10:00:47.472Z</updated>
+    <updated>2023-12-05T15:08:57.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[【第3132期】结合 React Fiber 结构与 chrome 插件，谈谈无侵入自动化表单的技术尝试]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267794&amp;idx=1&amp;sn=ee25aefbd8b67a9bda47771995241c42&amp;chksm=bd48fb568a3f7240a6c5d4eb44de6dcf880280b2a820aaa84927013ce7b7e5dc596f2f5e2083#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267794&amp;idx=1&amp;sn=ee25aefbd8b67a9bda47771995241c42&amp;chksm=bd48fb568a3f7240a6c5d4eb44de6dcf880280b2a820aaa84927013ce7b7e5dc596f2f5e2083#rd"/>
+        <updated>2023-12-04T16:00:00.000Z</updated>
+        <published>2023-12-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100,000 stars within reach for Node]]></title>
+        <id>https://nodeweekly.com/issues/513</id>
+        <link href="https://nodeweekly.com/issues/513"/>
         <updated>2023-12-04T16:00:00.000Z</updated>
         <published>2023-12-04T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[嘿，vue中keep-alive有个「大坑」你可能还不知道]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517793&amp;idx=2&amp;sn=751e0ad44f36a0c0d9688fd8ebb477bd&amp;chksm=f99280b0cee509a69e02edf3adbb304da06ae464de449a02fb87ff03c8f776560660e66cd828#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517793&amp;idx=2&amp;sn=751e0ad44f36a0c0d9688fd8ebb477bd&amp;chksm=f99280b0cee509a69e02edf3adbb304da06ae464de449a02fb87ff03c8f776560660e66cd828#rd"/>
-        <updated>2023-11-27T16:00:00.000Z</updated>
-        <published>2023-11-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[真的绝了，通过注释来埋点好简单！！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617603&amp;idx=1&amp;sn=49c79c6d0655dc49737194b065e9bf62&amp;chksm=8022ae82b7552794a9932803c657096d8ed950ee7d41695525e20b5350b27af6c3550d3afa3a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617603&amp;idx=1&amp;sn=49c79c6d0655dc49737194b065e9bf62&amp;chksm=8022ae82b7552794a9932803c657096d8ed950ee7d41695525e20b5350b27af6c3550d3afa3a#rd"/>
         <updated>2023-11-27T16:00:00.000Z</updated>
         <published>2023-11-27T16:00:00.000Z</published>
     </entry>

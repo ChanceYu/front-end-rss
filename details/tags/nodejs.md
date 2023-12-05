@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-05 18:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-05 23:08:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513) 
 - [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511) 
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510) 
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508) 
