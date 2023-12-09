@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-08 10:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-09 15:00:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -557,6 +557,7 @@
 - [2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) 
 - [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html) 
 - [2019-03-25-Grid-布局教程](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html) 
+- [2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html) 
 - [2022-11-18-美团基于-Serverless-的前端研发体系建设和业务实践](http://www.yyyweb.com/5476.html) 
 - [2020-07-12-一行-CSS-代码实现-10-种现代布局](http://www.yyyweb.com/5383.html) 
 - [2020-05-05-15个可以带给你启发的-SVG-动画示例](http://www.yyyweb.com/5363.html) 

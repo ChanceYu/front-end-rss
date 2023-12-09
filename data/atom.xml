@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-08T02:00:45.284Z</updated>
+    <updated>2023-12-09T07:00:58.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[49 个常用且容易遗忘的 CSS 样式清单整理]]></title>
+        <id>http://www.yyyweb.com/5562.html</id>
+        <link href="http://www.yyyweb.com/5562.html"/>
+        <updated>2023-12-08T16:00:00.000Z</updated>
+        <published>2023-12-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 JavaScript 实现一个很牛的扫码功能]]></title>
+        <id>http://www.yyyweb.com/5559.html</id>
+        <link href="http://www.yyyweb.com/5559.html"/>
+        <updated>2023-12-08T16:00:00.000Z</updated>
+        <published>2023-12-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 281 期）：新基建的政策选择]]></title>
         <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html</id>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267748&amp;idx=2&amp;sn=e6f01f23e4e2c28eb286a177bf916c3a&amp;chksm=bd48fb208a3f723631bfb5d475eea7d63db8129261c250f85c04fc0ae9801e6d28ce5219bbd6#rd"/>
         <updated>2023-11-30T16:00:00.000Z</updated>
         <published>2023-11-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老板让做前端埋点数据可视化，不会咋整！？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514554&amp;idx=1&amp;sn=e0b13e4cd85bcfd5caaa40d6c4920360&amp;chksm=eb0781c3dc7008d5310b72c55eb7a74c952148871b87c5ea39a7bd3bcf86f002fcc8d5759291#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514554&amp;idx=1&amp;sn=e0b13e4cd85bcfd5caaa40d6c4920360&amp;chksm=eb0781c3dc7008d5310b72c55eb7a74c952148871b87c5ea39a7bd3bcf86f002fcc8d5759291#rd"/>
-        <updated>2023-11-29T16:00:00.000Z</updated>
-        <published>2023-11-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太顶了！2023最强Web面试题库开源！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517848&amp;idx=1&amp;sn=4d7ab3e6f126a9ddeb132cfdc3b67404&amp;chksm=f9928049cee5095fbe9f6cb5f906511fe9d9cdf1f6f58c64a0b82eaba1a8575cff3e0ed64723#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517848&amp;idx=1&amp;sn=4d7ab3e6f126a9ddeb132cfdc3b67404&amp;chksm=f9928049cee5095fbe9f6cb5f906511fe9d9cdf1f6f58c64a0b82eaba1a8575cff3e0ed64723#rd"/>
-        <updated>2023-11-29T16:00:00.000Z</updated>
-        <published>2023-11-29T16:00:00.000Z</published>
     </entry>
 </feed>
