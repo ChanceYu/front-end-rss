@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-11T07:00:45.330Z</updated>
+    <updated>2023-12-11T10:00:53.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[了解一下全新进化的CSS linear缓冲函数]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488666&amp;idx=1&amp;sn=0b7110467ed15d8072879b2d7b9b009d&amp;chksm=97c67755a0b1fe435f8dfce887223f1b885b0ff94f2d525c225d92f9e7ba13678f93d7b10109#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488666&amp;idx=1&amp;sn=0b7110467ed15d8072879b2d7b9b009d&amp;chksm=97c67755a0b1fe435f8dfce887223f1b885b0ff94f2d525c225d92f9e7ba13678f93d7b10109#rd"/>
+        <updated>2023-12-10T16:00:00.000Z</updated>
+        <published>2023-12-10T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPA 和 React：你并不总是需要服务器端渲染]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523285&amp;idx=1&amp;sn=95cd4e7901248a43b57409c6d159b18a&amp;chksm=f9522e96ce25a78011d35060ededd001e0fc7cb66f0ea3b5f71400517509db951cdc94daab0b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523285&amp;idx=1&amp;sn=95cd4e7901248a43b57409c6d159b18a&amp;chksm=f9522e96ce25a78011d35060ededd001e0fc7cb66f0ea3b5f71400517509db951cdc94daab0b#rd"/>
         <updated>2023-12-10T16:00:00.000Z</updated>
         <published>2023-12-10T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267773&amp;idx=2&amp;sn=504abde125d154586458d106b0c2b0ff&amp;chksm=bd48fb398a3f722f5d1877dc1aa01a590f9c030463df0b0f67c456d265d6e312fb37f5e8bd1d#rd"/>
         <updated>2023-12-02T16:00:00.000Z</updated>
         <published>2023-12-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强烈安利9个高质量大厂前端公众号]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514569&amp;idx=1&amp;sn=580d817df7b9ba3cda694fbc44be4d7a&amp;chksm=eb0781b0dc7008a67791ce9fc597f2ab116da0e7ddd7d72d88ab0953097d2221c8fada2db0df#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514569&amp;idx=1&amp;sn=580d817df7b9ba3cda694fbc44be4d7a&amp;chksm=eb0781b0dc7008a67791ce9fc597f2ab116da0e7ddd7d72d88ab0953097d2221c8fada2db0df#rd"/>
-        <updated>2023-12-01T16:00:00.000Z</updated>
-        <published>2023-12-01T16:00:00.000Z</published>
     </entry>
 </feed>
