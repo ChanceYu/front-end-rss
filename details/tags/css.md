@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-11 12:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-11 15:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -155,6 +155,7 @@
 - [2018-11-03-【第1435期】国际化---通用-LTR/RTL-布局解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230202&idx=1&sn=fb1e6dd2d9784158aab49dff838c34b0#wechat_redirect) 
 - [2018-11-01-【第1433期】CSS3动画实战之多关键帧实现无限循环动效的时间间隔](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230188&idx=1&sn=cf4df6d011479baf30ee5aa90509ca13#wechat_redirect) 
 - [2018-10-15-【第1416期】CSS实现水平垂直居中的1010种方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230058&idx=2&sn=48ca847b32afb02967199d445832020f#wechat_redirect) 
+- [2023-12-11-两行CSS让长列表性能渲染提升7倍！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617694&idx=1&sn=8085adba6c7af9e3c07693aa27ebc140&chksm=8022ae5fb755274966888e777a9af1dd949908eb1faa1141f9100d6addc9d1dbcb1b863fd70d#rd) 
 - [2023-12-01-尝试实现了国外大佬用Web做出来跨窗口渲染动画效果](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617642&idx=1&sn=57260e7bd95deed566fe9a99e4601a10&chksm=8022aeabb75527bdf794af9de9bc310dc43fbab7e9d9a2fbef96b94f3eb31aeade8d18a9c00a#rd) 
 - [2023-10-08-原子CSS引擎——unocss](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616894&idx=2&sn=67793ea8cc98d8bb1eb4e907d4713ed7&chksm=8022a1bfb75528a99a2101772e0d8a8fd41e3e206d1afdaf44f9372095743ff2d207526898f3#rd) 
 - [2023-09-20-纯-CSS-实现十个还不错的-Loading-效果](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616842&idx=2&sn=fe581e02783754abb8b194617c00e3bb&chksm=8022a18bb755289d365a678848e0724bbc7c4ec375f8628a54e4091f00efd975948a987eaec6#rd) 
@@ -200,8 +201,8 @@
 - [2021-05-30-如何写出一套可维护的CSS库？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577125&idx=2&sn=7d954bd225afc31e8405b8bdb69ea734&chksm=80250ce4b75285f2d2dd0025a74ba8b3c48a1d5e4739877a6ba4f3e84a3565d9496649a29182&scene=27#wechat_redirect) 
 - [2021-05-26-有意思！CSS-文字装饰还能这样玩~](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576528&idx=2&sn=9594ee58d1db260e4f107ae4446ce3ea&chksm=80250f11b752860766afd033c08a6c64c2ebcc9b4e0f26c3d878d95f196a57cff8b6e2359f8b&scene=27#wechat_redirect) 
 - [2021-05-09-17-个提升用户体验图像特效库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575696&idx=2&sn=764df3538f323eae94cd362c5f1a5895&chksm=80250251b7528b47b70b34c3b928aac2465d89a07d479adf044241f824969969deba51a0c356&scene=27#wechat_redirect) 
-- [2021-05-04-如何用纯-CSS-实现酷炫的霓虹灯效果？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575262&idx=2&sn=f9fd163b2b0dec46287e874c53ab4c4c&chksm=8025041fb7528d094e95cfbf956a38ceea81606cc6e9c7f6661be705caeced1b6975a76892c1&scene=27#wechat_redirect) 
 - [2021-05-04-【网页特效】丝滑的-macOS-Dock效果](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575262&idx=1&sn=5709143664222ddebe323e10fe972b81&chksm=8025041fb7528d0917b68cc036b7a13a1540b8d48bffb77a991bd190d8eedc0b781b247e619a&scene=27#wechat_redirect) 
+- [2021-05-04-如何用纯-CSS-实现酷炫的霓虹灯效果？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651575262&idx=2&sn=f9fd163b2b0dec46287e874c53ab4c4c&chksm=8025041fb7528d094e95cfbf956a38ceea81606cc6e9c7f6661be705caeced1b6975a76892c1&scene=27#wechat_redirect) 
 - [2021-04-22-字节跳动最爱考的前端面试题：CSS-基础](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651574217&idx=1&sn=afa3d2556bffb52a0c82b663c24c5d35&chksm=80251808b752911ebb8ac29c5b21a07120e4eaaff69588bccbd28abad183631dc9ebca8b70eb&scene=27#wechat_redirect) 
 - [2021-04-15-1.5-万字-CSS-基础拾遗](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651573987&idx=2&sn=4f2f94702969ec9bba66da9cc9559ccf&chksm=80251922b75290349d868bce4d1f41bda407c804a05f7478c40a13a3fa4d796a49370c01895d&scene=27#wechat_redirect) 
 - [2021-03-29-Charts.css：一个数据可视化开源神器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651572787&idx=2&sn=d1e533b70daa1a0607b9f3565ad063d7&chksm=80251df2b75294e4980ec2a419f6e112c9fa77177c63e291ed08ee05fa10dd52582b0965d254&scene=27#wechat_redirect) 
@@ -402,6 +403,7 @@
 - [2023-08-28-2023-CSS-现状调查结果新鲜出炉，带你看看-CSS-生态圈最新技术趋势！](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498492&idx=2&sn=8d4f27ebb2c699b9e3e6f0e0dc4c255c&chksm=c2b33b03f5c4b21513ae36d4de0a554b0a69eb06309626b38b421f852cb5cd28ce0eff472e97#rd) 
 - [2023-05-25-探秘-CSS-选择器世界](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498036&idx=1&sn=e6a97210b1c1007e760077c07e921f82&chksm=c2b338cbf5c4b1dd9fab823179ae8eb4f8897171cba9b19ae0f9c2a594688eccfc5200cad743#rd) 
 - [2023-10-26-原子化真的是现代前端-CSS-的救星吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514305&idx=2&sn=d8b380701e42077edeb39cae5d861b4b&chksm=eb0780b8dc7009ae5b995737383a0a277b63a55f5271d44b255ce250358b290b9b55d21ec4cf#rd) 
+- [2023-12-11-了解一下全新进化的CSS-linear缓冲函数](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488666&idx=1&sn=0b7110467ed15d8072879b2d7b9b009d&chksm=97c67755a0b1fe435f8dfce887223f1b885b0ff94f2d525c225d92f9e7ba13678f93d7b10109#rd) 
 - [2023-12-04-CSS-实现弧形卡片的-3-种方式](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488631&idx=1&sn=d503326caa0fcc1279fc21f4bef6c4c7&chksm=97c677b8a0b1feae3545e4afecc95a78c6060409a27941fb01b6766b44a57b3a252a4fd6dbe1#rd) 
 - [2023-11-27-CSS-中-rgb-与-rgba-的进化史](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488597&idx=1&sn=2bd54cd093b2b3e2e744ccb00bf62ee4&chksm=97c6779aa0b1fe8c1233c379caebb4fdbe8bdbd4bf3667f0b7d0c7963a0bd9216261a526e6d8#rd) 
 - [2023-11-20-快速了解-CSS-@starting-style-规则](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488558&idx=1&sn=2632480a9d3efcc54f6d2091f3848801&chksm=97c677e1a0b1fef7a107f45a8c6681211661440bb0a8de811e85991d01f78cf10b3008d0bcf5#rd) 
