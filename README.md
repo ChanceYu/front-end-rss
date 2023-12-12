@@ -10,18 +10,18 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-12 21:00:58，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-12 23:00:53，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514) ![](/assets/new.png)  
 - [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)  
 - [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512)  
 - [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)  
@@ -61,7 +62,6 @@
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)  
 - [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
 - [2023-07-18-Automating-code-updates-with-codemods](https://nodeweekly.com/issues/495)  
-- [2023-07-11-Simple-tests-for-dark-scenarios](https://nodeweekly.com/issues/494)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-12-12-【第3139期】Reac状态管理比较与原理实现.-Redux,Zustand,Jotai,Recoil,-MobX,Valtio](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267933&idx=1&sn=ca5be3863146a51d59656775ea9aeef3&chksm=bd48fad98a3f73cf16f759a035b955686de096276c360ee98354dd020f6093a1d3278de212c6#rd) ![](/assets/new.png)  
-- [2023-12-12-【图书】计算](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267933&idx=2&sn=c790d1e44cc2b23297baf9f14e7510b2&chksm=bd48fad98a3f73cffcac5fc185590fed80c61a3989be4468a504b1c2e4dad503cb21841c8943#rd) ![](/assets/new.png)  
+- [2023-12-12-【第3139期】Reac状态管理比较与原理实现.-Redux,Zustand,Jotai,Recoil,-MobX,Valtio](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267933&idx=1&sn=ca5be3863146a51d59656775ea9aeef3&chksm=bd48fad98a3f73cf16f759a035b955686de096276c360ee98354dd020f6093a1d3278de212c6#rd)  
+- [2023-12-12-【图书】计算](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267933&idx=2&sn=c790d1e44cc2b23297baf9f14e7510b2&chksm=bd48fad98a3f73cffcac5fc185590fed80c61a3989be4468a504b1c2e4dad503cb21841c8943#rd)  
 - [2023-12-11-【小册】Web-动画之旅：Web艺术的灵魂](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=2&sn=7925667d012b7471e0d3e56ab3d7aee8&chksm=bd48facd8a3f73db8536f4bd7e1bd1e0d44edc9d55ef8e23c146d8178a026accfdfa5cb9634c#rd)  
 - [2023-12-11-【第3138期】快速了解-CSS-@starting-style-规则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=1&sn=1f5dec34f4b7fa3b7aef8572544d924d&chksm=bd48facd8a3f73db4dff037ae5735082a06f323f9ffc65079ab51b98c10ea56896fc38e88d67#rd)  
 - [2023-12-10-【第3137期】OpenTiny跨框架组件如何适配微前端](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267909&idx=1&sn=42e18d4d0eec9ac861089950d79eedd0&chksm=bd48fac18a3f73d7d52f9f323bac81f9a9cd4aa6ca3d0721f4a38bbf2479f43a82341bc9be6b#rd)  
@@ -259,26 +259,26 @@
 </summary>
 
 
-- [2023-12-07-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517928&idx=1&sn=359b2b68d63a044ae16a296ff6af7449&chksm=f9928039cee5092fda8935aae6c1f12d3a3e216c1e5d9c70ee034e50a2b1ba3e84ac425b5df2#rd)  
+- [2023-12-12-一把糖。](https://mp.weixin.qq.com/s?__biz=MzUxMTQ4MTk5MA==&mid=2247566379&idx=1&sn=373b55cd88fd709f9630827018f25ad5&chksm=f97085c2ce070cd4b6ee48f2a0a601a3c5daa1af594d63579a91910057a23319ed99f5a40e81#rd) ![](/assets/new.png)  
+- [2023-12-12-【全名师阵容，开课啦】2024省考行测高分计划（理论基础+刷题冲刺）​](https://mp.weixin.qq.com/s?__biz=MzU3OTcyMDE1NA==&mid=2247501078&idx=2&sn=f17e6022a4da1027046c32798ddf8d1c&chksm=fd6343a3ca14cab509044588b372ddc1296354649cacac4bae66d5d2e8d5a7037de150e26ab4#rd) ![](/assets/new.png)  
 - [2023-12-07-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517928&idx=2&sn=0dda80a476406f07b3746607d6d3a086&chksm=f9928039cee5092f06f72ebd2f06f0e198e21435883510e611c4eff922dff438ee554f65dab5#rd)  
+- [2023-12-07-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517928&idx=1&sn=359b2b68d63a044ae16a296ff6af7449&chksm=f9928039cee5092fda8935aae6c1f12d3a3e216c1e5d9c70ee034e50a2b1ba3e84ac425b5df2#rd)  
 - [2023-12-06-前端开发者们，这些知识tips你必须知道](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517919&idx=1&sn=a09e311386f6fa567214a57082eaa7c8&chksm=f992800ecee50918b16b18372c55fd8ebbf0ce2e957e9528b0a518ab82e0730d25fb8b26ef47#rd)  
-- [2023-12-05-用了那么久的-CSS-，但你还是不懂它](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517915&idx=2&sn=46a659236f350d0db5cb607fee699124&chksm=f992800acee5091c10d22212caf9eb39c0038a3643770744272511be39db69c8587f35cf2ef3#rd)  
 - [2023-12-05-22个实用的CSS技巧，让你的网站脱颖而出](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517915&idx=1&sn=f9fd3489621a70e2164094a1db01940f&chksm=f992800acee5091c02626942c0dca78f1a9ad0e30a55fcbee759df9d201539aa5149565761e4#rd)  
-- [2023-12-04-Nginx-简单入门指北不指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=1&sn=6445f0334f5ecd741524ecfe050e8de3&chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd)  
+- [2023-12-05-用了那么久的-CSS-，但你还是不懂它](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517915&idx=2&sn=46a659236f350d0db5cb607fee699124&chksm=f992800acee5091c10d22212caf9eb39c0038a3643770744272511be39db69c8587f35cf2ef3#rd)  
 - [2023-12-04-前端文艺复兴：真的需要Pinia吗？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=2&sn=8b897099c2457fedd589cfd514a3ac9e&chksm=f9928004cee50912157e5dec24758e63342214acdf23ffc85a10aac9d620070caaf3fd11190b#rd)  
-- [2023-12-03-基于Promise.resolve实现Koa请求队列中间件](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517900&idx=2&sn=6937d9d6315c792df0cfbb9de6a95df1&chksm=f992801dcee5090bed854b1438d5e8a7aaeda3a0f9d0de7565f2a8521fbc6376536f5be25db2#rd)  
+- [2023-12-04-Nginx-简单入门指北不指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=1&sn=6445f0334f5ecd741524ecfe050e8de3&chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd)  
 - [2023-12-03-代码这样写，谁还敢裁你](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517900&idx=1&sn=24b2b9c74f7aaa8cf22502b2945007ed&chksm=f992801dcee5090bdd24175e8ca9ca2e8fe68443d20526fcea5737542f1ea3f4be1cac9201a6#rd)  
+- [2023-12-03-基于Promise.resolve实现Koa请求队列中间件](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517900&idx=2&sn=6937d9d6315c792df0cfbb9de6a95df1&chksm=f992801dcee5090bed854b1438d5e8a7aaeda3a0f9d0de7565f2a8521fbc6376536f5be25db2#rd)  
 - [2023-12-01-Vue3-+-Three.js-+-antvG2-实战智慧城市](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517891&idx=1&sn=c90b9b8fbc2cfdad8cb9952226b30c0f&chksm=f9928012cee5090476de64b366085cfc23c41faca27fd104361df2ed83602c747f9b2737f594#rd)  
-- [2023-11-30-前端:从零到一,-轻松把自己的网站部署到服务器](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517848&idx=2&sn=e6f3bfc59732ba0127ebd68f1bf2e35b&chksm=f9928049cee5095fdbabdb17a75b55ff7fb659b4e3189241196267a11b8eeff5699cdaafb82c#rd)  
 - [2023-11-30-太顶了！2023最强Web面试题库开源！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517848&idx=1&sn=4d7ab3e6f126a9ddeb132cfdc3b67404&chksm=f9928049cee5095fbe9f6cb5f906511fe9d9cdf1f6f58c64a0b82eaba1a8575cff3e0ed64723#rd)  
-- [2023-11-29-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517840&idx=1&sn=f7149f260c7e02f91e7ff9541496c12d&chksm=f9928041cee50957278dc9b49bab1350a2318d88d87b1a15517802eea1b201e1880d8a81a47f#rd)  
+- [2023-11-30-前端:从零到一,-轻松把自己的网站部署到服务器](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517848&idx=2&sn=e6f3bfc59732ba0127ebd68f1bf2e35b&chksm=f9928049cee5095fdbabdb17a75b55ff7fb659b4e3189241196267a11b8eeff5699cdaafb82c#rd)  
 - [2023-11-29-关于前端低代码平台你需要知道的](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517840&idx=2&sn=56d2751932d2166a7e4ac5d1a94bafa3&chksm=f9928041cee509579f446969fa3827890d4ee82d727aac7c007154bb11111cda54d4e8916736#rd)  
-- [2023-11-28-两行CSS让长列表性能渲染提升7倍！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517793&idx=1&sn=17292c39582d21f4d43d388b8bb2dd1b&chksm=f99280b0cee509a628466dbbde2267660a45eb9193065729a0e5b268f150229c7f46ac2fe7a4#rd)  
+- [2023-11-29-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517840&idx=1&sn=f7149f260c7e02f91e7ff9541496c12d&chksm=f9928041cee50957278dc9b49bab1350a2318d88d87b1a15517802eea1b201e1880d8a81a47f#rd)  
 - [2023-11-28-嘿，vue中keep-alive有个「大坑」你可能还不知道](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517793&idx=2&sn=751e0ad44f36a0c0d9688fd8ebb477bd&chksm=f99280b0cee509a69e02edf3adbb304da06ae464de449a02fb87ff03c8f776560660e66cd828#rd)  
-- [2023-11-27-微前端时代：打造高效、灵活的前端开发体系](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517778&idx=2&sn=30b4546a87b5c2c030e9cbcaddfc0623&chksm=f9928083cee509954d484b89efbfd36aa33df0618da438a06a44afd7b92dcf31d6c34046bf30#rd)  
+- [2023-11-28-两行CSS让长列表性能渲染提升7倍！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517793&idx=1&sn=17292c39582d21f4d43d388b8bb2dd1b&chksm=f99280b0cee509a628466dbbde2267660a45eb9193065729a0e5b268f150229c7f46ac2fe7a4#rd)  
 - [2023-11-27-尝试实现了国外大佬用Web做出来跨窗口渲染动画效果](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517778&idx=1&sn=fccbdf3d8296570530dcb4100a1e5dfe&chksm=f9928083cee50995e610ec3d4cfcbbcb5288dd3645bce1baa4f1b8269b2d1440c2eb1ca9cf30#rd)  
-- [2023-11-25-强烈安利9个高质量大厂前端的公众号](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517759&idx=1&sn=1679d1b05636567d06628d08cf42b58b&chksm=f99280eecee509f8e60e85ce0b3fefd8cb9af1744eda8974f2efae02768c571d27802eb0eee3#rd)  
-- [2023-11-25-字节面试：如何实现准时的setTimeout](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517759&idx=2&sn=5f6620b39701a67bc0f909010c939918&chksm=f99280eecee509f8d906803389a8f4416d281f43167ea93e86e7ad769e8cbad71a61d296d101#rd)  
+- [2023-11-27-微前端时代：打造高效、灵活的前端开发体系](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517778&idx=2&sn=30b4546a87b5c2c030e9cbcaddfc0623&chksm=f9928083cee509954d484b89efbfd36aa33df0618da438a06a44afd7b92dcf31d6c34046bf30#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
