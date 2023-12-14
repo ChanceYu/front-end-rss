@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2023-12-08 06:00:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-14 23:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667) 
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666) 
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665) 
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664) 

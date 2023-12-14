@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-14 18:00:46，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-14 23:01:05，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667) ![](/assets/new.png)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
@@ -92,7 +93,6 @@
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
 - [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
-- [2023-07-13-htmx-in-100-seconds](https://javascriptweekly.com/issues/647)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -105,7 +105,7 @@
 
 
 - [2023-12-14-【早说】人的生活其实就是一种心情,一种感受](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267955&idx=2&sn=ded0887fc0bd14602b69fcaf9a2b0b9d&chksm=bd48faf78a3f73e19817bdb2e7b4b6d3c3e701b3445fd87884566aec1a180791b612dd4ba47b#rd)  
-- [2023-12-14-【第3141期】Ant-Design-Mini-支持微信小程序啦](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267955&idx=1&sn=9914c8474ed4661676111026ed544166&chksm=bd48faf78a3f73e1657100cd556f7c74afd34b363b5f36c43e90072787ebf08285c59f18818e#rd) ![](/assets/new.png)  
+- [2023-12-14-【第3141期】Ant-Design-Mini-支持微信小程序啦](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267955&idx=1&sn=9914c8474ed4661676111026ed544166&chksm=bd48faf78a3f73e1657100cd556f7c74afd34b363b5f36c43e90072787ebf08285c59f18818e#rd)  
 - [2023-12-13-【第3140期】在-Console-中更直观地展示-Reactive-Objects](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267945&idx=1&sn=75e5438f8084a13040e92ec28025b4e0&chksm=bd48faed8a3f73fb95f50700934ca9259ecafabe54bc0cd6837c26afd9a777f19bf6d6e98ef6#rd)  
 - [2023-12-13-【早说】少年当抑其踔操心,老成当振其惰气](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267945&idx=2&sn=9aadb723346ce7e3b31a8f78749dafab&chksm=bd48faed8a3f73fb1051f03f83b4a01ae5294afff04be9c645122207330f16f44187034fa8f6#rd)  
 - [2023-12-12-【图书】计算](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267933&idx=2&sn=c790d1e44cc2b23297baf9f14e7510b2&chksm=bd48fad98a3f73cffcac5fc185590fed80c61a3989be4468a504b1c2e4dad503cb21841c8943#rd)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-12-14-Firefox或将被淘汰](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=1&sn=d00aeeaa1f4ea1abdfe311b956d20cfc&chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd) ![](/assets/new.png)  
-- [2023-12-14-前端项目重构的深度思考和复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=2&sn=8abaceb2203bc1ab4f9fce8812a112d4&chksm=8022ae7ab755276ca2fa5f4ade84389a694814fdd67d158d741ffa63bc80ad0159c137d4e3d1#rd) ![](/assets/new.png)  
+- [2023-12-14-Firefox或将被淘汰](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=1&sn=d00aeeaa1f4ea1abdfe311b956d20cfc&chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd)  
+- [2023-12-14-前端项目重构的深度思考和复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=2&sn=8abaceb2203bc1ab4f9fce8812a112d4&chksm=8022ae7ab755276ca2fa5f4ade84389a694814fdd67d158d741ffa63bc80ad0159c137d4e3d1#rd)  
 - [2023-12-13-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617721&idx=1&sn=07debd017821c2c88ad0fce99b0a491b&chksm=8022ae78b755276ecf2fbbc2bdb13ff21ba8e6b4f3100c1f3a8a59f56bffa396476fbd212f45#rd)  
 - [2023-12-13-微前端项目难点解决](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617721&idx=2&sn=70a5472b10c69387e33b0d66b2670ceb&chksm=8022ae78b755276e71371c8fe5534201e30fd76d7826ac6d195f2e3580ac617df58c822f693e#rd)  
 - [2023-12-11-前端开发，实现B站首页动态banner](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617694&idx=2&sn=4455229bff122f46010ba8284d8e0366&chksm=8022ae5fb75527498253e6e9bc69fa2619dc81bb56a478f5fab46ba3e3f6becde4460d5050b2#rd)  
@@ -414,10 +414,11 @@
 </summary>
 
 
-- [2023-12-13-今年这情况，我劝前端人还是多留一手准备吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=1&sn=17f471561cc9e00117a793dc77ea5f3d&chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd)  
+- [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd) ![](/assets/new.png)  
 - [2023-12-13-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=2&sn=c3ee650498e8c9b19e38ba1a74945cbe&chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd)  
-- [2023-12-12-了解前端新框架-nue.js](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=2&sn=b89ce2f889ecc61a88b11bc86c9a6538&chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd)  
+- [2023-12-13-今年这情况，我劝前端人还是多留一手准备吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=1&sn=17f471561cc9e00117a793dc77ea5f3d&chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd)  
 - [2023-12-12-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=1&sn=40845cc8a6f6c6a07a9560233259b414&chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd)  
+- [2023-12-12-了解前端新框架-nue.js](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=2&sn=b89ce2f889ecc61a88b11bc86c9a6538&chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd)  
 - [2023-12-07-真的绝了！前端靠这个直接稳了…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514596&idx=1&sn=bd522c1b2f6fd10bcb1369c8349e2753&chksm=eb07819ddc70088b741ebc1054eaf61d8c53ef037296bd36f96c1d9f8d354fc35951ee498a45#rd)  
 - [2023-12-06-悄无声息间，你的-DOM-被劫持了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514582&idx=1&sn=6b7bbffefd7cf9aee908c86d22b6d2c1&chksm=eb0781afdc7008b951247e5b80efee40d92c5a9bdc548c3c2268c975bf32c6323b429a0fee99#rd)  
 - [2023-12-04-2024年了，虚拟DOM该何去何从，会灭亡吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514579&idx=1&sn=e29ceae148db8ac80871f1498f98a868&chksm=eb0781aadc7008bc1df2b653513cc671671fe1a0b9aef739f5fa846e0beb7155188701eabf05#rd)  
@@ -433,7 +434,6 @@
 - [2023-11-21-双向绑定与单向数据流之争，Solid会取代React吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514474&idx=1&sn=35c7713ce5caa587b2e52437ff7ba971&chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd)  
 - [2023-11-16-Monorepo-仓库代码质量提升实践](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514469&idx=1&sn=2597848019f60f37973a313791173f54&chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd)  
 - [2023-11-15-Webpack-性能优化-二次编译速度提升3倍！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514464&idx=1&sn=e838cf9490daacfc3e9ecd02f10b4d2e&chksm=eb078119dc70080f649f74e33318797e531842131cfdb12e222e342d9bb15ac0e1832df8cc2c#rd)  
-- [2023-11-14-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514461&idx=1&sn=899d8073269d6fbbfef867d093b928c0&chksm=eb078124dc700832b85a81b77104eb9b92440c4ce84dcb0989b1036054ee25667e16956f4e17#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

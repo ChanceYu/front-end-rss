@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-14T10:00:48.384Z</updated>
+    <updated>2023-12-14T15:01:07.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[在转转直播模块接入 xgplayer 的经验，完美运行！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514626&amp;idx=1&amp;sn=1549ca9fa01888e52fa3b576363a90d5&amp;chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514626&amp;idx=1&amp;sn=1549ca9fa01888e52fa3b576363a90d5&amp;chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd"/>
+        <updated>2023-12-13T16:00:00.000Z</updated>
+        <published>2023-12-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端项目重构的深度思考和复盘]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617723&amp;idx=2&amp;sn=8abaceb2203bc1ab4f9fce8812a112d4&amp;chksm=8022ae7ab755276ca2fa5f4ade84389a694814fdd67d158d741ffa63bc80ad0159c137d4e3d1#rd</id>
@@ -43,16 +50,23 @@
         <published>2023-12-13T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深入浅出 Vite5 中依赖预构建]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=2&amp;sn=c3ee650498e8c9b19e38ba1a74945cbe&amp;chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=2&amp;sn=c3ee650498e8c9b19e38ba1a74945cbe&amp;chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd"/>
-        <updated>2023-12-12T16:00:00.000Z</updated>
-        <published>2023-12-12T16:00:00.000Z</published>
+        <title type="html"><![CDATA[JS Runtime Royale]]></title>
+        <id>https://javascriptweekly.com/issues/667</id>
+        <link href="https://javascriptweekly.com/issues/667"/>
+        <updated>2023-12-13T16:00:00.000Z</updated>
+        <published>2023-12-13T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[今年这情况，我劝前端人还是多留一手准备吧！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=1&amp;sn=17f471561cc9e00117a793dc77ea5f3d&amp;chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=1&amp;sn=17f471561cc9e00117a793dc77ea5f3d&amp;chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd"/>
+        <updated>2023-12-12T16:00:00.000Z</updated>
+        <published>2023-12-12T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入浅出 Vite5 中依赖预构建]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=2&amp;sn=c3ee650498e8c9b19e38ba1a74945cbe&amp;chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=2&amp;sn=c3ee650498e8c9b19e38ba1a74945cbe&amp;chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd"/>
         <updated>2023-12-12T16:00:00.000Z</updated>
         <published>2023-12-12T16:00:00.000Z</published>
     </entry>
@@ -92,16 +106,16 @@
         <published>2023-12-12T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=1&amp;sn=40845cc8a6f6c6a07a9560233259b414&amp;chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=1&amp;sn=40845cc8a6f6c6a07a9560233259b414&amp;chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd"/>
+        <title type="html"><![CDATA[了解前端新框架-nue.js]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=2&amp;sn=b89ce2f889ecc61a88b11bc86c9a6538&amp;chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=2&amp;sn=b89ce2f889ecc61a88b11bc86c9a6538&amp;chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd"/>
         <updated>2023-12-11T16:00:00.000Z</updated>
         <published>2023-12-11T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[了解前端新框架-nue.js]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=2&amp;sn=b89ce2f889ecc61a88b11bc86c9a6538&amp;chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=2&amp;sn=b89ce2f889ecc61a88b11bc86c9a6538&amp;chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd"/>
+        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=1&amp;sn=40845cc8a6f6c6a07a9560233259b414&amp;chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=1&amp;sn=40845cc8a6f6c6a07a9560233259b414&amp;chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd"/>
         <updated>2023-12-11T16:00:00.000Z</updated>
         <published>2023-12-11T16:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[22个实用的CSS技巧，让你的网站脱颖而出]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517915&amp;idx=1&amp;sn=f9fd3489621a70e2164094a1db01940f&amp;chksm=f992800acee5091c02626942c0dca78f1a9ad0e30a55fcbee759df9d201539aa5149565761e4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247517915&amp;idx=1&amp;sn=f9fd3489621a70e2164094a1db01940f&amp;chksm=f992800acee5091c02626942c0dca78f1a9ad0e30a55fcbee759df9d201539aa5149565761e4#rd"/>
-        <updated>2023-12-04T16:00:00.000Z</updated>
-        <published>2023-12-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端终于要破局了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617665&amp;idx=1&amp;sn=301de4f221d320f60a469ae86924310c&amp;chksm=8022ae40b755275642c2823e8018a7826b0a24c31c51f1e762c02ae76e4b6d21193a8f1a89cf#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617665&amp;idx=1&amp;sn=301de4f221d320f60a469ae86924310c&amp;chksm=8022ae40b755275642c2823e8018a7826b0a24c31c51f1e762c02ae76e4b6d21193a8f1a89cf#rd"/>
-        <updated>2023-12-04T16:00:00.000Z</updated>
-        <published>2023-12-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript新数组方法介绍，不更改原数据的数]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617665&amp;idx=2&amp;sn=03ccb83e99ac6b3501f400f574d9f2dd&amp;chksm=8022ae40b75527566faaa7ee0767798ac6b8075e319e3188e2e75275c323869438ded092ecc1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617665&amp;idx=2&amp;sn=03ccb83e99ac6b3501f400f574d9f2dd&amp;chksm=8022ae40b75527566faaa7ee0767798ac6b8075e319e3188e2e75275c323869438ded092ecc1#rd"/>
         <updated>2023-12-04T16:00:00.000Z</updated>
         <published>2023-12-04T16:00:00.000Z</published>
     </entry>
