@@ -10,15 +10,15 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-15 18:00:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-16 15:00:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -135,8 +135,8 @@
 </summary>
 
 
-- [2023-12-15-前端组长应该如何管理前端团队](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=1&sn=e0153496371690ce959fba0278e7ad6a&chksm=8022ae7db755276b695af17682da3573ca062a73b7f18c1dc6eb6f396978153789d9a6f8bb74#rd) ![](/assets/new.png)  
-- [2023-12-15-浅析-React-Fiber-架构](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=2&sn=3fe8046ee42e0d5d9bec4fc94c522392&chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd) ![](/assets/new.png)  
+- [2023-12-15-前端组长应该如何管理前端团队](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=1&sn=e0153496371690ce959fba0278e7ad6a&chksm=8022ae7db755276b695af17682da3573ca062a73b7f18c1dc6eb6f396978153789d9a6f8bb74#rd)  
+- [2023-12-15-浅析-React-Fiber-架构](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=2&sn=3fe8046ee42e0d5d9bec4fc94c522392&chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd)  
 - [2023-12-14-前端项目重构的深度思考和复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=2&sn=8abaceb2203bc1ab4f9fce8812a112d4&chksm=8022ae7ab755276ca2fa5f4ade84389a694814fdd67d158d741ffa63bc80ad0159c137d4e3d1#rd)  
 - [2023-12-14-Firefox或将被淘汰](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=1&sn=d00aeeaa1f4ea1abdfe311b956d20cfc&chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd)  
 - [2023-12-13-微前端项目难点解决](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617721&idx=2&sn=70a5472b10c69387e33b0d66b2670ceb&chksm=8022ae78b755276e71371c8fe5534201e30fd76d7826ac6d195f2e3580ac617df58c822f693e#rd)  
@@ -166,6 +166,7 @@
 </summary>
 
 
+- [2023-12-15-突破-ToB-前端开发场景中的-antd-Table-性能瓶颈](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523375&idx=1&sn=151d05dc5daf4856e195597edd26e982&chksm=f952296cce25a07a3f9666ab33e83910a14bcc85751218abef7c6236853c87056611cbd0813e#rd) ![](/assets/new.png)  
 - [2023-12-13-展望2024：构建更快、更高效的Web体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523290&idx=1&sn=051b218e6f30af9fbac911cb3d88cd19&chksm=f9522e99ce25a78f0173670f945541c0bd85bd9116f3337cb1bad5c5f652058603b9bd848802#rd)  
 - [2023-12-11-SPA-和-React：你并不总是需要服务器端渲染](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523285&idx=1&sn=95cd4e7901248a43b57409c6d159b18a&chksm=f9522e96ce25a78011d35060ededd001e0fc7cb66f0ea3b5f71400517509db951cdc94daab0b#rd)  
 - [2023-12-08-前端老手10年心得，JavaScript/TypeScript项目保养实用指南](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523250&idx=1&sn=f9b66750d54748a11ddfc7e7e0e39398&chksm=f9522ef1ce25a7e73f3298662e23d254d9c2cc0c259cbd63dded43d3420b319d654b3af1e5c5#rd)  
@@ -185,7 +186,6 @@
 - [2023-11-06-HTTP/3为什么正迅速吞噬世界？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522769&idx=1&sn=2022a209dc557761f84deb81d4dbfaa7&chksm=f9522c92ce25a584e94844561795a9fe25fadf45b7afa57aee72a7ad6614021ddb81d39141af#rd)  
 - [2023-11-03-​反面教材：搞砸Web开发的15种方法](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522756&idx=1&sn=7d7a381fc37b6bdbff64ae6614160dbc&chksm=f9522c87ce25a5917e2c3f121cb8879c67a737b2448daf49ca90168f5bfdc2da13fe8921f200#rd)  
 - [2023-11-01-术业有所专攻，Web组件也是一样](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522744&idx=1&sn=abd6ebf6f47d80294b3ac66cbeb38672&chksm=f9522cfbce25a5edb08941770295e291278a959de734cbb946c11d854deafa5f75c1416495d1#rd)  
-- [2023-10-30-前端所有主流框架，其实都是在自欺欺人](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522743&idx=1&sn=e261bc9fac1bc39aaa32e574e5976e50&chksm=f9522cf4ce25a5e24c61d2d1c24dad275ca5185446a9ff3ebb774a826553ae0383e7ae2c53c7#rd)  
 - [......【查看更多】......](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,11 +414,12 @@
 </summary>
 
 
+- [2023-12-15-2024-年-React-状态管理梳理，以及优劣势分析](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514635&idx=1&sn=c32a072ecad343bf8cd375f098727075&chksm=eb078272dc700b645483cf216fb0c96b6a21545338c486d4832bc5f5789a693bd32521d2b27c#rd) ![](/assets/new.png)  
 - [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd)  
-- [2023-12-13-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=2&sn=c3ee650498e8c9b19e38ba1a74945cbe&chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd)  
 - [2023-12-13-今年这情况，我劝前端人还是多留一手准备吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=1&sn=17f471561cc9e00117a793dc77ea5f3d&chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd)  
-- [2023-12-12-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=1&sn=40845cc8a6f6c6a07a9560233259b414&chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd)  
+- [2023-12-13-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=2&sn=c3ee650498e8c9b19e38ba1a74945cbe&chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd)  
 - [2023-12-12-了解前端新框架-nue.js](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=2&sn=b89ce2f889ecc61a88b11bc86c9a6538&chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd)  
+- [2023-12-12-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=1&sn=40845cc8a6f6c6a07a9560233259b414&chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd)  
 - [2023-12-07-真的绝了！前端靠这个直接稳了…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514596&idx=1&sn=bd522c1b2f6fd10bcb1369c8349e2753&chksm=eb07819ddc70088b741ebc1054eaf61d8c53ef037296bd36f96c1d9f8d354fc35951ee498a45#rd)  
 - [2023-12-06-悄无声息间，你的-DOM-被劫持了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514582&idx=1&sn=6b7bbffefd7cf9aee908c86d22b6d2c1&chksm=eb0781afdc7008b951247e5b80efee40d92c5a9bdc548c3c2268c975bf32c6323b429a0fee99#rd)  
 - [2023-12-04-2024年了，虚拟DOM该何去何从，会灭亡吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514579&idx=1&sn=e29ceae148db8ac80871f1498f98a868&chksm=eb0781aadc7008bc1df2b653513cc671671fe1a0b9aef739f5fa846e0beb7155188701eabf05#rd)  
@@ -433,7 +434,6 @@
 - [2023-11-22-12万字！肝了一套Web前端面试干货](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514488&idx=1&sn=e7067df54b394ca98d8bf923e542aab7&chksm=eb078101dc700817e62ea81bcacdfd3a296296e0af4fa6aec4d558c9101ecd86f35b6993a7c1#rd)  
 - [2023-11-21-双向绑定与单向数据流之争，Solid会取代React吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514474&idx=1&sn=35c7713ce5caa587b2e52437ff7ba971&chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd)  
 - [2023-11-16-Monorepo-仓库代码质量提升实践](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514469&idx=1&sn=2597848019f60f37973a313791173f54&chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd)  
-- [2023-11-15-Webpack-性能优化-二次编译速度提升3倍！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514464&idx=1&sn=e838cf9490daacfc3e9ecd02f10b4d2e&chksm=eb078119dc70080f649f74e33318797e531842131cfdb12e222e342d9bb15ac0e1832df8cc2c#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
