@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-18 10:01:14，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-18 12:00:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -26,8 +26,8 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -104,7 +104,7 @@
 </summary>
 
 
-- [2023-12-18-【第3145期】使用-Taro-开发鸿蒙原生应用-——-探秘适配鸿蒙-ArkTS-的工作原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268067&idx=1&sn=7b5c3dda59627e2f8d9eb946bee82b31&chksm=bd48fa678a3f7371a0365009a6271c6fee04314fb1c69c0c88c455737b23d6cbfe9eb981d271#rd) ![](/assets/new.png)  
+- [2023-12-18-【第3145期】使用-Taro-开发鸿蒙原生应用-——-探秘适配鸿蒙-ArkTS-的工作原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268067&idx=1&sn=7b5c3dda59627e2f8d9eb946bee82b31&chksm=bd48fa678a3f7371a0365009a6271c6fee04314fb1c69c0c88c455737b23d6cbfe9eb981d271#rd)  
 - [2023-12-17-【第3144期】2023年CSS新特性盘点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268063&idx=1&sn=275d824d73102d0dbf743efb8ce126cd&chksm=bd48fa5b8a3f734da9e0f87e75530cf0e06b865fbab4a2f81cc8127387f67fabc635df3110a4#rd)  
 - [2023-12-16-【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd)  
 - [2023-12-15-【招聘】字节跳动基础架构云存储前端团队招前端高级开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267971&idx=2&sn=723589feb0d3d08ff2ebfccb43abbd0f&chksm=bd48fa078a3f731140d355b08221215fb318bc9d289d40d05ecf13d8571234286db42694cc89#rd)  
@@ -414,12 +414,14 @@
 </summary>
 
 
+- [2023-12-18-抱歉，今年我劝各位真的别轻易离职](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514654&idx=1&sn=0a28accc82f196772417fa6483b36439&chksm=eb078267dc700b711b77184c4fd38e62a46fe7031e05b7a5ff853d0fec1cc4e804b323cbf40e#rd) ![](/assets/new.png)  
+- [2023-12-18-Vue-2-即将结束支持，你需要注意这些！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514654&idx=2&sn=1f12d8f715e0e5a31254ada7ef75ce9a&chksm=eb078267dc700b7110d090d2a9e516b7b65f1ed4d9f23f27b08dda62a87aa42039c968b20084#rd) ![](/assets/new.png)  
 - [2023-12-15-2024-年-React-状态管理梳理，以及优劣势分析](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514635&idx=1&sn=c32a072ecad343bf8cd375f098727075&chksm=eb078272dc700b645483cf216fb0c96b6a21545338c486d4832bc5f5789a693bd32521d2b27c#rd)  
 - [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd)  
-- [2023-12-13-今年这情况，我劝前端人还是多留一手准备吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=1&sn=17f471561cc9e00117a793dc77ea5f3d&chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd)  
 - [2023-12-13-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=2&sn=c3ee650498e8c9b19e38ba1a74945cbe&chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd)  
-- [2023-12-12-了解前端新框架-nue.js](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=2&sn=b89ce2f889ecc61a88b11bc86c9a6538&chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd)  
+- [2023-12-13-今年这情况，我劝前端人还是多留一手准备吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=1&sn=17f471561cc9e00117a793dc77ea5f3d&chksm=eb078278dc700b6ee38843bd641266b5d5c445c917c6ebe68abaede9884cabf5d4f26a536a35#rd)  
 - [2023-12-12-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=1&sn=40845cc8a6f6c6a07a9560233259b414&chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd)  
+- [2023-12-12-了解前端新框架-nue.js](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=2&sn=b89ce2f889ecc61a88b11bc86c9a6538&chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd)  
 - [2023-12-07-真的绝了！前端靠这个直接稳了…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514596&idx=1&sn=bd522c1b2f6fd10bcb1369c8349e2753&chksm=eb07819ddc70088b741ebc1054eaf61d8c53ef037296bd36f96c1d9f8d354fc35951ee498a45#rd)  
 - [2023-12-06-悄无声息间，你的-DOM-被劫持了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514582&idx=1&sn=6b7bbffefd7cf9aee908c86d22b6d2c1&chksm=eb0781afdc7008b951247e5b80efee40d92c5a9bdc548c3c2268c975bf32c6323b429a0fee99#rd)  
 - [2023-12-04-2024年了，虚拟DOM该何去何从，会灭亡吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514579&idx=1&sn=e29ceae148db8ac80871f1498f98a868&chksm=eb0781aadc7008bc1df2b653513cc671671fe1a0b9aef739f5fa846e0beb7155188701eabf05#rd)  
@@ -432,8 +434,6 @@
 - [2023-11-25-理性聊聊-GPT-4-Turbo-发布后对程序员失业的影响](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514505&idx=1&sn=897e5d953e3af0ceb07db918318c67a2&chksm=eb0781f0dc7008e6157d694f3407d474f9a47c18ed61e133359a2301c11d2e9d4c39ce38c7c9#rd)  
 - [2023-11-23-三年初心，前端之路：从实习到负责人，我的成长与探索](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514494&idx=1&sn=b3bfb6886998d088c23d4cbb56a2b622&chksm=eb078107dc7008113349041ab72e9d73331e6a1aa09357d1ebbb7fdd57bbacb5d6acb72537ea#rd)  
 - [2023-11-22-12万字！肝了一套Web前端面试干货](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514488&idx=1&sn=e7067df54b394ca98d8bf923e542aab7&chksm=eb078101dc700817e62ea81bcacdfd3a296296e0af4fa6aec4d558c9101ecd86f35b6993a7c1#rd)  
-- [2023-11-21-双向绑定与单向数据流之争，Solid会取代React吗](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514474&idx=1&sn=35c7713ce5caa587b2e52437ff7ba971&chksm=eb078113dc700805d592d04c28d256e392a34c1aeb97bcba2e4c52a2d9a255a6428355de89a1#rd)  
-- [2023-11-16-Monorepo-仓库代码质量提升实践](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514469&idx=1&sn=2597848019f60f37973a313791173f54&chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -445,7 +445,7 @@
 </summary>
 
 
-- [2023-12-18-尝试借助CSS-@container实现多行文本展开收起](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488723&idx=1&sn=8376aee095e38cb26bc4946ed2519869&chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd) ![](/assets/new.png)  
+- [2023-12-18-尝试借助CSS-@container实现多行文本展开收起](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488723&idx=1&sn=8376aee095e38cb26bc4946ed2519869&chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd)  
 - [2023-12-11-了解一下全新进化的CSS-linear缓冲函数](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488666&idx=1&sn=0b7110467ed15d8072879b2d7b9b009d&chksm=97c67755a0b1fe435f8dfce887223f1b885b0ff94f2d525c225d92f9e7ba13678f93d7b10109#rd)  
 - [2023-12-04-CSS-实现弧形卡片的-3-种方式](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488631&idx=1&sn=d503326caa0fcc1279fc21f4bef6c4c7&chksm=97c677b8a0b1feae3545e4afecc95a78c6060409a27941fb01b6766b44a57b3a252a4fd6dbe1#rd)  
 - [2023-11-27-CSS-中-rgb-与-rgba-的进化史](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488597&idx=1&sn=2bd54cd093b2b3e2e744ccb00bf62ee4&chksm=97c6779aa0b1fe8c1233c379caebb4fdbe8bdbd4bf3667f0b7d0c7963a0bd9216261a526e6d8#rd)  
