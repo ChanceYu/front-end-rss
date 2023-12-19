@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-19T07:00:48.480Z</updated>
+    <updated>2023-12-19T15:00:46.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[【第3146期】前端白屏检测：SDK的设计与实现]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268080&amp;idx=1&amp;sn=3b61c1142025c00102184689db4f7604&amp;chksm=bd48fa748a3f73627247f1b107c63310645d420c24067c0c7c62c895601ef0011969bf0918b0#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268080&amp;idx=1&amp;sn=3b61c1142025c00102184689db4f7604&amp;chksm=bd48fa748a3f73627247f1b107c63310645d420c24067c0c7c62c895601ef0011969bf0918b0#rd"/>
+        <updated>2023-12-18T16:00:00.000Z</updated>
+        <published>2023-12-18T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ten top Node Weekly links of 2023]]></title>
+        <id>https://nodeweekly.com/issues/515</id>
+        <link href="https://nodeweekly.com/issues/515"/>
         <updated>2023-12-18T16:00:00.000Z</updated>
         <published>2023-12-18T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[用 JavaScript 实现一个很牛的扫码功能]]></title>
         <id>http://www.yyyweb.com/5559.html</id>
         <link href="http://www.yyyweb.com/5559.html"/>
-        <updated>2023-12-08T16:00:00.000Z</updated>
-        <published>2023-12-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3136期】微前端时代：打造高效、灵活的前端开发体系]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267905&amp;idx=1&amp;sn=a86502b39ba83f5be614f1c4307ebe73&amp;chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267905&amp;idx=1&amp;sn=a86502b39ba83f5be614f1c4307ebe73&amp;chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd"/>
         <updated>2023-12-08T16:00:00.000Z</updated>
         <published>2023-12-08T16:00:00.000Z</published>
     </entry>
