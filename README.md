@@ -10,14 +10,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-21 15:01:00，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-22 06:04:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668) ![](/assets/new.png)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
@@ -92,7 +93,6 @@
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
 - [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
-- [2023-07-20-The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2023-12-21-【第3148期】前端DevOps平台的探索及设计理念](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=1&sn=e71749d91b16b39a5f0c2d88ae70f1b9&chksm=bd48fdbc8a3f74aae09646da77b6436da12b98d2e5b59a70b9a33895c3e284f581bcfbbe1018#rd) ![](/assets/new.png)  
-- [2023-12-21-【早说】个人如何创造更多的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=2&sn=94f39fa12fa2128b63928ec6bcaa9cec&chksm=bd48fdbc8a3f74aa9a3bb0552cea3e98cf3547d8695869db3dea1663b960886c6e54e107edc9#rd) ![](/assets/new.png)  
+- [2023-12-21-【第3148期】前端DevOps平台的探索及设计理念](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=1&sn=e71749d91b16b39a5f0c2d88ae70f1b9&chksm=bd48fdbc8a3f74aae09646da77b6436da12b98d2e5b59a70b9a33895c3e284f581bcfbbe1018#rd)  
+- [2023-12-21-【早说】个人如何创造更多的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=2&sn=94f39fa12fa2128b63928ec6bcaa9cec&chksm=bd48fdbc8a3f74aa9a3bb0552cea3e98cf3547d8695869db3dea1663b960886c6e54e107edc9#rd)  
 - [2023-12-20-【早说】生产三要素](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=2&sn=adcd61b320dff5e652fefa2e566d66dc&chksm=bd48fa7a8a3f736c9e292620c87d3abf33cc2af2e4e8e4036b2130e07b4232233212fb607d20#rd)  
 - [2023-12-20-【第3147期】前端Monorepo大仓权限设计的思考与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=1&sn=35b3e1e8294feb8ee807bf21d48d7666&chksm=bd48fa7a8a3f736c50493bbfb2bf73fcd583ae9ab5a4ea5c2ade46eb739b7d097db4bae1acb2#rd)  
 - [2023-12-19-【第3146期】前端白屏检测：SDK的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268080&idx=1&sn=3b61c1142025c00102184689db4f7604&chksm=bd48fa748a3f73627247f1b107c63310645d420c24067c0c7c62c895601ef0011969bf0918b0#rd)  
@@ -135,7 +135,7 @@
 </summary>
 
 
-- [2023-12-21-js-如何判断对象自身为空？很多人错了~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617774&idx=1&sn=2e32b118259395e10d6f7081e5b7a96c&chksm=8022ae2fb755273967e19483ae73e24c48e4452e0074f3dc85441a835bb29af4471339f3c4a7#rd) ![](/assets/new.png)  
+- [2023-12-21-js-如何判断对象自身为空？很多人错了~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617774&idx=1&sn=2e32b118259395e10d6f7081e5b7a96c&chksm=8022ae2fb755273967e19483ae73e24c48e4452e0074f3dc85441a835bb29af4471339f3c4a7#rd)  
 - [2023-12-20-京东一面：post为什么会发送两次请求？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617747&idx=1&sn=7c3eb0de75638a3994ee71896c84cdc6&chksm=8022ae12b75527045ae45342806e7eccd4653f764665f1247f1cfe77c0ecc494b5edb6954783#rd)  
 - [2023-12-20-22个实用的CSS技巧，让你的网站脱颖而出](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617747&idx=2&sn=fa5c8ab7d5dcf0753b37fec1def4765a&chksm=8022ae12b755270497c5e8cb7f67f601ce13cce53de348b734b62b6772c30ebc2f841d395409#rd)  
 - [2023-12-19-代码这样写，谁还敢裁你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617741&idx=2&sn=9ba258bfdc7e11946ed986836f1ee297&chksm=8022ae0cb755271a9d20220d860893320ead9526e2157c69c97b036d56feecce100c59d90081#rd)  
@@ -414,8 +414,8 @@
 </summary>
 
 
-- [2023-12-21-终于等到！3个超强的前端项目开源了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514683&idx=1&sn=1b2a46c447c527d4bb591a3a6563f615&chksm=eb078242dc700b54e7752dac0d526e7d2da74d1b6ee01c707cd5c24541c159b77410a5bebe8d#rd) ![](/assets/new.png)  
-- [2023-12-21-尤雨溪：Vue-3-开发中的经验和教训](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514683&idx=2&sn=cd211817319cc5b6b129ec9d219c40f6&chksm=eb078242dc700b54b096656c01a4ebd7e12499b01d57b12ebe71c7b5349f5054e0229fe08728#rd) ![](/assets/new.png)  
+- [2023-12-21-终于等到！3个超强的前端项目开源了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514683&idx=1&sn=1b2a46c447c527d4bb591a3a6563f615&chksm=eb078242dc700b54e7752dac0d526e7d2da74d1b6ee01c707cd5c24541c159b77410a5bebe8d#rd)  
+- [2023-12-21-尤雨溪：Vue-3-开发中的经验和教训](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514683&idx=2&sn=cd211817319cc5b6b129ec9d219c40f6&chksm=eb078242dc700b54b096656c01a4ebd7e12499b01d57b12ebe71c7b5349f5054e0229fe08728#rd)  
 - [2023-12-20-Vue-2-将于-12-月-31-日到达生命周期终点](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514666&idx=1&sn=3acddd08e003666da2c14fd5816be6f7&chksm=eb078253dc700b45455eb362522db42481d9167b98ded04aca6c6bbff4fb911550242b18ea04#rd)  
 - [2023-12-19-比-Eslint-快-100-倍！新一代-JS-Linter-发布！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514659&idx=1&sn=664f829d72c9bda1cab96f731d5eb0cc&chksm=eb07825adc700b4c030d8d861df09fbb5c47a52dc507dcbda77e5623d45eabda6259075170a1#rd)  
 - [2023-12-18-Vue-2-即将结束支持，你需要注意这些！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514654&idx=2&sn=1f12d8f715e0e5a31254ada7ef75ce9a&chksm=eb078267dc700b7110d090d2a9e516b7b65f1ed4d9f23f27b08dda62a87aa42039c968b20084#rd)  

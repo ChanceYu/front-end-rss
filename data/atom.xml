@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-21T07:01:01.890Z</updated>
+    <updated>2023-12-21T22:04:02.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[【第3148期】前端DevOps平台的探索及设计理念]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268152&amp;idx=1&amp;sn=e71749d91b16b39a5f0c2d88ae70f1b9&amp;chksm=bd48fdbc8a3f74aae09646da77b6436da12b98d2e5b59a70b9a33895c3e284f581bcfbbe1018#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268152&amp;idx=1&amp;sn=e71749d91b16b39a5f0c2d88ae70f1b9&amp;chksm=bd48fdbc8a3f74aae09646da77b6436da12b98d2e5b59a70b9a33895c3e284f581bcfbbe1018#rd"/>
+        <updated>2023-12-20T16:00:00.000Z</updated>
+        <published>2023-12-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflecting on a big year for JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/668</id>
+        <link href="https://javascriptweekly.com/issues/668"/>
         <updated>2023-12-20T16:00:00.000Z</updated>
         <published>2023-12-20T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一把糖。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMTQ4MTk5MA==&amp;mid=2247566379&amp;idx=1&amp;sn=373b55cd88fd709f9630827018f25ad5&amp;chksm=f97085c2ce070cd4b6ee48f2a0a601a3c5daa1af594d63579a91910057a23319ed99f5a40e81#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMTQ4MTk5MA==&amp;mid=2247566379&amp;idx=1&amp;sn=373b55cd88fd709f9630827018f25ad5&amp;chksm=f97085c2ce070cd4b6ee48f2a0a601a3c5daa1af594d63579a91910057a23319ed99f5a40e81#rd"/>
-        <updated>2023-12-11T16:00:00.000Z</updated>
-        <published>2023-12-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】计算]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267933&amp;idx=2&amp;sn=c790d1e44cc2b23297baf9f14e7510b2&amp;chksm=bd48fad98a3f73cffcac5fc185590fed80c61a3989be4468a504b1c2e4dad503cb21841c8943#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267933&amp;idx=2&amp;sn=c790d1e44cc2b23297baf9f14e7510b2&amp;chksm=bd48fad98a3f73cffcac5fc185590fed80c61a3989be4468a504b1c2e4dad503cb21841c8943#rd"/>
         <updated>2023-12-11T16:00:00.000Z</updated>
         <published>2023-12-11T16:00:00.000Z</published>
     </entry>
