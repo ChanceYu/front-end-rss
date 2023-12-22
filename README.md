@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-22 06:04:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-22 10:07:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668) ![](/assets/new.png)  
+- [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html) ![](/assets/new.png)  
 - [2023-12-15-科技爱好者周刊（第-282-期）：电动皮卡-Cybertruck-的-48V-供电](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-282.html)  
 - [2023-12-08-科技爱好者周刊（第-281-期）：新基建的政策选择](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-281.html)  
 - [2023-12-01-科技爱好者周刊（第-280-期）：机器点餐与宅文化](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-280.html)  
@@ -557,7 +558,6 @@
 - [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [2023-08-08-《TypeScript-教程》发布了](http://www.ruanyifeng.com/blog/2023/08/typescript-tutorial.html)  
 - [2023-08-04-科技爱好者周刊（第-265-期）：WiFi-的后面是-LiFi](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-265.html)  
-- [2023-07-28-科技爱好者周刊（第-264-期）：Elasticsearch-的启示](http://www.ruanyifeng.com/blog/2023/07/weekly-issue-264.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2023-12-21T22:04:02.412Z</updated>
+    <updated>2023-12-22T02:07:30.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2023 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 283 期）：[年终感想] 没有目的地，向前走]]></title>
+        <id>http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html"/>
+        <updated>2023-12-21T16:00:00.000Z</updated>
+        <published>2023-12-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪：Vue 3 开发中的经验和教训]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514683&amp;idx=2&amp;sn=cd211817319cc5b6b129ec9d219c40f6&amp;chksm=eb078242dc700b54b096656c01a4ebd7e12499b01d57b12ebe71c7b5349f5054e0229fe08728#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【全名师阵容，开课啦】2024省考行测高分计划（理论基础+刷题冲刺）​]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzU3OTcyMDE1NA==&amp;mid=2247501078&amp;idx=2&amp;sn=f17e6022a4da1027046c32798ddf8d1c&amp;chksm=fd6343a3ca14cab509044588b372ddc1296354649cacac4bae66d5d2e8d5a7037de150e26ab4#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzU3OTcyMDE1NA==&amp;mid=2247501078&amp;idx=2&amp;sn=f17e6022a4da1027046c32798ddf8d1c&amp;chksm=fd6343a3ca14cab509044588b372ddc1296354649cacac4bae66d5d2e8d5a7037de150e26ab4#rd"/>
-        <updated>2023-12-11T16:00:00.000Z</updated>
-        <published>2023-12-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一把糖。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMTQ4MTk5MA==&amp;mid=2247566379&amp;idx=1&amp;sn=373b55cd88fd709f9630827018f25ad5&amp;chksm=f97085c2ce070cd4b6ee48f2a0a601a3c5daa1af594d63579a91910057a23319ed99f5a40e81#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMTQ4MTk5MA==&amp;mid=2247566379&amp;idx=1&amp;sn=373b55cd88fd709f9630827018f25ad5&amp;chksm=f97085c2ce070cd4b6ee48f2a0a601a3c5daa1af594d63579a91910057a23319ed99f5a40e81#rd"/>
         <updated>2023-12-11T16:00:00.000Z</updated>
         <published>2023-12-11T16:00:00.000Z</published>
     </entry>
