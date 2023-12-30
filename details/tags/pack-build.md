@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-29 10:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-30 18:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -393,12 +393,13 @@
 - [2019-08-07-给IE/Edge写了个textarea-resize拉伸的polyfill](https://www.zhangxinxu.com/wordpress/2019/08/ie-edge-textarea-resize-polyfill/) 
 - [2022-05-05-打包工具-rollup.js-入门教程](http://www.ruanyifeng.com/blog/2022/05/rollup.html) 
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
+- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html) 
 - [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html) 
 - [2023-08-30-你应该立即停止使用-lodash-webpack-plugin](http://www.yyyweb.com/5525.html) 
 - [2022-11-19-编译速度极致优化，一文搞定-Webpack5-升级](http://www.yyyweb.com/5484.html) 
 - [2022-06-05-10-分钟搞懂-Vite-devServer，速来围观！](http://www.yyyweb.com/5459.html) 
-- [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html) 
 - [2022-05-04-无用代码去哪了？项目减重之-Rollup-Tree-shaking](http://www.yyyweb.com/5452.html) 
+- [2022-05-04-90-行代码的-Webpack，你确定不学吗？](http://www.yyyweb.com/5453.html) 
 - [2022-03-06-淘宝-npm-域名切换-&amp;&amp;-npmmirror-镜像源升级](http://www.yyyweb.com/5443.html) 
 - [2020-06-21-18款-Webpack-插件，总会有你想要的！](http://www.yyyweb.com/5380.html) 
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 

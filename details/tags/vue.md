@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2023-12-29 10:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2023-12-30 18:00:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -626,6 +626,7 @@
 - [2023-06-14-10-个值得学习的-Vue-开源实战项目！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511819&idx=2&sn=edf6a7f858a3e9fa300a7d5fc55debb8&chksm=eb079772dc701e647a1059cc03a4354bb1e46476b03a51b7939e2a6edbf4a05ed28ef5a1a2da#rd) 
 - [2023-05-19-Nuxt-3.5.0发布了，Vue-3.3-加持！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511571&idx=1&sn=2a822274108bc25f82385fd256865b2a&chksm=eb07966adc701f7c6622a5b79fd0290afbf08d7e0fbfd73ac2607d6f6a9d0771b0e825a8a782#rd) 
 - [2023-04-27-Vue.js-推出官方“雅思考试”，价格还真不低，好几千块](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511446&idx=1&sn=2fd404f15e3ae17c69ab9434999665f3&chksm=eb0795efdc701cf904e9526699102646ba9762975f32877066161fe7a1dcd0cb034fe61728d8#rd) 
+- [2023-12-30-Vue-3.4-正式发布！更快、更强、更好用！](http://www.yyyweb.com/5572.html) 
 - [2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html) 
 - [2023-07-29-基于-Electron-+-Vue3-搭建一个桌面应用](http://www.yyyweb.com/5512.html) 
 - [2023-06-29-Vue-3.3-正式发布，代号“浪客剑心”](http://www.yyyweb.com/5510.html) 
