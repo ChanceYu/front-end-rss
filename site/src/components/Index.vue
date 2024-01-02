@@ -8,6 +8,16 @@
 
     <van-popup v-model="showCate" position="left" class="search-modal">
       <van-cell-group class="tag-group">
+        <div class="filter-row">
+          <div class="filter-cell">
+            <van-switch v-model="matchSkill" size="14" />
+            <div class="lbl" @click="changeSkill">
+              只展示技术相关<span class="desc">仅根据标题内容匹配</span>
+            </div>
+          </div>
+        </div>
+      </van-cell-group>
+      <van-cell-group class="tag-group">
         <div slot="title" class="title-box"><van-icon name="hot-o" />热门搜索</div>
         <van-tag
           v-for="(item, index) in hotwords"
@@ -134,6 +144,10 @@ const ranges = [{
   dates: [dayjs().subtract(31, 'days').format('YYYY-MM-DD'), TODAY]
 }]
 
+const rss = window.RSS_DATA
+const tags = window.TAGS_DATA
+const links = window.LINKS_DATA
+
 let results = []
 let datesMap = {}
 let rssMap = {}
@@ -145,6 +159,8 @@ export default {
     return {
       searchValue: '',
       showCate: false,
+      // 默认只展示技能相关文章
+      matchSkill: true,
       hotwords,
       ranges,
       rss: [],
@@ -158,29 +174,41 @@ export default {
       skeletons: [1, 2, 3, 4, 5, 6, 7, 8]
     }
   },
+  watch: {
+    matchSkill () {
+      this.initLoadData().then(() => this.handlerSearch())
+    }
+  },
   methods: {
     toTop () {
       window.scrollTo(0, 0)
     },
     async initLoadData () {
-      const rss = window.RSS_DATA
-      const tags = window.TAGS_DATA
-      const links = window.LINKS_DATA
+      results = []
+      datesMap = {}
+      rssMap = {}
+      tagsMap = {}
 
       links.forEach((rssItem) => {
-        const articles = rssItem.items.map((item) => {
+        const articles = rssItem.items.reduce((prev, data) => {
+          const item = { ...data }
           item.rss = rssItem.rss
           item.rssTitle = rssItem.title
           item.rssLink = rssItem.link
 
           let isInTag = false
+          let isFilter = !this.matchSkill
 
           tags.forEach((tagItem) => {
+            const isMatchSkill = this.matchSkill ? tagItem.skill : true
             if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
               isInTag = true
-              tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
-              tagsMap[tagItem.tag].push(item)
-              tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
+              if (isMatchSkill) {
+                isFilter = true
+                tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
+                tagsMap[tagItem.tag].push(item)
+                tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
+              }
             }
           })
 
@@ -200,8 +228,15 @@ export default {
             }
           })
 
-          return item
-        })
+          if (isFilter) {
+            return [
+              ...prev,
+              item
+            ]
+          }
+
+          return prev
+        }, [])
 
         rssMap[rssItem.title] = sortArray(articles)
 
@@ -312,6 +347,9 @@ export default {
     },
     onClear () {
       this.handlerSearch()
+    },
+    changeSkill () {
+      this.matchSkill = !this.matchSkill
     }
   },
   mounted () {
@@ -431,6 +469,31 @@ export default {
     font-size: .75rem;
     color: #999;
     word-break: break-all
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+}
+
+.filter-cell {
+  font-size: 14px;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 4px 16px;
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.filter-cell .lbl {
+  cursor: pointer;
+  margin-left: 12px;
+}
+
+.filter-cell .desc {
+  font-size: 12px;
+  color: #999;
+  display: block;
 }
 
 .result-box {

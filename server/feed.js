@@ -32,7 +32,7 @@ async function createFeed(linksJson){
   linksJson.reduce((prev, curr) => {
     return [
       ...prev,
-      ...curr.items.map((post) => ({
+      ...utils.filterBySkill(curr.items).map((post) => ({
         title: post.title,
         id: post.link,
         link: post.link,

@@ -1,3 +1,4 @@
+const fs = require('fs-extra')
 const path = require('path')
 const moment = require('moment')
 const chalk = require('chalk')
@@ -16,6 +17,8 @@ const README_TEMPLATE_PATH   = path.join(RESP_PATH + '/templates/README.md')
 const TAGS_MD_PATH           = path.join(RESP_PATH + '/TAGS.md')
 const TAGS_TEMPLATE_PATH     = path.join(RESP_PATH + '/templates/TAGS.md')
 const DETAILS_TEMPLATE_PATH  = path.join(RESP_PATH + '/templates/DETAILS.md')
+
+const tags = fs.readJsonSync(TAGS_PATH)
 
 module.exports = {
   /**
@@ -112,5 +115,13 @@ module.exports = {
       return res.data.homepage
     }
     return 'https://front-end-rss.vercel.app'
+  },
+  // 筛选出技能类别
+  filterBySkill(items) {
+    return items.filter((item) => {
+      return !!tags.find((tag) => {
+        return tag.skill && tag.keywords && (new RegExp(tag.keywords, 'gi')).test(item.title)
+      })
+    })
   }
 }
