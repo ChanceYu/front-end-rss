@@ -102,19 +102,20 @@ module.exports = {
     }
   },
   async getHomePage() {
-    const octokit = new Octokit({
-      auth: process.env.GITHUB_TOKEN
-    })
-    
-    const res = await octokit.request('GET /repos/ChanceYu/front-end-rss', {
-      owner: 'ChanceYu',
-      repo: 'front-end-rss'
-    })
-
-    if (res && res.data && res.data.homepage) {
-      return res.data.homepage
+    try {
+      const octokit = new Octokit({
+        auth: process.env.GITHUB_TOKEN
+      })
+      const res = await octokit.request('GET /repos/ChanceYu/front-end-rss', {
+        owner: 'ChanceYu',
+        repo: 'front-end-rss'
+      })
+      if (res && res.data && res.data.homepage) {
+        return res.data.homepage
+      }
+    } catch (e) {
     }
-    return 'https://front-end-rss.vercel.app'
+    return 'https://fed.chanceyu.com'
   },
   // 筛选出技能类别
   filterBySkill(items) {
