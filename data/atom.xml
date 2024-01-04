@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-02T11:45:36.044Z</updated>
+    <updated>2024-01-04T22:00:55.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript's rising stars]]></title>
+        <id>https://javascriptweekly.com/issues/669</id>
+        <link href="https://javascriptweekly.com/issues/669"/>
+        <updated>2024-01-03T16:00:00.000Z</updated>
+        <published>2024-01-03T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 3.4 正式发布！更快、更强、更好用！]]></title>
         <id>http://www.yyyweb.com/5572.html</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[49 个常用且容易遗忘的 CSS 样式清单整理]]></title>
         <id>http://www.yyyweb.com/5562.html</id>
         <link href="http://www.yyyweb.com/5562.html"/>
-        <updated>2023-12-08T16:00:00.000Z</updated>
-        <published>2023-12-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3136期】微前端时代：打造高效、灵活的前端开发体系]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267905&amp;idx=1&amp;sn=a86502b39ba83f5be614f1c4307ebe73&amp;chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267905&amp;idx=1&amp;sn=a86502b39ba83f5be614f1c4307ebe73&amp;chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd"/>
         <updated>2023-12-08T16:00:00.000Z</updated>
         <published>2023-12-08T16:00:00.000Z</published>
     </entry>

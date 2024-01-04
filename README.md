@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2023-12-30 18:00:41，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-05 06:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669) ![](/assets/new.png)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
@@ -92,7 +93,6 @@
 - [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
 - [2023-08-10-Svelte-5-is-going-to-be-radical](https://javascriptweekly.com/issues/651)  
 - [2023-08-03-Taking-JavaScript-into-Python](https://javascriptweekly.com/issues/650)  
-- [2023-07-27-Name-mangling](https://javascriptweekly.com/issues/649)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -569,9 +569,9 @@
 </summary>
 
 
-- [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html) ![](/assets/new.png)  
-- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html) ![](/assets/new.png)  
-- [2023-12-30-Vue-3.4-正式发布！更快、更强、更好用！](http://www.yyyweb.com/5572.html) ![](/assets/new.png)  
+- [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html)  
+- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html)  
+- [2023-12-30-Vue-3.4-正式发布！更快、更强、更好用！](http://www.yyyweb.com/5572.html)  
 - [2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html)  
 - [2023-12-09-用-JavaScript-实现一个很牛的扫码功能](http://www.yyyweb.com/5559.html)  
 - [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html)  
