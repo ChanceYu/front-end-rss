@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-07T10:01:24.717Z</updated>
+    <updated>2024-01-07T22:01:46.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,20 @@
         <link href="https://javascriptweekly.com/issues/669"/>
         <updated>2024-01-03T16:00:00.000Z</updated>
         <published>2024-01-03T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue2停止维护！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514744&amp;idx=1&amp;sn=5ddef0846512d8b0eaab74999e84fb8c&amp;chksm=eb078201dc700b1742e495df7bc19ce63a5bfd02b87ab6cf9cfccc1dd0a067736af3f6cc8798#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514744&amp;idx=1&amp;sn=5ddef0846512d8b0eaab74999e84fb8c&amp;chksm=eb078201dc700b1742e495df7bc19ce63a5bfd02b87ab6cf9cfccc1dd0a067736af3f6cc8798#rd"/>
+        <updated>2024-01-02T16:00:00.000Z</updated>
+        <published>2024-01-02T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 React/Vue 不如用 jQuery]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514726&amp;idx=1&amp;sn=0b57aa03bd82388c48e3995e1d8f9cff&amp;chksm=eb07821fdc700b09ed3ca1408dd76c011d31ba3e7b3c287f6e7a1367c6d12137e3f7c59b422b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514726&amp;idx=1&amp;sn=0b57aa03bd82388c48e3995e1d8f9cff&amp;chksm=eb07821fdc700b09ed3ca1408dd76c011d31ba3e7b3c287f6e7a1367c6d12137e3f7c59b422b#rd"/>
+        <updated>2024-01-01T16:00:00.000Z</updated>
+        <published>2024-01-01T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vue 3.4 正式发布！更快、更强、更好用！]]></title>
@@ -46,6 +60,13 @@
         <title type="html"><![CDATA[纯JS实现图像的人脸识别功能]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/"/>
+        <updated>2023-12-27T16:00:00.000Z</updated>
+        <published>2023-12-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue2最终版本发布！代号“天鹅挽歌”]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514718&amp;idx=2&amp;sn=040e05b82ac0930ecd441cc31514d04f&amp;chksm=eb078227dc700b31ab61c5998f3a6c1be0ff5373660a53d3455c62ca0e21e96cee8d98591504#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514718&amp;idx=2&amp;sn=040e05b82ac0930ecd441cc31514d04f&amp;chksm=eb078227dc700b31ab61c5998f3a6c1be0ff5373660a53d3455c62ca0e21e96cee8d98591504#rd"/>
         <updated>2023-12-27T16:00:00.000Z</updated>
         <published>2023-12-27T16:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267945&amp;idx=1&amp;sn=75e5438f8084a13040e92ec28025b4e0&amp;chksm=bd48faed8a3f73fb95f50700934ca9259ecafabe54bc0cd6837c26afd9a777f19bf6d6e98ef6#rd"/>
         <updated>2023-12-12T16:00:00.000Z</updated>
         <published>2023-12-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解前端新框架-nue.js]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=2&amp;sn=b89ce2f889ecc61a88b11bc86c9a6538&amp;chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=2&amp;sn=b89ce2f889ecc61a88b11bc86c9a6538&amp;chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd"/>
-        <updated>2023-12-11T16:00:00.000Z</updated>
-        <published>2023-12-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=1&amp;sn=40845cc8a6f6c6a07a9560233259b414&amp;chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514615&amp;idx=1&amp;sn=40845cc8a6f6c6a07a9560233259b414&amp;chksm=eb07818edc700898da4b2c8bc321e8d460d4108844aa84f973ee56e264387bc732825fad6e72#rd"/>
-        <updated>2023-12-11T16:00:00.000Z</updated>
-        <published>2023-12-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3139期】Reac状态管理比较与原理实现. Redux,Zustand,Jotai,Recoil, MobX,Valtio]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267933&amp;idx=1&amp;sn=ca5be3863146a51d59656775ea9aeef3&amp;chksm=bd48fad98a3f73cf16f759a035b955686de096276c360ee98354dd020f6093a1d3278de212c6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267933&amp;idx=1&amp;sn=ca5be3863146a51d59656775ea9aeef3&amp;chksm=bd48fad98a3f73cf16f759a035b955686de096276c360ee98354dd020f6093a1d3278de212c6#rd"/>
-        <updated>2023-12-11T16:00:00.000Z</updated>
-        <published>2023-12-11T16:00:00.000Z</published>
     </entry>
 </feed>
