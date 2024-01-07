@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-07 15:01:11，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-07 18:01:23，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -18,7 +18,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2023-12-26-【招聘】Taro-团队招人啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268278&idx=2&sn=901c867c8941353d1e30a1414f44fa1e&chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd) ![](/assets/new.png)  
-- [2023-12-25-【招聘】微信数据平台招web前端开发高级工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268243&idx=2&sn=0bd11d5a50c7503eb07fcb89b166c541&chksm=bd48fd178a3f740123b2237df724c1ffbbf896cceb6192fb9eff14fbe2a946e75493f8e5f24e#rd)  
-- [2023-12-25-开眼了！中国奇葩宿舍设计大赏……](https://mp.weixin.qq.com/s?__biz=MzUxNjA0NzEwNg==&mid=2247524778&idx=1&sn=e5c54deb61ae8ec52f8b982d2f050733&chksm=f9af49c7ced8c0d17ea16780d5bf9f364c4db55c102c1c82a6af9a775212b6cd372de79d050b#rd)  
-- [2023-12-25-昨天去世，他们全都不在了](https://mp.weixin.qq.com/s?__biz=MzkwODM4ODY3Nw==&mid=2247648725&idx=1&sn=1cf660a3e26d3801c46d3769dfb78425&chksm=c0c675fff7b1fce9a7a28e0b707a51acfbd028ce3c271eab54af417fcfb637ad1694c52fac18#rd)  
-- [2023-12-25-【早说】如何成为一个早起的人？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267710&idx=2&sn=f871e8d16ad82bfb031e4107c660a8e4&chksm=bd48fbfa8a3f72ec870493d9ac8ddab4648ead843a4cf6a23f78e47d883f153c6c09e10b7a03#rd)  
-- [2023-12-25-【早说】前端如何做好用户体验？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=2&sn=769396811295ba766fdd25a2ad6c5d47&chksm=bd48f9428a3f70541dc2bff3eb6c3e39555a44a3e74d792291380b6f95d53e540ba099816c34#rd)  
-- [2023-12-25-【早说】十年业务开发，如何做好高效高质量的价值交付](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266840&idx=2&sn=22f99306ed645c8899d8f184b7e82c50&chksm=bd48c69c8a3f4f8af320365222249a6222da27b3b0c67486637ae1d5b35d0c7bfb886767e5ee#rd)  
-- [2023-12-25-【早说】周爱民：告前端同学书](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266777&idx=2&sn=bda832325e9c08f5e6a5e51f8e8d5f7f&chksm=bd48c75d8a3f4e4b52f305fd846ab5f6c488f0a0d732ed18e1d95621cfade9e5ef1d9c3fdfd7#rd)  
+- [2023-12-27-【早说】赋能行为是有成本的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268292&idx=2&sn=e135e841412a665b449025981dbe58a2&chksm=bd48fd408a3f7456f177ef7e7ed3c03573a79b4127f20e1fc56d62b40e442e0003c448c40b4a#rd) ![](/assets/new.png)  
+- [2023-12-26-【招聘】Taro-团队招人啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268278&idx=2&sn=901c867c8941353d1e30a1414f44fa1e&chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd)  
 - [2023-12-25-【早说】迈克尔·波特：五力模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266751&idx=2&sn=633c50a700c7b0a24c25d65996d1f976&chksm=bd48c73b8a3f4e2d84cdc25650d1f510df02ff971eca4dacc9d0cfebcd8456e2bf73d182f529#rd)  
-- [2023-12-21-【早说】个人如何创造更多的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=2&sn=94f39fa12fa2128b63928ec6bcaa9cec&chksm=bd48fdbc8a3f74aa9a3bb0552cea3e98cf3547d8695869db3dea1663b960886c6e54e107edc9#rd)  
+- [2023-12-25-【早说】周爱民：告前端同学书](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266777&idx=2&sn=bda832325e9c08f5e6a5e51f8e8d5f7f&chksm=bd48c75d8a3f4e4b52f305fd846ab5f6c488f0a0d732ed18e1d95621cfade9e5ef1d9c3fdfd7#rd)  
+- [2023-12-25-【早说】十年业务开发，如何做好高效高质量的价值交付](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266840&idx=2&sn=22f99306ed645c8899d8f184b7e82c50&chksm=bd48c69c8a3f4f8af320365222249a6222da27b3b0c67486637ae1d5b35d0c7bfb886767e5ee#rd)  
+- [2023-12-25-【早说】前端如何做好用户体验？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=2&sn=769396811295ba766fdd25a2ad6c5d47&chksm=bd48f9428a3f70541dc2bff3eb6c3e39555a44a3e74d792291380b6f95d53e540ba099816c34#rd)  
+- [2023-12-25-【早说】如何成为一个早起的人？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267710&idx=2&sn=f871e8d16ad82bfb031e4107c660a8e4&chksm=bd48fbfa8a3f72ec870493d9ac8ddab4648ead843a4cf6a23f78e47d883f153c6c09e10b7a03#rd)  
+- [2023-12-25-昨天去世，他们全都不在了](https://mp.weixin.qq.com/s?__biz=MzkwODM4ODY3Nw==&mid=2247648725&idx=1&sn=1cf660a3e26d3801c46d3769dfb78425&chksm=c0c675fff7b1fce9a7a28e0b707a51acfbd028ce3c271eab54af417fcfb637ad1694c52fac18#rd)  
+- [2023-12-25-开眼了！中国奇葩宿舍设计大赏……](https://mp.weixin.qq.com/s?__biz=MzUxNjA0NzEwNg==&mid=2247524778&idx=1&sn=e5c54deb61ae8ec52f8b982d2f050733&chksm=f9af49c7ced8c0d17ea16780d5bf9f364c4db55c102c1c82a6af9a775212b6cd372de79d050b#rd)  
+- [2023-12-25-【招聘】微信数据平台招web前端开发高级工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268243&idx=2&sn=0bd11d5a50c7503eb07fcb89b166c541&chksm=bd48fd178a3f740123b2237df724c1ffbbf896cceb6192fb9eff14fbe2a946e75493f8e5f24e#rd)  
 - [2023-12-21-【第3148期】前端DevOps平台的探索及设计理念](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=1&sn=e71749d91b16b39a5f0c2d88ae70f1b9&chksm=bd48fdbc8a3f74aae09646da77b6436da12b98d2e5b59a70b9a33895c3e284f581bcfbbe1018#rd)  
-- [2023-12-20-【第3147期】前端Monorepo大仓权限设计的思考与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=1&sn=35b3e1e8294feb8ee807bf21d48d7666&chksm=bd48fa7a8a3f736c50493bbfb2bf73fcd583ae9ab5a4ea5c2ade46eb739b7d097db4bae1acb2#rd)  
+- [2023-12-21-【早说】个人如何创造更多的价值](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268152&idx=2&sn=94f39fa12fa2128b63928ec6bcaa9cec&chksm=bd48fdbc8a3f74aa9a3bb0552cea3e98cf3547d8695869db3dea1663b960886c6e54e107edc9#rd)  
 - [2023-12-20-【早说】生产三要素](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=2&sn=adcd61b320dff5e652fefa2e566d66dc&chksm=bd48fa7a8a3f736c9e292620c87d3abf33cc2af2e4e8e4036b2130e07b4232233212fb607d20#rd)  
+- [2023-12-20-【第3147期】前端Monorepo大仓权限设计的思考与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=1&sn=35b3e1e8294feb8ee807bf21d48d7666&chksm=bd48fa7a8a3f736c50493bbfb2bf73fcd583ae9ab5a4ea5c2ade46eb739b7d097db4bae1acb2#rd)  
 - [2023-12-19-【第3146期】前端白屏检测：SDK的设计与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268080&idx=1&sn=3b61c1142025c00102184689db4f7604&chksm=bd48fa748a3f73627247f1b107c63310645d420c24067c0c7c62c895601ef0011969bf0918b0#rd)  
 - [2023-12-18-【第3145期】使用-Taro-开发鸿蒙原生应用-——-探秘适配鸿蒙-ArkTS-的工作原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268067&idx=1&sn=7b5c3dda59627e2f8d9eb946bee82b31&chksm=bd48fa678a3f7371a0365009a6271c6fee04314fb1c69c0c88c455737b23d6cbfe9eb981d271#rd)  
 - [2023-12-17-【第3144期】2023年CSS新特性盘点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268063&idx=1&sn=275d824d73102d0dbf743efb8ce126cd&chksm=bd48fa5b8a3f734da9e0f87e75530cf0e06b865fbab4a2f81cc8127387f67fabc635df3110a4#rd)  
 - [2023-12-16-【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd)  
-- [2023-12-15-【招聘】字节跳动基础架构云存储前端团队招前端高级开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267971&idx=2&sn=723589feb0d3d08ff2ebfccb43abbd0f&chksm=bd48fa078a3f731140d355b08221215fb318bc9d289d40d05ecf13d8571234286db42694cc89#rd)  
 - [2023-12-15-【第3142期】使用-Taro-开发鸿蒙原生应用-——-当-Taro-遇到纯血鸿蒙](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267971&idx=1&sn=33b78daaa2923f53bc385c5091416e37&chksm=bd48fa078a3f7311ae127b0f4214d3db0e9a72c8226a4c7dd1ece893b006347e6218c46681a0#rd)  
-- [2023-12-14-【早说】人的生活其实就是一种心情,一种感受](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267955&idx=2&sn=ded0887fc0bd14602b69fcaf9a2b0b9d&chksm=bd48faf78a3f73e19817bdb2e7b4b6d3c3e701b3445fd87884566aec1a180791b612dd4ba47b#rd)  
+- [2023-12-15-【招聘】字节跳动基础架构云存储前端团队招前端高级开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267971&idx=2&sn=723589feb0d3d08ff2ebfccb43abbd0f&chksm=bd48fa078a3f731140d355b08221215fb318bc9d289d40d05ecf13d8571234286db42694cc89#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -135,26 +135,26 @@
 </summary>
 
 
-- [2023-12-26-前端搞清楚这几点，少走10年弯路](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617823&idx=1&sn=3688733dbe2151cd51c277a728d3fbab&chksm=8022addeb75524c80e53e89887560cfc71f2b798325c08c623d725502440b1cd047aefd5d5c1#rd) ![](/assets/new.png)  
-- [2023-12-25-Vue-2-将于-12-月-31-日到达生命周期终点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617807&idx=1&sn=c3293ff4169573c51d0259e9c7a57b57&chksm=8022adceb75524d808b6c572251c01fa26eb0c11a7ba3b49d7710d91020530e66d4dbaf8be5f#rd) ![](/assets/new.png)  
-- [2023-12-25-前端简洁表单模型](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617807&idx=2&sn=b299250c1823762d1cda6f29705fd447&chksm=8022adceb75524d839500c0d7868bed5e450ef09ff42825d9551e7027289a77b2dc243c36a27#rd) ![](/assets/new.png)  
-- [2023-12-22-大厂裁员逼出奇招，“防御性编程”能否自救？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617801&idx=1&sn=9d6689744b44e5332d3735472d9af4f6&chksm=8022adc8b75524dea272596042d7987943f4dc5c6a97f1360d307720d382a920ce8bfb9f754c#rd)  
+- [2023-12-27-有这个迹象，公司就要凉了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617979&idx=1&sn=b85c8f452d1dac307ca11c1cb8d5bfa5&chksm=8022ad7ab755246cd2f439219c979131e698d17b2dacfa7336d170d8054731f332827f3ef092#rd) ![](/assets/new.png)  
+- [2023-12-27-前端基建处理之组件库优化方案](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617979&idx=2&sn=8811cf2420fb566321bdc2d878f3f8a4&chksm=8022ad7ab755246ce1d33b556856ce6976c48e05c995cabe364687cbce7f201da837d7e9a837#rd) ![](/assets/new.png)  
+- [2023-12-26-前端搞清楚这几点，少走10年弯路](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617823&idx=1&sn=3688733dbe2151cd51c277a728d3fbab&chksm=8022addeb75524c80e53e89887560cfc71f2b798325c08c623d725502440b1cd047aefd5d5c1#rd)  
+- [2023-12-26-SPA-如何达到-SSR-一样的秒开效果？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617823&idx=2&sn=763a5e858ffb20bcf2988ee9b5776825&chksm=8022addeb75524c8276e4f2a942eb411b13cbd34096d1107974300fe78bbaaf9c79bf4c97883#rd) ![](/assets/new.png)  
+- [2023-12-25-前端简洁表单模型](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617807&idx=2&sn=b299250c1823762d1cda6f29705fd447&chksm=8022adceb75524d839500c0d7868bed5e450ef09ff42825d9551e7027289a77b2dc243c36a27#rd)  
+- [2023-12-25-Vue-2-将于-12-月-31-日到达生命周期终点](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617807&idx=1&sn=c3293ff4169573c51d0259e9c7a57b57&chksm=8022adceb75524d808b6c572251c01fa26eb0c11a7ba3b49d7710d91020530e66d4dbaf8be5f#rd)  
 - [2023-12-22-登录页面一些有趣的-css-效果，太好看了！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617801&idx=2&sn=b27f65f37c3fe083a5c9b702c7b13d85&chksm=8022adc8b75524de6dfb5d567b124ddff83fdbdb85fc0e07f340243d7e4135ba8496df3cb6c1#rd)  
-- [2023-12-21-js-如何判断对象自身为空？很多人错了~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617774&idx=1&sn=2e32b118259395e10d6f7081e5b7a96c&chksm=8022ae2fb755273967e19483ae73e24c48e4452e0074f3dc85441a835bb29af4471339f3c4a7#rd)  
+- [2023-12-22-大厂裁员逼出奇招，“防御性编程”能否自救？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617801&idx=1&sn=9d6689744b44e5332d3735472d9af4f6&chksm=8022adc8b75524dea272596042d7987943f4dc5c6a97f1360d307720d382a920ce8bfb9f754c#rd)  
 - [2023-12-21-当前端遇见了强制横屏签字的需求...](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617774&idx=2&sn=a1f3cda964082854a20a0645301d7d82&chksm=8022ae2fb7552739fe571c3dabb107a0d2e5b3d1fb2b7962b94d5eb23d8edb1de36856af9a30#rd)  
-- [2023-12-20-22个实用的CSS技巧，让你的网站脱颖而出](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617747&idx=2&sn=fa5c8ab7d5dcf0753b37fec1def4765a&chksm=8022ae12b755270497c5e8cb7f67f601ce13cce53de348b734b62b6772c30ebc2f841d395409#rd)  
+- [2023-12-21-js-如何判断对象自身为空？很多人错了~](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617774&idx=1&sn=2e32b118259395e10d6f7081e5b7a96c&chksm=8022ae2fb755273967e19483ae73e24c48e4452e0074f3dc85441a835bb29af4471339f3c4a7#rd)  
 - [2023-12-20-京东一面：post为什么会发送两次请求？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617747&idx=1&sn=7c3eb0de75638a3994ee71896c84cdc6&chksm=8022ae12b75527045ae45342806e7eccd4653f764665f1247f1cfe77c0ecc494b5edb6954783#rd)  
-- [2023-12-19-年底准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617741&idx=1&sn=1f994726bbad79c3e1f3396129c8bac4&chksm=8022ae0cb755271a5af52aa7d690e56815c24dcad6a02b7385020ae4c5753c514308c29543fe#rd)  
+- [2023-12-20-22个实用的CSS技巧，让你的网站脱颖而出](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617747&idx=2&sn=fa5c8ab7d5dcf0753b37fec1def4765a&chksm=8022ae12b755270497c5e8cb7f67f601ce13cce53de348b734b62b6772c30ebc2f841d395409#rd)  
 - [2023-12-19-代码这样写，谁还敢裁你](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617741&idx=2&sn=9ba258bfdc7e11946ed986836f1ee297&chksm=8022ae0cb755271a9d20220d860893320ead9526e2157c69c97b036d56feecce100c59d90081#rd)  
-- [2023-12-18-面试官：tree-shaking的原理是什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617728&idx=2&sn=7a59a8e4dd3981d6146c00fe72fd9a27&chksm=8022ae01b75527174c786884090f03e34ba1846c57c5e1e0b713b07114aa3dda27759cccf511#rd)  
+- [2023-12-19-年底准备跳槽的小伙伴注意了](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617741&idx=1&sn=1f994726bbad79c3e1f3396129c8bac4&chksm=8022ae0cb755271a5af52aa7d690e56815c24dcad6a02b7385020ae4c5753c514308c29543fe#rd)  
 - [2023-12-18-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617728&idx=1&sn=6454d7d0a8507be4027e3625fe30f025&chksm=8022ae01b755271796c37b2fd203cafbc1988ed63208b171da6644475988e14076109ca033fc#rd)  
-- [2023-12-15-前端组长应该如何管理前端团队](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=1&sn=e0153496371690ce959fba0278e7ad6a&chksm=8022ae7db755276b695af17682da3573ca062a73b7f18c1dc6eb6f396978153789d9a6f8bb74#rd)  
+- [2023-12-18-面试官：tree-shaking的原理是什么？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617728&idx=2&sn=7a59a8e4dd3981d6146c00fe72fd9a27&chksm=8022ae01b75527174c786884090f03e34ba1846c57c5e1e0b713b07114aa3dda27759cccf511#rd)  
 - [2023-12-15-浅析-React-Fiber-架构](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=2&sn=3fe8046ee42e0d5d9bec4fc94c522392&chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd)  
-- [2023-12-14-前端项目重构的深度思考和复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=2&sn=8abaceb2203bc1ab4f9fce8812a112d4&chksm=8022ae7ab755276ca2fa5f4ade84389a694814fdd67d158d741ffa63bc80ad0159c137d4e3d1#rd)  
+- [2023-12-15-前端组长应该如何管理前端团队](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617724&idx=1&sn=e0153496371690ce959fba0278e7ad6a&chksm=8022ae7db755276b695af17682da3573ca062a73b7f18c1dc6eb6f396978153789d9a6f8bb74#rd)  
 - [2023-12-14-Firefox或将被淘汰](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=1&sn=d00aeeaa1f4ea1abdfe311b956d20cfc&chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd)  
-- [2023-12-13-微前端项目难点解决](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617721&idx=2&sn=70a5472b10c69387e33b0d66b2670ceb&chksm=8022ae78b755276e71371c8fe5534201e30fd76d7826ac6d195f2e3580ac617df58c822f693e#rd)  
-- [2023-12-13-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617721&idx=1&sn=07debd017821c2c88ad0fce99b0a491b&chksm=8022ae78b755276ecf2fbbc2bdb13ff21ba8e6b4f3100c1f3a8a59f56bffa396476fbd212f45#rd)  
-- [2023-12-11-两行CSS让长列表性能渲染提升7倍！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617694&idx=1&sn=8085adba6c7af9e3c07693aa27ebc140&chksm=8022ae5fb755274966888e777a9af1dd949908eb1faa1141f9100d6addc9d1dbcb1b863fd70d#rd)  
+- [2023-12-14-前端项目重构的深度思考和复盘](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=2&sn=8abaceb2203bc1ab4f9fce8812a112d4&chksm=8022ae7ab755276ca2fa5f4ade84389a694814fdd67d158d741ffa63bc80ad0159c137d4e3d1#rd)  
 - [......【查看更多】......](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -166,7 +166,7 @@
 </summary>
 
 
-- [2023-12-25-2024年，你应该知道的5种React设计模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523515&idx=1&sn=07e72deb59c0cb87fe222214ec01bf17&chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd) ![](/assets/new.png)  
+- [2023-12-25-2024年，你应该知道的5种React设计模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523515&idx=1&sn=07e72deb59c0cb87fe222214ec01bf17&chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd)  
 - [2023-12-22-技术的未来：谈大语言模型前端研发领域的革命性影响](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=2&sn=79c7fb993917379b76d2536081a07407&chksm=f95229ddce25a0cb716b15eef6794926751a0b40979a5e51160d09e379addd0b0b52290943cb#rd)  
 - [2023-12-22-Netlify调查点燃热议，Astro悄然崛起](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=1&sn=6e8d71e0182c039bf6d4b7ad7090250d&chksm=f95229ddce25a0cbf5f01821d95e1ad9061fa1809c68aeea95fb643693296d6130f50220069d#rd)  
 - [2023-12-20-前端框架自欺欺人，TypeScript全无必要？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523432&idx=1&sn=f7f4df4457b5fefa7fef036e5a9c22a6&chksm=f952292bce25a03d0ea6e34fb403408df9febb1fe0ebd913a3f82209174f4c545466b4acb12c#rd)  
@@ -414,8 +414,8 @@
 </summary>
 
 
-- [2023-12-26-依枫在蚂蚁的四周年](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514701&idx=1&sn=41a251b635a8640a592ac426ea1557cc&chksm=eb078234dc700b2223cc0e7d50f89b077771beb341bda6282b070d35f2e48adf05e9e27f8794#rd) ![](/assets/new.png)  
-- [2023-12-22-前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514697&idx=1&sn=f3d81dc1447a2a4825019293a90c2b9e&chksm=eb078230dc700b2660db2e5bd69baef22476cb496fa0e057471292f778d3acdeb90a8aab007c#rd) ![](/assets/new.png)  
+- [2023-12-26-依枫在蚂蚁的四周年](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514701&idx=1&sn=41a251b635a8640a592ac426ea1557cc&chksm=eb078234dc700b2223cc0e7d50f89b077771beb341bda6282b070d35f2e48adf05e9e27f8794#rd)  
+- [2023-12-22-前端是怎么解析Excel、PDF、Word、PPT等文件的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514697&idx=1&sn=f3d81dc1447a2a4825019293a90c2b9e&chksm=eb078230dc700b2660db2e5bd69baef22476cb496fa0e057471292f778d3acdeb90a8aab007c#rd)  
 - [2023-12-21-尤雨溪：Vue-3-开发中的经验和教训](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514683&idx=2&sn=cd211817319cc5b6b129ec9d219c40f6&chksm=eb078242dc700b54b096656c01a4ebd7e12499b01d57b12ebe71c7b5349f5054e0229fe08728#rd)  
 - [2023-12-21-终于等到！3个超强的前端项目开源了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514683&idx=1&sn=1b2a46c447c527d4bb591a3a6563f615&chksm=eb078242dc700b54e7752dac0d526e7d2da74d1b6ee01c707cd5c24541c159b77410a5bebe8d#rd)  
 - [2023-12-20-Vue-2-将于-12-月-31-日到达生命周期终点](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514666&idx=1&sn=3acddd08e003666da2c14fd5816be6f7&chksm=eb078253dc700b45455eb362522db42481d9167b98ded04aca6c6bbff4fb911550242b18ea04#rd)  
