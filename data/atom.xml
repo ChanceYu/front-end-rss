@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-07T22:01:46.595Z</updated>
+    <updated>2024-01-08T00:01:16.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[作为一个 React 深度使用者，反驳一下尤雨溪]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514772&amp;idx=1&amp;sn=8a06bc1d1888e1cd10067b33a243be2b&amp;chksm=eb0782eddc700bfb1c4d8dc52329c141cfab7fecab8c1b189459d69e62625b4d3bbb84dda48c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514772&amp;idx=1&amp;sn=8a06bc1d1888e1cd10067b33a243be2b&amp;chksm=eb0782eddc700bfb1c4d8dc52329c141cfab7fecab8c1b189459d69e62625b4d3bbb84dda48c#rd"/>
+        <updated>2024-01-06T16:00:00.000Z</updated>
+        <published>2024-01-06T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪怒喷 React，挖了坑不想着埋，靠文档来挽救！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514767&amp;idx=1&amp;sn=4aa49e53f6dfbb8f531e0b904c97a3c9&amp;chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514767&amp;idx=1&amp;sn=4aa49e53f6dfbb8f531e0b904c97a3c9&amp;chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd"/>
+        <updated>2024-01-05T16:00:00.000Z</updated>
+        <published>2024-01-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请转发！Chrome 已开始第三方 Cookie 停用计划]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514751&amp;idx=1&amp;sn=837510e2acf696731f35efe355a407f3&amp;chksm=eb078206dc700b102fa22851c7811805a8d3a8854156112e12c84890525e449bd0e9628d6b46#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514751&amp;idx=1&amp;sn=837510e2acf696731f35efe355a407f3&amp;chksm=eb078206dc700b102fa22851c7811805a8d3a8854156112e12c84890525e449bd0e9628d6b46#rd"/>
+        <updated>2024-01-04T16:00:00.000Z</updated>
+        <published>2024-01-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript's rising stars]]></title>
         <id>https://javascriptweekly.com/issues/669</id>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[展望2024：构建更快、更高效的Web体验]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523290&amp;idx=1&amp;sn=051b218e6f30af9fbac911cb3d88cd19&amp;chksm=f9522e99ce25a78f0173670f945541c0bd85bd9116f3337cb1bad5c5f652058603b9bd848802#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523290&amp;idx=1&amp;sn=051b218e6f30af9fbac911cb3d88cd19&amp;chksm=f9522e99ce25a78f0173670f945541c0bd85bd9116f3337cb1bad5c5f652058603b9bd848802#rd"/>
-        <updated>2023-12-12T16:00:00.000Z</updated>
-        <published>2023-12-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微前端项目难点解决]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617721&amp;idx=2&amp;sn=70a5472b10c69387e33b0d66b2670ceb&amp;chksm=8022ae78b755276e71371c8fe5534201e30fd76d7826ac6d195f2e3580ac617df58c822f693e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617721&amp;idx=2&amp;sn=70a5472b10c69387e33b0d66b2670ceb&amp;chksm=8022ae78b755276e71371c8fe5534201e30fd76d7826ac6d195f2e3580ac617df58c822f693e#rd"/>
-        <updated>2023-12-12T16:00:00.000Z</updated>
-        <published>2023-12-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617721&amp;idx=1&amp;sn=07debd017821c2c88ad0fce99b0a491b&amp;chksm=8022ae78b755276ecf2fbbc2bdb13ff21ba8e6b4f3100c1f3a8a59f56bffa396476fbd212f45#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617721&amp;idx=1&amp;sn=07debd017821c2c88ad0fce99b0a491b&amp;chksm=8022ae78b755276ecf2fbbc2bdb13ff21ba8e6b4f3100c1f3a8a59f56bffa396476fbd212f45#rd"/>
-        <updated>2023-12-12T16:00:00.000Z</updated>
-        <published>2023-12-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3140期】在 Console 中更直观地展示 Reactive Objects]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267945&amp;idx=1&amp;sn=75e5438f8084a13040e92ec28025b4e0&amp;chksm=bd48faed8a3f73fb95f50700934ca9259ecafabe54bc0cd6837c26afd9a777f19bf6d6e98ef6#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267945&amp;idx=1&amp;sn=75e5438f8084a13040e92ec28025b4e0&amp;chksm=bd48faed8a3f73fb95f50700934ca9259ecafabe54bc0cd6837c26afd9a777f19bf6d6e98ef6#rd"/>
         <updated>2023-12-12T16:00:00.000Z</updated>
         <published>2023-12-12T16:00:00.000Z</published>
     </entry>
