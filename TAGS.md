@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-09 12:01:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-09 23:09:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -146,6 +146,7 @@
 
 
 
+- [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
 - [【Node-Weekly】Optimizing-npm-script-performance](https://nodeweekly.com/issues/480)
@@ -165,7 +166,6 @@
 - [【前端早读课】【第3102期】一个npm包的自述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267105&idx=1&sn=1e31ba061dc39d20c420636b896f60ff&chksm=bd48f9a58a3f70b3076ead016a6c08d72a993cf4e815eb5669e57015c5f8fe1ac2324e050088#rd)
 - [【前端早读课】【第3065期】让你的-VitePress-文档站支持-AI-对话能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265970&idx=1&sn=92b206620316f74d8160bd92694efdd5&chksm=bd48c2368a3f4b2073d5d0b21284b177beb1bb0ad760d7739b8d42bc6f3263cf1755a6cb9e72#rd)
 - [【前端早读课】【第3033期】@钟正楷：基于微模块构建大型-Web-前端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265203&idx=1&sn=8cd854c83aea58eb1e56134932f4911c&chksm=bd48c1378a3f4821462ce62f4a9ec55cb6b1a791adcd66e7d79038852e73e4c1a79efff0940f#rd)
-- [【前端早读课】【第3024期】Pake：利用-Rust-轻松构建轻量级应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264600&idx=1&sn=6ee9fa26144664ef377292e34b56491b&chksm=bd48cfdc8a3f46ca71f80d4f20ae33542b31c5c0a37e397cb4834d9f96ba8fb3b8da8bde6c4d#rd)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

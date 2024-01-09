@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-09 12:01:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-09 23:09:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516) 
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503) 
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501) 
 - [2023-03-30-Optimizing-npm-script-performance](https://nodeweekly.com/issues/480) 

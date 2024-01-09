@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-09 12:01:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-09 23:09:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516) ![](/assets/new.png)  
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)  
 - [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)  
 - [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)  
@@ -61,7 +62,6 @@
 - [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499)  
 - [2023-08-08-Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)  
 - [2023-08-01-Opening-up-the-Node.js-toolbox](https://nodeweekly.com/issues/497)  
-- [2023-07-25-The-Node.js-best-practices-list-gets-a-2023-update](https://nodeweekly.com/issues/496)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -111,7 +111,7 @@
 - [2024-01-07-【早说】一对一面谈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=2&sn=fa04bcb65c6d6dc5288ed423bc421a8e&chksm=bd48fc378a3f75218be21f486d094bc35bed8315e5154c1fee1ae51ae40084c355630a9eefc3#rd)  
 - [2024-01-07-【第3162期】前端APM指标采集大冒险](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=1&sn=fd90a8fb274ef52f7bc5f19d81acdaae&chksm=bd48fc378a3f7521294cc4a8c6e497af94942f2ddd81a6859a6328add51ec51ade462297cadf#rd)  
 - [2024-01-06-【早说】生态位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=2&sn=3de0b1f57d272705b29b506f4842ef75&chksm=bd48fc2c8a3f753a0c07e0d6eb026971e8839a6ed5bead3514eef03f0e7d0c5bb1706ad10655#rd)  
-- [2024-01-06-【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd) ![](/assets/new.png)  
+- [2024-01-06-【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)  
 - [2024-01-05-【早说】关注和改造工作流](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268479&idx=2&sn=1860fb503c2e47947640a44cfbd4c227&chksm=bd48fcfb8a3f75ed695ecf2b25326d75cf2e07a4efbbbd200de9e2ee887b176612ffddc01b97#rd)  
 - [2023-12-27-【早说】赋能行为是有成本的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268292&idx=2&sn=e135e841412a665b449025981dbe58a2&chksm=bd48fd408a3f7456f177ef7e7ed3c03573a79b4127f20e1fc56d62b40e442e0003c448c40b4a#rd)  
 - [2023-12-26-【招聘】Taro-团队招人啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268278&idx=2&sn=901c867c8941353d1e30a1414f44fa1e&chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd)  
