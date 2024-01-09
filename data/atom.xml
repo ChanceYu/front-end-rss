@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-09T00:00:56.756Z</updated>
+    <updated>2024-01-09T02:01:43.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3164期】如何在线上使用 SourceMap]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd"/>
+        <updated>2024-01-08T16:00:00.000Z</updated>
+        <published>2024-01-08T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3163期】转转B端项目页面性能统计实践]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268537&amp;idx=1&amp;sn=92b246e20b6ff308e4abcc6eacf645cb&amp;chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268537&amp;idx=1&amp;sn=92b246e20b6ff308e4abcc6eacf645cb&amp;chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd"/>
+        <updated>2024-01-07T16:00:00.000Z</updated>
+        <published>2024-01-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作为一个 React 深度使用者，反驳一下尤雨溪]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514772&amp;idx=1&amp;sn=8a06bc1d1888e1cd10067b33a243be2b&amp;chksm=eb0782eddc700bfb1c4d8dc52329c141cfab7fecab8c1b189459d69e62625b4d3bbb84dda48c#rd</id>
@@ -349,19 +363,5 @@
         <link href="https://javascriptweekly.com/issues/667"/>
         <updated>2023-12-13T16:00:00.000Z</updated>
         <published>2023-12-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入浅出 Vite5 中依赖预构建]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=2&amp;sn=c3ee650498e8c9b19e38ba1a74945cbe&amp;chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514625&amp;idx=2&amp;sn=c3ee650498e8c9b19e38ba1a74945cbe&amp;chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd"/>
-        <updated>2023-12-12T16:00:00.000Z</updated>
-        <published>2023-12-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[展望2024：构建更快、更高效的Web体验]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523290&amp;idx=1&amp;sn=051b218e6f30af9fbac911cb3d88cd19&amp;chksm=f9522e99ce25a78f0173670f945541c0bd85bd9116f3337cb1bad5c5f652058603b9bd848802#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523290&amp;idx=1&amp;sn=051b218e6f30af9fbac911cb3d88cd19&amp;chksm=f9522e99ce25a78f0173670f945541c0bd85bd9116f3337cb1bad5c5f652058603b9bd848802#rd"/>
-        <updated>2023-12-12T16:00:00.000Z</updated>
-        <published>2023-12-12T16:00:00.000Z</published>
     </entry>
 </feed>
