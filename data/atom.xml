@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-09T02:01:43.892Z</updated>
+    <updated>2024-01-09T04:01:21.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[尤雨溪怒喷 React，挖了坑不想着埋，靠文档来挽救！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514767&amp;idx=1&amp;sn=4aa49e53f6dfbb8f531e0b904c97a3c9&amp;chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514767&amp;idx=1&amp;sn=4aa49e53f6dfbb8f531e0b904c97a3c9&amp;chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd"/>
+        <updated>2024-01-05T16:00:00.000Z</updated>
+        <published>2024-01-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3161期】用 ChatGPT 打工人来完成掘金年度打榜直播的抽奖]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268520&amp;idx=1&amp;sn=924c4c8dc071836e89b541ce9e43ae4e&amp;chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268520&amp;idx=1&amp;sn=924c4c8dc071836e89b541ce9e43ae4e&amp;chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd"/>
         <updated>2024-01-05T16:00:00.000Z</updated>
         <published>2024-01-05T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3141期】Ant Design Mini 支持微信小程序啦]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267955&amp;idx=1&amp;sn=9914c8474ed4661676111026ed544166&amp;chksm=bd48faf78a3f73e1657100cd556f7c74afd34b363b5f36c43e90072787ebf08285c59f18818e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267955&amp;idx=1&amp;sn=9914c8474ed4661676111026ed544166&amp;chksm=bd48faf78a3f73e1657100cd556f7c74afd34b363b5f36c43e90072787ebf08285c59f18818e#rd"/>
-        <updated>2023-12-13T16:00:00.000Z</updated>
-        <published>2023-12-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Runtime Royale]]></title>
-        <id>https://javascriptweekly.com/issues/667</id>
-        <link href="https://javascriptweekly.com/issues/667"/>
         <updated>2023-12-13T16:00:00.000Z</updated>
         <published>2023-12-13T16:00:00.000Z</published>
     </entry>
