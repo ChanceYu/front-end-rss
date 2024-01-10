@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-10T00:01:20.072Z</updated>
+    <updated>2024-01-10T13:01:28.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[浅析 5 种 React 组件设计模式]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514775&amp;idx=1&amp;sn=be0a0b8b090034d249d7dc6cf56cca99&amp;chksm=eb0782eedc700bf86f07f13a4960faa23386377c3454a10414457b3a2f5e3d0058dd3bb8a5e5#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514775&amp;idx=1&amp;sn=be0a0b8b090034d249d7dc6cf56cca99&amp;chksm=eb0782eedc700bf86f07f13a4960faa23386377c3454a10414457b3a2f5e3d0058dd3bb8a5e5#rd"/>
+        <updated>2024-01-08T16:00:00.000Z</updated>
+        <published>2024-01-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3164期】如何在线上使用 SourceMap]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[在转转直播模块接入 xgplayer 的经验，完美运行！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514626&amp;idx=1&amp;sn=1549ca9fa01888e52fa3b576363a90d5&amp;chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514626&amp;idx=1&amp;sn=1549ca9fa01888e52fa3b576363a90d5&amp;chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd"/>
-        <updated>2023-12-13T16:00:00.000Z</updated>
-        <published>2023-12-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox或将被淘汰]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617723&amp;idx=1&amp;sn=d00aeeaa1f4ea1abdfe311b956d20cfc&amp;chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617723&amp;idx=1&amp;sn=d00aeeaa1f4ea1abdfe311b956d20cfc&amp;chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd"/>
         <updated>2023-12-13T16:00:00.000Z</updated>
         <published>2023-12-13T16:00:00.000Z</published>
     </entry>
