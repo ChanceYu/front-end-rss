@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-01-05 06:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-12 06:02:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670) 
 - [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669) 
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668) 
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667) 

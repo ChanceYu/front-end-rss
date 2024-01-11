@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-11 23:01:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-12 06:02:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)
 - [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
 - [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
 - [【JavaScript-Weekly】JS-Runtime-Royale](https://javascriptweekly.com/issues/667)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
 - [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
-- [【JavaScript-Weekly】Douglas-Crockford-calls-JavaScript-'smelly.'](https://javascriptweekly.com/issues/642)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
