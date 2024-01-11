@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-11 10:00:56，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-11 23:01:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2024-01-11-【第3166期】localhost工具：本地代码的远程之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=1&sn=b3f68c965e2ab76f009697c8e3a01bdf&chksm=bd48fc738a3f756556a88dd16a91257e9073ee27e84029aef31eece2ae378647dd4c92fc25ec#rd) ![](/assets/new.png)  
-- [2024-01-11-【早说】干货的定义](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=2&sn=af8712df6da3a2ba259835d88b9ab868&chksm=bd48fc738a3f7565d6958b541b4960db4972b648378a016107c05d32b25aadc6bb99041b0fff#rd) ![](/assets/new.png)  
+- [2024-01-11-【第3166期】localhost工具：本地代码的远程之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=1&sn=b3f68c965e2ab76f009697c8e3a01bdf&chksm=bd48fc738a3f756556a88dd16a91257e9073ee27e84029aef31eece2ae378647dd4c92fc25ec#rd)  
+- [2024-01-11-【早说】干货的定义](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=2&sn=af8712df6da3a2ba259835d88b9ab868&chksm=bd48fc738a3f7565d6958b541b4960db4972b648378a016107c05d32b25aadc6bb99041b0fff#rd)  
 - [2024-01-10-【早说】用户故事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=2&sn=85cbbf5ee6dcfebaecf01b9b7f2521ce&chksm=bd48fc628a3f75742122ec3be0872b1fa5643924287ff957bb2c223889a3caebae72c9bbd15a#rd)  
 - [2024-01-10-【第3165期】谈谈如何设计一个插件（Plugin）体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=1&sn=8e32de99c2488c5bcc9148eb8d7b0e12&chksm=bd48fc628a3f7574ad328060253e2b96ee30e8a6e44c5cdc5210a733ae436a50b45ed16fdd1b#rd)  
 - [2024-01-09-【第3164期】如何在线上使用-SourceMap](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=1&sn=901ad616df0e82ca728aad5e126752b2&chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/) ![](/assets/new.png)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [2023-12-26-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
 - [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)  
@@ -526,7 +527,6 @@
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
 - [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)  
 - [2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)  
-- [2023-07-25-5分钟快速了解text-wrap:balance的作用](https://www.zhangxinxu.com/wordpress/2023/07/css-text-wrap-balance/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
