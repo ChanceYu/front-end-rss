@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-11T22:02:16.229Z</updated>
+    <updated>2024-01-12T02:01:34.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -99,16 +99,16 @@
         <published>2024-01-01T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vue 3.4 正式发布！更快、更强、更好用！]]></title>
-        <id>http://www.yyyweb.com/5572.html</id>
-        <link href="http://www.yyyweb.com/5572.html"/>
+        <title type="html"><![CDATA[2024展望：构建更快更高效的 Web 体验]]></title>
+        <id>http://www.yyyweb.com/5569.html</id>
+        <link href="http://www.yyyweb.com/5569.html"/>
         <updated>2023-12-29T16:00:00.000Z</updated>
         <published>2023-12-29T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024展望：构建更快更高效的 Web 体验]]></title>
-        <id>http://www.yyyweb.com/5569.html</id>
-        <link href="http://www.yyyweb.com/5569.html"/>
+        <title type="html"><![CDATA[Vue 3.4 正式发布！更快、更强、更好用！]]></title>
+        <id>http://www.yyyweb.com/5572.html</id>
+        <link href="http://www.yyyweb.com/5572.html"/>
         <updated>2023-12-29T16:00:00.000Z</updated>
         <published>2023-12-29T16:00:00.000Z</published>
     </entry>

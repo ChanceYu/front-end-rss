@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-12 06:02:14，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-12 10:01:33，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -26,12 +26,12 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [前端里](#前端里)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 
 ## 文章链接
@@ -73,7 +73,7 @@
 </summary>
 
 
-- [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670) ![](/assets/new.png)  
+- [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
 - [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2024-01-11-【第3166期】localhost工具：本地代码的远程之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=1&sn=b3f68c965e2ab76f009697c8e3a01bdf&chksm=bd48fc738a3f756556a88dd16a91257e9073ee27e84029aef31eece2ae378647dd4c92fc25ec#rd)  
+- [2024-01-12-【第3167期】Web-第三方嵌入的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=1&sn=0a369983793108d9def718709935fcac&chksm=bd48ff8c8a3f769a2291b311c0531d5db4e7ea23e8f69856fb2871c170bb2a0964d2e5898a76#rd) ![](/assets/new.png)  
+- [2024-01-12-【早说】评审机制](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=2&sn=460ba13f55d21acb5265ceb51f240c25&chksm=bd48ff8c8a3f769ab1ba1d10b89247deeac9dd56a8cb3835f3f34950fd318fc22634173d325c#rd) ![](/assets/new.png)  
 - [2024-01-11-【早说】干货的定义](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=2&sn=af8712df6da3a2ba259835d88b9ab868&chksm=bd48fc738a3f7565d6958b541b4960db4972b648378a016107c05d32b25aadc6bb99041b0fff#rd)  
-- [2024-01-10-【早说】用户故事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=2&sn=85cbbf5ee6dcfebaecf01b9b7f2521ce&chksm=bd48fc628a3f75742122ec3be0872b1fa5643924287ff957bb2c223889a3caebae72c9bbd15a#rd)  
+- [2024-01-11-【第3166期】localhost工具：本地代码的远程之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=1&sn=b3f68c965e2ab76f009697c8e3a01bdf&chksm=bd48fc738a3f756556a88dd16a91257e9073ee27e84029aef31eece2ae378647dd4c92fc25ec#rd)  
 - [2024-01-10-【第3165期】谈谈如何设计一个插件（Plugin）体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=1&sn=8e32de99c2488c5bcc9148eb8d7b0e12&chksm=bd48fc628a3f7574ad328060253e2b96ee30e8a6e44c5cdc5210a733ae436a50b45ed16fdd1b#rd)  
-- [2024-01-09-【第3164期】如何在线上使用-SourceMap](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=1&sn=901ad616df0e82ca728aad5e126752b2&chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd)  
+- [2024-01-10-【早说】用户故事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=2&sn=85cbbf5ee6dcfebaecf01b9b7f2521ce&chksm=bd48fc628a3f75742122ec3be0872b1fa5643924287ff957bb2c223889a3caebae72c9bbd15a#rd)  
 - [2024-01-09-【早说】SBI：情况、行为、影响](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=2&sn=e8d5aeb1c2e0398b2189cd0d9fe34c16&chksm=bd48fc5d8a3f754be46cdf6d0a37280ca945fca0dbf74ffd432539188a8423f0a282b9f166d1#rd)  
-- [2024-01-08-【早说】PPP：进展、计划与问题](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=2&sn=dd7aec7a947ef90d1b56abb297cfdada&chksm=bd48fc3d8a3f752b5ee5df27fbf6477d32defafb0c22ed507214ad7d08ce5c64d3d2fec60de1#rd)  
+- [2024-01-09-【第3164期】如何在线上使用-SourceMap](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=1&sn=901ad616df0e82ca728aad5e126752b2&chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd)  
 - [2024-01-08-【第3163期】转转B端项目页面性能统计实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=1&sn=92b246e20b6ff308e4abcc6eacf645cb&chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd)  
-- [2024-01-07-【早说】一对一面谈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=2&sn=fa04bcb65c6d6dc5288ed423bc421a8e&chksm=bd48fc378a3f75218be21f486d094bc35bed8315e5154c1fee1ae51ae40084c355630a9eefc3#rd)  
+- [2024-01-08-【早说】PPP：进展、计划与问题](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=2&sn=dd7aec7a947ef90d1b56abb297cfdada&chksm=bd48fc3d8a3f752b5ee5df27fbf6477d32defafb0c22ed507214ad7d08ce5c64d3d2fec60de1#rd)  
 - [2024-01-07-【第3162期】前端APM指标采集大冒险](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=1&sn=fd90a8fb274ef52f7bc5f19d81acdaae&chksm=bd48fc378a3f7521294cc4a8c6e497af94942f2ddd81a6859a6328add51ec51ade462297cadf#rd)  
-- [2024-01-06-【早说】生态位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=2&sn=3de0b1f57d272705b29b506f4842ef75&chksm=bd48fc2c8a3f753a0c07e0d6eb026971e8839a6ed5bead3514eef03f0e7d0c5bb1706ad10655#rd)  
+- [2024-01-07-【早说】一对一面谈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=2&sn=fa04bcb65c6d6dc5288ed423bc421a8e&chksm=bd48fc378a3f75218be21f486d094bc35bed8315e5154c1fee1ae51ae40084c355630a9eefc3#rd)  
 - [2024-01-06-【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)  
+- [2024-01-06-【早说】生态位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=2&sn=3de0b1f57d272705b29b506f4842ef75&chksm=bd48fc2c8a3f753a0c07e0d6eb026971e8839a6ed5bead3514eef03f0e7d0c5bb1706ad10655#rd)  
 - [2024-01-05-【早说】关注和改造工作流](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268479&idx=2&sn=1860fb503c2e47947640a44cfbd4c227&chksm=bd48fcfb8a3f75ed695ecf2b25326d75cf2e07a4efbbbd200de9e2ee887b176612ffddc01b97#rd)  
 - [2023-12-27-【早说】赋能行为是有成本的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268292&idx=2&sn=e135e841412a665b449025981dbe58a2&chksm=bd48fd408a3f7456f177ef7e7ed3c03573a79b4127f20e1fc56d62b40e442e0003c448c40b4a#rd)  
 - [2023-12-26-【招聘】Taro-团队招人啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268278&idx=2&sn=901c867c8941353d1e30a1414f44fa1e&chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd)  
-- [2023-12-25-【招聘】微信数据平台招web前端开发高级工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268243&idx=2&sn=0bd11d5a50c7503eb07fcb89b166c541&chksm=bd48fd178a3f740123b2237df724c1ffbbf896cceb6192fb9eff14fbe2a946e75493f8e5f24e#rd)  
-- [2023-12-25-开眼了！中国奇葩宿舍设计大赏……](https://mp.weixin.qq.com/s?__biz=MzUxNjA0NzEwNg==&mid=2247524778&idx=1&sn=e5c54deb61ae8ec52f8b982d2f050733&chksm=f9af49c7ced8c0d17ea16780d5bf9f364c4db55c102c1c82a6af9a775212b6cd372de79d050b#rd)  
-- [2023-12-25-昨天去世，他们全都不在了](https://mp.weixin.qq.com/s?__biz=MzkwODM4ODY3Nw==&mid=2247648725&idx=1&sn=1cf660a3e26d3801c46d3769dfb78425&chksm=c0c675fff7b1fce9a7a28e0b707a51acfbd028ce3c271eab54af417fcfb637ad1694c52fac18#rd)  
-- [2023-12-25-【早说】如何成为一个早起的人？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267710&idx=2&sn=f871e8d16ad82bfb031e4107c660a8e4&chksm=bd48fbfa8a3f72ec870493d9ac8ddab4648ead843a4cf6a23f78e47d883f153c6c09e10b7a03#rd)  
-- [2023-12-25-【早说】前端如何做好用户体验？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=2&sn=769396811295ba766fdd25a2ad6c5d47&chksm=bd48f9428a3f70541dc2bff3eb6c3e39555a44a3e74d792291380b6f95d53e540ba099816c34#rd)  
+- [2023-12-25-【早说】迈克尔·波特：五力模型](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266751&idx=2&sn=633c50a700c7b0a24c25d65996d1f976&chksm=bd48c73b8a3f4e2d84cdc25650d1f510df02ff971eca4dacc9d0cfebcd8456e2bf73d182f529#rd)  
+- [2023-12-25-【早说】周爱民：告前端同学书](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266777&idx=2&sn=bda832325e9c08f5e6a5e51f8e8d5f7f&chksm=bd48c75d8a3f4e4b52f305fd846ab5f6c488f0a0d732ed18e1d95621cfade9e5ef1d9c3fdfd7#rd)  
+- [2023-12-25-【早说】十年业务开发，如何做好高效高质量的价值交付](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266840&idx=2&sn=22f99306ed645c8899d8f184b7e82c50&chksm=bd48c69c8a3f4f8af320365222249a6222da27b3b0c67486637ae1d5b35d0c7bfb886767e5ee#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,7 +414,7 @@
 </summary>
 
 
-- [2024-01-11-2024-年前端预测](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514778&idx=1&sn=7654f7b3e1670cb5d023db37d8c9d33f&chksm=eb0782e3dc700bf5fc4ff014e23e9e462422e817ec39ecf52887f96bdbc0e65ed3f7d497aba1#rd) ![](/assets/new.png)  
+- [2024-01-11-2024-年前端预测](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514778&idx=1&sn=7654f7b3e1670cb5d023db37d8c9d33f&chksm=eb0782e3dc700bf5fc4ff014e23e9e462422e817ec39ecf52887f96bdbc0e65ed3f7d497aba1#rd)  
 - [2024-01-09-浅析-5-种-React-组件设计模式](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514775&idx=1&sn=be0a0b8b090034d249d7dc6cf56cca99&chksm=eb0782eedc700bf86f07f13a4960faa23386377c3454a10414457b3a2f5e3d0058dd3bb8a5e5#rd)  
 - [2024-01-07-作为一个-React-深度使用者，反驳一下尤雨溪](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514772&idx=1&sn=8a06bc1d1888e1cd10067b33a243be2b&chksm=eb0782eddc700bfb1c4d8dc52329c141cfab7fecab8c1b189459d69e62625b4d3bbb84dda48c#rd)  
 - [2024-01-06-尤雨溪怒喷-React，挖了坑不想着埋，靠文档来挽救！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514767&idx=1&sn=4aa49e53f6dfbb8f531e0b904c97a3c9&chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd)  
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2024-01-12-科技爱好者周刊（第-286-期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html) ![](/assets/new.png)  
 - [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)  
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)  
 - [2023-12-22-科技爱好者周刊（第-283-期）：年终感想-没有目的地，向前走](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-283.html)  
@@ -557,7 +558,6 @@
 - [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [2023-08-25-科技爱好者周刊（第-268-期）：生产力是形容机器，不是形容人](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-268.html)  
 - [2023-08-18-科技爱好者周刊（第-267-期）：5G-的春天要来了](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-267.html)  
-- [2023-08-11-科技爱好者周刊（第-266-期）：自己做双语-EPUB-电子书](http://www.ruanyifeng.com/blog/2023/08/weekly-issue-266.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -569,26 +569,26 @@
 </summary>
 
 
-- [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html)  
-- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html)  
+- [2024-01-12-如何搭建-GPTs-创新应用？有哪些关键技巧？](http://www.yyyweb.com/5574.html) ![](/assets/new.png)  
 - [2023-12-30-Vue-3.4-正式发布！更快、更强、更好用！](http://www.yyyweb.com/5572.html)  
-- [2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html)  
+- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html)  
+- [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html)  
 - [2023-12-09-用-JavaScript-实现一个很牛的扫码功能](http://www.yyyweb.com/5559.html)  
+- [2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html)  
 - [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html)  
-- [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html)  
 - [2023-11-04-ssh-rsa-问题：No-matching-host-key-type-found.](http://www.yyyweb.com/5548.html)  
+- [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html)  
 - [2023-10-15-抓包神器-Charles-的安装、配置及使用](http://www.yyyweb.com/5546.html)  
 - [2023-10-06-8个实现网站滚动效果的-CSS-&amp;-JavaScript-代码](http://www.yyyweb.com/5540.html)  
 - [2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html)  
 - [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html)  
 - [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
-- [2023-09-02-10-个图像悬停效果-CSS-&amp;-JavaScript-代码片段](http://www.yyyweb.com/5531.html)  
-- [2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html)  
 - [2023-09-02-JavaScript-侦测手机浏览器的五种方法](http://www.yyyweb.com/5528.html)  
+- [2023-09-02-尤雨溪这两天微博募捐，开源如何赚大钱？](http://www.yyyweb.com/5527.html)  
+- [2023-09-02-10-个图像悬停效果-CSS-&amp;-JavaScript-代码片段](http://www.yyyweb.com/5531.html)  
 - [2023-08-30-你应该立即停止使用-lodash-webpack-plugin](http://www.yyyweb.com/5525.html)  
 - [2023-08-20-彻底搞懂-package.json-中的-exports,-main,-module,-type](http://www.yyyweb.com/5522.html)  
 - [2023-08-19-Mac-环境快速安装-Homebrew-&amp;-Nginx-教程](http://www.yyyweb.com/5518.html)  
-- [2023-07-29-基于-Electron-+-Vue3-搭建一个桌面应用](http://www.yyyweb.com/5512.html)  
 - [......【查看更多】......](/details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
