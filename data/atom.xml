@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-13T00:00:52.617Z</updated>
+    <updated>2024-01-13T22:00:39.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[公司实习生居然还在手动切换node版本？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514791&amp;idx=2&amp;sn=e01b78e706d6aa6f20555f2d1f6369af&amp;chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514791&amp;idx=2&amp;sn=e01b78e706d6aa6f20555f2d1f6369af&amp;chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd"/>
+        <updated>2024-01-12T16:00:00.000Z</updated>
+        <published>2024-01-12T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is htmx Just Another JS Framework?]]></title>
         <id>https://javascriptweekly.com/issues/670</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[浅析 React Fiber 架构]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617724&amp;idx=2&amp;sn=3fe8046ee42e0d5d9bec4fc94c522392&amp;chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617724&amp;idx=2&amp;sn=3fe8046ee42e0d5d9bec4fc94c522392&amp;chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd"/>
-        <updated>2023-12-14T16:00:00.000Z</updated>
-        <published>2023-12-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3142期】使用 Taro 开发鸿蒙原生应用 —— 当 Taro 遇到纯血鸿蒙]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267971&amp;idx=1&amp;sn=33b78daaa2923f53bc385c5091416e37&amp;chksm=bd48fa078a3f7311ae127b0f4214d3db0e9a72c8226a4c7dd1ece893b006347e6218c46681a0#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651267971&amp;idx=1&amp;sn=33b78daaa2923f53bc385c5091416e37&amp;chksm=bd48fa078a3f7311ae127b0f4214d3db0e9a72c8226a4c7dd1ece893b006347e6218c46681a0#rd"/>
         <updated>2023-12-14T16:00:00.000Z</updated>
         <published>2023-12-14T16:00:00.000Z</published>
     </entry>
