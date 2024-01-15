@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-15 10:02:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-16 06:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -104,8 +104,8 @@
 </summary>
 
 
-- [2024-01-15-【第3170期】现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=1&sn=8b6e7003554d1bba294672ee291e8b5f&chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd) ![](/assets/new.png)  
-- [2024-01-15-【早说】回顾会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=2&sn=f4e9e5bca22058ed20cdd837b5566440&chksm=bd48ffb88a3f76ae301c59a6e9e5deb7e75decc42e764bf0afe346dd57fc1731c0139551b177#rd) ![](/assets/new.png)  
+- [2024-01-15-【第3170期】现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=1&sn=8b6e7003554d1bba294672ee291e8b5f&chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd)  
+- [2024-01-15-【早说】回顾会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=2&sn=f4e9e5bca22058ed20cdd837b5566440&chksm=bd48ffb88a3f76ae301c59a6e9e5deb7e75decc42e764bf0afe346dd57fc1731c0139551b177#rd)  
 - [2024-01-14-【早说】事故处理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=2&sn=1d4e0fbede9de164452a37d859baf05f&chksm=bd48ffb28a3f76a4bae4caedff226c79a8c626ad27662ec09cfd70081a9cca3b52b036a1657d#rd)  
 - [2024-01-14-【第3169期】阅后即焚的燃尽图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=1&sn=a7ea7c55889f2269c14c06bddcc64b93&chksm=bd48ffb28a3f76a4b7d4e49e77a5a3883e3da66dc9c3ad3644601f8bfce1ebf48c8de5ff251b#rd)  
 - [2024-01-13-【第3168期】按钮设计的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=1&sn=8db6924ef010340806fb99eb3b82133d&chksm=bd48ffb48a3f76a2b712e6e7ac57f13e0e5ce268d9edb1c427707ba5fe92eea296145cdfe811#rd)  
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/) ![](/assets/new.png)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [2023-12-26-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
@@ -526,7 +527,6 @@
 - [2023-08-29-Web-referrer策略详解与防盗链图片的显示](https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/)  
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/)  
 - [2023-08-10-查漏补缺，我仍未知道的HTML-nonce和popover属性](https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/)  
-- [2023-07-31-HTML-kbd、var、samp元素你使用过没？](https://www.zhangxinxu.com/wordpress/2023/07/html-samp-element/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
