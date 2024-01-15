@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-14T04:02:21.434Z</updated>
+    <updated>2024-01-15T02:02:30.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3170期】现代 CSS 解决方案：文字颜色自动适配背景色！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268668&amp;idx=1&amp;sn=8b6e7003554d1bba294672ee291e8b5f&amp;chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268668&amp;idx=1&amp;sn=8b6e7003554d1bba294672ee291e8b5f&amp;chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd"/>
+        <updated>2024-01-14T16:00:00.000Z</updated>
+        <published>2024-01-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司实习生居然还在手动切换node版本？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514791&amp;idx=2&amp;sn=e01b78e706d6aa6f20555f2d1f6369af&amp;chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[突破 ToB 前端开发场景中的 antd Table 性能瓶颈]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523375&amp;idx=1&amp;sn=151d05dc5daf4856e195597edd26e982&amp;chksm=f952296cce25a07a3f9666ab33e83910a14bcc85751218abef7c6236853c87056611cbd0813e#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523375&amp;idx=1&amp;sn=151d05dc5daf4856e195597edd26e982&amp;chksm=f952296cce25a07a3f9666ab33e83910a14bcc85751218abef7c6236853c87056611cbd0813e#rd"/>
-        <updated>2023-12-14T16:00:00.000Z</updated>
-        <published>2023-12-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅析 React Fiber 架构]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617724&amp;idx=2&amp;sn=3fe8046ee42e0d5d9bec4fc94c522392&amp;chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617724&amp;idx=2&amp;sn=3fe8046ee42e0d5d9bec4fc94c522392&amp;chksm=8022ae7db755276bc844f0011466f58c82f01746418847b4e315d213b018205799480d84a79d#rd"/>
         <updated>2023-12-14T16:00:00.000Z</updated>
         <published>2023-12-14T16:00:00.000Z</published>
     </entry>

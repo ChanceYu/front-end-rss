@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-14 12:02:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-15 10:02:29，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2024-01-14-【第3169期】阅后即焚的燃尽图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=1&sn=a7ea7c55889f2269c14c06bddcc64b93&chksm=bd48ffb28a3f76a4b7d4e49e77a5a3883e3da66dc9c3ad3644601f8bfce1ebf48c8de5ff251b#rd) ![](/assets/new.png)  
-- [2024-01-14-【早说】事故处理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=2&sn=1d4e0fbede9de164452a37d859baf05f&chksm=bd48ffb28a3f76a4bae4caedff226c79a8c626ad27662ec09cfd70081a9cca3b52b036a1657d#rd) ![](/assets/new.png)  
-- [2024-01-13-【早说】产品做减法，业务做加法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=2&sn=5c0c447e98e1ba791ddf452e4d946753&chksm=bd48ffb48a3f76a2be57f091a9459449a35ee616bec60c2ff0c25c86a93b66ec2cbbb76dc76d#rd)  
+- [2024-01-15-【第3170期】现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=1&sn=8b6e7003554d1bba294672ee291e8b5f&chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd) ![](/assets/new.png)  
+- [2024-01-15-【早说】回顾会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=2&sn=f4e9e5bca22058ed20cdd837b5566440&chksm=bd48ffb88a3f76ae301c59a6e9e5deb7e75decc42e764bf0afe346dd57fc1731c0139551b177#rd) ![](/assets/new.png)  
+- [2024-01-14-【早说】事故处理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=2&sn=1d4e0fbede9de164452a37d859baf05f&chksm=bd48ffb28a3f76a4bae4caedff226c79a8c626ad27662ec09cfd70081a9cca3b52b036a1657d#rd)  
+- [2024-01-14-【第3169期】阅后即焚的燃尽图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=1&sn=a7ea7c55889f2269c14c06bddcc64b93&chksm=bd48ffb28a3f76a4b7d4e49e77a5a3883e3da66dc9c3ad3644601f8bfce1ebf48c8de5ff251b#rd)  
 - [2024-01-13-【第3168期】按钮设计的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=1&sn=8db6924ef010340806fb99eb3b82133d&chksm=bd48ffb48a3f76a2b712e6e7ac57f13e0e5ce268d9edb1c427707ba5fe92eea296145cdfe811#rd)  
-- [2024-01-12-【第3167期】Web-第三方嵌入的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=1&sn=0a369983793108d9def718709935fcac&chksm=bd48ff8c8a3f769a2291b311c0531d5db4e7ea23e8f69856fb2871c170bb2a0964d2e5898a76#rd)  
+- [2024-01-13-【早说】产品做减法，业务做加法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=2&sn=5c0c447e98e1ba791ddf452e4d946753&chksm=bd48ffb48a3f76a2be57f091a9459449a35ee616bec60c2ff0c25c86a93b66ec2cbbb76dc76d#rd)  
 - [2024-01-12-【早说】评审机制](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=2&sn=460ba13f55d21acb5265ceb51f240c25&chksm=bd48ff8c8a3f769ab1ba1d10b89247deeac9dd56a8cb3835f3f34950fd318fc22634173d325c#rd)  
-- [2024-01-11-【早说】干货的定义](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=2&sn=af8712df6da3a2ba259835d88b9ab868&chksm=bd48fc738a3f7565d6958b541b4960db4972b648378a016107c05d32b25aadc6bb99041b0fff#rd)  
+- [2024-01-12-【第3167期】Web-第三方嵌入的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=1&sn=0a369983793108d9def718709935fcac&chksm=bd48ff8c8a3f769a2291b311c0531d5db4e7ea23e8f69856fb2871c170bb2a0964d2e5898a76#rd)  
 - [2024-01-11-【第3166期】localhost工具：本地代码的远程之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=1&sn=b3f68c965e2ab76f009697c8e3a01bdf&chksm=bd48fc738a3f756556a88dd16a91257e9073ee27e84029aef31eece2ae378647dd4c92fc25ec#rd)  
-- [2024-01-10-【第3165期】谈谈如何设计一个插件（Plugin）体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=1&sn=8e32de99c2488c5bcc9148eb8d7b0e12&chksm=bd48fc628a3f7574ad328060253e2b96ee30e8a6e44c5cdc5210a733ae436a50b45ed16fdd1b#rd)  
+- [2024-01-11-【早说】干货的定义](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=2&sn=af8712df6da3a2ba259835d88b9ab868&chksm=bd48fc738a3f7565d6958b541b4960db4972b648378a016107c05d32b25aadc6bb99041b0fff#rd)  
 - [2024-01-10-【早说】用户故事](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=2&sn=85cbbf5ee6dcfebaecf01b9b7f2521ce&chksm=bd48fc628a3f75742122ec3be0872b1fa5643924287ff957bb2c223889a3caebae72c9bbd15a#rd)  
-- [2024-01-09-【早说】SBI：情况、行为、影响](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=2&sn=e8d5aeb1c2e0398b2189cd0d9fe34c16&chksm=bd48fc5d8a3f754be46cdf6d0a37280ca945fca0dbf74ffd432539188a8423f0a282b9f166d1#rd)  
+- [2024-01-10-【第3165期】谈谈如何设计一个插件（Plugin）体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268582&idx=1&sn=8e32de99c2488c5bcc9148eb8d7b0e12&chksm=bd48fc628a3f7574ad328060253e2b96ee30e8a6e44c5cdc5210a733ae436a50b45ed16fdd1b#rd)  
 - [2024-01-09-【第3164期】如何在线上使用-SourceMap](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=1&sn=901ad616df0e82ca728aad5e126752b2&chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd)  
-- [2024-01-08-【第3163期】转转B端项目页面性能统计实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=1&sn=92b246e20b6ff308e4abcc6eacf645cb&chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd)  
+- [2024-01-09-【早说】SBI：情况、行为、影响](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268569&idx=2&sn=e8d5aeb1c2e0398b2189cd0d9fe34c16&chksm=bd48fc5d8a3f754be46cdf6d0a37280ca945fca0dbf74ffd432539188a8423f0a282b9f166d1#rd)  
 - [2024-01-08-【早说】PPP：进展、计划与问题](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=2&sn=dd7aec7a947ef90d1b56abb297cfdada&chksm=bd48fc3d8a3f752b5ee5df27fbf6477d32defafb0c22ed507214ad7d08ce5c64d3d2fec60de1#rd)  
-- [2024-01-07-【第3162期】前端APM指标采集大冒险](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=1&sn=fd90a8fb274ef52f7bc5f19d81acdaae&chksm=bd48fc378a3f7521294cc4a8c6e497af94942f2ddd81a6859a6328add51ec51ade462297cadf#rd)  
+- [2024-01-08-【第3163期】转转B端项目页面性能统计实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=1&sn=92b246e20b6ff308e4abcc6eacf645cb&chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd)  
 - [2024-01-07-【早说】一对一面谈](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=2&sn=fa04bcb65c6d6dc5288ed423bc421a8e&chksm=bd48fc378a3f75218be21f486d094bc35bed8315e5154c1fee1ae51ae40084c355630a9eefc3#rd)  
-- [2024-01-06-【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)  
+- [2024-01-07-【第3162期】前端APM指标采集大冒险](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268531&idx=1&sn=fd90a8fb274ef52f7bc5f19d81acdaae&chksm=bd48fc378a3f7521294cc4a8c6e497af94942f2ddd81a6859a6328add51ec51ade462297cadf#rd)  
 - [2024-01-06-【早说】生态位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=2&sn=3de0b1f57d272705b29b506f4842ef75&chksm=bd48fc2c8a3f753a0c07e0d6eb026971e8839a6ed5bead3514eef03f0e7d0c5bb1706ad10655#rd)  
-- [2024-01-05-【早说】关注和改造工作流](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268479&idx=2&sn=1860fb503c2e47947640a44cfbd4c227&chksm=bd48fcfb8a3f75ed695ecf2b25326d75cf2e07a4efbbbd200de9e2ee887b176612ffddc01b97#rd)  
-- [2023-12-27-【早说】赋能行为是有成本的](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268292&idx=2&sn=e135e841412a665b449025981dbe58a2&chksm=bd48fd408a3f7456f177ef7e7ed3c03573a79b4127f20e1fc56d62b40e442e0003c448c40b4a#rd)  
+- [2024-01-06-【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
