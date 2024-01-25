@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-16T02:00:52.281Z</updated>
+    <updated>2024-01-25T10:06:51.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,62 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3179期】fsx 简介：JavaScript 的现代文件系统 API]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268884&amp;idx=1&amp;sn=ecb14b8224c1a0b478b0031ba73cb42d&amp;chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268884&amp;idx=1&amp;sn=ecb14b8224c1a0b478b0031ba73cb42d&amp;chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd"/>
+        <updated>2024-01-23T16:00:00.000Z</updated>
+        <published>2024-01-23T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3178期】使用 Taro 开发鸿蒙原生应用 —— 快速上手，鸿蒙应用开发指南]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268877&amp;idx=1&amp;sn=cec30208dfa165de88eeb5521ef5dff6&amp;chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268877&amp;idx=1&amp;sn=cec30208dfa165de88eeb5521ef5dff6&amp;chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd"/>
+        <updated>2024-01-22T16:00:00.000Z</updated>
+        <published>2024-01-22T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS @scope他来了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/"/>
+        <updated>2024-01-20T16:00:00.000Z</updated>
+        <published>2024-01-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3176期】WebCodecs 开启 Web 音视频新篇章]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268861&amp;idx=1&amp;sn=46adb56e8947b228290e1f5e4559efcb&amp;chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268861&amp;idx=1&amp;sn=46adb56e8947b228290e1f5e4559efcb&amp;chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd"/>
+        <updated>2024-01-20T16:00:00.000Z</updated>
+        <published>2024-01-20T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3175期】用 View Transition API 在 Web 做出 Native 般丝滑的动画]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268857&amp;idx=1&amp;sn=6618a91403f33486ff810a223410d414&amp;chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268857&amp;idx=1&amp;sn=6618a91403f33486ff810a223410d414&amp;chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd"/>
+        <updated>2024-01-19T16:00:00.000Z</updated>
+        <published>2024-01-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代 CSS 解决方案：文字颜色自动适配背景色！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514816&amp;idx=2&amp;sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&amp;chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514816&amp;idx=2&amp;sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&amp;chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd"/>
+        <updated>2024-01-17T16:00:00.000Z</updated>
+        <published>2024-01-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astro + htmx + Alpine.js == AHA]]></title>
+        <id>https://javascriptweekly.com/issues/671</id>
+        <link href="https://javascriptweekly.com/issues/671"/>
+        <updated>2024-01-17T16:00:00.000Z</updated>
+        <published>2024-01-17T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm by the numbers]]></title>
+        <id>https://nodeweekly.com/issues/517</id>
+        <link href="https://nodeweekly.com/issues/517"/>
+        <updated>2024-01-15T16:00:00.000Z</updated>
+        <published>2024-01-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用JS快速获取video视频任意位置的缩略图]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/</id>
@@ -307,61 +363,5 @@
         <link href="https://nodeweekly.com/issues/515"/>
         <updated>2023-12-18T16:00:00.000Z</updated>
         <published>2023-12-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尝试借助CSS @container实现多行文本展开收起]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488723&amp;idx=1&amp;sn=8376aee095e38cb26bc4946ed2519869&amp;chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488723&amp;idx=1&amp;sn=8376aee095e38cb26bc4946ed2519869&amp;chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd"/>
-        <updated>2023-12-17T16:00:00.000Z</updated>
-        <published>2023-12-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 2 即将结束支持，你需要注意这些！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514654&amp;idx=2&amp;sn=1f12d8f715e0e5a31254ada7ef75ce9a&amp;chksm=eb078267dc700b7110d090d2a9e516b7b65f1ed4d9f23f27b08dda62a87aa42039c968b20084#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514654&amp;idx=2&amp;sn=1f12d8f715e0e5a31254ada7ef75ce9a&amp;chksm=eb078267dc700b7110d090d2a9e516b7b65f1ed4d9f23f27b08dda62a87aa42039c968b20084#rd"/>
-        <updated>2023-12-17T16:00:00.000Z</updated>
-        <published>2023-12-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 单元测试实例：快速上手指南]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523407&amp;idx=1&amp;sn=3ef1ee8ce15e18d3c9be95defa8ffd93&amp;chksm=f952290cce25a01a16da5490a733bec2c249d8c8756a9e2549fc6753ffee32d5d0b05ac276f8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523407&amp;idx=1&amp;sn=3ef1ee8ce15e18d3c9be95defa8ffd93&amp;chksm=f952290cce25a01a16da5490a733bec2c249d8c8756a9e2549fc6753ffee32d5d0b05ac276f8#rd"/>
-        <updated>2023-12-17T16:00:00.000Z</updated>
-        <published>2023-12-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：tree-shaking的原理是什么？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617728&amp;idx=2&amp;sn=7a59a8e4dd3981d6146c00fe72fd9a27&amp;chksm=8022ae01b75527174c786884090f03e34ba1846c57c5e1e0b713b07114aa3dda27759cccf511#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617728&amp;idx=2&amp;sn=7a59a8e4dd3981d6146c00fe72fd9a27&amp;chksm=8022ae01b75527174c786884090f03e34ba1846c57c5e1e0b713b07114aa3dda27759cccf511#rd"/>
-        <updated>2023-12-17T16:00:00.000Z</updated>
-        <published>2023-12-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：生产环境构建时为什么要提取css文件？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617728&amp;idx=1&amp;sn=6454d7d0a8507be4027e3625fe30f025&amp;chksm=8022ae01b755271796c37b2fd203cafbc1988ed63208b171da6644475988e14076109ca033fc#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617728&amp;idx=1&amp;sn=6454d7d0a8507be4027e3625fe30f025&amp;chksm=8022ae01b755271796c37b2fd203cafbc1988ed63208b171da6644475988e14076109ca033fc#rd"/>
-        <updated>2023-12-17T16:00:00.000Z</updated>
-        <published>2023-12-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3145期】使用 Taro 开发鸿蒙原生应用 —— 探秘适配鸿蒙 ArkTS 的工作原理]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268067&amp;idx=1&amp;sn=7b5c3dda59627e2f8d9eb946bee82b31&amp;chksm=bd48fa678a3f7371a0365009a6271c6fee04314fb1c69c0c88c455737b23d6cbfe9eb981d271#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268067&amp;idx=1&amp;sn=7b5c3dda59627e2f8d9eb946bee82b31&amp;chksm=bd48fa678a3f7371a0365009a6271c6fee04314fb1c69c0c88c455737b23d6cbfe9eb981d271#rd"/>
-        <updated>2023-12-17T16:00:00.000Z</updated>
-        <published>2023-12-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3144期】2023年CSS新特性盘点]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268063&amp;idx=1&amp;sn=275d824d73102d0dbf743efb8ce126cd&amp;chksm=bd48fa5b8a3f734da9e0f87e75530cf0e06b865fbab4a2f81cc8127387f67fabc635df3110a4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268063&amp;idx=1&amp;sn=275d824d73102d0dbf743efb8ce126cd&amp;chksm=bd48fa5b8a3f734da9e0f87e75530cf0e06b865fbab4a2f81cc8127387f67fabc635df3110a4#rd"/>
-        <updated>2023-12-16T16:00:00.000Z</updated>
-        <published>2023-12-16T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268059&amp;idx=1&amp;sn=f0405c1ff8a64c5abe40eb61e80e2b0b&amp;chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268059&amp;idx=1&amp;sn=f0405c1ff8a64c5abe40eb61e80e2b0b&amp;chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd"/>
-        <updated>2023-12-15T16:00:00.000Z</updated>
-        <published>2023-12-15T16:00:00.000Z</published>
     </entry>
 </feed>

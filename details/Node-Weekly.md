@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2024-01-09 23:09:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-25 18:06:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518) 
+- [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517) 
 - [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516) 
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515) 
 - [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514) 

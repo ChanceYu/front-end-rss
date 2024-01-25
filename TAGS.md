@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-01-16 10:00:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-01-25 18:06:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -76,8 +76,8 @@
 
 - [【前端早读课】【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)
 - [【前端早读课】【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)
-- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [【前端早读课】【活动】VueConf-&amp;-ViteConf-2023。8月26日，苏州见。](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=2&sn=8722e592e3dbbe5d11e7412d1207ba47&chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd)
+- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
 - [【前端早读课】【第2991期】从自研走向开源的-TinyVue-组件库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263668&idx=1&sn=33e2a54f9f757adf2dd4fd1c1a5945b6&chksm=bd48cb308a3f4226aa3953a4506eb43f68e1e838c4c84560ce3d3ed1f2cafb44fcbb60130e33#rd)
 - [【前端早读课】【第2974期】ChatGPT教用200行代码写一个简版Vue框架——OpenTiny](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263392&idx=1&sn=2841859805edaf9baea4da7c56426b2c&chksm=bd48c8248a3f4132a4d7d06ce896fa714c8c85dfae33512c10d443a98ec0a5363533ca88aefb#rd)
 - [【前端早读课】【第2950期】vite-plugin-vue-devtools：写一个Vue-DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=1&sn=c47d7ee1e37c5d672e1e41f9f75f4363&chksm=bd48d6a88a3f5fbe9541b16c94f29436c0fff9bef4818064e43c9acd306de372feb9e6259ed4#rd)
@@ -146,6 +146,7 @@
 
 
 
+- [【Node-Weekly】npm-by-the-numbers](https://nodeweekly.com/issues/517)
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
 - [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
 - [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
@@ -165,7 +166,6 @@
 - [【前端早读课】【第3122期】Rust-在前端：构建高性能前端打包工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267659&idx=1&sn=e10ab51059b62850cafd2425d6487f05&chksm=bd48fbcf8a3f72d98815759f0304925850100c29e72a045133ba6db87efa68662672d7ae89ec#rd)
 - [【前端早读课】【第3102期】一个npm包的自述](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267105&idx=1&sn=1e31ba061dc39d20c420636b896f60ff&chksm=bd48f9a58a3f70b3076ead016a6c08d72a993cf4e815eb5669e57015c5f8fe1ac2324e050088#rd)
 - [【前端早读课】【第3065期】让你的-VitePress-文档站支持-AI-对话能力](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265970&idx=1&sn=92b206620316f74d8160bd92694efdd5&chksm=bd48c2368a3f4b2073d5d0b21284b177beb1bb0ad760d7739b8d42bc6f3263cf1755a6cb9e72#rd)
-- [【前端早读课】【第3033期】@钟正楷：基于微模块构建大型-Web-前端应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265203&idx=1&sn=8cd854c83aea58eb1e56134932f4911c&chksm=bd48c1378a3f4821462ce62f4a9ec55cb6b1a791adcd66e7d79038852e73e4c1a79efff0940f#rd)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -218,6 +218,7 @@
 
 
 
+- [【前端早读课】【第3178期】使用-Taro-开发鸿蒙原生应用-——-快速上手，鸿蒙应用开发指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=1&sn=cec30208dfa165de88eeb5521ef5dff6&chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd)
 - [【前端早读课】【招聘】Taro-团队招人啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268278&idx=2&sn=901c867c8941353d1e30a1414f44fa1e&chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd)
 - [【前端早读课】【第3145期】使用-Taro-开发鸿蒙原生应用-——-探秘适配鸿蒙-ArkTS-的工作原理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268067&idx=1&sn=7b5c3dda59627e2f8d9eb946bee82b31&chksm=bd48fa678a3f7371a0365009a6271c6fee04314fb1c69c0c88c455737b23d6cbfe9eb981d271#rd)
 - [【前端早读课】【第3142期】使用-Taro-开发鸿蒙原生应用-——-当-Taro-遇到纯血鸿蒙](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267971&idx=1&sn=33b78daaa2923f53bc385c5091416e37&chksm=bd48fa078a3f7311ae127b0f4214d3db0e9a72c8226a4c7dd1ece893b006347e6218c46681a0#rd)
@@ -237,7 +238,6 @@
 - [【前端早读课】【第2157期】聊聊知乎小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242645&idx=1&sn=b63c8d4ac1a1534c153ed49699fcb64c&chksm=bd4919118a3e900725c2d93816ef86bc4c86f6363c64750932c596fe5507b232ef17a882dd09&scene=27#wechat_redirect)
 - [【前端早读课】【第2128期】大型小程序如何研发提效](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241302&idx=1&sn=459984a74bd73a6ac1c8d0c4656fc853&chksm=bd4962d28a3eebc462bf56b5bd823851eefe37ef1fbcb03b3b87aaa2154e50b8c558e94e7aff&scene=27#wechat_redirect)
 - [【前端早读课】【第2106期】小程序依赖分析实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240840&idx=2&sn=55f8db1fab3059318e576d2cfe9cfa93&chksm=bd49600c8a3ee91a136f231c51d5239994b2bc8cf62464e79aec8ec373c4fb5604ca2cc44beb&scene=27#wechat_redirect)
-- [【前端早读课】【招聘】饿了么外卖终端技术---小程序团队招前端（杭州-+-上海）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239078&idx=2&sn=8f751c0b9e591c2ce4beb39573c1734b&chksm=bd496b228a3ee23456874a54f7c82f8be3793cff4a696fb080950c87f1fd24548831b3e053c5&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/miniprogram.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -260,8 +260,8 @@
 - [【前端早读课】【图书】PWA入门与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236564&idx=2&sn=2ab8b984f59e66be74e39d605c8b179b&chksm=bd4971508a3ef846ca847ff5ba5e4d82c7d310456e23aa12c7c7f2fbd04d58e54770a8197073&scene=27#wechat_redirect)
 - [【前端早读课】一套代码、多端运行，如何快速上手Flutter？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232880&idx=1&sn=6072b1f406b0cc36bc3be0e16e7405e3#rd)
 - [【前端早读课】【第1557期】带你走进PWA在业务中的实践方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231733&idx=1&sn=e55c2f9905606a4930e4961ec4917f44#rd)
-- [【前端早读课】【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)
 - [【前端早读课】【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect)
+- [【前端早读课】【图书】Flutter技术入门与实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=2&sn=02dbcb7d05b9d2462f5cc525d7c4b3ad#wechat_redirect)
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】Flutter-开发资源大全来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607689&idx=1&sn=d63c0c9b85b181801c385494ae881bb9&chksm=80228548b7550c5e270985590042f72f7f459fdb4e5a5336fc6e339cf14f02ce3eade971f9af#rd)
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)
 - [【JavaScript-Weekly】Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)
 - [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
 - [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】The-tale-of-how-static-typing-came-to-JavaScript](https://javascriptweekly.com/issues/648)
 - [【JavaScript-Weekly】CommonJS,-we-love-you,-we-love-you-not..](https://javascriptweekly.com/issues/646)
 - [【JavaScript-Weekly】This-is-a-doozy-of-an-issue](https://javascriptweekly.com/issues/645)
-- [【JavaScript-Weekly】11-years-of-JavaScript-on-top](https://javascriptweekly.com/issues/643)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -362,9 +362,10 @@
 
 
 
+- [【前端早读课】【第3175期】用-View-Transition-API-在-Web-做出-Native-般丝滑的动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=1&sn=6618a91403f33486ff810a223410d414&chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd)
 - [【前端早读课】【第3144期】2023年CSS新特性盘点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268063&idx=1&sn=275d824d73102d0dbf743efb8ce126cd&chksm=bd48fa5b8a3f734da9e0f87e75530cf0e06b865fbab4a2f81cc8127387f67fabc635df3110a4#rd)
-- [【前端早读课】【小册】Web-动画之旅：Web艺术的灵魂](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=2&sn=7925667d012b7471e0d3e56ab3d7aee8&chksm=bd48facd8a3f73db8536f4bd7e1bd1e0d44edc9d55ef8e23c146d8178a026accfdfa5cb9634c#rd)
 - [【前端早读课】【第3138期】快速了解-CSS-@starting-style-规则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=1&sn=1f5dec34f4b7fa3b7aef8572544d924d&chksm=bd48facd8a3f73db4dff037ae5735082a06f323f9ffc65079ab51b98c10ea56896fc38e88d67#rd)
+- [【前端早读课】【小册】Web-动画之旅：Web艺术的灵魂](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=2&sn=7925667d012b7471e0d3e56ab3d7aee8&chksm=bd48facd8a3f73db8536f4bd7e1bd1e0d44edc9d55ef8e23c146d8178a026accfdfa5cb9634c#rd)
 - [【前端早读课】【第3124期】-CSS前瞻：@media-scripting助你优雅降级](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267667&idx=1&sn=cf056598408a13926e0c89aa12511e7f&chksm=bd48fbd78a3f72c1082a66c14431c1974f91bd04c941384189bc9216ae77648c8de3d807b5d1#rd)
 - [【前端早读课】【第3119期】form-sizing：使用-CSS-实现文本区域的自动增加高度](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267471&idx=1&sn=b1d1e5a4180c806f5539eac8775ebc56&chksm=bd48f80b8a3f711db06c39330cac11a314d3ffef2899dd387fc9dfefe33e82966842b28fabac#rd)
 - [【前端早读课】【第3110期】快速了解CSS-相对颜色](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=1&sn=75f59e15741537f44599bbac5d7f87ae&chksm=bd48f9428a3f7054bea9d6ce43424948da753ad66f5e9210bb42370844ff18e43e808aad7a9f#rd)
@@ -373,15 +374,14 @@
 - [【前端早读课】【第3060期】图解-60-个-CSS-选择器](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265893&idx=1&sn=c664b580d51bc7efac26c64e94212619&chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd)
 - [【前端早读课】【第3048期】CSS-也能实现碰撞检测？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265614&idx=1&sn=0e4eaacba002d352a557b73517eb605c&chksm=bd48c3ca8a3f4adcb9e56520f9b1f5a8a97b54f38150fb615fe86dca632ece62acf695959d9b#rd)
 - [【前端早读课】【第3032期】CSS新特性,超强的-Anchor-Positioning-锚点定位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=1&sn=c3c1d35bdcc1a58ff6168a2b98a7f2c8&chksm=bd48c12b8a3f483d59d579285c9b800af98fe5f7fde3a56efb0b8c7ae289a7b163519699e7c0#rd)
-- [【前端早读课】【小册】现代CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=2&sn=7e6963f2c5e197362f40acd67f12d041&chksm=bd48cf4a8a3f465c9d14120b3b78d9e0f7817260e6f9806d62219ca729f21cfde6cdfb65406b#rd)
 - [【前端早读课】【第3029期】CSS-如何改变网格布局偶数行的排序？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=1&sn=712227e9148da99c52f75205888bfe37&chksm=bd48cf4a8a3f465c51f441f9af73fb697abc58d60b9c1b35dcf580ecb06a5cbf381c6f3c1828#rd)
+- [【前端早读课】【小册】现代CSS](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=2&sn=7e6963f2c5e197362f40acd67f12d041&chksm=bd48cf4a8a3f465c9d14120b3b78d9e0f7817260e6f9806d62219ca729f21cfde6cdfb65406b#rd)
 - [【前端早读课】【第3003期】擎天柱与CSS变换切换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264040&idx=1&sn=608fb0e71157e38c9ce5fc82ad6e2c33&chksm=bd48cdac8a3f44ba70524056bc2288adbe91d80a190d02a4ed56193382ec7d92baf58b481a56#rd)
 - [【前端早读课】【第2996期】WWDC2023---CSS有什么新东西](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263813&idx=1&sn=48d7269c268dba63f4d9bc148bcbc119&chksm=bd48cac18a3f43d7ee38fdaeed12965cc92c44bcfae878fd30166c9d3e05d024d1d562c2dd0c#rd)
 - [【前端早读课】【第2986期】携程火车票7个优化动画性能的方法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263554&idx=1&sn=c1de47bf8d2e670e5215cfc543490740&chksm=bd48cbc68a3f42d06d04a73b5408d19d40c1cc298e9b00d2a0cabe0a4e877c6495aacd748aca#rd)
-- [【前端早读课】【第2978期】CSS中@scope的简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=1&sn=b5ae594eca60aa8705a287ce730ddec9&chksm=bd48c84c8a3f415a86e27a1cf7cd889795e54339c394b93e31aea838440b658f049d5613342f#rd)
 - [【前端早读课】【小册】CSS-技术揭秘与实战通关](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=2&sn=c68304d9ac2fd3305f3739259397b25a&chksm=bd48c84c8a3f415a79485c1d44f3bdfbcaa206c7090ddf0deb4e32415d1f7aafbf5475789718#rd)
+- [【前端早读课】【第2978期】CSS中@scope的简介](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263432&idx=1&sn=b5ae594eca60aa8705a287ce730ddec9&chksm=bd48c84c8a3f415a86e27a1cf7cd889795e54339c394b93e31aea838440b658f049d5613342f#rd)
 - [【前端早读课】【第2971期】前端开发如何更好的避免样式冲突？级联层CSS@layer](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263239&idx=1&sn=c684aa4e5b5a523999061c2f0c52de5e&chksm=bd48c8838a3f4195a4b4ed385608e341a3c96ad833172e9dbe68acb21cfc15df27bee4334338#rd)
-- [【前端早读课】【第2963期】用纯-CSS-方式实现动态切换主题风格](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263020&idx=2&sn=0fd577f0dedcb60745aaa56e1ef6674d&chksm=bd48c9a88a3f40be37aa4148c3e4e2429f9362d957f46edb7e7a3da37f5a49b39cf8e8d96666#rd)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -470,6 +470,7 @@
 
 
 
+- [【前端早读课】【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)
 - [【前端早读课】【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)
 - [【前端早读课】【招聘】TikTok-直播前端团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267748&idx=2&sn=e6f01f23e4e2c28eb286a177bf916c3a&chksm=bd48fb208a3f723631bfb5d475eea7d63db8129261c250f85c04fc0ae9801e6d28ce5219bbd6#rd)
 - [【前端早读课】【招聘】西瓜视频招前端研发高级工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267492&idx=2&sn=5626cc853b8a2857352fcedaeb3d7b8a&chksm=bd48f8208a3f71360be2eb2f7ab504986c0b79ace9ce4157bf4beb42c0c36f0c6ce9799b3d47#rd)
@@ -489,7 +490,6 @@
 - [【前端早读课】【视频】剖析三个常见的API调试工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243986&idx=2&sn=8beb3dbb7464cf582de77deec82caaa0&chksm=bd491c568a3e9540a331d7318dbcbbaa0f9240869c1e5ac7b669bb30927ee25950bec32c8b42&scene=27#wechat_redirect)
 - [【前端早读课】【视频】玉伯心中的好团队](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243918&idx=2&sn=21b630aefdedbcdf60166dcc2ae48e75&chksm=bd491c0a8a3e951c1de191a8c9238f5654d7a0f9a6036ab3a58a438de418c64a34278784bb11&scene=27#wechat_redirect)
 - [【前端早读课】【直播】Apache-ECharts-5-震撼发布：五大模块，十五项新特性全面升级！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243693&idx=2&sn=903b9a69fe1e78dac509cbdbd25da780&chksm=bd491d298a3e943ffaf02bebed54566a50569e9d4ffe22fa9dab1a8b0654bb15e4f9700b97cb&scene=27#wechat_redirect)
-- [【前端早读课】【第2178期】我在阿里云做前端智能化（Dumbo）--图像分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243304&idx=1&sn=2087a5b4eb9326ab30ac47ce4dd78bc5&chksm=bd491aac8a3e93ba0dd31548503befcb18c21920629b21e68d9648c48161e2461f802e41236a&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -720,6 +720,7 @@
 
 
 
+- [【Node-Weekly】Neural-network-chess](https://nodeweekly.com/issues/518)
 - [【Node-Weekly】Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512)
 - [【Node-Weekly】Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)
 - [【Node-Weekly】Let's-create-some-dependency-graphs](https://nodeweekly.com/issues/498)
@@ -739,7 +740,6 @@
 - [【Node-Weekly】Damage-caused-by-package-based-protest](https://nodeweekly.com/issues/429)
 - [【Node-Weekly】Using-'execa'-to-run-other-processes](https://nodeweekly.com/issues/427)
 - [【Node-Weekly】Eleventy-1.0](https://nodeweekly.com/issues/421)
-- [【Node-Weekly】📦-Broken-packages](https://nodeweekly.com/issues/420)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
