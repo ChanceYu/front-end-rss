@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-25 18:06:50，:rocket: 更新条数: +18， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-26 06:01:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -42,8 +42,8 @@
 </summary>
 
 
-- [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518) ![](/assets/new.png)  
-- [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517) ![](/assets/new.png)  
+- [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
+- [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517)  
 - [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)  
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)  
 - [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)  
@@ -73,7 +73,8 @@
 </summary>
 
 
-- [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671) ![](/assets/new.png)  
+- [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672) ![](/assets/new.png)  
+- [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
 - [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
@@ -92,7 +93,6 @@
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
-- [2023-08-17-We're-taking-a-few-weeks-off,-but..](https://javascriptweekly.com/issues/652)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -104,14 +104,14 @@
 </summary>
 
 
-- [2024-01-24-【第3179期】fsx-简介：JavaScript-的现代文件系统-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=1&sn=ecb14b8224c1a0b478b0031ba73cb42d&chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd) ![](/assets/new.png)  
-- [2024-01-24-【早说】技术债](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=2&sn=704f7e1ebc870096e60bfa8817a5e823&chksm=bd48fe908a3f77866364176ab4a921ef20164b8912537f814715cdbc1af5ee22def9d15886cb#rd) ![](/assets/new.png)  
-- [2024-01-23-【第3178期】使用-Taro-开发鸿蒙原生应用-——-快速上手，鸿蒙应用开发指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=1&sn=cec30208dfa165de88eeb5521ef5dff6&chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd) ![](/assets/new.png)  
-- [2024-01-23-【早说】适度地参加会议和聚会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=2&sn=8b1196955d3ae764f835c0e12653d505&chksm=bd48fe898a3f779f167a00b0faada28d6c5c13e321b879d76b49ea8f561e924ed59852965b02#rd) ![](/assets/new.png)  
-- [2024-01-22-【第3177期】vivo智能活动中台：悟空系统建设之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268865&idx=1&sn=8f99cefde9d2f08f09b0ac1e2537fbe5&chksm=bd48fe858a3f7793f6aabb0fbcc8ee3a24ac838cadac3697d4ac4e92237223799e1bd7b79a2c#rd) ![](/assets/new.png)  
-- [2024-01-21-【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd) ![](/assets/new.png)  
-- [2024-01-20-【第3175期】用-View-Transition-API-在-Web-做出-Native-般丝滑的动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=1&sn=6618a91403f33486ff810a223410d414&chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd) ![](/assets/new.png)  
-- [2024-01-20-【图书】ChatGPT高效提问：prompt技巧大揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=2&sn=1af79da0be754d0251f81c3a080926a2&chksm=bd48ff7d8a3f766b2e554850420b89202b709e75e8ffa7fdebdf7c40a9dcd1fc1b35f4a22f28#rd) ![](/assets/new.png)  
+- [2024-01-24-【第3179期】fsx-简介：JavaScript-的现代文件系统-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=1&sn=ecb14b8224c1a0b478b0031ba73cb42d&chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd)  
+- [2024-01-24-【早说】技术债](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=2&sn=704f7e1ebc870096e60bfa8817a5e823&chksm=bd48fe908a3f77866364176ab4a921ef20164b8912537f814715cdbc1af5ee22def9d15886cb#rd)  
+- [2024-01-23-【第3178期】使用-Taro-开发鸿蒙原生应用-——-快速上手，鸿蒙应用开发指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=1&sn=cec30208dfa165de88eeb5521ef5dff6&chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd)  
+- [2024-01-23-【早说】适度地参加会议和聚会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=2&sn=8b1196955d3ae764f835c0e12653d505&chksm=bd48fe898a3f779f167a00b0faada28d6c5c13e321b879d76b49ea8f561e924ed59852965b02#rd)  
+- [2024-01-22-【第3177期】vivo智能活动中台：悟空系统建设之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268865&idx=1&sn=8f99cefde9d2f08f09b0ac1e2537fbe5&chksm=bd48fe858a3f7793f6aabb0fbcc8ee3a24ac838cadac3697d4ac4e92237223799e1bd7b79a2c#rd)  
+- [2024-01-21-【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)  
+- [2024-01-20-【第3175期】用-View-Transition-API-在-Web-做出-Native-般丝滑的动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=1&sn=6618a91403f33486ff810a223410d414&chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd)  
+- [2024-01-20-【图书】ChatGPT高效提问：prompt技巧大揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=2&sn=1af79da0be754d0251f81c3a080926a2&chksm=bd48ff7d8a3f766b2e554850420b89202b709e75e8ffa7fdebdf7c40a9dcd1fc1b35f4a22f28#rd)  
 - [2024-01-16-【早说】YAGNI哲学](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268679&idx=2&sn=2edf3e4516098a168aeeb61120617228&chksm=bd48ffc38a3f76d5f75becc89cc8b8a3779563ec034cae7ade1d8419e7df32f2517f5381a26f#rd)  
 - [2024-01-16-【第3171期】Web-终极拦截技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268679&idx=1&sn=12b2068c9ce5eab43ed78df0215aeb64&chksm=bd48ffc38a3f76d53c9902f9959e2bfebad5073125bbb9e3617dbaddd2d6170be216d1cb3590#rd)  
 - [2024-01-15-【第3170期】现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=1&sn=8b6e7003554d1bba294672ee291e8b5f&chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd)  
@@ -414,11 +414,11 @@
 </summary>
 
 
-- [2024-01-22-只需要点击页面上的元素，就能够自动打开-vscode-定位到源代码，支持多框架！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514833&idx=1&sn=7eedc7b56f86a62df9382f8519d22fd6&chksm=eb0782a8dc700bbe8919612cc7483f4b9df590d5dbb2f65de40e07008b9f03083242c23ad6ca#rd) ![](/assets/new.png)  
-- [2024-01-19-前端真实的线上卡死问题排障，我们上门服务了客户……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514821&idx=1&sn=3c15567c5e083d239a174b07065ab732&chksm=eb0782bcdc700baae69dfacb565ecfd0c336401929b7e28035f5d15b1c35d8930d8bf2955a1a#rd) ![](/assets/new.png)  
-- [2024-01-18-年前，前端岗位爆了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=1&sn=1d7a87d58c6476fd35e0825cdfe5369c&chksm=eb0782b9dc700bafaf894ae61a774fcd16e6cd8bbc88bb76a5a758113fe37597688520560575#rd) ![](/assets/new.png)  
-- [2024-01-18-现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=2&sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd) ![](/assets/new.png)  
-- [2024-01-17-78k-Star！这个高质量前端工具集有点意思~](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514798&idx=1&sn=2f7cf632b199452ef30c03ee5e3170c2&chksm=eb0782d7dc700bc10b80a91cf6a2d45b1b3192f557074e9ebb3733aec75df977a0fb41092a60#rd) ![](/assets/new.png)  
+- [2024-01-22-只需要点击页面上的元素，就能够自动打开-vscode-定位到源代码，支持多框架！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514833&idx=1&sn=7eedc7b56f86a62df9382f8519d22fd6&chksm=eb0782a8dc700bbe8919612cc7483f4b9df590d5dbb2f65de40e07008b9f03083242c23ad6ca#rd)  
+- [2024-01-19-前端真实的线上卡死问题排障，我们上门服务了客户……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514821&idx=1&sn=3c15567c5e083d239a174b07065ab732&chksm=eb0782bcdc700baae69dfacb565ecfd0c336401929b7e28035f5d15b1c35d8930d8bf2955a1a#rd)  
+- [2024-01-18-年前，前端岗位爆了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=1&sn=1d7a87d58c6476fd35e0825cdfe5369c&chksm=eb0782b9dc700bafaf894ae61a774fcd16e6cd8bbc88bb76a5a758113fe37597688520560575#rd)  
+- [2024-01-18-现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=2&sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd)  
+- [2024-01-17-78k-Star！这个高质量前端工具集有点意思~](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514798&idx=1&sn=2f7cf632b199452ef30c03ee5e3170c2&chksm=eb0782d7dc700bc10b80a91cf6a2d45b1b3192f557074e9ebb3733aec75df977a0fb41092a60#rd)  
 - [2024-01-15-TypeScript-中的-extends-怎么那么骚啊？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514795&idx=1&sn=7f9ab124f3ddd24cf2eda41210f8db0a&chksm=eb0782d2dc700bc4f9a49ac0a7fd84ad7f427dee17a8363c7091aafa621660e33d1658a87502#rd)  
 - [2024-01-13-请前端人入局AI大模型，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514791&idx=1&sn=3a0e7100fdea2730b277ef92a34be481&chksm=eb0782dedc700bc8cb45b71016f20e0c4a1e54af30dbf319006991e1e7434168bddd46d6feab#rd)  
 - [2024-01-13-公司实习生居然还在手动切换node版本？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514791&idx=2&sn=e01b78e706d6aa6f20555f2d1f6369af&chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd)  
@@ -507,7 +507,7 @@
 </summary>
 
 
-- [2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/) ![](/assets/new.png)  
+- [2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/)  
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
@@ -538,7 +538,7 @@
 </summary>
 
 
-- [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html) ![](/assets/new.png)  
+- [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)  
 - [2024-01-12-科技爱好者周刊（第-286-期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)  
 - [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)  
 - [2023-12-29-科技爱好者周刊（第-284-期）：YouTube-有多少个视频？](http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html)  
