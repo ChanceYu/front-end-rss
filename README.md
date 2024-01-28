@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-26 10:02:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-29 06:01:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -104,26 +104,26 @@
 </summary>
 
 
-- [2024-01-24-【第3179期】fsx-简介：JavaScript-的现代文件系统-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=1&sn=ecb14b8224c1a0b478b0031ba73cb42d&chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd)  
+- [2024-01-26-【第3181期】webgl-实现透明视频动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268913&idx=1&sn=5cff163a8f7bd3085052f5264baeb99c&chksm=bd48feb58a3f77a3687252439442bc9a822833e4733d1ea5849abb8e205caf88f44d37b1c87b#rd) ![](/assets/new.png)  
+- [2024-01-26-【招聘】腾娱互动招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268913&idx=2&sn=fe4c4c54c01aee5b3528eb5b006be60d&chksm=bd48feb58a3f77a3ca371535d9f1c1d06491ea7c7bc4f6cfcfc2295804cd41f89f070ba220ec#rd) ![](/assets/new.png)  
+- [2024-01-25-【第3180期】WebGL-Chromakey-实时绿幕抠图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268890&idx=1&sn=9090c67708057c950d1b3cafa7f21433&chksm=bd48fe9e8a3f77887e4acc991a7b59ff15406fbddf453906e04ef3b8ad9f1a6e8a6679f4de7f#rd) ![](/assets/new.png)  
+- [2024-01-25-【早说】回顾文档与及时响应](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268890&idx=2&sn=81b2e4ed07b225de28799a7fa6c6ab74&chksm=bd48fe9e8a3f7788d1128eda1647ceeecc9430819cb344da317f2e65dff62f15f46dc3f129bd#rd) ![](/assets/new.png)  
 - [2024-01-24-【早说】技术债](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=2&sn=704f7e1ebc870096e60bfa8817a5e823&chksm=bd48fe908a3f77866364176ab4a921ef20164b8912537f814715cdbc1af5ee22def9d15886cb#rd)  
-- [2024-01-23-【第3178期】使用-Taro-开发鸿蒙原生应用-——-快速上手，鸿蒙应用开发指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=1&sn=cec30208dfa165de88eeb5521ef5dff6&chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd)  
+- [2024-01-24-【第3179期】fsx-简介：JavaScript-的现代文件系统-API](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268884&idx=1&sn=ecb14b8224c1a0b478b0031ba73cb42d&chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd)  
 - [2024-01-23-【早说】适度地参加会议和聚会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=2&sn=8b1196955d3ae764f835c0e12653d505&chksm=bd48fe898a3f779f167a00b0faada28d6c5c13e321b879d76b49ea8f561e924ed59852965b02#rd)  
+- [2024-01-23-【第3178期】使用-Taro-开发鸿蒙原生应用-——-快速上手，鸿蒙应用开发指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=1&sn=cec30208dfa165de88eeb5521ef5dff6&chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd)  
 - [2024-01-22-【第3177期】vivo智能活动中台：悟空系统建设之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268865&idx=1&sn=8f99cefde9d2f08f09b0ac1e2537fbe5&chksm=bd48fe858a3f7793f6aabb0fbcc8ee3a24ac838cadac3697d4ac4e92237223799e1bd7b79a2c#rd)  
 - [2024-01-21-【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)  
-- [2024-01-20-【第3175期】用-View-Transition-API-在-Web-做出-Native-般丝滑的动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=1&sn=6618a91403f33486ff810a223410d414&chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd)  
 - [2024-01-20-【图书】ChatGPT高效提问：prompt技巧大揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=2&sn=1af79da0be754d0251f81c3a080926a2&chksm=bd48ff7d8a3f766b2e554850420b89202b709e75e8ffa7fdebdf7c40a9dcd1fc1b35f4a22f28#rd)  
-- [2024-01-16-【早说】YAGNI哲学](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268679&idx=2&sn=2edf3e4516098a168aeeb61120617228&chksm=bd48ffc38a3f76d5f75becc89cc8b8a3779563ec034cae7ade1d8419e7df32f2517f5381a26f#rd)  
+- [2024-01-20-【第3175期】用-View-Transition-API-在-Web-做出-Native-般丝滑的动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=1&sn=6618a91403f33486ff810a223410d414&chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd)  
 - [2024-01-16-【第3171期】Web-终极拦截技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268679&idx=1&sn=12b2068c9ce5eab43ed78df0215aeb64&chksm=bd48ffc38a3f76d53c9902f9959e2bfebad5073125bbb9e3617dbaddd2d6170be216d1cb3590#rd)  
-- [2024-01-15-【第3170期】现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=1&sn=8b6e7003554d1bba294672ee291e8b5f&chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd)  
+- [2024-01-16-【早说】YAGNI哲学](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268679&idx=2&sn=2edf3e4516098a168aeeb61120617228&chksm=bd48ffc38a3f76d5f75becc89cc8b8a3779563ec034cae7ade1d8419e7df32f2517f5381a26f#rd)  
 - [2024-01-15-【早说】回顾会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=2&sn=f4e9e5bca22058ed20cdd837b5566440&chksm=bd48ffb88a3f76ae301c59a6e9e5deb7e75decc42e764bf0afe346dd57fc1731c0139551b177#rd)  
-- [2024-01-14-【早说】事故处理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=2&sn=1d4e0fbede9de164452a37d859baf05f&chksm=bd48ffb28a3f76a4bae4caedff226c79a8c626ad27662ec09cfd70081a9cca3b52b036a1657d#rd)  
+- [2024-01-15-【第3170期】现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268668&idx=1&sn=8b6e7003554d1bba294672ee291e8b5f&chksm=bd48ffb88a3f76ae2719b84c744774d0fac909060af64d3c76de0985b9cd31e14e4b9b622cec#rd)  
 - [2024-01-14-【第3169期】阅后即焚的燃尽图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=1&sn=a7ea7c55889f2269c14c06bddcc64b93&chksm=bd48ffb28a3f76a4b7d4e49e77a5a3883e3da66dc9c3ad3644601f8bfce1ebf48c8de5ff251b#rd)  
-- [2024-01-13-【第3168期】按钮设计的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=1&sn=8db6924ef010340806fb99eb3b82133d&chksm=bd48ffb48a3f76a2b712e6e7ac57f13e0e5ce268d9edb1c427707ba5fe92eea296145cdfe811#rd)  
+- [2024-01-14-【早说】事故处理](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268662&idx=2&sn=1d4e0fbede9de164452a37d859baf05f&chksm=bd48ffb28a3f76a4bae4caedff226c79a8c626ad27662ec09cfd70081a9cca3b52b036a1657d#rd)  
 - [2024-01-13-【早说】产品做减法，业务做加法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=2&sn=5c0c447e98e1ba791ddf452e4d946753&chksm=bd48ffb48a3f76a2be57f091a9459449a35ee616bec60c2ff0c25c86a93b66ec2cbbb76dc76d#rd)  
-- [2024-01-12-【早说】评审机制](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=2&sn=460ba13f55d21acb5265ceb51f240c25&chksm=bd48ff8c8a3f769ab1ba1d10b89247deeac9dd56a8cb3835f3f34950fd318fc22634173d325c#rd)  
-- [2024-01-12-【第3167期】Web-第三方嵌入的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268616&idx=1&sn=0a369983793108d9def718709935fcac&chksm=bd48ff8c8a3f769a2291b311c0531d5db4e7ea23e8f69856fb2871c170bb2a0964d2e5898a76#rd)  
-- [2024-01-11-【第3166期】localhost工具：本地代码的远程之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=1&sn=b3f68c965e2ab76f009697c8e3a01bdf&chksm=bd48fc738a3f756556a88dd16a91257e9073ee27e84029aef31eece2ae378647dd4c92fc25ec#rd)  
-- [2024-01-11-【早说】干货的定义](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268599&idx=2&sn=af8712df6da3a2ba259835d88b9ab868&chksm=bd48fc738a3f7565d6958b541b4960db4972b648378a016107c05d32b25aadc6bb99041b0fff#rd)  
+- [2024-01-13-【第3168期】按钮设计的技巧](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268656&idx=1&sn=8db6924ef010340806fb99eb3b82133d&chksm=bd48ffb48a3f76a2b712e6e7ac57f13e0e5ce268d9edb1c427707ba5fe92eea296145cdfe811#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -538,7 +538,7 @@
 </summary>
 
 
-- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html) ![](/assets/new.png)  
+- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)  
 - [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)  
 - [2024-01-12-科技爱好者周刊（第-286-期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)  
 - [2024-01-05-科技爱好者周刊（第-285-期）：为什么-PPT-不如备忘录](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-285.html)  
