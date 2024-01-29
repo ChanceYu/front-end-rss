@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-29T02:01:53.351Z</updated>
+    <updated>2024-01-29T04:00:50.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -48,6 +48,13 @@
         <link href="https://javascriptweekly.com/issues/672"/>
         <updated>2024-01-24T16:00:00.000Z</updated>
         <published>2024-01-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 国际化，一种简单易用的实现！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514838&amp;idx=1&amp;sn=2305532ad5a36e0b685d6b75b2d74095&amp;chksm=eb0782afdc700bb9f85aa543528e488b27785509d8065e658a39b9c06d066e300769edb2f348#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514838&amp;idx=1&amp;sn=2305532ad5a36e0b685d6b75b2d74095&amp;chksm=eb0782afdc700bb9f85aa543528e488b27785509d8065e658a39b9c06d066e300769edb2f348#rd"/>
+        <updated>2024-01-23T16:00:00.000Z</updated>
+        <published>2024-01-23T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3179期】fsx 简介：JavaScript 的现代文件系统 API]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue 2 将于 12 月 31 日到达生命周期终点]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514666&amp;idx=1&amp;sn=3acddd08e003666da2c14fd5816be6f7&amp;chksm=eb078253dc700b45455eb362522db42481d9167b98ded04aca6c6bbff4fb911550242b18ea04#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514666&amp;idx=1&amp;sn=3acddd08e003666da2c14fd5816be6f7&amp;chksm=eb078253dc700b45455eb362522db42481d9167b98ded04aca6c6bbff4fb911550242b18ea04#rd"/>
-        <updated>2023-12-19T16:00:00.000Z</updated>
-        <published>2023-12-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端框架自欺欺人，TypeScript全无必要？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523432&amp;idx=1&amp;sn=f7f4df4457b5fefa7fef036e5a9c22a6&amp;chksm=f952292bce25a03d0ea6e34fb403408df9febb1fe0ebd913a3f82209174f4c545466b4acb12c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523432&amp;idx=1&amp;sn=f7f4df4457b5fefa7fef036e5a9c22a6&amp;chksm=f952292bce25a03d0ea6e34fb403408df9febb1fe0ebd913a3f82209174f4c545466b4acb12c#rd"/>
         <updated>2023-12-19T16:00:00.000Z</updated>
         <published>2023-12-19T16:00:00.000Z</published>
     </entry>
