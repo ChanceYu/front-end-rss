@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-01-30 12:00:42，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-31 06:01:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519) ![](/assets/new.png)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517)  
 - [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)  
@@ -61,7 +62,6 @@
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
 - [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500)  
-- [2023-08-29-.env-support-coming-to-Node](https://nodeweekly.com/issues/499)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,8 +414,8 @@
 </summary>
 
 
-- [2024-01-30-现代-Vue-和-Vite-开发：最佳实践和技巧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514967&idx=1&sn=7b994292a0e5542ee138fa769cd6bfec&chksm=eb07832edc700a38feaab48bb73c9b4fbbd6b949dc88b2c737fe3dda21fcb555caf28fed552e#rd) ![](/assets/new.png)  
-- [2024-01-29-升级到-React-18，吸取到了这些血泪教训。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514892&idx=1&sn=4a0e0d141ec423f139e70e3c4285e1d5&chksm=eb078375dc700a636e4b2470f660a39ad83db6b5c27ea28ff0c137eb2fd20bb1521c21ed7a85#rd) ![](/assets/new.png)  
+- [2024-01-30-现代-Vue-和-Vite-开发：最佳实践和技巧](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514967&idx=1&sn=7b994292a0e5542ee138fa769cd6bfec&chksm=eb07832edc700a38feaab48bb73c9b4fbbd6b949dc88b2c737fe3dda21fcb555caf28fed552e#rd)  
+- [2024-01-29-升级到-React-18，吸取到了这些血泪教训。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514892&idx=1&sn=4a0e0d141ec423f139e70e3c4285e1d5&chksm=eb078375dc700a636e4b2470f660a39ad83db6b5c27ea28ff0c137eb2fd20bb1521c21ed7a85#rd)  
 - [2024-01-27-想进阶，强烈推荐这几个前端大佬！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514887&idx=1&sn=0e985ca13233f679113e4e250eb0d517&chksm=eb07837edc700a684718e9b4525fdd0cb0a1db3c1c8305ebda61201871fdc2b621a80f2b9379#rd)  
 - [2024-01-24-React-国际化，一种简单易用的实现！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514838&idx=1&sn=2305532ad5a36e0b685d6b75b2d74095&chksm=eb0782afdc700bb9f85aa543528e488b27785509d8065e658a39b9c06d066e300769edb2f348#rd)  
 - [2024-01-22-只需要点击页面上的元素，就能够自动打开-vscode-定位到源代码，支持多框架！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514833&idx=1&sn=7eedc7b56f86a62df9382f8519d22fd6&chksm=eb0782a8dc700bbe8919612cc7483f4b9df590d5dbb2f65de40e07008b9f03083242c23ad6ca#rd)  
