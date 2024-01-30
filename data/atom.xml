@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-29T07:00:57.572Z</updated>
+    <updated>2024-01-30T02:01:02.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3185期】一种更好的前端组件结构：组件树]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268986&amp;idx=1&amp;sn=a06b7f6597a0cdd2c612eb8a74fe586b&amp;chksm=bd48fefe8a3f77e85f466ce3baa1d68e8ebf5e939b307fb1143caa03d612bd2bc3b62243936a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268986&amp;idx=1&amp;sn=a06b7f6597a0cdd2c612eb8a74fe586b&amp;chksm=bd48fefe8a3f77e85f466ce3baa1d68e8ebf5e939b307fb1143caa03d612bd2bc3b62243936a#rd"/>
+        <updated>2024-01-29T16:00:00.000Z</updated>
+        <published>2024-01-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3183期】神奇的 3D 卡片反光闪烁动效]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268973&amp;idx=1&amp;sn=081c8c6b75c91c1ed91d460e76e1759f&amp;chksm=bd48fee98a3f77ff4a1a79c2b4b066b58ee19b5ddc91349227b42bfffce86f8975e6419bd092#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/668"/>
         <updated>2023-12-20T16:00:00.000Z</updated>
         <published>2023-12-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 2 将于 12 月 31 日到达生命周期终点]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514666&amp;idx=1&amp;sn=3acddd08e003666da2c14fd5816be6f7&amp;chksm=eb078253dc700b45455eb362522db42481d9167b98ded04aca6c6bbff4fb911550242b18ea04#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514666&amp;idx=1&amp;sn=3acddd08e003666da2c14fd5816be6f7&amp;chksm=eb078253dc700b45455eb362522db42481d9167b98ded04aca6c6bbff4fb911550242b18ea04#rd"/>
-        <updated>2023-12-19T16:00:00.000Z</updated>
-        <published>2023-12-19T16:00:00.000Z</published>
     </entry>
 </feed>
