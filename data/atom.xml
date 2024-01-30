@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-30T02:01:02.921Z</updated>
+    <updated>2024-01-30T04:00:43.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[现代 Vue 和 Vite 开发：最佳实践和技巧]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514967&amp;idx=1&amp;sn=7b994292a0e5542ee138fa769cd6bfec&amp;chksm=eb07832edc700a38feaab48bb73c9b4fbbd6b949dc88b2c737fe3dda21fcb555caf28fed552e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514967&amp;idx=1&amp;sn=7b994292a0e5542ee138fa769cd6bfec&amp;chksm=eb07832edc700a38feaab48bb73c9b4fbbd6b949dc88b2c737fe3dda21fcb555caf28fed552e#rd"/>
+        <updated>2024-01-29T16:00:00.000Z</updated>
+        <published>2024-01-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3185期】一种更好的前端组件结构：组件树]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268986&amp;idx=1&amp;sn=a06b7f6597a0cdd2c612eb8a74fe586b&amp;chksm=bd48fefe8a3f77e85f466ce3baa1d68e8ebf5e939b307fb1143caa03d612bd2bc3b62243936a#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268986&amp;idx=1&amp;sn=a06b7f6597a0cdd2c612eb8a74fe586b&amp;chksm=bd48fefe8a3f77e85f466ce3baa1d68e8ebf5e939b307fb1143caa03d612bd2bc3b62243936a#rd"/>
         <updated>2024-01-29T16:00:00.000Z</updated>
         <published>2024-01-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[升级到 React 18，吸取到了这些血泪教训。。。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514892&amp;idx=1&amp;sn=4a0e0d141ec423f139e70e3c4285e1d5&amp;chksm=eb078375dc700a636e4b2470f660a39ad83db6b5c27ea28ff0c137eb2fd20bb1521c21ed7a85#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514892&amp;idx=1&amp;sn=4a0e0d141ec423f139e70e3c4285e1d5&amp;chksm=eb078375dc700a636e4b2470f660a39ad83db6b5c27ea28ff0c137eb2fd20bb1521c21ed7a85#rd"/>
+        <updated>2024-01-28T16:00:00.000Z</updated>
+        <published>2024-01-28T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3183期】神奇的 3D 卡片反光闪烁动效]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：Vue 3 开发中的经验和教训]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514683&amp;idx=2&amp;sn=cd211817319cc5b6b129ec9d219c40f6&amp;chksm=eb078242dc700b54b096656c01a4ebd7e12499b01d57b12ebe71c7b5349f5054e0229fe08728#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514683&amp;idx=2&amp;sn=cd211817319cc5b6b129ec9d219c40f6&amp;chksm=eb078242dc700b54b096656c01a4ebd7e12499b01d57b12ebe71c7b5349f5054e0229fe08728#rd"/>
-        <updated>2023-12-20T16:00:00.000Z</updated>
-        <published>2023-12-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[js 如何判断对象自身为空？很多人错了~]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617774&amp;idx=1&amp;sn=2e32b118259395e10d6f7081e5b7a96c&amp;chksm=8022ae2fb755273967e19483ae73e24c48e4452e0074f3dc85441a835bb29af4471339f3c4a7#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617774&amp;idx=1&amp;sn=2e32b118259395e10d6f7081e5b7a96c&amp;chksm=8022ae2fb755273967e19483ae73e24c48e4452e0074f3dc85441a835bb29af4471339f3c4a7#rd"/>
-        <updated>2023-12-20T16:00:00.000Z</updated>
-        <published>2023-12-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflecting on a big year for JavaScript]]></title>
-        <id>https://javascriptweekly.com/issues/668</id>
-        <link href="https://javascriptweekly.com/issues/668"/>
         <updated>2023-12-20T16:00:00.000Z</updated>
         <published>2023-12-20T16:00:00.000Z</published>
     </entry>
