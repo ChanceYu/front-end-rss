@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-01-31 10:02:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-01-31 12:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-01-31-【第3186期】B端加载设计指南：优化用户体验与性能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269013&idx=1&sn=f7deb170b6ef6c38572e98c929919bf6&chksm=bd48fe118a3f7707350f02d22d95584b562be4c85e9adfae733bfe4d571e72f90b71b18c16c5#rd) 
 - [2024-01-08-【第3163期】转转B端项目页面性能统计实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268537&idx=1&sn=92b246e20b6ff308e4abcc6eacf645cb&chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd) 
 - [2023-11-07-【第3104期】前端埋点质量量化与优化](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267122&idx=1&sn=ce1dc5bd28d946ba83a94c88365da5fe&chksm=bd48f9b68a3f70a0b3256203594d1ef11a146a73d56bff41b5ea4e2f3aeefe715783993509e6#rd) 
 - [2023-08-30-【第3043期】不一样的"代码拆分"+"预加载"实现应用性能及体验兼得](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265447&idx=1&sn=b5037fb086454a75bf778e7f53c316e5&chksm=bd48c0238a3f493501f3fc00c07ccf87fcfcb7a590061e3867071670d1399532f974b7a2f9e3#rd) 
