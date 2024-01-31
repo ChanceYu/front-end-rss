@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-01-31T04:01:26.178Z</updated>
+    <updated>2024-01-31T15:00:57.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML MicroData微数据结构简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/"/>
+        <updated>2024-01-30T16:00:00.000Z</updated>
+        <published>2024-01-30T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3186期】B端加载设计指南：优化用户体验与性能]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651269013&amp;idx=1&amp;sn=f7deb170b6ef6c38572e98c929919bf6&amp;chksm=bd48fe118a3f7707350f02d22d95584b562be4c85e9adfae733bfe4d571e72f90b71b18c16c5#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Netlify调查点燃热议，Astro悄然崛起]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523486&amp;idx=1&amp;sn=6e8d71e0182c039bf6d4b7ad7090250d&amp;chksm=f95229ddce25a0cbf5f01821d95e1ad9061fa1809c68aeea95fb643693296d6130f50220069d#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523486&amp;idx=1&amp;sn=6e8d71e0182c039bf6d4b7ad7090250d&amp;chksm=f95229ddce25a0cbf5f01821d95e1ad9061fa1809c68aeea95fb643693296d6130f50220069d#rd"/>
-        <updated>2023-12-21T16:00:00.000Z</updated>
-        <published>2023-12-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[登录页面一些有趣的 css 效果，太好看了！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617801&amp;idx=2&amp;sn=b27f65f37c3fe083a5c9b702c7b13d85&amp;chksm=8022adc8b75524de6dfb5d567b124ddff83fdbdb85fc0e07f340243d7e4135ba8496df3cb6c1#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617801&amp;idx=2&amp;sn=b27f65f37c3fe083a5c9b702c7b13d85&amp;chksm=8022adc8b75524de6dfb5d567b124ddff83fdbdb85fc0e07f340243d7e4135ba8496df3cb6c1#rd"/>
         <updated>2023-12-21T16:00:00.000Z</updated>
         <published>2023-12-21T16:00:00.000Z</published>
     </entry>
