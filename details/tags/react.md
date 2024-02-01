@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-01 10:00:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-02 06:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
 - [2022-03-25-React-18-due-any-day-now..](https://javascriptweekly.com/issues/582) 
 - [2022-01-28-Etsy-moved-from-React-to-Preact](https://javascriptweekly.com/issues/574) 
 - [2023-12-13-【第3140期】在-Console-中更直观地展示-Reactive-Objects](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267945&idx=1&sn=75e5438f8084a13040e92ec28025b4e0&chksm=bd48faed8a3f73fb95f50700934ca9259ecafabe54bc0cd6837c26afd9a777f19bf6d6e98ef6#rd) 

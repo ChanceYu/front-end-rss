@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-01-26 06:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-02 06:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672) 
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671) 
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670) 

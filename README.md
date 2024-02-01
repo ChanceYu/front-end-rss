@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-01 10:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-02 06:01:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) ![](/assets/new.png)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
@@ -92,7 +93,6 @@
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
-- [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -105,7 +105,7 @@
 
 
 - [2024-02-01-【招聘】淘天集团-用户终端技术团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269033&idx=2&sn=30d0232605619fb7880279c6b2b96844&chksm=bd48fe2d8a3f773b3d44d8dcab67a1fdd8ff90bab28814731c1b5a62e409f34edfb23607cc81#rd)  
-- [2024-02-01-【第3187期】Hello~-ProChat-1.0-：-会话组件中-的“亿”-点点细节](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269033&idx=1&sn=b33ba40c5500d5644009c6c835b76524&chksm=bd48fe2d8a3f773bc76387a7b44a25311b33e124aa3950905f6aefdc9d54dc51ea5bc5adaf32#rd) ![](/assets/new.png)  
+- [2024-02-01-【第3187期】Hello~-ProChat-1.0-：-会话组件中-的“亿”-点点细节](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269033&idx=1&sn=b33ba40c5500d5644009c6c835b76524&chksm=bd48fe2d8a3f773bc76387a7b44a25311b33e124aa3950905f6aefdc9d54dc51ea5bc5adaf32#rd)  
 - [2024-01-31-【招聘】抖音电商平台治理招前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269013&idx=2&sn=a923886ab274c7f768e45fafb83881e7&chksm=bd48fe118a3f7707476783047e7e066a6ce3ae1e065ed197447819266a2d468af46056365d41#rd)  
 - [2024-01-31-【第3186期】B端加载设计指南：优化用户体验与性能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269013&idx=1&sn=f7deb170b6ef6c38572e98c929919bf6&chksm=bd48fe118a3f7707350f02d22d95584b562be4c85e9adfae733bfe4d571e72f90b71b18c16c5#rd)  
 - [2024-01-30-【第3185期】一种更好的前端组件结构：组件树](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268986&idx=1&sn=a06b7f6597a0cdd2c612eb8a74fe586b&chksm=bd48fefe8a3f77e85f466ce3baa1d68e8ebf5e939b307fb1143caa03d612bd2bc3b62243936a#rd)  
