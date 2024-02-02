@@ -10,13 +10,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-02 08:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-02 10:01:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 
@@ -104,7 +104,7 @@
 </summary>
 
 
-- [2024-02-02-【第3188期】使用-Bun-执行-Shell-脚本](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269074&idx=1&sn=9d81c8842f827eae996a5f9774b7a473&chksm=bd48fe568a3f77400b6a7bae3fb755fc16bfc9685c3cb0ddd103b8a248149449380a08778a9d#rd) ![](/assets/new.png)  
+- [2024-02-02-【第3188期】使用-Bun-执行-Shell-脚本](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269074&idx=1&sn=9d81c8842f827eae996a5f9774b7a473&chksm=bd48fe568a3f77400b6a7bae3fb755fc16bfc9685c3cb0ddd103b8a248149449380a08778a9d#rd)  
 - [2024-02-01-【第3187期】Hello~-ProChat-1.0-：-会话组件中-的“亿”-点点细节](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269033&idx=1&sn=b33ba40c5500d5644009c6c835b76524&chksm=bd48fe2d8a3f773bc76387a7b44a25311b33e124aa3950905f6aefdc9d54dc51ea5bc5adaf32#rd)  
 - [2024-02-01-【招聘】淘天集团-用户终端技术团队招高级前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269033&idx=2&sn=30d0232605619fb7880279c6b2b96844&chksm=bd48fe2d8a3f773b3d44d8dcab67a1fdd8ff90bab28814731c1b5a62e409f34edfb23607cc81#rd)  
 - [2024-01-31-【第3186期】B端加载设计指南：优化用户体验与性能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269013&idx=1&sn=f7deb170b6ef6c38572e98c929919bf6&chksm=bd48fe118a3f7707350f02d22d95584b562be4c85e9adfae733bfe4d571e72f90b71b18c16c5#rd)  
@@ -538,6 +538,7 @@
 </summary>
 
 
+- [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html) ![](/assets/new.png)  
 - [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)  
 - [2024-01-19-科技爱好者周刊（第-287-期）：禄丰恐龙谷记行](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-287.html)  
 - [2024-01-12-科技爱好者周刊（第-286-期）：蓝色指示灯的解决方案](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-286.html)  
@@ -557,7 +558,6 @@
 - [2023-09-22-科技爱好者周刊（第-272-期）：Unity-的安装费，游戏业的缩影](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-272.html)  
 - [2023-09-15-科技爱好者周刊（第-271-期）：非线性的世界，线性的你](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-271.html)  
 - [2023-09-08-科技爱好者周刊（第-270-期）："精益开发"的精益是什么？](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-270.html)  
-- [2023-09-01-科技爱好者周刊（第-269-期）：为什么英雄不使用炸药](http://www.ruanyifeng.com/blog/2023/09/weekly-issue-269.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
