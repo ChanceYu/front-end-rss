@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-02-02T02:01:23.185Z</updated>
+    <updated>2024-02-02T22:00:56.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[2024 年，如何建一个 React 项目？别用 CRA 了。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515036&amp;idx=1&amp;sn=5dd7c8e261d2f3e3af5c25450537d21d&amp;chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515036&amp;idx=1&amp;sn=5dd7c8e261d2f3e3af5c25450537d21d&amp;chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd"/>
+        <updated>2024-02-01T16:00:00.000Z</updated>
+        <published>2024-02-01T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别再用 ESLint 格式化你的代码了！原理揭秘。]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515024&amp;idx=1&amp;sn=990d8f03e35ab08db9f97536e3833ce2&amp;chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515024&amp;idx=1&amp;sn=990d8f03e35ab08db9f97536e3833ce2&amp;chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd"/>
+        <updated>2024-01-31T16:00:00.000Z</updated>
+        <published>2024-01-31T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3187期】Hello~ ProChat 1.0 ： 会话组件中 的“亿” 点点细节]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651269033&amp;idx=1&amp;sn=b33ba40c5500d5644009c6c835b76524&amp;chksm=bd48fe2d8a3f773bc76387a7b44a25311b33e124aa3950905f6aefdc9d54dc51ea5bc5adaf32#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[2024年，你应该知道的5种React设计模式]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523515&amp;idx=1&amp;sn=07e72deb59c0cb87fe222214ec01bf17&amp;chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247523515&amp;idx=1&amp;sn=07e72deb59c0cb87fe222214ec01bf17&amp;chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd"/>
-        <updated>2023-12-24T16:00:00.000Z</updated>
-        <published>2023-12-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 2 将于 12 月 31 日到达生命周期终点]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617807&amp;idx=1&amp;sn=c3293ff4169573c51d0259e9c7a57b57&amp;chksm=8022adceb75524d808b6c572251c01fa26eb0c11a7ba3b49d7710d91020530e66d4dbaf8be5f#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617807&amp;idx=1&amp;sn=c3293ff4169573c51d0259e9c7a57b57&amp;chksm=8022adceb75524d808b6c572251c01fa26eb0c11a7ba3b49d7710d91020530e66d4dbaf8be5f#rd"/>
-        <updated>2023-12-24T16:00:00.000Z</updated>
-        <published>2023-12-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端简洁表单模型]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617807&amp;idx=2&amp;sn=b299250c1823762d1cda6f29705fd447&amp;chksm=8022adceb75524d839500c0d7868bed5e450ef09ff42825d9551e7027289a77b2dc243c36a27#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617807&amp;idx=2&amp;sn=b299250c1823762d1cda6f29705fd447&amp;chksm=8022adceb75524d839500c0d7868bed5e450ef09ff42825d9551e7027289a77b2dc243c36a27#rd"/>
         <updated>2023-12-24T16:00:00.000Z</updated>
         <published>2023-12-24T16:00:00.000Z</published>
     </entry>

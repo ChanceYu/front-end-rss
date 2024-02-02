@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-02 10:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-03 06:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -374,6 +374,7 @@
 - [2023-06-27-前端食堂技术周刊第-88-期：Svelte4、NestJS-10、State-of-CSS、Vitest-1.0-Roadmap](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498249&idx=1&sn=043ecf8f69614ccf77d4e594b1c6d778&chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd) 
 - [2023-04-24-前端食堂技术周刊第-80-期：Vite-4.3、Node.js-20、TS-5.1-Beta、Windi-CSS-即将落幕](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497918&idx=1&sn=39128bcca251c8ae48f01ad488d6414d&chksm=c2b33941f5c4b057990ec1536bb8ab8978157473fbd4a4220bec3a4190bae253b5569a1505ef#rd) 
 - [2023-01-17-前端食堂技术周刊第-67-期：-2022-State-of-JS、ESLint-2022、pnpm-2022、大淘宝Web端技术](https://mp.weixin.qq.com/s/yoLG2uKs7kheR9t5NLLUdg) 
+- [2024-02-01-别再用-ESLint-格式化你的代码了！原理揭秘。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515024&idx=1&sn=990d8f03e35ab08db9f97536e3833ce2&chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd) 
 - [2023-12-19-比-Eslint-快-100-倍！新一代-JS-Linter-发布！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514659&idx=1&sn=664f829d72c9bda1cab96f731d5eb0cc&chksm=eb07825adc700b4c030d8d861df09fbb5c47a52dc507dcbda77e5623d45eabda6259075170a1#rd) 
 - [2023-12-13-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514625&idx=2&sn=c3ee650498e8c9b19e38ba1a74945cbe&chksm=eb078278dc700b6ed08173134904b13813f2bbbe0c3aee088d3ef80ff1f03031f3a68cae340d#rd) 
 - [2023-11-16-Monorepo-仓库代码质量提升实践](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514469&idx=1&sn=2597848019f60f37973a313791173f54&chksm=eb07811cdc70080a8bc3852939d8eca91038a8e49076b42675f4f2f4b858bdda04ecfa5dace6#rd) 

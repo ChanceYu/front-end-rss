@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-02 10:01:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-03 06:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -596,6 +596,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2024-02-02-2024-年，如何建一个-React-项目？别用-CRA-了。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515036&idx=1&sn=5dd7c8e261d2f3e3af5c25450537d21d&chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd) 
 - [2024-01-29-升级到-React-18，吸取到了这些血泪教训。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514892&idx=1&sn=4a0e0d141ec423f139e70e3c4285e1d5&chksm=eb078375dc700a636e4b2470f660a39ad83db6b5c27ea28ff0c137eb2fd20bb1521c21ed7a85#rd) 
 - [2024-01-24-React-国际化，一种简单易用的实现！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514838&idx=1&sn=2305532ad5a36e0b685d6b75b2d74095&chksm=eb0782afdc700bb9f85aa543528e488b27785509d8065e658a39b9c06d066e300769edb2f348#rd) 
 - [2024-01-09-浅析-5-种-React-组件设计模式](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514775&idx=1&sn=be0a0b8b090034d249d7dc6cf56cca99&chksm=eb0782eedc700bf86f07f13a4960faa23386377c3454a10414457b3a2f5e3d0058dd3bb8a5e5#rd) 
