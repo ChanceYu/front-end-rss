@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-05 12:01:21，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-07 06:01:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -42,6 +42,7 @@
 </summary>
 
 
+- [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520) ![](/assets/new.png)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517)  
@@ -61,7 +62,6 @@
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
 - [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
-- [2023-09-05-Node-v20.6.0-released-with-.env-support](https://nodeweekly.com/issues/500)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,9 +414,9 @@
 </summary>
 
 
-- [2024-02-04-我在大专院校教前端，咋润进去的，待遇如何？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=1&sn=3b62a33b6128a5ac6d3b3fa4da248c41&chksm=eb0783d4dc700ac22f6177252c650166a5479e97af8bd3f5dec613703b1c01a94f96d81cc748#rd) ![](/assets/new.png)  
-- [2024-02-04-想进阶，强烈推荐这几个前端大佬！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=2&sn=4aa36899fe03378abc0815dbc6c5a08c&chksm=eb0783d4dc700ac2829ce16c24406fd413b725a872105e093220d35c170f1ff82dba2bec1f47#rd) ![](/assets/new.png)  
-- [2024-02-03-最近，前端的薪资爆了。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515052&idx=1&sn=d79fee91be1c68f4c986101ea6d67b11&chksm=eb0783d5dc700ac393fe02df0f3f87ae638079c87cc18a2ec1f9cc6c49c3610a9895e4b46064#rd) ![](/assets/new.png)  
+- [2024-02-04-我在大专院校教前端，咋润进去的，待遇如何？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=1&sn=3b62a33b6128a5ac6d3b3fa4da248c41&chksm=eb0783d4dc700ac22f6177252c650166a5479e97af8bd3f5dec613703b1c01a94f96d81cc748#rd)  
+- [2024-02-04-想进阶，强烈推荐这几个前端大佬！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=2&sn=4aa36899fe03378abc0815dbc6c5a08c&chksm=eb0783d4dc700ac2829ce16c24406fd413b725a872105e093220d35c170f1ff82dba2bec1f47#rd)  
+- [2024-02-03-最近，前端的薪资爆了。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515052&idx=1&sn=d79fee91be1c68f4c986101ea6d67b11&chksm=eb0783d5dc700ac393fe02df0f3f87ae638079c87cc18a2ec1f9cc6c49c3610a9895e4b46064#rd)  
 - [2024-02-02-2024-年，如何建一个-React-项目？别用-CRA-了。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515036&idx=1&sn=5dd7c8e261d2f3e3af5c25450537d21d&chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd)  
 - [2024-02-01-别再用-ESLint-格式化你的代码了！原理揭秘。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515024&idx=1&sn=990d8f03e35ab08db9f97536e3833ce2&chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd)  
 - [2024-01-31-因为通宵看恋综让我差点误了-TC39-第100次会议的提案-deadline](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514986&idx=1&sn=902737d669e0687b3100d2d0293b25cc&chksm=eb078313dc700a0581137348b5130d03252bd014bdea7fa00a2e824cb108774ea883e6ffa027#rd)  
