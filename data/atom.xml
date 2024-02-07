@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-02-06T22:01:24.608Z</updated>
+    <updated>2024-02-07T10:00:51.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[在 V8 引擎内部看看闭包到底是什么]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515077&amp;idx=1&amp;sn=2ced77d8bb3556b82afa10dee4c3bfda&amp;chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515077&amp;idx=1&amp;sn=2ced77d8bb3556b82afa10dee4c3bfda&amp;chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd"/>
+        <updated>2024-02-05T16:00:00.000Z</updated>
+        <published>2024-02-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 10 岁了！你知道它最初的名字吗？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515071&amp;idx=1&amp;sn=2bd88a09e94e1a66afcbbafa2250080b&amp;chksm=eb0783c6dc700ad0bc785479ac775c38bb9a4fe6d9fcb9dcf72c2f9057a10ffefef6200920f2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515071&amp;idx=1&amp;sn=2bd88a09e94e1a66afcbbafa2250080b&amp;chksm=eb0783c6dc700ad0bc785479ac775c38bb9a4fe6d9fcb9dcf72c2f9057a10ffefef6200920f2#rd"/>
+        <updated>2024-02-04T16:00:00.000Z</updated>
+        <published>2024-02-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3189期】信使 Web builder：拖拽组件构建响应式页面的前端开源框架]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651269104&amp;idx=1&amp;sn=a4db3b0276603c70b5ce9ea50828dcdd&amp;chksm=bd48fe748a3f7762733d53a877d9da55e4612aef1ab23aa4f50fb5cd4ad55eabd5a6bd68d8b1#rd</id>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651617823&amp;idx=2&amp;sn=763a5e858ffb20bcf2988ee9b5776825&amp;chksm=8022addeb75524c8276e4f2a942eb411b13cbd34096d1107974300fe78bbaaf9c79bf4c97883#rd"/>
         <updated>2023-12-25T16:00:00.000Z</updated>
         <published>2023-12-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【招聘】Taro 团队招人啦！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268278&amp;idx=2&amp;sn=901c867c8941353d1e30a1414f44fa1e&amp;chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268278&amp;idx=2&amp;sn=901c867c8941353d1e30a1414f44fa1e&amp;chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd"/>
-        <updated>2023-12-25T16:00:00.000Z</updated>
-        <published>2023-12-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[妙用 CSS counters 实现逐层缩进]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488761&amp;idx=1&amp;sn=8b70fddfbead6075c25e3808a881562b&amp;chksm=97c67736a0b1fe2056ca1494ad2501adb86c2beca65985e7c464828a33469364250230341e05#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488761&amp;idx=1&amp;sn=8b70fddfbead6075c25e3808a881562b&amp;chksm=97c67736a0b1fe2056ca1494ad2501adb86c2beca65985e7c464828a33469364250230341e05#rd"/>
-        <updated>2023-12-24T16:00:00.000Z</updated>
-        <published>2023-12-24T16:00:00.000Z</published>
     </entry>
 </feed>
