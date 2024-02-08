@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-07 18:00:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-09 06:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674) ![](/assets/new.png)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
@@ -92,7 +93,6 @@
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
-- [2023-09-14-JavaScript,-ML-and-LLMs](https://javascriptweekly.com/issues/654)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -414,8 +414,8 @@
 </summary>
 
 
-- [2024-02-06-在-V8-引擎内部看看闭包到底是什么](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515077&idx=1&sn=2ced77d8bb3556b82afa10dee4c3bfda&chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd) ![](/assets/new.png)  
-- [2024-02-05-Vue-10-岁了！你知道它最初的名字吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515071&idx=1&sn=2bd88a09e94e1a66afcbbafa2250080b&chksm=eb0783c6dc700ad0bc785479ac775c38bb9a4fe6d9fcb9dcf72c2f9057a10ffefef6200920f2#rd) ![](/assets/new.png)  
+- [2024-02-06-在-V8-引擎内部看看闭包到底是什么](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515077&idx=1&sn=2ced77d8bb3556b82afa10dee4c3bfda&chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd)  
+- [2024-02-05-Vue-10-岁了！你知道它最初的名字吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515071&idx=1&sn=2bd88a09e94e1a66afcbbafa2250080b&chksm=eb0783c6dc700ad0bc785479ac775c38bb9a4fe6d9fcb9dcf72c2f9057a10ffefef6200920f2#rd)  
 - [2024-02-04-想进阶，强烈推荐这几个前端大佬！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=2&sn=4aa36899fe03378abc0815dbc6c5a08c&chksm=eb0783d4dc700ac2829ce16c24406fd413b725a872105e093220d35c170f1ff82dba2bec1f47#rd)  
 - [2024-02-04-我在大专院校教前端，咋润进去的，待遇如何？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=1&sn=3b62a33b6128a5ac6d3b3fa4da248c41&chksm=eb0783d4dc700ac22f6177252c650166a5479e97af8bd3f5dec613703b1c01a94f96d81cc748#rd)  
 - [2024-02-03-最近，前端的薪资爆了。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515052&idx=1&sn=d79fee91be1c68f4c986101ea6d67b11&chksm=eb0783d5dc700ac393fe02df0f3f87ae638079c87cc18a2ec1f9cc6c49c3610a9895e4b46064#rd)  
