@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-13 23:01:12，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-16 06:01:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -27,7 +27,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -73,6 +73,7 @@
 </summary>
 
 
+- [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675) ![](/assets/new.png)  
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
@@ -92,7 +93,6 @@
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
-- [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -445,11 +445,11 @@
 </summary>
 
 
-- [2024-02-13-CSS-TIP!-单-IMG-标签的内圆角](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488786&idx=1&sn=c9277a7758bb64e398830821ac93bb9c&chksm=97c676dda0b1ffcbbe28e4263ae9ca6db48cb8ceb6b94d25cdd3efe4bab09666a41685779c11#rd) ![](/assets/new.png)  
-- [2024-02-13-view-transition-实现丝滑的元素增删效果](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488957&idx=1&sn=e7a6cabf0ff41214b6dcc7c30e5208fd&chksm=97c67672a0b1ff64827275fdcbc04390673c7f43cfa47afa504f3f0c9cfbb7d1ab11883f7d01#rd) ![](/assets/new.png)  
-- [2024-02-13-CSS-灵动环动画](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247489007&idx=1&sn=814085993a903a3fc48e1b6dc34b7171&chksm=97c67620a0b1ff3632c945462a2f589a3350754e86fca0d9a357b1b8e60657eb56e2d1c259f3#rd) ![](/assets/new.png)  
-- [2024-02-13-Happy-New-Year-2024](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488792&idx=1&sn=e17b8b22700f0ee47c6dbd1a0d261451&chksm=97c676d7a0b1ffc1f3fd0265075965caec95c231f3f649955270fbdb3f2bd014c46a389a98f3#rd) ![](/assets/new.png)  
-- [2024-02-13-有趣的弧形路径滚动条](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488979&idx=1&sn=9fa93401391a24e0577abcd83b464193&chksm=97c6761ca0b1ff0ac03ec393517b53186c9683a62671f4c1279af5e34a4e7a739575e2c246bf#rd) ![](/assets/new.png)  
+- [2024-02-13-CSS-TIP!-单-IMG-标签的内圆角](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488786&idx=1&sn=c9277a7758bb64e398830821ac93bb9c&chksm=97c676dda0b1ffcbbe28e4263ae9ca6db48cb8ceb6b94d25cdd3efe4bab09666a41685779c11#rd)  
+- [2024-02-13-view-transition-实现丝滑的元素增删效果](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488957&idx=1&sn=e7a6cabf0ff41214b6dcc7c30e5208fd&chksm=97c67672a0b1ff64827275fdcbc04390673c7f43cfa47afa504f3f0c9cfbb7d1ab11883f7d01#rd)  
+- [2024-02-13-CSS-灵动环动画](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247489007&idx=1&sn=814085993a903a3fc48e1b6dc34b7171&chksm=97c67620a0b1ff3632c945462a2f589a3350754e86fca0d9a357b1b8e60657eb56e2d1c259f3#rd)  
+- [2024-02-13-Happy-New-Year-2024](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488792&idx=1&sn=e17b8b22700f0ee47c6dbd1a0d261451&chksm=97c676d7a0b1ffc1f3fd0265075965caec95c231f3f649955270fbdb3f2bd014c46a389a98f3#rd)  
+- [2024-02-13-有趣的弧形路径滚动条](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488979&idx=1&sn=9fa93401391a24e0577abcd83b464193&chksm=97c6761ca0b1ff0ac03ec393517b53186c9683a62671f4c1279af5e34a4e7a739575e2c246bf#rd)  
 - [2024-01-07-“它们”为你送来了节日祝福！](https://mp.weixin.qq.com/s?__biz=MjM5MDAwNDgxMA==&mid=2655940728&idx=1&sn=5177f189629bd3d0e1cb2bb21faa1b84&chksm=bdf1b35d8a863a4b69ff0e1a5f13f6b7fcc4c567ba28cd108410890f0a1a8278177ac3d8b626#rd)  
 - [2023-12-25-妙用-CSS-counters-实现逐层缩进](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488761&idx=1&sn=8b70fddfbead6075c25e3808a881562b&chksm=97c67736a0b1fe2056ca1494ad2501adb86c2beca65985e7c464828a33469364250230341e05#rd)  
 - [2023-12-18-尝试借助CSS-@container实现多行文本展开收起](https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247488723&idx=1&sn=8376aee095e38cb26bc4946ed2519869&chksm=97c6771ca0b1fe0ac7cd68f11dd0a2b1f36c2cb2b449e4f4117bf764c00336af655afd265059#rd)  

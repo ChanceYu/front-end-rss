@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-02-13T15:01:15.657Z</updated>
+    <updated>2024-02-15T22:02:00.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TC39 adds a new stage for ECMAScript proposals]]></title>
+        <id>https://javascriptweekly.com/issues/675</id>
+        <link href="https://javascriptweekly.com/issues/675"/>
+        <updated>2024-02-14T16:00:00.000Z</updated>
+        <published>2024-02-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有趣的弧形路径滚动条]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247488979&amp;idx=1&amp;sn=9fa93401391a24e0577abcd83b464193&amp;chksm=97c6761ca0b1ff0ac03ec393517b53186c9683a62671f4c1279af5e34a4e7a739575e2c246bf#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://www.ruanyifeng.com/blog/2023/12/weekly-issue-284.html"/>
         <updated>2023-12-28T16:00:00.000Z</updated>
         <published>2023-12-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯JS实现图像的人脸识别功能]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/"/>
-        <updated>2023-12-27T16:00:00.000Z</updated>
-        <published>2023-12-27T16:00:00.000Z</published>
     </entry>
 </feed>
