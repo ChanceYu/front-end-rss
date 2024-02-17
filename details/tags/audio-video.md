@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-16 06:01:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-17 23:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -123,6 +123,7 @@
 - [2019-07-15-iMovie-入门教程：视频编辑的利器](http://www.ruanyifeng.com/blog/2019/07/imovie-tutorial.html) 
 - [2019-06-10-响应式图像教程](http://www.ruanyifeng.com/blog/2019/06/responsive-images.html) 
 - [2019-01-31-一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html) 
+- [2024-02-17-效果炸裂！OpenAI-发布首个视频生成模型-Sora](http://www.yyyweb.com/5578.html) 
 - [2022-12-03-手把手教你从0到1打造一个-WebRTC-应用](http://www.yyyweb.com/5480.html) 
 - [2022-07-23-做一个-WebRTC-视频通话给自己用吧](http://www.yyyweb.com/5466.html) 
 - [2018-11-08-开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html) 
