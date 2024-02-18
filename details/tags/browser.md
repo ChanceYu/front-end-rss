@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-17 23:00:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-18 12:04:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -494,3 +494,5 @@
 - [2016-01-28-你所知道的3xx状态码](https://jelly.jd.com/article/6006b1035b6c6a01506c8791) 
 - [2015-12-23-Safari-9.0的新特性](https://jelly.jd.com/article/6006b1025b6c6a01506c8786) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://jelly.jd.com/article/6006b1025b6c6a01506c8776) 
+- [2023-03-22-跨域（Options）请求介绍及解决方法](https://hughfenghen.github.io/posts/2023/03/22/options-request/) 
+- [2020-07-13-BUG:-Safari10-Cannot-declare-a-let-variable-twice:-'e'.](https://hughfenghen.github.io/posts/2020/07/13/bug1-safari10/) 

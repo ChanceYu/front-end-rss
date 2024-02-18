@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-17 23:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-18 12:04:13，:rocket: 更新条数: +54， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,8 +31,9 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -569,7 +570,7 @@
 </summary>
 
 
-- [2024-02-17-效果炸裂！OpenAI-发布首个视频生成模型-Sora](http://www.yyyweb.com/5578.html) ![](/assets/new.png)  
+- [2024-02-17-效果炸裂！OpenAI-发布首个视频生成模型-Sora](http://www.yyyweb.com/5578.html)  
 - [2024-01-12-如何搭建-GPTs-创新应用？有哪些关键技巧？](http://www.yyyweb.com/5574.html)  
 - [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html)  
 - [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html)  
@@ -621,6 +622,37 @@
 - [2022-05-19-开发者的福利---NutUI-vscode-智能提示来了](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898820&idx=2&sn=00311909efb69b8b669073fed123a012&chksm=8c5fa18abb28289c5b1e1284297d1d223841851cd1098cb557e48d0db243f61f91eec7c059d7#rd)  
 - [2022-04-21-移动端日历组件设计与实现](http://mp.weixin.qq.com/s?__biz=MzIxMzExMjYwOQ==&mid=2651898761&idx=2&sn=c2ad82e0fcff4bea6c714946497b6163&chksm=8c5fa1c7bb2828d14e9e9a195abafbe69ac1c565071a46ef75769b47eae4c2ca9ca1fbd811aa#rd)  
 - [......【查看更多】......](/details/凹凸实验室.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="风痕·術&amp;思">
+ 风痕·術&amp;思
+</summary>
+
+
+- [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/) ![](/assets/new.png)  
+- [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/) ![](/assets/new.png)  
+- [2023-12-23-Web-终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/) ![](/assets/new.png)  
+- [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/) ![](/assets/new.png)  
+- [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/) ![](/assets/new.png)  
+- [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/) ![](/assets/new.png)  
+- [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/) ![](/assets/new.png)  
+- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/) ![](/assets/new.png)  
+- [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/) ![](/assets/new.png)  
+- [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/) ![](/assets/new.png)  
+- [2023-08-05-Web-音视频（四）在浏览器中处理音频](https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/) ![](/assets/new.png)  
+- [2023-07-31-Web-音视频（三）在浏览器中创建视频](https://hughfenghen.github.io/posts/2023/07/31/webav-3-create-video/) ![](/assets/new.png)  
+- [2023-07-29-菩萨蛮](https://hughfenghen.github.io/posts/2023/07/29/%E8%8F%A9%E8%90%A8%E8%9B%AE/) ![](/assets/new.png)  
+- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/) ![](/assets/new.png)  
+- [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/) ![](/assets/new.png)  
+- [2023-07-19-Web-音视频（一）基础知识](https://hughfenghen.github.io/posts/2023/07/19/webav-1-basic/) ![](/assets/new.png)  
+- [2023-07-16-Web-音视频（零）概览](https://hughfenghen.github.io/posts/2023/07/16/webav-0-overview/) ![](/assets/new.png)  
+- [2023-07-10-JS-解析-SRT-字幕](https://hughfenghen.github.io/posts/2023/07/10/srt-parser/) ![](/assets/new.png)  
+- [2023-07-07-WebGL-Chromakey-实时绿幕抠图](https://hughfenghen.github.io/posts/2023/07/07/webgl-chromakey/) ![](/assets/new.png)  
+- [2023-06-21-DIY-游戏掌机](https://hughfenghen.github.io/posts/2023/06/21/diy-handheld-game/) ![](/assets/new.png)  
+- [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
 </details>
