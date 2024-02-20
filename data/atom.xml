@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-02-18T04:04:15.010Z</updated>
+    <updated>2024-02-20T15:01:56.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个Promise全新API，真好用！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515119&amp;idx=2&amp;sn=6c99a8c9d4fba4291afa6c313745ca36&amp;chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515119&amp;idx=2&amp;sn=6c99a8c9d4fba4291afa6c313745ca36&amp;chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd"/>
+        <updated>2024-02-19T16:00:00.000Z</updated>
+        <published>2024-02-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To npm, or not to (include) npm?]]></title>
+        <id>https://nodeweekly.com/issues/521</id>
+        <link href="https://nodeweekly.com/issues/521"/>
+        <updated>2024-02-19T16:00:00.000Z</updated>
+        <published>2024-02-19T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[效果炸裂！OpenAI 发布首个视频生成模型 Sora]]></title>
         <id>http://www.yyyweb.com/5578.html</id>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514726&amp;idx=1&amp;sn=0b57aa03bd82388c48e3995e1d8f9cff&amp;chksm=eb07821fdc700b09ed3ca1408dd76c011d31ba3e7b3c287f6e7a1367c6d12137e3f7c59b422b#rd"/>
         <updated>2024-01-01T16:00:00.000Z</updated>
         <published>2024-01-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 3.4 正式发布！更快、更强、更好用！]]></title>
-        <id>http://www.yyyweb.com/5572.html</id>
-        <link href="http://www.yyyweb.com/5572.html"/>
-        <updated>2023-12-29T16:00:00.000Z</updated>
-        <published>2023-12-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024展望：构建更快更高效的 Web 体验]]></title>
-        <id>http://www.yyyweb.com/5569.html</id>
-        <link href="http://www.yyyweb.com/5569.html"/>
-        <updated>2023-12-29T16:00:00.000Z</updated>
-        <published>2023-12-29T16:00:00.000Z</published>
     </entry>
 </feed>

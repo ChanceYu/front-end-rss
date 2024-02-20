@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-18 12:04:13，:rocket: 更新条数: +54， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-20 23:01:55，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,14 +26,14 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521) ![](/assets/new.png)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
@@ -62,7 +63,6 @@
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
-- [2023-09-12-You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,10 +415,14 @@
 </summary>
 
 
+- [2024-02-20-年薪96w！真心建议大家冲一冲新兴领域，工资高前景好](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=1&sn=d95d4fce95dc69b800cf2571369006f0&chksm=eb078396dc700a80b4b33cc45769f6ba1bf893627305c32b67a4ec4d77c6da2d932667f9e59f#rd) ![](/assets/new.png)  
+- [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd) ![](/assets/new.png)  
+- [2024-02-19-2024前端开发岗位何去何从？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=1&sn=a883db31379fc9258c739489dc676501&chksm=eb0783a7dc700ab154bd46ccd33118fbbb7c2ac8e4d47ae67082f243d8f8aa50be23e77d172a#rd) ![](/assets/new.png)  
+- [2024-02-19-字节跳动最热门的-15-个前端开源项目](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=2&sn=08b75317801a7c80bf0415280db0ecc6&chksm=eb0783a7dc700ab17d3b3b258c0824a264455491a93cad542a2d78fca2a3bd4dcb6689d93d68#rd) ![](/assets/new.png)  
 - [2024-02-06-在-V8-引擎内部看看闭包到底是什么](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515077&idx=1&sn=2ced77d8bb3556b82afa10dee4c3bfda&chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd)  
 - [2024-02-05-Vue-10-岁了！你知道它最初的名字吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515071&idx=1&sn=2bd88a09e94e1a66afcbbafa2250080b&chksm=eb0783c6dc700ad0bc785479ac775c38bb9a4fe6d9fcb9dcf72c2f9057a10ffefef6200920f2#rd)  
-- [2024-02-04-想进阶，强烈推荐这几个前端大佬！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=2&sn=4aa36899fe03378abc0815dbc6c5a08c&chksm=eb0783d4dc700ac2829ce16c24406fd413b725a872105e093220d35c170f1ff82dba2bec1f47#rd)  
 - [2024-02-04-我在大专院校教前端，咋润进去的，待遇如何？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=1&sn=3b62a33b6128a5ac6d3b3fa4da248c41&chksm=eb0783d4dc700ac22f6177252c650166a5479e97af8bd3f5dec613703b1c01a94f96d81cc748#rd)  
+- [2024-02-04-想进阶，强烈推荐这几个前端大佬！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=2&sn=4aa36899fe03378abc0815dbc6c5a08c&chksm=eb0783d4dc700ac2829ce16c24406fd413b725a872105e093220d35c170f1ff82dba2bec1f47#rd)  
 - [2024-02-03-最近，前端的薪资爆了。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515052&idx=1&sn=d79fee91be1c68f4c986101ea6d67b11&chksm=eb0783d5dc700ac393fe02df0f3f87ae638079c87cc18a2ec1f9cc6c49c3610a9895e4b46064#rd)  
 - [2024-02-02-2024-年，如何建一个-React-项目？别用-CRA-了。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515036&idx=1&sn=5dd7c8e261d2f3e3af5c25450537d21d&chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd)  
 - [2024-02-01-别再用-ESLint-格式化你的代码了！原理揭秘。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515024&idx=1&sn=990d8f03e35ab08db9f97536e3833ce2&chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd)  
@@ -429,12 +433,8 @@
 - [2024-01-24-React-国际化，一种简单易用的实现！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514838&idx=1&sn=2305532ad5a36e0b685d6b75b2d74095&chksm=eb0782afdc700bb9f85aa543528e488b27785509d8065e658a39b9c06d066e300769edb2f348#rd)  
 - [2024-01-22-只需要点击页面上的元素，就能够自动打开-vscode-定位到源代码，支持多框架！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514833&idx=1&sn=7eedc7b56f86a62df9382f8519d22fd6&chksm=eb0782a8dc700bbe8919612cc7483f4b9df590d5dbb2f65de40e07008b9f03083242c23ad6ca#rd)  
 - [2024-01-19-前端真实的线上卡死问题排障，我们上门服务了客户……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514821&idx=1&sn=3c15567c5e083d239a174b07065ab732&chksm=eb0782bcdc700baae69dfacb565ecfd0c336401929b7e28035f5d15b1c35d8930d8bf2955a1a#rd)  
-- [2024-01-18-年前，前端岗位爆了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=1&sn=1d7a87d58c6476fd35e0825cdfe5369c&chksm=eb0782b9dc700bafaf894ae61a774fcd16e6cd8bbc88bb76a5a758113fe37597688520560575#rd)  
 - [2024-01-18-现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=2&sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd)  
-- [2024-01-17-78k-Star！这个高质量前端工具集有点意思~](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514798&idx=1&sn=2f7cf632b199452ef30c03ee5e3170c2&chksm=eb0782d7dc700bc10b80a91cf6a2d45b1b3192f557074e9ebb3733aec75df977a0fb41092a60#rd)  
-- [2024-01-15-TypeScript-中的-extends-怎么那么骚啊？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514795&idx=1&sn=7f9ab124f3ddd24cf2eda41210f8db0a&chksm=eb0782d2dc700bc4f9a49ac0a7fd84ad7f427dee17a8363c7091aafa621660e33d1658a87502#rd)  
-- [2024-01-13-请前端人入局AI大模型，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514791&idx=1&sn=3a0e7100fdea2730b277ef92a34be481&chksm=eb0782dedc700bc8cb45b71016f20e0c4a1e54af30dbf319006991e1e7434168bddd46d6feab#rd)  
-- [2024-01-13-公司实习生居然还在手动切换node版本？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514791&idx=2&sn=e01b78e706d6aa6f20555f2d1f6369af&chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd)  
+- [2024-01-18-年前，前端岗位爆了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=1&sn=1d7a87d58c6476fd35e0825cdfe5369c&chksm=eb0782b9dc700bafaf894ae61a774fcd16e6cd8bbc88bb76a5a758113fe37597688520560575#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -632,26 +632,26 @@
 </summary>
 
 
-- [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/) ![](/assets/new.png)  
-- [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/) ![](/assets/new.png)  
-- [2023-12-23-Web-终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/) ![](/assets/new.png)  
-- [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/) ![](/assets/new.png)  
-- [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/) ![](/assets/new.png)  
-- [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/) ![](/assets/new.png)  
-- [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/) ![](/assets/new.png)  
-- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/) ![](/assets/new.png)  
-- [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/) ![](/assets/new.png)  
-- [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/) ![](/assets/new.png)  
-- [2023-08-05-Web-音视频（四）在浏览器中处理音频](https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/) ![](/assets/new.png)  
-- [2023-07-31-Web-音视频（三）在浏览器中创建视频](https://hughfenghen.github.io/posts/2023/07/31/webav-3-create-video/) ![](/assets/new.png)  
-- [2023-07-29-菩萨蛮](https://hughfenghen.github.io/posts/2023/07/29/%E8%8F%A9%E8%90%A8%E8%9B%AE/) ![](/assets/new.png)  
-- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/) ![](/assets/new.png)  
-- [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/) ![](/assets/new.png)  
-- [2023-07-19-Web-音视频（一）基础知识](https://hughfenghen.github.io/posts/2023/07/19/webav-1-basic/) ![](/assets/new.png)  
-- [2023-07-16-Web-音视频（零）概览](https://hughfenghen.github.io/posts/2023/07/16/webav-0-overview/) ![](/assets/new.png)  
-- [2023-07-10-JS-解析-SRT-字幕](https://hughfenghen.github.io/posts/2023/07/10/srt-parser/) ![](/assets/new.png)  
-- [2023-07-07-WebGL-Chromakey-实时绿幕抠图](https://hughfenghen.github.io/posts/2023/07/07/webgl-chromakey/) ![](/assets/new.png)  
-- [2023-06-21-DIY-游戏掌机](https://hughfenghen.github.io/posts/2023/06/21/diy-handheld-game/) ![](/assets/new.png)  
+- [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)  
+- [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/)  
+- [2023-12-23-Web-终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/)  
+- [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/)  
+- [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/)  
+- [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/)  
+- [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/)  
+- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
+- [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/)  
+- [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/)  
+- [2023-08-05-Web-音视频（四）在浏览器中处理音频](https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/)  
+- [2023-07-31-Web-音视频（三）在浏览器中创建视频](https://hughfenghen.github.io/posts/2023/07/31/webav-3-create-video/)  
+- [2023-07-29-菩萨蛮](https://hughfenghen.github.io/posts/2023/07/29/%E8%8F%A9%E8%90%A8%E8%9B%AE/)  
+- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/)  
+- [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/)  
+- [2023-07-19-Web-音视频（一）基础知识](https://hughfenghen.github.io/posts/2023/07/19/webav-1-basic/)  
+- [2023-07-16-Web-音视频（零）概览](https://hughfenghen.github.io/posts/2023/07/16/webav-0-overview/)  
+- [2023-07-10-JS-解析-SRT-字幕](https://hughfenghen.github.io/posts/2023/07/10/srt-parser/)  
+- [2023-07-07-WebGL-Chromakey-实时绿幕抠图](https://hughfenghen.github.io/posts/2023/07/07/webgl-chromakey/)  
+- [2023-06-21-DIY-游戏掌机](https://hughfenghen.github.io/posts/2023/06/21/diy-handheld-game/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

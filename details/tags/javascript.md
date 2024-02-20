@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-18 12:04:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-20 23:01:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1295,6 +1295,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd) 
 - [2024-01-18-现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=2&sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd) 
 - [2023-12-12-了解前端新框架-nue.js](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514615&idx=2&sn=b89ce2f889ecc61a88b11bc86c9a6538&chksm=eb07818edc7008989bd27193b75bf74396cea10879b0d79b6a6736eb7cce375de28dff6e57cd#rd) 
 - [2023-12-06-悄无声息间，你的-DOM-被劫持了？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514582&idx=1&sn=6b7bbffefd7cf9aee908c86d22b6d2c1&chksm=eb0781afdc7008b951247e5b80efee40d92c5a9bdc548c3c2268c975bf32c6323b429a0fee99#rd) 
