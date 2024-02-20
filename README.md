@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-20 23:01:55，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-21 06:02:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -24,9 +24,9 @@
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)  
+- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521) ![](/assets/new.png)  
+- [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
@@ -353,6 +353,7 @@
 </summary>
 
 
+- [2024-02-19-机器学习简介:-寻找函数的艺术](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487203&idx=1&sn=eeaa40b30e237ed97b56033d783096b2&chksm=fc862829cbf1a13f9fb05e05a12bf651c59f996e13e4e8e07d30e6f0d383746cda62a23b9f2b#rd) ![](/assets/new.png)  
 - [2023-12-25-个人养老金利与弊](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487185&idx=1&sn=50f6858a0fe0c46d81375822fc9f644c&chksm=fc86281bcbf1a10d276e06b94c4741426311a281a4042e601ee5068de7380fe3064ccb2105dd#rd)  
 - [2023-11-06-精读《算法题---二叉树中的最大路径和》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487175&idx=1&sn=f49d1556d5be9b49487bf564a1861536&chksm=fc86280dcbf1a11b620f84dd288988886a0a70184c377cd19216ee7823ee38c72e5df275a8db#rd)  
 - [2023-10-23-精读《算法题---编辑距离》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487161&idx=1&sn=eeaec682d0a496df7d1b4e18d3182361&chksm=fc862873cbf1a16552d67f7db255c8e303478ee4f65f87717915dd3cdf86830f6ccd67c18a28#rd)  
@@ -366,13 +367,12 @@
 - [2023-05-29-可视化搭建---场景实战](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487080&idx=1&sn=5a7cec0d958434c282691c9e3cba30fa&chksm=fc8628a2cbf1a1b444bbb8158fdfb60bddfd8ea553c65b080bca453f98d692c9b905009d0e82#rd)  
 - [2023-05-22-可视化搭建---自动批处理与冻结](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487066&idx=1&sn=d19cd8962c9da8dbcb95b43d88f6261c&chksm=fc862890cbf1a186804f1f30178508f8c776e991363131434447bb4edaf8e74f8aea8071ce6f#rd)  
 - [2023-05-08-ComponentLoader-与动态组件](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487055&idx=1&sn=abb5791cc6eb4cd24d13ae69fbd94e3e&chksm=fc862885cbf1a1933c20caeb22448f2588a3ed09c3b9a0c8bab2e6c79fca5bdf9697e716190e#rd)  
-- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw)  
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
-- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s/1fYO__dfUy2MIjHi3IJrmg)  
+- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw)  
 - [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
-- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s/0jHFnqGGCVIknst0tRczvw)  
+- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s/1fYO__dfUy2MIjHi3IJrmg)  
 - [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487015&idx=1&sn=02681fc1f9812ec4257faa1e9a299b51&chksm=fc8628edcbf1a1fb23c369d62a811c367c30d298da710a457b524c05ac7c41323172c57e6684#rd)  
-- [2023-03-06-可视化搭建---定义联动协议](https://mp.weixin.qq.com/s/gNCxpxuPRp7R7qna5U4aJg)  
+- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s/0jHFnqGGCVIknst0tRczvw)  
 - [......【查看更多】......](/details/前端精读评论.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,10 +415,10 @@
 </summary>
 
 
-- [2024-02-20-年薪96w！真心建议大家冲一冲新兴领域，工资高前景好](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=1&sn=d95d4fce95dc69b800cf2571369006f0&chksm=eb078396dc700a80b4b33cc45769f6ba1bf893627305c32b67a4ec4d77c6da2d932667f9e59f#rd) ![](/assets/new.png)  
-- [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd) ![](/assets/new.png)  
-- [2024-02-19-2024前端开发岗位何去何从？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=1&sn=a883db31379fc9258c739489dc676501&chksm=eb0783a7dc700ab154bd46ccd33118fbbb7c2ac8e4d47ae67082f243d8f8aa50be23e77d172a#rd) ![](/assets/new.png)  
-- [2024-02-19-字节跳动最热门的-15-个前端开源项目](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=2&sn=08b75317801a7c80bf0415280db0ecc6&chksm=eb0783a7dc700ab17d3b3b258c0824a264455491a93cad542a2d78fca2a3bd4dcb6689d93d68#rd) ![](/assets/new.png)  
+- [2024-02-20-年薪96w！真心建议大家冲一冲新兴领域，工资高前景好](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=1&sn=d95d4fce95dc69b800cf2571369006f0&chksm=eb078396dc700a80b4b33cc45769f6ba1bf893627305c32b67a4ec4d77c6da2d932667f9e59f#rd)  
+- [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd)  
+- [2024-02-19-2024前端开发岗位何去何从？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=1&sn=a883db31379fc9258c739489dc676501&chksm=eb0783a7dc700ab154bd46ccd33118fbbb7c2ac8e4d47ae67082f243d8f8aa50be23e77d172a#rd)  
+- [2024-02-19-字节跳动最热门的-15-个前端开源项目](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=2&sn=08b75317801a7c80bf0415280db0ecc6&chksm=eb0783a7dc700ab17d3b3b258c0824a264455491a93cad542a2d78fca2a3bd4dcb6689d93d68#rd)  
 - [2024-02-06-在-V8-引擎内部看看闭包到底是什么](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515077&idx=1&sn=2ced77d8bb3556b82afa10dee4c3bfda&chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd)  
 - [2024-02-05-Vue-10-岁了！你知道它最初的名字吗？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515071&idx=1&sn=2bd88a09e94e1a66afcbbafa2250080b&chksm=eb0783c6dc700ad0bc785479ac775c38bb9a4fe6d9fcb9dcf72c2f9057a10ffefef6200920f2#rd)  
 - [2024-02-04-我在大专院校教前端，咋润进去的，待遇如何？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515053&idx=1&sn=3b62a33b6128a5ac6d3b3fa4da248c41&chksm=eb0783d4dc700ac22f6177252c650166a5479e97af8bd3f5dec613703b1c01a94f96d81cc748#rd)  
