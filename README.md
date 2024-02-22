@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-22 12:02:51，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-23 06:02:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676) ![](/assets/new.png)  
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
@@ -93,7 +94,6 @@
 - [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)  
 - [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [2023-10-05-Comparing-test-assertion-styles-in-JavaScript](https://javascriptweekly.com/issues/657)  
-- [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,9 +415,9 @@
 </summary>
 
 
-- [2024-02-22-2024-年让我想激情学习的几个框架。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515155&idx=1&sn=c1b681032662bd995571a67078971a0e&chksm=eb07846adc700d7c8472870c994e45e979b8dd9b09060601bf3e3486bf8796536581f10e9146#rd) ![](/assets/new.png)  
-- [2024-02-21-阿里内部首发2024前端开发手册，完整版开放下载了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=1&sn=108cea48bd6a72793e6ed5bf42440b83&chksm=eb07847ddc700d6bc77c7de8daadd4e25a644b5c8b5408da7871a5cc831c580d5854de19999e#rd) ![](/assets/new.png)  
-- [2024-02-21-前端最全的5种换肤方案总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=2&sn=49ecf538b7acea581bab878e018bcf81&chksm=eb07847ddc700d6b98fe263e4de8213fc564d50c3e7358e2f0f689d7cf94996815277faed33f#rd) ![](/assets/new.png)  
+- [2024-02-22-2024-年让我想激情学习的几个框架。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515155&idx=1&sn=c1b681032662bd995571a67078971a0e&chksm=eb07846adc700d7c8472870c994e45e979b8dd9b09060601bf3e3486bf8796536581f10e9146#rd)  
+- [2024-02-21-阿里内部首发2024前端开发手册，完整版开放下载了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=1&sn=108cea48bd6a72793e6ed5bf42440b83&chksm=eb07847ddc700d6bc77c7de8daadd4e25a644b5c8b5408da7871a5cc831c580d5854de19999e#rd)  
+- [2024-02-21-前端最全的5种换肤方案总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=2&sn=49ecf538b7acea581bab878e018bcf81&chksm=eb07847ddc700d6b98fe263e4de8213fc564d50c3e7358e2f0f689d7cf94996815277faed33f#rd)  
 - [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd)  
 - [2024-02-20-年薪96w！真心建议大家冲一冲新兴领域，工资高前景好](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=1&sn=d95d4fce95dc69b800cf2571369006f0&chksm=eb078396dc700a80b4b33cc45769f6ba1bf893627305c32b67a4ec4d77c6da2d932667f9e59f#rd)  
 - [2024-02-19-字节跳动最热门的-15-个前端开源项目](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=2&sn=08b75317801a7c80bf0415280db0ecc6&chksm=eb0783a7dc700ab17d3b3b258c0824a264455491a93cad542a2d78fca2a3bd4dcb6689d93d68#rd)  
