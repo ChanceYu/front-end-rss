@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-02-25T04:00:46.086Z</updated>
+    <updated>2024-02-26T22:02:13.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js 2023 年终总结]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515168&amp;idx=1&amp;sn=37ffe8b890b4694a4be9ae74113218ed&amp;chksm=eb078459dc700d4fcb4b0d732120f39679412ed3b060bd0c99d8ee597f23d455b9b3eb16373b#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515168&amp;idx=1&amp;sn=37ffe8b890b4694a4be9ae74113218ed&amp;chksm=eb078459dc700d4fcb4b0d732120f39679412ed3b060bd0c99d8ee597f23d455b9b3eb16373b#rd"/>
+        <updated>2024-02-25T16:00:00.000Z</updated>
+        <published>2024-02-25T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你可以停止讨厌 React.FC 了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515165&amp;idx=1&amp;sn=f90ca8c73c22d8aa0c47a6546f4a4c6f&amp;chksm=eb078464dc700d7223473cda481de87d41c6f16147f073111c1a89742179311f95e88f14447c#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514751&amp;idx=1&amp;sn=837510e2acf696731f35efe355a407f3&amp;chksm=eb078206dc700b102fa22851c7811805a8d3a8854156112e12c84890525e449bd0e9628d6b46#rd"/>
         <updated>2024-01-04T16:00:00.000Z</updated>
         <published>2024-01-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript's rising stars]]></title>
-        <id>https://javascriptweekly.com/issues/669</id>
-        <link href="https://javascriptweekly.com/issues/669"/>
-        <updated>2024-01-03T16:00:00.000Z</updated>
-        <published>2024-01-03T16:00:00.000Z</published>
     </entry>
 </feed>
