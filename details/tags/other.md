@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-02-27 06:02:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-27 21:04:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2024-02-27-Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522) 
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520) 
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519) 
 - [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518) 

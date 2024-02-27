@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-02-27 06:02:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-02-27 21:04:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-02-27-Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522) ![](/assets/new.png)  
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
@@ -62,7 +63,6 @@
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
-- [2023-09-19-Does-Node-need-a-mascot-of-its-own?](https://nodeweekly.com/issues/502)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,7 +415,7 @@
 </summary>
 
 
-- [2024-02-26-Node.js-2023-年终总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515168&idx=1&sn=37ffe8b890b4694a4be9ae74113218ed&chksm=eb078459dc700d4fcb4b0d732120f39679412ed3b060bd0c99d8ee597f23d455b9b3eb16373b#rd) ![](/assets/new.png)  
+- [2024-02-26-Node.js-2023-年终总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515168&idx=1&sn=37ffe8b890b4694a4be9ae74113218ed&chksm=eb078459dc700d4fcb4b0d732120f39679412ed3b060bd0c99d8ee597f23d455b9b3eb16373b#rd)  
 - [2024-02-23-你可以停止讨厌-React.FC-了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515165&idx=1&sn=f90ca8c73c22d8aa0c47a6546f4a4c6f&chksm=eb078464dc700d7223473cda481de87d41c6f16147f073111c1a89742179311f95e88f14447c#rd)  
 - [2024-02-22-2024-年让我想激情学习的几个框架。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515155&idx=1&sn=c1b681032662bd995571a67078971a0e&chksm=eb07846adc700d7c8472870c994e45e979b8dd9b09060601bf3e3486bf8796536581f10e9146#rd)  
 - [2024-02-21-阿里内部首发2024前端开发手册，完整版开放下载了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=1&sn=108cea48bd6a72793e6ed5bf42440b83&chksm=eb07847ddc700d6bc77c7de8daadd4e25a644b5c8b5408da7871a5cc831c580d5854de19999e#rd)  
