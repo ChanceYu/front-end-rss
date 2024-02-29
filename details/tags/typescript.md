@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-02-29 23:01:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-01 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -9,6 +9,7 @@
 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
+- [2024-02-29-Postgres-in-TypeScript](https://javascriptweekly.com/issues/677) 
 - [2023-09-21-Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655) 
 - [2023-09-07-TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653) 
 - [2023-05-25-Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640) 
