@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-01T02:00:53.531Z</updated>
+    <updated>2024-03-01T04:01:59.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,11 +22,25 @@
         <published>2024-02-28T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JavaScript中闭包的概念与其造成的性能问题]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515207&amp;idx=2&amp;sn=05aa81f39380dc4a7ef3a952e8d38a3c&amp;chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515207&amp;idx=2&amp;sn=05aa81f39380dc4a7ef3a952e8d38a3c&amp;chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd"/>
+        <updated>2024-02-28T16:00:00.000Z</updated>
+        <published>2024-02-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Postgres in TypeScript]]></title>
         <id>https://javascriptweekly.com/issues/677</id>
         <link href="https://javascriptweekly.com/issues/677"/>
         <updated>2024-02-28T16:00:00.000Z</updated>
         <published>2024-02-28T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端视角对Rust的浅析]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515188&amp;idx=2&amp;sn=eac12fb47f1b8058c2c7a876fa33e362&amp;chksm=eb07844ddc700d5b85f69fe45cad903680ad2b61fb3cd0cf75e5954a6918b1cb80234a809a2e#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515188&amp;idx=2&amp;sn=eac12fb47f1b8058c2c7a876fa33e362&amp;chksm=eb07844ddc700d5b85f69fe45cad903680ad2b61fb3cd0cf75e5954a6918b1cb80234a809a2e#rd"/>
+        <updated>2024-02-27T16:00:00.000Z</updated>
+        <published>2024-02-27T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 2023 年终总结]]></title>
@@ -349,19 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268537&amp;idx=1&amp;sn=92b246e20b6ff308e4abcc6eacf645cb&amp;chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd"/>
         <updated>2024-01-07T16:00:00.000Z</updated>
         <published>2024-01-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个 React 深度使用者，反驳一下尤雨溪]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514772&amp;idx=1&amp;sn=8a06bc1d1888e1cd10067b33a243be2b&amp;chksm=eb0782eddc700bfb1c4d8dc52329c141cfab7fecab8c1b189459d69e62625b4d3bbb84dda48c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514772&amp;idx=1&amp;sn=8a06bc1d1888e1cd10067b33a243be2b&amp;chksm=eb0782eddc700bfb1c4d8dc52329c141cfab7fecab8c1b189459d69e62625b4d3bbb84dda48c#rd"/>
-        <updated>2024-01-06T16:00:00.000Z</updated>
-        <published>2024-01-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪怒喷 React，挖了坑不想着埋，靠文档来挽救！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514767&amp;idx=1&amp;sn=4aa49e53f6dfbb8f531e0b904c97a3c9&amp;chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514767&amp;idx=1&amp;sn=4aa49e53f6dfbb8f531e0b904c97a3c9&amp;chksm=eb0782f6dc700be0ebe13b984670eea9abc99bd3a1b4c0aa3c90859d12d6ce063b5295468fd3#rd"/>
-        <updated>2024-01-05T16:00:00.000Z</updated>
-        <published>2024-01-05T16:00:00.000Z</published>
     </entry>
 </feed>
