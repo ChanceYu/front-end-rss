@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-01T04:01:59.100Z</updated>
+    <updated>2024-03-03T00:01:47.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[2024 Vue 阿姆斯特丹大会落幕，Vue 的十年，如何进入开悟之坡？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515217&amp;idx=1&amp;sn=bc82208c33fc31ff7041e082c4d720cc&amp;chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515217&amp;idx=1&amp;sn=bc82208c33fc31ff7041e082c4d720cc&amp;chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd"/>
+        <updated>2024-03-01T16:00:00.000Z</updated>
+        <published>2024-03-01T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不改变音调情况下Audio音频的倍速合成JS实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/516"/>
         <updated>2024-01-08T16:00:00.000Z</updated>
         <published>2024-01-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3163期】转转B端项目页面性能统计实践]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268537&amp;idx=1&amp;sn=92b246e20b6ff308e4abcc6eacf645cb&amp;chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268537&amp;idx=1&amp;sn=92b246e20b6ff308e4abcc6eacf645cb&amp;chksm=bd48fc3d8a3f752b2618925d7ea663c5a7354a7a7c8ed2f6aed5e4af28afb53bf9dc4acb75df#rd"/>
-        <updated>2024-01-07T16:00:00.000Z</updated>
-        <published>2024-01-07T16:00:00.000Z</published>
     </entry>
 </feed>
