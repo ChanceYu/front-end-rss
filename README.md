@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-03 08:01:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-06 06:01:04，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -24,9 +24,9 @@
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)  
+- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523) ![](/assets/new.png)  
 - [2024-02-27-Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522)  
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
@@ -62,7 +63,6 @@
 - [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
-- [2023-09-26-Polyfills-gone-rogue](https://nodeweekly.com/issues/503)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -353,6 +353,7 @@
 </summary>
 
 
+- [2024-03-04-万能近似定理:-逼近任何函数的理论](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487220&idx=1&sn=83048ced417f04242c31ec96cc149475&chksm=fc86283ecbf1a1288e70293e75b595def1ed771e8992167e63dacf3eec29f2f6b2a61458afcb#rd) ![](/assets/new.png)  
 - [2024-02-19-机器学习简介:-寻找函数的艺术](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487203&idx=1&sn=eeaa40b30e237ed97b56033d783096b2&chksm=fc862829cbf1a13f9fb05e05a12bf651c59f996e13e4e8e07d30e6f0d383746cda62a23b9f2b#rd)  
 - [2023-12-25-个人养老金利与弊](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487185&idx=1&sn=50f6858a0fe0c46d81375822fc9f644c&chksm=fc86281bcbf1a10d276e06b94c4741426311a281a4042e601ee5068de7380fe3064ccb2105dd#rd)  
 - [2023-11-06-精读《算法题---二叉树中的最大路径和》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487175&idx=1&sn=f49d1556d5be9b49487bf564a1861536&chksm=fc86280dcbf1a11b620f84dd288988886a0a70184c377cd19216ee7823ee38c72e5df275a8db#rd)  
@@ -367,11 +368,10 @@
 - [2023-05-29-可视化搭建---场景实战](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487080&idx=1&sn=5a7cec0d958434c282691c9e3cba30fa&chksm=fc8628a2cbf1a1b444bbb8158fdfb60bddfd8ea553c65b080bca453f98d692c9b905009d0e82#rd)  
 - [2023-05-22-可视化搭建---自动批处理与冻结](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487066&idx=1&sn=d19cd8962c9da8dbcb95b43d88f6261c&chksm=fc862890cbf1a186804f1f30178508f8c776e991363131434447bb4edaf8e74f8aea8071ce6f#rd)  
 - [2023-05-08-ComponentLoader-与动态组件](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487055&idx=1&sn=abb5791cc6eb4cd24d13ae69fbd94e3e&chksm=fc862885cbf1a1933c20caeb22448f2588a3ed09c3b9a0c8bab2e6c79fca5bdf9697e716190e#rd)  
-- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
 - [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s/wq56X9lAIxybrbG0wwsUxw)  
-- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
+- [2023-04-17-精读《利用-GPT-解读-PDF》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487041&idx=1&sn=16cf8f04b7f0371f3272f8335d446257&chksm=fc86288bcbf1a19d95850691cfd87b3e547f9a645f174a28bd345239b9eb03f5e852d87f86c3#rd)  
 - [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s/1fYO__dfUy2MIjHi3IJrmg)  
-- [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487015&idx=1&sn=02681fc1f9812ec4257faa1e9a299b51&chksm=fc8628edcbf1a1fb23c369d62a811c367c30d298da710a457b524c05ac7c41323172c57e6684#rd)  
+- [2023-03-27-可视化搭建---keepAlive-模式](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487024&idx=1&sn=694f5a1b4ee07a91456d9fa939ac7bb9&chksm=fc8628facbf1a1ecd7f8cd549da38e6b517a2d4321c53643100f6a094e2ece5fcbce68d3e286#rd)  
 - [2023-03-13-可视化搭建---组件值校验](https://mp.weixin.qq.com/s/0jHFnqGGCVIknst0tRczvw)  
 - [......【查看更多】......](/details/前端精读评论.md)
 
@@ -415,7 +415,7 @@
 </summary>
 
 
-- [2024-03-02-2024-Vue-阿姆斯特丹大会落幕，Vue-的十年，如何进入开悟之坡？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515217&idx=1&sn=bc82208c33fc31ff7041e082c4d720cc&chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd) ![](/assets/new.png)  
+- [2024-03-02-2024-Vue-阿姆斯特丹大会落幕，Vue-的十年，如何进入开悟之坡？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515217&idx=1&sn=bc82208c33fc31ff7041e082c4d720cc&chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd)  
 - [2024-03-01-网易云音乐前端，原来是这么玩国际化的……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515214&idx=1&sn=6e504b62d20b25e45a30c5b9bda2c1d1&chksm=eb078437dc700d21cdc3f5caeb0fcdb9d13b731b9264de960bff2b791e5686127dbbc4fcfd6e#rd)  
 - [2024-02-29-JavaScript中闭包的概念与其造成的性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515207&idx=2&sn=05aa81f39380dc4a7ef3a952e8d38a3c&chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd)  
 - [2024-02-29-年后你一旦开始面试就会发现。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515207&idx=1&sn=6f773c1f283de24af227a7d15962b011&chksm=eb07843edc700d28b54e02b2ca3ecd6bdf97721f0f7b547762032db614d5c6375ebac34d0b7f#rd)  

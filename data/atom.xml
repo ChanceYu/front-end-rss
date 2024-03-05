@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-03T00:01:47.275Z</updated>
+    <updated>2024-03-05T22:01:05.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A new (small) Express.js release appears]]></title>
+        <id>https://nodeweekly.com/issues/523</id>
+        <link href="https://nodeweekly.com/issues/523"/>
+        <updated>2024-03-04T16:00:00.000Z</updated>
+        <published>2024-03-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Vue 阿姆斯特丹大会落幕，Vue 的十年，如何进入开悟之坡？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515217&amp;idx=1&amp;sn=bc82208c33fc31ff7041e082c4d720cc&amp;chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3164期】如何在线上使用 SourceMap]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd"/>
-        <updated>2024-01-08T16:00:00.000Z</updated>
-        <published>2024-01-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest npm registry shenanigans]]></title>
-        <id>https://nodeweekly.com/issues/516</id>
-        <link href="https://nodeweekly.com/issues/516"/>
         <updated>2024-01-08T16:00:00.000Z</updated>
         <published>2024-01-08T16:00:00.000Z</published>
     </entry>
