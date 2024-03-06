@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-05T22:01:05.788Z</updated>
+    <updated>2024-03-06T04:03:50.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,32 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Next.js vs Remix - 开发者的困境]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=2&amp;sn=48f60c547d7c60839de13a62a878c579&amp;chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=2&amp;sn=48f60c547d7c60839de13a62a878c579&amp;chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd"/>
+        <updated>2024-03-05T16:00:00.000Z</updated>
+        <published>2024-03-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近面试，Vue3是重点！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd"/>
+        <updated>2024-03-05T16:00:00.000Z</updated>
+        <published>2024-03-05T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A new (small) Express.js release appears]]></title>
         <id>https://nodeweekly.com/issues/523</id>
         <link href="https://nodeweekly.com/issues/523"/>
         <updated>2024-03-04T16:00:00.000Z</updated>
         <published>2024-03-04T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[试着用 Rspack 迁移 Webpack 项目，该不该冲！？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515223&amp;idx=1&amp;sn=245aec2e357f9b5c66e658aafa5d2d8d&amp;chksm=eb07842edc700d38fc060ed7e5c8a5b693984ffb8d549ff6331ab1a6b807baf4b60ad39bc86a#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515223&amp;idx=1&amp;sn=245aec2e357f9b5c66e658aafa5d2d8d&amp;chksm=eb07842edc700d38fc060ed7e5c8a5b693984ffb8d549ff6331ab1a6b807baf4b60ad39bc86a#rd"/>
+        <updated>2024-03-03T16:00:00.000Z</updated>
+        <published>2024-03-03T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 Vue 阿姆斯特丹大会落幕，Vue 的十年，如何进入开悟之坡？]]></title>
@@ -342,26 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514791&amp;idx=2&amp;sn=e01b78e706d6aa6f20555f2d1f6369af&amp;chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd"/>
         <updated>2024-01-12T16:00:00.000Z</updated>
         <published>2024-01-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is htmx Just Another JS Framework?]]></title>
-        <id>https://javascriptweekly.com/issues/670</id>
-        <link href="https://javascriptweekly.com/issues/670"/>
-        <updated>2024-01-10T16:00:00.000Z</updated>
-        <published>2024-01-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浅析 5 种 React 组件设计模式]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514775&amp;idx=1&amp;sn=be0a0b8b090034d249d7dc6cf56cca99&amp;chksm=eb0782eedc700bf86f07f13a4960faa23386377c3454a10414457b3a2f5e3d0058dd3bb8a5e5#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514775&amp;idx=1&amp;sn=be0a0b8b090034d249d7dc6cf56cca99&amp;chksm=eb0782eedc700bf86f07f13a4960faa23386377c3454a10414457b3a2f5e3d0058dd3bb8a5e5#rd"/>
-        <updated>2024-01-08T16:00:00.000Z</updated>
-        <published>2024-01-08T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3164期】如何在线上使用 SourceMap]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268569&amp;idx=1&amp;sn=901ad616df0e82ca728aad5e126752b2&amp;chksm=bd48fc5d8a3f754b78329723bee07ffd443d0efc271a307fc0933fe4f35087d6d76d1e972848#rd"/>
-        <updated>2024-01-08T16:00:00.000Z</updated>
-        <published>2024-01-08T16:00:00.000Z</published>
     </entry>
 </feed>

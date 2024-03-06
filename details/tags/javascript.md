@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-06 06:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-06 12:03:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1295,6 +1295,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2024-03-06-Next.js-vs-Remix---开发者的困境](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515245&idx=2&sn=48f60c547d7c60839de13a62a878c579&chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd) 
 - [2024-02-29-JavaScript中闭包的概念与其造成的性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515207&idx=2&sn=05aa81f39380dc4a7ef3a952e8d38a3c&chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd) 
 - [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd) 
 - [2024-01-18-现代-CSS-解决方案：文字颜色自动适配背景色！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514816&idx=2&sn=9fa6aa033ad3964fb5b3cf7cc3bd4401&chksm=eb0782b9dc700baf76770afde00c10bd090262cac6a4d4cf1cd9e9851c7dd49ecdf007010811#rd) 
