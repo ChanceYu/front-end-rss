@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-03-01 06:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-08 06:00:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-03-07-A-new-challenger-appears](https://javascriptweekly.com/issues/678) 
 - [2024-02-29-Postgres-in-TypeScript](https://javascriptweekly.com/issues/677) 
 - [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676) 
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675) 

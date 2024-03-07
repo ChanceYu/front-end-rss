@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-06 18:01:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-08 06:00:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -33,7 +33,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-03-07-A-new-challenger-appears](https://javascriptweekly.com/issues/678) ![](/assets/new.png)  
 - [2024-02-29-Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)  
 - [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)  
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
@@ -93,7 +94,6 @@
 - [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
 - [2023-10-26-Web-Components-forever?](https://javascriptweekly.com/issues/660)  
 - [2023-10-19-Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)  
-- [2023-10-12-Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -632,7 +632,7 @@
 </summary>
 
 
-- [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/) ![](/assets/new.png)  
+- [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/)  
 - [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)  
 - [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/)  
 - [2023-12-23-Web-终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/)  
