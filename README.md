@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-08 10:03:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-10 06:01:10，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -415,26 +415,26 @@
 </summary>
 
 
-- [2024-03-06-最近面试，Vue3是重点！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515245&idx=1&sn=ed99e0ceeb7257b9d5d119bb257ee646&chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd)  
+- [2024-03-09-问禅师：如何做懂业务的前端](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515291&idx=1&sn=6bd0f840863fdbf4031d066a2dcdcab4&chksm=eb0784e2dc700df4f967bafaad916d8a7e7b3eebaaac5dcdfa1e0202371d7d5b01b4f66fd058#rd) ![](/assets/new.png)  
+- [2024-03-08-今天面试了一个前端女生，当场想给她offer！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=1&sn=74603b08e9afd4efbec6e4d9b16ca813&chksm=eb0784e1dc700df7e2d791ef7c67d6f0e16290a5c10ffeb5021e9aeefffb93edd89158456842#rd) ![](/assets/new.png)  
+- [2024-03-08-TypeScript-5.4-正式发布](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=2&sn=cfed6bdf932ec229cc00044d065f4157&chksm=eb0784e1dc700df7bc64f99221338b96fa43e55f4ff1c6d8a70dda9087b9853d7f2c88846b94#rd) ![](/assets/new.png)  
+- [2024-03-07-各位，请拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515268&idx=1&sn=bdfd5353b7db8344dcd3017c8badc255&chksm=eb0784fddc700deb0c153ef2ea752598d728489d00362791b756a2e4f56c7b2af386299f44ca#rd) ![](/assets/new.png)  
+- [2024-03-07-如何使用Docker来渐进式提升开发及部署体验](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515268&idx=2&sn=f4b6a95b2c86f58e5008a2ad0298515c&chksm=eb0784fddc700debef032bd841c296845b5384751b3729aee83e0427e05b35171c251ebda729#rd) ![](/assets/new.png)  
 - [2024-03-06-Next.js-vs-Remix---开发者的困境](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515245&idx=2&sn=48f60c547d7c60839de13a62a878c579&chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd)  
+- [2024-03-06-最近面试，Vue3是重点！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515245&idx=1&sn=ed99e0ceeb7257b9d5d119bb257ee646&chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd)  
 - [2024-03-05-鹅厂打工8年，我为啥突然裸辞？（个人真实经历）](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515226&idx=1&sn=813558e517e0ca2445361795b89d6093&chksm=eb078423dc700d35b466ecf8902da4fb8e0c3d7bff1e290ef351643f8113b93cf8fed5f726f2#rd)  
 - [2024-03-04-试着用-Rspack-迁移-Webpack-项目，该不该冲！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515223&idx=1&sn=245aec2e357f9b5c66e658aafa5d2d8d&chksm=eb07842edc700d38fc060ed7e5c8a5b693984ffb8d549ff6331ab1a6b807baf4b60ad39bc86a#rd)  
 - [2024-03-02-2024-Vue-阿姆斯特丹大会落幕，Vue-的十年，如何进入开悟之坡？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515217&idx=1&sn=bc82208c33fc31ff7041e082c4d720cc&chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd)  
 - [2024-03-01-网易云音乐前端，原来是这么玩国际化的……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515214&idx=1&sn=6e504b62d20b25e45a30c5b9bda2c1d1&chksm=eb078437dc700d21cdc3f5caeb0fcdb9d13b731b9264de960bff2b791e5686127dbbc4fcfd6e#rd)  
-- [2024-02-29-年后你一旦开始面试就会发现。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515207&idx=1&sn=6f773c1f283de24af227a7d15962b011&chksm=eb07843edc700d28b54e02b2ca3ecd6bdf97721f0f7b547762032db614d5c6375ebac34d0b7f#rd)  
 - [2024-02-29-JavaScript中闭包的概念与其造成的性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515207&idx=2&sn=05aa81f39380dc4a7ef3a952e8d38a3c&chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd)  
-- [2024-02-28-前端行情变了，差别真的挺大。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515188&idx=1&sn=1d71576ae6af4cf699977bde1cf5cecc&chksm=eb07844ddc700d5b9c1a1309e49d6079162b7893b6ae279b8ae0857708ea0373fdbf747a3741#rd)  
+- [2024-02-29-年后你一旦开始面试就会发现。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515207&idx=1&sn=6f773c1f283de24af227a7d15962b011&chksm=eb07843edc700d28b54e02b2ca3ecd6bdf97721f0f7b547762032db614d5c6375ebac34d0b7f#rd)  
 - [2024-02-28-前端视角对Rust的浅析](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515188&idx=2&sn=eac12fb47f1b8058c2c7a876fa33e362&chksm=eb07844ddc700d5b85f69fe45cad903680ad2b61fb3cd0cf75e5954a6918b1cb80234a809a2e#rd)  
+- [2024-02-28-前端行情变了，差别真的挺大。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515188&idx=1&sn=1d71576ae6af4cf699977bde1cf5cecc&chksm=eb07844ddc700d5b9c1a1309e49d6079162b7893b6ae279b8ae0857708ea0373fdbf747a3741#rd)  
 - [2024-02-26-Node.js-2023-年终总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515168&idx=1&sn=37ffe8b890b4694a4be9ae74113218ed&chksm=eb078459dc700d4fcb4b0d732120f39679412ed3b060bd0c99d8ee597f23d455b9b3eb16373b#rd)  
 - [2024-02-23-你可以停止讨厌-React.FC-了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515165&idx=1&sn=f90ca8c73c22d8aa0c47a6546f4a4c6f&chksm=eb078464dc700d7223473cda481de87d41c6f16147f073111c1a89742179311f95e88f14447c#rd)  
 - [2024-02-22-2024-年让我想激情学习的几个框架。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515155&idx=1&sn=c1b681032662bd995571a67078971a0e&chksm=eb07846adc700d7c8472870c994e45e979b8dd9b09060601bf3e3486bf8796536581f10e9146#rd)  
-- [2024-02-21-前端最全的5种换肤方案总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=2&sn=49ecf538b7acea581bab878e018bcf81&chksm=eb07847ddc700d6b98fe263e4de8213fc564d50c3e7358e2f0f689d7cf94996815277faed33f#rd)  
 - [2024-02-21-阿里内部首发2024前端开发手册，完整版开放下载了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=1&sn=108cea48bd6a72793e6ed5bf42440b83&chksm=eb07847ddc700d6bc77c7de8daadd4e25a644b5c8b5408da7871a5cc831c580d5854de19999e#rd)  
-- [2024-02-20-年薪96w！真心建议大家冲一冲新兴领域，工资高前景好](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=1&sn=d95d4fce95dc69b800cf2571369006f0&chksm=eb078396dc700a80b4b33cc45769f6ba1bf893627305c32b67a4ec4d77c6da2d932667f9e59f#rd)  
-- [2024-02-20-一个Promise全新API，真好用！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515119&idx=2&sn=6c99a8c9d4fba4291afa6c313745ca36&chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd)  
-- [2024-02-19-2024前端开发岗位何去何从？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=1&sn=a883db31379fc9258c739489dc676501&chksm=eb0783a7dc700ab154bd46ccd33118fbbb7c2ac8e4d47ae67082f243d8f8aa50be23e77d172a#rd)  
-- [2024-02-19-字节跳动最热门的-15-个前端开源项目](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515102&idx=2&sn=08b75317801a7c80bf0415280db0ecc6&chksm=eb0783a7dc700ab17d3b3b258c0824a264455491a93cad542a2d78fca2a3bd4dcb6689d93d68#rd)  
-- [2024-02-06-在-V8-引擎内部看看闭包到底是什么](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515077&idx=1&sn=2ced77d8bb3556b82afa10dee4c3bfda&chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd)  
+- [2024-02-21-前端最全的5种换肤方案总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515140&idx=2&sn=49ecf538b7acea581bab878e018bcf81&chksm=eb07847ddc700d6b98fe263e4de8213fc564d50c3e7358e2f0f689d7cf94996815277faed33f#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html) ![](/assets/new.png)  
+- [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)  
 - [2024-03-01-科技爱好者周刊（第-291-期）：AI-没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)  
 - [2024-02-23-科技爱好者周刊（第-290-期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)  
 - [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)  

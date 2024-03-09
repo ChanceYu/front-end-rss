@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-08 10:03:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-10 06:01:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -179,6 +179,7 @@
 - [2022-03-09-TypeScript-应该尽量避免的语法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503945&idx=2&sn=dcb3f8699e4b0b27037a529c943d6edd&chksm=f992d698cee55f8ee497843e6cf99633632bccb505e9f027c84e4aba9ab9fd27093d477ed8df#rd) 
 - [2022-01-20-基于pnpm-+-lerna-+-typescript的最佳项目实践---理论篇](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502728&idx=1&sn=21c012b5ef9f3414479e5857596706f1&chksm=f992cd59cee5444f1bc9f4773c1d6fe07ce3a8efb380b262dc4822ed4c4b6abb4cbf3600dabf#rd) 
 - [2023-08-29-前端食堂技术周刊第-96-期：2023-CSS-状态、Nuxt-3.7、TypeScript-5.2、eBay-性能优化](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498498&idx=1&sn=69040c3cad1c7aa2493cfcb75654d214&chksm=c2b33afdf5c4b3eb9194d055547f8585932ee75f516d472e616f924556d240d98948d95f7d8e#rd) 
+- [2024-03-08-TypeScript-5.4-正式发布](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=2&sn=cfed6bdf932ec229cc00044d065f4157&chksm=eb0784e1dc700df7bc64f99221338b96fa43e55f4ff1c6d8a70dda9087b9853d7f2c88846b94#rd) 
 - [2024-01-15-TypeScript-中的-extends-怎么那么骚啊？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514795&idx=1&sn=7f9ab124f3ddd24cf2eda41210f8db0a&chksm=eb0782d2dc700bc4f9a49ac0a7fd84ad7f427dee17a8363c7091aafa621660e33d1658a87502#rd) 
 - [2023-10-10-TypeScript-类型系统中一个巧妙的设计](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514179&idx=2&sn=787d38bf8325b916959422d188d80fb2&chksm=eb07803adc70092cc08534f5c05c45e7cf42a94a59434368878f84a57f1c5a496308f2271744#rd) 
 - [2023-09-12-TypeScript-5.3，带来这些小惊喜](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513945&idx=1&sn=d100ae9b5e5a838632927851aa8832ec&chksm=eb078f20dc7006368fb2b8a28a9b38c3ae2fd49533be60c2b356f4a1de29df5adbbf30d6247d#rd) 
