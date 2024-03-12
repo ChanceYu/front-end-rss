@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-11 23:01:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-12 21:00:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524) ![](/assets/new.png)  
 - [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)  
 - [2024-02-27-Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522)  
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)  
@@ -62,7 +63,6 @@
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
 - [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
 - [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
-- [2023-10-03-Node-20-gets-faster,-approaches-LTS-status](https://nodeweekly.com/issues/504)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,8 +415,8 @@
 </summary>
 
 
-- [2024-03-11-45k！字节offer拿下了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=1&sn=36c0c12eddf645eee535b0bd8b80d9d5&chksm=eb0784d5dc700dc3be52ea6d96be7a6bd5e40d658cf4e9360fafe84873b4e76364ec81f8a623#rd) ![](/assets/new.png)  
-- [2024-03-11-rust-正在全面入侵前端](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=2&sn=43463f200c213e3801c45884f603c0ee&chksm=eb0784d5dc700dc34e855a69c32dafde4588a9ddcc59c826750b439f5c18eb0a6c0947527b29#rd) ![](/assets/new.png)  
+- [2024-03-11-45k！字节offer拿下了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=1&sn=36c0c12eddf645eee535b0bd8b80d9d5&chksm=eb0784d5dc700dc3be52ea6d96be7a6bd5e40d658cf4e9360fafe84873b4e76364ec81f8a623#rd)  
+- [2024-03-11-rust-正在全面入侵前端](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=2&sn=43463f200c213e3801c45884f603c0ee&chksm=eb0784d5dc700dc34e855a69c32dafde4588a9ddcc59c826750b439f5c18eb0a6c0947527b29#rd)  
 - [2024-03-09-问禅师：如何做懂业务的前端](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515291&idx=1&sn=6bd0f840863fdbf4031d066a2dcdcab4&chksm=eb0784e2dc700df4f967bafaad916d8a7e7b3eebaaac5dcdfa1e0202371d7d5b01b4f66fd058#rd)  
 - [2024-03-08-TypeScript-5.4-正式发布](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=2&sn=cfed6bdf932ec229cc00044d065f4157&chksm=eb0784e1dc700df7bc64f99221338b96fa43e55f4ff1c6d8a70dda9087b9853d7f2c88846b94#rd)  
 - [2024-03-08-今天面试了一个前端女生，当场想给她offer！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=1&sn=74603b08e9afd4efbec6e4d9b16ca813&chksm=eb0784e1dc700df7e2d791ef7c67d6f0e16290a5c10ffeb5021e9aeefffb93edd89158456842#rd)  
