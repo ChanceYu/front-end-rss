@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-16 06:02:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-17 12:01:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3641,6 +3641,7 @@
 - [2018-10-05-每周分享第-25-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html) 
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
+- [2024-03-17-Kimi-帮你看更大的世界！国产大模型测评](http://www.yyyweb.com/5587.html) 
 - [2024-01-12-如何搭建-GPTs-创新应用？有哪些关键技巧？](http://www.yyyweb.com/5574.html) 
 - [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html) 
 - [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html) 
