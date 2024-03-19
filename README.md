@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-19 12:00:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-19 23:02:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525) ![](/assets/new.png)  
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)  
 - [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)  
 - [2024-02-27-Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522)  
@@ -62,7 +63,6 @@
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
 - [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
-- [2023-10-10-Testing-perfection-for-Node?](https://nodeweekly.com/issues/505)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,8 +415,8 @@
 </summary>
 
 
-- [2024-03-19-恭喜了！全体程序员彻底狂欢吧！这个好消息来得太及时！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=1&sn=b898609e3dc9a9337988b82aebf72f75&chksm=eb078579dc700c6f3ccafd1048cfc633db34ed354e5e12d509d16af1dc8afb15ea0f914f5926#rd) ![](/assets/new.png)  
-- [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd) ![](/assets/new.png)  
+- [2024-03-19-恭喜了！全体程序员彻底狂欢吧！这个好消息来得太及时！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=1&sn=b898609e3dc9a9337988b82aebf72f75&chksm=eb078579dc700c6f3ccafd1048cfc633db34ed354e5e12d509d16af1dc8afb15ea0f914f5926#rd)  
+- [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd)  
 - [2024-03-18-45K*16薪，这波跳槽不亏。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515353&idx=1&sn=63d1780e839dfa7ebb5c06801df0513c&chksm=eb0784a0dc700db69ba1eddd7f294db693900dd4cba04d20b1a727603b733a8d401c47894eb5#rd)  
 - [2024-03-15-unocss-究竟比-tailwindcss-快多少？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515340&idx=1&sn=dcce428d7ed8ed2385ce66b0b623d646&chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd)  
 - [2024-03-14-为什么-Vue-的-defineProps-宏函数不需要-import-导入就可用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515337&idx=1&sn=8e1e25df74b233d3a13c29495390e3d1&chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd)  

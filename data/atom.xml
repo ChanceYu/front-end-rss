@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-19T04:00:52.997Z</updated>
+    <updated>2024-03-19T15:02:12.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Ryan Dahl on Deno and the future of JavaScript]]></title>
+        <id>https://nodeweekly.com/issues/525</id>
+        <link href="https://nodeweekly.com/issues/525"/>
+        <updated>2024-03-18T16:00:00.000Z</updated>
+        <published>2024-03-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[unocss 究竟比 tailwindcss 快多少？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515340&amp;idx=1&amp;sn=dcce428d7ed8ed2385ce66b0b623d646&amp;chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268861&amp;idx=1&amp;sn=46adb56e8947b228290e1f5e4559efcb&amp;chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd"/>
         <updated>2024-01-20T16:00:00.000Z</updated>
         <published>2024-01-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3175期】用 View Transition API 在 Web 做出 Native 般丝滑的动画]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268857&amp;idx=1&amp;sn=6618a91403f33486ff810a223410d414&amp;chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268857&amp;idx=1&amp;sn=6618a91403f33486ff810a223410d414&amp;chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd"/>
-        <updated>2024-01-19T16:00:00.000Z</updated>
-        <published>2024-01-19T16:00:00.000Z</published>
     </entry>
 </feed>
