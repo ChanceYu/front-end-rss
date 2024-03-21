@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-20 23:01:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-21 18:00:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -389,6 +389,7 @@
 - [2023-05-29-前端食堂技术周刊第-84-期：第-96-届-TC39-会议、Deno-五周年、JS-安全最佳实践、Node.js-性能现状](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498186&idx=1&sn=9055e0cca37d5dc24397fb81396022b5&chksm=c2b33835f5c4b123b51723987abc2e34a82c7060c6f532e343ebe07d276f5f20849bf076733c#rd) 
 - [2023-04-09-前端食堂技术周刊第-78-期：WebGPU、Astro-2.2、Node.js-事件循环可视化指南、实用-Web-API-规范](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497832&idx=1&sn=d0b228c56698412a97a604a81049ac87&chksm=c2b33997f5c4b08122c5c9cc5adef9f0956f80e385663bdfd99f7e4ec4e7eeb18a589bfbb424#rd) 
 - [2023-02-14-前端食堂技术周刊第-69-期：第-94-次-TC39-会议、Interop-2023、Deno-in-2022、2023前端趋势](https://mp.weixin.qq.com/s/DTJ-3hce1k5tdfjtvkuCFw) 
+- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd) 
 - [2024-02-26-Node.js-2023-年终总结](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515168&idx=1&sn=37ffe8b890b4694a4be9ae74113218ed&chksm=eb078459dc700d4fcb4b0d732120f39679412ed3b060bd0c99d8ee597f23d455b9b3eb16373b#rd) 
 - [2024-02-06-在-V8-引擎内部看看闭包到底是什么](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515077&idx=1&sn=2ced77d8bb3556b82afa10dee4c3bfda&chksm=eb0783bcdc700aaae0fc10ede4e8f23deb7291e50ac456087e0d7fd43701fd9941be56dfd022#rd) 
 - [2024-01-13-公司实习生居然还在手动切换node版本？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514791&idx=2&sn=e01b78e706d6aa6f20555f2d1f6369af&chksm=eb0782dedc700bc89bec2d5fc229f7cbac658971d705d5be0ce01f450f61176e1769c9b5f36c#rd) 
