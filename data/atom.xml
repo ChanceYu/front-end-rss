@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-21T10:00:52.421Z</updated>
+    <updated>2024-03-21T22:00:46.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS initial-letter属性，嗯……也就这样吧]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/"/>
+        <updated>2024-03-20T16:00:00.000Z</updated>
+        <published>2024-03-20T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这Proxy能干啥？]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=2&amp;sn=bf3970e5fa48f6051b8ade9ddbdd2c31&amp;chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268884&amp;idx=1&amp;sn=ecb14b8224c1a0b478b0031ba73cb42d&amp;chksm=bd48fe908a3f7786d0be073936284d453da243f9e31e730dd483d13fa0aa0a6cccd15d43ad32#rd"/>
         <updated>2024-01-23T16:00:00.000Z</updated>
         <published>2024-01-23T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3178期】使用 Taro 开发鸿蒙原生应用 —— 快速上手，鸿蒙应用开发指南]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268877&amp;idx=1&amp;sn=cec30208dfa165de88eeb5521ef5dff6&amp;chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268877&amp;idx=1&amp;sn=cec30208dfa165de88eeb5521ef5dff6&amp;chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd"/>
-        <updated>2024-01-22T16:00:00.000Z</updated>
-        <published>2024-01-22T16:00:00.000Z</published>
     </entry>
 </feed>

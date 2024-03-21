@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-21 18:00:50，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-22 06:00:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,10 +26,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-03-21-Package-managers,-the-new-todo-app?](https://javascriptweekly.com/issues/680) ![](/assets/new.png)  
 - [2024-03-14-Build-time-macros-for-everyone](https://javascriptweekly.com/issues/679)  
 - [2024-03-07-A-new-challenger-appears](https://javascriptweekly.com/issues/678)  
 - [2024-02-29-Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)  
@@ -93,7 +94,6 @@
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
 - [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
-- [2023-10-26-Web-Components-forever?](https://javascriptweekly.com/issues/660)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,9 +415,9 @@
 </summary>
 
 
-- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd) ![](/assets/new.png)  
-- [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd) ![](/assets/new.png)  
-- [2024-03-20-全端覆盖的国产黑科技太强了，支持HarmonyOS-NEXT！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515402&idx=1&sn=e4c3412f6b68b1d74115c6ebd2786f75&chksm=eb078573dc700c652c770bbbc028121cc2b6ad75c4b2d41d477726e7085c18e72a61598e4cc1#rd) ![](/assets/new.png)  
+- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd)  
+- [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd)  
+- [2024-03-20-全端覆盖的国产黑科技太强了，支持HarmonyOS-NEXT！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515402&idx=1&sn=e4c3412f6b68b1d74115c6ebd2786f75&chksm=eb078573dc700c652c770bbbc028121cc2b6ad75c4b2d41d477726e7085c18e72a61598e4cc1#rd)  
 - [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd)  
 - [2024-03-19-恭喜了！全体程序员彻底狂欢吧！这个好消息来得太及时！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=1&sn=b898609e3dc9a9337988b82aebf72f75&chksm=eb078579dc700c6f3ccafd1048cfc633db34ed354e5e12d509d16af1dc8afb15ea0f914f5926#rd)  
 - [2024-03-18-45K*16薪，这波跳槽不亏。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515353&idx=1&sn=63d1780e839dfa7ebb5c06801df0513c&chksm=eb0784a0dc700db69ba1eddd7f294db693900dd4cba04d20b1a727603b733a8d401c47894eb5#rd)  
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/) ![](/assets/new.png)  
 - [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/)  
 - [2024-02-29-不改变音调情况下Audio音频的倍速合成JS实现](https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/)  
 - [2024-01-31-HTML-MicroData微数据结构简介](https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/)  
@@ -527,7 +528,6 @@
 - [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)  
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  
 - [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
-- [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
