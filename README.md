@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-26 18:05:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-26 23:01:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -33,7 +33,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526) ![](/assets/new.png)  
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)  
 - [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)  
@@ -62,7 +63,6 @@
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
 - [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
-- [2023-10-17-Node.js-21-released](https://nodeweekly.com/issues/506)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -632,7 +632,7 @@
 </summary>
 
 
-- [2024-03-14-Web-文件系统（OPFS-及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/) ![](/assets/new.png)  
+- [2024-03-14-Web-文件系统（OPFS-及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/)  
 - [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/)  
 - [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)  
 - [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/)  

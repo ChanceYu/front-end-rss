@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-26T10:05:27.278Z</updated>
+    <updated>2024-03-26T15:01:47.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[关于 JSON.stringify，你不知道的六件事]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515438&amp;idx=2&amp;sn=eaeae0830902d85848388a51f90c7e9e&amp;chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515438&amp;idx=2&amp;sn=eaeae0830902d85848388a51f90c7e9e&amp;chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd"/>
+        <updated>2024-03-25T16:00:00.000Z</updated>
+        <published>2024-03-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node gets a redesign (and a documentary)]]></title>
+        <id>https://nodeweekly.com/issues/526</id>
+        <link href="https://nodeweekly.com/issues/526"/>
         <updated>2024-03-25T16:00:00.000Z</updated>
         <published>2024-03-25T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3180期】WebGL Chromakey 实时绿幕抠图]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268890&amp;idx=1&amp;sn=9090c67708057c950d1b3cafa7f21433&amp;chksm=bd48fe9e8a3f77887e4acc991a7b59ff15406fbddf453906e04ef3b8ad9f1a6e8a6679f4de7f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268890&amp;idx=1&amp;sn=9090c67708057c950d1b3cafa7f21433&amp;chksm=bd48fe9e8a3f77887e4acc991a7b59ff15406fbddf453906e04ef3b8ad9f1a6e8a6679f4de7f#rd"/>
-        <updated>2024-01-24T16:00:00.000Z</updated>
-        <published>2024-01-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern shell scripting with JavaScript]]></title>
-        <id>https://javascriptweekly.com/issues/672</id>
-        <link href="https://javascriptweekly.com/issues/672"/>
         <updated>2024-01-24T16:00:00.000Z</updated>
         <published>2024-01-24T16:00:00.000Z</published>
     </entry>

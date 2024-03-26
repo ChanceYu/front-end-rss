@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-03-26 18:05:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-26 23:01:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526) 
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525) 
 - [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523) 
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515) 
