@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-23 06:00:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-26 10:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -415,7 +415,7 @@
 </summary>
 
 
-- [2024-03-22-在现代-Web-应用中使用-storage，没那么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515418&idx=1&sn=bbfa8d615db9f1c8d0622f60cd4a9b90&chksm=eb078563dc700c75e57f4269a79c9a4f2df3220f0ec81967616556e978c34793d0f4b7327efc#rd) ![](/assets/new.png)  
+- [2024-03-22-在现代-Web-应用中使用-storage，没那么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515418&idx=1&sn=bbfa8d615db9f1c8d0622f60cd4a9b90&chksm=eb078563dc700c75e57f4269a79c9a4f2df3220f0ec81967616556e978c34793d0f4b7327efc#rd)  
 - [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd)  
 - [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd)  
 - [2024-03-20-全端覆盖的国产黑科技太强了，支持HarmonyOS-NEXT！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515402&idx=1&sn=e4c3412f6b68b1d74115c6ebd2786f75&chksm=eb078573dc700c652c770bbbc028121cc2b6ad75c4b2d41d477726e7085c18e72a61598e4cc1#rd)  
@@ -539,6 +539,7 @@
 </summary>
 
 
+- [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html) ![](/assets/new.png)  
 - [2024-03-22-科技爱好者周刊（第-294-期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)  
 - [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)  
 - [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)  
@@ -558,7 +559,6 @@
 - [2023-11-17-科技爱好者周刊（第-278-期）：棘手的-AI-版权](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-278.html)  
 - [2023-11-10-科技爱好者周刊（第-277-期）：工作台副屏的最佳选择](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-277.html)  
 - [2023-11-03-科技爱好者周刊（第-276-期）：内容行业的衰落](http://www.ruanyifeng.com/blog/2023/11/weekly-issue-276.html)  
-- [2023-10-27-科技爱好者周刊（第-275-期）：彼得·蒂尔的实验](http://www.ruanyifeng.com/blog/2023/10/weekly-issue-275.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
