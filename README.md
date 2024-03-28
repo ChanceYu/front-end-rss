@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-26 23:01:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-29 06:00:43，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526) ![](/assets/new.png)  
+- [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)  
 - [2024-03-05-A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-03-28-Promises-visualized](https://javascriptweekly.com/issues/681) ![](/assets/new.png)  
 - [2024-03-21-Package-managers,-the-new-todo-app?](https://javascriptweekly.com/issues/680)  
 - [2024-03-14-Build-time-macros-for-everyone](https://javascriptweekly.com/issues/679)  
 - [2024-03-07-A-new-challenger-appears](https://javascriptweekly.com/issues/678)  
@@ -93,7 +94,6 @@
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
 - [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
-- [2023-11-02-Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,26 +415,26 @@
 </summary>
 
 
-- [2024-03-26-96W，确实可以封神了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=1&sn=b8d06a77699309ce8be6bbb0ed272fb0&chksm=eb078557dc700c41aa83643a99dcd4146d882840705038978972855b6e331750a287ddc4245a#rd)  
+- [2024-03-28-放心，今年前端行情没那么差。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=1&sn=063a1438886eba585adccecc6d4b39b7&chksm=eb07853fdc700c291d3133424ae2f925e818e8521ccbd199b2951dfc3d0137742a57f93c9746#rd) ![](/assets/new.png)  
+- [2024-03-28-手撸一个简易-Grid-拖拽布局](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=2&sn=444646eb9b094f640f9031c52a8545e9&chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd) ![](/assets/new.png)  
+- [2024-03-27-Vue3-的宏到底是什么东西？不需要-import-直接用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515443&idx=1&sn=232f3d2450c98f249d29bd368517ac09&chksm=eb07854adc700c5c97fef1d2cc357db0f3c846965412d2f050e11a8fb44f5f53dd750d13ff7d#rd) ![](/assets/new.png)  
 - [2024-03-26-关于-JSON.stringify，你不知道的六件事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=2&sn=eaeae0830902d85848388a51f90c7e9e&chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd)  
+- [2024-03-26-96W，确实可以封神了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=1&sn=b8d06a77699309ce8be6bbb0ed272fb0&chksm=eb078557dc700c41aa83643a99dcd4146d882840705038978972855b6e331750a287ddc4245a#rd)  
 - [2024-03-25-异步难题：前端并发控制全解析](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515427&idx=1&sn=a64064b13bf987b15a9c90e47e1151aa&chksm=eb07855adc700c4c475d0a9a7aafbd62bd0d033c70084a5c85e60c0e3611af067de521fbba89#rd)  
 - [2024-03-23-Antfu-全职开源四年：当爱好变成职业，我发现一切并没有那么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515424&idx=1&sn=cef8baed5b711dc48c1d2b0a0fe0a036&chksm=eb078559dc700c4fe4317899937984be1b4b16ce6f4d35e5affefd8bc12f4039ae17e6379dd0#rd)  
 - [2024-03-22-在现代-Web-应用中使用-storage，没那么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515418&idx=1&sn=bbfa8d615db9f1c8d0622f60cd4a9b90&chksm=eb078563dc700c75e57f4269a79c9a4f2df3220f0ec81967616556e978c34793d0f4b7327efc#rd)  
-- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd)  
 - [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd)  
+- [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd)  
 - [2024-03-20-全端覆盖的国产黑科技太强了，支持HarmonyOS-NEXT！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515402&idx=1&sn=e4c3412f6b68b1d74115c6ebd2786f75&chksm=eb078573dc700c652c770bbbc028121cc2b6ad75c4b2d41d477726e7085c18e72a61598e4cc1#rd)  
-- [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd)  
 - [2024-03-19-恭喜了！全体程序员彻底狂欢吧！这个好消息来得太及时！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=1&sn=b898609e3dc9a9337988b82aebf72f75&chksm=eb078579dc700c6f3ccafd1048cfc633db34ed354e5e12d509d16af1dc8afb15ea0f914f5926#rd)  
+- [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd)  
 - [2024-03-18-45K*16薪，这波跳槽不亏。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515353&idx=1&sn=63d1780e839dfa7ebb5c06801df0513c&chksm=eb0784a0dc700db69ba1eddd7f294db693900dd4cba04d20b1a727603b733a8d401c47894eb5#rd)  
 - [2024-03-15-unocss-究竟比-tailwindcss-快多少？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515340&idx=1&sn=dcce428d7ed8ed2385ce66b0b623d646&chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd)  
 - [2024-03-14-为什么-Vue-的-defineProps-宏函数不需要-import-导入就可用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515337&idx=1&sn=8e1e25df74b233d3a13c29495390e3d1&chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd)  
 - [2024-03-13-面了8个前端开发，发现了一个通病…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515326&idx=1&sn=916cd386cc719a184d71df9f011f8525&chksm=eb0784c7dc700dd1b90d5c971b5ef1917472ca8b1e56e882629f463829330a3e86daed576593#rd)  
 - [2024-03-12-React-并发-API-实战，这几个例子看懂你就明白了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515310&idx=1&sn=26adb8596ad9a5fc5860cfecc82d12b5&chksm=eb0784d7dc700dc125f0cc3f1f286f35176c49613a1bd038f5c0be8b0f42e4850756df56dad9#rd)  
-- [2024-03-11-45k！字节offer拿下了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=1&sn=36c0c12eddf645eee535b0bd8b80d9d5&chksm=eb0784d5dc700dc3be52ea6d96be7a6bd5e40d658cf4e9360fafe84873b4e76364ec81f8a623#rd)  
 - [2024-03-11-rust-正在全面入侵前端](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=2&sn=43463f200c213e3801c45884f603c0ee&chksm=eb0784d5dc700dc34e855a69c32dafde4588a9ddcc59c826750b439f5c18eb0a6c0947527b29#rd)  
-- [2024-03-09-问禅师：如何做懂业务的前端](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515291&idx=1&sn=6bd0f840863fdbf4031d066a2dcdcab4&chksm=eb0784e2dc700df4f967bafaad916d8a7e7b3eebaaac5dcdfa1e0202371d7d5b01b4f66fd058#rd)  
-- [2024-03-08-TypeScript-5.4-正式发布](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=2&sn=cfed6bdf932ec229cc00044d065f4157&chksm=eb0784e1dc700df7bc64f99221338b96fa43e55f4ff1c6d8a70dda9087b9853d7f2c88846b94#rd)  
-- [2024-03-08-今天面试了一个前端女生，当场想给她offer！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515288&idx=1&sn=74603b08e9afd4efbec6e4d9b16ca813&chksm=eb0784e1dc700df7e2d791ef7c67d6f0e16290a5c10ffeb5021e9aeefffb93edd89158456842#rd)  
+- [2024-03-11-45k！字节offer拿下了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515308&idx=1&sn=36c0c12eddf645eee535b0bd8b80d9d5&chksm=eb0784d5dc700dc3be52ea6d96be7a6bd5e40d658cf4e9360fafe84873b4e76364ec81f8a623#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
