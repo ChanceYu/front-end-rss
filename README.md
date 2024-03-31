@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-03-29 10:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-03-31 21:02:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,8 +29,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/) ![](/assets/new.png)  
 - [2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/)  
 - [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/)  
 - [2024-02-29-不改变音调情况下Audio音频的倍速合成JS实现](https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/)  
@@ -527,7 +528,6 @@
 - [2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/)  
 - [2023-09-17-又get到了，JS复制图片到剪切板](https://www.zhangxinxu.com/wordpress/2023/09/js-copy-image-clipboard/)  
 - [2023-09-15-HTML-elementtiming属性初体验记录](https://www.zhangxinxu.com/wordpress/2023/09/html-elementtiming-attribute/)  
-- [2023-09-12-Tips：form元素reset后input不触发change事件处理](https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-03-29-科技爱好者周刊（第-295-期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html) ![](/assets/new.png)  
+- [2024-03-29-科技爱好者周刊（第-295-期）：巧妙的灯泡钟](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-295.html)  
 - [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)  
 - [2024-03-22-科技爱好者周刊（第-294-期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)  
 - [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)  

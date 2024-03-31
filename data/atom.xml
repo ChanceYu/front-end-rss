@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-03-29T02:00:50.299Z</updated>
+    <updated>2024-03-31T13:02:15.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS Nesting嵌套与@scope规则也太雷同了吧？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/"/>
+        <updated>2024-03-30T16:00:00.000Z</updated>
+        <published>2024-03-30T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手撸一个简易 Grid 拖拽布局]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515462&amp;idx=2&amp;sn=444646eb9b094f640f9031c52a8545e9&amp;chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247514892&amp;idx=1&amp;sn=4a0e0d141ec423f139e70e3c4285e1d5&amp;chksm=eb078375dc700a636e4b2470f660a39ad83db6b5c27ea28ff0c137eb2fd20bb1521c21ed7a85#rd"/>
         <updated>2024-01-28T16:00:00.000Z</updated>
         <published>2024-01-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3183期】神奇的 3D 卡片反光闪烁动效]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268973&amp;idx=1&amp;sn=081c8c6b75c91c1ed91d460e76e1759f&amp;chksm=bd48fee98a3f77ff4a1a79c2b4b066b58ee19b5ddc91349227b42bfffce86f8975e6419bd092#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651268973&amp;idx=1&amp;sn=081c8c6b75c91c1ed91d460e76e1759f&amp;chksm=bd48fee98a3f77ff4a1a79c2b4b066b58ee19b5ddc91349227b42bfffce86f8975e6419bd092#rd"/>
-        <updated>2024-01-27T16:00:00.000Z</updated>
-        <published>2024-01-27T16:00:00.000Z</published>
     </entry>
 </feed>
