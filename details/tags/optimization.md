@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-01 08:02:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-02 10:00:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -230,6 +230,7 @@
 - [2022-02-22-万字长文：分享前端性能优化知识体系](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503494&idx=1&sn=1487579de68d41750c63f6393d5875b4&chksm=f992c857cee541419b3d6c5cb020a2b1f01498f099b7bf5e836ab56cc0062b0f6cab69fa9cdf#rd) 
 - [2022-01-29-如何让网站加载速度变快](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502834&idx=2&sn=43b4aa8dd40cb02505a89d8f7a9941de&chksm=f992cd23cee54435f2f43eaaaa01bd30f3b141f62c38b18f8c78d5bb07ce2684f41d5a8f68a6#rd) 
 - [2022-01-19-如何做好前端性能监控？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502715&idx=2&sn=68a9804bc5feb5b599e4e7cd6ec2f927&chksm=f992cdaacee544bc3d1746beae717e66ad4da65d1793a97863f1ade308a29bb0ba8457501ac5#rd) 
+- [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd) 
 - [2023-08-01-油管性能拉跨，Chrome-团队出手相助…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512840&idx=1&sn=3aebfaf8a644cf5cb16ba4461247ee54&chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd) 
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd) 
 - [2022-05-31-并发渲染优化：让文件树的渲染又快又稳](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495557&idx=1&sn=41745805dcd01b806db6dbbfd712c39e&chksm=ec47a446db302d502f380805ed96566e66d0294e7c34c2232c2d964927a840d066a35f3639ee#rd) 
