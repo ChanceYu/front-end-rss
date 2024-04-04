@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-02 10:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-04 23:00:39，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -415,26 +415,26 @@
 </summary>
 
 
-- [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd) ![](/assets/new.png)  
+- [2024-04-04-软考证书，彻底爆了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=1&sn=e2f10e4a4b69516596a9cad470642d96&chksm=eb0785e9dc700cffaa681cdd598be8ecc8f43d332ab6455fbd864e14273b2169024090ca7ae7#rd) ![](/assets/new.png)  
+- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd) ![](/assets/new.png)  
+- [2024-04-03-Vue-中文名官宣，威优易……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515513&idx=1&sn=c13c7d71ad05071ab0d79dd747bb33f6&chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd) ![](/assets/new.png)  
+- [2024-04-02-今年前端的行情真不错。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515494&idx=1&sn=1faabfc9f217a0906d873a6ed028549d&chksm=eb07851fdc700c0947419bc90e1db02586d2b39a19316f9ae7c8c3adf5455dce459d56a6f3fa#rd) ![](/assets/new.png)  
+- [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd)  
 - [2024-03-31-Node.js-新官网来了！为何选用了-Next.js?](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515473&idx=1&sn=e22cebaa93b1c047cf99a415969ec495&chksm=eb078528dc700c3e3bc11afa70bb3b206d96ac89975bf49ee9730f05ec9bde3f737a4ea1304f#rd)  
 - [2024-03-29-从给-Astro-提了个-PR，聊聊我为什么喜欢开源](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515467&idx=1&sn=3101c65a58f4f07458a0e21ef311f9cd&chksm=eb078532dc700c24d1f7b3b2b81e0f554e7b8409325e0ea75d0bca7069415f98c50a5177ab71#rd)  
-- [2024-03-28-放心，今年前端行情没那么差。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=1&sn=063a1438886eba585adccecc6d4b39b7&chksm=eb07853fdc700c291d3133424ae2f925e818e8521ccbd199b2951dfc3d0137742a57f93c9746#rd)  
 - [2024-03-28-手撸一个简易-Grid-拖拽布局](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=2&sn=444646eb9b094f640f9031c52a8545e9&chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd)  
+- [2024-03-28-放心，今年前端行情没那么差。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=1&sn=063a1438886eba585adccecc6d4b39b7&chksm=eb07853fdc700c291d3133424ae2f925e818e8521ccbd199b2951dfc3d0137742a57f93c9746#rd)  
 - [2024-03-27-Vue3-的宏到底是什么东西？不需要-import-直接用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515443&idx=1&sn=232f3d2450c98f249d29bd368517ac09&chksm=eb07854adc700c5c97fef1d2cc357db0f3c846965412d2f050e11a8fb44f5f53dd750d13ff7d#rd)  
-- [2024-03-26-关于-JSON.stringify，你不知道的六件事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=2&sn=eaeae0830902d85848388a51f90c7e9e&chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd)  
 - [2024-03-26-96W，确实可以封神了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=1&sn=b8d06a77699309ce8be6bbb0ed272fb0&chksm=eb078557dc700c41aa83643a99dcd4146d882840705038978972855b6e331750a287ddc4245a#rd)  
+- [2024-03-26-关于-JSON.stringify，你不知道的六件事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=2&sn=eaeae0830902d85848388a51f90c7e9e&chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd)  
 - [2024-03-25-异步难题：前端并发控制全解析](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515427&idx=1&sn=a64064b13bf987b15a9c90e47e1151aa&chksm=eb07855adc700c4c475d0a9a7aafbd62bd0d033c70084a5c85e60c0e3611af067de521fbba89#rd)  
 - [2024-03-23-Antfu-全职开源四年：当爱好变成职业，我发现一切并没有那么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515424&idx=1&sn=cef8baed5b711dc48c1d2b0a0fe0a036&chksm=eb078559dc700c4fe4317899937984be1b4b16ce6f4d35e5affefd8bc12f4039ae17e6379dd0#rd)  
 - [2024-03-22-在现代-Web-应用中使用-storage，没那么简单](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515418&idx=1&sn=bbfa8d615db9f1c8d0622f60cd4a9b90&chksm=eb078563dc700c75e57f4269a79c9a4f2df3220f0ec81967616556e978c34793d0f4b7327efc#rd)  
-- [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd)  
 - [2024-03-21-Node.js有多强？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=1&sn=add4c641ecf105d0d3892ecc7365e385&chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd)  
+- [2024-03-21-这Proxy能干啥？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515417&idx=2&sn=bf3970e5fa48f6051b8ade9ddbdd2c31&chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd)  
 - [2024-03-20-全端覆盖的国产黑科技太强了，支持HarmonyOS-NEXT！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515402&idx=1&sn=e4c3412f6b68b1d74115c6ebd2786f75&chksm=eb078573dc700c652c770bbbc028121cc2b6ad75c4b2d41d477726e7085c18e72a61598e4cc1#rd)  
-- [2024-03-19-恭喜了！全体程序员彻底狂欢吧！这个好消息来得太及时！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=1&sn=b898609e3dc9a9337988b82aebf72f75&chksm=eb078579dc700c6f3ccafd1048cfc633db34ed354e5e12d509d16af1dc8afb15ea0f914f5926#rd)  
 - [2024-03-19-Lodash-已过时，试试它吧！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=2&sn=cb8b288da1d490804e206c70ac04578c&chksm=eb078579dc700c6fb3b6f5bf38542487de28aa1fa9dddcba17517990f3d9e891bae3d7abe7e8#rd)  
-- [2024-03-18-45K*16薪，这波跳槽不亏。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515353&idx=1&sn=63d1780e839dfa7ebb5c06801df0513c&chksm=eb0784a0dc700db69ba1eddd7f294db693900dd4cba04d20b1a727603b733a8d401c47894eb5#rd)  
-- [2024-03-15-unocss-究竟比-tailwindcss-快多少？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515340&idx=1&sn=dcce428d7ed8ed2385ce66b0b623d646&chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd)  
-- [2024-03-14-为什么-Vue-的-defineProps-宏函数不需要-import-导入就可用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515337&idx=1&sn=8e1e25df74b233d3a13c29495390e3d1&chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd)  
-- [2024-03-13-面了8个前端开发，发现了一个通病…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515326&idx=1&sn=916cd386cc719a184d71df9f011f8525&chksm=eb0784c7dc700dd1b90d5c971b5ef1917472ca8b1e56e882629f463829330a3e86daed576593#rd)  
+- [2024-03-19-恭喜了！全体程序员彻底狂欢吧！这个好消息来得太及时！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515392&idx=1&sn=b898609e3dc9a9337988b82aebf72f75&chksm=eb078579dc700c6f3ccafd1048cfc633db34ed354e5e12d509d16af1dc8afb15ea0f914f5926#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
