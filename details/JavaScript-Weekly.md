@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-03-29 06:00:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-05 06:01:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-04-04-A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682) 
 - [2024-03-28-Promises-visualized](https://javascriptweekly.com/issues/681) 
 - [2024-03-21-Package-managers,-the-new-todo-app?](https://javascriptweekly.com/issues/680) 
 - [2024-03-14-Build-time-macros-for-everyone](https://javascriptweekly.com/issues/679) 

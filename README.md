@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-04 23:00:39，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-05 06:01:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-04-04-A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682) ![](/assets/new.png)  
 - [2024-03-28-Promises-visualized](https://javascriptweekly.com/issues/681)  
 - [2024-03-21-Package-managers,-the-new-todo-app?](https://javascriptweekly.com/issues/680)  
 - [2024-03-14-Build-time-macros-for-everyone](https://javascriptweekly.com/issues/679)  
@@ -93,7 +94,6 @@
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
 - [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
-- [2023-11-09-Angular-is-back](https://javascriptweekly.com/issues/662)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,10 +415,10 @@
 </summary>
 
 
-- [2024-04-04-软考证书，彻底爆了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=1&sn=e2f10e4a4b69516596a9cad470642d96&chksm=eb0785e9dc700cffaa681cdd598be8ecc8f43d332ab6455fbd864e14273b2169024090ca7ae7#rd) ![](/assets/new.png)  
-- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd) ![](/assets/new.png)  
-- [2024-04-03-Vue-中文名官宣，威优易……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515513&idx=1&sn=c13c7d71ad05071ab0d79dd747bb33f6&chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd) ![](/assets/new.png)  
-- [2024-04-02-今年前端的行情真不错。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515494&idx=1&sn=1faabfc9f217a0906d873a6ed028549d&chksm=eb07851fdc700c0947419bc90e1db02586d2b39a19316f9ae7c8c3adf5455dce459d56a6f3fa#rd) ![](/assets/new.png)  
+- [2024-04-04-软考证书，彻底爆了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=1&sn=e2f10e4a4b69516596a9cad470642d96&chksm=eb0785e9dc700cffaa681cdd598be8ecc8f43d332ab6455fbd864e14273b2169024090ca7ae7#rd)  
+- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd)  
+- [2024-04-03-Vue-中文名官宣，威优易……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515513&idx=1&sn=c13c7d71ad05071ab0d79dd747bb33f6&chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd)  
+- [2024-04-02-今年前端的行情真不错。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515494&idx=1&sn=1faabfc9f217a0906d873a6ed028549d&chksm=eb07851fdc700c0947419bc90e1db02586d2b39a19316f9ae7c8c3adf5455dce459d56a6f3fa#rd)  
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd)  
 - [2024-03-31-Node.js-新官网来了！为何选用了-Next.js?](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515473&idx=1&sn=e22cebaa93b1c047cf99a415969ec495&chksm=eb078528dc700c3e3bc11afa70bb3b206d96ac89975bf49ee9730f05ec9bde3f737a4ea1304f#rd)  
 - [2024-03-29-从给-Astro-提了个-PR，聊聊我为什么喜欢开源](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515467&idx=1&sn=3101c65a58f4f07458a0e21ef311f9cd&chksm=eb078532dc700c24d1f7b3b2b81e0f554e7b8409325e0ea75d0bca7069415f98c50a5177ab71#rd)  
