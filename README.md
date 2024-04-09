@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-07 21:01:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-09 21:01:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527) ![](/assets/new.png)  
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)  
@@ -62,7 +63,6 @@
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
 - [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [2023-10-31-ES-module-autodetection-coming-to-Node](https://nodeweekly.com/issues/508)  
-- [2023-10-24-Taking-Node-to-the-JVM](https://nodeweekly.com/issues/507)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,7 +415,7 @@
 </summary>
 
 
-- [2024-04-07-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515539&idx=1&sn=7c3af677b299fab508c24a1f378a2926&chksm=eb0785eadc700cfce7b0886fb665fb30cfa3e7c882d8e077ac59c166de20c2ae5af984cf5b9a#rd) ![](/assets/new.png)  
+- [2024-04-07-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515539&idx=1&sn=7c3af677b299fab508c24a1f378a2926&chksm=eb0785eadc700cfce7b0886fb665fb30cfa3e7c882d8e077ac59c166de20c2ae5af984cf5b9a#rd)  
 - [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd)  
 - [2024-04-04-软考证书，彻底爆了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=1&sn=e2f10e4a4b69516596a9cad470642d96&chksm=eb0785e9dc700cffaa681cdd598be8ecc8f43d332ab6455fbd864e14273b2169024090ca7ae7#rd)  
 - [2024-04-03-Vue-中文名官宣，威优易……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515513&idx=1&sn=c13c7d71ad05071ab0d79dd747bb33f6&chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd)  

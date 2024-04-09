@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-04-07T13:01:38.885Z</updated>
+    <updated>2024-04-09T13:01:12.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[zx 8.0 for better Node scripting]]></title>
+        <id>https://nodeweekly.com/issues/527</id>
+        <link href="https://nodeweekly.com/issues/527"/>
+        <updated>2024-04-08T16:00:00.000Z</updated>
+        <published>2024-04-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2年经验前端面试网易灵犀！太注重工程化了！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515536&amp;idx=2&amp;sn=7c352d640bc56e5738324f15bb4849a5&amp;chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[别再用 ESLint 格式化你的代码了！原理揭秘。]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515024&amp;idx=1&amp;sn=990d8f03e35ab08db9f97536e3833ce2&amp;chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515024&amp;idx=1&amp;sn=990d8f03e35ab08db9f97536e3833ce2&amp;chksm=eb0783e9dc700aff7dab3d1aea505b269b02199c8b22cf79cda73709f4b6cab6376d693ff358#rd"/>
-        <updated>2024-01-31T16:00:00.000Z</updated>
-        <published>2024-01-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3187期】Hello~ ProChat 1.0 ： 会话组件中 的“亿” 点点细节]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651269033&amp;idx=1&amp;sn=b33ba40c5500d5644009c6c835b76524&amp;chksm=bd48fe2d8a3f773bc76387a7b44a25311b33e124aa3950905f6aefdc9d54dc51ea5bc5adaf32#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651269033&amp;idx=1&amp;sn=b33ba40c5500d5644009c6c835b76524&amp;chksm=bd48fe2d8a3f773bc76387a7b44a25311b33e124aa3950905f6aefdc9d54dc51ea5bc5adaf32#rd"/>
         <updated>2024-01-31T16:00:00.000Z</updated>
         <published>2024-01-31T16:00:00.000Z</published>
     </entry>
