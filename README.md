@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-11 23:01:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-12 06:02:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-04-11-An-easy-way-to-experiment-with-signals](https://javascriptweekly.com/issues/683) ![](/assets/new.png)  
 - [2024-04-04-A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)  
 - [2024-03-28-Promises-visualized](https://javascriptweekly.com/issues/681)  
 - [2024-03-21-Package-managers,-the-new-todo-app?](https://javascriptweekly.com/issues/680)  
@@ -93,7 +94,6 @@
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
 - [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
 - [2023-11-23-The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)  
-- [2023-11-16-Digging-into-explicit-resource-management](https://javascriptweekly.com/issues/663)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/) ![](/assets/new.png)  
+- [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/)  
 - [2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/)  
 - [2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/)  
 - [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/)  
