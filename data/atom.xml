@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-04-09T22:01:32.726Z</updated>
+    <updated>2024-04-11T15:01:50.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[SVG滤镜系列之搞懂<feBlend>元素]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/"/>
+        <updated>2024-04-10T16:00:00.000Z</updated>
+        <published>2024-04-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字节三年，谈谈一线团队如何搞工程化]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515582&amp;idx=1&amp;sn=63cf1f6a02782e16b87c5a8e85194e1e&amp;chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651269104&amp;idx=1&amp;sn=a4db3b0276603c70b5ce9ea50828dcdd&amp;chksm=bd48fe748a3f7762733d53a877d9da55e4612aef1ab23aa4f50fb5cd4ad55eabd5a6bd68d8b1#rd"/>
         <updated>2024-02-03T16:00:00.000Z</updated>
         <published>2024-02-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年，如何建一个 React 项目？别用 CRA 了。]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515036&amp;idx=1&amp;sn=5dd7c8e261d2f3e3af5c25450537d21d&amp;chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515036&amp;idx=1&amp;sn=5dd7c8e261d2f3e3af5c25450537d21d&amp;chksm=eb0783e5dc700af3ad0e143d140a89c4c00d97871c9414b617b701ba080893db2f655bc7b5f8#rd"/>
-        <updated>2024-02-01T16:00:00.000Z</updated>
-        <published>2024-02-01T16:00:00.000Z</published>
     </entry>
 </feed>
