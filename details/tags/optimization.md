@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-15 06:01:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-16 21:01:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -230,6 +230,7 @@
 - [2022-02-22-万字长文：分享前端性能优化知识体系](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247503494&idx=1&sn=1487579de68d41750c63f6393d5875b4&chksm=f992c857cee541419b3d6c5cb020a2b1f01498f099b7bf5e836ab56cc0062b0f6cab69fa9cdf#rd) 
 - [2022-01-29-如何让网站加载速度变快](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502834&idx=2&sn=43b4aa8dd40cb02505a89d8f7a9941de&chksm=f992cd23cee54435f2f43eaaaa01bd30f3b141f62c38b18f8c78d5bb07ce2684f41d5a8f68a6#rd) 
 - [2022-01-19-如何做好前端性能监控？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502715&idx=2&sn=68a9804bc5feb5b599e4e7cd6ec2f927&chksm=f992cdaacee544bc3d1746beae717e66ad4da65d1793a97863f1ade308a29bb0ba8457501ac5#rd) 
+- [2024-04-15-前端性能监控，在网易云音乐大前端怎么落地的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515631&idx=1&sn=14754ff8757921cfe62d686df57a9e09&chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd) 
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd) 
 - [2023-08-01-油管性能拉跨，Chrome-团队出手相助…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512840&idx=1&sn=3aebfaf8a644cf5cb16ba4461247ee54&chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd) 
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd) 
