@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-16 21:01:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-18 06:00:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -24,7 +24,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
-- [前端精读评论](#前端精读评论)![](/assets/dot.png)   
+- [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528) ![](/assets/new.png)  
+- [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528)  
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)  
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
@@ -353,7 +353,7 @@
 </summary>
 
 
-- [2024-04-15-反向传播:-揭秘神经网络的学习机制](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487280&idx=1&sn=22bf893e73f32f5320231991abd75154&chksm=fc8629facbf1a0eca72712ee4ae6e3b04487b5f1659cc0ded114eec8dca4bdf6a399e7df9b7e#rd) ![](/assets/new.png)  
+- [2024-04-15-反向传播:-揭秘神经网络的学习机制](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487280&idx=1&sn=22bf893e73f32f5320231991abd75154&chksm=fc8629facbf1a0eca72712ee4ae6e3b04487b5f1659cc0ded114eec8dca4bdf6a399e7df9b7e#rd)  
 - [2024-03-18-实现万能近似函数:-神经网络的架构设计](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487238&idx=1&sn=087d27362fccbd6dfef7d1327ac63a14&chksm=fc8629cccbf1a0da30de7bf277d6161d05e87c252c4a89edb227928714a00e7a24454a41fef9#rd)  
 - [2024-03-04-万能近似定理:-逼近任何函数的理论](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487220&idx=1&sn=83048ced417f04242c31ec96cc149475&chksm=fc86283ecbf1a1288e70293e75b595def1ed771e8992167e63dacf3eec29f2f6b2a61458afcb#rd)  
 - [2024-02-19-机器学习简介:-寻找函数的艺术](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487203&idx=1&sn=eeaa40b30e237ed97b56033d783096b2&chksm=fc862829cbf1a13f9fb05e05a12bf651c59f996e13e4e8e07d30e6f0d383746cda62a23b9f2b#rd)  
@@ -415,8 +415,9 @@
 </summary>
 
 
-- [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd) ![](/assets/new.png)  
-- [2024-04-15-前端性能监控，在网易云音乐大前端怎么落地的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515631&idx=1&sn=14754ff8757921cfe62d686df57a9e09&chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd) ![](/assets/new.png)  
+- [2024-04-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515650&idx=1&sn=f5f7728d8ba260557209df6f1b260d9d&chksm=eb07867bdc700f6de0cb4876a3dad6510b9ef1bfad7c0ed3d040be6b1bb35a418442230e9d35#rd) ![](/assets/new.png)  
+- [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd)  
+- [2024-04-15-前端性能监控，在网易云音乐大前端怎么落地的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515631&idx=1&sn=14754ff8757921cfe62d686df57a9e09&chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd)  
 - [2024-04-14-最近，前端的薪资爆了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515628&idx=1&sn=220b8ef0b6de5b9b5482400f13e6194f&chksm=eb078595dc700c83b7d9e508b35cca88a1dcf7bc03a1e2cc0a00a80e1ee594648a3a8c9b5a83#rd)  
 - [2024-04-13-市面老多微前端框架了，它们的隔离实现方案、实战、优缺点？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515627&idx=1&sn=abae36e88e49ccf944025382e9464c37&chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd)  
 - [2024-04-12-预测一波，这份Web面试题库即将爆火…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515601&idx=1&sn=3cc72959610774cab999039f5866eb68&chksm=eb0785a8dc700cbede9d868f950987e1cf6d60d115961b0563c5e4f378f6e89cd51a96ea35e9#rd)  
@@ -424,17 +425,16 @@
 - [2024-04-09-字节三年，谈谈一线团队如何搞工程化](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515582&idx=1&sn=63cf1f6a02782e16b87c5a8e85194e1e&chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd)  
 - [2024-04-08-准备跳到字节了，来和大家聊一下前端的行情](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515554&idx=1&sn=40e8c4a8efce533db117e9d2042e106d&chksm=eb0785dbdc700ccdf3e24e5d1aafc1c2cbcb92e3d96c2689c34a62d5d8aa667ffa567925ae40#rd)  
 - [2024-04-07-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515539&idx=1&sn=7c3af677b299fab508c24a1f378a2926&chksm=eb0785eadc700cfce7b0886fb665fb30cfa3e7c882d8e077ac59c166de20c2ae5af984cf5b9a#rd)  
-- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd)  
 - [2024-04-04-软考证书，彻底爆了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=1&sn=e2f10e4a4b69516596a9cad470642d96&chksm=eb0785e9dc700cffaa681cdd598be8ecc8f43d332ab6455fbd864e14273b2169024090ca7ae7#rd)  
+- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd)  
 - [2024-04-03-Vue-中文名官宣，威优易……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515513&idx=1&sn=c13c7d71ad05071ab0d79dd747bb33f6&chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd)  
 - [2024-04-02-今年前端的行情真不错。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515494&idx=1&sn=1faabfc9f217a0906d873a6ed028549d&chksm=eb07851fdc700c0947419bc90e1db02586d2b39a19316f9ae7c8c3adf5455dce459d56a6f3fa#rd)  
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd)  
 - [2024-03-31-Node.js-新官网来了！为何选用了-Next.js?](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515473&idx=1&sn=e22cebaa93b1c047cf99a415969ec495&chksm=eb078528dc700c3e3bc11afa70bb3b206d96ac89975bf49ee9730f05ec9bde3f737a4ea1304f#rd)  
 - [2024-03-29-从给-Astro-提了个-PR，聊聊我为什么喜欢开源](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515467&idx=1&sn=3101c65a58f4f07458a0e21ef311f9cd&chksm=eb078532dc700c24d1f7b3b2b81e0f554e7b8409325e0ea75d0bca7069415f98c50a5177ab71#rd)  
-- [2024-03-28-放心，今年前端行情没那么差。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=1&sn=063a1438886eba585adccecc6d4b39b7&chksm=eb07853fdc700c291d3133424ae2f925e818e8521ccbd199b2951dfc3d0137742a57f93c9746#rd)  
 - [2024-03-28-手撸一个简易-Grid-拖拽布局](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=2&sn=444646eb9b094f640f9031c52a8545e9&chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd)  
+- [2024-03-28-放心，今年前端行情没那么差。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=1&sn=063a1438886eba585adccecc6d4b39b7&chksm=eb07853fdc700c291d3133424ae2f925e818e8521ccbd199b2951dfc3d0137742a57f93c9746#rd)  
 - [2024-03-27-Vue3-的宏到底是什么东西？不需要-import-直接用？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515443&idx=1&sn=232f3d2450c98f249d29bd368517ac09&chksm=eb07854adc700c5c97fef1d2cc357db0f3c846965412d2f050e11a8fb44f5f53dd750d13ff7d#rd)  
-- [2024-03-26-关于-JSON.stringify，你不知道的六件事](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515438&idx=2&sn=eaeae0830902d85848388a51f90c7e9e&chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
