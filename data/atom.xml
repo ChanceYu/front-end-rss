@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-04-19T22:00:44.308Z</updated>
+    <updated>2024-04-22T04:01:13.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[node环境中使用fluent-ffmpeg每隔一秒视频截图]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/"/>
+        <updated>2024-04-21T16:00:00.000Z</updated>
+        <published>2024-04-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 超前版发布三个新特性！有望全面拥抱 JSX/TSX！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515653&amp;idx=1&amp;sn=02f726732521950ae0ce6301f3a68a2d&amp;chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[HarmonyOS开发案例-界面组件在软键盘弹出时避免遮挡]]></title>
         <id>http://www.yyyweb.com/5581.html</id>
         <link href="http://www.yyyweb.com/5581.html"/>
-        <updated>2024-02-14T16:00:00.000Z</updated>
-        <published>2024-02-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TC39 adds a new stage for ECMAScript proposals]]></title>
-        <id>https://javascriptweekly.com/issues/675</id>
-        <link href="https://javascriptweekly.com/issues/675"/>
         <updated>2024-02-14T16:00:00.000Z</updated>
         <published>2024-02-14T16:00:00.000Z</published>
     </entry>

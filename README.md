@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-20 06:00:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-22 12:01:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,10 +26,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -415,7 +415,7 @@
 </summary>
 
 
-- [2024-04-18-Vue3-超前版发布三个新特性！有望全面拥抱-JSX/TSX！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515653&idx=1&sn=02f726732521950ae0ce6301f3a68a2d&chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd) ![](/assets/new.png)  
+- [2024-04-18-Vue3-超前版发布三个新特性！有望全面拥抱-JSX/TSX！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515653&idx=1&sn=02f726732521950ae0ce6301f3a68a2d&chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd)  
 - [2024-04-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515650&idx=1&sn=f5f7728d8ba260557209df6f1b260d9d&chksm=eb07867bdc700f6de0cb4876a3dad6510b9ef1bfad7c0ed3d040be6b1bb35a418442230e9d35#rd)  
 - [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd)  
 - [2024-04-15-前端性能监控，在网易云音乐大前端怎么落地的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515631&idx=1&sn=14754ff8757921cfe62d686df57a9e09&chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd)  
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) ![](/assets/new.png)  
 - [2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/)  
 - [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/)  
 - [2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/)  
@@ -527,7 +528,6 @@
 - [2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/)  
 - [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)  
 - [2023-10-10-纯JS实现多个音频的拼接或者合并](https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/)  
-- [2023-10-09-JS改变AudioBuffer音量并下载为新audio音频](https://www.zhangxinxu.com/wordpress/2023/10/js-web-audio-audiobuffer-volume/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
