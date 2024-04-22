@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-22 12:01:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-23 06:02:01，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,10 +26,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -415,6 +415,9 @@
 </summary>
 
 
+- [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd) ![](/assets/new.png)  
+- [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd) ![](/assets/new.png)  
+- [2024-04-21-半年亏120万，只因为她，我从“天台”上走了下来](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515672&idx=1&sn=fa2597f62ba9a22f60aacb86aeb10135&chksm=eb078661dc700f7761bb63ebfed2e46f87b303d72a8cbbc6c95f5c766e6a61cae25bbb9fe7dc#rd) ![](/assets/new.png)  
 - [2024-04-18-Vue3-超前版发布三个新特性！有望全面拥抱-JSX/TSX！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515653&idx=1&sn=02f726732521950ae0ce6301f3a68a2d&chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd)  
 - [2024-04-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515650&idx=1&sn=f5f7728d8ba260557209df6f1b260d9d&chksm=eb07867bdc700f6de0cb4876a3dad6510b9ef1bfad7c0ed3d040be6b1bb35a418442230e9d35#rd)  
 - [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd)  
@@ -426,15 +429,12 @@
 - [2024-04-09-字节三年，谈谈一线团队如何搞工程化](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515582&idx=1&sn=63cf1f6a02782e16b87c5a8e85194e1e&chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd)  
 - [2024-04-08-准备跳到字节了，来和大家聊一下前端的行情](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515554&idx=1&sn=40e8c4a8efce533db117e9d2042e106d&chksm=eb0785dbdc700ccdf3e24e5d1aafc1c2cbcb92e3d96c2689c34a62d5d8aa667ffa567925ae40#rd)  
 - [2024-04-07-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515539&idx=1&sn=7c3af677b299fab508c24a1f378a2926&chksm=eb0785eadc700cfce7b0886fb665fb30cfa3e7c882d8e077ac59c166de20c2ae5af984cf5b9a#rd)  
-- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd)  
 - [2024-04-04-软考证书，彻底爆了！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=1&sn=e2f10e4a4b69516596a9cad470642d96&chksm=eb0785e9dc700cffaa681cdd598be8ecc8f43d332ab6455fbd864e14273b2169024090ca7ae7#rd)  
+- [2024-04-04-2年经验前端面试网易灵犀！太注重工程化了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515536&idx=2&sn=7c352d640bc56e5738324f15bb4849a5&chksm=eb0785e9dc700cffb0dfeedf7b77135cf5156162f8b5f54d3864dad333781a785bf488aed292#rd)  
 - [2024-04-03-Vue-中文名官宣，威优易……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515513&idx=1&sn=c13c7d71ad05071ab0d79dd747bb33f6&chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd)  
 - [2024-04-02-今年前端的行情真不错。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515494&idx=1&sn=1faabfc9f217a0906d873a6ed028549d&chksm=eb07851fdc700c0947419bc90e1db02586d2b39a19316f9ae7c8c3adf5455dce459d56a6f3fa#rd)  
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd)  
 - [2024-03-31-Node.js-新官网来了！为何选用了-Next.js?](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515473&idx=1&sn=e22cebaa93b1c047cf99a415969ec495&chksm=eb078528dc700c3e3bc11afa70bb3b206d96ac89975bf49ee9730f05ec9bde3f737a4ea1304f#rd)  
-- [2024-03-29-从给-Astro-提了个-PR，聊聊我为什么喜欢开源](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515467&idx=1&sn=3101c65a58f4f07458a0e21ef311f9cd&chksm=eb078532dc700c24d1f7b3b2b81e0f554e7b8409325e0ea75d0bca7069415f98c50a5177ab71#rd)  
-- [2024-03-28-放心，今年前端行情没那么差。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=1&sn=063a1438886eba585adccecc6d4b39b7&chksm=eb07853fdc700c291d3133424ae2f925e818e8521ccbd199b2951dfc3d0137742a57f93c9746#rd)  
-- [2024-03-28-手撸一个简易-Grid-拖拽布局](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515462&idx=2&sn=444646eb9b094f640f9031c52a8545e9&chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/) ![](/assets/new.png)  
+- [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/)  
 - [2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/)  
 - [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/)  
 - [2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/)  
