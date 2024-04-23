@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-04-16 21:01:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-23 23:00:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-04-23-node---run-send_newsletter](https://nodeweekly.com/issues/529) 
 - [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528) 
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527) 
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526) 

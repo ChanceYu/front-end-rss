@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-23 06:02:01，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-23 23:00:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-04-23-node---run-send_newsletter](https://nodeweekly.com/issues/529) ![](/assets/new.png)  
 - [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528)  
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)  
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
@@ -62,7 +63,6 @@
 - [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512)  
 - [2023-11-21-AWS-Lambda-gets-a-Node-20-LTS-runtime](https://nodeweekly.com/issues/511)  
 - [2023-11-14-Milo:-A-new-HTTP-parser-for-Node?](https://nodeweekly.com/issues/510)  
-- [2023-11-07-Sizing-up-your-images-with-Sindre](https://nodeweekly.com/issues/509)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,9 +415,9 @@
 </summary>
 
 
-- [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd) ![](/assets/new.png)  
-- [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd) ![](/assets/new.png)  
-- [2024-04-21-半年亏120万，只因为她，我从“天台”上走了下来](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515672&idx=1&sn=fa2597f62ba9a22f60aacb86aeb10135&chksm=eb078661dc700f7761bb63ebfed2e46f87b303d72a8cbbc6c95f5c766e6a61cae25bbb9fe7dc#rd) ![](/assets/new.png)  
+- [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd)  
+- [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd)  
+- [2024-04-21-半年亏120万，只因为她，我从“天台”上走了下来](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515672&idx=1&sn=fa2597f62ba9a22f60aacb86aeb10135&chksm=eb078661dc700f7761bb63ebfed2e46f87b303d72a8cbbc6c95f5c766e6a61cae25bbb9fe7dc#rd)  
 - [2024-04-18-Vue3-超前版发布三个新特性！有望全面拥抱-JSX/TSX！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515653&idx=1&sn=02f726732521950ae0ce6301f3a68a2d&chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd)  
 - [2024-04-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515650&idx=1&sn=f5f7728d8ba260557209df6f1b260d9d&chksm=eb07867bdc700f6de0cb4876a3dad6510b9ef1bfad7c0ed3d040be6b1bb35a418442230e9d35#rd)  
 - [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd)  
