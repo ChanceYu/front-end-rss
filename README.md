@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-25 15:00:39，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-26 06:00:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -26,7 +26,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-04-25-JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685) ![](/assets/new.png)  
 - [2024-04-18-Visualizing-algorithms](https://javascriptweekly.com/issues/684)  
 - [2024-04-11-An-easy-way-to-experiment-with-signals](https://javascriptweekly.com/issues/683)  
 - [2024-04-04-A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)  
@@ -93,7 +94,6 @@
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
 - [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [2023-12-07-Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)  
-- [2023-11-30-Every-Framework-Everywhere-All-at-Once](https://javascriptweekly.com/issues/665)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -415,10 +415,10 @@
 </summary>
 
 
-- [2024-04-25-从-0-到-1-实现一个前端全链路定位方案！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515704&idx=1&sn=0616ac3e6335f319a2aeb03e2e495518&chksm=eb078641dc700f5701e86d4e1fe3f54371ff33d96834d0c36c12559e7f588b1598f713050d1d#rd) ![](/assets/new.png)  
-- [2024-04-24-解锁前端难题：亲手实现一个图片标注工具](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515695&idx=1&sn=28f9af84eb81880cb7bf1817a1f0a307&chksm=eb078656dc700f408dc4319275cd3fc37132c314a8e6b276f0c0217702bf83366f3d07b30aab#rd) ![](/assets/new.png)  
-- [2024-04-23-铜三铁四，怒拿-35K-*-15-薪！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=1&sn=af514e9958ffdd7218c19aa26bf05909&chksm=eb078653dc700f457520b3712bef71b21ee7c0567dd3659a258a7b2eb5efaa303b9f4e4ed76e#rd) ![](/assets/new.png)  
-- [2024-04-23-更轻巧的状态管理工具——Hookstate](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=2&sn=ba2cfa783bba0d0aeeec603d9eedb3bd&chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd) ![](/assets/new.png)  
+- [2024-04-25-从-0-到-1-实现一个前端全链路定位方案！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515704&idx=1&sn=0616ac3e6335f319a2aeb03e2e495518&chksm=eb078641dc700f5701e86d4e1fe3f54371ff33d96834d0c36c12559e7f588b1598f713050d1d#rd)  
+- [2024-04-24-解锁前端难题：亲手实现一个图片标注工具](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515695&idx=1&sn=28f9af84eb81880cb7bf1817a1f0a307&chksm=eb078656dc700f408dc4319275cd3fc37132c314a8e6b276f0c0217702bf83366f3d07b30aab#rd)  
+- [2024-04-23-铜三铁四，怒拿-35K-*-15-薪！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=1&sn=af514e9958ffdd7218c19aa26bf05909&chksm=eb078653dc700f457520b3712bef71b21ee7c0567dd3659a258a7b2eb5efaa303b9f4e4ed76e#rd)  
+- [2024-04-23-更轻巧的状态管理工具——Hookstate](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=2&sn=ba2cfa783bba0d0aeeec603d9eedb3bd&chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd)  
 - [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd)  
 - [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd)  
 - [2024-04-21-半年亏120万，只因为她，我从“天台”上走了下来](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515672&idx=1&sn=fa2597f62ba9a22f60aacb86aeb10135&chksm=eb078661dc700f7761bb63ebfed2e46f87b303d72a8cbbc6c95f5c766e6a61cae25bbb9fe7dc#rd)  

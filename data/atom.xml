@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-04-25T07:00:41.625Z</updated>
+    <updated>2024-04-25T22:00:43.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JSR isn't another tool, it's a fundamental shift]]></title>
+        <id>https://javascriptweekly.com/issues/685</id>
+        <link href="https://javascriptweekly.com/issues/685"/>
+        <updated>2024-04-24T16:00:00.000Z</updated>
+        <published>2024-04-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[更轻巧的状态管理工具——Hookstate]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515165&amp;idx=1&amp;sn=f90ca8c73c22d8aa0c47a6546f4a4c6f&amp;chksm=eb078464dc700d7223473cda481de87d41c6f16147f073111c1a89742179311f95e88f14447c#rd"/>
         <updated>2024-02-22T16:00:00.000Z</updated>
         <published>2024-02-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个Promise全新API，真好用！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515119&amp;idx=2&amp;sn=6c99a8c9d4fba4291afa6c313745ca36&amp;chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515119&amp;idx=2&amp;sn=6c99a8c9d4fba4291afa6c313745ca36&amp;chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd"/>
-        <updated>2024-02-19T16:00:00.000Z</updated>
-        <published>2024-02-19T16:00:00.000Z</published>
     </entry>
 </feed>
