@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-04-23T15:00:40.166Z</updated>
+    <updated>2024-04-25T07:00:41.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[更轻巧的状态管理工具——Hookstate]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd"/>
+        <updated>2024-04-22T16:00:00.000Z</updated>
+        <published>2024-04-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[node --run send_newsletter]]></title>
         <id>https://nodeweekly.com/issues/529</id>
@@ -204,16 +211,16 @@
         <published>2024-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[这Proxy能干啥？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=2&amp;sn=bf3970e5fa48f6051b8ade9ddbdd2c31&amp;chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=2&amp;sn=bf3970e5fa48f6051b8ade9ddbdd2c31&amp;chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd"/>
+        <title type="html"><![CDATA[Node.js有多强？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=1&amp;sn=add4c641ecf105d0d3892ecc7365e385&amp;chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=1&amp;sn=add4c641ecf105d0d3892ecc7365e385&amp;chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd"/>
         <updated>2024-03-20T16:00:00.000Z</updated>
         <published>2024-03-20T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node.js有多强？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=1&amp;sn=add4c641ecf105d0d3892ecc7365e385&amp;chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=1&amp;sn=add4c641ecf105d0d3892ecc7365e385&amp;chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd"/>
+        <title type="html"><![CDATA[这Proxy能干啥？]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=2&amp;sn=bf3970e5fa48f6051b8ade9ddbdd2c31&amp;chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=2&amp;sn=bf3970e5fa48f6051b8ade9ddbdd2c31&amp;chksm=eb078560dc700c7656ef5795fff0d9b6a79c490648917c5adf2a268b3e51b67053b8369d0ddd#rd"/>
         <updated>2024-03-20T16:00:00.000Z</updated>
         <published>2024-03-20T16:00:00.000Z</published>
     </entry>
@@ -274,16 +281,16 @@
         <published>2024-03-06T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js vs Remix - 开发者的困境]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=2&amp;sn=48f60c547d7c60839de13a62a878c579&amp;chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=2&amp;sn=48f60c547d7c60839de13a62a878c579&amp;chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd"/>
+        <title type="html"><![CDATA[最近面试，Vue3是重点！]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd"/>
         <updated>2024-03-05T16:00:00.000Z</updated>
         <published>2024-03-05T16:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[最近面试，Vue3是重点！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd"/>
+        <title type="html"><![CDATA[Next.js vs Remix - 开发者的困境]]></title>
+        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=2&amp;sn=48f60c547d7c60839de13a62a878c579&amp;chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd</id>
+        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=2&amp;sn=48f60c547d7c60839de13a62a878c579&amp;chksm=eb078414dc700d02d4c34683532ac764819861433cbf89611e72689edc8bd166ea7f3163b3f4#rd"/>
         <updated>2024-03-05T16:00:00.000Z</updated>
         <published>2024-03-05T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一个Promise全新API，真好用！]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515119&amp;idx=2&amp;sn=6c99a8c9d4fba4291afa6c313745ca36&amp;chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515119&amp;idx=2&amp;sn=6c99a8c9d4fba4291afa6c313745ca36&amp;chksm=eb078396dc700a80b7698c1f506d4ad73fa7e3ba303ef1a24b9f6d8991abced485fccf6f3b81#rd"/>
-        <updated>2024-02-19T16:00:00.000Z</updated>
-        <published>2024-02-19T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To npm, or not to (include) npm?]]></title>
-        <id>https://nodeweekly.com/issues/521</id>
-        <link href="https://nodeweekly.com/issues/521"/>
         <updated>2024-02-19T16:00:00.000Z</updated>
         <published>2024-02-19T16:00:00.000Z</published>
     </entry>
