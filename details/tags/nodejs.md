@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-04-30 15:00:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-30 21:02:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-04-30-Node.js-22-has-entered-the-building](https://nodeweekly.com/issues/530) 
 - [2024-04-23-node---run-send_newsletter](https://nodeweekly.com/issues/529) 
 - [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528) 
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-04-30T07:00:53.670Z</updated>
+    <updated>2024-04-30T13:02:35.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[一个Level 0富文本编辑器的进化历程]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd"/>
+        <updated>2024-04-29T16:00:00.000Z</updated>
+        <published>2024-04-29T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 22 has entered the building]]></title>
+        <id>https://nodeweekly.com/issues/530</id>
+        <link href="https://nodeweekly.com/issues/530"/>
         <updated>2024-04-29T16:00:00.000Z</updated>
         <published>2024-04-29T16:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JavaScript中闭包的概念与其造成的性能问题]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515207&amp;idx=2&amp;sn=05aa81f39380dc4a7ef3a952e8d38a3c&amp;chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515207&amp;idx=2&amp;sn=05aa81f39380dc4a7ef3a952e8d38a3c&amp;chksm=eb07843edc700d286ecc1e4104d897885863989a5f78b49f8ef89decc749e881ddd295f15c17#rd"/>
-        <updated>2024-02-28T16:00:00.000Z</updated>
-        <published>2024-02-28T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres in TypeScript]]></title>
-        <id>https://javascriptweekly.com/issues/677</id>
-        <link href="https://javascriptweekly.com/issues/677"/>
         <updated>2024-02-28T16:00:00.000Z</updated>
         <published>2024-02-28T16:00:00.000Z</published>
     </entry>
