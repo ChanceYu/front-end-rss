@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-04-29 12:00:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-04-30 15:00:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -415,14 +415,16 @@
 </summary>
 
 
-- [2024-04-28-Module-Federation-2.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515711&idx=1&sn=42c32859ecaf3e991aa9a5dd5fdbdccb&chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd) ![](/assets/new.png)  
+- [2024-04-30-一个Level-0富文本编辑器的进化历程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515726&idx=1&sn=8ed649ee69dc38031fbb4ca274384fcf&chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd) ![](/assets/new.png)  
+- [2024-04-29-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515724&idx=1&sn=0c92a291e9ea46091cf1ff8b3a137084&chksm=eb078635dc700f23cb82536365d202a4b8cc266366e2d7dddee796d3c308408c8b074e2f3130#rd) ![](/assets/new.png)  
+- [2024-04-28-Module-Federation-2.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515711&idx=1&sn=42c32859ecaf3e991aa9a5dd5fdbdccb&chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd)  
 - [2024-04-26-写了五年的后台管理，每次面试前就会头疼……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515709&idx=1&sn=2f92886149f3f940a2effecf66407bcc&chksm=eb078644dc700f52d4f307d905ea1e48c69ec57363c421419f0623b9e9d5360187a1cdab2135#rd)  
 - [2024-04-25-从-0-到-1-实现一个前端全链路定位方案！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515704&idx=1&sn=0616ac3e6335f319a2aeb03e2e495518&chksm=eb078641dc700f5701e86d4e1fe3f54371ff33d96834d0c36c12559e7f588b1598f713050d1d#rd)  
 - [2024-04-24-解锁前端难题：亲手实现一个图片标注工具](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515695&idx=1&sn=28f9af84eb81880cb7bf1817a1f0a307&chksm=eb078656dc700f408dc4319275cd3fc37132c314a8e6b276f0c0217702bf83366f3d07b30aab#rd)  
-- [2024-04-23-铜三铁四，怒拿-35K-*-15-薪！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=1&sn=af514e9958ffdd7218c19aa26bf05909&chksm=eb078653dc700f457520b3712bef71b21ee7c0567dd3659a258a7b2eb5efaa303b9f4e4ed76e#rd)  
 - [2024-04-23-更轻巧的状态管理工具——Hookstate](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=2&sn=ba2cfa783bba0d0aeeec603d9eedb3bd&chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd)  
-- [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd)  
+- [2024-04-23-铜三铁四，怒拿-35K-*-15-薪！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=1&sn=af514e9958ffdd7218c19aa26bf05909&chksm=eb078653dc700f457520b3712bef71b21ee7c0567dd3659a258a7b2eb5efaa303b9f4e4ed76e#rd)  
 - [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd)  
+- [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd)  
 - [2024-04-21-半年亏120万，只因为她，我从“天台”上走了下来](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515672&idx=1&sn=fa2597f62ba9a22f60aacb86aeb10135&chksm=eb078661dc700f7761bb63ebfed2e46f87b303d72a8cbbc6c95f5c766e6a61cae25bbb9fe7dc#rd)  
 - [2024-04-18-Vue3-超前版发布三个新特性！有望全面拥抱-JSX/TSX！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515653&idx=1&sn=02f726732521950ae0ce6301f3a68a2d&chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd)  
 - [2024-04-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515650&idx=1&sn=f5f7728d8ba260557209df6f1b260d9d&chksm=eb07867bdc700f6de0cb4876a3dad6510b9ef1bfad7c0ed3d040be6b1bb35a418442230e9d35#rd)  
@@ -433,8 +435,6 @@
 - [2024-04-12-预测一波，这份Web面试题库即将爆火…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515601&idx=1&sn=3cc72959610774cab999039f5866eb68&chksm=eb0785a8dc700cbede9d868f950987e1cf6d60d115961b0563c5e4f378f6e89cd51a96ea35e9#rd)  
 - [2024-04-11-通过-debug-搞清楚-.vue-文件怎么变成-.js-文件](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515588&idx=1&sn=c812b2d84675e16cf965cf45ae7f1dee&chksm=eb0785bddc700cab5120d57591e83663adc81c51719c9e20398ab28d0e2ee3f2e7107f03c0c2#rd)  
 - [2024-04-09-字节三年，谈谈一线团队如何搞工程化](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515582&idx=1&sn=63cf1f6a02782e16b87c5a8e85194e1e&chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd)  
-- [2024-04-08-准备跳到字节了，来和大家聊一下前端的行情](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515554&idx=1&sn=40e8c4a8efce533db117e9d2042e106d&chksm=eb0785dbdc700ccdf3e24e5d1aafc1c2cbcb92e3d96c2689c34a62d5d8aa667ffa567925ae40#rd)  
-- [2024-04-07-写给5年前端妹子的三万字脚手架教程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515539&idx=1&sn=7c3af677b299fab508c24a1f378a2926&chksm=eb0785eadc700cfce7b0886fb665fb30cfa3e7c882d8e077ac59c166de20c2ae5af984cf5b9a#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
