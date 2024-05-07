@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-06T07:01:16.969Z</updated>
+    <updated>2024-05-07T15:01:59.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 22.1, now with even more performance]]></title>
+        <id>https://nodeweekly.com/issues/531</id>
+        <link href="https://nodeweekly.com/issues/531"/>
+        <updated>2024-05-06T16:00:00.000Z</updated>
+        <published>2024-05-06T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入浅出 Vite5 中依赖预构建]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515732&amp;idx=1&amp;sn=70fb828954c28fedbf722299b1a02687&amp;chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515217&amp;idx=1&amp;sn=bc82208c33fc31ff7041e082c4d720cc&amp;chksm=eb078428dc700d3e423bcb8d111f0485f3751c56adfc972d761b3888eab232eb09a80b93c5ed#rd"/>
         <updated>2024-03-01T16:00:00.000Z</updated>
         <published>2024-03-01T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不改变音调情况下Audio音频的倍速合成JS实现]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/02/js-audioencoder-backplayrate-audiobuffer/"/>
-        <updated>2024-02-28T16:00:00.000Z</updated>
-        <published>2024-02-28T16:00:00.000Z</published>
     </entry>
 </feed>
