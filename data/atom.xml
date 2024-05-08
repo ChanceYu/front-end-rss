@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-08T07:01:58.515Z</updated>
+    <updated>2024-05-08T10:01:43.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[自集成式 HTTP 代理方案]]></title>
+        <id>https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/</id>
+        <link href="https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/"/>
+        <updated>2024-05-07T16:00:00.000Z</updated>
+        <published>2024-05-07T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3，可以慢慢抛弃虚拟 DOM 了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515738&amp;idx=1&amp;sn=888c75d1b8a546c425bb5d07d921b27e&amp;chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/523"/>
         <updated>2024-03-04T16:00:00.000Z</updated>
         <published>2024-03-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试着用 Rspack 迁移 Webpack 项目，该不该冲！？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515223&amp;idx=1&amp;sn=245aec2e357f9b5c66e658aafa5d2d8d&amp;chksm=eb07842edc700d38fc060ed7e5c8a5b693984ffb8d549ff6331ab1a6b807baf4b60ad39bc86a#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515223&amp;idx=1&amp;sn=245aec2e357f9b5c66e658aafa5d2d8d&amp;chksm=eb07842edc700d38fc060ed7e5c8a5b693984ffb8d549ff6331ab1a6b807baf4b60ad39bc86a#rd"/>
-        <updated>2024-03-03T16:00:00.000Z</updated>
-        <published>2024-03-03T16:00:00.000Z</published>
     </entry>
 </feed>
