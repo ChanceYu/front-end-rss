@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-08T10:01:43.637Z</updated>
+    <updated>2024-05-09T22:00:54.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Gulp is back - did it ever leave?]]></title>
+        <id>https://javascriptweekly.com/issues/687</id>
+        <link href="https://javascriptweekly.com/issues/687"/>
+        <updated>2024-05-08T16:00:00.000Z</updated>
+        <published>2024-05-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自集成式 HTTP 代理方案]]></title>
         <id>https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515245&amp;idx=1&amp;sn=ed99e0ceeb7257b9d5d119bb257ee646&amp;chksm=eb078414dc700d0218210090ed223eb36e21ade6ec6356db5df5498e0798fd4bad062de2b743#rd"/>
         <updated>2024-03-05T16:00:00.000Z</updated>
         <published>2024-03-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new (small) Express.js release appears]]></title>
-        <id>https://nodeweekly.com/issues/523</id>
-        <link href="https://nodeweekly.com/issues/523"/>
-        <updated>2024-03-04T16:00:00.000Z</updated>
-        <published>2024-03-04T16:00:00.000Z</published>
     </entry>
 </feed>

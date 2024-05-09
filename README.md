@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-08 18:01:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-10 06:00:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -33,7 +33,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-05-09-Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687) ![](/assets/new.png)  
 - [2024-05-02-Svelte-5-is-almost-here](https://javascriptweekly.com/issues/686)  
 - [2024-04-25-JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685)  
 - [2024-04-18-Visualizing-algorithms](https://javascriptweekly.com/issues/684)  
@@ -93,7 +94,6 @@
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
 - [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [2023-12-21-Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)  
-- [2023-12-14-JS-Runtime-Royale](https://javascriptweekly.com/issues/667)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -632,7 +632,7 @@
 </summary>
 
 
-- [2024-05-08-自集成式-HTTP-代理方案](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/) ![](/assets/new.png)  
+- [2024-05-08-自集成式-HTTP-代理方案](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/)  
 - [2024-03-14-Web-文件系统（OPFS-及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/)  
 - [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/)  
 - [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)  

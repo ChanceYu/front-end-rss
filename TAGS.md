@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-08 18:01:42。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-10 06:00:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -158,6 +158,7 @@
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687)
 - [【JavaScript-Weekly】Vite-4.0-released](https://javascriptweekly.com/issues/618)
 - [【JavaScript-Weekly】Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613)
 - [【JavaScript-Weekly】Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598)
@@ -165,7 +166,6 @@
 - [【前端早读课】【第3189期】信使-Web-builder：拖拽组件构建响应式页面的前端开源框架](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269104&idx=1&sn=a4db3b0276603c70b5ce9ea50828dcdd&chksm=bd48fe748a3f7762733d53a877d9da55e4612aef1ab23aa4f50fb5cd4ad55eabd5a6bd68d8b1#rd)
 - [【前端早读课】【第3147期】前端Monorepo大仓权限设计的思考与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=1&sn=35b3e1e8294feb8ee807bf21d48d7666&chksm=bd48fa7a8a3f736c50493bbfb2bf73fcd583ae9ab5a4ea5c2ade46eb739b7d097db4bae1acb2#rd)
 - [【前端早读课】【第3135期】构建现代Web应用：5个基本的前端架构原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267854&idx=1&sn=873d30d13d34ab1c617c805ffa4a694c&chksm=bd48fa8a8a3f739c93330c0d9c35ad0f323c279517658836533431e6255c643f5324c05afbe0#rd)
-- [【前端早读课】【第3122期】Rust-在前端：构建高性能前端打包工具](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267659&idx=1&sn=e10ab51059b62850cafd2425d6487f05&chksm=bd48fbcf8a3f72d98815759f0304925850100c29e72a045133ba6db87efa68662672d7ae89ec#rd)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
