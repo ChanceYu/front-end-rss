@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-10 10:01:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-11 06:01:01，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,11 +26,11 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -415,6 +415,9 @@
 </summary>
 
 
+- [2024-05-10-云音乐桌面端-3.0-改版前端性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515774&idx=1&sn=4eb6d7ca8a1e7e7c9b5c936f94700547&chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd) ![](/assets/new.png)  
+- [2024-05-09-45k，进阿里了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515770&idx=1&sn=0d7bb7ce9aadd6451306a2f2240ee2eb&chksm=eb078603dc700f1501cda01f8d279a1ce4e5f7ba0a1f4095732dcf1904a897859f66292629e5#rd) ![](/assets/new.png)  
+- [2024-05-08-React-19-出手解决了异步请求的竞态问题，是好事还是坏事？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515740&idx=1&sn=e3ed39575d3d7826cebd4bbed6f734e0&chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd) ![](/assets/new.png)  
 - [2024-05-07-Vue3，可以慢慢抛弃虚拟-DOM-了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515738&idx=1&sn=888c75d1b8a546c425bb5d07d921b27e&chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd)  
 - [2024-05-06-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515732&idx=1&sn=70fb828954c28fedbf722299b1a02687&chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd)  
 - [2024-04-30-一个Level-0富文本编辑器的进化历程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515726&idx=1&sn=8ed649ee69dc38031fbb4ca274384fcf&chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd)  
@@ -423,18 +426,15 @@
 - [2024-04-26-写了五年的后台管理，每次面试前就会头疼……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515709&idx=1&sn=2f92886149f3f940a2effecf66407bcc&chksm=eb078644dc700f52d4f307d905ea1e48c69ec57363c421419f0623b9e9d5360187a1cdab2135#rd)  
 - [2024-04-25-从-0-到-1-实现一个前端全链路定位方案！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515704&idx=1&sn=0616ac3e6335f319a2aeb03e2e495518&chksm=eb078641dc700f5701e86d4e1fe3f54371ff33d96834d0c36c12559e7f588b1598f713050d1d#rd)  
 - [2024-04-24-解锁前端难题：亲手实现一个图片标注工具](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515695&idx=1&sn=28f9af84eb81880cb7bf1817a1f0a307&chksm=eb078656dc700f408dc4319275cd3fc37132c314a8e6b276f0c0217702bf83366f3d07b30aab#rd)  
-- [2024-04-23-更轻巧的状态管理工具——Hookstate](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=2&sn=ba2cfa783bba0d0aeeec603d9eedb3bd&chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd)  
 - [2024-04-23-铜三铁四，怒拿-35K-*-15-薪！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=1&sn=af514e9958ffdd7218c19aa26bf05909&chksm=eb078653dc700f457520b3712bef71b21ee7c0567dd3659a258a7b2eb5efaa303b9f4e4ed76e#rd)  
-- [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd)  
+- [2024-04-23-更轻巧的状态管理工具——Hookstate](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=2&sn=ba2cfa783bba0d0aeeec603d9eedb3bd&chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd)  
 - [2024-04-22-三种自定义-hook-的事件封装方式，你会选择哪种？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=2&sn=429bc86b2f7c1b3f4790b01a5ea83c35&chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd)  
+- [2024-04-22-请前端人拿下软考，现在！立刻！马上！！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515674&idx=1&sn=67ef1dceb80b369b61a8faf1788ccf04&chksm=eb078663dc700f75040fa5420153f6eac31bb6ba8364e1a64e156803e3468507d6e03561f4bc#rd)  
 - [2024-04-21-半年亏120万，只因为她，我从“天台”上走了下来](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515672&idx=1&sn=fa2597f62ba9a22f60aacb86aeb10135&chksm=eb078661dc700f7761bb63ebfed2e46f87b303d72a8cbbc6c95f5c766e6a61cae25bbb9fe7dc#rd)  
 - [2024-04-18-Vue3-超前版发布三个新特性！有望全面拥抱-JSX/TSX！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515653&idx=1&sn=02f726732521950ae0ce6301f3a68a2d&chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd)  
 - [2024-04-17-这回，再也不用为前端工作发愁了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515650&idx=1&sn=f5f7728d8ba260557209df6f1b260d9d&chksm=eb07867bdc700f6de0cb4876a3dad6510b9ef1bfad7c0ed3d040be6b1bb35a418442230e9d35#rd)  
 - [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd)  
 - [2024-04-15-前端性能监控，在网易云音乐大前端怎么落地的？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515631&idx=1&sn=14754ff8757921cfe62d686df57a9e09&chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd)  
-- [2024-04-14-最近，前端的薪资爆了。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515628&idx=1&sn=220b8ef0b6de5b9b5482400f13e6194f&chksm=eb078595dc700c83b7d9e508b35cca88a1dcf7bc03a1e2cc0a00a80e1ee594648a3a8c9b5a83#rd)  
-- [2024-04-13-市面老多微前端框架了，它们的隔离实现方案、实战、优缺点？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515627&idx=1&sn=abae36e88e49ccf944025382e9464c37&chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd)  
-- [2024-04-12-预测一波，这份Web面试题库即将爆火…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515601&idx=1&sn=3cc72959610774cab999039f5866eb68&chksm=eb0785a8dc700cbede9d868f950987e1cf6d60d115961b0563c5e4f378f6e89cd51a96ea35e9#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-05-10-科技爱好者周刊（第-299-期）：AI-的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html) ![](/assets/new.png)  
+- [2024-05-10-科技爱好者周刊（第-299-期）：AI-的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)  
 - [2024-04-26-科技爱好者周刊（第-298-期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)  
 - [2024-04-19-科技爱好者周刊（第-297-期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)  
 - [2024-04-12-科技爱好者周刊（第-296-期）：xz-后门的作者-Jia-Tan-是谁？](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-296.html)  
