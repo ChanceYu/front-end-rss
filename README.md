@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-11 06:01:01，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-11 18:00:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,14 +26,14 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -415,9 +415,9 @@
 </summary>
 
 
-- [2024-05-10-云音乐桌面端-3.0-改版前端性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515774&idx=1&sn=4eb6d7ca8a1e7e7c9b5c936f94700547&chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd) ![](/assets/new.png)  
-- [2024-05-09-45k，进阿里了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515770&idx=1&sn=0d7bb7ce9aadd6451306a2f2240ee2eb&chksm=eb078603dc700f1501cda01f8d279a1ce4e5f7ba0a1f4095732dcf1904a897859f66292629e5#rd) ![](/assets/new.png)  
-- [2024-05-08-React-19-出手解决了异步请求的竞态问题，是好事还是坏事？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515740&idx=1&sn=e3ed39575d3d7826cebd4bbed6f734e0&chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd) ![](/assets/new.png)  
+- [2024-05-10-云音乐桌面端-3.0-改版前端性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515774&idx=1&sn=4eb6d7ca8a1e7e7c9b5c936f94700547&chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd)  
+- [2024-05-09-45k，进阿里了！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515770&idx=1&sn=0d7bb7ce9aadd6451306a2f2240ee2eb&chksm=eb078603dc700f1501cda01f8d279a1ce4e5f7ba0a1f4095732dcf1904a897859f66292629e5#rd)  
+- [2024-05-08-React-19-出手解决了异步请求的竞态问题，是好事还是坏事？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515740&idx=1&sn=e3ed39575d3d7826cebd4bbed6f734e0&chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd)  
 - [2024-05-07-Vue3，可以慢慢抛弃虚拟-DOM-了](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515738&idx=1&sn=888c75d1b8a546c425bb5d07d921b27e&chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd)  
 - [2024-05-06-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515732&idx=1&sn=70fb828954c28fedbf722299b1a02687&chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd)  
 - [2024-04-30-一个Level-0富文本编辑器的进化历程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515726&idx=1&sn=8ed649ee69dc38031fbb4ca274384fcf&chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd)  
@@ -632,6 +632,7 @@
 </summary>
 
 
+- [2024-05-11-WebCodecs-编码字符串（codec）介绍](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain/) ![](/assets/new.png)  
 - [2024-05-08-自集成式-HTTP-代理方案](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/)  
 - [2024-03-14-Web-文件系统（OPFS-及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/)  
 - [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/)  
@@ -641,17 +642,16 @@
 - [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/)  
 - [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/)  
 - [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/)  
-- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
 - [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/)  
+- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
 - [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/)  
 - [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/)  
 - [2023-08-05-Web-音视频（四）在浏览器中处理音频](https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/)  
 - [2023-07-31-Web-音视频（三）在浏览器中创建视频](https://hughfenghen.github.io/posts/2023/07/31/webav-3-create-video/)  
-- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/)  
 - [2023-07-29-菩萨蛮](https://hughfenghen.github.io/posts/2023/07/29/%E8%8F%A9%E8%90%A8%E8%9B%AE/)  
+- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/)  
 - [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/)  
 - [2023-07-19-Web-音视频（一）基础知识](https://hughfenghen.github.io/posts/2023/07/19/webav-1-basic/)  
-- [2023-07-16-Web-音视频（零）概览](https://hughfenghen.github.io/posts/2023/07/16/webav-0-overview/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
