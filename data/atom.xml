@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-11T10:00:59.271Z</updated>
+    <updated>2024-05-12T15:10:01.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[不使用font-weight等CSS实现文字变瘦或变胖效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/"/>
+        <updated>2024-05-11T16:00:00.000Z</updated>
+        <published>2024-05-11T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[云音乐桌面端 3.0 改版前端性能优化之旅]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515774&amp;idx=1&amp;sn=4eb6d7ca8a1e7e7c9b5c936f94700547&amp;chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515288&amp;idx=2&amp;sn=cfed6bdf932ec229cc00044d065f4157&amp;chksm=eb0784e1dc700df7bc64f99221338b96fa43e55f4ff1c6d8a70dda9087b9853d7f2c88846b94#rd"/>
         <updated>2024-03-07T16:00:00.000Z</updated>
         <published>2024-03-07T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用Docker来渐进式提升开发及部署体验]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515268&amp;idx=2&amp;sn=f4b6a95b2c86f58e5008a2ad0298515c&amp;chksm=eb0784fddc700debef032bd841c296845b5384751b3729aee83e0427e05b35171c251ebda729#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515268&amp;idx=2&amp;sn=f4b6a95b2c86f58e5008a2ad0298515c&amp;chksm=eb0784fddc700debef032bd841c296845b5384751b3729aee83e0427e05b35171c251ebda729#rd"/>
-        <updated>2024-03-06T16:00:00.000Z</updated>
-        <published>2024-03-06T16:00:00.000Z</published>
     </entry>
 </feed>
