@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-12 23:10:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-15 06:00:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-05-14-Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532) ![](/assets/new.png)  
 - [2024-05-07-Node-22.1,-now-with-even-more-performance](https://nodeweekly.com/issues/531)  
 - [2024-04-30-Node.js-22-has-entered-the-building](https://nodeweekly.com/issues/530)  
 - [2024-04-23-node---run-send_newsletter](https://nodeweekly.com/issues/529)  
@@ -62,7 +63,6 @@
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)  
 - [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)  
 - [2023-12-05-100,000-stars-within-reach-for-Node](https://nodeweekly.com/issues/513)  
-- [2023-11-28-Issue-2-to-the-power-of-9](https://nodeweekly.com/issues/512)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/) ![](/assets/new.png)  
+- [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)  
 - [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/)  
 - [2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/)  
 - [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/)  
