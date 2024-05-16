@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-14T22:00:58.805Z</updated>
+    <updated>2024-05-16T22:07:30.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Remix + React Router == React Router?]]></title>
+        <id>https://javascriptweekly.com/issues/688</id>
+        <link href="https://javascriptweekly.com/issues/688"/>
+        <updated>2024-05-15T16:00:00.000Z</updated>
+        <published>2024-05-15T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Running other processes from Node, but better]]></title>
         <id>https://nodeweekly.com/issues/532</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/524"/>
         <updated>2024-03-11T16:00:00.000Z</updated>
         <published>2024-03-11T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rust 正在全面入侵前端]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515308&amp;idx=2&amp;sn=43463f200c213e3801c45884f603c0ee&amp;chksm=eb0784d5dc700dc34e855a69c32dafde4588a9ddcc59c826750b439f5c18eb0a6c0947527b29#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515308&amp;idx=2&amp;sn=43463f200c213e3801c45884f603c0ee&amp;chksm=eb0784d5dc700dc34e855a69c32dafde4588a9ddcc59c826750b439f5c18eb0a6c0947527b29#rd"/>
-        <updated>2024-03-10T16:00:00.000Z</updated>
-        <published>2024-03-10T16:00:00.000Z</published>
     </entry>
 </feed>
