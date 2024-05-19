@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-17 10:06:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-20 06:11:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,8 +29,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/) ![](/assets/new.png)  
 - [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)  
 - [2024-04-22-node环境中使用fluent-ffmpeg每隔一秒视频截图](https://www.zhangxinxu.com/wordpress/2024/04/node-fluent-ffmpeg-screenshot-every-second/)  
 - [2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/)  
@@ -527,7 +528,6 @@
 - [2023-11-22-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)  
 - [2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)  
 - [2023-11-15-mp4box.js加WebCodecs-解码MP4视频帧并渲染](https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/)  
-- [2023-10-29-聊聊Web网页中资源加载的优先级](https://www.zhangxinxu.com/wordpress/2023/10/img-js-preload-fetch-priority/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-05-17-科技爱好者周刊（第-300-期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html) ![](/assets/new.png)  
+- [2024-05-17-科技爱好者周刊（第-300-期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)  
 - [2024-05-10-科技爱好者周刊（第-299-期）：AI-的关键是语料](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-299.html)  
 - [2024-04-26-科技爱好者周刊（第-298-期）：轮到硬件工程师吃香了](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-298.html)  
 - [2024-04-19-科技爱好者周刊（第-297-期）：饮水鸟玩具](http://www.ruanyifeng.com/blog/2024/04/weekly-issue-297.html)  
