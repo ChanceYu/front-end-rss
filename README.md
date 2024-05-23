@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-22 06:04:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-24 06:05:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533) ![](/assets/new.png)  
+- [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)  
 - [2024-05-14-Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532)  
 - [2024-05-07-Node-22.1,-now-with-even-more-performance](https://nodeweekly.com/issues/531)  
 - [2024-04-30-Node.js-22-has-entered-the-building](https://nodeweekly.com/issues/530)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-05-23-SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689) ![](/assets/new.png)  
 - [2024-05-16-Remix-+-React-Router-==-React-Router?](https://javascriptweekly.com/issues/688)  
 - [2024-05-09-Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687)  
 - [2024-05-02-Svelte-5-is-almost-here](https://javascriptweekly.com/issues/686)  
@@ -93,7 +94,6 @@
 - [2024-01-25-Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)  
 - [2024-01-18-Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)  
 - [2024-01-11-Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)  
-- [2024-01-04-JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

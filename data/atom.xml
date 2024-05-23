@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-21T22:04:48.650Z</updated>
+    <updated>2024-05-23T22:05:37.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[SolidJS is off to a solid start]]></title>
+        <id>https://javascriptweekly.com/issues/689</id>
+        <link href="https://javascriptweekly.com/issues/689"/>
+        <updated>2024-05-22T16:00:00.000Z</updated>
+        <published>2024-05-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Node.js Advocacy Ambassador program?]]></title>
         <id>https://nodeweekly.com/issues/533</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515337&amp;idx=1&amp;sn=8e1e25df74b233d3a13c29495390e3d1&amp;chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd"/>
         <updated>2024-03-13T16:00:00.000Z</updated>
         <published>2024-03-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 并发 API 实战，这几个例子看懂你就明白了]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515310&amp;idx=1&amp;sn=26adb8596ad9a5fc5860cfecc82d12b5&amp;chksm=eb0784d7dc700dc125f0cc3f1f286f35176c49613a1bd038f5c0be8b0f42e4850756df56dad9#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515310&amp;idx=1&amp;sn=26adb8596ad9a5fc5860cfecc82d12b5&amp;chksm=eb0784d7dc700dc125f0cc3f1f286f35176c49613a1bd038f5c0be8b0f42e4850756df56dad9#rd"/>
-        <updated>2024-03-11T16:00:00.000Z</updated>
-        <published>2024-03-11T16:00:00.000Z</published>
     </entry>
 </feed>
