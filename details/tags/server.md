@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-24 10:05:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-05-29 10:13:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -117,6 +117,7 @@
 - [2023-06-20-前端，这些运维命令你需要懂](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511884&idx=2&sn=2d578e7d471ee0678d172cbfc42e9f84&chksm=eb079735dc701e23fb14715313cb09719960c29f12fb7714a122756f9b9767d04a28f1f55863#rd) 
 - [2023-05-05-Vercel-推出前端直连数据库，回归-or-进步！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511468&idx=1&sn=3b735276f3b4ce6e4c584a2e5ac9f7f2&chksm=eb0795d5dc701cc31f69e00e2dbc4468620bba049dee8db92ed450cdbce6f317094e17c7fcc3#rd) 
 - [2023-08-27-狠狠地研究了下-PerformanceObserver-API](https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/) 
+- [2024-05-29-分布式数据库入门：以国产数据库-TDSQL-为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html) 
 - [2022-01-28-命令行常用工具的替代品](http://www.ruanyifeng.com/blog/2022/01/cli-alternative-tools.html) 
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) 

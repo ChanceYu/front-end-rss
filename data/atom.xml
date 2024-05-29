@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-24T02:05:09.714Z</updated>
+    <updated>2024-05-29T02:13:01.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[分布式数据库入门：以国产数据库 TDSQL 为例]]></title>
+        <id>http://www.ruanyifeng.com/blog/2024/05/tdsql.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2024/05/tdsql.html"/>
+        <updated>2024-05-28T16:00:00.000Z</updated>
+        <published>2024-05-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SolidJS is off to a solid start]]></title>
         <id>https://javascriptweekly.com/issues/689</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515340&amp;idx=1&amp;sn=dcce428d7ed8ed2385ce66b0b623d646&amp;chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd"/>
         <updated>2024-03-14T16:00:00.000Z</updated>
         <published>2024-03-14T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么 Vue 的 defineProps 宏函数不需要 import 导入就可用？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515337&amp;idx=1&amp;sn=8e1e25df74b233d3a13c29495390e3d1&amp;chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515337&amp;idx=1&amp;sn=8e1e25df74b233d3a13c29495390e3d1&amp;chksm=eb0784b0dc700da65860873391ad32ac6fe08e735cc9df15b3dfdc6e43cd0606b7b028f7e556#rd"/>
-        <updated>2024-03-13T16:00:00.000Z</updated>
-        <published>2024-03-13T16:00:00.000Z</published>
     </entry>
 </feed>
