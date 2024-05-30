@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-05-30 23:13:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-05-31 06:06:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)
 - [【JavaScript-Weekly】SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689)
 - [【JavaScript-Weekly】JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685)
 - [【JavaScript-Weekly】A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Big-news-for-both-Next.js-and-Remix](https://javascriptweekly.com/issues/661)
 - [【JavaScript-Weekly】Web-Components-forever?](https://javascriptweekly.com/issues/660)
 - [【JavaScript-Weekly】Ways-to-serve-up-less-JavaScript](https://javascriptweekly.com/issues/659)
-- [【JavaScript-Weekly】Fluid-simulation-in-JavaScript](https://javascriptweekly.com/issues/658)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
