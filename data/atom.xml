@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-05-29T02:13:01.570Z</updated>
+    <updated>2024-05-30T15:13:45.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[记一次技术交流， feMerge滤镜复制任意HTML投影]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/"/>
+        <updated>2024-05-29T16:00:00.000Z</updated>
+        <published>2024-05-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分布式数据库入门：以国产数据库 TDSQL 为例]]></title>
         <id>http://www.ruanyifeng.com/blog/2024/05/tdsql.html</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/525"/>
         <updated>2024-03-18T16:00:00.000Z</updated>
         <published>2024-03-18T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[unocss 究竟比 tailwindcss 快多少？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515340&amp;idx=1&amp;sn=dcce428d7ed8ed2385ce66b0b623d646&amp;chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515340&amp;idx=1&amp;sn=dcce428d7ed8ed2385ce66b0b623d646&amp;chksm=eb0784b5dc700da33f0ada5b412438b5cd1ad49989f52c8aa68318a049eab0c6011ebdbe5521#rd"/>
-        <updated>2024-03-14T16:00:00.000Z</updated>
-        <published>2024-03-14T16:00:00.000Z</published>
     </entry>
 </feed>
