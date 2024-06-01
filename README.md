@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-05-31 10:06:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-01 23:04:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,8 +30,8 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)![](/assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-05-31-科技爱好者周刊（第-302-期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html) ![](/assets/new.png)  
+- [2024-05-31-科技爱好者周刊（第-302-期）：创业虽然好，不敢推荐了](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-302.html)  
 - [2024-05-29-分布式数据库入门：以国产数据库-TDSQL-为例](http://www.ruanyifeng.com/blog/2024/05/tdsql.html)  
 - [2024-05-24-科技爱好者周刊（第-301-期）：OpenAI-的图书馆工位](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-301.html)  
 - [2024-05-17-科技爱好者周刊（第-300-期）：三十年，解决人生三大问题](http://www.ruanyifeng.com/blog/2024/05/weekly-issue-300.html)  
@@ -570,6 +570,7 @@
 </summary>
 
 
+- [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html) ![](/assets/new.png)  
 - [2024-05-04-【收藏】最全的100款处理图片的-AI-工具合集](http://www.yyyweb.com/5599.html)  
 - [2024-03-17-Kimi-帮你看更大的世界！国产大模型测评](http://www.yyyweb.com/5587.html)  
 - [2024-03-01-【推荐收藏】5款很好用的免费PDF分割工具！](http://www.yyyweb.com/5595.html)  
@@ -577,19 +578,18 @@
 - [2024-02-15-HarmonyOS开发案例-界面组件在软键盘弹出时避免遮挡](http://www.yyyweb.com/5581.html)  
 - [2024-01-15-Node.js-版本和-NPM-版本的对应关系](http://www.yyyweb.com/5583.html)  
 - [2024-01-12-如何搭建-GPTs-创新应用？有哪些关键技巧？](http://www.yyyweb.com/5574.html)  
-- [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html)  
-- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html)  
 - [2023-12-30-Vue-3.4-正式发布！更快、更强、更好用！](http://www.yyyweb.com/5572.html)  
-- [2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html)  
+- [2023-12-30-2024展望：构建更快更高效的-Web-体验](http://www.yyyweb.com/5569.html)  
+- [2023-12-30-Ant-Design-Web3-发布-，聊聊我们的设计理念~](http://www.yyyweb.com/5568.html)  
 - [2023-12-09-用-JavaScript-实现一个很牛的扫码功能](http://www.yyyweb.com/5559.html)  
+- [2023-12-09-49-个常用且容易遗忘的-CSS-样式清单整理](http://www.yyyweb.com/5562.html)  
 - [2023-11-17-性能大幅提升！Vite-5.0-正式发布！](http://www.yyyweb.com/5554.html)  
-- [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html)  
 - [2023-11-04-ssh-rsa-问题：No-matching-host-key-type-found.](http://www.yyyweb.com/5548.html)  
+- [2023-11-04-【分享收藏】2023年十大接口测试工具](http://www.yyyweb.com/5551.html)  
 - [2023-10-15-抓包神器-Charles-的安装、配置及使用](http://www.yyyweb.com/5546.html)  
 - [2023-10-06-8个实现网站滚动效果的-CSS-&amp;-JavaScript-代码](http://www.yyyweb.com/5540.html)  
 - [2023-10-03-通过案例，彻底理解-Vue-中的-sync-修饰符](http://www.yyyweb.com/5543.html)  
 - [2023-09-12-Bun-1.0-正式发布，快如闪电，遥遥领先！](http://www.yyyweb.com/5537.html)  
-- [2023-09-03-环境变量过多导致-Node.js-容器无法启动的问题](http://www.yyyweb.com/5535.html)  
 - [......【查看更多】......](/details/前端里.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

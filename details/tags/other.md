@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-05-31 10:06:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-01 23:04:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3679,6 +3679,7 @@
 - [2018-10-05-每周分享第-25-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html) 
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
+- [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html) 
 - [2024-05-04-【收藏】最全的100款处理图片的-AI-工具合集](http://www.yyyweb.com/5599.html) 
 - [2024-03-17-Kimi-帮你看更大的世界！国产大模型测评](http://www.yyyweb.com/5587.html) 
 - [2024-03-01-【推荐收藏】5款很好用的免费PDF分割工具！](http://www.yyyweb.com/5595.html) 
