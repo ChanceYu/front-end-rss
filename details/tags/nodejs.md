@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-01 23:04:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-04 23:08:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534) 
 - [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533) 
 - [2024-05-14-Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532) 
 - [2024-05-07-Node-22.1,-now-with-even-more-performance](https://nodeweekly.com/issues/531) 

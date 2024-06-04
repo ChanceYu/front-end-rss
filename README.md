@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-06-01 23:04:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-04 23:08:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534) ![](/assets/new.png)  
 - [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)  
 - [2024-05-14-Running-other-processes-from-Node,-but-better](https://nodeweekly.com/issues/532)  
 - [2024-05-07-Node-22.1,-now-with-even-more-performance](https://nodeweekly.com/issues/531)  
@@ -62,7 +63,6 @@
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517)  
 - [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)  
 - [2023-12-19-The-ten-top-Node-Weekly-links-of-2023](https://nodeweekly.com/issues/515)  
-- [2023-12-12-V8's-garbage-collection-and-three-JIT-compilers](https://nodeweekly.com/issues/514)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -570,7 +570,7 @@
 </summary>
 
 
-- [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html) ![](/assets/new.png)  
+- [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html)  
 - [2024-05-04-【收藏】最全的100款处理图片的-AI-工具合集](http://www.yyyweb.com/5599.html)  
 - [2024-03-17-Kimi-帮你看更大的世界！国产大模型测评](http://www.yyyweb.com/5587.html)  
 - [2024-03-01-【推荐收藏】5款很好用的免费PDF分割工具！](http://www.yyyweb.com/5595.html)  
