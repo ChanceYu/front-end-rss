@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-06-07T02:07:11.339Z</updated>
+    <updated>2024-06-10T10:08:11.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[利用 AnythingLLM 构建自己的私人 ChatGPT]]></title>
+        <id>http://www.yyyweb.com/5609.html</id>
+        <link href="http://www.yyyweb.com/5609.html"/>
+        <updated>2024-06-09T16:00:00.000Z</updated>
+        <published>2024-06-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The newest Node.js runtime features]]></title>
         <id>https://nodeweekly.com/issues/534</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS initial-letter属性，嗯……也就这样吧]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/"/>
-        <updated>2024-03-20T16:00:00.000Z</updated>
-        <published>2024-03-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js有多强？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=1&amp;sn=add4c641ecf105d0d3892ecc7365e385&amp;chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515417&amp;idx=1&amp;sn=add4c641ecf105d0d3892ecc7365e385&amp;chksm=eb078560dc700c766e51d466a5823d518be360c7516d0a10309b748eaa45db26cc29f7d66af2#rd"/>
         <updated>2024-03-20T16:00:00.000Z</updated>
         <published>2024-03-20T16:00:00.000Z</published>
     </entry>
