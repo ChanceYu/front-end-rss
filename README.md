@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-06-10 18:08:09，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-11 06:06:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,9 +29,9 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) ![](/assets/new.png)  
 - [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)  
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)  
 - [2024-05-12-不使用font-weight等CSS实现文字变瘦或变胖效果](https://www.zhangxinxu.com/wordpress/2024/05/svg-femorphology-font-weight-thin-stretch/)  
@@ -527,7 +528,6 @@
 - [2023-12-24-使用JS提取视频中的音频资源](https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/)  
 - [2023-11-29-本地MP3封面图、时长等信息的JS读取](https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/)  
 - [2023-11-22-cube格式的LUT滤镜也叫ColorMapFilter在pixi中应用](https://www.zhangxinxu.com/wordpress/2023/11/cube-lut-colormapfilter-pixijs/)  
-- [2023-11-19-剪映APP的视频特效如何在Web中JS实现](https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -570,8 +570,8 @@
 </summary>
 
 
-- [2024-06-10-在自己电脑上，只需3步即可本地部署AI大模型](http://www.yyyweb.com/5604.html) ![](/assets/new.png)  
-- [2024-06-10-利用-AnythingLLM-构建自己的私人-ChatGPT](http://www.yyyweb.com/5609.html) ![](/assets/new.png)  
+- [2024-06-10-在自己电脑上，只需3步即可本地部署AI大模型](http://www.yyyweb.com/5604.html)  
+- [2024-06-10-利用-AnythingLLM-构建自己的私人-ChatGPT](http://www.yyyweb.com/5609.html)  
 - [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html)  
 - [2024-05-04-【收藏】最全的100款处理图片的-AI-工具合集](http://www.yyyweb.com/5599.html)  
 - [2024-03-17-Kimi-帮你看更大的世界！国产大模型测评](http://www.yyyweb.com/5587.html)  
