@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-06-12 06:09:17。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-06-14 06:03:50。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -113,6 +113,7 @@
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)
 - [【JavaScript-Weekly】Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)
 - [【JavaScript-Weekly】Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)
 - [【JavaScript-Weekly】TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)
@@ -129,7 +130,6 @@
 - [【前端早读课】【第3000期】TypeScript-的演进之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264004&idx=1&sn=2fad27fc70848c861570cfd2fe10823b&chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd)
 - [【前端早读课】【第2942期】ts-migrate：快速将JavaScript迁移到TypeScript！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262585&idx=1&sn=7dff14f620a9c4807f29f8eb88ae232c&chksm=bd48d7fd8a3f5eebf0f093ddbf4c5e014d77e1837b1341d2e9fd6f697b807e15e768f9ab7a2c#rd)
 - [【前端早读课】【第2761期】TypeScript-这十年](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258504&idx=1&sn=3c786819819c5d8cab84c25b77b7f839&chksm=bd49270c8a3eae1aff357af3e1bad3a09ec2744d9eef370ad790d6c82c4dd6613d085ceaa653#rd)
-- [【前端早读课】【第2698期】浅谈-TypeScript-类型系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257150&idx=1&sn=0ccc089da5435ef91cff262b051f8b66&chksm=bd4920ba8a3ea9ac4a0a484281f61d25ca618a70e5ecb4f929f53cb94f73d34a6451e3f74355#rd)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

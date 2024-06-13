@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-06-07 06:05:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-14 06:03:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692) 
 - [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691) 
 - [2024-05-30-A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690) 
 - [2024-05-23-SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689) 
