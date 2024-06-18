@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-06-12 06:09:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-18 23:06:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536) 
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535) 
 - [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534) 
 - [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533) 
