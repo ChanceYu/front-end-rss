@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-06-18 23:06:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-21 06:07:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536) ![](/assets/new.png)  
+- [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)  
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535)  
 - [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)  
 - [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693) ![](/assets/new.png)  
 - [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)  
 - [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691)  
 - [2024-05-30-A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)  
@@ -93,7 +94,6 @@
 - [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)  
 - [2024-02-15-TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)  
 - [2024-02-08-Gorillas](https://javascriptweekly.com/issues/674)  
-- [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
