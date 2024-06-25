@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-06-21 10:03:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-25 23:09:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537) 
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536) 
 - [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534) 
 - [2024-05-21-The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533) 

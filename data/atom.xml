@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-06-21T02:03:57.778Z</updated>
+    <updated>2024-06-25T15:09:54.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Should Node make ES modules easier to use?]]></title>
+        <id>https://nodeweekly.com/issues/537</id>
+        <link href="https://nodeweekly.com/issues/537"/>
+        <updated>2024-06-24T16:00:00.000Z</updated>
+        <published>2024-06-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A snapshot of what's new in Node]]></title>
         <id>https://nodeweekly.com/issues/536</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[关于 JSON.stringify，你不知道的六件事]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515438&amp;idx=2&amp;sn=eaeae0830902d85848388a51f90c7e9e&amp;chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515438&amp;idx=2&amp;sn=eaeae0830902d85848388a51f90c7e9e&amp;chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd"/>
-        <updated>2024-03-25T16:00:00.000Z</updated>
-        <published>2024-03-25T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node gets a redesign (and a documentary)]]></title>
-        <id>https://nodeweekly.com/issues/526</id>
-        <link href="https://nodeweekly.com/issues/526"/>
         <updated>2024-03-25T16:00:00.000Z</updated>
         <published>2024-03-25T16:00:00.000Z</published>
     </entry>
