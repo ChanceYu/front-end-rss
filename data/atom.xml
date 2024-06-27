@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-06-25T15:09:54.278Z</updated>
+    <updated>2024-06-27T22:03:52.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[告别JS浮层，全新的CSS Anchor Positioning锚点定位API]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/"/>
+        <updated>2024-06-26T16:00:00.000Z</updated>
+        <published>2024-06-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Say hi to ECMAScript 2024]]></title>
+        <id>https://javascriptweekly.com/issues/694</id>
+        <link href="https://javascriptweekly.com/issues/694"/>
+        <updated>2024-06-26T16:00:00.000Z</updated>
+        <published>2024-06-26T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Should Node make ES modules easier to use?]]></title>
         <id>https://nodeweekly.com/issues/537</id>
@@ -349,19 +363,5 @@
         <link href="https://javascriptweekly.com/issues/681"/>
         <updated>2024-03-27T16:00:00.000Z</updated>
         <published>2024-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 的宏到底是什么东西？不需要 import 直接用？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515443&amp;idx=1&amp;sn=232f3d2450c98f249d29bd368517ac09&amp;chksm=eb07854adc700c5c97fef1d2cc357db0f3c846965412d2f050e11a8fb44f5f53dd750d13ff7d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515443&amp;idx=1&amp;sn=232f3d2450c98f249d29bd368517ac09&amp;chksm=eb07854adc700c5c97fef1d2cc357db0f3c846965412d2f050e11a8fb44f5f53dd750d13ff7d#rd"/>
-        <updated>2024-03-26T16:00:00.000Z</updated>
-        <published>2024-03-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 JSON.stringify，你不知道的六件事]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515438&amp;idx=2&amp;sn=eaeae0830902d85848388a51f90c7e9e&amp;chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515438&amp;idx=2&amp;sn=eaeae0830902d85848388a51f90c7e9e&amp;chksm=eb078557dc700c41ea69b99dab73388927951adee7d1af29a77e943cf16a1a520a691e1f6754#rd"/>
-        <updated>2024-03-25T16:00:00.000Z</updated>
-        <published>2024-03-25T16:00:00.000Z</published>
     </entry>
 </feed>
