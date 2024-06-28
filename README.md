@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-06-28 06:03:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-06-28 10:05:22，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,8 +29,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694) ![](/assets/new.png)  
+- [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
 - [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693)  
 - [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)  
 - [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691)  
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/) ![](/assets/new.png)  
+- [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/)  
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/)  
 - [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)  
 - [2024-05-20-如何用简单的Web方法实现图片的马赛克效果](https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/)  
@@ -539,6 +539,7 @@
 </summary>
 
 
+- [2024-06-28-科技爱好者周刊（第-306-期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html) ![](/assets/new.png)  
 - [2024-06-21-科技爱好者周刊（第-305-期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)  
 - [2024-06-14-科技爱好者周刊（第-304-期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)  
 - [2024-06-07-科技爱好者周刊（第-303-期）：技术封建主义](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-303.html)  
@@ -558,7 +559,6 @@
 - [2024-03-01-科技爱好者周刊（第-291-期）：AI-没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)  
 - [2024-02-23-科技爱好者周刊（第-290-期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)  
 - [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)  
-- [2024-01-26-科技爱好者周刊（第-288-期）：技术写作的首要诀窍](http://www.ruanyifeng.com/blog/2024/01/weekly-issue-288.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
