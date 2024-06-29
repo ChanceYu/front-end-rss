@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-06-28T02:05:23.509Z</updated>
+    <updated>2024-06-29T22:05:42.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS transition-behavior让display none也有动画效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/"/>
+        <updated>2024-06-29T16:00:00.000Z</updated>
+        <published>2024-06-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告别JS浮层，全新的CSS Anchor Positioning锚点定位API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[手撸一个简易 Grid 拖拽布局]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515462&amp;idx=2&amp;sn=444646eb9b094f640f9031c52a8545e9&amp;chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515462&amp;idx=2&amp;sn=444646eb9b094f640f9031c52a8545e9&amp;chksm=eb07853fdc700c2913f5bc148693e88a53dc6c0a0ae8637d903cf953d2de13fe849b6f4d270f#rd"/>
-        <updated>2024-03-27T16:00:00.000Z</updated>
-        <published>2024-03-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promises visualized]]></title>
-        <id>https://javascriptweekly.com/issues/681</id>
-        <link href="https://javascriptweekly.com/issues/681"/>
         <updated>2024-03-27T16:00:00.000Z</updated>
         <published>2024-03-27T16:00:00.000Z</published>
     </entry>
