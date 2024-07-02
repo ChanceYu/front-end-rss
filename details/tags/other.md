@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-06-30 06:05:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-02 23:04:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538) 
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535) 
 - [2024-02-27-Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522) 
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520) 

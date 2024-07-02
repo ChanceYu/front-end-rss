@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-06-30 06:05:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-02 23:04:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538) ![](/assets/new.png)  
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)  
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)  
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535)  
@@ -62,7 +63,6 @@
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)  
 - [2024-02-06-An-open-SaaS-boilerplate-app](https://nodeweekly.com/issues/520)  
 - [2024-01-30-Adonis-v6](https://nodeweekly.com/issues/519)  
-- [2024-01-23-Neural-network-chess](https://nodeweekly.com/issues/518)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/) ![](/assets/new.png)  
+- [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)  
 - [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/)  
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/)  
 - [2024-05-30-记一次技术交流，-feMerge滤镜复制任意HTML投影](https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/)  
