@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-07-02 23:04:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-03 12:12:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538) ![](/assets/new.png)  
+- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538)  
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)  
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)  
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535)  
@@ -539,6 +539,7 @@
 </summary>
 
 
+- [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html) ![](/assets/new.png)  
 - [2024-06-28-科技爱好者周刊（第-306-期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)  
 - [2024-06-21-科技爱好者周刊（第-305-期）：随机数，这是一个问题](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-305.html)  
 - [2024-06-14-科技爱好者周刊（第-304-期）：最受欢迎的颜色](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-304.html)  
@@ -558,7 +559,6 @@
 - [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)  
 - [2024-03-01-科技爱好者周刊（第-291-期）：AI-没有护城河](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-291.html)  
 - [2024-02-23-科技爱好者周刊（第-290-期）：苹果头盔的最大问题](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-290.html)  
-- [2024-02-02-科技爱好者周刊（第-289-期）：宽容从何而来](http://www.ruanyifeng.com/blog/2024/02/weekly-issue-289.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
