@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-05 10:14:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-09 23:12:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539) 
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537) 
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536) 
 - [2024-06-04-The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534) 

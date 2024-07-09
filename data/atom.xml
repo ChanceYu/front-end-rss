@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-05T02:14:09.534Z</updated>
+    <updated>2024-07-09T15:12:17.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node experiments with adding SQLite]]></title>
+        <id>https://nodeweekly.com/issues/539</id>
+        <link href="https://nodeweekly.com/issues/539"/>
+        <updated>2024-07-08T16:00:00.000Z</updated>
+        <published>2024-07-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用纯CSS鉴别是不是Safari浏览器]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515478&amp;idx=1&amp;sn=8d4412cffa78a2a309d8402461a352c7&amp;chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd"/>
         <updated>2024-03-31T16:00:00.000Z</updated>
         <published>2024-03-31T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Nesting嵌套与@scope规则也太雷同了吧？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/"/>
-        <updated>2024-03-30T16:00:00.000Z</updated>
-        <published>2024-03-30T16:00:00.000Z</published>
     </entry>
 </feed>
