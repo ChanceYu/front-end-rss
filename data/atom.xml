@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-09T15:12:17.005Z</updated>
+    <updated>2024-07-11T15:08:34.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Do the (ESLint) Evolution]]></title>
+        <id>https://javascriptweekly.com/issues/696</id>
+        <link href="https://javascriptweekly.com/issues/696"/>
+        <updated>2024-07-10T16:00:00.000Z</updated>
+        <published>2024-07-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node experiments with adding SQLite]]></title>
         <id>https://nodeweekly.com/issues/539</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515513&amp;idx=1&amp;sn=c13c7d71ad05071ab0d79dd747bb33f6&amp;chksm=eb078500dc700c160fddbd202361650bc61b5132593b37feb28c1c93fbab6cb89cd74671c893#rd"/>
         <updated>2024-04-02T16:00:00.000Z</updated>
         <published>2024-04-02T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤯 [性能优化] 浏览器跨域带来的一些性能问题]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515478&amp;idx=1&amp;sn=8d4412cffa78a2a309d8402461a352c7&amp;chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515478&amp;idx=1&amp;sn=8d4412cffa78a2a309d8402461a352c7&amp;chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd"/>
-        <updated>2024-03-31T16:00:00.000Z</updated>
-        <published>2024-03-31T16:00:00.000Z</published>
     </entry>
 </feed>

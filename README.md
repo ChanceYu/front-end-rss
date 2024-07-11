@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-07-09 23:12:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-11 23:08:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539) ![](/assets/new.png)  
+- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
 - [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538)  
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)  
 - [2024-06-18-A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696) ![](/assets/new.png)  
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
 - [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
 - [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693)  
@@ -93,7 +94,6 @@
 - [2024-03-14-Build-time-macros-for-everyone](https://javascriptweekly.com/issues/679)  
 - [2024-03-07-A-new-challenger-appears](https://javascriptweekly.com/issues/678)  
 - [2024-02-29-Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)  
-- [2024-02-22-A-big-update-for-ECharts](https://javascriptweekly.com/issues/676)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
