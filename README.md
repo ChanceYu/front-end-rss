@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-07-12 10:03:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-15 06:04:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,8 +29,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-07-15-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/) ![](/assets/new.png)  
 - [2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)  
 - [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)  
 - [2024-06-27-告别JS浮层，全新的CSS-Anchor-Positioning锚点定位API](https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/)  
@@ -527,7 +528,6 @@
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
 - [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
-- [2023-12-26-JS实现图片相似度的判断](https://www.zhangxinxu.com/wordpress/2023/12/js-img-image-similarity/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html) ![](/assets/new.png)  
+- [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)  
 - [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)  
 - [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)  
 - [2024-06-28-科技爱好者周刊（第-306-期）：信息就像糖一样上瘾](http://www.ruanyifeng.com/blog/2024/06/weekly-issue-306.html)  
