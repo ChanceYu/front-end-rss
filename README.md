@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-07-17 06:05:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-19 06:07:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540) ![](/assets/new.png)  
+- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
 - [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538)  
 - [2024-06-25-Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697) ![](/assets/new.png)  
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)  
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
 - [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
@@ -93,7 +94,6 @@
 - [2024-03-21-Package-managers,-the-new-todo-app?](https://javascriptweekly.com/issues/680)  
 - [2024-03-14-Build-time-macros-for-everyone](https://javascriptweekly.com/issues/679)  
 - [2024-03-07-A-new-challenger-appears](https://javascriptweekly.com/issues/678)  
-- [2024-02-29-Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/) ![](/assets/new.png)  
 - [2024-07-15-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)  
 - [2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)  
 - [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)  
@@ -527,7 +528,6 @@
 - [2024-01-21-CSS-@scope他来了](https://www.zhangxinxu.com/wordpress/2024/01/css-at-scope/)  
 - [2024-01-15-使用JS快速获取video视频任意位置的缩略图](https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/)  
 - [2024-01-11-时代变了，该使用原生popover属性模拟下拉了](https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/)  
-- [2023-12-28-纯JS实现图像的人脸识别功能](https://www.zhangxinxu.com/wordpress/2023/12/js-image-video-face-detect/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
