@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-07-19 06:07:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-19 10:04:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,8 +29,8 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697) ![](/assets/new.png)  
+- [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)  
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)  
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
 - [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/) ![](/assets/new.png)  
+- [2024-07-18-今日学习CSS文本自定义高亮API](https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/)  
 - [2024-07-15-了解infinity、pi等CSS-calc计算关键字](https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/)  
 - [2024-07-04-如何使用纯CSS鉴别是不是Safari浏览器](https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/)  
 - [2024-06-30-CSS-transition-behavior让display-none也有动画效果](https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/)  
@@ -539,6 +539,7 @@
 </summary>
 
 
+- [2024-07-19-科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html) ![](/assets/new.png)  
 - [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)  
 - [2024-07-05-科技爱好者周刊（第-307-期）：不要看重-Product-Hunt](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-307.html)  
 - [2024-07-03-AI-编程助手测评：GitHub-Copilot-vs-豆包-MarsCode](http://www.ruanyifeng.com/blog/2024/07/copilot-vs-marscode.html)  
@@ -558,7 +559,6 @@
 - [2024-03-26-2024最流行的网站架构----边缘平台架构：概念与产品](http://www.ruanyifeng.com/blog/2024/03/edge-platform.html)  
 - [2024-03-22-科技爱好者周刊（第-294-期）：崖门海战的感想](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-294.html)  
 - [2024-03-15-科技爱好者周刊（第-293-期）：一周是一年的2%](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-293.html)  
-- [2024-03-08-科技爱好者周刊（第-292-期）：所有代码都是技术债](http://www.ruanyifeng.com/blog/2024/03/weekly-issue-292.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
