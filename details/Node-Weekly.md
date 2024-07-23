@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-17 06:05:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-23 23:14:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541) 
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540) 
 - [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539) 
 - [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538) 
