@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-19T02:04:26.410Z</updated>
+    <updated>2024-07-23T10:10:59.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[关于《HTML并不简单》这本书]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/"/>
+        <updated>2024-07-22T16:00:00.000Z</updated>
+        <published>2024-07-22T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今日学习CSS文本自定义高亮API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515588&amp;idx=1&amp;sn=c812b2d84675e16cf965cf45ae7f1dee&amp;chksm=eb0785bddc700cab5120d57591e83663adc81c51719c9e20398ab28d0e2ee3f2e7107f03c0c2#rd"/>
         <updated>2024-04-10T16:00:00.000Z</updated>
         <published>2024-04-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节三年，谈谈一线团队如何搞工程化]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515582&amp;idx=1&amp;sn=63cf1f6a02782e16b87c5a8e85194e1e&amp;chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515582&amp;idx=1&amp;sn=63cf1f6a02782e16b87c5a8e85194e1e&amp;chksm=eb0785c7dc700cd149fd17d794256d7093471fc723ed0de7b43d34be71571952e08309a0de0d#rd"/>
-        <updated>2024-04-08T16:00:00.000Z</updated>
-        <published>2024-04-08T16:00:00.000Z</published>
     </entry>
 </feed>
