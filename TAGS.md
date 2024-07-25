@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-07-23 23:14:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-07-25 23:13:09。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)
 - [【JavaScript-Weekly】Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)
 - [【JavaScript-Weekly】Breaking-a-promise](https://javascriptweekly.com/issues/695)
 - [【JavaScript-Weekly】Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
 - [【JavaScript-Weekly】JS-Runtime-Royale](https://javascriptweekly.com/issues/667)
 - [【JavaScript-Weekly】Learning-JS-framework-concepts-by-building-one](https://javascriptweekly.com/issues/666)
-- [【JavaScript-Weekly】The-unbearable-weight-of-massive-JavaScript](https://javascriptweekly.com/issues/664)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

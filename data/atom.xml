@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-23T15:14:58.942Z</updated>
+    <updated>2024-07-25T15:13:10.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[What's new for us in ECMAScript 2024]]></title>
+        <id>https://javascriptweekly.com/issues/698</id>
+        <link href="https://javascriptweekly.com/issues/698"/>
+        <updated>2024-07-24T16:00:00.000Z</updated>
+        <published>2024-07-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于《HTML并不简单》这本书]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515627&amp;idx=1&amp;sn=abae36e88e49ccf944025382e9464c37&amp;chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd"/>
         <updated>2024-04-12T16:00:00.000Z</updated>
         <published>2024-04-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG滤镜系列之搞懂<feBlend>元素]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/"/>
-        <updated>2024-04-10T16:00:00.000Z</updated>
-        <published>2024-04-10T16:00:00.000Z</published>
     </entry>
 </feed>
