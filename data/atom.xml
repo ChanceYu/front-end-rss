@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-26T02:05:26.751Z</updated>
+    <updated>2024-07-27T10:06:05.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[WebCodecs 的性能表现及优化思路]]></title>
+        <id>https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/</id>
+        <link href="https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/"/>
+        <updated>2024-07-26T16:00:00.000Z</updated>
+        <published>2024-07-26T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What's new for us in ECMAScript 2024]]></title>
         <id>https://javascriptweekly.com/issues/698</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/"/>
         <updated>2024-04-13T16:00:00.000Z</updated>
         <published>2024-04-13T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市面老多微前端框架了，它们的隔离实现方案、实战、优缺点？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515627&amp;idx=1&amp;sn=abae36e88e49ccf944025382e9464c37&amp;chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515627&amp;idx=1&amp;sn=abae36e88e49ccf944025382e9464c37&amp;chksm=eb078592dc700c840578c7a119699ae70a2659f064f16dea3778ea3ab8c7392e2c8b5186113e#rd"/>
-        <updated>2024-04-12T16:00:00.000Z</updated>
-        <published>2024-04-12T16:00:00.000Z</published>
     </entry>
 </feed>
