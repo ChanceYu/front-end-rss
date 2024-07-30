@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-07-28T22:09:48.078Z</updated>
+    <updated>2024-07-30T22:19:17.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node can run TypeScript (sort of)]]></title>
+        <id>https://nodeweekly.com/issues/542</id>
+        <link href="https://nodeweekly.com/issues/542"/>
+        <updated>2024-07-29T16:00:00.000Z</updated>
+        <published>2024-07-29T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[独家，MP3音频淡入淡出播放和转换的JS实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/528"/>
         <updated>2024-04-15T16:00:00.000Z</updated>
         <published>2024-04-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端性能监控，在网易云音乐大前端怎么落地的？]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515631&amp;idx=1&amp;sn=14754ff8757921cfe62d686df57a9e09&amp;chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515631&amp;idx=1&amp;sn=14754ff8757921cfe62d686df57a9e09&amp;chksm=eb078596dc700c80b1f5df6d17213d522e4760903bde53ae95392819c7578331d2180edd8c8b#rd"/>
-        <updated>2024-04-14T16:00:00.000Z</updated>
-        <published>2024-04-14T16:00:00.000Z</published>
     </entry>
 </feed>

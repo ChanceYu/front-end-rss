@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-07-29 06:09:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-07-31 06:19:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524) 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 
 - [2022-02-10-Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424) 
