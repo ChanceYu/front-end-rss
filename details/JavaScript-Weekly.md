@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-07-25 23:13:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-01 23:13:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699) 
 - [2024-07-25-What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698) 
 - [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697) 
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696) 
