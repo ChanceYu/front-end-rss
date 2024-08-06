@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-08-02T02:04:00.780Z</updated>
+    <updated>2024-08-06T13:07:00.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Looking through the Node toolbox]]></title>
+        <id>https://nodeweekly.com/issues/543</id>
+        <link href="https://nodeweekly.com/issues/543"/>
+        <updated>2024-08-05T16:00:00.000Z</updated>
+        <published>2024-08-05T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Googlebot sees your JavaScript]]></title>
         <id>https://javascriptweekly.com/issues/699</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515653&amp;idx=1&amp;sn=02f726732521950ae0ce6301f3a68a2d&amp;chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd"/>
         <updated>2024-04-17T16:00:00.000Z</updated>
         <published>2024-04-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在大公司工作之后才真正领悟到它真的是宇宙级编辑器]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515634&amp;idx=1&amp;sn=a542fec277925a6a926dc4bc2536e759&amp;chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515634&amp;idx=1&amp;sn=a542fec277925a6a926dc4bc2536e759&amp;chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd"/>
-        <updated>2024-04-15T16:00:00.000Z</updated>
-        <published>2024-04-15T16:00:00.000Z</published>
     </entry>
 </feed>
