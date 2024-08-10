@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-08-09T02:04:52.366Z</updated>
+    <updated>2024-08-10T15:11:52.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[页面级可视动画View Transitions API初体验]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/"/>
+        <updated>2024-08-09T16:00:00.000Z</updated>
+        <published>2024-08-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking through the Node toolbox]]></title>
         <id>https://nodeweekly.com/issues/543</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515674&amp;idx=2&amp;sn=429bc86b2f7c1b3f4790b01a5ea83c35&amp;chksm=eb078663dc700f757170b9aac9a8ff6e9801ee20734091ae28e985fb3ed2659c5369f0547e49#rd"/>
         <updated>2024-04-21T16:00:00.000Z</updated>
         <published>2024-04-21T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 超前版发布三个新特性！有望全面拥抱 JSX/TSX！]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515653&amp;idx=1&amp;sn=02f726732521950ae0ce6301f3a68a2d&amp;chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515653&amp;idx=1&amp;sn=02f726732521950ae0ce6301f3a68a2d&amp;chksm=eb07867cdc700f6ad6821b6f3d39a2a53fccca9b8c643bcc5fbe8cf26ab646c1e065fafe6e69#rd"/>
-        <updated>2024-04-17T16:00:00.000Z</updated>
-        <published>2024-04-17T16:00:00.000Z</published>
     </entry>
 </feed>
