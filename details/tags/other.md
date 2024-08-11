@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-10 23:11:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-11 12:03:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3694,6 +3694,7 @@
 - [2018-10-05-每周分享第-25-期](http://www.ruanyifeng.com/blog/2018/10/weekly-issue-25.html) 
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
+- [2024-08-11-Dify-–-开源大模型应用开发平台，太强了！](http://www.yyyweb.com/5613.html) 
 - [2024-06-10-在自己电脑上，只需3步即可本地部署AI大模型](http://www.yyyweb.com/5604.html) 
 - [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html) 
 - [2024-05-04-【收藏】最全的100款处理图片的-AI-工具合集](http://www.yyyweb.com/5599.html) 
