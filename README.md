@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-08-11 12:03:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-13 18:06:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -31,9 +31,9 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -570,7 +570,7 @@
 </summary>
 
 
-- [2024-08-11-Dify-–-开源大模型应用开发平台，太强了！](http://www.yyyweb.com/5613.html) ![](/assets/new.png)  
+- [2024-08-11-Dify-–-开源大模型应用开发平台，太强了！](http://www.yyyweb.com/5613.html)  
 - [2024-06-10-利用-AnythingLLM-构建自己的私人-ChatGPT](http://www.yyyweb.com/5609.html)  
 - [2024-06-10-在自己电脑上，只需3步即可本地部署AI大模型](http://www.yyyweb.com/5604.html)  
 - [2024-06-01-ChatTTS-–-爆火！开源的生成式语音合成模型](http://www.yyyweb.com/5601.html)  
@@ -632,6 +632,7 @@
 </summary>
 
 
+- [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://hughfenghen.github.io/posts/2024/08/13/google-io-webcodecs-opfs/) ![](/assets/new.png)  
 - [2024-07-27-WebCodecs-的性能表现及优化思路](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/)  
 - [2024-05-11-WebCodecs-编码字符串（codec）介绍](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain/)  
 - [2024-05-08-自集成式-HTTP-代理方案](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/)  
@@ -643,15 +644,14 @@
 - [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/)  
 - [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/)  
 - [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/)  
-- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
 - [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/)  
+- [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
 - [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/)  
 - [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/)  
 - [2023-08-05-Web-音视频（四）在浏览器中处理音频](https://hughfenghen.github.io/posts/2023/08/05/webav-4-process-audio/)  
 - [2023-07-31-Web-音视频（三）在浏览器中创建视频](https://hughfenghen.github.io/posts/2023/07/31/webav-3-create-video/)  
-- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/)  
 - [2023-07-29-菩萨蛮](https://hughfenghen.github.io/posts/2023/07/29/%E8%8F%A9%E8%90%A8%E8%9B%AE/)  
-- [2023-07-23-Web-音视频（二）在浏览器中解析视频](https://hughfenghen.github.io/posts/2023/07/23/webav-2-parse-video/)  
+- [2023-07-29-侠客行-/-三叠](https://hughfenghen.github.io/posts/2023/07/29/%E4%BE%A0%E5%AE%A2/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
