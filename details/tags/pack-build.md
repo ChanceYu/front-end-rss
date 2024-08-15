@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-13 18:06:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-15 23:13:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -19,6 +19,7 @@
 - [2022-10-06-Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457) 
 - [2022-09-15-Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454) 
 - [2022-05-12-The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437) 
+- [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700) 
 - [2024-07-11-Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696) 
 - [2024-05-09-Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687) 
 - [2022-12-09-Vite-4.0-released](https://javascriptweekly.com/issues/618) 
