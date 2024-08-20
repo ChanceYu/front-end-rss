@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-08-06 21:06:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-20 21:12:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544) 
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541) 

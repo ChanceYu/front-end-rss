@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-08-17 12:07:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-20 21:12:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -31,7 +31,7 @@
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](/assets/dot.png)   
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544) ![](/assets/new.png)  
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
@@ -62,7 +63,6 @@
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)  
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
 - [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
-- [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -570,7 +570,7 @@
 </summary>
 
 
-- [2024-08-17-豆包大模型：重塑对话式AI实时交互的未来](http://www.yyyweb.com/5614.html) ![](/assets/new.png)  
+- [2024-08-17-豆包大模型：重塑对话式AI实时交互的未来](http://www.yyyweb.com/5614.html)  
 - [2024-08-11-Dify-–-开源大模型应用开发平台，太强了！](http://www.yyyweb.com/5613.html)  
 - [2024-06-10-在自己电脑上，只需3步即可本地部署AI大模型](http://www.yyyweb.com/5604.html)  
 - [2024-06-10-利用-AnythingLLM-构建自己的私人-ChatGPT](http://www.yyyweb.com/5609.html)  
