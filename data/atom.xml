@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-08-20T13:12:28.161Z</updated>
+    <updated>2024-08-22T22:05:40.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[A regular expression refresher]]></title>
+        <id>https://javascriptweekly.com/issues/701</id>
+        <link href="https://javascriptweekly.com/issues/701"/>
+        <updated>2024-08-21T16:00:00.000Z</updated>
+        <published>2024-08-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 22.6, Protobuf-ES 2.0, and Volta 2.0]]></title>
         <id>https://nodeweekly.com/issues/544</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[更轻巧的状态管理工具——Hookstate]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515690&amp;idx=2&amp;sn=ba2cfa783bba0d0aeeec603d9eedb3bd&amp;chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd"/>
-        <updated>2024-04-22T16:00:00.000Z</updated>
-        <published>2024-04-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[node --run send_newsletter]]></title>
-        <id>https://nodeweekly.com/issues/529</id>
-        <link href="https://nodeweekly.com/issues/529"/>
         <updated>2024-04-22T16:00:00.000Z</updated>
         <published>2024-04-22T16:00:00.000Z</published>
     </entry>
