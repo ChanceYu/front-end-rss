@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-08-24 21:11:37。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-08-28 06:08:53。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
@@ -129,7 +130,6 @@
 - [【前端早读课】【第3047期】基于-RPC-和-TypeScript-的-BFF-设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265610&idx=1&sn=d95c6f8c6b99366b2e5f2b868f4d1d59&chksm=bd48c3ce8a3f4ad815b6b47f399c1dea1d8054323b32e51e51f64ffda86665bc8a73df9e6fa2#rd)
 - [【前端早读课】【第3030期】从集合论的角度理解-TypeScript](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=1&sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd)
 - [【前端早读课】【第3000期】TypeScript-的演进之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264004&idx=1&sn=2fad27fc70848c861570cfd2fe10823b&chksm=bd48cd808a3f449613db47ad3a6051b8cbb74c4bc8ed92c16703d99066319cc2637e8d72855e#rd)
-- [【前端早读课】【第2942期】ts-migrate：快速将JavaScript迁移到TypeScript！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262585&idx=1&sn=7dff14f620a9c4807f29f8eb88ae232c&chksm=bd48d7fd8a3f5eebf0f093ddbf4c5e014d77e1837b1341d2e9fd6f697b807e15e768f9ab7a2c#rd)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

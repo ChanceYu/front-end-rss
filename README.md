@@ -10,11 +10,11 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-08-24 21:11:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 06:08:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -33,7 +33,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -43,6 +43,7 @@
 </summary>
 
 
+- [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) ![](/assets/new.png)  
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
@@ -62,7 +63,6 @@
 - [2024-04-16-What-Node's-contributors-have-been-discussing](https://nodeweekly.com/issues/528)  
 - [2024-04-09-zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)  
 - [2024-03-26-Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)  
-- [2024-03-19-Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -632,7 +632,7 @@
 </summary>
 
 
-- [2024-08-24-手残党的【黑神话·悟空】笔记](https://hughfenghen.github.io/posts/2024/08/24/black-myth-wukong/) ![](/assets/new.png)  
+- [2024-08-24-手残党的【黑神话·悟空】笔记](https://hughfenghen.github.io/posts/2024/08/24/black-myth-wukong/)  
 - [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://hughfenghen.github.io/posts/2024/08/13/google-io-webcodecs-opfs/)  
 - [2024-07-27-WebCodecs-的性能表现及优化思路](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/)  
 - [2024-05-11-WebCodecs-编码字符串（codec）介绍](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain/)  

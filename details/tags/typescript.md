@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-24 21:11:37。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-28 06:08:53。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
 - [2024-03-12-Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524) 
 - [2022-05-26-TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439) 

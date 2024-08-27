@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-08-24T13:11:38.127Z</updated>
+    <updated>2024-08-27T22:08:53.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Now Node can run even more TypeScript]]></title>
+        <id>https://nodeweekly.com/issues/545</id>
+        <link href="https://nodeweekly.com/issues/545"/>
+        <updated>2024-08-26T16:00:00.000Z</updated>
+        <published>2024-08-26T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不能落后，好好缕缕CSS滚动动画]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515711&amp;idx=1&amp;sn=42c32859ecaf3e991aa9a5dd5fdbdccb&amp;chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd"/>
         <updated>2024-04-27T16:00:00.000Z</updated>
         <published>2024-04-27T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSR isn't another tool, it's a fundamental shift]]></title>
-        <id>https://javascriptweekly.com/issues/685</id>
-        <link href="https://javascriptweekly.com/issues/685"/>
-        <updated>2024-04-24T16:00:00.000Z</updated>
-        <published>2024-04-24T16:00:00.000Z</published>
     </entry>
 </feed>
