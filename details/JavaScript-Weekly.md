@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-08-23 06:05:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-29 23:17:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700) 
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699) 

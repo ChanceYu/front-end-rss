@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-08-28 06:08:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-08-29 23:17:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) ![](/assets/new.png)  
+- [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)  
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) ![](/assets/new.png)  
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
@@ -93,7 +94,6 @@
 - [2024-04-25-JSR-isn't-another-tool,-it's-a-fundamental-shift](https://javascriptweekly.com/issues/685)  
 - [2024-04-18-Visualizing-algorithms](https://javascriptweekly.com/issues/684)  
 - [2024-04-11-An-easy-way-to-experiment-with-signals](https://javascriptweekly.com/issues/683)  
-- [2024-04-04-A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
