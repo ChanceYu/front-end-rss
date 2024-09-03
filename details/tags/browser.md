@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-08-30 10:04:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-03 23:12:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
 - [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 
