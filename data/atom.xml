@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-09-03T15:12:16.745Z</updated>
+    <updated>2024-09-05T15:12:36.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Reverse engineering minified JS with ChatGPT]]></title>
+        <id>https://javascriptweekly.com/issues/703</id>
+        <link href="https://javascriptweekly.com/issues/703"/>
+        <updated>2024-09-04T16:00:00.000Z</updated>
+        <published>2024-09-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two new libraries from Sindre Sorhus]]></title>
         <id>https://nodeweekly.com/issues/546</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一个Level 0富文本编辑器的进化历程]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd"/>
-        <updated>2024-04-29T16:00:00.000Z</updated>
-        <published>2024-04-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 22 has entered the building]]></title>
-        <id>https://nodeweekly.com/issues/530</id>
-        <link href="https://nodeweekly.com/issues/530"/>
         <updated>2024-04-29T16:00:00.000Z</updated>
         <published>2024-04-29T16:00:00.000Z</published>
     </entry>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-09-03 23:12:15。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-09-05 23:12:35。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
 - [【JavaScript-Weekly】JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)
 - [【JavaScript-Weekly】How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)
 - [【JavaScript-Weekly】What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)
 - [【JavaScript-Weekly】Is-htmx-Just-Another-JS-Framework?](https://javascriptweekly.com/issues/670)
 - [【JavaScript-Weekly】JavaScript's-rising-stars](https://javascriptweekly.com/issues/669)
-- [【JavaScript-Weekly】Reflecting-on-a-big-year-for-JavaScript](https://javascriptweekly.com/issues/668)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
