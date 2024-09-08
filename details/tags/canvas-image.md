@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-06 10:04:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-09 06:07:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -72,6 +72,7 @@
 - [2018-12-17-WebGL-纹理详解](https://fed.taobao.org/blog/2018/12/17/webgl-texture/) 
 - [2018-03-05-G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](https://fed.taobao.org/blog/2018/03/05/intro-to-g3d/) 
 - [2017-07-27-GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/) 
+- [2024-09-09-搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/) 
 - [2024-04-14-今天学习SVG滤镜feGaussianBlur和feDropShadow](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/) 
 - [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/) 
 - [2023-09-05-做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具](https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/) 

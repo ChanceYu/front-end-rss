@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-09-06T02:04:01.696Z</updated>
+    <updated>2024-09-08T22:07:41.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[搞懂SVG中各种Light相关的光源滤镜]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/"/>
+        <updated>2024-09-08T16:00:00.000Z</updated>
+        <published>2024-09-08T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reverse engineering minified JS with ChatGPT]]></title>
         <id>https://javascriptweekly.com/issues/703</id>
@@ -356,12 +363,5 @@
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515732&amp;idx=1&amp;sn=70fb828954c28fedbf722299b1a02687&amp;chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd"/>
         <updated>2024-05-05T16:00:00.000Z</updated>
         <published>2024-05-05T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个Level 0富文本编辑器的进化历程]]></title>
-        <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd</id>
-        <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515726&amp;idx=1&amp;sn=8ed649ee69dc38031fbb4ca274384fcf&amp;chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd"/>
-        <updated>2024-04-29T16:00:00.000Z</updated>
-        <published>2024-04-29T16:00:00.000Z</published>
     </entry>
 </feed>
