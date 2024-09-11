@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-09-11T13:07:04.873Z</updated>
+    <updated>2024-09-11T22:04:03.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[来了来了，scrollend滚动停止事件也支持了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/"/>
+        <updated>2024-09-10T16:00:00.000Z</updated>
+        <published>2024-09-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Express.js 5.0]]></title>
         <id>https://nodeweekly.com/issues/547</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3，可以慢慢抛弃虚拟 DOM 了]]></title>
         <id>https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515738&amp;idx=1&amp;sn=888c75d1b8a546c425bb5d07d921b27e&amp;chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd</id>
         <link href="https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247515738&amp;idx=1&amp;sn=888c75d1b8a546c425bb5d07d921b27e&amp;chksm=eb078623dc700f35095321ceb809dc5ca11198b2cadb52c25a603e6ac0a451177ec495bcb2b8#rd"/>
-        <updated>2024-05-06T16:00:00.000Z</updated>
-        <published>2024-05-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 22.1, now with even more performance]]></title>
-        <id>https://nodeweekly.com/issues/531</id>
-        <link href="https://nodeweekly.com/issues/531"/>
         <updated>2024-05-06T16:00:00.000Z</updated>
         <published>2024-05-06T16:00:00.000Z</published>
     </entry>

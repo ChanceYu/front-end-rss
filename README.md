@@ -10,7 +10,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-11 21:07:03，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-12 06:04:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,9 +29,9 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
-- [前端里](#前端里)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/) ![](/assets/new.png)  
 - [2024-09-09-搞懂SVG中各种Light相关的光源滤镜](https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/)  
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/)  
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)  
@@ -527,7 +528,6 @@
 - [2024-04-11-SVG滤镜系列之搞懂&lt;feBlend&gt;元素](https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/)  
 - [2024-03-31-CSS-Nesting嵌套与@scope规则也太雷同了吧？](https://www.zhangxinxu.com/wordpress/2024/03/css-nesting-scope-rules/)  
 - [2024-03-21-CSS-initial-letter属性，嗯……也就这样吧](https://www.zhangxinxu.com/wordpress/2024/03/css-initial-letter/)  
-- [2024-03-17-今天才知道，Web网页也能阻止息屏了](https://www.zhangxinxu.com/wordpress/2024/03/js-screen-wake-lock-api/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -539,7 +539,7 @@
 </summary>
 
 
-- [2024-09-11-白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html) ![](/assets/new.png)  
+- [2024-09-11-白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)  
 - [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)  
 - [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
 - [2024-08-23-科技爱好者周刊（第-314-期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)  
@@ -570,7 +570,7 @@
 </summary>
 
 
-- [2024-09-11-screenshot-to-code-项目：截图生成代码](http://www.yyyweb.com/5622.html) ![](/assets/new.png)  
+- [2024-09-11-screenshot-to-code-项目：截图生成代码](http://www.yyyweb.com/5622.html)  
 - [2024-08-17-豆包大模型：重塑对话式AI实时交互的未来](http://www.yyyweb.com/5614.html)  
 - [2024-08-11-Dify-–-开源大模型应用开发平台，太强了！](http://www.yyyweb.com/5613.html)  
 - [2024-06-10-利用-AnythingLLM-构建自己的私人-ChatGPT](http://www.yyyweb.com/5609.html)  
