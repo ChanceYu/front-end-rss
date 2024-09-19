@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-09-13 06:04:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-20 06:06:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705) 
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704) 
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703) 
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702) 
