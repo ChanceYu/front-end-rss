@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-20 10:05:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-24 23:10:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549) 
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547) 
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544) 
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543) 
