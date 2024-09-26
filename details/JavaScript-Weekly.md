@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-09-20 06:06:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-27 06:01:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705) 
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704) 
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703) 

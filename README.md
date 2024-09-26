@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-09-26 06:04:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-27 06:01:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) ![](/assets/new.png)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
@@ -93,7 +94,6 @@
 - [2024-05-23-SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689)  
 - [2024-05-16-Remix-+-React-Router-==-React-Router?](https://javascriptweekly.com/issues/688)  
 - [2024-05-09-Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687)  
-- [2024-05-02-Svelte-5-is-almost-here](https://javascriptweekly.com/issues/686)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -508,7 +508,7 @@
 </summary>
 
 
-- [2024-09-26-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/) ![](/assets/new.png)  
+- [2024-09-26-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/)  
 - [2024-09-13-好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/)  
 - [2024-09-11-来了来了，scrollend滚动停止事件也支持了](https://www.zhangxinxu.com/wordpress/2024/09/js-scrollend-event/)  

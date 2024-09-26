@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-09-26 06:04:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-09-27 06:01:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -88,6 +88,7 @@
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
 - [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
+- [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610) 
 - [2022-04-22-Node.js-18,-WebAssembly-2.0,-and-Ember-4.3](https://javascriptweekly.com/issues/586) 

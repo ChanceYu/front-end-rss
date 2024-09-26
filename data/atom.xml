@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-09-25T22:04:51.001Z</updated>
+    <updated>2024-09-26T22:01:53.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[时隔两年，Chrome也支持round等CSS数学函数了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/"/>
+        <updated>2024-09-25T16:00:00.000Z</updated>
+        <published>2024-09-25T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno gets even better]]></title>
+        <id>https://javascriptweekly.com/issues/706</id>
+        <link href="https://javascriptweekly.com/issues/706"/>
         <updated>2024-09-25T16:00:00.000Z</updated>
         <published>2024-09-25T16:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/533"/>
         <updated>2024-05-20T16:00:00.000Z</updated>
         <published>2024-05-20T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remix + React Router == React Router?]]></title>
-        <id>https://javascriptweekly.com/issues/688</id>
-        <link href="https://javascriptweekly.com/issues/688"/>
-        <updated>2024-05-15T16:00:00.000Z</updated>
-        <published>2024-05-15T16:00:00.000Z</published>
     </entry>
 </feed>
