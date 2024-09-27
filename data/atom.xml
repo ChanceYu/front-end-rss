@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-09-26T22:01:53.645Z</updated>
+    <updated>2024-09-27T02:04:55.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 319 期）：如何拍出爆款视频]]></title>
+        <id>http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html"/>
+        <updated>2024-09-26T16:00:00.000Z</updated>
+        <published>2024-09-26T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[时隔两年，Chrome也支持round等CSS数学函数了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/689"/>
         <updated>2024-05-22T16:00:00.000Z</updated>
         <published>2024-05-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Node.js Advocacy Ambassador program?]]></title>
-        <id>https://nodeweekly.com/issues/533</id>
-        <link href="https://nodeweekly.com/issues/533"/>
-        <updated>2024-05-20T16:00:00.000Z</updated>
-        <published>2024-05-20T16:00:00.000Z</published>
     </entry>
 </feed>
