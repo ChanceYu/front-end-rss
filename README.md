@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-10-02 06:09:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-04 06:03:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550) ![](/assets/new.png)  
+- [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
 - [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)  
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548)  
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707) ![](/assets/new.png)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
@@ -93,7 +94,6 @@
 - [2024-05-30-A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)  
 - [2024-05-23-SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689)  
 - [2024-05-16-Remix-+-React-Router-==-React-Router?](https://javascriptweekly.com/issues/688)  
-- [2024-05-09-Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
