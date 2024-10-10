@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-10T02:04:58.431Z</updated>
+    <updated>2024-10-10T22:03:52.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Nice! Safari也支持CSS @perporty规则了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/"/>
+        <updated>2024-10-09T16:00:00.000Z</updated>
+        <published>2024-10-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A huge week for ECMAScript proposals]]></title>
+        <id>https://javascriptweekly.com/issues/708</id>
+        <link href="https://javascriptweekly.com/issues/708"/>
+        <updated>2024-10-09T16:00:00.000Z</updated>
+        <published>2024-10-09T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All aboard the (high speed) Express train]]></title>
         <id>https://nodeweekly.com/issues/550</id>
@@ -349,19 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2024/05/svg-femerge-clone-dom-css-style/"/>
         <updated>2024-05-29T16:00:00.000Z</updated>
         <published>2024-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A variety of JS hacks and creative coding]]></title>
-        <id>https://javascriptweekly.com/issues/690</id>
-        <link href="https://javascriptweekly.com/issues/690"/>
-        <updated>2024-05-29T16:00:00.000Z</updated>
-        <published>2024-05-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分布式数据库入门：以国产数据库 TDSQL 为例]]></title>
-        <id>http://www.ruanyifeng.com/blog/2024/05/tdsql.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2024/05/tdsql.html"/>
-        <updated>2024-05-28T16:00:00.000Z</updated>
-        <published>2024-05-28T16:00:00.000Z</published>
     </entry>
 </feed>
