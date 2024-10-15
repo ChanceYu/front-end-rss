@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-10-11 10:10:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-15 23:05:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551) 
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550) 
 - [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549) 
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547) 
