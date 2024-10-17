@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-15T15:05:41.407Z</updated>
+    <updated>2024-10-17T22:08:31.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS0 + JSSugar not so sweet?]]></title>
+        <id>https://javascriptweekly.com/issues/709</id>
+        <link href="https://javascriptweekly.com/issues/709"/>
+        <updated>2024-10-16T16:00:00.000Z</updated>
+        <published>2024-10-16T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jod only knows what Node v22 LTS will be called]]></title>
         <id>https://nodeweekly.com/issues/551</id>
@@ -356,12 +363,5 @@
         <link href="http://www.yyyweb.com/5609.html"/>
         <updated>2024-06-09T16:00:00.000Z</updated>
         <published>2024-06-09T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The newest Node.js runtime features]]></title>
-        <id>https://nodeweekly.com/issues/534</id>
-        <link href="https://nodeweekly.com/issues/534"/>
-        <updated>2024-06-03T16:00:00.000Z</updated>
-        <published>2024-06-03T16:00:00.000Z</published>
     </entry>
 </feed>

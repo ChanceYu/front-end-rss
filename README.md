@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-10-15 23:05:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-18 06:08:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551) ![](/assets/new.png)  
+- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
 - [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)  
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709) ![](/assets/new.png)  
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)  
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
@@ -93,7 +94,6 @@
 - [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)  
 - [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691)  
 - [2024-05-30-A-variety-of-JS-hacks-and-creative-coding](https://javascriptweekly.com/issues/690)  
-- [2024-05-23-SolidJS-is-off-to-a-solid-start](https://javascriptweekly.com/issues/689)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

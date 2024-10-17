@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-10-11 06:03:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-10-18 06:08:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709) 
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708) 
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707) 
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
