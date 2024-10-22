@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-18T00:03:52.339Z</updated>
+    <updated>2024-10-22T15:24:12.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node v23, and a proper hello to Express v5]]></title>
+        <id>https://nodeweekly.com/issues/552</id>
+        <link href="https://nodeweekly.com/issues/552"/>
+        <updated>2024-10-21T16:00:00.000Z</updated>
+        <published>2024-10-21T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS0 + JSSugar not so sweet?]]></title>
         <id>https://javascriptweekly.com/issues/709</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/692"/>
         <updated>2024-06-12T16:00:00.000Z</updated>
         <published>2024-06-12T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 AnythingLLM 构建自己的私人 ChatGPT]]></title>
-        <id>http://www.yyyweb.com/5609.html</id>
-        <link href="http://www.yyyweb.com/5609.html"/>
-        <updated>2024-06-09T16:00:00.000Z</updated>
-        <published>2024-06-09T16:00:00.000Z</published>
     </entry>
 </feed>
