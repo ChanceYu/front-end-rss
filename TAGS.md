@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-24 23:24:04。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-25 06:23:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)
 - [【JavaScript-Weekly】JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)
 - [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
 - [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】A-signal-boost-for-JavaScript](https://javascriptweekly.com/issues/682)
 - [【JavaScript-Weekly】Promises-visualized](https://javascriptweekly.com/issues/681)
 - [【JavaScript-Weekly】TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)
-- [【JavaScript-Weekly】Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
