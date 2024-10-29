@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-25T00:23:18.297Z</updated>
+    <updated>2024-10-29T04:27:23.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[纯 Web 视频剪辑]]></title>
+        <id>https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/</id>
+        <link href="https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/"/>
+        <updated>2024-10-27T16:00:00.000Z</updated>
+        <published>2024-10-27T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Object.is/===、数组at/直接索引、substring/slice的区别]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/694"/>
         <updated>2024-06-26T16:00:00.000Z</updated>
         <published>2024-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should Node make ES modules easier to use?]]></title>
-        <id>https://nodeweekly.com/issues/537</id>
-        <link href="https://nodeweekly.com/issues/537"/>
-        <updated>2024-06-24T16:00:00.000Z</updated>
-        <published>2024-06-24T16:00:00.000Z</published>
     </entry>
 </feed>
