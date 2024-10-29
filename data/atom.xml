@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-29T04:27:23.180Z</updated>
+    <updated>2024-10-29T22:19:00.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 22 is now in LTS]]></title>
+        <id>https://nodeweekly.com/issues/553</id>
+        <link href="https://nodeweekly.com/issues/553"/>
+        <updated>2024-10-28T16:00:00.000Z</updated>
+        <published>2024-10-28T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纯 Web 视频剪辑]]></title>
         <id>https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[告别JS浮层，全新的CSS Anchor Positioning锚点定位API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/"/>
-        <updated>2024-06-26T16:00:00.000Z</updated>
-        <published>2024-06-26T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say hi to ECMAScript 2024]]></title>
-        <id>https://javascriptweekly.com/issues/694</id>
-        <link href="https://javascriptweekly.com/issues/694"/>
         <updated>2024-06-26T16:00:00.000Z</updated>
         <published>2024-06-26T16:00:00.000Z</published>
     </entry>
