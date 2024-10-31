@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-10-30T22:20:59.243Z</updated>
+    <updated>2024-10-31T07:24:32.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[WebAV SDK（Web 视频编辑）V1 发布]]></title>
+        <id>https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/</id>
+        <link href="https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/"/>
+        <updated>2024-10-30T16:00:00.000Z</updated>
+        <published>2024-10-30T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 22 is now in LTS]]></title>
         <id>https://nodeweekly.com/issues/553</id>
@@ -356,12 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2024/06/css-transition-behavior/"/>
         <updated>2024-06-29T16:00:00.000Z</updated>
         <published>2024-06-29T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别JS浮层，全新的CSS Anchor Positioning锚点定位API]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/06/css-anchor-positioning-api/"/>
-        <updated>2024-06-26T16:00:00.000Z</updated>
-        <published>2024-06-26T16:00:00.000Z</published>
     </entry>
 </feed>
