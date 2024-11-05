@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-01T00:22:02.032Z</updated>
+    <updated>2024-11-05T15:26:17.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Running WebAssembly apps inside Node.js]]></title>
+        <id>https://nodeweekly.com/issues/554</id>
+        <link href="https://nodeweekly.com/issues/554"/>
+        <updated>2024-11-04T16:00:00.000Z</updated>
+        <published>2024-11-04T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebAV SDK（Web 视频编辑）V1 发布]]></title>
         <id>https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何使用纯CSS鉴别是不是Safari浏览器]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/"/>
-        <updated>2024-07-03T16:00:00.000Z</updated>
-        <published>2024-07-03T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking a promise]]></title>
-        <id>https://javascriptweekly.com/issues/695</id>
-        <link href="https://javascriptweekly.com/issues/695"/>
         <updated>2024-07-03T16:00:00.000Z</updated>
         <published>2024-07-03T16:00:00.000Z</published>
     </entry>
