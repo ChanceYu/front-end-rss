@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-11-05 23:26:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-08 06:20:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
-- [JavaScript-Weekly](#javascript-weekly)  
+- [Node-Weekly](#node-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -43,7 +43,7 @@
 </summary>
 
 
-- [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554) ![](/assets/new.png)  
+- [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)  
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712) ![](/assets/new.png)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
 - [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
@@ -93,7 +94,6 @@
 - [2024-07-04-Breaking-a-promise](https://javascriptweekly.com/issues/695)  
 - [2024-06-27-Say-hi-to-ECMAScript-2024](https://javascriptweekly.com/issues/694)  
 - [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693)  
-- [2024-06-13-The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
