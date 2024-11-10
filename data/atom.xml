@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-08T02:25:00.533Z</updated>
+    <updated>2024-11-10T22:18:57.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[趁热打铁，SVG feColorMatrix滤镜gogogo!]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/11/svg-fecolormatrix-filter/"/>
+        <updated>2024-11-10T16:00:00.000Z</updated>
+        <published>2024-11-10T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JSConf is back]]></title>
         <id>https://javascriptweekly.com/issues/712</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/696"/>
         <updated>2024-07-10T16:00:00.000Z</updated>
         <published>2024-07-10T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node experiments with adding SQLite]]></title>
-        <id>https://nodeweekly.com/issues/539</id>
-        <link href="https://nodeweekly.com/issues/539"/>
-        <updated>2024-07-08T16:00:00.000Z</updated>
-        <published>2024-07-08T16:00:00.000Z</published>
     </entry>
 </feed>
