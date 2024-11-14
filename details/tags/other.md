@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-14 23:25:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-15 06:20:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -32,6 +32,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713) 
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707) 
 - [2024-06-20-The-results-are-in](https://javascriptweekly.com/issues/693) 
 - [2024-06-06-The-appealing-simplicity-of-htmx](https://javascriptweekly.com/issues/691) 
