@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-12T22:18:01.455Z</updated>
+    <updated>2024-11-14T15:25:59.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[这啥?CSS calc-size和interpolate-size,真学不动了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/"/>
+        <updated>2024-11-13T16:00:00.000Z</updated>
+        <published>2024-11-13T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node v23.2 released]]></title>
         <id>https://nodeweekly.com/issues/555</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/540"/>
         <updated>2024-07-15T16:00:00.000Z</updated>
         <published>2024-07-15T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[了解infinity、pi等CSS calc()计算关键字]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/07/css-calc-keyword-infinity-pi-e/"/>
-        <updated>2024-07-14T16:00:00.000Z</updated>
-        <published>2024-07-14T16:00:00.000Z</published>
     </entry>
 </feed>
