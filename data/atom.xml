@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-14T22:20:51.643Z</updated>
+    <updated>2024-11-15T00:21:03.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html"/>
+        <updated>2024-11-14T16:00:00.000Z</updated>
+        <published>2024-11-14T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这啥?CSS calc-size和interpolate-size,真学不动了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/697"/>
         <updated>2024-07-17T16:00:00.000Z</updated>
         <published>2024-07-17T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stream if you wanna go faster]]></title>
-        <id>https://nodeweekly.com/issues/540</id>
-        <link href="https://nodeweekly.com/issues/540"/>
-        <updated>2024-07-15T16:00:00.000Z</updated>
-        <published>2024-07-15T16:00:00.000Z</published>
     </entry>
 </feed>

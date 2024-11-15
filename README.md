@@ -10,12 +10,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2024-11-15 06:20:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-15 08:21:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,7 +30,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713) ![](/assets/new.png)  
+- [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
@@ -539,6 +539,7 @@
 </summary>
 
 
+- [2024-11-15-科技爱好者周刊（第-325-期）：VS-Code-编辑器的下一站是-Zed？](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html) ![](/assets/new.png)  
 - [2024-11-08-科技爱好者周刊（第-324-期）：人类已知的最大质数](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-324.html)  
 - [2024-11-01-科技爱好者周刊（第-323-期）：技术公司的口号比拼](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-323.html)  
 - [2024-10-31-AI-开发的捷径：工作流模式](http://www.ruanyifeng.com/blog/2024/10/coze.html)  
@@ -558,7 +559,6 @@
 - [2024-08-02-科技爱好者周刊（第-311-期）：低利率与长期项目](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-311.html)  
 - [2024-07-26-科技爱好者周刊（第-310-期）：内容农场的-AI-赚钱术](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-310.html)  
 - [2024-07-19-科技爱好者周刊（第-309-期）：无人驾驶出租车的双面刃](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-309.html)  
-- [2024-07-12-科技爱好者周刊（第-308-期）：工作找不到，博士能读吗？](http://www.ruanyifeng.com/blog/2024/07/weekly-issue-308.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
