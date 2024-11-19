@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-17T15:25:20.802Z</updated>
+    <updated>2024-11-19T15:25:53.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Using Node to get ChatGPT on the phone]]></title>
+        <id>https://nodeweekly.com/issues/556</id>
+        <link href="https://nodeweekly.com/issues/556"/>
+        <updated>2024-11-18T16:00:00.000Z</updated>
+        <published>2024-11-18T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS文本选区变化selectionchange事件实践小记]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/541"/>
         <updated>2024-07-22T16:00:00.000Z</updated>
         <published>2024-07-22T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今日学习CSS文本自定义高亮API]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/"/>
-        <updated>2024-07-17T16:00:00.000Z</updated>
-        <published>2024-07-17T16:00:00.000Z</published>
     </entry>
 </feed>
