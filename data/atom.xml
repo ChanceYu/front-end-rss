@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-22T00:20:53.645Z</updated>
+    <updated>2024-11-24T22:22:46.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid布局中的subgrid的适用场景]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/"/>
+        <updated>2024-11-24T16:00:00.000Z</updated>
+        <published>2024-11-24T16:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploring JavaScript symbols]]></title>
         <id>https://javascriptweekly.com/issues/714</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/698"/>
         <updated>2024-07-24T16:00:00.000Z</updated>
         <published>2024-07-24T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于《HTML并不简单》这本书]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/"/>
-        <updated>2024-07-22T16:00:00.000Z</updated>
-        <published>2024-07-22T16:00:00.000Z</published>
     </entry>
 </feed>
