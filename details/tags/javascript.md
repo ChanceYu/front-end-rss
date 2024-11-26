@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-25 06:22:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-26 23:24:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) 
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 
 - [2022-02-03-That's-so-fetch](https://nodeweekly.com/issues/423) 

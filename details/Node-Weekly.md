@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-11-19 23:25:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-26 23:24:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) 
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556) 
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555) 
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554) 
