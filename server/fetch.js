@@ -3,14 +3,6 @@ const Async = require('async')
 
 const utils = require('./utils')
 
-require('dotenv').config({ multiline: true })
-
-let rssConfig = {}
-try {
-  rssConfig = JSON.parse(process.env.RSS_CONFIG || '{}')
-} catch (e) {
-}
-
 async function fetchFeed(rss) {
   const parser = new Parser({
     headers: {
@@ -31,16 +23,28 @@ async function fetchFeed(rss) {
 }
 
 async function initFetch(rssItem, onFinish) {
+  require('dotenv').config({ multiline: true, override: true })
+  
+  let rssConfig = {}
+  try {
+    rssConfig = JSON.parse(process.env.RSS_CONFIG || '{}')
+  } catch (e) {
+  }
+
   let rssArray = rssItem.rss
 
   if (typeof rssArray === 'string') {
     rssArray = [rssArray]
   }
 
-  const envRss = rssConfig[rssItem.title]
+  let envRss = rssConfig[rssItem.title]
 
-  if (envRss) {
-    rssArray.unshift(envRss)
+  if (typeof envRss === 'string') {
+    envRss = [envRss]
+  }
+
+  if (envRss.length) {
+    rssArray = [...envRss, ...rssArray]
   }
 
   const tasks = rssArray.map((rss) => ((callback) => {
