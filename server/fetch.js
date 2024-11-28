@@ -43,7 +43,7 @@ async function initFetch(rssItem, onFinish) {
     envRss = [envRss]
   }
 
-  if (envRss.length) {
+  if (envRss?.length) {
     rssArray = [...envRss, ...rssArray]
   }
 
