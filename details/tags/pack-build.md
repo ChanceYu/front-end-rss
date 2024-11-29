@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-29 08:03:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-29 10:04:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -27,6 +27,7 @@
 - [2022-11-04-Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613) 
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
+- [2024-11-29-【早阅】如何有效清除NPM和NPX缓存？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=2&sn=cd81adafd6f785471d0ee5ae4d54012c&chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&scene=0#rd) 
 - [2024-02-04-【第3189期】信使-Web-builder：拖拽组件构建响应式页面的前端开源框架](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269104&idx=1&sn=a4db3b0276603c70b5ce9ea50828dcdd&chksm=bd48fe748a3f7762733d53a877d9da55e4612aef1ab23aa4f50fb5cd4ad55eabd5a6bd68d8b1#rd) 
 - [2023-12-20-【第3147期】前端Monorepo大仓权限设计的思考与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=1&sn=35b3e1e8294feb8ee807bf21d48d7666&chksm=bd48fa7a8a3f736c50493bbfb2bf73fcd583ae9ab5a4ea5c2ade46eb739b7d097db4bae1acb2#rd) 
 - [2023-12-08-【第3135期】构建现代Web应用：5个基本的前端架构原则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267854&idx=1&sn=873d30d13d34ab1c617c805ffa4a694c&chksm=bd48fa8a8a3f739c93330c0d9c35ad0f323c279517658836533431e6255c643f5324c05afbe0#rd) 
@@ -48,8 +49,8 @@
 - [2023-01-06-【第2829期】Monorepo-下-Git-工作流的最佳实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260181&idx=1&sn=aa8055a7b6a253fe95e638b314932d8d&chksm=bd48dc918a3f5587cba4b8905834eae7ab1228441c0d24b50616e581ef077432fc465f2cab2d#rd) 
 - [2022-12-10-【第2807期】如何搭建适合自己团队的构建部署平台](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259714&idx=1&sn=722fd5f0b3298fd002c23b3aa3bfe7bb&chksm=bd48dac68a3f53d02ee1f54be8e8e1916358049c1f01bfd4e6c687bde4b7e4cc44afeb443ef8#rd) 
 - [2022-12-07-【图书】理工男谈理财：构建受益一生的财富体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259645&idx=2&sn=986afe847a85002f02a57c638304bd83&chksm=bd48db798a3f526f789557989428932aed1db83b64e939a18660e6c1d9a2d6acbee113d52912#rd) 
-- [2022-10-24-【第2762期】ViteConf-2022回顾：Vite是如何诞生的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=1&sn=0b4819ecf73d4a9dd0d36431b494d6a5&chksm=bd4927188a3eae0ebebcd055ba22c73f0b2ede66f052a154a64747122762987deda63f4829a8#rd) 
 - [2022-10-24-【课程】深入浅出-Vite](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=3&sn=bbf1284034da9070774b163c5e81cacd&chksm=bd4927188a3eae0e3433134e35cc5c2dd8b8d2dc6d56d2a15e65a9a77df9349625d5b2b2510a#rd) 
+- [2022-10-24-【第2762期】ViteConf-2022回顾：Vite是如何诞生的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651258524&idx=1&sn=0b4819ecf73d4a9dd0d36431b494d6a5&chksm=bd4927188a3eae0ebebcd055ba22c73f0b2ede66f052a154a64747122762987deda63f4829a8#rd) 
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257637&idx=1&sn=fb6d13f9be7af72f2e5aef5e934b64cc&chksm=bd4922a18a3eabb7058e4567659e69f910f00547069c96907d27eb4047cf0e94e4ff2b356421#rd) 
 - [2022-08-21-【第2708期】企业级包管理服务-cnpmcore](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257498&idx=1&sn=3618873947da1e8a1765cca39dd2a4fe&chksm=bd49231e8a3eaa0883ff59dbaaf2efdc3ec22d82bb81e96885b17f644929399dec211c26b30a#rd) 
 - [2022-08-15-【第2702期】穿越类型边界：在-TS、JSON-schema-与-JS-运行时之间构建统一类型系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651257290&idx=1&sn=86d878868447cec527c8f0098299fe9b&chksm=bd49204e8a3ea9586048d3e7ee5527933b9fe6ab0096b5e5ca365b24c10c6b98ed593f82016d#rd) 
@@ -90,8 +91,8 @@
 - [2020-08-18-20k以上面试必问，Webpack原理和优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238975&idx=1&sn=e45e03236d319d7ea1fa81bffa7861a7&chksm=bd496bbb8a3ee2add515e4b4ad3bdc16b986b82740fcde91386381dd6061587af0b673fa0793&scene=27#wechat_redirect) 
 - [2020-07-20-【第2008期】多应用项目开发架构和多进程间构建优化分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238188&idx=1&sn=9095586f9e2be4727a868b9fab746221&chksm=bd4976a88a3effbe4d38d46410518a58ba250673ff93e637c8b76ad5efa908dd1bf62fc4e99d&scene=27#wechat_redirect) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237597&idx=1&sn=29d7c2d32920e575ec256a020ebc209c&chksm=bd4975598a3efc4f9bfe19ea8bbf7b57e5c9cd44d6ad184d68bce399b2400897b4e7ac264263&scene=27#wechat_redirect) 
-- [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
 - [2019-08-29-【第1711期】Webpack优化——将你的构建效率提速翻倍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=2&sn=73c142f04bfb546433c6331275628ed6&chksm=bd4944aa8a3ecdbc3aaef3c61077dc073858ce688098bb34d2eb5d01cbac63e61d60ee6e8486#rd) 
+- [2019-08-29-前端人如何构建能力模型，高薪成长？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233582&idx=1&sn=568526747e38aea263b592d2a6f43ce7&chksm=bd4944aa8a3ecdbce429130661977993da65eb305d36e14ecb27ebbda1888e2a4a21beb8099a#rd) 
 - [2019-08-21-【PPT】the-road-to-webpack-5](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233472&idx=1&sn=01eb557fc0ed307782f98cc5df2a63a6&chksm=bd4945448a3ecc523982c6ec6eedcadaeb6d847754362b5bba257b7c0a972d38cd4520d7963f&scene=27#wechat_redirect) 
 - [2019-08-18-【第1703期】愿未来没有-Webpack](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233360&idx=1&sn=7e745c795ecc7cba277fa20e4ccb03c2&chksm=bd4945d48a3eccc20498290e670a62d468df2a7474254cdedf09bc2be4c0c12e19d8a04c25e2#rd) 
 - [2019-07-30-【第1684期】-深入理解ESLint](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233178&idx=1&sn=23d7041105447b655f0f52a53a13207a&chksm=bd49421e8a3ecb08a6108140a047666afd3b89ae1de9228ae479067ed62a580c93ac6b09d257&scene=27#wechat_redirect) 
@@ -113,8 +114,8 @@
 - [2018-12-22-【第1484期】被污染的-npm-包：event-stream](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230782&idx=1&sn=a507bb9c9c61ad9f9cb4a30d6a4c2392#wechat_redirect) 
 - [2018-12-07-【第1469期】篡改NPM包盗取比特币始末](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230660&idx=1&sn=afb66301af5a7432ff88f8e5a9f2df02#wechat_redirect) 
 - [2018-12-02-【第1464期】babel7使用手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230594&idx=1&sn=85776d694c8c389c1a529a0f7c13ed70#wechat_redirect) 
-- [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
+- [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
 - [2023-12-18-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617728&idx=1&sn=6454d7d0a8507be4027e3625fe30f025&chksm=8022ae01b755271796c37b2fd203cafbc1988ed63208b171da6644475988e14076109ca033fc#rd) 
 - [2023-11-30-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=2&sn=b259e1eae08e28ac75f2f1b724a95485&chksm=8022ae93b75527852be0c15e3fcea1b19e7f3c0a3a3edacd4a252eaee1ca68aef1be333649a1#rd) 
