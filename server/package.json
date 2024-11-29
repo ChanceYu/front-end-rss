@@ -11,6 +11,7 @@
     "fs-extra": "^10.0.0",
     "later": "^1.2.0",
     "moment": "^2.22.2",
+    "path-to-regexp": "^8.2.0",
     "query-string": "^6.8.1",
     "rss-parser": "^3.4.3",
     "shelljs": "^0.8.5",
@@ -18,7 +19,6 @@
     "underscore": "^1.9.1"
   },
   "description": "front-end-rss",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

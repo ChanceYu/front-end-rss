@@ -1,7 +1,9 @@
 const fs = require('fs-extra')
 const path = require('path')
+const url = require('url')
 const moment = require('moment')
 const chalk = require('chalk')
+const pathToRegexp = require('path-to-regexp')
 const queryString = require('query-string')
 const { Octokit } = require('@octokit/core')
 
@@ -96,10 +98,20 @@ module.exports = {
     const reWx = /mp\.weixin\.qq\.com/
 
     if (reWx.test(oLink.url) && reWx.test(oCompare.url)) {
-      return oLink.query.sn === oCompare.query.sn && oLink.query.mid === oCompare.query.mid
-    } else {
-      return link === compare
+      if (oLink.query.sn && oCompare.query.sn) {
+        return oLink.query.sn === oCompare.query.sn && oLink.query.mid === oCompare.query.mid
+      }
+      const match = pathToRegexp.match('/s/:sid')
+      const lUrl = new url.URL(oLink.url)
+      const cUrl = new url.URL(oCompare.url)
+      const sid1 = match(lUrl.pathname)?.params?.sid
+      const sid2 = match(cUrl.pathname)?.params?.sid
+      
+      if (sid1 && sid2) {
+        return sid1 === sid2
+      }
     }
+    return link === compare
   },
   async getHomePage() {
     try {
