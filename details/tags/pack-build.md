@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-29 06:02:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-11-29 08:03:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -351,8 +351,8 @@
 - [2022-08-26-精读《-pnpm》篇，还没用它的在等什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=2&sn=f51f5da0d6740a8863e586748f9cb8e8&chksm=f992af80cee52696cb8c8618338cda6f8a59ea4fb313cda0eced4d984933f9f1cb645717b818#rd) 
 - [2022-08-22-为什么大厂不能直接用-Vite？Bundle-less-的思考和实践分享](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510306&idx=1&sn=7654a39698d3d9c1d2fc47d6f1cb498c&chksm=f992aff3cee526e5b9ce5073b59c808ac77ed81bc4a64b80b699bf0fbc2fe63add6980081659#rd) 
 - [2022-08-02-聊聊最近对前端构建工具的一些理解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510136&idx=1&sn=bf3c1aa30961ddf854a6cea882045df8&chksm=f992aea9cee527bfba7da0b29420eb35842ad1ca2ce9736471b2a4354ae5e7dd13859b9dc2d4#rd) 
-- [2022-07-27-从-npm-切换到-pnpm，真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=1&sn=17ad329219a71091e6b617529c3286d2&chksm=f992a125cee52833599eae8879bc05d2d264420e1c57b0ecdcb0decc8b701b5f1d86d610d74e#rd) 
 - [2022-07-27-从-npm-切换到-pnpm，真香！](https://mp.weixin.qq.com/s/9WKKzMpsKU23_H2k6uRPNQ) 
+- [2022-07-27-从-npm-切换到-pnpm，真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=1&sn=17ad329219a71091e6b617529c3286d2&chksm=f992a125cee52833599eae8879bc05d2d264420e1c57b0ecdcb0decc8b701b5f1d86d610d74e#rd) 
 - [2022-06-13-前端工程化：保姆级教学-Jenkins-部署前端项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247508047&idx=1&sn=16b41e744bb6a42fbafd55e75f0f2a8b&chksm=f992a69ecee52f8811c54cc2bcf3310d1bcca013f8f7fd5cf02dbbb0cae83cbf1c976e581401#rd) 
 - [2022-05-12-Monorepo-的过去、现在、和未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506762&idx=3&sn=9f18896380698fdc03fe2858087e162a&chksm=f992dd9bcee5548da4023f3f4bf042de9b3ec070cc8c42f47273ab5f87ad1b53f6c0d47bc1d1#rd) 
 - [2022-05-07-自定义webpack-loader实现文件维度条件编译](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506676&idx=2&sn=d34e65a526b544e80e86338bf29437e2&chksm=f992dc25cee55533a4501bde8d750b78f7c4be945d362ce8f1386434d960295e6221a70d6d93#rd) 
@@ -375,12 +375,14 @@
 - [2023-05-24-现代-CSS-解决方案：CSS-原生支持三角函数-|-构建-Amazing-效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495701&idx=1&sn=8779fa1de1a196bc28c78fadb375d336&chksm=ce2693e3f9511af5f0fa602f406a3ec048df0b5a5c0ee5fc5148ec59da249c11ed579499e9ff#rd) 
 - [2023-08-02-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504259&idx=1&sn=e41c00dd53a5f1a52e53cea0be34988c&chksm=cea96682f9deef94b6790bc8372374b0e1c6db7291d82c1e5fca4195edfa044646153b09efd7#rd) 
 - [2023-02-14-ESLint-机制分析与简单插件实践](https://mp.weixin.qq.com/s/RWwIBcYHnv0Omgi8qFCrCw) 
+- [2024-11-27-重磅！Vite-6.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500071&idx=1&sn=0c63d508699d504230f88fc29f1430a6&chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd) 
 - [2024-11-14-npm-创始人再创业，带来-2-个全新前端工具，真香！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500008&idx=1&sn=b1b06e1b228881dd0bb56592e2b061da&chksm=c2b30117f5c48801c0520c1cc31f1f5cb85628d8f59e55c398be022a8a9570b07c69a319cd2e#rd) 
 - [2023-08-21-前端食堂技术周刊第-95-期：Fresh-1.4、Rollup-迁移至-SWC计划、RSC-Devtools、AI-帮你讲论文](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498473&idx=1&sn=eac461bbff6be7226071ab7a7d62dada&chksm=c2b33b16f5c4b2008074199081c82d2fd5731db3655871383584755574bf0a559c8372180dab#rd) 
 - [2023-07-11-前端食堂技术周刊第-90-期：Prettier-3.0、Vite-4.4.0、npm-生态系统核心问题、RSC-组件争议](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498290&idx=1&sn=cf3af1adf4d07e72bbc30016d13a1bf8&chksm=c2b33bcdf5c4b2db83942b84c242f190ae85ce3c08b1081c9df6aea3b990c57d7c6def4eee95#rd) 
 - [2023-06-27-前端食堂技术周刊第-88-期：Svelte4、NestJS-10、State-of-CSS、Vitest-1.0-Roadmap](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498249&idx=1&sn=043ecf8f69614ccf77d4e594b1c6d778&chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd) 
 - [2023-04-24-前端食堂技术周刊第-80-期：Vite-4.3、Node.js-20、TS-5.1-Beta、Windi-CSS-即将落幕](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497918&idx=1&sn=39128bcca251c8ae48f01ad488d6414d&chksm=c2b33941f5c4b057990ec1536bb8ab8978157473fbd4a4220bec3a4190bae253b5569a1505ef#rd) 
 - [2023-01-17-前端食堂技术周刊第-67-期：-2022-State-of-JS、ESLint-2022、pnpm-2022、大淘宝Web端技术](https://mp.weixin.qq.com/s/yoLG2uKs7kheR9t5NLLUdg) 
+- [2024-11-27-Vite-6.0-发布啦！​](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516840&idx=1&sn=8863c0eaf4765d7ca34ae67e1bacda4d&chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd) 
 - [2024-11-15-npm-创始人再创业，全新前端工具来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516778&idx=1&sn=3f39a988c7616e37d5c73c3d95488dd7&chksm=eb07ba13dc7033058f8e04cd9d4396337775c0c14f523b2289ff7f3baa22f51102916ef2c416#rd) 
 - [2024-05-06-深入浅出-Vite5-中依赖预构建](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515732&idx=1&sn=70fb828954c28fedbf722299b1a02687&chksm=eb07862ddc700f3b89b5c5fccf3178187a126e78a0c470feb71f3d7c19601f0b7ae14218e052#rd) 
 - [2024-03-04-试着用-Rspack-迁移-Webpack-项目，该不该冲！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515223&idx=1&sn=245aec2e357f9b5c66e658aafa5d2d8d&chksm=eb07842edc700d38fc060ed7e5c8a5b693984ffb8d549ff6331ab1a6b807baf4b60ad39bc86a#rd) 
