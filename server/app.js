@@ -6,13 +6,13 @@ const handleUpdate = require('./update')
 later.date.localTime()
 later.setInterval(handleUpdate, {
   schedules: [
-    { h: [06], m: [00] },
-    { h: [08], m: [00] },
-    { h: [10], m: [00] },
-    { h: [12], m: [00] },
-    { h: [15], m: [00] },
-    { h: [18], m: [00] },
-    { h: [21], m: [00] },
-    { h: [23], m: [00] },
+    { h: [6], m: [0] },
+    { h: [8], m: [0] },
+    { h: [10], m: [0] },
+    { h: [12], m: [0] },
+    { h: [15], m: [0] },
+    { h: [18], m: [0] },
+    { h: [21], m: [0] },
+    { h: [23], m: [0] },
   ]
 })
