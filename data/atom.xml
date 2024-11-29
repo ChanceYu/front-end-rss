@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-11-29T02:04:18.978Z</updated>
+    <updated>2024-11-29T10:02:39.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[必备！2025 开发 AI 应用 JS 工具库盘点]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500077&amp;idx=1&amp;sn=4722f18688c42ec8aedd414c4a836b5f&amp;chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500077&amp;idx=1&amp;sn=4722f18688c42ec8aedd414c4a836b5f&amp;chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd"/>
+        <updated>2024-11-27T16:00:00.000Z</updated>
+        <published>2024-11-27T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源了！跳槽一定用得上的前端项目源码！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499364&amp;idx=1&amp;sn=7ebd86a2106d48470a3e657e34825644&amp;chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499364&amp;idx=1&amp;sn=7ebd86a2106d48470a3e657e34825644&amp;chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd"/>
         <updated>2024-11-27T16:00:00.000Z</updated>
         <published>2024-11-27T16:00:00.000Z</published>
     </entry>
@@ -111,6 +118,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274276&amp;idx=1&amp;sn=ca3ea247fd4b40bbbd7d5a4dc1932357&amp;chksm=bc15a9d35dc688b26c141bb875fdba823166047a4356035762b9d114bb7e59aa53e0c8397579&amp;scene=0#rd"/>
         <updated>2024-11-26T16:00:00.000Z</updated>
         <published>2024-11-26T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 全面拥抱 AI ！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499348&amp;idx=1&amp;sn=aa32fbad227ad0a9289e32b930a0c044&amp;chksm=ce269da2f95114b45a26be3be1b38ccb49cdb937982ce3c772dffc00971e3ea62c0c948e1bf8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499348&amp;idx=1&amp;sn=aa32fbad227ad0a9289e32b930a0c044&amp;chksm=ce269da2f95114b45a26be3be1b38ccb49cdb937982ce3c772dffc00971e3ea62c0c948e1bf8#rd"/>
+        <updated>2024-11-25T16:00:00.000Z</updated>
+        <published>2024-11-25T16:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[微前端集成优化：让所有子应用体积更小，加载更快]]></title>
@@ -218,6 +232,13 @@
         <published>2024-11-20T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[巧用 CSS 实现高频出现的复杂怪状按钮]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499326&amp;idx=1&amp;sn=a76f45912567b1ce88ba4e024b60f49e&amp;chksm=ce269dc8f95114de3e319912b38333b402fb948f1f0cf8a3cd37be6bf77cfd48db13e40ce876#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499326&amp;idx=1&amp;sn=a76f45912567b1ce88ba4e024b60f49e&amp;chksm=ce269dc8f95114de3e319912b38333b402fb948f1f0cf8a3cd37be6bf77cfd48db13e40ce876#rd"/>
+        <updated>2024-11-19T16:00:00.000Z</updated>
+        <published>2024-11-19T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[80人小团队，限时任务！NYPL如何用Next.js打造世界级数字图书馆？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525470&amp;idx=1&amp;sn=c93183f60d0d825f52476ccf0bf09a31&amp;chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525470&amp;idx=1&amp;sn=c93183f60d0d825f52476ccf0bf09a31&amp;chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd"/>
@@ -302,6 +323,13 @@
         <published>2024-11-13T16:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[State Of CSS 2024 出炉！开发者最喜欢的 CSS 新功能是？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499265&amp;idx=1&amp;sn=5b2840e30ab63c038c7ac63b39f16227&amp;chksm=ce269df7f95114e1bb2c162bc7f374aea2b4651437090cc836f35852e1803851b784dd9f6d81#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499265&amp;idx=1&amp;sn=5b2840e30ab63c038c7ac63b39f16227&amp;chksm=ce269df7f95114e1bb2c162bc7f374aea2b4651437090cc836f35852e1803851b784dd9f6d81#rd"/>
+        <updated>2024-11-13T16:00:00.000Z</updated>
+        <published>2024-11-13T16:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全面解析：从AI原理到模型演进及代码实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650536910&amp;idx=1&amp;sn=bcf4d4d610994835124e6d7b68aed802&amp;chksm=839733d6b4e0bac0da815370a70dcf12080960ffc559255bb45e392054584e9d5479ecd60407#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650536910&amp;idx=1&amp;sn=bcf4d4d610994835124e6d7b68aed802&amp;chksm=839733d6b4e0bac0da815370a70dcf12080960ffc559255bb45e392054584e9d5479ecd60407#rd"/>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525444&amp;idx=1&amp;sn=299e6f11c7cfdbd3cf30eecf2f7c6703&amp;chksm=f952d107ce2558112c5fa4e7a433320360cb76d2b06e9bb9cd8af144751863a63d4b1bb0f396#rd"/>
         <updated>2024-11-06T16:00:00.000Z</updated>
         <published>2024-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSConf is back]]></title>
-        <id>https://javascriptweekly.com/issues/712</id>
-        <link href="https://javascriptweekly.com/issues/712"/>
-        <updated>2024-11-06T16:00:00.000Z</updated>
-        <published>2024-11-06T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running WebAssembly apps inside Node.js]]></title>
-        <id>https://nodeweekly.com/issues/554</id>
-        <link href="https://nodeweekly.com/issues/554"/>
-        <updated>2024-11-04T16:00:00.000Z</updated>
-        <published>2024-11-04T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebAV SDK（Web 视频编辑）V1 发布]]></title>
-        <id>https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/</id>
-        <link href="https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/"/>
-        <updated>2024-10-30T16:00:00.000Z</updated>
-        <published>2024-10-30T16:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixi.js中ColorMatrixFilter自带滤镜效果一览]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/"/>
-        <updated>2024-10-30T16:00:00.000Z</updated>
-        <published>2024-10-30T16:00:00.000Z</published>
     </entry>
 </feed>
