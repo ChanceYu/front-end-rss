@@ -10,6 +10,8 @@
 
 ##
 
+![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)
+
 :alarm_clock: 更新时间: 2024-11-30 23:02:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源

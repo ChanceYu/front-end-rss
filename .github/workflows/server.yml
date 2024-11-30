@@ -1,7 +1,15 @@
-name: server:once
+name: RSS Runner
+
+run-name: RSS Runner ${{ github.run_number }} ${{ inputs.suffix }}
 
 on:
   workflow_dispatch:
+    inputs:
+      suffix:
+        description: 'Input suffix'
+        required: false
+        type: string
+
   schedule:
     - cron: '0 */2 * * *'
     
