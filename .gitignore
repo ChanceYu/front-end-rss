@@ -24,4 +24,5 @@ $RECYCLE.BIN/
 node_modules
 *.js.map
 .vercel
+dist
 server/.env
