@@ -1,0 +1,59 @@
+name: front-end-rss-server
+
+on:
+  # push:
+  workflow_dispatch:
+  schedule:
+    # 国际标准时间 => 北京时间
+    - cron: '0 22 * * *' # 6:00
+    - cron: '0 0 * * *'  # 8:00
+    - cron: '0 2 * * *'  # 10:00
+    - cron: '0 4 * * *'  # 12:00
+    - cron: '0 7 * * *'  # 15:00
+    - cron: '0 10 * * *' # 18:00
+    - cron: '0 13 * * *' # 21:00
+    - cron: '0 15 * * *' # 23:00
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+        
+    - name: Use node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+        cache: 'npm'
+
+    - name: Cache modules
+      id: npm-cache
+      uses: actions/cache@v3
+      with:
+        path: ~/.npm
+        key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-npm-
+
+    - name: Install npm dependencies
+      working-directory: ./server
+      run: |
+        npm install
+
+    - name: Run npm scripts
+      working-directory: ./server
+      run: |
+        npm run update
+
+    - name: Git commit
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git commit -a -m "Add changes"
+
+    - name: Git push
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}

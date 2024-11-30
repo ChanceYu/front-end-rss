@@ -23,6 +23,5 @@ $RECYCLE.BIN/
 
 node_modules
 *.js.map
-package-lock.json
 .vercel
 server/.env

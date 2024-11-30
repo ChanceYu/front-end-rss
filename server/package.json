@@ -20,7 +20,7 @@
   },
   "description": "front-end-rss",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "update": "node ./update.js"
   },
   "author": "ChanceYu",
   "license": "MIT",
