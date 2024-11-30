@@ -62,4 +62,4 @@ jobs:
     - name: Commit all changed files
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        commit_message: updated by runner https://github.com/ChanceYu/front-end-rss/actions/runs/${{ github.run_id }}
+        commit_message: update by action runner https://github.com/ChanceYu/front-end-rss/actions/runs/${{ github.run_id }}
