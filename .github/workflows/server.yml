@@ -22,7 +22,6 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 18.x
-        cache: 'pnpm'
     
     - name: Get pnpm cache directory
       id: pnpm-store-path
