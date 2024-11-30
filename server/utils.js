@@ -1,7 +1,7 @@
 const fs = require('fs-extra')
 const path = require('path')
 const url = require('url')
-const moment = require('moment')
+const moment = require('moment-timezone')
 const chalk = require('chalk')
 const pathToRegexp = require('path-to-regexp')
 const queryString = require('query-string')
@@ -22,7 +22,13 @@ const DETAILS_TEMPLATE_PATH  = path.join(RESP_PATH + '/templates/DETAILS.md')
 
 const tags = fs.readJsonSync(TAGS_PATH)
 
+/**
+ * workflow 运行模式
+ */
+const WORKFLOW = !!process.env.WORKFLOW
+
 module.exports = {
+  WORKFLOW,
   /**
    * 文件路径
    */
@@ -78,10 +84,17 @@ module.exports = {
   },
 
   /**
+   * 格式化当前时间
+   */
+  getNowDate(format) {
+    return moment().tz('Asia/Shanghai').format(format || 'YYYY-MM-DD HH:mm:ss')
+  },
+
+  /**
    * 格式化时间
    */
-  getNowDate() {
-    return moment().format('YYYY-MM-DD HH:mm:ss')
+  formatDate(time, format) {
+    return moment(time).tz('Asia/Shanghai').format(format)
   },
 
   /**

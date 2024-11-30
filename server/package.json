@@ -2,6 +2,10 @@
   "name": "front-end-rss",
   "version": "1.0.0",
   "main": "index.js",
+  "description": "每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看",
+  "scripts": {
+    "once": "node ./once.js"
+  },
   "dependencies": {
     "@octokit/core": "^4.0.5",
     "async": "^2.6.1",
@@ -11,6 +15,7 @@
     "fs-extra": "^10.0.0",
     "later": "^1.2.0",
     "moment": "^2.22.2",
+    "moment-timezone": "^0.5.46",
     "path-to-regexp": "^8.2.0",
     "query-string": "^6.8.1",
     "rss-parser": "^3.4.3",
@@ -18,12 +23,6 @@
     "simple-git": "^3.17.0",
     "underscore": "^1.9.1"
   },
-  "description": "front-end-rss",
-  "scripts": {
-    "update": "node ./update.js"
-  },
-  "author": "ChanceYu",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/ChanceYu/front-end-rss.git"
@@ -31,5 +30,7 @@
   "bugs": {
     "url": "https://github.com/ChanceYu/front-end-rss/issues"
   },
+  "author": "ChanceYu",
+  "license": "MIT",
   "homepage": "https://github.com/ChanceYu/front-end-rss#readme"
 }

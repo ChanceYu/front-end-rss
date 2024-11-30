@@ -13,12 +13,16 @@ async function fetchFeed(rss) {
   try {
     const feed = await parser.parseURL(rss)
     if (feed) {
-      utils.logSuccess('成功 RSS: ' + rss)
+      if (!utils.WORKFLOW) {
+        utils.logSuccess('成功 RSS: ' + rss)
+      }
       return feed
     }
   } catch (e) {}
 
-  utils.logWarn('失败 RSS: ' + rss)
+  if (!utils.WORKFLOW) {
+    utils.logWarn('失败 RSS: ' + rss)
+  }
   return true
 }
 
