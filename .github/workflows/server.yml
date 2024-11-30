@@ -1,6 +1,6 @@
 name: RSS Runner
 
-run-name: RSS Runner ${{ github.run_number }} ${{ inputs.suffix }}
+run-name: 'Runner #${{ github.run_number }} ${{ inputs.suffix }}'
 
 on:
   workflow_dispatch:
