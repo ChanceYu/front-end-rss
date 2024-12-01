@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-01 09:26:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-01 16:23:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -282,6 +282,7 @@
 - [2019-01-12-你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect) 
 - [2018-12-10-NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2024-12-01-Vite-6.0-到底更新了啥玩意啊？？？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501254&idx=1&sn=28d5ed0b572a33898d775be1455e9362&chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd) 
 - [2023-08-14-开发一个babel插件，自动解决前端精度丢失问题！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489975&idx=1&sn=09e734e7d2c0abcea19cbb79a93f2c52&chksm=ce460c26f9318530052e7786bcd75d73d1c03fee9ff084c1821064fd1b5b4e7ed9a3e501c3a8#rd) 
 - [2023-08-07-如何使用Rollup开发一个npm包并发布](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489860&idx=1&sn=bbd1d556051a9157a1a2729e60afac68&chksm=ce460cd5f93185c39f8118658367b473c81aec2b550240b0ecf4621110303908811fa3208b91#rd) 
 - [2023-07-07-带你了解并实践monorepo和pnpm，绝对干货！熬夜总结！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489392&idx=1&sn=00993837208ab1cc86eae2f137de02e5&chksm=ce4602e1f9318bf7529f076d2e94aa183d5c952f5ebe53106631aaa50c1799c15bd756038244#rd) 
@@ -325,6 +326,7 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2024-11-30-Vite封装ts工具库并发布npm包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524327&idx=1&sn=7a74a68ef998ab6cd66bcabc43dad567&chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd) 
 - [2023-11-29-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517840&idx=1&sn=f7149f260c7e02f91e7ff9541496c12d&chksm=f9928041cee50957278dc9b49bab1350a2318d88d87b1a15517802eea1b201e1880d8a81a47f#rd) 
 - [2023-11-18-Vite-5.0-发布了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517629&idx=2&sn=a40004c3017c2a3300b76818fa81e455&chksm=f992836ccee50a7af61f98e37ca91da4289942205d24a8605f92101a59701a99a8b67bd4214f#rd) 
 - [2023-11-01-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516814&idx=1&sn=45f8d7de379a30976332f58e56cbe608&chksm=f992845fcee50d4993c5568c58c6499bccf46efb5739fe179b1218df9701ac01d9effbd302da#rd) 
@@ -352,8 +354,8 @@
 - [2022-08-26-精读《-pnpm》篇，还没用它的在等什么？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510353&idx=2&sn=f51f5da0d6740a8863e586748f9cb8e8&chksm=f992af80cee52696cb8c8618338cda6f8a59ea4fb313cda0eced4d984933f9f1cb645717b818#rd) 
 - [2022-08-22-为什么大厂不能直接用-Vite？Bundle-less-的思考和实践分享](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510306&idx=1&sn=7654a39698d3d9c1d2fc47d6f1cb498c&chksm=f992aff3cee526e5b9ce5073b59c808ac77ed81bc4a64b80b699bf0fbc2fe63add6980081659#rd) 
 - [2022-08-02-聊聊最近对前端构建工具的一些理解](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510136&idx=1&sn=bf3c1aa30961ddf854a6cea882045df8&chksm=f992aea9cee527bfba7da0b29420eb35842ad1ca2ce9736471b2a4354ae5e7dd13859b9dc2d4#rd) 
-- [2022-07-27-从-npm-切换到-pnpm，真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=1&sn=17ad329219a71091e6b617529c3286d2&chksm=f992a125cee52833599eae8879bc05d2d264420e1c57b0ecdcb0decc8b701b5f1d86d610d74e#rd) 
 - [2022-07-27-从-npm-切换到-pnpm，真香！](https://mp.weixin.qq.com/s/9WKKzMpsKU23_H2k6uRPNQ) 
+- [2022-07-27-从-npm-切换到-pnpm，真香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=1&sn=17ad329219a71091e6b617529c3286d2&chksm=f992a125cee52833599eae8879bc05d2d264420e1c57b0ecdcb0decc8b701b5f1d86d610d74e#rd) 
 - [2022-06-13-前端工程化：保姆级教学-Jenkins-部署前端项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247508047&idx=1&sn=16b41e744bb6a42fbafd55e75f0f2a8b&chksm=f992a69ecee52f8811c54cc2bcf3310d1bcca013f8f7fd5cf02dbbb0cae83cbf1c976e581401#rd) 
 - [2022-05-12-Monorepo-的过去、现在、和未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506762&idx=3&sn=9f18896380698fdc03fe2858087e162a&chksm=f992dd9bcee5548da4023f3f4bf042de9b3ec070cc8c42f47273ab5f87ad1b53f6c0d47bc1d1#rd) 
 - [2022-05-07-自定义webpack-loader实现文件维度条件编译](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506676&idx=2&sn=d34e65a526b544e80e86338bf29437e2&chksm=f992dc25cee55533a4501bde8d750b78f7c4be945d362ce8f1386434d960295e6221a70d6d93#rd) 
