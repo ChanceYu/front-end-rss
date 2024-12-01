@@ -23,13 +23,12 @@ let newData = null
 /**
  * 更新 git 仓库
  */
-function handleUpdate() {
-  if (utils.WORKFLOW) {
-    handleFeed()
-  } else {
+async function handleUpdate() {
+  if (!utils.WORKFLOW) {
     utils.log('开始更新抓取')
-    git.pull().exec(handleFeed)
+    await git.pull()
   }
+  handleFeed()
 }
 
 /**
@@ -98,7 +97,7 @@ function handleFeed() {
     })())
   }))
 
-  Async.series(tasks, async () => {
+  Async.parallelLimit(tasks, 5, async () => {
     if (newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)

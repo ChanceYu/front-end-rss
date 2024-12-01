@@ -27,6 +27,8 @@ const tags = fs.readJsonSync(TAGS_PATH)
  */
 const WORKFLOW = !!process.env.WORKFLOW
 
+console.log('WORKFLOW:', WORKFLOW)
+
 module.exports = {
   WORKFLOW,
   /**
