@@ -36,8 +36,6 @@ function handleUpdate() {
  * 提交修改到 git 仓库
  */
 function handleCommit() {
-  utils.log('完成抓取，即将上传')
-
   git.add('./*')
     .commit('更新: ' + newData.titles.join('、'))
     .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
@@ -105,6 +103,7 @@ function handleFeed() {
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
       await createFeed(linksJson)
+      utils.log('完成抓取，即将上传')
       if (!utils.WORKFLOW) {
         handleCommit()
       }
