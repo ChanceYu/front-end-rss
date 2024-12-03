@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-03T01:23:58.970Z</updated>
+    <updated>2024-12-03T06:26:58.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274352&amp;idx=1&amp;sn=bacf8d5bbcfff58963684e7b1a3119ad&amp;chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&amp;scene=0#rd"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 如何模拟“真实”的进度条？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490108&amp;idx=1&amp;sn=0bec47995422abff5453d6bb3d984c64&amp;chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490108&amp;idx=1&amp;sn=0bec47995422abff5453d6bb3d984c64&amp;chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd"/>
+        <updated>2024-12-02T00:00:00.000Z</updated>
+        <published>2024-12-02T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3424期】Vite 6.0 发布了！]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？]]></title>
         <id>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html</id>
         <link href="http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html"/>
-        <updated>2024-11-15T00:00:00.000Z</updated>
-        <published>2024-11-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm 创始人再创业，全新前端工具来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516778&amp;idx=1&amp;sn=3f39a988c7616e37d5c73c3d95488dd7&amp;chksm=eb07ba13dc7033058f8e04cd9d4396337775c0c14f523b2289ff7f3baa22f51102916ef2c416#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516778&amp;idx=1&amp;sn=3f39a988c7616e37d5c73c3d95488dd7&amp;chksm=eb07ba13dc7033058f8e04cd9d4396337775c0c14f523b2289ff7f3baa22f51102916ef2c416#rd"/>
         <updated>2024-11-15T00:00:00.000Z</updated>
         <published>2024-11-15T00:00:00.000Z</published>
     </entry>
