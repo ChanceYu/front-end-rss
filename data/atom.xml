@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-03T06:26:58.355Z</updated>
+    <updated>2024-12-03T16:22:50.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[面试官：来谈谈Vue3的provide和inject实现多级传递的原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516854&amp;idx=1&amp;sn=9b864c23b1950063a17d04404fdb3bc6&amp;chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516854&amp;idx=1&amp;sn=9b864c23b1950063a17d04404fdb3bc6&amp;chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd"/>
+        <updated>2024-12-03T00:00:00.000Z</updated>
+        <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3425期】JavaScript 高阶技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274352&amp;idx=1&amp;sn=bacf8d5bbcfff58963684e7b1a3119ad&amp;chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274352&amp;idx=1&amp;sn=bacf8d5bbcfff58963684e7b1a3119ad&amp;chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&amp;scene=0#rd"/>
+        <updated>2024-12-03T00:00:00.000Z</updated>
+        <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A full-fledged canvas for Node.js apps]]></title>
+        <id>https://nodeweekly.com/issues/558</id>
+        <link href="https://nodeweekly.com/issues/558"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516802&amp;idx=1&amp;sn=1392b067ef3823ec0ed57930d61f94cc&amp;chksm=eb07bafbdc7033edf74d49110849e0f705353b9962fd1abc66bee29926ac4e8ea9c89f20de30#rd"/>
         <updated>2024-11-18T00:00:00.000Z</updated>
         <published>2024-11-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS文本选区变化selectionchange事件实践小记]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/"/>
-        <updated>2024-11-17T00:00:00.000Z</updated>
-        <published>2024-11-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 325 期）：VS Code 编辑器的下一站是 Zed？]]></title>
-        <id>http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2024/11/weekly-issue-325.html"/>
-        <updated>2024-11-15T00:00:00.000Z</updated>
-        <published>2024-11-15T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-03 14:26:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 00:22:49，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -28,8 +28,8 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) ![](/assets/new.png)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
@@ -64,7 +65,6 @@
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
-- [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -417,6 +417,7 @@
 </summary>
 
 
+- [2024-12-03-面试官：来谈谈Vue3的provide和inject实现多级传递的原理](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516854&idx=1&sn=9b864c23b1950063a17d04404fdb3bc6&chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd) ![](/assets/new.png)  
 - [2024-11-29-Rust赋能前端：-纯血前端将-Table-导出-Excel](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516848&idx=1&sn=44ceaed7ea2de389ddec46514862d712&chksm=eb07bac9dc7033df9a771f3b202ef05478976370f8c1cabe32756b8c90270aa69c27bd9b4c71#rd)  
 - [2024-11-27-Vite-6.0-发布啦！​](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516840&idx=1&sn=8863c0eaf4765d7ca34ae67e1bacda4d&chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd)  
 - [2024-11-25-Vue：我们将成为最快的响应式框架！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516812&idx=1&sn=a5821e231f22880fa4fda87f6483fd71&chksm=eb07baf5dc7033e32c561197db7099bcfe66f5d841290b081223415f5236314fcee321bc189f#rd)  
@@ -436,7 +437,6 @@
 - [2024-04-29-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515724&idx=1&sn=0c92a291e9ea46091cf1ff8b3a137084&chksm=eb078635dc700f23cb82536365d202a4b8cc266366e2d7dddee796d3c308408c8b074e2f3130#rd)  
 - [2024-04-28-Module-Federation-2.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515711&idx=1&sn=42c32859ecaf3e991aa9a5dd5fdbdccb&chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd)  
 - [2024-04-26-写了五年的后台管理，每次面试前就会头疼……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515709&idx=1&sn=2f92886149f3f940a2effecf66407bcc&chksm=eb078644dc700f52d4f307d905ea1e48c69ec57363c421419f0623b9e9d5360187a1cdab2135#rd)  
-- [2024-04-25-从-0-到-1-实现一个前端全链路定位方案！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515704&idx=1&sn=0616ac3e6335f319a2aeb03e2e495518&chksm=eb078641dc700f5701e86d4e1fe3f54371ff33d96834d0c36c12559e7f588b1598f713050d1d#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -448,7 +448,7 @@
 </summary>
 
 
-- [2024-12-02-CSS-如何模拟“真实”的进度条？](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490108&idx=1&sn=0bec47995422abff5453d6bb3d984c64&chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd) ![](/assets/new.png)  
+- [2024-12-02-CSS-如何模拟“真实”的进度条？](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490108&idx=1&sn=0bec47995422abff5453d6bb3d984c64&chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd)  
 - [2024-09-27-纯-CSS-实现带tooltip的动态进度条](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490091&idx=1&sn=d6713c1e41823117aa7f88e071e8f566&chksm=97c679e4a0b1f0f2bed77daf544380ec9b15efe7e20a5024cdb1a491f01743e32bd6476b2eff#rd)  
 - [2024-09-23-CSS-现在终于支持高度-auto-过渡动画了](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490084&idx=1&sn=50025e590a4103e9dc30ea2fa5d7b355&chksm=97c679eba0b1f0fd4490df7d0557af2560ba0fe9f6c09883a1729da78358fd3f5df15e86dfa9#rd)  
 - [2024-09-18-CSS-实现带tooltip的slider](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490073&idx=1&sn=5f74919f3df24107c02faf4652daeb0b&chksm=97c679d6a0b1f0c045af15f70cf8afbbd869d31401dafd6d6c60d98bd76b44016db8f1921544#rd)  
