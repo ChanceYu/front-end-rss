@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-04T14:17:23.344Z</updated>
+    <updated>2024-12-04T16:24:18.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[哇哦，font-palette支持动画和palette-mix()混合函数了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/"/>
+        <updated>2024-12-04T00:00:00.000Z</updated>
+        <published>2024-12-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播间智能化升级：基于LLM的学习与分析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537275&amp;idx=1&amp;sn=eb1b14cb2f8568df15442111ea675320&amp;chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[重磅！Chrome 被强制出售？谷歌或将抛弃 ChromeOS 全面转向 Android 系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621634&amp;idx=2&amp;sn=6fcfe59a7db56576faada82d6ea241d8&amp;chksm=80225ec3b755d7d58b81492dfe997e2781f2b94a506a7f0cd174c11e6d54b3cd7b85a964e850#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621634&amp;idx=2&amp;sn=6fcfe59a7db56576faada82d6ea241d8&amp;chksm=80225ec3b755d7d58b81492dfe997e2781f2b94a506a7f0cd174c11e6d54b3cd7b85a964e850#rd"/>
-        <updated>2024-11-25T00:00:00.000Z</updated>
-        <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3422期】字体性能优化终极指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274260&amp;idx=1&amp;sn=02eeed90e4a91745f63d13215773b425&amp;chksm=bc4fbf67d7c8bb09d0a95d606f75cfbf45fc964ff198d96abbea98abff50feded9328197bb74&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274260&amp;idx=1&amp;sn=02eeed90e4a91745f63d13215773b425&amp;chksm=bc4fbf67d7c8bb09d0a95d606f75cfbf45fc964ff198d96abbea98abff50feded9328197bb74&amp;scene=0#rd"/>
         <updated>2024-11-25T00:00:00.000Z</updated>
         <published>2024-11-25T00:00:00.000Z</published>
     </entry>
