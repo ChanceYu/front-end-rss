@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-04 11:03:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 14:27:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -545,6 +545,7 @@
 - [2022-01-08-可能是最详细的React组件库搭建总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=2&sn=de5a48b9ed62ee4de5b214ee48190621&chksm=87c42154b0b3a842d01b72b0efec0d5bb5c73a11472a4fb01798470e3db4d4297db0f757f072#rd) 
 - [2022-01-07-译-React-Redux-完全指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=3&sn=8ea4f2b343c2e44a5f9b304ba909c495&chksm=87c42153b0b3a8457b126a8d191c31c0a6c67e8e56d1e14bb6cc3e27c70193782e019c206f7c#rd) 
 - [2021-12-31-React-Hooks-深入系列](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060771&idx=3&sn=c2ad08efa1e4aea2937d6f74c404746f&chksm=87c42133b0b3a8251a2d4a256708606768a17733d40458db385747e66a511542e7928f8b1e66#rd) 
+- [2024-12-04-三种不同架构中的-React-Suspense](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524455&idx=2&sn=6330ddfba7a265f4bd29485abd196fab&chksm=f99266b6cee5efa07d22d701a2635f2dc792cffde630470bcb683ab0c13b91ef81561d4740da#rd) 
 - [2023-12-07-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517928&idx=2&sn=0dda80a476406f07b3746607d6d3a086&chksm=f9928039cee5092f06f72ebd2f06f0e198e21435883510e611c4eff922dff438ee554f65dab5#rd) 
 - [2023-10-06-React-和-Vue-全方位对比总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516529&idx=1&sn=1157f6ced87cb0d159bf92884478ff5b&chksm=f99287a0cee50eb6d06069b22e8faa8375e6593bc7fc17712548dd1b5433cc50301418d20ba4#rd) 
 - [2023-09-10-React-还是-Vue？我对-Web-前端现状的看法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516116&idx=2&sn=00081aaca6d64ecc996873d398eb0f49&chksm=f992b905cee53013f91085c063854f3302dad9659bc261942c68b17179d03c58c19c8e15abcf#rd) 

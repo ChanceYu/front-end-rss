@@ -12,18 +12,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-04 11:03:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 14:27:40，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -107,8 +107,8 @@
 </summary>
 
 
-- [2024-12-04-【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd) ![](/assets/new.png)  
-- [2024-12-04-【图书】悟道领域驱动设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=2&sn=d50459f9f4be5a4a0138ebb6e7cf70ee&chksm=bcd942a4877ac005ff0c4d44803095ca3206c0e1784b2f968fa97a88db3f8f8d11edfe07a687&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-04-【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd)  
+- [2024-12-04-【图书】悟道领域驱动设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=2&sn=d50459f9f4be5a4a0138ebb6e7cf70ee&chksm=bcd942a4877ac005ff0c4d44803095ca3206c0e1784b2f968fa97a88db3f8f8d11edfe07a687&scene=0#rd)  
 - [2024-12-03-【图书】把自己产品化：踏上发现真我的英雄之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274352&idx=2&sn=2ea7f21966c53796e448e349644c5f64&chksm=bcf1019b03d6725f4d7a084661f910d9850aaf06695642fc9e1160e00d9f317d266118b7149d&scene=0#rd)  
 - [2024-12-03-【第3425期】JavaScript-高阶技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274352&idx=1&sn=bacf8d5bbcfff58963684e7b1a3119ad&chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&scene=0#rd)  
 - [2024-12-02-【第3424期】Vite-6.0-发布了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274342&idx=1&sn=69e7efe4a66ac4de05d250a2a6f71063&chksm=bcafb594dbfca83c7edc94228b2b1f680ce8dc0b22c25f5ca6d0d71d7846ee472edf9925be12&scene=0#rd)  
@@ -262,26 +262,26 @@
 </summary>
 
 
-- [2024-11-30-Vite封装ts工具库并发布npm包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524327&idx=1&sn=7a74a68ef998ab6cd66bcabc43dad567&chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd)  
+- [2024-12-04-三种不同架构中的-React-Suspense](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524455&idx=2&sn=6330ddfba7a265f4bd29485abd196fab&chksm=f99266b6cee5efa07d22d701a2635f2dc792cffde630470bcb683ab0c13b91ef81561d4740da#rd) ![](/assets/new.png)  
+- [2024-12-04-干货-|-能效变革，携程酒店前端BFF实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524455&idx=1&sn=b4b3ecd01a4f812f040ab49c4430d71a&chksm=f99266b6cee5efa0bf881e2c1ccd165db10fa1da9b44702050e9c6f6031975a65d0d6941a385#rd) ![](/assets/new.png)  
+- [2024-12-03-前端体验优化之渐进式图片](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524408&idx=2&sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd) ![](/assets/new.png)  
+- [2024-12-03-利用Chrome浏览器使用Overrides调试线上代码，真是太方便啦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524408&idx=1&sn=c7b0b7a47b7b90d3846e089d446ac70b&chksm=f99266e9cee5efffd5ccfc9ed24406ac6950c5248cde301348a3f257d4287f8b22a05dd14c49#rd) ![](/assets/new.png)  
+- [2024-12-02-盘点CSS文本两端对齐的N种方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524396&idx=2&sn=369253654f6fff1d313ea242c35fb647&chksm=f99266fdcee5efeb505170f6aed8a2e2ca6d4bf37cbe34ea46decda6ee3a04cedbc006b2e195#rd) ![](/assets/new.png)  
+- [2024-12-02-Node+Websoket极速构建一个私有ChatGPT！AI套壳居然如此简单！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524396&idx=1&sn=b28aeb6e59630d0e2a616defc0628479&chksm=f99266fdcee5efebb16634bf6ba4bb12ac7b9da8fc8faf1d21da6d8fa9a048decb241085087d#rd) ![](/assets/new.png)  
+- [2024-12-01-Vite-6.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524345&idx=2&sn=1dcce48a6b9c281c1b0928156f63c21b&chksm=f9929928cee5103e1aee433ec18eab5a026552a1ae9ce7fee09f46f85ea4f72f24c430104746#rd) ![](/assets/new.png)  
+- [2024-12-01-10年前端的一些开发经验总结](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524345&idx=1&sn=bfd12982ecda1bfae4b6ecd9d32be42c&chksm=f9929928cee5103e4c8b0d3e609328c6cf6e0615de75365efc9bfed2535b28b981d2a1dadbc7#rd) ![](/assets/new.png)  
 - [2024-11-30-Deno-起诉-Oracle！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524327&idx=2&sn=5af3099fc6c18232d1a06294da85f215&chksm=f9929936cee51020eecc8a3b3051b56f35fc67ba1c92c5ac66f33e1c9f5a63ab602d21e07931#rd)  
-- [2024-11-29-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524313&idx=1&sn=ecceab36e70758a9a707e2fe5c862252&chksm=f9929908cee5101ef645ab4ec9fd49527672aa1c3d12e42a11cac972ca702cb4b077f5b554bb#rd)  
+- [2024-11-30-Vite封装ts工具库并发布npm包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524327&idx=1&sn=7a74a68ef998ab6cd66bcabc43dad567&chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd)  
 - [2024-11-29-大文件分片上传和分片下载请看这篇！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524313&idx=2&sn=73deb56ee1c0c798ae302d1ce9c0b834&chksm=f9929908cee5101ea1fdeab88ae01f6f8a536dc87be60ef78d4ccee7f4ff9cb60f6b9e001fa3#rd)  
-- [2024-11-28-首个-Tailwind-CSS-v4.0-Beta-版发布，性能至上，专为现代-Web-设计！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524303&idx=2&sn=69df2d39605ff655894e3ac189acf5dc&chksm=f992991ecee51008dd008f730fc5bad8ed90846134f464738d52fd7eb9a443afc68ae4d0dc05#rd)  
+- [2024-11-29-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524313&idx=1&sn=ecceab36e70758a9a707e2fe5c862252&chksm=f9929908cee5101ef645ab4ec9fd49527672aa1c3d12e42a11cac972ca702cb4b077f5b554bb#rd)  
 - [2024-11-28-如何使用流式渲染技术提升用户体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524303&idx=1&sn=0188766dfe875a55d2236a292e3ebf98&chksm=f992991ecee510084072723b66eeef65ae0862ac40842ff8b0aca90cfb88bc1e941becce385a#rd)  
-- [2024-11-27-前端要想学好-NodeJs，这些性能监控指标可不能不会！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524286&idx=1&sn=1f35aad1221b84f51e5c9d9c7b69c715&chksm=f992996fcee510796dd5c138fedb8d985824aa550c74d2f2a996a7b49c2b9878ca266f9620fb#rd)  
+- [2024-11-28-首个-Tailwind-CSS-v4.0-Beta-版发布，性能至上，专为现代-Web-设计！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524303&idx=2&sn=69df2d39605ff655894e3ac189acf5dc&chksm=f992991ecee51008dd008f730fc5bad8ed90846134f464738d52fd7eb9a443afc68ae4d0dc05#rd)  
 - [2024-11-27-动图展示-10-大-Git-命令，让你轻松掌握Git](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524286&idx=2&sn=7455918ea643dcf3265deefc37496566&chksm=f992996fcee51079f19d6c5224cde9ef0bef51086f186135dc3bcc28c479fedae52a4fa2c30e#rd)  
-- [2024-11-26-C端增长业务中的动效探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524242&idx=2&sn=0511309b186f47b8ba7067e497d9a921&chksm=f9929943cee510557a5271ff1687b6d917abe07b1cf28bb748afcfbce0e7a8d7a3416442ab6d#rd)  
+- [2024-11-27-前端要想学好-NodeJs，这些性能监控指标可不能不会！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524286&idx=1&sn=1f35aad1221b84f51e5c9d9c7b69c715&chksm=f992996fcee510796dd5c138fedb8d985824aa550c74d2f2a996a7b49c2b9878ca266f9620fb#rd)  
 - [2024-11-26-微前端集成优化：让所有子应用体积更小，加载更快](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524242&idx=1&sn=5d3f2b22e0d1885b53fa1d5dcabc5063&chksm=f9929943cee51055c9f7d3be21cc936295aa2f3175e90583b846da433870a426c6c7531be394#rd)  
-- [2024-11-25-原来月薪30K的前端简历长这样（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524187&idx=1&sn=7cdf32b3c32c770246d295165b9dea2a&chksm=f992998acee5109ca81a501ca6ea129f4d9f320d4433ac4bae2f647f9a703729df9280c51f56#rd)  
+- [2024-11-26-C端增长业务中的动效探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524242&idx=2&sn=0511309b186f47b8ba7067e497d9a921&chksm=f9929943cee510557a5271ff1687b6d917abe07b1cf28bb748afcfbce0e7a8d7a3416442ab6d#rd)  
 - [2024-11-25-什么？LocalStorage-也能被监听？为什么我试了却不行？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524187&idx=2&sn=87c87132295bae9db0645b9883708406&chksm=f992998acee5109c4e471ee2b4c60eacef3694286a4b00a98a08f264e552742fc5637a3c575c#rd)  
-- [2024-11-24-领域驱动设计DDD在B端营销系统的实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524186&idx=2&sn=2e1b548a9cd56b88b3a9d9f04184e959&chksm=f992998bcee5109d8f7596b9e7db88d81a2e67eed5688df79c18cfd7c9cf2b6fc9dc2742c2bc#rd)  
-- [2024-11-24-离谱，split方法的设计缺陷居然导致了生产bug！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524186&idx=1&sn=bbfa6be3f12795e104227caf209cd3e8&chksm=f992998bcee5109db98a259e725d951eda3d7bbf2391d27f88572d762e7a7d8b07e146823460#rd)  
-- [2024-11-23-老板：给你20天，写一个可拖拽动态表单低代码生成器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524109&idx=1&sn=27154b55ef3cc8811e4cca50142de52a&chksm=f99299dccee510caae93d5ab45b6c57c05b74c6b0740692fa6ebe6935617ea158b73811ec15b#rd)  
-- [2024-11-22-从新人到核心业务负责人：字节一周年成长全记录](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524076&idx=1&sn=5a3c4c8f1e7e4fc17fae07cba7347500&chksm=f992983dcee5112bfa65ab51544945e0db505d98553703b6f3cbba26a8bff4225a330780f325#rd)  
-- [2023-12-12-一把糖。](https://mp.weixin.qq.com/s?__biz=MzUxMTQ4MTk5MA==&mid=2247566379&idx=1&sn=373b55cd88fd709f9630827018f25ad5&chksm=f97085c2ce070cd4b6ee48f2a0a601a3c5daa1af594d63579a91910057a23319ed99f5a40e81#rd)  
-- [2023-12-12-【全名师阵容，开课啦】2024省考行测高分计划（理论基础+刷题冲刺）​](https://mp.weixin.qq.com/s?__biz=MzU3OTcyMDE1NA==&mid=2247501078&idx=2&sn=f17e6022a4da1027046c32798ddf8d1c&chksm=fd6343a3ca14cab509044588b372ddc1296354649cacac4bae66d5d2e8d5a7037de150e26ab4#rd)  
-- [2023-12-07-前端架构思考，Vue-or-React？领域设计、文件结构、数据管理、主题替换](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517928&idx=2&sn=0dda80a476406f07b3746607d6d3a086&chksm=f9928039cee5092f06f72ebd2f06f0e198e21435883510e611c4eff922dff438ee554f65dab5#rd)  
-- [2023-12-07-最近，前端岗位爆了](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517928&idx=1&sn=359b2b68d63a044ae16a296ff6af7449&chksm=f9928039cee5092fda8935aae6c1f12d3a3e216c1e5d9c70ee034e50a2b1ba3e84ac425b5df2#rd)  
+- [2024-11-25-原来月薪30K的前端简历长这样（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524187&idx=1&sn=7cdf32b3c32c770246d295165b9dea2a&chksm=f992998acee5109ca81a501ca6ea129f4d9f320d4433ac4bae2f647f9a703729df9280c51f56#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
