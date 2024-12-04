@@ -19,16 +19,9 @@
     <script>
       var _hmt = _hmt || [];
       (function() {
-        var key = "";
-        var hostname = window.location.hostname;
-        if (hostname === "fed.chanceyu.com") {
-            key = "4243ffc46a669f4d8ad72e24bcc5cf5a";
-        } else if (hostname === "front-end-rss.vercel.app") {
-            key = "c1691b20ca8243f97d7ec1106dad32a0";
-        }
-        if (key) {
+        if (window.location.hostname === "fed.chanceyu.com") {
           var hm = document.createElement("script");
-          hm.src = "https://hm.baidu.com/hm.js?" + key;
+          hm.src = "https://hm.baidu.com/hm.js?4243ffc46a669f4d8ad72e24bcc5cf5a";
           var s = document.getElementsByTagName("script")[0];
           s.parentNode.insertBefore(hm, s);
         }
