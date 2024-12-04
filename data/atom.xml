@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-04T10:20:21.345Z</updated>
+    <updated>2024-12-04T14:17:23.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播间智能化升级：基于LLM的学习与分析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537275&amp;idx=1&amp;sn=eb1b14cb2f8568df15442111ea675320&amp;chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537275&amp;idx=1&amp;sn=eb1b14cb2f8568df15442111ea675320&amp;chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd"/>
+        <updated>2024-12-04T00:00:00.000Z</updated>
+        <published>2024-12-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三种不同架构中的 React Suspense]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524455&amp;idx=2&amp;sn=6330ddfba7a265f4bd29485abd196fab&amp;chksm=f99266b6cee5efa07d22d701a2635f2dc792cffde630470bcb683ab0c13b91ef81561d4740da#rd</id>
@@ -76,6 +83,13 @@
         <link href="https://nodeweekly.com/issues/558"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会员场景端快照与ER缓存优化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537256&amp;idx=1&amp;sn=ea26df1a45265daaf11b1812595ae7ac&amp;chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537256&amp;idx=1&amp;sn=ea26df1a45265daaf11b1812595ae7ac&amp;chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd"/>
+        <updated>2024-12-02T00:00:00.000Z</updated>
+        <published>2024-12-02T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS 如何模拟“真实”的进度条？]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274260&amp;idx=1&amp;sn=02eeed90e4a91745f63d13215773b425&amp;chksm=bc4fbf67d7c8bb09d0a95d606f75cfbf45fc964ff198d96abbea98abff50feded9328197bb74&amp;scene=0#rd"/>
         <updated>2024-11-25T00:00:00.000Z</updated>
         <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】JavaScript 的 Temporal 提案将如何改变日期/时间函数]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274256&amp;idx=1&amp;sn=d5d90445e5e270459f8a5f5f295c87b3&amp;chksm=bcddb296ae8273cc90a963969831845e2ad508963bf23f8f535a51ce5062b74257a52e9396a5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274256&amp;idx=1&amp;sn=d5d90445e5e270459f8a5f5f295c87b3&amp;chksm=bcddb296ae8273cc90a963969831845e2ad508963bf23f8f535a51ce5062b74257a52e9396a5&amp;scene=0#rd"/>
-        <updated>2024-11-24T00:00:00.000Z</updated>
-        <published>2024-11-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[老板：给你20天，写一个可拖拽动态表单低代码生成器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524109&amp;idx=1&amp;sn=27154b55ef3cc8811e4cca50142de52a&amp;chksm=f99299dccee510caae93d5ab45b6c57c05b74c6b0740692fa6ebe6935617ea158b73811ec15b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524109&amp;idx=1&amp;sn=27154b55ef3cc8811e4cca50142de52a&amp;chksm=f99299dccee510caae93d5ab45b6c57c05b74c6b0740692fa6ebe6935617ea158b73811ec15b#rd"/>
-        <updated>2024-11-23T00:00:00.000Z</updated>
-        <published>2024-11-23T00:00:00.000Z</published>
     </entry>
 </feed>

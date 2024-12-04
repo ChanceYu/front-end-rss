@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-04 18:20:21，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 22:17:23，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -20,17 +20,17 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
-- [iCSS前端趣闻](#icss前端趣闻)![](/assets/dot.png)   
+- [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -169,7 +169,7 @@
 </summary>
 
 
-- [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd) ![](/assets/new.png)  
+- [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd)  
 - [2024-11-26-Chrome-被强制出售？谷歌或将抛弃-ChromeOS-全面转向-Android-系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525486&idx=1&sn=6e3e983ed6624a8c97cb10d5e15aa6de&chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd)  
 - [2024-11-20-80人小团队，限时任务！NYPL如何用Next.js打造世界级数字图书馆？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525470&idx=1&sn=c93183f60d0d825f52476ccf0bf09a31&chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd)  
 - [2024-11-13-Shopify将应用迁移到React-Native，跨平台代码达到86%，旧代码减少180万行](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525458&idx=1&sn=8338391e78da5b7849ae3807613f8148&chksm=f952d111ce2558078c060be5a76d9a8a8d0c3a84805a4c30295d76d5609b2d14434d5baecb0a#rd)  
@@ -293,7 +293,7 @@
 </summary>
 
 
-- [2024-12-03-CSS-如何模拟“真实”的进度条？](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499370&idx=1&sn=0bfc88a88808907c415b505a64685838&chksm=ce269d9cf951148a1089f808f2427e07922b0c60cdd80ee9bcad8b99a2129c54de283bd57a2e#rd) ![](/assets/new.png)  
+- [2024-12-03-CSS-如何模拟“真实”的进度条？](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499370&idx=1&sn=0bfc88a88808907c415b505a64685838&chksm=ce269d9cf951148a1089f808f2427e07922b0c60cdd80ee9bcad8b99a2129c54de283bd57a2e#rd)  
 - [2024-11-28-开源了！跳槽一定用得上的前端项目源码！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499364&idx=1&sn=7ebd86a2106d48470a3e657e34825644&chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd)  
 - [2024-11-26-Chrome-全面拥抱-AI-！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499348&idx=1&sn=aa32fbad227ad0a9289e32b930a0c044&chksm=ce269da2f95114b45a26be3be1b38ccb49cdb937982ce3c772dffc00971e3ea62c0c948e1bf8#rd)  
 - [2024-11-20-巧用-CSS-实现高频出现的复杂怪状按钮](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499326&idx=1&sn=a76f45912567b1ce88ba4e024b60f49e&chksm=ce269dc8f95114de3e319912b38333b402fb948f1f0cf8a3cd37be6bf77cfd48db13e40ce876#rd)  
@@ -417,6 +417,7 @@
 </summary>
 
 
+- [2024-12-04-10s-搭建一个前端新项目，就这么简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516863&idx=1&sn=3cda6c301ea457dcec46b74dce38ea6c&chksm=eb07bac6dc7033d0c5ed866e6d168a787ba3d074582c23a5290ff7fa0eb2f8af56a9bade7340#rd) ![](/assets/new.png)  
 - [2024-12-03-面试官：来谈谈Vue3的provide和inject实现多级传递的原理](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516854&idx=1&sn=9b864c23b1950063a17d04404fdb3bc6&chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd)  
 - [2024-11-29-Rust赋能前端：-纯血前端将-Table-导出-Excel](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516848&idx=1&sn=44ceaed7ea2de389ddec46514862d712&chksm=eb07bac9dc7033df9a771f3b202ef05478976370f8c1cabe32756b8c90270aa69c27bd9b4c71#rd)  
 - [2024-11-27-Vite-6.0-发布啦！​](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516840&idx=1&sn=8863c0eaf4765d7ca34ae67e1bacda4d&chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd)  
@@ -436,7 +437,6 @@
 - [2024-04-30-一个Level-0富文本编辑器的进化历程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515726&idx=1&sn=8ed649ee69dc38031fbb4ca274384fcf&chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd)  
 - [2024-04-29-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515724&idx=1&sn=0c92a291e9ea46091cf1ff8b3a137084&chksm=eb078635dc700f23cb82536365d202a4b8cc266366e2d7dddee796d3c308408c8b074e2f3130#rd)  
 - [2024-04-28-Module-Federation-2.0-正式发布！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515711&idx=1&sn=42c32859ecaf3e991aa9a5dd5fdbdccb&chksm=eb078646dc700f5027bfb510e36e00755ad1d71d37dfc5548374d34e5299432130d2e6462f6a#rd)  
-- [2024-04-26-写了五年的后台管理，每次面试前就会头疼……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515709&idx=1&sn=2f92886149f3f940a2effecf66407bcc&chksm=eb078644dc700f52d4f307d905ea1e48c69ec57363c421419f0623b9e9d5360187a1cdab2135#rd)  
 - [......【查看更多】......](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -479,6 +479,8 @@
 </summary>
 
 
+- [2024-12-04-淘宝直播间智能化升级：基于LLM的学习与分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537275&idx=1&sn=eb1b14cb2f8568df15442111ea675320&chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd) ![](/assets/new.png)  
+- [2024-12-02-会员场景端快照与ER缓存优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537256&idx=1&sn=ea26df1a45265daaf11b1812595ae7ac&chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd) ![](/assets/new.png)  
 - [2024-11-29-搭建业务的性能优化指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537238&idx=1&sn=8e57dca84c4655fc900aa7a2b15f8cab&chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd)  
 - [2024-11-27-NeurIPS-2024-Spotlight-|-一种高可控细粒度多参考图的人脸面部合成方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537209&idx=1&sn=6d968e3c6a6bd86a0a86814c778abad4&chksm=839734e1b4e0bdf7b6d8134f16693576150db07909f8997112b1dc6f99fe5e9964fa3f958dc6#rd)  
 - [2024-11-25-Open-Set目标检测算法的原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537172&idx=1&sn=33bbda28aca93739c038ae0c9d80b1f8&chksm=839734ccb4e0bddacef0d45e24747b3d5ac78afbff99c5932014374f3a54fc8d2e1c878b8bb0#rd)  
@@ -497,8 +499,6 @@
 - [2022-11-04-Monorepo，大型前端项目管理模式实践](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496373&idx=1&sn=e0e8aa8e461b3d7b6f6e0c50fcb16eff&chksm=ec47b976db3030609cb7c8602a92fd692c32a2d9889fbbdb25a5c98dfb476dbc384f1214a197#rd)  
 - [2022-10-27-第十七届-D2-技术大会，前端「聚变」而来！](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496371&idx=1&sn=123a65d50977054ef42e037bd3e3348b&chksm=ec47b970db303066272e5ddf6ab914e55f4cae57fbb768eedc21ef113a19150f9e3175e7609f#rd)  
 - [2022-10-19-淘宝PC改版！我们跟一位背后付出6年的男人聊了聊……](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496344&idx=1&sn=d3e369cafc374a9117ee805417257166&chksm=ec47b95bdb30304d1050150b4040ffcffeaf41aea26d2007900c352eb5105d8d90009f08041f#rd)  
-- [2022-10-14-阿里巴巴-Noslate-正式开源---面向云原生的-JavaScript-容器方案](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496342&idx=1&sn=87f050181c8d3c66443fc631103d4e16&chksm=ec47b955db303043e7906f4e5d395bd02d7f7d51a95746b9a86f1cad1013080fa5a6e7aa1bd8#rd)  
-- [2022-10-13-大淘宝技术行业FaaS化实战经验分享](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496340&idx=1&sn=809cfe92252998a41c0ebe5b65300e65&chksm=ec47b957db303041ee1d0b6c2b0d49f9fc62891a220032c7839c1ff143a1c9bb1166627a1a08#rd)  
 - [......【查看更多】......](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
