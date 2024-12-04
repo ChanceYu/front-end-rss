@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-04 14:27:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-04 18:20:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -44,6 +44,7 @@
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd) 
 - [2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
 - [2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
+- [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd) 
 - [2023-02-03-Web-3D-圈摸爬滚打十多年的老兵热血自述：立志做中国跨时代-Web-渲染引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=1&sn=e05160e245e4164bf9906f81f0fb18ed&chksm=f9523b62ce25b274b86af2a22c7d147baf27af42723a1f272bad910b3fbef50ea099290ef6a5#rd) 
 - [2022-11-16-华为云官网-Web3D-和动效技术的应用与探索](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518668&idx=1&sn=f0cfb4d37105b7ecc2ce2ca1e64baa77&chksm=f9523c8fce25b599c89cee6dccde57dd7e5fcc7e7d0cb7c17a9b68f01a0a71f1e1e6bac4d0d8#rd) 
 - [2022-06-01-前端3D渲染实战：从零开始用WebGL编写卡通风格着色器](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515038&idx=1&sn=f90b309b2fc3e7b08fb3c18647b157dd&chksm=f9520eddce2587cbf72d1574dbf6f2844aebc999771553e6178b1151001c1bfd20161d4a449b#rd) 

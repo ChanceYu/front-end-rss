@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-04T06:27:40.554Z</updated>
+    <updated>2024-12-04T10:20:21.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2024-12-04T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI 绘画 out 了？「AI 教母」李飞飞的新 AI 直接造 3D 世界，一张图就够！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525503&amp;idx=1&amp;sn=f7805d2be2bbf12532b7f3a79256e2b9&amp;chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525503&amp;idx=1&amp;sn=f7805d2be2bbf12532b7f3a79256e2b9&amp;chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd"/>
+        <updated>2024-12-04T00:00:00.000Z</updated>
+        <published>2024-12-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3426期】TinyEngine低代码引擎2.0新特性介绍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274357&amp;idx=1&amp;sn=c57c95837e500713bbec90ffefcdab9f&amp;chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274357&amp;idx=1&amp;sn=c57c95837e500713bbec90ffefcdab9f&amp;chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&amp;scene=0#rd"/>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[面试官：来谈谈Vue3的provide和inject实现多级传递的原理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516854&amp;idx=1&amp;sn=9b864c23b1950063a17d04404fdb3bc6&amp;chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516854&amp;idx=1&amp;sn=9b864c23b1950063a17d04404fdb3bc6&amp;chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd"/>
+        <updated>2024-12-03T00:00:00.000Z</updated>
+        <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS 如何模拟“真实”的进度条？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499370&amp;idx=1&amp;sn=0bfc88a88808907c415b505a64685838&amp;chksm=ce269d9cf951148a1089f808f2427e07922b0c60cdd80ee9bcad8b99a2129c54de283bd57a2e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499370&amp;idx=1&amp;sn=0bfc88a88808907c415b505a64685838&amp;chksm=ce269d9cf951148a1089f808f2427e07922b0c60cdd80ee9bcad8b99a2129c54de283bd57a2e#rd"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524109&amp;idx=1&amp;sn=27154b55ef3cc8811e4cca50142de52a&amp;chksm=f99299dccee510caae93d5ab45b6c57c05b74c6b0740692fa6ebe6935617ea158b73811ec15b#rd"/>
         <updated>2024-11-23T00:00:00.000Z</updated>
         <published>2024-11-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年最顶级的 React 生态玩法揭秘……]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516810&amp;idx=1&amp;sn=44e245d599d69e122604dfccde3e8bba&amp;chksm=eb07baf3dc7033e5c8232c91eda770101234226fc0a2cacd34cada488e6b234afc10567ef668#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516810&amp;idx=1&amp;sn=44e245d599d69e122604dfccde3e8bba&amp;chksm=eb07baf3dc7033e5c8232c91eda770101234226fc0a2cacd34cada488e6b234afc10567ef668#rd"/>
-        <updated>2024-11-21T00:00:00.000Z</updated>
-        <published>2024-11-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring JavaScript symbols]]></title>
-        <id>https://javascriptweekly.com/issues/714</id>
-        <link href="https://javascriptweekly.com/issues/714"/>
-        <updated>2024-11-21T00:00:00.000Z</updated>
-        <published>2024-11-21T00:00:00.000Z</published>
     </entry>
 </feed>
