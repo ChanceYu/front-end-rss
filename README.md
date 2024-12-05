@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-05 09:23:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-05 20:38:12，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -107,8 +107,8 @@
 </summary>
 
 
-- [2024-12-05-【第3427期】前端数据中心使用LLM训练错误信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=1&sn=6fef742f6bdbf926933887abdef1533d&chksm=bcde0a4541fdb1f899d6e14f7771d21269696b8a4ab5a9215794e1ed70116134f73e12c1a9f4&scene=0#rd) ![](/assets/new.png)  
-- [2024-12-05-【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=2&sn=e87cc1e140c88a9206d33fe3a68ac621&chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-05-【第3427期】前端数据中心使用LLM训练错误信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=1&sn=6fef742f6bdbf926933887abdef1533d&chksm=bcde0a4541fdb1f899d6e14f7771d21269696b8a4ab5a9215794e1ed70116134f73e12c1a9f4&scene=0#rd)  
+- [2024-12-05-【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=2&sn=e87cc1e140c88a9206d33fe3a68ac621&chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&scene=0#rd)  
 - [2024-12-04-【图书】悟道领域驱动设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=2&sn=d50459f9f4be5a4a0138ebb6e7cf70ee&chksm=bcd942a4877ac005ff0c4d44803095ca3206c0e1784b2f968fa97a88db3f8f8d11edfe07a687&scene=0#rd)  
 - [2024-12-04-【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd)  
 - [2024-12-03-【第3425期】JavaScript-高阶技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274352&idx=1&sn=bacf8d5bbcfff58963684e7b1a3119ad&chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&scene=0#rd)  
@@ -200,6 +200,10 @@
 </summary>
 
 
+- [2024-12-05-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501401&idx=1&sn=0dde7df600c4bd121d437960cbffacb6&chksm=ce45d3c8f9325adeb93fd7afe18854ad1b4f19054d1c5c324f063103b23346443846938d4f32#rd) ![](/assets/new.png)  
+- [2024-12-04-搭建公司知识管理平台，分享一点心得！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501392&idx=1&sn=2087ef421e4c665e83cb55ff09cd4f6a&chksm=ce45d3c1f9325ad77439c6f6d779df7028149fb96b17d18d6fff999c1e2b49789f4a83b75d8f#rd) ![](/assets/new.png)  
+- [2024-12-03-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501359&idx=1&sn=03d220ec2f1a805168cb697b28917c2c&chksm=ce45d3bef9325aa8ddcc39839c94a527a51d7fd89000de4a84d101549f8c4202f1e5710629ee#rd) ![](/assets/new.png)  
+- [2024-12-02-2024-了，前端到底是“技术深度”重要还是“技术广度”重要？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501312&idx=1&sn=f577e40a9d6fbb5af76526bef969e163&chksm=ce45d391f9325a876582038cfd0c73120e0ad7b2ecb9918748799865598bc096b569429b5538#rd) ![](/assets/new.png)  
 - [2024-12-01-Vite-6.0-到底更新了啥玩意啊？？？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501254&idx=1&sn=28d5ed0b572a33898d775be1455e9362&chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd)  
 - [2024-11-30-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501242&idx=1&sn=bf2646a434ad1a617f9c1c4b8f3d6d2b&chksm=ce45d02bf932593d64eeade53ef2ff3a1ab4ee6cf82e817df1d455cc94a156a6e043369d3fe0#rd)  
 - [2024-11-29-前端已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501231&idx=1&sn=3a5fb493d05d7bc634c1e3255193088d&chksm=ce45d03ef93259289b1fa996ed2d18ef47b80074876f0b54aceeef6608d9ceed157ad7d8432f#rd)  
@@ -215,11 +219,7 @@
 - [2024-07-13-原创实现一个直击用户灵魂的-Loading-效果（附源码）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496553&idx=1&sn=7144d3b87ce6d1a1b848839f03698653&chksm=ce45e6f8f9326fee56acc97a76d35e675672ad95394764a39878fe34dbe67c25b2e830a5e5b3#rd)  
 - [2024-07-12-原创20-个好看又酷炫的-404-页面【附源码】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496552&idx=1&sn=d0650043bb5d4a49ee41e20464879cf1&chksm=ce45e6f9f9326fef23f0a582819bf74108c6ea96d4462dded074e1c85f42a9f275182f151ccb#rd)  
 - [2024-07-11-原创VueConf，尤雨溪公布-Vue3.5-新特性以及无虚拟DOM版本](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496550&idx=1&sn=fca0c7c94c7d5cd5ad2dcea48efb67ac&chksm=ce45e6f7f9326fe12f85a458f1a8fe1e297e4d9f4c44f52b2802ac4cf808b006aaa33042009d#rd)  
-- [2023-09-08-1.4秒到0.4秒-2行代码让JS加载耗时减少67%](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490283&idx=1&sn=062a7bf2a2b47e1ca89101823e8e1482&chksm=ce460f7af931866c94fc431b4fc551f333356f6346d29986487feadf3e04e90318e160ef8023#rd)  
 - [2023-09-08-华为突然发布-Mate60-Pro+-！熊猫配色超抢眼，双卫星通话更强了](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652296967&idx=1&sn=216d1fb73a0e54b1ebddfe6cb1a8c254&chksm=9b604198ac17c88e3c5be8c04dfbfa49899e77c40995e20e4efa14798ca1cfc632061c35a32f#rd)  
-- [2023-09-07-八股文背烂也没用，面试官早改套路了。。。](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490282&idx=1&sn=742a6a8110e88847f677dbb36cc3ed73&chksm=ce460f7bf931866d0824734e770a5559616f2313cf6278c0dff75cf69a4340da290e95556c17#rd)  
-- [2023-09-06-我面试最喜欢问的开放题：如何严谨二次封装-localStorage？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490246&idx=1&sn=29661b8c8ddebe163ccbb1f469d5592e&chksm=ce460f57f9318641f5dc690e59e414cd5aebc2697c7255bbc781ad038693a2710bcfedc201c6#rd)  
-- [2023-09-05-还在用旧方法去实现前端复制粘贴？教你们一个新的-JS-方法](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490240&idx=1&sn=3b3ebbd74e6afa77139556ec709a401a&chksm=ce460f51f9318647fdf7c219ad43c61eb0d3ff4121ee4bccf7f3eab832372aca24938ab0c1a5#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
