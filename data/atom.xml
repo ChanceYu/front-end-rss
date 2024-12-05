@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-05T12:38:12.824Z</updated>
+    <updated>2024-12-05T18:22:50.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,9 +15,23 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[英文单词朗读基于音素预估时长的JS算法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/"/>
+        <updated>2024-12-06T00:00:00.000Z</updated>
+        <published>2024-12-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd"/>
+        <updated>2024-12-05T00:00:00.000Z</updated>
+        <published>2024-12-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle engages its lawyers and JavaScript turns 29]]></title>
+        <id>https://javascriptweekly.com/issues/715</id>
+        <link href="https://javascriptweekly.com/issues/715"/>
         <updated>2024-12-05T00:00:00.000Z</updated>
         <published>2024-12-05T00:00:00.000Z</published>
     </entry>
@@ -81,6 +95,13 @@
         <title type="html"><![CDATA[前端体验优化之渐进式图片]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524408&amp;idx=2&amp;sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&amp;chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524408&amp;idx=2&amp;sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&amp;chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd"/>
+        <updated>2024-12-03T00:00:00.000Z</updated>
+        <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621639&amp;idx=1&amp;sn=eac1fc8ce06c62ef6b28b910374897be&amp;chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621639&amp;idx=1&amp;sn=eac1fc8ce06c62ef6b28b910374897be&amp;chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[Open-Set目标检测算法的原理与实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537172&amp;idx=1&amp;sn=33bbda28aca93739c038ae0c9d80b1f8&amp;chksm=839734ccb4e0bddacef0d45e24747b3d5ac78afbff99c5932014374f3a54fc8d2e1c878b8bb0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537172&amp;idx=1&amp;sn=33bbda28aca93739c038ae0c9d80b1f8&amp;chksm=839734ccb4e0bddacef0d45e24747b3d5ac78afbff99c5932014374f3a54fc8d2e1c878b8bb0#rd"/>
-        <updated>2024-11-25T00:00:00.000Z</updated>
-        <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue：我们将成为最快的响应式框架！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516812&amp;idx=1&amp;sn=a5821e231f22880fa4fda87f6483fd71&amp;chksm=eb07baf5dc7033e32c561197db7099bcfe66f5d841290b081223415f5236314fcee321bc189f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516812&amp;idx=1&amp;sn=a5821e231f22880fa4fda87f6483fd71&amp;chksm=eb07baf5dc7033e32c561197db7099bcfe66f5d841290b081223415f5236314fcee321bc189f#rd"/>
-        <updated>2024-11-25T00:00:00.000Z</updated>
-        <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么？LocalStorage 也能被监听？为什么我试了却不行？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524187&amp;idx=2&amp;sn=87c87132295bae9db0645b9883708406&amp;chksm=f992998acee5109c4e471ee2b4c60eacef3694286a4b00a98a08f264e552742fc5637a3c575c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524187&amp;idx=2&amp;sn=87c87132295bae9db0645b9883708406&amp;chksm=f992998acee5109c4e471ee2b4c60eacef3694286a4b00a98a08f264e552742fc5637a3c575c#rd"/>
-        <updated>2024-11-25T00:00:00.000Z</updated>
-        <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue.js 高调宣布：我们将成为最快的响应式框架！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621634&amp;idx=1&amp;sn=719ef6a04aa1c14525baa6b7b188948f&amp;chksm=80225ec3b755d7d5f3a8aa903428a6d217d089414ee741bfb9546154c915c175c66e2ac4d927#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621634&amp;idx=1&amp;sn=719ef6a04aa1c14525baa6b7b188948f&amp;chksm=80225ec3b755d7d5f3a8aa903428a6d217d089414ee741bfb9546154c915c175c66e2ac4d927#rd"/>
         <updated>2024-11-25T00:00:00.000Z</updated>
         <published>2024-11-25T00:00:00.000Z</published>
     </entry>
