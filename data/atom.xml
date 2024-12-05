@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-05T18:22:50.698Z</updated>
+    <updated>2024-12-05T22:16:56.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[面试官：来谈谈Vue3的provide和inject实现多级传递的原理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516854&amp;idx=1&amp;sn=9b864c23b1950063a17d04404fdb3bc6&amp;chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516854&amp;idx=1&amp;sn=9b864c23b1950063a17d04404fdb3bc6&amp;chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd"/>
+        <updated>2024-12-03T00:00:00.000Z</updated>
+        <published>2024-12-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来战！激发你的编程潜力，挑战极限！豆包 MarsCode 算法竞技赛火热来袭！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505922&amp;idx=1&amp;sn=80746261541b5bbc360ccba547e40d1f&amp;chksm=cea96f03f9dee6155e3031466d200bd2da877027759b29738c1d00df35d164d94be661d30ee2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505922&amp;idx=1&amp;sn=80746261541b5bbc360ccba547e40d1f&amp;chksm=cea96f03f9dee6155e3031466d200bd2da877027759b29738c1d00df35d164d94be661d30ee2#rd"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS Grid布局中的subgrid的适用场景]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/"/>
-        <updated>2024-11-25T00:00:00.000Z</updated>
-        <published>2024-11-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Set目标检测算法的原理与实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537172&amp;idx=1&amp;sn=33bbda28aca93739c038ae0c9d80b1f8&amp;chksm=839734ccb4e0bddacef0d45e24747b3d5ac78afbff99c5932014374f3a54fc8d2e1c878b8bb0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537172&amp;idx=1&amp;sn=33bbda28aca93739c038ae0c9d80b1f8&amp;chksm=839734ccb4e0bddacef0d45e24747b3d5ac78afbff99c5932014374f3a54fc8d2e1c878b8bb0#rd"/>
         <updated>2024-11-25T00:00:00.000Z</updated>
         <published>2024-11-25T00:00:00.000Z</published>
     </entry>
