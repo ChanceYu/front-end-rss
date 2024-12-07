@@ -33,7 +33,7 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 18.x
-        cache: 'pnpm'
+        cache: pnpm
         cache-dependency-path: server/pnpm-lock.yaml
     
     - name: Get pnpm cache directory
@@ -47,9 +47,9 @@ jobs:
       with:
         path: |
           ${{ steps.pnpm-store-path.outputs.dir }}
-        key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
+        key: ${{ runner.os }}-pnpm-20241208-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
-          ${{ runner.os }}-pnpm-
+          ${{ runner.os }}-pnpm-20241208-
 
     - name: Install npm dependencies
       working-directory: ./server
