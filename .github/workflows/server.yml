@@ -51,16 +51,14 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pnpm-20241208-
 
-    - name: Install npm dependencies
-      working-directory: ./server
-      run: pnpm install
-
-    - name: Run npm scripts
+    - name: Install and run
       working-directory: ./server
       env:
         WORKFLOW: true
         RSS_CONFIG: ${{ secrets.RSS_CONFIG }}
-      run: pnpm run once
+      run: |
+        pnpm install
+        pnpm run once
 
     - name: Commit all changed files
       id: auto-commit-action
