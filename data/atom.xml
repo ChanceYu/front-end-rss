@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-07T01:21:41.378Z</updated>
+    <updated>2024-12-07T06:24:18.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274387&amp;idx=2&amp;sn=9eff3dc80d6f300d94b7c58171ed5b77&amp;chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&amp;scene=0#rd"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <published>2024-12-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 年终大战：连续 12 天直播，一大堆东西会发布]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500091&amp;idx=1&amp;sn=f4790cbe1b57fd31686693c7ce813206&amp;chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500091&amp;idx=1&amp;sn=f4790cbe1b57fd31686693c7ce813206&amp;chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd"/>
+        <updated>2024-12-05T00:00:00.000Z</updated>
+        <published>2024-12-05T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Chrome 被强制出售？谷歌或将抛弃 ChromeOS 全面转向 Android 系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525486&amp;idx=1&amp;sn=6e3e983ed6624a8c97cb10d5e15aa6de&amp;chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525486&amp;idx=1&amp;sn=6e3e983ed6624a8c97cb10d5e15aa6de&amp;chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd"/>
-        <updated>2024-11-26T00:00:00.000Z</updated>
-        <published>2024-11-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3421期】vercel是如何做微前端迁移的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274265&amp;idx=1&amp;sn=38831d124f11aa352541dbe6f3c06206&amp;chksm=bcad4b309fbc742ec55d204ee17b6219aa6f8dbf4bf2d6885aeda534b9bad6092076e1020305&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274265&amp;idx=1&amp;sn=38831d124f11aa352541dbe6f3c06206&amp;chksm=bcad4b309fbc742ec55d204ee17b6219aa6f8dbf4bf2d6885aeda534b9bad6092076e1020305&amp;scene=0#rd"/>
         <updated>2024-11-26T00:00:00.000Z</updated>
         <published>2024-11-26T00:00:00.000Z</published>
     </entry>
