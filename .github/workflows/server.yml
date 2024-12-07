@@ -72,6 +72,7 @@ jobs:
       if: steps.auto-commit-action.outputs.changes_detected == 'true'
       working-directory: ./site
       run: |
+        pnpm install
         pnpm run build
         pnpm add -g surge
         surge ./dist front-end-rss.surge.sh --token ${{ secrets.SURGE_TOKEN }}
