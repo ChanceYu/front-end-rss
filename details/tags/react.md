@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-08 00:22:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-08 00:55:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -604,6 +604,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2024-12-05-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516868&idx=1&sn=c17857ddad0582ab57f07f3a0022c452&chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd) 
 - [2024-11-21-2025-年最顶级的-React-生态玩法揭秘……](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516810&idx=1&sn=44e245d599d69e122604dfccde3e8bba&chksm=eb07baf3dc7033e5c8232c91eda770101234226fc0a2cacd34cada488e6b234afc10567ef668#rd) 
 - [2024-05-08-React-19-出手解决了异步请求的竞态问题，是好事还是坏事？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515740&idx=1&sn=e3ed39575d3d7826cebd4bbed6f734e0&chksm=eb078625dc700f337eadf061d4d8e1dd7b1b0fc0a816d7eac990d7a92cfda4c93b8a36623df5#rd) 
 - [2024-04-23-更轻巧的状态管理工具——Hookstate](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515690&idx=2&sn=ba2cfa783bba0d0aeeec603d9eedb3bd&chksm=eb078653dc700f4560741715b075960a2992ab5e0a45f948eb302915ab661d18a59d51292eca#rd) 
