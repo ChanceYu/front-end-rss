@@ -47,9 +47,9 @@ jobs:
       with:
         path: |
           ${{ steps.pnpm-store-path.outputs.dir }}
-        key: ${{ runner.os }}-pnpm-20241208-${{ hashFiles('**/pnpm-lock.yaml') }}
+        key: ${{ runner.os }}-pnpm-202412-${{ hashFiles('**/pnpm-lock.yaml') }}
         restore-keys: |
-          ${{ runner.os }}-pnpm-20241208-
+          ${{ runner.os }}-pnpm-202412-
 
     - name: Install and run
       working-directory: ./server
