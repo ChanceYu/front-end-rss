@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-07 14:24:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-07 18:18:21，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,13 +21,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2024-12-07-Vue3-项目中，如何设计一个表单配置生成器？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501434&idx=1&sn=80a391451924e275da0a98de506a6f06&chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd) ![](/assets/new.png)  
+- [2024-12-06-因为不看前端文档，导致白忙活一整天](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501425&idx=1&sn=a6ee9a3c4412c0d73d87bd2cf030dd31&chksm=ce45d3e0f9325af69a1ac91ba2d2dc0be015294f02421a1479d33069077645819e8eed8e568b#rd) ![](/assets/new.png)  
 - [2024-12-05-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501401&idx=1&sn=0dde7df600c4bd121d437960cbffacb6&chksm=ce45d3c8f9325adeb93fd7afe18854ad1b4f19054d1c5c324f063103b23346443846938d4f32#rd)  
 - [2024-12-04-搭建公司知识管理平台，分享一点心得！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501392&idx=1&sn=2087ef421e4c665e83cb55ff09cd4f6a&chksm=ce45d3c1f9325ad77439c6f6d779df7028149fb96b17d18d6fff999c1e2b49789f4a83b75d8f#rd)  
 - [2024-12-03-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501359&idx=1&sn=03d220ec2f1a805168cb697b28917c2c&chksm=ce45d3bef9325aa8ddcc39839c94a527a51d7fd89000de4a84d101549f8c4202f1e5710629ee#rd)  
@@ -218,8 +220,6 @@
 - [2024-07-14-原创React-中如何展示-XHR-和-Fetch-的请求响应进度？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496719&idx=1&sn=035291914b64648b49767da752b608cc&chksm=ce45e19ef9326888ed1472b9b6497c58aa9b3108a2367aa92f67dd8c3d6a3032940be642ed2e#rd)  
 - [2024-07-13-原创实现一个直击用户灵魂的-Loading-效果（附源码）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496553&idx=1&sn=7144d3b87ce6d1a1b848839f03698653&chksm=ce45e6f8f9326fee56acc97a76d35e675672ad95394764a39878fe34dbe67c25b2e830a5e5b3#rd)  
 - [2024-07-12-原创20-个好看又酷炫的-404-页面【附源码】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496552&idx=1&sn=d0650043bb5d4a49ee41e20464879cf1&chksm=ce45e6f9f9326fef23f0a582819bf74108c6ea96d4462dded074e1c85f42a9f275182f151ccb#rd)  
-- [2024-07-11-原创VueConf，尤雨溪公布-Vue3.5-新特性以及无虚拟DOM版本](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496550&idx=1&sn=fca0c7c94c7d5cd5ad2dcea48efb67ac&chksm=ce45e6f7f9326fe12f85a458f1a8fe1e297e4d9f4c44f52b2802ac4cf808b006aaa33042009d#rd)  
-- [2023-09-08-华为突然发布-Mate60-Pro+-！熊猫配色超抢眼，双卫星通话更强了](https://mp.weixin.qq.com/s?__biz=MjgzMTAwODI0MA==&mid=2652296967&idx=1&sn=216d1fb73a0e54b1ebddfe6cb1a8c254&chksm=9b604198ac17c88e3c5be8c04dfbfa49899e77c40995e20e4efa14798ca1cfc632061c35a32f#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -386,7 +386,7 @@
 </summary>
 
 
-- [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd) ![](/assets/new.png)  
+- [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd)  
 - [2024-12-02-技术周刊-｜-新晋-AI-编程神器干翻-Cursor！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500085&idx=1&sn=88ddd634acb300782d5489c7e02286ca&chksm=c2b300caf5c489dce4bafab4f3edca5f45a9964b1113d9ee9c0bcf746aa139e6cb6db2cd8b43#rd)  
 - [2024-11-28-必备！2025-开发-AI-应用-JS-工具库盘点](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500077&idx=1&sn=4722f18688c42ec8aedd414c4a836b5f&chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd)  
 - [2024-11-27-重磅！Vite-6.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500071&idx=1&sn=0c63d508699d504230f88fc29f1430a6&chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-07T06:24:18.632Z</updated>
+    <updated>2024-12-07T10:18:22.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 项目中，如何设计一个表单配置生成器？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501434&amp;idx=1&amp;sn=80a391451924e275da0a98de506a6f06&amp;chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501434&amp;idx=1&amp;sn=80a391451924e275da0a98de506a6f06&amp;chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd"/>
+        <updated>2024-12-07T00:00:00.000Z</updated>
+        <published>2024-12-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】React 19 正式发布]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274442&amp;idx=1&amp;sn=9a26dce6366b20268f223d264ae1206a&amp;chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[微前端集成优化：让所有子应用体积更小，加载更快]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524242&amp;idx=1&amp;sn=5d3f2b22e0d1885b53fa1d5dcabc5063&amp;chksm=f9929943cee51055c9f7d3be21cc936295aa2f3175e90583b846da433870a426c6c7531be394#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524242&amp;idx=1&amp;sn=5d3f2b22e0d1885b53fa1d5dcabc5063&amp;chksm=f9929943cee51055c9f7d3be21cc936295aa2f3175e90583b846da433870a426c6c7531be394#rd"/>
-        <updated>2024-11-26T00:00:00.000Z</updated>
-        <published>2024-11-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 被强制出售？谷歌或将抛弃 ChromeOS 全面转向 Android 系统]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525486&amp;idx=1&amp;sn=6e3e983ed6624a8c97cb10d5e15aa6de&amp;chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525486&amp;idx=1&amp;sn=6e3e983ed6624a8c97cb10d5e15aa6de&amp;chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd"/>
         <updated>2024-11-26T00:00:00.000Z</updated>
         <published>2024-11-26T00:00:00.000Z</published>
     </entry>
