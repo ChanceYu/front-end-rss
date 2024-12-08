@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-08 02:19:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-08 08:47:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -28,9 +28,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -417,8 +417,8 @@
 </summary>
 
 
-- [2024-12-06-请前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516887&idx=1&sn=311216a3a369f6dbda76e9d5515a0ec0&chksm=eb07baaedc7033b802af2a835d81f58c246d72b9f588260d0da784b6b776f5b979bc1b062e08#rd) ![](/assets/new.png)  
-- [2024-12-05-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516868&idx=1&sn=c17857ddad0582ab57f07f3a0022c452&chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd) ![](/assets/new.png)  
+- [2024-12-06-请前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516887&idx=1&sn=311216a3a369f6dbda76e9d5515a0ec0&chksm=eb07baaedc7033b802af2a835d81f58c246d72b9f588260d0da784b6b776f5b979bc1b062e08#rd)  
+- [2024-12-05-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516868&idx=1&sn=c17857ddad0582ab57f07f3a0022c452&chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd)  
 - [2024-12-04-10s-搭建一个前端新项目，就这么简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516863&idx=1&sn=3cda6c301ea457dcec46b74dce38ea6c&chksm=eb07bac6dc7033d0c5ed866e6d168a787ba3d074582c23a5290ff7fa0eb2f8af56a9bade7340#rd)  
 - [2024-12-03-面试官：来谈谈Vue3的provide和inject实现多级传递的原理](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516854&idx=1&sn=9b864c23b1950063a17d04404fdb3bc6&chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd)  
 - [2024-11-29-Rust赋能前端：-纯血前端将-Table-导出-Excel](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516848&idx=1&sn=44ceaed7ea2de389ddec46514862d712&chksm=eb07bac9dc7033df9a771f3b202ef05478976370f8c1cabe32756b8c90270aa69c27bd9b4c71#rd)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2024-12-06-Flink+Paimon实时数据湖仓实践分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537293&idx=1&sn=ede5c6caa63bf7e12aae1b83e706442a&chksm=83973555b4e0bc432659d62c497d042d40f3c18f2028da52d49f03d070947f3167e2e08f3b6c#rd) ![](/assets/new.png)  
 - [2024-12-04-淘宝直播间智能化升级：基于LLM的学习与分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537275&idx=1&sn=eb1b14cb2f8568df15442111ea675320&chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd)  
 - [2024-12-02-会员场景端快照与ER缓存优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537256&idx=1&sn=ea26df1a45265daaf11b1812595ae7ac&chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd)  
 - [2024-11-29-搭建业务的性能优化指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537238&idx=1&sn=8e57dca84c4655fc900aa7a2b15f8cab&chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd)  
@@ -498,7 +499,6 @@
 - [2022-11-28-高能预警！D2-第一波话题新鲜出炉-~-|-早鸟特惠倒计时-3-天](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496404&idx=1&sn=39417164e200d7aa17b42be470d7d4b8&chksm=ec47b917db303001bd0ea0e853cc18244ac77ef168c90112cf9a22fbffd1ee9ddf06aa317cd8#rd)  
 - [2022-11-04-Monorepo，大型前端项目管理模式实践](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496373&idx=1&sn=e0e8aa8e461b3d7b6f6e0c50fcb16eff&chksm=ec47b976db3030609cb7c8602a92fd692c32a2d9889fbbdb25a5c98dfb476dbc384f1214a197#rd)  
 - [2022-10-27-第十七届-D2-技术大会，前端「聚变」而来！](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496371&idx=1&sn=123a65d50977054ef42e037bd3e3348b&chksm=ec47b970db303066272e5ddf6ab914e55f4cae57fbb768eedc21ef113a19150f9e3175e7609f#rd)  
-- [2022-10-19-淘宝PC改版！我们跟一位背后付出6年的男人聊了聊……](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496344&idx=1&sn=d3e369cafc374a9117ee805417257166&chksm=ec47b95bdb30304d1050150b4040ffcffeaf41aea26d2007900c352eb5105d8d90009f08041f#rd)  
 - [......【查看更多】......](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
