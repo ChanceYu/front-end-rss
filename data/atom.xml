@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-08T10:09:21.229Z</updated>
+    <updated>2024-12-09T04:11:56.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3429期】css-doodle 介绍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274450&amp;idx=1&amp;sn=d3c7630783bb8d7e31244c8bb7d2b2c1&amp;chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274450&amp;idx=1&amp;sn=d3c7630783bb8d7e31244c8bb7d2b2c1&amp;chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&amp;scene=0#rd"/>
+        <updated>2024-12-09T00:00:00.000Z</updated>
+        <published>2024-12-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聊聊 Node.js 最近支持的 SO_REUSEPORT]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=2&amp;sn=c69326ffeb1ba716ec89ca328422d9bf&amp;chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd</id>
@@ -288,16 +295,16 @@
         <published>2024-11-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=1&amp;sn=5268de6fca1203e5b71d09978c42c73d&amp;chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=1&amp;sn=5268de6fca1203e5b71d09978c42c73d&amp;chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早阅】如何有效清除NPM和NPX缓存？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=2&amp;sn=cd81adafd6f785471d0ee5ae4d54012c&amp;chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=2&amp;sn=cd81adafd6f785471d0ee5ae4d54012c&amp;chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&amp;scene=0#rd"/>
         <updated>2024-11-29T00:00:00.000Z</updated>
         <published>2024-11-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早阅】如何有效清除NPM和NPX缓存？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=2&amp;sn=cd81adafd6f785471d0ee5ae4d54012c&amp;chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=2&amp;sn=cd81adafd6f785471d0ee5ae4d54012c&amp;chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=1&amp;sn=5268de6fca1203e5b71d09978c42c73d&amp;chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274301&amp;idx=1&amp;sn=5268de6fca1203e5b71d09978c42c73d&amp;chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&amp;scene=0#rd"/>
         <updated>2024-11-29T00:00:00.000Z</updated>
         <published>2024-11-29T00:00:00.000Z</published>
     </entry>
@@ -330,16 +337,16 @@
         <published>2024-11-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】AI辅助编程入门：使用GitHub Copilot零基础开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=2&amp;sn=ab76c1332d66d7e3be3b80a6a6ef3862&amp;chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=2&amp;sn=ab76c1332d66d7e3be3b80a6a6ef3862&amp;chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【早阅】GitHub Copilot Edits 功能详解]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=1&amp;sn=31332b42ef6891c28cd065e0cf5fe77a&amp;chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=1&amp;sn=31332b42ef6891c28cd065e0cf5fe77a&amp;chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&amp;scene=0#rd"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <published>2024-11-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【早阅】GitHub Copilot Edits 功能详解]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=1&amp;sn=31332b42ef6891c28cd065e0cf5fe77a&amp;chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=1&amp;sn=31332b42ef6891c28cd065e0cf5fe77a&amp;chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】AI辅助编程入门：使用GitHub Copilot零基础开发]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=2&amp;sn=ab76c1332d66d7e3be3b80a6a6ef3862&amp;chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274287&amp;idx=2&amp;sn=ab76c1332d66d7e3be3b80a6a6ef3862&amp;chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&amp;scene=0#rd"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <published>2024-11-28T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[重磅！Vite 6.0 正式发布]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500071&amp;idx=1&amp;sn=0c63d508699d504230f88fc29f1430a6&amp;chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500071&amp;idx=1&amp;sn=0c63d508699d504230f88fc29f1430a6&amp;chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd"/>
-        <updated>2024-11-27T00:00:00.000Z</updated>
-        <published>2024-11-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动图展示 10 大 Git 命令，让你轻松掌握Git]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524286&amp;idx=2&amp;sn=7455918ea643dcf3265deefc37496566&amp;chksm=f992996fcee51079f19d6c5224cde9ef0bef51086f186135dc3bcc28c479fedae52a4fa2c30e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524286&amp;idx=2&amp;sn=7455918ea643dcf3265deefc37496566&amp;chksm=f992996fcee51079f19d6c5224cde9ef0bef51086f186135dc3bcc28c479fedae52a4fa2c30e#rd"/>
         <updated>2024-11-27T00:00:00.000Z</updated>
         <published>2024-11-27T00:00:00.000Z</published>
     </entry>
