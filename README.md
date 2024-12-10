@@ -12,18 +12,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-10 04:10:43，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 10:40:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -107,26 +107,26 @@
 </summary>
 
 
+- [2024-12-10-【早阅】浏览器扩展程序攻击](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274484&idx=1&sn=6e50ccc6ca737dbe24e5089d9f3105ed&chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&scene=0#rd) ![](/assets/new.png)  
 - [2024-12-09-【第3429期】css-doodle-介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274450&idx=1&sn=d3c7630783bb8d7e31244c8bb7d2b2c1&chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&scene=0#rd)  
 - [2024-12-08-【早阅】Signals分析：从历史到影响](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274446&idx=1&sn=600b51dec85538cbdf512902411f13b3&chksm=bc4eb89b22f3aa1c58a7bfd211a88f3a8537f5fe00c97bdc4487aefe5ac8064a143349702a3a&scene=0#rd)  
 - [2024-12-07-【早阅】React-19-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274442&idx=1&sn=9a26dce6366b20268f223d264ae1206a&chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&scene=0#rd)  
-- [2024-12-06-【图书】Vue.js-3-高级编程：UI组件库开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=2&sn=9eff3dc80d6f300d94b7c58171ed5b77&chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&scene=0#rd)  
 - [2024-12-06-【第3428期】Speculation-Rules的分层方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=1&sn=3a758569953166b250a0df208413c8ed&chksm=bc65e096e0db869c6103abe59ef43ffad42020312cbce3069cd075ba29be3f1fa800be0db244&scene=0#rd)  
-- [2024-12-05-【第3427期】前端数据中心使用LLM训练错误信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=1&sn=6fef742f6bdbf926933887abdef1533d&chksm=bcde0a4541fdb1f899d6e14f7771d21269696b8a4ab5a9215794e1ed70116134f73e12c1a9f4&scene=0#rd)  
+- [2024-12-06-【图书】Vue.js-3-高级编程：UI组件库开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=2&sn=9eff3dc80d6f300d94b7c58171ed5b77&chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&scene=0#rd)  
 - [2024-12-05-【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=2&sn=e87cc1e140c88a9206d33fe3a68ac621&chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&scene=0#rd)  
-- [2024-12-04-【图书】悟道领域驱动设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=2&sn=d50459f9f4be5a4a0138ebb6e7cf70ee&chksm=bcd942a4877ac005ff0c4d44803095ca3206c0e1784b2f968fa97a88db3f8f8d11edfe07a687&scene=0#rd)  
+- [2024-12-05-【第3427期】前端数据中心使用LLM训练错误信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=1&sn=6fef742f6bdbf926933887abdef1533d&chksm=bcde0a4541fdb1f899d6e14f7771d21269696b8a4ab5a9215794e1ed70116134f73e12c1a9f4&scene=0#rd)  
 - [2024-12-04-【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd)  
-- [2024-12-03-【第3425期】JavaScript-高阶技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274352&idx=1&sn=bacf8d5bbcfff58963684e7b1a3119ad&chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&scene=0#rd)  
+- [2024-12-04-【图书】悟道领域驱动设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=2&sn=d50459f9f4be5a4a0138ebb6e7cf70ee&chksm=bcd942a4877ac005ff0c4d44803095ca3206c0e1784b2f968fa97a88db3f8f8d11edfe07a687&scene=0#rd)  
 - [2024-12-03-【图书】把自己产品化：踏上发现真我的英雄之旅](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274352&idx=2&sn=2ea7f21966c53796e448e349644c5f64&chksm=bcf1019b03d6725f4d7a084661f910d9850aaf06695642fc9e1160e00d9f317d266118b7149d&scene=0#rd)  
-- [2024-12-02-【招聘】北京合思招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274342&idx=2&sn=e0abd24c60afbd9959659b13aa867f58&chksm=bc39250f901939c5313a93d7bd587126d41b0c3b1dbc678e106075f69dc779741e2b6aef6308&scene=0#rd)  
+- [2024-12-03-【第3425期】JavaScript-高阶技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274352&idx=1&sn=bacf8d5bbcfff58963684e7b1a3119ad&chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&scene=0#rd)  
 - [2024-12-02-【第3424期】Vite-6.0-发布了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274342&idx=1&sn=69e7efe4a66ac4de05d250a2a6f71063&chksm=bcafb594dbfca83c7edc94228b2b1f680ce8dc0b22c25f5ca6d0d71d7846ee472edf9925be12&scene=0#rd)  
+- [2024-12-02-【招聘】北京合思招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274342&idx=2&sn=e0abd24c60afbd9959659b13aa867f58&chksm=bc39250f901939c5313a93d7bd587126d41b0c3b1dbc678e106075f69dc779741e2b6aef6308&scene=0#rd)  
 - [2024-12-01-【早阅】使用-Favicon-监控长时间进程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274333&idx=1&sn=74014cee3a67074103559f5f76d8676e&chksm=bcb6078fe097b42b6b51d337f7b2bcf80b2038ed9bfbf38b5483f9fdb4fc35c6e39b685ed372&scene=0#rd)  
 - [2024-11-30-【早阅】针对用户动效和主题偏好使用-CSS-和-JavaScript-进行调整](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274329&idx=1&sn=e393352ce10aad4d35baea4aa80c52ab&chksm=bccc8ed7124ef3bf8e749dbf110ff025e78fd73b453809db1096226a61079ca9ae6cfb1abc88&scene=0#rd)  
-- [2024-11-29-【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=1&sn=5268de6fca1203e5b71d09978c42c73d&chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&scene=0#rd)  
 - [2024-11-29-【早阅】如何有效清除NPM和NPX缓存？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=2&sn=cd81adafd6f785471d0ee5ae4d54012c&chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&scene=0#rd)  
-- [2024-11-28-【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd)  
+- [2024-11-29-【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=1&sn=5268de6fca1203e5b71d09978c42c73d&chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&scene=0#rd)  
 - [2024-11-28-【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd)  
-- [2024-11-27-【招聘】腾讯云AI代码助手---前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274276&idx=2&sn=5073d2850dde68bfeee16be9912a0f28&chksm=bca361661b6ee4b949acaa205ef662dd8845bbc062aa632a45ecb8b9e133fe4ea93d85d14655&scene=0#rd)  
+- [2024-11-28-【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -262,10 +262,10 @@
 </summary>
 
 
-- [2024-12-09-目前最快的-Node.js-HTTP-客户端库-Undici-发布-v7-版本！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524587&idx=1&sn=80bc7865e2db7206461ffb5f18b93427&chksm=f992663acee5ef2c7d442515799465e471f21ed7ee2714c85038b256de1866225f9e79ee2683#rd) ![](/assets/new.png)  
-- [2024-12-09-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524587&idx=2&sn=633d38f9d5573a2ed04cecf8aa903410&chksm=f992663acee5ef2c5d3793f8febb20faf922892aa311811ef6bd50ad6167220505b2158bce23#rd) ![](/assets/new.png)  
-- [2024-12-08-期待已久的-React-19-正式发布！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524585&idx=2&sn=bcd23db01149fa88229567a6c926e726&chksm=f9926638cee5ef2e94e2d694eb2ec278d6059b5f59e6017c02be49605b4d05b64bf3510c48b5#rd) ![](/assets/new.png)  
-- [2024-12-08-2种纯前端检测版本更新提示](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524585&idx=1&sn=2430957f5edd46881f0e8dc1c4eba10e&chksm=f9926638cee5ef2e975392383855255086cbf139f2d7634061cff765ca513d48a6b39ec47b6c#rd) ![](/assets/new.png)  
+- [2024-12-09-目前最快的-Node.js-HTTP-客户端库-Undici-发布-v7-版本！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524587&idx=1&sn=80bc7865e2db7206461ffb5f18b93427&chksm=f992663acee5ef2c7d442515799465e471f21ed7ee2714c85038b256de1866225f9e79ee2683#rd)  
+- [2024-12-09-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524587&idx=2&sn=633d38f9d5573a2ed04cecf8aa903410&chksm=f992663acee5ef2c5d3793f8febb20faf922892aa311811ef6bd50ad6167220505b2158bce23#rd)  
+- [2024-12-08-期待已久的-React-19-正式发布！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524585&idx=2&sn=bcd23db01149fa88229567a6c926e726&chksm=f9926638cee5ef2e94e2d694eb2ec278d6059b5f59e6017c02be49605b4d05b64bf3510c48b5#rd)  
+- [2024-12-08-2种纯前端检测版本更新提示](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524585&idx=1&sn=2430957f5edd46881f0e8dc1c4eba10e&chksm=f9926638cee5ef2e975392383855255086cbf139f2d7634061cff765ca513d48a6b39ec47b6c#rd)  
 - [2024-12-07-聊聊-Node.js-最近支持的-SO_REUSEPORT](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524571&idx=2&sn=c69326ffeb1ba716ec89ca328422d9bf&chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd)  
 - [2024-12-07-用Three.js搞个炫酷风场图](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524571&idx=1&sn=8ea78c7ca6679f73b8f308f137fdbef1&chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd)  
 - [2024-12-06-JavaScript-高阶技巧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524482&idx=1&sn=3261134a4694d4aebb98a934f4bb0ba5&chksm=f9926653cee5ef4516021a2ef98488d009d31ebf3b2e6e4b6bef806e45f960011472de65a30e#rd)  
