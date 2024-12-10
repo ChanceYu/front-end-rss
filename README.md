@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-10 10:40:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-11 00:11:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559) ![](/assets/new.png)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
@@ -64,7 +65,6 @@
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
-- [2024-07-09-Node-experiments-with-adding-SQLite](https://nodeweekly.com/issues/539)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2024-12-10-【早阅】浏览器扩展程序攻击](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274484&idx=1&sn=6e50ccc6ca737dbe24e5089d9f3105ed&chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-10-【早阅】浏览器扩展程序攻击](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274484&idx=1&sn=6e50ccc6ca737dbe24e5089d9f3105ed&chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&scene=0#rd)  
 - [2024-12-09-【第3429期】css-doodle-介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274450&idx=1&sn=d3c7630783bb8d7e31244c8bb7d2b2c1&chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&scene=0#rd)  
 - [2024-12-08-【早阅】Signals分析：从历史到影响](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274446&idx=1&sn=600b51dec85538cbdf512902411f13b3&chksm=bc4eb89b22f3aa1c58a7bfd211a88f3a8537f5fe00c97bdc4487aefe5ac8064a143349702a3a&scene=0#rd)  
 - [2024-12-07-【早阅】React-19-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274442&idx=1&sn=9a26dce6366b20268f223d264ae1206a&chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&scene=0#rd)  

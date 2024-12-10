@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-10 10:40:47。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-11 00:12:00。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -720,6 +720,7 @@
 
 
 
+- [【Node-Weekly】requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)
 - [【Node-Weekly】Taming-event-loop-lag](https://nodeweekly.com/issues/538)
 - [【Node-Weekly】Leaky-timeouts](https://nodeweekly.com/issues/535)
 - [【Node-Weekly】Say-hi-to-Rocket-Turtle](https://nodeweekly.com/issues/522)
@@ -739,7 +740,6 @@
 - [【Node-Weekly】✂️-Cutting-away-the-unused-parts-of-your-project](https://nodeweekly.com/issues/458)
 - [【Node-Weekly】Using-ML-to-rewrite-a-test-suite-to-Playwright](https://nodeweekly.com/issues/453)
 - [【Node-Weekly】The-ins-and-outs-of-'bin'-scripts](https://nodeweekly.com/issues/452)
-- [【Node-Weekly】All's-shell-that-ends-shell.](https://nodeweekly.com/issues/445)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
