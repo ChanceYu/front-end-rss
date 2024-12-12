@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-11T16:11:19.228Z</updated>
+    <updated>2024-12-12T00:44:16.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
+        <updated>2024-12-11T00:00:00.000Z</updated>
+        <published>2024-12-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525584&amp;idx=1&amp;sn=d283a381bf41a50900fed32022f90602&amp;chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525584&amp;idx=1&amp;sn=d283a381bf41a50900fed32022f90602&amp;chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <published>2024-12-11T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[必备！2025 开发 AI 应用 JS 工具库盘点]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500077&amp;idx=1&amp;sn=4722f18688c42ec8aedd414c4a836b5f&amp;chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500077&amp;idx=1&amp;sn=4722f18688c42ec8aedd414c4a836b5f&amp;chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd"/>
-        <updated>2024-11-28T00:00:00.000Z</updated>
-        <published>2024-11-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源了！跳槽一定用得上的前端项目源码！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499364&amp;idx=1&amp;sn=7ebd86a2106d48470a3e657e34825644&amp;chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499364&amp;idx=1&amp;sn=7ebd86a2106d48470a3e657e34825644&amp;chksm=ce269d92f9511484ad3e682eb47e3dadc736e436d7a5f432c1b99f6e22d1e77cc1a689136b82#rd"/>
         <updated>2024-11-28T00:00:00.000Z</updated>
         <published>2024-11-28T00:00:00.000Z</published>
     </entry>
