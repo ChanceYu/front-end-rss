@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-12 08:44:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-12 10:57:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -70,6 +70,7 @@
 - [2018-11-04-【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect) 
 - [2018-10-30-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect) 
 - [2018-10-25-【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect) 
+- [2024-12-09-2024-年前端性能报告](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621644&idx=1&sn=9a90b5f1c430b45fb27326463954a507&chksm=80225ecdb755d7dbf9833d11f8ffd01d9b9387397c684571a30c8ad4c51350a45c350de42f94#rd) 
 - [2024-11-20-前端性能优化-开启-HTTP-缓存](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621625&idx=2&sn=af676b5f746ba8de77cdd711645809df&chksm=80225f38b755d62e4fb5bcc06f738b3cb20c5e3f225dc7120f12ca73e1ed8bcfb72b16d4901f#rd) 
 - [2023-11-24-面试官：做过性能优化？我：任务切片！](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617589&idx=1&sn=12406bbbe9d2cf7b6a8d46fa15db7957&chksm=8022aef4b75527e2534e75a91e8db677a3e0a1a8491ee4aef8f4f1802c34d9c5c3b1fe560bad#rd) 
 - [2023-11-10-一次前端性能优化——性能得分从56到96](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617493&idx=1&sn=c4d2a130d312acf9717646b77ee70a56&chksm=8022af14b75526020d2491699bc423923969c717d407990329eda504c85acd00ed87641f5e27#rd) 
@@ -213,8 +214,8 @@
 - [2023-11-12-一次前端性能优化——性能得分从56到96](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517303&idx=2&sn=982bea3f0b74270a2f8549095095b0f4&chksm=f99282a6cee50bb0f519f74f7acde0c2349b8b773b19909cf02a0d0b254cf88cb768c351554a#rd) 
 - [2023-10-09-性能优化，前端时间分片渲染简单做法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516550&idx=2&sn=4180035a059da3055ad07414cf27c72a&chksm=f9928757cee50e418f768c5a5276a8fe012fb833d68cf1f099040bd5b98f623fe8a0126266dd#rd) 
 - [2023-09-22-国民级应用：新-QQ-NT-桌面版内存优化探索之路](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516454&idx=2&sn=9f6434346f6efaef8005a11dcbb4a51d&chksm=f99287f7cee50ee1b9c776ec7e4ea0e3fc344c06aa4e97390deb70ac96744a8ed5e78a9be12d#rd) 
-- [2023-09-15-这些天，我们前端组一起处理的项目优化点](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=1&sn=1b89b54ffe5f25860fce8e1e2af1251b&chksm=f9928663cee50f7593fe8d95fbecf1fedea23488b9dfed66632ce70fb4159c5d504c509b4dd6#rd) 
 - [2023-09-15-腾讯QQ-桌面版的内存优化探索与总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=2&sn=a201247bed3646cddf92d6376a83544f&chksm=f9928663cee50f75ea5138d5985bde09d541d29f9a273d1c823ef99ae6e94f5645f11fef082d#rd) 
+- [2023-09-15-这些天，我们前端组一起处理的项目优化点](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516338&idx=1&sn=1b89b54ffe5f25860fce8e1e2af1251b&chksm=f9928663cee50f7593fe8d95fbecf1fedea23488b9dfed66632ce70fb4159c5d504c509b4dd6#rd) 
 - [2023-08-28-来公司半年了，我做了哪些优化，能让老板对我刮目相看~](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515892&idx=1&sn=024451416cf1812bb32984b811577d21&chksm=f992b825cee53133c2c695390065f30643187783ff84cee24c93d27b08debb3daedbec0468ad#rd) 
 - [2023-08-04-记一次前端项目优化，深度解读项目质量及性能常用手法](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=1&sn=3a28aa2eaf3b0b2f709e7a0653692fcd&chksm=f992bb5acee5324cad4512aec384db65f0f658ba3ceb16c2d653f952011b2ff50afc809a2b99#rd) 
 - [2023-07-30-前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515466&idx=1&sn=bffbe78643381468764ff013e85cb54a&chksm=f992bb9bcee5328dc49eaf3d9f054ec732bfecb871bc9f4a4d6d887291ec76d4bace6358b201#rd) 

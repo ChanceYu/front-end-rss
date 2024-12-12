@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-12 08:44:16。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-12 10:57:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-12-12-【早阅】-2024年HTML现状调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274558&idx=1&sn=b5d5e5e13d8d5531c5ed0f3faacc6574&chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&scene=0#rd) 
 - [2023-12-01-【第3128期】HTML-First](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267748&idx=1&sn=cae191423eb529032b37d28a39cd4fd5&chksm=bd48fb208a3f72367b77eafd414fd2cc34ddd4bd023b5b140d4a5f98b60267ecc24bbf0763f7#rd) 
 - [2023-03-05-【第2875期】HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261127&idx=1&sn=109b33bfb0f90d24f7d64dd696cecbec&chksm=bd48d1438a3f5855efb1d0fd7b6c1ea64f5301696cec21935ab1a9722ba4af40ce7e08f2c913#rd) 
 - [2021-05-21-【第2285期】让-Instagram.com-变得更快：提前刷新和渐进式HTML](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246144&idx=2&sn=8f2de94754e4b42e2e07b2f06835272a&chksm=bd4917c48a3e9ed2ec3678b0ae959f93feb29b630bb8d78e89d378beffd34eaa75549c4bbdc5&scene=27#wechat_redirect) 
