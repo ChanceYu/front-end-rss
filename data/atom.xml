@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-13T18:12:10.412Z</updated>
+    <updated>2024-12-14T02:53:29.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[纯 CSS 来计算当前窗口的宽高，怎么做到的？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501528&amp;idx=1&amp;sn=f09794594f3300e8847cd547abcc5d1e&amp;chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501528&amp;idx=1&amp;sn=f09794594f3300e8847cd547abcc5d1e&amp;chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd"/>
+        <updated>2024-12-13T00:00:00.000Z</updated>
+        <published>2024-12-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NPM 作者推出全新的 JavaScript 包管理器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd"/>
@@ -22,16 +29,16 @@
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】CSS实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【小册】CSS实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[会员场景端快照与ER缓存优化实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537256&amp;idx=1&amp;sn=ea26df1a45265daaf11b1812595ae7ac&amp;chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537256&amp;idx=1&amp;sn=ea26df1a45265daaf11b1812595ae7ac&amp;chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd"/>
-        <updated>2024-12-02T00:00:00.000Z</updated>
-        <published>2024-12-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS 如何模拟“真实”的进度条？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490108&amp;idx=1&amp;sn=0bec47995422abff5453d6bb3d984c64&amp;chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490108&amp;idx=1&amp;sn=0bec47995422abff5453d6bb3d984c64&amp;chksm=97c679f3a0b1f0e54d1b6ebf016f6497e223c56ddf165c019652c405652dc9e66ff2657b6480#rd"/>
         <updated>2024-12-02T00:00:00.000Z</updated>
         <published>2024-12-02T00:00:00.000Z</published>
     </entry>
