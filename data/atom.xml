@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-17T10:10:10.526Z</updated>
+    <updated>2024-12-17T12:16:40.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[优化单页应用 (SPA) 加载时间：异步代码块预加载]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524685&amp;idx=2&amp;sn=7c285e545bd226cc90ed6f1df85356e6&amp;chksm=f992679ccee5ee8ac8fdd24ff555bb0ea01194c38c5d5aa5639f37ac034c835d00ff5b919f4f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524685&amp;idx=2&amp;sn=7c285e545bd226cc90ed6f1df85356e6&amp;chksm=f992679ccee5ee8ac8fdd24ff555bb0ea01194c38c5d5aa5639f37ac034c835d00ff5b919f4f#rd"/>
+        <updated>2024-12-16T00:00:00.000Z</updated>
+        <published>2024-12-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发在线协同文档编辑器，应该考虑哪些重要的点？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501557&amp;idx=1&amp;sn=87d8e6ac3e5f241f7734b8f137e9119e&amp;chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501557&amp;idx=1&amp;sn=87d8e6ac3e5f241f7734b8f137e9119e&amp;chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd"/>
         <updated>2024-12-16T00:00:00.000Z</updated>
         <published>2024-12-16T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[哇哦，font-palette支持动画和palette-mix()混合函数了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/"/>
-        <updated>2024-12-04T00:00:00.000Z</updated>
-        <published>2024-12-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播间智能化升级：基于LLM的学习与分析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537275&amp;idx=1&amp;sn=eb1b14cb2f8568df15442111ea675320&amp;chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537275&amp;idx=1&amp;sn=eb1b14cb2f8568df15442111ea675320&amp;chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd"/>
         <updated>2024-12-04T00:00:00.000Z</updated>
         <published>2024-12-04T00:00:00.000Z</published>
     </entry>
