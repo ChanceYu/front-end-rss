@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-17T12:16:40.521Z</updated>
+    <updated>2024-12-17T14:09:32.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早阅】JavaScript 工具库演变：从 Lodash 和 Underscore 到原生 JavaScript]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd"/>
+        <updated>2024-12-17T00:00:00.000Z</updated>
+        <published>2024-12-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A look back at Node's 2024]]></title>
+        <id>https://nodeweekly.com/issues/560</id>
+        <link href="https://nodeweekly.com/issues/560"/>
         <updated>2024-12-17T00:00:00.000Z</updated>
         <published>2024-12-17T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/715"/>
         <updated>2024-12-05T00:00:00.000Z</updated>
         <published>2024-12-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哇哦，font-palette支持动画和palette-mix()混合函数了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/"/>
-        <updated>2024-12-04T00:00:00.000Z</updated>
-        <published>2024-12-04T00:00:00.000Z</published>
     </entry>
 </feed>

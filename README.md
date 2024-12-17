@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-17 20:16:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-17 22:09:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) ![](/assets/new.png)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
@@ -64,7 +65,6 @@
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
-- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -200,8 +200,8 @@
 </summary>
 
 
-- [2024-12-17-裁员严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501566&idx=1&sn=12f8b98ee285700f158d22742505cc69&chksm=ce45d36ff9325a799d56947958bc91ab872607e2e109393b4a198c10f0ef8dcf8455d5e7ca46#rd) ![](/assets/new.png)  
-- [2024-12-16-开发在线协同文档编辑器，应该考虑哪些重要的点？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501557&idx=1&sn=87d8e6ac3e5f241f7734b8f137e9119e&chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd) ![](/assets/new.png)  
+- [2024-12-17-裁员严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501566&idx=1&sn=12f8b98ee285700f158d22742505cc69&chksm=ce45d36ff9325a799d56947958bc91ab872607e2e109393b4a198c10f0ef8dcf8455d5e7ca46#rd)  
+- [2024-12-16-开发在线协同文档编辑器，应该考虑哪些重要的点？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501557&idx=1&sn=87d8e6ac3e5f241f7734b8f137e9119e&chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd)  
 - [2024-12-13-纯-CSS-来计算当前窗口的宽高，怎么做到的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501528&idx=1&sn=f09794594f3300e8847cd547abcc5d1e&chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd)  
 - [2024-12-12-2024前端开发岗位现状](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501527&idx=1&sn=c0a4eb9ace46963ae1f0c63684c76a82&chksm=ce45d346f9325a503a461fa24c6af1df99482c18803cb9c99cb869f195c1e6beaa5ef17076cb#rd)  
 - [2024-12-11-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501518&idx=1&sn=2b86d2068644d9d3c7e76eee38beef4d&chksm=ce45d35ff9325a49f32ef7875f2c1afb33952be59ee4a15b655c619ffe121e8453b781a0ad84#rd)  
