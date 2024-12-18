@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-18T08:12:17.130Z</updated>
+    <updated>2024-12-18T16:11:26.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[大前端：如何突破动态化容器的天花板？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516947&amp;idx=1&amp;sn=71944e56d60569763a7eace7a52200be&amp;chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516947&amp;idx=1&amp;sn=71944e56d60569763a7eace7a52200be&amp;chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd"/>
+        <updated>2024-12-18T00:00:00.000Z</updated>
+        <published>2024-12-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 开始反击了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524721&amp;idx=2&amp;sn=5b401dc7230980c31554df40b9ec0659&amp;chksm=f99267a0cee5eeb6937acde062c565862d4fe73c1522d18ddd7993d97f7884b00f64a65a5825#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274387&amp;idx=2&amp;sn=9eff3dc80d6f300d94b7c58171ed5b77&amp;chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&amp;scene=0#rd"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <published>2024-12-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Diff 算法的源码应该怎么读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516868&amp;idx=1&amp;sn=c17857ddad0582ab57f07f3a0022c452&amp;chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516868&amp;idx=1&amp;sn=c17857ddad0582ab57f07f3a0022c452&amp;chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <published>2024-12-05T00:00:00.000Z</published>
     </entry>
 </feed>
