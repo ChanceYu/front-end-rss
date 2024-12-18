@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-17T14:09:32.324Z</updated>
+    <updated>2024-12-18T04:12:10.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3433期】见证 Web 进化：Chrome 内置 AI]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274730&amp;idx=1&amp;sn=1f98bafae58b98bef830996b28a0b4c0&amp;chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274730&amp;idx=1&amp;sn=1f98bafae58b98bef830996b28a0b4c0&amp;chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&amp;scene=0#rd"/>
+        <updated>2024-12-18T00:00:00.000Z</updated>
+        <published>2024-12-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】JavaScript 工具库演变：从 Lodash 和 Underscore 到原生 JavaScript]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd</id>
@@ -127,16 +134,16 @@
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】CSS实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【小册】CSS实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <published>2024-12-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle engages its lawyers and JavaScript turns 29]]></title>
-        <id>https://javascriptweekly.com/issues/715</id>
-        <link href="https://javascriptweekly.com/issues/715"/>
         <updated>2024-12-05T00:00:00.000Z</updated>
         <published>2024-12-05T00:00:00.000Z</published>
     </entry>
