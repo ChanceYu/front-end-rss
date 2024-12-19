@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-18T16:11:26.498Z</updated>
+    <updated>2024-12-19T02:52:38.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【直播预告】CIMPro孪大师V6.3 数字孪生WebAPI二次开发技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501589&amp;idx=1&amp;sn=ae80b148fd3f88f0b1be00d48437cb88&amp;chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501589&amp;idx=1&amp;sn=ae80b148fd3f88f0b1be00d48437cb88&amp;chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <published>2024-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大前端：如何突破动态化容器的天花板？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516947&amp;idx=1&amp;sn=71944e56d60569763a7eace7a52200be&amp;chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd</id>
@@ -162,16 +169,16 @@
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【小册】CSS实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】CSS实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JavaScript 高阶技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524482&amp;idx=1&amp;sn=3261134a4694d4aebb98a934f4bb0ba5&amp;chksm=f9926653cee5ef4516021a2ef98488d009d31ebf3b2e6e4b6bef806e45f960011472de65a30e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524482&amp;idx=1&amp;sn=3261134a4694d4aebb98a934f4bb0ba5&amp;chksm=f9926653cee5ef4516021a2ef98488d009d31ebf3b2e6e4b6bef806e45f960011472de65a30e#rd"/>
-        <updated>2024-12-06T00:00:00.000Z</updated>
-        <published>2024-12-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】Vue.js 3 高级编程：UI组件库开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274387&amp;idx=2&amp;sn=9eff3dc80d6f300d94b7c58171ed5b77&amp;chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274387&amp;idx=2&amp;sn=9eff3dc80d6f300d94b7c58171ed5b77&amp;chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&amp;scene=0#rd"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <published>2024-12-06T00:00:00.000Z</published>
     </entry>
