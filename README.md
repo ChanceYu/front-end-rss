@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-19 12:11:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-19 18:10:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,7 +21,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -30,7 +30,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -201,7 +201,7 @@
 
 
 - [2024-12-19-【直播预告】CIMPro孪大师V6.3-数字孪生WebAPI二次开发技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501589&idx=1&sn=ae80b148fd3f88f0b1be00d48437cb88&chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd)  
-- [2024-12-18-12月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501582&idx=1&sn=4d2da181d96b2927f0415d19667057a5&chksm=ce45d29ff9325b89e76ac03afb01a33128d93d0aa57a72d7ab9582247a62c0bea0df9a9ed3e3#rd) ![](/assets/new.png)  
+- [2024-12-18-12月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501582&idx=1&sn=4d2da181d96b2927f0415d19667057a5&chksm=ce45d29ff9325b89e76ac03afb01a33128d93d0aa57a72d7ab9582247a62c0bea0df9a9ed3e3#rd)  
 - [2024-12-17-裁员严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501566&idx=1&sn=12f8b98ee285700f158d22742505cc69&chksm=ce45d36ff9325a799d56947958bc91ab872607e2e109393b4a198c10f0ef8dcf8455d5e7ca46#rd)  
 - [2024-12-16-开发在线协同文档编辑器，应该考虑哪些重要的点？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501557&idx=1&sn=87d8e6ac3e5f241f7734b8f137e9119e&chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd)  
 - [2024-12-13-纯-CSS-来计算当前窗口的宽高，怎么做到的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501528&idx=1&sn=f09794594f3300e8847cd547abcc5d1e&chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2024-12-18-低成本增量计算：大数据处理的新趋势](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537435&idx=1&sn=c5a4aabc09147fadfe2d32bacda81f98&chksm=839735c3b4e0bcd54ecc69d9aac763f4e16df916873e0f551c4952737c3372407ef42c448fc6#rd) ![](/assets/new.png)  
 - [2024-12-16-内容AI:-目标驱动的图像生成](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537413&idx=1&sn=67b582dba5109fb0c02c351f7c18b930&chksm=839735ddb4e0bccbdaea2b98ec422d4928c91cefdd7e8da563dcd78fe2e03b06558187aae2d9#rd)  
 - [2024-12-13-MyBatis布尔字段映射陷阱全过程解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537380&idx=1&sn=8ed791ddd0d4e2955c3cc373ee48f257&chksm=839735bcb4e0bcaadc1eeba7a417ba3f323f73c6b5c86ee934974c7888c2ed91b8f93753856b#rd)  
 - [2024-12-11-JDK11升级后内存问题解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537341&idx=1&sn=a55d146cd7a3d43162a7c634e22ae996&chksm=83973565b4e0bc730b6d8253b7e5c7fccae2a2608c4b90ec409c826385f0b38114124ef4a57c#rd)  
@@ -498,7 +499,6 @@
 - [2024-11-08-提升业财系统测试充分度的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536734&idx=1&sn=9401b9a7635ccfb2c6bff867c6c06723&chksm=83973306b4e0ba1022d5c53002e70cfe16c353698473a0fc658a75f2d2d2a090275180b94129#rd)  
 - [2023-02-09-ECMAScript-Async-Context-提案介绍](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496436&idx=1&sn=e70be445983029af1d0cf857912b9115&chksm=ec47b937db3030210111e9a753c2cd3e8d191426fd5377b04c1673e31a9089c6bc630a095736#rd)  
 - [2023-02-02-【ECMAScript-新消息速递】🎉-恭喜阿里巴巴昭朗同学负责的异步上下文提案在本周三晚中成功进入-Stage-1！该提案将提供异步上下文传递的能力，解决调试、观测、框架开发等方面的难题。本公众号后续会有惯例的-ECMAScript-双月报告详细介绍提案细节。](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496434&idx=1&sn=96f3f02241b23ee6160664d0178f7088&chksm=ec47b931db3030272a7b155ea84e1ce00ff43bc98f4f254fd64ef4d9d1a245b6e03543b3152b#rd)  
-- [2023-01-17-在-Node.js-中如何通过子进程与其他语言（Go）进行-IPC-通信](https://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496430&idx=1&sn=096f67e92894dcc04d6b1be17bce645c&chksm=ec47b92ddb30303bf028e36a2eea0bf4d19338270e090c318a8ae0861f2d497a0e455bad6b47#rd)  
 - [......【查看更多】......](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
