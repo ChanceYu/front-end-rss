@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-19T16:10:56.577Z</updated>
+    <updated>2024-12-19T18:11:42.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[【直播预告】CIMPro孪大师V6.3 数字孪生WebAPI二次开发技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501589&amp;idx=1&amp;sn=ae80b148fd3f88f0b1be00d48437cb88&amp;chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501589&amp;idx=1&amp;sn=ae80b148fd3f88f0b1be00d48437cb88&amp;chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <published>2024-12-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A 2024 JavaScript retrospective]]></title>
+        <id>https://javascriptweekly.com/issues/717</id>
+        <link href="https://javascriptweekly.com/issues/717"/>
         <updated>2024-12-19T00:00:00.000Z</updated>
         <published>2024-12-19T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274442&amp;idx=1&amp;sn=9a26dce6366b20268f223d264ae1206a&amp;chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&amp;scene=0#rd"/>
         <updated>2024-12-07T00:00:00.000Z</updated>
         <published>2024-12-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英文单词朗读基于音素预估时长的JS算法]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/"/>
-        <updated>2024-12-06T00:00:00.000Z</updated>
-        <published>2024-12-06T00:00:00.000Z</published>
     </entry>
 </feed>
