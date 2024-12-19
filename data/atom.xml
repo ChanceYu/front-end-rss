@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-19T10:10:12.347Z</updated>
+    <updated>2024-12-19T16:10:56.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript「红宝书」第5版来了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <published>2024-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【直播预告】CIMPro孪大师V6.3 数字孪生WebAPI二次开发技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501589&amp;idx=1&amp;sn=ae80b148fd3f88f0b1be00d48437cb88&amp;chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[英文单词朗读基于音素预估时长的JS算法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/"/>
-        <updated>2024-12-06T00:00:00.000Z</updated>
-        <published>2024-12-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 高阶技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524482&amp;idx=1&amp;sn=3261134a4694d4aebb98a934f4bb0ba5&amp;chksm=f9926653cee5ef4516021a2ef98488d009d31ebf3b2e6e4b6bef806e45f960011472de65a30e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524482&amp;idx=1&amp;sn=3261134a4694d4aebb98a934f4bb0ba5&amp;chksm=f9926653cee5ef4516021a2ef98488d009d31ebf3b2e6e4b6bef806e45f960011472de65a30e#rd"/>
         <updated>2024-12-06T00:00:00.000Z</updated>
         <published>2024-12-06T00:00:00.000Z</published>
     </entry>
