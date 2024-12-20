@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-19T18:11:42.529Z</updated>
+    <updated>2024-12-20T02:43:37.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3434期】VSCode 推出 GitHub Copilot 免费版]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274815&amp;idx=1&amp;sn=48396b04209610b2765f1b34e39eee50&amp;chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274815&amp;idx=1&amp;sn=48396b04209610b2765f1b34e39eee50&amp;chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&amp;scene=0#rd"/>
+        <updated>2024-12-20T00:00:00.000Z</updated>
+        <published>2024-12-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript「红宝书」第5版来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd</id>
@@ -183,16 +190,16 @@
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【小册】CSS实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【小册】CSS实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3 项目中，如何设计一个表单配置生成器？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501434&amp;idx=1&amp;sn=80a391451924e275da0a98de506a6f06&amp;chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501434&amp;idx=1&amp;sn=80a391451924e275da0a98de506a6f06&amp;chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd"/>
-        <updated>2024-12-07T00:00:00.000Z</updated>
-        <published>2024-12-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】React 19 正式发布]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274442&amp;idx=1&amp;sn=9a26dce6366b20268f223d264ae1206a&amp;chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274442&amp;idx=1&amp;sn=9a26dce6366b20268f223d264ae1206a&amp;chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&amp;scene=0#rd"/>
         <updated>2024-12-07T00:00:00.000Z</updated>
         <published>2024-12-07T00:00:00.000Z</published>
     </entry>

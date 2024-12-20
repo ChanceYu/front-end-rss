@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-20 02:11:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-20 10:43:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717) ![](/assets/new.png)  
+- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
@@ -107,25 +107,25 @@
 </summary>
 
 
-- [2024-12-19-WeaveFox：前端智能研发解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274761&idx=1&sn=9ffb2772ea1043968f450a04c37653ba&chksm=bcd8f71b21588e8a4355bf3a171644015b391edeaf959e04c37879ca00e177ee4a54175f9ed3&scene=0#rd)  
+- [2024-12-20-【第3434期】VSCode-推出-GitHub-Copilot-免费版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274815&idx=1&sn=48396b04209610b2765f1b34e39eee50&chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&scene=0#rd) ![](/assets/new.png)  
 - [2024-12-19-【早阅】前端智能研发：赋能未来应用开发新范式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274761&idx=2&sn=cf13d358ce97954cb821c0f232739a2c&chksm=bcb56086acfd3fee6b23ca34703f806f78a06eb7b3774585746748d907a226215f95d10a61f9&scene=0#rd)  
+- [2024-12-19-WeaveFox：前端智能研发解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274761&idx=1&sn=9ffb2772ea1043968f450a04c37653ba&chksm=bcd8f71b21588e8a4355bf3a171644015b391edeaf959e04c37879ca00e177ee4a54175f9ed3&scene=0#rd)  
 - [2024-12-18-【第3433期】见证-Web-进化：Chrome-内置-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274730&idx=1&sn=1f98bafae58b98bef830996b28a0b4c0&chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&scene=0#rd)  
 - [2024-12-17-【早阅】JavaScript-工具库演变：从-Lodash-和-Underscore-到原生-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274666&idx=1&sn=05ae34593f07398c82d0568a0f011ea5&chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&scene=0#rd)  
-- [2024-12-16-【图书】JavaScript「红宝书」第5版来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274653&idx=2&sn=18657d40931f37f3a91b15ef6a254829&chksm=bc0c8c76ae6dbb15d60a8987dbf476b7a99ba086171228b7b97ee0e0d9ce0fff5c64e2eb584e&scene=0#rd)  
 - [2024-12-16-【第3432期】-WASM-助力-WebCodecs：填补解封装能力的空白](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274653&idx=1&sn=bd13f4bd4bcc5d29bf2f05ff6bad4148&chksm=bc46cb0e347227267ceaff66507d28022f1210dd1a8bda9ccf6064a0ccc542a994d2419890fa&scene=0#rd)  
+- [2024-12-16-【图书】JavaScript「红宝书」第5版来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274653&idx=2&sn=18657d40931f37f3a91b15ef6a254829&chksm=bc0c8c76ae6dbb15d60a8987dbf476b7a99ba086171228b7b97ee0e0d9ce0fff5c64e2eb584e&scene=0#rd)  
 - [2024-12-15-【早阅】创建可访问的CSS艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274640&idx=1&sn=80eaade0f16de8e36fb7c33242b59424&chksm=bcb61a8bd24a6eafb1ae65b0f1d56ba718738e537ec82e1fdac6f21d012ddb87724ae059bfa4&scene=0#rd)  
 - [2024-12-14-【早阅】未来网页应用：离线优先和点对点设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274636&idx=1&sn=c4f53bd9a0b3f2f9903aee74b7de82b6&chksm=bc858e2a379c7325d82ed2bcda93c5c4ad2ff13bd86e6ae4039bb098bc0bbda7c635e3e873c9&scene=0#rd)  
-- [2024-12-13-【第3431期】Ant-Design-X-1.0-发布：一个全新的-AGI-组件库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=1&sn=8ea8e2d2a31c61e7524b6092631b59c7&chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&scene=0#rd)  
 - [2024-12-13-【小册】CSS实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=2&sn=613f2ec9616a4b8427d7a3924d5dbd2a&chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&scene=0#rd)  
+- [2024-12-13-【第3431期】Ant-Design-X-1.0-发布：一个全新的-AGI-组件库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=1&sn=8ea8e2d2a31c61e7524b6092631b59c7&chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&scene=0#rd)  
 - [2024-12-12-【早阅】-2024年HTML现状调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274558&idx=1&sn=b5d5e5e13d8d5531c5ed0f3faacc6574&chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&scene=0#rd)  
 - [2024-12-11-【第3430期】CSS-如何模拟“真实的”进度条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274514&idx=1&sn=acea5f08803103c736368a52113b421e&chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&scene=0#rd)  
 - [2024-12-10-【早阅】浏览器扩展程序攻击](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274484&idx=1&sn=6e50ccc6ca737dbe24e5089d9f3105ed&chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&scene=0#rd)  
 - [2024-12-09-【第3429期】css-doodle-介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274450&idx=1&sn=d3c7630783bb8d7e31244c8bb7d2b2c1&chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&scene=0#rd)  
 - [2024-12-08-【早阅】Signals分析：从历史到影响](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274446&idx=1&sn=600b51dec85538cbdf512902411f13b3&chksm=bc4eb89b22f3aa1c58a7bfd211a88f3a8537f5fe00c97bdc4487aefe5ac8064a143349702a3a&scene=0#rd)  
 - [2024-12-07-【早阅】React-19-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274442&idx=1&sn=9a26dce6366b20268f223d264ae1206a&chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&scene=0#rd)  
-- [2024-12-06-【图书】Vue.js-3-高级编程：UI组件库开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=2&sn=9eff3dc80d6f300d94b7c58171ed5b77&chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&scene=0#rd)  
 - [2024-12-06-【第3428期】Speculation-Rules的分层方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=1&sn=3a758569953166b250a0df208413c8ed&chksm=bc65e096e0db869c6103abe59ef43ffad42020312cbce3069cd075ba29be3f1fa800be0db244&scene=0#rd)  
-- [2024-12-05-【第3427期】前端数据中心使用LLM训练错误信息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=1&sn=6fef742f6bdbf926933887abdef1533d&chksm=bcde0a4541fdb1f899d6e14f7771d21269696b8a4ab5a9215794e1ed70116134f73e12c1a9f4&scene=0#rd)  
+- [2024-12-06-【图书】Vue.js-3-高级编程：UI组件库开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=2&sn=9eff3dc80d6f300d94b7c58171ed5b77&chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&scene=0#rd)  
 - [2024-12-05-【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=2&sn=e87cc1e140c88a9206d33fe3a68ac621&chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&scene=0#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
