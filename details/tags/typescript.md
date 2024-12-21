@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-22 04:09:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-22 06:07:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -168,6 +168,7 @@
 - [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
+- [2024-12-21-学TypeScript常被忽视的小概念declare](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=2&sn=59aed7f648f5fa7638adfdc0fed1fb83&chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd) 
 - [2023-09-20-基于-RPC-和-TypeScript-的-BFF-设计与实践](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516412&idx=1&sn=20bfc1ee98c899ec9d6f88c4cd6d1ea3&chksm=f992862dcee50f3ba419571f33e0b8c9372c18668ba3465052d9f21e5a5e61e7c99b55b3aac3#rd) 
 - [2023-08-14-用-TypeScript-编写一个-2D-格斗游戏](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515713&idx=1&sn=8becfa07c86f988b7c1cbc6af81f854f&chksm=f992b890cee531868885b6f7766780181424d8f9d3fd7bfc43108650f6ec13a61f24253831e5#rd) 
 - [2023-08-04-TypeScript之父也搞大模型：推出TypeChat](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515531&idx=2&sn=ba69e728e3afa69dd3c64cb6c5d87ed1&chksm=f992bb5acee5324c8fa69fe98d445ab7e07f5e5fd05efdfb5a0590eddbab1ac427adce00d3f5#rd) 
