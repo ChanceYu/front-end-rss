@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-21T02:41:19.954Z</updated>
+    <updated>2024-12-21T18:11:01.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[前端给客户实现了一个【五子棋】的小游戏，有点6！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501766&amp;idx=1&amp;sn=94e09d23b31b4e8779547ad003e3f4db&amp;chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501766&amp;idx=1&amp;sn=94e09d23b31b4e8779547ad003e3f4db&amp;chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd"/>
+        <updated>2024-12-21T00:00:00.000Z</updated>
+        <published>2024-12-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早阅】GitHub Copilot最佳实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274819&amp;idx=1&amp;sn=34b6439cdc3fd7777ef9695072af43b2&amp;chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274819&amp;idx=1&amp;sn=34b6439cdc3fd7777ef9695072af43b2&amp;chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&amp;scene=0#rd"/>
         <updated>2024-12-21T00:00:00.000Z</updated>
         <published>2024-12-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型 Vue 项目，该不该用 Pinia 、Vuex呢？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501590&amp;idx=1&amp;sn=81cc1560b3496d8a7496ea04286aef52&amp;chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501590&amp;idx=1&amp;sn=81cc1560b3496d8a7496ea04286aef52&amp;chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd"/>
+        <updated>2024-12-20T00:00:00.000Z</updated>
+        <published>2024-12-20T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3434期】VSCode 推出 GitHub Copilot 免费版]]></title>
@@ -32,6 +46,13 @@
         <title type="html"><![CDATA[JavaScript「红宝书」第5版来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500099&amp;idx=1&amp;sn=691a075d9324f25314c90f96d41793e2&amp;chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd"/>
+        <updated>2024-12-19T00:00:00.000Z</updated>
+        <published>2024-12-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来战！「豆包 MarsCode 算法竞技赛」第二期开赛，丰厚奖金等你来拿]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505932&amp;idx=1&amp;sn=1d1f4992b94857558b59a4edc053d342&amp;chksm=cea96f0df9dee61b03779f13e0ffb53eb82687911f9366faa2d6fe26dd19ee122f35f9c49037#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505932&amp;idx=1&amp;sn=1d1f4992b94857558b59a4edc053d342&amp;chksm=cea96f0df9dee61b03779f13e0ffb53eb82687911f9366faa2d6fe26dd19ee122f35f9c49037#rd"/>
         <updated>2024-12-19T00:00:00.000Z</updated>
         <published>2024-12-19T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274450&amp;idx=1&amp;sn=d3c7630783bb8d7e31244c8bb7d2b2c1&amp;chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&amp;scene=0#rd"/>
         <updated>2024-12-09T00:00:00.000Z</updated>
         <published>2024-12-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[期待已久的 React 19 正式发布！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524585&amp;idx=2&amp;sn=bcd23db01149fa88229567a6c926e726&amp;chksm=f9926638cee5ef2e94e2d694eb2ec278d6059b5f59e6017c02be49605b4d05b64bf3510c48b5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524585&amp;idx=2&amp;sn=bcd23db01149fa88229567a6c926e726&amp;chksm=f9926638cee5ef2e94e2d694eb2ec278d6059b5f59e6017c02be49605b4d05b64bf3510c48b5#rd"/>
-        <updated>2024-12-08T00:00:00.000Z</updated>
-        <published>2024-12-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊 Node.js 最近支持的 SO_REUSEPORT]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=2&amp;sn=c69326ffeb1ba716ec89ca328422d9bf&amp;chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=2&amp;sn=c69326ffeb1ba716ec89ca328422d9bf&amp;chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd"/>
-        <updated>2024-12-07T00:00:00.000Z</updated>
-        <published>2024-12-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Three.js搞个炫酷风场图]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=1&amp;sn=8ea78c7ca6679f73b8f308f137fdbef1&amp;chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=1&amp;sn=8ea78c7ca6679f73b8f308f137fdbef1&amp;chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd"/>
-        <updated>2024-12-07T00:00:00.000Z</updated>
-        <published>2024-12-07T00:00:00.000Z</published>
     </entry>
 </feed>
