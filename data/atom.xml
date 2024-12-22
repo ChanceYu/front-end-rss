@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-22T02:49:52.997Z</updated>
+    <updated>2024-12-22T18:10:53.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使用JS获取系统内存、CPU/GPU、电量等信息]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"/>
+        <updated>2024-12-23T00:00:00.000Z</updated>
+        <published>2024-12-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学TypeScript常被忽视的小概念declare]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=2&amp;sn=59aed7f648f5fa7638adfdc0fed1fb83&amp;chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274484&amp;idx=1&amp;sn=6e50ccc6ca737dbe24e5089d9f3105ed&amp;chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&amp;scene=0#rd"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型“翻车”背后的技术原理及解决方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537305&amp;idx=1&amp;sn=ff4f459e24bf7c40d4850e6de5dcd952&amp;chksm=83973541b4e0bc576cd9bb16d332a34acfed0f95b3fc1a85d576812e4084fd59baf2cbae920e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537305&amp;idx=1&amp;sn=ff4f459e24bf7c40d4850e6de5dcd952&amp;chksm=83973541b4e0bc576cd9bb16d332a34acfed0f95b3fc1a85d576812e4084fd59baf2cbae920e#rd"/>
-        <updated>2024-12-09T00:00:00.000Z</updated>
-        <published>2024-12-09T00:00:00.000Z</published>
     </entry>
 </feed>
