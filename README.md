@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-23 10:46:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 18:10:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2024-12-23-【第3435期】构建更高效的-React-应用：react-scan-的使用与原理探究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274828&idx=1&sn=0a815aff0a04d32f5f512646693f4ad6&chksm=bc4edf03401302764a8a03333dec57c7ab4d75a77e070ded57790c0f8d860434fd263d2358bf&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-23-【第3435期】构建更高效的-React-应用：react-scan-的使用与原理探究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274828&idx=1&sn=0a815aff0a04d32f5f512646693f4ad6&chksm=bc4edf03401302764a8a03333dec57c7ab4d75a77e070ded57790c0f8d860434fd263d2358bf&scene=0#rd)  
 - [2024-12-22-【早阅】工程团队代码所有权挑战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274823&idx=1&sn=f64df6f16d1c174cc7d7b6fd9d0ae3d3&chksm=bc3ac0c3f98ae4833f2b212f0f453255d235235e197999f5872448b274ab207f5d86804fce7a&scene=0#rd)  
 - [2024-12-21-【早阅】GitHub-Copilot最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274819&idx=1&sn=34b6439cdc3fd7777ef9695072af43b2&chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&scene=0#rd)  
 - [2024-12-20-【第3434期】VSCode-推出-GitHub-Copilot-免费版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274815&idx=1&sn=48396b04209610b2765f1b34e39eee50&chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&scene=0#rd)  
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2024-12-23-Vue-团队官宣：Vue-的性能将提升-400%，世界最快前端框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501797&idx=1&sn=760c635358012b883a3f8edc4de944ac&chksm=ce45d274f9325b62b2193bdd9cf4d42f9ea7d33d9c7ac0383d4f2dbe06581a089f9d93ed2329#rd) ![](/assets/new.png)  
+- [2024-12-22-如何实现超级酷炫的星星连线效果？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501767&idx=1&sn=13ba88dc3796166ee3b8bcecac644c0e&chksm=ce45d256f9325b409fd5bb74d31522ed176584d0d6e70b38b123abac3840d616bfec61aadc32#rd) ![](/assets/new.png)  
 - [2024-12-21-前端给客户实现了一个【五子棋】的小游戏，有点6！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501766&idx=1&sn=94e09d23b31b4e8779547ad003e3f4db&chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd)  
 - [2024-12-20-小型-Vue-项目，该不该用-Pinia-、Vuex呢？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501590&idx=1&sn=81cc1560b3496d8a7496ea04286aef52&chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd)  
 - [2024-12-19-【直播预告】CIMPro孪大师V6.3-数字孪生WebAPI二次开发技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501589&idx=1&sn=ae80b148fd3f88f0b1be00d48437cb88&chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd)  
@@ -218,8 +220,6 @@
 - [2024-12-04-搭建公司知识管理平台，分享一点心得！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501392&idx=1&sn=2087ef421e4c665e83cb55ff09cd4f6a&chksm=ce45d3c1f9325ad77439c6f6d779df7028149fb96b17d18d6fff999c1e2b49789f4a83b75d8f#rd)  
 - [2024-12-03-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501359&idx=1&sn=03d220ec2f1a805168cb697b28917c2c&chksm=ce45d3bef9325aa8ddcc39839c94a527a51d7fd89000de4a84d101549f8c4202f1e5710629ee#rd)  
 - [2024-12-02-2024-了，前端到底是“技术深度”重要还是“技术广度”重要？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501312&idx=1&sn=f577e40a9d6fbb5af76526bef969e163&chksm=ce45d391f9325a876582038cfd0c73120e0ad7b2ecb9918748799865598bc096b569429b5538#rd)  
-- [2024-12-01-Vite-6.0-到底更新了啥玩意啊？？？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501254&idx=1&sn=28d5ed0b572a33898d775be1455e9362&chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd)  
-- [2024-11-30-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501242&idx=1&sn=bf2646a434ad1a617f9c1c4b8f3d6d2b&chksm=ce45d02bf932593d64eeade53ef2ff3a1ab4ee6cf82e817df1d455cc94a156a6e043369d3fe0#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
