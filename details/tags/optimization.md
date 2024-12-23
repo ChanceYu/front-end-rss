@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-24 02:11:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-24 04:09:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -245,6 +245,7 @@
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd) 
 - [2023-08-01-油管性能拉跨，Chrome-团队出手相助…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512840&idx=1&sn=3aebfaf8a644cf5cb16ba4461247ee54&chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd) 
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd) 
+- [2024-12-23-Weex购物车长列表横滑操作优化“编年史”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537506&idx=1&sn=5a023293f7064660ea52a1fe7e5ced5d&chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd) 
 - [2024-12-02-会员场景端快照与ER缓存优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537256&idx=1&sn=ea26df1a45265daaf11b1812595ae7ac&chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd) 
 - [2024-11-29-搭建业务的性能优化指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537238&idx=1&sn=8e57dca84c4655fc900aa7a2b15f8cab&chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd) 
 - [2022-05-31-并发渲染优化：让文件树的渲染又快又稳](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495557&idx=1&sn=41745805dcd01b806db6dbbfd712c39e&chksm=ec47a446db302d502f380805ed96566e66d0294e7c34c2232c2d964927a840d066a35f3639ee#rd) 

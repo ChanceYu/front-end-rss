@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-23T18:11:14.384Z</updated>
+    <updated>2024-12-23T20:09:41.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[如何使用JS获取系统内存、CPU/GPU、电量等信息]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"/>
+        <updated>2024-12-23T00:00:00.000Z</updated>
+        <published>2024-12-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weex购物车长列表横滑操作优化“编年史”]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537506&amp;idx=1&amp;sn=5a023293f7064660ea52a1fe7e5ced5d&amp;chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537506&amp;idx=1&amp;sn=5a023293f7064660ea52a1fe7e5ced5d&amp;chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd"/>
         <updated>2024-12-23T00:00:00.000Z</updated>
         <published>2024-12-23T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[最新开源：超强的 React 性能测试工具！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516907&amp;idx=2&amp;sn=e41c22244d648fce60e40b5ac2558bdf&amp;chksm=eb07ba92dc7033847aee0ab7f05c2110defe9da93e90dedcc58fb0925b1f7755526ea8fa60b9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516907&amp;idx=2&amp;sn=e41c22244d648fce60e40b5ac2558bdf&amp;chksm=eb07ba92dc7033847aee0ab7f05c2110defe9da93e90dedcc58fb0925b1f7755526ea8fa60b9#rd"/>
-        <updated>2024-12-10T00:00:00.000Z</updated>
-        <published>2024-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年 CSS 已经变得如此强大了？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499376&amp;idx=1&amp;sn=74406b84d86433ed48f49b8e43741978&amp;chksm=ce269d86f95114909a1586ccd3378fcd0de2bfe18e24a333176b5de1fe51514d28e4c527922f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499376&amp;idx=1&amp;sn=74406b84d86433ed48f49b8e43741978&amp;chksm=ce269d86f95114909a1586ccd3378fcd0de2bfe18e24a333176b5de1fe51514d28e4c527922f#rd"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
