@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 18:10:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-24 02:11:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3147,6 +3147,7 @@
 - [2023-04-13-修复违和感！有意思的粘性气泡-Loading-效果续集](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495476&idx=1&sn=c6962b8d952ffd4d0b5b72f2c37c21b0&chksm=ce268cc2f95105d4196fb4804202a7955799903f0008ef415be984618d3610df63a2488e8113#rd) 
 - [2023-01-15-不负时光，Coco-的-2022-年终总结](https://mp.weixin.qq.com/s/3VLFVxfV2rCgNlJIqo8Wvg) 
 - [2022-12-29-Amazing!如何根据背景色自动切换黑白文字？](https://mp.weixin.qq.com/s/rp4W45Y2Sl3FrQtoRRSTnw) 
+- [2024-12-23-稀土掘金｜-2024年度人气创作者榜单火热开启！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505941&idx=1&sn=d3cc3e30dddd6d68dbe47fd9e15d0a3f&chksm=cea96f14f9dee6022a6fcda5c7aceca4644d035134b9d01b94aa524b3732e44de6eba9e7c806#rd) 
 - [2024-11-28-前端、后端、大数据免费学，豆包MarsCode-青训营---寒假专场报名啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505913&idx=1&sn=32d1211336feaec74b01a43844cb2738&chksm=cea960f8f9dee9ee30f0590965b43a7284ad20cd86c96574da78ea6ea367b53efc091e9b6ba9#rd) 
 - [2024-10-22-1024-码上奇妙夜｜开发者专属，万元“豪”礼，宠爱满满！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505893&idx=1&sn=fbe28098cedefb6494e7252551fe9f95&chksm=cea960e4f9dee9f2e691fee2bb5e22b92ef74fd90bc6e6f9a559306d463d7e8de510c86190df#rd) 
 - [2024-09-26-前端、AI、后端免费学-|-青训营-X-豆包MarsCode-技术训练营报名啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505885&idx=1&sn=0b29245584e952d334e20c103374dbb6&chksm=cea960dcf9dee9ca07f29891f2c02794287b15a52af9ce50d8d9a1f3b328eaa53b0cdc18478e#rd) 
