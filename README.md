@@ -12,18 +12,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-24 10:43:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-25 00:10:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2024-12-24-【早阅】适配器和组合设计模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274832&idx=1&sn=456ec9bb3869fcd4e2b8e2d54c3264e1&chksm=bc4da2e67783145db1a102be12e0bc88389fae5c1db1adbb131c0f514eaee67a84a89365ebc2&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-24-【早阅】适配器和组合设计模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274832&idx=1&sn=456ec9bb3869fcd4e2b8e2d54c3264e1&chksm=bc4da2e67783145db1a102be12e0bc88389fae5c1db1adbb131c0f514eaee67a84a89365ebc2&scene=0#rd)  
 - [2024-12-23-【第3435期】构建更高效的-React-应用：react-scan-的使用与原理探究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274828&idx=1&sn=0a815aff0a04d32f5f512646693f4ad6&chksm=bc4edf03401302764a8a03333dec57c7ab4d75a77e070ded57790c0f8d860434fd263d2358bf&scene=0#rd)  
 - [2024-12-22-【早阅】工程团队代码所有权挑战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274823&idx=1&sn=f64df6f16d1c174cc7d7b6fd9d0ae3d3&chksm=bc3ac0c3f98ae4833f2b212f0f453255d235235e197999f5872448b274ab207f5d86804fce7a&scene=0#rd)  
 - [2024-12-21-【早阅】GitHub-Copilot最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274819&idx=1&sn=34b6439cdc3fd7777ef9695072af43b2&chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&scene=0#rd)  
@@ -262,26 +262,26 @@
 </summary>
 
 
-- [2024-12-21-2024年细讲前端工程化【万字长文年终总结】冲冲冲！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=1&sn=34e019e49e054c4b53b80ac0fb6fc2db&chksm=f992674ecee5ee585746cacb2b86c4262445ce2c9650f13d990ab3a4f13e9cfb8ae749f9efff#rd)  
+- [2024-12-23-小程序页面跳转如何优雅携带大数据Array或Object](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=2&sn=b35f9f1240a930a4521b211b68e7a9ab&chksm=f9926762cee5ee74393197b25cedfc59bf659a665ead82c6cf99a8d573631c5b367cbf3c46f1#rd) ![](/assets/new.png)  
+- [2024-12-23-只会用-2005-年的-Git-老命令？这-7-个-Git-新命令，很实用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=1&sn=bb288f43005c840c1987d602c8c72ca2&chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd) ![](/assets/new.png)  
+- [2024-12-22-最新发布：2024-Node.js-性能报告出炉，v22-性能大幅提升！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524775&idx=1&sn=d0a364084b847e606ace66dbc1fd57a3&chksm=f9926776cee5ee60db22b916ed0bd0b5ebb507656c3b2a2716fed1fb7150cfe604ac64cbbb83#rd) ![](/assets/new.png)  
+- [2024-12-22-如何用资源提示和-HTTP/2-多路复用让网页加载速度飞起来？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524775&idx=2&sn=abc4a7ecdaf9f15b4f8baf95007182ce&chksm=f9926776cee5ee60cde2f95102dec72a127d9b5111936749183e4f2296df73691cadf793ae3b#rd) ![](/assets/new.png)  
 - [2024-12-21-学TypeScript常被忽视的小概念declare](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=2&sn=59aed7f648f5fa7638adfdc0fed1fb83&chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd)  
-- [2024-12-20-前端与硬件设备交互探秘，最全总结！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524754&idx=2&sn=b29d1c35dbc3d5c2732f84a9135c3944&chksm=f9926743cee5ee55221db2080523040bfbd1c2c51949ddec86f5969d8ecf5690316bb6babb94#rd)  
+- [2024-12-21-2024年细讲前端工程化【万字长文年终总结】冲冲冲！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=1&sn=34e019e49e054c4b53b80ac0fb6fc2db&chksm=f992674ecee5ee585746cacb2b86c4262445ce2c9650f13d990ab3a4f13e9cfb8ae749f9efff#rd)  
 - [2024-12-20-这个国产技术被海外巨头玩得风生水起，太牛了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524754&idx=1&sn=c2e8bb6c096c468d2f7b27e813d80b50&chksm=f9926743cee5ee55b06885b45f5635c0c4ea4bf2c036c7c7977fda9e5ce124fa77fee54eeddd#rd)  
-- [2024-12-19-好家伙,-GitHub-Copilot-今天免费了!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524740&idx=1&sn=c3d9c7d298a168b7736382558b4d574f&chksm=f9926755cee5ee435ac6832136f74265713938284989d69a26299634a0eed51c16c6f6531458#rd)  
+- [2024-12-20-前端与硬件设备交互探秘，最全总结！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524754&idx=2&sn=b29d1c35dbc3d5c2732f84a9135c3944&chksm=f9926743cee5ee55221db2080523040bfbd1c2c51949ddec86f5969d8ecf5690316bb6babb94#rd)  
 - [2024-12-19-使用-sourcemap-定位生产环境问题（2种方案）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524740&idx=2&sn=0b0e050a8bd1502b4bcf80dcce002f54&chksm=f9926755cee5ee433d19ffa65ee9682d5a711fb0fdd639cda5b9c5246df42046adba79a09944#rd)  
-- [2024-12-18-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524721&idx=1&sn=62c2314b45ef2fef2212160121567dee&chksm=f99267a0cee5eeb6754e077da9817fd77b461ee7cc45c2a47afa91468bc2326912a31c7d0b79#rd)  
+- [2024-12-19-好家伙,-GitHub-Copilot-今天免费了!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524740&idx=1&sn=c3d9c7d298a168b7736382558b4d574f&chksm=f9926755cee5ee435ac6832136f74265713938284989d69a26299634a0eed51c16c6f6531458#rd)  
 - [2024-12-18-Node.js-开始反击了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524721&idx=2&sn=5b401dc7230980c31554df40b9ec0659&chksm=f99267a0cee5eeb6937acde062c565862d4fe73c1522d18ddd7993d97f7884b00f64a65a5825#rd)  
-- [2024-12-17-5年前端刚会用VsCode-Debug-Vue项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524705&idx=1&sn=794eed56ce09ea37fa0b632c42dce09c&chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd)  
+- [2024-12-18-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524721&idx=1&sn=62c2314b45ef2fef2212160121567dee&chksm=f99267a0cee5eeb6754e077da9817fd77b461ee7cc45c2a47afa91468bc2326912a31c7d0b79#rd)  
 - [2024-12-17-前端：为什么-try-catch-能捕捉-await-后-Promise-的错误？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524705&idx=2&sn=ff39e9614bf85407cc2f116efd6ec64d&chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd)  
-- [2024-12-16-Nest服务服务器部署太easy！手把手教你拿下！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524685&idx=1&sn=084a7e89758bc9bb7a80b53945658dc5&chksm=f992679ccee5ee8ad1d1b02ea47778a5a4e9c71f106b9470428d05b41fd16c28d7912d7ffbf3#rd)  
+- [2024-12-17-5年前端刚会用VsCode-Debug-Vue项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524705&idx=1&sn=794eed56ce09ea37fa0b632c42dce09c&chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd)  
 - [2024-12-16-优化单页应用-SPA-加载时间：异步代码块预加载](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524685&idx=2&sn=7c285e545bd226cc90ed6f1df85356e6&chksm=f992679ccee5ee8ac8fdd24ff555bb0ea01194c38c5d5aa5639f37ac034c835d00ff5b919f4f#rd)  
-- [2024-12-15-如何做静态资源预加载](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524673&idx=2&sn=ca9ac585172b1834249c83fb781a53fd&chksm=f9926790cee5ee864343832d2d2147d5a0966f568a833c901070cc280e3b5138033e5d010231#rd)  
+- [2024-12-16-Nest服务服务器部署太easy！手把手教你拿下！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524685&idx=1&sn=084a7e89758bc9bb7a80b53945658dc5&chksm=f992679ccee5ee8ad1d1b02ea47778a5a4e9c71f106b9470428d05b41fd16c28d7912d7ffbf3#rd)  
 - [2024-12-15-2024-年前端性能报告](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524673&idx=1&sn=1c3b815b127a8136ef6414a5bfe28ff8&chksm=f9926790cee5ee8662e0dc4e8317809d3c1d1397afbc8acad615419c193959a1c568c0a9d76d#rd)  
-- [2024-12-14-浅谈古茗内部的Request请求库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524660&idx=1&sn=49a6c071558a68efe9a01576d9c73bf6&chksm=f99267e5cee5eef3ce0544a53a9c2b3c11131ada9af5b424d6e33e194477c7ef9f19c1db193f#rd)  
+- [2024-12-15-如何做静态资源预加载](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524673&idx=2&sn=ca9ac585172b1834249c83fb781a53fd&chksm=f9926790cee5ee864343832d2d2147d5a0966f568a833c901070cc280e3b5138033e5d010231#rd)  
 - [2024-12-14-彻底搞懂-flex:-1，flex:-auto，flex:-0](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524660&idx=2&sn=d648f75502ac65554705fb29ecf5b0f3&chksm=f99267e5cee5eef31c6453d9dad968546e8c41dfb63b1076d276d793a70b251ec04e81ef077c#rd)  
-- [2024-12-13-聊聊前端常见的数据加密](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524645&idx=1&sn=7e82bf81e66449039516b8e8a262f1c4&chksm=f99267f4cee5eee2d140375fb3f9094179e2559da6d38087c4f091d1c3ce7f685c7b93930f90#rd)  
-- [2024-12-13-Ant-Design-X-1.0-发布，全新-AGI-组件库！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524645&idx=2&sn=82234cb78e72ae9334f3cf65ce298d7d&chksm=f99267f4cee5eee2126d184b880f527758c467bebd47ba01f97d317cd9c64d2447fbfda2ca48#rd)  
-- [2024-12-12-使用-Service-Worker-让首页秒开](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524628&idx=1&sn=5d8d93740e10af93dfbdf15bd8f2ca51&chksm=f99267c5cee5eed35989cce7a197c74449955b5c57f9ebc77853504b3b6286d1200a3615172c#rd)  
-- [2024-12-12-2024-年前端安全报告](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524628&idx=2&sn=a9531a4f7fa218a2f089c3a812a0ec76&chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd)  
+- [2024-12-14-浅谈古茗内部的Request请求库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524660&idx=1&sn=49a6c071558a68efe9a01576d9c73bf6&chksm=f99267e5cee5eef3ce0544a53a9c2b3c11131ada9af5b424d6e33e194477c7ef9f19c1db193f#rd)  
 - [......【查看更多】......](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

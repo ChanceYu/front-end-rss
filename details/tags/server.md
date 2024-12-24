@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-24 10:43:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-25 00:10:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -99,6 +99,7 @@
 - [2022-04-06-深层次业务场景打造属于自己的命令行编译工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062366&idx=2&sn=8255fbd8cd20b5ee0e329f5ebddd7e87&chksm=87c4274eb0b3ae58ca468e0a58012d408fb622f0817280d78980080f0530fa95b0df5c2111ed#rd) 
 - [2022-03-24-平均年薪50.8万，Python工程师拿下这个证书有多吃香？！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062096&idx=1&sn=9119e1e985127a46d31a15a1be27bf87&chksm=87c42440b0b3ad56b5a406d56d41806e1edc761a4ce4b8d2bc3d90cdf1b457ffa4110a48e768#rd) 
 - [2022-03-21-不懂SSR做什么高级前端开发？3天搞定面试加分项！](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061958&idx=1&sn=aa6920f7f9bf8cbcdae9a60cd5d1d40e&chksm=87c425d6b0b3acc06a1e561cc1989f5bb6ae52eeae9a6bd553a9dd67b2e63358a5b540ed289a#rd) 
+- [2024-12-23-只会用-2005-年的-Git-老命令？这-7-个-Git-新命令，很实用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=1&sn=bb288f43005c840c1987d602c8c72ca2&chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd) 
 - [2024-12-11-项目中常用的Nginx配置总结](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524614&idx=1&sn=fd17c885a2ef8dc88b5e928468bccefd&chksm=f99267d7cee5eec13e2668572a46cd83ea72f30ec5bc9caae7374ba4930756cdb18552b4b005#rd) 
 - [2024-11-27-动图展示-10-大-Git-命令，让你轻松掌握Git](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524286&idx=2&sn=7455918ea643dcf3265deefc37496566&chksm=f992996fcee51079f19d6c5224cde9ef0bef51086f186135dc3bcc28c479fedae52a4fa2c30e#rd) 
 - [2023-12-04-Nginx-简单入门指北不指南](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517909&idx=1&sn=6445f0334f5ecd741524ecfe050e8de3&chksm=f9928004cee50912fbbf84e235e84e7b3ba48c7cfdedb281d52d10446b3390bb596dc6119bb0#rd) 
