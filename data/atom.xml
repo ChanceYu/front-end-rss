@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-25T02:42:43.322Z</updated>
+    <updated>2024-12-25T12:16:17.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[图解Nestjs - 适合中国宝宝的入门指导]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621685&amp;idx=2&amp;sn=9cd8c95783426c2c3a5d1b5802dfe97c&amp;chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621685&amp;idx=2&amp;sn=9cd8c95783426c2c3a5d1b5802dfe97c&amp;chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd"/>
+        <updated>2024-12-24T00:00:00.000Z</updated>
+        <published>2024-12-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】适配器和组合设计模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274832&amp;idx=1&amp;sn=456ec9bb3869fcd4e2b8e2d54c3264e1&amp;chksm=bc4da2e67783145db1a102be12e0bc88389fae5c1db1adbb131c0f514eaee67a84a89365ebc2&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/716"/>
         <updated>2024-12-12T00:00:00.000Z</updated>
         <published>2024-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
     </entry>
 </feed>
