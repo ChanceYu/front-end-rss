@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-26T02:43:18.482Z</updated>
+    <updated>2024-12-26T12:16:38.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[刷题竞技，备战春招｜「豆包 MarsCode 算法竞技赛」第三期开赛！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505950&amp;idx=1&amp;sn=a6b88a461489f99d5cc9ef9355969b30&amp;chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505950&amp;idx=1&amp;sn=a6b88a461489f99d5cc9ef9355969b30&amp;chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd"/>
+        <updated>2024-12-26T00:00:00.000Z</updated>
+        <published>2024-12-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3436期】再见Postman，你好Insomnia：更快的 API 测试方式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274868&amp;idx=1&amp;sn=69f6fc5d28c73b63de8c77987794fed9&amp;chksm=bcc83df9c8fd47299b2467b007fdd20f587427f4c590049ce6febedce08e207a954b776c80f8&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[使用 Service Worker 让首页秒开]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=1&amp;sn=5d8d93740e10af93dfbdf15bd8f2ca51&amp;chksm=f99267c5cee5eed35989cce7a197c74449955b5c57f9ebc77853504b3b6286d1200a3615172c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=1&amp;sn=5d8d93740e10af93dfbdf15bd8f2ca51&amp;chksm=f99267c5cee5eed35989cce7a197c74449955b5c57f9ebc77853504b3b6286d1200a3615172c#rd"/>
-        <updated>2024-12-12T00:00:00.000Z</updated>
-        <published>2024-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年前端安全报告]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=2&amp;sn=a9531a4f7fa218a2f089c3a812a0ec76&amp;chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=2&amp;sn=a9531a4f7fa218a2f089c3a812a0ec76&amp;chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd"/>
         <updated>2024-12-12T00:00:00.000Z</updated>
         <published>2024-12-12T00:00:00.000Z</published>
     </entry>
