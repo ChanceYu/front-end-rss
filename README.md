@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-25 20:16:17，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-26 10:43:18，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -107,26 +107,26 @@
 </summary>
 
 
+- [2024-12-26-【第3436期】再见Postman，你好Insomnia：更快的-API-测试方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274868&idx=1&sn=69f6fc5d28c73b63de8c77987794fed9&chksm=bcc83df9c8fd47299b2467b007fdd20f587427f4c590049ce6febedce08e207a954b776c80f8&scene=0#rd) ![](/assets/new.png)  
 - [2024-12-25-【早阅】Cursor-AI：5个可能还没用过的高级功能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274859&idx=1&sn=b7d6c256aa6c1eef9c40359e512168ad&chksm=bc5c6b535396c3b31e7fa9f9be8ddb16b5525d07ba8e1b923c879aed04a3caff227370817e36&scene=0#rd)  
 - [2024-12-24-【早阅】适配器和组合设计模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274832&idx=1&sn=456ec9bb3869fcd4e2b8e2d54c3264e1&chksm=bc4da2e67783145db1a102be12e0bc88389fae5c1db1adbb131c0f514eaee67a84a89365ebc2&scene=0#rd)  
 - [2024-12-23-【第3435期】构建更高效的-React-应用：react-scan-的使用与原理探究](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274828&idx=1&sn=0a815aff0a04d32f5f512646693f4ad6&chksm=bc4edf03401302764a8a03333dec57c7ab4d75a77e070ded57790c0f8d860434fd263d2358bf&scene=0#rd)  
 - [2024-12-22-【早阅】工程团队代码所有权挑战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274823&idx=1&sn=f64df6f16d1c174cc7d7b6fd9d0ae3d3&chksm=bc3ac0c3f98ae4833f2b212f0f453255d235235e197999f5872448b274ab207f5d86804fce7a&scene=0#rd)  
 - [2024-12-21-【早阅】GitHub-Copilot最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274819&idx=1&sn=34b6439cdc3fd7777ef9695072af43b2&chksm=bc480f32541ab5c4cb63657df3571478adac3738b49a56d07f408571896dcaebb9c4ca3adacc&scene=0#rd)  
 - [2024-12-20-【第3434期】VSCode-推出-GitHub-Copilot-免费版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274815&idx=1&sn=48396b04209610b2765f1b34e39eee50&chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&scene=0#rd)  
-- [2024-12-19-WeaveFox：前端智能研发解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274761&idx=1&sn=9ffb2772ea1043968f450a04c37653ba&chksm=bcd8f71b21588e8a4355bf3a171644015b391edeaf959e04c37879ca00e177ee4a54175f9ed3&scene=0#rd)  
 - [2024-12-19-【早阅】前端智能研发：赋能未来应用开发新范式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274761&idx=2&sn=cf13d358ce97954cb821c0f232739a2c&chksm=bcb56086acfd3fee6b23ca34703f806f78a06eb7b3774585746748d907a226215f95d10a61f9&scene=0#rd)  
+- [2024-12-19-WeaveFox：前端智能研发解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274761&idx=1&sn=9ffb2772ea1043968f450a04c37653ba&chksm=bcd8f71b21588e8a4355bf3a171644015b391edeaf959e04c37879ca00e177ee4a54175f9ed3&scene=0#rd)  
 - [2024-12-18-【第3433期】见证-Web-进化：Chrome-内置-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274730&idx=1&sn=1f98bafae58b98bef830996b28a0b4c0&chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&scene=0#rd)  
 - [2024-12-17-【早阅】JavaScript-工具库演变：从-Lodash-和-Underscore-到原生-JavaScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274666&idx=1&sn=05ae34593f07398c82d0568a0f011ea5&chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&scene=0#rd)  
-- [2024-12-16-【图书】JavaScript「红宝书」第5版来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274653&idx=2&sn=18657d40931f37f3a91b15ef6a254829&chksm=bc0c8c76ae6dbb15d60a8987dbf476b7a99ba086171228b7b97ee0e0d9ce0fff5c64e2eb584e&scene=0#rd)  
 - [2024-12-16-【第3432期】-WASM-助力-WebCodecs：填补解封装能力的空白](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274653&idx=1&sn=bd13f4bd4bcc5d29bf2f05ff6bad4148&chksm=bc46cb0e347227267ceaff66507d28022f1210dd1a8bda9ccf6064a0ccc542a994d2419890fa&scene=0#rd)  
+- [2024-12-16-【图书】JavaScript「红宝书」第5版来了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274653&idx=2&sn=18657d40931f37f3a91b15ef6a254829&chksm=bc0c8c76ae6dbb15d60a8987dbf476b7a99ba086171228b7b97ee0e0d9ce0fff5c64e2eb584e&scene=0#rd)  
 - [2024-12-15-【早阅】创建可访问的CSS艺术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274640&idx=1&sn=80eaade0f16de8e36fb7c33242b59424&chksm=bcb61a8bd24a6eafb1ae65b0f1d56ba718738e537ec82e1fdac6f21d012ddb87724ae059bfa4&scene=0#rd)  
 - [2024-12-14-【早阅】未来网页应用：离线优先和点对点设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274636&idx=1&sn=c4f53bd9a0b3f2f9903aee74b7de82b6&chksm=bc858e2a379c7325d82ed2bcda93c5c4ad2ff13bd86e6ae4039bb098bc0bbda7c635e3e873c9&scene=0#rd)  
-- [2024-12-13-【第3431期】Ant-Design-X-1.0-发布：一个全新的-AGI-组件库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=1&sn=8ea8e2d2a31c61e7524b6092631b59c7&chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&scene=0#rd)  
 - [2024-12-13-【小册】CSS实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=2&sn=613f2ec9616a4b8427d7a3924d5dbd2a&chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&scene=0#rd)  
+- [2024-12-13-【第3431期】Ant-Design-X-1.0-发布：一个全新的-AGI-组件库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274592&idx=1&sn=8ea8e2d2a31c61e7524b6092631b59c7&chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&scene=0#rd)  
 - [2024-12-12-【早阅】-2024年HTML现状调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274558&idx=1&sn=b5d5e5e13d8d5531c5ed0f3faacc6574&chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&scene=0#rd)  
 - [2024-12-11-【第3430期】CSS-如何模拟“真实的”进度条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274514&idx=1&sn=acea5f08803103c736368a52113b421e&chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&scene=0#rd)  
 - [2024-12-10-【早阅】浏览器扩展程序攻击](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274484&idx=1&sn=6e50ccc6ca737dbe24e5089d9f3105ed&chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&scene=0#rd)  
-- [2024-12-09-【第3429期】css-doodle-介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274450&idx=1&sn=d3c7630783bb8d7e31244c8bb7d2b2c1&chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&scene=0#rd)  
 - [......【查看更多】......](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -138,8 +138,8 @@
 </summary>
 
 
-- [2024-12-24-图解Nestjs---适合中国宝宝的入门指导](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=2&sn=9cd8c95783426c2c3a5d1b5802dfe97c&chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd) ![](/assets/new.png)  
-- [2024-12-24-强烈建议所有前端尽快搞个软考证！（重大利好）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=1&sn=fc68bc9e5e401ae2ad855e667bf21ddc&chksm=80225ef4b755d7e228780e1fdc2f9de83feb6f638c36a1e8bf74952c6483683b90cdef55339a#rd) ![](/assets/new.png)  
+- [2024-12-24-图解Nestjs---适合中国宝宝的入门指导](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=2&sn=9cd8c95783426c2c3a5d1b5802dfe97c&chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd)  
+- [2024-12-24-强烈建议所有前端尽快搞个软考证！（重大利好）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=1&sn=fc68bc9e5e401ae2ad855e667bf21ddc&chksm=80225ef4b755d7e228780e1fdc2f9de83feb6f638c36a1e8bf74952c6483683b90cdef55339a#rd)  
 - [2024-12-20-两款知名国产前端开源项目被“投毒”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621669&idx=1&sn=7807f60ab1ed7005ab8ab2e4772b2607&chksm=80225ee4b755d7f27dc8d984caafb590fa5e8aa385fdec6b5d39b43246f3593e995975a2757a#rd)  
 - [2024-12-16-利用Chrome浏览器使用Overrides调试线上代码，真是太方便啦！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621662&idx=1&sn=23f2c3ad8a8ff737787aff4210c899bb&chksm=80225edfb755d7c9ac678230ca6581e4cb2fb62cc76a3636fd54a57a48cf51b564393cb9b5c2#rd)  
 - [2024-12-13-NPM-作者推出全新的-JavaScript-包管理器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621657&idx=1&sn=c1b5ef3f19dab981badd536b0ea32ca3&chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd)  
@@ -200,6 +200,9 @@
 </summary>
 
 
+- [2024-12-26-12月面了10个前端开发，发现了这个通病...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501864&idx=1&sn=6476bd2446ca836d01dcf76a08e63c30&chksm=ce45ddb9f93254af9796a42fa4a85acf904bddf8b7f2b8e9ea6790852f5fc2a6723911e96e5c#rd) ![](/assets/new.png)  
+- [2024-12-25-想提高-Vue-技术竞争力？推荐几个简单的源码库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501856&idx=1&sn=a846bd12a065a54f0e3e3b64d02ec683&chksm=ce45ddb1f93254a733934e75c20309bbe5e792f60598253fbf3c3c777209c5de2dbf569a9d93#rd) ![](/assets/new.png)  
+- [2024-12-24-前端行情回暖了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501854&idx=1&sn=4489c5e756487b72db6b2624c002afbf&chksm=ce45dd8ff9325499b617d6425675fa96af853f36e9b61a49d6865b9bec4cff99866192e5314a#rd) ![](/assets/new.png)  
 - [2024-12-23-Vue-团队官宣：Vue-的性能将提升-400%，世界最快前端框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501797&idx=1&sn=760c635358012b883a3f8edc4de944ac&chksm=ce45d274f9325b62b2193bdd9cf4d42f9ea7d33d9c7ac0383d4f2dbe06581a089f9d93ed2329#rd)  
 - [2024-12-22-如何实现超级酷炫的星星连线效果？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501767&idx=1&sn=13ba88dc3796166ee3b8bcecac644c0e&chksm=ce45d256f9325b409fd5bb74d31522ed176584d0d6e70b38b123abac3840d616bfec61aadc32#rd)  
 - [2024-12-21-前端给客户实现了一个【五子棋】的小游戏，有点6！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501766&idx=1&sn=94e09d23b31b4e8779547ad003e3f4db&chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd)  
@@ -217,9 +220,6 @@
 - [2024-12-07-Vue3-项目中，如何设计一个表单配置生成器？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501434&idx=1&sn=80a391451924e275da0a98de506a6f06&chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd)  
 - [2024-12-06-因为不看前端文档，导致白忙活一整天](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501425&idx=1&sn=a6ee9a3c4412c0d73d87bd2cf030dd31&chksm=ce45d3e0f9325af69a1ac91ba2d2dc0be015294f02421a1479d33069077645819e8eed8e568b#rd)  
 - [2024-12-05-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501401&idx=1&sn=0dde7df600c4bd121d437960cbffacb6&chksm=ce45d3c8f9325adeb93fd7afe18854ad1b4f19054d1c5c324f063103b23346443846938d4f32#rd)  
-- [2024-12-04-搭建公司知识管理平台，分享一点心得！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501392&idx=1&sn=2087ef421e4c665e83cb55ff09cd4f6a&chksm=ce45d3c1f9325ad77439c6f6d779df7028149fb96b17d18d6fff999c1e2b49789f4a83b75d8f#rd)  
-- [2024-12-03-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501359&idx=1&sn=03d220ec2f1a805168cb697b28917c2c&chksm=ce45d3bef9325aa8ddcc39839c94a527a51d7fd89000de4a84d101549f8c4202f1e5710629ee#rd)  
-- [2024-12-02-2024-了，前端到底是“技术深度”重要还是“技术广度”重要？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501312&idx=1&sn=f577e40a9d6fbb5af76526bef969e163&chksm=ce45d391f9325a876582038cfd0c73120e0ad7b2ecb9918748799865598bc096b569429b5538#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
