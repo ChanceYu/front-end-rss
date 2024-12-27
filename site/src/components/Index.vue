@@ -160,7 +160,7 @@ export default {
       searchValue: '',
       showCate: false,
       // 默认只展示技能相关文章
-      matchSkill: true,
+      matchSkill: !!localStorage.getItem('matchSkill'),
       hotwords,
       ranges,
       rss: [],
@@ -350,6 +350,11 @@ export default {
     },
     changeSkill () {
       this.matchSkill = !this.matchSkill
+      if (this.matchSkill) {
+        localStorage.setItem('matchSkill', 'true')
+      } else {
+        localStorage.removeItem('matchSkill')
+      }
     }
   },
   mounted () {
