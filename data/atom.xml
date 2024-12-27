@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-26T12:16:38.287Z</updated>
+    <updated>2024-12-27T02:45:27.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3437期】CSS ::target-text 用于文本高亮显示]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274912&amp;idx=2&amp;sn=8078e06965498f00bc4f6c4609435b4f&amp;chksm=bc4e8883300c7742b50ada7f2228abf0dc0747061f4138894c6094f1f9de3b1701534e55ee33&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274912&amp;idx=2&amp;sn=8078e06965498f00bc4f6c4609435b4f&amp;chksm=bc4e8883300c7742b50ada7f2228abf0dc0747061f4138894c6094f1f9de3b1701534e55ee33&amp;scene=0#rd"/>
+        <updated>2024-12-27T00:00:00.000Z</updated>
+        <published>2024-12-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刷题竞技，备战春招｜「豆包 MarsCode 算法竞技赛」第三期开赛！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505950&amp;idx=1&amp;sn=a6b88a461489f99d5cc9ef9355969b30&amp;chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd</id>
@@ -344,13 +351,6 @@
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <published>2024-12-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【小册】CSS实战]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
@@ -358,10 +358,10 @@
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Service Worker 让首页秒开]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=1&amp;sn=5d8d93740e10af93dfbdf15bd8f2ca51&amp;chksm=f99267c5cee5eed35989cce7a197c74449955b5c57f9ebc77853504b3b6286d1200a3615172c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=1&amp;sn=5d8d93740e10af93dfbdf15bd8f2ca51&amp;chksm=f99267c5cee5eed35989cce7a197c74449955b5c57f9ebc77853504b3b6286d1200a3615172c#rd"/>
-        <updated>2024-12-12T00:00:00.000Z</updated>
-        <published>2024-12-12T00:00:00.000Z</published>
+        <title type="html"><![CDATA[【第3431期】Ant Design X 1.0 发布：一个全新的 AGI 组件库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=1&amp;sn=8ea8e2d2a31c61e7524b6092631b59c7&amp;chksm=bc165343beb1864c978004e3407524d3706567fbf029c521fb262574fb28346f2e4e4bfd3fb4&amp;scene=0#rd"/>
+        <updated>2024-12-13T00:00:00.000Z</updated>
+        <published>2024-12-13T00:00:00.000Z</published>
     </entry>
 </feed>
