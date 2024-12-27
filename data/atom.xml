@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-27T10:09:47.159Z</updated>
+    <updated>2024-12-27T18:12:15.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -48,6 +48,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525671&amp;idx=1&amp;sn=add09add61c31f1a0e83754514a82ce5&amp;chksm=f952d064ce2559727855657c9687cc0d4adb77c9f71790cca67c6052b7e84fc91d8ccfa9a8d6#rd"/>
         <updated>2024-12-25T00:00:00.000Z</updated>
         <published>2024-12-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[追更20年，销量破40万册，JavaScript「红宝书」第5版强势来袭！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516963&amp;idx=1&amp;sn=865c0990e5780d885d4299b464b61982&amp;chksm=eb07bb5adc70324cf0c83a6503771115807347e4d81070c4edf10382e4ee2cdf8f049a0383f7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516963&amp;idx=1&amp;sn=865c0990e5780d885d4299b464b61982&amp;chksm=eb07bb5adc70324cf0c83a6503771115807347e4d81070c4edf10382e4ee2cdf8f049a0383f7#rd"/>
+        <updated>2024-12-24T00:00:00.000Z</updated>
+        <published>2024-12-24T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[图解Nestjs - 适合中国宝宝的入门指导]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[NPM 作者推出全新的 JavaScript 包管理器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621657&amp;idx=1&amp;sn=c1b5ef3f19dab981badd536b0ea32ca3&amp;chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <published>2024-12-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【小册】CSS实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274592&amp;idx=2&amp;sn=613f2ec9616a4b8427d7a3924d5dbd2a&amp;chksm=bcda2c74d946f8865340f042431f2227b6340d762598227e9357647ca47c223e38ea23baab3b&amp;scene=0#rd"/>
         <updated>2024-12-13T00:00:00.000Z</updated>
         <published>2024-12-13T00:00:00.000Z</published>
     </entry>
