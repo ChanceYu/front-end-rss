@@ -15,6 +15,7 @@ on:
     
 jobs:
   build:
+    if: github.repository == 'ChanceYu/front-end-rss'
     runs-on: ubuntu-latest
 
     permissions:
