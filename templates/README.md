@@ -27,11 +27,8 @@
 
 <% _.each(e.items.slice(0,20), function(item, index){ var itemTitle = obj.formatTitle(item.title); %>
 - [<%= item.date %>-<%= itemTitle %>](<%= item.link %>) <% if (e.title in obj.newData.rss && item.link in obj.newData.links){ %>![](/assets/new.png) <% } %> <% }) %>
-- [......【查看更多】......](/details/<%= e.title %>.md)
+- [查看更多 >](/details/<%= e.title %>.md)
 
-<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+<div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
 </details>
 <% }) %>
-
-## 其它
-感谢 [RSSHub](https://github.com/DIYgod/RSSHub) 提供的微信公众号 RSS 链接
