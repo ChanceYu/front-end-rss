@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-29 06:07:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-29 10:40:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -43,6 +43,7 @@
 - [2019-08-22-从0到1，深度解读小游戏开发技术奥秘](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492236&idx=3&sn=b0b031ffa8f6740eab0d08cb098b0400&chksm=f95257cfce25ded92623afa8f1779931c723e3d306b8f690dcc86c923b077b2dc8633514bf92#rd) 
 - [2019-08-01-月活4亿，开发者人数10W+：爆款微信小游戏背后的技术本质是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492002&idx=3&sn=bdf7bf96b208b391ca4c21cae2057231&chksm=f95254e1ce25ddf7690bc1292b70a8253d7559f961265c3c76ee470c629cf3a5e603cd923ade#rd) 
 - [2019-05-17-框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd) 
+- [2024-12-28-使用-Canvas-实现一个【贪吃蛇】小游戏！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501874&idx=1&sn=6462542575474aca99fb3745a50b941f&chksm=ce45dda3f93254b52b724565fddf8eacba4669d1e2d54675d13ca3387496e7e6ad1fee3a1932#rd) 
 - [2024-12-21-前端给客户实现了一个【五子棋】的小游戏，有点6！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501766&idx=1&sn=94e09d23b31b4e8779547ad003e3f4db&chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd) 
 - [2023-08-19-分享10个Three.js相关的开源库](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490020&idx=1&sn=1bdf5cec8d95ff156ac52a1f74b7f3be&chksm=ce460c75f93185637437ed2a6973b999e3eb8377a79d919f2c04995a2628d5d3ae8da18732f4#rd) 
 - [2022-01-26-想进阶Canvas吗？我熬夜写了3个有趣的小游戏！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485230&idx=1&sn=fbca66fb8092089d61edbb41e94e4b02&chksm=ce4612bff9319ba9c52c3773f9baf81418399235a579ea3fc5276aa282ba24b36b3f10a4f9bd#rd) 
