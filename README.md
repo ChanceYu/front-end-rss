@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-30 10:46:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-31 00:10:26，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -30,7 +30,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -107,8 +107,8 @@
 </summary>
 
 
-- [2024-12-30-【第3439期】携程商旅在-Remix-模块预加载中的探索与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=1&sn=e86e5ce1fb0c186bc9b1669b32c855d0&chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&scene=0#rd) ![](/assets/new.png)  
-- [2024-12-30-【图书】AI群星闪耀时](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=2&sn=f73f45c371a07c10b8bf8fa47a7e2db4&chksm=bc6a0229660a2f76e05dd8355328dfa6604308fd523c253fb9a8b558d48c31983a83dc4d89a9&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-30-【第3439期】携程商旅在-Remix-模块预加载中的探索与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=1&sn=e86e5ce1fb0c186bc9b1669b32c855d0&chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&scene=0#rd)  
+- [2024-12-30-【图书】AI群星闪耀时](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=2&sn=f73f45c371a07c10b8bf8fa47a7e2db4&chksm=bc6a0229660a2f76e05dd8355328dfa6604308fd523c253fb9a8b558d48c31983a83dc4d89a9&scene=0#rd)  
 - [2024-12-29-【第3438期】如何实现视频旋转缩放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274920&idx=1&sn=e33ef23ddd9095d66096311cdc23d682&chksm=bc839799dd97ff9e3cc029ae8d508ff4225846384f924138285b5085d2424a7d2312f3d8ab9a&scene=0#rd)  
 - [2024-12-28-【早阅】如何在不吹嘘的情况下展示价值？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274916&idx=1&sn=41d7decb2b5d8c12fbb12ef12c88165f&chksm=bc210fde532d25942b2cebca19b52974d9e701556eeddcbd8be977e2b48c152efa3b448558f9&scene=0#rd)  
 - [2024-12-27-【第3437期】CSS-::target-text-用于文本高亮显示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274912&idx=2&sn=8078e06965498f00bc4f6c4609435b4f&chksm=bc4e8883300c7742b50ada7f2228abf0dc0747061f4138894c6094f1f9de3b1701534e55ee33&scene=0#rd)  
@@ -200,6 +200,7 @@
 </summary>
 
 
+- [2024-12-30-2024前端行情解读](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501891&idx=1&sn=a7e636e076a8a66838eaa65df83956ac&chksm=ce45ddd2f93254c46f7897aa72ceaf4ba8cfca654932540c8cf2e2144396c55ddab283a11062#rd) ![](/assets/new.png)  
 - [2024-12-29-遇到一家月薪5k的无良公司，面试题还搞得这么难？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501892&idx=1&sn=a945532316d80cc1c8733d436da180a4&chksm=ce45ddd5f93254c3aa8fb657ef60f40cb9a868e24b3e32c17c01cd02fe3f6472911ccaa82221#rd)  
 - [2024-12-28-使用-Canvas-实现一个【贪吃蛇】小游戏！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501874&idx=1&sn=6462542575474aca99fb3745a50b941f&chksm=ce45dda3f93254b52b724565fddf8eacba4669d1e2d54675d13ca3387496e7e6ad1fee3a1932#rd)  
 - [2024-12-27-十个隐藏且实用的前端知识点，你绝对想不到！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501865&idx=1&sn=91f736bc4f054c50a3e0626d5cc63fd6&chksm=ce45ddb8f93254ae88ecff5da58edd61389586e085e9fa02347885cdae3ca42f7f797994b0b4#rd)  
@@ -219,7 +220,6 @@
 - [2024-12-11-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501518&idx=1&sn=2b86d2068644d9d3c7e76eee38beef4d&chksm=ce45d35ff9325a49f32ef7875f2c1afb33952be59ee4a15b655c619ffe121e8453b781a0ad84#rd)  
 - [2024-12-10-年底这行情，我劝各位前端人还是多留一手准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501508&idx=1&sn=64db80f02077dfb12003c3b36bf25ea4&chksm=ce45d355f9325a43a91606c68f3c323c785c9d7e05d6c398d51bfafce1a2d4f20e5fcc7eca51#rd)  
 - [2024-12-09-年后准备跳槽的兄弟注意了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501441&idx=1&sn=067d457458338cfa5f7b268607388c0e&chksm=ce45d310f9325a06c3432822918d085c2332781c2173156bca9973d1b2536cc83869b61cad9f#rd)  
-- [2024-12-08-95%的人都回答不上来的问题：函数的length是多少？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501449&idx=1&sn=d8404dbe3d626e31a2816b05f9c5cee1&chksm=ce45d318f9325a0e4f7a1fd938f7f2724d9d3d7aecb4c0a8882c1f40b10cdce65874d9df3dd2#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2024-12-30-淘宝内容AI团队2024年8篇论文总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537546&idx=1&sn=e14005d455076ce0ddf3c6486368447a&chksm=83973652b4e0bf44db45aa8fa4abae4d8ac60b6c3ce2eca575e4ecaddbd0c2576a8f5be96b9d#rd) ![](/assets/new.png)  
 - [2024-12-27-淘宝天猫集团荣获2024中国运筹学会“运筹应用奖”提名](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537530&idx=1&sn=cb51d8269c97e11588591107375667ba&chksm=83973622b4e0bf347964a7c3d05aeda58c9085dccd9c7743391ed20e90b0b68db909c1223e66#rd)  
 - [2024-12-25-消息中间件稳定性建设之SLA浅述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537522&idx=1&sn=24dfc89084e02614797007dc6067acb6&chksm=8397362ab4e0bf3ccd2bf3030aea420cf1bc6de5b2079864fccbb08d752a05442d635c4bc335#rd)  
 - [2024-12-23-Weex购物车长列表横滑操作优化“编年史”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537506&idx=1&sn=5a023293f7064660ea52a1fe7e5ced5d&chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd)  
@@ -498,7 +499,6 @@
 - [2024-11-20-MNN在大模型端侧部署上的探索](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536973&idx=1&sn=462e55b53ca0ae00018d66a67427d670&chksm=83973415b4e0bd0353b9e23e93edd4816631f1dd79f8ce3fedca2f83fa97c5b43d31a86c9e5e#rd)  
 - [2024-11-18-淘宝乐园新人权益活动设计与实现](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536946&idx=1&sn=8c0330dbd25a9c920088eaeb1683bb96&chksm=839733eab4e0bafcc21d080ccc75abf9dee73fec6d1695e06d0f3e531f1a8cc871b83986e530#rd)  
 - [2024-11-15-淘宝亿级图片素材调度与处理的工程实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536931&idx=1&sn=357b42631f770b01b9f63a618eb25db5&chksm=839733fbb4e0baed5303d76b7a4693b469ee2f90341d3cfe4c90c539792eacea32bec78bfb7b#rd)  
-- [2024-11-13-全面解析：从AI原理到模型演进及代码实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536910&idx=1&sn=bcf4d4d610994835124e6d7b68aed802&chksm=839733d6b4e0bac0da815370a70dcf12080960ffc559255bb45e392054584e9d5479ecd60407#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
