@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-29T22:08:00.354Z</updated>
+    <updated>2024-12-30T02:46:41.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3439期】携程商旅在 Remix 模块预加载中的探索与优化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274935&amp;idx=1&amp;sn=e86e5ce1fb0c186bc9b1669b32c855d0&amp;chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274935&amp;idx=1&amp;sn=e86e5ce1fb0c186bc9b1669b32c855d0&amp;chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&amp;scene=0#rd"/>
+        <updated>2024-12-30T00:00:00.000Z</updated>
+        <published>2024-12-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML select下拉框支持hr元素啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[内容AI: 目标驱动的图像生成]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537413&amp;idx=1&amp;sn=67b582dba5109fb0c02c351f7c18b930&amp;chksm=839735ddb4e0bccbdaea2b98ec422d4928c91cefdd7e8da563dcd78fe2e03b06558187aae2d9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537413&amp;idx=1&amp;sn=67b582dba5109fb0c02c351f7c18b930&amp;chksm=839735ddb4e0bccbdaea2b98ec422d4928c91cefdd7e8da563dcd78fe2e03b06558187aae2d9#rd"/>
-        <updated>2024-12-16T00:00:00.000Z</updated>
-        <published>2024-12-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神了，Chrome 这个记录器简直是开发测试提效神器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516915&amp;idx=1&amp;sn=a1bf03a53a8f54d4fe12654975188b9b&amp;chksm=eb07ba8adc70339ce19596001f6d9620221cb899ee3bc3a0c43b431773653677927e14b345cb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516915&amp;idx=1&amp;sn=a1bf03a53a8f54d4fe12654975188b9b&amp;chksm=eb07ba8adc70339ce19596001f6d9620221cb899ee3bc3a0c43b431773653677927e14b345cb#rd"/>
         <updated>2024-12-16T00:00:00.000Z</updated>
         <published>2024-12-16T00:00:00.000Z</published>
     </entry>
