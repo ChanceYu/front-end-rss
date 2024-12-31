@@ -12,23 +12,23 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-31 18:09:44，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-01 00:10:21，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2024-12-31-【第3440期】探索-React-19：性能、开发体验与创新特性的全面提升](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274939&idx=1&sn=5237262ecd21d75b8dcaa6e56ee72c2a&chksm=bc3498bfabf67b5fbf472397bfbdc30a28d34720598c1aa645dacd82590ae14c058b446c738c&scene=0#rd) ![](/assets/new.png)  
+- [2024-12-31-【第3440期】探索-React-19：性能、开发体验与创新特性的全面提升](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274939&idx=1&sn=5237262ecd21d75b8dcaa6e56ee72c2a&chksm=bc3498bfabf67b5fbf472397bfbdc30a28d34720598c1aa645dacd82590ae14c058b446c738c&scene=0#rd)  
 - [2024-12-30-【图书】AI群星闪耀时](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=2&sn=f73f45c371a07c10b8bf8fa47a7e2db4&chksm=bc6a0229660a2f76e05dd8355328dfa6604308fd523c253fb9a8b558d48c31983a83dc4d89a9&scene=0#rd)  
 - [2024-12-30-【第3439期】携程商旅在-Remix-模块预加载中的探索与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=1&sn=e86e5ce1fb0c186bc9b1669b32c855d0&chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&scene=0#rd)  
 - [2024-12-29-【第3438期】如何实现视频旋转缩放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274920&idx=1&sn=e33ef23ddd9095d66096311cdc23d682&chksm=bc839799dd97ff9e3cc029ae8d508ff4225846384f924138285b5085d2424a7d2312f3d8ab9a&scene=0#rd)  
@@ -262,26 +262,26 @@
 </summary>
 
 
+- [2024-12-31-真的建议大家搞个软考证书！（红利期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524903&idx=1&sn=3a39ce259e38ea96b71ff75b695e8e5a&chksm=f99264f6cee5ede003be78a177415e7b98d6291af1578a9baf8664dcb16e683c348d059e2968#rd) ![](/assets/new.png)  
+- [2024-12-31-网页疯狂自动刷新，发生了什么？业务：我传了一张两亿像素的图片而已](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524903&idx=2&sn=953e241b9708b565763aa70093173d63&chksm=f99264f6cee5ede0b3cf5e36fc8477b31ff69737c417181648d6432593fa62c2a2ed741dfd6d#rd) ![](/assets/new.png)  
+- [2024-12-30-什么是源代码映射？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524884&idx=2&sn=83733d0a339c047ca75f129a3b8a2730&chksm=f99264c5cee5edd3227562b872807bbf7a66ffe57a049904d17153d5c0d99c5184198b98ee9f#rd) ![](/assets/new.png)  
+- [2024-12-30-前端金额运算精度丢失问题及解决方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524884&idx=1&sn=e1f2a2a009873d9a947e09bb5e6b81ec&chksm=f99264c5cee5edd3dc541064576d4e7d792c518eadb80cfc3f3c1c8561717894d844b11e0c96#rd) ![](/assets/new.png)  
 - [2024-12-29-2024-年末前端现状总结：TS-超越-JS，成为新的标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524872&idx=1&sn=88ce9a152c3d5b5fe5139a1c3bb13a03&chksm=f99264d9cee5edcf4d6dfe79e122e421f1d5096fde5342930740ce0918d1fcdb5ce29ede5064#rd)  
-- [2024-12-28-antd-对-ai-下手了！Vue-开发者表示羡慕！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524862&idx=2&sn=bf544fde2e48a6e90f3c4c7f9edc6ca2&chksm=f992672fcee5ee394e8a23f709ff844027fdaedc349fd096834893131c96d5875e4aa968689b#rd)  
 - [2024-12-28-停止过度使用Console.log!原因如下以及更好的选择](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524862&idx=1&sn=5d39f767905d336254cb7744ae8ea16d&chksm=f992672fcee5ee39086a1e6daec72628b41ae6cfc29268aa111706f0c7a1198dda3f2d6e27e6#rd)  
-- [2024-12-27-优秀前端人都知道的H5-移动端调试全攻略](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524854&idx=1&sn=f00cd568b31de24a87a6720f68c1f649&chksm=f9926727cee5ee3128b0d78848297ab1d082d3aaffeb51e97ff4fb8cdc35639de695963fd5d0#rd)  
+- [2024-12-28-antd-对-ai-下手了！Vue-开发者表示羡慕！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524862&idx=2&sn=bf544fde2e48a6e90f3c4c7f9edc6ca2&chksm=f992672fcee5ee394e8a23f709ff844027fdaedc349fd096834893131c96d5875e4aa968689b#rd)  
 - [2024-12-27-vercel是如何做微前端迁移的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524854&idx=2&sn=f3463bdc890530c2c996b181291de6ca&chksm=f9926727cee5ee314aec49859f0ddd5fdbfe2be84ebd393e6edad3412eff14e6f7228293500d#rd)  
-- [2024-12-26-​Next场景下的五大性能优化策略](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524846&idx=2&sn=d9a48fba53742e53b3a1d18506bf981d&chksm=f992673fcee5ee29b7e71da85b3b35f04f947d4263a769fc5081ed0865874f1116a8aafef5c2#rd)  
+- [2024-12-27-优秀前端人都知道的H5-移动端调试全攻略](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524854&idx=1&sn=f00cd568b31de24a87a6720f68c1f649&chksm=f9926727cee5ee3128b0d78848297ab1d082d3aaffeb51e97ff4fb8cdc35639de695963fd5d0#rd)  
 - [2024-12-26-ES2024重磅特性：新神器让你3分钟掌握正则表达式！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524846&idx=1&sn=455b81a4766bc931173b06191c2c60d9&chksm=f992673fcee5ee29328c889008b640fcfca493cf4a0844e6a9748a8e555788db5e94f2be23cd#rd)  
-- [2024-12-25-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524812&idx=1&sn=1d09909283ef294ca85f26511a6ba4c4&chksm=f992671dcee5ee0b7fd520b381bcb29dda8ae7c07e5f6a721035c86e4da9d05768a458e9d61e#rd)  
+- [2024-12-26-​Next场景下的五大性能优化策略](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524846&idx=2&sn=d9a48fba53742e53b3a1d18506bf981d&chksm=f992673fcee5ee29b7e71da85b3b35f04f947d4263a769fc5081ed0865874f1116a8aafef5c2#rd)  
 - [2024-12-25-【前端进阶】更容易理解的-SEO-全方面优化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524812&idx=2&sn=b995aee1b36036596439a65e48d0d811&chksm=f992671dcee5ee0bafb43b592818f256b9729726b9d6face85d59e42e2e6dead95e35eaf203d#rd)  
-- [2024-12-24-7-种常见的前端攻击](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524802&idx=2&sn=4abd76e68c6ca188fdb220ba1b65e21d&chksm=f9926713cee5ee05826ef4cdbfb88bdcc059b0b7baf7b615f2bca7c6a38f1c7cae99c4df1587#rd)  
+- [2024-12-25-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524812&idx=1&sn=1d09909283ef294ca85f26511a6ba4c4&chksm=f992671dcee5ee0b7fd520b381bcb29dda8ae7c07e5f6a721035c86e4da9d05768a458e9d61e#rd)  
 - [2024-12-24-基于Vue3-+-WebRTC-+-Node-+-SRS-+-FFmpeg实现类似bilibili的在线直播功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524802&idx=1&sn=c61eb41785f0cc551b404b262aa7fe95&chksm=f9926713cee5ee059a565ca4dabe17bd629c3e9a3fdd06e439ae2db743daf53d0b1e9f48004e#rd)  
-- [2024-12-23-只会用-2005-年的-Git-老命令？这-7-个-Git-新命令，很实用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=1&sn=bb288f43005c840c1987d602c8c72ca2&chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd)  
+- [2024-12-24-7-种常见的前端攻击](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524802&idx=2&sn=4abd76e68c6ca188fdb220ba1b65e21d&chksm=f9926713cee5ee05826ef4cdbfb88bdcc059b0b7baf7b615f2bca7c6a38f1c7cae99c4df1587#rd)  
 - [2024-12-23-小程序页面跳转如何优雅携带大数据Array或Object](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=2&sn=b35f9f1240a930a4521b211b68e7a9ab&chksm=f9926762cee5ee74393197b25cedfc59bf659a665ead82c6cf99a8d573631c5b367cbf3c46f1#rd)  
-- [2024-12-22-如何用资源提示和-HTTP/2-多路复用让网页加载速度飞起来？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524775&idx=2&sn=abc4a7ecdaf9f15b4f8baf95007182ce&chksm=f9926776cee5ee60cde2f95102dec72a127d9b5111936749183e4f2296df73691cadf793ae3b#rd)  
+- [2024-12-23-只会用-2005-年的-Git-老命令？这-7-个-Git-新命令，很实用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524787&idx=1&sn=bb288f43005c840c1987d602c8c72ca2&chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd)  
 - [2024-12-22-最新发布：2024-Node.js-性能报告出炉，v22-性能大幅提升！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524775&idx=1&sn=d0a364084b847e606ace66dbc1fd57a3&chksm=f9926776cee5ee60db22b916ed0bd0b5ebb507656c3b2a2716fed1fb7150cfe604ac64cbbb83#rd)  
-- [2024-12-21-2024年细讲前端工程化【万字长文年终总结】冲冲冲！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=1&sn=34e019e49e054c4b53b80ac0fb6fc2db&chksm=f992674ecee5ee585746cacb2b86c4262445ce2c9650f13d990ab3a4f13e9cfb8ae749f9efff#rd)  
+- [2024-12-22-如何用资源提示和-HTTP/2-多路复用让网页加载速度飞起来？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524775&idx=2&sn=abc4a7ecdaf9f15b4f8baf95007182ce&chksm=f9926776cee5ee60cde2f95102dec72a127d9b5111936749183e4f2296df73691cadf793ae3b#rd)  
 - [2024-12-21-学TypeScript常被忽视的小概念declare](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=2&sn=59aed7f648f5fa7638adfdc0fed1fb83&chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd)  
-- [2024-12-20-前端与硬件设备交互探秘，最全总结！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524754&idx=2&sn=b29d1c35dbc3d5c2732f84a9135c3944&chksm=f9926743cee5ee55221db2080523040bfbd1c2c51949ddec86f5969d8ecf5690316bb6babb94#rd)  
-- [2024-12-20-这个国产技术被海外巨头玩得风生水起，太牛了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524754&idx=1&sn=c2e8bb6c096c468d2f7b27e813d80b50&chksm=f9926743cee5ee55b06885b45f5635c0c4ea4bf2c036c7c7977fda9e5ce124fa77fee54eeddd#rd)  
-- [2024-12-19-好家伙,-GitHub-Copilot-今天免费了!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524740&idx=1&sn=c3d9c7d298a168b7736382558b4d574f&chksm=f9926755cee5ee435ac6832136f74265713938284989d69a26299634a0eed51c16c6f6531458#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -417,7 +417,7 @@
 </summary>
 
 
-- [2024-12-30-一行代码提升-30%+-TS-类型检查性能](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516973&idx=1&sn=dff0068a4a679e54e27d6ae646865e64&chksm=eb07bb54dc703242e76131144546aa54c8f9d6d608d0d3cf8fef6fed3bd43b2dc8b6fbcbe1bb#rd) ![](/assets/new.png)  
+- [2024-12-30-一行代码提升-30%+-TS-类型检查性能](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516973&idx=1&sn=dff0068a4a679e54e27d6ae646865e64&chksm=eb07bb54dc703242e76131144546aa54c8f9d6d608d0d3cf8fef6fed3bd43b2dc8b6fbcbe1bb#rd)  
 - [2024-12-27-“不定高”虚拟列表，面试官总考这玩意儿](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516970&idx=1&sn=a6388575a11ceb606590d650fa431e92&chksm=eb07bb53dc703245b70230c3b3e02d0080a3bba4fa20540bfe22cd496f1e1ac3d9e326f1f50e#rd)  
 - [2024-12-26-我在这家公司吃到了大瓜…（加料版，补充了彩蛋）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516966&idx=1&sn=ebc8f25046c6445db0fa2692ce825687&chksm=eb07bb5fdc703249508239cc318fd4c2e4c87aa98678ac316df7c7fed0ad28e73c1e7fd964c8#rd)  
 - [2024-12-24-追更20年，销量破40万册，JavaScript「红宝书」第5版强势来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516963&idx=1&sn=865c0990e5780d885d4299b464b61982&chksm=eb07bb5adc70324cf0c83a6503771115807347e4d81070c4edf10382e4ee2cdf8f049a0383f7#rd)  
