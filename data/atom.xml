@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2024-12-31T16:10:21.687Z</updated>
+    <updated>2025-01-01T02:52:55.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -13,7 +13,7 @@
     <link rel="self" href="https://fed.chanceyu.com/atom.xml"/>
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
-    <rights>All rights reserved 2024 by ChaneYu</rights>
+    <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
         <title type="html"><![CDATA[【第3440期】探索 React 19：性能、开发体验与创新特性的全面提升]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274939&amp;idx=1&amp;sn=5237262ecd21d75b8dcaa6e56ee72c2a&amp;chksm=bc3498bfabf67b5fbf472397bfbdc30a28d34720598c1aa645dacd82590ae14c058b446c738c&amp;scene=0#rd</id>
