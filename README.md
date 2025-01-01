@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-01 10:52:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-01 14:14:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-01-01-【早阅】为什么程序员在工作中不愿寻求帮助？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275021&idx=1&sn=06793553f452da0a7994a94dfb2ed119&chksm=bce5db40a4e0cc58656f9b2c674e6da12dd13115be82199ae8ac8c66669cdcd085e08dd4f7fa&scene=0#rd) ![](/assets/new.png)  
+- [2025-01-01-【早阅】为什么程序员在工作中不愿寻求帮助？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275021&idx=1&sn=06793553f452da0a7994a94dfb2ed119&chksm=bce5db40a4e0cc58656f9b2c674e6da12dd13115be82199ae8ac8c66669cdcd085e08dd4f7fa&scene=0#rd)  
 - [2024-12-31-【第3440期】探索-React-19：性能、开发体验与创新特性的全面提升](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274939&idx=1&sn=5237262ecd21d75b8dcaa6e56ee72c2a&chksm=bc3498bfabf67b5fbf472397bfbdc30a28d34720598c1aa645dacd82590ae14c058b446c738c&scene=0#rd)  
 - [2024-12-30-【第3439期】携程商旅在-Remix-模块预加载中的探索与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=1&sn=e86e5ce1fb0c186bc9b1669b32c855d0&chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&scene=0#rd)  
 - [2024-12-30-【图书】AI群星闪耀时](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274935&idx=2&sn=f73f45c371a07c10b8bf8fa47a7e2db4&chksm=bc6a0229660a2f76e05dd8355328dfa6604308fd523c253fb9a8b558d48c31983a83dc4d89a9&scene=0#rd)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2024-12-31-淘宝获2024年度CCF技术发明一等奖](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537554&idx=1&sn=ddd744e684c66a3470f2f8568b9ead1b&chksm=8397364ab4e0bf5ca7e21e172409e244e6d268b9594a6cd74e8e0fd732263b8cdc7ff65ffb1a#rd) ![](/assets/new.png)  
 - [2024-12-30-淘宝内容AI团队2024年8篇论文总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537546&idx=1&sn=e14005d455076ce0ddf3c6486368447a&chksm=83973652b4e0bf44db45aa8fa4abae4d8ac60b6c3ce2eca575e4ecaddbd0c2576a8f5be96b9d#rd)  
 - [2024-12-27-淘宝天猫集团荣获2024中国运筹学会“运筹应用奖”提名](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537530&idx=1&sn=cb51d8269c97e11588591107375667ba&chksm=83973622b4e0bf347964a7c3d05aeda58c9085dccd9c7743391ed20e90b0b68db909c1223e66#rd)  
 - [2024-12-25-消息中间件稳定性建设之SLA浅述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537522&idx=1&sn=24dfc89084e02614797007dc6067acb6&chksm=8397362ab4e0bf3ccd2bf3030aea420cf1bc6de5b2079864fccbb08d752a05442d635c4bc335#rd)  
@@ -498,7 +499,6 @@
 - [2024-11-22-AI助手：淘宝交易研发效率提升50%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536998&idx=1&sn=ae9631e925df5e0e86ed52fa8be5b7e2&chksm=8397343eb4e0bd2853074a9b98677db166dc44b20452839a63183c5cac33c113acd21ece19bf#rd)  
 - [2024-11-20-MNN在大模型端侧部署上的探索](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536973&idx=1&sn=462e55b53ca0ae00018d66a67427d670&chksm=83973415b4e0bd0353b9e23e93edd4816631f1dd79f8ce3fedca2f83fa97c5b43d31a86c9e5e#rd)  
 - [2024-11-18-淘宝乐园新人权益活动设计与实现](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536946&idx=1&sn=8c0330dbd25a9c920088eaeb1683bb96&chksm=839733eab4e0bafcc21d080ccc75abf9dee73fec6d1695e06d0f3e531f1a8cc871b83986e530#rd)  
-- [2024-11-15-淘宝亿级图片素材调度与处理的工程实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536931&idx=1&sn=357b42631f770b01b9f63a618eb25db5&chksm=839733fbb4e0baed5303d76b7a4693b469ee2f90341d3cfe4c90c539792eacea32bec78bfb7b#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
