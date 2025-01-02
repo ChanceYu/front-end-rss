@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-01 14:14:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-02 08:40:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3163,6 +3163,7 @@
 - [2023-04-13-修复违和感！有意思的粘性气泡-Loading-效果续集](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495476&idx=1&sn=c6962b8d952ffd4d0b5b72f2c37c21b0&chksm=ce268cc2f95105d4196fb4804202a7955799903f0008ef415be984618d3610df63a2488e8113#rd) 
 - [2023-01-15-不负时光，Coco-的-2022-年终总结](https://mp.weixin.qq.com/s/3VLFVxfV2rCgNlJIqo8Wvg) 
 - [2022-12-29-Amazing!如何根据背景色自动切换黑白文字？](https://mp.weixin.qq.com/s/rp4W45Y2Sl3FrQtoRRSTnw) 
+- [2024-12-31-Cursor-深度评测：革命性提效工具还是过誉的玩具？](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505953&idx=1&sn=f5159bc2fadccbbd3fe388c39b630a13&chksm=cea96f20f9dee63693f1f2a97e1f7677a1c0b00b3b06ba430df3a6fd7e794207ce5247a16a16#rd) 
 - [2024-12-23-稀土掘金｜-2024年度人气创作者榜单火热开启！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505941&idx=1&sn=d3cc3e30dddd6d68dbe47fd9e15d0a3f&chksm=cea96f14f9dee6022a6fcda5c7aceca4644d035134b9d01b94aa524b3732e44de6eba9e7c806#rd) 
 - [2024-11-28-前端、后端、大数据免费学，豆包MarsCode-青训营---寒假专场报名啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505913&idx=1&sn=32d1211336feaec74b01a43844cb2738&chksm=cea960f8f9dee9ee30f0590965b43a7284ad20cd86c96574da78ea6ea367b53efc091e9b6ba9#rd) 
 - [2024-10-22-1024-码上奇妙夜｜开发者专属，万元“豪”礼，宠爱满满！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505893&idx=1&sn=fbe28098cedefb6494e7252551fe9f95&chksm=cea960e4f9dee9f2e691fee2bb5e22b92ef74fd90bc6e6f9a559306d463d7e8de510c86190df#rd) 
