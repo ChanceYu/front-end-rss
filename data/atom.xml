@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-02T00:40:56.488Z</updated>
+    <updated>2025-01-02T02:43:27.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue 推出了新特性 useId，能提高多少开发体验？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501950&amp;idx=1&amp;sn=3353435540b4ae19f66fd9ce5b30888b&amp;chksm=ce45ddeff93254f9a42a2f1222390b1f31fc7165ad7c6eadbcfa699b94994562643fb05dcff5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501950&amp;idx=1&amp;sn=3353435540b4ae19f66fd9ce5b30888b&amp;chksm=ce45ddeff93254f9a42a2f1222390b1f31fc7165ad7c6eadbcfa699b94994562643fb05dcff5#rd"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <published>2025-01-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【早阅】构建更高效、更灵活的前端项目：EdgeOne Pages 的实践与升级]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275026&amp;idx=1&amp;sn=809be4e03eafb8c5ed5043f9a093e7fb&amp;chksm=bc47088d4f17f67adca364f65945817073be7ef972578894f9a6c74233606910b89ee68f12c7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275026&amp;idx=1&amp;sn=809be4e03eafb8c5ed5043f9a093e7fb&amp;chksm=bc47088d4f17f67adca364f65945817073be7ef972578894f9a6c74233606910b89ee68f12c7&amp;scene=0#rd"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <published>2025-01-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大部分人对于 Promise 的开发程度远远不足 10%！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501901&amp;idx=1&amp;sn=f87558ebfe857e95627e6aa8d6129697&amp;chksm=ce45dddcf93254cae266e17addf3470b90d196d770502c40ab6a43c8febaa0dde4980ecd6021#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501901&amp;idx=1&amp;sn=f87558ebfe857e95627e6aa8d6129697&amp;chksm=ce45dddcf93254cae266e17addf3470b90d196d770502c40ab6a43c8febaa0dde4980ecd6021#rd"/>
+        <updated>2024-12-31T00:00:00.000Z</updated>
+        <published>2024-12-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3440期】探索 React 19：性能、开发体验与创新特性的全面提升]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274939&amp;idx=1&amp;sn=5237262ecd21d75b8dcaa6e56ee72c2a&amp;chksm=bc3498bfabf67b5fbf472397bfbdc30a28d34720598c1aa645dacd82590ae14c058b446c738c&amp;scene=0#rd</id>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274730&amp;idx=1&amp;sn=1f98bafae58b98bef830996b28a0b4c0&amp;chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&amp;scene=0#rd"/>
         <updated>2024-12-18T00:00:00.000Z</updated>
         <published>2024-12-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5年前端刚会用VsCode Debug Vue项目]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=1&amp;sn=794eed56ce09ea37fa0b632c42dce09c&amp;chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=1&amp;sn=794eed56ce09ea37fa0b632c42dce09c&amp;chksm=f99267b0cee5eea69846ca5c498eb3a09b172c78bc3abd6eff9f077686013da59e25a5b62ec1#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端：为什么 try catch 能捕捉 await 后 Promise 的错误？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=2&amp;sn=ff39e9614bf85407cc2f116efd6ec64d&amp;chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524705&amp;idx=2&amp;sn=ff39e9614bf85407cc2f116efd6ec64d&amp;chksm=f99267b0cee5eea6da62cb78bd149a0a8bac05fc1b77d8b476f201b1d529148a92327a18cabc#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】JavaScript 工具库演变：从 Lodash 和 Underscore 到原生 JavaScript]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274666&amp;idx=1&amp;sn=05ae34593f07398c82d0568a0f011ea5&amp;chksm=bc1f4dc5f4ece3a8573c0926cf191d1a3628126bc2312b16cf54c812bbfc77533ca601c19794&amp;scene=0#rd"/>
-        <updated>2024-12-17T00:00:00.000Z</updated>
-        <published>2024-12-17T00:00:00.000Z</published>
     </entry>
 </feed>
