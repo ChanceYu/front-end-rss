@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-04 22:07:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-05 04:09:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3140,6 +3140,7 @@
 - [2022-01-06-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502425&idx=1&sn=b3db5be1293d1993291c5bcc1d2f61f9&chksm=f992cc88cee5459e11a628626405c8928558a03726430846e2b30d6853068061dfb1be22586e#rd) 
 - [2022-01-05-那些在家啃书自学的人，最后都找到工作了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=1&sn=b09a789d370bd1d2a09e519a521815e3&chksm=f992cc9bcee5458d391afaa1116a78e22b8190fb2e017841eee0c014fc35679933b629c09710#rd) 
 - [2022-01-04-老板：你来弄一个团队代码规范！？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502396&idx=1&sn=b7aef3e6628812f2f38d86406edf231d&chksm=f992ccedcee545fbd78ed7d07689ceb3217f4f8712c224018e427998d5af3d9f0ac24c3222df#rd) 
+- [2025-01-03-2024-年前端大事记​！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499379&idx=1&sn=541be36ba4f03ed6947e12935e4c3100&chksm=ce269d85f9511493875baa7c01cc3f7562e10f3de5daaed0b5050b00288b6620b98a1e5cf297#rd) 
 - [2024-11-11-涨姿势了，超有意思的粘性气泡-Loading-效果](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499250&idx=1&sn=6407cb765b1f8666467d11c301adc28e&chksm=ce269e04f951171222c5eb3ad5eb9071727523dd21da93765497371e38c87bbd2c600f0f5b1b#rd) 
 - [2024-11-07-前端工程师的-AI-DAY-来啦！12-月-7-日，厦门见！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499091&idx=1&sn=bbe21f301b65890e7b619da6b09baf10&chksm=ce269ea5f95117b34f5bb7e715dda1bc399eb865a700fb0007824473d90e15d2e1edf45e8e46#rd) 
 - [2023-11-09-下周开课！21天短知识打卡课，报名进行中。速度耐力专题](https://mp.weixin.qq.com/s?__biz=MzI5MDE3OTM1OQ==&mid=2653624698&idx=2&sn=bc899f0c5cd37a664ec3afa026bf39c5&chksm=f7fc690ac08be01c7dd3a3a12e835b646044540208b9f048e958537d9b4b1c91ef050b8a82a8#rd) 
