@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-04 10:41:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-04 20:15:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -27,7 +27,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-01-04-【早阅】CSS手风琴动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275038&idx=1&sn=4585a2b523188dc508e20af8a17b6366&chksm=bccb04ed2da9dbb1263ab29c3dd6b7a3848aa238d1cc597012fbbc86012db6702ac8dbb9bc3e&scene=0#rd) ![](/assets/new.png)  
+- [2025-01-04-【早阅】CSS手风琴动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275038&idx=1&sn=4585a2b523188dc508e20af8a17b6366&chksm=bccb04ed2da9dbb1263ab29c3dd6b7a3848aa238d1cc597012fbbc86012db6702ac8dbb9bc3e&scene=0#rd)  
 - [2025-01-03-【招聘】上海即果信息技术招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275034&idx=2&sn=7fbf47872d2c308608cf3038081c1f6c&chksm=bc42999a67e0aebf2c13e6d9e826200a653b7d03a75f4e9a87ef1e4ce032fea296e28be82f94&scene=0#rd)  
 - [2025-01-03-【第3441期】主打一个"小巧灵动"：Vite-+-Svelte](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275034&idx=1&sn=01a6747455cd3684ee1e40f447abaf3e&chksm=bc0e4b0301a5c633db24c30682252859eaccc46c976ffdd386a856ff206c124f0c65a674479e&scene=0#rd)  
 - [2025-01-02-【早阅】构建更高效、更灵活的前端项目：EdgeOne-Pages-的实践与升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275026&idx=1&sn=809be4e03eafb8c5ed5043f9a093e7fb&chksm=bc47088d4f17f67adca364f65945817073be7ef972578894f9a6c74233606910b89ee68f12c7&scene=0#rd)  
@@ -386,6 +386,7 @@
 </summary>
 
 
+- [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd) ![](/assets/new.png)  
 - [2024-12-21-一文回顾OpenAI12天发布会，你错过了什么重磅信息？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500105&idx=1&sn=1abc78369c401374dc45a53bec8d6c38&chksm=c2b300b6f5c489a02f3e3ebb4fb4f156b513a48d2c547df41e0afe043c158b32a0f0687900f1#rd)  
 - [2024-12-19-JavaScript「红宝书」第5版来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500099&idx=1&sn=691a075d9324f25314c90f96d41793e2&chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd)  
 - [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd)  
@@ -399,12 +400,11 @@
 - [2024-11-18-技术周刊-｜-2024-Google-首届-Web-AI-峰会回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500016&idx=1&sn=936f9199e9bad08330c966c3218d1a1c&chksm=c2b3010ff5c488199bb69545ef3c9263f8489c3f4083add65f296188ea8de62280174667f4a5#rd)  
 - [2024-11-14-npm-创始人再创业，带来-2-个全新前端工具，真香！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500008&idx=1&sn=b1b06e1b228881dd0bb56592e2b061da&chksm=c2b30117f5c48801c0520c1cc31f1f5cb85628d8f59e55c398be022a8a9570b07c69a319cd2e#rd)  
 - [2024-11-13-从2017到2024，前-OpenAI研究员的AI观点变迁史：起落起起落落落…](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500002&idx=1&sn=5463f6ce255acf917faa0b774ecacb1a&chksm=c2b3011df5c4880b23b64603640142593246ac0e0acc550873cf941d7057ea9b637d705befe1#rd)  
-- [2024-11-12-LLM时代下Embedding模型如何重塑检索、增强生成](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499997&idx=1&sn=225bb1b1815d1d247b49aca83372995c&chksm=c2b30122f5c48834c56113a0203b7828515ad62ced9fedfdc8217cc328e461d22b3a3e640eef#rd)  
 - [2024-11-12-知乎最硬核书单](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499997&idx=2&sn=cdc6e515ec8962a125e88d114a891ed5&chksm=c2b30122f5c488348e2bdff2a10f4910c07dc2115b32d7d740d256749b79ac7d17a4f4a287e9#rd)  
+- [2024-11-12-LLM时代下Embedding模型如何重塑检索、增强生成](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499997&idx=1&sn=225bb1b1815d1d247b49aca83372995c&chksm=c2b30122f5c48834c56113a0203b7828515ad62ced9fedfdc8217cc328e461d22b3a3e640eef#rd)  
 - [2024-11-11-技术周刊-｜-2024-全球人工智能趋势报告](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499979&idx=1&sn=2022c41f7f07a4f68962e022dd695741&chksm=c2b30134f5c4882264ac3cb407856cc5417ffe299c746e82e7feb4c311da79d16f3ce6313f83#rd)  
 - [2023-08-30-突发：苹果官宣9月13日发布会，iPhone15要来啦](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjQ4MA==&mid=2650463469&idx=1&sn=3fa35e7293a10d469877910da92263c8&chksm=bedf4fc289a8c6d443693fec151f076372a3d426c16183b201c25b50e341bd8ef4d55820f2d9#rd)  
 - [2023-08-29-前端食堂技术周刊第-96-期：2023-CSS-状态、Nuxt-3.7、TypeScript-5.2、eBay-性能优化](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498498&idx=1&sn=69040c3cad1c7aa2493cfcb75654d214&chksm=c2b33afdf5c4b3eb9194d055547f8585932ee75f516d472e616f924556d240d98948d95f7d8e#rd)  
-- [2023-08-28-2023-CSS-现状调查结果新鲜出炉，带你看看-CSS-生态圈最新技术趋势！](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498492&idx=2&sn=8d4f27ebb2c699b9e3e6f0e0dc4c255c&chksm=c2b33b03f5c4b21513ae36d4de0a554b0a69eb06309626b38b421f852cb5cd28ce0eff472e97#rd)  
 - [2023-08-28-2023「金九银十」真实试水报告](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498492&idx=1&sn=b59c82167e5d97c254eaa5a9694d499a&chksm=c2b33b03f5c4b215e858872056d2e964485f4729dfddf7513e60e79ecb6ecd14a470f9ef5134#rd)  
 - [查看更多 >](/details/前端食堂.md)
 

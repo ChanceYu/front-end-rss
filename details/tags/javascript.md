@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-04 10:41:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-04 20:15:27。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1336,6 +1336,7 @@
 - [2023-02-27-可视化搭建---组件值与联动](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486990&idx=1&sn=6b0896fc593b55941cabe86d28c2fd11&chksm=fc8628c4cbf1a1d2a39ef6502652f7f7ea479d13f1f1a21a0a1a725b899d78499a9f0f6ff620#rd) 
 - [2023-02-20-可视化搭建---容器组件设计](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486977&idx=1&sn=2dd54d4963d3eaa7d4030050e023b525&chksm=fc8628cbcbf1a1ddcb965bf43a94c49f82b4f874d619a42823e06d0a85153ac0d035cb52a866#rd) 
 - [2023-02-06-画布与组件元信息数据流](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247486955&idx=1&sn=b3c9f5cfd61d63734b18093cdf759440&chksm=fc862b21cbf1a237630720bc58adae17d3b75dc4cca41db5c9d1b69f1ee88f3ab9c9ea180c79#rd) 
+- [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd) 
 - [2024-12-19-JavaScript「红宝书」第5版来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500099&idx=1&sn=691a075d9324f25314c90f96d41793e2&chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd) 
 - [2024-11-28-必备！2025-开发-AI-应用-JS-工具库盘点](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500077&idx=1&sn=4722f18688c42ec8aedd414c4a836b5f&chksm=c2b300d2f5c489c4d4609595e36d8bf029b27802f873b6c45f475969db5e6db47973a972b4b7#rd) 
 - [2023-08-23-2017---2023-JavaScript-性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498484&idx=2&sn=75eb5c9fb0f49fd24bd1899bee446cac&chksm=c2b33b0bf5c4b21d14eee337ef79b513f8bd64187fa2a34a13161e7b03cd553ca5dcf0829edb#rd) 
