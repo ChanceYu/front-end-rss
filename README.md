@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-04 20:15:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-04 22:07:58，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,13 +21,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2025-01-04-第一次发现-console.log-这么没用！我要改造它！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502002&idx=1&sn=376a78805ec2577eb8babbbd8e651d6a&chksm=ce45dd23f93254352a8701331536d54f3815836f448f023c33390d23e0a326261c0ae28e2a32#rd) ![](/assets/new.png)  
+- [2025-01-03-通过六个场景，告诉你-reduce-方法有多么强大！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501976&idx=1&sn=60d47924d6003046fc50a343b65cc9f9&chksm=ce45dd09f932541fcb1f3272f5960bfe0f67d0154a6fab5234412b016a27107cf5269e7ea141#rd) ![](/assets/new.png)  
 - [2025-01-02-Vue-推出了新特性-useId，能提高多少开发体验？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501950&idx=1&sn=3353435540b4ae19f66fd9ce5b30888b&chksm=ce45ddeff93254f9a42a2f1222390b1f31fc7165ad7c6eadbcfa699b94994562643fb05dcff5#rd)  
 - [2025-01-01-前端表格想要极度的丝滑，只有一条路可行！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501907&idx=1&sn=dc941af9716c9d64bb092e906c09b78d&chksm=ce45ddc2f93254d40abd55e1b5e1338eece37811d46b92f7fe0cba81be62655f290aa69cd26c#rd)  
 - [2024-12-31-大部分人对于-Promise-的开发程度远远不足-10%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501901&idx=1&sn=f87558ebfe857e95627e6aa8d6129697&chksm=ce45dddcf93254cae266e17addf3470b90d196d770502c40ab6a43c8febaa0dde4980ecd6021#rd)  
@@ -218,8 +220,6 @@
 - [2024-12-18-12月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501582&idx=1&sn=4d2da181d96b2927f0415d19667057a5&chksm=ce45d29ff9325b89e76ac03afb01a33128d93d0aa57a72d7ab9582247a62c0bea0df9a9ed3e3#rd)  
 - [2024-12-17-裁员严重，大家做好准备吧。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501566&idx=1&sn=12f8b98ee285700f158d22742505cc69&chksm=ce45d36ff9325a799d56947958bc91ab872607e2e109393b4a198c10f0ef8dcf8455d5e7ca46#rd)  
 - [2024-12-16-开发在线协同文档编辑器，应该考虑哪些重要的点？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501557&idx=1&sn=87d8e6ac3e5f241f7734b8f137e9119e&chksm=ce45d364f9325a7242bca1a3990532e14a084689d91452eacb1d899aa4854c68f7f8cf87f733#rd)  
-- [2024-12-13-纯-CSS-来计算当前窗口的宽高，怎么做到的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501528&idx=1&sn=f09794594f3300e8847cd547abcc5d1e&chksm=ce45d349f9325a5faae0156b43fe84c80a5409e0a519b12573af44545fc49ce9dd814a2f33b6#rd)  
-- [2024-12-12-2024前端开发岗位现状](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501527&idx=1&sn=c0a4eb9ace46963ae1f0c63684c76a82&chksm=ce45d346f9325a503a461fa24c6af1df99482c18803cb9c99cb869f195c1e6beaa5ef17076cb#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -386,7 +386,7 @@
 </summary>
 
 
-- [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd) ![](/assets/new.png)  
+- [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd)  
 - [2024-12-21-一文回顾OpenAI12天发布会，你错过了什么重磅信息？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500105&idx=1&sn=1abc78369c401374dc45a53bec8d6c38&chksm=c2b300b6f5c489a02f3e3ebb4fb4f156b513a48d2c547df41e0afe043c158b32a0f0687900f1#rd)  
 - [2024-12-19-JavaScript「红宝书」第5版来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500099&idx=1&sn=691a075d9324f25314c90f96d41793e2&chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd)  
 - [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd)  
