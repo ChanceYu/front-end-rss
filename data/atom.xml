@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-04T20:09:39.283Z</updated>
+    <updated>2025-01-05T02:49:19.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】Node.js 模块简史：cjs、打包工具和 esm]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275042&amp;idx=1&amp;sn=6539b06616acbf18c8ccc7b004d6b847&amp;chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275042&amp;idx=1&amp;sn=6539b06616acbf18c8ccc7b004d6b847&amp;chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&amp;scene=0#rd"/>
+        <updated>2025-01-05T00:00:00.000Z</updated>
+        <published>2025-01-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一次发现 console.log 这么没用！我要改造它！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502002&amp;idx=1&amp;sn=376a78805ec2577eb8babbbd8e651d6a&amp;chksm=ce45dd23f93254352a8701331536d54f3815836f448f023c33390d23e0a326261c0ae28e2a32#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[小型 Vue 项目，该不该用 Pinia 、Vuex呢？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501590&amp;idx=1&amp;sn=81cc1560b3496d8a7496ea04286aef52&amp;chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501590&amp;idx=1&amp;sn=81cc1560b3496d8a7496ea04286aef52&amp;chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd"/>
-        <updated>2024-12-20T00:00:00.000Z</updated>
-        <published>2024-12-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3434期】VSCode 推出 GitHub Copilot 免费版]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274815&amp;idx=1&amp;sn=48396b04209610b2765f1b34e39eee50&amp;chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274815&amp;idx=1&amp;sn=48396b04209610b2765f1b34e39eee50&amp;chksm=bc5ceb104c8ee364b58e2e9187ceacde103260c5ddf542b16fc2d801d6691e0332ea286d4630&amp;scene=0#rd"/>
         <updated>2024-12-20T00:00:00.000Z</updated>
         <published>2024-12-20T00:00:00.000Z</published>
     </entry>
