@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-07 00:11:25，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-07 02:12:36，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -27,10 +27,10 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -386,6 +386,10 @@
 </summary>
 
 
+- [2025-01-07-刚刚，奥特曼发布年终总结，通往-AGI-之路已经找到](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500347&idx=1&sn=a8ad534917ae56f2fe49d33a47f0b1dc&chksm=c2b303c4f5c48ad22a26d89622b9e878f48e2b6c0e432967883786a6b53c005aa5ebd84c2483#rd) ![](/assets/new.png)  
+- [2025-01-06-全新-AI-周刊上线，1-分钟了解每周-AI-大事件，紧跟时代浪潮](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500338&idx=1&sn=9b5c4f1a14dde1f89545638b4eb97305&chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd) ![](/assets/new.png)  
+- [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd) ![](/assets/new.png)  
+- [2025-01-05-我发现了-DeepSeek-成功的关键秘密](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=1&sn=a8cc92071f97a64b94b6967bfc5f9c90&chksm=c2b303d9f5c48acf40f0359ad7d977714e48aba3092c8a1a501c94d1c0bf78e825c79c3d51db#rd) ![](/assets/new.png)  
 - [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd)  
 - [2024-12-21-一文回顾OpenAI12天发布会，你错过了什么重磅信息？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500105&idx=1&sn=1abc78369c401374dc45a53bec8d6c38&chksm=c2b300b6f5c489a02f3e3ebb4fb4f156b513a48d2c547df41e0afe043c158b32a0f0687900f1#rd)  
 - [2024-12-19-JavaScript「红宝书」第5版来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500099&idx=1&sn=691a075d9324f25314c90f96d41793e2&chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd)  
@@ -400,12 +404,8 @@
 - [2024-11-18-技术周刊-｜-2024-Google-首届-Web-AI-峰会回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500016&idx=1&sn=936f9199e9bad08330c966c3218d1a1c&chksm=c2b3010ff5c488199bb69545ef3c9263f8489c3f4083add65f296188ea8de62280174667f4a5#rd)  
 - [2024-11-14-npm-创始人再创业，带来-2-个全新前端工具，真香！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500008&idx=1&sn=b1b06e1b228881dd0bb56592e2b061da&chksm=c2b30117f5c48801c0520c1cc31f1f5cb85628d8f59e55c398be022a8a9570b07c69a319cd2e#rd)  
 - [2024-11-13-从2017到2024，前-OpenAI研究员的AI观点变迁史：起落起起落落落…](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500002&idx=1&sn=5463f6ce255acf917faa0b774ecacb1a&chksm=c2b3011df5c4880b23b64603640142593246ac0e0acc550873cf941d7057ea9b637d705befe1#rd)  
-- [2024-11-12-知乎最硬核书单](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499997&idx=2&sn=cdc6e515ec8962a125e88d114a891ed5&chksm=c2b30122f5c488348e2bdff2a10f4910c07dc2115b32d7d740d256749b79ac7d17a4f4a287e9#rd)  
 - [2024-11-12-LLM时代下Embedding模型如何重塑检索、增强生成](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499997&idx=1&sn=225bb1b1815d1d247b49aca83372995c&chksm=c2b30122f5c48834c56113a0203b7828515ad62ced9fedfdc8217cc328e461d22b3a3e640eef#rd)  
-- [2024-11-11-技术周刊-｜-2024-全球人工智能趋势报告](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499979&idx=1&sn=2022c41f7f07a4f68962e022dd695741&chksm=c2b30134f5c4882264ac3cb407856cc5417ffe299c746e82e7feb4c311da79d16f3ce6313f83#rd)  
-- [2023-08-30-突发：苹果官宣9月13日发布会，iPhone15要来啦](https://mp.weixin.qq.com/s?__biz=MjM5ODAxMjQ4MA==&mid=2650463469&idx=1&sn=3fa35e7293a10d469877910da92263c8&chksm=bedf4fc289a8c6d443693fec151f076372a3d426c16183b201c25b50e341bd8ef4d55820f2d9#rd)  
-- [2023-08-29-前端食堂技术周刊第-96-期：2023-CSS-状态、Nuxt-3.7、TypeScript-5.2、eBay-性能优化](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498498&idx=1&sn=69040c3cad1c7aa2493cfcb75654d214&chksm=c2b33afdf5c4b3eb9194d055547f8585932ee75f516d472e616f924556d240d98948d95f7d8e#rd)  
-- [2023-08-28-2023「金九银十」真实试水报告](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498492&idx=1&sn=b59c82167e5d97c254eaa5a9694d499a&chksm=c2b33b03f5c4b215e858872056d2e964485f4729dfddf7513e60e79ecb6ecd14a470f9ef5134#rd)  
+- [2024-11-12-知乎最硬核书单](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247499997&idx=2&sn=cdc6e515ec8962a125e88d114a891ed5&chksm=c2b30122f5c488348e2bdff2a10f4910c07dc2115b32d7d740d256749b79ac7d17a4f4a287e9#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -479,8 +479,8 @@
 </summary>
 
 
-- [2025-01-06-Java21特性解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537631&idx=1&sn=5b7df95a4ddea0538dd9e251134a7cb4&chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd) ![](/assets/new.png)  
-- [2025-01-03-一种可复用的AI提效方案：AI点灯](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537613&idx=1&sn=952b93bf7b35383542f686af192fc3cd&chksm=83973695b4e0bf83478744239e32bf8d458cb422b20612e25dcc7c03273da73a5196db99beb7#rd) ![](/assets/new.png)  
+- [2025-01-06-Java21特性解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537631&idx=1&sn=5b7df95a4ddea0538dd9e251134a7cb4&chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd)  
+- [2025-01-03-一种可复用的AI提效方案：AI点灯](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537613&idx=1&sn=952b93bf7b35383542f686af192fc3cd&chksm=83973695b4e0bf83478744239e32bf8d458cb422b20612e25dcc7c03273da73a5196db99beb7#rd)  
 - [2024-12-31-淘宝获2024年度CCF技术发明一等奖](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537554&idx=1&sn=ddd744e684c66a3470f2f8568b9ead1b&chksm=8397364ab4e0bf5ca7e21e172409e244e6d268b9594a6cd74e8e0fd732263b8cdc7ff65ffb1a#rd)  
 - [2024-12-30-淘宝内容AI团队2024年8篇论文总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537546&idx=1&sn=e14005d455076ce0ddf3c6486368447a&chksm=83973652b4e0bf44db45aa8fa4abae4d8ac60b6c3ce2eca575e4ecaddbd0c2576a8f5be96b9d#rd)  
 - [2024-12-27-淘宝天猫集团荣获2024中国运筹学会“运筹应用奖”提名](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537530&idx=1&sn=cb51d8269c97e11588591107375667ba&chksm=83973622b4e0bf347964a7c3d05aeda58c9085dccd9c7743391ed20e90b0b68db909c1223e66#rd)  

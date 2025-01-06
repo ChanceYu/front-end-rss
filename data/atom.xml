@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-06T16:11:25.480Z</updated>
+    <updated>2025-01-06T18:12:36.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,11 +22,25 @@
         <published>2025-01-06T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[全新 AI 周刊上线，1 分钟了解每周 AI 大事件，紧跟时代浪潮]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500338&amp;idx=1&amp;sn=9b5c4f1a14dde1f89545638b4eb97305&amp;chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500338&amp;idx=1&amp;sn=9b5c4f1a14dde1f89545638b4eb97305&amp;chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd"/>
+        <updated>2025-01-06T00:00:00.000Z</updated>
+        <published>2025-01-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vue 官方教学：提升 Vue3 开发幸福感的 8 个小技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502037&amp;idx=1&amp;sn=95e1a616befe1b17e6d945b367ff6d7d&amp;chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502037&amp;idx=1&amp;sn=95e1a616befe1b17e6d945b367ff6d7d&amp;chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd"/>
         <updated>2025-01-06T00:00:00.000Z</updated>
         <published>2025-01-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 大 AI 数字人主播创建平台，开启直播新时代！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500326&amp;idx=2&amp;sn=ac4abee9267d6a68ef569536d43ba5e2&amp;chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500326&amp;idx=2&amp;sn=ac4abee9267d6a68ef569536d43ba5e2&amp;chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd"/>
+        <updated>2025-01-05T00:00:00.000Z</updated>
+        <published>2025-01-05T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTTP 将增加一个新的方法类型！]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524775&amp;idx=1&amp;sn=d0a364084b847e606ace66dbc1fd57a3&amp;chksm=f9926776cee5ee60db22b916ed0bd0b5ebb507656c3b2a2716fed1fb7150cfe604ac64cbbb83#rd"/>
         <updated>2024-12-22T00:00:00.000Z</updated>
         <published>2024-12-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用资源提示和 HTTP/2 多路复用让网页加载速度飞起来？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524775&amp;idx=2&amp;sn=abc4a7ecdaf9f15b4f8baf95007182ce&amp;chksm=f9926776cee5ee60cde2f95102dec72a127d9b5111936749183e4f2296df73691cadf793ae3b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524775&amp;idx=2&amp;sn=abc4a7ecdaf9f15b4f8baf95007182ce&amp;chksm=f9926776cee5ee60cde2f95102dec72a127d9b5111936749183e4f2296df73691cadf793ae3b#rd"/>
-        <updated>2024-12-22T00:00:00.000Z</updated>
-        <published>2024-12-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学TypeScript常被忽视的小概念declare]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=2&amp;sn=59aed7f648f5fa7638adfdc0fed1fb83&amp;chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=2&amp;sn=59aed7f648f5fa7638adfdc0fed1fb83&amp;chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd"/>
-        <updated>2024-12-21T00:00:00.000Z</updated>
-        <published>2024-12-21T00:00:00.000Z</published>
     </entry>
 </feed>

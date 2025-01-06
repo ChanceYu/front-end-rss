@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-07 00:11:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-07 02:12:36。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -107,6 +107,7 @@
 - [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd) 
 - [2023-06-30-ByteFE-邀你观看稀土开发者大会直播啦-|-6月30日9:30](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503633&idx=1&sn=c61a8011b844a1fdb4988be047ecbdcf&chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
+- [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd) 
 - [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd) 
 - [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd) 
 - [2023-07-02-Chrome-震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512208&idx=1&sn=af171038f66598ff89653c11c0832e3d&chksm=eb0788e9dc7001ffd544fe3da2e13df4c403d371468526df2bde475c6c094dfb9cd0d7198794#rd) 
