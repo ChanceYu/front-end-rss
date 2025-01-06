@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-06T06:14:52.751Z</updated>
+    <updated>2025-01-06T16:11:25.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Java21特性解读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd"/>
+        <updated>2025-01-06T00:00:00.000Z</updated>
+        <published>2025-01-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 官方教学：提升 Vue3 开发幸福感的 8 个小技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502037&amp;idx=1&amp;sn=95e1a616befe1b17e6d945b367ff6d7d&amp;chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[学TypeScript常被忽视的小概念declare]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=2&amp;sn=59aed7f648f5fa7638adfdc0fed1fb83&amp;chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=2&amp;sn=59aed7f648f5fa7638adfdc0fed1fb83&amp;chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd"/>
-        <updated>2024-12-21T00:00:00.000Z</updated>
-        <published>2024-12-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年细讲前端工程化【万字长文年终总结】冲冲冲！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=1&amp;sn=34e019e49e054c4b53b80ac0fb6fc2db&amp;chksm=f992674ecee5ee585746cacb2b86c4262445ce2c9650f13d990ab3a4f13e9cfb8ae749f9efff#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524767&amp;idx=1&amp;sn=34e019e49e054c4b53b80ac0fb6fc2db&amp;chksm=f992674ecee5ee585746cacb2b86c4262445ce2c9650f13d990ab3a4f13e9cfb8ae749f9efff#rd"/>
         <updated>2024-12-21T00:00:00.000Z</updated>
         <published>2024-12-21T00:00:00.000Z</published>
     </entry>
