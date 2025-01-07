@@ -12,18 +12,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-07 20:17:15，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-08 02:12:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) ![](/assets/new.png)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
@@ -64,7 +65,6 @@
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
-- [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -262,10 +262,10 @@
 </summary>
 
 
-- [2025-01-07-Canvas-居然还能用-Rust-实现？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=2&sn=e345680c796f4d84579b7fe2040e59dd&chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd) ![](/assets/new.png)  
-- [2025-01-07-推荐这几个流程图设计器web开发方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=1&sn=72127a672665914c4a224595a837203d&chksm=f99264a4cee5edb26d6ccd3edb8db4da6b9ae7f08f9f81d452f74b826bfc09ab8589eaeac515#rd) ![](/assets/new.png)  
-- [2025-01-06-35岁还没走到管理岗的人，都去哪里了？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=1&sn=d20356dce5afefcefbc832fb80b1eea0&chksm=f99264b5cee5eda3c7a2400e5bb364c6b7969b907e9aa93dc957c51adda21c4383039416620d#rd) ![](/assets/new.png)  
-- [2025-01-06-通过六个场景，告诉你-reduce-方法有多么强大！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=2&sn=47fb0770c0c01fe2923ad5b8111336b8&chksm=f99264b5cee5eda354e238a47177298dd7ee90e06efc87cd96ceae0c56ab6a125ca9da15b154#rd) ![](/assets/new.png)  
+- [2025-01-07-Canvas-居然还能用-Rust-实现？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=2&sn=e345680c796f4d84579b7fe2040e59dd&chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd)  
+- [2025-01-07-推荐这几个流程图设计器web开发方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=1&sn=72127a672665914c4a224595a837203d&chksm=f99264a4cee5edb26d6ccd3edb8db4da6b9ae7f08f9f81d452f74b826bfc09ab8589eaeac515#rd)  
+- [2025-01-06-35岁还没走到管理岗的人，都去哪里了？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=1&sn=d20356dce5afefcefbc832fb80b1eea0&chksm=f99264b5cee5eda3c7a2400e5bb364c6b7969b907e9aa93dc957c51adda21c4383039416620d#rd)  
+- [2025-01-06-通过六个场景，告诉你-reduce-方法有多么强大！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=2&sn=47fb0770c0c01fe2923ad5b8111336b8&chksm=f99264b5cee5eda354e238a47177298dd7ee90e06efc87cd96ceae0c56ab6a125ca9da15b154#rd)  
 - [2025-01-05-HTTP-将增加一个新的方法类型！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524962&idx=2&sn=edd668148670df327a9255e2a67eb200&chksm=f99264b3cee5eda556625601b3ce29128da19e387a295499e52a03019d53aafd205f3e440134#rd)  
 - [2025-01-05-聊聊前端技术调研到底应该怎么做？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524962&idx=1&sn=2fe5997c0a513d6268a98ce31c760b4a&chksm=f99264b3cee5eda5813b924065b8ea289934cca3722ae4ba5d1f136f1a7192902815f0106d45#rd)  
 - [2025-01-04-JavaScript-中处理-`null`-和-`undefined`-的演进](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524953&idx=1&sn=d576ef2f10ff1633f67f4f79b7c7cc0b&chksm=f9926488cee5ed9e454dbbc59f664d2157b27aa6061adcb082316a0f6ae469b5d58771741443#rd)  

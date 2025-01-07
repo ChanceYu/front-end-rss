@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-07T12:17:16.275Z</updated>
+    <updated>2025-01-07T18:12:40.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[【第3443期】2025 年前端开发工程师必备的 Docker Compose 全栈项目实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unflagged TypeScript support is just around the corner]]></title>
+        <id>https://nodeweekly.com/issues/561</id>
+        <link href="https://nodeweekly.com/issues/561"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Weex购物车长列表横滑操作优化“编年史”]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537506&amp;idx=1&amp;sn=5a023293f7064660ea52a1fe7e5ced5d&amp;chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537506&amp;idx=1&amp;sn=5a023293f7064660ea52a1fe7e5ced5d&amp;chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd"/>
-        <updated>2024-12-23T00:00:00.000Z</updated>
-        <published>2024-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只会用 2005 年的 Git 老命令？这 7 个 Git 新命令，很实用！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524787&amp;idx=1&amp;sn=bb288f43005c840c1987d602c8c72ca2&amp;chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524787&amp;idx=1&amp;sn=bb288f43005c840c1987d602c8c72ca2&amp;chksm=f9926762cee5ee749c02e35b965784638bcd8687caa2eb94786bcbe685fc69455739fa96776c#rd"/>
         <updated>2024-12-23T00:00:00.000Z</updated>
         <published>2024-12-23T00:00:00.000Z</published>
     </entry>
