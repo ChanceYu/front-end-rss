@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-06T18:12:36.665Z</updated>
+    <updated>2025-01-07T02:45:55.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3443期】2025 年前端开发工程师必备的 Docker Compose 全栈项目实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java21特性解读]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274828&amp;idx=1&amp;sn=0a815aff0a04d32f5f512646693f4ad6&amp;chksm=bc4edf03401302764a8a03333dec57c7ab4d75a77e070ded57790c0f8d860434fd263d2358bf&amp;scene=0#rd"/>
         <updated>2024-12-23T00:00:00.000Z</updated>
         <published>2024-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新发布：2024 Node.js 性能报告出炉，v22 性能大幅提升！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524775&amp;idx=1&amp;sn=d0a364084b847e606ace66dbc1fd57a3&amp;chksm=f9926776cee5ee60db22b916ed0bd0b5ebb507656c3b2a2716fed1fb7150cfe604ac64cbbb83#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524775&amp;idx=1&amp;sn=d0a364084b847e606ace66dbc1fd57a3&amp;chksm=f9926776cee5ee60db22b916ed0bd0b5ebb507656c3b2a2716fed1fb7150cfe604ac64cbbb83#rd"/>
-        <updated>2024-12-22T00:00:00.000Z</updated>
-        <published>2024-12-22T00:00:00.000Z</published>
     </entry>
 </feed>
