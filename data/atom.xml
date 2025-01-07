@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-07T18:12:40.276Z</updated>
+    <updated>2025-01-07T23:20:20.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
         <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
         <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 年 GitHub 上 star 增长最多的前端 JavaScript 项目]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516982&amp;idx=1&amp;sn=5e7d377669d76dedaafd1c012df84534&amp;chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516982&amp;idx=1&amp;sn=5e7d377669d76dedaafd1c012df84534&amp;chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[Java21特性解读]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd"/>
+        <updated>2025-01-06T00:00:00.000Z</updated>
+        <published>2025-01-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让我看看有多少人不知道Vue3中也能实现高阶组件HOC]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516980&amp;idx=1&amp;sn=0ae4b752527db543d10fc6eeab28d68a&amp;chksm=eb07bb4ddc70325b689d2a8ca30eddd62d9875692519ac56083c4b8792ae628b3c22d900f617#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516980&amp;idx=1&amp;sn=0ae4b752527db543d10fc6eeab28d68a&amp;chksm=eb07bb4ddc70325b689d2a8ca30eddd62d9875692519ac56083c4b8792ae628b3c22d900f617#rd"/>
         <updated>2025-01-06T00:00:00.000Z</updated>
         <published>2025-01-06T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274832&amp;idx=1&amp;sn=456ec9bb3869fcd4e2b8e2d54c3264e1&amp;chksm=bc4da2e67783145db1a102be12e0bc88389fae5c1db1adbb131c0f514eaee67a84a89365ebc2&amp;scene=0#rd"/>
         <updated>2024-12-24T00:00:00.000Z</updated>
         <published>2024-12-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用JS获取系统内存、CPU/GPU、电量等信息]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"/>
-        <updated>2024-12-23T00:00:00.000Z</updated>
-        <published>2024-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weex购物车长列表横滑操作优化“编年史”]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537506&amp;idx=1&amp;sn=5a023293f7064660ea52a1fe7e5ced5d&amp;chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537506&amp;idx=1&amp;sn=5a023293f7064660ea52a1fe7e5ced5d&amp;chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd"/>
-        <updated>2024-12-23T00:00:00.000Z</updated>
-        <published>2024-12-23T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-08 02:12:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-08 07:20:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -28,7 +28,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) ![](/assets/new.png)  
+- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
@@ -417,6 +417,8 @@
 </summary>
 
 
+- [2025-01-07-2024-年-GitHub-上-star-增长最多的前端-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516982&idx=1&sn=5e7d377669d76dedaafd1c012df84534&chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd) ![](/assets/new.png)  
+- [2025-01-06-让我看看有多少人不知道Vue3中也能实现高阶组件HOC](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516980&idx=1&sn=0ae4b752527db543d10fc6eeab28d68a&chksm=eb07bb4ddc70325b689d2a8ca30eddd62d9875692519ac56083c4b8792ae628b3c22d900f617#rd) ![](/assets/new.png)  
 - [2024-12-30-一行代码提升-30%+-TS-类型检查性能](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516973&idx=1&sn=dff0068a4a679e54e27d6ae646865e64&chksm=eb07bb54dc703242e76131144546aa54c8f9d6d608d0d3cf8fef6fed3bd43b2dc8b6fbcbe1bb#rd)  
 - [2024-12-27-“不定高”虚拟列表，面试官总考这玩意儿](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516970&idx=1&sn=a6388575a11ceb606590d650fa431e92&chksm=eb07bb53dc703245b70230c3b3e02d0080a3bba4fa20540bfe22cd496f1e1ac3d9e326f1f50e#rd)  
 - [2024-12-26-我在这家公司吃到了大瓜…（加料版，补充了彩蛋）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516966&idx=1&sn=ebc8f25046c6445db0fa2692ce825687&chksm=eb07bb5fdc703249508239cc318fd4c2e4c87aa98678ac316df7c7fed0ad28e73c1e7fd964c8#rd)  
@@ -426,8 +428,8 @@
 - [2024-12-17-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516942&idx=1&sn=469c69b283c84399e0605c51bfc3ee77&chksm=eb07bb77dc70326135ec2ae6d8c91d1d32fad572ddbcf60e52a7b297818d4135be13a7733edf#rd)  
 - [2024-12-16-神了，Chrome-这个记录器简直是开发测试提效神器](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516915&idx=1&sn=a1bf03a53a8f54d4fe12654975188b9b&chksm=eb07ba8adc70339ce19596001f6d9620221cb899ee3bc3a0c43b431773653677927e14b345cb#rd)  
 - [2024-12-11-antd-对-ai-下手了！Vue-开发者表示羡慕！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516910&idx=1&sn=020001d07614212b26fcd43c390d5639&chksm=eb07ba97dc703381f7dbbcf9643321878b5d587c68b56d5b3de636ba5291f22adab2b465324b#rd)  
-- [2024-12-10-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516907&idx=1&sn=933d117cf1b5acb766824217e7d4dffc&chksm=eb07ba92dc703384384e6ac09b5c416ac1c2b76569924035eaa1155d343c102c054b224786a9#rd)  
 - [2024-12-10-最新开源：超强的-React-性能测试工具！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516907&idx=2&sn=e41c22244d648fce60e40b5ac2558bdf&chksm=eb07ba92dc7033847aee0ab7f05c2110defe9da93e90dedcc58fb0925b1f7755526ea8fa60b9#rd)  
+- [2024-12-10-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516907&idx=1&sn=933d117cf1b5acb766824217e7d4dffc&chksm=eb07ba92dc703384384e6ac09b5c416ac1c2b76569924035eaa1155d343c102c054b224786a9#rd)  
 - [2024-12-09-React-19-稳定版，它终于来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516890&idx=1&sn=d76d0b6acc0b35811eff806d71a19f61&chksm=eb07baa3dc7033b5a7ed67052f4ceb05c4591757931fdaa3b4d6738d23cc79db966cb50dbcd0#rd)  
 - [2024-12-06-请前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516887&idx=1&sn=311216a3a369f6dbda76e9d5515a0ec0&chksm=eb07baaedc7033b802af2a835d81f58c246d72b9f588260d0da784b6b776f5b979bc1b062e08#rd)  
 - [2024-12-05-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516868&idx=1&sn=c17857ddad0582ab57f07f3a0022c452&chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd)  
@@ -435,8 +437,6 @@
 - [2024-12-03-面试官：来谈谈Vue3的provide和inject实现多级传递的原理](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516854&idx=1&sn=9b864c23b1950063a17d04404fdb3bc6&chksm=eb07bacfdc7033d9f3e79b784f989aa3b88f17efe144cfb4931529454456e62d184130ca75fd#rd)  
 - [2024-11-29-Rust赋能前端：-纯血前端将-Table-导出-Excel](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516848&idx=1&sn=44ceaed7ea2de389ddec46514862d712&chksm=eb07bac9dc7033df9a771f3b202ef05478976370f8c1cabe32756b8c90270aa69c27bd9b4c71#rd)  
 - [2024-11-27-Vite-6.0-发布啦！​](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516840&idx=1&sn=8863c0eaf4765d7ca34ae67e1bacda4d&chksm=eb07bad1dc7033c708f58b53d5472dba15df028f9e392c743ac5eced1ec66c004bf648784afa#rd)  
-- [2024-11-25-Vue：我们将成为最快的响应式框架！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516812&idx=1&sn=a5821e231f22880fa4fda87f6483fd71&chksm=eb07baf5dc7033e32c561197db7099bcfe66f5d841290b081223415f5236314fcee321bc189f#rd)  
-- [2024-11-21-2025-年最顶级的-React-生态玩法揭秘……](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516810&idx=1&sn=44e245d599d69e122604dfccde3e8bba&chksm=eb07baf3dc7033e5c8232c91eda770101234226fc0a2cacd34cada488e6b234afc10567ef668#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
