@@ -12,25 +12,25 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-08 10:44:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-09 06:09:33，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-01-08-【第3444期】Chrome-131-开发者工具的新变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275083&idx=1&sn=37d1d85616ac196e766b76ba92ab6ef7&chksm=bc44cf383580e00bda725629cdb6329d3d96f851bd551e94eb00c11e1ea7d4f8417ac03e1004&scene=0#rd) ![](/assets/new.png)  
+- [2025-01-08-【第3444期】Chrome-131-开发者工具的新变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275083&idx=1&sn=37d1d85616ac196e766b76ba92ab6ef7&chksm=bc44cf383580e00bda725629cdb6329d3d96f851bd551e94eb00c11e1ea7d4f8417ac03e1004&scene=0#rd)  
 - [2025-01-07-【第3443期】2025-年前端开发工程师必备的-Docker-Compose-全栈项目实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275059&idx=1&sn=19b6f5e0506df06454c92d864c133237&chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&scene=0#rd)  
 - [2025-01-06-【第3442期】Rolldown-1.0.0-beta.1-发布，为什么仍然需要打包工具？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275046&idx=1&sn=2c7e8453c1da0807f35f62123c0102a2&chksm=bc83b5afe8861af9d05fbad6b2f8ccd316488e87552fa66feb833b6d4c04e2016a01125c702b&scene=0#rd)  
 - [2025-01-05-【早阅】Node.js-模块简史：cjs、打包工具和-esm](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275042&idx=1&sn=6539b06616acbf18c8ccc7b004d6b847&chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&scene=0#rd)  
@@ -169,6 +169,7 @@
 </summary>
 
 
+- [2025-01-08-2025-年你应该告别的-5-个-JavaScript-库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525688&idx=1&sn=31f185f90414f25f61a0f3992be821cc&chksm=f952d07bce25596d622e2bef38e4aafb4aaa97f195dfb2269331b68f57f6d0688e774a766610#rd) ![](/assets/new.png)  
 - [2024-12-25-Airbnb死磕React-Native惨败，微软却玩出花！Office、Outlook全线接入，Copilot成最大赢家](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525671&idx=1&sn=add09add61c31f1a0e83754514a82ce5&chksm=f952d064ce2559727855657c9687cc0d4adb77c9f71790cca67c6052b7e84fc91d8ccfa9a8d6#rd)  
 - [2024-12-20-快手前端动效大揭秘：告别低效，vision平台来袭！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525635&idx=1&sn=a6ab7363924bd0948d2c6563f3ed85a4&chksm=f952d040ce255956a40bd96db15723302da0f01853258ec23c7986601fac47b9bbf521a80103#rd)  
 - [2024-12-11-“应该禁止所有新项目使用-React！”微软资深工程师犀利-diss：“React-是行业标准”简直胡说！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525584&idx=1&sn=d283a381bf41a50900fed32022f90602&chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd)  
@@ -182,13 +183,12 @@
 - [2024-10-16-对话Motiff妙多赵薇：大模型在UI设计工具中的交互挑战与机遇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525401&idx=1&sn=2134333d2840357cd446ab4aebee9945&chksm=f952d15ace25584cef7b27da1e893ad9975a431cbffc1af77f3e79aa5a2519a5b478cc92b16c#rd)  
 - [2024-10-14-iOS-上手-Vision-Pro-还未摸到门道？快来听听淘宝-Vision-Pro-的最佳实践！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525372&idx=1&sn=0dfdeca47a1d33a1216ed60ecf40e0be&chksm=f952d6bfce255fa9a0899bc781e681dcbd5e86be84337eb16d3f37af1d07cfa153210720003e#rd)  
 - [2023-12-25-2024年，你应该知道的5种React设计模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523515&idx=1&sn=07e72deb59c0cb87fe222214ec01bf17&chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd)  
-- [2023-12-22-Netlify调查点燃热议，Astro悄然崛起](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=1&sn=6e8d71e0182c039bf6d4b7ad7090250d&chksm=f95229ddce25a0cbf5f01821d95e1ad9061fa1809c68aeea95fb643693296d6130f50220069d#rd)  
 - [2023-12-22-技术的未来：谈大语言模型前端研发领域的革命性影响](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=2&sn=79c7fb993917379b76d2536081a07407&chksm=f95229ddce25a0cb716b15eef6794926751a0b40979a5e51160d09e379addd0b0b52290943cb#rd)  
+- [2023-12-22-Netlify调查点燃热议，Astro悄然崛起](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=1&sn=6e8d71e0182c039bf6d4b7ad7090250d&chksm=f95229ddce25a0cbf5f01821d95e1ad9061fa1809c68aeea95fb643693296d6130f50220069d#rd)  
 - [2023-12-20-前端框架自欺欺人，TypeScript全无必要？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523432&idx=1&sn=f7f4df4457b5fefa7fef036e5a9c22a6&chksm=f952292bce25a03d0ea6e34fb403408df9febb1fe0ebd913a3f82209174f4c545466b4acb12c#rd)  
 - [2023-12-18-React-单元测试实例：快速上手指南](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523407&idx=1&sn=3ef1ee8ce15e18d3c9be95defa8ffd93&chksm=f952290cce25a01a16da5490a733bec2c249d8c8756a9e2549fc6753ffee32d5d0b05ac276f8#rd)  
 - [2023-12-15-突破-ToB-前端开发场景中的-antd-Table-性能瓶颈](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523375&idx=1&sn=151d05dc5daf4856e195597edd26e982&chksm=f952296cce25a07a3f9666ab33e83910a14bcc85751218abef7c6236853c87056611cbd0813e#rd)  
 - [2023-12-13-展望2024：构建更快、更高效的Web体验](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523290&idx=1&sn=051b218e6f30af9fbac911cb3d88cd19&chksm=f9522e99ce25a78f0173670f945541c0bd85bd9116f3337cb1bad5c5f652058603b9bd848802#rd)  
-- [2023-12-11-SPA-和-React：你并不总是需要服务器端渲染](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523285&idx=1&sn=95cd4e7901248a43b57409c6d159b18a&chksm=f9522e96ce25a78011d35060ededd001e0fc7cb66f0ea3b5f71400517509db951cdc94daab0b#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2025-01-08-分享-8-个超级实用的前端代码片段，总要用得上的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502047&idx=1&sn=2b0f708e6a0f139a9f72feeb3121e7d0&chksm=ce45dd4ef9325458e3087c84eb4ee1b6e6d096b6cdc86b30ceb2a541c90be3e5b11f4c06483e#rd) ![](/assets/new.png)  
+- [2025-01-07-认识了一个刚上岸字节的前端女生，真的有被震惊到！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502046&idx=1&sn=f5c13da27d6584bfbd0d19c44bf98845&chksm=ce45dd4ff9325459ee3cd58758016fd07527fbc406f73264187666f7ff93e1dfe4f59203af79#rd) ![](/assets/new.png)  
 - [2025-01-06-Vue-官方教学：提升-Vue3-开发幸福感的-8-个小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502037&idx=1&sn=95e1a616befe1b17e6d945b367ff6d7d&chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd)  
 - [2025-01-05-一个插件，让你在-vscode-里养几只宠物](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502028&idx=1&sn=13c26b892805098788e2435ca0298e4a&chksm=ce45dd5df932544b61f789ba51897c28e5e440db7550a334f9c39de5f53360f561990d2347c1#rd)  
 - [2025-01-04-第一次发现-console.log-这么没用！我要改造它！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502002&idx=1&sn=376a78805ec2577eb8babbbd8e651d6a&chksm=ce45dd23f93254352a8701331536d54f3815836f448f023c33390d23e0a326261c0ae28e2a32#rd)  
@@ -218,8 +220,6 @@
 - [2024-12-22-如何实现超级酷炫的星星连线效果？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501767&idx=1&sn=13ba88dc3796166ee3b8bcecac644c0e&chksm=ce45d256f9325b409fd5bb74d31522ed176584d0d6e70b38b123abac3840d616bfec61aadc32#rd)  
 - [2024-12-21-前端给客户实现了一个【五子棋】的小游戏，有点6！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501766&idx=1&sn=94e09d23b31b4e8779547ad003e3f4db&chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd)  
 - [2024-12-20-小型-Vue-项目，该不该用-Pinia-、Vuex呢？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501590&idx=1&sn=81cc1560b3496d8a7496ea04286aef52&chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd)  
-- [2024-12-19-【直播预告】CIMPro孪大师V6.3-数字孪生WebAPI二次开发技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501589&idx=1&sn=ae80b148fd3f88f0b1be00d48437cb88&chksm=ce45d284f9325b92f6d3dd99ab9b811adb809ae77a223df93cb17d263e184901b895bb99f191#rd)  
-- [2024-12-18-12月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501582&idx=1&sn=4d2da181d96b2927f0415d19667057a5&chksm=ce45d29ff9325b89e76ac03afb01a33128d93d0aa57a72d7ab9582247a62c0bea0df9a9ed3e3#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -262,26 +262,26 @@
 </summary>
 
 
-- [2025-01-07-Canvas-居然还能用-Rust-实现？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=2&sn=e345680c796f4d84579b7fe2040e59dd&chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd)  
+- [2025-01-08-Node.js-模块简史：cjs、打包工具和-esm](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525001&idx=2&sn=8ffda83723ba31a6d98b126807a5aa04&chksm=f9926458cee5ed4ed518e65a238d93e4944dd3dca8d76ef254fc49b785700de8bfc62bdf8bae#rd) ![](/assets/new.png)  
+- [2025-01-08-最全ECharts-实战大全（速记版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525001&idx=1&sn=276a8d0ee0b9a5178e3debd36bb875b4&chksm=f9926458cee5ed4e16055749eb276d008a36dad4d922104910222c44c37a78774c1199b6e26f#rd) ![](/assets/new.png)  
 - [2025-01-07-推荐这几个流程图设计器web开发方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=1&sn=72127a672665914c4a224595a837203d&chksm=f99264a4cee5edb26d6ccd3edb8db4da6b9ae7f08f9f81d452f74b826bfc09ab8589eaeac515#rd)  
-- [2025-01-06-35岁还没走到管理岗的人，都去哪里了？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=1&sn=d20356dce5afefcefbc832fb80b1eea0&chksm=f99264b5cee5eda3c7a2400e5bb364c6b7969b907e9aa93dc957c51adda21c4383039416620d#rd)  
+- [2025-01-07-Canvas-居然还能用-Rust-实现？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524981&idx=2&sn=e345680c796f4d84579b7fe2040e59dd&chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd)  
 - [2025-01-06-通过六个场景，告诉你-reduce-方法有多么强大！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=2&sn=47fb0770c0c01fe2923ad5b8111336b8&chksm=f99264b5cee5eda354e238a47177298dd7ee90e06efc87cd96ceae0c56ab6a125ca9da15b154#rd)  
-- [2025-01-05-HTTP-将增加一个新的方法类型！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524962&idx=2&sn=edd668148670df327a9255e2a67eb200&chksm=f99264b3cee5eda556625601b3ce29128da19e387a295499e52a03019d53aafd205f3e440134#rd)  
+- [2025-01-06-35岁还没走到管理岗的人，都去哪里了？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524964&idx=1&sn=d20356dce5afefcefbc832fb80b1eea0&chksm=f99264b5cee5eda3c7a2400e5bb364c6b7969b907e9aa93dc957c51adda21c4383039416620d#rd)  
 - [2025-01-05-聊聊前端技术调研到底应该怎么做？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524962&idx=1&sn=2fe5997c0a513d6268a98ce31c760b4a&chksm=f99264b3cee5eda5813b924065b8ea289934cca3722ae4ba5d1f136f1a7192902815f0106d45#rd)  
-- [2025-01-04-JavaScript-中处理-`null`-和-`undefined`-的演进](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524953&idx=1&sn=d576ef2f10ff1633f67f4f79b7c7cc0b&chksm=f9926488cee5ed9e454dbbc59f664d2157b27aa6061adcb082316a0f6ae469b5d58771741443#rd)  
+- [2025-01-05-HTTP-将增加一个新的方法类型！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524962&idx=2&sn=edd668148670df327a9255e2a67eb200&chksm=f99264b3cee5eda556625601b3ce29128da19e387a295499e52a03019d53aafd205f3e440134#rd)  
 - [2025-01-04-跨平台解决方案的技术分析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524953&idx=2&sn=208a24c5be8f0334f163e3b0f634b9cb&chksm=f9926488cee5ed9e8c37e4176b9b0c005425b0593ffd2a9d7c4a1aefe0b795c6a9f30d53f16a#rd)  
-- [2025-01-03-一个发票生成应用程序开源推荐（技术栈Next.js-13、TypeScript、React-和-Shadcn-UI等）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524933&idx=1&sn=108c8ed76810f3a0f96799210387da44&chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd)  
+- [2025-01-04-JavaScript-中处理-`null`-和-`undefined`-的演进](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524953&idx=1&sn=d576ef2f10ff1633f67f4f79b7c7cc0b&chksm=f9926488cee5ed9e454dbbc59f664d2157b27aa6061adcb082316a0f6ae469b5d58771741443#rd)  
 - [2025-01-03-干货-|-携程商旅在-Remix-模块预加载中的探索与优化实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524933&idx=2&sn=3abd6c5d8848473f54648fa0b43b3cd6&chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd)  
-- [2025-01-02-分析组件的渲染时间](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524914&idx=2&sn=ba9b3a6a21832839722d661efdc281ea&chksm=f99264e3cee5edf5266ab52ab1123a0b86712228dd169639abcbfb765d29df9722d99ac76ac6#rd)  
+- [2025-01-03-一个发票生成应用程序开源推荐（技术栈Next.js-13、TypeScript、React-和-Shadcn-UI等）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524933&idx=1&sn=108c8ed76810f3a0f96799210387da44&chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd)  
 - [2025-01-02-JS渗透逆向入门-｜4100字深度解析](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524914&idx=1&sn=5f52bd3bbb6dd687a7738e72958a6491&chksm=f99264e3cee5edf5dfd6eb1b396fce96413758033a29058c59e64bdc28d6b19f17db80bebc97#rd)  
-- [2024-12-31-真的建议大家搞个软考证书！（红利期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524903&idx=1&sn=3a39ce259e38ea96b71ff75b695e8e5a&chksm=f99264f6cee5ede003be78a177415e7b98d6291af1578a9baf8664dcb16e683c348d059e2968#rd)  
+- [2025-01-02-分析组件的渲染时间](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524914&idx=2&sn=ba9b3a6a21832839722d661efdc281ea&chksm=f99264e3cee5edf5266ab52ab1123a0b86712228dd169639abcbfb765d29df9722d99ac76ac6#rd)  
 - [2024-12-31-网页疯狂自动刷新，发生了什么？业务：我传了一张两亿像素的图片而已](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524903&idx=2&sn=953e241b9708b565763aa70093173d63&chksm=f99264f6cee5ede0b3cf5e36fc8477b31ff69737c417181648d6432593fa62c2a2ed741dfd6d#rd)  
-- [2024-12-30-什么是源代码映射？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524884&idx=2&sn=83733d0a339c047ca75f129a3b8a2730&chksm=f99264c5cee5edd3227562b872807bbf7a66ffe57a049904d17153d5c0d99c5184198b98ee9f#rd)  
+- [2024-12-31-真的建议大家搞个软考证书！（红利期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524903&idx=1&sn=3a39ce259e38ea96b71ff75b695e8e5a&chksm=f99264f6cee5ede003be78a177415e7b98d6291af1578a9baf8664dcb16e683c348d059e2968#rd)  
 - [2024-12-30-前端金额运算精度丢失问题及解决方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524884&idx=1&sn=e1f2a2a009873d9a947e09bb5e6b81ec&chksm=f99264c5cee5edd3dc541064576d4e7d792c518eadb80cfc3f3c1c8561717894d844b11e0c96#rd)  
+- [2024-12-30-什么是源代码映射？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524884&idx=2&sn=83733d0a339c047ca75f129a3b8a2730&chksm=f99264c5cee5edd3227562b872807bbf7a66ffe57a049904d17153d5c0d99c5184198b98ee9f#rd)  
 - [2024-12-29-2024-年末前端现状总结：TS-超越-JS，成为新的标准](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524872&idx=1&sn=88ce9a152c3d5b5fe5139a1c3bb13a03&chksm=f99264d9cee5edcf4d6dfe79e122e421f1d5096fde5342930740ce0918d1fcdb5ce29ede5064#rd)  
-- [2024-12-28-停止过度使用Console.log!原因如下以及更好的选择](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524862&idx=1&sn=5d39f767905d336254cb7744ae8ea16d&chksm=f992672fcee5ee39086a1e6daec72628b41ae6cfc29268aa111706f0c7a1198dda3f2d6e27e6#rd)  
 - [2024-12-28-antd-对-ai-下手了！Vue-开发者表示羡慕！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524862&idx=2&sn=bf544fde2e48a6e90f3c4c7f9edc6ca2&chksm=f992672fcee5ee394e8a23f709ff844027fdaedc349fd096834893131c96d5875e4aa968689b#rd)  
-- [2024-12-27-vercel是如何做微前端迁移的](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524854&idx=2&sn=f3463bdc890530c2c996b181291de6ca&chksm=f9926727cee5ee314aec49859f0ddd5fdbfe2be84ebd393e6edad3412eff14e6f7228293500d#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-01-08-简化代码模块设计：两种高效编程范式](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537644&idx=1&sn=bdad73abd26337d3f225403e23741622&chksm=839736b4b4e0bfa28fc01ff1fdc1a531a6254eb6b8b6d290179841c1fda3f02b3ab2f2601238#rd) ![](/assets/new.png)  
 - [2025-01-06-Java21特性解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537631&idx=1&sn=5b7df95a4ddea0538dd9e251134a7cb4&chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd)  
 - [2025-01-03-一种可复用的AI提效方案：AI点灯](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537613&idx=1&sn=952b93bf7b35383542f686af192fc3cd&chksm=83973695b4e0bf83478744239e32bf8d458cb422b20612e25dcc7c03273da73a5196db99beb7#rd)  
 - [2024-12-31-淘宝获2024年度CCF技术发明一等奖](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537554&idx=1&sn=ddd744e684c66a3470f2f8568b9ead1b&chksm=8397364ab4e0bf5ca7e21e172409e244e6d268b9594a6cd74e8e0fd732263b8cdc7ff65ffb1a#rd)  
@@ -498,7 +499,6 @@
 - [2024-11-29-搭建业务的性能优化指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537238&idx=1&sn=8e57dca84c4655fc900aa7a2b15f8cab&chksm=8397350eb4e0bc186073ea153851d890d95600036472bca7b31d8b55794799061409f41b0152#rd)  
 - [2024-11-27-NeurIPS-2024-Spotlight-|-一种高可控细粒度多参考图的人脸面部合成方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537209&idx=1&sn=6d968e3c6a6bd86a0a86814c778abad4&chksm=839734e1b4e0bdf7b6d8134f16693576150db07909f8997112b1dc6f99fe5e9964fa3f958dc6#rd)  
 - [2024-11-25-Open-Set目标检测算法的原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537172&idx=1&sn=33bbda28aca93739c038ae0c9d80b1f8&chksm=839734ccb4e0bddacef0d45e24747b3d5ac78afbff99c5932014374f3a54fc8d2e1c878b8bb0#rd)  
-- [2024-11-22-AI助手：淘宝交易研发效率提升50%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536998&idx=1&sn=ae9631e925df5e0e86ed52fa8be5b7e2&chksm=8397343eb4e0bd2853074a9b98677db166dc44b20452839a63183c5cac33c113acd21ece19bf#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
