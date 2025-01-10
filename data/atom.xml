@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-10T04:12:32.815Z</updated>
+    <updated>2025-01-10T16:11:14.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早阅】aiCoder：利用AST实现AI生成代码的合并工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275298&amp;idx=1&amp;sn=5d1d7b8da48439333221491e87cd084b&amp;chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275298&amp;idx=1&amp;sn=5d1d7b8da48439333221491e87cd084b&amp;chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&amp;scene=0#rd"/>
+        <updated>2025-01-10T00:00:00.000Z</updated>
+        <published>2025-01-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The projects that shaped JavaScript in 2024]]></title>
+        <id>https://javascriptweekly.com/issues/718</id>
+        <link href="https://javascriptweekly.com/issues/718"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
         <published>2025-01-10T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274868&amp;idx=1&amp;sn=69f6fc5d28c73b63de8c77987794fed9&amp;chksm=bcc83df9c8fd47299b2467b007fdd20f587427f4c590049ce6febedce08e207a954b776c80f8&amp;scene=0#rd"/>
         <updated>2024-12-26T00:00:00.000Z</updated>
         <published>2024-12-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【前端进阶】更容易理解的 SEO 全方面优化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524812&amp;idx=2&amp;sn=b995aee1b36036596439a65e48d0d811&amp;chksm=f992671dcee5ee0bafb43b592818f256b9729726b9d6face85d59e42e2e6dead95e35eaf203d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524812&amp;idx=2&amp;sn=b995aee1b36036596439a65e48d0d811&amp;chksm=f992671dcee5ee0bafb43b592818f256b9729726b9d6face85d59e42e2e6dead95e35eaf203d#rd"/>
-        <updated>2024-12-25T00:00:00.000Z</updated>
-        <published>2024-12-25T00:00:00.000Z</published>
     </entry>
 </feed>

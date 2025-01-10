@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-10 12:12:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-11 00:11:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718) ![](/assets/new.png)  
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
@@ -95,7 +96,6 @@
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
-- [2024-07-25-What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-01-10-【早阅】aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275298&idx=1&sn=5d1d7b8da48439333221491e87cd084b&chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&scene=0#rd) ![](/assets/new.png)  
+- [2025-01-10-【早阅】aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275298&idx=1&sn=5d1d7b8da48439333221491e87cd084b&chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&scene=0#rd)  
 - [2025-01-09-【第3445期】React-设计模式：实例钩子模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275088&idx=1&sn=f574abb6352f47b66429061c2a1dfb01&chksm=bcb5e1ab3664eab362ae218a2271023afcdccf8e3a7e4665d83db81d92c94d6d3a7777081183&scene=0#rd)  
 - [2025-01-08-【第3444期】Chrome-131-开发者工具的新变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275083&idx=1&sn=37d1d85616ac196e766b76ba92ab6ef7&chksm=bc44cf383580e00bda725629cdb6329d3d96f851bd551e94eb00c11e1ea7d4f8417ac03e1004&scene=0#rd)  
 - [2025-01-07-【第3443期】2025-年前端开发工程师必备的-Docker-Compose-全栈项目实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275059&idx=1&sn=19b6f5e0506df06454c92d864c133237&chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&scene=0#rd)  

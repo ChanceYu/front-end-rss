@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2024-12-20 02:11:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-11 00:11:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718) 
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717) 
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716) 
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715) 
