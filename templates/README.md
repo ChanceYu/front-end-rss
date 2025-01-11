@@ -1,5 +1,5 @@
 <div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1>
-每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
+每天定时更新前端技术文章，并推送到 GitHub 方便查看
 </div>
 
 ## 
