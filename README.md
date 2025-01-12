@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-12 10:52:43，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-12 16:11:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -30,7 +30,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-01-12-【早阅】2025-年的-React-+-AI-技术栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275365&idx=1&sn=8c9e078676080802934a1c26593da4fe&chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&scene=0#rd) ![](/assets/new.png)  
+- [2025-01-12-【早阅】2025-年的-React-+-AI-技术栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275365&idx=1&sn=8c9e078676080802934a1c26593da4fe&chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&scene=0#rd)  
 - [2025-01-11-【早阅】2025-年-CSS-愿望清单](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275323&idx=1&sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&scene=0#rd)  
 - [2025-01-10-【早阅】aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275298&idx=1&sn=5d1d7b8da48439333221491e87cd084b&chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&scene=0#rd)  
 - [2025-01-09-【第3445期】React-设计模式：实例钩子模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275088&idx=1&sn=f574abb6352f47b66429061c2a1dfb01&chksm=bcb5e1ab3664eab362ae218a2271023afcdccf8e3a7e4665d83db81d92c94d6d3a7777081183&scene=0#rd)  
@@ -200,6 +200,10 @@
 </summary>
 
 
+- [2025-01-12-泪目！3w-Star-的前端启蒙项目，被直接封杀清空仓库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502120&idx=1&sn=0ba46f12e7a02c52e7cff5d4148e5444&chksm=ce45dcb9f93255af92a29e6c1e46c07248e707acf5c468f32ea2cd4f522115473ffdc1703ec3#rd) ![](/assets/new.png)  
+- [2025-01-11-分享-10-个很实用的前端工具库，快来看看吧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502113&idx=1&sn=7b885bb7634ad066dc93ed7a8a15e216&chksm=ce45dcb0f93255a6919d1958d9001a77efd50c619f4d9d7976cb3c6720e846000430f1c3a3a6#rd) ![](/assets/new.png)  
+- [2025-01-10-Vue-的-style-加了-scoped，居然也会样式冲突？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502059&idx=1&sn=b388554bde5cb2bdefd81f4206c38155&chksm=ce45dd7af932546c5e05174409242f43923c03de4a5c89b0cb1135e31f023078b3a53799ad19#rd) ![](/assets/new.png)  
+- [2025-01-09-一前端新框架，让我回到了五年前的快乐开发模式](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502048&idx=1&sn=1980ac29cdacd7f825d98da114abe674&chksm=ce45dd71f93254675951131186277ebd70d8a55aafb68f14b1684fd82f7128e795612609cce3#rd) ![](/assets/new.png)  
 - [2025-01-08-分享-8-个超级实用的前端代码片段，总要用得上的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502047&idx=1&sn=2b0f708e6a0f139a9f72feeb3121e7d0&chksm=ce45dd4ef9325458e3087c84eb4ee1b6e6d096b6cdc86b30ceb2a541c90be3e5b11f4c06483e#rd)  
 - [2025-01-07-认识了一个刚上岸字节的前端女生，真的有被震惊到！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502046&idx=1&sn=f5c13da27d6584bfbd0d19c44bf98845&chksm=ce45dd4ff9325459ee3cd58758016fd07527fbc406f73264187666f7ff93e1dfe4f59203af79#rd)  
 - [2025-01-06-Vue-官方教学：提升-Vue3-开发幸福感的-8-个小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502037&idx=1&sn=95e1a616befe1b17e6d945b367ff6d7d&chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd)  
@@ -216,10 +220,6 @@
 - [2024-12-26-12月面了10个前端开发，发现了这个通病...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501864&idx=1&sn=6476bd2446ca836d01dcf76a08e63c30&chksm=ce45ddb9f93254af9796a42fa4a85acf904bddf8b7f2b8e9ea6790852f5fc2a6723911e96e5c#rd)  
 - [2024-12-25-想提高-Vue-技术竞争力？推荐几个简单的源码库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501856&idx=1&sn=a846bd12a065a54f0e3e3b64d02ec683&chksm=ce45ddb1f93254a733934e75c20309bbe5e792f60598253fbf3c3c777209c5de2dbf569a9d93#rd)  
 - [2024-12-24-前端行情回暖了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501854&idx=1&sn=4489c5e756487b72db6b2624c002afbf&chksm=ce45dd8ff9325499b617d6425675fa96af853f36e9b61a49d6865b9bec4cff99866192e5314a#rd)  
-- [2024-12-23-Vue-团队官宣：Vue-的性能将提升-400%，世界最快前端框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501797&idx=1&sn=760c635358012b883a3f8edc4de944ac&chksm=ce45d274f9325b62b2193bdd9cf4d42f9ea7d33d9c7ac0383d4f2dbe06581a089f9d93ed2329#rd)  
-- [2024-12-22-如何实现超级酷炫的星星连线效果？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501767&idx=1&sn=13ba88dc3796166ee3b8bcecac644c0e&chksm=ce45d256f9325b409fd5bb74d31522ed176584d0d6e70b38b123abac3840d616bfec61aadc32#rd)  
-- [2024-12-21-前端给客户实现了一个【五子棋】的小游戏，有点6！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501766&idx=1&sn=94e09d23b31b4e8779547ad003e3f4db&chksm=ce45d257f9325b4148f4226bef0ec3227cd776a06230365307dd4d2473a93b9dc9197199882e#rd)  
-- [2024-12-20-小型-Vue-项目，该不该用-Pinia-、Vuex呢？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501590&idx=1&sn=81cc1560b3496d8a7496ea04286aef52&chksm=ce45d287f9325b914c26d5b173e789ca6e3599cbeeff2733aa98435b36fca232a9454d221308#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2025-01-10-AI对研发工作的多维度助力：以聊天室项目为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537655&idx=1&sn=55e1ffbc588155c954a836480248383e&chksm=839736afb4e0bfb928ef20440c3a4d49543d456c4cf0883be1c9afc5d2cdde5857b0ecea658c#rd) ![](/assets/new.png)  
+- [2025-01-10-AI对研发工作的多维度助力：以聊天室项目为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537655&idx=1&sn=55e1ffbc588155c954a836480248383e&chksm=839736afb4e0bfb928ef20440c3a4d49543d456c4cf0883be1c9afc5d2cdde5857b0ecea658c#rd)  
 - [2025-01-08-简化代码模块设计：两种高效编程范式](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537644&idx=1&sn=bdad73abd26337d3f225403e23741622&chksm=839736b4b4e0bfa28fc01ff1fdc1a531a6254eb6b8b6d290179841c1fda3f02b3ab2f2601238#rd)  
 - [2025-01-06-Java21特性解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537631&idx=1&sn=5b7df95a4ddea0538dd9e251134a7cb4&chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd)  
 - [2025-01-03-一种可复用的AI提效方案：AI点灯](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537613&idx=1&sn=952b93bf7b35383542f686af192fc3cd&chksm=83973695b4e0bf83478744239e32bf8d458cb422b20612e25dcc7c03273da73a5196db99beb7#rd)  

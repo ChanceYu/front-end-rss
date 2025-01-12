@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-12T02:52:44.349Z</updated>
+    <updated>2025-01-12T08:11:03.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275323&amp;idx=1&amp;sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&amp;chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&amp;scene=0#rd"/>
         <updated>2025-01-11T00:00:00.000Z</updated>
         <published>2025-01-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 的 style 加了 scoped，居然也会样式冲突？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502059&amp;idx=1&amp;sn=b388554bde5cb2bdefd81f4206c38155&amp;chksm=ce45dd7af932546c5e05174409242f43923c03de4a5c89b0cb1135e31f023078b3a53799ad19#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502059&amp;idx=1&amp;sn=b388554bde5cb2bdefd81f4206c38155&amp;chksm=ce45dd7af932546c5e05174409242f43923c03de4a5c89b0cb1135e31f023078b3a53799ad19#rd"/>
+        <updated>2025-01-10T00:00:00.000Z</updated>
+        <published>2025-01-10T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】aiCoder：利用AST实现AI生成代码的合并工具]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[刷题竞技，备战春招｜「豆包 MarsCode 算法竞技赛」第三期开赛！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505950&amp;idx=1&amp;sn=a6b88a461489f99d5cc9ef9355969b30&amp;chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247505950&amp;idx=1&amp;sn=a6b88a461489f99d5cc9ef9355969b30&amp;chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd"/>
-        <updated>2024-12-26T00:00:00.000Z</updated>
-        <published>2024-12-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​Next场景下的五大性能优化策略]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524846&amp;idx=2&amp;sn=d9a48fba53742e53b3a1d18506bf981d&amp;chksm=f992673fcee5ee29b7e71da85b3b35f04f947d4263a769fc5081ed0865874f1116a8aafef5c2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524846&amp;idx=2&amp;sn=d9a48fba53742e53b3a1d18506bf981d&amp;chksm=f992673fcee5ee29b7e71da85b3b35f04f947d4263a769fc5081ed0865874f1116a8aafef5c2#rd"/>
         <updated>2024-12-26T00:00:00.000Z</updated>
         <published>2024-12-26T00:00:00.000Z</published>
     </entry>
