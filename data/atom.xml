@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-12T14:07:57.046Z</updated>
+    <updated>2025-01-12T16:09:24.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Broadcast Channel API简介，可实现Web页面广播通信]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/"/>
+        <updated>2025-01-12T00:00:00.000Z</updated>
+        <published>2025-01-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】2025 年的 React + AI 技术栈]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275365&amp;idx=1&amp;sn=8c9e078676080802934a1c26593da4fe&amp;chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[vercel是如何做微前端迁移的]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524854&amp;idx=2&amp;sn=f3463bdc890530c2c996b181291de6ca&amp;chksm=f9926727cee5ee314aec49859f0ddd5fdbfe2be84ebd393e6edad3412eff14e6f7228293500d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524854&amp;idx=2&amp;sn=f3463bdc890530c2c996b181291de6ca&amp;chksm=f9926727cee5ee314aec49859f0ddd5fdbfe2be84ebd393e6edad3412eff14e6f7228293500d#rd"/>
-        <updated>2024-12-27T00:00:00.000Z</updated>
-        <published>2024-12-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优秀前端人都知道的H5 移动端调试全攻略]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524854&amp;idx=1&amp;sn=f00cd568b31de24a87a6720f68c1f649&amp;chksm=f9926727cee5ee3128b0d78848297ab1d082d3aaffeb51e97ff4fb8cdc35639de695963fd5d0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524854&amp;idx=1&amp;sn=f00cd568b31de24a87a6720f68c1f649&amp;chksm=f9926727cee5ee3128b0d78848297ab1d082d3aaffeb51e97ff4fb8cdc35639de695963fd5d0#rd"/>
         <updated>2024-12-27T00:00:00.000Z</updated>
         <published>2024-12-27T00:00:00.000Z</published>
     </entry>
