@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-12T16:09:24.607Z</updated>
+    <updated>2025-01-13T02:51:00.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3446期】Midscene.js：AI 驱动的 UI 自动化框架]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275369&amp;idx=1&amp;sn=eba0ba825df528d9b41eb0cfe364a80a&amp;chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275369&amp;idx=1&amp;sn=eba0ba825df528d9b41eb0cfe364a80a&amp;chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&amp;scene=0#rd"/>
+        <updated>2025-01-13T00:00:00.000Z</updated>
+        <published>2025-01-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Broadcast Channel API简介，可实现Web页面广播通信]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501874&amp;idx=1&amp;sn=6462542575474aca99fb3745a50b941f&amp;chksm=ce45dda3f93254b52b724565fddf8eacba4669d1e2d54675d13ca3387496e7e6ad1fee3a1932#rd"/>
         <updated>2024-12-28T00:00:00.000Z</updated>
         <published>2024-12-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vercel是如何做微前端迁移的]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524854&amp;idx=2&amp;sn=f3463bdc890530c2c996b181291de6ca&amp;chksm=f9926727cee5ee314aec49859f0ddd5fdbfe2be84ebd393e6edad3412eff14e6f7228293500d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524854&amp;idx=2&amp;sn=f3463bdc890530c2c996b181291de6ca&amp;chksm=f9926727cee5ee314aec49859f0ddd5fdbfe2be84ebd393e6edad3412eff14e6f7228293500d#rd"/>
-        <updated>2024-12-27T00:00:00.000Z</updated>
-        <published>2024-12-27T00:00:00.000Z</published>
     </entry>
 </feed>
