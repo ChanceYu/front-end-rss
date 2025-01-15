@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-15T02:40:58.243Z</updated>
+    <updated>2025-01-15T20:10:08.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[来了来了！ Vue 有史以来最鸡肋的 API 它来了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502150&amp;idx=1&amp;sn=f2fd2ac86353297faf81db9c0b260bb3&amp;chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502150&amp;idx=1&amp;sn=f2fd2ac86353297faf81db9c0b260bb3&amp;chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd"/>
+        <updated>2025-01-15T00:00:00.000Z</updated>
+        <published>2025-01-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何手搓SVG半圆弧，手把手教程]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一行代码提升 30%+ TS 类型检查性能]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516973&amp;idx=1&amp;sn=dff0068a4a679e54e27d6ae646865e64&amp;chksm=eb07bb54dc703242e76131144546aa54c8f9d6d608d0d3cf8fef6fed3bd43b2dc8b6fbcbe1bb#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516973&amp;idx=1&amp;sn=dff0068a4a679e54e27d6ae646865e64&amp;chksm=eb07bb54dc703242e76131144546aa54c8f9d6d608d0d3cf8fef6fed3bd43b2dc8b6fbcbe1bb#rd"/>
-        <updated>2024-12-30T00:00:00.000Z</updated>
-        <published>2024-12-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3439期】携程商旅在 Remix 模块预加载中的探索与优化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274935&amp;idx=1&amp;sn=e86e5ce1fb0c186bc9b1669b32c855d0&amp;chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274935&amp;idx=1&amp;sn=e86e5ce1fb0c186bc9b1669b32c855d0&amp;chksm=bc2b7c50c4bf20ed53cd14fa5d5f1be6c33e2bae1f82ad71a22fee66ab0fda454960940d20d2&amp;scene=0#rd"/>
         <updated>2024-12-30T00:00:00.000Z</updated>
         <published>2024-12-30T00:00:00.000Z</published>
     </entry>

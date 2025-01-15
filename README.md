@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-15 10:40:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-16 04:10:07，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-01-15-【早阅】在-AI-时代如何成为资深工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275390&idx=1&sn=a92a7a452dc9e2406facdfa382411aa4&chksm=bc7d44682e8b640d85947767bf81c7954d710be1c440edc69ab3cb1a01f6c5e210aee77d5e98&scene=0#rd) ![](/assets/new.png)  
+- [2025-01-15-【早阅】在-AI-时代如何成为资深工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275390&idx=1&sn=a92a7a452dc9e2406facdfa382411aa4&chksm=bc7d44682e8b640d85947767bf81c7954d710be1c440edc69ab3cb1a01f6c5e210aee77d5e98&scene=0#rd)  
 - [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
 - [2025-01-14-【早阅】Dropbox-工程师职业发展框架：什么是影响力？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=1&sn=9f037465c461533993fecaf37ccaf2ee&chksm=bc7a3761f33d228e39ae320ccd19bad2a8bc5c7632da817acce38443e3c4074fd466193c0c39&scene=0#rd)  
 - [2025-01-13-【第3446期】Midscene.js：AI-驱动的-UI-自动化框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275369&idx=1&sn=eba0ba825df528d9b41eb0cfe364a80a&chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&scene=0#rd)  
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2025-01-15-来了来了！-Vue-有史以来最鸡肋的-API-它来了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502150&idx=1&sn=f2fd2ac86353297faf81db9c0b260bb3&chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd) ![](/assets/new.png)  
+- [2025-01-14-前端接私活的神器！提供了1500+免费的网页模板](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502121&idx=1&sn=08ed8c1b60185fc39c649a029b61b3b8&chksm=ce45dcb8f93255ae3064a5398b1750e80e242ff1f91cb04cbf273d36469f3601a15edc6a1d42#rd) ![](/assets/new.png)  
 - [2025-01-13-年后准备跳槽的兄弟注意了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502114&idx=1&sn=fc7f3e189235079f50b4fbc0c73112eb&chksm=ce45dcb3f93255a5b587203a8692253c3159a8d0da3880f0a0c737651ae630c036fc7525860f#rd)  
 - [2025-01-12-泪目！3w-Star-的前端启蒙项目，被直接封杀清空仓库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502120&idx=1&sn=0ba46f12e7a02c52e7cff5d4148e5444&chksm=ce45dcb9f93255af92a29e6c1e46c07248e707acf5c468f32ea2cd4f522115473ffdc1703ec3#rd)  
 - [2025-01-11-分享-10-个很实用的前端工具库，快来看看吧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502113&idx=1&sn=7b885bb7634ad066dc93ed7a8a15e216&chksm=ce45dcb0f93255a6919d1958d9001a77efd50c619f4d9d7976cb3c6720e846000430f1c3a3a6#rd)  
@@ -218,8 +220,6 @@
 - [2024-12-29-遇到一家月薪5k的无良公司，面试题还搞得这么难？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501892&idx=1&sn=a945532316d80cc1c8733d436da180a4&chksm=ce45ddd5f93254c3aa8fb657ef60f40cb9a868e24b3e32c17c01cd02fe3f6472911ccaa82221#rd)  
 - [2024-12-28-使用-Canvas-实现一个【贪吃蛇】小游戏！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501874&idx=1&sn=6462542575474aca99fb3745a50b941f&chksm=ce45dda3f93254b52b724565fddf8eacba4669d1e2d54675d13ca3387496e7e6ad1fee3a1932#rd)  
 - [2024-12-27-十个隐藏且实用的前端知识点，你绝对想不到！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501865&idx=1&sn=91f736bc4f054c50a3e0626d5cc63fd6&chksm=ce45ddb8f93254ae88ecff5da58edd61389586e085e9fa02347885cdae3ca42f7f797994b0b4#rd)  
-- [2024-12-26-12月面了10个前端开发，发现了这个通病...](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501864&idx=1&sn=6476bd2446ca836d01dcf76a08e63c30&chksm=ce45ddb9f93254af9796a42fa4a85acf904bddf8b7f2b8e9ea6790852f5fc2a6723911e96e5c#rd)  
-- [2024-12-25-想提高-Vue-技术竞争力？推荐几个简单的源码库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501856&idx=1&sn=a846bd12a065a54f0e3e3b64d02ec683&chksm=ce45ddb1f93254a733934e75c20309bbe5e792f60598253fbf3c3c777209c5de2dbf569a9d93#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
