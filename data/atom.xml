@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-17T02:15:49.009Z</updated>
+    <updated>2025-01-17T06:12:43.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面试官：你自己配置过webpack吗？有哪些核心配置？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <published>2025-01-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你为什么用不好TypeScript]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <published>2025-01-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[setTimeout 定时器，根本就不准时呀！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525072&amp;idx=2&amp;sn=914d74a7ed53c4dd997de82108933788&amp;chksm=f9926401cee5ed178c9f059f001787b54bd82141e20aed6eb26ce0a56193f68e36e861ba7361#rd</id>
@@ -127,16 +141,16 @@
         <published>2025-01-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aiCoder：利用AST实现AI生成代码的合并工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=1&amp;sn=136a4dbf1cbce1071b3841669ccd3fde&amp;chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=1&amp;sn=136a4dbf1cbce1071b3841669ccd3fde&amp;chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd"/>
+        <title type="html"><![CDATA[JavaScript 冷知识合集：这些特性你都知道吗？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=2&amp;sn=3ad44e223dab2950c6bb0159cd9905be&amp;chksm=f9926473cee5ed657bbc4b058ef87a7311d1e1bc4f71f00f6820b210890911014d547f6bd365#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=2&amp;sn=3ad44e223dab2950c6bb0159cd9905be&amp;chksm=f9926473cee5ed657bbc4b058ef87a7311d1e1bc4f71f00f6820b210890911014d547f6bd365#rd"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
         <published>2025-01-10T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript 冷知识合集：这些特性你都知道吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=2&amp;sn=3ad44e223dab2950c6bb0159cd9905be&amp;chksm=f9926473cee5ed657bbc4b058ef87a7311d1e1bc4f71f00f6820b210890911014d547f6bd365#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=2&amp;sn=3ad44e223dab2950c6bb0159cd9905be&amp;chksm=f9926473cee5ed657bbc4b058ef87a7311d1e1bc4f71f00f6820b210890911014d547f6bd365#rd"/>
+        <title type="html"><![CDATA[aiCoder：利用AST实现AI生成代码的合并工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=1&amp;sn=136a4dbf1cbce1071b3841669ccd3fde&amp;chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=1&amp;sn=136a4dbf1cbce1071b3841669ccd3fde&amp;chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
         <published>2025-01-10T00:00:00.000Z</published>
     </entry>
@@ -316,16 +330,16 @@
         <published>2025-01-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一个发票生成应用程序开源推荐（技术栈Next.js 13、TypeScript、React 和 Shadcn UI等）]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=1&amp;sn=108c8ed76810f3a0f96799210387da44&amp;chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=1&amp;sn=108c8ed76810f3a0f96799210387da44&amp;chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd"/>
+        <title type="html"><![CDATA[干货 | 携程商旅在 Remix 模块预加载中的探索与优化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd"/>
         <updated>2025-01-03T00:00:00.000Z</updated>
         <published>2025-01-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[干货 | 携程商旅在 Remix 模块预加载中的探索与优化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd"/>
+        <title type="html"><![CDATA[一个发票生成应用程序开源推荐（技术栈Next.js 13、TypeScript、React 和 Shadcn UI等）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=1&amp;sn=108c8ed76810f3a0f96799210387da44&amp;chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=1&amp;sn=108c8ed76810f3a0f96799210387da44&amp;chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd"/>
         <updated>2025-01-03T00:00:00.000Z</updated>
         <published>2025-01-03T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[一个新的CSS媒体查询prefers-reduced-transparency]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/"/>
-        <updated>2025-01-02T00:00:00.000Z</updated>
-        <published>2025-01-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析组件的渲染时间]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524914&amp;idx=2&amp;sn=ba9b3a6a21832839722d661efdc281ea&amp;chksm=f99264e3cee5edf5266ab52ab1123a0b86712228dd169639abcbfb765d29df9722d99ac76ac6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524914&amp;idx=2&amp;sn=ba9b3a6a21832839722d661efdc281ea&amp;chksm=f99264e3cee5edf5266ab52ab1123a0b86712228dd169639abcbfb765d29df9722d99ac76ac6#rd"/>
-        <updated>2025-01-02T00:00:00.000Z</updated>
-        <published>2025-01-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS渗透逆向入门 ｜4100字深度解析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524914&amp;idx=1&amp;sn=5f52bd3bbb6dd687a7738e72958a6491&amp;chksm=f99264e3cee5edf5dfd6eb1b396fce96413758033a29058c59e64bdc28d6b19f17db80bebc97#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524914&amp;idx=1&amp;sn=5f52bd3bbb6dd687a7738e72958a6491&amp;chksm=f99264e3cee5edf5dfd6eb1b396fce96413758033a29058c59e64bdc28d6b19f17db80bebc97#rd"/>
         <updated>2025-01-02T00:00:00.000Z</updated>
         <published>2025-01-02T00:00:00.000Z</published>
     </entry>
