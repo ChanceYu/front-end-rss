@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-17T16:11:03.188Z</updated>
+    <updated>2025-01-17T20:09:48.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[你为什么用不好TypeScript]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <published>2025-01-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024大前端趋势洞察：进化停滞与鸿蒙新契机]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525741&amp;idx=1&amp;sn=ac4c2a5f7fa8d4cdede36976e97f62d4&amp;chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525741&amp;idx=1&amp;sn=ac4c2a5f7fa8d4cdede36976e97f62d4&amp;chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd"/>
         <updated>2025-01-17T00:00:00.000Z</updated>
         <published>2025-01-17T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[通过六个场景，告诉你 reduce 方法有多么强大！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501976&amp;idx=1&amp;sn=60d47924d6003046fc50a343b65cc9f9&amp;chksm=ce45dd09f932541fcb1f3272f5960bfe0f67d0154a6fab5234412b016a27107cf5269e7ea141#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501976&amp;idx=1&amp;sn=60d47924d6003046fc50a343b65cc9f9&amp;chksm=ce45dd09f932541fcb1f3272f5960bfe0f67d0154a6fab5234412b016a27107cf5269e7ea141#rd"/>
-        <updated>2025-01-03T00:00:00.000Z</updated>
-        <published>2025-01-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3441期】主打一个"小巧灵动"：Vite + Svelte]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275034&amp;idx=1&amp;sn=01a6747455cd3684ee1e40f447abaf3e&amp;chksm=bc0e4b0301a5c633db24c30682252859eaccc46c976ffdd386a856ff206c124f0c65a674479e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275034&amp;idx=1&amp;sn=01a6747455cd3684ee1e40f447abaf3e&amp;chksm=bc0e4b0301a5c633db24c30682252859eaccc46c976ffdd386a856ff206c124f0c65a674479e&amp;scene=0#rd"/>
         <updated>2025-01-03T00:00:00.000Z</updated>
         <published>2025-01-03T00:00:00.000Z</published>
     </entry>
