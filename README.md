@@ -12,15 +12,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-18 04:09:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 10:36:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -107,11 +107,12 @@
 </summary>
 
 
+- [2025-01-18-【早阅】如何编写复杂的软件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275474&idx=1&sn=3711765eea219c59f0d1e1fa64a4ecb5&chksm=bc411e084113fc6d1d024177b9d4f9007f079bd19f16dbaed8a35720be33f6039d9dd06a9d2e&scene=0#rd) ![](/assets/new.png)  
 - [2025-01-17-【第3448期】Build-System-视角：重新认识前端打包工具的设计哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275468&idx=1&sn=9f67e4a4725aa1e6619c568150a4ea65&chksm=bc5c49fa846d95a2f3b267ba498061f5136758638c4ea9fb277a3fee97b9cf97e0b276cefae4&scene=0#rd)  
 - [2025-01-16-【第3447期】商业化大前端在性能优化领域的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275428&idx=1&sn=d21c956f30c4eba563968fb770ded268&chksm=bcf30828eec522fad35db438daa0bd24697fc5dce0c3ea6d1b69c2428cad761e02c5b6175684&scene=0#rd)  
 - [2025-01-15-【早阅】在-AI-时代如何成为资深工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275390&idx=1&sn=a92a7a452dc9e2406facdfa382411aa4&chksm=bc7d44682e8b640d85947767bf81c7954d710be1c440edc69ab3cb1a01f6c5e210aee77d5e98&scene=0#rd)  
-- [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
 - [2025-01-14-【早阅】Dropbox-工程师职业发展框架：什么是影响力？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=1&sn=9f037465c461533993fecaf37ccaf2ee&chksm=bc7a3761f33d228e39ae320ccd19bad2a8bc5c7632da817acce38443e3c4074fd466193c0c39&scene=0#rd)  
+- [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
 - [2025-01-13-【第3446期】Midscene.js：AI-驱动的-UI-自动化框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275369&idx=1&sn=eba0ba825df528d9b41eb0cfe364a80a&chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&scene=0#rd)  
 - [2025-01-12-【早阅】2025-年的-React-+-AI-技术栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275365&idx=1&sn=8c9e078676080802934a1c26593da4fe&chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&scene=0#rd)  
 - [2025-01-11-【早阅】2025-年-CSS-愿望清单](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275323&idx=1&sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&scene=0#rd)  
@@ -122,11 +123,10 @@
 - [2025-01-06-【第3442期】Rolldown-1.0.0-beta.1-发布，为什么仍然需要打包工具？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275046&idx=1&sn=2c7e8453c1da0807f35f62123c0102a2&chksm=bc83b5afe8861af9d05fbad6b2f8ccd316488e87552fa66feb833b6d4c04e2016a01125c702b&scene=0#rd)  
 - [2025-01-05-【早阅】Node.js-模块简史：cjs、打包工具和-esm](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275042&idx=1&sn=6539b06616acbf18c8ccc7b004d6b847&chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&scene=0#rd)  
 - [2025-01-04-【早阅】CSS手风琴动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275038&idx=1&sn=4585a2b523188dc508e20af8a17b6366&chksm=bccb04ed2da9dbb1263ab29c3dd6b7a3848aa238d1cc597012fbbc86012db6702ac8dbb9bc3e&scene=0#rd)  
-- [2025-01-03-【第3441期】主打一个"小巧灵动"：Vite-+-Svelte](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275034&idx=1&sn=01a6747455cd3684ee1e40f447abaf3e&chksm=bc0e4b0301a5c633db24c30682252859eaccc46c976ffdd386a856ff206c124f0c65a674479e&scene=0#rd)  
 - [2025-01-03-【招聘】上海即果信息技术招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275034&idx=2&sn=7fbf47872d2c308608cf3038081c1f6c&chksm=bc42999a67e0aebf2c13e6d9e826200a653b7d03a75f4e9a87ef1e4ce032fea296e28be82f94&scene=0#rd)  
+- [2025-01-03-【第3441期】主打一个"小巧灵动"：Vite-+-Svelte](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275034&idx=1&sn=01a6747455cd3684ee1e40f447abaf3e&chksm=bc0e4b0301a5c633db24c30682252859eaccc46c976ffdd386a856ff206c124f0c65a674479e&scene=0#rd)  
 - [2025-01-02-【早阅】构建更高效、更灵活的前端项目：EdgeOne-Pages-的实践与升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275026&idx=1&sn=809be4e03eafb8c5ed5043f9a093e7fb&chksm=bc47088d4f17f67adca364f65945817073be7ef972578894f9a6c74233606910b89ee68f12c7&scene=0#rd)  
 - [2025-01-01-【早阅】为什么程序员在工作中不愿寻求帮助？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275021&idx=1&sn=06793553f452da0a7994a94dfb2ed119&chksm=bce5db40a4e0cc58656f9b2c674e6da12dd13115be82199ae8ac8c66669cdcd085e08dd4f7fa&scene=0#rd)  
-- [2024-12-31-【第3440期】探索-React-19：性能、开发体验与创新特性的全面提升](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274939&idx=1&sn=5237262ecd21d75b8dcaa6e56ee72c2a&chksm=bc3498bfabf67b5fbf472397bfbdc30a28d34720598c1aa645dacd82590ae14c058b446c738c&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -169,7 +169,7 @@
 </summary>
 
 
-- [2025-01-17-2024大前端趋势洞察：进化停滞与鸿蒙新契机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525741&idx=1&sn=ac4c2a5f7fa8d4cdede36976e97f62d4&chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd) ![](/assets/new.png)  
+- [2025-01-17-2024大前端趋势洞察：进化停滞与鸿蒙新契机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525741&idx=1&sn=ac4c2a5f7fa8d4cdede36976e97f62d4&chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd)  
 - [2025-01-15-去哪儿网前端代码自动生成技术实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525730&idx=1&sn=2fc9a2dcd5832896b02ca03657401ab2&chksm=f952d021ce255937df97c068c27746471782120fd58ba97fc72f6b74df7ddc4704b74cfe074d#rd)  
 - [2025-01-08-2025-年你应该告别的-5-个-JavaScript-库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525688&idx=1&sn=31f185f90414f25f61a0f3992be821cc&chksm=f952d07bce25596d622e2bef38e4aafb4aaa97f195dfb2269331b68f57f6d0688e774a766610#rd)  
 - [2024-12-25-Airbnb死磕React-Native惨败，微软却玩出花！Office、Outlook全线接入，Copilot成最大赢家](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525671&idx=1&sn=add09add61c31f1a0e83754514a82ce5&chksm=f952d064ce2559727855657c9687cc0d4adb77c9f71790cca67c6052b7e84fc91d8ccfa9a8d6#rd)  
