@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-18T02:36:26.344Z</updated>
+    <updated>2025-01-18T20:11:05.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[分享一些 Vue 实用且常用的开发工具库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502168&amp;idx=1&amp;sn=df943c1c2ca0cafd70f412f5fc2e6f90&amp;chksm=ce45dcc9f93255df602d3e3b56636136057999a226d11130baa23dd3242e8e4ecf0015d277b5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502168&amp;idx=1&amp;sn=df943c1c2ca0cafd70f412f5fc2e6f90&amp;chksm=ce45dcc9f93255df602d3e3b56636136057999a226d11130baa23dd3242e8e4ecf0015d277b5#rd"/>
+        <updated>2025-01-18T00:00:00.000Z</updated>
+        <published>2025-01-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刚刚！谷歌宣布重大调整：没 JavaScript 将无法启动搜索！网友怒斥“技术霸权”！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621728&amp;idx=1&amp;sn=1ee98287f908b02ba40e4e10f4b4daa0&amp;chksm=80225ea1b755d7b75c5433d1bb1bd4a96d8730fd4196485ceab3ce0c0286088ba19aef0c5099#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621728&amp;idx=1&amp;sn=1ee98287f908b02ba40e4e10f4b4daa0&amp;chksm=80225ea1b755d7b75c5433d1bb1bd4a96d8730fd4196485ceab3ce0c0286088ba19aef0c5099#rd"/>
+        <updated>2025-01-18T00:00:00.000Z</updated>
+        <published>2025-01-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试官：你自己配置过webpack吗？有哪些核心配置？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[干货 | 携程商旅在 Remix 模块预加载中的探索与优化实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd"/>
-        <updated>2025-01-03T00:00:00.000Z</updated>
-        <published>2025-01-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个发票生成应用程序开源推荐（技术栈Next.js 13、TypeScript、React 和 Shadcn UI等）]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=1&amp;sn=108c8ed76810f3a0f96799210387da44&amp;chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=1&amp;sn=108c8ed76810f3a0f96799210387da44&amp;chksm=f9926494cee5ed8263d5605dd0136e5edb20535b3676bd6f8d8ecfa69ba656bf4e4491ba5a6e#rd"/>
-        <updated>2025-01-03T00:00:00.000Z</updated>
-        <published>2025-01-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过六个场景，告诉你 reduce 方法有多么强大！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501976&amp;idx=1&amp;sn=60d47924d6003046fc50a343b65cc9f9&amp;chksm=ce45dd09f932541fcb1f3272f5960bfe0f67d0154a6fab5234412b016a27107cf5269e7ea141#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501976&amp;idx=1&amp;sn=60d47924d6003046fc50a343b65cc9f9&amp;chksm=ce45dd09f932541fcb1f3272f5960bfe0f67d0154a6fab5234412b016a27107cf5269e7ea141#rd"/>
         <updated>2025-01-03T00:00:00.000Z</updated>
         <published>2025-01-03T00:00:00.000Z</published>
     </entry>
