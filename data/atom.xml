@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-18T22:08:05.763Z</updated>
+    <updated>2025-01-19T02:44:09.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】使用 React Router v7 进行服务器端渲染]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275478&amp;idx=1&amp;sn=40617a3bf26e0830fbfc922de08fcc7d&amp;chksm=bc6038f5d7ee7112812e0960f5a52ff552eeff7f4e3406325888ab35b3ff66d2b1bff54b7913&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275478&amp;idx=1&amp;sn=40617a3bf26e0830fbfc922de08fcc7d&amp;chksm=bc6038f5d7ee7112812e0960f5a52ff552eeff7f4e3406325888ab35b3ff66d2b1bff54b7913&amp;scene=0#rd"/>
+        <updated>2025-01-19T00:00:00.000Z</updated>
+        <published>2025-01-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享一些 Vue 实用且常用的开发工具库]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502168&amp;idx=1&amp;sn=df943c1c2ca0cafd70f412f5fc2e6f90&amp;chksm=ce45dcc9f93255df602d3e3b56636136057999a226d11130baa23dd3242e8e4ecf0015d277b5#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[盘点 2024 年 AI 大事件，中国 AI 的破晓之年]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500302&amp;idx=1&amp;sn=cac146398bb46a8dcf599d5707ccd0c3&amp;chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500302&amp;idx=1&amp;sn=cac146398bb46a8dcf599d5707ccd0c3&amp;chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd"/>
-        <updated>2025-01-03T00:00:00.000Z</updated>
-        <published>2025-01-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干货 | 携程商旅在 Remix 模块预加载中的探索与优化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524933&amp;idx=2&amp;sn=3abd6c5d8848473f54648fa0b43b3cd6&amp;chksm=f9926494cee5ed824e929f04e555e157fe28188aa19d0dc5b743f259a8f89abf20babb38bdc6#rd"/>
         <updated>2025-01-03T00:00:00.000Z</updated>
         <published>2025-01-03T00:00:00.000Z</published>
     </entry>
