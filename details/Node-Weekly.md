@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-01-15 00:11:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-22 00:10:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563) 
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562) 
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) 
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) 

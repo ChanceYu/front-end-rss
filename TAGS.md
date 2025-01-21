@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-21 20:16:06。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-22 00:10:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)
 - [【Node-Weekly】2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)
 - [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Should-Node-make-ES-modules-easier-to-use?](https://nodeweekly.com/issues/537)
 - [【Node-Weekly】A-snapshot-of-what's-new-in-Node](https://nodeweekly.com/issues/536)
 - [【Node-Weekly】The-newest-Node.js-runtime-features](https://nodeweekly.com/issues/534)
-- [【Node-Weekly】The-Node.js-Advocacy-Ambassador-program?](https://nodeweekly.com/issues/533)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
