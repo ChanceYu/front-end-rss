@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-21T00:39:33.826Z</updated>
+    <updated>2025-01-21T02:41:02.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3449期】携程从零构建多端一致的设计研发体系实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275486&amp;idx=1&amp;sn=a388297d3d201a44d837d7cc13d12f46&amp;chksm=bcb70b14e27d2f6713a560aa6f0bbe9bcd57e43668faeebcb016a1023c79f91628cd102bb6ca&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275486&amp;idx=1&amp;sn=a388297d3d201a44d837d7cc13d12f46&amp;chksm=bcb70b14e27d2f6713a560aa6f0bbe9bcd57e43668faeebcb016a1023c79f91628cd102bb6ca&amp;scene=0#rd"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <published>2025-01-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试官：为什么选择Nestjs作为服务端框架，而不是Express？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525109&amp;idx=1&amp;sn=2a8fb1b41521993a17925181bcb4fd2f&amp;chksm=f9926424cee5ed329eb999b6fae3b3ae2361ead7581cc5c006e9b2f501d42f86e2631bd476ba#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[HTTP 将增加一个新的方法类型！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524962&amp;idx=2&amp;sn=edd668148670df327a9255e2a67eb200&amp;chksm=f99264b3cee5eda556625601b3ce29128da19e387a295499e52a03019d53aafd205f3e440134#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524962&amp;idx=2&amp;sn=edd668148670df327a9255e2a67eb200&amp;chksm=f99264b3cee5eda556625601b3ce29128da19e387a295499e52a03019d53aafd205f3e440134#rd"/>
-        <updated>2025-01-05T00:00:00.000Z</updated>
-        <published>2025-01-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】Node.js 模块简史：cjs、打包工具和 esm]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275042&amp;idx=1&amp;sn=6539b06616acbf18c8ccc7b004d6b847&amp;chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275042&amp;idx=1&amp;sn=6539b06616acbf18c8ccc7b004d6b847&amp;chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&amp;scene=0#rd"/>
         <updated>2025-01-05T00:00:00.000Z</updated>
         <published>2025-01-05T00:00:00.000Z</published>
     </entry>
