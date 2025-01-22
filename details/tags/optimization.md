@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-22 10:42:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-22 18:08:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -253,6 +253,7 @@
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd) 
 - [2023-08-01-油管性能拉跨，Chrome-团队出手相助…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512840&idx=1&sn=3aebfaf8a644cf5cb16ba4461247ee54&chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd) 
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd) 
+- [2025-01-20-代码优化实战：圈复杂度治理之函数抽离技巧](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537747&idx=1&sn=e4f1457385d04cc0c5d3e1be537af537&chksm=8397370bb4e0be1d95832c76f2e479a96c152fd6f783279a1d2fc8b7800c36910491a6e2b09b#rd) 
 - [2025-01-13-营销大促会场视觉改版体验优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537671&idx=1&sn=1c3c34ac8adc97bee8defef718f654b7&chksm=839736dfb4e0bfc955f399cf105362a58b40656bbba8279dcc3cc26070bcee2c12d6ccd83f67#rd) 
 - [2024-12-23-Weex购物车长列表横滑操作优化“编年史”](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537506&idx=1&sn=5a023293f7064660ea52a1fe7e5ced5d&chksm=8397363ab4e0bf2c160a2c98235246c595582ec4705ef80b91693150e75e210564e0d67b686e#rd) 
 - [2024-12-02-会员场景端快照与ER缓存优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537256&idx=1&sn=ea26df1a45265daaf11b1812595ae7ac&chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd) 
