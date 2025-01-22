@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-22T16:11:18.287Z</updated>
+    <updated>2025-01-22T20:10:24.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Set.has 和 Array.includes 到底应该用哪个？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502261&amp;idx=1&amp;sn=dac51a1edd398a9f2a99db3e386c25aa&amp;chksm=ce45dc24f9325532079d3d403887421e0ac08c47151e068e00cac098c705080020ecd518ea8f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502261&amp;idx=1&amp;sn=dac51a1edd398a9f2a99db3e386c25aa&amp;chksm=ce45dc24f9325532079d3d403887421e0ac08c47151e068e00cac098c705080020ecd518ea8f#rd"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <published>2025-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯血鸿蒙微信 App 正式上线！依然使用了 Flutter，依然没说清哪里用了Flutter]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525760&amp;idx=1&amp;sn=f8490d5187a59e0e2432c3cde9cb2e8b&amp;chksm=f952d0c3ce2559d552e4d374ffedf4c6efa86179fabbcffa162877770a1092cee0746947300e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525760&amp;idx=1&amp;sn=f8490d5187a59e0e2432c3cde9cb2e8b&amp;chksm=f952d0c3ce2559d552e4d374ffedf4c6efa86179fabbcffa162877770a1092cee0746947300e#rd"/>
         <updated>2025-01-22T00:00:00.000Z</updated>
         <published>2025-01-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Canvas 居然还能用 Rust 实现？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524981&amp;idx=2&amp;sn=e345680c796f4d84579b7fe2040e59dd&amp;chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524981&amp;idx=2&amp;sn=e345680c796f4d84579b7fe2040e59dd&amp;chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd"/>
-        <updated>2025-01-07T00:00:00.000Z</updated>
-        <published>2025-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3443期】2025 年前端开发工程师必备的 Docker Compose 全栈项目实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
