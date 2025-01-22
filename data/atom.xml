@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-22T12:16:09.560Z</updated>
+    <updated>2025-01-22T16:11:18.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS原生的深拷贝API structuredClone函数简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <published>2025-01-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Set.has 和 Array.includes 到底应该用哪个？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502261&amp;idx=1&amp;sn=dac51a1edd398a9f2a99db3e386c25aa&amp;chksm=ce45dc24f9325532079d3d403887421e0ac08c47151e068e00cac098c705080020ecd518ea8f#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3443期】2025 年前端开发工程师必备的 Docker Compose 全栈项目实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275059&amp;idx=1&amp;sn=19b6f5e0506df06454c92d864c133237&amp;chksm=bcc6dba03c47c935811f30a38a4f153c48fe6ebaff50ea10f898a9468d7ba42a43db36daec3a&amp;scene=0#rd"/>
-        <updated>2025-01-07T00:00:00.000Z</updated>
-        <published>2025-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unflagged TypeScript support is just around the corner]]></title>
-        <id>https://nodeweekly.com/issues/561</id>
-        <link href="https://nodeweekly.com/issues/561"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
