@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-22 00:10:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-22 10:42:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -42,9 +42,9 @@
 - [2019-09-30-【视频】360@月影：你不知道的GPU-—-前端、图形系统与数据可视化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234150&idx=3&sn=59f7d08f587f0f227e0f3a060fed2199&chksm=bd4946e28a3ecff49f429caac5b16961c0e9604960dcb6a65249cc61b350a3c730d52a05d3ca&scene=27#wechat_redirect) 
 - [2019-08-25-【PPT】基于WebAssembly的浏览器端视音频处理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233554&idx=1&sn=3cdb61a8fddc636e72816fddf417f28d&chksm=bd4944968a3ecd80efd32ef41b9c79f58e6f53530f7a837e1833dac8806b45941a5d7766c5d9&scene=27#wechat_redirect) 
 - [2019-08-04-【招聘】深圳腾讯TGideas和腾讯视频招聘前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233220&idx=2&sn=f2d81fa8ef43fb252d83f26dbe09c44f&chksm=bd4942408a3ecb5615c1ccbe9900f422b3762d1ded1ef21cf3c74fb5044c38c8420b43829f06#rd) 
-- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
-- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
 - [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=1&sn=d1c229f51cec8ee8079f88035efa3f11&chksm=bd4942cd8a3ecbdb72b3e57888bda7bf8062ceb45408cc3867822d05ca166fc430051be33037&scene=27#wechat_redirect) 
+- [2019-07-20-【招聘】花椒直播招高级前端工程师/实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233097&idx=2&sn=5d999500cfc34737e08ab70c31b0bd6c&chksm=bd4942cd8a3ecbdb9803100a43c73e1d93771ed1e961f51f6c021bae6502164a96bfd4ec084c&scene=27#wechat_redirect) 
+- [2019-07-20-【第1674期】-花椒前端基于WebAssembly-的H.265播放器研发](https://mp.weixin.qq.com/s/YfuMDgMKT8pzGH175d867A#rd) 
 - [2019-07-19-【第1673期】-图像优化自动化实用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233089&idx=1&sn=417830af15edcbe44de8e5af7ceb00d1&chksm=bd4942c58a3ecbd39a05feb6fbff36ceb7f8f41cc0c9185f204ff45bac7eb00643cba6a98a2a&scene=27#wechat_redirect) 
 - [2019-07-12-【视频】几行代码让页面自动刷新](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233030&idx=2&sn=791db48e1fc4d65b4d8a919aefb7bc0f#rd) 
 - [2019-07-10-【视频】浏览器全球市场份额的十年变迁](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651233013&idx=2&sn=3069aa22721249d9767381908af0b777#rd) 
@@ -103,8 +103,8 @@
 - [2023-11-15-前端调取摄像头并实现拍照功能](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517527&idx=1&sn=1273f59e154cd11a7ecd2277af2c4c8f&chksm=f9928386cee50a908db3fdb5fdc431e5eb9dc49685170e61d24e52e7870e92a374d41e6e2736#rd) 
 - [2023-11-05-纯前端实现录屏并保存视频到本地，如此简单](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516870&idx=1&sn=4fa981d8b6a61db9d1f4b70bfdc2a5cb&chksm=f9928417cee50d01e4608576a2c51b46325a79485fe3207258ddecb719080d995a56d4f81e85#rd) 
 - [2022-05-04-浏览器中的音视频知识总结工作中需要和音视频打交道必看！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247506567&idx=1&sn=9169eaf2de0d6ad1513d7f7ac47a9ca0&chksm=f992dc56cee55540b554868353ab3926c4ac01f279347d67e706c7aca93c01c3170035a1c31d#rd) 
-- [2023-07-19-WebAssembly-与-Web-视频编辑](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=3&sn=4b4ceeeaf85b24e87646cb07788be9f5&chksm=cea967c0f9deeed6ee34c733aa80905cc0d3ba73429ad8e1b0ce160a9fd111cbb5c1172c487d#rd) 
 - [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd) 
+- [2023-07-19-WebAssembly-与-Web-视频编辑](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=3&sn=4b4ceeeaf85b24e87646cb07788be9f5&chksm=cea967c0f9deeed6ee34c733aa80905cc0d3ba73429ad8e1b0ce160a9fd111cbb5c1172c487d#rd) 
 - [2023-06-30-ByteFE-邀你观看稀土开发者大会直播啦-|-6月30日9:30](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247503633&idx=1&sn=c61a8011b844a1fdb4988be047ecbdcf&chksm=cea97810f9def1065b3bdcf22bfed6486c34171caaefaa3d132278d5c7bf44562d2be89d3a7f#rd) 
 - [2022-02-21-ReolAudio---基于分帧的-Web-音频工程解决方案](https://mp.weixin.qq.com/s/2VWAbnM-szhIXOx3n7_JfA) 
 - [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd) 

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-21T16:10:56.557Z</updated>
+    <updated>2025-01-22T02:42:55.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】Chrome 133+ 全新 DOM 操作方法：moveBefore]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275496&amp;idx=1&amp;sn=da3eb308cc9a292431857ed043bdc6e5&amp;chksm=bc795033017a8db3f5ab9ff3ba0a2f3951931f8e523f3a5588e759173162def8675d9bd280fd&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275496&amp;idx=1&amp;sn=da3eb308cc9a292431857ed043bdc6e5&amp;chksm=bc795033017a8db3f5ab9ff3ba0a2f3951931f8e523f3a5588e759173162def8675d9bd280fd&amp;scene=0#rd"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <published>2025-01-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3449期】携程从零构建多端一致的设计研发体系实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275486&amp;idx=1&amp;sn=a388297d3d201a44d837d7cc13d12f46&amp;chksm=bcb70b14e27d2f6713a560aa6f0bbe9bcd57e43668faeebcb016a1023c79f91628cd102bb6ca&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502037&amp;idx=1&amp;sn=95e1a616befe1b17e6d945b367ff6d7d&amp;chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd"/>
         <updated>2025-01-06T00:00:00.000Z</updated>
         <published>2025-01-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 大 AI 数字人主播创建平台，开启直播新时代！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500326&amp;idx=2&amp;sn=ac4abee9267d6a68ef569536d43ba5e2&amp;chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500326&amp;idx=2&amp;sn=ac4abee9267d6a68ef569536d43ba5e2&amp;chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd"/>
-        <updated>2025-01-05T00:00:00.000Z</updated>
-        <published>2025-01-05T00:00:00.000Z</published>
     </entry>
 </feed>

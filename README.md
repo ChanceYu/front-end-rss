@@ -12,20 +12,20 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-22 00:10:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-22 10:42:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)  
+- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563) ![](/assets/new.png)  
+- [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
@@ -107,6 +107,7 @@
 </summary>
 
 
+- [2025-01-22-【早阅】Chrome-133+-全新-DOM-操作方法：moveBefore](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275496&idx=1&sn=da3eb308cc9a292431857ed043bdc6e5&chksm=bc795033017a8db3f5ab9ff3ba0a2f3951931f8e523f3a5588e759173162def8675d9bd280fd&scene=0#rd) ![](/assets/new.png)  
 - [2025-01-21-【第3449期】携程从零构建多端一致的设计研发体系实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275486&idx=1&sn=a388297d3d201a44d837d7cc13d12f46&chksm=bcb70b14e27d2f6713a560aa6f0bbe9bcd57e43668faeebcb016a1023c79f91628cd102bb6ca&scene=0#rd)  
 - [2025-01-20-【早阅】开发者日志：提升编码效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275482&idx=1&sn=16c09478bac6cfa8cb6173663e7e7f06&chksm=bca7a93c1ce1ea5e3d73e08b07b993471c16b0a14066046b0088bba708853b4395b90bd0d2a9&scene=0#rd)  
 - [2025-01-19-【早阅】使用-React-Router-v7-进行服务器端渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275478&idx=1&sn=40617a3bf26e0830fbfc922de08fcc7d&chksm=bc6038f5d7ee7112812e0960f5a52ff552eeff7f4e3406325888ab35b3ff66d2b1bff54b7913&scene=0#rd)  
@@ -114,8 +115,8 @@
 - [2025-01-17-【第3448期】Build-System-视角：重新认识前端打包工具的设计哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275468&idx=1&sn=9f67e4a4725aa1e6619c568150a4ea65&chksm=bc5c49fa846d95a2f3b267ba498061f5136758638c4ea9fb277a3fee97b9cf97e0b276cefae4&scene=0#rd)  
 - [2025-01-16-【第3447期】商业化大前端在性能优化领域的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275428&idx=1&sn=d21c956f30c4eba563968fb770ded268&chksm=bcf30828eec522fad35db438daa0bd24697fc5dce0c3ea6d1b69c2428cad761e02c5b6175684&scene=0#rd)  
 - [2025-01-15-【早阅】在-AI-时代如何成为资深工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275390&idx=1&sn=a92a7a452dc9e2406facdfa382411aa4&chksm=bc7d44682e8b640d85947767bf81c7954d710be1c440edc69ab3cb1a01f6c5e210aee77d5e98&scene=0#rd)  
-- [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
 - [2025-01-14-【早阅】Dropbox-工程师职业发展框架：什么是影响力？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=1&sn=9f037465c461533993fecaf37ccaf2ee&chksm=bc7a3761f33d228e39ae320ccd19bad2a8bc5c7632da817acce38443e3c4074fd466193c0c39&scene=0#rd)  
+- [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
 - [2025-01-13-【第3446期】Midscene.js：AI-驱动的-UI-自动化框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275369&idx=1&sn=eba0ba825df528d9b41eb0cfe364a80a&chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&scene=0#rd)  
 - [2025-01-12-【早阅】2025-年的-React-+-AI-技术栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275365&idx=1&sn=8c9e078676080802934a1c26593da4fe&chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&scene=0#rd)  
 - [2025-01-11-【早阅】2025-年-CSS-愿望清单](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275323&idx=1&sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&scene=0#rd)  
@@ -126,7 +127,6 @@
 - [2025-01-06-【第3442期】Rolldown-1.0.0-beta.1-发布，为什么仍然需要打包工具？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275046&idx=1&sn=2c7e8453c1da0807f35f62123c0102a2&chksm=bc83b5afe8861af9d05fbad6b2f8ccd316488e87552fa66feb833b6d4c04e2016a01125c702b&scene=0#rd)  
 - [2025-01-05-【早阅】Node.js-模块简史：cjs、打包工具和-esm](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275042&idx=1&sn=6539b06616acbf18c8ccc7b004d6b847&chksm=bc47b1fe8cb75f44cf012c30b32dc174dcec9e8bfffc839b90c3879ab2b90df2f4fa3b7e4d3f&scene=0#rd)  
 - [2025-01-04-【早阅】CSS手风琴动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275038&idx=1&sn=4585a2b523188dc508e20af8a17b6366&chksm=bccb04ed2da9dbb1263ab29c3dd6b7a3848aa238d1cc597012fbbc86012db6702ac8dbb9bc3e&scene=0#rd)  
-- [2025-01-03-【第3441期】主打一个"小巧灵动"：Vite-+-Svelte](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275034&idx=1&sn=01a6747455cd3684ee1e40f447abaf3e&chksm=bc0e4b0301a5c633db24c30682252859eaccc46c976ffdd386a856ff206c124f0c65a674479e&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2025-01-20-大语言模型应用开发框架-——-Eino-正式开源！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505986&idx=1&sn=2fcf9deaaa27ed987569e4683330222d&chksm=cea96f43f9dee65585eae23a3f7766340c2785da5351f218585d1420c62fbe5b817c1841b5e0#rd) ![](/assets/new.png)  
 - [2024-12-31-Cursor-深度评测：革命性提效工具还是过誉的玩具？](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505953&idx=1&sn=f5159bc2fadccbbd3fe388c39b630a13&chksm=cea96f20f9dee63693f1f2a97e1f7677a1c0b00b3b06ba430df3a6fd7e794207ce5247a16a16#rd)  
 - [2024-12-26-刷题竞技，备战春招｜「豆包-MarsCode-算法竞技赛」第三期开赛！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505950&idx=1&sn=a6b88a461489f99d5cc9ef9355969b30&chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd)  
 - [2024-12-23-稀土掘金｜-2024年度人气创作者榜单火热开启！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505941&idx=1&sn=d3cc3e30dddd6d68dbe47fd9e15d0a3f&chksm=cea96f14f9dee6022a6fcda5c7aceca4644d035134b9d01b94aa524b3732e44de6eba9e7c806#rd)  
@@ -342,8 +343,7 @@
 - [2023-08-09-Semi-D2C-设计稿转代码的演进之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504315&idx=1&sn=90e3f5bdb7adf954096b791309433f3f&chksm=cea966baf9deefac20b0fcc639ec8c5ca9162c74386f7cbbff2d7f16e04d73a3434f8dfe8fe4#rd)  
 - [2023-08-02-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504259&idx=1&sn=e41c00dd53a5f1a52e53cea0be34988c&chksm=cea96682f9deef94b6790bc8372374b0e1c6db7291d82c1e5fca4195edfa044646153b09efd7#rd)  
 - [2023-07-26-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504196&idx=1&sn=e742223812cfa1836f87b2faac3d201c&chksm=cea96645f9deef5374c61ae28a49afa7b27d778cf723686d755409d9f207899bf4a0fa8e3dea#rd)  
-- [2023-07-19-WebAssembly-在-3D-模型解码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=5&sn=18d563bb5736501f74c641cc196034e4&chksm=cea967c0f9deeed6df32fde66f0fc0aea448c7f6807f96d15fc26b722f76e4a118df26e68a9b#rd)  
-- [2023-07-19-面向-WebAssembly-的-ByteReact-框架](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=4&sn=23dd0b8f0646abe94abebbe23bd41f3e&chksm=cea967c0f9deeed65280a25b603c9023963ed8c18e5e93510c32ad92a16464b263305da0abd1#rd)  
+- [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd)  
 - [查看更多 >](/details/字节前端-ByteFE.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
