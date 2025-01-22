@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-22T10:08:48.370Z</updated>
+    <updated>2025-01-22T12:16:09.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Set.has 和 Array.includes 到底应该用哪个？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502261&amp;idx=1&amp;sn=dac51a1edd398a9f2a99db3e386c25aa&amp;chksm=ce45dc24f9325532079d3d403887421e0ac08c47151e068e00cac098c705080020ecd518ea8f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502261&amp;idx=1&amp;sn=dac51a1edd398a9f2a99db3e386c25aa&amp;chksm=ce45dc24f9325532079d3d403887421e0ac08c47151e068e00cac098c705080020ecd518ea8f#rd"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <published>2025-01-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【早阅】Chrome 133+ 全新 DOM 操作方法：moveBefore]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275496&amp;idx=1&amp;sn=da3eb308cc9a292431857ed043bdc6e5&amp;chksm=bc795033017a8db3f5ab9ff3ba0a2f3951931f8e523f3a5588e759173162def8675d9bd280fd&amp;scene=0#rd</id>
@@ -50,6 +57,13 @@
         <published>2025-01-20T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[分享 9 个神奇且超级实用的 JavaScript 数组方法]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502240&amp;idx=1&amp;sn=bb7967db6792f4c777b1c69253d24828&amp;chksm=ce45dc31f93255273b08b65abf6ea53b6d4745049776ebb2f2eaf2fad718f191a7ba5ebd5fc3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502240&amp;idx=1&amp;sn=bb7967db6792f4c777b1c69253d24828&amp;chksm=ce45dc31f93255273b08b65abf6ea53b6d4745049776ebb2f2eaf2fad718f191a7ba5ebd5fc3#rd"/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <published>2025-01-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端实现画中画超简单，让网页飞出浏览器]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621742&amp;idx=1&amp;sn=46c0a939f76be131285ab374a6caf3da&amp;chksm=80225eafb755d7b995bbdf538bf26ed530b66aec729ba4be47937e52c4f91d91edb71631e5d4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621742&amp;idx=1&amp;sn=46c0a939f76be131285ab374a6caf3da&amp;chksm=80225eafb755d7b995bbdf538bf26ed530b66aec729ba4be47937e52c4f91d91edb71631e5d4#rd"/>
@@ -60,6 +74,13 @@
         <title type="html"><![CDATA[真卷啊......Vitest 都出 3.0 了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525106&amp;idx=1&amp;sn=38a950faa0a1efa50062a2eff914b129&amp;chksm=f9926423cee5ed35cdc4d73c417d472b247bd09e0bb79a6b2ea12faa86adf0e73ec8d2b648bf#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525106&amp;idx=1&amp;sn=38a950faa0a1efa50062a2eff914b129&amp;chksm=f9926423cee5ed35cdc4d73c417d472b247bd09e0bb79a6b2ea12faa86adf0e73ec8d2b648bf#rd"/>
+        <updated>2025-01-19T00:00:00.000Z</updated>
+        <published>2025-01-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发一个组件库，需要学哪些技术栈呢？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502174&amp;idx=1&amp;sn=0013b6369b48ca924d8402729ffeb8da&amp;chksm=ce45dccff93255d9b914ca6c78ed4f7967c56d79becfc924d148dc25c636ffffcbfdb952c192#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502174&amp;idx=1&amp;sn=0013b6369b48ca924d8402729ffeb8da&amp;chksm=ce45dccff93255d9b914ca6c78ed4f7967c56d79becfc924d148dc25c636ffffcbfdb952c192#rd"/>
         <updated>2025-01-19T00:00:00.000Z</updated>
         <published>2025-01-19T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="https://nodeweekly.com/issues/561"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java21特性解读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537631&amp;idx=1&amp;sn=5b7df95a4ddea0538dd9e251134a7cb4&amp;chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd"/>
-        <updated>2025-01-06T00:00:00.000Z</updated>
-        <published>2025-01-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让我看看有多少人不知道Vue3中也能实现高阶组件HOC]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516980&amp;idx=1&amp;sn=0ae4b752527db543d10fc6eeab28d68a&amp;chksm=eb07bb4ddc70325b689d2a8ca30eddd62d9875692519ac56083c4b8792ae628b3c22d900f617#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516980&amp;idx=1&amp;sn=0ae4b752527db543d10fc6eeab28d68a&amp;chksm=eb07bb4ddc70325b689d2a8ca30eddd62d9875692519ac56083c4b8792ae628b3c22d900f617#rd"/>
-        <updated>2025-01-06T00:00:00.000Z</updated>
-        <published>2025-01-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新 AI 周刊上线，1 分钟了解每周 AI 大事件，紧跟时代浪潮]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500338&amp;idx=1&amp;sn=9b5c4f1a14dde1f89545638b4eb97305&amp;chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500338&amp;idx=1&amp;sn=9b5c4f1a14dde1f89545638b4eb97305&amp;chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd"/>
-        <updated>2025-01-06T00:00:00.000Z</updated>
-        <published>2025-01-06T00:00:00.000Z</published>
     </entry>
 </feed>
