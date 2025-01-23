@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-23T10:10:44.507Z</updated>
+    <updated>2025-01-23T12:16:40.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[JS原生的深拷贝API structuredClone函数简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/"/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <published>2025-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端架构师应该如何成熟的思考项目重构]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517002&amp;idx=1&amp;sn=9cd60e050d3d3ad8ee703922d2822baf&amp;chksm=eb07bb33dc70322520a697859662ac99514a0c1e92259e4efdd830f04ebddc3a6b736bb166a2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517002&amp;idx=1&amp;sn=9cd60e050d3d3ad8ee703922d2822baf&amp;chksm=eb07bb33dc70322520a697859662ac99514a0c1e92259e4efdd830f04ebddc3a6b736bb166a2#rd"/>
         <updated>2025-01-22T00:00:00.000Z</updated>
         <published>2025-01-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2024 年 GitHub 上 star 增长最多的前端 JavaScript 项目]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516982&amp;idx=1&amp;sn=5e7d377669d76dedaafd1c012df84534&amp;chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516982&amp;idx=1&amp;sn=5e7d377669d76dedaafd1c012df84534&amp;chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd"/>
-        <updated>2025-01-07T00:00:00.000Z</updated>
-        <published>2025-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canvas 居然还能用 Rust 实现？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524981&amp;idx=2&amp;sn=e345680c796f4d84579b7fe2040e59dd&amp;chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524981&amp;idx=2&amp;sn=e345680c796f4d84579b7fe2040e59dd&amp;chksm=f99264a4cee5edb27c4c5f6a4487f3b1391c635b49cf5d8b8d5c8dad247b8e6dfd2c3f9de732#rd"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>

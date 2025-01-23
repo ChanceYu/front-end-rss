@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-23 18:10:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-23 20:16:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -558,6 +558,7 @@
 - [2023-06-07-主流前端框架的响应式原理](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498204&idx=2&sn=44b3ad72ec64cbdc9efb3e0850d023f2&chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd) 
 - [2023-05-24-从-VSCode-源码中我学到了什么？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498025&idx=1&sn=7a81d807a8773a4113e95003744d8f8e&chksm=c2b338d6f5c4b1c061344505e38f8f38326a0964e24c1952f118d57a75f072a84edd96572c44#rd) 
 - [2023-01-28-前端食堂技术周刊第-68-期：Astro-2.0、Nuxt-3.1.0、Bun-0.5、Turborepo-1.7](https://mp.weixin.qq.com/s/BYZU3YHmgIj1LpIGcEIi_g) 
+- [2025-01-22-前端架构师应该如何成熟的思考项目重构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517002&idx=1&sn=9cd60e050d3d3ad8ee703922d2822baf&chksm=eb07bb33dc70322520a697859662ac99514a0c1e92259e4efdd830f04ebddc3a6b736bb166a2#rd) 
 - [2024-12-18-大前端：如何突破动态化容器的天花板？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516947&idx=1&sn=71944e56d60569763a7eace7a52200be&chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd) 
 - [2024-04-30-一个Level-0富文本编辑器的进化历程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515726&idx=1&sn=8ed649ee69dc38031fbb4ca274384fcf&chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd) 
 - [2024-04-16-在大公司工作之后才真正领悟到它真的是宇宙级编辑器](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515634&idx=1&sn=a542fec277925a6a926dc4bc2536e759&chksm=eb07858bdc700c9de604dbaea3b9510157cddd6f4db0009891922f24d6cef06af5c26aad87b2#rd) 
