@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-25 00:11:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-25 02:12:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,7 +30,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720) ![](/assets/new.png)  
 - [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
 - [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
@@ -95,7 +96,6 @@
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)  
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
-- [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2025-01-24-MktAI助理：数据与AI结合的营销效率提升利器](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537881&idx=1&sn=18be768b745356f0a57335400d9cef4f&chksm=83973781b4e0be97287ea5cb5a210d3200cd5de521c745a4aecba5b0690feaa7258d36152900#rd) ![](/assets/new.png)  
+- [2025-01-24-MktAI助理：数据与AI结合的营销效率提升利器](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537881&idx=1&sn=18be768b745356f0a57335400d9cef4f&chksm=83973781b4e0be97287ea5cb5a210d3200cd5de521c745a4aecba5b0690feaa7258d36152900#rd)  
 - [2025-01-22-2025-AI展望：Scaling-Law新叙事加速AI变革](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537794&idx=1&sn=3d48924bf3f5fcd3f1ed4813475e01f0&chksm=8397375ab4e0be4c6430f61256691b58f897a57041e0c74be8601a7c6bf3036c2c6a9f7eba39#rd)  
 - [2025-01-20-代码优化实战：圈复杂度治理之函数抽离技巧](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537747&idx=1&sn=e4f1457385d04cc0c5d3e1be537af537&chksm=8397370bb4e0be1d95832c76f2e479a96c152fd6f783279a1d2fc8b7800c36910491a6e2b09b#rd)  
 - [2025-01-17-架构思考与实践：从通用到场景的转变](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537735&idx=1&sn=8a1f960f6e835d1aac0d104f926e58ae&chksm=8397371fb4e0be0964ac6a20f82376e119ef3bb5664a7f778b938fe9db5a9e4cec192d57b3d9#rd)  
