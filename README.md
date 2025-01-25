@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-25 02:12:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-25 20:14:23，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720) ![](/assets/new.png)  
+- [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
 - [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
 - [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2025-01-24-真有程序员转行做保安去了，祝好！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502303&idx=1&sn=01a192d09ee9b3cde645dc7cdfd0e6ce&chksm=ce45dc4ef9325558b75cc5c56574806880b1ab00db3bc04dcc4a1300c62c7e2936dd4a959095#rd) ![](/assets/new.png)  
+- [2025-01-23-前端的响应从未如此简单！渲染视图的写法也发生大变化！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502264&idx=1&sn=0a5bc696d1902382e95c5e44e478e03b&chksm=ce45dc29f932553f12d461bb01700cc2951090d052a09a27a43286ecfca21783b310c0c1820f#rd) ![](/assets/new.png)  
 - [2025-01-22-Set.has-和-Array.includes-到底应该用哪个？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502261&idx=1&sn=dac51a1edd398a9f2a99db3e386c25aa&chksm=ce45dc24f9325532079d3d403887421e0ac08c47151e068e00cac098c705080020ecd518ea8f#rd)  
 - [2025-01-21-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502249&idx=1&sn=20778b20d0986d5a9424519156f223e6&chksm=ce45dc38f932552e0ed836cf3b2103340f4cbc9db1684b791559925bc36b2504442b29c1efb4#rd)  
 - [2025-01-20-分享-9-个神奇且超级实用的-JavaScript-数组方法](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502240&idx=1&sn=bb7967db6792f4c777b1c69253d24828&chksm=ce45dc31f93255273b08b65abf6ea53b6d4745049776ebb2f2eaf2fad718f191a7ba5ebd5fc3#rd)  
@@ -218,8 +220,6 @@
 - [2025-01-07-认识了一个刚上岸字节的前端女生，真的有被震惊到！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502046&idx=1&sn=f5c13da27d6584bfbd0d19c44bf98845&chksm=ce45dd4ff9325459ee3cd58758016fd07527fbc406f73264187666f7ff93e1dfe4f59203af79#rd)  
 - [2025-01-06-Vue-官方教学：提升-Vue3-开发幸福感的-8-个小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502037&idx=1&sn=95e1a616befe1b17e6d945b367ff6d7d&chksm=ce45dd44f932545210138f162cb0f3f6d74351a867bd0b960fb42670b24bedb539f0122776da#rd)  
 - [2025-01-05-一个插件，让你在-vscode-里养几只宠物](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502028&idx=1&sn=13c26b892805098788e2435ca0298e4a&chksm=ce45dd5df932544b61f789ba51897c28e5e440db7550a334f9c39de5f53360f561990d2347c1#rd)  
-- [2025-01-04-第一次发现-console.log-这么没用！我要改造它！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502002&idx=1&sn=376a78805ec2577eb8babbbd8e651d6a&chksm=ce45dd23f93254352a8701331536d54f3815836f448f023c33390d23e0a326261c0ae28e2a32#rd)  
-- [2025-01-03-通过六个场景，告诉你-reduce-方法有多么强大！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501976&idx=1&sn=60d47924d6003046fc50a343b65cc9f9&chksm=ce45dd09f932541fcb1f3272f5960bfe0f67d0154a6fab5234412b016a27107cf5269e7ea141#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
