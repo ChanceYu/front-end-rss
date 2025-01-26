@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-26 12:10:31，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-26 18:08:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,11 +23,11 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -262,10 +262,10 @@
 </summary>
 
 
-- [2025-01-25-分享几个不错的JS/TS代码片段](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=2&sn=f733f51f5fc5c65ec4e0369bf95d98e2&chksm=f99265cccee5ecdaf96a8bbebb009638a84cf17138910dfc5e3c3b4017ec4610589eca5433d4#rd) ![](/assets/new.png)  
-- [2025-01-25-请立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=1&sn=3250741bbb2e3db25851deb7f1b89511&chksm=f99265cccee5ecda5edea889379ad3d69041d831e083770d2e5a3f5130a9b440502d27c5e384#rd) ![](/assets/new.png)  
-- [2025-01-24-全面解读-ShadCN-UI：揭秘复制粘贴的组件库如何重新定义开发体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=2&sn=1ce657a9acc7f39d7f292ecb5fa91b2b&chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd) ![](/assets/new.png)  
-- [2025-01-24-Chrome-133+-全新-DOM-操作方法：moveBefore](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=1&sn=7ad55450d51d065ddb939a1fdebff18e&chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd) ![](/assets/new.png)  
+- [2025-01-25-分享几个不错的JS/TS代码片段](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=2&sn=f733f51f5fc5c65ec4e0369bf95d98e2&chksm=f99265cccee5ecdaf96a8bbebb009638a84cf17138910dfc5e3c3b4017ec4610589eca5433d4#rd)  
+- [2025-01-25-请立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=1&sn=3250741bbb2e3db25851deb7f1b89511&chksm=f99265cccee5ecda5edea889379ad3d69041d831e083770d2e5a3f5130a9b440502d27c5e384#rd)  
+- [2025-01-24-全面解读-ShadCN-UI：揭秘复制粘贴的组件库如何重新定义开发体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=2&sn=1ce657a9acc7f39d7f292ecb5fa91b2b&chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd)  
+- [2025-01-24-Chrome-133+-全新-DOM-操作方法：moveBefore](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=1&sn=7ad55450d51d065ddb939a1fdebff18e&chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd)  
 - [2025-01-22-前端-TypeError-错误永久消失术实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525125&idx=1&sn=c951aa06e866b80961bc35052b752b45&chksm=f99265d4cee5ecc27f1d41ef68156895603554ae960ecb23ceca49ca19e0d12c9e228f3ecb7e#rd)  
 - [2025-01-21-解读SourceMap](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525120&idx=1&sn=e750ea3fc4a8b6c50436ad253d97ebe8&chksm=f99265d1cee5ecc7a37f1379c73a19b8383413a4905f7c1a783275de9a217100ceadaf5a48c5#rd)  
 - [2025-01-20-面试官：为什么选择Nestjs作为服务端框架，而不是Express？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525109&idx=1&sn=2a8fb1b41521993a17925181bcb4fd2f&chksm=f9926424cee5ed329eb999b6fae3b3ae2361ead7581cc5c006e9b2f501d42f86e2631bd476ba#rd)  
@@ -386,12 +386,14 @@
 </summary>
 
 
+- [2025-01-26-AI-圈儿已经提前过年了？这些关键信息正在改写行业规则！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500383&idx=1&sn=9fb39dc629f1d04c2556fc0d68417922&chksm=c2b303a0f5c48ab6b2c2c2f11baab985acc5480701b251b3c95fec05d3fb051ca5b55287a940#rd) ![](/assets/new.png)  
+- [2025-01-24-（说人话）AI-黑话宝典，从“深度学习”到“千层套路”的防忽悠指南](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500375&idx=1&sn=cbf6f2aab45653a89f1de7edd3b223e7&chksm=c2b303a8f5c48abef100422f0259155e8e7dfb1e9c163a99cecac72bc4d9c6fec8a4062ec588#rd) ![](/assets/new.png)  
 - [2025-01-20-AI-周刊-003｜这周-AI-圈儿又卷起来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500360&idx=1&sn=43021bad5dcaa95c8faafba19b410fd7&chksm=c2b303b7f5c48aa10ee78f58aba3e295a14b3c7b0fc01f35f61ad87d8fe94d2731fb388d16be#rd)  
 - [2025-01-11-AI-周刊-002｜程序员跨界-AI-艺术家，3-个月制作-AI-动画获金奖](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500353&idx=1&sn=02ecb7217f7dd1ff57ccce3519e9c8e5&chksm=c2b303bef5c48aa83c6fd0e97c84a0be2e511e74ebecb918b286f6a32f3cf70f82a4e2f65157#rd)  
 - [2025-01-07-刚刚，奥特曼发布年终总结，通往-AGI-之路已经找到](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500347&idx=1&sn=a8ad534917ae56f2fe49d33a47f0b1dc&chksm=c2b303c4f5c48ad22a26d89622b9e878f48e2b6c0e432967883786a6b53c005aa5ebd84c2483#rd)  
 - [2025-01-06-全新-AI-周刊上线，1-分钟了解每周-AI-大事件，紧跟时代浪潮](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500338&idx=1&sn=9b5c4f1a14dde1f89545638b4eb97305&chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd)  
-- [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd)  
 - [2025-01-05-我发现了-DeepSeek-成功的关键秘密](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=1&sn=a8cc92071f97a64b94b6967bfc5f9c90&chksm=c2b303d9f5c48acf40f0359ad7d977714e48aba3092c8a1a501c94d1c0bf78e825c79c3d51db#rd)  
+- [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd)  
 - [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd)  
 - [2024-12-21-一文回顾OpenAI12天发布会，你错过了什么重磅信息？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500105&idx=1&sn=1abc78369c401374dc45a53bec8d6c38&chksm=c2b300b6f5c489a02f3e3ebb4fb4f156b513a48d2c547df41e0afe043c158b32a0f0687900f1#rd)  
 - [2024-12-19-JavaScript「红宝书」第5版来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500099&idx=1&sn=691a075d9324f25314c90f96d41793e2&chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd)  
@@ -404,8 +406,6 @@
 - [2024-11-22-这-12-个-AI-写作秘诀，让你写作效率翻倍！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500030&idx=1&sn=1fa35939ea7bc799243e6ebae308a81c&chksm=c2b30101f5c488176c2cc7c19ea84eae0f1e9b1582c80c4be68089acb67ec35d933b81c04590#rd)  
 - [2024-11-19-5个牛逼赛道，普通人也能年入百万](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500022&idx=1&sn=76e525b8c5777860d3ef5a2b955c6467&chksm=c2b30109f5c4881ff1a6bdc9fd42675c2ad02a8bfe0dabdc90900adc34076913acb215dd94b5#rd)  
 - [2024-11-18-技术周刊-｜-2024-Google-首届-Web-AI-峰会回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500016&idx=1&sn=936f9199e9bad08330c966c3218d1a1c&chksm=c2b3010ff5c488199bb69545ef3c9263f8489c3f4083add65f296188ea8de62280174667f4a5#rd)  
-- [2024-11-14-npm-创始人再创业，带来-2-个全新前端工具，真香！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500008&idx=1&sn=b1b06e1b228881dd0bb56592e2b061da&chksm=c2b30117f5c48801c0520c1cc31f1f5cb85628d8f59e55c398be022a8a9570b07c69a319cd2e#rd)  
-- [2024-11-13-从2017到2024，前-OpenAI研究员的AI观点变迁史：起落起起落落落…](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500002&idx=1&sn=5463f6ce255acf917faa0b774ecacb1a&chksm=c2b3011df5c4880b23b64603640142593246ac0e0acc550873cf941d7057ea9b637d705befe1#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
