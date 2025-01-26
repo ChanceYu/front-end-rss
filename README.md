@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-26 00:09:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-26 12:10:31，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,12 +23,12 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -262,26 +262,26 @@
 </summary>
 
 
+- [2025-01-25-分享几个不错的JS/TS代码片段](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=2&sn=f733f51f5fc5c65ec4e0369bf95d98e2&chksm=f99265cccee5ecdaf96a8bbebb009638a84cf17138910dfc5e3c3b4017ec4610589eca5433d4#rd) ![](/assets/new.png)  
+- [2025-01-25-请立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=1&sn=3250741bbb2e3db25851deb7f1b89511&chksm=f99265cccee5ecda5edea889379ad3d69041d831e083770d2e5a3f5130a9b440502d27c5e384#rd) ![](/assets/new.png)  
+- [2025-01-24-全面解读-ShadCN-UI：揭秘复制粘贴的组件库如何重新定义开发体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=2&sn=1ce657a9acc7f39d7f292ecb5fa91b2b&chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd) ![](/assets/new.png)  
+- [2025-01-24-Chrome-133+-全新-DOM-操作方法：moveBefore](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=1&sn=7ad55450d51d065ddb939a1fdebff18e&chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd) ![](/assets/new.png)  
 - [2025-01-22-前端-TypeError-错误永久消失术实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525125&idx=1&sn=c951aa06e866b80961bc35052b752b45&chksm=f99265d4cee5ecc27f1d41ef68156895603554ae960ecb23ceca49ca19e0d12c9e228f3ecb7e#rd)  
 - [2025-01-21-解读SourceMap](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525120&idx=1&sn=e750ea3fc4a8b6c50436ad253d97ebe8&chksm=f99265d1cee5ecc7a37f1379c73a19b8383413a4905f7c1a783275de9a217100ceadaf5a48c5#rd)  
 - [2025-01-20-面试官：为什么选择Nestjs作为服务端框架，而不是Express？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525109&idx=1&sn=2a8fb1b41521993a17925181bcb4fd2f&chksm=f9926424cee5ed329eb999b6fae3b3ae2361ead7581cc5c006e9b2f501d42f86e2631bd476ba#rd)  
 - [2025-01-19-真卷啊......Vitest-都出-3.0-了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525106&idx=1&sn=38a950faa0a1efa50062a2eff914b129&chksm=f9926423cee5ed35cdc4d73c417d472b247bd09e0bb79a6b2ea12faa86adf0e73ec8d2b648bf#rd)  
-- [2025-01-18-面试官：在Node.js中创建线程的都有哪几种方法？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525099&idx=1&sn=7b06050ea662ac36da9364e4a26c2e45&chksm=f992643acee5ed2c77a274bef610456307917fa3a2ab46262978dc135f6b7ddcef6d43e2f992#rd)  
 - [2025-01-18-什么,你还不会调试线上-Vue-组件?](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525099&idx=2&sn=46bdf859ec836cc0af14f6d965edfef2&chksm=f992643acee5ed2c64c5124bc7506e0af6886900c48210b5403b3ebea222934e4c9a0b4fd5f1#rd)  
-- [2025-01-17-你为什么用不好TypeScript](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525084&idx=1&sn=75902108f9da9bb0ef631d9e742d5f81&chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd)  
+- [2025-01-18-面试官：在Node.js中创建线程的都有哪几种方法？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525099&idx=1&sn=7b06050ea662ac36da9364e4a26c2e45&chksm=f992643acee5ed2c77a274bef610456307917fa3a2ab46262978dc135f6b7ddcef6d43e2f992#rd)  
 - [2025-01-17-面试官：你自己配置过webpack吗？有哪些核心配置？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525084&idx=2&sn=59e10076692bd980b6d63636b8bfe4f9&chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd)  
-- [2025-01-16-预测一波，这份Web面试题库年后爆火。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525072&idx=1&sn=541657589cf43e024849636f6614ce0b&chksm=f9926401cee5ed17905117c186e1ee1b0cc31236715efe6b744ee53f6f732cafedbfacfdac5d#rd)  
+- [2025-01-17-你为什么用不好TypeScript](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525084&idx=1&sn=75902108f9da9bb0ef631d9e742d5f81&chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd)  
 - [2025-01-16-setTimeout-定时器，根本就不准时呀！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525072&idx=2&sn=914d74a7ed53c4dd997de82108933788&chksm=f9926401cee5ed178c9f059f001787b54bd82141e20aed6eb26ce0a56193f68e36e861ba7361#rd)  
-- [2025-01-15-前端体验优化之渐进式图片](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525062&idx=1&sn=f5630bf08cb7ade421a29337124b0aba&chksm=f9926417cee5ed01bb8ace0f9aa6bb07a217fdaf25544e6030752e0f063e33ab2e5ba17cbe6c#rd)  
+- [2025-01-16-预测一波，这份Web面试题库年后爆火。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525072&idx=1&sn=541657589cf43e024849636f6614ce0b&chksm=f9926401cee5ed17905117c186e1ee1b0cc31236715efe6b744ee53f6f732cafedbfacfdac5d#rd)  
 - [2025-01-15-Build-System-视角：重新认识前端打包工具的设计哲学](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525062&idx=2&sn=1d9ee132cc12521fa502e90034c0dd9d&chksm=f9926417cee5ed01b7180aa7eb7dfbd496405141a9bada7b1a55eb9ed540908778fc6b85c0a9#rd)  
-- [2025-01-14-一文彻底了解Web-Worker，十万条数据都是弟弟](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525056&idx=1&sn=5ed5b451484a1ae10df365c0afb9e5fc&chksm=f9926411cee5ed077915c909e9ec831241388123a72f085cf1ab78364571cb5a468adc1a4d31#rd)  
+- [2025-01-15-前端体验优化之渐进式图片](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525062&idx=1&sn=f5630bf08cb7ade421a29337124b0aba&chksm=f9926417cee5ed01bb8ace0f9aa6bb07a217fdaf25544e6030752e0f063e33ab2e5ba17cbe6c#rd)  
 - [2025-01-14-nextTick用过吗？讲一讲实现思路吧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525056&idx=2&sn=12608c1c9ee9596ae76762a12342f29a&chksm=f9926411cee5ed0708426480c05a0e98ac62683543b2505ec1352acff1269b60b6d5f05887af#rd)  
-- [2025-01-13-分析组件的渲染时间](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525046&idx=2&sn=6d5bb4a1517272769957352723583822&chksm=f9926467cee5ed71941a6d63d09cf0283f5de8577296a66ee5d7d69712b62b90f96104e1c688#rd)  
+- [2025-01-14-一文彻底了解Web-Worker，十万条数据都是弟弟](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525056&idx=1&sn=5ed5b451484a1ae10df365c0afb9e5fc&chksm=f9926411cee5ed077915c909e9ec831241388123a72f085cf1ab78364571cb5a468adc1a4d31#rd)  
 - [2025-01-13-数据实时更新的多种实现方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525046&idx=1&sn=25ef82173663f1682034fbd0e197d791&chksm=f9926467cee5ed71e422ba2d47b1faba2caf4f7f732a40a55549d70ead43e71cd7a4404c2b8d#rd)  
-- [2025-01-12-基于web-see的前端监控方案实现](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525034&idx=1&sn=b58c51ed9452b2dda36047a3f8468270&chksm=f992647bcee5ed6ded2e7eb8d16b4499e3bf4416670ddc05c96336b546ed145fa9cd8994dfe0#rd)  
-- [2025-01-12-webpack构建优化：优化-CDN-上传-篇](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525034&idx=2&sn=3d77cf86a2683c52eaa6975ca8869323&chksm=f992647bcee5ed6d3f1fd403e1a99cf229d4af019754f4d213e123d043f21327417a9b723c7c#rd)  
-- [2025-01-10-aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525026&idx=1&sn=136a4dbf1cbce1071b3841669ccd3fde&chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd)  
-- [2025-01-10-JavaScript-冷知识合集：这些特性你都知道吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525026&idx=2&sn=3ad44e223dab2950c6bb0159cd9905be&chksm=f9926473cee5ed657bbc4b058ef87a7311d1e1bc4f71f00f6820b210890911014d547f6bd365#rd)  
+- [2025-01-13-分析组件的渲染时间](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525046&idx=2&sn=6d5bb4a1517272769957352723583822&chksm=f9926467cee5ed71941a6d63d09cf0283f5de8577296a66ee5d7d69712b62b90f96104e1c688#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -417,7 +417,7 @@
 </summary>
 
 
-- [2025-01-23-Tailwind-CSS-4.0-正式发布：全球最火的CSS框架！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517005&idx=1&sn=83e967672b184e7b0925010f633b94fd&chksm=eb07bb34dc703222ccf390c3da3fe032111e9c4fd4b62a7921a6c344f9b588b36d3691e94901#rd) ![](/assets/new.png)  
+- [2025-01-23-Tailwind-CSS-4.0-正式发布：全球最火的CSS框架！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517005&idx=1&sn=83e967672b184e7b0925010f633b94fd&chksm=eb07bb34dc703222ccf390c3da3fe032111e9c4fd4b62a7921a6c344f9b588b36d3691e94901#rd)  
 - [2025-01-22-前端架构师应该如何成熟的思考项目重构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517002&idx=1&sn=9cd60e050d3d3ad8ee703922d2822baf&chksm=eb07bb33dc70322520a697859662ac99514a0c1e92259e4efdd830f04ebddc3a6b736bb166a2#rd)  
 - [2025-01-21-页面出-bug，短时间内快速定位到关键代码的神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516999&idx=1&sn=2775522bc6387badf6024362adcf462e&chksm=eb07bb3edc7032283e71199c0b87294526e2431916ecc6f450b5329e623832edf7e6745c8b14#rd)  
 - [2025-01-20-Vapor-Mode发布前，你应该知道的一些事情！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516994&idx=1&sn=1988d18bc8fcdd8e94b434ee6e74fc5b&chksm=eb07bb3bdc70322d6d6ba789d30bf29368a5c69da3107187862c42842d976f723a6c4f7209d9#rd)  
