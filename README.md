@@ -12,18 +12,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-27 22:09:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-29 00:12:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564) ![](/assets/new.png)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
@@ -64,7 +65,6 @@
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547)  
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)  
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)  
-- [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -262,7 +262,7 @@
 </summary>
 
 
-- [2025-01-26-爆火的-Node-框架-Nest.js-v11-正式发布！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525156&idx=1&sn=bba62bd8340ef160bfca848c3431e556&chksm=f99265f5cee5ece31f987697033882681b3495804c9172f3cf9ead592cf0604c06b2e259fecc#rd) ![](/assets/new.png)  
+- [2025-01-26-爆火的-Node-框架-Nest.js-v11-正式发布！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525156&idx=1&sn=bba62bd8340ef160bfca848c3431e556&chksm=f99265f5cee5ece31f987697033882681b3495804c9172f3cf9ead592cf0604c06b2e259fecc#rd)  
 - [2025-01-25-请立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=1&sn=3250741bbb2e3db25851deb7f1b89511&chksm=f99265cccee5ecda5edea889379ad3d69041d831e083770d2e5a3f5130a9b440502d27c5e384#rd)  
 - [2025-01-25-分享几个不错的JS/TS代码片段](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525149&idx=2&sn=f733f51f5fc5c65ec4e0369bf95d98e2&chksm=f99265cccee5ecdaf96a8bbebb009638a84cf17138910dfc5e3c3b4017ec4610589eca5433d4#rd)  
 - [2025-01-24-Chrome-133+-全新-DOM-操作方法：moveBefore](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525135&idx=1&sn=7ad55450d51d065ddb939a1fdebff18e&chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd)  

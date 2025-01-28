@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-01-27T14:09:38.611Z</updated>
+    <updated>2025-01-28T16:12:10.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Things people get wrong about Electron]]></title>
+        <id>https://nodeweekly.com/issues/564</id>
+        <link href="https://nodeweekly.com/issues/564"/>
+        <updated>2025-01-28T00:00:00.000Z</updated>
+        <published>2025-01-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爆火的 Node 框架 Nest.js v11 正式发布！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525156&amp;idx=1&amp;sn=bba62bd8340ef160bfca848c3431e556&amp;chksm=f99265f5cee5ece31f987697033882681b3495804c9172f3cf9ead592cf0604c06b2e259fecc#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue 的 style 加了 scoped，居然也会样式冲突？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502059&amp;idx=1&amp;sn=b388554bde5cb2bdefd81f4206c38155&amp;chksm=ce45dd7af932546c5e05174409242f43923c03de4a5c89b0cb1135e31f023078b3a53799ad19#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502059&amp;idx=1&amp;sn=b388554bde5cb2bdefd81f4206c38155&amp;chksm=ce45dd7af932546c5e05174409242f43923c03de4a5c89b0cb1135e31f023078b3a53799ad19#rd"/>
-        <updated>2025-01-10T00:00:00.000Z</updated>
-        <published>2025-01-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】aiCoder：利用AST实现AI生成代码的合并工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275298&amp;idx=1&amp;sn=5d1d7b8da48439333221491e87cd084b&amp;chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275298&amp;idx=1&amp;sn=5d1d7b8da48439333221491e87cd084b&amp;chksm=bc647f685171f0076fec5ac4ce2672854abcb4f363217989f21c68252c292d9f2aecd96e4611&amp;scene=0#rd"/>
         <updated>2025-01-10T00:00:00.000Z</updated>
         <published>2025-01-10T00:00:00.000Z</published>
     </entry>
