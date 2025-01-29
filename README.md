@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-01-29 00:12:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-29 10:39:50，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -27,7 +27,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564) ![](/assets/new.png)  
+- [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
@@ -386,14 +386,17 @@
 </summary>
 
 
+- [2025-01-28-DeepSeek-全面指南，90%-的人都不知道的使用技巧（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500417&idx=1&sn=5905d68b2cdf6347ec847d39252e9ec1&chksm=c2b3037ef5c48a68a8e50c3392358ad1630776c1ae931e0dca71ab84a19559e0d7e80f9c2a65#rd) ![](/assets/new.png)  
+- [2025-01-27-OpenAI的真正对手？DeepSeek-R1如何用强化学习重构LLM能力边界——DeepSeek-R1论文精读](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500401&idx=2&sn=644abb09d2f558a7e86eedacf681ab03&chksm=c2b3038ef5c48a9848e99e76d48735a7b0227b56be2c9bcc42a105d3813e3162419b7a37f11f#rd) ![](/assets/new.png)  
+- [2025-01-27-知乎10W赞神贴：大学生靠DeepSeek月入20万？看完我注销了GPT账号](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500401&idx=1&sn=a827cee1c14a68f5395fa2f2a3d8784c&chksm=c2b3038ef5c48a980dff03d3c2f7ea2d0bcc70d0adca5ceb08a1d2c61c854c383ffe423123ed#rd) ![](/assets/new.png)  
 - [2025-01-26-AI-圈儿已经提前过年了？这些关键信息正在改写行业规则！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500383&idx=1&sn=9fb39dc629f1d04c2556fc0d68417922&chksm=c2b303a0f5c48ab6b2c2c2f11baab985acc5480701b251b3c95fec05d3fb051ca5b55287a940#rd)  
 - [2025-01-24-（说人话）AI-黑话宝典，从“深度学习”到“千层套路”的防忽悠指南](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500375&idx=1&sn=cbf6f2aab45653a89f1de7edd3b223e7&chksm=c2b303a8f5c48abef100422f0259155e8e7dfb1e9c163a99cecac72bc4d9c6fec8a4062ec588#rd)  
 - [2025-01-20-AI-周刊-003｜这周-AI-圈儿又卷起来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500360&idx=1&sn=43021bad5dcaa95c8faafba19b410fd7&chksm=c2b303b7f5c48aa10ee78f58aba3e295a14b3c7b0fc01f35f61ad87d8fe94d2731fb388d16be#rd)  
 - [2025-01-11-AI-周刊-002｜程序员跨界-AI-艺术家，3-个月制作-AI-动画获金奖](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500353&idx=1&sn=02ecb7217f7dd1ff57ccce3519e9c8e5&chksm=c2b303bef5c48aa83c6fd0e97c84a0be2e511e74ebecb918b286f6a32f3cf70f82a4e2f65157#rd)  
 - [2025-01-07-刚刚，奥特曼发布年终总结，通往-AGI-之路已经找到](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500347&idx=1&sn=a8ad534917ae56f2fe49d33a47f0b1dc&chksm=c2b303c4f5c48ad22a26d89622b9e878f48e2b6c0e432967883786a6b53c005aa5ebd84c2483#rd)  
 - [2025-01-06-全新-AI-周刊上线，1-分钟了解每周-AI-大事件，紧跟时代浪潮](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500338&idx=1&sn=9b5c4f1a14dde1f89545638b4eb97305&chksm=c2b303cdf5c48adb106cbc0172d48f0e126240d6979958d9f33468bf9a38e718cbb0e139f0a7#rd)  
-- [2025-01-05-我发现了-DeepSeek-成功的关键秘密](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=1&sn=a8cc92071f97a64b94b6967bfc5f9c90&chksm=c2b303d9f5c48acf40f0359ad7d977714e48aba3092c8a1a501c94d1c0bf78e825c79c3d51db#rd)  
 - [2025-01-05-3-大-AI-数字人主播创建平台，开启直播新时代！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=2&sn=ac4abee9267d6a68ef569536d43ba5e2&chksm=c2b303d9f5c48acf549591f20c296950204c6377bb4bc7c961eed96ed1d6eeae8af1bf198a01#rd)  
+- [2025-01-05-我发现了-DeepSeek-成功的关键秘密](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500326&idx=1&sn=a8cc92071f97a64b94b6967bfc5f9c90&chksm=c2b303d9f5c48acf40f0359ad7d977714e48aba3092c8a1a501c94d1c0bf78e825c79c3d51db#rd)  
 - [2025-01-03-盘点-2024-年-AI-大事件，中国-AI-的破晓之年](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500302&idx=1&sn=cac146398bb46a8dcf599d5707ccd0c3&chksm=c2b303f1f5c48ae7dc18c2d63b97723d3519e2459a4698debce70d3579bd8accc4b3d61c40e5#rd)  
 - [2024-12-21-一文回顾OpenAI12天发布会，你错过了什么重磅信息？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500105&idx=1&sn=1abc78369c401374dc45a53bec8d6c38&chksm=c2b300b6f5c489a02f3e3ebb4fb4f156b513a48d2c547df41e0afe043c158b32a0f0687900f1#rd)  
 - [2024-12-19-JavaScript「红宝书」第5版来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500099&idx=1&sn=691a075d9324f25314c90f96d41793e2&chksm=c2b300bcf5c489aafa85928ddb0bf4013f7db1ea0bf25b32aec4f1d768c00628faccd895c1ff#rd)  
@@ -403,9 +406,6 @@
 - [2024-11-27-重磅！Vite-6.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500071&idx=1&sn=0c63d508699d504230f88fc29f1430a6&chksm=c2b300d8f5c489cefc6fbc03a437a1d5c506b334945620ad2f91a4e98d8597b6c4ad742e3ad9#rd)  
 - [2024-11-26-LangChain-最新发布，2024-AI-Agent-状态](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500058&idx=1&sn=e92d9a1dd515f4663d77a4baea7c9595&chksm=c2b300e5f5c489f3237512668c135f831c8ad70bee8eafad64e0056681c70bd5d94761ebbde7#rd)  
 - [2024-11-25-技术周刊-｜-前端真的凉了吗？2024-前端趋势解读](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500040&idx=1&sn=7cfeb5bddfcab2ab78e6c6b56c031192&chksm=c2b300f7f5c489e163db1f0496711c1fa2c56aeb4eaa0f5db5fa0a92ac0ca988201863540cb2#rd)  
-- [2024-11-22-这-12-个-AI-写作秘诀，让你写作效率翻倍！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500030&idx=1&sn=1fa35939ea7bc799243e6ebae308a81c&chksm=c2b30101f5c488176c2cc7c19ea84eae0f1e9b1582c80c4be68089acb67ec35d933b81c04590#rd)  
-- [2024-11-19-5个牛逼赛道，普通人也能年入百万](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500022&idx=1&sn=76e525b8c5777860d3ef5a2b955c6467&chksm=c2b30109f5c4881ff1a6bdc9fd42675c2ad02a8bfe0dabdc90900adc34076913acb215dd94b5#rd)  
-- [2024-11-18-技术周刊-｜-2024-Google-首届-Web-AI-峰会回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500016&idx=1&sn=936f9199e9bad08330c966c3218d1a1c&chksm=c2b3010ff5c488199bb69545ef3c9263f8489c3f4083add65f296188ea8de62280174667f4a5#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
