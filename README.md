@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-04 14:13:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-05 00:10:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -27,7 +27,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565) ![](/assets/new.png)  
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
@@ -64,7 +65,6 @@
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548)  
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547)  
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)  
-- [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -386,7 +386,7 @@
 </summary>
 
 
-- [2025-02-03-国产AI搜索无缝对接DeepSeek，联网搜索永不掉线！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500624&idx=1&sn=91d7fce7313f75ed56c91e7b1a91193d&chksm=c2b302aff5c48bb95423db8e0b63dc3d2e265dfb4e91de356a2ee30e8ff7f7944e62ca7e34a1#rd) ![](/assets/new.png)  
+- [2025-02-03-国产AI搜索无缝对接DeepSeek，联网搜索永不掉线！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500624&idx=1&sn=91d7fce7313f75ed56c91e7b1a91193d&chksm=c2b302aff5c48bb95423db8e0b63dc3d2e265dfb4e91de356a2ee30e8ff7f7944e62ca7e34a1#rd)  
 - [2025-02-02-DeepSeek零门槛三步极速部署指南，注册秒过，对话零延迟！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500533&idx=1&sn=93587e9d930ab9cd38243bfa66e85e89&chksm=c2b3030af5c48a1cbd5373e39f1c15f188d5bbf2b61d1efbe1d392788aad372615db039e632b#rd)  
 - [2025-02-01-《7-天精通-DeepSeek-实操手册》](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500511&idx=1&sn=555c511a42b449e26541dab0d66babb6&chksm=c2b30320f5c48a36a75d16a7c9fe744551bc0698372a7534f29e8037e894327415bb9760ba23#rd)  
 - [2025-01-31-万字报告背后的AI变局：三位全球顶尖专家解码DeepSeek崛起与开源革命](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500497&idx=1&sn=72d6013788331feeaa7ddfd966ebd076&chksm=c2b3032ef5c48a38911387617a9e47faad7ef4c5ddcb531351da3a944029b31eed235347d4ae#rd)  

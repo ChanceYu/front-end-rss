@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-04 14:13:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-05 00:10:52。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565) 
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) 
 - [2024-08-27-Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545) 
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542) 
