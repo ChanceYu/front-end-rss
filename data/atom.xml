@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-04T20:09:40.936Z</updated>
+    <updated>2025-02-05T12:16:52.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[删除 node_modules 太慢了？教你个小技巧！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502351&amp;idx=1&amp;sn=00530e73339dd7cf6d6369f29b2798bc&amp;chksm=ce45df9ef9325688569ccf4795032a1aa86bb4e5d0f47c20550d2e8d36222461c6430be2cac7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502351&amp;idx=1&amp;sn=00530e73339dd7cf6d6369f29b2798bc&amp;chksm=ce45df9ef9325688569ccf4795032a1aa86bb4e5d0f47c20550d2e8d36222461c6430be2cac7#rd"/>
+        <updated>2025-02-05T00:00:00.000Z</updated>
+        <published>2025-02-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在前端中，如何左加密工作保障用户的信息安全]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502350&amp;idx=1&amp;sn=3d88dae8ed6b70d9a4ac4cdee9419055&amp;chksm=ce45df9ff93256893bca9f1df8f1d7242d4d9d85e2ce80f7b23eecef0a879554e3fdd6279ba8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502350&amp;idx=1&amp;sn=3d88dae8ed6b70d9a4ac4cdee9419055&amp;chksm=ce45df9ff93256893bca9f1df8f1d7242d4d9d85e2ce80f7b23eecef0a879554e3fdd6279ba8#rd"/>
+        <updated>2025-02-04T00:00:00.000Z</updated>
+        <published>2025-02-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
         <id>https://nodeweekly.com/issues/565</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500353&amp;idx=1&amp;sn=02ecb7217f7dd1ff57ccce3519e9c8e5&amp;chksm=c2b303bef5c48aa83c6fd0e97c84a0be2e511e74ebecb918b286f6a32f3cf70f82a4e2f65157#rd"/>
         <updated>2025-01-11T00:00:00.000Z</updated>
         <published>2025-01-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】2025 年 CSS 愿望清单]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275323&amp;idx=1&amp;sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&amp;chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275323&amp;idx=1&amp;sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&amp;chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&amp;scene=0#rd"/>
-        <updated>2025-01-11T00:00:00.000Z</updated>
-        <published>2025-01-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aiCoder：利用AST实现AI生成代码的合并工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=1&amp;sn=136a4dbf1cbce1071b3841669ccd3fde&amp;chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525026&amp;idx=1&amp;sn=136a4dbf1cbce1071b3841669ccd3fde&amp;chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd"/>
-        <updated>2025-01-10T00:00:00.000Z</updated>
-        <published>2025-01-10T00:00:00.000Z</published>
     </entry>
 </feed>
