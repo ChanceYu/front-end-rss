@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-06 12:14:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-06 22:11:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-02-06-【第3451期】前端-TypeError-错误永久消失术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275546&idx=1&sn=8499a4bfffa5eea60751e53d6c8a8dc1&chksm=bcc307ad8f3d6d3db78f14de6f809cf72b9c896d4d86d3ac1a9db1081ffecb5f016943d7486a&scene=0#rd) ![](/assets/new.png)  
+- [2025-02-06-【第3451期】前端-TypeError-错误永久消失术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275546&idx=1&sn=8499a4bfffa5eea60751e53d6c8a8dc1&chksm=bcc307ad8f3d6d3db78f14de6f809cf72b9c896d4d86d3ac1a9db1081ffecb5f016943d7486a&scene=0#rd)  
 - [2025-01-24-【第3450期】JavaScript-中的千里眼和穿杨箭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275542&idx=1&sn=3276d48f1d47abeb548112822b4455c6&chksm=bc5dcd7cbeb917f383b9abadc2b740cb426758c81a8a94a85e82f114ac210dab67d2c69b77d8&scene=0#rd)  
 - [2025-01-23-【早阅】MTO：最佳目标达成策略](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275537&idx=1&sn=c93b074ba181143aaeca61a9b5fdcb8d&chksm=bca02a58c4d250c4e8b1802f1032cd37e29528f385f5b05856e3d3d61cd0b713af503a5ba9cb&scene=0#rd)  
 - [2025-01-22-【早阅】Chrome-133+-全新-DOM-操作方法：moveBefore](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275496&idx=1&sn=da3eb308cc9a292431857ed043bdc6e5&chksm=bc795033017a8db3f5ab9ff3ba0a2f3951931f8e523f3a5588e759173162def8675d9bd280fd&scene=0#rd)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/) ![](/assets/new.png)  
 - [2025-01-22-JS原生的深拷贝API-structuredClone函数简介](https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/)  
 - [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
@@ -529,7 +530,6 @@
 - [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)  
 - [2024-09-26-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
 - [2024-09-19-实用的JS对象分组静态方法Object.groupBy](https://www.zhangxinxu.com/wordpress/2024/09/js-object-groupby/)  
-- [2024-09-13-好消息，align-content垂直居中也适用普通元素啦](https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

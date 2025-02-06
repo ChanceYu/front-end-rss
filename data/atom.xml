@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-06T04:14:45.050Z</updated>
+    <updated>2025-02-06T14:11:22.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <published>2025-02-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create React App被官方弃用！该如何搭建新的 React 项目？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525173&amp;idx=1&amp;sn=60829d29ef746c4f93c301eecce9b869&amp;chksm=f99265e4cee5ecf275a391101b43c3bdeaa554a444d84ea44ed30716a6309fd900774acce291#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[webpack构建优化：优化 CDN 上传 篇]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525034&amp;idx=2&amp;sn=3d77cf86a2683c52eaa6975ca8869323&amp;chksm=f992647bcee5ed6d3f1fd403e1a99cf229d4af019754f4d213e123d043f21327417a9b723c7c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525034&amp;idx=2&amp;sn=3d77cf86a2683c52eaa6975ca8869323&amp;chksm=f992647bcee5ed6d3f1fd403e1a99cf229d4af019754f4d213e123d043f21327417a9b723c7c#rd"/>
-        <updated>2025-01-12T00:00:00.000Z</updated>
-        <published>2025-01-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】2025 年的 React + AI 技术栈]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275365&amp;idx=1&amp;sn=8c9e078676080802934a1c26593da4fe&amp;chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275365&amp;idx=1&amp;sn=8c9e078676080802934a1c26593da4fe&amp;chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&amp;scene=0#rd"/>
         <updated>2025-01-12T00:00:00.000Z</updated>
         <published>2025-01-12T00:00:00.000Z</published>
     </entry>
