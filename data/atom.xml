@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-07T10:11:02.869Z</updated>
+    <updated>2025-02-07T16:14:03.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3452期】React 开发中使用开闭原则]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275553&amp;idx=1&amp;sn=1c788c14e60702c3fe2eee866137dfd7&amp;chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275553&amp;idx=1&amp;sn=1c788c14e60702c3fe2eee866137dfd7&amp;chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&amp;scene=0#rd"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <published>2025-02-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
+        <id>https://javascriptweekly.com/issues/722</id>
+        <link href="https://javascriptweekly.com/issues/722"/>
         <updated>2025-02-07T00:00:00.000Z</updated>
         <published>2025-02-07T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[分析组件的渲染时间]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525046&amp;idx=2&amp;sn=6d5bb4a1517272769957352723583822&amp;chksm=f9926467cee5ed71941a6d63d09cf0283f5de8577296a66ee5d7d69712b62b90f96104e1c688#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525046&amp;idx=2&amp;sn=6d5bb4a1517272769957352723583822&amp;chksm=f9926467cee5ed71941a6d63d09cf0283f5de8577296a66ee5d7d69712b62b90f96104e1c688#rd"/>
-        <updated>2025-01-13T00:00:00.000Z</updated>
-        <published>2025-01-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3446期】Midscene.js：AI 驱动的 UI 自动化框架]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275369&amp;idx=1&amp;sn=eba0ba825df528d9b41eb0cfe364a80a&amp;chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275369&amp;idx=1&amp;sn=eba0ba825df528d9b41eb0cfe364a80a&amp;chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&amp;scene=0#rd"/>
         <updated>2025-01-13T00:00:00.000Z</updated>
         <published>2025-01-13T00:00:00.000Z</published>
     </entry>

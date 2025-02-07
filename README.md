@@ -12,12 +12,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-07 18:11:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-08 00:14:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -28,9 +28,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -76,6 +76,7 @@
 </summary>
 
 
+- [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722) ![](/assets/new.png)  
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
 - [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
@@ -95,7 +96,6 @@
 - [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
 - [2024-09-12-The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)  
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
-- [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -417,7 +417,7 @@
 </summary>
 
 
-- [2025-02-06-Create-React-App-被-React-官方弃用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517008&idx=1&sn=413bef321934cae6b17a059c42fc9be9&chksm=eb07bb29dc70323f78ca96ab9358eafae108d8cd422f442e1bab06073fc638eb5ee05ac9a567#rd) ![](/assets/new.png)  
+- [2025-02-06-Create-React-App-被-React-官方弃用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517008&idx=1&sn=413bef321934cae6b17a059c42fc9be9&chksm=eb07bb29dc70323f78ca96ab9358eafae108d8cd422f442e1bab06073fc638eb5ee05ac9a567#rd)  
 - [2025-01-23-Tailwind-CSS-4.0-正式发布：全球最火的CSS框架！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517005&idx=1&sn=83e967672b184e7b0925010f633b94fd&chksm=eb07bb34dc703222ccf390c3da3fe032111e9c4fd4b62a7921a6c344f9b588b36d3691e94901#rd)  
 - [2025-01-22-前端架构师应该如何成熟的思考项目重构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517002&idx=1&sn=9cd60e050d3d3ad8ee703922d2822baf&chksm=eb07bb33dc70322520a697859662ac99514a0c1e92259e4efdd830f04ebddc3a6b736bb166a2#rd)  
 - [2025-01-21-页面出-bug，短时间内快速定位到关键代码的神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516999&idx=1&sn=2775522bc6387badf6024362adcf462e&chksm=eb07bb3edc7032283e71199c0b87294526e2431916ecc6f450b5329e623832edf7e6745c8b14#rd)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2025-02-07-高质量编写非功能性代码的一些实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537905&idx=1&sn=72acddea58b8cab7afff1fcb77a6e914&chksm=839737a9b4e0bebfb785f0ea090e027a6d47c61c73bcdcdd2c91e610291f0ca721ceb8517da9#rd) ![](/assets/new.png)  
+- [2025-02-07-高质量编写非功能性代码的一些实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537905&idx=1&sn=72acddea58b8cab7afff1fcb77a6e914&chksm=839737a9b4e0bebfb785f0ea090e027a6d47c61c73bcdcdd2c91e610291f0ca721ceb8517da9#rd)  
 - [2025-02-05-淘天业务技术2024年度热门文章盘点](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537891&idx=1&sn=ef07946fca78b1bc43e59fa1bdba68b4&chksm=839737bbb4e0beadd4c89d78e19928e17f9763c4ed5802dc3b7c27c60eec9e9713cbfa421b39#rd)  
 - [2025-01-24-MktAI助理：数据与AI结合的营销效率提升利器](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537881&idx=1&sn=18be768b745356f0a57335400d9cef4f&chksm=83973781b4e0be97287ea5cb5a210d3200cd5de521c745a4aecba5b0690feaa7258d36152900#rd)  
 - [2025-01-22-2025-AI展望：Scaling-Law新叙事加速AI变革](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537794&idx=1&sn=3d48924bf3f5fcd3f1ed4813475e01f0&chksm=8397375ab4e0be4c6430f61256691b58f897a57041e0c74be8601a7c6bf3036c2c6a9f7eba39#rd)  
