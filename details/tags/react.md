@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-07 16:13:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-07 18:11:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -616,6 +616,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2025-02-06-Create-React-App-被-React-官方弃用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517008&idx=1&sn=413bef321934cae6b17a059c42fc9be9&chksm=eb07bb29dc70323f78ca96ab9358eafae108d8cd422f442e1bab06073fc638eb5ee05ac9a567#rd) 
 - [2024-12-10-最新开源：超强的-React-性能测试工具！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516907&idx=2&sn=e41c22244d648fce60e40b5ac2558bdf&chksm=eb07ba92dc7033847aee0ab7f05c2110defe9da93e90dedcc58fb0925b1f7755526ea8fa60b9#rd) 
 - [2024-12-09-React-19-稳定版，它终于来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516890&idx=1&sn=d76d0b6acc0b35811eff806d71a19f61&chksm=eb07baa3dc7033b5a7ed67052f4ceb05c4591757931fdaa3b4d6738d23cc79db966cb50dbcd0#rd) 
 - [2024-12-05-React-Diff-算法的源码应该怎么读](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516868&idx=1&sn=c17857ddad0582ab57f07f3a0022c452&chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd) 
