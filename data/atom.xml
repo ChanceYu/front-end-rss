@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-08T18:10:58.211Z</updated>
+    <updated>2025-02-08T22:08:05.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[看破一道百度面题：正则表达式如何实现JS模板编译]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525207&amp;idx=2&amp;sn=0fbd892e7faa62c49204add87473e4f5&amp;chksm=f9926586cee5ec90b104ab40b5d8497523ffa2639267e1aaca664be9335a00cfdaa9543f2cdf#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525207&amp;idx=2&amp;sn=0fbd892e7faa62c49204add87473e4f5&amp;chksm=f9926586cee5ec90b104ab40b5d8497523ffa2639267e1aaca664be9335a00cfdaa9543f2cdf#rd"/>
+        <updated>2025-02-08T00:00:00.000Z</updated>
+        <published>2025-02-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端最重要的几个 Observer，缺一不可！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502459&amp;idx=1&amp;sn=e997f6c8f25e36f3202f5cc38a1a0850&amp;chksm=ce45dfeaf93256fc6b02abbedeba5c57c6dd85e8f1a9713795ea7f970aefd31bb03664e8a71c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502459&amp;idx=1&amp;sn=e997f6c8f25e36f3202f5cc38a1a0850&amp;chksm=ce45dfeaf93256fc6b02abbedeba5c57c6dd85e8f1a9713795ea7f970aefd31bb03664e8a71c#rd"/>
         <updated>2025-02-08T00:00:00.000Z</updated>
         <published>2025-02-08T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502150&amp;idx=1&amp;sn=f2fd2ac86353297faf81db9c0b260bb3&amp;chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd"/>
         <updated>2025-01-15T00:00:00.000Z</updated>
         <published>2025-01-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何手搓SVG半圆弧，手把手教程]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/"/>
-        <updated>2025-01-14T00:00:00.000Z</updated>
-        <published>2025-01-14T00:00:00.000Z</published>
     </entry>
 </feed>

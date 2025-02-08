@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-09 02:10:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-09 06:08:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -91,6 +91,7 @@
 - [2019-01-03-开发速度快10倍！Airbnb用GraphQL+Apollo做到了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490217&idx=1&sn=90be3a029c34bb5422c9c249e0e8cf61#wechat_redirect) 
 - [2018-11-07-Linux基金会宣布将为GraphQL成立基金会](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489818&idx=1&sn=df146bf0240c23712ea518b9281dc4a6#wechat_redirect) 
 - [2018-10-25-gRPC-Web发布，REST又要被干掉了？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489750&idx=1&sn=8f374f60600e8cbe15e6749a6555f697#wechat_redirect) 
+- [2025-02-08-前端最重要的几个-Observer，缺一不可！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502459&idx=1&sn=e997f6c8f25e36f3202f5cc38a1a0850&chksm=ce45dfeaf93256fc6b02abbedeba5c57c6dd85e8f1a9713795ea7f970aefd31bb03664e8a71c#rd) 
 - [2022-11-12-快用上PerformanceObserver，别再手动计算首屏时间了](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487346&idx=1&sn=0d830534b6d346e839799f05404a0f92&chksm=ce461ae3f93193f5f340c6a9928bc904c585e076230aa447c0e71af92462e3ede3c71d2b09ef#rd) 
 - [2022-07-04-神奇的IntersectionObserver](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486468&idx=1&sn=ac8adcfc82af35ff806acd10a7bc5fb5&chksm=ce461995f9319083cb213e353efcaa355cd6ab16ce3089ee7504059cef40aa00e304302e5db6#rd) 
 - [2022-03-21-不懂SSR做什么高级前端开发？3天搞定面试加分项！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247485935&idx=1&sn=af9624501f717ae74280d782aae56942&chksm=ce461c7ef931956853990414386c01602bbec70f978bb4e30ff6711b3e79a4404852deafe45f#rd) 
