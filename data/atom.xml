@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-08T22:08:05.703Z</updated>
+    <updated>2025-02-09T20:09:29.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[前端最重要的几个 Observer，缺一不可！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502459&amp;idx=1&amp;sn=e997f6c8f25e36f3202f5cc38a1a0850&amp;chksm=ce45dfeaf93256fc6b02abbedeba5c57c6dd85e8f1a9713795ea7f970aefd31bb03664e8a71c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502459&amp;idx=1&amp;sn=e997f6c8f25e36f3202f5cc38a1a0850&amp;chksm=ce45dfeaf93256fc6b02abbedeba5c57c6dd85e8f1a9713795ea7f970aefd31bb03664e8a71c#rd"/>
+        <updated>2025-02-08T00:00:00.000Z</updated>
+        <published>2025-02-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React+AI 技术栈（2025 版）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621804&amp;idx=1&amp;sn=9d112b2dbbc451f0ad0df2e57da6935b&amp;chksm=80225e6db755d77b38c8f6eb6ba7e22f46de07047dd5acae73c1ccc3077522d218fe8a508e4c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621804&amp;idx=1&amp;sn=9d112b2dbbc451f0ad0df2e57da6935b&amp;chksm=80225e6db755d77b38c8f6eb6ba7e22f46de07047dd5acae73c1ccc3077522d218fe8a508e4c#rd"/>
         <updated>2025-02-08T00:00:00.000Z</updated>
         <published>2025-02-08T00:00:00.000Z</published>
     </entry>
@@ -74,6 +81,13 @@
         <title type="html"><![CDATA[React+AI 技术栈（2025 版）]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=1&amp;sn=e32ac714ca6d72ac50cb4fb13f836bf9&amp;chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=1&amp;sn=e32ac714ca6d72ac50cb4fb13f836bf9&amp;chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd"/>
+        <updated>2025-02-06T00:00:00.000Z</updated>
+        <published>2025-02-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create React App被官方弃用！该如何搭建新的 React 项目？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621772&amp;idx=1&amp;sn=0a9b08ad6479b099aae73259f64c879f&amp;chksm=80225e4db755d75b99d0d8e7fb6a6da2f125bcc73c51fe9f3d23f38d9d5c121e83e06a46769f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621772&amp;idx=1&amp;sn=0a9b08ad6479b099aae73259f64c879f&amp;chksm=80225e4db755d75b99d0d8e7fb6a6da2f125bcc73c51fe9f3d23f38d9d5c121e83e06a46769f#rd"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <published>2025-02-06T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275428&amp;idx=1&amp;sn=d21c956f30c4eba563968fb770ded268&amp;chksm=bcf30828eec522fad35db438daa0bd24697fc5dce0c3ea6d1b69c2428cad761e02c5b6175684&amp;scene=0#rd"/>
         <updated>2025-01-16T00:00:00.000Z</updated>
         <published>2025-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端体验优化之渐进式图片]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525062&amp;idx=1&amp;sn=f5630bf08cb7ade421a29337124b0aba&amp;chksm=f9926417cee5ed01bb8ace0f9aa6bb07a217fdaf25544e6030752e0f063e33ab2e5ba17cbe6c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525062&amp;idx=1&amp;sn=f5630bf08cb7ade421a29337124b0aba&amp;chksm=f9926417cee5ed01bb8ace0f9aa6bb07a217fdaf25544e6030752e0f063e33ab2e5ba17cbe6c#rd"/>
-        <updated>2025-01-15T00:00:00.000Z</updated>
-        <published>2025-01-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来了来了！ Vue 有史以来最鸡肋的 API 它来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502150&amp;idx=1&amp;sn=f2fd2ac86353297faf81db9c0b260bb3&amp;chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502150&amp;idx=1&amp;sn=f2fd2ac86353297faf81db9c0b260bb3&amp;chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd"/>
-        <updated>2025-01-15T00:00:00.000Z</updated>
-        <published>2025-01-15T00:00:00.000Z</published>
     </entry>
 </feed>
