@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-10T14:10:19.922Z</updated>
+    <updated>2025-02-10T16:12:25.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【开源】TinyEngine开启新篇章，服务端Java版本正式开源~]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275628&amp;idx=1&amp;sn=01de0433f45c373e43b87b0cab7b2902&amp;chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275628&amp;idx=1&amp;sn=01de0433f45c373e43b87b0cab7b2902&amp;chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&amp;scene=0#rd"/>
         <updated>2025-02-10T00:00:00.000Z</updated>
         <published>2025-02-10T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/719"/>
         <updated>2025-01-17T00:00:00.000Z</updated>
         <published>2025-01-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[setTimeout 定时器，根本就不准时呀！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525072&amp;idx=2&amp;sn=914d74a7ed53c4dd997de82108933788&amp;chksm=f9926401cee5ed178c9f059f001787b54bd82141e20aed6eb26ce0a56193f68e36e861ba7361#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525072&amp;idx=2&amp;sn=914d74a7ed53c4dd997de82108933788&amp;chksm=f9926401cee5ed178c9f059f001787b54bd82141e20aed6eb26ce0a56193f68e36e861ba7361#rd"/>
-        <updated>2025-01-16T00:00:00.000Z</updated>
-        <published>2025-01-16T00:00:00.000Z</published>
     </entry>
 </feed>

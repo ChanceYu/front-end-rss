@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-10 22:10:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-11 00:12:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -9,6 +9,7 @@
 
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
+- [2025-02-10-【开源】TinyEngine开启新篇章，服务端Java版本正式开源~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=1&sn=01de0433f45c373e43b87b0cab7b2902&chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&scene=0#rd) 
 - [2023-12-07-【第3134期】从历史的角度探讨多种SSR（Server-side-rendering）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267839&idx=1&sn=55328037a00e0800805671a04f70c2e6&chksm=bd48fb7b8a3f726dff096eda3c2ecbb3d70da5641a9c45cf8ccdb49779149233076027ad7bb7#rd) 
 - [2023-09-18-【图书】Rust程序设计（第2版）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265904&idx=2&sn=1a6d6e2649bd728c2d7c136ffeb41f18&chksm=bd48c2f48a3f4be2188d5871df192676f01307cf5834262a31d81fef40781c7d138232ca7a94#rd) 
 - [2023-07-08-【第2992期】基于-Nginx-实现一个灰度上线系统](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263717&idx=1&sn=b34dd1edd4c089102ecc683c00bf18d8&chksm=bd48cb618a3f4277d610cf290d037a4a60ab5d5b7b5af4a434c916424ee38ddcd3999df7f23c#rd) 
