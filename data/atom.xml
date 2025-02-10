@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-10T10:11:38.477Z</updated>
+    <updated>2025-02-10T14:10:19.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
+        <updated>2025-02-10T00:00:00.000Z</updated>
+        <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 最实用的 10 种设计模式和应用场景]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502483&amp;idx=1&amp;sn=1ae6991a00ed9fe1a089099764be4d03&amp;chksm=ce45df02f93256141a3598f689c4d3e78b0a8cdd98be09a93ab7a08e495c9520713d8c0f5d56#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[setTimeout 定时器，根本就不准时呀！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525072&amp;idx=2&amp;sn=914d74a7ed53c4dd997de82108933788&amp;chksm=f9926401cee5ed178c9f059f001787b54bd82141e20aed6eb26ce0a56193f68e36e861ba7361#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525072&amp;idx=2&amp;sn=914d74a7ed53c4dd997de82108933788&amp;chksm=f9926401cee5ed178c9f059f001787b54bd82141e20aed6eb26ce0a56193f68e36e861ba7361#rd"/>
-        <updated>2025-01-16T00:00:00.000Z</updated>
-        <published>2025-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[setTimeout 定时器，根本就不准时呀！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502153&amp;idx=1&amp;sn=20876cfb02d22de2d6ddce840d781fe8&amp;chksm=ce45dcd8f93255ce777a4fe4d5d7eca507d9f878f5470adca4e7a934855f42ea2229dad1e180#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502153&amp;idx=1&amp;sn=20876cfb02d22de2d6ddce840d781fe8&amp;chksm=ce45dcd8f93255ce777a4fe4d5d7eca507d9f878f5470adca4e7a934855f42ea2229dad1e180#rd"/>
         <updated>2025-01-16T00:00:00.000Z</updated>
         <published>2025-01-16T00:00:00.000Z</published>
     </entry>
