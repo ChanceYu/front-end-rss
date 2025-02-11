@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-02-11 06:09:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-12 00:12:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
 
 
 
+- [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) 
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559) 
 - [2024-07-02-Taming-event-loop-lag](https://nodeweekly.com/issues/538) 
 - [2024-06-11-Leaky-timeouts](https://nodeweekly.com/issues/535) 

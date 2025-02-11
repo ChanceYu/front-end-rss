@@ -12,11 +12,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-11 06:09:30，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-12 00:12:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -27,7 +27,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -45,6 +45,7 @@
 </summary>
 
 
+- [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) ![](/assets/new.png)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
@@ -64,7 +65,6 @@
 - [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)  
 - [2024-09-17-Tough-cookies](https://nodeweekly.com/issues/548)  
 - [2024-09-10-Express.js-5.0](https://nodeweekly.com/issues/547)  
-- [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -386,8 +386,8 @@
 </summary>
 
 
-- [2025-02-10-Windows用户福音！免费跑联网满血版DeepSeek方案实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500814&idx=1&sn=8a84e9dcb5d344a951fda46789d2bc25&chksm=c2b305f1f5c48ce785f7681d7e4683f026ffe64028566c37c90c73198afb6ea2e5974c474b80#rd) ![](/assets/new.png)  
-- [2025-02-09-DeepSeek-进阶指南，组合-8-款-AI-神器保姆级图解教程（附提示词库）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500783&idx=1&sn=235f492ab3f0602f9f9063ce6d76af28&chksm=c2b30210f5c48b06f67ca3117f45d78882c39124a9c31fe374a3a498cbdbf0ebfad30f6ed00f#rd) ![](/assets/new.png)  
+- [2025-02-10-Windows用户福音！免费跑联网满血版DeepSeek方案实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500814&idx=1&sn=8a84e9dcb5d344a951fda46789d2bc25&chksm=c2b305f1f5c48ce785f7681d7e4683f026ffe64028566c37c90c73198afb6ea2e5974c474b80#rd)  
+- [2025-02-09-DeepSeek-进阶指南，组合-8-款-AI-神器保姆级图解教程（附提示词库）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500783&idx=1&sn=235f492ab3f0602f9f9063ce6d76af28&chksm=c2b30210f5c48b06f67ca3117f45d78882c39124a9c31fe374a3a498cbdbf0ebfad30f6ed00f#rd)  
 - [2025-02-05-国家超算互联网正式上线DeepSeek，打造全民可及的智能基础设施](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500639&idx=1&sn=90138d82daf374031a44949a9a3a7d8e&chksm=c2b302a0f5c48bb674b54f9b045b44fae7d1bb5f06a67ce85394b38d45aa537128d9a5ba86ae#rd)  
 - [2025-02-03-国产AI搜索无缝对接DeepSeek，联网搜索永不掉线！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500624&idx=1&sn=91d7fce7313f75ed56c91e7b1a91193d&chksm=c2b302aff5c48bb95423db8e0b63dc3d2e265dfb4e91de356a2ee30e8ff7f7944e62ca7e34a1#rd)  
 - [2025-02-02-DeepSeek零门槛三步极速部署指南，注册秒过，对话零延迟！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500533&idx=1&sn=93587e9d930ab9cd38243bfa66e85e89&chksm=c2b3030af5c48a1cbd5373e39f1c15f188d5bbf2b61d1efbe1d392788aad372615db039e632b#rd)  
