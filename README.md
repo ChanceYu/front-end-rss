@@ -12,13 +12,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-12 00:12:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-12 02:11:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -45,7 +45,7 @@
 </summary>
 
 
-- [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) ![](/assets/new.png)  
+- [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
@@ -107,8 +107,9 @@
 </summary>
 
 
-- [2025-02-10-【招聘】抖音集团番茄小说团队招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=2&sn=51b75c4dd40f573ec0219bed02b82a82&chksm=bc9a0400290719999249c9bdb72dfbc2293e16408969f288e43d7b071f9232e66221df7814e3&scene=0#rd)  
+- [2025-02-11-【第3454期】如何用语音学习编程的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275634&idx=1&sn=ae4d002d871aed97499e8b9a548d16fa&chksm=bcb8331b4418903b8a87f302304059e641eada184f3e3b8dc741d0755d43dfc86d35dff42935&scene=0#rd) ![](/assets/new.png)  
 - [2025-02-10-【开源】TinyEngine开启新篇章，服务端Java版本正式开源~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=1&sn=01de0433f45c373e43b87b0cab7b2902&chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&scene=0#rd)  
+- [2025-02-10-【招聘】抖音集团番茄小说团队招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=2&sn=51b75c4dd40f573ec0219bed02b82a82&chksm=bc9a0400290719999249c9bdb72dfbc2293e16408969f288e43d7b071f9232e66221df7814e3&scene=0#rd)  
 - [2025-02-08-【第3453期】圈复杂度在转转前端质量体系中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275563&idx=1&sn=9ee8ea58e3b96294cdfdc27b6ac5fdc7&chksm=bc968c3dd28f6e03bee1b6050f7d0b782d69c7e04473587a197078c5bb34081a1c35ebc00f3e&scene=0#rd)  
 - [2025-02-07-【第3452期】React-开发中使用开闭原则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275553&idx=1&sn=1c788c14e60702c3fe2eee866137dfd7&chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&scene=0#rd)  
 - [2025-02-06-【第3451期】前端-TypeError-错误永久消失术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275546&idx=1&sn=8499a4bfffa5eea60751e53d6c8a8dc1&chksm=bcc307ad8f3d6d3db78f14de6f809cf72b9c896d4d86d3ac1a9db1081ffecb5f016943d7486a&scene=0#rd)  
@@ -122,11 +123,10 @@
 - [2025-01-17-【第3448期】Build-System-视角：重新认识前端打包工具的设计哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275468&idx=1&sn=9f67e4a4725aa1e6619c568150a4ea65&chksm=bc5c49fa846d95a2f3b267ba498061f5136758638c4ea9fb277a3fee97b9cf97e0b276cefae4&scene=0#rd)  
 - [2025-01-16-【第3447期】商业化大前端在性能优化领域的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275428&idx=1&sn=d21c956f30c4eba563968fb770ded268&chksm=bcf30828eec522fad35db438daa0bd24697fc5dce0c3ea6d1b69c2428cad761e02c5b6175684&scene=0#rd)  
 - [2025-01-15-【早阅】在-AI-时代如何成为资深工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275390&idx=1&sn=a92a7a452dc9e2406facdfa382411aa4&chksm=bc7d44682e8b640d85947767bf81c7954d710be1c440edc69ab3cb1a01f6c5e210aee77d5e98&scene=0#rd)  
-- [2025-01-14-【早阅】Dropbox-工程师职业发展框架：什么是影响力？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=1&sn=9f037465c461533993fecaf37ccaf2ee&chksm=bc7a3761f33d228e39ae320ccd19bad2a8bc5c7632da817acce38443e3c4074fd466193c0c39&scene=0#rd)  
 - [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
+- [2025-01-14-【早阅】Dropbox-工程师职业发展框架：什么是影响力？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=1&sn=9f037465c461533993fecaf37ccaf2ee&chksm=bc7a3761f33d228e39ae320ccd19bad2a8bc5c7632da817acce38443e3c4074fd466193c0c39&scene=0#rd)  
 - [2025-01-13-【第3446期】Midscene.js：AI-驱动的-UI-自动化框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275369&idx=1&sn=eba0ba825df528d9b41eb0cfe364a80a&chksm=bcfcc07f7e35428170beb2a2c5ebe0960b8be9f7a8360c3d60aa980e186a2462c36f39e89ec7&scene=0#rd)  
 - [2025-01-12-【早阅】2025-年的-React-+-AI-技术栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275365&idx=1&sn=8c9e078676080802934a1c26593da4fe&chksm=bc54925efa8a967c02272501a2919bcf42a0b6c13999203e1840a2a0874e9319444c1dd9fef7&scene=0#rd)  
-- [2025-01-11-【早阅】2025-年-CSS-愿望清单](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275323&idx=1&sn=e52f5afb8e6d6833ed1eb7c8c0cc1b3f&chksm=bceb576e6fb75c0e67d9685453294547d0beaa9208cb0946d03127f3e3e72bfdd0cac0260cec&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
