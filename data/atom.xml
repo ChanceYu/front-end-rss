@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-11T18:11:57.480Z</updated>
+    <updated>2025-02-11T20:10:37.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,20 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275628&amp;idx=1&amp;sn=01de0433f45c373e43b87b0cab7b2902&amp;chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&amp;scene=0#rd"/>
         <updated>2025-02-10T00:00:00.000Z</updated>
         <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 5.8 Beta震撼发布：Node开发者的一次重要更新！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525231&amp;idx=2&amp;sn=83ff629050761cb36087f67deec10ba5&amp;chksm=f99265becee5eca87c11e8dc1b6efb5b59a0f25e2d5eb9558b3291d4d7458107e2652dc2e335#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525231&amp;idx=2&amp;sn=83ff629050761cb36087f67deec10ba5&amp;chksm=f99265becee5eca87c11e8dc1b6efb5b59a0f25e2d5eb9558b3291d4d7458107e2652dc2e335#rd"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <published>2025-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪推荐的全新Vue动画库！真酷]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525231&amp;idx=1&amp;sn=e5b272d5f95280aeaf2de28653f1aba9&amp;chksm=f99265becee5eca87171bf02dd6289a194b81df3ba47923e617bda7227a0eda54240c28f2a06#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525231&amp;idx=1&amp;sn=e5b272d5f95280aeaf2de28653f1aba9&amp;chksm=f99265becee5eca87171bf02dd6289a194b81df3ba47923e617bda7227a0eda54240c28f2a06#rd"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <published>2025-02-09T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 最实用的 10 种设计模式和应用场景]]></title>
@@ -92,16 +106,16 @@
         <published>2025-02-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025，重新认识 HTML！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=2&amp;sn=e5bb777fc780030f4987778bd3d14637&amp;chksm=f99265eecee5ecf8ca510d0badf88aab9517a57c21e64e056993b6dafdbfe8dab4ecd581d58c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=2&amp;sn=e5bb777fc780030f4987778bd3d14637&amp;chksm=f99265eecee5ecf8ca510d0badf88aab9517a57c21e64e056993b6dafdbfe8dab4ecd581d58c#rd"/>
+        <title type="html"><![CDATA[React+AI 技术栈（2025 版）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=1&amp;sn=e32ac714ca6d72ac50cb4fb13f836bf9&amp;chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=1&amp;sn=e32ac714ca6d72ac50cb4fb13f836bf9&amp;chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <published>2025-02-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React+AI 技术栈（2025 版）]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=1&amp;sn=e32ac714ca6d72ac50cb4fb13f836bf9&amp;chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=1&amp;sn=e32ac714ca6d72ac50cb4fb13f836bf9&amp;chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd"/>
+        <title type="html"><![CDATA[2025，重新认识 HTML！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=2&amp;sn=e5bb777fc780030f4987778bd3d14637&amp;chksm=f99265eecee5ecf8ca510d0badf88aab9517a57c21e64e056993b6dafdbfe8dab4ecd581d58c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=2&amp;sn=e5bb777fc780030f4987778bd3d14637&amp;chksm=f99265eecee5ecf8ca510d0badf88aab9517a57c21e64e056993b6dafdbfe8dab4ecd581d58c#rd"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <published>2025-02-06T00:00:00.000Z</published>
     </entry>
@@ -169,16 +183,16 @@
         <published>2025-01-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 133+ 全新 DOM 操作方法：moveBefore]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=1&amp;sn=7ad55450d51d065ddb939a1fdebff18e&amp;chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=1&amp;sn=7ad55450d51d065ddb939a1fdebff18e&amp;chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd"/>
+        <title type="html"><![CDATA[全面解读 ShadCN UI：揭秘复制粘贴的组件库如何重新定义开发体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd"/>
         <updated>2025-01-24T00:00:00.000Z</updated>
         <published>2025-01-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全面解读 ShadCN UI：揭秘复制粘贴的组件库如何重新定义开发体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd"/>
+        <title type="html"><![CDATA[Chrome 133+ 全新 DOM 操作方法：moveBefore]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=1&amp;sn=7ad55450d51d065ddb939a1fdebff18e&amp;chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=1&amp;sn=7ad55450d51d065ddb939a1fdebff18e&amp;chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd"/>
         <updated>2025-01-24T00:00:00.000Z</updated>
         <published>2025-01-24T00:00:00.000Z</published>
     </entry>
@@ -309,16 +323,16 @@
         <published>2025-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[面试官：在Node.js中创建线程的都有哪几种方法？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=1&amp;sn=7b06050ea662ac36da9364e4a26c2e45&amp;chksm=f992643acee5ed2c77a274bef610456307917fa3a2ab46262978dc135f6b7ddcef6d43e2f992#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=1&amp;sn=7b06050ea662ac36da9364e4a26c2e45&amp;chksm=f992643acee5ed2c77a274bef610456307917fa3a2ab46262978dc135f6b7ddcef6d43e2f992#rd"/>
+        <title type="html"><![CDATA[什么,你还不会调试线上 Vue 组件?]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=2&amp;sn=46bdf859ec836cc0af14f6d965edfef2&amp;chksm=f992643acee5ed2c64c5124bc7506e0af6886900c48210b5403b3ebea222934e4c9a0b4fd5f1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=2&amp;sn=46bdf859ec836cc0af14f6d965edfef2&amp;chksm=f992643acee5ed2c64c5124bc7506e0af6886900c48210b5403b3ebea222934e4c9a0b4fd5f1#rd"/>
         <updated>2025-01-18T00:00:00.000Z</updated>
         <published>2025-01-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[什么,你还不会调试线上 Vue 组件?]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=2&amp;sn=46bdf859ec836cc0af14f6d965edfef2&amp;chksm=f992643acee5ed2c64c5124bc7506e0af6886900c48210b5403b3ebea222934e4c9a0b4fd5f1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=2&amp;sn=46bdf859ec836cc0af14f6d965edfef2&amp;chksm=f992643acee5ed2c64c5124bc7506e0af6886900c48210b5403b3ebea222934e4c9a0b4fd5f1#rd"/>
+        <title type="html"><![CDATA[面试官：在Node.js中创建线程的都有哪几种方法？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=1&amp;sn=7b06050ea662ac36da9364e4a26c2e45&amp;chksm=f992643acee5ed2c77a274bef610456307917fa3a2ab46262978dc135f6b7ddcef6d43e2f992#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525099&amp;idx=1&amp;sn=7b06050ea662ac36da9364e4a26c2e45&amp;chksm=f992643acee5ed2c77a274bef610456307917fa3a2ab46262978dc135f6b7ddcef6d43e2f992#rd"/>
         <updated>2025-01-18T00:00:00.000Z</updated>
         <published>2025-01-18T00:00:00.000Z</published>
     </entry>
@@ -337,13 +351,6 @@
         <published>2025-01-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[你为什么用不好TypeScript]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <published>2025-01-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[面试官：你自己配置过webpack吗？有哪些核心配置？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd"/>
@@ -351,16 +358,9 @@
         <published>2025-01-17T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024大前端趋势洞察：进化停滞与鸿蒙新契机]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525741&amp;idx=1&amp;sn=ac4c2a5f7fa8d4cdede36976e97f62d4&amp;chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525741&amp;idx=1&amp;sn=ac4c2a5f7fa8d4cdede36976e97f62d4&amp;chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <published>2025-01-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An introduction to building live collaborative JS apps]]></title>
-        <id>https://javascriptweekly.com/issues/719</id>
-        <link href="https://javascriptweekly.com/issues/719"/>
+        <title type="html"><![CDATA[你为什么用不好TypeScript]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd"/>
         <updated>2025-01-17T00:00:00.000Z</updated>
         <published>2025-01-17T00:00:00.000Z</published>
     </entry>
