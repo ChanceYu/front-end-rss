@@ -12,7 +12,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-12 20:17:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-12 22:10:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -21,7 +21,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -31,7 +31,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -200,8 +200,8 @@
 </summary>
 
 
-- [2025-02-12-这个国产技术的海外逆袭，太牛了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502510&idx=1&sn=100ebb48512c5cb4c527447c179627a3&chksm=ce45df3ff9325629ab9727abcf2939c7b10426c0f21bb2c8cc3d6ca596f56b033079aa91c829#rd) ![](/assets/new.png)  
-- [2025-02-11-Galacean-引擎-1.4-发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502504&idx=1&sn=78cf257b001192b1996ebb89d321970a&chksm=ce45df39f932562f8e8b9c14dc234639c49ef8dc3caa6910ea5c6a99bac970fcc871cd45879f#rd) ![](/assets/new.png)  
+- [2025-02-12-这个国产技术的海外逆袭，太牛了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502510&idx=1&sn=100ebb48512c5cb4c527447c179627a3&chksm=ce45df3ff9325629ab9727abcf2939c7b10426c0f21bb2c8cc3d6ca596f56b033079aa91c829#rd)  
+- [2025-02-11-Galacean-引擎-1.4-发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502504&idx=1&sn=78cf257b001192b1996ebb89d321970a&chksm=ce45df39f932562f8e8b9c14dc234639c49ef8dc3caa6910ea5c6a99bac970fcc871cd45879f#rd)  
 - [2025-02-10-年后，前端岗位爆了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502484&idx=1&sn=1eb7f2e0a7515520a0c0f5d640c09560&chksm=ce45df05f9325613cce8e764226165c0c97a71b3690d8b7e84d2d9dcece2c869636f28b2dc6c#rd)  
 - [2025-02-09-JavaScript-最实用的-10-种设计模式和应用场景](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502483&idx=1&sn=1ae6991a00ed9fe1a089099764be4d03&chksm=ce45df02f93256141a3598f689c4d3e78b0a8cdd98be09a93ab7a08e495c9520713d8c0f5d56#rd)  
 - [2025-02-08-前端最重要的几个-Observer，缺一不可！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502459&idx=1&sn=e997f6c8f25e36f3202f5cc38a1a0850&chksm=ce45dfeaf93256fc6b02abbedeba5c57c6dd85e8f1a9713795ea7f970aefd31bb03664e8a71c#rd)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/) ![](/assets/new.png)  
 - [2025-02-10-JS-Set新支持了intersection,-union,-difference等方法](https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/)  
 - [2025-02-06-JS-Array数组新的with方法，你知道作用吗？](https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/)  
 - [2025-01-22-JS原生的深拷贝API-structuredClone函数简介](https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/)  
@@ -529,7 +530,6 @@
 - [2024-10-31-Pixi.js中ColorMatrixFilter自带滤镜效果一览](https://www.zhangxinxu.com/wordpress/2024/10/pixi-js-colormatrixfilter/)  
 - [2024-10-24-Object.is/===、数组at/直接索引、substring/slice的区别](https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/)  
 - [2024-10-10-Nice!-Safari也支持CSS-@perporty规则了](https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/)  
-- [2024-09-26-时隔两年，Chrome也支持round等CSS数学函数了](https://www.zhangxinxu.com/wordpress/2024/09/css-math-round-function/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
