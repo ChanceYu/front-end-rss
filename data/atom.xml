@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-11T20:10:37.636Z</updated>
+    <updated>2025-02-12T02:41:41.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3455期】快手主站前端工程化探索：Gundam 脚手架在新春除夕项目中的实践与展望]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275642&amp;idx=1&amp;sn=018bc4e7394c4850d9d39785dced9329&amp;chksm=bcdaf875866d7000a1fb8d563ed8d78e579c7678e8cf2bb0e67d688ec8826759e038553e0da4&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275642&amp;idx=1&amp;sn=018bc4e7394c4850d9d39785dced9329&amp;chksm=bcdaf875866d7000a1fb8d563ed8d78e579c7678e8cf2bb0e67d688ec8826759e038553e0da4&amp;scene=0#rd"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <published>2025-02-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS Set新支持了intersection, union, difference等方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官：你自己配置过webpack吗？有哪些核心配置？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=2&amp;sn=59e10076692bd980b6d63636b8bfe4f9&amp;chksm=f992640dcee5ed1bdba313ee6d510da018ab5b1ee17a102100e2f2aa8ab9df164ad6b51fa3d0#rd"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <published>2025-01-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你为什么用不好TypeScript]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525084&amp;idx=1&amp;sn=75902108f9da9bb0ef631d9e742d5f81&amp;chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd"/>
         <updated>2025-01-17T00:00:00.000Z</updated>
         <published>2025-01-17T00:00:00.000Z</published>
     </entry>
