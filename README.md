@@ -12,14 +12,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-13 02:13:23，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-13 10:44:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -28,7 +28,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -107,11 +107,12 @@
 </summary>
 
 
-- [2025-02-12-【第3455期】快手主站前端工程化探索：Gundam-脚手架在新春除夕项目中的实践与展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275642&idx=1&sn=018bc4e7394c4850d9d39785dced9329&chksm=bcdaf875866d7000a1fb8d563ed8d78e579c7678e8cf2bb0e67d688ec8826759e038553e0da4&scene=0#rd)  
+- [2025-02-13-【早阅】始终将你的估算值乘以π](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275652&idx=1&sn=f0231c01968bf1dea1e3682b71997753&chksm=bc07fed5dba4be0d0b85d42ca7a8d4865248e9e90a1a5bc4bf83c4580e6e9c960cbbc95c10d4&scene=0#rd) ![](/assets/new.png)  
 - [2025-02-12-【招聘】字节跳动客服平台招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275642&idx=2&sn=6a89564d2f17d597eba3a129eb65d66b&chksm=bced00dab2a9489c589786c55932d07168d4e00817c6bd75f933db0bd2c49a80527e437d191a&scene=0#rd)  
+- [2025-02-12-【第3455期】快手主站前端工程化探索：Gundam-脚手架在新春除夕项目中的实践与展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275642&idx=1&sn=018bc4e7394c4850d9d39785dced9329&chksm=bcdaf875866d7000a1fb8d563ed8d78e579c7678e8cf2bb0e67d688ec8826759e038553e0da4&scene=0#rd)  
 - [2025-02-11-【第3454期】如何用语音学习编程的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275634&idx=1&sn=ae4d002d871aed97499e8b9a548d16fa&chksm=bcb8331b4418903b8a87f302304059e641eada184f3e3b8dc741d0755d43dfc86d35dff42935&scene=0#rd)  
-- [2025-02-10-【招聘】抖音集团番茄小说团队招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=2&sn=51b75c4dd40f573ec0219bed02b82a82&chksm=bc9a0400290719999249c9bdb72dfbc2293e16408969f288e43d7b071f9232e66221df7814e3&scene=0#rd)  
 - [2025-02-10-【开源】TinyEngine开启新篇章，服务端Java版本正式开源~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=1&sn=01de0433f45c373e43b87b0cab7b2902&chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&scene=0#rd)  
+- [2025-02-10-【招聘】抖音集团番茄小说团队招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=2&sn=51b75c4dd40f573ec0219bed02b82a82&chksm=bc9a0400290719999249c9bdb72dfbc2293e16408969f288e43d7b071f9232e66221df7814e3&scene=0#rd)  
 - [2025-02-08-【第3453期】圈复杂度在转转前端质量体系中的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275563&idx=1&sn=9ee8ea58e3b96294cdfdc27b6ac5fdc7&chksm=bc968c3dd28f6e03bee1b6050f7d0b782d69c7e04473587a197078c5bb34081a1c35ebc00f3e&scene=0#rd)  
 - [2025-02-07-【第3452期】React-开发中使用开闭原则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275553&idx=1&sn=1c788c14e60702c3fe2eee866137dfd7&chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&scene=0#rd)  
 - [2025-02-06-【第3451期】前端-TypeError-错误永久消失术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275546&idx=1&sn=8499a4bfffa5eea60751e53d6c8a8dc1&chksm=bcc307ad8f3d6d3db78f14de6f809cf72b9c896d4d86d3ac1a9db1081ffecb5f016943d7486a&scene=0#rd)  
@@ -125,7 +126,6 @@
 - [2025-01-17-【第3448期】Build-System-视角：重新认识前端打包工具的设计哲学](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275468&idx=1&sn=9f67e4a4725aa1e6619c568150a4ea65&chksm=bc5c49fa846d95a2f3b267ba498061f5136758638c4ea9fb277a3fee97b9cf97e0b276cefae4&scene=0#rd)  
 - [2025-01-16-【第3447期】商业化大前端在性能优化领域的探索与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275428&idx=1&sn=d21c956f30c4eba563968fb770ded268&chksm=bcf30828eec522fad35db438daa0bd24697fc5dce0c3ea6d1b69c2428cad761e02c5b6175684&scene=0#rd)  
 - [2025-01-15-【早阅】在-AI-时代如何成为资深工程师？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275390&idx=1&sn=a92a7a452dc9e2406facdfa382411aa4&chksm=bc7d44682e8b640d85947767bf81c7954d710be1c440edc69ab3cb1a01f6c5e210aee77d5e98&scene=0#rd)  
-- [2025-01-14-【早阅】Dropbox-工程师职业发展框架：什么是影响力？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=1&sn=9f037465c461533993fecaf37ccaf2ee&chksm=bc7a3761f33d228e39ae320ccd19bad2a8bc5c7632da817acce38443e3c4074fd466193c0c39&scene=0#rd)  
 - [2025-01-14-【招聘】上海仙蒂网络科技招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275378&idx=2&sn=d88c38736a62ba6d7ae88b853b69dcb2&chksm=bc8134564146335d7f4ea48fa173e7caf2b6c80f960cec0d5449d1efc6c64702e09e202f832e&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
@@ -138,8 +138,8 @@
 </summary>
 
 
-- [2025-02-12-10年了，开发人员仍然不明白-Electron-的意义](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621837&idx=1&sn=ef85ed8e0f10af32ecf552b6ba54c45f&chksm=80225e0cb755d71a7ca50849bb06ce92b615ec7b373560305b5eb249f3c5a4e2a5c3e8453143#rd) ![](/assets/new.png)  
-- [2025-02-11-从-DeepSeek-看25年前端的一个小趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621836&idx=1&sn=233993c9ac5f49d0dff9b3b6542cd17d&chksm=80225e0db755d71b17d2270689484872563485a4307fee8c101c7a393061e04d96ef6c974244#rd) ![](/assets/new.png)  
+- [2025-02-12-10年了，开发人员仍然不明白-Electron-的意义](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621837&idx=1&sn=ef85ed8e0f10af32ecf552b6ba54c45f&chksm=80225e0cb755d71a7ca50849bb06ce92b615ec7b373560305b5eb249f3c5a4e2a5c3e8453143#rd)  
+- [2025-02-11-从-DeepSeek-看25年前端的一个小趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621836&idx=1&sn=233993c9ac5f49d0dff9b3b6542cd17d&chksm=80225e0db755d71b17d2270689484872563485a4307fee8c101c7a393061e04d96ef6c974244#rd)  
 - [2025-02-10-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621813&idx=1&sn=964c0d374cbb8e350be8c57eb422f9a2&chksm=80225e74b755d7622399d42619f5e63c82b124684d7c5de1224945c7a1f773fb5efeb546ace6#rd)  
 - [2025-02-08-React+AI-技术栈（2025-版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621804&idx=1&sn=9d112b2dbbc451f0ad0df2e57da6935b&chksm=80225e6db755d77b38c8f6eb6ba7e22f46de07047dd5acae73c1ccc3077522d218fe8a508e4c#rd)  
 - [2025-02-07-真的建议所有前端立即拿下软考（红利期）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621783&idx=1&sn=e4115b1d4ec380f54103ffb3b3a426d4&chksm=80225e56b755d74003d50e15f3f04e6817dfc867f8dd96e3397da672a9d2302b4983af38fccb#rd)  
@@ -417,8 +417,8 @@
 </summary>
 
 
-- [2025-02-12-《我在腾讯这八年》1.-绩效考核内幕揭秘：天天加班到深夜，为什么还是拿不到五星？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517035&idx=1&sn=744eb62df1eca72160938d02f1020882&chksm=eb07bb12dc703204a891456871f091365c332b0463ed0eaf23d345acf6347b8e3e14ccef37d2#rd) ![](/assets/new.png)  
-- [2025-02-11-2025前端面试红黑榜：这10个Vue3考点，大厂已问麻了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517032&idx=1&sn=3fb06fcf78c4ed9986d0966679b85099&chksm=eb07bb11dc7032075a48dd409d485d1b19ef9fe9a05935256e7a02ad737ef73b179720a322f8#rd) ![](/assets/new.png)  
+- [2025-02-12-《我在腾讯这八年》1.-绩效考核内幕揭秘：天天加班到深夜，为什么还是拿不到五星？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517035&idx=1&sn=744eb62df1eca72160938d02f1020882&chksm=eb07bb12dc703204a891456871f091365c332b0463ed0eaf23d345acf6347b8e3e14ccef37d2#rd)  
+- [2025-02-11-2025前端面试红黑榜：这10个Vue3考点，大厂已问麻了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517032&idx=1&sn=3fb06fcf78c4ed9986d0966679b85099&chksm=eb07bb11dc7032075a48dd409d485d1b19ef9fe9a05935256e7a02ad737ef73b179720a322f8#rd)  
 - [2025-02-10-2025年了，令人唏嘘的Angular，现在怎么样了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517011&idx=1&sn=baee006656d398263ddcc42d6a9d6d83&chksm=eb07bb2adc70323ca9b58e85ae95c8d59e61bfbe48dce494ee069a8cb270e16f2c496f02f107#rd)  
 - [2025-02-06-Create-React-App-被-React-官方弃用！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517008&idx=1&sn=413bef321934cae6b17a059c42fc9be9&chksm=eb07bb29dc70323f78ca96ab9358eafae108d8cd422f442e1bab06073fc638eb5ee05ac9a567#rd)  
 - [2025-01-23-Tailwind-CSS-4.0-正式发布：全球最火的CSS框架！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517005&idx=1&sn=83e967672b184e7b0925010f633b94fd&chksm=eb07bb34dc703222ccf390c3da3fe032111e9c4fd4b62a7921a6c344f9b588b36d3691e94901#rd)  
