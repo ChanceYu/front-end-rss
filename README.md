@@ -12,16 +12,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-13 10:44:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-13 18:11:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -107,7 +107,7 @@
 </summary>
 
 
-- [2025-02-13-【早阅】始终将你的估算值乘以π](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275652&idx=1&sn=f0231c01968bf1dea1e3682b71997753&chksm=bc07fed5dba4be0d0b85d42ca7a8d4865248e9e90a1a5bc4bf83c4580e6e9c960cbbc95c10d4&scene=0#rd) ![](/assets/new.png)  
+- [2025-02-13-【早阅】始终将你的估算值乘以π](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275652&idx=1&sn=f0231c01968bf1dea1e3682b71997753&chksm=bc07fed5dba4be0d0b85d42ca7a8d4865248e9e90a1a5bc4bf83c4580e6e9c960cbbc95c10d4&scene=0#rd)  
 - [2025-02-12-【招聘】字节跳动客服平台招高级前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275642&idx=2&sn=6a89564d2f17d597eba3a129eb65d66b&chksm=bced00dab2a9489c589786c55932d07168d4e00817c6bd75f933db0bd2c49a80527e437d191a&scene=0#rd)  
 - [2025-02-12-【第3455期】快手主站前端工程化探索：Gundam-脚手架在新春除夕项目中的实践与展望](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275642&idx=1&sn=018bc4e7394c4850d9d39785dced9329&chksm=bcdaf875866d7000a1fb8d563ed8d78e579c7678e8cf2bb0e67d688ec8826759e038553e0da4&scene=0#rd)  
 - [2025-02-11-【第3454期】如何用语音学习编程的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275634&idx=1&sn=ae4d002d871aed97499e8b9a548d16fa&chksm=bcb8331b4418903b8a87f302304059e641eada184f3e3b8dc741d0755d43dfc86d35dff42935&scene=0#rd)  
@@ -200,6 +200,7 @@
 </summary>
 
 
+- [2025-02-13-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502606&idx=1&sn=968865807fa37f54b940c05affcec13f&chksm=ce45de9ff9325789067b903e0a4e3e9cb18023da3b6fc6580b3c8fd6b20e6b09e2fdc3f79583#rd) ![](/assets/new.png)  
 - [2025-02-12-这个国产技术的海外逆袭，太牛了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502510&idx=1&sn=100ebb48512c5cb4c527447c179627a3&chksm=ce45df3ff9325629ab9727abcf2939c7b10426c0f21bb2c8cc3d6ca596f56b033079aa91c829#rd)  
 - [2025-02-11-Galacean-引擎-1.4-发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502504&idx=1&sn=78cf257b001192b1996ebb89d321970a&chksm=ce45df39f932562f8e8b9c14dc234639c49ef8dc3caa6910ea5c6a99bac970fcc871cd45879f#rd)  
 - [2025-02-10-年后，前端岗位爆了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502484&idx=1&sn=1eb7f2e0a7515520a0c0f5d640c09560&chksm=ce45df05f9325613cce8e764226165c0c97a71b3690d8b7e84d2d9dcece2c869636f28b2dc6c#rd)  
@@ -219,7 +220,6 @@
 - [2025-01-17-前端行情回暖了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502162&idx=1&sn=8260b45592ac57a9a30521f409196340&chksm=ce45dcc3f93255d52b7b0fd2f2a96213591ccc2c09d017f4b90737bd0fdf03e6c350fdcf6580#rd)  
 - [2025-01-16-setTimeout-定时器，根本就不准时呀！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502153&idx=1&sn=20876cfb02d22de2d6ddce840d781fe8&chksm=ce45dcd8f93255ce777a4fe4d5d7eca507d9f878f5470adca4e7a934855f42ea2229dad1e180#rd)  
 - [2025-01-15-来了来了！-Vue-有史以来最鸡肋的-API-它来了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502150&idx=1&sn=f2fd2ac86353297faf81db9c0b260bb3&chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd)  
-- [2025-01-14-前端接私活的神器！提供了1500+免费的网页模板](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502121&idx=1&sn=08ed8c1b60185fc39c649a029b61b3b8&chksm=ce45dcb8f93255ae3064a5398b1750e80e242ff1f91cb04cbf273d36469f3601a15edc6a1d42#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
