@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-13T18:13:12.044Z</updated>
+    <updated>2025-02-14T02:27:56.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【3456期】7种在 JavaScript 中分解长任务的技术]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275671&amp;idx=1&amp;sn=ecac52e3548b722cf1e0e4b45a3cfe22&amp;chksm=bca72844877a78a162f6c58030da8521840a2cbd81ca8fdc0a1d962894bc276d3060a45d6977&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275671&amp;idx=1&amp;sn=ecac52e3548b722cf1e0e4b45a3cfe22&amp;chksm=bca72844877a78a162f6c58030da8521840a2cbd81ca8fdc0a1d962894bc276d3060a45d6977&amp;scene=0#rd"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <published>2025-02-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript 最实用的 10 种设计模式和应用场景]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517038&amp;idx=1&amp;sn=be1272a8f5c7f488d3c8e647d4f89ff7&amp;chksm=eb07bb17dc70320186b1c78aa1a88dddaff07891db6b9d7e5aa358f907f57af600e8995e47a8#rd</id>
@@ -60,6 +67,13 @@
         <title type="html"><![CDATA[节后充电！JavaScript+Vue3+React一次全吃透！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525265&amp;idx=1&amp;sn=cb270ccdb713290db4be0dd8ef24d915&amp;chksm=f9926540cee5ec56435def6aaffaba2f19afef85291cd4a0e1a80fc33251c8172acd27393efe#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525265&amp;idx=1&amp;sn=cb270ccdb713290db4be0dd8ef24d915&amp;chksm=f9926540cee5ec56435def6aaffaba2f19afef85291cd4a0e1a80fc33251c8172acd27393efe#rd"/>
+        <updated>2025-02-12T00:00:00.000Z</updated>
+        <published>2025-02-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用了 7 年 Web 组件，踩坑无数，我终于看清了的真相]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525781&amp;idx=1&amp;sn=276067f4150bc9bd635151ef97d753d0&amp;chksm=f952d0d6ce2559c06aded53643ec5e1d1709c93c44f33c2526d0bf8bcdd1c3cebfe91044cc15#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525781&amp;idx=1&amp;sn=276067f4150bc9bd635151ef97d753d0&amp;chksm=f952d0d6ce2559c06aded53643ec5e1d1709c93c44f33c2526d0bf8bcdd1c3cebfe91044cc15#rd"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <published>2025-02-12T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/563"/>
         <updated>2025-01-21T00:00:00.000Z</updated>
         <published>2025-01-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码优化实战：圈复杂度治理之函数抽离技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537747&amp;idx=1&amp;sn=e4f1457385d04cc0c5d3e1be537af537&amp;chksm=8397370bb4e0be1d95832c76f2e479a96c152fd6f783279a1d2fc8b7800c36910491a6e2b09b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537747&amp;idx=1&amp;sn=e4f1457385d04cc0c5d3e1be537af537&amp;chksm=8397370bb4e0be1d95832c76f2e479a96c152fd6f783279a1d2fc8b7800c36910491a6e2b09b#rd"/>
-        <updated>2025-01-20T00:00:00.000Z</updated>
-        <published>2025-01-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：为什么选择Nestjs作为服务端框架，而不是Express？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525109&amp;idx=1&amp;sn=2a8fb1b41521993a17925181bcb4fd2f&amp;chksm=f9926424cee5ed329eb999b6fae3b3ae2361ead7581cc5c006e9b2f501d42f86e2631bd476ba#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525109&amp;idx=1&amp;sn=2a8fb1b41521993a17925181bcb4fd2f&amp;chksm=f9926424cee5ed329eb999b6fae3b3ae2361ead7581cc5c006e9b2f501d42f86e2631bd476ba#rd"/>
-        <updated>2025-01-20T00:00:00.000Z</updated>
-        <published>2025-01-20T00:00:00.000Z</published>
     </entry>
 </feed>
