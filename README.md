@@ -12,20 +12,20 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-15 00:11:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-15 10:42:35，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)  
+- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723) ![](/assets/new.png)  
+- [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
@@ -138,6 +138,9 @@
 </summary>
 
 
+- [2025-02-14-DeepSeek-从入门到精通：清华大学出品（PDF-可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621882&idx=2&sn=b0d2305eb62826d728c4ab60059b385e&chksm=80225e3bb755d72d0654d2eb4cd20b48b81d5c245af450e835e0d8a342ca65be598da00de308#rd) ![](/assets/new.png)  
+- [2025-02-14-Vue-3.6-将带来这些重磅功能，更快、更强！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621882&idx=1&sn=9f58074a4d44793024b74db5a9cfe2f2&chksm=80225e3bb755d72d9b3f6d4012c12c3a331777bddb6d02adcbbbfa1443665982065fcb4c544d#rd) ![](/assets/new.png)  
+- [2025-02-13-JavaScript-框架---迈向-2025-年](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621867&idx=1&sn=2cdd0d4fe29f1a06e225728d82927d9b&chksm=80225e2ab755d73c4c281c7e4de1db51f92b26cbdad5e58b1b6e7c00fe4139c15648dfa9bf10#rd) ![](/assets/new.png)  
 - [2025-02-12-10年了，开发人员仍然不明白-Electron-的意义](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621837&idx=1&sn=ef85ed8e0f10af32ecf552b6ba54c45f&chksm=80225e0cb755d71a7ca50849bb06ce92b615ec7b373560305b5eb249f3c5a4e2a5c3e8453143#rd)  
 - [2025-02-11-从-DeepSeek-看25年前端的一个小趋势](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621836&idx=1&sn=233993c9ac5f49d0dff9b3b6542cd17d&chksm=80225e0db755d71b17d2270689484872563485a4307fee8c101c7a393061e04d96ef6c974244#rd)  
 - [2025-02-10-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621813&idx=1&sn=964c0d374cbb8e350be8c57eb422f9a2&chksm=80225e74b755d7622399d42619f5e63c82b124684d7c5de1224945c7a1f773fb5efeb546ace6#rd)  
@@ -149,15 +152,12 @@
 - [2025-01-18-刚刚！谷歌宣布重大调整：没-JavaScript-将无法启动搜索！网友怒斥“技术霸权”！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621728&idx=1&sn=1ee98287f908b02ba40e4e10f4b4daa0&chksm=80225ea1b755d7b75c5433d1bb1bd4a96d8730fd4196485ceab3ce0c0286088ba19aef0c5099#rd)  
 - [2025-01-17-请前端立即拿下软考证书（政策风口）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621713&idx=1&sn=acf335d4699881245e2f136c8cd7ce35&chksm=80225e90b755d786e333ba8eaf70109c29ca40d2b5be8e516ee19267a8c6f0ab10674bd30027#rd)  
 - [2025-01-16-2024-年最受欢迎的前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621698&idx=1&sn=e6f090c51733d036bf900363eb7bba16&chksm=80225e83b755d795aa679231ac3cb825f59e5a57f7725190bb75014465c73c13019e30f0a5ff#rd)  
-- [2024-12-24-图解Nestjs---适合中国宝宝的入门指导](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=2&sn=9cd8c95783426c2c3a5d1b5802dfe97c&chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd)  
 - [2024-12-24-强烈建议所有前端尽快搞个软考证！（重大利好）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=1&sn=fc68bc9e5e401ae2ad855e667bf21ddc&chksm=80225ef4b755d7e228780e1fdc2f9de83feb6f638c36a1e8bf74952c6483683b90cdef55339a#rd)  
+- [2024-12-24-图解Nestjs---适合中国宝宝的入门指导](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621685&idx=2&sn=9cd8c95783426c2c3a5d1b5802dfe97c&chksm=80225ef4b755d7e243ceceb8b32b5416c4c95975edd824b4ce0e102fc8c7168c0ab8baf7abbb#rd)  
 - [2024-12-20-两款知名国产前端开源项目被“投毒”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621669&idx=1&sn=7807f60ab1ed7005ab8ab2e4772b2607&chksm=80225ee4b755d7f27dc8d984caafb590fa5e8aa385fdec6b5d39b43246f3593e995975a2757a#rd)  
 - [2024-12-16-利用Chrome浏览器使用Overrides调试线上代码，真是太方便啦！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621662&idx=1&sn=23f2c3ad8a8ff737787aff4210c899bb&chksm=80225edfb755d7c9ac678230ca6581e4cb2fb62cc76a3636fd54a57a48cf51b564393cb9b5c2#rd)  
 - [2024-12-13-NPM-作者推出全新的-JavaScript-包管理器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621657&idx=1&sn=c1b5ef3f19dab981badd536b0ea32ca3&chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd)  
 - [2024-12-11-2024-年，前端的开发方式正在发生着显著变化！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621651&idx=1&sn=70c5ebf5f99d4618926ce5e0fedc4a82&chksm=80225ed2b755d7c46c35c1dd119a8d06f7194cb35a460999545f1026223b2a1ffcd5b4d3d708#rd)  
-- [2024-12-09-2024-年前端性能报告](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621644&idx=1&sn=9a90b5f1c430b45fb27326463954a507&chksm=80225ecdb755d7dbf9833d11f8ffd01d9b9387397c684571a30c8ad4c51350a45c350de42f94#rd)  
-- [2024-12-03-“应该禁止所有新项目使用-React！”微软资深工程师犀利-diss：“React-是行业标准”简直胡说！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621639&idx=1&sn=eac1fc8ce06c62ef6b28b910374897be&chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd)  
-- [2024-11-25-重磅！Chrome-被强制出售？谷歌或将抛弃-ChromeOS-全面转向-Android-系统](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621634&idx=2&sn=6fcfe59a7db56576faada82d6ea241d8&chksm=80225ec3b755d7d58b81492dfe997e2781f2b94a506a7f0cd174c11e6d54b3cd7b85a964e850#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -200,6 +200,8 @@
 </summary>
 
 
+- [2025-02-15-这段时间-JavaScript-原生开发做的一些优化点](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502660&idx=1&sn=d4952a678467d90b04c9795d0e285681&chksm=ce45ded5f93257c34a6af00381dbcde8f1c1b885d2d65906932c1efd60948407f0e86ef67c08#rd) ![](/assets/new.png)  
+- [2025-02-14-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502659&idx=1&sn=a85a368ec6df4be92951e43a17d74590&chksm=ce45ded2f93257c49d049a370a2f5a4321e84a8fe9ef5a0374d5e40b18f745fa4928c382f2ee#rd) ![](/assets/new.png)  
 - [2025-02-13-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502606&idx=1&sn=968865807fa37f54b940c05affcec13f&chksm=ce45de9ff9325789067b903e0a4e3e9cb18023da3b6fc6580b3c8fd6b20e6b09e2fdc3f79583#rd)  
 - [2025-02-12-这个国产技术的海外逆袭，太牛了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502510&idx=1&sn=100ebb48512c5cb4c527447c179627a3&chksm=ce45df3ff9325629ab9727abcf2939c7b10426c0f21bb2c8cc3d6ca596f56b033079aa91c829#rd)  
 - [2025-02-11-Galacean-引擎-1.4-发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502504&idx=1&sn=78cf257b001192b1996ebb89d321970a&chksm=ce45df39f932562f8e8b9c14dc234639c49ef8dc3caa6910ea5c6a99bac970fcc871cd45879f#rd)  
@@ -218,8 +220,6 @@
 - [2025-01-19-开发一个组件库，需要学哪些技术栈呢？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502174&idx=1&sn=0013b6369b48ca924d8402729ffeb8da&chksm=ce45dccff93255d9b914ca6c78ed4f7967c56d79becfc924d148dc25c636ffffcbfdb952c192#rd)  
 - [2025-01-18-分享一些-Vue-实用且常用的开发工具库](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502168&idx=1&sn=df943c1c2ca0cafd70f412f5fc2e6f90&chksm=ce45dcc9f93255df602d3e3b56636136057999a226d11130baa23dd3242e8e4ecf0015d277b5#rd)  
 - [2025-01-17-前端行情回暖了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502162&idx=1&sn=8260b45592ac57a9a30521f409196340&chksm=ce45dcc3f93255d52b7b0fd2f2a96213591ccc2c09d017f4b90737bd0fdf03e6c350fdcf6580#rd)  
-- [2025-01-16-setTimeout-定时器，根本就不准时呀！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502153&idx=1&sn=20876cfb02d22de2d6ddce840d781fe8&chksm=ce45dcd8f93255ce777a4fe4d5d7eca507d9f878f5470adca4e7a934855f42ea2229dad1e180#rd)  
-- [2025-01-15-来了来了！-Vue-有史以来最鸡肋的-API-它来了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502150&idx=1&sn=f2fd2ac86353297faf81db9c0b260bb3&chksm=ce45dcd7f93255c1d3c5d12d685d16235cca84e737e9e1daa18aab7e5a145ce68c0fe5a656a7#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -324,6 +324,7 @@
 </summary>
 
 
+- [2025-02-12-仅需3步，稳定快速！火山引擎边缘大模型网关全面支持DeepSeek系列模型](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505992&idx=1&sn=66abddb2651edcc0cc852ab2c3b047d2&chksm=cea96f49f9dee65f35c04f5ee2be1722bf5bf5926e33d77464272b5aa0cff9c164d75c218734#rd) ![](/assets/new.png)  
 - [2025-01-20-大语言模型应用开发框架-——-Eino-正式开源！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505986&idx=1&sn=2fcf9deaaa27ed987569e4683330222d&chksm=cea96f43f9dee65585eae23a3f7766340c2785da5351f218585d1420c62fbe5b817c1841b5e0#rd)  
 - [2024-12-31-Cursor-深度评测：革命性提效工具还是过誉的玩具？](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505953&idx=1&sn=f5159bc2fadccbbd3fe388c39b630a13&chksm=cea96f20f9dee63693f1f2a97e1f7677a1c0b00b3b06ba430df3a6fd7e794207ce5247a16a16#rd)  
 - [2024-12-26-刷题竞技，备战春招｜「豆包-MarsCode-算法竞技赛」第三期开赛！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505950&idx=1&sn=a6b88a461489f99d5cc9ef9355969b30&chksm=cea96f1ff9dee609e249709c14051dcb1e97014ae8aa361b4b151988cd3c54228702162ef483#rd)  
@@ -343,7 +344,6 @@
 - [2023-08-09-Semi-D2C-设计稿转代码的演进之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504315&idx=1&sn=90e3f5bdb7adf954096b791309433f3f&chksm=cea966baf9deefac20b0fcc639ec8c5ca9162c74386f7cbbff2d7f16e04d73a3434f8dfe8fe4#rd)  
 - [2023-08-02-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504259&idx=1&sn=e41c00dd53a5f1a52e53cea0be34988c&chksm=cea96682f9deef94b6790bc8372374b0e1c6db7291d82c1e5fca4195edfa044646153b09efd7#rd)  
 - [2023-07-26-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504196&idx=1&sn=e742223812cfa1836f87b2faac3d201c&chksm=cea96645f9deef5374c61ae28a49afa7b27d778cf723686d755409d9f207899bf4a0fa8e3dea#rd)  
-- [2023-07-19-WebAssembly-在-ACC-音频编码中的应用](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504065&idx=2&sn=81deda6a554ffe839d46d1e4f415faf2&chksm=cea967c0f9deeed6e30c279ab07574ab050bc48928fa44663191dff860090843edd78ed52ca8#rd)  
 - [查看更多 >](/details/字节前端-ByteFE.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

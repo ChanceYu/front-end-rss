@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-14T16:11:35.033Z</updated>
+    <updated>2025-02-15T02:42:35.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[这段时间 JavaScript 原生开发做的一些优化点]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502660&amp;idx=1&amp;sn=d4952a678467d90b04c9795d0e285681&amp;chksm=ce45ded5f93257c34a6af00381dbcde8f1c1b885d2d65906932c1efd60948407f0e86ef67c08#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502660&amp;idx=1&amp;sn=d4952a678467d90b04c9795d0e285681&amp;chksm=ce45ded5f93257c34a6af00381dbcde8f1c1b885d2d65906932c1efd60948407f0e86ef67c08#rd"/>
+        <updated>2025-02-15T00:00:00.000Z</updated>
+        <published>2025-02-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 3.6 将带来这些重磅功能，更快、更强！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621882&amp;idx=1&amp;sn=9f58074a4d44793024b74db5a9cfe2f2&amp;chksm=80225e3bb755d72d9b3f6d4012c12c3a331777bddb6d02adcbbbfa1443665982065fcb4c544d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621882&amp;idx=1&amp;sn=9f58074a4d44793024b74db5a9cfe2f2&amp;chksm=80225e3bb755d72d9b3f6d4012c12c3a331777bddb6d02adcbbbfa1443665982065fcb4c544d#rd"/>
+        <updated>2025-02-14T00:00:00.000Z</updated>
+        <published>2025-02-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【3456期】7种在 JavaScript 中分解长任务的技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275671&amp;idx=1&amp;sn=ecac52e3548b722cf1e0e4b45a3cfe22&amp;chksm=bca72844877a78a162f6c58030da8521840a2cbd81ca8fdc0a1d962894bc276d3060a45d6977&amp;scene=0#rd</id>
@@ -39,6 +53,13 @@
         <title type="html"><![CDATA[深入探讨浏览器渲染过程]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=1&amp;sn=c85803af5ce5bfbce1cdc99ae770e4d4&amp;chksm=f9926573cee5ec650b68ac92756e8449b7e4d9be91b0e946a1966eac206a2e813eadefe8c7de#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=1&amp;sn=c85803af5ce5bfbce1cdc99ae770e4d4&amp;chksm=f9926573cee5ec650b68ac92756e8449b7e4d9be91b0e946a1966eac206a2e813eadefe8c7de#rd"/>
+        <updated>2025-02-13T00:00:00.000Z</updated>
+        <published>2025-02-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript 框架 - 迈向 2025 年]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621867&amp;idx=1&amp;sn=2cdd0d4fe29f1a06e225728d82927d9b&amp;chksm=80225e2ab755d73c4c281c7e4de1db51f92b26cbdad5e58b1b6e7c00fe4139c15648dfa9bf10#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621867&amp;idx=1&amp;sn=2cdd0d4fe29f1a06e225728d82927d9b&amp;chksm=80225e2ab755d73c4c281c7e4de1db51f92b26cbdad5e58b1b6e7c00fe4139c15648dfa9bf10#rd"/>
         <updated>2025-02-13T00:00:00.000Z</updated>
         <published>2025-02-13T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275496&amp;idx=1&amp;sn=da3eb308cc9a292431857ed043bdc6e5&amp;chksm=bc795033017a8db3f5ab9ff3ba0a2f3951931f8e523f3a5588e759173162def8675d9bd280fd&amp;scene=0#rd"/>
         <updated>2025-01-22T00:00:00.000Z</updated>
         <published>2025-01-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解读SourceMap]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525120&amp;idx=1&amp;sn=e750ea3fc4a8b6c50436ad253d97ebe8&amp;chksm=f99265d1cee5ecc7a37f1379c73a19b8383413a4905f7c1a783275de9a217100ceadaf5a48c5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525120&amp;idx=1&amp;sn=e750ea3fc4a8b6c50436ad253d97ebe8&amp;chksm=f99265d1cee5ecc7a37f1379c73a19b8383413a4905f7c1a783275de9a217100ceadaf5a48c5#rd"/>
-        <updated>2025-01-21T00:00:00.000Z</updated>
-        <published>2025-01-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3449期】携程从零构建多端一致的设计研发体系实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275486&amp;idx=1&amp;sn=a388297d3d201a44d837d7cc13d12f46&amp;chksm=bcb70b14e27d2f6713a560aa6f0bbe9bcd57e43668faeebcb016a1023c79f91628cd102bb6ca&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275486&amp;idx=1&amp;sn=a388297d3d201a44d837d7cc13d12f46&amp;chksm=bcb70b14e27d2f6713a560aa6f0bbe9bcd57e43668faeebcb016a1023c79f91628cd102bb6ca&amp;scene=0#rd"/>
-        <updated>2025-01-21T00:00:00.000Z</updated>
-        <published>2025-01-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NodeBB, the Node.js powered forum system]]></title>
-        <id>https://nodeweekly.com/issues/563</id>
-        <link href="https://nodeweekly.com/issues/563"/>
-        <updated>2025-01-21T00:00:00.000Z</updated>
-        <published>2025-01-21T00:00:00.000Z</published>
     </entry>
 </feed>
