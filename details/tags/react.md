@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-15 18:08:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-17 02:11:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -557,6 +557,8 @@
 - [2022-01-08-可能是最详细的React组件库搭建总结](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=2&sn=de5a48b9ed62ee4de5b214ee48190621&chksm=87c42154b0b3a842d01b72b0efec0d5bb5c73a11472a4fb01798470e3db4d4297db0f757f072#rd) 
 - [2022-01-07-译-React-Redux-完全指南](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060803&idx=3&sn=8ea4f2b343c2e44a5f9b304ba909c495&chksm=87c42153b0b3a8457b126a8d191c31c0a6c67e8e56d1e14bb6cc3e27c70193782e019c206f7c#rd) 
 - [2021-12-31-React-Hooks-深入系列](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060771&idx=3&sn=c2ad08efa1e4aea2937d6f74c404746f&chksm=87c42133b0b3a8251a2d4a256708606768a17733d40458db385747e66a511542e7928f8b1e66#rd) 
+- [2025-02-16-React-官方弃用-Create-React-App，尤雨溪推荐这个工具以迁移至-Vite](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525323&idx=1&sn=8a1614637b5094231509c38c3f025a70&chksm=f992651acee5ec0cd06cd829908c7ab7cd0f7a1c82a83032bfa02f3e04b6265f43b34c8d7371#rd) 
+- [2025-02-15-React-首次推出原生的动画支持！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525311&idx=1&sn=bbd35d3b2b48d10c7546a4705cf5bc48&chksm=f992656ecee5ec78cbe3b185938389053f29b73ffaa7796db9ccc3ca35b6cd78a6d14202b64c#rd) 
 - [2025-02-12-节后充电！JavaScript+Vue3+React一次全吃透！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525265&idx=1&sn=cb270ccdb713290db4be0dd8ef24d915&chksm=f9926540cee5ec56435def6aaffaba2f19afef85291cd4a0e1a80fc33251c8172acd27393efe#rd) 
 - [2025-02-06-React+AI-技术栈（2025-版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525183&idx=1&sn=e32ac714ca6d72ac50cb4fb13f836bf9&chksm=f99265eecee5ecf875c312df44fffe61166d07e4d896fcb3dedb626bdb9a2e786a06138e78ca#rd) 
 - [2025-02-05-Create-React-App被官方弃用！该如何搭建新的-React-项目？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525173&idx=1&sn=60829d29ef746c4f93c301eecce9b869&chksm=f99265e4cee5ecf275a391101b43c3bdeaa554a444d84ea44ed30716a6309fd900774acce291#rd) 
