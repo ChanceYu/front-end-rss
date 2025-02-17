@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-17T10:11:59.410Z</updated>
+    <updated>2025-02-17T12:18:21.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Vue3 要起飞了！响应式性能超级大提升！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502680&amp;idx=1&amp;sn=064508c697c3425be2e221970b7800ac&amp;chksm=ce45dec9f93257dfe502ad60e0c3e2138964475ce4cf5817d8ea53e41e7dc4984e255a176b00#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502680&amp;idx=1&amp;sn=064508c697c3425be2e221970b7800ac&amp;chksm=ce45dec9f93257dfe502ad60e0c3e2138964475ce4cf5817d8ea53e41e7dc4984e255a176b00#rd"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <published>2025-02-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪推荐的全新Vue动画库！真酷]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621921&amp;idx=1&amp;sn=d5460043f8fe470d9ec407dcdc34d4ef&amp;chksm=80225de0b755d4f6c041a1899cfdd3b895073b5e2888f7abc5e8e41e8124f362aea6ec928a98#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621921&amp;idx=1&amp;sn=d5460043f8fe470d9ec407dcdc34d4ef&amp;chksm=80225de0b755d4f6c041a1899cfdd3b895073b5e2888f7abc5e8e41e8124f362aea6ec928a98#rd"/>
         <updated>2025-02-17T00:00:00.000Z</updated>
         <published>2025-02-17T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525149&amp;idx=2&amp;sn=f733f51f5fc5c65ec4e0369bf95d98e2&amp;chksm=f99265cccee5ecdaf96a8bbebb009638a84cf17138910dfc5e3c3b4017ec4610589eca5433d4#rd"/>
         <updated>2025-01-25T00:00:00.000Z</updated>
         <published>2025-01-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全面解读 ShadCN UI：揭秘复制粘贴的组件库如何重新定义开发体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd"/>
-        <updated>2025-01-24T00:00:00.000Z</updated>
-        <published>2025-01-24T00:00:00.000Z</published>
     </entry>
 </feed>
