@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-17T02:45:32.811Z</updated>
+    <updated>2025-02-17T10:11:59.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Vue3 要起飞了！响应式性能超级大提升！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502680&amp;idx=1&amp;sn=064508c697c3425be2e221970b7800ac&amp;chksm=ce45dec9f93257dfe502ad60e0c3e2138964475ce4cf5817d8ea53e41e7dc4984e255a176b00#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502680&amp;idx=1&amp;sn=064508c697c3425be2e221970b7800ac&amp;chksm=ce45dec9f93257dfe502ad60e0c3e2138964475ce4cf5817d8ea53e41e7dc4984e255a176b00#rd"/>
+        <updated>2025-02-17T00:00:00.000Z</updated>
+        <published>2025-02-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【早阅】shot-scraper 1.6：支持 HTTP Archive 的网页快照工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275678&amp;idx=1&amp;sn=49c271d91874fa2c27f7e9e14c3b1124&amp;chksm=bcc65ad4b0cb5c65106018bfbb6316b510a4a5fa34708c5a439629323e9a4e0b2dca908f12c4&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275678&amp;idx=1&amp;sn=49c271d91874fa2c27f7e9e14c3b1124&amp;chksm=bcc65ad4b0cb5c65106018bfbb6316b510a4a5fa34708c5a439629323e9a4e0b2dca908f12c4&amp;scene=0#rd"/>
@@ -25,6 +32,13 @@
         <title type="html"><![CDATA[React 官方弃用 Create React App，尤雨溪推荐这个工具以迁移至 Vite]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525323&amp;idx=1&amp;sn=8a1614637b5094231509c38c3f025a70&amp;chksm=f992651acee5ec0cd06cd829908c7ab7cd0f7a1c82a83032bfa02f3e04b6265f43b34c8d7371#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525323&amp;idx=1&amp;sn=8a1614637b5094231509c38c3f025a70&amp;chksm=f992651acee5ec0cd06cd829908c7ab7cd0f7a1c82a83032bfa02f3e04b6265f43b34c8d7371#rd"/>
+        <updated>2025-02-16T00:00:00.000Z</updated>
+        <published>2025-02-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无所不能的前端CSS工具！又能解放双手了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502675&amp;idx=1&amp;sn=17edc2e8c3605dac320c62383fa78649&amp;chksm=ce45dec2f93257d4b7f047690748e1d37aa8a8cef680b98d301318ee15cb36981cc2867816ac#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502675&amp;idx=1&amp;sn=17edc2e8c3605dac320c62383fa78649&amp;chksm=ce45dec2f93257d4b7f047690748e1d37aa8a8cef680b98d301318ee15cb36981cc2867816ac#rd"/>
         <updated>2025-02-16T00:00:00.000Z</updated>
         <published>2025-02-16T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[全面解读 ShadCN UI：揭秘复制粘贴的组件库如何重新定义开发体验]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=2&amp;sn=1ce657a9acc7f39d7f292ecb5fa91b2b&amp;chksm=f99265decee5ecc8dc4a86bcfa10f7c7d1e454ea0012fdc845cafef46bcdfb41419d894b95ad#rd"/>
-        <updated>2025-01-24T00:00:00.000Z</updated>
-        <published>2025-01-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 133+ 全新 DOM 操作方法：moveBefore]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=1&amp;sn=7ad55450d51d065ddb939a1fdebff18e&amp;chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525135&amp;idx=1&amp;sn=7ad55450d51d065ddb939a1fdebff18e&amp;chksm=f99265decee5ecc8a15474dc80c0d7f0a8641ce2f35a0e76fa2f81a7e2e1d9edd6ddc6b75363#rd"/>
-        <updated>2025-01-24T00:00:00.000Z</updated>
-        <published>2025-01-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3450期】JavaScript 中的千里眼和穿杨箭]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275542&amp;idx=1&amp;sn=3276d48f1d47abeb548112822b4455c6&amp;chksm=bc5dcd7cbeb917f383b9abadc2b740cb426758c81a8a94a85e82f114ac210dab67d2c69b77d8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275542&amp;idx=1&amp;sn=3276d48f1d47abeb548112822b4455c6&amp;chksm=bc5dcd7cbeb917f383b9abadc2b740cb426758c81a8a94a85e82f114ac210dab67d2c69b77d8&amp;scene=0#rd"/>
         <updated>2025-01-24T00:00:00.000Z</updated>
         <published>2025-01-24T00:00:00.000Z</published>
     </entry>
