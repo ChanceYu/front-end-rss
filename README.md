@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-18 16:13:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-19 00:12:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -27,9 +27,9 @@
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)  
+- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -326,6 +326,7 @@
 </summary>
 
 
+- [2025-02-18-独家首发，免费｜Trae-从入门到实践，开启-AI-编码新征程！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506009&idx=1&sn=61059eb25d289afa7e63cb1cbb5bfa45&chksm=cea96f58f9dee64ed490da91a29b6cbf1ef89225b0ed1e8645bb70ea04252b503fce82bda872#rd) ![](/assets/new.png)  
 - [2025-02-12-仅需3步，稳定快速！火山引擎边缘大模型网关全面支持DeepSeek系列模型](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505992&idx=1&sn=66abddb2651edcc0cc852ab2c3b047d2&chksm=cea96f49f9dee65f35c04f5ee2be1722bf5bf5926e33d77464272b5aa0cff9c164d75c218734#rd)  
 - [2025-01-20-大语言模型应用开发框架-——-Eino-正式开源！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505986&idx=1&sn=2fcf9deaaa27ed987569e4683330222d&chksm=cea96f43f9dee65585eae23a3f7766340c2785da5351f218585d1420c62fbe5b817c1841b5e0#rd)  
 - [2024-12-31-Cursor-深度评测：革命性提效工具还是过誉的玩具？](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505953&idx=1&sn=f5159bc2fadccbbd3fe388c39b630a13&chksm=cea96f20f9dee63693f1f2a97e1f7677a1c0b00b3b06ba430df3a6fd7e794207ce5247a16a16#rd)  
@@ -345,7 +346,6 @@
 - [2023-08-30-聊聊网页断点调试及其扩展](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504392&idx=1&sn=1438d0951a1da7a9af090ac199edcfdb&chksm=cea96509f9deec1fa5525acf8c3d945d6b346087aeaf62c27188b2e2062076dc6cebdf04b3a7#rd)  
 - [2023-08-09-Semi-D2C-设计稿转代码的演进之路](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504315&idx=1&sn=90e3f5bdb7adf954096b791309433f3f&chksm=cea966baf9deefac20b0fcc639ec8c5ca9162c74386f7cbbff2d7f16e04d73a3434f8dfe8fe4#rd)  
 - [2023-08-02-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504259&idx=1&sn=e41c00dd53a5f1a52e53cea0be34988c&chksm=cea96682f9deef94b6790bc8372374b0e1c6db7291d82c1e5fca4195edfa044646153b09efd7#rd)  
-- [2023-07-26-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504196&idx=1&sn=e742223812cfa1836f87b2faac3d201c&chksm=cea96645f9deef5374c61ae28a49afa7b27d778cf723686d755409d9f207899bf4a0fa8e3dea#rd)  
 - [查看更多 >](/details/字节前端-ByteFE.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-02-16-微信接入DeepSeek，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500977&idx=1&sn=d20ddefb264f6647223a065c302f3549&chksm=c2b3054ef5c48c58115256658417ba5df966d5790d5e6ce8102b2a7802f96d43e500de082f79#rd) ![](/assets/new.png)  
+- [2025-02-16-微信接入DeepSeek，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500977&idx=1&sn=d20ddefb264f6647223a065c302f3549&chksm=c2b3054ef5c48c58115256658417ba5df966d5790d5e6ce8102b2a7802f96d43e500de082f79#rd)  
 - [2025-02-14-腾讯元宝接入DeepSeek，太顶了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500942&idx=1&sn=4385b429445d5f5fd02650c11c4bf90f&chksm=c2b30571f5c48c673b9ad00f5fdffc3fb0204059266d6271ec835fbc72c591d9c393774beeb9#rd)  
 - [2025-02-12-体验完飞书里的DeepSeek，我人麻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500871&idx=1&sn=597321970a16cbee63c1ed99f48fd933&chksm=c2b305b8f5c48cae359c45ff3fd34831be8c75a1aedd0185045afe820be2ddedc7a3ff3f4453#rd)  
 - [2025-02-11-苹果与阿里合作，在iPhone上提供AI，为啥不选DeepSeek？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500824&idx=1&sn=913ba33d8ed9ae0b00be260f6614066d&chksm=c2b305e7f5c48cf101e3c0a05ae1cb188a935ccc4e0bf78463550c1987e7ed91340925daab90#rd)  

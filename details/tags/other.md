@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-18 16:13:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-19 00:12:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3226,6 +3226,7 @@
 - [2023-04-13-修复违和感！有意思的粘性气泡-Loading-效果续集](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495476&idx=1&sn=c6962b8d952ffd4d0b5b72f2c37c21b0&chksm=ce268cc2f95105d4196fb4804202a7955799903f0008ef415be984618d3610df63a2488e8113#rd) 
 - [2023-01-15-不负时光，Coco-的-2022-年终总结](https://mp.weixin.qq.com/s/3VLFVxfV2rCgNlJIqo8Wvg) 
 - [2022-12-29-Amazing!如何根据背景色自动切换黑白文字？](https://mp.weixin.qq.com/s/rp4W45Y2Sl3FrQtoRRSTnw) 
+- [2025-02-18-独家首发，免费｜Trae-从入门到实践，开启-AI-编码新征程！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506009&idx=1&sn=61059eb25d289afa7e63cb1cbb5bfa45&chksm=cea96f58f9dee64ed490da91a29b6cbf1ef89225b0ed1e8645bb70ea04252b503fce82bda872#rd) 
 - [2025-02-12-仅需3步，稳定快速！火山引擎边缘大模型网关全面支持DeepSeek系列模型](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505992&idx=1&sn=66abddb2651edcc0cc852ab2c3b047d2&chksm=cea96f49f9dee65f35c04f5ee2be1722bf5bf5926e33d77464272b5aa0cff9c164d75c218734#rd) 
 - [2025-01-20-大语言模型应用开发框架-——-Eino-正式开源！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505986&idx=1&sn=2fcf9deaaa27ed987569e4683330222d&chksm=cea96f43f9dee65585eae23a3f7766340c2785da5351f218585d1420c62fbe5b817c1841b5e0#rd) 
 - [2024-12-31-Cursor-深度评测：革命性提效工具还是过誉的玩具？](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505953&idx=1&sn=f5159bc2fadccbbd3fe388c39b630a13&chksm=cea96f20f9dee63693f1f2a97e1f7677a1c0b00b3b06ba430df3a6fd7e794207ce5247a16a16#rd) 
