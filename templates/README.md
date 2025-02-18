@@ -8,6 +8,8 @@
 
 订阅地址：[<%= obj.feedUrl %>](<%= obj.feedUrl %>) 
 
+备用地址：[https://front-end-rss.surge.sh](https://front-end-rss.surge.sh)
+
 ##
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
