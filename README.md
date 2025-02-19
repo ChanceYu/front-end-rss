@@ -14,22 +14,22 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-19 20:16:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-20 00:11:51，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-02-19-解锁-Vue-Hooks：让-Vue-开发效率起飞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621946&idx=1&sn=78f6def7f9060d84bca21755bcaf3b21&chksm=80225dfbb755d4edb72dea95ceea96514ee0f8c32b7d20870ee13c69de82c252f87ccd965b08#rd) ![](/assets/new.png)  
-- [2025-02-18-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621922&idx=1&sn=0a90aab890e3f9d71e5e615b96ca65d9&chksm=80225de3b755d4f5a4eebc892a8e281b5496196869b42076967be7b8df06bb9989809a0d25a0#rd) ![](/assets/new.png)  
+- [2025-02-19-解锁-Vue-Hooks：让-Vue-开发效率起飞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621946&idx=1&sn=78f6def7f9060d84bca21755bcaf3b21&chksm=80225dfbb755d4edb72dea95ceea96514ee0f8c32b7d20870ee13c69de82c252f87ccd965b08#rd)  
+- [2025-02-18-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621922&idx=1&sn=0a90aab890e3f9d71e5e615b96ca65d9&chksm=80225de3b755d4f5a4eebc892a8e281b5496196869b42076967be7b8df06bb9989809a0d25a0#rd)  
 - [2025-02-17-尤雨溪推荐的全新Vue动画库！真酷](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621921&idx=1&sn=d5460043f8fe470d9ec407dcdc34d4ef&chksm=80225de0b755d4f6c041a1899cfdd3b895073b5e2888f7abc5e8e41e8124f362aea6ec928a98#rd)  
 - [2025-02-17-126K-+-30K-star，2个开源工具帮你搭建免费、专属的-DeepSeek！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621921&idx=2&sn=9138196ba36ca3070a4eb5fa12806afd&chksm=80225de0b755d4f63633e67f68bfb3e5a3dfe366a20e8e3dbf6e3948f0a44c94f2332efcce83#rd)  
 - [2025-02-14-DeepSeek-从入门到精通：清华大学出品（PDF-可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621882&idx=2&sn=b0d2305eb62826d728c4ab60059b385e&chksm=80225e3bb755d72d0654d2eb4cd20b48b81d5c245af450e835e0d8a342ca65be598da00de308#rd)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-02-19-Dagger：我们用-GO-和-WebAssembly-替换了-React-前端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525796&idx=1&sn=febe59179a516cdb3c14ae39d124c780&chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd) ![](/assets/new.png)  
 - [2025-02-12-用了-7-年-Web-组件，踩坑无数，我终于看清了的真相](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525781&idx=1&sn=276067f4150bc9bd635151ef97d753d0&chksm=f952d0d6ce2559c06aded53643ec5e1d1709c93c44f33c2526d0bf8bcdd1c3cebfe91044cc15#rd)  
 - [2025-01-22-纯血鸿蒙微信-App-正式上线！依然使用了-Flutter，依然没说清哪里用了Flutter](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525760&idx=1&sn=f8490d5187a59e0e2432c3cde9cb2e8b&chksm=f952d0c3ce2559d552e4d374ffedf4c6efa86179fabbcffa162877770a1092cee0746947300e#rd)  
 - [2025-01-17-2024大前端趋势洞察：进化停滞与鸿蒙新契机](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525741&idx=1&sn=ac4c2a5f7fa8d4cdede36976e97f62d4&chksm=f952d02ece255938bc92a64bb8b5d03a60e1b1ae4a86ba4008da2f16ece91aada57178a435c7#rd)  
@@ -189,7 +190,6 @@
 - [2024-10-16-对话Motiff妙多赵薇：大模型在UI设计工具中的交互挑战与机遇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525401&idx=1&sn=2134333d2840357cd446ab4aebee9945&chksm=f952d15ace25584cef7b27da1e893ad9975a431cbffc1af77f3e79aa5a2519a5b478cc92b16c#rd)  
 - [2024-10-14-iOS-上手-Vision-Pro-还未摸到门道？快来听听淘宝-Vision-Pro-的最佳实践！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525372&idx=1&sn=0dfdeca47a1d33a1216ed60ecf40e0be&chksm=f952d6bfce255fa9a0899bc781e681dcbd5e86be84337eb16d3f37af1d07cfa153210720003e#rd)  
 - [2023-12-25-2024年，你应该知道的5种React设计模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523515&idx=1&sn=07e72deb59c0cb87fe222214ec01bf17&chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd)  
-- [2023-12-22-技术的未来：谈大语言模型前端研发领域的革命性影响](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=2&sn=79c7fb993917379b76d2536081a07407&chksm=f95229ddce25a0cb716b15eef6794926751a0b40979a5e51160d09e379addd0b0b52290943cb#rd)  
 - [2023-12-22-Netlify调查点燃热议，Astro悄然崛起](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523486&idx=1&sn=6e8d71e0182c039bf6d4b7ad7090250d&chksm=f95229ddce25a0cbf5f01821d95e1ad9061fa1809c68aeea95fb643693296d6130f50220069d#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-02-19-马斯克正式发布Grok-3，一文回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500998&idx=1&sn=cbb5821ee76473b7a1486f10e0d6c016&chksm=c2b30539f5c48c2f3367b06e1e189ed52f12cafeebd93db301294f11916c39d9c18d89fa103f#rd) ![](/assets/new.png)  
 - [2025-02-16-微信接入DeepSeek，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500977&idx=1&sn=d20ddefb264f6647223a065c302f3549&chksm=c2b3054ef5c48c58115256658417ba5df966d5790d5e6ce8102b2a7802f96d43e500de082f79#rd)  
 - [2025-02-14-腾讯元宝接入DeepSeek，太顶了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500942&idx=1&sn=4385b429445d5f5fd02650c11c4bf90f&chksm=c2b30571f5c48c673b9ad00f5fdffc3fb0204059266d6271ec835fbc72c591d9c393774beeb9#rd)  
 - [2025-02-12-体验完飞书里的DeepSeek，我人麻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500871&idx=1&sn=597321970a16cbee63c1ed99f48fd933&chksm=c2b305b8f5c48cae359c45ff3fd34831be8c75a1aedd0185045afe820be2ddedc7a3ff3f4453#rd)  
@@ -402,12 +403,11 @@
 - [2025-01-30-万字长文警示！Anthropic创始人亲笔撰文：DeepSeek崛起倒逼白宫强化AI监管](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500457&idx=1&sn=5abaa3db811582b8bd0d9f694b783c14&chksm=c2b30356f5c48a401bf7bb1038c55f8fbd9e822424536727d909aa8878ed4ad798820cc7b419#rd)  
 - [2025-01-29-震撼全球的“东方神秘力量”，DeepSeek创始人梁文锋的破局人生](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500449&idx=1&sn=1013d8f7b7ec9b8f7dde43fa6937b4f2&chksm=c2b3035ef5c48a4883e86ba5f5a7cf7636bd3431ab28a0b9c692a26db397f8a0f5eb264ac385#rd)  
 - [2025-01-28-DeepSeek-全面指南，90%-的人都不知道的使用技巧（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500417&idx=1&sn=5905d68b2cdf6347ec847d39252e9ec1&chksm=c2b3037ef5c48a68a8e50c3392358ad1630776c1ae931e0dca71ab84a19559e0d7e80f9c2a65#rd)  
-- [2025-01-27-OpenAI的真正对手？DeepSeek-R1如何用强化学习重构LLM能力边界——DeepSeek-R1论文精读](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500401&idx=2&sn=644abb09d2f558a7e86eedacf681ab03&chksm=c2b3038ef5c48a9848e99e76d48735a7b0227b56be2c9bcc42a105d3813e3162419b7a37f11f#rd)  
 - [2025-01-27-知乎10W赞神贴：大学生靠DeepSeek月入20万？看完我注销了GPT账号](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500401&idx=1&sn=a827cee1c14a68f5395fa2f2a3d8784c&chksm=c2b3038ef5c48a980dff03d3c2f7ea2d0bcc70d0adca5ceb08a1d2c61c854c383ffe423123ed#rd)  
+- [2025-01-27-OpenAI的真正对手？DeepSeek-R1如何用强化学习重构LLM能力边界——DeepSeek-R1论文精读](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500401&idx=2&sn=644abb09d2f558a7e86eedacf681ab03&chksm=c2b3038ef5c48a9848e99e76d48735a7b0227b56be2c9bcc42a105d3813e3162419b7a37f11f#rd)  
 - [2025-01-26-AI-圈儿已经提前过年了？这些关键信息正在改写行业规则！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500383&idx=1&sn=9fb39dc629f1d04c2556fc0d68417922&chksm=c2b303a0f5c48ab6b2c2c2f11baab985acc5480701b251b3c95fec05d3fb051ca5b55287a940#rd)  
 - [2025-01-24-（说人话）AI-黑话宝典，从“深度学习”到“千层套路”的防忽悠指南](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500375&idx=1&sn=cbf6f2aab45653a89f1de7edd3b223e7&chksm=c2b303a8f5c48abef100422f0259155e8e7dfb1e9c163a99cecac72bc4d9c6fec8a4062ec588#rd)  
 - [2025-01-20-AI-周刊-003｜这周-AI-圈儿又卷起来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500360&idx=1&sn=43021bad5dcaa95c8faafba19b410fd7&chksm=c2b303b7f5c48aa10ee78f58aba3e295a14b3c7b0fc01f35f61ad87d8fe94d2731fb388d16be#rd)  
-- [2025-01-11-AI-周刊-002｜程序员跨界-AI-艺术家，3-个月制作-AI-动画获金奖](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500353&idx=1&sn=02ecb7217f7dd1ff57ccce3519e9c8e5&chksm=c2b303bef5c48aa83c6fd0e97c84a0be2e511e74ebecb918b286f6a32f3cf70f82a4e2f65157#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

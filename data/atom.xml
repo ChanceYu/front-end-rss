@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-19T12:16:54.508Z</updated>
+    <updated>2025-02-19T16:11:51.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[分享一些不错的JS/TS代码片段]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <published>2025-02-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dagger：我们用 GO 和 WebAssembly 替换了 React 前端]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525796&amp;idx=1&amp;sn=febe59179a516cdb3c14ae39d124c780&amp;chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525796&amp;idx=1&amp;sn=febe59179a516cdb3c14ae39d124c780&amp;chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Create React App被官方弃用！该如何搭建新的 React 项目？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525173&amp;idx=1&amp;sn=60829d29ef746c4f93c301eecce9b869&amp;chksm=f99265e4cee5ecf275a391101b43c3bdeaa554a444d84ea44ed30716a6309fd900774acce291#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525173&amp;idx=1&amp;sn=60829d29ef746c4f93c301eecce9b869&amp;chksm=f99265e4cee5ecf275a391101b43c3bdeaa554a444d84ea44ed30716a6309fd900774acce291#rd"/>
-        <updated>2025-02-05T00:00:00.000Z</updated>
-        <published>2025-02-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[删除 node_modules 太慢了？教你个小技巧！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502351&amp;idx=1&amp;sn=00530e73339dd7cf6d6369f29b2798bc&amp;chksm=ce45df9ef9325688569ccf4795032a1aa86bb4e5d0f47c20550d2e8d36222461c6430be2cac7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502351&amp;idx=1&amp;sn=00530e73339dd7cf6d6369f29b2798bc&amp;chksm=ce45df9ef9325688569ccf4795032a1aa86bb4e5d0f47c20550d2e8d36222461c6430be2cac7#rd"/>
         <updated>2025-02-05T00:00:00.000Z</updated>
         <published>2025-02-05T00:00:00.000Z</published>
     </entry>
