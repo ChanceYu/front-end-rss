@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-19 00:12:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-19 18:10:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -170,6 +170,7 @@
 - [2022-01-09-Typescript也许应该这样入门才对](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060805&idx=2&sn=32f4056972c6c2eb78005d85780400b3&chksm=87c42155b0b3a84340fcc18e402feca1d8c1907acee1f7cab13c818bc9aaba6bbb80f1a035d8#rd) 
 - [2022-01-05-TypeScript-练习题](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=2&sn=43de801a7dbea9b8a0907f850029b875&chksm=87c42138b0b3a82ef643d19f65675fb70d329fe4bc9a7bcd14ad0645616d1ebb8d4d9198adf3#rd) 
 - [2022-01-04-总结TypeScript在项目开发中的应用实践体会](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060775&idx=1&sn=6de8177f7622fdaf80a7925f35fed0d2&chksm=87c42137b0b3a8212b69f0e0744d374a632756ddf5f44fc76c004e99bab2dbdd449267c2d073#rd) 
+- [2025-02-19-不再需要配置！Node.js-23-支持原生-TypeScript-执行！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525353&idx=2&sn=7b69c9fd104603074448477f1b54d947&chksm=f9926538cee5ec2eefbc6cb647004853b9ba915f0a54d1ba5402cf8b9db35d1803ddeb8d1064#rd) 
 - [2025-02-09-TypeScript-5.8-Beta震撼发布：Node开发者的一次重要更新！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525231&idx=2&sn=83ff629050761cb36087f67deec10ba5&chksm=f99265becee5eca87c11e8dc1b6efb5b59a0f25e2d5eb9558b3291d4d7458107e2652dc2e335#rd) 
 - [2025-01-17-你为什么用不好TypeScript](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525084&idx=1&sn=75902108f9da9bb0ef631d9e742d5f81&chksm=f992640dcee5ed1b8de3c4ac1156f928e92a04c94cd967a3f94120d5db0362292396f730f25b#rd) 
 - [2024-12-21-学TypeScript常被忽视的小概念declare](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524767&idx=2&sn=59aed7f648f5fa7638adfdc0fed1fb83&chksm=f992674ecee5ee58314abf41a71c532f6196fa16b70aa4536fd2e8a0ddaccbfbf6df79a3b720#rd) 
