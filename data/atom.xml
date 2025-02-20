@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-20T02:44:31.836Z</updated>
+    <updated>2025-02-20T06:15:09.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[分享一些不错的JS/TS代码片段]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <published>2025-02-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flowmix/Docx，一个超越文档的多模态文档编辑器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502718&amp;idx=1&amp;sn=5b30d04c1c5c63cba7efdbadf27539e7&amp;chksm=ce45deeff93257f9eb4f08f12d39252bbc11bc7d9742f8cd5a739b44ea502a98589aba030b45#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502718&amp;idx=1&amp;sn=5b30d04c1c5c63cba7efdbadf27539e7&amp;chksm=ce45deeff93257f9eb4f08f12d39252bbc11bc7d9742f8cd5a739b44ea502a98589aba030b45#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>
@@ -60,6 +67,13 @@
         <title type="html"><![CDATA[前端实现画中画超简单，让网页飞出浏览器]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=1&amp;sn=8cdf702e17ba35466d85e2b895654490&amp;chksm=f992650ccee5ec1a5c8a6c2151fcf5d0a37a5ccc094a47b810c66495234675577afc97bb03fc#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=1&amp;sn=8cdf702e17ba35466d85e2b895654490&amp;chksm=f992650ccee5ec1a5c8a6c2151fcf5d0a37a5ccc094a47b810c66495234675577afc97bb03fc#rd"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <published>2025-02-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最近面试，Vue3是重点！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502689&amp;idx=1&amp;sn=02ab4f99e22f2a355c49d98e7274c811&amp;chksm=ce45def0f93257e6ec40d3022c7a16a79b62ee2fdf4500b356aaa14c2ab0aca46d3a93225b4d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502689&amp;idx=1&amp;sn=02ab4f99e22f2a355c49d98e7274c811&amp;chksm=ce45def0f93257e6ec40d3022c7a16a79b62ee2fdf4500b356aaa14c2ab0aca46d3a93225b4d#rd"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <published>2025-02-18T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525183&amp;idx=2&amp;sn=e5bb777fc780030f4987778bd3d14637&amp;chksm=f99265eecee5ecf8ca510d0badf88aab9517a57c21e64e056993b6dafdbfe8dab4ecd581d58c#rd"/>
         <updated>2025-02-06T00:00:00.000Z</updated>
         <published>2025-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create React App被官方弃用！该如何搭建新的 React 项目？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621772&amp;idx=1&amp;sn=0a9b08ad6479b099aae73259f64c879f&amp;chksm=80225e4db755d75b99d0d8e7fb6a6da2f125bcc73c51fe9f3d23f38d9d5c121e83e06a46769f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621772&amp;idx=1&amp;sn=0a9b08ad6479b099aae73259f64c879f&amp;chksm=80225e4db755d75b99d0d8e7fb6a6da2f125bcc73c51fe9f3d23f38d9d5c121e83e06a46769f#rd"/>
-        <updated>2025-02-06T00:00:00.000Z</updated>
-        <published>2025-02-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create React App被官方弃用！该如何搭建新的 React 项目？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525173&amp;idx=1&amp;sn=60829d29ef746c4f93c301eecce9b869&amp;chksm=f99265e4cee5ecf275a391101b43c3bdeaa554a444d84ea44ed30716a6309fd900774acce291#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525173&amp;idx=1&amp;sn=60829d29ef746c4f93c301eecce9b869&amp;chksm=f99265e4cee5ecf275a391101b43c3bdeaa554a444d84ea44ed30716a6309fd900774acce291#rd"/>
-        <updated>2025-02-05T00:00:00.000Z</updated>
-        <published>2025-02-05T00:00:00.000Z</published>
     </entry>
 </feed>
