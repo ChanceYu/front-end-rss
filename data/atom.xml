@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-21T14:08:22.564Z</updated>
+    <updated>2025-02-21T16:12:00.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[为了解决内存泄露,我把 Vue 源码改了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517085&amp;idx=1&amp;sn=91ad60bd011d9eaa936ec09bf9d21afa&amp;chksm=eb07bbe4dc7032f2b464c32c6703c5438192596d3ef4f5e31a01fae2b152d736b5b0ab80e559#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517085&amp;idx=1&amp;sn=91ad60bd011d9eaa936ec09bf9d21afa&amp;chksm=eb07bbe4dc7032f2b464c32c6703c5438192596d3ef4f5e31a01fae2b152d736b5b0ab80e559#rd"/>
+        <updated>2025-02-19T00:00:00.000Z</updated>
+        <published>2025-02-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025，重新认识 HTML！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499414&amp;idx=1&amp;sn=3685ff0fe846d50843519f482f8f4029&amp;chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499414&amp;idx=1&amp;sn=3685ff0fe846d50843519f482f8f4029&amp;chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>
@@ -69,6 +76,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275703&amp;idx=1&amp;sn=a3201e14b05550c09c0af6e1af39d189&amp;chksm=bcd04f61450ac3d267bd17b8ed2cc5f7301b3f4fc948384edee4235539ff6dc3624d421f8ae3&amp;scene=0#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巧用 CSS 实现 deepseek 都无法实现的复杂怪状按钮 - 内凹平滑圆角]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499409&amp;idx=1&amp;sn=abcce97ec283ec9bb7d6e5a799f798ad&amp;chksm=ce269d67f951147134cd54f3984df43bcaf3bcc1e818b51f20562f2ea301c6f2e25ff84bf1cf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499409&amp;idx=1&amp;sn=abcce97ec283ec9bb7d6e5a799f798ad&amp;chksm=ce269d67f951147134cd54f3984df43bcaf3bcc1e818b51f20562f2ea301c6f2e25ff84bf1cf#rd"/>
+        <updated>2025-02-18T00:00:00.000Z</updated>
+        <published>2025-02-18T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTML中不为人知的细节小知识]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275553&amp;idx=1&amp;sn=1c788c14e60702c3fe2eee866137dfd7&amp;chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&amp;scene=0#rd"/>
         <updated>2025-02-07T00:00:00.000Z</updated>
         <published>2025-02-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
-        <id>https://javascriptweekly.com/issues/722</id>
-        <link href="https://javascriptweekly.com/issues/722"/>
-        <updated>2025-02-07T00:00:00.000Z</updated>
-        <published>2025-02-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/"/>
-        <updated>2025-02-06T00:00:00.000Z</updated>
-        <published>2025-02-06T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-21 22:08:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-22 00:12:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -31,6 +31,7 @@
 - [2023-10-19-探索如何将html和svg导出为图片](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516680&idx=2&sn=4abe20ce473d022a8fef2653606a3515&chksm=f99284d9cee50dcff3b3051422d88378c0853852b33749e5962645b4bb380f4fd5522f83c6c8#rd) 
 - [2023-09-02-htmx-使HTML更强大，-不错！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516018&idx=1&sn=b8b7df5d66192e933149a6e9b317101e&chksm=f992b9a3cee530b5352bcb0753e9e058011f44e333635da2364af7dee885fdb1140c8c361c9f#rd) 
 - [2023-07-02-你真的会用&lt;a&gt;标签下载文件吗?](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247515107&idx=1&sn=c13a4bfce28247f1633567998c895b2a&chksm=f992bd32cee53424deb1f1f4f46567b17bbdac49e66f883af513f0a3912c782ff10eb796bd5a#rd) 
+- [2025-02-19-2025，重新认识-HTML！](http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247499414&idx=1&sn=3685ff0fe846d50843519f482f8f4029&chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd) 
 - [2023-06-20-Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd) 
 - [2023-02-14-现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g) 
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) 
