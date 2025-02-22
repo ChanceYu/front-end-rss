@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-02-22 02:12:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-22 12:11:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -481,7 +481,8 @@
 </summary>
 
 
-- [2025-02-19-天猫新品业务画布引擎](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538187&idx=1&sn=a466584988ad7f1f699666d61ac4e336&chksm=8390c8d3b4e741c5d80219ed60255fcdee6b239b0cdbbfbdfd0cdb6d7317eeda7ea83943844f#rd) ![](/assets/new.png)  
+- [2025-02-21-【首度揭秘】淘宝2025春晚云参演证背后的AIGC技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538322&idx=1&sn=e1776b895ebe3f07f3c80f0839c0dd40&chksm=8390c94ab4e7405c1c979d07d64d7454e1fc6ed951854f4f488eca0eacaaf478abe894ae2acd#rd) ![](/assets/new.png)  
+- [2025-02-19-天猫新品业务画布引擎](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538187&idx=1&sn=a466584988ad7f1f699666d61ac4e336&chksm=8390c8d3b4e741c5d80219ed60255fcdee6b239b0cdbbfbdfd0cdb6d7317eeda7ea83943844f#rd)  
 - [2025-02-14-探索淘宝购物车SurfaceView闪黑的解决方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538039&idx=1&sn=9187c5c7a72ece00300a8a037ad607d2&chksm=8390c82fb4e74139c53505ef653c4d84d1d142f35d0403fe2a28d8d416ad21db47b05f1bb82d#rd)  
 - [2025-02-12-淘宝订单列表Fragment转场动画卡顿解决方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538013&idx=1&sn=1b172c2a216668a0b02a2736bf56c878&chksm=8390c805b4e74113cb02ced7c2d66f7d8377e0910914db3dd5ab0a77c2c11c9899b0c3312a02#rd)  
 - [2025-02-10-淘宝App交易链路终端混合场景体验探索](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537971&idx=1&sn=06fa650d24c5742bfc3af4d0d79c39ff&chksm=839737ebb4e0befd4d21b6136602b29f1ebfda84f094d45420d72c342bb3ebb50143e047a472#rd)  
@@ -500,7 +501,6 @@
 - [2024-12-31-淘宝获2024年度CCF技术发明一等奖](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537554&idx=1&sn=ddd744e684c66a3470f2f8568b9ead1b&chksm=8397364ab4e0bf5ca7e21e172409e244e6d268b9594a6cd74e8e0fd732263b8cdc7ff65ffb1a#rd)  
 - [2024-12-30-淘宝内容AI团队2024年8篇论文总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537546&idx=1&sn=e14005d455076ce0ddf3c6486368447a&chksm=83973652b4e0bf44db45aa8fa4abae4d8ac60b6c3ce2eca575e4ecaddbd0c2576a8f5be96b9d#rd)  
 - [2024-12-27-淘宝天猫集团荣获2024中国运筹学会“运筹应用奖”提名](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537530&idx=1&sn=cb51d8269c97e11588591107375667ba&chksm=83973622b4e0bf347964a7c3d05aeda58c9085dccd9c7743391ed20e90b0b68db909c1223e66#rd)  
-- [2024-12-25-消息中间件稳定性建设之SLA浅述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537522&idx=1&sn=24dfc89084e02614797007dc6067acb6&chksm=8397362ab4e0bf3ccd2bf3030aea420cf1bc6de5b2079864fccbb08d752a05442d635c4bc335#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
