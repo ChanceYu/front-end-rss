@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-22T08:11:45.010Z</updated>
+    <updated>2025-02-22T10:10:43.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275755&amp;idx=1&amp;sn=bf3aa4048127f85501d16a9d20c1e267&amp;chksm=bc9c243a39f955123def8f16dade1de4df3876cdcb0cf4fe641dc655ed0e929d881fcfb566c6&amp;scene=0#rd"/>
         <updated>2025-02-21T00:00:00.000Z</updated>
         <published>2025-02-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 推出全新的 DOM API，彻底革新 DOM 操作！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621951&amp;idx=1&amp;sn=e9841026f9733694f9a7088a56081b90&amp;chksm=80225dfeb755d4e84b61dc16e38a41a29a3925577a6b40e13413970f58abf135355703cc9d48#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621951&amp;idx=1&amp;sn=e9841026f9733694f9a7088a56081b90&amp;chksm=80225dfeb755d4e84b61dc16e38a41a29a3925577a6b40e13413970f58abf135355703cc9d48#rd"/>
+        <updated>2025-02-20T00:00:00.000Z</updated>
+        <published>2025-02-20T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[为了解决内存泄露,我把 Vue 源码改了]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[响应式设计：打造适配所有屏幕的H5页面大小]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525193&amp;idx=2&amp;sn=55a54b2a1da623cbd007c41ea305a5fd&amp;chksm=f9926598cee5ec8eba94910f9f46eeb2a785073aa4b63c348de4a8a104c68b71f6ed6f36afde#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525193&amp;idx=2&amp;sn=55a54b2a1da623cbd007c41ea305a5fd&amp;chksm=f9926598cee5ec8eba94910f9f46eeb2a785073aa4b63c348de4a8a104c68b71f6ed6f36afde#rd"/>
-        <updated>2025-02-07T00:00:00.000Z</updated>
-        <published>2025-02-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3452期】React 开发中使用开闭原则]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275553&amp;idx=1&amp;sn=1c788c14e60702c3fe2eee866137dfd7&amp;chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275553&amp;idx=1&amp;sn=1c788c14e60702c3fe2eee866137dfd7&amp;chksm=bc9b739a9d53f8a406ffd5f4d8f2ba41d5a35583b3dd719d8d8bb7ed57c5678b41d9d7d5c140&amp;scene=0#rd"/>
         <updated>2025-02-07T00:00:00.000Z</updated>
         <published>2025-02-07T00:00:00.000Z</published>
     </entry>
