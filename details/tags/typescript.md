@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-24 16:14:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-25 00:12:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -143,6 +143,7 @@
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect) 
 - [2019-01-16-我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect) 
 - [2018-12-17-别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect) 
+- [2025-02-21-为什么很多人用-Typescript-，跟没用一样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502758&idx=1&sn=c13a8dc07ee3d5f9ac288cece69041fc&chksm=ce45de37f9325721debd8e12d11462704449c549a8b01299cb999cd0f99b5a3af6d114ba4a94#rd) 
 - [2022-12-27-连夜爆肝只为将它送到你的面前，快速转TypeScript手册](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487547&idx=1&sn=1c4fd0d819b2f29f2a6620a6128afd38&chksm=ce4605aaf9318cbcf22a43a84e8f70e9b69b157f281ae16dfbadcaec69ce876a049d89065bd5#rd) 
 - [2022-11-10-一件小事，让我更加确信TypeScript的重要性](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247487334&idx=1&sn=7b2ad4d842607682f6feda5b2f568c9f&chksm=ce461af7f93193e1d9b1ed702d311183bb61a4f935aba86666be10eebc5126b31512e2963055#rd) 
 - [2022-09-13-掌握-TypeScript-中的映射类型](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486968&idx=1&sn=40aedf5a7da1106b5c587a6b578019bd&chksm=ce461869f931917fd9f56fa12e3cc68bbe5c8d984e15ca9b837f5ca0d495186498a3f36d30da#rd) 
