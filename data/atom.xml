@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-26T02:46:25.303Z</updated>
+    <updated>2025-02-26T10:11:29.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247506024&amp;idx=1&amp;sn=308fddf210737f4c2c8aa5eba0c2ca33&amp;chksm=cea96f69f9dee67f33a2bdc86e80440d96e7371224f77f5dccf451c3bc3bccef74f15e7df79d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247506024&amp;idx=1&amp;sn=308fddf210737f4c2c8aa5eba0c2ca33&amp;chksm=cea96f69f9dee67f33a2bdc86e80440d96e7371224f77f5dccf451c3bc3bccef74f15e7df79d#rd"/>
+        <updated>2025-02-26T00:00:00.000Z</updated>
+        <published>2025-02-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
         <id>https://nodeweekly.com/issues/567</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275642&amp;idx=1&amp;sn=018bc4e7394c4850d9d39785dced9329&amp;chksm=bcdaf875866d7000a1fb8d563ed8d78e579c7678e8cf2bb0e67d688ec8826759e038553e0da4&amp;scene=0#rd"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <published>2025-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025前端面试红黑榜：这10个Vue3考点，大厂已问麻了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517032&amp;idx=1&amp;sn=3fb06fcf78c4ed9986d0966679b85099&amp;chksm=eb07bb11dc7032075a48dd409d485d1b19ef9fe9a05935256e7a02ad737ef73b179720a322f8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517032&amp;idx=1&amp;sn=3fb06fcf78c4ed9986d0966679b85099&amp;chksm=eb07bb11dc7032075a48dd409d485d1b19ef9fe9a05935256e7a02ad737ef73b179720a322f8#rd"/>
-        <updated>2025-02-11T00:00:00.000Z</updated>
-        <published>2025-02-11T00:00:00.000Z</published>
     </entry>
 </feed>

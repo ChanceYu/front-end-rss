@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-26 10:46:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-26 18:11:29。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## CSS
 
@@ -424,6 +424,7 @@
 - [2023-01-11-那些炫酷的-CSS-文字效果之诗词《兔》](https://mp.weixin.qq.com/s/Gg6nQuFmGOTB1BgVSbbLrQ) 
 - [2023-01-08-今晚-B-站直播预告---《你所不知道的CSS》](https://mp.weixin.qq.com/s/o2OYp1LJsJL4TmJI_CrzdQ) 
 - [2023-01-05-巧用视觉障眼法，还原-3D-文字特效](https://mp.weixin.qq.com/s/C0e4K65A4e7n7ygd4fAJmg) 
+- [2025-02-26-Code-Less,-Create-More丨AI-FOR-CODE-创意挑战赛即将开幕！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506024&idx=1&sn=308fddf210737f4c2c8aa5eba0c2ca33&chksm=cea96f69f9dee67f33a2bdc86e80440d96e7371224f77f5dccf451c3bc3bccef74f15e7df79d#rd) 
 - [2023-07-10-精读《自由布局吸附线的实现》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487094&idx=1&sn=cf3662f1c8e98b75eeaf826bd3465c5a&chksm=fc8628bccbf1a1aa360bcffca74a0aa21fc84f7ba1a83f630e50c83d7b65c57935f9ebd28da6#rd) 
 - [2023-06-19-精读《自由-+-磁贴混合布局》](https://mp.weixin.qq.com/s?__biz=MzU2ODg2NTcwMQ==&mid=2247487087&idx=1&sn=51ca988ba4a50d1fe544c64d8e1b9b55&chksm=fc8628a5cbf1a1b367aa0dd46ad806303fb35f59c604e92855d4068494c9f94aa3e876d59c38#rd) 
 - [2025-01-11-AI-周刊-002｜程序员跨界-AI-艺术家，3-个月制作-AI-动画获金奖](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500353&idx=1&sn=02ecb7217f7dd1ff57ccce3519e9c8e5&chksm=c2b303bef5c48aa83c6fd0e97c84a0be2e511e74ebecb918b286f6a32f3cf70f82a4e2f65157#rd) 
