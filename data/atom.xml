@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-27T14:10:51.700Z</updated>
+    <updated>2025-02-27T20:11:54.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[项目必备点-JWT鉴权你真的弄明白了吗？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525420&amp;idx=2&amp;sn=7af7e18e2308b8f01208a716685c5aa4&amp;chksm=f99262fdcee5ebebe3e6b9effef6bcec92641501b575f2b62a1a63b2425ba8f54c61f3197a40#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525420&amp;idx=2&amp;sn=7af7e18e2308b8f01208a716685c5aa4&amp;chksm=f99262fdcee5ebebe3e6b9effef6bcec92641501b575f2b62a1a63b2425ba8f54c61f3197a40#rd"/>
+        <updated>2025-02-26T00:00:00.000Z</updated>
+        <published>2025-02-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm 够用吗？初创企业为何追捧这个 JavaScript 软件包注册表？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525814&amp;idx=1&amp;sn=bf3e65ceac08ece072f8e69502fd38f5&amp;chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525814&amp;idx=1&amp;sn=bf3e65ceac08ece072f8e69502fd38f5&amp;chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd"/>
         <updated>2025-02-26T00:00:00.000Z</updated>
         <published>2025-02-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
-        <updated>2025-02-12T00:00:00.000Z</updated>
-        <published>2025-02-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝订单列表Fragment转场动画卡顿解决方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538013&amp;idx=1&amp;sn=1b172c2a216668a0b02a2736bf56c878&amp;chksm=8390c805b4e74113cb02ced7c2d66f7d8377e0910914db3dd5ab0a77c2c11c9899b0c3312a02#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538013&amp;idx=1&amp;sn=1b172c2a216668a0b02a2736bf56c878&amp;chksm=8390c805b4e74113cb02ced7c2d66f7d8377e0910914db3dd5ab0a77c2c11c9899b0c3312a02#rd"/>
         <updated>2025-02-12T00:00:00.000Z</updated>
         <published>2025-02-12T00:00:00.000Z</published>
     </entry>
