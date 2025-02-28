@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-28T08:13:47.840Z</updated>
+    <updated>2025-02-28T10:11:09.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247506024&amp;idx=1&amp;sn=308fddf210737f4c2c8aa5eba0c2ca33&amp;chksm=cea96f69f9dee67f33a2bdc86e80440d96e7371224f77f5dccf451c3bc3bccef74f15e7df79d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&amp;mid=2247506024&amp;idx=1&amp;sn=308fddf210737f4c2c8aa5eba0c2ca33&amp;chksm=cea96f69f9dee67f33a2bdc86e80440d96e7371224f77f5dccf451c3bc3bccef74f15e7df79d#rd"/>
+        <updated>2025-02-26T00:00:00.000Z</updated>
+        <published>2025-02-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器原生「磁吸」效果！Anchor Positioning 锚点定位神器解析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499441&amp;idx=1&amp;sn=cb6713ff9b3dfeef2fe8908e75ebd8b1&amp;chksm=ce269d47f9511451ba413febbae93eb3d770c48e41fa4986c29649f855b8e448304dd2631123#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499441&amp;idx=1&amp;sn=cb6713ff9b3dfeef2fe8908e75ebd8b1&amp;chksm=ce269d47f9511451ba413febbae93eb3d770c48e41fa4986c29649f855b8e448304dd2631123#rd"/>
         <updated>2025-02-26T00:00:00.000Z</updated>
         <published>2025-02-26T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621867&amp;idx=1&amp;sn=2cdd0d4fe29f1a06e225728d82927d9b&amp;chksm=80225e2ab755d73c4c281c7e4de1db51f92b26cbdad5e58b1b6e7c00fe4139c15648dfa9bf10#rd"/>
         <updated>2025-02-13T00:00:00.000Z</updated>
         <published>2025-02-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
-        <updated>2025-02-12T00:00:00.000Z</updated>
-        <published>2025-02-12T00:00:00.000Z</published>
     </entry>
 </feed>
