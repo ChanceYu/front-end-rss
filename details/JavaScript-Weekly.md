@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-02-21 22:08:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-01 00:12:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725) 
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724) 
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723) 
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722) 

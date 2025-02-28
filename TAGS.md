@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-28 20:17:05。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-01 00:12:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -117,6 +117,7 @@
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)
 - [【JavaScript-Weekly】The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)
 - [【JavaScript-Weekly】Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)
 - [【JavaScript-Weekly】Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)
@@ -129,7 +130,6 @@
 - [【JavaScript-Weekly】How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)
 - [【JavaScript-Weekly】TypeScript-2.6-released](https://javascriptweekly.com/issues/579)
 - [【前端早读课】【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)
-- [【前端早读课】【第3047期】基于-RPC-和-TypeScript-的-BFF-设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265610&idx=1&sn=d95c6f8c6b99366b2e5f2b868f4d1d59&chksm=bd48c3ce8a3f4ad815b6b47f399c1dea1d8054323b32e51e51f64ffda86665bc8a73df9e6fa2#rd)
 - [查看更多 >](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
