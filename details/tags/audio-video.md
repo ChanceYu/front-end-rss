@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-01 00:12:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-01 02:13:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -111,15 +111,16 @@
 - [2024-12-05-OpenAI-年终大战：连续-12-天直播，一大堆东西会发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500091&idx=1&sn=f4790cbe1b57fd31686693c7ce813206&chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd) 
 - [2023-12-14-在转转直播模块接入-xgplayer-的经验，完美运行！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514626&idx=1&sn=1549ca9fa01888e52fa3b576363a90d5&chksm=eb07827bdc700b6d046d23723380c567d9e1780353f580c60376f15b6b5ce890f53d3f758d1f#rd) 
 - [2023-07-02-Chrome-震撼新特性：文档画中画！（不光是视频）](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512208&idx=1&sn=af171038f66598ff89653c11c0832e3d&chksm=eb0788e9dc7001ffd544fe3da2e13df4c403d371468526df2bde475c6c094dfb9cd0d7198794#rd) 
+- [2025-02-26-视频级虚拟试衣技术在淘宝的产品化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538653&idx=1&sn=a33199937cb96771b67bd0dd1449f028&chksm=8390ca85b4e74393c539d8987fec0c7f3685b49b1871743322de7645d83504f56fdc2d1364c6#rd) 
 - [2025-02-24-多模态人物视频驱动技术回顾与业务应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538502&idx=1&sn=aa954b0e7d60240dc98ce70f6c456e06&chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd) 
 - [2024-12-16-内容AI:-目标驱动的图像生成](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537413&idx=1&sn=67b582dba5109fb0c02c351f7c18b930&chksm=839735ddb4e0bccbdaea2b98ec422d4928c91cefdd7e8da563dcd78fe2e03b06558187aae2d9#rd) 
 - [2024-12-04-淘宝直播间智能化升级：基于LLM的学习与分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537275&idx=1&sn=eb1b14cb2f8568df15442111ea675320&chksm=83973523b4e0bc351796e7cdf9cfe2d401bdcc00d79fb2723db6e54051f36c8dc2c641ad26d4#rd) 
 - [2022-06-27-大前端播放器-VideoX-如何回应业务诉求](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496052&idx=1&sn=a799a96e01d4b75fd3ae3891a54db80b&chksm=ec47bab7db3033a18dc07f55449893976f280324c8ed5d44699eb640cc65525ce06082d60295#rd) 
 - [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan) 
-- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) 
 - [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/2019/11/13/wawo2faas/) 
-- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265) 
+- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) 
 - [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/2019/03/19/web-player-h265/) 
+- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265) 
 - [2021-03-20-借助ffmpeg.wasm纯前端实现多音频和视频的合成](https://www.zhangxinxu.com/wordpress/2021/03/ffmpeg-wasm-audio-video-merge/) 
 - [2019-05-16-如何让MP4-video视频背景色变成透明？](https://www.zhangxinxu.com/wordpress/2019/05/mp4-video-background-transparent/) 
 - [2018-12-24-从天猫某活动视频不必要的3次请求说起](https://www.zhangxinxu.com/wordpress/2018/12/video-moov-box/) 

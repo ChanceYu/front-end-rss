@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-01 00:12:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-01 02:13:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725) ![](/assets/new.png)  
+- [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-02-28-5个珍藏多年的程序员画图工具](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517102&idx=1&sn=4ef838250ef9aaba4e665b496b31f5b0&chksm=eb07bbd7dc7032c1a075c14c03a7dd8a574d828e6dcdb4ae95151202078b2415f77e5f805007#rd) ![](/assets/new.png)  
 - [2025-02-25-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517100&idx=1&sn=99acb96eb55a69b56928076abe5e57de&chksm=eb07bbd5dc7032c303a281c0efd0554e23d5633fcd2c0bf350d14f152aa799c4a5c4ad9500b7#rd)  
 - [2025-02-24-前端-AI-类产品的打字机效果有哪几种实现方式？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517099&idx=1&sn=b56745481a71ef83658c8370d17f2a36&chksm=eb07bbd2dc7032c4a8ae50f4d97de541563cd8716761f621fbe871b98362e38cb9f3af4a0d3b#rd)  
 - [2025-02-21-面试复盘：Vue-和-React-的区别，从编译原理的角度来聊](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517091&idx=1&sn=55e8c85531035ac491e38f5d854f1a8a&chksm=eb07bbdadc7032ccac4fe38881e14dadbc23a0731fc8dbd9e43e222630194459172c919bf095#rd)  
@@ -438,7 +439,6 @@
 - [2025-01-20-Vapor-Mode发布前，你应该知道的一些事情！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516994&idx=1&sn=1988d18bc8fcdd8e94b434ee6e74fc5b&chksm=eb07bb3bdc70322d6d6ba789d30bf29368a5c69da3107187862c42842d976f723a6c4f7209d9#rd)  
 - [2025-01-16-不会摸鱼的大厂螺丝钉，早晚得哭着离开](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516991&idx=1&sn=2895fbd9cb8faa2603f79d3bcd43f671&chksm=eb07bb46dc703250864a142c2772aab25d2db88eb1a47e172c2f788115ce0a470bc44c453fee#rd)  
 - [2025-01-13-前端数据实时更新的巧妙实现，大揭秘！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516987&idx=1&sn=ae800d9aeebe5455810333b64cdf7cc9&chksm=eb07bb42dc7032548bb38b7e9bfa99a2ca1f0992f0b471fd6bbca13a525f6d20a7636c0af485#rd)  
-- [2025-01-07-2024-年-GitHub-上-star-增长最多的前端-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516982&idx=1&sn=5e7d377669d76dedaafd1c012df84534&chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-02-26-视频级虚拟试衣技术在淘宝的产品化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538653&idx=1&sn=a33199937cb96771b67bd0dd1449f028&chksm=8390ca85b4e74393c539d8987fec0c7f3685b49b1871743322de7645d83504f56fdc2d1364c6#rd) ![](/assets/new.png)  
 - [2025-02-24-多模态人物视频驱动技术回顾与业务应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538502&idx=1&sn=aa954b0e7d60240dc98ce70f6c456e06&chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd)  
 - [2025-02-21-【首度揭秘】淘宝2025春晚云参演证背后的AIGC技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538322&idx=1&sn=e1776b895ebe3f07f3c80f0839c0dd40&chksm=8390c94ab4e7405c1c979d07d64d7454e1fc6ed951854f4f488eca0eacaaf478abe894ae2acd#rd)  
 - [2025-02-19-天猫新品业务画布引擎](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538187&idx=1&sn=a466584988ad7f1f699666d61ac4e336&chksm=8390c8d3b4e741c5d80219ed60255fcdee6b239b0cdbbfbdfd0cdb6d7317eeda7ea83943844f#rd)  
@@ -500,7 +501,6 @@
 - [2025-01-06-Java21特性解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537631&idx=1&sn=5b7df95a4ddea0538dd9e251134a7cb4&chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd)  
 - [2025-01-03-一种可复用的AI提效方案：AI点灯](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537613&idx=1&sn=952b93bf7b35383542f686af192fc3cd&chksm=83973695b4e0bf83478744239e32bf8d458cb422b20612e25dcc7c03273da73a5196db99beb7#rd)  
 - [2024-12-31-淘宝获2024年度CCF技术发明一等奖](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537554&idx=1&sn=ddd744e684c66a3470f2f8568b9ead1b&chksm=8397364ab4e0bf5ca7e21e172409e244e6d268b9594a6cd74e8e0fd732263b8cdc7ff65ffb1a#rd)  
-- [2024-12-30-淘宝内容AI团队2024年8篇论文总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537546&idx=1&sn=e14005d455076ce0ddf3c6486368447a&chksm=83973652b4e0bf44db45aa8fa4abae4d8ac60b6c3ce2eca575e4ecaddbd0c2576a8f5be96b9d#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

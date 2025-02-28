@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-02-28T16:12:32.157Z</updated>
+    <updated>2025-02-28T18:13:20.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275841&amp;idx=1&amp;sn=2a7ef67958d735378f2153de613fb91e&amp;chksm=bcbc9fc91da5227c9d6b89baaf8abe895ed1a66f20707b8e2b7d587d950f740535e0952dbf02&amp;scene=0#rd"/>
         <updated>2025-02-27T00:00:00.000Z</updated>
         <published>2025-02-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频级虚拟试衣技术在淘宝的产品化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538653&amp;idx=1&amp;sn=a33199937cb96771b67bd0dd1449f028&amp;chksm=8390ca85b4e74393c539d8987fec0c7f3685b49b1871743322de7645d83504f56fdc2d1364c6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538653&amp;idx=1&amp;sn=a33199937cb96771b67bd0dd1449f028&amp;chksm=8390ca85b4e74393c539d8987fec0c7f3685b49b1871743322de7645d83504f56fdc2d1364c6#rd"/>
+        <updated>2025-02-26T00:00:00.000Z</updated>
+        <published>2025-02-26T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[深入探讨浏览器渲染过程]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=1&amp;sn=c85803af5ce5bfbce1cdc99ae770e4d4&amp;chksm=f9926573cee5ec650b68ac92756e8449b7e4d9be91b0e946a1966eac206a2e813eadefe8c7de#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=1&amp;sn=c85803af5ce5bfbce1cdc99ae770e4d4&amp;chksm=f9926573cee5ec650b68ac92756e8449b7e4d9be91b0e946a1966eac206a2e813eadefe8c7de#rd"/>
-        <updated>2025-02-13T00:00:00.000Z</updated>
-        <published>2025-02-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两个新的 JavaScript 提案，助你解决 ES 模块加载性能瓶颈！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=2&amp;sn=f18dc21785edbad1c4c2f536a727c296&amp;chksm=f9926573cee5ec652a6c8a246c063d1e72e7d99f6bf41cb85954f31b695aef9b8d51be2cafaf#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=2&amp;sn=f18dc21785edbad1c4c2f536a727c296&amp;chksm=f9926573cee5ec652a6c8a246c063d1e72e7d99f6bf41cb85954f31b695aef9b8d51be2cafaf#rd"/>
         <updated>2025-02-13T00:00:00.000Z</updated>
         <published>2025-02-13T00:00:00.000Z</published>
     </entry>
