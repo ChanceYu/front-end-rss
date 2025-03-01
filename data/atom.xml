@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-01T06:13:12.802Z</updated>
+    <updated>2025-03-01T08:12:25.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[包含大量加密 JS 代码，知名 VSCode 主题被微软紧急下架！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622038&amp;idx=1&amp;sn=151fc1707f6b573af728448c5d727dcb&amp;chksm=80225d57b755d441c2f21b35fafeb2182d283b89084d6f658774c268545645628dee10de3484#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622038&amp;idx=1&amp;sn=151fc1707f6b573af728448c5d727dcb&amp;chksm=80225d57b755d441c2f21b35fafeb2182d283b89084d6f658774c268545645628dee10de3484#rd"/>
+        <updated>2025-03-01T00:00:00.000Z</updated>
+        <published>2025-03-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doom for TypeScript types]]></title>
         <id>https://javascriptweekly.com/issues/725</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JavaScript 最实用的 10 种设计模式和应用场景]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517038&amp;idx=1&amp;sn=be1272a8f5c7f488d3c8e647d4f89ff7&amp;chksm=eb07bb17dc70320186b1c78aa1a88dddaff07891db6b9d7e5aa358f907f57af600e8995e47a8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517038&amp;idx=1&amp;sn=be1272a8f5c7f488d3c8e647d4f89ff7&amp;chksm=eb07bb17dc70320186b1c78aa1a88dddaff07891db6b9d7e5aa358f907f57af600e8995e47a8#rd"/>
-        <updated>2025-02-13T00:00:00.000Z</updated>
-        <published>2025-02-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入探讨浏览器渲染过程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=1&amp;sn=c85803af5ce5bfbce1cdc99ae770e4d4&amp;chksm=f9926573cee5ec650b68ac92756e8449b7e4d9be91b0e946a1966eac206a2e813eadefe8c7de#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525282&amp;idx=1&amp;sn=c85803af5ce5bfbce1cdc99ae770e4d4&amp;chksm=f9926573cee5ec650b68ac92756e8449b7e4d9be91b0e946a1966eac206a2e813eadefe8c7de#rd"/>
         <updated>2025-02-13T00:00:00.000Z</updated>
         <published>2025-02-13T00:00:00.000Z</published>
     </entry>
