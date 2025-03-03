@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-02T16:10:22.025Z</updated>
+    <updated>2025-03-03T06:14:56.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3465期】转向纯 ESM（ECMAScript Modules）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275855&amp;idx=1&amp;sn=21c52f19f466524ab85028faa2eb671b&amp;chksm=bc94711420ce627e2a27aa6387cceea0808d440ec1b6c1c138bd2d09b03ff18f0b72830ffb64&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275855&amp;idx=1&amp;sn=21c52f19f466524ab85028faa2eb671b&amp;chksm=bc94711420ce627e2a27aa6387cceea0808d440ec1b6c1c138bd2d09b03ff18f0b72830ffb64&amp;scene=0#rd"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <published>2025-03-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[7种在 JavaScript 中分解长任务的技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525458&amp;idx=1&amp;sn=99faa8ef8a8dc4638b69dc9637672227&amp;chksm=f9926283cee5eb95100f13c49f95cc14b72ccb90e5606f37ee04c57fff680ca37087732cc123#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue响应式机制深度解析：你真的掌握了吗？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525294&amp;idx=2&amp;sn=be68ceb2c0111831d0f0007f579a18a0&amp;chksm=f992657fcee5ec69eceead933810e088e0e7945a6898abf63debd8255fa67fcf886df6fbcc5f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525294&amp;idx=2&amp;sn=be68ceb2c0111831d0f0007f579a18a0&amp;chksm=f992657fcee5ec69eceead933810e088e0e7945a6898abf63debd8255fa67fcf886df6fbcc5f#rd"/>
-        <updated>2025-02-14T00:00:00.000Z</updated>
-        <published>2025-02-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 3.6 将带来这些重磅功能，更快、更强！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525294&amp;idx=1&amp;sn=b5c59ac6d5cd3a53649eec07e819b7d7&amp;chksm=f992657fcee5ec694505a8d6cef50b8a56f24474e721f7a94bb06db3fdfbcc80f5ae037fd05f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525294&amp;idx=1&amp;sn=b5c59ac6d5cd3a53649eec07e819b7d7&amp;chksm=f992657fcee5ec694505a8d6cef50b8a56f24474e721f7a94bb06db3fdfbcc80f5ae037fd05f#rd"/>
         <updated>2025-02-14T00:00:00.000Z</updated>
         <published>2025-02-14T00:00:00.000Z</published>
     </entry>
