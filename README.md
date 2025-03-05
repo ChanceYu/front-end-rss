@@ -14,22 +14,22 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-05 00:12:53，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-05 08:43:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568) ![](/assets/new.png)  
+- [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-03-04-【早阅】寻求拒绝，而不是寻求肯定的答复](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275908&idx=1&sn=05f1580d750dedf978505a2d31550eab&chksm=bc06c98b8e27506b5eb5ac2bccf94d0827e2a3e7de7980e34b67df2ff6b25f63d658b8b4457a&scene=0#rd) ![](/assets/new.png)  
+- [2025-03-04-【早阅】寻求拒绝，而不是寻求肯定的答复](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275908&idx=1&sn=05f1580d750dedf978505a2d31550eab&chksm=bc06c98b8e27506b5eb5ac2bccf94d0827e2a3e7de7980e34b67df2ff6b25f63d658b8b4457a&scene=0#rd)  
 - [2025-03-03-【第3465期】转向纯-ESM（ECMAScript-Modules）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275855&idx=1&sn=21c52f19f466524ab85028faa2eb671b&chksm=bc94711420ce627e2a27aa6387cceea0808d440ec1b6c1c138bd2d09b03ff18f0b72830ffb64&scene=0#rd)  
 - [2025-02-28-【第3464期】从初级开发者到高级开发者：借助-ChatGPT-的成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275845&idx=1&sn=fb9b8909b865585d35a1c16a96e641d1&chksm=bc2f39bce1ca027bf550aece9a1e9b944c2ab4b281aa220c3b46292a1091c944dd23be22d031&scene=0#rd)  
 - [2025-02-27-【第3463期】使用抽象语法树把低代码配置转换成源码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275841&idx=1&sn=2a7ef67958d735378f2153de613fb91e&chksm=bcbc9fc91da5227c9d6b89baaf8abe895ed1a66f20707b8e2b7d587d950f740535e0952dbf02&scene=0#rd)  
@@ -202,10 +202,10 @@
 </summary>
 
 
-- [2025-03-04-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503053&idx=1&sn=64439b99fb226142635f7fc39ab574da&chksm=ce45d95cf932504a5fc9fb33565e3271d37e9287458b155085ee55be5eb9345b2670b56c45f4#rd) ![](/assets/new.png)  
-- [2025-03-03-每月亏损4亿元？突然宣布，将暂停DeepSeek-API服务！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503042&idx=1&sn=054d0e958f650157a7f7396754e4efc0&chksm=ce45d953f93250455ddbe6f857ad2c49738f9041bc7bbdb540dde13d44eb744e149fd1da19d6#rd) ![](/assets/new.png)  
-- [2025-03-02-做前端图片预览，一定要用这个神库！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503030&idx=1&sn=b7b28824099449fc0a5ba18a3e4e4d97&chksm=ce45d927f932503108948974dcf3572cbe6bfe3ad89f954776e51d90818c12e5e32059cdea45#rd) ![](/assets/new.png)  
-- [2025-03-01-class-又臭又长怎么办？这次真的忍不了了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502913&idx=1&sn=721c7e80b9a7e0840fed82980835e593&chksm=ce45d9d0f93250c64617028c01d787c4b0ace75d687406a362cdac67e66e4f8de8ad47366269#rd) ![](/assets/new.png)  
+- [2025-03-04-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503053&idx=1&sn=64439b99fb226142635f7fc39ab574da&chksm=ce45d95cf932504a5fc9fb33565e3271d37e9287458b155085ee55be5eb9345b2670b56c45f4#rd)  
+- [2025-03-03-每月亏损4亿元？突然宣布，将暂停DeepSeek-API服务！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503042&idx=1&sn=054d0e958f650157a7f7396754e4efc0&chksm=ce45d953f93250455ddbe6f857ad2c49738f9041bc7bbdb540dde13d44eb744e149fd1da19d6#rd)  
+- [2025-03-02-做前端图片预览，一定要用这个神库！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503030&idx=1&sn=b7b28824099449fc0a5ba18a3e4e4d97&chksm=ce45d927f932503108948974dcf3572cbe6bfe3ad89f954776e51d90818c12e5e32059cdea45#rd)  
+- [2025-03-01-class-又臭又长怎么办？这次真的忍不了了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502913&idx=1&sn=721c7e80b9a7e0840fed82980835e593&chksm=ce45d9d0f93250c64617028c01d787c4b0ace75d687406a362cdac67e66e4f8de8ad47366269#rd)  
 - [2025-02-27-JavaScript-的时间处理，即将迎来重大革新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502875&idx=1&sn=8cf4901c904e84d889c78a5911a13d2a&chksm=ce45d98af932509c1ccaaf2945a60b58cc1a6e8aa5dab48024011164fec9a92f65b5125bf379#rd)  
 - [2025-02-26-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502873&idx=1&sn=59ffad4eec157ae7b5f535772c57be67&chksm=ce45d988f932509e4e80ec238acb7d8a4c406b056c360ba26003cc37ea01be78c0e144d77c3b#rd)  
 - [2025-02-25-Deepseek，2025-最值得学习10-个-Vue3-库源码？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502867&idx=1&sn=995ceda79c8865fa578d09adedd09aea&chksm=ce45d982f93250949d4e135972466c71dba79a6859230f47e1106ef2e20a295b54f763949b78#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-03-04-与AI对话的十大心法，原来90%的人都用错了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501487&idx=1&sn=6f8e2c542403770a1b22210fc0ba9e1f&chksm=c2b30750f5c48e466481d8133a4a8b4dc0565c9af1d28aa6a5f055ed889aeb662a5fed687410#rd) ![](/assets/new.png)  
 - [2025-03-01-取代房子，我们的下一个人生杠杆是-AI](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501472&idx=1&sn=6962640bcabcbb119803fb29d5c25400&chksm=c2b3075ff5c48e4916ae73bc572fbd5702b4c277ea98af014a1a9c048f653946389dd5521dde#rd)  
 - [2025-02-28-熬到凌晨四点看GPT-4.5发布会，这波血亏](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501440&idx=1&sn=dc060af2512ee485c078d7cf0ea497b0&chksm=c2b3077ff5c48e69560ca8b5615736ebb193553bbfb3ee65777e46b2c159afc3637eb48becb4#rd)  
 - [2025-02-27-DeepSeek开源第四天，霸气3连发，梁文锋本人参与开发](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501380&idx=1&sn=ea2ee3b62610f3a3fa7fbab04077f0d8&chksm=c2b307bbf5c48ead686e60b793cd5ed3ca92b20a02759d1b3e91b508fda877692dcdb6539086#rd)  
@@ -407,7 +408,6 @@
 - [2025-02-09-DeepSeek-进阶指南，组合-8-款-AI-神器保姆级图解教程（附提示词库）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500783&idx=1&sn=235f492ab3f0602f9f9063ce6d76af28&chksm=c2b30210f5c48b06f67ca3117f45d78882c39124a9c31fe374a3a498cbdbf0ebfad30f6ed00f#rd)  
 - [2025-02-05-国家超算互联网正式上线DeepSeek，打造全民可及的智能基础设施](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500639&idx=1&sn=90138d82daf374031a44949a9a3a7d8e&chksm=c2b302a0f5c48bb674b54f9b045b44fae7d1bb5f06a67ce85394b38d45aa537128d9a5ba86ae#rd)  
 - [2025-02-03-国产AI搜索无缝对接DeepSeek，联网搜索永不掉线！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500624&idx=1&sn=91d7fce7313f75ed56c91e7b1a91193d&chksm=c2b302aff5c48bb95423db8e0b63dc3d2e265dfb4e91de356a2ee30e8ff7f7944e62ca7e34a1#rd)  
-- [2025-02-02-DeepSeek零门槛三步极速部署指南，注册秒过，对话零延迟！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500533&idx=1&sn=93587e9d930ab9cd38243bfa66e85e89&chksm=c2b3030af5c48a1cbd5373e39f1c15f188d5bbf2b61d1efbe1d392788aad372615db039e632b#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
