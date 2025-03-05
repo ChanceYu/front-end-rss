@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-05T08:14:05.074Z</updated>
+    <updated>2025-03-05T16:16:45.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[终于等到了，CSS offset-path全浏览器全支持]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/"/>
+        <updated>2025-03-05T00:00:00.000Z</updated>
+        <published>2025-03-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript gets on board with Node's type stripping]]></title>
         <id>https://nodeweekly.com/issues/568</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[探索淘宝购物车SurfaceView闪黑的解决方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538039&amp;idx=1&amp;sn=9187c5c7a72ece00300a8a037ad607d2&amp;chksm=8390c82fb4e74139c53505ef653c4d84d1d142f35d0403fe2a28d8d416ad21db47b05f1bb82d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538039&amp;idx=1&amp;sn=9187c5c7a72ece00300a8a037ad607d2&amp;chksm=8390c82fb4e74139c53505ef653c4d84d1d142f35d0403fe2a28d8d416ad21db47b05f1bb82d#rd"/>
-        <updated>2025-02-14T00:00:00.000Z</updated>
-        <published>2025-02-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪在2025年Vue.js nation 大会上的分享内容！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517041&amp;idx=1&amp;sn=b98a2636442e5d98cbdd3546c0d45d7e&amp;chksm=eb07bb08dc70321e51314eac61019d655bd4ce659fb3167ca33e5de9cadef489ff73f9d7a714#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517041&amp;idx=1&amp;sn=b98a2636442e5d98cbdd3546c0d45d7e&amp;chksm=eb07bb08dc70321e51314eac61019d655bd4ce659fb3167ca33e5de9cadef489ff73f9d7a714#rd"/>
         <updated>2025-02-14T00:00:00.000Z</updated>
         <published>2025-02-14T00:00:00.000Z</published>
     </entry>
