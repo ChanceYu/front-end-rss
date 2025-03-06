@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-05T22:09:50.950Z</updated>
+    <updated>2025-03-06T04:12:46.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3467期】使用 LLMS 构建网站]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275931&amp;idx=1&amp;sn=016edab733228e48f5407e6f733291db&amp;chksm=bc40dcd5857dcdbfb3938094c299d7275008acad09c31862aa448352b73eb1e0d22f67706f48&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275931&amp;idx=1&amp;sn=016edab733228e48f5407e6f733291db&amp;chksm=bc40dcd5857dcdbfb3938094c299d7275008acad09c31862aa448352b73eb1e0d22f67706f48&amp;scene=0#rd"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <published>2025-03-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终于等到了，CSS offset-path全浏览器全支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502689&amp;idx=1&amp;sn=02ab4f99e22f2a355c49d98e7274c811&amp;chksm=ce45def0f93257e6ec40d3022c7a16a79b62ee2fdf4500b356aaa14c2ab0aca46d3a93225b4d#rd"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <published>2025-02-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3.6 要起飞了！响应式性能超级大提升！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517045&amp;idx=1&amp;sn=819e7d4d0f159d11f7488fb21d201ed7&amp;chksm=eb07bb0cdc70321a5e15e64c884d1a225e6333a7b0f67bbeb5ee63d848c09babd7f50f36fdfb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517045&amp;idx=1&amp;sn=819e7d4d0f159d11f7488fb21d201ed7&amp;chksm=eb07bb0cdc70321a5e15e64c884d1a225e6333a7b0f67bbeb5ee63d848c09babd7f50f36fdfb#rd"/>
-        <updated>2025-02-17T00:00:00.000Z</updated>
-        <published>2025-02-17T00:00:00.000Z</published>
     </entry>
 </feed>
