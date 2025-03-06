@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-06T20:11:25.336Z</updated>
+    <updated>2025-03-06T22:09:24.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[2025 React + TypeScript 实战指南！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517119&amp;idx=1&amp;sn=343e657aa0a90e1c0d4a8e4eccc51fa7&amp;chksm=eb07bbc6dc7032d0bf1af180b300c75632c4f888230e027a293898527aafbfcfca8e7dc95396#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517119&amp;idx=1&amp;sn=343e657aa0a90e1c0d4a8e4eccc51fa7&amp;chksm=eb07bbc6dc7032d0bf1af180b300c75632c4f888230e027a293898527aafbfcfca8e7dc95396#rd"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <published>2025-03-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多人在线协作的神秘代码：Yjs 底层解密]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622094&amp;idx=1&amp;sn=e1d9a6800bd30c87ae931495845db20c&amp;chksm=80225d0fb755d419dd548610401de4d3b9d8cb43bc70450deb148856b0941397abcfa9dc47ae#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[HTML中不为人知的细节小知识]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=2&amp;sn=3dec771f9d1504fdf828dec12c6fbec7&amp;chksm=f992650ccee5ec1ae7393e4e296f40889161b01109058e94cfabd976ae99b96f0f308fb98262#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=2&amp;sn=3dec771f9d1504fdf828dec12c6fbec7&amp;chksm=f992650ccee5ec1ae7393e4e296f40889161b01109058e94cfabd976ae99b96f0f308fb98262#rd"/>
-        <updated>2025-02-18T00:00:00.000Z</updated>
-        <published>2025-02-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端实现画中画超简单，让网页飞出浏览器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=1&amp;sn=8cdf702e17ba35466d85e2b895654490&amp;chksm=f992650ccee5ec1a5c8a6c2151fcf5d0a37a5ccc094a47b810c66495234675577afc97bb03fc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=1&amp;sn=8cdf702e17ba35466d85e2b895654490&amp;chksm=f992650ccee5ec1a5c8a6c2151fcf5d0a37a5ccc094a47b810c66495234675577afc97bb03fc#rd"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <published>2025-02-18T00:00:00.000Z</published>
     </entry>
