@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-07 00:12:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-07 04:11:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-03-06-北京大学出的第四份-DeepSeek-教程来了！（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=2&sn=f0d1df6f42a43721624c9aff45258301&chksm=80225d0fb755d4194132c0fd629f89d3265629e8dd62c02e9e417492cba9d143e82c314fc5f5#rd) ![](/assets/new.png)  
-- [2025-03-06-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=1&sn=e1d9a6800bd30c87ae931495845db20c&chksm=80225d0fb755d419dd548610401de4d3b9d8cb43bc70450deb148856b0941397abcfa9dc47ae#rd) ![](/assets/new.png)  
+- [2025-03-06-北京大学出的第四份-DeepSeek-教程来了！（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=2&sn=f0d1df6f42a43721624c9aff45258301&chksm=80225d0fb755d4194132c0fd629f89d3265629e8dd62c02e9e417492cba9d143e82c314fc5f5#rd)  
+- [2025-03-06-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=1&sn=e1d9a6800bd30c87ae931495845db20c&chksm=80225d0fb755d419dd548610401de4d3b9d8cb43bc70450deb148856b0941397abcfa9dc47ae#rd)  
 - [2025-03-05-北京大学出的第三份-DeepSeek-教程来了！（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622060&idx=2&sn=3e4541df94f475ecf7b5697a396ada76&chksm=80225d6db755d47b30104f98c4e4b17a58d3bc5768e51e7bb1ae04404dc4b97eaed3b18c54c3#rd)  
 - [2025-03-05-阿里巴巴：裁减-24940-人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622060&idx=1&sn=b5e9aebe6df0c01a9064978f6ff02807&chksm=80225d6db755d47ba65cb104c4e12da013c2f68d043297655d7c8ac28e3cbc73e105f93e2bd4#rd)  
 - [2025-03-03-不会吧，2025年了，还没有用cursor](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=1&sn=141e65186969edbfda349fde65cb7ee3&chksm=80225d60b755d4760a8a7672675d01802eda9547d78748f221e3a8bf22016a7da33e9bc16a78#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-03-06-首款L4级别的Agent产品Manus，DeepSeek之后又一个王炸](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501560&idx=1&sn=5124f4a389b1ba8dda0b57fa9ae39ffe&chksm=c2b30707f5c48e112c4636a3f1dc26e74d1e69eb43e7f1e2b74c554ab81e82661c3b02e5568a#rd) ![](/assets/new.png)  
 - [2025-03-05-智谱开源AI绘画CogView4，开源之火烧的更旺了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501516&idx=1&sn=01b3c07e29e1aa883c86e703676032eb&chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd)  
 - [2025-03-04-与AI对话的十大心法，原来90%的人都用错了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501487&idx=1&sn=6f8e2c542403770a1b22210fc0ba9e1f&chksm=c2b30750f5c48e466481d8133a4a8b4dc0565c9af1d28aa6a5f055ed889aeb662a5fed687410#rd)  
 - [2025-03-01-取代房子，我们的下一个人生杠杆是-AI](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501472&idx=1&sn=6962640bcabcbb119803fb29d5c25400&chksm=c2b3075ff5c48e4916ae73bc572fbd5702b4c277ea98af014a1a9c048f653946389dd5521dde#rd)  
@@ -407,7 +408,6 @@
 - [2025-02-11-苹果与阿里合作，在iPhone上提供AI，为啥不选DeepSeek？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500824&idx=1&sn=913ba33d8ed9ae0b00be260f6614066d&chksm=c2b305e7f5c48cf101e3c0a05ae1cb188a935ccc4e0bf78463550c1987e7ed91340925daab90#rd)  
 - [2025-02-10-Windows用户福音！免费跑联网满血版DeepSeek方案实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500814&idx=1&sn=8a84e9dcb5d344a951fda46789d2bc25&chksm=c2b305f1f5c48ce785f7681d7e4683f026ffe64028566c37c90c73198afb6ea2e5974c474b80#rd)  
 - [2025-02-09-DeepSeek-进阶指南，组合-8-款-AI-神器保姆级图解教程（附提示词库）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500783&idx=1&sn=235f492ab3f0602f9f9063ce6d76af28&chksm=c2b30210f5c48b06f67ca3117f45d78882c39124a9c31fe374a3a498cbdbf0ebfad30f6ed00f#rd)  
-- [2025-02-05-国家超算互联网正式上线DeepSeek，打造全民可及的智能基础设施](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500639&idx=1&sn=90138d82daf374031a44949a9a3a7d8e&chksm=c2b302a0f5c48bb674b54f9b045b44fae7d1bb5f06a67ce85394b38d45aa537128d9a5ba86ae#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
