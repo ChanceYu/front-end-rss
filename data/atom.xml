@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-07T16:12:06.364Z</updated>
+    <updated>2025-03-07T20:11:56.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[2025 React + TypeScript 实战指南！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517119&amp;idx=1&amp;sn=343e657aa0a90e1c0d4a8e4eccc51fa7&amp;chksm=eb07bbc6dc7032d0bf1af180b300c75632c4f888230e027a293898527aafbfcfca8e7dc95396#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517119&amp;idx=1&amp;sn=343e657aa0a90e1c0d4a8e4eccc51fa7&amp;chksm=eb07bbc6dc7032d0bf1af180b300c75632c4f888230e027a293898527aafbfcfca8e7dc95396#rd"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <published>2025-03-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte 不是 JavaScript]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525831&amp;idx=1&amp;sn=8ae81b3c796905bc720dac999021c857&amp;chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525831&amp;idx=1&amp;sn=8ae81b3c796905bc720dac999021c857&amp;chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd"/>
         <updated>2025-03-06T00:00:00.000Z</updated>
         <published>2025-03-06T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[解锁 Vue Hooks：让 Vue 开发效率起飞]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621946&amp;idx=1&amp;sn=78f6def7f9060d84bca21755bcaf3b21&amp;chksm=80225dfbb755d4edb72dea95ceea96514ee0f8c32b7d20870ee13c69de82c252f87ccd965b08#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621946&amp;idx=1&amp;sn=78f6def7f9060d84bca21755bcaf3b21&amp;chksm=80225dfbb755d4edb72dea95ceea96514ee0f8c32b7d20870ee13c69de82c252f87ccd965b08#rd"/>
-        <updated>2025-02-19T00:00:00.000Z</updated>
-        <published>2025-02-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3458期】React 团队宣布停止维护 Create React App]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275703&amp;idx=1&amp;sn=a3201e14b05550c09c0af6e1af39d189&amp;chksm=bcd04f61450ac3d267bd17b8ed2cc5f7301b3f4fc948384edee4235539ff6dc3624d421f8ae3&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275703&amp;idx=1&amp;sn=a3201e14b05550c09c0af6e1af39d189&amp;chksm=bcd04f61450ac3d267bd17b8ed2cc5f7301b3f4fc948384edee4235539ff6dc3624d421f8ae3&amp;scene=0#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>

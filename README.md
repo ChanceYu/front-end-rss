@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-08 00:12:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-08 04:11:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726) ![](/assets/new.png)  
+- [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)  
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-03-06-Svelte-不是-JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525831&idx=1&sn=8ae81b3c796905bc720dac999021c857&chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd) ![](/assets/new.png)  
 - [2025-02-26-npm-够用吗？初创企业为何追捧这个-JavaScript-软件包注册表？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525814&idx=1&sn=bf3e65ceac08ece072f8e69502fd38f5&chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd)  
 - [2025-02-19-Dagger：我们用-GO-和-WebAssembly-替换了-React-前端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525796&idx=1&sn=febe59179a516cdb3c14ae39d124c780&chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd)  
 - [2025-02-12-用了-7-年-Web-组件，踩坑无数，我终于看清了的真相](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525781&idx=1&sn=276067f4150bc9bd635151ef97d753d0&chksm=f952d0d6ce2559c06aded53643ec5e1d1709c93c44f33c2526d0bf8bcdd1c3cebfe91044cc15#rd)  
@@ -190,7 +191,6 @@
 - [2024-10-23-放弃-React，微软-Edge-团队改用-Web-组件减少对-JavaScript-的依赖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525407&idx=1&sn=db6ef5440722bf2b6ddb1c6a1a04079f&chksm=f952d15cce25584a2f9780b02f21070597148740192ec858e3cca603ef16204561e6c70daf96#rd)  
 - [2024-10-16-对话Motiff妙多赵薇：大模型在UI设计工具中的交互挑战与机遇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525401&idx=1&sn=2134333d2840357cd446ab4aebee9945&chksm=f952d15ace25584cef7b27da1e893ad9975a431cbffc1af77f3e79aa5a2519a5b478cc92b16c#rd)  
 - [2024-10-14-iOS-上手-Vision-Pro-还未摸到门道？快来听听淘宝-Vision-Pro-的最佳实践！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525372&idx=1&sn=0dfdeca47a1d33a1216ed60ecf40e0be&chksm=f952d6bfce255fa9a0899bc781e681dcbd5e86be84337eb16d3f37af1d07cfa153210720003e#rd)  
-- [2023-12-25-2024年，你应该知道的5种React设计模式](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523515&idx=1&sn=07e72deb59c0cb87fe222214ec01bf17&chksm=f95229f8ce25a0ee9d0083d312d5e8991b9185eaa83740aa24ef4628d799f788424ee4991677#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
