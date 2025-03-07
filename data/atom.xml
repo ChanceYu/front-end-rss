@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-06T22:09:24.277Z</updated>
+    <updated>2025-03-07T14:10:24.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3468期】从 React 看前端 UI 代码范式革命]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275943&amp;idx=1&amp;sn=e05bb050e11f14705c2eb6550b778a10&amp;chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275943&amp;idx=1&amp;sn=e05bb050e11f14705c2eb6550b778a10&amp;chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&amp;scene=0#rd"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <published>2025-03-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 React + TypeScript 实战指南！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517119&amp;idx=1&amp;sn=343e657aa0a90e1c0d4a8e4eccc51fa7&amp;chksm=eb07bbc6dc7032d0bf1af180b300c75632c4f888230e027a293898527aafbfcfca8e7dc95396#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[巧用 CSS 实现 deepseek 都无法实现的复杂怪状按钮 - 内凹平滑圆角]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499409&amp;idx=1&amp;sn=abcce97ec283ec9bb7d6e5a799f798ad&amp;chksm=ce269d67f951147134cd54f3984df43bcaf3bcc1e818b51f20562f2ea301c6f2e25ff84bf1cf#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499409&amp;idx=1&amp;sn=abcce97ec283ec9bb7d6e5a799f798ad&amp;chksm=ce269d67f951147134cd54f3984df43bcaf3bcc1e818b51f20562f2ea301c6f2e25ff84bf1cf#rd"/>
-        <updated>2025-02-18T00:00:00.000Z</updated>
-        <published>2025-02-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML中不为人知的细节小知识]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=2&amp;sn=3dec771f9d1504fdf828dec12c6fbec7&amp;chksm=f992650ccee5ec1ae7393e4e296f40889161b01109058e94cfabd976ae99b96f0f308fb98262#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525341&amp;idx=2&amp;sn=3dec771f9d1504fdf828dec12c6fbec7&amp;chksm=f992650ccee5ec1ae7393e4e296f40889161b01109058e94cfabd976ae99b96f0f308fb98262#rd"/>
         <updated>2025-02-18T00:00:00.000Z</updated>
         <published>2025-02-18T00:00:00.000Z</published>
     </entry>
