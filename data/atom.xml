@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-07T14:10:24.267Z</updated>
+    <updated>2025-03-07T16:12:06.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3468期】从 React 看前端 UI 代码范式革命]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275943&amp;idx=1&amp;sn=e05bb050e11f14705c2eb6550b778a10&amp;chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275943&amp;idx=1&amp;sn=e05bb050e11f14705c2eb6550b778a10&amp;chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&amp;scene=0#rd"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <published>2025-03-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The current state of JavaScript on the Web]]></title>
+        <id>https://javascriptweekly.com/issues/726</id>
+        <link href="https://javascriptweekly.com/issues/726"/>
         <updated>2025-03-07T00:00:00.000Z</updated>
         <published>2025-03-07T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275703&amp;idx=1&amp;sn=a3201e14b05550c09c0af6e1af39d189&amp;chksm=bcd04f61450ac3d267bd17b8ed2cc5f7301b3f4fc948384edee4235539ff6dc3624d421f8ae3&amp;scene=0#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巧用 CSS 实现 deepseek 都无法实现的复杂怪状按钮 - 内凹平滑圆角]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499409&amp;idx=1&amp;sn=abcce97ec283ec9bb7d6e5a799f798ad&amp;chksm=ce269d67f951147134cd54f3984df43bcaf3bcc1e818b51f20562f2ea301c6f2e25ff84bf1cf#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499409&amp;idx=1&amp;sn=abcce97ec283ec9bb7d6e5a799f798ad&amp;chksm=ce269d67f951147134cd54f3984df43bcaf3bcc1e818b51f20562f2ea301c6f2e25ff84bf1cf#rd"/>
-        <updated>2025-02-18T00:00:00.000Z</updated>
-        <published>2025-02-18T00:00:00.000Z</published>
     </entry>
 </feed>
