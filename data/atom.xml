@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-08T00:34:42.555Z</updated>
+    <updated>2025-03-08T08:10:07.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[教你怎么使用 Vue3 的方式去开发 React]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503105&amp;idx=1&amp;sn=6fc46ce5210be97558b5bf387c77dca6&amp;chksm=ce45d890f9325186e9d6c61e3bbc29afb4ed27c9c317e62b8cec0ce2e5f75754c5c865defab7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503105&amp;idx=1&amp;sn=6fc46ce5210be97558b5bf387c77dca6&amp;chksm=ce45d890f9325186e9d6c61e3bbc29afb4ed27c9c317e62b8cec0ce2e5f75754c5c865defab7#rd"/>
+        <updated>2025-03-08T00:00:00.000Z</updated>
+        <published>2025-03-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Chrome DevTools 分析 Node.js 性能问题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525518&amp;idx=1&amp;sn=9fc9d2992212d46dfccac4ec7a888603&amp;chksm=f992625fcee5eb4934e6542057aa7228d85a044e2b60144532e3784ad5f92e67e8d79eef38fa#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[不再需要配置！Node.js 23 支持原生 TypeScript 执行！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=2&amp;sn=7b69c9fd104603074448477f1b54d947&amp;chksm=f9926538cee5ec2eefbc6cb647004853b9ba915f0a54d1ba5402cf8b9db35d1803ddeb8d1064#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=2&amp;sn=7b69c9fd104603074448477f1b54d947&amp;chksm=f9926538cee5ec2eefbc6cb647004853b9ba915f0a54d1ba5402cf8b9db35d1803ddeb8d1064#rd"/>
-        <updated>2025-02-19T00:00:00.000Z</updated>
-        <published>2025-02-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowmix/Docx，一个超越文档的多模态文档编辑器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502718&amp;idx=1&amp;sn=5b30d04c1c5c63cba7efdbadf27539e7&amp;chksm=ce45deeff93257f9eb4f08f12d39252bbc11bc7d9742f8cd5a739b44ea502a98589aba030b45#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502718&amp;idx=1&amp;sn=5b30d04c1c5c63cba7efdbadf27539e7&amp;chksm=ce45deeff93257f9eb4f08f12d39252bbc11bc7d9742f8cd5a739b44ea502a98589aba030b45#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>
