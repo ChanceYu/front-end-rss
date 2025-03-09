@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-09 22:05:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-10 00:09:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,11 +29,11 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-03-07-腾讯AI视频模型重磅开源，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501620&idx=1&sn=f740bc98a31c8764a1e77280e0c5fb76&chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd) ![](/assets/new.png)  
 - [2025-03-06-首款L4级别的Agent产品Manus，DeepSeek之后又一个王炸](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501560&idx=1&sn=5124f4a389b1ba8dda0b57fa9ae39ffe&chksm=c2b30707f5c48e112c4636a3f1dc26e74d1e69eb43e7f1e2b74c554ab81e82661c3b02e5568a#rd)  
 - [2025-03-05-智谱开源AI绘画CogView4，开源之火烧的更旺了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501516&idx=1&sn=01b3c07e29e1aa883c86e703676032eb&chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd)  
 - [2025-03-04-与AI对话的十大心法，原来90%的人都用错了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501487&idx=1&sn=6f8e2c542403770a1b22210fc0ba9e1f&chksm=c2b30750f5c48e466481d8133a4a8b4dc0565c9af1d28aa6a5f055ed889aeb662a5fed687410#rd)  
@@ -407,7 +408,6 @@
 - [2025-02-12-体验完飞书里的DeepSeek，我人麻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500871&idx=1&sn=597321970a16cbee63c1ed99f48fd933&chksm=c2b305b8f5c48cae359c45ff3fd34831be8c75a1aedd0185045afe820be2ddedc7a3ff3f4453#rd)  
 - [2025-02-11-苹果与阿里合作，在iPhone上提供AI，为啥不选DeepSeek？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500824&idx=1&sn=913ba33d8ed9ae0b00be260f6614066d&chksm=c2b305e7f5c48cf101e3c0a05ae1cb188a935ccc4e0bf78463550c1987e7ed91340925daab90#rd)  
 - [2025-02-10-Windows用户福音！免费跑联网满血版DeepSeek方案实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500814&idx=1&sn=8a84e9dcb5d344a951fda46789d2bc25&chksm=c2b305f1f5c48ce785f7681d7e4683f026ffe64028566c37c90c73198afb6ea2e5974c474b80#rd)  
-- [2025-02-09-DeepSeek-进阶指南，组合-8-款-AI-神器保姆级图解教程（附提示词库）](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500783&idx=1&sn=235f492ab3f0602f9f9063ce6d76af28&chksm=c2b30210f5c48b06f67ca3117f45d78882c39124a9c31fe374a3a498cbdbf0ebfad30f6ed00f#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/) ![](/assets/new.png)  
+- [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-09T14:05:57.575Z</updated>
+    <updated>2025-03-09T16:09:51.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503105&amp;idx=1&amp;sn=6fc46ce5210be97558b5bf387c77dca6&amp;chksm=ce45d890f9325186e9d6c61e3bbc29afb4ed27c9c317e62b8cec0ce2e5f75754c5c865defab7#rd"/>
         <updated>2025-03-08T00:00:00.000Z</updated>
         <published>2025-03-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯AI视频模型重磅开源，一手实测来了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247501620&amp;idx=1&amp;sn=f740bc98a31c8764a1e77280e0c5fb76&amp;chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247501620&amp;idx=1&amp;sn=f740bc98a31c8764a1e77280e0c5fb76&amp;chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <published>2025-03-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 Chrome DevTools 分析 Node.js 性能问题]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[2025，重新认识 HTML！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499414&amp;idx=1&amp;sn=3685ff0fe846d50843519f482f8f4029&amp;chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499414&amp;idx=1&amp;sn=3685ff0fe846d50843519f482f8f4029&amp;chksm=ce269d60f951147662e21de956a80781f52c29d85c14d765f13d93726d4d97c648d408add397#rd"/>
-        <updated>2025-02-19T00:00:00.000Z</updated>
-        <published>2025-02-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享一些不错的JS/TS代码片段]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>
