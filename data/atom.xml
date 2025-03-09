@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-09T06:11:10.504Z</updated>
+    <updated>2025-03-09T14:05:57.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS @supports规则又新增font-tech,font-format判断]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/"/>
+        <updated>2025-03-09T00:00:00.000Z</updated>
+        <published>2025-03-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教你怎么使用 Vue3 的方式去开发 React]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503105&amp;idx=1&amp;sn=6fc46ce5210be97558b5bf387c77dca6&amp;chksm=ce45d890f9325186e9d6c61e3bbc29afb4ed27c9c317e62b8cec0ce2e5f75754c5c865defab7#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[分享一些不错的JS/TS代码片段]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=1&amp;sn=b49e56d82830b3ff15927048c91d93fe&amp;chksm=f9926538cee5ec2e2a24d84de1c3cad3dd8bdd647c5e2f4a1c68a736ff32ed5b92a1e15b83ae#rd"/>
-        <updated>2025-02-19T00:00:00.000Z</updated>
-        <published>2025-02-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不再需要配置！Node.js 23 支持原生 TypeScript 执行！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=2&amp;sn=7b69c9fd104603074448477f1b54d947&amp;chksm=f9926538cee5ec2eefbc6cb647004853b9ba915f0a54d1ba5402cf8b9db35d1803ddeb8d1064#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525353&amp;idx=2&amp;sn=7b69c9fd104603074448477f1b54d947&amp;chksm=f9926538cee5ec2eefbc6cb647004853b9ba915f0a54d1ba5402cf8b9db35d1803ddeb8d1064#rd"/>
         <updated>2025-02-19T00:00:00.000Z</updated>
         <published>2025-02-19T00:00:00.000Z</published>
     </entry>
