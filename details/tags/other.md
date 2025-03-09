@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-08 16:10:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-09 14:11:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3275,6 +3275,7 @@
 - [2023-04-13-修复违和感！有意思的粘性气泡-Loading-效果续集](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495476&idx=1&sn=c6962b8d952ffd4d0b5b72f2c37c21b0&chksm=ce268cc2f95105d4196fb4804202a7955799903f0008ef415be984618d3610df63a2488e8113#rd) 
 - [2023-01-15-不负时光，Coco-的-2022-年终总结](https://mp.weixin.qq.com/s/3VLFVxfV2rCgNlJIqo8Wvg) 
 - [2022-12-29-Amazing!如何根据背景色自动切换黑白文字？](https://mp.weixin.qq.com/s/rp4W45Y2Sl3FrQtoRRSTnw) 
+- [2025-03-07-家庭物资杂乱无章？我靠AI逆天改命！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506066&idx=1&sn=783af14cc3afe7ae4d6a6b45e8adcba8&chksm=cea96f93f9dee6853b1d3caa748d685d064d9e16bc1630684f18fd542e63915733155cb934a2#rd) 
 - [2025-03-03-中国首款AI-IDE：Trae国内版发布，配置豆包1.5pro，支持切换满血版DeepSeek模型](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506030&idx=1&sn=979523679be183afb7ba3a0a5f532a63&chksm=cea96f6ff9dee679b135f0e48adb4c4e558b7cfb3f4a57baf4ef13964614052ea8cf3d802e9c#rd) 
 - [2025-02-18-独家首发，免费｜Trae-从入门到实践，开启-AI-编码新征程！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506009&idx=1&sn=61059eb25d289afa7e63cb1cbb5bfa45&chksm=cea96f58f9dee64ed490da91a29b6cbf1ef89225b0ed1e8645bb70ea04252b503fce82bda872#rd) 
 - [2025-02-12-仅需3步，稳定快速！火山引擎边缘大模型网关全面支持DeepSeek系列模型](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505992&idx=1&sn=66abddb2651edcc0cc852ab2c3b047d2&chksm=cea96f49f9dee65f35c04f5ee2be1722bf5bf5926e33d77464272b5aa0cff9c164d75c218734#rd) 
