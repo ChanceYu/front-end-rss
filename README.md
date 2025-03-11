@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-11 12:13:19，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-11 18:12:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-03-11-【第3470期】利用大型语言模型（LLMs）逆向还原-JavaScript-变量名缩写](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275955&idx=1&sn=7533685d7e8225d346a40210bb3255e6&chksm=bc51b570751952b7094bf20914a6f8b8a5e5b4f8524f996d0bf632a2c519d6123f124d043a4a&scene=0#rd) ![](/assets/new.png)  
+- [2025-03-11-【第3470期】利用大型语言模型（LLMs）逆向还原-JavaScript-变量名缩写](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275955&idx=1&sn=7533685d7e8225d346a40210bb3255e6&chksm=bc51b570751952b7094bf20914a6f8b8a5e5b4f8524f996d0bf632a2c519d6123f124d043a4a&scene=0#rd)  
 - [2025-03-10-【第3469期】为什么-React-出人意料地成为-LLM-工作流程的最佳模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275949&idx=1&sn=b06ef9f3067b1146ae6fb0d8553b9a8f&chksm=bc318e6e00ba8c2ab26206c2b84cae633e33cce4b5ffb0f8e52a51b46476c506a25d6560b2a7&scene=0#rd)  
 - [2025-03-07-【第3468期】从-React-看前端-UI-代码范式革命](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275943&idx=1&sn=e05bb050e11f14705c2eb6550b778a10&chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&scene=0#rd)  
 - [2025-03-06-【第3467期】使用-LLMS-构建网站](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275931&idx=1&sn=016edab733228e48f5407e6f733291db&chksm=bc40dcd5857dcdbfb3938094c299d7275008acad09c31862aa448352b73eb1e0d22f67706f48&scene=0#rd)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-03-10-55-岁程序员预感被裁，提前在服务器埋雷，被裁当天数千员工集体掉线…最绝的是他给检方送了一堆证据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=1&sn=d47c53527c54109f02b141eaf10b6a69&chksm=80225cc8b755d5dec584a20b69a3e0e2dc041d110cac137b46df38db3ab20ab572975335e61b#rd) ![](/assets/new.png)  
-- [2025-03-10-湖南大学的-DeepSeek-教程来了！（PDF免费下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=2&sn=da9ca58d3a60dea84600e356fdda2997&chksm=80225cc8b755d5de647467710dc415af9bc9420f4861c84da466e505c155f00afa0e1539eef8#rd) ![](/assets/new.png)  
+- [2025-03-10-55-岁程序员预感被裁，提前在服务器埋雷，被裁当天数千员工集体掉线…最绝的是他给检方送了一堆证据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=1&sn=d47c53527c54109f02b141eaf10b6a69&chksm=80225cc8b755d5dec584a20b69a3e0e2dc041d110cac137b46df38db3ab20ab572975335e61b#rd)  
+- [2025-03-10-湖南大学的-DeepSeek-教程来了！（PDF免费下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=2&sn=da9ca58d3a60dea84600e356fdda2997&chksm=80225cc8b755d5de647467710dc415af9bc9420f4861c84da466e505c155f00afa0e1539eef8#rd)  
 - [2025-03-09-程序员准点下班，主管批评没完成任务就跑了，还要评估他是否有能力胜任，程序员爆粗大骂主管，2-天后被火速解雇…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622122&idx=1&sn=d5de7a6d0bb0fb186f35a474cdb55df9&chksm=80225d2bb755d43d6eec945685f55923a942ba45a1d24337ddda3c50c930656ceddc86839fc6#rd)  
 - [2025-03-09-告别-axios，ngify-让你的-HTTP-请求更灵活、更强大](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622122&idx=2&sn=c5d95f439127a333284bdb5c373c6383&chksm=80225d2bb755d43d17878666f386d9eca83cfb21fd9de49cd5d61a00b39a00fc131cad4f72ea#rd)  
 - [2025-03-08-被骂了！腾讯道歉-+-立刻改正](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622109&idx=1&sn=22652af747f1d8956327049dc7380ca6&chksm=80225d1cb755d40a6cf20ff76d26ca2cc071793bae25c3edc04847ea26ea54b52e3e8d850d49#rd)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-03-10-字节Trae国内版上线，小白入门AI编程神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501678&idx=1&sn=0f12cc857f53edd1296e5950b116b8c0&chksm=c2b30691f5c48f87648499ef4f9d1c4741f1273033eb81946e21699b6b7b83593e4366886f39#rd) ![](/assets/new.png)  
+- [2025-03-09-Manus一手实测，非常惊艳但也有不足](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501657&idx=1&sn=56e2a17de47b6bddb37a97b473831b49&chksm=c2b306a6f5c48fb0b74732d75f46e53f0ef9043813d7f53fcbdfda35eb22ff31307e53810eae#rd) ![](/assets/new.png)  
 - [2025-03-07-腾讯AI视频模型重磅开源，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501620&idx=1&sn=f740bc98a31c8764a1e77280e0c5fb76&chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd)  
 - [2025-03-06-首款L4级别的Agent产品Manus，DeepSeek之后又一个王炸](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501560&idx=1&sn=5124f4a389b1ba8dda0b57fa9ae39ffe&chksm=c2b30707f5c48e112c4636a3f1dc26e74d1e69eb43e7f1e2b74c554ab81e82661c3b02e5568a#rd)  
 - [2025-03-05-智谱开源AI绘画CogView4，开源之火烧的更旺了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501516&idx=1&sn=01b3c07e29e1aa883c86e703676032eb&chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd)  
@@ -406,8 +408,6 @@
 - [2025-02-16-微信接入DeepSeek，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500977&idx=1&sn=d20ddefb264f6647223a065c302f3549&chksm=c2b3054ef5c48c58115256658417ba5df966d5790d5e6ce8102b2a7802f96d43e500de082f79#rd)  
 - [2025-02-14-腾讯元宝接入DeepSeek，太顶了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500942&idx=1&sn=4385b429445d5f5fd02650c11c4bf90f&chksm=c2b30571f5c48c673b9ad00f5fdffc3fb0204059266d6271ec835fbc72c591d9c393774beeb9#rd)  
 - [2025-02-12-体验完飞书里的DeepSeek，我人麻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500871&idx=1&sn=597321970a16cbee63c1ed99f48fd933&chksm=c2b305b8f5c48cae359c45ff3fd34831be8c75a1aedd0185045afe820be2ddedc7a3ff3f4453#rd)  
-- [2025-02-11-苹果与阿里合作，在iPhone上提供AI，为啥不选DeepSeek？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500824&idx=1&sn=913ba33d8ed9ae0b00be260f6614066d&chksm=c2b305e7f5c48cf101e3c0a05ae1cb188a935ccc4e0bf78463550c1987e7ed91340925daab90#rd)  
-- [2025-02-10-Windows用户福音！免费跑联网满血版DeepSeek方案实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500814&idx=1&sn=8a84e9dcb5d344a951fda46789d2bc25&chksm=c2b305f1f5c48ce785f7681d7e4683f026ffe64028566c37c90c73198afb6ea2e5974c474b80#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
