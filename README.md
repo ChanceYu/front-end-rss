@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-11 18:12:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-12 00:12:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569) ![](/assets/new.png)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
@@ -66,7 +67,6 @@
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
-- [2024-09-24-Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-03-10-字节Trae国内版上线，小白入门AI编程神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501678&idx=1&sn=0f12cc857f53edd1296e5950b116b8c0&chksm=c2b30691f5c48f87648499ef4f9d1c4741f1273033eb81946e21699b6b7b83593e4366886f39#rd) ![](/assets/new.png)  
-- [2025-03-09-Manus一手实测，非常惊艳但也有不足](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501657&idx=1&sn=56e2a17de47b6bddb37a97b473831b49&chksm=c2b306a6f5c48fb0b74732d75f46e53f0ef9043813d7f53fcbdfda35eb22ff31307e53810eae#rd) ![](/assets/new.png)  
+- [2025-03-10-字节Trae国内版上线，小白入门AI编程神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501678&idx=1&sn=0f12cc857f53edd1296e5950b116b8c0&chksm=c2b30691f5c48f87648499ef4f9d1c4741f1273033eb81946e21699b6b7b83593e4366886f39#rd)  
+- [2025-03-09-Manus一手实测，非常惊艳但也有不足](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501657&idx=1&sn=56e2a17de47b6bddb37a97b473831b49&chksm=c2b306a6f5c48fb0b74732d75f46e53f0ef9043813d7f53fcbdfda35eb22ff31307e53810eae#rd)  
 - [2025-03-07-腾讯AI视频模型重磅开源，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501620&idx=1&sn=f740bc98a31c8764a1e77280e0c5fb76&chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd)  
 - [2025-03-06-首款L4级别的Agent产品Manus，DeepSeek之后又一个王炸](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501560&idx=1&sn=5124f4a389b1ba8dda0b57fa9ae39ffe&chksm=c2b30707f5c48e112c4636a3f1dc26e74d1e69eb43e7f1e2b74c554ab81e82661c3b02e5568a#rd)  
 - [2025-03-05-智谱开源AI绘画CogView4，开源之火烧的更旺了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501516&idx=1&sn=01b3c07e29e1aa883c86e703676032eb&chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd)  

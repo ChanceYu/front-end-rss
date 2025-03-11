@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-11T10:12:19.909Z</updated>
+    <updated>2025-03-11T16:12:23.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3470期】利用大型语言模型（LLMs）逆向还原 JavaScript 变量名缩写]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275955&amp;idx=1&amp;sn=7533685d7e8225d346a40210bb3255e6&amp;chksm=bc51b570751952b7094bf20914a6f8b8a5e5b4f8524f996d0bf632a2c519d6123f124d043a4a&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275955&amp;idx=1&amp;sn=7533685d7e8225d346a40210bb3255e6&amp;chksm=bc51b570751952b7094bf20914a6f8b8a5e5b4f8524f996d0bf632a2c519d6123f124d043a4a&amp;scene=0#rd"/>
+        <updated>2025-03-11T00:00:00.000Z</updated>
+        <published>2025-03-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another way to look inside your npm packages]]></title>
+        <id>https://nodeweekly.com/issues/569</id>
+        <link href="https://nodeweekly.com/issues/569"/>
         <updated>2025-03-11T00:00:00.000Z</updated>
         <published>2025-03-11T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525387&amp;idx=1&amp;sn=b3bf1329befff4213125f3993d1151e0&amp;chksm=f99262dacee5ebcc46bbc61d2a3dcf116a3e2bfedbb1471a6537d33e4373bfa58ac1a2bb5ce3#rd"/>
         <updated>2025-02-22T00:00:00.000Z</updated>
         <published>2025-02-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试复盘：Vue 和 React 的区别，从编译原理的角度来聊]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517091&amp;idx=1&amp;sn=55e8c85531035ac491e38f5d854f1a8a&amp;chksm=eb07bbdadc7032ccac4fe38881e14dadbc23a0731fc8dbd9e43e222630194459172c919bf095#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517091&amp;idx=1&amp;sn=55e8c85531035ac491e38f5d854f1a8a&amp;chksm=eb07bbdadc7032ccac4fe38881e14dadbc23a0731fc8dbd9e43e222630194459172c919bf095#rd"/>
-        <updated>2025-02-21T00:00:00.000Z</updated>
-        <published>2025-02-21T00:00:00.000Z</published>
     </entry>
 </feed>
