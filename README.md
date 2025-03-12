@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-12 20:17:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-12 22:11:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -202,8 +202,8 @@
 </summary>
 
 
-- [2025-03-12-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503141&idx=1&sn=1bcf305b867585125e5d60680df30620&chksm=ce45d8b4f93251a21d23800212c546f426c78edc448a5f96c2bd7e6d40849be1fa423eb827dd#rd) ![](/assets/new.png)  
-- [2025-03-11-3月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503136&idx=1&sn=4fd0b10e6715456bfedcf7c12773618f&chksm=ce45d8b1f93251a733420bcd0357e470bb0d411aa9f985ef6dc06c35b27345218fb57dfe44a9#rd) ![](/assets/new.png)  
+- [2025-03-12-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503141&idx=1&sn=1bcf305b867585125e5d60680df30620&chksm=ce45d8b4f93251a21d23800212c546f426c78edc448a5f96c2bd7e6d40849be1fa423eb827dd#rd)  
+- [2025-03-11-3月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503136&idx=1&sn=4fd0b10e6715456bfedcf7c12773618f&chksm=ce45d8b1f93251a733420bcd0357e470bb0d411aa9f985ef6dc06c35b27345218fb57dfe44a9#rd)  
 - [2025-03-10-未来-Vue3-真的可以无处不在吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503130&idx=1&sn=7dbf7885324c4aac60f6bdc52c3c5c00&chksm=ce45d88bf932519da9da5406c75c3c4af24408ca4dacc8427496785f00c829ff01bb2ac2a53a#rd)  
 - [2025-03-09-Vue-团队亲自推荐的动画库，到底有多强大？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503121&idx=1&sn=c69bba0b814de5381a50b7dc50acc988&chksm=ce45d880f9325196105ea6d425056bb45d5752d3269c60e26d63fef01ee18702acce2ff313fd#rd)  
 - [2025-03-08-教你怎么使用-Vue3-的方式去开发-React](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503105&idx=1&sn=6fc46ce5210be97558b5bf387c77dca6&chksm=ce45d890f9325186e9d6c61e3bbc29afb4ed27c9c317e62b8cec0ce2e5f75754c5c865defab7#rd)  
@@ -636,26 +636,26 @@
 </summary>
 
 
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) ![](/assets/new.png)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
-- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  
 - [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/)  
-- [2024-10-28-Pure-Web-Video-Editing](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor-en/)  
+- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  
 - [2024-10-28-纯-Web-视频剪辑](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/)  
+- [2024-10-28-Pure-Web-Video-Editing](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor-en/)  
 - [2024-08-24-手残党的【黑神话·悟空】笔记](https://hughfenghen.github.io/posts/2024/08/24/black-myth-wukong/)  
 - [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://hughfenghen.github.io/posts/2024/08/13/google-io-webcodecs-opfs/)  
-- [2024-07-27-WebCodecs-Performance-and-Optimization-Insights](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark-en/)  
 - [2024-07-27-WebCodecs-的性能表现及优化思路](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark/)  
-- [2024-05-11-Understanding-WebCodecs-Codec-Strings](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain-en/)  
+- [2024-07-27-WebCodecs-Performance-and-Optimization-Insights](https://hughfenghen.github.io/posts/2024/07/27/webcodecs-performance-benchmark-en/)  
 - [2024-05-11-WebCodecs-编码字符串（codec）介绍](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain/)  
+- [2024-05-11-Understanding-WebCodecs-Codec-Strings](https://hughfenghen.github.io/posts/2024/05/11/webcodecs-codec-string-explain-en/)  
 - [2024-05-08-自集成式-HTTP-代理方案](https://hughfenghen.github.io/posts/2024/05/08/ff-proxy/)  
 - [2024-03-14-Web-文件系统（OPFS-及工具）介绍](https://hughfenghen.github.io/posts/2024/03/14/web-storage-and-opfs/)  
 - [2024-03-06-opfs-tools-项目介绍](https://hughfenghen.github.io/posts/2024/03/06/opfs-tools-tweet/)  
 - [2024-02-17-一句话总结：TS-何时选择-interface-或-type](https://hughfenghen.github.io/posts/2024/02/17/ts-choose-interface-type/)  
 - [2024-01-01-2024，做个“前端网红”吧](https://hughfenghen.github.io/posts/2024/01/01/wechat-subscribe/)  
 - [2023-12-23-Web-终极拦截技巧（全是骚操作）](https://hughfenghen.github.io/posts/2023/12/23/web-spy/)  
-- [2023-10-06-WebCodecs:-A-New-Chapter-for-Web-Media](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web-en/)  
 - [查看更多 >](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
