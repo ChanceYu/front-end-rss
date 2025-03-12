@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-12 22:11:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-13 02:14:22，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,10 +22,10 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-03-12-前端框架新格局：从过去一年的演进看未来趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525868&idx=1&sn=962a6cee37106901175855fa7d52d184&chksm=f952d0afce2559b9c2c08982d9d1961369fb518c57a10fe13d84aa2de483019b1b70113cfcee#rd) ![](/assets/new.png)  
 - [2025-03-06-Svelte-不是-JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525831&idx=1&sn=8ae81b3c796905bc720dac999021c857&chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd)  
 - [2025-02-26-npm-够用吗？初创企业为何追捧这个-JavaScript-软件包注册表？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525814&idx=1&sn=bf3e65ceac08ece072f8e69502fd38f5&chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd)  
 - [2025-02-19-Dagger：我们用-GO-和-WebAssembly-替换了-React-前端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525796&idx=1&sn=febe59179a516cdb3c14ae39d124c780&chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd)  
@@ -190,7 +191,6 @@
 - [2024-10-30-JavaScript-应该分成两种语言吗？谷歌新提案引争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525418&idx=1&sn=293b8538589520af9e60474575e5f303&chksm=f952d169ce25587fdf3cc43ecad5379541fdd6d777b844968d198eb6249b68f0a844272f0ad5#rd)  
 - [2024-10-23-放弃-React，微软-Edge-团队改用-Web-组件减少对-JavaScript-的依赖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525407&idx=1&sn=db6ef5440722bf2b6ddb1c6a1a04079f&chksm=f952d15cce25584a2f9780b02f21070597148740192ec858e3cca603ef16204561e6c70daf96#rd)  
 - [2024-10-16-对话Motiff妙多赵薇：大模型在UI设计工具中的交互挑战与机遇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525401&idx=1&sn=2134333d2840357cd446ab4aebee9945&chksm=f952d15ace25584cef7b27da1e893ad9975a431cbffc1af77f3e79aa5a2519a5b478cc92b16c#rd)  
-- [2024-10-14-iOS-上手-Vision-Pro-还未摸到门道？快来听听淘宝-Vision-Pro-的最佳实践！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525372&idx=1&sn=0dfdeca47a1d33a1216ed60ecf40e0be&chksm=f952d6bfce255fa9a0899bc781e681dcbd5e86be84337eb16d3f37af1d07cfa153210720003e#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,26 +264,26 @@
 </summary>
 
 
-- [2025-03-10-准实时前端监控探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=2&sn=410e4e26037edca0424ef138dc627c1d&chksm=f992624ccee5eb5a268c21f87c2240e079114fc8152e50d737cb9050b666a2c9ee6b820985de#rd)  
+- [2025-03-12-不愧是阿里！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=1&sn=ddf17a5ad097e4adefe9752b5f1e00d6&chksm=f992626ccee5eb7a84cb796d201ec6e953e171fc6873e31fa6dcec3f3bc34f8f9be4de2626e4#rd) ![](/assets/new.png)  
+- [2025-03-12-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=2&sn=f1c45446eb9701009aac4b85b9412795&chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd) ![](/assets/new.png)  
+- [2025-03-11-Vite-Plus-要来了?!-尤雨溪最新演讲：围绕-Vite-的前端统一工具链](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=1&sn=5f5884e3c13c215c33f51fcf3d142d43&chksm=f9926272cee5eb640b2554b44df058020db04c428f2b74943aa6ae82be6c1677ac52d73766ef#rd) ![](/assets/new.png)  
+- [2025-03-11-前端视角下的图像格式进化论：从像素战争到性能革命](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=2&sn=06e6b8d9851bb14f3e7863d969a8cd23&chksm=f9926272cee5eb643f262eea1190ebe51511096b1704d7c0598dc6fe66de466c6bff8bfbfbbf#rd) ![](/assets/new.png)  
 - [2025-03-10-如何微调和修改前端依赖包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=1&sn=85fe358eecfaf8e53a4862ea8f869c25&chksm=f992624ccee5eb5a6c56c9d35d9facb2fcdb9c0ee2b56802a178e849f4db2a1975340d17833b#rd)  
-- [2025-03-08-写了5个vite插件后，发现其实vite插件并不难](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=2&sn=becccd0f94abfd7431ae83f71805ee97&chksm=f9926247cee5eb51b1876ef36cbf4fa13cf3c13b452c62b4cdb9c11560f58de09c6120a843c6#rd)  
+- [2025-03-10-准实时前端监控探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=2&sn=410e4e26037edca0424ef138dc627c1d&chksm=f992624ccee5eb5a268c21f87c2240e079114fc8152e50d737cb9050b666a2c9ee6b820985de#rd)  
 - [2025-03-08-2025-还在用-ECharts？试试字节这款很新的开源图表库，图表全，颜值高，易使用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=1&sn=39be2a41812c1a23f1d96a25ba7edf16&chksm=f9926247cee5eb51c7a4dca63718e631ef07bde9f65eafa4426e099af7c3dfd41eaf8a208d5f#rd)  
-- [2025-03-07-查看-npm-安装的全局包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=2&sn=2a49523f3710f9d8e1be4c280530981f&chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd)  
+- [2025-03-08-写了5个vite插件后，发现其实vite插件并不难](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=2&sn=becccd0f94abfd7431ae83f71805ee97&chksm=f9926247cee5eb51b1876ef36cbf4fa13cf3c13b452c62b4cdb9c11560f58de09c6120a843c6#rd)  
 - [2025-03-07-使用-Chrome-DevTools-分析-Node.js-性能问题](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=1&sn=9fc9d2992212d46dfccac4ec7a888603&chksm=f992625fcee5eb4934e6542057aa7228d85a044e2b60144532e3784ad5f92e67e8d79eef38fa#rd)  
-- [2025-03-06-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525510&idx=1&sn=d29617967c489d160dd24ccedb4b187a&chksm=f9926257cee5eb41db90d539d7c600d5c7addb48f3dcf42b0abb92d97ecdad5477559878391d#rd)  
+- [2025-03-07-查看-npm-安装的全局包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=2&sn=2a49523f3710f9d8e1be4c280530981f&chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd)  
 - [2025-03-06-原来-TS-中有这么多实用工具函数啊！冲！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525510&idx=2&sn=cc96c5417d76d5a2bdf212f125d70c37&chksm=f9926257cee5eb4192198d5860159b10900dfc7335e4b89c87e0cfd7f18ea0145900415654b6#rd)  
-- [2025-03-05-AST、Babel、TSC---啃着啃着就会了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=1&sn=2becb2be37a641c06bf873b9f3b7c970&chksm=f99262aacee5ebbcecd834e6c6ac131392bcea8f65468b4ff3b90596acd11d14ec3485126b14#rd)  
+- [2025-03-06-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525510&idx=1&sn=d29617967c489d160dd24ccedb4b187a&chksm=f9926257cee5eb41db90d539d7c600d5c7addb48f3dcf42b0abb92d97ecdad5477559878391d#rd)  
 - [2025-03-05-ESlint-过去、现在、未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=2&sn=08075185c312233eab18e7ff3407d396&chksm=f99262aacee5ebbcaff1796d7ffaceb1fcc9902bb5bb90bf074786eda40689d76c9c7d6987ec#rd)  
-- [2025-03-04-网页疯狂自动刷新，发生了什么？业务：我传了一张两亿像素的图片而已](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525488&idx=2&sn=934034f68f9ba549f517c2d592567733&chksm=f99262a1cee5ebb76a024051ac21a933cf599efa3283218ff52b473789c8dda47ccc91cfb708#rd)  
+- [2025-03-05-AST、Babel、TSC---啃着啃着就会了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=1&sn=2becb2be37a641c06bf873b9f3b7c970&chksm=f99262aacee5ebbcecd834e6c6ac131392bcea8f65468b4ff3b90596acd11d14ec3485126b14#rd)  
 - [2025-03-04-今年金三银四的实感。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525488&idx=1&sn=9326bb82d9298dfd067a371c4c18050d&chksm=f99262a1cee5ebb76fd5682d7b12cd2df504140ee27b642ba2799df569aaf7282267fd077592#rd)  
-- [2025-03-03-使用抽象语法树把低代码配置转换成源码](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=1&sn=883bec04ffb32a01be2fd47d59e15627&chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd)  
+- [2025-03-04-网页疯狂自动刷新，发生了什么？业务：我传了一张两亿像素的图片而已](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525488&idx=2&sn=934034f68f9ba549f517c2d592567733&chksm=f99262a1cee5ebb76a024051ac21a933cf599efa3283218ff52b473789c8dda47ccc91cfb708#rd)  
 - [2025-03-03-AST详解与运用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=2&sn=28721fa0cc3f5a7cba45c6e7e0ed8711&chksm=f99262b4cee5eba2cef984e0e5712eb8e9f139204df6f87c9eb144136be60a57767e58524491#rd)  
-- [2025-03-02-不会吧，2025年了，还没有用cursor，不会吧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525464&idx=1&sn=8bc2720b79d2f1d037b0d9595c797f92&chksm=f9926289cee5eb9fb15cf0d0668daee33ee06a61517cd8da694502200c8a9a90db71757dcb6f#rd)  
+- [2025-03-03-使用抽象语法树把低代码配置转换成源码](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=1&sn=883bec04ffb32a01be2fd47d59e15627&chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd)  
 - [2025-03-02-定高虚拟列表](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525464&idx=2&sn=13353a81d6ef3f5213d0618d94d4194a&chksm=f9926289cee5eb9fe9c005898d3cc8a49ce64bc5bd0c52879f37c5c98188941925a898a5c81b#rd)  
-- [2025-03-01-7种在-JavaScript-中分解长任务的技术](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525458&idx=1&sn=99faa8ef8a8dc4638b69dc9637672227&chksm=f9926283cee5eb95100f13c49f95cc14b72ccb90e5606f37ee04c57fff680ca37087732cc123#rd)  
-- [2025-02-28-如何从0设计开发一款JS-SDK](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525444&idx=2&sn=c2859c55961672bba066ee23f79cda20&chksm=f9926295cee5eb83077a91635843c6774423eb28d1a275f640b0f13a9bc9d9a5074360a113d5#rd)  
-- [2025-02-28-认识了一个26岁前端小哥，真的有被震惊到！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525444&idx=1&sn=3ec8b4ea5e687c799ac1c28defbc57fc&chksm=f9926295cee5eb83c52cf9adc7c34d6412049cc4f758ccc34b314efaed08ac7009fbdd678924#rd)  
-- [2025-02-27-AI-Agent自动化操作浏览器的发展与应用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525431&idx=2&sn=47ff59d0961fecda58d4c0ea777a763f&chksm=f99262e6cee5ebf04a2164dbb8d1ec1fc3786ca72d92f1abea58caee8f26688093cb5367d8f3#rd)  
+- [2025-03-02-不会吧，2025年了，还没有用cursor，不会吧](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525464&idx=1&sn=8bc2720b79d2f1d037b0d9595c797f92&chksm=f9926289cee5eb9fb15cf0d0668daee33ee06a61517cd8da694502200c8a9a90db71757dcb6f#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -636,7 +636,7 @@
 </summary>
 
 
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) ![](/assets/new.png)  
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
