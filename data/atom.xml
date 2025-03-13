@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-13T12:18:13.251Z</updated>
+    <updated>2025-03-13T18:13:24.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[微软宣布性能提升10倍的 TypeScript 来了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd"/>
+        <updated>2025-03-13T00:00:00.000Z</updated>
+        <published>2025-03-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3472期】资源预加载可能会拖慢网站速度]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd"/>
@@ -22,11 +29,25 @@
         <published>2025-03-13T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[多模态自动布局技术发展及其在淘内内容场的应用]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539024&amp;idx=1&amp;sn=e6143b7cf402974bc0a4f63bcf819993&amp;chksm=8390cc08b4e7451e390e901f0a3de669816580e47df441496a466e27a7d7f920ddbe151788d5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539024&amp;idx=1&amp;sn=e6143b7cf402974bc0a4f63bcf819993&amp;chksm=8390cc08b4e7451e390e901f0a3de669816580e47df441496a466e27a7d7f920ddbe151788d5#rd"/>
+        <updated>2025-03-12T00:00:00.000Z</updated>
+        <published>2025-03-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[多人在线协作的神秘代码：Yjs 底层解密]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525565&amp;idx=2&amp;sn=f1c45446eb9701009aac4b85b9412795&amp;chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525565&amp;idx=2&amp;sn=f1c45446eb9701009aac4b85b9412795&amp;chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
         <published>2025-03-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite Plus 要来了?! 尤雨溪最新演讲：围绕 Vite 的前端统一工具链]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517123&amp;idx=1&amp;sn=737ea715e31055dcd2b1b16fb44dfe42&amp;chksm=eb07bbbadc7032ac0125c0142a1b44ff41647258b8310746840f9e17b58e3c1b413e272256bd#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517123&amp;idx=1&amp;sn=737ea715e31055dcd2b1b16fb44dfe42&amp;chksm=eb07bbbadc7032ac0125c0142a1b44ff41647258b8310746840f9e17b58e3c1b413e272256bd#rd"/>
+        <updated>2025-03-11T00:00:00.000Z</updated>
+        <published>2025-03-11T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端视角下的图像格式进化论：从像素战争到性能革命]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502867&amp;idx=1&amp;sn=995ceda79c8865fa578d09adedd09aea&amp;chksm=ce45d982f93250949d4e135972466c71dba79a6859230f47e1106ef2e20a295b54f763949b78#rd"/>
         <updated>2025-02-25T00:00:00.000Z</updated>
         <published>2025-02-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
-        <id>https://nodeweekly.com/issues/567</id>
-        <link href="https://nodeweekly.com/issues/567"/>
-        <updated>2025-02-25T00:00:00.000Z</updated>
-        <published>2025-02-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML permission元素和Permissions API简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/"/>
-        <updated>2025-02-24T00:00:00.000Z</updated>
-        <published>2025-02-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多模态人物视频驱动技术回顾与业务应用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538502&amp;idx=1&amp;sn=aa954b0e7d60240dc98ce70f6c456e06&amp;chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538502&amp;idx=1&amp;sn=aa954b0e7d60240dc98ce70f6c456e06&amp;chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd"/>
-        <updated>2025-02-24T00:00:00.000Z</updated>
-        <published>2025-02-24T00:00:00.000Z</published>
     </entry>
 </feed>
