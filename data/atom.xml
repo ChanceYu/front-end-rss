@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-12T18:14:22.521Z</updated>
+    <updated>2025-03-13T12:18:13.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3472期】资源预加载可能会拖慢网站速度]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd"/>
+        <updated>2025-03-13T00:00:00.000Z</updated>
+        <published>2025-03-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多人在线协作的神秘代码：Yjs 底层解密]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525565&amp;idx=2&amp;sn=f1c45446eb9701009aac4b85b9412795&amp;chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[多模态人物视频驱动技术回顾与业务应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538502&amp;idx=1&amp;sn=aa954b0e7d60240dc98ce70f6c456e06&amp;chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538502&amp;idx=1&amp;sn=aa954b0e7d60240dc98ce70f6c456e06&amp;chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd"/>
-        <updated>2025-02-24T00:00:00.000Z</updated>
-        <published>2025-02-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@vue/compiler-core核心逻辑梳理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525402&amp;idx=2&amp;sn=6cae0e0fd0cf09b86d657bd5f5fabe69&amp;chksm=f99262cbcee5ebdd8ad89791ff71c1929a6c91da0f05771fd840567923148a290e46e6be1d1c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525402&amp;idx=2&amp;sn=6cae0e0fd0cf09b86d657bd5f5fabe69&amp;chksm=f99262cbcee5ebdd8ad89791ff71c1929a6c91da0f05771fd840567923148a290e46e6be1d1c#rd"/>
         <updated>2025-02-24T00:00:00.000Z</updated>
         <published>2025-02-24T00:00:00.000Z</published>
     </entry>
