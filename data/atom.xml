@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-13T18:13:24.659Z</updated>
+    <updated>2025-03-14T16:11:40.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播AI提效探索的一些心得]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539038&amp;idx=1&amp;sn=70fd255b456b392126a422c98e14b7e5&amp;chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539038&amp;idx=1&amp;sn=70fd255b456b392126a422c98e14b7e5&amp;chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd"/>
+        <updated>2025-03-14T00:00:00.000Z</updated>
+        <published>2025-03-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软宣布性能提升10倍的 TypeScript 来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525814&amp;idx=1&amp;sn=bf3e65ceac08ece072f8e69502fd38f5&amp;chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd"/>
         <updated>2025-02-26T00:00:00.000Z</updated>
         <published>2025-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepseek，2025 最值得学习10 个 Vue3 库源码？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502867&amp;idx=1&amp;sn=995ceda79c8865fa578d09adedd09aea&amp;chksm=ce45d982f93250949d4e135972466c71dba79a6859230f47e1106ef2e20a295b54f763949b78#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247502867&amp;idx=1&amp;sn=995ceda79c8865fa578d09adedd09aea&amp;chksm=ce45d982f93250949d4e135972466c71dba79a6859230f47e1106ef2e20a295b54f763949b78#rd"/>
-        <updated>2025-02-25T00:00:00.000Z</updated>
-        <published>2025-02-25T00:00:00.000Z</published>
     </entry>
 </feed>
