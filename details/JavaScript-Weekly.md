@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-03-08 00:12:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-15 02:13:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727) 
 - [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726) 
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725) 
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724) 
