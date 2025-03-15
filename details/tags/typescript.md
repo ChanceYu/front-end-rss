@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-15 02:13:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-16 04:10:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -57,6 +57,7 @@
 - [2019-04-24-【第1592期】ts2php,-将你的-TypeScript-代码转换为-PHP](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232088&idx=2&sn=f0f6788d02fd63126578e6595a10c303#rd) 
 - [2019-03-13-【第1553期】-TypeScript-和-Babel：一场美丽的结合](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231686&idx=1&sn=1dc230bfdcfd859d3c63a0a0d61f24ed#rd) 
 - [2018-12-29-【第1491期】如何编写-Typescript-声明文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230832&idx=1&sn=b90de09332306625f6527bd6e7c395d9#wechat_redirect) 
+- [2025-03-13-TypeScript-之父宣布：编译器和工具链将移植到-Go-，性能提升高达-10-倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622186&idx=2&sn=c583b00f63678c1a36455a8a2c81d1d7&chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd) 
 - [2023-09-25-也许跟大家不太一样,我是这么用TypeScript来写前端的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616859&idx=2&sn=441e5bfd7fefe09e46396b4ec99529a5&chksm=8022a19ab755288cd34937332c26fd9449cace2ddda030b1127033bc3e517c4e7650d9ed191e#rd) 
 - [2023-09-15-TypeScript-终极初学者指南](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616820&idx=2&sn=035155b53a042a8725497a9cb792c865&chksm=8022a1f5b75528e3f3582af74976a50d899bb0de6775aebd7d1039c46406bbd3de1709a3ad6c#rd) 
 - [2023-09-12-“再见了，TypeScript！”，Ruby-on-Rails-之父-DHH-也因“类型”遭劝退](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616776&idx=1&sn=5ed3fa271af25201def15253b2d80b09&chksm=8022a1c9b75528df222a49d30f53007b24c9d99c3272c889ccdf858410f161c6dd9cddd77812#rd) 

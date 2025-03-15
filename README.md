@@ -14,22 +14,22 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-15 02:13:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-16 04:10:40，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)  
+- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727) ![](/assets/new.png)  
+- [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)  
 - [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)  
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
@@ -140,26 +140,26 @@
 </summary>
 
 
+- [2025-03-13-字节跳动：辞退-353-人，追刑责-39-人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622186&idx=1&sn=7d519f6e6a1712329ce38d258083005b&chksm=80225cebb755d5fd31451655c3407b984fea69a24ec72a3a237d0c5fcdf3ddb9a1102c2fd657#rd) ![](/assets/new.png)  
+- [2025-03-13-TypeScript-之父宣布：编译器和工具链将移植到-Go-，性能提升高达-10-倍](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622186&idx=2&sn=c583b00f63678c1a36455a8a2c81d1d7&chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd) ![](/assets/new.png)  
 - [2025-03-12-裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622171&idx=1&sn=9efa2882e02dd4e2495117c6b908b0b5&chksm=80225cdab755d5cc43c5f1f8996efede8d7dd0261ecd1ac94839648f3d2e6ffc5637483b7d98#rd)  
-- [2025-03-10-湖南大学的-DeepSeek-教程来了！（PDF免费下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=2&sn=da9ca58d3a60dea84600e356fdda2997&chksm=80225cc8b755d5de647467710dc415af9bc9420f4861c84da466e505c155f00afa0e1539eef8#rd)  
 - [2025-03-10-55-岁程序员预感被裁，提前在服务器埋雷，被裁当天数千员工集体掉线…最绝的是他给检方送了一堆证据](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=1&sn=d47c53527c54109f02b141eaf10b6a69&chksm=80225cc8b755d5dec584a20b69a3e0e2dc041d110cac137b46df38db3ab20ab572975335e61b#rd)  
-- [2025-03-09-告别-axios，ngify-让你的-HTTP-请求更灵活、更强大](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622122&idx=2&sn=c5d95f439127a333284bdb5c373c6383&chksm=80225d2bb755d43d17878666f386d9eca83cfb21fd9de49cd5d61a00b39a00fc131cad4f72ea#rd)  
+- [2025-03-10-湖南大学的-DeepSeek-教程来了！（PDF免费下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622153&idx=2&sn=da9ca58d3a60dea84600e356fdda2997&chksm=80225cc8b755d5de647467710dc415af9bc9420f4861c84da466e505c155f00afa0e1539eef8#rd)  
 - [2025-03-09-程序员准点下班，主管批评没完成任务就跑了，还要评估他是否有能力胜任，程序员爆粗大骂主管，2-天后被火速解雇…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622122&idx=1&sn=d5de7a6d0bb0fb186f35a474cdb55df9&chksm=80225d2bb755d43d6eec945685f55923a942ba45a1d24337ddda3c50c930656ceddc86839fc6#rd)  
-- [2025-03-08-无敌了！强烈建议前端立即拿下软考！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622109&idx=2&sn=0201ce767fd06791bbc9176e00143fb0&chksm=80225d1cb755d40a80dc17aaa821ff8fcc21d7af230acc2df7cf162fcebd61e681bf77398ee6#rd)  
+- [2025-03-09-告别-axios，ngify-让你的-HTTP-请求更灵活、更强大](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622122&idx=2&sn=c5d95f439127a333284bdb5c373c6383&chksm=80225d2bb755d43d17878666f386d9eca83cfb21fd9de49cd5d61a00b39a00fc131cad4f72ea#rd)  
 - [2025-03-08-被骂了！腾讯道歉-+-立刻改正](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622109&idx=1&sn=22652af747f1d8956327049dc7380ca6&chksm=80225d1cb755d40a6cf20ff76d26ca2cc071793bae25c3edc04847ea26ea54b52e3e8d850d49#rd)  
-- [2025-03-06-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=1&sn=e1d9a6800bd30c87ae931495845db20c&chksm=80225d0fb755d419dd548610401de4d3b9d8cb43bc70450deb148856b0941397abcfa9dc47ae#rd)  
+- [2025-03-08-无敌了！强烈建议前端立即拿下软考！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622109&idx=2&sn=0201ce767fd06791bbc9176e00143fb0&chksm=80225d1cb755d40a80dc17aaa821ff8fcc21d7af230acc2df7cf162fcebd61e681bf77398ee6#rd)  
 - [2025-03-06-北京大学出的第四份-DeepSeek-教程来了！（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=2&sn=f0d1df6f42a43721624c9aff45258301&chksm=80225d0fb755d4194132c0fd629f89d3265629e8dd62c02e9e417492cba9d143e82c314fc5f5#rd)  
-- [2025-03-05-阿里巴巴：裁减-24940-人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622060&idx=1&sn=b5e9aebe6df0c01a9064978f6ff02807&chksm=80225d6db755d47ba65cb104c4e12da013c2f68d043297655d7c8ac28e3cbc73e105f93e2bd4#rd)  
+- [2025-03-06-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622094&idx=1&sn=e1d9a6800bd30c87ae931495845db20c&chksm=80225d0fb755d419dd548610401de4d3b9d8cb43bc70450deb148856b0941397abcfa9dc47ae#rd)  
 - [2025-03-05-北京大学出的第三份-DeepSeek-教程来了！（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622060&idx=2&sn=3e4541df94f475ecf7b5697a396ada76&chksm=80225d6db755d47b30104f98c4e4b17a58d3bc5768e51e7bb1ae04404dc4b97eaed3b18c54c3#rd)  
-- [2025-03-03-厦大出品：看懂-DeepSeek-依托的大模型技术（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=2&sn=0a4d269cc26e8447947e27fbf90adf1e&chksm=80225d60b755d476603ef87713c20c7f859ed8326689263b18107b23e323b90c9b5bc28e9f55#rd)  
+- [2025-03-05-阿里巴巴：裁减-24940-人](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622060&idx=1&sn=b5e9aebe6df0c01a9064978f6ff02807&chksm=80225d6db755d47ba65cb104c4e12da013c2f68d043297655d7c8ac28e3cbc73e105f93e2bd4#rd)  
 - [2025-03-03-不会吧，2025年了，还没有用cursor](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=1&sn=141e65186969edbfda349fde65cb7ee3&chksm=80225d60b755d4760a8a7672675d01802eda9547d78748f221e3a8bf22016a7da33e9bc16a78#rd)  
-- [2025-03-01-包含大量加密-JS-代码，知名-VSCode-主题被微软紧急下架！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622038&idx=1&sn=151fc1707f6b573af728448c5d727dcb&chksm=80225d57b755d441c2f21b35fafeb2182d283b89084d6f658774c268545645628dee10de3484#rd)  
+- [2025-03-03-厦大出品：看懂-DeepSeek-依托的大模型技术（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622049&idx=2&sn=0a4d269cc26e8447947e27fbf90adf1e&chksm=80225d60b755d476603ef87713c20c7f859ed8326689263b18107b23e323b90c9b5bc28e9f55#rd)  
 - [2025-03-01-北京大学出的第二份-DeepSeek-教程（PDF可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622038&idx=2&sn=e83481fa450c063b3563977409df200c&chksm=80225d57b755d441074dd8914d3eca19334064c96c2b67cef6f6de903291524dc90d2b0a0b13#rd)  
+- [2025-03-01-包含大量加密-JS-代码，知名-VSCode-主题被微软紧急下架！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622038&idx=1&sn=151fc1707f6b573af728448c5d727dcb&chksm=80225d57b755d441c2f21b35fafeb2182d283b89084d6f658774c268545645628dee10de3484#rd)  
 - [2025-02-26-年薪154W！真心建议前端人冲一冲新兴领域，工资高前景好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622023&idx=1&sn=17503768bf3d2629306e32d352c3c155&chksm=80225d46b755d45033a9d95ba1809375c2be65e15e7e4a894deb6632f4ac2af767b6009f9a89#rd)  
-- [2025-02-25-shadcn/ui：2024年最受欢迎的前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622022&idx=1&sn=ba9bcf64ddf542341f23eed0dd5cd5d2&chksm=80225d47b755d4510338732a827243f6906f470a40cea8fa0fc29a76c6ac78b368849981ebe2#rd)  
 - [2025-02-25-清北-DeepSeek-教程"神仙打架"，北大出品的-DeepSeek-教程来了！（PDF-可下载）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622022&idx=2&sn=b73b47481816f844d479f3bf1618fb4f&chksm=80225d47b755d4518e6678795ccd9faf1ee3fa3e920f86eb5d58b804e20f884f4e6fd485d2a0#rd)  
-- [2025-02-24-vue实现预览编辑ppt、word、pdf、excel、等功能的解决方案（内网-前端）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621988&idx=1&sn=ce982e6b2d5c76384334c9becbb8e58a&chksm=80225da5b755d4b35844d50358155acd9d2c0da7522b3a3748cff3aeb8e70c76f700ddb6a965#rd)  
-- [2025-02-22-强烈建议所有前端立即拿下软考证！（空前大利好）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621968&idx=1&sn=620863cf4988bd92f1b1d3b9a1a62fd4&chksm=80225d91b755d487c54463c1fafa8d5bff1cb90584e280a1c321ac297d48ccf2d3f6c161aef7#rd)  
+- [2025-02-25-shadcn/ui：2024年最受欢迎的前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622022&idx=1&sn=ba9bcf64ddf542341f23eed0dd5cd5d2&chksm=80225d47b755d4510338732a827243f6906f470a40cea8fa0fc29a76c6ac78b368849981ebe2#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-03-15-Vue3-做主题色切换，一定要用这个神库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503158&idx=1&sn=8bcf03748a79356b2ac2c5d1a5a8a30c&chksm=ce45d8a7f93251b15f6b0b19c7cba8478789148ac25b9b9cb9141f2c6393fa43f4193574e1ab#rd) ![](/assets/new.png)  
+- [2025-03-14-阿里面试官：你让我见识到了前端基础的天花板！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503157&idx=1&sn=e3565d1e6904e910a8afc49819f26ba7&chksm=ce45d8a4f93251b24f621ece69bb7a4bd8c240a926ba7f8d5a9aa69599be360ca22adec77e22#rd) ![](/assets/new.png)  
+- [2025-03-13-确认裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503148&idx=1&sn=12898fd573ec68561ae52906f6220b4b&chksm=ce45d8bdf93251abacb176ccb5d0fa01ca28b654861691d19979d2e1092d621a87627022f71c#rd) ![](/assets/new.png)  
 - [2025-03-12-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503141&idx=1&sn=1bcf305b867585125e5d60680df30620&chksm=ce45d8b4f93251a21d23800212c546f426c78edc448a5f96c2bd7e6d40849be1fa423eb827dd#rd)  
 - [2025-03-11-3月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503136&idx=1&sn=4fd0b10e6715456bfedcf7c12773618f&chksm=ce45d8b1f93251a733420bcd0357e470bb0d411aa9f985ef6dc06c35b27345218fb57dfe44a9#rd)  
 - [2025-03-10-未来-Vue3-真的可以无处不在吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503130&idx=1&sn=7dbf7885324c4aac60f6bdc52c3c5c00&chksm=ce45d88bf932519da9da5406c75c3c4af24408ca4dacc8427496785f00c829ff01bb2ac2a53a#rd)  
@@ -219,9 +222,6 @@
 - [2025-02-25-Deepseek，2025-最值得学习10-个-Vue3-库源码？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502867&idx=1&sn=995ceda79c8865fa578d09adedd09aea&chksm=ce45d982f93250949d4e135972466c71dba79a6859230f47e1106ef2e20a295b54f763949b78#rd)  
 - [2025-02-24-讲真，今年前端行情还不错！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502819&idx=1&sn=1408d7739f3d3feb5dbfce944973054d&chksm=ce45de72f93257640fd473f3e5fb446130d00cb3f425da6ecd90b34760e7609eedc43f3d4bf0#rd)  
 - [2025-02-23-用这个脚手架开发-uni-app-项目，体验感太棒了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502820&idx=1&sn=3781144a0202e6fcdfa86af688215664&chksm=ce45de75f93257636522a3697fa62fb2b1cc29adda8017d93ea7c8405cfe06be3578c1107a5a#rd)  
-- [2025-02-22-Pinia3.0-发布了！重大更新，全面升级！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502767&idx=1&sn=db42db0822182d8a5379ce82572b59c0&chksm=ce45de3ef93257287255b25652fd987c98e52577360163661e838427bbb8b929415720763aa6#rd)  
-- [2025-02-21-为什么很多人用-Typescript-，跟没用一样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502758&idx=1&sn=c13a8dc07ee3d5f9ac288cece69041fc&chksm=ce45de37f9325721debd8e12d11462704449c549a8b01299cb999cd0f99b5a3af6d114ba4a94#rd)  
-- [2025-02-20-前端市场复苏了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502745&idx=1&sn=680047ab32670f9576562ef768746ce5&chksm=ce45de08f932571e11771eb2edf66ea53a39069f60992ff46467d35f5f6aa077fe7d4dabcce8#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -326,6 +326,7 @@
 </summary>
 
 
+- [2025-03-14-Trae-x-稀土掘金：与-AI-结伴，编程不孤单，推荐&amp;学习有好礼！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506085&idx=1&sn=b3add3c5011dda34f3ab6ba3346eff1a&chksm=cea96fa4f9dee6b22768572d68c962b96b9acfb2f3f130b49c191c91e1582a11abcd687ce7a1#rd) ![](/assets/new.png)  
 - [2025-03-11-现在就是最好的时机！AI-FOR-CODE挑战赛「创意赛道」作品提交指南，用Idea传递无限可能](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506074&idx=1&sn=faf465b3b94df1b1abd5a0976e1cc718&chksm=cea96f9bf9dee68ddaf21c2f92624d922c78a564a5fc731b0aa624b8b89763e8df629f799aa3#rd)  
 - [2025-03-07-家庭物资杂乱无章？我靠AI逆天改命！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506066&idx=1&sn=783af14cc3afe7ae4d6a6b45e8adcba8&chksm=cea96f93f9dee6853b1d3caa748d685d064d9e16bc1630684f18fd542e63915733155cb934a2#rd)  
 - [2025-03-03-中国首款AI-IDE：Trae国内版发布，配置豆包1.5pro，支持切换满血版DeepSeek模型](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506030&idx=1&sn=979523679be183afb7ba3a0a5f532a63&chksm=cea96f6ff9dee679b135f0e48adb4c4e558b7cfb3f4a57baf4ef13964614052ea8cf3d802e9c#rd)  
@@ -345,7 +346,6 @@
 - [2024-05-29-2024-抖音欢笑中国年六：前端互动场景中的性能优化](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505862&idx=1&sn=8362f9b48670b6affc724e37601d598b&chksm=cea960c7f9dee9d13ab582c7d5bb18a04e81f7d7df756511f40d26f3a5a9c0cf8b9cc891afd5#rd)  
 - [2024-05-21-原创全网独家-万字长文入门前端全球化](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505860&idx=1&sn=38cea5166580c7ffe9954e0c13ec3e51&chksm=cea960c5f9dee9d3d4e36baae4ac3b2812ad1ee495743d71326f5f7bbff25a7367746af996c0#rd)  
 - [2024-05-16-有奖征文-|-性能优化的实践与经验分享](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505859&idx=1&sn=813a3d5f5400486a591d938d5aae0d36&chksm=cea960c2f9dee9d408a2eb6587f493e78e7427bafdc0afe967968b83545a8ef2cff09e167c19#rd)  
-- [2024-05-10-vue3-自定义hooks-大集合-你要的自定义hooks-都在这，快来看吧！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505775&idx=1&sn=c9119bd0a35282d7869e2a896ec67df0&chksm=cea9606ef9dee978ec347f2ebb32436b0c10c93d3b328393276efe1167655513071cf2a6f7cb#rd)  
 - [查看更多 >](/details/字节前端-ByteFE.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-03-15-关于生财和破局，有必要站出来说点什么](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501811&idx=1&sn=0ba1cbdc4e13562393964477f474171a&chksm=c2b3060cf5c48f1aca8dbde8fe10265dd50a48d1d542abed034e60d63d8c46ded3ef78cf4404#rd) ![](/assets/new.png)  
 - [2025-03-14-Gemini-2.0文生图实测，说话改图，真降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501802&idx=1&sn=34ea5c94a3fdf7073f62bac2ac434538&chksm=c2b30615f5c48f0340fe7b943b13fbb69beda0849499c380e44636bae9a4bd325bce16bdff08#rd)  
 - [2025-03-11-刚刚，Manus中文版要来了！](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501780&idx=1&sn=580a42031f45ce28f985f2962cf71f7e&chksm=c2b3062bf5c48f3d1c3cc572d70125b825ea2ca3473bfc4b14a900d3b32668b1fde71aacca84#rd)  
 - [2025-03-10-字节Trae国内版上线，小白入门AI编程神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501678&idx=1&sn=0f12cc857f53edd1296e5950b116b8c0&chksm=c2b30691f5c48f87648499ef4f9d1c4741f1273033eb81946e21699b6b7b83593e4366886f39#rd)  
@@ -407,7 +408,6 @@
 - [2025-02-21-刚刚，DeepSeek最新官方发布](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501037&idx=1&sn=789f348554d2e5d280bc4e3890841604&chksm=c2b30512f5c48c0470917795c78c1ec02a99bd491af067c70ef355894ab0446be5553542f9e6#rd)  
 - [2025-02-20-中国AI开源双星：DeepSeek领跑，阶跃星辰再竖标杆](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501026&idx=1&sn=caae26c62f1b3ff30067d80f2ee4fbf3&chksm=c2b3051df5c48c0b6d0e96b3c64dfc94e230a76d55f2916fb86667c63a8fa3fe8dcbfed0d7e4#rd)  
 - [2025-02-19-马斯克正式发布Grok-3，一文回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500998&idx=1&sn=cbb5821ee76473b7a1486f10e0d6c016&chksm=c2b30539f5c48c2f3367b06e1e189ed52f12cafeebd93db301294f11916c39d9c18d89fa103f#rd)  
-- [2025-02-16-微信接入DeepSeek，你准备好了吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247500977&idx=1&sn=d20ddefb264f6647223a065c302f3549&chksm=c2b3054ef5c48c58115256658417ba5df966d5790d5e6ce8102b2a7802f96d43e500de082f79#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

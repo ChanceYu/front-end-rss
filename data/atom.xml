@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-14T18:13:24.470Z</updated>
+    <updated>2025-03-15T20:10:41.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 做主题色切换，一定要用这个神库！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503158&amp;idx=1&amp;sn=8bcf03748a79356b2ac2c5d1a5a8a30c&amp;chksm=ce45d8a7f93251b15f6b0b19c7cba8478789148ac25b9b9cb9141f2c6393fa43f4193574e1ab#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503158&amp;idx=1&amp;sn=8bcf03748a79356b2ac2c5d1a5a8a30c&amp;chksm=ce45d8a7f93251b15f6b0b19c7cba8478789148ac25b9b9cb9141f2c6393fa43f4193574e1ab#rd"/>
+        <updated>2025-03-15T00:00:00.000Z</updated>
+        <published>2025-03-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播AI提效探索的一些心得]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539038&amp;idx=1&amp;sn=70fd255b456b392126a422c98e14b7e5&amp;chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[微软宣布性能提升10倍的 TypeScript 来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd"/>
+        <updated>2025-03-13T00:00:00.000Z</updated>
+        <published>2025-03-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 之父宣布：编译器和工具链将移植到 Go ，性能提升高达 10 倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622186&amp;idx=2&amp;sn=c583b00f63678c1a36455a8a2c81d1d7&amp;chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622186&amp;idx=2&amp;sn=c583b00f63678c1a36455a8a2c81d1d7&amp;chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd"/>
         <updated>2025-03-13T00:00:00.000Z</updated>
         <published>2025-03-13T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[浏览器原生「磁吸」效果！Anchor Positioning 锚点定位神器解析]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499441&amp;idx=1&amp;sn=cb6713ff9b3dfeef2fe8908e75ebd8b1&amp;chksm=ce269d47f9511451ba413febbae93eb3d770c48e41fa4986c29649f855b8e448304dd2631123#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&amp;mid=2247499441&amp;idx=1&amp;sn=cb6713ff9b3dfeef2fe8908e75ebd8b1&amp;chksm=ce269d47f9511451ba413febbae93eb3d770c48e41fa4986c29649f855b8e448304dd2631123#rd"/>
-        <updated>2025-02-26T00:00:00.000Z</updated>
-        <published>2025-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[项目必备点-JWT鉴权你真的弄明白了吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525420&amp;idx=2&amp;sn=7af7e18e2308b8f01208a716685c5aa4&amp;chksm=f99262fdcee5ebebe3e6b9effef6bcec92641501b575f2b62a1a63b2425ba8f54c61f3197a40#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525420&amp;idx=2&amp;sn=7af7e18e2308b8f01208a716685c5aa4&amp;chksm=f99262fdcee5ebebe3e6b9effef6bcec92641501b575f2b62a1a63b2425ba8f54c61f3197a40#rd"/>
-        <updated>2025-02-26T00:00:00.000Z</updated>
-        <published>2025-02-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Element Plus 组件极致封装 defineProps]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525420&amp;idx=1&amp;sn=1ea97e3dbcac99a93bbb1a878e597868&amp;chksm=f99262fdcee5ebebef2f225973daa1423f4d3026745ec715708743d2502eb3457898dcb5dbad#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525420&amp;idx=1&amp;sn=1ea97e3dbcac99a93bbb1a878e597868&amp;chksm=f99262fdcee5ebebef2f225973daa1423f4d3026745ec715708743d2502eb3457898dcb5dbad#rd"/>
         <updated>2025-02-26T00:00:00.000Z</updated>
         <published>2025-02-26T00:00:00.000Z</published>
     </entry>
