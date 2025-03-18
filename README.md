@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-17 02:12:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-19 00:13:00，:rocket: 更新条数: +10， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570) ![](/assets/new.png)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
@@ -66,7 +67,6 @@
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
-- [2024-10-01-All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,6 +109,9 @@
 </summary>
 
 
+- [2025-03-18-【早阅】Axios-请求可能存在-SSRF和凭据泄露风险](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275995&idx=1&sn=69270ffdd4605ec2a39995734784989a&chksm=bcd12fd07ab57def76b1f7ca59fd1b225b0e2ecd6dd2e2edbd53fe5e1adbda6922e4f1672eed&scene=0#rd) ![](/assets/new.png)  
+- [2025-03-18-【早阅】Vibe-Coding-宣言](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275995&idx=2&sn=74a050e32c935e46ddf1897ae7c2ac5b&chksm=bccf608f54f4ef41abe2f7f2be4d665a8ef1456a487e641ea9adb9073b1b226aab27c4223761&scene=0#rd) ![](/assets/new.png)  
+- [2025-03-17-【第3474期】猫耳大型活动提效：组件低代码化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275986&idx=1&sn=e6a9f806dd5c25441cbf64eaea23af63&chksm=bcd46432a9944130ba7579249b6a9f81bab3746481bb8b151b26d1392f754f7b55466871558e&scene=0#rd) ![](/assets/new.png)  
 - [2025-03-14-【第3473期】这就是如何利用大型语言模型来帮助我编写代码的方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275982&idx=1&sn=7f1af26105ae074b5d2694ed3d5ad485&chksm=bcf8c5fcf9c1e3383d48683bda6cf31079ec7287b0bcf4de6bc3ae4f35510717451e2873d9db&scene=0#rd)  
 - [2025-03-13-【第3472期】资源预加载可能会拖慢网站速度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275975&idx=1&sn=272f942c61d92c7154a73f780f50c336&chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&scene=0#rd)  
 - [2025-03-12-【第3471期】别再为人编写代码——未来属于-AI-Agents](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275961&idx=1&sn=ed6a888e0161119c53c2460cb9b2008c&chksm=bc92ba0f77b54595ba211dc325cc9872a1ed056d5b88aca6b75efe4604ac00ee53667975babd&scene=0#rd)  
@@ -116,19 +119,16 @@
 - [2025-03-10-【第3469期】为什么-React-出人意料地成为-LLM-工作流程的最佳模型](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275949&idx=1&sn=b06ef9f3067b1146ae6fb0d8553b9a8f&chksm=bc318e6e00ba8c2ab26206c2b84cae633e33cce4b5ffb0f8e52a51b46476c506a25d6560b2a7&scene=0#rd)  
 - [2025-03-07-【第3468期】从-React-看前端-UI-代码范式革命](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275943&idx=1&sn=e05bb050e11f14705c2eb6550b778a10&chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&scene=0#rd)  
 - [2025-03-06-【第3467期】使用-LLMS-构建网站](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275931&idx=1&sn=016edab733228e48f5407e6f733291db&chksm=bc40dcd5857dcdbfb3938094c299d7275008acad09c31862aa448352b73eb1e0d22f67706f48&scene=0#rd)  
-- [2025-03-05-Vibe-Coding编程方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275920&idx=2&sn=c416913a1f257693140c1445ab195050&chksm=bcd9e3d3dfe2aa93c376b7429bbd7eb7914b0ab16fc7ce6f0bd43582f32cd2ed15689dff71b3&scene=0#rd)  
 - [2025-03-05-【第3466期】用语音编码：「Vibe-Coding」让-AI-帮你写代码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275920&idx=1&sn=d986cbfc0f0c35bd5496d5fac015cde8&chksm=bc4947d7811950e83308438df1e58047342be049d270a2b559dd9e82e18f939055bf24759e40&scene=0#rd)  
+- [2025-03-05-Vibe-Coding编程方式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275920&idx=2&sn=c416913a1f257693140c1445ab195050&chksm=bcd9e3d3dfe2aa93c376b7429bbd7eb7914b0ab16fc7ce6f0bd43582f32cd2ed15689dff71b3&scene=0#rd)  
 - [2025-03-04-【早阅】寻求拒绝，而不是寻求肯定的答复](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275908&idx=1&sn=05f1580d750dedf978505a2d31550eab&chksm=bc06c98b8e27506b5eb5ac2bccf94d0827e2a3e7de7980e34b67df2ff6b25f63d658b8b4457a&scene=0#rd)  
 - [2025-03-03-【第3465期】转向纯-ESM（ECMAScript-Modules）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275855&idx=1&sn=21c52f19f466524ab85028faa2eb671b&chksm=bc94711420ce627e2a27aa6387cceea0808d440ec1b6c1c138bd2d09b03ff18f0b72830ffb64&scene=0#rd)  
 - [2025-02-28-【第3464期】从初级开发者到高级开发者：借助-ChatGPT-的成长之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275845&idx=1&sn=fb9b8909b865585d35a1c16a96e641d1&chksm=bc2f39bce1ca027bf550aece9a1e9b944c2ab4b281aa220c3b46292a1091c944dd23be22d031&scene=0#rd)  
 - [2025-02-27-【第3463期】使用抽象语法树把低代码配置转换成源码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275841&idx=1&sn=2a7ef67958d735378f2153de613fb91e&chksm=bcbc9fc91da5227c9d6b89baaf8abe895ed1a66f20707b8e2b7d587d950f740535e0952dbf02&scene=0#rd)  
-- [2025-02-26-【第3462期】7-分钟深度理解柯里化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=1&sn=25ba311597072242af46457ab901d6c7&chksm=bc5bac5f3c9d7f15e90ce685886f06b03237f0f0b808ff1e98eeb4b743077e334cf74b0c73dc&scene=0#rd)  
 - [2025-02-26-【图书】零基础开发AI-Agent：手把手教你用扣子做智能体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=2&sn=c7df0c99d1977ddb47344ef87bd7d6ce&chksm=bc8b01381a7e174f4e3c5d9677c7926af389ec60f0d7c017663ab0b0b8cab32774eb5f7459fd&scene=0#rd)  
+- [2025-02-26-【第3462期】7-分钟深度理解柯里化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275832&idx=1&sn=25ba311597072242af46457ab901d6c7&chksm=bc5bac5f3c9d7f15e90ce685886f06b03237f0f0b808ff1e98eeb4b743077e334cf74b0c73dc&scene=0#rd)  
 - [2025-02-25-【第3461期】多种序列帧格式的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275781&idx=1&sn=a42b98b95bd3bec0b8915d2e48dbe18e&chksm=bc5eda9a59e3db8ddc03c821a79e3b93953340a1b67149280a49a021cfc79dd76c2f32cf4fec&scene=0#rd)  
 - [2025-02-24-【第3460期】如何在前端开发中实现零停机部署](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275760&idx=1&sn=6c73d6f67aa0f474cc8c21e78ed76749&chksm=bc2e9e87371b7b9c5855dcdaab835c5c2d20defaf044060cb8edd7ee22afe0a05995cb61c9f7&scene=0#rd)  
-- [2025-02-21-【早阅】Figma-MCP-Server：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275755&idx=1&sn=bf3aa4048127f85501d16a9d20c1e267&chksm=bc9c243a39f955123def8f16dade1de4df3876cdcb0cf4fe641dc655ed0e929d881fcfb566c6&scene=0#rd)  
-- [2025-02-20-【第3459期】两款-AI-编程助手-Cursor-和-Trae-的对比分析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275742&idx=1&sn=7938305d55cd3880193ea4acda1aa909&chksm=bc1180c174e090cc9bbf5a9326fafcdf10d975d8b40de42b43b24e63669600d4201636a3e7a4&scene=0#rd)  
-- [2025-02-19-【第3458期】React-团队宣布停止维护-Create-React-App](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275703&idx=1&sn=a3201e14b05550c09c0af6e1af39d189&chksm=bcd04f61450ac3d267bd17b8ed2cc5f7301b3f4fc948384edee4235539ff6dc3624d421f8ae3&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,26 +264,26 @@
 </summary>
 
 
-- [2025-03-14-基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=2&sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd)  
+- [2025-03-18-3.40秒到231.84毫秒，我用Performance面板分析性能瓶颈全流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525667&idx=2&sn=4d649aa531d413c3992874b607f5a797&chksm=f99263f2cee5eae44a48972a673a14ac66529da1fdcc8592e285455c66f1041f8be7cbad0e68#rd) ![](/assets/new.png)  
+- [2025-03-18-深入解析前端插件机制：以埋点SDK与Webpack为例](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525667&idx=1&sn=d34c4a68442e1f12d31649ac78c3cab7&chksm=f99263f2cee5eae4e9ff52e79a4af589f802211dbf2123205df3d78538e62491dd01850c94c8#rd) ![](/assets/new.png)  
+- [2025-03-17-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525616&idx=1&sn=4fc36e6cd67d53de55b094c67a805a02&chksm=f9926221cee5eb371a94289b9a51c68c38e1ed9690e4f873702119933250e5f242fba020abcc#rd) ![](/assets/new.png)  
+- [2025-03-17-JavaScript-提取-PDF、Word-文档图片，非常简单，别再头大了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525616&idx=2&sn=dad3c07ff00c4f7391e60804b23fb57e&chksm=f9926221cee5eb3786ed123babb3c8f04892a6c907a85d53c30336cb63b933c0e80a82184ad9#rd) ![](/assets/new.png)  
+- [2025-03-16-资源预加载可能会拖慢网站速度](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525605&idx=1&sn=d86f01b1603dc722c5affeb52cbe37b8&chksm=f9926234cee5eb22eb9fa1f0a87c1a30d85612ef49601b22189c2be98ceca395b76f41d89710#rd) ![](/assets/new.png)  
+- [2025-03-16-前端国际化全场景支持方案，不入侵代码，一键完成-vue2/3、react。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525605&idx=2&sn=9575ffdf51e978785ec4a0b8aeeee890&chksm=f9926234cee5eb22fea83565d7df969d6275706ce5680714d0b1c785f836b23d7f02c61ea353#rd) ![](/assets/new.png)  
 - [2025-03-14-微软宣布性能提升10倍的-TypeScript-来了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=1&sn=801b57aa5c58fb007c4ce36d0dc25366&chksm=f9926200cee5eb16d907511ab104fa2afa61c8643031b2b18f0a362700f7c35fc119e7fb2eb1#rd)  
-- [2025-03-13-代码截图也可以这么炫酷！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525579&idx=2&sn=6c55af48a85fd071c2596ff4211bd130&chksm=f992621acee5eb0cb40d837eda034bf1609e2707630666278e2398521a8dc0650678580214a3#rd)  
+- [2025-03-14-基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=2&sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd)  
 - [2025-03-13-大部分人对于-Promise-的开发程度远远不足-10%！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525579&idx=1&sn=9420f7884f2edccf0fdae027efe83cd5&chksm=f992621acee5eb0c9f2dd07ba7c696db9067d5040d810537424e75d6fc89651c463e0b4f55a9#rd)  
-- [2025-03-12-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=2&sn=f1c45446eb9701009aac4b85b9412795&chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd)  
+- [2025-03-13-代码截图也可以这么炫酷！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525579&idx=2&sn=6c55af48a85fd071c2596ff4211bd130&chksm=f992621acee5eb0cb40d837eda034bf1609e2707630666278e2398521a8dc0650678580214a3#rd)  
 - [2025-03-12-不愧是阿里！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=1&sn=ddf17a5ad097e4adefe9752b5f1e00d6&chksm=f992626ccee5eb7a84cb796d201ec6e953e171fc6873e31fa6dcec3f3bc34f8f9be4de2626e4#rd)  
-- [2025-03-11-前端视角下的图像格式进化论：从像素战争到性能革命](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=2&sn=06e6b8d9851bb14f3e7863d969a8cd23&chksm=f9926272cee5eb643f262eea1190ebe51511096b1704d7c0598dc6fe66de466c6bff8bfbfbbf#rd)  
+- [2025-03-12-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=2&sn=f1c45446eb9701009aac4b85b9412795&chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd)  
 - [2025-03-11-Vite-Plus-要来了?!-尤雨溪最新演讲：围绕-Vite-的前端统一工具链](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=1&sn=5f5884e3c13c215c33f51fcf3d142d43&chksm=f9926272cee5eb640b2554b44df058020db04c428f2b74943aa6ae82be6c1677ac52d73766ef#rd)  
-- [2025-03-10-准实时前端监控探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=2&sn=410e4e26037edca0424ef138dc627c1d&chksm=f992624ccee5eb5a268c21f87c2240e079114fc8152e50d737cb9050b666a2c9ee6b820985de#rd)  
+- [2025-03-11-前端视角下的图像格式进化论：从像素战争到性能革命](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=2&sn=06e6b8d9851bb14f3e7863d969a8cd23&chksm=f9926272cee5eb643f262eea1190ebe51511096b1704d7c0598dc6fe66de466c6bff8bfbfbbf#rd)  
 - [2025-03-10-如何微调和修改前端依赖包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=1&sn=85fe358eecfaf8e53a4862ea8f869c25&chksm=f992624ccee5eb5a6c56c9d35d9facb2fcdb9c0ee2b56802a178e849f4db2a1975340d17833b#rd)  
-- [2025-03-08-写了5个vite插件后，发现其实vite插件并不难](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=2&sn=becccd0f94abfd7431ae83f71805ee97&chksm=f9926247cee5eb51b1876ef36cbf4fa13cf3c13b452c62b4cdb9c11560f58de09c6120a843c6#rd)  
+- [2025-03-10-准实时前端监控探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=2&sn=410e4e26037edca0424ef138dc627c1d&chksm=f992624ccee5eb5a268c21f87c2240e079114fc8152e50d737cb9050b666a2c9ee6b820985de#rd)  
 - [2025-03-08-2025-还在用-ECharts？试试字节这款很新的开源图表库，图表全，颜值高，易使用！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=1&sn=39be2a41812c1a23f1d96a25ba7edf16&chksm=f9926247cee5eb51c7a4dca63718e631ef07bde9f65eafa4426e099af7c3dfd41eaf8a208d5f#rd)  
-- [2025-03-07-查看-npm-安装的全局包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=2&sn=2a49523f3710f9d8e1be4c280530981f&chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd)  
+- [2025-03-08-写了5个vite插件后，发现其实vite插件并不难](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525526&idx=2&sn=becccd0f94abfd7431ae83f71805ee97&chksm=f9926247cee5eb51b1876ef36cbf4fa13cf3c13b452c62b4cdb9c11560f58de09c6120a843c6#rd)  
 - [2025-03-07-使用-Chrome-DevTools-分析-Node.js-性能问题](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=1&sn=9fc9d2992212d46dfccac4ec7a888603&chksm=f992625fcee5eb4934e6542057aa7228d85a044e2b60144532e3784ad5f92e67e8d79eef38fa#rd)  
-- [2025-03-06-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525510&idx=1&sn=d29617967c489d160dd24ccedb4b187a&chksm=f9926257cee5eb41db90d539d7c600d5c7addb48f3dcf42b0abb92d97ecdad5477559878391d#rd)  
-- [2025-03-06-原来-TS-中有这么多实用工具函数啊！冲！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525510&idx=2&sn=cc96c5417d76d5a2bdf212f125d70c37&chksm=f9926257cee5eb4192198d5860159b10900dfc7335e4b89c87e0cfd7f18ea0145900415654b6#rd)  
-- [2025-03-05-AST、Babel、TSC---啃着啃着就会了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=1&sn=2becb2be37a641c06bf873b9f3b7c970&chksm=f99262aacee5ebbcecd834e6c6ac131392bcea8f65468b4ff3b90596acd11d14ec3485126b14#rd)  
-- [2025-03-05-ESlint-过去、现在、未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525499&idx=2&sn=08075185c312233eab18e7ff3407d396&chksm=f99262aacee5ebbcaff1796d7ffaceb1fcc9902bb5bb90bf074786eda40689d76c9c7d6987ec#rd)  
-- [2025-03-04-网页疯狂自动刷新，发生了什么？业务：我传了一张两亿像素的图片而已](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525488&idx=2&sn=934034f68f9ba549f517c2d592567733&chksm=f99262a1cee5ebb76a024051ac21a933cf599efa3283218ff52b473789c8dda47ccc91cfb708#rd)  
-- [2025-03-04-今年金三银四的实感。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525488&idx=1&sn=9326bb82d9298dfd067a371c4c18050d&chksm=f99262a1cee5ebb76fd5682d7b12cd2df504140ee27b642ba2799df569aaf7282267fd077592#rd)  
+- [2025-03-07-查看-npm-安装的全局包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525518&idx=2&sn=2a49523f3710f9d8e1be4c280530981f&chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/) ![](/assets/new.png)  
+- [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
