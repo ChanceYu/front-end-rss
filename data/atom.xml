@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-19T00:43:58.876Z</updated>
+    <updated>2025-03-19T16:12:02.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[历时 5 年，这款开源全栈框架火爆问世，GitHub 狂揽 15K 星！网友：不支持 Vue，差评]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd"/>
+        <updated>2025-03-19T00:00:00.000Z</updated>
+        <published>2025-03-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深入解析前端插件机制：以埋点SDK与Webpack为例]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525667&amp;idx=1&amp;sn=d34c4a68442e1f12d31649ac78c3cab7&amp;chksm=f99263f2cee5eae4e9ff52e79a4af589f802211dbf2123205df3d78538e62491dd01850c94c8#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[使用抽象语法树把低代码配置转换成源码]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525477&amp;idx=1&amp;sn=883bec04ffb32a01be2fd47d59e15627&amp;chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525477&amp;idx=1&amp;sn=883bec04ffb32a01be2fd47d59e15627&amp;chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd"/>
-        <updated>2025-03-03T00:00:00.000Z</updated>
-        <published>2025-03-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AST详解与运用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525477&amp;idx=2&amp;sn=28721fa0cc3f5a7cba45c6e7e0ed8711&amp;chksm=f99262b4cee5eba2cef984e0e5712eb8e9f139204df6f87c9eb144136be60a57767e58524491#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525477&amp;idx=2&amp;sn=28721fa0cc3f5a7cba45c6e7e0ed8711&amp;chksm=f99262b4cee5eba2cef984e0e5712eb8e9f139204df6f87c9eb144136be60a57767e58524491#rd"/>
         <updated>2025-03-03T00:00:00.000Z</updated>
         <published>2025-03-03T00:00:00.000Z</published>
     </entry>

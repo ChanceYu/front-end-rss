@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-19 08:43:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-20 00:12:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -357,6 +357,7 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525894&idx=1&sn=ceaae73c9779a47a3465a3f89e041bb8&chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd) 
 - [2023-10-25-Vue.js组件的复用性：真正可复用还是伪装的可复用？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522641&idx=1&sn=f1b7584bbd22a95284e7939ca1da2440&chksm=f9522c12ce25a5048327ca9ada315a75adffa42a5601b6d896dee6fe08f9539f2721af30b9d8#rd) 
 - [2022-12-12-Vue-3是最佳选择吗?-耗时两周从Vue-2迁移到Svelte后：代码执行更快、体验更佳](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519131&idx=1&sn=3ed7528047e35d441ad018308b80c97d&chksm=f9523ed8ce25b7ce188478f7009ae5961564695e678d67b746c679c2f9a8cfe4e7f5e5011be4#rd) 
 - [2022-11-09-Vue3-现在学算晚么？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518456&idx=2&sn=097247dc441f35b9f2b4998f7d859f1c&chksm=f9523dbbce25b4ad52f336b572a98dad11c0455b5eb69425a38ae000b2c5af7c6ba1bc378052#rd) 

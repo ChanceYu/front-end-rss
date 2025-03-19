@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-19 08:43:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-20 00:12:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,14 +22,14 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525894&idx=1&sn=ceaae73c9779a47a3465a3f89e041bb8&chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd) ![](/assets/new.png)  
 - [2025-03-12-前端框架新格局：从过去一年的演进看未来趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525868&idx=1&sn=962a6cee37106901175855fa7d52d184&chksm=f952d0afce2559b9c2c08982d9d1961369fb518c57a10fe13d84aa2de483019b1b70113cfcee#rd)  
 - [2025-03-06-Svelte-不是-JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525831&idx=1&sn=8ae81b3c796905bc720dac999021c857&chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd)  
 - [2025-02-26-npm-够用吗？初创企业为何追捧这个-JavaScript-软件包注册表？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525814&idx=1&sn=bf3e65ceac08ece072f8e69502fd38f5&chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd)  
@@ -190,7 +191,6 @@
 - [2024-11-07-文件布局≠架构！气愤之余，我不得不说的前端架构真相](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525444&idx=1&sn=299e6f11c7cfdbd3cf30eecf2f7c6703&chksm=f952d107ce2558112c5fa4e7a433320360cb76d2b06e9bb9cd8af144751863a63d4b1bb0f396#rd)  
 - [2024-10-30-JavaScript-应该分成两种语言吗？谷歌新提案引争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525418&idx=1&sn=293b8538589520af9e60474575e5f303&chksm=f952d169ce25587fdf3cc43ecad5379541fdd6d777b844968d198eb6249b68f0a844272f0ad5#rd)  
 - [2024-10-23-放弃-React，微软-Edge-团队改用-Web-组件减少对-JavaScript-的依赖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525407&idx=1&sn=db6ef5440722bf2b6ddb1c6a1a04079f&chksm=f952d15cce25584a2f9780b02f21070597148740192ec858e3cca603ef16204561e6c70daf96#rd)  
-- [2024-10-16-对话Motiff妙多赵薇：大模型在UI设计工具中的交互挑战与机遇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525401&idx=1&sn=2134333d2840357cd446ab4aebee9945&chksm=f952d15ace25584cef7b27da1e893ad9975a431cbffc1af77f3e79aa5a2519a5b478cc92b16c#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-03-18-一张图一句话，即梦最强数字人实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501870&idx=1&sn=ef85eaf754daa3addd8e61245a66f2a9&chksm=c2b309d1f5c480c7380a5c2deefb9ecbe39599a5c23047a3381bd7842f0cc27da0c331c09899#rd) ![](/assets/new.png)  
+- [2025-03-18-一张图一句话，即梦最强数字人实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501870&idx=1&sn=ef85eaf754daa3addd8e61245a66f2a9&chksm=c2b309d1f5c480c7380a5c2deefb9ecbe39599a5c23047a3381bd7842f0cc27da0c331c09899#rd)  
 - [2025-03-16-GPT-4.5实测，80%的人都严重低估它了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501834&idx=1&sn=97de7a7fd30fb55d5c71344c25a69ef6&chksm=c2b309f5f5c480e3a540ea44f3b390bbc73de1a6a3fc2563249c0f438b60d6620e42e6f231e4#rd)  
 - [2025-03-15-关于生财和破局，有必要站出来说点什么](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501811&idx=1&sn=0ba1cbdc4e13562393964477f474171a&chksm=c2b3060cf5c48f1aca8dbde8fe10265dd50a48d1d542abed034e60d63d8c46ded3ef78cf4404#rd)  
 - [2025-03-14-Gemini-2.0文生图实测，说话改图，真降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501802&idx=1&sn=34ea5c94a3fdf7073f62bac2ac434538&chksm=c2b30615f5c48f0340fe7b943b13fbb69beda0849499c380e44636bae9a4bd325bce16bdff08#rd)  
