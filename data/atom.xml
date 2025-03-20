@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-20T02:52:34.663Z</updated>
+    <updated>2025-03-20T10:11:42.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[历时 5 年，这款开源全栈框架火爆问世，GitHub 狂揽 15K 星！网友：不支持 Vue，差评]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd"/>
+        <updated>2025-03-19T00:00:00.000Z</updated>
+        <published>2025-03-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[历时 5 年，这款开源全栈框架火爆问世，GitHub 狂揽 15K 星！网友：不支持 Vue，差评]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622204&amp;idx=1&amp;sn=f8bb4eb437dbff2e9a5b7b49b4cdb4e8&amp;chksm=80225cfdb755d5ebf591550523fbd0ddf79eb9121d96c2708d34efdc8f9e3014fc00f0f3329a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622204&amp;idx=1&amp;sn=f8bb4eb437dbff2e9a5b7b49b4cdb4e8&amp;chksm=80225cfdb755d5ebf591550523fbd0ddf79eb9121d96c2708d34efdc8f9e3014fc00f0f3329a#rd"/>
         <updated>2025-03-19T00:00:00.000Z</updated>
         <published>2025-03-19T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[淘宝全新图生视频大模型“淘宝法象”，助力商家降本增效]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538782&amp;idx=1&amp;sn=dae7580c08fd072f8fd35dbad0fc15c1&amp;chksm=8390cb06b4e7421094dd8b5ba58b597d7b187fdd4448376a48aefe4303a5479dc2e9f5f4b447#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538782&amp;idx=1&amp;sn=dae7580c08fd072f8fd35dbad0fc15c1&amp;chksm=8390cb06b4e7421094dd8b5ba58b597d7b187fdd4448376a48aefe4303a5479dc2e9f5f4b447#rd"/>
-        <updated>2025-03-03T00:00:00.000Z</updated>
-        <published>2025-03-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用抽象语法树把低代码配置转换成源码]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525477&amp;idx=1&amp;sn=883bec04ffb32a01be2fd47d59e15627&amp;chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525477&amp;idx=1&amp;sn=883bec04ffb32a01be2fd47d59e15627&amp;chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd"/>
         <updated>2025-03-03T00:00:00.000Z</updated>
         <published>2025-03-03T00:00:00.000Z</published>
     </entry>
