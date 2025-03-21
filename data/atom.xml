@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-21T02:55:12.084Z</updated>
+    <updated>2025-03-21T16:12:51.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vite成为首个接入AI的构建工具，前端开发效率提升200%！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517134&amp;idx=1&amp;sn=40dc62b61c0c40e5607b7e20997a6163&amp;chksm=eb07bbb7dc7032a1478c73b83c538d7049b7cbdd727bb5abb752052b01657e93cca06b4d2d3c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517134&amp;idx=1&amp;sn=40dc62b61c0c40e5607b7e20997a6163&amp;chksm=eb07bbb7dc7032a1478c73b83c538d7049b7cbdd727bb5abb752052b01657e93cca06b4d2d3c#rd"/>
+        <updated>2025-03-20T00:00:00.000Z</updated>
+        <published>2025-03-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[历时 5 年，这款开源全栈框架火爆问世，GitHub 狂揽 15K 星！网友：不支持 Vue，差评]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/568"/>
         <updated>2025-03-04T00:00:00.000Z</updated>
         <published>2025-03-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝全新图生视频大模型“淘宝法象”，助力商家降本增效]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538782&amp;idx=1&amp;sn=dae7580c08fd072f8fd35dbad0fc15c1&amp;chksm=8390cb06b4e7421094dd8b5ba58b597d7b187fdd4448376a48aefe4303a5479dc2e9f5f4b447#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538782&amp;idx=1&amp;sn=dae7580c08fd072f8fd35dbad0fc15c1&amp;chksm=8390cb06b4e7421094dd8b5ba58b597d7b187fdd4448376a48aefe4303a5479dc2e9f5f4b447#rd"/>
-        <updated>2025-03-03T00:00:00.000Z</updated>
-        <published>2025-03-03T00:00:00.000Z</published>
     </entry>
 </feed>
