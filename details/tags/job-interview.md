@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-22 02:13:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-22 18:10:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -598,3 +598,4 @@
 - [2024-10-10-后面试时代与-AI-刷题](http://www.ruanyifeng.com/blog/2024/10/ai-code-interview.html) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
 - [2020-07-29-技术面试中的“运气”指什么](https://hughfenghen.github.io/posts/2020/07/29/interview/) 
+- [2020-07-29-技术面试中的“运气”指什么](https://fenghen.me/posts/2020/07/29/interview/) 
