@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-22 18:10:08，:rocket: 更新条数: +80， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-23 00:10:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -264,26 +264,26 @@
 </summary>
 
 
-- [2025-03-20-前端异常隔离：Proxy、Web-Workers-与-iframe-的深度对比](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525701&idx=1&sn=588742abb64c877406504a5626e10b27&chksm=f9926394cee5ea825f828af7fb556854c4c9d8d35cab38f8b18208b373de1fa5f2b94a292b64#rd)  
+- [2025-03-21-放心，今年前端行情没那么差。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525715&idx=1&sn=a20781c992387fdbac21b3c4b160b8cd&chksm=f9926382cee5ea940b5dd5d0966cc8552e3fb21d97976f7360ddb774cdc0d94ff11e399b9645#rd) ![](/assets/new.png)  
+- [2025-03-21-TypeScript-官方宣布弃用-Enum？Enum-何罪之有？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525715&idx=2&sn=3b6c1d4302c81561cab2bd34d7b3b911&chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd) ![](/assets/new.png)  
 - [2025-03-20-百万级群聊的设计实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525701&idx=2&sn=8cd87d34ea0a0dfd36b1383eb98b2c4b&chksm=f9926394cee5ea820c3c894af5eaf5252d54ad97b18ef3077dc94a35be99464f9cafc8cd86f0#rd)  
-- [2025-03-19-AI-文字生图保姆级教程，10秒生成任意图片创意！建议收藏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525673&idx=1&sn=6bf04b5a13e640ebc1c89064404013e9&chksm=f99263f8cee5eaeeaf5510edb36045d413ef255b947a9576109c73f1561480ea0c2ec6b5ed1f#rd)  
+- [2025-03-20-前端异常隔离：Proxy、Web-Workers-与-iframe-的深度对比](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525701&idx=1&sn=588742abb64c877406504a5626e10b27&chksm=f9926394cee5ea825f828af7fb556854c4c9d8d35cab38f8b18208b373de1fa5f2b94a292b64#rd)  
 - [2025-03-19-什么，Ajax请求也有精度丢失？chrome把精度吃掉啦？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525673&idx=2&sn=f8febb7a11fb0afd627360001d7d43d5&chksm=f99263f8cee5eaeec774c2c80c3a5fcde95ba88de8076e34d973485a6e2424cb379ffcbbd761#rd)  
-- [2025-03-18-深入解析前端插件机制：以埋点SDK与Webpack为例](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525667&idx=1&sn=d34c4a68442e1f12d31649ac78c3cab7&chksm=f99263f2cee5eae4e9ff52e79a4af589f802211dbf2123205df3d78538e62491dd01850c94c8#rd)  
+- [2025-03-19-AI-文字生图保姆级教程，10秒生成任意图片创意！建议收藏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525673&idx=1&sn=6bf04b5a13e640ebc1c89064404013e9&chksm=f99263f8cee5eaeeaf5510edb36045d413ef255b947a9576109c73f1561480ea0c2ec6b5ed1f#rd)  
 - [2025-03-18-3.40秒到231.84毫秒，我用Performance面板分析性能瓶颈全流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525667&idx=2&sn=4d649aa531d413c3992874b607f5a797&chksm=f99263f2cee5eae44a48972a673a14ac66529da1fdcc8592e285455c66f1041f8be7cbad0e68#rd)  
-- [2025-03-17-JavaScript-提取-PDF、Word-文档图片，非常简单，别再头大了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525616&idx=2&sn=dad3c07ff00c4f7391e60804b23fb57e&chksm=f9926221cee5eb3786ed123babb3c8f04892a6c907a85d53c30336cb63b933c0e80a82184ad9#rd)  
+- [2025-03-18-深入解析前端插件机制：以埋点SDK与Webpack为例](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525667&idx=1&sn=d34c4a68442e1f12d31649ac78c3cab7&chksm=f99263f2cee5eae4e9ff52e79a4af589f802211dbf2123205df3d78538e62491dd01850c94c8#rd)  
 - [2025-03-17-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525616&idx=1&sn=4fc36e6cd67d53de55b094c67a805a02&chksm=f9926221cee5eb371a94289b9a51c68c38e1ed9690e4f873702119933250e5f242fba020abcc#rd)  
-- [2025-03-16-前端国际化全场景支持方案，不入侵代码，一键完成-vue2/3、react。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525605&idx=2&sn=9575ffdf51e978785ec4a0b8aeeee890&chksm=f9926234cee5eb22fea83565d7df969d6275706ce5680714d0b1c785f836b23d7f02c61ea353#rd)  
+- [2025-03-17-JavaScript-提取-PDF、Word-文档图片，非常简单，别再头大了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525616&idx=2&sn=dad3c07ff00c4f7391e60804b23fb57e&chksm=f9926221cee5eb3786ed123babb3c8f04892a6c907a85d53c30336cb63b933c0e80a82184ad9#rd)  
 - [2025-03-16-资源预加载可能会拖慢网站速度](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525605&idx=1&sn=d86f01b1603dc722c5affeb52cbe37b8&chksm=f9926234cee5eb22eb9fa1f0a87c1a30d85612ef49601b22189c2be98ceca395b76f41d89710#rd)  
-- [2025-03-14-基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=2&sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd)  
+- [2025-03-16-前端国际化全场景支持方案，不入侵代码，一键完成-vue2/3、react。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525605&idx=2&sn=9575ffdf51e978785ec4a0b8aeeee890&chksm=f9926234cee5eb22fea83565d7df969d6275706ce5680714d0b1c785f836b23d7f02c61ea353#rd)  
 - [2025-03-14-微软宣布性能提升10倍的-TypeScript-来了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=1&sn=801b57aa5c58fb007c4ce36d0dc25366&chksm=f9926200cee5eb16d907511ab104fa2afa61c8643031b2b18f0a362700f7c35fc119e7fb2eb1#rd)  
-- [2025-03-13-代码截图也可以这么炫酷！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525579&idx=2&sn=6c55af48a85fd071c2596ff4211bd130&chksm=f992621acee5eb0cb40d837eda034bf1609e2707630666278e2398521a8dc0650678580214a3#rd)  
+- [2025-03-14-基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525585&idx=2&sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd)  
 - [2025-03-13-大部分人对于-Promise-的开发程度远远不足-10%！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525579&idx=1&sn=9420f7884f2edccf0fdae027efe83cd5&chksm=f992621acee5eb0c9f2dd07ba7c696db9067d5040d810537424e75d6fc89651c463e0b4f55a9#rd)  
-- [2025-03-12-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=2&sn=f1c45446eb9701009aac4b85b9412795&chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd)  
+- [2025-03-13-代码截图也可以这么炫酷！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525579&idx=2&sn=6c55af48a85fd071c2596ff4211bd130&chksm=f992621acee5eb0cb40d837eda034bf1609e2707630666278e2398521a8dc0650678580214a3#rd)  
 - [2025-03-12-不愧是阿里！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=1&sn=ddf17a5ad097e4adefe9752b5f1e00d6&chksm=f992626ccee5eb7a84cb796d201ec6e953e171fc6873e31fa6dcec3f3bc34f8f9be4de2626e4#rd)  
-- [2025-03-11-前端视角下的图像格式进化论：从像素战争到性能革命](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=2&sn=06e6b8d9851bb14f3e7863d969a8cd23&chksm=f9926272cee5eb643f262eea1190ebe51511096b1704d7c0598dc6fe66de466c6bff8bfbfbbf#rd)  
+- [2025-03-12-多人在线协作的神秘代码：Yjs-底层解密](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525565&idx=2&sn=f1c45446eb9701009aac4b85b9412795&chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd)  
 - [2025-03-11-Vite-Plus-要来了?!-尤雨溪最新演讲：围绕-Vite-的前端统一工具链](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=1&sn=5f5884e3c13c215c33f51fcf3d142d43&chksm=f9926272cee5eb640b2554b44df058020db04c428f2b74943aa6ae82be6c1677ac52d73766ef#rd)  
-- [2025-03-10-准实时前端监控探索](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=2&sn=410e4e26037edca0424ef138dc627c1d&chksm=f992624ccee5eb5a268c21f87c2240e079114fc8152e50d737cb9050b666a2c9ee6b820985de#rd)  
-- [2025-03-10-如何微调和修改前端依赖包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525533&idx=1&sn=85fe358eecfaf8e53a4862ea8f869c25&chksm=f992624ccee5eb5a6c56c9d35d9facb2fcdb9c0ee2b56802a178e849f4db2a1975340d17833b#rd)  
+- [2025-03-11-前端视角下的图像格式进化论：从像素战争到性能革命](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525539&idx=2&sn=06e6b8d9851bb14f3e7863d969a8cd23&chksm=f9926272cee5eb643f262eea1190ebe51511096b1704d7c0598dc6fe66de466c6bff8bfbfbbf#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -637,25 +637,25 @@
 
 
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
-- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/) ![](/assets/new.png)  
+- [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
-- [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/) ![](/assets/new.png)  
+- [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
-- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/) ![](/assets/new.png)  
+- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://fenghen.me/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
-- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/) ![](/assets/new.png)  
+- [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://fenghen.me/posts/2025/01/07/opfs-finder/)  
 - [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  
 - [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/)  
-- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://fenghen.me/posts/2024/10/31/webav-v1-released-en/) ![](/assets/new.png)  
-- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://fenghen.me/posts/2024/10/31/webav-v1-released/) ![](/assets/new.png)  
+- [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://fenghen.me/posts/2024/10/31/webav-v1-released-en/)  
+- [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://fenghen.me/posts/2024/10/31/webav-v1-released/)  
 - [2024-10-28-Pure-Web-Video-Editing](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor-en/)  
 - [2024-10-28-纯-Web-视频剪辑](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/)  
-- [2024-10-28-Pure-Web-Video-Editing](https://fenghen.me/posts/2024/10/28/webav-video-editor-en/) ![](/assets/new.png)  
-- [2024-10-28-纯-Web-视频剪辑](https://fenghen.me/posts/2024/10/28/webav-video-editor/) ![](/assets/new.png)  
+- [2024-10-28-Pure-Web-Video-Editing](https://fenghen.me/posts/2024/10/28/webav-video-editor-en/)  
+- [2024-10-28-纯-Web-视频剪辑](https://fenghen.me/posts/2024/10/28/webav-video-editor/)  
 - [2024-08-24-手残党的【黑神话·悟空】笔记](https://hughfenghen.github.io/posts/2024/08/24/black-myth-wukong/)  
-- [2024-08-24-手残党的【黑神话·悟空】笔记](https://fenghen.me/posts/2024/08/24/black-myth-wukong/) ![](/assets/new.png)  
+- [2024-08-24-手残党的【黑神话·悟空】笔记](https://fenghen.me/posts/2024/08/24/black-myth-wukong/)  
 - [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://hughfenghen.github.io/posts/2024/08/13/google-io-webcodecs-opfs/)  
-- [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://fenghen.me/posts/2024/08/13/google-io-webcodecs-opfs/) ![](/assets/new.png)  
+- [2024-08-13-Google-IO-分享-WebCodecs、OPFS-文字版](https://fenghen.me/posts/2024/08/13/google-io-webcodecs-opfs/)  
 - [查看更多 >](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
