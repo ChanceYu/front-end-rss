@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-25 04:11:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-25 07:15:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,13 +23,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-03-24-来了！JavaScript-最强大的-8-个-DOM-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503306&idx=1&sn=1ee97896ef26894e9fe3d4fc0b9b24b0&chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd) ![](/assets/new.png)  
 - [2025-03-23-WebWorker-正在悄悄改变整个前端的格局](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503266&idx=1&sn=7c7de67e2c670f1286734a2fadc70ea2&chksm=ce45d833f9325125d0975e98330934aaf52c67cddbc30d6fd48a8f14b11e882a0fa8d6d790f5#rd)  
 - [2025-03-22-Axios-原来自带了生成-mock-数据的功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503265&idx=1&sn=45c791e4a344b6f641d0b7d155402a77&chksm=ce45d830f9325126398b8d83ffea6fb2e6fd8106b4b0f9dffc453b9607558f538ee0653df00f#rd)  
 - [2025-03-21-Vitest3.0-的发布，能让你成为更高级别的前端工程师！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503262&idx=1&sn=0da0e47a3a18258a83912f47475085e7&chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd)  
@@ -221,7 +222,6 @@
 - [2025-03-07-前端领域最火的-5-个-AI-库，未来的方向？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503064&idx=1&sn=3173a55dca570ff909a63f44f37c8995&chksm=ce45d949f932505fc6d05d4af8547d78d311d77779fb95c450718a5646655b34d0415a6d40d4#rd)  
 - [2025-03-06-找回密码？为啥不直接把密码给我呢？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503063&idx=1&sn=20e35ade290784ae5b2b6f344b2b8335&chksm=ce45d946f932505017afba2a46ae59ea7bd63c92beb1090561db89c0925aa5fb344c0309a5b8#rd)  
 - [2025-03-05-2025前端行情解读](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503062&idx=1&sn=ff49d9bb0a753ee04eb6174592f3beb1&chksm=ce45d947f93250514512877916ecab818106aa32dfa2b0b144a2012fbb360a1dbee1bc2f06f7#rd)  
-- [2025-03-04-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503053&idx=1&sn=64439b99fb226142635f7fc39ab574da&chksm=ce45d95cf932504a5fc9fb33565e3271d37e9287458b155085ee55be5eb9345b2670b56c45f4#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-03-24-刚刚，DeepSeek悄悄更新，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501922&idx=1&sn=68b92e7830583acfa4198deb8301e11e&chksm=c2b3099df5c4808ba52681e63ad5498ae95e9c7fecf26e22eab26d386574a11c602ec882a2a8#rd) ![](/assets/new.png)  
+- [2025-03-24-刚刚，DeepSeek悄悄更新，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501922&idx=1&sn=68b92e7830583acfa4198deb8301e11e&chksm=c2b3099df5c4808ba52681e63ad5498ae95e9c7fecf26e22eab26d386574a11c602ec882a2a8#rd)  
 - [2025-03-22-OpenAI发布3个新款语音模型，一文快速回顾](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501909&idx=1&sn=04926b02d64bfbe0c66fbe3c5c86cd47&chksm=c2b309aaf5c480bcd276648f1401fdcd286332ada1a7a6c12a4daece6340b810738c6c46d0f4#rd)  
 - [2025-03-20-Claude用不了？这个方法一键把文字转成网页](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501892&idx=1&sn=d169c76d477128aee8839e66f4f02cf6&chksm=c2b309bbf5c480ad3bfba87a8345baa30eb73c580774e9810088bcee47cd12d3995577fe19ca#rd)  
 - [2025-03-18-一张图一句话，即梦最强数字人实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501870&idx=1&sn=ef85eaf754daa3addd8e61245a66f2a9&chksm=c2b309d1f5c480c7380a5c2deefb9ecbe39599a5c23047a3381bd7842f0cc27da0c331c09899#rd)  
