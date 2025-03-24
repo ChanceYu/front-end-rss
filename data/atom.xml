@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-23T16:10:49.632Z</updated>
+    <updated>2025-03-24T02:59:45.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,13 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[【第3477期】基于three.js的虚拟人阴影渲染优化方案]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276062&amp;idx=1&amp;sn=3587469f07550ed878101b65b85c6ef1&amp;chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276062&amp;idx=1&amp;sn=3587469f07550ed878101b65b85c6ef1&amp;chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&amp;scene=0#rd"/>
+        <updated>2025-03-24T00:00:00.000Z</updated>
+        <published>2025-03-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[研究下attachInternals方法，可让普通元素有表单特性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/"/>
@@ -22,9 +29,23 @@
         <published>2025-03-23T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WebWorker 正在悄悄改变整个前端的格局]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503266&amp;idx=1&amp;sn=7c7de67e2c670f1286734a2fadc70ea2&amp;chksm=ce45d833f9325125d0975e98330934aaf52c67cddbc30d6fd48a8f14b11e882a0fa8d6d790f5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503266&amp;idx=1&amp;sn=7c7de67e2c670f1286734a2fadc70ea2&amp;chksm=ce45d833f9325125d0975e98330934aaf52c67cddbc30d6fd48a8f14b11e882a0fa8d6d790f5#rd"/>
+        <updated>2025-03-23T00:00:00.000Z</updated>
+        <published>2025-03-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TypeScript 官方宣布弃用 Enum？Enum 何罪之有？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525715&amp;idx=2&amp;sn=3b6c1d4302c81561cab2bd34d7b3b911&amp;chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525715&amp;idx=2&amp;sn=3b6c1d4302c81561cab2bd34d7b3b911&amp;chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd"/>
+        <updated>2025-03-21T00:00:00.000Z</updated>
+        <published>2025-03-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vitest3.0 的发布，能让你成为更高级别的前端工程师！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503262&amp;idx=1&amp;sn=0da0e47a3a18258a83912f47475085e7&amp;chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503262&amp;idx=1&amp;sn=0da0e47a3a18258a83912f47475085e7&amp;chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd"/>
         <updated>2025-03-21T00:00:00.000Z</updated>
         <published>2025-03-21T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275931&amp;idx=1&amp;sn=016edab733228e48f5407e6f733291db&amp;chksm=bc40dcd5857dcdbfb3938094c299d7275008acad09c31862aa448352b73eb1e0d22f67706f48&amp;scene=0#rd"/>
         <updated>2025-03-06T00:00:00.000Z</updated>
         <published>2025-03-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终于等到了，CSS offset-path全浏览器全支持]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <published>2025-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型时代的视频动静态封面生产方案及业务实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538914&amp;idx=1&amp;sn=148fc184707d1d83c5e9ce5797a849ea&amp;chksm=8390cbbab4e742acab6c90a895242041e062eab9de21082fb2ba135bd466291be08998675144#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650538914&amp;idx=1&amp;sn=148fc184707d1d83c5e9ce5797a849ea&amp;chksm=8390cbbab4e742acab6c90a895242041e062eab9de21082fb2ba135bd466291be08998675144#rd"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <published>2025-03-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智谱开源AI绘画CogView4，开源之火烧的更旺了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247501516&amp;idx=1&amp;sn=01b3c07e29e1aa883c86e703676032eb&amp;chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247501516&amp;idx=1&amp;sn=01b3c07e29e1aa883c86e703676032eb&amp;chksm=c2b30733f5c48e2518421fa837470fec0ddaffabfdfb6aa32e33167bb3ca0f771237d1768cc8#rd"/>
-        <updated>2025-03-05T00:00:00.000Z</updated>
-        <published>2025-03-05T00:00:00.000Z</published>
     </entry>
 </feed>
