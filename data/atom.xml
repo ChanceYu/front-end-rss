@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-24T23:15:06.962Z</updated>
+    <updated>2025-03-25T08:14:30.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3478期】CSS view()：JavaScript 滚动动画的终结]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <published>2025-03-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来了！JavaScript 最强大的 8 个 DOM API]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503306&amp;idx=1&amp;sn=1ee97896ef26894e9fe3d4fc0b9b24b0&amp;chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[查看 npm 安装的全局包]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525518&amp;idx=2&amp;sn=2a49523f3710f9d8e1be4c280530981f&amp;chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525518&amp;idx=2&amp;sn=2a49523f3710f9d8e1be4c280530981f&amp;chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd"/>
-        <updated>2025-03-07T00:00:00.000Z</updated>
-        <published>2025-03-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3468期】从 React 看前端 UI 代码范式革命]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275943&amp;idx=1&amp;sn=e05bb050e11f14705c2eb6550b778a10&amp;chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275943&amp;idx=1&amp;sn=e05bb050e11f14705c2eb6550b778a10&amp;chksm=bcfc5f98fbe1c306fe5fe4387ec41fb78ee5dfad4f319457d8b961dd780e08dceeabf32d8a96&amp;scene=0#rd"/>
         <updated>2025-03-07T00:00:00.000Z</updated>
         <published>2025-03-07T00:00:00.000Z</published>
     </entry>
