@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-25 16:14:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-25 22:11:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571) ![](/assets/new.png)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
@@ -66,7 +67,6 @@
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)  
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
-- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-03-25-【第3478期】CSS-view：JavaScript-滚动动画的终结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276071&idx=1&sn=23b4287b65868ee4689b56a4a6292f9a&chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&scene=0#rd) ![](/assets/new.png)  
+- [2025-03-25-【第3478期】CSS-view：JavaScript-滚动动画的终结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276071&idx=1&sn=23b4287b65868ee4689b56a4a6292f9a&chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&scene=0#rd)  
 - [2025-03-24-【第3477期】基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276062&idx=1&sn=3587469f07550ed878101b65b85c6ef1&chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&scene=0#rd)  
 - [2025-03-21-【第3476期】什么是MCP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276056&idx=1&sn=06a98781d33abe9dabb92242c911a452&chksm=bca52f931b4a09ac0cd09e2b2c5924524db3119e40c9b85eaa11e649eeb4cb7f3de5e1f3a799&scene=0#rd)  
 - [2025-03-21-【早阅】Parcel-v2.14.0-发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276056&idx=2&sn=8b7b7b95fd9cd526671d03761d9a045c&chksm=bc31566df05dcd30868a53924e8c5983351732544d572e81f5e453c633a9e84010dd71490a2a&scene=0#rd)  
