@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-25T16:11:06.057Z</updated>
+    <updated>2025-03-25T18:13:33.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[来了！JavaScript 最强大的 8 个 DOM API]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517138&amp;idx=1&amp;sn=b20d8214ad037fef0a87b0dae35890b8&amp;chksm=eb07bbabdc7032bd20f5c3f6bc883e0bc0447e0f39b11ac6449da287406dc5c1dd39adc10e1b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517138&amp;idx=1&amp;sn=b20d8214ad037fef0a87b0dae35890b8&amp;chksm=eb07bbabdc7032bd20f5c3f6bc883e0bc0447e0f39b11ac6449da287406dc5c1dd39adc10e1b#rd"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <published>2025-03-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3478期】CSS view()：JavaScript 滚动动画的终结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[腾讯AI视频模型重磅开源，一手实测来了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247501620&amp;idx=1&amp;sn=f740bc98a31c8764a1e77280e0c5fb76&amp;chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247501620&amp;idx=1&amp;sn=f740bc98a31c8764a1e77280e0c5fb76&amp;chksm=c2b306cbf5c48fdd8762f7f496ac8195da0ed569c1b0870a65eaadd624ac4c91a14e46f5042e#rd"/>
-        <updated>2025-03-07T00:00:00.000Z</updated>
-        <published>2025-03-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查看 npm 安装的全局包]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525518&amp;idx=2&amp;sn=2a49523f3710f9d8e1be4c280530981f&amp;chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525518&amp;idx=2&amp;sn=2a49523f3710f9d8e1be4c280530981f&amp;chksm=f992625fcee5eb49b205c4779574b462db34353bb48c62c46c3b7c6785d6356307f44de5aa48#rd"/>
         <updated>2025-03-07T00:00:00.000Z</updated>
         <published>2025-03-07T00:00:00.000Z</published>
     </entry>

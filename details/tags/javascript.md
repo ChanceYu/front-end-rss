@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-26 00:11:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-26 02:13:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1402,6 +1402,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2025-03-25-来了！JavaScript-最强大的-8-个-DOM-API](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517138&idx=1&sn=b20d8214ad037fef0a87b0dae35890b8&chksm=eb07bbabdc7032bd20f5c3f6bc883e0bc0447e0f39b11ac6449da287406dc5c1dd39adc10e1b#rd) 
 - [2025-02-13-JavaScript-最实用的-10-种设计模式和应用场景](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517038&idx=1&sn=be1272a8f5c7f488d3c8e647d4f89ff7&chksm=eb07bb17dc70320186b1c78aa1a88dddaff07891db6b9d7e5aa358f907f57af600e8995e47a8#rd) 
 - [2025-01-07-2024-年-GitHub-上-star-增长最多的前端-JavaScript-项目](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516982&idx=1&sn=5e7d377669d76dedaafd1c012df84534&chksm=eb07bb4fdc703259344bdf0ee7c7d2ae9bf735362088cad972ccbe651c6ab9d45f693340ca80#rd) 
 - [2024-12-24-追更20年，销量破40万册，JavaScript「红宝书」第5版强势来袭！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516963&idx=1&sn=865c0990e5780d885d4299b464b61982&chksm=eb07bb5adc70324cf0c83a6503771115807347e4d81070c4edf10382e4ee2cdf8f049a0383f7#rd) 
