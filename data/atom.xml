@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-27T06:14:54.336Z</updated>
+    <updated>2025-03-27T12:18:28.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,6 +50,20 @@
         <published>2025-03-25T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[前端异常隔离：Proxy、Web Workers 与 iframe 的深度对比]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=2&amp;sn=58d977b788a2569cecd7525f6f10d4e4&amp;chksm=80225ca0b755d5b6f154a7e4ff55388be8f9d30fcc4f7fa359e0bfb92e4b0c50f426c8133b0d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=2&amp;sn=58d977b788a2569cecd7525f6f10d4e4&amp;chksm=80225ca0b755d5b6f154a7e4ff55388be8f9d30fcc4f7fa359e0bfb92e4b0c50f426c8133b0d#rd"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <published>2025-03-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 官方宣布弃用 Enum？Enum 何罪之有？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=1&amp;sn=23d200ca2c1a9f04d6d78945eeee898f&amp;chksm=80225ca0b755d5b634afdc1ca04ba6505b7742ecff9d317ae6f1765952e4a4a2d1b4964d397e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=1&amp;sn=23d200ca2c1a9f04d6d78945eeee898f&amp;chksm=80225ca0b755d5b634afdc1ca04ba6505b7742ecff9d317ae6f1765952e4a4a2d1b4964d397e#rd"/>
+        <updated>2025-03-25T00:00:00.000Z</updated>
+        <published>2025-03-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3478期】CSS view()：JavaScript 滚动动画的终结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd"/>
@@ -71,16 +85,16 @@
         <published>2025-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite成为首个接入AI的构建工具，前端开发效率提升200%！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=1&amp;sn=2a858b478bf3c7089809b8b69527532d&amp;chksm=80225c91b755d5872fbd926f9f4d6b77aa927f35502001235d51f614748b9ffdb7589fd6f848#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=1&amp;sn=2a858b478bf3c7089809b8b69527532d&amp;chksm=80225c91b755d5872fbd926f9f4d6b77aa927f35502001235d51f614748b9ffdb7589fd6f848#rd"/>
+        <title type="html"><![CDATA[深入解析前端插件机制：以埋点SDK与Webpack为例]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=2&amp;sn=d274f9bd24311687e4130c9fe4ee1dec&amp;chksm=80225c91b755d587779145afee8556d2cbcccee4cdfa13180c5c98958b9bbacbde80f47c935d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=2&amp;sn=d274f9bd24311687e4130c9fe4ee1dec&amp;chksm=80225c91b755d587779145afee8556d2cbcccee4cdfa13180c5c98958b9bbacbde80f47c935d#rd"/>
         <updated>2025-03-24T00:00:00.000Z</updated>
         <published>2025-03-24T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深入解析前端插件机制：以埋点SDK与Webpack为例]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=2&amp;sn=d274f9bd24311687e4130c9fe4ee1dec&amp;chksm=80225c91b755d587779145afee8556d2cbcccee4cdfa13180c5c98958b9bbacbde80f47c935d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=2&amp;sn=d274f9bd24311687e4130c9fe4ee1dec&amp;chksm=80225c91b755d587779145afee8556d2cbcccee4cdfa13180c5c98958b9bbacbde80f47c935d#rd"/>
+        <title type="html"><![CDATA[Vite成为首个接入AI的构建工具，前端开发效率提升200%！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=1&amp;sn=2a858b478bf3c7089809b8b69527532d&amp;chksm=80225c91b755d5872fbd926f9f4d6b77aa927f35502001235d51f614748b9ffdb7589fd6f848#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=1&amp;sn=2a858b478bf3c7089809b8b69527532d&amp;chksm=80225c91b755d5872fbd926f9f4d6b77aa927f35502001235d51f614748b9ffdb7589fd6f848#rd"/>
         <updated>2025-03-24T00:00:00.000Z</updated>
         <published>2025-03-24T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275949&amp;idx=1&amp;sn=b06ef9f3067b1146ae6fb0d8553b9a8f&amp;chksm=bc318e6e00ba8c2ab26206c2b84cae633e33cce4b5ffb0f8e52a51b46476c506a25d6560b2a7&amp;scene=0#rd"/>
         <updated>2025-03-10T00:00:00.000Z</updated>
         <published>2025-03-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS @supports规则又新增font-tech,font-format判断]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/"/>
-        <updated>2025-03-09T00:00:00.000Z</updated>
-        <published>2025-03-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 团队亲自推荐的动画库，到底有多强大？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503121&amp;idx=1&amp;sn=c69bba0b814de5381a50b7dc50acc988&amp;chksm=ce45d880f9325196105ea6d425056bb45d5752d3269c60e26d63fef01ee18702acce2ff313fd#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503121&amp;idx=1&amp;sn=c69bba0b814de5381a50b7dc50acc988&amp;chksm=ce45d880f9325196105ea6d425056bb45d5752d3269c60e26d63fef01ee18702acce2ff313fd#rd"/>
-        <updated>2025-03-09T00:00:00.000Z</updated>
-        <published>2025-03-09T00:00:00.000Z</published>
     </entry>
 </feed>
