@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-28 02:13:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-29 00:12:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729) ![](/assets/new.png)  
 - [2025-03-21-The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)  
 - [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)  
 - [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)  
@@ -97,7 +98,6 @@
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
 - [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [2024-10-24-A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)  
-- [2024-10-17-JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-03-26-技术人的大模型应用初学指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539239&idx=1&sn=c4993590c9478dae8188f02ce90caddc&chksm=8390ccffb4e745e94151d2b35b21b7887218f29297e8592487a48d0b338154a5d9aeca14465d#rd) ![](/assets/new.png)  
+- [2025-03-26-技术人的大模型应用初学指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539239&idx=1&sn=c4993590c9478dae8188f02ce90caddc&chksm=8390ccffb4e745e94151d2b35b21b7887218f29297e8592487a48d0b338154a5d9aeca14465d#rd)  
 - [2025-03-19-揭开RAG的神秘面纱：重新定义信息检索的革命性技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539133&idx=1&sn=9e44beea127e08ba91f1ff58215e9491&chksm=8390cc65b4e74573ebc380c3bb1d8694381d8171b44de34ac11ce86e929fa3aa26167e6214ad#rd)  
 - [2025-03-17-AI赋能：大模型创新的模板生成与内容填充](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539065&idx=1&sn=f53acd34955ae0fc8aa788bf428e510a&chksm=8390cc21b4e74537f084bc6d69ed0686610e91f18c45390d51dfaeffc3a2035e15057f74a196#rd)  
 - [2025-03-14-淘宝直播AI提效探索的一些心得](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539038&idx=1&sn=70fd255b456b392126a422c98e14b7e5&chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd)  
