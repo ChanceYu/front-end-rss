@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-28T18:14:01.876Z</updated>
+    <updated>2025-03-28T20:11:16.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[前端性能优化必读！避免巨大网络负载的 10 个方法！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525783&amp;idx=1&amp;sn=ef9f6f9bdad38c4015d1ac8813ea68de&amp;chksm=f9926346cee5ea508cf9684020823f9548f10c9cc973e2910024a155fb1da954a7dbc7854c1d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525783&amp;idx=1&amp;sn=ef9f6f9bdad38c4015d1ac8813ea68de&amp;chksm=f9926346cee5ea508cf9684020823f9548f10c9cc973e2910024a155fb1da954a7dbc7854c1d#rd"/>
+        <updated>2025-03-28T00:00:00.000Z</updated>
+        <published>2025-03-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端展示图片，到底该不该用 img 标签？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503475&amp;idx=1&amp;sn=0d41888791d18d448a4464adedbdd299&amp;chksm=ce45dbe2f93252f42b3f3ede46f49875e9f680eead13e30cddfc928cb1b12951fd3367037dbf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503475&amp;idx=1&amp;sn=0d41888791d18d448a4464adedbdd299&amp;chksm=ce45dbe2f93252f42b3f3ede46f49875e9f680eead13e30cddfc928cb1b12951fd3367037dbf#rd"/>
         <updated>2025-03-28T00:00:00.000Z</updated>
         <published>2025-03-28T00:00:00.000Z</published>
     </entry>
@@ -53,6 +60,13 @@
         <title type="html"><![CDATA[CSS view()：JavaScript 滚动动画的终结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525775&amp;idx=1&amp;sn=3c18df9ad18f4de80823e945e0949be0&amp;chksm=f992635ecee5ea48c8dfbb35b8d80dc0a117fe04cede6d39a488e577d744a0e131b7d0e45570#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525775&amp;idx=1&amp;sn=3c18df9ad18f4de80823e945e0949be0&amp;chksm=f992635ecee5ea48c8dfbb35b8d80dc0a117fe04cede6d39a488e577d744a0e131b7d0e45570#rd"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <published>2025-03-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灵语文档：一款颠覆体验的智能文档编辑器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503453&amp;idx=1&amp;sn=9091eb6d7cd505bf7de3895bec355c03&amp;chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503453&amp;idx=1&amp;sn=9091eb6d7cd505bf7de3895bec355c03&amp;chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd"/>
         <updated>2025-03-27T00:00:00.000Z</updated>
         <published>2025-03-27T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539024&amp;idx=1&amp;sn=e6143b7cf402974bc0a4f63bcf819993&amp;chksm=8390cc08b4e7451e390e901f0a3de669816580e47df441496a466e27a7d7f920ddbe151788d5#rd"/>
         <updated>2025-03-12T00:00:00.000Z</updated>
         <published>2025-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多人在线协作的神秘代码：Yjs 底层解密]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525565&amp;idx=2&amp;sn=f1c45446eb9701009aac4b85b9412795&amp;chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525565&amp;idx=2&amp;sn=f1c45446eb9701009aac4b85b9412795&amp;chksm=f992626ccee5eb7ae647898671b16391a76a98b772cdbfffbddb1bf4a27d282b2b5f8563b9b8#rd"/>
-        <updated>2025-03-12T00:00:00.000Z</updated>
-        <published>2025-03-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite Plus 要来了?! 尤雨溪最新演讲：围绕 Vite 的前端统一工具链]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517123&amp;idx=1&amp;sn=737ea715e31055dcd2b1b16fb44dfe42&amp;chksm=eb07bbbadc7032ac0125c0142a1b44ff41647258b8310746840f9e17b58e3c1b413e272256bd#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517123&amp;idx=1&amp;sn=737ea715e31055dcd2b1b16fb44dfe42&amp;chksm=eb07bbbadc7032ac0125c0142a1b44ff41647258b8310746840f9e17b58e3c1b413e272256bd#rd"/>
-        <updated>2025-03-11T00:00:00.000Z</updated>
-        <published>2025-03-11T00:00:00.000Z</published>
     </entry>
 </feed>
