@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-03-29 04:11:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-29 16:12:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,13 +23,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -202,8 +202,8 @@
 </summary>
 
 
-- [2025-03-28-前端展示图片，到底该不该用-img-标签？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503475&idx=1&sn=0d41888791d18d448a4464adedbdd299&chksm=ce45dbe2f93252f42b3f3ede46f49875e9f680eead13e30cddfc928cb1b12951fd3367037dbf#rd) ![](/assets/new.png)  
-- [2025-03-27-灵语文档：一款颠覆体验的智能文档编辑器](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503453&idx=1&sn=9091eb6d7cd505bf7de3895bec355c03&chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd) ![](/assets/new.png)  
+- [2025-03-28-前端展示图片，到底该不该用-img-标签？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503475&idx=1&sn=0d41888791d18d448a4464adedbdd299&chksm=ce45dbe2f93252f42b3f3ede46f49875e9f680eead13e30cddfc928cb1b12951fd3367037dbf#rd)  
+- [2025-03-27-灵语文档：一款颠覆体验的智能文档编辑器](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503453&idx=1&sn=9091eb6d7cd505bf7de3895bec355c03&chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd)  
 - [2025-03-26-45k*16薪，进阿里了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503352&idx=1&sn=49180639beb7cef50369a20933f97029&chksm=ce45d869f932517f05f0dc6a2d70628b9f0c5a199ebd6e51aae3d61db904f0804b7849275c3b#rd)  
 - [2025-03-25-Pinia-的核心-API，超级牛超级实用但是超级冷门！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503347&idx=1&sn=d0f47dd66d44e0ccd0f5a81ed24d2060&chksm=ce45d862f9325174db490ae1d64b3726e8c7b278c76508b7be0413737b51d8d19f4ee487676f#rd)  
 - [2025-03-24-来了！JavaScript-最强大的-8-个-DOM-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503306&idx=1&sn=1ee97896ef26894e9fe3d4fc0b9b24b0&chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-03-28-阿里QVQ-Max能看图看视频，把我看傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502008&idx=1&sn=061385f054bf27f161c491d632e36b57&chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd) ![](/assets/new.png)  
 - [2025-03-27-GPT-4o生图20种玩法实测，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501984&idx=1&sn=5dbd396e2a9be505b268390ee4cee338&chksm=c2b3095ff5c480493e1f39dad2b4a29e317f1919b6427d1210f45cd9d6fde3179a06c81c9878#rd)  
 - [2025-03-26-DeepSeek全新玩法合集，90%的人还不知道建议收藏](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501946&idx=1&sn=6cfc4275c0f250f11ec938f0154f53a2&chksm=c2b30985f5c4809362171179709fcdeeb02e2d90ce5dddbfd49ccf81d733140d9debc2149546#rd)  
 - [2025-03-24-刚刚，DeepSeek悄悄更新，一手实测来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501922&idx=1&sn=68b92e7830583acfa4198deb8301e11e&chksm=c2b3099df5c4808ba52681e63ad5498ae95e9c7fecf26e22eab26d386574a11c602ec882a2a8#rd)  
@@ -407,7 +408,6 @@
 - [2025-03-01-取代房子，我们的下一个人生杠杆是-AI](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501472&idx=1&sn=6962640bcabcbb119803fb29d5c25400&chksm=c2b3075ff5c48e4916ae73bc572fbd5702b4c277ea98af014a1a9c048f653946389dd5521dde#rd)  
 - [2025-02-28-熬到凌晨四点看GPT-4.5发布会，这波血亏](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501440&idx=1&sn=dc060af2512ee485c078d7cf0ea497b0&chksm=c2b3077ff5c48e69560ca8b5615736ebb193553bbfb3ee65777e46b2c159afc3637eb48becb4#rd)  
 - [2025-02-27-DeepSeek开源第四天，霸气3连发，梁文锋本人参与开发](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501380&idx=1&sn=ea2ee3b62610f3a3fa7fbab04077f0d8&chksm=c2b307bbf5c48ead686e60b793cd5ed3ca92b20a02759d1b3e91b508fda877692dcdb6539086#rd)  
-- [2025-02-26-连夜实测Claude-3.7-Sonnet，AI编程的天花板又被干碎了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501344&idx=1&sn=b307a041e3ea25c3c5fd068966130832&chksm=c2b307dff5c48ec91116f7b452590817d625a6341712b7c9c38a91cabf72eaa32454bbbc3703#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

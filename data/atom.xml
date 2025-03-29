@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-28T20:11:16.489Z</updated>
+    <updated>2025-03-29T08:12:24.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[阿里QVQ-Max能看图看视频，把我看傻了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247502008&amp;idx=1&amp;sn=061385f054bf27f161c491d632e36b57&amp;chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247502008&amp;idx=1&amp;sn=061385f054bf27f161c491d632e36b57&amp;chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd"/>
+        <updated>2025-03-28T00:00:00.000Z</updated>
+        <published>2025-03-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端性能优化必读！避免巨大网络负载的 10 个方法！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525783&amp;idx=1&amp;sn=ef9f6f9bdad38c4015d1ac8813ea68de&amp;chksm=f9926346cee5ea508cf9684020823f9548f10c9cc973e2910024a155fb1da954a7dbc7854c1d#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd"/>
         <updated>2025-03-13T00:00:00.000Z</updated>
         <published>2025-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多模态自动布局技术发展及其在淘内内容场的应用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539024&amp;idx=1&amp;sn=e6143b7cf402974bc0a4f63bcf819993&amp;chksm=8390cc08b4e7451e390e901f0a3de669816580e47df441496a466e27a7d7f920ddbe151788d5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539024&amp;idx=1&amp;sn=e6143b7cf402974bc0a4f63bcf819993&amp;chksm=8390cc08b4e7451e390e901f0a3de669816580e47df441496a466e27a7d7f920ddbe151788d5#rd"/>
-        <updated>2025-03-12T00:00:00.000Z</updated>
-        <published>2025-03-12T00:00:00.000Z</published>
     </entry>
 </feed>
