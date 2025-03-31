@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-30T16:11:21.310Z</updated>
+    <updated>2025-03-31T10:11:54.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[最近面试中Vue3跪的太多了。。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503480&amp;idx=1&amp;sn=015fd8c761e1ca1d51d2f008ad3a7c71&amp;chksm=ce45dbe9f93252ffd723b99bb9e26f8792105a89c30ed3a0f6d432b99044303716c4cb07932e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503480&amp;idx=1&amp;sn=015fd8c761e1ca1d51d2f008ad3a7c71&amp;chksm=ce45dbe9f93252ffd723b99bb9e26f8792105a89c30ed3a0f6d432b99044303716c4cb07932e#rd"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <published>2025-03-31T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿里QVQ-Max能看图看视频，把我看傻了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247502008&amp;idx=1&amp;sn=061385f054bf27f161c491d632e36b57&amp;chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TypeScript 之父宣布：编译器和工具链将移植到 Go ，性能提升高达 10 倍]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622186&amp;idx=2&amp;sn=c583b00f63678c1a36455a8a2c81d1d7&amp;chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622186&amp;idx=2&amp;sn=c583b00f63678c1a36455a8a2c81d1d7&amp;chksm=80225cebb755d5fd6ed494d41088f013fe366e4f47bb09b4527667d53b2185b8a009ee1138f8#rd"/>
-        <updated>2025-03-13T00:00:00.000Z</updated>
-        <published>2025-03-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3472期】资源预加载可能会拖慢网站速度]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275975&amp;idx=1&amp;sn=272f942c61d92c7154a73f780f50c336&amp;chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&amp;scene=0#rd"/>
         <updated>2025-03-13T00:00:00.000Z</updated>
         <published>2025-03-13T00:00:00.000Z</published>
     </entry>
