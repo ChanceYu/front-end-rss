@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-01T08:14:50.615Z</updated>
+    <updated>2025-04-01T18:13:38.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3483期】如何在 Node.js 中选择 SQL、查询构建器和 ORM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276114&amp;idx=1&amp;sn=775732ccf24a78288480c12f83ad89eb&amp;chksm=bc2957db39c868c347a40e1111277a20d3642e1f293925885ce076b3345c741f9bf12295955a&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276114&amp;idx=1&amp;sn=775732ccf24a78288480c12f83ad89eb&amp;chksm=bc2957db39c868c347a40e1111277a20d3642e1f293925885ce076b3345c741f9bf12295955a&amp;scene=0#rd"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <published>2025-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Express 5.x enters the limelight]]></title>
+        <id>https://nodeweekly.com/issues/572</id>
+        <link href="https://nodeweekly.com/issues/572"/>
         <updated>2025-04-01T00:00:00.000Z</updated>
         <published>2025-04-01T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[基于three.js的虚拟人阴影渲染优化方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525585&amp;idx=2&amp;sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&amp;chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525585&amp;idx=2&amp;sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&amp;chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd"/>
-        <updated>2025-03-14T00:00:00.000Z</updated>
-        <published>2025-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you understand this JavaScript?]]></title>
-        <id>https://javascriptweekly.com/issues/727</id>
-        <link href="https://javascriptweekly.com/issues/727"/>
         <updated>2025-03-14T00:00:00.000Z</updated>
         <published>2025-03-14T00:00:00.000Z</published>
     </entry>

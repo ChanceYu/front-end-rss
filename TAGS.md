@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-01 16:14:50。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-02 02:13:38。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)
 - [【Node-Weekly】Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)
 - [【Node-Weekly】Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)
 - [【Node-Weekly】Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Express.js-5.0](https://nodeweekly.com/issues/547)
 - [【Node-Weekly】Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)
 - [【Node-Weekly】Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)
-- [【Node-Weekly】Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

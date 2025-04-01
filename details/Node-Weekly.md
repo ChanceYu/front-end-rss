@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-03-25 22:11:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-02 02:13:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572) 
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571) 
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570) 
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569) 
