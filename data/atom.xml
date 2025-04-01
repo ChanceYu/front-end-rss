@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-03-31T18:14:38.768Z</updated>
+    <updated>2025-04-01T04:14:20.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3483期】如何在 Node.js 中选择 SQL、查询构建器和 ORM]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276114&amp;idx=1&amp;sn=775732ccf24a78288480c12f83ad89eb&amp;chksm=bc2957db39c868c347a40e1111277a20d3642e1f293925885ce076b3345c741f9bf12295955a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276114&amp;idx=1&amp;sn=775732ccf24a78288480c12f83ad89eb&amp;chksm=bc2957db39c868c347a40e1111277a20d3642e1f293925885ce076b3345c741f9bf12295955a&amp;scene=0#rd"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <published>2025-04-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近面试中Vue3跪的太多了。。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503480&amp;idx=1&amp;sn=015fd8c761e1ca1d51d2f008ad3a7c71&amp;chksm=ce45dbe9f93252ffd723b99bb9e26f8792105a89c30ed3a0f6d432b99044303716c4cb07932e#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/727"/>
         <updated>2025-03-14T00:00:00.000Z</updated>
         <published>2025-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软宣布性能提升10倍的 TypeScript 来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517125&amp;idx=1&amp;sn=11821db18c6d1d32bb2eafd4466e9416&amp;chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd"/>
-        <updated>2025-03-13T00:00:00.000Z</updated>
-        <published>2025-03-13T00:00:00.000Z</published>
     </entry>
 </feed>
