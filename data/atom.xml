@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-01T18:13:38.789Z</updated>
+    <updated>2025-04-03T18:15:34.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 也能开发AI应用了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd"/>
+        <updated>2025-04-03T00:00:00.000Z</updated>
+        <published>2025-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何检查一个对象是否是 Proxy？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd"/>
+        <updated>2025-04-03T00:00:00.000Z</updated>
+        <published>2025-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[虚拟线程/有栈协程对于Java的意义]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539434&amp;idx=1&amp;sn=51005dfbb930db9431b8a1339b5a9a23&amp;chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539434&amp;idx=1&amp;sn=51005dfbb930db9431b8a1339b5a9a23&amp;chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <published>2025-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入解密Node共享内存：这个原生模块让你的多进程应用性能翻倍]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525847&amp;idx=1&amp;sn=741860f36bacc4010cb0fecc7974691e&amp;chksm=f9926306cee5ea10fe0b43f46b3da03b0f547050f84f8e3847e2c1a2355b9423c5a719eadf8c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525847&amp;idx=1&amp;sn=741860f36bacc4010cb0fecc7974691e&amp;chksm=f9926306cee5ea10fe0b43f46b3da03b0f547050f84f8e3847e2c1a2355b9423c5a719eadf8c#rd"/>
+        <updated>2025-04-01T00:00:00.000Z</updated>
+        <published>2025-04-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3483期】如何在 Node.js 中选择 SQL、查询构建器和 ORM]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276114&amp;idx=1&amp;sn=775732ccf24a78288480c12f83ad89eb&amp;chksm=bc2957db39c868c347a40e1111277a20d3642e1f293925885ce076b3345c741f9bf12295955a&amp;scene=0#rd</id>
@@ -27,6 +55,27 @@
         <link href="https://nodeweekly.com/issues/572"/>
         <updated>2025-04-01T00:00:00.000Z</updated>
         <published>2025-04-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音频生成技术探索与淘宝域实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539431&amp;idx=1&amp;sn=5ceb5aeaac4ff592f537d3c74bc39e3b&amp;chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539431&amp;idx=1&amp;sn=5ceb5aeaac4ff592f537d3c74bc39e3b&amp;chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <published>2025-03-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS都更新到4.0了，你还在抵触吗？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517140&amp;idx=1&amp;sn=c20bc957a6f97c041a07cdaafd36770d&amp;chksm=eb07bbaddc7032bbb9155a0786fb63955c068f8189b3ede526555c0de12f55ec73ec4bf97fb1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517140&amp;idx=1&amp;sn=c20bc957a6f97c041a07cdaafd36770d&amp;chksm=eb07bbaddc7032bbb9155a0786fb63955c068f8189b3ede526555c0de12f55ec73ec4bf97fb1#rd"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <published>2025-03-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微前端的实践总结]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525809&amp;idx=2&amp;sn=a74ab966aeb0ed1c8b8f37ead5c74dfc&amp;chksm=f9926360cee5ea76225d91363e71b4369f440be90f30affeb556615c0b2002bc477983a311af#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525809&amp;idx=2&amp;sn=a74ab966aeb0ed1c8b8f37ead5c74dfc&amp;chksm=f9926360cee5ea76225d91363e71b4369f440be90f30affeb556615c0b2002bc477983a311af#rd"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <published>2025-03-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[最近面试中Vue3跪的太多了。。。]]></title>
@@ -314,54 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525616&amp;idx=2&amp;sn=dad3c07ff00c4f7391e60804b23fb57e&amp;chksm=f9926221cee5eb3786ed123babb3c8f04892a6c907a85d53c30336cb63b933c0e80a82184ad9#rd"/>
         <updated>2025-03-17T00:00:00.000Z</updated>
         <published>2025-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3474期】猫耳大型活动提效：组件低代码化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275986&amp;idx=1&amp;sn=e6a9f806dd5c25441cbf64eaea23af63&amp;chksm=bcd46432a9944130ba7579249b6a9f81bab3746481bb8b151b26d1392f754f7b55466871558e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651275986&amp;idx=1&amp;sn=e6a9f806dd5c25441cbf64eaea23af63&amp;chksm=bcd46432a9944130ba7579249b6a9f81bab3746481bb8b151b26d1392f754f7b55466871558e&amp;scene=0#rd"/>
-        <updated>2025-03-17T00:00:00.000Z</updated>
-        <published>2025-03-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[资源预加载可能会拖慢网站速度]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525605&amp;idx=1&amp;sn=d86f01b1603dc722c5affeb52cbe37b8&amp;chksm=f9926234cee5eb22eb9fa1f0a87c1a30d85612ef49601b22189c2be98ceca395b76f41d89710#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525605&amp;idx=1&amp;sn=d86f01b1603dc722c5affeb52cbe37b8&amp;chksm=f9926234cee5eb22eb9fa1f0a87c1a30d85612ef49601b22189c2be98ceca395b76f41d89710#rd"/>
-        <updated>2025-03-16T00:00:00.000Z</updated>
-        <published>2025-03-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端国际化全场景支持方案，不入侵代码，一键完成 (vue2/3、react)。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525605&amp;idx=2&amp;sn=9575ffdf51e978785ec4a0b8aeeee890&amp;chksm=f9926234cee5eb22fea83565d7df969d6275706ce5680714d0b1c785f836b23d7f02c61ea353#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525605&amp;idx=2&amp;sn=9575ffdf51e978785ec4a0b8aeeee890&amp;chksm=f9926234cee5eb22fea83565d7df969d6275706ce5680714d0b1c785f836b23d7f02c61ea353#rd"/>
-        <updated>2025-03-16T00:00:00.000Z</updated>
-        <published>2025-03-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 做主题色切换，一定要用这个神库！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503158&amp;idx=1&amp;sn=8bcf03748a79356b2ac2c5d1a5a8a30c&amp;chksm=ce45d8a7f93251b15f6b0b19c7cba8478789148ac25b9b9cb9141f2c6393fa43f4193574e1ab#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503158&amp;idx=1&amp;sn=8bcf03748a79356b2ac2c5d1a5a8a30c&amp;chksm=ce45d8a7f93251b15f6b0b19c7cba8478789148ac25b9b9cb9141f2c6393fa43f4193574e1ab#rd"/>
-        <updated>2025-03-15T00:00:00.000Z</updated>
-        <published>2025-03-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播AI提效探索的一些心得]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539038&amp;idx=1&amp;sn=70fd255b456b392126a422c98e14b7e5&amp;chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539038&amp;idx=1&amp;sn=70fd255b456b392126a422c98e14b7e5&amp;chksm=8390cc06b4e74510cd70310b16ed218c01c7c000a8e5b6cc078fccb12b022b3f8c874cd22aca#rd"/>
-        <updated>2025-03-14T00:00:00.000Z</updated>
-        <published>2025-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软宣布性能提升10倍的 TypeScript 来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525585&amp;idx=1&amp;sn=801b57aa5c58fb007c4ce36d0dc25366&amp;chksm=f9926200cee5eb16d907511ab104fa2afa61c8643031b2b18f0a362700f7c35fc119e7fb2eb1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525585&amp;idx=1&amp;sn=801b57aa5c58fb007c4ce36d0dc25366&amp;chksm=f9926200cee5eb16d907511ab104fa2afa61c8643031b2b18f0a362700f7c35fc119e7fb2eb1#rd"/>
-        <updated>2025-03-14T00:00:00.000Z</updated>
-        <published>2025-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于three.js的虚拟人阴影渲染优化方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525585&amp;idx=2&amp;sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&amp;chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525585&amp;idx=2&amp;sn=8f40b6f9f5c5e10de2ce67129dbd7a3d&amp;chksm=f9926200cee5eb1651cc4c08d3d5f166d8a7d1961022da8c41e16c42fa421235619af15d7fab#rd"/>
-        <updated>2025-03-14T00:00:00.000Z</updated>
-        <published>2025-03-14T00:00:00.000Z</published>
     </entry>
 </feed>
