@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-04 08:44:19。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-05 00:12:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -330,6 +330,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)
 - [【JavaScript-Weekly】Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)
 - [【JavaScript-Weekly】The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)
 - [【JavaScript-Weekly】Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
 - [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
 - [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
-- [【JavaScript-Weekly】JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
