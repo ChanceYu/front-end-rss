@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-05 00:12:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-05 14:14:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730) ![](/assets/new.png)  
+- [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
 - [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729)  
 - [2025-03-21-The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)  
 - [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd) ![](/assets/new.png)  
 - [2025-03-29-当-AI-重塑开发体验，iOS-生态为何显得格格不入？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525903&idx=1&sn=02d078d10a7007aa995071bdf71a7d3f&chksm=f952d34cce255a5a4ef75057439f911142fb15cf7d8b6fd4bfa3af91a893edf3060916c4ecf1#rd)  
 - [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525894&idx=1&sn=ceaae73c9779a47a3465a3f89e041bb8&chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd)  
 - [2025-03-12-前端框架新格局：从过去一年的演进看未来趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525868&idx=1&sn=962a6cee37106901175855fa7d52d184&chksm=f952d0afce2559b9c2c08982d9d1961369fb518c57a10fe13d84aa2de483019b1b70113cfcee#rd)  
@@ -190,7 +191,6 @@
 - [2024-11-20-80人小团队，限时任务！NYPL如何用Next.js打造世界级数字图书馆？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525470&idx=1&sn=c93183f60d0d825f52476ccf0bf09a31&chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd)  
 - [2024-11-13-Shopify将应用迁移到React-Native，跨平台代码达到86%，旧代码减少180万行](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525458&idx=1&sn=8338391e78da5b7849ae3807613f8148&chksm=f952d111ce2558078c060be5a76d9a8a8d0c3a84805a4c30295d76d5609b2d14434d5baecb0a#rd)  
 - [2024-11-07-文件布局≠架构！气愤之余，我不得不说的前端架构真相](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525444&idx=1&sn=299e6f11c7cfdbd3cf30eecf2f7c6703&chksm=f952d107ce2558112c5fa4e7a433320360cb76d2b06e9bb9cd8af144751863a63d4b1bb0f396#rd)  
-- [2024-10-30-JavaScript-应该分成两种语言吗？谷歌新提案引争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525418&idx=1&sn=293b8538589520af9e60474575e5f303&chksm=f952d169ce25587fdf3cc43ecad5379541fdd6d777b844968d198eb6249b68f0a844272f0ad5#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-04-04-前端神库！让你能在-Nodejs-里操作浏览器玩出花样！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503545&idx=1&sn=5df67b41ad7f5c2a2512502cb1867747&chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd) ![](/assets/new.png)  
+- [2025-04-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503542&idx=1&sn=f2a6a98283ff238433532b5f2948c7dc&chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd) ![](/assets/new.png)  
+- [2025-04-02-还在用-querySelectorAll？你知道性能有多差吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503490&idx=1&sn=bc63755813ec5a10236a27a0cad5f38b&chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd) ![](/assets/new.png)  
 - [2025-04-01-更炸裂的来了！腾讯今年招-7000-人](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503489&idx=1&sn=72bba96fca9eee0adb46bd701e423f81&chksm=ce45db10f9325206fc5bc34fe318ed0de2b991c3f4286eb85670a67fe1a8572d3f35f0e00cb1#rd)  
 - [2025-03-31-最近面试中Vue3跪的太多了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503480&idx=1&sn=015fd8c761e1ca1d51d2f008ad3a7c71&chksm=ce45dbe9f93252ffd723b99bb9e26f8792105a89c30ed3a0f6d432b99044303716c4cb07932e#rd)  
 - [2025-03-30-Deepseek-V3升级！更快、更准、更聪明！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503476&idx=1&sn=392eedf4af1cf677b198346de48544f4&chksm=ce45dbe5f93252f3ca6d1d7739fce49a6fb15b69028206552f335efe05c357e06aa29fee9ae5#rd)  
@@ -219,9 +222,6 @@
 - [2025-03-18-45K*16薪，进字节了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503216&idx=1&sn=13cea677d7a57abba854e71e0cdf839b&chksm=ce45d8e1f93251f7f8b3fee9e9c956c236abf5f899ac04fbac66141eaafaa09460d0ed284e00#rd)  
 - [2025-03-17-周下载-400w，这个前端神库真是热门又冷门！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503189&idx=1&sn=0e20dcb4af70ab77d471836d79a033ed&chksm=ce45d8c4f93251d2ad8c0c26f48506236a8239dd69136126576f32d2cdeb76b944883c3ee084#rd)  
 - [2025-03-16-公司领导：不会用-AI-的程序员都应该开除！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503186&idx=1&sn=61f9848b60176b7b275839bafa2d2aee&chksm=ce45d8c3f93251d5c9dfae859cb6cb63f94e2a7d73bfaedb7e9bb5966a381758cead389e84df#rd)  
-- [2025-03-15-Vue3-做主题色切换，一定要用这个神库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503158&idx=1&sn=8bcf03748a79356b2ac2c5d1a5a8a30c&chksm=ce45d8a7f93251b15f6b0b19c7cba8478789148ac25b9b9cb9141f2c6393fa43f4193574e1ab#rd)  
-- [2025-03-14-阿里面试官：你让我见识到了前端基础的天花板！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503157&idx=1&sn=e3565d1e6904e910a8afc49819f26ba7&chksm=ce45d8a4f93251b24f621ece69bb7a4bd8c240a926ba7f8d5a9aa69599be360ca22adec77e22#rd)  
-- [2025-03-13-确认裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503148&idx=1&sn=12898fd573ec68561ae52906f6220b4b&chksm=ce45d8bdf93251abacb176ccb5d0fa01ca28b654861691d19979d2e1092d621a87627022f71c#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

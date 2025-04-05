@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-04T16:12:47.826Z</updated>
+    <updated>2025-04-05T06:14:02.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端神库！让你能在 Nodejs 里操作浏览器玩出花样！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503545&amp;idx=1&amp;sn=5df67b41ad7f5c2a2512502cb1867747&amp;chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503545&amp;idx=1&amp;sn=5df67b41ad7f5c2a2512502cb1867747&amp;chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <published>2025-04-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
         <id>https://javascriptweekly.com/issues/730</id>
@@ -50,9 +57,23 @@
         <published>2025-04-03T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何在 Vue3 中更好地使用 Typescript]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503542&amp;idx=1&amp;sn=f2a6a98283ff238433532b5f2948c7dc&amp;chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503542&amp;idx=1&amp;sn=f2a6a98283ff238433532b5f2948c7dc&amp;chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd"/>
+        <updated>2025-04-03T00:00:00.000Z</updated>
+        <published>2025-04-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[虚拟线程/有栈协程对于Java的意义]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539434&amp;idx=1&amp;sn=51005dfbb930db9431b8a1339b5a9a23&amp;chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539434&amp;idx=1&amp;sn=51005dfbb930db9431b8a1339b5a9a23&amp;chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <published>2025-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还在用 querySelectorAll？你知道性能有多差吗？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503490&amp;idx=1&amp;sn=bc63755813ec5a10236a27a0cad5f38b&amp;chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503490&amp;idx=1&amp;sn=bc63755813ec5a10236a27a0cad5f38b&amp;chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd"/>
         <updated>2025-04-02T00:00:00.000Z</updated>
         <published>2025-04-02T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525701&amp;idx=1&amp;sn=588742abb64c877406504a5626e10b27&amp;chksm=f9926394cee5ea825f828af7fb556854c4c9d8d35cab38f8b18208b373de1fa5f2b94a292b64#rd"/>
         <updated>2025-03-20T00:00:00.000Z</updated>
         <published>2025-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么，Ajax请求也有精度丢失？chrome把精度吃掉啦？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525673&amp;idx=2&amp;sn=f8febb7a11fb0afd627360001d7d43d5&amp;chksm=f99263f8cee5eaeec774c2c80c3a5fcde95ba88de8076e34d973485a6e2424cb379ffcbbd761#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525673&amp;idx=2&amp;sn=f8febb7a11fb0afd627360001d7d43d5&amp;chksm=f99263f8cee5eaeec774c2c80c3a5fcde95ba88de8076e34d973485a6e2424cb379ffcbbd761#rd"/>
-        <updated>2025-03-19T00:00:00.000Z</updated>
-        <published>2025-03-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[历时 5 年，这款开源全栈框架火爆问世，GitHub 狂揽 15K 星！网友：不支持 Vue，差评]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525894&amp;idx=1&amp;sn=ceaae73c9779a47a3465a3f89e041bb8&amp;chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd"/>
-        <updated>2025-03-19T00:00:00.000Z</updated>
-        <published>2025-03-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[历时 5 年，这款开源全栈框架火爆问世，GitHub 狂揽 15K 星！网友：不支持 Vue，差评]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622204&amp;idx=1&amp;sn=f8bb4eb437dbff2e9a5b7b49b4cdb4e8&amp;chksm=80225cfdb755d5ebf591550523fbd0ddf79eb9121d96c2708d34efdc8f9e3014fc00f0f3329a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622204&amp;idx=1&amp;sn=f8bb4eb437dbff2e9a5b7b49b4cdb4e8&amp;chksm=80225cfdb755d5ebf591550523fbd0ddf79eb9121d96c2708d34efdc8f9e3014fc00f0f3329a#rd"/>
-        <updated>2025-03-19T00:00:00.000Z</updated>
-        <published>2025-03-19T00:00:00.000Z</published>
     </entry>
 </feed>
