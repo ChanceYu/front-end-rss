@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-05T06:14:02.461Z</updated>
+    <updated>2025-04-06T10:11:20.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[不要再傻傻使用 requestAnimationFrame 啦！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503626&amp;idx=1&amp;sn=a2b936ff293a9c03eae73e4a350c3024&amp;chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503626&amp;idx=1&amp;sn=a2b936ff293a9c03eae73e4a350c3024&amp;chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd"/>
+        <updated>2025-04-06T00:00:00.000Z</updated>
+        <published>2025-04-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端神库！让你能在 Nodejs 里操作浏览器玩出花样！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503545&amp;idx=1&amp;sn=5df67b41ad7f5c2a2512502cb1867747&amp;chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vite成为首个接入AI的构建工具，前端开发效率提升200%！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517134&amp;idx=1&amp;sn=40dc62b61c0c40e5607b7e20997a6163&amp;chksm=eb07bbb7dc7032a1478c73b83c538d7049b7cbdd727bb5abb752052b01657e93cca06b4d2d3c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517134&amp;idx=1&amp;sn=40dc62b61c0c40e5607b7e20997a6163&amp;chksm=eb07bbb7dc7032a1478c73b83c538d7049b7cbdd727bb5abb752052b01657e93cca06b4d2d3c#rd"/>
-        <updated>2025-03-20T00:00:00.000Z</updated>
-        <published>2025-03-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端异常隔离：Proxy、Web Workers 与 iframe 的深度对比]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525701&amp;idx=1&amp;sn=588742abb64c877406504a5626e10b27&amp;chksm=f9926394cee5ea825f828af7fb556854c4c9d8d35cab38f8b18208b373de1fa5f2b94a292b64#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525701&amp;idx=1&amp;sn=588742abb64c877406504a5626e10b27&amp;chksm=f9926394cee5ea825f828af7fb556854c4c9d8d35cab38f8b18208b373de1fa5f2b94a292b64#rd"/>
         <updated>2025-03-20T00:00:00.000Z</updated>
         <published>2025-03-20T00:00:00.000Z</published>
     </entry>

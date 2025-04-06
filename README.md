@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-05 14:14:02，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-06 18:11:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,7 +22,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd) ![](/assets/new.png)  
+- [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd)  
 - [2025-03-29-当-AI-重塑开发体验，iOS-生态为何显得格格不入？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525903&idx=1&sn=02d078d10a7007aa995071bdf71a7d3f&chksm=f952d34cce255a5a4ef75057439f911142fb15cf7d8b6fd4bfa3af91a893edf3060916c4ecf1#rd)  
 - [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525894&idx=1&sn=ceaae73c9779a47a3465a3f89e041bb8&chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd)  
 - [2025-03-12-前端框架新格局：从过去一年的演进看未来趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525868&idx=1&sn=962a6cee37106901175855fa7d52d184&chksm=f952d0afce2559b9c2c08982d9d1961369fb518c57a10fe13d84aa2de483019b1b70113cfcee#rd)  
@@ -202,9 +202,11 @@
 </summary>
 
 
-- [2025-04-04-前端神库！让你能在-Nodejs-里操作浏览器玩出花样！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503545&idx=1&sn=5df67b41ad7f5c2a2512502cb1867747&chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd) ![](/assets/new.png)  
-- [2025-04-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503542&idx=1&sn=f2a6a98283ff238433532b5f2948c7dc&chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd) ![](/assets/new.png)  
-- [2025-04-02-还在用-querySelectorAll？你知道性能有多差吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503490&idx=1&sn=bc63755813ec5a10236a27a0cad5f38b&chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd) ![](/assets/new.png)  
+- [2025-04-06-不要再傻傻使用-requestAnimationFrame-啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503626&idx=1&sn=a2b936ff293a9c03eae73e4a350c3024&chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd) ![](/assets/new.png)  
+- [2025-04-05-我的一位前端朋友，他是如何解决35岁开发困境的](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503613&idx=1&sn=f45fe98c4792e8e8e09bded4a2f0e6bf&chksm=ce45db6cf932527ad5ed3e4b2516e672d0c63b3da05433036d7403e5b5014c9dcfbaaa4c6b02#rd) ![](/assets/new.png)  
+- [2025-04-04-前端神库！让你能在-Nodejs-里操作浏览器玩出花样！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503545&idx=1&sn=5df67b41ad7f5c2a2512502cb1867747&chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd)  
+- [2025-04-03-如何在-Vue3-中更好地使用-Typescript](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503542&idx=1&sn=f2a6a98283ff238433532b5f2948c7dc&chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd)  
+- [2025-04-02-还在用-querySelectorAll？你知道性能有多差吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503490&idx=1&sn=bc63755813ec5a10236a27a0cad5f38b&chksm=ce45db13f932520510c9df1e59ea0bda2c0820d53a5d939e436a49d39b9ff817b1bddd41daaf#rd)  
 - [2025-04-01-更炸裂的来了！腾讯今年招-7000-人](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503489&idx=1&sn=72bba96fca9eee0adb46bd701e423f81&chksm=ce45db10f9325206fc5bc34fe318ed0de2b991c3f4286eb85670a67fe1a8572d3f35f0e00cb1#rd)  
 - [2025-03-31-最近面试中Vue3跪的太多了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503480&idx=1&sn=015fd8c761e1ca1d51d2f008ad3a7c71&chksm=ce45dbe9f93252ffd723b99bb9e26f8792105a89c30ed3a0f6d432b99044303716c4cb07932e#rd)  
 - [2025-03-30-Deepseek-V3升级！更快、更准、更聪明！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503476&idx=1&sn=392eedf4af1cf677b198346de48544f4&chksm=ce45dbe5f93252f3ca6d1d7739fce49a6fb15b69028206552f335efe05c357e06aa29fee9ae5#rd)  
@@ -220,8 +222,6 @@
 - [2025-03-20-金三银四准备跳槽的兄弟注意了，不能错过！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503261&idx=1&sn=9930a49aeb5f7e60e06bdf416f074047&chksm=ce45d80cf932511a8eaa35ddfa48d8398b7b546db2a56e661de2615ff53e9acc44ae3e3a9c19#rd)  
 - [2025-03-19-前端校验届的超新星，已被各大知名项目采用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503252&idx=1&sn=7083be943ba9a092685ebf5cbeb98ad4&chksm=ce45d805f932511343b94f42787c985e42ba7f5534b0374493bf48546c421c99a24bfe30c3d7#rd)  
 - [2025-03-18-45K*16薪，进字节了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503216&idx=1&sn=13cea677d7a57abba854e71e0cdf839b&chksm=ce45d8e1f93251f7f8b3fee9e9c956c236abf5f899ac04fbac66141eaafaa09460d0ed284e00#rd)  
-- [2025-03-17-周下载-400w，这个前端神库真是热门又冷门！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503189&idx=1&sn=0e20dcb4af70ab77d471836d79a033ed&chksm=ce45d8c4f93251d2ad8c0c26f48506236a8239dd69136126576f32d2cdeb76b944883c3ee084#rd)  
-- [2025-03-16-公司领导：不会用-AI-的程序员都应该开除！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503186&idx=1&sn=61f9848b60176b7b275839bafa2d2aee&chksm=ce45d8c3f93251d5c9dfae859cb6cb63f94e2a7d73bfaedb7e9bb5966a381758cead389e84df#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
