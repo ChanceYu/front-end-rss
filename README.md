@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-08 02:14:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-08 04:12:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,13 +23,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-04-07-Vue3-的-watch，你们都手动清除过吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503627&idx=1&sn=ac86bfc8c6af8e2fa367f15a7124d3bf&chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd) ![](/assets/new.png)  
+- [2025-04-07-Vue3-的-watch，你们都手动清除过吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503627&idx=1&sn=ac86bfc8c6af8e2fa367f15a7124d3bf&chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd)  
 - [2025-04-06-不要再傻傻使用-requestAnimationFrame-啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503626&idx=1&sn=a2b936ff293a9c03eae73e4a350c3024&chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd)  
 - [2025-04-05-我的一位前端朋友，他是如何解决35岁开发困境的](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503613&idx=1&sn=f45fe98c4792e8e8e09bded4a2f0e6bf&chksm=ce45db6cf932527ad5ed3e4b2516e672d0c63b3da05433036d7403e5b5014c9dcfbaaa4c6b02#rd)  
 - [2025-04-04-前端神库！让你能在-Nodejs-里操作浏览器玩出花样！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503545&idx=1&sn=5df67b41ad7f5c2a2512502cb1867747&chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd)  
@@ -388,16 +388,18 @@
 </summary>
 
 
-- [2025-04-03-如何检查一个对象是否是-Proxy？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=2&sn=8ef79be84b629eaa9a6c4086d0110c66&chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd)  
+- [2025-04-07-Figma-MCP-Server-介绍：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd) ![](/assets/new.png)  
+- [2025-04-07-错怪react的半年-聊聊keepalive](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=2&sn=3030a82d69091057de6ac470f5ae0131&chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd) ![](/assets/new.png)  
 - [2025-04-03-TypeScript-也能开发AI应用了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=1&sn=18da91de56596a3b2b3a3d151562b333&chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd)  
-- [2025-04-02-提效实战！如何用Claude-3.7-实现设计+开发一体化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525856&idx=2&sn=12a47bbea352120b7e4f16298342dd9a&chksm=f9926331cee5ea27ff80b31bb4b06b3c4816b429809ee318a5128478a90d93e72f1b86738220#rd)  
+- [2025-04-03-如何检查一个对象是否是-Proxy？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=2&sn=8ef79be84b629eaa9a6c4086d0110c66&chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd)  
 - [2025-04-02-“内聚编程”的兴起——复制粘贴或许是前端的未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525856&idx=1&sn=b3d7facd1800f5b67f286c2176a54747&chksm=f9926331cee5ea270bb3bb9aea4f9acdb3190c57bd8ae6d829834fa06e95be41682769183550#rd)  
-- [2025-04-01-实测国产Agent，会沉思真干活儿的AI，免费不限量附使用教程](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502086&idx=1&sn=8f8f59b0c6e8f6caf96a0ef58f55df5b&chksm=c2b308f9f5c481ef1d907cb87c209d45726eeac6ad9fd47225f161c6510622f386c90069005b#rd)  
-- [2025-04-01-Midscene-x-UI-TARS，UI-自动化的开源模型方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525847&idx=2&sn=b4880a561098d049e9d0c4ed2757195f&chksm=f9926306cee5ea1099db33a471d6db98f480ef82811f20ace98b5d4fed029407cc92d6ff0b93#rd)  
+- [2025-04-02-提效实战！如何用Claude-3.7-实现设计+开发一体化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525856&idx=2&sn=12a47bbea352120b7e4f16298342dd9a&chksm=f9926331cee5ea27ff80b31bb4b06b3c4816b429809ee318a5128478a90d93e72f1b86738220#rd)  
 - [2025-04-01-深入解密Node共享内存：这个原生模块让你的多进程应用性能翻倍](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525847&idx=1&sn=741860f36bacc4010cb0fecc7974691e&chksm=f9926306cee5ea10fe0b43f46b3da03b0f547050f84f8e3847e2c1a2355b9423c5a719eadf8c#rd)  
-- [2025-03-31-不止吉卜力，GPT-4o新玩法看这一篇就够了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502053&idx=1&sn=b3c9f047841f32741d4d95f414832a96&chksm=c2b3091af5c4800cdff0e95d74cefca79a569e1b5569ba2f374778295aa614eb319ce47dbfb3#rd)  
-- [2025-03-31-微前端的实践总结](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525809&idx=2&sn=a74ab966aeb0ed1c8b8f37ead5c74dfc&chksm=f9926360cee5ea76225d91363e71b4369f440be90f30affeb556615c0b2002bc477983a311af#rd)  
+- [2025-04-01-Midscene-x-UI-TARS，UI-自动化的开源模型方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525847&idx=2&sn=b4880a561098d049e9d0c4ed2757195f&chksm=f9926306cee5ea1099db33a471d6db98f480ef82811f20ace98b5d4fed029407cc92d6ff0b93#rd)  
+- [2025-04-01-实测国产Agent，会沉思真干活儿的AI，免费不限量附使用教程](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502086&idx=1&sn=8f8f59b0c6e8f6caf96a0ef58f55df5b&chksm=c2b308f9f5c481ef1d907cb87c209d45726eeac6ad9fd47225f161c6510622f386c90069005b#rd)  
 - [2025-03-31-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525809&idx=1&sn=b39292d02c88025f006d511ce009a487&chksm=f9926360cee5ea76c64a29f11f3ac0679f9d6ae6676abeb845100bd0c587d742615724b431df#rd)  
+- [2025-03-31-微前端的实践总结](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525809&idx=2&sn=a74ab966aeb0ed1c8b8f37ead5c74dfc&chksm=f9926360cee5ea76225d91363e71b4369f440be90f30affeb556615c0b2002bc477983a311af#rd)  
+- [2025-03-31-不止吉卜力，GPT-4o新玩法看这一篇就够了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502053&idx=1&sn=b3c9f047841f32741d4d95f414832a96&chksm=c2b3091af5c4800cdff0e95d74cefca79a569e1b5569ba2f374778295aa614eb319ce47dbfb3#rd)  
 - [2025-03-28-阿里QVQ-Max能看图看视频，把我看傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502008&idx=1&sn=061385f054bf27f161c491d632e36b57&chksm=c2b30947f5c48051b3512eeaeb5d1778c35faec0988fcfdc243201cf9df575f0612303d1bb3b#rd)  
 - [2025-03-27-GPT-4o生图20种玩法实测，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501984&idx=1&sn=5dbd396e2a9be505b268390ee4cee338&chksm=c2b3095ff5c480493e1f39dad2b4a29e317f1919b6427d1210f45cd9d6fde3179a06c81c9878#rd)  
 - [2025-03-26-DeepSeek全新玩法合集，90%的人还不知道建议收藏](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501946&idx=1&sn=6cfc4275c0f250f11ec938f0154f53a2&chksm=c2b30985f5c4809362171179709fcdeeb02e2d90ce5dddbfd49ccf81d733140d9debc2149546#rd)  
@@ -406,8 +408,6 @@
 - [2025-03-20-Claude用不了？这个方法一键把文字转成网页](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501892&idx=1&sn=d169c76d477128aee8839e66f4f02cf6&chksm=c2b309bbf5c480ad3bfba87a8345baa30eb73c580774e9810088bcee47cd12d3995577fe19ca#rd)  
 - [2025-03-18-一张图一句话，即梦最强数字人实测](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501870&idx=1&sn=ef85eaf754daa3addd8e61245a66f2a9&chksm=c2b309d1f5c480c7380a5c2deefb9ecbe39599a5c23047a3381bd7842f0cc27da0c331c09899#rd)  
 - [2025-03-16-GPT-4.5实测，80%的人都严重低估它了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501834&idx=1&sn=97de7a7fd30fb55d5c71344c25a69ef6&chksm=c2b309f5f5c480e3a540ea44f3b390bbc73de1a6a3fc2563249c0f438b60d6620e42e6f231e4#rd)  
-- [2025-03-15-关于生财和破局，有必要站出来说点什么](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501811&idx=1&sn=0ba1cbdc4e13562393964477f474171a&chksm=c2b3060cf5c48f1aca8dbde8fe10265dd50a48d1d542abed034e60d63d8c46ded3ef78cf4404#rd)  
-- [2025-03-14-Gemini-2.0文生图实测，说话改图，真降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247501802&idx=1&sn=34ea5c94a3fdf7073f62bac2ac434538&chksm=c2b30615f5c48f0340fe7b943b13fbb69beda0849499c380e44636bae9a4bd325bce16bdff08#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

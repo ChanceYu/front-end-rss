@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-07T18:14:27.900Z</updated>
+    <updated>2025-04-07T20:12:00.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[错怪react的半年-聊聊keepalive]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525879&amp;idx=2&amp;sn=3030a82d69091057de6ac470f5ae0131&amp;chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525879&amp;idx=2&amp;sn=3030a82d69091057de6ac470f5ae0131&amp;chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <published>2025-04-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Figma MCP Server 介绍：专为 AI 编码工具设计的服务器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525879&amp;idx=1&amp;sn=477a2528bfa8ba5700a1cfe3b1b7c080&amp;chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525879&amp;idx=1&amp;sn=477a2528bfa8ba5700a1cfe3b1b7c080&amp;chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <published>2025-04-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 的 watch，你们都手动清除过吗？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503627&amp;idx=1&amp;sn=ac86bfc8c6af8e2fa367f15a7124d3bf&amp;chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd</id>
@@ -50,16 +64,16 @@
         <published>2025-04-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 也能开发AI应用了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd"/>
+        <title type="html"><![CDATA[如何检查一个对象是否是 Proxy？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd"/>
         <updated>2025-04-03T00:00:00.000Z</updated>
         <published>2025-04-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何检查一个对象是否是 Proxy？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd"/>
+        <title type="html"><![CDATA[TypeScript 也能开发AI应用了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd"/>
         <updated>2025-04-03T00:00:00.000Z</updated>
         <published>2025-04-03T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503266&amp;idx=1&amp;sn=7c7de67e2c670f1286734a2fadc70ea2&amp;chksm=ce45d833f9325125d0975e98330934aaf52c67cddbc30d6fd48a8f14b11e882a0fa8d6d790f5#rd"/>
         <updated>2025-03-23T00:00:00.000Z</updated>
         <published>2025-03-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite成为首个接入AI的构建工具，前端开发效率提升200%！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525721&amp;idx=1&amp;sn=54181898dfe420d10cb5358745869982&amp;chksm=f9926388cee5ea9e30d5605d5732c503009ecbf0cc97b25d4b1eb62ca9c46bcb0f2c46610812#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525721&amp;idx=1&amp;sn=54181898dfe420d10cb5358745869982&amp;chksm=f9926388cee5ea9e30d5605d5732c503009ecbf0cc97b25d4b1eb62ca9c46bcb0f2c46610812#rd"/>
-        <updated>2025-03-22T00:00:00.000Z</updated>
-        <published>2025-03-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 官方宣布弃用 Enum？Enum 何罪之有？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525715&amp;idx=2&amp;sn=3b6c1d4302c81561cab2bd34d7b3b911&amp;chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525715&amp;idx=2&amp;sn=3b6c1d4302c81561cab2bd34d7b3b911&amp;chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd"/>
-        <updated>2025-03-21T00:00:00.000Z</updated>
-        <published>2025-03-21T00:00:00.000Z</published>
     </entry>
 </feed>
