@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-06T14:08:53.001Z</updated>
+    <updated>2025-04-07T18:14:27.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 的 watch，你们都手动清除过吗？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503627&amp;idx=1&amp;sn=ac86bfc8c6af8e2fa367f15a7124d3bf&amp;chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503627&amp;idx=1&amp;sn=ac86bfc8c6af8e2fa367f15a7124d3bf&amp;chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <published>2025-04-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS EditContext API 简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[TypeScript 官方宣布弃用 Enum？Enum 何罪之有？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525715&amp;idx=2&amp;sn=3b6c1d4302c81561cab2bd34d7b3b911&amp;chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525715&amp;idx=2&amp;sn=3b6c1d4302c81561cab2bd34d7b3b911&amp;chksm=f9926382cee5ea942be3e3f86a79aed7a892105dcc7cfa8a511023a50a9cc4815590b053504f#rd"/>
-        <updated>2025-03-21T00:00:00.000Z</updated>
-        <published>2025-03-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitest3.0 的发布，能让你成为更高级别的前端工程师！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503262&amp;idx=1&amp;sn=0da0e47a3a18258a83912f47475085e7&amp;chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503262&amp;idx=1&amp;sn=0da0e47a3a18258a83912f47475085e7&amp;chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd"/>
         <updated>2025-03-21T00:00:00.000Z</updated>
         <published>2025-03-21T00:00:00.000Z</published>
     </entry>

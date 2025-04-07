@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-06 22:08:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-08 02:14:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-04-07-Vue3-的-watch，你们都手动清除过吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503627&idx=1&sn=ac86bfc8c6af8e2fa367f15a7124d3bf&chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd) ![](/assets/new.png)  
 - [2025-04-06-不要再傻傻使用-requestAnimationFrame-啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503626&idx=1&sn=a2b936ff293a9c03eae73e4a350c3024&chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd)  
 - [2025-04-05-我的一位前端朋友，他是如何解决35岁开发困境的](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503613&idx=1&sn=f45fe98c4792e8e8e09bded4a2f0e6bf&chksm=ce45db6cf932527ad5ed3e4b2516e672d0c63b3da05433036d7403e5b5014c9dcfbaaa4c6b02#rd)  
 - [2025-04-04-前端神库！让你能在-Nodejs-里操作浏览器玩出花样！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503545&idx=1&sn=5df67b41ad7f5c2a2512502cb1867747&chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd)  
@@ -221,7 +222,6 @@
 - [2025-03-21-Vitest3.0-的发布，能让你成为更高级别的前端工程师！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503262&idx=1&sn=0da0e47a3a18258a83912f47475085e7&chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd)  
 - [2025-03-20-金三银四准备跳槽的兄弟注意了，不能错过！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503261&idx=1&sn=9930a49aeb5f7e60e06bdf416f074047&chksm=ce45d80cf932511a8eaa35ddfa48d8398b7b546db2a56e661de2615ff53e9acc44ae3e3a9c19#rd)  
 - [2025-03-19-前端校验届的超新星，已被各大知名项目采用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503252&idx=1&sn=7083be943ba9a092685ebf5cbeb98ad4&chksm=ce45d805f932511343b94f42787c985e42ba7f5534b0374493bf48546c421c99a24bfe30c3d7#rd)  
-- [2025-03-18-45K*16薪，进字节了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503216&idx=1&sn=13cea677d7a57abba854e71e0cdf839b&chksm=ce45d8e1f93251f7f8b3fee9e9c956c236abf5f899ac04fbac66141eaafaa09460d0ed284e00#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/) ![](/assets/new.png)  
+- [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
 - [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
 - [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
