@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-09 00:13:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-10 06:10:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573) ![](/assets/new.png)  
+- [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-04-09-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503642&idx=1&sn=6e912514a44f1e7ed6df6216e47af861&chksm=ce45da8bf932539d6490f1a9383303639de26420572c0a390083572ba4935645190e448aea9f#rd) ![](/assets/new.png)  
+- [2025-04-08-前端时间管理大师！！！在项目中我是怎么操控时间的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503632&idx=1&sn=4e96188ef256c73bf811489102811483&chksm=ce45da81f93253975e8f5157c774e2004182817ee46fcebc71fb2040d58bdb858c55ff741165#rd) ![](/assets/new.png)  
 - [2025-04-07-Vue3-的-watch，你们都手动清除过吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503627&idx=1&sn=ac86bfc8c6af8e2fa367f15a7124d3bf&chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd)  
 - [2025-04-06-不要再傻傻使用-requestAnimationFrame-啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503626&idx=1&sn=a2b936ff293a9c03eae73e4a350c3024&chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd)  
 - [2025-04-05-我的一位前端朋友，他是如何解决35岁开发困境的](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503613&idx=1&sn=f45fe98c4792e8e8e09bded4a2f0e6bf&chksm=ce45db6cf932527ad5ed3e4b2516e672d0c63b3da05433036d7403e5b5014c9dcfbaaa4c6b02#rd)  
@@ -220,8 +222,6 @@
 - [2025-03-23-WebWorker-正在悄悄改变整个前端的格局](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503266&idx=1&sn=7c7de67e2c670f1286734a2fadc70ea2&chksm=ce45d833f9325125d0975e98330934aaf52c67cddbc30d6fd48a8f14b11e882a0fa8d6d790f5#rd)  
 - [2025-03-22-Axios-原来自带了生成-mock-数据的功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503265&idx=1&sn=45c791e4a344b6f641d0b7d155402a77&chksm=ce45d830f9325126398b8d83ffea6fb2e6fd8106b4b0f9dffc453b9607558f538ee0653df00f#rd)  
 - [2025-03-21-Vitest3.0-的发布，能让你成为更高级别的前端工程师！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503262&idx=1&sn=0da0e47a3a18258a83912f47475085e7&chksm=ce45d80ff9325119daf048e46b5573d825818e2c69bfadede80d42822e9f87d864deaf60d128#rd)  
-- [2025-03-20-金三银四准备跳槽的兄弟注意了，不能错过！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503261&idx=1&sn=9930a49aeb5f7e60e06bdf416f074047&chksm=ce45d80cf932511a8eaa35ddfa48d8398b7b546db2a56e661de2615ff53e9acc44ae3e3a9c19#rd)  
-- [2025-03-19-前端校验届的超新星，已被各大知名项目采用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503252&idx=1&sn=7083be943ba9a092685ebf5cbeb98ad4&chksm=ce45d805f932511343b94f42787c985e42ba7f5534b0374493bf48546c421c99a24bfe30c3d7#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
