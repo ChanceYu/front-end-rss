@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-09T22:10:36.153Z</updated>
+    <updated>2025-04-10T02:57:43.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3487期】在选择 Next.js 之前，应该了解这一点]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276145&amp;idx=1&amp;sn=af0a15974c655a5c5a9e2bbcb3d7e081&amp;chksm=bc3e6e6de5bcdc73d6d6e86516c252578e38e4ba38166822a8da824a081e9e6dc3bc4c7bae68&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276145&amp;idx=1&amp;sn=af0a15974c655a5c5a9e2bbcb3d7e081&amp;chksm=bc3e6e6de5bcdc73d6d6e86516c252578e38e4ba38166822a8da824a081e9e6dc3bc4c7bae68&amp;scene=0#rd"/>
+        <updated>2025-04-10T00:00:00.000Z</updated>
+        <published>2025-04-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[错怪react的半年-聊聊keepalive]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525879&amp;idx=2&amp;sn=3030a82d69091057de6ac470f5ae0131&amp;chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276062&amp;idx=1&amp;sn=3587469f07550ed878101b65b85c6ef1&amp;chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&amp;scene=0#rd"/>
         <updated>2025-03-24T00:00:00.000Z</updated>
         <published>2025-03-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究下attachInternals方法，可让普通元素有表单特性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/"/>
-        <updated>2025-03-23T00:00:00.000Z</updated>
-        <published>2025-03-23T00:00:00.000Z</published>
     </entry>
 </feed>
