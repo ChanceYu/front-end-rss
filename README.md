@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-11 20:18:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-11 22:10:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731) ![](/assets/new.png)  
 - [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
 - [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729)  
 - [2025-03-21-The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)  
@@ -97,7 +98,6 @@
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
 - [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
 - [2024-11-07-JSConf-is-back](https://javascriptweekly.com/issues/712)  
-- [2024-10-31-Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -636,7 +636,7 @@
 </summary>
 
 
-- [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/) ![](/assets/new.png)  
+- [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  

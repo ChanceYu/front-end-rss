@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-11T12:18:32.751Z</updated>
+    <updated>2025-04-11T14:10:58.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Comparing Tauri and Electron]]></title>
+        <id>https://javascriptweekly.com/issues/731</id>
+        <link href="https://javascriptweekly.com/issues/731"/>
+        <updated>2025-04-11T00:00:00.000Z</updated>
+        <published>2025-04-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3487期】在选择 Next.js 之前，应该了解这一点]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276145&amp;idx=1&amp;sn=af0a15974c655a5c5a9e2bbcb3d7e081&amp;chksm=bc3e6e6de5bcdc73d6d6e86516c252578e38e4ba38166822a8da824a081e9e6dc3bc4c7bae68&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[来了！JavaScript 最强大的 8 个 DOM API]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503306&amp;idx=1&amp;sn=1ee97896ef26894e9fe3d4fc0b9b24b0&amp;chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503306&amp;idx=1&amp;sn=1ee97896ef26894e9fe3d4fc0b9b24b0&amp;chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd"/>
-        <updated>2025-03-24T00:00:00.000Z</updated>
-        <published>2025-03-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入解析前端插件机制：以埋点SDK与Webpack为例]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=2&amp;sn=d274f9bd24311687e4130c9fe4ee1dec&amp;chksm=80225c91b755d587779145afee8556d2cbcccee4cdfa13180c5c98958b9bbacbde80f47c935d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622224&amp;idx=2&amp;sn=d274f9bd24311687e4130c9fe4ee1dec&amp;chksm=80225c91b755d587779145afee8556d2cbcccee4cdfa13180c5c98958b9bbacbde80f47c935d#rd"/>
         <updated>2025-03-24T00:00:00.000Z</updated>
         <published>2025-03-24T00:00:00.000Z</published>
     </entry>
