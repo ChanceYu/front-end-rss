@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-11T14:10:58.685Z</updated>
+    <updated>2025-04-13T04:44:41.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="https://javascriptweekly.com/issues/731"/>
         <updated>2025-04-11T00:00:00.000Z</updated>
         <published>2025-04-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最新Vue3面试题总结，注意查收！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503647&amp;idx=1&amp;sn=b28e32676601164ea09aa02a8db55688&amp;chksm=ce45da8ef932539889d76589f7e69650f05a25405008baf5b9e27bba0149fb0ba3a6fbf6a873#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503647&amp;idx=1&amp;sn=b28e32676601164ea09aa02a8db55688&amp;chksm=ce45da8ef932539889d76589f7e69650f05a25405008baf5b9e27bba0149fb0ba3a6fbf6a873#rd"/>
+        <updated>2025-04-10T00:00:00.000Z</updated>
+        <published>2025-04-10T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3487期】在选择 Next.js 之前，应该了解这一点]]></title>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/571"/>
         <updated>2025-03-25T00:00:00.000Z</updated>
         <published>2025-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来了！JavaScript 最强大的 8 个 DOM API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503306&amp;idx=1&amp;sn=1ee97896ef26894e9fe3d4fc0b9b24b0&amp;chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503306&amp;idx=1&amp;sn=1ee97896ef26894e9fe3d4fc0b9b24b0&amp;chksm=ce45d85bf932514dcaac799a30227a5d04e59ea445dd992ee8e490dec81412b1bb8b4f5fecc9#rd"/>
-        <updated>2025-03-24T00:00:00.000Z</updated>
-        <published>2025-03-24T00:00:00.000Z</published>
     </entry>
 </feed>
