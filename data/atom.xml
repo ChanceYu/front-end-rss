@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-14T04:13:41.163Z</updated>
+    <updated>2025-04-14T14:11:31.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <published>2025-04-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Tauri and Electron]]></title>
         <id>https://javascriptweekly.com/issues/731</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3478期】CSS view()：JavaScript 滚动动画的终结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276071&amp;idx=1&amp;sn=23b4287b65868ee4689b56a4a6292f9a&amp;chksm=bce925119cac0bd9484950a4362a916b2add4f38d36d7f50f469b39db6c4a2487f06f7eeaf31&amp;scene=0#rd"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <published>2025-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node gets the URLPattern API]]></title>
-        <id>https://nodeweekly.com/issues/571</id>
-        <link href="https://nodeweekly.com/issues/571"/>
         <updated>2025-03-25T00:00:00.000Z</updated>
         <published>2025-03-25T00:00:00.000Z</published>
     </entry>

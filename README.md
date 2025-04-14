@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-14 12:13:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-14 22:11:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-04-14-【第3489期】使用-text-wrap:-pretty-提升网页排版品质](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276199&idx=1&sn=99653aac38969698897f578f454eb3e8&chksm=bc2f80108f32be3e54302ec21b16a2378e8c043cb32bdfe99ef9eee966b53b8ec3f37270c1e5&scene=0#rd) ![](/assets/new.png)  
-- [2025-04-14-【招聘】字节跳动-剪映-CapCut-增长研发团队：前端开发实习生招募令，速来！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276199&idx=2&sn=fec05d3e16b00f71ee71ac3c453dcc1b&chksm=bc7b2e12eec86ef1197ab834f5b5ada21df44b8b40568ff767ec312ec90b02d4f3909537289b&scene=0#rd) ![](/assets/new.png)  
+- [2025-04-14-【第3489期】使用-text-wrap:-pretty-提升网页排版品质](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276199&idx=1&sn=99653aac38969698897f578f454eb3e8&chksm=bc2f80108f32be3e54302ec21b16a2378e8c043cb32bdfe99ef9eee966b53b8ec3f37270c1e5&scene=0#rd)  
+- [2025-04-14-【招聘】字节跳动-剪映-CapCut-增长研发团队：前端开发实习生招募令，速来！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276199&idx=2&sn=fec05d3e16b00f71ee71ac3c453dcc1b&chksm=bc7b2e12eec86ef1197ab834f5b5ada21df44b8b40568ff767ec312ec90b02d4f3909537289b&scene=0#rd)  
 - [2025-04-11-如何成为AI时代的合格前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276172&idx=2&sn=bc2cbc9877271d1777fd2104876d7495&chksm=bc9c89adb6e7c450d5e961d21a9924ec7b25c8a3a926c5726cb580ff050bdd93afe4b56ae7a7&scene=0#rd)  
 - [2025-04-11-【第3488期】AI-agents-如何悄然改变前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276172&idx=1&sn=19dd9870597d771cd2d4d0c39c2c0707&chksm=bc00ac93d306b7bcda51f1f558b564ec32a6912c250cdbe7001924517783f093864147e22452&scene=0#rd)  
 - [2025-04-10-【第3487期】在选择-Next.js-之前，应该了解这一点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276145&idx=1&sn=af0a15974c655a5c5a9e2bbcb3d7e081&chksm=bc3e6e6de5bcdc73d6d6e86516c252578e38e4ba38166822a8da824a081e9e6dc3bc4c7bae68&scene=0#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/) ![](/assets/new.png)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
 - [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
@@ -531,7 +532,6 @@
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
-- [2024-11-29-CSS好用的color-mix颜色函数也可以使用啦](https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
