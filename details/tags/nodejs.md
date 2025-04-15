@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-15 12:13:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-16 00:11:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574) 
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572) 
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571) 
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570) 
