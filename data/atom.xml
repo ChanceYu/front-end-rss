@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-15T18:12:54.620Z</updated>
+    <updated>2025-04-17T18:14:25.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3491期】用分层结构扩展你的 React 项目]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd"/>
+        <updated>2025-04-16T00:00:00.000Z</updated>
+        <published>2025-04-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another way to package Node apps into small executables]]></title>
         <id>https://nodeweekly.com/issues/574</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端异常隔离：Proxy、Web Workers 与 iframe 的深度对比]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=2&amp;sn=58d977b788a2569cecd7525f6f10d4e4&amp;chksm=80225ca0b755d5b6f154a7e4ff55388be8f9d30fcc4f7fa359e0bfb92e4b0c50f426c8133b0d#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=2&amp;sn=58d977b788a2569cecd7525f6f10d4e4&amp;chksm=80225ca0b755d5b6f154a7e4ff55388be8f9d30fcc4f7fa359e0bfb92e4b0c50f426c8133b0d#rd"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <published>2025-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 官方宣布弃用 Enum？Enum 何罪之有？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=1&amp;sn=23d200ca2c1a9f04d6d78945eeee898f&amp;chksm=80225ca0b755d5b634afdc1ca04ba6505b7742ecff9d317ae6f1765952e4a4a2d1b4964d397e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=1&amp;sn=23d200ca2c1a9f04d6d78945eeee898f&amp;chksm=80225ca0b755d5b634afdc1ca04ba6505b7742ecff9d317ae6f1765952e4a4a2d1b4964d397e#rd"/>
         <updated>2025-03-25T00:00:00.000Z</updated>
         <published>2025-03-25T00:00:00.000Z</published>
     </entry>
