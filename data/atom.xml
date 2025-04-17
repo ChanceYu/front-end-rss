@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-17T18:14:25.840Z</updated>
+    <updated>2025-04-17T20:12:59.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[接私活神器！分享 8 个 丰富的 Nextjs 模板网站]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503794&amp;idx=1&amp;sn=30ef19ab5a97c186ad8919e26144316f&amp;chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503794&amp;idx=1&amp;sn=30ef19ab5a97c186ad8919e26144316f&amp;chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd"/>
+        <updated>2025-04-16T00:00:00.000Z</updated>
+        <published>2025-04-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3491期】用分层结构扩展你的 React 项目]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd"/>
         <updated>2025-04-16T00:00:00.000Z</updated>
         <published>2025-04-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我重构了 23k star超火项目 的请求，因为写的太烂！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503681&amp;idx=1&amp;sn=c9d0a5122dd45e2f2f8f0138ff614674&amp;chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503681&amp;idx=1&amp;sn=c9d0a5122dd45e2f2f8f0138ff614674&amp;chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd"/>
+        <updated>2025-04-15T00:00:00.000Z</updated>
+        <published>2025-04-15T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Another way to package Node apps into small executables]]></title>
@@ -32,6 +46,20 @@
         <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <published>2025-04-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于AIGC技术的营销短视频生产方案及业务实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539666&amp;idx=1&amp;sn=f879957adb247796f6dd5861ed075637&amp;chksm=8390ce8ab4e7479cc4b6424eca6c784018aba7542b33b5b6258d24e7c33fe31d0203d3059c0c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539666&amp;idx=1&amp;sn=f879957adb247796f6dd5861ed075637&amp;chksm=8390ce8ab4e7479cc4b6424eca6c784018aba7542b33b5b6258d24e7c33fe31d0203d3059c0c#rd"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <published>2025-04-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503667&amp;idx=1&amp;sn=65a18d172c37b4ed94a04e73843cdd1d&amp;chksm=ce45daa2f93253b4cc6fa1601edfb75d66373498bec07f437bd1ebdb58428bc37015aef8eaa6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503667&amp;idx=1&amp;sn=65a18d172c37b4ed94a04e73843cdd1d&amp;chksm=ce45daa2f93253b4cc6fa1601edfb75d66373498bec07f437bd1ebdb58428bc37015aef8eaa6#rd"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
         <published>2025-04-14T00:00:00.000Z</published>
     </entry>
@@ -69,6 +97,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525922&amp;idx=1&amp;sn=4614260a9af244d83ef1ddd72e488c42&amp;chksm=f99260f3cee5e9e526fe6cad3dfdd29ef9db334954bb7263256f6e880d24abd43bafd3039e29#rd"/>
         <updated>2025-04-09T00:00:00.000Z</updated>
         <published>2025-04-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Flow-matching的扩散模型原理解读]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539507&amp;idx=1&amp;sn=1650db468e2d794a85b1012df6628490&amp;chksm=8390cdebb4e744fd07635a234612abc3b0c1f6400837022f75e1e9dee2fdce276551a87cc62d#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539507&amp;idx=1&amp;sn=1650db468e2d794a85b1012df6628490&amp;chksm=8390cdebb4e744fd07635a234612abc3b0c1f6400837022f75e1e9dee2fdce276551a87cc62d#rd"/>
+        <updated>2025-04-07T00:00:00.000Z</updated>
+        <published>2025-04-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[错怪react的半年-聊聊keepalive]]></title>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525759&amp;idx=1&amp;sn=2e11d1e97d4e89b14edbee910f176949&amp;chksm=f99263aecee5eab8c2167a8763ca32bffde1102ef53c07f1cef75df342b8f032fc42ea72773a#rd"/>
         <updated>2025-03-26T00:00:00.000Z</updated>
         <published>2025-03-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端录屏 + 定位源码，帮你快速定位线上 bug]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525759&amp;idx=2&amp;sn=ee140cbea33dbbe40b782dac95ba1114&amp;chksm=f99263aecee5eab83f41aa79330d763b8edbf8d0f7e135a07c4369dcc077885ff6c53ab2e429#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525759&amp;idx=2&amp;sn=ee140cbea33dbbe40b782dac95ba1114&amp;chksm=f99263aecee5eab83f41aa79330d763b8edbf8d0f7e135a07c4369dcc077885ff6c53ab2e429#rd"/>
-        <updated>2025-03-26T00:00:00.000Z</updated>
-        <published>2025-03-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来了！JavaScript 最强大的 8 个 DOM API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517138&amp;idx=1&amp;sn=b20d8214ad037fef0a87b0dae35890b8&amp;chksm=eb07bbabdc7032bd20f5c3f6bc883e0bc0447e0f39b11ac6449da287406dc5c1dd39adc10e1b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517138&amp;idx=1&amp;sn=b20d8214ad037fef0a87b0dae35890b8&amp;chksm=eb07bbabdc7032bd20f5c3f6bc883e0bc0447e0f39b11ac6449da287406dc5c1dd39adc10e1b#rd"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <published>2025-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试题：浏览器两个 tab 都是同域，如何在一个tab 向另一个 tab 发消息]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525742&amp;idx=2&amp;sn=b2fbf845e940b63aff7144991eab4ad5&amp;chksm=f99263bfcee5eaa972daa15d3578da26546a5a61a26b57aaff5a82113bc28cc484e3f5e69e9b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525742&amp;idx=2&amp;sn=b2fbf845e940b63aff7144991eab4ad5&amp;chksm=f99263bfcee5eaa972daa15d3578da26546a5a61a26b57aaff5a82113bc28cc484e3f5e69e9b#rd"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <published>2025-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS逆向之快速定位关键参数通用hook脚本]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525742&amp;idx=1&amp;sn=56f58e5ee45d315877ee7ed3c8b610d9&amp;chksm=f99263bfcee5eaa9cabcdecfb6fbc3f522ed2f4546d7d0cfbdb1bfc81598573141f5491e8503#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525742&amp;idx=1&amp;sn=56f58e5ee45d315877ee7ed3c8b610d9&amp;chksm=f99263bfcee5eaa9cabcdecfb6fbc3f522ed2f4546d7d0cfbdb1bfc81598573141f5491e8503#rd"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <published>2025-03-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端异常隔离：Proxy、Web Workers 与 iframe 的深度对比]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=2&amp;sn=58d977b788a2569cecd7525f6f10d4e4&amp;chksm=80225ca0b755d5b6f154a7e4ff55388be8f9d30fcc4f7fa359e0bfb92e4b0c50f426c8133b0d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622241&amp;idx=2&amp;sn=58d977b788a2569cecd7525f6f10d4e4&amp;chksm=80225ca0b755d5b6f154a7e4ff55388be8f9d30fcc4f7fa359e0bfb92e4b0c50f426c8133b0d#rd"/>
-        <updated>2025-03-25T00:00:00.000Z</updated>
-        <published>2025-03-25T00:00:00.000Z</published>
     </entry>
 </feed>

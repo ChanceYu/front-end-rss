@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-18 02:14:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-18 04:12:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -400,6 +400,7 @@
 - [2018-11-18-Webkit推出新的着色语言whlsl](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489907&idx=1&sn=98a43483a29f6a68247aaf52f47dce15#wechat_redirect) 
 - [2018-11-16-图解浏览器的工作原理（史上最全）](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489897&idx=1&sn=6163c1ff142de866455e6c555b002dee#wechat_redirect) 
 - [2018-10-14-浏览器页面渲染机制，你真的弄懂了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489674&idx=1&sn=7a73f9398be8024bebb6467e730c4d3b#wechat_redirect) 
+- [2025-04-15-我重构了-23k-star超火项目-的请求，因为写的太烂！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503681&idx=1&sn=c9d0a5122dd45e2f2f8f0138ff614674&chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd) 
 - [2025-02-04-在前端中，如何左加密工作保障用户的信息安全](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502350&idx=1&sn=3d88dae8ed6b70d9a4ac4cdee9419055&chksm=ce45df9ff93256893bca9f1df8f1d7242d4d9d85e2ce80f7b23eecef0a879554e3fdd6279ba8#rd) 
 - [2025-01-23-前端的响应从未如此简单！渲染视图的写法也发生大变化！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502264&idx=1&sn=0a5bc696d1902382e95c5e44e478e03b&chksm=ce45dc29f932553f12d461bb01700cc2951090d052a09a27a43286ecfca21783b310c0c1820f#rd) 
 - [2023-09-06-我面试最喜欢问的开放题：如何严谨二次封装-localStorage？](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247490246&idx=1&sn=29661b8c8ddebe163ccbb1f469d5592e&chksm=ce460f57f9318641f5dc690e59e414cd5aebc2697c7255bbc781ad038693a2710bcfedc201c6#rd) 
