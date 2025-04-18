@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-18T16:12:36.475Z</updated>
+    <updated>2025-04-18T18:13:56.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Nestjs 项目中，这 9 个装饰器是必不可少的！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503802&amp;idx=1&amp;sn=955eb3883094cebff159640ac71f98fa&amp;chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503802&amp;idx=1&amp;sn=955eb3883094cebff159640ac71f98fa&amp;chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd"/>
+        <updated>2025-04-18T00:00:00.000Z</updated>
+        <published>2025-04-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3493期】{transitions} = f(state)]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276239&amp;idx=1&amp;sn=7ee11120c428a4ddc5a365eee0cc67ea&amp;chksm=bcf00982e70ce0dc26e3e794fa9583134dfa0ff8e2200d895b54636831124b989f082ccaf266&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276239&amp;idx=1&amp;sn=7ee11120c428a4ddc5a365eee0cc67ea&amp;chksm=bcf00982e70ce0dc26e3e794fa9583134dfa0ff8e2200d895b54636831124b989f082ccaf266&amp;scene=0#rd"/>
+        <updated>2025-04-18T00:00:00.000Z</updated>
+        <published>2025-04-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503801&amp;idx=1&amp;sn=54496b6e97401380528edf3fdd817715&amp;chksm=ce45da28f932533ead63837afd5b69f3c376331c8830cfbbface927f8ad5cd903d08703f390b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503801&amp;idx=1&amp;sn=54496b6e97401380528edf3fdd817715&amp;chksm=ce45da28f932533ead63837afd5b69f3c376331c8830cfbbface927f8ad5cd903d08703f390b#rd"/>
+        <updated>2025-04-17T00:00:00.000Z</updated>
+        <published>2025-04-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525928&amp;idx=1&amp;sn=3c623982cae25c3f0ecc711437910537&amp;chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd</id>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276100&amp;idx=1&amp;sn=8542ed8e1899def5c6b8af9811d612f0&amp;chksm=bcd3f8f0e475c59eb59bd231e92f87c0b882a5bddd54e3111ebfb265f0e6a7e2933b29ccaae4&amp;scene=0#rd"/>
         <updated>2025-03-28T00:00:00.000Z</updated>
         <published>2025-03-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【从0到1】教你写个最新ESLint 9插件]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525775&amp;idx=2&amp;sn=4a0a59fd5f38b2681ebc9415dfb4b947&amp;chksm=f992635ecee5ea4845d91ef32de7a4b050b662b51ca1b9a1a2e8a07aa63cc7bd1e82a4c08f3f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525775&amp;idx=2&amp;sn=4a0a59fd5f38b2681ebc9415dfb4b947&amp;chksm=f992635ecee5ea4845d91ef32de7a4b050b662b51ca1b9a1a2e8a07aa63cc7bd1e82a4c08f3f#rd"/>
-        <updated>2025-03-27T00:00:00.000Z</updated>
-        <published>2025-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS view()：JavaScript 滚动动画的终结]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525775&amp;idx=1&amp;sn=3c18df9ad18f4de80823e945e0949be0&amp;chksm=f992635ecee5ea48c8dfbb35b8d80dc0a117fe04cede6d39a488e577d744a0e131b7d0e45570#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525775&amp;idx=1&amp;sn=3c18df9ad18f4de80823e945e0949be0&amp;chksm=f992635ecee5ea48c8dfbb35b8d80dc0a117fe04cede6d39a488e577d744a0e131b7d0e45570#rd"/>
-        <updated>2025-03-27T00:00:00.000Z</updated>
-        <published>2025-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[灵语文档：一款颠覆体验的智能文档编辑器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503453&amp;idx=1&amp;sn=9091eb6d7cd505bf7de3895bec355c03&amp;chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503453&amp;idx=1&amp;sn=9091eb6d7cd505bf7de3895bec355c03&amp;chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd"/>
-        <updated>2025-03-27T00:00:00.000Z</updated>
-        <published>2025-03-27T00:00:00.000Z</published>
     </entry>
 </feed>
