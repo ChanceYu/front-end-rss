@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-17T20:12:59.472Z</updated>
+    <updated>2025-04-18T08:14:12.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[React Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525928&amp;idx=1&amp;sn=3c623982cae25c3f0ecc711437910537&amp;chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525928&amp;idx=1&amp;sn=3c623982cae25c3f0ecc711437910537&amp;chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd"/>
+        <updated>2025-04-17T00:00:00.000Z</updated>
+        <published>2025-04-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接私活神器！分享 8 个 丰富的 Nextjs 模板网站]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503794&amp;idx=1&amp;sn=30ef19ab5a97c186ad8919e26144316f&amp;chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503453&amp;idx=1&amp;sn=9091eb6d7cd505bf7de3895bec355c03&amp;chksm=ce45dbccf93252dad8d78af5c833744eebc7358b06931b02b6dacdd6e3e8aa5a93d2c24c387e#rd"/>
         <updated>2025-03-27T00:00:00.000Z</updated>
         <published>2025-03-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建议收藏！JavaScript+Vue3+React一次全吃透！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525759&amp;idx=1&amp;sn=2e11d1e97d4e89b14edbee910f176949&amp;chksm=f99263aecee5eab8c2167a8763ca32bffde1102ef53c07f1cef75df342b8f032fc42ea72773a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525759&amp;idx=1&amp;sn=2e11d1e97d4e89b14edbee910f176949&amp;chksm=f99263aecee5eab8c2167a8763ca32bffde1102ef53c07f1cef75df342b8f032fc42ea72773a#rd"/>
-        <updated>2025-03-26T00:00:00.000Z</updated>
-        <published>2025-03-26T00:00:00.000Z</published>
     </entry>
 </feed>
