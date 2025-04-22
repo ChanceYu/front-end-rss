@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-21T18:14:02.005Z</updated>
+    <updated>2025-04-22T16:13:14.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Handling V8's memory usage and GC]]></title>
+        <id>https://nodeweekly.com/issues/575</id>
+        <link href="https://nodeweekly.com/issues/575"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <published>2025-04-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 未来响应式的建设，将依赖于这个工具！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503808&amp;idx=1&amp;sn=93a6a4f436e8ce9458f64927d1113631&amp;chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/572"/>
         <updated>2025-04-01T00:00:00.000Z</updated>
         <published>2025-04-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音频生成技术探索与淘宝域实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539431&amp;idx=1&amp;sn=5ceb5aeaac4ff592f537d3c74bc39e3b&amp;chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539431&amp;idx=1&amp;sn=5ceb5aeaac4ff592f537d3c74bc39e3b&amp;chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd"/>
-        <updated>2025-03-31T00:00:00.000Z</updated>
-        <published>2025-03-31T00:00:00.000Z</published>
     </entry>
 </feed>
