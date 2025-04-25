@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-24T18:14:11.308Z</updated>
+    <updated>2025-04-25T14:10:49.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Bring back the fun with p5.js 2.0]]></title>
+        <id>https://javascriptweekly.com/issues/733</id>
+        <link href="https://javascriptweekly.com/issues/733"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <published>2025-04-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[介绍两个DOM新方法setHTMLUnsafe和getHTML]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何检查一个对象是否是 Proxy？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd"/>
-        <updated>2025-04-03T00:00:00.000Z</updated>
-        <published>2025-04-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Vue3 中更好地使用 Typescript]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503542&amp;idx=1&amp;sn=f2a6a98283ff238433532b5f2948c7dc&amp;chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503542&amp;idx=1&amp;sn=f2a6a98283ff238433532b5f2948c7dc&amp;chksm=ce45db27f9325231bf31dc5c698125e5bcb45dea7698431f6fde7d864ee4dca1504f87f491af#rd"/>
         <updated>2025-04-03T00:00:00.000Z</updated>
         <published>2025-04-03T00:00:00.000Z</published>
     </entry>
