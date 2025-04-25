@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-25T14:10:49.189Z</updated>
+    <updated>2025-04-25T20:11:48.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622438&amp;idx=1&amp;sn=4b1d94e78591d4b640a161bc5e4d4ff5&amp;chksm=80225be7b755d2f1db9a437f09862fedfaff71fccdfa90e932b183042cc3f80ed01180461d37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622438&amp;idx=1&amp;sn=4b1d94e78591d4b640a161bc5e4d4ff5&amp;chksm=80225be7b755d2f1db9a437f09862fedfaff71fccdfa90e932b183042cc3f80ed01180461d37#rd"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <published>2025-04-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3498期】常见的 React 库架构设计]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276284&amp;idx=1&amp;sn=119bcc426cc86b5cf879b6d6e5d460b8&amp;chksm=bc6f7bf5e0ac86b7ac2fb415b649546e147bddab459e2602f96086e64fdf9632646640b1fe9e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276284&amp;idx=1&amp;sn=119bcc426cc86b5cf879b6d6e5d460b8&amp;chksm=bc6f7bf5e0ac86b7ac2fb415b649546e147bddab459e2602f96086e64fdf9632646640b1fe9e&amp;scene=0#rd"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <published>2025-04-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bring back the fun with p5.js 2.0]]></title>
         <id>https://javascriptweekly.com/issues/733</id>
@@ -43,6 +57,13 @@
         <published>2025-04-23T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[突发！谷歌被逼卖身，OpenAI趁机收购Chrome？十亿搜索市场大洗牌]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622428&amp;idx=1&amp;sn=76a2b7d4dd1f62f76b8424e3e5441f24&amp;chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622428&amp;idx=1&amp;sn=76a2b7d4dd1f62f76b8424e3e5441f24&amp;chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd"/>
+        <updated>2025-04-23T00:00:00.000Z</updated>
+        <published>2025-04-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3496期】2025 年提升性能的最佳 CSS 单行代码：contain-intrinsic-size]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276264&amp;idx=1&amp;sn=6f7196518b678e7b77d61ef626dbb982&amp;chksm=bc975b7d9916a8610dba119eef7fbe6a99237af9499cc9a33cb19bfa7be3e7439eb372c9bc9b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276264&amp;idx=1&amp;sn=6f7196518b678e7b77d61ef626dbb982&amp;chksm=bc975b7d9916a8610dba119eef7fbe6a99237af9499cc9a33cb19bfa7be3e7439eb372c9bc9b&amp;scene=0#rd"/>
@@ -60,6 +81,13 @@
         <title type="html"><![CDATA[讲解前端中 File、Blob、ArrayBuffer、Base64、DataURL]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503809&amp;idx=1&amp;sn=10130e93e1f1e37f47d8e8a0a9e71bab&amp;chksm=ce45da50f9325346753e6b787c30c3c24d12c32e138a9dc28868e7f573ba1b7c1b29dcb0a67e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503809&amp;idx=1&amp;sn=10130e93e1f1e37f47d8e8a0a9e71bab&amp;chksm=ce45da50f9325346753e6b787c30c3c24d12c32e138a9dc28868e7f573ba1b7c1b29dcb0a67e#rd"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <published>2025-04-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622420&amp;idx=2&amp;sn=61259a9ba514083ac73e57d93ae6b820&amp;chksm=80225bd5b755d2c3f95863ea1f0f2b90ca1fbd44a0617f5c31e4a5d91f9a100745f8cea9970b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622420&amp;idx=2&amp;sn=61259a9ba514083ac73e57d93ae6b820&amp;chksm=80225bd5b755d2c3f95863ea1f0f2b90ca1fbd44a0617f5c31e4a5d91f9a100745f8cea9970b#rd"/>
         <updated>2025-04-22T00:00:00.000Z</updated>
         <published>2025-04-22T00:00:00.000Z</published>
     </entry>
@@ -190,16 +218,16 @@
         <published>2025-04-14T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端异常隔离：Proxy、Web Workers 与 iframe 的深度对比]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=2&amp;sn=3c028ebf505b27b6be7558634deeea8f&amp;chksm=80225c79b755d56fcb12ccccea6f947c2b914e63aa7b63c30cbd580431525a46bcb436dad421#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=2&amp;sn=3c028ebf505b27b6be7558634deeea8f&amp;chksm=80225c79b755d56fcb12ccccea6f947c2b914e63aa7b63c30cbd580431525a46bcb436dad421#rd"/>
+        <title type="html"><![CDATA[GitHub官方回应中国无法访问的问题]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=1&amp;sn=94374676972fad8f0cba60ff5baa3682&amp;chksm=80225c79b755d56fd5b4e884e5b0b62de54f01371cba0ed7c633104f7e4371c680734a314b87#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=1&amp;sn=94374676972fad8f0cba60ff5baa3682&amp;chksm=80225c79b755d56fd5b4e884e5b0b62de54f01371cba0ed7c633104f7e4371c680734a314b87#rd"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
         <published>2025-04-14T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub官方回应中国无法访问的问题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=1&amp;sn=94374676972fad8f0cba60ff5baa3682&amp;chksm=80225c79b755d56fd5b4e884e5b0b62de54f01371cba0ed7c633104f7e4371c680734a314b87#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=1&amp;sn=94374676972fad8f0cba60ff5baa3682&amp;chksm=80225c79b755d56fd5b4e884e5b0b62de54f01371cba0ed7c633104f7e4371c680734a314b87#rd"/>
+        <title type="html"><![CDATA[前端异常隔离：Proxy、Web Workers 与 iframe 的深度对比]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=2&amp;sn=3c028ebf505b27b6be7558634deeea8f&amp;chksm=80225c79b755d56fcb12ccccea6f947c2b914e63aa7b63c30cbd580431525a46bcb436dad421#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=2&amp;sn=3c028ebf505b27b6be7558634deeea8f&amp;chksm=80225c79b755d56fcb12ccccea6f947c2b914e63aa7b63c30cbd580431525a46bcb436dad421#rd"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
         <published>2025-04-14T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="https://javascriptweekly.com/issues/730"/>
         <updated>2025-04-04T00:00:00.000Z</updated>
         <published>2025-04-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何检查一个对象是否是 Proxy？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd"/>
-        <updated>2025-04-03T00:00:00.000Z</updated>
-        <published>2025-04-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 也能开发AI应用了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd"/>
-        <updated>2025-04-03T00:00:00.000Z</updated>
-        <published>2025-04-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 也能开发AI应用了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=1&amp;sn=18da91de56596a3b2b3a3d151562b333&amp;chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd"/>
-        <updated>2025-04-03T00:00:00.000Z</updated>
-        <published>2025-04-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何检查一个对象是否是 Proxy？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525862&amp;idx=2&amp;sn=8ef79be84b629eaa9a6c4086d0110c66&amp;chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd"/>
-        <updated>2025-04-03T00:00:00.000Z</updated>
-        <published>2025-04-03T00:00:00.000Z</published>
     </entry>
 </feed>
