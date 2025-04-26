@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-25T20:11:48.384Z</updated>
+    <updated>2025-04-26T18:12:54.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -50,6 +50,13 @@
         <published>2025-04-24T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517180&amp;idx=1&amp;sn=51f3d5ce0f623616e0d2a3270a3d14e0&amp;chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517180&amp;idx=1&amp;sn=51f3d5ce0f623616e0d2a3270a3d14e0&amp;chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd"/>
+        <updated>2025-04-23T00:00:00.000Z</updated>
+        <published>2025-04-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[try catch 在实际开发场景中的 5 大用处，用起来！！！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503846&amp;idx=1&amp;sn=8de8035f7c0c00bd8a1d7762f19747d1&amp;chksm=ce45da77f9325361effd942f70defc1216872b57ccc7eb495c3fb68320e555e7851c93246670#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503846&amp;idx=1&amp;sn=8de8035f7c0c00bd8a1d7762f19747d1&amp;chksm=ce45da77f9325361effd942f70defc1216872b57ccc7eb495c3fb68320e555e7851c93246670#rd"/>
@@ -74,6 +81,13 @@
         <title type="html"><![CDATA[使用CSS给标题添加书名号并超出省略]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490176&amp;idx=1&amp;sn=15070209f0d63e249dce32e355e58d7d&amp;chksm=97c6794fa0b1f0598cea456be394ae9af12f566daf7360525066304ca6b1c5ad7c12a9de7c91#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490176&amp;idx=1&amp;sn=15070209f0d63e249dce32e355e58d7d&amp;chksm=97c6794fa0b1f0598cea456be394ae9af12f566daf7360525066304ca6b1c5ad7c12a9de7c91#rd"/>
+        <updated>2025-04-22T00:00:00.000Z</updated>
+        <published>2025-04-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue核心成员打造的可视化排查指南来了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517172&amp;idx=1&amp;sn=93c7cec0c940e9ebd446d5838e30be84&amp;chksm=eb07bb8ddc70329b4f1ae5268ba1cdbd309cef38a5b493e0c7be90099a3c97577333e16c7b82#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517172&amp;idx=1&amp;sn=93c7cec0c940e9ebd446d5838e30be84&amp;chksm=eb07bb8ddc70329b4f1ae5268ba1cdbd309cef38a5b493e0c7be90099a3c97577333e16c7b82#rd"/>
         <updated>2025-04-22T00:00:00.000Z</updated>
         <published>2025-04-22T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503626&amp;idx=1&amp;sn=a2b936ff293a9c03eae73e4a350c3024&amp;chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd"/>
         <updated>2025-04-06T00:00:00.000Z</updated>
         <published>2025-04-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端神库！让你能在 Nodejs 里操作浏览器玩出花样！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503545&amp;idx=1&amp;sn=5df67b41ad7f5c2a2512502cb1867747&amp;chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503545&amp;idx=1&amp;sn=5df67b41ad7f5c2a2512502cb1867747&amp;chksm=ce45db28f932523ed89168ba44f31086ea6b97012e516f8347cd82a123833f58c7175892bd78#rd"/>
-        <updated>2025-04-04T00:00:00.000Z</updated>
-        <published>2025-04-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
-        <id>https://javascriptweekly.com/issues/730</id>
-        <link href="https://javascriptweekly.com/issues/730"/>
-        <updated>2025-04-04T00:00:00.000Z</updated>
-        <published>2025-04-04T00:00:00.000Z</published>
     </entry>
 </feed>
