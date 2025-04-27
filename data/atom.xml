@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-26T18:12:54.775Z</updated>
+    <updated>2025-04-27T18:12:58.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Nodejs 迎来了有史以来的最大的 9 个更新！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503897&amp;idx=1&amp;sn=42227c917008830541b510c90761bade&amp;chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503897&amp;idx=1&amp;sn=42227c917008830541b510c90761bade&amp;chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd"/>
+        <updated>2025-04-26T00:00:00.000Z</updated>
+        <published>2025-04-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[连续霸榜多年，前端构建工具王座即将易主！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517184&amp;idx=1&amp;sn=d67a12ec5352213d40f5fdc0edeea805&amp;chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517184&amp;idx=1&amp;sn=d67a12ec5352213d40f5fdc0edeea805&amp;chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd"/>
+        <updated>2025-04-25T00:00:00.000Z</updated>
+        <published>2025-04-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622438&amp;idx=1&amp;sn=4b1d94e78591d4b640a161bc5e4d4ff5&amp;chksm=80225be7b755d2f1db9a437f09862fedfaff71fccdfa90e932b183042cc3f80ed01180461d37#rd</id>
@@ -39,6 +53,13 @@
         <title type="html"><![CDATA[介绍两个DOM新方法setHTMLUnsafe和getHTML]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <published>2025-04-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[try catch 在实际开发场景中的 5 大用处，用起来！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517182&amp;idx=1&amp;sn=f20d95fde54e83dd4fff43897d4527f7&amp;chksm=eb07bb87dc703291161acbb776b263b6160f0a51cb7be0e74159ab4eb819efdaee612bbc3d6a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517182&amp;idx=1&amp;sn=f20d95fde54e83dd4fff43897d4527f7&amp;chksm=eb07bb87dc703291161acbb776b263b6160f0a51cb7be0e74159ab4eb819efdaee612bbc3d6a#rd"/>
         <updated>2025-04-24T00:00:00.000Z</updated>
         <published>2025-04-24T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247525879&amp;idx=2&amp;sn=3030a82d69091057de6ac470f5ae0131&amp;chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd"/>
         <updated>2025-04-07T00:00:00.000Z</updated>
         <published>2025-04-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 的 watch，你们都手动清除过吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503627&amp;idx=1&amp;sn=ac86bfc8c6af8e2fa367f15a7124d3bf&amp;chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503627&amp;idx=1&amp;sn=ac86bfc8c6af8e2fa367f15a7124d3bf&amp;chksm=ce45da9af932538c49ecde0f09bb7138614b34d9954890912eed6179d9eff1b1e74d13b20bbf#rd"/>
-        <updated>2025-04-07T00:00:00.000Z</updated>
-        <published>2025-04-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS EditContext API 简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/"/>
-        <updated>2025-04-06T00:00:00.000Z</updated>
-        <published>2025-04-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再傻傻使用 requestAnimationFrame 啦！！！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503626&amp;idx=1&amp;sn=a2b936ff293a9c03eae73e4a350c3024&amp;chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503626&amp;idx=1&amp;sn=a2b936ff293a9c03eae73e4a350c3024&amp;chksm=ce45da9bf932538d51233f467f3975d79bfe5fd6378d07c37ca0ac0fd303c5f8c413cf477d39#rd"/>
-        <updated>2025-04-06T00:00:00.000Z</updated>
-        <published>2025-04-06T00:00:00.000Z</published>
     </entry>
 </feed>
