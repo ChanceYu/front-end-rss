@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-29 02:15:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-29 04:11:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -313,6 +313,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd) 
 - [2024-11-26-Chrome-被强制出售？谷歌或将抛弃-ChromeOS-全面转向-Android-系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525486&idx=1&sn=6e3e983ed6624a8c97cb10d5e15aa6de&chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd) 
 - [2023-09-22-Chrome-117-Beta发布：15岁生日庆祝与新功能一览](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522317&idx=1&sn=742f89ddb878950c7f93a282229c4931&chksm=f9522d4ece25a4589435621c5f685632de55bbea5d65f47af7ed1d8c67cc21143ab493e8a2ab#rd) 
 - [2023-06-28-AI浏览器扩展：一场新的安全噩梦](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521291&idx=1&sn=6f97a01884243583bf246ad1f2579264&chksm=f9522148ce25a85e772f37f883060cc82249e3ff79c77b733ffdebf982c85c0ca84ee2b8b004#rd) 

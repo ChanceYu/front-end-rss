@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-28T18:15:02.842Z</updated>
+    <updated>2025-04-28T20:11:39.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -60,6 +60,13 @@
         <title type="html"><![CDATA[Nodejs 迎来了有史以来的最大的 9 个更新！！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503897&amp;idx=1&amp;sn=42227c917008830541b510c90761bade&amp;chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503897&amp;idx=1&amp;sn=42227c917008830541b510c90761bade&amp;chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd"/>
+        <updated>2025-04-26T00:00:00.000Z</updated>
+        <published>2025-04-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浏览器里的 AI 革命：前端工程师的新战场]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525949&amp;idx=1&amp;sn=d596d89b6a37b50c5394094470c3ec8d&amp;chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525949&amp;idx=1&amp;sn=d596d89b6a37b50c5394094470c3ec8d&amp;chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd"/>
         <updated>2025-04-26T00:00:00.000Z</updated>
         <published>2025-04-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Rspack 加入 Next.js 生态：携手改进前端工具链]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517164&amp;idx=1&amp;sn=48b598aa3177fcb3a60ffbc844b2e3e2&amp;chksm=eb07bb95dc703283acd6a3f84ce8e3003456fcc561576e8d6e8b364337ee3f0e4b6eb4581905#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517164&amp;idx=1&amp;sn=48b598aa3177fcb3a60ffbc844b2e3e2&amp;chksm=eb07bb95dc703283acd6a3f84ce8e3003456fcc561576e8d6e8b364337ee3f0e4b6eb4581905#rd"/>
-        <updated>2025-04-11T00:00:00.000Z</updated>
-        <published>2025-04-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你还在使用websocket实现实时消息推送吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622311&amp;idx=1&amp;sn=e5f4c89eb0393d847d9b62295fddfd9d&amp;chksm=80225c66b755d570a0feb4b71b928170f69c909bb70682d21efcf67a723ec4be0242d97b3fa5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622311&amp;idx=1&amp;sn=e5f4c89eb0393d847d9b62295fddfd9d&amp;chksm=80225c66b755d570a0feb4b71b928170f69c909bb70682d21efcf67a723ec4be0242d97b3fa5#rd"/>
         <updated>2025-04-11T00:00:00.000Z</updated>
         <published>2025-04-11T00:00:00.000Z</published>
     </entry>
