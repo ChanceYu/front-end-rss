@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-28T06:23:46.537Z</updated>
+    <updated>2025-04-28T11:03:10.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[光速了解HTML shadowrootmode等属性的作用]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/"/>
+        <updated>2025-04-28T00:00:00.000Z</updated>
+        <published>2025-04-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 3 如何用 Proxy 构建高效响应式数据？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526097&amp;idx=2&amp;sn=41d295349f4ed8ece4e603530500ca86&amp;chksm=f9926000cee5e916231d292fbc3cfa4aa3fbecf431ecde4a980f2e4dd871e122f9d33451a918#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276145&amp;idx=1&amp;sn=af0a15974c655a5c5a9e2bbcb3d7e081&amp;chksm=bc3e6e6de5bcdc73d6d6e86516c252578e38e4ba38166822a8da824a081e9e6dc3bc4c7bae68&amp;scene=0#rd"/>
         <updated>2025-04-10T00:00:00.000Z</updated>
         <published>2025-04-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个Vue3 动效库太炫了！墙裂推荐]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517151&amp;idx=1&amp;sn=4ecb06c44289c183e899d93f65f6325e&amp;chksm=eb07bba6dc7032b0459b7f33ae528bb0f83b6a51f8681f8a509e869c4094f26a1f4e7075799f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517151&amp;idx=1&amp;sn=4ecb06c44289c183e899d93f65f6325e&amp;chksm=eb07bba6dc7032b0459b7f33ae528bb0f83b6a51f8681f8a509e869c4094f26a1f4e7075799f#rd"/>
-        <updated>2025-04-09T00:00:00.000Z</updated>
-        <published>2025-04-09T00:00:00.000Z</published>
     </entry>
 </feed>

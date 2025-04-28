@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-28 14:23:46，:rocket: 更新条数: +9， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-28 19:03:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-04-28-【第3499期】代码评审的理念](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276310&idx=1&sn=2d099627c2f03c703e69e1305b8655f9&chksm=bcbb9ebd337988ea93778e727038dc55caddf6329424006424271da3fc289474ed7a8b837da1&scene=0#rd) ![](/assets/new.png)  
+- [2025-04-28-【第3499期】代码评审的理念](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276310&idx=1&sn=2d099627c2f03c703e69e1305b8655f9&chksm=bcbb9ebd337988ea93778e727038dc55caddf6329424006424271da3fc289474ed7a8b837da1&scene=0#rd)  
 - [2025-04-27-【早阅】在-AI-时代避免技能退化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276301&idx=1&sn=f5459aee93d64df1ff04702bf0e54e1c&chksm=bce24e6119b14dc15c1f85d125a10660d5b0cf3091a6c1f401dfcedafeae9ecc5398a32dc9e9&scene=0#rd)  
 - [2025-04-25-【第3498期】常见的-React-库架构设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276284&idx=1&sn=119bcc426cc86b5cf879b6d6e5d460b8&chksm=bc6f7bf5e0ac86b7ac2fb415b649546e147bddab459e2602f96086e64fdf9632646640b1fe9e&scene=0#rd)  
 - [2025-04-24-【第3497期】Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276269&idx=1&sn=013390327013622af87b6cec477e32bf&chksm=bc6802cb8a2c090c8588d65917a764f3cbc070cb03f04918c93debd8329dafa7a260d7708a5e&scene=0#rd)  
@@ -264,14 +264,14 @@
 </summary>
 
 
-- [2025-04-26-用分层结构扩展你的-React-项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526097&idx=1&sn=eb4a0e79d3656ea53bf417f244961fb6&chksm=f9926000cee5e916980c926bb28a313c0f013a049318999aa6d7a21bafd488d65a1de9d7f5eb#rd) ![](/assets/new.png)  
-- [2025-04-26-Vue-3-如何用-Proxy-构建高效响应式数据？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526097&idx=2&sn=41d295349f4ed8ece4e603530500ca86&chksm=f9926000cee5e916231d292fbc3cfa4aa3fbecf431ecde4a980f2e4dd871e122f9d33451a918#rd) ![](/assets/new.png)  
-- [2025-04-25-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526089&idx=1&sn=5724d9630ea2caf402b25eb5c2d75c96&chksm=f9926018cee5e90ec675bb678c336924aa66da467bb92a9f59fd873fb922874440ece515f990#rd) ![](/assets/new.png)  
-- [2025-04-25-TypeScript-是怎么工作的？一文带你深入编译器内部流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526089&idx=2&sn=91a8c5bbde90133c61098fccd056bd92&chksm=f9926018cee5e90e47e0f961683b7eda12da1b7af5db174f7865765933bc651808ab634af596#rd) ![](/assets/new.png)  
-- [2025-04-24-【AI入门】MCP-Server初探](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526067&idx=2&sn=6044c5f2b302170109ab3423e471eb41&chksm=f9926062cee5e9743a68df84310264894b12a774f497f050c4e095eefd0c5ff2152c869bc4dd#rd) ![](/assets/new.png)  
-- [2025-04-24-Nextjs首屏加载速度性能从80分优化到98分](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526067&idx=1&sn=db5115c36c2afe439a8ff15fefd273f6&chksm=f9926062cee5e9745a8e649f0a5a593c5d249001d854b9f3f4df1ac3e52884fde4058c8b249e#rd) ![](/assets/new.png)  
-- [2025-04-23-new-Image-预加载-为什么比-直接加载要好？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526057&idx=2&sn=6a7bbd523a2748c4e94f2097ca40bbab&chksm=f9926078cee5e96e127910368d1534479fa8781528bda8cb5ae65822eb2a16e8cb968c03e802#rd) ![](/assets/new.png)  
-- [2025-04-23-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526057&idx=1&sn=b117259006c5d45b6a0a436edc89de45&chksm=f9926078cee5e96e8dcabbd8985aedc45de6e33c0efff2546c8895852e09d8d58dada6f5af7e#rd) ![](/assets/new.png)  
+- [2025-04-26-用分层结构扩展你的-React-项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526097&idx=1&sn=eb4a0e79d3656ea53bf417f244961fb6&chksm=f9926000cee5e916980c926bb28a313c0f013a049318999aa6d7a21bafd488d65a1de9d7f5eb#rd)  
+- [2025-04-26-Vue-3-如何用-Proxy-构建高效响应式数据？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526097&idx=2&sn=41d295349f4ed8ece4e603530500ca86&chksm=f9926000cee5e916231d292fbc3cfa4aa3fbecf431ecde4a980f2e4dd871e122f9d33451a918#rd)  
+- [2025-04-25-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526089&idx=1&sn=5724d9630ea2caf402b25eb5c2d75c96&chksm=f9926018cee5e90ec675bb678c336924aa66da467bb92a9f59fd873fb922874440ece515f990#rd)  
+- [2025-04-25-TypeScript-是怎么工作的？一文带你深入编译器内部流程](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526089&idx=2&sn=91a8c5bbde90133c61098fccd056bd92&chksm=f9926018cee5e90e47e0f961683b7eda12da1b7af5db174f7865765933bc651808ab634af596#rd)  
+- [2025-04-24-【AI入门】MCP-Server初探](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526067&idx=2&sn=6044c5f2b302170109ab3423e471eb41&chksm=f9926062cee5e9743a68df84310264894b12a774f497f050c4e095eefd0c5ff2152c869bc4dd#rd)  
+- [2025-04-24-Nextjs首屏加载速度性能从80分优化到98分](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526067&idx=1&sn=db5115c36c2afe439a8ff15fefd273f6&chksm=f9926062cee5e9745a8e649f0a5a593c5d249001d854b9f3f4df1ac3e52884fde4058c8b249e#rd)  
+- [2025-04-23-new-Image-预加载-为什么比-直接加载要好？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526057&idx=2&sn=6a7bbd523a2748c4e94f2097ca40bbab&chksm=f9926078cee5e96e127910368d1534479fa8781528bda8cb5ae65822eb2a16e8cb968c03e802#rd)  
+- [2025-04-23-前端今年这情况，别再背八股文了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526057&idx=1&sn=b117259006c5d45b6a0a436edc89de45&chksm=f9926078cee5e96e8dcabbd8985aedc45de6e33c0efff2546c8895852e09d8d58dada6f5af7e#rd)  
 - [2025-04-09-90%的NestJS开发者都踩过的坑：你的模块注册姿势对吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525922&idx=1&sn=4614260a9af244d83ef1ddd72e488c42&chksm=f99260f3cee5e9e526fe6cad3dfdd29ef9db334954bb7263256f6e880d24abd43bafd3039e29#rd)  
 - [2025-04-08-因网速太慢我把20M+的字体压缩到了几KB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525888&idx=2&sn=66e5fab70d2eb78a505e41e162fea4bc&chksm=f99260d1cee5e9c7b87cea175287031b761c3623017ec69d431b1c56a10cf1bb7da3ac1573c6#rd)  
 - [2025-04-07-Figma-MCP-Server-介绍：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/) ![](/assets/new.png)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
@@ -531,7 +532,6 @@
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
 - [2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
-- [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
