@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-29T10:12:19.331Z</updated>
+    <updated>2025-04-29T14:11:43.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[告别transform，是时候直接使用scale, rotate属性啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <published>2025-04-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koa 3.0, Node 22.15.0, and a V8 boost]]></title>
+        <id>https://nodeweekly.com/issues/576</id>
+        <link href="https://nodeweekly.com/issues/576"/>
         <updated>2025-04-29T00:00:00.000Z</updated>
         <published>2025-04-29T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622328&amp;idx=2&amp;sn=3c028ebf505b27b6be7558634deeea8f&amp;chksm=80225c79b755d56fcb12ccccea6f947c2b914e63aa7b63c30cbd580431525a46bcb436dad421#rd"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
         <published>2025-04-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发！GitHub 屏蔽中国 IP]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622318&amp;idx=1&amp;sn=524f6c6ea618b870bd390eb933d44075&amp;chksm=80225c6fb755d579557601e8b0ae0608415fbd808ead0efd95daeaa568ad3a108053177c8f29#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622318&amp;idx=1&amp;sn=524f6c6ea618b870bd390eb933d44075&amp;chksm=80225c6fb755d579557601e8b0ae0608415fbd808ead0efd95daeaa568ad3a108053177c8f29#rd"/>
-        <updated>2025-04-13T00:00:00.000Z</updated>
-        <published>2025-04-13T00:00:00.000Z</published>
     </entry>
 </feed>

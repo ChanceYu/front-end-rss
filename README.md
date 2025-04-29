@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-29 18:12:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-29 22:11:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576) ![](/assets/new.png)  
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
@@ -66,7 +67,6 @@
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
-- [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) ![](/assets/new.png)  
+- [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
