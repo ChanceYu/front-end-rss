@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-29 22:11:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-30 02:14:31，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576) ![](/assets/new.png)  
+- [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd) ![](/assets/new.png)  
 - [2025-04-27-Vite模块联邦vite-plugin-federation实现去中心化微前端后台管理系统架构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517186&idx=1&sn=d73f476511e1106f5c881dcf4a3977bb&chksm=eb07bc7bdc70356d1e914b2163e0444f2aa4013c29a22a9c49b36f2d0e8c6e0dabc89b9a7ac5#rd)  
 - [2025-04-25-连续霸榜多年，前端构建工具王座即将易主！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517184&idx=1&sn=d67a12ec5352213d40f5fdc0edeea805&chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd)  
 - [2025-04-24-try-catch-在实际开发场景中的-5-大用处，用起来！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517182&idx=1&sn=f20d95fde54e83dd4fff43897d4527f7&chksm=eb07bb87dc703291161acbb776b263b6160f0a51cb7be0e74159ab4eb819efdaee612bbc3d6a#rd)  
@@ -438,7 +439,6 @@
 - [2025-03-19-用二进制思维重构前端权限系统](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517130&idx=1&sn=dacd2335971895edf9d987538afdca15&chksm=eb07bbb3dc7032a5a740ec238421eb4a938a70d9cba7ca66439dfc90802b42f9ea7af502b6d1#rd)  
 - [2025-03-13-微软宣布性能提升10倍的-TypeScript-来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517125&idx=1&sn=11821db18c6d1d32bb2eafd4466e9416&chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd)  
 - [2025-03-11-Vite-Plus-要来了?!-尤雨溪最新演讲：围绕-Vite-的前端统一工具链](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517123&idx=1&sn=737ea715e31055dcd2b1b16fb44dfe42&chksm=eb07bbbadc7032ac0125c0142a1b44ff41647258b8310746840f9e17b58e3c1b413e272256bd#rd)  
-- [2025-03-06-2025-React-+-TypeScript-实战指南！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517119&idx=1&sn=343e657aa0a90e1c0d4a8e4eccc51fa7&chksm=eb07bbc6dc7032d0bf1af180b300c75632c4f888230e027a293898527aafbfcfca8e7dc95396#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,6 +481,9 @@
 </summary>
 
 
+- [2025-04-28-亿级流量下的前端高可用架构实践：淘宝春节许愿主互动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539847&idx=1&sn=45828d3a1fa99732433e616c4da6b25a&chksm=8231846c90c70e33bf0fdaac2438440a94bf523e4e07318f3f35eb43cb80f67fecffb4695a52&scene=0#rd) ![](/assets/new.png)  
+- [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd) ![](/assets/new.png)  
+- [2025-04-23-读书笔记：淘宝十年产品与技术演进史](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539807&idx=1&sn=fb5598ba244d6da0fef504d3d7813b9c&chksm=8390cf07b4e74611bdb71eb16e675988a8970d9204ea6aa4e49d3d92d61e927338d65e93794f#rd) ![](/assets/new.png)  
 - [2025-04-21-MNN-LLM：让你手机本地也能跑-DeepSeek-R1-还能支持多模态](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539806&idx=1&sn=5b685a3cb146a5271fe84476f609862b&chksm=8390cf06b4e74610ab1080e2c9c4746248208378257bb17b781fdb0dd96888bff2b140dbb98e#rd)  
 - [2025-04-18-AI驱动研发效率在中后台的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539800&idx=1&sn=45a92ab85bd456648d75977a0dddf4d8&chksm=8390cf00b4e746165b18fed9cac42478bb9a81b2588492f125f741964ed68b5744c17560b2b4#rd)  
 - [2025-04-16-2025-AI驱动研发工具对比丨独立测评](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539750&idx=1&sn=79187cb649f4a5422b78f08617603d9e&chksm=8390cefeb4e747e8255fb70ab29d3829b09deed70d8c3c3952bf82ac68659569daa3f5f18d62#rd)  
@@ -498,9 +501,6 @@
 - [2025-03-07-MLLM在电商域互动内容生产的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538967&idx=1&sn=b0a248783fa25e1ba3c954e3a53cab3f&chksm=8390cbcfb4e742d9f87780a3ac5ca21bdc0e28d36a818dff01e64e69517ac459cf9650016b58#rd)  
 - [2025-03-05-大模型时代的视频动静态封面生产方案及业务实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538914&idx=1&sn=148fc184707d1d83c5e9ce5797a849ea&chksm=8390cbbab4e742acab6c90a895242041e062eab9de21082fb2ba135bd466291be08998675144#rd)  
 - [2025-03-03-淘宝全新图生视频大模型“淘宝法象”，助力商家降本增效](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538782&idx=1&sn=dae7580c08fd072f8fd35dbad0fc15c1&chksm=8390cb06b4e7421094dd8b5ba58b597d7b187fdd4448376a48aefe4303a5479dc2e9f5f4b447#rd)  
-- [2025-02-28-大模型时代的内容分析Agent解决方案与业务实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538777&idx=1&sn=2a734e0b9c589c85a9a555af33f22341&chksm=8390cb01b4e7421792985d3e37bfd6379826e1490160d0e82904171181bc3b3560aa44905846#rd)  
-- [2025-02-26-视频级虚拟试衣技术在淘宝的产品化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538653&idx=1&sn=a33199937cb96771b67bd0dd1449f028&chksm=8390ca85b4e74393c539d8987fec0c7f3685b49b1871743322de7645d83504f56fdc2d1364c6#rd)  
-- [2025-02-24-多模态人物视频驱动技术回顾与业务应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538502&idx=1&sn=aa954b0e7d60240dc98ce70f6c456e06&chksm=8390ca1eb4e74308e0fd64e5f8c21a7fc3209bc5b0d3742722650535d23c19d6842cf06da928#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
