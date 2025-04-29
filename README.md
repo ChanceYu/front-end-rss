@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-29 04:11:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-29 18:12:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,7 +22,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd) ![](/assets/new.png)  
+- [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
 - [2025-04-17-React-Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525928&idx=1&sn=3c623982cae25c3f0ecc711437910537&chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd)  
 - [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd)  
 - [2025-03-29-当-AI-重塑开发体验，iOS-生态为何显得格格不入？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525903&idx=1&sn=02d078d10a7007aa995071bdf71a7d3f&chksm=f952d34cce255a5a4ef75057439f911142fb15cf7d8b6fd4bfa3af91a893edf3060916c4ecf1#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/) ![](/assets/new.png)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
@@ -531,7 +532,6 @@
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
 - [2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
-- [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

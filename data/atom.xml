@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-04-28T20:11:39.570Z</updated>
+    <updated>2025-04-29T10:12:19.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[告别transform，是时候直接使用scale, rotate属性啦]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <published>2025-04-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[光速了解HTML shadowrootmode等属性的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622318&amp;idx=1&amp;sn=524f6c6ea618b870bd390eb933d44075&amp;chksm=80225c6fb755d579557601e8b0ae0608415fbd808ead0efd95daeaa568ad3a108053177c8f29#rd"/>
         <updated>2025-04-13T00:00:00.000Z</updated>
         <published>2025-04-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rspack 加入 Next.js 生态：携手改进前端工具链]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517164&amp;idx=1&amp;sn=48b598aa3177fcb3a60ffbc844b2e3e2&amp;chksm=eb07bb95dc703283acd6a3f84ce8e3003456fcc561576e8d6e8b364337ee3f0e4b6eb4581905#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517164&amp;idx=1&amp;sn=48b598aa3177fcb3a60ffbc844b2e3e2&amp;chksm=eb07bb95dc703283acd6a3f84ce8e3003456fcc561576e8d6e8b364337ee3f0e4b6eb4581905#rd"/>
-        <updated>2025-04-11T00:00:00.000Z</updated>
-        <published>2025-04-11T00:00:00.000Z</published>
     </entry>
 </feed>
