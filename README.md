@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-30 20:18:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-01 02:14:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-04-30-【第3501期】别再写一堆-if-else-了：用状态模式优雅管理状态行为](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276328&idx=1&sn=3e40e389c36aeb54169ba43574ae86c6&chksm=bcb2ab352a7385f3b8af349382a162831695733a6ee143e3c918ad48aa7003a1c58b6120069b&scene=0#rd) ![](/assets/new.png)  
+- [2025-04-30-【第3501期】别再写一堆-if-else-了：用状态模式优雅管理状态行为](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276328&idx=1&sn=3e40e389c36aeb54169ba43574ae86c6&chksm=bcb2ab352a7385f3b8af349382a162831695733a6ee143e3c918ad48aa7003a1c58b6120069b&scene=0#rd)  
 - [2025-04-28-【第3499期】代码评审的理念](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276310&idx=1&sn=2d099627c2f03c703e69e1305b8655f9&chksm=bcbb9ebd337988ea93778e727038dc55caddf6329424006424271da3fc289474ed7a8b837da1&scene=0#rd)  
 - [2025-04-27-【早阅】在-AI-时代避免技能退化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276301&idx=1&sn=f5459aee93d64df1ff04702bf0e54e1c&chksm=bce24e6119b14dc15c1f85d125a10660d5b0cf3091a6c1f401dfcedafeae9ecc5398a32dc9e9&scene=0#rd)  
 - [2025-04-25-【第3498期】常见的-React-库架构设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276284&idx=1&sn=119bcc426cc86b5cf879b6d6e5d460b8&chksm=bc6f7bf5e0ac86b7ac2fb415b649546e147bddab459e2602f96086e64fdf9632646640b1fe9e&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-04-30-MCP入门指南：大模型时代的USB接口](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539864&idx=1&sn=f4ab87f55d83a8269530e62ef61c8ff9&chksm=8284f4e529556bc989b1a56ec81d771b5964486e1824b9b716d46fa4fe595482082c7052fb2e&scene=0#rd) ![](/assets/new.png)  
 - [2025-04-28-亿级流量下的前端高可用架构实践：淘宝春节许愿主互动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539847&idx=1&sn=45828d3a1fa99732433e616c4da6b25a&chksm=8231846c90c70e33bf0fdaac2438440a94bf523e4e07318f3f35eb43cb80f67fecffb4695a52&scene=0#rd)  
 - [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd)  
 - [2025-04-23-读书笔记：淘宝十年产品与技术演进史](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539807&idx=1&sn=fb5598ba244d6da0fef504d3d7813b9c&chksm=8390cf07b4e74611bdb71eb16e675988a8970d9204ea6aa4e49d3d92d61e927338d65e93794f#rd)  
@@ -500,7 +501,6 @@
 - [2025-03-12-多模态自动布局技术发展及其在淘内内容场的应用](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539024&idx=1&sn=e6143b7cf402974bc0a4f63bcf819993&chksm=8390cc08b4e7451e390e901f0a3de669816580e47df441496a466e27a7d7f920ddbe151788d5#rd)  
 - [2025-03-07-MLLM在电商域互动内容生产的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538967&idx=1&sn=b0a248783fa25e1ba3c954e3a53cab3f&chksm=8390cbcfb4e742d9f87780a3ac5ca21bdc0e28d36a818dff01e64e69517ac459cf9650016b58#rd)  
 - [2025-03-05-大模型时代的视频动静态封面生产方案及业务实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538914&idx=1&sn=148fc184707d1d83c5e9ce5797a849ea&chksm=8390cbbab4e742acab6c90a895242041e062eab9de21082fb2ba135bd466291be08998675144#rd)  
-- [2025-03-03-淘宝全新图生视频大模型“淘宝法象”，助力商家降本增效](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538782&idx=1&sn=dae7580c08fd072f8fd35dbad0fc15c1&chksm=8390cb06b4e7421094dd8b5ba58b597d7b187fdd4448376a48aefe4303a5479dc2e9f5f4b447#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
