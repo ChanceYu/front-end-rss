@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-04-30 02:14:31，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-30 08:46:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,16 +23,16 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-04-29-五一后准备跳槽的兄弟注意！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503946&idx=1&sn=c0dff077299823ab7a869e41597abbdd&chksm=ce45c5dbf9324ccd5ab62241ef70796d942995cba30cf438e3c6d93e73f77b7e23847a8a1bc2#rd) ![](/assets/new.png)  
+- [2025-04-28-前端要怎么做B站那样的弹幕效果？非常有趣！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503936&idx=1&sn=1af2d428da7d41fc024fdc0c2f683cfa&chksm=ce45c5d1f9324cc746b2b3db8923dbd1893a376c7299f4570403d6af180182f93064e6f08f97#rd) ![](/assets/new.png)  
 - [2025-04-27-又是字节前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503935&idx=1&sn=6cec40f9e0fbeac0eaa0b8410172d178&chksm=ce45c5aef9324cb8e3bd6fd28560e304d3e3dd4e29cb8b4a87927e5b24539ef7b0e4699129bb#rd)  
 - [2025-04-26-Nodejs-迎来了有史以来的最大的-9-个更新！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503897&idx=1&sn=42227c917008830541b510c90761bade&chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd)  
 - [2025-04-25-一位进字节的前端朋友分享的东西！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503856&idx=1&sn=9ec249dbc25001c1850b9f6648e52727&chksm=ce45da61f9325377aa7c3d7d02c74518afc0695dc2a3e90fd7b2d0fbed9f9fb3549cca28a9b5#rd)  
@@ -220,8 +222,6 @@
 - [2025-04-12-Lodash-这-20-个方法，既高级又超级实用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503659&idx=1&sn=8a51370d5bc10dfcab1b80d67c6c9d2b&chksm=ce45dabaf93253ac90877ae212ea195052841c2f623495f87b54ad512b7837276bf355719415#rd)  
 - [2025-04-11-Symbol-的用处，远远超乎你们的想象！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503648&idx=1&sn=ab75cc2c318d47b8a1d6fd65060de6cb&chksm=ce45dab1f93253a7a7fe900e278456a1f198cdf87856d46b12dbd4b1fc5ef04442ce2bd2ecf5#rd)  
 - [2025-04-10-最新Vue3面试题总结，注意查收！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503647&idx=1&sn=b28e32676601164ea09aa02a8db55688&chksm=ce45da8ef932539889d76589f7e69650f05a25405008baf5b9e27bba0149fb0ba3a6fbf6a873#rd)  
-- [2025-04-09-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503642&idx=1&sn=6e912514a44f1e7ed6df6216e47af861&chksm=ce45da8bf932539d6490f1a9383303639de26420572c0a390083572ba4935645190e448aea9f#rd)  
-- [2025-04-08-前端时间管理大师！！！在项目中我是怎么操控时间的？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503632&idx=1&sn=4e96188ef256c73bf811489102811483&chksm=ce45da81f93253975e8f5157c774e2004182817ee46fcebc71fb2040d58bdb858c55ff741165#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd) ![](/assets/new.png)  
+- [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd)  
 - [2025-04-27-Vite模块联邦vite-plugin-federation实现去中心化微前端后台管理系统架构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517186&idx=1&sn=d73f476511e1106f5c881dcf4a3977bb&chksm=eb07bc7bdc70356d1e914b2163e0444f2aa4013c29a22a9c49b36f2d0e8c6e0dabc89b9a7ac5#rd)  
 - [2025-04-25-连续霸榜多年，前端构建工具王座即将易主！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517184&idx=1&sn=d67a12ec5352213d40f5fdc0edeea805&chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd)  
 - [2025-04-24-try-catch-在实际开发场景中的-5-大用处，用起来！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517182&idx=1&sn=f20d95fde54e83dd4fff43897d4527f7&chksm=eb07bb87dc703291161acbb776b263b6160f0a51cb7be0e74159ab4eb819efdaee612bbc3d6a#rd)  
@@ -481,9 +481,9 @@
 </summary>
 
 
-- [2025-04-28-亿级流量下的前端高可用架构实践：淘宝春节许愿主互动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539847&idx=1&sn=45828d3a1fa99732433e616c4da6b25a&chksm=8231846c90c70e33bf0fdaac2438440a94bf523e4e07318f3f35eb43cb80f67fecffb4695a52&scene=0#rd) ![](/assets/new.png)  
-- [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd) ![](/assets/new.png)  
-- [2025-04-23-读书笔记：淘宝十年产品与技术演进史](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539807&idx=1&sn=fb5598ba244d6da0fef504d3d7813b9c&chksm=8390cf07b4e74611bdb71eb16e675988a8970d9204ea6aa4e49d3d92d61e927338d65e93794f#rd) ![](/assets/new.png)  
+- [2025-04-28-亿级流量下的前端高可用架构实践：淘宝春节许愿主互动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539847&idx=1&sn=45828d3a1fa99732433e616c4da6b25a&chksm=8231846c90c70e33bf0fdaac2438440a94bf523e4e07318f3f35eb43cb80f67fecffb4695a52&scene=0#rd)  
+- [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd)  
+- [2025-04-23-读书笔记：淘宝十年产品与技术演进史](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539807&idx=1&sn=fb5598ba244d6da0fef504d3d7813b9c&chksm=8390cf07b4e74611bdb71eb16e675988a8970d9204ea6aa4e49d3d92d61e927338d65e93794f#rd)  
 - [2025-04-21-MNN-LLM：让你手机本地也能跑-DeepSeek-R1-还能支持多模态](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539806&idx=1&sn=5b685a3cb146a5271fe84476f609862b&chksm=8390cf06b4e74610ab1080e2c9c4746248208378257bb17b781fdb0dd96888bff2b140dbb98e#rd)  
 - [2025-04-18-AI驱动研发效率在中后台的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539800&idx=1&sn=45a92ab85bd456648d75977a0dddf4d8&chksm=8390cf00b4e746165b18fed9cac42478bb9a81b2588492f125f741964ed68b5744c17560b2b4#rd)  
 - [2025-04-16-2025-AI驱动研发工具对比丨独立测评](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539750&idx=1&sn=79187cb649f4a5422b78f08617603d9e&chksm=8390cefeb4e747e8255fb70ab29d3829b09deed70d8c3c3952bf82ac68659569daa3f5f18d62#rd)  
