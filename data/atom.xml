@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-01T14:10:34.429Z</updated>
+    <updated>2025-05-01T16:13:17.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Next.js 真有那么好用吗？Netlify 谈他们遇到的六个现实问题]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526011&amp;idx=1&amp;sn=4f1c822f120896bcfbb5e6adeba87eb6&amp;chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526011&amp;idx=1&amp;sn=4f1c822f120896bcfbb5e6adeba87eb6&amp;chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd"/>
+        <updated>2025-04-30T00:00:00.000Z</updated>
+        <published>2025-04-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告别transform，是时候直接使用scale, rotate属性啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[基于AIGC技术的营销短视频生产方案及业务实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539666&amp;idx=1&amp;sn=f879957adb247796f6dd5861ed075637&amp;chksm=8390ce8ab4e7479cc4b6424eca6c784018aba7542b33b5b6258d24e7c33fe31d0203d3059c0c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650539666&amp;idx=1&amp;sn=f879957adb247796f6dd5861ed075637&amp;chksm=8390ce8ab4e7479cc4b6424eca6c784018aba7542b33b5b6258d24e7c33fe31d0203d3059c0c#rd"/>
-        <updated>2025-04-14T00:00:00.000Z</updated>
-        <published>2025-04-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503667&amp;idx=1&amp;sn=65a18d172c37b4ed94a04e73843cdd1d&amp;chksm=ce45daa2f93253b4cc6fa1601edfb75d66373498bec07f437bd1ebdb58428bc37015aef8eaa6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503667&amp;idx=1&amp;sn=65a18d172c37b4ed94a04e73843cdd1d&amp;chksm=ce45daa2f93253b4cc6fa1601edfb75d66373498bec07f437bd1ebdb58428bc37015aef8eaa6#rd"/>
         <updated>2025-04-14T00:00:00.000Z</updated>
         <published>2025-04-14T00:00:00.000Z</published>
     </entry>

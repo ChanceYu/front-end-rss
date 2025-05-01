@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-01 22:10:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-02 00:13:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,8 +22,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd) ![](/assets/new.png)  
 - [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
 - [2025-04-17-React-Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525928&idx=1&sn=3c623982cae25c3f0ecc711437910537&chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd)  
 - [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd)  
@@ -190,7 +191,6 @@
 - [2024-12-11-“应该禁止所有新项目使用-React！”微软资深工程师犀利-diss：“React-是行业标准”简直胡说！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525584&idx=1&sn=d283a381bf41a50900fed32022f90602&chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd)  
 - [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd)  
 - [2024-11-26-Chrome-被强制出售？谷歌或将抛弃-ChromeOS-全面转向-Android-系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525486&idx=1&sn=6e3e983ed6624a8c97cb10d5e15aa6de&chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd)  
-- [2024-11-20-80人小团队，限时任务！NYPL如何用Next.js打造世界级数字图书馆？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525470&idx=1&sn=c93183f60d0d825f52476ccf0bf09a31&chksm=f952d11dce25580b5f05ca5faf4e6565fa8df96006e8a1c62673de371f368f7912ec102f97a0#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,8 +202,8 @@
 </summary>
 
 
-- [2025-05-01-重大-API-来啦！以后前端网页可以读写本地的文件啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504036&idx=1&sn=1ff318791e7af1076645ed74b74f7ffe&chksm=ce45c535f9324c23e77647e70bae044be1cccb347b1762869dbbdd7647dd769a180cb7f17343#rd) ![](/assets/new.png)  
-- [2025-04-30-坑啊！前端倒计时有误差！让公司损失了几十万！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504019&idx=1&sn=b4490cc2654d077100553e6e39b6b35d&chksm=ce45c502f9324c149bf9866d9de1d9be99843bf68612a85bbe37eac5caa80b8f0ab29673a7d0#rd) ![](/assets/new.png)  
+- [2025-05-01-重大-API-来啦！以后前端网页可以读写本地的文件啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504036&idx=1&sn=1ff318791e7af1076645ed74b74f7ffe&chksm=ce45c535f9324c23e77647e70bae044be1cccb347b1762869dbbdd7647dd769a180cb7f17343#rd)  
+- [2025-04-30-坑啊！前端倒计时有误差！让公司损失了几十万！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504019&idx=1&sn=b4490cc2654d077100553e6e39b6b35d&chksm=ce45c502f9324c149bf9866d9de1d9be99843bf68612a85bbe37eac5caa80b8f0ab29673a7d0#rd)  
 - [2025-04-29-五一后准备跳槽的兄弟注意！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503946&idx=1&sn=c0dff077299823ab7a869e41597abbdd&chksm=ce45c5dbf9324ccd5ab62241ef70796d942995cba30cf438e3c6d93e73f77b7e23847a8a1bc2#rd)  
 - [2025-04-28-前端要怎么做B站那样的弹幕效果？非常有趣！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503936&idx=1&sn=1af2d428da7d41fc024fdc0c2f683cfa&chksm=ce45c5d1f9324cc746b2b3db8923dbd1893a376c7299f4570403d6af180182f93064e6f08f97#rd)  
 - [2025-04-27-又是字节前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503935&idx=1&sn=6cec40f9e0fbeac0eaa0b8410172d178&chksm=ce45c5aef9324cb8e3bd6fd28560e304d3e3dd4e29cb8b4a87927e5b24539ef7b0e4699129bb#rd)  
