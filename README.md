@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-02 02:14:10，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-03 00:12:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734) ![](/assets/new.png)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
@@ -97,7 +98,6 @@
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
-- [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -110,7 +110,7 @@
 
 
 - [2025-04-30-【第3501期】别再写一堆-if-else-了：用状态模式优雅管理状态行为](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276328&idx=1&sn=3e40e389c36aeb54169ba43574ae86c6&chksm=bcb2ab352a7385f3b8af349382a162831695733a6ee143e3c918ad48aa7003a1c58b6120069b&scene=0#rd)  
-- [2025-04-29-【第3500期】🤖-如何让-Cursor-AI-Agent始终遵守项目规范：使用自动规则生成技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276320&idx=1&sn=fc70089aa9062a3a9345bb40bb6aa399&chksm=bd489da48a3f14b2d632fc449e69d16768ee2ca286b0d3dff89e7fde727b5bc463cb8cf5082a#rd) ![](/assets/new.png)  
+- [2025-04-29-【第3500期】🤖-如何让-Cursor-AI-Agent始终遵守项目规范：使用自动规则生成技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276320&idx=1&sn=fc70089aa9062a3a9345bb40bb6aa399&chksm=bd489da48a3f14b2d632fc449e69d16768ee2ca286b0d3dff89e7fde727b5bc463cb8cf5082a#rd)  
 - [2025-04-28-【第3499期】代码评审的理念](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276310&idx=1&sn=2d099627c2f03c703e69e1305b8655f9&chksm=bcbb9ebd337988ea93778e727038dc55caddf6329424006424271da3fc289474ed7a8b837da1&scene=0#rd)  
 - [2025-04-27-【早阅】在-AI-时代避免技能退化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276301&idx=1&sn=f5459aee93d64df1ff04702bf0e54e1c&chksm=bce24e6119b14dc15c1f85d125a10660d5b0cf3091a6c1f401dfcedafeae9ecc5398a32dc9e9&scene=0#rd)  
 - [2025-04-25-【第3498期】常见的-React-库架构设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276284&idx=1&sn=119bcc426cc86b5cf879b6d6e5d460b8&chksm=bc6f7bf5e0ac86b7ac2fb415b649546e147bddab459e2602f96086e64fdf9632646640b1fe9e&scene=0#rd)  
@@ -264,10 +264,10 @@
 </summary>
 
 
-- [2025-04-30-原生-Observable-API-来了！能否取代每周下载-5200-万次的-RxJS？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526114&idx=2&sn=ab0298ed04c578687a7ffc3d4d0afaa0&chksm=f9926033cee5e925c2cc385bbb96d3d3b7bcade0b12a65cb2f6113dece09f79b2a07dcf3a632#rd) ![](/assets/new.png)  
-- [2025-04-30-5月前端行情将回暖！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526114&idx=1&sn=5941f334af80ac2b88985825ccb757ca&chksm=f9926033cee5e925fc38f6392ae14e79e8cb2be6538c72c791bc6a0b148f881b70c068a56cd8#rd) ![](/assets/new.png)  
-- [2025-04-29-我不允许你还不知道-vite-plugin-pwa](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526105&idx=2&sn=08cd3d6fc71d7703c300a2d644ab181c&chksm=f9926008cee5e91e6d8fa84f93c68e184f502158b89875238f4e66776ba39e5254dc5a4c0fa1#rd) ![](/assets/new.png)  
-- [2025-04-29-8年磨一剑，Koa-3.0-正式发布！看看带来了哪些新功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526105&idx=1&sn=20e51ff358c9db7e2f7975c96a79b0f0&chksm=f9926008cee5e91e76347d7e8d1e03f3ec30de3a28b2db13812ff438ea9ab4d3220f0fbe0c5e#rd) ![](/assets/new.png)  
+- [2025-04-30-原生-Observable-API-来了！能否取代每周下载-5200-万次的-RxJS？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526114&idx=2&sn=ab0298ed04c578687a7ffc3d4d0afaa0&chksm=f9926033cee5e925c2cc385bbb96d3d3b7bcade0b12a65cb2f6113dece09f79b2a07dcf3a632#rd)  
+- [2025-04-30-5月前端行情将回暖！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526114&idx=1&sn=5941f334af80ac2b88985825ccb757ca&chksm=f9926033cee5e925fc38f6392ae14e79e8cb2be6538c72c791bc6a0b148f881b70c068a56cd8#rd)  
+- [2025-04-29-我不允许你还不知道-vite-plugin-pwa](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526105&idx=2&sn=08cd3d6fc71d7703c300a2d644ab181c&chksm=f9926008cee5e91e6d8fa84f93c68e184f502158b89875238f4e66776ba39e5254dc5a4c0fa1#rd)  
+- [2025-04-29-8年磨一剑，Koa-3.0-正式发布！看看带来了哪些新功能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526105&idx=1&sn=20e51ff358c9db7e2f7975c96a79b0f0&chksm=f9926008cee5e91e76347d7e8d1e03f3ec30de3a28b2db13812ff438ea9ab4d3220f0fbe0c5e#rd)  
 - [2025-04-28-前端自适应方案全面解析：打造多端适配的现代网页](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526103&idx=1&sn=b8ffde7c50d2b304fe66f49013428fff&chksm=f9926006cee5e910cb97d9bdb9e0ea307f76cb817c75420ae7018eb948cca48e3cd2b7ea45c7#rd)  
 - [2025-04-28-程序员必备！一文讲透晋升答辩！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526103&idx=2&sn=fd1ac0699e623916ea37b557064d684a&chksm=f9926006cee5e9102dd7f8de32c83a4c94acf5c3703d2d2343096d168bc752a7f26360f4a3de#rd)  
 - [2025-04-26-用分层结构扩展你的-React-项目](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526097&idx=1&sn=eb4a0e79d3656ea53bf417f244961fb6&chksm=f9926000cee5e916980c926bb28a313c0f013a049318999aa6d7a21bafd488d65a1de9d7f5eb#rd)  

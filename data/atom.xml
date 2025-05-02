@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-01T18:14:10.738Z</updated>
+    <updated>2025-05-02T16:12:56.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Making V8 eager to compile your JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/734</id>
+        <link href="https://javascriptweekly.com/issues/734"/>
+        <updated>2025-05-02T00:00:00.000Z</updated>
+        <published>2025-05-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原生 Observable API 来了！能否取代每周下载 5200 万次的 RxJS？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526114&amp;idx=2&amp;sn=ab0298ed04c578687a7ffc3d4d0afaa0&amp;chksm=f9926033cee5e925c2cc385bbb96d3d3b7bcade0b12a65cb2f6113dece09f79b2a07dcf3a632#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd"/>
         <updated>2025-04-16T00:00:00.000Z</updated>
         <published>2025-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我重构了 23k star超火项目 的请求，因为写的太烂！！！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503681&amp;idx=1&amp;sn=c9d0a5122dd45e2f2f8f0138ff614674&amp;chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503681&amp;idx=1&amp;sn=c9d0a5122dd45e2f2f8f0138ff614674&amp;chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd"/>
-        <updated>2025-04-15T00:00:00.000Z</updated>
-        <published>2025-04-15T00:00:00.000Z</published>
     </entry>
 </feed>
