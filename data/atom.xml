@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-02T16:12:56.430Z</updated>
+    <updated>2025-05-04T20:11:27.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[2025了，Vue3 中做轮询的几种最新方式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504039&amp;idx=1&amp;sn=ae542c2426bcf021b323c77d11c6dce8&amp;chksm=ce45c536f9324c20f1a0a681388cc5166e8526e0590b71657b043096306dd00c0a65256466c7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504039&amp;idx=1&amp;sn=ae542c2426bcf021b323c77d11c6dce8&amp;chksm=ce45c536f9324c20f1a0a681388cc5166e8526e0590b71657b043096306dd00c0a65256466c7#rd"/>
+        <updated>2025-05-04T00:00:00.000Z</updated>
+        <published>2025-05-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2025 强势更新！前端开发效率更上一层楼！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504038&amp;idx=1&amp;sn=d76f36149a3ca0b385072114d74600ec&amp;chksm=ce45c537f9324c21a3f38bcd365dfd6a128454cbf327ba69e8c4b76c91b190c3106ecbecb1c0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504038&amp;idx=1&amp;sn=d76f36149a3ca0b385072114d74600ec&amp;chksm=ce45c537f9324c21a3f38bcd365dfd6a128454cbf327ba69e8c4b76c91b190c3106ecbecb1c0#rd"/>
+        <updated>2025-05-03T00:00:00.000Z</updated>
+        <published>2025-05-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue3 的 watch，性能真的很差！你们知道怎么优化吗？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504037&amp;idx=1&amp;sn=8f767573c9bf0f939cc1ff00cf1d67e4&amp;chksm=ce45c534f9324c228820a3a9c20a74768b60451985c61e3816613c24d37e2f78c0780b9ddf37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504037&amp;idx=1&amp;sn=8f767573c9bf0f939cc1ff00cf1d67e4&amp;chksm=ce45c534f9324c228820a3a9c20a74768b60451985c61e3816613c24d37e2f78c0780b9ddf37#rd"/>
+        <updated>2025-05-02T00:00:00.000Z</updated>
+        <published>2025-05-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making V8 eager to compile your JavaScript]]></title>
         <id>https://javascriptweekly.com/issues/734</id>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[ECMAScript 2025 来了，新功能一览！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517170&amp;idx=1&amp;sn=91e15067bc362373911f5d4838abf4e7&amp;chksm=eb07bb8bdc70329dedac6bd8a22871392ad3c02e544b8b011004532981327a5158e4ee2574b1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517170&amp;idx=1&amp;sn=91e15067bc362373911f5d4838abf4e7&amp;chksm=eb07bb8bdc70329dedac6bd8a22871392ad3c02e544b8b011004532981327a5158e4ee2574b1#rd"/>
-        <updated>2025-04-16T00:00:00.000Z</updated>
-        <published>2025-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[接私活神器！分享 8 个 丰富的 Nextjs 模板网站]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503794&amp;idx=1&amp;sn=30ef19ab5a97c186ad8919e26144316f&amp;chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503794&amp;idx=1&amp;sn=30ef19ab5a97c186ad8919e26144316f&amp;chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd"/>
-        <updated>2025-04-16T00:00:00.000Z</updated>
-        <published>2025-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind CSS都更新到4.0了，你还在抵触吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622335&amp;idx=1&amp;sn=ed09e644611e54666fd5f928414eb361&amp;chksm=80225c7eb755d568c68460b1effe7164db3278a652294f66358ab6665820cbb6c297c3301908#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622335&amp;idx=1&amp;sn=ed09e644611e54666fd5f928414eb361&amp;chksm=80225c7eb755d568c68460b1effe7164db3278a652294f66358ab6665820cbb6c297c3301908#rd"/>
-        <updated>2025-04-16T00:00:00.000Z</updated>
-        <published>2025-04-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3491期】用分层结构扩展你的 React 项目]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276221&amp;idx=1&amp;sn=4028680ce582b8bcb47dc577d97e214e&amp;chksm=bcdf9a328bf933031b9196849aa8944b4d2abbc5f0a285f6e898b8e18c73dde3d024ae29276c&amp;scene=0#rd"/>
         <updated>2025-04-16T00:00:00.000Z</updated>
         <published>2025-04-16T00:00:00.000Z</published>
     </entry>

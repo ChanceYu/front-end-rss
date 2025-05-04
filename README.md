@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-03 00:12:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-05 04:11:27，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734) ![](/assets/new.png)  
+- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-05-04-2025了，Vue3-中做轮询的几种最新方式](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504039&idx=1&sn=ae542c2426bcf021b323c77d11c6dce8&chksm=ce45c536f9324c20f1a0a681388cc5166e8526e0590b71657b043096306dd00c0a65256466c7#rd) ![](/assets/new.png)  
+- [2025-05-03-ECMAScript-2025-强势更新！前端开发效率更上一层楼！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504038&idx=1&sn=d76f36149a3ca0b385072114d74600ec&chksm=ce45c537f9324c21a3f38bcd365dfd6a128454cbf327ba69e8c4b76c91b190c3106ecbecb1c0#rd) ![](/assets/new.png)  
+- [2025-05-02-vue3-的-watch，性能真的很差！你们知道怎么优化吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504037&idx=1&sn=8f767573c9bf0f939cc1ff00cf1d67e4&chksm=ce45c534f9324c228820a3a9c20a74768b60451985c61e3816613c24d37e2f78c0780b9ddf37#rd) ![](/assets/new.png)  
 - [2025-05-01-重大-API-来啦！以后前端网页可以读写本地的文件啦！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504036&idx=1&sn=1ff318791e7af1076645ed74b74f7ffe&chksm=ce45c535f9324c23e77647e70bae044be1cccb347b1762869dbbdd7647dd769a180cb7f17343#rd)  
 - [2025-04-30-坑啊！前端倒计时有误差！让公司损失了几十万！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504019&idx=1&sn=b4490cc2654d077100553e6e39b6b35d&chksm=ce45c502f9324c149bf9866d9de1d9be99843bf68612a85bbe37eac5caa80b8f0ab29673a7d0#rd)  
 - [2025-04-29-五一后准备跳槽的兄弟注意！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503946&idx=1&sn=c0dff077299823ab7a869e41597abbdd&chksm=ce45c5dbf9324ccd5ab62241ef70796d942995cba30cf438e3c6d93e73f77b7e23847a8a1bc2#rd)  
@@ -219,9 +222,6 @@
 - [2025-04-17-面到了一个Vue3超厉害的前端人才。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503801&idx=1&sn=54496b6e97401380528edf3fdd817715&chksm=ce45da28f932533ead63837afd5b69f3c376331c8830cfbbface927f8ad5cd903d08703f390b#rd)  
 - [2025-04-16-接私活神器！分享-8-个-丰富的-Nextjs-模板网站](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503794&idx=1&sn=30ef19ab5a97c186ad8919e26144316f&chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd)  
 - [2025-04-15-我重构了-23k-star超火项目-的请求，因为写的太烂！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503681&idx=1&sn=c9d0a5122dd45e2f2f8f0138ff614674&chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd)  
-- [2025-04-14-Vue3-这两个方法，将掀起组件创建新狂潮！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503667&idx=1&sn=65a18d172c37b4ed94a04e73843cdd1d&chksm=ce45daa2f93253b4cc6fa1601edfb75d66373498bec07f437bd1ebdb58428bc37015aef8eaa6#rd)  
-- [2025-04-13-前端处理大数字的神库！一定要在项目中用上！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503664&idx=1&sn=b1c6b9893076cf0bf2f9023dadae9c23&chksm=ce45daa1f93253b76633b7a7f852e223b0a21066df2293c5a2fc418bc520ef2d9eb64cff6912#rd)  
-- [2025-04-12-Lodash-这-20-个方法，既高级又超级实用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503659&idx=1&sn=8a51370d5bc10dfcab1b80d67c6c9d2b&chksm=ce45dabaf93253ac90877ae212ea195052841c2f623495f87b54ad512b7837276bf355719415#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
