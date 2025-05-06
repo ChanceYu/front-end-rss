@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-06T12:20:48.319Z</updated>
+    <updated>2025-05-06T16:13:17.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js 24 released]]></title>
+        <id>https://nodeweekly.com/issues/577</id>
+        <link href="https://nodeweekly.com/issues/577"/>
+        <updated>2025-05-06T00:00:00.000Z</updated>
+        <published>2025-05-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025了，Vue3 中做轮询的几种最新方式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504039&amp;idx=1&amp;sn=ae542c2426bcf021b323c77d11c6dce8&amp;chksm=ce45c536f9324c20f1a0a681388cc5166e8526e0590b71657b043096306dd00c0a65256466c7#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525928&amp;idx=1&amp;sn=3c623982cae25c3f0ecc711437910537&amp;chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525928&amp;idx=1&amp;sn=3c623982cae25c3f0ecc711437910537&amp;chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd"/>
-        <updated>2025-04-17T00:00:00.000Z</updated>
-        <published>2025-04-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS view()：JavaScript 滚动动画的终结]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622341&amp;idx=1&amp;sn=5dc03b73d6864264f842bcd7c4865a10&amp;chksm=80225c04b755d512775269af81e8d6c9f8e29d99d6915eedd9900ec04a9191c0b595ac250804#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622341&amp;idx=1&amp;sn=5dc03b73d6864264f842bcd7c4865a10&amp;chksm=80225c04b755d512775269af81e8d6c9f8e29d99d6915eedd9900ec04a9191c0b595ac250804#rd"/>
         <updated>2025-04-17T00:00:00.000Z</updated>
         <published>2025-04-17T00:00:00.000Z</published>
     </entry>
