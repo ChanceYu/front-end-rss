@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-06T18:14:17.212Z</updated>
+    <updated>2025-05-07T16:14:13.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3503期】人人都需要一个 HTTP proxy 来 debug]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276343&amp;idx=1&amp;sn=13268c442ea860d3c73d02a930dd5878&amp;chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276343&amp;idx=1&amp;sn=13268c442ea860d3c73d02a930dd5878&amp;chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&amp;scene=0#rd"/>
+        <updated>2025-05-07T00:00:00.000Z</updated>
+        <published>2025-05-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个前端面试官的思考：当Promise遇上真实业务场景]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526124&amp;idx=1&amp;sn=7bf974d8a9443fa8e8549b1cb3a8f338&amp;chksm=f992603dcee5e92b987d89859930610c463b0bbe93d179f4da6c6c6636d4f98f3f6de98766f1#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276239&amp;idx=1&amp;sn=7ee11120c428a4ddc5a365eee0cc67ea&amp;chksm=bcf00982e70ce0dc26e3e794fa9583134dfa0ff8e2200d895b54636831124b989f082ccaf266&amp;scene=0#rd"/>
         <updated>2025-04-18T00:00:00.000Z</updated>
         <published>2025-04-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面到了一个Vue3超厉害的前端人才。。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503801&amp;idx=1&amp;sn=54496b6e97401380528edf3fdd817715&amp;chksm=ce45da28f932533ead63837afd5b69f3c376331c8830cfbbface927f8ad5cd903d08703f390b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503801&amp;idx=1&amp;sn=54496b6e97401380528edf3fdd817715&amp;chksm=ce45da28f932533ead63837afd5b69f3c376331c8830cfbbface927f8ad5cd903d08703f390b#rd"/>
-        <updated>2025-04-17T00:00:00.000Z</updated>
-        <published>2025-04-17T00:00:00.000Z</published>
     </entry>
 </feed>
