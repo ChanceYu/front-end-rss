@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-07T20:12:57.935Z</updated>
+    <updated>2025-05-07T22:12:00.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[一个前端面试官的思考：当Promise遇上真实业务场景]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526124&amp;idx=1&amp;sn=7bf974d8a9443fa8e8549b1cb3a8f338&amp;chksm=f992603dcee5e92b987d89859930610c463b0bbe93d179f4da6c6c6636d4f98f3f6de98766f1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526124&amp;idx=1&amp;sn=7bf974d8a9443fa8e8549b1cb3a8f338&amp;chksm=f992603dcee5e92b987d89859930610c463b0bbe93d179f4da6c6c6636d4f98f3f6de98766f1#rd"/>
+        <updated>2025-05-06T00:00:00.000Z</updated>
+        <published>2025-05-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首个移动端 AI 组件库正式发布！并宣布开源啦！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504042&amp;idx=1&amp;sn=b422e60996e7b3b9c0898155800a06d7&amp;chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504042&amp;idx=1&amp;sn=b422e60996e7b3b9c0898155800a06d7&amp;chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd"/>
         <updated>2025-05-06T00:00:00.000Z</updated>
         <published>2025-05-06T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276248&amp;idx=1&amp;sn=a6060794e9bd2f3ea799bba9ee8195c6&amp;chksm=bcfbe760c49b5149934b5fd51eec5653e92025891a561964ae4596bf34640d2c4ac86661e59d&amp;scene=0#rd"/>
         <updated>2025-04-21T00:00:00.000Z</updated>
         <published>2025-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nestjs 项目中，这 9 个装饰器是必不可少的！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503802&amp;idx=1&amp;sn=955eb3883094cebff159640ac71f98fa&amp;chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503802&amp;idx=1&amp;sn=955eb3883094cebff159640ac71f98fa&amp;chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd"/>
-        <updated>2025-04-18T00:00:00.000Z</updated>
-        <published>2025-04-18T00:00:00.000Z</published>
     </entry>
 </feed>

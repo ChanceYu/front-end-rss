@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-08 04:12:57，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-08 06:12:00，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-05-07-谷歌突发大招刷爆AI编程榜！网友：不用买Cursor了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=1&sn=fe606078a3515cf7f9c73bdeee2b1677&chksm=80225bfcb755d2ea9a94d486f47ed5cb6728f406bf3378be7ca21ff14ed05d3d765dda981113#rd) ![](/assets/new.png)  
-- [2025-05-07-面试官最想听到的Vue和React区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=2&sn=a83100bf137c03a6e4d8b2b91aa058ec&chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd) ![](/assets/new.png)  
+- [2025-05-07-谷歌突发大招刷爆AI编程榜！网友：不用买Cursor了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=1&sn=fe606078a3515cf7f9c73bdeee2b1677&chksm=80225bfcb755d2ea9a94d486f47ed5cb6728f406bf3378be7ca21ff14ed05d3d765dda981113#rd)  
+- [2025-05-07-面试官最想听到的Vue和React区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=2&sn=a83100bf137c03a6e4d8b2b91aa058ec&chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd)  
 - [2025-05-02-前端面试题：浏览器两个-tab-都是同域，如何在一个tab-向另一个-tab-发消息](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=2&sn=9d518f3c1f20357d2d1724fcfc932f42&chksm=80225bf1b755d2e7d6f9a09bf11f3f9b7a85db51498feefc1b1c7cf4a182c2bf45ea151ad8e3#rd)  
 - [2025-05-02-月薪3万35岁脑干出血程序员：ICU躺了28天，治疗花了约50万元，之前想要挣钱，现在想“好好爱自己”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=1&sn=ab6e36b88d07ebb39624db5740603678&chksm=80225bf1b755d2e70821626382e3b8518883d04620b4d7df67b8cba0e2b034a2c1387cdb5214#rd)  
 - [2025-04-25-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622438&idx=1&sn=4b1d94e78591d4b640a161bc5e4d4ff5&chksm=80225be7b755d2f1db9a437f09862fedfaff71fccdfa90e932b183042cc3f80ed01180461d37#rd)  
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-05-07-DeepSeek-锐评前端！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504051&idx=1&sn=9d43c748ffa10aa24fa7756159c29763&chksm=ce45c522f9324c344bc1b6c4113a7697e2c3987a906a826261fee2cf491441facacc262be8ab#rd) ![](/assets/new.png)  
+- [2025-05-06-首个移动端-AI-组件库正式发布！并宣布开源啦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504042&idx=1&sn=b422e60996e7b3b9c0898155800a06d7&chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd) ![](/assets/new.png)  
+- [2025-05-05-纯前端做图片压缩？请使用这个神库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504040&idx=1&sn=e6c99855281c19a472ea9b253a1bc73d&chksm=ce45c539f9324c2f0c6cf7a7a5fd080d51bc7ef7d9b0c295f9dde2d0bdea2ab1276f91d200ce#rd) ![](/assets/new.png)  
 - [2025-05-04-2025了，Vue3-中做轮询的几种最新方式](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504039&idx=1&sn=ae542c2426bcf021b323c77d11c6dce8&chksm=ce45c536f9324c20f1a0a681388cc5166e8526e0590b71657b043096306dd00c0a65256466c7#rd)  
 - [2025-05-03-ECMAScript-2025-强势更新！前端开发效率更上一层楼！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504038&idx=1&sn=d76f36149a3ca0b385072114d74600ec&chksm=ce45c537f9324c21a3f38bcd365dfd6a128454cbf327ba69e8c4b76c91b190c3106ecbecb1c0#rd)  
 - [2025-05-02-vue3-的-watch，性能真的很差！你们知道怎么优化吗？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504037&idx=1&sn=8f767573c9bf0f939cc1ff00cf1d67e4&chksm=ce45c534f9324c228820a3a9c20a74768b60451985c61e3816613c24d37e2f78c0780b9ddf37#rd)  
@@ -219,9 +222,6 @@
 - [2025-04-20-分享一些非常有趣的代码片段，你总能学到东西！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503806&idx=1&sn=d8f04adb8b8923dac2f78e8d70825ab0&chksm=ce45da2ff9325339b8828dcb92ba617593ddc4db7a479f6bb1543b6c9f4b73bc1a07e039172a#rd)  
 - [2025-04-19-前端页面中，如何让用户回到上次阅读的位置？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503803&idx=1&sn=68e13c13d7ba1865ec6cfb3d1825666b&chksm=ce45da2af932533c983fb90b0a5b414800298751369c6c220d145daf66cc31d40e57ebe34138#rd)  
 - [2025-04-18-Nestjs-项目中，这-9-个装饰器是必不可少的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503802&idx=1&sn=955eb3883094cebff159640ac71f98fa&chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd)  
-- [2025-04-17-面到了一个Vue3超厉害的前端人才。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503801&idx=1&sn=54496b6e97401380528edf3fdd817715&chksm=ce45da28f932533ead63837afd5b69f3c376331c8830cfbbface927f8ad5cd903d08703f390b#rd)  
-- [2025-04-16-接私活神器！分享-8-个-丰富的-Nextjs-模板网站](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503794&idx=1&sn=30ef19ab5a97c186ad8919e26144316f&chksm=ce45da23f93253354d9d1c904a90ba205c72ffe40d553fdd437f59e74fd7d908471501b85dfd#rd)  
-- [2025-04-15-我重构了-23k-star超火项目-的请求，因为写的太烂！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503681&idx=1&sn=c9d0a5122dd45e2f2f8f0138ff614674&chksm=ce45dad0f93253c6c62004515788628d90fa6062079e83e9d7a56084aeb07a7d4b39457803a0#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
