@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-07T16:14:13.872Z</updated>
+    <updated>2025-05-07T20:12:57.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面试官最想听到的Vue和React区别]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622461&amp;idx=2&amp;sn=a83100bf137c03a6e4d8b2b91aa058ec&amp;chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622461&amp;idx=2&amp;sn=a83100bf137c03a6e4d8b2b91aa058ec&amp;chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd"/>
+        <updated>2025-05-07T00:00:00.000Z</updated>
+        <published>2025-05-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3503期】人人都需要一个 HTTP proxy 来 debug]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276343&amp;idx=1&amp;sn=13268c442ea860d3c73d02a930dd5878&amp;chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Nestjs 项目中，这 9 个装饰器是必不可少的！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503802&amp;idx=1&amp;sn=955eb3883094cebff159640ac71f98fa&amp;chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503802&amp;idx=1&amp;sn=955eb3883094cebff159640ac71f98fa&amp;chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd"/>
-        <updated>2025-04-18T00:00:00.000Z</updated>
-        <published>2025-04-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3493期】{transitions} = f(state)]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276239&amp;idx=1&amp;sn=7ee11120c428a4ddc5a365eee0cc67ea&amp;chksm=bcf00982e70ce0dc26e3e794fa9583134dfa0ff8e2200d895b54636831124b989f082ccaf266&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276239&amp;idx=1&amp;sn=7ee11120c428a4ddc5a365eee0cc67ea&amp;chksm=bcf00982e70ce0dc26e3e794fa9583134dfa0ff8e2200d895b54636831124b989f082ccaf266&amp;scene=0#rd"/>
         <updated>2025-04-18T00:00:00.000Z</updated>
         <published>2025-04-18T00:00:00.000Z</published>
     </entry>
