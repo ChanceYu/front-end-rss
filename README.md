@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-09 00:13:37，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-09 02:15:14，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-05-08-【图书】认知跃迁：CTO写给程序员的26节成长课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=2&sn=da17799fff6b6356d7ea7d31ddeeaf2a&chksm=bce0cb84db1feaa053faa758cc5dbe5d6ee82f8e71cf8191a352ad5f16ebf998f78dbcf980cb&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-08-【第3504期】清理已失效的分支](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bc669dd009605d8e0db1bcf03e65a1331ad9aceb9d030df477b34713bf9d1a0870b423acf30f&scene=0#rd) ![](/assets/new.png)  
+- [2025-05-08-【图书】认知跃迁：CTO写给程序员的26节成长课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=2&sn=da17799fff6b6356d7ea7d31ddeeaf2a&chksm=bce0cb84db1feaa053faa758cc5dbe5d6ee82f8e71cf8191a352ad5f16ebf998f78dbcf980cb&scene=0#rd)  
+- [2025-05-08-【第3504期】清理已失效的分支](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bc669dd009605d8e0db1bcf03e65a1331ad9aceb9d030df477b34713bf9d1a0870b423acf30f&scene=0#rd)  
 - [2025-05-07-【第3503期】人人都需要一个-HTTP-proxy-来-debug](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=1&sn=13268c442ea860d3c73d02a930dd5878&chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&scene=0#rd)  
 - [2025-05-07-【图书】DeepSeek快速上手：高效实用的AI玩法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=2&sn=3619c241982112cbebfad2045b510e80&chksm=bcabaeaa3bcc608de7f38624a32776a3eacffd3d4ea97b1f624d05043e99f6b791fc7f16c7be&scene=0#rd)  
 - [2025-05-06-【第3502期】如何编写用户友好的错误提示？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276335&idx=1&sn=9caa7f7932dc6b0e89e12c902ffbb54e&chksm=bc596340dfb43a7db8e6eadd7edef8fb94b176911e6a24e4cc24a74dc2adc4e57d3f5d9f4c53&scene=0#rd)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-05-07-月薪已经炒到6W？强烈建议大家刷一下这个新领域！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517205&idx=1&sn=ea5a9d48ddecffdd843988b99c1da4ca&chksm=eb07bc6cdc70357aa75a5b3d23b0239e49e006e5be196e00875b1c8f827478039742124f844f#rd) ![](/assets/new.png)  
+- [2025-05-06-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517190&idx=1&sn=b8d5a1394157568fef2cb011b17fcec2&chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd) ![](/assets/new.png)  
 - [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd)  
 - [2025-04-27-Vite模块联邦vite-plugin-federation实现去中心化微前端后台管理系统架构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517186&idx=1&sn=d73f476511e1106f5c881dcf4a3977bb&chksm=eb07bc7bdc70356d1e914b2163e0444f2aa4013c29a22a9c49b36f2d0e8c6e0dabc89b9a7ac5#rd)  
 - [2025-04-25-连续霸榜多年，前端构建工具王座即将易主！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517184&idx=1&sn=d67a12ec5352213d40f5fdc0edeea805&chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd)  
@@ -437,8 +439,6 @@
 - [2025-03-24-尤雨溪连发两条推特墙裂推荐的这些库你一定要知道!](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517136&idx=1&sn=84228b39ebf25b114bfa0d38700a0610&chksm=eb07bba9dc7032bf0ea678d6ab51095d0416eee1f24ba08ce096e5a7df6193307ea67b0fb1b5#rd)  
 - [2025-03-20-Vite成为首个接入AI的构建工具，前端开发效率提升200%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517134&idx=1&sn=40dc62b61c0c40e5607b7e20997a6163&chksm=eb07bbb7dc7032a1478c73b83c538d7049b7cbdd727bb5abb752052b01657e93cca06b4d2d3c#rd)  
 - [2025-03-19-用二进制思维重构前端权限系统](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517130&idx=1&sn=dacd2335971895edf9d987538afdca15&chksm=eb07bbb3dc7032a5a740ec238421eb4a938a70d9cba7ca66439dfc90802b42f9ea7af502b6d1#rd)  
-- [2025-03-13-微软宣布性能提升10倍的-TypeScript-来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517125&idx=1&sn=11821db18c6d1d32bb2eafd4466e9416&chksm=eb07bbbcdc7032aa794d9beaf5b228033abed47019a27bb0b5a072381bb1d3619954c6879d2f#rd)  
-- [2025-03-11-Vite-Plus-要来了?!-尤雨溪最新演讲：围绕-Vite-的前端统一工具链](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517123&idx=1&sn=737ea715e31055dcd2b1b16fb44dfe42&chksm=eb07bbbadc7032ac0125c0142a1b44ff41647258b8310746840f9e17b58e3c1b413e272256bd#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

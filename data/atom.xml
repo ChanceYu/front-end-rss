@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-08T16:13:38.279Z</updated>
+    <updated>2025-05-08T18:15:15.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -27,6 +27,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276343&amp;idx=1&amp;sn=13268c442ea860d3c73d02a930dd5878&amp;chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&amp;scene=0#rd"/>
         <updated>2025-05-07T00:00:00.000Z</updated>
         <published>2025-05-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：让 AI 更好的理解 Vue、Vite]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517190&amp;idx=1&amp;sn=b8d5a1394157568fef2cb011b17fcec2&amp;chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517190&amp;idx=1&amp;sn=b8d5a1394157568fef2cb011b17fcec2&amp;chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd"/>
+        <updated>2025-05-06T00:00:00.000Z</updated>
+        <published>2025-05-06T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个前端面试官的思考：当Promise遇上真实业务场景]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端组件解耦利器：发布订阅模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622401&amp;idx=2&amp;sn=3ea96a50e5c6a6ea144430ee076bc336&amp;chksm=80225bc0b755d2d690fcd11d8ba9748362d10c00950898b9a5f571d733660946276fdf03f03b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622401&amp;idx=2&amp;sn=3ea96a50e5c6a6ea144430ee076bc336&amp;chksm=80225bc0b755d2d690fcd11d8ba9748362d10c00950898b9a5f571d733660946276fdf03f03b#rd"/>
-        <updated>2025-04-21T00:00:00.000Z</updated>
-        <published>2025-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3494期】使用 curl 编写 HTTP 请求的艺术]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276248&amp;idx=1&amp;sn=a6060794e9bd2f3ea799bba9ee8195c6&amp;chksm=bcfbe760c49b5149934b5fd51eec5653e92025891a561964ae4596bf34640d2c4ac86661e59d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276248&amp;idx=1&amp;sn=a6060794e9bd2f3ea799bba9ee8195c6&amp;chksm=bcfbe760c49b5149934b5fd51eec5653e92025891a561964ae4596bf34640d2c4ac86661e59d&amp;scene=0#rd"/>
         <updated>2025-04-21T00:00:00.000Z</updated>
         <published>2025-04-21T00:00:00.000Z</published>
     </entry>
