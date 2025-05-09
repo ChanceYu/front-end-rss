@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-09T02:44:06.093Z</updated>
+    <updated>2025-05-09T16:13:01.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Big Node, VS Code, and Mantine updates]]></title>
+        <id>https://javascriptweekly.com/issues/735</id>
+        <link href="https://javascriptweekly.com/issues/735"/>
+        <updated>2025-05-09T00:00:00.000Z</updated>
+        <published>2025-05-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试官最想听到的Vue和React区别]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622461&amp;idx=2&amp;sn=a83100bf137c03a6e4d8b2b91aa058ec&amp;chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3 未来响应式的建设，将依赖于这个工具！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503808&amp;idx=1&amp;sn=93a6a4f436e8ce9458f64927d1113631&amp;chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503808&amp;idx=1&amp;sn=93a6a4f436e8ce9458f64927d1113631&amp;chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd"/>
-        <updated>2025-04-21T00:00:00.000Z</updated>
-        <published>2025-04-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端组件解耦利器：发布订阅模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622401&amp;idx=2&amp;sn=3ea96a50e5c6a6ea144430ee076bc336&amp;chksm=80225bc0b755d2d690fcd11d8ba9748362d10c00950898b9a5f571d733660946276fdf03f03b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622401&amp;idx=2&amp;sn=3ea96a50e5c6a6ea144430ee076bc336&amp;chksm=80225bc0b755d2d690fcd11d8ba9748362d10c00950898b9a5f571d733660946276fdf03f03b#rd"/>
         <updated>2025-04-21T00:00:00.000Z</updated>
         <published>2025-04-21T00:00:00.000Z</published>
     </entry>
