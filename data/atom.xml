@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-10T18:13:39.262Z</updated>
+    <updated>2025-05-10T20:11:08.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Vue动态弹窗（Dialog）新境界：告别繁琐，拥抱优雅！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517209&amp;idx=1&amp;sn=9f10b711f19467ee69309a1941246952&amp;chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517209&amp;idx=1&amp;sn=9f10b711f19467ee69309a1941246952&amp;chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd"/>
+        <updated>2025-05-09T00:00:00.000Z</updated>
+        <published>2025-05-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Big Node, VS Code, and Mantine updates]]></title>
         <id>https://javascriptweekly.com/issues/735</id>
         <link href="https://javascriptweekly.com/issues/735"/>
         <updated>2025-05-09T00:00:00.000Z</updated>
         <published>2025-05-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 官方宣布淘汰 Axios，拥抱新趋势]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517207&amp;idx=1&amp;sn=8d78b15933170af176b46481e728c41f&amp;chksm=eb07bc6edc70357832f85ad8af2f43073a9e37f97cf293f76647767d9bee09304c4293f6adb9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517207&amp;idx=1&amp;sn=8d78b15933170af176b46481e728c41f&amp;chksm=eb07bc6edc70357832f85ad8af2f43073a9e37f97cf293f76647767d9bee09304c4293f6adb9#rd"/>
+        <updated>2025-05-08T00:00:00.000Z</updated>
+        <published>2025-05-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[人人都需要一个 HTTP proxy 来 debug]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276264&amp;idx=1&amp;sn=6f7196518b678e7b77d61ef626dbb982&amp;chksm=bc975b7d9916a8610dba119eef7fbe6a99237af9499cc9a33cb19bfa7be3e7439eb372c9bc9b&amp;scene=0#rd"/>
         <updated>2025-04-23T00:00:00.000Z</updated>
         <published>2025-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用CSS给标题添加书名号并超出省略]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490176&amp;idx=1&amp;sn=15070209f0d63e249dce32e355e58d7d&amp;chksm=97c6794fa0b1f0598cea456be394ae9af12f566daf7360525066304ca6b1c5ad7c12a9de7c91#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490176&amp;idx=1&amp;sn=15070209f0d63e249dce32e355e58d7d&amp;chksm=97c6794fa0b1f0598cea456be394ae9af12f566daf7360525066304ca6b1c5ad7c12a9de7c91#rd"/>
-        <updated>2025-04-22T00:00:00.000Z</updated>
-        <published>2025-04-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue核心成员打造的可视化排查指南来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517172&amp;idx=1&amp;sn=93c7cec0c940e9ebd446d5838e30be84&amp;chksm=eb07bb8ddc70329b4f1ae5268ba1cdbd309cef38a5b493e0c7be90099a3c97577333e16c7b82#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517172&amp;idx=1&amp;sn=93c7cec0c940e9ebd446d5838e30be84&amp;chksm=eb07bb8ddc70329b4f1ae5268ba1cdbd309cef38a5b493e0c7be90099a3c97577333e16c7b82#rd"/>
-        <updated>2025-04-22T00:00:00.000Z</updated>
-        <published>2025-04-22T00:00:00.000Z</published>
     </entry>
 </feed>
