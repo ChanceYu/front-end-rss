@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-10 16:12:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-10 20:16:38，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,8 +22,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd) ![](/assets/new.png)  
+- [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd)  
 - [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
 - [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
 - [2025-04-17-React-Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525928&idx=1&sn=3c623982cae25c3f0ecc711437910537&chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd)  
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-05-10-漫谈：日本IT人才紧缺50w人，而国内却裁员内卷？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504284&idx=1&sn=4d9b6e6fd0456d425c538e24c15e7ba5&chksm=ce45c40df9324d1b7128112a56fcaae4cb46cea8d50a548566997ec142b802f4994ad66272b2#rd) ![](/assets/new.png)  
+- [2025-05-09-狂欢！Cursor-正式宣布免费使用一年【附教程】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504243&idx=1&sn=1ab6b59088cde4a93a1994f905e14432&chksm=ce45c4e2f9324df4df6490525003002db994eb7cd39d96dd28260ef01045c9b73a197f5a8de8#rd) ![](/assets/new.png)  
+- [2025-05-08-Vue3-官方宣布淘汰-Axios，拥抱新趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504205&idx=1&sn=4df65c1940eaa5e216ea8b68bd9506d7&chksm=ce45c4dcf9324dca6b58ae7f8b9ee8967d0b55b013df247c89df62305757f3d152350ae02169#rd) ![](/assets/new.png)  
 - [2025-05-07-DeepSeek-锐评前端！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504051&idx=1&sn=9d43c748ffa10aa24fa7756159c29763&chksm=ce45c522f9324c344bc1b6c4113a7697e2c3987a906a826261fee2cf491441facacc262be8ab#rd)  
 - [2025-05-06-首个移动端-AI-组件库正式发布！并宣布开源啦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504042&idx=1&sn=b422e60996e7b3b9c0898155800a06d7&chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd)  
 - [2025-05-05-纯前端做图片压缩？请使用这个神库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504040&idx=1&sn=e6c99855281c19a472ea9b253a1bc73d&chksm=ce45c539f9324c2f0c6cf7a7a5fd080d51bc7ef7d9b0c295f9dde2d0bdea2ab1276f91d200ce#rd)  
@@ -219,9 +222,6 @@
 - [2025-04-23-try-catch-在实际开发场景中的-5-大用处，用起来！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503846&idx=1&sn=8de8035f7c0c00bd8a1d7762f19747d1&chksm=ce45da77f9325361effd942f70defc1216872b57ccc7eb495c3fb68320e555e7851c93246670#rd)  
 - [2025-04-22-讲解前端中-File、Blob、ArrayBuffer、Base64、DataURL](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503809&idx=1&sn=10130e93e1f1e37f47d8e8a0a9e71bab&chksm=ce45da50f9325346753e6b787c30c3c24d12c32e138a9dc28868e7f573ba1b7c1b29dcb0a67e#rd)  
 - [2025-04-21-Vue3-未来响应式的建设，将依赖于这个工具！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503808&idx=1&sn=93a6a4f436e8ce9458f64927d1113631&chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd)  
-- [2025-04-20-分享一些非常有趣的代码片段，你总能学到东西！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503806&idx=1&sn=d8f04adb8b8923dac2f78e8d70825ab0&chksm=ce45da2ff9325339b8828dcb92ba617593ddc4db7a479f6bb1543b6c9f4b73bc1a07e039172a#rd)  
-- [2025-04-19-前端页面中，如何让用户回到上次阅读的位置？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503803&idx=1&sn=68e13c13d7ba1865ec6cfb3d1825666b&chksm=ce45da2af932533c983fb90b0a5b414800298751369c6c220d145daf66cc31d40e57ebe34138#rd)  
-- [2025-04-18-Nestjs-项目中，这-9-个装饰器是必不可少的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503802&idx=1&sn=955eb3883094cebff159640ac71f98fa&chksm=ce45da2bf932533dfc5da9b99451423cc754358a4b85afb86922996f43809cf821f339ac3677#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

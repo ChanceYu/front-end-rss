@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-10T08:12:57.958Z</updated>
+    <updated>2025-05-10T12:16:39.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="https://javascriptweekly.com/issues/735"/>
         <updated>2025-05-09T00:00:00.000Z</updated>
         <published>2025-05-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 官方宣布淘汰 Axios，拥抱新趋势]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504205&amp;idx=1&amp;sn=4df65c1940eaa5e216ea8b68bd9506d7&amp;chksm=ce45c4dcf9324dca6b58ae7f8b9ee8967d0b55b013df247c89df62305757f3d152350ae02169#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504205&amp;idx=1&amp;sn=4df65c1940eaa5e216ea8b68bd9506d7&amp;chksm=ce45c4dcf9324dca6b58ae7f8b9ee8967d0b55b013df247c89df62305757f3d152350ae02169#rd"/>
+        <updated>2025-05-08T00:00:00.000Z</updated>
+        <published>2025-05-08T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[面试官最想听到的Vue和React区别]]></title>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/575"/>
         <updated>2025-04-22T00:00:00.000Z</updated>
         <published>2025-04-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 未来响应式的建设，将依赖于这个工具！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503808&amp;idx=1&amp;sn=93a6a4f436e8ce9458f64927d1113631&amp;chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503808&amp;idx=1&amp;sn=93a6a4f436e8ce9458f64927d1113631&amp;chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd"/>
-        <updated>2025-04-21T00:00:00.000Z</updated>
-        <published>2025-04-21T00:00:00.000Z</published>
     </entry>
 </feed>
