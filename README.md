@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-10 00:13:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-10 16:12:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735) ![](/assets/new.png)  
+- [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
 - [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd) ![](/assets/new.png)  
 - [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
 - [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
 - [2025-04-17-React-Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525928&idx=1&sn=3c623982cae25c3f0ecc711437910537&chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd)  
@@ -190,7 +191,6 @@
 - [2024-12-20-快手前端动效大揭秘：告别低效，vision平台来袭！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525635&idx=1&sn=a6ab7363924bd0948d2c6563f3ed85a4&chksm=f952d040ce255956a40bd96db15723302da0f01853258ec23c7986601fac47b9bbf521a80103#rd)  
 - [2024-12-11-“应该禁止所有新项目使用-React！”微软资深工程师犀利-diss：“React-是行业标准”简直胡说！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525584&idx=1&sn=d283a381bf41a50900fed32022f90602&chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd)  
 - [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd)  
-- [2024-11-26-Chrome-被强制出售？谷歌或将抛弃-ChromeOS-全面转向-Android-系统](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525486&idx=1&sn=6e3e983ed6624a8c97cb10d5e15aa6de&chksm=f952d12dce25583b6f36a4a971713d8b539d963bbccb8e763557c91d49e8bb9bbb610c87f090#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
