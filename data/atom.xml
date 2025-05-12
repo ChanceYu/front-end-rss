@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-10T20:11:08.799Z</updated>
+    <updated>2025-05-12T16:13:47.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS animation-composition可以让动画效果累加]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/"/>
+        <updated>2025-05-12T00:00:00.000Z</updated>
+        <published>2025-05-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue动态弹窗（Dialog）新境界：告别繁琐，拥抱优雅！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517209&amp;idx=1&amp;sn=9f10b711f19467ee69309a1941246952&amp;chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[突发！谷歌被逼卖身，OpenAI趁机收购Chrome？十亿搜索市场大洗牌]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622428&amp;idx=1&amp;sn=76a2b7d4dd1f62f76b8424e3e5441f24&amp;chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622428&amp;idx=1&amp;sn=76a2b7d4dd1f62f76b8424e3e5441f24&amp;chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd"/>
-        <updated>2025-04-23T00:00:00.000Z</updated>
-        <published>2025-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3496期】2025 年提升性能的最佳 CSS 单行代码：contain-intrinsic-size]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276264&amp;idx=1&amp;sn=6f7196518b678e7b77d61ef626dbb982&amp;chksm=bc975b7d9916a8610dba119eef7fbe6a99237af9499cc9a33cb19bfa7be3e7439eb372c9bc9b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276264&amp;idx=1&amp;sn=6f7196518b678e7b77d61ef626dbb982&amp;chksm=bc975b7d9916a8610dba119eef7fbe6a99237af9499cc9a33cb19bfa7be3e7439eb372c9bc9b&amp;scene=0#rd"/>
         <updated>2025-04-23T00:00:00.000Z</updated>
         <published>2025-04-23T00:00:00.000Z</published>
     </entry>
