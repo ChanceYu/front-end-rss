@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-13 00:13:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-13 04:12:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,11 +29,11 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-05-08-豆包超能创意，开“外挂”了？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502503&idx=1&sn=bc3c79d4cfa050ae5b543ab31790f8b8&chksm=c2b30b58f5c4824e9c0a63ecbcdc7c9af90e61c0ba7a0761e4bf8c0edcbfbb0570bab64ef793#rd) ![](/assets/new.png)  
 - [2025-05-04-NotebookLM终于支持中文，太6了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502480&idx=1&sn=9438cad881f0b7d534a9bbabcc3b204b&chksm=c2b30b6ff5c4827973971ab8fe7b4bc755b26a39785d1c5a07c6ee51ef926ea30e8b2bfd4f0d#rd)  
 - [2025-05-03-Qwen3把自己打爆了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502456&idx=1&sn=3930afd8606aa3da14facb44121e3596&chksm=c2b30b87f5c48291f16fc5a71fe37db028efe24743c5c02be312cacb74ebb362f4b267a8d2dd#rd)  
 - [2025-04-28-没了Gamma，我都不会做PPT了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502435&idx=1&sn=0d0b054bb8a33f5dec16573c1a785172&chksm=c2b30b9cf5c4828a5303573a93b143b13fb128996849583ac55618abd075bc7297bddcbefc17#rd)  
@@ -401,12 +402,11 @@
 - [2025-04-10-即梦3.0全面测评，AI文生图的天花板又被击穿了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502184&idx=1&sn=92ecf05ca4d364f3a9171708337f946d&chksm=c2b30897f5c481818f06005172e2def22140a94b828e8152569364707e575b9d319ed2a845e6#rd)  
 - [2025-04-09-90%的NestJS开发者都踩过的坑：你的模块注册姿势对吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525922&idx=1&sn=4614260a9af244d83ef1ddd72e488c42&chksm=f99260f3cee5e9e526fe6cad3dfdd29ef9db334954bb7263256f6e880d24abd43bafd3039e29#rd)  
 - [2025-04-08-因网速太慢我把20M+的字体压缩到了几KB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525888&idx=2&sn=66e5fab70d2eb78a505e41e162fea4bc&chksm=f99260d1cee5e9c7b87cea175287031b761c3623017ec69d431b1c56a10cf1bb7da3ac1573c6#rd)  
-- [2025-04-07-Figma-MCP-Server-介绍：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd)  
 - [2025-04-07-错怪react的半年-聊聊keepalive](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=2&sn=3030a82d69091057de6ac470f5ae0131&chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd)  
+- [2025-04-07-Figma-MCP-Server-介绍：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd)  
 - [2025-04-06-Midjourney-V7一手实测，生图王者归来了吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502125&idx=1&sn=168caaad589c7b9317594d6346f1eefe&chksm=c2b308d2f5c481c482626d61466dcfea3fcf6d7703c9ae6a92acfa1679533c77cd6b9f15f634#rd)  
-- [2025-04-03-TypeScript-也能开发AI应用了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=1&sn=18da91de56596a3b2b3a3d151562b333&chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd)  
 - [2025-04-03-如何检查一个对象是否是-Proxy？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=2&sn=8ef79be84b629eaa9a6c4086d0110c66&chksm=f9926337cee5ea215a37f24363d77ef8e61eb66a551bafe8bdec564b3bf4c91b0ec180a91af8#rd)  
-- [2025-04-02-“内聚编程”的兴起——复制粘贴或许是前端的未来](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525856&idx=1&sn=b3d7facd1800f5b67f286c2176a54747&chksm=f9926331cee5ea270bb3bb9aea4f9acdb3190c57bd8ae6d829834fa06e95be41682769183550#rd)  
+- [2025-04-03-TypeScript-也能开发AI应用了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525862&idx=1&sn=18da91de56596a3b2b3a3d151562b333&chksm=f9926337cee5ea214f231fe04f942eaf1c26d6f21af78f66753d377425bc495f1317a1ce28df#rd)  
 - [2025-04-02-提效实战！如何用Claude-3.7-实现设计+开发一体化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525856&idx=2&sn=12a47bbea352120b7e4f16298342dd9a&chksm=f9926331cee5ea27ff80b31bb4b06b3c4816b429809ee318a5128478a90d93e72f1b86738220#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/) ![](/assets/new.png)  
+- [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)  
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
