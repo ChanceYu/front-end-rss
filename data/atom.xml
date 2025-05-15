@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-13T14:11:27.144Z</updated>
+    <updated>2025-05-15T18:15:53.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3509期】Mobile Bridge：让 WebView 拥有原生体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276422&amp;idx=1&amp;sn=6b919eca445170b1d7745be3e6891912&amp;chksm=bceb6488576a7d26f7438c9328c7563bf9c3fada01e71b86ef6a36c983ee8e703bdffbf41aa2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276422&amp;idx=1&amp;sn=6b919eca445170b1d7745be3e6891912&amp;chksm=bceb6488576a7d26f7438c9328c7563bf9c3fada01e71b86ef6a36c983ee8e703bdffbf41aa2&amp;scene=0#rd"/>
+        <updated>2025-05-15T00:00:00.000Z</updated>
+        <published>2025-05-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3508期】FunProxy - 使用 Rust 构建跨平台全链路测试抓包代理工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276415&amp;idx=1&amp;sn=cb9e09054ffb312debb0041744653b0c&amp;chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276415&amp;idx=1&amp;sn=cb9e09054ffb312debb0041744653b0c&amp;chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&amp;scene=0#rd"/>
+        <updated>2025-05-14T00:00:00.000Z</updated>
+        <published>2025-05-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS animation-composition可以让动画效果累加]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[new Image() 预加载 为什么比 直接加载要好？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526057&amp;idx=2&amp;sn=6a7bbd523a2748c4e94f2097ca40bbab&amp;chksm=f9926078cee5e96e127910368d1534479fa8781528bda8cb5ae65822eb2a16e8cb968c03e802#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526057&amp;idx=2&amp;sn=6a7bbd523a2748c4e94f2097ca40bbab&amp;chksm=f9926078cee5e96e127910368d1534479fa8781528bda8cb5ae65822eb2a16e8cb968c03e802#rd"/>
-        <updated>2025-04-23T00:00:00.000Z</updated>
-        <published>2025-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[try catch 在实际开发场景中的 5 大用处，用起来！！！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503846&amp;idx=1&amp;sn=8de8035f7c0c00bd8a1d7762f19747d1&amp;chksm=ce45da77f9325361effd942f70defc1216872b57ccc7eb495c3fb68320e555e7851c93246670#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247503846&amp;idx=1&amp;sn=8de8035f7c0c00bd8a1d7762f19747d1&amp;chksm=ce45da77f9325361effd942f70defc1216872b57ccc7eb495c3fb68320e555e7851c93246670#rd"/>
-        <updated>2025-04-23T00:00:00.000Z</updated>
-        <published>2025-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发！谷歌被逼卖身，OpenAI趁机收购Chrome？十亿搜索市场大洗牌]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622428&amp;idx=1&amp;sn=76a2b7d4dd1f62f76b8424e3e5441f24&amp;chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622428&amp;idx=1&amp;sn=76a2b7d4dd1f62f76b8424e3e5441f24&amp;chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd"/>
         <updated>2025-04-23T00:00:00.000Z</updated>
         <published>2025-04-23T00:00:00.000Z</published>
     </entry>
