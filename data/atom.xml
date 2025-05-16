@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-15T18:15:53.755Z</updated>
+    <updated>2025-05-16T12:21:45.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3510期】Cursor 内部工作原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd"/>
+        <updated>2025-05-16T00:00:00.000Z</updated>
+        <published>2025-05-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【活动】VueConf 2025 开始报名了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd"/>
+        <updated>2025-05-16T00:00:00.000Z</updated>
+        <published>2025-05-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3509期】Mobile Bridge：让 WebView 拥有原生体验]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276422&amp;idx=1&amp;sn=6b919eca445170b1d7745be3e6891912&amp;chksm=bceb6488576a7d26f7438c9328c7563bf9c3fada01e71b86ef6a36c983ee8e703bdffbf41aa2&amp;scene=0#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276269&amp;idx=1&amp;sn=013390327013622af87b6cec477e32bf&amp;chksm=bc6802cb8a2c090c8588d65917a764f3cbc070cb03f04918c93debd8329dafa7a260d7708a5e&amp;scene=0#rd"/>
         <updated>2025-04-24T00:00:00.000Z</updated>
         <published>2025-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517180&amp;idx=1&amp;sn=51f3d5ce0f623616e0d2a3270a3d14e0&amp;chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517180&amp;idx=1&amp;sn=51f3d5ce0f623616e0d2a3270a3d14e0&amp;chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd"/>
-        <updated>2025-04-23T00:00:00.000Z</updated>
-        <published>2025-04-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new Image() 预加载 为什么比 直接加载要好？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526057&amp;idx=2&amp;sn=6a7bbd523a2748c4e94f2097ca40bbab&amp;chksm=f9926078cee5e96e127910368d1534479fa8781528bda8cb5ae65822eb2a16e8cb968c03e802#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526057&amp;idx=2&amp;sn=6a7bbd523a2748c4e94f2097ca40bbab&amp;chksm=f9926078cee5e96e127910368d1534479fa8781528bda8cb5ae65822eb2a16e8cb968c03e802#rd"/>
-        <updated>2025-04-23T00:00:00.000Z</updated>
-        <published>2025-04-23T00:00:00.000Z</published>
     </entry>
 </feed>
