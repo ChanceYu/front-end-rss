@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-16T12:21:45.069Z</updated>
+    <updated>2025-05-16T16:12:46.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -36,11 +36,25 @@
         <published>2025-05-15T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[阿里内部 “Vue＋React” 实战笔记，正式开源了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504332&amp;idx=1&amp;sn=9acaf1099cfe3cd80669eed93d625b72&amp;chksm=ce45c45df9324d4b9f59b579d9de457c1bc3427d859bee6994b11fbad0146159bc727330a00e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504332&amp;idx=1&amp;sn=9acaf1099cfe3cd80669eed93d625b72&amp;chksm=ce45c45df9324d4b9f59b579d9de457c1bc3427d859bee6994b11fbad0146159bc727330a00e#rd"/>
+        <updated>2025-05-14T00:00:00.000Z</updated>
+        <published>2025-05-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3508期】FunProxy - 使用 Rust 构建跨平台全链路测试抓包代理工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276415&amp;idx=1&amp;sn=cb9e09054ffb312debb0041744653b0c&amp;chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276415&amp;idx=1&amp;sn=cb9e09054ffb312debb0041744653b0c&amp;chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&amp;scene=0#rd"/>
         <updated>2025-05-14T00:00:00.000Z</updated>
         <published>2025-05-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promise 发布新 API！旧 API 要被淘汰了？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504321&amp;idx=1&amp;sn=989d89a838c5c6bd184cc24023ce58a0&amp;chksm=ce45c450f9324d4666b7a38c7712ccbf986a4e06155b1be040a324475641ffd68c5ccd55ae24#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504321&amp;idx=1&amp;sn=989d89a838c5c6bd184cc24023ce58a0&amp;chksm=ce45c450f9324d4666b7a38c7712ccbf986a4e06155b1be040a324475641ffd68c5ccd55ae24#rd"/>
+        <updated>2025-05-13T00:00:00.000Z</updated>
+        <published>2025-05-13T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[CSS animation-composition可以让动画效果累加]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Nextjs首屏加载速度性能从80分优化到98分]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526067&amp;idx=1&amp;sn=db5115c36c2afe439a8ff15fefd273f6&amp;chksm=f9926062cee5e9745a8e649f0a5a593c5d249001d854b9f3f4df1ac3e52884fde4058c8b249e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526067&amp;idx=1&amp;sn=db5115c36c2afe439a8ff15fefd273f6&amp;chksm=f9926062cee5e9745a8e649f0a5a593c5d249001d854b9f3f4df1ac3e52884fde4058c8b249e#rd"/>
-        <updated>2025-04-24T00:00:00.000Z</updated>
-        <published>2025-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【AI入门】MCP Server初探]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526067&amp;idx=2&amp;sn=6044c5f2b302170109ab3423e471eb41&amp;chksm=f9926062cee5e9743a68df84310264894b12a774f497f050c4e095eefd0c5ff2152c869bc4dd#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526067&amp;idx=2&amp;sn=6044c5f2b302170109ab3423e471eb41&amp;chksm=f9926062cee5e9743a68df84310264894b12a774f497f050c4e095eefd0c5ff2152c869bc4dd#rd"/>
-        <updated>2025-04-24T00:00:00.000Z</updated>
-        <published>2025-04-24T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3497期】Tauri vs. Electron：性能、体积与真实权衡]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276269&amp;idx=1&amp;sn=013390327013622af87b6cec477e32bf&amp;chksm=bc6802cb8a2c090c8588d65917a764f3cbc070cb03f04918c93debd8329dafa7a260d7708a5e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276269&amp;idx=1&amp;sn=013390327013622af87b6cec477e32bf&amp;chksm=bc6802cb8a2c090c8588d65917a764f3cbc070cb03f04918c93debd8329dafa7a260d7708a5e&amp;scene=0#rd"/>
         <updated>2025-04-24T00:00:00.000Z</updated>
         <published>2025-04-24T00:00:00.000Z</published>
     </entry>

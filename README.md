@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-16 20:21:44，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-17 00:12:46，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736) ![](/assets/new.png)  
+- [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
 - [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
 - [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-05-16-【活动】VueConf-2025-开始报名了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=2&sn=9f54940e4578607044a3547154fbc1ce&chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-16-【第3510期】Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=1&sn=48d8cadcac307f73ba6f0a86abff3937&chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&scene=0#rd) ![](/assets/new.png)  
+- [2025-05-16-【活动】VueConf-2025-开始报名了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=2&sn=9f54940e4578607044a3547154fbc1ce&chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&scene=0#rd)  
+- [2025-05-16-【第3510期】Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=1&sn=48d8cadcac307f73ba6f0a86abff3937&chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&scene=0#rd)  
 - [2025-05-15-【第3509期】Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276422&idx=1&sn=6b919eca445170b1d7745be3e6891912&chksm=bceb6488576a7d26f7438c9328c7563bf9c3fada01e71b86ef6a36c983ee8e703bdffbf41aa2&scene=0#rd)  
 - [2025-05-14-【第3508期】FunProxy---使用-Rust-构建跨平台全链路测试抓包代理工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276415&idx=1&sn=cb9e09054ffb312debb0041744653b0c&chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&scene=0#rd)  
 - [2025-05-13-【图书】动手学计算机视觉](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276405&idx=2&sn=58ee756a0a6f84cb66a94360605a988f&chksm=bc78b33eb5b111b749317142fc50dc42a6237d13f4a6fd25b5b3bfb0459ab913d0fc58005b6e&scene=0#rd)  
@@ -202,6 +202,12 @@
 </summary>
 
 
+- [2025-05-16-Pinia-最新发布的-6-个插件，效率提升-300%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504350&idx=1&sn=c5d362d44d90b87dd6518a4c6fda0376&chksm=ce45c44ff9324d5910f2401bdefd814f6e56a6d27bbcc3dcd4717b1a99f0071c3ab8f8055bda#rd) ![](/assets/new.png)  
+- [2025-05-15-uni-app-宣布全面升级！正式支持全平台！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504348&idx=1&sn=b1eec4db464c163aa54c77af8aa29566&chksm=ce45c44df9324d5b4c03781374db58c138541ad091f10f619a5d2a57350fad2197b4dd9388a2#rd) ![](/assets/new.png)  
+- [2025-05-14-阿里内部-“Vue＋React”-实战笔记，正式开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504332&idx=1&sn=9acaf1099cfe3cd80669eed93d625b72&chksm=ce45c45df9324d4b9f59b579d9de457c1bc3427d859bee6994b11fbad0146159bc727330a00e#rd) ![](/assets/new.png)  
+- [2025-05-13-Promise-发布新-API！旧-API-要被淘汰了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504321&idx=1&sn=989d89a838c5c6bd184cc24023ce58a0&chksm=ce45c450f9324d4666b7a38c7712ccbf986a4e06155b1be040a324475641ffd68c5ccd55ae24#rd) ![](/assets/new.png)  
+- [2025-05-12-最近，前端的就业市场真是癫了。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504320&idx=1&sn=c9cbffc7266159239c378adfe386dc7b&chksm=ce45c451f9324d474b8a1783694a3f0cace5f6ee00d8fd817b7bcb4f890c9428b5a8693d12af#rd) ![](/assets/new.png)  
+- [2025-05-11-这家公司给我前端月薪1600，我该不该去？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504297&idx=1&sn=2447a3bc4aeb5da275d7d46dc879908c&chksm=ce45c438f9324d2ee526ecf4d68ca74081b4da871876053f6dae69f054bd34b913fde9b54b4e#rd) ![](/assets/new.png)  
 - [2025-05-10-漫谈：日本IT人才紧缺50w人，而国内却裁员内卷？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504284&idx=1&sn=4d9b6e6fd0456d425c538e24c15e7ba5&chksm=ce45c40df9324d1b7128112a56fcaae4cb46cea8d50a548566997ec142b802f4994ad66272b2#rd)  
 - [2025-05-09-狂欢！Cursor-正式宣布免费使用一年【附教程】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504243&idx=1&sn=1ab6b59088cde4a93a1994f905e14432&chksm=ce45c4e2f9324df4df6490525003002db994eb7cd39d96dd28260ef01045c9b73a197f5a8de8#rd)  
 - [2025-05-08-Vue3-官方宣布淘汰-Axios，拥抱新趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504205&idx=1&sn=4df65c1940eaa5e216ea8b68bd9506d7&chksm=ce45c4dcf9324dca6b58ae7f8b9ee8967d0b55b013df247c89df62305757f3d152350ae02169#rd)  
@@ -216,12 +222,6 @@
 - [2025-04-29-五一后准备跳槽的兄弟注意！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503946&idx=1&sn=c0dff077299823ab7a869e41597abbdd&chksm=ce45c5dbf9324ccd5ab62241ef70796d942995cba30cf438e3c6d93e73f77b7e23847a8a1bc2#rd)  
 - [2025-04-28-前端要怎么做B站那样的弹幕效果？非常有趣！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503936&idx=1&sn=1af2d428da7d41fc024fdc0c2f683cfa&chksm=ce45c5d1f9324cc746b2b3db8923dbd1893a376c7299f4570403d6af180182f93064e6f08f97#rd)  
 - [2025-04-27-又是字节前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503935&idx=1&sn=6cec40f9e0fbeac0eaa0b8410172d178&chksm=ce45c5aef9324cb8e3bd6fd28560e304d3e3dd4e29cb8b4a87927e5b24539ef7b0e4699129bb#rd)  
-- [2025-04-26-Nodejs-迎来了有史以来的最大的-9-个更新！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503897&idx=1&sn=42227c917008830541b510c90761bade&chksm=ce45c588f9324c9e1c2ca0b140f724d6f60c0efe0d7d55a5679f883c7bbd9feb83ff04deff0f#rd)  
-- [2025-04-25-一位进字节的前端朋友分享的东西！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503856&idx=1&sn=9ec249dbc25001c1850b9f6648e52727&chksm=ce45da61f9325377aa7c3d7d02c74518afc0695dc2a3e90fd7b2d0fbed9f9fb3549cca28a9b5#rd)  
-- [2025-04-24-讲真，今年前端行情还不错！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503851&idx=1&sn=0476802b5923a1ffb77eda0025995064&chksm=ce45da7af932536c249ec7ac2b6d9c8ed1932d9af2ee16ac38aa1d571119ab4d242c47296c0f#rd)  
-- [2025-04-23-try-catch-在实际开发场景中的-5-大用处，用起来！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503846&idx=1&sn=8de8035f7c0c00bd8a1d7762f19747d1&chksm=ce45da77f9325361effd942f70defc1216872b57ccc7eb495c3fb68320e555e7851c93246670#rd)  
-- [2025-04-22-讲解前端中-File、Blob、ArrayBuffer、Base64、DataURL](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503809&idx=1&sn=10130e93e1f1e37f47d8e8a0a9e71bab&chksm=ce45da50f9325346753e6b787c30c3c24d12c32e138a9dc28868e7f573ba1b7c1b29dcb0a67e#rd)  
-- [2025-04-21-Vue3-未来响应式的建设，将依赖于这个工具！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503808&idx=1&sn=93a6a4f436e8ce9458f64927d1113631&chksm=ce45da51f9325347a5b93c3ad88164a4e616bf8cf31eeeb5449a89aa5abbf614b8dd32de2ef4#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
