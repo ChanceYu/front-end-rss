@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-17 00:12:46，:rocket: 更新条数: +6， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-19 06:12:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -202,12 +202,13 @@
 </summary>
 
 
-- [2025-05-16-Pinia-最新发布的-6-个插件，效率提升-300%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504350&idx=1&sn=c5d362d44d90b87dd6518a4c6fda0376&chksm=ce45c44ff9324d5910f2401bdefd814f6e56a6d27bbcc3dcd4717b1a99f0071c3ab8f8055bda#rd) ![](/assets/new.png)  
-- [2025-05-15-uni-app-宣布全面升级！正式支持全平台！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504348&idx=1&sn=b1eec4db464c163aa54c77af8aa29566&chksm=ce45c44df9324d5b4c03781374db58c138541ad091f10f619a5d2a57350fad2197b4dd9388a2#rd) ![](/assets/new.png)  
-- [2025-05-14-阿里内部-“Vue＋React”-实战笔记，正式开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504332&idx=1&sn=9acaf1099cfe3cd80669eed93d625b72&chksm=ce45c45df9324d4b9f59b579d9de457c1bc3427d859bee6994b11fbad0146159bc727330a00e#rd) ![](/assets/new.png)  
-- [2025-05-13-Promise-发布新-API！旧-API-要被淘汰了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504321&idx=1&sn=989d89a838c5c6bd184cc24023ce58a0&chksm=ce45c450f9324d4666b7a38c7712ccbf986a4e06155b1be040a324475641ffd68c5ccd55ae24#rd) ![](/assets/new.png)  
-- [2025-05-12-最近，前端的就业市场真是癫了。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504320&idx=1&sn=c9cbffc7266159239c378adfe386dc7b&chksm=ce45c451f9324d474b8a1783694a3f0cace5f6ee00d8fd817b7bcb4f890c9428b5a8693d12af#rd) ![](/assets/new.png)  
-- [2025-05-11-这家公司给我前端月薪1600，我该不该去？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504297&idx=1&sn=2447a3bc4aeb5da275d7d46dc879908c&chksm=ce45c438f9324d2ee526ecf4d68ca74081b4da871876053f6dae69f054bd34b913fde9b54b4e#rd) ![](/assets/new.png)  
+- [2025-05-18-每天讲一家公司的前端薪资——三七互娱（广州）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504385&idx=1&sn=c90760d393cc72dadf61eaa8044a649e&chksm=ce45c790f9324e8608d7cd11ae2d3f52ec0d6849413892a070d485d489cad5c328e3f1a6e83e#rd) ![](/assets/new.png)  
+- [2025-05-16-Pinia-最新发布的-6-个插件，效率提升-300%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504350&idx=1&sn=c5d362d44d90b87dd6518a4c6fda0376&chksm=ce45c44ff9324d5910f2401bdefd814f6e56a6d27bbcc3dcd4717b1a99f0071c3ab8f8055bda#rd)  
+- [2025-05-15-uni-app-宣布全面升级！正式支持全平台！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504348&idx=1&sn=b1eec4db464c163aa54c77af8aa29566&chksm=ce45c44df9324d5b4c03781374db58c138541ad091f10f619a5d2a57350fad2197b4dd9388a2#rd)  
+- [2025-05-14-阿里内部-“Vue＋React”-实战笔记，正式开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504332&idx=1&sn=9acaf1099cfe3cd80669eed93d625b72&chksm=ce45c45df9324d4b9f59b579d9de457c1bc3427d859bee6994b11fbad0146159bc727330a00e#rd)  
+- [2025-05-13-Promise-发布新-API！旧-API-要被淘汰了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504321&idx=1&sn=989d89a838c5c6bd184cc24023ce58a0&chksm=ce45c450f9324d4666b7a38c7712ccbf986a4e06155b1be040a324475641ffd68c5ccd55ae24#rd)  
+- [2025-05-12-最近，前端的就业市场真是癫了。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504320&idx=1&sn=c9cbffc7266159239c378adfe386dc7b&chksm=ce45c451f9324d474b8a1783694a3f0cace5f6ee00d8fd817b7bcb4f890c9428b5a8693d12af#rd)  
+- [2025-05-11-这家公司给我前端月薪1600，我该不该去？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504297&idx=1&sn=2447a3bc4aeb5da275d7d46dc879908c&chksm=ce45c438f9324d2ee526ecf4d68ca74081b4da871876053f6dae69f054bd34b913fde9b54b4e#rd)  
 - [2025-05-10-漫谈：日本IT人才紧缺50w人，而国内却裁员内卷？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504284&idx=1&sn=4d9b6e6fd0456d425c538e24c15e7ba5&chksm=ce45c40df9324d1b7128112a56fcaae4cb46cea8d50a548566997ec142b802f4994ad66272b2#rd)  
 - [2025-05-09-狂欢！Cursor-正式宣布免费使用一年【附教程】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504243&idx=1&sn=1ab6b59088cde4a93a1994f905e14432&chksm=ce45c4e2f9324df4df6490525003002db994eb7cd39d96dd28260ef01045c9b73a197f5a8de8#rd)  
 - [2025-05-08-Vue3-官方宣布淘汰-Axios，拥抱新趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504205&idx=1&sn=4df65c1940eaa5e216ea8b68bd9506d7&chksm=ce45c4dcf9324dca6b58ae7f8b9ee8967d0b55b013df247c89df62305757f3d152350ae02169#rd)  
@@ -221,7 +222,6 @@
 - [2025-04-30-坑啊！前端倒计时有误差！让公司损失了几十万！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504019&idx=1&sn=b4490cc2654d077100553e6e39b6b35d&chksm=ce45c502f9324c149bf9866d9de1d9be99843bf68612a85bbe37eac5caa80b8f0ab29673a7d0#rd)  
 - [2025-04-29-五一后准备跳槽的兄弟注意！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503946&idx=1&sn=c0dff077299823ab7a869e41597abbdd&chksm=ce45c5dbf9324ccd5ab62241ef70796d942995cba30cf438e3c6d93e73f77b7e23847a8a1bc2#rd)  
 - [2025-04-28-前端要怎么做B站那样的弹幕效果？非常有趣！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503936&idx=1&sn=1af2d428da7d41fc024fdc0c2f683cfa&chksm=ce45c5d1f9324cc746b2b3db8923dbd1893a376c7299f4570403d6af180182f93064e6f08f97#rd)  
-- [2025-04-27-又是字节前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503935&idx=1&sn=6cec40f9e0fbeac0eaa0b8410172d178&chksm=ce45c5aef9324cb8e3bd6fd28560e304d3e3dd4e29cb8b4a87927e5b24539ef7b0e4699129bb#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
