@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-19 11:15:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-19 12:19:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -486,8 +486,8 @@
 - [2022-01-02-半小时搞懂-HTTP、HTTPS和HTTP2](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=2&sn=0a196abcd9d5b9673603cd68e5514ad0&chksm=87c42135b0b3a82393e7be25147f07ab858c3e397a42dbe7f2c30e4d4fcb6d115f0089e58b21#rd) 
 - [2025-03-31-微前端的实践总结](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525809&idx=2&sn=a74ab966aeb0ed1c8b8f37ead5c74dfc&chksm=f9926360cee5ea76225d91363e71b4369f440be90f30affeb556615c0b2002bc477983a311af#rd) 
 - [2025-03-26-前端录屏-+-定位源码，帮你快速定位线上-bug](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525759&idx=2&sn=ee140cbea33dbbe40b782dac95ba1114&chksm=f99263aecee5eab83f41aa79330d763b8edbf8d0f7e135a07c4369dcc077885ff6c53ab2e429#rd) 
-- [2025-03-03-使用抽象语法树把低代码配置转换成源码](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=1&sn=883bec04ffb32a01be2fd47d59e15627&chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd) 
 - [2025-03-03-AST详解与运用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=2&sn=28721fa0cc3f5a7cba45c6e7e0ed8711&chksm=f99262b4cee5eba2cef984e0e5712eb8e9f139204df6f87c9eb144136be60a57767e58524491#rd) 
+- [2025-03-03-使用抽象语法树把低代码配置转换成源码](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525477&idx=1&sn=883bec04ffb32a01be2fd47d59e15627&chksm=f99262b4cee5eba256836ae6cd07668bc05ab096941acb9f3dc93bfca0048f7736deb4331a12#rd) 
 - [2025-02-12-前端架构师应该如何成熟的思考项目重构](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525265&idx=2&sn=262320f73c2b929028bbc76fef454b10&chksm=f9926540cee5ec5629a4718fa0128a88157912ae15aae74611bd1158518e4e4817595ce02f2e#rd) 
 - [2025-01-10-aiCoder：利用AST实现AI生成代码的合并工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525026&idx=1&sn=136a4dbf1cbce1071b3841669ccd3fde&chksm=f9926473cee5ed6522b301bd4ee6bc738526c923fdd7ea6522b63a76df4e498fafe854166cdb#rd) 
 - [2025-01-05-HTTP-将增加一个新的方法类型！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524962&idx=2&sn=edd668148670df327a9255e2a67eb200&chksm=f99264b3cee5eda556625601b3ce29128da19e387a295499e52a03019d53aafd205f3e440134#rd) 
@@ -513,8 +513,8 @@
 - [2022-12-29-深入浅出解析阿里成熟的微前端框架-qiankun-源码【图文并茂】](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512424&idx=1&sn=2b545e4ae53b3ada37a4914a18b7c6a7&chksm=f992b7b9cee53eaf5a3b89f05083950719497534744cf6f1db1b2295bdee2a2e745dc803706f#rd) 
 - [2022-12-26-前端录屏-+-定位源码，帮你快速定位线上-bug](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247512303&idx=2&sn=c6689df7e21dc8544871d691a3f30fa2&chksm=f992b63ecee53f2811900c06274202ca93ed988b928bcd211e7a817e0169b2af29b2682f356a#rd) 
 - [2022-11-04-前端架构师的一些思考和总结](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247511270&idx=2&sn=73c52eb3b0f9cad9fd2d8e602a57a822&chksm=f992aa37cee523210c2715f7b98a3660d6b4f7fbff65be82db41b84d8c25cd026ecfcd61df18#rd) 
-- [2022-09-01-对前端架构的理解---分层与抽象](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=2&sn=943632e83ed48889fdaa2e793b47bbae&chksm=f992af1ccee5260a30a11725710cd865e02a02d04a3da013de39940717576ec7591c375b184e#rd) 
 - [2022-09-01-对前端架构的理解---分层与抽象](https://mp.weixin.qq.com/s/5TfAoS6nuFalfZuQ2Fv3_w) 
+- [2022-09-01-对前端架构的理解---分层与抽象](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510477&idx=2&sn=943632e83ed48889fdaa2e793b47bbae&chksm=f992af1ccee5260a30a11725710cd865e02a02d04a3da013de39940717576ec7591c375b184e#rd) 
 - [2022-08-27-前端工程化思维：主题切换架构实现（文末赠书第19期）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510424&idx=1&sn=e8ab5ad12a21c03155895f2f771aadf2&chksm=f992af49cee5265f69ad9eb3e92e2cd60fd88eb49a1aeb85abc25347a993ec5d372facb5db94#rd) 
 - [2022-08-25-将微前端做到极致-无界方案](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510341&idx=1&sn=9d47341e6423ce8ee69dac69819ee7bf&chksm=f992af94cee526823b6fa12928763cb088ed08d8ef4721ed2494f287afed5b28a316c97e43f0#rd) 
 - [2022-08-10-超大体量项目，微前端落地方案，看完后悔来找我](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510215&idx=2&sn=cc91b93e3f689c96fbfb102b26ff6996&chksm=f992ae16cee527005ab8092841902cc8fd646c4aee7c1f30614914f72d5c0c2e215c05d081d2#rd) 
@@ -572,6 +572,7 @@
 - [2023-06-07-主流前端框架的响应式原理](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498204&idx=2&sn=44b3ad72ec64cbdc9efb3e0850d023f2&chksm=c2b33823f5c4b135f1949f78278404235817175fd75a794a5b4690928ae0cb78959315840ab0#rd) 
 - [2023-05-24-从-VSCode-源码中我学到了什么？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498025&idx=1&sn=7a81d807a8773a4113e95003744d8f8e&chksm=c2b338d6f5c4b1c061344505e38f8f38326a0964e24c1952f118d57a75f072a84edd96572c44#rd) 
 - [2023-01-28-前端食堂技术周刊第-68-期：Astro-2.0、Nuxt-3.1.0、Bun-0.5、Turborepo-1.7](https://mp.weixin.qq.com/s/BYZU3YHmgIj1LpIGcEIi_g) 
+- [2025-05-15-一名前端用-AI-编辑器重构开发流程](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517219&idx=1&sn=2327e0103e55f7e0a7322f9cfe5547a3&chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd) 
 - [2025-01-22-前端架构师应该如何成熟的思考项目重构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517002&idx=1&sn=9cd60e050d3d3ad8ee703922d2822baf&chksm=eb07bb33dc70322520a697859662ac99514a0c1e92259e4efdd830f04ebddc3a6b736bb166a2#rd) 
 - [2024-12-18-大前端：如何突破动态化容器的天花板？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516947&idx=1&sn=71944e56d60569763a7eace7a52200be&chksm=eb07bb6adc70327c8b20df1ff343a6718ff7d983c4fc04215e7bd45fe63d13cb180cc20876e4#rd) 
 - [2024-04-30-一个Level-0富文本编辑器的进化历程](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515726&idx=1&sn=8ed649ee69dc38031fbb4ca274384fcf&chksm=eb078637dc700f21fdbfc2651bb85315c712614d68f3cb3d2defeb5acaf1dd6d3c2d6bdbb512#rd) 
@@ -592,6 +593,7 @@
 - [2023-05-23-从-VSCode-源码中，我学到了绝世武功……](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511576&idx=1&sn=5a27f1c47f1ffb6420d333b2b1b6687c&chksm=eb079661dc701f775273f93d565aaf973cebee2d25fe198c09f747e815500d25ac4a1c892cfc#rd) 
 - [2023-05-18-新来了一个卷王，八股文-算法张口就来，太卷了~](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511570&idx=1&sn=86b5708b1671cf0bfc4c43624f6a3ef5&chksm=eb07966bdc701f7d03aa4f5c11ee711a0a5369e710e63bd631ae86af0c8c11522125ee316ec3#rd) 
 - [2023-05-10-多窗口联动神器！BroadcastChannel-API-实战运用](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511480&idx=1&sn=ac6c080242c3d2929ae247306ba6f395&chksm=eb0795c1dc701cd7c3c44d9cf145a56f14064d60fa76496445160d1ce2c1f0c0e4c93a9cbf39#rd) 
+- [2025-05-12-AI驱动代码编辑器：-Cursor的功能解析及行业影响](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539917&idx=1&sn=89f270d59d255c67e7627081b0d86d1f&chksm=82faf9abcf7ccda2513cc0652680e7e0b4cdc13d0ca48b62de564831f56dbd49fc144f731eef&scene=0#rd) 
 - [2025-04-07-基于Flow-matching的扩散模型原理解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539507&idx=1&sn=1650db468e2d794a85b1012df6628490&chksm=8390cdebb4e744fd07635a234612abc3b0c1f6400837022f75e1e9dee2fdce276551a87cc62d#rd) 
 - [2024-12-09-大模型“翻车”背后的技术原理及解决方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537305&idx=1&sn=ff4f459e24bf7c40d4850e6de5dcd952&chksm=83973541b4e0bc576cd9bb16d332a34acfed0f95b3fc1a85d576812e4084fd59baf2cbae920e#rd) 
 - [2024-11-13-全面解析：从AI原理到模型演进及代码实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650536910&idx=1&sn=bcf4d4d610994835124e6d7b68aed802&chksm=839733d6b4e0bac0da815370a70dcf12080960ffc559255bb45e392054584e9d5479ecd60407#rd) 
