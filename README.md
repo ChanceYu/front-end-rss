@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-20 18:12:34，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-21 18:11:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
-- [淘系前端团队](#淘系前端团队)  
+- [前端食堂](#前端食堂)  
+- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端侦探](#前端侦探)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,10 +264,10 @@
 </summary>
 
 
-- [2025-05-20-简单盘点下前端日志采集的几种方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=1&sn=1fab1e539dae7347e8b8cf46641a7fef&chksm=f9926182cee5e89482455cdad3725dfb3586fbe2967f44a0517ac5d19800d93fd190e84d2451#rd) ![](/assets/new.png)  
-- [2025-05-20-浏览器如何确定最终的CSS属性值？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=2&sn=faeca456b232c6617c86b8f6ba3ec6b9&chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd) ![](/assets/new.png)  
-- [2025-05-19-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526221&idx=1&sn=1968ed632ed012b4bbbd2a013c6e8dc0&chksm=f992619ccee5e88ad47c491d377a58d04b1e96335dc3be0b632a40784c7387b0108a240bb67a#rd) ![](/assets/new.png)  
-- [2025-05-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526211&idx=1&sn=3092718c7777495f6ef6231426307fd9&chksm=f9926192cee5e884a644ff76ae0a77729b881ca366156837e5cd978adcf7f06bfba9e3db1bfa#rd) ![](/assets/new.png)  
+- [2025-05-20-简单盘点下前端日志采集的几种方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=1&sn=1fab1e539dae7347e8b8cf46641a7fef&chksm=f9926182cee5e89482455cdad3725dfb3586fbe2967f44a0517ac5d19800d93fd190e84d2451#rd)  
+- [2025-05-20-浏览器如何确定最终的CSS属性值？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=2&sn=faeca456b232c6617c86b8f6ba3ec6b9&chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd)  
+- [2025-05-19-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526221&idx=1&sn=1968ed632ed012b4bbbd2a013c6e8dc0&chksm=f992619ccee5e88ad47c491d377a58d04b1e96335dc3be0b632a40784c7387b0108a240bb67a#rd)  
+- [2025-05-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526211&idx=1&sn=3092718c7777495f6ef6231426307fd9&chksm=f9926192cee5e884a644ff76ae0a77729b881ca366156837e5cd978adcf7f06bfba9e3db1bfa#rd)  
 - [2025-05-15-开发神器-Cursor-最全配置指南：从入门到高效工作流！建议收藏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526203&idx=1&sn=8900aef0253f232b681fbef0471522c1&chksm=f99261eacee5e8fc4cd1033f1f80b73da02ae59b1c4243bcb8cf30a1a0bb840c5e08dafa1fad#rd)  
 - [2025-05-15-2025年了，npm-与-pnpm我们该如何选择](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526203&idx=2&sn=d305a5a57779ffca6bf60fad6f339550&chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd)  
 - [2025-05-14-干货-|-携程机票前端Web流式通信SSE全链路应用实践](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526196&idx=2&sn=e0391246f9081f05ef543a76224d1e68&chksm=f99261e5cee5e8f3e3867a04c6010fc42051726c69dcf3c16e8c5c09fe7e4c9242c9753d39a3#rd)  
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd) ![](/assets/new.png)  
+- [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  
 - [2025-05-14-Manus免费开放注册，有哪些新玩法？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502540&idx=1&sn=a4fcc963ba70619d22bc18320704b4d4&chksm=c2b30b33f5c482257d9f12d920c3b273b971987e4ad652dd4d0e55970bc2cfeb98563de89821#rd)  
 - [2025-05-13-系统提示词，AI-的底裤](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502521&idx=1&sn=91d616b98ebcedd6547bf929019df2bb&chksm=c2b30b46f5c482502de4326132383134843cbeda215e52a6a3c8043af567fb0fd3edc82e30a4#rd)  
@@ -419,8 +419,8 @@
 </summary>
 
 
-- [2025-05-20-「毕业3年，年薪40万」字节内部扩招！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517230&idx=1&sn=54be8f7af8b557ee7d475e95b1e21a83&chksm=eb07bc57dc703541b125fa5e065f61bce143f81812f8e6985148aa0936bc9ba0896ff7aeb512#rd) ![](/assets/new.png)  
-- [2025-05-19-React-lazy-原来是这么动态加载组件的！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517223&idx=1&sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd) ![](/assets/new.png)  
+- [2025-05-20-「毕业3年，年薪40万」字节内部扩招！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517230&idx=1&sn=54be8f7af8b557ee7d475e95b1e21a83&chksm=eb07bc57dc703541b125fa5e065f61bce143f81812f8e6985148aa0936bc9ba0896ff7aeb512#rd)  
+- [2025-05-19-React-lazy-原来是这么动态加载组件的！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517223&idx=1&sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd)  
 - [2025-05-16-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517221&idx=1&sn=8d729dbd52b17bab0d75fa4ce785b430&chksm=eb07bc5cdc70354ab28c8bca8cf370783712df404c9e029aafaf4a074a4a7db4fd03938bee4e#rd)  
 - [2025-05-15-一名前端用-AI-编辑器重构开发流程](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517219&idx=1&sn=2327e0103e55f7e0a7322f9cfe5547a3&chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd)  
 - [2025-05-13-5月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517215&idx=1&sn=a156b7c994e45e95f04ef47fabfe3b9c&chksm=eb07bc66dc703570f1712a4c8ecf20cf1bc7549f16f763b418ae85dcd387cd37040344d7eea1#rd)  
@@ -450,7 +450,7 @@
 </summary>
 
 
-- [2025-05-19-原子化的未来？了解一下全面进化的CSS-attr函数](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490394&idx=1&sn=dc419620ec0db25afa73c1fdc0e3fb20&chksm=97c67895a0b1f183020d68e2c6d7e0d4d01fb352811c9b323c943e95749b91582017d82f6917#rd) ![](/assets/new.png)  
+- [2025-05-19-原子化的未来？了解一下全面进化的CSS-attr函数](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490394&idx=1&sn=dc419620ec0db25afa73c1fdc0e3fb20&chksm=97c67895a0b1f183020d68e2c6d7e0d4d01fb352811c9b323c943e95749b91582017d82f6917#rd)  
 - [2025-05-12-万能的渐变！CSS-渐变实现自适应进度条](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490229&idx=1&sn=bf5ff47df0c7940838869880022c5e74&chksm=97c6797aa0b1f06c38701c7112363dedd824a7bc430102cebeed63249389c0af6ad29c9ff9a1#rd)  
 - [2025-04-27-CSS-grid-布局如何添加分隔线?](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490207&idx=1&sn=53e0167f3ded40d5c0c7fc3f8f8a7084&chksm=97c67950a0b1f046b393284ad289cbefcaba1d673b506d867e00f49e72bb7e23b48d5907895a#rd)  
 - [2025-04-22-使用CSS给标题添加书名号并超出省略](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490176&idx=1&sn=15070209f0d63e249dce32e355e58d7d&chksm=97c6794fa0b1f0598cea456be394ae9af12f566daf7360525066304ca6b1c5ad7c12a9de7c91#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-05-21-CursorRules：AI编程助手规则调优实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540219&idx=1&sn=a836c75389554ffd0f4a02166e8737d8&chksm=82bb1bf8d7e7fb50f6ac00b8a7e9086b4d4e68fbb7c1993262c3ab59d311d301ea0dcaf4b3d5&scene=0#rd) ![](/assets/new.png)  
 - [2025-05-19-淘天⾃营质量技术AI智能体的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540203&idx=1&sn=bca98ed83a52317cf469979ca6466728&chksm=826cc0bbb0cb9ed717a18bb15e2c1a8d146ffab5f88892f1e7e329dc54fc350ff2743ee15e88&scene=0#rd)  
 - [2025-05-16-JianYi:-淘宝家装行业的分割&amp;抠图系统](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540176&idx=1&sn=9cf95ad8cc49f7a5aa57a7ba6d172e47&chksm=8251fc1484e7fb9243e1770af6f4731d459a2512555fcae3d5fbdb65f6a4fff89633e43b3745&scene=0#rd)  
 - [2025-05-14-浅谈团队代码风格/结构一致性](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539951&idx=1&sn=6aac8c34c6d1d680caf981ea285c6d79&chksm=82f0faaac664eb46447e034f5357f28459b1d9df966db5a0bf21423c8eb4aa095f7c7e55b28b&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-03-31-音频生成技术探索与淘宝域实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539431&idx=1&sn=5ceb5aeaac4ff592f537d3c74bc39e3b&chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd)  
 - [2025-03-28-淘宝客户端动态化页面搭建](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539414&idx=1&sn=4e220b4dd0a0a3a202633f6934f32fc0&chksm=8390cd8eb4e7449886f5f9e8309d125c094763d146100afdeceb1bfd0799c32ef5ef21357d5a#rd)  
 - [2025-03-26-技术人的大模型应用初学指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539239&idx=1&sn=c4993590c9478dae8188f02ce90caddc&chksm=8390ccffb4e745e94151d2b35b21b7887218f29297e8592487a48d0b338154a5d9aeca14465d#rd)  
-- [2025-03-19-揭开RAG的神秘面纱：重新定义信息检索的革命性技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539133&idx=1&sn=9e44beea127e08ba91f1ff58215e9491&chksm=8390cc65b4e74573ebc380c3bb1d8694381d8171b44de34ac11ce86e929fa3aa26167e6214ad#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
