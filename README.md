@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-22 02:15:33，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-23 02:14:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,10 +109,10 @@
 </summary>
 
 
-- [2025-05-21-【图书】DeepSeek-原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=2&sn=dceba5ecfb7ef7d1d15b665cfa27962f&chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-21-【第3513期】如何在-CSS-中让浏览器选择对比色](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=1&sn=af1399fc0b1f32b94513c896b9532f44&chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-20-【图书】DeepSeek核心技术揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=2&sn=e3eba370de23592532ac7a04e2ee99f4&chksm=bcf11bc42a1ad43a4c7374bc11fae282f8569498f9cbc92d750bb276f2e2f7b190d0aac092bd&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-20-【第3512期】一个用于简单实时更新的酷炫-HTTP-特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=1&sn=1b5c1667395a2592017629a3607f13f3&chksm=bc46c1e70f749e3cbd2b9397e1a3a02f12de60e6dc301bc078dae4f8ad3cd33ce19ef9ad567f&scene=0#rd) ![](/assets/new.png)  
+- [2025-05-21-【图书】DeepSeek-原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=2&sn=dceba5ecfb7ef7d1d15b665cfa27962f&chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&scene=0#rd)  
+- [2025-05-21-【第3513期】如何在-CSS-中让浏览器选择对比色](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=1&sn=af1399fc0b1f32b94513c896b9532f44&chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&scene=0#rd)  
+- [2025-05-20-【图书】DeepSeek核心技术揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=2&sn=e3eba370de23592532ac7a04e2ee99f4&chksm=bcf11bc42a1ad43a4c7374bc11fae282f8569498f9cbc92d750bb276f2e2f7b190d0aac092bd&scene=0#rd)  
+- [2025-05-20-【第3512期】一个用于简单实时更新的酷炫-HTTP-特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=1&sn=1b5c1667395a2592017629a3607f13f3&chksm=bc46c1e70f749e3cbd2b9397e1a3a02f12de60e6dc301bc078dae4f8ad3cd33ce19ef9ad567f&scene=0#rd)  
 - [2025-05-19-【第3511期】前端很难](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276441&idx=1&sn=4d926d20f1218615d80c71038a50b2fa&chksm=bc41e7a72f97331ac0614891b9517991546aad11dbf3a9c99719451853cf16ea1da93caf4e15&scene=0#rd)  
 - [2025-05-16-【活动】VueConf-2025-开始报名了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=2&sn=9f54940e4578607044a3547154fbc1ce&chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&scene=0#rd)  
 - [2025-05-16-【第3510期】Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=1&sn=48d8cadcac307f73ba6f0a86abff3937&chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&scene=0#rd)  
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2025-05-21-字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504402&idx=1&sn=bd37ee60282255c426cff119cac99738&chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd) ![](/assets/new.png)  
-- [2025-05-20-体验新秩序：前端接入-AI-的七个高效平台](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504393&idx=1&sn=5f02c4d5fc35a486ee8e1265a2f8e68f&chksm=ce45c798f9324e8ed395639532afe97fa0e65c3393659e8e7b4d5ec35c3cb83e74b0a5b7fa53#rd) ![](/assets/new.png)  
-- [2025-05-19-开发者如何拥有财务安全感？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504392&idx=1&sn=523520dc3027fdbbe01c822399f617c4&chksm=ce45c799f9324e8fb96399b28caecdb8ecc7272bc3d0ea3991f30bc317f2e3c567abb19c6ad6#rd) ![](/assets/new.png)  
+- [2025-05-21-字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504402&idx=1&sn=bd37ee60282255c426cff119cac99738&chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd)  
+- [2025-05-20-体验新秩序：前端接入-AI-的七个高效平台](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504393&idx=1&sn=5f02c4d5fc35a486ee8e1265a2f8e68f&chksm=ce45c798f9324e8ed395639532afe97fa0e65c3393659e8e7b4d5ec35c3cb83e74b0a5b7fa53#rd)  
+- [2025-05-19-开发者如何拥有财务安全感？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504392&idx=1&sn=523520dc3027fdbbe01c822399f617c4&chksm=ce45c799f9324e8fb96399b28caecdb8ecc7272bc3d0ea3991f30bc317f2e3c567abb19c6ad6#rd)  
 - [2025-05-18-每天讲一家公司的前端薪资——三七互娱（广州）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504385&idx=1&sn=c90760d393cc72dadf61eaa8044a649e&chksm=ce45c790f9324e8608d7cd11ae2d3f52ec0d6849413892a070d485d489cad5c328e3f1a6e83e#rd)  
 - [2025-05-16-Pinia-最新发布的-6-个插件，效率提升-300%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504350&idx=1&sn=c5d362d44d90b87dd6518a4c6fda0376&chksm=ce45c44ff9324d5910f2401bdefd814f6e56a6d27bbcc3dcd4717b1a99f0071c3ab8f8055bda#rd)  
 - [2025-05-15-uni-app-宣布全面升级！正式支持全平台！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504348&idx=1&sn=b1eec4db464c163aa54c77af8aa29566&chksm=ce45c44df9324d5b4c03781374db58c138541ad091f10f619a5d2a57350fad2197b4dd9388a2#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-05-23-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/) ![](/assets/new.png)  
 - [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)  
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
@@ -531,7 +532,6 @@
 - [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
-- [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

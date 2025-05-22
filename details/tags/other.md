@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-22 02:15:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-23 02:14:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -3819,6 +3819,7 @@
 - [2018-05-08-活用-Shader，让你的页面更小，更炫，更快](https://fed.taobao.org/blog/2018/05/08/optimizing-page-performance-with-shader/) 
 - [2018-02-27-淘宝技术部-2018-实习生内部推荐启动啦](https://fed.taobao.org/blog/2018/02/27/2018-intern-recruitment/) 
 - [2017-07-05-LevelDB-实现分析](https://fed.taobao.org/blog/2017/07/05/leveldb-analysis/) 
+- [2025-05-23-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/) 
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/) 
 - [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/) 
 - [2024-06-11-聊聊Top-Layer顶层特性的隐患与实践](https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/) 
