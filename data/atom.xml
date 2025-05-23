@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-22T18:14:56.701Z</updated>
+    <updated>2025-05-23T06:15:26.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,6 +15,20 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[尤雨溪：Vue 将「去除虚拟DOM」，这将是质的飞跃！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504439&amp;idx=1&amp;sn=cd2ad8c54dc1736df51b320d356b81fb&amp;chksm=ce45c7a6f9324eb072440fa10cf74ead75937e237bd24e7efac4ef2d711b664f01d7cc7b627f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504439&amp;idx=1&amp;sn=cd2ad8c54dc1736df51b320d356b81fb&amp;chksm=ce45c7a6f9324eb072440fa10cf74ead75937e237bd24e7efac4ef2d711b664f01d7cc7b627f#rd"/>
+        <updated>2025-05-23T00:00:00.000Z</updated>
+        <published>2025-05-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3514期】JavaScript 的新超能力：显式资源管理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276486&amp;idx=1&amp;sn=993e77b8d814daa31edc9f065be98180&amp;chksm=bcb7a0efa7df100c055ca394e411f9ca7981fc37e9eabc2ed3a2100e01b0260d303b1b9f293b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276486&amp;idx=1&amp;sn=993e77b8d814daa31edc9f065be98180&amp;chksm=bcb7a0efa7df100c055ca394e411f9ca7981fc37e9eabc2ed3a2100e01b0260d303b1b9f293b&amp;scene=0#rd"/>
+        <updated>2025-05-22T00:00:00.000Z</updated>
+        <published>2025-05-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504402&amp;idx=1&amp;sn=bd37ee60282255c426cff119cac99738&amp;chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504402&amp;idx=1&amp;sn=bd37ee60282255c426cff119cac99738&amp;chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd"/>
@@ -22,16 +36,16 @@
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3513期】如何在 CSS 中让浏览器选择对比色]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】DeepSeek 原理与项目实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】DeepSeek 原理与项目实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3513期】如何在 CSS 中让浏览器选择对比色]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
@@ -46,6 +60,20 @@
         <title type="html"><![CDATA[浏览器如何确定最终的CSS属性值？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526227&amp;idx=2&amp;sn=faeca456b232c6617c86b8f6ba3ec6b9&amp;chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526227&amp;idx=2&amp;sn=faeca456b232c6617c86b8f6ba3ec6b9&amp;chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd"/>
+        <updated>2025-05-20T00:00:00.000Z</updated>
+        <published>2025-05-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[突发！微软宣布 VS Code 变成开源 AI 编辑器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd"/>
+        <updated>2025-05-20T00:00:00.000Z</updated>
+        <published>2025-05-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nextjs首屏加载速度性能从80分优化到98分]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd"/>
         <updated>2025-05-20T00:00:00.000Z</updated>
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
@@ -99,16 +127,16 @@
         <published>2025-05-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3510期】Cursor 内部工作原理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【活动】VueConf 2025 开始报名了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd"/>
         <updated>2025-05-16T00:00:00.000Z</updated>
         <published>2025-05-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【活动】VueConf 2025 开始报名了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3510期】Cursor 内部工作原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd"/>
         <updated>2025-05-16T00:00:00.000Z</updated>
         <published>2025-05-16T00:00:00.000Z</published>
     </entry>
@@ -123,6 +151,13 @@
         <title type="html"><![CDATA[2025年了，npm 与 pnpm我们该如何选择]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526203&amp;idx=2&amp;sn=d305a5a57779ffca6bf60fad6f339550&amp;chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526203&amp;idx=2&amp;sn=d305a5a57779ffca6bf60fad6f339550&amp;chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd"/>
+        <updated>2025-05-15T00:00:00.000Z</updated>
+        <published>2025-05-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惊！微软大裁员，入职 18 年，10 年 TypeScript 技术骨干被裁，贡献记录惨遭删除。网友：你的岗位要被印度人替代了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622479&amp;idx=1&amp;sn=dd921604411c776242322b09cd311879&amp;chksm=80225b8eb755d298a28a95ce9b70a63b396016346e446d0c4788e499fc8cae6ef8f3994b1a6e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622479&amp;idx=1&amp;sn=dd921604411c776242322b09cd311879&amp;chksm=80225b8eb755d298a28a95ce9b70a63b396016346e446d0c4788e499fc8cae6ef8f3994b1a6e#rd"/>
         <updated>2025-05-15T00:00:00.000Z</updated>
         <published>2025-05-15T00:00:00.000Z</published>
     </entry>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526114&amp;idx=2&amp;sn=ab0298ed04c578687a7ffc3d4d0afaa0&amp;chksm=f9926033cee5e925c2cc385bbb96d3d3b7bcade0b12a65cb2f6113dece09f79b2a07dcf3a632#rd"/>
         <updated>2025-04-30T00:00:00.000Z</updated>
         <published>2025-04-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 真有那么好用吗？Netlify 谈他们遇到的六个现实问题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526011&amp;idx=1&amp;sn=4f1c822f120896bcfbb5e6adeba87eb6&amp;chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526011&amp;idx=1&amp;sn=4f1c822f120896bcfbb5e6adeba87eb6&amp;chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd"/>
-        <updated>2025-04-30T00:00:00.000Z</updated>
-        <published>2025-04-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告别transform，是时候直接使用scale, rotate属性啦]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/"/>
-        <updated>2025-04-29T00:00:00.000Z</updated>
-        <published>2025-04-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[号称最大开源 UI 模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517188&amp;idx=1&amp;sn=fe04be5fec554b312ac362f24e4bb463&amp;chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517188&amp;idx=1&amp;sn=fe04be5fec554b312ac362f24e4bb463&amp;chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd"/>
-        <updated>2025-04-29T00:00:00.000Z</updated>
-        <published>2025-04-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8年磨一剑，Koa 3.0 正式发布！看看带来了哪些新功能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526105&amp;idx=1&amp;sn=20e51ff358c9db7e2f7975c96a79b0f0&amp;chksm=f9926008cee5e91e76347d7e8d1e03f3ec30de3a28b2db13812ff438ea9ab4d3220f0fbe0c5e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526105&amp;idx=1&amp;sn=20e51ff358c9db7e2f7975c96a79b0f0&amp;chksm=f9926008cee5e91e76347d7e8d1e03f3ec30de3a28b2db13812ff438ea9ab4d3220f0fbe0c5e#rd"/>
-        <updated>2025-04-29T00:00:00.000Z</updated>
-        <published>2025-04-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不允许你还不知道 vite-plugin-pwa]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526105&amp;idx=2&amp;sn=08cd3d6fc71d7703c300a2d644ab181c&amp;chksm=f9926008cee5e91e6d8fa84f93c68e184f502158b89875238f4e66776ba39e5254dc5a4c0fa1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526105&amp;idx=2&amp;sn=08cd3d6fc71d7703c300a2d644ab181c&amp;chksm=f9926008cee5e91e6d8fa84f93c68e184f502158b89875238f4e66776ba39e5254dc5a4c0fa1#rd"/>
-        <updated>2025-04-29T00:00:00.000Z</updated>
-        <published>2025-04-29T00:00:00.000Z</published>
     </entry>
 </feed>
