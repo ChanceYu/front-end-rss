@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-23 16:14:35，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-23 20:17:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -145,8 +145,8 @@
 - [2025-05-19-微软-25-年老员工生日当天被裁，每周工作-60+-小时，节日主动加班。网友：忠诚一文不值，他应该去朝九晚五的公司](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622497&idx=1&sn=e45b11076aa4df24c1c5b7d323104017&chksm=80225ba0b755d2b69b734d9ae6faccf96ef71824e9951a460888c2c299c43e751f1f94b8db96#rd)  
 - [2025-05-16-取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622490&idx=1&sn=5a6db6aeaa03b7b3fbf0a6b983a54884&chksm=80225b9bb755d28df7c9519288bf185c1554058ff205c0f4506a68fd59015a052a889e7a5bc2#rd)  
 - [2025-05-15-惊！微软大裁员，入职-18-年，10-年-TypeScript-技术骨干被裁，贡献记录惨遭删除。网友：你的岗位要被印度人替代了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622479&idx=1&sn=dd921604411c776242322b09cd311879&chksm=80225b8eb755d298a28a95ce9b70a63b396016346e446d0c4788e499fc8cae6ef8f3994b1a6e#rd)  
-- [2025-05-15-你知道export与export-type-的区别吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622479&idx=2&sn=b8d96823b80b05aa7dd033495177c921&chksm=80225b8eb755d2988d79c11da634932fb575dc39c7174f6e219bf9a85fba52d6300e2d784bd7#rd) ![](/assets/new.png)  
-- [2025-05-12-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622468&idx=1&sn=15d36cf6bc184c532e5c53b7d0d217aa&chksm=80225b85b755d2935fba5c9171d9c2e7858eba30937dd2972a6a99b1615a471ee0f2217378ed#rd) ![](/assets/new.png)  
+- [2025-05-15-你知道export与export-type-的区别吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622479&idx=2&sn=b8d96823b80b05aa7dd033495177c921&chksm=80225b8eb755d2988d79c11da634932fb575dc39c7174f6e219bf9a85fba52d6300e2d784bd7#rd)  
+- [2025-05-12-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622468&idx=1&sn=15d36cf6bc184c532e5c53b7d0d217aa&chksm=80225b85b755d2935fba5c9171d9c2e7858eba30937dd2972a6a99b1615a471ee0f2217378ed#rd)  
 - [2025-05-07-谷歌突发大招刷爆AI编程榜！网友：不用买Cursor了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=1&sn=fe606078a3515cf7f9c73bdeee2b1677&chksm=80225bfcb755d2ea9a94d486f47ed5cb6728f406bf3378be7ca21ff14ed05d3d765dda981113#rd)  
 - [2025-05-07-面试官最想听到的Vue和React区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=2&sn=a83100bf137c03a6e4d8b2b91aa058ec&chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd)  
 - [2025-05-02-前端面试题：浏览器两个-tab-都是同域，如何在一个tab-向另一个-tab-发消息](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=2&sn=9d518f3c1f20357d2d1724fcfc932f42&chksm=80225bf1b755d2e7d6f9a09bf11f3f9b7a85db51498feefc1b1c7cf4a182c2bf45ea151ad8e3#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd) ![](/assets/new.png)  
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  
 - [2025-05-14-Manus免费开放注册，有哪些新玩法？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502540&idx=1&sn=a4fcc963ba70619d22bc18320704b4d4&chksm=c2b30b33f5c482257d9f12d920c3b273b971987e4ad652dd4d0e55970bc2cfeb98563de89821#rd)  
@@ -406,7 +407,6 @@
 - [2025-04-10-即梦3.0全面测评，AI文生图的天花板又被击穿了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502184&idx=1&sn=92ecf05ca4d364f3a9171708337f946d&chksm=c2b30897f5c481818f06005172e2def22140a94b828e8152569364707e575b9d319ed2a845e6#rd)  
 - [2025-04-09-90%的NestJS开发者都踩过的坑：你的模块注册姿势对吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525922&idx=1&sn=4614260a9af244d83ef1ddd72e488c42&chksm=f99260f3cee5e9e526fe6cad3dfdd29ef9db334954bb7263256f6e880d24abd43bafd3039e29#rd)  
 - [2025-04-08-因网速太慢我把20M+的字体压缩到了几KB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525888&idx=2&sn=66e5fab70d2eb78a505e41e162fea4bc&chksm=f99260d1cee5e9c7b87cea175287031b761c3623017ec69d431b1c56a10cf1bb7da3ac1573c6#rd)  
-- [2025-04-07-错怪react的半年-聊聊keepalive](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=2&sn=3030a82d69091057de6ac470f5ae0131&chksm=f9926326cee5ea306cebea7af45e59f5ad10483d1afd6aebd83c7267b8f4e1aa79975b257db2#rd)  
 - [2025-04-07-Figma-MCP-Server-介绍：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
