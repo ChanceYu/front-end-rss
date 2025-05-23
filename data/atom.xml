@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-23T06:15:26.160Z</updated>
+    <updated>2025-05-23T08:14:36.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -64,16 +64,16 @@
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[突发！微软宣布 VS Code 变成开源 AI 编辑器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd"/>
+        <title type="html"><![CDATA[Nextjs首屏加载速度性能从80分优化到98分]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd"/>
         <updated>2025-05-20T00:00:00.000Z</updated>
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nextjs首屏加载速度性能从80分优化到98分]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd"/>
+        <title type="html"><![CDATA[突发！微软宣布 VS Code 变成开源 AI 编辑器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd"/>
         <updated>2025-05-20T00:00:00.000Z</updated>
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
@@ -232,6 +232,13 @@
         <published>2025-05-12T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尤雨溪：让 AI 更好的理解 Vue、Vite]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622468&amp;idx=1&amp;sn=15d36cf6bc184c532e5c53b7d0d217aa&amp;chksm=80225b85b755d2935fba5c9171d9c2e7858eba30937dd2972a6a99b1615a471ee0f2217378ed#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622468&amp;idx=1&amp;sn=15d36cf6bc184c532e5c53b7d0d217aa&amp;chksm=80225b85b755d2935fba5c9171d9c2e7858eba30937dd2972a6a99b1615a471ee0f2217378ed#rd"/>
+        <updated>2025-05-12T00:00:00.000Z</updated>
+        <published>2025-05-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vue动态弹窗（Dialog）新境界：告别繁琐，拥抱优雅！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517209&amp;idx=1&amp;sn=9f10b711f19467ee69309a1941246952&amp;chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517209&amp;idx=1&amp;sn=9f10b711f19467ee69309a1941246952&amp;chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd"/>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/734"/>
         <updated>2025-05-02T00:00:00.000Z</updated>
         <published>2025-05-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原生 Observable API 来了！能否取代每周下载 5200 万次的 RxJS？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526114&amp;idx=2&amp;sn=ab0298ed04c578687a7ffc3d4d0afaa0&amp;chksm=f9926033cee5e925c2cc385bbb96d3d3b7bcade0b12a65cb2f6113dece09f79b2a07dcf3a632#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526114&amp;idx=2&amp;sn=ab0298ed04c578687a7ffc3d4d0afaa0&amp;chksm=f9926033cee5e925c2cc385bbb96d3d3b7bcade0b12a65cb2f6113dece09f79b2a07dcf3a632#rd"/>
-        <updated>2025-04-30T00:00:00.000Z</updated>
-        <published>2025-04-30T00:00:00.000Z</published>
     </entry>
 </feed>
