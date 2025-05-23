@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-05-23 22:10:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-05-24 00:11:37。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -330,6 +330,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)
 - [【JavaScript-Weekly】Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)
 - [【JavaScript-Weekly】The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)
 - [【JavaScript-Weekly】Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)
 - [【JavaScript-Weekly】JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)
 - [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
-- [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
