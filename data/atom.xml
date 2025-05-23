@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-23T12:17:53.095Z</updated>
+    <updated>2025-05-23T14:10:10.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝Java工程师的LLM开发实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540249&amp;idx=1&amp;sn=1c8a9137594bc9772f863bc0e4dc972d&amp;chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540249&amp;idx=1&amp;sn=1c8a9137594bc9772f863bc0e4dc972d&amp;chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&amp;scene=0#rd"/>
+        <updated>2025-05-23T00:00:00.000Z</updated>
+        <published>2025-05-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪：Vue 将「去除虚拟DOM」，这将是质的飞跃！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504439&amp;idx=1&amp;sn=cd2ad8c54dc1736df51b320d356b81fb&amp;chksm=ce45c7a6f9324eb072440fa10cf74ead75937e237bd24e7efac4ef2d711b664f01d7cc7b627f#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端面试题：浏览器两个 tab 都是同域，如何在一个tab 向另一个 tab 发消息]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622448&amp;idx=2&amp;sn=9d518f3c1f20357d2d1724fcfc932f42&amp;chksm=80225bf1b755d2e7d6f9a09bf11f3f9b7a85db51498feefc1b1c7cf4a182c2bf45ea151ad8e3#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622448&amp;idx=2&amp;sn=9d518f3c1f20357d2d1724fcfc932f42&amp;chksm=80225bf1b755d2e7d6f9a09bf11f3f9b7a85db51498feefc1b1c7cf4a182c2bf45ea151ad8e3#rd"/>
-        <updated>2025-05-02T00:00:00.000Z</updated>
-        <published>2025-05-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making V8 eager to compile your JavaScript]]></title>
-        <id>https://javascriptweekly.com/issues/734</id>
-        <link href="https://javascriptweekly.com/issues/734"/>
         <updated>2025-05-02T00:00:00.000Z</updated>
         <published>2025-05-02T00:00:00.000Z</published>
     </entry>

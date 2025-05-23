@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-23 20:17:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-23 22:10:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,10 +29,10 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd) ![](/assets/new.png)  
+- [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd)  
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  
 - [2025-05-14-Manus免费开放注册，有哪些新玩法？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502540&idx=1&sn=a4fcc963ba70619d22bc18320704b4d4&chksm=c2b30b33f5c482257d9f12d920c3b273b971987e4ad652dd4d0e55970bc2cfeb98563de89821#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-05-23-淘宝Java工程师的LLM开发实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540249&idx=1&sn=1c8a9137594bc9772f863bc0e4dc972d&chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&scene=0#rd) ![](/assets/new.png)  
 - [2025-05-21-CursorRules：AI编程助手规则调优实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540219&idx=1&sn=a836c75389554ffd0f4a02166e8737d8&chksm=82bb1bf8d7e7fb50f6ac00b8a7e9086b4d4e68fbb7c1993262c3ab59d311d301ea0dcaf4b3d5&scene=0#rd)  
 - [2025-05-19-淘天⾃营质量技术AI智能体的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540203&idx=1&sn=bca98ed83a52317cf469979ca6466728&chksm=826cc0bbb0cb9ed717a18bb15e2c1a8d146ffab5f88892f1e7e329dc54fc350ff2743ee15e88&scene=0#rd)  
 - [2025-05-16-JianYi:-淘宝家装行业的分割&amp;抠图系统](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540176&idx=1&sn=9cf95ad8cc49f7a5aa57a7ba6d172e47&chksm=8251fc1484e7fb9243e1770af6f4731d459a2512555fcae3d5fbdb65f6a4fff89633e43b3745&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-04-02-虚拟线程/有栈协程对于Java的意义](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539434&idx=1&sn=51005dfbb930db9431b8a1339b5a9a23&chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd)  
 - [2025-03-31-音频生成技术探索与淘宝域实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539431&idx=1&sn=5ceb5aeaac4ff592f537d3c74bc39e3b&chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd)  
 - [2025-03-28-淘宝客户端动态化页面搭建](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539414&idx=1&sn=4e220b4dd0a0a3a202633f6934f32fc0&chksm=8390cd8eb4e7449886f5f9e8309d125c094763d146100afdeceb1bfd0799c32ef5ef21357d5a#rd)  
-- [2025-03-26-技术人的大模型应用初学指南](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539239&idx=1&sn=c4993590c9478dae8188f02ce90caddc&chksm=8390ccffb4e745e94151d2b35b21b7887218f29297e8592487a48d0b338154a5d9aeca14465d#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
