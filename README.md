@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-24 11:00:48，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-25 11:14:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,11 +25,11 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -264,11 +264,11 @@
 </summary>
 
 
-- [2025-05-23-2025年了！前端项目中代码格式还没统一？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=1&sn=5e41985ff7fbcdc3b0166962476d7fdf&chksm=f99261bdcee5e8ab5a475f11389409c537953a20218fdb32a97008bd54e9ff69b2b0a9919ab2#rd) ![](/assets/new.png)  
-- [2025-05-23-Generative、Agentic、Agents：红烧肉教我区分三类AI的能力边界](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=2&sn=d37d7c0f8c6c04d57b58ebc2b9194420&chksm=f99261bdcee5e8ab30627c6ad874a667d1031d468b709fa9df347ab921be22bd2f859e7cac44#rd) ![](/assets/new.png)  
-- [2025-05-22-ESLint-v9.26.0-发布，支持-MCP-了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd) ![](/assets/new.png)  
-- [2025-05-22-Vite打包优化实践：从分包到性能提升](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=1&sn=7ffa75e637ef9ee7aaf37acb1e98672a&chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd) ![](/assets/new.png)  
-- [2025-05-21-撸一个小程序运行容器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526240&idx=1&sn=cb2266238ed296f8b3910f627e042800&chksm=f99261b1cee5e8a71a1b0478c806a38028e4fc906acff8d8ce8cad3f2a4fca1f6c8c47ae1708#rd) ![](/assets/new.png)  
+- [2025-05-23-2025年了！前端项目中代码格式还没统一？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=1&sn=5e41985ff7fbcdc3b0166962476d7fdf&chksm=f99261bdcee5e8ab5a475f11389409c537953a20218fdb32a97008bd54e9ff69b2b0a9919ab2#rd)  
+- [2025-05-23-Generative、Agentic、Agents：红烧肉教我区分三类AI的能力边界](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=2&sn=d37d7c0f8c6c04d57b58ebc2b9194420&chksm=f99261bdcee5e8ab30627c6ad874a667d1031d468b709fa9df347ab921be22bd2f859e7cac44#rd)  
+- [2025-05-22-ESLint-v9.26.0-发布，支持-MCP-了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd)  
+- [2025-05-22-Vite打包优化实践：从分包到性能提升](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=1&sn=7ffa75e637ef9ee7aaf37acb1e98672a&chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd)  
+- [2025-05-21-撸一个小程序运行容器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526240&idx=1&sn=cb2266238ed296f8b3910f627e042800&chksm=f99261b1cee5e8a71a1b0478c806a38028e4fc906acff8d8ce8cad3f2a4fca1f6c8c47ae1708#rd)  
 - [2025-05-20-浏览器如何确定最终的CSS属性值？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=2&sn=faeca456b232c6617c86b8f6ba3ec6b9&chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd)  
 - [2025-05-20-简单盘点下前端日志采集的几种方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=1&sn=1fab1e539dae7347e8b8cf46641a7fef&chksm=f9926182cee5e89482455cdad3725dfb3586fbe2967f44a0517ac5d19800d93fd190e84d2451#rd)  
 - [2025-05-19-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526221&idx=1&sn=1968ed632ed012b4bbbd2a013c6e8dc0&chksm=f992619ccee5e88ad47c491d377a58d04b1e96335dc3be0b632a40784c7387b0108a240bb67a#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd) ![](/assets/new.png)  
 - [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd)  
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  
@@ -407,7 +408,6 @@
 - [2025-04-10-即梦3.0全面测评，AI文生图的天花板又被击穿了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502184&idx=1&sn=92ecf05ca4d364f3a9171708337f946d&chksm=c2b30897f5c481818f06005172e2def22140a94b828e8152569364707e575b9d319ed2a845e6#rd)  
 - [2025-04-09-90%的NestJS开发者都踩过的坑：你的模块注册姿势对吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525922&idx=1&sn=4614260a9af244d83ef1ddd72e488c42&chksm=f99260f3cee5e9e526fe6cad3dfdd29ef9db334954bb7263256f6e880d24abd43bafd3039e29#rd)  
 - [2025-04-08-因网速太慢我把20M+的字体压缩到了几KB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525888&idx=2&sn=66e5fab70d2eb78a505e41e162fea4bc&chksm=f99260d1cee5e9c7b87cea175287031b761c3623017ec69d431b1c56a10cf1bb7da3ac1573c6#rd)  
-- [2025-04-07-Figma-MCP-Server-介绍：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247525879&idx=1&sn=477a2528bfa8ba5700a1cfe3b1b7c080&chksm=f9926326cee5ea30db0e401194580ce4d48805841926b88ebd0046cab80dd3481d21b9db1fb0#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
