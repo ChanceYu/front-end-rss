@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-25 11:14:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-26 12:16:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,26 +109,26 @@
 </summary>
 
 
+- [2025-05-26-【图书】技术工程师的24堂设计思维课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=2&sn=0250d0a4a32ce5a83739f08193db8510&chksm=bca524e636fc75e58708cca2042fd1a60fcbd95009442b67116ec448cfe6cfda760428ac2f1d&scene=0#rd) ![](/assets/new.png)  
+- [2025-05-26-【第3516期】避免陷入状态同步的陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=1&sn=40f708e1a673c0d73ceebd9ca0b7b29a&chksm=bcf20b24832a32e328ae720241fae2de3c19abc71622cc1a5f8a818657bf12b788c4109fc7af&scene=0#rd) ![](/assets/new.png)  
 - [2025-05-23-【第3515期】前端的下一次演进：AI-驱动的状态管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276497&idx=1&sn=838e4ccb05f091266c280796cfe32087&chksm=bc97b9c61d3eb34e16ec4edfd29804d22aed3b179a2a92fbc4bc33ba1e879898b67d17b06f8f&scene=0#rd)  
 - [2025-05-22-【第3514期】JavaScript-的新超能力：显式资源管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276486&idx=1&sn=993e77b8d814daa31edc9f065be98180&chksm=bcb7a0efa7df100c055ca394e411f9ca7981fc37e9eabc2ed3a2100e01b0260d303b1b9f293b&scene=0#rd)  
-- [2025-05-21-【第3513期】如何在-CSS-中让浏览器选择对比色](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=1&sn=af1399fc0b1f32b94513c896b9532f44&chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&scene=0#rd)  
 - [2025-05-21-【图书】DeepSeek-原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=2&sn=dceba5ecfb7ef7d1d15b665cfa27962f&chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&scene=0#rd)  
-- [2025-05-20-【第3512期】一个用于简单实时更新的酷炫-HTTP-特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=1&sn=1b5c1667395a2592017629a3607f13f3&chksm=bc46c1e70f749e3cbd2b9397e1a3a02f12de60e6dc301bc078dae4f8ad3cd33ce19ef9ad567f&scene=0#rd)  
+- [2025-05-21-【第3513期】如何在-CSS-中让浏览器选择对比色](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=1&sn=af1399fc0b1f32b94513c896b9532f44&chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&scene=0#rd)  
 - [2025-05-20-【图书】DeepSeek核心技术揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=2&sn=e3eba370de23592532ac7a04e2ee99f4&chksm=bcf11bc42a1ad43a4c7374bc11fae282f8569498f9cbc92d750bb276f2e2f7b190d0aac092bd&scene=0#rd)  
+- [2025-05-20-【第3512期】一个用于简单实时更新的酷炫-HTTP-特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276449&idx=1&sn=1b5c1667395a2592017629a3607f13f3&chksm=bc46c1e70f749e3cbd2b9397e1a3a02f12de60e6dc301bc078dae4f8ad3cd33ce19ef9ad567f&scene=0#rd)  
 - [2025-05-19-【第3511期】前端很难](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276441&idx=1&sn=4d926d20f1218615d80c71038a50b2fa&chksm=bc41e7a72f97331ac0614891b9517991546aad11dbf3a9c99719451853cf16ea1da93caf4e15&scene=0#rd)  
-- [2025-05-16-【第3510期】Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=1&sn=48d8cadcac307f73ba6f0a86abff3937&chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&scene=0#rd)  
 - [2025-05-16-【活动】VueConf-2025-开始报名了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=2&sn=9f54940e4578607044a3547154fbc1ce&chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&scene=0#rd)  
+- [2025-05-16-【第3510期】Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276436&idx=1&sn=48d8cadcac307f73ba6f0a86abff3937&chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&scene=0#rd)  
 - [2025-05-15-【第3509期】Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276422&idx=1&sn=6b919eca445170b1d7745be3e6891912&chksm=bceb6488576a7d26f7438c9328c7563bf9c3fada01e71b86ef6a36c983ee8e703bdffbf41aa2&scene=0#rd)  
 - [2025-05-14-【第3508期】FunProxy---使用-Rust-构建跨平台全链路测试抓包代理工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276415&idx=1&sn=cb9e09054ffb312debb0041744653b0c&chksm=bc84ab0fdb0598b0c31390f180a0e8a94291d6e05a92ec23040167cdeb2044086ec2ca3422b3&scene=0#rd)  
-- [2025-05-13-【第3507期】基本属实的命名规则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276405&idx=1&sn=0702da42c429aca5109f25d1e4e34b8b&chksm=bc7ec0cf282ba1848b2ee2a275097aff805822432a250b00ee748b710f4b6a2b61efb9208832&scene=0#rd)  
 - [2025-05-13-【图书】动手学计算机视觉](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276405&idx=2&sn=58ee756a0a6f84cb66a94360605a988f&chksm=bc78b33eb5b111b749317142fc50dc42a6237d13f4a6fd25b5b3bfb0459ab913d0fc58005b6e&scene=0#rd)  
+- [2025-05-13-【第3507期】基本属实的命名规则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276405&idx=1&sn=0702da42c429aca5109f25d1e4e34b8b&chksm=bc7ec0cf282ba1848b2ee2a275097aff805822432a250b00ee748b710f4b6a2b61efb9208832&scene=0#rd)  
 - [2025-05-12-【第3506期】开发者专用的-AI-提示词使用指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276395&idx=1&sn=3fff9ab84ffb1715e8accb26bfe7c6a9&chksm=bcd35e5f76ce77a24ede583f7dd7fe164d58f94a0c29b3abf0e137cc5d487732b0759b985f46&scene=0#rd)  
 - [2025-05-09-【第3505期】依赖分类](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276356&idx=1&sn=8a9821492e67075b2a8119c15e14bdde&chksm=bc66800501b5ec2da82b6b52415e3d1d014a70328f422a10b5c25561bcab3d3cdc3b472f9d75&scene=0#rd)  
-- [2025-05-08-【第3504期】清理已失效的分支](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bc669dd009605d8e0db1bcf03e65a1331ad9aceb9d030df477b34713bf9d1a0870b423acf30f&scene=0#rd)  
 - [2025-05-08-【图书】认知跃迁：CTO写给程序员的26节成长课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=2&sn=da17799fff6b6356d7ea7d31ddeeaf2a&chksm=bce0cb84db1feaa053faa758cc5dbe5d6ee82f8e71cf8191a352ad5f16ebf998f78dbcf980cb&scene=0#rd)  
-- [2025-05-07-【图书】DeepSeek快速上手：高效实用的AI玩法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=2&sn=3619c241982112cbebfad2045b510e80&chksm=bcabaeaa3bcc608de7f38624a32776a3eacffd3d4ea97b1f624d05043e99f6b791fc7f16c7be&scene=0#rd)  
+- [2025-05-08-【第3504期】清理已失效的分支](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276351&idx=1&sn=4ede1b072f0a2de0722d43b45e7a0451&chksm=bc669dd009605d8e0db1bcf03e65a1331ad9aceb9d030df477b34713bf9d1a0870b423acf30f&scene=0#rd)  
 - [2025-05-07-【第3503期】人人都需要一个-HTTP-proxy-来-debug](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276343&idx=1&sn=13268c442ea860d3c73d02a930dd5878&chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&scene=0#rd)  
-- [2025-05-06-【第3502期】如何编写用户友好的错误提示？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276335&idx=1&sn=9caa7f7932dc6b0e89e12c902ffbb54e&chksm=bc596340dfb43a7db8e6eadd7edef8fb94b176911e6a24e4cc24a74dc2adc4e57d3f5d9f4c53&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd) ![](/assets/new.png)  
+- [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd)  
 - [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd)  
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-25T03:14:45.421Z</updated>
+    <updated>2025-05-26T04:16:19.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,16 +71,16 @@
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】DeepSeek 原理与项目实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3513期】如何在 CSS 中让浏览器选择对比色]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3513期】如何在 CSS 中让浏览器选择对比色]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】DeepSeek 原理与项目实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
@@ -162,16 +162,16 @@
         <published>2025-05-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【活动】VueConf 2025 开始报名了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3510期】Cursor 内部工作原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd"/>
         <updated>2025-05-16T00:00:00.000Z</updated>
         <published>2025-05-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3510期】Cursor 内部工作原理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【活动】VueConf 2025 开始报名了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd"/>
         <updated>2025-05-16T00:00:00.000Z</updated>
         <published>2025-05-16T00:00:00.000Z</published>
     </entry>
