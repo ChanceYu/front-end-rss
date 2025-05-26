@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-26 12:16:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-26 18:15:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-05-26-【图书】技术工程师的24堂设计思维课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=2&sn=0250d0a4a32ce5a83739f08193db8510&chksm=bca524e636fc75e58708cca2042fd1a60fcbd95009442b67116ec448cfe6cfda760428ac2f1d&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-26-【第3516期】避免陷入状态同步的陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=1&sn=40f708e1a673c0d73ceebd9ca0b7b29a&chksm=bcf20b24832a32e328ae720241fae2de3c19abc71622cc1a5f8a818657bf12b788c4109fc7af&scene=0#rd) ![](/assets/new.png)  
+- [2025-05-26-【图书】技术工程师的24堂设计思维课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=2&sn=0250d0a4a32ce5a83739f08193db8510&chksm=bca524e636fc75e58708cca2042fd1a60fcbd95009442b67116ec448cfe6cfda760428ac2f1d&scene=0#rd)  
+- [2025-05-26-【第3516期】避免陷入状态同步的陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=1&sn=40f708e1a673c0d73ceebd9ca0b7b29a&chksm=bcf20b24832a32e328ae720241fae2de3c19abc71622cc1a5f8a818657bf12b788c4109fc7af&scene=0#rd)  
 - [2025-05-23-【第3515期】前端的下一次演进：AI-驱动的状态管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276497&idx=1&sn=838e4ccb05f091266c280796cfe32087&chksm=bc97b9c61d3eb34e16ec4edfd29804d22aed3b179a2a92fbc4bc33ba1e879898b67d17b06f8f&scene=0#rd)  
 - [2025-05-22-【第3514期】JavaScript-的新超能力：显式资源管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276486&idx=1&sn=993e77b8d814daa31edc9f065be98180&chksm=bcb7a0efa7df100c055ca394e411f9ca7981fc37e9eabc2ed3a2100e01b0260d303b1b9f293b&scene=0#rd)  
 - [2025-05-21-【图书】DeepSeek-原理与项目实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276471&idx=2&sn=dceba5ecfb7ef7d1d15b665cfa27962f&chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-05-26-淘宝直播组件调度、复用和治理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540277&idx=1&sn=9b95746c39c2432b29b75aa6c0d7964e&chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&scene=0#rd) ![](/assets/new.png)  
 - [2025-05-23-淘宝Java工程师的LLM开发实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540249&idx=1&sn=1c8a9137594bc9772f863bc0e4dc972d&chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&scene=0#rd)  
 - [2025-05-21-CursorRules：AI编程助手规则调优实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540219&idx=1&sn=a836c75389554ffd0f4a02166e8737d8&chksm=82bb1bf8d7e7fb50f6ac00b8a7e9086b4d4e68fbb7c1993262c3ab59d311d301ea0dcaf4b3d5&scene=0#rd)  
 - [2025-05-19-淘天⾃营质量技术AI智能体的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540203&idx=1&sn=bca98ed83a52317cf469979ca6466728&chksm=826cc0bbb0cb9ed717a18bb15e2c1a8d146ffab5f88892f1e7e329dc54fc350ff2743ee15e88&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-04-07-基于Flow-matching的扩散模型原理解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539507&idx=1&sn=1650db468e2d794a85b1012df6628490&chksm=8390cdebb4e744fd07635a234612abc3b0c1f6400837022f75e1e9dee2fdce276551a87cc62d#rd)  
 - [2025-04-02-虚拟线程/有栈协程对于Java的意义](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539434&idx=1&sn=51005dfbb930db9431b8a1339b5a9a23&chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd)  
 - [2025-03-31-音频生成技术探索与淘宝域实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539431&idx=1&sn=5ceb5aeaac4ff592f537d3c74bc39e3b&chksm=8390cdbfb4e744a943e4195602716c1d1526d46541e89700341a8cbc2835403812702711730f#rd)  
-- [2025-03-28-淘宝客户端动态化页面搭建](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539414&idx=1&sn=4e220b4dd0a0a3a202633f6934f32fc0&chksm=8390cd8eb4e7449886f5f9e8309d125c094763d146100afdeceb1bfd0799c32ef5ef21357d5a#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

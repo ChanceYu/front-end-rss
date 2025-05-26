@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-26T04:16:19.648Z</updated>
+    <updated>2025-05-26T10:15:04.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播组件调度、复用和治理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540277&amp;idx=1&amp;sn=9b95746c39c2432b29b75aa6c0d7964e&amp;chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540277&amp;idx=1&amp;sn=9b95746c39c2432b29b75aa6c0d7964e&amp;chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&amp;scene=0#rd"/>
+        <updated>2025-05-26T00:00:00.000Z</updated>
+        <published>2025-05-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝Java工程师的LLM开发实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540249&amp;idx=1&amp;sn=1c8a9137594bc9772f863bc0e4dc972d&amp;chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[首个移动端 AI 组件库正式发布！并宣布开源啦！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504042&amp;idx=1&amp;sn=b422e60996e7b3b9c0898155800a06d7&amp;chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504042&amp;idx=1&amp;sn=b422e60996e7b3b9c0898155800a06d7&amp;chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd"/>
-        <updated>2025-05-06T00:00:00.000Z</updated>
-        <published>2025-05-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 24 released]]></title>
-        <id>https://nodeweekly.com/issues/577</id>
-        <link href="https://nodeweekly.com/issues/577"/>
         <updated>2025-05-06T00:00:00.000Z</updated>
         <published>2025-05-06T00:00:00.000Z</published>
     </entry>
