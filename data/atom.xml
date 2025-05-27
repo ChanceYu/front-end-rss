@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-27T04:15:39.772Z</updated>
+    <updated>2025-05-27T16:12:10.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3517期】stagewise：让AI与代码编辑器无缝连接]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276516&amp;idx=1&amp;sn=d1dfeb7103ef039786dc7098a1fbeace&amp;chksm=bc0a86affcfc7c5004fcaf5b16977c2b05c137e59cd55b5821fab47d73e5eda45465dbc6d731&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276516&amp;idx=1&amp;sn=d1dfeb7103ef039786dc7098a1fbeace&amp;chksm=bc0a86affcfc7c5004fcaf5b16977c2b05c137e59cd55b5821fab47d73e5eda45465dbc6d731&amp;scene=0#rd"/>
+        <updated>2025-05-27T00:00:00.000Z</updated>
+        <published>2025-05-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Node.js team has been discussing lately]]></title>
+        <id>https://nodeweekly.com/issues/579</id>
+        <link href="https://nodeweekly.com/issues/579"/>
         <updated>2025-05-27T00:00:00.000Z</updated>
         <published>2025-05-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面试官最想听到的Vue和React区别]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622461&amp;idx=2&amp;sn=a83100bf137c03a6e4d8b2b91aa058ec&amp;chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622461&amp;idx=2&amp;sn=a83100bf137c03a6e4d8b2b91aa058ec&amp;chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd"/>
-        <updated>2025-05-07T00:00:00.000Z</updated>
-        <published>2025-05-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3503期】人人都需要一个 HTTP proxy 来 debug]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276343&amp;idx=1&amp;sn=13268c442ea860d3c73d02a930dd5878&amp;chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276343&amp;idx=1&amp;sn=13268c442ea860d3c73d02a930dd5878&amp;chksm=bc6bf1ba66d255f253d15597761780a9d2e043c3e3576e8a7322c45c9ea46697b18fbab7e13a&amp;scene=0#rd"/>
         <updated>2025-05-07T00:00:00.000Z</updated>
         <published>2025-05-07T00:00:00.000Z</published>
     </entry>
