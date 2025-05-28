@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-28 11:07:17，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-28 16:13:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-05-28-【图书】大模型算法：强化学习、微调与对齐（全彩）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=2&sn=9bb691592bd01aeac67f12a146060b15&chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&scene=0#rd) ![](/assets/new.png)  
-- [2025-05-28-【第3518期】使用-margin-trim-更轻松地布局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=1&sn=a092698872868a18a7617a9e3f93aef2&chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&scene=0#rd) ![](/assets/new.png)  
+- [2025-05-28-【图书】大模型算法：强化学习、微调与对齐（全彩）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=2&sn=9bb691592bd01aeac67f12a146060b15&chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&scene=0#rd)  
+- [2025-05-28-【第3518期】使用-margin-trim-更轻松地布局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=1&sn=a092698872868a18a7617a9e3f93aef2&chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&scene=0#rd)  
 - [2025-05-27-【第3517期】stagewise：让AI与代码编辑器无缝连接](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276516&idx=1&sn=d1dfeb7103ef039786dc7098a1fbeace&chksm=bc0a86affcfc7c5004fcaf5b16977c2b05c137e59cd55b5821fab47d73e5eda45465dbc6d731&scene=0#rd)  
 - [2025-05-26-【图书】技术工程师的24堂设计思维课](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=2&sn=0250d0a4a32ce5a83739f08193db8510&chksm=bca524e636fc75e58708cca2042fd1a60fcbd95009442b67116ec448cfe6cfda760428ac2f1d&scene=0#rd)  
 - [2025-05-26-【第3516期】避免陷入状态同步的陷阱](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276512&idx=1&sn=40f708e1a673c0d73ceebd9ca0b7b29a&chksm=bcf20b24832a32e328ae720241fae2de3c19abc71622cc1a5f8a818657bf12b788c4109fc7af&scene=0#rd)  
@@ -264,12 +264,12 @@
 </summary>
 
 
-- [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd) ![](/assets/new.png)  
-- [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd) ![](/assets/new.png)  
-- [2025-05-26-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=1&sn=19f75c4d827a3978bbef922dca8a4896&chksm=f99261aecee5e8b8024c3ee6b2e3bea64b758367c3c3af05fe9b8f5ce89f6bb5ad8e51e73fcf#rd) ![](/assets/new.png)  
-- [2025-05-26-你还不知道的大文件上传](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=2&sn=83ab9cdb3b12810be7b156e320b0cfe2&chksm=f99261aecee5e8b8ca14dbe1f4214719a335f2ca4acecaca7085672bf0629eb3dd2b3eed305b#rd) ![](/assets/new.png)  
-- [2025-05-25-原子化的未来？了解一下全面进化的CSS-attr函数](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=2&sn=c433745c80b7c2957557952dfa92fece&chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd) ![](/assets/new.png)  
-- [2025-05-25-JavaScript-的新超能力：显式资源管理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=1&sn=80f05706e63fbaa883be123cc0df3cd7&chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd) ![](/assets/new.png)  
+- [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd)  
+- [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd)  
+- [2025-05-26-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=1&sn=19f75c4d827a3978bbef922dca8a4896&chksm=f99261aecee5e8b8024c3ee6b2e3bea64b758367c3c3af05fe9b8f5ce89f6bb5ad8e51e73fcf#rd)  
+- [2025-05-26-你还不知道的大文件上传](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=2&sn=83ab9cdb3b12810be7b156e320b0cfe2&chksm=f99261aecee5e8b8ca14dbe1f4214719a335f2ca4acecaca7085672bf0629eb3dd2b3eed305b#rd)  
+- [2025-05-25-原子化的未来？了解一下全面进化的CSS-attr函数](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=2&sn=c433745c80b7c2957557952dfa92fece&chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd)  
+- [2025-05-25-JavaScript-的新超能力：显式资源管理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=1&sn=80f05706e63fbaa883be123cc0df3cd7&chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd)  
 - [2025-05-23-Generative、Agentic、Agents：红烧肉教我区分三类AI的能力边界](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=2&sn=d37d7c0f8c6c04d57b58ebc2b9194420&chksm=f99261bdcee5e8ab30627c6ad874a667d1031d468b709fa9df347ab921be22bd2f859e7cac44#rd)  
 - [2025-05-23-2025年了！前端项目中代码格式还没统一？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=1&sn=5e41985ff7fbcdc3b0166962476d7fdf&chksm=f99261bdcee5e8ab5a475f11389409c537953a20218fdb32a97008bd54e9ff69b2b0a9919ab2#rd)  
 - [2025-05-22-Vite打包优化实践：从分包到性能提升](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=1&sn=7ffa75e637ef9ee7aaf37acb1e98672a&chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/) ![](/assets/new.png)  
 - [2025-05-23-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/)  
 - [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)  
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
@@ -531,7 +532,6 @@
 - [2025-01-22-JS原生的深拷贝API-structuredClone函数简介](https://www.zhangxinxu.com/wordpress/2025/01/js-api-structuredclone/)  
 - [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
-- [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
