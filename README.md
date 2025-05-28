@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-28 16:13:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-28 18:11:00，:rocket: 更新条数: +7， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -140,26 +140,26 @@
 </summary>
 
 
-- [2025-05-26-Java-之父怒斥：AI-是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=1&sn=6d41ee9991b52c3a8dfbe51a783e01aa&chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd)  
+- [2025-05-28-别再写一堆-if-else-了：用状态模式优雅管理状态行为](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622533&idx=1&sn=513e6373feccfe155de845acaebfe74f&chksm=80225b44b755d25233d50c20e6ccfd5331fe60941216d4b452d2fdbe83ae30a3d129ab5708df#rd) ![](/assets/new.png)  
+- [2025-05-28-用分层结构扩展你的-React-项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622533&idx=2&sn=bc910e0bff0de1e0e2e4104b0aeb1b2e&chksm=80225b44b755d252e037317373e6deb6a3589818ad00ae261347924de8078c0717ef25d83be3#rd) ![](/assets/new.png)  
 - [2025-05-26-前端内存泄漏：你的JS代码在偷偷“吃”内存！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=2&sn=7e5cae0314bc7328354ac14169b85e1a&chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd)  
-- [2025-05-20-Nextjs首屏加载速度性能从80分优化到98分](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622509&idx=2&sn=e6737384fc627a43e7810291082c96a2&chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd)  
+- [2025-05-26-Java-之父怒斥：AI-是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=1&sn=6d41ee9991b52c3a8dfbe51a783e01aa&chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd)  
 - [2025-05-20-突发！微软宣布-VS-Code-变成开源-AI-编辑器](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622509&idx=1&sn=af60fc1b136020064c830568e0dcc95d&chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd)  
+- [2025-05-20-Nextjs首屏加载速度性能从80分优化到98分](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622509&idx=2&sn=e6737384fc627a43e7810291082c96a2&chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd)  
 - [2025-05-19-微软-25-年老员工生日当天被裁，每周工作-60+-小时，节日主动加班。网友：忠诚一文不值，他应该去朝九晚五的公司](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622497&idx=1&sn=e45b11076aa4df24c1c5b7d323104017&chksm=80225ba0b755d2b69b734d9ae6faccf96ef71824e9951a460888c2c299c43e751f1f94b8db96#rd)  
 - [2025-05-16-取代前端岗，中国又一新兴岗位在崛起！这才是程序员未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622490&idx=1&sn=5a6db6aeaa03b7b3fbf0a6b983a54884&chksm=80225b9bb755d28df7c9519288bf185c1554058ff205c0f4506a68fd59015a052a889e7a5bc2#rd)  
-- [2025-05-15-你知道export与export-type-的区别吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622479&idx=2&sn=b8d96823b80b05aa7dd033495177c921&chksm=80225b8eb755d2988d79c11da634932fb575dc39c7174f6e219bf9a85fba52d6300e2d784bd7#rd)  
 - [2025-05-15-惊！微软大裁员，入职-18-年，10-年-TypeScript-技术骨干被裁，贡献记录惨遭删除。网友：你的岗位要被印度人替代了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622479&idx=1&sn=dd921604411c776242322b09cd311879&chksm=80225b8eb755d298a28a95ce9b70a63b396016346e446d0c4788e499fc8cae6ef8f3994b1a6e#rd)  
+- [2025-05-15-你知道export与export-type-的区别吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622479&idx=2&sn=b8d96823b80b05aa7dd033495177c921&chksm=80225b8eb755d2988d79c11da634932fb575dc39c7174f6e219bf9a85fba52d6300e2d784bd7#rd)  
 - [2025-05-12-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622468&idx=1&sn=15d36cf6bc184c532e5c53b7d0d217aa&chksm=80225b85b755d2935fba5c9171d9c2e7858eba30937dd2972a6a99b1615a471ee0f2217378ed#rd)  
-- [2025-05-07-面试官最想听到的Vue和React区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=2&sn=a83100bf137c03a6e4d8b2b91aa058ec&chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd)  
 - [2025-05-07-谷歌突发大招刷爆AI编程榜！网友：不用买Cursor了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=1&sn=fe606078a3515cf7f9c73bdeee2b1677&chksm=80225bfcb755d2ea9a94d486f47ed5cb6728f406bf3378be7ca21ff14ed05d3d765dda981113#rd)  
-- [2025-05-02-月薪3万35岁脑干出血程序员：ICU躺了28天，治疗花了约50万元，之前想要挣钱，现在想“好好爱自己”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=1&sn=ab6e36b88d07ebb39624db5740603678&chksm=80225bf1b755d2e70821626382e3b8518883d04620b4d7df67b8cba0e2b034a2c1387cdb5214#rd)  
+- [2025-05-07-面试官最想听到的Vue和React区别](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622461&idx=2&sn=a83100bf137c03a6e4d8b2b91aa058ec&chksm=80225bfcb755d2ea4e0f2b77e910dcba2f230800940121d1acef62cd4c11703e8a6524de0e79#rd)  
 - [2025-05-02-前端面试题：浏览器两个-tab-都是同域，如何在一个tab-向另一个-tab-发消息](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=2&sn=9d518f3c1f20357d2d1724fcfc932f42&chksm=80225bf1b755d2e7d6f9a09bf11f3f9b7a85db51498feefc1b1c7cf4a182c2bf45ea151ad8e3#rd)  
+- [2025-05-02-月薪3万35岁脑干出血程序员：ICU躺了28天，治疗花了约50万元，之前想要挣钱，现在想“好好爱自己”](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622448&idx=1&sn=ab6e36b88d07ebb39624db5740603678&chksm=80225bf1b755d2e70821626382e3b8518883d04620b4d7df67b8cba0e2b034a2c1387cdb5214#rd)  
 - [2025-04-25-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622438&idx=1&sn=4b1d94e78591d4b640a161bc5e4d4ff5&chksm=80225be7b755d2f1db9a437f09862fedfaff71fccdfa90e932b183042cc3f80ed01180461d37#rd)  
 - [2025-04-23-突发！谷歌被逼卖身，OpenAI趁机收购Chrome？十亿搜索市场大洗牌](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622428&idx=1&sn=76a2b7d4dd1f62f76b8424e3e5441f24&chksm=80225bddb755d2cb0787f12151c7d2ef152ed3d30ebd7e0a75e2e5ce67710dc74a21755837b9#rd)  
-- [2025-04-22-前端内存泄漏：你的JS代码在偷偷“吃”内存！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622420&idx=2&sn=61259a9ba514083ac73e57d93ae6b820&chksm=80225bd5b755d2c3f95863ea1f0f2b90ca1fbd44a0617f5c31e4a5d91f9a100745f8cea9970b#rd)  
 - [2025-04-22-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622420&idx=1&sn=eaedc1f1cc3cd5a8a8afef424bbabf7d&chksm=80225bd5b755d2c3c823185924eec7829c6ce49807c916e2a29f0879fa4b3a1af16f8d5ab98c#rd)  
-- [2025-04-21-响应式机制的未来：Signal-与现代前端框架](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622401&idx=1&sn=c6f88192f12d103915f15de7a8453503&chksm=80225bc0b755d2d67c460eda3c52627393c6213cfb05362cf50aa91c75264aaf651d69b32119#rd)  
+- [2025-04-22-前端内存泄漏：你的JS代码在偷偷“吃”内存！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622420&idx=2&sn=61259a9ba514083ac73e57d93ae6b820&chksm=80225bd5b755d2c3f95863ea1f0f2b90ca1fbd44a0617f5c31e4a5d91f9a100745f8cea9970b#rd)  
 - [2025-04-21-前端组件解耦利器：发布订阅模式](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622401&idx=2&sn=3ea96a50e5c6a6ea144430ee076bc336&chksm=80225bc0b755d2d690fcd11d8ba9748362d10c00950898b9a5f571d733660946276fdf03f03b#rd)  
-- [2025-04-17-CSS-view：JavaScript-滚动动画的终结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622341&idx=1&sn=5dc03b73d6864264f842bcd7c4865a10&chksm=80225c04b755d512775269af81e8d6c9f8e29d99d6915eedd9900ec04a9191c0b595ac250804#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,11 @@
 </summary>
 
 
+- [2025-05-28-为什么很多人都不升级-Vue3.5？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504502&idx=1&sn=3673811f5f7639896cb88efe929a59b1&chksm=ce45c7e7f9324ef166598d61d96639df6018dafb6b6157f62ad6c656828f2264f931fd531bba#rd) ![](/assets/new.png)  
+- [2025-05-27-每天讲一家公司的前端薪资——富途（深圳）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504500&idx=1&sn=277dcd7938e44832958bb7eec3b19c55&chksm=ce45c7e5f9324ef343ae302005a1e76a64b12bc805b5752463ce2766c69d84ba99209159ec21#rd) ![](/assets/new.png)  
+- [2025-05-26-正式发布！TypeScript-提升了-10-倍的性能](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504491&idx=1&sn=6dafe32a6b7960c4475aa283d138231c&chksm=ce45c7faf9324eec9487a8bb903b46c85bd815ccd497edee8ed695bf504a9572fd66dc301289#rd) ![](/assets/new.png)  
+- [2025-05-25-作为老前端程序员，有哪些知心话，想对新手说？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504481&idx=1&sn=183a9c3d15147e42d852d16afe4fb64e&chksm=ce45c7f0f9324ee6441052c9bc248f88ec31933cc2186e4c7a935ffc716aebd18eaca81c0bf8#rd) ![](/assets/new.png)  
+- [2025-05-24-每天讲一家公司的前端薪资——汇川技术（深圳）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504477&idx=1&sn=53f21cf25a10f107a8969414dc29f477&chksm=ce45c7ccf9324edad25ae1970fda21d4d9e101c74408f3556829fc47415dc67756bfa85a4a10#rd) ![](/assets/new.png)  
 - [2025-05-23-尤雨溪：Vue-将「去除虚拟DOM」，这将是质的飞跃！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504439&idx=1&sn=cd2ad8c54dc1736df51b320d356b81fb&chksm=ce45c7a6f9324eb072440fa10cf74ead75937e237bd24e7efac4ef2d711b664f01d7cc7b627f#rd)  
 - [2025-05-22-用前端实现“手电筒”效果，照亮世界！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504429&idx=1&sn=f5bae5e3e4ffb9c891864c60a5a65265&chksm=ce45c7bcf9324eaabed357f5612b008c3e890020c5a2cf2c4dbef789c2fd2a726cebd4f8e160#rd)  
 - [2025-05-21-字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504402&idx=1&sn=bd37ee60282255c426cff119cac99738&chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd)  
@@ -217,11 +222,6 @@
 - [2025-05-10-漫谈：日本IT人才紧缺50w人，而国内却裁员内卷？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504284&idx=1&sn=4d9b6e6fd0456d425c538e24c15e7ba5&chksm=ce45c40df9324d1b7128112a56fcaae4cb46cea8d50a548566997ec142b802f4994ad66272b2#rd)  
 - [2025-05-09-狂欢！Cursor-正式宣布免费使用一年【附教程】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504243&idx=1&sn=1ab6b59088cde4a93a1994f905e14432&chksm=ce45c4e2f9324df4df6490525003002db994eb7cd39d96dd28260ef01045c9b73a197f5a8de8#rd)  
 - [2025-05-08-Vue3-官方宣布淘汰-Axios，拥抱新趋势](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504205&idx=1&sn=4df65c1940eaa5e216ea8b68bd9506d7&chksm=ce45c4dcf9324dca6b58ae7f8b9ee8967d0b55b013df247c89df62305757f3d152350ae02169#rd)  
-- [2025-05-07-DeepSeek-锐评前端！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504051&idx=1&sn=9d43c748ffa10aa24fa7756159c29763&chksm=ce45c522f9324c344bc1b6c4113a7697e2c3987a906a826261fee2cf491441facacc262be8ab#rd)  
-- [2025-05-06-首个移动端-AI-组件库正式发布！并宣布开源啦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504042&idx=1&sn=b422e60996e7b3b9c0898155800a06d7&chksm=ce45c53bf9324c2d533f91b8fe3cc09882f5470eb877fcc387a1d21af7842bbbf4714ecdf6f8#rd)  
-- [2025-05-05-纯前端做图片压缩？请使用这个神库！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504040&idx=1&sn=e6c99855281c19a472ea9b253a1bc73d&chksm=ce45c539f9324c2f0c6cf7a7a5fd080d51bc7ef7d9b0c295f9dde2d0bdea2ab1276f91d200ce#rd)  
-- [2025-05-04-2025了，Vue3-中做轮询的几种最新方式](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504039&idx=1&sn=ae542c2426bcf021b323c77d11c6dce8&chksm=ce45c536f9324c20f1a0a681388cc5166e8526e0590b71657b043096306dd00c0a65256466c7#rd)  
-- [2025-05-03-ECMAScript-2025-强势更新！前端开发效率更上一层楼！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504038&idx=1&sn=d76f36149a3ca0b385072114d74600ec&chksm=ce45c537f9324c21a3f38bcd365dfd6a128454cbf327ba69e8c4b76c91b190c3106ecbecb1c0#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/) ![](/assets/new.png)  
+- [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
 - [2025-05-23-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/)  
 - [2025-05-12-CSS-animation-composition可以让动画效果累加](https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/)  
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
