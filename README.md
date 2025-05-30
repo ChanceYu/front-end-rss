@@ -14,23 +14,23 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-30 20:17:39，:rocket: 更新条数: +8， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-31 00:12:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738) ![](/assets/new.png)  
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
 - [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
@@ -97,7 +98,6 @@
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
 - [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
-- [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,9 +264,9 @@
 </summary>
 
 
-- [2025-05-29-vite构建优化，速度提升了73%-&amp;-rollup拆包8.4M降低至1000kb](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=1&sn=e216b490720cda5ebfcfd1fbfbea7628&chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd) ![](/assets/new.png)  
-- [2025-05-29-不要再代码中滥用-useCallback-和useMemo](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=2&sn=f20ec923677c441122fb783771923cb1&chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd) ![](/assets/new.png)  
-- [2025-05-28-面试官：前端批量请求失败-Toast-重复弹窗怎么解决？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526298&idx=1&sn=a914319608bec31d14076dd273ef2795&chksm=f992614bcee5e85d8777be36b4627992ed9f3cd210361eb29c021ffb282f2ebf965c5d9cec35#rd) ![](/assets/new.png)  
+- [2025-05-29-vite构建优化，速度提升了73%-&amp;-rollup拆包8.4M降低至1000kb](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=1&sn=e216b490720cda5ebfcfd1fbfbea7628&chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd)  
+- [2025-05-29-不要再代码中滥用-useCallback-和useMemo](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=2&sn=f20ec923677c441122fb783771923cb1&chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd)  
+- [2025-05-28-面试官：前端批量请求失败-Toast-重复弹窗怎么解决？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526298&idx=1&sn=a914319608bec31d14076dd273ef2795&chksm=f992614bcee5e85d8777be36b4627992ed9f3cd210361eb29c021ffb282f2ebf965c5d9cec35#rd)  
 - [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd)  
 - [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd)  
 - [2025-05-26-你还不知道的大文件上传](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=2&sn=83ab9cdb3b12810be7b156e320b0cfe2&chksm=f99261aecee5e8b8ca14dbe1f4214719a335f2ca4acecaca7085672bf0629eb3dd2b3eed305b#rd)  
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd) ![](/assets/new.png)  
-- [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd) ![](/assets/new.png)  
+- [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd)  
+- [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd)  
 - [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd)  
 - [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd)  
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
@@ -419,9 +419,9 @@
 </summary>
 
 
-- [2025-05-30-Vue3-新趋势：弃用-ECharts！最强图表库诞生！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517240&idx=1&sn=98adeef3bfbc37e9aaaecd06317f18ff&chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd) ![](/assets/new.png)  
-- [2025-05-29-量大管饱，这9个-vite-插件让你的开发更简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517238&idx=1&sn=d719880088ae6e08bcb13820d0e4b5fa&chksm=eb07bc4fdc703559d8ad3d6bdc6e63e8f4a74848c0558a46f9a9f7c30e6fc2809b4369c5bc63#rd) ![](/assets/new.png)  
-- [2025-05-28-JavaScript-诞生-30-周年，这些重要事件你了解吗？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517236&idx=1&sn=ecbadc55f24ef8a09787b74af81eac08&chksm=eb07bc4ddc70355b1d50a9bcef7a46ddfadd3b50708fda8b3c39c98fe0e7c35a3f2d22de8584#rd) ![](/assets/new.png)  
+- [2025-05-30-Vue3-新趋势：弃用-ECharts！最强图表库诞生！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517240&idx=1&sn=98adeef3bfbc37e9aaaecd06317f18ff&chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd)  
+- [2025-05-29-量大管饱，这9个-vite-插件让你的开发更简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517238&idx=1&sn=d719880088ae6e08bcb13820d0e4b5fa&chksm=eb07bc4fdc703559d8ad3d6bdc6e63e8f4a74848c0558a46f9a9f7c30e6fc2809b4369c5bc63#rd)  
+- [2025-05-28-JavaScript-诞生-30-周年，这些重要事件你了解吗？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517236&idx=1&sn=ecbadc55f24ef8a09787b74af81eac08&chksm=eb07bc4ddc70355b1d50a9bcef7a46ddfadd3b50708fda8b3c39c98fe0e7c35a3f2d22de8584#rd)  
 - [2025-05-20-「毕业3年，年薪40万」字节内部扩招！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517230&idx=1&sn=54be8f7af8b557ee7d475e95b1e21a83&chksm=eb07bc57dc703541b125fa5e065f61bce143f81812f8e6985148aa0936bc9ba0896ff7aeb512#rd)  
 - [2025-05-19-React-lazy-原来是这么动态加载组件的！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517223&idx=1&sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd)  
 - [2025-05-16-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517221&idx=1&sn=8d729dbd52b17bab0d75fa4ce785b430&chksm=eb07bc5cdc70354ab28c8bca8cf370783712df404c9e029aafaf4a074a4a7db4fd03938bee4e#rd)  
