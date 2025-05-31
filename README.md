@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-05-31 22:08:29，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-01 02:11:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,8 +22,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-05-29-用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526046&idx=1&sn=bfb62e9e1be7fb29e60a880b25429991&chksm=f952d3ddce255acb82d791a760d40feb73b57115ab9b61b72b8ab979adeb7f2464f14bcbb289#rd) ![](/assets/new.png)  
 - [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd)  
 - [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
 - [2025-04-26-浏览器里的-AI-革命：前端工程师的新战场](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525949&idx=1&sn=d596d89b6a37b50c5394094470c3ec8d&chksm=f952d37ece255a68bfda9415dbb511fb86358f3aa6773a9748388b6b29f6d1a095d61b027e58#rd)  
@@ -190,7 +191,6 @@
 - [2024-12-25-Airbnb死磕React-Native惨败，微软却玩出花！Office、Outlook全线接入，Copilot成最大赢家](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525671&idx=1&sn=add09add61c31f1a0e83754514a82ce5&chksm=f952d064ce2559727855657c9687cc0d4adb77c9f71790cca67c6052b7e84fc91d8ccfa9a8d6#rd)  
 - [2024-12-20-快手前端动效大揭秘：告别低效，vision平台来袭！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525635&idx=1&sn=a6ab7363924bd0948d2c6563f3ed85a4&chksm=f952d040ce255956a40bd96db15723302da0f01853258ec23c7986601fac47b9bbf521a80103#rd)  
 - [2024-12-11-“应该禁止所有新项目使用-React！”微软资深工程师犀利-diss：“React-是行业标准”简直胡说！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525584&idx=1&sn=d283a381bf41a50900fed32022f90602&chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd)  
-- [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2025-05-31-𝙎𝙝𝙖𝙧𝙚｜收集了一些张靓颖绝美感高清壁纸，嘿嘿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504538&idx=1&sn=0eb2d97fdc424302b99240c4b9d5a489&chksm=ce45c70bf9324e1deb6d9304d788bdc725861a05e2417c76217ad071bb4228c89dbe0bd078ff#rd) ![](/assets/new.png)  
-- [2025-05-30-100w-数据不卡顿！国内首个-Canvas-表格发布开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504528&idx=1&sn=3a52103b89729f62f6a8a1776e2291a5&chksm=ce45c701f9324e17da41d29554aecd09febe1bad296c674eaaf9b78b115e5d441bc1f5fbf052#rd) ![](/assets/new.png)  
-- [2025-05-29-我把-Canvas-放-WebWorker-中绘制，性能提升-200%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504515&idx=1&sn=5cd78decb26ce25c3d43f9ebbb319fb6&chksm=ce45c712f9324e04c51d1eea8dc707cbe6cad9fc2e2a96e8ec0e0b455d9864821f452f21b2ea#rd) ![](/assets/new.png)  
+- [2025-05-31-𝙎𝙝𝙖𝙧𝙚｜收集了一些张靓颖绝美感高清壁纸，嘿嘿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504538&idx=1&sn=0eb2d97fdc424302b99240c4b9d5a489&chksm=ce45c70bf9324e1deb6d9304d788bdc725861a05e2417c76217ad071bb4228c89dbe0bd078ff#rd)  
+- [2025-05-30-100w-数据不卡顿！国内首个-Canvas-表格发布开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504528&idx=1&sn=3a52103b89729f62f6a8a1776e2291a5&chksm=ce45c701f9324e17da41d29554aecd09febe1bad296c674eaaf9b78b115e5d441bc1f5fbf052#rd)  
+- [2025-05-29-我把-Canvas-放-WebWorker-中绘制，性能提升-200%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504515&idx=1&sn=5cd78decb26ce25c3d43f9ebbb319fb6&chksm=ce45c712f9324e04c51d1eea8dc707cbe6cad9fc2e2a96e8ec0e0b455d9864821f452f21b2ea#rd)  
 - [2025-05-28-为什么很多人都不升级-Vue3.5？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504502&idx=1&sn=3673811f5f7639896cb88efe929a59b1&chksm=ce45c7e7f9324ef166598d61d96639df6018dafb6b6157f62ad6c656828f2264f931fd531bba#rd)  
 - [2025-05-27-每天讲一家公司的前端薪资——富途（深圳）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504500&idx=1&sn=277dcd7938e44832958bb7eec3b19c55&chksm=ce45c7e5f9324ef343ae302005a1e76a64b12bc805b5752463ce2766c69d84ba99209159ec21#rd)  
 - [2025-05-26-正式发布！TypeScript-提升了-10-倍的性能](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504491&idx=1&sn=6dafe32a6b7960c4475aa283d138231c&chksm=ce45c7faf9324eec9487a8bb903b46c85bd815ccd497edee8ed695bf504a9572fd66dc301289#rd)  
