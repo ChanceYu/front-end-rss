@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-05-31T18:11:57.304Z</updated>
+    <updated>2025-05-31T20:10:02.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -141,16 +141,16 @@
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java 之父怒斥：AI 是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd"/>
+        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd"/>
+        <title type="html"><![CDATA[Java 之父怒斥：AI 是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
@@ -253,16 +253,16 @@
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nextjs首屏加载速度性能从80分优化到98分]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd"/>
+        <title type="html"><![CDATA[突发！微软宣布 VS Code 变成开源 AI 编辑器]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd"/>
         <updated>2025-05-20T00:00:00.000Z</updated>
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[突发！微软宣布 VS Code 变成开源 AI 编辑器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd"/>
+        <title type="html"><![CDATA[Nextjs首屏加载速度性能从80分优化到98分]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=2&amp;sn=e6737384fc627a43e7810291082c96a2&amp;chksm=80225bacb755d2ba17235701baa18acbb574849e35a2c9973fe165bed7eb0ac8a10eec1b3a49#rd"/>
         <updated>2025-05-20T00:00:00.000Z</updated>
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
