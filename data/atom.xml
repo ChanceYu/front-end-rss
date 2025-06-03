@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-03T03:10:40.975Z</updated>
+    <updated>2025-06-03T08:15:35.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Axios 请求传 ArrayBuffer 参数]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=2&amp;sn=9f733a99b5d7c58d491f247aa5821495&amp;chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=2&amp;sn=9f733a99b5d7c58d491f247aa5821495&amp;chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd"/>
+        <updated>2025-06-03T00:00:00.000Z</updated>
+        <published>2025-06-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何 “正确” hook JS方法]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd"/>
+        <updated>2025-06-03T00:00:00.000Z</updated>
+        <published>2025-06-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3520期】Slack、Notion 和 VSCode 提升 Electron 应用性能的 6 种方法]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd</id>
@@ -50,16 +64,16 @@
         <published>2025-05-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不要再代码中滥用 useCallback 和useMemo]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=2&amp;sn=f20ec923677c441122fb783771923cb1&amp;chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=2&amp;sn=f20ec923677c441122fb783771923cb1&amp;chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd"/>
+        <title type="html"><![CDATA[vite构建优化，速度提升了73% & rollup拆包8.4M降低至1000kb]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=1&amp;sn=e216b490720cda5ebfcfd1fbfbea7628&amp;chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=1&amp;sn=e216b490720cda5ebfcfd1fbfbea7628&amp;chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd"/>
         <updated>2025-05-29T00:00:00.000Z</updated>
         <published>2025-05-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[vite构建优化，速度提升了73% & rollup拆包8.4M降低至1000kb]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=1&amp;sn=e216b490720cda5ebfcfd1fbfbea7628&amp;chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=1&amp;sn=e216b490720cda5ebfcfd1fbfbea7628&amp;chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd"/>
+        <title type="html"><![CDATA[不要再代码中滥用 useCallback 和useMemo]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=2&amp;sn=f20ec923677c441122fb783771923cb1&amp;chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=2&amp;sn=f20ec923677c441122fb783771923cb1&amp;chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd"/>
         <updated>2025-05-29T00:00:00.000Z</updated>
         <published>2025-05-29T00:00:00.000Z</published>
     </entry>
@@ -169,16 +183,16 @@
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[原子化的未来？了解一下全面进化的CSS attr函数]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=2&amp;sn=c433745c80b7c2957557952dfa92fece&amp;chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=2&amp;sn=c433745c80b7c2957557952dfa92fece&amp;chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd"/>
+        <title type="html"><![CDATA[JavaScript 的新超能力：显式资源管理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=1&amp;sn=80f05706e63fbaa883be123cc0df3cd7&amp;chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=1&amp;sn=80f05706e63fbaa883be123cc0df3cd7&amp;chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd"/>
         <updated>2025-05-25T00:00:00.000Z</updated>
         <published>2025-05-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript 的新超能力：显式资源管理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=1&amp;sn=80f05706e63fbaa883be123cc0df3cd7&amp;chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=1&amp;sn=80f05706e63fbaa883be123cc0df3cd7&amp;chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd"/>
+        <title type="html"><![CDATA[原子化的未来？了解一下全面进化的CSS attr函数]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=2&amp;sn=c433745c80b7c2957557952dfa92fece&amp;chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=2&amp;sn=c433745c80b7c2957557952dfa92fece&amp;chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd"/>
         <updated>2025-05-25T00:00:00.000Z</updated>
         <published>2025-05-25T00:00:00.000Z</published>
     </entry>
@@ -204,16 +218,16 @@
         <published>2025-05-23T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite打包优化实践：从分包到性能提升]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=1&amp;sn=7ffa75e637ef9ee7aaf37acb1e98672a&amp;chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=1&amp;sn=7ffa75e637ef9ee7aaf37acb1e98672a&amp;chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd"/>
+        <title type="html"><![CDATA[ESLint v9.26.0 发布，支持 MCP 了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=2&amp;sn=2f8528a3c4d1b8cc1e5c204201bb76f7&amp;chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=2&amp;sn=2f8528a3c4d1b8cc1e5c204201bb76f7&amp;chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd"/>
         <updated>2025-05-22T00:00:00.000Z</updated>
         <published>2025-05-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESLint v9.26.0 发布，支持 MCP 了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=2&amp;sn=2f8528a3c4d1b8cc1e5c204201bb76f7&amp;chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=2&amp;sn=2f8528a3c4d1b8cc1e5c204201bb76f7&amp;chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd"/>
+        <title type="html"><![CDATA[Vite打包优化实践：从分包到性能提升]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=1&amp;sn=7ffa75e637ef9ee7aaf37acb1e98672a&amp;chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=1&amp;sn=7ffa75e637ef9ee7aaf37acb1e98672a&amp;chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd"/>
         <updated>2025-05-22T00:00:00.000Z</updated>
         <published>2025-05-22T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[一名前端用 AI 编辑器重构开发流程]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517219&amp;idx=1&amp;sn=2327e0103e55f7e0a7322f9cfe5547a3&amp;chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517219&amp;idx=1&amp;sn=2327e0103e55f7e0a7322f9cfe5547a3&amp;chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd"/>
-        <updated>2025-05-15T00:00:00.000Z</updated>
-        <published>2025-05-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025年了，npm 与 pnpm我们该如何选择]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526203&amp;idx=2&amp;sn=d305a5a57779ffca6bf60fad6f339550&amp;chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526203&amp;idx=2&amp;sn=d305a5a57779ffca6bf60fad6f339550&amp;chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd"/>
-        <updated>2025-05-15T00:00:00.000Z</updated>
-        <published>2025-05-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惊！微软大裁员，入职 18 年，10 年 TypeScript 技术骨干被裁，贡献记录惨遭删除。网友：你的岗位要被印度人替代了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622479&amp;idx=1&amp;sn=dd921604411c776242322b09cd311879&amp;chksm=80225b8eb755d298a28a95ce9b70a63b396016346e446d0c4788e499fc8cae6ef8f3994b1a6e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622479&amp;idx=1&amp;sn=dd921604411c776242322b09cd311879&amp;chksm=80225b8eb755d298a28a95ce9b70a63b396016346e446d0c4788e499fc8cae6ef8f3994b1a6e#rd"/>
         <updated>2025-05-15T00:00:00.000Z</updated>
         <published>2025-05-15T00:00:00.000Z</published>
     </entry>

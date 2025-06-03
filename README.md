@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-03 11:10:40，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-03 16:15:34，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-06-03-【图书】MCP原理与实战：高效AI-Agent智能体开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=2&sn=0d4d5f290917268692e6ea82d16b380c&chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&scene=0#rd) ![](/assets/new.png)  
-- [2025-06-03-【第3520期】Slack、Notion-和-VSCode-提升-Electron-应用性能的-6-种方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=1&sn=6fa52c16f7a0dac4f20c2a7936bcde79&chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-03-【图书】MCP原理与实战：高效AI-Agent智能体开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=2&sn=0d4d5f290917268692e6ea82d16b380c&chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&scene=0#rd)  
+- [2025-06-03-【第3520期】Slack、Notion-和-VSCode-提升-Electron-应用性能的-6-种方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=1&sn=6fa52c16f7a0dac4f20c2a7936bcde79&chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&scene=0#rd)  
 - [2025-05-29-【第3519期】使用一条-Git-命令推送整个分支栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276581&idx=1&sn=8e497d9d26636035d7d72febd2b7170a&chksm=bcaf81749157d587f15e421303f7b0e72e517484f0d6d850ff46f772c77227f20452ddf6785f&scene=0#rd)  
 - [2025-05-28-【图书】大模型算法：强化学习、微调与对齐（全彩）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=2&sn=9bb691592bd01aeac67f12a146060b15&chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&scene=0#rd)  
 - [2025-05-28-【第3518期】使用-margin-trim-更轻松地布局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=1&sn=a092698872868a18a7617a9e3f93aef2&chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&scene=0#rd)  
@@ -264,26 +264,26 @@
 </summary>
 
 
-- [2025-05-29-vite构建优化，速度提升了73%-&amp;-rollup拆包8.4M降低至1000kb](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=1&sn=e216b490720cda5ebfcfd1fbfbea7628&chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd)  
+- [2025-06-03-如何-“正确”-hook-JS方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526330&idx=1&sn=974ac85b74e3780eb67755773c70ca59&chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd) ![](/assets/new.png)  
+- [2025-06-03-Axios-请求传-ArrayBuffer-参数](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526330&idx=2&sn=9f733a99b5d7c58d491f247aa5821495&chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd) ![](/assets/new.png)  
+- [2025-06-02-🤖-如何让-Cursor-AI-Agent始终遵守项目规范：使用自动规则生成技术](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526316&idx=1&sn=7acd2a4fb4c6f2dab985550d1683d32a&chksm=f992617dcee5e86beaeb3f1568a65a70aa36c04da447216107542d43e6824b62c8c08e5d261e#rd) ![](/assets/new.png)  
 - [2025-05-29-不要再代码中滥用-useCallback-和useMemo](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=2&sn=f20ec923677c441122fb783771923cb1&chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd)  
+- [2025-05-29-vite构建优化，速度提升了73%-&amp;-rollup拆包8.4M降低至1000kb](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526308&idx=1&sn=e216b490720cda5ebfcfd1fbfbea7628&chksm=f9926175cee5e863b26a58d3e844b1ccd63e6557aef6ba52ff144601942966364a8461f2bcb7#rd)  
 - [2025-05-28-面试官：前端批量请求失败-Toast-重复弹窗怎么解决？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526298&idx=1&sn=a914319608bec31d14076dd273ef2795&chksm=f992614bcee5e85d8777be36b4627992ed9f3cd210361eb29c021ffb282f2ebf965c5d9cec35#rd)  
-- [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd)  
 - [2025-05-27-LLM与外部世界的交互能力](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=2&sn=f7da7b4e7babbb06dbd6a19b6431c0da&chksm=f9926143cee5e855ba17f6ab6a308c7102f8310525c06091800021e43bf10f573266a401feaf#rd)  
-- [2025-05-26-你还不知道的大文件上传](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=2&sn=83ab9cdb3b12810be7b156e320b0cfe2&chksm=f99261aecee5e8b8ca14dbe1f4214719a335f2ca4acecaca7085672bf0629eb3dd2b3eed305b#rd)  
+- [2025-05-27-前端也需要了解的-MCP-知识](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526290&idx=1&sn=35d65ec8a6863f9b65561b038b6fe167&chksm=f9926143cee5e8551546bd2ef282262f649dff9619db4f547c2463c087a2b9cf52155e5b5893#rd)  
 - [2025-05-26-离谱！裁员裁出新高度了。。。](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=1&sn=19f75c4d827a3978bbef922dca8a4896&chksm=f99261aecee5e8b8024c3ee6b2e3bea64b758367c3c3af05fe9b8f5ce89f6bb5ad8e51e73fcf#rd)  
-- [2025-05-25-JavaScript-的新超能力：显式资源管理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=1&sn=80f05706e63fbaa883be123cc0df3cd7&chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd)  
+- [2025-05-26-你还不知道的大文件上传](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526271&idx=2&sn=83ab9cdb3b12810be7b156e320b0cfe2&chksm=f99261aecee5e8b8ca14dbe1f4214719a335f2ca4acecaca7085672bf0629eb3dd2b3eed305b#rd)  
 - [2025-05-25-原子化的未来？了解一下全面进化的CSS-attr函数](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=2&sn=c433745c80b7c2957557952dfa92fece&chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd)  
-- [2025-05-23-2025年了！前端项目中代码格式还没统一？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=1&sn=5e41985ff7fbcdc3b0166962476d7fdf&chksm=f99261bdcee5e8ab5a475f11389409c537953a20218fdb32a97008bd54e9ff69b2b0a9919ab2#rd)  
+- [2025-05-25-JavaScript-的新超能力：显式资源管理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526270&idx=1&sn=80f05706e63fbaa883be123cc0df3cd7&chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd)  
 - [2025-05-23-Generative、Agentic、Agents：红烧肉教我区分三类AI的能力边界](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=2&sn=d37d7c0f8c6c04d57b58ebc2b9194420&chksm=f99261bdcee5e8ab30627c6ad874a667d1031d468b709fa9df347ab921be22bd2f859e7cac44#rd)  
-- [2025-05-22-ESLint-v9.26.0-发布，支持-MCP-了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd)  
+- [2025-05-23-2025年了！前端项目中代码格式还没统一？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526252&idx=1&sn=5e41985ff7fbcdc3b0166962476d7fdf&chksm=f99261bdcee5e8ab5a475f11389409c537953a20218fdb32a97008bd54e9ff69b2b0a9919ab2#rd)  
 - [2025-05-22-Vite打包优化实践：从分包到性能提升](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=1&sn=7ffa75e637ef9ee7aaf37acb1e98672a&chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd)  
+- [2025-05-22-ESLint-v9.26.0-发布，支持-MCP-了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526246&idx=2&sn=2f8528a3c4d1b8cc1e5c204201bb76f7&chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd)  
 - [2025-05-21-撸一个小程序运行容器](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526240&idx=1&sn=cb2266238ed296f8b3910f627e042800&chksm=f99261b1cee5e8a71a1b0478c806a38028e4fc906acff8d8ce8cad3f2a4fca1f6c8c47ae1708#rd)  
-- [2025-05-20-浏览器如何确定最终的CSS属性值？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=2&sn=faeca456b232c6617c86b8f6ba3ec6b9&chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd)  
 - [2025-05-20-简单盘点下前端日志采集的几种方式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=1&sn=1fab1e539dae7347e8b8cf46641a7fef&chksm=f9926182cee5e89482455cdad3725dfb3586fbe2967f44a0517ac5d19800d93fd190e84d2451#rd)  
+- [2025-05-20-浏览器如何确定最终的CSS属性值？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526227&idx=2&sn=faeca456b232c6617c86b8f6ba3ec6b9&chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd)  
 - [2025-05-19-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526221&idx=1&sn=1968ed632ed012b4bbbd2a013c6e8dc0&chksm=f992619ccee5e88ad47c491d377a58d04b1e96335dc3be0b632a40784c7387b0108a240bb67a#rd)  
-- [2025-05-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526211&idx=1&sn=3092718c7777495f6ef6231426307fd9&chksm=f9926192cee5e884a644ff76ae0a77729b881ca366156837e5cd978adcf7f06bfba9e3db1bfa#rd)  
-- [2025-05-15-2025年了，npm-与-pnpm我们该如何选择](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526203&idx=2&sn=d305a5a57779ffca6bf60fad6f339550&chksm=f99261eacee5e8fcae46c225dfaa38e547fa798a0abbeeaa20c8111b3430bee5386f421079a7#rd)  
-- [2025-05-15-开发神器-Cursor-最全配置指南：从入门到高效工作流！建议收藏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526203&idx=1&sn=8900aef0253f232b681fbef0471522c1&chksm=f99261eacee5e8fc4cd1033f1f80b73da02ae59b1c4243bcb8cf30a1a0bb840c5e08dafa1fad#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
