@@ -14,23 +14,23 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-03 22:11:04，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-04 00:13:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580) ![](/assets/new.png)  
+- [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2025-06-03-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504546&idx=1&sn=805ef552cd0f89f22a36c5c7c7021464&chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd) ![](/assets/new.png)  
-- [2025-06-02-2025年04月-GitHub-十大热门项目](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504545&idx=1&sn=514cef4c05f796dd70769da446c56778&chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd) ![](/assets/new.png)  
-- [2025-06-01-2025-年-CSS-最实用的-10-个小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504539&idx=1&sn=7f30e0eef4ed38c4fa0c787f0ad14183&chksm=ce45c70af9324e1ce845e20ee5d66c568dacf10a31bd03df794873875b216dbf2b7c6f6dd9ab#rd) ![](/assets/new.png)  
+- [2025-06-03-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504546&idx=1&sn=805ef552cd0f89f22a36c5c7c7021464&chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd)  
+- [2025-06-02-2025年04月-GitHub-十大热门项目](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504545&idx=1&sn=514cef4c05f796dd70769da446c56778&chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd)  
+- [2025-06-01-2025-年-CSS-最实用的-10-个小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504539&idx=1&sn=7f30e0eef4ed38c4fa0c787f0ad14183&chksm=ce45c70af9324e1ce845e20ee5d66c568dacf10a31bd03df794873875b216dbf2b7c6f6dd9ab#rd)  
 - [2025-05-31-𝙎𝙝𝙖𝙧𝙚｜收集了一些张靓颖绝美感高清壁纸，嘿嘿~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504538&idx=1&sn=0eb2d97fdc424302b99240c4b9d5a489&chksm=ce45c70bf9324e1deb6d9304d788bdc725861a05e2417c76217ad071bb4228c89dbe0bd078ff#rd)  
 - [2025-05-30-100w-数据不卡顿！国内首个-Canvas-表格发布开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504528&idx=1&sn=3a52103b89729f62f6a8a1776e2291a5&chksm=ce45c701f9324e17da41d29554aecd09febe1bad296c674eaaf9b78b115e5d441bc1f5fbf052#rd)  
 - [2025-05-29-我把-Canvas-放-WebWorker-中绘制，性能提升-200%！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504515&idx=1&sn=5cd78decb26ce25c3d43f9ebbb319fb6&chksm=ce45c712f9324e04c51d1eea8dc707cbe6cad9fc2e2a96e8ec0e0b455d9864821f452f21b2ea#rd)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd) ![](/assets/new.png)  
 - [2025-05-30-Vue3-新趋势：弃用-ECharts！最强图表库诞生！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517240&idx=1&sn=98adeef3bfbc37e9aaaecd06317f18ff&chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd)  
 - [2025-05-29-量大管饱，这9个-vite-插件让你的开发更简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517238&idx=1&sn=d719880088ae6e08bcb13820d0e4b5fa&chksm=eb07bc4fdc703559d8ad3d6bdc6e63e8f4a74848c0558a46f9a9f7c30e6fc2809b4369c5bc63#rd)  
 - [2025-05-28-JavaScript-诞生-30-周年，这些重要事件你了解吗？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517236&idx=1&sn=ecbadc55f24ef8a09787b74af81eac08&chksm=eb07bc4ddc70355b1d50a9bcef7a46ddfadd3b50708fda8b3c39c98fe0e7c35a3f2d22de8584#rd)  
@@ -438,7 +439,6 @@
 - [2025-04-23-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517180&idx=1&sn=51f3d5ce0f623616e0d2a3270a3d14e0&chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd)  
 - [2025-04-22-Vue核心成员打造的可视化排查指南来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517172&idx=1&sn=93c7cec0c940e9ebd446d5838e30be84&chksm=eb07bb8ddc70329b4f1ae5268ba1cdbd309cef38a5b493e0c7be90099a3c97577333e16c7b82#rd)  
 - [2025-04-16-ECMAScript-2025-来了，新功能一览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517170&idx=1&sn=91e15067bc362373911f5d4838abf4e7&chksm=eb07bb8bdc70329dedac6bd8a22871392ad3c02e544b8b011004532981327a5158e4ee2574b1#rd)  
-- [2025-04-15-代码变更暗藏危机？代码影响范围分析为你保驾护航](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517168&idx=1&sn=a481051843078989b60b67f0878ec35c&chksm=eb07bb89dc70329ff18872d52f2efd16ec1d3bee961c06a91bbacd1b34c8614c78bc04427ad4#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
