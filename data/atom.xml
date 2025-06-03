@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-03T08:15:35.297Z</updated>
+    <updated>2025-06-03T14:11:05.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尤雨溪：重大升级！Vue 正式引入 AI ！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504546&amp;idx=1&amp;sn=805ef552cd0f89f22a36c5c7c7021464&amp;chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504546&amp;idx=1&amp;sn=805ef552cd0f89f22a36c5c7c7021464&amp;chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd"/>
+        <updated>2025-06-03T00:00:00.000Z</updated>
+        <published>2025-06-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3520期】Slack、Notion 和 VSCode 提升 Electron 应用性能的 6 种方法]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd"/>
@@ -41,6 +48,27 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP + Node: The odd couple of backend?]]></title>
+        <id>https://nodeweekly.com/issues/580</id>
+        <link href="https://nodeweekly.com/issues/580"/>
+        <updated>2025-06-03T00:00:00.000Z</updated>
+        <published>2025-06-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年04月 GitHub 十大热门项目]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504545&amp;idx=1&amp;sn=514cef4c05f796dd70769da446c56778&amp;chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504545&amp;idx=1&amp;sn=514cef4c05f796dd70769da446c56778&amp;chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd"/>
+        <updated>2025-06-02T00:00:00.000Z</updated>
+        <published>2025-06-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年 CSS 最实用的 10 个小技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504539&amp;idx=1&amp;sn=7f30e0eef4ed38c4fa0c787f0ad14183&amp;chksm=ce45c70af9324e1ce845e20ee5d66c568dacf10a31bd03df794873875b216dbf2b7c6f6dd9ab#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504539&amp;idx=1&amp;sn=7f30e0eef4ed38c4fa0c787f0ad14183&amp;chksm=ce45c70af9324e1ce845e20ee5d66c568dacf10a31bd03df794873875b216dbf2b7c6f6dd9ab#rd"/>
+        <updated>2025-06-01T00:00:00.000Z</updated>
+        <published>2025-06-01T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 新趋势：弃用 ECharts！最强图表库诞生！]]></title>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526211&amp;idx=1&amp;sn=3092718c7777495f6ef6231426307fd9&amp;chksm=f9926192cee5e884a644ff76ae0a77729b881ca366156837e5cd978adcf7f06bfba9e3db1bfa#rd"/>
         <updated>2025-05-18T00:00:00.000Z</updated>
         <published>2025-05-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 最强组合套装！不得不佩服尤雨溪！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517221&amp;idx=1&amp;sn=8d729dbd52b17bab0d75fa4ce785b430&amp;chksm=eb07bc5cdc70354ab28c8bca8cf370783712df404c9e029aafaf4a074a4a7db4fd03938bee4e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517221&amp;idx=1&amp;sn=8d729dbd52b17bab0d75fa4ce785b430&amp;chksm=eb07bc5cdc70354ab28c8bca8cf370783712df404c9e029aafaf4a074a4a7db4fd03938bee4e#rd"/>
-        <updated>2025-05-16T00:00:00.000Z</updated>
-        <published>2025-05-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3510期】Cursor 内部工作原理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=1&amp;sn=48d8cadcac307f73ba6f0a86abff3937&amp;chksm=bcf00d6c81039d3c16849eb84094c5c11eff0d26dc399806c557ea895910a13feef2308c25d1&amp;scene=0#rd"/>
-        <updated>2025-05-16T00:00:00.000Z</updated>
-        <published>2025-05-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【活动】VueConf 2025 开始报名了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276436&amp;idx=2&amp;sn=9f54940e4578607044a3547154fbc1ce&amp;chksm=bccd72fd8ed2bc652140e6746bd180c903a7d368e2b256d4d36d7c7bbca2a170cb1af7fe40f6&amp;scene=0#rd"/>
-        <updated>2025-05-16T00:00:00.000Z</updated>
-        <published>2025-05-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一名前端用 AI 编辑器重构开发流程]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517219&amp;idx=1&amp;sn=2327e0103e55f7e0a7322f9cfe5547a3&amp;chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517219&amp;idx=1&amp;sn=2327e0103e55f7e0a7322f9cfe5547a3&amp;chksm=eb07bc5adc70354c1688426da162c9788ebfe042c95f3cba408cb3188da7e2c6cfbd509501c0#rd"/>
-        <updated>2025-05-15T00:00:00.000Z</updated>
-        <published>2025-05-15T00:00:00.000Z</published>
     </entry>
 </feed>
