@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-04T03:10:54.306Z</updated>
+    <updated>2025-06-04T10:11:32.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[JS PageSwap PageReveal事件干嘛用的？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/"/>
+        <updated>2025-06-04T00:00:00.000Z</updated>
+        <published>2025-06-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3521期】如何在 React 中构建一个库]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276606&amp;idx=1&amp;sn=9428064706c9d9b0f531ce5d0d836f65&amp;chksm=bc95b16b37ad279d98879b84590896ccfe0a518ae447ddb6b2dd01d1d561a9d38662176711a0&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[React lazy 原来是这么动态加载组件的！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517223&amp;idx=1&amp;sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&amp;chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517223&amp;idx=1&amp;sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&amp;chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd"/>
-        <updated>2025-05-19T00:00:00.000Z</updated>
-        <published>2025-05-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Bridge：让 WebView 拥有原生体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526221&amp;idx=1&amp;sn=1968ed632ed012b4bbbd2a013c6e8dc0&amp;chksm=f992619ccee5e88ad47c491d377a58d04b1e96335dc3be0b632a40784c7387b0108a240bb67a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526221&amp;idx=1&amp;sn=1968ed632ed012b4bbbd2a013c6e8dc0&amp;chksm=f992619ccee5e88ad47c491d377a58d04b1e96335dc3be0b632a40784c7387b0108a240bb67a#rd"/>
         <updated>2025-05-19T00:00:00.000Z</updated>
         <published>2025-05-19T00:00:00.000Z</published>
     </entry>
