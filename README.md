@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-05 14:15:08，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-06 04:09:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,10 +22,10 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-06-04-为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526056&idx=1&sn=202a60fe318fddb770f889dfc7ff7646&chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd) ![](/assets/new.png)  
 - [2025-05-29-用印度程序员冒充AI的“独角兽”彻底倒闭了！伪AI烧光5亿美元，连微软和亚马逊都被“坑”了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526046&idx=1&sn=bfb62e9e1be7fb29e60a880b25429991&chksm=f952d3ddce255acb82d791a760d40feb73b57115ab9b61b72b8ab979adeb7f2464f14bcbb289#rd)  
 - [2025-05-09-前端的下一轮演进：基于AI的状态管理](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526029&idx=1&sn=d914255f10082dbcfd0de1be3c8821ae&chksm=f952d3cece255ad8e65031d3805249024fecd3f7bd28845354f4015fef0faf67f9dc7027c691#rd)  
 - [2025-04-30-Next.js-真有那么好用吗？Netlify-谈他们遇到的六个现实问题](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526011&idx=1&sn=4f1c822f120896bcfbb5e6adeba87eb6&chksm=f952d338ce255a2e44a96f3342d6b95e246a61a7cb192670b2b9894924017120465ba0261faa#rd)  
@@ -190,7 +191,6 @@
 - [2025-01-08-2025-年你应该告别的-5-个-JavaScript-库](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525688&idx=1&sn=31f185f90414f25f61a0f3992be821cc&chksm=f952d07bce25596d622e2bef38e4aafb4aaa97f195dfb2269331b68f57f6d0688e774a766610#rd)  
 - [2024-12-25-Airbnb死磕React-Native惨败，微软却玩出花！Office、Outlook全线接入，Copilot成最大赢家](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525671&idx=1&sn=add09add61c31f1a0e83754514a82ce5&chksm=f952d064ce2559727855657c9687cc0d4adb77c9f71790cca67c6052b7e84fc91d8ccfa9a8d6#rd)  
 - [2024-12-20-快手前端动效大揭秘：告别低效，vision平台来袭！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525635&idx=1&sn=a6ab7363924bd0948d2c6563f3ed85a4&chksm=f952d040ce255956a40bd96db15723302da0f01853258ec23c7986601fac47b9bbf521a80103#rd)  
-- [2024-12-11-“应该禁止所有新项目使用-React！”微软资深工程师犀利-diss：“React-是行业标准”简直胡说！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525584&idx=1&sn=d283a381bf41a50900fed32022f90602&chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,10 +264,10 @@
 </summary>
 
 
-- [2025-06-05-11-个-JavaScript-杀手脚本，用于自动执行日常任务](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=1&sn=4570dae9b1d22897cc1921f91ee159a8&chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd) ![](/assets/new.png)  
-- [2025-06-05-为了让-iframe-支持-keepAlive，我连夜写了个-kframe](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=2&sn=111bbd0fd236b8f4f2cf9fceee129a8f&chksm=f992611ecee5e808e317bbe71de6df1472906c8e51b17c7ffd7c45896053c1e11d53ef9ed326#rd) ![](/assets/new.png)  
-- [2025-06-04-跨过前端工程化建设的三座大山](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=1&sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd) ![](/assets/new.png)  
-- [2025-06-04-使用这个新的-ECMAScript-运算符告别-Try/Catch！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=2&sn=a6d3a6fdda6e2b52032dc64441f87fe0&chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd) ![](/assets/new.png)  
+- [2025-06-05-11-个-JavaScript-杀手脚本，用于自动执行日常任务](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=1&sn=4570dae9b1d22897cc1921f91ee159a8&chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd)  
+- [2025-06-05-为了让-iframe-支持-keepAlive，我连夜写了个-kframe](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=2&sn=111bbd0fd236b8f4f2cf9fceee129a8f&chksm=f992611ecee5e808e317bbe71de6df1472906c8e51b17c7ffd7c45896053c1e11d53ef9ed326#rd)  
+- [2025-06-04-跨过前端工程化建设的三座大山](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=1&sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd)  
+- [2025-06-04-使用这个新的-ECMAScript-运算符告别-Try/Catch！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=2&sn=a6d3a6fdda6e2b52032dc64441f87fe0&chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd)  
 - [2025-06-03-Axios-请求传-ArrayBuffer-参数](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526330&idx=2&sn=9f733a99b5d7c58d491f247aa5821495&chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd)  
 - [2025-06-03-如何-“正确”-hook-JS方法](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526330&idx=1&sn=974ac85b74e3780eb67755773c70ca59&chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd)  
 - [2025-06-02-🤖-如何让-Cursor-AI-Agent始终遵守项目规范：使用自动规则生成技术](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526316&idx=1&sn=7acd2a4fb4c6f2dab985550d1683d32a&chksm=f992617dcee5e86beaeb3f1568a65a70aa36c04da447216107542d43e6824b62c8c08e5d261e#rd)  

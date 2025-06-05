@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-05T06:15:08.828Z</updated>
+    <updated>2025-06-05T20:09:22.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[跨过前端工程化建设的三座大山]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd"/>
+        <updated>2025-06-04T00:00:00.000Z</updated>
+        <published>2025-06-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526056&amp;idx=1&amp;sn=202a60fe318fddb770f889dfc7ff7646&amp;chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526056&amp;idx=1&amp;sn=202a60fe318fddb770f889dfc7ff7646&amp;chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd"/>
         <updated>2025-06-04T00:00:00.000Z</updated>
         <published>2025-06-04T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[浏览器如何确定最终的CSS属性值？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526227&amp;idx=2&amp;sn=faeca456b232c6617c86b8f6ba3ec6b9&amp;chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526227&amp;idx=2&amp;sn=faeca456b232c6617c86b8f6ba3ec6b9&amp;chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd"/>
-        <updated>2025-05-20T00:00:00.000Z</updated>
-        <published>2025-05-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突发！微软宣布 VS Code 变成开源 AI 编辑器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622509&amp;idx=1&amp;sn=af60fc1b136020064c830568e0dcc95d&amp;chksm=80225bacb755d2ba4a36b793333d5e7f5c150513396bd98d0cccf81170a207b8bef812c9ad3e#rd"/>
         <updated>2025-05-20T00:00:00.000Z</updated>
         <published>2025-05-20T00:00:00.000Z</published>
     </entry>
