@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-06 12:16:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-06 16:14:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-06-【第3523期】程序员专属提示词工程实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276627&idx=1&sn=7bf690fbb30e67dfb8c10ef1bc6db2d2&chksm=bc5bda4c48f3dab09e0a69ee41a331d0d008f86f0e1e02740051c17bbac1de64175348c7eb35&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-06-【第3523期】程序员专属提示词工程实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276627&idx=1&sn=7bf690fbb30e67dfb8c10ef1bc6db2d2&chksm=bc5bda4c48f3dab09e0a69ee41a331d0d008f86f0e1e02740051c17bbac1de64175348c7eb35&scene=0#rd)  
 - [2025-06-05-【第3522期】扩展-React-服务端渲染的能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=1&sn=342639532003e9c3936661b540f0ef33&chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&scene=0#rd)  
 - [2025-06-05-【招聘】抖音生活服务商品团队招前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=2&sn=cf6dc510f4af637f64cde9f5143e18ff&chksm=bc10e7a13e84abf752c9ca49fdadc377088d5ed16e48bff7eed233b9568535fe8376b855b88e&scene=0#rd)  
 - [2025-06-04-【第3521期】如何在-React-中构建一个库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276606&idx=1&sn=9428064706c9d9b0f531ce5d0d836f65&chksm=bc95b16b37ad279d98879b84590896ccfe0a518ae447ddb6b2dd01d1d561a9d38662176711a0&scene=0#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-06-03-DeepSeek低调更新，结果玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502832&idx=1&sn=b8656e71200db16adfb86b86fe4960fe&chksm=c2b30a0ff5c48319986327372e43b28f562cbbae5f14be58ea9c1b428680d794f2cf1a889315#rd) ![](/assets/new.png)  
 - [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd)  
 - [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd)  
 - [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd)  
@@ -407,7 +408,6 @@
 - [2025-04-15-智谱AI已经没法再低调了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502241&idx=1&sn=f93bef4f4a919243d4ecec34b21c960b&chksm=c2b3085ef5c481486e71346374da58b170d92676dbe016d7be2a6541573fa8e8cf1c2a2c6362#rd)  
 - [2025-04-13-实测微信读书AI新玩儿法，真香！80%的人还没发现](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502224&idx=1&sn=c859734f66d95a04270257592a3373c9&chksm=c2b3086ff5c4817921d470e280916aefd7925ff1c25b8a347b13e8980acf56d5abe37a7a15dc#rd)  
 - [2025-04-12-大白话讲《2025斯坦福AI报告》，附原文PDF](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502204&idx=1&sn=d9e9e34c05e41f62ca3c898cd80f2237&chksm=c2b30883f5c48195b3f369bfb905291f7fd96639ed214b0b8c0b74652a5ba4f1c50e2ae7b133#rd)  
-- [2025-04-10-即梦3.0全面测评，AI文生图的天花板又被击穿了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502184&idx=1&sn=92ecf05ca4d364f3a9171708337f946d&chksm=c2b30897f5c481818f06005172e2def22140a94b828e8152569364707e575b9d319ed2a845e6#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
