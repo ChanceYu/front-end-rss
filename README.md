@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-06 18:11:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-06 22:10:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739) ![](/assets/new.png)  
 - [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
@@ -97,7 +98,6 @@
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
 - [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
-- [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd)  
 - [2025-06-04-大模型微调知识与实践分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540387&idx=1&sn=cfaf3a39fa8ce530af3e2a3c1465eb4f&chksm=82fa1c19818c4b2469b4d443e086a8298386d1018071f905a7d06ae1e8ef2d6a31ca72533d40&scene=0#rd)  
 - [2025-05-30-当我们在谈多端一码时，我们在谈论什么](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540374&idx=1&sn=5c749e84752072ca5f0802cba1041880&chksm=8267f31249c5214ae6f6397c0d59d81c53c28ddcfe3020654a2305add5b46c089042f1d99025&scene=0#rd)  
 - [2025-05-26-淘宝直播组件调度、复用和治理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540277&idx=1&sn=9b95746c39c2432b29b75aa6c0d7964e&chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&scene=0#rd)  
