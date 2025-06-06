@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-06 16:14:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-06 18:11:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,10 +29,10 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-06-03-DeepSeek低调更新，结果玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502832&idx=1&sn=b8656e71200db16adfb86b86fe4960fe&chksm=c2b30a0ff5c48319986327372e43b28f562cbbae5f14be58ea9c1b428680d794f2cf1a889315#rd) ![](/assets/new.png)  
+- [2025-06-03-DeepSeek低调更新，结果玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502832&idx=1&sn=b8656e71200db16adfb86b86fe4960fe&chksm=c2b30a0ff5c48319986327372e43b28f562cbbae5f14be58ea9c1b428680d794f2cf1a889315#rd)  
 - [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd)  
 - [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd)  
 - [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-04-大模型微调知识与实践分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540387&idx=1&sn=cfaf3a39fa8ce530af3e2a3c1465eb4f&chksm=82fa1c19818c4b2469b4d443e086a8298386d1018071f905a7d06ae1e8ef2d6a31ca72533d40&scene=0#rd)  
 - [2025-05-30-当我们在谈多端一码时，我们在谈论什么](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540374&idx=1&sn=5c749e84752072ca5f0802cba1041880&chksm=8267f31249c5214ae6f6397c0d59d81c53c28ddcfe3020654a2305add5b46c089042f1d99025&scene=0#rd)  
 - [2025-05-26-淘宝直播组件调度、复用和治理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540277&idx=1&sn=9b95746c39c2432b29b75aa6c0d7964e&chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-04-16-2025-AI驱动研发工具对比丨独立测评](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539750&idx=1&sn=79187cb649f4a5422b78f08617603d9e&chksm=8390cefeb4e747e8255fb70ab29d3829b09deed70d8c3c3952bf82ac68659569daa3f5f18d62#rd)  
 - [2025-04-14-基于AIGC技术的营销短视频生产方案及业务实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539666&idx=1&sn=f879957adb247796f6dd5861ed075637&chksm=8390ce8ab4e7479cc4b6424eca6c784018aba7542b33b5b6258d24e7c33fe31d0203d3059c0c#rd)  
 - [2025-04-09-淘宝质量保障之主动预警能力建设](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539520&idx=1&sn=e259556bb2229d8719bb090bda965932&chksm=8390ce18b4e7470ed3c3fd4994261b5b39bd3b9a480f4bb0f20f75e9b700ba12af06d49b9870#rd)  
-- [2025-04-07-基于Flow-matching的扩散模型原理解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539507&idx=1&sn=1650db468e2d794a85b1012df6628490&chksm=8390cdebb4e744fd07635a234612abc3b0c1f6400837022f75e1e9dee2fdce276551a87cc62d#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
