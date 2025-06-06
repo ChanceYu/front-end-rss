@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-06T14:10:32.979Z</updated>
+    <updated>2025-06-06T16:12:50.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：Vite 换“芯”发布，性能更强！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd"/>
+        <updated>2025-06-06T00:00:00.000Z</updated>
+        <published>2025-06-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：重大升级！Vue 正式引入 AI ！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517248&amp;idx=1&amp;sn=a53bb96c94dd7ea56295ff088583bad6&amp;chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517248&amp;idx=1&amp;sn=a53bb96c94dd7ea56295ff088583bad6&amp;chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd"/>
+        <updated>2025-06-05T00:00:00.000Z</updated>
+        <published>2025-06-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 个 JavaScript 杀手脚本，用于自动执行日常任务]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
         <published>2025-05-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯AI浏览器一手实测，强的过于离谱]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247502625&amp;idx=1&amp;sn=8f1a86b785bffd70dfa3bd5169740133&amp;chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247502625&amp;idx=1&amp;sn=8f1a86b785bffd70dfa3bd5169740133&amp;chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd"/>
-        <updated>2025-05-20T00:00:00.000Z</updated>
-        <published>2025-05-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器如何确定最终的CSS属性值？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526227&amp;idx=2&amp;sn=faeca456b232c6617c86b8f6ba3ec6b9&amp;chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526227&amp;idx=2&amp;sn=faeca456b232c6617c86b8f6ba3ec6b9&amp;chksm=f9926182cee5e894804a62bed0f08745820d73c9897a3da13eccf05a25bf03c4f5a3cc844701#rd"/>
-        <updated>2025-05-20T00:00:00.000Z</updated>
-        <published>2025-05-20T00:00:00.000Z</published>
     </entry>
 </feed>

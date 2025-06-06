@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-06 22:10:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-07 00:12:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739) ![](/assets/new.png)  
+- [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
 - [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-06-06-尤雨溪：Vite-换“芯”发布，性能更强！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517250&idx=1&sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd) ![](/assets/new.png)  
+- [2025-06-05-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517248&idx=1&sn=a53bb96c94dd7ea56295ff088583bad6&chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd) ![](/assets/new.png)  
 - [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd)  
 - [2025-05-30-Vue3-新趋势：弃用-ECharts！最强图表库诞生！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517240&idx=1&sn=98adeef3bfbc37e9aaaecd06317f18ff&chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd)  
 - [2025-05-29-量大管饱，这9个-vite-插件让你的开发更简单！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517238&idx=1&sn=d719880088ae6e08bcb13820d0e4b5fa&chksm=eb07bc4fdc703559d8ad3d6bdc6e63e8f4a74848c0558a46f9a9f7c30e6fc2809b4369c5bc63#rd)  
@@ -437,8 +439,6 @@
 - [2025-04-25-连续霸榜多年，前端构建工具王座即将易主！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517184&idx=1&sn=d67a12ec5352213d40f5fdc0edeea805&chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd)  
 - [2025-04-24-try-catch-在实际开发场景中的-5-大用处，用起来！！！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517182&idx=1&sn=f20d95fde54e83dd4fff43897d4527f7&chksm=eb07bb87dc703291161acbb776b263b6160f0a51cb7be0e74159ab4eb819efdaee612bbc3d6a#rd)  
 - [2025-04-23-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517180&idx=1&sn=51f3d5ce0f623616e0d2a3270a3d14e0&chksm=eb07bb85dc7032931b5e4662a603ed161a7c609a410fa0d5b587a54d2e02bede1c69b0534e05#rd)  
-- [2025-04-22-Vue核心成员打造的可视化排查指南来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517172&idx=1&sn=93c7cec0c940e9ebd446d5838e30be84&chksm=eb07bb8ddc70329b4f1ae5268ba1cdbd309cef38a5b493e0c7be90099a3c97577333e16c7b82#rd)  
-- [2025-04-16-ECMAScript-2025-来了，新功能一览！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517170&idx=1&sn=91e15067bc362373911f5d4838abf4e7&chksm=eb07bb8bdc70329dedac6bd8a22871392ad3c02e544b8b011004532981327a5158e4ee2574b1#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
