@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-06T16:12:50.661Z</updated>
+    <updated>2025-06-06T18:13:55.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,20 @@
         <published>2025-06-06T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[众多大厂 Vue3 项目放弃使用 Pinia，新趋势？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504626&amp;idx=1&amp;sn=b1fc67ada12f6237e98a55efe5b4dd01&amp;chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504626&amp;idx=1&amp;sn=b1fc67ada12f6237e98a55efe5b4dd01&amp;chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd"/>
+        <updated>2025-06-06T00:00:00.000Z</updated>
+        <published>2025-06-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622580&amp;idx=1&amp;sn=7009c04c077563a7ec7a0b2fab364fb5&amp;chksm=80225b75b755d26319bc2e14ee9742d9fca39349d16c4652d31719d900ac16184de67ef93025#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622580&amp;idx=1&amp;sn=7009c04c077563a7ec7a0b2fab364fb5&amp;chksm=80225b75b755d26319bc2e14ee9742d9fca39349d16c4652d31719d900ac16184de67ef93025#rd"/>
+        <updated>2025-06-06T00:00:00.000Z</updated>
+        <published>2025-06-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[尤雨溪：重大升级！Vue 正式引入 AI ！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517248&amp;idx=1&amp;sn=a53bb96c94dd7ea56295ff088583bad6&amp;chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517248&amp;idx=1&amp;sn=a53bb96c94dd7ea56295ff088583bad6&amp;chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd"/>
@@ -32,6 +46,13 @@
         <title type="html"><![CDATA[11 个 JavaScript 杀手脚本，用于自动执行日常任务]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd"/>
+        <updated>2025-06-05T00:00:00.000Z</updated>
+        <published>2025-06-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 团队正式发布！未来 Vue 也能写后端啦！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504591&amp;idx=1&amp;sn=a7620c4696e8354f00d60fea700367cc&amp;chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504591&amp;idx=1&amp;sn=a7620c4696e8354f00d60fea700367cc&amp;chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd"/>
         <updated>2025-06-05T00:00:00.000Z</updated>
         <published>2025-06-05T00:00:00.000Z</published>
     </entry>
@@ -267,16 +288,16 @@
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd"/>
+        <title type="html"><![CDATA[Java 之父怒斥：AI 是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java 之父怒斥：AI 是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd"/>
+        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
@@ -340,27 +361,6 @@
         <title type="html"><![CDATA[撸一个小程序运行容器]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526240&amp;idx=1&amp;sn=cb2266238ed296f8b3910f627e042800&amp;chksm=f99261b1cee5e8a71a1b0478c806a38028e4fc906acff8d8ce8cad3f2a4fca1f6c8c47ae1708#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526240&amp;idx=1&amp;sn=cb2266238ed296f8b3910f627e042800&amp;chksm=f99261b1cee5e8a71a1b0478c806a38028e4fc906acff8d8ce8cad3f2a4fca1f6c8c47ae1708#rd"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <published>2025-05-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504402&amp;idx=1&amp;sn=bd37ee60282255c426cff119cac99738&amp;chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504402&amp;idx=1&amp;sn=bd37ee60282255c426cff119cac99738&amp;chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <published>2025-05-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】DeepSeek 原理与项目实战]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=2&amp;sn=dceba5ecfb7ef7d1d15b665cfa27962f&amp;chksm=bcb924f26dfcd9604b2d8c87374913ac0b26c181eef770a8e603adaabfd0c7d46b2304d7a334&amp;scene=0#rd"/>
-        <updated>2025-05-21T00:00:00.000Z</updated>
-        <published>2025-05-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3513期】如何在 CSS 中让浏览器选择对比色]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276471&amp;idx=1&amp;sn=af1399fc0b1f32b94513c896b9532f44&amp;chksm=bc7877d64f64d56842e243b4fe94a8950a4462ca6c524cc0dd253cc23a77070a686b0041cf0e&amp;scene=0#rd"/>
         <updated>2025-05-21T00:00:00.000Z</updated>
         <published>2025-05-21T00:00:00.000Z</published>
     </entry>
