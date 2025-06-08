@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-07 22:08:36，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-08 08:53:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,13 +23,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-06-07-每天讲一家公司的前端薪资——魅族（珠海）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504629&idx=1&sn=4b6ea4904e6965a86e0e71e89f046165&chksm=ce45c764f9324e7294f8455fe574132e0c2e8e90ef71b64816e598f4f75b4033f22b2ebca111#rd) ![](/assets/new.png)  
+- [2025-06-07-每天讲一家公司的前端薪资——魅族（珠海）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504629&idx=1&sn=4b6ea4904e6965a86e0e71e89f046165&chksm=ce45c764f9324e7294f8455fe574132e0c2e8e90ef71b64816e598f4f75b4033f22b2ebca111#rd)  
 - [2025-06-06-众多大厂-Vue3-项目放弃使用-Pinia，新趋势？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504626&idx=1&sn=b1fc67ada12f6237e98a55efe5b4dd01&chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd)  
 - [2025-06-05-Vue-团队正式发布！未来-Vue-也能写后端啦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504591&idx=1&sn=a7620c4696e8354f00d60fea700367cc&chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd)  
 - [2025-06-04-面了一个75k的开发，想当场给他offer。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504562&idx=1&sn=18ae4d2c6150d84c1ad42c526059d2e8&chksm=ce45c723f9324e35c1637fcfc7860c85192fce94704d3903efa76893780ed3e2166defc3d699#rd)  
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2025-06-06-记录一次前端项目代码Review](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526357&idx=1&sn=8d80927cee2b16f24d5a1937cfa0358b&chksm=f9926104cee5e8120cfe911a97bde7be0ae38cf7f10d922f70fcd533f188b7c381cb29e14591#rd) ![](/assets/new.png)  
+- [2025-06-06-记录一次前端项目代码Review](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526357&idx=1&sn=8d80927cee2b16f24d5a1937cfa0358b&chksm=f9926104cee5e8120cfe911a97bde7be0ae38cf7f10d922f70fcd533f188b7c381cb29e14591#rd)  
 - [2025-06-05-为了让-iframe-支持-keepAlive，我连夜写了个-kframe](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=2&sn=111bbd0fd236b8f4f2cf9fceee129a8f&chksm=f992611ecee5e808e317bbe71de6df1472906c8e51b17c7ffd7c45896053c1e11d53ef9ed326#rd)  
 - [2025-06-05-11-个-JavaScript-杀手脚本，用于自动执行日常任务](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526351&idx=1&sn=4570dae9b1d22897cc1921f91ee159a8&chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd)  
 - [2025-06-04-使用这个新的-ECMAScript-运算符告别-Try/Catch！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526340&idx=2&sn=a6d3a6fdda6e2b52032dc64441f87fe0&chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-06-08-12个AI大战高考作文，谁能答满分？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502849&idx=1&sn=0b4ab191f38f2bf529d156d60d5d2fa7&chksm=c2b30dfef5c484e8cddc93332821c7ea817dc200c7b067b61666124db188b1e59445ac6c231b#rd) ![](/assets/new.png)  
 - [2025-06-03-DeepSeek低调更新，结果玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502832&idx=1&sn=b8656e71200db16adfb86b86fe4960fe&chksm=c2b30a0ff5c48319986327372e43b28f562cbbae5f14be58ea9c1b428680d794f2cf1a889315#rd)  
 - [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd)  
 - [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd)  
@@ -407,7 +408,6 @@
 - [2025-04-18-OpenAI发布o3和o4-mini，王者真的归来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502264&idx=1&sn=048a9c02be0266b8db69d0ab35833331&chksm=c2b30847f5c481517706d14ffd8b35b047b79869545431b1cfc1e43807746f681855f730e358#rd)  
 - [2025-04-15-智谱AI已经没法再低调了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502241&idx=1&sn=f93bef4f4a919243d4ecec34b21c960b&chksm=c2b3085ef5c481486e71346374da58b170d92676dbe016d7be2a6541573fa8e8cf1c2a2c6362#rd)  
 - [2025-04-13-实测微信读书AI新玩儿法，真香！80%的人还没发现](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502224&idx=1&sn=c859734f66d95a04270257592a3373c9&chksm=c2b3086ff5c4817921d470e280916aefd7925ff1c25b8a347b13e8980acf56d5abe37a7a15dc#rd)  
-- [2025-04-12-大白话讲《2025斯坦福AI报告》，附原文PDF](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502204&idx=1&sn=d9e9e34c05e41f62ca3c898cd80f2237&chksm=c2b30883f5c48195b3f369bfb905291f7fd96639ed214b0b8c0b74652a5ba4f1c50e2ae7b133#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
