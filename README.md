@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-08 08:53:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-09 02:12:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,13 +23,13 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-06-08-漫谈：前端牛马，在广州租房是什么感受](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504630&idx=1&sn=ac9198f2a260440a07e58d3df6e7698f&chksm=ce45c767f9324e71c8a28a359f273d547ed3343fc4cf088431edee764f8931a90c13add7d946#rd) ![](/assets/new.png)  
 - [2025-06-07-每天讲一家公司的前端薪资——魅族（珠海）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504629&idx=1&sn=4b6ea4904e6965a86e0e71e89f046165&chksm=ce45c764f9324e7294f8455fe574132e0c2e8e90ef71b64816e598f4f75b4033f22b2ebca111#rd)  
 - [2025-06-06-众多大厂-Vue3-项目放弃使用-Pinia，新趋势？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504626&idx=1&sn=b1fc67ada12f6237e98a55efe5b4dd01&chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd)  
 - [2025-06-05-Vue-团队正式发布！未来-Vue-也能写后端啦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504591&idx=1&sn=a7620c4696e8354f00d60fea700367cc&chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd)  
@@ -221,7 +222,6 @@
 - [2025-05-22-用前端实现“手电筒”效果，照亮世界！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504429&idx=1&sn=f5bae5e3e4ffb9c891864c60a5a65265&chksm=ce45c7bcf9324eaabed357f5612b008c3e890020c5a2cf2c4dbef789c2fd2a726cebd4f8e160#rd)  
 - [2025-05-21-字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504402&idx=1&sn=bd37ee60282255c426cff119cac99738&chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd)  
 - [2025-05-20-体验新秩序：前端接入-AI-的七个高效平台](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504393&idx=1&sn=5f02c4d5fc35a486ee8e1265a2f8e68f&chksm=ce45c798f9324e8ed395639532afe97fa0e65c3393659e8e7b4d5ec35c3cb83e74b0a5b7fa53#rd)  
-- [2025-05-19-开发者如何拥有财务安全感？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504392&idx=1&sn=523520dc3027fdbbe01c822399f617c4&chksm=ce45c799f9324e8fb96399b28caecdb8ecc7272bc3d0ea3991f30bc317f2e3c567abb19c6ad6#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-06-08-12个AI大战高考作文，谁能答满分？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502849&idx=1&sn=0b4ab191f38f2bf529d156d60d5d2fa7&chksm=c2b30dfef5c484e8cddc93332821c7ea817dc200c7b067b61666124db188b1e59445ac6c231b#rd) ![](/assets/new.png)  
+- [2025-06-08-12个AI大战高考作文，谁能答满分？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502849&idx=1&sn=0b4ab191f38f2bf529d156d60d5d2fa7&chksm=c2b30dfef5c484e8cddc93332821c7ea817dc200c7b067b61666124db188b1e59445ac6c231b#rd)  
 - [2025-06-03-DeepSeek低调更新，结果玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502832&idx=1&sn=b8656e71200db16adfb86b86fe4960fe&chksm=c2b30a0ff5c48319986327372e43b28f562cbbae5f14be58ea9c1b428680d794f2cf1a889315#rd)  
 - [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd)  
 - [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd)  
