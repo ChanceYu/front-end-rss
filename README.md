@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-09 11:16:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-09 16:15:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-09-【第3524期】无需-CRDT-或-OT-的协同文本编辑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276640&idx=1&sn=b3688669387e96296d4389e45741d48f&chksm=bca18e35200ed7e43546668338b874244b81a5c2ab3b51082e3211cd591d4d348f23c4bbbec5&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-09-【第3524期】无需-CRDT-或-OT-的协同文本编辑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276640&idx=1&sn=b3688669387e96296d4389e45741d48f&chksm=bca18e35200ed7e43546668338b874244b81a5c2ab3b51082e3211cd591d4d348f23c4bbbec5&scene=0#rd)  
 - [2025-06-06-【第3523期】程序员专属提示词工程实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276627&idx=1&sn=7bf690fbb30e67dfb8c10ef1bc6db2d2&chksm=bc5bda4c48f3dab09e0a69ee41a331d0d008f86f0e1e02740051c17bbac1de64175348c7eb35&scene=0#rd)  
 - [2025-06-05-【招聘】抖音生活服务商品团队招前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=2&sn=cf6dc510f4af637f64cde9f5143e18ff&chksm=bc10e7a13e84abf752c9ca49fdadc377088d5ed16e48bff7eed233b9568535fe8376b855b88e&scene=0#rd)  
 - [2025-06-05-【第3522期】扩展-React-服务端渲染的能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=1&sn=342639532003e9c3936661b540f0ef33&chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-06-09-阿里淘天T-Star-Lab-技术Openday-报名开放](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540429&idx=1&sn=8ac3cf2baf63057635f258fb149e87f4&chksm=825c40a9c22f70b14a8bafb38aad9cf1699bc998d403a29407434436514cc61467f63a97be00&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd)  
 - [2025-06-04-大模型微调知识与实践分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540387&idx=1&sn=cfaf3a39fa8ce530af3e2a3c1465eb4f&chksm=82fa1c19818c4b2469b4d443e086a8298386d1018071f905a7d06ae1e8ef2d6a31ca72533d40&scene=0#rd)  
 - [2025-05-30-当我们在谈多端一码时，我们在谈论什么](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540374&idx=1&sn=5c749e84752072ca5f0802cba1041880&chksm=8267f31249c5214ae6f6397c0d59d81c53c28ddcfe3020654a2305add5b46c089042f1d99025&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-04-18-AI驱动研发效率在中后台的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539800&idx=1&sn=45a92ab85bd456648d75977a0dddf4d8&chksm=8390cf00b4e746165b18fed9cac42478bb9a81b2588492f125f741964ed68b5744c17560b2b4#rd)  
 - [2025-04-16-2025-AI驱动研发工具对比丨独立测评](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539750&idx=1&sn=79187cb649f4a5422b78f08617603d9e&chksm=8390cefeb4e747e8255fb70ab29d3829b09deed70d8c3c3952bf82ac68659569daa3f5f18d62#rd)  
 - [2025-04-14-基于AIGC技术的营销短视频生产方案及业务实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539666&idx=1&sn=f879957adb247796f6dd5861ed075637&chksm=8390ce8ab4e7479cc4b6424eca6c784018aba7542b33b5b6258d24e7c33fe31d0203d3059c0c#rd)  
-- [2025-04-09-淘宝质量保障之主动预警能力建设](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539520&idx=1&sn=e259556bb2229d8719bb090bda965932&chksm=8390ce18b4e7470ed3c3fd4994261b5b39bd3b9a480f4bb0f20f75e9b700ba12af06d49b9870#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
