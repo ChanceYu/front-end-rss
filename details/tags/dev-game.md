@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-09 16:15:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-09 22:10:40。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -25,6 +25,7 @@
 - [2018-12-05-【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect) 
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [2018-09-20-【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect) 
+- [2025-06-09-苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=1&sn=23fe1edd76ee3d9483575903761f95d4&chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd) 
 - [2025-03-28-老板花一万大洋让我写的艺术工作室官网？！-HeroSection-再度来袭！Three.js](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622265&idx=1&sn=bb736dcb1d0656d847c9d85c76377b7b&chksm=80225cb8b755d5ae8a035a52e74a3c6e0dbc1c223d7501d7468da38854f63ea31e569ddbee82#rd) 
 - [2023-07-28-Threejs-地图3D可视化](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616228&idx=2&sn=f9eb9a5eb9362697867dc45b08971bd2&chksm=8022a425b7552d33fd8ce54924f0edc0342d5c2bef06f8bbb235a6ba8abaac20c77cf6699905#rd) 
 - [2022-07-15-使用-Three.js-实现跳一跳游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607548&idx=2&sn=614be89b0ca6ef450947e3e13c31ffd0&chksm=8022863db7550f2b3c6da334e167dc41b9dad493bd82e9be13d1bbaba055da42013a22378671#rd) 

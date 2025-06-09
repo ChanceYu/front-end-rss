@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-09T08:15:08.672Z</updated>
+    <updated>2025-06-09T14:10:40.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[记录一次前端项目代码Review]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd"/>
+        <updated>2025-06-09T00:00:00.000Z</updated>
+        <published>2025-06-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd"/>
+        <updated>2025-06-09T00:00:00.000Z</updated>
+        <published>2025-06-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪：Vite 换“芯”发布，性能更强！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd</id>
@@ -295,16 +309,16 @@
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java 之父怒斥：AI 是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd"/>
+        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端内存泄漏：你的JS代码在偷偷“吃”内存！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=2&amp;sn=7e5cae0314bc7328354ac14169b85e1a&amp;chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd"/>
+        <title type="html"><![CDATA[Java 之父怒斥：AI 是场骗局，无法取代程序员，在编程方面的最大作用是生成没人想写的文档]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622523&amp;idx=1&amp;sn=6d41ee9991b52c3a8dfbe51a783e01aa&amp;chksm=80225bbab755d2ac505fded8851623c8b0927a6d03491b95faca14db93f9f5cef96fac7f97d2#rd"/>
         <updated>2025-05-26T00:00:00.000Z</updated>
         <published>2025-05-26T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[ESLint v9.26.0 发布，支持 MCP 了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=2&amp;sn=2f8528a3c4d1b8cc1e5c204201bb76f7&amp;chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=2&amp;sn=2f8528a3c4d1b8cc1e5c204201bb76f7&amp;chksm=f99261b7cee5e8a151184b795d8943d0a146c4fc948cc83a26f97e4e09df73f4fa48ca64db61#rd"/>
-        <updated>2025-05-22T00:00:00.000Z</updated>
-        <published>2025-05-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite打包优化实践：从分包到性能提升]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=1&amp;sn=7ffa75e637ef9ee7aaf37acb1e98672a&amp;chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526246&amp;idx=1&amp;sn=7ffa75e637ef9ee7aaf37acb1e98672a&amp;chksm=f99261b7cee5e8a16798fb0c037360139734a986315e5e6c31876e1337c53608e173f2b58589#rd"/>
-        <updated>2025-05-22T00:00:00.000Z</updated>
-        <published>2025-05-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3514期】JavaScript 的新超能力：显式资源管理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276486&amp;idx=1&amp;sn=993e77b8d814daa31edc9f065be98180&amp;chksm=bcb7a0efa7df100c055ca394e411f9ca7981fc37e9eabc2ed3a2100e01b0260d303b1b9f293b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276486&amp;idx=1&amp;sn=993e77b8d814daa31edc9f065be98180&amp;chksm=bcb7a0efa7df100c055ca394e411f9ca7981fc37e9eabc2ed3a2100e01b0260d303b1b9f293b&amp;scene=0#rd"/>
         <updated>2025-05-22T00:00:00.000Z</updated>
         <published>2025-05-22T00:00:00.000Z</published>
     </entry>
