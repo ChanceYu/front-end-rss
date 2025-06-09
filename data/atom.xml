@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-08T18:12:11.534Z</updated>
+    <updated>2025-06-09T03:16:41.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -134,16 +134,16 @@
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】MCP原理与实战：高效AI Agent智能体开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3520期】Slack、Notion 和 VSCode 提升 Electron 应用性能的 6 种方法]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3520期】Slack、Notion 和 VSCode 提升 Electron 应用性能的 6 种方法]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=1&amp;sn=6fa52c16f7a0dac4f20c2a7936bcde79&amp;chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】MCP原理与实战：高效AI Agent智能体开发]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
@@ -253,16 +253,16 @@
         <published>2025-05-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【图书】大模型算法：强化学习、微调与对齐（全彩）]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=2&amp;sn=9bb691592bd01aeac67f12a146060b15&amp;chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=2&amp;sn=9bb691592bd01aeac67f12a146060b15&amp;chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3518期】使用 margin-trim 更轻松地布局]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=1&amp;sn=a092698872868a18a7617a9e3f93aef2&amp;chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=1&amp;sn=a092698872868a18a7617a9e3f93aef2&amp;chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&amp;scene=0#rd"/>
         <updated>2025-05-28T00:00:00.000Z</updated>
         <published>2025-05-28T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3518期】使用 margin-trim 更轻松地布局]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=1&amp;sn=a092698872868a18a7617a9e3f93aef2&amp;chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=1&amp;sn=a092698872868a18a7617a9e3f93aef2&amp;chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【图书】大模型算法：强化学习、微调与对齐（全彩）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=2&amp;sn=9bb691592bd01aeac67f12a146060b15&amp;chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276522&amp;idx=2&amp;sn=9bb691592bd01aeac67f12a146060b15&amp;chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&amp;scene=0#rd"/>
         <updated>2025-05-28T00:00:00.000Z</updated>
         <published>2025-05-28T00:00:00.000Z</published>
     </entry>
