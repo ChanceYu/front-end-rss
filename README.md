@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-10 11:13:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-10 22:10:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581) ![](/assets/new.png)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
@@ -66,7 +67,6 @@
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
-- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-10-【第3525期】架起桥梁：在-Dart-中运行-JavaScript-模块](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276651&idx=1&sn=bd2f19e3f3562618b137521ad715b44f&chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-10-【第3525期】架起桥梁：在-Dart-中运行-JavaScript-模块](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276651&idx=1&sn=bd2f19e3f3562618b137521ad715b44f&chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&scene=0#rd)  
 - [2025-06-09-【第3524期】无需-CRDT-或-OT-的协同文本编辑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276640&idx=1&sn=b3688669387e96296d4389e45741d48f&chksm=bca18e35200ed7e43546668338b874244b81a5c2ab3b51082e3211cd591d4d348f23c4bbbec5&scene=0#rd)  
 - [2025-06-06-【第3523期】程序员专属提示词工程实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276627&idx=1&sn=7bf690fbb30e67dfb8c10ef1bc6db2d2&chksm=bc5bda4c48f3dab09e0a69ee41a331d0d008f86f0e1e02740051c17bbac1de64175348c7eb35&scene=0#rd)  
 - [2025-06-05-【第3522期】扩展-React-服务端渲染的能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=1&sn=342639532003e9c3936661b540f0ef33&chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&scene=0#rd)  

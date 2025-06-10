@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-10T03:13:27.184Z</updated>
+    <updated>2025-06-10T14:10:08.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3525期】架起桥梁：在 Dart 中运行 JavaScript 模块]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276651&amp;idx=1&amp;sn=bd2f19e3f3562618b137521ad715b44f&amp;chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276651&amp;idx=1&amp;sn=bd2f19e3f3562618b137521ad715b44f&amp;chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&amp;scene=0#rd"/>
+        <updated>2025-06-10T00:00:00.000Z</updated>
+        <published>2025-06-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node 24.2, and some EOL warnings]]></title>
+        <id>https://nodeweekly.com/issues/581</id>
+        <link href="https://nodeweekly.com/issues/581"/>
         <updated>2025-06-10T00:00:00.000Z</updated>
         <published>2025-06-10T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[原子化的未来？了解一下全面进化的CSS attr函数]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=2&amp;sn=c433745c80b7c2957557952dfa92fece&amp;chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=2&amp;sn=c433745c80b7c2957557952dfa92fece&amp;chksm=f99261afcee5e8b96be36fe5b25c7d6cf21958f9a8f6a063194917d736109ba664bab2c5581e#rd"/>
-        <updated>2025-05-25T00:00:00.000Z</updated>
-        <published>2025-05-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 的新超能力：显式资源管理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=1&amp;sn=80f05706e63fbaa883be123cc0df3cd7&amp;chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526270&amp;idx=1&amp;sn=80f05706e63fbaa883be123cc0df3cd7&amp;chksm=f99261afcee5e8b9a026ec605201edf00211aa4f37d34504f94e30d990475f4af3fcd8f8953c#rd"/>
         <updated>2025-05-25T00:00:00.000Z</updated>
         <published>2025-05-25T00:00:00.000Z</published>
     </entry>

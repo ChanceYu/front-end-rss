@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-03 22:11:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-10 22:10:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581) 
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580) 
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579) 
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578) 
