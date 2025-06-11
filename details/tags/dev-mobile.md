@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-11 18:10:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-11 20:19:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -17,6 +17,7 @@
 - [2019-01-24-【第1515期】让我们在2019年重新认识-Flutter](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231257&idx=1&sn=d76bd4dfd945072b363c4d3a74fbdba9#wechat_redirect) 
 - [2018-12-16-【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect) 
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
+- [2025-06-11-12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter-开发者的噩梦开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=1&sn=338b635ee345e515f14f14b2a9ebd9ad&chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd) 
 - [2022-07-22-Flutter-开发资源大全来了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607689&idx=1&sn=d63c0c9b85b181801c385494ae881bb9&chksm=80228548b7550c5e270985590042f72f7f459fdb4e5a5336fc6e339cf14f02ce3eade971f9af#rd) 
 - [2022-07-06-使用-Flutter-开发-Chrome-插件【又来抢前端饭碗了】](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651605834&idx=2&sn=837a0cc28f3c719c2b34530fd9a6585c&chksm=80229c8bb755159d26b65f32acb2c2c7a051c9fc4424b969effee58a90b53e8f96c60bb0466b#rd) 
 - [2022-05-21-谷歌发布-Flutter-3！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651603539&idx=1&sn=8c019b383d03b34e38923cd843ce6954&chksm=80229592b7551c8424067821c7a4f4eae51259cb19a257d7da57764a108d16052234fb52a7ef#rd) 

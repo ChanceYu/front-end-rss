@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-11T10:10:54.704Z</updated>
+    <updated>2025-06-11T12:19:09.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,27 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[探秘TaoAvatar：淘宝3D真人数字人技术解析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540493&amp;idx=1&amp;sn=82abb3daaaa9461ec400520d60e6b3cb&amp;chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540493&amp;idx=1&amp;sn=82abb3daaaa9461ec400520d60e6b3cb&amp;chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&amp;scene=0#rd"/>
+        <updated>2025-06-11T00:00:00.000Z</updated>
+        <published>2025-06-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Bridge：让 WebView 拥有原生体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd"/>
+        <updated>2025-06-11T00:00:00.000Z</updated>
+        <published>2025-06-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter 开发者的噩梦开始了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd"/>
+        <updated>2025-06-11T00:00:00.000Z</updated>
+        <published>2025-06-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3526期】通过 MCP 为代理浏览器赋予 DevTools 访问权限，助其获得超级能力]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276659&amp;idx=1&amp;sn=db9ea529abd9a233b0338ed57c54291b&amp;chksm=bc4f7878628ecd036dbc46933d160ce931f928d4fb6a076e0fa94f6dc4e316f2bd51194d0b31&amp;scene=0#rd</id>
@@ -57,16 +78,16 @@
         <published>2025-06-09T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[记录一次前端项目代码Review]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd"/>
+        <title type="html"><![CDATA[苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd"/>
         <updated>2025-06-09T00:00:00.000Z</updated>
         <published>2025-06-09T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd"/>
+        <title type="html"><![CDATA[记录一次前端项目代码Review]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd"/>
         <updated>2025-06-09T00:00:00.000Z</updated>
         <published>2025-06-09T00:00:00.000Z</published>
     </entry>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276516&amp;idx=1&amp;sn=d1dfeb7103ef039786dc7098a1fbeace&amp;chksm=bc0a86affcfc7c5004fcaf5b16977c2b05c137e59cd55b5821fab47d73e5eda45465dbc6d731&amp;scene=0#rd"/>
         <updated>2025-05-27T00:00:00.000Z</updated>
         <published>2025-05-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Node.js team has been discussing lately]]></title>
-        <id>https://nodeweekly.com/issues/579</id>
-        <link href="https://nodeweekly.com/issues/579"/>
-        <updated>2025-05-27T00:00:00.000Z</updated>
-        <published>2025-05-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播组件调度、复用和治理]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540277&amp;idx=1&amp;sn=9b95746c39c2432b29b75aa6c0d7964e&amp;chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540277&amp;idx=1&amp;sn=9b95746c39c2432b29b75aa6c0d7964e&amp;chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&amp;scene=0#rd"/>
-        <updated>2025-05-26T00:00:00.000Z</updated>
-        <published>2025-05-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正式发布！TypeScript 提升了 10 倍的性能]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504491&amp;idx=1&amp;sn=6dafe32a6b7960c4475aa283d138231c&amp;chksm=ce45c7faf9324eec9487a8bb903b46c85bd815ccd497edee8ed695bf504a9572fd66dc301289#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504491&amp;idx=1&amp;sn=6dafe32a6b7960c4475aa283d138231c&amp;chksm=ce45c7faf9324eec9487a8bb903b46c85bd815ccd497edee8ed695bf504a9572fd66dc301289#rd"/>
-        <updated>2025-05-26T00:00:00.000Z</updated>
-        <published>2025-05-26T00:00:00.000Z</published>
     </entry>
 </feed>
