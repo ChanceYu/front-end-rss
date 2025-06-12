@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-12 02:13:59。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-12 11:10:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -9,6 +9,7 @@
 
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
+- [2025-06-12-【第3527期】Pinterest-采用文档即代码模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=1&sn=447bba11593032769418f8e15cb681f5&chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&scene=0#rd) 
 - [2025-05-29-【第3519期】使用一条-Git-命令推送整个分支栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276581&idx=1&sn=8e497d9d26636035d7d72febd2b7170a&chksm=bcaf81749157d587f15e421303f7b0e72e517484f0d6d850ff46f772c77227f20452ddf6785f&scene=0#rd) 
 - [2025-02-21-【早阅】Figma-MCP-Server：专为-AI-编码工具设计的服务器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275755&idx=1&sn=bf3aa4048127f85501d16a9d20c1e267&chksm=bc9c243a39f955123def8f16dade1de4df3876cdcb0cf4fe641dc655ed0e929d881fcfb566c6&scene=0#rd) 
 - [2025-02-10-【开源】TinyEngine开启新篇章，服务端Java版本正式开源~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275628&idx=1&sn=01de0433f45c373e43b87b0cab7b2902&chksm=bcb3dedc6cc99d9466a13bbeeb45410071182d9b72a9cb90536f7a8821ff2608a21afce2b835&scene=0#rd) 
