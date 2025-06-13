@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-06 22:10:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-14 00:11:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740) 
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739) 
 - [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738) 
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737) 

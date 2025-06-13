@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-13 18:10:47，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-14 00:11:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,8 +32,8 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740) ![](/assets/new.png)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
 - [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
@@ -97,7 +98,6 @@
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [2025-01-31-A-WebAssembly-compiler-in-192-bytes](https://javascriptweekly.com/issues/721)  
-- [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-06-13-Vue3-终于可以共享自己的屏幕给别人看了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504644&idx=1&sn=7d811d616fe47f845fcb0ce9382ad642&chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd) ![](/assets/new.png)  
 - [2025-06-12-WebWorker-即将被取代！JS-发布全新-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504640&idx=1&sn=a7652f9d4510c7c67948045a39d7b78b&chksm=ce45c691f9324f87dbb9cb1f12f0547d88a8e141d94bea7867f15bb1942a0b0ab09656585e5e#rd)  
 - [2025-06-11-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504638&idx=1&sn=2f36c33202f5c18706f04eaa10e3912e&chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd)  
 - [2025-06-10-刚刚！尤雨溪终于透露-2025-年-Vue-的全新计划](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504631&idx=1&sn=1f078f584bacc751a9dd33cd90e69ba7&chksm=ce45c766f9324e70cccedff9dc89f2eadc547f6a1cf01b38cb9e47a9e0396a7ab6d92474e901#rd)  
@@ -221,7 +222,6 @@
 - [2025-05-26-正式发布！TypeScript-提升了-10-倍的性能](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504491&idx=1&sn=6dafe32a6b7960c4475aa283d138231c&chksm=ce45c7faf9324eec9487a8bb903b46c85bd815ccd497edee8ed695bf504a9572fd66dc301289#rd)  
 - [2025-05-25-作为老前端程序员，有哪些知心话，想对新手说？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504481&idx=1&sn=183a9c3d15147e42d852d16afe4fb64e&chksm=ce45c7f0f9324ee6441052c9bc248f88ec31933cc2186e4c7a935ffc716aebd18eaca81c0bf8#rd)  
 - [2025-05-24-每天讲一家公司的前端薪资——汇川技术（深圳）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504477&idx=1&sn=53f21cf25a10f107a8969414dc29f477&chksm=ce45c7ccf9324edad25ae1970fda21d4d9e101c74408f3556829fc47415dc67756bfa85a4a10#rd)  
-- [2025-05-23-尤雨溪：Vue-将「去除虚拟DOM」，这将是质的飞跃！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504439&idx=1&sn=cd2ad8c54dc1736df51b320d356b81fb&chksm=ce45c7a6f9324eb072440fa10cf74ead75937e237bd24e7efac4ef2d711b664f01d7cc7b627f#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd)  
 - [2025-06-11-探秘TaoAvatar：淘宝3D真人数字人技术解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540493&idx=1&sn=82abb3daaaa9461ec400520d60e6b3cb&chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&scene=0#rd)  
 - [2025-06-09-阿里淘天T-Star-Lab-技术Openday-报名开放](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540429&idx=1&sn=8ac3cf2baf63057635f258fb149e87f4&chksm=825c40a9c22f70b14a8bafb38aad9cf1699bc998d403a29407434436514cc61467f63a97be00&scene=0#rd)  
 - [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd)  
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/) ![](/assets/new.png)  
+- [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
 - [2025-05-23-你知道吗，输入框的value值也能直接返回数值类型](https://www.zhangxinxu.com/wordpress/2025/05/input-value-valueasnumber/)  

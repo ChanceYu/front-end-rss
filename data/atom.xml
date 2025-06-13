@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-13T10:10:47.519Z</updated>
+    <updated>2025-06-13T16:11:55.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/"/>
+        <updated>2025-06-13T00:00:00.000Z</updated>
+        <published>2025-06-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 终于可以共享自己的屏幕给别人看了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504644&amp;idx=1&amp;sn=7d811d616fe47f845fcb0ce9382ad642&amp;chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504644&amp;idx=1&amp;sn=7d811d616fe47f845fcb0ce9382ad642&amp;chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd"/>
         <updated>2025-06-13T00:00:00.000Z</updated>
         <published>2025-06-13T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276581&amp;idx=1&amp;sn=8e497d9d26636035d7d72febd2b7170a&amp;chksm=bcaf81749157d587f15e421303f7b0e72e517484f0d6d850ff46f772c77227f20452ddf6785f&amp;scene=0#rd"/>
         <updated>2025-05-29T00:00:00.000Z</updated>
         <published>2025-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[震惊，有生之年居然看到CSS attr()全属性支持]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/"/>
-        <updated>2025-05-28T00:00:00.000Z</updated>
-        <published>2025-05-28T00:00:00.000Z</published>
     </entry>
 </feed>
