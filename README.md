@@ -14,20 +14,20 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-13 11:11:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-13 16:13:44，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
-- [字节前端-ByteFE](#字节前端-bytefe)  
+- [字节前端-ByteFE](#字节前端-bytefe)![](/assets/dot.png)   
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-13-【第3528期】RSC-中的导入是如何工作的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276679&idx=1&sn=ee205506ea2d6d1b7e2f66bf2d94f1c3&chksm=bcb8afed2c50a891a7b5090a5810d42ff6235c45aa7e195609b5cc1d1b535df1ead77acf678c&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-13-【第3528期】RSC-中的导入是如何工作的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276679&idx=1&sn=ee205506ea2d6d1b7e2f66bf2d94f1c3&chksm=bcb8afed2c50a891a7b5090a5810d42ff6235c45aa7e195609b5cc1d1b535df1ead77acf678c&scene=0#rd)  
 - [2025-06-12-【第3527期】Pinterest-采用文档即代码模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=1&sn=447bba11593032769418f8e15cb681f5&chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&scene=0#rd)  
 - [2025-06-12-【图书】Cursor与Copilot开发实战：让烦琐编程智能化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=2&sn=ec8c54df5f4d9885882b208a07eeb0a1&chksm=bc2112a8d12e305e0dc1daf5e7d4ad1f656e369571f45c6dc107a3065b4c3ad6741da947c492&scene=0#rd)  
 - [2025-06-11-【第3526期】通过-MCP-为代理浏览器赋予-DevTools-访问权限，助其获得超级能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276659&idx=1&sn=db9ea529abd9a233b0338ed57c54291b&chksm=bc4f7878628ecd036dbc46933d160ce931f928d4fb6a076e0fa94f6dc4e316f2bd51194d0b31&scene=0#rd)  
@@ -326,6 +326,8 @@
 </summary>
 
 
+- [2025-06-13-字节跳动技术副总裁洪定坤：TRAE-想做-AI-Development](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506097&idx=1&sn=13ce2f9aa6f5a4fd95046953a058bdc9&chksm=cea96fb0f9dee6a6116ef5ae31e7cd7d9a4d127db424f4c39ef6fb26ce60f6681f9536440f36#rd) ![](/assets/new.png)  
+- [2025-06-11-豆包AI编程：零门槛的应用创作工具](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506091&idx=1&sn=1d437725945818b8f792f584734e1ed4&chksm=cea96faaf9dee6bcef50719e72e0aa5cef7b234e20affb3cae9d500cad7600c89b7bdfb8e696#rd) ![](/assets/new.png)  
 - [2025-03-14-Trae-x-稀土掘金：与-AI-结伴，编程不孤单，推荐&amp;学习有好礼！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506085&idx=1&sn=b3add3c5011dda34f3ab6ba3346eff1a&chksm=cea96fa4f9dee6b22768572d68c962b96b9acfb2f3f130b49c191c91e1582a11abcd687ce7a1#rd)  
 - [2025-03-11-现在就是最好的时机！AI-FOR-CODE挑战赛「创意赛道」作品提交指南，用Idea传递无限可能](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506074&idx=1&sn=faf465b3b94df1b1abd5a0976e1cc718&chksm=cea96f9bf9dee68ddaf21c2f92624d922c78a564a5fc731b0aa624b8b89763e8df629f799aa3#rd)  
 - [2025-03-07-家庭物资杂乱无章？我靠AI逆天改命！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247506066&idx=1&sn=783af14cc3afe7ae4d6a6b45e8adcba8&chksm=cea96f93f9dee6853b1d3caa748d685d064d9e16bc1630684f18fd542e63915733155cb934a2#rd)  
@@ -344,8 +346,6 @@
 - [2024-10-22-1024-码上奇妙夜｜开发者专属，万元“豪”礼，宠爱满满！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505893&idx=1&sn=fbe28098cedefb6494e7252551fe9f95&chksm=cea960e4f9dee9f2e691fee2bb5e22b92ef74fd90bc6e6f9a559306d463d7e8de510c86190df#rd)  
 - [2024-09-26-前端、AI、后端免费学-|-青训营-X-豆包MarsCode-技术训练营报名啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505885&idx=1&sn=0b29245584e952d334e20c103374dbb6&chksm=cea960dcf9dee9ca07f29891f2c02794287b15a52af9ce50d8d9a1f3b328eaa53b0cdc18478e#rd)  
 - [2024-05-29-2024-抖音欢笑中国年六：前端互动场景中的性能优化](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505862&idx=1&sn=8362f9b48670b6affc724e37601d598b&chksm=cea960c7f9dee9d13ab582c7d5bb18a04e81f7d7df756511f40d26f3a5a9c0cf8b9cc891afd5#rd)  
-- [2024-05-21-原创全网独家-万字长文入门前端全球化](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505860&idx=1&sn=38cea5166580c7ffe9954e0c13ec3e51&chksm=cea960c5f9dee9d3d4e36baae4ac3b2812ad1ee495743d71326f5f7bbff25a7367746af996c0#rd)  
-- [2024-05-16-有奖征文-|-性能优化的实践与经验分享](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505859&idx=1&sn=813a3d5f5400486a591d938d5aae0d36&chksm=cea960c2f9dee9d408a2eb6587f493e78e7427bafdc0afe967968b83545a8ef2cff09e167c19#rd)  
 - [查看更多 >](/details/字节前端-ByteFE.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
