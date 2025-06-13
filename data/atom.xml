@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-13T08:13:45.276Z</updated>
+    <updated>2025-06-13T10:10:47.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/"/>
+        <updated>2025-06-13T00:00:00.000Z</updated>
+        <published>2025-06-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 生态新玩具：依赖可视化！兼容 React！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517252&amp;idx=1&amp;sn=3140d1ee010f0af7e552574463af42ca&amp;chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[震惊，有生之年居然看到CSS attr()全属性支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/"/>
-        <updated>2025-05-28T00:00:00.000Z</updated>
-        <published>2025-05-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 诞生 30 周年，这些重要事件你了解吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517236&amp;idx=1&amp;sn=ecbadc55f24ef8a09787b74af81eac08&amp;chksm=eb07bc4ddc70355b1d50a9bcef7a46ddfadd3b50708fda8b3c39c98fe0e7c35a3f2d22de8584#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517236&amp;idx=1&amp;sn=ecbadc55f24ef8a09787b74af81eac08&amp;chksm=eb07bc4ddc70355b1d50a9bcef7a46ddfadd3b50708fda8b3c39c98fe0e7c35a3f2d22de8584#rd"/>
         <updated>2025-05-28T00:00:00.000Z</updated>
         <published>2025-05-28T00:00:00.000Z</published>
     </entry>
