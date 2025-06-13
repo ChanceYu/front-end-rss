@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-12 20:17:58，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-13 08:47:16，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,14 +23,14 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-06-12-WebWorker-即将被取代！JS-发布全新-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504640&idx=1&sn=a7652f9d4510c7c67948045a39d7b78b&chksm=ce45c691f9324f87dbb9cb1f12f0547d88a8e141d94bea7867f15bb1942a0b0ab09656585e5e#rd) ![](/assets/new.png)  
+- [2025-06-11-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504638&idx=1&sn=2f36c33202f5c18706f04eaa10e3912e&chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd) ![](/assets/new.png)  
 - [2025-06-10-刚刚！尤雨溪终于透露-2025-年-Vue-的全新计划](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504631&idx=1&sn=1f078f584bacc751a9dd33cd90e69ba7&chksm=ce45c766f9324e70cccedff9dc89f2eadc547f6a1cf01b38cb9e47a9e0396a7ab6d92474e901#rd)  
 - [2025-06-08-漫谈：前端牛马，在广州租房是什么感受](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504630&idx=1&sn=ac9198f2a260440a07e58d3df6e7698f&chksm=ce45c767f9324e71c8a28a359f273d547ed3343fc4cf088431edee764f8931a90c13add7d946#rd)  
 - [2025-06-07-每天讲一家公司的前端薪资——魅族（珠海）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504629&idx=1&sn=4b6ea4904e6965a86e0e71e89f046165&chksm=ce45c764f9324e7294f8455fe574132e0c2e8e90ef71b64816e598f4f75b4033f22b2ebca111#rd)  
@@ -220,8 +222,6 @@
 - [2025-05-25-作为老前端程序员，有哪些知心话，想对新手说？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504481&idx=1&sn=183a9c3d15147e42d852d16afe4fb64e&chksm=ce45c7f0f9324ee6441052c9bc248f88ec31933cc2186e4c7a935ffc716aebd18eaca81c0bf8#rd)  
 - [2025-05-24-每天讲一家公司的前端薪资——汇川技术（深圳）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504477&idx=1&sn=53f21cf25a10f107a8969414dc29f477&chksm=ce45c7ccf9324edad25ae1970fda21d4d9e101c74408f3556829fc47415dc67756bfa85a4a10#rd)  
 - [2025-05-23-尤雨溪：Vue-将「去除虚拟DOM」，这将是质的飞跃！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504439&idx=1&sn=cd2ad8c54dc1736df51b320d356b81fb&chksm=ce45c7a6f9324eb072440fa10cf74ead75937e237bd24e7efac4ef2d711b664f01d7cc7b627f#rd)  
-- [2025-05-22-用前端实现“手电筒”效果，照亮世界！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504429&idx=1&sn=f5bae5e3e4ffb9c891864c60a5a65265&chksm=ce45c7bcf9324eaabed357f5612b008c3e890020c5a2cf2c4dbef789c2fd2a726cebd4f8e160#rd)  
-- [2025-05-21-字节「AI+前端」新战场：会写Three.js的，薪资比React开发高30%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504402&idx=1&sn=bd37ee60282255c426cff119cac99738&chksm=ce45c783f9324e957fb36eac1d9f4e37d5a56fbd378843b19070b1329ffa5cdb2e4d8931ca5b#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2025-06-12-TS进阶！深入探索-TypeScript-工具类型：内置神器与高阶扩展](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526505&idx=1&sn=4e8d0b50be605e044c306a08f52ab61a&chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd) ![](/assets/new.png)  
+- [2025-06-12-TS进阶！深入探索-TypeScript-工具类型：内置神器与高阶扩展](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526505&idx=1&sn=4e8d0b50be605e044c306a08f52ab61a&chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd)  
 - [2025-06-11-你以为的-Tailwind-并不高效，看看这些使用误区](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526462&idx=1&sn=3bf075286a328c7671d132cda0568edb&chksm=f9926eefcee5e7f965f9c97aa2efee4be171fd883d22d03596865356b45bb7bc8a0cb5cefed3#rd)  
 - [2025-06-10-做个大屏既要不留白又要不变形还要...-我怒斥领导,大屏适配就这四种模式!](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526409&idx=1&sn=9526b538749a3b3dcf19c428b8e22ba1&chksm=f9926ed8cee5e7ce1678d2be3164226cc6c00821c033efa226b777cfdd218c0f72298a2d0cf2#rd)  
 - [2025-06-09-Cursor-1.0-重磅发来袭（毛骨悚然，开始学习你如何编码）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526371&idx=1&sn=65d852105e8b607099fe8fbfff49020b&chksm=f9926132cee5e8246b5d161ccfcbf4ddcf1cd929a36acbac5c320f017812e5a0c5949c882cc5#rd)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd) ![](/assets/new.png)  
+- [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd)  
 - [2025-06-06-尤雨溪：Vite-换“芯”发布，性能更强！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517250&idx=1&sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd)  
 - [2025-06-05-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517248&idx=1&sn=a53bb96c94dd7ea56295ff088583bad6&chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd)  
 - [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd)  
