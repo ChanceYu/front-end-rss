@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-16T02:53:12.905Z</updated>
+    <updated>2025-06-16T10:11:32.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[零基础解码Transformer与大模型核心原理]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540560&amp;idx=1&amp;sn=9460b0062a9ac2abfeed9fa0eb80fa8e&amp;chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540560&amp;idx=1&amp;sn=9460b0062a9ac2abfeed9fa0eb80fa8e&amp;chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&amp;scene=0#rd"/>
+        <updated>2025-06-16T00:00:00.000Z</updated>
+        <published>2025-06-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[不要再代码中滥用 useCallback 和useMemo]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=2&amp;sn=f20ec923677c441122fb783771923cb1&amp;chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526308&amp;idx=2&amp;sn=f20ec923677c441122fb783771923cb1&amp;chksm=f9926175cee5e8632171451ba6aac3c9352b92c8044a90fe11613d160f28addc22f3d1d6a7f4#rd"/>
-        <updated>2025-05-29T00:00:00.000Z</updated>
-        <published>2025-05-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把 Canvas 放 WebWorker 中绘制，性能提升 200%！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504515&amp;idx=1&amp;sn=5cd78decb26ce25c3d43f9ebbb319fb6&amp;chksm=ce45c712f9324e04c51d1eea8dc707cbe6cad9fc2e2a96e8ec0e0b455d9864821f452f21b2ea#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504515&amp;idx=1&amp;sn=5cd78decb26ce25c3d43f9ebbb319fb6&amp;chksm=ce45c712f9324e04c51d1eea8dc707cbe6cad9fc2e2a96e8ec0e0b455d9864821f452f21b2ea#rd"/>
         <updated>2025-05-29T00:00:00.000Z</updated>
         <published>2025-05-29T00:00:00.000Z</published>
     </entry>

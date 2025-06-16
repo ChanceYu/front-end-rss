@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-16 10:53:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-16 18:11:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-16-【第3529期】从自动补全到得力助手：训练-AI-适应代码库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276696&idx=1&sn=c2be1049ef76ddac3680bfae813cfcd8&chksm=bc9560d01d20aaa7f62eef369a1545e84d29f63f1fd0a6e12b54efaf9cf5058f9498699510e4&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-16-【第3529期】从自动补全到得力助手：训练-AI-适应代码库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276696&idx=1&sn=c2be1049ef76ddac3680bfae813cfcd8&chksm=bc9560d01d20aaa7f62eef369a1545e84d29f63f1fd0a6e12b54efaf9cf5058f9498699510e4&scene=0#rd)  
 - [2025-06-13-【第3528期】RSC-中的导入是如何工作的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276679&idx=1&sn=ee205506ea2d6d1b7e2f66bf2d94f1c3&chksm=bcb8afed2c50a891a7b5090a5810d42ff6235c45aa7e195609b5cc1d1b535df1ead77acf678c&scene=0#rd)  
 - [2025-06-12-【图书】Cursor与Copilot开发实战：让烦琐编程智能化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=2&sn=ec8c54df5f4d9885882b208a07eeb0a1&chksm=bc2112a8d12e305e0dc1daf5e7d4ad1f656e369571f45c6dc107a3065b4c3ad6741da947c492&scene=0#rd)  
 - [2025-06-12-【第3527期】Pinterest-采用文档即代码模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=1&sn=447bba11593032769418f8e15cb681f5&chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd)  
 - [2025-06-11-探秘TaoAvatar：淘宝3D真人数字人技术解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540493&idx=1&sn=82abb3daaaa9461ec400520d60e6b3cb&chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&scene=0#rd)  
 - [2025-06-09-阿里淘天T-Star-Lab-技术Openday-报名开放](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540429&idx=1&sn=8ac3cf2baf63057635f258fb149e87f4&chksm=825c40a9c22f70b14a8bafb38aad9cf1699bc998d403a29407434436514cc61467f63a97be00&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd)  
 - [2025-04-23-读书笔记：淘宝十年产品与技术演进史](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539807&idx=1&sn=fb5598ba244d6da0fef504d3d7813b9c&chksm=8390cf07b4e74611bdb71eb16e675988a8970d9204ea6aa4e49d3d92d61e927338d65e93794f#rd)  
 - [2025-04-21-MNN-LLM：让你手机本地也能跑-DeepSeek-R1-还能支持多模态](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539806&idx=1&sn=5b685a3cb146a5271fe84476f609862b&chksm=8390cf06b4e74610ab1080e2c9c4746248208378257bb17b781fdb0dd96888bff2b140dbb98e#rd)  
-- [2025-04-18-AI驱动研发效率在中后台的实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539800&idx=1&sn=45a92ab85bd456648d75977a0dddf4d8&chksm=8390cf00b4e746165b18fed9cac42478bb9a81b2588492f125f741964ed68b5744c17560b2b4#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
