@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-06-17 18:11:07。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-06-17 22:10:32。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -110,6 +110,7 @@
 
 
 
+- [【Node-Weekly】One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)
 - [【Node-Weekly】TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)
 - [【Node-Weekly】A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)
 - [【Node-Weekly】Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)
@@ -129,7 +130,6 @@
 - [【JavaScript-Weekly】Nuxt-3.0,-TypeScript-4.9,-Angular-15..](https://javascriptweekly.com/issues/615)
 - [【JavaScript-Weekly】Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)
 - [【JavaScript-Weekly】How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)
-- [【JavaScript-Weekly】TypeScript-2.6-released](https://javascriptweekly.com/issues/579)
 - [查看更多 >](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
