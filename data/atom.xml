@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-16T22:09:39.404Z</updated>
+    <updated>2025-06-17T03:12:26.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 神级工具：终于可以实现打字的动画效果了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504653&amp;idx=1&amp;sn=18eca87b06886530d2ace957db3401a5&amp;chksm=ce45c69cf9324f8aeafa6618bb5b832eeda35e357494a7f451eff9ef8ffec34d39b918c862ad#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504653&amp;idx=1&amp;sn=18eca87b06886530d2ace957db3401a5&amp;chksm=ce45c69cf9324f8aeafa6618bb5b832eeda35e357494a7f451eff9ef8ffec34d39b918c862ad#rd"/>
+        <updated>2025-06-17T00:00:00.000Z</updated>
+        <published>2025-06-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[零基础解码Transformer与大模型核心原理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540560&amp;idx=1&amp;sn=9460b0062a9ac2abfeed9fa0eb80fa8e&amp;chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3 新趋势：弃用 ECharts！最强图表库诞生！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517240&amp;idx=1&amp;sn=98adeef3bfbc37e9aaaecd06317f18ff&amp;chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517240&amp;idx=1&amp;sn=98adeef3bfbc37e9aaaecd06317f18ff&amp;chksm=eb07bc41dc703557852b13af19434a62638f1113e769abbd590749f40b90f630f45063521a12#rd"/>
-        <updated>2025-05-30T00:00:00.000Z</updated>
-        <published>2025-05-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100w 数据不卡顿！国内首个 Canvas 表格发布开源！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504528&amp;idx=1&amp;sn=3a52103b89729f62f6a8a1776e2291a5&amp;chksm=ce45c701f9324e17da41d29554aecd09febe1bad296c674eaaf9b78b115e5d441bc1f5fbf052#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504528&amp;idx=1&amp;sn=3a52103b89729f62f6a8a1776e2291a5&amp;chksm=ce45c701f9324e17da41d29554aecd09febe1bad296c674eaaf9b78b115e5d441bc1f5fbf052#rd"/>
         <updated>2025-05-30T00:00:00.000Z</updated>
         <published>2025-05-30T00:00:00.000Z</published>
     </entry>
