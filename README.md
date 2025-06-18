@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-18 18:10:36，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-18 20:19:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,11 +29,11 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-06-18-成分查查，简直救了我的命](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502975&idx=1&sn=688a76736ecd54a4df397cb346ed09ab&chksm=c2b30d80f5c484960934609ac0eb28687cf99e04d6ab5800a4fcf52867bab56cd924fadfa5b6#rd) ![](/assets/new.png)  
 - [2025-06-11-最近的自由，是Fellou给的](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502961&idx=1&sn=66a5bcd12b7fd276f5fa2f36aa8af0c3&chksm=c2b30d8ef5c48498b3f5964a3ed0e79163dd3c4478a342b1be65b9b6b4b7827556b68b51c5cc#rd)  
 - [2025-06-10-可灵2.1来了，更快，更强，更便宜](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502908&idx=1&sn=4b09a1c4db05d80eab15f3cd39f8c947&chksm=c2b30dc3f5c484d56eee282d7922d4c3968c23c6889a7e36aa97432cd3985ec436ab9b00401c#rd)  
 - [2025-06-08-12个AI大战高考作文，谁能答满分？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502849&idx=1&sn=0b4ab191f38f2bf529d156d60d5d2fa7&chksm=c2b30dfef5c484e8cddc93332821c7ea817dc200c7b067b61666124db188b1e59445ac6c231b#rd)  
@@ -407,7 +408,6 @@
 - [2025-04-24-秘塔AI搜索有点过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502395&idx=1&sn=0c6df981485d39f854bfb517dcf22675&chksm=c2b30bc4f5c482d26d9b3c581c12cea6998da86ef82bd14a7f718a6bf94035e210923b4ac963#rd)  
 - [2025-04-22-扣子空间，保姆级使用教程来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502355&idx=1&sn=96cd5232f5aa98edd61f6f1cc968fc25&chksm=c2b30becf5c482fa5f3de0df6effeea6b48e71f720884dc0dc72198371bc8d4ab63f369bd26a#rd)  
 - [2025-04-19-可灵2.0正式发布，给我彻底看傻眼了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502313&idx=1&sn=fe5ea6a188294727199f9d469d0c760f&chksm=c2b30816f5c48100bb1a107c27a02d0553dc75a94c4602440a62ee81c00a4c8c87ad1b063abf#rd)  
-- [2025-04-18-OpenAI发布o3和o4-mini，王者真的归来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502264&idx=1&sn=048a9c02be0266b8db69d0ab35833331&chksm=c2b30847f5c481517706d14ffd8b35b047b79869545431b1cfc1e43807746f681855f730e358#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd)  
 - [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd)  
 - [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd)  
 - [2025-06-11-探秘TaoAvatar：淘宝3D真人数字人技术解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540493&idx=1&sn=82abb3daaaa9461ec400520d60e6b3cb&chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&scene=0#rd)  
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/) ![](/assets/new.png)  
+- [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
