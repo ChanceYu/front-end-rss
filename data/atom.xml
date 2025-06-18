@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-18T03:10:53.565Z</updated>
+    <updated>2025-06-18T08:13:48.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -288,16 +288,16 @@
         <published>2025-06-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用这个新的 ECMAScript 运算符告别 Try/Catch！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd"/>
+        <title type="html"><![CDATA[跨过前端工程化建设的三座大山]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd"/>
         <updated>2025-06-04T00:00:00.000Z</updated>
         <published>2025-06-04T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[跨过前端工程化建设的三座大山]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd"/>
+        <title type="html"><![CDATA[使用这个新的 ECMAScript 运算符告别 Try/Catch！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd"/>
         <updated>2025-06-04T00:00:00.000Z</updated>
         <published>2025-06-04T00:00:00.000Z</published>
     </entry>
@@ -323,16 +323,16 @@
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何 “正确” hook JS方法]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd"/>
+        <title type="html"><![CDATA[Axios 请求传 ArrayBuffer 参数]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=2&amp;sn=9f733a99b5d7c58d491f247aa5821495&amp;chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=2&amp;sn=9f733a99b5d7c58d491f247aa5821495&amp;chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Axios 请求传 ArrayBuffer 参数]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=2&amp;sn=9f733a99b5d7c58d491f247aa5821495&amp;chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=2&amp;sn=9f733a99b5d7c58d491f247aa5821495&amp;chksm=f992616bcee5e87def530f90b523b3466e942421cc93b8f4318cbc37e6595e1e23a3cff110f5#rd"/>
+        <title type="html"><![CDATA[如何 “正确” hook JS方法]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
