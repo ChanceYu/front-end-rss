@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-18T22:09:09.691Z</updated>
+    <updated>2025-06-19T03:11:43.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue 官方发布了 8 个提升 Vue3 开发幸福感的小技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504685&amp;idx=1&amp;sn=9ba6dfe6aad1ec8be1eade6372446e75&amp;chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504685&amp;idx=1&amp;sn=9ba6dfe6aad1ec8be1eade6372446e75&amp;chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd"/>
+        <updated>2025-06-19T00:00:00.000Z</updated>
+        <published>2025-06-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪力荐 H3！性能炸裂！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517254&amp;idx=1&amp;sn=451415a5649fcb54c2f70a6474094e33&amp;chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：重大升级！Vue 正式引入 AI ！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504546&amp;idx=1&amp;sn=805ef552cd0f89f22a36c5c7c7021464&amp;chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504546&amp;idx=1&amp;sn=805ef552cd0f89f22a36c5c7c7021464&amp;chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd"/>
-        <updated>2025-06-03T00:00:00.000Z</updated>
-        <published>2025-06-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】MCP原理与实战：高效AI Agent智能体开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276596&amp;idx=2&amp;sn=0d4d5f290917268692e6ea82d16b380c&amp;chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&amp;scene=0#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>
