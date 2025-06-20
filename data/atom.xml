@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-20T08:13:46.988Z</updated>
+    <updated>2025-06-20T10:10:58.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540634&amp;idx=1&amp;sn=d3dbd01a78bda38eb2045fefc3fd3287&amp;chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540634&amp;idx=1&amp;sn=d3dbd01a78bda38eb2045fefc3fd3287&amp;chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&amp;scene=0#rd"/>
+        <updated>2025-06-20T00:00:00.000Z</updated>
+        <published>2025-06-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue 官方发布了 8 个提升 Vue3 开发幸福感的小技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504685&amp;idx=1&amp;sn=9ba6dfe6aad1ec8be1eade6372446e75&amp;chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[如何 “正确” hook JS方法]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526330&amp;idx=1&amp;sn=974ac85b74e3780eb67755773c70ca59&amp;chksm=f992616bcee5e87de31b4677f6026d0740d487f703f7cae5d22bd703706c74eda55b3b270a27#rd"/>
-        <updated>2025-06-03T00:00:00.000Z</updated>
-        <published>2025-06-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪：重大升级！Vue 正式引入 AI ！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504546&amp;idx=1&amp;sn=805ef552cd0f89f22a36c5c7c7021464&amp;chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504546&amp;idx=1&amp;sn=805ef552cd0f89f22a36c5c7c7021464&amp;chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd"/>
         <updated>2025-06-03T00:00:00.000Z</updated>
         <published>2025-06-03T00:00:00.000Z</published>
     </entry>

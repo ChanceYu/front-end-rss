@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-20 16:13:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-20 18:10:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-06-20-VsCode-最新版发布，迎来重大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504692&idx=1&sn=c4d0a06381f2324ea6b00c161341b798&chksm=ce45c6a5f9324fb3d762842d42ad5fe4382eb43d0a7d94c659056047d462e3c1a9a3662b40a2#rd) ![](/assets/new.png)  
+- [2025-06-20-VsCode-最新版发布，迎来重大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504692&idx=1&sn=c4d0a06381f2324ea6b00c161341b798&chksm=ce45c6a5f9324fb3d762842d42ad5fe4382eb43d0a7d94c659056047d462e3c1a9a3662b40a2#rd)  
 - [2025-06-19-Vue-官方发布了-8-个提升-Vue3-开发幸福感的小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504685&idx=1&sn=9ba6dfe6aad1ec8be1eade6372446e75&chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd)  
 - [2025-06-18-太牛了！直接用-AI-工具抓取一个网页，并生成代码！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504654&idx=1&sn=fb371f892d1a917888eb5398c12021f3&chksm=ce45c69ff9324f89d04e11343db5adede92a7f94c8efcaf17b46dc0888da77e685b979fd2d7d#rd)  
 - [2025-06-17-Vue3-神级工具：终于可以实现打字的动画效果了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504653&idx=1&sn=18eca87b06886530d2ace957db3401a5&chksm=ce45c69cf9324f8aeafa6618bb5b832eeda35e357494a7f451eff9ef8ffec34d39b918c862ad#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-06-20-淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540634&idx=1&sn=d3dbd01a78bda38eb2045fefc3fd3287&chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd)  
 - [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd)  
 - [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-04-30-MCP入门指南：大模型时代的USB接口](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539864&idx=1&sn=f4ab87f55d83a8269530e62ef61c8ff9&chksm=8284f4e529556bc989b1a56ec81d771b5964486e1824b9b716d46fa4fe595482082c7052fb2e&scene=0#rd)  
 - [2025-04-28-亿级流量下的前端高可用架构实践：淘宝春节许愿主互动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539847&idx=1&sn=45828d3a1fa99732433e616c4da6b25a&chksm=8231846c90c70e33bf0fdaac2438440a94bf523e4e07318f3f35eb43cb80f67fecffb4695a52&scene=0#rd)  
 - [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd)  
-- [2025-04-23-读书笔记：淘宝十年产品与技术演进史](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539807&idx=1&sn=fb5598ba244d6da0fef504d3d7813b9c&chksm=8390cf07b4e74611bdb71eb16e675988a8970d9204ea6aa4e49d3d92d61e927338d65e93794f#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
