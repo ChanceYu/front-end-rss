@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-20T12:18:30.236Z</updated>
+    <updated>2025-06-20T14:10:01.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[移动端布局避坑指南：从100vh到dvh，彻底解决动态视口适配难题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526657&amp;idx=1&amp;sn=3393a64baa4c2eb00499d428809459f5&amp;chksm=f9926fd0cee5e6c611b776c64c0ad879bf12a650462d29f1d4eff2f7da0efa1e3e2fb91c7a36#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526657&amp;idx=1&amp;sn=3393a64baa4c2eb00499d428809459f5&amp;chksm=f9926fd0cee5e6c611b776c64c0ad879bf12a650462d29f1d4eff2f7da0efa1e3e2fb91c7a36#rd"/>
+        <updated>2025-06-20T00:00:00.000Z</updated>
+        <published>2025-06-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dr. Axel's JavaScript flashcards]]></title>
+        <id>https://javascriptweekly.com/issues/741</id>
+        <link href="https://javascriptweekly.com/issues/741"/>
         <updated>2025-06-20T00:00:00.000Z</updated>
         <published>2025-06-20T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276606&amp;idx=1&amp;sn=9428064706c9d9b0f531ce5d0d836f65&amp;chksm=bc95b16b37ad279d98879b84590896ccfe0a518ae447ddb6b2dd01d1d561a9d38662176711a0&amp;scene=0#rd"/>
         <updated>2025-06-04T00:00:00.000Z</updated>
         <published>2025-06-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517246&amp;idx=1&amp;sn=618b18b29cf9f07e0b11447fd9b690ca&amp;chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517246&amp;idx=1&amp;sn=618b18b29cf9f07e0b11447fd9b690ca&amp;chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd"/>
-        <updated>2025-06-03T00:00:00.000Z</updated>
-        <published>2025-06-03T00:00:00.000Z</published>
     </entry>
 </feed>
