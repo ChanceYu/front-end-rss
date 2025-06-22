@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-21T08:12:10.151Z</updated>
+    <updated>2025-06-22T04:22:08.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -281,6 +281,13 @@
         <published>2025-06-07T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用]]></title>
+        <id>http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html"/>
+        <updated>2025-06-06T00:00:00.000Z</updated>
+        <published>2025-06-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[尤雨溪：Vite 换“芯”发布，性能更强！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd"/>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[跨过前端工程化建设的三座大山]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd"/>
-        <updated>2025-06-04T00:00:00.000Z</updated>
-        <published>2025-06-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么2025/05/28和2025-05-28在JavaScript中是不同的日子？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526056&amp;idx=1&amp;sn=202a60fe318fddb770f889dfc7ff7646&amp;chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526056&amp;idx=1&amp;sn=202a60fe318fddb770f889dfc7ff7646&amp;chksm=f952d3ebce255afd16f1b9aad0daaf6c1b20d07b3e0c841da7dbd1df6dbf50aa422a5b15a8c7#rd"/>
         <updated>2025-06-04T00:00:00.000Z</updated>
         <published>2025-06-04T00:00:00.000Z</published>
     </entry>
