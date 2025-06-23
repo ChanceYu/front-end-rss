@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-23T12:19:36.227Z</updated>
+    <updated>2025-06-23T14:10:53.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,20 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540709&amp;idx=1&amp;sn=af29bb9831d31a6f1a0f1c1fe80b2926&amp;chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&amp;scene=0#rd"/>
         <updated>2025-06-23T00:00:00.000Z</updated>
         <published>2025-06-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么办？微信小程序主包又双叒叕不够用了！！！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526680&amp;idx=2&amp;sn=14d4f4052783ca4054e3839ab3fa4c39&amp;chksm=f9926fc9cee5e6dfa0c96ae64dc092d840dca2a91e1c359be896f8e35844c7f65ea0f4232171#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526680&amp;idx=2&amp;sn=14d4f4052783ca4054e3839ab3fa4c39&amp;chksm=f9926fc9cee5e6dfa0c96ae64dc092d840dca2a91e1c359be896f8e35844c7f65ea0f4232171#rd"/>
+        <updated>2025-06-23T00:00:00.000Z</updated>
+        <published>2025-06-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NodeJS+LLM搭建一个属于自己的知识库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526666&amp;idx=1&amp;sn=5e3915ebbdab4b4ca543592f6712d901&amp;chksm=f9926fdbcee5e6cd65b01383133f00d06e4bb9331ec4b6716e993fcc6e4f1dc18728c29dbcdc#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526666&amp;idx=1&amp;sn=5e3915ebbdab4b4ca543592f6712d901&amp;chksm=f9926fdbcee5e6cd65b01383133f00d06e4bb9331ec4b6716e993fcc6e4f1dc18728c29dbcdc#rd"/>
+        <updated>2025-06-21T00:00:00.000Z</updated>
+        <published>2025-06-21T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276620&amp;idx=1&amp;sn=342639532003e9c3936661b540f0ef33&amp;chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&amp;scene=0#rd"/>
         <updated>2025-06-05T00:00:00.000Z</updated>
         <published>2025-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS PageSwap PageReveal事件干嘛用的？]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/"/>
-        <updated>2025-06-04T00:00:00.000Z</updated>
-        <published>2025-06-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用这个新的 ECMAScript 运算符告别 Try/Catch！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd"/>
-        <updated>2025-06-04T00:00:00.000Z</updated>
-        <published>2025-06-04T00:00:00.000Z</published>
     </entry>
 </feed>
