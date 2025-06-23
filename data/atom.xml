@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-23T06:16:10.533Z</updated>
+    <updated>2025-06-23T12:19:36.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播数字人：LLM文案生成技术]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540709&amp;idx=1&amp;sn=af29bb9831d31a6f1a0f1c1fe80b2926&amp;chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540709&amp;idx=1&amp;sn=af29bb9831d31a6f1a0f1c1fe80b2926&amp;chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&amp;scene=0#rd"/>
+        <updated>2025-06-23T00:00:00.000Z</updated>
+        <published>2025-06-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540634&amp;idx=1&amp;sn=d3dbd01a78bda38eb2045fefc3fd3287&amp;chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[使用这个新的 ECMAScript 运算符告别 Try/Catch！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=2&amp;sn=a6d3a6fdda6e2b52032dc64441f87fe0&amp;chksm=f9926115cee5e803108d35b93aa707c5e1978a6f2e1a2cd6e8f1f1c1b73ccdebeedef2953b2b#rd"/>
-        <updated>2025-06-04T00:00:00.000Z</updated>
-        <published>2025-06-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨过前端工程化建设的三座大山]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526340&amp;idx=1&amp;sn=1c0ed9a5a33de7e2c83ce7d4c69638ba&amp;chksm=f9926115cee5e80338971e64700f00086f518dd02f4a5f63c0a936c6bfc96ba73ba425766b0a#rd"/>
         <updated>2025-06-04T00:00:00.000Z</updated>
         <published>2025-06-04T00:00:00.000Z</published>
     </entry>

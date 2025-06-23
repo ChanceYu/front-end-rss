@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-23 14:16:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-23 20:19:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-06-23-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517261&idx=1&sn=0bc013463da7fd6816a64b5c07416112&chksm=eb07bc34dc70352224f27ea77e247adc4d32214e76087e3200c4975fca5a44e70fdf94c522d2#rd) ![](/assets/new.png)  
+- [2025-06-23-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517261&idx=1&sn=0bc013463da7fd6816a64b5c07416112&chksm=eb07bc34dc70352224f27ea77e247adc4d32214e76087e3200c4975fca5a44e70fdf94c522d2#rd)  
 - [2025-06-18-尤雨溪力荐-H3！性能炸裂！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517254&idx=1&sn=451415a5649fcb54c2f70a6474094e33&chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd)  
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd)  
 - [2025-06-06-尤雨溪：Vite-换“芯”发布，性能更强！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517250&idx=1&sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-06-23-淘宝直播数字人：LLM文案生成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540709&idx=1&sn=af29bb9831d31a6f1a0f1c1fe80b2926&chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-20-淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540634&idx=1&sn=d3dbd01a78bda38eb2045fefc3fd3287&chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&scene=0#rd)  
 - [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd)  
 - [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-05-07-淘天自营前端开发的AI增效实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539901&idx=1&sn=9befe94e4b01dd694c6602d70c609109&chksm=826da8edef83764c075db7c147dd62106c791191f2d940a289b4dd7738d85d1367e2c5eeef63&scene=0#rd)  
 - [2025-04-30-MCP入门指南：大模型时代的USB接口](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539864&idx=1&sn=f4ab87f55d83a8269530e62ef61c8ff9&chksm=8284f4e529556bc989b1a56ec81d771b5964486e1824b9b716d46fa4fe595482082c7052fb2e&scene=0#rd)  
 - [2025-04-28-亿级流量下的前端高可用架构实践：淘宝春节许愿主互动](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539847&idx=1&sn=45828d3a1fa99732433e616c4da6b25a&chksm=8231846c90c70e33bf0fdaac2438440a94bf523e4e07318f3f35eb43cb80f67fecffb4695a52&scene=0#rd)  
-- [2025-04-25-2025淘宝春晚互动小游戏技术方案揭秘](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539808&idx=1&sn=dff0ea411852ebbbb92108a2a3ae4d7b&chksm=8390cf38b4e7462e4816d3da3450c399dbc47ed5c701b83aee29b6c5e89f0edf66611eaba32a#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
