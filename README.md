@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-23 04:10:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-23 11:20:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,25 +109,25 @@
 </summary>
 
 
+- [2025-06-23-【第3534期】让-Bug-自动“蒸发”！AI-神器——AIFix](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bc725d697d4e4765b4c3bef22e2294d11d23cb9954db34f0287a51dcf18872a3a9c1c2ddba81&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-20-【第3533期】Cursor-AI-最佳实践：使用“金标准文件”工作流以获得更精确的结果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276735&idx=1&sn=53efe1dcb5f8e4b494a08d80e84f6689&chksm=bcde831d194d47e47d72d7b9038ec8bdda99bd5c811e7fbd711de77a944ee5aee3d616e21c6a&scene=0#rd)  
 - [2025-06-19-【第3532期】错误页面演变史：如何让失误变得顺理成章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276722&idx=1&sn=6e25f8adaf132da217b08085a7fcab0a&chksm=bc6b9fef568e34e49b7e3c54257e12f98bd84eec6b6979f90087bbce2195f9486b7d4f15b83d&scene=0#rd)  
 - [2025-06-18-【第3531期】了解声明式-Web推送](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276714&idx=1&sn=645fa1df37dd571ccd07f1593bea5877&chksm=bcdc0c089fa012d159c1a1f421abd20d84232b786521e800f4e3375ef2955c20eddf5f79d00d&scene=0#rd)  
 - [2025-06-17-【第3530期】像高手一样调试程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276703&idx=1&sn=ca509102e6d3c942d58f6d8e88aa2734&chksm=bcced903beb818deadc01126ab28cd9bb0fbf310b6dd6e5472b99b00fbbe2fdbfff51dcd2b81&scene=0#rd)  
 - [2025-06-16-【第3529期】从自动补全到得力助手：训练-AI-适应代码库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276696&idx=1&sn=c2be1049ef76ddac3680bfae813cfcd8&chksm=bc9560d01d20aaa7f62eef369a1545e84d29f63f1fd0a6e12b54efaf9cf5058f9498699510e4&scene=0#rd)  
 - [2025-06-13-【第3528期】RSC-中的导入是如何工作的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276679&idx=1&sn=ee205506ea2d6d1b7e2f66bf2d94f1c3&chksm=bcb8afed2c50a891a7b5090a5810d42ff6235c45aa7e195609b5cc1d1b535df1ead77acf678c&scene=0#rd)  
-- [2025-06-12-【图书】Cursor与Copilot开发实战：让烦琐编程智能化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=2&sn=ec8c54df5f4d9885882b208a07eeb0a1&chksm=bc2112a8d12e305e0dc1daf5e7d4ad1f656e369571f45c6dc107a3065b4c3ad6741da947c492&scene=0#rd)  
 - [2025-06-12-【第3527期】Pinterest-采用文档即代码模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=1&sn=447bba11593032769418f8e15cb681f5&chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&scene=0#rd)  
+- [2025-06-12-【图书】Cursor与Copilot开发实战：让烦琐编程智能化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276672&idx=2&sn=ec8c54df5f4d9885882b208a07eeb0a1&chksm=bc2112a8d12e305e0dc1daf5e7d4ad1f656e369571f45c6dc107a3065b4c3ad6741da947c492&scene=0#rd)  
 - [2025-06-11-【第3526期】通过-MCP-为代理浏览器赋予-DevTools-访问权限，助其获得超级能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276659&idx=1&sn=db9ea529abd9a233b0338ed57c54291b&chksm=bc4f7878628ecd036dbc46933d160ce931f928d4fb6a076e0fa94f6dc4e316f2bd51194d0b31&scene=0#rd)  
 - [2025-06-10-【第3525期】架起桥梁：在-Dart-中运行-JavaScript-模块](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276651&idx=1&sn=bd2f19e3f3562618b137521ad715b44f&chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&scene=0#rd)  
 - [2025-06-09-【第3524期】无需-CRDT-或-OT-的协同文本编辑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276640&idx=1&sn=b3688669387e96296d4389e45741d48f&chksm=bca18e35200ed7e43546668338b874244b81a5c2ab3b51082e3211cd591d4d348f23c4bbbec5&scene=0#rd)  
 - [2025-06-06-【第3523期】程序员专属提示词工程实战手册](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276627&idx=1&sn=7bf690fbb30e67dfb8c10ef1bc6db2d2&chksm=bc5bda4c48f3dab09e0a69ee41a331d0d008f86f0e1e02740051c17bbac1de64175348c7eb35&scene=0#rd)  
-- [2025-06-05-【第3522期】扩展-React-服务端渲染的能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=1&sn=342639532003e9c3936661b540f0ef33&chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&scene=0#rd)  
 - [2025-06-05-【招聘】抖音生活服务商品团队招前端实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=2&sn=cf6dc510f4af637f64cde9f5143e18ff&chksm=bc10e7a13e84abf752c9ca49fdadc377088d5ed16e48bff7eed233b9568535fe8376b855b88e&scene=0#rd)  
+- [2025-06-05-【第3522期】扩展-React-服务端渲染的能力](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276620&idx=1&sn=342639532003e9c3936661b540f0ef33&chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&scene=0#rd)  
 - [2025-06-04-【第3521期】如何在-React-中构建一个库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276606&idx=1&sn=9428064706c9d9b0f531ce5d0d836f65&chksm=bc95b16b37ad279d98879b84590896ccfe0a518ae447ddb6b2dd01d1d561a9d38662176711a0&scene=0#rd)  
-- [2025-06-03-【第3520期】Slack、Notion-和-VSCode-提升-Electron-应用性能的-6-种方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=1&sn=6fa52c16f7a0dac4f20c2a7936bcde79&chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&scene=0#rd)  
 - [2025-06-03-【图书】MCP原理与实战：高效AI-Agent智能体开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=2&sn=0d4d5f290917268692e6ea82d16b380c&chksm=bc783c37655eb0a6fd2a369e03efcedb55929130a9adffa5690c7c1d5f06f0e6e32a1ff3ed2f&scene=0#rd)  
+- [2025-06-03-【第3520期】Slack、Notion-和-VSCode-提升-Electron-应用性能的-6-种方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276596&idx=1&sn=6fa52c16f7a0dac4f20c2a7936bcde79&chksm=bc10878faf652af3bf83372917403c55c6ed371a202f0020e9e1389b01d0cf78365d51327554&scene=0#rd)  
 - [2025-05-29-【第3519期】使用一条-Git-命令推送整个分支栈](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276581&idx=1&sn=8e497d9d26636035d7d72febd2b7170a&chksm=bcaf81749157d587f15e421303f7b0e72e517484f0d6d850ff46f772c77227f20452ddf6785f&scene=0#rd)  
-- [2025-05-28-【第3518期】使用-margin-trim-更轻松地布局](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=1&sn=a092698872868a18a7617a9e3f93aef2&chksm=bce6fa6008311068d828bb5bc839361d59ed9ea29add373c7eaac98f8d910add5027aefab78b&scene=0#rd)  
 - [2025-05-28-【图书】大模型算法：强化学习、微调与对齐（全彩）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276522&idx=2&sn=9bb691592bd01aeac67f12a146060b15&chksm=bc53a79ef0ec02740b2aa6662e211bbb98182bb148fc2cf7f54f742f0b44d90019e7ee3398b6&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-06-21-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第二弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504727&idx=1&sn=f7e41f452541f92522868ad70ebc3416&chksm=ce45c6c6f9324fd0cfa7166d075fc04f34c08338d84c5ededab3d95e7d17e18f7cd810e31e97#rd) ![](/assets/new.png)  
+- [2025-06-21-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第二弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504727&idx=1&sn=f7e41f452541f92522868ad70ebc3416&chksm=ce45c6c6f9324fd0cfa7166d075fc04f34c08338d84c5ededab3d95e7d17e18f7cd810e31e97#rd)  
 - [2025-06-20-VsCode-最新版发布，迎来重大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504692&idx=1&sn=c4d0a06381f2324ea6b00c161341b798&chksm=ce45c6a5f9324fb3d762842d42ad5fe4382eb43d0a7d94c659056047d462e3c1a9a3662b40a2#rd)  
 - [2025-06-19-Vue-官方发布了-8-个提升-Vue3-开发幸福感的小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504685&idx=1&sn=9ba6dfe6aad1ec8be1eade6372446e75&chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd)  
 - [2025-06-18-太牛了！直接用-AI-工具抓取一个网页，并生成代码！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504654&idx=1&sn=fb371f892d1a917888eb5398c12021f3&chksm=ce45c69ff9324f89d04e11343db5adede92a7f94c8efcaf17b46dc0888da77e685b979fd2d7d#rd)  
