@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-23 11:20:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-23 14:16:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-23-【第3534期】让-Bug-自动“蒸发”！AI-神器——AIFix](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bc725d697d4e4765b4c3bef22e2294d11d23cb9954db34f0287a51dcf18872a3a9c1c2ddba81&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-23-【第3534期】让-Bug-自动“蒸发”！AI-神器——AIFix](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bc725d697d4e4765b4c3bef22e2294d11d23cb9954db34f0287a51dcf18872a3a9c1c2ddba81&scene=0#rd)  
 - [2025-06-20-【第3533期】Cursor-AI-最佳实践：使用“金标准文件”工作流以获得更精确的结果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276735&idx=1&sn=53efe1dcb5f8e4b494a08d80e84f6689&chksm=bcde831d194d47e47d72d7b9038ec8bdda99bd5c811e7fbd711de77a944ee5aee3d616e21c6a&scene=0#rd)  
 - [2025-06-19-【第3532期】错误页面演变史：如何让失误变得顺理成章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276722&idx=1&sn=6e25f8adaf132da217b08085a7fcab0a&chksm=bc6b9fef568e34e49b7e3c54257e12f98bd84eec6b6979f90087bbce2195f9486b7d4f15b83d&scene=0#rd)  
 - [2025-06-18-【第3531期】了解声明式-Web推送](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276714&idx=1&sn=645fa1df37dd571ccd07f1593bea5877&chksm=bcdc0c089fa012d159c1a1f421abd20d84232b786521e800f4e3375ef2955c20eddf5f79d00d&scene=0#rd)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-06-23-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517261&idx=1&sn=0bc013463da7fd6816a64b5c07416112&chksm=eb07bc34dc70352224f27ea77e247adc4d32214e76087e3200c4975fca5a44e70fdf94c522d2#rd) ![](/assets/new.png)  
 - [2025-06-18-尤雨溪力荐-H3！性能炸裂！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517254&idx=1&sn=451415a5649fcb54c2f70a6474094e33&chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd)  
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd)  
 - [2025-06-06-尤雨溪：Vite-换“芯”发布，性能更强！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517250&idx=1&sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd)  
@@ -438,7 +439,6 @@
 - [2025-05-06-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517190&idx=1&sn=b8d5a1394157568fef2cb011b17fcec2&chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd)  
 - [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd)  
 - [2025-04-27-Vite模块联邦vite-plugin-federation实现去中心化微前端后台管理系统架构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517186&idx=1&sn=d73f476511e1106f5c881dcf4a3977bb&chksm=eb07bc7bdc70356d1e914b2163e0444f2aa4013c29a22a9c49b36f2d0e8c6e0dabc89b9a7ac5#rd)  
-- [2025-04-25-连续霸榜多年，前端构建工具王座即将易主！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517184&idx=1&sn=d67a12ec5352213d40f5fdc0edeea805&chksm=eb07bc79dc70356f5dc942321cad2aa91411d5ba18f3385056e06061e799139e84235b3233d9#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
