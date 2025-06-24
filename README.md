@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-25 00:12:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-25 07:14:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) ![](/assets/new.png)  
+- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-06-24-尤雨溪：Vite-和-JavaScript-工具的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517263&idx=1&sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd) ![](/assets/new.png)  
 - [2025-06-23-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517261&idx=1&sn=0bc013463da7fd6816a64b5c07416112&chksm=eb07bc34dc70352224f27ea77e247adc4d32214e76087e3200c4975fca5a44e70fdf94c522d2#rd)  
 - [2025-06-18-尤雨溪力荐-H3！性能炸裂！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517254&idx=1&sn=451415a5649fcb54c2f70a6474094e33&chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd)  
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd)  
@@ -438,7 +439,6 @@
 - [2025-05-07-月薪已经炒到6W？强烈建议大家刷一下这个新领域！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517205&idx=1&sn=ea5a9d48ddecffdd843988b99c1da4ca&chksm=eb07bc6cdc70357aa75a5b3d23b0239e49e006e5be196e00875b1c8f827478039742124f844f#rd)  
 - [2025-05-06-尤雨溪：让-AI-更好的理解-Vue、Vite](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517190&idx=1&sn=b8d5a1394157568fef2cb011b17fcec2&chksm=eb07bc7fdc703569e40705b412311fa5d36e6514637219bf7e8d9e03afa1af6b5a4c65c441ce#rd)  
 - [2025-04-29-号称最大开源-UI-模板库，包含15000+前端模板！适配React、Vue！关键都贼炫酷！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517188&idx=1&sn=fe04be5fec554b312ac362f24e4bb463&chksm=eb07bc7ddc70356b59462f9740d4d52b3b70137a58b4c96bd5ef0283c5b7a08212b27a1347b9#rd)  
-- [2025-04-27-Vite模块联邦vite-plugin-federation实现去中心化微前端后台管理系统架构](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517186&idx=1&sn=d73f476511e1106f5c881dcf4a3977bb&chksm=eb07bc7bdc70356d1e914b2163e0444f2aa4013c29a22a9c49b36f2d0e8c6e0dabc89b9a7ac5#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-24T16:12:20.832Z</updated>
+    <updated>2025-06-24T23:14:49.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：Vite 和 JavaScript 工具的未来]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517263&amp;idx=1&amp;sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&amp;chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517263&amp;idx=1&amp;sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&amp;chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd"/>
+        <updated>2025-06-24T00:00:00.000Z</updated>
+        <published>2025-06-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276774&amp;idx=1&amp;sn=da2be17301bd3f4658e5e30bd23c5f68&amp;chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[11 个 JavaScript 杀手脚本，用于自动执行日常任务]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd"/>
-        <updated>2025-06-05T00:00:00.000Z</updated>
-        <published>2025-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 团队正式发布！未来 Vue 也能写后端啦！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504591&amp;idx=1&amp;sn=a7620c4696e8354f00d60fea700367cc&amp;chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504591&amp;idx=1&amp;sn=a7620c4696e8354f00d60fea700367cc&amp;chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd"/>
         <updated>2025-06-05T00:00:00.000Z</updated>
         <published>2025-06-05T00:00:00.000Z</published>
     </entry>
