@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-24 11:13:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-24 14:15:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-24-【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276774&idx=1&sn=da2be17301bd3f4658e5e30bd23c5f68&chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-24-【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276774&idx=1&sn=da2be17301bd3f4658e5e30bd23c5f68&chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&scene=0#rd)  
 - [2025-06-23-【第3534期】让-Bug-自动“蒸发”！AI-神器——AIFix](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bc725d697d4e4765b4c3bef22e2294d11d23cb9954db34f0287a51dcf18872a3a9c1c2ddba81&scene=0#rd)  
 - [2025-06-20-【第3533期】Cursor-AI-最佳实践：使用“金标准文件”工作流以获得更精确的结果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276735&idx=1&sn=53efe1dcb5f8e4b494a08d80e84f6689&chksm=bcde831d194d47e47d72d7b9038ec8bdda99bd5c811e7fbd711de77a944ee5aee3d616e21c6a&scene=0#rd)  
 - [2025-06-19-【第3532期】错误页面演变史：如何让失误变得顺理成章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276722&idx=1&sn=6e25f8adaf132da217b08085a7fcab0a&chksm=bc6b9fef568e34e49b7e3c54257e12f98bd84eec6b6979f90087bbce2195f9486b7d4f15b83d&scene=0#rd)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-06-24-Fellou，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503035&idx=1&sn=38fbb4322ca000bedfd921348ad30370&chksm=c2b30d44f5c484527638fe329a344f40f92ca50273b042ce2c126b6cd280b349f1a33b2fc11f#rd) ![](/assets/new.png)  
+- [2025-06-23-MiniMax-Agent实测，靠谱的赛博朋友](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503008&idx=1&sn=400070dd066e6026652dd53c26d6fa94&chksm=c2b30d5ff5c4844987dacac241b0fe847307bfefd6aea523e9657fea42dba422807966f5b097#rd) ![](/assets/new.png)  
 - [2025-06-18-成分查查，简直救了我的命](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502975&idx=1&sn=688a76736ecd54a4df397cb346ed09ab&chksm=c2b30d80f5c484960934609ac0eb28687cf99e04d6ab5800a4fcf52867bab56cd924fadfa5b6#rd)  
 - [2025-06-11-最近的自由，是Fellou给的](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502961&idx=1&sn=66a5bcd12b7fd276f5fa2f36aa8af0c3&chksm=c2b30d8ef5c48498b3f5964a3ed0e79163dd3c4478a342b1be65b9b6b4b7827556b68b51c5cc#rd)  
 - [2025-06-10-可灵2.1来了，更快，更强，更便宜](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502908&idx=1&sn=4b09a1c4db05d80eab15f3cd39f8c947&chksm=c2b30dc3f5c484d56eee282d7922d4c3968c23c6889a7e36aa97432cd3985ec436ab9b00401c#rd)  
@@ -406,8 +408,6 @@
 - [2025-05-03-Qwen3把自己打爆了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502456&idx=1&sn=3930afd8606aa3da14facb44121e3596&chksm=c2b30b87f5c48291f16fc5a71fe37db028efe24743c5c02be312cacb74ebb362f4b267a8d2dd#rd)  
 - [2025-04-28-没了Gamma，我都不会做PPT了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502435&idx=1&sn=0d0b054bb8a33f5dec16573c1a785172&chksm=c2b30b9cf5c4828a5303573a93b143b13fb128996849583ac55618abd075bc7297bddcbefc17#rd)  
 - [2025-04-24-秘塔AI搜索有点过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502395&idx=1&sn=0c6df981485d39f854bfb517dcf22675&chksm=c2b30bc4f5c482d26d9b3c581c12cea6998da86ef82bd14a7f718a6bf94035e210923b4ac963#rd)  
-- [2025-04-22-扣子空间，保姆级使用教程来了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502355&idx=1&sn=96cd5232f5aa98edd61f6f1cc968fc25&chksm=c2b30becf5c482fa5f3de0df6effeea6b48e71f720884dc0dc72198371bc8d4ab63f369bd26a#rd)  
-- [2025-04-19-可灵2.0正式发布，给我彻底看傻眼了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502313&idx=1&sn=fe5ea6a188294727199f9d469d0c760f&chksm=c2b30816f5c48100bb1a107c27a02d0553dc75a94c4602440a62ee81c00a4c8c87ad1b063abf#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
