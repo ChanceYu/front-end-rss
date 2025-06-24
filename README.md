@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-24 14:15:53，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-24 22:10:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,12 +29,12 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-06-24-Fellou，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503035&idx=1&sn=38fbb4322ca000bedfd921348ad30370&chksm=c2b30d44f5c484527638fe329a344f40f92ca50273b042ce2c126b6cd280b349f1a33b2fc11f#rd) ![](/assets/new.png)  
-- [2025-06-23-MiniMax-Agent实测，靠谱的赛博朋友](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503008&idx=1&sn=400070dd066e6026652dd53c26d6fa94&chksm=c2b30d5ff5c4844987dacac241b0fe847307bfefd6aea523e9657fea42dba422807966f5b097#rd) ![](/assets/new.png)  
+- [2025-06-24-Fellou，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503035&idx=1&sn=38fbb4322ca000bedfd921348ad30370&chksm=c2b30d44f5c484527638fe329a344f40f92ca50273b042ce2c126b6cd280b349f1a33b2fc11f#rd)  
+- [2025-06-23-MiniMax-Agent实测，靠谱的赛博朋友](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503008&idx=1&sn=400070dd066e6026652dd53c26d6fa94&chksm=c2b30d5ff5c4844987dacac241b0fe847307bfefd6aea523e9657fea42dba422807966f5b097#rd)  
 - [2025-06-18-成分查查，简直救了我的命](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502975&idx=1&sn=688a76736ecd54a4df397cb346ed09ab&chksm=c2b30d80f5c484960934609ac0eb28687cf99e04d6ab5800a4fcf52867bab56cd924fadfa5b6#rd)  
 - [2025-06-11-最近的自由，是Fellou给的](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502961&idx=1&sn=66a5bcd12b7fd276f5fa2f36aa8af0c3&chksm=c2b30d8ef5c48498b3f5964a3ed0e79163dd3c4478a342b1be65b9b6b4b7827556b68b51c5cc#rd)  
 - [2025-06-10-可灵2.1来了，更快，更强，更便宜](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502908&idx=1&sn=4b09a1c4db05d80eab15f3cd39f8c947&chksm=c2b30dc3f5c484d56eee282d7922d4c3968c23c6889a7e36aa97432cd3985ec436ab9b00401c#rd)  
@@ -543,6 +543,7 @@
 </summary>
 
 
+- [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html) ![](/assets/new.png)  
 - [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)  
 - [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
 - [2025-06-06-科技爱好者周刊（第-351-期）：GitHub-Issues（几乎）是最好的笔记应用](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html)  
@@ -562,7 +563,6 @@
 - [2024-09-11-白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)  
 - [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)  
 - [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
-- [2024-08-23-科技爱好者周刊（第-314-期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
