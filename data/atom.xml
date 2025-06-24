@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-23T14:10:53.777Z</updated>
+    <updated>2025-06-24T03:13:07.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276774&amp;idx=1&amp;sn=da2be17301bd3f4658e5e30bd23c5f68&amp;chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276774&amp;idx=1&amp;sn=da2be17301bd3f4658e5e30bd23c5f68&amp;chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&amp;scene=0#rd"/>
+        <updated>2025-06-24T00:00:00.000Z</updated>
+        <published>2025-06-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人：LLM文案生成技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540709&amp;idx=1&amp;sn=af29bb9831d31a6f1a0f1c1fe80b2926&amp;chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue 团队正式发布！未来 Vue 也能写后端啦！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504591&amp;idx=1&amp;sn=a7620c4696e8354f00d60fea700367cc&amp;chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504591&amp;idx=1&amp;sn=a7620c4696e8354f00d60fea700367cc&amp;chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd"/>
-        <updated>2025-06-05T00:00:00.000Z</updated>
-        <published>2025-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3522期】扩展 React 服务端渲染的能力]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276620&amp;idx=1&amp;sn=342639532003e9c3936661b540f0ef33&amp;chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276620&amp;idx=1&amp;sn=342639532003e9c3936661b540f0ef33&amp;chksm=bcb890454f63f92a95c5ab6f879a5c133a167fa5f817a21404f1274166f479d06fda1818ec8e&amp;scene=0#rd"/>
         <updated>2025-06-05T00:00:00.000Z</updated>
         <published>2025-06-05T00:00:00.000Z</published>
     </entry>
