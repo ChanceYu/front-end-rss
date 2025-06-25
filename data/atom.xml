@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-24T23:14:49.836Z</updated>
+    <updated>2025-06-25T08:14:50.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[尤雨溪：Vite 和 JavaScript 工具的未来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517263&amp;idx=1&amp;sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&amp;chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517263&amp;idx=1&amp;sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&amp;chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd"/>
+        <updated>2025-06-24T00:00:00.000Z</updated>
+        <published>2025-06-24T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[说个多年老前端都不知道的标签正确玩法——q标签]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526712&amp;idx=1&amp;sn=718090f7d79af54d76b8c908835cb586&amp;chksm=f9926fe9cee5e6ff9b7c42ced7c6343eee56cc0be4a927943c562622caa268fff34d8ddcb6ed#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526712&amp;idx=1&amp;sn=718090f7d79af54d76b8c908835cb586&amp;chksm=f9926fe9cee5e6ff9b7c42ced7c6343eee56cc0be4a927943c562622caa268fff34d8ddcb6ed#rd"/>
         <updated>2025-06-24T00:00:00.000Z</updated>
         <published>2025-06-24T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：重大升级！Vue 正式引入 AI ！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517248&amp;idx=1&amp;sn=a53bb96c94dd7ea56295ff088583bad6&amp;chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517248&amp;idx=1&amp;sn=a53bb96c94dd7ea56295ff088583bad6&amp;chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd"/>
-        <updated>2025-06-05T00:00:00.000Z</updated>
-        <published>2025-06-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 个 JavaScript 杀手脚本，用于自动执行日常任务]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526351&amp;idx=1&amp;sn=4570dae9b1d22897cc1921f91ee159a8&amp;chksm=f992611ecee5e808bb02f174e1df2a15c6c1c6eeda44a3b16f9ae87529edf6b4e2e16bc1fb29#rd"/>
         <updated>2025-06-05T00:00:00.000Z</updated>
         <published>2025-06-05T00:00:00.000Z</published>
     </entry>
