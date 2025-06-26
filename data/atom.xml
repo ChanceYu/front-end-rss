@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-26T06:15:06.774Z</updated>
+    <updated>2025-06-26T22:09:22.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Vitest 3.2 正式发布！宣布重大更新！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <published>2025-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React 被指“沦为 Vercel 打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526131&amp;idx=1&amp;sn=cbeadea0537659a67e31db16b0990443&amp;chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526131&amp;idx=1&amp;sn=cbeadea0537659a67e31db16b0990443&amp;chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd"/>
         <updated>2025-06-26T00:00:00.000Z</updated>
         <published>2025-06-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[记录一次前端项目代码Review]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526357&amp;idx=1&amp;sn=8d80927cee2b16f24d5a1937cfa0358b&amp;chksm=f9926104cee5e8120cfe911a97bde7be0ae38cf7f10d922f70fcd533f188b7c381cb29e14591#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526357&amp;idx=1&amp;sn=8d80927cee2b16f24d5a1937cfa0358b&amp;chksm=f9926104cee5e8120cfe911a97bde7be0ae38cf7f10d922f70fcd533f188b7c381cb29e14591#rd"/>
-        <updated>2025-06-06T00:00:00.000Z</updated>
-        <published>2025-06-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[众多大厂 Vue3 项目放弃使用 Pinia，新趋势？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504626&amp;idx=1&amp;sn=b1fc67ada12f6237e98a55efe5b4dd01&amp;chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504626&amp;idx=1&amp;sn=b1fc67ada12f6237e98a55efe5b4dd01&amp;chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd"/>
         <updated>2025-06-06T00:00:00.000Z</updated>
         <published>2025-06-06T00:00:00.000Z</published>
     </entry>
