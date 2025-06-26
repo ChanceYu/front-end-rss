@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-25 20:18:56，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-26 14:15:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-06-25-【招聘】微信数据平台招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=2&sn=3c2952944096aafd08c84fd31b5284a7&chksm=bd489c788a3f156ebdf0bdc9d80fa29a45355c6b5b437fff40362aa306e9c2a534a56e699586#rd) ![](/assets/new.png)  
+- [2025-06-25-【招聘】微信数据平台招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=2&sn=3c2952944096aafd08c84fd31b5284a7&chksm=bd489c788a3f156ebdf0bdc9d80fa29a45355c6b5b437fff40362aa306e9c2a534a56e699586#rd)  
 - [2025-06-24-【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276774&idx=1&sn=da2be17301bd3f4658e5e30bd23c5f68&chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&scene=0#rd)  
 - [2025-06-23-【第3534期】让-Bug-自动“蒸发”！AI-神器——AIFix](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bc725d697d4e4765b4c3bef22e2294d11d23cb9954db34f0287a51dcf18872a3a9c1c2ddba81&scene=0#rd)  
 - [2025-06-20-【第3533期】Cursor-AI-最佳实践：使用“金标准文件”工作流以获得更精确的结果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276735&idx=1&sn=53efe1dcb5f8e4b494a08d80e84f6689&chksm=bcde831d194d47e47d72d7b9038ec8bdda99bd5c811e7fbd711de77a944ee5aee3d616e21c6a&scene=0#rd)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-06-24-出了兼容性问题，被领导叼了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=2&sn=e14804593713350acc6c34b1addd8421&chksm=80225aedb755d3fbc6ac42cad2b8e18f3583e951fb0cdb347d46cbccdd44cac23bfef75dbb1c#rd) ![](/assets/new.png)  
-- [2025-06-24-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=1&sn=9a9f3c21e5ec3705ddda1f5fd6b076f2&chksm=80225aedb755d3fb79abdb5b5122e53ebfd4d6d8c6e0971bb520f46e78714ad6aee5a36ca768#rd) ![](/assets/new.png)  
+- [2025-06-24-出了兼容性问题，被领导叼了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=2&sn=e14804593713350acc6c34b1addd8421&chksm=80225aedb755d3fbc6ac42cad2b8e18f3583e951fb0cdb347d46cbccdd44cac23bfef75dbb1c#rd)  
+- [2025-06-24-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=1&sn=9a9f3c21e5ec3705ddda1f5fd6b076f2&chksm=80225aedb755d3fb79abdb5b5122e53ebfd4d6d8c6e0971bb520f46e78714ad6aee5a36ca768#rd)  
 - [2025-06-20-Vue3-+-一个冷门-API，实现了浏览器多屏投屏，效果太惊艳了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622684&idx=1&sn=ca2cd517988544bfffa2849fd5070aed&chksm=80225addb755d3cbc8383b2c55f1a26503c6841de6a9b7d44982ed98e408df2626a9191acca9#rd)  
 - [2025-06-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622667&idx=1&sn=0f763faadb97f5b97d416b979ee6db93&chksm=80225acab755d3dcb6024b50b5ed9cf9ce35915c4e7a067baab2cedd29b51b5e69a6f2c11c1c#rd)  
 - [2025-06-17-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622651&idx=1&sn=9a139e63e7b7fdfa484bae582e4cb73f&chksm=80225b3ab755d22c4a1bede345d26b34b98aad61c98147a8565b616a897a169382c6a03b3ea2#rd)  
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-06-26-Vitest-3.2-正式发布！宣布重大更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504799&idx=1&sn=afd12a034235fcf14d447b14527bb0c4&chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd) ![](/assets/new.png)  
 - [2025-06-21-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第二弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504727&idx=1&sn=f7e41f452541f92522868ad70ebc3416&chksm=ce45c6c6f9324fd0cfa7166d075fc04f34c08338d84c5ededab3d95e7d17e18f7cd810e31e97#rd)  
 - [2025-06-20-VsCode-最新版发布，迎来重大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504692&idx=1&sn=c4d0a06381f2324ea6b00c161341b798&chksm=ce45c6a5f9324fb3d762842d42ad5fe4382eb43d0a7d94c659056047d462e3c1a9a3662b40a2#rd)  
 - [2025-06-19-Vue-官方发布了-8-个提升-Vue3-开发幸福感的小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504685&idx=1&sn=9ba6dfe6aad1ec8be1eade6372446e75&chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd)  
@@ -221,7 +222,6 @@
 - [2025-06-04-面了一个75k的开发，想当场给他offer。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504562&idx=1&sn=18ae4d2c6150d84c1ad42c526059d2e8&chksm=ce45c723f9324e35c1637fcfc7860c85192fce94704d3903efa76893780ed3e2166defc3d699#rd)  
 - [2025-06-03-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504546&idx=1&sn=805ef552cd0f89f22a36c5c7c7021464&chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd)  
 - [2025-06-02-2025年04月-GitHub-十大热门项目](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504545&idx=1&sn=514cef4c05f796dd70769da446c56778&chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd)  
-- [2025-06-01-2025-年-CSS-最实用的-10-个小技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504539&idx=1&sn=7f30e0eef4ed38c4fa0c787f0ad14183&chksm=ce45c70af9324e1ce845e20ee5d66c568dacf10a31bd03df794873875b216dbf2b7c6f6dd9ab#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

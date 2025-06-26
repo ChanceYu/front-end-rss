@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-25T12:18:56.496Z</updated>
+    <updated>2025-06-26T06:15:06.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vitest 3.2 正式发布！宣布重大更新！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <published>2025-06-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人：LLM弹幕互动技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540760&amp;idx=1&amp;sn=4831d0b0e04908ed9f70abbef86c5b6e&amp;chksm=827662e776545dba7ccacd643cefd6abea3a5f38d0d7af1717269a80e117410504d3a8b76a6f&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[众多大厂 Vue3 项目放弃使用 Pinia，新趋势？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504626&amp;idx=1&amp;sn=b1fc67ada12f6237e98a55efe5b4dd01&amp;chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504626&amp;idx=1&amp;sn=b1fc67ada12f6237e98a55efe5b4dd01&amp;chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd"/>
-        <updated>2025-06-06T00:00:00.000Z</updated>
-        <published>2025-06-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622580&amp;idx=1&amp;sn=7009c04c077563a7ec7a0b2fab364fb5&amp;chksm=80225b75b755d26319bc2e14ee9742d9fca39349d16c4652d31719d900ac16184de67ef93025#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622580&amp;idx=1&amp;sn=7009c04c077563a7ec7a0b2fab364fb5&amp;chksm=80225b75b755d26319bc2e14ee9742d9fca39349d16c4652d31719d900ac16184de67ef93025#rd"/>
         <updated>2025-06-06T00:00:00.000Z</updated>
         <published>2025-06-06T00:00:00.000Z</published>
     </entry>
