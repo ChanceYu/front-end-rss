@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-27 20:18:21，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-28 00:12:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742) ![](/assets/new.png)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
@@ -97,7 +98,6 @@
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
-- [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-06-27-【图书】MCP极简开发：轻松打造高效智能体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=2&sn=90330fde1b39db5372604f1c0e8624f3&chksm=bcee18256d1904a6f92b2c1f08b53877e03e0c42414df7410fbb52ef2acc45fe0959303a063d&scene=0#rd) ![](/assets/new.png)  
-- [2025-06-27-【第3538期】为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&scene=0#rd) ![](/assets/new.png)  
+- [2025-06-27-【图书】MCP极简开发：轻松打造高效智能体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=2&sn=90330fde1b39db5372604f1c0e8624f3&chksm=bcee18256d1904a6f92b2c1f08b53877e03e0c42414df7410fbb52ef2acc45fe0959303a063d&scene=0#rd)  
+- [2025-06-27-【第3538期】为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&scene=0#rd)  
 - [2025-06-26-【第3537期】事件优先的用户界面：前端如何融入事件驱动的架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=1&sn=5fffe8eced0fad0d40f652b1a80d9fcb&chksm=bc2e290e5ede72c656255dcd7ce7458ce9fef1e90a0c04ebea45374f6cf7dae82ef80aa4e2a2&scene=0#rd)  
 - [2025-06-26-【图书】MCP轻松学——全能AI实战宝典](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=2&sn=f93da25f3d88a5a35c146cbc9e7364af&chksm=bcc2f21f8c8e9d43912e1760d29fbe2ae7dcf472c2ae2af555be013879fd604c8eedd902aa86&scene=0#rd)  
 - [2025-06-25-【招聘】微信数据平台招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=2&sn=3c2952944096aafd08c84fd31b5284a7&chksm=bd489c788a3f156ebdf0bdc9d80fa29a45355c6b5b437fff40362aa306e9c2a534a56e699586#rd)  
