@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-27T04:19:51.404Z</updated>
+    <updated>2025-06-27T10:11:03.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,34 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播数字人：TTS语音合成技术]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540777&amp;idx=1&amp;sn=1abacfeabd3ae176250125dc48ded953&amp;chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540777&amp;idx=1&amp;sn=1abacfeabd3ae176250125dc48ded953&amp;chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&amp;scene=0#rd"/>
+        <updated>2025-06-27T00:00:00.000Z</updated>
+        <published>2025-06-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年度最佳 JS 开源项目揭晓，竟然是它？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517272&amp;idx=1&amp;sn=9cf2a14d8cdae84096604bb779aaa940&amp;chksm=eb07bc21dc7035379da65cf69faa15f93072b751dd203542ee44dc97aabaa85b8592b99969b9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517272&amp;idx=1&amp;sn=9cf2a14d8cdae84096604bb779aaa940&amp;chksm=eb07bc21dc7035379da65cf69faa15f93072b751dd203542ee44dc97aabaa85b8592b99969b9#rd"/>
+        <updated>2025-06-27T00:00:00.000Z</updated>
+        <published>2025-06-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面试官：Teleport 是怎么实现的？为啥它能把组件“传送”走？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526787&amp;idx=1&amp;sn=37b40b9c06102b375bf84926cadc8063&amp;chksm=f9926f52cee5e644266d2bb8901423028c68194d0824d9ffcfa5920efde85316ba65be9ef707#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526787&amp;idx=1&amp;sn=37b40b9c06102b375bf84926cadc8063&amp;chksm=f9926f52cee5e644266d2bb8901423028c68194d0824d9ffcfa5920efde85316ba65be9ef707#rd"/>
+        <updated>2025-06-27T00:00:00.000Z</updated>
+        <published>2025-06-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pnpm 正逐步走出差异化路线，难怪其月下载量已经逼近 1 亿！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526785&amp;idx=1&amp;sn=34250a38f6dee5fc49f8f9dc95d22ac0&amp;chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526785&amp;idx=1&amp;sn=34250a38f6dee5fc49f8f9dc95d22ac0&amp;chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <published>2025-06-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vitest 3.2 正式发布！宣布重大更新！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd</id>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd"/>
         <updated>2025-06-09T00:00:00.000Z</updated>
         <published>2025-06-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[stagewise：让AI与代码编辑器无缝连接]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526367&amp;idx=1&amp;sn=25a93930e66af427cc8ceb391508d313&amp;chksm=f992610ecee5e818b62ede0b6deff74a8179aea0bf0e898b0b1f5af279817e1a5f2e18b5ef5d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526367&amp;idx=1&amp;sn=25a93930e66af427cc8ceb391508d313&amp;chksm=f992610ecee5e818b62ede0b6deff74a8179aea0bf0e898b0b1f5af279817e1a5f2e18b5ef5d#rd"/>
-        <updated>2025-06-08T00:00:00.000Z</updated>
-        <published>2025-06-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最全301/302重定向指南：从SEO到实战，一篇就够了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526359&amp;idx=1&amp;sn=4ec844589c4488ade5a4aab5bc95ef4e&amp;chksm=f9926106cee5e81049b2d788febe786297e08f124473e49d286593fcbf2ff30f5840cbfe8c68#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526359&amp;idx=1&amp;sn=4ec844589c4488ade5a4aab5bc95ef4e&amp;chksm=f9926106cee5e81049b2d788febe786297e08f124473e49d286593fcbf2ff30f5840cbfe8c68#rd"/>
-        <updated>2025-06-07T00:00:00.000Z</updated>
-        <published>2025-06-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用]]></title>
-        <id>http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html"/>
-        <updated>2025-06-06T00:00:00.000Z</updated>
-        <published>2025-06-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪：Vite 换“芯”发布，性能更强！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd"/>
-        <updated>2025-06-06T00:00:00.000Z</updated>
-        <published>2025-06-06T00:00:00.000Z</published>
     </entry>
 </feed>
