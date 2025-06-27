@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-27T10:11:03.997Z</updated>
+    <updated>2025-06-27T12:18:21.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[面试官：Teleport 是怎么实现的？为啥它能把组件“传送”走？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526787&amp;idx=1&amp;sn=37b40b9c06102b375bf84926cadc8063&amp;chksm=f9926f52cee5e644266d2bb8901423028c68194d0824d9ffcfa5920efde85316ba65be9ef707#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526787&amp;idx=1&amp;sn=37b40b9c06102b375bf84926cadc8063&amp;chksm=f9926f52cee5e644266d2bb8901423028c68194d0824d9ffcfa5920efde85316ba65be9ef707#rd"/>
+        <updated>2025-06-27T00:00:00.000Z</updated>
+        <published>2025-06-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3538期】为什么 Chrome DevTools 不够用 —— 分析终端用户性能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276816&amp;idx=1&amp;sn=7709b2d3a30c019c478cb33468f26a0d&amp;chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276816&amp;idx=1&amp;sn=7709b2d3a30c019c478cb33468f26a0d&amp;chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&amp;scene=0#rd"/>
         <updated>2025-06-27T00:00:00.000Z</updated>
         <published>2025-06-27T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=1&amp;sn=23fe1edd76ee3d9483575903761f95d4&amp;chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd"/>
-        <updated>2025-06-09T00:00:00.000Z</updated>
-        <published>2025-06-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记录一次前端项目代码Review]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622594&amp;idx=2&amp;sn=6e77057581ede4dc62e3909406280c87&amp;chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd"/>
         <updated>2025-06-09T00:00:00.000Z</updated>
         <published>2025-06-09T00:00:00.000Z</published>
     </entry>
