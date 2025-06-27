@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-27T03:13:57.552Z</updated>
+    <updated>2025-06-27T04:19:51.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[React 被指“沦为 Vercel 打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526131&amp;idx=1&amp;sn=cbeadea0537659a67e31db16b0990443&amp;chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526131&amp;idx=1&amp;sn=cbeadea0537659a67e31db16b0990443&amp;chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <published>2025-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3537期】事件优先的用户界面：前端如何融入事件驱动的架构]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276808&amp;idx=1&amp;sn=5fffe8eced0fad0d40f652b1a80d9fcb&amp;chksm=bc2e290e5ede72c656255dcd7ce7458ce9fef1e90a0c04ebea45374f6cf7dae82ef80aa4e2a2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276808&amp;idx=1&amp;sn=5fffe8eced0fad0d40f652b1a80d9fcb&amp;chksm=bc2e290e5ede72c656255dcd7ce7458ce9fef1e90a0c04ebea45374f6cf7dae82ef80aa4e2a2&amp;scene=0#rd"/>
         <updated>2025-06-26T00:00:00.000Z</updated>
         <published>2025-06-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：Vite 换“芯”发布，性能更强！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517250&amp;idx=1&amp;sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&amp;chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd"/>
-        <updated>2025-06-06T00:00:00.000Z</updated>
-        <published>2025-06-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记录一次前端项目代码Review]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526357&amp;idx=1&amp;sn=8d80927cee2b16f24d5a1937cfa0358b&amp;chksm=f9926104cee5e8120cfe911a97bde7be0ae38cf7f10d922f70fcd533f188b7c381cb29e14591#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526357&amp;idx=1&amp;sn=8d80927cee2b16f24d5a1937cfa0358b&amp;chksm=f9926104cee5e8120cfe911a97bde7be0ae38cf7f10d922f70fcd533f188b7c381cb29e14591#rd"/>
         <updated>2025-06-06T00:00:00.000Z</updated>
         <published>2025-06-06T00:00:00.000Z</published>
     </entry>
