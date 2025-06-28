@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-27T16:12:12.809Z</updated>
+    <updated>2025-06-28T03:08:42.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -67,6 +67,13 @@
         <title type="html"><![CDATA[React 被指“沦为 Vercel 打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526131&amp;idx=1&amp;sn=cbeadea0537659a67e31db16b0990443&amp;chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526131&amp;idx=1&amp;sn=cbeadea0537659a67e31db16b0990443&amp;chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <published>2025-06-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NodeJS+LLM搭建一个属于自己的知识库]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622717&amp;idx=1&amp;sn=26366b5c3852a4cb292d9aade0842846&amp;chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622717&amp;idx=1&amp;sn=26366b5c3852a4cb292d9aade0842846&amp;chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd"/>
         <updated>2025-06-26T00:00:00.000Z</updated>
         <published>2025-06-26T00:00:00.000Z</published>
     </entry>
@@ -225,16 +232,16 @@
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub 第 10 亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd"/>
+        <title type="html"><![CDATA[Tauri vs. Electron：性能、体积与真实权衡]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tauri vs. Electron：性能、体积与真实权衡]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd"/>
+        <title type="html"><![CDATA[GitHub 第 10 亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
@@ -309,16 +316,16 @@
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mobile Bridge：让 WebView 拥有原生体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd"/>
+        <title type="html"><![CDATA[12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter 开发者的噩梦开始了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter 开发者的噩梦开始了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd"/>
+        <title type="html"><![CDATA[Mobile Bridge：让 WebView 拥有原生体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/581"/>
         <updated>2025-06-10T00:00:00.000Z</updated>
         <published>2025-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Puppeteer 实现文件下载]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526371&amp;idx=2&amp;sn=ceb54cb806a6ccdf659bea80b32d7f01&amp;chksm=f9926132cee5e82497ff04e984c42ff23cf819cb986b9232217093d45d05ea3e34a09a962c43#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526371&amp;idx=2&amp;sn=ceb54cb806a6ccdf659bea80b32d7f01&amp;chksm=f9926132cee5e82497ff04e984c42ff23cf819cb986b9232217093d45d05ea3e34a09a962c43#rd"/>
-        <updated>2025-06-09T00:00:00.000Z</updated>
-        <published>2025-06-09T00:00:00.000Z</published>
     </entry>
 </feed>

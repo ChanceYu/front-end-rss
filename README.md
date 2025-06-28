@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-28 00:12:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-28 11:08:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742) ![](/assets/new.png)  
+- [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
@@ -140,26 +140,26 @@
 </summary>
 
 
-- [2025-06-24-出了兼容性问题，被领导叼了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=2&sn=e14804593713350acc6c34b1addd8421&chksm=80225aedb755d3fbc6ac42cad2b8e18f3583e951fb0cdb347d46cbccdd44cac23bfef75dbb1c#rd)  
+- [2025-06-26-NodeJS+LLM搭建一个属于自己的知识库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622717&idx=1&sn=26366b5c3852a4cb292d9aade0842846&chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd) ![](/assets/new.png)  
 - [2025-06-24-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=1&sn=9a9f3c21e5ec3705ddda1f5fd6b076f2&chksm=80225aedb755d3fb79abdb5b5122e53ebfd4d6d8c6e0971bb520f46e78714ad6aee5a36ca768#rd)  
+- [2025-06-24-出了兼容性问题，被领导叼了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=2&sn=e14804593713350acc6c34b1addd8421&chksm=80225aedb755d3fbc6ac42cad2b8e18f3583e951fb0cdb347d46cbccdd44cac23bfef75dbb1c#rd)  
 - [2025-06-20-Vue3-+-一个冷门-API，实现了浏览器多屏投屏，效果太惊艳了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622684&idx=1&sn=ca2cd517988544bfffa2849fd5070aed&chksm=80225addb755d3cbc8383b2c55f1a26503c6841de6a9b7d44982ed98e408df2626a9191acca9#rd)  
 - [2025-06-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622667&idx=1&sn=0f763faadb97f5b97d416b979ee6db93&chksm=80225acab755d3dcb6024b50b5ed9cf9ce35915c4e7a067baab2cedd29b51b5e69a6f2c11c1c#rd)  
 - [2025-06-17-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622651&idx=1&sn=9a139e63e7b7fdfa484bae582e4cb73f&chksm=80225b3ab755d22c4a1bede345d26b34b98aad61c98147a8565b616a897a169382c6a03b3ea2#rd)  
-- [2025-06-16-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=2&sn=34b9a33faaf10199f6b958c9e9cc24f3&chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd)  
 - [2025-06-16-GitHub-第-10-亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=1&sn=ba4890f461f44440d9b601821f75a005&chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd)  
-- [2025-06-13-三大云厂同时瘫了？Cursor、ChatGPT跟着倒下！网友：整个互联网都要废了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622620&idx=1&sn=5ae1fc8a9fa26cd9ab98f0d7dadd1795&chksm=80225b1db755d20bc7ed56be227cba7f5d2b74ec039dbb5ef5e37aa664cf27897b9c401145d4#rd)  
+- [2025-06-16-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=2&sn=34b9a33faaf10199f6b958c9e9cc24f3&chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd)  
 - [2025-06-13-你以为的-Tailwind-并不高效，看看这些使用误区](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622620&idx=2&sn=11855076888fd41960580cb51c481a25&chksm=80225b1db755d20bfd12cfc0cce72a92a602a5618d0e8307e0c6d25d6fc34a0e3261691a7850#rd)  
-- [2025-06-11-12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter-开发者的噩梦开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=1&sn=338b635ee345e515f14f14b2a9ebd9ad&chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd)  
+- [2025-06-13-三大云厂同时瘫了？Cursor、ChatGPT跟着倒下！网友：整个互联网都要废了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622620&idx=1&sn=5ae1fc8a9fa26cd9ab98f0d7dadd1795&chksm=80225b1db755d20bc7ed56be227cba7f5d2b74ec039dbb5ef5e37aa664cf27897b9c401145d4#rd)  
 - [2025-06-11-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=2&sn=ed72daf288552172f135f179c56ab24f&chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd)  
-- [2025-06-09-记录一次前端项目代码Review](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=2&sn=6e77057581ede4dc62e3909406280c87&chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd)  
+- [2025-06-11-12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter-开发者的噩梦开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=1&sn=338b635ee345e515f14f14b2a9ebd9ad&chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd)  
 - [2025-06-09-苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=1&sn=23fe1edd76ee3d9483575903761f95d4&chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd)  
+- [2025-06-09-记录一次前端项目代码Review](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=2&sn=6e77057581ede4dc62e3909406280c87&chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd)  
 - [2025-06-06-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622580&idx=1&sn=7009c04c077563a7ec7a0b2fab364fb5&chksm=80225b75b755d26319bc2e14ee9742d9fca39349d16c4652d31719d900ac16184de67ef93025#rd)  
 - [2025-06-05-确定裁员了，很严重，大家做好准备吧！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622558&idx=1&sn=a9047268a88e4e4cb6b4a35b850c5aab&chksm=80225b5fb755d2495a032221b79b7b327fe8f2e4c4986510779dbf0282c307acd6f5d18fc0d0#rd)  
-- [2025-05-29-突发！美国对中国断供-EDA。网友：真卡脖子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622544&idx=1&sn=ca8953a151ea7c1486730e10fe295898&chksm=80225b51b755d247577c37c59578f9d7b518592dccfb280e12ee27b5d331b9fabe896c2d4bae#rd)  
 - [2025-05-29-蔚来面试题：计算白屏时间](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622544&idx=2&sn=4d996b147862e81092f10cdc1ebc5075&chksm=80225b51b755d247299e9c2612d4ea41ae5d51e5be439400bd52ddcec64650e930e15b28458e#rd)  
-- [2025-05-28-别再写一堆-if-else-了：用状态模式优雅管理状态行为](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622533&idx=1&sn=513e6373feccfe155de845acaebfe74f&chksm=80225b44b755d25233d50c20e6ccfd5331fe60941216d4b452d2fdbe83ae30a3d129ab5708df#rd)  
+- [2025-05-29-突发！美国对中国断供-EDA。网友：真卡脖子](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622544&idx=1&sn=ca8953a151ea7c1486730e10fe295898&chksm=80225b51b755d247577c37c59578f9d7b518592dccfb280e12ee27b5d331b9fabe896c2d4bae#rd)  
 - [2025-05-28-用分层结构扩展你的-React-项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622533&idx=2&sn=bc910e0bff0de1e0e2e4104b0aeb1b2e&chksm=80225b44b755d252e037317373e6deb6a3589818ad00ae261347924de8078c0717ef25d83be3#rd)  
-- [2025-05-26-前端内存泄漏：你的JS代码在偷偷“吃”内存！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622523&idx=2&sn=7e5cae0314bc7328354ac14169b85e1a&chksm=80225bbab755d2ac60126c536b6d03f4cfffd8f5e35ae57f6d700e57295cb9a59d906074d745#rd)  
+- [2025-05-28-别再写一堆-if-else-了：用状态模式优雅管理状态行为](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622533&idx=1&sn=513e6373feccfe155de845acaebfe74f&chksm=80225b44b755d25233d50c20e6ccfd5331fe60941216d4b452d2fdbe83ae30a3d129ab5708df#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
