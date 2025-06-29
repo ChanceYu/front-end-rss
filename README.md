@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-28 11:08:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-29 11:22:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-06-26-NodeJS+LLM搭建一个属于自己的知识库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622717&idx=1&sn=26366b5c3852a4cb292d9aade0842846&chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd) ![](/assets/new.png)  
+- [2025-06-26-NodeJS+LLM搭建一个属于自己的知识库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622717&idx=1&sn=26366b5c3852a4cb292d9aade0842846&chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd)  
 - [2025-06-24-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=1&sn=9a9f3c21e5ec3705ddda1f5fd6b076f2&chksm=80225aedb755d3fb79abdb5b5122e53ebfd4d6d8c6e0971bb520f46e78714ad6aee5a36ca768#rd)  
 - [2025-06-24-出了兼容性问题，被领导叼了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=2&sn=e14804593713350acc6c34b1addd8421&chksm=80225aedb755d3fbc6ac42cad2b8e18f3583e951fb0cdb347d46cbccdd44cac23bfef75dbb1c#rd)  
 - [2025-06-20-Vue3-+-一个冷门-API，实现了浏览器多屏投屏，效果太惊艳了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622684&idx=1&sn=ca2cd517988544bfffa2849fd5070aed&chksm=80225addb755d3cbc8383b2c55f1a26503c6841de6a9b7d44982ed98e408df2626a9191acca9#rd)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-06-28-前端最常用的25个正则表达式，代码效率提高-80%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504811&idx=1&sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd) ![](/assets/new.png)  
+- [2025-06-27-最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504810&idx=1&sn=ec67f74b6b47162d4277a05c87fafdde&chksm=ce45c63bf9324f2defb761f4f878779f45ce0deec745d7b44d6ed347d3296a089734e37755a4#rd) ![](/assets/new.png)  
 - [2025-06-26-Vitest-3.2-正式发布！宣布重大更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504799&idx=1&sn=afd12a034235fcf14d447b14527bb0c4&chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd)  
 - [2025-06-21-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第二弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504727&idx=1&sn=f7e41f452541f92522868ad70ebc3416&chksm=ce45c6c6f9324fd0cfa7166d075fc04f34c08338d84c5ededab3d95e7d17e18f7cd810e31e97#rd)  
 - [2025-06-20-VsCode-最新版发布，迎来重大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504692&idx=1&sn=c4d0a06381f2324ea6b00c161341b798&chksm=ce45c6a5f9324fb3d762842d42ad5fe4382eb43d0a7d94c659056047d462e3c1a9a3662b40a2#rd)  
@@ -220,8 +222,6 @@
 - [2025-06-06-众多大厂-Vue3-项目放弃使用-Pinia，新趋势？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504626&idx=1&sn=b1fc67ada12f6237e98a55efe5b4dd01&chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd)  
 - [2025-06-05-Vue-团队正式发布！未来-Vue-也能写后端啦！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504591&idx=1&sn=a7620c4696e8354f00d60fea700367cc&chksm=ce45c75ef9324e48ce336fc637c062c52b9183d2e52b65b8103223933585e49819c881d6ae8c#rd)  
 - [2025-06-04-面了一个75k的开发，想当场给他offer。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504562&idx=1&sn=18ae4d2c6150d84c1ad42c526059d2e8&chksm=ce45c723f9324e35c1637fcfc7860c85192fce94704d3903efa76893780ed3e2166defc3d699#rd)  
-- [2025-06-03-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504546&idx=1&sn=805ef552cd0f89f22a36c5c7c7021464&chksm=ce45c733f9324e254a553be7ad029894de6baea5b6aa7b02df40c1c4149771165fc305fb0962#rd)  
-- [2025-06-02-2025年04月-GitHub-十大热门项目](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504545&idx=1&sn=514cef4c05f796dd70769da446c56778&chksm=ce45c730f9324e26828d145bb54917ee50e40f4e53a32d82a5f06b47fad538c7c9327cf97006#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

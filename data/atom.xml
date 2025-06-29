@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-28T03:08:42.667Z</updated>
+    <updated>2025-06-29T03:22:12.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端最常用的25个正则表达式，代码效率提高 80%]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504811&amp;idx=1&amp;sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&amp;chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504811&amp;idx=1&amp;sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&amp;chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd"/>
+        <updated>2025-06-28T00:00:00.000Z</updated>
+        <published>2025-06-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人：TTS语音合成技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540777&amp;idx=1&amp;sn=1abacfeabd3ae176250125dc48ded953&amp;chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3525期】架起桥梁：在 Dart 中运行 JavaScript 模块]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276651&amp;idx=1&amp;sn=bd2f19e3f3562618b137521ad715b44f&amp;chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276651&amp;idx=1&amp;sn=bd2f19e3f3562618b137521ad715b44f&amp;chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&amp;scene=0#rd"/>
-        <updated>2025-06-10T00:00:00.000Z</updated>
-        <published>2025-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node 24.2, and some EOL warnings]]></title>
-        <id>https://nodeweekly.com/issues/581</id>
-        <link href="https://nodeweekly.com/issues/581"/>
         <updated>2025-06-10T00:00:00.000Z</updated>
         <published>2025-06-10T00:00:00.000Z</published>
     </entry>
