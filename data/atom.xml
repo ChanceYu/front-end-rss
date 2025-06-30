@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-30T06:16:30.038Z</updated>
+    <updated>2025-06-30T10:11:51.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS小图标剪裁终极解决方案clip-path shape()函数]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 万程序员签名！Node.js 之父炮轰 Oracle，这事对行业有重大影响。网友直呼：它就是寄生虫]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622738&amp;idx=1&amp;sn=f61de832573b838672444d309f6c60b7&amp;chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276659&amp;idx=1&amp;sn=db9ea529abd9a233b0338ed57c54291b&amp;chksm=bc4f7878628ecd036dbc46933d160ce931f928d4fb6a076e0fa94f6dc4e316f2bd51194d0b31&amp;scene=0#rd"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <published>2025-06-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做个大屏既要不留白又要不变形还要... 我怒斥领导,大屏适配就这四种模式!]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526409&amp;idx=1&amp;sn=9526b538749a3b3dcf19c428b8e22ba1&amp;chksm=f9926ed8cee5e7ce1678d2be3164226cc6c00821c033efa226b777cfdd218c0f72298a2d0cf2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526409&amp;idx=1&amp;sn=9526b538749a3b3dcf19c428b8e22ba1&amp;chksm=f9926ed8cee5e7ce1678d2be3164226cc6c00821c033efa226b777cfdd218c0f72298a2d0cf2#rd"/>
-        <updated>2025-06-10T00:00:00.000Z</updated>
-        <published>2025-06-10T00:00:00.000Z</published>
     </entry>
 </feed>
