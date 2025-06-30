@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-29T18:12:26.902Z</updated>
+    <updated>2025-06-30T06:16:30.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[2 万程序员签名！Node.js 之父炮轰 Oracle，这事对行业有重大影响。网友直呼：它就是寄生虫]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622738&amp;idx=1&amp;sn=f61de832573b838672444d309f6c60b7&amp;chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622738&amp;idx=1&amp;sn=f61de832573b838672444d309f6c60b7&amp;chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3539期】部分关键帧：打造动态、可组合的 CSS 动画效果]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276851&amp;idx=1&amp;sn=02cfef67be8ab024dac3fc2c22ad8e9d&amp;chksm=bcad7b157893eabd0dcc125effef41bb6466010497c50eb5528586c96ad36412b2bd7f961554&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276851&amp;idx=1&amp;sn=02cfef67be8ab024dac3fc2c22ad8e9d&amp;chksm=bcad7b157893eabd0dcc125effef41bb6466010497c50eb5528586c96ad36412b2bd7f961554&amp;scene=0#rd"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端最常用的25个正则表达式，代码效率提高 80%]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504811&amp;idx=1&amp;sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&amp;chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd</id>
@@ -239,16 +253,16 @@
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tauri vs. Electron：性能、体积与真实权衡]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd"/>
+        <title type="html"><![CDATA[GitHub 第 10 亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub 第 10 亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd"/>
+        <title type="html"><![CDATA[Tauri vs. Electron：性能、体积与真实权衡]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
@@ -323,16 +337,16 @@
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter 开发者的噩梦开始了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd"/>
+        <title type="html"><![CDATA[Mobile Bridge：让 WebView 拥有原生体验]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mobile Bridge：让 WebView 拥有原生体验]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=2&amp;sn=ed72daf288552172f135f179c56ab24f&amp;chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd"/>
+        <title type="html"><![CDATA[12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter 开发者的噩梦开始了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[做个大屏既要不留白又要不变形还要... 我怒斥领导,大屏适配就这四种模式!]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526409&amp;idx=1&amp;sn=9526b538749a3b3dcf19c428b8e22ba1&amp;chksm=f9926ed8cee5e7ce1678d2be3164226cc6c00821c033efa226b777cfdd218c0f72298a2d0cf2#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526409&amp;idx=1&amp;sn=9526b538749a3b3dcf19c428b8e22ba1&amp;chksm=f9926ed8cee5e7ce1678d2be3164226cc6c00821c033efa226b777cfdd218c0f72298a2d0cf2#rd"/>
-        <updated>2025-06-10T00:00:00.000Z</updated>
-        <published>2025-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚！尤雨溪终于透露 2025 年 Vue 的全新计划]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504631&amp;idx=1&amp;sn=1f078f584bacc751a9dd33cd90e69ba7&amp;chksm=ce45c766f9324e70cccedff9dc89f2eadc547f6a1cf01b38cb9e47a9e0396a7ab6d92474e901#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504631&amp;idx=1&amp;sn=1f078f584bacc751a9dd33cd90e69ba7&amp;chksm=ce45c766f9324e70cccedff9dc89f2eadc547f6a1cf01b38cb9e47a9e0396a7ab6d92474e901#rd"/>
-        <updated>2025-06-10T00:00:00.000Z</updated>
-        <published>2025-06-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3525期】架起桥梁：在 Dart 中运行 JavaScript 模块]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276651&amp;idx=1&amp;sn=bd2f19e3f3562618b137521ad715b44f&amp;chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276651&amp;idx=1&amp;sn=bd2f19e3f3562618b137521ad715b44f&amp;chksm=bc0cee4a4d2dfc33b3f78ad1f434a7117414aa33f8029337c2939662bb18ffd34a93c5d6a01b&amp;scene=0#rd"/>
         <updated>2025-06-10T00:00:00.000Z</updated>
         <published>2025-06-10T00:00:00.000Z</published>
     </entry>
