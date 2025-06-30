@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-06-30 18:11:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-30 20:18:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -32,8 +32,8 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd)  
 - [2025-06-25-淘宝直播数字人：LLM弹幕互动技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540760&idx=1&sn=4831d0b0e04908ed9f70abbef86c5b6e&chksm=827662e776545dba7ccacd643cefd6abea3a5f38d0d7af1717269a80e117410504d3a8b76a6f&scene=0#rd)  
 - [2025-06-23-淘宝直播数字人：LLM文案生成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540709&idx=1&sn=af29bb9831d31a6f1a0f1c1fe80b2926&chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-05-16-JianYi:-淘宝家装行业的分割&amp;抠图系统](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540176&idx=1&sn=9cf95ad8cc49f7a5aa57a7ba6d172e47&chksm=8251fc1484e7fb9243e1770af6f4731d459a2512555fcae3d5fbdb65f6a4fff89633e43b3745&scene=0#rd)  
 - [2025-05-14-浅谈团队代码风格/结构一致性](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539951&idx=1&sn=6aac8c34c6d1d680caf981ea285c6d79&chksm=82f0faaac664eb46447e034f5357f28459b1d9df966db5a0bf21423c8eb4aa095f7c7e55b28b&scene=0#rd)  
 - [2025-05-12-AI驱动代码编辑器：-Cursor的功能解析及行业影响](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539917&idx=1&sn=89f270d59d255c67e7627081b0d86d1f&chksm=82faf9abcf7ccda2513cc0652680e7e0b4cdc13d0ca48b62de564831f56dbd49fc144f731eef&scene=0#rd)  
-- [2025-05-07-淘天自营前端开发的AI增效实践总结](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539901&idx=1&sn=9befe94e4b01dd694c6602d70c609109&chksm=826da8edef83764c075db7c147dd62106c791191f2d940a289b4dd7738d85d1367e2c5eeef63&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/) ![](/assets/new.png)  
+- [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  

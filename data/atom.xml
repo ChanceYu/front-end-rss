@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-06-30T10:11:51.771Z</updated>
+    <updated>2025-06-30T12:18:58.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[CSS小图标剪裁终极解决方案clip-path shape()函数]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播数字人：形象技术]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540789&amp;idx=1&amp;sn=4d04f32fb7c0388dac60f4a9bb76d735&amp;chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540789&amp;idx=1&amp;sn=4d04f32fb7c0388dac60f4a9bb76d735&amp;chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&amp;scene=0#rd"/>
         <updated>2025-06-30T00:00:00.000Z</updated>
         <published>2025-06-30T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter 开发者的噩梦开始了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622608&amp;idx=1&amp;sn=338b635ee345e515f14f14b2a9ebd9ad&amp;chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd"/>
-        <updated>2025-06-11T00:00:00.000Z</updated>
-        <published>2025-06-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3526期】通过 MCP 为代理浏览器赋予 DevTools 访问权限，助其获得超级能力]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276659&amp;idx=1&amp;sn=db9ea529abd9a233b0338ed57c54291b&amp;chksm=bc4f7878628ecd036dbc46933d160ce931f928d4fb6a076e0fa94f6dc4e316f2bd51194d0b31&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276659&amp;idx=1&amp;sn=db9ea529abd9a233b0338ed57c54291b&amp;chksm=bc4f7878628ecd036dbc46933d160ce931f928d4fb6a076e0fa94f6dc4e316f2bd51194d0b31&amp;scene=0#rd"/>
         <updated>2025-06-11T00:00:00.000Z</updated>
         <published>2025-06-11T00:00:00.000Z</published>
     </entry>
