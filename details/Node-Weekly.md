@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-06-25 00:12:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-01 22:10:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584) 
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) 
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582) 
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581) 

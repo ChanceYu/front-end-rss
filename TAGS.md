@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-07-01 12:29:59。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-07-01 22:10:26。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)
 - [【Node-Weekly】Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)
 - [【Node-Weekly】PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)
 - [【Node-Weekly】What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
 - [【Node-Weekly】Node-v23.2-released](https://nodeweekly.com/issues/555)
 - [【Node-Weekly】Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)
-- [【Node-Weekly】Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)
 - [查看更多 >](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
