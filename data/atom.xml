@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-02T12:18:51.738Z</updated>
+    <updated>2025-07-02T14:10:36.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -53,6 +53,13 @@
         <title type="html"><![CDATA[淘宝直播数字人：形象技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540789&amp;idx=1&amp;sn=4d04f32fb7c0388dac60f4a9bb76d735&amp;chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540789&amp;idx=1&amp;sn=4d04f32fb7c0388dac60f4a9bb76d735&amp;chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&amp;scene=0#rd"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 7.0 发布了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517317&amp;idx=1&amp;sn=36cd01343c4367036cbef64b4b5312b3&amp;chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517317&amp;idx=1&amp;sn=36cd01343c4367036cbef64b4b5312b3&amp;chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd"/>
         <updated>2025-06-30T00:00:00.000Z</updated>
         <published>2025-06-30T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504644&amp;idx=1&amp;sn=7d811d616fe47f845fcb0ce9382ad642&amp;chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd"/>
         <updated>2025-06-13T00:00:00.000Z</updated>
         <published>2025-06-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 生态新玩具：依赖可视化！兼容 React！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517252&amp;idx=1&amp;sn=3140d1ee010f0af7e552574463af42ca&amp;chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517252&amp;idx=1&amp;sn=3140d1ee010f0af7e552574463af42ca&amp;chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd"/>
-        <updated>2025-06-12T00:00:00.000Z</updated>
-        <published>2025-06-12T00:00:00.000Z</published>
     </entry>
 </feed>

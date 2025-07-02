@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-02 20:18:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-02 22:10:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-06-30-Vite-7.0-发布了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517317&idx=1&sn=36cd01343c4367036cbef64b4b5312b3&chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd) ![](/assets/new.png)  
 - [2025-06-27-2025-年度最佳-JS-开源项目揭晓，竟然是它？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517272&idx=1&sn=9cf2a14d8cdae84096604bb779aaa940&chksm=eb07bc21dc7035379da65cf69faa15f93072b751dd203542ee44dc97aabaa85b8592b99969b9#rd)  
 - [2025-06-25-留给初中阶程序员的时间不多了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517270&idx=1&sn=87581523540863c180b372f7c5135464&chksm=eb07bc2fdc70353998cc68d2112128fc24bf14a07a7c4e3dbb4cf29f5863e15bc866241cbd9b#rd)  
 - [2025-06-24-尤雨溪：Vite-和-JavaScript-工具的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517263&idx=1&sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd)  
@@ -438,7 +439,6 @@
 - [2025-05-13-5月面了11个前端开发，发现了一个通病…](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517215&idx=1&sn=a156b7c994e45e95f04ef47fabfe3b9c&chksm=eb07bc66dc703570f1712a4c8ecf20cf1bc7549f16f763b418ae85dcd387cd37040344d7eea1#rd)  
 - [2025-05-09-Vue动态弹窗（Dialog）新境界：告别繁琐，拥抱优雅！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517209&idx=1&sn=9f10b711f19467ee69309a1941246952&chksm=eb07bc60dc7035761b812cda9f039c58ef7d6395250b6bd033800f7531e14d15889929f585f0#rd)  
 - [2025-05-08-Vue3-官方宣布淘汰-Axios，拥抱新趋势](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517207&idx=1&sn=8d78b15933170af176b46481e728c41f&chksm=eb07bc6edc70357832f85ad8af2f43073a9e37f97cf293f76647767d9bee09304c4293f6adb9#rd)  
-- [2025-05-07-月薪已经炒到6W？强烈建议大家刷一下这个新领域！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517205&idx=1&sn=ea5a9d48ddecffdd843988b99c1da4ca&chksm=eb07bc6cdc70357aa75a5b3d23b0239e49e006e5be196e00875b1c8f827478039742124f844f#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd)  
 - [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd)  
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd)  
 - [2025-06-25-淘宝直播数字人：LLM弹幕互动技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540760&idx=1&sn=4831d0b0e04908ed9f70abbef86c5b6e&chksm=827662e776545dba7ccacd643cefd6abea3a5f38d0d7af1717269a80e117410504d3a8b76a6f&scene=0#rd)  
