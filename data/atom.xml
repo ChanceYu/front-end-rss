@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-02T08:14:38.906Z</updated>
+    <updated>2025-07-02T12:18:51.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘宝直播数字人：音视频&算法工程技术]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540813&amp;idx=1&amp;sn=58818d07ce2665bdc719d13b451d82c7&amp;chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540813&amp;idx=1&amp;sn=58818d07ce2665bdc719d13b451d82c7&amp;chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&amp;scene=0#rd"/>
+        <updated>2025-07-02T00:00:00.000Z</updated>
+        <published>2025-07-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【附源码】牺牲两天摸鱼时间，我做了款大屏]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526944&amp;idx=1&amp;sn=c4600aca6ed13106e5c7b61420491f0a&amp;chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue 生态新玩具：依赖可视化！兼容 React！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517252&amp;idx=1&amp;sn=3140d1ee010f0af7e552574463af42ca&amp;chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517252&amp;idx=1&amp;sn=3140d1ee010f0af7e552574463af42ca&amp;chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd"/>
-        <updated>2025-06-12T00:00:00.000Z</updated>
-        <published>2025-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TS进阶！深入探索 TypeScript 工具类型：内置神器与高阶扩展]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526505&amp;idx=1&amp;sn=4e8d0b50be605e044c306a08f52ab61a&amp;chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526505&amp;idx=1&amp;sn=4e8d0b50be605e044c306a08f52ab61a&amp;chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd"/>
         <updated>2025-06-12T00:00:00.000Z</updated>
         <published>2025-06-12T00:00:00.000Z</published>
     </entry>

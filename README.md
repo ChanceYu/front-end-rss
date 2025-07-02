@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-02 16:14:38，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-02 20:18:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,11 +264,11 @@
 </summary>
 
 
-- [2025-07-02-【附源码】牺牲两天摸鱼时间，我做了款大屏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526944&idx=1&sn=c4600aca6ed13106e5c7b61420491f0a&chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd) ![](/assets/new.png)  
-- [2025-07-01-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526895&idx=1&sn=8bd63f1c22742094ca12eaeb4614746c&chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd) ![](/assets/new.png)  
-- [2025-06-30-像高手一样调试程序](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526806&idx=1&sn=39bd305fccc427d1a4129fc89d13d85a&chksm=f9926f47cee5e65170e376d8782c33e67ab5c15239f6ab5bf5564dd8876a1832aab0ae92decf#rd) ![](/assets/new.png)  
-- [2025-06-29-快速掌握-Docker：前端开发者也能轻松玩转容器化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526798&idx=1&sn=0a51801fcc4f327f3f289b6e7369bab6&chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd) ![](/assets/new.png)  
-- [2025-06-29-组件通讯要注意内存泄露](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526798&idx=2&sn=4358b9650a073f5ab1a1cfff28ced1b8&chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd) ![](/assets/new.png)  
+- [2025-07-02-【附源码】牺牲两天摸鱼时间，我做了款大屏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526944&idx=1&sn=c4600aca6ed13106e5c7b61420491f0a&chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd)  
+- [2025-07-01-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526895&idx=1&sn=8bd63f1c22742094ca12eaeb4614746c&chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd)  
+- [2025-06-30-像高手一样调试程序](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526806&idx=1&sn=39bd305fccc427d1a4129fc89d13d85a&chksm=f9926f47cee5e65170e376d8782c33e67ab5c15239f6ab5bf5564dd8876a1832aab0ae92decf#rd)  
+- [2025-06-29-快速掌握-Docker：前端开发者也能轻松玩转容器化](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526798&idx=1&sn=0a51801fcc4f327f3f289b6e7369bab6&chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd)  
+- [2025-06-29-组件通讯要注意内存泄露](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526798&idx=2&sn=4358b9650a073f5ab1a1cfff28ced1b8&chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd)  
 - [2025-06-27-面试官：Teleport-是怎么实现的？为啥它能把组件“传送”走？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526787&idx=1&sn=37b40b9c06102b375bf84926cadc8063&chksm=f9926f52cee5e644266d2bb8901423028c68194d0824d9ffcfa5920efde85316ba65be9ef707#rd)  
 - [2025-06-26-pnpm-正逐步走出差异化路线，难怪其月下载量已经逼近-1-亿！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526785&idx=1&sn=34250a38f6dee5fc49f8f9dc95d22ac0&chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd)  
 - [2025-06-25-AI-编程时代，我仍离不开的-VSCode-插件清单（2025-版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526741&idx=1&sn=d8cd57cbcb1adcca0941326b820df787&chksm=f9926f84cee5e6925218c0d561421898bfc5228b3bb0457d1051a2f20e4a4180f15db76cc70c#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd) ![](/assets/new.png)  
 - [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd)  
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd)  
 - [2025-06-25-淘宝直播数字人：LLM弹幕互动技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540760&idx=1&sn=4831d0b0e04908ed9f70abbef86c5b6e&chksm=827662e776545dba7ccacd643cefd6abea3a5f38d0d7af1717269a80e117410504d3a8b76a6f&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-05-19-淘天⾃营质量技术AI智能体的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540203&idx=1&sn=bca98ed83a52317cf469979ca6466728&chksm=826cc0bbb0cb9ed717a18bb15e2c1a8d146ffab5f88892f1e7e329dc54fc350ff2743ee15e88&scene=0#rd)  
 - [2025-05-16-JianYi:-淘宝家装行业的分割&amp;抠图系统](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540176&idx=1&sn=9cf95ad8cc49f7a5aa57a7ba6d172e47&chksm=8251fc1484e7fb9243e1770af6f4731d459a2512555fcae3d5fbdb65f6a4fff89633e43b3745&scene=0#rd)  
 - [2025-05-14-浅谈团队代码风格/结构一致性](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539951&idx=1&sn=6aac8c34c6d1d680caf981ea285c6d79&chksm=82f0faaac664eb46447e034f5357f28459b1d9df966db5a0bf21423c8eb4aa095f7c7e55b28b&scene=0#rd)  
-- [2025-05-12-AI驱动代码编辑器：-Cursor的功能解析及行业影响](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539917&idx=1&sn=89f270d59d255c67e7627081b0d86d1f&chksm=82faf9abcf7ccda2513cc0652680e7e0b4cdc13d0ca48b62de564831f56dbd49fc144f731eef&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
