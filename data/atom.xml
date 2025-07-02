@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-02T04:20:59.738Z</updated>
+    <updated>2025-07-02T08:14:38.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【附源码】牺牲两天摸鱼时间，我做了款大屏]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526944&amp;idx=1&amp;sn=c4600aca6ed13106e5c7b61420491f0a&amp;chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526944&amp;idx=1&amp;sn=c4600aca6ed13106e5c7b61420491f0a&amp;chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd"/>
+        <updated>2025-07-02T00:00:00.000Z</updated>
+        <published>2025-07-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2025 正式发布！这 6 个新特性值得你关注]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526895&amp;idx=1&amp;sn=8bd63f1c22742094ca12eaeb4614746c&amp;chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526895&amp;idx=1&amp;sn=8bd63f1c22742094ca12eaeb4614746c&amp;chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd"/>
+        <updated>2025-07-01T00:00:00.000Z</updated>
+        <published>2025-07-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Running Gemma 3n from Node]]></title>
         <id>https://nodeweekly.com/issues/584</id>
@@ -32,6 +46,13 @@
         <title type="html"><![CDATA[淘宝直播数字人：形象技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540789&amp;idx=1&amp;sn=4d04f32fb7c0388dac60f4a9bb76d735&amp;chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540789&amp;idx=1&amp;sn=4d04f32fb7c0388dac60f4a9bb76d735&amp;chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&amp;scene=0#rd"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[像高手一样调试程序]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526806&amp;idx=1&amp;sn=39bd305fccc427d1a4129fc89d13d85a&amp;chksm=f9926f47cee5e65170e376d8782c33e67ab5c15239f6ab5bf5564dd8876a1832aab0ae92decf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526806&amp;idx=1&amp;sn=39bd305fccc427d1a4129fc89d13d85a&amp;chksm=f9926f47cee5e65170e376d8782c33e67ab5c15239f6ab5bf5564dd8876a1832aab0ae92decf#rd"/>
         <updated>2025-06-30T00:00:00.000Z</updated>
         <published>2025-06-30T00:00:00.000Z</published>
     </entry>
@@ -55,6 +76,20 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276851&amp;idx=1&amp;sn=02cfef67be8ab024dac3fc2c22ad8e9d&amp;chksm=bcad7b157893eabd0dcc125effef41bb6466010497c50eb5528586c96ad36412b2bd7f961554&amp;scene=0#rd"/>
         <updated>2025-06-30T00:00:00.000Z</updated>
         <published>2025-06-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[组件通讯要注意内存泄露]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd"/>
+        <updated>2025-06-29T00:00:00.000Z</updated>
+        <published>2025-06-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速掌握 Docker：前端开发者也能轻松玩转容器化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd"/>
+        <updated>2025-06-29T00:00:00.000Z</updated>
+        <published>2025-06-29T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端最常用的25个正则表达式，代码效率提高 80%]]></title>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526505&amp;idx=1&amp;sn=4e8d0b50be605e044c306a08f52ab61a&amp;chksm=f9926eb8cee5e7ae05ad6725b37ca4c10ddc09c172de968f7b14cef2539f183b7252d34a27ce#rd"/>
         <updated>2025-06-12T00:00:00.000Z</updated>
         <published>2025-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebWorker 即将被取代！JS 发布全新 API]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504640&amp;idx=1&amp;sn=a7652f9d4510c7c67948045a39d7b78b&amp;chksm=ce45c691f9324f87dbb9cb1f12f0547d88a8e141d94bea7867f15bb1942a0b0ab09656585e5e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504640&amp;idx=1&amp;sn=a7652f9d4510c7c67948045a39d7b78b&amp;chksm=ce45c691f9324f87dbb9cb1f12f0547d88a8e141d94bea7867f15bb1942a0b0ab09656585e5e#rd"/>
-        <updated>2025-06-12T00:00:00.000Z</updated>
-        <published>2025-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果12年首次大改UI，还炮轰“跨平台”框架！“液态玻璃”会是Flutter开发者的“至暗时刻”吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526083&amp;idx=1&amp;sn=1af1bec8b7c437583c7ac41b77f5ffb1&amp;chksm=f952d380ce255a969c6c107d754c8b9350aca5e780561b16e5cdfb0386bb0ec0cb9ebd7de54e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526083&amp;idx=1&amp;sn=1af1bec8b7c437583c7ac41b77f5ffb1&amp;chksm=f952d380ce255a969c6c107d754c8b9350aca5e780561b16e5cdfb0386bb0ec0cb9ebd7de54e#rd"/>
-        <updated>2025-06-12T00:00:00.000Z</updated>
-        <published>2025-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3527期】Pinterest 采用文档即代码模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276672&amp;idx=1&amp;sn=447bba11593032769418f8e15cb681f5&amp;chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276672&amp;idx=1&amp;sn=447bba11593032769418f8e15cb681f5&amp;chksm=bc67af2d90852f402983156ae5717501a1720136e6fb4d97b978f816524237752f313167e8b3&amp;scene=0#rd"/>
-        <updated>2025-06-12T00:00:00.000Z</updated>
-        <published>2025-06-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探秘TaoAvatar：淘宝3D真人数字人技术解析]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540493&amp;idx=1&amp;sn=82abb3daaaa9461ec400520d60e6b3cb&amp;chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540493&amp;idx=1&amp;sn=82abb3daaaa9461ec400520d60e6b3cb&amp;chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&amp;scene=0#rd"/>
-        <updated>2025-06-11T00:00:00.000Z</updated>
-        <published>2025-06-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504638&amp;idx=1&amp;sn=2f36c33202f5c18706f04eaa10e3912e&amp;chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504638&amp;idx=1&amp;sn=2f36c33202f5c18706f04eaa10e3912e&amp;chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd"/>
-        <updated>2025-06-11T00:00:00.000Z</updated>
-        <published>2025-06-11T00:00:00.000Z</published>
     </entry>
 </feed>
