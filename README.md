@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-02 22:10:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-03 08:49:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,14 +23,14 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-07-02-多益网络不服！扬言要搬离广州！裁员-1000人！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504881&idx=1&sn=54e2b8c052a0b8ad0b91fabc51240ef8&chksm=ce45c660f9324f76361d99c7fc5b8d0be4730bab4fc0d5080fce167cfd6fe5febd2d87895d35#rd) ![](/assets/new.png)  
+- [2025-07-01-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504875&idx=1&sn=db27a9a449e284b90ba31c2102133a3f&chksm=ce45c67af9324f6c4711b2524f5ce1ce948030a9154a8719d46a831cca522d76e5fa8b135438#rd) ![](/assets/new.png)  
 - [2025-06-30-少用-Vue3-这个API！可能会有性能问题！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504864&idx=1&sn=6b18260ece3f18d436ecfa509c68b5fd&chksm=ce45c671f9324f67b1422572f664eda3eebe8bbbf4e463e6c65e555d54fca52995cc9960ced6#rd)  
 - [2025-06-29-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第三弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504842&idx=1&sn=4702dffd492ad7aa91169697bedf98d0&chksm=ce45c65bf9324f4dfd10339ff5eb2a6d6bb067de9b73afc9a086021d00d6d2c877258494a6c6#rd)  
 - [2025-06-28-前端最常用的25个正则表达式，代码效率提高-80%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504811&idx=1&sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd)  
@@ -220,8 +222,6 @@
 - [2025-06-11-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504638&idx=1&sn=2f36c33202f5c18706f04eaa10e3912e&chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd)  
 - [2025-06-10-刚刚！尤雨溪终于透露-2025-年-Vue-的全新计划](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504631&idx=1&sn=1f078f584bacc751a9dd33cd90e69ba7&chksm=ce45c766f9324e70cccedff9dc89f2eadc547f6a1cf01b38cb9e47a9e0396a7ab6d92474e901#rd)  
 - [2025-06-08-漫谈：前端牛马，在广州租房是什么感受](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504630&idx=1&sn=ac9198f2a260440a07e58d3df6e7698f&chksm=ce45c767f9324e71c8a28a359f273d547ed3343fc4cf088431edee764f8931a90c13add7d946#rd)  
-- [2025-06-07-每天讲一家公司的前端薪资——魅族（珠海）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504629&idx=1&sn=4b6ea4904e6965a86e0e71e89f046165&chksm=ce45c764f9324e7294f8455fe574132e0c2e8e90ef71b64816e598f4f75b4033f22b2ebca111#rd)  
-- [2025-06-06-众多大厂-Vue3-项目放弃使用-Pinia，新趋势？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504626&idx=1&sn=b1fc67ada12f6237e98a55efe5b4dd01&chksm=ce45c763f9324e757525fd06f56ab54d67022dc54672ae3328b1f1fb1bdecea80933a0e59217#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -419,7 +419,7 @@
 </summary>
 
 
-- [2025-06-30-Vite-7.0-发布了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517317&idx=1&sn=36cd01343c4367036cbef64b4b5312b3&chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd) ![](/assets/new.png)  
+- [2025-06-30-Vite-7.0-发布了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517317&idx=1&sn=36cd01343c4367036cbef64b4b5312b3&chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd)  
 - [2025-06-27-2025-年度最佳-JS-开源项目揭晓，竟然是它？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517272&idx=1&sn=9cf2a14d8cdae84096604bb779aaa940&chksm=eb07bc21dc7035379da65cf69faa15f93072b751dd203542ee44dc97aabaa85b8592b99969b9#rd)  
 - [2025-06-25-留给初中阶程序员的时间不多了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517270&idx=1&sn=87581523540863c180b372f7c5135464&chksm=eb07bc2fdc70353998cc68d2112128fc24bf14a07a7c4e3dbb4cf29f5863e15bc866241cbd9b#rd)  
 - [2025-06-24-尤雨溪：Vite-和-JavaScript-工具的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517263&idx=1&sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd)  
