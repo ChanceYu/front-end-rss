@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-04 22:10:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-05 00:11:43，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743) ![](/assets/new.png)  
+- [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)  
 - [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)  
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-07-04-这班上的值不值？我总结了一个公式【进化版】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504896&idx=1&sn=72ea3d76048610ad296e613ec8e7763e&chksm=ce45c191f93248878b8a1aeeefc5444da00878335c67606e34e558088b6084217b4de7347bbd#rd) ![](/assets/new.png)  
+- [2025-07-03-JS-颠覆性-API-通过官方提案，即将发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504882&idx=1&sn=bc4c9e0cc6755d06050e394b40702f42&chksm=ce45c663f9324f75bdea076839b40b2ad956f264651ee2eb016ba8b9b1c1d41b5f1cf7b6f75c#rd) ![](/assets/new.png)  
 - [2025-07-02-多益网络不服！扬言要搬离广州！裁员-1000人！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504881&idx=1&sn=54e2b8c052a0b8ad0b91fabc51240ef8&chksm=ce45c660f9324f76361d99c7fc5b8d0be4730bab4fc0d5080fce167cfd6fe5febd2d87895d35#rd)  
 - [2025-07-01-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504875&idx=1&sn=db27a9a449e284b90ba31c2102133a3f&chksm=ce45c67af9324f6c4711b2524f5ce1ce948030a9154a8719d46a831cca522d76e5fa8b135438#rd)  
 - [2025-06-30-少用-Vue3-这个API！可能会有性能问题！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504864&idx=1&sn=6b18260ece3f18d436ecfa509c68b5fd&chksm=ce45c671f9324f67b1422572f664eda3eebe8bbbf4e463e6c65e555d54fca52995cc9960ced6#rd)  
@@ -220,8 +222,6 @@
 - [2025-06-13-Vue3-终于可以共享自己的屏幕给别人看了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504644&idx=1&sn=7d811d616fe47f845fcb0ce9382ad642&chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd)  
 - [2025-06-12-WebWorker-即将被取代！JS-发布全新-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504640&idx=1&sn=a7652f9d4510c7c67948045a39d7b78b&chksm=ce45c691f9324f87dbb9cb1f12f0547d88a8e141d94bea7867f15bb1942a0b0ab09656585e5e#rd)  
 - [2025-06-11-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504638&idx=1&sn=2f36c33202f5c18706f04eaa10e3912e&chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd)  
-- [2025-06-10-刚刚！尤雨溪终于透露-2025-年-Vue-的全新计划](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504631&idx=1&sn=1f078f584bacc751a9dd33cd90e69ba7&chksm=ce45c766f9324e70cccedff9dc89f2eadc547f6a1cf01b38cb9e47a9e0396a7ab6d92474e901#rd)  
-- [2025-06-08-漫谈：前端牛马，在广州租房是什么感受](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504630&idx=1&sn=ac9198f2a260440a07e58d3df6e7698f&chksm=ce45c767f9324e71c8a28a359f273d547ed3343fc4cf088431edee764f8931a90c13add7d946#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-04T14:10:23.402Z</updated>
+    <updated>2025-07-04T16:11:43.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[Vue3 新特性：原来watch 也能“暂停”和“恢复”了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526961&amp;idx=1&amp;sn=54113f77d27a8c7a2e68ad56bd481001&amp;chksm=f9926ce0cee5e5f6182f8d8670257ea1c7bc9f52041312ff2349b646c066a86809a875363116#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526961&amp;idx=1&amp;sn=54113f77d27a8c7a2e68ad56bd481001&amp;chksm=f9926ce0cee5e5f6182f8d8670257ea1c7bc9f52041312ff2349b646c066a86809a875363116#rd"/>
+        <updated>2025-07-03T00:00:00.000Z</updated>
+        <published>2025-07-03T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS 颠覆性 API 通过官方提案，即将发布！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504882&amp;idx=1&amp;sn=bc4c9e0cc6755d06050e394b40702f42&amp;chksm=ce45c663f9324f75bdea076839b40b2ad956f264651ee2eb016ba8b9b1c1d41b5f1cf7b6f75c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504882&amp;idx=1&amp;sn=bc4c9e0cc6755d06050e394b40702f42&amp;chksm=ce45c663f9324f75bdea076839b40b2ad956f264651ee2eb016ba8b9b1c1d41b5f1cf7b6f75c#rd"/>
         <updated>2025-07-03T00:00:00.000Z</updated>
         <published>2025-07-03T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue3 + 一个冷门 API，实现了浏览器多屏投屏，效果太惊艳了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526535&amp;idx=1&amp;sn=a435be768a033728e2d3284a53e20155&amp;chksm=f9926e56cee5e7407a46fa4ad7bb037197251293e6bfe644c77f5eb8c0a3e653908220bd869b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526535&amp;idx=1&amp;sn=a435be768a033728e2d3284a53e20155&amp;chksm=f9926e56cee5e7407a46fa4ad7bb037197251293e6bfe644c77f5eb8c0a3e653908220bd869b#rd"/>
-        <updated>2025-06-16T00:00:00.000Z</updated>
-        <published>2025-06-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tauri vs. Electron：性能、体积与真实权衡]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
