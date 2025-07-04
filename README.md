@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-03 12:22:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-04 08:48:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-07-03-【第3542期】新活动平台建设历程与架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276884&idx=1&sn=c8dcd8d0a88db5400342333ccaa1ce93&chksm=bcf0835456709980fb946b70829ba9fb7988729418db1d660646bea28c501a282713db650894&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-03-【第3542期】新活动平台建设历程与架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276884&idx=1&sn=c8dcd8d0a88db5400342333ccaa1ce93&chksm=bcf0835456709980fb946b70829ba9fb7988729418db1d660646bea28c501a282713db650894&scene=0#rd)  
 - [2025-07-02-【第3541期】工程团队如何有效采用-AI-编程工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276877&idx=1&sn=861c346ea6ac900f498eb6a2e3e57cec&chksm=bca04efba0d8bf2f9a5248543b19a943de3d9aaf0a72078ce85c550828efa6856ad451f9623e&scene=0#rd)  
 - [2025-07-01-【招聘】百度招聘-ECharts-实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=2&sn=53104cd5f848217ed181acf1dc6d022f&chksm=bcb681c3c5c7f9ffd9a1719bca145646174f1a5feec04f7e62525744ec79f88a83a1d8951c78&scene=0#rd)  
 - [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-07-03-Lovart中文版刚刚上线，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503240&idx=1&sn=0ac6c889629b1556f8d7a8b2c69ea5ec&chksm=c2b30c77f5c48561da47d3d460c60abc288f9520ead72d9948b83e10ab06592570e6ec7887cf#rd) ![](/assets/new.png)  
 - [2025-06-26-Kimi-终于悟了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503119&idx=1&sn=cbbcec9440d25a00a8ac65e4ae4d03db&chksm=c2b30cf0f5c485e643e6e8c8f286e5f57199413612dda9ca3a9430e4bd3be3c12756f4a47403#rd)  
 - [2025-06-24-Fellou，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503035&idx=1&sn=38fbb4322ca000bedfd921348ad30370&chksm=c2b30d44f5c484527638fe329a344f40f92ca50273b042ce2c126b6cd280b349f1a33b2fc11f#rd)  
 - [2025-06-23-MiniMax-Agent实测，靠谱的赛博朋友](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503008&idx=1&sn=400070dd066e6026652dd53c26d6fa94&chksm=c2b30d5ff5c4844987dacac241b0fe847307bfefd6aea523e9657fea42dba422807966f5b097#rd)  
@@ -407,7 +408,6 @@
 - [2025-05-08-豆包超能创意，开“外挂”了？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502503&idx=1&sn=bc3c79d4cfa050ae5b543ab31790f8b8&chksm=c2b30b58f5c4824e9c0a63ecbcdc7c9af90e61c0ba7a0761e4bf8c0edcbfbb0570bab64ef793#rd)  
 - [2025-05-04-NotebookLM终于支持中文，太6了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502480&idx=1&sn=9438cad881f0b7d534a9bbabcc3b204b&chksm=c2b30b6ff5c4827973971ab8fe7b4bc755b26a39785d1c5a07c6ee51ef926ea30e8b2bfd4f0d#rd)  
 - [2025-05-03-Qwen3把自己打爆了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502456&idx=1&sn=3930afd8606aa3da14facb44121e3596&chksm=c2b30b87f5c48291f16fc5a71fe37db028efe24743c5c02be312cacb74ebb362f4b267a8d2dd#rd)  
-- [2025-04-28-没了Gamma，我都不会做PPT了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502435&idx=1&sn=0d0b054bb8a33f5dec16573c1a785172&chksm=c2b30b9cf5c4828a5303573a93b143b13fb128996849583ac55618abd075bc7297bddcbefc17#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
