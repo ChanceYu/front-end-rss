@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-07-04 20:18:41。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-07-04 22:10:23。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -330,6 +330,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)
 - [【JavaScript-Weekly】Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)
 - [【JavaScript-Weekly】Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)
 - [【JavaScript-Weekly】A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)
 - [【JavaScript-Weekly】JSConf-is-back](https://javascriptweekly.com/issues/712)
 - [【JavaScript-Weekly】Cutting-JavaScript-into-two:-trick-or-treat?](https://javascriptweekly.com/issues/711)
-- [【JavaScript-Weekly】A-huge-week-for-both-Svelte-and-Next.js](https://javascriptweekly.com/issues/710)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-04T12:18:42.102Z</updated>
+    <updated>2025-07-04T14:10:23.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[URL地址末尾加不加 "/" 有什么区别]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527018&amp;idx=1&amp;sn=6ef9ab739978afc8f697c1fd3261a9c5&amp;chksm=f9926cbbcee5e5adaf85da888106bca1fa9a986d199387a3488bed436671fac8ff502cd060c9#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527018&amp;idx=1&amp;sn=6ef9ab739978afc8f697c1fd3261a9c5&amp;chksm=f9926cbbcee5e5adaf85da888106bca1fa9a986d199387a3488bed436671fac8ff502cd060c9#rd"/>
+        <updated>2025-07-04T00:00:00.000Z</updated>
+        <published>2025-07-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The dog days of JavaScript summer]]></title>
+        <id>https://javascriptweekly.com/issues/743</id>
+        <link href="https://javascriptweekly.com/issues/743"/>
         <updated>2025-07-04T00:00:00.000Z</updated>
         <published>2025-07-04T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Tauri vs. Electron：性能、体积与真实权衡]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=2&amp;sn=34b9a33faaf10199f6b958c9e9cc24f3&amp;chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd"/>
-        <updated>2025-06-16T00:00:00.000Z</updated>
-        <published>2025-06-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub 第 10 亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622639&amp;idx=1&amp;sn=ba4890f461f44440d9b601821f75a005&amp;chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd"/>
         <updated>2025-06-16T00:00:00.000Z</updated>
         <published>2025-06-16T00:00:00.000Z</published>
     </entry>
