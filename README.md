@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-04 18:11:19，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-04 20:18:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,14 +25,14 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-07-04-URL地址末尾加不加-"/"-有什么区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527018&idx=1&sn=6ef9ab739978afc8f697c1fd3261a9c5&chksm=f9926cbbcee5e5adaf85da888106bca1fa9a986d199387a3488bed436671fac8ff502cd060c9#rd) ![](/assets/new.png)  
-- [2025-07-03-Vue3-新特性：原来watch-也能“暂停”和“恢复”了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526961&idx=1&sn=54113f77d27a8c7a2e68ad56bd481001&chksm=f9926ce0cee5e5f6182f8d8670257ea1c7bc9f52041312ff2349b646c066a86809a875363116#rd) ![](/assets/new.png)  
+- [2025-07-04-URL地址末尾加不加-"/"-有什么区别](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527018&idx=1&sn=6ef9ab739978afc8f697c1fd3261a9c5&chksm=f9926cbbcee5e5adaf85da888106bca1fa9a986d199387a3488bed436671fac8ff502cd060c9#rd)  
+- [2025-07-03-Vue3-新特性：原来watch-也能“暂停”和“恢复”了！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526961&idx=1&sn=54113f77d27a8c7a2e68ad56bd481001&chksm=f9926ce0cee5e5f6182f8d8670257ea1c7bc9f52041312ff2349b646c066a86809a875363116#rd)  
 - [2025-07-02-【附源码】牺牲两天摸鱼时间，我做了款大屏](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526944&idx=1&sn=c4600aca6ed13106e5c7b61420491f0a&chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd)  
 - [2025-07-01-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526895&idx=1&sn=8bd63f1c22742094ca12eaeb4614746c&chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd)  
 - [2025-06-30-像高手一样调试程序](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247526806&idx=1&sn=39bd305fccc427d1a4129fc89d13d85a&chksm=f9926f47cee5e65170e376d8782c33e67ab5c15239f6ab5bf5564dd8876a1832aab0ae92decf#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-07-04-淘宝直播数字人：服务端工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540818&idx=1&sn=65937e44df3fc196fa65db0d62cfa9e0&chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd)  
 - [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd)  
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-05-21-CursorRules：AI编程助手规则调优实战](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540219&idx=1&sn=a836c75389554ffd0f4a02166e8737d8&chksm=82bb1bf8d7e7fb50f6ac00b8a7e9086b4d4e68fbb7c1993262c3ab59d311d301ea0dcaf4b3d5&scene=0#rd)  
 - [2025-05-19-淘天⾃营质量技术AI智能体的实践和思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540203&idx=1&sn=bca98ed83a52317cf469979ca6466728&chksm=826cc0bbb0cb9ed717a18bb15e2c1a8d146ffab5f88892f1e7e329dc54fc350ff2743ee15e88&scene=0#rd)  
 - [2025-05-16-JianYi:-淘宝家装行业的分割&amp;抠图系统](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540176&idx=1&sn=9cf95ad8cc49f7a5aa57a7ba6d172e47&chksm=8251fc1484e7fb9243e1770af6f4731d459a2512555fcae3d5fbdb65f6a4fff89633e43b3745&scene=0#rd)  
-- [2025-05-14-浅谈团队代码风格/结构一致性](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539951&idx=1&sn=6aac8c34c6d1d680caf981ea285c6d79&chksm=82f0faaac664eb46447e034f5357f28459b1d9df966db5a0bf21423c8eb4aa095f7c7e55b28b&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
