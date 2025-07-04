@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-04T04:20:50.454Z</updated>
+    <updated>2025-07-04T10:11:19.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[URL地址末尾加不加 "/" 有什么区别]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527018&amp;idx=1&amp;sn=6ef9ab739978afc8f697c1fd3261a9c5&amp;chksm=f9926cbbcee5e5adaf85da888106bca1fa9a986d199387a3488bed436671fac8ff502cd060c9#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527018&amp;idx=1&amp;sn=6ef9ab739978afc8f697c1fd3261a9c5&amp;chksm=f9926cbbcee5e5adaf85da888106bca1fa9a986d199387a3488bed436671fac8ff502cd060c9#rd"/>
+        <updated>2025-07-04T00:00:00.000Z</updated>
+        <published>2025-07-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 新特性：原来watch 也能“暂停”和“恢复”了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526961&amp;idx=1&amp;sn=54113f77d27a8c7a2e68ad56bd481001&amp;chksm=f9926ce0cee5e5f6182f8d8670257ea1c7bc9f52041312ff2349b646c066a86809a875363116#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526961&amp;idx=1&amp;sn=54113f77d27a8c7a2e68ad56bd481001&amp;chksm=f9926ce0cee5e5f6182f8d8670257ea1c7bc9f52041312ff2349b646c066a86809a875363116#rd"/>
+        <updated>2025-07-03T00:00:00.000Z</updated>
+        <published>2025-07-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人：音视频&算法工程技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540813&amp;idx=1&amp;sn=58818d07ce2665bdc719d13b451d82c7&amp;chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&amp;scene=0#rd</id>
@@ -92,16 +106,16 @@
         <published>2025-06-30T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[组件通讯要注意内存泄露]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd"/>
+        <title type="html"><![CDATA[快速掌握 Docker：前端开发者也能轻松玩转容器化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd"/>
         <updated>2025-06-29T00:00:00.000Z</updated>
         <published>2025-06-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[快速掌握 Docker：前端开发者也能轻松玩转容器化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd"/>
+        <title type="html"><![CDATA[组件通讯要注意内存泄露]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd"/>
         <updated>2025-06-29T00:00:00.000Z</updated>
         <published>2025-06-29T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/"/>
-        <updated>2025-06-13T00:00:00.000Z</updated>
-        <published>2025-06-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set集合新特性，快速实现一个商品SKU(单品)规格选择器]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526520&amp;idx=1&amp;sn=514eae4e3aa2bf3eb8d99c508d13af5a&amp;chksm=f9926ea9cee5e7bf803c44de5d4b489792e69155f5741232fd1d95518683b2956f8f70dd7452#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526520&amp;idx=1&amp;sn=514eae4e3aa2bf3eb8d99c508d13af5a&amp;chksm=f9926ea9cee5e7bf803c44de5d4b489792e69155f5741232fd1d95518683b2956f8f70dd7452#rd"/>
-        <updated>2025-06-13T00:00:00.000Z</updated>
-        <published>2025-06-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 终于可以共享自己的屏幕给别人看了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504644&amp;idx=1&amp;sn=7d811d616fe47f845fcb0ce9382ad642&amp;chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504644&amp;idx=1&amp;sn=7d811d616fe47f845fcb0ce9382ad642&amp;chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd"/>
         <updated>2025-06-13T00:00:00.000Z</updated>
         <published>2025-06-13T00:00:00.000Z</published>
     </entry>
