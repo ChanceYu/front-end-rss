@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-07T06:15:41.371Z</updated>
+    <updated>2025-07-07T12:18:32.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,6 +22,13 @@
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尤雨溪亲自推荐的库，又是一全栈利器！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504941&amp;idx=1&amp;sn=1cb784793cc13d7d1dafd6ca59806ba1&amp;chksm=ce45c1bcf93248aa235bafe4788d1fd7ad4627a7d19ef81598fd8d94523cae97277cb8862c77#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504941&amp;idx=1&amp;sn=1cb784793cc13d7d1dafd6ca59806ba1&amp;chksm=ce45c1bcf93248aa235bafe4788d1fd7ad4627a7d19ef81598fd8d94523cae97277cb8862c77#rd"/>
+        <updated>2025-07-07T00:00:00.000Z</updated>
+        <published>2025-07-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
@@ -34,6 +41,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端动画的神级网站 Uiverse.io，复制粘贴就能为所欲为！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504940&amp;idx=1&amp;sn=6d9bf3d7d362764517ab29ab86f299ae&amp;chksm=ce45c1bdf93248ab2c27ec7ae57aaa01cac03d1a93dc65a6795df1f643931765efbe0b9217ea#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504940&amp;idx=1&amp;sn=6d9bf3d7d362764517ab29ab86f299ae&amp;chksm=ce45c1bdf93248ab2c27ec7ae57aaa01cac03d1a93dc65a6795df1f643931765efbe0b9217ea#rd"/>
+        <updated>2025-07-06T00:00:00.000Z</updated>
+        <published>2025-07-06T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[淘宝直播数字人：服务端工程技术]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276714&amp;idx=1&amp;sn=645fa1df37dd571ccd07f1593bea5877&amp;chksm=bcdc0c089fa012d159c1a1f421abd20d84232b786521e800f4e3375ef2955c20eddf5f79d00d&amp;scene=0#rd"/>
         <updated>2025-06-18T00:00:00.000Z</updated>
         <published>2025-06-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 神级工具：终于可以实现打字的动画效果了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504653&amp;idx=1&amp;sn=18eca87b06886530d2ace957db3401a5&amp;chksm=ce45c69cf9324f8aeafa6618bb5b832eeda35e357494a7f451eff9ef8ffec34d39b918c862ad#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504653&amp;idx=1&amp;sn=18eca87b06886530d2ace957db3401a5&amp;chksm=ce45c69cf9324f8aeafa6618bb5b832eeda35e357494a7f451eff9ef8ffec34d39b918c862ad#rd"/>
-        <updated>2025-06-17T00:00:00.000Z</updated>
-        <published>2025-06-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3530期】像高手一样调试程序]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276703&amp;idx=1&amp;sn=ca509102e6d3c942d58f6d8e88aa2734&amp;chksm=bcced903beb818deadc01126ab28cd9bb0fbf310b6dd6e5472b99b00fbbe2fdbfff51dcd2b81&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276703&amp;idx=1&amp;sn=ca509102e6d3c942d58f6d8e88aa2734&amp;chksm=bcced903beb818deadc01126ab28cd9bb0fbf310b6dd6e5472b99b00fbbe2fdbfff51dcd2b81&amp;scene=0#rd"/>
-        <updated>2025-06-17T00:00:00.000Z</updated>
-        <published>2025-06-17T00:00:00.000Z</published>
     </entry>
 </feed>

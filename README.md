@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-07 14:15:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-07 20:18:32，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,8 +22,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -37,7 +37,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-07-06-假简历狂骗硅谷10+家AI公司、拿多头薪水被锤！印度工程师喊冤：每周拼140小时，我也很绝望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526136&idx=1&sn=f0835fd40dbea75ee0dfe525866da446&chksm=f952d3bbce255aadbbb74d9ac81060446fb9a2e621b831df19ca4e1e1ec9ea7cf3f6b92ee6f3#rd) ![](/assets/new.png)  
+- [2025-07-06-假简历狂骗硅谷10+家AI公司、拿多头薪水被锤！印度工程师喊冤：每周拼140小时，我也很绝望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526136&idx=1&sn=f0835fd40dbea75ee0dfe525866da446&chksm=f952d3bbce255aadbbb74d9ac81060446fb9a2e621b831df19ca4e1e1ec9ea7cf3f6b92ee6f3#rd)  
 - [2025-06-26-React-被指“沦为-Vercel-打工仔”，力推框架只为圈钱？核心成员亲自下场回应却遭群嘲](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526131&idx=1&sn=cbeadea0537659a67e31db16b0990443&chksm=f952d3b0ce255aa6d613d7ed946d50a81ef4b98e75fbfd1f9be0fdc21d6c60ede02e48e1d202#rd)  
 - [2025-06-22-Angular-v20发布](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526116&idx=1&sn=70b21a0e0bf131f667a08f312ae9ea24&chksm=f952d3a7ce255ab1d7c21b608e3d7b0cbb42845dcdee80b7ab58e41dea9aa7aa28265cee0e3f#rd)  
 - [2025-06-12-苹果12年首次大改UI，还炮轰“跨平台”框架！“液态玻璃”会是Flutter开发者的“至暗时刻”吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526083&idx=1&sn=1af1bec8b7c437583c7ac41b77f5ffb1&chksm=f952d380ce255a969c6c107d754c8b9350aca5e780561b16e5cdfb0386bb0ec0cb9ebd7de54e#rd)  
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-07-07-尤雨溪亲自推荐的库，又是一全栈利器！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504941&idx=1&sn=1cb784793cc13d7d1dafd6ca59806ba1&chksm=ce45c1bcf93248aa235bafe4788d1fd7ad4627a7d19ef81598fd8d94523cae97277cb8862c77#rd) ![](/assets/new.png)  
+- [2025-07-06-前端动画的神级网站-Uiverse.io，复制粘贴就能为所欲为！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504940&idx=1&sn=6d9bf3d7d362764517ab29ab86f299ae&chksm=ce45c1bdf93248ab2c27ec7ae57aaa01cac03d1a93dc65a6795df1f643931765efbe0b9217ea#rd) ![](/assets/new.png)  
+- [2025-07-05-分享-12-个超级实用的前端工具，可能就是你一直在寻找的！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504902&idx=1&sn=f4b93120acf1caa279de270369b9c295&chksm=ce45c197f93248816c115b4804f1bcb8102c36829080f23198a31d81ff507522dff29bdbe703#rd) ![](/assets/new.png)  
 - [2025-07-04-这班上的值不值？我总结了一个公式【进化版】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504896&idx=1&sn=72ea3d76048610ad296e613ec8e7763e&chksm=ce45c191f93248878b8a1aeeefc5444da00878335c67606e34e558088b6084217b4de7347bbd#rd)  
 - [2025-07-03-JS-颠覆性-API-通过官方提案，即将发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504882&idx=1&sn=bc4c9e0cc6755d06050e394b40702f42&chksm=ce45c663f9324f75bdea076839b40b2ad956f264651ee2eb016ba8b9b1c1d41b5f1cf7b6f75c#rd)  
 - [2025-07-02-多益网络不服！扬言要搬离广州！裁员-1000人！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504881&idx=1&sn=54e2b8c052a0b8ad0b91fabc51240ef8&chksm=ce45c660f9324f76361d99c7fc5b8d0be4730bab4fc0d5080fce167cfd6fe5febd2d87895d35#rd)  
@@ -219,9 +222,6 @@
 - [2025-06-16-ElementPlus-被发现重大-BUG！可能会让页面崩掉！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504652&idx=1&sn=a4664e17ec2a923fcd94375a2a743692&chksm=ce45c69df9324f8b392c53bced2b79b009d914aae279a4841028a0f92d81fa46952240c43bee#rd)  
 - [2025-06-15-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504646&idx=1&sn=1235efd39234530c338a3b3a4039956b&chksm=ce45c697f9324f8187ea379bb4646859c2cd69d8f6cdb856c6b685633de48ccf2b1f7f8c6d47#rd)  
 - [2025-06-14-8-个几乎能替代一整个开发团队的AI工具](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504645&idx=1&sn=5de91068173c5d6c6d1c4397252cb5ac&chksm=ce45c694f9324f82c7481b4640afa787db8d430424cf7a48f480be40577e7cceb21093ea25d2#rd)  
-- [2025-06-13-Vue3-终于可以共享自己的屏幕给别人看了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504644&idx=1&sn=7d811d616fe47f845fcb0ce9382ad642&chksm=ce45c695f9324f83602c7027949491841c0c49cf906bd7e296602c10335b3a8970ca1955a4e1#rd)  
-- [2025-06-12-WebWorker-即将被取代！JS-发布全新-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504640&idx=1&sn=a7652f9d4510c7c67948045a39d7b78b&chksm=ce45c691f9324f87dbb9cb1f12f0547d88a8e141d94bea7867f15bb1942a0b0ab09656585e5e#rd)  
-- [2025-06-11-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504638&idx=1&sn=2f36c33202f5c18706f04eaa10e3912e&chksm=ce45c76ff9324e79bb8f57e6f3fc0ec53a8c39de7c2e4be14b2416bc5e36c8413a87b347a5fb#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -636,7 +636,7 @@
 </summary>
 
 
-- [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/) ![](/assets/new.png)  
+- [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/)  
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
