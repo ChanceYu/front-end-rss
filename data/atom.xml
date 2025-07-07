@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-07T04:25:08.790Z</updated>
+    <updated>2025-07-07T06:15:41.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[视频编辑，如何选择技术方案]]></title>
+        <id>https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/</id>
+        <link href="https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/"/>
+        <updated>2025-07-07T00:00:00.000Z</updated>
+        <published>2025-07-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【第3530期】像高手一样调试程序]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276703&amp;idx=1&amp;sn=ca509102e6d3c942d58f6d8e88aa2734&amp;chksm=bcced903beb818deadc01126ab28cd9bb0fbf310b6dd6e5472b99b00fbbe2fdbfff51dcd2b81&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276703&amp;idx=1&amp;sn=ca509102e6d3c942d58f6d8e88aa2734&amp;chksm=bcced903beb818deadc01126ab28cd9bb0fbf310b6dd6e5472b99b00fbbe2fdbfff51dcd2b81&amp;scene=0#rd"/>
-        <updated>2025-06-17T00:00:00.000Z</updated>
-        <published>2025-06-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One step closer to TypeScript]]></title>
-        <id>https://nodeweekly.com/issues/582</id>
-        <link href="https://nodeweekly.com/issues/582"/>
         <updated>2025-06-17T00:00:00.000Z</updated>
         <published>2025-06-17T00:00:00.000Z</published>
     </entry>
