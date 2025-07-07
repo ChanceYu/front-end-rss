@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-07T12:18:32.638Z</updated>
+    <updated>2025-07-07T18:13:36.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[尤雨溪亲自推荐的库，又是一全栈利器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504941&amp;idx=1&amp;sn=1cb784793cc13d7d1dafd6ca59806ba1&amp;chksm=ce45c1bcf93248aa235bafe4788d1fd7ad4627a7d19ef81598fd8d94523cae97277cb8862c77#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504941&amp;idx=1&amp;sn=1cb784793cc13d7d1dafd6ca59806ba1&amp;chksm=ce45c1bcf93248aa235bafe4788d1fd7ad4627a7d19ef81598fd8d94523cae97277cb8862c77#rd"/>
+        <updated>2025-07-07T00:00:00.000Z</updated>
+        <published>2025-07-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯：鸿蒙架构特殊，微信适配必须从零重写代码]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622745&amp;idx=1&amp;sn=5bbf8fa9132fd7cb04402b04a68628af&amp;chksm=80225a98b755d38e3d037425edd0b35ad9dd957392b4e37d7e4cd252ecdf24654a15bd6885fe#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622745&amp;idx=1&amp;sn=5bbf8fa9132fd7cb04402b04a68628af&amp;chksm=80225a98b755d38e3d037425edd0b35ad9dd957392b4e37d7e4cd252ecdf24654a15bd6885fe#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Cursor 内部工作原理]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622667&amp;idx=1&amp;sn=0f763faadb97f5b97d416b979ee6db93&amp;chksm=80225acab755d3dcb6024b50b5ed9cf9ce35915c4e7a067baab2cedd29b51b5e69a6f2c11c1c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622667&amp;idx=1&amp;sn=0f763faadb97f5b97d416b979ee6db93&amp;chksm=80225acab755d3dcb6024b50b5ed9cf9ce35915c4e7a067baab2cedd29b51b5e69a6f2c11c1c#rd"/>
-        <updated>2025-06-18T00:00:00.000Z</updated>
-        <published>2025-06-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3531期】了解声明式 Web推送]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276714&amp;idx=1&amp;sn=645fa1df37dd571ccd07f1593bea5877&amp;chksm=bcdc0c089fa012d159c1a1f421abd20d84232b786521e800f4e3375ef2955c20eddf5f79d00d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276714&amp;idx=1&amp;sn=645fa1df37dd571ccd07f1593bea5877&amp;chksm=bcdc0c089fa012d159c1a1f421abd20d84232b786521e800f4e3375ef2955c20eddf5f79d00d&amp;scene=0#rd"/>
         <updated>2025-06-18T00:00:00.000Z</updated>
         <published>2025-06-18T00:00:00.000Z</published>
     </entry>
