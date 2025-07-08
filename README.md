@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-08 02:13:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-08 08:48:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -34,7 +34,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-07-07-腾讯：鸿蒙架构特殊，微信适配必须从零重写代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622745&idx=1&sn=5bbf8fa9132fd7cb04402b04a68628af&chksm=80225a98b755d38e3d037425edd0b35ad9dd957392b4e37d7e4cd252ecdf24654a15bd6885fe#rd) ![](/assets/new.png)  
+- [2025-07-07-腾讯：鸿蒙架构特殊，微信适配必须从零重写代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622745&idx=1&sn=5bbf8fa9132fd7cb04402b04a68628af&chksm=80225a98b755d38e3d037425edd0b35ad9dd957392b4e37d7e4cd252ecdf24654a15bd6885fe#rd)  
 - [2025-07-01-免费！免服务器！前端新手也能用的部署神器-——-PinMe](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622739&idx=1&sn=3f0694416f8a92d33a3df2b318d43ce3&chksm=80225a92b755d384c5af051afbec44823ceb8393aa0fb6184dd6750dc32b0627ffecb4332397#rd)  
 - [2025-06-30-2-万程序员签名！Node.js-之父炮轰-Oracle，这事对行业有重大影响。网友直呼：它就是寄生虫](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622738&idx=1&sn=f61de832573b838672444d309f6c60b7&chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd)  
 - [2025-06-26-NodeJS+LLM搭建一个属于自己的知识库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622717&idx=1&sn=26366b5c3852a4cb292d9aade0842846&chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd)  
@@ -543,6 +543,8 @@
 </summary>
 
 
+- [2025-07-04-科技爱好者周刊（第-355-期）：两本《芯片战争》](http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html) ![](/assets/new.png)  
+- [2025-06-27-科技爱好者周刊（第-354-期）：8000mAh-手机电池，说明了什么？](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html) ![](/assets/new.png)  
 - [2025-06-24-国产-AI-网页开发工具：豆包-AI-编程简单测评](http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html)  
 - [2025-06-20-科技爱好者周刊（第-353-期）：苹果的"液态玻璃"是为了-AR](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html)  
 - [2025-06-13-科技爱好者周刊（第-352-期）：Bug-追踪系统的正确样子](http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html)  
@@ -561,8 +563,6 @@
 - [2024-09-20-科技爱好者周刊（第-318-期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html)  
 - [2024-09-13-科技爱好者周刊（第-317-期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)  
 - [2024-09-11-白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)  
-- [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)  
-- [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
 - [查看更多 >](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
