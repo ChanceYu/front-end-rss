@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-09T04:24:24.921Z</updated>
+    <updated>2025-07-09T20:10:45.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[印度程序员一人兼 4 份全职，还拿下年薪 20 万美元 Offer：请病假的时候，竟在 GitHub 上给别家写代码？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd"/>
+        <updated>2025-07-09T00:00:00.000Z</updated>
+        <published>2025-07-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3546期】如何让 CKEditor 缩小 40% 的：一次深入的包体积优化探索]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276911&amp;idx=1&amp;sn=fe053d1f31a6c1e3b684933492315597&amp;chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[三行CSS代码把网页像素化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526619&amp;idx=1&amp;sn=6469f314bda1326ab89122287aab57f8&amp;chksm=f9926e0acee5e71c96e4fdc601dd775d96dbb83c2d6c46625b2cd38f21aef526ae0ea38e22fc#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526619&amp;idx=1&amp;sn=6469f314bda1326ab89122287aab57f8&amp;chksm=f9926e0acee5e71c96e4fdc601dd775d96dbb83c2d6c46625b2cd38f21aef526ae0ea38e22fc#rd"/>
-        <updated>2025-06-19T00:00:00.000Z</updated>
-        <published>2025-06-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 官方发布了 8 个提升 Vue3 开发幸福感的小技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504685&amp;idx=1&amp;sn=9ba6dfe6aad1ec8be1eade6372446e75&amp;chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504685&amp;idx=1&amp;sn=9ba6dfe6aad1ec8be1eade6372446e75&amp;chksm=ce45c6bcf9324faad4a7a8ed44e78f7a2b55a1e27ce011974bd6475bc1d340a3c0f0a6ff73db#rd"/>
         <updated>2025-06-19T00:00:00.000Z</updated>
         <published>2025-06-19T00:00:00.000Z</published>
     </entry>
