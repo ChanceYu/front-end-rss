@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-08 22:10:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-09 12:24:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-07-09-【第3546期】如何让-CKEditor-缩小-40%-的：一次深入的包体积优化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276911&idx=1&sn=fe053d1f31a6c1e3b684933492315597&chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&scene=0#rd) 
 - [2025-07-07-【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=2&sn=0eb690e4a73f0a73b733fa4fdd8d4405&chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&scene=0#rd) 
 - [2025-06-27-【第3538期】为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&scene=0#rd) 
 - [2025-03-13-【第3472期】资源预加载可能会拖慢网站速度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651275975&idx=1&sn=272f942c61d92c7154a73f780f50c336&chksm=bca2184900a7bfc8a8fd6bd2476deb0fefd379f13b91a3b9a62949fde7c4114e5d055e526de7&scene=0#rd) 

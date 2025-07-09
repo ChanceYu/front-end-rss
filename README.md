@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-08 22:10:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-09 12:24:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585) ![](/assets/new.png)  
+- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
@@ -109,26 +109,26 @@
 </summary>
 
 
+- [2025-07-09-【第3546期】如何让-CKEditor-缩小-40%-的：一次深入的包体积优化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276911&idx=1&sn=fe053d1f31a6c1e3b684933492315597&chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-08-【第3545期】Cursor-+-MCP：双剑合璧，解锁极致编程效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276907&idx=1&sn=33654fdc95a0cdd2e440c6567d02d34d&chksm=bcb0827b2f3754f6ec1ac5b949a868a0e56d31fc059c8d3f3ff152de0358be2a63cab0e1acf6&scene=0#rd)  
-- [2025-07-07-【第3544期】2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=1&sn=b5559d363df571587480798ddf284321&chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&scene=0#rd)  
 - [2025-07-07-【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=2&sn=0eb690e4a73f0a73b733fa4fdd8d4405&chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&scene=0#rd)  
+- [2025-07-07-【第3544期】2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=1&sn=b5559d363df571587480798ddf284321&chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&scene=0#rd)  
 - [2025-07-04-【第3543期】良好的用户体验设计，是否能帮助老年人防范网络诈骗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276888&idx=1&sn=8160fe17f856766f203ac4ca092a052c&chksm=bc075b6559342abc8706c8ffec17ffcf59ef8b387626223032f3261b441e65d5e1aaf098d787&scene=0#rd)  
 - [2025-07-03-【第3542期】新活动平台建设历程与架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276884&idx=1&sn=c8dcd8d0a88db5400342333ccaa1ce93&chksm=bcf0835456709980fb946b70829ba9fb7988729418db1d660646bea28c501a282713db650894&scene=0#rd)  
 - [2025-07-02-【第3541期】工程团队如何有效采用-AI-编程工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276877&idx=1&sn=861c346ea6ac900f498eb6a2e3e57cec&chksm=bca04efba0d8bf2f9a5248543b19a943de3d9aaf0a72078ce85c550828efa6856ad451f9623e&scene=0#rd)  
-- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd)  
 - [2025-07-01-【招聘】百度招聘-ECharts-实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=2&sn=53104cd5f848217ed181acf1dc6d022f&chksm=bcb681c3c5c7f9ffd9a1719bca145646174f1a5feec04f7e62525744ec79f88a83a1d8951c78&scene=0#rd)  
+- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd)  
 - [2025-06-30-【第3539期】部分关键帧：打造动态、可组合的-CSS-动画效果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276851&idx=1&sn=02cfef67be8ab024dac3fc2c22ad8e9d&chksm=bcad7b157893eabd0dcc125effef41bb6466010497c50eb5528586c96ad36412b2bd7f961554&scene=0#rd)  
-- [2025-06-27-【第3538期】为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&scene=0#rd)  
 - [2025-06-27-【图书】MCP极简开发：轻松打造高效智能体](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=2&sn=90330fde1b39db5372604f1c0e8624f3&chksm=bcee18256d1904a6f92b2c1f08b53877e03e0c42414df7410fbb52ef2acc45fe0959303a063d&scene=0#rd)  
-- [2025-06-26-【图书】MCP轻松学——全能AI实战宝典](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=2&sn=f93da25f3d88a5a35c146cbc9e7364af&chksm=bcc2f21f8c8e9d43912e1760d29fbe2ae7dcf472c2ae2af555be013879fd604c8eedd902aa86&scene=0#rd)  
+- [2025-06-27-【第3538期】为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276816&idx=1&sn=7709b2d3a30c019c478cb33468f26a0d&chksm=bc2750ac5c9980f20d54b022837e8ccb8ba997183773167fd5f92aea2ee5f7f358e8d6de8ff9&scene=0#rd)  
 - [2025-06-26-【第3537期】事件优先的用户界面：前端如何融入事件驱动的架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=1&sn=5fffe8eced0fad0d40f652b1a80d9fcb&chksm=bc2e290e5ede72c656255dcd7ce7458ce9fef1e90a0c04ebea45374f6cf7dae82ef80aa4e2a2&scene=0#rd)  
-- [2025-06-25-【第3536期】工程师的“氛围设计”指南（附实用提示词）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=1&sn=65e807385628c2f65e0468346c6a9045&chksm=bc82da16d581e2fb06943053ad36b17721059a65799e2f26a720fb49f0da55ef6bf7ec694122&scene=0#rd)  
+- [2025-06-26-【图书】MCP轻松学——全能AI实战宝典](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276808&idx=2&sn=f93da25f3d88a5a35c146cbc9e7364af&chksm=bcc2f21f8c8e9d43912e1760d29fbe2ae7dcf472c2ae2af555be013879fd604c8eedd902aa86&scene=0#rd)  
 - [2025-06-25-【招聘】微信数据平台招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=2&sn=3c2952944096aafd08c84fd31b5284a7&chksm=bd489c788a3f156ebdf0bdc9d80fa29a45355c6b5b437fff40362aa306e9c2a534a56e699586#rd)  
+- [2025-06-25-【第3536期】工程师的“氛围设计”指南（附实用提示词）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276796&idx=1&sn=65e807385628c2f65e0468346c6a9045&chksm=bc82da16d581e2fb06943053ad36b17721059a65799e2f26a720fb49f0da55ef6bf7ec694122&scene=0#rd)  
 - [2025-06-24-【第3535期】滴滴开源新项目Dimina星河，打造灵活轻量的小程序框架](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276774&idx=1&sn=da2be17301bd3f4658e5e30bd23c5f68&chksm=bcda12c171720dbd833e2b629e4bc21521ca890e1251eb13c73f50fb84feac29b8b801f8218a&scene=0#rd)  
 - [2025-06-23-【第3534期】让-Bug-自动“蒸发”！AI-神器——AIFix](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276753&idx=1&sn=a4c00879cb8ff8d899b97d1459020a98&chksm=bc725d697d4e4765b4c3bef22e2294d11d23cb9954db34f0287a51dcf18872a3a9c1c2ddba81&scene=0#rd)  
 - [2025-06-20-【第3533期】Cursor-AI-最佳实践：使用“金标准文件”工作流以获得更精确的结果](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276735&idx=1&sn=53efe1dcb5f8e4b494a08d80e84f6689&chksm=bcde831d194d47e47d72d7b9038ec8bdda99bd5c811e7fbd711de77a944ee5aee3d616e21c6a&scene=0#rd)  
 - [2025-06-19-【第3532期】错误页面演变史：如何让失误变得顺理成章](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276722&idx=1&sn=6e25f8adaf132da217b08085a7fcab0a&chksm=bc6b9fef568e34e49b7e3c54257e12f98bd84eec6b6979f90087bbce2195f9486b7d4f15b83d&scene=0#rd)  
-- [2025-06-18-【第3531期】了解声明式-Web推送](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276714&idx=1&sn=645fa1df37dd571ccd07f1593bea5877&chksm=bcdc0c089fa012d159c1a1f421abd20d84232b786521e800f4e3375ef2955c20eddf5f79d00d&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
