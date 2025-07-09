@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-09T20:10:45.986Z</updated>
+    <updated>2025-07-09T22:09:56.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue的@vue:mounted，我相信90%的人都没有用过吧？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504961&amp;idx=1&amp;sn=02ff0890aa90c65dca9346f9a9cfe9b3&amp;chksm=ce45c1d0f93248c6bc3dbf95e8a5355e4c8703d56ea259bf732c5c9b7ef8455c7e8dcf3c69e2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504961&amp;idx=1&amp;sn=02ff0890aa90c65dca9346f9a9cfe9b3&amp;chksm=ce45c1d0f93248c6bc3dbf95e8a5355e4c8703d56ea259bf732c5c9b7ef8455c7e8dcf3c69e2#rd"/>
+        <updated>2025-07-09T00:00:00.000Z</updated>
+        <published>2025-07-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度程序员一人兼 4 份全职，还拿下年薪 20 万美元 Offer：请病假的时候，竟在 GitHub 上给别家写代码？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/741"/>
         <updated>2025-06-20T00:00:00.000Z</updated>
         <published>2025-06-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三行CSS代码把网页像素化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526619&amp;idx=1&amp;sn=6469f314bda1326ab89122287aab57f8&amp;chksm=f9926e0acee5e71c96e4fdc601dd775d96dbb83c2d6c46625b2cd38f21aef526ae0ea38e22fc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526619&amp;idx=1&amp;sn=6469f314bda1326ab89122287aab57f8&amp;chksm=f9926e0acee5e71c96e4fdc601dd775d96dbb83c2d6c46625b2cd38f21aef526ae0ea38e22fc#rd"/>
-        <updated>2025-06-19T00:00:00.000Z</updated>
-        <published>2025-06-19T00:00:00.000Z</published>
     </entry>
 </feed>
