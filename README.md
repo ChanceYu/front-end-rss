@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-10 12:22:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-10 20:18:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-07-10-【第3547期】渐进式JSON](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276917&idx=1&sn=1cc382a66cc417fe94617ad3b7620265&chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-10-【第3547期】渐进式JSON](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276917&idx=1&sn=1cc382a66cc417fe94617ad3b7620265&chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&scene=0#rd)  
 - [2025-07-09-【第3546期】如何让-CKEditor-缩小-40%-的：一次深入的包体积优化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276911&idx=1&sn=fe053d1f31a6c1e3b684933492315597&chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&scene=0#rd)  
 - [2025-07-08-【第3545期】Cursor-+-MCP：双剑合璧，解锁极致编程效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276907&idx=1&sn=33654fdc95a0cdd2e440c6567d02d34d&chksm=bcb0827b2f3754f6ec1ac5b949a868a0e56d31fc059c8d3f3ff152de0358be2a63cab0e1acf6&scene=0#rd)  
 - [2025-07-07-【第3544期】2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=1&sn=b5559d363df571587480798ddf284321&chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&scene=0#rd)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/) ![](/assets/new.png)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
 - [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
@@ -531,7 +532,6 @@
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
-- [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
