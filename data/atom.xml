@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-11T12:18:06.860Z</updated>
+    <updated>2025-07-11T16:11:48.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3548期】全新 CSS if 函数将彻底改变样式写法]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276923&amp;idx=1&amp;sn=e7260e8cd7cf9b13dd6dcf9b6941d48b&amp;chksm=bc10cc64723a996ab9212ebe574ff3a217a7d0d08871636c1c08ea56eaeb15b3b55ca9ffd9ab&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276923&amp;idx=1&amp;sn=e7260e8cd7cf9b13dd6dcf9b6941d48b&amp;chksm=bc10cc64723a996ab9212ebe574ff3a217a7d0d08871636c1c08ea56eaeb15b3b55ca9ffd9ab&amp;scene=0#rd"/>
+        <updated>2025-07-11T00:00:00.000Z</updated>
+        <published>2025-07-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The details of TC39's last meeting]]></title>
+        <id>https://javascriptweekly.com/issues/744</id>
+        <link href="https://javascriptweekly.com/issues/744"/>
         <updated>2025-07-11T00:00:00.000Z</updated>
         <published>2025-07-11T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526666&amp;idx=1&amp;sn=5e3915ebbdab4b4ca543592f6712d901&amp;chksm=f9926fdbcee5e6cd65b01383133f00d06e4bb9331ec4b6716e993fcc6e4f1dc18728c29dbcdc#rd"/>
         <updated>2025-06-21T00:00:00.000Z</updated>
         <published>2025-06-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540634&amp;idx=1&amp;sn=d3dbd01a78bda38eb2045fefc3fd3287&amp;chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540634&amp;idx=1&amp;sn=d3dbd01a78bda38eb2045fefc3fd3287&amp;chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&amp;scene=0#rd"/>
-        <updated>2025-06-20T00:00:00.000Z</updated>
-        <published>2025-06-20T00:00:00.000Z</published>
     </entry>
 </feed>

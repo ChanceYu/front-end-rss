@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-07-04 22:10:23。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-12 00:11:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744) 
 - [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743) 
 - [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742) 
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741) 
