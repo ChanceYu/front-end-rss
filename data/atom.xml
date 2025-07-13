@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-13T06:14:24.128Z</updated>
+    <updated>2025-07-13T10:09:50.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[通过JS获取你当前的网络状况？建议大家学一学~]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505019&amp;idx=1&amp;sn=5d289bba322deeced88e1d74fb0beee4&amp;chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505019&amp;idx=1&amp;sn=5d289bba322deeced88e1d74fb0beee4&amp;chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd"/>
+        <updated>2025-07-13T00:00:00.000Z</updated>
+        <published>2025-07-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神库 Fuse.js，我愿称之为前端模糊搜索的王者！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505008&amp;idx=1&amp;sn=fdd7594b6bb3e48915d6ef00ad03d784&amp;chksm=ce45c1e1f93248f76f1619b48f5a4222eff6782d0df0561119b8451362dfdbe7feefbfe20536#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[pnpm 正逐步走出差异化路线，难怪其月下载量已经逼近 1 亿！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526785&amp;idx=1&amp;sn=34250a38f6dee5fc49f8f9dc95d22ac0&amp;chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526785&amp;idx=1&amp;sn=34250a38f6dee5fc49f8f9dc95d22ac0&amp;chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd"/>
-        <updated>2025-06-26T00:00:00.000Z</updated>
-        <published>2025-06-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitest 3.2 正式发布！宣布重大更新！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504799&amp;idx=1&amp;sn=afd12a034235fcf14d447b14527bb0c4&amp;chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd"/>
         <updated>2025-06-26T00:00:00.000Z</updated>
         <published>2025-06-26T00:00:00.000Z</published>
     </entry>
