@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-13T10:09:50.568Z</updated>
+    <updated>2025-07-14T03:25:35.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3549期】GitHub Actions 全面解析：工作流结构完整指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276930&amp;idx=1&amp;sn=30b1310665cc50bd4ac0f54b9073d10d&amp;chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276930&amp;idx=1&amp;sn=30b1310665cc50bd4ac0f54b9073d10d&amp;chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&amp;scene=0#rd"/>
+        <updated>2025-07-14T00:00:00.000Z</updated>
+        <published>2025-07-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过JS获取你当前的网络状况？建议大家学一学~]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505019&amp;idx=1&amp;sn=5d289bba322deeced88e1d74fb0beee4&amp;chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd</id>
@@ -155,16 +162,16 @@
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/742"/>
         <updated>2025-06-27T00:00:00.000Z</updated>
         <published>2025-06-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pnpm 正逐步走出差异化路线，难怪其月下载量已经逼近 1 亿！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526785&amp;idx=1&amp;sn=34250a38f6dee5fc49f8f9dc95d22ac0&amp;chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526785&amp;idx=1&amp;sn=34250a38f6dee5fc49f8f9dc95d22ac0&amp;chksm=f9926f50cee5e646675b7554d447878c75556ede4c773ef77e9bd024dc5eb74f5d38b1d3384a#rd"/>
-        <updated>2025-06-26T00:00:00.000Z</updated>
-        <published>2025-06-26T00:00:00.000Z</published>
     </entry>
 </feed>
