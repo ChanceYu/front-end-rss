@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-15 12:30:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-15 18:11:33，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-07-15-【第3550期】盘点字体性能优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276936&idx=1&sn=7aa45eb5f2c6b3314371b14ccc348820&chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-15-【第3550期】盘点字体性能优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276936&idx=1&sn=7aa45eb5f2c6b3314371b14ccc348820&chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&scene=0#rd)  
 - [2025-07-14-【第3549期】GitHub-Actions-全面解析：工作流结构完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276930&idx=1&sn=30b1310665cc50bd4ac0f54b9073d10d&chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&scene=0#rd)  
 - [2025-07-11-【第3548期】全新-CSS-if-函数将彻底改变样式写法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276923&idx=1&sn=e7260e8cd7cf9b13dd6dcf9b6941d48b&chksm=bc10cc64723a996ab9212ebe574ff3a217a7d0d08871636c1c08ea56eaeb15b3b55ca9ffd9ab&scene=0#rd)  
 - [2025-07-10-【第3547期】渐进式JSON](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276917&idx=1&sn=1cc382a66cc417fe94617ad3b7620265&chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&scene=0#rd)  
@@ -140,26 +140,26 @@
 </summary>
 
 
-- [2025-07-09-印度程序员一人兼-4-份全职，还拿下年薪-20-万美元-Offer：请病假的时候，竟在-GitHub-上给别家写代码？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622759&idx=1&sn=610ba886a63c4f8654b526acd838031a&chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd)  
+- [2025-07-15-前端行情跌到谷底了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622781&idx=1&sn=091a4497b716955572c017de1c263cc1&chksm=80225abcb755d3aaece66deff814f2863ca987725bbc7208316b0f4137d22cd072caa6275439#rd) ![](/assets/new.png)  
+- [2025-07-14-用-AI-提效的新方式：全面体验-Google-Gemini-CLI](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=2&sn=4637c5eb3e93cd8644ce2cd7f3d0469e&chksm=80225ab2b755d3a43f4e293cce80077c7fa063a02bc8cdb2f442aeac6500cf3b98074c57510d#rd) ![](/assets/new.png)  
+- [2025-07-14-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=1&sn=79e004fb4094e4c5104586aa052241e7&chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd) ![](/assets/new.png)  
 - [2025-07-09-当配置文件变成了代码：抽象过度的陷阱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622759&idx=2&sn=c342046999e092c99dfaa2c1ced6857b&chksm=80225aa6b755d3b071e4a1e80b7469f7ebf7d09cc6d9d7794e185c3df956587c5d7029a01214#rd)  
+- [2025-07-09-印度程序员一人兼-4-份全职，还拿下年薪-20-万美元-Offer：请病假的时候，竟在-GitHub-上给别家写代码？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622759&idx=1&sn=610ba886a63c4f8654b526acd838031a&chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd)  
 - [2025-07-07-腾讯：鸿蒙架构特殊，微信适配必须从零重写代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622745&idx=1&sn=5bbf8fa9132fd7cb04402b04a68628af&chksm=80225a98b755d38e3d037425edd0b35ad9dd957392b4e37d7e4cd252ecdf24654a15bd6885fe#rd)  
 - [2025-07-01-免费！免服务器！前端新手也能用的部署神器-——-PinMe](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622739&idx=1&sn=3f0694416f8a92d33a3df2b318d43ce3&chksm=80225a92b755d384c5af051afbec44823ceb8393aa0fb6184dd6750dc32b0627ffecb4332397#rd)  
 - [2025-06-30-2-万程序员签名！Node.js-之父炮轰-Oracle，这事对行业有重大影响。网友直呼：它就是寄生虫](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622738&idx=1&sn=f61de832573b838672444d309f6c60b7&chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd)  
 - [2025-06-26-NodeJS+LLM搭建一个属于自己的知识库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622717&idx=1&sn=26366b5c3852a4cb292d9aade0842846&chksm=80225afcb755d3ea1a500b5061cfdd332b03e40605db9fed000cfdf3e1329264826da3009a56#rd)  
-- [2025-06-24-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=1&sn=9a9f3c21e5ec3705ddda1f5fd6b076f2&chksm=80225aedb755d3fb79abdb5b5122e53ebfd4d6d8c6e0971bb520f46e78714ad6aee5a36ca768#rd)  
 - [2025-06-24-出了兼容性问题，被领导叼了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=2&sn=e14804593713350acc6c34b1addd8421&chksm=80225aedb755d3fbc6ac42cad2b8e18f3583e951fb0cdb347d46cbccdd44cac23bfef75dbb1c#rd)  
+- [2025-06-24-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622700&idx=1&sn=9a9f3c21e5ec3705ddda1f5fd6b076f2&chksm=80225aedb755d3fb79abdb5b5122e53ebfd4d6d8c6e0971bb520f46e78714ad6aee5a36ca768#rd)  
 - [2025-06-20-Vue3-+-一个冷门-API，实现了浏览器多屏投屏，效果太惊艳了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622684&idx=1&sn=ca2cd517988544bfffa2849fd5070aed&chksm=80225addb755d3cbc8383b2c55f1a26503c6841de6a9b7d44982ed98e408df2626a9191acca9#rd)  
 - [2025-06-18-Cursor-内部工作原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622667&idx=1&sn=0f763faadb97f5b97d416b979ee6db93&chksm=80225acab755d3dcb6024b50b5ed9cf9ce35915c4e7a067baab2cedd29b51b5e69a6f2c11c1c#rd)  
 - [2025-06-17-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622651&idx=1&sn=9a139e63e7b7fdfa484bae582e4cb73f&chksm=80225b3ab755d22c4a1bede345d26b34b98aad61c98147a8565b616a897a169382c6a03b3ea2#rd)  
-- [2025-06-16-GitHub-第-10-亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=1&sn=ba4890f461f44440d9b601821f75a005&chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd)  
 - [2025-06-16-Tauri-vs.-Electron：性能、体积与真实权衡](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=2&sn=34b9a33faaf10199f6b958c9e9cc24f3&chksm=80225b2eb755d238651e13c2e7461621aeff91aeb517f37f0d6f3688cedd04230cf9bcbf7698#rd)  
-- [2025-06-13-你以为的-Tailwind-并不高效，看看这些使用误区](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622620&idx=2&sn=11855076888fd41960580cb51c481a25&chksm=80225b1db755d20bfd12cfc0cce72a92a602a5618d0e8307e0c6d25d6fc34a0e3261691a7850#rd)  
+- [2025-06-16-GitHub-第-10-亿个仓库封神了！官方祝贺认证，全球程序员笑翻：就爱这野路子！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622639&idx=1&sn=ba4890f461f44440d9b601821f75a005&chksm=80225b2eb755d238a9aabcf0a6eb99620c8057968f4f34c02a233c9b9efba7030b18883a1491#rd)  
 - [2025-06-13-三大云厂同时瘫了？Cursor、ChatGPT跟着倒下！网友：整个互联网都要废了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622620&idx=1&sn=5ae1fc8a9fa26cd9ab98f0d7dadd1795&chksm=80225b1db755d20bc7ed56be227cba7f5d2b74ec039dbb5ef5e37aa664cf27897b9c401145d4#rd)  
-- [2025-06-11-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=2&sn=ed72daf288552172f135f179c56ab24f&chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd)  
+- [2025-06-13-你以为的-Tailwind-并不高效，看看这些使用误区](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622620&idx=2&sn=11855076888fd41960580cb51c481a25&chksm=80225b1db755d20bfd12cfc0cce72a92a602a5618d0e8307e0c6d25d6fc34a0e3261691a7850#rd)  
 - [2025-06-11-12年首次大改！真有人喜欢苹果的“液态玻璃”吗？至少Flutter-开发者的噩梦开始了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=1&sn=338b635ee345e515f14f14b2a9ebd9ad&chksm=80225b11b755d20778d12ae0f60ad29e2f66f45a6cbb9835b3de04a18637770d199ff7911071#rd)  
-- [2025-06-09-苹果炮轰推理模型全是假思考！4个游戏戳破神话，o3/DeepSeek高难度全崩溃](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=1&sn=23fe1edd76ee3d9483575903761f95d4&chksm=80225b03b755d2155ace1325039f34f8c167885b601a89ab395033065fd38e8d2251e59dc620#rd)  
-- [2025-06-09-记录一次前端项目代码Review](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622594&idx=2&sn=6e77057581ede4dc62e3909406280c87&chksm=80225b03b755d21547e708ed472bc6bc8caec920d6890c3dc9dcb8272dd1096b183cc10ad103#rd)  
-- [2025-06-06-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622580&idx=1&sn=7009c04c077563a7ec7a0b2fab364fb5&chksm=80225b75b755d26319bc2e14ee9742d9fca39349d16c4652d31719d900ac16184de67ef93025#rd)  
+- [2025-06-11-Mobile-Bridge：让-WebView-拥有原生体验](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622608&idx=2&sn=ed72daf288552172f135f179c56ab24f&chksm=80225b11b755d207f97460b9b4181c0580f99b50f4bb5c192f1b329c61e889cd235cba88a227#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-07-15-时隔多年，终于有一个图表库的颜值比-Echart-高好多倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505024&idx=1&sn=c49976add56a23a33535cf995e71d237&chksm=ce45c111f932480773bd8b1b59ba4ba171dba0c419f891a7ff2926d8e5c3b0bd8793df1d73db#rd) ![](/assets/new.png)  
+- [2025-07-14-前端的就业市场真是疯了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505023&idx=1&sn=30a51bd40c041bbeac7598fc19bb2e92&chksm=ce45c1eef93248f853ad680100050b6ce6a4c3278fd54ab4c5112665497b4cf52601d83554e6#rd) ![](/assets/new.png)  
 - [2025-07-13-通过JS获取你当前的网络状况？建议大家学一学~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505019&idx=1&sn=5d289bba322deeced88e1d74fb0beee4&chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd)  
 - [2025-07-12-神库-Fuse.js，我愿称之为前端模糊搜索的王者！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505008&idx=1&sn=fdd7594b6bb3e48915d6ef00ad03d784&chksm=ce45c1e1f93248f76f1619b48f5a4222eff6782d0df0561119b8451362dfdbe7feefbfe20536#rd)  
 - [2025-07-11-实现网页全屏，记住这个超实用的-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504996&idx=1&sn=b4c4a82b7bfed6b75552010de43ad1ba&chksm=ce45c1f5f93248e3182a818783282ff60b1f8f2336051a022dbea663afe72830e6744d183392#rd)  
@@ -220,8 +222,6 @@
 - [2025-06-28-前端最常用的25个正则表达式，代码效率提高-80%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504811&idx=1&sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd)  
 - [2025-06-27-最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504810&idx=1&sn=ec67f74b6b47162d4277a05c87fafdde&chksm=ce45c63bf9324f2defb761f4f878779f45ce0deec745d7b44d6ed347d3296a089734e37755a4#rd)  
 - [2025-06-26-Vitest-3.2-正式发布！宣布重大更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504799&idx=1&sn=afd12a034235fcf14d447b14527bb0c4&chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd)  
-- [2025-06-21-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第二弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504727&idx=1&sn=f7e41f452541f92522868ad70ebc3416&chksm=ce45c6c6f9324fd0cfa7166d075fc04f34c08338d84c5ededab3d95e7d17e18f7cd810e31e97#rd)  
-- [2025-06-20-VsCode-最新版发布，迎来重大更新](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504692&idx=1&sn=c4d0a06381f2324ea6b00c161341b798&chksm=ce45c6a5f9324fb3d762842d42ad5fe4382eb43d0a7d94c659056047d462e3c1a9a3662b40a2#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

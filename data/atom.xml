@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-15T04:30:52.822Z</updated>
+    <updated>2025-07-15T10:11:33.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[没想到！CSS 现在也能写 if / else 了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527150&amp;idx=1&amp;sn=ffdaf71492545be27ad37826ad3a923a&amp;chksm=f9926c3fcee5e5292a9621707c005ae31fc8079ed0bf689672f16b63cb6a01df97c9c2e29cd8#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527150&amp;idx=1&amp;sn=ffdaf71492545be27ad37826ad3a923a&amp;chksm=f9926c3fcee5e5292a9621707c005ae31fc8079ed0bf689672f16b63cb6a01df97c9c2e29cd8#rd"/>
+        <updated>2025-07-14T00:00:00.000Z</updated>
+        <published>2025-07-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ECMAScript 2025 正式发布！这 6 个新特性值得你关注]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622771&amp;idx=1&amp;sn=79e004fb4094e4c5104586aa052241e7&amp;chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622771&amp;idx=1&amp;sn=79e004fb4094e4c5104586aa052241e7&amp;chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd"/>
         <updated>2025-07-14T00:00:00.000Z</updated>
         <published>2025-07-14T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504811&amp;idx=1&amp;sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&amp;chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd"/>
         <updated>2025-06-28T00:00:00.000Z</updated>
         <published>2025-06-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播数字人：TTS语音合成技术]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540777&amp;idx=1&amp;sn=1abacfeabd3ae176250125dc48ded953&amp;chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540777&amp;idx=1&amp;sn=1abacfeabd3ae176250125dc48ded953&amp;chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&amp;scene=0#rd"/>
-        <updated>2025-06-27T00:00:00.000Z</updated>
-        <published>2025-06-27T00:00:00.000Z</published>
     </entry>
 </feed>
