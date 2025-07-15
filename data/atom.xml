@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-15T10:11:33.729Z</updated>
+    <updated>2025-07-15T16:13:01.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3550期】盘点字体性能优化方案]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276936&amp;idx=1&amp;sn=7aa45eb5f2c6b3314371b14ccc348820&amp;chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276936&amp;idx=1&amp;sn=7aa45eb5f2c6b3314371b14ccc348820&amp;chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&amp;scene=0#rd"/>
+        <updated>2025-07-15T00:00:00.000Z</updated>
+        <published>2025-07-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should Node switch to annual major releases?]]></title>
+        <id>https://nodeweekly.com/issues/586</id>
+        <link href="https://nodeweekly.com/issues/586"/>
         <updated>2025-07-15T00:00:00.000Z</updated>
         <published>2025-07-15T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=2&amp;sn=4358b9650a073f5ab1a1cfff28ced1b8&amp;chksm=f9926f5fcee5e6496c2474bb6677c1172aa80728aae6a3623db0c91bbb8103a309a856dc1397#rd"/>
         <updated>2025-06-29T00:00:00.000Z</updated>
         <published>2025-06-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端最常用的25个正则表达式，代码效率提高 80%]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504811&amp;idx=1&amp;sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&amp;chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504811&amp;idx=1&amp;sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&amp;chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd"/>
-        <updated>2025-06-28T00:00:00.000Z</updated>
-        <published>2025-06-28T00:00:00.000Z</published>
     </entry>
 </feed>

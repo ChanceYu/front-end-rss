@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-15 18:11:33，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-16 00:13:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586) ![](/assets/new.png)  
 - [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
@@ -66,7 +67,6 @@
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
-- [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,9 +140,9 @@
 </summary>
 
 
-- [2025-07-15-前端行情跌到谷底了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622781&idx=1&sn=091a4497b716955572c017de1c263cc1&chksm=80225abcb755d3aaece66deff814f2863ca987725bbc7208316b0f4137d22cd072caa6275439#rd) ![](/assets/new.png)  
-- [2025-07-14-用-AI-提效的新方式：全面体验-Google-Gemini-CLI](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=2&sn=4637c5eb3e93cd8644ce2cd7f3d0469e&chksm=80225ab2b755d3a43f4e293cce80077c7fa063a02bc8cdb2f442aeac6500cf3b98074c57510d#rd) ![](/assets/new.png)  
-- [2025-07-14-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=1&sn=79e004fb4094e4c5104586aa052241e7&chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd) ![](/assets/new.png)  
+- [2025-07-15-前端行情跌到谷底了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622781&idx=1&sn=091a4497b716955572c017de1c263cc1&chksm=80225abcb755d3aaece66deff814f2863ca987725bbc7208316b0f4137d22cd072caa6275439#rd)  
+- [2025-07-14-用-AI-提效的新方式：全面体验-Google-Gemini-CLI](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=2&sn=4637c5eb3e93cd8644ce2cd7f3d0469e&chksm=80225ab2b755d3a43f4e293cce80077c7fa063a02bc8cdb2f442aeac6500cf3b98074c57510d#rd)  
+- [2025-07-14-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=1&sn=79e004fb4094e4c5104586aa052241e7&chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd)  
 - [2025-07-09-当配置文件变成了代码：抽象过度的陷阱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622759&idx=2&sn=c342046999e092c99dfaa2c1ced6857b&chksm=80225aa6b755d3b071e4a1e80b7469f7ebf7d09cc6d9d7794e185c3df956587c5d7029a01214#rd)  
 - [2025-07-09-印度程序员一人兼-4-份全职，还拿下年薪-20-万美元-Offer：请病假的时候，竟在-GitHub-上给别家写代码？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622759&idx=1&sn=610ba886a63c4f8654b526acd838031a&chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd)  
 - [2025-07-07-腾讯：鸿蒙架构特殊，微信适配必须从零重写代码](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622745&idx=1&sn=5bbf8fa9132fd7cb04402b04a68628af&chksm=80225a98b755d38e3d037425edd0b35ad9dd957392b4e37d7e4cd252ecdf24654a15bd6885fe#rd)  
@@ -202,8 +202,8 @@
 </summary>
 
 
-- [2025-07-15-时隔多年，终于有一个图表库的颜值比-Echart-高好多倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505024&idx=1&sn=c49976add56a23a33535cf995e71d237&chksm=ce45c111f932480773bd8b1b59ba4ba171dba0c419f891a7ff2926d8e5c3b0bd8793df1d73db#rd) ![](/assets/new.png)  
-- [2025-07-14-前端的就业市场真是疯了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505023&idx=1&sn=30a51bd40c041bbeac7598fc19bb2e92&chksm=ce45c1eef93248f853ad680100050b6ce6a4c3278fd54ab4c5112665497b4cf52601d83554e6#rd) ![](/assets/new.png)  
+- [2025-07-15-时隔多年，终于有一个图表库的颜值比-Echart-高好多倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505024&idx=1&sn=c49976add56a23a33535cf995e71d237&chksm=ce45c111f932480773bd8b1b59ba4ba171dba0c419f891a7ff2926d8e5c3b0bd8793df1d73db#rd)  
+- [2025-07-14-前端的就业市场真是疯了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505023&idx=1&sn=30a51bd40c041bbeac7598fc19bb2e92&chksm=ce45c1eef93248f853ad680100050b6ce6a4c3278fd54ab4c5112665497b4cf52601d83554e6#rd)  
 - [2025-07-13-通过JS获取你当前的网络状况？建议大家学一学~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505019&idx=1&sn=5d289bba322deeced88e1d74fb0beee4&chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd)  
 - [2025-07-12-神库-Fuse.js，我愿称之为前端模糊搜索的王者！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505008&idx=1&sn=fdd7594b6bb3e48915d6ef00ad03d784&chksm=ce45c1e1f93248f76f1619b48f5a4222eff6782d0df0561119b8451362dfdbe7feefbfe20536#rd)  
 - [2025-07-11-实现网页全屏，记住这个超实用的-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504996&idx=1&sn=b4c4a82b7bfed6b75552010de43ad1ba&chksm=ce45c1f5f93248e3182a818783282ff60b1f8f2336051a022dbea663afe72830e6744d183392#rd)  
