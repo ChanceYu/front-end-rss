@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-16 18:11:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-16 20:19:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,9 +30,9 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -419,8 +419,8 @@
 </summary>
 
 
-- [2025-07-16-我本是写react的，公司让我换赛道搞web3D](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517329&idx=1&sn=ff43bf397481aca79a5e4abba8f403cd&chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd) ![](/assets/new.png)  
-- [2025-07-15-尤雨溪-VueConf-2025-主题演讲-PPT-来啦！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517327&idx=1&sn=a29866d1c8eec2f6a78a2295be9da0d7&chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd) ![](/assets/new.png)  
+- [2025-07-16-我本是写react的，公司让我换赛道搞web3D](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517329&idx=1&sn=ff43bf397481aca79a5e4abba8f403cd&chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd)  
+- [2025-07-15-尤雨溪-VueConf-2025-主题演讲-PPT-来啦！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517327&idx=1&sn=a29866d1c8eec2f6a78a2295be9da0d7&chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd)  
 - [2025-07-14-刚刚，尤雨溪发布-Vue-新版本，无虚拟-DOM-版-Vue-来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517325&idx=1&sn=6e641a1313213f5d815d77dd421bc61f&chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd)  
 - [2025-07-08-CSS支持-if-/-else-了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517323&idx=1&sn=3f8056a42a4e07b9da50b57e6a87ab1a&chksm=eb07bcf2dc7035e423c70c78275087356985c9177a1e53d2a09cb3edff2a1050d861061b1c76#rd)  
 - [2025-07-07-尤雨溪为什么要推出Vapor-Mode？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517321&idx=1&sn=3e4198ee1b8eaf71fb87e35679bae961&chksm=eb07bcf0dc7035e6af7c8a18e9fe25aa4a1a4fed11f7610643bfc0348d0f9a65eb2c2011635c#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-07-16-2023-2025大模型领域2年发展综述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540925&idx=1&sn=d3c101c2017335f9bf70b70af12987c3&chksm=8245b60a6db9a22d6f00624db4a2cc51865921e235f87b4f527be9e115b5740b519a5c8cb023&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-14-解析3种AI应用模式：核心技术拆解与工程实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540918&idx=1&sn=15e921850ae31a3b504ccfc37abf42a6&chksm=828bf39ad9841e1d62756bfc0b2c599f9ece1a4face69f72485f4f7efb2fa8c3c76cfe8835d1&scene=0#rd)  
 - [2025-07-11-程序员的自我修养---架构要素与认知](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540911&idx=1&sn=71acd6c327878ceeb72ba7b79182be74&chksm=82da38369647ec117ce0ea8deb5ec2ac4e4d252b1148ef90b7a075c5fd3543085d857a8b2ac9&scene=0#rd)  
 - [2025-07-09-端侧AI突破性能瓶颈：MNN-基于-SME2-指令集的大模型高效推理实现](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540883&idx=1&sn=31ecf286c928a070b681494375c7c66d&chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd)  
 - [2025-06-04-大模型微调知识与实践分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540387&idx=1&sn=cfaf3a39fa8ce530af3e2a3c1465eb4f&chksm=82fa1c19818c4b2469b4d443e086a8298386d1018071f905a7d06ae1e8ef2d6a31ca72533d40&scene=0#rd)  
 - [2025-05-30-当我们在谈多端一码时，我们在谈论什么](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540374&idx=1&sn=5c749e84752072ca5f0802cba1041880&chksm=8267f31249c5214ae6f6397c0d59d81c53c28ddcfe3020654a2305add5b46c089042f1d99025&scene=0#rd)  
-- [2025-05-26-淘宝直播组件调度、复用和治理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540277&idx=1&sn=9b95746c39c2432b29b75aa6c0d7964e&chksm=824968122782b6f9def1620c2ef282143a6c0f9462b55174c128fb14d5989923128e37968fce&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
