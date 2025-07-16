@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-16 20:19:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-17 06:10:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-07-16-7月的招聘市场，两极分化严重。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505032&idx=1&sn=fd8198f56277dcff5638bed7056b4a1a&chksm=ce45c119f932480f3a94a522f3cc7ab852eb898e0af50586907e498b35d6c9c05e0414452035#rd) ![](/assets/new.png)  
 - [2025-07-15-时隔多年，终于有一个图表库的颜值比-Echart-高好多倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505024&idx=1&sn=c49976add56a23a33535cf995e71d237&chksm=ce45c111f932480773bd8b1b59ba4ba171dba0c419f891a7ff2926d8e5c3b0bd8793df1d73db#rd)  
 - [2025-07-14-前端的就业市场真是疯了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505023&idx=1&sn=30a51bd40c041bbeac7598fc19bb2e92&chksm=ce45c1eef93248f853ad680100050b6ce6a4c3278fd54ab4c5112665497b4cf52601d83554e6#rd)  
 - [2025-07-13-通过JS获取你当前的网络状况？建议大家学一学~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505019&idx=1&sn=5d289bba322deeced88e1d74fb0beee4&chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd)  
@@ -221,7 +222,6 @@
 - [2025-06-29-𝟐𝟎𝟐𝟓-适合前端管理系统的头像图片【第三弹】](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504842&idx=1&sn=4702dffd492ad7aa91169697bedf98d0&chksm=ce45c65bf9324f4dfd10339ff5eb2a6d6bb067de9b73afc9a086021d00d6d2c877258494a6c6#rd)  
 - [2025-06-28-前端最常用的25个正则表达式，代码效率提高-80%](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504811&idx=1&sn=d8c23d5e55ec6ae8a3fec07ab98fc3e6&chksm=ce45c63af9324f2c6e17d1401f5123b6ec49f8e79d1b99f2f61856e77158098ae1d0961ca164#rd)  
 - [2025-06-27-最近，前端的招聘市场已经疯掉了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504810&idx=1&sn=ec67f74b6b47162d4277a05c87fafdde&chksm=ce45c63bf9324f2defb761f4f878779f45ce0deec745d7b44d6ed347d3296a089734e37755a4#rd)  
-- [2025-06-26-Vitest-3.2-正式发布！宣布重大更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504799&idx=1&sn=afd12a034235fcf14d447b14527bb0c4&chksm=ce45c60ef9324f188222fa65e28956fd695da19f3beb0b0440c5c7fec6e47e5a357c6d926798#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-07-16-2023-2025大模型领域2年发展综述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540925&idx=1&sn=d3c101c2017335f9bf70b70af12987c3&chksm=8245b60a6db9a22d6f00624db4a2cc51865921e235f87b4f527be9e115b5740b519a5c8cb023&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-16-2023-2025大模型领域2年发展综述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540925&idx=1&sn=d3c101c2017335f9bf70b70af12987c3&chksm=8245b60a6db9a22d6f00624db4a2cc51865921e235f87b4f527be9e115b5740b519a5c8cb023&scene=0#rd)  
 - [2025-07-14-解析3种AI应用模式：核心技术拆解与工程实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540918&idx=1&sn=15e921850ae31a3b504ccfc37abf42a6&chksm=828bf39ad9841e1d62756bfc0b2c599f9ece1a4face69f72485f4f7efb2fa8c3c76cfe8835d1&scene=0#rd)  
 - [2025-07-11-程序员的自我修养---架构要素与认知](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540911&idx=1&sn=71acd6c327878ceeb72ba7b79182be74&chksm=82da38369647ec117ce0ea8deb5ec2ac4e4d252b1148ef90b7a075c5fd3543085d857a8b2ac9&scene=0#rd)  
 - [2025-07-09-端侧AI突破性能瓶颈：MNN-基于-SME2-指令集的大模型高效推理实现](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540883&idx=1&sn=31ecf286c928a070b681494375c7c66d&chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&scene=0#rd)  
