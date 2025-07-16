@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-16 16:14:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-16 18:11:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -649,6 +649,7 @@
 - [2023-04-03-前端食堂技术周刊第-77-期：三月登陆浏览器的新功能、Nuxt-DevTools、pnpm-v8、重新思考-React-最佳实践](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497824&idx=1&sn=5eda6616fa99854627221694fd72a938&chksm=c2b3399ff5c4b0896a6b19554661467dfeb57671a3e9e64c8f2015c5caa9940d56cfdb74f19e#rd) 
 - [2023-03-26-前端食堂技术周刊第-76-期：第-95-次-TC39-会议、React-Labs-工作进展、AI-一周资讯、前端开发者的终局](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497814&idx=1&sn=c2119960efa27b8ae1e58c2d5794f5a2&chksm=c2b339a9f5c4b0bf9b3829586c27772e2e265649115362cd4da89d460888c114b7faa28670f1#rd) 
 - [2023-01-14-React-设计原理【送书】](https://mp.weixin.qq.com/s/fltre-3WAmZ9rDGcKA9aXg) 
+- [2025-07-16-我本是写react的，公司让我换赛道搞web3D](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517329&idx=1&sn=ff43bf397481aca79a5e4abba8f403cd&chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd) 
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd) 
 - [2025-06-03-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517246&idx=1&sn=618b18b29cf9f07e0b11447fd9b690ca&chksm=eb07bc47dc703551290d6c9d66301a3401a21ad510aec8544634c3a505a190179f3101cbd6a6#rd) 
 - [2025-05-19-React-lazy-原来是这么动态加载组件的！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517223&idx=1&sn=e7f3c6e6329b7cbfd5199b55a9aac0c3&chksm=eb07bc5edc7035486ee2021d88fd7f98551092afdcc204df018c3cadd6e73f4890f90233b231#rd) 
