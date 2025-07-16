@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-16T04:30:15.349Z</updated>
+    <updated>2025-07-16T08:14:39.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,32 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[JS正则新特性：安全过滤RegExp.escape方法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/"/>
+        <updated>2025-07-16T00:00:00.000Z</updated>
+        <published>2025-07-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在 microApp 和 wujie 中选择了 wujie：深度技术对比与选型思考]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527194&amp;idx=1&amp;sn=d844a2e0d459cdc86e077bd716a5d2b2&amp;chksm=f9926dcbcee5e4dd4186ca99e663a1ac6b7c7b8f246a89708ea22d4fc5a5fc9b940eab1d9c30#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527194&amp;idx=1&amp;sn=d844a2e0d459cdc86e077bd716a5d2b2&amp;chksm=f9926dcbcee5e4dd4186ca99e663a1ac6b7c7b8f246a89708ea22d4fc5a5fc9b940eab1d9c30#rd"/>
+        <updated>2025-07-16T00:00:00.000Z</updated>
+        <published>2025-07-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3551期】使用 Bun/TypeScript 在 10 秒内解析 10 亿行数据]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276991&amp;idx=1&amp;sn=1e374e8041e320a3c4de3a10f23edc7e&amp;chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276991&amp;idx=1&amp;sn=1e374e8041e320a3c4de3a10f23edc7e&amp;chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&amp;scene=0#rd"/>
         <updated>2025-07-16T00:00:00.000Z</updated>
         <published>2025-07-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[踩坑无数后，我终于总结出这份最全的 Vue3 组件通信实战指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527188&amp;idx=1&amp;sn=8c4b079961252dccab191ad739d85e98&amp;chksm=f9926dc5cee5e4d3ff60069f6172c1dd23137fec8ee70ea8d599120c579bff8b3ee08a9914c8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527188&amp;idx=1&amp;sn=8c4b079961252dccab191ad739d85e98&amp;chksm=f9926dc5cee5e4d3ff60069f6172c1dd23137fec8ee70ea8d599120c579bff8b3ee08a9914c8#rd"/>
+        <updated>2025-07-15T00:00:00.000Z</updated>
+        <published>2025-07-15T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3550期】盘点字体性能优化方案]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504864&amp;idx=1&amp;sn=6b18260ece3f18d436ecfa509c68b5fd&amp;chksm=ce45c671f9324f67b1422572f664eda3eebe8bbbf4e463e6c65e555d54fca52995cc9960ced6#rd"/>
         <updated>2025-06-30T00:00:00.000Z</updated>
         <published>2025-06-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 万程序员签名！Node.js 之父炮轰 Oracle，这事对行业有重大影响。网友直呼：它就是寄生虫]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622738&amp;idx=1&amp;sn=f61de832573b838672444d309f6c60b7&amp;chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622738&amp;idx=1&amp;sn=f61de832573b838672444d309f6c60b7&amp;chksm=80225a93b755d38554b474a70cdbafe621147ffc6b5bdb9c37a09176a1d1eb03480f6e01c126#rd"/>
-        <updated>2025-06-30T00:00:00.000Z</updated>
-        <published>2025-06-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3539期】部分关键帧：打造动态、可组合的 CSS 动画效果]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276851&amp;idx=1&amp;sn=02cfef67be8ab024dac3fc2c22ad8e9d&amp;chksm=bcad7b157893eabd0dcc125effef41bb6466010497c50eb5528586c96ad36412b2bd7f961554&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276851&amp;idx=1&amp;sn=02cfef67be8ab024dac3fc2c22ad8e9d&amp;chksm=bcad7b157893eabd0dcc125effef41bb6466010497c50eb5528586c96ad36412b2bd7f961554&amp;scene=0#rd"/>
-        <updated>2025-06-30T00:00:00.000Z</updated>
-        <published>2025-06-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速掌握 Docker：前端开发者也能轻松玩转容器化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526798&amp;idx=1&amp;sn=0a51801fcc4f327f3f289b6e7369bab6&amp;chksm=f9926f5fcee5e649ca3ae766fb860cd6636bd14b48133677018392c40175fb4101338eb0ed84#rd"/>
-        <updated>2025-06-29T00:00:00.000Z</updated>
-        <published>2025-06-29T00:00:00.000Z</published>
     </entry>
 </feed>
