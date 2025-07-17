@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-17 14:15:50，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-18 06:10:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2025-07-16-我曾用-Angular-重写了-jQuery-应用，如今却被-React-逼疯了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622791&idx=2&sn=6271cb8f3296152678b0c417d1f58cc9&chksm=80225a46b755d350e027078e5dff361655a6b1327609b6727c76fe98e5c0429c975f33fe1c7a#rd) ![](/assets/new.png)  
-- [2025-07-16-34-岁外包，任劳任怨，突发脑出血，人没了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622791&idx=1&sn=dd95e31c9db1f8f1d72f2c6fb4a26729&chksm=80225a46b755d3501af546adda0002333c3e7e91baefb8ddf1b4f968028c8c2e8c987f3891a8#rd) ![](/assets/new.png)  
+- [2025-07-16-我曾用-Angular-重写了-jQuery-应用，如今却被-React-逼疯了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622791&idx=2&sn=6271cb8f3296152678b0c417d1f58cc9&chksm=80225a46b755d350e027078e5dff361655a6b1327609b6727c76fe98e5c0429c975f33fe1c7a#rd)  
+- [2025-07-16-34-岁外包，任劳任怨，突发脑出血，人没了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622791&idx=1&sn=dd95e31c9db1f8f1d72f2c6fb4a26729&chksm=80225a46b755d3501af546adda0002333c3e7e91baefb8ddf1b4f968028c8c2e8c987f3891a8#rd)  
 - [2025-07-15-前端行情跌到谷底了。。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622781&idx=1&sn=091a4497b716955572c017de1c263cc1&chksm=80225abcb755d3aaece66deff814f2863ca987725bbc7208316b0f4137d22cd072caa6275439#rd)  
 - [2025-07-14-ECMAScript-2025-正式发布！这-6-个新特性值得你关注](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=1&sn=79e004fb4094e4c5104586aa052241e7&chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd)  
 - [2025-07-14-用-AI-提效的新方式：全面体验-Google-Gemini-CLI](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622771&idx=2&sn=4637c5eb3e93cd8644ce2cd7f3d0469e&chksm=80225ab2b755d3a43f4e293cce80077c7fa063a02bc8cdb2f442aeac6500cf3b98074c57510d#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-07-17-秘塔AI深度研究，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503270&idx=1&sn=eecd0ec494d4e567333c9c127c206a63&chksm=c2b30c59f5c4854f9d0477248743310bfb3adb88db529482f92af8965de39f4833427ba8e9d4#rd) ![](/assets/new.png)  
 - [2025-07-03-Lovart中文版刚刚上线，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503240&idx=1&sn=0ac6c889629b1556f8d7a8b2c69ea5ec&chksm=c2b30c77f5c48561da47d3d460c60abc288f9520ead72d9948b83e10ab06592570e6ec7887cf#rd)  
 - [2025-06-26-Kimi-终于悟了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503119&idx=1&sn=cbbcec9440d25a00a8ac65e4ae4d03db&chksm=c2b30cf0f5c485e643e6e8c8f286e5f57199413612dda9ca3a9430e4bd3be3c12756f4a47403#rd)  
 - [2025-06-24-Fellou，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503035&idx=1&sn=38fbb4322ca000bedfd921348ad30370&chksm=c2b30d44f5c484527638fe329a344f40f92ca50273b042ce2c126b6cd280b349f1a33b2fc11f#rd)  
@@ -407,7 +408,6 @@
 - [2025-05-13-系统提示词，AI-的底裤](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502521&idx=1&sn=91d616b98ebcedd6547bf929019df2bb&chksm=c2b30b46f5c482502de4326132383134843cbeda215e52a6a3c8043af567fb0fd3edc82e30a4#rd)  
 - [2025-05-08-豆包超能创意，开“外挂”了？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502503&idx=1&sn=bc3c79d4cfa050ae5b543ab31790f8b8&chksm=c2b30b58f5c4824e9c0a63ecbcdc7c9af90e61c0ba7a0761e4bf8c0edcbfbb0570bab64ef793#rd)  
 - [2025-05-04-NotebookLM终于支持中文，太6了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502480&idx=1&sn=9438cad881f0b7d534a9bbabcc3b204b&chksm=c2b30b6ff5c4827973971ab8fe7b4bc755b26a39785d1c5a07c6ee51ef926ea30e8b2bfd4f0d#rd)  
-- [2025-05-03-Qwen3把自己打爆了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502456&idx=1&sn=3930afd8606aa3da14facb44121e3596&chksm=c2b30b87f5c48291f16fc5a71fe37db028efe24743c5c02be312cacb74ebb362f4b267a8d2dd#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
