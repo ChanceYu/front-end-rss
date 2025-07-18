@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-17T22:10:26.620Z</updated>
+    <updated>2025-07-18T00:50:44.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505034&amp;idx=1&amp;sn=292916cbb61f8b6e43d17fd6b45127be&amp;chksm=ce45c11bf932480d5a2e338301bb6388c1ae8e9f06890e4aaaeb068d3f732c5e2be59e49e758#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505034&amp;idx=1&amp;sn=292916cbb61f8b6e43d17fd6b45127be&amp;chksm=ce45c11bf932480d5a2e338301bb6388c1ae8e9f06890e4aaaeb068d3f732c5e2be59e49e758#rd"/>
+        <updated>2025-07-17T00:00:00.000Z</updated>
+        <published>2025-07-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3552期】通过代码看 React 的历史]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276996&amp;idx=1&amp;sn=3dbb3041665a97d811976d8740c9fb9f&amp;chksm=bc01f8599186cbc078e1529f83bfb628adc65fc88f134e45280d42e050751a3117fd657ad04a&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/584"/>
         <updated>2025-07-01T00:00:00.000Z</updated>
         <published>2025-07-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS小图标剪裁终极解决方案clip-path shape()函数]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/"/>
-        <updated>2025-06-30T00:00:00.000Z</updated>
-        <published>2025-06-30T00:00:00.000Z</published>
     </entry>
 </feed>
