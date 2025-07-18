@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-18T04:30:11.064Z</updated>
+    <updated>2025-07-18T14:11:35.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[200行极简demo - 学习如何手搓一个ReAct Agent]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd"/>
+        <updated>2025-07-18T00:00:00.000Z</updated>
+        <published>2025-07-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3553期】破局传统埋点四大痛点！携程机票前端可视化埋点实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277014&amp;idx=1&amp;sn=e1e4548c697215ac1c718ac712a34d4c&amp;chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526944&amp;idx=1&amp;sn=c4600aca6ed13106e5c7b61420491f0a&amp;chksm=f9926cf1cee5e5e769b3a9530c0b33b504c372bd1a3e4a6588a47cbb78436be10b7752626aff#rd"/>
         <updated>2025-07-02T00:00:00.000Z</updated>
         <published>2025-07-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript 2025 正式发布！这 6 个新特性值得你关注]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526895&amp;idx=1&amp;sn=8bd63f1c22742094ca12eaeb4614746c&amp;chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247526895&amp;idx=1&amp;sn=8bd63f1c22742094ca12eaeb4614746c&amp;chksm=f9926f3ecee5e6286127468ce3663926035533818272b767a034a35fc61998b7d7266fb5cd97#rd"/>
-        <updated>2025-07-01T00:00:00.000Z</updated>
-        <published>2025-07-01T00:00:00.000Z</published>
     </entry>
 </feed>
