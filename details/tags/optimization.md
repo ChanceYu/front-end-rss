@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-20 06:09:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-20 11:30:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -261,6 +261,7 @@
 - [2022-01-19-如何做好前端性能监控？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502715&idx=2&sn=68a9804bc5feb5b599e4e7cd6ec2f927&chksm=f992cdaacee544bc3d1746beae717e66ad4da65d1793a97863f1ade308a29bb0ba8457501ac5#rd) 
 - [2024-05-29-2024-抖音欢笑中国年六：前端互动场景中的性能优化](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505862&idx=1&sn=8362f9b48670b6affc724e37601d598b&chksm=cea960c7f9dee9d13ab582c7d5bb18a04e81f7d7df756511f40d26f3a5a9c0cf8b9cc891afd5#rd) 
 - [2024-05-16-有奖征文-|-性能优化的实践与经验分享](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505859&idx=1&sn=813a3d5f5400486a591d938d5aae0d36&chksm=cea960c2f9dee9d408a2eb6587f493e78e7427bafdc0afe967968b83545a8ef2cff09e167c19#rd) 
+- [2025-07-18-Nuxt-发布-4.0-版本！优化目录结构；性能大幅提升！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517331&idx=1&sn=1effda0a85b1782045e4e6b8426c5424&chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd) 
 - [2025-06-18-尤雨溪力荐-H3！性能炸裂！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517254&idx=1&sn=451415a5649fcb54c2f70a6474094e33&chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd) 
 - [2024-12-30-一行代码提升-30%+-TS-类型检查性能](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516973&idx=1&sn=dff0068a4a679e54e27d6ae646865e64&chksm=eb07bb54dc703242e76131144546aa54c8f9d6d608d0d3cf8fef6fed3bd43b2dc8b6fbcbe1bb#rd) 
 - [2024-05-10-云音乐桌面端-3.0-改版前端性能优化之旅](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515774&idx=1&sn=4eb6d7ca8a1e7e7c9b5c936f94700547&chksm=eb078607dc700f11a9506a5dd5084dedc04a5c83c7664706f7a044b91fd59f237f84bf2967f3#rd) 

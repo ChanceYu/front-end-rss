@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-19T22:09:19.819Z</updated>
+    <updated>2025-07-20T03:30:02.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[200行极简demo - 学习如何手搓一个ReAct Agent]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd"/>
+        <updated>2025-07-18T00:00:00.000Z</updated>
+        <published>2025-07-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuxt 发布 4.0 版本！优化目录结构；性能大幅提升！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517331&amp;idx=1&amp;sn=1effda0a85b1782045e4e6b8426c5424&amp;chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517331&amp;idx=1&amp;sn=1effda0a85b1782045e4e6b8426c5424&amp;chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd"/>
         <updated>2025-07-18T00:00:00.000Z</updated>
         <published>2025-07-18T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504882&amp;idx=1&amp;sn=bc4c9e0cc6755d06050e394b40702f42&amp;chksm=ce45c663f9324f75bdea076839b40b2ad956f264651ee2eb016ba8b9b1c1d41b5f1cf7b6f75c#rd"/>
         <updated>2025-07-03T00:00:00.000Z</updated>
         <published>2025-07-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播数字人：音视频&算法工程技术]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540813&amp;idx=1&amp;sn=58818d07ce2665bdc719d13b451d82c7&amp;chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540813&amp;idx=1&amp;sn=58818d07ce2665bdc719d13b451d82c7&amp;chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&amp;scene=0#rd"/>
-        <updated>2025-07-02T00:00:00.000Z</updated>
-        <published>2025-07-02T00:00:00.000Z</published>
     </entry>
 </feed>
