@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-22T04:30:33.844Z</updated>
+    <updated>2025-07-22T18:14:58.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3555期】JavaScript 使用 Array.fromAsync() 实现现代异步迭代]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277029&amp;idx=1&amp;sn=73375282f7504a287abef3ce4a12b5b1&amp;chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277029&amp;idx=1&amp;sn=73375282f7504a287abef3ce4a12b5b1&amp;chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&amp;scene=0#rd"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <published>2025-07-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Laravel apps in the Node.js world]]></title>
+        <id>https://nodeweekly.com/issues/587</id>
+        <link href="https://nodeweekly.com/issues/587"/>
         <updated>2025-07-22T00:00:00.000Z</updated>
         <published>2025-07-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[淘宝直播数字人：服务端工程技术]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540818&amp;idx=1&amp;sn=65937e44df3fc196fa65db0d62cfa9e0&amp;chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540818&amp;idx=1&amp;sn=65937e44df3fc196fa65db0d62cfa9e0&amp;chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&amp;scene=0#rd"/>
-        <updated>2025-07-04T00:00:00.000Z</updated>
-        <published>2025-07-04T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弃用 html2canvas！快 93 倍的截图神器！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517319&amp;idx=1&amp;sn=17d9a16e0f3350c7c23290a961eea7c0&amp;chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517319&amp;idx=1&amp;sn=17d9a16e0f3350c7c23290a961eea7c0&amp;chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd"/>
         <updated>2025-07-04T00:00:00.000Z</updated>
         <published>2025-07-04T00:00:00.000Z</published>
     </entry>

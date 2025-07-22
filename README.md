@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-22 12:30:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 02:14:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587) ![](/assets/new.png)  
 - [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
 - [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
@@ -66,7 +67,6 @@
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
-- [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-07-22-【第3555期】JavaScript-使用-Array.fromAsync-实现现代异步迭代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277029&idx=1&sn=73375282f7504a287abef3ce4a12b5b1&chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-22-【第3555期】JavaScript-使用-Array.fromAsync-实现现代异步迭代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277029&idx=1&sn=73375282f7504a287abef3ce4a12b5b1&chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&scene=0#rd)  
 - [2025-07-21-【第3554期】从可视化编辑到整洁代码：Relume-如何攻克-React-导出难题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=1&sn=e96ddcc899567b6f3f3677779b093fdf&chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&scene=0#rd)  
 - [2025-07-21-【招聘】重庆⻨芽传媒招资深前端开发⼯程师（海外短剧）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=2&sn=e87cc7277def46c750e58b21b2ef4931&chksm=bc5bae9859924c6e6553d8e21b3d51e0e5ca0617ceefde2bb4a3cdec59e8282432c8eaf3cf80&scene=0#rd)  
 - [2025-07-18-【早阅】这是前端的失落十年。开发者现在能做什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=2&sn=7e8161dbe775fe543c984e70d1b2c4f4&chksm=bcf70046cf94830f658a62fe5389b7e2f4a74de0c066b5a1a81fb7ea4137e609e6081e8928cd&scene=0#rd)  
