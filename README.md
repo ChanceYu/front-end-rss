@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-23 02:14:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 06:10:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587) ![](/assets/new.png)  
+- [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
 - [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
 - [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-07-22-字节TRAE刚上线SOLO模式，吓到我了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503335&idx=1&sn=2862484266f54f2c63eb8349c9ddd0e8&chksm=c2b30c18f5c4850e4acb9cc2ed18184448b9bea19e33c78330860ee350d2e406c34a89e5a546#rd) ![](/assets/new.png)  
+- [2025-07-18-马斯克造了个AI女友，真正的斩男神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503314&idx=1&sn=2b4d1c8f22db850da5ec18619744c5b6&chksm=c2b30c2df5c4853bef47446c4dcac008185865547d2b13197e43ffa5a1e7e95c71c3a7074852#rd) ![](/assets/new.png)  
 - [2025-07-17-秘塔AI深度研究，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503270&idx=1&sn=eecd0ec494d4e567333c9c127c206a63&chksm=c2b30c59f5c4854f9d0477248743310bfb3adb88db529482f92af8965de39f4833427ba8e9d4#rd)  
 - [2025-07-03-Lovart中文版刚刚上线，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503240&idx=1&sn=0ac6c889629b1556f8d7a8b2c69ea5ec&chksm=c2b30c77f5c48561da47d3d460c60abc288f9520ead72d9948b83e10ab06592570e6ec7887cf#rd)  
 - [2025-06-26-Kimi-终于悟了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503119&idx=1&sn=cbbcec9440d25a00a8ac65e4ae4d03db&chksm=c2b30cf0f5c485e643e6e8c8f286e5f57199413612dda9ca3a9430e4bd3be3c12756f4a47403#rd)  
@@ -406,8 +408,6 @@
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  
 - [2025-05-14-Manus免费开放注册，有哪些新玩法？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502540&idx=1&sn=a4fcc963ba70619d22bc18320704b4d4&chksm=c2b30b33f5c482257d9f12d920c3b273b971987e4ad652dd4d0e55970bc2cfeb98563de89821#rd)  
 - [2025-05-13-系统提示词，AI-的底裤](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502521&idx=1&sn=91d616b98ebcedd6547bf929019df2bb&chksm=c2b30b46f5c482502de4326132383134843cbeda215e52a6a3c8043af567fb0fd3edc82e30a4#rd)  
-- [2025-05-08-豆包超能创意，开“外挂”了？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502503&idx=1&sn=bc3c79d4cfa050ae5b543ab31790f8b8&chksm=c2b30b58f5c4824e9c0a63ecbcdc7c9af90e61c0ba7a0761e4bf8c0edcbfbb0570bab64ef793#rd)  
-- [2025-05-04-NotebookLM终于支持中文，太6了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502480&idx=1&sn=9438cad881f0b7d534a9bbabcc3b204b&chksm=c2b30b6ff5c4827973971ab8fe7b4bc755b26a39785d1c5a07c6ee51ef926ea30e8b2bfd4f0d#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
