@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-23T04:32:02.832Z</updated>
+    <updated>2025-07-23T14:13:05.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面向互联网2C业务的分布式类Manus Java框架]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540954&amp;idx=1&amp;sn=c410728ed2bbd65603b02ee1130089ef&amp;chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540954&amp;idx=1&amp;sn=c410728ed2bbd65603b02ee1130089ef&amp;chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&amp;scene=0#rd"/>
+        <updated>2025-07-23T00:00:00.000Z</updated>
+        <published>2025-07-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3556期】JavaScript 的作用域提升机制是有问题的]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277037&amp;idx=1&amp;sn=93509b5727da6a17032851f32068aafe&amp;chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&amp;scene=0#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504940&amp;idx=1&amp;sn=6d9bf3d7d362764517ab29ab86f299ae&amp;chksm=ce45c1bdf93248ab2c27ec7ae57aaa01cac03d1a93dc65a6795df1f643931765efbe0b9217ea#rd"/>
         <updated>2025-07-06T00:00:00.000Z</updated>
         <published>2025-07-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你用 Cursor 写公司的代码安全吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527020&amp;idx=1&amp;sn=724a8ebc545719780841e6e3cfe85686&amp;chksm=f9926cbdcee5e5ab8630936f293f8a55cef6e6df02bea797dda25efe2705b1c2afbe047673b8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527020&amp;idx=1&amp;sn=724a8ebc545719780841e6e3cfe85686&amp;chksm=f9926cbdcee5e5ab8630936f293f8a55cef6e6df02bea797dda25efe2705b1c2afbe047673b8#rd"/>
-        <updated>2025-07-05T00:00:00.000Z</updated>
-        <published>2025-07-05T00:00:00.000Z</published>
     </entry>
 </feed>

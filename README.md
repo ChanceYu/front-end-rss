@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-23 12:32:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 22:13:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd) ![](/assets/new.png)  
-- [2025-07-23-【第3556期】JavaScript-的作用域提升机制是有问题的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=1&sn=93509b5727da6a17032851f32068aafe&chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd)  
+- [2025-07-23-【第3556期】JavaScript-的作用域提升机制是有问题的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=1&sn=93509b5727da6a17032851f32068aafe&chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&scene=0#rd)  
 - [2025-07-22-【第3555期】JavaScript-使用-Array.fromAsync-实现现代异步迭代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277029&idx=1&sn=73375282f7504a287abef3ce4a12b5b1&chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&scene=0#rd)  
 - [2025-07-21-【招聘】重庆⻨芽传媒招资深前端开发⼯程师（海外短剧）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=2&sn=e87cc7277def46c750e58b21b2ef4931&chksm=bc5bae9859924c6e6553d8e21b3d51e0e5ca0617ceefde2bb4a3cdec59e8282432c8eaf3cf80&scene=0#rd)  
 - [2025-07-21-【第3554期】从可视化编辑到整洁代码：Relume-如何攻克-React-导出难题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=1&sn=e96ddcc899567b6f3f3677779b093fdf&chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-07-23-面向互联网2C业务的分布式类Manus-Java框架](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540954&idx=1&sn=c410728ed2bbd65603b02ee1130089ef&chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-18-200行极简demo---学习如何手搓一个ReAct-Agent](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540935&idx=1&sn=d1e416b8abdeffcf0e66242375f21a61&chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&scene=0#rd)  
 - [2025-07-16-2023-2025大模型领域2年发展综述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540925&idx=1&sn=d3c101c2017335f9bf70b70af12987c3&chksm=8245b60a6db9a22d6f00624db4a2cc51865921e235f87b4f527be9e115b5740b519a5c8cb023&scene=0#rd)  
 - [2025-07-14-解析3种AI应用模式：核心技术拆解与工程实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540918&idx=1&sn=15e921850ae31a3b504ccfc37abf42a6&chksm=828bf39ad9841e1d62756bfc0b2c599f9ece1a4face69f72485f4f7efb2fa8c3c76cfe8835d1&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-06-11-探秘TaoAvatar：淘宝3D真人数字人技术解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540493&idx=1&sn=82abb3daaaa9461ec400520d60e6b3cb&chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&scene=0#rd)  
 - [2025-06-09-阿里淘天T-Star-Lab-技术Openday-报名开放](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540429&idx=1&sn=8ac3cf2baf63057635f258fb149e87f4&chksm=825c40a9c22f70b14a8bafb38aad9cf1699bc998d403a29407434436514cc61467f63a97be00&scene=0#rd)  
 - [2025-06-06-Agent工程能力思考记录](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540423&idx=1&sn=abe0ca23e1f40fa95408ac62449ba310&chksm=82a4381bd083c75da2535ac21e7c16e39a1df0e8c6d41e6a9d6558dba0990da4bfb70f8ea770&scene=0#rd)  
-- [2025-06-04-大模型微调知识与实践分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540387&idx=1&sn=cfaf3a39fa8ce530af3e2a3c1465eb4f&chksm=82fa1c19818c4b2469b4d443e086a8298386d1018071f905a7d06ae1e8ef2d6a31ca72533d40&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

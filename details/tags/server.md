@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-23 12:32:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 22:13:05。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -131,6 +131,7 @@
 - [2023-11-27-三年前端还不会配置Nginx，被老板打了，今天一口气学完](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514525&idx=1&sn=05af371135d3f899e642b2cc38a2b0ed&chksm=eb0781e4dc7008f2edcd07410f6d799c9d1a21a5acd6493719b09ca17477fb2af0f075a21b24#rd) 
 - [2023-06-20-前端，这些运维命令你需要懂](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511884&idx=2&sn=2d578e7d471ee0678d172cbfc42e9f84&chksm=eb079735dc701e23fb14715313cb09719960c29f12fb7714a122756f9b9767d04a28f1f55863#rd) 
 - [2023-05-05-Vercel-推出前端直连数据库，回归-or-进步！？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511468&idx=1&sn=3b735276f3b4ce6e4c584a2e5ac9f7f2&chksm=eb0795d5dc701cc31f69e00e2dbc4468620bba049dee8db92ed450cdbce6f317094e17c7fcc3#rd) 
+- [2025-07-23-面向互联网2C业务的分布式类Manus-Java框架](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540954&idx=1&sn=c410728ed2bbd65603b02ee1130089ef&chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&scene=0#rd) 
 - [2025-05-23-淘宝Java工程师的LLM开发实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540249&idx=1&sn=1c8a9137594bc9772f863bc0e4dc972d&chksm=826307b256b557840c679d626771c1b3f5f861c8b60de62b82f06628a10f0347e7c729d55c1e&scene=0#rd) 
 - [2025-04-02-虚拟线程/有栈协程对于Java的意义](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650539434&idx=1&sn=51005dfbb930db9431b8a1339b5a9a23&chksm=8390cdb2b4e744a4484b82eb305b05b5812e6dd430afa723e660118887e0ff309dbe3be9ad37#rd) 
 - [2025-01-06-Java21特性解读](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537631&idx=1&sn=5b7df95a4ddea0538dd9e251134a7cb4&chksm=83973687b4e0bf918330e54c0e1db69726e321d406d68e9848523fbcdb3e5e680e14e32a0b4c#rd) 
