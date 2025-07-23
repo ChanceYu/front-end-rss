@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-22T22:10:03.240Z</updated>
+    <updated>2025-07-23T04:32:02.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3556期】JavaScript 的作用域提升机制是有问题的]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277037&amp;idx=1&amp;sn=93509b5727da6a17032851f32068aafe&amp;chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277037&amp;idx=1&amp;sn=93509b5727da6a17032851f32068aafe&amp;chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&amp;scene=0#rd"/>
+        <updated>2025-07-23T00:00:00.000Z</updated>
+        <published>2025-07-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3555期】JavaScript 使用 Array.fromAsync() 实现现代异步迭代]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277029&amp;idx=1&amp;sn=73375282f7504a287abef3ce4a12b5b1&amp;chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&amp;scene=0#rd</id>
@@ -330,16 +337,16 @@
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527020&amp;idx=1&amp;sn=724a8ebc545719780841e6e3cfe85686&amp;chksm=f9926cbdcee5e5ab8630936f293f8a55cef6e6df02bea797dda25efe2705b1c2afbe047673b8#rd"/>
         <updated>2025-07-05T00:00:00.000Z</updated>
         <published>2025-07-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘宝直播数字人：服务端工程技术]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540818&amp;idx=1&amp;sn=65937e44df3fc196fa65db0d62cfa9e0&amp;chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540818&amp;idx=1&amp;sn=65937e44df3fc196fa65db0d62cfa9e0&amp;chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&amp;scene=0#rd"/>
-        <updated>2025-07-04T00:00:00.000Z</updated>
-        <published>2025-07-04T00:00:00.000Z</published>
     </entry>
 </feed>

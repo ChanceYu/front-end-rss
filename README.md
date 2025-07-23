@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-23 06:10:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-23 12:32:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -109,11 +109,13 @@
 </summary>
 
 
+- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-23-【第3556期】JavaScript-的作用域提升机制是有问题的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=1&sn=93509b5727da6a17032851f32068aafe&chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-22-【第3555期】JavaScript-使用-Array.fromAsync-实现现代异步迭代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277029&idx=1&sn=73375282f7504a287abef3ce4a12b5b1&chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&scene=0#rd)  
-- [2025-07-21-【第3554期】从可视化编辑到整洁代码：Relume-如何攻克-React-导出难题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=1&sn=e96ddcc899567b6f3f3677779b093fdf&chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&scene=0#rd)  
 - [2025-07-21-【招聘】重庆⻨芽传媒招资深前端开发⼯程师（海外短剧）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=2&sn=e87cc7277def46c750e58b21b2ef4931&chksm=bc5bae9859924c6e6553d8e21b3d51e0e5ca0617ceefde2bb4a3cdec59e8282432c8eaf3cf80&scene=0#rd)  
-- [2025-07-18-【早阅】这是前端的失落十年。开发者现在能做什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=2&sn=7e8161dbe775fe543c984e70d1b2c4f4&chksm=bcf70046cf94830f658a62fe5389b7e2f4a74de0c066b5a1a81fb7ea4137e609e6081e8928cd&scene=0#rd)  
+- [2025-07-21-【第3554期】从可视化编辑到整洁代码：Relume-如何攻克-React-导出难题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=1&sn=e96ddcc899567b6f3f3677779b093fdf&chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&scene=0#rd)  
 - [2025-07-18-【第3553期】破局传统埋点四大痛点！携程机票前端可视化埋点实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=1&sn=e1e4548c697215ac1c718ac712a34d4c&chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&scene=0#rd)  
+- [2025-07-18-【早阅】这是前端的失落十年。开发者现在能做什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=2&sn=7e8161dbe775fe543c984e70d1b2c4f4&chksm=bcf70046cf94830f658a62fe5389b7e2f4a74de0c066b5a1a81fb7ea4137e609e6081e8928cd&scene=0#rd)  
 - [2025-07-17-【第3552期】通过代码看-React-的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276996&idx=1&sn=3dbb3041665a97d811976d8740c9fb9f&chksm=bc01f8599186cbc078e1529f83bfb628adc65fc88f134e45280d42e050751a3117fd657ad04a&scene=0#rd)  
 - [2025-07-16-【第3551期】使用-Bun/TypeScript-在-10-秒内解析-10-亿行数据](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276991&idx=1&sn=1e374e8041e320a3c4de3a10f23edc7e&chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&scene=0#rd)  
 - [2025-07-15-【第3550期】盘点字体性能优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276936&idx=1&sn=7aa45eb5f2c6b3314371b14ccc348820&chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&scene=0#rd)  
@@ -122,13 +124,11 @@
 - [2025-07-10-【第3547期】渐进式JSON](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276917&idx=1&sn=1cc382a66cc417fe94617ad3b7620265&chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&scene=0#rd)  
 - [2025-07-09-【第3546期】如何让-CKEditor-缩小-40%-的：一次深入的包体积优化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276911&idx=1&sn=fe053d1f31a6c1e3b684933492315597&chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&scene=0#rd)  
 - [2025-07-08-【第3545期】Cursor-+-MCP：双剑合璧，解锁极致编程效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276907&idx=1&sn=33654fdc95a0cdd2e440c6567d02d34d&chksm=bcb0827b2f3754f6ec1ac5b949a868a0e56d31fc059c8d3f3ff152de0358be2a63cab0e1acf6&scene=0#rd)  
-- [2025-07-07-【第3544期】2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=1&sn=b5559d363df571587480798ddf284321&chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&scene=0#rd)  
 - [2025-07-07-【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=2&sn=0eb690e4a73f0a73b733fa4fdd8d4405&chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&scene=0#rd)  
+- [2025-07-07-【第3544期】2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276903&idx=1&sn=b5559d363df571587480798ddf284321&chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&scene=0#rd)  
 - [2025-07-04-【第3543期】良好的用户体验设计，是否能帮助老年人防范网络诈骗？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276888&idx=1&sn=8160fe17f856766f203ac4ca092a052c&chksm=bc075b6559342abc8706c8ffec17ffcf59ef8b387626223032f3261b441e65d5e1aaf098d787&scene=0#rd)  
 - [2025-07-03-【第3542期】新活动平台建设历程与架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276884&idx=1&sn=c8dcd8d0a88db5400342333ccaa1ce93&chksm=bcf0835456709980fb946b70829ba9fb7988729418db1d660646bea28c501a282713db650894&scene=0#rd)  
 - [2025-07-02-【第3541期】工程团队如何有效采用-AI-编程工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276877&idx=1&sn=861c346ea6ac900f498eb6a2e3e57cec&chksm=bca04efba0d8bf2f9a5248543b19a943de3d9aaf0a72078ce85c550828efa6856ad451f9623e&scene=0#rd)  
-- [2025-07-01-【第3540期】Apache-ECharts-6.0-震撼发布-·-前图无量](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=1&sn=ffac034282d8d928845ca6b50b246790&chksm=bc221ee5ff266fc99c446bbf59296d6cf9cb1d1456b1fd2adf3f840010a878db28f5c97df5e8&scene=0#rd)  
-- [2025-07-01-【招聘】百度招聘-ECharts-实习生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276872&idx=2&sn=53104cd5f848217ed181acf1dc6d022f&chksm=bcb681c3c5c7f9ffd9a1719bca145646174f1a5feec04f7e62525744ec79f88a83a1d8951c78&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-07-22-字节TRAE刚上线SOLO模式，吓到我了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503335&idx=1&sn=2862484266f54f2c63eb8349c9ddd0e8&chksm=c2b30c18f5c4850e4acb9cc2ed18184448b9bea19e33c78330860ee350d2e406c34a89e5a546#rd) ![](/assets/new.png)  
-- [2025-07-18-马斯克造了个AI女友，真正的斩男神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503314&idx=1&sn=2b4d1c8f22db850da5ec18619744c5b6&chksm=c2b30c2df5c4853bef47446c4dcac008185865547d2b13197e43ffa5a1e7e95c71c3a7074852#rd) ![](/assets/new.png)  
+- [2025-07-22-字节TRAE刚上线SOLO模式，吓到我了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503335&idx=1&sn=2862484266f54f2c63eb8349c9ddd0e8&chksm=c2b30c18f5c4850e4acb9cc2ed18184448b9bea19e33c78330860ee350d2e406c34a89e5a546#rd)  
+- [2025-07-18-马斯克造了个AI女友，真正的斩男神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503314&idx=1&sn=2b4d1c8f22db850da5ec18619744c5b6&chksm=c2b30c2df5c4853bef47446c4dcac008185865547d2b13197e43ffa5a1e7e95c71c3a7074852#rd)  
 - [2025-07-17-秘塔AI深度研究，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503270&idx=1&sn=eecd0ec494d4e567333c9c127c206a63&chksm=c2b30c59f5c4854f9d0477248743310bfb3adb88db529482f92af8965de39f4833427ba8e9d4#rd)  
 - [2025-07-03-Lovart中文版刚刚上线，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503240&idx=1&sn=0ac6c889629b1556f8d7a8b2c69ea5ec&chksm=c2b30c77f5c48561da47d3d460c60abc288f9520ead72d9948b83e10ab06592570e6ec7887cf#rd)  
 - [2025-06-26-Kimi-终于悟了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503119&idx=1&sn=cbbcec9440d25a00a8ac65e4ae4d03db&chksm=c2b30cf0f5c485e643e6e8c8f286e5f57199413612dda9ca3a9430e4bd3be3c12756f4a47403#rd)  
