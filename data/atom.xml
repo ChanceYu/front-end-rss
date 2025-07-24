@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-23T14:13:05.565Z</updated>
+    <updated>2025-07-24T04:31:10.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3557期】使用 useOptimistic 让应用即时响应]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277043&amp;idx=1&amp;sn=dfb90d213c9401e9888a0121b0edce14&amp;chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277043&amp;idx=1&amp;sn=dfb90d213c9401e9888a0121b0edce14&amp;chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&amp;scene=0#rd"/>
+        <updated>2025-07-24T00:00:00.000Z</updated>
+        <published>2025-07-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面向互联网2C业务的分布式类Manus Java框架]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540954&amp;idx=1&amp;sn=c410728ed2bbd65603b02ee1130089ef&amp;chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&amp;scene=0#rd</id>
@@ -344,13 +351,6 @@
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
-        <updated>2025-07-07T00:00:00.000Z</updated>
-        <published>2025-07-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
@@ -358,10 +358,10 @@
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端动画的神级网站 Uiverse.io，复制粘贴就能为所欲为！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504940&amp;idx=1&amp;sn=6d9bf3d7d362764517ab29ab86f299ae&amp;chksm=ce45c1bdf93248ab2c27ec7ae57aaa01cac03d1a93dc65a6795df1f643931765efbe0b9217ea#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504940&amp;idx=1&amp;sn=6d9bf3d7d362764517ab29ab86f299ae&amp;chksm=ce45c1bdf93248ab2c27ec7ae57aaa01cac03d1a93dc65a6795df1f643931765efbe0b9217ea#rd"/>
-        <updated>2025-07-06T00:00:00.000Z</updated>
-        <published>2025-07-06T00:00:00.000Z</published>
+        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
+        <updated>2025-07-07T00:00:00.000Z</updated>
+        <published>2025-07-07T00:00:00.000Z</published>
     </entry>
 </feed>
