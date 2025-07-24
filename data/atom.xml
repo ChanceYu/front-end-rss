@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-24T04:31:10.782Z</updated>
+    <updated>2025-07-24T08:15:00.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277037&amp;idx=1&amp;sn=93509b5727da6a17032851f32068aafe&amp;chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&amp;scene=0#rd"/>
         <updated>2025-07-23T00:00:00.000Z</updated>
         <published>2025-07-23T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速掌握 Docker：前端开发者也能轻松玩转容器化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622815&amp;idx=2&amp;sn=61a9dd13983d41ca1e536ef52a3848f5&amp;chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622815&amp;idx=2&amp;sn=61a9dd13983d41ca1e536ef52a3848f5&amp;chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <published>2025-07-22T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3555期】JavaScript 使用 Array.fromAsync() 实现现代异步迭代]]></title>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[【活动】美团技术沙龙第86期：多业务场景下，美团如何做性能优化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=2&amp;sn=0eb690e4a73f0a73b733fa4fdd8d4405&amp;chksm=bcd3b4ad86a3b09488d4e24e1f39a71b24956b819c89ba196dd3902902d5c211ec805b9ecf75&amp;scene=0#rd"/>
-        <updated>2025-07-07T00:00:00.000Z</updated>
-        <published>2025-07-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3544期】2025 年现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276903&amp;idx=1&amp;sn=b5559d363df571587480798ddf284321&amp;chksm=bc1161c87aca62963bf85e4d8bd328e85b8617df468086beb25b9ae93ede7628f4bf30a7def5&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
