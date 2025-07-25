@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-26 00:12:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-26 02:14:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -29,7 +29,7 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746) ![](/assets/new.png)  
+- [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz.-It's-about-time..](https://javascriptweekly.com/issues/745)  
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)  
 - [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-07-25-实测腾讯CodeBuddy-IDE，做的太过头了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503386&idx=1&sn=70d83a4be94e436849a75485eaa3845a&chksm=c2b30fe5f5c486f352b12368b788362a9181eb6573972ef64e4d616d819c04ad2c942ae9eb43#rd) ![](/assets/new.png)  
 - [2025-07-23-登顶全球，阿里Qwen3-Coder凭什么](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503358&idx=1&sn=6256b9b22160f0d5778d89778dcc2170&chksm=c2b30c01f5c48517dedf6a09cda99ea561db4b550bc201f09880d9e383af98662cbd264bddbb#rd)  
 - [2025-07-22-字节TRAE刚上线SOLO模式，吓到我了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503335&idx=1&sn=2862484266f54f2c63eb8349c9ddd0e8&chksm=c2b30c18f5c4850e4acb9cc2ed18184448b9bea19e33c78330860ee350d2e406c34a89e5a546#rd)  
 - [2025-07-18-马斯克造了个AI女友，真正的斩男神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503314&idx=1&sn=2b4d1c8f22db850da5ec18619744c5b6&chksm=c2b30c2df5c4853bef47446c4dcac008185865547d2b13197e43ffa5a1e7e95c71c3a7074852#rd)  
@@ -407,7 +408,6 @@
 - [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd)  
 - [2025-05-20-腾讯AI浏览器一手实测，强的过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502625&idx=1&sn=8f1a86b785bffd70dfa3bd5169740133&chksm=c2b30adef5c483c8d4a3d0449fc58665ee52ee1746ffcf878a27681c05c1c5b048d3b18c54e4#rd)  
 - [2025-05-17-全球首个设计Agent实测，Lovart让我爽翻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502573&idx=1&sn=a9a0684d619122cf93b811d05ef814ab&chksm=c2b30b12f5c48204428e35b15a6781031037c7827535c6c64ed88a7d5f84018b6c280462ea94#rd)  
-- [2025-05-14-Manus免费开放注册，有哪些新玩法？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502540&idx=1&sn=a4fcc963ba70619d22bc18320704b4d4&chksm=c2b30b33f5c482257d9f12d920c3b273b971987e4ad652dd4d0e55970bc2cfeb98563de89821#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
