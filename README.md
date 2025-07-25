@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-25 18:11:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-25 22:11:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -32,8 +32,8 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-07-25-如何利用多模态大模型进行淘宝商品理解?](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540976&idx=1&sn=d4e17cf36a60df66ff8b3761e7809689&chksm=821864f6d0491205ddb4d3f8e6f79f24cc9d981e0780b56f0cc069fae4c9e4be15962958775e&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-23-面向互联网2C业务的分布式类Manus-Java框架](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540954&idx=1&sn=c410728ed2bbd65603b02ee1130089ef&chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&scene=0#rd)  
 - [2025-07-21-我的Cursor编程实践经验分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540949&idx=1&sn=946f7705cb09278c89974d7a760b17f8&chksm=8390c38db4e74a9b4254eef92ac087900cba1de81214c490c44a60bfacd68f13e624e1a2f90c#rd)  
 - [2025-07-18-200行极简demo---学习如何手搓一个ReAct-Agent](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540935&idx=1&sn=d1e416b8abdeffcf0e66242375f21a61&chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd)  
 - [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd)  
 - [2025-06-11-探秘TaoAvatar：淘宝3D真人数字人技术解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540493&idx=1&sn=82abb3daaaa9461ec400520d60e6b3cb&chksm=82dd32ac20370a1c808ccd155d4d7e909094183950ee7a88814f43e6a014f580cf2b1ea87333&scene=0#rd)  
-- [2025-06-09-阿里淘天T-Star-Lab-技术Openday-报名开放](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540429&idx=1&sn=8ac3cf2baf63057635f258fb149e87f4&chksm=825c40a9c22f70b14a8bafb38aad9cf1699bc998d403a29407434436514cc61467f63a97be00&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/) ![](/assets/new.png)  
+- [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
