@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-25T04:30:18.435Z</updated>
+    <updated>2025-07-25T10:11:42.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS倒反天罡居然支持if()函数了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/"/>
+        <updated>2025-07-25T00:00:00.000Z</updated>
+        <published>2025-07-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxy 有哪些东西是无法拦截的？深入解释 Reflect 与陷阱盲区]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527309&amp;idx=1&amp;sn=4ac02afa9ef38f09e935efea2310c694&amp;chksm=f9926d5ccee5e44af548fa950b8a0815ec2c561e345288b3ff6516b6024ea1a6461a54d0d9d6#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[视频编辑，如何选择技术方案]]></title>
         <id>https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/</id>
         <link href="https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/"/>
-        <updated>2025-07-07T00:00:00.000Z</updated>
-        <published>2025-07-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何做到在手机上实时跑3D真人数字人？MNN-TaoAvatar开源了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540824&amp;idx=1&amp;sn=8d56c71f2037d663bde18700280373ed&amp;chksm=82990e03da4e0109b53de8030fa23f85ba63997a041fdec97a1819a6b92d6c5a5b9ebf9e0188&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540824&amp;idx=1&amp;sn=8d56c71f2037d663bde18700280373ed&amp;chksm=82990e03da4e0109b53de8030fa23f85ba63997a041fdec97a1819a6b92d6c5a5b9ebf9e0188&amp;scene=0#rd"/>
         <updated>2025-07-07T00:00:00.000Z</updated>
         <published>2025-07-07T00:00:00.000Z</published>
     </entry>
