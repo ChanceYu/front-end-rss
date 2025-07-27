@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-26T16:11:04.070Z</updated>
+    <updated>2025-07-27T14:09:11.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[CSS倒反天罡居然支持if()函数了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/"/>
+        <updated>2025-07-25T00:00:00.000Z</updated>
+        <published>2025-07-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node进阶，一定要学下这个10+万Star项目！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527325&amp;idx=1&amp;sn=9345761f7a2238403de09291cf4e4dde&amp;chksm=f9926d4ccee5e45a63dcdda0334c1c88de3bb5f557fb56c344101318c6462042b91b8ab0bbea#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527325&amp;idx=1&amp;sn=9345761f7a2238403de09291cf4e4dde&amp;chksm=f9926d4ccee5e45a63dcdda0334c1c88de3bb5f557fb56c344101318c6462042b91b8ab0bbea#rd"/>
         <updated>2025-07-25T00:00:00.000Z</updated>
         <published>2025-07-25T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS支持 if / else 了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517323&amp;idx=1&amp;sn=3f8056a42a4e07b9da50b57e6a87ab1a&amp;chksm=eb07bcf2dc7035e423c70c78275087356985c9177a1e53d2a09cb3edff2a1050d861061b1c76#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517323&amp;idx=1&amp;sn=3f8056a42a4e07b9da50b57e6a87ab1a&amp;chksm=eb07bcf2dc7035e423c70c78275087356985c9177a1e53d2a09cb3edff2a1050d861061b1c76#rd"/>
-        <updated>2025-07-08T00:00:00.000Z</updated>
-        <published>2025-07-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[放弃 JSON.parse(JSON.stringify()) 吧！试试现代深拷贝！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527061&amp;idx=1&amp;sn=8fa20e5c426ebb8c0cea67b8a4ca80b9&amp;chksm=f9926c44cee5e552500f75901ce42d19cb45511b9a54e280cb673cb651057e1ad61b755c79c6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527061&amp;idx=1&amp;sn=8fa20e5c426ebb8c0cea67b8a4ca80b9&amp;chksm=f9926c44cee5e552500f75901ce42d19cb45511b9a54e280cb673cb651057e1ad61b755c79c6#rd"/>
         <updated>2025-07-08T00:00:00.000Z</updated>
         <published>2025-07-08T00:00:00.000Z</published>
     </entry>
