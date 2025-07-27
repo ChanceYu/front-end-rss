@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-27T18:13:27.366Z</updated>
+    <updated>2025-07-27T20:10:53.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[CSS倒反天罡居然支持if()函数了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/"/>
+        <updated>2025-07-25T00:00:00.000Z</updated>
+        <published>2025-07-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vue3 的 parse 都做了啥（源码解析）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517347&amp;idx=1&amp;sn=44789afe487086b2818ac25613984699&amp;chksm=eb07bcdadc7035ccac53c7c26d422cce96c9a5d0d9f30785ab2b6f3e3364b51246b1ab4fb1f7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517347&amp;idx=1&amp;sn=44789afe487086b2818ac25613984699&amp;chksm=eb07bcdadc7035ccac53c7c26d422cce96c9a5d0d9f30785ab2b6f3e3364b51246b1ab4fb1f7#rd"/>
         <updated>2025-07-25T00:00:00.000Z</updated>
         <published>2025-07-25T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[印度程序员一人兼 4 份全职，还拿下年薪 20 万美元 Offer：请病假的时候，竟在 GitHub 上给别家写代码？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd"/>
-        <updated>2025-07-09T00:00:00.000Z</updated>
-        <published>2025-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3546期】如何让 CKEditor 缩小 40% 的：一次深入的包体积优化探索]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276911&amp;idx=1&amp;sn=fe053d1f31a6c1e3b684933492315597&amp;chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276911&amp;idx=1&amp;sn=fe053d1f31a6c1e3b684933492315597&amp;chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&amp;scene=0#rd"/>
         <updated>2025-07-09T00:00:00.000Z</updated>
         <published>2025-07-09T00:00:00.000Z</published>
     </entry>
