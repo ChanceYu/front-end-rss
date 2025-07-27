@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-27T14:09:11.045Z</updated>
+    <updated>2025-07-27T18:13:27.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[2025 年现代 Node.js 开发模式]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd"/>
+        <updated>2025-07-27T00:00:00.000Z</updated>
+        <published>2025-07-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个 Vue3 强大的 API，让你随心所欲操控数据更新！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505114&amp;idx=1&amp;sn=12a922b48bac294a8ea93fd5ed6286cd&amp;chksm=ce45c14bf932485dbe8c78e83e2809a9f6423413f6e8bb1118233cac2a0a74ef157094448197#rd</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276911&amp;idx=1&amp;sn=fe053d1f31a6c1e3b684933492315597&amp;chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&amp;scene=0#rd"/>
         <updated>2025-07-09T00:00:00.000Z</updated>
         <published>2025-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS支持 if / else 了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517323&amp;idx=1&amp;sn=3f8056a42a4e07b9da50b57e6a87ab1a&amp;chksm=eb07bcf2dc7035e423c70c78275087356985c9177a1e53d2a09cb3edff2a1050d861061b1c76#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517323&amp;idx=1&amp;sn=3f8056a42a4e07b9da50b57e6a87ab1a&amp;chksm=eb07bcf2dc7035e423c70c78275087356985c9177a1e53d2a09cb3edff2a1050d861061b1c76#rd"/>
-        <updated>2025-07-08T00:00:00.000Z</updated>
-        <published>2025-07-08T00:00:00.000Z</published>
     </entry>
 </feed>
