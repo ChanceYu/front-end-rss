@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-27T20:10:53.501Z</updated>
+    <updated>2025-07-28T03:29:47.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3559期】深入分析 await fetch() 性能问题及优化方法]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277068&amp;idx=1&amp;sn=34adce747d9223736622cc406d77cd24&amp;chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277068&amp;idx=1&amp;sn=34adce747d9223736622cc406d77cd24&amp;chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&amp;scene=0#rd"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <published>2025-07-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 年现代 Node.js 开发模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vue的@vue:mounted，我相信90%的人都没有用过吧？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504961&amp;idx=1&amp;sn=02ff0890aa90c65dca9346f9a9cfe9b3&amp;chksm=ce45c1d0f93248c6bc3dbf95e8a5355e4c8703d56ea259bf732c5c9b7ef8455c7e8dcf3c69e2#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504961&amp;idx=1&amp;sn=02ff0890aa90c65dca9346f9a9cfe9b3&amp;chksm=ce45c1d0f93248c6bc3dbf95e8a5355e4c8703d56ea259bf732c5c9b7ef8455c7e8dcf3c69e2#rd"/>
-        <updated>2025-07-09T00:00:00.000Z</updated>
-        <published>2025-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度程序员一人兼 4 份全职，还拿下年薪 20 万美元 Offer：请病假的时候，竟在 GitHub 上给别家写代码？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622759&amp;idx=1&amp;sn=610ba886a63c4f8654b526acd838031a&amp;chksm=80225aa6b755d3b0781ce717b42fc6360e7ad6e195b3cbc9ecf9e10fa2a6a9982ed42648d18b#rd"/>
         <updated>2025-07-09T00:00:00.000Z</updated>
         <published>2025-07-09T00:00:00.000Z</published>
     </entry>
