@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-29 11:42:18，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-29 22:15:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588) ![](/assets/new.png)  
 - [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
 - [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586)  
 - [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
@@ -66,7 +67,6 @@
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
-- [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-07-29-【第3560期】事件驱动架构-vs-请求-响应架构：2025-开发者完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-29-【第3560期】事件驱动架构-vs-请求-响应架构：2025-开发者完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&scene=0#rd)  
 - [2025-07-28-【第3559期】深入分析-await-fetch-性能问题及优化方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277068&idx=1&sn=34adce747d9223736622cc406d77cd24&chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&scene=0#rd)  
 - [2025-07-25-【第3558期】谁说前端改动看不出影响范围？用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277052&idx=1&sn=1d3ff5e35a248f763f2b9db3045dde72&chksm=bc1ea7f1189aa7df27c033e2facb4c2b7c29c366a580e54628c7757490d1ec80fcee856d338c&scene=0#rd)  
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd)  
@@ -140,10 +140,10 @@
 </summary>
 
 
-- [2025-07-28-前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=2&sn=f4d992df3536ddc49bdef4eb21b32c80&chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd) ![](/assets/new.png)  
-- [2025-07-28-文件被-Gemini-当场“格式化”，全没了！网友控诉：Claude、Copilot-也爱删库，一个都跑不了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=1&sn=67e0c26a0716b1b457353434735cfe4c&chksm=80225a0ab755d31ceb97e42a8503a5b9476d97958c30759f10d9df926ca5e7879b4b756b3b09#rd) ![](/assets/new.png)  
-- [2025-07-25-作为前端Team-Leader，我是如何做技术选型、项目排期和新人培养的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=2&sn=0f50fc8383160dfc361ebe517b8992f6&chksm=80225a00b755d31671cb335725dfca43c519ed969c6393d3494e3e12c65d6fce4672c74fdbc2#rd) ![](/assets/new.png)  
-- [2025-07-25-某大V呼吁“吊销不支持纯血鸿蒙的-APP-的-ICP-许可”，DeepSeek：极端粗暴且不合法，不切实际](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=1&sn=f44266258fcd183c255cce084684fe27&chksm=80225a00b755d316384e24ae260f648466bc3bcd35dd87f8e94063f2894edc77eecf5796ab39#rd) ![](/assets/new.png)  
+- [2025-07-28-前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=2&sn=f4d992df3536ddc49bdef4eb21b32c80&chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd)  
+- [2025-07-28-文件被-Gemini-当场“格式化”，全没了！网友控诉：Claude、Copilot-也爱删库，一个都跑不了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=1&sn=67e0c26a0716b1b457353434735cfe4c&chksm=80225a0ab755d31ceb97e42a8503a5b9476d97958c30759f10d9df926ca5e7879b4b756b3b09#rd)  
+- [2025-07-25-作为前端Team-Leader，我是如何做技术选型、项目排期和新人培养的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=2&sn=0f50fc8383160dfc361ebe517b8992f6&chksm=80225a00b755d31671cb335725dfca43c519ed969c6393d3494e3e12c65d6fce4672c74fdbc2#rd)  
+- [2025-07-25-某大V呼吁“吊销不支持纯血鸿蒙的-APP-的-ICP-许可”，DeepSeek：极端粗暴且不合法，不切实际](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=1&sn=f44266258fcd183c255cce084684fe27&chksm=80225a00b755d316384e24ae260f648466bc3bcd35dd87f8e94063f2894edc77eecf5796ab39#rd)  
 - [2025-07-24-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622831&idx=1&sn=7ffad96fb1961b84d5fbae6a10dc8a3d&chksm=80225a6eb755d378dd93fc91fe4896b51ae693b12ab393406c8e4aee48d3da5085f8371ce165#rd)  
 - [2025-07-22-快速掌握-Docker：前端开发者也能轻松玩转容器化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622815&idx=2&sn=61a9dd13983d41ca1e536ef52a3848f5&chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd)  
 - [2025-07-22-王垠：我用-AI-编程的经历](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622815&idx=1&sn=90a410177e284dbaff88a6dfc5ab36d9&chksm=80225a5eb755d3487d3714a11b4a870c2710d51c2b0a39a10bdde485753dc1664df3e2a2caf5#rd)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-29T03:42:18.890Z</updated>
+    <updated>2025-07-29T14:15:04.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3560期】事件驱动架构 vs 请求-响应架构：2025 开发者完整指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd"/>
+        <updated>2025-07-29T00:00:00.000Z</updated>
+        <published>2025-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An epic rundown of JavaScript engines and runtimes]]></title>
+        <id>https://nodeweekly.com/issues/588</id>
+        <link href="https://nodeweekly.com/issues/588"/>
         <updated>2025-07-29T00:00:00.000Z</updated>
         <published>2025-07-29T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276917&amp;idx=1&amp;sn=1cc382a66cc417fe94617ad3b7620265&amp;chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&amp;scene=0#rd"/>
         <updated>2025-07-10T00:00:00.000Z</updated>
         <published>2025-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[端侧AI突破性能瓶颈：MNN 基于 SME2 指令集的大模型高效推理实现]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540883&amp;idx=1&amp;sn=31ecf286c928a070b681494375c7c66d&amp;chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540883&amp;idx=1&amp;sn=31ecf286c928a070b681494375c7c66d&amp;chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&amp;scene=0#rd"/>
-        <updated>2025-07-09T00:00:00.000Z</updated>
-        <published>2025-07-09T00:00:00.000Z</published>
     </entry>
 </feed>
