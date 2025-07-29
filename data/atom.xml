@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-29T14:15:04.693Z</updated>
+    <updated>2025-07-29T16:12:43.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,13 @@
         <published>2025-07-29T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Deepseek，2025 最值得学习10 个 Vue3 库源码？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505125&amp;idx=1&amp;sn=d4124134d6a5eb37a8fbfcde998e68a8&amp;chksm=ce45c174f9324862534a37d1fb61a8d27bba03694f2d4a6e9efd70fc55a60efa250da0b3a06b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505125&amp;idx=1&amp;sn=d4124134d6a5eb37a8fbfcde998e68a8&amp;chksm=ce45c174f9324862534a37d1fb61a8d27bba03694f2d4a6e9efd70fc55a60efa250da0b3a06b#rd"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <published>2025-07-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622859&amp;idx=2&amp;sn=f4d992df3536ddc49bdef4eb21b32c80&amp;chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622859&amp;idx=2&amp;sn=f4d992df3536ddc49bdef4eb21b32c80&amp;chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd"/>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[2025 年现代 Node.js 开发模式]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd"/>
+        <updated>2025-07-27T00:00:00.000Z</updated>
+        <published>2025-07-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[值得学习的 10 个 代码知识库，助你进阶 JavaScript]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505120&amp;idx=1&amp;sn=0e525708ede472da9fc65cce68b21689&amp;chksm=ce45c171f932486794482446e827bbf5ed487aee588db60b3011e0f834500bddba2a6dc5a420#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505120&amp;idx=1&amp;sn=0e525708ede472da9fc65cce68b21689&amp;chksm=ce45c171f932486794482446e827bbf5ed487aee588db60b3011e0f834500bddba2a6dc5a420#rd"/>
         <updated>2025-07-27T00:00:00.000Z</updated>
         <published>2025-07-27T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[HTML新search元素,h1规则要变,声明式Shadow DOM]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/"/>
-        <updated>2025-07-10T00:00:00.000Z</updated>
-        <published>2025-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9个高级前端必会的性能优化API你都知道几个？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527105&amp;idx=1&amp;sn=1b7e90df1fbb7253b222234761d9bccc&amp;chksm=f9926c10cee5e506f946b78bb16d117b983566211eb1758eb1e05e5f04571fdaae2d4c4d82c6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527105&amp;idx=1&amp;sn=1b7e90df1fbb7253b222234761d9bccc&amp;chksm=f9926c10cee5e506f946b78bb16d117b983566211eb1758eb1e05e5f04571fdaae2d4c4d82c6#rd"/>
-        <updated>2025-07-10T00:00:00.000Z</updated>
-        <published>2025-07-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3547期】渐进式JSON]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276917&amp;idx=1&amp;sn=1cc382a66cc417fe94617ad3b7620265&amp;chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276917&amp;idx=1&amp;sn=1cc382a66cc417fe94617ad3b7620265&amp;chksm=bc05a8030a6ac0b3895e074f67884a2ec77fb39bf37b5486ac75ab7a63c25d51024f176fcfb4&amp;scene=0#rd"/>
         <updated>2025-07-10T00:00:00.000Z</updated>
         <published>2025-07-10T00:00:00.000Z</published>
     </entry>
