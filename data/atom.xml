@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-28T12:20:01.449Z</updated>
+    <updated>2025-07-29T03:42:18.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3560期】事件驱动架构 vs 请求-响应架构：2025 开发者完整指南]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd"/>
+        <updated>2025-07-29T00:00:00.000Z</updated>
+        <published>2025-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622859&amp;idx=2&amp;sn=f4d992df3536ddc49bdef4eb21b32c80&amp;chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622859&amp;idx=2&amp;sn=f4d992df3536ddc49bdef4eb21b32c80&amp;chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <published>2025-07-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3559期】深入分析 await fetch() 性能问题及优化方法]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277068&amp;idx=1&amp;sn=34adce747d9223736622cc406d77cd24&amp;chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&amp;scene=0#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[端侧AI突破性能瓶颈：MNN 基于 SME2 指令集的大模型高效推理实现]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540883&amp;idx=1&amp;sn=31ecf286c928a070b681494375c7c66d&amp;chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540883&amp;idx=1&amp;sn=31ecf286c928a070b681494375c7c66d&amp;chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&amp;scene=0#rd"/>
-        <updated>2025-07-09T00:00:00.000Z</updated>
-        <published>2025-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试官：为什么在 Vue3 中 ref 变量要用 .value？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527077&amp;idx=1&amp;sn=aad51e6868f97d9611d76593b4679e98&amp;chksm=f9926c74cee5e5625493f52ec75da7e262203fe2a41e5358750411723279579d41a95930384d#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527077&amp;idx=1&amp;sn=aad51e6868f97d9611d76593b4679e98&amp;chksm=f9926c74cee5e5625493f52ec75da7e262203fe2a41e5358750411723279579d41a95930384d#rd"/>
-        <updated>2025-07-09T00:00:00.000Z</updated>
-        <published>2025-07-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue的@vue:mounted，我相信90%的人都没有用过吧？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504961&amp;idx=1&amp;sn=02ff0890aa90c65dca9346f9a9cfe9b3&amp;chksm=ce45c1d0f93248c6bc3dbf95e8a5355e4c8703d56ea259bf732c5c9b7ef8455c7e8dcf3c69e2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247504961&amp;idx=1&amp;sn=02ff0890aa90c65dca9346f9a9cfe9b3&amp;chksm=ce45c1d0f93248c6bc3dbf95e8a5355e4c8703d56ea259bf732c5c9b7ef8455c7e8dcf3c69e2#rd"/>
         <updated>2025-07-09T00:00:00.000Z</updated>
         <published>2025-07-09T00:00:00.000Z</published>
     </entry>
