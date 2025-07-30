@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-30 00:12:42，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-30 08:52:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,14 +23,14 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2025-07-29-周下载量突破30w！即将取代Lodash](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505177&idx=1&sn=5f33a75ddb6d803fbff862804640d326&chksm=ce45c088f932499e89a7e4f1826596f0c0051ac13c1da872a26e3c733fce4a63f7047578f9bb#rd) ![](/assets/new.png)  
-- [2025-07-28-Deepseek，2025-最值得学习10-个-Vue3-库源码？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505125&idx=1&sn=d4124134d6a5eb37a8fbfcde998e68a8&chksm=ce45c174f9324862534a37d1fb61a8d27bba03694f2d4a6e9efd70fc55a60efa250da0b3a06b#rd) ![](/assets/new.png)  
-- [2025-07-27-值得学习的-10-个-代码知识库，助你进阶-JavaScript](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505120&idx=1&sn=0e525708ede472da9fc65cce68b21689&chksm=ce45c171f932486794482446e827bbf5ed487aee588db60b3011e0f834500bddba2a6dc5a420#rd) ![](/assets/new.png)  
+- [2025-07-29-周下载量突破30w！即将取代Lodash](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505177&idx=1&sn=5f33a75ddb6d803fbff862804640d326&chksm=ce45c088f932499e89a7e4f1826596f0c0051ac13c1da872a26e3c733fce4a63f7047578f9bb#rd)  
+- [2025-07-28-Deepseek，2025-最值得学习10-个-Vue3-库源码？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505125&idx=1&sn=d4124134d6a5eb37a8fbfcde998e68a8&chksm=ce45c174f9324862534a37d1fb61a8d27bba03694f2d4a6e9efd70fc55a60efa250da0b3a06b#rd)  
+- [2025-07-27-值得学习的-10-个-代码知识库，助你进阶-JavaScript](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505120&idx=1&sn=0e525708ede472da9fc65cce68b21689&chksm=ce45c171f932486794482446e827bbf5ed487aee588db60b3011e0f834500bddba2a6dc5a420#rd)  
 - [2025-07-26-一个-Vue3-强大的-API，让你随心所欲操控数据更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505114&idx=1&sn=12a922b48bac294a8ea93fd5ed6286cd&chksm=ce45c14bf932485dbe8c78e83e2809a9f6423413f6e8bb1118233cac2a0a74ef157094448197#rd)  
 - [2025-07-25-团队准备解散了。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505108&idx=1&sn=04e4664c509f384ad33969e2046149bb&chksm=ce45c145f9324853600a44fded5f1632a1396d8e87117be47a6463906eeac9d91ec5d7c0bca5#rd)  
 - [2025-07-24-AI+网页设计：几分钟打造公平决策点名系统的全过程](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505110&idx=1&sn=d479c53f8f28bc4aff9d48f06b2a6ae1&chksm=ce45c147f9324851778c9a66d099329c7384d3baf88a99629303feeeb0becb16e3b6a9e002b2#rd)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-07-29-vue-vapor-的-IR-是个啥](http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw) ![](/assets/new.png)  
+- [2025-07-28-TypeScript-发布-5.9-预览版！](http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw) ![](/assets/new.png)  
 - [2025-07-25-vue3-的-parse-都做了啥（源码解析）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517347&idx=1&sn=44789afe487086b2818ac25613984699&chksm=eb07bcdadc7035ccac53c7c26d422cce96c9a5d0d9f30785ab2b6f3e3364b51246b1ab4fb1f7#rd)  
 - [2025-07-24-谁说前端改动看不出影响范围？我用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517343&idx=1&sn=f1ef8e01cf3303fe6ececf83268db72c&chksm=eb07bce6dc7035f00658c7cc8f2e6a9b75a7aff072ad0d1fb08b5f25f4609d873ac41aa2fd8d#rd)  
 - [2025-07-22-前端物料库的设计](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517339&idx=1&sn=000eeb44e96ac803c0cbdd5ebc5cd8a3&chksm=eb07bce2dc7035f46789c98a8054fe08b0c57059725663f72b4bea6e2e98584123787ccb4c11#rd)  
@@ -437,8 +439,6 @@
 - [2025-06-23-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517261&idx=1&sn=0bc013463da7fd6816a64b5c07416112&chksm=eb07bc34dc70352224f27ea77e247adc4d32214e76087e3200c4975fca5a44e70fdf94c522d2#rd)  
 - [2025-06-18-尤雨溪力荐-H3！性能炸裂！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517254&idx=1&sn=451415a5649fcb54c2f70a6474094e33&chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd)  
 - [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd)  
-- [2025-06-06-尤雨溪：Vite-换“芯”发布，性能更强！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517250&idx=1&sn=4f686f480ebc3d7ff9d1f98b1e1f27cc&chksm=eb07bc3bdc70352d42fad3a261988f294e0cd784e3cf122da6968f4ef20ff539fa44ea44e6b6#rd)  
-- [2025-06-05-尤雨溪：重大升级！Vue-正式引入-AI-！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517248&idx=1&sn=a53bb96c94dd7ea56295ff088583bad6&chksm=eb07bc39dc70352f7077f666fd9786cfd559031fb8a50de9d7f1cac60077704707a1fc6a5c37#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

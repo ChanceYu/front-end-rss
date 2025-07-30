@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-29T16:12:43.153Z</updated>
+    <updated>2025-07-30T00:52:28.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[vue-vapor 的 IR 是个啥]]></title>
+        <id>http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw</id>
+        <link href="http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw"/>
+        <updated>2025-07-29T00:00:00.000Z</updated>
+        <published>2025-07-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3560期】事件驱动架构 vs 请求-响应架构：2025 开发者完整指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd</id>
@@ -27,6 +34,13 @@
         <link href="https://nodeweekly.com/issues/588"/>
         <updated>2025-07-29T00:00:00.000Z</updated>
         <published>2025-07-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 发布 5.9 预览版！]]></title>
+        <id>http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw</id>
+        <link href="http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <published>2025-07-28T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deepseek，2025 最值得学习10 个 Vue3 库源码？]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276923&amp;idx=1&amp;sn=e7260e8cd7cf9b13dd6dcf9b6941d48b&amp;chksm=bc10cc64723a996ab9212ebe574ff3a217a7d0d08871636c1c08ea56eaeb15b3b55ca9ffd9ab&amp;scene=0#rd"/>
         <updated>2025-07-11T00:00:00.000Z</updated>
         <published>2025-07-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The details of TC39's last meeting]]></title>
-        <id>https://javascriptweekly.com/issues/744</id>
-        <link href="https://javascriptweekly.com/issues/744"/>
-        <updated>2025-07-11T00:00:00.000Z</updated>
-        <published>2025-07-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML新search元素,h1规则要变,声明式Shadow DOM]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/"/>
-        <updated>2025-07-10T00:00:00.000Z</updated>
-        <published>2025-07-10T00:00:00.000Z</published>
     </entry>
 </feed>
