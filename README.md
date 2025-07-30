@@ -14,25 +14,25 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-07-30 11:27:27，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-30 20:20:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-07-30-【第3561期】网络应用程序架构的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277106&idx=1&sn=b5d1cf2919d74fc5b8f18519b6d203ee&chksm=bc22ee5b0c1b1ef1496a4caa81b9d37e9bbb298fe11d794389e3efc339967ce266fa551af57a&scene=0#rd) ![](/assets/new.png)  
+- [2025-07-30-【第3561期】网络应用程序架构的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277106&idx=1&sn=b5d1cf2919d74fc5b8f18519b6d203ee&chksm=bc22ee5b0c1b1ef1496a4caa81b9d37e9bbb298fe11d794389e3efc339967ce266fa551af57a&scene=0#rd)  
 - [2025-07-29-【第3560期】事件驱动架构-vs-请求-响应架构：2025-开发者完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&scene=0#rd)  
 - [2025-07-28-【第3559期】深入分析-await-fetch-性能问题及优化方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277068&idx=1&sn=34adce747d9223736622cc406d77cd24&chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&scene=0#rd)  
 - [2025-07-25-【第3558期】谁说前端改动看不出影响范围？用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277052&idx=1&sn=1d3ff5e35a248f763f2b9db3045dde72&chksm=bc1ea7f1189aa7df27c033e2facb4c2b7c29c366a580e54628c7757490d1ec80fcee856d338c&scene=0#rd)  
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-07-29-做-DOCX-预览？这个神库别错过！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527375&idx=1&sn=0390ca6b982e1f4b9806593c56adb97f&chksm=f9926d1ecee5e40898e4d9a08dad92706d83ba0fdbbbdec119ac117630916ec1493f5b08498d#rd) ![](/assets/new.png)  
-- [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd) ![](/assets/new.png)  
+- [2025-07-29-做-DOCX-预览？这个神库别错过！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527375&idx=1&sn=0390ca6b982e1f4b9806593c56adb97f&chksm=f9926d1ecee5e40898e4d9a08dad92706d83ba0fdbbbdec119ac117630916ec1493f5b08498d#rd)  
+- [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd)  
 - [2025-07-27-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527334&idx=1&sn=7d2a1c8ac915991e1f4afe439c68e63b&chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd)  
 - [2025-07-25-Node进阶，一定要学下这个10+万Star项目！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527325&idx=1&sn=9345761f7a2238403de09291cf4e4dde&chksm=f9926d4ccee5e45a63dcdda0334c1c88de3bb5f557fb56c344101318c6462042b91b8ab0bbea#rd)  
 - [2025-07-24-Proxy-有哪些东西是无法拦截的？深入解释-Reflect-与陷阱盲区](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527309&idx=1&sn=4ac02afa9ef38f09e935efea2310c694&chksm=f9926d5ccee5e44af548fa950b8a0815ec2c561e345288b3ff6516b6024ea1a6461a54d0d9d6#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-07-30-RLHF技术实践：大语言与文生图模型的生成优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541046&idx=1&sn=e59f6774c2a7862fec2736f695a30cd2&chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-28-NL2SQL：从自然语言到SQL的智能转换技术深度解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540986&idx=1&sn=01da2d69f5d90d9655ddff075f49d422&chksm=82c10d8309cd68c0a120bdc62abe0e0c6d7a2f445ebd6bf86ae3604e6a957051f9b08e037838&scene=0#rd)  
 - [2025-07-25-如何利用多模态大模型进行淘宝商品理解?](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540976&idx=1&sn=d4e17cf36a60df66ff8b3761e7809689&chksm=821864f6d0491205ddb4d3f8e6f79f24cc9d981e0780b56f0cc069fae4c9e4be15962958775e&scene=0#rd)  
 - [2025-07-23-面向互联网2C业务的分布式类Manus-Java框架](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540954&idx=1&sn=c410728ed2bbd65603b02ee1130089ef&chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-06-20-淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540634&idx=1&sn=d3dbd01a78bda38eb2045fefc3fd3287&chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&scene=0#rd)  
 - [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd)  
 - [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd)  
-- [2025-06-13-聊聊AI应用架构演进](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540520&idx=1&sn=d0d4a05202185efaa0724f616e80db66&chksm=8224e3a71d2b993a264f341fa4fc7b188c97b2537a89c49abfb726c433edc8d03f75788d7d49&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
