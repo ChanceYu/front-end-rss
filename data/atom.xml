@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-30T00:52:28.953Z</updated>
+    <updated>2025-07-30T03:27:27.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[TypeScript 发布 5.9 预览版！]]></title>
         <id>http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw</id>
         <link href="http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw"/>
+        <updated>2025-07-28T00:00:00.000Z</updated>
+        <published>2025-07-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别再乱用 as 了，TypeScript 的 satisfies 更香！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527370&amp;idx=1&amp;sn=dc02935d0c5698aed8e141d07c619a6b&amp;chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527370&amp;idx=1&amp;sn=dc02935d0c5698aed8e141d07c619a6b&amp;chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd"/>
         <updated>2025-07-28T00:00:00.000Z</updated>
         <published>2025-07-28T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[这是我告别 nvm 后，用过最省心的 Node.js 版本管理工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527125&amp;idx=1&amp;sn=f0101cc1d807f14aba78dcd42d3d5afe&amp;chksm=f9926c04cee5e5124bf542ed618e0ede966e53492f696595f50f455c7a5e6a2d321633bd8557#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527125&amp;idx=1&amp;sn=f0101cc1d807f14aba78dcd42d3d5afe&amp;chksm=f9926c04cee5e5124bf542ed618e0ede966e53492f696595f50f455c7a5e6a2d321633bd8557#rd"/>
-        <updated>2025-07-11T00:00:00.000Z</updated>
-        <published>2025-07-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3548期】全新 CSS if 函数将彻底改变样式写法]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276923&amp;idx=1&amp;sn=e7260e8cd7cf9b13dd6dcf9b6941d48b&amp;chksm=bc10cc64723a996ab9212ebe574ff3a217a7d0d08871636c1c08ea56eaeb15b3b55ca9ffd9ab&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276923&amp;idx=1&amp;sn=e7260e8cd7cf9b13dd6dcf9b6941d48b&amp;chksm=bc10cc64723a996ab9212ebe574ff3a217a7d0d08871636c1c08ea56eaeb15b3b55ca9ffd9ab&amp;scene=0#rd"/>
         <updated>2025-07-11T00:00:00.000Z</updated>
         <published>2025-07-11T00:00:00.000Z</published>
     </entry>
