@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-01T03:47:24.337Z</updated>
+    <updated>2025-08-01T10:11:57.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[未来，所有 Typescript 项目性能将飙升 15 倍！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505196&amp;idx=1&amp;sn=01a580ac4a838e991f0cb348ee14319b&amp;chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505196&amp;idx=1&amp;sn=01a580ac4a838e991f0cb348ee14319b&amp;chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd"/>
+        <updated>2025-07-30T00:00:00.000Z</updated>
+        <published>2025-07-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remix 3终结以React为中心的架构]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526200&amp;idx=1&amp;sn=fa6ce30ed5f115e239c6548a1f8adb54&amp;chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526200&amp;idx=1&amp;sn=fa6ce30ed5f115e239c6548a1f8adb54&amp;chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd"/>
         <updated>2025-07-30T00:00:00.000Z</updated>
         <published>2025-07-30T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276930&amp;idx=1&amp;sn=30b1310665cc50bd4ac0f54b9073d10d&amp;chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&amp;scene=0#rd"/>
         <updated>2025-07-14T00:00:00.000Z</updated>
         <published>2025-07-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端开发的你，其实并没有真的掌握img标签！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527127&amp;idx=1&amp;sn=2072a0ba1499f795bed5cecd3d90f337&amp;chksm=f9926c06cee5e51070769d6e49ac45901bbdfe873c2caf7a183be1cdd76d57891584278e0bee#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527127&amp;idx=1&amp;sn=2072a0ba1499f795bed5cecd3d90f337&amp;chksm=f9926c06cee5e51070769d6e49ac45901bbdfe873c2caf7a183be1cdd76d57891584278e0bee#rd"/>
-        <updated>2025-07-13T00:00:00.000Z</updated>
-        <published>2025-07-13T00:00:00.000Z</published>
     </entry>
 </feed>

@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-01 11:47:23，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-01 18:11:57，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-08-01-【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=2&sn=f3fd7ce0682ed78bce5ce95908c18465&chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&scene=0#rd) ![](/assets/new.png)  
-- [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-01-【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=2&sn=f3fd7ce0682ed78bce5ce95908c18465&chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&scene=0#rd)  
+- [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd)  
 - [2025-07-31-【第3562期】各类状态的混乱现状](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277111&idx=1&sn=988b132356f64357b96a49ef76de25fd&chksm=bcf8cea1a29293bdfdd60de13bd5b9d5ed5a2171e4395fe029511bf045fe898f01821f4da317&scene=0#rd)  
 - [2025-07-30-【第3561期】网络应用程序架构的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277106&idx=1&sn=b5d1cf2919d74fc5b8f18519b6d203ee&chksm=bc22ee5b0c1b1ef1496a4caa81b9d37e9bbb298fe11d794389e3efc339967ce266fa551af57a&scene=0#rd)  
 - [2025-07-29-【第3560期】事件驱动架构-vs-请求-响应架构：2025-开发者完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&scene=0#rd)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-07-30-Remix-3终结以React为中心的架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526200&idx=1&sn=fa6ce30ed5f115e239c6548a1f8adb54&chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd) ![](/assets/new.png)  
 - [2025-07-18-GitHub-2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526177&idx=1&sn=acde5cec1ba299efe633a3614de56bcd&chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd)  
 - [2025-07-10-16-年-macOS-程序员用-Claude-Code-搞副业：我只手敲了-1000-行，剩下-95%-代码靠自动生成](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526154&idx=1&sn=4b90107b67f10fea7bdc3fc38bcb03b6&chksm=f952d249ce255b5fb47b41b908f8a595e2940dd676003cf0a474a75cbe3f4319dbb6dd293512#rd)  
 - [2025-07-06-假简历狂骗硅谷10+家AI公司、拿多头薪水被锤！印度工程师喊冤：每周拼140小时，我也很绝望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526136&idx=1&sn=f0835fd40dbea75ee0dfe525866da446&chksm=f952d3bbce255aadbbb74d9ac81060446fb9a2e621b831df19ca4e1e1ec9ea7cf3f6b92ee6f3#rd)  
@@ -190,7 +191,6 @@
 - [2025-03-06-Svelte-不是-JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525831&idx=1&sn=8ae81b3c796905bc720dac999021c857&chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd)  
 - [2025-02-26-npm-够用吗？初创企业为何追捧这个-JavaScript-软件包注册表？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525814&idx=1&sn=bf3e65ceac08ece072f8e69502fd38f5&chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd)  
 - [2025-02-19-Dagger：我们用-GO-和-WebAssembly-替换了-React-前端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525796&idx=1&sn=febe59179a516cdb3c14ae39d124c780&chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd)  
-- [2025-02-12-用了-7-年-Web-组件，踩坑无数，我终于看清了的真相](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525781&idx=1&sn=276067f4150bc9bd635151ef97d753d0&chksm=f952d0d6ce2559c06aded53643ec5e1d1709c93c44f33c2526d0bf8bcdd1c3cebfe91044cc15#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-08-01-取代前端岗，又一新兴岗位在崛起！这才是前端人未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505208&idx=1&sn=ea0b7411ed52c28fe5f27d0a1aaeef58&chksm=ce45c0a9f93249bf221a8280793af697e7875219fb399d0482f8bf69322d51a45f1543524a17#rd) ![](/assets/new.png)  
 - [2025-07-31-各大开源都使用的前端校验神库！强大的可怕！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505201&idx=1&sn=88aabb3c0b37ece299d10c084aa934e0&chksm=ce45c0a0f93249b65bba58520eeb82c0a7d02eb614611767064408ef190af22923f3f6852acd#rd)  
 - [2025-07-30-未来，所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505196&idx=1&sn=01a580ac4a838e991f0cb348ee14319b&chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd)  
 - [2025-07-29-周下载量突破30w！即将取代Lodash](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505177&idx=1&sn=5f33a75ddb6d803fbff862804640d326&chksm=ce45c088f932499e89a7e4f1826596f0c0051ac13c1da872a26e3c733fce4a63f7047578f9bb#rd)  
@@ -221,7 +222,6 @@
 - [2025-07-14-前端的就业市场真是疯了。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505023&idx=1&sn=30a51bd40c041bbeac7598fc19bb2e92&chksm=ce45c1eef93248f853ad680100050b6ce6a4c3278fd54ab4c5112665497b4cf52601d83554e6#rd)  
 - [2025-07-13-通过JS获取你当前的网络状况？建议大家学一学~](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505019&idx=1&sn=5d289bba322deeced88e1d74fb0beee4&chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd)  
 - [2025-07-12-神库-Fuse.js，我愿称之为前端模糊搜索的王者！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505008&idx=1&sn=fdd7594b6bb3e48915d6ef00ad03d784&chksm=ce45c1e1f93248f76f1619b48f5a4222eff6782d0df0561119b8451362dfdbe7feefbfe20536#rd)  
-- [2025-07-11-实现网页全屏，记住这个超实用的-API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504996&idx=1&sn=b4c4a82b7bfed6b75552010de43ad1ba&chksm=ce45c1f5f93248e3182a818783282ff60b1f8f2336051a022dbea663afe72830e6744d183392#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
