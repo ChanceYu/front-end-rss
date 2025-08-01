@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-01 18:11:57，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-01 20:19:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,8 +22,8 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-07-30-Remix-3终结以React为中心的架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526200&idx=1&sn=fa6ce30ed5f115e239c6548a1f8adb54&chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd) ![](/assets/new.png)  
+- [2025-07-30-Remix-3终结以React为中心的架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526200&idx=1&sn=fa6ce30ed5f115e239c6548a1f8adb54&chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd)  
 - [2025-07-18-GitHub-2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526177&idx=1&sn=acde5cec1ba299efe633a3614de56bcd&chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd)  
 - [2025-07-10-16-年-macOS-程序员用-Claude-Code-搞副业：我只手敲了-1000-行，剩下-95%-代码靠自动生成](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526154&idx=1&sn=4b90107b67f10fea7bdc3fc38bcb03b6&chksm=f952d249ce255b5fb47b41b908f8a595e2940dd676003cf0a474a75cbe3f4319dbb6dd293512#rd)  
 - [2025-07-06-假简历狂骗硅谷10+家AI公司、拿多头薪水被锤！印度工程师喊冤：每周拼140小时，我也很绝望](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526136&idx=1&sn=f0835fd40dbea75ee0dfe525866da446&chksm=f952d3bbce255aadbbb74d9ac81060446fb9a2e621b831df19ca4e1e1ec9ea7cf3f6b92ee6f3#rd)  
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-08-01-取代前端岗，又一新兴岗位在崛起！这才是前端人未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505208&idx=1&sn=ea0b7411ed52c28fe5f27d0a1aaeef58&chksm=ce45c0a9f93249bf221a8280793af697e7875219fb399d0482f8bf69322d51a45f1543524a17#rd) ![](/assets/new.png)  
+- [2025-08-01-取代前端岗，又一新兴岗位在崛起！这才是前端人未来5年最好的就业方向！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505208&idx=1&sn=ea0b7411ed52c28fe5f27d0a1aaeef58&chksm=ce45c0a9f93249bf221a8280793af697e7875219fb399d0482f8bf69322d51a45f1543524a17#rd)  
 - [2025-07-31-各大开源都使用的前端校验神库！强大的可怕！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505201&idx=1&sn=88aabb3c0b37ece299d10c084aa934e0&chksm=ce45c0a0f93249b65bba58520eeb82c0a7d02eb614611767064408ef190af22923f3f6852acd#rd)  
 - [2025-07-30-未来，所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505196&idx=1&sn=01a580ac4a838e991f0cb348ee14319b&chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd)  
 - [2025-07-29-周下载量突破30w！即将取代Lodash](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505177&idx=1&sn=5f33a75ddb6d803fbff862804640d326&chksm=ce45c088f932499e89a7e4f1826596f0c0051ac13c1da872a26e3c733fce4a63f7047578f9bb#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-08-01-聊聊AI-Coding](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541057&idx=1&sn=d9a0346498998c0aaf5d0dbc485baa6e&chksm=822be0b7f042c9caa10e7d9a260b3db8c554d9738a670e95b153bee4cf5adea516c5a1cd447d&scene=0#rd) ![](/assets/new.png)  
 - [2025-07-30-RLHF技术实践：大语言与文生图模型的生成优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541046&idx=1&sn=e59f6774c2a7862fec2736f695a30cd2&chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&scene=0#rd)  
 - [2025-07-28-NL2SQL：从自然语言到SQL的智能转换技术深度解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540986&idx=1&sn=01da2d69f5d90d9655ddff075f49d422&chksm=82c10d8309cd68c0a120bdc62abe0e0c6d7a2f445ebd6bf86ae3604e6a957051f9b08e037838&scene=0#rd)  
 - [2025-07-25-如何利用多模态大模型进行淘宝商品理解?](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540976&idx=1&sn=d4e17cf36a60df66ff8b3761e7809689&chksm=821864f6d0491205ddb4d3f8e6f79f24cc9d981e0780b56f0cc069fae4c9e4be15962958775e&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-06-23-淘宝直播数字人：LLM文案生成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540709&idx=1&sn=af29bb9831d31a6f1a0f1c1fe80b2926&chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&scene=0#rd)  
 - [2025-06-20-淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540634&idx=1&sn=d3dbd01a78bda38eb2045fefc3fd3287&chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&scene=0#rd)  
 - [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd)  
-- [2025-06-16-零基础解码Transformer与大模型核心原理](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540560&idx=1&sn=9460b0062a9ac2abfeed9fa0eb80fa8e&chksm=821a913472018f3a04b64854d79c1e9d32ed5f3f1122821cd731f5adcecde06c4736e8bab963&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
