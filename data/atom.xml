@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-01T12:19:43.136Z</updated>
+    <updated>2025-08-01T16:13:05.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277132&amp;idx=2&amp;sn=f3fd7ce0682ed78bce5ce95908c18465&amp;chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277132&amp;idx=2&amp;sn=f3fd7ce0682ed78bce5ce95908c18465&amp;chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&amp;scene=0#rd"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <published>2025-08-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumbo-sized JavaScript for issue 747]]></title>
+        <id>https://javascriptweekly.com/issues/747</id>
+        <link href="https://javascriptweekly.com/issues/747"/>
         <updated>2025-08-01T00:00:00.000Z</updated>
         <published>2025-08-01T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[ECMAScript 2025 正式发布！这 6 个新特性值得你关注]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622771&amp;idx=1&amp;sn=79e004fb4094e4c5104586aa052241e7&amp;chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622771&amp;idx=1&amp;sn=79e004fb4094e4c5104586aa052241e7&amp;chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd"/>
-        <updated>2025-07-14T00:00:00.000Z</updated>
-        <published>2025-07-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3549期】GitHub Actions 全面解析：工作流结构完整指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276930&amp;idx=1&amp;sn=30b1310665cc50bd4ac0f54b9073d10d&amp;chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276930&amp;idx=1&amp;sn=30b1310665cc50bd4ac0f54b9073d10d&amp;chksm=bc42509f4ecfc49daf7bcf0bab5383b8ef3436450b42f41fe242ffb0954fe35fe32e1b934179&amp;scene=0#rd"/>
         <updated>2025-07-14T00:00:00.000Z</updated>
         <published>2025-07-14T00:00:00.000Z</published>
     </entry>
