@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-07-31T12:18:28.585Z</updated>
+    <updated>2025-08-01T03:47:24.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277132&amp;idx=2&amp;sn=f3fd7ce0682ed78bce5ce95908c18465&amp;chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277132&amp;idx=2&amp;sn=f3fd7ce0682ed78bce5ce95908c18465&amp;chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&amp;scene=0#rd"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <published>2025-08-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RLHF技术实践：大语言与文生图模型的生成优化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541046&amp;idx=1&amp;sn=e59f6774c2a7862fec2736f695a30cd2&amp;chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端开发的你，其实并没有真的掌握img标签！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527127&amp;idx=1&amp;sn=2072a0ba1499f795bed5cecd3d90f337&amp;chksm=f9926c06cee5e51070769d6e49ac45901bbdfe873c2caf7a183be1cdd76d57891584278e0bee#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527127&amp;idx=1&amp;sn=2072a0ba1499f795bed5cecd3d90f337&amp;chksm=f9926c06cee5e51070769d6e49ac45901bbdfe873c2caf7a183be1cdd76d57891584278e0bee#rd"/>
-        <updated>2025-07-13T00:00:00.000Z</updated>
-        <published>2025-07-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过JS获取你当前的网络状况？建议大家学一学~]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505019&amp;idx=1&amp;sn=5d289bba322deeced88e1d74fb0beee4&amp;chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505019&amp;idx=1&amp;sn=5d289bba322deeced88e1d74fb0beee4&amp;chksm=ce45c1eaf93248fcc90317191a8d4a10b13e5e649d5bc50d7cbb75388ea3512ac1bd6765ed78#rd"/>
         <updated>2025-07-13T00:00:00.000Z</updated>
         <published>2025-07-13T00:00:00.000Z</published>
     </entry>
