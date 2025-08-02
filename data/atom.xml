@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-01T16:13:05.345Z</updated>
+    <updated>2025-08-02T02:53:47.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[我为什么在团队里，强制要求大家用pnpm而不是npm？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527395&amp;idx=1&amp;sn=9b50ced28f5b3d96cedc3072186379f4&amp;chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527395&amp;idx=1&amp;sn=9b50ced28f5b3d96cedc3072186379f4&amp;chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd"/>
+        <updated>2025-08-01T00:00:00.000Z</updated>
+        <published>2025-08-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277132&amp;idx=2&amp;sn=f3fd7ce0682ed78bce5ce95908c18465&amp;chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&amp;scene=0#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[RLHF技术实践：大语言与文生图模型的生成优化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541046&amp;idx=1&amp;sn=e59f6774c2a7862fec2736f695a30cd2&amp;chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541046&amp;idx=1&amp;sn=e59f6774c2a7862fec2736f695a30cd2&amp;chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&amp;scene=0#rd"/>
+        <updated>2025-07-30T00:00:00.000Z</updated>
+        <published>2025-07-30T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[localStorage 你很好，我选 IndexedDB]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527382&amp;idx=1&amp;sn=c2ddd3e973e0c10d04e191af209f81e4&amp;chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527382&amp;idx=1&amp;sn=c2ddd3e973e0c10d04e191af209f81e4&amp;chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd"/>
         <updated>2025-07-30T00:00:00.000Z</updated>
         <published>2025-07-30T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[刚刚，尤雨溪发布 Vue 新版本，无虚拟 DOM 版 Vue 来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517325&amp;idx=1&amp;sn=6e641a1313213f5d815d77dd421bc61f&amp;chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517325&amp;idx=1&amp;sn=6e641a1313213f5d815d77dd421bc61f&amp;chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd"/>
-        <updated>2025-07-14T00:00:00.000Z</updated>
-        <published>2025-07-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没想到！CSS 现在也能写 if / else 了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527150&amp;idx=1&amp;sn=ffdaf71492545be27ad37826ad3a923a&amp;chksm=f9926c3fcee5e5292a9621707c005ae31fc8079ed0bf689672f16b63cb6a01df97c9c2e29cd8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527150&amp;idx=1&amp;sn=ffdaf71492545be27ad37826ad3a923a&amp;chksm=f9926c3fcee5e5292a9621707c005ae31fc8079ed0bf689672f16b63cb6a01df97c9c2e29cd8#rd"/>
-        <updated>2025-07-14T00:00:00.000Z</updated>
-        <published>2025-07-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECMAScript 2025 正式发布！这 6 个新特性值得你关注]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622771&amp;idx=1&amp;sn=79e004fb4094e4c5104586aa052241e7&amp;chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622771&amp;idx=1&amp;sn=79e004fb4094e4c5104586aa052241e7&amp;chksm=80225ab2b755d3a4656e1a4093b3c190c3acc1f943d3d39c5280b6b129904af89c7dccd32875#rd"/>
         <updated>2025-07-14T00:00:00.000Z</updated>
         <published>2025-07-14T00:00:00.000Z</published>
     </entry>

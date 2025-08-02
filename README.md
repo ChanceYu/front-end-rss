@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-02 00:13:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-02 10:53:47，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747) ![](/assets/new.png)  
+- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz.-It's-about-time..](https://javascriptweekly.com/issues/745)  
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)  
@@ -264,6 +264,9 @@
 </summary>
 
 
+- [2025-08-01-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527395&idx=1&sn=9b50ced28f5b3d96cedc3072186379f4&chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd) ![](/assets/new.png)  
+- [2025-07-31-从双端到一次搞定，一个老码农的真香体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527388&idx=1&sn=965bfd207b1afb9ffa6f1c10430c0e9b&chksm=f9926d0dcee5e41bcc1f5b4be5e06c954b41ae26db9f26f3232d864aaa378de39762215daf49#rd) ![](/assets/new.png)  
+- [2025-07-30-localStorage-你很好，我选-IndexedDB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527382&idx=1&sn=c2ddd3e973e0c10d04e191af209f81e4&chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd) ![](/assets/new.png)  
 - [2025-07-29-做-DOCX-预览？这个神库别错过！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527375&idx=1&sn=0390ca6b982e1f4b9806593c56adb97f&chksm=f9926d1ecee5e40898e4d9a08dad92706d83ba0fdbbbdec119ac117630916ec1493f5b08498d#rd)  
 - [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd)  
 - [2025-07-27-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527334&idx=1&sn=7d2a1c8ac915991e1f4afe439c68e63b&chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd)  
@@ -272,8 +275,8 @@
 - [2025-07-23-Node.js-架构讲解最通俗的一次](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527293&idx=1&sn=884fbda0818ca20f5cbbbc003b12fef2&chksm=f9926daccee5e4ba61791d3153f91d0552a6f354d42b58c9992402df1e8f6dfb012fdef2ebab#rd)  
 - [2025-07-22-只用-JavaScript，我写了一个无需后端的网页数据爬取神器！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527271&idx=1&sn=510dcdec2851f061ec38f7910c4e76aa&chksm=f9926db6cee5e4a04999091f2f03038d7958c59e5d6c1d3efea741a849a6485688f796311dab#rd)  
 - [2025-07-21-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527243&idx=1&sn=160a0f4ae65c82d2f22633a0fd7bda99&chksm=f9926d9acee5e48ca8635d6cd2a019490ce039743dda8263eb0a850e0b73221d3c60925a856b#rd)  
-- [2025-07-20-Nuxt-4-正式发布！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527226&idx=1&sn=6661fdd421942e834da455f380e49bca&chksm=f9926debcee5e4fd79eb597ed100125ba8fc53510e92328415eb7ba7fbcf1c9ca752ee905c9b#rd)  
 - [2025-07-20-Tree-Shaking-是如何工作的？带你读懂-Webpack-的源码逻辑](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527226&idx=2&sn=f06d6b620ed69610d2c33326ac3c755f&chksm=f9926debcee5e4fd5315155c2efcdffd885a72e488daf546102456127753aa512a431073bbc8#rd)  
+- [2025-07-20-Nuxt-4-正式发布！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527226&idx=1&sn=6661fdd421942e834da455f380e49bca&chksm=f9926debcee5e4fd79eb597ed100125ba8fc53510e92328415eb7ba7fbcf1c9ca752ee905c9b#rd)  
 - [2025-07-18-前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527224&idx=1&sn=4f7b0220606d9c70ac99e685735c816d&chksm=f9926de9cee5e4ff723995adce7eb0df977be16fdd24ecb43fe99bf4eb379481c3819b27da8f#rd)  
 - [2025-07-17-作为前端Team-Leader，我是如何做技术选型、项目排期和新人培养的？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527211&idx=1&sn=ef432527a4677a2640395f0714b07bb8&chksm=f9926dfacee5e4ec78da6d55863db1fc275151297fd69bc1db22c97daf4cc76b8fe7686f2628#rd)  
 - [2025-07-16-我在-microApp-和-wujie-中选择了-wujie：深度技术对比与选型思考](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527194&idx=1&sn=d844a2e0d459cdc86e077bd716a5d2b2&chksm=f9926dcbcee5e4dd4186ca99e663a1ac6b7c7b8f246a89708ea22d4fc5a5fc9b940eab1d9c30#rd)  
@@ -281,9 +284,6 @@
 - [2025-07-14-没想到！CSS-现在也能写-if-/-else-了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527150&idx=1&sn=ffdaf71492545be27ad37826ad3a923a&chksm=f9926c3fcee5e5292a9621707c005ae31fc8079ed0bf689672f16b63cb6a01df97c9c2e29cd8#rd)  
 - [2025-07-13-前端开发的你，其实并没有真的掌握img标签！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527127&idx=1&sn=2072a0ba1499f795bed5cecd3d90f337&chksm=f9926c06cee5e51070769d6e49ac45901bbdfe873c2caf7a183be1cdd76d57891584278e0bee#rd)  
 - [2025-07-11-这是我告别-nvm-后，用过最省心的-Node.js-版本管理工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527125&idx=1&sn=f0101cc1d807f14aba78dcd42d3d5afe&chksm=f9926c04cee5e5124bf542ed618e0ede966e53492f696595f50f455c7a5e6a2d321633bd8557#rd)  
-- [2025-07-10-9个高级前端必会的性能优化API你都知道几个？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527105&idx=1&sn=1b7e90df1fbb7253b222234761d9bccc&chksm=f9926c10cee5e506f946b78bb16d117b983566211eb1758eb1e05e5f04571fdaae2d4c4d82c6#rd)  
-- [2025-07-09-面试官：为什么在-Vue3-中-ref-变量要用-.value？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527077&idx=1&sn=aad51e6868f97d9611d76593b4679e98&chksm=f9926c74cee5e5625493f52ec75da7e262203fe2a41e5358750411723279579d41a95930384d#rd)  
-- [2025-07-08-放弃-JSON.parseJSON.stringify-吧！试试现代深拷贝！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527061&idx=1&sn=8fa20e5c426ebb8c0cea67b8a4ca80b9&chksm=f9926c44cee5e552500f75901ce42d19cb45511b9a54e280cb673cb651057e1ad61b755c79c6#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
