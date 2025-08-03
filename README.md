@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-02 10:53:47，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-04 00:11:26，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,12 +25,12 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -264,9 +264,9 @@
 </summary>
 
 
-- [2025-08-01-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527395&idx=1&sn=9b50ced28f5b3d96cedc3072186379f4&chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd) ![](/assets/new.png)  
-- [2025-07-31-从双端到一次搞定，一个老码农的真香体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527388&idx=1&sn=965bfd207b1afb9ffa6f1c10430c0e9b&chksm=f9926d0dcee5e41bcc1f5b4be5e06c954b41ae26db9f26f3232d864aaa378de39762215daf49#rd) ![](/assets/new.png)  
-- [2025-07-30-localStorage-你很好，我选-IndexedDB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527382&idx=1&sn=c2ddd3e973e0c10d04e191af209f81e4&chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd) ![](/assets/new.png)  
+- [2025-08-01-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527395&idx=1&sn=9b50ced28f5b3d96cedc3072186379f4&chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd)  
+- [2025-07-31-从双端到一次搞定，一个老码农的真香体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527388&idx=1&sn=965bfd207b1afb9ffa6f1c10430c0e9b&chksm=f9926d0dcee5e41bcc1f5b4be5e06c954b41ae26db9f26f3232d864aaa378de39762215daf49#rd)  
+- [2025-07-30-localStorage-你很好，我选-IndexedDB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527382&idx=1&sn=c2ddd3e973e0c10d04e191af209f81e4&chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd)  
 - [2025-07-29-做-DOCX-预览？这个神库别错过！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527375&idx=1&sn=0390ca6b982e1f4b9806593c56adb97f&chksm=f9926d1ecee5e40898e4d9a08dad92706d83ba0fdbbbdec119ac117630916ec1493f5b08498d#rd)  
 - [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd)  
 - [2025-07-27-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527334&idx=1&sn=7d2a1c8ac915991e1f4afe439c68e63b&chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd)  
@@ -388,6 +388,8 @@
 </summary>
 
 
+- [2025-08-01-Manus推出Wide-Research，真正的降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503513&idx=1&sn=ebe772e78e6cd54f36a7e2c98fd7a7a9&chksm=c2b30f66f5c486700a2e24cf86ffcd289b1228f3b3e90103420a373e569f9d3355be50f7f2ff#rd) ![](/assets/new.png)  
+- [2025-07-31-中国AI霸榜HuggingFace，彻底杀疯了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503464&idx=1&sn=c147921a188d7c830a799d8806e397d1&chksm=c2b30f97f5c48681584a4daa1f227f2245736e94056e1660bfeb757219b214a0923be4b745d5#rd) ![](/assets/new.png)  
 - [2025-07-30-ChatGPT-Agent实测，破防了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503453&idx=1&sn=e9f435ff5c5b628a26b803dd50da41e6&chksm=c2b30fa2f5c486b40ef64246e8a9705ee55a91391ac55a9126b7ce771c5cb9a9bf4560302246#rd)  
 - [2025-07-29-智谱放大，源神又启动啦](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503420&idx=1&sn=b5bd3a810d4b0a14d4874f109a1b68db&chksm=c2b30fc3f5c486d5ae3daefcf4fe799a6241ad90b2495adb83d35ba8411cb62690d1f647cb91#rd)  
 - [2025-07-25-实测腾讯CodeBuddy-IDE，做的太过头了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503386&idx=1&sn=70d83a4be94e436849a75485eaa3845a&chksm=c2b30fe5f5c486f352b12368b788362a9181eb6573972ef64e4d616d819c04ad2c942ae9eb43#rd)  
@@ -406,8 +408,6 @@
 - [2025-06-03-DeepSeek低调更新，结果玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502832&idx=1&sn=b8656e71200db16adfb86b86fe4960fe&chksm=c2b30a0ff5c48319986327372e43b28f562cbbae5f14be58ea9c1b428680d794f2cf1a889315#rd)  
 - [2025-05-29-扣子空间上线AI播客，我听完开始怀疑耳朵](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502806&idx=1&sn=af267045748f28a085dd582feb9c1250&chksm=c2b30a29f5c4833f73b71c5876be0d47ee7db04ba60fdc6c64a0b397568a89e4c0757803c184#rd)  
 - [2025-05-27-首个无限Agent-Neo实测，猛到头皮发麻](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502784&idx=1&sn=099df0850632b35c2d19ef502b634aad&chksm=c2b30a3ff5c48329e161f4b1cbd7d7563a7d4f31ade4a2fb275ec973dce69cdbcd339fa5efc6#rd)  
-- [2025-05-23-Skywork解放打工人，哪里来的勇气？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502742&idx=1&sn=7a910dc2f1170f46c3d3a5d1d5f6c146&chksm=c2b30a69f5c4837f27ced81ce070de9ad02f78c62e8d7ef6bdcf5e5c92e4e000997c5c1bf471#rd)  
-- [2025-05-21-最强AI声音模型实测，给我听傻了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247502659&idx=1&sn=9d44281d9a9aed7183930bcc3127c200&chksm=c2b30abcf5c483aa16e9e0c10c75162577413508d9b40ab03dc743ffb8c34cede3d6ac6b9275#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-08-02-AI-只会让程序员更受欢迎，取代其他人？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517355&idx=1&sn=7f6df96ae14342d8488813b825aacbca&chksm=eb07bcd2dc7035c4dd3143825eb1b9864f6c43baf995810144baca3d486a5e56ea1a1ae0e10d#rd) ![](/assets/new.png)  
+- [2025-07-31-再见，Lodash。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517353&idx=1&sn=2bf5312de8a9edfd8caa06388c305dce&chksm=eb07bcd0dc7035c6cdfaacdbad96939d60c6df4fc9b3135eb6ae8e504dc5a40424f530a9a07e#rd) ![](/assets/new.png)  
 - [2025-07-29-vue-vapor-的-IR-是个啥](http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw)  
 - [2025-07-28-TypeScript-发布-5.9-预览版！](http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw)  
 - [2025-07-25-vue3-的-parse-都做了啥（源码解析）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517347&idx=1&sn=44789afe487086b2818ac25613984699&chksm=eb07bcdadc7035ccac53c7c26d422cce96c9a5d0d9f30785ab2b6f3e3364b51246b1ab4fb1f7#rd)  
@@ -437,8 +439,6 @@
 - [2025-06-25-留给初中阶程序员的时间不多了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517270&idx=1&sn=87581523540863c180b372f7c5135464&chksm=eb07bc2fdc70353998cc68d2112128fc24bf14a07a7c4e3dbb4cf29f5863e15bc866241cbd9b#rd)  
 - [2025-06-24-尤雨溪：Vite-和-JavaScript-工具的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517263&idx=1&sn=9f84eaae9a7b0e9415f1fe49b2fb3bdc&chksm=eb07bc36dc703520982e963293ebee4813b18e31633b5cb903c6a1bb3935507d3d891ff1e70c#rd)  
 - [2025-06-23-赢麻了！前端人彻底沸腾吧！这个好消息来的太突然！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517261&idx=1&sn=0bc013463da7fd6816a64b5c07416112&chksm=eb07bc34dc70352224f27ea77e247adc4d32214e76087e3200c4975fca5a44e70fdf94c522d2#rd)  
-- [2025-06-18-尤雨溪力荐-H3！性能炸裂！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517254&idx=1&sn=451415a5649fcb54c2f70a6474094e33&chksm=eb07bc3fdc703529e5877e8d9b9e034550a1773d18704b8df1bd4ad47a917f20e8b8c2fb4302#rd)  
-- [2025-06-12-Vue-生态新玩具：依赖可视化！兼容-React！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517252&idx=1&sn=3140d1ee010f0af7e552574463af42ca&chksm=eb07bc3ddc70352b169d6837c034c62232e6c60e462abf53cb4bd4474f64ba400e2001fe1036#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
