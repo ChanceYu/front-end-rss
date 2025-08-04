@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-03T16:11:26.825Z</updated>
+    <updated>2025-08-04T03:49:22.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -34,6 +34,13 @@
         <link href="https://javascriptweekly.com/issues/747"/>
         <updated>2025-08-01T00:00:00.000Z</updated>
         <published>2025-08-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML popover再进化 – 新增hint类型提示框]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/"/>
+        <updated>2025-07-31T00:00:00.000Z</updated>
+        <published>2025-07-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[RLHF技术实践：大语言与文生图模型的生成优化]]></title>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/586"/>
         <updated>2025-07-15T00:00:00.000Z</updated>
         <published>2025-07-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[刚刚，尤雨溪发布 Vue 新版本，无虚拟 DOM 版 Vue 来了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517325&amp;idx=1&amp;sn=6e641a1313213f5d815d77dd421bc61f&amp;chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517325&amp;idx=1&amp;sn=6e641a1313213f5d815d77dd421bc61f&amp;chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd"/>
-        <updated>2025-07-14T00:00:00.000Z</updated>
-        <published>2025-07-14T00:00:00.000Z</published>
     </entry>
 </feed>

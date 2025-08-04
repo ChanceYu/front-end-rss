@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-04 00:11:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-04 11:49:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## HTML
 
@@ -38,6 +38,7 @@
 - [2023-06-20-Amazing！！单标签下的日间/黑夜模式切换按钮效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495893&idx=1&sn=4585f6741ef2bcb1330b1131533e4899&chksm=ce269323f9511a35c1425715f4d0d2553ef039a10f32ab29f4dac0097820cda7262554625def#rd) 
 - [2023-02-14-现代图片性能优化及体验优化指南---图片类型及-Picture-标签的使用](https://mp.weixin.qq.com/s/LZ86LkmGwmZMUFLCLjDa4g) 
 - [2025-07-04-弃用-html2canvas！快-93-倍的截图神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517319&idx=1&sn=17d9a16e0f3350c7c23290a961eea7c0&chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd) 
+- [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/) 
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/) 
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/) 
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/) 
