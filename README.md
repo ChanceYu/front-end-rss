@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-04 11:49:21，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-04 22:15:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,8 +32,8 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd) ![](/assets/new.png)  
-- [2025-08-04-【第3564期】从“物造”到“改善”：开发者的独特编程之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=1&sn=5443fdc8e964311c7bbf98fe77266796&chksm=bc876d2a3d9e765373c41ae44f658f84dc521254ca58d7df97060bf93db150fec24c8e116cfc&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd)  
+- [2025-08-04-【第3564期】从“物造”到“改善”：开发者的独特编程之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=1&sn=5443fdc8e964311c7bbf98fe77266796&chksm=bc876d2a3d9e765373c41ae44f658f84dc521254ca58d7df97060bf93db150fec24c8e116cfc&scene=0#rd)  
 - [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd)  
 - [2025-08-01-【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=2&sn=f3fd7ce0682ed78bce5ce95908c18465&chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&scene=0#rd)  
 - [2025-07-31-【第3562期】各类状态的混乱现状](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277111&idx=1&sn=988b132356f64357b96a49ef76de25fd&chksm=bcf8cea1a29293bdfdd60de13bd5b9d5ed5a2171e4395fe029511bf045fe898f01821f4da317&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-08-04-基于智能体的自适应测试系统---淘工厂实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541100&idx=1&sn=5b31e9eb24882f5529bdaea79e6034e6&chksm=82f878a4fb71a9b549418f63e302516357baaf55788a85486c6a698f421d1ab2e96f20636fd8&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-01-聊聊AI-Coding](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541057&idx=1&sn=d9a0346498998c0aaf5d0dbc485baa6e&chksm=822be0b7f042c9caa10e7d9a260b3db8c554d9738a670e95b153bee4cf5adea516c5a1cd447d&scene=0#rd)  
 - [2025-07-30-RLHF技术实践：大语言与文生图模型的生成优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541046&idx=1&sn=e59f6774c2a7862fec2736f695a30cd2&chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&scene=0#rd)  
 - [2025-07-28-NL2SQL：从自然语言到SQL的智能转换技术深度解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540986&idx=1&sn=01da2d69f5d90d9655ddff075f49d422&chksm=82c10d8309cd68c0a120bdc62abe0e0c6d7a2f445ebd6bf86ae3604e6a957051f9b08e037838&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-06-25-淘宝直播数字人：LLM弹幕互动技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540760&idx=1&sn=4831d0b0e04908ed9f70abbef86c5b6e&chksm=827662e776545dba7ccacd643cefd6abea3a5f38d0d7af1717269a80e117410504d3a8b76a6f&scene=0#rd)  
 - [2025-06-23-淘宝直播数字人：LLM文案生成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540709&idx=1&sn=af29bb9831d31a6f1a0f1c1fe80b2926&chksm=82a8de20252c581088e24fcf529df949d5d5eb3a5d7c1f3f88dfb884fa0303c5caa53ccd2f04&scene=0#rd)  
 - [2025-06-20-淘宝直播数字人LLM推理优化：模型蒸馏与路径压缩实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540634&idx=1&sn=d3dbd01a78bda38eb2045fefc3fd3287&chksm=82f5e315eebdcc790af69b2189a8e87ab805c62f06033e04070ba0c2d8ed170912154e5d3b77&scene=0#rd)  
-- [2025-06-18-加一个JVM参数，让系统可用率从95%提高到99.995%](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540587&idx=1&sn=b97b26964e0f82f091fdf5c09bc84ec3&chksm=82c57cbbdd13850de1dcb06cdff7ca1d39f1416966e787949d270d0fa7a35d509a77ce973f45&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/) ![](/assets/new.png)  
+- [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
