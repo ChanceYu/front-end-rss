@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-04 22:15:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-05 12:38:42，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,26 +109,26 @@
 </summary>
 
 
-- [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd)  
+- [2025-08-05-【早阅】如何命名文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=2&sn=8cc778a96d9a5367ca06d75254c7e554&chksm=bc78d44e7156ffb7aa643a6ea27e8722518f668e8bca5080b19f57644bd08d94f77d65e329b3&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-05-【第3565期】纯-CSS-实现的滚动驱动动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=1&sn=cd4e01a321bec47536abda657bed9e5e&chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-04-【第3564期】从“物造”到“改善”：开发者的独特编程之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=1&sn=5443fdc8e964311c7bbf98fe77266796&chksm=bc876d2a3d9e765373c41ae44f658f84dc521254ca58d7df97060bf93db150fec24c8e116cfc&scene=0#rd)  
-- [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd)  
+- [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd)  
 - [2025-08-01-【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=2&sn=f3fd7ce0682ed78bce5ce95908c18465&chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&scene=0#rd)  
+- [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd)  
 - [2025-07-31-【第3562期】各类状态的混乱现状](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277111&idx=1&sn=988b132356f64357b96a49ef76de25fd&chksm=bcf8cea1a29293bdfdd60de13bd5b9d5ed5a2171e4395fe029511bf045fe898f01821f4da317&scene=0#rd)  
 - [2025-07-30-【第3561期】网络应用程序架构的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277106&idx=1&sn=b5d1cf2919d74fc5b8f18519b6d203ee&chksm=bc22ee5b0c1b1ef1496a4caa81b9d37e9bbb298fe11d794389e3efc339967ce266fa551af57a&scene=0#rd)  
 - [2025-07-29-【第3560期】事件驱动架构-vs-请求-响应架构：2025-开发者完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&scene=0#rd)  
 - [2025-07-28-【第3559期】深入分析-await-fetch-性能问题及优化方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277068&idx=1&sn=34adce747d9223736622cc406d77cd24&chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&scene=0#rd)  
 - [2025-07-25-【第3558期】谁说前端改动看不出影响范围？用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277052&idx=1&sn=1d3ff5e35a248f763f2b9db3045dde72&chksm=bc1ea7f1189aa7df27c033e2facb4c2b7c29c366a580e54628c7757490d1ec80fcee856d338c&scene=0#rd)  
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd)  
-- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd)  
 - [2025-07-23-【第3556期】JavaScript-的作用域提升机制是有问题的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=1&sn=93509b5727da6a17032851f32068aafe&chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&scene=0#rd)  
+- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd)  
 - [2025-07-22-【第3555期】JavaScript-使用-Array.fromAsync-实现现代异步迭代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277029&idx=1&sn=73375282f7504a287abef3ce4a12b5b1&chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&scene=0#rd)  
-- [2025-07-21-【招聘】重庆⻨芽传媒招资深前端开发⼯程师（海外短剧）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=2&sn=e87cc7277def46c750e58b21b2ef4931&chksm=bc5bae9859924c6e6553d8e21b3d51e0e5ca0617ceefde2bb4a3cdec59e8282432c8eaf3cf80&scene=0#rd)  
 - [2025-07-21-【第3554期】从可视化编辑到整洁代码：Relume-如何攻克-React-导出难题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=1&sn=e96ddcc899567b6f3f3677779b093fdf&chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&scene=0#rd)  
-- [2025-07-18-【第3553期】破局传统埋点四大痛点！携程机票前端可视化埋点实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=1&sn=e1e4548c697215ac1c718ac712a34d4c&chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&scene=0#rd)  
+- [2025-07-21-【招聘】重庆⻨芽传媒招资深前端开发⼯程师（海外短剧）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=2&sn=e87cc7277def46c750e58b21b2ef4931&chksm=bc5bae9859924c6e6553d8e21b3d51e0e5ca0617ceefde2bb4a3cdec59e8282432c8eaf3cf80&scene=0#rd)  
 - [2025-07-18-【早阅】这是前端的失落十年。开发者现在能做什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=2&sn=7e8161dbe775fe543c984e70d1b2c4f4&chksm=bcf70046cf94830f658a62fe5389b7e2f4a74de0c066b5a1a81fb7ea4137e609e6081e8928cd&scene=0#rd)  
+- [2025-07-18-【第3553期】破局传统埋点四大痛点！携程机票前端可视化埋点实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277014&idx=1&sn=e1e4548c697215ac1c718ac712a34d4c&chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&scene=0#rd)  
 - [2025-07-17-【第3552期】通过代码看-React-的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276996&idx=1&sn=3dbb3041665a97d811976d8740c9fb9f&chksm=bc01f8599186cbc078e1529f83bfb628adc65fc88f134e45280d42e050751a3117fd657ad04a&scene=0#rd)  
-- [2025-07-16-【第3551期】使用-Bun/TypeScript-在-10-秒内解析-10-亿行数据](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276991&idx=1&sn=1e374e8041e320a3c4de3a10f23edc7e&chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&scene=0#rd)  
-- [2025-07-15-【第3550期】盘点字体性能优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276936&idx=1&sn=7aa45eb5f2c6b3314371b14ccc348820&chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-08-04-基于智能体的自适应测试系统---淘工厂实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541100&idx=1&sn=5b31e9eb24882f5529bdaea79e6034e6&chksm=82f878a4fb71a9b549418f63e302516357baaf55788a85486c6a698f421d1ab2e96f20636fd8&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-04-基于智能体的自适应测试系统---淘工厂实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541100&idx=1&sn=5b31e9eb24882f5529bdaea79e6034e6&chksm=82f878a4fb71a9b549418f63e302516357baaf55788a85486c6a698f421d1ab2e96f20636fd8&scene=0#rd)  
 - [2025-08-01-聊聊AI-Coding](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541057&idx=1&sn=d9a0346498998c0aaf5d0dbc485baa6e&chksm=822be0b7f042c9caa10e7d9a260b3db8c554d9738a670e95b153bee4cf5adea516c5a1cd447d&scene=0#rd)  
 - [2025-07-30-RLHF技术实践：大语言与文生图模型的生成优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541046&idx=1&sn=e59f6774c2a7862fec2736f695a30cd2&chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&scene=0#rd)  
 - [2025-07-28-NL2SQL：从自然语言到SQL的智能转换技术深度解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540986&idx=1&sn=01da2d69f5d90d9655ddff075f49d422&chksm=82c10d8309cd68c0a120bdc62abe0e0c6d7a2f445ebd6bf86ae3604e6a957051f9b08e037838&scene=0#rd)  
