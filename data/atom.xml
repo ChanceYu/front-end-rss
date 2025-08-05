@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-05T06:18:05.255Z</updated>
+    <updated>2025-08-05T08:15:23.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,46 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[尤雨溪推荐的 Vue3 表单神器！体积小功能强大！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517362&amp;idx=1&amp;sn=1b8d2c73e9c5c1a3c881688faed7cc59&amp;chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517362&amp;idx=1&amp;sn=1b8d2c73e9c5c1a3c881688faed7cc59&amp;chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[停止写屎山代码！教你10个JS/TS绝技]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527443&amp;idx=1&amp;sn=319eb17ec4610a204cd2cfded66462d5&amp;chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527443&amp;idx=1&amp;sn=319eb17ec4610a204cd2cfded66462d5&amp;chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪推荐的 Vue3 表单神器！体积小功能强大！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3565期】纯 CSS 实现的滚动驱动动画指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 与 Vite 生态最新进展：迈向一体化与智能化的未来]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517360&amp;idx=1&amp;sn=cd3b593b8fc14df3bada4de7edfa5401&amp;chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517360&amp;idx=1&amp;sn=cd3b593b8fc14df3bada4de7edfa5401&amp;chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd"/>
+        <updated>2025-08-04T00:00:00.000Z</updated>
+        <published>2025-08-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 第一款“修仙”平台，正式宣布开源]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505251&amp;idx=1&amp;sn=37ed572f70acaa4090b1033d958392b3&amp;chksm=ce45c0f2f93249e4e738e020fd96a95daff69faed163ee8674a8a6d2c4b1e051135c3574350f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505251&amp;idx=1&amp;sn=37ed572f70acaa4090b1033d958392b3&amp;chksm=ce45c0f2f93249e4e738e020fd96a95daff69faed163ee8674a8a6d2c4b1e051135c3574350f#rd"/>
+        <updated>2025-08-04T00:00:00.000Z</updated>
+        <published>2025-08-04T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
@@ -328,40 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517329&amp;idx=1&amp;sn=ff43bf397481aca79a5e4abba8f403cd&amp;chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd"/>
         <updated>2025-07-16T00:00:00.000Z</updated>
         <published>2025-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在 microApp 和 wujie 中选择了 wujie：深度技术对比与选型思考]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527194&amp;idx=1&amp;sn=d844a2e0d459cdc86e077bd716a5d2b2&amp;chksm=f9926dcbcee5e4dd4186ca99e663a1ac6b7c7b8f246a89708ea22d4fc5a5fc9b940eab1d9c30#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527194&amp;idx=1&amp;sn=d844a2e0d459cdc86e077bd716a5d2b2&amp;chksm=f9926dcbcee5e4dd4186ca99e663a1ac6b7c7b8f246a89708ea22d4fc5a5fc9b940eab1d9c30#rd"/>
-        <updated>2025-07-16T00:00:00.000Z</updated>
-        <published>2025-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我曾用 Angular 重写了 jQuery 应用，如今却被 React 逼疯了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622791&amp;idx=2&amp;sn=6271cb8f3296152678b0c417d1f58cc9&amp;chksm=80225a46b755d350e027078e5dff361655a6b1327609b6727c76fe98e5c0429c975f33fe1c7a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622791&amp;idx=2&amp;sn=6271cb8f3296152678b0c417d1f58cc9&amp;chksm=80225a46b755d350e027078e5dff361655a6b1327609b6727c76fe98e5c0429c975f33fe1c7a#rd"/>
-        <updated>2025-07-16T00:00:00.000Z</updated>
-        <published>2025-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3551期】使用 Bun/TypeScript 在 10 秒内解析 10 亿行数据]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276991&amp;idx=1&amp;sn=1e374e8041e320a3c4de3a10f23edc7e&amp;chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276991&amp;idx=1&amp;sn=1e374e8041e320a3c4de3a10f23edc7e&amp;chksm=bc4cf84301586f6773ccc57e292b3366e41917c562baf9e1b3bb87e04f5e2e310dd88bd1a159&amp;scene=0#rd"/>
-        <updated>2025-07-16T00:00:00.000Z</updated>
-        <published>2025-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪 VueConf 2025 主题演讲 PPT 来啦！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517327&amp;idx=1&amp;sn=a29866d1c8eec2f6a78a2295be9da0d7&amp;chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517327&amp;idx=1&amp;sn=a29866d1c8eec2f6a78a2295be9da0d7&amp;chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd"/>
-        <updated>2025-07-15T00:00:00.000Z</updated>
-        <published>2025-07-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[踩坑无数后，我终于总结出这份最全的 Vue3 组件通信实战指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527188&amp;idx=1&amp;sn=8c4b079961252dccab191ad739d85e98&amp;chksm=f9926dc5cee5e4d3ff60069f6172c1dd23137fec8ee70ea8d599120c579bff8b3ee08a9914c8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527188&amp;idx=1&amp;sn=8c4b079961252dccab191ad739d85e98&amp;chksm=f9926dc5cee5e4d3ff60069f6172c1dd23137fec8ee70ea8d599120c579bff8b3ee08a9914c8#rd"/>
-        <updated>2025-07-15T00:00:00.000Z</updated>
-        <published>2025-07-15T00:00:00.000Z</published>
     </entry>
 </feed>
