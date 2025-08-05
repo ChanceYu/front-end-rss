@@ -146,12 +146,13 @@ const ranges = [{
 
 const rss = window.RSS_DATA
 const tags = window.TAGS_DATA
-const links = window.LINKS_DATA
+const files = window.LIST_FILES
 
 let results = []
 let datesMap = {}
 let rssMap = {}
 let tagsMap = {}
+let preloadIndex = 0
 
 export default {
   name: 'Index',
@@ -183,65 +184,67 @@ export default {
     toTop () {
       window.scrollTo(0, 0)
     },
-    async initLoadData () {
-      results = []
-      datesMap = {}
-      rssMap = {}
-      tagsMap = {}
+    async initLoadData (clear = true, list = window.LIST_DATA) {
+      if (clear) {
+        results = []
+        datesMap = {}
+        rssMap = {}
+        tagsMap = {}
+      }
 
-      links.forEach((rssItem) => {
-        const articles = rssItem.items.reduce((prev, data) => {
-          const item = { ...data }
-          item.rss = rssItem.rss
-          item.rssTitle = rssItem.title
-          item.rssLink = rssItem.link
+      let rssArticle = {}
 
-          let isInTag = false
-          let isFilter = !this.matchSkill
+      const articles = list.reduce((prev, item) => {
+        let isInTag = false
+        let isFilter = !this.matchSkill
 
-          tags.forEach((tagItem) => {
-            const isMatchSkill = this.matchSkill ? tagItem.skill : true
-            if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
-              isInTag = true
-              if (isMatchSkill) {
-                isFilter = true
-                tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
-                tagsMap[tagItem.tag].push(item)
-                tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
-              }
+        rssArticle[item.rssTitle] = rssArticle[item.rssTitle] || []
+        rssArticle[item.rssTitle].push(item)
+
+        tags.forEach((tagItem) => {
+          const isMatchSkill = this.matchSkill ? tagItem.skill : true
+          if (tagItem.keywords && (new RegExp(tagItem.keywords, 'gi')).test(item.title)) {
+            isInTag = true
+            if (isMatchSkill) {
+              isFilter = true
+              tagsMap[tagItem.tag] = tagsMap[tagItem.tag] || []
+              tagsMap[tagItem.tag].push(item)
+              tagsMap[tagItem.tag] = sortArray(tagsMap[tagItem.tag])
             }
-          })
-
-          if (!isInTag) {
-            tagsMap['其它'] = tagsMap['其它'] || []
-            tagsMap['其它'].push(item)
-            tagsMap['其它'] = sortArray(tagsMap['其它'])
           }
+        })
 
-          ranges.forEach((rangeItem) => {
-            const dates = rangeItem.dates
+        if (!isInTag) {
+          tagsMap['其它'] = tagsMap['其它'] || []
+          tagsMap['其它'].push(item)
+          tagsMap['其它'] = sortArray(tagsMap['其它'])
+        }
 
-            if ((typeof dates === 'string' && item.date === dates) || (typeof dates !== 'string' && item.date >= dates[0] && item.date <= dates[1])) {
-              datesMap[rangeItem.title] = datesMap[rangeItem.title] || []
-              datesMap[rangeItem.title].push(item)
-              datesMap[rangeItem.title] = sortArray(datesMap[rangeItem.title])
-            }
-          })
+        ranges.forEach((rangeItem) => {
+          const dates = rangeItem.dates
 
-          if (isFilter) {
-            return [
-              ...prev,
-              item
-            ]
+          if ((typeof dates === 'string' && item.date === dates) || (typeof dates !== 'string' && item.date >= dates[0] && item.date <= dates[1])) {
+            datesMap[rangeItem.title] = datesMap[rangeItem.title] || []
+            datesMap[rangeItem.title].push(item)
+            datesMap[rangeItem.title] = sortArray(datesMap[rangeItem.title])
           }
+        })
 
-          return prev
-        }, [])
+        if (isFilter) {
+          return [
+            ...prev,
+            item
+          ]
+        }
 
-        rssMap[rssItem.title] = sortArray(articles)
+        return prev
+      }, [])
 
-        results = results.concat(articles)
+      Object.keys(rssArticle).forEach((rssTitle) => {
+        rssMap[rssTitle] = sortArray([...(rssMap[rssTitle] || []), ...rssArticle[rssTitle]])
       })
+
+      results = results.concat(articles)
 
       results = sortArray(results)
 
@@ -276,7 +279,7 @@ export default {
       this.handlerSearch()
       this.showCate = false
     },
-    handlerSearch () {
+    handlerSearch (reset = true) {
       const value = this.searchValue
       const matches = value.match(/^\[(时间|来源|分类)\]\s(.+)/)
       const matchValue = matches && matches[2]
@@ -327,20 +330,22 @@ export default {
         this.allList = [...results]
       }
 
-      if ((this.$route.query.q || '') !== value) {
-        this.$router.replace({
-          path: '/',
-          query: value ? {
-            q: value
-          } : {}
-        })
+      if (reset) {
+        if ((this.$route.query.q || '') !== value) {
+          this.$router.replace({
+            path: '/',
+            query: value ? {
+              q: value
+            } : {}
+          })
+        }
+
+        window.scrollTo(0, 0)
+
+        this.pageNo = 1
+        this.results = []
+        this.loadMore()
       }
-
-      window.scrollTo(0, 0)
-
-      this.pageNo = 1
-      this.results = []
-      this.loadMore()
     },
     onSearch () {
       this.handlerSearch()
@@ -355,13 +360,32 @@ export default {
       } else {
         localStorage.removeItem('matchSkill')
       }
+    },
+    async preloadList () {
+      const name = files[preloadIndex]
+      if (!name) {
+        this.handlerSearch(false)
+        return
+      }
+      const items = await fetch(name).then((response) => response.json())
+
+      window.LIST_DATA = window.LIST_DATA.concat(items)
+      this.initLoadData(false, items)
+      preloadIndex++
+      this.preloadList()
     }
   },
   mounted () {
     const { q } = this.$route.query
 
     this.searchValue = q || ''
-    this.initLoadData().then(() => this.handlerSearch())
+    this.initLoadData().then(() => {
+      this.handlerSearch()
+
+      setTimeout(() => {
+        this.preloadList()
+      }, 1000)
+    })
   }
 }
 </script>

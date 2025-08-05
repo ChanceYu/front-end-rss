@@ -44,6 +44,15 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     quiet: true, // necessary for FriendlyErrorsPlugin
     watchOptions: {
       poll: config.dev.poll
+    },
+    before(app) {
+      app.get('/list/:name', (req, res) => {
+        const { name } = req.params
+        const file = `/list/${name}`
+        const filePath = path.join(__dirname, `../dist${file}`)
+        res.setHeader('Content-Type', 'application/json')
+        res.sendFile(filePath)
+      })
     }
   },
   plugins: [
