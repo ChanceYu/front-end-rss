@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-05T14:16:12.425Z</updated>
+    <updated>2025-08-05T18:16:26.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[【第3565期】纯 CSS 实现的滚动驱动动画指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JSON.stringify is about to get much faster]]></title>
+        <id>https://nodeweekly.com/issues/589</id>
+        <link href="https://nodeweekly.com/issues/589"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651276996&amp;idx=1&amp;sn=3dbb3041665a97d811976d8740c9fb9f&amp;chksm=bc01f8599186cbc078e1529f83bfb628adc65fc88f134e45280d42e050751a3117fd657ad04a&amp;scene=0#rd"/>
         <updated>2025-07-17T00:00:00.000Z</updated>
         <published>2025-07-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS正则新特性：安全过滤RegExp.escape方法]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/"/>
-        <updated>2025-07-16T00:00:00.000Z</updated>
-        <published>2025-07-16T00:00:00.000Z</published>
     </entry>
 </feed>
