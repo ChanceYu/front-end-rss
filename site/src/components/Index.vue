@@ -152,7 +152,6 @@ let results = []
 let datesMap = {}
 let rssMap = {}
 let tagsMap = {}
-let preloadIndex = 0
 
 export default {
   name: 'Index',
@@ -177,14 +176,15 @@ export default {
   },
   watch: {
     matchSkill () {
-      this.initLoadData().then(() => this.handlerSearch())
+      this.initLoadData()
+      this.handlerSearch()
     }
   },
   methods: {
     toTop () {
       window.scrollTo(0, 0)
     },
-    async initLoadData (clear = true, list = window.LIST_DATA) {
+    initLoadData (clear = true, list = window.LIST_DATA) {
       if (clear) {
         results = []
         datesMap = {}
@@ -362,30 +362,25 @@ export default {
       }
     },
     async preloadList () {
-      const name = files[preloadIndex]
-      if (!name) {
-        this.handlerSearch(false)
-        return
-      }
-      const items = await fetch(name).then((response) => response.json())
+      const tasks = await Promise.all(files.map((name) => fetch(name).then((response) => response.json())))
+
+      const items = tasks.reduce((prev, curr) => [...prev, ...curr], [])
 
       window.LIST_DATA = window.LIST_DATA.concat(items)
       this.initLoadData(false, items)
-      preloadIndex++
-      this.preloadList()
+      this.handlerSearch(false)
     }
   },
   mounted () {
     const { q } = this.$route.query
 
     this.searchValue = q || ''
-    this.initLoadData().then(() => {
-      this.handlerSearch()
+    this.initLoadData()
+    this.handlerSearch()
 
-      setTimeout(() => {
-        this.preloadList()
-      }, 1000)
-    })
+    setTimeout(() => {
+      this.preloadList()
+    }, 1000)
   }
 }
 </script>
