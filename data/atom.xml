@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-05T08:15:23.136Z</updated>
+    <updated>2025-08-05T14:16:12.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -32,6 +32,13 @@
         <title type="html"><![CDATA[尤雨溪推荐的 Vue3 表单神器！体积小功能强大！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622869&amp;idx=1&amp;sn=3a0fdc420636de510a3bf491313ba23b&amp;chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622869&amp;idx=1&amp;sn=3a0fdc420636de510a3bf491313ba23b&amp;chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[JS正则新特性：安全过滤RegExp.escape方法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/"/>
-        <updated>2025-07-16T00:00:00.000Z</updated>
-        <published>2025-07-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我本是写react的，公司让我换赛道搞web3D]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517329&amp;idx=1&amp;sn=ff43bf397481aca79a5e4abba8f403cd&amp;chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517329&amp;idx=1&amp;sn=ff43bf397481aca79a5e4abba8f403cd&amp;chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd"/>
         <updated>2025-07-16T00:00:00.000Z</updated>
         <published>2025-07-16T00:00:00.000Z</published>
     </entry>
