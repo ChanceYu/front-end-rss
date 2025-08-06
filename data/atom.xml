@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-06T04:36:16.137Z</updated>
+    <updated>2025-08-06T16:14:17.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -39,6 +39,13 @@
         <title type="html"><![CDATA[尤雨溪推荐的 Vue3 表单神器！体积小功能强大！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度对话 Vue 与 Vite 之父尤雨溪：前端的未来、Rust、AI 与开源商业化]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526222&amp;idx=1&amp;sn=c3d10bb5e590d96a47fb8564bed668c8&amp;chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526222&amp;idx=1&amp;sn=c3d10bb5e590d96a47fb8564bed668c8&amp;chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277014&amp;idx=1&amp;sn=e1e4548c697215ac1c718ac712a34d4c&amp;chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&amp;scene=0#rd"/>
         <updated>2025-07-18T00:00:00.000Z</updated>
         <published>2025-07-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 这两个方法，将掀起组件创建新狂潮！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505034&amp;idx=1&amp;sn=292916cbb61f8b6e43d17fd6b45127be&amp;chksm=ce45c11bf932480d5a2e338301bb6388c1ae8e9f06890e4aaaeb068d3f732c5e2be59e49e758#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505034&amp;idx=1&amp;sn=292916cbb61f8b6e43d17fd6b45127be&amp;chksm=ce45c11bf932480d5a2e338301bb6388c1ae8e9f06890e4aaaeb068d3f732c5e2be59e49e758#rd"/>
-        <updated>2025-07-17T00:00:00.000Z</updated>
-        <published>2025-07-17T00:00:00.000Z</published>
     </entry>
 </feed>

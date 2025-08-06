@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-06 12:36:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-07 00:14:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-08-06-【第3566期】UI-的未来：从命令行到对话式-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&scene=0#rd) ![](/assets/new.png)  
-- [2025-08-06-【早阅】Claude-Code最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bc3f706af33c5a64a0b989185eaa4fb0cb2460b081fc8af65d8c18f21f42167e1c236a7415d6&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-06-【第3566期】UI-的未来：从命令行到对话式-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&scene=0#rd)  
+- [2025-08-06-【早阅】Claude-Code最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bc3f706af33c5a64a0b989185eaa4fb0cb2460b081fc8af65d8c18f21f42167e1c236a7415d6&scene=0#rd)  
 - [2025-08-05-【第3565期】纯-CSS-实现的滚动驱动动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=1&sn=cd4e01a321bec47536abda657bed9e5e&chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&scene=0#rd)  
 - [2025-08-05-【早阅】如何命名文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=2&sn=8cc778a96d9a5367ca06d75254c7e554&chksm=bc78d44e7156ffb7aa643a6ea27e8722518f668e8bca5080b19f57644bd08d94f77d65e329b3&scene=0#rd)  
 - [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-08-05-深度对话-Vue-与-Vite-之父尤雨溪：前端的未来、Rust、AI-与开源商业化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526222&idx=1&sn=c3d10bb5e590d96a47fb8564bed668c8&chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd) ![](/assets/new.png)  
 - [2025-07-30-Remix-3终结以React为中心的架构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526200&idx=1&sn=fa6ce30ed5f115e239c6548a1f8adb54&chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd)  
 - [2025-07-18-GitHub-2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526177&idx=1&sn=acde5cec1ba299efe633a3614de56bcd&chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd)  
 - [2025-07-10-16-年-macOS-程序员用-Claude-Code-搞副业：我只手敲了-1000-行，剩下-95%-代码靠自动生成](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526154&idx=1&sn=4b90107b67f10fea7bdc3fc38bcb03b6&chksm=f952d249ce255b5fb47b41b908f8a595e2940dd676003cf0a474a75cbe3f4319dbb6dd293512#rd)  
@@ -190,7 +191,6 @@
 - [2025-03-12-前端框架新格局：从过去一年的演进看未来趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525868&idx=1&sn=962a6cee37106901175855fa7d52d184&chksm=f952d0afce2559b9c2c08982d9d1961369fb518c57a10fe13d84aa2de483019b1b70113cfcee#rd)  
 - [2025-03-06-Svelte-不是-JavaScript](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525831&idx=1&sn=8ae81b3c796905bc720dac999021c857&chksm=f952d084ce25599291947c468b62287fa2e9d82471b6e268706c5bf0563d25c69ca69c56b360#rd)  
 - [2025-02-26-npm-够用吗？初创企业为何追捧这个-JavaScript-软件包注册表？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525814&idx=1&sn=bf3e65ceac08ece072f8e69502fd38f5&chksm=f952d0f5ce2559e366ea2e9b2645a6edd1b2a9928f6865f54317311abf72e3bb3b61c52006d3#rd)  
-- [2025-02-19-Dagger：我们用-GO-和-WebAssembly-替换了-React-前端](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525796&idx=1&sn=febe59179a516cdb3c14ae39d124c780&chksm=f952d0e7ce2559f119793eaf8725b0424597059dd21ecc1522641aba1a7cbd615bcdee88ab45#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
