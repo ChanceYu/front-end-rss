@@ -362,13 +362,20 @@ export default {
       }
     },
     async preloadList () {
-      const tasks = await Promise.all(files.map((name) => fetch(name).then((response) => response.json())))
+      if (!files.length) return
+      const tasks = await Promise.all(
+        files.splice(0, 3).map((name) => fetch(name, { cache: 'no-store' }).then((response) => response.json()))
+      )
 
       const items = tasks.reduce((prev, curr) => [...prev, ...curr], [])
 
       window.LIST_DATA = window.LIST_DATA.concat(items)
       this.initLoadData(false, items)
       this.handlerSearch(false)
+
+      setTimeout(() => {
+        this.preloadList()
+      }, 100)
     }
   },
   mounted () {
