@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-07T14:15:01.479Z</updated>
+    <updated>2025-08-07T22:11:00.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,20 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/"/>
         <updated>2025-08-07T00:00:00.000Z</updated>
         <published>2025-08-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见 try/catch，我有更好的选择了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <published>2025-08-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3.6 都来了，v-model 的 "新玩法" 还有这么多人不会！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517364&amp;idx=1&amp;sn=bb4171c0ad6c5c266ed35137845eb69c&amp;chksm=eb07bccddc7035db12a52ff2e5595a9eba96cc2722385998157dd2c0b01b17c12cbd6679f08f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517364&amp;idx=1&amp;sn=bb4171c0ad6c5c266ed35137845eb69c&amp;chksm=eb07bccddc7035db12a52ff2e5595a9eba96cc2722385998157dd2c0b01b17c12cbd6679f08f#rd"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[写稳大型项目的 JS/TS 技巧（下）—— 覆盖并发、缓存等]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[200行极简demo - 学习如何手搓一个ReAct Agent]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd"/>
-        <updated>2025-07-18T00:00:00.000Z</updated>
-        <published>2025-07-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuxt 发布 4.0 版本！优化目录结构；性能大幅提升！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517331&amp;idx=1&amp;sn=1effda0a85b1782045e4e6b8426c5424&amp;chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517331&amp;idx=1&amp;sn=1effda0a85b1782045e4e6b8426c5424&amp;chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd"/>
-        <updated>2025-07-18T00:00:00.000Z</updated>
-        <published>2025-07-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527224&amp;idx=1&amp;sn=4f7b0220606d9c70ac99e685735c816d&amp;chksm=f9926de9cee5e4ff723995adce7eb0df977be16fdd24ecb43fe99bf4eb379481c3819b27da8f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527224&amp;idx=1&amp;sn=4f7b0220606d9c70ac99e685735c816d&amp;chksm=f9926de9cee5e4ff723995adce7eb0df977be16fdd24ecb43fe99bf4eb379481c3819b27da8f#rd"/>
         <updated>2025-07-18T00:00:00.000Z</updated>
         <published>2025-07-18T00:00:00.000Z</published>
     </entry>

@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-07 22:15:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-08 06:11:00，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,10 +30,10 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-08-07-再见-try/catch，我有更好的选择了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517366&idx=1&sn=12fb99bbbaf3e053670365c794dff30a&chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd) ![](/assets/new.png)  
+- [2025-08-06-Vue3.6-都来了，v-model-的-"新玩法"-还有这么多人不会！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517364&idx=1&sn=bb4171c0ad6c5c266ed35137845eb69c&chksm=eb07bccddc7035db12a52ff2e5595a9eba96cc2722385998157dd2c0b01b17c12cbd6679f08f#rd) ![](/assets/new.png)  
 - [2025-08-05-尤雨溪推荐的-Vue3-表单神器！体积小功能强大！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517362&idx=1&sn=1b8d2c73e9c5c1a3c881688faed7cc59&chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd)  
 - [2025-08-04-Vue-与-Vite-生态最新进展：迈向一体化与智能化的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517360&idx=1&sn=cd3b593b8fc14df3bada4de7edfa5401&chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd)  
 - [2025-08-02-AI-只会让程序员更受欢迎，取代其他人？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517355&idx=1&sn=7f6df96ae14342d8488813b825aacbca&chksm=eb07bcd2dc7035c4dd3143825eb1b9864f6c43baf995810144baca3d486a5e56ea1a1ae0e10d#rd)  
@@ -437,8 +439,6 @@
 - [2025-07-07-尤雨溪为什么要推出Vapor-Mode？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517321&idx=1&sn=3e4198ee1b8eaf71fb87e35679bae961&chksm=eb07bcf0dc7035e6af7c8a18e9fe25aa4a1a4fed11f7610643bfc0348d0f9a65eb2c2011635c#rd)  
 - [2025-07-04-弃用-html2canvas！快-93-倍的截图神器！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517319&idx=1&sn=17d9a16e0f3350c7c23290a961eea7c0&chksm=eb07bcfedc7035e88353d88396bce029044bfbb66b3947bd513a038afb795fde774e16051017#rd)  
 - [2025-06-30-Vite-7.0-发布了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517317&idx=1&sn=36cd01343c4367036cbef64b4b5312b3&chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd)  
-- [2025-06-27-2025-年度最佳-JS-开源项目揭晓，竟然是它？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517272&idx=1&sn=9cf2a14d8cdae84096604bb779aaa940&chksm=eb07bc21dc7035379da65cf69faa15f93072b751dd203542ee44dc97aabaa85b8592b99969b9#rd)  
-- [2025-06-25-留给初中阶程序员的时间不多了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517270&idx=1&sn=87581523540863c180b372f7c5135464&chksm=eb07bc2fdc70353998cc68d2112128fc24bf14a07a7c4e3dbb4cf29f5863e15bc866241cbd9b#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/) ![](/assets/new.png)  
+- [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
