@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-07T03:28:06.837Z</updated>
+    <updated>2025-08-07T08:15:25.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[写稳大型项目的 JS/TS 技巧（下）—— 覆盖并发、缓存等]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527482&amp;idx=1&amp;sn=71f93060565d50edd75afca1ffd23c46&amp;chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527482&amp;idx=1&amp;sn=71f93060565d50edd75afca1ffd23c46&amp;chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <published>2025-08-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3566期】UI 的未来：从命令行到对话式 AI]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277174&amp;idx=2&amp;sn=2305e2835aafc1e0b1e293dc62393c99&amp;chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[GitHub 2.5万星！日本开发者打造的Hono火了：定义后React时代微框架的轻量未来]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526177&amp;idx=1&amp;sn=acde5cec1ba299efe633a3614de56bcd&amp;chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526177&amp;idx=1&amp;sn=acde5cec1ba299efe633a3614de56bcd&amp;chksm=f952d262ce255b74976e012d57d0fdbd2fcf2fc4540a3a875acc2888ead33dd0c5ee9df17c74#rd"/>
-        <updated>2025-07-18T00:00:00.000Z</updated>
-        <published>2025-07-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3553期】破局传统埋点四大痛点！携程机票前端可视化埋点实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277014&amp;idx=1&amp;sn=e1e4548c697215ac1c718ac712a34d4c&amp;chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277014&amp;idx=1&amp;sn=e1e4548c697215ac1c718ac712a34d4c&amp;chksm=bce874a53943f0eacf25934b61fd229dccec2dd11330909ecfed06b7cadff46838868398abda&amp;scene=0#rd"/>
         <updated>2025-07-18T00:00:00.000Z</updated>
         <published>2025-07-18T00:00:00.000Z</published>
     </entry>
