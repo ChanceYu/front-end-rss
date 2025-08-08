@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-08T10:11:54.464Z</updated>
+    <updated>2025-08-08T12:20:12.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[【第3567期】React Suspense 的内部原理：抛出 Promise 与声明式异步 UI]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277190&amp;idx=1&amp;sn=673ab56d992bd74088941d7939fdf840&amp;chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277190&amp;idx=1&amp;sn=673ab56d992bd74088941d7939fdf840&amp;chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&amp;scene=0#rd"/>
+        <updated>2025-08-08T00:00:00.000Z</updated>
+        <published>2025-08-08T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How JavaScript really evolves, the inside story]]></title>
+        <id>https://javascriptweekly.com/issues/748</id>
+        <link href="https://javascriptweekly.com/issues/748"/>
         <updated>2025-08-08T00:00:00.000Z</updated>
         <published>2025-08-08T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277037&amp;idx=1&amp;sn=93509b5727da6a17032851f32068aafe&amp;chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&amp;scene=0#rd"/>
         <updated>2025-07-23T00:00:00.000Z</updated>
         <published>2025-07-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只用 JavaScript，我写了一个无需后端的网页数据爬取神器！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527271&amp;idx=1&amp;sn=510dcdec2851f061ec38f7910c4e76aa&amp;chksm=f9926db6cee5e4a04999091f2f03038d7958c59e5d6c1d3efea741a849a6485688f796311dab#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527271&amp;idx=1&amp;sn=510dcdec2851f061ec38f7910c4e76aa&amp;chksm=f9926db6cee5e4a04999091f2f03038d7958c59e5d6c1d3efea741a849a6485688f796311dab#rd"/>
-        <updated>2025-07-22T00:00:00.000Z</updated>
-        <published>2025-07-22T00:00:00.000Z</published>
     </entry>
 </feed>
