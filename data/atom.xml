@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-08T08:14:55.240Z</updated>
+    <updated>2025-08-08T10:11:54.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[强大 Vue3 监控埋点宣布开源！覆盖 8 个维度！]]></title>
+        <id>http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg</id>
+        <link href="http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg"/>
+        <updated>2025-08-08T00:00:00.000Z</updated>
+        <published>2025-08-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3567期】React Suspense 的内部原理：抛出 Promise 与声明式异步 UI]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277190&amp;idx=1&amp;sn=673ab56d992bd74088941d7939fdf840&amp;chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&amp;scene=0#rd</id>
@@ -36,6 +43,13 @@
         <published>2025-08-07T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vue3 官方推出新的动画方案，对标 React！]]></title>
+        <id>http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw</id>
+        <link href="http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw"/>
+        <updated>2025-08-07T00:00:00.000Z</updated>
+        <published>2025-08-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Web Agent大对决：你的AI浏览器理想型，会是哪一个？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541112&amp;idx=1&amp;sn=0a6ca5895272636b5260e52362d83164&amp;chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541112&amp;idx=1&amp;sn=0a6ca5895272636b5260e52362d83164&amp;chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd"/>
@@ -53,6 +67,20 @@
         <title type="html"><![CDATA[写稳大型项目的 JS/TS 技巧（下）—— 覆盖并发、缓存等]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527482&amp;idx=1&amp;sn=71f93060565d50edd75afca1ffd23c46&amp;chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527482&amp;idx=1&amp;sn=71f93060565d50edd75afca1ffd23c46&amp;chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <published>2025-08-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
+        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <published>2025-08-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
+        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
+        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527271&amp;idx=1&amp;sn=510dcdec2851f061ec38f7910c4e76aa&amp;chksm=f9926db6cee5e4a04999091f2f03038d7958c59e5d6c1d3efea741a849a6485688f796311dab#rd"/>
         <updated>2025-07-22T00:00:00.000Z</updated>
         <published>2025-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速掌握 Docker：前端开发者也能轻松玩转容器化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622815&amp;idx=2&amp;sn=61a9dd13983d41ca1e536ef52a3848f5&amp;chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622815&amp;idx=2&amp;sn=61a9dd13983d41ca1e536ef52a3848f5&amp;chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd"/>
-        <updated>2025-07-22T00:00:00.000Z</updated>
-        <published>2025-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3555期】JavaScript 使用 Array.fromAsync() 实现现代异步迭代]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277029&amp;idx=1&amp;sn=73375282f7504a287abef3ce4a12b5b1&amp;chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277029&amp;idx=1&amp;sn=73375282f7504a287abef3ce4a12b5b1&amp;chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&amp;scene=0#rd"/>
-        <updated>2025-07-22T00:00:00.000Z</updated>
-        <published>2025-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Laravel apps in the Node.js world]]></title>
-        <id>https://nodeweekly.com/issues/587</id>
-        <link href="https://nodeweekly.com/issues/587"/>
-        <updated>2025-07-22T00:00:00.000Z</updated>
-        <published>2025-07-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3554期】从可视化编辑到整洁代码：Relume 如何攻克 React 导出难题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277024&amp;idx=1&amp;sn=e96ddcc899567b6f3f3677779b093fdf&amp;chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277024&amp;idx=1&amp;sn=e96ddcc899567b6f3f3677779b093fdf&amp;chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&amp;scene=0#rd"/>
-        <updated>2025-07-21T00:00:00.000Z</updated>
-        <published>2025-07-21T00:00:00.000Z</published>
     </entry>
 </feed>
