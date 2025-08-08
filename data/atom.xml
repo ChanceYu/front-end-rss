@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-07T22:11:00.991Z</updated>
+    <updated>2025-08-08T03:27:46.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3567期】React Suspense 的内部原理：抛出 Promise 与声明式异步 UI]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277190&amp;idx=1&amp;sn=673ab56d992bd74088941d7939fdf840&amp;chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277190&amp;idx=1&amp;sn=673ab56d992bd74088941d7939fdf840&amp;chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&amp;scene=0#rd"/>
+        <updated>2025-08-08T00:00:00.000Z</updated>
+        <published>2025-08-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS索引和数量匹配函数sibling-index sibling-count简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/</id>
@@ -27,6 +34,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd"/>
         <updated>2025-08-07T00:00:00.000Z</updated>
         <published>2025-08-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Agent大对决：你的AI浏览器理想型，会是哪一个？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541112&amp;idx=1&amp;sn=0a6ca5895272636b5260e52362d83164&amp;chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541112&amp;idx=1&amp;sn=0a6ca5895272636b5260e52362d83164&amp;chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd"/>
+        <updated>2025-08-06T00:00:00.000Z</updated>
+        <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vue3.6 都来了，v-model 的 "新玩法" 还有这么多人不会！]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277024&amp;idx=1&amp;sn=e96ddcc899567b6f3f3677779b093fdf&amp;chksm=bc82b5366a90ae8e4e42bd10fcb6eb4d162555810aa28c8ce4950101dbba5ff18817b8660c3f&amp;scene=0#rd"/>
         <updated>2025-07-21T00:00:00.000Z</updated>
         <published>2025-07-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree Shaking 是如何工作的？带你读懂 Webpack 的源码逻辑]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527226&amp;idx=2&amp;sn=f06d6b620ed69610d2c33326ac3c755f&amp;chksm=f9926debcee5e4fd5315155c2efcdffd885a72e488daf546102456127753aa512a431073bbc8#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527226&amp;idx=2&amp;sn=f06d6b620ed69610d2c33326ac3c755f&amp;chksm=f9926debcee5e4fd5315155c2efcdffd885a72e488daf546102456127753aa512a431073bbc8#rd"/>
-        <updated>2025-07-20T00:00:00.000Z</updated>
-        <published>2025-07-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200行极简demo - 学习如何手搓一个ReAct Agent]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540935&amp;idx=1&amp;sn=d1e416b8abdeffcf0e66242375f21a61&amp;chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&amp;scene=0#rd"/>
-        <updated>2025-07-18T00:00:00.000Z</updated>
-        <published>2025-07-18T00:00:00.000Z</published>
     </entry>
 </feed>
