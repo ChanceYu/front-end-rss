@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-09T08:13:00.687Z</updated>
+    <updated>2025-08-09T18:13:23.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -78,16 +78,16 @@
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
-        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
+        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
+        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
+        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
-        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
-        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
+        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
