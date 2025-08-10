@@ -14,7 +14,7 @@ const links = data.LINKS_DATA.reduce((prev, curr) => {
   return a.date < b.date ? 1 : -1
 })
 
-const initSize = 50
+const initSize = 100
 
 const LIST_DATA = links.slice(0, initSize)
 

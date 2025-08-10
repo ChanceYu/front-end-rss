@@ -364,7 +364,7 @@ export default {
     async preloadList () {
       if (!files.length) return
       const tasks = await Promise.all(
-        files.splice(0, 3).map((name) => fetch(name, { cache: 'no-store' }).then((response) => response.json()))
+        files.splice(0, 2).map((name) => fetch(name, { cache: 'no-store' }).then((response) => response.json()))
       )
 
       const items = tasks.reduce((prev, curr) => [...prev, ...curr], [])
@@ -375,7 +375,7 @@ export default {
 
       setTimeout(() => {
         this.preloadList()
-      }, 100)
+      }, 200)
     }
   },
   mounted () {
