@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-10 04:10:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-11 12:34:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,26 +109,26 @@
 </summary>
 
 
+- [2025-08-11-【第3568期】使用-Git-Worktree-进行开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-08-【第3567期】React-Suspense-的内部原理：抛出-Promise-与声明式异步-UI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277190&idx=1&sn=673ab56d992bd74088941d7939fdf840&chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&scene=0#rd)  
 - [2025-08-07-【早阅】Claude-代码一个月后：真正坚持下来的模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277182&idx=1&sn=f41b63def82a73471490c17fcad01821&chksm=bc063bbd82ea52dcbed2701636e56d397eb2c195b555d3f67f44ea3973c4a1f19c43e61ad660&scene=0#rd)  
-- [2025-08-06-【第3566期】UI-的未来：从命令行到对话式-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&scene=0#rd)  
 - [2025-08-06-【早阅】Claude-Code最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bc3f706af33c5a64a0b989185eaa4fb0cb2460b081fc8af65d8c18f21f42167e1c236a7415d6&scene=0#rd)  
-- [2025-08-05-【第3565期】纯-CSS-实现的滚动驱动动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=1&sn=cd4e01a321bec47536abda657bed9e5e&chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&scene=0#rd)  
+- [2025-08-06-【第3566期】UI-的未来：从命令行到对话式-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&scene=0#rd)  
 - [2025-08-05-【早阅】如何命名文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=2&sn=8cc778a96d9a5367ca06d75254c7e554&chksm=bc78d44e7156ffb7aa643a6ea27e8722518f668e8bca5080b19f57644bd08d94f77d65e329b3&scene=0#rd)  
-- [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd)  
+- [2025-08-05-【第3565期】纯-CSS-实现的滚动驱动动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=1&sn=cd4e01a321bec47536abda657bed9e5e&chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&scene=0#rd)  
 - [2025-08-04-【第3564期】从“物造”到“改善”：开发者的独特编程之道](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=1&sn=5443fdc8e964311c7bbf98fe77266796&chksm=bc876d2a3d9e765373c41ae44f658f84dc521254ca58d7df97060bf93db150fec24c8e116cfc&scene=0#rd)  
-- [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd)  
+- [2025-08-04-【早阅】生产环境中的氛围编码](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277153&idx=2&sn=82b1216add3cffea33c83b4fa221abcb&chksm=bcdbc2c56e704ad53268c046b5cde470f253f74b4943dd8a8f5c56d0a5ed35d50f164030a28d&scene=0#rd)  
 - [2025-08-01-【活动】快手技术沙龙第一期：AI驱动下的大前端技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=2&sn=f3fd7ce0682ed78bce5ce95908c18465&chksm=bc375f6ed0f7ec400556e81a9297d9633540363f9f1cb46709b6d9084734e2d95a93dd2566de&scene=0#rd)  
+- [2025-08-01-【第3563期】主题化设计系统的多种形式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277132&idx=1&sn=120fafe385a1819913a5e028e50ddf6e&chksm=bc06397c8bc1ce239093a204da2f20871358b256d566d8dc3bfa70424de28c030c0078dbdf41&scene=0#rd)  
 - [2025-07-31-【第3562期】各类状态的混乱现状](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277111&idx=1&sn=988b132356f64357b96a49ef76de25fd&chksm=bcf8cea1a29293bdfdd60de13bd5b9d5ed5a2171e4395fe029511bf045fe898f01821f4da317&scene=0#rd)  
 - [2025-07-30-【第3561期】网络应用程序架构的历史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277106&idx=1&sn=b5d1cf2919d74fc5b8f18519b6d203ee&chksm=bc22ee5b0c1b1ef1496a4caa81b9d37e9bbb298fe11d794389e3efc339967ce266fa551af57a&scene=0#rd)  
 - [2025-07-29-【第3560期】事件驱动架构-vs-请求-响应架构：2025-开发者完整指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277094&idx=1&sn=58c57bd761c2c42527c829c989c2d537&chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&scene=0#rd)  
 - [2025-07-28-【第3559期】深入分析-await-fetch-性能问题及优化方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277068&idx=1&sn=34adce747d9223736622cc406d77cd24&chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&scene=0#rd)  
 - [2025-07-25-【第3558期】谁说前端改动看不出影响范围？用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277052&idx=1&sn=1d3ff5e35a248f763f2b9db3045dde72&chksm=bc1ea7f1189aa7df27c033e2facb4c2b7c29c366a580e54628c7757490d1ec80fcee856d338c&scene=0#rd)  
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd)  
-- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd)  
 - [2025-07-23-【第3556期】JavaScript-的作用域提升机制是有问题的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=1&sn=93509b5727da6a17032851f32068aafe&chksm=bcbd7b294f68a6ef9d22fc46f5fb0787dcaaff3864adacfd2200fe70700b53ddf8ddd2548f96&scene=0#rd)  
+- [2025-07-23-【图书】人人皆可Vibe编程：玩转氛围编程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277037&idx=2&sn=afda1cad880385e0c23327b71df9ae15&chksm=bc99d96c8b41c321a76d21304ea7bf93f010fee35929aa8c0233065caa20f0845de8df7ba2db&scene=0#rd)  
 - [2025-07-22-【第3555期】JavaScript-使用-Array.fromAsync-实现现代异步迭代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277029&idx=1&sn=73375282f7504a287abef3ce4a12b5b1&chksm=bccb1665c15bf0e96a8ddd1c31bba6a42547a6df057c4fb870fac4d8b6f26545dd7c429f50fe&scene=0#rd)  
-- [2025-07-21-【招聘】重庆⻨芽传媒招资深前端开发⼯程师（海外短剧）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277024&idx=2&sn=e87cc7277def46c750e58b21b2ef4931&chksm=bc5bae9859924c6e6553d8e21b3d51e0e5ca0617ceefde2bb4a3cdec59e8282432c8eaf3cf80&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2025-08-08-GPT-5-真的来了！全网最全中文解读！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd) ![](/assets/new.png)  
+- [2025-08-08-GPT-5-真的来了！全网最全中文解读！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd)  
 - [2025-08-07-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527484&idx=1&sn=7e2e81a44c8f87dc83603ee3e4a85f64&chksm=f9926aedcee5e3fb1fcb1d136bc8b2bb0689a3a6de91f8139d4bae780567dccdd2a4f00c6c81#rd)  
 - [2025-08-06-写稳大型项目的-JS/TS-技巧（下）——-覆盖并发、缓存等](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527482&idx=1&sn=71f93060565d50edd75afca1ffd23c46&chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd)  
 - [2025-08-05-停止写屎山代码！教你10个JS/TS绝技](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527443&idx=1&sn=319eb17ec4610a204cd2cfded66462d5&chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd)  
