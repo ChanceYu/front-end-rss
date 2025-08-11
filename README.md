@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-11 12:34:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-11 22:13:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-08-11-【第3568期】使用-Git-Worktree-进行开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-11-【第3568期】使用-Git-Worktree-进行开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&scene=0#rd)  
 - [2025-08-08-【第3567期】React-Suspense-的内部原理：抛出-Promise-与声明式异步-UI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277190&idx=1&sn=673ab56d992bd74088941d7939fdf840&chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&scene=0#rd)  
 - [2025-08-07-【早阅】Claude-代码一个月后：真正坚持下来的模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277182&idx=1&sn=f41b63def82a73471490c17fcad01821&chksm=bc063bbd82ea52dcbed2701636e56d397eb2c195b555d3f67f44ea3973c4a1f19c43e61ad660&scene=0#rd)  
 - [2025-08-06-【早阅】Claude-Code最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bc3f706af33c5a64a0b989185eaa4fb0cb2460b081fc8af65d8c18f21f42167e1c236a7415d6&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-08-11-大模型驱动SPU](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541239&idx=1&sn=d45ed1a3ceadda90bb66e5001922f8aa&chksm=82764a5bef4c0cd4f39ba249abcc822497bed7f098e6fc20bf2af01abcca560e0eef9f64a43a&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-08-淘宝交易前端AI生码技术的创新实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541220&idx=1&sn=6dff8b53d47dfd2f5fc451fe1ce08e01&chksm=8390c4bcb4e74daabc0e041c395fd505198a006490b3a4215569f8f6954044c3bbefbb42fd19#rd)  
 - [2025-08-06-Web-Agent大对决：你的AI浏览器理想型，会是哪一个？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541112&idx=1&sn=0a6ca5895272636b5260e52362d83164&chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd)  
 - [2025-08-04-基于智能体的自适应测试系统---淘工厂实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541100&idx=1&sn=5b31e9eb24882f5529bdaea79e6034e6&chksm=82f878a4fb71a9b549418f63e302516357baaf55788a85486c6a698f421d1ab2e96f20636fd8&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd)  
 - [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd)  
 - [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd)  
-- [2025-06-25-淘宝直播数字人：LLM弹幕互动技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540760&idx=1&sn=4831d0b0e04908ed9f70abbef86c5b6e&chksm=827662e776545dba7ccacd643cefd6abea3a5f38d0d7af1717269a80e117410504d3a8b76a6f&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
