@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-11T14:13:09.577Z</updated>
+    <updated>2025-08-12T04:19:24.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【早阅】JavaScript 的真正演进之路：与 Daniel Ehrenberg 一起深入 TC39]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277209&amp;idx=1&amp;sn=23eca8422c47c12118e26cd312939ee0&amp;chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277209&amp;idx=1&amp;sn=23eca8422c47c12118e26cd312939ee0&amp;chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&amp;scene=0#rd"/>
+        <updated>2025-08-12T00:00:00.000Z</updated>
+        <published>2025-08-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3568期】使用 Git Worktree 进行开发]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277197&amp;idx=1&amp;sn=2e8ebe9823216531c8e5b28581ccf48d&amp;chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[面向互联网2C业务的分布式类Manus Java框架]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540954&amp;idx=1&amp;sn=c410728ed2bbd65603b02ee1130089ef&amp;chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650540954&amp;idx=1&amp;sn=c410728ed2bbd65603b02ee1130089ef&amp;chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&amp;scene=0#rd"/>
-        <updated>2025-07-23T00:00:00.000Z</updated>
-        <published>2025-07-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 架构讲解最通俗的一次]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527293&amp;idx=1&amp;sn=884fbda0818ca20f5cbbbc003b12fef2&amp;chksm=f9926daccee5e4ba61791d3153f91d0552a6f354d42b58c9992402df1e8f6dfb012fdef2ebab#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527293&amp;idx=1&amp;sn=884fbda0818ca20f5cbbbc003b12fef2&amp;chksm=f9926daccee5e4ba61791d3153f91d0552a6f354d42b58c9992402df1e8f6dfb012fdef2ebab#rd"/>
         <updated>2025-07-23T00:00:00.000Z</updated>
         <published>2025-07-23T00:00:00.000Z</published>
     </entry>
