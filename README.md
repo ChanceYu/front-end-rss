@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-13 22:11:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-14 04:11:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -202,13 +202,14 @@
 </summary>
 
 
+- [2025-08-13-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505304&idx=1&sn=1708a7bcd42bea3d997015f52bc19bcd&chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd) ![](/assets/new.png)  
 - [2025-08-12-ElementPlusX-+-RuoyiAI：Vue3-首个-AI-开发模板开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505288&idx=1&sn=38ceddeb465523a8069d675a78312496&chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd)  
 - [2025-08-11-比-html2canvas-快-30-倍的截图神器！项目已使用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505287&idx=1&sn=c328bfcfb2b6af070637f81824013c7a&chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd)  
 - [2025-08-09-如何使用-Echarts-地图点击定位到用户的家乡城市区县](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505280&idx=1&sn=3470c3cca4a3dcbb80825d96c9a9ceae&chksm=ce45c011f93249075c3deb0f311778f5646be8b4d26780af3c5a8c7725f749f0ee5fd22a2f8b#rd)  
 - [2025-08-08-强大-Vue3-监控埋点宣布开源！覆盖-8-个维度！](http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg)  
 - [2025-08-07-Vue3-官方推出新的动画方案，对标-React！](http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw)  
-- [2025-08-06-Vite-首支纪录片即将发布！讲述-6-年发展历程](http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw)  
 - [2025-08-06-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg)  
+- [2025-08-06-Vite-首支纪录片即将发布！讲述-6-年发展历程](http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw)  
 - [2025-08-05-尤雨溪推荐的-Vue3-表单神器！体积小功能强大！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505252&idx=1&sn=d2d36a90b657cf5286590e8b9c88272f&chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd)  
 - [2025-08-04-Vue3-第一款“修仙”平台，正式宣布开源](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505251&idx=1&sn=37ed572f70acaa4090b1033d958392b3&chksm=ce45c0f2f93249e4e738e020fd96a95daff69faed163ee8674a8a6d2c4b1e051135c3574350f#rd)  
 - [2025-08-02-扣子空间重磅更新了！网页设计功能上线，5分钟就能极速实现网页落地](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505216&idx=1&sn=d943d4121cc18f02b84e49746efeee6c&chksm=ce45c0d1f93249c7fabcb3e99260cd2d3d4a2cfdc52d2eaa40a0177b17f1adcf06e29a43f182#rd)  
@@ -221,7 +222,6 @@
 - [2025-07-26-一个-Vue3-强大的-API，让你随心所欲操控数据更新！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505114&idx=1&sn=12a922b48bac294a8ea93fd5ed6286cd&chksm=ce45c14bf932485dbe8c78e83e2809a9f6423413f6e8bb1118233cac2a0a74ef157094448197#rd)  
 - [2025-07-25-团队准备解散了。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505108&idx=1&sn=04e4664c509f384ad33969e2046149bb&chksm=ce45c145f9324853600a44fded5f1632a1396d8e87117be47a6463906eeac9d91ec5d7c0bca5#rd)  
 - [2025-07-24-AI+网页设计：几分钟打造公平决策点名系统的全过程](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505110&idx=1&sn=d479c53f8f28bc4aff9d48f06b2a6ae1&chksm=ce45c147f9324851778c9a66d099329c7384d3baf88a99629303feeeb0becb16e3b6a9e002b2#rd)  
-- [2025-07-23-尤雨溪赚钱了，有些人不开心了？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505068&idx=1&sn=ab552d0e4f77eb314e971628a714b9c9&chksm=ce45c13df932482baa43882996d902ac66d35a3d936c05c6bad67f67ca01f460b116d463a280#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-08-13-万字长文解码如何玩转Prompt（附实践应用）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541246&idx=1&sn=7b3f30ecd25140e2e43708c79f0d813d&chksm=8203ef985d095fb4d8894eba72a4e718072f9a3a15db7ab5ffd290334dacd3f42f9576cc91b9&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-13-万字长文解码如何玩转Prompt（附实践应用）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541246&idx=1&sn=7b3f30ecd25140e2e43708c79f0d813d&chksm=8203ef985d095fb4d8894eba72a4e718072f9a3a15db7ab5ffd290334dacd3f42f9576cc91b9&scene=0#rd)  
 - [2025-08-11-大模型驱动SPU](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541239&idx=1&sn=d45ed1a3ceadda90bb66e5001922f8aa&chksm=82764a5bef4c0cd4f39ba249abcc822497bed7f098e6fc20bf2af01abcca560e0eef9f64a43a&scene=0#rd)  
 - [2025-08-08-淘宝交易前端AI生码技术的创新实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541220&idx=1&sn=6dff8b53d47dfd2f5fc451fe1ce08e01&chksm=8390c4bcb4e74daabc0e041c395fd505198a006490b3a4215569f8f6954044c3bbefbb42fd19#rd)  
 - [2025-08-06-Web-Agent大对决：你的AI浏览器理想型，会是哪一个？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541112&idx=1&sn=0a6ca5895272636b5260e52362d83164&chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd)  

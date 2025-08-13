@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-13T14:11:59.380Z</updated>
+    <updated>2025-08-13T20:11:03.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Vue3 最强组合套装！不得不佩服尤雨溪！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505304&amp;idx=1&amp;sn=1708a7bcd42bea3d997015f52bc19bcd&amp;chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505304&amp;idx=1&amp;sn=1708a7bcd42bea3d997015f52bc19bcd&amp;chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd"/>
+        <updated>2025-08-13T00:00:00.000Z</updated>
+        <published>2025-08-13T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只改了模块结构，我让 NestJS API 延迟降低了 40%]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527531&amp;idx=1&amp;sn=6d7400bfcc29140ad40632b4053bc7e9&amp;chksm=f9926abacee5e3acd3dde39382dc675374bac807466c70ca33f741e58362f2cd7fb7ee200039#rd</id>
@@ -155,16 +162,16 @@
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
-        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
+        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
+        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
+        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
-        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
-        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
+        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277068&amp;idx=1&amp;sn=34adce747d9223736622cc406d77cd24&amp;chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&amp;scene=0#rd"/>
         <updated>2025-07-28T00:00:00.000Z</updated>
         <published>2025-07-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527334&amp;idx=1&amp;sn=7d2a1c8ac915991e1f4afe439c68e63b&amp;chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd"/>
-        <updated>2025-07-27T00:00:00.000Z</updated>
-        <published>2025-07-27T00:00:00.000Z</published>
     </entry>
 </feed>
