@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-13 12:21:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-13 22:11:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-08-13-【第3569期】GPT-5-体验报告：欢迎来到“石器时代”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277231&idx=1&sn=5defc1253428cf86056995678c04b88b&chksm=bca2d45d24ed0a5e9f9747519f2da25ba3df7e631bbb441412a396734e1ced328fb3ef0e4716&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-13-【第3569期】GPT-5-体验报告：欢迎来到“石器时代”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277231&idx=1&sn=5defc1253428cf86056995678c04b88b&chksm=bca2d45d24ed0a5e9f9747519f2da25ba3df7e631bbb441412a396734e1ced328fb3ef0e4716&scene=0#rd)  
 - [2025-08-12-【早阅】JavaScript-的真正演进之路：与-Daniel-Ehrenberg-一起深入-TC39](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277209&idx=1&sn=23eca8422c47c12118e26cd312939ee0&chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&scene=0#rd)  
 - [2025-08-11-【第3568期】使用-Git-Worktree-进行开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&scene=0#rd)  
 - [2025-08-08-【第3567期】React-Suspense-的内部原理：抛出-Promise-与声明式异步-UI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277190&idx=1&sn=673ab56d992bd74088941d7939fdf840&chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&scene=0#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-08-13-万字长文解码如何玩转Prompt（附实践应用）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541246&idx=1&sn=7b3f30ecd25140e2e43708c79f0d813d&chksm=8203ef985d095fb4d8894eba72a4e718072f9a3a15db7ab5ffd290334dacd3f42f9576cc91b9&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-11-大模型驱动SPU](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541239&idx=1&sn=d45ed1a3ceadda90bb66e5001922f8aa&chksm=82764a5bef4c0cd4f39ba249abcc822497bed7f098e6fc20bf2af01abcca560e0eef9f64a43a&scene=0#rd)  
 - [2025-08-08-淘宝交易前端AI生码技术的创新实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541220&idx=1&sn=6dff8b53d47dfd2f5fc451fe1ce08e01&chksm=8390c4bcb4e74daabc0e041c395fd505198a006490b3a4215569f8f6954044c3bbefbb42fd19#rd)  
 - [2025-08-06-Web-Agent大对决：你的AI浏览器理想型，会是哪一个？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541112&idx=1&sn=0a6ca5895272636b5260e52362d83164&chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd)  
@@ -500,7 +501,6 @@
 - [2025-07-04-淘宝直播数字人：服务端工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540818&idx=1&sn=65937e44df3fc196fa65db0d62cfa9e0&chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&scene=0#rd)  
 - [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd)  
 - [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd)  
-- [2025-06-27-淘宝直播数字人：TTS语音合成技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540777&idx=1&sn=1abacfeabd3ae176250125dc48ded953&chksm=824bc55427def46081fe1ee002e78a37819b8a1a403f2500f032dbf2568893c2ec4ae7a036cb&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
