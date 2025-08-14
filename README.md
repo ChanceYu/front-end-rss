@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-15 00:13:16，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 02:14:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-08-13-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622876&idx=1&sn=057121989c9b633605d8595d0dd86b4b&chksm=80225a1db755d30b467fe3b48c24e96cf8a49f31ccbee20b835baeb745db4d02cbe0d339e8e9#rd) ![](/assets/new.png)  
+- [2025-08-13-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622876&idx=1&sn=057121989c9b633605d8595d0dd86b4b&chksm=80225a1db755d30b467fe3b48c24e96cf8a49f31ccbee20b835baeb745db4d02cbe0d339e8e9#rd)  
 - [2025-08-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622869&idx=1&sn=3a0fdc420636de510a3bf491313ba23b&chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd)  
 - [2025-07-28-前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=2&sn=f4d992df3536ddc49bdef4eb21b32c80&chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd)  
 - [2025-07-28-文件被-Gemini-当场“格式化”，全没了！网友控诉：Claude、Copilot-也爱删库，一个都跑不了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=1&sn=67e0c26a0716b1b457353434735cfe4c&chksm=80225a0ab755d31ceb97e42a8503a5b9476d97958c30759f10d9df926ca5e7879b4b756b3b09#rd)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-08-13-Vite-7.1.1-疑似遭受大规模-"攻击"！](http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg) ![](/assets/new.png)  
 - [2025-08-11-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517370&idx=1&sn=be4469dfeaf601cacc7febdd7451815c&chksm=eb07bcc3dc7035d516d735021f1993c54f6d4530007f40cd1c4c137a9c807745865b6dd5e6d4#rd)  
 - [2025-08-08-2-个插件！-让-VSCode-中-console.log-开启「自动驾驶」模式！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517368&idx=1&sn=602734ead5d2f758b59d05449e02e28c&chksm=eb07bcc1dc7035d76ad8aa2493584f18045a47843cd210800f28d4c98e847ad968b1bfd28fc6#rd)  
 - [2025-08-07-再见-try/catch，我有更好的选择了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517366&idx=1&sn=12fb99bbbaf3e053670365c794dff30a&chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd)  
@@ -438,7 +439,6 @@
 - [2025-07-15-尤雨溪-VueConf-2025-主题演讲-PPT-来啦！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517327&idx=1&sn=a29866d1c8eec2f6a78a2295be9da0d7&chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd)  
 - [2025-07-14-刚刚，尤雨溪发布-Vue-新版本，无虚拟-DOM-版-Vue-来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517325&idx=1&sn=6e641a1313213f5d815d77dd421bc61f&chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd)  
 - [2025-07-08-CSS支持-if-/-else-了](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517323&idx=1&sn=3f8056a42a4e07b9da50b57e6a87ab1a&chksm=eb07bcf2dc7035e423c70c78275087356985c9177a1e53d2a09cb3edff2a1050d861061b1c76#rd)  
-- [2025-07-07-尤雨溪为什么要推出Vapor-Mode？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517321&idx=1&sn=3e4198ee1b8eaf71fb87e35679bae961&chksm=eb07bcf0dc7035e6af7c8a18e9fe25aa4a1a4fed11f7610643bfc0348d0f9a65eb2c2011635c#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
