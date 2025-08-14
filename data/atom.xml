@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-13T20:11:03.184Z</updated>
+    <updated>2025-08-14T04:21:25.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3570期】LLM 和 ChatGPT：文本提示与 JSON 提示的对比]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277236&amp;idx=1&amp;sn=27a9d68a574ac89c711e85c432a93629&amp;chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277236&amp;idx=1&amp;sn=27a9d68a574ac89c711e85c432a93629&amp;chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&amp;scene=0#rd"/>
+        <updated>2025-08-14T00:00:00.000Z</updated>
+        <published>2025-08-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vue3 最强组合套装！不得不佩服尤雨溪！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505304&amp;idx=1&amp;sn=1708a7bcd42bea3d997015f52bc19bcd&amp;chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622859&amp;idx=2&amp;sn=f4d992df3536ddc49bdef4eb21b32c80&amp;chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622859&amp;idx=2&amp;sn=f4d992df3536ddc49bdef4eb21b32c80&amp;chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd"/>
-        <updated>2025-07-28T00:00:00.000Z</updated>
-        <published>2025-07-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3559期】深入分析 await fetch() 性能问题及优化方法]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277068&amp;idx=1&amp;sn=34adce747d9223736622cc406d77cd24&amp;chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277068&amp;idx=1&amp;sn=34adce747d9223736622cc406d77cd24&amp;chksm=bc68b5ca02d490af8500cf3d47d092745386c874ac61baba28f3246ac4c74ed968465049cdc2&amp;scene=0#rd"/>
         <updated>2025-07-28T00:00:00.000Z</updated>
         <published>2025-07-28T00:00:00.000Z</published>
     </entry>
