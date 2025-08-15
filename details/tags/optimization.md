@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-15 20:18:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 22:10:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -270,6 +270,7 @@
 - [2024-04-01-🤯-性能优化-浏览器跨域带来的一些性能问题](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247515478&idx=1&sn=8d4412cffa78a2a309d8402461a352c7&chksm=eb07852fdc700c390055483b1f815f643877231607fc63f8a3a155502f8e3f5a5babbb09466c#rd) 
 - [2023-08-01-油管性能拉跨，Chrome-团队出手相助…](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512840&idx=1&sn=3aebfaf8a644cf5cb16ba4461247ee54&chksm=eb078b71dc700267229c85378f0f254d14e01a3c5035b9d4be1f427c226d06c3fce5ef2ee1bc#rd) 
 - [2023-05-15-Rspack-迁移好简单，性能提升好多！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511530&idx=1&sn=ffc0aac34a0e5872668b130a6e080c99&chksm=eb079593dc701c858ef8691210fd738727c8044b298dad123ae2e0552bf396e7ad83542d2e94#rd) 
+- [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd) 
 - [2025-07-30-RLHF技术实践：大语言与文生图模型的生成优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541046&idx=1&sn=e59f6774c2a7862fec2736f695a30cd2&chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&scene=0#rd) 
 - [2025-07-09-端侧AI突破性能瓶颈：MNN-基于-SME2-指令集的大模型高效推理实现](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540883&idx=1&sn=31ecf286c928a070b681494375c7c66d&chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&scene=0#rd) 
 - [2025-01-20-代码优化实战：圈复杂度治理之函数抽离技巧](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650537747&idx=1&sn=e4f1457385d04cc0c5d3e1be537af537&chksm=8397370bb4e0be1d95832c76f2e479a96c152fd6f783279a1d2fc8b7800c36910491a6e2b09b#rd) 

@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-15 20:18:44，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 22:10:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,15 +25,15 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -264,9 +264,9 @@
 </summary>
 
 
-- [2025-08-15-Node.js中构建可用的-MCP-服务器：从入门到实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd) ![](/assets/new.png)  
-- [2025-08-14-Vue3-开发全套组合拳，神器一次看全！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527614&idx=1&sn=32beecd6c51242df11ffb96e7f2fc632&chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd) ![](/assets/new.png)  
-- [2025-08-13-3-条规则，带你吃透-TypeScript-高级类型](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527549&idx=1&sn=aee874d5067ad9bf33a44c9fa7435239&chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd) ![](/assets/new.png)  
+- [2025-08-15-Node.js中构建可用的-MCP-服务器：从入门到实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd)  
+- [2025-08-14-Vue3-开发全套组合拳，神器一次看全！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527614&idx=1&sn=32beecd6c51242df11ffb96e7f2fc632&chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd)  
+- [2025-08-13-3-条规则，带你吃透-TypeScript-高级类型](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527549&idx=1&sn=aee874d5067ad9bf33a44c9fa7435239&chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd)  
 - [2025-08-12-只改了模块结构，我让-NestJS-API-延迟降低了-40%](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527531&idx=1&sn=6d7400bfcc29140ad40632b4053bc7e9&chksm=f9926abacee5e3acd3dde39382dc675374bac807466c70ca33f741e58362f2cd7fb7ee200039#rd)  
 - [2025-08-10-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527512&idx=1&sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd)  
 - [2025-08-08-GPT-5-真的来了！全网最全中文解读！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-13-万字长文解码如何玩转Prompt（附实践应用）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541246&idx=1&sn=7b3f30ecd25140e2e43708c79f0d813d&chksm=8203ef985d095fb4d8894eba72a4e718072f9a3a15db7ab5ffd290334dacd3f42f9576cc91b9&scene=0#rd)  
 - [2025-08-11-大模型驱动SPU](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541239&idx=1&sn=d45ed1a3ceadda90bb66e5001922f8aa&chksm=82764a5bef4c0cd4f39ba249abcc822497bed7f098e6fc20bf2af01abcca560e0eef9f64a43a&scene=0#rd)  
 - [2025-08-08-淘宝交易前端AI生码技术的创新实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541220&idx=1&sn=6dff8b53d47dfd2f5fc451fe1ce08e01&chksm=8390c4bcb4e74daabc0e041c395fd505198a006490b3a4215569f8f6954044c3bbefbb42fd19#rd)  
@@ -500,7 +501,6 @@
 - [2025-07-07-如何做到在手机上实时跑3D真人数字人？MNN-TaoAvatar开源了！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540824&idx=1&sn=8d56c71f2037d663bde18700280373ed&chksm=82990e03da4e0109b53de8030fa23f85ba63997a041fdec97a1819a6b92d6c5a5b9ebf9e0188&scene=0#rd)  
 - [2025-07-04-淘宝直播数字人：服务端工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540818&idx=1&sn=65937e44df3fc196fa65db0d62cfa9e0&chksm=82d8aaa314a9ec4a0c33a80c8c76c49ba7f9993d2ff7fc5513298123bb03367804efae2dc20f&scene=0#rd)  
 - [2025-07-02-淘宝直播数字人：音视频&amp;算法工程技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540813&idx=1&sn=58818d07ce2665bdc719d13b451d82c7&chksm=8209795e49b8eca6938099448505d060ad424619a55eeb8a1decae5dedc2eaecb2971294a181&scene=0#rd)  
-- [2025-06-30-淘宝直播数字人：形象技术](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540789&idx=1&sn=4d04f32fb7c0388dac60f4a9bb76d735&chksm=82778db915c734f45360407e8a2044eff3acad30b590366c7cb059e7b79e81a594317d4ab5f8&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/) ![](/assets/new.png)  
+- [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-15T12:18:45.080Z</updated>
+    <updated>2025-08-15T14:10:21.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[这个有点屌CSS @container scroll-state容器滚动查询]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MNN LLM Chat iOS 流式输出优化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541282&amp;idx=1&amp;sn=c7e80789f8a1e4ebaebc8e34c55a9829&amp;chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541282&amp;idx=1&amp;sn=c7e80789f8a1e4ebaebc8e34c55a9829&amp;chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&amp;scene=0#rd"/>
         <updated>2025-08-15T00:00:00.000Z</updated>
         <published>2025-08-15T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526200&amp;idx=1&amp;sn=fa6ce30ed5f115e239c6548a1f8adb54&amp;chksm=f952d27bce255b6d0f086e500a0290f5efec791488e84294bf9883d81676fe7d0f5302797965#rd"/>
         <updated>2025-07-30T00:00:00.000Z</updated>
         <published>2025-07-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vue-vapor 的 IR 是个啥]]></title>
-        <id>http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw</id>
-        <link href="http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw"/>
-        <updated>2025-07-29T00:00:00.000Z</updated>
-        <published>2025-07-29T00:00:00.000Z</published>
     </entry>
 </feed>
