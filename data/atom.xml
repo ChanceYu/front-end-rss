@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-15T04:21:44.596Z</updated>
+    <updated>2025-08-15T12:18:45.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,32 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[这个有点屌CSS @container scroll-state容器滚动查询]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js中构建可用的 MCP 服务器：从入门到实战]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527619&amp;idx=1&amp;sn=c8cc5396ea806ab25e476f26e41872b3&amp;chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527619&amp;idx=1&amp;sn=c8cc5396ea806ab25e476f26e41872b3&amp;chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3571期】调试神秘的 HTTP 流式传输问题]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277241&amp;idx=1&amp;sn=3f007c49970bfd2bbb9d28c52799b121&amp;chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277241&amp;idx=1&amp;sn=3f007c49970bfd2bbb9d28c52799b121&amp;chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&amp;scene=0#rd"/>
         <updated>2025-08-15T00:00:00.000Z</updated>
         <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 开发全套组合拳，神器一次看全！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527614&amp;idx=1&amp;sn=32beecd6c51242df11ffb96e7f2fc632&amp;chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527614&amp;idx=1&amp;sn=32beecd6c51242df11ffb96e7f2fc632&amp;chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd"/>
+        <updated>2025-08-14T00:00:00.000Z</updated>
+        <published>2025-08-14T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[【第3570期】LLM 和 ChatGPT：文本提示与 JSON 提示的对比]]></title>
@@ -32,6 +53,13 @@
         <title type="html"><![CDATA[Vite 7.1.1 疑似遭受大规模 "攻击"！]]></title>
         <id>http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg</id>
         <link href="http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg"/>
+        <updated>2025-08-13T00:00:00.000Z</updated>
+        <published>2025-08-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 条规则，带你吃透 TypeScript 高级类型]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527549&amp;idx=1&amp;sn=aee874d5067ad9bf33a44c9fa7435239&amp;chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527549&amp;idx=1&amp;sn=aee874d5067ad9bf33a44c9fa7435239&amp;chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd"/>
         <updated>2025-08-13T00:00:00.000Z</updated>
         <published>2025-08-13T00:00:00.000Z</published>
     </entry>
@@ -335,33 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw"/>
         <updated>2025-07-29T00:00:00.000Z</updated>
         <published>2025-07-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3560期】事件驱动架构 vs 请求-响应架构：2025 开发者完整指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277094&amp;idx=1&amp;sn=58c57bd761c2c42527c829c989c2d537&amp;chksm=bc6021cc2ab71cca2bece364b0b026f4de62516f279ef0eb5e6ade2b88cd49a9c87d1cfff63b&amp;scene=0#rd"/>
-        <updated>2025-07-29T00:00:00.000Z</updated>
-        <published>2025-07-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An epic rundown of JavaScript engines and runtimes]]></title>
-        <id>https://nodeweekly.com/issues/588</id>
-        <link href="https://nodeweekly.com/issues/588"/>
-        <updated>2025-07-29T00:00:00.000Z</updated>
-        <published>2025-07-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript 发布 5.9 预览版！]]></title>
-        <id>http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw</id>
-        <link href="http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw"/>
-        <updated>2025-07-28T00:00:00.000Z</updated>
-        <published>2025-07-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[别再乱用 as 了，TypeScript 的 satisfies 更香！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527370&amp;idx=1&amp;sn=dc02935d0c5698aed8e141d07c619a6b&amp;chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527370&amp;idx=1&amp;sn=dc02935d0c5698aed8e141d07c619a6b&amp;chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd"/>
-        <updated>2025-07-28T00:00:00.000Z</updated>
-        <published>2025-07-28T00:00:00.000Z</published>
     </entry>
 </feed>

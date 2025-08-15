@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-15 12:21:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 20:18:44，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-08-15-【第3571期】调试神秘的-HTTP-流式传输问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-15-【第3571期】调试神秘的-HTTP-流式传输问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&scene=0#rd)  
 - [2025-08-14-【第3570期】LLM-和-ChatGPT：文本提示与-JSON-提示的对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277236&idx=1&sn=27a9d68a574ac89c711e85c432a93629&chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&scene=0#rd)  
 - [2025-08-13-【第3569期】GPT-5-体验报告：欢迎来到“石器时代”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277231&idx=1&sn=5defc1253428cf86056995678c04b88b&chksm=bca2d45d24ed0a5e9f9747519f2da25ba3df7e631bbb441412a396734e1ced328fb3ef0e4716&scene=0#rd)  
 - [2025-08-12-【早阅】JavaScript-的真正演进之路：与-Daniel-Ehrenberg-一起深入-TC39](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277209&idx=1&sn=23eca8422c47c12118e26cd312939ee0&chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&scene=0#rd)  
@@ -264,14 +264,17 @@
 </summary>
 
 
+- [2025-08-15-Node.js中构建可用的-MCP-服务器：从入门到实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd) ![](/assets/new.png)  
+- [2025-08-14-Vue3-开发全套组合拳，神器一次看全！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527614&idx=1&sn=32beecd6c51242df11ffb96e7f2fc632&chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd) ![](/assets/new.png)  
+- [2025-08-13-3-条规则，带你吃透-TypeScript-高级类型](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527549&idx=1&sn=aee874d5067ad9bf33a44c9fa7435239&chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd) ![](/assets/new.png)  
 - [2025-08-12-只改了模块结构，我让-NestJS-API-延迟降低了-40%](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527531&idx=1&sn=6d7400bfcc29140ad40632b4053bc7e9&chksm=f9926abacee5e3acd3dde39382dc675374bac807466c70ca33f741e58362f2cd7fb7ee200039#rd)  
 - [2025-08-10-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527512&idx=1&sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd)  
 - [2025-08-08-GPT-5-真的来了！全网最全中文解读！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd)  
 - [2025-08-07-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527484&idx=1&sn=7e2e81a44c8f87dc83603ee3e4a85f64&chksm=f9926aedcee5e3fb1fcb1d136bc8b2bb0689a3a6de91f8139d4bae780567dccdd2a4f00c6c81#rd)  
 - [2025-08-06-写稳大型项目的-JS/TS-技巧（下）——-覆盖并发、缓存等](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527482&idx=1&sn=71f93060565d50edd75afca1ffd23c46&chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd)  
 - [2025-08-05-停止写屎山代码！教你10个JS/TS绝技](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527443&idx=1&sn=319eb17ec4610a204cd2cfded66462d5&chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd)  
-- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [2025-08-04-领导最烦这种下属，技术再牛，也不会提拔](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=1&sn=d507a74851b5e9d7d3ef6281938d6d38&chksm=f9926d2acee5e43c8c76c922d65471e82c31b9fa9e75829e9d9b825784563242a8ccaeeba097#rd)  
+- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [2025-08-03-通过代码看-React-的历史](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527411&idx=1&sn=759c4d919112a2d817a6d98d41d193dc&chksm=f9926d22cee5e43446b17bc6beba3dd7b85622f69b26d97a9c40f4365e8ecefe040b368a9849#rd)  
 - [2025-08-01-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527395&idx=1&sn=9b50ced28f5b3d96cedc3072186379f4&chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd)  
 - [2025-07-31-从双端到一次搞定，一个老码农的真香体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527388&idx=1&sn=965bfd207b1afb9ffa6f1c10430c0e9b&chksm=f9926d0dcee5e41bcc1f5b4be5e06c954b41ae26db9f26f3232d864aaa378de39762215daf49#rd)  
@@ -281,9 +284,6 @@
 - [2025-07-27-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527334&idx=1&sn=7d2a1c8ac915991e1f4afe439c68e63b&chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd)  
 - [2025-07-25-Node进阶，一定要学下这个10+万Star项目！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527325&idx=1&sn=9345761f7a2238403de09291cf4e4dde&chksm=f9926d4ccee5e45a63dcdda0334c1c88de3bb5f557fb56c344101318c6462042b91b8ab0bbea#rd)  
 - [2025-07-24-Proxy-有哪些东西是无法拦截的？深入解释-Reflect-与陷阱盲区](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527309&idx=1&sn=4ac02afa9ef38f09e935efea2310c694&chksm=f9926d5ccee5e44af548fa950b8a0815ec2c561e345288b3ff6516b6024ea1a6461a54d0d9d6#rd)  
-- [2025-07-23-Node.js-架构讲解最通俗的一次](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527293&idx=1&sn=884fbda0818ca20f5cbbbc003b12fef2&chksm=f9926daccee5e4ba61791d3153f91d0552a6f354d42b58c9992402df1e8f6dfb012fdef2ebab#rd)  
-- [2025-07-22-只用-JavaScript，我写了一个无需后端的网页数据爬取神器！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527271&idx=1&sn=510dcdec2851f061ec38f7910c4e76aa&chksm=f9926db6cee5e4a04999091f2f03038d7958c59e5d6c1d3efea741a849a6485688f796311dab#rd)  
-- [2025-07-21-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527243&idx=1&sn=160a0f4ae65c82d2f22633a0fd7bda99&chksm=f9926d9acee5e48ca8635d6cd2a019490ce039743dda8263eb0a850e0b73221d3c60925a856b#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/) ![](/assets/new.png)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
@@ -531,7 +532,6 @@
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
-- [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
