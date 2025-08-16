@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-16T16:10:56.743Z</updated>
+    <updated>2025-08-16T20:10:31.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[MNN LLM Chat iOS 流式输出优化实践]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541282&amp;idx=1&amp;sn=c7e80789f8a1e4ebaebc8e34c55a9829&amp;chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541282&amp;idx=1&amp;sn=c7e80789f8a1e4ebaebc8e34c55a9829&amp;chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&amp;scene=0#rd"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别再瞎读源码了！高手都是这样拆解大型项目的]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517378&amp;idx=1&amp;sn=a8e9089d575260c7802d18272009744b&amp;chksm=eb07bcbbdc7035adb1f5d53fdf3d49350d44c9eef40acb509b029ff790aab03986a4b0be18ad#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517378&amp;idx=1&amp;sn=a8e9089d575260c7802d18272009744b&amp;chksm=eb07bcbbdc7035adb1f5d53fdf3d49350d44c9eef40acb509b029ff790aab03986a4b0be18ad#rd"/>
         <updated>2025-08-15T00:00:00.000Z</updated>
         <published>2025-08-15T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[localStorage 你很好，我选 IndexedDB]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527382&amp;idx=1&amp;sn=c2ddd3e973e0c10d04e191af209f81e4&amp;chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527382&amp;idx=1&amp;sn=c2ddd3e973e0c10d04e191af209f81e4&amp;chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd"/>
-        <updated>2025-07-30T00:00:00.000Z</updated>
-        <published>2025-07-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未来，所有 Typescript 项目性能将飙升 15 倍！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505196&amp;idx=1&amp;sn=01a580ac4a838e991f0cb348ee14319b&amp;chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505196&amp;idx=1&amp;sn=01a580ac4a838e991f0cb348ee14319b&amp;chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd"/>
         <updated>2025-07-30T00:00:00.000Z</updated>
         <published>2025-07-30T00:00:00.000Z</published>
     </entry>
