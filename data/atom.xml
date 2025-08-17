@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-16T20:10:31.759Z</updated>
+    <updated>2025-08-17T18:13:03.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,20 @@
         <title type="html"><![CDATA[8月准备跳槽的兄弟注意，Vue3是重点！]]></title>
         <id>http://mp.weixin.qq.com/s/0NsNw03II7um1VoN100UTQ</id>
         <link href="http://mp.weixin.qq.com/s/0NsNw03II7um1VoN100UTQ"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日均生成数十万 Web 应用！Vercel v0.app 推出最终可用版本，AI 全栈开发时代来临？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526249&amp;idx=1&amp;sn=243abf9c1648720abbe95d1bc1a22282&amp;chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526249&amp;idx=1&amp;sn=243abf9c1648720abbe95d1bc1a22282&amp;chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd"/>
+        <updated>2025-08-15T00:00:00.000Z</updated>
+        <published>2025-08-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模块联邦（Module Federation）新的微前端方案？]]></title>
+        <id>http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ</id>
+        <link href="http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ"/>
         <updated>2025-08-15T00:00:00.000Z</updated>
         <published>2025-08-15T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/"/>
         <updated>2025-07-31T00:00:00.000Z</updated>
         <published>2025-07-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RLHF技术实践：大语言与文生图模型的生成优化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541046&amp;idx=1&amp;sn=e59f6774c2a7862fec2736f695a30cd2&amp;chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541046&amp;idx=1&amp;sn=e59f6774c2a7862fec2736f695a30cd2&amp;chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&amp;scene=0#rd"/>
-        <updated>2025-07-30T00:00:00.000Z</updated>
-        <published>2025-07-30T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[localStorage 你很好，我选 IndexedDB]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527382&amp;idx=1&amp;sn=c2ddd3e973e0c10d04e191af209f81e4&amp;chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527382&amp;idx=1&amp;sn=c2ddd3e973e0c10d04e191af209f81e4&amp;chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd"/>
-        <updated>2025-07-30T00:00:00.000Z</updated>
-        <published>2025-07-30T00:00:00.000Z</published>
     </entry>
 </feed>
