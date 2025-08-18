@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-18T04:30:30.127Z</updated>
+    <updated>2025-08-18T06:17:28.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[借助CSS实现自适应屏幕边缘的tooltip]]></title>
+        <id>http://mp.weixin.qq.com/s/4ifcSObrhWr62QUjwZxqDw</id>
+        <link href="http://mp.weixin.qq.com/s/4ifcSObrhWr62QUjwZxqDw"/>
+        <updated>2025-08-18T00:00:00.000Z</updated>
+        <published>2025-08-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这个有点屌CSS @container scroll-state容器滚动查询]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/747"/>
         <updated>2025-08-01T00:00:00.000Z</updated>
         <published>2025-08-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML popover再进化 – 新增hint类型提示框]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/"/>
-        <updated>2025-07-31T00:00:00.000Z</updated>
-        <published>2025-07-31T00:00:00.000Z</published>
     </entry>
 </feed>
