@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-19 12:13:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-20 02:14:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590) ![](/assets/new.png)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
 - [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587)  
@@ -66,7 +67,6 @@
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
-- [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-08-19-【第3572期】JSON-提示词：打造完美-AI-输出的终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-19-【第3572期】JSON-提示词：打造完美-AI-输出的终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&scene=0#rd)  
 - [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
 - [2025-08-18-【图书】这就是MCP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=2&sn=8c1479ca229f43b7fd3d400429dd5c34&chksm=bc3917a4333a3521c91d0a4aaa319f7bcdc5b4745ee4f4d6078d4e457c56268f194da2041d77&scene=0#rd)  
 - [2025-08-15-【第3571期】调试神秘的-HTTP-流式传输问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&scene=0#rd)  

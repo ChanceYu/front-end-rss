@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-19 12:13:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-20 02:14:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590) 
 - [2025-07-22-Running-Laravel-apps-in-the-Node.js-world](https://nodeweekly.com/issues/587) 
 - [2025-07-15-Should-Node-switch-to-annual-major-releases?](https://nodeweekly.com/issues/586) 
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584) 
