@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-20T12:18:34.839Z</updated>
+    <updated>2025-08-20T14:10:22.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[一位Cursor深度用户的原理探析与实验验证]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541333&amp;idx=1&amp;sn=48a4eb5c1ab1f39630124038d31ec715&amp;chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541333&amp;idx=1&amp;sn=48a4eb5c1ab1f39630124038d31ec715&amp;chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&amp;scene=0#rd"/>
+        <updated>2025-08-20T00:00:00.000Z</updated>
+        <published>2025-08-20T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前端仔如何在公司搭建 AI Review 系统]]></title>
         <id>http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622869&amp;idx=1&amp;sn=3a0fdc420636de510a3bf491313ba23b&amp;chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622869&amp;idx=1&amp;sn=3a0fdc420636de510a3bf491313ba23b&amp;chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <published>2025-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3565期】纯 CSS 实现的滚动驱动动画指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
     </entry>
