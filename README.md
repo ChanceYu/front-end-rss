@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-20 16:13:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-20 20:18:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -30,14 +30,14 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-08-20-前端仔如何在公司搭建-AI-Review-系统](http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw) ![](/assets/new.png)  
+- [2025-08-19-尤雨溪力荐！Vue3-专属！100+-动效组件！](http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ) ![](/assets/new.png)  
 - [2025-08-15-别再瞎读源码了！高手都是这样拆解大型项目的](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517378&idx=1&sn=a8e9089d575260c7802d18272009744b&chksm=eb07bcbbdc7035adb1f5d53fdf3d49350d44c9eef40acb509b029ff790aab03986a4b0be18ad#rd)  
 - [2025-08-13-Vite-7.1.1-疑似遭受大规模-"攻击"！](http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg)  
 - [2025-08-11-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517370&idx=1&sn=be4469dfeaf601cacc7febdd7451815c&chksm=eb07bcc3dc7035d516d735021f1993c54f6d4530007f40cd1c4c137a9c807745865b6dd5e6d4#rd)  
@@ -437,8 +439,6 @@
 - [2025-07-21-最近，前端的招聘市场真是疯掉了。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517337&idx=1&sn=e244c7eb42b89bcd2eb7c64d4af0fcf2&chksm=eb07bce0dc7035f61aad8aa5574f9700f46c37c2f3768b07d63da9e7f66542fbd1c96d87cc79#rd)  
 - [2025-07-18-Nuxt-发布-4.0-版本！优化目录结构；性能大幅提升！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517331&idx=1&sn=1effda0a85b1782045e4e6b8426c5424&chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd)  
 - [2025-07-16-我本是写react的，公司让我换赛道搞web3D](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517329&idx=1&sn=ff43bf397481aca79a5e4abba8f403cd&chksm=eb07bce8dc7035fe69324d6114260487ede600d138967b2aed88c44c8b088b1f70f9332fc07f#rd)  
-- [2025-07-15-尤雨溪-VueConf-2025-主题演讲-PPT-来啦！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517327&idx=1&sn=a29866d1c8eec2f6a78a2295be9da0d7&chksm=eb07bcf6dc7035e0806b0ff515ded0d64e7e8bdd0e64d4303533fe0dc00bc4fab0d19ba6bed2#rd)  
-- [2025-07-14-刚刚，尤雨溪发布-Vue-新版本，无虚拟-DOM-版-Vue-来了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517325&idx=1&sn=6e641a1313213f5d815d77dd421bc61f&chksm=eb07bcf4dc7035e2df172f0eda54cd7bcb782ffe6325a18c9401d7074813e8e91103552ab443#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -636,7 +636,7 @@
 </summary>
 
 
-- [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/) ![](/assets/new.png)  
+- [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/)  
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/)  
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
 - [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  

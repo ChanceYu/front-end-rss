@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-20T08:13:51.572Z</updated>
+    <updated>2025-08-20T12:18:34.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端仔如何在公司搭建 AI Review 系统]]></title>
+        <id>http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw</id>
+        <link href="http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw"/>
+        <updated>2025-08-20T00:00:00.000Z</updated>
+        <published>2025-08-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪力荐！Vue3 专属！100+ 动效组件！]]></title>
+        <id>http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ</id>
+        <link href="http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ"/>
+        <updated>2025-08-19T00:00:00.000Z</updated>
+        <published>2025-08-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
         <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277161&amp;idx=1&amp;sn=cd4e01a321bec47536abda657bed9e5e&amp;chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&amp;scene=0#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JSON.stringify is about to get much faster]]></title>
-        <id>https://nodeweekly.com/issues/589</id>
-        <link href="https://nodeweekly.com/issues/589"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <published>2025-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 与 Vite 生态最新进展：迈向一体化与智能化的未来]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517360&amp;idx=1&amp;sn=cd3b593b8fc14df3bada4de7edfa5401&amp;chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517360&amp;idx=1&amp;sn=cd3b593b8fc14df3bada4de7edfa5401&amp;chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd"/>
-        <updated>2025-08-04T00:00:00.000Z</updated>
-        <published>2025-08-04T00:00:00.000Z</published>
     </entry>
 </feed>
