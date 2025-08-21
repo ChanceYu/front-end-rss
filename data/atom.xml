@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-20T14:10:22.828Z</updated>
+    <updated>2025-08-21T04:12:35.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3574期】可以这样写 JavaScript？！ES2025 新语法糖]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277268&amp;idx=1&amp;sn=4d8811545f55bfdcf3a4b96e082c2b42&amp;chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277268&amp;idx=1&amp;sn=4d8811545f55bfdcf3a4b96e082c2b42&amp;chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&amp;scene=0#rd"/>
+        <updated>2025-08-21T00:00:00.000Z</updated>
+        <published>2025-08-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一位Cursor深度用户的原理探析与实验验证]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541333&amp;idx=1&amp;sn=48a4eb5c1ab1f39630124038d31ec715&amp;chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[深度对话 Vue 与 Vite 之父尤雨溪：前端的未来、Rust、AI 与开源商业化]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526222&amp;idx=1&amp;sn=c3d10bb5e590d96a47fb8564bed668c8&amp;chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526222&amp;idx=1&amp;sn=c3d10bb5e590d96a47fb8564bed668c8&amp;chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <published>2025-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见了Vue3，前端AI已成气候！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622869&amp;idx=1&amp;sn=3a0fdc420636de510a3bf491313ba23b&amp;chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622869&amp;idx=1&amp;sn=3a0fdc420636de510a3bf491313ba23b&amp;chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
     </entry>
