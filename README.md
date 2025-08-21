@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-21 20:18:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-22 06:09:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,11 +25,11 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -264,8 +264,8 @@
 </summary>
 
 
-- [2025-08-21-面试官灵魂拷问：接口在-Postman-测试很快，页面加载咋就慢？](http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg) ![](/assets/new.png)  
-- [2025-08-20-一个有趣的拼音神器：pinyin-match](http://mp.weixin.qq.com/s/ovZGLA3--ETKZH3Qi-JcHg) ![](/assets/new.png)  
+- [2025-08-21-面试官灵魂拷问：接口在-Postman-测试很快，页面加载咋就慢？](http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg)  
+- [2025-08-20-一个有趣的拼音神器：pinyin-match](http://mp.weixin.qq.com/s/ovZGLA3--ETKZH3Qi-JcHg)  
 - [2025-08-19-面试官：如何减少页面卡顿？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527634&idx=1&sn=7799cb2c4690757b614fe75202904378&chksm=f9926a03cee5e31552fe9ef019238ab72b5bf1d88ab0345d4725854a18eab29e16c0ebccf231#rd)  
 - [2025-08-18-分享一款-AI-自动生成流程图的工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527623&idx=1&sn=6594f7a601fce5d871b901459e849656&chksm=f9926a16cee5e300bf02361a103b4dee18ead1f5d7c4878cb6c81baf7e2a56eed45926ba3d6e#rd)  
 - [2025-08-15-Node.js中构建可用的-MCP-服务器：从入门到实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd)  
@@ -388,12 +388,14 @@
 </summary>
 
 
+- [2025-08-20-AutoGLM-2.0，手机开始替人类上班了](http://mp.weixin.qq.com/s/ZY6g_sPb9nUL3tTwMrF48g) ![](/assets/new.png)  
+- [2025-08-19-别的AI教你做工具人，她却帮你活得更好](http://mp.weixin.qq.com/s/oHqZNUnpArdL5yRc5LRKKw) ![](/assets/new.png)  
 - [2025-08-14-一个用AI起号的邪修方法](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503729&idx=1&sn=c536bf27c884ff146309bcbdf4948d50&chksm=c2b30e8ef5c48798663533131be4d2d4afb1b3af6df4ce725f70cb3c1f4feb1bf87aeafe7b4d#rd)  
 - [2025-08-12-GLM-4.5V刚刚开源，智谱要飞上天](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503679&idx=1&sn=34cdb16925ef9bb1473538c5aafaefe7&chksm=c2b30ec0f5c487d6531f58fe26daca8a42cdde4906a9e7108ba9fed83eaf44ba14129b43f7c8#rd)  
 - [2025-08-11-谷歌重磅发布Genie-3，这回真没有边界感了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503655&idx=1&sn=f6605f8c4a52dbf872182228fcc2470e&chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd)  
 - [2025-08-08-OpenAI-GPT-5来了，但AGI没来](http://mp.weixin.qq.com/s/FmtSWG-qcbPNIjM_Uvt8bw)  
-- [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA)  
 - [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
+- [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA)  
 - [2025-08-06-OpenAI开源2款模型，实测有点离谱](http://mp.weixin.qq.com/s/Lrckf5a0WsuVeSRfB7FbeQ)  
 - [2025-08-01-Manus推出Wide-Research，真正的降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503513&idx=1&sn=ebe772e78e6cd54f36a7e2c98fd7a7a9&chksm=c2b30f66f5c486700a2e24cf86ffcd289b1228f3b3e90103420a373e569f9d3355be50f7f2ff#rd)  
 - [2025-07-31-中国AI霸榜HuggingFace，彻底杀疯了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503464&idx=1&sn=c147921a188d7c830a799d8806e397d1&chksm=c2b30f97f5c48681584a4daa1f227f2245736e94056e1660bfeb757219b214a0923be4b745d5#rd)  
@@ -406,8 +408,6 @@
 - [2025-07-17-秘塔AI深度研究，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503270&idx=1&sn=eecd0ec494d4e567333c9c127c206a63&chksm=c2b30c59f5c4854f9d0477248743310bfb3adb88db529482f92af8965de39f4833427ba8e9d4#rd)  
 - [2025-07-03-Lovart中文版刚刚上线，再见了PS](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503240&idx=1&sn=0ac6c889629b1556f8d7a8b2c69ea5ec&chksm=c2b30c77f5c48561da47d3d460c60abc288f9520ead72d9948b83e10ab06592570e6ec7887cf#rd)  
 - [2025-06-26-Kimi-终于悟了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503119&idx=1&sn=cbbcec9440d25a00a8ac65e4ae4d03db&chksm=c2b30cf0f5c485e643e6e8c8f286e5f57199413612dda9ca3a9430e4bd3be3c12756f4a47403#rd)  
-- [2025-06-24-Fellou，这次玩大了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503035&idx=1&sn=38fbb4322ca000bedfd921348ad30370&chksm=c2b30d44f5c484527638fe329a344f40f92ca50273b042ce2c126b6cd280b349f1a33b2fc11f#rd)  
-- [2025-06-23-MiniMax-Agent实测，靠谱的赛博朋友](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503008&idx=1&sn=400070dd066e6026652dd53c26d6fa94&chksm=c2b30d5ff5c4844987dacac241b0fe847307bfefd6aea523e9657fea42dba422807966f5b097#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
