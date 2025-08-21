@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-21 12:12:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-21 20:18:28，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-08-21-【第3574期】可以这样写-JavaScript？！ES2025-新语法糖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277268&idx=1&sn=4d8811545f55bfdcf3a4b96e082c2b42&chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-21-【第3574期】可以这样写-JavaScript？！ES2025-新语法糖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277268&idx=1&sn=4d8811545f55bfdcf3a4b96e082c2b42&chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&scene=0#rd)  
 - [2025-08-20-【第3573期】初高级开发者：如何使用-ChatGPT-编程（关键区别解析）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277262&idx=1&sn=4624ca688bfa73a974c9c03129c5f195&chksm=bce5c6173efc08d2014671f2ecd3972702962e44373b62cda07cb5f886c23546c9f6ae35864b&scene=0#rd)  
 - [2025-08-19-【第3572期】JSON-提示词：打造完美-AI-输出的终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&scene=0#rd)  
 - [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
@@ -264,6 +264,8 @@
 </summary>
 
 
+- [2025-08-21-面试官灵魂拷问：接口在-Postman-测试很快，页面加载咋就慢？](http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg) ![](/assets/new.png)  
+- [2025-08-20-一个有趣的拼音神器：pinyin-match](http://mp.weixin.qq.com/s/ovZGLA3--ETKZH3Qi-JcHg) ![](/assets/new.png)  
 - [2025-08-19-面试官：如何减少页面卡顿？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527634&idx=1&sn=7799cb2c4690757b614fe75202904378&chksm=f9926a03cee5e31552fe9ef019238ab72b5bf1d88ab0345d4725854a18eab29e16c0ebccf231#rd)  
 - [2025-08-18-分享一款-AI-自动生成流程图的工具](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527623&idx=1&sn=6594f7a601fce5d871b901459e849656&chksm=f9926a16cee5e300bf02361a103b4dee18ead1f5d7c4878cb6c81baf7e2a56eed45926ba3d6e#rd)  
 - [2025-08-15-Node.js中构建可用的-MCP-服务器：从入门到实战](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527619&idx=1&sn=c8cc5396ea806ab25e476f26e41872b3&chksm=f9926a12cee5e30496428a53f1694a28d085a59ed9943cd993ab0e8242549a88d0fe79185220#rd)  
@@ -275,15 +277,13 @@
 - [2025-08-07-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527484&idx=1&sn=7e2e81a44c8f87dc83603ee3e4a85f64&chksm=f9926aedcee5e3fb1fcb1d136bc8b2bb0689a3a6de91f8139d4bae780567dccdd2a4f00c6c81#rd)  
 - [2025-08-06-写稳大型项目的-JS/TS-技巧（下）——-覆盖并发、缓存等](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527482&idx=1&sn=71f93060565d50edd75afca1ffd23c46&chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd)  
 - [2025-08-05-停止写屎山代码！教你10个JS/TS绝技](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527443&idx=1&sn=319eb17ec4610a204cd2cfded66462d5&chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd)  
-- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [2025-08-04-领导最烦这种下属，技术再牛，也不会提拔](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=1&sn=d507a74851b5e9d7d3ef6281938d6d38&chksm=f9926d2acee5e43c8c76c922d65471e82c31b9fa9e75829e9d9b825784563242a8ccaeeba097#rd)  
+- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [2025-08-03-通过代码看-React-的历史](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527411&idx=1&sn=759c4d919112a2d817a6d98d41d193dc&chksm=f9926d22cee5e43446b17bc6beba3dd7b85622f69b26d97a9c40f4365e8ecefe040b368a9849#rd)  
 - [2025-08-01-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527395&idx=1&sn=9b50ced28f5b3d96cedc3072186379f4&chksm=f9926d32cee5e424ca9e7d5a084258602296de81d1871421f9cd1fdcb178cc2ed6b9d7a64046#rd)  
 - [2025-07-31-从双端到一次搞定，一个老码农的真香体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527388&idx=1&sn=965bfd207b1afb9ffa6f1c10430c0e9b&chksm=f9926d0dcee5e41bcc1f5b4be5e06c954b41ae26db9f26f3232d864aaa378de39762215daf49#rd)  
 - [2025-07-30-localStorage-你很好，我选-IndexedDB](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527382&idx=1&sn=c2ddd3e973e0c10d04e191af209f81e4&chksm=f9926d07cee5e41104e92716b0cf01cf4d16a85559056a8ccedc3d698aaa40c514a26441afc1#rd)  
 - [2025-07-29-做-DOCX-预览？这个神库别错过！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527375&idx=1&sn=0390ca6b982e1f4b9806593c56adb97f&chksm=f9926d1ecee5e40898e4d9a08dad92706d83ba0fdbbbdec119ac117630916ec1493f5b08498d#rd)  
-- [2025-07-28-别再乱用-as-了，TypeScript-的-satisfies-更香！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527370&idx=1&sn=dc02935d0c5698aed8e141d07c619a6b&chksm=f9926d1bcee5e40dc741e905977ecb5890ed2e25b2a7d6a5e02bd8966134e40b7f4f480762c4#rd)  
-- [2025-07-27-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527334&idx=1&sn=7d2a1c8ac915991e1f4afe439c68e63b&chksm=f9926d77cee5e461d21580c3ce91338c10144547c0b1a7959ff9ddf076e386f21150da2be693#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

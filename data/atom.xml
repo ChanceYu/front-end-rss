@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-21T04:12:35.842Z</updated>
+    <updated>2025-08-21T12:18:29.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[面试官灵魂拷问：接口在 Postman 测试很快，页面加载咋就慢？]]></title>
+        <id>http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg</id>
+        <link href="http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg"/>
+        <updated>2025-08-21T00:00:00.000Z</updated>
+        <published>2025-08-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3574期】可以这样写 JavaScript？！ES2025 新语法糖]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277268&amp;idx=1&amp;sn=4d8811545f55bfdcf3a4b96e082c2b42&amp;chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪推荐的 Vue3 表单神器！体积小功能强大！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505252&amp;idx=1&amp;sn=d2d36a90b657cf5286590e8b9c88272f&amp;chksm=ce45c0f5f93249e356eace164780e41fce6ae0cff1fd96225ba23ca318813e8bd9d8e64001a1#rd"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <published>2025-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度对话 Vue 与 Vite 之父尤雨溪：前端的未来、Rust、AI 与开源商业化]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526222&amp;idx=1&amp;sn=c3d10bb5e590d96a47fb8564bed668c8&amp;chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526222&amp;idx=1&amp;sn=c3d10bb5e590d96a47fb8564bed668c8&amp;chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
     </entry>
