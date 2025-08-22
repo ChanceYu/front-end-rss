@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-22T04:13:14.639Z</updated>
+    <updated>2025-08-22T06:16:07.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[TanStack：不止于 Vue！一个库，真·通杀所有框架！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505406&amp;idx=1&amp;sn=163ee060823a6bf91c949627d24b9986&amp;chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505406&amp;idx=1&amp;sn=163ee060823a6bf91c949627d24b9986&amp;chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd"/>
+        <updated>2025-08-22T00:00:00.000Z</updated>
+        <published>2025-08-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面试官灵魂拷问：接口在 Postman 测试很快，页面加载咋就慢？]]></title>
         <id>http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg</id>
@@ -64,16 +71,16 @@
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
-        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
-        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
+        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
-        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
+        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
+        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
+        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
@@ -337,16 +344,16 @@
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
-        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
+        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
+        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
+        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
-        <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
-        <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
+        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277174&amp;idx=2&amp;sn=2305e2835aafc1e0b1e293dc62393c99&amp;chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&amp;scene=0#rd"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪推荐的 Vue3 表单神器！体积小功能强大！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517362&amp;idx=1&amp;sn=1b8d2c73e9c5c1a3c881688faed7cc59&amp;chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517362&amp;idx=1&amp;sn=1b8d2c73e9c5c1a3c881688faed7cc59&amp;chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <published>2025-08-05T00:00:00.000Z</published>
     </entry>
 </feed>
