@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-22T14:11:29.604Z</updated>
+    <updated>2025-08-22T16:11:27.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
+        <updated>2025-08-22T00:00:00.000Z</updated>
+        <published>2025-08-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jsonnet 一种“新”的Json数据转换工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd"/>
+        <updated>2025-08-22T00:00:00.000Z</updated>
+        <published>2025-08-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TanStack：不止于 Vue！一个库，真·通杀所有框架！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505406&amp;idx=1&amp;sn=163ee060823a6bf91c949627d24b9986&amp;chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[Vite 首支纪录片即将发布！讲述 6 年发展历程]]></title>
         <id>http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw</id>
         <link href="http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw"/>
-        <updated>2025-08-06T00:00:00.000Z</updated>
-        <published>2025-08-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg</id>
-        <link href="http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg"/>
-        <updated>2025-08-06T00:00:00.000Z</updated>
-        <published>2025-08-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3566期】UI 的未来：从命令行到对话式 AI]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277174&amp;idx=2&amp;sn=2305e2835aafc1e0b1e293dc62393c99&amp;chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277174&amp;idx=2&amp;sn=2305e2835aafc1e0b1e293dc62393c99&amp;chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&amp;scene=0#rd"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>

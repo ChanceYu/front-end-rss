@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-22 22:11:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-23 00:11:26，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749) ![](/assets/new.png)  
+- [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
@@ -481,6 +481,8 @@
 </summary>
 
 
+- [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
 - [2025-08-18-淘宝购物车拖拽功能的思考与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541315&idx=1&sn=b9f93d3995fc5b25c5eed17b00c24115&chksm=82d2352e90a2533f9966546b9863859f4525df737a27a86c5622d93903f73cc83e6c92700982&scene=0#rd)  
 - [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd)  
@@ -499,8 +501,6 @@
 - [2025-07-16-2023-2025大模型领域2年发展综述](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540925&idx=1&sn=d3c101c2017335f9bf70b70af12987c3&chksm=8245b60a6db9a22d6f00624db4a2cc51865921e235f87b4f527be9e115b5740b519a5c8cb023&scene=0#rd)  
 - [2025-07-14-解析3种AI应用模式：核心技术拆解与工程实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540918&idx=1&sn=15e921850ae31a3b504ccfc37abf42a6&chksm=828bf39ad9841e1d62756bfc0b2c599f9ece1a4face69f72485f4f7efb2fa8c3c76cfe8835d1&scene=0#rd)  
 - [2025-07-11-程序员的自我修养---架构要素与认知](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540911&idx=1&sn=71acd6c327878ceeb72ba7b79182be74&chksm=82da38369647ec117ce0ea8deb5ec2ac4e4d252b1148ef90b7a075c5fd3543085d857a8b2ac9&scene=0#rd)  
-- [2025-07-09-端侧AI突破性能瓶颈：MNN-基于-SME2-指令集的大模型高效推理实现](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540883&idx=1&sn=31ecf286c928a070b681494375c7c66d&chksm=82490351543103cb666b6f124dbedb6b325fe3b65badb4c435cb15ecfd4e4289e9b1d4bbf80b&scene=0#rd)  
-- [2025-07-07-如何做到在手机上实时跑3D真人数字人？MNN-TaoAvatar开源了！](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540824&idx=1&sn=8d56c71f2037d663bde18700280373ed&chksm=82990e03da4e0109b53de8030fa23f85ba63997a041fdec97a1819a6b92d6c5a5b9ebf9e0188&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
