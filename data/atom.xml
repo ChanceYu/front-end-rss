@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-25T12:19:46.289Z</updated>
+    <updated>2025-08-25T14:10:34.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -22,16 +22,23 @@
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
-        <updated>2025-08-22T00:00:00.000Z</updated>
-        <published>2025-08-22T00:00:00.000Z</published>
+        <title type="html"><![CDATA[【第3575期】解锁 AI 响应中的丰富 UI 组件渲染]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277284&amp;idx=1&amp;sn=c96010fa50abd506a21064e332bbf967&amp;chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277284&amp;idx=1&amp;sn=c96010fa50abd506a21064e332bbf967&amp;chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&amp;scene=0#rd"/>
+        <updated>2025-08-25T00:00:00.000Z</updated>
+        <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jsonnet 一种“新”的Json数据转换工具]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd"/>
+        <updated>2025-08-22T00:00:00.000Z</updated>
+        <published>2025-08-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <published>2025-08-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Web Agent大对决：你的AI浏览器理想型，会是哪一个？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541112&amp;idx=1&amp;sn=0a6ca5895272636b5260e52362d83164&amp;chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541112&amp;idx=1&amp;sn=0a6ca5895272636b5260e52362d83164&amp;chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd"/>
-        <updated>2025-08-06T00:00:00.000Z</updated>
-        <published>2025-08-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3.6 都来了，v-model 的 "新玩法" 还有这么多人不会！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517364&amp;idx=1&amp;sn=bb4171c0ad6c5c266ed35137845eb69c&amp;chksm=eb07bccddc7035db12a52ff2e5595a9eba96cc2722385998157dd2c0b01b17c12cbd6679f08f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517364&amp;idx=1&amp;sn=bb4171c0ad6c5c266ed35137845eb69c&amp;chksm=eb07bccddc7035db12a52ff2e5595a9eba96cc2722385998157dd2c0b01b17c12cbd6679f08f#rd"/>
         <updated>2025-08-06T00:00:00.000Z</updated>
         <published>2025-08-06T00:00:00.000Z</published>
     </entry>
