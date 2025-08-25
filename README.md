@@ -14,15 +14,15 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-25 22:10:33，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-26 00:11:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-08-25-【第3575期】解锁-AI-响应中的丰富-UI-组件渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277284&idx=1&sn=c96010fa50abd506a21064e332bbf967&chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-25-【第3575期】解锁-AI-响应中的丰富-UI-组件渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277284&idx=1&sn=c96010fa50abd506a21064e332bbf967&chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&scene=0#rd)  
 - [2025-08-22-【早阅】逆向工程-Claude-Code：学习这些-Agent-技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277278&idx=1&sn=cd6750a64c8a47234ed26d567ec9d693&chksm=bcc3f961d2947688935be51103211d7a033f68b9e18e5095f1af7f612287d63b7a57c9a194fd&scene=0#rd)  
 - [2025-08-21-【第3574期】可以这样写-JavaScript？！ES2025-新语法糖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277268&idx=1&sn=4d8811545f55bfdcf3a4b96e082c2b42&chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&scene=0#rd)  
 - [2025-08-20-【第3573期】初高级开发者：如何使用-ChatGPT-编程（关键区别解析）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277262&idx=1&sn=4624ca688bfa73a974c9c03129c5f195&chksm=bce5c6173efc08d2014671f2ecd3972702962e44373b62cda07cb5f886c23546c9f6ae35864b&scene=0#rd)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-08-25-GPT-5：前端开发者的“选择自己的冒险路线”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526267&idx=1&sn=75715167726ec8c0ff0a3623d7b358e4&chksm=f952d238ce255b2e2159c2ed8a1319c852e78aedd46b6c71d77c39a7da02bdbcd1f24c76a59a#rd) ![](/assets/new.png)  
 - [2025-08-15-日均生成数十万-Web-应用！Vercel-v0.app-推出最终可用版本，AI-全栈开发时代来临？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526249&idx=1&sn=243abf9c1648720abbe95d1bc1a22282&chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd)  
 - [2025-08-11-厌倦了JavaScript框架的复杂性？可以看下Still.js](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526235&idx=1&sn=f9efec9c4eaed85cb3a854809c92c2cf&chksm=f952d218ce255b0edc9768e69320bd7360e8efb9d0d167ba083c07b08e5716636a63b7cbf4b2#rd)  
 - [2025-08-05-深度对话-Vue-与-Vite-之父尤雨溪：前端的未来、Rust、AI-与开源商业化](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526222&idx=1&sn=c3d10bb5e590d96a47fb8564bed668c8&chksm=f952d20dce255b1ba43f48fb1c9a4e29e092bddf912e4734f278ff79f2c717d2512b212aaa3c#rd)  
@@ -190,7 +191,6 @@
 - [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd)  
 - [2025-03-29-当-AI-重塑开发体验，iOS-生态为何显得格格不入？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525903&idx=1&sn=02d078d10a7007aa995071bdf71a7d3f&chksm=f952d34cce255a5a4ef75057439f911142fb15cf7d8b6fd4bfa3af91a893edf3060916c4ecf1#rd)  
 - [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525894&idx=1&sn=ceaae73c9779a47a3465a3f89e041bb8&chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd)  
-- [2025-03-12-前端框架新格局：从过去一年的演进看未来趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525868&idx=1&sn=962a6cee37106901175855fa7d52d184&chksm=f952d0afce2559b9c2c08982d9d1961369fb518c57a10fe13d84aa2de483019b1b70113cfcee#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd) ![](/assets/new.png)  
+- [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
