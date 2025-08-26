@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-08-20 02:14:00。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-27 00:11:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Node-Weekly
 
 
 
 
+- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) 
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590) 
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589) 
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588) 
