@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-26T16:11:51.443Z</updated>
+    <updated>2025-08-26T22:09:05.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
+        <updated>2025-08-26T00:00:00.000Z</updated>
+        <published>2025-08-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 团队成员新作：node-modules 可视化神器！]]></title>
+        <id>http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag</id>
+        <link href="http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag"/>
         <updated>2025-08-26T00:00:00.000Z</updated>
         <published>2025-08-26T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[CSS索引和数量匹配函数sibling-index sibling-count简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/"/>
-        <updated>2025-08-07T00:00:00.000Z</updated>
-        <published>2025-08-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再见 try/catch，我有更好的选择了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd"/>
         <updated>2025-08-07T00:00:00.000Z</updated>
         <published>2025-08-07T00:00:00.000Z</published>
     </entry>

@@ -14,11 +14,11 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-27 00:11:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-27 06:09:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -47,7 +47,7 @@
 </summary>
 
 
-- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) ![](/assets/new.png)  
+- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [2025-07-29-An-epic-rundown-of-JavaScript-engines-and-runtimes](https://nodeweekly.com/issues/588)  
@@ -419,6 +419,7 @@
 </summary>
 
 
+- [2025-08-26-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag) ![](/assets/new.png)  
 - [2025-08-21-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517386&idx=1&sn=600703f2da4eceac2bd9d8030cbd3bb3&chksm=eb07bcb3dc7035a50ebf76cb215d44d08b2bd2a2cd2ff45af67aea7a9ae8b4c0058656f7d5b0#rd)  
 - [2025-08-20-前端仔如何在公司搭建-AI-Review-系统](http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw)  
 - [2025-08-19-尤雨溪力荐！Vue3-专属！100+-动效组件！](http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ)  
@@ -438,7 +439,6 @@
 - [2025-07-24-谁说前端改动看不出影响范围？我用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517343&idx=1&sn=f1ef8e01cf3303fe6ececf83268db72c&chksm=eb07bce6dc7035f00658c7cc8f2e6a9b75a7aff072ad0d1fb08b5f25f4609d873ac41aa2fd8d#rd)  
 - [2025-07-22-前端物料库的设计](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517339&idx=1&sn=000eeb44e96ac803c0cbdd5ebc5cd8a3&chksm=eb07bce2dc7035f46789c98a8054fe08b0c57059725663f72b4bea6e2e98584123787ccb4c11#rd)  
 - [2025-07-21-最近，前端的招聘市场真是疯掉了。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517337&idx=1&sn=e244c7eb42b89bcd2eb7c64d4af0fcf2&chksm=eb07bce0dc7035f61aad8aa5574f9700f46c37c2f3768b07d63da9e7f66542fbd1c96d87cc79#rd)  
-- [2025-07-18-Nuxt-发布-4.0-版本！优化目录结构；性能大幅提升！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517331&idx=1&sn=1effda0a85b1782045e4e6b8426c5424&chksm=eb07bceadc7035fc28b7ffd8c3df01c9dff3dcc08b98d424968eea43408f9981f7c22e972d79#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
