@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-26T04:13:17.516Z</updated>
+    <updated>2025-08-26T12:19:37.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
+        <updated>2025-08-26T00:00:00.000Z</updated>
+        <published>2025-08-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS 小技巧：如何将 img 转换成 background-image]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490764&amp;idx=1&amp;sn=5fb164e0dc41dfdbc33b63c23df3455e&amp;chksm=97c67f03a0b1f615220c599cc96c08468ed3e0347620bd05a9c2dba7bbd0b177546e7913378c#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[再见 try/catch，我有更好的选择了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517366&amp;idx=1&amp;sn=12fb99bbbaf3e053670365c794dff30a&amp;chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd"/>
-        <updated>2025-08-07T00:00:00.000Z</updated>
-        <published>2025-08-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 官方推出新的动画方案，对标 React！]]></title>
-        <id>http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw</id>
-        <link href="http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw"/>
         <updated>2025-08-07T00:00:00.000Z</updated>
         <published>2025-08-07T00:00:00.000Z</published>
     </entry>
