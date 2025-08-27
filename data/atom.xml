@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-27T16:11:51.815Z</updated>
+    <updated>2025-08-27T20:10:35.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -71,16 +71,16 @@
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jsonnet 一种“新”的Json数据转换工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <published>2025-08-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[Jsonnet 一种“新”的Json数据转换工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <published>2025-08-22T00:00:00.000Z</published>
     </entry>
