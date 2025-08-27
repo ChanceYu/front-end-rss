@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-26T22:09:05.276Z</updated>
+    <updated>2025-08-27T04:12:08.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3576期】前端的随机魔法：CSS random() 全解析]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277311&amp;idx=1&amp;sn=34cdfc8b9846c4d79daeea52e64f8f36&amp;chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277311&amp;idx=1&amp;sn=34cdfc8b9846c4d79daeea52e64f8f36&amp;chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&amp;scene=0#rd"/>
+        <updated>2025-08-27T00:00:00.000Z</updated>
+        <published>2025-08-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/748"/>
         <updated>2025-08-08T00:00:00.000Z</updated>
         <published>2025-08-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS索引和数量匹配函数sibling-index sibling-count简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/"/>
-        <updated>2025-08-07T00:00:00.000Z</updated>
-        <published>2025-08-07T00:00:00.000Z</published>
     </entry>
 </feed>
