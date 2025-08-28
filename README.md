@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-28 04:10:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-28 12:11:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -109,6 +109,8 @@
 </summary>
 
 
+- [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd) ![](/assets/new.png)  
 - [2025-08-27-【第3576期】前端的随机魔法：CSS-random-全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277311&idx=1&sn=34cdfc8b9846c4d79daeea52e64f8f36&chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&scene=0#rd)  
 - [2025-08-26-【早阅】用-Claude-编程：提示词入门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277297&idx=1&sn=a1f44d24c88946d8015a2fa14d2ff08c&chksm=bce1926115e42539857999edd730bfc5a7dca3ebc2d737e76b13542b85e9d620bafb82ddc5cb&scene=0#rd)  
 - [2025-08-25-【第3575期】解锁-AI-响应中的丰富-UI-组件渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277284&idx=1&sn=c96010fa50abd506a21064e332bbf967&chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&scene=0#rd)  
@@ -116,8 +118,8 @@
 - [2025-08-21-【第3574期】可以这样写-JavaScript？！ES2025-新语法糖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277268&idx=1&sn=4d8811545f55bfdcf3a4b96e082c2b42&chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&scene=0#rd)  
 - [2025-08-20-【第3573期】初高级开发者：如何使用-ChatGPT-编程（关键区别解析）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277262&idx=1&sn=4624ca688bfa73a974c9c03129c5f195&chksm=bce5c6173efc08d2014671f2ecd3972702962e44373b62cda07cb5f886c23546c9f6ae35864b&scene=0#rd)  
 - [2025-08-19-【第3572期】JSON-提示词：打造完美-AI-输出的终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&scene=0#rd)  
-- [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
 - [2025-08-18-【图书】这就是MCP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=2&sn=8c1479ca229f43b7fd3d400429dd5c34&chksm=bc3917a4333a3521c91d0a4aaa319f7bcdc5b4745ee4f4d6078d4e457c56268f194da2041d77&scene=0#rd)  
+- [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
 - [2025-08-15-【第3571期】调试神秘的-HTTP-流式传输问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&scene=0#rd)  
 - [2025-08-14-【第3570期】LLM-和-ChatGPT：文本提示与-JSON-提示的对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277236&idx=1&sn=27a9d68a574ac89c711e85c432a93629&chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&scene=0#rd)  
 - [2025-08-13-【第3569期】GPT-5-体验报告：欢迎来到“石器时代”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277231&idx=1&sn=5defc1253428cf86056995678c04b88b&chksm=bca2d45d24ed0a5e9f9747519f2da25ba3df7e631bbb441412a396734e1ced328fb3ef0e4716&scene=0#rd)  
@@ -125,10 +127,8 @@
 - [2025-08-11-【第3568期】使用-Git-Worktree-进行开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277197&idx=1&sn=2e8ebe9823216531c8e5b28581ccf48d&chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&scene=0#rd)  
 - [2025-08-08-【第3567期】React-Suspense-的内部原理：抛出-Promise-与声明式异步-UI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277190&idx=1&sn=673ab56d992bd74088941d7939fdf840&chksm=bc8a4e736ad584fb4aef5c4a1ccaa1e32d59991023a99f425bb623631d43c4f0a251bfa94871&scene=0#rd)  
 - [2025-08-07-【早阅】Claude-代码一个月后：真正坚持下来的模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277182&idx=1&sn=f41b63def82a73471490c17fcad01821&chksm=bc063bbd82ea52dcbed2701636e56d397eb2c195b555d3f67f44ea3973c4a1f19c43e61ad660&scene=0#rd)  
-- [2025-08-06-【早阅】Claude-Code最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bc3f706af33c5a64a0b989185eaa4fb0cb2460b081fc8af65d8c18f21f42167e1c236a7415d6&scene=0#rd)  
 - [2025-08-06-【第3566期】UI-的未来：从命令行到对话式-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=2&sn=2305e2835aafc1e0b1e293dc62393c99&chksm=bcf43824aaad08aa0f094a7b569c354f1380884cd351fb42d286f71c5920d6e731d20460e484&scene=0#rd)  
-- [2025-08-05-【早阅】如何命名文件](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=2&sn=8cc778a96d9a5367ca06d75254c7e554&chksm=bc78d44e7156ffb7aa643a6ea27e8722518f668e8bca5080b19f57644bd08d94f77d65e329b3&scene=0#rd)  
-- [2025-08-05-【第3565期】纯-CSS-实现的滚动驱动动画指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277161&idx=1&sn=cd4e01a321bec47536abda657bed9e5e&chksm=bcef8b9c3db1f5af4127f39cd7a9f22f88650c04eb4f4e9f61f07a8b62fc22f18e2edfd6750c&scene=0#rd)  
+- [2025-08-06-【早阅】Claude-Code最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277174&idx=1&sn=d81df1c1c4dc24d36015408f5f8f3c7c&chksm=bc3f706af33c5a64a0b989185eaa4fb0cb2460b081fc8af65d8c18f21f42167e1c236a7415d6&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ) ![](/assets/new.png)  
+- [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
 - [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
