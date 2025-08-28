@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-28 20:18:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-29 04:10:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -1488,6 +1488,7 @@
 - [2023-06-05-前端食堂技术周刊第-85-期：5-月浏览器更新、TS-5.1、Rspack-0.2.0、Next.js-企业级模板](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498193&idx=1&sn=9fd21acb1a38df05251c4bcaa3fe3e5f&chksm=c2b3382ef5c4b138eae6a69acd1b39c5aa2afe3945ce4ee4766305b5c2f05240bbc4ca3c0ec5#rd) 
 - [2023-01-12-开发现代-JavaScript-库的正确姿势【送书】](https://mp.weixin.qq.com/s/rMQ_qBA6aBNbZ4UgfvW9KA) 
 - [2023-01-10-前端食堂技术周刊第-66-期：2022-JS-Rising-Stars、Lightning-CSS、年度最受欢迎文章](https://mp.weixin.qq.com/s/vPFTS_NwxrhbUZPZJj_uxQ) 
+- [2025-08-27-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517390&idx=1&sn=9203408da36c085710e0e7428d333931&chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd) 
 - [2025-08-08-2-个插件！-让-VSCode-中-console.log-开启「自动驾驶」模式！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517368&idx=1&sn=602734ead5d2f758b59d05449e02e28c&chksm=eb07bcc1dc7035d76ad8aa2493584f18045a47843cd210800f28d4c98e847ad968b1bfd28fc6#rd) 
 - [2025-08-07-再见-try/catch，我有更好的选择了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517366&idx=1&sn=12fb99bbbaf3e053670365c794dff30a&chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd) 
 - [2025-06-27-2025-年度最佳-JS-开源项目揭晓，竟然是它？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517272&idx=1&sn=9cf2a14d8cdae84096604bb779aaa940&chksm=eb07bc21dc7035379da65cf69faa15f93072b751dd203542ee44dc97aabaa85b8592b99969b9#rd) 

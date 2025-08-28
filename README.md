@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-28 20:18:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-29 04:10:48，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd) ![](/assets/new.png)  
+- [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
 - [2025-08-21-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622909&idx=1&sn=53351b4157fd3c750a6cf57858b00329&chksm=80225a3cb755d32a5928d5fd1bd92eced6c903f6e0a9581df25d63743873bf6fac440a7333d6#rd)  
 - [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
 - [2025-08-20-网传钉钉-CEO-凌晨巡查工位，质问员工为何提前下班。网友：无招是真的没招了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=1&sn=7261eb0ce69f0809a802eca7d04ed2ea&chksm=80225a32b755d3249a60f14b9150aad7697d15bf51c92bbed1e9583ebbf73c1bc6d71018eac9#rd)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-08-28-终极方案：Vue3-中把-Axios-用到极致！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517392&idx=1&sn=3fd3a7bf8f4f1079d26176e82c07486a&chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd) ![](/assets/new.png)  
+- [2025-08-27-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517390&idx=1&sn=9203408da36c085710e0e7428d333931&chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd) ![](/assets/new.png)  
 - [2025-08-26-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag)  
 - [2025-08-21-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517386&idx=1&sn=600703f2da4eceac2bd9d8030cbd3bb3&chksm=eb07bcb3dc7035a50ebf76cb215d44d08b2bd2a2cd2ff45af67aea7a9ae8b4c0058656f7d5b0#rd)  
 - [2025-08-20-前端仔如何在公司搭建-AI-Review-系统](http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw)  
@@ -437,8 +439,6 @@
 - [2025-07-28-TypeScript-发布-5.9-预览版！](http://mp.weixin.qq.com/s/h38xVOHGE9AXGcj_3mG9bw)  
 - [2025-07-25-vue3-的-parse-都做了啥（源码解析）](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517347&idx=1&sn=44789afe487086b2818ac25613984699&chksm=eb07bcdadc7035ccac53c7c26d422cce96c9a5d0d9f30785ab2b6f3e3364b51246b1ab4fb1f7#rd)  
 - [2025-07-24-谁说前端改动看不出影响范围？我用-Cursor-找到了隐藏炸弹](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517343&idx=1&sn=f1ef8e01cf3303fe6ececf83268db72c&chksm=eb07bce6dc7035f00658c7cc8f2e6a9b75a7aff072ad0d1fb08b5f25f4609d873ac41aa2fd8d#rd)  
-- [2025-07-22-前端物料库的设计](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517339&idx=1&sn=000eeb44e96ac803c0cbdd5ebc5cd8a3&chksm=eb07bce2dc7035f46789c98a8054fe08b0c57059725663f72b4bea6e2e98584123787ccb4c11#rd)  
-- [2025-07-21-最近，前端的招聘市场真是疯掉了。。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517337&idx=1&sn=e244c7eb42b89bcd2eb7c64d4af0fcf2&chksm=eb07bce0dc7035f61aad8aa5574f9700f46c37c2f3768b07d63da9e7f66542fbd1c96d87cc79#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

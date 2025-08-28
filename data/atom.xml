@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-28T12:18:15.634Z</updated>
+    <updated>2025-08-28T20:10:48.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[终极方案：Vue3 中把 Axios 用到极致！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd"/>
+        <updated>2025-08-28T00:00:00.000Z</updated>
+        <published>2025-08-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promise.all的时代终结了，新方法即将取代他]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517390&amp;idx=1&amp;sn=9203408da36c085710e0e7428d333931&amp;chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517390&amp;idx=1&amp;sn=9203408da36c085710e0e7428d333931&amp;chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd"/>
+        <updated>2025-08-27T00:00:00.000Z</updated>
+        <published>2025-08-27T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纯前端实现图片伪3D视差效果]]></title>
         <id>http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw</id>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[比 html2canvas 快 30 倍的截图神器！项目已使用！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505287&amp;idx=1&amp;sn=c328bfcfb2b6af070637f81824013c7a&amp;chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505287&amp;idx=1&amp;sn=c328bfcfb2b6af070637f81824013c7a&amp;chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd"/>
-        <updated>2025-08-11T00:00:00.000Z</updated>
-        <published>2025-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厌倦了JavaScript框架的复杂性？可以看下Still.js]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526235&amp;idx=1&amp;sn=f9efec9c4eaed85cb3a854809c92c2cf&amp;chksm=f952d218ce255b0edc9768e69320bd7360e8efb9d0d167ba083c07b08e5716636a63b7cbf4b2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526235&amp;idx=1&amp;sn=f9efec9c4eaed85cb3a854809c92c2cf&amp;chksm=f952d218ce255b0edc9768e69320bd7360e8efb9d0d167ba083c07b08e5716636a63b7cbf4b2#rd"/>
-        <updated>2025-08-11T00:00:00.000Z</updated>
-        <published>2025-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3568期】使用 Git Worktree 进行开发]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277197&amp;idx=1&amp;sn=2e8ebe9823216531c8e5b28581ccf48d&amp;chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277197&amp;idx=1&amp;sn=2e8ebe9823216531c8e5b28581ccf48d&amp;chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&amp;scene=0#rd"/>
         <updated>2025-08-11T00:00:00.000Z</updated>
         <published>2025-08-11T00:00:00.000Z</published>
     </entry>
