@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-28T04:11:39.890Z</updated>
+    <updated>2025-08-28T06:15:58.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[纯前端实现图片伪3D视差效果]]></title>
         <id>http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw</id>
         <link href="http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw"/>
+        <updated>2025-08-27T00:00:00.000Z</updated>
+        <published>2025-08-27T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue 团队“王炸”新作！又一打包工具发布！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505440&amp;idx=1&amp;sn=7fa1613e527c947617ac18d51515c5b6&amp;chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505440&amp;idx=1&amp;sn=7fa1613e527c947617ac18d51515c5b6&amp;chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd"/>
         <updated>2025-08-27T00:00:00.000Z</updated>
         <published>2025-08-27T00:00:00.000Z</published>
     </entry>
@@ -46,6 +53,13 @@
         <title type="html"><![CDATA[还在用html2canvas？介绍一个比它快100倍的截图神器！]]></title>
         <id>http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g</id>
         <link href="http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g"/>
+        <updated>2025-08-26T00:00:00.000Z</updated>
+        <published>2025-08-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promise.all的时代终结了，新方法即将取代他]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505437&amp;idx=1&amp;sn=79c302dc4eb606be0e496d66bbf25c6d&amp;chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505437&amp;idx=1&amp;sn=79c302dc4eb606be0e496d66bbf25c6d&amp;chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd"/>
         <updated>2025-08-26T00:00:00.000Z</updated>
         <published>2025-08-26T00:00:00.000Z</published>
     </entry>
@@ -148,16 +162,16 @@
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
-        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
-        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
+        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
-        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
+        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
+        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
+        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527512&amp;idx=1&amp;sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&amp;chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd"/>
         <updated>2025-08-10T00:00:00.000Z</updated>
         <published>2025-08-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 个插件！ 让 VSCode 中 console.log 开启「自动驾驶」模式！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517368&amp;idx=1&amp;sn=602734ead5d2f758b59d05449e02e28c&amp;chksm=eb07bcc1dc7035d76ad8aa2493584f18045a47843cd210800f28d4c98e847ad968b1bfd28fc6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517368&amp;idx=1&amp;sn=602734ead5d2f758b59d05449e02e28c&amp;chksm=eb07bcc1dc7035d76ad8aa2493584f18045a47843cd210800f28d4c98e847ad968b1bfd28fc6#rd"/>
-        <updated>2025-08-08T00:00:00.000Z</updated>
-        <published>2025-08-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强大 Vue3 监控埋点宣布开源！覆盖 8 个维度！]]></title>
-        <id>http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg</id>
-        <link href="http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg"/>
-        <updated>2025-08-08T00:00:00.000Z</updated>
-        <published>2025-08-08T00:00:00.000Z</published>
     </entry>
 </feed>

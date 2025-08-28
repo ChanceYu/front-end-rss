@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-28 12:11:39，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-28 14:15:57，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,8 +109,8 @@
 </summary>
 
 
-- [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd) ![](/assets/new.png)  
-- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd) ![](/assets/new.png)  
+- [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd)  
+- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
 - [2025-08-27-【第3576期】前端的随机魔法：CSS-random-全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277311&idx=1&sn=34cdfc8b9846c4d79daeea52e64f8f36&chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&scene=0#rd)  
 - [2025-08-26-【早阅】用-Claude-编程：提示词入门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277297&idx=1&sn=a1f44d24c88946d8015a2fa14d2ff08c&chksm=bce1926115e42539857999edd730bfc5a7dca3ebc2d737e76b13542b85e9d620bafb82ddc5cb&scene=0#rd)  
 - [2025-08-25-【第3575期】解锁-AI-响应中的丰富-UI-组件渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277284&idx=1&sn=c96010fa50abd506a21064e332bbf967&chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&scene=0#rd)  
@@ -202,26 +202,26 @@
 </summary>
 
 
+- [2025-08-28-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505441&idx=1&sn=bb862eaa21799a78059dd8b08212ad6d&chksm=ce45c3b0f9324aa66dbd3b5b6ad261267d09f9e911440db92704e2c50a8e0acedd4a7a1db7c0#rd) ![](/assets/new.png)  
+- [2025-08-27-Vue-团队“王炸”新作！又一打包工具发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505440&idx=1&sn=7fa1613e527c947617ac18d51515c5b6&chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd) ![](/assets/new.png)  
+- [2025-08-26-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505437&idx=1&sn=79c302dc4eb606be0e496d66bbf25c6d&chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd) ![](/assets/new.png)  
 - [2025-08-25-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505436&idx=1&sn=59194420ef541688f91dacb8b968ce6d&chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd)  
 - [2025-08-24-字节前端高频面试真题库飞书版](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505435&idx=1&sn=57ffdfba1d976daf1331148f61640507&chksm=ce45c38af9324a9c40d62992c323ada278e58f2cc678f7fa7a73dc30bc197997326d6a1d5a00#rd)  
 - [2025-08-22-TanStack：不止于-Vue！一个库，真·通杀所有框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505406&idx=1&sn=163ee060823a6bf91c949627d24b9986&chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd)  
 - [2025-08-21-Vue和React迎来大融合！开发效率大提升](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505401&idx=1&sn=083542207259901e74e602d4af495cb0&chksm=ce45c068f932497e244f2d55731386613495bb708f20aa7dbe841389f31cecc4de27c1e70f52#rd)  
 - [2025-08-20-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505381&idx=1&sn=bfee4faba0fd660ff06847406f703330&chksm=ce45c074f93249629a3d127154db218637880a532eea6b4ed1bd9496e69c93379f3e4a35a9dc#rd)  
-- [2025-08-19-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ)  
 - [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA)  
+- [2025-08-19-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ)  
 - [2025-08-18-Vue3-最新-Hooks-库发布，VueUse或将成为历史](http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg)  
 - [2025-08-16-做前端，就算你存款再多，也千万别做这3件傻事！](http://mp.weixin.qq.com/s/_jkZWyXPo-1mo3p0o8B8AQ)  
 - [2025-08-15-8月准备跳槽的兄弟注意，Vue3是重点！](http://mp.weixin.qq.com/s/0NsNw03II7um1VoN100UTQ)  
-- [2025-08-14-字节面试“作弊”，被识破了。。。](http://mp.weixin.qq.com/s/T-31He4ctKQl1ty9H2jWGg)  
 - [2025-08-14-原来月薪30k的简历长这样，进来抄作业！](http://mp.weixin.qq.com/s/1utF20sVkvfAYxWE02Mj3Q)  
+- [2025-08-14-字节面试“作弊”，被识破了。。。](http://mp.weixin.qq.com/s/T-31He4ctKQl1ty9H2jWGg)  
 - [2025-08-13-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505304&idx=1&sn=1708a7bcd42bea3d997015f52bc19bcd&chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd)  
 - [2025-08-12-ElementPlusX-+-RuoyiAI：Vue3-首个-AI-开发模板开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505288&idx=1&sn=38ceddeb465523a8069d675a78312496&chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd)  
 - [2025-08-11-比-html2canvas-快-30-倍的截图神器！项目已使用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505287&idx=1&sn=c328bfcfb2b6af070637f81824013c7a&chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd)  
 - [2025-08-09-如何使用-Echarts-地图点击定位到用户的家乡城市区县](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505280&idx=1&sn=3470c3cca4a3dcbb80825d96c9a9ceae&chksm=ce45c011f93249075c3deb0f311778f5646be8b4d26780af3c5a8c7725f749f0ee5fd22a2f8b#rd)  
 - [2025-08-08-强大-Vue3-监控埋点宣布开源！覆盖-8-个维度！](http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg)  
-- [2025-08-07-Vue3-官方推出新的动画方案，对标-React！](http://mp.weixin.qq.com/s/Oa0l88Tnjo85S-LTVq-HQw)  
-- [2025-08-06-Vite-首支纪录片即将发布！讲述-6-年发展历程](http://mp.weixin.qq.com/s/xndFwhtiAqlfWU73A6DhPw)  
-- [2025-08-06-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/xQw-JqMJE3T7k0QB_dxoGg)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
