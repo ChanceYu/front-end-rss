@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-28T06:15:58.365Z</updated>
+    <updated>2025-08-28T12:18:15.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[Vue 团队成员新作：node-modules 可视化神器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505436&amp;idx=1&amp;sn=59194420ef541688f91dacb8b968ce6d&amp;chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505436&amp;idx=1&amp;sn=59194420ef541688f91dacb8b968ce6d&amp;chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd"/>
+        <updated>2025-08-25T00:00:00.000Z</updated>
+        <published>2025-08-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277197&amp;idx=1&amp;sn=2e8ebe9823216531c8e5b28581ccf48d&amp;chksm=bcd0bf2c406b54d67bca607fbe168579b019371f1ab6283e51060ab5d6e5d334419ecc1f9aae&amp;scene=0#rd"/>
         <updated>2025-08-11T00:00:00.000Z</updated>
         <published>2025-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模块联邦（Module Federation）新的微前端方案？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527512&amp;idx=1&amp;sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&amp;chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527512&amp;idx=1&amp;sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&amp;chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd"/>
-        <updated>2025-08-10T00:00:00.000Z</updated>
-        <published>2025-08-10T00:00:00.000Z</published>
     </entry>
 </feed>
