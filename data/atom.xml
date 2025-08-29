@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-29T14:09:19.127Z</updated>
+    <updated>2025-08-29T16:11:27.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/"/>
+        <updated>2025-08-29T00:00:00.000Z</updated>
+        <published>2025-08-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The latest on Oracle's hold on JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/750</id>
+        <link href="https://javascriptweekly.com/issues/750"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277209&amp;idx=1&amp;sn=23eca8422c47c12118e26cd312939ee0&amp;chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&amp;scene=0#rd"/>
         <updated>2025-08-12T00:00:00.000Z</updated>
         <published>2025-08-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借助CSS实现点赞粒子动效]]></title>
-        <id>http://mp.weixin.qq.com/s/82J8TWEKnJnx1A47R9zMRw</id>
-        <link href="http://mp.weixin.qq.com/s/82J8TWEKnJnx1A47R9zMRw"/>
-        <updated>2025-08-11T00:00:00.000Z</updated>
-        <published>2025-08-11T00:00:00.000Z</published>
     </entry>
 </feed>

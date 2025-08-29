@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-29 22:09:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-30 00:11:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -78,6 +78,7 @@
 </summary>
 
 
+- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750) ![](/assets/new.png)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
@@ -97,7 +98,6 @@
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
-- [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
 - [查看更多 >](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd) ![](/assets/new.png)  
+- [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
 - [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
