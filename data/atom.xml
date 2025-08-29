@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-28T20:10:48.700Z</updated>
+    <updated>2025-08-29T00:44:11.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -88,6 +88,13 @@
         <title type="html"><![CDATA[Vue 团队成员新作：node-modules 可视化神器！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505436&amp;idx=1&amp;sn=59194420ef541688f91dacb8b968ce6d&amp;chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505436&amp;idx=1&amp;sn=59194420ef541688f91dacb8b968ce6d&amp;chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd"/>
+        <updated>2025-08-25T00:00:00.000Z</updated>
+        <published>2025-08-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
+        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
+        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[谷歌重磅发布Genie 3，这回真没有边界感了]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247503655&amp;idx=1&amp;sn=f6605f8c4a52dbf872182228fcc2470e&amp;chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247503655&amp;idx=1&amp;sn=f6605f8c4a52dbf872182228fcc2470e&amp;chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd"/>
-        <updated>2025-08-11T00:00:00.000Z</updated>
-        <published>2025-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比 html2canvas 快 30 倍的截图神器！项目已使用！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505287&amp;idx=1&amp;sn=c328bfcfb2b6af070637f81824013c7a&amp;chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505287&amp;idx=1&amp;sn=c328bfcfb2b6af070637f81824013c7a&amp;chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd"/>
         <updated>2025-08-11T00:00:00.000Z</updated>
         <published>2025-08-11T00:00:00.000Z</published>
     </entry>
