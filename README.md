@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-29 18:11:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-29 20:17:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -264,8 +264,9 @@
 </summary>
 
 
-- [2025-08-27-公开招录45名程序员深造一流高校研究生！基层人员优先！](http://mp.weixin.qq.com/s/nKry44nGlZoq9tAhajbiVw)  
+- [2025-08-28-你的H5页面在折叠屏上适配了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527703&idx=1&sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd) ![](/assets/new.png)  
 - [2025-08-27-纯前端实现图片伪3D视差效果](http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw)  
+- [2025-08-27-公开招录45名程序员深造一流高校研究生！基层人员优先！](http://mp.weixin.qq.com/s/nKry44nGlZoq9tAhajbiVw)  
 - [2025-08-26-还在用html2canvas？介绍一个比它快100倍的截图神器！](http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g)  
 - [2025-08-25-如何使用Cursor同时开发多项目？](http://mp.weixin.qq.com/s/Cfa6Gd8NIjhzaexJ5MjpZg)  
 - [2025-08-21-面试官灵魂拷问：接口在-Postman-测试很快，页面加载咋就慢？](http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg)  
@@ -281,9 +282,8 @@
 - [2025-08-07-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527484&idx=1&sn=7e2e81a44c8f87dc83603ee3e4a85f64&chksm=f9926aedcee5e3fb1fcb1d136bc8b2bb0689a3a6de91f8139d4bae780567dccdd2a4f00c6c81#rd)  
 - [2025-08-06-写稳大型项目的-JS/TS-技巧（下）——-覆盖并发、缓存等](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527482&idx=1&sn=71f93060565d50edd75afca1ffd23c46&chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd)  
 - [2025-08-05-停止写屎山代码！教你10个JS/TS绝技](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527443&idx=1&sn=319eb17ec4610a204cd2cfded66462d5&chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd)  
-- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [2025-08-04-领导最烦这种下属，技术再牛，也不会提拔](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=1&sn=d507a74851b5e9d7d3ef6281938d6d38&chksm=f9926d2acee5e43c8c76c922d65471e82c31b9fa9e75829e9d9b825784563242a8ccaeeba097#rd)  
-- [2025-08-03-通过代码看-React-的历史](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527411&idx=1&sn=759c4d919112a2d817a6d98d41d193dc&chksm=f9926d22cee5e43446b17bc6beba3dd7b85622f69b26d97a9c40f4365e8ecefe040b368a9849#rd)  
+- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/) ![](/assets/new.png)  
+- [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
