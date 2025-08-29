@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-29T08:12:54.589Z</updated>
+    <updated>2025-08-29T10:11:01.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/"/>
+        <updated>2025-08-29T00:00:00.000Z</updated>
+        <published>2025-08-29T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[终极方案：Vue3 中把 Axios 用到极致！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我为什么在团队里，强制要求大家用pnpm而不是npm？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517370&amp;idx=1&amp;sn=be4469dfeaf601cacc7febdd7451815c&amp;chksm=eb07bcc3dc7035d516d735021f1993c54f6d4530007f40cd1c4c137a9c807745865b6dd5e6d4#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517370&amp;idx=1&amp;sn=be4469dfeaf601cacc7febdd7451815c&amp;chksm=eb07bcc3dc7035d516d735021f1993c54f6d4530007f40cd1c4c137a9c807745865b6dd5e6d4#rd"/>
-        <updated>2025-08-11T00:00:00.000Z</updated>
-        <published>2025-08-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌重磅发布Genie 3，这回真没有边界感了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247503655&amp;idx=1&amp;sn=f6605f8c4a52dbf872182228fcc2470e&amp;chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247503655&amp;idx=1&amp;sn=f6605f8c4a52dbf872182228fcc2470e&amp;chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd"/>
         <updated>2025-08-11T00:00:00.000Z</updated>
         <published>2025-08-11T00:00:00.000Z</published>
     </entry>

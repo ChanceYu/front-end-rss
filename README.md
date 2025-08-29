@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-29 16:12:54，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-29 18:11:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,11 +29,11 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-08-29-实测谷歌Nano-Banana，P图邪修之王](http://mp.weixin.qq.com/s/QKZ21Bov_sON8fOiD-EEiA) ![](/assets/new.png)  
-- [2025-08-28-一文看懂“人工智能+”的未来10年](http://mp.weixin.qq.com/s/nKNsRcndD1tzqO22ZFcpmg) ![](/assets/new.png)  
+- [2025-08-29-实测谷歌Nano-Banana，P图邪修之王](http://mp.weixin.qq.com/s/QKZ21Bov_sON8fOiD-EEiA)  
+- [2025-08-28-一文看懂“人工智能+”的未来10年](http://mp.weixin.qq.com/s/nKNsRcndD1tzqO22ZFcpmg)  
 - [2025-08-23-DeepSeek-V3.1实测，90%的人都低估了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503814&idx=1&sn=2f9face5645f5284ad551781c1f8e6fc&chksm=c2b30e39f5c4872faf15cb1c27586b2c3e923c2019ca6d68b9e1a1418d31f44df83f4e2acb05#rd)  
 - [2025-08-20-AutoGLM-2.0，手机开始替人类上班了](http://mp.weixin.qq.com/s/ZY6g_sPb9nUL3tTwMrF48g)  
 - [2025-08-19-别的AI教你做工具人，她却帮你活得更好](http://mp.weixin.qq.com/s/oHqZNUnpArdL5yRc5LRKKw)  
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/) ![](/assets/new.png)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
@@ -531,7 +532,6 @@
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
-- [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
