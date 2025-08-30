@@ -14,22 +14,22 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-08-30 00:11:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-31 06:08:15，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750) ![](/assets/new.png)  
+- [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
@@ -202,6 +202,8 @@
 </summary>
 
 
+- [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg) ![](/assets/new.png)  
+- [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g) ![](/assets/new.png)  
 - [2025-08-28-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505441&idx=1&sn=bb862eaa21799a78059dd8b08212ad6d&chksm=ce45c3b0f9324aa66dbd3b5b6ad261267d09f9e911440db92704e2c50a8e0acedd4a7a1db7c0#rd)  
 - [2025-08-27-Vue-团队“王炸”新作！又一打包工具发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505440&idx=1&sn=7fa1613e527c947617ac18d51515c5b6&chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd)  
 - [2025-08-26-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505437&idx=1&sn=79c302dc4eb606be0e496d66bbf25c6d&chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd)  
@@ -210,18 +212,16 @@
 - [2025-08-22-TanStack：不止于-Vue！一个库，真·通杀所有框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505406&idx=1&sn=163ee060823a6bf91c949627d24b9986&chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd)  
 - [2025-08-21-Vue和React迎来大融合！开发效率大提升](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505401&idx=1&sn=083542207259901e74e602d4af495cb0&chksm=ce45c068f932497e244f2d55731386613495bb708f20aa7dbe841389f31cecc4de27c1e70f52#rd)  
 - [2025-08-20-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505381&idx=1&sn=bfee4faba0fd660ff06847406f703330&chksm=ce45c074f93249629a3d127154db218637880a532eea6b4ed1bd9496e69c93379f3e4a35a9dc#rd)  
-- [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA)  
 - [2025-08-19-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ)  
+- [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA)  
 - [2025-08-18-Vue3-最新-Hooks-库发布，VueUse或将成为历史](http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg)  
 - [2025-08-16-做前端，就算你存款再多，也千万别做这3件傻事！](http://mp.weixin.qq.com/s/_jkZWyXPo-1mo3p0o8B8AQ)  
 - [2025-08-15-8月准备跳槽的兄弟注意，Vue3是重点！](http://mp.weixin.qq.com/s/0NsNw03II7um1VoN100UTQ)  
-- [2025-08-14-原来月薪30k的简历长这样，进来抄作业！](http://mp.weixin.qq.com/s/1utF20sVkvfAYxWE02Mj3Q)  
 - [2025-08-14-字节面试“作弊”，被识破了。。。](http://mp.weixin.qq.com/s/T-31He4ctKQl1ty9H2jWGg)  
+- [2025-08-14-原来月薪30k的简历长这样，进来抄作业！](http://mp.weixin.qq.com/s/1utF20sVkvfAYxWE02Mj3Q)  
 - [2025-08-13-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505304&idx=1&sn=1708a7bcd42bea3d997015f52bc19bcd&chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd)  
 - [2025-08-12-ElementPlusX-+-RuoyiAI：Vue3-首个-AI-开发模板开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505288&idx=1&sn=38ceddeb465523a8069d675a78312496&chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd)  
 - [2025-08-11-比-html2canvas-快-30-倍的截图神器！项目已使用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505287&idx=1&sn=c328bfcfb2b6af070637f81824013c7a&chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd)  
-- [2025-08-09-如何使用-Echarts-地图点击定位到用户的家乡城市区县](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505280&idx=1&sn=3470c3cca4a3dcbb80825d96c9a9ceae&chksm=ce45c011f93249075c3deb0f311778f5646be8b4d26780af3c5a8c7725f749f0ee5fd22a2f8b#rd)  
-- [2025-08-08-强大-Vue3-监控埋点宣布开源！覆盖-8-个维度！](http://mp.weixin.qq.com/s/JnOeibdnrYhmLZ9EUlLwtg)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-08-30-看完钉钉发布会，只想说他们干了件“实在事”](http://mp.weixin.qq.com/s/Q6ze0Kvl95pfKwniBFpuNg) ![](/assets/new.png)  
 - [2025-08-29-实测谷歌Nano-Banana，P图邪修之王](http://mp.weixin.qq.com/s/QKZ21Bov_sON8fOiD-EEiA)  
 - [2025-08-28-一文看懂“人工智能+”的未来10年](http://mp.weixin.qq.com/s/nKNsRcndD1tzqO22ZFcpmg)  
 - [2025-08-23-DeepSeek-V3.1实测，90%的人都低估了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503814&idx=1&sn=2f9face5645f5284ad551781c1f8e6fc&chksm=c2b30e39f5c4872faf15cb1c27586b2c3e923c2019ca6d68b9e1a1418d31f44df83f4e2acb05#rd)  
@@ -397,8 +398,8 @@
 - [2025-08-12-GLM-4.5V刚刚开源，智谱要飞上天](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503679&idx=1&sn=34cdb16925ef9bb1473538c5aafaefe7&chksm=c2b30ec0f5c487d6531f58fe26daca8a42cdde4906a9e7108ba9fed83eaf44ba14129b43f7c8#rd)  
 - [2025-08-11-谷歌重磅发布Genie-3，这回真没有边界感了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503655&idx=1&sn=f6605f8c4a52dbf872182228fcc2470e&chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd)  
 - [2025-08-08-OpenAI-GPT-5来了，但AGI没来](http://mp.weixin.qq.com/s/FmtSWG-qcbPNIjM_Uvt8bw)  
-- [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
 - [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA)  
+- [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
 - [2025-08-06-OpenAI开源2款模型，实测有点离谱](http://mp.weixin.qq.com/s/Lrckf5a0WsuVeSRfB7FbeQ)  
 - [2025-08-01-Manus推出Wide-Research，真正的降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503513&idx=1&sn=ebe772e78e6cd54f36a7e2c98fd7a7a9&chksm=c2b30f66f5c486700a2e24cf86ffcd289b1228f3b3e90103420a373e569f9d3355be50f7f2ff#rd)  
 - [2025-07-31-中国AI霸榜HuggingFace，彻底杀疯了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503464&idx=1&sn=c147921a188d7c830a799d8806e397d1&chksm=c2b30f97f5c48681584a4daa1f227f2245736e94056e1660bfeb757219b214a0923be4b745d5#rd)  
@@ -407,7 +408,6 @@
 - [2025-07-25-实测腾讯CodeBuddy-IDE，做的太过头了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503386&idx=1&sn=70d83a4be94e436849a75485eaa3845a&chksm=c2b30fe5f5c486f352b12368b788362a9181eb6573972ef64e4d616d819c04ad2c942ae9eb43#rd)  
 - [2025-07-23-登顶全球，阿里Qwen3-Coder凭什么](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503358&idx=1&sn=6256b9b22160f0d5778d89778dcc2170&chksm=c2b30c01f5c48517dedf6a09cda99ea561db4b550bc201f09880d9e383af98662cbd264bddbb#rd)  
 - [2025-07-22-字节TRAE刚上线SOLO模式，吓到我了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503335&idx=1&sn=2862484266f54f2c63eb8349c9ddd0e8&chksm=c2b30c18f5c4850e4acb9cc2ed18184448b9bea19e33c78330860ee350d2e406c34a89e5a546#rd)  
-- [2025-07-18-马斯克造了个AI女友，真正的斩男神器](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503314&idx=1&sn=2b4d1c8f22db850da5ec18619744c5b6&chksm=c2b30c2df5c4853bef47446c4dcac008185865547d2b13197e43ffa5a1e7e95c71c3a7074852#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

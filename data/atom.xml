@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-08-29T16:11:27.887Z</updated>
+    <updated>2025-08-30T22:08:15.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,20 @@
         <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/"/>
+        <updated>2025-08-29T00:00:00.000Z</updated>
+        <published>2025-08-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
+        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
+        <updated>2025-08-29T00:00:00.000Z</updated>
+        <published>2025-08-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
+        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
+        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -211,16 +225,16 @@
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
-        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
+        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
+        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
+        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
-        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
-        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
+        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[只改了模块结构，我让 NestJS API 延迟降低了 40%]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527531&amp;idx=1&amp;sn=6d7400bfcc29140ad40632b4053bc7e9&amp;chksm=f9926abacee5e3acd3dde39382dc675374bac807466c70ca33f741e58362f2cd7fb7ee200039#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527531&amp;idx=1&amp;sn=6d7400bfcc29140ad40632b4053bc7e9&amp;chksm=f9926abacee5e3acd3dde39382dc675374bac807466c70ca33f741e58362f2cd7fb7ee200039#rd"/>
-        <updated>2025-08-12T00:00:00.000Z</updated>
-        <published>2025-08-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ElementPlusX + RuoyiAI：Vue3 首个 AI 开发模板开源了！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505288&amp;idx=1&amp;sn=38ceddeb465523a8069d675a78312496&amp;chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505288&amp;idx=1&amp;sn=38ceddeb465523a8069d675a78312496&amp;chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd"/>
-        <updated>2025-08-12T00:00:00.000Z</updated>
-        <published>2025-08-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】JavaScript 的真正演进之路：与 Daniel Ehrenberg 一起深入 TC39]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277209&amp;idx=1&amp;sn=23eca8422c47c12118e26cd312939ee0&amp;chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277209&amp;idx=1&amp;sn=23eca8422c47c12118e26cd312939ee0&amp;chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&amp;scene=0#rd"/>
         <updated>2025-08-12T00:00:00.000Z</updated>
         <published>2025-08-12T00:00:00.000Z</published>
     </entry>
