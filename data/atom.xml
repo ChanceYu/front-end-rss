@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-01T08:15:05.443Z</updated>
+    <updated>2025-09-01T10:11:39.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[ZingAI.video Online Talking Head Video Editing]]></title>
+        <id>https://fenghen.me/posts/2025/09/01/zingai-overview-en/</id>
+        <link href="https://fenghen.me/posts/2025/09/01/zingai-overview-en/"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZingAI.video 在线口播视频剪辑]]></title>
         <id>https://fenghen.me/posts/2025/09/01/overview/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Vite 7.1.1 疑似遭受大规模 "攻击"！]]></title>
         <id>http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg</id>
         <link href="http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg"/>
-        <updated>2025-08-13T00:00:00.000Z</updated>
-        <published>2025-08-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 条规则，带你吃透 TypeScript 高级类型]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527549&amp;idx=1&amp;sn=aee874d5067ad9bf33a44c9fa7435239&amp;chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527549&amp;idx=1&amp;sn=aee874d5067ad9bf33a44c9fa7435239&amp;chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd"/>
         <updated>2025-08-13T00:00:00.000Z</updated>
         <published>2025-08-13T00:00:00.000Z</published>
     </entry>
