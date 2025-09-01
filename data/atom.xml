@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-01T10:11:39.653Z</updated>
+    <updated>2025-09-01T16:11:13.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -29,6 +29,20 @@
         <published>2025-09-01T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI Agent工程化融合：分享我的实践经验和选型技巧]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541404&amp;idx=1&amp;sn=7cbcd6b92f9944226c48890129be0bec&amp;chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541404&amp;idx=1&amp;sn=7cbcd6b92f9944226c48890129be0bec&amp;chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 最强大的 AI 组件库！华为重磅开源！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505487&amp;idx=1&amp;sn=d74d2975a3a24452b8f5835a6ab3c27c&amp;chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505487&amp;idx=1&amp;sn=d74d2975a3a24452b8f5835a6ab3c27c&amp;chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3579期】OODA 循环与 Git Worktrees：来自 AI 辅助开发的九个启示]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277328&amp;idx=1&amp;sn=36651ba5d2e57954793aadc84c1c434c&amp;chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277328&amp;idx=1&amp;sn=36651ba5d2e57954793aadc84c1c434c&amp;chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&amp;scene=0#rd"/>
@@ -43,16 +57,16 @@
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
-        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
+        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
+        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
+        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
-        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
-        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
+        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -169,16 +183,16 @@
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jsonnet 一种“新”的Json数据转换工具]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <published>2025-08-22T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[淘天26届秋招技术岗位推介专场直播预告]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=2&amp;sn=68a4e6e03d52b7e3406cfa0305c04c2c&amp;chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&amp;scene=0#rd"/>
+        <title type="html"><![CDATA[Jsonnet 一种“新”的Json数据转换工具]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541369&amp;idx=1&amp;sn=24713a8efcf3b66138e629bda1afcffd&amp;chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&amp;scene=0#rd"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <published>2025-08-22T00:00:00.000Z</published>
     </entry>
@@ -246,16 +260,16 @@
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
-        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
-        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
+        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
-        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
+        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
+        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
+        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527614&amp;idx=1&amp;sn=32beecd6c51242df11ffb96e7f2fc632&amp;chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd"/>
         <updated>2025-08-14T00:00:00.000Z</updated>
         <published>2025-08-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3570期】LLM 和 ChatGPT：文本提示与 JSON 提示的对比]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277236&amp;idx=1&amp;sn=27a9d68a574ac89c711e85c432a93629&amp;chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277236&amp;idx=1&amp;sn=27a9d68a574ac89c711e85c432a93629&amp;chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&amp;scene=0#rd"/>
-        <updated>2025-08-14T00:00:00.000Z</updated>
-        <published>2025-08-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite 7.1.1 疑似遭受大规模 "攻击"！]]></title>
-        <id>http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg</id>
-        <link href="http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg"/>
-        <updated>2025-08-13T00:00:00.000Z</updated>
-        <published>2025-08-13T00:00:00.000Z</published>
     </entry>
 </feed>

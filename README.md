@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-01 18:11:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-02 00:11:12，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -23,7 +23,7 @@
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -32,12 +32,12 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -202,8 +202,10 @@
 </summary>
 
 
-- [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
+- [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd) ![](/assets/new.png)  
+- [2025-08-31-字节前端高频面试真题库飞书版](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505486&idx=1&sn=b13519bebc042e3dfbb39a13308bb7ad&chksm=ce45c3dff9324ac9747249fb5d4220218266aca93b73007ab34db2f83ff35bf8436aef93f26c#rd) ![](/assets/new.png)  
 - [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g)  
+- [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
 - [2025-08-28-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505441&idx=1&sn=bb862eaa21799a78059dd8b08212ad6d&chksm=ce45c3b0f9324aa66dbd3b5b6ad261267d09f9e911440db92704e2c50a8e0acedd4a7a1db7c0#rd)  
 - [2025-08-27-Vue-团队“王炸”新作！又一打包工具发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505440&idx=1&sn=7fa1613e527c947617ac18d51515c5b6&chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd)  
 - [2025-08-26-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505437&idx=1&sn=79c302dc4eb606be0e496d66bbf25c6d&chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd)  
@@ -212,16 +214,14 @@
 - [2025-08-22-TanStack：不止于-Vue！一个库，真·通杀所有框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505406&idx=1&sn=163ee060823a6bf91c949627d24b9986&chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd)  
 - [2025-08-21-Vue和React迎来大融合！开发效率大提升](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505401&idx=1&sn=083542207259901e74e602d4af495cb0&chksm=ce45c068f932497e244f2d55731386613495bb708f20aa7dbe841389f31cecc4de27c1e70f52#rd)  
 - [2025-08-20-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505381&idx=1&sn=bfee4faba0fd660ff06847406f703330&chksm=ce45c074f93249629a3d127154db218637880a532eea6b4ed1bd9496e69c93379f3e4a35a9dc#rd)  
-- [2025-08-19-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ)  
 - [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA)  
+- [2025-08-19-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ)  
 - [2025-08-18-Vue3-最新-Hooks-库发布，VueUse或将成为历史](http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg)  
 - [2025-08-16-做前端，就算你存款再多，也千万别做这3件傻事！](http://mp.weixin.qq.com/s/_jkZWyXPo-1mo3p0o8B8AQ)  
 - [2025-08-15-8月准备跳槽的兄弟注意，Vue3是重点！](http://mp.weixin.qq.com/s/0NsNw03II7um1VoN100UTQ)  
-- [2025-08-14-字节面试“作弊”，被识破了。。。](http://mp.weixin.qq.com/s/T-31He4ctKQl1ty9H2jWGg)  
 - [2025-08-14-原来月薪30k的简历长这样，进来抄作业！](http://mp.weixin.qq.com/s/1utF20sVkvfAYxWE02Mj3Q)  
+- [2025-08-14-字节面试“作弊”，被识破了。。。](http://mp.weixin.qq.com/s/T-31He4ctKQl1ty9H2jWGg)  
 - [2025-08-13-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505304&idx=1&sn=1708a7bcd42bea3d997015f52bc19bcd&chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd)  
-- [2025-08-12-ElementPlusX-+-RuoyiAI：Vue3-首个-AI-开发模板开源了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505288&idx=1&sn=38ceddeb465523a8069d675a78312496&chksm=ce45c019f932490fdc932860dc7155fbb66f03728fc8431c57f79bd870b25caa1863aa6dbc7a#rd)  
-- [2025-08-11-比-html2canvas-快-30-倍的截图神器！项目已使用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505287&idx=1&sn=c328bfcfb2b6af070637f81824013c7a&chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,11 +481,12 @@
 </summary>
 
 
+- [2025-09-01-AI-Agent工程化融合：分享我的实践经验和选型技巧](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541404&idx=1&sn=7cbcd6b92f9944226c48890129be0bec&chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd) ![](/assets/new.png)  
 - [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
-- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
+- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
 - [2025-08-18-淘宝购物车拖拽功能的思考与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541315&idx=1&sn=b9f93d3995fc5b25c5eed17b00c24115&chksm=82d2352e90a2533f9966546b9863859f4525df737a27a86c5622d93903f73cc83e6c92700982&scene=0#rd)  
 - [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-07-25-如何利用多模态大模型进行淘宝商品理解?](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540976&idx=1&sn=d4e17cf36a60df66ff8b3761e7809689&chksm=821864f6d0491205ddb4d3f8e6f79f24cc9d981e0780b56f0cc069fae4c9e4be15962958775e&scene=0#rd)  
 - [2025-07-23-面向互联网2C业务的分布式类Manus-Java框架](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540954&idx=1&sn=c410728ed2bbd65603b02ee1130089ef&chksm=829c9cfe6a13ca67fd442292eb98b03d686550f0138892fd0a610b7f62905a3740345a8589f5&scene=0#rd)  
 - [2025-07-21-我的Cursor编程实践经验分享](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540949&idx=1&sn=946f7705cb09278c89974d7a760b17f8&chksm=8390c38db4e74a9b4254eef92ac087900cba1de81214c490c44a60bfacd68f13e624e1a2f90c#rd)  
-- [2025-07-18-200行极简demo---学习如何手搓一个ReAct-Agent](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540935&idx=1&sn=d1e416b8abdeffcf0e66242375f21a61&chksm=827270d9568958814baa020f49d15ead0716cc66a7135c34ee3a69834ece3ef701403aa891e8&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -637,7 +637,7 @@
 
 
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/)  
-- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/) ![](/assets/new.png)  
+- [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/)  
 - [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/)  
 - [2025-07-07-视频编辑，如何选择技术方案](https://fenghen.me/posts/2025/07/07/choosing-the-right-technical-approach-for-video-editing/)  
 - [2025-04-11-商务合作（帅气博主在线接单）](https://fenghen.me/posts/2025/04/11/business-cooperation/)  
