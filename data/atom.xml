@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-01T04:20:51.714Z</updated>
+    <updated>2025-09-01T08:15:05.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[ZingAI.video 在线口播视频剪辑]]></title>
+        <id>https://fenghen.me/posts/2025/09/01/overview/</id>
+        <link href="https://fenghen.me/posts/2025/09/01/overview/"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3579期】OODA 循环与 Git Worktrees：来自 AI 辅助开发的九个启示]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277328&amp;idx=1&amp;sn=36651ba5d2e57954793aadc84c1c434c&amp;chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[3 条规则，带你吃透 TypeScript 高级类型]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527549&amp;idx=1&amp;sn=aee874d5067ad9bf33a44c9fa7435239&amp;chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527549&amp;idx=1&amp;sn=aee874d5067ad9bf33a44c9fa7435239&amp;chksm=f9926aaccee5e3ba04a7c8bbb440271147ea542455cf70938cccde948119159a340eb8020755#rd"/>
-        <updated>2025-08-13T00:00:00.000Z</updated>
-        <published>2025-08-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 最强组合套装！不得不佩服尤雨溪！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505304&amp;idx=1&amp;sn=1708a7bcd42bea3d997015f52bc19bcd&amp;chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505304&amp;idx=1&amp;sn=1708a7bcd42bea3d997015f52bc19bcd&amp;chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd"/>
         <updated>2025-08-13T00:00:00.000Z</updated>
         <published>2025-08-13T00:00:00.000Z</published>
     </entry>
