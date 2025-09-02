@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-03 00:12:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-03 02:11:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,7 +22,7 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](/assets/dot.png)   
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
+- [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -171,6 +171,7 @@
 </summary>
 
 
+- [2025-09-01-月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠-AI-年入千万了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526272&idx=1&sn=0881560b664b83289ae95a9805270af2&chksm=f952d2c3ce255bd5fcd1a625b7bc82b2b4329cfff57933abe756b9abe14254caa7ee322cc3b6#rd) ![](/assets/new.png)  
 - [2025-08-25-GPT-5：前端开发者的“选择自己的冒险路线”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526267&idx=1&sn=75715167726ec8c0ff0a3623d7b358e4&chksm=f952d238ce255b2e2159c2ed8a1319c852e78aedd46b6c71d77c39a7da02bdbcd1f24c76a59a#rd)  
 - [2025-08-15-日均生成数十万-Web-应用！Vercel-v0.app-推出最终可用版本，AI-全栈开发时代来临？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526249&idx=1&sn=243abf9c1648720abbe95d1bc1a22282&chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd)  
 - [2025-08-11-厌倦了JavaScript框架的复杂性？可以看下Still.js](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526235&idx=1&sn=f9efec9c4eaed85cb3a854809c92c2cf&chksm=f952d218ce255b0edc9768e69320bd7360e8efb9d0d167ba083c07b08e5716636a63b7cbf4b2#rd)  
@@ -190,7 +191,6 @@
 - [2025-04-17-React-Native新架构“稳定”了吗？54%的开发者表示更好的调试工具是他们的首要需求](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525928&idx=1&sn=3c623982cae25c3f0ecc711437910537&chksm=f952d36bce255a7de06377f523983c95be67b82a07a7a4c66ba40be9a85601ca4b73cebcd3ee#rd)  
 - [2025-04-04-一个8000行代码的开源项目，融了1700万美元：两人四天打造的Browser-Use是如何闪电崛起的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525910&idx=1&sn=73ba9aa77611fc5e2f165211f1205133&chksm=f952d355ce255a4362ab092b285e758e1351b650d95e9e526e2bc7406d6d577e09a5e946efa8#rd)  
 - [2025-03-29-当-AI-重塑开发体验，iOS-生态为何显得格格不入？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525903&idx=1&sn=02d078d10a7007aa995071bdf71a7d3f&chksm=f952d34cce255a5a4ef75057439f911142fb15cf7d8b6fd4bfa3af91a893edf3060916c4ecf1#rd)  
-- [2025-03-19-历时-5-年，这款开源全栈框架火爆问世，GitHub-狂揽-15K-星！网友：不支持-Vue，差评](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525894&idx=1&sn=ceaae73c9779a47a3465a3f89e041bb8&chksm=f952d345ce255a53539e8ccb154795a6cfeee4cae8e29da138c794bf65e42bbb29a7b4f2e5b9#rd)  
 - [查看更多 >](/details/前端之巅.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -419,8 +419,8 @@
 </summary>
 
 
-- [2025-09-02-React，一地鸡毛！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517396&idx=1&sn=9a6ce154102ecdde936aecb480005baf&chksm=eb07bcaddc7035bbdf877c36bbf8c0d25d45a23835a3fefe2b3227bc16a2a6ec45846811b725#rd) ![](/assets/new.png)  
-- [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd) ![](/assets/new.png)  
+- [2025-09-02-React，一地鸡毛！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517396&idx=1&sn=9a6ce154102ecdde936aecb480005baf&chksm=eb07bcaddc7035bbdf877c36bbf8c0d25d45a23835a3fefe2b3227bc16a2a6ec45846811b725#rd)  
+- [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd)  
 - [2025-08-28-终极方案：Vue3-中把-Axios-用到极致！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517392&idx=1&sn=3fd3a7bf8f4f1079d26176e82c07486a&chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd)  
 - [2025-08-27-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517390&idx=1&sn=9203408da36c085710e0e7428d333931&chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd)  
 - [2025-08-26-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag)  
