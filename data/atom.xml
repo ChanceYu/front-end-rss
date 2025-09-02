@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-02T06:15:39.555Z</updated>
+    <updated>2025-09-02T16:12:03.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[React，一地鸡毛！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517396&amp;idx=1&amp;sn=9a6ce154102ecdde936aecb480005baf&amp;chksm=eb07bcaddc7035bbdf877c36bbf8c0d25d45a23835a3fefe2b3227bc16a2a6ec45846811b725#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517396&amp;idx=1&amp;sn=9a6ce154102ecdde936aecb480005baf&amp;chksm=eb07bcaddc7035bbdf877c36bbf8c0d25d45a23835a3fefe2b3227bc16a2a6ec45846811b725#rd"/>
+        <updated>2025-09-02T00:00:00.000Z</updated>
+        <published>2025-09-02T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZingAI.video Online Talking Head Video Editing]]></title>
         <id>https://fenghen.me/posts/2025/09/01/zingai-overview-en/</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[AI Agent工程化融合：分享我的实践经验和选型技巧]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541404&amp;idx=1&amp;sn=7cbcd6b92f9944226c48890129be0bec&amp;chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541404&amp;idx=1&amp;sn=7cbcd6b92f9944226c48890129be0bec&amp;chksm=8390c544b4e74c52003308152141ff2f9a59723d380eacdb31765bbfa66b8678d52b6fa97909#rd"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 全新 API：仅 6 行 HTML！让页面秒开！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517394&amp;idx=1&amp;sn=04a789c65347a9830448b7ab63da3cc7&amp;chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517394&amp;idx=1&amp;sn=04a789c65347a9830448b7ab63da3cc7&amp;chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd"/>
         <updated>2025-09-01T00:00:00.000Z</updated>
         <published>2025-09-01T00:00:00.000Z</published>
     </entry>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[日均生成数十万 Web 应用！Vercel v0.app 推出最终可用版本，AI 全栈开发时代来临？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526249&amp;idx=1&amp;sn=243abf9c1648720abbe95d1bc1a22282&amp;chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526249&amp;idx=1&amp;sn=243abf9c1648720abbe95d1bc1a22282&amp;chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd"/>
-        <updated>2025-08-15T00:00:00.000Z</updated>
-        <published>2025-08-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模块联邦（Module Federation）新的微前端方案？]]></title>
-        <id>http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ</id>
-        <link href="http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ"/>
-        <updated>2025-08-15T00:00:00.000Z</updated>
-        <published>2025-08-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3571期】调试神秘的 HTTP 流式传输问题]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277241&amp;idx=1&amp;sn=3f007c49970bfd2bbb9d28c52799b121&amp;chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277241&amp;idx=1&amp;sn=3f007c49970bfd2bbb9d28c52799b121&amp;chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&amp;scene=0#rd"/>
         <updated>2025-08-15T00:00:00.000Z</updated>
         <published>2025-08-15T00:00:00.000Z</published>
     </entry>
