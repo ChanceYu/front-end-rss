@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-02T04:12:20.875Z</updated>
+    <updated>2025-09-02T06:15:39.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -48,6 +48,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277328&amp;idx=1&amp;sn=36651ba5d2e57954793aadc84c1c434c&amp;chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&amp;scene=0#rd"/>
         <updated>2025-09-01T00:00:00.000Z</updated>
         <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年现代 Node.js 开发模式]]></title>
+        <id>http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA</id>
+        <link href="http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA"/>
+        <updated>2025-08-31T00:00:00.000Z</updated>
+        <published>2025-08-31T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
@@ -162,16 +169,16 @@
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
-        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
-        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
+        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
+        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
+        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277241&amp;idx=1&amp;sn=3f007c49970bfd2bbb9d28c52799b121&amp;chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&amp;scene=0#rd"/>
         <updated>2025-08-15T00:00:00.000Z</updated>
         <published>2025-08-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 开发全套组合拳，神器一次看全！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527614&amp;idx=1&amp;sn=32beecd6c51242df11ffb96e7f2fc632&amp;chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527614&amp;idx=1&amp;sn=32beecd6c51242df11ffb96e7f2fc632&amp;chksm=f9926a6fcee5e3796c976cfe78fd6cfa9c8c88719b21f753850004c1b0a4ccd8df997598faac#rd"/>
-        <updated>2025-08-14T00:00:00.000Z</updated>
-        <published>2025-08-14T00:00:00.000Z</published>
     </entry>
 </feed>
