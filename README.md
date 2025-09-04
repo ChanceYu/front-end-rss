@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-04 12:11:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-04 20:18:19，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  
 - [2025-09-03-【第3581期】复杂-React/Next.js-应用的数据获取架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277342&idx=1&sn=7c99c0d1e1db3ed269271586e2998656&chksm=bc6464732f94fb72ce705df5dd4e6d3c93544cfc1f75970c782fb88e769b35fabf13399c80e3&scene=0#rd)  
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
 - [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)  
@@ -202,10 +202,13 @@
 </summary>
 
 
+- [2025-09-04-新一代代码检查工具，比-ESLint-快-40-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505517&idx=1&sn=ac57f767573b64f3824b3a4cc655203c&chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd) ![](/assets/new.png)  
+- [2025-09-03-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505516&idx=1&sn=35ce8b2232e7a8ec21e4f9fe548bfc51&chksm=ce45c3fdf9324aeb9faacf84fe161bc1ce48325db3981a5bd596da839473f10208973de14598#rd) ![](/assets/new.png)  
+- [2025-09-02-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505498&idx=1&sn=5da06f43f4938c657349ed17d787488d&chksm=ce45c3cbf9324adda75bf67050b7da36d3c3a98a202b2a212465447591f684374974cac51345#rd) ![](/assets/new.png)  
 - [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd)  
 - [2025-08-31-字节前端高频面试真题库飞书版](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505486&idx=1&sn=b13519bebc042e3dfbb39a13308bb7ad&chksm=ce45c3dff9324ac9747249fb5d4220218266aca93b73007ab34db2f83ff35bf8436aef93f26c#rd)  
-- [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g)  
 - [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
+- [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g)  
 - [2025-08-28-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505441&idx=1&sn=bb862eaa21799a78059dd8b08212ad6d&chksm=ce45c3b0f9324aa66dbd3b5b6ad261267d09f9e911440db92704e2c50a8e0acedd4a7a1db7c0#rd)  
 - [2025-08-27-Vue-团队“王炸”新作！又一打包工具发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505440&idx=1&sn=7fa1613e527c947617ac18d51515c5b6&chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd)  
 - [2025-08-26-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505437&idx=1&sn=79c302dc4eb606be0e496d66bbf25c6d&chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd)  
@@ -214,14 +217,11 @@
 - [2025-08-22-TanStack：不止于-Vue！一个库，真·通杀所有框架！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505406&idx=1&sn=163ee060823a6bf91c949627d24b9986&chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd)  
 - [2025-08-21-Vue和React迎来大融合！开发效率大提升](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505401&idx=1&sn=083542207259901e74e602d4af495cb0&chksm=ce45c068f932497e244f2d55731386613495bb708f20aa7dbe841389f31cecc4de27c1e70f52#rd)  
 - [2025-08-20-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505381&idx=1&sn=bfee4faba0fd660ff06847406f703330&chksm=ce45c074f93249629a3d127154db218637880a532eea6b4ed1bd9496e69c93379f3e4a35a9dc#rd)  
-- [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA)  
 - [2025-08-19-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ)  
+- [2025-08-19-addEventListener-淘汰，Chrome-全新-API-效率提升-300%！](http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA)  
 - [2025-08-18-Vue3-最新-Hooks-库发布，VueUse或将成为历史](http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg)  
 - [2025-08-16-做前端，就算你存款再多，也千万别做这3件傻事！](http://mp.weixin.qq.com/s/_jkZWyXPo-1mo3p0o8B8AQ)  
 - [2025-08-15-8月准备跳槽的兄弟注意，Vue3是重点！](http://mp.weixin.qq.com/s/0NsNw03II7um1VoN100UTQ)  
-- [2025-08-14-原来月薪30k的简历长这样，进来抄作业！](http://mp.weixin.qq.com/s/1utF20sVkvfAYxWE02Mj3Q)  
-- [2025-08-14-字节面试“作弊”，被识破了。。。](http://mp.weixin.qq.com/s/T-31He4ctKQl1ty9H2jWGg)  
-- [2025-08-13-Vue3-最强组合套装！不得不佩服尤雨溪！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505304&idx=1&sn=1708a7bcd42bea3d997015f52bc19bcd&chksm=ce45c009f932491fcfd04a95533b2cf21572656ff710e619208c77f890bcb0aae25087c8aba1#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
