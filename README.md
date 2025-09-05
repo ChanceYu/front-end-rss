@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-04 20:18:19，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-05 12:11:19，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,13 +109,14 @@
 </summary>
 
 
+- [2025-09-05-【第3583期】Inditex-如何通过微前端打造面向未来的平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277358&idx=1&sn=0fac7dd772b4a965a11a6814b097f2a1&chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&scene=0#rd) ![](/assets/new.png)  
 - [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  
 - [2025-09-03-【第3581期】复杂-React/Next.js-应用的数据获取架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277342&idx=1&sn=7c99c0d1e1db3ed269271586e2998656&chksm=bc6464732f94fb72ce705df5dd4e6d3c93544cfc1f75970c782fb88e769b35fabf13399c80e3&scene=0#rd)  
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
 - [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)  
 - [2025-08-29-【第3578期】内置-AI-Web-API设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277322&idx=1&sn=ebbb13276ff892ea767867b37b6b4691&chksm=bcdb3760519b6c17fe6155d9c9517939949fda97f73252eae8740af277d0a0fe384bb9b15bb7&scene=0#rd)  
-- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
 - [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd)  
+- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
 - [2025-08-27-【第3576期】前端的随机魔法：CSS-random-全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277311&idx=1&sn=34cdfc8b9846c4d79daeea52e64f8f36&chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&scene=0#rd)  
 - [2025-08-26-【早阅】用-Claude-编程：提示词入门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277297&idx=1&sn=a1f44d24c88946d8015a2fa14d2ff08c&chksm=bce1926115e42539857999edd730bfc5a7dca3ebc2d737e76b13542b85e9d620bafb82ddc5cb&scene=0#rd)  
 - [2025-08-25-【第3575期】解锁-AI-响应中的丰富-UI-组件渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277284&idx=1&sn=c96010fa50abd506a21064e332bbf967&chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&scene=0#rd)  
@@ -123,12 +124,11 @@
 - [2025-08-21-【第3574期】可以这样写-JavaScript？！ES2025-新语法糖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277268&idx=1&sn=4d8811545f55bfdcf3a4b96e082c2b42&chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&scene=0#rd)  
 - [2025-08-20-【第3573期】初高级开发者：如何使用-ChatGPT-编程（关键区别解析）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277262&idx=1&sn=4624ca688bfa73a974c9c03129c5f195&chksm=bce5c6173efc08d2014671f2ecd3972702962e44373b62cda07cb5f886c23546c9f6ae35864b&scene=0#rd)  
 - [2025-08-19-【第3572期】JSON-提示词：打造完美-AI-输出的终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&scene=0#rd)  
-- [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
 - [2025-08-18-【图书】这就是MCP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=2&sn=8c1479ca229f43b7fd3d400429dd5c34&chksm=bc3917a4333a3521c91d0a4aaa319f7bcdc5b4745ee4f4d6078d4e457c56268f194da2041d77&scene=0#rd)  
+- [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
 - [2025-08-15-【第3571期】调试神秘的-HTTP-流式传输问题](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277241&idx=1&sn=3f007c49970bfd2bbb9d28c52799b121&chksm=bcce430ae4918f872880892bb211f8d6ca5f5990c7169901b5d6a3b63582678dd9108a09d3cd&scene=0#rd)  
 - [2025-08-14-【第3570期】LLM-和-ChatGPT：文本提示与-JSON-提示的对比](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277236&idx=1&sn=27a9d68a574ac89c711e85c432a93629&chksm=bc80fb659830a0ec665ee6125997c472333c9b9eac61331baf794bf7bf5927d9ed37a43b1dfb&scene=0#rd)  
 - [2025-08-13-【第3569期】GPT-5-体验报告：欢迎来到“石器时代”](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277231&idx=1&sn=5defc1253428cf86056995678c04b88b&chksm=bca2d45d24ed0a5e9f9747519f2da25ba3df7e631bbb441412a396734e1ced328fb3ef0e4716&scene=0#rd)  
-- [2025-08-12-【早阅】JavaScript-的真正演进之路：与-Daniel-Ehrenberg-一起深入-TC39](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277209&idx=1&sn=23eca8422c47c12118e26cd312939ee0&chksm=bc3c6fd2c973787711f5bc586b207c8105c8ddd94073fffe2f5a056bed3d46ff5a147ee6ba74&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,9 +202,9 @@
 </summary>
 
 
-- [2025-09-04-新一代代码检查工具，比-ESLint-快-40-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505517&idx=1&sn=ac57f767573b64f3824b3a4cc655203c&chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd) ![](/assets/new.png)  
-- [2025-09-03-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505516&idx=1&sn=35ce8b2232e7a8ec21e4f9fe548bfc51&chksm=ce45c3fdf9324aeb9faacf84fe161bc1ce48325db3981a5bd596da839473f10208973de14598#rd) ![](/assets/new.png)  
-- [2025-09-02-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505498&idx=1&sn=5da06f43f4938c657349ed17d787488d&chksm=ce45c3cbf9324adda75bf67050b7da36d3c3a98a202b2a212465447591f684374974cac51345#rd) ![](/assets/new.png)  
+- [2025-09-04-新一代代码检查工具，比-ESLint-快-40-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505517&idx=1&sn=ac57f767573b64f3824b3a4cc655203c&chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd)  
+- [2025-09-03-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505516&idx=1&sn=35ce8b2232e7a8ec21e4f9fe548bfc51&chksm=ce45c3fdf9324aeb9faacf84fe161bc1ce48325db3981a5bd596da839473f10208973de14598#rd)  
+- [2025-09-02-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505498&idx=1&sn=5da06f43f4938c657349ed17d787488d&chksm=ce45c3cbf9324adda75bf67050b7da36d3c3a98a202b2a212465447591f684374974cac51345#rd)  
 - [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd)  
 - [2025-08-31-字节前端高频面试真题库飞书版](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505486&idx=1&sn=b13519bebc042e3dfbb39a13308bb7ad&chksm=ce45c3dff9324ac9747249fb5d4220218266aca93b73007ab34db2f83ff35bf8436aef93f26c#rd)  
 - [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
@@ -264,9 +264,12 @@
 </summary>
 
 
+- [2025-09-04-轻松在网页中集成专业思维导图功能---Mind-Elixir](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527751&idx=1&sn=b0a7aa2c949b6f5bbcebc92fdc254db5&chksm=f9926b96cee5e28013ff85404ba113811ebc3d86852d378f234a318f2a592dbcb0d298a274aa#rd) ![](/assets/new.png)  
+- [2025-09-03-为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527715&idx=1&sn=b9d1b6e47c6a23fb93025528da223622&chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd) ![](/assets/new.png)  
+- [2025-09-01-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527709&idx=1&sn=5d001f8ee75bfbdff7862fa2b58cd1bc&chksm=f9926bcccee5e2da7214b28478afdd3d1e3a26a5f0a1e42ca3096afd824cbb3c66b007ae4d1d#rd) ![](/assets/new.png)  
 - [2025-08-28-你的H5页面在折叠屏上适配了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527703&idx=1&sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd)  
-- [2025-08-27-纯前端实现图片伪3D视差效果](http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw)  
 - [2025-08-27-公开招录45名程序员深造一流高校研究生！基层人员优先！](http://mp.weixin.qq.com/s/nKry44nGlZoq9tAhajbiVw)  
+- [2025-08-27-纯前端实现图片伪3D视差效果](http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw)  
 - [2025-08-26-还在用html2canvas？介绍一个比它快100倍的截图神器！](http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g)  
 - [2025-08-25-如何使用Cursor同时开发多项目？](http://mp.weixin.qq.com/s/Cfa6Gd8NIjhzaexJ5MjpZg)  
 - [2025-08-21-面试官灵魂拷问：接口在-Postman-测试很快，页面加载咋就慢？](http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg)  
@@ -281,9 +284,6 @@
 - [2025-08-08-GPT-5-真的来了！全网最全中文解读！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd)  
 - [2025-08-07-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527484&idx=1&sn=7e2e81a44c8f87dc83603ee3e4a85f64&chksm=f9926aedcee5e3fb1fcb1d136bc8b2bb0689a3a6de91f8139d4bae780567dccdd2a4f00c6c81#rd)  
 - [2025-08-06-写稳大型项目的-JS/TS-技巧（下）——-覆盖并发、缓存等](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527482&idx=1&sn=71f93060565d50edd75afca1ffd23c46&chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd)  
-- [2025-08-05-停止写屎山代码！教你10个JS/TS绝技](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527443&idx=1&sn=319eb17ec4610a204cd2cfded66462d5&chksm=f9926ac2cee5e3d481f955de170066a7f87b0bd16063097ef31f932e290985d5dfdec28341c2#rd)  
-- [2025-08-04-领导最烦这种下属，技术再牛，也不会提拔](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=1&sn=d507a74851b5e9d7d3ef6281938d6d38&chksm=f9926d2acee5e43c8c76c922d65471e82c31b9fa9e75829e9d9b825784563242a8ccaeeba097#rd)  
-- [2025-08-04-prompt-的参数调优入门指南---小白也能轻松掌握](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527419&idx=2&sn=0b95ba3914d0c812938c5a50b1943432&chksm=f9926d2acee5e43cfa328a187559b8c6acb1a0a908291f1ea17e9481ae912007ce89d38c45f6#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,6 +512,7 @@
 </summary>
 
 
+- [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/) ![](/assets/new.png)  
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
@@ -531,7 +532,6 @@
 - [2025-04-29-告别transform，是时候直接使用scale,-rotate属性啦](https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/)  
 - [2025-04-28-光速了解HTML-shadowrootmode等属性的作用](https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/)  
 - [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
-- [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [查看更多 >](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

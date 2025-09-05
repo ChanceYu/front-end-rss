@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-04T12:18:19.739Z</updated>
+    <updated>2025-09-05T04:11:20.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[@function自定义函数让CSS支持编程啦]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/"/>
+        <updated>2025-09-05T00:00:00.000Z</updated>
+        <published>2025-09-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【第3583期】Inditex 如何通过微前端打造面向未来的平台]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277358&amp;idx=1&amp;sn=0fac7dd772b4a965a11a6814b097f2a1&amp;chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277358&amp;idx=1&amp;sn=0fac7dd772b4a965a11a6814b097f2a1&amp;chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&amp;scene=0#rd"/>
+        <updated>2025-09-05T00:00:00.000Z</updated>
+        <published>2025-09-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新一代代码检查工具，比 ESLint 快 40 倍！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505517&amp;idx=1&amp;sn=ac57f767573b64f3824b3a4cc655203c&amp;chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd</id>
@@ -27,6 +41,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277349&amp;idx=1&amp;sn=f57c7d263f39196f4718219d0353faa4&amp;chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&amp;scene=0#rd"/>
         <updated>2025-09-04T00:00:00.000Z</updated>
         <published>2025-09-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么 Chrome DevTools 不够用 —— 分析终端用户性能]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527715&amp;idx=1&amp;sn=b9d1b6e47c6a23fb93025528da223622&amp;chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527715&amp;idx=1&amp;sn=b9d1b6e47c6a23fb93025528da223622&amp;chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd"/>
+        <updated>2025-09-03T00:00:00.000Z</updated>
+        <published>2025-09-03T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪：无虚拟 DOM 的 Vue，也许是最强形态的 Vue]]></title>
@@ -342,26 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/4ifcSObrhWr62QUjwZxqDw"/>
         <updated>2025-08-18T00:00:00.000Z</updated>
         <published>2025-08-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 最新 Hooks 库发布，VueUse或将成为历史]]></title>
-        <id>http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg</id>
-        <link href="http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg"/>
-        <updated>2025-08-18T00:00:00.000Z</updated>
-        <published>2025-08-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个有点屌CSS @container scroll-state容器滚动查询]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/"/>
-        <updated>2025-08-15T00:00:00.000Z</updated>
-        <published>2025-08-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MNN LLM Chat iOS 流式输出优化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541282&amp;idx=1&amp;sn=c7e80789f8a1e4ebaebc8e34c55a9829&amp;chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541282&amp;idx=1&amp;sn=c7e80789f8a1e4ebaebc8e34c55a9829&amp;chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&amp;scene=0#rd"/>
-        <updated>2025-08-15T00:00:00.000Z</updated>
-        <published>2025-08-15T00:00:00.000Z</published>
     </entry>
 </feed>
