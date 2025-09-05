@@ -14,12 +14,12 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-06 02:13:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-06 04:10:10，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -30,7 +30,7 @@
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751) ![](/assets/new.png)  
+- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-09-05-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ) ![](/assets/new.png)  
+- [2025-09-04-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s/bc6lWUFZC1lZDW43hx7UrQ) ![](/assets/new.png)  
 - [2025-09-03-尤雨溪-VoidZero-公司-8-月公司成果速览！](http://mp.weixin.qq.com/s/B6ppme0i7HT79QxiGFc3KA)  
 - [2025-09-02-React，一地鸡毛！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517396&idx=1&sn=9a6ce154102ecdde936aecb480005baf&chksm=eb07bcaddc7035bbdf877c36bbf8c0d25d45a23835a3fefe2b3227bc16a2a6ec45846811b725#rd)  
 - [2025-09-01-Chrome-全新-API：仅-6-行-HTML！让页面秒开！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517394&idx=1&sn=04a789c65347a9830448b7ab63da3cc7&chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd)  
@@ -437,8 +439,6 @@
 - [2025-08-05-尤雨溪推荐的-Vue3-表单神器！体积小功能强大！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517362&idx=1&sn=1b8d2c73e9c5c1a3c881688faed7cc59&chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd)  
 - [2025-08-04-Vue-与-Vite-生态最新进展：迈向一体化与智能化的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517360&idx=1&sn=cd3b593b8fc14df3bada4de7edfa5401&chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd)  
 - [2025-08-02-AI-只会让程序员更受欢迎，取代其他人？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517355&idx=1&sn=7f6df96ae14342d8488813b825aacbca&chksm=eb07bcd2dc7035c4dd3143825eb1b9864f6c43baf995810144baca3d486a5e56ea1a1ae0e10d#rd)  
-- [2025-07-31-再见，Lodash。](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517353&idx=1&sn=2bf5312de8a9edfd8caa06388c305dce&chksm=eb07bcd0dc7035c6cdfaacdbad96939d60c6df4fc9b3135eb6ae8e504dc5a40424f530a9a07e#rd)  
-- [2025-07-29-vue-vapor-的-IR-是个啥](http://mp.weixin.qq.com/s/GWktGxGrp73Gq4_E1YPwqw)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>

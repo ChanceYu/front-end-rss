@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-06 02:13:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-06 04:10:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Vue
 
@@ -691,6 +691,7 @@
 - [2023-05-09-前端食堂技术周刊第-81-期：Angular-16、Next.js-13.4、Qwik-1.0、Vue-3.3-新特性前瞻](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497958&idx=1&sn=2864feb9dc8bfa713b19b7aba2e23218&chksm=c2b33919f5c4b00fd0a13f3aea30731d72eaa21ba68549cffc0ccd972cfdfcaaf710231be82d#rd) 
 - [2023-01-05-前端食堂技术周刊第-65-期：2022-Vue-年终总结、2022-HTTP-状态、12-月登陆-Web-平台的新功能](https://mp.weixin.qq.com/s/D_vrUZF4JViw1WVDUUfvEA) 
 - [2023-01-04-UI酷炫！最新开源的Vue3.2移动电商实战（源码+文档分享）](https://mp.weixin.qq.com/s/bxLhA7hUMHmYY5J_69I5pQ) 
+- [2025-09-05-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ) 
 - [2025-08-28-终极方案：Vue3-中把-Axios-用到极致！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517392&idx=1&sn=3fd3a7bf8f4f1079d26176e82c07486a&chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd) 
 - [2025-08-26-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag) 
 - [2025-08-19-尤雨溪力荐！Vue3-专属！100+-动效组件！](http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ) 
@@ -750,8 +751,8 @@
 - [2023-07-06-面到了一个Vue3超厉害的前端人才。。。](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512249&idx=1&sn=cebbcba1674c8e192e962ead3a2f1201&chksm=eb0788c0dc7001d674bdfcfba8c0b66dfe520a3c1d8d2135c9d79262a346470a9375d997f38f#rd) 
 - [2023-06-29-Vue3-+-Vite-调试神器，彻底抛弃-Vue-Devtools](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512115&idx=2&sn=8e6debb831002a2d5128575c2023679b&chksm=eb07884adc70015cea693ed1ee4fb4c079922e667e608f76ba26a9149b023bd6663ab18d0f74#rd) 
 - [2023-06-20-神仙UI！Vue+ElementUI智能管理平台实战（新开源）](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511884&idx=1&sn=766e1b59fe2da59dc1181228c4756825&chksm=eb079735dc701e23a99d1ffebe1e5671776c2c66ba8cb4ce410d396946ccb44c9aa1796038f2#rd) 
-- [2023-06-14-10-个值得学习的-Vue-开源实战项目！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511819&idx=2&sn=edf6a7f858a3e9fa300a7d5fc55debb8&chksm=eb079772dc701e647a1059cc03a4354bb1e46476b03a51b7939e2a6edbf4a05ed28ef5a1a2da#rd) 
 - [2023-06-14-Vue3已成气候（超强）！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511819&idx=1&sn=5c9f18859e5d4446776b6f7bb0851e16&chksm=eb079772dc701e64cbf31f3b60ecbb5c27d2da627d3bc4b5c10216542d0ca238ccb71008878a#rd) 
+- [2023-06-14-10-个值得学习的-Vue-开源实战项目！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511819&idx=2&sn=edf6a7f858a3e9fa300a7d5fc55debb8&chksm=eb079772dc701e647a1059cc03a4354bb1e46476b03a51b7939e2a6edbf4a05ed28ef5a1a2da#rd) 
 - [2023-05-19-Nuxt-3.5.0发布了，Vue-3.3-加持！](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511571&idx=1&sn=2a822274108bc25f82385fd256865b2a&chksm=eb07966adc701f7c6622a5b79fd0290afbf08d7e0fbfd73ac2607d6f6a9d0771b0e825a8a782#rd) 
 - [2023-04-27-Vue.js-推出官方“雅思考试”，价格还真不低，好几千块](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247511446&idx=1&sn=2fd404f15e3ae17c69ab9434999665f3&chksm=eb0795efdc701cf904e9526699102646ba9762975f32877066161fe7a1dcd0cb034fe61728d8#rd) 
 - [2023-12-30-Vue-3.4-正式发布！更快、更强、更好用！](http://www.yyyweb.com/5572.html) 

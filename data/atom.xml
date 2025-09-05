@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-05T18:13:08.922Z</updated>
+    <updated>2025-09-05T20:10:10.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[@function自定义函数让CSS支持编程啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/"/>
+        <updated>2025-09-05T00:00:00.000Z</updated>
+        <published>2025-09-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尤雨溪：无虚拟 DOM 的 Vue，也许是最强形态的 Vue]]></title>
+        <id>http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ</id>
+        <link href="http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ"/>
         <updated>2025-09-05T00:00:00.000Z</updated>
         <published>2025-09-05T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
         <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
         <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
-        <updated>2025-08-19T00:00:00.000Z</updated>
-        <published>2025-08-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3572期】JSON 提示词：打造完美 AI 输出的终极指南]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277257&amp;idx=1&amp;sn=ef5867750ddcd1c8dd1586c30e6577fc&amp;chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277257&amp;idx=1&amp;sn=ef5867750ddcd1c8dd1586c30e6577fc&amp;chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&amp;scene=0#rd"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
