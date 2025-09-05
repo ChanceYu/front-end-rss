@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-05 12:11:19，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-05 16:13:37，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -33,7 +33,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-09-05-【第3583期】Inditex-如何通过微前端打造面向未来的平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277358&idx=1&sn=0fac7dd772b4a965a11a6814b097f2a1&chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-05-【第3583期】Inditex-如何通过微前端打造面向未来的平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277358&idx=1&sn=0fac7dd772b4a965a11a6814b097f2a1&chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&scene=0#rd)  
 - [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  
 - [2025-09-03-【第3581期】复杂-React/Next.js-应用的数据获取架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277342&idx=1&sn=7c99c0d1e1db3ed269271586e2998656&chksm=bc6464732f94fb72ce705df5dd4e6d3c93544cfc1f75970c782fb88e769b35fabf13399c80e3&scene=0#rd)  
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
@@ -140,26 +140,26 @@
 </summary>
 
 
-- [2025-08-31-马斯克怒了！中国籍工程师套现-700-万美刀后偷了整个代码库等机密信息，转身就入职-OpenAI](http://mp.weixin.qq.com/s/KwGKjgrFy-QXZnFq5nrxCA)  
+- [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw) ![](/assets/new.png)  
+- [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ) ![](/assets/new.png)  
+- [2025-09-04-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/iQ1OL0daF6bGTvb5fczLiQ) ![](/assets/new.png)  
 - [2025-08-31-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA)  
-- [2025-08-25-通过代码看-React-的历史](http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA)  
+- [2025-08-31-马斯克怒了！中国籍工程师套现-700-万美刀后偷了整个代码库等机密信息，转身就入职-OpenAI](http://mp.weixin.qq.com/s/KwGKjgrFy-QXZnFq5nrxCA)  
 - [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
+- [2025-08-25-通过代码看-React-的历史](http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA)  
 - [2025-08-21-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622909&idx=1&sn=53351b4157fd3c750a6cf57858b00329&chksm=80225a3cb755d32a5928d5fd1bd92eced6c903f6e0a9581df25d63743873bf6fac440a7333d6#rd)  
-- [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
 - [2025-08-20-网传钉钉-CEO-凌晨巡查工位，质问员工为何提前下班。网友：无招是真的没招了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=1&sn=7261eb0ce69f0809a802eca7d04ed2ea&chksm=80225a32b755d3249a60f14b9150aad7697d15bf51c92bbed1e9583ebbf73c1bc6d71018eac9#rd)  
-- [2025-08-15-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ)  
+- [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
 - [2025-08-15-上海某电商公司表扬加班，榜一大哥月加班-160-小时。网友：还记得上月任劳任怨猝死的外包么？](http://mp.weixin.qq.com/s/BA_5gDjKjyLTu4knGVEBRA)  
+- [2025-08-15-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ)  
 - [2025-08-13-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622876&idx=1&sn=057121989c9b633605d8595d0dd86b4b&chksm=80225a1db755d30b467fe3b48c24e96cf8a49f31ccbee20b835baeb745db4d02cbe0d339e8e9#rd)  
 - [2025-08-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622869&idx=1&sn=3a0fdc420636de510a3bf491313ba23b&chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd)  
-- [2025-07-28-文件被-Gemini-当场“格式化”，全没了！网友控诉：Claude、Copilot-也爱删库，一个都跑不了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=1&sn=67e0c26a0716b1b457353434735cfe4c&chksm=80225a0ab755d31ceb97e42a8503a5b9476d97958c30759f10d9df926ca5e7879b4b756b3b09#rd)  
 - [2025-07-28-前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=2&sn=f4d992df3536ddc49bdef4eb21b32c80&chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd)  
-- [2025-07-25-某大V呼吁“吊销不支持纯血鸿蒙的-APP-的-ICP-许可”，DeepSeek：极端粗暴且不合法，不切实际](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=1&sn=f44266258fcd183c255cce084684fe27&chksm=80225a00b755d316384e24ae260f648466bc3bcd35dd87f8e94063f2894edc77eecf5796ab39#rd)  
+- [2025-07-28-文件被-Gemini-当场“格式化”，全没了！网友控诉：Claude、Copilot-也爱删库，一个都跑不了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=1&sn=67e0c26a0716b1b457353434735cfe4c&chksm=80225a0ab755d31ceb97e42a8503a5b9476d97958c30759f10d9df926ca5e7879b4b756b3b09#rd)  
 - [2025-07-25-作为前端Team-Leader，我是如何做技术选型、项目排期和新人培养的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=2&sn=0f50fc8383160dfc361ebe517b8992f6&chksm=80225a00b755d31671cb335725dfca43c519ed969c6393d3494e3e12c65d6fce4672c74fdbc2#rd)  
+- [2025-07-25-某大V呼吁“吊销不支持纯血鸿蒙的-APP-的-ICP-许可”，DeepSeek：极端粗暴且不合法，不切实际](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622849&idx=1&sn=f44266258fcd183c255cce084684fe27&chksm=80225a00b755d316384e24ae260f648466bc3bcd35dd87f8e94063f2894edc77eecf5796ab39#rd)  
 - [2025-07-24-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622831&idx=1&sn=7ffad96fb1961b84d5fbae6a10dc8a3d&chksm=80225a6eb755d378dd93fc91fe4896b51ae693b12ab393406c8e4aee48d3da5085f8371ce165#rd)  
-- [2025-07-22-王垠：我用-AI-编程的经历](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622815&idx=1&sn=90a410177e284dbaff88a6dfc5ab36d9&chksm=80225a5eb755d3487d3714a11b4a870c2710d51c2b0a39a10bdde485753dc1664df3e2a2caf5#rd)  
 - [2025-07-22-快速掌握-Docker：前端开发者也能轻松玩转容器化](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622815&idx=2&sn=61a9dd13983d41ca1e536ef52a3848f5&chksm=80225a5eb755d348eed1195e56ebd09aee148dee6311c4390c73722eb6ec7cf9b2d4c21aee05#rd)  
-- [2025-07-21-所有前端务必立即拿下软考证（政策红利）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622825&idx=1&sn=1643d981a5708e1aeb6f5f7f6dcd8764&chksm=80225a68b755d37e805cabb3baad77cc81c967fa0915bc761f9570aa2bfa6cf7d99d55996062#rd)  
-- [2025-07-16-34-岁外包，任劳任怨，突发脑出血，人没了…](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622791&idx=1&sn=dd95e31c9db1f8f1d72f2c6fb4a26729&chksm=80225a46b755d3501af546adda0002333c3e7e91baefb8ddf1b4f968028c8c2e8c987f3891a8#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,12 +264,13 @@
 </summary>
 
 
-- [2025-09-04-轻松在网页中集成专业思维导图功能---Mind-Elixir](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527751&idx=1&sn=b0a7aa2c949b6f5bbcebc92fdc254db5&chksm=f9926b96cee5e28013ff85404ba113811ebc3d86852d378f234a318f2a592dbcb0d298a274aa#rd) ![](/assets/new.png)  
-- [2025-09-03-为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527715&idx=1&sn=b9d1b6e47c6a23fb93025528da223622&chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd) ![](/assets/new.png)  
-- [2025-09-01-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527709&idx=1&sn=5d001f8ee75bfbdff7862fa2b58cd1bc&chksm=f9926bcccee5e2da7214b28478afdd3d1e3a26a5f0a1e42ca3096afd824cbb3c66b007ae4d1d#rd) ![](/assets/new.png)  
+- [2025-09-05-使用-Cursor-不会这个超牛-MCP-还没用过吧！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527753&idx=1&sn=9cf8129d9d62d15ffbbe13fd6929474e&chksm=f9926b98cee5e28ebd45d203e1184a8824c00589b12bc08a86c111d7a3a461f04a81a12cc587#rd) ![](/assets/new.png)  
+- [2025-09-04-轻松在网页中集成专业思维导图功能---Mind-Elixir](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527751&idx=1&sn=b0a7aa2c949b6f5bbcebc92fdc254db5&chksm=f9926b96cee5e28013ff85404ba113811ebc3d86852d378f234a318f2a592dbcb0d298a274aa#rd)  
+- [2025-09-03-为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527715&idx=1&sn=b9d1b6e47c6a23fb93025528da223622&chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd)  
+- [2025-09-01-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527709&idx=1&sn=5d001f8ee75bfbdff7862fa2b58cd1bc&chksm=f9926bcccee5e2da7214b28478afdd3d1e3a26a5f0a1e42ca3096afd824cbb3c66b007ae4d1d#rd)  
 - [2025-08-28-你的H5页面在折叠屏上适配了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527703&idx=1&sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd)  
-- [2025-08-27-公开招录45名程序员深造一流高校研究生！基层人员优先！](http://mp.weixin.qq.com/s/nKry44nGlZoq9tAhajbiVw)  
 - [2025-08-27-纯前端实现图片伪3D视差效果](http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw)  
+- [2025-08-27-公开招录45名程序员深造一流高校研究生！基层人员优先！](http://mp.weixin.qq.com/s/nKry44nGlZoq9tAhajbiVw)  
 - [2025-08-26-还在用html2canvas？介绍一个比它快100倍的截图神器！](http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g)  
 - [2025-08-25-如何使用Cursor同时开发多项目？](http://mp.weixin.qq.com/s/Cfa6Gd8NIjhzaexJ5MjpZg)  
 - [2025-08-21-面试官灵魂拷问：接口在-Postman-测试很快，页面加载咋就慢？](http://mp.weixin.qq.com/s/zDzVAjUD9syIGB0PNeMFSg)  
@@ -283,7 +284,6 @@
 - [2025-08-10-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527512&idx=1&sn=681f54f73cb6c1ffc9d1ef8d9e7d3e9a&chksm=f9926a89cee5e39f4c1d359ac8a202a9cc6f6fe6431079805dc670a4675863fb703d0d0a05ef#rd)  
 - [2025-08-08-GPT-5-真的来了！全网最全中文解读！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527503&idx=1&sn=bdb8997ab4163818896911bb8886b262&chksm=f9926a9ecee5e388772483cfae8dee59e3200d7288a561a354acd338c395f42391f2be46c489#rd)  
 - [2025-08-07-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527484&idx=1&sn=7e2e81a44c8f87dc83603ee3e4a85f64&chksm=f9926aedcee5e3fb1fcb1d136bc8b2bb0689a3a6de91f8139d4bae780567dccdd2a4f00c6c81#rd)  
-- [2025-08-06-写稳大型项目的-JS/TS-技巧（下）——-覆盖并发、缓存等](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527482&idx=1&sn=71f93060565d50edd75afca1ffd23c46&chksm=f9926aebcee5e3fdfd5eaf5596ecb62a650df3578b542e7ef971273b3f9a158b1d89aa5212bf#rd)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -512,7 +512,7 @@
 </summary>
 
 
-- [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/) ![](/assets/new.png)  
+- [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/)  
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
 - [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-05T04:11:20.522Z</updated>
+    <updated>2025-09-05T08:13:37.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[@function自定义函数让CSS支持编程啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/"/>
+        <updated>2025-09-05T00:00:00.000Z</updated>
+        <published>2025-09-05T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[性能提升60%：前端性能优化终极指南]]></title>
+        <id>http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw</id>
+        <link href="http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw"/>
         <updated>2025-09-05T00:00:00.000Z</updated>
         <published>2025-09-05T00:00:00.000Z</published>
     </entry>
@@ -232,16 +239,16 @@
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
+        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
+        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
+        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
-        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
-        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://nodeweekly.com/issues/590"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[借助CSS实现自适应屏幕边缘的tooltip]]></title>
-        <id>http://mp.weixin.qq.com/s/4ifcSObrhWr62QUjwZxqDw</id>
-        <link href="http://mp.weixin.qq.com/s/4ifcSObrhWr62QUjwZxqDw"/>
-        <updated>2025-08-18T00:00:00.000Z</updated>
-        <published>2025-08-18T00:00:00.000Z</published>
     </entry>
 </feed>
