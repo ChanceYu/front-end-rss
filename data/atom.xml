@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-06T12:14:52.185Z</updated>
+    <updated>2025-09-06T14:07:10.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[XTransfer 开源 XRN 框架：基于 React Native 的跨三端开发实践与鸿蒙 NEXT 攻坚]]></title>
+        <id>http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA</id>
+        <link href="http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA"/>
+        <updated>2025-09-06T00:00:00.000Z</updated>
+        <published>2025-09-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[@function自定义函数让CSS支持编程啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪力荐！Vue3 专属！100+ 动效组件！]]></title>
         <id>http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ</id>
         <link href="http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ"/>
-        <updated>2025-08-19T00:00:00.000Z</updated>
-        <published>2025-08-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ</id>
-        <link href="http://mp.weixin.qq.com/s/4iUN6Gn3kKtJLC6M_DFdUQ"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
