@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-05T20:10:10.573Z</updated>
+    <updated>2025-09-06T00:41:45.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -92,6 +92,13 @@
         <published>2025-09-02T00:00:00.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[这可能是我见过最好最全的JavaScript题库！]]></title>
+        <id>http://mp.weixin.qq.com/s/fvm8bypDoymbMqozSEuGlQ</id>
+        <link href="http://mp.weixin.qq.com/s/fvm8bypDoymbMqozSEuGlQ"/>
+        <updated>2025-09-02T00:00:00.000Z</updated>
+        <published>2025-09-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ZingAI.video Online Talking Head Video Editing]]></title>
         <id>https://fenghen.me/posts/2025/09/01/zingai-overview-en/</id>
         <link href="https://fenghen.me/posts/2025/09/01/zingai-overview-en/"/>
@@ -148,16 +155,16 @@
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
-        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
+        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
+        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
+        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
-        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
-        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
+        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -347,13 +354,6 @@
         <title type="html"><![CDATA[尤雨溪力荐！Vue3 专属！100+ 动效组件！]]></title>
         <id>http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ</id>
         <link href="http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ"/>
-        <updated>2025-08-19T00:00:00.000Z</updated>
-        <published>2025-08-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
-        <id>http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA</id>
-        <link href="http://mp.weixin.qq.com/s/5RB8nC-raFLqxlHInneyOA"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
     </entry>
