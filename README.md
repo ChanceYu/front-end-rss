@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-06 22:07:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-07 20:16:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,14 +22,14 @@
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](/assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -171,7 +171,7 @@
 </summary>
 
 
-- [2025-09-06-XTransfer-开源-XRN-框架：基于-React-Native-的跨三端开发实践与鸿蒙-NEXT-攻坚](http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA) ![](/assets/new.png)  
+- [2025-09-06-XTransfer-开源-XRN-框架：基于-React-Native-的跨三端开发实践与鸿蒙-NEXT-攻坚](http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA)  
 - [2025-09-01-月烧35万元token、逼得Claude官方连夜限速！被全网吐槽的中国“榜一大哥”，已经靠-AI-年入千万了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526272&idx=1&sn=0881560b664b83289ae95a9805270af2&chksm=f952d2c3ce255bd5fcd1a625b7bc82b2b4329cfff57933abe756b9abe14254caa7ee322cc3b6#rd)  
 - [2025-08-25-GPT-5：前端开发者的“选择自己的冒险路线”](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526267&idx=1&sn=75715167726ec8c0ff0a3623d7b358e4&chksm=f952d238ce255b2e2159c2ed8a1319c852e78aedd46b6c71d77c39a7da02bdbcd1f24c76a59a#rd)  
 - [2025-08-15-日均生成数十万-Web-应用！Vercel-v0.app-推出最终可用版本，AI-全栈开发时代来临？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247526249&idx=1&sn=243abf9c1648720abbe95d1bc1a22282&chksm=f952d22ace255b3ce3cdc8f4393d3084bc80cd87371ee3586aa9746a85ceaa590efb7eafca86#rd)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-09-04-玩了几天Fellou-CE，我好像有了超能力](http://mp.weixin.qq.com/s/qDJ0tPiTJAeDiPwDiG8wMA) ![](/assets/new.png)  
 - [2025-08-31-我替你们试过了，这才是Nano-Banana在国内最爽的玩法](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503992&idx=1&sn=3d6dee52adf2c2e24b85156c9f623101&chksm=c2b31187f5c498914a307112ac3466892301424de01e542d78302f0dcb08965d5197a8165fc8#rd)  
 - [2025-08-30-看完钉钉发布会，只想说他们干了件“实在事”](http://mp.weixin.qq.com/s/Q6ze0Kvl95pfKwniBFpuNg)  
 - [2025-08-29-实测谷歌Nano-Banana，P图邪修之王](http://mp.weixin.qq.com/s/QKZ21Bov_sON8fOiD-EEiA)  
@@ -399,15 +400,14 @@
 - [2025-08-12-GLM-4.5V刚刚开源，智谱要飞上天](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503679&idx=1&sn=34cdb16925ef9bb1473538c5aafaefe7&chksm=c2b30ec0f5c487d6531f58fe26daca8a42cdde4906a9e7108ba9fed83eaf44ba14129b43f7c8#rd)  
 - [2025-08-11-谷歌重磅发布Genie-3，这回真没有边界感了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503655&idx=1&sn=f6605f8c4a52dbf872182228fcc2470e&chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd)  
 - [2025-08-08-OpenAI-GPT-5来了，但AGI没来](http://mp.weixin.qq.com/s/FmtSWG-qcbPNIjM_Uvt8bw)  
-- [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
 - [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA)  
+- [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
 - [2025-08-06-OpenAI开源2款模型，实测有点离谱](http://mp.weixin.qq.com/s/Lrckf5a0WsuVeSRfB7FbeQ)  
 - [2025-08-01-Manus推出Wide-Research，真正的降维打击](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503513&idx=1&sn=ebe772e78e6cd54f36a7e2c98fd7a7a9&chksm=c2b30f66f5c486700a2e24cf86ffcd289b1228f3b3e90103420a373e569f9d3355be50f7f2ff#rd)  
 - [2025-07-31-中国AI霸榜HuggingFace，彻底杀疯了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503464&idx=1&sn=c147921a188d7c830a799d8806e397d1&chksm=c2b30f97f5c48681584a4daa1f227f2245736e94056e1660bfeb757219b214a0923be4b745d5#rd)  
 - [2025-07-30-ChatGPT-Agent实测，破防了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503453&idx=1&sn=e9f435ff5c5b628a26b803dd50da41e6&chksm=c2b30fa2f5c486b40ef64246e8a9705ee55a91391ac55a9126b7ce771c5cb9a9bf4560302246#rd)  
 - [2025-07-29-智谱放大，源神又启动啦](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503420&idx=1&sn=b5bd3a810d4b0a14d4874f109a1b68db&chksm=c2b30fc3f5c486d5ae3daefcf4fe799a6241ad90b2495adb83d35ba8411cb62690d1f647cb91#rd)  
 - [2025-07-25-实测腾讯CodeBuddy-IDE，做的太过头了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503386&idx=1&sn=70d83a4be94e436849a75485eaa3845a&chksm=c2b30fe5f5c486f352b12368b788362a9181eb6573972ef64e4d616d819c04ad2c942ae9eb43#rd)  
-- [2025-07-23-登顶全球，阿里Qwen3-Coder凭什么](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503358&idx=1&sn=6256b9b22160f0d5778d89778dcc2170&chksm=c2b30c01f5c48517dedf6a09cda99ea561db4b550bc201f09880d9e383af98662cbd264bddbb#rd)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
