@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-07T12:16:09.096Z</updated>
+    <updated>2025-09-08T04:12:22.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3584期】微信小程序端智能项目工程化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277365&amp;idx=1&amp;sn=1892eb28b56af9a02e0704a3c7bc6987&amp;chksm=bcd7a6e4cc8474ff2b89915305125fd6bb2fff1ffb5917dff6816961ce73f58324fcdece8a66&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277365&amp;idx=1&amp;sn=1892eb28b56af9a02e0704a3c7bc6987&amp;chksm=bcd7a6e4cc8474ff2b89915305125fd6bb2fff1ffb5917dff6816961ce73f58324fcdece8a66&amp;scene=0#rd"/>
+        <updated>2025-09-08T00:00:00.000Z</updated>
+        <published>2025-09-08T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XTransfer 开源 XRN 框架：基于 React Native 的跨三端开发实践与鸿蒙 NEXT 攻坚]]></title>
         <id>http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622899&amp;idx=2&amp;sn=d1c869514f6e55ccafdf8a2f9a52b200&amp;chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd"/>
         <updated>2025-08-20T00:00:00.000Z</updated>
         <published>2025-08-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤雨溪力荐！Vue3 专属！100+ 动效组件！]]></title>
-        <id>http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ</id>
-        <link href="http://mp.weixin.qq.com/s/6LxLBf8Smk3ecO_kIySsQQ"/>
-        <updated>2025-08-19T00:00:00.000Z</updated>
-        <published>2025-08-19T00:00:00.000Z</published>
     </entry>
 </feed>
