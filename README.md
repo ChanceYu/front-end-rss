@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-09 12:11:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-10 00:11:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -47,6 +47,7 @@
 </summary>
 
 
+- [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) ![](/assets/new.png)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
@@ -66,7 +67,6 @@
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
-- [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [查看更多 >](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-09-09-【早阅】Vue-的演进：从框架到生态系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277385&idx=1&sn=e1f1bd391b25cc3ec8120e8752c9ace2&chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-09-【早阅】Vue-的演进：从框架到生态系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277385&idx=1&sn=e1f1bd391b25cc3ec8120e8752c9ace2&chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&scene=0#rd)  
 - [2025-09-08-【第3584期】微信小程序端智能项目工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277365&idx=1&sn=1892eb28b56af9a02e0704a3c7bc6987&chksm=bcd7a6e4cc8474ff2b89915305125fd6bb2fff1ffb5917dff6816961ce73f58324fcdece8a66&scene=0#rd)  
 - [2025-09-05-【第3583期】Inditex-如何通过微前端打造面向未来的平台](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277358&idx=1&sn=0fac7dd772b4a965a11a6814b097f2a1&chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&scene=0#rd)  
 - [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  

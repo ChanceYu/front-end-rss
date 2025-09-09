@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-09T04:11:42.062Z</updated>
+    <updated>2025-09-09T16:11:51.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【早阅】Vue 的演进：从框架到生态系统]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277385&amp;idx=1&amp;sn=e1f1bd391b25cc3ec8120e8752c9ace2&amp;chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277385&amp;idx=1&amp;sn=e1f1bd391b25cc3ec8120e8752c9ace2&amp;chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&amp;scene=0#rd"/>
+        <updated>2025-09-09T00:00:00.000Z</updated>
+        <published>2025-09-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A significant supply chain attack on the npm ecosystem]]></title>
+        <id>https://nodeweekly.com/issues/592</id>
+        <link href="https://nodeweekly.com/issues/592"/>
         <updated>2025-09-09T00:00:00.000Z</updated>
         <published>2025-09-09T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[一位Cursor深度用户的原理探析与实验验证]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541333&amp;idx=1&amp;sn=48a4eb5c1ab1f39630124038d31ec715&amp;chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650541333&amp;idx=1&amp;sn=48a4eb5c1ab1f39630124038d31ec715&amp;chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&amp;scene=0#rd"/>
-        <updated>2025-08-20T00:00:00.000Z</updated>
-        <published>2025-08-20T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端仔如何在公司搭建 AI Review 系统]]></title>
-        <id>http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw</id>
-        <link href="http://mp.weixin.qq.com/s/gYd9elY5T728QPPoJCr8dw"/>
         <updated>2025-08-20T00:00:00.000Z</updated>
         <published>2025-08-20T00:00:00.000Z</published>
     </entry>
