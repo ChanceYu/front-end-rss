@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-10T14:08:56.839Z</updated>
+    <updated>2025-09-10T22:08:38.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[建议收藏！JavaScript+Vue3+React一次全吃透！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527783&amp;idx=1&amp;sn=2d9848c80736ce280fe8bbdb381c1f7f&amp;chksm=f9926bb6cee5e2a0661161717a61fddfbdf11f5f1f0fee2e8c28580853236c802e91f34b24b8#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527783&amp;idx=1&amp;sn=2d9848c80736ce280fe8bbdb381c1f7f&amp;chksm=f9926bb6cee5e2a0661161717a61fddfbdf11f5f1f0fee2e8c28580853236c802e91f34b24b8#rd"/>
+        <updated>2025-09-10T00:00:00.000Z</updated>
+        <published>2025-09-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享 9个 使用promises的技巧]]></title>
         <id>http://mp.weixin.qq.com/s/MUr29XUJjAouaYrwmXvrOg</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505406&amp;idx=1&amp;sn=163ee060823a6bf91c949627d24b9986&amp;chksm=ce45c06ff932497932bb4c734aaf56ff09b80b8bf49b439292c9889689a32008728a872b28cf#rd"/>
         <updated>2025-08-22T00:00:00.000Z</updated>
         <published>2025-08-22T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[addEventListener 淘汰，Chrome 全新 API 效率提升 300%！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517386&amp;idx=1&amp;sn=600703f2da4eceac2bd9d8030cbd3bb3&amp;chksm=eb07bcb3dc7035a50ebf76cb215d44d08b2bd2a2cd2ff45af67aea7a9ae8b4c0058656f7d5b0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517386&amp;idx=1&amp;sn=600703f2da4eceac2bd9d8030cbd3bb3&amp;chksm=eb07bcb3dc7035a50ebf76cb215d44d08b2bd2a2cd2ff45af67aea7a9ae8b4c0058656f7d5b0#rd"/>
-        <updated>2025-08-21T00:00:00.000Z</updated>
-        <published>2025-08-21T00:00:00.000Z</published>
     </entry>
 </feed>
