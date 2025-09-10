@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-10T02:47:59.043Z</updated>
+    <updated>2025-09-10T04:10:52.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -316,16 +316,16 @@
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
-        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
-        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
+        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
+        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
+        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
+        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
