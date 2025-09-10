@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-10 00:11:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-10 10:47:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -505,6 +505,7 @@
 - [2018-10-07-为什么说ReasonReact是编写React的最佳方式？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489636&idx=1&sn=123449a34024394bed64202b33c96094#wechat_redirect) 
 - [2018-10-05-Create-React-App-2.0正式版发布，不再支持-Node-6](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489634&idx=1&sn=602dfc889a099a22d01f02b5b7c6c2dc#wechat_redirect) 
 - [2018-09-21-为什么说React-16是开发者的福音？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489553&idx=1&sn=5bb943158c312bf02ae53eb32441f568#wechat_redirect) 
+- [2025-09-09-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s/uX5S4dpumQi-kC0ITYDGnA) 
 - [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g) 
 - [2025-08-21-Vue和React迎来大融合！开发效率大提升](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505401&idx=1&sn=083542207259901e74e602d4af495cb0&chksm=ce45c068f932497e244f2d55731386613495bb708f20aa7dbe841389f31cecc4de27c1e70f52#rd) 
 - [2025-08-18-Vue3-最新-Hooks-库发布，VueUse或将成为历史](http://mp.weixin.qq.com/s/EAZ8ugTMDaBVi67htSzswg) 
