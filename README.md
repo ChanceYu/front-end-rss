@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-10 14:14:24，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-10 22:08:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,10 +29,10 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-09-09-再见Claude，国产平替真香](http://mp.weixin.qq.com/s/_KEDZrwqn7gr7GZo9mC5AA) ![](/assets/new.png)  
-- [2025-09-08-Kimi这次真玩大了](http://mp.weixin.qq.com/s/QnS4IeSAvSVXr6Y-Z2AYFQ) ![](/assets/new.png)  
+- [2025-09-09-再见Claude，国产平替真香](http://mp.weixin.qq.com/s/_KEDZrwqn7gr7GZo9mC5AA)  
+- [2025-09-08-Kimi这次真玩大了](http://mp.weixin.qq.com/s/QnS4IeSAvSVXr6Y-Z2AYFQ)  
 - [2025-09-04-玩了几天Fellou-CE，我好像有了超能力](http://mp.weixin.qq.com/s/qDJ0tPiTJAeDiPwDiG8wMA)  
 - [2025-08-31-我替你们试过了，这才是Nano-Banana在国内最爽的玩法](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503992&idx=1&sn=3d6dee52adf2c2e24b85156c9f623101&chksm=c2b31187f5c498914a307112ac3466892301424de01e542d78302f0dcb08965d5197a8165fc8#rd)  
 - [2025-08-30-看完钉钉发布会，只想说他们干了件“实在事”](http://mp.weixin.qq.com/s/Q6ze0Kvl95pfKwniBFpuNg)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-09-10-AI赋能前端开发提效实践：以长颈鹿接入为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541484&idx=1&sn=058ca5192c0f4454cee0283faf65ab7c&chksm=8390c5b4b4e74ca2117802dd99ca10c3eedcbeb1f59951a129a7b536d18615364ffa5cd51afc#rd) ![](/assets/new.png)  
 - [2025-09-08-让你的大模型读懂二方包](http://mp.weixin.qq.com/s/kWLMDhpkP01U6jFbysxhMA)  
 - [2025-09-05-基于《架构现代化》浅谈架构共鸣](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541469&idx=1&sn=fd9c9f5286de27f6465b769e652dc360&chksm=8390c585b4e74c93a24216e28165f2685817a057f6b9ac8d608527539fd95a40a09d486924ad#rd)  
 - [2025-09-03-AI审核工程实践：-淘宝极有家破损包赔项目思考](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541430&idx=1&sn=40b5163b07415d8d40080130a9d91277&chksm=8390c56eb4e74c78d85f9b9a776184d23dd8fc9a881b8355c2ccbed01deb8ddac34fc6ffd86d#rd)  
@@ -488,8 +489,8 @@
 - [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
-- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
+- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
 - [2025-08-18-淘宝购物车拖拽功能的思考与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541315&idx=1&sn=b9f93d3995fc5b25c5eed17b00c24115&chksm=82d2352e90a2533f9966546b9863859f4525df737a27a86c5622d93903f73cc83e6c92700982&scene=0#rd)  
 - [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-08-04-基于智能体的自适应测试系统---淘工厂实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541100&idx=1&sn=5b31e9eb24882f5529bdaea79e6034e6&chksm=82f878a4fb71a9b549418f63e302516357baaf55788a85486c6a698f421d1ab2e96f20636fd8&scene=0#rd)  
 - [2025-08-01-聊聊AI-Coding](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541057&idx=1&sn=d9a0346498998c0aaf5d0dbc485baa6e&chksm=822be0b7f042c9caa10e7d9a260b3db8c554d9738a670e95b153bee4cf5adea516c5a1cd447d&scene=0#rd)  
 - [2025-07-30-RLHF技术实践：大语言与文生图模型的生成优化](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541046&idx=1&sn=e59f6774c2a7862fec2736f695a30cd2&chksm=82a3f171043bd5f648dcbefe187106d18f1574eaa54b6817f10af4ce46611611800b9404858d&scene=0#rd)  
-- [2025-07-28-NL2SQL：从自然语言到SQL的智能转换技术深度解析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650540986&idx=1&sn=01da2d69f5d90d9655ddff075f49d422&chksm=82c10d8309cd68c0a120bdc62abe0e0c6d7a2f445ebd6bf86ae3604e6a957051f9b08e037838&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
