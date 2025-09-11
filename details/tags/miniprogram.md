@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-11 12:11:34。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-12 00:12:22。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -186,5 +186,5 @@
 - [2017-01-19-微信小程序跨页面通信解决思路](https://jelly.jd.com/article/6006b1045b6c6a01506c87d8) 
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://jelly.jd.com/article/6006b1045b6c6a01506c87d4) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://jelly.jd.com/article/6006b1045b6c6a01506c87c2) 
-- [2019-01-01-小程序的思考](https://hughfenghen.github.io/posts/2019/01/01/thinking-miniprogram/) 
 - [2019-01-01-小程序的思考](https://fenghen.me/posts/2019/01/01/thinking-miniprogram/) 
+- [2019-01-01-小程序的思考](https://hughfenghen.github.io/posts/2019/01/01/thinking-miniprogram/) 

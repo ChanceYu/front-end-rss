@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-11 12:11:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-12 00:12:22。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -409,6 +409,7 @@
 - [【前端之巅】为什么要用-picture-标签代替-img-标签？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506985&idx=2&sn=2d52b27efe0d52fc3eb2a9761ad0c15e&chksm=f952696ace25e07c37b85512410826383a3f6ea1667b4fbfc1245819b7ccb91347cb58292090&scene=27#wechat_redirect)
 - [【前端之巅】容易被忽略的5个HTML技巧](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247506806&idx=2&sn=f088238e232600ebabbfc44390c394aa&chksm=f9526e35ce25e723db74e4fd001405765e15ae74ee3853799f4ec70a0f8dc6ca381be7b7a457&scene=27#wechat_redirect)
 - [【前端之巅】HTML规范未来还需要哪些新内容？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492269&idx=2&sn=6bfd6cee50f9ec6b96ab0ba7592939cc&chksm=f95257eece25def86b3ad56aefa87f8c7c1f5dbbc1760ebc5fbbd146d346a05629c1e8342005#rd)
+- [【前端之神】前端展示图片，到底该不该用-img-标签？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505550&idx=1&sn=1affe3bf61710cc452db171700a262ff&chksm=ce45c31ff9324a096327041f8f69252e70234f8f2f8a1a08831af7395d3a454dd623d6049d05#rd)
 - [【前端之神】比-html2canvas-快-30-倍的截图神器！项目已使用！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505287&idx=1&sn=c328bfcfb2b6af070637f81824013c7a&chksm=ce45c016f9324900a3988e6e061218d75b5f8c1f5b56cc61c3bcaeaf7c94ae440ae635023dd2#rd)
 - [【前端之神】前端展示图片，到底该不该用-img-标签？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247503475&idx=1&sn=0d41888791d18d448a4464adedbdd299&chksm=ce45dbe2f93252f42b3f3ede46f49875e9f680eead13e30cddfc928cb1b12951fd3367037dbf#rd)
 - [【前端之神】你真的会用&lt;a&gt;标签下载文件吗?](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489250&idx=1&sn=3d2430313abc7e5cf2784baaae102a7b&chksm=ce460373f9318a650179bda6f4a6e5588e2c571adbf3c0c716e0abb5d0bcbb36d3ea1518a499#rd)
@@ -417,7 +418,6 @@
 - [【前端之神】Input标签这么牛？居然也自带颜色选择器功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486913&idx=1&sn=eb5a63a24332c1da903b493fc370c98a&chksm=ce461850f9319146b4857125d96006c5065df8f10239d9c40ca0d92af9b2e63f84268fd82764#rd)
 - [【前端之神】有意思的面试题：统计页面出现次数前三的标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486188&idx=1&sn=f330456718f5bba6d772a11ed78149b1&chksm=ce461f7df931966bc21360053c727ef11bc8e850eb2566c041db661c9a509916bb30167e2540#rd)
 - [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=1&sn=799ef858a8d64804adbd5ebc25ad03b9&chksm=87c45d60b0b3d476af82360959df1c8c803b7d47b76cd1f416c0e2ed0e7923671fea8b77472e#rd)
-- [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=1&sn=0a6225ad1c7fa7db92f4f1421c56f704&chksm=87c4201eb0b3a908673b3ddcbeb562039935f2e5268e74903eb32a86afad6d3d5224009277b3#rd)
 - [查看更多 >](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
