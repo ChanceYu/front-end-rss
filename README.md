@@ -14,23 +14,23 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-11 06:08:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-11 12:11:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
-- [前端从进阶到入院](#前端从进阶到入院)  
+- [前端从进阶到入院](#前端从进阶到入院)![](/assets/dot.png)   
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-09-11-【第3585期】开发者必试的-Chrome-API](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277398&idx=1&sn=e12d3ef550c8622a1831ab99c9489c13&chksm=bcc39e9739736ef439d34464636333c768f6d7e16334b160ed82a8ba792f3363492d0ea17a1c&scene=0#rd) ![](/assets/new.png)  
 - [2025-09-10-【早阅】Notion-MCP-服务器幕后揭秘](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277391&idx=1&sn=aef968dd07e64c16f3cd7855cd7c5a10&chksm=bce83d502b7719f161b1d28099bbcddb37df0153722dc771a14d892b7b4a2029445166b4372e&scene=0#rd)  
 - [2025-09-09-【早阅】Vue-的演进：从框架到生态系统](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277385&idx=1&sn=e1f1bd391b25cc3ec8120e8752c9ace2&chksm=bc277ce1c13a5cdec8f69221e235bd55553e12338c24dd05b3c5446c09f572d8953747295165&scene=0#rd)  
 - [2025-09-08-【第3584期】微信小程序端智能项目工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277365&idx=1&sn=1892eb28b56af9a02e0704a3c7bc6987&chksm=bcd7a6e4cc8474ff2b89915305125fd6bb2fff1ffb5917dff6816961ce73f58324fcdece8a66&scene=0#rd)  
@@ -118,8 +119,8 @@
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
 - [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)  
 - [2025-08-29-【第3578期】内置-AI-Web-API设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277322&idx=1&sn=ebbb13276ff892ea767867b37b6b4691&chksm=bcdb3760519b6c17fe6155d9c9517939949fda97f73252eae8740af277d0a0fe384bb9b15bb7&scene=0#rd)  
-- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
 - [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd)  
+- [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
 - [2025-08-27-【第3576期】前端的随机魔法：CSS-random-全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277311&idx=1&sn=34cdfc8b9846c4d79daeea52e64f8f36&chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&scene=0#rd)  
 - [2025-08-26-【早阅】用-Claude-编程：提示词入门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277297&idx=1&sn=a1f44d24c88946d8015a2fa14d2ff08c&chksm=bce1926115e42539857999edd730bfc5a7dca3ebc2d737e76b13542b85e9d620bafb82ddc5cb&scene=0#rd)  
 - [2025-08-25-【第3575期】解锁-AI-响应中的丰富-UI-组件渲染](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277284&idx=1&sn=c96010fa50abd506a21064e332bbf967&chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&scene=0#rd)  
@@ -127,7 +128,6 @@
 - [2025-08-21-【第3574期】可以这样写-JavaScript？！ES2025-新语法糖](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277268&idx=1&sn=4d8811545f55bfdcf3a4b96e082c2b42&chksm=bcaaf0ee4a38b055db7329f3c27cf412f737ed2b87e8895ccc5ef13c56bc1d6ef2cf6b03ae33&scene=0#rd)  
 - [2025-08-20-【第3573期】初高级开发者：如何使用-ChatGPT-编程（关键区别解析）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277262&idx=1&sn=4624ca688bfa73a974c9c03129c5f195&chksm=bce5c6173efc08d2014671f2ecd3972702962e44373b62cda07cb5f886c23546c9f6ae35864b&scene=0#rd)  
 - [2025-08-19-【第3572期】JSON-提示词：打造完美-AI-输出的终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277257&idx=1&sn=ef5867750ddcd1c8dd1586c30e6577fc&chksm=bc6dc6bb0901420ac50e78d968597a89fb1f36b7e878bb4ac7088fac0d4dd3e1c2c566517901&scene=0#rd)  
-- [2025-08-18-【早阅】OpenAI工程师：沟通是编程的核心价值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=1&sn=3785b80105ed8f47ea54de68a1fec60a&chksm=bc142386b932d1325c95eb9dd20c97fb0200f7b5fc65b426d0ad38cbd2034dad3d428f23f2c1&scene=0#rd)  
 - [2025-08-18-【图书】这就是MCP](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277249&idx=2&sn=8c1479ca229f43b7fd3d400429dd5c34&chksm=bc3917a4333a3521c91d0a4aaa319f7bcdc5b4745ee4f4d6078d4e457c56268f194da2041d77&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
@@ -264,7 +264,7 @@
 </summary>
 
 
-- [2025-09-10-建议收藏！JavaScript+Vue3+React一次全吃透！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527783&idx=1&sn=2d9848c80736ce280fe8bbdb381c1f7f&chksm=f9926bb6cee5e2a0661161717a61fddfbdf11f5f1f0fee2e8c28580853236c802e91f34b24b8#rd) ![](/assets/new.png)  
+- [2025-09-10-建议收藏！JavaScript+Vue3+React一次全吃透！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527783&idx=1&sn=2d9848c80736ce280fe8bbdb381c1f7f&chksm=f9926bb6cee5e2a0661161717a61fddfbdf11f5f1f0fee2e8c28580853236c802e91f34b24b8#rd)  
 - [2025-09-09-分享-9个-使用promises的技巧](http://mp.weixin.qq.com/s/MUr29XUJjAouaYrwmXvrOg)  
 - [2025-09-08-WebRTC实现网页直播](http://mp.weixin.qq.com/s/uA7BofPS-sT0yNMrhjWRfg)  
 - [2025-09-05-使用-Cursor-不会这个超牛-MCP-还没用过吧！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527753&idx=1&sn=9cf8129d9d62d15ffbbe13fd6929474e&chksm=f9926b98cee5e28ebd45d203e1184a8824c00589b12bc08a86c111d7a3a461f04a81a12cc587#rd)  
@@ -419,6 +419,8 @@
 </summary>
 
 
+- [2025-09-10-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/fehSIPDfxAc7ubKKclvcCQ) ![](/assets/new.png)  
+- [2025-09-10-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s/PhSCpJ6uX2ONNcsjCXmNqw) ![](/assets/new.png)  
 - [2025-09-08-2025-年了，Vite+Vue3-微前端该用啥方案？5-大主流方案实战对比](http://mp.weixin.qq.com/s/g2jP2Q_FptCIeiDNywJDwQ)  
 - [2025-09-05-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ)  
 - [2025-09-04-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s/bc6lWUFZC1lZDW43hx7UrQ)  
@@ -437,8 +439,6 @@
 - [2025-08-08-2-个插件！-让-VSCode-中-console.log-开启「自动驾驶」模式！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517368&idx=1&sn=602734ead5d2f758b59d05449e02e28c&chksm=eb07bcc1dc7035d76ad8aa2493584f18045a47843cd210800f28d4c98e847ad968b1bfd28fc6#rd)  
 - [2025-08-07-再见-try/catch，我有更好的选择了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517366&idx=1&sn=12fb99bbbaf3e053670365c794dff30a&chksm=eb07bccfdc7035d91a55b7a8ea2bc9568fcb2f0ae4eaf6635169e603aaf6af5ab3e73db64fe3#rd)  
 - [2025-08-06-Vue3.6-都来了，v-model-的-"新玩法"-还有这么多人不会！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517364&idx=1&sn=bb4171c0ad6c5c266ed35137845eb69c&chksm=eb07bccddc7035db12a52ff2e5595a9eba96cc2722385998157dd2c0b01b17c12cbd6679f08f#rd)  
-- [2025-08-05-尤雨溪推荐的-Vue3-表单神器！体积小功能强大！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517362&idx=1&sn=1b8d2c73e9c5c1a3c881688faed7cc59&chksm=eb07bccbdc7035dde20d64242fa66555bcf6818f94a465d13b39bc019a8634390c294a16145a#rd)  
-- [2025-08-04-Vue-与-Vite-生态最新进展：迈向一体化与智能化的未来](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517360&idx=1&sn=cd3b593b8fc14df3bada4de7edfa5401&chksm=eb07bcc9dc7035dfd77f51a5ae7c87a4330f0ba6200ade8eb8c2e989a86cd8562f34a13229f4#rd)  
 - [查看更多 >](/details/前端从进阶到入院.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
