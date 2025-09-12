@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-12T04:11:02.602Z</updated>
+    <updated>2025-09-12T16:09:49.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[【第3586期】从规范看 JavaScript 数组：隐藏的对象属性]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd"/>
+        <updated>2025-09-12T00:00:00.000Z</updated>
+        <published>2025-09-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Package efficiency and dependency hygiene]]></title>
+        <id>https://javascriptweekly.com/issues/752</id>
+        <link href="https://javascriptweekly.com/issues/752"/>
         <updated>2025-09-12T00:00:00.000Z</updated>
         <published>2025-09-12T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
         <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
         <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
-        <updated>2025-08-25T00:00:00.000Z</updated>
-        <published>2025-08-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3575期】解锁 AI 响应中的丰富 UI 组件渲染]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277284&amp;idx=1&amp;sn=c96010fa50abd506a21064e332bbf967&amp;chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277284&amp;idx=1&amp;sn=c96010fa50abd506a21064e332bbf967&amp;chksm=bc4caab5eca1aedef2486743afcd0909a811bc65512a12a5ddc3bd55751eaf05ee9b0b1f8e8d&amp;scene=0#rd"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
