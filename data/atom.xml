@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-12T16:09:49.670Z</updated>
+    <updated>2025-09-12T20:09:59.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[把 Canvas 放到 WebWorker 中去绘制？想都不敢想有多爽！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505551&amp;idx=1&amp;sn=8cda5a63ebef3f8ea9f6e3e19c854726&amp;chksm=ce45c31ef9324a0876970ea8b6478d82e15d74d141130e4d7609b0c4f9165ba46f63415f8c5e#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505551&amp;idx=1&amp;sn=8cda5a63ebef3f8ea9f6e3e19c854726&amp;chksm=ce45c31ef9324a0876970ea8b6478d82e15d74d141130e4d7609b0c4f9165ba46f63415f8c5e#rd"/>
+        <updated>2025-09-12T00:00:00.000Z</updated>
+        <published>2025-09-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3586期】从规范看 JavaScript 数组：隐藏的对象属性]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277413&amp;idx=1&amp;sn=6cd7cd4a8dce0820aaca7d58b53af513&amp;chksm=bc38cfcfde3e1845ac49cf1930fd5206f64c06546d280e7936f4321df4d242f24849b405b3dc&amp;scene=0#rd</id>
@@ -246,16 +253,16 @@
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
-        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
-        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
+        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
-        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
+        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
+        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
+        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[我天，Vue3 已沦为老二。。]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651622919&amp;idx=1&amp;sn=cbaf8354f4512436db2fb5ba91ee871c&amp;chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd"/>
-        <updated>2025-08-25T00:00:00.000Z</updated>
-        <published>2025-08-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过代码看 React 的历史]]></title>
-        <id>http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA</id>
-        <link href="http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA"/>
         <updated>2025-08-25T00:00:00.000Z</updated>
         <published>2025-08-25T00:00:00.000Z</published>
     </entry>
