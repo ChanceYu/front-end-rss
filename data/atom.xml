@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-13T02:39:54.501Z</updated>
+    <updated>2025-09-13T08:11:06.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[为什么语义 HTML 仍然重要？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd"/>
+        <updated>2025-09-12T00:00:00.000Z</updated>
+        <published>2025-09-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[把 Canvas 放到 WebWorker 中去绘制？想都不敢想有多爽！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505551&amp;idx=1&amp;sn=8cda5a63ebef3f8ea9f6e3e19c854726&amp;chksm=ce45c31ef9324a0876970ea8b6478d82e15d74d141130e4d7609b0c4f9165ba46f63415f8c5e#rd</id>
@@ -41,6 +48,13 @@
         <link href="https://javascriptweekly.com/issues/752"/>
         <updated>2025-09-12T00:00:00.000Z</updated>
         <published>2025-09-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tailwindcss 究竟比 unocss 快多少？]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527806&amp;idx=1&amp;sn=6291a5ee62a7f65fe12c64cc7996065b&amp;chksm=f9926bafcee5e2b9aaf9009c107b9ef92ef611b0e32342dec9663628b9042c786c2571ab467a#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527806&amp;idx=1&amp;sn=6291a5ee62a7f65fe12c64cc7996065b&amp;chksm=f9926bafcee5e2b9aaf9009c107b9ef92ef611b0e32342dec9663628b9042c786c2571ab467a#rd"/>
+        <updated>2025-09-11T00:00:00.000Z</updated>
+        <published>2025-09-11T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端展示图片，到底该不该用 img 标签？]]></title>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505437&amp;idx=1&amp;sn=79c302dc4eb606be0e496d66bbf25c6d&amp;chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd"/>
         <updated>2025-08-26T00:00:00.000Z</updated>
         <published>2025-08-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS 小技巧：如何将 img 转换成 background-image]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490764&amp;idx=1&amp;sn=5fb164e0dc41dfdbc33b63c23df3455e&amp;chksm=97c67f03a0b1f615220c599cc96c08468ed3e0347620bd05a9c2dba7bbd0b177546e7913378c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&amp;mid=2247490764&amp;idx=1&amp;sn=5fb164e0dc41dfdbc33b63c23df3455e&amp;chksm=97c67f03a0b1f615220c599cc96c08468ed3e0347620bd05a9c2dba7bbd0b177546e7913378c#rd"/>
-        <updated>2025-08-25T00:00:00.000Z</updated>
-        <published>2025-08-25T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 团队成员新作：node-modules 可视化神器！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505436&amp;idx=1&amp;sn=59194420ef541688f91dacb8b968ce6d&amp;chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505436&amp;idx=1&amp;sn=59194420ef541688f91dacb8b968ce6d&amp;chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd"/>
-        <updated>2025-08-25T00:00:00.000Z</updated>
-        <published>2025-08-25T00:00:00.000Z</published>
     </entry>
 </feed>
