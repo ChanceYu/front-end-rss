@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-15T12:18:18.477Z</updated>
+    <updated>2025-09-15T14:10:56.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -48,6 +48,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517424&amp;idx=1&amp;sn=deb734b4d280a69398aaeaab41ade117&amp;chksm=eb07bc89dc70359f43091c45d607aa26c7209efb228a77e2c15255bde1ccecc5426d8d164f32#rd"/>
         <updated>2025-09-14T00:00:00.000Z</updated>
         <published>2025-09-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505553&amp;idx=1&amp;sn=92da27f4770e841458538a06909f866e&amp;chksm=ce45c300f9324a1614cb3964ee6b93c0604936bf8d2a013ef0b1ccf26c7ae3539a0b34f1bce7#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505553&amp;idx=1&amp;sn=92da27f4770e841458538a06909f866e&amp;chksm=ce45c300f9324a1614cb3964ee6b93c0604936bf8d2a013ef0b1ccf26c7ae3539a0b34f1bce7#rd"/>
+        <updated>2025-09-13T00:00:00.000Z</updated>
+        <published>2025-09-13T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么语义 HTML 仍然重要？]]></title>
@@ -309,16 +316,16 @@
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
-        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
+        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
+        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
+        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
-        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
-        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
+        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[纯前端实现图片伪3D视差效果]]></title>
         <id>http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw</id>
         <link href="http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw"/>
-        <updated>2025-08-27T00:00:00.000Z</updated>
-        <published>2025-08-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 团队“王炸”新作！又一打包工具发布！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505440&amp;idx=1&amp;sn=7fa1613e527c947617ac18d51515c5b6&amp;chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505440&amp;idx=1&amp;sn=7fa1613e527c947617ac18d51515c5b6&amp;chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd"/>
         <updated>2025-08-27T00:00:00.000Z</updated>
         <published>2025-08-27T00:00:00.000Z</published>
     </entry>
