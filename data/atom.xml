@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-13T08:11:06.641Z</updated>
+    <updated>2025-09-15T04:12:44.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3587期】检查 JavaScript 原生函数是否被 monkey patch 过]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277417&amp;idx=1&amp;sn=3c266637264771e1a91b4364ca196509&amp;chksm=bc0ab2753daa1f370f6efc03404dcd563d645c99c810d7aff7dbfc754e99ee25c60968d6ebeb&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277417&amp;idx=1&amp;sn=3c266637264771e1a91b4364ca196509&amp;chksm=bc0ab2753daa1f370f6efc03404dcd563d645c99c810d7aff7dbfc754e99ee25c60968d6ebeb&amp;scene=0#rd"/>
+        <updated>2025-09-15T00:00:00.000Z</updated>
+        <published>2025-09-15T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么语义 HTML 仍然重要？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527814&amp;idx=1&amp;sn=f0d28c0419b2fa04fa24aaa122ec633c&amp;chksm=f9926b57cee5e241e3ca3cfd8f71b34fbb2ede9caa87ca6b1932526faa9fb0d5447a093622e3#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[还在用html2canvas？介绍一个比它快100倍的截图神器！]]></title>
         <id>http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g</id>
         <link href="http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g"/>
-        <updated>2025-08-26T00:00:00.000Z</updated>
-        <published>2025-08-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promise.all的时代终结了，新方法即将取代他]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505437&amp;idx=1&amp;sn=79c302dc4eb606be0e496d66bbf25c6d&amp;chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505437&amp;idx=1&amp;sn=79c302dc4eb606be0e496d66bbf25c6d&amp;chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd"/>
         <updated>2025-08-26T00:00:00.000Z</updated>
         <published>2025-08-26T00:00:00.000Z</published>
     </entry>
