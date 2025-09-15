@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-15T04:12:44.652Z</updated>
+    <updated>2025-09-15T08:15:10.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -15,11 +15,25 @@
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
     <entry>
+        <title type="html"><![CDATA[Vue 官方插件重磅更新，三大高级功能免费了！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517426&amp;idx=1&amp;sn=42ce55079850a61d640211149fd66039&amp;chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517426&amp;idx=1&amp;sn=42ce55079850a61d640211149fd66039&amp;chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd"/>
+        <updated>2025-09-15T00:00:00.000Z</updated>
+        <published>2025-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【第3587期】检查 JavaScript 原生函数是否被 monkey patch 过]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277417&amp;idx=1&amp;sn=3c266637264771e1a91b4364ca196509&amp;chksm=bc0ab2753daa1f370f6efc03404dcd563d645c99c810d7aff7dbfc754e99ee25c60968d6ebeb&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277417&amp;idx=1&amp;sn=3c266637264771e1a91b4364ca196509&amp;chksm=bc0ab2753daa1f370f6efc03404dcd563d645c99c810d7aff7dbfc754e99ee25c60968d6ebeb&amp;scene=0#rd"/>
         <updated>2025-09-15T00:00:00.000Z</updated>
         <published>2025-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 全新 API：2 个属性！100+ 特效！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517424&amp;idx=1&amp;sn=deb734b4d280a69398aaeaab41ade117&amp;chksm=eb07bc89dc70359f43091c45d607aa26c7209efb228a77e2c15255bde1ccecc5426d8d164f32#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517424&amp;idx=1&amp;sn=deb734b4d280a69398aaeaab41ade117&amp;chksm=eb07bc89dc70359f43091c45d607aa26c7209efb228a77e2c15255bde1ccecc5426d8d164f32#rd"/>
+        <updated>2025-09-14T00:00:00.000Z</updated>
+        <published>2025-09-14T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[为什么语义 HTML 仍然重要？]]></title>
@@ -347,20 +361,6 @@
         <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
-        <updated>2025-08-26T00:00:00.000Z</updated>
-        <published>2025-08-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue 团队成员新作：node-modules 可视化神器！]]></title>
-        <id>http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag</id>
-        <link href="http://mp.weixin.qq.com/s/_qqmmPedk9x7BYUcM3s3ag"/>
-        <updated>2025-08-26T00:00:00.000Z</updated>
-        <published>2025-08-26T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还在用html2canvas？介绍一个比它快100倍的截图神器！]]></title>
-        <id>http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g</id>
-        <link href="http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g"/>
         <updated>2025-08-26T00:00:00.000Z</updated>
         <published>2025-08-26T00:00:00.000Z</published>
     </entry>
