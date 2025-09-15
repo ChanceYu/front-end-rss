@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-15T08:15:10.055Z</updated>
+    <updated>2025-09-15T10:11:17.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -18,6 +18,13 @@
         <title type="html"><![CDATA[Vue 官方插件重磅更新，三大高级功能免费了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517426&amp;idx=1&amp;sn=42ce55079850a61d640211149fd66039&amp;chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517426&amp;idx=1&amp;sn=42ce55079850a61d640211149fd66039&amp;chksm=eb07bc8bdc70359d78a7ff7c0ac5d152bd4a1d072350fddf7a0f9765748cbc2e6b2f80fc11bf#rd"/>
+        <updated>2025-09-15T00:00:00.000Z</updated>
+        <published>2025-09-15T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue3 后台分页写腻了？我用 1 个 Hook 删掉 90% 重复代码（附源码）]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527841&amp;idx=1&amp;sn=53d202f7265b52d28313cbefab0a53b0&amp;chksm=f9926b70cee5e2661b44663248a8ee732c98c0f63e8e0bbc337c6dfefa116f309dc631465cba#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527841&amp;idx=1&amp;sn=53d202f7265b52d28313cbefab0a53b0&amp;chksm=f9926b70cee5e2661b44663248a8ee732c98c0f63e8e0bbc337c6dfefa116f309dc631465cba#rd"/>
         <updated>2025-09-15T00:00:00.000Z</updated>
         <published>2025-09-15T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277311&amp;idx=1&amp;sn=34cdfc8b9846c4d79daeea52e64f8f36&amp;chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&amp;scene=0#rd"/>
         <updated>2025-08-27T00:00:00.000Z</updated>
         <published>2025-08-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
-        <updated>2025-08-26T00:00:00.000Z</updated>
-        <published>2025-08-26T00:00:00.000Z</published>
     </entry>
 </feed>
