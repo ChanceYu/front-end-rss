@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-16T04:11:46.199Z</updated>
+    <updated>2025-09-16T16:11:43.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[Typescript 必须的所有技巧]]></title>
+        <id>http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ</id>
+        <link href="http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ"/>
+        <updated>2025-09-16T00:00:00.000Z</updated>
+        <published>2025-09-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pnpm adds support for delayed dependency updates]]></title>
+        <id>https://nodeweekly.com/issues/593</id>
+        <link href="https://nodeweekly.com/issues/593"/>
+        <updated>2025-09-16T00:00:00.000Z</updated>
+        <published>2025-09-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用CSS linear()函数实现更逼真的物理动画效果]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/</id>
@@ -316,16 +330,16 @@
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
-        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
-        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
+        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
+        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
+        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）]]></title>
-        <id>http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g</id>
-        <link href="http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g"/>
+        <title type="html"><![CDATA[总结了十个Vue3超级实用但是很冷门的API]]></title>
+        <id>http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg</id>
+        <link href="http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527703&amp;idx=1&amp;sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&amp;chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd"/>
         <updated>2025-08-28T00:00:00.000Z</updated>
         <published>2025-08-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promise.all的时代终结了，新方法即将取代他]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517390&amp;idx=1&amp;sn=9203408da36c085710e0e7428d333931&amp;chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517390&amp;idx=1&amp;sn=9203408da36c085710e0e7428d333931&amp;chksm=eb07bcb7dc7035a1939471a830c648b2e666304edfd3af17f9b34c0016145dd6937897b6205f#rd"/>
-        <updated>2025-08-27T00:00:00.000Z</updated>
-        <published>2025-08-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯前端实现图片伪3D视差效果]]></title>
-        <id>http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw</id>
-        <link href="http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw"/>
-        <updated>2025-08-27T00:00:00.000Z</updated>
-        <published>2025-08-27T00:00:00.000Z</published>
     </entry>
 </feed>

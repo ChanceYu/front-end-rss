@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-16 12:11:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-17 00:11:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -150,6 +150,7 @@
 - [2019-01-27-Yarn将用TypeScript重写，Flow惨遭亲爹抛弃！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490340&idx=1&sn=dfb6ce4424aaa7ed038ff83bc9fc7ccf#wechat_redirect) 
 - [2019-01-16-我们是如何将3万代码从Flow移植到TypeScript的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490289&idx=1&sn=e81587b59beb71d4e174de7aedeec8c2#wechat_redirect) 
 - [2018-12-17-别骗自己了，你不用TypeScript的理由站不住脚](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490117&idx=1&sn=d38a3344e413e4391198b20127898da2#wechat_redirect) 
+- [2025-09-16-Typescript-必须的所有技巧](http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ) 
 - [2025-07-30-未来，所有-Typescript-项目性能将飙升-15-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505196&idx=1&sn=01a580ac4a838e991f0cb348ee14319b&chksm=ce45c0bdf93249ab2fac6f8e8bb6903e7ebd948e715fd2b9bc3912dbd53b097655e1f3a98806#rd) 
 - [2025-05-26-正式发布！TypeScript-提升了-10-倍的性能](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247504491&idx=1&sn=6dafe32a6b7960c4475aa283d138231c&chksm=ce45c7faf9324eec9487a8bb903b46c85bd815ccd497edee8ed695bf504a9572fd66dc301289#rd) 
 - [2025-02-21-为什么很多人用-Typescript-，跟没用一样？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247502758&idx=1&sn=c13a8dc07ee3d5f9ac288cece69041fc&chksm=ce45de37f9325721debd8e12d11462704449c549a8b01299cb999cd0f99b5a3af6d114ba4a94#rd) 
