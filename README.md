@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-17 20:17:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-17 22:10:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -32,7 +32,7 @@
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)  
+- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -140,7 +140,7 @@
 </summary>
 
 
-- [2025-09-16-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623063&idx=1&sn=7957cf5bc92bfec304db1e389232407d&chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd) ![](/assets/new.png)  
+- [2025-09-16-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623063&idx=1&sn=7957cf5bc92bfec304db1e389232407d&chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd)  
 - [2025-09-12-什么？2025年了发版后还要手动清浏览器缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623026&idx=1&sn=b63696b7d6e8f7e09d99869763807c6c&chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd)  
 - [2025-09-10-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s/JyzqDMZKuTIV45f7bt5jtw)  
 - [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ)  
@@ -481,6 +481,7 @@
 </summary>
 
 
+- [2025-09-17-多模态AI质检：身份核验场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541540&idx=1&sn=c5a3f2608f86fae9b2ace8c02f531bbd&chksm=8390c5fcb4e74cea13caf3f49bc74fa4db07c9ee34b10f30640ae5379ab9a979f791ee464793#rd) ![](/assets/new.png)  
 - [2025-09-12-基于智能体的自适应资损防控体系---淘工厂实践（二）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541485&idx=1&sn=03e90d33ba3a58f52920f83427686efb&chksm=8390c5b5b4e74ca374a5ab2b9e09e7f081888d264d6672a396cfcef1550ec66088cdd5a1c939#rd)  
 - [2025-09-10-AI赋能前端开发提效实践：以长颈鹿接入为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541484&idx=1&sn=058ca5192c0f4454cee0283faf65ab7c&chksm=8390c5b4b4e74ca2117802dd99ca10c3eedcbeb1f59951a129a7b536d18615364ffa5cd51afc#rd)  
 - [2025-09-08-让你的大模型读懂二方包](http://mp.weixin.qq.com/s/kWLMDhpkP01U6jFbysxhMA)  
@@ -490,8 +491,8 @@
 - [2025-08-29-HSF-序列化不可变集合类型问题原因分析](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541395&idx=1&sn=39d24185e3fa777de04671a48e39f0ba&chksm=8390c54bb4e74c5db77086cf8cedea47f3cb9f855f436be3ac385ea1e09893aebabf09f18f36#rd)  
 - [2025-08-27-分享一下我对好代码的理解](http://mp.weixin.qq.com/s/vJVIRN5MkKD__0guGgtyoQ)  
 - [2025-08-25-深入聊聊RAG](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541388&idx=1&sn=21e68d346e56ab2de7d23f72439add3c&chksm=8390c554b4e74c42479923260effc90a9fd872b028a9caffff24945a3bf039173f1719cd752b#rd)  
-- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-22-Jsonnet-一种“新”的Json数据转换工具](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=1&sn=24713a8efcf3b66138e629bda1afcffd&chksm=828d879d1931b439614af35e3d19ce40d8b8db6f5bb3c9da49303c3a920047b048c7688a1962&scene=0#rd)  
+- [2025-08-22-淘天26届秋招技术岗位推介专场直播预告](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541369&idx=2&sn=68a4e6e03d52b7e3406cfa0305c04c2c&chksm=82b044ffde904d1402bd45b72f55f04286f6447b676548577d11843e956bbff388728a9dd216&scene=0#rd)  
 - [2025-08-20-一位Cursor深度用户的原理探析与实验验证](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541333&idx=1&sn=48a4eb5c1ab1f39630124038d31ec715&chksm=82fbbea002856238d139d77ec79d60b3f1eb136d3e71501298f60b2e3f958c946da5873b71be&scene=0#rd)  
 - [2025-08-18-淘宝购物车拖拽功能的思考与实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541315&idx=1&sn=b9f93d3995fc5b25c5eed17b00c24115&chksm=82d2352e90a2533f9966546b9863859f4525df737a27a86c5622d93903f73cc83e6c92700982&scene=0#rd)  
 - [2025-08-15-MNN-LLM-Chat-iOS-流式输出优化实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541282&idx=1&sn=c7e80789f8a1e4ebaebc8e34c55a9829&chksm=821fece97b1977f767eaf3c6395a452a2bbed66df7fa30cec3f08ce529a3c7391b9881ba5d45&scene=0#rd)  
@@ -500,7 +501,6 @@
 - [2025-08-08-淘宝交易前端AI生码技术的创新实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541220&idx=1&sn=6dff8b53d47dfd2f5fc451fe1ce08e01&chksm=8390c4bcb4e74daabc0e041c395fd505198a006490b3a4215569f8f6954044c3bbefbb42fd19#rd)  
 - [2025-08-06-Web-Agent大对决：你的AI浏览器理想型，会是哪一个？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541112&idx=1&sn=0a6ca5895272636b5260e52362d83164&chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd)  
 - [2025-08-04-基于智能体的自适应测试系统---淘工厂实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541100&idx=1&sn=5b31e9eb24882f5529bdaea79e6034e6&chksm=82f878a4fb71a9b549418f63e302516357baaf55788a85486c6a698f421d1ab2e96f20636fd8&scene=0#rd)  
-- [2025-08-01-聊聊AI-Coding](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541057&idx=1&sn=d9a0346498998c0aaf5d0dbc485baa6e&chksm=822be0b7f042c9caa10e7d9a260b3db8c554d9738a670e95b153bee4cf5adea516c5a1cd447d&scene=0#rd)  
 - [查看更多 >](/details/淘系前端团队.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
