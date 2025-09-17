@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-17 22:10:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-18 02:13:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -29,10 +29,10 @@
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)  
+- [前端食堂](#前端食堂)![](/assets/dot.png)   
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
-- [淘系前端团队](#淘系前端团队)![](/assets/dot.png)   
+- [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -388,6 +388,7 @@
 </summary>
 
 
+- [2025-09-16-可灵AI新版数字人实测，有点过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504220&idx=1&sn=16564c368e6ab62f7293ae5d6e1706f8&chksm=c2b310a3f5c499b54e76937969a5d4d3d9ed95415f8566d1622e5e0a3e75fe1a9b76443c87f4#rd) ![](/assets/new.png)  
 - [2025-09-15-钉钉AI硬件DingTalk-A1，开会摸鱼的神](http://mp.weixin.qq.com/s/NjMHLsn0yZGje1USqrLd_Q)  
 - [2025-09-14-美团上线生活Agent小美，这次真掀桌子了](http://mp.weixin.qq.com/s/FO7ZXmwEQTd4t9cFU7XyTg)  
 - [2025-09-11-腾讯CodeBuddy-Code实测，比想象中更狠](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504127&idx=1&sn=9a0dbe59acf746eb8e52430037d304c0&chksm=c2b31100f5c49816c0afcdc48fc8a2f5da29eef49c89c380b8860aa27b76ffe1e4997350f612#rd)  
@@ -405,9 +406,8 @@
 - [2025-08-12-GLM-4.5V刚刚开源，智谱要飞上天](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503679&idx=1&sn=34cdb16925ef9bb1473538c5aafaefe7&chksm=c2b30ec0f5c487d6531f58fe26daca8a42cdde4906a9e7108ba9fed83eaf44ba14129b43f7c8#rd)  
 - [2025-08-11-谷歌重磅发布Genie-3，这回真没有边界感了](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247503655&idx=1&sn=f6605f8c4a52dbf872182228fcc2470e&chksm=c2b30ed8f5c487cee5e5ee2c2f7aa9fb3f33ce641d24223f161c5a463ffddd17dc5009bc09b4#rd)  
 - [2025-08-08-OpenAI-GPT-5来了，但AGI没来](http://mp.weixin.qq.com/s/FmtSWG-qcbPNIjM_Uvt8bw)  
-- [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
 - [2025-08-07-Claude-4.1-Opus实测，这是程序员真正的神](http://mp.weixin.qq.com/s/TYUnl9I85aV9DyQBVeBzAA)  
-- [2025-08-06-OpenAI开源2款模型，实测有点离谱](http://mp.weixin.qq.com/s/Lrckf5a0WsuVeSRfB7FbeQ)  
+- [2025-08-07-谷歌Storybook故事生成器实测，我哭了一整夜](http://mp.weixin.qq.com/s/a_gtT4p8Qk5ZN0MjmpX86A)  
 - [查看更多 >](/details/前端食堂.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -481,7 +481,7 @@
 </summary>
 
 
-- [2025-09-17-多模态AI质检：身份核验场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541540&idx=1&sn=c5a3f2608f86fae9b2ace8c02f531bbd&chksm=8390c5fcb4e74cea13caf3f49bc74fa4db07c9ee34b10f30640ae5379ab9a979f791ee464793#rd) ![](/assets/new.png)  
+- [2025-09-17-多模态AI质检：身份核验场景实践](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541540&idx=1&sn=c5a3f2608f86fae9b2ace8c02f531bbd&chksm=8390c5fcb4e74cea13caf3f49bc74fa4db07c9ee34b10f30640ae5379ab9a979f791ee464793#rd)  
 - [2025-09-12-基于智能体的自适应资损防控体系---淘工厂实践（二）](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541485&idx=1&sn=03e90d33ba3a58f52920f83427686efb&chksm=8390c5b5b4e74ca374a5ab2b9e09e7f081888d264d6672a396cfcef1550ec66088cdd5a1c939#rd)  
 - [2025-09-10-AI赋能前端开发提效实践：以长颈鹿接入为例](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541484&idx=1&sn=058ca5192c0f4454cee0283faf65ab7c&chksm=8390c5b4b4e74ca2117802dd99ca10c3eedcbeb1f59951a129a7b536d18615364ffa5cd51afc#rd)  
 - [2025-09-08-让你的大模型读懂二方包](http://mp.weixin.qq.com/s/kWLMDhpkP01U6jFbysxhMA)  
