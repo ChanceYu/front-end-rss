@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-17T04:11:31.478Z</updated>
+    <updated>2025-09-17T12:17:58.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -25,6 +25,13 @@
         <title type="html"><![CDATA[Typescript 必须的所有技巧]]></title>
         <id>http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ</id>
         <link href="http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ"/>
+        <updated>2025-09-16T00:00:00.000Z</updated>
+        <published>2025-09-16T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React已死，Vue已凉，前端AI彻底称王！]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623063&amp;idx=1&amp;sn=7957cf5bc92bfec304db1e389232407d&amp;chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623063&amp;idx=1&amp;sn=7957cf5bc92bfec304db1e389232407d&amp;chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd"/>
         <updated>2025-09-16T00:00:00.000Z</updated>
         <published>2025-09-16T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="https://javascriptweekly.com/issues/750"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终极方案：Vue3 中把 Axios 用到极致！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd"/>
-        <updated>2025-08-28T00:00:00.000Z</updated>
-        <published>2025-08-28T00:00:00.000Z</published>
     </entry>
 </feed>
