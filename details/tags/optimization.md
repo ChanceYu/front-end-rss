@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-17 00:11:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-17 12:11:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-09-17-【第3589期】写好工具，智能体才更聪明：Claude-的自我优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277436&idx=1&sn=c42d1bb443644528beae154177405565&chksm=bc7ed3e1d74d40eb5e274503080e624ab4d71d5d359d1c7f7b24fe18596f69debc7925f4bd0b&scene=0#rd) 
 - [2025-07-24-【第3557期】使用-useOptimistic-让应用即时响应](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277043&idx=1&sn=dfb90d213c9401e9888a0121b0edce14&chksm=bc1685e5b06f977099fb9344b296723f40b3ad46e73ee66284df7ddf630e164daddb741b9247&scene=0#rd) 
 - [2025-07-15-【第3550期】盘点字体性能优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276936&idx=1&sn=7aa45eb5f2c6b3314371b14ccc348820&chksm=bcbb6213d433c81132b2ef77e7cc2118ede3851c92ab117fea3c8a646a5c4901e13f0e558855&scene=0#rd) 
 - [2025-07-09-【第3546期】如何让-CKEditor-缩小-40%-的：一次深入的包体积优化探索](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276911&idx=1&sn=fe053d1f31a6c1e3b684933492315597&chksm=bc47535d7e9ae7393944149e4c2db00083cc617ecdde6aa4f0f54b86d849f3ea6830c43a0331&scene=0#rd) 

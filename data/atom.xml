@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-16T16:11:43.998Z</updated>
+    <updated>2025-09-17T04:11:31.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3589期】写好工具，智能体才更聪明：Claude 的自我优化实践]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277436&amp;idx=1&amp;sn=c42d1bb443644528beae154177405565&amp;chksm=bc7ed3e1d74d40eb5e274503080e624ab4d71d5d359d1c7f7b24fe18596f69debc7925f4bd0b&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277436&amp;idx=1&amp;sn=c42d1bb443644528beae154177405565&amp;chksm=bc7ed3e1d74d40eb5e274503080e624ab4d71d5d359d1c7f7b24fe18596f69debc7925f4bd0b&amp;scene=0#rd"/>
+        <updated>2025-09-17T00:00:00.000Z</updated>
+        <published>2025-09-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typescript 必须的所有技巧]]></title>
         <id>http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[终极方案：Vue3 中把 Axios 用到极致！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517392&amp;idx=1&amp;sn=3fd3a7bf8f4f1079d26176e82c07486a&amp;chksm=eb07bca9dc7035bf1afde02d30a3113ab591fd65a20f5fbbcaab266c820a5406ef10f5cd8ec2#rd"/>
-        <updated>2025-08-28T00:00:00.000Z</updated>
-        <published>2025-08-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的H5页面在折叠屏上适配了吗？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527703&amp;idx=1&amp;sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&amp;chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527703&amp;idx=1&amp;sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&amp;chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd"/>
         <updated>2025-08-28T00:00:00.000Z</updated>
         <published>2025-08-28T00:00:00.000Z</published>
     </entry>
