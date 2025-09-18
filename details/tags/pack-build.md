@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-18 12:11:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-18 16:13:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -427,6 +427,7 @@
 - [2023-06-27-前端食堂技术周刊第-88-期：Svelte4、NestJS-10、State-of-CSS、Vitest-1.0-Roadmap](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498249&idx=1&sn=043ecf8f69614ccf77d4e594b1c6d778&chksm=c2b33bf6f5c4b2e09ffd029fa437a148a52de6ec5bb5ea7b6108d356cbdd78bdf953c77d3fcf#rd) 
 - [2023-04-24-前端食堂技术周刊第-80-期：Vite-4.3、Node.js-20、TS-5.1-Beta、Windi-CSS-即将落幕](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247497918&idx=1&sn=39128bcca251c8ae48f01ad488d6414d&chksm=c2b33941f5c4b057990ec1536bb8ab8978157473fbd4a4220bec3a4190bae253b5569a1505ef#rd) 
 - [2023-01-17-前端食堂技术周刊第-67-期：-2022-State-of-JS、ESLint-2022、pnpm-2022、大淘宝Web端技术](https://mp.weixin.qq.com/s/yoLG2uKs7kheR9t5NLLUdg) 
+- [2025-09-17-Vite-工作原理（简易版）——-从代码看核心逻辑](http://mp.weixin.qq.com/s/GKclqyHfxLjnic0j0JFI2Q) 
 - [2025-08-13-Vite-7.1.1-疑似遭受大规模-"攻击"！](http://mp.weixin.qq.com/s/LjVCmdK_quHhdyHfdawLQg) 
 - [2025-08-11-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517370&idx=1&sn=be4469dfeaf601cacc7febdd7451815c&chksm=eb07bcc3dc7035d516d735021f1993c54f6d4530007f40cd1c4c137a9c807745865b6dd5e6d4#rd) 
 - [2025-06-30-Vite-7.0-发布了！](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247517317&idx=1&sn=36cd01343c4367036cbef64b4b5312b3&chksm=eb07bcfcdc7035ea0b29036d7331a1174cbd4df5446870ce0bb0a8a0651e93283fba1cbf6870#rd) 

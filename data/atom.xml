@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-18T04:11:31.690Z</updated>
+    <updated>2025-09-18T08:13:01.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -20,6 +20,13 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277458&amp;idx=1&amp;sn=ef790ada9d8afb6d7dae669f30af16c2&amp;chksm=bc5da26ec854b9339a0d22eaadedfbbe37e863fe930cfaadf57e4128df7cb3c551f65e7ed044&amp;scene=0#rd"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 工作原理（简易版）—— 从代码看核心逻辑]]></title>
+        <id>http://mp.weixin.qq.com/s/GKclqyHfxLjnic0j0JFI2Q</id>
+        <link href="http://mp.weixin.qq.com/s/GKclqyHfxLjnic0j0JFI2Q"/>
+        <updated>2025-09-17T00:00:00.000Z</updated>
+        <published>2025-09-17T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[React 组件设计：9 种让你的 UI 坚不可摧的架构模式]]></title>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA"/>
         <updated>2025-08-31T00:00:00.000Z</updated>
         <published>2025-08-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/"/>
-        <updated>2025-08-29T00:00:00.000Z</updated>
-        <published>2025-08-29T00:00:00.000Z</published>
     </entry>
 </feed>
