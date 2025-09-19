@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-18T12:17:46.080Z</updated>
+    <updated>2025-09-19T04:12:04.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[【第3591期】GitHub Spec-Kit：规范驱动开发走在正确的方向上 - 严谨、渐进式的 Vibe Coding]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd"/>
+        <updated>2025-09-19T00:00:00.000Z</updated>
+        <published>2025-09-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
+        <updated>2025-09-18T00:00:00.000Z</updated>
+        <published>2025-09-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3590期】Node.js 搭建 MCP Server，实时获取最新 API 文档]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277458&amp;idx=1&amp;sn=ef790ada9d8afb6d7dae669f30af16c2&amp;chksm=bc5da26ec854b9339a0d22eaadedfbbe37e863fe930cfaadf57e4128df7cb3c551f65e7ed044&amp;scene=0#rd</id>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505487&amp;idx=1&amp;sn=d74d2975a3a24452b8f5835a6ab3c27c&amp;chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd"/>
         <updated>2025-09-01T00:00:00.000Z</updated>
         <published>2025-09-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3579期】OODA 循环与 Git Worktrees：来自 AI 辅助开发的九个启示]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277328&amp;idx=1&amp;sn=36651ba5d2e57954793aadc84c1c434c&amp;chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277328&amp;idx=1&amp;sn=36651ba5d2e57954793aadc84c1c434c&amp;chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&amp;scene=0#rd"/>
-        <updated>2025-09-01T00:00:00.000Z</updated>
-        <published>2025-09-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年现代 Node.js 开发模式]]></title>
-        <id>http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA</id>
-        <link href="http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA"/>
-        <updated>2025-08-31T00:00:00.000Z</updated>
-        <published>2025-08-31T00:00:00.000Z</published>
     </entry>
 </feed>
