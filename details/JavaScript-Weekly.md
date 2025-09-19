@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-09-13 00:09:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-19 22:10:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript-Weekly
 
 
 
 
+- [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753) 
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752) 
 - [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751) 
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750) 

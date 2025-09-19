@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-19 20:18:14。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-19 22:10:10。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -161,11 +161,11 @@
 - [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
 - [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
 - [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
+- [【JavaScript-Weekly】The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)
 - [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
 - [【JavaScript-Weekly】The-npm-tea-party](https://javascriptweekly.com/issues/700)
 - [【JavaScript-Weekly】Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)
 - [【JavaScript-Weekly】Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687)
-- [【JavaScript-Weekly】Vite-4.0-released](https://javascriptweekly.com/issues/618)
 - [查看更多 >](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
