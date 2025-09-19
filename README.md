@@ -14,18 +14,18 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-19 22:10:10，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-20 02:13:33，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
@@ -78,7 +78,7 @@
 </summary>
 
 
-- [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753) ![](/assets/new.png)  
+- [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
 - [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
@@ -202,6 +202,9 @@
 </summary>
 
 
+- [2025-09-19-前端页面中，如何让用户回到上次阅读的位置？](http://mp.weixin.qq.com/s/2WunYQqKp00F2hpHXHkTaw) ![](/assets/new.png)  
+- [2025-09-18-最新消息！90%的前端岗即将失业。。。](http://mp.weixin.qq.com/s/q3YAhgtn8UlBJ4EW2HnhSA) ![](/assets/new.png)  
+- [2025-09-17-WebWorker-正在悄悄改变整个前端的格局](http://mp.weixin.qq.com/s/Den54jdFVJ5RfgT6VYKTsQ) ![](/assets/new.png)  
 - [2025-09-16-Typescript-必须的所有技巧](http://mp.weixin.qq.com/s/uWAkK3C3JBa5EotNCGBMCQ)  
 - [2025-09-15-讲真，今年前端行情还不错！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505565&idx=1&sn=dce2f0561c5b6d8f0a493ac295067c55&chksm=ce45c30cf9324a1ae376a4b114ac9ff385f41b10b7ad5fa22be135162a48072b13cd380e1788#rd)  
 - [2025-09-13-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505553&idx=1&sn=92da27f4770e841458538a06909f866e&chksm=ce45c300f9324a1614cb3964ee6b93c0604936bf8d2a013ef0b1ccf26c7ae3539a0b34f1bce7#rd)  
@@ -212,16 +215,13 @@
 - [2025-09-05-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s/m5kiCAWxlqmfO007KIKeAw)  
 - [2025-09-04-新一代代码检查工具，比-ESLint-快-40-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505517&idx=1&sn=ac57f767573b64f3824b3a4cc655203c&chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd)  
 - [2025-09-03-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505516&idx=1&sn=35ce8b2232e7a8ec21e4f9fe548bfc51&chksm=ce45c3fdf9324aeb9faacf84fe161bc1ce48325db3981a5bd596da839473f10208973de14598#rd)  
-- [2025-09-02-这可能是我见过最好最全的JavaScript题库！](http://mp.weixin.qq.com/s/fvm8bypDoymbMqozSEuGlQ)  
 - [2025-09-02-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505498&idx=1&sn=5da06f43f4938c657349ed17d787488d&chksm=ce45c3cbf9324adda75bf67050b7da36d3c3a98a202b2a212465447591f684374974cac51345#rd)  
+- [2025-09-02-这可能是我见过最好最全的JavaScript题库！](http://mp.weixin.qq.com/s/fvm8bypDoymbMqozSEuGlQ)  
 - [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd)  
 - [2025-08-31-字节前端高频面试真题库飞书版](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505486&idx=1&sn=b13519bebc042e3dfbb39a13308bb7ad&chksm=ce45c3dff9324ac9747249fb5d4220218266aca93b73007ab34db2f83ff35bf8436aef93f26c#rd)  
-- [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
 - [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g)  
+- [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
 - [2025-08-28-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505441&idx=1&sn=bb862eaa21799a78059dd8b08212ad6d&chksm=ce45c3b0f9324aa66dbd3b5b6ad261267d09f9e911440db92704e2c50a8e0acedd4a7a1db7c0#rd)  
-- [2025-08-27-Vue-团队“王炸”新作！又一打包工具发布！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505440&idx=1&sn=7fa1613e527c947617ac18d51515c5b6&chksm=ce45c3b1f9324aa7dc3931948c6220f90924ffb8d5a81bfd45e5f47f37712aedf18ae76c6e9f#rd)  
-- [2025-08-26-Promise.all的时代终结了，新方法即将取代他](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505437&idx=1&sn=79c302dc4eb606be0e496d66bbf25c6d&chksm=ce45c38cf9324a9a4188398e54f4cc67af2fd08f467aa82e3bc603cf23bf92ef6af0532cbe7b#rd)  
-- [2025-08-25-Vue-团队成员新作：node-modules-可视化神器！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505436&idx=1&sn=59194420ef541688f91dacb8b968ce6d&chksm=ce45c38df9324a9b95691223ca44a6f417acf9d2973598af4edd12bde7c991845860fa0b9c9b#rd)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -264,9 +264,9 @@
 </summary>
 
 
-- [2025-09-19-React-中的并发与并行：打造极速前端应用的隐藏关键](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527875&idx=1&sn=50d032bbc5a7002f2748822af5af1243&chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd) ![](/assets/new.png)  
-- [2025-09-18-深入解读-SourceMap：如何实现代码反解与调试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=2&sn=c72a51bf33744b86e1a5769315ee1b30&chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd) ![](/assets/new.png)  
-- [2025-09-18-被阿里的薪资打动了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=1&sn=372aadfe1a225c30b0b17b81a466d677&chksm=f9926b6bcee5e27dea5376329c76528f6382520e1fcd838665b7ba5106e65c8344190193e7d0#rd) ![](/assets/new.png)  
+- [2025-09-19-React-中的并发与并行：打造极速前端应用的隐藏关键](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527875&idx=1&sn=50d032bbc5a7002f2748822af5af1243&chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd)  
+- [2025-09-18-深入解读-SourceMap：如何实现代码反解与调试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=2&sn=c72a51bf33744b86e1a5769315ee1b30&chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd)  
+- [2025-09-18-被阿里的薪资打动了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=1&sn=372aadfe1a225c30b0b17b81a466d677&chksm=f9926b6bcee5e27dea5376329c76528f6382520e1fcd838665b7ba5106e65c8344190193e7d0#rd)  
 - [2025-09-17-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s/aHMlwqeqolCSDMw45gv1HA)  
 - [2025-09-16-再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q)  
 - [2025-09-15-Vue3-后台分页写腻了？我用-1-个-Hook-删掉-90%-重复代码（附源码）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527841&idx=1&sn=53d202f7265b52d28313cbefab0a53b0&chksm=f9926b70cee5e2661b44663248a8ee732c98c0f63e8e0bbc337c6dfefa116f309dc631465cba#rd)  

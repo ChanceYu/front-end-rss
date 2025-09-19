@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-19T14:10:10.610Z</updated>
+    <updated>2025-09-19T18:13:33.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -74,6 +74,13 @@
         <title type="html"><![CDATA[React 组件设计：9 种让你的 UI 坚不可摧的架构模式]]></title>
         <id>http://mp.weixin.qq.com/s/aHMlwqeqolCSDMw45gv1HA</id>
         <link href="http://mp.weixin.qq.com/s/aHMlwqeqolCSDMw45gv1HA"/>
+        <updated>2025-09-17T00:00:00.000Z</updated>
+        <published>2025-09-17T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebWorker 正在悄悄改变整个前端的格局]]></title>
+        <id>http://mp.weixin.qq.com/s/Den54jdFVJ5RfgT6VYKTsQ</id>
+        <link href="http://mp.weixin.qq.com/s/Den54jdFVJ5RfgT6VYKTsQ"/>
         <updated>2025-09-17T00:00:00.000Z</updated>
         <published>2025-09-17T00:00:00.000Z</published>
     </entry>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/fvm8bypDoymbMqozSEuGlQ"/>
         <updated>2025-09-02T00:00:00.000Z</updated>
         <published>2025-09-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZingAI.video 在线口播视频剪辑]]></title>
-        <id>https://fenghen.me/posts/2025/09/01/overview/</id>
-        <link href="https://fenghen.me/posts/2025/09/01/overview/"/>
-        <updated>2025-09-01T00:00:00.000Z</updated>
-        <published>2025-09-01T00:00:00.000Z</published>
     </entry>
 </feed>
