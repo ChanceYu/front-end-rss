@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-19T04:12:04.722Z</updated>
+    <updated>2025-09-19T12:18:14.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS scroll-target-group加:target-current滚动菜单自动高亮]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/"/>
+        <updated>2025-09-19T00:00:00.000Z</updated>
+        <published>2025-09-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3591期】GitHub Spec-Kit：规范驱动开发走在正确的方向上 - 严谨、渐进式的 Vibe Coding]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277468&amp;idx=1&amp;sn=555fad29ddf6adaed65dd6b2032b9ec7&amp;chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&amp;scene=0#rd</id>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[Chrome 全新 API：仅 6 行 HTML！让页面秒开！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517394&amp;idx=1&amp;sn=04a789c65347a9830448b7ab63da3cc7&amp;chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247517394&amp;idx=1&amp;sn=04a789c65347a9830448b7ab63da3cc7&amp;chksm=eb07bcabdc7035bd04ee84f07eaee444e5a2ed3125ad5365b5e014645d8c650cf7869d067ef7#rd"/>
-        <updated>2025-09-01T00:00:00.000Z</updated>
-        <published>2025-09-01T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue3 最强大的 AI 组件库！华为重磅开源！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505487&amp;idx=1&amp;sn=d74d2975a3a24452b8f5835a6ab3c27c&amp;chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505487&amp;idx=1&amp;sn=d74d2975a3a24452b8f5835a6ab3c27c&amp;chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd"/>
         <updated>2025-09-01T00:00:00.000Z</updated>
         <published>2025-09-01T00:00:00.000Z</published>
     </entry>
