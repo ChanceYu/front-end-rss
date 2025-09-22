@@ -14,16 +14,16 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-22 11:01:06，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-22 12:12:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](/assets/dot.png)   
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-09-22-【第3592期】揭秘-Bolt.new-背后的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277484&idx=1&sn=5feeb0f40ba2ea2d950d8445c1a1d00e&chksm=bc6f5abb264093034a87043b3ec7fcaad9ea6b77c5936b9b83a410c5f53a5551ffe9a6a9cd56&scene=0#rd) ![](/assets/new.png)  
 - [2025-09-19-【第3591期】GitHub-Spec-Kit：规范驱动开发走在正确的方向上---严谨、渐进式的-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&scene=0#rd)  
 - [2025-09-18-【第3590期】Node.js-搭建-MCP-Server，实时获取最新-API-文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277458&idx=1&sn=ef790ada9d8afb6d7dae669f30af16c2&chksm=bc5da26ec854b9339a0d22eaadedfbbe37e863fe930cfaadf57e4128df7cb3c551f65e7ed044&scene=0#rd)  
 - [2025-09-17-【第3589期】写好工具，智能体才更聪明：Claude-的自我优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277436&idx=1&sn=c42d1bb443644528beae154177405565&chksm=bc7ed3e1d74d40eb5e274503080e624ab4d71d5d359d1c7f7b24fe18596f69debc7925f4bd0b&scene=0#rd)  
@@ -125,10 +126,9 @@
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
 - [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)  
 - [2025-08-29-【第3578期】内置-AI-Web-API设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277322&idx=1&sn=ebbb13276ff892ea767867b37b6b4691&chksm=bcdb3760519b6c17fe6155d9c9517939949fda97f73252eae8740af277d0a0fe384bb9b15bb7&scene=0#rd)  
-- [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd)  
 - [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
+- [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd)  
 - [2025-08-27-【第3576期】前端的随机魔法：CSS-random-全解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277311&idx=1&sn=34cdfc8b9846c4d79daeea52e64f8f36&chksm=bc6c6cf747958e44c772dd9aa355952526af61e9fad57da4f58972acdbeb1cc66c789a1155df&scene=0#rd)  
-- [2025-08-26-【早阅】用-Claude-编程：提示词入门](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277297&idx=1&sn=a1f44d24c88946d8015a2fa14d2ff08c&chksm=bce1926115e42539857999edd730bfc5a7dca3ebc2d737e76b13542b85e9d620bafb82ddc5cb&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -140,12 +140,12 @@
 </summary>
 
 
-- [2025-09-19-8-年后“报应”降临！翟欣欣敲诈勒索千万逼死前夫，一审被判-12-年。网友：罪有应得大快人心](http://mp.weixin.qq.com/s/i35qBVsgqX3l9on7nYTYhQ) ![](/assets/new.png)  
+- [2025-09-19-8-年后“报应”降临！翟欣欣敲诈勒索千万逼死前夫，一审被判-12-年。网友：罪有应得大快人心](http://mp.weixin.qq.com/s/i35qBVsgqX3l9on7nYTYhQ)  
 - [2025-09-18-我的浏览器下雨了进水了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623053&idx=1&sn=db6d9571c96d35fb66f032afb2b0fb8b&chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd)  
-- [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg) ![](/assets/new.png)  
+- [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)  
 - [2025-09-16-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623063&idx=1&sn=7957cf5bc92bfec304db1e389232407d&chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd)  
 - [2025-09-12-什么？2025年了发版后还要手动清浏览器缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623026&idx=1&sn=b63696b7d6e8f7e09d99869763807c6c&chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd)  
-- [2025-09-12-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s/AAklXCToIMZF5frS-wlmmg) ![](/assets/new.png)  
+- [2025-09-12-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s/AAklXCToIMZF5frS-wlmmg)  
 - [2025-09-10-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s/JyzqDMZKuTIV45f7bt5jtw)  
 - [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ)  
 - [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw)  
@@ -202,7 +202,7 @@
 </summary>
 
 
-- [2025-09-21-最近用到的九个CSS实用技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505584&idx=1&sn=f94e46c5124247763604f328bc3cb25c&chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd) ![](/assets/new.png)  
+- [2025-09-21-最近用到的九个CSS实用技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505584&idx=1&sn=f94e46c5124247763604f328bc3cb25c&chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd)  
 - [2025-09-19-前端页面中，如何让用户回到上次阅读的位置？](http://mp.weixin.qq.com/s/2WunYQqKp00F2hpHXHkTaw)  
 - [2025-09-18-最新消息！90%的前端岗即将失业。。。](http://mp.weixin.qq.com/s/q3YAhgtn8UlBJ4EW2HnhSA)  
 - [2025-09-17-WebWorker-正在悄悄改变整个前端的格局](http://mp.weixin.qq.com/s/Den54jdFVJ5RfgT6VYKTsQ)  
