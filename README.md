@@ -14,22 +14,22 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-20 18:09:02，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-22 11:01:06，:rocket: 更新条数: +4， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -140,26 +140,26 @@
 </summary>
 
 
+- [2025-09-19-8-年后“报应”降临！翟欣欣敲诈勒索千万逼死前夫，一审被判-12-年。网友：罪有应得大快人心](http://mp.weixin.qq.com/s/i35qBVsgqX3l9on7nYTYhQ) ![](/assets/new.png)  
 - [2025-09-18-我的浏览器下雨了进水了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623053&idx=1&sn=db6d9571c96d35fb66f032afb2b0fb8b&chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd)  
+- [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg) ![](/assets/new.png)  
 - [2025-09-16-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623063&idx=1&sn=7957cf5bc92bfec304db1e389232407d&chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd)  
 - [2025-09-12-什么？2025年了发版后还要手动清浏览器缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623026&idx=1&sn=b63696b7d6e8f7e09d99869763807c6c&chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd)  
+- [2025-09-12-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s/AAklXCToIMZF5frS-wlmmg) ![](/assets/new.png)  
 - [2025-09-10-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s/JyzqDMZKuTIV45f7bt5jtw)  
-- [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw)  
 - [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ)  
+- [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw)  
 - [2025-09-04-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/iQ1OL0daF6bGTvb5fczLiQ)  
-- [2025-08-31-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA)  
 - [2025-08-31-马斯克怒了！中国籍工程师套现-700-万美刀后偷了整个代码库等机密信息，转身就入职-OpenAI](http://mp.weixin.qq.com/s/KwGKjgrFy-QXZnFq5nrxCA)  
-- [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
+- [2025-08-31-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA)  
 - [2025-08-25-通过代码看-React-的历史](http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA)  
+- [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
 - [2025-08-21-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622909&idx=1&sn=53351b4157fd3c750a6cf57858b00329&chksm=80225a3cb755d32a5928d5fd1bd92eced6c903f6e0a9581df25d63743873bf6fac440a7333d6#rd)  
-- [2025-08-20-网传钉钉-CEO-凌晨巡查工位，质问员工为何提前下班。网友：无招是真的没招了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=1&sn=7261eb0ce69f0809a802eca7d04ed2ea&chksm=80225a32b755d3249a60f14b9150aad7697d15bf51c92bbed1e9583ebbf73c1bc6d71018eac9#rd)  
 - [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
-- [2025-08-15-上海某电商公司表扬加班，榜一大哥月加班-160-小时。网友：还记得上月任劳任怨猝死的外包么？](http://mp.weixin.qq.com/s/BA_5gDjKjyLTu4knGVEBRA)  
+- [2025-08-20-网传钉钉-CEO-凌晨巡查工位，质问员工为何提前下班。网友：无招是真的没招了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=1&sn=7261eb0ce69f0809a802eca7d04ed2ea&chksm=80225a32b755d3249a60f14b9150aad7697d15bf51c92bbed1e9583ebbf73c1bc6d71018eac9#rd)  
 - [2025-08-15-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ)  
+- [2025-08-15-上海某电商公司表扬加班，榜一大哥月加班-160-小时。网友：还记得上月任劳任怨猝死的外包么？](http://mp.weixin.qq.com/s/BA_5gDjKjyLTu4knGVEBRA)  
 - [2025-08-13-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622876&idx=1&sn=057121989c9b633605d8595d0dd86b4b&chksm=80225a1db755d30b467fe3b48c24e96cf8a49f31ccbee20b835baeb745db4d02cbe0d339e8e9#rd)  
-- [2025-08-05-再见了Vue3，前端AI已成气候！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622869&idx=1&sn=3a0fdc420636de510a3bf491313ba23b&chksm=80225a14b755d3029f40bccf2a7905af5a2ca6f71ee99853061ad5d7bc0f8919fbd20fe9c16e#rd)  
-- [2025-07-28-前端登录token到底应该存在哪？LocalStorage、SessionStorage还是Cookie？一篇说透！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=2&sn=f4d992df3536ddc49bdef4eb21b32c80&chksm=80225a0ab755d31ce3cecb414390a4f6fd94519dd190b4c28971c5534601e811bcb08afac1aa#rd)  
-- [2025-07-28-文件被-Gemini-当场“格式化”，全没了！网友控诉：Claude、Copilot-也爱删库，一个都跑不了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622859&idx=1&sn=67e0c26a0716b1b457353434735cfe4c&chksm=80225a0ab755d31ceb97e42a8503a5b9476d97958c30759f10d9df926ca5e7879b4b756b3b09#rd)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -202,6 +202,7 @@
 </summary>
 
 
+- [2025-09-21-最近用到的九个CSS实用技巧](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505584&idx=1&sn=f94e46c5124247763604f328bc3cb25c&chksm=ce45c321f9324a37e8a0fd3db713d5a5108f12bedbd5b650bf2428cd37ba21c9737d0da24fba#rd) ![](/assets/new.png)  
 - [2025-09-19-前端页面中，如何让用户回到上次阅读的位置？](http://mp.weixin.qq.com/s/2WunYQqKp00F2hpHXHkTaw)  
 - [2025-09-18-最新消息！90%的前端岗即将失业。。。](http://mp.weixin.qq.com/s/q3YAhgtn8UlBJ4EW2HnhSA)  
 - [2025-09-17-WebWorker-正在悄悄改变整个前端的格局](http://mp.weixin.qq.com/s/Den54jdFVJ5RfgT6VYKTsQ)  
@@ -215,13 +216,12 @@
 - [2025-09-05-计算项目“屎山率”的工具库，想知道自己的项目有多“屎”吗？](http://mp.weixin.qq.com/s/m5kiCAWxlqmfO007KIKeAw)  
 - [2025-09-04-新一代代码检查工具，比-ESLint-快-40-倍！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505517&idx=1&sn=ac57f767573b64f3824b3a4cc655203c&chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd)  
 - [2025-09-03-尤雨溪：无虚拟-DOM-的-Vue，也许是最强形态的-Vue](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505516&idx=1&sn=35ce8b2232e7a8ec21e4f9fe548bfc51&chksm=ce45c3fdf9324aeb9faacf84fe161bc1ce48325db3981a5bd596da839473f10208973de14598#rd)  
-- [2025-09-02-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505498&idx=1&sn=5da06f43f4938c657349ed17d787488d&chksm=ce45c3cbf9324adda75bf67050b7da36d3c3a98a202b2a212465447591f684374974cac51345#rd)  
 - [2025-09-02-这可能是我见过最好最全的JavaScript题库！](http://mp.weixin.qq.com/s/fvm8bypDoymbMqozSEuGlQ)  
+- [2025-09-02-阿里内部首发2025前端开发手册，完整版开放下载了！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505498&idx=1&sn=5da06f43f4938c657349ed17d787488d&chksm=ce45c3cbf9324adda75bf67050b7da36d3c3a98a202b2a212465447591f684374974cac51345#rd)  
 - [2025-09-01-Vue3-最强大的-AI-组件库！华为重磅开源！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505487&idx=1&sn=d74d2975a3a24452b8f5835a6ab3c27c&chksm=ce45c3def9324ac8b2cb72efcf776fe8f290e31da060e6e5212ea10d7158c37d8238d92a7a43#rd)  
 - [2025-08-31-字节前端高频面试真题库飞书版](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505486&idx=1&sn=b13519bebc042e3dfbb39a13308bb7ad&chksm=ce45c3dff9324ac9747249fb5d4220218266aca93b73007ab34db2f83ff35bf8436aef93f26c#rd)  
-- [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g)  
 - [2025-08-29-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s/ERHOKvAb8CQ40CTsZ_38Dg)  
-- [2025-08-28-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247505441&idx=1&sn=bb862eaa21799a78059dd8b08212ad6d&chksm=ce45c3b0f9324aa66dbd3b5b6ad261267d09f9e911440db92704e2c50a8e0acedd4a7a1db7c0#rd)  
+- [2025-08-29-前端面试必备宝典！全网最全高频考点汇总（JS/TS/Vue/React/算法/Webpack...）](http://mp.weixin.qq.com/s/-SqNr6KftTWXAKclTMng9g)  
 - [查看更多 >](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,8 +388,8 @@
 </summary>
 
 
-- [2025-09-19-即梦4.0里到底藏了多少东西？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504257&idx=1&sn=4ba88d2f94e9aa22e1a1a15ca5756675&chksm=c2b3107ef5c49968e91a07bfcd81a41c0bec324e7cee57e355e3f98481013c820d0c8204c19d#rd) ![](/assets/new.png)  
-- [2025-09-18-刚刚，DeepSeek-R1登上Nature封面](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504227&idx=1&sn=d8ea9478f5913e7a7dd76f2ce68c1055&chksm=c2b3109cf5c4998aeefe09d2585ad2c09757ea5d1343f0cccd2daafb2feb52f2882d775746b1#rd) ![](/assets/new.png)  
+- [2025-09-19-即梦4.0里到底藏了多少东西？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504257&idx=1&sn=4ba88d2f94e9aa22e1a1a15ca5756675&chksm=c2b3107ef5c49968e91a07bfcd81a41c0bec324e7cee57e355e3f98481013c820d0c8204c19d#rd)  
+- [2025-09-18-刚刚，DeepSeek-R1登上Nature封面](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504227&idx=1&sn=d8ea9478f5913e7a7dd76f2ce68c1055&chksm=c2b3109cf5c4998aeefe09d2585ad2c09757ea5d1343f0cccd2daafb2feb52f2882d775746b1#rd)  
 - [2025-09-16-可灵AI新版数字人实测，有点过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504220&idx=1&sn=16564c368e6ab62f7293ae5d6e1706f8&chksm=c2b310a3f5c499b54e76937969a5d4d3d9ed95415f8566d1622e5e0a3e75fe1a9b76443c87f4#rd)  
 - [2025-09-15-钉钉AI硬件DingTalk-A1，开会摸鱼的神](http://mp.weixin.qq.com/s/NjMHLsn0yZGje1USqrLd_Q)  
 - [2025-09-14-美团上线生活Agent小美，这次真掀桌子了](http://mp.weixin.qq.com/s/FO7ZXmwEQTd4t9cFU7XyTg)  
