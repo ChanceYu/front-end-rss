@@ -14,14 +14,14 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-23 12:11:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-24 02:14:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)![](/assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](/assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
@@ -109,7 +109,7 @@
 </summary>
 
 
-- [2025-09-23-【第3593期】OpenTiny-NEXT-内核新生：生成式UI-×-MCP，重塑前端交互新范式！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277502&idx=1&sn=3f1b59f372ca4ba48e018b4e5e14f181&chksm=bc9564998d4f25e684a7efce3c14efd68a6bcf4f484eb506d442bef5422096163d3b48a3a8b7&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-23-【第3593期】OpenTiny-NEXT-内核新生：生成式UI-×-MCP，重塑前端交互新范式！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277502&idx=1&sn=3f1b59f372ca4ba48e018b4e5e14f181&chksm=bc9564998d4f25e684a7efce3c14efd68a6bcf4f484eb506d442bef5422096163d3b48a3a8b7&scene=0#rd)  
 - [2025-09-22-【第3592期】揭秘-Bolt.new-背后的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277484&idx=1&sn=5feeb0f40ba2ea2d950d8445c1a1d00e&chksm=bc6f5abb264093034a87043b3ec7fcaad9ea6b77c5936b9b83a410c5f53a5551ffe9a6a9cd56&scene=0#rd)  
 - [2025-09-19-【第3591期】GitHub-Spec-Kit：规范驱动开发走在正确的方向上---严谨、渐进式的-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&scene=0#rd)  
 - [2025-09-18-【第3590期】Node.js-搭建-MCP-Server，实时获取最新-API-文档](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277458&idx=1&sn=ef790ada9d8afb6d7dae669f30af16c2&chksm=bc5da26ec854b9339a0d22eaadedfbbe37e863fe930cfaadf57e4128df7cb3c551f65e7ed044&scene=0#rd)  
@@ -140,26 +140,26 @@
 </summary>
 
 
+- [2025-09-22-Vue-实现一个“液态玻璃”效果登录卡片](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623093&idx=1&sn=cde4b997f5e8d861917751a378bd79cd&chksm=80225974b755d062babcc3ec5035bbdd381fbdddfeeece764f77356a230d3097d7e726663385#rd) ![](/assets/new.png)  
 - [2025-09-19-8-年后“报应”降临！翟欣欣敲诈勒索千万逼死前夫，一审被判-12-年。网友：罪有应得大快人心](http://mp.weixin.qq.com/s/i35qBVsgqX3l9on7nYTYhQ)  
-- [2025-09-18-我的浏览器下雨了进水了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623053&idx=1&sn=db6d9571c96d35fb66f032afb2b0fb8b&chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd)  
 - [2025-09-18-“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”](http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg)  
+- [2025-09-18-我的浏览器下雨了进水了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623053&idx=1&sn=db6d9571c96d35fb66f032afb2b0fb8b&chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd)  
 - [2025-09-16-React已死，Vue已凉，前端AI彻底称王！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623063&idx=1&sn=7957cf5bc92bfec304db1e389232407d&chksm=80225956b755d04068fd9e4bd9567cc86215b3f78b4916573d4cfcdc670d7861ef169064f1a2#rd)  
-- [2025-09-12-什么？2025年了发版后还要手动清浏览器缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623026&idx=1&sn=b63696b7d6e8f7e09d99869763807c6c&chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd)  
 - [2025-09-12-一个非常有用的设计模式——有限状态机](http://mp.weixin.qq.com/s/AAklXCToIMZF5frS-wlmmg)  
+- [2025-09-12-什么？2025年了发版后还要手动清浏览器缓存？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651623026&idx=1&sn=b63696b7d6e8f7e09d99869763807c6c&chksm=802259b3b755d0a5087f158ce39279ae114b88fba40f321b4556dab63167a2945a5710159d7f#rd)  
 - [2025-09-10-AI写代码导致开发者效率下降19%](http://mp.weixin.qq.com/s/JyzqDMZKuTIV45f7bt5jtw)  
-- [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ)  
 - [2025-09-05-性能提升60%：前端性能优化终极指南](http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw)  
+- [2025-09-05-国内最舒适-IT-公司排行](http://mp.weixin.qq.com/s/O5vRmcrvbUeXc2orr_kzwQ)  
 - [2025-09-04-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s/iQ1OL0daF6bGTvb5fczLiQ)  
-- [2025-08-31-马斯克怒了！中国籍工程师套现-700-万美刀后偷了整个代码库等机密信息，转身就入职-OpenAI](http://mp.weixin.qq.com/s/KwGKjgrFy-QXZnFq5nrxCA)  
 - [2025-08-31-2025-年现代-Node.js-开发模式](http://mp.weixin.qq.com/s/PnGaVBrmAqNMc7c1VogalA)  
-- [2025-08-25-通过代码看-React-的历史](http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA)  
+- [2025-08-31-马斯克怒了！中国籍工程师套现-700-万美刀后偷了整个代码库等机密信息，转身就入职-OpenAI](http://mp.weixin.qq.com/s/KwGKjgrFy-QXZnFq5nrxCA)  
 - [2025-08-25-我天，Vue3-已沦为老二。。](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622919&idx=1&sn=cbaf8354f4512436db2fb5ba91ee871c&chksm=802259c6b755d0d0dbb14cb6ab20005576148953b910244ecac4da3e545c3484c82e45d610e6#rd)  
+- [2025-08-25-通过代码看-React-的历史](http://mp.weixin.qq.com/s/S3ax01DNXUDE1KpgXqidfA)  
 - [2025-08-21-突发！软考空前大利好！恭喜所有前端人！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622909&idx=1&sn=53351b4157fd3c750a6cf57858b00329&chksm=80225a3cb755d32a5928d5fd1bd92eced6c903f6e0a9581df25d63743873bf6fac440a7333d6#rd)  
-- [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
 - [2025-08-20-网传钉钉-CEO-凌晨巡查工位，质问员工为何提前下班。网友：无招是真的没招了？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=1&sn=7261eb0ce69f0809a802eca7d04ed2ea&chksm=80225a32b755d3249a60f14b9150aad7697d15bf51c92bbed1e9583ebbf73c1bc6d71018eac9#rd)  
-- [2025-08-15-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ)  
+- [2025-08-20-我为什么在团队里，强制要求大家用pnpm而不是npm？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622899&idx=2&sn=d1c869514f6e55ccafdf8a2f9a52b200&chksm=80225a32b755d324b94c66440451a117f446373e9318e07457ae22e1c113d5f160ec03cedd04#rd)  
 - [2025-08-15-上海某电商公司表扬加班，榜一大哥月加班-160-小时。网友：还记得上月任劳任怨猝死的外包么？](http://mp.weixin.qq.com/s/BA_5gDjKjyLTu4knGVEBRA)  
-- [2025-08-13-告别-window.open，拥抱全新浮窗体验！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651622876&idx=1&sn=057121989c9b633605d8595d0dd86b4b&chksm=80225a1db755d30b467fe3b48c24e96cf8a49f31ccbee20b835baeb745db4d02cbe0d339e8e9#rd)  
+- [2025-08-15-模块联邦（Module-Federation）新的微前端方案？](http://mp.weixin.qq.com/s/tLjLVY5dgR4GHd0uytkopQ)  
 - [查看更多 >](/details/前端大全.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
