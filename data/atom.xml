@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-24T14:09:12.224Z</updated>
+    <updated>2025-09-24T18:14:05.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[月下载2亿次的npm包遭投毒，我选择了搭建私有 npm 仓库！]]></title>
         <id>http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA</id>
         <link href="http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <published>2025-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[默认选 React，拖慢前端？Svelte、Solid、Qwik 的优势被忽视了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526298&amp;idx=1&amp;sn=7deba23d4886dc5dee2e7e8ff387c2c6&amp;chksm=f952d2d9ce255bcfa70c77bf85154c135cc74fe13f2649f2015ad65e062cb44a5623a68e4bb2#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247526298&amp;idx=1&amp;sn=7deba23d4886dc5dee2e7e8ff387c2c6&amp;chksm=f952d2d9ce255bcfa70c77bf85154c135cc74fe13f2649f2015ad65e062cb44a5623a68e4bb2#rd"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[性能提升60%：前端性能优化终极指南]]></title>
         <id>http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw</id>
         <link href="http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw"/>
-        <updated>2025-09-05T00:00:00.000Z</updated>
-        <published>2025-09-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3583期】Inditex 如何通过微前端打造面向未来的平台]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277358&amp;idx=1&amp;sn=0fac7dd772b4a965a11a6814b097f2a1&amp;chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277358&amp;idx=1&amp;sn=0fac7dd772b4a965a11a6814b097f2a1&amp;chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&amp;scene=0#rd"/>
         <updated>2025-09-05T00:00:00.000Z</updated>
         <published>2025-09-05T00:00:00.000Z</published>
     </entry>
