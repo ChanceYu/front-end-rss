@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-24 02:14:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-24 10:54:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -527,6 +527,7 @@
 - [2024-01-05-请转发！Chrome-已开始第三方-Cookie-停用计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514751&idx=1&sn=837510e2acf696731f35efe355a407f3&chksm=eb078206dc700b102fa22851c7811805a8d3a8854156112e12c84890525e449bd0e9628d6b46#rd) 
 - [2023-08-17-手写玩具版浏览器渲染引擎，彻底搞懂原理](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513452&idx=1&sn=6ea003d056892fc916fc376e542ff79d&chksm=eb078d15dc7004035b323647292c3033e940e59cecfc5e18f99c2de524c20539a7430af1f09b#rd) 
 - [2023-08-02-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512851&idx=2&sn=2eea54ef5f9cc1ba584352defc388a67&chksm=eb078b6adc70027cc0c829ec347eccbb0a7fb9fdebc82a0b852a176ba42c5eb9e4952ed9029f#rd) 
+- [2025-09-22-Safari又出bug了？临时修复-iOS-26弹出键盘后定位错乱问题](http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ) 
 - [2025-08-06-Web-Agent大对决：你的AI浏览器理想型，会是哪一个？](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650541112&idx=1&sn=0a6ca5895272636b5260e52362d83164&chksm=8390c420b4e74d36d63c20dbd55274a5de4e8b44e2834fa692311e332edc0e34462a39ff7553#rd) 
 - [2025-02-14-探索淘宝购物车SurfaceView闪黑的解决方案](http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650538039&idx=1&sn=9187c5c7a72ece00300a8a037ad607d2&chksm=8390c82fb4e74139c53505ef653c4d84d1d142f35d0403fe2a28d8d416ad21db47b05f1bb82d#rd) 
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
