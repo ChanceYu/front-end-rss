@@ -14,13 +14,13 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-24 10:54:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-24 12:11:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](/assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
@@ -31,7 +31,7 @@
 - [前端精读评论](#前端精读评论)  
 - [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
-- [前端侦探](#前端侦探)![](/assets/dot.png)   
+- [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -109,6 +109,7 @@
 </summary>
 
 
+- [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd) ![](/assets/new.png)  
 - [2025-09-23-【第3593期】OpenTiny-NEXT-内核新生：生成式UI-×-MCP，重塑前端交互新范式！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277502&idx=1&sn=3f1b59f372ca4ba48e018b4e5e14f181&chksm=bc9564998d4f25e684a7efce3c14efd68a6bcf4f484eb506d442bef5422096163d3b48a3a8b7&scene=0#rd)  
 - [2025-09-22-【第3592期】揭秘-Bolt.new-背后的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277484&idx=1&sn=5feeb0f40ba2ea2d950d8445c1a1d00e&chksm=bc6f5abb264093034a87043b3ec7fcaad9ea6b77c5936b9b83a410c5f53a5551ffe9a6a9cd56&scene=0#rd)  
 - [2025-09-19-【第3591期】GitHub-Spec-Kit：规范驱动开发走在正确的方向上---严谨、渐进式的-Vibe-Coding](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277468&idx=1&sn=555fad29ddf6adaed65dd6b2032b9ec7&chksm=bc9f590d3277bd93b223f9755fb43bcb32e9dace3ddc5785447afa3791ea123e6420a2c601a2&scene=0#rd)  
@@ -127,7 +128,6 @@
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
 - [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)  
 - [2025-08-29-【第3578期】内置-AI-Web-API设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277322&idx=1&sn=ebbb13276ff892ea767867b37b6b4691&chksm=bcdb3760519b6c17fe6155d9c9517939949fda97f73252eae8740af277d0a0fe384bb9b15bb7&scene=0#rd)  
-- [2025-08-28-【招聘】字节跳动招-AI-工程师（不限技术栈）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=2&sn=9a73ad46ee6c11d8080186f6f188668d&chksm=bcd83474aa69c0f0cd72efa7b748a958f80c287e8e92b908a18fbabcac03e1f22250c181da0e&scene=0#rd)  
 - [2025-08-28-【第3577期】语气的四个维度](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277317&idx=1&sn=603c4666b977eebd4d49b8d57306b0a2&chksm=bc81518664298abd3129ccfa2fe85e394660a387ffee51282364800d7df0d7de96802a60422a&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
@@ -450,7 +450,7 @@
 </summary>
 
 
-- [2025-09-22-Safari又出bug了？临时修复-iOS-26弹出键盘后定位错乱问题](http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ) ![](/assets/new.png)  
+- [2025-09-22-Safari又出bug了？临时修复-iOS-26弹出键盘后定位错乱问题](http://mp.weixin.qq.com/s/rWmsDUdhRvp8KlPBhvJZaQ)  
 - [2025-08-25-CSS-小技巧：如何将-img-转换成-background-image](http://mp.weixin.qq.com/s?__biz=MzIyMDc1NTYxNg==&mid=2247490764&idx=1&sn=5fb164e0dc41dfdbc33b63c23df3455e&chksm=97c67f03a0b1f615220c599cc96c08468ed3e0347620bd05a9c2dba7bbd0b177546e7913378c#rd)  
 - [2025-08-18-借助CSS实现自适应屏幕边缘的tooltip](http://mp.weixin.qq.com/s/4ifcSObrhWr62QUjwZxqDw)  
 - [2025-08-11-借助CSS实现点赞粒子动效](http://mp.weixin.qq.com/s/82J8TWEKnJnx1A47R9zMRw)  

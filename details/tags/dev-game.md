@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-24 10:54:02。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-24 12:11:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd) 
 - [2025-03-24-【第3477期】基于three.js的虚拟人阴影渲染优化方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651276062&idx=1&sn=3587469f07550ed878101b65b85c6ef1&chksm=bca9bbe8b6c4ea29dc28f446cc3d7c3bbce5fca76df57482c4b01b2588eeee5946ff8bb203b0&scene=0#rd) 
 - [2023-07-15-【第2999期】如何用Three.js-+-Blender打造一个web-3D展览馆](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264000&idx=1&sn=b5e0a2ea935955afd34b9ae42db3ece9&chksm=bd48cd848a3f4492b99c80842ab0707f78f4b936949438745dc98dcf3797a6b7666859379226#rd) 
 - [2023-01-15-【第2838期】vivo-游戏中心低代码平台的提效秘诀](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260503&idx=1&sn=79c89b4d2734e64c107ad9fadb9b30e7&chksm=bd48dfd38a3f56c5ec1c2c44514784a86badd8861bcdf5ae988aa12b6c36f1dcadc8233d1f0c#rd) 
