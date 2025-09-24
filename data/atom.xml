@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-24T18:14:05.474Z</updated>
+    <updated>2025-09-24T22:09:06.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -46,6 +46,13 @@
         <title type="html"><![CDATA[月下载2亿次的npm包遭投毒，我选择了搭建私有 npm 仓库！]]></title>
         <id>http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA</id>
         <link href="http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <published>2025-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强到离谱，2025年浏览器必装插件！]]></title>
+        <id>http://mp.weixin.qq.com/s/V1TxdY3FGzVUKxDxb5X3JQ</id>
+        <link href="http://mp.weixin.qq.com/s/V1TxdY3FGzVUKxDxb5X3JQ"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
@@ -354,13 +361,6 @@
         <title type="html"><![CDATA[尤雨溪：无虚拟 DOM 的 Vue，也许是最强形态的 Vue]]></title>
         <id>http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ</id>
         <link href="http://mp.weixin.qq.com/s/KN4CeNN6ICiXz7TfBhgydQ"/>
-        <updated>2025-09-05T00:00:00.000Z</updated>
-        <published>2025-09-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[性能提升60%：前端性能优化终极指南]]></title>
-        <id>http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw</id>
-        <link href="http://mp.weixin.qq.com/s/AGvM7jleA0k0mhE-vXOYmw"/>
         <updated>2025-09-05T00:00:00.000Z</updated>
         <published>2025-09-05T00:00:00.000Z</published>
     </entry>
