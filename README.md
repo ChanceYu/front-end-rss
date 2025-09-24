@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-24 16:14:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-24 18:10:23，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,11 +25,11 @@
 - [前端之巅](#前端之巅)  
 - [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](/assets/dot.png)   
 - [iCSS前端趣闻](#icss前端趣闻)  
 - [字节前端-ByteFE](#字节前端-bytefe)  
 - [前端精读评论](#前端精读评论)  
-- [前端食堂](#前端食堂)![](/assets/dot.png)   
+- [前端食堂](#前端食堂)  
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
@@ -264,9 +264,12 @@
 </summary>
 
 
+- [2025-09-24-推荐一本正在编写中的-Node.js-新书，带你深入底层工作原理！](http://mp.weixin.qq.com/s/l4sxoQV7wV8aMMYdr_fASw) ![](/assets/new.png)  
+- [2025-09-23-8-种方案机智应对后端一次性返回-10万-条数据](http://mp.weixin.qq.com/s/17fQ9pz1adH2pyqnAh_k3g) ![](/assets/new.png)  
+- [2025-09-22-月下载2亿次的npm包遭投毒，我选择了搭建私有-npm-仓库！](http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA) ![](/assets/new.png)  
 - [2025-09-19-React-中的并发与并行：打造极速前端应用的隐藏关键](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527875&idx=1&sn=50d032bbc5a7002f2748822af5af1243&chksm=f9926b12cee5e204b49b337d4b01ed8eb643da8ed487edd69a2c804c7557df2585436d9623ee#rd)  
-- [2025-09-18-深入解读-SourceMap：如何实现代码反解与调试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=2&sn=c72a51bf33744b86e1a5769315ee1b30&chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd)  
 - [2025-09-18-被阿里的薪资打动了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=1&sn=372aadfe1a225c30b0b17b81a466d677&chksm=f9926b6bcee5e27dea5376329c76528f6382520e1fcd838665b7ba5106e65c8344190193e7d0#rd)  
+- [2025-09-18-深入解读-SourceMap：如何实现代码反解与调试](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527866&idx=2&sn=c72a51bf33744b86e1a5769315ee1b30&chksm=f9926b6bcee5e27d57bb07e448e9ed49bf10899adbb9c90ffce169c41ec30ca41899dbd35b81#rd)  
 - [2025-09-17-React-组件设计：9-种让你的-UI-坚不可摧的架构模式](http://mp.weixin.qq.com/s/aHMlwqeqolCSDMw45gv1HA)  
 - [2025-09-16-再也不用背命令！Cursor-终端-Cmd+K-=-你的专属-Linux-&amp;-Git-智能助手](http://mp.weixin.qq.com/s/k1A7W0QwfqGZMFgfU50e_Q)  
 - [2025-09-15-Vue3-后台分页写腻了？我用-1-个-Hook-删掉-90%-重复代码（附源码）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527841&idx=1&sn=53d202f7265b52d28313cbefab0a53b0&chksm=f9926b70cee5e2661b44663248a8ee732c98c0f63e8e0bbc337c6dfefa116f309dc631465cba#rd)  
@@ -280,10 +283,7 @@
 - [2025-09-03-为什么-Chrome-DevTools-不够用-——-分析终端用户性能](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527715&idx=1&sn=b9d1b6e47c6a23fb93025528da223622&chksm=f9926bf2cee5e2e4c63ac71b6d89468c27c97a1261a20f7eea203e75587b06febab8f1baf6fb#rd)  
 - [2025-09-01-大模型应用中，前端绕不开的-SSE](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527709&idx=1&sn=5d001f8ee75bfbdff7862fa2b58cd1bc&chksm=f9926bcccee5e2da7214b28478afdd3d1e3a26a5f0a1e42ca3096afd824cbb3c66b007ae4d1d#rd)  
 - [2025-08-28-你的H5页面在折叠屏上适配了吗？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247527703&idx=1&sn=8aa4e2cc4bcfd7b59667338de0ed4e5c&chksm=f9926bc6cee5e2d0026b053a53e3393224e9f3681ccffbe4e85394ed2efed6781dfea5488cfc#rd)  
-- [2025-08-27-纯前端实现图片伪3D视差效果](http://mp.weixin.qq.com/s/8FGGAaZ9G_lXUL8nu556uw)  
 - [2025-08-27-公开招录45名程序员深造一流高校研究生！基层人员优先！](http://mp.weixin.qq.com/s/nKry44nGlZoq9tAhajbiVw)  
-- [2025-08-26-还在用html2canvas？介绍一个比它快100倍的截图神器！](http://mp.weixin.qq.com/s/N3jwNkVjkxBmjz0m1bUT7g)  
-- [2025-08-25-如何使用Cursor同时开发多项目？](http://mp.weixin.qq.com/s/Cfa6Gd8NIjhzaexJ5MjpZg)  
 - [查看更多 >](/details/程序员成长指北.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
@@ -388,7 +388,7 @@
 </summary>
 
 
-- [2025-09-23-DeepSeek发了“终极版”，V4还远吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504293&idx=1&sn=d28d51c670f0147bf43e5b387e32bbf4&chksm=c2b3105af5c4994c3f7e7ee53c18eba2a44ef29cc50da38e242100d19e8a4f8cc82113f72d83#rd) ![](/assets/new.png)  
+- [2025-09-23-DeepSeek发了“终极版”，V4还远吗？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504293&idx=1&sn=d28d51c670f0147bf43e5b387e32bbf4&chksm=c2b3105af5c4994c3f7e7ee53c18eba2a44ef29cc50da38e242100d19e8a4f8cc82113f72d83#rd)  
 - [2025-09-19-即梦4.0里到底藏了多少东西？](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504257&idx=1&sn=4ba88d2f94e9aa22e1a1a15ca5756675&chksm=c2b3107ef5c49968e91a07bfcd81a41c0bec324e7cee57e355e3f98481013c820d0c8204c19d#rd)  
 - [2025-09-18-刚刚，DeepSeek-R1登上Nature封面](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504227&idx=1&sn=d8ea9478f5913e7a7dd76f2ce68c1055&chksm=c2b3109cf5c4998aeefe09d2585ad2c09757ea5d1343f0cccd2daafb2feb52f2882d775746b1#rd)  
 - [2025-09-16-可灵AI新版数字人实测，有点过于离谱](http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247504220&idx=1&sn=16564c368e6ab62f7293ae5d6e1706f8&chksm=c2b310a3f5c499b54e76937969a5d4d3d9ed95415f8566d1622e5e0a3e75fe1a9b76443c87f4#rd)  

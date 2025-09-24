@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-24T08:14:09.051Z</updated>
+    <updated>2025-09-24T10:10:23.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[推荐一本正在编写中的 Node.js 新书，带你深入底层工作原理！]]></title>
+        <id>http://mp.weixin.qq.com/s/l4sxoQV7wV8aMMYdr_fASw</id>
+        <link href="http://mp.weixin.qq.com/s/l4sxoQV7wV8aMMYdr_fASw"/>
+        <updated>2025-09-24T00:00:00.000Z</updated>
+        <published>2025-09-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【第3594期】拥抱新一代 Web 3D 引擎，Three.js 项目快速升级 Galacean 指南]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277508&amp;idx=1&amp;sn=c3bf6d777fa78916a2def84141deeea5&amp;chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&amp;scene=0#rd</id>
@@ -32,6 +39,13 @@
         <title type="html"><![CDATA[尤雨溪：下一代 Vite！Windows 快 29%！Mac 快 45%！]]></title>
         <id>http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw</id>
         <link href="http://mp.weixin.qq.com/s/dfJE-yVYdqaUI98HchPOqw"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <published>2025-09-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月下载2亿次的npm包遭投毒，我选择了搭建私有 npm 仓库！]]></title>
+        <id>http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA</id>
+        <link href="http://mp.weixin.qq.com/s/6jQE-kHC0Iz5Ps35nnkccA"/>
         <updated>2025-09-22T00:00:00.000Z</updated>
         <published>2025-09-22T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651277358&amp;idx=1&amp;sn=0fac7dd772b4a965a11a6814b097f2a1&amp;chksm=bc065dbaca6020fccf174736eac2ce4901cdbb4b88ad50eb428eefaed822e4980dfd626cf620&amp;scene=0#rd"/>
         <updated>2025-09-05T00:00:00.000Z</updated>
         <published>2025-09-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why browsers throttle JavaScript timers (and what to do about it)]]></title>
-        <id>https://javascriptweekly.com/issues/751</id>
-        <link href="https://javascriptweekly.com/issues/751"/>
-        <updated>2025-09-05T00:00:00.000Z</updated>
-        <published>2025-09-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新一代代码检查工具，比 ESLint 快 40 倍！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505517&amp;idx=1&amp;sn=ac57f767573b64f3824b3a4cc655203c&amp;chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247505517&amp;idx=1&amp;sn=ac57f767573b64f3824b3a4cc655203c&amp;chksm=ce45c3fcf9324aea97d8d95d6a0a155a2e29ee38ec48deb5db6962b6b16733d89dc99f2e9d04#rd"/>
-        <updated>2025-09-04T00:00:00.000Z</updated>
-        <published>2025-09-04T00:00:00.000Z</published>
     </entry>
 </feed>
