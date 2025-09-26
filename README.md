@@ -14,7 +14,7 @@
 
 [![](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml/badge.svg)](https://github.com/ChanceYu/front-end-rss/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2025-09-25 12:12:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-26 12:12:45，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -109,7 +109,9 @@
 </summary>
 
 
-- [2025-09-25-【第3595期】智能编程助手-Neovate-Code-正式开源](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277516&idx=1&sn=43110975a8b99ab39df372589f5192a2&chksm=bc91f7457346cc714b765bd530a8f80ad6d108579f3cc26881ec8860082df0d7129bf7b49aed&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-26-【早阅】Gartner-技术成熟度曲线？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=2&sn=967c3c475611680beb99a1736e0c5749&chksm=bc0fe5272e27b788c53761b913e7f81b53c37527a5508942efc3de1e107b7c0f1de025fbfd52&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-26-【第3596期】如何测试-MCP-服务器](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277525&idx=1&sn=7209045fa96c5bc1313b1770f6dbe527&chksm=bca62bcff99540aa52bdd37e8bc2aec56cef8a2c504733eb510ff38277fb289e2e3f94522082&scene=0#rd) ![](/assets/new.png)  
+- [2025-09-25-【第3595期】智能编程助手-Neovate-Code-正式开源](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277516&idx=1&sn=43110975a8b99ab39df372589f5192a2&chksm=bc91f7457346cc714b765bd530a8f80ad6d108579f3cc26881ec8860082df0d7129bf7b49aed&scene=0#rd)  
 - [2025-09-24-【第3594期】拥抱新一代-Web-3D-引擎，Three.js-项目快速升级-Galacean-指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277508&idx=1&sn=c3bf6d777fa78916a2def84141deeea5&chksm=bc435a6772de5b27066850c713fd01830189809ff74015308d7fe6c84f10df04823f9095fab9&scene=0#rd)  
 - [2025-09-23-【第3593期】OpenTiny-NEXT-内核新生：生成式UI-×-MCP，重塑前端交互新范式！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277502&idx=1&sn=3f1b59f372ca4ba48e018b4e5e14f181&chksm=bc9564998d4f25e684a7efce3c14efd68a6bcf4f484eb506d442bef5422096163d3b48a3a8b7&scene=0#rd)  
 - [2025-09-22-【第3592期】揭秘-Bolt.new-背后的技术](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277484&idx=1&sn=5feeb0f40ba2ea2d950d8445c1a1d00e&chksm=bc6f5abb264093034a87043b3ec7fcaad9ea6b77c5936b9b83a410c5f53a5551ffe9a6a9cd56&scene=0#rd)  
@@ -127,8 +129,6 @@
 - [2025-09-04-【第3582期】Node.js-Type-Stripping-背后的设计取舍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277349&idx=1&sn=f57c7d263f39196f4718219d0353faa4&chksm=bc3ef1bcce3d55cf1c05cf148d681b736846cd7ba7d6491ba93d2ee41387909606cad8245508&scene=0#rd)  
 - [2025-09-03-【第3581期】复杂-React/Next.js-应用的数据获取架构](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277342&idx=1&sn=7c99c0d1e1db3ed269271586e2998656&chksm=bc6464732f94fb72ce705df5dd4e6d3c93544cfc1f75970c782fb88e769b35fabf13399c80e3&scene=0#rd)  
 - [2025-09-02-【第3580期】Claude-Code-为什么这么好用？拆解背后的“魔法”与复刻方法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277336&idx=1&sn=745486da64a982a5c1ad68ee0dbe5aaa&chksm=bc6cd4abf6e0e37c17a67b6dbba61dbfec9a291d60686385417f7266f85045db38584ac04d16&scene=0#rd)  
-- [2025-09-01-【第3579期】OODA-循环与-Git-Worktrees：来自-AI-辅助开发的九个启示](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277328&idx=1&sn=36651ba5d2e57954793aadc84c1c434c&chksm=bc55c2f3ac82137f7afb625dc7d1b784a5a726b34ab1ce85d19ed42c713950179e35b1d494b3&scene=0#rd)  
-- [2025-08-29-【第3578期】内置-AI-Web-API设计](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651277322&idx=1&sn=ebbb13276ff892ea767867b37b6b4691&chksm=bcdb3760519b6c17fe6155d9c9517939949fda97f73252eae8740af277d0a0fe384bb9b15bb7&scene=0#rd)  
 - [查看更多 >](/details/前端早读课.md)
 
 <div align="right"><a href="#文章来源">⬆&nbsp;返回顶部</a></div>
