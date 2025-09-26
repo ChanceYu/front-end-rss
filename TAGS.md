@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-26 20:18:40。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-26 22:12:47。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -333,6 +333,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)
 - [【JavaScript-Weekly】Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)
 - [【JavaScript-Weekly】The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)
 - [【JavaScript-Weekly】How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)
 - [【JavaScript-Weekly】The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)
 - [【JavaScript-Weekly】Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)
-- [【JavaScript-Weekly】The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)
 - [查看更多 >](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆&nbsp;返回顶部</a></div>
