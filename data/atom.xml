@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-26T06:15:32.578Z</updated>
+    <updated>2025-09-26T12:18:40.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
+        <id>http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg</id>
+        <link href="http://mp.weixin.qq.com/s/BPedXf-os1yz3LwsJNfSxg"/>
+        <updated>2025-09-25T00:00:00.000Z</updated>
+        <published>2025-09-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尤雨溪宣布 Vite 8 即将发布！完全由 Rolldown 提供支持！]]></title>
         <id>http://mp.weixin.qq.com/s/4hueovVuqDKkvTrFukWGlQ</id>
@@ -356,12 +363,5 @@
         <link href="http://mp.weixin.qq.com/s/uCbEeWjY4lbZJTM7XVUqIA"/>
         <updated>2025-09-06T00:00:00.000Z</updated>
         <published>2025-09-06T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@function自定义函数让CSS支持编程啦]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/"/>
-        <updated>2025-09-05T00:00:00.000Z</updated>
-        <published>2025-09-05T00:00:00.000Z</published>
     </entry>
 </feed>
