@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fed.chanceyu.com/atom.xml</id>
     <title>前端技术文章 - front-end-rss | by ChanceYu</title>
-    <updated>2025-09-27T02:21:57.817Z</updated>
+    <updated>2025-09-27T16:11:34.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>ChanceYu</name>
@@ -14,6 +14,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://fed.chanceyu.com/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by ChaneYu</rights>
+    <entry>
+        <title type="html"><![CDATA[历经4个月，基于 Tiptap 和 NestJs 打造一款 AI 驱动的智能文档协作平台]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527946&amp;idx=1&amp;sn=8f1a01100cacd826316285c0d20f2ceb&amp;chksm=f99268dbcee5e1cde56d93df1647af188771f86e8c80d253e82d74ae1c52bb0fed672ec13e22#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527946&amp;idx=1&amp;sn=8f1a01100cacd826316285c0d20f2ceb&amp;chksm=f99268dbcee5e1cde56d93df1647af188771f86e8c80d253e82d74ae1c52bb0fed672ec13e22#rd"/>
+        <updated>2025-09-26T00:00:00.000Z</updated>
+        <published>2025-09-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tailwindcss 究竟比 unocss 快多少？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623123&amp;idx=1&amp;sn=ed984e9d1a2f555dbfb46a43af37cdc7&amp;chksm=80225912b755d004c1033bfadb30bb2eae70daa81049bdefcf901201fb95a94560e8d00491af#rd</id>
@@ -27,6 +34,13 @@
         <link href="https://javascriptweekly.com/issues/754"/>
         <updated>2025-09-26T00:00:00.000Z</updated>
         <published>2025-09-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次HTTP强缓存失效引发的浏览器缓存键深度探索]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527898&amp;idx=2&amp;sn=125b1aabd28a37a34cf9763c6978f13c&amp;chksm=f9926b0bcee5e21de4c7ba3263d0130268a5e6898bbb3a17344016fc5932c026314c10cf4318#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247527898&amp;idx=2&amp;sn=125b1aabd28a37a34cf9763c6978f13c&amp;chksm=f9926b0bcee5e21de4c7ba3263d0130268a5e6898bbb3a17344016fc5932c026314c10cf4318#rd"/>
+        <updated>2025-09-25T00:00:00.000Z</updated>
+        <published>2025-09-25T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[前端面试题，包括JS/CSS/Vue/React/小程序/Nodejs/TS/Wepack/Http/算法/设计模式]]></title>
@@ -141,16 +155,16 @@
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
-        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
-        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
+        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
+        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
+        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的浏览器下雨了进水了]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651623053&amp;idx=1&amp;sn=db6d9571c96d35fb66f032afb2b0fb8b&amp;chksm=8022594cb755d05abaef3e67903af7995da55e82040f1e41238c41c12ce2280870350b758ece#rd"/>
+        <title type="html"><![CDATA[“领导趁我下班后偷看电脑，发现有git拉的代码，说我干私活要开除。。。辛苦一个月，天天加班，1.2万工资最后扣到4900”]]></title>
+        <id>http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg</id>
+        <link href="http://mp.weixin.qq.com/s/6QyEDQin2RH87nKxH764Vg"/>
         <updated>2025-09-18T00:00:00.000Z</updated>
         <published>2025-09-18T00:00:00.000Z</published>
     </entry>
@@ -349,19 +363,5 @@
         <link href="https://nodeweekly.com/issues/592"/>
         <updated>2025-09-09T00:00:00.000Z</updated>
         <published>2025-09-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年了，Vite+Vue3 微前端该用啥方案？5 大主流方案实战对比]]></title>
-        <id>http://mp.weixin.qq.com/s/g2jP2Q_FptCIeiDNywJDwQ</id>
-        <link href="http://mp.weixin.qq.com/s/g2jP2Q_FptCIeiDNywJDwQ"/>
-        <updated>2025-09-08T00:00:00.000Z</updated>
-        <published>2025-09-08T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebRTC实现网页直播]]></title>
-        <id>http://mp.weixin.qq.com/s/uA7BofPS-sT0yNMrhjWRfg</id>
-        <link href="http://mp.weixin.qq.com/s/uA7BofPS-sT0yNMrhjWRfg"/>
-        <updated>2025-09-08T00:00:00.000Z</updated>
-        <published>2025-09-08T00:00:00.000Z</published>
     </entry>
 </feed>
